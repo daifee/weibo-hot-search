@@ -1,7 +1,15 @@
 {
   "startTime": 1726849656112,
-  "endTime": 1726925724412,
+  "endTime": 1726928309892,
   "band_list": [
+    {
+      "raw_hot": 13010415,
+      "num": 13010415,
+      "word": "赵丽颖飞天奖视后",
+      "onboard_time": 1726925783,
+      "rank": 0,
+      "category": "剧集"
+    },
     {
       "raw_hot": 6135283,
       "num": 6135283,
@@ -27,12 +35,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 4119330,
+      "num": 1967820,
+      "word": "赵丽颖哭了",
+      "onboard_time": 1726927647,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 3095680,
+      "num": 3095680,
+      "word": "雷佳音飞天奖视帝",
+      "onboard_time": 1726926626,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 2429331,
       "num": 756990,
       "word": "高空抛大便砸中1楼警方测全楼DNA",
       "onboard_time": 1726845861,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2377074,
+      "num": 2377074,
+      "word": "刘琳好可惜",
+      "onboard_time": 1726926867,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 2299665,
@@ -52,7 +84,7 @@
     },
     {
       "raw_hot": 2127754,
-      "num": 2127754,
+      "num": 4216448,
       "word": "25岁72岁62岁三人CT片几乎一样",
       "onboard_time": 1726916540,
       "rank": 32,
@@ -75,12 +107,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2010160,
+      "num": 317190,
+      "word": "胡歌陪跑",
+      "onboard_time": 1726927467,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1796640,
       "num": 1305174,
       "word": "1岁男童腹中竟有个小宝宝",
       "onboard_time": 1726905140,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1778330,
+      "num": 314459,
+      "word": "殷桃 没提名",
+      "onboard_time": 1726927107,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 1658131,
@@ -97,6 +145,14 @@
       "onboard_time": 1726903579,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1534107,
+      "num": 288556,
+      "word": "85花格局大变",
+      "onboard_time": 1726927947,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 1526226,
@@ -128,6 +184,14 @@
       "word": "飞天奖主持人好尬",
       "onboard_time": 1726921699,
       "rank": 30,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 1308401,
+      "num": 287738,
+      "word": "飞天视后竞争太激烈了",
+      "onboard_time": 1726926324,
+      "rank": 21,
       "category": "剧集"
     },
     {
@@ -379,20 +443,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 721221,
+      "num": 595861,
+      "word": "韩安冉回应亲生妈妈当小三",
+      "onboard_time": 1726924400,
+      "rank": 25,
+      "category": "网红"
+    },
+    {
       "raw_hot": 718180,
       "num": 718180,
       "word": "微信好友添加时间",
       "onboard_time": 1726826359,
       "rank": 6,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 712096,
-      "num": 595861,
-      "word": "韩安冉回应亲生妈妈当小三",
-      "onboard_time": 1726924400,
-      "rank": 25,
-      "category": "网红"
     },
     {
       "raw_hot": 703796,
@@ -481,6 +545,14 @@
       "onboard_time": 1726922301,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 570651,
+      "num": 284581,
+      "word": "雷佳音视帝大满贯",
+      "onboard_time": 1726927286,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 549091,
@@ -659,6 +731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 430478,
+      "num": 282573,
+      "word": "李庚希提名视后",
+      "onboard_time": 1726927827,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 426889,
       "num": 404562,
       "word": "半个娱乐圈的人来厦门了",
@@ -811,6 +891,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 343601,
+      "num": 277614,
+      "word": "赵露思致敬律政俏佳人",
+      "onboard_time": 1726925783,
+      "rank": 32,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 340933,
       "num": 340933,
       "word": "为了live图把微信卸载聊天记录没了",
@@ -907,6 +995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 324464,
+      "num": 324464,
+      "word": "第34届飞天奖获奖名单",
+      "onboard_time": 1726927406,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 321332,
       "num": 321332,
       "word": "Scout发文回应",
@@ -953,6 +1049,14 @@
       "onboard_time": 1726879997,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 295857,
+      "num": 295857,
+      "word": "第五人格",
+      "onboard_time": 1726927286,
+      "rank": 12,
+      "category": "游戏"
     },
     {
       "raw_hot": 293729,
@@ -1033,6 +1137,14 @@
       "onboard_time": 1726890442,
       "rank": 24,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 270792,
+      "num": 270792,
+      "word": "猴子真来找王一博了",
+      "onboard_time": 1726926387,
+      "rank": 35,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 269980,
@@ -1235,6 +1347,22 @@
       "category": "教育"
     },
     {
+      "raw_hot": 225061,
+      "num": 225061,
+      "word": "谭松韵去了周深鸟巢演唱会",
+      "onboard_time": 1726927947,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 221889,
+      "num": 294884,
+      "word": "驻日美军违规驾驶撞死1名日本人",
+      "onboard_time": 1726926324,
+      "rank": 14,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 220606,
       "num": 220606,
       "word": "尹锡悦发文感谢韩国夫妻生下5胞胎",
@@ -1260,7 +1388,7 @@
     },
     {
       "raw_hot": 218065,
-      "num": 218065,
+      "num": 279918,
       "word": "网红杯鼻祖宣布破产了",
       "onboard_time": 1726924882,
       "rank": 39,
@@ -1292,7 +1420,7 @@
     },
     {
       "raw_hot": 214042,
-      "num": 214042,
+      "num": 290886,
       "word": "WTT中国大满贯参赛全阵容",
       "onboard_time": 1726923021,
       "rank": 47,
@@ -1379,6 +1507,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 204913,
+      "num": 292460,
+      "word": "上海申花vs天津津门虎",
+      "onboard_time": 1726926927,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 204580,
       "num": 204580,
       "word": "半熟男女",
@@ -1393,6 +1529,14 @@
       "onboard_time": 1726907179,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 202578,
+      "num": 281001,
+      "word": "3岁幼儿园小朋友能有多自律",
+      "onboard_time": 1726925122,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 201846,
@@ -1828,7 +1972,7 @@
     },
     {
       "raw_hot": 158943,
-      "num": 158943,
+      "num": 268915,
       "word": "姑娘奶茶只喝三分甜牙齿严重酸蚀",
       "onboard_time": 1726923742,
       "rank": 46,
@@ -2027,6 +2171,14 @@
       "category": "国外时政,军事"
     },
     {
+      "raw_hot": 142281,
+      "num": 293581,
+      "word": "献给每一个追光的你",
+      "onboard_time": 1726927226,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 142185,
       "num": 142185,
       "word": "一秒入秋的正确打开方式",
@@ -2041,6 +2193,14 @@
       "onboard_time": 1726832000,
       "rank": 30,
       "category": "网红"
+    },
+    {
+      "raw_hot": 141789,
+      "num": 299323,
+      "word": "男子买星巴克月饼券无法提货",
+      "onboard_time": 1726924162,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 141749,
@@ -2073,14 +2233,6 @@
       "onboard_time": 1726894639,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 139427,
-      "num": 139427,
-      "word": "3岁幼儿园小朋友能有多自律",
-      "onboard_time": 1726925122,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 139268,
@@ -2129,6 +2281,14 @@
       "onboard_time": 1726909279,
       "rank": 34,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 137017,
+      "num": 210630,
+      "word": "潘展乐陈梦奥运会后再同框",
+      "onboard_time": 1726926265,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 135958,
@@ -2443,6 +2603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 111585,
+      "num": 210412,
+      "word": "欧文 沈阳",
+      "onboard_time": 1726926446,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 111042,
       "num": 111042,
       "word": "斗破苍穹",
@@ -2571,6 +2739,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 75790,
+      "num": 3126598,
+      "word": "南开两任校长跨越105年的相遇",
+      "onboard_time": 1726923742,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 75667,
       "num": 312978,
       "word": "周震南红发直播",
@@ -2593,14 +2769,6 @@
       "onboard_time": 1726900101,
       "rank": 17,
       "category": "电影"
-    },
-    {
-      "raw_hot": 73635,
-      "num": 1374734,
-      "word": "南开两任校长跨越105年的相遇",
-      "onboard_time": 1726923742,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 69020,
@@ -2731,14 +2899,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 50675,
-      "num": 299323,
-      "word": "男子买星巴克月饼券无法提货",
-      "onboard_time": 1726924162,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 49477,
       "num": 378591,
       "word": "卫昭江慈手影传情",
@@ -2795,6 +2955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 42249,
+      "num": 391411,
+      "word": "猫人把秀场搬到了长城上",
+      "onboard_time": 1726923861,
+      "rank": 16,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 40767,
       "num": 40767,
       "word": "檀健次有粉丝话是真听",
@@ -2817,14 +2985,6 @@
       "onboard_time": 1726922780,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 38860,
-      "num": 391411,
-      "word": "猫人把秀场搬到了长城上",
-      "onboard_time": 1726923861,
-      "rank": 16,
-      "category": "幽默"
     },
     {
       "raw_hot": 38839,
@@ -2931,6 +3091,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 32947,
+      "num": 263652,
+      "word": "孙策最符合人设的一集",
+      "onboard_time": 1726927827,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 32751,
       "num": 410748,
       "word": "成年人该如何开口说分手",
@@ -3003,12 +3171,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 28917,
+      "num": 266669,
+      "word": "周雨彤新剧1分钟情绪转变",
+      "onboard_time": 1726922420,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 28640,
       "num": 33951,
       "word": "余华说喜欢人类幼崽但从来不催婚",
       "onboard_time": 1726865351,
       "rank": 34,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 28321,
+      "num": 278665,
+      "word": "李宁秀款设计灵感来自瓷器",
+      "onboard_time": 1726923801,
+      "rank": 27,
+      "category": "时尚"
     },
     {
       "raw_hot": 28173,
@@ -3131,14 +3315,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 20030,
-      "num": 267682,
-      "word": "李宁秀款设计灵感来自瓷器",
-      "onboard_time": 1726923801,
-      "rank": 27,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 19549,
       "num": 306516,
       "word": "李宁大秀选址地图",
@@ -3169,6 +3345,14 @@
       "onboard_time": 1726889120,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 13029,
+      "num": 324169,
+      "word": "任嘉伦对徐正溪说你在我心里很重要",
+      "onboard_time": 1726928006,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 11666,

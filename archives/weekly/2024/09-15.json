@@ -1,6 +1,6 @@
 {
   "startTime": 1726331122375,
-  "endTime": 1726925724412,
+  "endTime": 1726928309892,
   "band_list": [
     {
       "raw_hot": 28035334,
@@ -25,6 +25,14 @@
       "onboard_time": 1726728865,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 13010415,
+      "num": 13010415,
+      "word": "赵丽颖飞天奖视后",
+      "onboard_time": 1726925783,
+      "rank": 0,
+      "category": "剧集"
     },
     {
       "raw_hot": 8853103,
@@ -115,6 +123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 4119330,
+      "num": 1967820,
+      "word": "赵丽颖哭了",
+      "onboard_time": 1726927647,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 3500906,
       "num": 484877,
       "word": "湖南省财政厅厅长刘文杰意外去世",
@@ -129,6 +145,14 @@
       "onboard_time": 1726532656,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 3095680,
+      "num": 3095680,
+      "word": "雷佳音飞天奖视帝",
+      "onboard_time": 1726926626,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 3008475,
@@ -275,6 +299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2377074,
+      "num": 2377074,
+      "word": "刘琳好可惜",
+      "onboard_time": 1726926867,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 2365467,
       "num": 2365467,
       "word": "918鸣笛",
@@ -388,7 +420,7 @@
     },
     {
       "raw_hot": 2127754,
-      "num": 2127754,
+      "num": 4216448,
       "word": "25岁72岁62岁三人CT片几乎一样",
       "onboard_time": 1726916540,
       "rank": 32,
@@ -449,6 +481,14 @@
       "onboard_time": 1726910660,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2010160,
+      "num": 317190,
+      "word": "胡歌陪跑",
+      "onboard_time": 1726927467,
+      "rank": 10,
+      "category": "剧集"
     },
     {
       "raw_hot": 2000157,
@@ -600,6 +640,14 @@
       "word": "张翰朴敏英9年前的剧播了",
       "onboard_time": 1726667001,
       "rank": 1,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 1778330,
+      "num": 314459,
+      "word": "殷桃 没提名",
+      "onboard_time": 1726927107,
+      "rank": 11,
       "category": "剧集"
     },
     {
@@ -825,6 +873,14 @@
       "onboard_time": 1726718962,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1534107,
+      "num": 288556,
+      "word": "85花格局大变",
+      "onboard_time": 1726927947,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 1532096,
@@ -1176,6 +1232,14 @@
       "word": "还我李肆",
       "onboard_time": 1726830258,
       "rank": 22,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 1308401,
+      "num": 287738,
+      "word": "飞天视后竞争太激烈了",
+      "onboard_time": 1726926324,
+      "rank": 21,
       "category": "剧集"
     },
     {
@@ -2787,6 +2851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 721221,
+      "num": 595861,
+      "word": "韩安冉回应亲生妈妈当小三",
+      "onboard_time": 1726924400,
+      "rank": 25,
+      "category": "网红"
+    },
+    {
       "raw_hot": 721148,
       "num": 426947,
       "word": "女子称地铁上遭男子猥亵对方裤子湿了",
@@ -2809,14 +2881,6 @@
       "onboard_time": 1726838539,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 712096,
-      "num": 595861,
-      "word": "韩安冉回应亲生妈妈当小三",
-      "onboard_time": 1726924400,
-      "rank": 25,
-      "category": "网红"
     },
     {
       "raw_hot": 710971,
@@ -3697,6 +3761,14 @@
       "onboard_time": 1726799059,
       "rank": 16,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 570651,
+      "num": 284581,
+      "word": "雷佳音视帝大满贯",
+      "onboard_time": 1726927286,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 569671,
@@ -4915,6 +4987,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 430478,
+      "num": 282573,
+      "word": "李庚希提名视后",
+      "onboard_time": 1726927827,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 430107,
       "num": 430107,
       "word": "WTT中国大满贯外卡名单公布",
@@ -6019,6 +6099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 343601,
+      "num": 277614,
+      "word": "赵露思致敬律政俏佳人",
+      "onboard_time": 1726925783,
+      "rank": 32,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 342216,
       "num": 342216,
       "word": "外网爆Yagao审批通过",
@@ -6361,6 +6449,14 @@
       "onboard_time": 1726586061,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 324464,
+      "num": 324464,
+      "word": "第34届飞天奖获奖名单",
+      "onboard_time": 1726927406,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 324452,
@@ -6923,6 +7019,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 295857,
+      "num": 295857,
+      "word": "第五人格",
+      "onboard_time": 1726389379,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 295061,
       "num": 295061,
       "word": "唐山打人案被判刑民警申诉听证会",
@@ -7473,6 +7577,14 @@
       "onboard_time": 1726890442,
       "rank": 24,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 270792,
+      "num": 270792,
+      "word": "猴子真来找王一博了",
+      "onboard_time": 1726926387,
+      "rank": 35,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 270347,
@@ -9051,6 +9163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 225061,
+      "num": 225061,
+      "word": "谭松韵去了周深鸟巢演唱会",
+      "onboard_time": 1726927947,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
       "raw_hot": 224621,
       "num": 224621,
       "word": "今日中秋愿月光所至万事胜意",
@@ -9105,6 +9225,14 @@
       "onboard_time": 1726791560,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 221889,
+      "num": 294884,
+      "word": "驻日美军违规驾驶撞死1名日本人",
+      "onboard_time": 1726926324,
+      "rank": 14,
+      "category": "国外时政"
     },
     {
       "raw_hot": 221459,
@@ -9268,7 +9396,7 @@
     },
     {
       "raw_hot": 218065,
-      "num": 218065,
+      "num": 279918,
       "word": "网红杯鼻祖宣布破产了",
       "onboard_time": 1726924882,
       "rank": 39,
@@ -9436,7 +9564,7 @@
     },
     {
       "raw_hot": 214042,
-      "num": 214042,
+      "num": 290886,
       "word": "WTT中国大满贯参赛全阵容",
       "onboard_time": 1726923021,
       "rank": 47,
@@ -9955,6 +10083,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 204913,
+      "num": 292460,
+      "word": "上海申花vs天津津门虎",
+      "onboard_time": 1726926927,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 204874,
       "num": 204874,
       "word": "米兰时装周",
@@ -10153,6 +10289,14 @@
       "onboard_time": 1726657880,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 202578,
+      "num": 281001,
+      "word": "3岁幼儿园小朋友能有多自律",
+      "onboard_time": 1726925122,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 202543,
@@ -10721,14 +10865,6 @@
       "onboard_time": 1726663884,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 195220,
-      "num": 195220,
-      "word": "第五人格",
-      "onboard_time": 1726389379,
-      "rank": 30,
-      "category": "游戏"
     },
     {
       "raw_hot": 195207,
@@ -13316,7 +13452,7 @@
     },
     {
       "raw_hot": 158943,
-      "num": 158943,
+      "num": 268915,
       "word": "姑娘奶茶只喝三分甜牙齿严重酸蚀",
       "onboard_time": 1726923742,
       "rank": 46,
@@ -14611,6 +14747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 142281,
+      "num": 293581,
+      "word": "献给每一个追光的你",
+      "onboard_time": 1726927226,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 142187,
       "num": 151367,
       "word": "金泰亨新合照",
@@ -14633,6 +14777,14 @@
       "onboard_time": 1726737384,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 141789,
+      "num": 299323,
+      "word": "男子买星巴克月饼券无法提货",
+      "onboard_time": 1726924162,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 141749,
@@ -14817,14 +14969,6 @@
       "onboard_time": 1726817602,
       "rank": 45,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 139427,
-      "num": 139427,
-      "word": "3岁幼儿园小朋友能有多自律",
-      "onboard_time": 1726925122,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 139268,
@@ -15057,6 +15201,14 @@
       "onboard_time": 1726476619,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 137017,
+      "num": 210630,
+      "word": "潘展乐陈梦奥运会后再同框",
+      "onboard_time": 1726926265,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 136927,
@@ -16611,6 +16763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 111585,
+      "num": 210412,
+      "word": "欧文 沈阳",
+      "onboard_time": 1726926446,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 111042,
       "num": 111042,
       "word": "斗破苍穹",
@@ -17667,6 +17827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 75790,
+      "num": 3126598,
+      "word": "南开两任校长跨越105年的相遇",
+      "onboard_time": 1726923742,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 75667,
       "num": 312978,
       "word": "周震南红发直播",
@@ -17769,14 +17937,6 @@
       "onboard_time": 1726743982,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 73635,
-      "num": 1374734,
-      "word": "南开两任校长跨越105年的相遇",
-      "onboard_time": 1726923742,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 73157,
@@ -18643,14 +18803,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 50675,
-      "num": 299323,
-      "word": "男子买星巴克月饼券无法提货",
-      "onboard_time": 1726924162,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 50622,
       "num": 234780,
       "word": "黄晓明爱情观",
@@ -19131,6 +19283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 42249,
+      "num": 391411,
+      "word": "猫人把秀场搬到了长城上",
+      "onboard_time": 1726923861,
+      "rank": 16,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 41998,
       "num": 410770,
       "word": "唐嫣同款包包",
@@ -19337,14 +19497,6 @@
       "onboard_time": 1726837460,
       "rank": 15,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 38860,
-      "num": 391411,
-      "word": "猫人把秀场搬到了长城上",
-      "onboard_time": 1726923861,
-      "rank": 16,
-      "category": "幽默"
     },
     {
       "raw_hot": 38844,
@@ -19859,6 +20011,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 32947,
+      "num": 263652,
+      "word": "孙策最符合人设的一集",
+      "onboard_time": 1726927827,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 32944,
       "num": 32944,
       "word": "汪苏泷2024十万伏特巡回演唱会",
@@ -20219,6 +20379,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 28917,
+      "num": 266669,
+      "word": "周雨彤新剧1分钟情绪转变",
+      "onboard_time": 1726922420,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 28876,
       "num": 725652,
       "word": "00后分享一周养生食谱竟都是处方药",
@@ -20297,6 +20465,14 @@
       "onboard_time": 1726843041,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 28321,
+      "num": 278665,
+      "word": "李宁秀款设计灵感来自瓷器",
+      "onboard_time": 1726923801,
+      "rank": 27,
+      "category": "时尚"
     },
     {
       "raw_hot": 28295,
@@ -20755,14 +20931,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 20030,
-      "num": 267682,
-      "word": "李宁秀款设计灵感来自瓷器",
-      "onboard_time": 1726923801,
-      "rank": 27,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 19639,
       "num": 20429,
       "word": "RTK",
@@ -20985,6 +21153,14 @@
       "onboard_time": 1726511293,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 13029,
+      "num": 324169,
+      "word": "任嘉伦对徐正溪说你在我心里很重要",
+      "onboard_time": 1726928006,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 12348,

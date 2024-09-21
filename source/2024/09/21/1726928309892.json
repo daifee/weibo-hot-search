@@ -1,0 +1,410 @@
+{
+  "runTime": 1726928309892,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 13010415,
+        "num": 13010415,
+        "word": "赵丽颖飞天奖视后",
+        "onboard_time": 1726925783,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 798766,
+        "num": 4216448,
+        "word": "25岁72岁62岁三人CT片几乎一样",
+        "onboard_time": 1726916540,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 75790,
+        "num": 3126598,
+        "word": "南开两任校长跨越105年的相遇",
+        "onboard_time": 1726923742,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3095680,
+        "num": 3095680,
+        "word": "雷佳音飞天奖视帝",
+        "onboard_time": 1726926626,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 2377074,
+        "num": 2377074,
+        "word": "刘琳好可惜",
+        "onboard_time": 1726926867,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 4119330,
+        "num": 1967820,
+        "word": "赵丽颖哭了",
+        "onboard_time": 1726927647,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 415435,
+        "num": 415435,
+        "word": "24岁物理学硕士拟获录用中学勤杂工",
+        "onboard_time": 1726920623,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 324464,
+        "num": 324464,
+        "word": "第34届飞天奖获奖名单",
+        "onboard_time": 1726927406,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 13029,
+        "num": 324169,
+        "word": "任嘉伦对徐正溪说你在我心里很重要",
+        "onboard_time": 1726928006,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 324151,
+        "num": 324151,
+        "word": "管培生因未参加公司跑步活动被辞退",
+        "onboard_time": 1726918881,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2010160,
+        "num": 317190,
+        "word": "胡歌陪跑",
+        "onboard_time": 1726927467,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1778330,
+        "num": 314459,
+        "word": "殷桃 没提名",
+        "onboard_time": 1726927107,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 295857,
+        "num": 295857,
+        "word": "第五人格",
+        "onboard_time": 1726927286,
+        "rank": 12,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 233158,
+        "num": 295636,
+        "word": "女子美甲后指甲变绿全甲被拔除",
+        "onboard_time": 1726909759,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221889,
+        "num": 294884,
+        "word": "驻日美军违规驾驶撞死1名日本人",
+        "onboard_time": 1726926324,
+        "rank": 14,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 142281,
+        "num": 293581,
+        "word": "献给每一个追光的你",
+        "onboard_time": 1726927226,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204913,
+        "num": 292460,
+        "word": "上海申花vs天津津门虎",
+        "onboard_time": 1726926927,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 42249,
+        "num": 291745,
+        "word": "猫人把秀场搬到了长城上",
+        "onboard_time": 1726923861,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 202688,
+        "num": 290886,
+        "word": "WTT中国大满贯参赛全阵容",
+        "onboard_time": 1726923021,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 195877,
+        "num": 289553,
+        "word": "新余39死特别重大火灾事故调查报告",
+        "onboard_time": 1726910660,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1534107,
+        "num": 288556,
+        "word": "85花格局大变",
+        "onboard_time": 1726927947,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1308401,
+        "num": 287738,
+        "word": "飞天视后竞争太激烈了",
+        "onboard_time": 1726926324,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 721221,
+        "num": 286843,
+        "word": "韩安冉回应亲生妈妈当小三",
+        "onboard_time": 1726924400,
+        "rank": 22,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 628258,
+        "num": 285615,
+        "word": "1岁男童腹中竟有个小宝宝",
+        "onboard_time": 1726905140,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 570651,
+        "num": 284581,
+        "word": "雷佳音视帝大满贯",
+        "onboard_time": 1726927286,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 516738,
+        "num": 284114,
+        "word": "易烊千玺在评论区为王俊凯庆生",
+        "onboard_time": 1726916301,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 511828,
+        "num": 283362,
+        "word": "飞天奖提名",
+        "onboard_time": 1726919841,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 430478,
+        "num": 282573,
+        "word": "李庚希提名视后",
+        "onboard_time": 1726927827,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 202578,
+        "num": 281001,
+        "word": "3岁幼儿园小朋友能有多自律",
+        "onboard_time": 1726925122,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 185621,
+        "num": 279918,
+        "word": "网红杯鼻祖宣布破产了",
+        "onboard_time": 1726924882,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 422857,
+        "num": 279112,
+        "word": "黄晓明 叶珂",
+        "onboard_time": 1726896440,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28321,
+        "num": 278665,
+        "word": "李宁秀款设计灵感来自瓷器",
+        "onboard_time": 1726923801,
+        "rank": 31,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 343601,
+        "num": 277614,
+        "word": "赵露思致敬律政俏佳人",
+        "onboard_time": 1726925783,
+        "rank": 32,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 332529,
+        "num": 276164,
+        "word": "朴春瘦了好多",
+        "onboard_time": 1726922301,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 275963,
+        "num": 275963,
+        "word": "陈乔恩坐Alan腿上拍照",
+        "onboard_time": 1726922541,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 270792,
+        "num": 270792,
+        "word": "猴子真来找王一博了",
+        "onboard_time": 1726926387,
+        "rank": 35,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 163118,
+        "num": 270007,
+        "word": "老人离世老伴拿出6份遗嘱均被判无效",
+        "onboard_time": 1726914980,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153537,
+        "num": 268915,
+        "word": "姑娘奶茶只喝三分甜牙齿严重酸蚀",
+        "onboard_time": 1726923742,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28917,
+        "num": 266669,
+        "word": "周雨彤新剧1分钟情绪转变",
+        "onboard_time": 1726922420,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141789,
+        "num": 266129,
+        "word": "男子买星巴克月饼券无法提货",
+        "onboard_time": 1726924162,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32947,
+        "num": 263652,
+        "word": "孙策最符合人设的一集",
+        "onboard_time": 1726927827,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 263044,
+        "num": 263044,
+        "word": "王俊凯25岁第一天从清理库存开始",
+        "onboard_time": 1726905080,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 225061,
+        "num": 225061,
+        "word": "谭松韵去了周深鸟巢演唱会",
+        "onboard_time": 1726927947,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 210677,
+        "num": 210677,
+        "word": "黄晓明曾为叶珂包场庆生",
+        "onboard_time": 1726911800,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137017,
+        "num": 210630,
+        "word": "潘展乐陈梦奥运会后再同框",
+        "onboard_time": 1726926265,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 315680,
+        "num": 210606,
+        "word": "飞天奖",
+        "onboard_time": 1726880601,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130226,
+        "num": 210544,
+        "word": "女子腿绑4瓶茅台入境被查",
+        "onboard_time": 1726915220,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121704,
+        "num": 210475,
+        "word": "时空中的绘旅人 第五人格",
+        "onboard_time": 1726919540,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 114669,
+        "num": 210466,
+        "word": "法考卷二",
+        "onboard_time": 1726911800,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 111585,
+        "num": 210412,
+        "word": "欧文 沈阳",
+        "onboard_time": 1726926446,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动农业增效益农民增收入农村增活力#"
+    }
+  }
+}
