@@ -1,6 +1,6 @@
 {
   "startTime": 1726849656112,
-  "endTime": 1726903178449,
+  "endTime": 1726904117522,
   "band_list": [
     {
       "raw_hot": 6135283,
@@ -51,6 +51,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1526226,
+      "num": 670403,
+      "word": "赵丽颖在张碧晨家厕所睡过觉",
+      "onboard_time": 1726902860,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1425012,
       "num": 924677,
       "word": "蔡徐坤抱了赵露思的狗",
@@ -75,8 +83,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1220513,
-      "num": 1220513,
+      "raw_hot": 1231642,
+      "num": 1231642,
       "word": "老人痛诉全身只有20元赌什么博",
       "onboard_time": 1726898059,
       "rank": 15,
@@ -169,14 +177,6 @@
       "onboard_time": 1726888401,
       "rank": 12,
       "category": "教育"
-    },
-    {
-      "raw_hot": 784300,
-      "num": 399242,
-      "word": "赵丽颖在张碧晨家厕所睡过觉",
-      "onboard_time": 1726902860,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 761395,
@@ -323,6 +323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 458859,
+      "num": 383348,
+      "word": "杨紫 生命树",
+      "onboard_time": 1726902440,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 455687,
       "num": 455687,
       "word": "台风普拉桑原地掉头",
@@ -337,6 +345,14 @@
       "onboard_time": 1726885938,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 443855,
+      "num": 392657,
+      "word": "杨超越娱乐圈最好的朋友是黄明昊",
+      "onboard_time": 1726901600,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 426889,
@@ -369,14 +385,6 @@
       "onboard_time": 1726847719,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 392657,
-      "num": 392657,
-      "word": "杨超越娱乐圈最好的朋友是黄明昊",
-      "onboard_time": 1726901600,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 390315,
@@ -603,12 +611,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 269980,
+      "num": 269980,
+      "word": "结婚后多少人敢空着手回娘家",
+      "onboard_time": 1726900698,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 268647,
       "num": 268647,
       "word": "戚薇米兰生图",
       "onboard_time": 1726885460,
       "rank": 17,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 266590,
+      "num": 266590,
+      "word": "黄轩首次晒与女友视频",
+      "onboard_time": 1726901959,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 265583,
@@ -633,6 +657,14 @@
       "onboard_time": 1726844840,
       "rank": 19,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 253533,
+      "num": 253533,
+      "word": "时代少年团李宁大秀",
+      "onboard_time": 1726902620,
+      "rank": 29,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 251205,
@@ -739,20 +771,20 @@
       "category": "社会新闻,国外时政"
     },
     {
-      "raw_hot": 229740,
-      "num": 229740,
-      "word": "结婚后多少人敢空着手回娘家",
-      "onboard_time": 1726900698,
-      "rank": 25,
-      "category": "情感"
+      "raw_hot": 228765,
+      "num": 228765,
+      "word": "韩国诞生首例自然受孕5胞胎",
+      "onboard_time": 1726901299,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
-      "raw_hot": 226491,
-      "num": 226491,
-      "word": "杨紫 生命树",
-      "onboard_time": 1726902440,
-      "rank": 28,
-      "category": "剧集"
+      "raw_hot": 227028,
+      "num": 227028,
+      "word": "男子凌晨4点散步失足坠海",
+      "onboard_time": 1726900998,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 225223,
@@ -761,6 +793,14 @@
       "onboard_time": 1726894999,
       "rank": 29,
       "category": "教育"
+    },
+    {
+      "raw_hot": 220606,
+      "num": 220606,
+      "word": "尹锡悦发文感谢韩国夫妻生下5胞胎",
+      "onboard_time": 1726900998,
+      "rank": 33,
+      "category": "国外时政"
     },
     {
       "raw_hot": 220054,
@@ -779,19 +819,19 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 217261,
+      "num": 217261,
+      "word": "计算机二级 PPT",
+      "onboard_time": 1726902379,
+      "rank": 30,
+      "category": "教育,互联网"
+    },
+    {
       "raw_hot": 215691,
       "num": 215691,
       "word": "Hanni露背装",
       "onboard_time": 1726846040,
       "rank": 20,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 214810,
-      "num": 214810,
-      "word": "时代少年团李宁大秀",
-      "onboard_time": 1726902620,
-      "rank": 29,
       "category": "作品衍生"
     },
     {
@@ -801,6 +841,14 @@
       "onboard_time": 1726890500,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 213579,
+      "num": 213579,
+      "word": "女生买模型被教官查房一眼发现",
+      "onboard_time": 1726902800,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 212851,
@@ -859,14 +907,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 204140,
-      "num": 204140,
-      "word": "计算机二级 PPT",
-      "onboard_time": 1726902379,
-      "rank": 30,
-      "category": "教育,互联网"
-    },
-    {
       "raw_hot": 199738,
       "num": 199738,
       "word": "王者荣耀",
@@ -883,12 +923,12 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 196282,
-      "num": 196282,
-      "word": "男子凌晨4点散步失足坠海",
-      "onboard_time": 1726900998,
-      "rank": 31,
-      "category": "社会新闻"
+      "raw_hot": 195944,
+      "num": 195944,
+      "word": "新疆葡萄干不是晒出来而是晾出来的",
+      "onboard_time": 1726898961,
+      "rank": 44,
+      "category": "美食"
     },
     {
       "raw_hot": 194230,
@@ -897,14 +937,6 @@
       "onboard_time": 1726843342,
       "rank": 21,
       "category": "体育,网红"
-    },
-    {
-      "raw_hot": 192627,
-      "num": 192627,
-      "word": "尹锡悦发文感谢韩国夫妻生下5胞胎",
-      "onboard_time": 1726900998,
-      "rank": 33,
-      "category": "国外时政"
     },
     {
       "raw_hot": 191208,
@@ -963,12 +995,12 @@
       "category": "综艺,电竞"
     },
     {
-      "raw_hot": 179673,
-      "num": 179673,
-      "word": "韩国诞生首例自然受孕5胞胎",
-      "onboard_time": 1726901299,
-      "rank": 34,
-      "category": "社会新闻"
+      "raw_hot": 178574,
+      "num": 178574,
+      "word": "为了live图把微信卸载聊天记录没了",
+      "onboard_time": 1726902440,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 174630,
@@ -1073,14 +1105,6 @@
       "onboard_time": 1726876397,
       "rank": 35,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 165135,
-      "num": 165135,
-      "word": "新疆葡萄干不是晒出来而是晾出来的",
-      "onboard_time": 1726898961,
-      "rank": 44,
-      "category": "美食"
     },
     {
       "raw_hot": 163224,
@@ -1211,14 +1235,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 146196,
-      "num": 146196,
-      "word": "为了live图把微信卸载聊天记录没了",
-      "onboard_time": 1726902440,
-      "rank": 36,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 145703,
       "num": 145703,
       "word": "当你的工作配不上你的审美",
@@ -1339,6 +1355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 135371,
+      "num": 135371,
+      "word": "周深北京演唱会",
+      "onboard_time": 1726903280,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
       "raw_hot": 134763,
       "num": 134763,
       "word": "中国在联合国为无辜生命呼吁三个停止",
@@ -1368,22 +1392,6 @@
       "word": "郑州8级以上雷暴大风",
       "onboard_time": 1726842621,
       "rank": 35,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 131770,
-      "num": 232443,
-      "word": "黄轩首次晒与女友视频",
-      "onboard_time": 1726901959,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 131120,
-      "num": 131120,
-      "word": "女生买模型被教官查房一眼发现",
-      "onboard_time": 1726902800,
-      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -1425,6 +1433,14 @@
       "onboard_time": 1726896799,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 128205,
+      "num": 128205,
+      "word": "王俊凯工作室",
+      "onboard_time": 1726903339,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 127617,
@@ -1483,6 +1499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 116731,
+      "num": 116731,
+      "word": "全红婵归队爷爷在车旁再三叮嘱",
+      "onboard_time": 1726902980,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 115543,
       "num": 115543,
       "word": "伍六七第五季定档",
@@ -1523,6 +1547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 112026,
+      "num": 112026,
+      "word": "一次看完9种钱塘潮",
+      "onboard_time": 1726904001,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 111670,
       "num": 111670,
       "word": "医生实名举报无锡虹桥医院涉嫌骗保",
@@ -1537,14 +1569,6 @@
       "onboard_time": 1726844181,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 111140,
-      "num": 111140,
-      "word": "全红婵归队爷爷在车旁再三叮嘱",
-      "onboard_time": 1726902980,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 109884,
@@ -1563,12 +1587,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 108354,
+      "num": 108354,
+      "word": "男生开谷子店日营业额20万救活老商场",
+      "onboard_time": 1726903759,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 107112,
+      "num": 426086,
+      "word": "网红小英回应塌房风波",
+      "onboard_time": 1726903579,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 106739,
       "num": 106739,
       "word": "还我李肆",
       "onboard_time": 1726830258,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 104631,
+      "num": 104631,
+      "word": "以色列被指暗中筹备BP机爆炸15年了",
+      "onboard_time": 1726903939,
+      "rank": 48,
+      "category": "国外时政"
     },
     {
       "raw_hot": 104125,
@@ -1603,12 +1651,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 94640,
+      "num": 411979,
+      "word": "罚抄式处罚成为奶茶店管理惯例",
+      "onboard_time": 1726902379,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 94086,
       "num": 94086,
       "word": "肖战出发澳门",
       "onboard_time": 1726839381,
       "rank": 44,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 88381,
+      "num": 345844,
+      "word": "小区车位间距1.47米窄挪车需20分钟",
+      "onboard_time": 1726902620,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 87494,
@@ -1651,14 +1715,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 62334,
-      "num": 336413,
-      "word": "小区车位间距1.47米窄挪车需20分钟",
-      "onboard_time": 1726902620,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 60494,
       "num": 60494,
       "word": "当爸爸妈妈开始养我的狗",
@@ -1672,14 +1728,6 @@
       "word": "你的车里会放破窗锤吗",
       "onboard_time": 1726885460,
       "rank": 16,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 56620,
-      "num": 411979,
-      "word": "罚抄式处罚成为奶茶店管理惯例",
-      "onboard_time": 1726902379,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -1796,7 +1844,7 @@
     },
     {
       "raw_hot": 37047,
-      "num": 107012,
+      "num": 227792,
       "word": "行车安全只体现在瞬间吗",
       "onboard_time": 1726903039,
       "rank": 49,
@@ -1897,6 +1945,14 @@
       "onboard_time": 1726874776,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 24843,
+      "num": 358724,
+      "word": "他们的奖牌叫拼到底",
+      "onboard_time": 1726903819,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 24707,
