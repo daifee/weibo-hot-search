@@ -1,6 +1,6 @@
 {
   "startTime": 1726331122375,
-  "endTime": 1726928309892,
+  "endTime": 1726929391778,
   "band_list": [
     {
       "raw_hot": 28035334,
@@ -105,6 +105,14 @@
       "onboard_time": 1726753402,
       "rank": 0,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 4469715,
+      "num": 4469715,
+      "word": "85花格局大变",
+      "onboard_time": 1726927947,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 4187919,
@@ -644,7 +652,7 @@
     },
     {
       "raw_hot": 1778330,
-      "num": 314459,
+      "num": 350547,
       "word": "殷桃 没提名",
       "onboard_time": 1726927107,
       "rank": 11,
@@ -873,14 +881,6 @@
       "onboard_time": 1726718962,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1534107,
-      "num": 288556,
-      "word": "85花格局大变",
-      "onboard_time": 1726927947,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 1532096,
@@ -2451,6 +2451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 826866,
+      "num": 282573,
+      "word": "李庚希提名视后",
+      "onboard_time": 1726927827,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 824129,
       "num": 506817,
       "word": "叶珂打假叶倪",
@@ -3187,6 +3195,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 657507,
+      "num": 271720,
+      "word": "王俊凯晒长寿面",
+      "onboard_time": 1726929147,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 656918,
       "num": 656918,
       "word": "微信回应安卓何时能发live图",
@@ -3449,6 +3465,14 @@
       "onboard_time": 1726377019,
       "rank": 41,
       "category": "社会新闻,游戏"
+    },
+    {
+      "raw_hot": 620207,
+      "num": 284581,
+      "word": "雷佳音视帝大满贯",
+      "onboard_time": 1726927286,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 618721,
@@ -3761,14 +3785,6 @@
       "onboard_time": 1726799059,
       "rank": 16,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 570651,
-      "num": 284581,
-      "word": "雷佳音视帝大满贯",
-      "onboard_time": 1726927286,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 569671,
@@ -4097,6 +4113,14 @@
       "onboard_time": 1726389438,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 533664,
+      "num": 324464,
+      "word": "第34届飞天奖获奖名单",
+      "onboard_time": 1726927406,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 531039,
@@ -4987,14 +5011,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 430478,
-      "num": 282573,
-      "word": "李庚希提名视后",
-      "onboard_time": 1726927827,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 430107,
       "num": 430107,
       "word": "WTT中国大满贯外卡名单公布",
@@ -5113,6 +5129,14 @@
       "onboard_time": 1726752022,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 421349,
+      "num": 266882,
+      "word": "撤回一个刘浩存",
+      "onboard_time": 1726928845,
+      "rank": 27,
+      "category": "剧集,艺人"
     },
     {
       "raw_hot": 420019,
@@ -5416,6 +5440,14 @@
       "word": "飞天奖",
       "onboard_time": 1726880601,
       "rank": 33,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 393391,
+      "num": 265732,
+      "word": "张若昀颁奖",
+      "onboard_time": 1726928428,
+      "rank": 28,
       "category": "剧集"
     },
     {
@@ -6449,14 +6481,6 @@
       "onboard_time": 1726586061,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 324464,
-      "num": 324464,
-      "word": "第34届飞天奖获奖名单",
-      "onboard_time": 1726927406,
-      "rank": 7,
-      "category": "剧集"
     },
     {
       "raw_hot": 324452,
@@ -7529,6 +7553,14 @@
       "onboard_time": 1726753163,
       "rank": 25,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 274261,
+      "num": 294884,
+      "word": "驻日美军违规驾驶撞死1名日本人",
+      "onboard_time": 1726926324,
+      "rank": 14,
+      "category": "国外时政"
     },
     {
       "raw_hot": 273969,
@@ -9164,7 +9196,7 @@
     },
     {
       "raw_hot": 225061,
-      "num": 225061,
+      "num": 263252,
       "word": "谭松韵去了周深鸟巢演唱会",
       "onboard_time": 1726927947,
       "rank": 42,
@@ -9225,14 +9257,6 @@
       "onboard_time": 1726791560,
       "rank": 28,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 221889,
-      "num": 294884,
-      "word": "驻日美军违规驾驶撞死1名日本人",
-      "onboard_time": 1726926324,
-      "rank": 14,
-      "category": "国外时政"
     },
     {
       "raw_hot": 221459,
@@ -10033,6 +10057,14 @@
       "onboard_time": 1726722749,
       "rank": 45,
       "category": "互联网,网红"
+    },
+    {
+      "raw_hot": 205914,
+      "num": 262990,
+      "word": "登陆少年首秀亮相大湾区",
+      "onboard_time": 1726928967,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 205579,
@@ -11363,6 +11395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 188229,
+      "num": 272781,
+      "word": "于汉超2分钟2球",
+      "onboard_time": 1726928906,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 188088,
       "num": 192000,
       "word": "龙皓晨真有神印王座要继承",
@@ -11377,6 +11417,14 @@
       "onboard_time": 1726813821,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 187670,
+      "num": 263181,
+      "word": "王楚钦给自己画肖像",
+      "onboard_time": 1726929326,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 187628,
@@ -11801,6 +11849,14 @@
       "onboard_time": 1726641860,
       "rank": 48,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 180992,
+      "num": 262783,
+      "word": "风吹半夏",
+      "onboard_time": 1726929267,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 180913,
@@ -12779,6 +12835,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 168104,
+      "num": 268915,
+      "word": "姑娘奶茶只喝三分甜牙齿严重酸蚀",
+      "onboard_time": 1726923742,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 168041,
       "num": 168041,
       "word": "密逃NPC 莞莞类卿",
@@ -12929,6 +12993,14 @@
       "onboard_time": 1726913360,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 165792,
+      "num": 299323,
+      "word": "男子买星巴克月饼券无法提货",
+      "onboard_time": 1726924162,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 165463,
@@ -13448,14 +13520,6 @@
       "word": "网购19万大牌包用假货申请退款",
       "onboard_time": 1726740081,
       "rank": 13,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 158943,
-      "num": 268915,
-      "word": "姑娘奶茶只喝三分甜牙齿严重酸蚀",
-      "onboard_time": 1726923742,
-      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -14779,14 +14843,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 141789,
-      "num": 299323,
-      "word": "男子买星巴克月饼券无法提货",
-      "onboard_time": 1726924162,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 141749,
       "num": 141749,
       "word": "TWS北京签售",
@@ -15139,6 +15195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 138199,
+      "num": 262879,
+      "word": "潘展乐陈梦奥运会后再同框",
+      "onboard_time": 1726926265,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 137806,
       "num": 137806,
       "word": "实探美诚月饼广州生产厂",
@@ -15201,14 +15265,6 @@
       "onboard_time": 1726476619,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 137017,
-      "num": 210630,
-      "word": "潘展乐陈梦奥运会后再同框",
-      "onboard_time": 1726926265,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 136927,
@@ -16328,6 +16384,14 @@
       "word": "打火机也nextlevel了",
       "onboard_time": 1726473259,
       "rank": 45,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 118783,
+      "num": 262690,
+      "word": "古人的螃蟹手办全身都是机关",
+      "onboard_time": 1726929326,
+      "rank": 49,
       "category": "幽默"
     },
     {
@@ -17995,6 +18059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 71651,
+      "num": 379591,
+      "word": "视后视帝都没准备获奖感言",
+      "onboard_time": 1726929326,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 70984,
       "num": 289819,
       "word": "苦难不应该继续成为小英的流量密码",
@@ -19243,6 +19315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 43387,
+      "num": 391411,
+      "word": "猫人把秀场搬到了长城上",
+      "onboard_time": 1726923861,
+      "rank": 16,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 43325,
       "num": 305708,
       "word": "猫人现在也是出息了",
@@ -19281,14 +19361,6 @@
       "onboard_time": 1726801340,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 42249,
-      "num": 391411,
-      "word": "猫人把秀场搬到了长城上",
-      "onboard_time": 1726923861,
-      "rank": 16,
-      "category": "幽默"
     },
     {
       "raw_hot": 41998,
@@ -19489,6 +19561,14 @@
       "onboard_time": 1726818740,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 38883,
+      "num": 310975,
+      "word": "为什么秋天的蚊子咬人更狠",
+      "onboard_time": 1726928487,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 38872,
@@ -19897,6 +19977,14 @@
       "onboard_time": 1726373298,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 34206,
+      "num": 360303,
+      "word": "以色列称不排除进一步袭击真主党可能性",
+      "onboard_time": 1726928727,
+      "rank": 9,
+      "category": "国外时政"
     },
     {
       "raw_hot": 34136,
@@ -20313,6 +20401,14 @@
       "onboard_time": 1726435331,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 29760,
+      "num": 374307,
+      "word": "当代青年这样作答爱国三问",
+      "onboard_time": 1726928306,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 29643,

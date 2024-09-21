@@ -1,0 +1,410 @@
+{
+  "runTime": 1726929391778,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 11819105,
+        "num": 11819105,
+        "word": "赵丽颖飞天奖视后",
+        "onboard_time": 1726925783,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 4469715,
+        "num": 4469715,
+        "word": "85花格局大变",
+        "onboard_time": 1726927947,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 62386,
+        "num": 2796914,
+        "word": "南开两任校长跨越105年的相遇",
+        "onboard_time": 1726923742,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2425565,
+        "num": 2425565,
+        "word": "雷佳音飞天奖视帝",
+        "onboard_time": 1726926626,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 771773,
+        "num": 771773,
+        "word": "25岁72岁62岁三人CT片几乎一样",
+        "onboard_time": 1726916540,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3276298,
+        "num": 705359,
+        "word": "赵丽颖哭了",
+        "onboard_time": 1726927647,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 384692,
+        "num": 384692,
+        "word": "24岁物理学硕士拟获录用中学勤杂工",
+        "onboard_time": 1726920623,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 71651,
+        "num": 379591,
+        "word": "视后视帝都没准备获奖感言",
+        "onboard_time": 1726929326,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 29760,
+        "num": 374307,
+        "word": "当代青年这样作答爱国三问",
+        "onboard_time": 1726928306,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34206,
+        "num": 360303,
+        "word": "以色列称不排除进一步袭击真主党可能性",
+        "onboard_time": 1726928727,
+        "rank": 9,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 2043233,
+        "num": 356169,
+        "word": "刘琳好可惜",
+        "onboard_time": 1726926867,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 350896,
+        "num": 350896,
+        "word": "管培生因未参加公司跑步活动被辞退",
+        "onboard_time": 1726918881,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1581674,
+        "num": 350547,
+        "word": "殷桃 没提名",
+        "onboard_time": 1726927107,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1376517,
+        "num": 317032,
+        "word": "胡歌陪跑",
+        "onboard_time": 1726927467,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 38883,
+        "num": 310975,
+        "word": "为什么秋天的蚊子咬人更狠",
+        "onboard_time": 1726928487,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 853587,
+        "num": 279389,
+        "word": "飞天视后竞争太激烈了",
+        "onboard_time": 1726926324,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 275947,
+        "num": 275947,
+        "word": "第五人格",
+        "onboard_time": 1726927286,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 274261,
+        "num": 274261,
+        "word": "驻日美军违规驾驶撞死1名日本人",
+        "onboard_time": 1726926324,
+        "rank": 17,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 242994,
+        "num": 274209,
+        "word": "女子美甲后指甲变绿全甲被拔除",
+        "onboard_time": 1726909759,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188229,
+        "num": 272781,
+        "word": "于汉超2分钟2球",
+        "onboard_time": 1726928906,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 826866,
+        "num": 272268,
+        "word": "李庚希提名视后",
+        "onboard_time": 1726927827,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 657507,
+        "num": 271720,
+        "word": "王俊凯晒长寿面",
+        "onboard_time": 1726929147,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 620207,
+        "num": 270751,
+        "word": "雷佳音视帝大满贯",
+        "onboard_time": 1726927286,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183714,
+        "num": 269802,
+        "word": "WTT中国大满贯参赛全阵容",
+        "onboard_time": 1726923021,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 611174,
+        "num": 269287,
+        "word": "1岁男童腹中竟有个小宝宝",
+        "onboard_time": 1726905140,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 536343,
+        "num": 268238,
+        "word": "韩安冉回应亲生妈妈当小三",
+        "onboard_time": 1726924400,
+        "rank": 25,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 428510,
+        "num": 267498,
+        "word": "易烊千玺在评论区为王俊凯庆生",
+        "onboard_time": 1726916301,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 421349,
+        "num": 266882,
+        "word": "撤回一个刘浩存",
+        "onboard_time": 1726928845,
+        "rank": 27,
+        "category": "剧集,艺人"
+      },
+      {
+        "raw_hot": 393391,
+        "num": 265732,
+        "word": "张若昀颁奖",
+        "onboard_time": 1726928428,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191109,
+        "num": 265190,
+        "word": "网红杯鼻祖宣布破产了",
+        "onboard_time": 1726924882,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 390624,
+        "num": 264844,
+        "word": "黄晓明 叶珂",
+        "onboard_time": 1726896440,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 330940,
+        "num": 263620,
+        "word": "赵露思致敬律政俏佳人",
+        "onboard_time": 1726925783,
+        "rank": 31,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 263355,
+        "num": 263355,
+        "word": "朴春瘦了好多",
+        "onboard_time": 1726922301,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176072,
+        "num": 263342,
+        "word": "新余39死特别重大火灾事故调查报告",
+        "onboard_time": 1726910660,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233383,
+        "num": 263305,
+        "word": "猴子真来找王一博了",
+        "onboard_time": 1726926387,
+        "rank": 34,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 216540,
+        "num": 263252,
+        "word": "谭松韵去了周深鸟巢演唱会",
+        "onboard_time": 1726927947,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 171069,
+        "num": 263197,
+        "word": "3岁幼儿园小朋友能有多自律",
+        "onboard_time": 1726925122,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 187670,
+        "num": 263181,
+        "word": "王楚钦给自己画肖像",
+        "onboard_time": 1726929326,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168104,
+        "num": 263146,
+        "word": "姑娘奶茶只喝三分甜牙齿严重酸蚀",
+        "onboard_time": 1726923742,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165792,
+        "num": 263109,
+        "word": "男子买星巴克月饼券无法提货",
+        "onboard_time": 1726924162,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21398,
+        "num": 263052,
+        "word": "孙策最符合人设的一集",
+        "onboard_time": 1726927827,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 205914,
+        "num": 262990,
+        "word": "登陆少年首秀亮相大湾区",
+        "onboard_time": 1726928967,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 161516,
+        "num": 262979,
+        "word": "老人离世老伴拿出6份遗嘱均被判无效",
+        "onboard_time": 1726914980,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 533664,
+        "num": 262932,
+        "word": "第34届飞天奖获奖名单",
+        "onboard_time": 1726927406,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138199,
+        "num": 262879,
+        "word": "潘展乐陈梦奥运会后再同框",
+        "onboard_time": 1726926265,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 193250,
+        "num": 262860,
+        "word": "陈乔恩坐Alan腿上拍照",
+        "onboard_time": 1726922541,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180992,
+        "num": 262783,
+        "word": "风吹半夏",
+        "onboard_time": 1726929267,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125203,
+        "num": 262748,
+        "word": "献给每一个追光的你",
+        "onboard_time": 1726927226,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 43387,
+        "num": 262731,
+        "word": "猫人把秀场搬到了长城上",
+        "onboard_time": 1726923861,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 118783,
+        "num": 262690,
+        "word": "古人的螃蟹手办全身都是机关",
+        "onboard_time": 1726929326,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动农业增效益农民增收入农村增活力#"
+    }
+  }
+}
