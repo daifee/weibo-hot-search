@@ -1,6 +1,6 @@
 {
   "startTime": 1726936020707,
-  "endTime": 1726958245442,
+  "endTime": 1726960816470,
   "band_list": [
     {
       "raw_hot": 4059841,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 468731,
-      "num": 179336,
+      "num": 364550,
       "word": "张颂文飞天奖直播捡手机",
       "onboard_time": 1726933882,
       "rank": 25,
@@ -139,6 +139,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 335452,
+      "num": 137464,
+      "word": "赵丽颖双料视后",
+      "onboard_time": 1726946532,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 301412,
       "num": 301412,
       "word": "医生实名举报CT乱象约半年仍无结果",
@@ -152,6 +160,14 @@
       "word": "25岁72岁62岁三人CT片几乎一样",
       "onboard_time": 1726916540,
       "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 263988,
+      "num": 263988,
+      "word": "被砍后反杀凶手男子家属发声",
+      "onboard_time": 1726945692,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -177,6 +193,14 @@
       "onboard_time": 1726934360,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 229726,
+      "num": 214828,
+      "word": "韩安冉回应亲生妈妈当小三",
+      "onboard_time": 1726924400,
+      "rank": 35,
+      "category": "网红"
     },
     {
       "raw_hot": 227064,
@@ -227,22 +251,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 192548,
-      "num": 120633,
-      "word": "赵丽颖双料视后",
-      "onboard_time": 1726946532,
-      "rank": 5,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 185617,
-      "num": 214828,
-      "word": "韩安冉回应亲生妈妈当小三",
-      "onboard_time": 1726924400,
-      "rank": 35,
-      "category": "网红"
-    },
-    {
       "raw_hot": 175566,
       "num": 274304,
       "word": "秋分也是丰收节",
@@ -291,19 +299,19 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 148449,
-      "num": 148449,
-      "word": "被砍后反杀凶手男子家属发声",
-      "onboard_time": 1726945692,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 147835,
       "num": 227337,
       "word": "网红杯鼻祖宣布破产了",
       "onboard_time": 1726924882,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 147796,
+      "num": 272299,
+      "word": "管培生因未参加公司跑步活动被辞退",
+      "onboard_time": 1726918881,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -355,6 +363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 124464,
+      "num": 75041,
+      "word": "宋威龙 养爬宠的可以发博艾特我",
+      "onboard_time": 1726960155,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 122902,
       "num": 276335,
       "word": "女子美甲后指甲变绿全甲被拔除",
@@ -369,14 +385,6 @@
       "onboard_time": 1726932264,
       "rank": 43,
       "category": "演出,电竞"
-    },
-    {
-      "raw_hot": 106336,
-      "num": 272299,
-      "word": "管培生因未参加公司跑步活动被辞退",
-      "onboard_time": 1726918881,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 100645,
@@ -409,6 +417,14 @@
       "onboard_time": 1726929326,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 84946,
+      "num": 84946,
+      "word": "台州人这回真海鲜自由了",
+      "onboard_time": 1726950192,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 82769,
@@ -467,6 +483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 66541,
+      "num": 66541,
+      "word": "多位村民称网红小英生活与视频一致",
+      "onboard_time": 1726917081,
+      "rank": 30,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 66226,
       "num": 91200,
       "word": "赵露思掌管学院风穿搭的神",
@@ -481,14 +505,6 @@
       "onboard_time": 1726929267,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 58977,
-      "num": 58977,
-      "word": "台州人这回真海鲜自由了",
-      "onboard_time": 1726950192,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 54428,
@@ -507,12 +523,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 49825,
+      "num": 49825,
+      "word": "王一博拍的落日",
+      "onboard_time": 1726957392,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 46501,
       "num": 46501,
       "word": "王子文掉提",
       "onboard_time": 1726937598,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 45782,
+      "num": 45782,
+      "word": "张馨予拍比山更高的地方是纯素颜",
+      "onboard_time": 1726952892,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 38857,
@@ -523,28 +555,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 36058,
-      "num": 36058,
-      "word": "张馨予拍比山更高的地方是纯素颜",
-      "onboard_time": 1726952892,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 35905,
       "num": 56607,
       "word": "葫芦果音乐节",
       "onboard_time": 1726943114,
       "rank": 44,
       "category": "演出"
-    },
-    {
-      "raw_hot": 28920,
-      "num": 28920,
-      "word": "王一博拍的落日",
-      "onboard_time": 1726957392,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 27887,
@@ -588,7 +604,7 @@
     },
     {
       "raw_hot": 18093,
-      "num": 47530,
+      "num": 72177,
       "word": "读懂丰收的三重含义",
       "onboard_time": 1726957152,
       "rank": 29,
