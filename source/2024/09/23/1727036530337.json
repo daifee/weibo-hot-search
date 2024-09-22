@@ -1,0 +1,410 @@
+{
+  "runTime": 1727036530337,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 154723,
+        "num": 154723,
+        "word": "肖战莫文蔚牵手合唱",
+        "onboard_time": 1727020400,
+        "rank": 0,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 81074,
+        "num": 81074,
+        "word": "为什么超市买不到1元的冰露了",
+        "onboard_time": 1727020821,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 4111,
+        "num": 65590,
+        "word": "丰收的画面有多治愈",
+        "onboard_time": 1727012545,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 58945,
+        "num": 58945,
+        "word": "千万身价老板破产法院4元拍卖雪碧",
+        "onboard_time": 1727009182,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46713,
+        "num": 46713,
+        "word": "爷爷发现孙子背后多出颗痣秒去医院",
+        "onboard_time": 1727007799,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 73841,
+        "num": 44065,
+        "word": "肖战高音舞台",
+        "onboard_time": 1727021181,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 70306,
+        "num": 42404,
+        "word": "刘琳祝贺赵丽颖",
+        "onboard_time": 1727020942,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 60306,
+        "num": 40881,
+        "word": "飞天奖提名争议是佳作频出的烦恼",
+        "onboard_time": 1727028192,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 36615,
+        "num": 36615,
+        "word": "北京12345话务员一次电话接了13小时",
+        "onboard_time": 1727013385,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34136,
+        "num": 34136,
+        "word": "山姆10天翻车3次",
+        "onboard_time": 1727001800,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112559,
+        "num": 33945,
+        "word": "哺乳期妈妈怀孕7个月毫不知情",
+        "onboard_time": 1727009843,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 63029,
+        "num": 33509,
+        "word": "把难吃表现得淋漓尽致",
+        "onboard_time": 1727020761,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 40079,
+        "num": 33134,
+        "word": "易烊千玺松弛感",
+        "onboard_time": 1727014104,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 35802,
+        "num": 32764,
+        "word": "湾区升明月",
+        "onboard_time": 1727004261,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 35560,
+        "num": 32314,
+        "word": "新华社出图",
+        "onboard_time": 1727019982,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 32245,
+        "num": 32245,
+        "word": "单依纯修音响来了",
+        "onboard_time": 1727024297,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 26190,
+        "num": 26190,
+        "word": "这次听到樊振东声音了",
+        "onboard_time": 1727026814,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 23745,
+        "num": 23745,
+        "word": "央视揭秘黑发产品骗局",
+        "onboard_time": 1727023398,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23413,
+        "num": 23413,
+        "word": "LGD秋季赛周冠军",
+        "onboard_time": 1727021181,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 8199,
+        "num": 23413,
+        "word": "起底包治百病的保健床垫销售套路",
+        "onboard_time": 1727034192,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 86096,
+        "num": 23413,
+        "word": "卖惨博主被曝月入上千万",
+        "onboard_time": 1727011285,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 67936,
+        "num": 23413,
+        "word": "谢娜给陈乔恩66666.66红包",
+        "onboard_time": 1727003241,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31441,
+        "num": 23413,
+        "word": "经常做梦和很少做梦谁睡眠质量好",
+        "onboard_time": 1727020761,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 26483,
+        "num": 23413,
+        "word": "周笔畅live的神",
+        "onboard_time": 1727024297,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 24810,
+        "num": 23413,
+        "word": "周慧敏还是那么美",
+        "onboard_time": 1727020400,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 13278,
+        "num": 23413,
+        "word": "大凉山小姑娘把童年快乐唱成歌",
+        "onboard_time": 1727033531,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23413,
+        "num": 23412,
+        "word": "张小斐好美",
+        "onboard_time": 1727023278,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 23325,
+        "num": 23325,
+        "word": "小伙经常晚上不刷牙嘴里长满结石",
+        "onboard_time": 1726999160,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23188,
+        "num": 23188,
+        "word": "SEVENTEEN",
+        "onboard_time": 1727020581,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 23025,
+        "num": 23025,
+        "word": "王力宏李治廷同台",
+        "onboard_time": 1727007799,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 28756,
+        "num": 22586,
+        "word": "西湖里有片叶子能站200斤的人",
+        "onboard_time": 1727023937,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22091,
+        "num": 22091,
+        "word": "周深北京欢迎你回忆杀",
+        "onboard_time": 1727032571,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 20812,
+        "num": 22084,
+        "word": "王昶 别催别催每天都在练的",
+        "onboard_time": 1727018123,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 20486,
+        "num": 22077,
+        "word": "樊振东直拍",
+        "onboard_time": 1727009062,
+        "rank": 33,
+        "category": "音乐,体育"
+      },
+      {
+        "raw_hot": 20394,
+        "num": 22067,
+        "word": "躺在地上哭被喂过的流浪狗发现",
+        "onboard_time": 1727018422,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 20029,
+        "num": 22061,
+        "word": "林宥嘉唱成全",
+        "onboard_time": 1727024476,
+        "rank": 35,
+        "category": "演出,音乐"
+      },
+      {
+        "raw_hot": 20566,
+        "num": 22054,
+        "word": "周深鸟巢演唱会",
+        "onboard_time": 1727018486,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 19908,
+        "num": 22045,
+        "word": "曼城vs阿森纳",
+        "onboard_time": 1727022798,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19191,
+        "num": 22036,
+        "word": "吴谨言希望成为赵丽颖",
+        "onboard_time": 1727001499,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19185,
+        "num": 22029,
+        "word": "IU演唱会好多明星",
+        "onboard_time": 1727020101,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 19172,
+        "num": 22025,
+        "word": "全红婵街舞出师了",
+        "onboard_time": 1727025915,
+        "rank": 40,
+        "category": "音乐,体育"
+      },
+      {
+        "raw_hot": 18783,
+        "num": 22014,
+        "word": "于正发文祝白鹿生日快乐",
+        "onboard_time": 1727022737,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18657,
+        "num": 22005,
+        "word": "央视镜头下的左航",
+        "onboard_time": 1727022439,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 18571,
+        "num": 22000,
+        "word": "地下室进野猫后爬满跳蚤",
+        "onboard_time": 1727031192,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 18398,
+        "num": 21994,
+        "word": "真唱",
+        "onboard_time": 1727009782,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 17529,
+        "num": 21979,
+        "word": "华晨宇恭喜LGD夺冠",
+        "onboard_time": 1727031014,
+        "rank": 45,
+        "category": "艺人,电竞"
+      },
+      {
+        "raw_hot": 17262,
+        "num": 21976,
+        "word": "苹果客服回应iPhone16使用钢壳电池",
+        "onboard_time": 1727001441,
+        "rank": 46,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 17256,
+        "num": 21964,
+        "word": "野生动物其实也在守护着人类",
+        "onboard_time": 1727036352,
+        "rank": 47,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 17169,
+        "num": 21960,
+        "word": "北大教授曾3年24小时照顾失能母亲",
+        "onboard_time": 1727010443,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 17027,
+        "num": 21947,
+        "word": "孙杨运动员后要转型",
+        "onboard_time": 1727019201,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#把人民政协的显著政治优势更加充分发挥出来#"
+    }
+  }
+}
