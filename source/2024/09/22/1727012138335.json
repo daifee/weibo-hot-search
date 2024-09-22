@@ -1,0 +1,410 @@
+{
+  "runTime": 1727012138335,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1578427,
+        "num": 1578427,
+        "word": "全红婵声音好大",
+        "onboard_time": 1727007862,
+        "rank": 0,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1565902,
+        "num": 1565902,
+        "word": "千万身价老板破产法院4元拍卖雪碧",
+        "onboard_time": 1727009182,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 8055,
+        "num": 1492275,
+        "word": "青春华章津彩绽放",
+        "onboard_time": 1726994960,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1435939,
+        "num": 1435939,
+        "word": "湾区升明月",
+        "onboard_time": 1727004261,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1302660,
+        "num": 1302660,
+        "word": "孙颖莎谈跟王楚钦拥抱的照片",
+        "onboard_time": 1727009902,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 599076,
+        "num": 599076,
+        "word": "山姆10天翻车3次",
+        "onboard_time": 1727001800,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1331960,
+        "num": 596435,
+        "word": "肖战黄晓明互相让位",
+        "onboard_time": 1727011705,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 288961,
+        "num": 593175,
+        "word": "美国拨款16亿美元雇水军黑中国",
+        "onboard_time": 1726992079,
+        "rank": 7,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 216699,
+        "num": 592054,
+        "word": "苹果客服回应iPhone16使用钢壳电池",
+        "onboard_time": 1727001441,
+        "rank": 8,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 44559,
+        "num": 588820,
+        "word": "北大教授曾3年24小时照顾失能母亲",
+        "onboard_time": 1727010443,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 44881,
+        "num": 586718,
+        "word": "任嘉伦片场切号皮皮超",
+        "onboard_time": 1727011522,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 2320982,
+        "num": 582356,
+        "word": "妻子发现丈夫出轨后半夜杀夫",
+        "onboard_time": 1727007681,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1224141,
+        "num": 579725,
+        "word": "哺乳期妈妈怀孕7个月毫不知情",
+        "onboard_time": 1727009843,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 826405,
+        "num": 577945,
+        "word": "肖战湾区升明月晚会造型",
+        "onboard_time": 1727006842,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 90597,
+        "num": 573949,
+        "word": "外卖跑楼者代送餐上楼月入千元",
+        "onboard_time": 1727010622,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 820675,
+        "num": 570061,
+        "word": "2024湾区升明月节目单",
+        "onboard_time": 1726991719,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 809314,
+        "num": 568456,
+        "word": "王力宏李治廷同台",
+        "onboard_time": 1727007799,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 765941,
+        "num": 564161,
+        "word": "成龙真唱",
+        "onboard_time": 1727009483,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 719391,
+        "num": 562395,
+        "word": "真唱",
+        "onboard_time": 1727009782,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 614350,
+        "num": 558719,
+        "word": "爷爷发现孙子背后多出颗痣秒去医院",
+        "onboard_time": 1727007799,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2072275,
+        "num": 556925,
+        "word": "谢娜给陈乔恩66666.66红包",
+        "onboard_time": 1727003241,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 811705,
+        "num": 553325,
+        "word": "吴谨言希望成为赵丽颖",
+        "onboard_time": 1727001499,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 551388,
+        "num": 551388,
+        "word": "樊振东直拍",
+        "onboard_time": 1727009062,
+        "rank": 22,
+        "category": "音乐,体育"
+      },
+      {
+        "raw_hot": 263072,
+        "num": 411484,
+        "word": "小伙经常晚上不刷牙嘴里长满结石",
+        "onboard_time": 1726999160,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246894,
+        "num": 357188,
+        "word": "妻子不能怀孕丈夫请求撤销婚姻",
+        "onboard_time": 1727000420,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 343279,
+        "num": 343279,
+        "word": "明道儿子担任陈乔恩Alan婚礼花童",
+        "onboard_time": 1726999759,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 462558,
+        "num": 343039,
+        "word": "央视新闻报道赵丽颖获飞天奖视后",
+        "onboard_time": 1727006239,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 341442,
+        "num": 341442,
+        "word": "白鹿哭了",
+        "onboard_time": 1727000780,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 319654,
+        "num": 319654,
+        "word": "男子去大溪地找富婆拍成剧了",
+        "onboard_time": 1727009722,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163544,
+        "num": 303218,
+        "word": "以色列防长称黎真主党被猎杀",
+        "onboard_time": 1727006301,
+        "rank": 29,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 300561,
+        "num": 300561,
+        "word": "长发张小斐回来了",
+        "onboard_time": 1727008164,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 250425,
+        "num": 250425,
+        "word": "殷世航医院做鼻子",
+        "onboard_time": 1727008581,
+        "rank": 31,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 249951,
+        "num": 249951,
+        "word": "登陆少年出图",
+        "onboard_time": 1727009062,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 246115,
+        "num": 246115,
+        "word": "张碧晨唱红玫瑰",
+        "onboard_time": 1727011642,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 228282,
+        "num": 228282,
+        "word": "全红婵说王俊凯包帅的",
+        "onboard_time": 1727007381,
+        "rank": 34,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 212848,
+        "num": 212848,
+        "word": "云宫迅音",
+        "onboard_time": 1727010503,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 140312,
+        "num": 212760,
+        "word": "新能源汽车是快消品吗",
+        "onboard_time": 1727010562,
+        "rank": 36,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 212706,
+        "num": 212706,
+        "word": "胡夏薛凯琪唱新不了情",
+        "onboard_time": 1727011044,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 211477,
+        "num": 211477,
+        "word": "卖惨博主被曝月入上千万",
+        "onboard_time": 1727011285,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209954,
+        "num": 209954,
+        "word": "赵露思喜欢吃巧克力配米饭",
+        "onboard_time": 1727009662,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205466,
+        "num": 205466,
+        "word": "张译播音腔",
+        "onboard_time": 1727008642,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 197360,
+        "num": 197360,
+        "word": "登陆少年内场饭拍",
+        "onboard_time": 1727011463,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 189343,
+        "num": 189343,
+        "word": "白鹿首唱会",
+        "onboard_time": 1726990221,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 188631,
+        "num": 188631,
+        "word": "TFBOYS恭喜王俊凯全球代言",
+        "onboard_time": 1727011705,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184641,
+        "num": 184641,
+        "word": "朱志鑫湾区升明月内场图",
+        "onboard_time": 1727009902,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 184055,
+        "num": 184055,
+        "word": "天地龙鳞大合唱",
+        "onboard_time": 1727008881,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 137616,
+        "num": 137616,
+        "word": "美国伯明翰发生大规模枪击事件",
+        "onboard_time": 1727006059,
+        "rank": 46,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 132430,
+        "num": 132430,
+        "word": "孙杨回应是否参加洛杉矶奥运会",
+        "onboard_time": 1727011824,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126909,
+        "num": 126909,
+        "word": "孙颖莎谈什么是幸福",
+        "onboard_time": 1727001320,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104196,
+        "num": 126884,
+        "word": "男子趁女友熟睡拿手机给自己转3万",
+        "onboard_time": 1726990938,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记田间地头的嘱咐#"
+    }
+  }
+}
