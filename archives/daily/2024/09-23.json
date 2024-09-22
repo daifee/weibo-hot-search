@@ -1,6 +1,6 @@
 {
   "startTime": 1727022296039,
-  "endTime": 1727025541035,
+  "endTime": 1727026619965,
   "band_list": [
     {
       "raw_hot": 4119718,
@@ -99,20 +99,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 371759,
+      "num": 185352,
+      "word": "把难吃表现得淋漓尽致",
+      "onboard_time": 1727020761,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 363180,
       "num": 363180,
       "word": "为什么超市买不到1元的冰露了",
       "onboard_time": 1727020821,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 347225,
-      "num": 185352,
-      "word": "把难吃表现得淋漓尽致",
-      "onboard_time": 1727020761,
-      "rank": 38,
-      "category": "幽默"
     },
     {
       "raw_hot": 345011,
@@ -123,8 +123,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 299442,
-      "num": 130221,
+      "raw_hot": 310948,
+      "num": 159053,
       "word": "单依纯修音响来了",
       "onboard_time": 1727024297,
       "rank": 12,
@@ -387,6 +387,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 134541,
+      "num": 134541,
+      "word": "央视揭秘黑发产品骗局",
+      "onboard_time": 1727023398,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 129982,
       "num": 214797,
       "word": "央视曝光包治百病的保健床垫骗局",
@@ -451,14 +459,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 87337,
-      "num": 108270,
-      "word": "央视揭秘黑发产品骗局",
-      "onboard_time": 1727023398,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 87330,
       "num": 120473,
       "word": "诚C再获周决赛MVP",
@@ -491,6 +491,22 @@
       "category": "音乐,体育"
     },
     {
+      "raw_hot": 71086,
+      "num": 71086,
+      "word": "全红婵街舞出师了",
+      "onboard_time": 1727025915,
+      "rank": 36,
+      "category": "音乐,体育"
+    },
+    {
+      "raw_hot": 58897,
+      "num": 58897,
+      "word": "周深北京欢迎你万人大合唱",
+      "onboard_time": 1727026574,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 46929,
       "num": 71976,
       "word": "Cat解说杯FMVP",
@@ -504,6 +520,14 @@
       "word": "中国农民丰收节晚会",
       "onboard_time": 1727019263,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 19245,
+      "num": 87884,
+      "word": "对6个省区开展实地法治督察",
+      "onboard_time": 1727025674,
+      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -526,6 +550,9 @@
   "hotgov_list": [
     {
       "word": "#总书记田间地头的嘱咐#"
+    },
+    {
+      "word": "#把人民政协的显著政治优势更加充分发挥出来#"
     }
   ]
 }
