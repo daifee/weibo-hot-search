@@ -1,6 +1,6 @@
 {
   "startTime": 1727022296039,
-  "endTime": 1727047320479,
+  "endTime": 1727048154674,
   "band_list": [
     {
       "raw_hot": 4119718,
@@ -35,6 +35,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 960550,
+      "num": 255150,
+      "word": "哺乳期妈妈怀孕7个月毫不知情",
+      "onboard_time": 1727009843,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 936097,
       "num": 214784,
       "word": "卖惨博主被曝月入上千万",
@@ -44,19 +52,11 @@
     },
     {
       "raw_hot": 922325,
-      "num": 330336,
+      "num": 403141,
       "word": "刘琳祝贺赵丽颖",
       "onboard_time": 1727020942,
       "rank": 10,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 821906,
-      "num": 255150,
-      "word": "哺乳期妈妈怀孕7个月毫不知情",
-      "onboard_time": 1727009843,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 725568,
@@ -75,6 +75,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 560702,
+      "num": 560702,
+      "word": "为什么超市买不到1元的冰露了",
+      "onboard_time": 1727020821,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 555862,
       "num": 555862,
       "word": "爷爷发现孙子背后多出颗痣秒去医院",
@@ -83,12 +91,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 468876,
-      "num": 468876,
-      "word": "为什么超市买不到1元的冰露了",
-      "onboard_time": 1727020821,
-      "rank": 9,
-      "category": "社会新闻"
+      "raw_hot": 488216,
+      "num": 488216,
+      "word": "飞天奖提名争议是佳作频出的烦恼",
+      "onboard_time": 1727028192,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 446306,
@@ -99,12 +107,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 437662,
-      "num": 437662,
-      "word": "飞天奖提名争议是佳作频出的烦恼",
-      "onboard_time": 1727028192,
-      "rank": 30,
-      "category": "剧集"
+      "raw_hot": 404795,
+      "num": 404795,
+      "word": "千万身价老板破产法院4元拍卖雪碧",
+      "onboard_time": 1727009182,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 377789,
+      "num": 377789,
+      "word": "北京12345话务员一次电话接了13小时",
+      "onboard_time": 1727013385,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 377455,
@@ -121,22 +137,6 @@
       "onboard_time": 1727020761,
       "rank": 38,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 345011,
-      "num": 345011,
-      "word": "千万身价老板破产法院4元拍卖雪碧",
-      "onboard_time": 1727009182,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 326785,
-      "num": 326785,
-      "word": "北京12345话务员一次电话接了13小时",
-      "onboard_time": 1727013385,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 310948,
@@ -203,6 +203,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 217661,
+      "num": 217661,
+      "word": "北大教授曾3年24小时照顾失能母亲",
+      "onboard_time": 1727010443,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 214577,
       "num": 214577,
       "word": "登陆少年舞台首秀",
@@ -267,14 +275,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 195908,
-      "num": 195908,
-      "word": "北大教授曾3年24小时照顾失能母亲",
-      "onboard_time": 1727010443,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 187268,
       "num": 174620,
       "word": "于正发文祝白鹿生日快乐",
@@ -297,6 +297,14 @@
       "onboard_time": 1727001499,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 181650,
+      "num": 181650,
+      "word": "央视揭秘黑发产品骗局",
+      "onboard_time": 1727023398,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 180099,
@@ -371,12 +379,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 153474,
-      "num": 153474,
-      "word": "央视揭秘黑发产品骗局",
-      "onboard_time": 1727023398,
-      "rank": 19,
+      "raw_hot": 157751,
+      "num": 157751,
+      "word": "女子半夜杀害出轨丈夫被判无期",
+      "onboard_time": 1727009782,
+      "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 147499,
+      "num": 147499,
+      "word": "近5亿年地球几乎一直比现在更热",
+      "onboard_time": 1727046075,
+      "rank": 25,
+      "category": "科学科普"
     },
     {
       "raw_hot": 145001,
@@ -451,6 +467,14 @@
       "category": "演出,音乐"
     },
     {
+      "raw_hot": 113544,
+      "num": 113544,
+      "word": "蝴蝶姐姐晒产子照",
+      "onboard_time": 1727044514,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 103979,
       "num": 122902,
       "word": "硕士拟被聘为勤杂工系工作人员失误",
@@ -475,24 +499,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 98183,
-      "num": 98183,
-      "word": "近5亿年地球几乎一直比现在更热",
-      "onboard_time": 1727046075,
-      "rank": 25,
-      "category": "科学科普"
-    },
-    {
-      "raw_hot": 94680,
-      "num": 94680,
-      "word": "蝴蝶姐姐晒产子照",
-      "onboard_time": 1727044514,
-      "rank": 49,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 92790,
-      "num": 92790,
+      "raw_hot": 98583,
+      "num": 98583,
       "word": "西湖里有片叶子能站200斤的人",
       "onboard_time": 1727023937,
       "rank": 39,
@@ -523,11 +531,19 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 79257,
-      "num": 79257,
-      "word": "女子半夜杀害出轨丈夫被判无期",
-      "onboard_time": 1727009782,
-      "rank": 28,
+      "raw_hot": 81033,
+      "num": 81033,
+      "word": "李晨张真源去了周深演唱会",
+      "onboard_time": 1727046136,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 80267,
+      "num": 80267,
+      "word": "一年吃掉7亿头猪的中国人有多爱吃",
+      "onboard_time": 1727036530,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -547,16 +563,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 73788,
-      "num": 73788,
-      "word": "李晨张真源去了周深演唱会",
-      "onboard_time": 1727046136,
-      "rank": 30,
-      "category": "演出"
-    },
-    {
       "raw_hot": 72257,
-      "num": 72257,
+      "num": 77639,
       "word": "樊振东直拍",
       "onboard_time": 1727009062,
       "rank": 44,
@@ -564,23 +572,15 @@
     },
     {
       "raw_hot": 71086,
-      "num": 71086,
+      "num": 77550,
       "word": "全红婵街舞出师了",
       "onboard_time": 1727025915,
       "rank": 36,
       "category": "音乐,体育"
     },
     {
-      "raw_hot": 62071,
-      "num": 62071,
-      "word": "一年吃掉7亿头猪的中国人有多爱吃",
-      "onboard_time": 1727036530,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 60358,
-      "num": 60358,
+      "raw_hot": 68490,
+      "num": 77932,
       "word": "aespa和ILLIT同一天回归",
       "onboard_time": 1727046195,
       "rank": 36,
@@ -588,7 +588,7 @@
     },
     {
       "raw_hot": 59380,
-      "num": 59380,
+      "num": 77126,
       "word": "陈乔恩Alan中式婚服",
       "onboard_time": 1727039891,
       "rank": 36,
@@ -603,20 +603,36 @@
       "category": "演出"
     },
     {
-      "raw_hot": 55220,
-      "num": 55220,
+      "raw_hot": 58107,
+      "num": 77727,
       "word": "俄外长称谁当美国总统都一样",
       "onboard_time": 1727039951,
       "rank": 29,
       "category": "国外时政"
     },
     {
-      "raw_hot": 53550,
-      "num": 53550,
+      "raw_hot": 57802,
+      "num": 242074,
+      "word": "职校小伙用榫卯结构做面包获冠军",
+      "onboard_time": 1727046976,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 57634,
+      "num": 77693,
       "word": "赵露思双麻花辫活动造型",
       "onboard_time": 1727042051,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 50972,
+      "num": 77378,
+      "word": "比利亚雷亚尔1比5巴萨",
+      "onboard_time": 1727047397,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 46929,
@@ -641,6 +657,14 @@
       "onboard_time": 1727025674,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 43146,
+      "num": 77012,
+      "word": "孙千 苗苗时期的流水账日记",
+      "onboard_time": 1727047878,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 40290,
@@ -739,14 +763,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 15326,
-      "num": 242074,
-      "word": "职校小伙用榫卯结构做面包获冠军",
-      "onboard_time": 1727046976,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 14857,
       "num": 90433,
       "word": "文化中国行文物里的秋色平分",
@@ -772,7 +788,7 @@
     },
     {
       "raw_hot": 7766,
-      "num": 449855,
+      "num": 494998,
       "word": "丰收的画面有多治愈",
       "onboard_time": 1727012545,
       "rank": 2,
