@@ -1,6 +1,6 @@
 {
   "startTime": 1727022296039,
-  "endTime": 1727036530337,
+  "endTime": 1727037350164,
   "band_list": [
     {
       "raw_hot": 4119718,
@@ -611,20 +611,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 17256,
-      "num": 21964,
-      "word": "野生动物其实也在守护着人类",
-      "onboard_time": 1727036352,
-      "rank": 47,
-      "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 17169,
+      "raw_hot": 17674,
       "num": 21960,
       "word": "北大教授曾3年24小时照顾失能母亲",
       "onboard_time": 1727010443,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 17672,
+      "num": 21964,
+      "word": "野生动物其实也在守护着人类",
+      "onboard_time": 1727036352,
+      "rank": 47,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 16686,
@@ -633,6 +633,14 @@
       "onboard_time": 1727025315,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 16439,
+      "num": 21021,
+      "word": "刀郎演唱会",
+      "onboard_time": 1727037252,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 15939,
@@ -656,6 +664,14 @@
       "word": "大凉山小姑娘把童年快乐唱成歌",
       "onboard_time": 1727033531,
       "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 10255,
+      "num": 36449,
+      "word": "一年吃掉7亿头猪的中国人有多爱吃",
+      "onboard_time": 1727036530,
+      "rank": 9,
       "category": "社会新闻"
     },
     {

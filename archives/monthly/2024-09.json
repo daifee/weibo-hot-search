@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1727036530337,
+  "endTime": 1727037350164,
   "band_list": [
     {
       "raw_hot": 28035334,
@@ -66403,6 +66403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 17672,
+      "num": 21964,
+      "word": "野生动物其实也在守护着人类",
+      "onboard_time": 1727036352,
+      "rank": 47,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 17669,
       "num": 1248811,
       "word": "105公里边境线上的摩托车巡逻队",
@@ -66457,14 +66465,6 @@
       "onboard_time": 1726169772,
       "rank": 40,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 17256,
-      "num": 21964,
-      "word": "野生动物其实也在守护着人类",
-      "onboard_time": 1727036352,
-      "rank": 47,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 17227,
@@ -66537,6 +66537,14 @@
       "onboard_time": 1726982660,
       "rank": 18,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 16439,
+      "num": 21021,
+      "word": "刀郎演唱会",
+      "onboard_time": 1727037252,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 16242,
@@ -67233,6 +67241,14 @@
       "onboard_time": 1725782660,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 10255,
+      "num": 36449,
+      "word": "一年吃掉7亿头猪的中国人有多爱吃",
+      "onboard_time": 1727036530,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 10231,

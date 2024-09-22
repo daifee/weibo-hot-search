@@ -1,6 +1,6 @@
 {
   "startTime": 1726936020707,
-  "endTime": 1727036530337,
+  "endTime": 1727037350164,
   "band_list": [
     {
       "raw_hot": 6817146,
@@ -3683,20 +3683,20 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 17672,
+      "num": 21964,
+      "word": "野生动物其实也在守护着人类",
+      "onboard_time": 1727036352,
+      "rank": 47,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 17628,
       "num": 202914,
       "word": "第一次看秀就被品牌老板送同款",
       "onboard_time": 1726933882,
       "rank": 46,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 17256,
-      "num": 21964,
-      "word": "野生动物其实也在守护着人类",
-      "onboard_time": 1727036352,
-      "rank": 47,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 16686,
@@ -3713,6 +3713,14 @@
       "onboard_time": 1726982660,
       "rank": 18,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 16439,
+      "num": 21021,
+      "word": "刀郎演唱会",
+      "onboard_time": 1727037252,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 16242,
@@ -3800,6 +3808,14 @@
       "word": "宠物店卖星期宠被诉改头换面继续营业",
       "onboard_time": 1726990279,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 10255,
+      "num": 36449,
+      "word": "一年吃掉7亿头猪的中国人有多爱吃",
+      "onboard_time": 1727036530,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
