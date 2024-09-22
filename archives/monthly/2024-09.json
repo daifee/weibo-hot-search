@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1727000480411,
+  "endTime": 1727001516936,
   "band_list": [
     {
       "raw_hot": 28035334,
@@ -603,6 +603,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 2711206,
+      "num": 2429014,
+      "word": "罗翔",
+      "onboard_time": 1726996880,
+      "rank": 8,
+      "category": "教育"
+    },
+    {
       "raw_hot": 2706478,
       "num": 2912957,
       "word": "郑钦文无缘美网4强",
@@ -753,14 +761,6 @@
       "onboard_time": 1726845861,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2429014,
-      "num": 2429014,
-      "word": "罗翔",
-      "onboard_time": 1726996880,
-      "rank": 8,
-      "category": "教育"
     },
     {
       "raw_hot": 2422037,
@@ -3779,6 +3779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1232262,
+      "num": 1232262,
+      "word": "明道儿子担任陈乔恩Alan婚礼花童",
+      "onboard_time": 1726999759,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1231955,
       "num": 1231955,
       "word": "汪涵怎么突然老了这么多",
@@ -5305,14 +5313,6 @@
       "onboard_time": 1726427232,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1011828,
-      "num": 330311,
-      "word": "明道儿子担任陈乔恩Alan婚礼花童",
-      "onboard_time": 1726999759,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 1011795,
@@ -12987,6 +12987,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 501233,
+      "num": 254025,
+      "word": "妻子不能怀孕丈夫请求撤销婚姻",
+      "onboard_time": 1727000420,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 501155,
       "num": 501155,
       "word": "好想像张雨绮这么有种的活一次",
@@ -14889,6 +14897,14 @@
       "onboard_time": 1726212385,
       "rank": 25,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 438192,
+      "num": 314162,
+      "word": "白鹿哭了",
+      "onboard_time": 1727000780,
+      "rank": 7,
+      "category": "演出"
     },
     {
       "raw_hot": 437634,
@@ -18123,6 +18139,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 343242,
+      "num": 230952,
+      "word": "小伙经常晚上不刷牙嘴里长满结石",
+      "onboard_time": 1726999160,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 343142,
       "num": 190522,
       "word": "嘉行传媒十周年",
@@ -18513,14 +18537,6 @@
       "onboard_time": 1725341122,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 334236,
-      "num": 230952,
-      "word": "小伙经常晚上不刷牙嘴里长满结石",
-      "onboard_time": 1726999160,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 333219,
@@ -26595,6 +26611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 224485,
+      "num": 186202,
+      "word": "赵一博好大一束花",
+      "onboard_time": 1727000780,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 224450,
       "num": 224450,
       "word": "华为",
@@ -29288,6 +29312,14 @@
       "word": "登陆少年首秀亮相大湾区",
       "onboard_time": 1726928967,
       "rank": 41,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 205856,
+      "num": 185873,
+      "word": "湾区升明月直播封面图",
+      "onboard_time": 1727001020,
+      "rank": 26,
       "category": "音乐"
     },
     {
@@ -32859,6 +32891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 191878,
+      "num": 191878,
+      "word": "中国赛翁泓阳男单冠军",
+      "onboard_time": 1727000659,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 191805,
       "num": 191805,
       "word": "文俊辉北京签售",
@@ -35779,6 +35819,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 179592,
+      "num": 179592,
+      "word": "做了一盆水鬼",
+      "onboard_time": 1726999821,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 179587,
       "num": 179587,
       "word": "罗永浩 俞敏洪",
@@ -38113,6 +38161,14 @@
       "onboard_time": 1726657520,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 170358,
+      "num": 170358,
+      "word": "王力宏全红婵打招呼",
+      "onboard_time": 1726999880,
+      "rank": 32,
+      "category": "音乐"
     },
     {
       "raw_hot": 170335,
@@ -41587,14 +41643,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 156492,
-      "num": 156492,
-      "word": "王力宏全红婵打招呼",
-      "onboard_time": 1726999880,
-      "rank": 32,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 156432,
       "num": 156432,
       "word": "全球橙汁价格大涨",
@@ -41873,6 +41921,14 @@
       "onboard_time": 1726822579,
       "rank": 42,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 155497,
+      "num": 155497,
+      "word": "孙颖莎谈什么是幸福",
+      "onboard_time": 1727001320,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 155495,
@@ -42777,6 +42833,14 @@
       "onboard_time": 1725325940,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 152468,
+      "num": 152468,
+      "word": "陈梦等25人被记大功",
+      "onboard_time": 1727001020,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 152386,
@@ -43865,6 +43929,14 @@
       "onboard_time": 1725861860,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 147971,
+      "num": 147971,
+      "word": "女朋友没哄好把我哄好了",
+      "onboard_time": 1727000360,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 147963,
@@ -48491,14 +48563,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 128915,
-      "num": 128915,
-      "word": "做了一盆水鬼",
-      "onboard_time": 1726999821,
-      "rank": 37,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 128869,
       "num": 128869,
       "word": "汪苏泷晒演唱会大合照",
@@ -50427,6 +50491,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 117955,
+      "num": 117955,
+      "word": "当我家狗外出串门回来时",
+      "onboard_time": 1727001200,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 117921,
       "num": 117921,
       "word": "74岁意大利奶奶从威尼斯徒步到中国",
@@ -50739,6 +50811,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 115949,
+      "num": 115949,
+      "word": "苹果客服回应iPhone16使用钢壳电池",
+      "onboard_time": 1727001441,
+      "rank": 46,
+      "category": "数码"
+    },
+    {
       "raw_hot": 115879,
       "num": 115879,
       "word": "潘展乐一定要去一次陈奕迅演唱会",
@@ -50841,6 +50921,14 @@
       "onboard_time": 1726007232,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 115436,
+      "num": 223174,
+      "word": "我只记得爸爸的颜色是迷彩服",
+      "onboard_time": 1726999399,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 115393,
@@ -51059,14 +51147,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 113796,
-      "num": 113796,
-      "word": "女朋友没哄好把我哄好了",
-      "onboard_time": 1727000360,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 113708,
       "num": 129534,
       "word": "共赴一场KPL金雨之约",
@@ -51137,14 +51217,6 @@
       "onboard_time": 1726696631,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 113256,
-      "num": 223174,
-      "word": "我只记得爸爸的颜色是迷彩服",
-      "onboard_time": 1726999399,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 113212,
@@ -51777,14 +51849,6 @@
       "onboard_time": 1725779299,
       "rank": 45,
       "category": "国内时政,科学科普"
-    },
-    {
-      "raw_hot": 109629,
-      "num": 109629,
-      "word": "妻子不能怀孕丈夫请求撤销婚姻",
-      "onboard_time": 1727000420,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 109616,
@@ -60131,6 +60195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 40355,
+      "num": 140767,
+      "word": "搜狐视频播主大会",
+      "onboard_time": 1726999221,
+      "rank": 39,
+      "category": "互联网,作品衍生"
+    },
+    {
       "raw_hot": 40332,
       "num": 533323,
       "word": "养生月饼加人参约30元1块",
@@ -62235,14 +62307,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 31610,
-      "num": 125143,
-      "word": "搜狐视频播主大会",
-      "onboard_time": 1726999221,
-      "rank": 39,
-      "category": "互联网,作品衍生"
-    },
-    {
       "raw_hot": 31601,
       "num": 225593,
       "word": "房东的猫在杭州找到了美好事物",
@@ -63057,6 +63121,14 @@
       "onboard_time": 1726162874,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 28270,
+      "num": 275618,
+      "word": "中国人种菜已经nextlevel",
+      "onboard_time": 1727000838,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 28194,
@@ -66089,6 +66161,14 @@
       "onboard_time": 1726260911,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 4829,
+      "num": 191066,
+      "word": "吴谨言希望成为赵丽颖",
+      "onboard_time": 1727001499,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 4646,
