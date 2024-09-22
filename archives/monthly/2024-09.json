@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1727019304021,
+  "endTime": 1727022296039,
   "band_list": [
     {
       "raw_hot": 28035334,
@@ -289,6 +289,14 @@
       "onboard_time": 1726848801,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 4119718,
+      "num": 4119718,
+      "word": "肖战莫文蔚牵手合唱",
+      "onboard_time": 1727020400,
+      "rank": 0,
+      "category": "音乐"
     },
     {
       "raw_hot": 4119330,
@@ -2097,6 +2105,14 @@
       "onboard_time": 1726903579,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1611739,
+      "num": 342545,
+      "word": "肖战高音舞台",
+      "onboard_time": 1727021181,
+      "rank": 5,
+      "category": "音乐"
     },
     {
       "raw_hot": 1608927,
@@ -5307,6 +5323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1024550,
+      "num": 323998,
+      "word": "新华社出图",
+      "onboard_time": 1727019982,
+      "rank": 7,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1023581,
       "num": 413765,
       "word": "四川一玉米地发现脐带未剪女婴",
@@ -6929,6 +6953,14 @@
       "onboard_time": 1725245058,
       "rank": 31,
       "category": "演出,体育"
+    },
+    {
+      "raw_hot": 860207,
+      "num": 250476,
+      "word": "刘琳祝贺赵丽颖",
+      "onboard_time": 1727020942,
+      "rank": 10,
+      "category": "剧集"
     },
     {
       "raw_hot": 859199,
@@ -14873,6 +14905,14 @@
       "onboard_time": 1726972940,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 446306,
+      "num": 446306,
+      "word": "王昶 别催别催每天都在练的",
+      "onboard_time": 1727018123,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 446227,
@@ -25963,6 +26003,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 234543,
+      "num": 185253,
+      "word": "周慧敏还是那么美",
+      "onboard_time": 1727020400,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 234457,
       "num": 234457,
       "word": "上海最孤独饭店突然爆火",
@@ -28843,6 +28891,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 210735,
+      "num": 210735,
+      "word": "IU演唱会好多明星",
+      "onboard_time": 1727020101,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
       "raw_hot": 210718,
       "num": 210718,
       "word": "AG战胜RW",
@@ -29787,14 +29843,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 206093,
-      "num": 260896,
-      "word": "王昶 别催别催每天都在练的",
-      "onboard_time": 1727018123,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 206059,
       "num": 305568,
       "word": "新疆偶遇宋亚轩",
@@ -29881,6 +29929,14 @@
       "onboard_time": 1725158599,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 205742,
+      "num": 208944,
+      "word": "六公主拍的TOP登陆少年",
+      "onboard_time": 1727019263,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 205708,
@@ -35019,6 +35075,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 185712,
+      "num": 185712,
+      "word": "黄绮珊晒与樊振东登陆少年合照",
+      "onboard_time": 1727019862,
+      "rank": 28,
+      "category": "音乐,体育"
+    },
+    {
       "raw_hot": 185709,
       "num": 185709,
       "word": "JDE苏楠单场MVP",
@@ -37019,6 +37083,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 177382,
+      "num": 177382,
+      "word": "SEVENTEEN",
+      "onboard_time": 1727020581,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 177359,
       "num": 177359,
       "word": "偶遇黄圣依录再见爱人4",
@@ -37697,6 +37769,14 @@
       "onboard_time": 1726030702,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 174929,
+      "num": 209019,
+      "word": "黄霄雲唱功",
+      "onboard_time": 1727018962,
+      "rank": 42,
+      "category": "音乐"
     },
     {
       "raw_hot": 174894,
@@ -38736,6 +38816,14 @@
       "word": "四川凉山预期找到海量稀土",
       "onboard_time": 1726362018,
       "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 170727,
+      "num": 254326,
+      "word": "为什么超市买不到1元的冰露了",
+      "onboard_time": 1727020821,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -39947,14 +40035,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 165742,
-      "num": 209019,
-      "word": "黄霄雲唱功",
-      "onboard_time": 1727018962,
-      "rank": 42,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 165711,
       "num": 165711,
       "word": "下一战歌手官宣汪峰凡希亚",
@@ -40001,6 +40081,14 @@
       "onboard_time": 1725707181,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 165518,
+      "num": 227325,
+      "word": "躺在地上哭被喂过的流浪狗发现",
+      "onboard_time": 1727018422,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 165463,
@@ -40369,6 +40457,14 @@
       "onboard_time": 1726976358,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 163711,
+      "num": 218188,
+      "word": "LGD秋季赛周冠军",
+      "onboard_time": 1727021181,
+      "rank": 17,
+      "category": "电竞"
     },
     {
       "raw_hot": 163705,
@@ -41105,14 +41201,6 @@
       "onboard_time": 1726748120,
       "rank": 35,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 161065,
-      "num": 208944,
-      "word": "六公主拍的TOP登陆少年",
-      "onboard_time": 1727019263,
-      "rank": 43,
-      "category": "音乐"
     },
     {
       "raw_hot": 161059,
@@ -45947,6 +46035,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 142802,
+      "num": 161147,
+      "word": "把难吃表现得淋漓尽致",
+      "onboard_time": 1727020761,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 142797,
       "num": 142797,
       "word": "这是教官最想回部队的一次",
@@ -47827,14 +47923,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 134548,
-      "num": 227325,
-      "word": "躺在地上哭被喂过的流浪狗发现",
-      "onboard_time": 1727018422,
-      "rank": 49,
-      "category": "情感"
-    },
-    {
       "raw_hot": 134490,
       "num": 134490,
       "word": "王一博高原骑马",
@@ -48961,6 +49049,14 @@
       "onboard_time": 1726616358,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 129982,
+      "num": 410494,
+      "word": "央视曝光包治百病的保健床垫骗局",
+      "onboard_time": 1727017284,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 129961,
@@ -52163,6 +52259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 112574,
+      "num": 160936,
+      "word": "经常做梦和很少做梦谁睡眠质量好",
+      "onboard_time": 1727020761,
+      "rank": 39,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 112517,
       "num": 112517,
       "word": "朱志鑫耳洞",
@@ -55043,6 +55147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 87330,
+      "num": 120473,
+      "word": "诚C再获周决赛MVP",
+      "onboard_time": 1727021719,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 87312,
       "num": 87312,
       "word": "范志毅0比4骂早了",
@@ -56345,14 +56457,6 @@
       "onboard_time": 1726251433,
       "rank": 45,
       "category": "演出"
-    },
-    {
-      "raw_hot": 73023,
-      "num": 410494,
-      "word": "央视曝光包治百病的保健床垫骗局",
-      "onboard_time": 1727017284,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 73022,
