@@ -1,6 +1,6 @@
 {
   "startTime": 1726936020707,
-  "endTime": 1727018465247,
+  "endTime": 1727019304021,
   "band_list": [
     {
       "raw_hot": 6817146,
@@ -276,7 +276,7 @@
     },
     {
       "raw_hot": 1021817,
-      "num": 525037,
+      "num": 828445,
       "word": "登陆少年舞台首秀",
       "onboard_time": 1727015305,
       "rank": 16,
@@ -337,6 +337,14 @@
       "onboard_time": 1727009483,
       "rank": 33,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 866887,
+      "num": 866887,
+      "word": "爷爷发现孙子背后多出颗痣秒去医院",
+      "onboard_time": 1727007799,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 862002,
@@ -433,14 +441,6 @@
       "onboard_time": 1726984819,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 759393,
-      "num": 759393,
-      "word": "爷爷发现孙子背后多出颗痣秒去医院",
-      "onboard_time": 1727007799,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 742028,
@@ -545,6 +545,14 @@
       "onboard_time": 1726973538,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 636367,
+      "num": 275437,
+      "word": "aespa迷你五辑预告",
+      "onboard_time": 1727018064,
+      "rank": 21,
+      "category": "音乐"
     },
     {
       "raw_hot": 626200,
@@ -665,14 +673,6 @@
       "onboard_time": 1726969639,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 483296,
-      "num": 258782,
-      "word": "aespa迷你五辑预告",
-      "onboard_time": 1727018064,
-      "rank": 21,
-      "category": "音乐"
     },
     {
       "raw_hot": 478561,
@@ -801,6 +801,14 @@
       "onboard_time": 1726961716,
       "rank": 21,
       "category": "演出"
+    },
+    {
+      "raw_hot": 408870,
+      "num": 256497,
+      "word": "全红婵回应唱歌上热搜",
+      "onboard_time": 1727017825,
+      "rank": 23,
+      "category": "音乐,体育"
     },
     {
       "raw_hot": 407422,
@@ -963,14 +971,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 353132,
-      "num": 256497,
-      "word": "全红婵回应唱歌上热搜",
-      "onboard_time": 1727017825,
-      "rank": 23,
-      "category": "音乐,体育"
-    },
-    {
       "raw_hot": 349856,
       "num": 206250,
       "word": "汪峰凭一己之力让13个人尴尬",
@@ -1065,6 +1065,22 @@
       "onboard_time": 1726998260,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 309414,
+      "num": 233595,
+      "word": "aespa",
+      "onboard_time": 1727018543,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 309390,
+      "num": 309390,
+      "word": "孙杨运动员后要转型",
+      "onboard_time": 1727019201,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 304818,
@@ -1233,6 +1249,14 @@
       "onboard_time": 1726973359,
       "rank": 44,
       "category": "美食"
+    },
+    {
+      "raw_hot": 248410,
+      "num": 230539,
+      "word": "周深鸟巢演唱会",
+      "onboard_time": 1727018486,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 246226,
@@ -1496,6 +1520,14 @@
       "word": "任翔宇受伤",
       "onboard_time": 1727003601,
       "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 206093,
+      "num": 260896,
+      "word": "王昶 别催别催每天都在练的",
+      "onboard_time": 1727018123,
+      "rank": 19,
       "category": "体育"
     },
     {
@@ -1819,14 +1851,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 180510,
-      "num": 260896,
-      "word": "王昶 别催别催每天都在练的",
-      "onboard_time": 1727018123,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 179869,
       "num": 272299,
       "word": "管培生因未参加公司跑步活动被辞退",
@@ -1995,6 +2019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 165742,
+      "num": 209019,
+      "word": "黄霄雲唱功",
+      "onboard_time": 1727018962,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 165254,
       "num": 165254,
       "word": "涵艺爆料iG卖了",
@@ -2065,6 +2097,14 @@
       "onboard_time": 1726990279,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 161065,
+      "num": 208944,
+      "word": "六公主拍的TOP登陆少年",
+      "onboard_time": 1727019263,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 158412,
@@ -2212,7 +2252,7 @@
     },
     {
       "raw_hot": 147663,
-      "num": 228231,
+      "num": 236317,
       "word": "硕士拟被聘为勤杂工系工作人员失误",
       "onboard_time": 1727017825,
       "rank": 37,
@@ -2329,6 +2369,14 @@
       "onboard_time": 1727001562,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 134548,
+      "num": 227325,
+      "word": "躺在地上哭被喂过的流浪狗发现",
+      "onboard_time": 1727018422,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 133819,
@@ -2643,6 +2691,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 107930,
+      "num": 265819,
+      "word": "半熟男女",
+      "onboard_time": 1727016984,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 107101,
       "num": 107101,
       "word": "京淘淘称被羊毛党薅走1.8亿",
@@ -2787,14 +2843,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 81725,
-      "num": 227325,
-      "word": "躺在地上哭被喂过的流浪狗发现",
-      "onboard_time": 1727018422,
-      "rank": 49,
-      "category": "情感"
-    },
-    {
       "raw_hot": 81720,
       "num": 220645,
       "word": "威震天演我偶像塌房",
@@ -2841,6 +2889,14 @@
       "onboard_time": 1726925122,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 73023,
+      "num": 410494,
+      "word": "央视曝光包治百病的保健床垫骗局",
+      "onboard_time": 1727017284,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 72793,
@@ -2913,6 +2969,14 @@
       "onboard_time": 1726960875,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 62791,
+      "num": 231512,
+      "word": "中国农民丰收节晚会",
+      "onboard_time": 1727019263,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 62042,
@@ -3027,14 +3091,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 47257,
-      "num": 410494,
-      "word": "央视曝光包治百病的保健床垫骗局",
-      "onboard_time": 1727017284,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 46501,
       "num": 46501,
       "word": "王子文掉提",
@@ -3123,6 +3179,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 36312,
+      "num": 227854,
+      "word": "时代少年团在李宁秀场成功追星",
+      "onboard_time": 1727016324,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 35905,
       "num": 56607,
       "word": "葫芦果音乐节",
@@ -3179,12 +3243,12 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 29837,
-      "num": 227854,
-      "word": "时代少年团在李宁秀场成功追星",
-      "onboard_time": 1727016324,
-      "rank": 42,
-      "category": "艺人"
+      "raw_hot": 29811,
+      "num": 227752,
+      "word": "马龙出了赛场又到秀场",
+      "onboard_time": 1727016924,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 29658,
@@ -3257,14 +3321,6 @@
       "onboard_time": 1726948812,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 26162,
-      "num": 227752,
-      "word": "马龙出了赛场又到秀场",
-      "onboard_time": 1727016924,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 25936,

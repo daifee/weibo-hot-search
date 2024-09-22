@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/09/01 00:25:38 ~ 2024/09/22 23:21:05
+本榜单时间：2024/09/01 00:25:38 ~ 2024/09/22 23:35:04
 </p>
 </blockquote>
 <p>
@@ -5157,6 +5157,12 @@ Scout暂时无缘S14（热度：922133）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%88%B7%E7%88%B7%E5%8F%91%E7%8E%B0%E5%AD%99%E5%AD%90%E8%83%8C%E5%90%8E%E5%A4%9A%E5%87%BA%E9%A2%97%E7%97%A3%E7%A7%92%E5%8E%BB%E5%8C%BB%E9%99%A2%23" target="weibo">
+爷爷发现孙子背后多出颗痣秒去医院（热度：866887）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E7%9B%B4%E6%92%AD%E9%97%B4%E9%AB%98%E9%A2%9D%E8%BF%94%E5%88%A9%E9%AA%97%E5%B1%80%23" target="weibo">
 央视曝光直播间高额返利骗局（热度：864325）
 </a>
@@ -6005,12 +6011,6 @@ iPhone16仍有4款型号（热度：789396）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%A4%E5%91%B3%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8D%96%E4%B8%8D%E5%8A%A8%E4%BA%86%23" target="weibo">
 卤味为什么卖不动了（热度：777134）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%9F%E7%90%86%E6%9C%9F%E4%B8%8D%E7%97%9B%E7%9A%84%E6%98%AF%E6%98%93%E5%AD%95%E4%BD%93%E8%B4%A8%E5%90%97%23" target="weibo">
-生理期不痛的是易孕体质吗（热度：776759）
 </a>
 </li>
 
