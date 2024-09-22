@@ -1,6 +1,6 @@
 {
   "startTime": 1726936020707,
-  "endTime": 1727043622426,
+  "endTime": 1727044680552,
   "band_list": [
     {
       "raw_hot": 6817146,
@@ -1683,6 +1683,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 203457,
+      "num": 158599,
+      "word": "飞天奖提名争议是佳作频出的烦恼",
+      "onboard_time": 1727028192,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 203344,
       "num": 203344,
       "word": "年轻人开始买金条代替结婚三金",
@@ -2523,14 +2531,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 135675,
-      "num": 113657,
-      "word": "飞天奖提名争议是佳作频出的烦恼",
-      "onboard_time": 1727028192,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 135114,
       "num": 107918,
       "word": "周笔畅live的神",
@@ -3227,6 +3227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 59380,
+      "num": 59380,
+      "word": "陈乔恩Alan中式婚服",
+      "onboard_time": 1727039891,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 58897,
       "num": 58897,
       "word": "周深北京欢迎你万人大合唱",
@@ -3323,6 +3331,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 48926,
+      "num": 48926,
+      "word": "俄外长称谁当美国总统都一样",
+      "onboard_time": 1727039951,
+      "rank": 29,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 46929,
       "num": 71976,
       "word": "Cat解说杯FMVP",
@@ -3363,6 +3379,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 45378,
+      "num": 45378,
+      "word": "俄外长称普京支持哈里斯是玩笑话",
+      "onboard_time": 1727039291,
+      "rank": 15,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 44903,
+      "num": 44903,
+      "word": "一年吃掉7亿头猪的中国人有多爱吃",
+      "onboard_time": 1727036530,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 44881,
       "num": 586718,
       "word": "任嘉伦片场切号皮皮超",
@@ -3387,20 +3419,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 43527,
-      "num": 40401,
-      "word": "陈乔恩Alan中式婚服",
-      "onboard_time": 1727039891,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 42885,
       "num": 865932,
       "word": "天山南北唱新歌",
       "onboard_time": 1726998799,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 40788,
+      "num": 40788,
+      "word": "地下室进野猫后爬满跳蚤",
+      "onboard_time": 1727031192,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 40355,
@@ -3443,14 +3475,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 37668,
-      "num": 41167,
-      "word": "一年吃掉7亿头猪的中国人有多爱吃",
-      "onboard_time": 1727036530,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 36675,
       "num": 36675,
       "word": "登陆少年台下镜头",
@@ -3483,14 +3507,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 35391,
-      "num": 42717,
-      "word": "俄外长称普京支持哈里斯是玩笑话",
-      "onboard_time": 1727039291,
-      "rank": 15,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 34154,
       "num": 34154,
       "word": "刘耀文生日特别策划",
@@ -3505,6 +3521,14 @@
       "onboard_time": 1727014824,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 31614,
+      "num": 38943,
+      "word": "赵露思双麻花辫活动造型",
+      "onboard_time": 1727042051,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 30718,
@@ -3539,14 +3563,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 30005,
-      "num": 32407,
-      "word": "俄外长称谁当美国总统都一样",
-      "onboard_time": 1727039951,
-      "rank": 29,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 29811,
       "num": 227752,
       "word": "马龙出了赛场又到秀场",
@@ -3569,14 +3585,6 @@
       "onboard_time": 1726974860,
       "rank": 19,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 28756,
-      "num": 32378,
-      "word": "地下室进野猫后爬满跳蚤",
-      "onboard_time": 1727031192,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 28675,
@@ -3660,7 +3668,7 @@
     },
     {
       "raw_hot": 26777,
-      "num": 32343,
+      "num": 38940,
       "word": "宋亚轩看秀自拍",
       "onboard_time": 1727042412,
       "rank": 42,
@@ -3675,20 +3683,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 25272,
-      "num": 32304,
-      "word": "赵露思双麻花辫活动造型",
-      "onboard_time": 1727042051,
-      "rank": 45,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 23571,
       "num": 1355481,
       "word": "大自然有自己的秋天美学",
       "onboard_time": 1726986678,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 23123,
+      "num": 38940,
+      "word": "蝴蝶姐姐晒产子照",
+      "onboard_time": 1727044514,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 22685,
@@ -3876,7 +3884,7 @@
     },
     {
       "raw_hot": 7766,
-      "num": 157985,
+      "num": 199721,
       "word": "丰收的画面有多治愈",
       "onboard_time": 1727012545,
       "rank": 2,
