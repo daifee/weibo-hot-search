@@ -1,6 +1,6 @@
 {
   "startTime": 1726936020707,
-  "endTime": 1726975683914,
+  "endTime": 1726976520586,
   "band_list": [
     {
       "raw_hot": 4059841,
@@ -19,8 +19,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 3006672,
-      "num": 3006672,
+      "raw_hot": 3075891,
+      "num": 3075891,
       "word": "殷桃回复飞天奖没提名",
       "onboard_time": 1726972100,
       "rank": 0,
@@ -67,15 +67,15 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 988907,
-      "num": 877117,
+      "raw_hot": 1106238,
+      "num": 1106238,
       "word": "加沙一孕妇死于空袭孩子掉在楼梯上",
       "onboard_time": 1726967659,
       "rank": 20,
       "category": "国外时政"
     },
     {
-      "raw_hot": 901124,
+      "raw_hot": 1030674,
       "num": 489777,
       "word": "刘雨鑫为殷桃发声",
       "onboard_time": 1726974019,
@@ -155,7 +155,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 594196,
+      "raw_hot": 641362,
       "num": 467136,
       "word": "周深鸟巢上座率",
       "onboard_time": 1726973538,
@@ -211,12 +211,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 459047,
+      "num": 323278,
+      "word": "于正否认针对杨紫",
+      "onboard_time": 1726973180,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 448503,
       "num": 269725,
       "word": "殷桃 没提名",
       "onboard_time": 1726927107,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 446747,
+      "num": 272842,
+      "word": "9岁男孩坚持跑步3年从64斤跑到52斤",
+      "onboard_time": 1726972940,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 446227,
@@ -240,22 +256,6 @@
       "word": "权志龙IU合照",
       "onboard_time": 1726969099,
       "rank": 32,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 414147,
-      "num": 272842,
-      "word": "9岁男孩坚持跑步3年从64斤跑到52斤",
-      "onboard_time": 1726972940,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 413794,
-      "num": 323278,
-      "word": "于正否认针对杨紫",
-      "onboard_time": 1726973180,
-      "rank": 18,
       "category": "艺人"
     },
     {
@@ -379,6 +379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 270336,
+      "num": 270336,
+      "word": "法考",
+      "onboard_time": 1726975640,
+      "rank": 48,
+      "category": "教育"
+    },
+    {
       "raw_hot": 262364,
       "num": 214828,
       "word": "韩安冉回应亲生妈妈当小三",
@@ -393,6 +401,14 @@
       "onboard_time": 1726926626,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 248506,
+      "num": 248506,
+      "word": "江浙沪brunch",
+      "onboard_time": 1726973359,
+      "rank": 44,
+      "category": "美食"
     },
     {
       "raw_hot": 239485,
@@ -417,14 +433,6 @@
       "onboard_time": 1726928845,
       "rank": 30,
       "category": "电影"
-    },
-    {
-      "raw_hot": 223290,
-      "num": 223290,
-      "word": "江浙沪brunch",
-      "onboard_time": 1726973359,
-      "rank": 44,
-      "category": "美食"
     },
     {
       "raw_hot": 220976,
@@ -457,6 +465,14 @@
       "onboard_time": 1726961355,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 214377,
+      "num": 214377,
+      "word": "李荣浩 谢谢大家对我们全家的支持",
+      "onboard_time": 1726975880,
+      "rank": 26,
+      "category": "演出"
     },
     {
       "raw_hot": 209651,
@@ -531,6 +547,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 197837,
+      "num": 190416,
+      "word": "这居然是许嵩发出的声音",
+      "onboard_time": 1726975999,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 194922,
+      "num": 194922,
+      "word": "世界犀牛日",
+      "onboard_time": 1726975999,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 183686,
       "num": 123576,
       "word": "宋威龙 养爬宠的可以发博艾特我",
@@ -553,6 +585,14 @@
       "onboard_time": 1726967300,
       "rank": 45,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 176817,
+      "num": 176817,
+      "word": "李白明月光主题新皮肤",
+      "onboard_time": 1726976060,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 175566,
@@ -627,6 +667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 163732,
+      "num": 163732,
+      "word": "周杰伦南京抢票",
+      "onboard_time": 1726976358,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
       "raw_hot": 163209,
       "num": 163209,
       "word": "向佐 我只是想把自己炒热",
@@ -673,6 +721,22 @@
       "onboard_time": 1726973480,
       "rank": 39,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 150139,
+      "num": 150139,
+      "word": "粉笔模考",
+      "onboard_time": 1726976420,
+      "rank": 39,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 149471,
+      "num": 149471,
+      "word": "入青云路透",
+      "onboard_time": 1726976240,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 148974,
@@ -723,6 +787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 144998,
+      "num": 144998,
+      "word": "一个爱钱一个有钱建议锁死",
+      "onboard_time": 1726976479,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 143210,
       "num": 143210,
       "word": "惠若琪说周深嗓子确实杠杠的",
@@ -739,12 +811,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 141149,
+      "num": 141149,
+      "word": "王者荣耀联动李白故里",
+      "onboard_time": 1726976358,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 140227,
       "num": 140227,
       "word": "肖战2024湾区升明月彩排",
       "onboard_time": 1726961656,
       "rank": 34,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 137674,
+      "num": 137674,
+      "word": "以色列海法及以北进入紧急状态",
+      "onboard_time": 1726976060,
+      "rank": 46,
+      "category": "国外时政"
     },
     {
       "raw_hot": 133819,
@@ -793,14 +881,6 @@
       "onboard_time": 1726935202,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 127099,
-      "num": 127099,
-      "word": "法考",
-      "onboard_time": 1726975640,
-      "rank": 48,
-      "category": "教育"
     },
     {
       "raw_hot": 126999,
@@ -1059,6 +1139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 44620,
+      "num": 270225,
+      "word": "舒淇杨紫琼同框热聊",
+      "onboard_time": 1726976240,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 38857,
       "num": 22973,
       "word": "飞天奖视后获奖感言",
@@ -1081,6 +1169,14 @@
       "onboard_time": 1726967840,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 28778,
+      "num": 275743,
+      "word": "以色列为何大规模攻击真主党",
+      "onboard_time": 1726974860,
+      "rank": 19,
+      "category": "国外时政"
     },
     {
       "raw_hot": 27887,
@@ -1113,14 +1209,6 @@
       "onboard_time": 1726933102,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 21140,
-      "num": 275743,
-      "word": "以色列为何大规模攻击真主党",
-      "onboard_time": 1726974860,
-      "rank": 19,
-      "category": "国外时政"
     },
     {
       "raw_hot": 20674,
@@ -1171,19 +1259,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 12095,
+      "num": 823880,
+      "word": "青春华章",
+      "onboard_time": 1726819520,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 11698,
       "num": 67405,
       "word": "浙江厨神外婆每天给外孙做花式早点",
       "onboard_time": 1726956913,
       "rank": 23,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 11314,
-      "num": 823880,
-      "word": "青春华章",
-      "onboard_time": 1726819520,
-      "rank": 2,
       "category": "社会新闻"
     }
   ],
