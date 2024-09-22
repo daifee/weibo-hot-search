@@ -1,6 +1,6 @@
 {
   "startTime": 1727022296039,
-  "endTime": 1727044680552,
+  "endTime": 1727047320479,
   "band_list": [
     {
       "raw_hot": 4119718,
@@ -51,6 +51,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 821906,
+      "num": 255150,
+      "word": "哺乳期妈妈怀孕7个月毫不知情",
+      "onboard_time": 1727009843,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 725568,
       "num": 214737,
       "word": "谢娜给陈乔恩66666.66红包",
@@ -67,19 +75,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 558717,
-      "num": 255150,
-      "word": "哺乳期妈妈怀孕7个月毫不知情",
-      "onboard_time": 1727009843,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 555862,
       "num": 555862,
       "word": "爷爷发现孙子背后多出颗痣秒去医院",
       "onboard_time": 1727007799,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 468876,
+      "num": 468876,
+      "word": "为什么超市买不到1元的冰露了",
+      "onboard_time": 1727020821,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -89,6 +97,14 @@
       "onboard_time": 1727018123,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 437662,
+      "num": 437662,
+      "word": "飞天奖提名争议是佳作频出的烦恼",
+      "onboard_time": 1727028192,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 377455,
@@ -107,14 +123,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 363180,
-      "num": 363180,
-      "word": "为什么超市买不到1元的冰露了",
-      "onboard_time": 1727020821,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 345011,
       "num": 345011,
       "word": "千万身价老板破产法院4元拍卖雪碧",
@@ -123,8 +131,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 326785,
+      "num": 326785,
+      "word": "北京12345话务员一次电话接了13小时",
+      "onboard_time": 1727013385,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 310948,
-      "num": 159053,
+      "num": 167170,
       "word": "单依纯修音响来了",
       "onboard_time": 1727024297,
       "rank": 12,
@@ -235,14 +251,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 203457,
-      "num": 158599,
-      "word": "飞天奖提名争议是佳作频出的烦恼",
-      "onboard_time": 1727028192,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 201552,
       "num": 201552,
       "word": "王力宏李治廷同台",
@@ -259,20 +267,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 195908,
+      "num": 195908,
+      "word": "北大教授曾3年24小时照顾失能母亲",
+      "onboard_time": 1727010443,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 187268,
       "num": 174620,
       "word": "于正发文祝白鹿生日快乐",
       "onboard_time": 1727022737,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 186960,
-      "num": 218482,
-      "word": "北京12345话务员一次电话接了13小时",
-      "onboard_time": 1727013385,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 185172,
@@ -363,6 +371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 153474,
+      "num": 153474,
+      "word": "央视揭秘黑发产品骗局",
+      "onboard_time": 1727023398,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 145001,
       "num": 145001,
       "word": "白鹿哭了",
@@ -395,20 +411,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 137448,
+      "num": 137448,
+      "word": "这次听到樊振东声音了",
+      "onboard_time": 1727026814,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 135114,
       "num": 107918,
       "word": "周笔畅live的神",
       "onboard_time": 1727024297,
       "rank": 23,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 134541,
-      "num": 134541,
-      "word": "央视揭秘黑发产品骗局",
-      "onboard_time": 1727023398,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 129982,
@@ -435,14 +451,6 @@
       "category": "演出,音乐"
     },
     {
-      "raw_hot": 104504,
-      "num": 104504,
-      "word": "这次听到樊振东声音了",
-      "onboard_time": 1727026814,
-      "rank": 12,
-      "category": "体育"
-    },
-    {
       "raw_hot": 103979,
       "num": 122902,
       "word": "硕士拟被聘为勤杂工系工作人员失误",
@@ -467,18 +475,34 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 98183,
+      "num": 98183,
+      "word": "近5亿年地球几乎一直比现在更热",
+      "onboard_time": 1727046075,
+      "rank": 25,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 94680,
+      "num": 94680,
+      "word": "蝴蝶姐姐晒产子照",
+      "onboard_time": 1727044514,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 92790,
+      "num": 92790,
+      "word": "西湖里有片叶子能站200斤的人",
+      "onboard_time": 1727023937,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 92469,
       "num": 121035,
       "word": "妻子不能怀孕丈夫请求撤销婚姻",
       "onboard_time": 1727000420,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 90222,
-      "num": 90222,
-      "word": "北大教授曾3年24小时照顾失能母亲",
-      "onboard_time": 1727010443,
       "rank": 48,
       "category": "社会新闻"
     },
@@ -499,11 +523,11 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 78158,
-      "num": 85842,
-      "word": "西湖里有片叶子能站200斤的人",
-      "onboard_time": 1727023937,
-      "rank": 39,
+      "raw_hot": 79257,
+      "num": 79257,
+      "word": "女子半夜杀害出轨丈夫被判无期",
+      "onboard_time": 1727009782,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -513,6 +537,22 @@
       "onboard_time": 1727021421,
       "rank": 48,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 75226,
+      "num": 75226,
+      "word": "地下室进野猫后爬满跳蚤",
+      "onboard_time": 1727031192,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 73788,
+      "num": 73788,
+      "word": "李晨张真源去了周深演唱会",
+      "onboard_time": 1727046136,
+      "rank": 30,
+      "category": "演出"
     },
     {
       "raw_hot": 72257,
@@ -531,6 +571,22 @@
       "category": "音乐,体育"
     },
     {
+      "raw_hot": 62071,
+      "num": 62071,
+      "word": "一年吃掉7亿头猪的中国人有多爱吃",
+      "onboard_time": 1727036530,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 60358,
+      "num": 60358,
+      "word": "aespa和ILLIT同一天回归",
+      "onboard_time": 1727046195,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 59380,
       "num": 59380,
       "word": "陈乔恩Alan中式婚服",
@@ -547,12 +603,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 48926,
-      "num": 48926,
+      "raw_hot": 55220,
+      "num": 55220,
       "word": "俄外长称谁当美国总统都一样",
       "onboard_time": 1727039951,
       "rank": 29,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 53550,
+      "num": 53550,
+      "word": "赵露思双麻花辫活动造型",
+      "onboard_time": 1727042051,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 46929,
@@ -563,20 +627,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 45378,
-      "num": 45378,
+      "raw_hot": 46679,
+      "num": 52332,
       "word": "俄外长称普京支持哈里斯是玩笑话",
       "onboard_time": 1727039291,
       "rank": 15,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 44903,
-      "num": 44903,
-      "word": "一年吃掉7亿头猪的中国人有多爱吃",
-      "onboard_time": 1727036530,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 43635,
@@ -585,14 +641,6 @@
       "onboard_time": 1727025674,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 40788,
-      "num": 40788,
-      "word": "地下室进野猫后爬满跳蚤",
-      "onboard_time": 1727031192,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 40290,
@@ -616,14 +664,6 @@
       "word": "刘耀文生日特别策划",
       "onboard_time": 1727030053,
       "rank": 41,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 31614,
-      "num": 38943,
-      "word": "赵露思双麻花辫活动造型",
-      "onboard_time": 1727042051,
-      "rank": 45,
       "category": "艺人"
     },
     {
@@ -667,14 +707,6 @@
       "category": "艺人,作品衍生"
     },
     {
-      "raw_hot": 23123,
-      "num": 38940,
-      "word": "蝴蝶姐姐晒产子照",
-      "onboard_time": 1727044514,
-      "rank": 49,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 18193,
       "num": 23546,
       "word": "野生动物其实也在守护着人类",
@@ -707,6 +739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 15326,
+      "num": 242074,
+      "word": "职校小伙用榫卯结构做面包获冠军",
+      "onboard_time": 1727046976,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 14857,
       "num": 90433,
       "word": "文化中国行文物里的秋色平分",
@@ -732,7 +772,7 @@
     },
     {
       "raw_hot": 7766,
-      "num": 199721,
+      "num": 449855,
       "word": "丰收的画面有多治愈",
       "onboard_time": 1727012545,
       "rank": 2,
