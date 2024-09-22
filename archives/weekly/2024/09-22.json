@@ -1,6 +1,6 @@
 {
   "startTime": 1726936020707,
-  "endTime": 1727014717688,
+  "endTime": 1727015815395,
   "band_list": [
     {
       "raw_hot": 4059841,
@@ -43,6 +43,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 2683262,
+      "num": 2683262,
+      "word": "湾区升明月",
+      "onboard_time": 1727004261,
+      "rank": 16,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 2608480,
       "num": 582356,
       "word": "妻子发现丈夫出轨后半夜杀夫",
@@ -51,20 +59,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2607875,
-      "num": 2607875,
-      "word": "湾区升明月",
-      "onboard_time": 1727004261,
-      "rank": 16,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 2382835,
       "num": 2382835,
       "word": "成都一女子坠楼砸中路人2人死亡",
       "onboard_time": 1726964538,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2329319,
+      "num": 1350449,
+      "word": "易烊千玺松弛感",
+      "onboard_time": 1727014104,
+      "rank": 3,
+      "category": "音乐"
     },
     {
       "raw_hot": 2159647,
@@ -83,14 +91,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 1873261,
-      "num": 1350449,
-      "word": "易烊千玺松弛感",
-      "onboard_time": 1727014104,
-      "rank": 3,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 1716911,
       "num": 1716911,
       "word": "陈乔恩的伴娘团",
@@ -104,6 +104,14 @@
       "word": "哺乳期妈妈怀孕7个月毫不知情",
       "onboard_time": 1727009843,
       "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1678310,
+      "num": 1678310,
+      "word": "卖惨博主被曝月入上千万",
+      "onboard_time": 1727011285,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -219,6 +227,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 1133353,
+      "num": 818095,
+      "word": "2024湾区升明月节目单",
+      "onboard_time": 1726991719,
+      "rank": 29,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1129528,
       "num": 1129528,
       "word": "叶剑英元帅长女叶楚梅逝世",
@@ -251,20 +267,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1066940,
-      "num": 1066940,
-      "word": "卖惨博主被曝月入上千万",
-      "onboard_time": 1727011285,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1030674,
       "num": 489777,
       "word": "刘雨鑫为殷桃发声",
       "onboard_time": 1726974019,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 981732,
+      "num": 562395,
+      "word": "真唱",
+      "onboard_time": 1727009782,
+      "rank": 16,
+      "category": "音乐"
     },
     {
       "raw_hot": 979238,
@@ -281,14 +297,6 @@
       "onboard_time": 1727000420,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 927084,
-      "num": 570061,
-      "word": "2024湾区升明月节目单",
-      "onboard_time": 1726991719,
-      "rank": 29,
-      "category": "音乐"
     },
     {
       "raw_hot": 920348,
@@ -313,6 +321,14 @@
       "onboard_time": 1726990938,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 877022,
+      "num": 491219,
+      "word": "登陆少年舞台首秀",
+      "onboard_time": 1727015305,
+      "rank": 16,
+      "category": "音乐"
     },
     {
       "raw_hot": 873029,
@@ -387,14 +403,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 808628,
-      "num": 562395,
-      "word": "真唱",
-      "onboard_time": 1727009782,
-      "rank": 16,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 804521,
       "num": 804521,
       "word": "孙颖莎见面会",
@@ -428,7 +436,7 @@
     },
     {
       "raw_hot": 742028,
-      "num": 399362,
+      "num": 490274,
       "word": "林忆莲状态真好",
       "onboard_time": 1727013804,
       "rank": 15,
@@ -460,7 +468,7 @@
     },
     {
       "raw_hot": 712142,
-      "num": 343039,
+      "num": 350931,
       "word": "央视新闻报道赵丽颖获飞天奖视后",
       "onboard_time": 1727006239,
       "rank": 14,
@@ -715,6 +723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 441509,
+      "num": 441509,
+      "word": "孙颖莎王楚钦担任特派体育老师",
+      "onboard_time": 1727014164,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 434296,
       "num": 240648,
       "word": "陈赫张子萱贴脸秀恩爱",
@@ -724,7 +740,7 @@
     },
     {
       "raw_hot": 433289,
-      "num": 229840,
+      "num": 313748,
       "word": "林志炫太牛了",
       "onboard_time": 1727013204,
       "rank": 23,
@@ -811,12 +827,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 387014,
-      "num": 387014,
-      "word": "孙颖莎王楚钦担任特派体育老师",
-      "onboard_time": 1727014164,
-      "rank": 17,
-      "category": "体育"
+      "raw_hot": 388744,
+      "num": 388744,
+      "word": "易烊千玺湾区升明月晚会生图",
+      "onboard_time": 1727014945,
+      "rank": 25,
+      "category": "音乐"
     },
     {
       "raw_hot": 385557,
@@ -836,7 +852,7 @@
     },
     {
       "raw_hot": 380820,
-      "num": 228338,
+      "num": 363929,
       "word": "白鹿坚持在跑男的原因",
       "onboard_time": 1727012905,
       "rank": 25,
@@ -844,11 +860,19 @@
     },
     {
       "raw_hot": 379832,
-      "num": 226401,
+      "num": 332407,
       "word": "王力宏像在开演唱会",
       "onboard_time": 1727013504,
       "rank": 27,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 379725,
+      "num": 379725,
+      "word": "北京12345话务员一次电话接了13小时",
+      "onboard_time": 1727013385,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 371759,
@@ -971,6 +995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 331060,
+      "num": 331060,
+      "word": "TFBOYS恭喜王俊凯全球代言",
+      "onboard_time": 1727011705,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 330713,
       "num": 319654,
       "word": "男子去大溪地找富婆拍成剧了",
@@ -1003,14 +1035,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 306959,
-      "num": 221488,
-      "word": "TFBOYS恭喜王俊凯全球代言",
-      "onboard_time": 1727011705,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 304818,
       "num": 249951,
       "word": "登陆少年出图",
@@ -1041,6 +1065,22 @@
       "onboard_time": 1727008102,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 292852,
+      "num": 292852,
+      "word": "登陆少年表演hello大湾",
+      "onboard_time": 1727004621,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 289819,
+      "num": 289819,
+      "word": "樊振东 端水大师",
+      "onboard_time": 1727014705,
+      "rank": 47,
+      "category": "音乐,体育"
     },
     {
       "raw_hot": 283025,
@@ -1227,20 +1267,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 236284,
+      "num": 236284,
+      "word": "黄誉博叫徐艺洋老板娘",
+      "onboard_time": 1727015065,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
       "raw_hot": 235187,
       "num": 235187,
       "word": "张译播音腔",
       "onboard_time": 1727008642,
       "rank": 40,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 233003,
-      "num": 233003,
-      "word": "北京12345话务员一次电话接了13小时",
-      "onboard_time": 1727013385,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 232600,
@@ -1387,11 +1427,19 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 210747,
-      "num": 210747,
+      "raw_hot": 210935,
+      "num": 210935,
       "word": "朱志鑫湾区升明月内场图",
       "onboard_time": 1727009902,
       "rank": 38,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 210121,
+      "num": 210121,
+      "word": "向云端rap",
+      "onboard_time": 1727015305,
+      "rank": 44,
       "category": "音乐"
     },
     {
@@ -1563,14 +1611,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 196118,
-      "num": 196118,
-      "word": "登陆少年表演hello大湾",
-      "onboard_time": 1727004621,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 195556,
       "num": 195556,
       "word": "冯巩一句我想死你们了婚礼秒变春晚",
@@ -1675,6 +1715,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 185752,
+      "num": 588820,
+      "word": "北大教授曾3年24小时照顾失能母亲",
+      "onboard_time": 1727010443,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 184064,
       "num": 243666,
       "word": "美国伯明翰发生大规模枪击事件",
@@ -1763,14 +1811,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 178449,
-      "num": 588820,
-      "word": "北大教授曾3年24小时照顾失能母亲",
-      "onboard_time": 1727010443,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 178370,
       "num": 178370,
       "word": "刘宇宁现场好稳",
@@ -1857,14 +1897,6 @@
       "onboard_time": 1726999880,
       "rank": 32,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 170261,
-      "num": 170261,
-      "word": "樊振东 端水大师",
-      "onboard_time": 1727014705,
-      "rank": 47,
-      "category": "音乐,体育"
     },
     {
       "raw_hot": 169076,
@@ -2075,6 +2107,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 151534,
+      "num": 179127,
+      "word": "吴艳妮徐卓一组合夺冠",
+      "onboard_time": 1727013385,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 150139,
       "num": 150139,
       "word": "粉笔模考",
@@ -2185,6 +2225,14 @@
       "onboard_time": 1726922301,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 142805,
+      "num": 178517,
+      "word": "原来你们看的细节是这些东西",
+      "onboard_time": 1727015245,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 141149,
@@ -3019,6 +3067,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 33716,
+      "num": 297328,
+      "word": "冲锋衣的透汽和透气是不一样的",
+      "onboard_time": 1727014224,
+      "rank": 37,
+      "category": "时尚"
+    },
+    {
+      "raw_hot": 32633,
+      "num": 535330,
+      "word": "法拍房催生职业清房人",
+      "onboard_time": 1727014824,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 30718,
       "num": 238674,
       "word": "一张图看懂家居服怎么选",
@@ -3068,7 +3132,7 @@
     },
     {
       "raw_hot": 28675,
-      "num": 218219,
+      "num": 497645,
       "word": "长安启源E07比理想中的家更理想",
       "onboard_time": 1727014224,
       "rank": 38,
@@ -3131,6 +3195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 23571,
+      "num": 1355481,
+      "word": "大自然有自己的秋天美学",
+      "onboard_time": 1726986678,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 22685,
       "num": 681828,
       "word": "文化中国行看丰收之美",
@@ -3171,27 +3243,11 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 18005,
-      "num": 1355481,
-      "word": "大自然有自己的秋天美学",
-      "onboard_time": 1726986678,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 17628,
       "num": 202914,
       "word": "第一次看秀就被品牌老板送同款",
       "onboard_time": 1726933882,
       "rank": 46,
-      "category": "时尚"
-    },
-    {
-      "raw_hot": 16920,
-      "num": 219230,
-      "word": "冲锋衣的透汽和透气是不一样的",
-      "onboard_time": 1727014224,
-      "rank": 37,
       "category": "时尚"
     },
     {
@@ -3201,6 +3257,14 @@
       "onboard_time": 1726982660,
       "rank": 18,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 16242,
+      "num": 332537,
+      "word": "卫昭悄悄放回小泥猫",
+      "onboard_time": 1727015724,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 14124,
@@ -3264,6 +3328,14 @@
       "word": "青春华章津彩绽放",
       "onboard_time": 1726994960,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 6169,
+      "num": 503614,
+      "word": "遏制高空抛物要追责更要重判重罚",
+      "onboard_time": 1727015785,
+      "rank": 14,
       "category": "社会新闻"
     },
     {

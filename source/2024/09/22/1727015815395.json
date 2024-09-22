@@ -1,0 +1,410 @@
+{
+  "runTime": 1727015815395,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2683262,
+        "num": 2683262,
+        "word": "湾区升明月",
+        "onboard_time": 1727004261,
+        "rank": 0,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1678310,
+        "num": 1678310,
+        "word": "卖惨博主被曝月入上千万",
+        "onboard_time": 1727011285,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23571,
+        "num": 1339984,
+        "word": "大自然有自己的秋天美学",
+        "onboard_time": 1726986678,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2329319,
+        "num": 1334272,
+        "word": "易烊千玺松弛感",
+        "onboard_time": 1727014104,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1302233,
+        "num": 1302233,
+        "word": "孙颖莎谈跟王楚钦拥抱的照片",
+        "onboard_time": 1727009902,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1020218,
+        "num": 1020218,
+        "word": "千万身价老板破产法院4元拍卖雪碧",
+        "onboard_time": 1727009182,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1738169,
+        "num": 904894,
+        "word": "肖战黄晓明互相让位",
+        "onboard_time": 1727011705,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1133353,
+        "num": 818095,
+        "word": "2024湾区升明月节目单",
+        "onboard_time": 1726991719,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 535537,
+        "num": 535537,
+        "word": "爷爷发现孙子背后多出颗痣秒去医院",
+        "onboard_time": 1727007799,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32633,
+        "num": 535330,
+        "word": "法拍房催生职业清房人",
+        "onboard_time": 1727014824,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2027515,
+        "num": 524527,
+        "word": "妻子发现丈夫出轨后半夜杀夫",
+        "onboard_time": 1727007681,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1488224,
+        "num": 524042,
+        "word": "哺乳期妈妈怀孕7个月毫不知情",
+        "onboard_time": 1727009843,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 981732,
+        "num": 516296,
+        "word": "真唱",
+        "onboard_time": 1727009782,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 942961,
+        "num": 509628,
+        "word": "肖战台下笑的好甜",
+        "onboard_time": 1727013504,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 6169,
+        "num": 503614,
+        "word": "遏制高空抛物要追责更要重判重罚",
+        "onboard_time": 1727015785,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18582,
+        "num": 497645,
+        "word": "长安启源E07比理想中的家更理想",
+        "onboard_time": 1727014224,
+        "rank": 15,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 877022,
+        "num": 491219,
+        "word": "登陆少年舞台首秀",
+        "onboard_time": 1727015305,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 600767,
+        "num": 490274,
+        "word": "林忆莲状态真好",
+        "onboard_time": 1727013804,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 485313,
+        "num": 485313,
+        "word": "山姆10天翻车3次",
+        "onboard_time": 1727001800,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 441509,
+        "num": 441509,
+        "word": "孙颖莎王楚钦担任特派体育老师",
+        "onboard_time": 1727014164,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1765880,
+        "num": 434471,
+        "word": "谢娜给陈乔恩66666.66红包",
+        "onboard_time": 1727003241,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 551276,
+        "num": 429185,
+        "word": "全红婵声音好大",
+        "onboard_time": 1727007862,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 541506,
+        "num": 418632,
+        "word": "吴谨言希望成为赵丽颖",
+        "onboard_time": 1727001499,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 393713,
+        "num": 393713,
+        "word": "孙杨回应是否参加洛杉矶奥运会",
+        "onboard_time": 1727011824,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 407794,
+        "num": 392565,
+        "word": "王力宏李治廷同台",
+        "onboard_time": 1727007799,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 388744,
+        "num": 388744,
+        "word": "易烊千玺湾区升明月晚会生图",
+        "onboard_time": 1727014945,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 379725,
+        "num": 379725,
+        "word": "北京12345话务员一次电话接了13小时",
+        "onboard_time": 1727013385,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 363929,
+        "num": 363929,
+        "word": "白鹿坚持在跑男的原因",
+        "onboard_time": 1727012905,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 350931,
+        "num": 350931,
+        "word": "央视新闻报道赵丽颖获飞天奖视后",
+        "onboard_time": 1727006239,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16242,
+        "num": 332537,
+        "word": "卫昭悄悄放回小泥猫",
+        "onboard_time": 1727015724,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 357862,
+        "num": 332407,
+        "word": "王力宏像在开演唱会",
+        "onboard_time": 1727013504,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 331060,
+        "num": 331060,
+        "word": "TFBOYS恭喜王俊凯全球代言",
+        "onboard_time": 1727011705,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164083,
+        "num": 330672,
+        "word": "美国拨款16亿美元雇水军黑中国",
+        "onboard_time": 1726992079,
+        "rank": 32,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 330309,
+        "num": 330309,
+        "word": "明道儿子担任陈乔恩Alan婚礼花童",
+        "onboard_time": 1726999759,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 317426,
+        "num": 317426,
+        "word": "小伙经常晚上不刷牙嘴里长满结石",
+        "onboard_time": 1726999160,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 313748,
+        "num": 313748,
+        "word": "林志炫太牛了",
+        "onboard_time": 1727013204,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 308652,
+        "num": 308652,
+        "word": "白鹿哭了",
+        "onboard_time": 1727000780,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 304652,
+        "num": 304652,
+        "word": "樊振东直拍",
+        "onboard_time": 1727009062,
+        "rank": 37,
+        "category": "音乐,体育"
+      },
+      {
+        "raw_hot": 33716,
+        "num": 297328,
+        "word": "冲锋衣的透汽和透气是不一样的",
+        "onboard_time": 1727014224,
+        "rank": 38,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 292852,
+        "num": 292852,
+        "word": "登陆少年表演hello大湾",
+        "onboard_time": 1727004621,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 289819,
+        "num": 289819,
+        "word": "樊振东 端水大师",
+        "onboard_time": 1727014705,
+        "rank": 40,
+        "category": "音乐,体育"
+      },
+      {
+        "raw_hot": 267353,
+        "num": 267353,
+        "word": "成龙真唱",
+        "onboard_time": 1727009483,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 236284,
+        "num": 236284,
+        "word": "黄誉博叫徐艺洋老板娘",
+        "onboard_time": 1727015065,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 210935,
+        "num": 210935,
+        "word": "朱志鑫湾区升明月内场图",
+        "onboard_time": 1727009902,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 210121,
+        "num": 210121,
+        "word": "向云端rap",
+        "onboard_time": 1727015305,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 185752,
+        "num": 185752,
+        "word": "北大教授曾3年24小时照顾失能母亲",
+        "onboard_time": 1727010443,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181111,
+        "num": 181111,
+        "word": "妻子不能怀孕丈夫请求撤销婚姻",
+        "onboard_time": 1727000420,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151534,
+        "num": 179127,
+        "word": "吴艳妮徐卓一组合夺冠",
+        "onboard_time": 1727013385,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142805,
+        "num": 178517,
+        "word": "原来你们看的细节是这些东西",
+        "onboard_time": 1727015245,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 138606,
+        "num": 176890,
+        "word": "F1",
+        "onboard_time": 1727014284,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记田间地头的嘱咐#"
+    }
+  }
+}
