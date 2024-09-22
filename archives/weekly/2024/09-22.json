@@ -1,6 +1,6 @@
 {
   "startTime": 1726936020707,
-  "endTime": 1726993502874,
+  "endTime": 1726994336102,
   "band_list": [
     {
       "raw_hot": 4059841,
@@ -131,6 +131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1003688,
+      "num": 1003688,
+      "word": "美国拨款16亿美元雇水军黑中国",
+      "onboard_time": 1726992079,
+      "rank": 4,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 909257,
       "num": 909257,
       "word": "高空抛物伤人全楼查DNA后男子自首",
@@ -139,8 +147,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 892312,
-      "num": 271485,
+      "raw_hot": 897295,
+      "num": 362325,
       "word": "男子趁女友熟睡拿手机给自己转3万",
       "onboard_time": 1726990938,
       "rank": 11,
@@ -307,14 +315,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 600246,
-      "num": 600246,
-      "word": "美国拨款16亿美元雇水军黑中国",
-      "onboard_time": 1726992079,
-      "rank": 4,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 575021,
       "num": 575021,
       "word": "两母亲吵架一女子抄起玩具砸向孩子",
@@ -352,6 +352,14 @@
       "word": "张颂文飞天奖直播捡手机",
       "onboard_time": 1726933882,
       "rank": 25,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 509069,
+      "num": 472509,
+      "word": "成年人谈恋爱只看性嫁比了吗",
+      "onboard_time": 1726990998,
+      "rank": 12,
       "category": "剧集"
     },
     {
@@ -396,7 +404,7 @@
     },
     {
       "raw_hot": 465443,
-      "num": 299935,
+      "num": 315400,
       "word": "陈乔恩Alan婚礼现场图",
       "onboard_time": 1726983920,
       "rank": 22,
@@ -417,6 +425,14 @@
       "onboard_time": 1726973180,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 450153,
+      "num": 450153,
+      "word": "居民被高空抛物砸伤警察全楼验DNA",
+      "onboard_time": 1726990998,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 448503,
@@ -443,12 +459,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 436113,
-      "num": 268387,
-      "word": "成年人谈恋爱只看性嫁比了吗",
-      "onboard_time": 1726990998,
-      "rank": 12,
-      "category": "剧集"
+      "raw_hot": 443418,
+      "num": 214312,
+      "word": "母亲去世20岁儿子无钱安葬报警求助",
+      "onboard_time": 1726992738,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 434296,
@@ -571,6 +587,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 357794,
+      "num": 214513,
+      "word": "300块和3000块的眼镜区别有多大",
+      "onboard_time": 1726990339,
+      "rank": 43,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 349856,
       "num": 206250,
       "word": "汪峰凭一己之力让13个人尴尬",
@@ -585,14 +609,6 @@
       "onboard_time": 1726987399,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 319875,
-      "num": 214513,
-      "word": "300块和3000块的眼镜区别有多大",
-      "onboard_time": 1726990339,
-      "rank": 43,
-      "category": "美妆"
     },
     {
       "raw_hot": 318185,
@@ -635,12 +651,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 275521,
-      "num": 275521,
-      "word": "居民被高空抛物砸伤警察全楼验DNA",
-      "onboard_time": 1726990998,
-      "rank": 9,
-      "category": "社会新闻"
+      "raw_hot": 275666,
+      "num": 275666,
+      "word": "赵露思 武汉",
+      "onboard_time": 1726993039,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 272426,
@@ -665,6 +681,14 @@
       "onboard_time": 1726924400,
       "rank": 35,
       "category": "网红"
+    },
+    {
+      "raw_hot": 262303,
+      "num": 169189,
+      "word": "吴彦祖混血女儿是中国通",
+      "onboard_time": 1726992978,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 260653,
@@ -715,6 +739,22 @@
       "category": "美食"
     },
     {
+      "raw_hot": 246226,
+      "num": 170253,
+      "word": "大湾区晚会来了",
+      "onboard_time": 1726990758,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 242212,
+      "num": 203086,
+      "word": "童瑶居然这么白",
+      "onboard_time": 1726992499,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 241978,
       "num": 241978,
       "word": "齐司礼卡面",
@@ -745,22 +785,6 @@
       "onboard_time": 1726982721,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 236848,
-      "num": 169189,
-      "word": "吴彦祖混血女儿是中国通",
-      "onboard_time": 1726992978,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 235362,
-      "num": 214312,
-      "word": "母亲去世20岁儿子无钱安葬报警求助",
-      "onboard_time": 1726992738,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 232600,
@@ -907,14 +931,6 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 203086,
-      "num": 203086,
-      "word": "童瑶居然这么白",
-      "onboard_time": 1726992499,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 202970,
       "num": 202970,
       "word": "胡歌陪跑",
@@ -923,20 +939,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 202624,
+      "num": 168461,
+      "word": "时代少年团马龙刘诗雯合影",
+      "onboard_time": 1726994180,
+      "rank": 29,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 199737,
       "num": 299028,
       "word": "24岁物理学硕士拟获录用中学勤杂工",
       "onboard_time": 1726920623,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 199634,
-      "num": 168429,
-      "word": "大湾区晚会来了",
-      "onboard_time": 1726990758,
-      "rank": 34,
-      "category": "音乐"
     },
     {
       "raw_hot": 199419,
@@ -1259,12 +1275,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 153992,
-      "num": 153992,
-      "word": "赵露思 武汉",
-      "onboard_time": 1726993039,
-      "rank": 36,
-      "category": "艺人"
+      "raw_hot": 152846,
+      "num": 152846,
+      "word": "电视剧三大奖大满贯名单",
+      "onboard_time": 1726992680,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 152311,
@@ -1403,14 +1419,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 138288,
-      "num": 138288,
-      "word": "电视剧三大奖大满贯名单",
-      "onboard_time": 1726992680,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 133819,
       "num": 282418,
       "word": "恋与深空",
@@ -1425,6 +1433,14 @@
       "onboard_time": 1726973119,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 132551,
+      "num": 132551,
+      "word": "半熟男女阁楼上的疯女人这段",
+      "onboard_time": 1726993758,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 132094,
@@ -1473,6 +1489,14 @@
       "onboard_time": 1726935202,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 128700,
+      "num": 128700,
+      "word": "白鹿唱跳全开麦",
+      "onboard_time": 1726994119,
+      "rank": 43,
+      "category": "演出"
     },
     {
       "raw_hot": 126999,
@@ -1531,6 +1555,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 118756,
+      "num": 118756,
+      "word": "美国为什么执着于花钱骂人",
+      "onboard_time": 1726993699,
+      "rank": 44,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 118745,
+      "num": 273417,
+      "word": "太空出差三人组在忙些什么",
+      "onboard_time": 1726990938,
+      "rank": 10,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 117139,
       "num": 135850,
       "word": "郎平惠若琪现身周深鸟巢演唱会",
@@ -1587,12 +1627,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 110271,
-      "num": 273417,
-      "word": "太空出差三人组在忙些什么",
-      "onboard_time": 1726990938,
-      "rank": 10,
-      "category": "国内时政"
+      "raw_hot": 109616,
+      "num": 109616,
+      "word": "电影分手清单定档",
+      "onboard_time": 1726993999,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 108861,
@@ -1601,6 +1641,14 @@
       "onboard_time": 1726986500,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 107101,
+      "num": 107101,
+      "word": "京淘淘称被羊毛党薅走1.8亿",
+      "onboard_time": 1726993338,
+      "rank": 46,
+      "category": "互联网"
     },
     {
       "raw_hot": 106927,
@@ -1641,14 +1689,6 @@
       "onboard_time": 1726927286,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 94732,
-      "num": 94732,
-      "word": "京淘淘称被羊毛党薅走1.8亿",
-      "onboard_time": 1726993338,
-      "rank": 46,
-      "category": "互联网"
     },
     {
       "raw_hot": 94275,
@@ -1843,6 +1883,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 53497,
+      "num": 214597,
+      "word": "国家级科研机构给李宁冲锋衣背书",
+      "onboard_time": 1726990998,
+      "rank": 20,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 52793,
       "num": 145861,
       "word": "好喜欢看黄景瑜哭",
@@ -1899,14 +1947,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 45380,
-      "num": 214597,
-      "word": "国家级科研机构给李宁冲锋衣背书",
-      "onboard_time": 1726990998,
-      "rank": 20,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 44620,
       "num": 270225,
       "word": "舒淇杨紫琼同框热聊",
@@ -1953,6 +1993,14 @@
       "onboard_time": 1726967840,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 32538,
+      "num": 139323,
+      "word": "冲锋衣会呼吸真的很重要",
+      "onboard_time": 1726993699,
+      "rank": 38,
+      "category": "时尚"
     },
     {
       "raw_hot": 30668,
@@ -2067,6 +2115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 20167,
+      "num": 363474,
+      "word": "十年间中国人的餐桌发生了什么变化",
+      "onboard_time": 1726993939,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 18093,
       "num": 72177,
       "word": "读懂丰收的三重含义",
@@ -2116,7 +2172,7 @@
     },
     {
       "raw_hot": 12095,
-      "num": 823880,
+      "num": 882282,
       "word": "青春华章",
       "onboard_time": 1726819520,
       "rank": 2,
