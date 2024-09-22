@@ -1,6 +1,6 @@
 {
   "startTime": 1726936020707,
-  "endTime": 1726996857863,
+  "endTime": 1726997694873,
   "band_list": [
     {
       "raw_hot": 4059841,
@@ -243,6 +243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 743887,
+      "num": 507333,
+      "word": "差点没认出来胡冰卿",
+      "onboard_time": 1726995979,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 733401,
       "num": 733401,
       "word": "官媒辟谣苹果手机被远程引爆",
@@ -339,6 +347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 570530,
+      "num": 500838,
+      "word": "于正 保护一下我",
+      "onboard_time": 1726994899,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 543308,
       "num": 288352,
       "word": "李庚希提名视后",
@@ -411,6 +427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 493405,
+      "num": 493405,
+      "word": "罗翔",
+      "onboard_time": 1726996880,
+      "rank": 8,
+      "category": "教育"
+    },
+    {
       "raw_hot": 486893,
       "num": 486893,
       "word": "拟被聘为勤杂工硕士实为本科生",
@@ -436,7 +460,7 @@
     },
     {
       "raw_hot": 465443,
-      "num": 431321,
+      "num": 440433,
       "word": "陈乔恩Alan婚礼现场图",
       "onboard_time": 1726983920,
       "rank": 22,
@@ -512,14 +536,6 @@
       "word": "权志龙IU合照",
       "onboard_time": 1726969099,
       "rank": 32,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 419328,
-      "num": 479868,
-      "word": "于正 保护一下我",
-      "onboard_time": 1726994899,
-      "rank": 13,
       "category": "艺人"
     },
     {
@@ -603,6 +619,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 363918,
+      "num": 288128,
+      "word": "赵露思 武汉",
+      "onboard_time": 1726993039,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 363451,
       "num": 272675,
       "word": "TFING不参加太湖湾音乐节",
@@ -635,20 +659,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 328054,
-      "num": 290662,
-      "word": "差点没认出来胡冰卿",
-      "onboard_time": 1726995979,
-      "rank": 21,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 325787,
-      "num": 288128,
-      "word": "赵露思 武汉",
-      "onboard_time": 1726993039,
-      "rank": 36,
-      "category": "艺人"
+      "raw_hot": 339718,
+      "num": 248910,
+      "word": "汪峰这段堪比宋丹丹尴尬9分钟",
+      "onboard_time": 1726995379,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 318185,
@@ -769,14 +785,6 @@
       "onboard_time": 1726984041,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 248910,
-      "num": 248910,
-      "word": "汪峰这段堪比宋丹丹尴尬9分钟",
-      "onboard_time": 1726995379,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 248506,
@@ -987,6 +995,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 201092,
+      "num": 201092,
+      "word": "芜湖巨响",
+      "onboard_time": 1726995259,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 200966,
+      "num": 200966,
+      "word": "易烊千玺干杯朋友彩排",
+      "onboard_time": 1726996220,
+      "rank": 32,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 199820,
       "num": 199820,
       "word": "农村吃大席有多卷",
@@ -1009,14 +1033,6 @@
       "onboard_time": 1726978520,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 199219,
-      "num": 199219,
-      "word": "易烊千玺干杯朋友彩排",
-      "onboard_time": 1726996220,
-      "rank": 32,
-      "category": "音乐"
     },
     {
       "raw_hot": 199085,
@@ -1187,14 +1203,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 171960,
-      "num": 171960,
-      "word": "芜湖巨响",
-      "onboard_time": 1726995259,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 171350,
       "num": 251594,
       "word": "咏梅演技",
@@ -1241,6 +1249,14 @@
       "onboard_time": 1726980379,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 165254,
+      "num": 165254,
+      "word": "涵艺爆料iG卖了",
+      "onboard_time": 1726996339,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 164703,
@@ -1313,6 +1329,14 @@
       "onboard_time": 1726972696,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 157367,
+      "num": 157367,
+      "word": "王栎鑫这辈子最想删掉的视频",
+      "onboard_time": 1726997000,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 157251,
@@ -1467,6 +1491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 141735,
+      "num": 141735,
+      "word": "樊振东西南北中",
+      "onboard_time": 1726996459,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 141149,
       "num": 141149,
       "word": "王者荣耀联动李白故里",
@@ -1489,6 +1521,14 @@
       "onboard_time": 1726974619,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 138506,
+      "num": 138506,
+      "word": "不像学的 像没忘干净",
+      "onboard_time": 1726997300,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 133819,
@@ -1611,6 +1651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 120862,
+      "num": 120862,
+      "word": "第六套人民币即将上市是假消息",
+      "onboard_time": 1726996039,
+      "rank": 45,
+      "category": "财经"
+    },
+    {
       "raw_hot": 118780,
       "num": 118780,
       "word": "张博恒给师兄颁发奖牌",
@@ -1633,14 +1681,6 @@
       "onboard_time": 1726990938,
       "rank": 10,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 118252,
-      "num": 118252,
-      "word": "涵艺爆料iG卖了",
-      "onboard_time": 1726996339,
-      "rank": 46,
-      "category": "电竞"
     },
     {
       "raw_hot": 117139,
@@ -1739,10 +1779,10 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 102686,
-      "num": 102686,
-      "word": "樊振东西南北中",
-      "onboard_time": 1726996459,
+      "raw_hot": 106919,
+      "num": 106919,
+      "word": "郭艾伦把徐静雨晃倒了",
+      "onboard_time": 1726997660,
       "rank": 49,
       "category": "体育"
     },
@@ -1907,6 +1947,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 69313,
+      "num": 520801,
+      "word": "骗保医院背后资本投资超9家医院",
+      "onboard_time": 1726996640,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 67883,
       "num": 67883,
       "word": "他们用汗水为大地增添丰收的颜色",
@@ -1961,6 +2009,14 @@
       "onboard_time": 1726960935,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 57760,
+      "num": 324785,
+      "word": "冲锋衣会呼吸真的很重要",
+      "onboard_time": 1726993699,
+      "rank": 38,
+      "category": "时尚"
     },
     {
       "raw_hot": 54428,
@@ -2057,14 +2113,6 @@
       "onboard_time": 1726976240,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 43744,
-      "num": 324785,
-      "word": "冲锋衣会呼吸真的很重要",
-      "onboard_time": 1726993699,
-      "rank": 38,
-      "category": "时尚"
     },
     {
       "raw_hot": 39281,
@@ -2288,14 +2336,6 @@
       "word": "浙江厨神外婆每天给外孙做花式早点",
       "onboard_time": 1726956913,
       "rank": 23,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 11540,
-      "num": 520801,
-      "word": "骗保医院背后资本投资超9家医院",
-      "onboard_time": 1726996640,
-      "rank": 9,
       "category": "社会新闻"
     },
     {

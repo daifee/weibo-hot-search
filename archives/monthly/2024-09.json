@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1726996857863,
+  "endTime": 1726997694873,
   "band_list": [
     {
       "raw_hot": 28035334,
@@ -8171,6 +8171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 743887,
+      "num": 507333,
+      "word": "差点没认出来胡冰卿",
+      "onboard_time": 1726995979,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 743255,
       "num": 307990,
       "word": "容易出汗的人排查一下4种病",
@@ -11251,6 +11259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 570530,
+      "num": 500838,
+      "word": "于正 保护一下我",
+      "onboard_time": 1726994899,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 570448,
       "num": 570448,
       "word": "男子花29元坐高铁免费吃40元盒饭",
@@ -13227,6 +13243,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 493405,
+      "num": 493405,
+      "word": "罗翔",
+      "onboard_time": 1726996880,
+      "rank": 8,
+      "category": "教育"
+    },
+    {
       "raw_hot": 493055,
       "num": 493055,
       "word": "Jennie打乒乓球",
@@ -14012,7 +14036,7 @@
     },
     {
       "raw_hot": 465443,
-      "num": 431321,
+      "num": 440433,
       "word": "陈乔恩Alan婚礼现场图",
       "onboard_time": 1726983920,
       "rank": 22,
@@ -15449,14 +15473,6 @@
       "onboard_time": 1725411441,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 419328,
-      "num": 479868,
-      "word": "于正 保护一下我",
-      "onboard_time": 1726994899,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 418830,
@@ -17227,6 +17243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 363918,
+      "num": 288128,
+      "word": "赵露思 武汉",
+      "onboard_time": 1726993039,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 363895,
       "num": 363895,
       "word": "肖战请客得闲谨制剧组喝奶茶",
@@ -18219,6 +18243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 339718,
+      "num": 248910,
+      "word": "汪峰这段堪比宋丹丹尴尬9分钟",
+      "onboard_time": 1726995379,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 339603,
       "num": 311944,
       "word": "张大奕关店",
@@ -18707,14 +18739,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 328054,
-      "num": 290662,
-      "word": "差点没认出来胡冰卿",
-      "onboard_time": 1726995979,
-      "rank": 21,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 327994,
       "num": 327994,
       "word": "淘宝正分批邀请商家开通微信支付",
@@ -18832,14 +18856,6 @@
       "word": "保龄球场偶遇黄冠亨黄旭熙",
       "onboard_time": 1726653259,
       "rank": 22,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 325787,
-      "num": 288128,
-      "word": "赵露思 武汉",
-      "onboard_time": 1726993039,
-      "rank": 36,
       "category": "艺人"
     },
     {
@@ -23848,14 +23864,6 @@
       "word": "魏大勋真内娱米莱狄",
       "onboard_time": 1726636820,
       "rank": 49,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 248910,
-      "num": 248910,
-      "word": "汪峰这段堪比宋丹丹尴尬9分钟",
-      "onboard_time": 1726995379,
-      "rank": 27,
       "category": "综艺"
     },
     {
@@ -30371,6 +30379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 201092,
+      "num": 201092,
+      "word": "芜湖巨响",
+      "onboard_time": 1726995259,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 201046,
       "num": 201046,
       "word": "暗夜与黎明定档",
@@ -30385,6 +30401,14 @@
       "onboard_time": 1725905233,
       "rank": 13,
       "category": "数码"
+    },
+    {
+      "raw_hot": 200966,
+      "num": 200966,
+      "word": "易烊千玺干杯朋友彩排",
+      "onboard_time": 1726996220,
+      "rank": 32,
+      "category": "音乐"
     },
     {
       "raw_hot": 200919,
@@ -30857,14 +30881,6 @@
       "onboard_time": 1726233862,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 199219,
-      "num": 199219,
-      "word": "易烊千玺干杯朋友彩排",
-      "onboard_time": 1726996220,
-      "rank": 32,
-      "category": "音乐"
     },
     {
       "raw_hot": 199190,
@@ -37707,14 +37723,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 171960,
-      "num": 171960,
-      "word": "芜湖巨响",
-      "onboard_time": 1726995259,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 171930,
       "num": 171930,
       "word": "一个受教育的女性可以改变三代人命运",
@@ -39272,6 +39280,14 @@
       "word": "真实电竞发文",
       "onboard_time": 1726452017,
       "rank": 38,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 165254,
+      "num": 165254,
+      "word": "涵艺爆料iG卖了",
+      "onboard_time": 1726996339,
+      "rank": 46,
       "category": "电竞"
     },
     {
@@ -41297,6 +41313,14 @@
       "onboard_time": 1725667639,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 157367,
+      "num": 157367,
+      "word": "王栎鑫这辈子最想删掉的视频",
+      "onboard_time": 1726997000,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 157328,
@@ -45347,6 +45371,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 141735,
+      "num": 141735,
+      "word": "樊振东西南北中",
+      "onboard_time": 1726996459,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 141533,
       "num": 141533,
       "word": "中秋节文案",
@@ -46065,6 +46097,14 @@
       "onboard_time": 1725169819,
       "rank": 37,
       "category": "教育"
+    },
+    {
+      "raw_hot": 138506,
+      "num": 138506,
+      "word": "不像学的 像没忘干净",
+      "onboard_time": 1726997300,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 138481,
@@ -49803,6 +49843,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 120862,
+      "num": 120862,
+      "word": "第六套人民币即将上市是假消息",
+      "onboard_time": 1726996039,
+      "rank": 45,
+      "category": "财经"
+    },
+    {
       "raw_hot": 120761,
       "num": 341440,
       "word": "工作人员回应宠物乐园现熊猫犬",
@@ -50233,14 +50281,6 @@
       "onboard_time": 1725892100,
       "rank": 43,
       "category": "电影"
-    },
-    {
-      "raw_hot": 118252,
-      "num": 118252,
-      "word": "涵艺爆料iG卖了",
-      "onboard_time": 1726996339,
-      "rank": 46,
-      "category": "电竞"
     },
     {
       "raw_hot": 118246,
@@ -52019,6 +52059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 106919,
+      "num": 106919,
+      "word": "郭艾伦把徐静雨晃倒了",
+      "onboard_time": 1726997660,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 106873,
       "num": 106873,
       "word": "国足赛前发布会",
@@ -52481,14 +52529,6 @@
       "onboard_time": 1725852259,
       "rank": 48,
       "category": "互联网,社会新闻"
-    },
-    {
-      "raw_hot": 102686,
-      "num": 102686,
-      "word": "樊振东西南北中",
-      "onboard_time": 1726996459,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 102607,
@@ -55747,6 +55787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 69313,
+      "num": 520801,
+      "word": "骗保医院背后资本投资超9家医院",
+      "onboard_time": 1726996640,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 69235,
       "num": 69235,
       "word": "星穹铁道",
@@ -57041,6 +57089,14 @@
       "onboard_time": 1726146322,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 57760,
+      "num": 324785,
+      "word": "冲锋衣会呼吸真的很重要",
+      "onboard_time": 1726993699,
+      "rank": 38,
+      "category": "时尚"
     },
     {
       "raw_hot": 57746,
@@ -59377,14 +59433,6 @@
       "onboard_time": 1725503359,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 43744,
-      "num": 324785,
-      "word": "冲锋衣会呼吸真的很重要",
-      "onboard_time": 1726993699,
-      "rank": 38,
-      "category": "时尚"
     },
     {
       "raw_hot": 43728,
@@ -65609,14 +65657,6 @@
       "onboard_time": 1726755503,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 11540,
-      "num": 520801,
-      "word": "骗保医院背后资本投资超9家医院",
-      "onboard_time": 1726996640,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 11439,
