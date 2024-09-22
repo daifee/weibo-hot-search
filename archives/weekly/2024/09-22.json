@@ -1,6 +1,6 @@
 {
   "startTime": 1726936020707,
-  "endTime": 1726986504617,
+  "endTime": 1726987338381,
   "band_list": [
     {
       "raw_hot": 4059841,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 1414193,
-      "num": 430654,
+      "num": 524295,
       "word": "刘雨鑫回应赵丽颖粉丝",
       "onboard_time": 1726982541,
       "rank": 3,
@@ -171,6 +171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 765129,
+      "num": 323639,
+      "word": "海清谈身边两个人一夜之间去世",
+      "onboard_time": 1726984819,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 733401,
       "num": 733401,
       "word": "官媒辟谣苹果手机被远程引爆",
@@ -201,14 +209,6 @@
       "onboard_time": 1726978219,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 678957,
-      "num": 300047,
-      "word": "海清谈身边两个人一夜之间去世",
-      "onboard_time": 1726984819,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 654888,
@@ -307,12 +307,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 467776,
+      "num": 239729,
+      "word": "妻子失联20年丈夫恋爱算出轨吗",
+      "onboard_time": 1726985540,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 466391,
       "num": 466391,
       "word": "法考",
       "onboard_time": 1726975640,
       "rank": 48,
       "category": "教育"
+    },
+    {
+      "raw_hot": 463170,
+      "num": 463170,
+      "word": "黎巴嫩发射火箭弹回应爆炸事件",
+      "onboard_time": 1726983800,
+      "rank": 5,
+      "category": "国外时政"
     },
     {
       "raw_hot": 459047,
@@ -483,28 +499,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 325621,
-      "num": 239729,
-      "word": "妻子失联20年丈夫恋爱算出轨吗",
-      "onboard_time": 1726985540,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 318185,
       "num": 318185,
       "word": "阳澄湖大闸蟹卖到300多一只",
       "onboard_time": 1726960875,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 314508,
-      "num": 314508,
-      "word": "黎巴嫩发射火箭弹回应爆炸事件",
-      "onboard_time": 1726983800,
-      "rank": 5,
-      "category": "国外时政"
     },
     {
       "raw_hot": 301412,
@@ -555,6 +555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 263654,
+      "num": 309168,
+      "word": "山东齐河县政府财政局办公楼起火",
+      "onboard_time": 1726985361,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 262364,
       "num": 214828,
       "word": "韩安冉回应亲生妈妈当小三",
@@ -576,6 +584,14 @@
       "word": "陈乔恩Alan婚纱写真",
       "onboard_time": 1726979841,
       "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 258572,
+      "num": 198702,
+      "word": "谁来心疼戚薇的头皮",
+      "onboard_time": 1726986500,
+      "rank": 26,
       "category": "艺人"
     },
     {
@@ -803,6 +819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 192967,
+      "num": 192967,
+      "word": "肖战加盟2024湾区升明月",
+      "onboard_time": 1726986859,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 188421,
       "num": 188421,
       "word": "田嘉瑞拦这一下我和金晨一个反应",
@@ -817,6 +841,14 @@
       "onboard_time": 1726979300,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 187204,
+      "num": 187204,
+      "word": "樊振东汗流浃背了吧",
+      "onboard_time": 1726984041,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 183686,
@@ -873,14 +905,6 @@
       "onboard_time": 1726933462,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 173827,
-      "num": 173827,
-      "word": "樊振东汗流浃背了吧",
-      "onboard_time": 1726984041,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 173610,
@@ -1040,14 +1064,6 @@
       "word": "姑娘奶茶只喝三分甜牙齿严重酸蚀",
       "onboard_time": 1726923742,
       "rank": 34,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 152893,
-      "num": 309168,
-      "word": "山东齐河县政府财政局办公楼起火",
-      "onboard_time": 1726985361,
-      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -1267,8 +1283,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 120609,
-      "num": 120609,
+      "raw_hot": 121165,
+      "num": 121165,
       "word": "寻呼机炸响中东炸穿了世界的底线",
       "onboard_time": 1726982419,
       "rank": 49,
@@ -1339,6 +1355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 101085,
+      "num": 101085,
+      "word": "猫系美女",
+      "onboard_time": 1726986979,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 97654,
       "num": 97654,
       "word": "出走的决心",
@@ -1361,6 +1385,14 @@
       "onboard_time": 1726985780,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 89293,
+      "num": 189110,
+      "word": "蔡文静飞天奖红毯",
+      "onboard_time": 1726986500,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 88024,
@@ -1555,6 +1587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 47200,
+      "num": 188100,
+      "word": "中国赛李怡婧罗徐敏女双夺冠",
+      "onboard_time": 1726987039,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 46501,
       "num": 46501,
       "word": "王子文掉提",
@@ -1585,6 +1625,14 @@
       "onboard_time": 1726976240,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 39281,
+      "num": 244466,
+      "word": "抠门年轻人带火钓鱼佬严选",
+      "onboard_time": 1726987100,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 38857,
@@ -1649,6 +1697,14 @@
       "onboard_time": 1726974860,
       "rank": 19,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 28683,
+      "num": 260612,
+      "word": "当事大学生回应拟被聘为中学勤杂工",
+      "onboard_time": 1726986979,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 27887,
@@ -1776,6 +1832,22 @@
       "word": "浙江厨神外婆每天给外孙做花式早点",
       "onboard_time": 1726956913,
       "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 8351,
+      "num": 112634,
+      "word": "看音乐节主打一个花里胡哨",
+      "onboard_time": 1726986919,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 6077,
+      "num": 230411,
+      "word": "软毛青霉酸会致这三处器官损伤",
+      "onboard_time": 1726987279,
+      "rank": 18,
       "category": "社会新闻"
     }
   ],
