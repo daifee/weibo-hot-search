@@ -1,0 +1,410 @@
+{
+  "runTime": 1727009652596,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2261825,
+        "num": 2261825,
+        "word": "湾区升明月",
+        "onboard_time": 1727004261,
+        "rank": 0,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 737027,
+        "num": 737027,
+        "word": "山姆10天翻车3次",
+        "onboard_time": 1727001800,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20079,
+        "num": 503105,
+        "word": "天山南北唱新歌",
+        "onboard_time": 1726998799,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1945010,
+        "num": 426667,
+        "word": "全红婵声音好大",
+        "onboard_time": 1727007862,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 339916,
+        "num": 339916,
+        "word": "美国拨款16亿美元雇水军黑中国",
+        "onboard_time": 1726992079,
+        "rank": 4,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 278717,
+        "num": 278717,
+        "word": "苹果客服回应iPhone16使用钢壳电池",
+        "onboard_time": 1727001441,
+        "rank": 5,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 1015572,
+        "num": 272962,
+        "word": "肖战湾区升明月晚会造型",
+        "onboard_time": 1727006842,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 857851,
+        "num": 266022,
+        "word": "2024湾区升明月节目单",
+        "onboard_time": 1726991719,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 249132,
+        "num": 249132,
+        "word": "孙颖莎谈什么是幸福",
+        "onboard_time": 1727001320,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 46092,
+        "num": 249114,
+        "word": "起底网络平台卖惨赛道",
+        "onboard_time": 1727008164,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137913,
+        "num": 248223,
+        "word": "复旦教授梁永安评半熟男女",
+        "onboard_time": 1727009123,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 2608480,
+        "num": 247393,
+        "word": "妻子发现丈夫出轨后半夜杀夫",
+        "onboard_time": 1727007681,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 818151,
+        "num": 247219,
+        "word": "王力宏李治廷同台",
+        "onboard_time": 1727007799,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 739835,
+        "num": 246508,
+        "word": "爷爷发现孙子背后多出颗痣秒去医院",
+        "onboard_time": 1727007799,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 673004,
+        "num": 245645,
+        "word": "樊振东直拍",
+        "onboard_time": 1727009062,
+        "rank": 14,
+        "category": "音乐,体育"
+      },
+      {
+        "raw_hot": 650605,
+        "num": 244975,
+        "word": "肖战 巴尔曼",
+        "onboard_time": 1727008342,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 345399,
+        "num": 244683,
+        "word": "妻子不能怀孕丈夫请求撤销婚姻",
+        "onboard_time": 1727000420,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192128,
+        "num": 243969,
+        "word": "千万身价老板破产法院4元拍卖雪碧",
+        "onboard_time": 1727009182,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184064,
+        "num": 243666,
+        "word": "美国伯明翰发生大规模枪击事件",
+        "onboard_time": 1727006059,
+        "rank": 18,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 79994,
+        "num": 242638,
+        "word": "陈乔恩婚礼大合照",
+        "onboard_time": 1727008823,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1026393,
+        "num": 242347,
+        "word": "吴谨言希望成为赵丽颖",
+        "onboard_time": 1727001499,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 515979,
+        "num": 241822,
+        "word": "白鹿哭了",
+        "onboard_time": 1727000780,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 302457,
+        "num": 241039,
+        "word": "小伙经常晚上不刷牙嘴里长满结石",
+        "onboard_time": 1726999160,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261701,
+        "num": 240347,
+        "word": "全红婵说王俊凯包帅的",
+        "onboard_time": 1727007381,
+        "rank": 23,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 585995,
+        "num": 239689,
+        "word": "央视新闻报道赵丽颖获飞天奖视后",
+        "onboard_time": 1727006239,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 2362867,
+        "num": 239437,
+        "word": "谢娜给陈乔恩66666.66红包",
+        "onboard_time": 1727003241,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21736,
+        "num": 238674,
+        "word": "一张图看懂家居服怎么选",
+        "onboard_time": 1727007141,
+        "rank": 26,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 324956,
+        "num": 238096,
+        "word": "殷世航医院做鼻子",
+        "onboard_time": 1727008581,
+        "rank": 27,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 169022,
+        "num": 237121,
+        "word": "男子趁女友熟睡拿手机给自己转3万",
+        "onboard_time": 1726990938,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 293663,
+        "num": 236879,
+        "word": "姚安娜演技",
+        "onboard_time": 1727008102,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 263717,
+        "num": 236109,
+        "word": "登陆少年出图",
+        "onboard_time": 1727009062,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 235848,
+        "num": 235848,
+        "word": "长发张小斐回来了",
+        "onboard_time": 1727008164,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 209125,
+        "num": 209125,
+        "word": "张译播音腔",
+        "onboard_time": 1727008642,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 208865,
+        "num": 208865,
+        "word": "成龙真唱",
+        "onboard_time": 1727009483,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 203233,
+        "num": 203233,
+        "word": "白鹿首唱会",
+        "onboard_time": 1726990221,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 194501,
+        "num": 194501,
+        "word": "天地龙鳞大合唱",
+        "onboard_time": 1727008881,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 193800,
+        "num": 193800,
+        "word": "蓝盈莹首部民国剧",
+        "onboard_time": 1727008823,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193522,
+        "num": 193522,
+        "word": "宋雨琦直播",
+        "onboard_time": 1727008762,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188635,
+        "num": 188635,
+        "word": "差点没认出来胡冰卿",
+        "onboard_time": 1726995979,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 174364,
+        "num": 174364,
+        "word": "登陆少年表演hello大湾",
+        "onboard_time": 1727004621,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 156348,
+        "num": 156348,
+        "word": "女朋友没哄好把我哄好了",
+        "onboard_time": 1727000360,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 148623,
+        "num": 148623,
+        "word": "300块和3000块的眼镜区别有多大",
+        "onboard_time": 1726990339,
+        "rank": 41,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 147333,
+        "num": 147333,
+        "word": "以色列防长称黎真主党被猎杀",
+        "onboard_time": 1727006301,
+        "rank": 42,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 140881,
+        "num": 140881,
+        "word": "冯巩一句我想死你们了婚礼秒变春晚",
+        "onboard_time": 1727003059,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138881,
+        "num": 138881,
+        "word": "湾区升明月直播封面图",
+        "onboard_time": 1727001020,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 138596,
+        "num": 138596,
+        "word": "流水迢迢20集",
+        "onboard_time": 1727007141,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131964,
+        "num": 131964,
+        "word": "任翔宇受伤",
+        "onboard_time": 1727003601,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 109319,
+        "num": 109319,
+        "word": "加沙男孩说教室被炸了地上都是玩具",
+        "onboard_time": 1727003302,
+        "rank": 47,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 103593,
+        "num": 103593,
+        "word": "不要轻易在KTV演MV",
+        "onboard_time": 1727008404,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 99051,
+        "num": 103581,
+        "word": "布云朝克特首进巡回赛四强",
+        "onboard_time": 1727008462,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记田间地头的嘱咐#"
+    }
+  }
+}

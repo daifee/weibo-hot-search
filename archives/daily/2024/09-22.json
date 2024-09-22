@@ -1,6 +1,6 @@
 {
   "startTime": 1726936020707,
-  "endTime": 1727008713963,
+  "endTime": 1727009652596,
   "band_list": [
     {
       "raw_hot": 4059841,
@@ -43,6 +43,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 2608480,
+      "num": 258599,
+      "word": "妻子发现丈夫出轨后半夜杀夫",
+      "onboard_time": 1727007681,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2607875,
       "num": 2607875,
       "word": "湾区升明月",
@@ -59,12 +67,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1863129,
-      "num": 258599,
-      "word": "妻子发现丈夫出轨后半夜杀夫",
-      "onboard_time": 1727007681,
-      "rank": 11,
-      "category": "社会新闻"
+      "raw_hot": 1945010,
+      "num": 521181,
+      "word": "全红婵声音好大",
+      "onboard_time": 1727007862,
+      "rank": 4,
+      "category": "音乐"
     },
     {
       "raw_hot": 1716911,
@@ -105,14 +113,6 @@
       "onboard_time": 1726936160,
       "rank": 9,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1420903,
-      "num": 521181,
-      "word": "全红婵声音好大",
-      "onboard_time": 1727007862,
-      "rank": 4,
-      "category": "音乐"
     },
     {
       "raw_hot": 1414193,
@@ -188,7 +188,7 @@
     },
     {
       "raw_hot": 1103409,
-      "num": 250004,
+      "num": 272962,
       "word": "肖战湾区升明月晚会造型",
       "onboard_time": 1727006842,
       "rank": 12,
@@ -259,6 +259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 857851,
+      "num": 266022,
+      "word": "2024湾区升明月节目单",
+      "onboard_time": 1726991719,
+      "rank": 29,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 847592,
       "num": 357343,
       "word": "男子杀害女子沉尸4年后再杀继母",
@@ -297,6 +305,14 @@
       "onboard_time": 1726964538,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 818151,
+      "num": 247219,
+      "word": "王力宏李治廷同台",
+      "onboard_time": 1727007799,
+      "rank": 21,
+      "category": "音乐"
     },
     {
       "raw_hot": 817015,
@@ -339,20 +355,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 739835,
+      "num": 246508,
+      "word": "爷爷发现孙子背后多出颗痣秒去医院",
+      "onboard_time": 1727007799,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 733401,
       "num": 733401,
       "word": "官媒辟谣苹果手机被远程引爆",
       "onboard_time": 1726968380,
       "rank": 29,
       "category": "数码"
-    },
-    {
-      "raw_hot": 727905,
-      "num": 242026,
-      "word": "2024湾区升明月节目单",
-      "onboard_time": 1726991719,
-      "rank": 29,
-      "category": "音乐"
     },
     {
       "raw_hot": 727808,
@@ -364,7 +380,7 @@
     },
     {
       "raw_hot": 712142,
-      "num": 233509,
+      "num": 239689,
       "word": "央视新闻报道赵丽颖获飞天奖视后",
       "onboard_time": 1727006239,
       "rank": 14,
@@ -385,6 +401,14 @@
       "onboard_time": 1726978219,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 673004,
+      "num": 245645,
+      "word": "樊振东直拍",
+      "onboard_time": 1727009062,
+      "rank": 14,
+      "category": "音乐,体育"
     },
     {
       "raw_hot": 666957,
@@ -417,6 +441,14 @@
       "onboard_time": 1726964358,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 650605,
+      "num": 244975,
+      "word": "肖战 巴尔曼",
+      "onboard_time": 1727008342,
+      "rank": 25,
+      "category": "音乐"
     },
     {
       "raw_hot": 641362,
@@ -771,14 +803,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 346922,
-      "num": 200445,
-      "word": "王力宏李治廷同台",
-      "onboard_time": 1727007799,
-      "rank": 21,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 343242,
       "num": 260183,
       "word": "小伙经常晚上不刷牙嘴里长满结石",
@@ -819,19 +843,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 324956,
+      "num": 238096,
+      "word": "殷世航医院做鼻子",
+      "onboard_time": 1727008581,
+      "rank": 42,
+      "category": "网红"
+    },
+    {
       "raw_hot": 318185,
       "num": 318185,
       "word": "阳澄湖大闸蟹卖到300多一只",
       "onboard_time": 1726960875,
       "rank": 23,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 315136,
-      "num": 203987,
-      "word": "爷爷发现孙子背后多出颗痣秒去医院",
-      "onboard_time": 1727007799,
-      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -857,6 +881,14 @@
       "onboard_time": 1726916540,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 293663,
+      "num": 236879,
+      "word": "姚安娜演技",
+      "onboard_time": 1727008102,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 283025,
@@ -907,6 +939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 263717,
+      "num": 236109,
+      "word": "登陆少年出图",
+      "onboard_time": 1727009062,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 262364,
       "num": 214828,
       "word": "韩安冉回应亲生妈妈当小三",
@@ -921,6 +961,14 @@
       "onboard_time": 1726992978,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 261701,
+      "num": 240347,
+      "word": "全红婵说王俊凯包帅的",
+      "onboard_time": 1727007381,
+      "rank": 31,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 260653,
@@ -1017,6 +1065,14 @@
       "onboard_time": 1726982721,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 235848,
+      "num": 235848,
+      "word": "长发张小斐回来了",
+      "onboard_time": 1727008164,
+      "rank": 34,
+      "category": "音乐"
     },
     {
       "raw_hot": 232600,
@@ -1123,14 +1179,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 214220,
-      "num": 197811,
-      "word": "肖战 巴尔曼",
-      "onboard_time": 1727008342,
-      "rank": 25,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 211962,
       "num": 211962,
       "word": "张雪峰女儿喊自己妈妈姐",
@@ -1153,6 +1201,22 @@
       "onboard_time": 1726979121,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 209125,
+      "num": 209125,
+      "word": "张译播音腔",
+      "onboard_time": 1727008642,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 208865,
+      "num": 208865,
+      "word": "成龙真唱",
+      "onboard_time": 1727009483,
+      "rank": 33,
+      "category": "音乐"
     },
     {
       "raw_hot": 206734,
@@ -1323,12 +1387,44 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 194501,
+      "num": 194501,
+      "word": "天地龙鳞大合唱",
+      "onboard_time": 1727008881,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 193800,
+      "num": 193800,
+      "word": "蓝盈莹首部民国剧",
+      "onboard_time": 1727008823,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 193522,
+      "num": 193522,
+      "word": "宋雨琦直播",
+      "onboard_time": 1727008762,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 192967,
       "num": 192967,
       "word": "肖战加盟2024湾区升明月",
       "onboard_time": 1726986859,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 192128,
+      "num": 243969,
+      "word": "千万身价老板破产法院4元拍卖雪碧",
+      "onboard_time": 1727009182,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 191878,
@@ -1377,6 +1473,14 @@
       "onboard_time": 1726979300,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 184064,
+      "num": 243666,
+      "word": "美国伯明翰发生大规模枪击事件",
+      "onboard_time": 1727006059,
+      "rank": 36,
+      "category": "国外时政"
     },
     {
       "raw_hot": 183686,
@@ -1457,14 +1561,6 @@
       "onboard_time": 1726976060,
       "rank": 33,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 176039,
-      "num": 176039,
-      "word": "全红婵说王俊凯包帅的",
-      "onboard_time": 1727007381,
-      "rank": 31,
-      "category": "体育,艺人"
     },
     {
       "raw_hot": 175566,
@@ -1651,28 +1747,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 161766,
-      "num": 161766,
-      "word": "长发张小斐回来了",
-      "onboard_time": 1727008164,
-      "rank": 34,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 161256,
       "num": 161256,
       "word": "迪丽热巴超飒花絮图",
       "onboard_time": 1726990279,
       "rank": 32,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 160475,
-      "num": 160475,
-      "word": "姚安娜演技",
-      "onboard_time": 1727008102,
-      "rank": 35,
-      "category": "剧集"
     },
     {
       "raw_hot": 158412,
@@ -1729,14 +1809,6 @@
       "onboard_time": 1726923742,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 152969,
-      "num": 152969,
-      "word": "美国伯明翰发生大规模枪击事件",
-      "onboard_time": 1727006059,
-      "rank": 36,
-      "category": "国外时政"
     },
     {
       "raw_hot": 152846,
@@ -1819,6 +1891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 147333,
+      "num": 147333,
+      "word": "以色列防长称黎真主党被猎杀",
+      "onboard_time": 1727006301,
+      "rank": 42,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 146562,
       "num": 260612,
       "word": "当事大学生回应拟被聘为中学勤杂工",
@@ -1891,12 +1971,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 138596,
+      "num": 265553,
+      "word": "流水迢迢20集",
+      "onboard_time": 1727007141,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 138069,
       "num": 138069,
       "word": "朱一龙ELLE银十封面",
       "onboard_time": 1727007200,
       "rank": 39,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 137913,
+      "num": 248223,
+      "word": "复旦教授梁永安评半熟男女",
+      "onboard_time": 1727009123,
+      "rank": 10,
+      "category": "剧集"
     },
     {
       "raw_hot": 136544,
@@ -1947,14 +2043,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 131048,
-      "num": 131048,
-      "word": "张译播音腔",
-      "onboard_time": 1727008642,
-      "rank": 40,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 130533,
       "num": 130533,
       "word": "何广智职业最大危机是哈妮克孜",
@@ -1985,14 +2073,6 @@
       "onboard_time": 1726931843,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 129700,
-      "num": 129700,
-      "word": "殷世航医院做鼻子",
-      "onboard_time": 1727008581,
-      "rank": 42,
-      "category": "网红"
     },
     {
       "raw_hot": 129387,
@@ -2211,14 +2291,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 111744,
-      "num": 265553,
-      "word": "流水迢迢20集",
-      "onboard_time": 1727007141,
-      "rank": 10,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 110558,
       "num": 110558,
       "word": "张韶涵东北穿貂唱阿刁",
@@ -2273,6 +2345,14 @@
       "onboard_time": 1726997660,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 103593,
+      "num": 103593,
+      "word": "不要轻易在KTV演MV",
+      "onboard_time": 1727008404,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 102491,
@@ -2385,6 +2465,14 @@
       "onboard_time": 1726928487,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 79994,
+      "num": 242638,
+      "word": "陈乔恩婚礼大合照",
+      "onboard_time": 1727008823,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 79136,
@@ -2587,6 +2675,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 46092,
+      "num": 268939,
+      "word": "起底网络平台卖惨赛道",
+      "onboard_time": 1727008164,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 46080,
       "num": 249881,
       "word": "一件波司登搞定大西北旅行",
@@ -2691,14 +2787,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 29726,
-      "num": 268939,
-      "word": "起底网络平台卖惨赛道",
-      "onboard_time": 1727008164,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 29658,
       "num": 582789,
       "word": "丰收连连看",
@@ -2787,6 +2875,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 21736,
+      "num": 238674,
+      "word": "一张图看懂家居服怎么选",
+      "onboard_time": 1727007141,
+      "rank": 26,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 20674,
       "num": 208688,
       "word": "以为在火星实际在长城",
@@ -2809,14 +2905,6 @@
       "onboard_time": 1726933882,
       "rank": 46,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 17611,
-      "num": 196956,
-      "word": "一张图看懂家居服怎么选",
-      "onboard_time": 1727007141,
-      "rank": 26,
-      "category": "科学科普"
     },
     {
       "raw_hot": 16472,
