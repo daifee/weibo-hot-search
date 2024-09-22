@@ -1,0 +1,402 @@
+{
+  "runTime": 1726989555372,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1071022,
+        "num": 1171363,
+        "word": "赵丽颖雷佳音没睡醒就要开会",
+        "onboard_time": 1726989439,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 686792,
+        "num": 686792,
+        "word": "山东齐河县政府财政局办公楼起火",
+        "onboard_time": 1726985361,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 935363,
+        "num": 451841,
+        "word": "殷桃回复飞天奖没提名",
+        "onboard_time": 1726972100,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 441724,
+        "num": 441724,
+        "word": "叶剑英元帅长女叶楚梅逝世",
+        "onboard_time": 1726980798,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 412111,
+        "num": 412111,
+        "word": "黎巴嫩发射火箭弹回应爆炸事件",
+        "onboard_time": 1726983800,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 744231,
+        "num": 402213,
+        "word": "刘雨鑫回应赵丽颖粉丝",
+        "onboard_time": 1726982541,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 716672,
+        "num": 393530,
+        "word": "海清谈身边两个人一夜之间去世",
+        "onboard_time": 1726984819,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 522777,
+        "num": 370414,
+        "word": "陆虎说父母不反对已经很了不起了",
+        "onboard_time": 1726979779,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 245732,
+        "num": 355743,
+        "word": "12306回应台风天退票收退票费",
+        "onboard_time": 1726978219,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 808590,
+        "num": 339540,
+        "word": "陈乔恩的伴娘团",
+        "onboard_time": 1726988960,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 543074,
+        "num": 323506,
+        "word": "16岁女孩凌晨打车被司机强制猥亵",
+        "onboard_time": 1726971439,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 473986,
+        "num": 305664,
+        "word": "张若昀耳洞流血",
+        "onboard_time": 1726977620,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 292059,
+        "num": 292059,
+        "word": "高空抛物伤人全楼查DNA后男子自首",
+        "onboard_time": 1726988299,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260960,
+        "num": 260960,
+        "word": "加沙一孕妇死于空袭孩子掉在楼梯上",
+        "onboard_time": 1726967659,
+        "rank": 14,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 465443,
+        "num": 239467,
+        "word": "陈乔恩Alan婚礼现场图",
+        "onboard_time": 1726983920,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189945,
+        "num": 189945,
+        "word": "樊振东汗流浃背了吧",
+        "onboard_time": 1726984041,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 30614,
+        "num": 168180,
+        "word": "遇光就炙热的火锅羽绒",
+        "onboard_time": 1726985120,
+        "rank": 17,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 168017,
+        "num": 168017,
+        "word": "杨威3个娃开学全家人集体委屈",
+        "onboard_time": 1726982660,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 164572,
+        "num": 164572,
+        "word": "中国农民丰收节",
+        "onboard_time": 1726982239,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 478561,
+        "num": 163752,
+        "word": "妻子失联20年丈夫恋爱算出轨吗",
+        "onboard_time": 1726985540,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 378124,
+        "num": 163400,
+        "word": "于正回应杨幂这几年没好作品",
+        "onboard_time": 1726968258,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 343142,
+        "num": 162052,
+        "word": "嘉行传媒十周年",
+        "onboard_time": 1726987399,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 272637,
+        "num": 161312,
+        "word": "王俊凯 CL",
+        "onboard_time": 1726989259,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 244569,
+        "num": 160883,
+        "word": "陈赫张子萱贴脸秀恩爱",
+        "onboard_time": 1726982721,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 214844,
+        "num": 159941,
+        "word": "谁来心疼戚薇的头皮",
+        "onboard_time": 1726986500,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196563,
+        "num": 158704,
+        "word": "为什么网友不晒四年级以上的娃了",
+        "onboard_time": 1726984402,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 181899,
+        "num": 158543,
+        "word": "白鹿甜酷女团风",
+        "onboard_time": 1726988481,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 53672,
+        "num": 157085,
+        "word": "中国赛李怡婧罗徐敏女双夺冠",
+        "onboard_time": 1726987039,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 27847,
+        "num": 156274,
+        "word": "以军连续2天对黎发动猛攻",
+        "onboard_time": 1726988359,
+        "rank": 29,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 181894,
+        "num": 155848,
+        "word": "潘婷代言人",
+        "onboard_time": 1726980559,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167728,
+        "num": 154783,
+        "word": "猫系美女",
+        "onboard_time": 1726986979,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 154436,
+        "num": 154436,
+        "word": "9岁男孩坚持跑步3年从64斤跑到52斤",
+        "onboard_time": 1726972940,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147772,
+        "num": 147772,
+        "word": "于正回复洪尧关注美女",
+        "onboard_time": 1726982721,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132094,
+        "num": 132094,
+        "word": "李白新皮肤纪录片",
+        "onboard_time": 1726988299,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 127815,
+        "num": 127815,
+        "word": "刘雨鑫为殷桃发声",
+        "onboard_time": 1726974019,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126392,
+        "num": 126392,
+        "word": "寻呼机炸响中东炸穿了世界的底线",
+        "onboard_time": 1726982419,
+        "rank": 36,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 126195,
+        "num": 126195,
+        "word": "5岁男童每天早教致近视1000度",
+        "onboard_time": 1726977320,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125735,
+        "num": 125735,
+        "word": "白鹿鸢尾蝶",
+        "onboard_time": 1726982959,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 118780,
+        "num": 118780,
+        "word": "张博恒给师兄颁发奖牌",
+        "onboard_time": 1726987819,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111257,
+        "num": 111257,
+        "word": "肖战加盟2024湾区升明月",
+        "onboard_time": 1726986859,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 109824,
+        "num": 109824,
+        "word": "便宜的眼镜真的会伤眼吗",
+        "onboard_time": 1726989019,
+        "rank": 41,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 108861,
+        "num": 108861,
+        "word": "蔡文静飞天奖红毯",
+        "onboard_time": 1726986500,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 21607,
+        "num": 104607,
+        "word": "看音乐节主打一个花里胡哨",
+        "onboard_time": 1726986919,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 102716,
+        "num": 102716,
+        "word": "当事大学生回应拟被聘为中学勤杂工",
+        "onboard_time": 1726986979,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100303,
+        "num": 100303,
+        "word": "散瓶飞天茅台跌破2300元",
+        "onboard_time": 1726988600,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 93219,
+        "num": 93219,
+        "word": "李荣浩 谢谢大家对我们全家的支持",
+        "onboard_time": 1726975880,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 90457,
+        "num": 90457,
+        "word": "光与夜之恋",
+        "onboard_time": 1726978760,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 89511,
+        "num": 89511,
+        "word": "战至巅峰3补强对战",
+        "onboard_time": 1726989318,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 84023,
+        "num": 89471,
+        "word": "周深鸟巢上座率",
+        "onboard_time": 1726973538,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#让农民群众可感可及得到实惠#"
+    }
+  }
+}

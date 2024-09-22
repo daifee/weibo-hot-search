@@ -1,6 +1,6 @@
 {
   "startTime": 1726936020707,
-  "endTime": 1726987338381,
+  "endTime": 1726989555372,
   "band_list": [
     {
       "raw_hot": 4059841,
@@ -107,6 +107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1071022,
+      "num": 1171363,
+      "word": "赵丽颖雷佳音没睡醒就要开会",
+      "onboard_time": 1726989439,
+      "rank": 0,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1030674,
       "num": 489777,
       "word": "刘雨鑫为殷桃发声",
@@ -163,6 +171,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 808590,
+      "num": 339540,
+      "word": "陈乔恩的伴娘团",
+      "onboard_time": 1726988960,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 778129,
       "num": 485116,
       "word": "叶珂晒聊天记录",
@@ -172,7 +188,7 @@
     },
     {
       "raw_hot": 765129,
-      "num": 323639,
+      "num": 393530,
       "word": "海清谈身边两个人一夜之间去世",
       "onboard_time": 1726984819,
       "rank": 8,
@@ -193,6 +209,14 @@
       "onboard_time": 1726971320,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 686792,
+      "num": 686792,
+      "word": "山东齐河县政府财政局办公楼起火",
+      "onboard_time": 1726985361,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 685198,
@@ -307,7 +331,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 467776,
+      "raw_hot": 478561,
       "num": 239729,
       "word": "妻子失联20年丈夫恋爱算出轨吗",
       "onboard_time": 1726985540,
@@ -321,6 +345,14 @@
       "onboard_time": 1726975640,
       "rank": 48,
       "category": "教育"
+    },
+    {
+      "raw_hot": 465443,
+      "num": 239821,
+      "word": "陈乔恩Alan婚礼现场图",
+      "onboard_time": 1726983920,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 463170,
@@ -392,14 +424,6 @@
       "word": "权志龙IU合照",
       "onboard_time": 1726969099,
       "rank": 32,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 420064,
-      "num": 239821,
-      "word": "陈乔恩Alan婚礼现场图",
-      "onboard_time": 1726983920,
-      "rank": 22,
       "category": "艺人"
     },
     {
@@ -499,6 +523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 343142,
+      "num": 162052,
+      "word": "嘉行传媒十周年",
+      "onboard_time": 1726987399,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 318185,
       "num": 318185,
       "word": "阳澄湖大闸蟹卖到300多一只",
@@ -523,6 +555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 292059,
+      "num": 292059,
+      "word": "高空抛物伤人全楼查DNA后男子自首",
+      "onboard_time": 1726988299,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 283025,
       "num": 283025,
       "word": "被砍后反杀凶手男子家属发声",
@@ -539,6 +579,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 272637,
+      "num": 161312,
+      "word": "王俊凯 CL",
+      "onboard_time": 1726989259,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 272426,
       "num": 205871,
       "word": "叶珂最新健身视频",
@@ -552,14 +600,6 @@
       "word": "5岁男童每天早教致近视1000度",
       "onboard_time": 1726977320,
       "rank": 24,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 263654,
-      "num": 309168,
-      "word": "山东齐河县政府财政局办公楼起火",
-      "onboard_time": 1726985361,
-      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -827,6 +867,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 189945,
+      "num": 189945,
+      "word": "樊振东汗流浃背了吧",
+      "onboard_time": 1726984041,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 188421,
       "num": 188421,
       "word": "田嘉瑞拦这一下我和金晨一个反应",
@@ -843,14 +891,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 187204,
-      "num": 187204,
-      "word": "樊振东汗流浃背了吧",
-      "onboard_time": 1726984041,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 183686,
       "num": 123576,
       "word": "宋威龙 养爬宠的可以发博艾特我",
@@ -865,6 +905,14 @@
       "onboard_time": 1726983920,
       "rank": 28,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 181899,
+      "num": 158543,
+      "word": "白鹿甜酷女团风",
+      "onboard_time": 1726988481,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 181625,
@@ -945,6 +993,14 @@
       "onboard_time": 1726967659,
       "rank": 44,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 167728,
+      "num": 154783,
+      "word": "猫系美女",
+      "onboard_time": 1726986979,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 167504,
@@ -1211,6 +1267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 132094,
+      "num": 132094,
+      "word": "李白新皮肤纪录片",
+      "onboard_time": 1726988299,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 131928,
       "num": 369701,
       "word": "我记者直球提问以代表黎巴嫩事件",
@@ -1259,6 +1323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 126392,
+      "num": 126392,
+      "word": "寻呼机炸响中东炸穿了世界的底线",
+      "onboard_time": 1726982419,
+      "rank": 49,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 124767,
       "num": 280112,
       "word": "男子买星巴克月饼券无法提货",
@@ -1283,12 +1355,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 121165,
-      "num": 121165,
-      "word": "寻呼机炸响中东炸穿了世界的底线",
-      "onboard_time": 1726982419,
-      "rank": 49,
-      "category": "国外时政"
+      "raw_hot": 118780,
+      "num": 118780,
+      "word": "张博恒给师兄颁发奖牌",
+      "onboard_time": 1726987819,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 117139,
@@ -1339,12 +1411,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 109824,
+      "num": 109824,
+      "word": "便宜的眼镜真的会伤眼吗",
+      "onboard_time": 1726989019,
+      "rank": 41,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 108861,
+      "num": 189110,
+      "word": "蔡文静飞天奖红毯",
+      "onboard_time": 1726986500,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 106927,
       "num": 106927,
       "word": "陈乔恩坐Alan腿上拍照",
       "onboard_time": 1726922541,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 102716,
+      "num": 260612,
+      "word": "当事大学生回应拟被聘为中学勤杂工",
+      "onboard_time": 1726986979,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 102491,
@@ -1355,12 +1451,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 101085,
-      "num": 101085,
-      "word": "猫系美女",
-      "onboard_time": 1726986979,
-      "rank": 48,
-      "category": "幽默"
+      "raw_hot": 100303,
+      "num": 100303,
+      "word": "散瓶飞天茅台跌破2300元",
+      "onboard_time": 1726988600,
+      "rank": 45,
+      "category": "财经"
     },
     {
       "raw_hot": 97654,
@@ -1387,12 +1483,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 89293,
-      "num": 189110,
-      "word": "蔡文静飞天奖红毯",
-      "onboard_time": 1726986500,
-      "rank": 28,
-      "category": "剧集"
+      "raw_hot": 89511,
+      "num": 89511,
+      "word": "战至巅峰3补强对战",
+      "onboard_time": 1726989318,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 88024,
@@ -1547,6 +1643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 53672,
+      "num": 188100,
+      "word": "中国赛李怡婧罗徐敏女双夺冠",
+      "onboard_time": 1726987039,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 53593,
       "num": 305450,
       "word": "美国敦促本国公民尽快离开黎巴嫩",
@@ -1585,14 +1689,6 @@
       "onboard_time": 1726957392,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 47200,
-      "num": 188100,
-      "word": "中国赛李怡婧罗徐敏女双夺冠",
-      "onboard_time": 1726987039,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 46501,
@@ -1699,20 +1795,20 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 28683,
-      "num": 260612,
-      "word": "当事大学生回应拟被聘为中学勤杂工",
-      "onboard_time": 1726986979,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 27887,
       "num": 23347,
       "word": "飞天奖优秀电视剧",
       "onboard_time": 1726952050,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 27847,
+      "num": 156274,
+      "word": "以军连续2天对黎发动猛攻",
+      "onboard_time": 1726988359,
+      "rank": 29,
+      "category": "国外时政"
     },
     {
       "raw_hot": 27687,
@@ -1761,6 +1857,14 @@
       "onboard_time": 1726933102,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 21607,
+      "num": 112634,
+      "word": "看音乐节主打一个花里胡哨",
+      "onboard_time": 1726986919,
+      "rank": 43,
+      "category": "演出"
     },
     {
       "raw_hot": 20674,
@@ -1833,14 +1937,6 @@
       "onboard_time": 1726956913,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 8351,
-      "num": 112634,
-      "word": "看音乐节主打一个花里胡哨",
-      "onboard_time": 1726986919,
-      "rank": 43,
-      "category": "演出"
     },
     {
       "raw_hot": 6077,
