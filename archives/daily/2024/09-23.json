@@ -1,6 +1,6 @@
 {
   "startTime": 1727022296039,
-  "endTime": 1727030433710,
+  "endTime": 1727032603535,
   "band_list": [
     {
       "raw_hot": 4119718,
@@ -483,6 +483,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 85871,
+      "num": 58932,
+      "word": "飞天奖提名争议是佳作频出的烦恼",
+      "onboard_time": 1727028192,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 78158,
       "num": 85842,
       "word": "西湖里有片叶子能站200斤的人",
@@ -513,14 +521,6 @@
       "onboard_time": 1727025915,
       "rank": 36,
       "category": "音乐,体育"
-    },
-    {
-      "raw_hot": 60090,
-      "num": 49813,
-      "word": "飞天奖提名争议是佳作频出的烦恼",
-      "onboard_time": 1727028192,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 58897,
@@ -571,6 +571,30 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 27606,
+      "num": 27606,
+      "word": "周雨彤生日会",
+      "onboard_time": 1727031731,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 27135,
+      "num": 27603,
+      "word": "华晨宇恭喜LGD夺冠",
+      "onboard_time": 1727031014,
+      "rank": 40,
+      "category": "艺人,电竞"
+    },
+    {
+      "raw_hot": 26010,
+      "num": 27599,
+      "word": "周深北京欢迎你回忆杀",
+      "onboard_time": 1727032571,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
       "raw_hot": 16686,
       "num": 108324,
       "word": "曾无法上体育课的她夺得举重世界冠军",
@@ -579,7 +603,15 @@
       "category": "体育"
     },
     {
-      "raw_hot": 11763,
+      "raw_hot": 15939,
+      "num": 58990,
+      "word": "最治愈的风景在家乡",
+      "onboard_time": 1727030472,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 14857,
       "num": 90433,
       "word": "文化中国行文物里的秋色平分",
       "onboard_time": 1727029814,
