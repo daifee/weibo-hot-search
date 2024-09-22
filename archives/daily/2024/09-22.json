@@ -1,6 +1,6 @@
 {
   "startTime": 1726936020707,
-  "endTime": 1726990512303,
+  "endTime": 1726993502874,
   "band_list": [
     {
       "raw_hot": 4059841,
@@ -35,8 +35,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1607990,
-      "num": 1607990,
+      "raw_hot": 1716911,
+      "num": 1716911,
       "word": "陈乔恩的伴娘团",
       "onboard_time": 1726988960,
       "rank": 10,
@@ -131,6 +131,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 909257,
+      "num": 909257,
+      "word": "高空抛物伤人全楼查DNA后男子自首",
+      "onboard_time": 1726988299,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 892312,
+      "num": 271485,
+      "word": "男子趁女友熟睡拿手机给自己转3万",
+      "onboard_time": 1726990938,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 862002,
       "num": 862002,
       "word": "刘琳好可惜",
@@ -163,14 +179,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 823236,
-      "num": 823236,
-      "word": "高空抛物伤人全楼查DNA后男子自首",
-      "onboard_time": 1726988299,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 819975,
       "num": 819975,
       "word": "成都警方通报一起人员坠亡事件",
@@ -201,6 +209,14 @@
       "onboard_time": 1726931305,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 770841,
+      "num": 770841,
+      "word": "白鹿首唱会",
+      "onboard_time": 1726990221,
+      "rank": 22,
+      "category": "音乐"
     },
     {
       "raw_hot": 765129,
@@ -289,6 +305,22 @@
       "onboard_time": 1726979419,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 600246,
+      "num": 600246,
+      "word": "美国拨款16亿美元雇水军黑中国",
+      "onboard_time": 1726992079,
+      "rank": 4,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 575021,
+      "num": 575021,
+      "word": "两母亲吵架一女子抄起玩具砸向孩子",
+      "onboard_time": 1726990099,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 543308,
@@ -409,6 +441,14 @@
       "onboard_time": 1726969520,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 436113,
+      "num": 268387,
+      "word": "成年人谈恋爱只看性嫁比了吗",
+      "onboard_time": 1726990998,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 434296,
@@ -547,12 +587,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 335224,
-      "num": 191248,
-      "word": "白鹿首唱会",
-      "onboard_time": 1726990221,
-      "rank": 22,
-      "category": "音乐"
+      "raw_hot": 319875,
+      "num": 214513,
+      "word": "300块和3000块的眼镜区别有多大",
+      "onboard_time": 1726990339,
+      "rank": 43,
+      "category": "美妆"
     },
     {
       "raw_hot": 318185,
@@ -593,6 +633,14 @@
       "onboard_time": 1726984402,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 275521,
+      "num": 275521,
+      "word": "居民被高空抛物砸伤警察全楼验DNA",
+      "onboard_time": 1726990998,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 272426,
@@ -643,6 +691,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 251835,
+      "num": 214406,
+      "word": "便宜的眼镜真的会伤眼吗",
+      "onboard_time": 1726989019,
+      "rank": 41,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 251411,
+      "num": 251411,
+      "word": "樊振东汗流浃背了吧",
+      "onboard_time": 1726984041,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 248506,
       "num": 248506,
       "word": "江浙沪brunch",
@@ -681,6 +745,22 @@
       "onboard_time": 1726982721,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 236848,
+      "num": 169189,
+      "word": "吴彦祖混血女儿是中国通",
+      "onboard_time": 1726992978,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 235362,
+      "num": 214312,
+      "word": "母亲去世20岁儿子无钱安葬报警求助",
+      "onboard_time": 1726992738,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 232600,
@@ -755,6 +835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 211962,
+      "num": 211962,
+      "word": "张雪峰女儿喊自己妈妈姐",
+      "onboard_time": 1726991599,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 209651,
       "num": 488377,
       "word": "历届飞天奖视后盘点",
@@ -769,6 +857,14 @@
       "onboard_time": 1726979121,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 206081,
+      "num": 206081,
+      "word": "2024湾区升明月节目单",
+      "onboard_time": 1726991719,
+      "rank": 29,
+      "category": "音乐"
     },
     {
       "raw_hot": 205988,
@@ -811,6 +907,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 203086,
+      "num": 203086,
+      "word": "童瑶居然这么白",
+      "onboard_time": 1726992499,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 202970,
       "num": 202970,
       "word": "胡歌陪跑",
@@ -825,6 +929,14 @@
       "onboard_time": 1726920623,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 199634,
+      "num": 168429,
+      "word": "大湾区晚会来了",
+      "onboard_time": 1726990758,
+      "rank": 34,
+      "category": "音乐"
     },
     {
       "raw_hot": 199419,
@@ -875,14 +987,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 192976,
-      "num": 192976,
-      "word": "樊振东汗流浃背了吧",
-      "onboard_time": 1726984041,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 192967,
       "num": 192967,
       "word": "肖战加盟2024湾区升明月",
@@ -899,20 +1003,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 188097,
+      "num": 214668,
+      "word": "中国赛凤凰组合混双冠军",
+      "onboard_time": 1726992379,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 188048,
       "num": 188048,
       "word": "郑合惠子大唐娇美人",
       "onboard_time": 1726979300,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 187690,
-      "num": 187690,
-      "word": "两母亲吵架一女子抄起玩具砸向孩子",
-      "onboard_time": 1726990099,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 183686,
@@ -1155,6 +1259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 153992,
+      "num": 153992,
+      "word": "赵露思 武汉",
+      "onboard_time": 1726993039,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 152311,
       "num": 152311,
       "word": "刘耀文生日旅行明信片",
@@ -1267,14 +1379,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 142857,
-      "num": 142857,
-      "word": "便宜的眼镜真的会伤眼吗",
-      "onboard_time": 1726989019,
-      "rank": 41,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 141149,
       "num": 141149,
       "word": "王者荣耀联动李白故里",
@@ -1297,6 +1401,14 @@
       "onboard_time": 1726974619,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 138288,
+      "num": 138288,
+      "word": "电视剧三大奖大满贯名单",
+      "onboard_time": 1726992680,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 133819,
@@ -1435,14 +1547,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 114900,
-      "num": 114900,
-      "word": "300块和3000块的眼镜区别有多大",
-      "onboard_time": 1726990339,
-      "rank": 43,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 114526,
       "num": 114526,
       "word": "2024年最后100天",
@@ -1481,6 +1585,14 @@
       "onboard_time": 1726989918,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 110271,
+      "num": 273417,
+      "word": "太空出差三人组在忙些什么",
+      "onboard_time": 1726990938,
+      "rank": 10,
+      "category": "国内时政"
     },
     {
       "raw_hot": 108861,
@@ -1531,12 +1643,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 94732,
+      "num": 94732,
+      "word": "京淘淘称被羊毛党薅走1.8亿",
+      "onboard_time": 1726993338,
+      "rank": 46,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 94275,
       "num": 94275,
       "word": "大部分成年人很难1小时不看手机",
       "onboard_time": 1726985780,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 94070,
+      "num": 94070,
+      "word": "孟子义成功召唤650",
+      "onboard_time": 1726991359,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 89511,
@@ -1769,6 +1897,14 @@
       "onboard_time": 1726952892,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 45380,
+      "num": 214597,
+      "word": "国家级科研机构给李宁冲锋衣背书",
+      "onboard_time": 1726990998,
+      "rank": 20,
+      "category": "时尚"
     },
     {
       "raw_hot": 44620,
