@@ -1,6 +1,6 @@
 {
   "startTime": 1726936020707,
-  "endTime": 1726976520586,
+  "endTime": 1726979266631,
   "band_list": [
     {
       "raw_hot": 4059841,
@@ -64,6 +64,14 @@
       "word": "于正回应杨幂这几年没好作品",
       "onboard_time": 1726968258,
       "rank": 4,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 1312556,
+      "num": 470045,
+      "word": "张若昀耳洞流血",
+      "onboard_time": 1726977620,
+      "rank": 3,
       "category": "剧集"
     },
     {
@@ -147,6 +155,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 685198,
+      "num": 379259,
+      "word": "李荣浩 谢谢大家对我们全家的支持",
+      "onboard_time": 1726975880,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 654888,
+      "num": 329365,
+      "word": "孙千祝贺赵丽颖",
+      "onboard_time": 1726978039,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 651103,
       "num": 651103,
       "word": "郭永怀回国捐出了20多个四合院的钱",
@@ -211,6 +235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 466391,
+      "num": 466391,
+      "word": "法考",
+      "onboard_time": 1726975640,
+      "rank": 48,
+      "category": "教育"
+    },
+    {
       "raw_hot": 459047,
       "num": 323278,
       "word": "于正否认针对杨紫",
@@ -249,6 +281,14 @@
       "onboard_time": 1726905140,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 428384,
+      "num": 251563,
+      "word": "一个爱钱一个有钱建议锁死",
+      "onboard_time": 1726976479,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 422193,
@@ -305,6 +345,14 @@
       "onboard_time": 1726931664,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 383271,
+      "num": 383271,
+      "word": "12306回应台风天退票收退票费",
+      "onboard_time": 1726978219,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 371759,
@@ -379,14 +427,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 270336,
-      "num": 270336,
-      "word": "法考",
-      "onboard_time": 1726975640,
-      "rank": 48,
-      "category": "教育"
-    },
-    {
       "raw_hot": 262364,
       "num": 214828,
       "word": "韩安冉回应亲生妈妈当小三",
@@ -403,12 +443,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 251545,
+      "num": 251544,
+      "word": "5岁男童每天早教致近视1000度",
+      "onboard_time": 1726977320,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 248506,
       "num": 248506,
       "word": "江浙沪brunch",
       "onboard_time": 1726973359,
       "rank": 44,
       "category": "美食"
+    },
+    {
+      "raw_hot": 246653,
+      "num": 246653,
+      "word": "光与夜之恋",
+      "onboard_time": 1726978760,
+      "rank": 26,
+      "category": "游戏"
     },
     {
       "raw_hot": 239485,
@@ -465,14 +521,6 @@
       "onboard_time": 1726961355,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 214377,
-      "num": 214377,
-      "word": "李荣浩 谢谢大家对我们全家的支持",
-      "onboard_time": 1726975880,
-      "rank": 26,
-      "category": "演出"
     },
     {
       "raw_hot": 209651,
@@ -571,6 +619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 183354,
+      "num": 183354,
+      "word": "入青云导演被换",
+      "onboard_time": 1726978520,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 179869,
       "num": 272299,
       "word": "管培生因未参加公司跑步活动被辞退",
@@ -620,7 +676,7 @@
     },
     {
       "raw_hot": 171350,
-      "num": 168496,
+      "num": 251594,
       "word": "咏梅演技",
       "onboard_time": 1726974200,
       "rank": 48,
@@ -665,6 +721,14 @@
       "onboard_time": 1726961295,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 164123,
+      "num": 164123,
+      "word": "以色列海法及以北进入紧急状态",
+      "onboard_time": 1726976060,
+      "rank": 46,
+      "category": "国外时政"
     },
     {
       "raw_hot": 163732,
@@ -713,6 +777,14 @@
       "onboard_time": 1726923742,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 152311,
+      "num": 152311,
+      "word": "刘耀文生日旅行明信片",
+      "onboard_time": 1726979179,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 152142,
@@ -771,6 +843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 147965,
+      "num": 147965,
+      "word": "陈梦谈巴黎奥运会夺金",
+      "onboard_time": 1726977739,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 147835,
       "num": 227337,
       "word": "网红杯鼻祖宣布破产了",
@@ -785,14 +865,6 @@
       "onboard_time": 1726938856,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 144998,
-      "num": 144998,
-      "word": "一个爱钱一个有钱建议锁死",
-      "onboard_time": 1726976479,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 143210,
@@ -827,12 +899,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 137674,
-      "num": 137674,
-      "word": "以色列海法及以北进入紧急状态",
-      "onboard_time": 1726976060,
-      "rank": 46,
-      "category": "国外时政"
+      "raw_hot": 138664,
+      "num": 138664,
+      "word": "多部门回应网友自称从博物馆拿文物",
+      "onboard_time": 1726974619,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 133819,
@@ -849,6 +921,14 @@
       "onboard_time": 1726973119,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 132016,
+      "num": 251590,
+      "word": "陈乔恩Alan婚礼邀请函",
+      "onboard_time": 1726978939,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 130533,
@@ -921,6 +1001,30 @@
       "onboard_time": 1726932264,
       "rank": 43,
       "category": "演出,电竞"
+    },
+    {
+      "raw_hot": 115377,
+      "num": 115377,
+      "word": "黄河路装不下胡歌的意难平",
+      "onboard_time": 1726979121,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 114526,
+      "num": 114526,
+      "word": "2024年最后100天",
+      "onboard_time": 1726978939,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 114383,
+      "num": 114383,
+      "word": "王一博手拿海胆",
+      "onboard_time": 1726978698,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 112331,
@@ -1075,6 +1179,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 63162,
+      "num": 357269,
+      "word": "我记者直球提问以代表黎巴嫩事件",
+      "onboard_time": 1726978579,
+      "rank": 9,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 62042,
       "num": 90882,
       "word": "风吹半夏",
@@ -1171,6 +1283,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 35272,
+      "num": 128074,
+      "word": "一件波司登搞定大西北旅行",
+      "onboard_time": 1726978881,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 29658,
+      "num": 471658,
+      "word": "丰收连连看",
+      "onboard_time": 1726977260,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 28778,
       "num": 275743,
       "word": "以色列为何大规模攻击真主党",
@@ -1251,6 +1379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 12733,
+      "num": 114814,
+      "word": "李宁新出了陶瓷设计款",
+      "onboard_time": 1726979179,
+      "rank": 47,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 12309,
       "num": 29179,
       "word": "运20和光辉岁月BGM梦幻联动",
@@ -1278,6 +1414,9 @@
   "hotgov_list": [
     {
       "word": "#推动农业增效益农民增收入农村增活力#"
+    },
+    {
+      "word": "#让农民群众可感可及得到实惠#"
     }
   ]
 }

@@ -1,0 +1,410 @@
+{
+  "runTime": 1726979266631,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2532476,
+        "num": 2532476,
+        "word": "殷桃回复飞天奖没提名",
+        "onboard_time": 1726972100,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 563830,
+        "num": 563830,
+        "word": "官媒辟谣苹果手机被远程引爆",
+        "onboard_time": 1726968380,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 29658,
+        "num": 471658,
+        "word": "丰收连连看",
+        "onboard_time": 1726977260,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1312556,
+        "num": 470045,
+        "word": "张若昀耳洞流血",
+        "onboard_time": 1726977620,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 466391,
+        "num": 466391,
+        "word": "法考",
+        "onboard_time": 1726975640,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 383271,
+        "num": 383271,
+        "word": "12306回应台风天退票收退票费",
+        "onboard_time": 1726978219,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1002087,
+        "num": 381296,
+        "word": "于正回应杨幂这几年没好作品",
+        "onboard_time": 1726968258,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 685198,
+        "num": 379259,
+        "word": "李荣浩 谢谢大家对我们全家的支持",
+        "onboard_time": 1726975880,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 374305,
+        "num": 374305,
+        "word": "多方回应男子鉴宝自称从博物馆拿的",
+        "onboard_time": 1726969520,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 63162,
+        "num": 357269,
+        "word": "我记者直球提问以代表黎巴嫩事件",
+        "onboard_time": 1726978579,
+        "rank": 9,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1048257,
+        "num": 342947,
+        "word": "16岁女孩凌晨打车被司机强制猥亵",
+        "onboard_time": 1726971439,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 654888,
+        "num": 329365,
+        "word": "孙千祝贺赵丽颖",
+        "onboard_time": 1726978039,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 624132,
+        "num": 306874,
+        "word": "刘雨鑫为殷桃发声",
+        "onboard_time": 1726974019,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 596073,
+        "num": 299726,
+        "word": "加沙一孕妇死于空袭孩子掉在楼梯上",
+        "onboard_time": 1726967659,
+        "rank": 13,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 492576,
+        "num": 271036,
+        "word": "周深鸟巢上座率",
+        "onboard_time": 1726973538,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 263082,
+        "num": 263082,
+        "word": "禁止吃泡面景区如此治污难服众",
+        "onboard_time": 1726961295,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254845,
+        "num": 254845,
+        "word": "男子杀害女子沉尸4年后再杀继母",
+        "onboard_time": 1726933102,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251601,
+        "num": 251601,
+        "word": "拟被聘为勤杂工硕士实为本科生",
+        "onboard_time": 1726969639,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170183,
+        "num": 251594,
+        "word": "咏梅演技",
+        "onboard_time": 1726974200,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 132016,
+        "num": 251590,
+        "word": "陈乔恩Alan婚礼邀请函",
+        "onboard_time": 1726978939,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 439920,
+        "num": 251578,
+        "word": "叶珂晒聊天记录",
+        "onboard_time": 1726931305,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 428384,
+        "num": 251563,
+        "word": "一个爱钱一个有钱建议锁死",
+        "onboard_time": 1726976479,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 426530,
+        "num": 251555,
+        "word": "于正否认针对杨紫",
+        "onboard_time": 1726973180,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 374070,
+        "num": 251545,
+        "word": "9岁男孩坚持跑步3年从64斤跑到52斤",
+        "onboard_time": 1726972940,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251545,
+        "num": 251544,
+        "word": "5岁男童每天早教致近视1000度",
+        "onboard_time": 1726977320,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 263791,
+        "num": 249798,
+        "word": "韩安冉妈妈内涵宋浩然",
+        "onboard_time": 1726965919,
+        "rank": 25,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 246653,
+        "num": 246653,
+        "word": "光与夜之恋",
+        "onboard_time": 1726978760,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 214724,
+        "num": 214724,
+        "word": "TFING不参加太湖湾音乐节",
+        "onboard_time": 1726973779,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 194071,
+        "num": 194071,
+        "word": "江浙沪brunch",
+        "onboard_time": 1726973359,
+        "rank": 28,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 183354,
+        "num": 183354,
+        "word": "入青云导演被换",
+        "onboard_time": 1726978520,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174895,
+        "num": 174895,
+        "word": "权志龙IU合照",
+        "onboard_time": 1726969099,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 164123,
+        "num": 164123,
+        "word": "以色列海法及以北进入紧急状态",
+        "onboard_time": 1726976060,
+        "rank": 31,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 156741,
+        "num": 156741,
+        "word": "小克重金饰更受青睐",
+        "onboard_time": 1726967899,
+        "rank": 32,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 152572,
+        "num": 152572,
+        "word": "秋分后开始昼短夜长",
+        "onboard_time": 1726963517,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152311,
+        "num": 152311,
+        "word": "刘耀文生日旅行明信片",
+        "onboard_time": 1726979179,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 366165,
+        "num": 150700,
+        "word": "赵丽颖飞天奖视后",
+        "onboard_time": 1726925783,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147965,
+        "num": 147965,
+        "word": "陈梦谈巴黎奥运会夺金",
+        "onboard_time": 1726977739,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143809,
+        "num": 143809,
+        "word": "9月22日20时43分迎秋分",
+        "onboard_time": 1726961295,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140195,
+        "num": 140195,
+        "word": "成龙樊振东全红婵同框",
+        "onboard_time": 1726963037,
+        "rank": 38,
+        "category": "音乐,体育"
+      },
+      {
+        "raw_hot": 138664,
+        "num": 138664,
+        "word": "多部门回应网友自称从博物馆拿文物",
+        "onboard_time": 1726974619,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136892,
+        "num": 136892,
+        "word": "李钟硕在IU演唱会贵宾席",
+        "onboard_time": 1726961716,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 136876,
+        "num": 136876,
+        "word": "周杰伦南京抢票",
+        "onboard_time": 1726976358,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 35272,
+        "num": 128074,
+        "word": "一件波司登搞定大西北旅行",
+        "onboard_time": 1726978881,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127787,
+        "num": 127787,
+        "word": "花花小肚皮上堆满苹果",
+        "onboard_time": 1726970658,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 122774,
+        "num": 122774,
+        "word": "年轻人开始买金条代替结婚三金",
+        "onboard_time": 1726968200,
+        "rank": 44,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 117945,
+        "num": 117945,
+        "word": "秋分也是丰收节",
+        "onboard_time": 1726933462,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115377,
+        "num": 115377,
+        "word": "黄河路装不下胡歌的意难平",
+        "onboard_time": 1726979121,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 12733,
+        "num": 114814,
+        "word": "李宁新出了陶瓷设计款",
+        "onboard_time": 1726979179,
+        "rank": 47,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 114526,
+        "num": 114526,
+        "word": "2024年最后100天",
+        "onboard_time": 1726978939,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114383,
+        "num": 114383,
+        "word": "王一博手拿海胆",
+        "onboard_time": 1726978698,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#让农民群众可感可及得到实惠#"
+    }
+  }
+}
