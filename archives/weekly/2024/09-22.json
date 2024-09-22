@@ -1,6 +1,6 @@
 {
   "startTime": 1726936020707,
-  "endTime": 1726983466933,
+  "endTime": 1726986504617,
   "band_list": [
     {
       "raw_hot": 4059841,
@@ -56,6 +56,14 @@
       "word": "赵丽颖发文回应飞天奖视后",
       "onboard_time": 1726936160,
       "rank": 9,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 1414193,
+      "num": 430654,
+      "word": "刘雨鑫回应赵丽颖粉丝",
+      "onboard_time": 1726982541,
+      "rank": 3,
       "category": "剧集"
     },
     {
@@ -195,6 +203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 678957,
+      "num": 300047,
+      "word": "海清谈身边两个人一夜之间去世",
+      "onboard_time": 1726984819,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 654888,
       "num": 353009,
       "word": "孙千祝贺赵丽颖",
@@ -219,6 +235,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 626200,
+      "num": 283293,
+      "word": "潘婷代言人",
+      "onboard_time": 1726980559,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 606885,
       "num": 269053,
       "word": "赵丽颖风吹半夏总榜第一",
@@ -235,12 +259,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 531120,
-      "num": 243683,
-      "word": "潘婷代言人",
-      "onboard_time": 1726980559,
-      "rank": 21,
-      "category": "艺人"
+      "raw_hot": 539714,
+      "num": 274703,
+      "word": "赵丽颖雷佳音飞天奖后台生图",
+      "onboard_time": 1726985780,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 513102,
@@ -323,6 +347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 434296,
+      "num": 240648,
+      "word": "陈赫张子萱贴脸秀恩爱",
+      "onboard_time": 1726982721,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 433185,
       "num": 269559,
       "word": "1岁男童腹中竟有个小宝宝",
@@ -344,6 +376,14 @@
       "word": "权志龙IU合照",
       "onboard_time": 1726969099,
       "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 420064,
+      "num": 239821,
+      "word": "陈乔恩Alan婚礼现场图",
+      "onboard_time": 1726983920,
+      "rank": 22,
       "category": "艺人"
     },
     {
@@ -403,6 +443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 370700,
+      "num": 262577,
+      "word": "杨威3个娃开学全家人集体委屈",
+      "onboard_time": 1726982660,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 370362,
       "num": 370362,
       "word": "光与夜之恋",
@@ -435,12 +483,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 322869,
-      "num": 219968,
-      "word": "陈赫张子萱贴脸秀恩爱",
-      "onboard_time": 1726982721,
-      "rank": 22,
-      "category": "艺人"
+      "raw_hot": 325621,
+      "num": 239729,
+      "word": "妻子失联20年丈夫恋爱算出轨吗",
+      "onboard_time": 1726985540,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 318185,
@@ -449,6 +497,14 @@
       "onboard_time": 1726960875,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 314508,
+      "num": 314508,
+      "word": "黎巴嫩发射火箭弹回应爆炸事件",
+      "onboard_time": 1726983800,
+      "rank": 5,
+      "category": "国外时政"
     },
     {
       "raw_hot": 301412,
@@ -473,6 +529,14 @@
       "onboard_time": 1726945692,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 280842,
+      "num": 238917,
+      "word": "为什么网友不晒四年级以上的娃了",
+      "onboard_time": 1726984402,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 272426,
@@ -523,6 +587,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 241978,
+      "num": 241978,
+      "word": "齐司礼卡面",
+      "onboard_time": 1726984700,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 241402,
       "num": 202518,
       "word": "张鲁一情商",
@@ -537,6 +609,14 @@
       "onboard_time": 1726916301,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 238366,
+      "num": 238366,
+      "word": "于正回复洪尧关注美女",
+      "onboard_time": 1726982721,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 232600,
@@ -564,7 +644,7 @@
     },
     {
       "raw_hot": 224493,
-      "num": 224493,
+      "num": 295366,
       "word": "中国农民丰收节",
       "onboard_time": 1726982239,
       "rank": 10,
@@ -649,14 +729,6 @@
       "onboard_time": 1726934662,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 203632,
-      "num": 203632,
-      "word": "于正回复洪尧关注美女",
-      "onboard_time": 1726982721,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 203344,
@@ -755,6 +827,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 183304,
+      "num": 183304,
+      "word": "原神",
+      "onboard_time": 1726983920,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 181625,
       "num": 181625,
       "word": "长大后才发现自己是霸凌隐性施暴者",
@@ -793,6 +873,14 @@
       "onboard_time": 1726933462,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 173827,
+      "num": 173827,
+      "word": "樊振东汗流浃背了吧",
+      "onboard_time": 1726984041,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 173610,
@@ -891,6 +979,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 163934,
+      "num": 163934,
+      "word": "看似涂涂改改实则瞒天过海",
+      "onboard_time": 1726985659,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 163732,
       "num": 163732,
       "word": "周杰伦南京抢票",
@@ -944,6 +1040,14 @@
       "word": "姑娘奶茶只喝三分甜牙齿严重酸蚀",
       "onboard_time": 1726923742,
       "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 152893,
+      "num": 309168,
+      "word": "山东齐河县政府财政局办公楼起火",
+      "onboard_time": 1726985361,
+      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -1009,14 +1113,6 @@
       "onboard_time": 1726970060,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 148096,
-      "num": 148096,
-      "word": "杨威3个娃开学全家人集体委屈",
-      "onboard_time": 1726982660,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 147835,
@@ -1187,6 +1283,14 @@
       "category": "演出,电竞"
     },
     {
+      "raw_hot": 116258,
+      "num": 116258,
+      "word": "灵儿改造的对象终于到了拖米",
+      "onboard_time": 1726984162,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 114526,
       "num": 114526,
       "word": "2024年最后100天",
@@ -1235,12 +1339,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 97654,
+      "num": 97654,
+      "word": "出走的决心",
+      "onboard_time": 1726984220,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
       "raw_hot": 95984,
       "num": 95984,
       "word": "雷佳音视帝大满贯",
       "onboard_time": 1726927286,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 94275,
+      "num": 94275,
+      "word": "大部分成年人很难1小时不看手机",
+      "onboard_time": 1726985780,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 88024,
@@ -1411,6 +1531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 52169,
+      "num": 254500,
+      "word": "郑云龙官宣微博音乐盛典",
+      "onboard_time": 1726985419,
+      "rank": 16,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 50585,
       "num": 112262,
       "word": "第五人格",
@@ -1465,6 +1593,14 @@
       "onboard_time": 1726949951,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 38088,
+      "num": 248902,
+      "word": "遇光就炙热的火锅羽绒",
+      "onboard_time": 1726985120,
+      "rank": 17,
+      "category": "时尚"
     },
     {
       "raw_hot": 35905,
