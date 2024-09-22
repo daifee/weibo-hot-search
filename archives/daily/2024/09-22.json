@@ -1,6 +1,6 @@
 {
   "startTime": 1726936020707,
-  "endTime": 1726961719990,
+  "endTime": 1726969599665,
   "band_list": [
     {
       "raw_hot": 4059841,
@@ -19,6 +19,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 2382835,
+      "num": 2382835,
+      "word": "成都一女子坠楼砸中路人2人死亡",
+      "onboard_time": 1726964538,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1585914,
       "num": 1585914,
       "word": "视后视帝都没准备获奖感言",
@@ -32,6 +40,22 @@
       "word": "赵丽颖发文回应飞天奖视后",
       "onboard_time": 1726936160,
       "rank": 9,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 988907,
+      "num": 203651,
+      "word": "加沙一孕妇死于空袭孩子掉在楼梯上",
+      "onboard_time": 1726967659,
+      "rank": 20,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 890840,
+      "num": 890840,
+      "word": "于正回应杨幂这几年没好作品",
+      "onboard_time": 1726968258,
+      "rank": 4,
       "category": "剧集"
     },
     {
@@ -59,12 +83,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 545827,
+      "raw_hot": 817015,
+      "num": 817015,
+      "word": "韩安冉妈妈内涵宋浩然",
+      "onboard_time": 1726965919,
+      "rank": 5,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 778129,
       "num": 315980,
       "word": "叶珂晒聊天记录",
       "onboard_time": 1726931305,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 651103,
+      "num": 651103,
+      "word": "郭永怀回国捐出了20多个四合院的钱",
+      "onboard_time": 1726964358,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 543308,
@@ -83,20 +123,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 509255,
+      "num": 405206,
+      "word": "张颂文飞天奖直播捡手机",
+      "onboard_time": 1726933882,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 503302,
+      "num": 503302,
+      "word": "禁止吃泡面景区如此治污难服众",
+      "onboard_time": 1726961295,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 502449,
       "num": 284441,
       "word": "王俊凯晒长寿面",
       "onboard_time": 1726929147,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 468731,
-      "num": 405206,
-      "word": "张颂文飞天奖直播捡手机",
-      "onboard_time": 1726933882,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 448503,
@@ -112,6 +160,30 @@
       "word": "1岁男童腹中竟有个小宝宝",
       "onboard_time": 1726905140,
       "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 413464,
+      "num": 202812,
+      "word": "李钟硕在IU演唱会贵宾席",
+      "onboard_time": 1726961716,
+      "rank": 21,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 407422,
+      "num": 202105,
+      "word": "成龙樊振东全红婵同框",
+      "onboard_time": 1726963037,
+      "rank": 22,
+      "category": "音乐,体育"
+    },
+    {
+      "raw_hot": 402554,
+      "num": 402554,
+      "word": "秋分后开始昼短夜长",
+      "onboard_time": 1726963517,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -147,6 +219,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 349856,
+      "num": 200527,
+      "word": "汪峰凭一己之力让13个人尴尬",
+      "onboard_time": 1726967720,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 301412,
       "num": 301412,
       "word": "医生实名举报CT乱象约半年仍无结果",
@@ -163,12 +243,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 294466,
+      "num": 294466,
+      "word": "阳澄湖大闸蟹卖到300多一只",
+      "onboard_time": 1726960875,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 283025,
       "num": 283025,
       "word": "被砍后反杀凶手男子家属发声",
       "onboard_time": 1726945692,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 272426,
+      "num": 199965,
+      "word": "叶珂最新健身视频",
+      "onboard_time": 1726966459,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 262364,
@@ -219,12 +315,44 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 220898,
+      "num": 180539,
+      "word": "硬扛一年后日本为何妥协了",
+      "onboard_time": 1726961295,
+      "rank": 25,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 214647,
+      "num": 214647,
+      "word": "秋分",
+      "onboard_time": 1726961355,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 207700,
+      "num": 180514,
+      "word": "权志龙IU合照",
+      "onboard_time": 1726969099,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 204774,
       "num": 219228,
       "word": "北京地铁偶遇王星越",
       "onboard_time": 1726934662,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 204250,
+      "num": 204250,
+      "word": "小克重金饰更受青睐",
+      "onboard_time": 1726967899,
+      "rank": 19,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 202970,
@@ -259,12 +387,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 183206,
-      "num": 183206,
-      "word": "秋分",
-      "onboard_time": 1726961355,
-      "rank": 8,
+      "raw_hot": 180636,
+      "num": 180636,
+      "word": "成都警方通报一起人员坠亡事件",
+      "onboard_time": 1726965799,
+      "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 180505,
+      "num": 180505,
+      "word": "年轻人开始买金条代替结婚三金",
+      "onboard_time": 1726968200,
+      "rank": 33,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 179869,
@@ -291,6 +427,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 172388,
+      "num": 172388,
+      "word": "王俊凯晒生日礼物",
+      "onboard_time": 1726961597,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 167504,
       "num": 112089,
       "word": "漫长的季节",
@@ -307,12 +451,44 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 162611,
+      "num": 183088,
+      "word": "9月22日20时43分迎秋分",
+      "onboard_time": 1726961295,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 158412,
+      "num": 158412,
+      "word": "半熟男女三女主义",
+      "onboard_time": 1726967899,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 157251,
       "num": 227666,
       "word": "韩国的自助泡面店",
       "onboard_time": 1726931425,
       "rank": 28,
       "category": "美食"
+    },
+    {
+      "raw_hot": 154439,
+      "num": 216234,
+      "word": "姑娘奶茶只喝三分甜牙齿严重酸蚀",
+      "onboard_time": 1726923742,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 148974,
+      "num": 148974,
+      "word": "王力宏官宣2024湾区升明月",
+      "onboard_time": 1726966579,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 148629,
@@ -331,12 +507,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 145178,
+      "num": 145178,
+      "word": "女子接完电话崩溃大哭陌生人递纸巾",
+      "onboard_time": 1726938856,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 143046,
       "num": 204341,
       "word": "朴春瘦了好多",
       "onboard_time": 1726922301,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 140227,
+      "num": 140227,
+      "word": "肖战2024湾区升明月彩排",
+      "onboard_time": 1726961656,
+      "rank": 34,
+      "category": "音乐"
     },
     {
       "raw_hot": 133819,
@@ -363,14 +555,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 128609,
-      "num": 128609,
-      "word": "禁止吃泡面景区如此治污难服众",
-      "onboard_time": 1726961295,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 124767,
       "num": 280112,
       "word": "男子买星巴克月饼券无法提货",
@@ -387,12 +571,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 123231,
-      "num": 183088,
-      "word": "9月22日20时43分迎秋分",
-      "onboard_time": 1726961295,
-      "rank": 9,
-      "category": "社会新闻"
+      "raw_hot": 124487,
+      "num": 124487,
+      "word": "加沙人问4个月大的胎儿做错了什么",
+      "onboard_time": 1726967659,
+      "rank": 44,
+      "category": "国外时政"
     },
     {
       "raw_hot": 122902,
@@ -403,6 +587,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 122776,
+      "num": 122776,
+      "word": "为什么现在的老师不敢管孩子了",
+      "onboard_time": 1726967300,
+      "rank": 45,
+      "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 117715,
+      "num": 117715,
+      "word": "无糖奶茶含糖量接近正常糖的一半",
+      "onboard_time": 1726961716,
+      "rank": 46,
+      "category": "美食,健康医疗"
+    },
+    {
       "raw_hot": 117139,
       "num": 135850,
       "word": "郎平惠若琪现身周深鸟巢演唱会",
@@ -411,20 +611,28 @@
       "category": "演出,电竞"
     },
     {
-      "raw_hot": 111862,
-      "num": 111862,
-      "word": "阳澄湖大闸蟹卖到300多一只",
-      "onboard_time": 1726960875,
-      "rank": 23,
+      "raw_hot": 114125,
+      "num": 114125,
+      "word": "多方回应男子鉴宝自称从博物馆拿的",
+      "onboard_time": 1726969520,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 109606,
-      "num": 109606,
-      "word": "硬扛一年后日本为何妥协了",
-      "onboard_time": 1726961295,
-      "rank": 25,
-      "category": "国外时政"
+      "raw_hot": 112331,
+      "num": 112331,
+      "word": "蔡徐坤的海外人气",
+      "onboard_time": 1726963099,
+      "rank": 48,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 111834,
+      "num": 111834,
+      "word": "无锡医保局对涉嫌骗保医院行政立案",
+      "onboard_time": 1726965139,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 106927,
@@ -443,20 +651,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 100645,
-      "num": 216234,
-      "word": "姑娘奶茶只喝三分甜牙齿严重酸蚀",
-      "onboard_time": 1726923742,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 96015,
-      "num": 96015,
-      "word": "女子接完电话崩溃大哭陌生人递纸巾",
-      "onboard_time": 1726938856,
-      "rank": 37,
-      "category": "社会新闻"
+      "raw_hot": 99104,
+      "num": 180612,
+      "word": "官媒辟谣苹果手机被远程引爆",
+      "onboard_time": 1726968380,
+      "rank": 29,
+      "category": "数码"
     },
     {
       "raw_hot": 95984,
@@ -499,28 +699,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 81372,
-      "num": 81372,
-      "word": "肖战2024湾区升明月彩排",
-      "onboard_time": 1726961656,
-      "rank": 34,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 80316,
       "num": 202934,
       "word": "为什么秋天的蚊子咬人更狠",
       "onboard_time": 1726928487,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 80226,
-      "num": 80226,
-      "word": "王俊凯晒生日礼物",
-      "onboard_time": 1726961597,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 79136,
@@ -665,6 +849,14 @@
       "onboard_time": 1726943114,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 35502,
+      "num": 249181,
+      "word": "明码标价的检疫许可是怎么流出来的",
+      "onboard_time": 1726967840,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 27887,
