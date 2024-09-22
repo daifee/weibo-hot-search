@@ -1,0 +1,410 @@
+{
+  "runTime": 1726996857863,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1516903,
+        "num": 1516903,
+        "word": "美国拨款16亿美元雇水军黑中国",
+        "onboard_time": 1726992079,
+        "rank": 0,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1388422,
+        "num": 1388422,
+        "word": "陈乔恩的伴娘团",
+        "onboard_time": 1726988960,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 61831,
+        "num": 928272,
+        "word": "文化中国行发现节气之美",
+        "onboard_time": 1726995738,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 824998,
+        "num": 824998,
+        "word": "白鹿首唱会",
+        "onboard_time": 1726990221,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 804521,
+        "num": 804521,
+        "word": "孙颖莎见面会",
+        "onboard_time": 1726994838,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 666957,
+        "num": 666957,
+        "word": "居民被高空抛物砸伤警察全楼验DNA",
+        "onboard_time": 1726990998,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 589107,
+        "num": 589107,
+        "word": "赵丽颖雷佳音没睡醒就要开会",
+        "onboard_time": 1726989439,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 543240,
+        "num": 543240,
+        "word": "高空抛物伤人全楼查DNA后男子自首",
+        "onboard_time": 1726988299,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 537044,
+        "num": 537044,
+        "word": "时代少年团马龙刘诗雯合影",
+        "onboard_time": 1726994180,
+        "rank": 8,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 11540,
+        "num": 520801,
+        "word": "骗保医院背后资本投资超9家医院",
+        "onboard_time": 1726996640,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 667897,
+        "num": 519374,
+        "word": "男子趁女友熟睡拿手机给自己转3万",
+        "onboard_time": 1726990938,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 515829,
+        "num": 515829,
+        "word": "成年人谈恋爱只看性嫁比了吗",
+        "onboard_time": 1726990998,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171841,
+        "num": 486758,
+        "word": "叶剑英元帅长女叶楚梅逝世",
+        "onboard_time": 1726980798,
+        "rank": 12,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 419328,
+        "num": 479868,
+        "word": "于正 保护一下我",
+        "onboard_time": 1726994899,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 431321,
+        "num": 431321,
+        "word": "陈乔恩Alan婚礼现场图",
+        "onboard_time": 1726983920,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 402371,
+        "num": 402371,
+        "word": "殷桃回复飞天奖没提名",
+        "onboard_time": 1726972100,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 43744,
+        "num": 324785,
+        "word": "冲锋衣会呼吸真的很重要",
+        "onboard_time": 1726993699,
+        "rank": 16,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 294574,
+        "num": 294574,
+        "word": "两母亲吵架一女子抄起玩具砸向孩子",
+        "onboard_time": 1726990099,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223742,
+        "num": 293329,
+        "word": "16岁女孩凌晨打车被司机强制猥亵",
+        "onboard_time": 1726971439,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 84792,
+        "num": 292805,
+        "word": "Alan的伴郎有郑元畅明道",
+        "onboard_time": 1726995979,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 541093,
+        "num": 291462,
+        "word": "母亲去世20岁儿子无钱安葬报警求助",
+        "onboard_time": 1726992738,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 328054,
+        "num": 290662,
+        "word": "差点没认出来胡冰卿",
+        "onboard_time": 1726995979,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 325787,
+        "num": 288128,
+        "word": "赵露思 武汉",
+        "onboard_time": 1726993039,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 294578,
+        "num": 287621,
+        "word": "300块和3000块的眼镜区别有多大",
+        "onboard_time": 1726990339,
+        "rank": 23,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 286764,
+        "num": 286764,
+        "word": "刘雨鑫回应赵丽颖粉丝",
+        "onboard_time": 1726982541,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 267994,
+        "num": 267994,
+        "word": "白鹿唱跳全开麦",
+        "onboard_time": 1726994119,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 249247,
+        "num": 249247,
+        "word": "吴彦祖混血女儿是中国通",
+        "onboard_time": 1726992978,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 248910,
+        "num": 248910,
+        "word": "汪峰这段堪比宋丹丹尴尬9分钟",
+        "onboard_time": 1726995379,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 240365,
+        "num": 240365,
+        "word": "陆虎说父母不反对已经很了不起了",
+        "onboard_time": 1726979779,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195689,
+        "num": 207418,
+        "word": "妻子失联20年丈夫恋爱算出轨吗",
+        "onboard_time": 1726985540,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207090,
+        "num": 207090,
+        "word": "大湾区晚会来了",
+        "onboard_time": 1726990758,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 199820,
+        "num": 199820,
+        "word": "农村吃大席有多卷",
+        "onboard_time": 1726995738,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199219,
+        "num": 199219,
+        "word": "易烊千玺干杯朋友彩排",
+        "onboard_time": 1726996220,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 192844,
+        "num": 192844,
+        "word": "中国农民丰收节",
+        "onboard_time": 1726982239,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181796,
+        "num": 181796,
+        "word": "成龙说樊振东全红婵是自己的偶像",
+        "onboard_time": 1726995379,
+        "rank": 34,
+        "category": "音乐,体育"
+      },
+      {
+        "raw_hot": 180730,
+        "num": 180730,
+        "word": "山东齐河县政府财政局办公楼起火",
+        "onboard_time": 1726985361,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178621,
+        "num": 178621,
+        "word": "海清谈身边两个人一夜之间去世",
+        "onboard_time": 1726984819,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176898,
+        "num": 176898,
+        "word": "法考",
+        "onboard_time": 1726975640,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 171960,
+        "num": 171960,
+        "word": "芜湖巨响",
+        "onboard_time": 1726995259,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149836,
+        "num": 149836,
+        "word": "樊振东汗流浃背了吧",
+        "onboard_time": 1726984041,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 154026,
+        "num": 148486,
+        "word": "张若昀耳洞流血",
+        "onboard_time": 1726977620,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150596,
+        "num": 148132,
+        "word": "于正回应杨幂这几年没好作品",
+        "onboard_time": 1726968258,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 146523,
+        "num": 146523,
+        "word": "2024湾区升明月节目单",
+        "onboard_time": 1726991719,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 140940,
+        "num": 140940,
+        "word": "便宜的眼镜真的会伤眼吗",
+        "onboard_time": 1726989019,
+        "rank": 43,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 138789,
+        "num": 138789,
+        "word": "电视剧三大奖大满贯名单",
+        "onboard_time": 1726992680,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134799,
+        "num": 134799,
+        "word": "黎巴嫩发射火箭弹回应爆炸事件",
+        "onboard_time": 1726983800,
+        "rank": 45,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 118252,
+        "num": 118252,
+        "word": "涵艺爆料iG卖了",
+        "onboard_time": 1726996339,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 110057,
+        "num": 110057,
+        "word": "猫系美女",
+        "onboard_time": 1726986979,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 106986,
+        "num": 106986,
+        "word": "十年间中国人的餐桌发生了什么变化",
+        "onboard_time": 1726993939,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102686,
+        "num": 102686,
+        "word": "樊振东西南北中",
+        "onboard_time": 1726996459,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记田间地头的嘱咐#"
+    }
+  }
+}
