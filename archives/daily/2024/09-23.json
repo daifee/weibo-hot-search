@@ -1,6 +1,6 @@
 {
   "startTime": 1727022296039,
-  "endTime": 1727022296039,
+  "endTime": 1727023239751,
   "band_list": [
     {
       "raw_hot": 4119718,
@@ -43,8 +43,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 860207,
-      "num": 250476,
+      "raw_hot": 922325,
+      "num": 289346,
       "word": "刘琳祝贺赵丽颖",
       "onboard_time": 1727020942,
       "rank": 10,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 647308,
-      "num": 239760,
+      "num": 268458,
       "word": "妻子发现丈夫出轨后半夜杀夫",
       "onboard_time": 1727007681,
       "rank": 11,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 558717,
-      "num": 238686,
+      "num": 255150,
       "word": "哺乳期妈妈怀孕7个月毫不知情",
       "onboard_time": 1727009843,
       "rank": 12,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 377455,
-      "num": 232389,
+      "num": 252367,
       "word": "易烊千玺松弛感",
       "onboard_time": 1727014104,
       "rank": 13,
@@ -108,11 +108,27 @@
     },
     {
       "raw_hot": 299377,
-      "num": 226032,
+      "num": 233979,
       "word": "全红婵回应唱歌上热搜",
       "onboard_time": 1727017825,
       "rank": 14,
       "category": "音乐,体育"
+    },
+    {
+      "raw_hot": 269804,
+      "num": 269804,
+      "word": "曼城vs阿森纳",
+      "onboard_time": 1727022798,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 268092,
+      "num": 268092,
+      "word": "为什么超市买不到1元的冰露了",
+      "onboard_time": 1727020821,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 257366,
@@ -121,6 +137,14 @@
       "onboard_time": 1727019201,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 240746,
+      "num": 240746,
+      "word": "六公主拍的TOP登陆少年",
+      "onboard_time": 1727019263,
+      "rank": 26,
+      "category": "音乐"
     },
     {
       "raw_hot": 234543,
@@ -179,11 +203,11 @@
       "category": "音乐,体育"
     },
     {
-      "raw_hot": 205742,
-      "num": 205742,
-      "word": "六公主拍的TOP登陆少年",
-      "onboard_time": 1727019263,
-      "rank": 26,
+      "raw_hot": 204665,
+      "num": 175945,
+      "word": "央视镜头下的左航",
+      "onboard_time": 1727022439,
+      "rank": 22,
       "category": "音乐"
     },
     {
@@ -193,6 +217,14 @@
       "onboard_time": 1727007799,
       "rank": 27,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 187268,
+      "num": 174620,
+      "word": "于正发文祝白鹿生日快乐",
+      "onboard_time": 1727022737,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 186960,
@@ -209,6 +241,14 @@
       "onboard_time": 1727019862,
       "rank": 28,
       "category": "音乐,体育"
+    },
+    {
+      "raw_hot": 185352,
+      "num": 185352,
+      "word": "把难吃表现得淋漓尽致",
+      "onboard_time": 1727020761,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 185172,
@@ -241,14 +281,6 @@
       "onboard_time": 1727018962,
       "rank": 35,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 170727,
-      "num": 254326,
-      "word": "为什么超市买不到1元的冰露了",
-      "onboard_time": 1727020821,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 165518,
@@ -299,6 +331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 146041,
+      "num": 160936,
+      "word": "经常做梦和很少做梦谁睡眠质量好",
+      "onboard_time": 1727020761,
+      "rank": 39,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 145001,
       "num": 145001,
       "word": "白鹿哭了",
@@ -323,14 +363,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 142802,
-      "num": 161147,
-      "word": "把难吃表现得淋漓尽致",
-      "onboard_time": 1727020761,
-      "rank": 38,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 140074,
       "num": 179010,
       "word": "孙颖莎王楚钦担任特派体育老师",
@@ -353,14 +385,6 @@
       "onboard_time": 1727018543,
       "rank": 45,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 112574,
-      "num": 160936,
-      "word": "经常做梦和很少做梦谁睡眠质量好",
-      "onboard_time": 1727020761,
-      "rank": 39,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 103979,
@@ -393,6 +417,22 @@
       "onboard_time": 1727021719,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 77424,
+      "num": 107748,
+      "word": "游客逛累了坐着就把电充满了",
+      "onboard_time": 1727021421,
+      "rank": 48,
+      "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 27857,
+      "num": 268910,
+      "word": "中国农民丰收节晚会",
+      "onboard_time": 1727019263,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 5707,
