@@ -1,6 +1,6 @@
 {
   "startTime": 1726936020707,
-  "endTime": 1727001516936,
+  "endTime": 1727003828012,
   "band_list": [
     {
       "raw_hot": 4059841,
@@ -33,6 +33,14 @@
       "onboard_time": 1726996880,
       "rank": 8,
       "category": "教育"
+    },
+    {
+      "raw_hot": 2494290,
+      "num": 2494290,
+      "word": "谢娜给陈乔恩66666.66红包",
+      "onboard_time": 1727003241,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 2382835,
@@ -123,6 +131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1163984,
+      "num": 602273,
+      "word": "白鹿哭了",
+      "onboard_time": 1727000780,
+      "rank": 7,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1129528,
       "num": 1129528,
       "word": "叶剑英元帅长女叶楚梅逝世",
@@ -153,6 +169,22 @@
       "onboard_time": 1726974019,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 930683,
+      "num": 463878,
+      "word": "妻子不能怀孕丈夫请求撤销婚姻",
+      "onboard_time": 1727000420,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 910120,
+      "num": 910120,
+      "word": "山姆10天翻车3次",
+      "onboard_time": 1727001800,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 909257,
@@ -443,14 +475,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 501233,
-      "num": 254025,
-      "word": "妻子不能怀孕丈夫请求撤销婚姻",
-      "onboard_time": 1727000420,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 486893,
       "num": 486893,
       "word": "拟被聘为勤杂工硕士实为本科生",
@@ -480,6 +504,14 @@
       "word": "陈乔恩Alan婚礼现场图",
       "onboard_time": 1726983920,
       "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 463874,
+      "num": 463874,
+      "word": "吴谨言希望成为赵丽颖",
+      "onboard_time": 1727001499,
+      "rank": 19,
       "category": "艺人"
     },
     {
@@ -521,14 +553,6 @@
       "onboard_time": 1726969520,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 438192,
-      "num": 314162,
-      "word": "白鹿哭了",
-      "onboard_time": 1727000780,
-      "rank": 7,
-      "category": "演出"
     },
     {
       "raw_hot": 434296,
@@ -585,6 +609,14 @@
       "onboard_time": 1726963517,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 400823,
+      "num": 510907,
+      "word": "孙颖莎谈什么是幸福",
+      "onboard_time": 1727001320,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 395019,
@@ -676,7 +708,7 @@
     },
     {
       "raw_hot": 343242,
-      "num": 230952,
+      "num": 260183,
       "word": "小伙经常晚上不刷牙嘴里长满结石",
       "onboard_time": 1726999160,
       "rank": 20,
@@ -697,6 +729,22 @@
       "onboard_time": 1726995379,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 337568,
+      "num": 337568,
+      "word": "陈梦等25人被记大功",
+      "onboard_time": 1727001020,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 335665,
+      "num": 335665,
+      "word": "苹果客服回应iPhone16使用钢壳电池",
+      "onboard_time": 1727001441,
+      "rank": 46,
+      "category": "数码"
     },
     {
       "raw_hot": 334600,
@@ -753,6 +801,14 @@
       "onboard_time": 1726984402,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 276851,
+      "num": 276851,
+      "word": "湾区升明月直播封面图",
+      "onboard_time": 1727001020,
+      "rank": 26,
+      "category": "音乐"
     },
     {
       "raw_hot": 272426,
@@ -875,6 +931,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 239620,
+      "num": 239620,
+      "word": "女朋友没哄好把我哄好了",
+      "onboard_time": 1727000360,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 239485,
       "num": 239485,
       "word": "易烊千玺在评论区为王俊凯庆生",
@@ -905,6 +969,14 @@
       "onboard_time": 1726934360,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 228766,
+      "num": 228766,
+      "word": "做了一盆水鬼",
+      "onboard_time": 1726999821,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 227064,
@@ -1011,20 +1083,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 205856,
-      "num": 185873,
-      "word": "湾区升明月直播封面图",
-      "onboard_time": 1727001020,
-      "rank": 26,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 205433,
       "num": 201758,
       "word": "许嵩现场抽背滕王阁序",
       "onboard_time": 1726974739,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 205395,
+      "num": 205395,
+      "word": "任翔宇何济霆vs吴世飞伊祖丁",
+      "onboard_time": 1727003302,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 204774,
@@ -1211,6 +1283,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 182658,
+      "num": 182658,
+      "word": "胡冰卿粉发",
+      "onboard_time": 1727002941,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 181899,
       "num": 158543,
       "word": "白鹿甜酷女团风",
@@ -1251,14 +1331,6 @@
       "category": "母婴育儿"
     },
     {
-      "raw_hot": 179592,
-      "num": 179592,
-      "word": "做了一盆水鬼",
-      "onboard_time": 1726999821,
-      "rank": 37,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 179024,
       "num": 215741,
       "word": "樊振东西南北中",
@@ -1275,12 +1347,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 175881,
+      "num": 175881,
+      "word": "任翔宇受伤",
+      "onboard_time": 1727003601,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 175566,
       "num": 274304,
       "word": "秋分也是丰收节",
       "onboard_time": 1726933462,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 174467,
+      "num": 174467,
+      "word": "群星给白鹿的生日祝福",
+      "onboard_time": 1727001680,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 173610,
@@ -1345,6 +1433,14 @@
       "onboard_time": 1726975101,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 167370,
+      "num": 167370,
+      "word": "有王安宇在田曦薇没抬过箱子",
+      "onboard_time": 1727001620,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 166286,
@@ -1420,7 +1516,7 @@
     },
     {
       "raw_hot": 162726,
-      "num": 162726,
+      "num": 296633,
       "word": "流水迢迢",
       "onboard_time": 1727000000,
       "rank": 31,
@@ -1475,14 +1571,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 155497,
-      "num": 155497,
-      "word": "孙颖莎谈什么是幸福",
-      "onboard_time": 1727001320,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
       "raw_hot": 154601,
       "num": 154601,
       "word": "张晚意第一次来飞天奖",
@@ -1499,20 +1587,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 152979,
+      "num": 152979,
+      "word": "王力宏今晚唱我们的歌",
+      "onboard_time": 1727003422,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 152846,
       "num": 152846,
       "word": "电视剧三大奖大满贯名单",
       "onboard_time": 1726992680,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 152468,
-      "num": 152468,
-      "word": "陈梦等25人被记大功",
-      "onboard_time": 1727001020,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 152311,
@@ -1579,14 +1667,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 147971,
-      "num": 147971,
-      "word": "女朋友没哄好把我哄好了",
-      "onboard_time": 1727000360,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 147835,
       "num": 227337,
       "word": "网红杯鼻祖宣布破产了",
@@ -1643,6 +1723,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 140993,
+      "num": 140993,
+      "word": "张碧晨王栎鑫 地狱聊天",
+      "onboard_time": 1727002702,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 140227,
       "num": 140227,
       "word": "肖战2024湾区升明月彩排",
@@ -1681,6 +1769,14 @@
       "onboard_time": 1726993758,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 132448,
+      "num": 132448,
+      "word": "冯巩一句我想死你们了婚礼秒变春晚",
+      "onboard_time": 1727003059,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 132094,
@@ -1731,12 +1827,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 129031,
+      "num": 151478,
+      "word": "盛李豪实现全锦赛三连冠",
+      "onboard_time": 1727002102,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 127529,
+      "num": 125065,
+      "word": "潘展乐说每天1.5万米雷打不动",
+      "onboard_time": 1727001562,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 126999,
       "num": 126999,
       "word": "杨超越喊麦",
       "onboard_time": 1726974200,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 126923,
+      "num": 126923,
+      "word": "好想拥有蔡徐坤一样的社交属性",
+      "onboard_time": 1727002340,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 126392,
@@ -1857,14 +1977,6 @@
       "onboard_time": 1726984162,
       "rank": 39,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 115949,
-      "num": 115949,
-      "word": "苹果客服回应iPhone16使用钢壳电池",
-      "onboard_time": 1727001441,
-      "rank": 46,
-      "category": "数码"
     },
     {
       "raw_hot": 115436,
@@ -2041,6 +2153,14 @@
       "onboard_time": 1726929326,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 82985,
+      "num": 197739,
+      "word": "不成熟的恋爱能谈吗",
+      "onboard_time": 1727003361,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 82769,
@@ -2251,6 +2371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 49651,
+      "num": 463987,
+      "word": "加沙一避难学校17次遭袭",
+      "onboard_time": 1727003541,
+      "rank": 8,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 46501,
       "num": 46501,
       "word": "王子文掉提",
@@ -2427,6 +2555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 25445,
+      "num": 463881,
+      "word": "不戴眼镜真的会影响听力吗",
+      "onboard_time": 1727003422,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 22685,
       "num": 681828,
       "word": "文化中国行看丰收之美",
@@ -2545,14 +2681,6 @@
       "onboard_time": 1726987279,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 4829,
-      "num": 191066,
-      "word": "吴谨言希望成为赵丽颖",
-      "onboard_time": 1727001499,
-      "rank": 19,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [

@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1727001516936,
+  "endTime": 1727003828012,
   "band_list": [
     {
       "raw_hot": 28035334,
@@ -713,6 +713,14 @@
       "onboard_time": 1726122141,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2494290,
+      "num": 2494290,
+      "word": "谢娜给陈乔恩66666.66红包",
+      "onboard_time": 1727003241,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 2492487,
@@ -4211,6 +4219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1163984,
+      "num": 602273,
+      "word": "白鹿哭了",
+      "onboard_time": 1727000780,
+      "rank": 7,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1163355,
       "num": 1163355,
       "word": "官方回应有人涉嫌介绍未成年人代孕",
@@ -5939,6 +5955,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 930683,
+      "num": 463878,
+      "word": "妻子不能怀孕丈夫请求撤销婚姻",
+      "onboard_time": 1727000420,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 929855,
       "num": 795070,
       "word": "中学食堂15元配菜只有米饭和丸子",
@@ -6153,6 +6177,14 @@
       "onboard_time": 1725437541,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 910120,
+      "num": 910120,
+      "word": "山姆10天翻车3次",
+      "onboard_time": 1727001800,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 910017,
@@ -12987,14 +13019,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 501233,
-      "num": 254025,
-      "word": "妻子不能怀孕丈夫请求撤销婚姻",
-      "onboard_time": 1727000420,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 501155,
       "num": 501155,
       "word": "好想像张雨绮这么有种的活一次",
@@ -14099,6 +14123,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 463874,
+      "num": 463874,
+      "word": "吴谨言希望成为赵丽颖",
+      "onboard_time": 1727001499,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 463828,
       "num": 463828,
       "word": "9月你好",
@@ -14897,14 +14929,6 @@
       "onboard_time": 1726212385,
       "rank": 25,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 438192,
-      "num": 314162,
-      "word": "白鹿哭了",
-      "onboard_time": 1727000780,
-      "rank": 7,
-      "category": "演出"
     },
     {
       "raw_hot": 437634,
@@ -16049,6 +16073,14 @@
       "onboard_time": 1726589839,
       "rank": 16,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 400823,
+      "num": 510907,
+      "word": "孙颖莎谈什么是幸福",
+      "onboard_time": 1727001320,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 400798,
@@ -18140,7 +18172,7 @@
     },
     {
       "raw_hot": 343242,
-      "num": 230952,
+      "num": 260183,
       "word": "小伙经常晚上不刷牙嘴里长满结石",
       "onboard_time": 1726999160,
       "rank": 20,
@@ -18387,6 +18419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 337568,
+      "num": 337568,
+      "word": "陈梦等25人被记大功",
+      "onboard_time": 1727001020,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 337548,
       "num": 489966,
       "word": "张杰谢娜游艇约会",
@@ -18473,6 +18513,14 @@
       "onboard_time": 1726804160,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 335665,
+      "num": 335665,
+      "word": "苹果客服回应iPhone16使用钢壳电池",
+      "onboard_time": 1727001441,
+      "rank": 46,
+      "category": "数码"
     },
     {
       "raw_hot": 335306,
@@ -21689,6 +21737,14 @@
       "onboard_time": 1726151359,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 276851,
+      "num": 276851,
+      "word": "湾区升明月直播封面图",
+      "onboard_time": 1727001020,
+      "rank": 26,
+      "category": "音乐"
     },
     {
       "raw_hot": 276026,
@@ -24931,6 +24987,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 239620,
+      "num": 239620,
+      "word": "女朋友没哄好把我哄好了",
+      "onboard_time": 1727000360,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 239598,
       "num": 239598,
       "word": "东北冻梨已经进化到这种程度了",
@@ -26177,6 +26241,14 @@
       "onboard_time": 1726449318,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 228766,
+      "num": 228766,
+      "word": "做了一盆水鬼",
+      "onboard_time": 1726999821,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 228765,
@@ -29315,14 +29387,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 205856,
-      "num": 185873,
-      "word": "湾区升明月直播封面图",
-      "onboard_time": 1727001020,
-      "rank": 26,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 205851,
       "num": 205851,
       "word": "王曼昱奥运后首秀开门红",
@@ -29457,6 +29521,14 @@
       "onboard_time": 1726974739,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 205395,
+      "num": 205395,
+      "word": "任翔宇何济霆vs吴世飞伊祖丁",
+      "onboard_time": 1727003302,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 205364,
@@ -35163,6 +35235,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 182658,
+      "num": 182658,
+      "word": "胡冰卿粉发",
+      "onboard_time": 1727002941,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 182645,
       "num": 182645,
       "word": "何浩楠 头发它卷起来了",
@@ -35817,14 +35897,6 @@
       "onboard_time": 1725798320,
       "rank": 31,
       "category": "演出"
-    },
-    {
-      "raw_hot": 179592,
-      "num": 179592,
-      "word": "做了一盆水鬼",
-      "onboard_time": 1726999821,
-      "rank": 37,
-      "category": "幽默"
     },
     {
       "raw_hot": 179587,
@@ -36795,6 +36867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 175881,
+      "num": 175881,
+      "word": "任翔宇受伤",
+      "onboard_time": 1727003601,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 175855,
       "num": 191478,
       "word": "你们一来我们的心里面就舒服了",
@@ -37184,6 +37264,14 @@
       "word": "时代少年团8月行程图",
       "onboard_time": 1725153438,
       "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 174467,
+      "num": 174467,
+      "word": "群星给白鹿的生日祝福",
+      "onboard_time": 1727001680,
+      "rank": 33,
       "category": "艺人"
     },
     {
@@ -38873,6 +38961,14 @@
       "onboard_time": 1725895460,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 167370,
+      "num": 167370,
+      "word": "有王安宇在田曦薇没抬过箱子",
+      "onboard_time": 1727001620,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 167353,
@@ -41923,14 +42019,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 155497,
-      "num": 155497,
-      "word": "孙颖莎谈什么是幸福",
-      "onboard_time": 1727001320,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
       "raw_hot": 155495,
       "num": 155495,
       "word": "熊猫险被冲走两脚兽急得直喊大哥",
@@ -42747,6 +42835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 152979,
+      "num": 152979,
+      "word": "王力宏今晚唱我们的歌",
+      "onboard_time": 1727003422,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 152951,
       "num": 152951,
       "word": "杭州通报55岁外卖员猝死",
@@ -42833,14 +42929,6 @@
       "onboard_time": 1725325940,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 152468,
-      "num": 152468,
-      "word": "陈梦等25人被记大功",
-      "onboard_time": 1727001020,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 152386,
@@ -43929,14 +44017,6 @@
       "onboard_time": 1725861860,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 147971,
-      "num": 147971,
-      "word": "女朋友没哄好把我哄好了",
-      "onboard_time": 1727000360,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 147963,
@@ -45665,6 +45745,14 @@
       "onboard_time": 1726217482,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 140993,
+      "num": 140993,
+      "word": "张碧晨王栎鑫 地狱聊天",
+      "onboard_time": 1727002702,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 140853,
@@ -47675,6 +47763,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 132448,
+      "num": 132448,
+      "word": "冯巩一句我想死你们了婚礼秒变春晚",
+      "onboard_time": 1727003059,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 132404,
       "num": 132404,
       "word": "双子星公主 绝美公主",
@@ -48515,6 +48611,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 129031,
+      "num": 151478,
+      "word": "盛李豪实现全锦赛三连冠",
+      "onboard_time": 1727002102,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 129019,
       "num": 276738,
       "word": "幼童小区内被碾压肇事司机家属发声",
@@ -48859,6 +48963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 127529,
+      "num": 125065,
+      "word": "潘展乐说每天1.5万米雷打不动",
+      "onboard_time": 1727001562,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 127464,
       "num": 127464,
       "word": "一跨国拐卖妇女嫌犯被押解回国",
@@ -48921,6 +49033,14 @@
       "onboard_time": 1726974200,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 126923,
+      "num": 126923,
+      "word": "好想拥有蔡徐坤一样的社交属性",
+      "onboard_time": 1727002340,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 126855,
@@ -50809,14 +50929,6 @@
       "onboard_time": 1725684859,
       "rank": 47,
       "category": "教育"
-    },
-    {
-      "raw_hot": 115949,
-      "num": 115949,
-      "word": "苹果客服回应iPhone16使用钢壳电池",
-      "onboard_time": 1727001441,
-      "rank": 46,
-      "category": "数码"
     },
     {
       "raw_hot": 115879,
@@ -54641,6 +54753,14 @@
       "onboard_time": 1726647139,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 82985,
+      "num": 197739,
+      "word": "不成熟的恋爱能谈吗",
+      "onboard_time": 1727003361,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 82914,
@@ -58497,6 +58617,14 @@
       "onboard_time": 1726436051,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 49651,
+      "num": 463987,
+      "word": "加沙一避难学校17次遭袭",
+      "onboard_time": 1727003541,
+      "rank": 8,
+      "category": "国外时政"
     },
     {
       "raw_hot": 49560,
@@ -63723,6 +63851,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 25445,
+      "num": 463881,
+      "word": "不戴眼镜真的会影响听力吗",
+      "onboard_time": 1727003422,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 25444,
       "num": 500894,
       "word": "收好台风安全避险指南",
@@ -66161,14 +66297,6 @@
       "onboard_time": 1726260911,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 4829,
-      "num": 191066,
-      "word": "吴谨言希望成为赵丽颖",
-      "onboard_time": 1727001499,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 4646,

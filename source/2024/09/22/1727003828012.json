@@ -1,0 +1,410 @@
+{
+  "runTime": 1727003828012,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2494290,
+        "num": 2494290,
+        "word": "谢娜给陈乔恩66666.66红包",
+        "onboard_time": 1727003241,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 910120,
+        "num": 910120,
+        "word": "山姆10天翻车3次",
+        "onboard_time": 1727001800,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24632,
+        "num": 606703,
+        "word": "天山南北唱新歌",
+        "onboard_time": 1726998799,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1163984,
+        "num": 602273,
+        "word": "白鹿哭了",
+        "onboard_time": 1727000780,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 595978,
+        "num": 595978,
+        "word": "美国拨款16亿美元雇水军黑中国",
+        "onboard_time": 1726992079,
+        "rank": 4,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 400823,
+        "num": 510907,
+        "word": "孙颖莎谈什么是幸福",
+        "onboard_time": 1727001320,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1030472,
+        "num": 502924,
+        "word": "明道儿子担任陈乔恩Alan婚礼花童",
+        "onboard_time": 1726999759,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 473009,
+        "num": 473009,
+        "word": "差点没认出来胡冰卿",
+        "onboard_time": 1726995979,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 49651,
+        "num": 463987,
+        "word": "加沙一避难学校17次遭袭",
+        "onboard_time": 1727003541,
+        "rank": 8,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 25445,
+        "num": 463881,
+        "word": "不戴眼镜真的会影响听力吗",
+        "onboard_time": 1727003422,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 930683,
+        "num": 463878,
+        "word": "妻子不能怀孕丈夫请求撤销婚姻",
+        "onboard_time": 1727000420,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 463874,
+        "num": 463874,
+        "word": "吴谨言希望成为赵丽颖",
+        "onboard_time": 1727001499,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 337568,
+        "num": 337568,
+        "word": "陈梦等25人被记大功",
+        "onboard_time": 1727001020,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 335665,
+        "num": 335665,
+        "word": "苹果客服回应iPhone16使用钢壳电池",
+        "onboard_time": 1727001441,
+        "rank": 13,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 319665,
+        "num": 319665,
+        "word": "高空抛物伤人全楼查DNA后男子自首",
+        "onboard_time": 1726988299,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 82618,
+        "num": 296633,
+        "word": "流水迢迢",
+        "onboard_time": 1727000000,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 276851,
+        "num": 276851,
+        "word": "湾区升明月直播封面图",
+        "onboard_time": 1727001020,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 269993,
+        "num": 269993,
+        "word": "白鹿首唱会",
+        "onboard_time": 1726990221,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 268334,
+        "num": 268334,
+        "word": "男子趁女友熟睡拿手机给自己转3万",
+        "onboard_time": 1726990938,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 266745,
+        "num": 266745,
+        "word": "赵露思 武汉",
+        "onboard_time": 1726993039,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1905562,
+        "num": 264880,
+        "word": "罗翔",
+        "onboard_time": 1726996880,
+        "rank": 20,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 331126,
+        "num": 260183,
+        "word": "小伙经常晚上不刷牙嘴里长满结石",
+        "onboard_time": 1726999160,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243677,
+        "num": 243677,
+        "word": "孙颖莎见面会",
+        "onboard_time": 1726994838,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 239620,
+        "num": 239620,
+        "word": "女朋友没哄好把我哄好了",
+        "onboard_time": 1727000360,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 234558,
+        "num": 234558,
+        "word": "赵丽颖雷佳音没睡醒就要开会",
+        "onboard_time": 1726989439,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 230774,
+        "num": 230774,
+        "word": "300块和3000块的眼镜区别有多大",
+        "onboard_time": 1726990339,
+        "rank": 25,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 228766,
+        "num": 228766,
+        "word": "做了一盆水鬼",
+        "onboard_time": 1726999821,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 214938,
+        "num": 214938,
+        "word": "于正 保护一下我",
+        "onboard_time": 1726994899,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205395,
+        "num": 205395,
+        "word": "任翔宇何济霆vs吴世飞伊祖丁",
+        "onboard_time": 1727003302,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 82985,
+        "num": 197739,
+        "word": "不成熟的恋爱能谈吗",
+        "onboard_time": 1727003361,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 192875,
+        "num": 192875,
+        "word": "2024湾区升明月节目单",
+        "onboard_time": 1726991719,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 182658,
+        "num": 182658,
+        "word": "胡冰卿粉发",
+        "onboard_time": 1727002941,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 175881,
+        "num": 175881,
+        "word": "任翔宇受伤",
+        "onboard_time": 1727003601,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 174467,
+        "num": 174467,
+        "word": "群星给白鹿的生日祝福",
+        "onboard_time": 1727001680,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167370,
+        "num": 167370,
+        "word": "有王安宇在田曦薇没抬过箱子",
+        "onboard_time": 1727001620,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152979,
+        "num": 152979,
+        "word": "王力宏今晚唱我们的歌",
+        "onboard_time": 1727003422,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 129031,
+        "num": 151478,
+        "word": "盛李豪实现全锦赛三连冠",
+        "onboard_time": 1727002102,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 151394,
+        "num": 151394,
+        "word": "成年人谈恋爱只看性嫁比了吗",
+        "onboard_time": 1726990998,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149386,
+        "num": 149386,
+        "word": "不像学的 像没忘干净",
+        "onboard_time": 1726997300,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 143049,
+        "num": 143049,
+        "word": "宁静真演上短剧了",
+        "onboard_time": 1726998260,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142082,
+        "num": 142082,
+        "word": "王力宏全红婵打招呼",
+        "onboard_time": 1726999880,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 140993,
+        "num": 140993,
+        "word": "张碧晨王栎鑫 地狱聊天",
+        "onboard_time": 1727002702,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132448,
+        "num": 132448,
+        "word": "冯巩一句我想死你们了婚礼秒变春晚",
+        "onboard_time": 1727003059,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130850,
+        "num": 130850,
+        "word": "妻子失联20年丈夫恋爱算出轨吗",
+        "onboard_time": 1726985540,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130224,
+        "num": 130224,
+        "word": "中国农民丰收节",
+        "onboard_time": 1726982239,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126923,
+        "num": 126923,
+        "word": "好想拥有蔡徐坤一样的社交属性",
+        "onboard_time": 1727002340,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127529,
+        "num": 125065,
+        "word": "潘展乐说每天1.5万米雷打不动",
+        "onboard_time": 1727001562,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123132,
+        "num": 123132,
+        "word": "殷桃回复飞天奖没提名",
+        "onboard_time": 1726972100,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119112,
+        "num": 119112,
+        "word": "芜湖巨响",
+        "onboard_time": 1726995259,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111110,
+        "num": 111110,
+        "word": "法考",
+        "onboard_time": 1726975640,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记田间地头的嘱咐#"
+    }
+  }
+}
