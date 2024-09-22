@@ -1,6 +1,6 @@
 {
   "startTime": 1726936020707,
-  "endTime": 1726974296850,
+  "endTime": 1726975683914,
   "band_list": [
     {
       "raw_hot": 4059841,
@@ -19,8 +19,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 2707072,
-      "num": 2707072,
+      "raw_hot": 3006672,
+      "num": 3006672,
       "word": "殷桃回复飞天奖没提名",
       "onboard_time": 1726972100,
       "rank": 0,
@@ -68,11 +68,19 @@
     },
     {
       "raw_hot": 988907,
-      "num": 652714,
+      "num": 877117,
       "word": "加沙一孕妇死于空袭孩子掉在楼梯上",
       "onboard_time": 1726967659,
       "rank": 20,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 901124,
+      "num": 489777,
+      "word": "刘雨鑫为殷桃发声",
+      "onboard_time": 1726974019,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 862002,
@@ -97,6 +105,14 @@
       "onboard_time": 1726927647,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 819975,
+      "num": 819975,
+      "word": "成都警方通报一起人员坠亡事件",
+      "onboard_time": 1726964538,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 817015,
@@ -137,6 +153,14 @@
       "onboard_time": 1726964358,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 594196,
+      "num": 467136,
+      "word": "周深鸟巢上座率",
+      "onboard_time": 1726973538,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 543308,
@@ -219,6 +243,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 414147,
+      "num": 272842,
+      "word": "9岁男孩坚持跑步3年从64斤跑到52斤",
+      "onboard_time": 1726972940,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 413794,
+      "num": 323278,
+      "word": "于正否认针对杨紫",
+      "onboard_time": 1726973180,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 413464,
       "num": 224511,
       "word": "李钟硕在IU演唱会贵宾席",
@@ -283,6 +323,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 363451,
+      "num": 272675,
+      "word": "TFING不参加太湖湾音乐节",
+      "onboard_time": 1726973779,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 349856,
       "num": 206250,
       "word": "汪峰凭一己之力让13个人尴尬",
@@ -323,28 +371,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 275998,
-      "num": 231103,
-      "word": "周深鸟巢上座率",
-      "onboard_time": 1726973538,
-      "rank": 40,
-      "category": "演出"
-    },
-    {
       "raw_hot": 272426,
       "num": 205871,
       "word": "叶珂最新健身视频",
       "onboard_time": 1726966459,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 270757,
-      "num": 227750,
-      "word": "9岁男孩坚持跑步3年从64斤跑到52斤",
-      "onboard_time": 1726972940,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 262364,
@@ -361,14 +393,6 @@
       "onboard_time": 1726926626,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 245238,
-      "num": 217964,
-      "word": "TFING不参加太湖湾音乐节",
-      "onboard_time": 1726973779,
-      "rank": 27,
-      "category": "演出"
     },
     {
       "raw_hot": 239485,
@@ -393,6 +417,14 @@
       "onboard_time": 1726928845,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 223290,
+      "num": 223290,
+      "word": "江浙沪brunch",
+      "onboard_time": 1726973359,
+      "rank": 44,
+      "category": "美食"
     },
     {
       "raw_hot": 220976,
@@ -427,12 +459,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 209651,
+      "num": 488377,
+      "word": "历届飞天奖视后盘点",
+      "onboard_time": 1726972159,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 205988,
       "num": 205988,
       "word": "漠风吟定档",
       "onboard_time": 1726972696,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 205433,
+      "num": 201758,
+      "word": "许嵩现场抽背滕王阁序",
+      "onboard_time": 1726974739,
+      "rank": 30,
+      "category": "演出"
     },
     {
       "raw_hot": 204774,
@@ -456,22 +504,6 @@
       "word": "胡歌陪跑",
       "onboard_time": 1726927467,
       "rank": 42,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 202909,
-      "num": 256053,
-      "word": "于正否认针对杨紫",
-      "onboard_time": 1726973180,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 200356,
-      "num": 200356,
-      "word": "刘雨鑫为殷桃发声",
-      "onboard_time": 1726974019,
-      "rank": 30,
       "category": "剧集"
     },
     {
@@ -499,28 +531,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 191671,
-      "num": 191671,
-      "word": "江浙沪brunch",
-      "onboard_time": 1726973359,
-      "rank": 44,
-      "category": "美食"
-    },
-    {
       "raw_hot": 183686,
       "num": 123576,
       "word": "宋威龙 养爬宠的可以发博艾特我",
       "onboard_time": 1726960155,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 180636,
-      "num": 180636,
-      "word": "成都警方通报一起人员坠亡事件",
-      "onboard_time": 1726965799,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 179869,
@@ -563,11 +579,35 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 171350,
+      "num": 168496,
+      "word": "咏梅演技",
+      "onboard_time": 1726974200,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 169076,
+      "num": 169076,
+      "word": "加沙人问4个月大的胎儿做错了什么",
+      "onboard_time": 1726967659,
+      "rank": 44,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 167504,
       "num": 112089,
       "word": "漫长的季节",
       "onboard_time": 1726935562,
       "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 167407,
+      "num": 167407,
+      "word": "闻香记开机",
+      "onboard_time": 1726975101,
+      "rank": 36,
       "category": "剧集"
     },
     {
@@ -587,12 +627,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 160806,
-      "num": 160806,
-      "word": "加沙人问4个月大的胎儿做错了什么",
-      "onboard_time": 1726967659,
-      "rank": 44,
-      "category": "国外时政"
+      "raw_hot": 163209,
+      "num": 163209,
+      "word": "向佐 我只是想把自己炒热",
+      "onboard_time": 1726975278,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 158412,
@@ -675,14 +715,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 145608,
-      "num": 488377,
-      "word": "历届飞天奖视后盘点",
-      "onboard_time": 1726972159,
-      "rank": 8,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 145178,
       "num": 145178,
       "word": "女子接完电话崩溃大哭陌生人递纸巾",
@@ -731,14 +763,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 132689,
-      "num": 132689,
-      "word": "咏梅演技",
-      "onboard_time": 1726974200,
-      "rank": 48,
-      "category": "电影"
-    },
-    {
       "raw_hot": 130533,
       "num": 130533,
       "word": "何广智职业最大危机是哈妮克孜",
@@ -769,6 +793,14 @@
       "onboard_time": 1726935202,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 127099,
+      "num": 127099,
+      "word": "法考",
+      "onboard_time": 1726975640,
+      "rank": 48,
+      "category": "教育"
     },
     {
       "raw_hot": 126999,
@@ -987,6 +1019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 53593,
+      "num": 305450,
+      "word": "美国敦促本国公民尽快离开黎巴嫩",
+      "onboard_time": 1726971979,
+      "rank": 14,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 50585,
       "num": 112262,
       "word": "第五人格",
@@ -1075,6 +1115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 21140,
+      "num": 275743,
+      "word": "以色列为何大规模攻击真主党",
+      "onboard_time": 1726974860,
+      "rank": 19,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 20674,
       "num": 208688,
       "word": "以为在火星实际在长城",
@@ -1128,6 +1176,14 @@
       "word": "浙江厨神外婆每天给外孙做花式早点",
       "onboard_time": 1726956913,
       "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 11314,
+      "num": 823880,
+      "word": "青春华章",
+      "onboard_time": 1726819520,
+      "rank": 2,
       "category": "社会新闻"
     }
   ],

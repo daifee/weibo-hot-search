@@ -1,0 +1,410 @@
+{
+  "runTime": 1726975683914,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3006672,
+        "num": 3006672,
+        "word": "殷桃回复飞天奖没提名",
+        "onboard_time": 1726972100,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 877117,
+        "num": 877117,
+        "word": "加沙一孕妇死于空袭孩子掉在楼梯上",
+        "onboard_time": 1726967659,
+        "rank": 1,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 11314,
+        "num": 823880,
+        "word": "青春华章",
+        "onboard_time": 1726819520,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1021339,
+        "num": 823311,
+        "word": "于正回应杨幂这几年没好作品",
+        "onboard_time": 1726968258,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 819975,
+        "num": 819975,
+        "word": "成都警方通报一起人员坠亡事件",
+        "onboard_time": 1726964538,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 494848,
+        "num": 494848,
+        "word": "官媒辟谣苹果手机被远程引爆",
+        "onboard_time": 1726968380,
+        "rank": 5,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 901124,
+        "num": 489777,
+        "word": "刘雨鑫为殷桃发声",
+        "onboard_time": 1726974019,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 594196,
+        "num": 467136,
+        "word": "周深鸟巢上座率",
+        "onboard_time": 1726973538,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 437523,
+        "num": 437523,
+        "word": "拟被聘为勤杂工硕士实为本科生",
+        "onboard_time": 1726969639,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 397229,
+        "num": 397229,
+        "word": "多方回应男子鉴宝自称从博物馆拿的",
+        "onboard_time": 1726969520,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1324826,
+        "num": 384208,
+        "word": "16岁女孩凌晨打车被司机强制猥亵",
+        "onboard_time": 1726971439,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 592586,
+        "num": 368402,
+        "word": "优酷给赵丽颖飞天奖视后的专栏",
+        "onboard_time": 1726971320,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 523944,
+        "num": 346937,
+        "word": "叶珂晒聊天记录",
+        "onboard_time": 1726931305,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 413794,
+        "num": 323278,
+        "word": "于正否认针对杨紫",
+        "onboard_time": 1726973180,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 53593,
+        "num": 305450,
+        "word": "美国敦促本国公民尽快离开黎巴嫩",
+        "onboard_time": 1726971979,
+        "rank": 14,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 299444,
+        "num": 299444,
+        "word": "禁止吃泡面景区如此治污难服众",
+        "onboard_time": 1726961295,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 416181,
+        "num": 298160,
+        "word": "赵丽颖飞天奖视后",
+        "onboard_time": 1726925783,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 244445,
+        "num": 278746,
+        "word": "小克重金饰更受青睐",
+        "onboard_time": 1726967899,
+        "rank": 17,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 275967,
+        "num": 275967,
+        "word": "男子杀害女子沉尸4年后再杀继母",
+        "onboard_time": 1726933102,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21140,
+        "num": 275743,
+        "word": "以色列为何大规模攻击真主党",
+        "onboard_time": 1726974860,
+        "rank": 19,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 401715,
+        "num": 274856,
+        "word": "韩安冉妈妈内涵宋浩然",
+        "onboard_time": 1726965919,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 414147,
+        "num": 272842,
+        "word": "9岁男孩坚持跑步3年从64斤跑到52斤",
+        "onboard_time": 1726972940,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 363451,
+        "num": 272675,
+        "word": "TFING不参加太湖湾音乐节",
+        "onboard_time": 1726973779,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 284712,
+        "num": 271293,
+        "word": "权志龙IU合照",
+        "onboard_time": 1726969099,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 270750,
+        "num": 270750,
+        "word": "视后视帝都没准备获奖感言",
+        "onboard_time": 1726929326,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 223290,
+        "num": 223290,
+        "word": "江浙沪brunch",
+        "onboard_time": 1726973359,
+        "rank": 25,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 209651,
+        "num": 209651,
+        "word": "历届飞天奖视后盘点",
+        "onboard_time": 1726972159,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 208654,
+        "num": 208654,
+        "word": "85花格局大变",
+        "onboard_time": 1726927947,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 233219,
+        "num": 207155,
+        "word": "李钟硕在IU演唱会贵宾席",
+        "onboard_time": 1726961716,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 204801,
+        "num": 204801,
+        "word": "秋分后开始昼短夜长",
+        "onboard_time": 1726963517,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205433,
+        "num": 201758,
+        "word": "许嵩现场抽背滕王阁序",
+        "onboard_time": 1726974739,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 196867,
+        "num": 196867,
+        "word": "花花小肚皮上堆满苹果",
+        "onboard_time": 1726970658,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 183544,
+        "num": 183544,
+        "word": "李庚希提名视后",
+        "onboard_time": 1726927827,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183161,
+        "num": 183161,
+        "word": "成龙樊振东全红婵同框",
+        "onboard_time": 1726963037,
+        "rank": 33,
+        "category": "音乐,体育"
+      },
+      {
+        "raw_hot": 169076,
+        "num": 169076,
+        "word": "加沙人问4个月大的胎儿做错了什么",
+        "onboard_time": 1726967659,
+        "rank": 34,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 171350,
+        "num": 168496,
+        "word": "咏梅演技",
+        "onboard_time": 1726974200,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 167407,
+        "num": 167407,
+        "word": "闻香记开机",
+        "onboard_time": 1726975101,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163209,
+        "num": 163209,
+        "word": "向佐 我只是想把自己炒热",
+        "onboard_time": 1726975278,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 159549,
+        "num": 159549,
+        "word": "年轻人开始买金条代替结婚三金",
+        "onboard_time": 1726968200,
+        "rank": 38,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 138415,
+        "num": 138415,
+        "word": "祝福祖国巨型花篮现场图",
+        "onboard_time": 1726972696,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157367,
+        "num": 138401,
+        "word": "漠风吟定档",
+        "onboard_time": 1726972696,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138371,
+        "num": 138371,
+        "word": "叶珂最新健身视频",
+        "onboard_time": 1726966459,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135887,
+        "num": 135887,
+        "word": "郭永怀回国捐出了20多个四合院的钱",
+        "onboard_time": 1726964358,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133451,
+        "num": 133451,
+        "word": "为什么现在的老师不敢管孩子了",
+        "onboard_time": 1726967300,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131041,
+        "num": 131041,
+        "word": "秋分",
+        "onboard_time": 1726961355,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129733,
+        "num": 129733,
+        "word": "惠若琪说周深嗓子确实杠杠的",
+        "onboard_time": 1726974138,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 128940,
+        "num": 128940,
+        "word": "汪峰凭一己之力让13个人尴尬",
+        "onboard_time": 1726967720,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127283,
+        "num": 127283,
+        "word": "硬扛一年后日本为何妥协了",
+        "onboard_time": 1726961295,
+        "rank": 47,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 127099,
+        "num": 127099,
+        "word": "法考",
+        "onboard_time": 1726975640,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 105653,
+        "num": 126842,
+        "word": "罗小黑 秋分",
+        "onboard_time": 1726970060,
+        "rank": 49,
+        "category": "动漫"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动农业增效益农民增收入农村增活力#"
+    }
+  }
+}
