@@ -1,6 +1,6 @@
 {
   "startTime": 1726936020707,
-  "endTime": 1727032603535,
+  "endTime": 1727033727614,
   "band_list": [
     {
       "raw_hot": 6817146,
@@ -3403,6 +3403,14 @@
       "category": "互联网,作品衍生"
     },
     {
+      "raw_hot": 40290,
+      "num": 40290,
+      "word": "周深北京欢迎你回忆杀",
+      "onboard_time": 1727032571,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
       "raw_hot": 39281,
       "num": 244466,
       "word": "抠门年轻人带火钓鱼佬严选",
@@ -3563,6 +3571,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 27867,
+      "num": 27867,
+      "word": "出走的决心原型",
+      "onboard_time": 1727032931,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 27834,
+      "num": 27834,
+      "word": "周雨彤生日会",
+      "onboard_time": 1727031731,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 27687,
       "num": 203165,
       "word": "陈数骑自行车逛北大",
@@ -3579,14 +3603,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 27606,
-      "num": 27606,
-      "word": "周雨彤生日会",
-      "onboard_time": 1727031731,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 27166,
       "num": 27166,
       "word": "00后种地搞了个田间情报站",
@@ -3601,14 +3617,6 @@
       "onboard_time": 1727031014,
       "rank": 40,
       "category": "艺人,电竞"
-    },
-    {
-      "raw_hot": 26010,
-      "num": 27599,
-      "word": "周深北京欢迎你回忆杀",
-      "onboard_time": 1727032571,
-      "rank": 44,
-      "category": "演出"
     },
     {
       "raw_hot": 25936,
@@ -3649,6 +3657,14 @@
       "onboard_time": 1726986919,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 20815,
+      "num": 26353,
+      "word": "地下室进野猫后爬满跳蚤",
+      "onboard_time": 1727031192,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 20674,
@@ -3712,6 +3728,14 @@
       "word": "文化中国行文物里的秋色平分",
       "onboard_time": 1727029814,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 14147,
+      "num": 39737,
+      "word": "大凉山小姑娘把童年快乐唱成歌",
+      "onboard_time": 1727033531,
+      "rank": 18,
       "category": "社会新闻"
     },
     {

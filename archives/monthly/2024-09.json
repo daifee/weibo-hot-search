@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1727032603535,
+  "endTime": 1727033727614,
   "band_list": [
     {
       "raw_hot": 28035334,
@@ -61307,6 +61307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 40290,
+      "num": 40290,
+      "word": "周深北京欢迎你回忆杀",
+      "onboard_time": 1727032571,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
       "raw_hot": 40280,
       "num": 1358548,
       "word": "哪个瞬间勾起你的乡愁",
@@ -64411,12 +64419,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 27867,
+      "num": 27867,
+      "word": "出走的决心原型",
+      "onboard_time": 1727032931,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 27859,
       "num": 291105,
       "word": "辛选主播蛋蛋助农破亿",
       "onboard_time": 1725966680,
       "rank": 37,
       "category": "网红"
+    },
+    {
+      "raw_hot": 27834,
+      "num": 27834,
+      "word": "周雨彤生日会",
+      "onboard_time": 1727031731,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 27763,
@@ -64457,14 +64481,6 @@
       "onboard_time": 1726981762,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 27606,
-      "num": 27606,
-      "word": "周雨彤生日会",
-      "onboard_time": 1727031731,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 27584,
@@ -64801,14 +64817,6 @@
       "onboard_time": 1725733392,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 26010,
-      "num": 27599,
-      "word": "周深北京欢迎你回忆杀",
-      "onboard_time": 1727032571,
-      "rank": 44,
-      "category": "演出"
     },
     {
       "raw_hot": 25997,
@@ -65883,6 +65891,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 20815,
+      "num": 26353,
+      "word": "地下室进野猫后爬满跳蚤",
+      "onboard_time": 1727031192,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 20791,
       "num": 370563,
       "word": "发条微博为新学期加油",
@@ -66792,6 +66808,14 @@
       "word": "高温持续你觉得应继续延迟返校吗",
       "onboard_time": 1725563111,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 14147,
+      "num": 39737,
+      "word": "大凉山小姑娘把童年快乐唱成歌",
+      "onboard_time": 1727033531,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
