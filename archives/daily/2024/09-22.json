@@ -1,6 +1,6 @@
 {
   "startTime": 1726936020707,
-  "endTime": 1727012138335,
+  "endTime": 1727014717688,
   "band_list": [
     {
       "raw_hot": 4059841,
@@ -67,11 +67,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2159647,
+      "num": 2159647,
+      "word": "肖战黄晓明互相让位",
+      "onboard_time": 1727011705,
+      "rank": 6,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1945010,
       "num": 1786438,
       "word": "全红婵声音好大",
       "onboard_time": 1727007862,
       "rank": 4,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 1873261,
+      "num": 1350449,
+      "word": "易烊千玺松弛感",
+      "onboard_time": 1727014104,
+      "rank": 3,
       "category": "音乐"
     },
     {
@@ -81,6 +97,14 @@
       "onboard_time": 1726988960,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1711450,
+      "num": 579725,
+      "word": "哺乳期妈妈怀孕7个月毫不知情",
+      "onboard_time": 1727009843,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1585914,
@@ -147,14 +171,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1331960,
-      "num": 596435,
-      "word": "肖战黄晓明互相让位",
-      "onboard_time": 1727011705,
-      "rank": 6,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 1302660,
       "num": 1302660,
       "word": "孙颖莎谈跟王楚钦拥抱的照片",
@@ -171,14 +187,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1224141,
-      "num": 579725,
-      "word": "哺乳期妈妈怀孕7个月毫不知情",
-      "onboard_time": 1727009843,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1191794,
       "num": 1171363,
       "word": "赵丽颖雷佳音没睡醒就要开会",
@@ -193,6 +201,14 @@
       "onboard_time": 1727001499,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1166659,
+      "num": 763819,
+      "word": "肖战台下笑的好甜",
+      "onboard_time": 1727013504,
+      "rank": 7,
+      "category": "音乐"
     },
     {
       "raw_hot": 1163984,
@@ -233,6 +249,14 @@
       "onboard_time": 1726979779,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1066940,
+      "num": 1066940,
+      "word": "卖惨博主被曝月入上千万",
+      "onboard_time": 1727011285,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1030674,
@@ -363,6 +387,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 808628,
+      "num": 562395,
+      "word": "真唱",
+      "onboard_time": 1727009782,
+      "rank": 16,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 804521,
       "num": 804521,
       "word": "孙颖莎见面会",
@@ -395,8 +427,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 742028,
+      "num": 399362,
+      "word": "林忆莲状态真好",
+      "onboard_time": 1727013804,
+      "rank": 15,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 739835,
-      "num": 558719,
+      "num": 610739,
       "word": "爷爷发现孙子背后多出颗痣秒去医院",
       "onboard_time": 1727007799,
       "rank": 17,
@@ -417,14 +457,6 @@
       "onboard_time": 1726971320,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 719391,
-      "num": 562395,
-      "word": "真唱",
-      "onboard_time": 1727009782,
-      "rank": 16,
-      "category": "音乐"
     },
     {
       "raw_hot": 712142,
@@ -691,6 +723,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 433289,
+      "num": 229840,
+      "word": "林志炫太牛了",
+      "onboard_time": 1727013204,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 433185,
       "num": 269559,
       "word": "1岁男童腹中竟有个小宝宝",
@@ -755,12 +795,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 397608,
+      "num": 397608,
+      "word": "孙杨回应是否参加洛杉矶奥运会",
+      "onboard_time": 1727011824,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 395019,
       "num": 395019,
       "word": "90后出任兰溪市副市长",
       "onboard_time": 1726930346,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 387014,
+      "num": 387014,
+      "word": "孙颖莎王楚钦担任特派体育老师",
+      "onboard_time": 1727014164,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 385557,
@@ -777,6 +833,22 @@
       "onboard_time": 1726931664,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 380820,
+      "num": 228338,
+      "word": "白鹿坚持在跑男的原因",
+      "onboard_time": 1727012905,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 379832,
+      "num": 226401,
+      "word": "王力宏像在开演唱会",
+      "onboard_time": 1727013504,
+      "rank": 27,
+      "category": "音乐"
     },
     {
       "raw_hot": 371759,
@@ -929,6 +1001,14 @@
       "onboard_time": 1726998260,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 306959,
+      "num": 221488,
+      "word": "TFBOYS恭喜王俊凯全球代言",
+      "onboard_time": 1727011705,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 304818,
@@ -1155,6 +1235,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 233003,
+      "num": 233003,
+      "word": "北京12345话务员一次电话接了13小时",
+      "onboard_time": 1727013385,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 232600,
       "num": 217870,
       "word": "白鹿鸢尾蝶",
@@ -1243,6 +1331,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 217969,
+      "num": 217969,
+      "word": "潘展乐 为了中国奋勇争先",
+      "onboard_time": 1727014164,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 217672,
       "num": 226086,
       "word": "花花小肚皮上堆满苹果",
@@ -1289,14 +1385,6 @@
       "onboard_time": 1726991599,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 211477,
-      "num": 211477,
-      "word": "卖惨博主被曝月入上千万",
-      "onboard_time": 1727011285,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 210747,
@@ -1499,6 +1587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 194045,
+      "num": 220475,
+      "word": "F1",
+      "onboard_time": 1727014284,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 193800,
       "num": 193800,
       "word": "蓝盈莹首部民国剧",
@@ -1545,14 +1641,6 @@
       "onboard_time": 1727007441,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 188631,
-      "num": 188631,
-      "word": "TFBOYS恭喜王俊凯全球代言",
-      "onboard_time": 1727011705,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 188421,
@@ -1611,6 +1699,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 183218,
+      "num": 183218,
+      "word": "吴倩鬼马编发梦回落落",
+      "onboard_time": 1727012545,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 181899,
       "num": 158543,
       "word": "白鹿甜酷女团风",
@@ -1665,6 +1761,14 @@
       "onboard_time": 1726996459,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 178449,
+      "num": 588820,
+      "word": "北大教授曾3年24小时照顾失能母亲",
+      "onboard_time": 1727010443,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 178370,
@@ -1753,6 +1857,14 @@
       "onboard_time": 1726999880,
       "rank": 32,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 170261,
+      "num": 170261,
+      "word": "樊振东 端水大师",
+      "onboard_time": 1727014705,
+      "rank": 47,
+      "category": "音乐,体育"
     },
     {
       "raw_hot": 169076,
@@ -2145,14 +2257,6 @@
       "onboard_time": 1726993758,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 132430,
-      "num": 132430,
-      "word": "孙杨回应是否参加洛杉矶奥运会",
-      "onboard_time": 1727011824,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 132094,
@@ -2675,6 +2779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 67488,
+      "num": 219855,
+      "word": "校长告诫家长说学校坏话将被群攻",
+      "onboard_time": 1727012725,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 66628,
       "num": 188131,
       "word": "钟辰乐直播",
@@ -2851,14 +2963,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 44559,
-      "num": 588820,
-      "word": "北大教授曾3年24小时照顾失能母亲",
-      "onboard_time": 1727010443,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 42885,
       "num": 865932,
       "word": "天山南北唱新歌",
@@ -2963,6 +3067,22 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 28675,
+      "num": 218219,
+      "word": "长安启源E07比理想中的家更理想",
+      "onboard_time": 1727014224,
+      "rank": 38,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 28301,
+      "num": 225163,
+      "word": "记者探访黎巴嫩首都遭以色列空袭现场",
+      "onboard_time": 1727013984,
+      "rank": 29,
+      "category": "国外时政,军事"
+    },
+    {
       "raw_hot": 28270,
       "num": 275618,
       "word": "中国人种菜已经nextlevel",
@@ -3051,11 +3171,27 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 18005,
+      "num": 1355481,
+      "word": "大自然有自己的秋天美学",
+      "onboard_time": 1726986678,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 17628,
       "num": 202914,
       "word": "第一次看秀就被品牌老板送同款",
       "onboard_time": 1726933882,
       "rank": 46,
+      "category": "时尚"
+    },
+    {
+      "raw_hot": 16920,
+      "num": 219230,
+      "word": "冲锋衣的透汽和透气是不一样的",
+      "onboard_time": 1727014224,
+      "rank": 37,
       "category": "时尚"
     },
     {
@@ -3148,6 +3284,9 @@
     },
     {
       "word": "#总书记田间地头的嘱咐#"
+    },
+    {
+      "word": "#把人民政协的显著政治优势更加充分发挥出来#"
     }
   ]
 }
