@@ -1,6 +1,6 @@
 {
   "startTime": 1726936020707,
-  "endTime": 1727004906737,
+  "endTime": 1727008713963,
   "band_list": [
     {
       "raw_hot": 4059841,
@@ -43,11 +43,27 @@
       "category": "教育"
     },
     {
+      "raw_hot": 2607875,
+      "num": 2607875,
+      "word": "湾区升明月",
+      "onboard_time": 1727004261,
+      "rank": 16,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 2382835,
       "num": 2382835,
       "word": "成都一女子坠楼砸中路人2人死亡",
       "onboard_time": 1726964538,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1863129,
+      "num": 258599,
+      "word": "妻子发现丈夫出轨后半夜杀夫",
+      "onboard_time": 1727007681,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -91,6 +107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1420903,
+      "num": 521181,
+      "word": "全红婵声音好大",
+      "onboard_time": 1727007862,
+      "rank": 4,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1414193,
       "num": 524295,
       "word": "刘雨鑫回应赵丽颖粉丝",
@@ -131,6 +155,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1173426,
+      "num": 533455,
+      "word": "吴谨言希望成为赵丽颖",
+      "onboard_time": 1727001499,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1163984,
       "num": 602273,
       "word": "白鹿哭了",
@@ -155,20 +187,20 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1103409,
+      "num": 250004,
+      "word": "肖战湾区升明月晚会造型",
+      "onboard_time": 1727006842,
+      "rank": 12,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1086786,
       "num": 648485,
       "word": "陆虎说父母不反对已经很了不起了",
       "onboard_time": 1726979779,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1065722,
-      "num": 533455,
-      "word": "吴谨言希望成为赵丽颖",
-      "onboard_time": 1727001499,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 1030674,
@@ -315,11 +347,27 @@
       "category": "数码"
     },
     {
+      "raw_hot": 727905,
+      "num": 242026,
+      "word": "2024湾区升明月节目单",
+      "onboard_time": 1726991719,
+      "rank": 29,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 727808,
       "num": 622349,
       "word": "优酷给赵丽颖飞天奖视后的专栏",
       "onboard_time": 1726971320,
       "rank": 6,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 712142,
+      "num": 233509,
+      "word": "央视新闻报道赵丽颖获飞天奖视后",
+      "onboard_time": 1727006239,
+      "rank": 14,
       "category": "剧集"
     },
     {
@@ -723,6 +771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 346922,
+      "num": 200445,
+      "word": "王力宏李治廷同台",
+      "onboard_time": 1727007799,
+      "rank": 21,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 343242,
       "num": 260183,
       "word": "小伙经常晚上不刷牙嘴里长满结石",
@@ -771,6 +827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 315136,
+      "num": 203987,
+      "word": "爷爷发现孙子背后多出颗痣秒去医院",
+      "onboard_time": 1727007799,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 313834,
       "num": 210237,
       "word": "宁静真演上短剧了",
@@ -809,14 +873,6 @@
       "onboard_time": 1726984402,
       "rank": 24,
       "category": "情感"
-    },
-    {
-      "raw_hot": 276008,
-      "num": 276008,
-      "word": "湾区升明月",
-      "onboard_time": 1727004261,
-      "rank": 16,
-      "category": "音乐"
     },
     {
       "raw_hot": 272426,
@@ -1067,6 +1123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 214220,
+      "num": 197811,
+      "word": "肖战 巴尔曼",
+      "onboard_time": 1727008342,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 211962,
       "num": 211962,
       "word": "张雪峰女儿喊自己妈妈姐",
@@ -1089,14 +1153,6 @@
       "onboard_time": 1726979121,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 208938,
-      "num": 208938,
-      "word": "2024湾区升明月节目单",
-      "onboard_time": 1726991719,
-      "rank": 29,
-      "category": "音乐"
     },
     {
       "raw_hot": 206734,
@@ -1243,6 +1299,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 196118,
+      "num": 196118,
+      "word": "登陆少年表演hello大湾",
+      "onboard_time": 1727004621,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 195556,
       "num": 195556,
       "word": "冯巩一句我想死你们了婚礼秒变春晚",
@@ -1281,6 +1345,14 @@
       "onboard_time": 1726999880,
       "rank": 28,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 189950,
+      "num": 189950,
+      "word": "冠军搭档联手开课啦",
+      "onboard_time": 1727007441,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 188421,
@@ -1387,6 +1459,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 176039,
+      "num": 176039,
+      "word": "全红婵说王俊凯包帅的",
+      "onboard_time": 1727007381,
+      "rank": 31,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 175566,
       "num": 274304,
       "word": "秋分也是丰收节",
@@ -1449,14 +1529,6 @@
       "onboard_time": 1726999880,
       "rank": 32,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 169322,
-      "num": 169322,
-      "word": "登陆少年表演hello大湾",
-      "onboard_time": 1727004621,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 169076,
@@ -1579,12 +1651,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 161766,
+      "num": 161766,
+      "word": "长发张小斐回来了",
+      "onboard_time": 1727008164,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 161256,
       "num": 161256,
       "word": "迪丽热巴超飒花絮图",
       "onboard_time": 1726990279,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 160475,
+      "num": 160475,
+      "word": "姚安娜演技",
+      "onboard_time": 1727008102,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 158412,
@@ -1641,6 +1729,14 @@
       "onboard_time": 1726923742,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 152969,
+      "num": 152969,
+      "word": "美国伯明翰发生大规模枪击事件",
+      "onboard_time": 1727006059,
+      "rank": 36,
+      "category": "国外时政"
     },
     {
       "raw_hot": 152846,
@@ -1747,6 +1843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 144507,
+      "num": 144507,
+      "word": "加沙男孩说教室被炸了地上都是玩具",
+      "onboard_time": 1727003302,
+      "rank": 38,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 143210,
       "num": 143210,
       "word": "惠若琪说周深嗓子确实杠杠的",
@@ -1785,6 +1889,14 @@
       "onboard_time": 1726974619,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 138069,
+      "num": 138069,
+      "word": "朱一龙ELLE银十封面",
+      "onboard_time": 1727007200,
+      "rank": 39,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 136544,
@@ -1835,12 +1947,28 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 131048,
+      "num": 131048,
+      "word": "张译播音腔",
+      "onboard_time": 1727008642,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 130533,
       "num": 130533,
       "word": "何广智职业最大危机是哈妮克孜",
       "onboard_time": 1726972999,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 130391,
+      "num": 130391,
+      "word": "布云朝克特首进巡回赛四强",
+      "onboard_time": 1727008462,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 130368,
@@ -1859,6 +1987,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 129700,
+      "num": 129700,
+      "word": "殷世航医院做鼻子",
+      "onboard_time": 1727008581,
+      "rank": 42,
+      "category": "网红"
+    },
+    {
       "raw_hot": 129387,
       "num": 202941,
       "word": "左航晒夜景",
@@ -1873,6 +2009,14 @@
       "onboard_time": 1727002102,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 128880,
+      "num": 128880,
+      "word": "黑神话悟空里的说书人坚守了32年",
+      "onboard_time": 1727005041,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 126999,
@@ -2011,6 +2155,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 115892,
+      "num": 115892,
+      "word": "中国赛任何组合男双亚军",
+      "onboard_time": 1727005462,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 115436,
       "num": 223174,
       "word": "我只记得爸爸的颜色是迷彩服",
@@ -2035,6 +2187,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 113098,
+      "num": 463881,
+      "word": "不戴眼镜真的会影响听力吗",
+      "onboard_time": 1727003422,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 112331,
       "num": 112331,
       "word": "蔡徐坤的海外人气",
@@ -2049,6 +2209,14 @@
       "onboard_time": 1726965139,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 111744,
+      "num": 265553,
+      "word": "流水迢迢20集",
+      "onboard_time": 1727007141,
+      "rank": 10,
+      "category": "剧集"
     },
     {
       "raw_hot": 110558,
@@ -2299,14 +2467,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 66176,
-      "num": 463881,
-      "word": "不戴眼镜真的会影响听力吗",
-      "onboard_time": 1727003422,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 64758,
       "num": 64758,
       "word": "周深把音响加到鸟巢承重极限",
@@ -2531,6 +2691,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 29726,
+      "num": 268939,
+      "word": "起底网络平台卖惨赛道",
+      "onboard_time": 1727008164,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 29658,
       "num": 582789,
       "word": "丰收连连看",
@@ -2641,6 +2809,14 @@
       "onboard_time": 1726933882,
       "rank": 46,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 17611,
+      "num": 196956,
+      "word": "一张图看懂家居服怎么选",
+      "onboard_time": 1727007141,
+      "rank": 26,
+      "category": "科学科普"
     },
     {
       "raw_hot": 16472,
