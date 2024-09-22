@@ -1,0 +1,410 @@
+{
+  "runTime": 1727018465247,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6817146,
+        "num": 6817146,
+        "word": "湾区升明月",
+        "onboard_time": 1727004261,
+        "rank": 0,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1529971,
+        "num": 1529971,
+        "word": "卖惨博主被曝月入上千万",
+        "onboard_time": 1727011285,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 15247,
+        "num": 1071033,
+        "word": "大自然有自己的秋天美学",
+        "onboard_time": 1726986678,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1034498,
+        "num": 1034498,
+        "word": "2024湾区升明月节目单",
+        "onboard_time": 1726991719,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 759393,
+        "num": 759393,
+        "word": "爷爷发现孙子背后多出颗痣秒去医院",
+        "onboard_time": 1727007799,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 536115,
+        "num": 536115,
+        "word": "千万身价老板破产法院4元拍卖雪碧",
+        "onboard_time": 1727009182,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1021817,
+        "num": 525037,
+        "word": "登陆少年舞台首秀",
+        "onboard_time": 1727015305,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 984022,
+        "num": 484054,
+        "word": "肖战黄晓明互相让位",
+        "onboard_time": 1727011705,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 414586,
+        "num": 414586,
+        "word": "山姆10天翻车3次",
+        "onboard_time": 1727001800,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 47257,
+        "num": 410494,
+        "word": "央视曝光包治百病的保健床垫骗局",
+        "onboard_time": 1727017284,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1521758,
+        "num": 406487,
+        "word": "妻子发现丈夫出轨后半夜杀夫",
+        "onboard_time": 1727007681,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 958283,
+        "num": 399552,
+        "word": "哺乳期妈妈怀孕7个月毫不知情",
+        "onboard_time": 1727009843,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 939763,
+        "num": 395771,
+        "word": "易烊千玺松弛感",
+        "onboard_time": 1727014104,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 880977,
+        "num": 390585,
+        "word": "肖战湾区升明月晚会造型",
+        "onboard_time": 1727006842,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 542519,
+        "num": 386277,
+        "word": "真唱",
+        "onboard_time": 1727009782,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 506312,
+        "num": 378956,
+        "word": "樊振东是换打法了吗",
+        "onboard_time": 1727016324,
+        "rank": 15,
+        "category": "音乐,体育"
+      },
+      {
+        "raw_hot": 7836,
+        "num": 371809,
+        "word": "长安启源E07比理想中的家更理想",
+        "onboard_time": 1727014224,
+        "rank": 16,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 371536,
+        "num": 371536,
+        "word": "北京12345话务员一次电话接了13小时",
+        "onboard_time": 1727013385,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261197,
+        "num": 261197,
+        "word": "孙颖莎王楚钦担任特派体育老师",
+        "onboard_time": 1727014164,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 180510,
+        "num": 260896,
+        "word": "王昶 别催别催每天都在练的",
+        "onboard_time": 1727018123,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1320769,
+        "num": 259958,
+        "word": "谢娜给陈乔恩66666.66红包",
+        "onboard_time": 1727003241,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 483296,
+        "num": 258782,
+        "word": "aespa迷你五辑预告",
+        "onboard_time": 1727018064,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 360711,
+        "num": 257415,
+        "word": "吴谨言希望成为赵丽颖",
+        "onboard_time": 1727001499,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 353132,
+        "num": 256497,
+        "word": "全红婵回应唱歌上热搜",
+        "onboard_time": 1727017825,
+        "rank": 23,
+        "category": "音乐,体育"
+      },
+      {
+        "raw_hot": 234800,
+        "num": 255918,
+        "word": "小伙经常晚上不刷牙嘴里长满结石",
+        "onboard_time": 1726999160,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 338614,
+        "num": 254907,
+        "word": "王力宏李治廷同台",
+        "onboard_time": 1727007799,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 337444,
+        "num": 253970,
+        "word": "易烊千玺张小斐坐一起",
+        "onboard_time": 1727017225,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 162202,
+        "num": 253279,
+        "word": "妻子不能怀孕丈夫请求撤销婚姻",
+        "onboard_time": 1727000420,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 305626,
+        "num": 252222,
+        "word": "全红婵声音好大",
+        "onboard_time": 1727007862,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 277792,
+        "num": 250742,
+        "word": "白鹿坚持在跑男的原因",
+        "onboard_time": 1727012905,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 250614,
+        "num": 250614,
+        "word": "明道儿子担任陈乔恩Alan婚礼花童",
+        "onboard_time": 1726999759,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 243508,
+        "num": 243508,
+        "word": "黄誉博叫徐艺洋老板娘",
+        "onboard_time": 1727015065,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 230851,
+        "num": 230851,
+        "word": "林忆莲状态真好",
+        "onboard_time": 1727013804,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 228477,
+        "num": 228477,
+        "word": "白鹿哭了",
+        "onboard_time": 1727000780,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 210314,
+        "num": 228429,
+        "word": "王力宏像在开演唱会",
+        "onboard_time": 1727013504,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 208114,
+        "num": 228397,
+        "word": "央视新闻报道赵丽颖获飞天奖视后",
+        "onboard_time": 1727006239,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 188604,
+        "num": 228310,
+        "word": "向云端rap",
+        "onboard_time": 1727015305,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 147663,
+        "num": 228231,
+        "word": "硕士拟被聘为勤杂工系工作人员失误",
+        "onboard_time": 1727017825,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135667,
+        "num": 228110,
+        "word": "孙杨回应是否参加洛杉矶奥运会",
+        "onboard_time": 1727011824,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132653,
+        "num": 228079,
+        "word": "苹果客服回应iPhone16使用钢壳电池",
+        "onboard_time": 1727001441,
+        "rank": 39,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 184687,
+        "num": 228013,
+        "word": "樊振东直拍",
+        "onboard_time": 1727009062,
+        "rank": 40,
+        "category": "音乐,体育"
+      },
+      {
+        "raw_hot": 48966,
+        "num": 227918,
+        "word": "冲锋衣的透汽和透气是不一样的",
+        "onboard_time": 1727014224,
+        "rank": 41,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 29837,
+        "num": 227854,
+        "word": "时代少年团在李宁秀场成功追星",
+        "onboard_time": 1727016324,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26162,
+        "num": 227752,
+        "word": "马龙出了赛场又到秀场",
+        "onboard_time": 1727016924,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 165817,
+        "num": 227694,
+        "word": "林志炫太牛了",
+        "onboard_time": 1727013204,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 164849,
+        "num": 227588,
+        "word": "朱志鑫湾区升明月内场图",
+        "onboard_time": 1727009902,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 107206,
+        "num": 227507,
+        "word": "吴艳妮徐卓一组合夺冠",
+        "onboard_time": 1727013385,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 103925,
+        "num": 227453,
+        "word": "北大教授曾3年24小时照顾失能母亲",
+        "onboard_time": 1727010443,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98530,
+        "num": 227430,
+        "word": "原来你们看的细节是这些东西",
+        "onboard_time": 1727015245,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 81725,
+        "num": 227325,
+        "word": "躺在地上哭被喂过的流浪狗发现",
+        "onboard_time": 1727018422,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#把人民政协的显著政治优势更加充分发挥出来#"
+    }
+  }
+}
