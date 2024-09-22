@@ -1,6 +1,6 @@
 {
   "startTime": 1726936020707,
-  "endTime": 1727040932565,
+  "endTime": 1727043622426,
   "band_list": [
     {
       "raw_hot": 6817146,
@@ -2523,6 +2523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 135675,
+      "num": 113657,
+      "word": "飞天奖提名争议是佳作频出的烦恼",
+      "onboard_time": 1727028192,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 135114,
       "num": 107918,
       "word": "周笔畅live的神",
@@ -3019,14 +3027,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 85871,
-      "num": 58932,
-      "word": "飞天奖提名争议是佳作频出的烦恼",
-      "onboard_time": 1727028192,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 85459,
       "num": 207249,
       "word": "王楚钦给自己画肖像",
@@ -3387,6 +3387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 43527,
+      "num": 40401,
+      "word": "陈乔恩Alan中式婚服",
+      "onboard_time": 1727039891,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 42885,
       "num": 865932,
       "word": "天山南北唱新歌",
@@ -3435,6 +3443,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 37668,
+      "num": 41167,
+      "word": "一年吃掉7亿头猪的中国人有多爱吃",
+      "onboard_time": 1727036530,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 36675,
       "num": 36675,
       "word": "登陆少年台下镜头",
@@ -3465,6 +3481,14 @@
       "onboard_time": 1726967840,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 35391,
+      "num": 42717,
+      "word": "俄外长称普京支持哈里斯是玩笑话",
+      "onboard_time": 1727039291,
+      "rank": 15,
+      "category": "国外时政"
     },
     {
       "raw_hot": 34154,
@@ -3507,20 +3531,20 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 30242,
-      "num": 36449,
-      "word": "一年吃掉7亿头猪的中国人有多爱吃",
-      "onboard_time": 1727036530,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 30102,
       "num": 245327,
       "word": "李宁新出了陶瓷设计款",
       "onboard_time": 1726979179,
       "rank": 47,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 30005,
+      "num": 32407,
+      "word": "俄外长称谁当美国总统都一样",
+      "onboard_time": 1727039951,
+      "rank": 29,
+      "category": "国外时政"
     },
     {
       "raw_hot": 29811,
@@ -3545,6 +3569,14 @@
       "onboard_time": 1726974860,
       "rank": 19,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 28756,
+      "num": 32378,
+      "word": "地下室进野猫后爬满跳蚤",
+      "onboard_time": 1727031192,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 28675,
@@ -3627,12 +3659,28 @@
       "category": "艺人,电竞"
     },
     {
+      "raw_hot": 26777,
+      "num": 32343,
+      "word": "宋亚轩看秀自拍",
+      "onboard_time": 1727042412,
+      "rank": 42,
+      "category": "艺人,作品衍生"
+    },
+    {
       "raw_hot": 25936,
       "num": 135765,
       "word": "潘展乐温州话就是破纪录",
       "onboard_time": 1726932383,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 25272,
+      "num": 32304,
+      "word": "赵露思双麻花辫活动造型",
+      "onboard_time": 1727042051,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 23571,
@@ -3667,28 +3715,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 20815,
-      "num": 26353,
-      "word": "地下室进野猫后爬满跳蚤",
-      "onboard_time": 1727031192,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 20674,
       "num": 208688,
       "word": "以为在火星实际在长城",
       "onboard_time": 1726931305,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 20179,
-      "num": 20179,
-      "word": "陈乔恩Alan中式婚服",
-      "onboard_time": 1727039891,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 18193,
@@ -3713,14 +3745,6 @@
       "onboard_time": 1726933882,
       "rank": 46,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 17597,
-      "num": 23583,
-      "word": "俄外长称谁当美国总统都一样",
-      "onboard_time": 1727039951,
-      "rank": 29,
-      "category": "国外时政"
     },
     {
       "raw_hot": 16686,
@@ -3785,14 +3809,6 @@
       "onboard_time": 1726949531,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 13844,
-      "num": 42717,
-      "word": "俄外长称普京支持哈里斯是玩笑话",
-      "onboard_time": 1727039291,
-      "rank": 15,
-      "category": "国外时政"
     },
     {
       "raw_hot": 13145,
@@ -3860,7 +3876,7 @@
     },
     {
       "raw_hot": 7766,
-      "num": 151630,
+      "num": 157985,
       "word": "丰收的画面有多治愈",
       "onboard_time": 1727012545,
       "rank": 2,
