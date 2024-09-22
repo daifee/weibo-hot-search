@@ -1,6 +1,6 @@
 {
   "startTime": 1726936020707,
-  "endTime": 1726980112445,
+  "endTime": 1726982463912,
   "band_list": [
     {
       "raw_hot": 4059841,
@@ -68,11 +68,19 @@
     },
     {
       "raw_hot": 1335384,
-      "num": 570809,
+      "num": 663604,
       "word": "张若昀耳洞流血",
       "onboard_time": 1726977620,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1129528,
+      "num": 1129528,
+      "word": "叶剑英元帅长女叶楚梅逝世",
+      "onboard_time": 1726980798,
+      "rank": 1,
+      "category": "国内时政"
     },
     {
       "raw_hot": 1106238,
@@ -81,6 +89,14 @@
       "onboard_time": 1726967659,
       "rank": 20,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 1086786,
+      "num": 298571,
+      "word": "陆虎说父母不反对已经很了不起了",
+      "onboard_time": 1726979779,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 1030674,
@@ -97,6 +113,14 @@
       "onboard_time": 1726926867,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 859199,
+      "num": 286614,
+      "word": "陈乔恩Alan婚礼邀请函",
+      "onboard_time": 1726978939,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 847592,
@@ -395,6 +419,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 352129,
+      "num": 202925,
+      "word": "潘婷代言人",
+      "onboard_time": 1726980559,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 349856,
       "num": 206250,
       "word": "汪峰凭一己之力让13个人尴尬",
@@ -435,20 +467,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 280972,
-      "num": 280972,
-      "word": "陈乔恩Alan婚礼邀请函",
-      "onboard_time": 1726978939,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 272426,
       "num": 205871,
       "word": "叶珂最新健身视频",
       "onboard_time": 1726966459,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 265596,
+      "num": 251544,
+      "word": "5岁男童每天早教致近视1000度",
+      "onboard_time": 1726977320,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 262364,
@@ -467,12 +499,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 251545,
-      "num": 251544,
-      "word": "5岁男童每天早教致近视1000度",
-      "onboard_time": 1726977320,
-      "rank": 24,
-      "category": "社会新闻"
+      "raw_hot": 260259,
+      "num": 252953,
+      "word": "陈乔恩Alan婚纱写真",
+      "onboard_time": 1726979841,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 248506,
@@ -481,6 +513,14 @@
       "onboard_time": 1726973359,
       "rank": 44,
       "category": "美食"
+    },
+    {
+      "raw_hot": 241402,
+      "num": 202518,
+      "word": "张鲁一情商",
+      "onboard_time": 1726979599,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 239485,
@@ -531,14 +571,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 215106,
-      "num": 215106,
-      "word": "陆虎说父母不反对已经很了不起了",
-      "onboard_time": 1726979779,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 214647,
       "num": 214647,
       "word": "秋分",
@@ -560,6 +592,14 @@
       "word": "黄河路装不下胡歌的意难平",
       "onboard_time": 1726979121,
       "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 208615,
+      "num": 200822,
+      "word": "李光洁风吹半夏家属自豪感",
+      "onboard_time": 1726980559,
+      "rank": 30,
       "category": "剧集"
     },
     {
@@ -643,14 +683,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 196326,
-      "num": 196326,
-      "word": "张鲁一情商",
-      "onboard_time": 1726979599,
-      "rank": 34,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 194922,
       "num": 194922,
       "word": "世界犀牛日",
@@ -659,12 +691,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 193709,
+      "num": 223626,
+      "word": "中国农民丰收节",
+      "onboard_time": 1726982239,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 185870,
+      "num": 185870,
+      "word": "郑合惠子大唐娇美人",
+      "onboard_time": 1726979300,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 183686,
       "num": 123576,
       "word": "宋威龙 养爬宠的可以发博艾特我",
       "onboard_time": 1726960155,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 181625,
+      "num": 181625,
+      "word": "长大后才发现自己是霸凌隐性施暴者",
+      "onboard_time": 1726979841,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 179869,
@@ -755,6 +811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 164703,
+      "num": 203554,
+      "word": "陈梦谈巴黎奥运会夺金",
+      "onboard_time": 1726977739,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 164239,
       "num": 183088,
       "word": "9月22日20时43分迎秋分",
@@ -787,14 +851,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 160317,
-      "num": 252953,
-      "word": "陈乔恩Alan婚纱写真",
-      "onboard_time": 1726979841,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 158412,
       "num": 158412,
       "word": "半熟男女三女主义",
@@ -825,14 +881,6 @@
       "onboard_time": 1726923742,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 154372,
-      "num": 154372,
-      "word": "陈梦谈巴黎奥运会夺金",
-      "onboard_time": 1726977739,
-      "rank": 36,
-      "category": "体育"
     },
     {
       "raw_hot": 152311,
@@ -875,6 +923,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 148972,
+      "num": 148972,
+      "word": "因台风退返程高铁票被收4元退票费",
+      "onboard_time": 1726980379,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 148629,
       "num": 205454,
       "word": "陈晓云襄传2造型",
@@ -907,20 +963,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 146716,
-      "num": 146716,
-      "word": "郑合惠子大唐娇美人",
-      "onboard_time": 1726979300,
-      "rank": 42,
-      "category": "艺人"
+      "raw_hot": 145840,
+      "num": 145840,
+      "word": "江苏一地公示15名干部6人有曾用名",
+      "onboard_time": 1726981820,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
-      "raw_hot": 145282,
-      "num": 145282,
-      "word": "长大后才发现自己是霸凌隐性施暴者",
-      "onboard_time": 1726979841,
-      "rank": 43,
-      "category": "情感"
+      "raw_hot": 145310,
+      "num": 283366,
+      "word": "官方回应15名干部6人有曾用名",
+      "onboard_time": 1726979599,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 145178,
@@ -971,6 +1027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 136445,
+      "num": 136445,
+      "word": "我家现实都没这么全的家具",
+      "onboard_time": 1726979539,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 133819,
       "num": 282418,
       "word": "恋与深空",
@@ -987,12 +1051,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 131163,
-      "num": 131163,
-      "word": "我家现实都没这么全的家具",
-      "onboard_time": 1726979539,
-      "rank": 47,
-      "category": "情感"
+      "raw_hot": 131928,
+      "num": 369701,
+      "word": "我记者直球提问以代表黎巴嫩事件",
+      "onboard_time": 1726978579,
+      "rank": 9,
+      "category": "国外时政"
     },
     {
       "raw_hot": 130533,
@@ -1107,6 +1171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 104773,
+      "num": 104773,
+      "word": "寻呼机炸响中东炸穿了世界的底线",
+      "onboard_time": 1726982419,
+      "rank": 49,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 102491,
       "num": 102491,
       "word": "台州人这回真海鲜自由了",
@@ -1211,14 +1283,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 69112,
-      "num": 369701,
-      "word": "我记者直球提问以代表黎巴嫩事件",
-      "onboard_time": 1726978579,
-      "rank": 9,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 67883,
       "num": 67883,
       "word": "他们用汗水为大地增添丰收的颜色",
@@ -1275,6 +1339,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 52793,
+      "num": 145861,
+      "word": "好喜欢看黄景瑜哭",
+      "onboard_time": 1726980918,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 50585,
       "num": 112262,
       "word": "第五人格",
@@ -1323,14 +1395,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 40662,
-      "num": 283366,
-      "word": "官方回应15名干部6人有曾用名",
-      "onboard_time": 1726979599,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 38857,
       "num": 22973,
       "word": "飞天奖视后获奖感言",
@@ -1353,6 +1417,14 @@
       "onboard_time": 1726967840,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 30102,
+      "num": 245327,
+      "word": "李宁新出了陶瓷设计款",
+      "onboard_time": 1726979179,
+      "rank": 47,
+      "category": "时尚"
     },
     {
       "raw_hot": 29658,
@@ -1379,6 +1451,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 27687,
+      "num": 203165,
+      "word": "陈数骑自行车逛北大",
+      "onboard_time": 1726981279,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 27166,
       "num": 27166,
       "word": "00后种地搞了个田间情报站",
@@ -1393,6 +1473,14 @@
       "onboard_time": 1726932383,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 22685,
+      "num": 670523,
+      "word": "文化中国行看丰收之美",
+      "onboard_time": 1726976841,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 22652,
@@ -1411,20 +1499,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 20244,
+      "num": 145849,
+      "word": "南北方在家都穿啥过冬",
+      "onboard_time": 1726981762,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 18093,
       "num": 72177,
       "word": "读懂丰收的三重含义",
       "onboard_time": 1726957152,
       "rank": 29,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 18002,
-      "num": 245327,
-      "word": "李宁新出了陶瓷设计款",
-      "onboard_time": 1726979179,
-      "rank": 47,
-      "category": "时尚"
     },
     {
       "raw_hot": 17628,
