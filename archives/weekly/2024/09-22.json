@@ -1,6 +1,6 @@
 {
   "startTime": 1726936020707,
-  "endTime": 1726997694873,
+  "endTime": 1727000480411,
   "band_list": [
     {
       "raw_hot": 4059841,
@@ -25,6 +25,14 @@
       "onboard_time": 1726972100,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 2429014,
+      "num": 2429014,
+      "word": "罗翔",
+      "onboard_time": 1726996880,
+      "rank": 8,
+      "category": "教育"
     },
     {
       "raw_hot": 2382835,
@@ -139,6 +147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1011828,
+      "num": 330311,
+      "word": "明道儿子担任陈乔恩Alan婚礼花童",
+      "onboard_time": 1726999759,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 909257,
       "num": 909257,
       "word": "高空抛物伤人全楼查DNA后男子自首",
@@ -184,6 +200,14 @@
       "word": "赵丽颖哭了",
       "onboard_time": 1726927647,
       "rank": 11,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 827511,
+      "num": 827511,
+      "word": "差点没认出来胡冰卿",
+      "onboard_time": 1726995979,
+      "rank": 21,
       "category": "剧集"
     },
     {
@@ -241,14 +265,6 @@
       "onboard_time": 1726984819,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 743887,
-      "num": 507333,
-      "word": "差点没认出来胡冰卿",
-      "onboard_time": 1726995979,
-      "rank": 21,
-      "category": "剧集"
     },
     {
       "raw_hot": 733401,
@@ -425,14 +441,6 @@
       "onboard_time": 1726929147,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 493405,
-      "num": 493405,
-      "word": "罗翔",
-      "onboard_time": 1726996880,
-      "rank": 8,
-      "category": "教育"
     },
     {
       "raw_hot": 486893,
@@ -620,7 +628,7 @@
     },
     {
       "raw_hot": 363918,
-      "num": 288128,
+      "num": 323185,
       "word": "赵露思 武汉",
       "onboard_time": 1726993039,
       "rank": 36,
@@ -667,12 +675,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 334600,
+      "num": 334600,
+      "word": "芜湖巨响",
+      "onboard_time": 1726995259,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 334236,
+      "num": 230952,
+      "word": "小伙经常晚上不刷牙嘴里长满结石",
+      "onboard_time": 1726999160,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 318185,
       "num": 318185,
       "word": "阳澄湖大闸蟹卖到300多一只",
       "onboard_time": 1726960875,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 313834,
+      "num": 210237,
+      "word": "宁静真演上短剧了",
+      "onboard_time": 1726998260,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 301412,
@@ -971,6 +1003,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 204398,
+      "num": 204398,
+      "word": "尹净汉直播",
+      "onboard_time": 1726999399,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 203829,
       "num": 189326,
       "word": "猫系美女",
@@ -993,14 +1033,6 @@
       "onboard_time": 1726927467,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 201092,
-      "num": 201092,
-      "word": "芜湖巨响",
-      "onboard_time": 1726995259,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 200966,
@@ -1067,6 +1099,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 197157,
+      "num": 197157,
+      "word": "不像学的 像没忘干净",
+      "onboard_time": 1726997300,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 194922,
       "num": 194922,
       "word": "世界犀牛日",
@@ -1081,6 +1121,14 @@
       "onboard_time": 1726986859,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 191755,
+      "num": 191755,
+      "word": "颖儿特种兵出发米兰时装周",
+      "onboard_time": 1726999880,
+      "rank": 28,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 188421,
@@ -1161,6 +1209,14 @@
       "onboard_time": 1726967300,
       "rank": 45,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 179024,
+      "num": 215741,
+      "word": "樊振东西南北中",
+      "onboard_time": 1726996459,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 176817,
@@ -1307,6 +1363,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 162726,
+      "num": 162726,
+      "word": "流水迢迢",
+      "onboard_time": 1727000000,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 161256,
       "num": 161256,
       "word": "迪丽热巴超飒花絮图",
@@ -1345,6 +1409,14 @@
       "onboard_time": 1726931425,
       "rank": 28,
       "category": "美食"
+    },
+    {
+      "raw_hot": 156492,
+      "num": 156492,
+      "word": "王力宏全红婵打招呼",
+      "onboard_time": 1726999880,
+      "rank": 32,
+      "category": "音乐"
     },
     {
       "raw_hot": 155896,
@@ -1491,14 +1563,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 141735,
-      "num": 141735,
-      "word": "樊振东西南北中",
-      "onboard_time": 1726996459,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 141149,
       "num": 141149,
       "word": "王者荣耀联动李白故里",
@@ -1521,14 +1585,6 @@
       "onboard_time": 1726974619,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 138506,
-      "num": 138506,
-      "word": "不像学的 像没忘干净",
-      "onboard_time": 1726997300,
-      "rank": 43,
-      "category": "幽默"
     },
     {
       "raw_hot": 133819,
@@ -1603,6 +1659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 128915,
+      "num": 128915,
+      "word": "做了一盆水鬼",
+      "onboard_time": 1726999821,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 126999,
       "num": 126999,
       "word": "杨超越喊麦",
@@ -1651,12 +1715,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 122810,
+      "num": 292805,
+      "word": "Alan的伴郎有郑元畅明道",
+      "onboard_time": 1726995979,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 121739,
+      "num": 121739,
+      "word": "周子瑜棒球开球",
+      "onboard_time": 1726997839,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 120862,
       "num": 120862,
       "word": "第六套人民币即将上市是假消息",
       "onboard_time": 1726996039,
       "rank": 45,
       "category": "财经"
+    },
+    {
+      "raw_hot": 119554,
+      "num": 119554,
+      "word": "国羽女单时隔9年再夺中公冠军",
+      "onboard_time": 1726999821,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 118780,
@@ -1715,6 +1803,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 113796,
+      "num": 113796,
+      "word": "女朋友没哄好把我哄好了",
+      "onboard_time": 1727000360,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 113256,
+      "num": 223174,
+      "word": "我只记得爸爸的颜色是迷彩服",
+      "onboard_time": 1726999399,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 112331,
       "num": 112331,
       "word": "蔡徐坤的海外人气",
@@ -1737,6 +1841,14 @@
       "onboard_time": 1726989918,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 109629,
+      "num": 109629,
+      "word": "妻子不能怀孕丈夫请求撤销婚姻",
+      "onboard_time": 1727000420,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 109616,
@@ -1865,14 +1977,6 @@
       "onboard_time": 1726929326,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 84792,
-      "num": 292805,
-      "word": "Alan的伴郎有郑元畅明道",
-      "onboard_time": 1726995979,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 82769,
@@ -2115,6 +2219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 42885,
+      "num": 865932,
+      "word": "天山南北唱新歌",
+      "onboard_time": 1726998799,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 39281,
       "num": 244466,
       "word": "抠门年轻人带火钓鱼佬严选",
@@ -2153,6 +2265,14 @@
       "onboard_time": 1726967840,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 31610,
+      "num": 125143,
+      "word": "搜狐视频播主大会",
+      "onboard_time": 1726999221,
+      "rank": 39,
+      "category": "互联网,作品衍生"
     },
     {
       "raw_hot": 30668,

@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1726997694873,
+  "endTime": 1727000480411,
   "band_list": [
     {
       "raw_hot": 28035334,
@@ -753,6 +753,14 @@
       "onboard_time": 1726845861,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2429014,
+      "num": 2429014,
+      "word": "罗翔",
+      "onboard_time": 1726996880,
+      "rank": 8,
+      "category": "教育"
     },
     {
       "raw_hot": 2422037,
@@ -5299,6 +5307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1011828,
+      "num": 330311,
+      "word": "明道儿子担任陈乔恩Alan婚礼花童",
+      "onboard_time": 1726999759,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1011795,
       "num": 1011795,
       "word": "iPhone16定价",
@@ -7075,6 +7091,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 827511,
+      "num": 827511,
+      "word": "差点没认出来胡冰卿",
+      "onboard_time": 1726995979,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 826990,
       "num": 826990,
       "word": "警方回应天津机场无人机事件",
@@ -8169,14 +8193,6 @@
       "onboard_time": 1726815201,
       "rank": 7,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 743887,
-      "num": 507333,
-      "word": "差点没认出来胡冰卿",
-      "onboard_time": 1726995979,
-      "rank": 21,
-      "category": "剧集"
     },
     {
       "raw_hot": 743255,
@@ -13243,14 +13259,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 493405,
-      "num": 493405,
-      "word": "罗翔",
-      "onboard_time": 1726996880,
-      "rank": 8,
-      "category": "教育"
-    },
-    {
       "raw_hot": 493055,
       "num": 493055,
       "word": "Jennie打乒乓球",
@@ -17244,7 +17252,7 @@
     },
     {
       "raw_hot": 363918,
-      "num": 288128,
+      "num": 323185,
       "word": "赵露思 武汉",
       "onboard_time": 1726993039,
       "rank": 36,
@@ -18483,6 +18491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 334600,
+      "num": 334600,
+      "word": "芜湖巨响",
+      "onboard_time": 1726995259,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 334581,
       "num": 334581,
       "word": "安徽省地震局加密观测肥东震区",
@@ -18497,6 +18513,14 @@
       "onboard_time": 1725341122,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 334236,
+      "num": 230952,
+      "word": "小伙经常晚上不刷牙嘴里长满结石",
+      "onboard_time": 1726999160,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 333219,
@@ -19417,6 +19441,14 @@
       "onboard_time": 1725979402,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 313834,
+      "num": 210237,
+      "word": "宁静真演上短剧了",
+      "onboard_time": 1726998260,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 313808,
@@ -29627,6 +29659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 204398,
+      "num": 204398,
+      "word": "尹净汉直播",
+      "onboard_time": 1726999399,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 204397,
       "num": 204397,
       "word": "AG全员晒冠军自拍",
@@ -30377,14 +30417,6 @@
       "onboard_time": 1726669042,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 201092,
-      "num": 201092,
-      "word": "芜湖巨响",
-      "onboard_time": 1726995259,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 201046,
@@ -31425,6 +31457,14 @@
       "onboard_time": 1725868100,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 197157,
+      "num": 197157,
+      "word": "不像学的 像没忘干净",
+      "onboard_time": 1726997300,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 197128,
@@ -32825,6 +32865,14 @@
       "onboard_time": 1726043061,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 191755,
+      "num": 191755,
+      "word": "颖儿特种兵出发米兰时装周",
+      "onboard_time": 1726999880,
+      "rank": 28,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 191690,
@@ -35881,6 +35929,14 @@
       "onboard_time": 1725423140,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 179024,
+      "num": 215741,
+      "word": "樊振东西南北中",
+      "onboard_time": 1726996459,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 179003,
@@ -41531,6 +41587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 156492,
+      "num": 156492,
+      "word": "王力宏全红婵打招呼",
+      "onboard_time": 1726999880,
+      "rank": 32,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 156432,
       "num": 156432,
       "word": "全球橙汁价格大涨",
@@ -45371,14 +45435,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 141735,
-      "num": 141735,
-      "word": "樊振东西南北中",
-      "onboard_time": 1726996459,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 141533,
       "num": 141533,
       "word": "中秋节文案",
@@ -46097,14 +46153,6 @@
       "onboard_time": 1725169819,
       "rank": 37,
       "category": "教育"
-    },
-    {
-      "raw_hot": 138506,
-      "num": 138506,
-      "word": "不像学的 像没忘干净",
-      "onboard_time": 1726997300,
-      "rank": 43,
-      "category": "幽默"
     },
     {
       "raw_hot": 138481,
@@ -48443,6 +48491,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 128915,
+      "num": 128915,
+      "word": "做了一盆水鬼",
+      "onboard_time": 1726999821,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 128869,
       "num": 128869,
       "word": "汪苏泷晒演唱会大合照",
@@ -49539,6 +49595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 122810,
+      "num": 292805,
+      "word": "Alan的伴郎有郑元畅明道",
+      "onboard_time": 1726995979,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 122783,
       "num": 412823,
       "word": "微博音乐盛典年度推荐MV",
@@ -49697,6 +49761,14 @@
       "onboard_time": 1726207585,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 121739,
+      "num": 121739,
+      "word": "周子瑜棒球开球",
+      "onboard_time": 1726997839,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 121716,
@@ -50097,6 +50169,14 @@
       "onboard_time": 1726487420,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 119554,
+      "num": 119554,
+      "word": "国羽女单时隔9年再夺中公冠军",
+      "onboard_time": 1726999821,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 119475,
@@ -50979,6 +51059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 113796,
+      "num": 113796,
+      "word": "女朋友没哄好把我哄好了",
+      "onboard_time": 1727000360,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 113708,
       "num": 129534,
       "word": "共赴一场KPL金雨之约",
@@ -51049,6 +51137,14 @@
       "onboard_time": 1726696631,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 113256,
+      "num": 223174,
+      "word": "我只记得爸爸的颜色是迷彩服",
+      "onboard_time": 1726999399,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 113212,
@@ -51681,6 +51777,14 @@
       "onboard_time": 1725779299,
       "rank": 45,
       "category": "国内时政,科学科普"
+    },
+    {
+      "raw_hot": 109629,
+      "num": 109629,
+      "word": "妻子不能怀孕丈夫请求撤销婚姻",
+      "onboard_time": 1727000420,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 109616,
@@ -54337,14 +54441,6 @@
       "onboard_time": 1725285743,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 84792,
-      "num": 292805,
-      "word": "Alan的伴郎有郑元畅明道",
-      "onboard_time": 1726995979,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 84730,
@@ -59587,6 +59683,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 42885,
+      "num": 865932,
+      "word": "天山南北唱新歌",
+      "onboard_time": 1726998799,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 42799,
       "num": 521998,
       "word": "李现与知识分子风的适配度",
@@ -62129,6 +62233,14 @@
       "onboard_time": 1725248839,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 31610,
+      "num": 125143,
+      "word": "搜狐视频播主大会",
+      "onboard_time": 1726999221,
+      "rank": 39,
+      "category": "互联网,作品衍生"
     },
     {
       "raw_hot": 31601,
