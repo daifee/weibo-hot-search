@@ -1,6 +1,6 @@
 {
   "startTime": 1726936020707,
-  "endTime": 1726989555372,
+  "endTime": 1726990512303,
   "band_list": [
     {
       "raw_hot": 4059841,
@@ -33,6 +33,14 @@
       "onboard_time": 1726964538,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1607990,
+      "num": 1607990,
+      "word": "陈乔恩的伴娘团",
+      "onboard_time": 1726988960,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1585914,
@@ -83,6 +91,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1191794,
+      "num": 1171363,
+      "word": "赵丽颖雷佳音没睡醒就要开会",
+      "onboard_time": 1726989439,
+      "rank": 0,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1129528,
       "num": 1129528,
       "word": "叶剑英元帅长女叶楚梅逝世",
@@ -105,14 +121,6 @@
       "onboard_time": 1726979779,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1071022,
-      "num": 1171363,
-      "word": "赵丽颖雷佳音没睡醒就要开会",
-      "onboard_time": 1726989439,
-      "rank": 0,
-      "category": "剧集"
     },
     {
       "raw_hot": 1030674,
@@ -155,6 +163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 823236,
+      "num": 823236,
+      "word": "高空抛物伤人全楼查DNA后男子自首",
+      "onboard_time": 1726988299,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 819975,
       "num": 819975,
       "word": "成都警方通报一起人员坠亡事件",
@@ -171,12 +187,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 808590,
-      "num": 339540,
-      "word": "陈乔恩的伴娘团",
-      "onboard_time": 1726988960,
-      "rank": 10,
-      "category": "艺人"
+      "raw_hot": 788154,
+      "num": 788154,
+      "word": "山东齐河县政府财政局办公楼起火",
+      "onboard_time": 1726985361,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 778129,
@@ -211,14 +227,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 686792,
-      "num": 686792,
-      "word": "山东齐河县政府财政局办公楼起火",
-      "onboard_time": 1726985361,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 685198,
       "num": 386388,
       "word": "李荣浩 谢谢大家对我们全家的支持",
@@ -233,6 +241,14 @@
       "onboard_time": 1726978219,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 661500,
+      "num": 377827,
+      "word": "王俊凯 CL",
+      "onboard_time": 1726989259,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 654888,
@@ -348,7 +364,7 @@
     },
     {
       "raw_hot": 465443,
-      "num": 239821,
+      "num": 299935,
       "word": "陈乔恩Alan婚礼现场图",
       "onboard_time": 1726983920,
       "rank": 22,
@@ -524,11 +540,19 @@
     },
     {
       "raw_hot": 343142,
-      "num": 162052,
+      "num": 190522,
       "word": "嘉行传媒十周年",
       "onboard_time": 1726987399,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 335224,
+      "num": 191248,
+      "word": "白鹿首唱会",
+      "onboard_time": 1726990221,
+      "rank": 22,
+      "category": "音乐"
     },
     {
       "raw_hot": 318185,
@@ -555,14 +579,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 292059,
-      "num": 292059,
-      "word": "高空抛物伤人全楼查DNA后男子自首",
-      "onboard_time": 1726988299,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 283025,
       "num": 283025,
       "word": "被砍后反杀凶手男子家属发声",
@@ -577,14 +593,6 @@
       "onboard_time": 1726984402,
       "rank": 24,
       "category": "情感"
-    },
-    {
-      "raw_hot": 272637,
-      "num": 161312,
-      "word": "王俊凯 CL",
-      "onboard_time": 1726989259,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 272426,
@@ -787,6 +795,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 203829,
+      "num": 189326,
+      "word": "猫系美女",
+      "onboard_time": 1726986979,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 203344,
       "num": 203344,
       "word": "年轻人开始买金条代替结婚三金",
@@ -859,20 +875,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 192976,
+      "num": 192976,
+      "word": "樊振东汗流浃背了吧",
+      "onboard_time": 1726984041,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 192967,
       "num": 192967,
       "word": "肖战加盟2024湾区升明月",
       "onboard_time": 1726986859,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 189945,
-      "num": 189945,
-      "word": "樊振东汗流浃背了吧",
-      "onboard_time": 1726984041,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 188421,
@@ -889,6 +905,14 @@
       "onboard_time": 1726979300,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 187690,
+      "num": 187690,
+      "word": "两母亲吵架一女子抄起玩具砸向孩子",
+      "onboard_time": 1726990099,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 183686,
@@ -995,14 +1019,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 167728,
-      "num": 154783,
-      "word": "猫系美女",
-      "onboard_time": 1726986979,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 167504,
       "num": 112089,
       "word": "漫长的季节",
@@ -1083,6 +1099,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 161256,
+      "num": 161256,
+      "word": "迪丽热巴超飒花絮图",
+      "onboard_time": 1726990279,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 158412,
       "num": 158412,
       "word": "半熟男女三女主义",
@@ -1113,6 +1137,14 @@
       "onboard_time": 1726979539,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 154601,
+      "num": 154601,
+      "word": "张晚意第一次来飞天奖",
+      "onboard_time": 1726989858,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 154439,
@@ -1195,6 +1227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 146562,
+      "num": 260612,
+      "word": "当事大学生回应拟被聘为中学勤杂工",
+      "onboard_time": 1726986979,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 145840,
       "num": 145840,
       "word": "江苏一地公示15名干部6人有曾用名",
@@ -1225,6 +1265,14 @@
       "onboard_time": 1726922301,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 142857,
+      "num": 142857,
+      "word": "便宜的眼镜真的会伤眼吗",
+      "onboard_time": 1726989019,
+      "rank": 41,
+      "category": "科学科普"
     },
     {
       "raw_hot": 141149,
@@ -1347,6 +1395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 123420,
+      "num": 123420,
+      "word": "周雨彤演技",
+      "onboard_time": 1726989680,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 122902,
       "num": 276335,
       "word": "女子美甲后指甲变绿全甲被拔除",
@@ -1377,6 +1433,14 @@
       "onboard_time": 1726984162,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 114900,
+      "num": 114900,
+      "word": "300块和3000块的眼镜区别有多大",
+      "onboard_time": 1726990339,
+      "rank": 43,
+      "category": "美妆"
     },
     {
       "raw_hot": 114526,
@@ -1411,12 +1475,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 109824,
-      "num": 109824,
-      "word": "便宜的眼镜真的会伤眼吗",
-      "onboard_time": 1726989019,
-      "rank": 41,
-      "category": "科学科普"
+      "raw_hot": 110558,
+      "num": 110558,
+      "word": "张韶涵东北穿貂唱阿刁",
+      "onboard_time": 1726989918,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 108861,
@@ -1433,14 +1497,6 @@
       "onboard_time": 1726922541,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 102716,
-      "num": 260612,
-      "word": "当事大学生回应拟被聘为中学勤杂工",
-      "onboard_time": 1726986979,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 102491,
@@ -1771,6 +1827,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 30269,
+      "num": 268637,
+      "word": "以军连续2天对黎发动猛攻",
+      "onboard_time": 1726988359,
+      "rank": 29,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 30102,
       "num": 245327,
       "word": "李宁新出了陶瓷设计款",
@@ -1801,14 +1865,6 @@
       "onboard_time": 1726952050,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 27847,
-      "num": 156274,
-      "word": "以军连续2天对黎发动猛攻",
-      "onboard_time": 1726988359,
-      "rank": 29,
-      "category": "国外时政"
     },
     {
       "raw_hot": 27687,
@@ -1859,7 +1915,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 21607,
+      "raw_hot": 22632,
       "num": 112634,
       "word": "看音乐节主打一个花里胡哨",
       "onboard_time": 1726986919,
@@ -1931,11 +1987,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 11880,
+      "num": 284930,
+      "word": "直播带货为何屡屡遭遇信任危机",
+      "onboard_time": 1726990158,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 11698,
       "num": 67405,
       "word": "浙江厨神外婆每天给外孙做花式早点",
       "onboard_time": 1726956913,
       "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 10608,
+      "num": 192532,
+      "word": "宠物店卖星期宠被诉改头换面继续营业",
+      "onboard_time": 1726990279,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
