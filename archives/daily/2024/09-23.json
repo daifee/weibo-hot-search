@@ -1,6 +1,6 @@
 {
   "startTime": 1727022296039,
-  "endTime": 1727023239751,
+  "endTime": 1727025541035,
   "band_list": [
     {
       "raw_hot": 4119718,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 922325,
-      "num": 289346,
+      "num": 330336,
       "word": "刘琳祝贺赵丽颖",
       "onboard_time": 1727020942,
       "rank": 10,
@@ -99,12 +99,36 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 363180,
+      "num": 363180,
+      "word": "为什么超市买不到1元的冰露了",
+      "onboard_time": 1727020821,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 347225,
+      "num": 185352,
+      "word": "把难吃表现得淋漓尽致",
+      "onboard_time": 1727020761,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 345011,
       "num": 345011,
       "word": "千万身价老板破产法院4元拍卖雪碧",
       "onboard_time": 1727009182,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 299442,
+      "num": 130221,
+      "word": "单依纯修音响来了",
+      "onboard_time": 1727024297,
+      "rank": 12,
+      "category": "音乐"
     },
     {
       "raw_hot": 299377,
@@ -121,14 +145,6 @@
       "onboard_time": 1727022798,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 268092,
-      "num": 268092,
-      "word": "为什么超市买不到1元的冰露了",
-      "onboard_time": 1727020821,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 257366,
@@ -177,6 +193,14 @@
       "onboard_time": 1727015305,
       "rank": 22,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 214087,
+      "num": 185712,
+      "word": "黄绮珊晒与樊振东登陆少年合照",
+      "onboard_time": 1727019862,
+      "rank": 28,
+      "category": "音乐,体育"
     },
     {
       "raw_hot": 210735,
@@ -235,22 +259,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 185712,
-      "num": 185712,
-      "word": "黄绮珊晒与樊振东登陆少年合照",
-      "onboard_time": 1727019862,
-      "rank": 28,
-      "category": "音乐,体育"
-    },
-    {
-      "raw_hot": 185352,
-      "num": 185352,
-      "word": "把难吃表现得淋漓尽致",
-      "onboard_time": 1727020761,
-      "rank": 38,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 185172,
       "num": 185172,
       "word": "aespa迷你五辑预告",
@@ -265,6 +273,14 @@
       "onboard_time": 1727001499,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 180099,
+      "num": 160936,
+      "word": "经常做梦和很少做梦谁睡眠质量好",
+      "onboard_time": 1727020761,
+      "rank": 39,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 177382,
@@ -331,14 +347,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 146041,
-      "num": 160936,
-      "word": "经常做梦和很少做梦谁睡眠质量好",
-      "onboard_time": 1727020761,
-      "rank": 39,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 145001,
       "num": 145001,
       "word": "白鹿哭了",
@@ -371,6 +379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 135114,
+      "num": 107918,
+      "word": "周笔畅live的神",
+      "onboard_time": 1727024297,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 129982,
       "num": 214797,
       "word": "央视曝光包治百病的保健床垫骗局",
@@ -385,6 +401,14 @@
       "onboard_time": 1727018543,
       "rank": 45,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 116615,
+      "num": 107652,
+      "word": "林宥嘉唱成全",
+      "onboard_time": 1727024476,
+      "rank": 26,
+      "category": "演出,音乐"
     },
     {
       "raw_hot": 103979,
@@ -403,11 +427,35 @@
       "category": "数码"
     },
     {
+      "raw_hot": 98951,
+      "num": 98951,
+      "word": "张小斐好美",
+      "onboard_time": 1727023278,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 92469,
       "num": 121035,
       "word": "妻子不能怀孕丈夫请求撤销婚姻",
       "onboard_time": 1727000420,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 88466,
+      "num": 88466,
+      "word": "郁可唯好听",
+      "onboard_time": 1727024356,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 87337,
+      "num": 108270,
+      "word": "央视揭秘黑发产品骗局",
+      "onboard_time": 1727023398,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -419,6 +467,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 78158,
+      "num": 85842,
+      "word": "西湖里有片叶子能站200斤的人",
+      "onboard_time": 1727023937,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 77424,
       "num": 107748,
       "word": "游客逛累了坐着就把电充满了",
@@ -427,12 +483,36 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 72257,
+      "num": 72257,
+      "word": "樊振东直拍",
+      "onboard_time": 1727009062,
+      "rank": 44,
+      "category": "音乐,体育"
+    },
+    {
+      "raw_hot": 46929,
+      "num": 71976,
+      "word": "Cat解说杯FMVP",
+      "onboard_time": 1727020521,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 27857,
       "num": 268910,
       "word": "中国农民丰收节晚会",
       "onboard_time": 1727019263,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 16686,
+      "num": 108324,
+      "word": "曾无法上体育课的她夺得举重世界冠军",
+      "onboard_time": 1727025315,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 5707,

@@ -1,6 +1,6 @@
 {
   "startTime": 1726936020707,
-  "endTime": 1727023239751,
+  "endTime": 1727025541035,
   "band_list": [
     {
       "raw_hot": 6817146,
@@ -332,7 +332,7 @@
     },
     {
       "raw_hot": 922325,
-      "num": 289346,
+      "num": 330336,
       "word": "刘琳祝贺赵丽颖",
       "onboard_time": 1727020942,
       "rank": 10,
@@ -995,6 +995,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 363180,
+      "num": 363180,
+      "word": "为什么超市买不到1元的冰露了",
+      "onboard_time": 1727020821,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 357794,
       "num": 287621,
       "word": "300块和3000块的眼镜区别有多大",
@@ -1017,6 +1025,14 @@
       "onboard_time": 1726967720,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 347225,
+      "num": 185352,
+      "word": "把难吃表现得淋漓尽致",
+      "onboard_time": 1727020761,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 343242,
@@ -1147,6 +1163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 299442,
+      "num": 130221,
+      "word": "单依纯修音响来了",
+      "onboard_time": 1727024297,
+      "rank": 12,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 293663,
       "num": 236879,
       "word": "姚安娜演技",
@@ -1201,14 +1225,6 @@
       "onboard_time": 1727022798,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 268092,
-      "num": 268092,
-      "word": "为什么超市买不到1元的冰露了",
-      "onboard_time": 1727020821,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 267994,
@@ -1529,6 +1545,14 @@
       "onboard_time": 1726961355,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 214087,
+      "num": 185712,
+      "word": "黄绮珊晒与樊振东登陆少年合照",
+      "onboard_time": 1727019862,
+      "rank": 28,
+      "category": "音乐,体育"
     },
     {
       "raw_hot": 212848,
@@ -1875,22 +1899,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 185712,
-      "num": 185712,
-      "word": "黄绮珊晒与樊振东登陆少年合照",
-      "onboard_time": 1727019862,
-      "rank": 28,
-      "category": "音乐,体育"
-    },
-    {
-      "raw_hot": 185352,
-      "num": 185352,
-      "word": "把难吃表现得淋漓尽致",
-      "onboard_time": 1727020761,
-      "rank": 38,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 184064,
       "num": 243666,
       "word": "美国伯明翰发生大规模枪击事件",
@@ -1953,6 +1961,14 @@
       "onboard_time": 1727002702,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 180099,
+      "num": 160936,
+      "word": "经常做梦和很少做梦谁睡眠质量好",
+      "onboard_time": 1727020761,
+      "rank": 39,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 179869,
@@ -2387,14 +2403,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 146041,
-      "num": 160936,
-      "word": "经常做梦和很少做梦谁睡眠质量好",
-      "onboard_time": 1727020761,
-      "rank": 39,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 145840,
       "num": 145840,
       "word": "江苏一地公示15名干部6人有曾用名",
@@ -2505,6 +2513,14 @@
       "onboard_time": 1727001562,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 135114,
+      "num": 107918,
+      "word": "周笔畅live的神",
+      "onboard_time": 1727024297,
+      "rank": 23,
+      "category": "音乐"
     },
     {
       "raw_hot": 133819,
@@ -2739,6 +2755,14 @@
       "category": "演出,电竞"
     },
     {
+      "raw_hot": 116615,
+      "num": 107652,
+      "word": "林宥嘉唱成全",
+      "onboard_time": 1727024476,
+      "rank": 26,
+      "category": "演出,音乐"
+    },
+    {
       "raw_hot": 116258,
       "num": 116258,
       "word": "灵儿改造的对象终于到了拖米",
@@ -2883,6 +2907,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 98951,
+      "num": 98951,
+      "word": "张小斐好美",
+      "onboard_time": 1727023278,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 97654,
       "num": 97654,
       "word": "出走的决心",
@@ -2931,6 +2963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 88466,
+      "num": 88466,
+      "word": "郁可唯好听",
+      "onboard_time": 1727024356,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 88024,
       "num": 211874,
       "word": "老人离世老伴拿出6份遗嘱均被判无效",
@@ -2945,6 +2985,14 @@
       "onboard_time": 1726934061,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 87337,
+      "num": 108270,
+      "word": "央视揭秘黑发产品骗局",
+      "onboard_time": 1727023398,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 87330,
@@ -3017,6 +3065,14 @@
       "onboard_time": 1726917081,
       "rank": 30,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 78158,
+      "num": 85842,
+      "word": "西湖里有片叶子能站200斤的人",
+      "onboard_time": 1727023937,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 77424,
@@ -3225,6 +3281,14 @@
       "onboard_time": 1727014224,
       "rank": 37,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 46929,
+      "num": 71976,
+      "word": "Cat解说杯FMVP",
+      "onboard_time": 1727020521,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 46501,
@@ -3521,6 +3585,14 @@
       "onboard_time": 1726933882,
       "rank": 46,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 16686,
+      "num": 108324,
+      "word": "曾无法上体育课的她夺得举重世界冠军",
+      "onboard_time": 1727025315,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 16472,
