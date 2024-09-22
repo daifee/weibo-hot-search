@@ -1,6 +1,6 @@
 {
   "startTime": 1726936020707,
-  "endTime": 1727003828012,
+  "endTime": 1727004906737,
   "band_list": [
     {
       "raw_hot": 4059841,
@@ -9,6 +9,14 @@
       "onboard_time": 1726927947,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 3810872,
+      "num": 3810872,
+      "word": "谢娜给陈乔恩66666.66红包",
+      "onboard_time": 1727003241,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 3504044,
@@ -33,14 +41,6 @@
       "onboard_time": 1726996880,
       "rank": 8,
       "category": "教育"
-    },
-    {
-      "raw_hot": 2494290,
-      "num": 2494290,
-      "word": "谢娜给陈乔恩66666.66红包",
-      "onboard_time": 1727003241,
-      "rank": 0,
-      "category": "艺人"
     },
     {
       "raw_hot": 2382835,
@@ -163,6 +163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1065722,
+      "num": 533455,
+      "word": "吴谨言希望成为赵丽颖",
+      "onboard_time": 1727001499,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1030674,
       "num": 489777,
       "word": "刘雨鑫为殷桃发声",
@@ -171,19 +179,19 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 979238,
+      "num": 979238,
+      "word": "山姆10天翻车3次",
+      "onboard_time": 1727001800,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 930683,
       "num": 463878,
       "word": "妻子不能怀孕丈夫请求撤销婚姻",
       "onboard_time": 1727000420,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 910120,
-      "num": 910120,
-      "word": "山姆10天翻车3次",
-      "onboard_time": 1727001800,
-      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -507,14 +515,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 463874,
-      "num": 463874,
-      "word": "吴谨言希望成为赵丽颖",
-      "onboard_time": 1727001499,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 463170,
       "num": 463170,
       "word": "黎巴嫩发射火箭弹回应爆炸事件",
@@ -577,6 +577,14 @@
       "onboard_time": 1726976479,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 425894,
+      "num": 425894,
+      "word": "苹果客服回应iPhone16使用钢壳电池",
+      "onboard_time": 1727001441,
+      "rank": 46,
+      "category": "数码"
     },
     {
       "raw_hot": 422193,
@@ -699,6 +707,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 353813,
+      "num": 353813,
+      "word": "湾区升明月直播封面图",
+      "onboard_time": 1727001020,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 349856,
       "num": 206250,
       "word": "汪峰凭一己之力让13个人尴尬",
@@ -737,14 +753,6 @@
       "onboard_time": 1727001020,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 335665,
-      "num": 335665,
-      "word": "苹果客服回应iPhone16使用钢壳电池",
-      "onboard_time": 1727001441,
-      "rank": 46,
-      "category": "数码"
     },
     {
       "raw_hot": 334600,
@@ -803,11 +811,11 @@
       "category": "情感"
     },
     {
-      "raw_hot": 276851,
-      "num": 276851,
-      "word": "湾区升明月直播封面图",
-      "onboard_time": 1727001020,
-      "rank": 26,
+      "raw_hot": 276008,
+      "num": 276008,
+      "word": "湾区升明月",
+      "onboard_time": 1727004261,
+      "rank": 16,
       "category": "音乐"
     },
     {
@@ -825,6 +833,14 @@
       "onboard_time": 1726994119,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 267451,
+      "num": 241088,
+      "word": "女朋友没哄好把我哄好了",
+      "onboard_time": 1727000360,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 265596,
@@ -931,14 +947,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 239620,
-      "num": 239620,
-      "word": "女朋友没哄好把我哄好了",
-      "onboard_time": 1727000360,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 239485,
       "num": 239485,
       "word": "易烊千玺在评论区为王俊凯庆生",
@@ -979,6 +987,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 227237,
+      "num": 227237,
+      "word": "胡冰卿粉发",
+      "onboard_time": 1727002941,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 227064,
       "num": 227064,
       "word": "撤回一个刘浩存",
@@ -1001,6 +1017,14 @@
       "onboard_time": 1727000780,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 223803,
+      "num": 223803,
+      "word": "世界之外",
+      "onboard_time": 1727004082,
+      "rank": 25,
+      "category": "游戏"
     },
     {
       "raw_hot": 220976,
@@ -1067,12 +1091,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 206081,
-      "num": 206081,
+      "raw_hot": 208938,
+      "num": 208938,
       "word": "2024湾区升明月节目单",
       "onboard_time": 1726991719,
       "rank": 29,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 206734,
+      "num": 206734,
+      "word": "任翔宇受伤",
+      "onboard_time": 1727003601,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 205988,
@@ -1211,6 +1243,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 195556,
+      "num": 195556,
+      "word": "冯巩一句我想死你们了婚礼秒变春晚",
+      "onboard_time": 1727003059,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 194922,
       "num": 194922,
       "word": "世界犀牛日",
@@ -1283,14 +1323,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 182658,
-      "num": 182658,
-      "word": "胡冰卿粉发",
-      "onboard_time": 1727002941,
-      "rank": 31,
-      "category": "电影"
-    },
-    {
       "raw_hot": 181899,
       "num": 158543,
       "word": "白鹿甜酷女团风",
@@ -1313,6 +1345,14 @@
       "onboard_time": 1726979841,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 181434,
+      "num": 181434,
+      "word": "张碧晨王栎鑫 地狱聊天",
+      "onboard_time": 1727002702,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 179869,
@@ -1347,14 +1387,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 175881,
-      "num": 175881,
-      "word": "任翔宇受伤",
-      "onboard_time": 1727003601,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
       "raw_hot": 175566,
       "num": 274304,
       "word": "秋分也是丰收节",
@@ -1369,6 +1401,14 @@
       "onboard_time": 1727001680,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 173640,
+      "num": 173640,
+      "word": "赖美云 全红蝉像一棵小草",
+      "onboard_time": 1727004382,
+      "rank": 34,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 173610,
@@ -1411,6 +1451,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 169322,
+      "num": 169322,
+      "word": "登陆少年表演hello大湾",
+      "onboard_time": 1727004621,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 169076,
       "num": 169076,
       "word": "加沙人问4个月大的胎儿做错了什么",
@@ -1441,6 +1489,14 @@
       "onboard_time": 1727001620,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 166467,
+      "num": 166467,
+      "word": "王力宏今晚唱我们的歌",
+      "onboard_time": 1727003422,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 166286,
@@ -1587,14 +1643,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 152979,
-      "num": 152979,
-      "word": "王力宏今晚唱我们的歌",
-      "onboard_time": 1727003422,
-      "rank": 35,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 152846,
       "num": 152846,
       "word": "电视剧三大奖大满贯名单",
@@ -1723,14 +1771,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 140993,
-      "num": 140993,
-      "word": "张碧晨王栎鑫 地狱聊天",
-      "onboard_time": 1727002702,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 140227,
       "num": 140227,
       "word": "肖战2024湾区升明月彩排",
@@ -1745,6 +1785,14 @@
       "onboard_time": 1726974619,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 136544,
+      "num": 136544,
+      "word": "潘展乐说每天1.5万米雷打不动",
+      "onboard_time": 1727001562,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 133819,
@@ -1769,14 +1817,6 @@
       "onboard_time": 1726993758,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 132448,
-      "num": 132448,
-      "word": "冯巩一句我想死你们了婚礼秒变春晚",
-      "onboard_time": 1727003059,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 132094,
@@ -1832,14 +1872,6 @@
       "word": "盛李豪实现全锦赛三连冠",
       "onboard_time": 1727002102,
       "rank": 36,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 127529,
-      "num": 125065,
-      "word": "潘展乐说每天1.5万米雷打不动",
-      "onboard_time": 1727001562,
-      "rank": 46,
       "category": "体育"
     },
     {
@@ -2156,7 +2188,7 @@
     },
     {
       "raw_hot": 82985,
-      "num": 197739,
+      "num": 394784,
       "word": "不成熟的恋爱能谈吗",
       "onboard_time": 1727003361,
       "rank": 29,
@@ -2267,6 +2299,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 66176,
+      "num": 463881,
+      "word": "不戴眼镜真的会影响听力吗",
+      "onboard_time": 1727003422,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 64758,
       "num": 64758,
       "word": "周深把音响加到鸟巢承重极限",
@@ -2305,6 +2345,14 @@
       "onboard_time": 1726993699,
       "rank": 38,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 57432,
+      "num": 463987,
+      "word": "加沙一避难学校17次遭袭",
+      "onboard_time": 1727003541,
+      "rank": 8,
+      "category": "国外时政"
     },
     {
       "raw_hot": 54428,
@@ -2369,14 +2417,6 @@
       "onboard_time": 1726957392,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 49651,
-      "num": 463987,
-      "word": "加沙一避难学校17次遭袭",
-      "onboard_time": 1727003541,
-      "rank": 8,
-      "category": "国外时政"
     },
     {
       "raw_hot": 46501,
@@ -2553,14 +2593,6 @@
       "onboard_time": 1726932383,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 25445,
-      "num": 463881,
-      "word": "不戴眼镜真的会影响听力吗",
-      "onboard_time": 1727003422,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 22685,
