@@ -1,6 +1,6 @@
 {
   "startTime": 1726936020707,
-  "endTime": 1727126446050,
+  "endTime": 1727127325773,
   "band_list": [
     {
       "raw_hot": 6817146,
@@ -5484,7 +5484,7 @@
     },
     {
       "raw_hot": 87268,
-      "num": 59463,
+      "num": 59511,
       "word": "筋膜枪的真正作用只有一个",
       "onboard_time": 1727114892,
       "rank": 23,
@@ -5657,6 +5657,14 @@
       "onboard_time": 1726925122,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 74602,
+      "num": 74602,
+      "word": "落水身亡网红驾驶摩托艇系个人所有",
+      "onboard_time": 1727122632,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 74478,
@@ -6371,14 +6379,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 33065,
-      "num": 52898,
-      "word": "落水身亡网红驾驶摩托艇系个人所有",
-      "onboard_time": 1727122632,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 32633,
       "num": 535330,
       "word": "法拍房催生职业清房人",
@@ -6619,8 +6619,16 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 24041,
-      "num": 24041,
+      "raw_hot": 25083,
+      "num": 41363,
+      "word": "大货车顶推红色奔驰双方司机都很懵",
+      "onboard_time": 1727121970,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 24261,
+      "num": 24261,
       "word": "官方回应运管人员穿便服封网约车账号",
       "onboard_time": 1727120050,
       "rank": 49,
@@ -6641,14 +6649,6 @@
       "onboard_time": 1727113753,
       "rank": 42,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 22800,
-      "num": 22800,
-      "word": "大货车顶推红色奔驰双方司机都很懵",
-      "onboard_time": 1727121970,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 22685,
@@ -6731,12 +6731,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 18262,
+      "raw_hot": 19359,
       "num": 23984,
       "word": "专坑家人们的主播该下架了",
       "onboard_time": 1727115432,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 18785,
+      "num": 19046,
+      "word": "肖战往事随风高音绝了",
+      "onboard_time": 1727114173,
+      "rank": 39,
+      "category": "音乐"
     },
     {
       "raw_hot": 18193,
@@ -6755,12 +6763,12 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 18014,
-      "num": 18918,
-      "word": "肖战往事随风高音绝了",
-      "onboard_time": 1727114173,
-      "rank": 39,
-      "category": "音乐"
+      "raw_hot": 17858,
+      "num": 19037,
+      "word": "重庆反家暴立法新实践10月1日起实施",
+      "onboard_time": 1727123830,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 17628,
@@ -6785,14 +6793,6 @@
       "onboard_time": 1727119752,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 16767,
-      "num": 18893,
-      "word": "重庆反家暴立法新实践10月1日起实施",
-      "onboard_time": 1727123830,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 16686,
@@ -6840,6 +6840,14 @@
       "word": "最治愈的风景在家乡",
       "onboard_time": 1727030472,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 15239,
+      "num": 19030,
+      "word": "红薯粉里没有红薯涉虚假宣传",
+      "onboard_time": 1727127191,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
