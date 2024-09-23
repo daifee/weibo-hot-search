@@ -1,0 +1,410 @@
+{
+  "runTime": 1727126446050,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 86039,
+        "num": 124877,
+        "word": "东北雨姐丈夫回应博主打假被真打",
+        "onboard_time": 1727096421,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 79663,
+        "num": 79663,
+        "word": "原来人会从34岁开始变老",
+        "onboard_time": 1727105299,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1763,
+        "num": 72257,
+        "word": "文化中国行看巴丹吉林沙漠之美",
+        "onboard_time": 1727080280,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 69483,
+        "num": 69483,
+        "word": "极乐鸟工作室",
+        "onboard_time": 1727103920,
+        "rank": 3,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 64654,
+        "num": 64654,
+        "word": "女公职人员举报官员出轨强迫其堕胎",
+        "onboard_time": 1727101821,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 62941,
+        "num": 62941,
+        "word": "以军空袭黎巴嫩多地致275死1024伤",
+        "onboard_time": 1727105359,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 58383,
+        "num": 58383,
+        "word": "知情人称嫌犯李娜已在韩国落网",
+        "onboard_time": 1727092760,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 54675,
+        "num": 54675,
+        "word": "以前不理解李慧珍 上班后老实了",
+        "onboard_time": 1727105479,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 28786,
+        "num": 54452,
+        "word": "半熟男女 酸笋哥",
+        "onboard_time": 1727090540,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 33065,
+        "num": 52898,
+        "word": "落水身亡网红驾驶摩托艇系个人所有",
+        "onboard_time": 1727122632,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 58933,
+        "num": 52072,
+        "word": "拜登忘关话筒密谋应对所谓中国考验",
+        "onboard_time": 1727088800,
+        "rank": 10,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 58743,
+        "num": 51666,
+        "word": "筋膜枪的真正作用只有一个",
+        "onboard_time": 1727114892,
+        "rank": 11,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 50997,
+        "num": 50997,
+        "word": "3胎妈妈怀孕9月从未产检患心衰脑出血",
+        "onboard_time": 1727098100,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 49118,
+        "num": 49118,
+        "word": "看似正常实则是抑郁的隐形信号",
+        "onboard_time": 1727097621,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 48529,
+        "num": 48529,
+        "word": "法院4.2元拍卖一瓶大雪碧已撤拍",
+        "onboard_time": 1727118732,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46713,
+        "num": 46713,
+        "word": "大伯长期喝浓茶得胆结石做7次手术",
+        "onboard_time": 1727117171,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26381,
+        "num": 45896,
+        "word": "肖战湾区升明月vlog",
+        "onboard_time": 1727103141,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 26333,
+        "num": 44386,
+        "word": "爱奇艺上半年预期的爆款都有偏差",
+        "onboard_time": 1727110215,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 26140,
+        "num": 41792,
+        "word": "李诞自曝开直播是为了躲酒",
+        "onboard_time": 1727096121,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21949,
+        "num": 41304,
+        "word": "国色芳华",
+        "onboard_time": 1727099841,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 91997,
+        "num": 38543,
+        "word": "江歌妈妈不服判决准备上诉",
+        "onboard_time": 1727096601,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50055,
+        "num": 38438,
+        "word": "全网首个粉丝破亿女主播诞生",
+        "onboard_time": 1727095459,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 36861,
+        "num": 36861,
+        "word": "东北雨姐评论区关评刷屏",
+        "onboard_time": 1727107217,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31416,
+        "num": 31416,
+        "word": "研究生小伙打瘦脸针中毒暴瘦10斤",
+        "onboard_time": 1727096660,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26393,
+        "num": 26393,
+        "word": "多名考生反映连收10多条保研拒信",
+        "onboard_time": 1727100801,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25786,
+        "num": 25786,
+        "word": "小英女儿要吃漂亮饭片段被再提",
+        "onboard_time": 1727093480,
+        "rank": 25,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 25410,
+        "num": 25410,
+        "word": "女子提醒男子不要吸烟被砸碗辱骂",
+        "onboard_time": 1727110514,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25314,
+        "num": 25314,
+        "word": "外交部回应拜登称中国咄咄逼人",
+        "onboard_time": 1727116272,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 25103,
+        "num": 25103,
+        "word": "2中企高管在菲被撕票嫌犯李娜韩国落网",
+        "onboard_time": 1727098940,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20846,
+        "num": 25098,
+        "word": "半熟男女凤凰男",
+        "onboard_time": 1727088499,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 25098,
+        "num": 25097,
+        "word": "11岁女孩沉迷买卡仨月花了一万二",
+        "onboard_time": 1727089940,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24041,
+        "num": 24041,
+        "word": "官方回应运管人员穿便服封网约车账号",
+        "onboard_time": 1727120050,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22800,
+        "num": 22800,
+        "word": "大货车顶推红色奔驰双方司机都很懵",
+        "onboard_time": 1727121970,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21971,
+        "num": 21971,
+        "word": "韩国水泥价格暴涨",
+        "onboard_time": 1727107817,
+        "rank": 33,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 21893,
+        "num": 21893,
+        "word": "容易内耗的人都有一个共性",
+        "onboard_time": 1727104101,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 20675,
+        "num": 20675,
+        "word": "恋与深空",
+        "onboard_time": 1727093120,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 20557,
+        "num": 20557,
+        "word": "官方全面叫停知名文保建筑挂灯笼",
+        "onboard_time": 1727102180,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20435,
+        "num": 20435,
+        "word": "心动的信号 观察室",
+        "onboard_time": 1727093120,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19860,
+        "num": 19860,
+        "word": "武艺大方承认自己的理想型是沈月",
+        "onboard_time": 1727078481,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19706,
+        "num": 19706,
+        "word": "派出所回应喜来登被指提供色情服务",
+        "onboard_time": 1727118552,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19131,
+        "num": 19131,
+        "word": "白鹿直播",
+        "onboard_time": 1727092400,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18887,
+        "num": 18887,
+        "word": "老板回应被西班牙网红夫妇吐槽咖啡贵",
+        "onboard_time": 1727094681,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18014,
+        "num": 18887,
+        "word": "肖战往事随风高音绝了",
+        "onboard_time": 1727114173,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 17876,
+        "num": 18886,
+        "word": "半熟男女",
+        "onboard_time": 1727087779,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17648,
+        "num": 18885,
+        "word": "专坑家人们的主播该下架了",
+        "onboard_time": 1727115432,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 17582,
+        "num": 18884,
+        "word": "律师解读博主上门打假网红商品",
+        "onboard_time": 1727103980,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 16923,
+        "num": 18884,
+        "word": "黑泽嘻嘻 雅不嘻嘻",
+        "onboard_time": 1727112853,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 16767,
+        "num": 18883,
+        "word": "重庆反家暴立法新实践10月1日起实施",
+        "onboard_time": 1727123830,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 16012,
+        "num": 18883,
+        "word": "内蒙古阿尔山秋色浓郁宛如油画",
+        "onboard_time": 1727125691,
+        "rank": 48,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 15842,
+        "num": 18881,
+        "word": "邓为巴黎街拍",
+        "onboard_time": 1727105779,
+        "rank": 49,
+        "category": "作品衍生,时尚"
+      }
+    ],
+    "hotgov": {
+      "word": "#加快建设航天强国#"
+    }
+  }
+}
