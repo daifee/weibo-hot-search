@@ -1,0 +1,410 @@
+{
+  "runTime": 1727090334448,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1602672,
+        "num": 1602672,
+        "word": "预制朋友圈",
+        "onboard_time": 1727085498,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1219278,
+        "num": 1219278,
+        "word": "博主称打假东北雨姐反被打",
+        "onboard_time": 1727086518,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 9571,
+        "num": 979535,
+        "word": "文化中国行看巴丹吉林沙漠之美",
+        "onboard_time": 1727080280,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 846973,
+        "num": 846973,
+        "word": "拜登忘关话筒密谋应对所谓中国考验",
+        "onboard_time": 1727088800,
+        "rank": 3,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 620184,
+        "num": 620184,
+        "word": "刘耀文直播",
+        "onboard_time": 1727087059,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 607030,
+        "num": 607030,
+        "word": "武艺大方承认自己的理想型是沈月",
+        "onboard_time": 1727078481,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 478152,
+        "num": 478152,
+        "word": "江歌妈妈诉陈岚因证据不足被驳回",
+        "onboard_time": 1727083940,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 602014,
+        "num": 477967,
+        "word": "樊振东退场忘关麦和全红婵开心对话",
+        "onboard_time": 1727082440,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115217,
+        "num": 477721,
+        "word": "舍不得星星",
+        "onboard_time": 1727088079,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 46918,
+        "num": 477511,
+        "word": "陶勇医生发文继续为大家服务",
+        "onboard_time": 1727089399,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1125658,
+        "num": 477426,
+        "word": "致6死7伤肇事车司机绝望大喊完了",
+        "onboard_time": 1727075719,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 477188,
+        "num": 477188,
+        "word": "法院4.2元拍卖一瓶大雪碧限自提",
+        "onboard_time": 1727083159,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 416878,
+        "num": 416878,
+        "word": "17岁小伙来例假查出有卵巢",
+        "onboard_time": 1727078419,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29386,
+        "num": 319673,
+        "word": "5399元报篮球班课没上成退费慢",
+        "onboard_time": 1727088979,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 76835,
+        "num": 312841,
+        "word": "东方美学舞到文艺复兴家门口了",
+        "onboard_time": 1727089219,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 306279,
+        "num": 306279,
+        "word": "王力宏晒和全红婵合影",
+        "onboard_time": 1727076081,
+        "rank": 15,
+        "category": "音乐,体育"
+      },
+      {
+        "raw_hot": 300703,
+        "num": 300703,
+        "word": "电影版偷偷藏不住启动选角",
+        "onboard_time": 1727089160,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 294831,
+        "num": 294831,
+        "word": "王力宏晒肖战直拍",
+        "onboard_time": 1727070199,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 35312,
+        "num": 292991,
+        "word": "11岁女孩沉迷买卡仨月花了一万二",
+        "onboard_time": 1727089940,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25623,
+        "num": 290315,
+        "word": "汽车挑战摩托车油耗",
+        "onboard_time": 1727085799,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 687478,
+        "num": 287935,
+        "word": "成龙离场特意摸了摸全红婵的头",
+        "onboard_time": 1727085619,
+        "rank": 20,
+        "category": "音乐,体育"
+      },
+      {
+        "raw_hot": 397119,
+        "num": 285014,
+        "word": "苹果客服回应锁了十年的iPhone解锁了",
+        "onboard_time": 1727073680,
+        "rank": 21,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 334575,
+        "num": 284309,
+        "word": "男子家暴孕妻致死落网后求判无罪",
+        "onboard_time": 1727070689,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 282496,
+        "num": 282496,
+        "word": "宁宁簪花",
+        "onboard_time": 1727082678,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 276228,
+        "num": 276228,
+        "word": "iPhone16Pro触摸屏被曝或会失灵",
+        "onboard_time": 1727079080,
+        "rank": 24,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 249801,
+        "num": 249801,
+        "word": "肖战喝水嘟嘴接泡泡",
+        "onboard_time": 1727087000,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 244195,
+        "num": 244195,
+        "word": "店员用个人收款码收4万被刑拘",
+        "onboard_time": 1727075900,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237118,
+        "num": 237118,
+        "word": "赵丽颖领奖后一个人坐了很久",
+        "onboard_time": 1727065230,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 227121,
+        "num": 227121,
+        "word": "追尾致车辆驶向对向车道6死7伤",
+        "onboard_time": 1727065105,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226982,
+        "num": 226982,
+        "word": "张译全红婵合影",
+        "onboard_time": 1727087840,
+        "rank": 29,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 226324,
+        "num": 226324,
+        "word": "河海大学图书馆厕所发现摄像头",
+        "onboard_time": 1727089399,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221192,
+        "num": 221192,
+        "word": "男友嫖娼被拘后女子要求酒店给说法",
+        "onboard_time": 1727074940,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220686,
+        "num": 220686,
+        "word": "恋与深空登顶送十连",
+        "onboard_time": 1727089160,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 205159,
+        "num": 205159,
+        "word": "恋与深空欲揽旖旎色",
+        "onboard_time": 1727089280,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 184168,
+        "num": 184168,
+        "word": "孙颖莎 大朋友小朋友都成长了",
+        "onboard_time": 1727090060,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 172956,
+        "num": 172956,
+        "word": "阴阳师",
+        "onboard_time": 1727090182,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 165692,
+        "num": 165692,
+        "word": "王一博划那么快备战奥运呢",
+        "onboard_time": 1727089099,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154788,
+        "num": 154788,
+        "word": "老人诬陷并殴打搀扶者后被拘",
+        "onboard_time": 1727088319,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154347,
+        "num": 154347,
+        "word": "孕妇吃冰箱冷藏海鲜感染李斯特菌引产",
+        "onboard_time": 1727079800,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153441,
+        "num": 153441,
+        "word": "姚晨镜头中的易烊千玺",
+        "onboard_time": 1727079860,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 150108,
+        "num": 150108,
+        "word": "半熟男女凤凰男",
+        "onboard_time": 1727088499,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148316,
+        "num": 148316,
+        "word": "孙颖莎课后感想",
+        "onboard_time": 1727090240,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143781,
+        "num": 143781,
+        "word": "性暴力和限制社会交往也属于家庭暴力",
+        "onboard_time": 1727083041,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140379,
+        "num": 140379,
+        "word": "喜来登回应女子曝酒店提供色情服务",
+        "onboard_time": 1727078899,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137137,
+        "num": 139939,
+        "word": "男子醉酒后从22楼窗户扔下杠铃",
+        "onboard_time": 1727082260,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139938,
+        "num": 139938,
+        "word": "陈祈遒 梁王不用收手机",
+        "onboard_time": 1727088740,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132887,
+        "num": 132887,
+        "word": "12306快让我候补上",
+        "onboard_time": 1727080399,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124814,
+        "num": 124814,
+        "word": "黎巴嫩部队宣传视频或导致情报泄露",
+        "onboard_time": 1727087541,
+        "rank": 47,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 122323,
+        "num": 122323,
+        "word": "张凌赫给金靖把出喜脉是真的",
+        "onboard_time": 1727090300,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121421,
+        "num": 121421,
+        "word": "许昕再回应被抄袭",
+        "onboard_time": 1727084479,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#循着总书记指引看中国东盟合作之变#"
+    }
+  }
+}
