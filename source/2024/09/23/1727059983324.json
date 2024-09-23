@@ -1,0 +1,410 @@
+{
+  "runTime": 1727059983324,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1015943,
+        "num": 1162551,
+        "word": "恋与深空 抄袭",
+        "onboard_time": 1727050219,
+        "rank": 0,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 926411,
+        "num": 926411,
+        "word": "盛家的女儿总不会差的",
+        "onboard_time": 1727054240,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 5819,
+        "num": 913911,
+        "word": "青春华章中国向上",
+        "onboard_time": 1727013685,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 912144,
+        "num": 912144,
+        "word": "黄晓明 你是战哥我是站哥",
+        "onboard_time": 1727054059,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 594882,
+        "num": 594882,
+        "word": "22岁的她当了17年志愿者",
+        "onboard_time": 1727050999,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 520313,
+        "num": 520313,
+        "word": "张新成王玉雯12年前vs12年后",
+        "onboard_time": 1727057300,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 874431,
+        "num": 495606,
+        "word": "杜江拿名牌纸让肖战签名",
+        "onboard_time": 1727059457,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 583950,
+        "num": 491923,
+        "word": "曾舜晞加全红婵微信",
+        "onboard_time": 1727058559,
+        "rank": 7,
+        "category": "音乐,体育"
+      },
+      {
+        "raw_hot": 397745,
+        "num": 397745,
+        "word": "东海是全球最大的穿戴甲供应商",
+        "onboard_time": 1727055378,
+        "rank": 8,
+        "category": "社会新闻,美妆"
+      },
+      {
+        "raw_hot": 224212,
+        "num": 389931,
+        "word": "2024只剩99天了",
+        "onboard_time": 1727050400,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 399585,
+        "num": 389774,
+        "word": "小伙装空调坠亡母亲捐其眼角膜救3人",
+        "onboard_time": 1727054180,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 389580,
+        "num": 389580,
+        "word": "女子半夜杀害出轨丈夫被判无期",
+        "onboard_time": 1727009782,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 352209,
+        "num": 352209,
+        "word": "起底台独网军",
+        "onboard_time": 1727049979,
+        "rank": 12,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 349688,
+        "num": 349688,
+        "word": "王力宏拍肖战",
+        "onboard_time": 1727052738,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 313690,
+        "num": 313690,
+        "word": "多地反映农村大龄青年婚恋难",
+        "onboard_time": 1727053221,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 292401,
+        "num": 292401,
+        "word": "秦彻文案组",
+        "onboard_time": 1727057899,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 272048,
+        "num": 272048,
+        "word": "为什么超市买不到1元的冰露了",
+        "onboard_time": 1727020821,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267939,
+        "num": 267939,
+        "word": "宁艺卓光头造型",
+        "onboard_time": 1727051901,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 258201,
+        "num": 258201,
+        "word": "株洲一大桥发生多车相撞有人员伤亡",
+        "onboard_time": 1727059286,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209220,
+        "num": 209220,
+        "word": "刘琳祝贺赵丽颖",
+        "onboard_time": 1727020942,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 210868,
+        "num": 205115,
+        "word": "卖惨博主被曝月入上千万",
+        "onboard_time": 1727011285,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193917,
+        "num": 193917,
+        "word": "易烊千玺台下抓泡泡",
+        "onboard_time": 1727058873,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 153798,
+        "num": 153798,
+        "word": "交警调查哪吒电车突然加速撞花坛事件",
+        "onboard_time": 1727054180,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147707,
+        "num": 147707,
+        "word": "刘烨眼中花少最不合群的人",
+        "onboard_time": 1727054958,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146087,
+        "num": 146087,
+        "word": "央视揭秘黑发产品骗局",
+        "onboard_time": 1727023398,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142442,
+        "num": 142442,
+        "word": "警方通报男子踹倒骑自行车男孩",
+        "onboard_time": 1727049800,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140531,
+        "num": 140531,
+        "word": "宝马因销量重返价格战",
+        "onboard_time": 1727053398,
+        "rank": 26,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 138726,
+        "num": 138726,
+        "word": "登陆少年回复黄绮珊",
+        "onboard_time": 1727055858,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 135600,
+        "num": 135600,
+        "word": "14岁孩子骑共享电动车撞人致十级伤残",
+        "onboard_time": 1727058137,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134704,
+        "num": 134704,
+        "word": "经常做梦和很少做梦谁睡眠质量好",
+        "onboard_time": 1727020761,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 132345,
+        "num": 132345,
+        "word": "这些身体部位不宜用筋膜枪",
+        "onboard_time": 1727050941,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 131851,
+        "num": 131851,
+        "word": "邮递员曾靠飞线钢索跨山河送信",
+        "onboard_time": 1727057612,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121606,
+        "num": 121606,
+        "word": "把难吃表现得淋漓尽致",
+        "onboard_time": 1727020761,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 120056,
+        "num": 120056,
+        "word": "夺命寻呼机供应链有多少安全漏洞",
+        "onboard_time": 1727059457,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116029,
+        "num": 116029,
+        "word": "外媒称美国将升级打压中国汽车",
+        "onboard_time": 1727057179,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116023,
+        "num": 116023,
+        "word": "宝马8月在华销量接近腰斩",
+        "onboard_time": 1727055378,
+        "rank": 35,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 114655,
+        "num": 114655,
+        "word": "哈兰德追平C罗百球纪录",
+        "onboard_time": 1727058498,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111718,
+        "num": 111718,
+        "word": "易烊千玺松弛感",
+        "onboard_time": 1727014104,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 103707,
+        "num": 103707,
+        "word": "分阶段调养月经",
+        "onboard_time": 1727058198,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 102271,
+        "num": 102271,
+        "word": "视觉还原黎巴嫩夺命寻呼机从何而来",
+        "onboard_time": 1727056579,
+        "rank": 39,
+        "category": "社会新闻,国外时政"
+      },
+      {
+        "raw_hot": 101043,
+        "num": 101043,
+        "word": "古特雷斯称黎巴嫩可能成另一个加沙",
+        "onboard_time": 1727053398,
+        "rank": 40,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 37601,
+        "num": 100807,
+        "word": "以防长称将继续打击黎真主党",
+        "onboard_time": 1727057237,
+        "rank": 41,
+        "category": "社会新闻,国外时政"
+      },
+      {
+        "raw_hot": 100748,
+        "num": 100748,
+        "word": "爷爷发现孙子背后多出颗痣秒去医院",
+        "onboard_time": 1727007799,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98948,
+        "num": 98948,
+        "word": "这周日需要上班",
+        "onboard_time": 1727059337,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 98860,
+        "num": 98860,
+        "word": "一年吃掉7亿头猪的中国人有多爱吃",
+        "onboard_time": 1727036530,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98213,
+        "num": 98213,
+        "word": "飞天奖提名争议是佳作频出的烦恼",
+        "onboard_time": 1727028192,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96838,
+        "num": 96838,
+        "word": "U20女足世界杯朝鲜夺冠",
+        "onboard_time": 1727058798,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 94304,
+        "num": 94304,
+        "word": "千万身价老板破产法院4元拍卖雪碧",
+        "onboard_time": 1727009182,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 93408,
+        "num": 93408,
+        "word": "传呼机爆炸事件打开新恐怖危机大门",
+        "onboard_time": 1727050339,
+        "rank": 48,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 92576,
+        "num": 92576,
+        "word": "韩国65岁以上就业者超过青年层",
+        "onboard_time": 1727056878,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记田间地头的嘱咐#"
+    }
+  }
+}
