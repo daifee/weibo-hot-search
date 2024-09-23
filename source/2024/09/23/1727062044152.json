@@ -1,0 +1,410 @@
+{
+  "runTime": 1727062044152,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1465016,
+        "num": 1465016,
+        "word": "黄晓明 你是战哥我是站哥",
+        "onboard_time": 1727054059,
+        "rank": 0,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 964334,
+        "num": 964334,
+        "word": "恋与深空 抄袭",
+        "onboard_time": 1727050219,
+        "rank": 1,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 5649,
+        "num": 956272,
+        "word": "青春华章中国向上",
+        "onboard_time": 1727013685,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 951442,
+        "num": 951442,
+        "word": "株洲芦淞大桥事故已致6死8伤",
+        "onboard_time": 1727060358,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 767777,
+        "num": 767777,
+        "word": "曾舜晞加全红婵微信",
+        "onboard_time": 1727058559,
+        "rank": 4,
+        "category": "音乐,体育"
+      },
+      {
+        "raw_hot": 716157,
+        "num": 716157,
+        "word": "株洲一大桥发生多车相撞有人员伤亡",
+        "onboard_time": 1727059286,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 687222,
+        "num": 687222,
+        "word": "杜江拿名牌纸让肖战签名",
+        "onboard_time": 1727059457,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 641018,
+        "num": 641018,
+        "word": "盛家的女儿总不会差的",
+        "onboard_time": 1727054240,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 430475,
+        "num": 492173,
+        "word": "国家医保局进驻无锡虹桥医院",
+        "onboard_time": 1727060539,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138474,
+        "num": 486840,
+        "word": "国家医保局进驻无锡涉嫌骗保医院",
+        "onboard_time": 1727060478,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 483526,
+        "num": 483526,
+        "word": "张新成王玉雯12年前vs12年后",
+        "onboard_time": 1727057300,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 439333,
+        "num": 439333,
+        "word": "22岁的她当了17年志愿者",
+        "onboard_time": 1727050999,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 408628,
+        "num": 408628,
+        "word": "肖央赵丽颖刘烨片场氛围",
+        "onboard_time": 1727061258,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 391228,
+        "num": 391228,
+        "word": "女子半夜杀害出轨丈夫被判无期",
+        "onboard_time": 1727009782,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 53701,
+        "num": 374459,
+        "word": "村民称小英视频内容与生活基本一致",
+        "onboard_time": 1727061679,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 363832,
+        "num": 363832,
+        "word": "小伙装空调坠亡母亲捐其眼角膜救3人",
+        "onboard_time": 1727054180,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27151,
+        "num": 334833,
+        "word": "智界R7华为途灵平台内测视频曝光",
+        "onboard_time": 1727060179,
+        "rank": 16,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 308766,
+        "num": 308766,
+        "word": "王力宏拍肖战",
+        "onboard_time": 1727052738,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 301313,
+        "num": 301313,
+        "word": "未定事件簿",
+        "onboard_time": 1727060658,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 299293,
+        "num": 299293,
+        "word": "2024只剩99天了",
+        "onboard_time": 1727050400,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 298884,
+        "num": 298884,
+        "word": "起底台独网军",
+        "onboard_time": 1727049979,
+        "rank": 20,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 293760,
+        "num": 293760,
+        "word": "第五人格",
+        "onboard_time": 1727059998,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 263862,
+        "num": 263862,
+        "word": "陶昕然 35岁以后不能再用脸去演戏",
+        "onboard_time": 1727060298,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 257400,
+        "num": 257400,
+        "word": "王仁君对赵丽颖说二哥哥以你为傲",
+        "onboard_time": 1727060118,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 256970,
+        "num": 256970,
+        "word": "易烊千玺台下抓泡泡",
+        "onboard_time": 1727058873,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 237556,
+        "num": 237556,
+        "word": "魅族前高管评iPhone钢壳电池可引爆",
+        "onboard_time": 1727060179,
+        "rank": 25,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 219186,
+        "num": 219186,
+        "word": "东海是全球最大的穿戴甲供应商",
+        "onboard_time": 1727055378,
+        "rank": 26,
+        "category": "社会新闻,美妆"
+      },
+      {
+        "raw_hot": 213466,
+        "num": 213466,
+        "word": "柳岩 我无法代表剩女表达感受",
+        "onboard_time": 1727060478,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 211509,
+        "num": 211509,
+        "word": "原来年轻人开始衰老是有征兆的",
+        "onboard_time": 1727061379,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 199513,
+        "num": 199513,
+        "word": "宁艺卓光头造型",
+        "onboard_time": 1727051901,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 189168,
+        "num": 189168,
+        "word": "李白谪仙醉月动画",
+        "onboard_time": 1727061199,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 186904,
+        "num": 186904,
+        "word": "女子曝五星级酒店提供色情服务",
+        "onboard_time": 1727061679,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186634,
+        "num": 186634,
+        "word": "多地反映农村大龄青年婚恋难",
+        "onboard_time": 1727053221,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182338,
+        "num": 182338,
+        "word": "为什么超市买不到1元的冰露了",
+        "onboard_time": 1727020821,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162000,
+        "num": 162000,
+        "word": "黎巴嫩夺命BP机生产时就被改造了",
+        "onboard_time": 1727061199,
+        "rank": 34,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 159814,
+        "num": 159814,
+        "word": "锁了十年的iPhone解锁了",
+        "onboard_time": 1727061559,
+        "rank": 35,
+        "category": "数码,互联网"
+      },
+      {
+        "raw_hot": 152198,
+        "num": 152198,
+        "word": "卖惨博主被曝月入上千万",
+        "onboard_time": 1727011285,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144536,
+        "num": 144536,
+        "word": "14岁孩子骑共享电动车撞人致十级伤残",
+        "onboard_time": 1727058137,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136631,
+        "num": 136631,
+        "word": "闪耀暖暖",
+        "onboard_time": 1727061738,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 129427,
+        "num": 129427,
+        "word": "恋与深空回应抄袭争议",
+        "onboard_time": 1727061919,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 128621,
+        "num": 128621,
+        "word": "经常做梦和很少做梦谁睡眠质量好",
+        "onboard_time": 1727020761,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 127304,
+        "num": 127304,
+        "word": "困在看妇科的女性们",
+        "onboard_time": 1727060779,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 125015,
+        "num": 125015,
+        "word": "登陆少年回复黄绮珊",
+        "onboard_time": 1727055858,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 122160,
+        "num": 122160,
+        "word": "孙杨凌晨两点仍在健身房训练",
+        "onboard_time": 1727060418,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123904,
+        "num": 120988,
+        "word": "这些身体部位不宜用筋膜枪",
+        "onboard_time": 1727050941,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 117702,
+        "num": 117702,
+        "word": "外媒称美国将升级打压中国汽车",
+        "onboard_time": 1727057179,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117413,
+        "num": 117413,
+        "word": "把难吃表现得淋漓尽致",
+        "onboard_time": 1727020761,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 106725,
+        "num": 106725,
+        "word": "央视揭秘黑发产品骗局",
+        "onboard_time": 1727023398,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104860,
+        "num": 104860,
+        "word": "交警调查哪吒电车突然加速撞花坛事件",
+        "onboard_time": 1727054180,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101846,
+        "num": 101846,
+        "word": "A股",
+        "onboard_time": 1727058979,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#把人民政协的显著政治优势更加充分发挥出来#"
+    }
+  }
+}
