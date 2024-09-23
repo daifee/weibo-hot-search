@@ -1,6 +1,6 @@
 {
   "startTime": 1727022296039,
-  "endTime": 1727080978104,
+  "endTime": 1727083588453,
   "band_list": [
     {
       "raw_hot": 4119718,
@@ -171,6 +171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 969318,
+      "num": 607904,
+      "word": "两个王力宏",
+      "onboard_time": 1727080759,
+      "rank": 12,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 963322,
       "num": 963322,
       "word": "村民称小英视频内容与生活基本一致",
@@ -236,19 +244,11 @@
     },
     {
       "raw_hot": 879437,
-      "num": 381166,
+      "num": 575750,
       "word": "17岁小伙来例假查出有卵巢",
       "onboard_time": 1727078419,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 846109,
-      "num": 338934,
-      "word": "两个王力宏",
-      "onboard_time": 1727080759,
-      "rank": 12,
-      "category": "音乐"
     },
     {
       "raw_hot": 767777,
@@ -307,6 +307,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 674787,
+      "num": 674787,
+      "word": "12306快让我候补上",
+      "onboard_time": 1727080399,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 653296,
       "num": 653296,
       "word": "锁了十年的iPhone解锁了",
@@ -320,6 +328,30 @@
       "word": "妻子发现丈夫出轨后半夜杀夫",
       "onboard_time": 1727007681,
       "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 596576,
+      "num": 596576,
+      "word": "半熟男女 性同意",
+      "onboard_time": 1727073320,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 584439,
+      "num": 584439,
+      "word": "iPhone16Pro触摸屏被曝或会失灵",
+      "onboard_time": 1727079080,
+      "rank": 24,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 575746,
+      "num": 575746,
+      "word": "店员用个人收款码收4万被刑拘",
+      "onboard_time": 1727075900,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -539,6 +571,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 370450,
+      "num": 319127,
+      "word": "孕妇吃冰箱冷藏海鲜感染李斯特菌引产",
+      "onboard_time": 1727079800,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 369992,
       "num": 369992,
       "word": "每周饿两天血糖和代谢都变好了",
@@ -547,20 +587,20 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 356920,
+      "num": 356920,
+      "word": "肖战有点方向感但不多",
+      "onboard_time": 1727080399,
+      "rank": 17,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 352209,
       "num": 352209,
       "word": "起底台独网军",
       "onboard_time": 1727049979,
       "rank": 31,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 351585,
-      "num": 437360,
-      "word": "店员用个人收款码收4万被刑拘",
-      "onboard_time": 1727075900,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 332885,
@@ -579,20 +619,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 320442,
-      "num": 320442,
-      "word": "12306快让我候补上",
-      "onboard_time": 1727080399,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 318163,
       "num": 454199,
       "word": "警犬口水都拉丝了愣是一口没吃",
       "onboard_time": 1727070987,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 317914,
+      "num": 317914,
+      "word": "THEBOYZ不续约",
+      "onboard_time": 1727080701,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 313690,
@@ -603,19 +643,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 312110,
+      "num": 312110,
+      "word": "樊振东退场忘关麦和全红婵开心对话",
+      "onboard_time": 1727082440,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 311374,
+      "num": 311374,
+      "word": "宁宁簪花",
+      "onboard_time": 1727082678,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 310948,
       "num": 167170,
       "word": "单依纯修音响来了",
       "onboard_time": 1727024297,
       "rank": 12,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 309787,
-      "num": 309787,
-      "word": "肖战有点方向感但不多",
-      "onboard_time": 1727080399,
-      "rank": 17,
       "category": "音乐"
     },
     {
@@ -683,6 +731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 267803,
+      "num": 267803,
+      "word": "物业曝光老人致其自杀后拒道歉",
+      "onboard_time": 1727081239,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 267688,
       "num": 306835,
       "word": "迪丽热巴巴黎偶遇路透",
@@ -705,14 +761,6 @@
       "onboard_time": 1727060298,
       "rank": 42,
       "category": "电影"
-    },
-    {
-      "raw_hot": 263187,
-      "num": 263187,
-      "word": "iPhone16Pro触摸屏被曝或会失灵",
-      "onboard_time": 1727079080,
-      "rank": 24,
-      "category": "数码"
     },
     {
       "raw_hot": 262716,
@@ -760,6 +808,14 @@
       "word": "无锡虹桥医院涉欺诈骗保被立案侦查",
       "onboard_time": 1727071408,
       "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 255312,
+      "num": 327402,
+      "word": "喜来登回应女子曝酒店提供色情服务",
+      "onboard_time": 1727078899,
+      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -939,14 +995,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 214592,
-      "num": 214592,
-      "word": "孕妇吃冰箱冷藏海鲜感染李斯特菌引产",
-      "onboard_time": 1727079800,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 214577,
       "num": 214577,
       "word": "登陆少年舞台首秀",
@@ -961,6 +1009,14 @@
       "onboard_time": 1727019862,
       "rank": 28,
       "category": "音乐,体育"
+    },
+    {
+      "raw_hot": 211765,
+      "num": 211765,
+      "word": "原来骑行真的能清班味",
+      "onboard_time": 1727083278,
+      "rank": 31,
+      "category": "运动健身"
     },
     {
       "raw_hot": 210735,
@@ -1003,12 +1059,12 @@
       "category": "时尚,作品衍生"
     },
     {
-      "raw_hot": 205875,
-      "num": 205875,
-      "word": "THEBOYZ不续约",
-      "onboard_time": 1727080701,
-      "rank": 28,
-      "category": "艺人"
+      "raw_hot": 206201,
+      "num": 206201,
+      "word": "甘肃武威发生交通事故有人员伤亡",
+      "onboard_time": 1727080999,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 205831,
@@ -1033,6 +1089,14 @@
       "onboard_time": 1727064800,
       "rank": 39,
       "category": "数码"
+    },
+    {
+      "raw_hot": 204003,
+      "num": 204003,
+      "word": "快提醒爸妈别安中国养老保险APP",
+      "onboard_time": 1727079440,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 201552,
@@ -1187,6 +1251,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 189439,
+      "num": 251144,
+      "word": "知否的含金量还在上升",
+      "onboard_time": 1727080220,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 189176,
+      "num": 189176,
+      "word": "男子醉酒后从22楼窗户扔下杠铃",
+      "onboard_time": 1727082260,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 188831,
       "num": 188831,
       "word": "近5亿年地球几乎一直比现在更热",
@@ -1299,6 +1379,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 176129,
+      "num": 176129,
+      "word": "株洲芦淞大桥事故系SUV司机逆行",
+      "onboard_time": 1727080340,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 174929,
       "num": 174929,
       "word": "黄霄雲唱功",
@@ -1323,6 +1411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 172367,
+      "num": 172367,
+      "word": "iPhone13仍能挤进全球畅销前十",
+      "onboard_time": 1727080999,
+      "rank": 39,
+      "category": "数码"
+    },
+    {
       "raw_hot": 171457,
       "num": 279919,
       "word": "谁家男女主上一秒兄弟下一秒kiss",
@@ -1345,14 +1441,6 @@
       "onboard_time": 1727075239,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 166937,
-      "num": 327402,
-      "word": "喜来登回应女子曝酒店提供色情服务",
-      "onboard_time": 1727078899,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 166752,
@@ -1459,28 +1547,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 155438,
-      "num": 155438,
-      "word": "知否的含金量还在上升",
-      "onboard_time": 1727080220,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 155197,
       "num": 155197,
       "word": "周深演唱会来了好多明星",
       "onboard_time": 1727068049,
       "rank": 46,
       "category": "演出"
-    },
-    {
-      "raw_hot": 153626,
-      "num": 153626,
-      "word": "株洲芦淞大桥事故系SUV司机逆行",
-      "onboard_time": 1727080340,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 152437,
@@ -1497,6 +1569,14 @@
       "onboard_time": 1727078599,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 150800,
+      "num": 150800,
+      "word": "孙乐言奥斯卡牵手",
+      "onboard_time": 1727083341,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 148843,
@@ -1569,6 +1649,14 @@
       "onboard_time": 1727015065,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 144735,
+      "num": 144735,
+      "word": "性暴力和限制社会交往也属于家庭暴力",
+      "onboard_time": 1727083041,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 144670,
@@ -1667,6 +1755,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 136275,
+      "num": 136275,
+      "word": "揭开抑郁症的真相",
+      "onboard_time": 1727081420,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 135290,
       "num": 135290,
       "word": "舍不得星星大宋少年志梦幻联动",
@@ -1688,14 +1784,6 @@
       "word": "一年吃掉7亿头猪的中国人有多爱吃",
       "onboard_time": 1727036530,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 133747,
-      "num": 133747,
-      "word": "快提醒爸妈别安中国养老保险APP",
-      "onboard_time": 1727079440,
-      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -1923,6 +2011,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 103611,
+      "num": 590371,
+      "word": "甘肃武威交通事故致3死7伤",
+      "onboard_time": 1727082020,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 101846,
       "num": 101846,
       "word": "A股",
@@ -1976,6 +2072,14 @@
       "word": "高端水果为啥卖不动了",
       "onboard_time": 1727056579,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 96170,
+      "num": 311647,
+      "word": "被朋友当情绪垃圾桶的我终于说不",
+      "onboard_time": 1727081601,
+      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -2195,6 +2299,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 49251,
+      "num": 576193,
+      "word": "巴黎圣母院的美此刻具象化了",
+      "onboard_time": 1727082500,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 46929,
       "num": 71976,
       "word": "Cat解说杯FMVP",
@@ -2219,12 +2331,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 45974,
+      "num": 360901,
+      "word": "一坐车就晕怎么破",
+      "onboard_time": 1727082319,
+      "rank": 16,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 43635,
       "num": 104694,
       "word": "对6个省区开展实地法治督察",
       "onboard_time": 1727025674,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 43500,
+      "num": 324139,
+      "word": "集齐鸿蒙全家桶是什么体验",
+      "onboard_time": 1727078539,
+      "rank": 17,
+      "category": "数码"
     },
     {
       "raw_hot": 43146,
@@ -2257,6 +2385,14 @@
       "onboard_time": 1727032571,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 37845,
+      "num": 334751,
+      "word": "印度狂买黄金有啥目的",
+      "onboard_time": 1727082741,
+      "rank": 19,
+      "category": "社会新闻,国外时政"
     },
     {
       "raw_hot": 37601,
@@ -2307,12 +2443,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 33472,
-      "num": 324139,
-      "word": "集齐鸿蒙全家桶是什么体验",
-      "onboard_time": 1727078539,
-      "rank": 17,
-      "category": "数码"
+      "raw_hot": 32262,
+      "num": 809020,
+      "word": "文化中国行看巴丹吉林沙漠之美",
+      "onboard_time": 1727080280,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 29927,
@@ -2387,20 +2523,20 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 21543,
+      "num": 379532,
+      "word": "无锡虹桥医院大股东曾为莆田系控制",
+      "onboard_time": 1727081839,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 20545,
       "num": 453159,
       "word": "李艾采访超模信息量好大",
       "onboard_time": 1727075598,
       "rank": 18,
       "category": "网红"
-    },
-    {
-      "raw_hot": 19056,
-      "num": 809020,
-      "word": "文化中国行看巴丹吉林沙漠之美",
-      "onboard_time": 1727080280,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 18193,
