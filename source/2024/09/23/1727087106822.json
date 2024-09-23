@@ -1,0 +1,410 @@
+{
+  "runTime": 1727087106822,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1147156,
+        "num": 1183545,
+        "word": "樊振东退场忘关麦和全红婵开心对话",
+        "onboard_time": 1727082440,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 886529,
+        "num": 886529,
+        "word": "武艺大方承认自己的理想型是沈月",
+        "onboard_time": 1727078481,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 16907,
+        "num": 781699,
+        "word": "文化中国行看巴丹吉林沙漠之美",
+        "onboard_time": 1727080280,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 708983,
+        "num": 708983,
+        "word": "江歌妈妈诉陈岚因证据不足被驳回",
+        "onboard_time": 1727083940,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 533543,
+        "num": 533543,
+        "word": "店员用个人收款码收4万被刑拘",
+        "onboard_time": 1727075900,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 492745,
+        "num": 492745,
+        "word": "两个王力宏",
+        "onboard_time": 1727080759,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 450608,
+        "num": 450608,
+        "word": "宁宁簪花",
+        "onboard_time": 1727082678,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 437824,
+        "num": 437824,
+        "word": "iPhone16Pro触摸屏被曝或会失灵",
+        "onboard_time": 1727079080,
+        "rank": 7,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 436200,
+        "num": 436200,
+        "word": "苹果客服回应锁了十年的iPhone解锁了",
+        "onboard_time": 1727073680,
+        "rank": 8,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 43123,
+        "num": 422043,
+        "word": "2男子反骗电诈分子1800元被拘",
+        "onboard_time": 1727086040,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1617430,
+        "num": 409713,
+        "word": "致6死7伤肇事车司机绝望大喊完了",
+        "onboard_time": 1727075719,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 685839,
+        "num": 398332,
+        "word": "预制朋友圈",
+        "onboard_time": 1727085498,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 469947,
+        "num": 378520,
+        "word": "17岁小伙来例假查出有卵巢",
+        "onboard_time": 1727078419,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 456769,
+        "num": 363116,
+        "word": "成龙离场特意摸了摸全红婵的头",
+        "onboard_time": 1727085619,
+        "rank": 13,
+        "category": "音乐,体育"
+      },
+      {
+        "raw_hot": 347967,
+        "num": 347967,
+        "word": "12306快让我候补上",
+        "onboard_time": 1727080399,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 336872,
+        "num": 336872,
+        "word": "追尾致车辆驶向对向车道6死7伤",
+        "onboard_time": 1727065105,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 336082,
+        "num": 336082,
+        "word": "男子家暴孕妻致死落网后求判无罪",
+        "onboard_time": 1727070689,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 35116,
+        "num": 305052,
+        "word": "汽车挑战摩托车油耗",
+        "onboard_time": 1727085799,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 296530,
+        "num": 296530,
+        "word": "王力宏晒肖战直拍",
+        "onboard_time": 1727070199,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 28065,
+        "num": 291099,
+        "word": "男子祈福求工作顺手偷四千被刑拘",
+        "onboard_time": 1727085920,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 326114,
+        "num": 290964,
+        "word": "男友嫖娼被拘后女子要求酒店给说法",
+        "onboard_time": 1727074940,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 15931,
+        "num": 288278,
+        "word": "一坐车就晕怎么破",
+        "onboard_time": 1727082319,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 285958,
+        "num": 285958,
+        "word": "赵丽颖领奖后一个人坐了很久",
+        "onboard_time": 1727065230,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 229887,
+        "num": 229887,
+        "word": "男子醉酒后从22楼窗户扔下杠铃",
+        "onboard_time": 1727082260,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224701,
+        "num": 224701,
+        "word": "甘肃武威发生交通事故有人员伤亡",
+        "onboard_time": 1727080999,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213873,
+        "num": 213873,
+        "word": "肖战喝水嘟嘴接泡泡",
+        "onboard_time": 1727087000,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 208914,
+        "num": 208914,
+        "word": "博主称打假东北雨姐反被打",
+        "onboard_time": 1727086518,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208589,
+        "num": 208589,
+        "word": "法院4.2元拍卖一瓶大雪碧限自提",
+        "onboard_time": 1727083159,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38117,
+        "num": 201948,
+        "word": "第二代宋ProDMi上市11.28万元起",
+        "onboard_time": 1727085679,
+        "rank": 28,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 177125,
+        "num": 201026,
+        "word": "姚晨镜头中的易烊千玺",
+        "onboard_time": 1727079860,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 200123,
+        "num": 200123,
+        "word": "孕妇吃冰箱冷藏海鲜感染李斯特菌引产",
+        "onboard_time": 1727079800,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190700,
+        "num": 190700,
+        "word": "记者实探小英家",
+        "onboard_time": 1727067510,
+        "rank": 31,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 189531,
+        "num": 189531,
+        "word": "刘耀文直播",
+        "onboard_time": 1727087059,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161702,
+        "num": 188888,
+        "word": "THEBOYZ不续约",
+        "onboard_time": 1727080701,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188801,
+        "num": 188801,
+        "word": "性暴力和限制社会交往也属于家庭暴力",
+        "onboard_time": 1727083041,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21999,
+        "num": 170073,
+        "word": "火锅羽绒服",
+        "onboard_time": 1727084719,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 168414,
+        "num": 168414,
+        "word": "喜来登回应女子曝酒店提供色情服务",
+        "onboard_time": 1727078899,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144322,
+        "num": 144322,
+        "word": "翁青雅看彭高被选后尬住了",
+        "onboard_time": 1727084361,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146443,
+        "num": 144229,
+        "word": "许昕再回应被抄袭",
+        "onboard_time": 1727084479,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 53032,
+        "num": 144140,
+        "word": "宝马4S店称降价因月底冲销量",
+        "onboard_time": 1727085080,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144113,
+        "num": 144113,
+        "word": "川航一航班挂7700紧急代码备降宁波",
+        "onboard_time": 1727069668,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139756,
+        "num": 139756,
+        "word": "iPhone13仍能挤进全球畅销前十",
+        "onboard_time": 1727080999,
+        "rank": 41,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 137318,
+        "num": 137318,
+        "word": "湾区升明月晚会最忙的人",
+        "onboard_time": 1727084779,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 134961,
+        "num": 134961,
+        "word": "甘肃武威交通事故致3死7伤",
+        "onboard_time": 1727082020,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133820,
+        "num": 133820,
+        "word": "梁王组合教练回应两人近期比赛失利",
+        "onboard_time": 1727086638,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133273,
+        "num": 133273,
+        "word": "国安部公开台独网军3人照片",
+        "onboard_time": 1727069848,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129762,
+        "num": 129762,
+        "word": "快提醒爸妈别安中国养老保险APP",
+        "onboard_time": 1727079440,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127719,
+        "num": 127719,
+        "word": "每周饿两天血糖和代谢都变好了",
+        "onboard_time": 1727070927,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 127181,
+        "num": 127181,
+        "word": "知否的含金量还在上升",
+        "onboard_time": 1727080220,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125016,
+        "num": 125016,
+        "word": "鬼灭之刃无限城篇电影制作已近尾声",
+        "onboard_time": 1727086939,
+        "rank": 49,
+        "category": "动漫,作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#循着总书记指引看中国东盟合作之变#"
+    }
+  }
+}

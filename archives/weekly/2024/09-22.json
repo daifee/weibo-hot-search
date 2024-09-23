@@ -1,6 +1,6 @@
 {
   "startTime": 1726936020707,
-  "endTime": 1727084394227,
+  "endTime": 1727087106822,
   "band_list": [
     {
       "raw_hot": 6817146,
@@ -353,6 +353,14 @@
       "onboard_time": 1727000780,
       "rank": 7,
       "category": "演出"
+    },
+    {
+      "raw_hot": 1147156,
+      "num": 1183545,
+      "word": "樊振东退场忘关麦和全红婵开心对话",
+      "onboard_time": 1727082440,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 1133353,
@@ -747,6 +755,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 708983,
+      "num": 708983,
+      "word": "江歌妈妈诉陈岚因证据不足被驳回",
+      "onboard_time": 1727083940,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 685839,
+      "num": 398332,
+      "word": "预制朋友圈",
+      "onboard_time": 1727085498,
+      "rank": 11,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 685284,
       "num": 685284,
       "word": "黎巴嫩夺命BP机生产时就被改造了",
@@ -921,14 +945,6 @@
       "onboard_time": 1727020821,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 557395,
-      "num": 470718,
-      "word": "樊振东退场忘关麦和全红婵开心对话",
-      "onboard_time": 1727082440,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 555224,
@@ -1139,6 +1155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 456769,
+      "num": 363116,
+      "word": "成龙离场特意摸了摸全红婵的头",
+      "onboard_time": 1727085619,
+      "rank": 13,
+      "category": "音乐,体育"
+    },
+    {
       "raw_hot": 451583,
       "num": 316780,
       "word": "宁艺卓光头造型",
@@ -1153,6 +1177,14 @@
       "onboard_time": 1727066311,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 450608,
+      "num": 450608,
+      "word": "宁宁簪花",
+      "onboard_time": 1727082678,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 448503,
@@ -1193,14 +1225,6 @@
       "onboard_time": 1727054180,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 442707,
-      "num": 442707,
-      "word": "宁宁簪花",
-      "onboard_time": 1727082678,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 441509,
@@ -2163,6 +2187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 229887,
+      "num": 229887,
+      "word": "男子醉酒后从22楼窗户扔下杠铃",
+      "onboard_time": 1727082260,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 229022,
       "num": 229022,
       "word": "走失猫咪独自跋涉1200多公里",
@@ -2201,6 +2233,14 @@
       "onboard_time": 1727068889,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 224701,
+      "num": 262103,
+      "word": "甘肃武威发生交通事故有人员伤亡",
+      "onboard_time": 1727080999,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 224493,
@@ -2355,6 +2395,14 @@
       "category": "音乐,体育"
     },
     {
+      "raw_hot": 213873,
+      "num": 213873,
+      "word": "肖战喝水嘟嘴接泡泡",
+      "onboard_time": 1727087000,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 212848,
       "num": 212848,
       "word": "云宫迅音",
@@ -2443,6 +2491,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 208914,
+      "num": 208914,
+      "word": "博主称打假东北雨姐反被打",
+      "onboard_time": 1727086518,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 208589,
+      "num": 208589,
+      "word": "法院4.2元拍卖一瓶大雪碧限自提",
+      "onboard_time": 1727083159,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 206734,
       "num": 206734,
       "word": "任翔宇受伤",
@@ -2457,14 +2521,6 @@
       "onboard_time": 1727073023,
       "rank": 30,
       "category": "时尚,作品衍生"
-    },
-    {
-      "raw_hot": 206201,
-      "num": 262103,
-      "word": "甘肃武威发生交通事故有人员伤亡",
-      "onboard_time": 1727080999,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 205988,
@@ -2601,14 +2657,6 @@
       "onboard_time": 1727069070,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 199170,
-      "num": 199170,
-      "word": "男子醉酒后从22楼窗户扔下杠铃",
-      "onboard_time": 1727082260,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 199085,
@@ -2859,6 +2907,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 189531,
+      "num": 189531,
+      "word": "刘耀文直播",
+      "onboard_time": 1727087059,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 189439,
       "num": 251144,
       "word": "知否的含金量还在上升",
@@ -2873,6 +2929,14 @@
       "onboard_time": 1727046075,
       "rank": 25,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 188801,
+      "num": 188801,
+      "word": "性暴力和限制社会交往也属于家庭暴力",
+      "onboard_time": 1727083041,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 188421,
@@ -3251,14 +3315,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 167610,
-      "num": 167610,
-      "word": "江歌妈妈诉陈岚因证据不足被驳回",
-      "onboard_time": 1727083940,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 167504,
       "num": 112089,
       "word": "漫长的季节",
@@ -3393,14 +3449,6 @@
       "onboard_time": 1726985659,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 163903,
-      "num": 163903,
-      "word": "性暴力和限制社会交往也属于家庭暴力",
-      "onboard_time": 1727083041,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 163732,
@@ -3691,6 +3739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 146443,
+      "num": 144229,
+      "word": "许昕再回应被抄袭",
+      "onboard_time": 1727084479,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 145840,
       "num": 145840,
       "word": "江苏一地公示15名干部6人有曾用名",
@@ -3763,6 +3819,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 144322,
+      "num": 144322,
+      "word": "翁青雅看彭高被选后尬住了",
+      "onboard_time": 1727084361,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 143826,
       "num": 265819,
       "word": "半熟男女",
@@ -3801,14 +3865,6 @@
       "onboard_time": 1727015245,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 141727,
-      "num": 141727,
-      "word": "法院4.2元拍卖一瓶大雪碧限自提",
-      "onboard_time": 1727083159,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 141149,
@@ -3891,6 +3947,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 137318,
+      "num": 137318,
+      "word": "湾区升明月晚会最忙的人",
+      "onboard_time": 1727084779,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 137098,
       "num": 137098,
       "word": "药店比奶茶店还多",
@@ -3931,6 +3995,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 134961,
+      "num": 590371,
+      "word": "甘肃武威交通事故致3死7伤",
+      "onboard_time": 1727082020,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 134674,
       "num": 134674,
       "word": "一年吃掉7亿头猪的中国人有多爱吃",
@@ -3939,20 +4011,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 133820,
+      "num": 133820,
+      "word": "梁王组合教练回应两人近期比赛失利",
+      "onboard_time": 1727086638,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 133819,
       "num": 282418,
       "word": "恋与深空",
       "onboard_time": 1726932264,
       "rank": 15,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 133660,
-      "num": 590371,
-      "word": "甘肃武威交通事故致3死7伤",
-      "onboard_time": 1727082020,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 133605,
@@ -4147,6 +4219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 125016,
+      "num": 125016,
+      "word": "鬼灭之刃无限城篇电影制作已近尾声",
+      "onboard_time": 1727086939,
+      "rank": 49,
+      "category": "动漫,作品衍生"
+    },
+    {
       "raw_hot": 124839,
       "num": 124839,
       "word": "打车去浦东机场被绕大半个上海",
@@ -4257,14 +4337,6 @@
       "onboard_time": 1726999821,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 119108,
-      "num": 119108,
-      "word": "翁青雅看彭高被选后尬住了",
-      "onboard_time": 1727084361,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 118780,
@@ -5059,6 +5131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 53032,
+      "num": 144140,
+      "word": "宝马4S店称降价因月底冲销量",
+      "onboard_time": 1727085080,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 52793,
       "num": 145861,
       "word": "好喜欢看黄景瑜哭",
@@ -5211,6 +5291,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 43123,
+      "num": 422043,
+      "word": "2男子反骗电诈分子1800元被拘",
+      "onboard_time": 1727086040,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 42885,
       "num": 865932,
       "word": "天山南北唱新歌",
@@ -5273,6 +5361,14 @@
       "onboard_time": 1726949951,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 38117,
+      "num": 201948,
+      "word": "第二代宋ProDMi上市11.28万元起",
+      "onboard_time": 1727085679,
+      "rank": 28,
+      "category": "汽车"
     },
     {
       "raw_hot": 38088,
@@ -5345,6 +5441,14 @@
       "onboard_time": 1726967840,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 35116,
+      "num": 305052,
+      "word": "汽车挑战摩托车油耗",
+      "onboard_time": 1727085799,
+      "rank": 17,
+      "category": "汽车"
     },
     {
       "raw_hot": 34960,
@@ -5464,6 +5568,14 @@
       "word": "中国人种菜已经nextlevel",
       "onboard_time": 1727000838,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 28065,
+      "num": 291099,
+      "word": "男子祈福求工作顺手偷四千被刑拘",
+      "onboard_time": 1727085920,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -5593,6 +5705,14 @@
       "onboard_time": 1727071290,
       "rank": 12,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 21999,
+      "num": 170073,
+      "word": "火锅羽绒服",
+      "onboard_time": 1727084719,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 21543,
