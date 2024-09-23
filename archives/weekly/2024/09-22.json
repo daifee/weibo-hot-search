@@ -1,6 +1,6 @@
 {
   "startTime": 1726936020707,
-  "endTime": 1727069972914,
+  "endTime": 1727073112166,
   "band_list": [
     {
       "raw_hot": 6817146,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 2000170,
-      "num": 481573,
+      "num": 510731,
       "word": "女子曝五星级酒店提供色情服务",
       "onboard_time": 1727061679,
       "rank": 31,
@@ -105,6 +105,14 @@
       "onboard_time": 1727007862,
       "rank": 4,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1940132,
+      "num": 1940132,
+      "word": "记者实探小英家",
+      "onboard_time": 1727067510,
+      "rank": 7,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 1777259,
@@ -179,12 +187,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1533285,
+      "num": 531115,
+      "word": "男子家暴孕妻致死落网后求判无罪",
+      "onboard_time": 1727070689,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1516903,
       "num": 1516903,
       "word": "美国拨款16亿美元雇水军黑中国",
       "onboard_time": 1726992079,
       "rank": 4,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 1497844,
+      "num": 1497844,
+      "word": "川航一航班挂7700紧急代码备降宁波",
+      "onboard_time": 1727069668,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1481078,
@@ -235,14 +259,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1303592,
-      "num": 1303592,
-      "word": "记者实探小英家",
-      "onboard_time": 1727067510,
-      "rank": 7,
-      "category": "社会新闻,网红"
-    },
-    {
       "raw_hot": 1302660,
       "num": 1302660,
       "word": "孙颖莎谈跟王楚钦拥抱的照片",
@@ -280,6 +296,14 @@
       "word": "肖战台下笑的好甜",
       "onboard_time": 1727013504,
       "rank": 7,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 1165057,
+      "num": 1165057,
+      "word": "王力宏晒肖战直拍",
+      "onboard_time": 1727070199,
+      "rank": 3,
       "category": "音乐"
     },
     {
@@ -392,6 +416,14 @@
       "word": "山姆10天翻车3次",
       "onboard_time": 1727001800,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 975611,
+      "num": 975611,
+      "word": "国安部公开台独网军3人照片",
+      "onboard_time": 1727069848,
+      "rank": 40,
       "category": "社会新闻"
     },
     {
@@ -587,6 +619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 757382,
+      "num": 757382,
+      "word": "追尾致车辆驶向对向车道6死7伤",
+      "onboard_time": 1727065105,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 748779,
       "num": 391228,
       "word": "女子半夜杀害出轨丈夫被判无期",
@@ -779,6 +819,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 569982,
+      "num": 569982,
+      "word": "肖战易烊千玺座位背靠背",
+      "onboard_time": 1727071888,
+      "rank": 9,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 560702,
       "num": 560702,
       "word": "为什么超市买不到1元的冰露了",
@@ -825,14 +873,6 @@
       "onboard_time": 1726985780,
       "rank": 13,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 539526,
-      "num": 539526,
-      "word": "追尾致车辆驶向对向车道6死7伤",
-      "onboard_time": 1727065105,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 537044,
@@ -1065,6 +1105,14 @@
       "onboard_time": 1726976479,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 426197,
+      "num": 446945,
+      "word": "救命钱岂能成唐僧肉",
+      "onboard_time": 1727063540,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 425894,
@@ -1315,14 +1363,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 345956,
-      "num": 446945,
-      "word": "救命钱岂能成唐僧肉",
-      "onboard_time": 1727063540,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 343242,
       "num": 411484,
       "word": "小伙经常晚上不刷牙嘴里长满结石",
@@ -1403,12 +1443,28 @@
       "category": "网红"
     },
     {
+      "raw_hot": 323775,
+      "num": 313764,
+      "word": "每周饿两天血糖和代谢都变好了",
+      "onboard_time": 1727070927,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 322951,
       "num": 322951,
       "word": "网友问肖战什么时候开演唱会",
       "onboard_time": 1727065171,
       "rank": 29,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 319977,
+      "num": 418070,
+      "word": "女子想缩小毛孔脸反被烧伤像橘子皮",
+      "onboard_time": 1727068350,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 318185,
@@ -1563,6 +1619,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 279032,
+      "num": 279032,
+      "word": "12306回应上线车内换座功能",
+      "onboard_time": 1727071648,
+      "rank": 23,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 276530,
       "num": 276530,
       "word": "柳岩 我无法代表剩女表达感受",
@@ -1657,6 +1721,14 @@
       "onboard_time": 1726979841,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 259307,
+      "num": 331032,
+      "word": "央视网评黄景瑜演技",
+      "onboard_time": 1727069848,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 258572,
@@ -1923,6 +1995,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 225720,
+      "num": 225720,
+      "word": "高雅cp",
+      "onboard_time": 1727068889,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 224493,
       "num": 295366,
       "word": "中国农民丰收节",
@@ -1985,6 +2065,14 @@
       "onboard_time": 1726961295,
       "rank": 25,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 219342,
+      "num": 219342,
+      "word": "警犬口水都拉丝了愣是一口没吃",
+      "onboard_time": 1727070987,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 217969,
@@ -2139,6 +2227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 206336,
+      "num": 187197,
+      "word": "巴黎时装周明星行程表",
+      "onboard_time": 1727073023,
+      "rank": 30,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 205988,
       "num": 205988,
       "word": "漠风吟定档",
@@ -2161,14 +2257,6 @@
       "onboard_time": 1727003302,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 205113,
-      "num": 205113,
-      "word": "川航一航班挂7700紧急代码备降宁波",
-      "onboard_time": 1727069668,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 204774,
@@ -2201,14 +2289,6 @@
       "onboard_time": 1727064800,
       "rank": 39,
       "category": "数码"
-    },
-    {
-      "raw_hot": 203996,
-      "num": 207821,
-      "word": "高雅cp",
-      "onboard_time": 1727068889,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 203829,
@@ -2355,6 +2435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 196221,
+      "num": 196221,
+      "word": "BOYNEXTDOOR首次世巡海报",
+      "onboard_time": 1727072068,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 195699,
       "num": 195699,
       "word": "王者荣耀",
@@ -2481,6 +2569,14 @@
       "onboard_time": 1727007441,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 189071,
+      "num": 189071,
+      "word": "刘耀文百花奖提名专访",
+      "onboard_time": 1727073079,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 188831,
@@ -2811,14 +2907,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 166800,
-      "num": 166800,
-      "word": "国安部公开台独网军3人照片",
-      "onboard_time": 1727069848,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 166752,
       "num": 166752,
       "word": "阿云嘎新歌唢呐一出泪腺控不住",
@@ -2995,6 +3083,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 157383,
+      "num": 157383,
+      "word": "终于有剧拍了脆皮00后",
+      "onboard_time": 1727072489,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 157367,
       "num": 157367,
       "word": "王栎鑫这辈子最想删掉的视频",
@@ -3009,6 +3105,14 @@
       "onboard_time": 1726931425,
       "rank": 28,
       "category": "美食"
+    },
+    {
+      "raw_hot": 156854,
+      "num": 156854,
+      "word": "株洲警方通报芦淞大桥交通事故",
+      "onboard_time": 1727069249,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 155896,
@@ -3027,6 +3131,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 154704,
+      "num": 154704,
+      "word": "秋天来了",
+      "onboard_time": 1727072968,
+      "rank": 38,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 154601,
       "num": 154601,
       "word": "张晚意第一次来飞天奖",
@@ -3040,14 +3152,6 @@
       "word": "姑娘奶茶只喝三分甜牙齿严重酸蚀",
       "onboard_time": 1726923742,
       "rank": 34,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 153093,
-      "num": 155591,
-      "word": "株洲警方通报芦淞大桥交通事故",
-      "onboard_time": 1727069249,
-      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -3251,6 +3355,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 144497,
+      "num": 144497,
+      "word": "第五人格骑士",
+      "onboard_time": 1727071240,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 143826,
       "num": 265819,
       "word": "半熟男女",
@@ -3315,6 +3427,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 138766,
+      "num": 320243,
+      "word": "半熟男女微博追剧团",
+      "onboard_time": 1727072128,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 138664,
       "num": 138664,
       "word": "多部门回应网友自称从博物馆拿文物",
@@ -3371,6 +3491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 135290,
+      "num": 135290,
+      "word": "舍不得星星大宋少年志梦幻联动",
+      "onboard_time": 1727071829,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 135114,
       "num": 107918,
       "word": "周笔畅live的神",
@@ -3408,14 +3536,6 @@
       "word": "法院称刀掉后冲突不算正当防卫",
       "onboard_time": 1726973119,
       "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 132595,
-      "num": 418070,
-      "word": "女子想缩小毛孔脸反被烧伤像橘子皮",
-      "onboard_time": 1727068350,
-      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -3579,6 +3699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 124878,
+      "num": 124878,
+      "word": "秦彻风临野",
+      "onboard_time": 1727072308,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 124767,
       "num": 280112,
       "word": "男子买星巴克月饼券无法提货",
@@ -3675,6 +3803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 118759,
+      "num": 118759,
+      "word": "你的一把火烧了我的后半生",
+      "onboard_time": 1727070089,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 118756,
       "num": 118756,
       "word": "美国为什么执着于花钱骂人",
@@ -3763,6 +3899,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 114182,
+      "num": 114182,
+      "word": "女子便装执法被拒称胆子还不小",
+      "onboard_time": 1727072727,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 113544,
       "num": 113544,
       "word": "蝴蝶姐姐晒产子照",
@@ -3793,6 +3937,14 @@
       "onboard_time": 1726963099,
       "rank": 48,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 112317,
+      "num": 758465,
+      "word": "黎爆炸事件后外国网友安利中国制造",
+      "onboard_time": 1727069130,
+      "rank": 29,
+      "category": "国外时政"
     },
     {
       "raw_hot": 111834,
@@ -3952,6 +4104,14 @@
       "word": "高端水果为啥卖不动了",
       "onboard_time": 1727056579,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 96666,
+      "num": 768952,
+      "word": "无锡虹桥医院涉欺诈骗保被立案侦查",
+      "onboard_time": 1727071408,
+      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -4435,6 +4595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 50517,
+      "num": 439820,
+      "word": "不止是Cybertruck更是一车抵多车",
+      "onboard_time": 1727068350,
+      "rank": 20,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 49825,
       "num": 49825,
       "word": "王一博拍的落日",
@@ -4473,14 +4641,6 @@
       "onboard_time": 1726937598,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 46175,
-      "num": 229951,
-      "word": "黎爆炸事件后外国网友安利中国制造",
-      "onboard_time": 1727069130,
-      "rank": 29,
-      "category": "国外时政"
     },
     {
       "raw_hot": 46092,
@@ -4633,14 +4793,6 @@
       "onboard_time": 1727016324,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 36224,
-      "num": 439820,
-      "word": "不止是Cybertruck更是一车抵多车",
-      "onboard_time": 1727068350,
-      "rank": 20,
-      "category": "汽车"
     },
     {
       "raw_hot": 35905,
@@ -4859,6 +5011,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 22440,
+      "num": 464265,
+      "word": "Prada高智感穿搭",
+      "onboard_time": 1727071290,
+      "rank": 12,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 20674,
       "num": 208688,
       "word": "以为在火星实际在长城",
@@ -4980,7 +5140,7 @@
     },
     {
       "raw_hot": 12095,
-      "num": 1115791,
+      "num": 1309340,
       "word": "青春华章",
       "onboard_time": 1726819520,
       "rank": 2,
