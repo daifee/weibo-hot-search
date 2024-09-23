@@ -1,6 +1,6 @@
 {
   "startTime": 1726936020707,
-  "endTime": 1727080139854,
+  "endTime": 1727080978104,
   "band_list": [
     {
       "raw_hot": 6817146,
@@ -211,6 +211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1554079,
+      "num": 1554079,
+      "word": "武艺大方承认自己的理想型是沈月",
+      "onboard_time": 1727078481,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1516903,
       "num": 1516903,
       "word": "美国拨款16亿美元雇水军黑中国",
@@ -305,14 +313,6 @@
       "onboard_time": 1726989439,
       "rank": 0,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1181671,
-      "num": 1181671,
-      "word": "武艺大方承认自己的理想型是沈月",
-      "onboard_time": 1727078481,
-      "rank": 1,
-      "category": "综艺"
     },
     {
       "raw_hot": 1173426,
@@ -539,6 +539,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 879437,
+      "num": 381166,
+      "word": "17岁小伙来例假查出有卵巢",
+      "onboard_time": 1727078419,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 873029,
       "num": 564161,
       "word": "成龙真唱",
@@ -577,6 +585,14 @@
       "onboard_time": 1726933102,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 846109,
+      "num": 338934,
+      "word": "两个王力宏",
+      "onboard_time": 1727080759,
+      "rank": 12,
+      "category": "音乐"
     },
     {
       "raw_hot": 836400,
@@ -657,14 +673,6 @@
       "onboard_time": 1726984819,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 761071,
-      "num": 381166,
-      "word": "17岁小伙来例假查出有卵巢",
-      "onboard_time": 1727078419,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 757382,
@@ -1443,6 +1451,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 351585,
+      "num": 437360,
+      "word": "店员用个人收款码收4万被刑拘",
+      "onboard_time": 1727075900,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 349856,
       "num": 206250,
       "word": "汪峰凭一己之力让13个人尴尬",
@@ -1539,6 +1555,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 320442,
+      "num": 320442,
+      "word": "12306快让我候补上",
+      "onboard_time": 1727080399,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 318185,
       "num": 318185,
       "word": "阳澄湖大闸蟹卖到300多一只",
@@ -1576,6 +1600,14 @@
       "word": "单依纯修音响来了",
       "onboard_time": 1727024297,
       "rank": 12,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 309787,
+      "num": 309787,
+      "word": "肖战有点方向感但不多",
+      "onboard_time": 1727080399,
+      "rank": 17,
       "category": "音乐"
     },
     {
@@ -1675,14 +1707,6 @@
       "category": "音乐,体育"
     },
     {
-      "raw_hot": 287644,
-      "num": 437360,
-      "word": "店员用个人收款码收4万被刑拘",
-      "onboard_time": 1727075900,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 283025,
       "num": 283025,
       "word": "被砍后反杀凶手男子家属发声",
@@ -1777,6 +1801,14 @@
       "onboard_time": 1727060298,
       "rank": 42,
       "category": "电影"
+    },
+    {
+      "raw_hot": 263187,
+      "num": 263187,
+      "word": "iPhone16Pro触摸屏被曝或会失灵",
+      "onboard_time": 1727079080,
+      "rank": 24,
+      "category": "数码"
     },
     {
       "raw_hot": 262716,
@@ -1929,14 +1961,6 @@
       "onboard_time": 1727011642,
       "rank": 33,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 245883,
-      "num": 245883,
-      "word": "iPhone16Pro触摸屏被曝或会失灵",
-      "onboard_time": 1727079080,
-      "rank": 24,
-      "category": "数码"
     },
     {
       "raw_hot": 244683,
@@ -2179,6 +2203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 222455,
+      "num": 222455,
+      "word": "姚晨镜头中的易烊千玺",
+      "onboard_time": 1727079860,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 220976,
       "num": 220976,
       "word": "黄晓明 叶珂",
@@ -2256,6 +2288,14 @@
       "word": "秋分",
       "onboard_time": 1726961355,
       "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 214592,
+      "num": 214592,
+      "word": "孕妇吃冰箱冷藏海鲜感染李斯特菌引产",
+      "onboard_time": 1727079800,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -2369,6 +2409,14 @@
       "onboard_time": 1726972696,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 205875,
+      "num": 205875,
+      "word": "THEBOYZ不续约",
+      "onboard_time": 1727080701,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 205433,
@@ -2811,6 +2859,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 184687,
+      "num": 184687,
+      "word": "交警说车主傻不拉几被停职",
+      "onboard_time": 1727077339,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 184064,
       "num": 243666,
       "word": "美国伯明翰发生大规模枪击事件",
@@ -3115,6 +3171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 166937,
+      "num": 327402,
+      "word": "喜来登回应女子曝酒店提供色情服务",
+      "onboard_time": 1727078899,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 166752,
       "num": 166752,
       "word": "阿云嘎新歌唢呐一出泪腺控不住",
@@ -3169,14 +3233,6 @@
       "onboard_time": 1726996339,
       "rank": 46,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 164912,
-      "num": 164912,
-      "word": "交警说车主傻不拉几被停职",
-      "onboard_time": 1727077339,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 164703,
@@ -3331,6 +3387,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 155438,
+      "num": 155438,
+      "word": "知否的含金量还在上升",
+      "onboard_time": 1727080220,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 155197,
       "num": 155197,
       "word": "周深演唱会来了好多明星",
@@ -3352,6 +3416,14 @@
       "word": "姑娘奶茶只喝三分甜牙齿严重酸蚀",
       "onboard_time": 1726923742,
       "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 153626,
+      "num": 153626,
+      "word": "株洲芦淞大桥事故系SUV司机逆行",
+      "onboard_time": 1727080340,
+      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -3425,6 +3497,14 @@
       "onboard_time": 1726966579,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 148843,
+      "num": 182382,
+      "word": "妹妹遇假警察骗局哥哥找来真警察",
+      "onboard_time": 1727078119,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 148664,
@@ -3747,6 +3827,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 133747,
+      "num": 133747,
+      "word": "快提醒爸妈别安中国养老保险APP",
+      "onboard_time": 1727079440,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 133605,
       "num": 133605,
       "word": "宝马8月在华销量接近腰斩",
@@ -3801,14 +3889,6 @@
       "onboard_time": 1727057612,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 131323,
-      "num": 131323,
-      "word": "姚晨镜头中的易烊千玺",
-      "onboard_time": 1727079860,
-      "rank": 40,
-      "category": "音乐"
     },
     {
       "raw_hot": 130533,
@@ -3872,6 +3952,14 @@
       "word": "盛李豪实现全锦赛三连冠",
       "onboard_time": 1727002102,
       "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 129027,
+      "num": 129027,
+      "word": "王楚钦展望中国大满贯",
+      "onboard_time": 1727080639,
+      "rank": 43,
       "category": "体育"
     },
     {
@@ -3947,14 +4035,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 124828,
-      "num": 124828,
-      "word": "快提醒爸妈别安中国养老保险APP",
-      "onboard_time": 1727079440,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 124767,
       "num": 280112,
       "word": "男子买星巴克月饼券无法提货",
@@ -4027,14 +4107,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 120475,
-      "num": 120475,
-      "word": "孕妇吃冰箱冷藏海鲜感染李斯特菌引产",
-      "onboard_time": 1727079800,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 120056,
       "num": 120056,
       "word": "夺命寻呼机供应链有多少安全漏洞",
@@ -4049,6 +4121,14 @@
       "onboard_time": 1727069130,
       "rank": 29,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 119909,
+      "num": 119909,
+      "word": "郑钦文首轮轮空",
+      "onboard_time": 1727076919,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 119554,
@@ -4177,14 +4257,6 @@
       "onboard_time": 1726978698,
       "rank": 49,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 114252,
-      "num": 114252,
-      "word": "郑钦文首轮轮空",
-      "onboard_time": 1727076919,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 113544,
@@ -4387,14 +4459,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 95314,
-      "num": 327402,
-      "word": "喜来登回应女子曝酒店提供色情服务",
-      "onboard_time": 1727078899,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 94275,
       "num": 94275,
       "word": "大部分成年人很难1小时不看手机",
@@ -4441,14 +4505,6 @@
       "onboard_time": 1727053398,
       "rank": 47,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 92350,
-      "num": 182382,
-      "word": "妹妹遇假警察骗局哥哥找来真警察",
-      "onboard_time": 1727078119,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 90597,
@@ -4795,6 +4851,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 57465,
+      "num": 415886,
+      "word": "黎以冲突会否失控",
+      "onboard_time": 1727076679,
+      "rank": 29,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 57432,
       "num": 463987,
       "word": "加沙一避难学校17次遭袭",
@@ -4809,14 +4873,6 @@
       "onboard_time": 1727069187,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 54723,
-      "num": 415886,
-      "word": "黎以冲突会否失控",
-      "onboard_time": 1727076679,
-      "rank": 29,
-      "category": "国外时政"
     },
     {
       "raw_hot": 54428,
@@ -4929,6 +4985,14 @@
       "onboard_time": 1726937598,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 46323,
+      "num": 139967,
+      "word": "长春一五星级酒店被曝提供色情服务",
+      "onboard_time": 1727080820,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 46092,
@@ -5369,6 +5433,14 @@
       "onboard_time": 1727075598,
       "rank": 18,
       "category": "网红"
+    },
+    {
+      "raw_hot": 19056,
+      "num": 809020,
+      "word": "文化中国行看巴丹吉林沙漠之美",
+      "onboard_time": 1727080280,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 18193,

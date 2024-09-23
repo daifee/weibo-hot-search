@@ -1,6 +1,6 @@
 {
   "startTime": 1727022296039,
-  "endTime": 1727080139854,
+  "endTime": 1727080978104,
   "band_list": [
     {
       "raw_hot": 4119718,
@@ -83,6 +83,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1554079,
+      "num": 1554079,
+      "word": "武艺大方承认自己的理想型是沈月",
+      "onboard_time": 1727078481,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1499484,
       "num": 864789,
       "word": "男友嫖娼被拘后女子要求酒店给说法",
@@ -113,14 +121,6 @@
       "onboard_time": 1727004261,
       "rank": 6,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 1181671,
-      "num": 1181671,
-      "word": "武艺大方承认自己的理想型是沈月",
-      "onboard_time": 1727078481,
-      "rank": 1,
-      "category": "综艺"
     },
     {
       "raw_hot": 1165057,
@@ -235,20 +235,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 879437,
+      "num": 381166,
+      "word": "17岁小伙来例假查出有卵巢",
+      "onboard_time": 1727078419,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 846109,
+      "num": 338934,
+      "word": "两个王力宏",
+      "onboard_time": 1727080759,
+      "rank": 12,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 767777,
       "num": 767777,
       "word": "曾舜晞加全红婵微信",
       "onboard_time": 1727058559,
       "rank": 7,
       "category": "音乐,体育"
-    },
-    {
-      "raw_hot": 761071,
-      "num": 381166,
-      "word": "17岁小伙来例假查出有卵巢",
-      "onboard_time": 1727078419,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 757382,
@@ -547,6 +555,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 351585,
+      "num": 437360,
+      "word": "店员用个人收款码收4万被刑拘",
+      "onboard_time": 1727075900,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 332885,
       "num": 332885,
       "word": "王楚钦差点放弃乒乓球",
@@ -561,6 +577,14 @@
       "onboard_time": 1727065171,
       "rank": 29,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 320442,
+      "num": 320442,
+      "word": "12306快让我候补上",
+      "onboard_time": 1727080399,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 318163,
@@ -584,6 +608,14 @@
       "word": "单依纯修音响来了",
       "onboard_time": 1727024297,
       "rank": 12,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 309787,
+      "num": 309787,
+      "word": "肖战有点方向感但不多",
+      "onboard_time": 1727080399,
+      "rank": 17,
       "category": "音乐"
     },
     {
@@ -625,14 +657,6 @@
       "onboard_time": 1727057899,
       "rank": 15,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 287644,
-      "num": 437360,
-      "word": "店员用个人收款码收4万被刑拘",
-      "onboard_time": 1727075900,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 282496,
@@ -681,6 +705,14 @@
       "onboard_time": 1727060298,
       "rank": 42,
       "category": "电影"
+    },
+    {
+      "raw_hot": 263187,
+      "num": 263187,
+      "word": "iPhone16Pro触摸屏被曝或会失灵",
+      "onboard_time": 1727079080,
+      "rank": 24,
+      "category": "数码"
     },
     {
       "raw_hot": 262716,
@@ -745,14 +777,6 @@
       "onboard_time": 1727069789,
       "rank": 25,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 245883,
-      "num": 245883,
-      "word": "iPhone16Pro触摸屏被曝或会失灵",
-      "onboard_time": 1727079080,
-      "rank": 24,
-      "category": "数码"
     },
     {
       "raw_hot": 244683,
@@ -859,6 +883,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 222455,
+      "num": 222455,
+      "word": "姚晨镜头中的易烊千玺",
+      "onboard_time": 1727079860,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 221102,
       "num": 221102,
       "word": "山姆10天翻车3次",
@@ -904,6 +936,14 @@
       "word": "株洲早高峰车祸初查非故意伤害",
       "onboard_time": 1727062098,
       "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 214592,
+      "num": 214592,
+      "word": "孕妇吃冰箱冷藏海鲜感染李斯特菌引产",
+      "onboard_time": 1727079800,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -961,6 +1001,14 @@
       "onboard_time": 1727073023,
       "rank": 30,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 205875,
+      "num": 205875,
+      "word": "THEBOYZ不续约",
+      "onboard_time": 1727080701,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 205831,
@@ -1187,6 +1235,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 184687,
+      "num": 184687,
+      "word": "交警说车主傻不拉几被停职",
+      "onboard_time": 1727077339,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 184044,
       "num": 184044,
       "word": "秋天来了",
@@ -1291,6 +1347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 166937,
+      "num": 327402,
+      "word": "喜来登回应女子曝酒店提供色情服务",
+      "onboard_time": 1727078899,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 166752,
       "num": 166752,
       "word": "阿云嘎新歌唢呐一出泪腺控不住",
@@ -1313,14 +1377,6 @@
       "onboard_time": 1727018422,
       "rank": 29,
       "category": "情感"
-    },
-    {
-      "raw_hot": 164912,
-      "num": 164912,
-      "word": "交警说车主傻不拉几被停职",
-      "onboard_time": 1727077339,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 164445,
@@ -1403,12 +1459,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 155438,
+      "num": 155438,
+      "word": "知否的含金量还在上升",
+      "onboard_time": 1727080220,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 155197,
       "num": 155197,
       "word": "周深演唱会来了好多明星",
       "onboard_time": 1727068049,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 153626,
+      "num": 153626,
+      "word": "株洲芦淞大桥事故系SUV司机逆行",
+      "onboard_time": 1727080340,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 152437,
@@ -1425,6 +1497,14 @@
       "onboard_time": 1727078599,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 148843,
+      "num": 182382,
+      "word": "妹妹遇假警察骗局哥哥找来真警察",
+      "onboard_time": 1727078119,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 148664,
@@ -1611,6 +1691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 133747,
+      "num": 133747,
+      "word": "快提醒爸妈别安中国养老保险APP",
+      "onboard_time": 1727079440,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 133605,
       "num": 133605,
       "word": "宝马8月在华销量接近腰斩",
@@ -1635,14 +1723,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 131323,
-      "num": 131323,
-      "word": "姚晨镜头中的易烊千玺",
-      "onboard_time": 1727079860,
-      "rank": 40,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 129982,
       "num": 214797,
       "word": "央视曝光包治百病的保健床垫骗局",
@@ -1657,6 +1737,14 @@
       "onboard_time": 1727057179,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 129027,
+      "num": 129027,
+      "word": "王楚钦展望中国大满贯",
+      "onboard_time": 1727080639,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 127304,
@@ -1699,14 +1787,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 124828,
-      "num": 124828,
-      "word": "快提醒爸妈别安中国养老保险APP",
-      "onboard_time": 1727079440,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 123912,
       "num": 481577,
       "word": "自动续费咋能这么坑",
@@ -1731,14 +1811,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 120475,
-      "num": 120475,
-      "word": "孕妇吃冰箱冷藏海鲜感染李斯特菌引产",
-      "onboard_time": 1727079800,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 120056,
       "num": 120056,
       "word": "夺命寻呼机供应链有多少安全漏洞",
@@ -1753,6 +1825,14 @@
       "onboard_time": 1727069130,
       "rank": 29,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 119909,
+      "num": 119909,
+      "word": "郑钦文首轮轮空",
+      "onboard_time": 1727076919,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 118759,
@@ -1792,14 +1872,6 @@
       "word": "哈兰德追平C罗百球纪录",
       "onboard_time": 1727058498,
       "rank": 36,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 114252,
-      "num": 114252,
-      "word": "郑钦文首轮轮空",
-      "onboard_time": 1727076919,
-      "rank": 46,
       "category": "体育"
     },
     {
@@ -1907,14 +1979,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 95314,
-      "num": 327402,
-      "word": "喜来登回应女子曝酒店提供色情服务",
-      "onboard_time": 1727078899,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 94226,
       "num": 339365,
       "word": "80岁奶奶说起爱情眼睛亮亮的",
@@ -1953,14 +2017,6 @@
       "onboard_time": 1727053398,
       "rank": 47,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 92350,
-      "num": 182382,
-      "word": "妹妹遇假警察骗局哥哥找来真警察",
-      "onboard_time": 1727078119,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 88894,
@@ -2099,20 +2155,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 57465,
+      "num": 415886,
+      "word": "黎以冲突会否失控",
+      "onboard_time": 1727076679,
+      "rank": 29,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 56954,
       "num": 440984,
       "word": "37岁女子常年重油重盐抽出猪油血",
       "onboard_time": 1727069187,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 54723,
-      "num": 415886,
-      "word": "黎以冲突会否失控",
-      "onboard_time": 1727076679,
-      "rank": 29,
-      "category": "国外时政"
     },
     {
       "raw_hot": 53294,
@@ -2153,6 +2209,14 @@
       "onboard_time": 1727039291,
       "rank": 15,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 46323,
+      "num": 139967,
+      "word": "长春一五星级酒店被曝提供色情服务",
+      "onboard_time": 1727080820,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 43635,
@@ -2329,6 +2393,14 @@
       "onboard_time": 1727075598,
       "rank": 18,
       "category": "网红"
+    },
+    {
+      "raw_hot": 19056,
+      "num": 809020,
+      "word": "文化中国行看巴丹吉林沙漠之美",
+      "onboard_time": 1727080280,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 18193,

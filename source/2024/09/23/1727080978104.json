@@ -1,0 +1,410 @@
+{
+  "runTime": 1727080978104,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2707322,
+        "num": 2707322,
+        "word": "致6死7伤肇事车司机绝望大喊完了",
+        "onboard_time": 1727075719,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1554079,
+        "num": 1554079,
+        "word": "武艺大方承认自己的理想型是沈月",
+        "onboard_time": 1727078481,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19056,
+        "num": 809020,
+        "word": "文化中国行看巴丹吉林沙漠之美",
+        "onboard_time": 1727080280,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 741938,
+        "num": 741938,
+        "word": "苹果客服回应锁了十年的iPhone解锁了",
+        "onboard_time": 1727073680,
+        "rank": 3,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 571278,
+        "num": 571278,
+        "word": "王力宏晒肖战直拍",
+        "onboard_time": 1727070199,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 482379,
+        "num": 482379,
+        "word": "川航一航班挂7700紧急代码备降宁波",
+        "onboard_time": 1727069668,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 478422,
+        "num": 478422,
+        "word": "追尾致车辆驶向对向车道6死7伤",
+        "onboard_time": 1727065105,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 415943,
+        "num": 415943,
+        "word": "赵丽颖领奖后一个人坐了很久",
+        "onboard_time": 1727065230,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 351585,
+        "num": 351585,
+        "word": "店员用个人收款码收4万被刑拘",
+        "onboard_time": 1727075900,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220987,
+        "num": 350051,
+        "word": "国安部公开台独网军3人照片",
+        "onboard_time": 1727069848,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1067950,
+        "num": 347181,
+        "word": "男友嫖娼被拘后女子要求酒店给说法",
+        "onboard_time": 1727074940,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 879437,
+        "num": 342795,
+        "word": "17岁小伙来例假查出有卵巢",
+        "onboard_time": 1727078419,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 846109,
+        "num": 338934,
+        "word": "两个王力宏",
+        "onboard_time": 1727080759,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 337323,
+        "num": 337323,
+        "word": "王楚钦首本五大女刊",
+        "onboard_time": 1727075900,
+        "rank": 13,
+        "category": "体育,作品衍生"
+      },
+      {
+        "raw_hot": 491737,
+        "num": 336575,
+        "word": "男子家暴孕妻致死落网后求判无罪",
+        "onboard_time": 1727070689,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 320442,
+        "num": 320442,
+        "word": "12306快让我候补上",
+        "onboard_time": 1727080399,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33372,
+        "num": 312392,
+        "word": "集齐鸿蒙全家桶是什么体验",
+        "onboard_time": 1727078539,
+        "rank": 16,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 309787,
+        "num": 309787,
+        "word": "肖战有点方向感但不多",
+        "onboard_time": 1727080399,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 263187,
+        "num": 263187,
+        "word": "iPhone16Pro触摸屏被曝或会失灵",
+        "onboard_time": 1727079080,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 249066,
+        "num": 249066,
+        "word": "心动7破碎的他得体的她",
+        "onboard_time": 1727076499,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 832203,
+        "num": 246724,
+        "word": "记者实探小英家",
+        "onboard_time": 1727067510,
+        "rank": 20,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 239571,
+        "num": 239571,
+        "word": "乘客称飞机落地时有较大噪音",
+        "onboard_time": 1727075839,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 40101,
+        "num": 225713,
+        "word": "河北省旅发大会在廊坊启幕",
+        "onboard_time": 1727075959,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222455,
+        "num": 222455,
+        "word": "姚晨镜头中的易烊千玺",
+        "onboard_time": 1727079860,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 214592,
+        "num": 214592,
+        "word": "孕妇吃冰箱冷藏海鲜感染李斯特菌引产",
+        "onboard_time": 1727079800,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 57465,
+        "num": 211503,
+        "word": "黎以冲突会否失控",
+        "onboard_time": 1727076679,
+        "rank": 25,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 209697,
+        "num": 209697,
+        "word": "迪丽热巴巴黎偶遇路透",
+        "onboard_time": 1727076499,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 206960,
+        "num": 206960,
+        "word": "12306回应上线车内换座功能",
+        "onboard_time": 1727071648,
+        "rank": 27,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 205875,
+        "num": 205875,
+        "word": "THEBOYZ不续约",
+        "onboard_time": 1727080701,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200084,
+        "num": 200084,
+        "word": "每周饿两天血糖和代谢都变好了",
+        "onboard_time": 1727070927,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 184687,
+        "num": 184687,
+        "word": "交警说车主傻不拉几被停职",
+        "onboard_time": 1727077339,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175940,
+        "num": 175940,
+        "word": "为什么抑郁症患者不愿去医院",
+        "onboard_time": 1727074998,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 175337,
+        "num": 175337,
+        "word": "警犬口水都拉丝了愣是一口没吃",
+        "onboard_time": 1727070987,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174694,
+        "num": 174694,
+        "word": "王楚钦解释混双比赛中手势含义",
+        "onboard_time": 1727079138,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 166937,
+        "num": 166937,
+        "word": "喜来登回应女子曝酒店提供色情服务",
+        "onboard_time": 1727078899,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155438,
+        "num": 155438,
+        "word": "知否的含金量还在上升",
+        "onboard_time": 1727080220,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153626,
+        "num": 153626,
+        "word": "株洲芦淞大桥事故系SUV司机逆行",
+        "onboard_time": 1727080340,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148843,
+        "num": 148843,
+        "word": "妹妹遇假警察骗局哥哥找来真警察",
+        "onboard_time": 1727078119,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145324,
+        "num": 145324,
+        "word": "谁家男主坐躺拍完整部剧啊",
+        "onboard_time": 1727078599,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 46323,
+        "num": 139967,
+        "word": "长春一五星级酒店被曝提供色情服务",
+        "onboard_time": 1727080820,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136588,
+        "num": 136588,
+        "word": "救命钱岂能成唐僧肉",
+        "onboard_time": 1727063540,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133747,
+        "num": 133747,
+        "word": "快提醒爸妈别安中国养老保险APP",
+        "onboard_time": 1727079440,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131531,
+        "num": 131531,
+        "word": "李庚希让彭昱畅把肾捐给凌敏",
+        "onboard_time": 1727076140,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 129027,
+        "num": 129027,
+        "word": "王楚钦展望中国大满贯",
+        "onboard_time": 1727080639,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125507,
+        "num": 125507,
+        "word": "原来年轻人开始衰老是有征兆的",
+        "onboard_time": 1727061379,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 123342,
+        "num": 123342,
+        "word": "陈哲远换手机了",
+        "onboard_time": 1727066311,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119909,
+        "num": 119909,
+        "word": "郑钦文首轮轮空",
+        "onboard_time": 1727076919,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117775,
+        "num": 117775,
+        "word": "iPhone15ProMax为上半年最畅销手机",
+        "onboard_time": 1727074159,
+        "rank": 47,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 110212,
+        "num": 110212,
+        "word": "25岁72岁62岁三人CT片几乎一样后续",
+        "onboard_time": 1727063720,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109474,
+        "num": 109474,
+        "word": "王俊凯连续4年任平遥影展特约策展人",
+        "onboard_time": 1727079080,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#循着总书记指引看中国东盟合作之变#"
+    }
+  }
+}
