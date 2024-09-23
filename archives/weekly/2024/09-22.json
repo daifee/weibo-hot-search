@@ -1,6 +1,6 @@
 {
   "startTime": 1726936020707,
-  "endTime": 1727091326838,
+  "endTime": 1727095334698,
   "band_list": [
     {
       "raw_hot": 6817146,
@@ -313,6 +313,14 @@
       "onboard_time": 1727009902,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1266736,
+      "num": 1266736,
+      "word": "小英女儿要吃漂亮饭片段被再提",
+      "onboard_time": 1727093480,
+      "rank": 1,
+      "category": "网红"
     },
     {
       "raw_hot": 1232262,
@@ -883,6 +891,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 642953,
+      "num": 642953,
+      "word": "河海大学图书馆厕所发现摄像头",
+      "onboard_time": 1727089399,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 641362,
       "num": 467136,
       "word": "周深鸟巢上座率",
@@ -931,12 +947,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 603019,
+      "num": 603019,
+      "word": "张凌赫 何医生",
+      "onboard_time": 1727090300,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 584439,
       "num": 584439,
       "word": "iPhone16Pro触摸屏被曝或会失灵",
       "onboard_time": 1727079080,
       "rank": 24,
       "category": "数码"
+    },
+    {
+      "raw_hot": 582256,
+      "num": 582256,
+      "word": "恋与深空总榜登顶再送十连",
+      "onboard_time": 1727093120,
+      "rank": 5,
+      "category": "游戏"
     },
     {
       "raw_hot": 575746,
@@ -987,6 +1019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 556286,
+      "num": 556286,
+      "word": "11岁女孩沉迷买卡仨月花了一万二",
+      "onboard_time": 1727089940,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 555224,
       "num": 349032,
       "word": "原来年轻人开始衰老是有征兆的",
@@ -1033,6 +1073,14 @@
       "onboard_time": 1726994180,
       "rank": 29,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 526214,
+      "num": 526214,
+      "word": "孙颖莎 大朋友小朋友都成长了",
+      "onboard_time": 1727090060,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 520313,
@@ -1121,6 +1169,14 @@
       "onboard_time": 1726969639,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 483264,
+      "num": 483264,
+      "word": "日本舰长擅闯我领海后被撤职",
+      "onboard_time": 1727090720,
+      "rank": 30,
+      "category": "国外时政"
     },
     {
       "raw_hot": 482269,
@@ -1379,6 +1435,14 @@
       "category": "音乐,体育"
     },
     {
+      "raw_hot": 404931,
+      "num": 302133,
+      "word": "工资可以少但要双休不加班",
+      "onboard_time": 1727090480,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 402554,
       "num": 402554,
       "word": "秋分后开始昼短夜长",
@@ -1523,6 +1587,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 364078,
+      "num": 364078,
+      "word": "恋与深空",
+      "onboard_time": 1726932264,
+      "rank": 15,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 363932,
       "num": 263684,
       "word": "张碧晨回应演唱会嘉宾争议",
@@ -1553,6 +1625,14 @@
       "onboard_time": 1727008164,
       "rank": 34,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 361595,
+      "num": 361595,
+      "word": "东北雨姐卖红薯粉丝被质疑成分",
+      "onboard_time": 1727092760,
+      "rank": 15,
+      "category": "网红"
     },
     {
       "raw_hot": 357794,
@@ -1609,14 +1689,6 @@
       "onboard_time": 1726987399,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 343018,
-      "num": 343018,
-      "word": "孙颖莎 大朋友小朋友都成长了",
-      "onboard_time": 1727090060,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 339718,
@@ -1713,14 +1785,6 @@
       "onboard_time": 1727080701,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 314537,
-      "num": 349309,
-      "word": "河海大学图书馆厕所发现摄像头",
-      "onboard_time": 1727089399,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 313834,
@@ -1849,6 +1913,14 @@
       "onboard_time": 1727014705,
       "rank": 47,
       "category": "音乐,体育"
+    },
+    {
+      "raw_hot": 287407,
+      "num": 287407,
+      "word": "知情人称嫌犯李娜已在韩国落网",
+      "onboard_time": 1727092760,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 283025,
@@ -2475,6 +2547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 214469,
+      "num": 214469,
+      "word": "白鹿直播",
+      "onboard_time": 1727092400,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 214087,
       "num": 185712,
       "word": "黄绮珊晒与樊振东登陆少年合照",
@@ -2497,6 +2577,14 @@
       "onboard_time": 1727011044,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 212519,
+      "num": 194529,
+      "word": "刘耀文 不要夸我可爱夸我帅",
+      "onboard_time": 1727094800,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 211962,
@@ -2681,14 +2769,6 @@
       "onboard_time": 1726968200,
       "rank": 33,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 203334,
-      "num": 203334,
-      "word": "日本舰长擅闯我领海后被撤职",
-      "onboard_time": 1727090720,
-      "rank": 30,
-      "category": "国外时政"
     },
     {
       "raw_hot": 202970,
@@ -3435,6 +3515,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 167431,
+      "num": 167431,
+      "word": "孙颖莎谈WTT中国大满贯目标",
+      "onboard_time": 1727092639,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 167407,
       "num": 167407,
       "word": "闻香记开机",
@@ -3707,14 +3795,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 152463,
-      "num": 152463,
-      "word": "工资可以少但要双休不加班",
-      "onboard_time": 1727090480,
-      "rank": 39,
-      "category": "情感"
-    },
-    {
       "raw_hot": 152437,
       "num": 152437,
       "word": "多方担忧黎以全面战争爆发",
@@ -3848,6 +3928,14 @@
       "word": "刘烨眼中花少最不合群的人",
       "onboard_time": 1727054958,
       "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 147677,
+      "num": 147677,
+      "word": "心动的信号 观察室",
+      "onboard_time": 1727093120,
+      "rank": 40,
       "category": "综艺"
     },
     {
@@ -4027,6 +4115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 139714,
+      "num": 139714,
+      "word": "老板回应被西班牙网红夫妇吐槽咖啡贵",
+      "onboard_time": 1727094681,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 138766,
       "num": 320243,
       "word": "半熟男女微博追剧团",
@@ -4107,6 +4203,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 136992,
+      "num": 130995,
+      "word": "河北文旅直播",
+      "onboard_time": 1727094501,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 136544,
       "num": 136544,
       "word": "潘展乐说每天1.5万米雷打不动",
@@ -4163,14 +4267,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 133819,
-      "num": 282418,
-      "word": "恋与深空",
-      "onboard_time": 1726932264,
-      "rank": 15,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 133605,
       "num": 133605,
       "word": "宝马8月在华销量接近腰斩",
@@ -4185,6 +4281,14 @@
       "onboard_time": 1726973119,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 133366,
+      "num": 133366,
+      "word": "LPL最害怕的一集",
+      "onboard_time": 1727095100,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 132551,
@@ -4233,6 +4337,14 @@
       "onboard_time": 1727087541,
       "rank": 39,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 131066,
+      "num": 131066,
+      "word": "黄奕47岁的身材管理",
+      "onboard_time": 1727092939,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 130533,
@@ -4843,6 +4955,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 94733,
+      "num": 294579,
+      "word": "以军空袭致黎巴嫩百人死数百人伤",
+      "onboard_time": 1727091680,
+      "rank": 22,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 94275,
       "num": 94275,
       "word": "大部分成年人很难1小时不看手机",
@@ -4995,6 +5115,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 82234,
+      "num": 342670,
+      "word": "孙杨参加发布会睡着了",
+      "onboard_time": 1727091499,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 81720,
       "num": 220645,
       "word": "威震天演我偶像塌房",
@@ -5075,14 +5203,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 73516,
-      "num": 292991,
-      "word": "11岁女孩沉迷买卡仨月花了一万二",
-      "onboard_time": 1727089940,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 72793,
       "num": 72793,
       "word": "上海地铁9座车站更名",
@@ -5160,6 +5280,14 @@
       "word": "校长告诫家长说学校坏话将被群攻",
       "onboard_time": 1727012725,
       "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 66818,
+      "num": 365068,
+      "word": "为何病人住院越久医院亏得越多",
+      "onboard_time": 1727093480,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -5611,6 +5739,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 36499,
+      "num": 316840,
+      "word": "女子留男闺蜜在家居住被多次盗窃财物",
+      "onboard_time": 1727094199,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 36393,
       "num": 432679,
       "word": "磐安在养生上还是太全面了",
@@ -5753,6 +5889,14 @@
       "onboard_time": 1726974860,
       "rank": 19,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 28713,
+      "num": 371698,
+      "word": "江慈是流水迢迢自己的贾宝玉",
+      "onboard_time": 1727092880,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 28675,
@@ -5931,6 +6075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 21102,
+      "num": 159741,
+      "word": "选MPV金标准就是GL8",
+      "onboard_time": 1727091260,
+      "rank": 49,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 20674,
       "num": 208688,
       "word": "以为在火星实际在长城",
@@ -6051,14 +6203,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 12855,
-      "num": 103702,
-      "word": "选MPV金标准就是GL8",
-      "onboard_time": 1727091260,
-      "rank": 49,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 12309,
       "num": 29179,
       "word": "运20和光辉岁月BGM梦幻联动",
@@ -6145,6 +6289,14 @@
       "onboard_time": 1726987279,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 4886,
+      "num": 324149,
+      "word": "甜馨救助被碾压的流浪猫",
+      "onboard_time": 1727095280,
+      "rank": 18,
+      "category": "艺人"
     }
   ],
   "hotgov_list": [
@@ -6165,6 +6317,9 @@
     },
     {
       "word": "#习近平致电祝贺迪萨纳亚克就任斯里兰卡总统#"
+    },
+    {
+      "word": "#加快建设航天强国#"
     }
   ]
 }
