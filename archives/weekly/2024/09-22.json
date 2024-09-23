@@ -1,6 +1,6 @@
 {
   "startTime": 1726936020707,
-  "endTime": 1727105836273,
+  "endTime": 1727108827688,
   "band_list": [
     {
       "raw_hot": 6817146,
@@ -651,6 +651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 874653,
+      "num": 935014,
+      "word": "以前不理解李慧珍 上班后老实了",
+      "onboard_time": 1727105479,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 873029,
       "num": 564161,
       "word": "成龙真唱",
@@ -1091,6 +1099,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 564727,
+      "num": 600433,
+      "word": "以军空袭黎巴嫩多地致275死1024伤",
+      "onboard_time": 1727105359,
+      "rank": 7,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 560702,
       "num": 560702,
       "word": "为什么超市买不到1元的冰露了",
@@ -1163,6 +1179,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 522349,
+      "num": 522349,
+      "word": "女公职人员举报官员出轨强迫其堕胎",
+      "onboard_time": 1727101821,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 520313,
       "num": 520313,
       "word": "张新成王玉雯12年前vs12年后",
@@ -1185,14 +1209,6 @@
       "onboard_time": 1726929807,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 512224,
-      "num": 512224,
-      "word": "女公职人员举报官员出轨强迫其堕胎",
-      "onboard_time": 1727101821,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 509255,
@@ -1265,6 +1281,14 @@
       "onboard_time": 1726969639,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 484216,
+      "num": 484216,
+      "word": "原来人会从34岁开始变老",
+      "onboard_time": 1727105299,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 483264,
@@ -2193,14 +2217,6 @@
       "onboard_time": 1727007381,
       "rank": 31,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 261170,
-      "num": 261170,
-      "word": "原来人会从34岁开始变老",
-      "onboard_time": 1727105299,
-      "rank": 26,
-      "category": "情感"
     },
     {
       "raw_hot": 260653,
@@ -3963,14 +3979,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 156673,
-      "num": 156673,
-      "word": "以前不理解李慧珍 上班后老实了",
-      "onboard_time": 1727105479,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 156361,
       "num": 156361,
       "word": "秦彻风临野",
@@ -4209,6 +4217,14 @@
       "onboard_time": 1727098401,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 147030,
+      "num": 130851,
+      "word": "东北雨姐评论区关评刷屏",
+      "onboard_time": 1727107217,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 146712,
@@ -5131,6 +5147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 108586,
+      "num": 108586,
+      "word": "罗德里 ACL",
+      "onboard_time": 1727107638,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 107101,
       "num": 107101,
       "word": "京淘淘称被羊毛党薅走1.8亿",
@@ -5195,8 +5219,8 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 102717,
-      "num": 102717,
+      "raw_hot": 103121,
+      "num": 103121,
       "word": "极乐鸟工作室",
       "onboard_time": 1727103920,
       "rank": 44,
@@ -5307,6 +5331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 95999,
+      "num": 633362,
+      "word": "江西新余一企业突发火灾",
+      "onboard_time": 1727103740,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 95984,
       "num": 95984,
       "word": "雷佳音视帝大满贯",
@@ -5355,12 +5387,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 93737,
-      "num": 633362,
-      "word": "江西新余一企业突发火灾",
-      "onboard_time": 1727103740,
-      "rank": 8,
-      "category": "社会新闻"
+      "raw_hot": 93058,
+      "num": 93058,
+      "word": "玫瑰的故事TVB开播",
+      "onboard_time": 1727107398,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 92576,
@@ -5483,14 +5515,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 82489,
-      "num": 600433,
-      "word": "以军空袭黎巴嫩多地致275死1024伤",
-      "onboard_time": 1727105359,
-      "rank": 7,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 82234,
       "num": 342670,
       "word": "孙杨参加发布会睡着了",
@@ -5609,6 +5633,14 @@
       "onboard_time": 1727095280,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 73732,
+      "num": 91233,
+      "word": "韩国水泥价格暴涨",
+      "onboard_time": 1727107817,
+      "rank": 43,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 72793,
@@ -5763,6 +5795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 60240,
+      "num": 632917,
+      "word": "律师解读博主上门打假网红商品",
+      "onboard_time": 1727103980,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 59468,
       "num": 59468,
       "word": "迪丽热巴动态版一则",
@@ -5849,6 +5889,14 @@
       "onboard_time": 1727096839,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 55687,
+      "num": 91149,
+      "word": "原神5.0版本",
+      "onboard_time": 1727108597,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 54428,
@@ -5945,14 +5993,6 @@
       "onboard_time": 1727014224,
       "rank": 37,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 47709,
-      "num": 632917,
-      "word": "律师解读博主上门打假网红商品",
-      "onboard_time": 1727103980,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 46929,
@@ -6411,6 +6451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 27763,
+      "num": 416619,
+      "word": "乘客晕车应该怪司机吗",
+      "onboard_time": 1727103980,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 27687,
       "num": 203165,
       "word": "陈数骑自行车逛北大",
@@ -6569,14 +6617,6 @@
       "onboard_time": 1726957152,
       "rank": 29,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 17668,
-      "num": 416619,
-      "word": "乘客晕车应该怪司机吗",
-      "onboard_time": 1727103980,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 17628,
