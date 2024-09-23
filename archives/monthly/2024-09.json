@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1727087106822,
+  "endTime": 1727088167251,
   "band_list": [
     {
       "raw_hot": 28035334,
@@ -3577,6 +3577,14 @@
       "onboard_time": 1725846738,
       "rank": 42,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1296929,
+      "num": 1296929,
+      "word": "预制朋友圈",
+      "onboard_time": 1727085498,
+      "rank": 11,
+      "category": "幽默"
     },
     {
       "raw_hot": 1296851,
@@ -9523,6 +9531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 688011,
+      "num": 394491,
+      "word": "成龙离场特意摸了摸全红婵的头",
+      "onboard_time": 1727085619,
+      "rank": 13,
+      "category": "音乐,体育"
+    },
+    {
       "raw_hot": 687585,
       "num": 1101377,
       "word": "叙利亚人用沙袋为千年壁画挡战火",
@@ -9561,14 +9577,6 @@
       "onboard_time": 1725938479,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 685839,
-      "num": 398332,
-      "word": "预制朋友圈",
-      "onboard_time": 1727085498,
-      "rank": 11,
-      "category": "幽默"
     },
     {
       "raw_hot": 685781,
@@ -10489,6 +10497,14 @@
       "onboard_time": 1726184656,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 636887,
+      "num": 636887,
+      "word": "刘耀文直播",
+      "onboard_time": 1727087059,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 636789,
@@ -12319,6 +12335,14 @@
       "num": 548693,
       "word": "郯庐地震带",
       "onboard_time": 1726665742,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 548147,
+      "num": 548147,
+      "word": "博主称打假东北雨姐反被打",
+      "onboard_time": 1727086518,
       "rank": 26,
       "category": "社会新闻"
     },
@@ -14961,14 +14985,6 @@
       "onboard_time": 1725976644,
       "rank": 12,
       "category": "体育"
-    },
-    {
-      "raw_hot": 456769,
-      "num": 363116,
-      "word": "成龙离场特意摸了摸全红婵的头",
-      "onboard_time": 1727085619,
-      "rank": 13,
-      "category": "音乐,体育"
     },
     {
       "raw_hot": 456630,
@@ -21681,6 +21697,14 @@
       "onboard_time": 1725447920,
       "rank": 34,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 292050,
+      "num": 292050,
+      "word": "肖战喝水嘟嘴接泡泡",
+      "onboard_time": 1727087000,
+      "rank": 25,
+      "category": "音乐"
     },
     {
       "raw_hot": 291908,
@@ -28819,6 +28843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 217478,
+      "num": 256714,
+      "word": "法院4.2元拍卖一瓶大雪碧限自提",
+      "onboard_time": 1727083159,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 217402,
       "num": 327154,
       "word": "令人心动的offer6官宣",
@@ -29289,14 +29321,6 @@
       "onboard_time": 1725425782,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 213873,
-      "num": 213873,
-      "word": "肖战喝水嘟嘴接泡泡",
-      "onboard_time": 1727087000,
-      "rank": 25,
-      "category": "音乐"
     },
     {
       "raw_hot": 213870,
@@ -30115,14 +30139,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 208914,
-      "num": 208914,
-      "word": "博主称打假东北雨姐反被打",
-      "onboard_time": 1727086518,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 208898,
       "num": 208898,
       "word": "重庆高温",
@@ -30192,14 +30208,6 @@
       "word": "开封中小学幼儿园台风停课",
       "onboard_time": 1726624579,
       "rank": 43,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 208589,
-      "num": 208589,
-      "word": "法院4.2元拍卖一瓶大雪碧限自提",
-      "onboard_time": 1727083159,
-      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -35089,14 +35097,6 @@
       "onboard_time": 1725695480,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 189531,
-      "num": 189531,
-      "word": "刘耀文直播",
-      "onboard_time": 1727087059,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 189511,
@@ -45539,6 +45539,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 149351,
+      "num": 149351,
+      "word": "张译全红婵合影",
+      "onboard_time": 1727087840,
+      "rank": 31,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 149321,
       "num": 149321,
       "word": "傅文佩还是一样爱坑女儿",
@@ -46356,7 +46364,7 @@
     },
     {
       "raw_hot": 146443,
-      "num": 144229,
+      "num": 144684,
       "word": "许昕再回应被抄袭",
       "onboard_time": 1727084479,
       "rank": 38,
@@ -46577,6 +46585,14 @@
       "onboard_time": 1726759941,
       "rank": 44,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 145554,
+      "num": 145554,
+      "word": "翁青雅看彭高被选后尬住了",
+      "onboard_time": 1727084361,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 145552,
@@ -46977,14 +46993,6 @@
       "onboard_time": 1726465159,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 144322,
-      "num": 144322,
-      "word": "翁青雅看彭高被选后尬住了",
-      "onboard_time": 1727084361,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 144317,
@@ -48611,6 +48619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 137791,
+      "num": 137791,
+      "word": "梁王组合教练回应两人近期比赛失利",
+      "onboard_time": 1727086638,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 137558,
       "num": 137558,
       "word": "90岁老人哭着接过去世父亲的骨灰",
@@ -49371,6 +49387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 134597,
+      "num": 134597,
+      "word": "周一病",
+      "onboard_time": 1727085201,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 134576,
       "num": 134576,
       "word": "斯瓦泰克退出中网",
@@ -49577,14 +49601,6 @@
       "onboard_time": 1726924762,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 133820,
-      "num": 133820,
-      "word": "梁王组合教练回应两人近期比赛失利",
-      "onboard_time": 1727086638,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 133779,
@@ -50257,6 +50273,14 @@
       "onboard_time": 1726489520,
       "rank": 45,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 131177,
+      "num": 131177,
+      "word": "黎巴嫩部队宣传视频或导致情报泄露",
+      "onboard_time": 1727087541,
+      "rank": 39,
+      "category": "国外时政"
     },
     {
       "raw_hot": 131138,
@@ -52251,6 +52275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 121734,
+      "num": 121734,
+      "word": "妻子离家20年丈夫想给女友名分",
+      "onboard_time": 1727087599,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 121716,
       "num": 121716,
       "word": "TI13总决赛",
@@ -52729,6 +52761,14 @@
       "onboard_time": 1725638840,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 119219,
+      "num": 119219,
+      "word": "舍不得星星",
+      "onboard_time": 1727088079,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 119210,
@@ -56953,6 +56993,14 @@
       "onboard_time": 1725337164,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 86990,
+      "num": 422043,
+      "word": "2男子反骗电诈分子1800元被拘",
+      "onboard_time": 1727086040,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 86985,
@@ -62643,14 +62691,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 43123,
-      "num": 422043,
-      "word": "2男子反骗电诈分子1800元被拘",
-      "onboard_time": 1727086040,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 43014,
       "num": 314345,
       "word": "补票重看NBA总决赛",
@@ -64788,7 +64828,7 @@
     },
     {
       "raw_hot": 33988,
-      "num": 809020,
+      "num": 857007,
       "word": "文化中国行看巴丹吉林沙漠之美",
       "onboard_time": 1727080280,
       "rank": 2,
@@ -66315,6 +66355,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 27956,
+      "num": 170073,
+      "word": "火锅羽绒服",
+      "onboard_time": 1727084719,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 27953,
       "num": 32465,
       "word": "中国消防员参加世锦赛有多敏捷",
@@ -67673,14 +67721,6 @@
       "onboard_time": 1725979643,
       "rank": 13,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 21999,
-      "num": 170073,
-      "word": "火锅羽绒服",
-      "onboard_time": 1727084719,
-      "rank": 35,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 21955,

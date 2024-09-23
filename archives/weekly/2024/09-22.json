@@ -1,6 +1,6 @@
 {
   "startTime": 1726936020707,
-  "endTime": 1727087106822,
+  "endTime": 1727088167251,
   "band_list": [
     {
       "raw_hot": 6817146,
@@ -297,6 +297,14 @@
       "onboard_time": 1727009902,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1296929,
+      "num": 1296929,
+      "word": "预制朋友圈",
+      "onboard_time": 1727085498,
+      "rank": 11,
+      "category": "幽默"
     },
     {
       "raw_hot": 1232262,
@@ -763,12 +771,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 685839,
-      "num": 398332,
-      "word": "预制朋友圈",
-      "onboard_time": 1727085498,
-      "rank": 11,
-      "category": "幽默"
+      "raw_hot": 688011,
+      "num": 394491,
+      "word": "成龙离场特意摸了摸全红婵的头",
+      "onboard_time": 1727085619,
+      "rank": 13,
+      "category": "音乐,体育"
     },
     {
       "raw_hot": 685284,
@@ -867,6 +875,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 636887,
+      "num": 636887,
+      "word": "刘耀文直播",
+      "onboard_time": 1727087059,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 636367,
       "num": 275437,
       "word": "aespa迷你五辑预告",
@@ -953,6 +969,14 @@
       "onboard_time": 1727061379,
       "rank": 28,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 548147,
+      "num": 548147,
+      "word": "博主称打假东北雨姐反被打",
+      "onboard_time": 1727086518,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 546570,
@@ -1153,14 +1177,6 @@
       "onboard_time": 1726973180,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 456769,
-      "num": 363116,
-      "word": "成龙离场特意摸了摸全红婵的头",
-      "onboard_time": 1727085619,
-      "rank": 13,
-      "category": "音乐,体育"
     },
     {
       "raw_hot": 451583,
@@ -1771,6 +1787,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 292050,
+      "num": 292050,
+      "word": "肖战喝水嘟嘴接泡泡",
+      "onboard_time": 1727087000,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 289819,
       "num": 289819,
       "word": "樊振东 端水大师",
@@ -2347,6 +2371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 217478,
+      "num": 256714,
+      "word": "法院4.2元拍卖一瓶大雪碧限自提",
+      "onboard_time": 1727083159,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 217282,
       "num": 217282,
       "word": "李光洁风吹半夏家属自豪感",
@@ -2393,14 +2425,6 @@
       "onboard_time": 1727019862,
       "rank": 28,
       "category": "音乐,体育"
-    },
-    {
-      "raw_hot": 213873,
-      "num": 213873,
-      "word": "肖战喝水嘟嘴接泡泡",
-      "onboard_time": 1727087000,
-      "rank": 25,
-      "category": "音乐"
     },
     {
       "raw_hot": 212848,
@@ -2489,22 +2513,6 @@
       "onboard_time": 1727050941,
       "rank": 22,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 208914,
-      "num": 208914,
-      "word": "博主称打假东北雨姐反被打",
-      "onboard_time": 1727086518,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 208589,
-      "num": 208589,
-      "word": "法院4.2元拍卖一瓶大雪碧限自提",
-      "onboard_time": 1727083159,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 206734,
@@ -2739,6 +2747,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 196702,
+      "num": 265819,
+      "word": "半熟男女",
+      "onboard_time": 1727016984,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 196221,
       "num": 196221,
       "word": "BOYNEXTDOOR首次世巡海报",
@@ -2905,14 +2921,6 @@
       "onboard_time": 1727007441,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 189531,
-      "num": 189531,
-      "word": "刘耀文直播",
-      "onboard_time": 1727087059,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 189439,
@@ -3643,6 +3651,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 149351,
+      "num": 149351,
+      "word": "张译全红婵合影",
+      "onboard_time": 1727087840,
+      "rank": 31,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 148974,
       "num": 148974,
       "word": "王力宏官宣2024湾区升明月",
@@ -3740,7 +3756,7 @@
     },
     {
       "raw_hot": 146443,
-      "num": 144229,
+      "num": 144684,
       "word": "许昕再回应被抄袭",
       "onboard_time": 1727084479,
       "rank": 38,
@@ -3753,6 +3769,14 @@
       "onboard_time": 1726981820,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 145554,
+      "num": 145554,
+      "word": "翁青雅看彭高被选后尬住了",
+      "onboard_time": 1727084361,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 145374,
@@ -3817,22 +3841,6 @@
       "onboard_time": 1727071240,
       "rank": 39,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 144322,
-      "num": 144322,
-      "word": "翁青雅看彭高被选后尬住了",
-      "onboard_time": 1727084361,
-      "rank": 49,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 143826,
-      "num": 265819,
-      "word": "半熟男女",
-      "onboard_time": 1727016984,
-      "rank": 13,
-      "category": "剧集"
     },
     {
       "raw_hot": 143210,
@@ -3939,6 +3947,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 137791,
+      "num": 137791,
+      "word": "梁王组合教练回应两人近期比赛失利",
+      "onboard_time": 1727086638,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 137448,
       "num": 137448,
       "word": "这次听到樊振东声音了",
@@ -4011,12 +4027,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 133820,
-      "num": 133820,
-      "word": "梁王组合教练回应两人近期比赛失利",
-      "onboard_time": 1727086638,
-      "rank": 44,
-      "category": "体育"
+      "raw_hot": 134597,
+      "num": 134597,
+      "word": "周一病",
+      "onboard_time": 1727085201,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 133819,
@@ -4081,6 +4097,14 @@
       "onboard_time": 1727057612,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 131177,
+      "num": 131177,
+      "word": "黎巴嫩部队宣传视频或导致情报泄露",
+      "onboard_time": 1727087541,
+      "rank": 39,
+      "category": "国外时政"
     },
     {
       "raw_hot": 130533,
@@ -4299,6 +4323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 121734,
+      "num": 121734,
+      "word": "妻子离家20年丈夫想给女友名分",
+      "onboard_time": 1727087599,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 120862,
       "num": 120862,
       "word": "第六套人民币即将上市是假消息",
@@ -4337,6 +4369,14 @@
       "onboard_time": 1726999821,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 119219,
+      "num": 119219,
+      "word": "舍不得星星",
+      "onboard_time": 1727088079,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 118780,
@@ -4777,6 +4817,14 @@
       "onboard_time": 1727021719,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 86990,
+      "num": 422043,
+      "word": "2男子反骗电诈分子1800元被拘",
+      "onboard_time": 1727086040,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 85459,
@@ -5291,14 +5339,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 43123,
-      "num": 422043,
-      "word": "2男子反骗电诈分子1800元被拘",
-      "onboard_time": 1727086040,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 42885,
       "num": 865932,
       "word": "天山南北唱新歌",
@@ -5468,7 +5508,7 @@
     },
     {
       "raw_hot": 33988,
-      "num": 809020,
+      "num": 857007,
       "word": "文化中国行看巴丹吉林沙漠之美",
       "onboard_time": 1727080280,
       "rank": 2,
@@ -5577,6 +5617,14 @@
       "onboard_time": 1727085920,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 27956,
+      "num": 170073,
+      "word": "火锅羽绒服",
+      "onboard_time": 1727084719,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 27887,
@@ -5705,14 +5753,6 @@
       "onboard_time": 1727071290,
       "rank": 12,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 21999,
-      "num": 170073,
-      "word": "火锅羽绒服",
-      "onboard_time": 1727084719,
-      "rank": 35,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 21543,

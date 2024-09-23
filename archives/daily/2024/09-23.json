@@ -1,6 +1,6 @@
 {
   "startTime": 1727022296039,
-  "endTime": 1727087106822,
+  "endTime": 1727088167251,
   "band_list": [
     {
       "raw_hot": 4119718,
@@ -121,6 +121,14 @@
       "onboard_time": 1727004261,
       "rank": 6,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1296929,
+      "num": 1296929,
+      "word": "预制朋友圈",
+      "onboard_time": 1727085498,
+      "rank": 11,
+      "category": "幽默"
     },
     {
       "raw_hot": 1213528,
@@ -323,12 +331,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 685839,
-      "num": 398332,
-      "word": "预制朋友圈",
-      "onboard_time": 1727085498,
-      "rank": 11,
-      "category": "幽默"
+      "raw_hot": 688011,
+      "num": 394491,
+      "word": "成龙离场特意摸了摸全红婵的头",
+      "onboard_time": 1727085619,
+      "rank": 13,
+      "category": "音乐,体育"
     },
     {
       "raw_hot": 685284,
@@ -361,6 +369,14 @@
       "onboard_time": 1727007681,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 636887,
+      "num": 636887,
+      "word": "刘耀文直播",
+      "onboard_time": 1727087059,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 584439,
@@ -417,6 +433,14 @@
       "onboard_time": 1727061379,
       "rank": 28,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 548147,
+      "num": 548147,
+      "word": "博主称打假东北雨姐反被打",
+      "onboard_time": 1727086518,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 546570,
@@ -488,14 +512,6 @@
       "word": "王力宏晒和全红婵合影",
       "onboard_time": 1727076081,
       "rank": 15,
-      "category": "音乐,体育"
-    },
-    {
-      "raw_hot": 456769,
-      "num": 363116,
-      "word": "成龙离场特意摸了摸全红婵的头",
-      "onboard_time": 1727085619,
-      "rank": 13,
       "category": "音乐,体育"
     },
     {
@@ -729,6 +745,14 @@
       "onboard_time": 1727057899,
       "rank": 15,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 292050,
+      "num": 292050,
+      "word": "肖战喝水嘟嘴接泡泡",
+      "onboard_time": 1727087000,
+      "rank": 25,
+      "category": "音乐"
     },
     {
       "raw_hot": 282496,
@@ -1011,6 +1035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 217478,
+      "num": 256714,
+      "word": "法院4.2元拍卖一瓶大雪碧限自提",
+      "onboard_time": 1727083159,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 216892,
       "num": 216892,
       "word": "李庚希让彭昱畅把肾捐给凌敏",
@@ -1051,14 +1083,6 @@
       "category": "音乐,体育"
     },
     {
-      "raw_hot": 213873,
-      "num": 213873,
-      "word": "肖战喝水嘟嘴接泡泡",
-      "onboard_time": 1727087000,
-      "rank": 25,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 211765,
       "num": 211765,
       "word": "原来骑行真的能清班味",
@@ -1097,22 +1121,6 @@
       "onboard_time": 1727050941,
       "rank": 22,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 208914,
-      "num": 208914,
-      "word": "博主称打假东北雨姐反被打",
-      "onboard_time": 1727086518,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 208589,
-      "num": 208589,
-      "word": "法院4.2元拍卖一瓶大雪碧限自提",
-      "onboard_time": 1727083159,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 206336,
@@ -1211,6 +1219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 196702,
+      "num": 196702,
+      "word": "半熟男女",
+      "onboard_time": 1727016984,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 196221,
       "num": 196221,
       "word": "BOYNEXTDOOR首次世巡海报",
@@ -1305,14 +1321,6 @@
       "onboard_time": 1727062280,
       "rank": 35,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 189531,
-      "num": 189531,
-      "word": "刘耀文直播",
-      "onboard_time": 1727087059,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 189439,
@@ -1651,6 +1659,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 149351,
+      "num": 149351,
+      "word": "张译全红婵合影",
+      "onboard_time": 1727087840,
+      "rank": 31,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 148843,
       "num": 182382,
       "word": "妹妹遇假警察骗局哥哥找来真警察",
@@ -1692,11 +1708,19 @@
     },
     {
       "raw_hot": 146443,
-      "num": 144229,
+      "num": 144684,
       "word": "许昕再回应被抄袭",
       "onboard_time": 1727084479,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 145554,
+      "num": 145554,
+      "word": "翁青雅看彭高被选后尬住了",
+      "onboard_time": 1727084361,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 145374,
@@ -1763,22 +1787,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 144322,
-      "num": 144322,
-      "word": "翁青雅看彭高被选后尬住了",
-      "onboard_time": 1727084361,
-      "rank": 49,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 143826,
-      "num": 143826,
-      "word": "半熟男女",
-      "onboard_time": 1727016984,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 140095,
       "num": 140095,
       "word": "黑神话获IGN年度游戏投票第一",
@@ -1817,6 +1825,14 @@
       "onboard_time": 1727060478,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 137791,
+      "num": 137791,
+      "word": "梁王组合教练回应两人近期比赛失利",
+      "onboard_time": 1727086638,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 137448,
@@ -1883,12 +1899,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 133820,
-      "num": 133820,
-      "word": "梁王组合教练回应两人近期比赛失利",
-      "onboard_time": 1727086638,
-      "rank": 44,
-      "category": "体育"
+      "raw_hot": 134597,
+      "num": 134597,
+      "word": "周一病",
+      "onboard_time": 1727085201,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 133605,
@@ -1913,6 +1929,14 @@
       "onboard_time": 1727057612,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 131177,
+      "num": 131177,
+      "word": "黎巴嫩部队宣传视频或导致情报泄露",
+      "onboard_time": 1727087541,
+      "rank": 39,
+      "category": "国外时政"
     },
     {
       "raw_hot": 129982,
@@ -2011,6 +2035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 121734,
+      "num": 121734,
+      "word": "妻子离家20年丈夫想给女友名分",
+      "onboard_time": 1727087599,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 120056,
       "num": 120056,
       "word": "夺命寻呼机供应链有多少安全漏洞",
@@ -2033,6 +2065,14 @@
       "onboard_time": 1727076919,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 119219,
+      "num": 119219,
+      "word": "舍不得星星",
+      "onboard_time": 1727088079,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 118759,
@@ -2259,6 +2299,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 86990,
+      "num": 422043,
+      "word": "2男子反骗电诈分子1800元被拘",
+      "onboard_time": 1727086040,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 83876,
       "num": 365954,
       "word": "男子离婚冷静期杀妻案二审宣判",
@@ -2475,14 +2523,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 43123,
-      "num": 422043,
-      "word": "2男子反骗电诈分子1800元被拘",
-      "onboard_time": 1727086040,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 41982,
       "num": 365606,
       "word": "河北省旅发大会在廊坊启幕",
@@ -2588,7 +2628,7 @@
     },
     {
       "raw_hot": 33988,
-      "num": 809020,
+      "num": 857007,
       "word": "文化中国行看巴丹吉林沙漠之美",
       "onboard_time": 1727080280,
       "rank": 2,
@@ -2609,6 +2649,14 @@
       "onboard_time": 1727085920,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 27956,
+      "num": 170073,
+      "word": "火锅羽绒服",
+      "onboard_time": 1727084719,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 27867,
@@ -2673,14 +2721,6 @@
       "onboard_time": 1727071290,
       "rank": 12,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 21999,
-      "num": 170073,
-      "word": "火锅羽绒服",
-      "onboard_time": 1727084719,
-      "rank": 35,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 21543,
