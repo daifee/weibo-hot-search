@@ -1,0 +1,410 @@
+{
+  "runTime": 1727098187832,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1014972,
+        "num": 1162395,
+        "word": "拜登忘关话筒密谋应对所谓中国考验",
+        "onboard_time": 1727088800,
+        "rank": 0,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 996104,
+        "num": 996104,
+        "word": "知情人称嫌犯李娜已在韩国落网",
+        "onboard_time": 1727092760,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 5596,
+        "num": 612218,
+        "word": "文化中国行看巴丹吉林沙漠之美",
+        "onboard_time": 1727080280,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 594456,
+        "num": 594456,
+        "word": "11岁女孩沉迷买卡仨月花了一万二",
+        "onboard_time": 1727089940,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 570663,
+        "num": 570663,
+        "word": "八旬老太排队领鸡蛋被挤倒身亡",
+        "onboard_time": 1727097021,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 494979,
+        "num": 494979,
+        "word": "东北雨姐卖红薯粉丝被质疑成分",
+        "onboard_time": 1727092760,
+        "rank": 5,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 421873,
+        "num": 421873,
+        "word": "预制朋友圈",
+        "onboard_time": 1727085498,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 410360,
+        "num": 410360,
+        "word": "恋与深空总榜登顶再送十连",
+        "onboard_time": 1727093120,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 378674,
+        "num": 408243,
+        "word": "博主称打假东北雨姐反被打",
+        "onboard_time": 1727086518,
+        "rank": 8,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 41801,
+        "num": 404781,
+        "word": "货车司机称走1公里被收22元通行费",
+        "onboard_time": 1727096839,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 912097,
+        "num": 402605,
+        "word": "致6死7伤肇事车司机绝望大喊完了",
+        "onboard_time": 1727075719,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 470954,
+        "num": 397802,
+        "word": "东北雨姐丈夫回应博主打假被真打",
+        "onboard_time": 1727096421,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 395645,
+        "num": 395645,
+        "word": "河海大学图书馆厕所发现摄像头",
+        "onboard_time": 1727089399,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 385323,
+        "num": 385323,
+        "word": "研究生小伙打瘦脸针中毒暴瘦10斤",
+        "onboard_time": 1727096660,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 347309,
+        "num": 347309,
+        "word": "孙颖莎 大朋友小朋友都成长了",
+        "onboard_time": 1727090060,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 312021,
+        "num": 312021,
+        "word": "李诞自曝开直播是为了躲酒",
+        "onboard_time": 1727096121,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 281072,
+        "num": 281072,
+        "word": "刘耀文 不要夸我可爱夸我帅",
+        "onboard_time": 1727094800,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 272887,
+        "num": 272887,
+        "word": "陆虎婚后告诫张远老婆开心生活舒心",
+        "onboard_time": 1727097021,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 90879,
+        "num": 260454,
+        "word": "舒淇在香港每两年搬一次家",
+        "onboard_time": 1727097380,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 255465,
+        "num": 255465,
+        "word": "电影版偷偷藏不住启动选角",
+        "onboard_time": 1727089160,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1415240,
+        "num": 255445,
+        "word": "小英女儿要吃漂亮饭片段被再提",
+        "onboard_time": 1727093480,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 472473,
+        "num": 255438,
+        "word": "全网首个粉丝破亿女主播诞生",
+        "onboard_time": 1727095459,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 255414,
+        "num": 255414,
+        "word": "17岁小伙来例假查出有卵巢",
+        "onboard_time": 1727078419,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 439704,
+        "num": 251485,
+        "word": "武艺大方承认自己的理想型是沈月",
+        "onboard_time": 1727078481,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 315480,
+        "num": 248670,
+        "word": "工资可以少但要双休不加班",
+        "onboard_time": 1727090480,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 223093,
+        "num": 223093,
+        "word": "刘耀文直播",
+        "onboard_time": 1727087059,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207259,
+        "num": 207259,
+        "word": "恋与深空",
+        "onboard_time": 1727093120,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 206893,
+        "num": 206893,
+        "word": "江歌妈妈诉陈岚因证据不足被驳回",
+        "onboard_time": 1727083940,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206340,
+        "num": 206340,
+        "word": "白鹿直播",
+        "onboard_time": 1727092400,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188703,
+        "num": 188703,
+        "word": "老板回应被西班牙网红夫妇吐槽咖啡贵",
+        "onboard_time": 1727094681,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178421,
+        "num": 178421,
+        "word": "3胎妈妈怀孕9月从未产检患心衰脑出血",
+        "onboard_time": 1727098100,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170490,
+        "num": 170490,
+        "word": "苹果客服回应锁了十年的iPhone解锁了",
+        "onboard_time": 1727073680,
+        "rank": 31,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 79198,
+        "num": 162115,
+        "word": "为什么很多年轻人身体不如老一辈",
+        "onboard_time": 1727096240,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159133,
+        "num": 159133,
+        "word": "日本舰长擅闯我领海后被撤职",
+        "onboard_time": 1727090720,
+        "rank": 33,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 156980,
+        "num": 156980,
+        "word": "iPhone16Pro触摸屏被曝或会失灵",
+        "onboard_time": 1727079080,
+        "rank": 34,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 155388,
+        "num": 155388,
+        "word": "心动的信号 观察室",
+        "onboard_time": 1727093120,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152588,
+        "num": 152588,
+        "word": "再接再厉乘势而上加快建设航天强国",
+        "onboard_time": 1727097560,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 149186,
+        "num": 149186,
+        "word": "法院4.2元拍卖一瓶大雪碧限自提",
+        "onboard_time": 1727083159,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147325,
+        "num": 147325,
+        "word": "赵丽颖领奖后一个人坐了很久",
+        "onboard_time": 1727065230,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146360,
+        "num": 146360,
+        "word": "LPL最害怕的一集",
+        "onboard_time": 1727095100,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 140050,
+        "num": 140050,
+        "word": "山花烂漫时 隐喻",
+        "onboard_time": 1727096900,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142501,
+        "num": 139687,
+        "word": "张凌赫 何医生",
+        "onboard_time": 1727090300,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138330,
+        "num": 138330,
+        "word": "男子家暴孕妻致死落网后求判无罪",
+        "onboard_time": 1727070689,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137465,
+        "num": 137465,
+        "word": "半熟男女 酸笋哥",
+        "onboard_time": 1727090540,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135377,
+        "num": 135377,
+        "word": "王鹤棣的饭张力",
+        "onboard_time": 1727095520,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133358,
+        "num": 133358,
+        "word": "看似正常实则是抑郁的隐形信号",
+        "onboard_time": 1727097621,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130800,
+        "num": 130800,
+        "word": "黑神话悟空总收入近10亿美元",
+        "onboard_time": 1727096720,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 125003,
+        "num": 125003,
+        "word": "易烊千玺香港出发路透图",
+        "onboard_time": 1727097260,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 121767,
+        "num": 121767,
+        "word": "中国日报发了肖战莫文蔚",
+        "onboard_time": 1727095701,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 112290,
+        "num": 112290,
+        "word": "半熟男女凤凰男",
+        "onboard_time": 1727088499,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平接见嫦娥六号参研参试人员代表#"
+    }
+  }
+}
