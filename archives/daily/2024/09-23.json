@@ -1,6 +1,6 @@
 {
   "startTime": 1727022296039,
-  "endTime": 1727068914974,
+  "endTime": 1727069972914,
   "band_list": [
     {
       "raw_hot": 4119718,
@@ -67,12 +67,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1303592,
+      "num": 1303592,
+      "word": "记者实探小英家",
+      "onboard_time": 1727067510,
+      "rank": 7,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 1104053,
       "num": 1176648,
       "word": "恋与深空 抄袭",
       "onboard_time": 1727050219,
       "rank": 0,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 1072343,
+      "num": 1072343,
+      "word": "25岁72岁62岁三人CT片几乎一样后续",
+      "onboard_time": 1727063720,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1032457,
@@ -251,11 +267,11 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 542299,
-      "num": 542299,
-      "word": "25岁72岁62岁三人CT片几乎一样后续",
-      "onboard_time": 1727063720,
-      "rank": 35,
+      "raw_hot": 539526,
+      "num": 539526,
+      "word": "追尾致车辆驶向对向车道6死7伤",
+      "onboard_time": 1727065105,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -275,28 +291,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 490637,
-      "num": 490637,
-      "word": "记者实探小英家",
-      "onboard_time": 1727067510,
-      "rank": 7,
-      "category": "社会新闻,网红"
-    },
-    {
       "raw_hot": 488216,
       "num": 488216,
       "word": "飞天奖提名争议是佳作频出的烦恼",
       "onboard_time": 1727028192,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 481445,
-      "num": 481445,
-      "word": "追尾致车辆驶向对向车道6死7伤",
-      "onboard_time": 1727065105,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 471840,
@@ -412,7 +412,7 @@
     },
     {
       "raw_hot": 345956,
-      "num": 345956,
+      "num": 446945,
       "word": "救命钱岂能成唐僧肉",
       "onboard_time": 1727063540,
       "rank": 21,
@@ -491,6 +491,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 282496,
+      "num": 282496,
+      "word": "准女婿给老丈人掰玉米1天3亩地",
+      "onboard_time": 1727066492,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 276530,
       "num": 276530,
       "word": "柳岩 我无法代表剩女表达感受",
@@ -547,20 +555,20 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 249076,
+      "num": 249076,
+      "word": "闪耀暖暖船新版本",
+      "onboard_time": 1727069789,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 244683,
       "num": 244683,
       "word": "恋与深空将修改争议台词",
       "onboard_time": 1727065230,
       "rank": 34,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 242665,
-      "num": 242665,
-      "word": "准女婿给老丈人掰玉米1天3亩地",
-      "onboard_time": 1727066492,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 240746,
@@ -617,6 +625,14 @@
       "onboard_time": 1727064926,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 229022,
+      "num": 229022,
+      "word": "走失猫咪独自跋涉1200多公里",
+      "onboard_time": 1727066422,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 223913,
@@ -691,14 +707,6 @@
       "category": "音乐,体育"
     },
     {
-      "raw_hot": 211678,
-      "num": 211678,
-      "word": "走失猫咪独自跋涉1200多公里",
-      "onboard_time": 1727066422,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 210735,
       "num": 210735,
       "word": "IU演唱会好多明星",
@@ -739,6 +747,14 @@
       "category": "音乐,体育"
     },
     {
+      "raw_hot": 205113,
+      "num": 205113,
+      "word": "川航一航班挂7700紧急代码备降宁波",
+      "onboard_time": 1727069668,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 204665,
       "num": 175945,
       "word": "央视镜头下的左航",
@@ -753,6 +769,14 @@
       "onboard_time": 1727064800,
       "rank": 39,
       "category": "数码"
+    },
+    {
+      "raw_hot": 203996,
+      "num": 207821,
+      "word": "高雅cp",
+      "onboard_time": 1727068889,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 201552,
@@ -771,6 +795,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 199177,
+      "num": 438824,
+      "word": "拜托他可是张新成",
+      "onboard_time": 1727069070,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 198588,
       "num": 104508,
       "word": "韦唯和肖战阿云嘎合照",
@@ -785,6 +817,14 @@
       "onboard_time": 1727061199,
       "rank": 30,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 196750,
+      "num": 224810,
+      "word": "心动的信号7剪辑",
+      "onboard_time": 1727068949,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 195699,
@@ -883,6 +923,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 180632,
+      "num": 180632,
+      "word": "赵丽颖回应没准备获奖感言",
+      "onboard_time": 1727069907,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 180099,
       "num": 160936,
       "word": "经常做梦和很少做梦谁睡眠质量好",
@@ -937,6 +985,14 @@
       "onboard_time": 1727066422,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 166800,
+      "num": 166800,
+      "word": "国安部公开台独网军3人照片",
+      "onboard_time": 1727069848,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 166752,
@@ -1035,20 +1091,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 155197,
+      "num": 155197,
+      "word": "周深演唱会来了好多明星",
+      "onboard_time": 1727068049,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 153093,
+      "num": 155591,
+      "word": "株洲警方通报芦淞大桥交通事故",
+      "onboard_time": 1727069249,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 152437,
       "num": 152437,
       "word": "多方担忧黎以全面战争爆发",
       "onboard_time": 1727053398,
       "rank": 31,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 149943,
-      "num": 149943,
-      "word": "周深演唱会来了好多明星",
-      "onboard_time": 1727068049,
-      "rank": 46,
-      "category": "演出"
     },
     {
       "raw_hot": 148664,
@@ -1163,14 +1227,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 138035,
-      "num": 138035,
-      "word": "高雅cp",
-      "onboard_time": 1727068889,
-      "rank": 49,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 137448,
       "num": 137448,
       "word": "这次听到樊振东声音了",
@@ -1209,6 +1265,14 @@
       "onboard_time": 1727055378,
       "rank": 34,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 132595,
+      "num": 418070,
+      "word": "女子想缩小毛孔脸反被烧伤像橘子皮",
+      "onboard_time": 1727068350,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 132091,
@@ -1264,6 +1328,14 @@
       "word": "西湖里有片叶子能站200斤的人",
       "onboard_time": 1727023937,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 123912,
+      "num": 481577,
+      "word": "自动续费咋能这么坑",
+      "onboard_time": 1727068889,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -1515,14 +1587,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 74817,
-      "num": 307988,
-      "word": "女子想缩小毛孔脸反被烧伤像橘子皮",
-      "onboard_time": 1727068350,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 72257,
       "num": 77639,
       "word": "樊振东直拍",
@@ -1595,6 +1659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 56954,
+      "num": 440984,
+      "word": "37岁女子常年重油重盐抽出猪油血",
+      "onboard_time": 1727069187,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 53294,
       "num": 347339,
       "word": "韩国65岁以上就业者首超青年层",
@@ -1609,14 +1681,6 @@
       "onboard_time": 1727047397,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 48218,
-      "num": 481577,
-      "word": "自动续费咋能这么坑",
-      "onboard_time": 1727068889,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 46929,
@@ -1635,6 +1699,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 46175,
+      "num": 229951,
+      "word": "黎爆炸事件后外国网友安利中国制造",
+      "onboard_time": 1727069130,
+      "rank": 29,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 43635,
       "num": 104694,
       "word": "对6个省区开展实地法治督察",
@@ -1649,6 +1721,14 @@
       "onboard_time": 1727047878,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 41535,
+      "num": 441711,
+      "word": "网约车司机举报运管人员便服执法",
+      "onboard_time": 1727069848,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 40290,
@@ -1692,7 +1772,7 @@
     },
     {
       "raw_hot": 36224,
-      "num": 304681,
+      "num": 439820,
       "word": "不止是Cybertruck更是一车抵多车",
       "onboard_time": 1727068350,
       "rank": 20,
@@ -1803,19 +1883,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 8689,
+      "num": 1115791,
+      "word": "青春华章",
+      "onboard_time": 1726819520,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 8199,
       "num": 23413,
       "word": "起底包治百病的保健床垫销售套路",
       "onboard_time": 1727034192,
       "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 8098,
-      "num": 593469,
-      "word": "青春华章",
-      "onboard_time": 1726819520,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
