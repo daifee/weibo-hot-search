@@ -1,6 +1,6 @@
 {
   "startTime": 1727022296039,
-  "endTime": 1727095334698,
+  "endTime": 1727096319686,
   "band_list": [
     {
       "raw_hot": 4119718,
@@ -139,8 +139,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 1266736,
-      "num": 1266736,
+      "raw_hot": 1370995,
+      "num": 1370995,
       "word": "小英女儿要吃漂亮饭片段被再提",
       "onboard_time": 1727093480,
       "rank": 1,
@@ -531,6 +531,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 492387,
+      "num": 492387,
+      "word": "东北雨姐卖红薯粉丝被质疑成分",
+      "onboard_time": 1727092760,
+      "rank": 15,
+      "category": "网红"
+    },
+    {
       "raw_hot": 488216,
       "num": 488216,
       "word": "飞天奖提名争议是佳作频出的烦恼",
@@ -699,6 +707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 380320,
+      "num": 204033,
+      "word": "全网首个粉丝破亿女主播诞生",
+      "onboard_time": 1727095459,
+      "rank": 21,
+      "category": "网红"
+    },
+    {
       "raw_hot": 377789,
       "num": 377789,
       "word": "北京12345话务员一次电话接了13小时",
@@ -747,14 +763,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 361595,
-      "num": 361595,
-      "word": "东北雨姐卖红薯粉丝被质疑成分",
-      "onboard_time": 1727092760,
-      "rank": 15,
-      "category": "网红"
-    },
-    {
       "raw_hot": 356920,
       "num": 356920,
       "word": "肖战有点方向感但不多",
@@ -769,6 +777,14 @@
       "onboard_time": 1727049979,
       "rank": 31,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 347159,
+      "num": 347159,
+      "word": "知情人称嫌犯李娜已在韩国落网",
+      "onboard_time": 1727092760,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 332885,
@@ -865,14 +881,6 @@
       "onboard_time": 1727087000,
       "rank": 25,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 287407,
-      "num": 287407,
-      "word": "知情人称嫌犯李娜已在韩国落网",
-      "onboard_time": 1727092760,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 282496,
@@ -1291,6 +1299,14 @@
       "category": "音乐,体育"
     },
     {
+      "raw_hot": 205380,
+      "num": 173670,
+      "word": "李诞自曝开直播是为了躲酒",
+      "onboard_time": 1727096121,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 205159,
       "num": 205159,
       "word": "恋与深空欲揽旖旎色",
@@ -1433,6 +1449,14 @@
       "onboard_time": 1727053398,
       "rank": 25,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 193413,
+      "num": 193413,
+      "word": "老板回应被西班牙网红夫妇吐槽咖啡贵",
+      "onboard_time": 1727094681,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 193394,
@@ -1585,6 +1609,22 @@
       "onboard_time": 1727074340,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 183203,
+      "num": 183203,
+      "word": "王鹤棣的饭张力",
+      "onboard_time": 1727095520,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 182145,
+      "num": 182145,
+      "word": "心动的信号 观察室",
+      "onboard_time": 1727093120,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 181848,
@@ -1795,6 +1835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 162179,
+      "num": 162179,
+      "word": "LPL最害怕的一集",
+      "onboard_time": 1727095100,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 161722,
       "num": 161722,
       "word": "周深鸟巢演唱会",
@@ -1817,6 +1865,14 @@
       "onboard_time": 1727012905,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 157678,
+      "num": 157678,
+      "word": "半熟男女凤凰男",
+      "onboard_time": 1727088499,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 156361,
@@ -1859,14 +1915,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 150108,
-      "num": 150108,
-      "word": "半熟男女凤凰男",
-      "onboard_time": 1727088499,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 148843,
       "num": 182382,
       "word": "妹妹遇假警察骗局哥哥找来真警察",
@@ -1899,12 +1947,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 147677,
-      "num": 147677,
-      "word": "心动的信号 观察室",
-      "onboard_time": 1727093120,
-      "rank": 40,
-      "category": "综艺"
+      "raw_hot": 147537,
+      "num": 129585,
+      "word": "中国日报发了肖战莫文蔚",
+      "onboard_time": 1727095701,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 146712,
@@ -2017,14 +2065,6 @@
       "onboard_time": 1727088740,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 139714,
-      "num": 139714,
-      "word": "老板回应被西班牙网红夫妇吐槽咖啡贵",
-      "onboard_time": 1727094681,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 138766,
@@ -2147,14 +2187,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 133366,
-      "num": 133366,
-      "word": "LPL最害怕的一集",
-      "onboard_time": 1727095100,
-      "rank": 44,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 132091,
       "num": 132091,
       "word": "男子离婚冷静期杀妻案将二审宣判",
@@ -2259,6 +2291,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 124127,
+      "num": 365068,
+      "word": "为何病人住院越久医院亏得越多",
+      "onboard_time": 1727093480,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 123912,
       "num": 481577,
       "word": "自动续费咋能这么坑",
@@ -2339,6 +2379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 118045,
+      "num": 118045,
+      "word": "以军今日已空袭黎境内300多个目标",
+      "onboard_time": 1727094920,
+      "rank": 47,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 116615,
       "num": 107652,
       "word": "林宥嘉唱成全",
@@ -2385,6 +2433,14 @@
       "onboard_time": 1727009722,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 110712,
+      "num": 110712,
+      "word": "林孝埈赛季首战",
+      "onboard_time": 1727093600,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 105856,
@@ -2619,6 +2675,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 73774,
+      "num": 324149,
+      "word": "甜馨救助被碾压的流浪猫",
+      "onboard_time": 1727095280,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 72788,
       "num": 576193,
       "word": "巴黎圣母院的美此刻具象化了",
@@ -2633,6 +2697,14 @@
       "onboard_time": 1727009062,
       "rank": 44,
       "category": "音乐,体育"
+    },
+    {
+      "raw_hot": 71656,
+      "num": 316840,
+      "word": "女子留男闺蜜在家居住被多次盗窃财物",
+      "onboard_time": 1727094199,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 71086,
@@ -2659,20 +2731,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 66818,
-      "num": 365068,
-      "word": "为何病人住院越久医院亏得越多",
-      "onboard_time": 1727093480,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 62439,
       "num": 349808,
       "word": "中国小区高层住宅电梯老龄化何解",
       "onboard_time": 1727064560,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 60625,
+      "num": 173833,
+      "word": "商竣程首进巡回赛决赛",
+      "onboard_time": 1727095880,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 59380,
@@ -2891,14 +2963,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 36499,
-      "num": 316840,
-      "word": "女子留男闺蜜在家居住被多次盗窃财物",
-      "onboard_time": 1727094199,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 36393,
       "num": 432679,
       "word": "磐安在养生上还是太全面了",
@@ -3025,6 +3089,14 @@
       "onboard_time": 1727042412,
       "rank": 42,
       "category": "艺人,作品衍生"
+    },
+    {
+      "raw_hot": 26217,
+      "num": 316033,
+      "word": "为什么很多年轻人身体不如老一辈",
+      "onboard_time": 1727096240,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 22563,
@@ -3161,14 +3233,6 @@
       "onboard_time": 1726986678,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 4886,
-      "num": 324149,
-      "word": "甜馨救助被碾压的流浪猫",
-      "onboard_time": 1727095280,
-      "rank": 18,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [
