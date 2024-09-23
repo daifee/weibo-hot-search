@@ -1,6 +1,6 @@
 {
   "startTime": 1726936020707,
-  "endTime": 1727127325773,
+  "endTime": 1727130100150,
   "band_list": [
     {
       "raw_hot": 6817146,
@@ -3691,6 +3691,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 171962,
+      "num": 87684,
+      "word": "筋膜枪的真正作用只有一个",
+      "onboard_time": 1727114892,
+      "rank": 23,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 171457,
       "num": 279919,
       "word": "谁家男女主上一秒兄弟下一秒kiss",
@@ -4763,6 +4771,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 125971,
+      "num": 125971,
+      "word": "落水身亡网红驾驶摩托艇系个人所有",
+      "onboard_time": 1727122632,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 125252,
       "num": 125252,
       "word": "西湖里有片叶子能站200斤的人",
@@ -5483,14 +5499,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 87268,
-      "num": 59511,
-      "word": "筋膜枪的真正作用只有一个",
-      "onboard_time": 1727114892,
-      "rank": 23,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 86990,
       "num": 422043,
       "word": "2男子反骗电诈分子1800元被拘",
@@ -5537,6 +5545,14 @@
       "onboard_time": 1726942154,
       "rank": 47,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 82389,
+      "num": 82389,
+      "word": "大伯长期喝浓茶得胆结石做7次手术",
+      "onboard_time": 1727117171,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 82234,
@@ -5635,14 +5651,6 @@
       "category": "社会新闻,旅游"
     },
     {
-      "raw_hot": 77382,
-      "num": 77382,
-      "word": "大伯长期喝浓茶得胆结石做7次手术",
-      "onboard_time": 1727117171,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 75226,
       "num": 75226,
       "word": "地下室进野猫后爬满跳蚤",
@@ -5657,14 +5665,6 @@
       "onboard_time": 1726925122,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 74602,
-      "num": 74602,
-      "word": "落水身亡网红驾驶摩托艇系个人所有",
-      "onboard_time": 1727122632,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 74478,
@@ -5771,6 +5771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 67305,
+      "num": 67305,
+      "word": "法院4.2元拍卖一瓶大雪碧已撤拍",
+      "onboard_time": 1727118732,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 66628,
       "num": 188131,
       "word": "钟辰乐直播",
@@ -5785,14 +5793,6 @@
       "onboard_time": 1726938317,
       "rank": 41,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 66006,
-      "num": 66006,
-      "word": "法院4.2元拍卖一瓶大雪碧已撤拍",
-      "onboard_time": 1727118732,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 64758,
@@ -6043,6 +6043,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 50232,
+      "num": 50232,
+      "word": "大货车顶推红色奔驰双方司机都很懵",
+      "onboard_time": 1727121970,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 49825,
       "num": 49825,
       "word": "王一博拍的落日",
@@ -6161,6 +6169,14 @@
       "onboard_time": 1727078539,
       "rank": 17,
       "category": "数码"
+    },
+    {
+      "raw_hot": 43225,
+      "num": 43225,
+      "word": "外交部回应拜登称中国咄咄逼人",
+      "onboard_time": 1727116272,
+      "rank": 45,
+      "category": "国内时政"
     },
     {
       "raw_hot": 43146,
@@ -6299,6 +6315,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 36870,
+      "num": 36870,
+      "word": "官方回应运管人员穿便服封网约车账号",
+      "onboard_time": 1727120050,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 36675,
       "num": 36675,
       "word": "登陆少年台下镜头",
@@ -6369,14 +6393,6 @@
       "onboard_time": 1727080280,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 33093,
-      "num": 33093,
-      "word": "外交部回应拜登称中国咄咄逼人",
-      "onboard_time": 1727116272,
-      "rank": 45,
-      "category": "国内时政"
     },
     {
       "raw_hot": 32633,
@@ -6473,6 +6489,14 @@
       "onboard_time": 1727092880,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 28710,
+      "num": 30483,
+      "word": "派出所回应喜来登被指提供色情服务",
+      "onboard_time": 1727118552,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 28675,
@@ -6619,20 +6643,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 25083,
-      "num": 41363,
-      "word": "大货车顶推红色奔驰双方司机都很懵",
-      "onboard_time": 1727121970,
-      "rank": 42,
-      "category": "社会新闻"
+      "raw_hot": 24302,
+      "num": 30474,
+      "word": "王心凌官宣微博音乐盛典",
+      "onboard_time": 1727129171,
+      "rank": 44,
+      "category": "音乐"
     },
     {
-      "raw_hot": 24261,
-      "num": 24261,
-      "word": "官方回应运管人员穿便服封网约车账号",
-      "onboard_time": 1727120050,
-      "rank": 49,
-      "category": "社会新闻"
+      "raw_hot": 24194,
+      "num": 30468,
+      "word": "肖战往事随风高音绝了",
+      "onboard_time": 1727114173,
+      "rank": 39,
+      "category": "音乐"
     },
     {
       "raw_hot": 23571,
@@ -6723,28 +6747,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 19935,
-      "num": 22404,
-      "word": "派出所回应喜来登被指提供色情服务",
-      "onboard_time": 1727118552,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 19359,
-      "num": 23984,
+      "raw_hot": 20409,
+      "num": 88548,
       "word": "专坑家人们的主播该下架了",
       "onboard_time": 1727115432,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 18785,
-      "num": 19046,
-      "word": "肖战往事随风高音绝了",
-      "onboard_time": 1727114173,
-      "rank": 39,
-      "category": "音乐"
     },
     {
       "raw_hot": 18193,
