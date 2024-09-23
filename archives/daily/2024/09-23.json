@@ -1,6 +1,6 @@
 {
   "startTime": 1727022296039,
-  "endTime": 1727073112166,
+  "endTime": 1727073908107,
   "band_list": [
     {
       "raw_hot": 4119718,
@@ -35,6 +35,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1680384,
+      "num": 531115,
+      "word": "男子家暴孕妻致死落网后求判无罪",
+      "onboard_time": 1727070689,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1664813,
       "num": 1664813,
       "word": "赵丽颖领奖后一个人坐了很久",
@@ -57,14 +65,6 @@
       "onboard_time": 1727054059,
       "rank": 6,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 1533285,
-      "num": 531115,
-      "word": "男子家暴孕妻致死落网后求判无罪",
-      "onboard_time": 1727070689,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1497844,
@@ -339,6 +339,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 487867,
+      "num": 487867,
+      "word": "女子想缩小毛孔脸反被烧伤像橘子皮",
+      "onboard_time": 1727068350,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 471840,
       "num": 492173,
       "word": "国家医保局进驻无锡虹桥医院",
@@ -459,6 +467,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 347906,
+      "num": 313764,
+      "word": "每周饿两天血糖和代谢都变好了",
+      "onboard_time": 1727070927,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 332885,
       "num": 332885,
       "word": "王楚钦差点放弃乒乓球",
@@ -467,28 +483,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 323775,
-      "num": 313764,
-      "word": "每周饿两天血糖和代谢都变好了",
-      "onboard_time": 1727070927,
-      "rank": 21,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 322951,
       "num": 322951,
       "word": "网友问肖战什么时候开演唱会",
       "onboard_time": 1727065171,
       "rank": 29,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 319977,
-      "num": 418070,
-      "word": "女子想缩小毛孔脸反被烧伤像橘子皮",
-      "onboard_time": 1727068350,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 313690,
@@ -505,6 +505,14 @@
       "onboard_time": 1727024297,
       "rank": 12,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 305286,
+      "num": 305286,
+      "word": "12306回应上线车内换座功能",
+      "onboard_time": 1727071648,
+      "rank": 23,
+      "category": "互联网"
     },
     {
       "raw_hot": 301313,
@@ -553,14 +561,6 @@
       "onboard_time": 1727066492,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 279032,
-      "num": 279032,
-      "word": "12306回应上线车内换座功能",
-      "onboard_time": 1727071648,
-      "rank": 23,
-      "category": "互联网"
     },
     {
       "raw_hot": 276530,
@@ -617,6 +617,14 @@
       "onboard_time": 1727058873,
       "rank": 21,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 256457,
+      "num": 768952,
+      "word": "无锡虹桥医院涉欺诈骗保被立案侦查",
+      "onboard_time": 1727071408,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 253598,
@@ -740,7 +748,7 @@
     },
     {
       "raw_hot": 219342,
-      "num": 219342,
+      "num": 454199,
       "word": "警犬口水都拉丝了愣是一口没吃",
       "onboard_time": 1727070987,
       "rank": 27,
@@ -809,6 +817,14 @@
       "onboard_time": 1727067870,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 210156,
+      "num": 283488,
+      "word": "答应约会就是性同意吗",
+      "onboard_time": 1727073320,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 209495,
@@ -923,11 +939,27 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 195479,
+      "num": 195479,
+      "word": "株洲警方通报芦淞大桥交通事故",
+      "onboard_time": 1727069249,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 194531,
       "num": 338472,
       "word": "赵丽颖彼此信任彼此交付",
       "onboard_time": 1727068111,
       "rank": 17,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 194249,
+      "num": 194249,
+      "word": "刘耀文百花奖提名专访",
+      "onboard_time": 1727073079,
+      "rank": 29,
       "category": "电影"
     },
     {
@@ -971,14 +1003,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 189071,
-      "num": 189071,
-      "word": "刘耀文百花奖提名专访",
-      "onboard_time": 1727073079,
-      "rank": 29,
-      "category": "电影"
-    },
-    {
       "raw_hot": 188831,
       "num": 188831,
       "word": "近5亿年地球几乎一直比现在更热",
@@ -1009,6 +1033,22 @@
       "onboard_time": 1727018064,
       "rank": 31,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 184044,
+      "num": 184044,
+      "word": "秋天来了",
+      "onboard_time": 1727072968,
+      "rank": 38,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 182462,
+      "num": 182462,
+      "word": "终于有剧拍了脆皮00后",
+      "onboard_time": 1727072489,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 181848,
@@ -1179,20 +1219,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 157383,
-      "num": 157383,
-      "word": "终于有剧拍了脆皮00后",
-      "onboard_time": 1727072489,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 156854,
-      "num": 156854,
-      "word": "株洲警方通报芦淞大桥交通事故",
-      "onboard_time": 1727069249,
-      "rank": 45,
-      "category": "社会新闻"
+      "raw_hot": 156361,
+      "num": 156361,
+      "word": "秦彻风临野",
+      "onboard_time": 1727072308,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 155197,
@@ -1201,14 +1233,6 @@
       "onboard_time": 1727068049,
       "rank": 46,
       "category": "演出"
-    },
-    {
-      "raw_hot": 154704,
-      "num": 154704,
-      "word": "秋天来了",
-      "onboard_time": 1727072968,
-      "rank": 38,
-      "category": "旅游"
     },
     {
       "raw_hot": 152437,
@@ -1225,6 +1249,14 @@
       "onboard_time": 1727062459,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 147875,
+      "num": 147875,
+      "word": "汪顺晒恢复训练vlog",
+      "onboard_time": 1727073620,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 147707,
@@ -1435,6 +1467,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 126598,
+      "num": 126598,
+      "word": "女子便装执法被拒称胆子还不小",
+      "onboard_time": 1727072727,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 126390,
       "num": 126390,
       "word": "夏目友人帐 终于等到你",
@@ -1449,14 +1489,6 @@
       "onboard_time": 1727023937,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 124878,
-      "num": 124878,
-      "word": "秦彻风临野",
-      "onboard_time": 1727072308,
-      "rank": 46,
-      "category": "游戏"
     },
     {
       "raw_hot": 123912,
@@ -1491,6 +1523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 119959,
+      "num": 758465,
+      "word": "黎爆炸事件后外国网友安利中国制造",
+      "onboard_time": 1727069130,
+      "rank": 29,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 118759,
       "num": 118759,
       "word": "你的一把火烧了我的后半生",
@@ -1507,20 +1547,28 @@
       "category": "演出,音乐"
     },
     {
+      "raw_hot": 115834,
+      "num": 115834,
+      "word": "一诺用脑子玩游戏",
+      "onboard_time": 1727073559,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 115609,
+      "num": 115609,
+      "word": "苹果客服回应锁了十年的iPhone解锁了",
+      "onboard_time": 1727073680,
+      "rank": 47,
+      "category": "数码"
+    },
+    {
       "raw_hot": 114655,
       "num": 114655,
       "word": "哈兰德追平C罗百球纪录",
       "onboard_time": 1727058498,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 114182,
-      "num": 114182,
-      "word": "女子便装执法被拒称胆子还不小",
-      "onboard_time": 1727072727,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 113544,
@@ -1537,14 +1585,6 @@
       "onboard_time": 1727050039,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 112317,
-      "num": 758465,
-      "word": "黎爆炸事件后外国网友安利中国制造",
-      "onboard_time": 1727069130,
-      "rank": 29,
-      "category": "国外时政"
     },
     {
       "raw_hot": 110873,
@@ -1632,14 +1672,6 @@
       "word": "高端水果为啥卖不动了",
       "onboard_time": 1727056579,
       "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 96666,
-      "num": 768952,
-      "word": "无锡虹桥医院涉欺诈骗保被立案侦查",
-      "onboard_time": 1727071408,
-      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -1979,6 +2011,14 @@
       "category": "艺人,作品衍生"
     },
     {
+      "raw_hot": 23160,
+      "num": 121679,
+      "word": "吴磊抬腕这一下",
+      "onboard_time": 1727073680,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 22440,
       "num": 464265,
       "word": "Prada高智感穿搭",
@@ -2043,7 +2083,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 10077,
+      "raw_hot": 10132,
       "num": 1309340,
       "word": "青春华章",
       "onboard_time": 1726819520,
