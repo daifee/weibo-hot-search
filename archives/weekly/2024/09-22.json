@@ -1,6 +1,6 @@
 {
   "startTime": 1726936020707,
-  "endTime": 1727111991875,
+  "endTime": 1727113100141,
   "band_list": [
     {
       "raw_hot": 6817146,
@@ -5996,7 +5996,7 @@
     },
     {
       "raw_hot": 50968,
-      "num": 50967,
+      "num": 56165,
       "word": "肖战感谢力宏哥的运镜",
       "onboard_time": 1727111115,
       "rank": 42,
@@ -6329,6 +6329,14 @@
       "onboard_time": 1727080280,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 33950,
+      "num": 56152,
+      "word": "黑泽嘻嘻 雅不嘻嘻",
+      "onboard_time": 1727112853,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 32633,
