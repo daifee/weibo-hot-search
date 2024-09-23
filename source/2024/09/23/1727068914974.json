@@ -1,0 +1,410 @@
+{
+  "runTime": 1727068914974,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1586167,
+        "num": 1586167,
+        "word": "赵丽颖领奖后一个人坐了很久",
+        "onboard_time": 1727065230,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 881491,
+        "num": 881491,
+        "word": "株洲芦淞大桥事故已致6死7伤",
+        "onboard_time": 1727060358,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 8098,
+        "num": 593469,
+        "word": "青春华章",
+        "onboard_time": 1726819520,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1104245,
+        "num": 589398,
+        "word": "黄晓明 你是战哥我是站哥",
+        "onboard_time": 1727054059,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 581962,
+        "num": 581962,
+        "word": "村民称小英视频内容与生活基本一致",
+        "onboard_time": 1727061679,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 542299,
+        "num": 542299,
+        "word": "25岁72岁62岁三人CT片几乎一样后续",
+        "onboard_time": 1727063720,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 504785,
+        "num": 504785,
+        "word": "孙颖莎因北京奥运会的举办种下梦想",
+        "onboard_time": 1727063901,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 490637,
+        "num": 490637,
+        "word": "记者实探小英家",
+        "onboard_time": 1727067510,
+        "rank": 7,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 431563,
+        "num": 484290,
+        "word": "黎巴嫩夺命BP机生产时就被改造了",
+        "onboard_time": 1727061199,
+        "rank": 8,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 48218,
+        "num": 481577,
+        "word": "自动续费咋能这么坑",
+        "onboard_time": 1727068889,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1294468,
+        "num": 481573,
+        "word": "女子曝五星级酒店提供色情服务",
+        "onboard_time": 1727061679,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 481445,
+        "num": 481445,
+        "word": "追尾致车辆驶向对向车道6死7伤",
+        "onboard_time": 1727065105,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 455744,
+        "num": 455744,
+        "word": "锁了十年的iPhone解锁了",
+        "onboard_time": 1727061559,
+        "rank": 12,
+        "category": "数码,互联网"
+      },
+      {
+        "raw_hot": 451452,
+        "num": 451452,
+        "word": "陈哲远换手机了",
+        "onboard_time": 1727066311,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 309768,
+        "num": 442502,
+        "word": "杜江拿名牌纸让肖战签名",
+        "onboard_time": 1727059457,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 36393,
+        "num": 392584,
+        "word": "磐安在养生上还是太全面了",
+        "onboard_time": 1727064260,
+        "rank": 15,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 288649,
+        "num": 367320,
+        "word": "盛家的女儿总不会差的",
+        "onboard_time": 1727054240,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194531,
+        "num": 338472,
+        "word": "赵丽颖彼此信任彼此交付",
+        "onboard_time": 1727068111,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 332885,
+        "num": 332885,
+        "word": "王楚钦差点放弃乒乓球",
+        "onboard_time": 1727067091,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 74817,
+        "num": 307988,
+        "word": "女子想缩小毛孔脸反被烧伤像橘子皮",
+        "onboard_time": 1727068350,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36224,
+        "num": 304681,
+        "word": "不止是Cybertruck更是一车抵多车",
+        "onboard_time": 1727068350,
+        "rank": 20,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 343001,
+        "num": 304338,
+        "word": "原来年轻人开始衰老是有征兆的",
+        "onboard_time": 1727061379,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 302787,
+        "num": 302787,
+        "word": "恋与深空回应抄袭争议",
+        "onboard_time": 1727061919,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 277875,
+        "num": 277875,
+        "word": "网友问肖战什么时候开演唱会",
+        "onboard_time": 1727065171,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 276096,
+        "num": 276096,
+        "word": "曾舜晞加全红婵微信",
+        "onboard_time": 1727058559,
+        "rank": 24,
+        "category": "音乐,体育"
+      },
+      {
+        "raw_hot": 265546,
+        "num": 265546,
+        "word": "22岁的她当了17年志愿者",
+        "onboard_time": 1727050999,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242665,
+        "num": 242665,
+        "word": "准女婿给老丈人掰玉米1天3亩地",
+        "onboard_time": 1727066492,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237284,
+        "num": 237284,
+        "word": "女子脱8岁孩子衣服捆住打被判刑",
+        "onboard_time": 1727065825,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230307,
+        "num": 230307,
+        "word": "驻以使馆提醒中国公民尽快回国",
+        "onboard_time": 1727063841,
+        "rank": 28,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 223380,
+        "num": 223380,
+        "word": "心动的信号",
+        "onboard_time": 1727065580,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 211678,
+        "num": 211678,
+        "word": "走失猫咪独自跋涉1200多公里",
+        "onboard_time": 1727066422,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210721,
+        "num": 210721,
+        "word": "绝区零",
+        "onboard_time": 1727067870,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 201825,
+        "num": 201825,
+        "word": "二十一天定档",
+        "onboard_time": 1727063301,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198085,
+        "num": 198085,
+        "word": "2024只剩99天了",
+        "onboard_time": 1727050400,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189489,
+        "num": 189489,
+        "word": "救命钱岂能成唐僧肉",
+        "onboard_time": 1727063540,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187225,
+        "num": 187225,
+        "word": "济南辟谣一女子商场坠楼砸中路人",
+        "onboard_time": 1727067510,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186813,
+        "num": 186813,
+        "word": "苹果下月或再发新品",
+        "onboard_time": 1727064800,
+        "rank": 36,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 185472,
+        "num": 185472,
+        "word": "国家医保局进驻无锡虹桥医院",
+        "onboard_time": 1727060539,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179978,
+        "num": 179978,
+        "word": "柳岩 我无法代表剩女表达感受",
+        "onboard_time": 1727060478,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 170408,
+        "num": 170408,
+        "word": "闪耀暖暖战国袍",
+        "onboard_time": 1727066422,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 167295,
+        "num": 167295,
+        "word": "王楚钦说热爱大于天赋",
+        "onboard_time": 1727064926,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 166752,
+        "num": 166752,
+        "word": "阿云嘎新歌唢呐一出泪腺控不住",
+        "onboard_time": 1727068292,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 164445,
+        "num": 164445,
+        "word": "心动的信号7蒙面舞会",
+        "onboard_time": 1727068410,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162318,
+        "num": 162318,
+        "word": "株洲早高峰车祸初查非故意伤害",
+        "onboard_time": 1727062098,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158872,
+        "num": 158872,
+        "word": "易烊千玺台下抓泡泡",
+        "onboard_time": 1727058873,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 157917,
+        "num": 157917,
+        "word": "女子半夜杀害出轨丈夫被判无期",
+        "onboard_time": 1727009782,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149943,
+        "num": 149943,
+        "word": "周深演唱会来了好多明星",
+        "onboard_time": 1727068049,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 145142,
+        "num": 145142,
+        "word": "拜登介绍莫迪上台时疑似发脾气",
+        "onboard_time": 1727066611,
+        "rank": 47,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 140095,
+        "num": 140095,
+        "word": "黑神话获IGN年度游戏投票第一",
+        "onboard_time": 1727068228,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 138035,
+        "num": 138035,
+        "word": "高雅cp",
+        "onboard_time": 1727068889,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动农业增效益农民增收入农村增活力#"
+    }
+  }
+}
