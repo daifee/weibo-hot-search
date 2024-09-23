@@ -1,6 +1,6 @@
 {
   "startTime": 1726936020707,
-  "endTime": 1727062925922,
+  "endTime": 1727065577431,
   "band_list": [
     {
       "raw_hot": 6817146,
@@ -89,6 +89,14 @@
       "onboard_time": 1727011705,
       "rank": 6,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 2000170,
+      "num": 464232,
+      "word": "女子曝五星级酒店提供色情服务",
+      "onboard_time": 1727061679,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1945010,
@@ -201,6 +209,14 @@
       "onboard_time": 1726968258,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1385825,
+      "num": 1385825,
+      "word": "株洲芦淞大桥事故已致6死7伤",
+      "onboard_time": 1727060358,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1335384,
@@ -555,12 +571,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 738316,
+      "num": 368729,
+      "word": "爱情公寓韩国版",
+      "onboard_time": 1727062280,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 733401,
       "num": 733401,
       "word": "官媒辟谣苹果手机被远程引爆",
       "onboard_time": 1726968380,
       "rank": 29,
       "category": "数码"
+    },
+    {
+      "raw_hot": 729866,
+      "num": 463210,
+      "word": "赵丽颖领奖后一个人坐了很久",
+      "onboard_time": 1727065230,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 727808,
@@ -576,14 +608,6 @@
       "word": "株洲一大桥发生多车相撞有人员伤亡",
       "onboard_time": 1727059286,
       "rank": 18,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 713467,
-      "num": 404824,
-      "word": "女子曝五星级酒店提供色情服务",
-      "onboard_time": 1727061679,
-      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -643,6 +667,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 653296,
+      "num": 653296,
+      "word": "锁了十年的iPhone解锁了",
+      "onboard_time": 1727061559,
+      "rank": 35,
+      "category": "数码,互联网"
+    },
+    {
       "raw_hot": 651103,
       "num": 651103,
       "word": "郭永怀回国捐出了20多个四合院的钱",
@@ -683,6 +715,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 616970,
+      "num": 616970,
+      "word": "黎巴嫩夺命BP机生产时就被改造了",
+      "onboard_time": 1727061199,
+      "rank": 34,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 606885,
       "num": 269053,
       "word": "赵丽颖风吹半夏总榜第一",
@@ -707,6 +747,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 574381,
+      "num": 574381,
+      "word": "村民称小英视频内容与生活基本一致",
+      "onboard_time": 1727061679,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 570530,
       "num": 500838,
       "word": "于正 保护一下我",
@@ -721,6 +769,22 @@
       "onboard_time": 1727020821,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 555224,
+      "num": 349032,
+      "word": "原来年轻人开始衰老是有征兆的",
+      "onboard_time": 1727061379,
+      "rank": 28,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 546570,
+      "num": 546570,
+      "word": "恋与深空回应抄袭争议",
+      "onboard_time": 1727061919,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 543308,
@@ -753,14 +817,6 @@
       "onboard_time": 1726994180,
       "rank": 29,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 529618,
-      "num": 345810,
-      "word": "原来年轻人开始衰老是有征兆的",
-      "onboard_time": 1727061379,
-      "rank": 28,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 520313,
@@ -987,6 +1043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 415369,
+      "num": 415369,
+      "word": "二十一天定档",
+      "onboard_time": 1727063301,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 413464,
       "num": 224511,
       "word": "李钟硕在IU演唱会贵宾席",
@@ -1147,14 +1211,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 368729,
-      "num": 368729,
-      "word": "爱情公寓韩国版",
-      "onboard_time": 1727062280,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 363932,
       "num": 263684,
       "word": "张碧晨回应演唱会嘉宾争议",
@@ -1195,14 +1251,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 354987,
-      "num": 354987,
-      "word": "恋与深空回应抄袭争议",
-      "onboard_time": 1727061919,
-      "rank": 39,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 353813,
       "num": 353813,
       "word": "湾区升明月直播封面图",
@@ -1225,6 +1273,14 @@
       "onboard_time": 1726967720,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 345956,
+      "num": 345956,
+      "word": "救命钱岂能成唐僧肉",
+      "onboard_time": 1727063540,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 343242,
@@ -1307,6 +1363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 314929,
+      "num": 314929,
+      "word": "孙颖莎因北京奥运会的举办种下梦想",
+      "onboard_time": 1727063901,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 313834,
       "num": 210237,
       "word": "宁静真演上短剧了",
@@ -1353,14 +1417,6 @@
       "onboard_time": 1727009062,
       "rank": 30,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 301995,
-      "num": 301995,
-      "word": "锁了十年的iPhone解锁了",
-      "onboard_time": 1727061559,
-      "rank": 35,
-      "category": "数码,互联网"
     },
     {
       "raw_hot": 301412,
@@ -1451,6 +1507,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 276530,
+      "num": 276530,
+      "word": "柳岩 我无法代表剩女表达感受",
+      "onboard_time": 1727060478,
+      "rank": 46,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 272426,
       "num": 205871,
       "word": "叶珂最新健身视频",
@@ -1473,6 +1537,14 @@
       "onboard_time": 1726994119,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 267809,
+      "num": 267809,
+      "word": "网友问肖战什么时候开演唱会",
+      "onboard_time": 1727065171,
+      "rank": 29,
+      "category": "音乐"
     },
     {
       "raw_hot": 267451,
@@ -1563,6 +1635,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 253598,
+      "num": 253598,
+      "word": "驻以使馆提醒中国公民尽快回国",
+      "onboard_time": 1727063841,
+      "rank": 30,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 251835,
       "num": 214406,
       "word": "便宜的眼镜真的会伤眼吗",
@@ -1609,14 +1689,6 @@
       "onboard_time": 1727011642,
       "rank": 33,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 245234,
-      "num": 245234,
-      "word": "黎巴嫩夺命BP机生产时就被改造了",
-      "onboard_time": 1727061199,
-      "rank": 34,
-      "category": "国外时政"
     },
     {
       "raw_hot": 243508,
@@ -1859,6 +1931,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 215293,
+      "num": 433698,
+      "word": "株洲早高峰车祸初查非故意伤害",
+      "onboard_time": 1727062098,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 214647,
       "num": 214647,
       "word": "秋分",
@@ -1873,14 +1953,6 @@
       "onboard_time": 1727019862,
       "rank": 28,
       "category": "音乐,体育"
-    },
-    {
-      "raw_hot": 213466,
-      "num": 248573,
-      "word": "柳岩 我无法代表剩女表达感受",
-      "onboard_time": 1727060478,
-      "rank": 46,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 212848,
@@ -1921,6 +1993,14 @@
       "onboard_time": 1727020101,
       "rank": 23,
       "category": "演出"
+    },
+    {
+      "raw_hot": 210298,
+      "num": 210298,
+      "word": "恋与深空将修改争议台词",
+      "onboard_time": 1727065230,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 210121,
@@ -2035,6 +2115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 202459,
+      "num": 202459,
+      "word": "25岁72岁62岁三人CT片几乎一样后续",
+      "onboard_time": 1727063720,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 200966,
       "num": 200966,
       "word": "易烊千玺干杯朋友彩排",
@@ -2129,6 +2217,14 @@
       "onboard_time": 1726997300,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 197063,
+      "num": 197063,
+      "word": "王楚钦说热爱大于天赋",
+      "onboard_time": 1727064926,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 196764,
@@ -2315,6 +2411,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 183290,
+      "num": 465187,
+      "word": "追尾致车辆驶向对向车道6死7伤",
+      "onboard_time": 1727065105,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 183218,
       "num": 183218,
       "word": "吴倩鬼马编发梦回落落",
@@ -2387,6 +2491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 178375,
+      "num": 178375,
+      "word": "苹果下月或再发新品",
+      "onboard_time": 1727064800,
+      "rank": 39,
+      "category": "数码"
+    },
+    {
       "raw_hot": 178370,
       "num": 178370,
       "word": "刘宇宁现场好稳",
@@ -2425,6 +2537,22 @@
       "onboard_time": 1727018962,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 174711,
+      "num": 174711,
+      "word": "未定事件簿主线剧场版",
+      "onboard_time": 1727065040,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 174660,
+      "num": 292724,
+      "word": "和渣男分手最多值一场重感冒",
+      "onboard_time": 1727064862,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 174467,
@@ -2467,12 +2595,28 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 172626,
+      "num": 172626,
+      "word": "男生收到康辉亲签校服说不洗了",
+      "onboard_time": 1727064560,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 172388,
       "num": 172388,
       "word": "王俊凯晒生日礼物",
       "onboard_time": 1726961597,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 171457,
+      "num": 279919,
+      "word": "谁家男女主上一秒兄弟下一秒kiss",
+      "onboard_time": 1727062940,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 171350,
@@ -2577,6 +2721,14 @@
       "onboard_time": 1726977739,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 164308,
+      "num": 418445,
+      "word": "花17万报海外硕士求职时不认",
+      "onboard_time": 1727062339,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 164239,
@@ -2875,6 +3027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 144670,
+      "num": 144670,
+      "word": "工作室发的易烊千玺内场图",
+      "onboard_time": 1727063061,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 144639,
       "num": 144639,
       "word": "重庆一神仙公司包办员工婚礼",
@@ -2961,6 +3121,14 @@
       "onboard_time": 1726974619,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 138652,
+      "num": 138652,
+      "word": "何广智 山东丘陵确实不配叫山",
+      "onboard_time": 1727065471,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 138596,
@@ -3579,14 +3747,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 96643,
-      "num": 433698,
-      "word": "株洲早高峰车祸初查非故意伤害",
-      "onboard_time": 1727062098,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 95984,
       "num": 95984,
       "word": "雷佳音视帝大满贯",
@@ -3723,6 +3883,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 82431,
+      "num": 365954,
+      "word": "男子离婚冷静期杀妻案二审宣判",
+      "onboard_time": 1727065410,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 81720,
       "num": 220645,
       "word": "威震天演我偶像塌房",
@@ -3779,14 +3947,6 @@
       "category": "社会新闻,旅游"
     },
     {
-      "raw_hot": 76090,
-      "num": 374459,
-      "word": "村民称小英视频内容与生活基本一致",
-      "onboard_time": 1727061679,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 75226,
       "num": 75226,
       "word": "地下室进野猫后爬满跳蚤",
@@ -3801,6 +3961,14 @@
       "onboard_time": 1726925122,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 72861,
+      "num": 417681,
+      "word": "女性经期有这些困扰不是矫情",
+      "onboard_time": 1727064140,
+      "rank": 15,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 72793,
@@ -4003,14 +4171,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 53393,
-      "num": 418445,
-      "word": "花17万报海外硕士求职时不认",
-      "onboard_time": 1727062339,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 53294,
       "num": 347339,
       "word": "韩国65岁以上就业者首超青年层",
@@ -4033,6 +4193,14 @@
       "onboard_time": 1726985419,
       "rank": 16,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 51995,
+      "num": 464440,
+      "word": "啥都还没学怎么就要做Pre了",
+      "onboard_time": 1727053398,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 50972,
@@ -4113,6 +4281,14 @@
       "onboard_time": 1727011522,
       "rank": 10,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 44738,
+      "num": 349808,
+      "word": "中国小区高层住宅电梯老龄化何解",
+      "onboard_time": 1727064560,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 44620,
@@ -4401,6 +4577,14 @@
       "onboard_time": 1726932383,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 23937,
+      "num": 432679,
+      "word": "磐安在养生上还是太全面了",
+      "onboard_time": 1727064260,
+      "rank": 13,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 23571,
