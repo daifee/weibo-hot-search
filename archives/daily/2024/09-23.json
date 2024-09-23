@@ -1,6 +1,6 @@
 {
   "startTime": 1727022296039,
-  "endTime": 1727059983324,
+  "endTime": 1727060545394,
   "band_list": [
     {
       "raw_hot": 4119718,
@@ -23,6 +23,14 @@
       "num": 325632,
       "word": "湾区升明月",
       "onboard_time": 1727004261,
+      "rank": 6,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 1137314,
+      "num": 1181970,
+      "word": "黄晓明 你是战哥我是站哥",
+      "onboard_time": 1727054059,
       "rank": 6,
       "category": "音乐"
     },
@@ -91,20 +99,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 912144,
-      "num": 912144,
-      "word": "黄晓明 你是战哥我是站哥",
-      "onboard_time": 1727054059,
-      "rank": 6,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 874431,
-      "num": 495606,
+      "raw_hot": 883681,
+      "num": 883681,
       "word": "杜江拿名牌纸让肖战签名",
       "onboard_time": 1727059457,
       "rank": 6,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 765351,
+      "num": 491923,
+      "word": "曾舜晞加全红婵微信",
+      "onboard_time": 1727058559,
+      "rank": 7,
+      "category": "音乐,体育"
     },
     {
       "raw_hot": 748779,
@@ -129,14 +137,6 @@
       "onboard_time": 1727007681,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 583950,
-      "num": 491923,
-      "word": "曾舜晞加全红婵微信",
-      "onboard_time": 1727058559,
-      "rank": 7,
-      "category": "音乐,体育"
     },
     {
       "raw_hot": 574499,
@@ -195,19 +195,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 445138,
+      "num": 408763,
+      "word": "小伙装空调坠亡母亲捐其眼角膜救3人",
+      "onboard_time": 1727054180,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 439169,
+      "num": 439169,
+      "word": "株洲一大桥发生多车相撞有人员伤亡",
+      "onboard_time": 1727059286,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 404795,
       "num": 404795,
       "word": "千万身价老板破产法院4元拍卖雪碧",
       "onboard_time": 1727009182,
       "rank": 4,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 399585,
-      "num": 389774,
-      "word": "小伙装空调坠亡母亲捐其眼角膜救3人",
-      "onboard_time": 1727054180,
-      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -299,14 +307,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 258201,
-      "num": 258201,
-      "word": "株洲一大桥发生多车相撞有人员伤亡",
-      "onboard_time": 1727059286,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 257366,
       "num": 257366,
       "word": "孙杨运动员后要转型",
@@ -348,7 +348,7 @@
     },
     {
       "raw_hot": 224212,
-      "num": 389931,
+      "num": 449016,
       "word": "2024只剩99天了",
       "onboard_time": 1727050400,
       "rank": 17,
@@ -371,6 +371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 220410,
+      "num": 220410,
+      "word": "第五人格",
+      "onboard_time": 1727059998,
+      "rank": 20,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 218030,
       "num": 218030,
       "word": "易烊千玺张小斐坐一起",
@@ -385,6 +393,14 @@
       "onboard_time": 1727010443,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 217140,
+      "num": 217140,
+      "word": "易烊千玺台下抓泡泡",
+      "onboard_time": 1727058873,
+      "rank": 21,
+      "category": "音乐"
     },
     {
       "raw_hot": 214577,
@@ -475,14 +491,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 193917,
-      "num": 193917,
-      "word": "易烊千玺台下抓泡泡",
-      "onboard_time": 1727058873,
-      "rank": 21,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 190907,
       "num": 190907,
       "word": "视觉还原黎巴嫩夺命寻呼机从何而来",
@@ -545,6 +553,22 @@
       "onboard_time": 1727018962,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 172834,
+      "num": 172834,
+      "word": "株洲芦淞大桥事故已致6死8伤",
+      "onboard_time": 1727060358,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 166322,
+      "num": 166322,
+      "word": "孙杨凌晨两点仍在健身房训练",
+      "onboard_time": 1727060418,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 165518,
@@ -611,6 +635,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 156536,
+      "num": 145471,
+      "word": "王仁君对赵丽颖说二哥哥以你为傲",
+      "onboard_time": 1727060118,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 152437,
       "num": 152437,
       "word": "多方担忧黎以全面战争爆发",
@@ -625,6 +657,14 @@
       "onboard_time": 1727054958,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 146712,
+      "num": 146712,
+      "word": "登陆少年回复黄绮珊",
+      "onboard_time": 1727055858,
+      "rank": 46,
+      "category": "音乐"
     },
     {
       "raw_hot": 145374,
@@ -675,12 +715,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 138726,
-      "num": 138726,
-      "word": "登陆少年回复黄绮珊",
-      "onboard_time": 1727055858,
-      "rank": 46,
-      "category": "音乐"
+      "raw_hot": 138052,
+      "num": 138052,
+      "word": "14岁孩子骑共享电动车撞人致十级伤残",
+      "onboard_time": 1727058137,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 137448,
@@ -697,14 +737,6 @@
       "onboard_time": 1727050941,
       "rank": 32,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 135600,
-      "num": 135600,
-      "word": "14岁孩子骑共享电动车撞人致十级伤残",
-      "onboard_time": 1727058137,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 135114,
@@ -744,6 +776,14 @@
       "word": "央视曝光包治百病的保健床垫骗局",
       "onboard_time": 1727017284,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 129144,
+      "num": 129144,
+      "word": "外媒称美国将升级打压中国汽车",
+      "onboard_time": 1727057179,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -787,12 +827,12 @@
       "category": "演出,音乐"
     },
     {
-      "raw_hot": 116029,
-      "num": 116029,
-      "word": "外媒称美国将升级打压中国汽车",
-      "onboard_time": 1727057179,
-      "rank": 34,
-      "category": "社会新闻"
+      "raw_hot": 115690,
+      "num": 115690,
+      "word": "魅族前高管评iPhone钢壳电池可引爆",
+      "onboard_time": 1727060179,
+      "rank": 39,
+      "category": "数码"
     },
     {
       "raw_hot": 114655,
@@ -801,6 +841,14 @@
       "onboard_time": 1727058498,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 114518,
+      "num": 114518,
+      "word": "陶昕然 35岁以后不能再用脸去演戏",
+      "onboard_time": 1727060298,
+      "rank": 42,
+      "category": "电影"
     },
     {
       "raw_hot": 113544,
@@ -827,6 +875,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 105856,
+      "num": 105856,
+      "word": "这周日需要上班",
+      "onboard_time": 1727059337,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 103979,
       "num": 122902,
       "word": "硕士拟被聘为勤杂工系工作人员失误",
@@ -851,20 +907,20 @@
       "category": "数码"
     },
     {
+      "raw_hot": 101007,
+      "num": 101007,
+      "word": "柳岩 我无法代表剩女表达感受",
+      "onboard_time": 1727060478,
+      "rank": 46,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 98951,
       "num": 98951,
       "word": "张小斐好美",
       "onboard_time": 1727023278,
       "rank": 30,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 98948,
-      "num": 98948,
-      "word": "这周日需要上班",
-      "onboard_time": 1727059337,
-      "rank": 43,
-      "category": "幽默"
     },
     {
       "raw_hot": 98819,
@@ -1043,6 +1099,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 52698,
+      "num": 439345,
+      "word": "国家医保局进驻无锡涉嫌骗保医院",
+      "onboard_time": 1727060478,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 50972,
       "num": 77378,
       "word": "比利亚雷亚尔1比5巴萨",
@@ -1097,6 +1161,14 @@
       "onboard_time": 1727057237,
       "rank": 41,
       "category": "社会新闻,国外时政"
+    },
+    {
+      "raw_hot": 37105,
+      "num": 114603,
+      "word": "智界R7华为途灵平台内测视频曝光",
+      "onboard_time": 1727060179,
+      "rank": 41,
+      "category": "汽车"
     },
     {
       "raw_hot": 36675,
@@ -1164,7 +1236,7 @@
     },
     {
       "raw_hot": 17539,
-      "num": 913911,
+      "num": 921097,
       "word": "青春华章中国向上",
       "onboard_time": 1727013685,
       "rank": 2,
