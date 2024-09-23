@@ -1,6 +1,6 @@
 {
   "startTime": 1727022296039,
-  "endTime": 1727065577431,
+  "endTime": 1727066450199,
   "band_list": [
     {
       "raw_hot": 4119718,
@@ -27,6 +27,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1664813,
+      "num": 1664813,
+      "word": "赵丽颖领奖后一个人坐了很久",
+      "onboard_time": 1727065230,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1611739,
       "num": 342545,
       "word": "肖战高音舞台",
@@ -35,7 +43,7 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 1562788,
+      "raw_hot": 1566430,
       "num": 1562788,
       "word": "黄晓明 你是战哥我是站哥",
       "onboard_time": 1727054059,
@@ -81,6 +89,14 @@
       "onboard_time": 1727019982,
       "rank": 7,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 963322,
+      "num": 963322,
+      "word": "村民称小英视频内容与生活基本一致",
+      "onboard_time": 1727061679,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 960550,
@@ -155,14 +171,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 729866,
-      "num": 463210,
-      "word": "赵丽颖领奖后一个人坐了很久",
-      "onboard_time": 1727065230,
-      "rank": 11,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 725568,
       "num": 214737,
       "word": "谢娜给陈乔恩66666.66红包",
@@ -177,6 +185,14 @@
       "onboard_time": 1727059286,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 685284,
+      "num": 685284,
+      "word": "黎巴嫩夺命BP机生产时就被改造了",
+      "onboard_time": 1727061199,
+      "rank": 34,
+      "category": "国外时政"
     },
     {
       "raw_hot": 653296,
@@ -195,28 +211,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 616970,
-      "num": 616970,
-      "word": "黎巴嫩夺命BP机生产时就被改造了",
-      "onboard_time": 1727061199,
-      "rank": 34,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 574499,
       "num": 349688,
       "word": "王力宏拍肖战",
       "onboard_time": 1727052738,
       "rank": 11,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 574381,
-      "num": 574381,
-      "word": "村民称小英视频内容与生活基本一致",
-      "onboard_time": 1727061679,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 560702,
@@ -363,6 +363,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 354696,
+      "num": 465187,
+      "word": "追尾致车辆驶向对向车道6死7伤",
+      "onboard_time": 1727065105,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 352209,
       "num": 352209,
       "word": "起底台独网军",
@@ -377,6 +385,14 @@
       "onboard_time": 1727063540,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 322951,
+      "num": 322951,
+      "word": "网友问肖战什么时候开演唱会",
+      "onboard_time": 1727065171,
+      "rank": 29,
+      "category": "音乐"
     },
     {
       "raw_hot": 314929,
@@ -459,14 +475,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 267809,
-      "num": 267809,
-      "word": "网友问肖战什么时候开演唱会",
-      "onboard_time": 1727065171,
-      "rank": 29,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 263862,
       "num": 263862,
       "word": "陶昕然 35岁以后不能再用脸去演戏",
@@ -507,6 +515,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 244683,
+      "num": 244683,
+      "word": "恋与深空将修改争议台词",
+      "onboard_time": 1727065230,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 240746,
       "num": 240746,
       "word": "六公主拍的TOP登陆少年",
@@ -545,6 +561,14 @@
       "onboard_time": 1727048958,
       "rank": 19,
       "category": "音乐,体育"
+    },
+    {
+      "raw_hot": 230924,
+      "num": 230924,
+      "word": "王楚钦说热爱大于天赋",
+      "onboard_time": 1727064926,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 223913,
@@ -611,20 +635,20 @@
       "category": "音乐,体育"
     },
     {
+      "raw_hot": 210953,
+      "num": 210953,
+      "word": "心动的信号",
+      "onboard_time": 1727065580,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 210735,
       "num": 210735,
       "word": "IU演唱会好多明星",
       "onboard_time": 1727020101,
       "rank": 23,
       "category": "演出"
-    },
-    {
-      "raw_hot": 210298,
-      "num": 210298,
-      "word": "恋与深空将修改争议台词",
-      "onboard_time": 1727065230,
-      "rank": 34,
-      "category": "游戏"
     },
     {
       "raw_hot": 209495,
@@ -659,6 +683,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 204091,
+      "num": 204091,
+      "word": "苹果下月或再发新品",
+      "onboard_time": 1727064800,
+      "rank": 39,
+      "category": "数码"
+    },
+    {
       "raw_hot": 202459,
       "num": 202459,
       "word": "25岁72岁62岁三人CT片几乎一样后续",
@@ -691,20 +723,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 197063,
-      "num": 197063,
-      "word": "王楚钦说热爱大于天赋",
-      "onboard_time": 1727064926,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 196764,
       "num": 196764,
       "word": "李白谪仙醉月动画",
       "onboard_time": 1727061199,
       "rank": 30,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 196520,
+      "num": 196520,
+      "word": "女子脱8岁孩子衣服捆住打被判刑",
+      "onboard_time": 1727065825,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 195699,
@@ -721,6 +753,22 @@
       "onboard_time": 1727053398,
       "rank": 25,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 191430,
+      "num": 323813,
+      "word": "和渣男分手最多值一场重感冒",
+      "onboard_time": 1727064862,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 191219,
+      "num": 191219,
+      "word": "何广智 山东丘陵确实不配叫山",
+      "onboard_time": 1727065471,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 190907,
@@ -763,14 +811,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 183290,
-      "num": 465187,
-      "word": "追尾致车辆驶向对向车道6死7伤",
-      "onboard_time": 1727065105,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 181848,
       "num": 181848,
       "word": "吴谨言希望成为赵丽颖",
@@ -787,20 +827,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 178375,
-      "num": 178375,
-      "word": "苹果下月或再发新品",
-      "onboard_time": 1727064800,
-      "rank": 39,
-      "category": "数码"
-    },
-    {
       "raw_hot": 177382,
       "num": 177382,
       "word": "SEVENTEEN",
       "onboard_time": 1727020581,
       "rank": 34,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 176771,
+      "num": 176771,
+      "word": "陈哲远换手机了",
+      "onboard_time": 1727066311,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 174929,
@@ -817,14 +857,6 @@
       "onboard_time": 1727065040,
       "rank": 41,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 174660,
-      "num": 292724,
-      "word": "和渣男分手最多值一场重感冒",
-      "onboard_time": 1727064862,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 172626,
@@ -939,6 +971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 148106,
+      "num": 148106,
+      "word": "闪耀暖暖战国袍",
+      "onboard_time": 1727066422,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 147707,
       "num": 163272,
       "word": "刘烨眼中花少最不合群的人",
@@ -1011,20 +1051,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 143629,
+      "num": 143629,
+      "word": "走失猫咪独自跋涉1200多公里",
+      "onboard_time": 1727066422,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 140074,
       "num": 179010,
       "word": "孙颖莎王楚钦担任特派体育老师",
       "onboard_time": 1727014164,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 138652,
-      "num": 138652,
-      "word": "何广智 山东丘陵确实不配叫山",
-      "onboard_time": 1727065471,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 138474,
@@ -1331,6 +1371,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 88048,
+      "num": 417681,
+      "word": "女性经期有这些困扰不是矫情",
+      "onboard_time": 1727064140,
+      "rank": 15,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 87330,
       "num": 120473,
       "word": "诚C再获周决赛MVP",
@@ -1339,7 +1387,7 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 82431,
+      "raw_hot": 83876,
       "num": 365954,
       "word": "男子离婚冷静期杀妻案二审宣判",
       "onboard_time": 1727065410,
@@ -1371,14 +1419,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 72861,
-      "num": 417681,
-      "word": "女性经期有这些困扰不是矫情",
-      "onboard_time": 1727064140,
-      "rank": 15,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 72257,
       "num": 77639,
       "word": "樊振东直拍",
@@ -1395,12 +1435,28 @@
       "category": "音乐,体育"
     },
     {
+      "raw_hot": 70375,
+      "num": 464440,
+      "word": "啥都还没学怎么就要做Pre了",
+      "onboard_time": 1727053398,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 68490,
       "num": 77932,
       "word": "aespa和ILLIT同一天回归",
       "onboard_time": 1727046195,
       "rank": 36,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 62439,
+      "num": 349808,
+      "word": "中国小区高层住宅电梯老龄化何解",
+      "onboard_time": 1727064560,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 59380,
@@ -1443,14 +1499,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 51995,
-      "num": 464440,
-      "word": "啥都还没学怎么就要做Pre了",
-      "onboard_time": 1727053398,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 50972,
       "num": 77378,
       "word": "比利亚雷亚尔1比5巴萨",
@@ -1473,14 +1521,6 @@
       "onboard_time": 1727039291,
       "rank": 15,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 44738,
-      "num": 349808,
-      "word": "中国小区高层住宅电梯老龄化何解",
-      "onboard_time": 1727064560,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 43635,
@@ -1579,7 +1619,7 @@
       "category": "艺人,作品衍生"
     },
     {
-      "raw_hot": 23937,
+      "raw_hot": 24431,
       "num": 432679,
       "word": "磐安在养生上还是太全面了",
       "onboard_time": 1727064260,
@@ -1673,6 +1713,9 @@
     },
     {
       "word": "#把人民政协的显著政治优势更加充分发挥出来#"
+    },
+    {
+      "word": "#推动农业增效益农民增收入农村增活力#"
     }
   ]
 }
