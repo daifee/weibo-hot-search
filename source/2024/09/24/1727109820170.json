@@ -1,0 +1,410 @@
+{
+  "runTime": 1727109820170,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 867796,
+        "num": 867796,
+        "word": "以前不理解李慧珍 上班后老实了",
+        "onboard_time": 1727105479,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 505496,
+        "num": 505496,
+        "word": "以军空袭黎巴嫩多地致275死1024伤",
+        "onboard_time": 1727105359,
+        "rank": 1,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 3722,
+        "num": 492991,
+        "word": "文化中国行看巴丹吉林沙漠之美",
+        "onboard_time": 1727080280,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 485120,
+        "num": 485120,
+        "word": "原来人会从34岁开始变老",
+        "onboard_time": 1727105299,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 406065,
+        "num": 406065,
+        "word": "江歌妈妈不服判决准备上诉",
+        "onboard_time": 1727096601,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 391937,
+        "num": 391937,
+        "word": "东北雨姐丈夫回应博主打假被真打",
+        "onboard_time": 1727096421,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 362933,
+        "num": 362933,
+        "word": "八旬老太排队领鸡蛋被挤倒身亡",
+        "onboard_time": 1727097021,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 349576,
+        "num": 349576,
+        "word": "女公职人员举报官员出轨强迫其堕胎",
+        "onboard_time": 1727101821,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150793,
+        "num": 334858,
+        "word": "白鹿开启新副本",
+        "onboard_time": 1727101520,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 329954,
+        "num": 329954,
+        "word": "看似正常实则是抑郁的隐形信号",
+        "onboard_time": 1727097621,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227476,
+        "num": 227476,
+        "word": "3胎妈妈怀孕9月从未产检患心衰脑出血",
+        "onboard_time": 1727098100,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226195,
+        "num": 226195,
+        "word": "拜登忘关话筒密谋应对所谓中国考验",
+        "onboard_time": 1727088800,
+        "rank": 11,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 225733,
+        "num": 225733,
+        "word": "知情人称嫌犯李娜已在韩国落网",
+        "onboard_time": 1727092760,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213057,
+        "num": 213057,
+        "word": "研究生小伙打瘦脸针中毒暴瘦10斤",
+        "onboard_time": 1727096660,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206928,
+        "num": 206928,
+        "word": "东北雨姐评论区关评刷屏",
+        "onboard_time": 1727107217,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170586,
+        "num": 170586,
+        "word": "11岁女孩沉迷买卡仨月花了一万二",
+        "onboard_time": 1727089940,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131113,
+        "num": 170174,
+        "word": "李诞自曝开直播是为了躲酒",
+        "onboard_time": 1727096121,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121226,
+        "num": 167472,
+        "word": "心动的信号 观察室",
+        "onboard_time": 1727093120,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103155,
+        "num": 165675,
+        "word": "乐评人评肖战全能型艺人",
+        "onboard_time": 1727102180,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 93445,
+        "num": 165440,
+        "word": "半熟男女 酸笋哥",
+        "onboard_time": 1727090540,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 300648,
+        "num": 162386,
+        "word": "小英女儿要吃漂亮饭片段被再提",
+        "onboard_time": 1727093480,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 247889,
+        "num": 161669,
+        "word": "全网首个粉丝破亿女主播诞生",
+        "onboard_time": 1727095459,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 160383,
+        "num": 160383,
+        "word": "容易内耗的人都有一个共性",
+        "onboard_time": 1727104101,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 136282,
+        "num": 136282,
+        "word": "恋与深空总榜登顶再送十连",
+        "onboard_time": 1727093120,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 117195,
+        "num": 117195,
+        "word": "极乐鸟工作室",
+        "onboard_time": 1727103920,
+        "rank": 24,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 114089,
+        "num": 114089,
+        "word": "多名考生反映连收10多条保研拒信",
+        "onboard_time": 1727100801,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92827,
+        "num": 92827,
+        "word": "预制朋友圈",
+        "onboard_time": 1727085498,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 91446,
+        "num": 91446,
+        "word": "孙颖莎 大朋友小朋友都成长了",
+        "onboard_time": 1727090060,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 91425,
+        "num": 91425,
+        "word": "工资可以少但要双休不加班",
+        "onboard_time": 1727090480,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 88833,
+        "num": 88833,
+        "word": "国色芳华",
+        "onboard_time": 1727099841,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 90565,
+        "num": 86111,
+        "word": "武艺大方承认自己的理想型是沈月",
+        "onboard_time": 1727078481,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 81441,
+        "num": 81441,
+        "word": "韩国水泥价格暴涨",
+        "onboard_time": 1727107817,
+        "rank": 31,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 77889,
+        "num": 77889,
+        "word": "恋与深空",
+        "onboard_time": 1727093120,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 77659,
+        "num": 77659,
+        "word": "2中企高管在菲被撕票嫌犯李娜韩国落网",
+        "onboard_time": 1727098940,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 77137,
+        "num": 77137,
+        "word": "玫瑰的故事TVB开播",
+        "onboard_time": 1727107398,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 75096,
+        "num": 75096,
+        "word": "老板回应被西班牙网红夫妇吐槽咖啡贵",
+        "onboard_time": 1727094681,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 71465,
+        "num": 71465,
+        "word": "江西新余一企业突发火灾",
+        "onboard_time": 1727103740,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 70214,
+        "num": 70214,
+        "word": "邓为巴黎街拍",
+        "onboard_time": 1727105779,
+        "rank": 37,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 69420,
+        "num": 69420,
+        "word": "肖战湾区升明月vlog",
+        "onboard_time": 1727103141,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 64447,
+        "num": 69410,
+        "word": "陆虎婚后告诫张远老婆开心生活舒心",
+        "onboard_time": 1727097021,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 63871,
+        "num": 69385,
+        "word": "官方全面叫停知名文保建筑挂灯笼",
+        "onboard_time": 1727102180,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 61975,
+        "num": 69361,
+        "word": "半熟男女凤凰男",
+        "onboard_time": 1727088499,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 60114,
+        "num": 69333,
+        "word": "白鹿直播",
+        "onboard_time": 1727092400,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 59679,
+        "num": 69300,
+        "word": "罗德里 ACL",
+        "onboard_time": 1727107638,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 59063,
+        "num": 69271,
+        "word": "17岁小伙来例假查出有卵巢",
+        "onboard_time": 1727078419,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 57276,
+        "num": 69254,
+        "word": "电影版偷偷藏不住启动选角",
+        "onboard_time": 1727089160,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 56154,
+        "num": 69238,
+        "word": "女子称火锅吃出烤瓷牙店家说是牛的",
+        "onboard_time": 1727108897,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 56143,
+        "num": 69213,
+        "word": "半熟男女",
+        "onboard_time": 1727087779,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 50070,
+        "num": 69163,
+        "word": "刘耀文直播",
+        "onboard_time": 1727087059,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 46131,
+        "num": 69153,
+        "word": "檀健次e人的玩具",
+        "onboard_time": 1727105539,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#加快建设航天强国#"
+    }
+  }
+}
