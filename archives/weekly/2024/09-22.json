@@ -1,6 +1,6 @@
 {
   "startTime": 1726936020707,
-  "endTime": 1727073908107,
+  "endTime": 1727076069523,
   "band_list": [
     {
       "raw_hot": 6817146,
@@ -153,6 +153,14 @@
       "onboard_time": 1727011285,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1674975,
+      "num": 821087,
+      "word": "答应约会就是性同意吗",
+      "onboard_time": 1727073320,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 1664813,
@@ -603,6 +611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 778028,
+      "num": 778028,
+      "word": "男友嫖娼被拘后女子要求酒店给说法",
+      "onboard_time": 1727074940,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 767777,
       "num": 767777,
       "word": "曾舜晞加全红婵微信",
@@ -971,12 +987,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 482269,
+      "num": 482269,
+      "word": "12306回应上线车内换座功能",
+      "onboard_time": 1727071648,
+      "rank": 23,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 478561,
       "num": 239729,
       "word": "妻子失联20年丈夫恋爱算出轨吗",
       "onboard_time": 1726985540,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 475891,
+      "num": 475891,
+      "word": "苹果客服回应锁了十年的iPhone解锁了",
+      "onboard_time": 1727073680,
+      "rank": 47,
+      "category": "数码"
     },
     {
       "raw_hot": 471840,
@@ -1028,7 +1060,7 @@
     },
     {
       "raw_hot": 451452,
-      "num": 451452,
+      "num": 476137,
       "word": "陈哲远换手机了",
       "onboard_time": 1727066311,
       "rank": 40,
@@ -1307,6 +1339,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 369992,
+      "num": 369992,
+      "word": "每周饿两天血糖和代谢都变好了",
+      "onboard_time": 1727070927,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 363932,
       "num": 263684,
       "word": "张碧晨回应演唱会嘉宾争议",
@@ -1369,14 +1409,6 @@
       "onboard_time": 1726967720,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 347906,
-      "num": 313764,
-      "word": "每周饿两天血糖和代谢都变好了",
-      "onboard_time": 1727070927,
-      "rank": 21,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 343242,
@@ -1475,6 +1507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 318163,
+      "num": 454199,
+      "word": "警犬口水都拉丝了愣是一口没吃",
+      "onboard_time": 1727070987,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 313834,
       "num": 210237,
       "word": "宁静真演上短剧了",
@@ -1515,20 +1555,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 305286,
-      "num": 305286,
-      "word": "12306回应上线车内换座功能",
-      "onboard_time": 1727071648,
-      "rank": 23,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 304818,
       "num": 249951,
       "word": "登陆少年出图",
       "onboard_time": 1727009062,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 304069,
+      "num": 304069,
+      "word": "王楚钦首本五大女刊",
+      "onboard_time": 1727075900,
+      "rank": 27,
+      "category": "体育,作品衍生"
     },
     {
       "raw_hot": 301412,
@@ -2043,6 +2083,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 223491,
+      "num": 302367,
+      "word": "终于有剧拍了脆皮00后",
+      "onboard_time": 1727072489,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 223380,
       "num": 223380,
       "word": "心动的信号",
@@ -2073,14 +2121,6 @@
       "onboard_time": 1726961295,
       "rank": 25,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 219342,
-      "num": 454199,
-      "word": "警犬口水都拉丝了愣是一口没吃",
-      "onboard_time": 1727070987,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 217969,
@@ -2121,6 +2161,14 @@
       "onboard_time": 1727061738,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 215425,
+      "num": 491061,
+      "word": "致6死7伤肇事车司机绝望大喊完了",
+      "onboard_time": 1727075719,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 215293,
@@ -2193,14 +2241,6 @@
       "onboard_time": 1727067870,
       "rank": 31,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 210156,
-      "num": 283488,
-      "word": "答应约会就是性同意吗",
-      "onboard_time": 1727073320,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 210121,
@@ -2476,7 +2516,7 @@
     },
     {
       "raw_hot": 195479,
-      "num": 195479,
+      "num": 307842,
       "word": "株洲警方通报芦淞大桥交通事故",
       "onboard_time": 1727069249,
       "rank": 45,
@@ -2537,6 +2577,14 @@
       "onboard_time": 1727008762,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 193394,
+      "num": 193394,
+      "word": "中网开赛",
+      "onboard_time": 1727075419,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 192967,
@@ -2659,6 +2707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 187008,
+      "num": 187008,
+      "word": "iPhone15ProMax为上半年最畅销手机",
+      "onboard_time": 1727074159,
+      "rank": 35,
+      "category": "数码"
+    },
+    {
       "raw_hot": 184064,
       "num": 243666,
       "word": "美国伯明翰发生大规模枪击事件",
@@ -2691,20 +2747,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 183271,
+      "num": 301797,
+      "word": "电影小丑2定档",
+      "onboard_time": 1727074340,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 183218,
       "num": 183218,
       "word": "吴倩鬼马编发梦回落落",
       "onboard_time": 1727012545,
       "rank": 44,
       "category": "电影"
-    },
-    {
-      "raw_hot": 182462,
-      "num": 182462,
-      "word": "终于有剧拍了脆皮00后",
-      "onboard_time": 1727072489,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 181899,
@@ -2913,6 +2969,14 @@
       "onboard_time": 1726999880,
       "rank": 32,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 169920,
+      "num": 169920,
+      "word": "中网签表",
+      "onboard_time": 1727075239,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 169076,
@@ -3137,6 +3201,14 @@
       "onboard_time": 1726931425,
       "rank": 28,
       "category": "美食"
+    },
+    {
+      "raw_hot": 156505,
+      "num": 151693,
+      "word": "为什么抑郁症患者不愿去医院",
+      "onboard_time": 1727074998,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 156361,
@@ -3755,6 +3827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 124184,
+      "num": 124184,
+      "word": "乘客称飞机落地时有较大噪音",
+      "onboard_time": 1727075839,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 123912,
       "num": 481577,
       "word": "自动续费咋能这么坑",
@@ -3913,14 +3993,6 @@
       "onboard_time": 1727073559,
       "rank": 46,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 115609,
-      "num": 115609,
-      "word": "苹果客服回应锁了十年的iPhone解锁了",
-      "onboard_time": 1727073680,
-      "rank": 47,
-      "category": "数码"
     },
     {
       "raw_hot": 115436,
@@ -4275,6 +4347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 84353,
+      "num": 437360,
+      "word": "店员用个人收款码收4万被刑拘",
+      "onboard_time": 1727075900,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 83876,
       "num": 365954,
       "word": "男子离婚冷静期杀妻案二审宣判",
@@ -4393,6 +4473,14 @@
       "onboard_time": 1727025915,
       "rank": 36,
       "category": "音乐,体育"
+    },
+    {
+      "raw_hot": 70394,
+      "num": 479392,
+      "word": "重庆驾驶摩托艇落水失踪网红已身亡",
+      "onboard_time": 1727074579,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 70375,
@@ -4875,6 +4963,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 30561,
+      "num": 434400,
+      "word": "吴磊抬腕这一下",
+      "onboard_time": 1727073680,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 30269,
       "num": 268637,
       "word": "以军连续2天对黎发动猛攻",
@@ -4889,6 +4985,14 @@
       "onboard_time": 1726979179,
       "rank": 47,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 29927,
+      "num": 480700,
+      "word": "冒充品牌旅行社骗老人买保健品",
+      "onboard_time": 1727075539,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 29811,
@@ -5019,14 +5123,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 23160,
-      "num": 121679,
-      "word": "吴磊抬腕这一下",
-      "onboard_time": 1727073680,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 22685,
       "num": 681828,
       "word": "文化中国行看丰收之美",
@@ -5052,7 +5148,7 @@
     },
     {
       "raw_hot": 22440,
-      "num": 464265,
+      "num": 478069,
       "word": "Prada高智感穿搭",
       "onboard_time": 1727071290,
       "rank": 12,
@@ -5065,6 +5161,14 @@
       "onboard_time": 1726931305,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 20545,
+      "num": 453159,
+      "word": "李艾采访超模信息量好大",
+      "onboard_time": 1727075598,
+      "rank": 18,
+      "category": "网红"
     },
     {
       "raw_hot": 18193,
@@ -5139,6 +5243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 15299,
+      "num": 120060,
+      "word": "河北省旅发大会在廊坊启幕",
+      "onboard_time": 1727075959,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 14857,
       "num": 90433,
       "word": "文化中国行文物里的秋色平分",
@@ -5208,6 +5320,14 @@
       "word": "宠物店卖星期宠被诉改头换面继续营业",
       "onboard_time": 1726990279,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 10041,
+      "num": 119731,
+      "word": "旷野美拉德和户外出行好搭",
+      "onboard_time": 1727075959,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
