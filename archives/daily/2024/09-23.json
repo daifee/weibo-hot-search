@@ -1,6 +1,6 @@
 {
   "startTime": 1727022296039,
-  "endTime": 1727076069523,
+  "endTime": 1727076925209,
   "band_list": [
     {
       "raw_hot": 4119718,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 1680384,
-      "num": 531115,
+      "num": 556987,
       "word": "男子家暴孕妻致死落网后求判无罪",
       "onboard_time": 1727070689,
       "rank": 10,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 1674975,
-      "num": 821087,
+      "num": 899374,
       "word": "答应约会就是性同意吗",
       "onboard_time": 1727073320,
       "rank": 18,
@@ -73,6 +73,22 @@
       "onboard_time": 1727054059,
       "rank": 6,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1544691,
+      "num": 1544691,
+      "word": "致6死7伤肇事车司机绝望大喊完了",
+      "onboard_time": 1727075719,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1499484,
+      "num": 864789,
+      "word": "男友嫖娼被拘后女子要求酒店给说法",
+      "onboard_time": 1727074940,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1497844,
@@ -203,12 +219,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 778028,
-      "num": 778028,
-      "word": "男友嫖娼被拘后女子要求酒店给说法",
-      "onboard_time": 1727074940,
-      "rank": 5,
-      "category": "社会新闻"
+      "raw_hot": 786182,
+      "num": 786182,
+      "word": "苹果客服回应锁了十年的iPhone解锁了",
+      "onboard_time": 1727073680,
+      "rank": 47,
+      "category": "数码"
     },
     {
       "raw_hot": 767777,
@@ -371,12 +387,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 475891,
-      "num": 475891,
-      "word": "苹果客服回应锁了十年的iPhone解锁了",
-      "onboard_time": 1727073680,
-      "rank": 47,
-      "category": "数码"
+      "raw_hot": 476129,
+      "num": 476129,
+      "word": "王楚钦首本五大女刊",
+      "onboard_time": 1727075900,
+      "rank": 27,
+      "category": "体育,作品衍生"
     },
     {
       "raw_hot": 471840,
@@ -449,6 +465,14 @@
       "onboard_time": 1727009182,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 398417,
+      "num": 398417,
+      "word": "王力宏晒和全红婵合影",
+      "onboard_time": 1727076081,
+      "rank": 15,
+      "category": "音乐,体育"
     },
     {
       "raw_hot": 397745,
@@ -547,14 +571,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 304069,
-      "num": 304069,
-      "word": "王楚钦首本五大女刊",
-      "onboard_time": 1727075900,
-      "rank": 27,
-      "category": "体育,作品衍生"
-    },
-    {
       "raw_hot": 301313,
       "num": 301313,
       "word": "未定事件簿",
@@ -617,6 +633,22 @@
       "onboard_time": 1727022798,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 267688,
+      "num": 299514,
+      "word": "迪丽热巴巴黎偶遇路透",
+      "onboard_time": 1727076499,
+      "rank": 18,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 264169,
+      "num": 264169,
+      "word": "乘客称飞机落地时有较大噪音",
+      "onboard_time": 1727075839,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 263862,
@@ -819,14 +851,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 215425,
-      "num": 491061,
-      "word": "致6死7伤肇事车司机绝望大喊完了",
-      "onboard_time": 1727075719,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 215293,
       "num": 433698,
       "word": "株洲早高峰车祸初查非故意伤害",
@@ -947,6 +971,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 196985,
+      "num": 196985,
+      "word": "李庚希让彭昱畅把肾捐给凌敏",
+      "onboard_time": 1727076140,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 196764,
       "num": 196764,
       "word": "李白谪仙醉月动画",
@@ -1017,6 +1049,14 @@
       "onboard_time": 1727075419,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 193148,
+      "num": 193148,
+      "word": "为什么抑郁症患者不愿去医院",
+      "onboard_time": 1727074998,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 191430,
@@ -1283,14 +1323,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 156505,
-      "num": 151693,
-      "word": "为什么抑郁症患者不愿去医院",
-      "onboard_time": 1727074998,
-      "rank": 40,
-      "category": "情感"
-    },
-    {
       "raw_hot": 156361,
       "num": 156361,
       "word": "秦彻风临野",
@@ -1336,6 +1368,14 @@
       "word": "刘烨眼中花少最不合群的人",
       "onboard_time": 1727054958,
       "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 147607,
+      "num": 147607,
+      "word": "心动7破碎的他得体的她",
+      "onboard_time": 1727076499,
+      "rank": 39,
       "category": "综艺"
     },
     {
@@ -1441,6 +1481,14 @@
       "onboard_time": 1727072128,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 138691,
+      "num": 138691,
+      "word": "中网郑钦文与萨巴伦卡同半区",
+      "onboard_time": 1727076559,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 138474,
@@ -1563,12 +1611,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 124184,
-      "num": 124184,
-      "word": "乘客称飞机落地时有较大噪音",
-      "onboard_time": 1727075839,
-      "rank": 43,
-      "category": "社会新闻"
+      "raw_hot": 124839,
+      "num": 124839,
+      "word": "打车去浦东机场被绕大半个上海",
+      "onboard_time": 1727076319,
+      "rank": 47,
+      "category": "旅游"
     },
     {
       "raw_hot": 123912,
@@ -1617,6 +1665,14 @@
       "onboard_time": 1727070089,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 118664,
+      "num": 479392,
+      "word": "重庆驾驶摩托艇落水失踪网红已身亡",
+      "onboard_time": 1727074579,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 116615,
@@ -1875,14 +1931,6 @@
       "category": "音乐,体育"
     },
     {
-      "raw_hot": 70394,
-      "num": 479392,
-      "word": "重庆驾驶摩托艇落水失踪网红已身亡",
-      "onboard_time": 1727074579,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 70375,
       "num": 464440,
       "word": "啥都还没学怎么就要做Pre了",
@@ -2011,6 +2059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 41187,
+      "num": 194955,
+      "word": "黎以冲突会否失控",
+      "onboard_time": 1727076679,
+      "rank": 29,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 40290,
       "num": 40290,
       "word": "周深北京欢迎你回忆杀",
@@ -2025,6 +2081,14 @@
       "onboard_time": 1727057237,
       "rank": 41,
       "category": "社会新闻,国外时政"
+    },
+    {
+      "raw_hot": 37460,
+      "num": 434400,
+      "word": "吴磊抬腕这一下",
+      "onboard_time": 1727073680,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 37105,
@@ -2059,12 +2123,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 30561,
-      "num": 434400,
-      "word": "吴磊抬腕这一下",
-      "onboard_time": 1727073680,
-      "rank": 41,
-      "category": "艺人"
+      "raw_hot": 30384,
+      "num": 273651,
+      "word": "河北省旅发大会在廊坊启幕",
+      "onboard_time": 1727075959,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 29927,
@@ -2163,19 +2227,19 @@
       "category": "演出"
     },
     {
+      "raw_hot": 16338,
+      "num": 138238,
+      "word": "旷野美拉德和户外出行好搭",
+      "onboard_time": 1727075959,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 15939,
       "num": 58990,
       "word": "最治愈的风景在家乡",
       "onboard_time": 1727030472,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 15299,
-      "num": 120060,
-      "word": "河北省旅发大会在廊坊启幕",
-      "onboard_time": 1727075959,
-      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -2200,14 +2264,6 @@
       "word": "青春华章",
       "onboard_time": 1726819520,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 10041,
-      "num": 119731,
-      "word": "旷野美拉德和户外出行好搭",
-      "onboard_time": 1727075959,
-      "rank": 47,
       "category": "社会新闻"
     },
     {

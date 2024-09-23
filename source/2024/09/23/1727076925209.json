@@ -1,0 +1,410 @@
+{
+  "runTime": 1727076925209,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1544691,
+        "num": 1544691,
+        "word": "致6死7伤肇事车司机绝望大喊完了",
+        "onboard_time": 1727075719,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 974360,
+        "num": 974360,
+        "word": "川航一航班挂7700紧急代码备降宁波",
+        "onboard_time": 1727069668,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 10097,
+        "num": 951701,
+        "word": "青春华章",
+        "onboard_time": 1726819520,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1624357,
+        "num": 899374,
+        "word": "答应约会就是性同意吗",
+        "onboard_time": 1727073320,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1499484,
+        "num": 864789,
+        "word": "男友嫖娼被拘后女子要求酒店给说法",
+        "onboard_time": 1727074940,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1120022,
+        "num": 840905,
+        "word": "记者实探小英家",
+        "onboard_time": 1727067510,
+        "rank": 5,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 806003,
+        "num": 806003,
+        "word": "王力宏晒肖战直拍",
+        "onboard_time": 1727070199,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 786182,
+        "num": 786182,
+        "word": "苹果客服回应锁了十年的iPhone解锁了",
+        "onboard_time": 1727073680,
+        "rank": 7,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 673057,
+        "num": 673057,
+        "word": "追尾致车辆驶向对向车道6死7伤",
+        "onboard_time": 1727065105,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 584997,
+        "num": 584997,
+        "word": "赵丽颖领奖后一个人坐了很久",
+        "onboard_time": 1727065230,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 934345,
+        "num": 556987,
+        "word": "男子家暴孕妻致死落网后求判无罪",
+        "onboard_time": 1727070689,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 500125,
+        "num": 500125,
+        "word": "国安部公开台独网军3人照片",
+        "onboard_time": 1727069848,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 476129,
+        "num": 476129,
+        "word": "王楚钦首本五大女刊",
+        "onboard_time": 1727075900,
+        "rank": 12,
+        "category": "体育,作品衍生"
+      },
+      {
+        "raw_hot": 28056,
+        "num": 467151,
+        "word": "冒充品牌旅行社骗老人买保健品",
+        "onboard_time": 1727075539,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 461129,
+        "num": 461129,
+        "word": "12306回应上线车内换座功能",
+        "onboard_time": 1727071648,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 398417,
+        "num": 398417,
+        "word": "王力宏晒和全红婵合影",
+        "onboard_time": 1727076081,
+        "rank": 15,
+        "category": "音乐,体育"
+      },
+      {
+        "raw_hot": 328507,
+        "num": 328507,
+        "word": "肖战易烊千玺座位背靠背",
+        "onboard_time": 1727071888,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 315358,
+        "num": 315358,
+        "word": "女子曝五星级酒店提供色情服务",
+        "onboard_time": 1727061679,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267688,
+        "num": 299514,
+        "word": "迪丽热巴巴黎偶遇路透",
+        "onboard_time": 1727076499,
+        "rank": 18,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 77430,
+        "num": 298040,
+        "word": "店员用个人收款码收4万被刑拘",
+        "onboard_time": 1727075900,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 298012,
+        "num": 298012,
+        "word": "女子想缩小毛孔脸反被烧伤像橘子皮",
+        "onboard_time": 1727068350,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37460,
+        "num": 284876,
+        "word": "吴磊抬腕这一下",
+        "onboard_time": 1727073680,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 282981,
+        "num": 282981,
+        "word": "每周饿两天血糖和代谢都变好了",
+        "onboard_time": 1727070927,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 277023,
+        "num": 277023,
+        "word": "警犬口水都拉丝了愣是一口没吃",
+        "onboard_time": 1727070987,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30384,
+        "num": 273651,
+        "word": "河北省旅发大会在廊坊启幕",
+        "onboard_time": 1727075959,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 272838,
+        "num": 272838,
+        "word": "救命钱岂能成唐僧肉",
+        "onboard_time": 1727063540,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264169,
+        "num": 264169,
+        "word": "乘客称飞机落地时有较大噪音",
+        "onboard_time": 1727075839,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199237,
+        "num": 199237,
+        "word": "陈哲远换手机了",
+        "onboard_time": 1727066311,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 196985,
+        "num": 196985,
+        "word": "李庚希让彭昱畅把肾捐给凌敏",
+        "onboard_time": 1727076140,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 41187,
+        "num": 194955,
+        "word": "黎以冲突会否失控",
+        "onboard_time": 1727076679,
+        "rank": 29,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 246529,
+        "num": 194764,
+        "word": "黄晓明 你是战哥我是站哥",
+        "onboard_time": 1727054059,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 193148,
+        "num": 193148,
+        "word": "为什么抑郁症患者不愿去医院",
+        "onboard_time": 1727074998,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 179229,
+        "num": 179229,
+        "word": "终于有剧拍了脆皮00后",
+        "onboard_time": 1727072489,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176416,
+        "num": 176416,
+        "word": "国家医保局进驻无锡虹桥医院",
+        "onboard_time": 1727060539,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176172,
+        "num": 176172,
+        "word": "原来年轻人开始衰老是有征兆的",
+        "onboard_time": 1727061379,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 174856,
+        "num": 174856,
+        "word": "锁了十年的iPhone解锁了",
+        "onboard_time": 1727061559,
+        "rank": 35,
+        "category": "数码,互联网"
+      },
+      {
+        "raw_hot": 171216,
+        "num": 171216,
+        "word": "25岁72岁62岁三人CT片几乎一样后续",
+        "onboard_time": 1727063720,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150474,
+        "num": 150474,
+        "word": "iPhone15ProMax为上半年最畅销手机",
+        "onboard_time": 1727074159,
+        "rank": 37,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 147851,
+        "num": 147851,
+        "word": "黎巴嫩夺命BP机生产时就被改造了",
+        "onboard_time": 1727061199,
+        "rank": 38,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 147607,
+        "num": 147607,
+        "word": "心动7破碎的他得体的她",
+        "onboard_time": 1727076499,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139130,
+        "num": 139130,
+        "word": "中网开赛",
+        "onboard_time": 1727075419,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 138691,
+        "num": 138691,
+        "word": "中网郑钦文与萨巴伦卡同半区",
+        "onboard_time": 1727076559,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 7649,
+        "num": 138397,
+        "word": "Prada高智感穿搭",
+        "onboard_time": 1727071290,
+        "rank": 42,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 16338,
+        "num": 138238,
+        "word": "旷野美拉德和户外出行好搭",
+        "onboard_time": 1727075959,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138231,
+        "num": 138231,
+        "word": "电影小丑2定档",
+        "onboard_time": 1727074340,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 133307,
+        "num": 133307,
+        "word": "株洲警方通报芦淞大桥交通事故",
+        "onboard_time": 1727069249,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125220,
+        "num": 125220,
+        "word": "无锡虹桥医院涉欺诈骗保被立案侦查",
+        "onboard_time": 1727071408,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124839,
+        "num": 124839,
+        "word": "打车去浦东机场被绕大半个上海",
+        "onboard_time": 1727076319,
+        "rank": 47,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 123526,
+        "num": 123526,
+        "word": "恋与深空回应抄袭争议",
+        "onboard_time": 1727061919,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 118664,
+        "num": 118664,
+        "word": "重庆驾驶摩托艇落水失踪网红已身亡",
+        "onboard_time": 1727074579,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动农业增效益农民增收入农村增活力#"
+    }
+  }
+}
