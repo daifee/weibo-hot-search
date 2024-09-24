@@ -1,6 +1,6 @@
 {
   "startTime": 1726936020707,
-  "endTime": 1727192303134,
+  "endTime": 1727195285620,
   "band_list": [
     {
       "raw_hot": 6817146,
@@ -1195,6 +1195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 709155,
+      "num": 483226,
+      "word": "好怕唐嫣突然说一句China",
+      "onboard_time": 1727191161,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 708983,
       "num": 708983,
       "word": "江歌妈妈诉陈岚因证据不足被驳回",
@@ -1947,6 +1955,14 @@
       "category": "体育,作品衍生"
     },
     {
+      "raw_hot": 475965,
+      "num": 475965,
+      "word": "秦皇岛巨响",
+      "onboard_time": 1727190440,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 474724,
       "num": 487665,
       "word": "赵丽颖张若昀 好演员间的惺惺相惜",
@@ -2147,14 +2163,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 436000,
-      "num": 436000,
-      "word": "好怕唐嫣突然说一句China",
-      "onboard_time": 1727191161,
-      "rank": 31,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 434296,
       "num": 240648,
       "word": "陈赫张子萱贴脸秀恩爱",
@@ -2219,20 +2227,20 @@
       "category": "数码"
     },
     {
-      "raw_hot": 425497,
-      "num": 425497,
-      "word": "秦皇岛巨响",
-      "onboard_time": 1727190440,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 422193,
       "num": 350943,
       "word": "权志龙IU合照",
       "onboard_time": 1726969099,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 417851,
+      "num": 420257,
+      "word": "警方通报博主打击隐藏摄像头遭围堵",
+      "onboard_time": 1727190140,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 415369,
@@ -3379,6 +3387,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 261129,
+      "num": 242835,
+      "word": "邓为G社生图",
+      "onboard_time": 1727193259,
+      "rank": 8,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 260653,
       "num": 260653,
       "word": "雷佳音飞天奖视帝",
@@ -3475,6 +3491,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 252119,
+      "num": 225067,
+      "word": "全红婵被陈若琳问体重回答没有秤",
+      "onboard_time": 1727190621,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 251835,
       "num": 214406,
       "word": "便宜的眼镜真的会伤眼吗",
@@ -3547,20 +3571,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 245703,
+      "num": 245703,
+      "word": "黎巴嫩",
+      "onboard_time": 1727188941,
+      "rank": 19,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 244683,
       "num": 244683,
       "word": "恋与深空将修改争议台词",
       "onboard_time": 1727065230,
       "rank": 34,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 243654,
-      "num": 243654,
-      "word": "黎巴嫩",
-      "onboard_time": 1727188941,
-      "rank": 19,
-      "category": "国外时政"
     },
     {
       "raw_hot": 243508,
@@ -3819,14 +3843,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 228504,
-      "num": 420257,
-      "word": "警方通报博主打击隐藏摄像头遭围堵",
-      "onboard_time": 1727190140,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 228421,
       "num": 228421,
       "word": "京城大师赛",
@@ -3889,14 +3905,6 @@
       "onboard_time": 1727068889,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 225067,
-      "num": 225067,
-      "word": "全红婵被陈若琳问体重回答没有秤",
-      "onboard_time": 1727190621,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 224701,
@@ -4049,6 +4057,14 @@
       "onboard_time": 1727010443,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 217396,
+      "num": 217396,
+      "word": "A股全面爆发",
+      "onboard_time": 1727193259,
+      "rank": 14,
+      "category": "财经"
     },
     {
       "raw_hot": 217337,
@@ -5987,6 +6003,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 161545,
+      "num": 161545,
+      "word": "王一博美男鱼",
+      "onboard_time": 1727190201,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 161256,
       "num": 161256,
       "word": "迪丽热巴超飒花絮图",
@@ -6089,6 +6113,14 @@
       "onboard_time": 1726931425,
       "rank": 28,
       "category": "美食"
+    },
+    {
+      "raw_hot": 156956,
+      "num": 156956,
+      "word": "爸爸过世后我不再恐惧死亡",
+      "onboard_time": 1727193139,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 156879,
@@ -6329,6 +6361,14 @@
       "onboard_time": 1727162659,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 149013,
+      "num": 149013,
+      "word": "我们一般都喝wps",
+      "onboard_time": 1727191041,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 148974,
@@ -7051,6 +7091,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 130548,
+      "num": 130548,
+      "word": "东北雨姐直播间酸菜疑货不对板",
+      "onboard_time": 1727194338,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 130533,
       "num": 130533,
       "word": "何广智职业最大危机是哈妮克孜",
@@ -7715,12 +7763,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 109680,
-      "num": 157477,
-      "word": "王一博美男鱼",
-      "onboard_time": 1727190201,
-      "rank": 34,
-      "category": "艺人"
+      "raw_hot": 110234,
+      "num": 110234,
+      "word": "云南地里是有放射性物质么",
+      "onboard_time": 1727191880,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 109616,
@@ -7827,12 +7875,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 103039,
-      "num": 103039,
-      "word": "我们一般都喝wps",
-      "onboard_time": 1727191041,
-      "rank": 46,
-      "category": "幽默"
+      "raw_hot": 103407,
+      "num": 103407,
+      "word": "民宿业主与安装摄像头3人不相识",
+      "onboard_time": 1727192959,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 102529,
@@ -7889,14 +7937,6 @@
       "onboard_time": 1727055378,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 97855,
-      "num": 97855,
-      "word": "云南地里是有放射性物质么",
-      "onboard_time": 1727191880,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 97654,
@@ -8179,6 +8219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 85094,
+      "num": 85094,
+      "word": "张之臻回应获亚军",
+      "onboard_time": 1727192300,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 83876,
       "num": 365954,
       "word": "男子离婚冷静期杀妻案二审宣判",
@@ -8441,6 +8489,14 @@
       "onboard_time": 1727046195,
       "rank": 36,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 68061,
+      "num": 313220,
+      "word": "厕所发现摄像头高校应立即报警",
+      "onboard_time": 1727191761,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 68013,
@@ -9504,14 +9560,6 @@
       "word": "不说学校坏话作为爱校教育简直离谱",
       "onboard_time": 1727162598,
       "rank": 13,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 28495,
-      "num": 313220,
-      "word": "厕所发现摄像头高校应立即报警",
-      "onboard_time": 1727191761,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
