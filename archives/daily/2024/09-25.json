@@ -1,10 +1,10 @@
 {
   "startTime": 1727195285620,
-  "endTime": 1727220084639,
+  "endTime": 1727220943228,
   "band_list": [
     {
-      "raw_hot": 866210,
-      "num": 866210,
+      "raw_hot": 1075725,
+      "num": 1075725,
       "word": "老人长时间坐星巴克门口员工报警劝离",
       "onboard_time": 1727199072,
       "rank": 44,
@@ -19,8 +19,16 @@
       "category": "网红"
     },
     {
+      "raw_hot": 739217,
+      "num": 739217,
+      "word": "学校禁止学生带牛奶挨个查包",
+      "onboard_time": 1727207290,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 709155,
-      "num": 483226,
+      "num": 546815,
       "word": "好怕唐嫣突然说一句China",
       "onboard_time": 1727191161,
       "rank": 3,
@@ -35,11 +43,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 574243,
-      "num": 574243,
-      "word": "学校禁止学生带牛奶挨个查包",
-      "onboard_time": 1727207290,
-      "rank": 23,
+      "raw_hot": 590213,
+      "num": 590213,
+      "word": "南京街头现大量百元钞票",
+      "onboard_time": 1727200273,
+      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -48,14 +56,6 @@
       "word": "深圳一男子被悬赏340万",
       "onboard_time": 1727189002,
       "rank": 1,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 517693,
-      "num": 517693,
-      "word": "南京街头现大量百元钞票",
-      "onboard_time": 1727200273,
-      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -91,6 +91,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 360805,
+      "num": 360805,
+      "word": "曝光摄像头遭围堵博主放弃追责冲突方",
+      "onboard_time": 1727215453,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 359677,
       "num": 359677,
       "word": "A股全面爆发",
@@ -107,6 +115,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 321552,
+      "num": 279803,
+      "word": "大张伟辟谣是北京人就打过大张伟",
+      "onboard_time": 1727204771,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 320157,
       "num": 236222,
       "word": "邓为南柱赫同框看秀",
@@ -115,28 +131,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 302967,
-      "num": 302967,
-      "word": "曝光摄像头遭围堵博主放弃追责冲突方",
-      "onboard_time": 1727215453,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 281534,
       "num": 230844,
       "word": "石家庄一涉摄像头事件民宿歇业关闭",
       "onboard_time": 1727187080,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 264153,
-      "num": 238873,
-      "word": "大张伟辟谣是北京人就打过大张伟",
-      "onboard_time": 1727204771,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 261129,
@@ -148,7 +148,7 @@
     },
     {
       "raw_hot": 257941,
-      "num": 225723,
+      "num": 232305,
       "word": "幼童被狗撕咬拖行狗主人找到了",
       "onboard_time": 1727188101,
       "rank": 12,
@@ -156,7 +156,7 @@
     },
     {
       "raw_hot": 256849,
-      "num": 256849,
+      "num": 284892,
       "word": "东北雨姐直播间酸菜疑货不对板",
       "onboard_time": 1727194338,
       "rank": 24,
@@ -187,6 +187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 192263,
+      "num": 192263,
+      "word": "只有她转身看到了台下的薛之谦",
+      "onboard_time": 1727202793,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
       "raw_hot": 181263,
       "num": 181263,
       "word": "炉石传说",
@@ -201,6 +209,14 @@
       "onboard_time": 1727185400,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 179440,
+      "num": 179440,
+      "word": "以军空袭已致黎巴嫩50名儿童死亡",
+      "onboard_time": 1727181499,
+      "rank": 43,
+      "category": "国外时政"
     },
     {
       "raw_hot": 173755,
@@ -259,12 +275,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 138634,
-      "num": 138634,
-      "word": "只有她转身看到了台下的薛之谦",
-      "onboard_time": 1727202793,
-      "rank": 46,
-      "category": "演出"
+      "raw_hot": 130048,
+      "num": 120403,
+      "word": "专家提醒不必着急去银行",
+      "onboard_time": 1727208852,
+      "rank": 45,
+      "category": "财经"
     },
     {
       "raw_hot": 124288,
@@ -273,14 +289,6 @@
       "onboard_time": 1727183059,
       "rank": 25,
       "category": "情感"
-    },
-    {
-      "raw_hot": 120796,
-      "num": 105524,
-      "word": "专家提醒不必着急去银行",
-      "onboard_time": 1727208852,
-      "rank": 45,
-      "category": "财经"
     },
     {
       "raw_hot": 120672,
@@ -315,12 +323,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 112070,
-      "num": 112070,
-      "word": "以军空袭已致黎巴嫩50名儿童死亡",
-      "onboard_time": 1727181499,
-      "rank": 43,
-      "category": "国外时政"
+      "raw_hot": 112534,
+      "num": 112534,
+      "word": "180斤男生3月怒减40斤桃花都多了",
+      "onboard_time": 1727179940,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 110234,
@@ -379,14 +387,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 87441,
-      "num": 87441,
-      "word": "180斤男生3月怒减40斤桃花都多了",
-      "onboard_time": 1727179940,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 85094,
       "num": 85094,
       "word": "张之臻回应获亚军",
@@ -401,6 +401,14 @@
       "onboard_time": 1727181140,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 79523,
+      "num": 79523,
+      "word": "博主大娃回应被东北雨姐殴打",
+      "onboard_time": 1727204112,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 78754,
@@ -428,7 +436,7 @@
     },
     {
       "raw_hot": 75350,
-      "num": 83945,
+      "num": 90527,
       "word": "肖战往事随风舞台播放量破亿",
       "onboard_time": 1727190140,
       "rank": 44,
@@ -441,6 +449,14 @@
       "onboard_time": 1727190502,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 72227,
+      "num": 72227,
+      "word": "不敢想象表白墙上会蛐蛐成啥样",
+      "onboard_time": 1727219116,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 71968,
@@ -459,20 +475,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 70361,
-      "num": 70361,
-      "word": "博主大娃回应被东北雨姐殴打",
-      "onboard_time": 1727204112,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 70351,
       "num": 81351,
       "word": "周也Choker烟熏妆",
       "onboard_time": 1727175859,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 68458,
+      "num": 68458,
+      "word": "寻甸电商园区书记回应小英翻车",
+      "onboard_time": 1727210170,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 68308,
@@ -491,6 +507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 66384,
+      "num": 66384,
+      "word": "全红婵说大家都这么帅啊",
+      "onboard_time": 1727220497,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 63179,
       "num": 63179,
       "word": "卫昭 月落的地方就是家的方向",
@@ -507,15 +531,31 @@
       "category": "体育"
     },
     {
-      "raw_hot": 60369,
-      "num": 64213,
-      "word": "寻甸电商园区书记回应小英翻车",
-      "onboard_time": 1727210170,
-      "rank": 9,
+      "raw_hot": 62245,
+      "num": 66375,
+      "word": "全红婵发了好多合照",
+      "onboard_time": 1727220317,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 59384,
+      "num": 66370,
+      "word": "第一次见按表走的睡姿",
+      "onboard_time": 1727209510,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 53189,
+      "num": 66358,
+      "word": "芦淞大桥事故现场堆满鲜花玩偶",
+      "onboard_time": 1727210831,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 50200,
+      "raw_hot": 51415,
       "num": 75613,
       "word": "周芳谈王一博四年前后反差",
       "onboard_time": 1727213351,
@@ -523,12 +563,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 48712,
-      "num": 64193,
-      "word": "不敢想象表白墙上会蛐蛐成啥样",
-      "onboard_time": 1727219116,
-      "rank": 41,
-      "category": "幽默"
+      "raw_hot": 51394,
+      "num": 66339,
+      "word": "英雄联盟",
+      "onboard_time": 1727220739,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 48382,
@@ -536,14 +576,6 @@
       "word": "6人偷渡缅甸深陷境外诈骗窝点",
       "onboard_time": 1727198833,
       "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 48140,
-      "num": 64151,
-      "word": "芦淞大桥事故现场堆满鲜花玩偶",
-      "onboard_time": 1727210831,
-      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -603,14 +635,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 29069,
-      "num": 29069,
-      "word": "第一次见按表走的睡姿",
-      "onboard_time": 1727209510,
-      "rank": 44,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 25277,
       "num": 28153,
       "word": "黎巴嫩夺命寻呼机从何而来",
@@ -651,8 +675,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 4392,
-      "num": 578810,
+      "raw_hot": 5149,
+      "num": 686359,
       "word": "老铁山单日记录迁徙猛禽过万只",
       "onboard_time": 1727148199,
       "rank": 2,
