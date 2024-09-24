@@ -1,6 +1,6 @@
 {
   "startTime": 1726936020707,
-  "endTime": 1727149336027,
+  "endTime": 1727152014516,
   "band_list": [
     {
       "raw_hot": 6817146,
@@ -371,8 +371,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1306789,
-      "num": 1306789,
+      "raw_hot": 1322960,
+      "num": 1322960,
       "word": "专家称现在确实要苦一苦商业银行了",
       "onboard_time": 1727146100,
       "rank": 33,
@@ -392,6 +392,14 @@
       "word": "降低存量房贷利率",
       "onboard_time": 1727141659,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1267818,
+      "num": 1267818,
+      "word": "东北雨姐带货红薯厂家承认含木薯粉",
+      "onboard_time": 1727146458,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -859,14 +867,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 782242,
-      "num": 782242,
-      "word": "东北雨姐带货红薯厂家承认含木薯粉",
-      "onboard_time": 1727146458,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 778129,
       "num": 485116,
       "word": "叶珂晒聊天记录",
@@ -1001,6 +1001,14 @@
       "onboard_time": 1727105359,
       "rank": 5,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 688329,
+      "num": 688329,
+      "word": "胖东来禁止公司上下随礼",
+      "onboard_time": 1727150840,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 688011,
@@ -1243,6 +1251,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 574372,
+      "num": 652627,
+      "word": "时尚女总裁都来恋综找对象了",
+      "onboard_time": 1727148080,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 570530,
       "num": 500838,
       "word": "于正 保护一下我",
@@ -1329,6 +1345,14 @@
       "onboard_time": 1726985780,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 538175,
+      "num": 538175,
+      "word": "博主打击酒店隐藏摄像头遭多人围堵",
+      "onboard_time": 1727147238,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 537044,
@@ -1467,6 +1491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 487184,
+      "num": 487184,
+      "word": "全身最早衰老的器官",
+      "onboard_time": 1727145858,
+      "rank": 26,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 486893,
       "num": 486893,
       "word": "拟被聘为勤杂工硕士实为本科生",
@@ -1579,14 +1611,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 452816,
-      "num": 452816,
-      "word": "博主打击酒店隐藏摄像头遭多人围堵",
-      "onboard_time": 1727147238,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 451583,
       "num": 316780,
       "word": "宁艺卓光头造型",
@@ -1625,6 +1649,14 @@
       "onboard_time": 1727096601,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 447591,
+      "num": 537456,
+      "word": "陈情令包售后的",
+      "onboard_time": 1727149520,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 446747,
@@ -1713,14 +1745,6 @@
       "onboard_time": 1727063540,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 425900,
-      "num": 386403,
-      "word": "全身最早衰老的器官",
-      "onboard_time": 1727145858,
-      "rank": 26,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 425894,
@@ -1857,6 +1881,14 @@
       "onboard_time": 1727143160,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 386282,
+      "num": 334737,
+      "word": "4个症状说明身体需要立刻休息",
+      "onboard_time": 1727146519,
+      "rank": 45,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 385557,
@@ -2179,14 +2211,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 320901,
-      "num": 320901,
-      "word": "时尚女总裁都来恋综找对象了",
-      "onboard_time": 1727148080,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 318185,
       "num": 318185,
       "word": "阳澄湖大闸蟹卖到300多一只",
@@ -2217,6 +2241,14 @@
       "onboard_time": 1727137940,
       "rank": 22,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 314278,
+      "num": 314278,
+      "word": "网约车司机称便装亮证女子已道歉",
+      "onboard_time": 1727146398,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 313834,
@@ -2337,6 +2369,14 @@
       "onboard_time": 1727057899,
       "rank": 15,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 292218,
+      "num": 333783,
+      "word": "YG确定BLACKPINK明年完整体回归",
+      "onboard_time": 1727150301,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 292050,
@@ -2515,12 +2555,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 264197,
+      "num": 435705,
+      "word": "血常规报告中这4项最重要",
+      "onboard_time": 1727146699,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 264169,
       "num": 426885,
       "word": "乘客称飞机落地时有较大噪音",
       "onboard_time": 1727075839,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 263973,
+      "num": 332625,
+      "word": "陈妍希周柯宇杀青合照",
+      "onboard_time": 1727148860,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 263862,
@@ -2587,6 +2643,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 259296,
+      "num": 259296,
+      "word": "21岁女保安值班时被保安队长杀害",
+      "onboard_time": 1727146458,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 258572,
       "num": 198702,
       "word": "谁来心疼戚薇的头皮",
@@ -2611,6 +2675,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 256511,
+      "num": 256511,
+      "word": "中国传媒大学70周年校庆晚会阵容",
+      "onboard_time": 1727149039,
+      "rank": 35,
+      "category": "教育"
+    },
+    {
       "raw_hot": 256457,
       "num": 768952,
       "word": "无锡虹桥医院涉欺诈骗保被立案侦查",
@@ -2633,14 +2705,6 @@
       "onboard_time": 1727063841,
       "rank": 30,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 252774,
-      "num": 252774,
-      "word": "21岁女保安值班时被保安队长杀害",
-      "onboard_time": 1727146458,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 251835,
@@ -2691,6 +2755,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 248295,
+      "num": 317379,
+      "word": "唐嫣走秀把玫瑰花抛给黄奕",
+      "onboard_time": 1727149280,
+      "rank": 19,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 246226,
       "num": 207090,
       "word": "大湾区晚会来了",
@@ -2721,14 +2793,6 @@
       "onboard_time": 1727015065,
       "rank": 42,
       "category": "演出"
-    },
-    {
-      "raw_hot": 242635,
-      "num": 435705,
-      "word": "血常规报告中这4项最重要",
-      "onboard_time": 1727146699,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 242212,
@@ -2819,14 +2883,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 234643,
-      "num": 234643,
-      "word": "4个症状说明身体需要立刻休息",
-      "onboard_time": 1727146519,
-      "rank": 45,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 234543,
       "num": 185253,
       "word": "周慧敏还是那么美",
@@ -2915,6 +2971,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 228542,
+      "num": 418350,
+      "word": "校长开家长会下封口令被停职",
+      "onboard_time": 1727147000,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 227961,
+      "num": 227961,
+      "word": "贺峻霖将参加中传70周年校庆",
+      "onboard_time": 1727148799,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 227409,
       "num": 227409,
       "word": "骄阳似我备案",
@@ -2961,14 +3033,6 @@
       "onboard_time": 1727068889,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 225014,
-      "num": 225014,
-      "word": "网约车司机称便装亮证女子已道歉",
-      "onboard_time": 1727146398,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 224701,
@@ -3139,6 +3203,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 215961,
+      "num": 215961,
+      "word": "光遇",
+      "onboard_time": 1727151920,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 215293,
       "num": 433698,
       "word": "株洲早高峰车祸初查非故意伤害",
@@ -3161,14 +3233,6 @@
       "onboard_time": 1727092400,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 214412,
-      "num": 214412,
-      "word": "中国传媒大学70周年校庆晚会阵容",
-      "onboard_time": 1727149039,
-      "rank": 35,
-      "category": "教育"
     },
     {
       "raw_hot": 214087,
@@ -3201,6 +3265,14 @@
       "onboard_time": 1727146579,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 212568,
+      "num": 212568,
+      "word": "GFriend将重组",
+      "onboard_time": 1727151381,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 211962,
@@ -3289,14 +3361,6 @@
       "onboard_time": 1727050941,
       "rank": 22,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 207906,
-      "num": 207906,
-      "word": "贺峻霖将参加中传70周年校庆",
-      "onboard_time": 1727148799,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 206734,
@@ -3427,6 +3491,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 202108,
+      "num": 202108,
+      "word": "国庆档电影统一预售",
+      "onboard_time": 1727150781,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 201216,
       "num": 201216,
       "word": "官方再通报无锡虹桥医院涉嫌骗取医保",
@@ -3457,6 +3529,14 @@
       "onboard_time": 1727137940,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 199822,
+      "num": 199822,
+      "word": "可能和我的家教有关吧",
+      "onboard_time": 1727151802,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 199820,
@@ -3595,12 +3675,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 196409,
+      "num": 196409,
+      "word": "王一博 漫步者",
+      "onboard_time": 1727151321,
+      "rank": 46,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 196221,
       "num": 196221,
       "word": "BOYNEXTDOOR首次世巡海报",
       "onboard_time": 1727072068,
       "rank": 28,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 196080,
+      "num": 364117,
+      "word": "专家点评最新房贷政策",
+      "onboard_time": 1727146458,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 195820,
@@ -3649,14 +3745,6 @@
       "onboard_time": 1727069249,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 195234,
-      "num": 203919,
-      "word": "陈妍希周柯宇杀青合照",
-      "onboard_time": 1727148860,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 194922,
@@ -3905,14 +3993,6 @@
       "onboard_time": 1727010562,
       "rank": 29,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 187489,
-      "num": 418350,
-      "word": "校长开家长会下封口令被停职",
-      "onboard_time": 1727147000,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 187268,
@@ -4739,14 +4819,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 151664,
-      "num": 364117,
-      "word": "专家点评最新房贷政策",
-      "onboard_time": 1727146458,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 151534,
       "num": 227507,
       "word": "吴艳妮徐卓一组合夺冠",
@@ -4761,6 +4833,14 @@
       "onboard_time": 1726976420,
       "rank": 39,
       "category": "教育"
+    },
+    {
+      "raw_hot": 149822,
+      "num": 532365,
+      "word": "时代少年团去微博音乐盛典",
+      "onboard_time": 1727150480,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 149471,
@@ -5281,6 +5361,14 @@
       "onboard_time": 1726973119,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 132775,
+      "num": 195267,
+      "word": "戚薇 四川女人走到哪都要吃火锅",
+      "onboard_time": 1727151440,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 132551,
@@ -6043,6 +6131,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 100605,
+      "num": 532942,
+      "word": "家电补贴省出6000块居然是真的",
+      "onboard_time": 1727148860,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 100303,
       "num": 100303,
       "word": "散瓶飞天茅台跌破2300元",
@@ -6291,6 +6387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 85689,
+      "num": 465847,
+      "word": "没人能在雪景里打败霍建华",
+      "onboard_time": 1727150781,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 85459,
       "num": 207249,
       "word": "王楚钦给自己画肖像",
@@ -6531,6 +6635,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 68013,
+      "num": 334875,
+      "word": "女子疑因牵头成立业委会遭跟踪殴打",
+      "onboard_time": 1727150121,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 67883,
       "num": 67883,
       "word": "他们用汗水为大地增添丰收的颜色",
@@ -6755,6 +6867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 53871,
+      "num": 534787,
+      "word": "路人跟风扔酒瓶砸住户被行拘",
+      "onboard_time": 1727151920,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 53672,
       "num": 188100,
       "word": "中国赛李怡婧罗徐敏女双夺冠",
@@ -6851,28 +6971,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 49246,
-      "num": 204264,
-      "word": "家电补贴省出6000块居然是真的",
-      "onboard_time": 1727148860,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 48966,
       "num": 297328,
       "word": "冲锋衣的透汽和透气是不一样的",
       "onboard_time": 1727014224,
       "rank": 37,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 48586,
-      "num": 317379,
-      "word": "唐嫣走秀把玫瑰花抛给黄奕",
-      "onboard_time": 1727149280,
-      "rank": 19,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 46929,
@@ -7091,6 +7195,14 @@
       "category": "社会新闻,国外时政"
     },
     {
+      "raw_hot": 37560,
+      "num": 1292308,
+      "word": "铸牢共同体中华一家亲",
+      "onboard_time": 1727148499,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 37460,
       "num": 434400,
       "word": "吴磊抬腕这一下",
@@ -7187,11 +7299,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 32490,
-      "num": 1137983,
-      "word": "铸牢共同体中华一家亲",
-      "onboard_time": 1727148499,
-      "rank": 2,
+      "raw_hot": 32371,
+      "num": 491866,
+      "word": "你遇到过没有边界的探店打卡吗",
+      "onboard_time": 1727150840,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -7264,6 +7376,14 @@
       "word": "5399元报篮球班课没上成退费慢",
       "onboard_time": 1727088979,
       "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 29364,
+      "num": 632804,
+      "word": "国新办发布会5大关键信号",
+      "onboard_time": 1727151142,
+      "rank": 9,
       "category": "社会新闻"
     },
     {

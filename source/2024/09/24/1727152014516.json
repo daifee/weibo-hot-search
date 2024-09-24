@@ -1,0 +1,410 @@
+{
+  "runTime": 1727152014516,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1954544,
+        "num": 1954544,
+        "word": "100万元房贷30年将少还10万",
+        "onboard_time": 1727144118,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1322960,
+        "num": 1322960,
+        "word": "专家称现在确实要苦一苦商业银行了",
+        "onboard_time": 1727146100,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37560,
+        "num": 1292308,
+        "word": "铸牢共同体中华一家亲",
+        "onboard_time": 1727148499,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1267818,
+        "num": 1267818,
+        "word": "东北雨姐带货红薯厂家承认含木薯粉",
+        "onboard_time": 1727146458,
+        "rank": 3,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 724733,
+        "num": 724733,
+        "word": "官方通报工作人员便装亮证查网约车",
+        "onboard_time": 1727143519,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 688329,
+        "num": 688329,
+        "word": "胖东来禁止公司上下随礼",
+        "onboard_time": 1727150840,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 688231,
+        "num": 688231,
+        "word": "姚安娜新剧没有技巧只有莽",
+        "onboard_time": 1727146158,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 679034,
+        "num": 679034,
+        "word": "降低存量房贷利率",
+        "onboard_time": 1727141659,
+        "rank": 7,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 574372,
+        "num": 652627,
+        "word": "时尚女总裁都来恋综找对象了",
+        "onboard_time": 1727148080,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 29364,
+        "num": 632804,
+        "word": "国新办发布会5大关键信号",
+        "onboard_time": 1727151142,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 630843,
+        "num": 630843,
+        "word": "iPhone16史上最容易维修iPhone",
+        "onboard_time": 1727143219,
+        "rank": 10,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 598764,
+        "num": 598764,
+        "word": "央行宣布降息降准",
+        "onboard_time": 1727142559,
+        "rank": 11,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 538175,
+        "num": 538175,
+        "word": "博主打击酒店隐藏摄像头遭多人围堵",
+        "onboard_time": 1727147238,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 447591,
+        "num": 537456,
+        "word": "陈情令包售后的",
+        "onboard_time": 1727149520,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 53871,
+        "num": 534787,
+        "word": "路人跟风扔酒瓶砸住户被行拘",
+        "onboard_time": 1727151920,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100605,
+        "num": 532942,
+        "word": "家电补贴省出6000块居然是真的",
+        "onboard_time": 1727148860,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149822,
+        "num": 532365,
+        "word": "时代少年团去微博音乐盛典",
+        "onboard_time": 1727150480,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 369315,
+        "num": 529160,
+        "word": "王玉雯 谈恋爱不如结拜",
+        "onboard_time": 1727138060,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 529046,
+        "num": 529046,
+        "word": "移民船上30具遗体腐烂难以辨认",
+        "onboard_time": 1727143160,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32371,
+        "num": 491866,
+        "word": "你遇到过没有边界的探店打卡吗",
+        "onboard_time": 1727150840,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 790702,
+        "num": 490948,
+        "word": "厕所发现摄像头高校认为无需报警",
+        "onboard_time": 1727137940,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 487184,
+        "num": 487184,
+        "word": "全身最早衰老的器官",
+        "onboard_time": 1727145858,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 85689,
+        "num": 465847,
+        "word": "没人能在雪景里打败霍建华",
+        "onboard_time": 1727150781,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 450900,
+        "num": 450900,
+        "word": "九省通衢的气质具象化了",
+        "onboard_time": 1727144598,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 335380,
+        "num": 335380,
+        "word": "虞书欣生图",
+        "onboard_time": 1727146819,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 68013,
+        "num": 334875,
+        "word": "女子疑因牵头成立业委会遭跟踪殴打",
+        "onboard_time": 1727150121,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 386282,
+        "num": 334737,
+        "word": "4个症状说明身体需要立刻休息",
+        "onboard_time": 1727146519,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 292218,
+        "num": 333783,
+        "word": "YG确定BLACKPINK明年完整体回归",
+        "onboard_time": 1727150301,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 271655,
+        "num": 333105,
+        "word": "周雨彤在国外最常用的英文",
+        "onboard_time": 1727146939,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 263973,
+        "num": 332625,
+        "word": "陈妍希周柯宇杀青合照",
+        "onboard_time": 1727148860,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 332468,
+        "num": 332468,
+        "word": "便装乘网约车亮证执法女子调离岗位",
+        "onboard_time": 1727140279,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 314278,
+        "num": 314278,
+        "word": "网约车司机称便装亮证女子已道歉",
+        "onboard_time": 1727146398,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264197,
+        "num": 264197,
+        "word": "血常规报告中这4项最重要",
+        "onboard_time": 1727146699,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 259296,
+        "num": 259296,
+        "word": "21岁女保安值班时被保安队长杀害",
+        "onboard_time": 1727146458,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 256511,
+        "num": 256511,
+        "word": "中国传媒大学70周年校庆晚会阵容",
+        "onboard_time": 1727149039,
+        "rank": 34,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 248295,
+        "num": 248295,
+        "word": "唐嫣走秀把玫瑰花抛给黄奕",
+        "onboard_time": 1727149280,
+        "rank": 35,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 235098,
+        "num": 235098,
+        "word": "极乐鸟工作室",
+        "onboard_time": 1727103920,
+        "rank": 36,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 228542,
+        "num": 228542,
+        "word": "校长开家长会下封口令被停职",
+        "onboard_time": 1727147000,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227961,
+        "num": 227961,
+        "word": "贺峻霖将参加中传70周年校庆",
+        "onboard_time": 1727148799,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 226737,
+        "num": 226737,
+        "word": "二套房贷最低首付比例下调至15%",
+        "onboard_time": 1727143098,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215961,
+        "num": 215961,
+        "word": "光遇",
+        "onboard_time": 1727151920,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 212646,
+        "num": 212646,
+        "word": "上海迪士尼将实行实名制购票",
+        "onboard_time": 1727147000,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212568,
+        "num": 212568,
+        "word": "GFriend将重组",
+        "onboard_time": 1727151381,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206169,
+        "num": 206169,
+        "word": "唐嫣走秀wink",
+        "onboard_time": 1727136199,
+        "rank": 43,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 202108,
+        "num": 202108,
+        "word": "国庆档电影统一预售",
+        "onboard_time": 1727150781,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 199822,
+        "num": 199822,
+        "word": "可能和我的家教有关吧",
+        "onboard_time": 1727151802,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 196409,
+        "num": 196409,
+        "word": "王一博 漫步者",
+        "onboard_time": 1727151321,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 196080,
+        "num": 196080,
+        "word": "专家点评最新房贷政策",
+        "onboard_time": 1727146458,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195811,
+        "num": 195811,
+        "word": "韩男子杀女友后将其砌进阳台灌水泥",
+        "onboard_time": 1727133376,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132775,
+        "num": 195267,
+        "word": "戚薇 四川女人走到哪都要吃火锅",
+        "onboard_time": 1727151440,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#让航天科技成果更好造福人类#"
+    }
+  }
+}
