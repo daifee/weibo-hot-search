@@ -1,6 +1,6 @@
 {
   "startTime": 1727195285620,
-  "endTime": 1727212822027,
+  "endTime": 1727213822770,
   "band_list": [
     {
       "raw_hot": 812186,
@@ -339,6 +339,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 82099,
+      "num": 82099,
+      "word": "学校禁止学生带牛奶挨个查包",
+      "onboard_time": 1727207290,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 79329,
       "num": 79329,
       "word": "180斤男生3月怒减40斤桃花都多了",
@@ -443,14 +451,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 50222,
-      "num": 50222,
-      "word": "学校禁止学生带牛奶挨个查包",
-      "onboard_time": 1727207290,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 45630,
       "num": 45630,
       "word": "平遥国际电影展",
@@ -539,7 +539,15 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 26533,
+      "raw_hot": 29941,
+      "num": 29941,
+      "word": "专家提醒不必着急去银行",
+      "onboard_time": 1727208852,
+      "rank": 45,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 26948,
       "num": 38662,
       "word": "博主大娃回应被东北雨姐殴打",
       "onboard_time": 1727204112,
@@ -547,12 +555,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 26144,
-      "num": 26144,
-      "word": "专家提醒不必着急去银行",
-      "onboard_time": 1727208852,
-      "rank": 45,
-      "category": "财经"
+      "raw_hot": 25922,
+      "num": 46177,
+      "word": "寻甸电商园区书记回应小英翻车",
+      "onboard_time": 1727210170,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 25277,
@@ -579,20 +587,28 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 18739,
-      "num": 18739,
+      "raw_hot": 19963,
+      "num": 19963,
+      "word": "第一次见按表走的睡姿",
+      "onboard_time": 1727209510,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 19569,
+      "num": 19569,
       "word": "芦淞大桥事故现场堆满鲜花玩偶",
       "onboard_time": 1727210831,
       "rank": 39,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 17142,
-      "num": 17408,
-      "word": "第一次见按表走的睡姿",
-      "onboard_time": 1727209510,
-      "rank": 44,
-      "category": "幽默"
+      "raw_hot": 16780,
+      "num": 18510,
+      "word": "周芳谈王一博四年前后反差",
+      "onboard_time": 1727213351,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 14727,
@@ -600,14 +616,6 @@
       "word": "老太疑被民警殴打曾有人提出4万私了",
       "onboard_time": 1727203392,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 11490,
-      "num": 46177,
-      "word": "寻甸电商园区书记回应小英翻车",
-      "onboard_time": 1727210170,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
