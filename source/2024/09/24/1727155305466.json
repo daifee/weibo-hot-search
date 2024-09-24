@@ -1,0 +1,410 @@
+{
+  "runTime": 1727155305466,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2038398,
+        "num": 2038398,
+        "word": "胖东来禁止公司上下随礼",
+        "onboard_time": 1727150840,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1556408,
+        "num": 1556408,
+        "word": "俩姑娘出去玩捡到一斤黄金",
+        "onboard_time": 1727152462,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33960,
+        "num": 1461924,
+        "word": "铸牢共同体中华一家亲",
+        "onboard_time": 1727148499,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1407698,
+        "num": 1407698,
+        "word": "LV认领孙颖莎",
+        "onboard_time": 1727153481,
+        "rank": 3,
+        "category": "体育,时尚"
+      },
+      {
+        "raw_hot": 1108437,
+        "num": 1108437,
+        "word": "100万元房贷30年将少还10万",
+        "onboard_time": 1727144118,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 689595,
+        "num": 689595,
+        "word": "专家称现在确实要苦一苦商业银行了",
+        "onboard_time": 1727146100,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 563344,
+        "num": 563344,
+        "word": "杨紫李现新剧将分上下两部",
+        "onboard_time": 1727153181,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 561499,
+        "num": 561499,
+        "word": "莫文蔚晒与肖战合照",
+        "onboard_time": 1727154141,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 532653,
+        "num": 532653,
+        "word": "官方通报工作人员便装亮证查网约车",
+        "onboard_time": 1727143519,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 71833,
+        "num": 516245,
+        "word": "网友称孩子拿现金去便利店被拒收",
+        "onboard_time": 1727154620,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 515929,
+        "num": 515929,
+        "word": "降低存量房贷利率",
+        "onboard_time": 1727141659,
+        "rank": 10,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 477783,
+        "num": 477783,
+        "word": "东北雨姐带货红薯厂家承认含木薯粉",
+        "onboard_time": 1727146458,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 451185,
+        "num": 451185,
+        "word": "iPhone16史上最容易维修iPhone",
+        "onboard_time": 1727143219,
+        "rank": 12,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 30262,
+        "num": 450897,
+        "word": "英雄山上为111位烈士立丰碑",
+        "onboard_time": 1727153542,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 450645,
+        "num": 450645,
+        "word": "博主打击酒店隐藏摄像头遭多人围堵",
+        "onboard_time": 1727147238,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 380819,
+        "num": 404054,
+        "word": "时尚女总裁都来恋综找对象了",
+        "onboard_time": 1727148080,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 372714,
+        "num": 398352,
+        "word": "姚安娜新剧没有技巧只有莽",
+        "onboard_time": 1727146158,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 395209,
+        "num": 395209,
+        "word": "九省通衢的气质具象化了",
+        "onboard_time": 1727144598,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32412,
+        "num": 376170,
+        "word": "张新成王玉雯凑一起就玩抽象",
+        "onboard_time": 1727155222,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 209046,
+        "num": 367635,
+        "word": "女子将农药挂树上致幼女误食丧命",
+        "onboard_time": 1727154441,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 363009,
+        "num": 363009,
+        "word": "赵丽颖张若昀 好演员间的惺惺相惜",
+        "onboard_time": 1727154381,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 354318,
+        "num": 354318,
+        "word": "黄奕巴黎看秀的鞋子被偷了",
+        "onboard_time": 1727152521,
+        "rank": 21,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 337175,
+        "num": 337175,
+        "word": "陈情令包售后的",
+        "onboard_time": 1727149520,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 332411,
+        "num": 332411,
+        "word": "降低存量房贷利率切实为民纾困",
+        "onboard_time": 1727153001,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 81876,
+        "num": 324654,
+        "word": "张艺兴微博音乐盛典",
+        "onboard_time": 1727155222,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 323917,
+        "num": 323917,
+        "word": "全身最早衰老的器官",
+        "onboard_time": 1727145858,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 320843,
+        "num": 320843,
+        "word": "便装乘网约车亮证执法女子调离岗位",
+        "onboard_time": 1727140279,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 307309,
+        "num": 307309,
+        "word": "A股8000亿资金来了",
+        "onboard_time": 1727154620,
+        "rank": 27,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 306093,
+        "num": 306093,
+        "word": "马龙 全世界最好的队长",
+        "onboard_time": 1727152161,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 290352,
+        "num": 290352,
+        "word": "4个症状说明身体需要立刻休息",
+        "onboard_time": 1727146519,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 287026,
+        "num": 287026,
+        "word": "世界上最清澈的两个群体相遇了",
+        "onboard_time": 1727153001,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 283005,
+        "num": 283005,
+        "word": "移民船上30具遗体腐烂难以辨认",
+        "onboard_time": 1727143160,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 282315,
+        "num": 282315,
+        "word": "卢昱晓 琉璃少女",
+        "onboard_time": 1727154321,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 265974,
+        "num": 265974,
+        "word": "厕所发现摄像头高校认为无需报警",
+        "onboard_time": 1727137940,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258979,
+        "num": 258979,
+        "word": "Kim回归offer6",
+        "onboard_time": 1727153601,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 233491,
+        "num": 233491,
+        "word": "田朴珺和英国前首相国外度假",
+        "onboard_time": 1727154261,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227220,
+        "num": 227220,
+        "word": "央行宣布降息降准",
+        "onboard_time": 1727142559,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 213377,
+        "num": 213377,
+        "word": "唐嫣走秀把玫瑰花抛给黄奕",
+        "onboard_time": 1727149280,
+        "rank": 37,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 204802,
+        "num": 204802,
+        "word": "王玉雯 谈恋爱不如结拜",
+        "onboard_time": 1727138060,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201180,
+        "num": 201180,
+        "word": "网约车司机称便装亮证女子已道歉",
+        "onboard_time": 1727146398,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198507,
+        "num": 198507,
+        "word": "A股",
+        "onboard_time": 1727144118,
+        "rank": 40,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 196218,
+        "num": 196218,
+        "word": "孙佳俊刷新全国纪录",
+        "onboard_time": 1727151201,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 194092,
+        "num": 194092,
+        "word": "王一博 漫步者",
+        "onboard_time": 1727151321,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 192211,
+        "num": 192211,
+        "word": "YG确定BLACKPINK明年完整体回归",
+        "onboard_time": 1727150301,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191460,
+        "num": 191460,
+        "word": "陈妍希新剧长发梦回沈佳宜",
+        "onboard_time": 1727153842,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189692,
+        "num": 189692,
+        "word": "血常规报告中这4项最重要",
+        "onboard_time": 1727146699,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185187,
+        "num": 185187,
+        "word": "王楚钦喊我吃炒肝了",
+        "onboard_time": 1727155161,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 182955,
+        "num": 182955,
+        "word": "陈梦温柔坚韧大片",
+        "onboard_time": 1727155100,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 182379,
+        "num": 182379,
+        "word": "极乐鸟工作室",
+        "onboard_time": 1727103920,
+        "rank": 48,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 178608,
+        "num": 178608,
+        "word": "胖东来员工结婚公司均随礼2000元",
+        "onboard_time": 1727155281,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#让航天科技成果更好造福人类#"
+    }
+  }
+}
