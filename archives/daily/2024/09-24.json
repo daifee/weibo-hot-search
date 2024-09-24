@@ -1,6 +1,6 @@
 {
   "startTime": 1727108827688,
-  "endTime": 1727155305466,
+  "endTime": 1727156374927,
   "band_list": [
     {
       "raw_hot": 2264608,
@@ -43,8 +43,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1556408,
-      "num": 1556408,
+      "raw_hot": 1634493,
+      "num": 1634493,
       "word": "俩姑娘出去玩捡到一斤黄金",
       "onboard_time": 1727152462,
       "rank": 25,
@@ -179,6 +179,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 691161,
+      "num": 691161,
+      "word": "莫文蔚晒与肖战合照",
+      "onboard_time": 1727154141,
+      "rank": 7,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 655479,
       "num": 655479,
       "word": "筋膜枪的真正作用只有一个",
@@ -251,14 +259,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 561499,
-      "num": 561499,
-      "word": "莫文蔚晒与肖战合照",
-      "onboard_time": 1727154141,
-      "rank": 7,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 549509,
       "num": 573460,
       "word": "九省通衢的气质具象化了",
@@ -305,6 +305,14 @@
       "onboard_time": 1727090480,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 474724,
+      "num": 487665,
+      "word": "赵丽颖张若昀 好演员间的惺惺相惜",
+      "onboard_time": 1727154381,
+      "rank": 20,
+      "category": "剧集"
     },
     {
       "raw_hot": 471489,
@@ -363,6 +371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 391868,
+      "num": 391868,
+      "word": "A股8000亿资金来了",
+      "onboard_time": 1727154620,
+      "rank": 27,
+      "category": "财经"
+    },
+    {
       "raw_hot": 388361,
       "num": 388361,
       "word": "4个症状说明身体需要立刻休息",
@@ -371,12 +387,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 388144,
+      "num": 388144,
+      "word": "降低存量房贷利率切实为民纾困",
+      "onboard_time": 1727153001,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 386573,
       "num": 438201,
       "word": "林小宅这是可以说的吗",
       "onboard_time": 1727143160,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 384684,
+      "num": 388216,
+      "word": "女子将农药挂树上致幼女误食丧命",
+      "onboard_time": 1727154441,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 365935,
@@ -393,14 +425,6 @@
       "onboard_time": 1727146819,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 363009,
-      "num": 363009,
-      "word": "赵丽颖张若昀 好演员间的惺惺相惜",
-      "onboard_time": 1727154381,
-      "rank": 20,
-      "category": "剧集"
     },
     {
       "raw_hot": 354341,
@@ -467,18 +491,18 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 332411,
-      "num": 332411,
-      "word": "降低存量房贷利率切实为民纾困",
-      "onboard_time": 1727153001,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 329078,
       "num": 329078,
       "word": "大伯长期喝浓茶得胆结石做7次手术",
       "onboard_time": 1727117171,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 323227,
+      "num": 323227,
+      "word": "山西警方通报失联40多天女童已身亡",
+      "onboard_time": 1727155700,
       "rank": 23,
       "category": "社会新闻"
     },
@@ -497,14 +521,6 @@
       "onboard_time": 1727146398,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 307309,
-      "num": 307309,
-      "word": "A股8000亿资金来了",
-      "onboard_time": 1727154620,
-      "rank": 27,
-      "category": "财经"
     },
     {
       "raw_hot": 306690,
@@ -707,20 +723,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 242404,
+      "num": 242404,
+      "word": "田朴珺和英国前首相国外度假",
+      "onboard_time": 1727154261,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 236956,
       "num": 236956,
       "word": "世界之外",
       "onboard_time": 1727152282,
       "rank": 44,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 233491,
-      "num": 233491,
-      "word": "田朴珺和英国前首相国外度假",
-      "onboard_time": 1727154261,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 229009,
@@ -787,6 +803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 214125,
+      "num": 214125,
+      "word": "心动的信号7好浪漫",
+      "onboard_time": 1727155520,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 212691,
       "num": 212691,
       "word": "警方回应博主打击隐藏摄像头遭围堵",
@@ -801,14 +825,6 @@
       "onboard_time": 1727142440,
       "rank": 31,
       "category": "财经"
-    },
-    {
-      "raw_hot": 209046,
-      "num": 367635,
-      "word": "女子将农药挂树上致幼女误食丧命",
-      "onboard_time": 1727154441,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 203791,
@@ -849,6 +865,14 @@
       "onboard_time": 1727137940,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 200117,
+      "num": 200117,
+      "word": "王楚钦喊我吃炒肝了",
+      "onboard_time": 1727155161,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 199822,
@@ -931,6 +955,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 193506,
+      "num": 193506,
+      "word": "太原一高校招聘多名东南亚留学博士",
+      "onboard_time": 1727155820,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 191460,
       "num": 191460,
       "word": "陈妍希新剧长发梦回沈佳宜",
@@ -963,11 +995,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 185187,
-      "num": 185187,
-      "word": "王楚钦喊我吃炒肝了",
-      "onboard_time": 1727155161,
-      "rank": 46,
+      "raw_hot": 186533,
+      "num": 186533,
+      "word": "陈梦温柔坚韧大片",
+      "onboard_time": 1727155100,
+      "rank": 47,
       "category": "体育"
     },
     {
@@ -979,6 +1011,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 184247,
+      "num": 184247,
+      "word": "胖东来员工结婚公司均随礼2000元",
+      "onboard_time": 1727155281,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 183936,
       "num": 183936,
       "word": "孙颖莎王楚钦持续领衔世界第一",
@@ -987,12 +1027,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 182955,
-      "num": 182955,
-      "word": "陈梦温柔坚韧大片",
-      "onboard_time": 1727155100,
-      "rank": 47,
-      "category": "体育"
+      "raw_hot": 179238,
+      "num": 391957,
+      "word": "半熟男女 冷暴力",
+      "onboard_time": 1727155460,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 178768,
@@ -1000,14 +1040,6 @@
       "word": "女子带猫逛商场猫被死死卡进扶梯",
       "onboard_time": 1727146279,
       "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 178608,
-      "num": 178608,
-      "word": "胖东来员工结婚公司均随礼2000元",
-      "onboard_time": 1727155281,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -1033,6 +1065,14 @@
       "onboard_time": 1727140220,
       "rank": 38,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 174085,
+      "num": 174085,
+      "word": "女童吃冷藏水果后大脑感染高烧不退",
+      "onboard_time": 1727156179,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 170019,
@@ -1307,6 +1347,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 107657,
+      "num": 516245,
+      "word": "网友称孩子拿现金去便利店被拒收",
+      "onboard_time": 1727154620,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 107504,
       "num": 107504,
       "word": "孙颖莎 大朋友小朋友都成长了",
@@ -1427,6 +1475,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 83012,
+      "num": 388671,
+      "word": "张新成王玉雯凑一起就玩抽象",
+      "onboard_time": 1727155222,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 81876,
       "num": 324654,
       "word": "张艺兴微博音乐盛典",
@@ -1459,11 +1515,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 71833,
-      "num": 516245,
-      "word": "网友称孩子拿现金去便利店被拒收",
-      "onboard_time": 1727154620,
-      "rank": 9,
+      "raw_hot": 72945,
+      "num": 400334,
+      "word": "全国层面不再区分首套房二套房",
+      "onboard_time": 1727155579,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -1641,14 +1697,6 @@
       "onboard_time": 1727086518,
       "rank": 48,
       "category": "网红"
-    },
-    {
-      "raw_hot": 32412,
-      "num": 376170,
-      "word": "张新成王玉雯凑一起就玩抽象",
-      "onboard_time": 1727155222,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 31909,
