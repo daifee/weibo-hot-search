@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/09/01 00:25:38 ~ 2024/09/24 16:29:10
+本榜单时间：2024/09/01 00:25:38 ~ 2024/09/24 16:43:16
 </p>
 </blockquote>
 <p>
@@ -3705,6 +3705,12 @@ NewJeans被HYBE其他艺人团队排挤（热度：1130540）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%82%AF%E5%BE%B7%E5%9F%BA%E5%88%9A%E6%9D%A5%E4%B8%AD%E5%9B%BD%E6%97%B6%E8%BF%98%E4%B8%8D%E5%8F%AB%E8%82%AF%E5%BE%B7%E5%9F%BA%23" target="weibo">
+肯德基刚来中国时还不叫肯德基（热度：1118015）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%8F%E5%B7%9E%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E4%B8%80%E6%8C%81%E5%88%80%E4%BC%A4%E4%BA%BA%E4%BA%8B%E4%BB%B6%23" target="weibo">
 苏州警方通报一持刀伤人事件（热度：1116315）
 </a>
@@ -6005,12 +6011,6 @@ WBG战胜JDG（热度：837121）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%B9%B0%E9%B8%A1%E8%80%8D%E5%BF%83%E7%9C%BC%E8%A2%AB%E5%BA%97%E4%B8%BB%E8%BF%9E%E6%89%874%E8%80%B3%E5%85%89%23" target="weibo">
 男子买鸡耍心眼被店主连扇4耳光（热度：814239）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E6%B5%A9%E7%84%B6%E5%9C%A8%E4%BA%A7%E6%88%BF%E7%9B%B4%E6%92%AD%E5%8D%96%E8%B4%A7%23" target="weibo">
-宋浩然在产房直播卖货（热度：813926）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1726936020707,
-  "endTime": 1727166550076,
+  "endTime": 1727167396977,
   "band_list": [
     {
       "raw_hot": 6817146,
@@ -531,6 +531,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1118015,
+      "num": 1178882,
+      "word": "肯德基刚来中国时还不叫肯德基",
+      "onboard_time": 1727163919,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1106238,
       "num": 1106238,
       "word": "加沙一孕妇死于空袭孩子掉在楼梯上",
@@ -929,14 +937,6 @@
       "onboard_time": 1726994838,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 803347,
-      "num": 803347,
-      "word": "肯德基刚来中国时还不叫肯德基",
-      "onboard_time": 1727163919,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 788154,
@@ -1347,6 +1347,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 580205,
+      "num": 580205,
+      "word": "等一个Mate70",
+      "onboard_time": 1727162840,
+      "rank": 30,
+      "category": "数码"
+    },
+    {
       "raw_hot": 575746,
       "num": 575746,
       "word": "店员用个人收款码收4万被刑拘",
@@ -1593,14 +1601,6 @@
       "onboard_time": 1726929147,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 499364,
-      "num": 499364,
-      "word": "等一个Mate70",
-      "onboard_time": 1727162840,
-      "rank": 30,
-      "category": "数码"
     },
     {
       "raw_hot": 494979,
@@ -1964,7 +1964,7 @@
     },
     {
       "raw_hot": 411924,
-      "num": 473065,
+      "num": 500978,
       "word": "赵丽颖的哭戏还是这么顶",
       "onboard_time": 1727161039,
       "rank": 12,
@@ -2329,6 +2329,14 @@
       "onboard_time": 1726967720,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 348980,
+      "num": 348980,
+      "word": "田曦薇给自己演yue了",
+      "onboard_time": 1727164519,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 346939,
@@ -2995,14 +3003,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 258955,
-      "num": 346169,
-      "word": "田曦薇给自己演yue了",
-      "onboard_time": 1727164519,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 258774,
       "num": 258774,
       "word": "毛不易演我减肥",
@@ -3313,6 +3313,14 @@
       "onboard_time": 1727103141,
       "rank": 18,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 231505,
+      "num": 465393,
+      "word": "唐嫣台步走出维密天使感",
+      "onboard_time": 1727163078,
+      "rank": 17,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 231301,
@@ -3947,6 +3955,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 202377,
+      "num": 203127,
+      "word": "王玉雯 人怎么可以捅这么大的娄子",
+      "onboard_time": 1727164220,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 202108,
       "num": 202108,
       "word": "国庆档电影统一预售",
@@ -3977,14 +3993,6 @@
       "onboard_time": 1727160017,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 201147,
-      "num": 203127,
-      "word": "王玉雯 人怎么可以捅这么大的娄子",
-      "onboard_time": 1727164220,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 200966,
@@ -4563,6 +4571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 187152,
+      "num": 187152,
+      "word": "夫妻打造高端人设骗了7人600多万元",
+      "onboard_time": 1727166678,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 187008,
       "num": 187008,
       "word": "iPhone15ProMax为上半年最畅销手机",
@@ -4673,6 +4689,14 @@
       "onboard_time": 1727095520,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 182198,
+      "num": 182198,
+      "word": "智界R7后备箱",
+      "onboard_time": 1727166979,
+      "rank": 27,
+      "category": "汽车"
     },
     {
       "raw_hot": 182145,
@@ -5203,6 +5227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 164250,
+      "num": 164250,
+      "word": "炉石传说",
+      "onboard_time": 1727166258,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 164239,
       "num": 183088,
       "word": "9月22日20时43分迎秋分",
@@ -5289,6 +5321,14 @@
       "onboard_time": 1727000000,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 162445,
+      "num": 162445,
+      "word": "中科院孙凝晖院士批评华为搞技术垄断",
+      "onboard_time": 1727166798,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 162179,
@@ -5427,14 +5467,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 152995,
-      "num": 465393,
-      "word": "唐嫣台步走出维密天使感",
-      "onboard_time": 1727163078,
-      "rank": 17,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 152846,
       "num": 152846,
       "word": "电视剧三大奖大满贯名单",
@@ -5507,6 +5539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 150714,
+      "num": 150714,
+      "word": "2024爱奇艺悦享会",
+      "onboard_time": 1727167159,
+      "rank": 43,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 150139,
       "num": 150139,
       "word": "粉笔模考",
@@ -5529,6 +5569,14 @@
       "onboard_time": 1726976240,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 149121,
+      "num": 442872,
+      "word": "高校临时延期报到竟因校区还没建好",
+      "onboard_time": 1727162659,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 148974,
@@ -5705,6 +5753,14 @@
       "onboard_time": 1727146519,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 145227,
+      "num": 145227,
+      "word": "婆婆曾反对韩安冉宋浩然交往",
+      "onboard_time": 1727164759,
+      "rank": 47,
+      "category": "网红"
     },
     {
       "raw_hot": 145178,
@@ -6113,14 +6169,6 @@
       "onboard_time": 1727057612,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 131546,
-      "num": 131546,
-      "word": "炉石传说",
-      "onboard_time": 1727166258,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 131177,
@@ -7427,6 +7475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 66538,
+      "num": 317896,
+      "word": "男子冒充国企采购骗走280万货物",
+      "onboard_time": 1727165300,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 66402,
       "num": 306702,
       "word": "你抢到十一出行的火车票了吗",
@@ -7683,6 +7739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 53294,
+      "num": 372725,
+      "word": "华为手表首发情绪健康助手",
+      "onboard_time": 1727164941,
+      "rank": 15,
+      "category": "数码"
+    },
+    {
       "raw_hot": 53032,
       "num": 144140,
       "word": "宝马4S店称降价因月底冲销量",
@@ -7737,6 +7801,14 @@
       "onboard_time": 1727111115,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 50864,
+      "num": 499435,
+      "word": "骗保举报内容疑神同步给被举报单位",
+      "onboard_time": 1727165240,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 50517,
@@ -7849,14 +7921,6 @@
       "onboard_time": 1727150840,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 45867,
-      "num": 372725,
-      "word": "华为手表首发情绪健康助手",
-      "onboard_time": 1727164941,
-      "rank": 15,
-      "category": "数码"
     },
     {
       "raw_hot": 45782,
@@ -8043,14 +8107,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 38074,
-      "num": 317896,
-      "word": "男子冒充国企采购骗走280万货物",
-      "onboard_time": 1727165300,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 37601,
       "num": 100807,
       "word": "以防长称将继续打击黎真主党",
@@ -8155,14 +8211,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 33165,
-      "num": 499435,
-      "word": "骗保举报内容疑神同步给被举报单位",
-      "onboard_time": 1727165240,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 32633,
       "num": 535330,
       "word": "法拍房催生职业清房人",
@@ -8241,6 +8289,14 @@
       "onboard_time": 1726977260,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 29427,
+      "num": 166549,
+      "word": "吴磊说走出去才会有奇遇",
+      "onboard_time": 1727166859,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 29386,
@@ -8435,14 +8491,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 24724,
-      "num": 442872,
-      "word": "高校临时延期报到竟因校区还没建好",
-      "onboard_time": 1727162659,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 24302,
       "num": 30474,
       "word": "王心凌官宣微博音乐盛典",
@@ -8465,6 +8513,14 @@
       "onboard_time": 1727113753,
       "rank": 42,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 23260,
+      "num": 158580,
+      "word": "AI新中式亮相米兰时装周",
+      "onboard_time": 1727166859,
+      "rank": 38,
+      "category": "时尚"
     },
     {
       "raw_hot": 22770,
@@ -8643,6 +8699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 15689,
+      "num": 165164,
+      "word": "最醉福州",
+      "onboard_time": 1727164819,
+      "rank": 39,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 15239,
       "num": 19030,
       "word": "红薯粉里没有红薯涉虚假宣传",
@@ -8681,14 +8745,6 @@
       "onboard_time": 1726923742,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 12992,
-      "num": 165164,
-      "word": "最醉福州",
-      "onboard_time": 1727164819,
-      "rank": 39,
-      "category": "旅游"
     },
     {
       "raw_hot": 12309,
