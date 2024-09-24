@@ -1,6 +1,6 @@
 {
   "startTime": 1726936020707,
-  "endTime": 1727191452985,
+  "endTime": 1727192303134,
   "band_list": [
     {
       "raw_hot": 6817146,
@@ -1035,6 +1035,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 809915,
+      "num": 809915,
+      "word": "深圳一男子被悬赏340万",
+      "onboard_time": 1727189002,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 804521,
       "num": 804521,
       "word": "孙颖莎见面会",
@@ -1128,14 +1136,6 @@
       "word": "男子刷手机掉海里漂了3小时",
       "onboard_time": 1727177058,
       "rank": 36,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 741808,
-      "num": 741808,
-      "word": "深圳一男子被悬赏340万",
-      "onboard_time": 1727189002,
-      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -1507,8 +1507,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 605479,
-      "num": 605479,
+      "raw_hot": 606562,
+      "num": 606562,
       "word": "石家庄一涉摄像头事件民宿歇业关闭",
       "onboard_time": 1727187080,
       "rank": 49,
@@ -1521,6 +1521,14 @@
       "onboard_time": 1727090300,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 600088,
+      "num": 419806,
+      "word": "幼童被狗撕咬拖行狗主人找到了",
+      "onboard_time": 1727188101,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 594456,
@@ -1793,14 +1801,6 @@
       "onboard_time": 1727136199,
       "rank": 7,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 506656,
-      "num": 419806,
-      "word": "幼童被狗撕咬拖行狗主人找到了",
-      "onboard_time": 1727188101,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 506312,
@@ -2123,6 +2123,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 443137,
+      "num": 443137,
+      "word": "小英家的牛",
+      "onboard_time": 1727191280,
+      "rank": 39,
+      "category": "网红"
+    },
+    {
       "raw_hot": 441509,
       "num": 441509,
       "word": "孙颖莎王楚钦担任特派体育老师",
@@ -2137,6 +2145,14 @@
       "onboard_time": 1727160498,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 436000,
+      "num": 436000,
+      "word": "好怕唐嫣突然说一句China",
+      "onboard_time": 1727191161,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 434296,
@@ -2171,6 +2187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 431009,
+      "num": 384006,
+      "word": "邓为南柱赫同框看秀",
+      "onboard_time": 1727188761,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 428384,
       "num": 251563,
       "word": "一个爱钱一个有钱建议锁死",
@@ -2193,6 +2217,14 @@
       "onboard_time": 1727001441,
       "rank": 46,
       "category": "数码"
+    },
+    {
+      "raw_hot": 425497,
+      "num": 425497,
+      "word": "秦皇岛巨响",
+      "onboard_time": 1727190440,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 422193,
@@ -2675,14 +2707,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 340318,
-      "num": 340318,
-      "word": "秦皇岛巨响",
-      "onboard_time": 1727190440,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 339900,
       "num": 339900,
       "word": "东北雨姐评论区关评刷屏",
@@ -2865,14 +2889,6 @@
       "onboard_time": 1727024297,
       "rank": 12,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 309890,
-      "num": 365601,
-      "word": "邓为南柱赫同框看秀",
-      "onboard_time": 1727188761,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 309414,
@@ -3556,7 +3572,7 @@
     },
     {
       "raw_hot": 242909,
-      "num": 237244,
+      "num": 240325,
       "word": "石家庄民宿摄像头",
       "onboard_time": 1727188701,
       "rank": 38,
@@ -3803,6 +3819,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 228504,
+      "num": 420257,
+      "word": "警方通报博主打击隐藏摄像头遭围堵",
+      "onboard_time": 1727190140,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 228421,
       "num": 228421,
       "word": "京城大师赛",
@@ -3865,6 +3889,14 @@
       "onboard_time": 1727068889,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 225067,
+      "num": 225067,
+      "word": "全红婵被陈若琳问体重回答没有秤",
+      "onboard_time": 1727190621,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 224701,
@@ -4715,14 +4747,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 196117,
-      "num": 420257,
-      "word": "警方通报博主打击隐藏摄像头遭围堵",
-      "onboard_time": 1727190140,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 196080,
       "num": 364117,
       "word": "专家点评最新房贷政策",
@@ -5193,14 +5217,6 @@
       "onboard_time": 1727077339,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 184666,
-      "num": 184666,
-      "word": "全红婵被陈若琳问体重回答没有秤",
-      "onboard_time": 1727190621,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 184631,
@@ -5915,14 +5931,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 163352,
-      "num": 163352,
-      "word": "好怕唐嫣突然说一句China",
-      "onboard_time": 1727191161,
-      "rank": 31,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 163257,
       "num": 163257,
       "word": "凤凰传奇演唱会三城官宣",
@@ -5996,7 +6004,7 @@
     },
     {
       "raw_hot": 160084,
-      "num": 160084,
+      "num": 225196,
       "word": "强冷空气已预定国庆档期",
       "onboard_time": 1727184559,
       "rank": 42,
@@ -6033,6 +6041,14 @@
       "onboard_time": 1726967899,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 158172,
+      "num": 158172,
+      "word": "王者荣耀新赛季",
+      "onboard_time": 1727187561,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 157678,
@@ -6083,20 +6099,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 156721,
-      "num": 156721,
-      "word": "王者荣耀新赛季",
-      "onboard_time": 1727187561,
-      "rank": 48,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 156361,
       "num": 156361,
       "word": "秦彻风临野",
       "onboard_time": 1727072308,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 155998,
+      "num": 155998,
+      "word": "孙颖莎说非常期待在北京比赛",
+      "onboard_time": 1727190081,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 155896,
@@ -6161,6 +6177,14 @@
       "onboard_time": 1727172318,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 153612,
+      "num": 153612,
+      "word": "全红婵陈芋汐拜访老师",
+      "onboard_time": 1727190502,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 153400,
@@ -6539,14 +6563,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 145048,
-      "num": 145048,
-      "word": "小英家的牛",
-      "onboard_time": 1727191280,
-      "rank": 39,
-      "category": "网红"
-    },
-    {
       "raw_hot": 144670,
       "num": 144670,
       "word": "工作室发的易烊千玺内场图",
@@ -6787,14 +6803,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 138535,
-      "num": 138535,
-      "word": "孙颖莎说非常期待在北京比赛",
-      "onboard_time": 1727190081,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 138474,
       "num": 486840,
       "word": "国家医保局进驻无锡涉嫌骗保医院",
@@ -6889,14 +6897,6 @@
       "onboard_time": 1727081420,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 135649,
-      "num": 135649,
-      "word": "全红婵陈芋汐拜访老师",
-      "onboard_time": 1727190502,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 135576,
@@ -7715,6 +7715,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 109680,
+      "num": 157477,
+      "word": "王一博美男鱼",
+      "onboard_time": 1727190201,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 109616,
       "num": 109616,
       "word": "电影分手清单定档",
@@ -7819,6 +7827,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 103039,
+      "num": 103039,
+      "word": "我们一般都喝wps",
+      "onboard_time": 1727191041,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 102529,
       "num": 102529,
       "word": "孙颖莎挥挥小手好可爱",
@@ -7873,6 +7889,14 @@
       "onboard_time": 1727055378,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 97855,
+      "num": 97855,
+      "word": "云南地里是有放射性物质么",
+      "onboard_time": 1727191880,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 97654,
@@ -8481,14 +8505,6 @@
       "onboard_time": 1727158400,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 65174,
-      "num": 157477,
-      "word": "王一博美男鱼",
-      "onboard_time": 1727190201,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 64758,
@@ -9491,6 +9507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 28495,
+      "num": 313220,
+      "word": "厕所发现摄像头高校应立即报警",
+      "onboard_time": 1727191761,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 28419,
       "num": 339804,
       "word": "余承东现场演示智界R7超超超能装",
@@ -9633,6 +9657,14 @@
       "onboard_time": 1727173819,
       "rank": 28,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 26109,
+      "num": 243779,
+      "word": "田曦薇周雨彤新剧battle茶艺",
+      "onboard_time": 1727191339,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 25936,
@@ -10025,14 +10057,6 @@
       "onboard_time": 1726987279,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 5081,
-      "num": 243779,
-      "word": "田曦薇周雨彤新剧battle茶艺",
-      "onboard_time": 1727191339,
-      "rank": 18,
-      "category": "剧集"
     }
   ],
   "hotgov_list": [

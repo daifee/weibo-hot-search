@@ -1,0 +1,410 @@
+{
+  "runTime": 1727192303134,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1197216,
+        "num": 1197216,
+        "word": "网红小英不能开着路虎卖惨",
+        "onboard_time": 1727175258,
+        "rank": 0,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 872476,
+        "num": 872476,
+        "word": "7岁女孩不到1秒破世界纪录",
+        "onboard_time": 1727176939,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 9188,
+        "num": 811871,
+        "word": "天山南北唱新歌",
+        "onboard_time": 1727178379,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 809915,
+        "num": 809915,
+        "word": "深圳一男子被悬赏340万",
+        "onboard_time": 1727189002,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 606562,
+        "num": 606562,
+        "word": "石家庄一涉摄像头事件民宿歇业关闭",
+        "onboard_time": 1727187080,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 580668,
+        "num": 580668,
+        "word": "迪丽热巴无袖束腰裙",
+        "onboard_time": 1727185340,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 443137,
+        "num": 443137,
+        "word": "小英家的牛",
+        "onboard_time": 1727191280,
+        "rank": 6,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 436000,
+        "num": 436000,
+        "word": "好怕唐嫣突然说一句China",
+        "onboard_time": 1727191161,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 425497,
+        "num": 425497,
+        "word": "秦皇岛巨响",
+        "onboard_time": 1727190440,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 391354,
+        "num": 391354,
+        "word": "男子刷手机掉海里漂了3小时",
+        "onboard_time": 1727177058,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 600088,
+        "num": 389768,
+        "word": "幼童被狗撕咬拖行狗主人找到了",
+        "onboard_time": 1727188101,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 431009,
+        "num": 384006,
+        "word": "邓为南柱赫同框看秀",
+        "onboard_time": 1727188761,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 368172,
+        "num": 368172,
+        "word": "成都不入秋了直接入冬",
+        "onboard_time": 1727185400,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 358514,
+        "num": 358514,
+        "word": "金智秀淡妆高马尾",
+        "onboard_time": 1727187021,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 28495,
+        "num": 313220,
+        "word": "厕所发现摄像头高校应立即报警",
+        "onboard_time": 1727191761,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 299432,
+        "num": 299432,
+        "word": "邓为时装周戴口罩",
+        "onboard_time": 1727186960,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 240325,
+        "num": 240325,
+        "word": "石家庄民宿摄像头",
+        "onboard_time": 1727188701,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228504,
+        "num": 228504,
+        "word": "警方通报博主打击隐藏摄像头遭围堵",
+        "onboard_time": 1727190140,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26109,
+        "num": 226020,
+        "word": "田曦薇周雨彤新剧battle茶艺",
+        "onboard_time": 1727191339,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 225300,
+        "num": 225300,
+        "word": "周到拍的马龙王楚钦",
+        "onboard_time": 1727184680,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 303950,
+        "num": 225249,
+        "word": "大爷凌晨卖菜只赚27元被骗200元",
+        "onboard_time": 1727181319,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153434,
+        "num": 225196,
+        "word": "强冷空气已预定国庆档期",
+        "onboard_time": 1727184559,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267974,
+        "num": 225131,
+        "word": "邓为工作室",
+        "onboard_time": 1727185161,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 249091,
+        "num": 225115,
+        "word": "迪奥大秀",
+        "onboard_time": 1727187021,
+        "rank": 23,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 225067,
+        "num": 225067,
+        "word": "全红婵被陈若琳问体重回答没有秤",
+        "onboard_time": 1727190621,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 199988,
+        "num": 199988,
+        "word": "孟川脱口秀",
+        "onboard_time": 1727186481,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197249,
+        "num": 197249,
+        "word": "黎巴嫩",
+        "onboard_time": 1727188941,
+        "rank": 26,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 195414,
+        "num": 195414,
+        "word": "黎巴嫩经历最血腥一天",
+        "onboard_time": 1727175798,
+        "rank": 27,
+        "category": "社会新闻,国外时政"
+      },
+      {
+        "raw_hot": 181262,
+        "num": 181262,
+        "word": "孙佳俊打破亚洲纪录",
+        "onboard_time": 1727184739,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167159,
+        "num": 167159,
+        "word": "第五人格",
+        "onboard_time": 1727190381,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 162188,
+        "num": 162188,
+        "word": "朋友圈可以发live实况图是好是坏",
+        "onboard_time": 1727183059,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 158172,
+        "num": 158172,
+        "word": "王者荣耀新赛季",
+        "onboard_time": 1727187561,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 156023,
+        "num": 156023,
+        "word": "吴倩戏路越来越宽了",
+        "onboard_time": 1727189720,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 155998,
+        "num": 155998,
+        "word": "孙颖莎说非常期待在北京比赛",
+        "onboard_time": 1727190081,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153612,
+        "num": 153612,
+        "word": "全红婵陈芋汐拜访老师",
+        "onboard_time": 1727190502,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142033,
+        "num": 142033,
+        "word": "肖战往事随风舞台播放量破亿",
+        "onboard_time": 1727190140,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 141267,
+        "num": 141267,
+        "word": "考公和考研同时上岸选择哪个",
+        "onboard_time": 1727179579,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 136011,
+        "num": 136011,
+        "word": "女子12楼外墙施工遭老太割安全绳",
+        "onboard_time": 1727173339,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131183,
+        "num": 131183,
+        "word": "白月梵星",
+        "onboard_time": 1727181140,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130325,
+        "num": 130325,
+        "word": "俩姑娘出去玩捡到一斤黄金",
+        "onboard_time": 1727152462,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128668,
+        "num": 128668,
+        "word": "国庆部分航班票价降超一半",
+        "onboard_time": 1727188161,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125749,
+        "num": 125749,
+        "word": "以军空袭已致黎巴嫩50名儿童死亡",
+        "onboard_time": 1727181499,
+        "rank": 41,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 124700,
+        "num": 124700,
+        "word": "博主打击酒店隐藏摄像头遭多人围堵",
+        "onboard_time": 1727147238,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124663,
+        "num": 124663,
+        "word": "白鹿敖瑞鹏这13秒预告",
+        "onboard_time": 1727186000,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109680,
+        "num": 109680,
+        "word": "王一博美男鱼",
+        "onboard_time": 1727190201,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106665,
+        "num": 106665,
+        "word": "180斤男生3月怒减40斤桃花都多了",
+        "onboard_time": 1727179940,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103039,
+        "num": 103039,
+        "word": "我们一般都喝wps",
+        "onboard_time": 1727191041,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 100793,
+        "num": 100793,
+        "word": "周也Choker烟熏妆",
+        "onboard_time": 1727175859,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99900,
+        "num": 99900,
+        "word": "赵丽颖 体验派演员",
+        "onboard_time": 1727188401,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 97855,
+        "num": 97855,
+        "word": "云南地里是有放射性物质么",
+        "onboard_time": 1727191880,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国圆了飞天揽月梦也圆了自主创新梦#"
+    }
+  }
+}

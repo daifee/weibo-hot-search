@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1727191452985,
+  "endTime": 1727192303134,
   "band_list": [
     {
       "raw_hot": 28035334,
@@ -8179,6 +8179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 809915,
+      "num": 809915,
+      "word": "深圳一男子被悬赏340万",
+      "onboard_time": 1727189002,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 809790,
       "num": 809790,
       "word": "赵丽颖 飞天奖",
@@ -9096,14 +9104,6 @@
       "word": "男子刷手机掉海里漂了3小时",
       "onboard_time": 1727177058,
       "rank": 36,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 741808,
-      "num": 741808,
-      "word": "深圳一男子被悬赏340万",
-      "onboard_time": 1727189002,
-      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -11739,6 +11739,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 606562,
+      "num": 606562,
+      "word": "石家庄一涉摄像头事件民宿歇业关闭",
+      "onboard_time": 1727187080,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 606444,
       "num": 606444,
       "word": "邓恩熙不会吻 丁禹兮不敢吻",
@@ -11768,14 +11776,6 @@
       "word": "女子买6万黄金不挑款店员果断报警",
       "onboard_time": 1726370479,
       "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 605479,
-      "num": 605479,
-      "word": "石家庄一涉摄像头事件民宿歇业关闭",
-      "onboard_time": 1727187080,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -11889,6 +11889,14 @@
       "onboard_time": 1726647319,
       "rank": 42,
       "category": "数码"
+    },
+    {
+      "raw_hot": 600088,
+      "num": 419806,
+      "word": "幼童被狗撕咬拖行狗主人找到了",
+      "onboard_time": 1727188101,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 599766,
@@ -14259,14 +14267,6 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 506656,
-      "num": 419806,
-      "word": "幼童被狗撕咬拖行狗主人找到了",
-      "onboard_time": 1727188101,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 506312,
       "num": 378956,
       "word": "樊振东是换打法了吗",
@@ -16387,6 +16387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 443137,
+      "num": 443137,
+      "word": "小英家的牛",
+      "onboard_time": 1727191280,
+      "rank": 39,
+      "category": "网红"
+    },
+    {
       "raw_hot": 442721,
       "num": 442721,
       "word": "青岛警方通报辅警违法被停职",
@@ -16563,6 +16571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 436000,
+      "num": 436000,
+      "word": "好怕唐嫣突然说一句China",
+      "onboard_time": 1727191161,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 435566,
       "num": 435566,
       "word": "孙颖莎一句yeah震惊许昕",
@@ -16689,6 +16705,14 @@
       "onboard_time": 1725608119,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 431009,
+      "num": 384006,
+      "word": "邓为南柱赫同框看秀",
+      "onboard_time": 1727188761,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 430808,
@@ -16897,6 +16921,14 @@
       "onboard_time": 1726143139,
       "rank": 16,
       "category": "电影"
+    },
+    {
+      "raw_hot": 425497,
+      "num": 425497,
+      "word": "秦皇岛巨响",
+      "onboard_time": 1727190440,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 425005,
@@ -20219,14 +20251,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 340318,
-      "num": 340318,
-      "word": "秦皇岛巨响",
-      "onboard_time": 1727190440,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 340271,
       "num": 340271,
       "word": "国庆连休7天",
@@ -21793,14 +21817,6 @@
       "onboard_time": 1725849258,
       "rank": 22,
       "category": "体育"
-    },
-    {
-      "raw_hot": 309890,
-      "num": 365601,
-      "word": "邓为南柱赫同框看秀",
-      "onboard_time": 1727188761,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 309414,
@@ -27180,7 +27196,7 @@
     },
     {
       "raw_hot": 242909,
-      "num": 237244,
+      "num": 240325,
       "word": "石家庄民宿摄像头",
       "onboard_time": 1727188701,
       "rank": 38,
@@ -29051,6 +29067,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 228504,
+      "num": 420257,
+      "word": "警方通报博主打击隐藏摄像头遭围堵",
+      "onboard_time": 1727190140,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 228496,
       "num": 228496,
       "word": "直观感受到了衣服是需要熨烫的",
@@ -29441,6 +29465,14 @@
       "onboard_time": 1726807942,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 225067,
+      "num": 225067,
+      "word": "全红婵被陈若琳问体重回答没有秤",
+      "onboard_time": 1727190621,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 225062,
@@ -35163,14 +35195,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 196117,
-      "num": 420257,
-      "word": "警方通报博主打击隐藏摄像头遭围堵",
-      "onboard_time": 1727190140,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 196081,
       "num": 265557,
       "word": "宋茜出道十五周年写真",
@@ -38593,14 +38617,6 @@
       "onboard_time": 1727077339,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 184666,
-      "num": 184666,
-      "word": "全红婵被陈若琳问体重回答没有秤",
-      "onboard_time": 1727190621,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 184631,
@@ -44139,14 +44155,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 163352,
-      "num": 163352,
-      "word": "好怕唐嫣突然说一句China",
-      "onboard_time": 1727191161,
-      "rank": 31,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 163351,
       "num": 163351,
       "word": "iPhone16有哪些看点",
@@ -45084,7 +45092,7 @@
     },
     {
       "raw_hot": 160084,
-      "num": 160084,
+      "num": 225196,
       "word": "强冷空气已预定国庆档期",
       "onboard_time": 1727184559,
       "rank": 42,
@@ -45627,6 +45635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 158172,
+      "num": 158172,
+      "word": "王者荣耀新赛季",
+      "onboard_time": 1727187561,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 158168,
       "num": 158168,
       "word": "星穹铁道飞霄PV",
@@ -46059,14 +46075,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 156721,
-      "num": 156721,
-      "word": "王者荣耀新赛季",
-      "onboard_time": 1727187561,
-      "rank": 48,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 156717,
       "num": 156717,
       "word": "国足打沙特大概率还是付费直播",
@@ -46233,6 +46241,14 @@
       "onboard_time": 1726500199,
       "rank": 48,
       "category": "体育,网红"
+    },
+    {
+      "raw_hot": 155998,
+      "num": 155998,
+      "word": "孙颖莎说非常期待在北京比赛",
+      "onboard_time": 1727190081,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 155976,
@@ -47073,6 +47089,14 @@
       "onboard_time": 1725194962,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 153612,
+      "num": 153612,
+      "word": "全红婵陈芋汐拜访老师",
+      "onboard_time": 1727190502,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 153604,
@@ -49411,14 +49435,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 145048,
-      "num": 145048,
-      "word": "小英家的牛",
-      "onboard_time": 1727191280,
-      "rank": 39,
-      "category": "网红"
-    },
-    {
       "raw_hot": 145047,
       "num": 145047,
       "word": "张鲁一对自己真下狠手",
@@ -51179,14 +51195,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 138535,
-      "num": 138535,
-      "word": "孙颖莎说非常期待在北京比赛",
-      "onboard_time": 1727190081,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 138481,
       "num": 138481,
       "word": "田曦薇无袖工装风",
@@ -51905,14 +51913,6 @@
       "onboard_time": 1725508881,
       "rank": 46,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 135649,
-      "num": 135649,
-      "word": "全红婵陈芋汐拜访老师",
-      "onboard_time": 1727190502,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 135576,
@@ -57451,6 +57451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 109680,
+      "num": 157477,
+      "word": "王一博美男鱼",
+      "onboard_time": 1727190201,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 109669,
       "num": 199432,
       "word": "宋茜公路随拍",
@@ -58331,6 +58339,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 103039,
+      "num": 103039,
+      "word": "我们一般都喝wps",
+      "onboard_time": 1727191041,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 103028,
       "num": 524122,
       "word": "徐州一男子疑积水中触电身亡",
@@ -59009,6 +59025,14 @@
       "onboard_time": 1726769593,
       "rank": 9,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 97855,
+      "num": 97855,
+      "word": "云南地里是有放射性物质么",
+      "onboard_time": 1727191880,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 97816,
@@ -62609,14 +62633,6 @@
       "onboard_time": 1725362721,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 65174,
-      "num": 157477,
-      "word": "王一博美男鱼",
-      "onboard_time": 1727190201,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 65122,
@@ -70003,6 +70019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 28495,
+      "num": 313220,
+      "word": "厕所发现摄像头高校应立即报警",
+      "onboard_time": 1727191761,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 28465,
       "num": 32548,
       "word": "尤长靖生日vlog",
@@ -70649,6 +70673,14 @@
       "onboard_time": 1725629240,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 26109,
+      "num": 243779,
+      "word": "田曦薇周雨彤新剧battle茶艺",
+      "onboard_time": 1727191339,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 26107,
@@ -73457,14 +73489,6 @@
       "onboard_time": 1726260911,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 5081,
-      "num": 243779,
-      "word": "田曦薇周雨彤新剧battle茶艺",
-      "onboard_time": 1727191339,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 4646,
