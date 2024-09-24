@@ -1,6 +1,6 @@
 {
   "startTime": 1727195285620,
-  "endTime": 1727213822770,
+  "endTime": 1727216462667,
   "band_list": [
     {
       "raw_hot": 812186,
@@ -83,6 +83,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 284630,
+      "num": 385818,
+      "word": "石家庄警方通报民宿摄像头事件",
+      "onboard_time": 1727197514,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 281534,
       "num": 230844,
       "word": "石家庄一涉摄像头事件民宿歇业关闭",
@@ -91,11 +99,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 277857,
-      "num": 277857,
-      "word": "石家庄警方通报民宿摄像头事件",
-      "onboard_time": 1727197514,
-      "rank": 19,
+      "raw_hot": 265930,
+      "num": 265930,
+      "word": "老人长时间坐星巴克门口员工报警劝离",
+      "onboard_time": 1727199072,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -147,20 +155,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 185010,
-      "num": 185010,
-      "word": "老人长时间坐星巴克门口员工报警劝离",
-      "onboard_time": 1727199072,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 181263,
       "num": 181263,
       "word": "炉石传说",
       "onboard_time": 1727197514,
       "rank": 10,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 180535,
+      "num": 180535,
+      "word": "学校禁止学生带牛奶挨个查包",
+      "onboard_time": 1727207290,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 180110,
@@ -185,6 +193,14 @@
       "onboard_time": 1727187021,
       "rank": 17,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 161725,
+      "num": 161725,
+      "word": "南京街头现大量百元钞票",
+      "onboard_time": 1727200273,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 161545,
@@ -291,14 +307,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 97103,
-      "num": 97103,
-      "word": "南京街头现大量百元钞票",
-      "onboard_time": 1727200273,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 90290,
       "num": 90290,
       "word": "女子12楼外墙施工遭老太割安全绳",
@@ -337,14 +345,6 @@
       "onboard_time": 1727181140,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 82099,
-      "num": 82099,
-      "word": "学校禁止学生带牛奶挨个查包",
-      "onboard_time": 1727207290,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 79329,
@@ -451,6 +451,38 @@
       "category": "体育"
     },
     {
+      "raw_hot": 52275,
+      "num": 52275,
+      "word": "大张伟辟谣是北京人就打过大张伟",
+      "onboard_time": 1727204771,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 51705,
+      "num": 46458,
+      "word": "专家提醒不必着急去银行",
+      "onboard_time": 1727208852,
+      "rank": 45,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 50577,
+      "num": 50577,
+      "word": "以军空袭已致黎巴嫩50名儿童死亡",
+      "onboard_time": 1727181499,
+      "rank": 43,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 47587,
+      "num": 47587,
+      "word": "只有她转身看到了台下的薛之谦",
+      "onboard_time": 1727202793,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
       "raw_hot": 45630,
       "num": 45630,
       "word": "平遥国际电影展",
@@ -467,14 +499,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 43291,
-      "num": 43291,
-      "word": "以军空袭已致黎巴嫩50名儿童死亡",
-      "onboard_time": 1727181499,
-      "rank": 43,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 42820,
       "num": 42820,
       "word": "78岁卖菜大爷被骗200元",
@@ -489,14 +513,6 @@
       "onboard_time": 1727203572,
       "rank": 14,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 40037,
-      "num": 40037,
-      "word": "只有她转身看到了台下的薛之谦",
-      "onboard_time": 1727202793,
-      "rank": 46,
-      "category": "演出"
     },
     {
       "raw_hot": 37924,
@@ -539,15 +555,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 29941,
-      "num": 29941,
-      "word": "专家提醒不必着急去银行",
-      "onboard_time": 1727208852,
-      "rank": 45,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 26948,
+      "raw_hot": 33598,
       "num": 38662,
       "word": "博主大娃回应被东北雨姐殴打",
       "onboard_time": 1727204112,
@@ -555,7 +563,31 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 25922,
+      "raw_hot": 32156,
+      "num": 32156,
+      "word": "芦淞大桥事故现场堆满鲜花玩偶",
+      "onboard_time": 1727210831,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 32101,
+      "num": 36744,
+      "word": "周芳谈王一博四年前后反差",
+      "onboard_time": 1727213351,
+      "rank": 49,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 29069,
+      "num": 29069,
+      "word": "第一次见按表走的睡姿",
+      "onboard_time": 1727209510,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 27933,
       "num": 46177,
       "word": "寻甸电商园区书记回应小英翻车",
       "onboard_time": 1727210170,
@@ -571,14 +603,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 24359,
-      "num": 24359,
-      "word": "大张伟辟谣是北京人就打过大张伟",
-      "onboard_time": 1727204771,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 20673,
       "num": 22692,
       "word": "美国PVH涉嫌歧视涉疆产品被调查",
@@ -587,28 +611,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 19963,
-      "num": 19963,
-      "word": "第一次见按表走的睡姿",
-      "onboard_time": 1727209510,
-      "rank": 44,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 19569,
-      "num": 19569,
-      "word": "芦淞大桥事故现场堆满鲜花玩偶",
-      "onboard_time": 1727210831,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 16780,
-      "num": 18510,
-      "word": "周芳谈王一博四年前后反差",
-      "onboard_time": 1727213351,
+      "raw_hot": 19967,
+      "num": 26622,
+      "word": "赵露思米兰之旅新物料",
+      "onboard_time": 1727214792,
       "rank": 49,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 16135,
+      "num": 97855,
+      "word": "曝光摄像头遭围堵博主放弃追责冲突方",
+      "onboard_time": 1727215453,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 14727,
@@ -627,7 +643,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1823,
+      "raw_hot": 2252,
       "num": 311336,
       "word": "老铁山单日记录迁徙猛禽过万只",
       "onboard_time": 1727148199,
@@ -638,6 +654,9 @@
   "hotgov_list": [
     {
       "word": "#中国圆了飞天揽月梦也圆了自主创新梦#"
+    },
+    {
+      "word": "#我国航天事业实现历史性高质量跨越式发展#"
     }
   ]
 }
