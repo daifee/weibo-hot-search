@@ -1,0 +1,410 @@
+{
+  "runTime": 1727212822027,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 105632,
+        "num": 125251,
+        "word": "石家庄警方通报民宿摄像头事件",
+        "onboard_time": 1727197514,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94291,
+        "num": 94291,
+        "word": "老人长时间坐星巴克门口员工报警劝离",
+        "onboard_time": 1727199072,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1665,
+        "num": 72942,
+        "word": "老铁山单日记录迁徙猛禽过万只",
+        "onboard_time": 1727148199,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 69340,
+        "num": 69340,
+        "word": "南京街头现大量百元钞票",
+        "onboard_time": 1727200273,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 66231,
+        "num": 66231,
+        "word": "网红小英不能开着路虎卖惨",
+        "onboard_time": 1727175258,
+        "rank": 4,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 50222,
+        "num": 50222,
+        "word": "学校禁止学生带牛奶挨个查包",
+        "onboard_time": 1727207290,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 48479,
+        "num": 48479,
+        "word": "深圳一男子被悬赏340万",
+        "onboard_time": 1727189002,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46706,
+        "num": 46706,
+        "word": "炉石传说",
+        "onboard_time": 1727197514,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 41595,
+        "num": 46253,
+        "word": "好怕唐嫣突然说一句China",
+        "onboard_time": 1727191161,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 11490,
+        "num": 46177,
+        "word": "寻甸电商园区书记回应小英翻车",
+        "onboard_time": 1727210170,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46163,
+        "num": 46163,
+        "word": "7岁女孩不到1秒破世界纪录",
+        "onboard_time": 1727176939,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 45756,
+        "num": 45756,
+        "word": "爸爸过世后我不再恐惧死亡",
+        "onboard_time": 1727193139,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 43034,
+        "num": 43034,
+        "word": "东北雨姐直播间酸菜疑货不对板",
+        "onboard_time": 1727194338,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 42820,
+        "num": 42820,
+        "word": "78岁卖菜大爷被骗200元",
+        "onboard_time": 1727209150,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 40923,
+        "num": 40923,
+        "word": "幼童被狗撕咬拖行狗主人找到了",
+        "onboard_time": 1727188101,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37581,
+        "num": 37581,
+        "word": "民宿业主与安装摄像头3人不相识",
+        "onboard_time": 1727192959,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26940,
+        "num": 37374,
+        "word": "只有她转身看到了台下的薛之谦",
+        "onboard_time": 1727202793,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 26389,
+        "num": 34576,
+        "word": "迪丽热巴无袖束腰裙",
+        "onboard_time": 1727185340,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 23943,
+        "num": 34343,
+        "word": "迪奥大秀",
+        "onboard_time": 1727187021,
+        "rank": 18,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 23144,
+        "num": 32511,
+        "word": "邓为G社生图",
+        "onboard_time": 1727193259,
+        "rank": 19,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 31418,
+        "num": 31418,
+        "word": "大爷凌晨卖菜只赚27元被骗200元",
+        "onboard_time": 1727181319,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31182,
+        "num": 31182,
+        "word": "以军空袭已致黎巴嫩50名儿童死亡",
+        "onboard_time": 1727181499,
+        "rank": 21,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 29370,
+        "num": 29370,
+        "word": "男子刷手机掉海里漂了3小时",
+        "onboard_time": 1727177058,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26144,
+        "num": 26144,
+        "word": "专家提醒不必着急去银行",
+        "onboard_time": 1727208852,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 25770,
+        "num": 25770,
+        "word": "博主大娃回应被东北雨姐殴打",
+        "onboard_time": 1727204112,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25673,
+        "num": 25673,
+        "word": "A股全面爆发",
+        "onboard_time": 1727193259,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 24060,
+        "num": 24060,
+        "word": "王者荣耀新赛季",
+        "onboard_time": 1727187561,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 23514,
+        "num": 23514,
+        "word": "记者直播遇空袭身后窗户炸裂",
+        "onboard_time": 1727203572,
+        "rank": 27,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 22320,
+        "num": 22320,
+        "word": "大张伟辟谣是北京人就打过大张伟",
+        "onboard_time": 1727204771,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 22213,
+        "num": 22213,
+        "word": "肖战往事随风舞台播放量破亿",
+        "onboard_time": 1727190140,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 22995,
+        "num": 22177,
+        "word": "王一博美男鱼",
+        "onboard_time": 1727190201,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22118,
+        "num": 22118,
+        "word": "180斤男生3月怒减40斤桃花都多了",
+        "onboard_time": 1727179940,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21966,
+        "num": 21966,
+        "word": "全红婵被陈若琳问体重回答没有秤",
+        "onboard_time": 1727190621,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 20437,
+        "num": 20437,
+        "word": "成都不入秋了直接入冬",
+        "onboard_time": 1727185400,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20137,
+        "num": 20137,
+        "word": "博主回应曝光民宿偷拍摄像头遭围堵",
+        "onboard_time": 1727199552,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20029,
+        "num": 20029,
+        "word": "男子4分钟买俩金镯店员报警",
+        "onboard_time": 1727171358,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19492,
+        "num": 19492,
+        "word": "黎巴嫩",
+        "onboard_time": 1727188941,
+        "rank": 36,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 19197,
+        "num": 19197,
+        "word": "强冷空气已预定国庆档期",
+        "onboard_time": 1727184559,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18851,
+        "num": 18851,
+        "word": "美国PVH涉嫌歧视涉疆产品被调查",
+        "onboard_time": 1727206391,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 18739,
+        "num": 18739,
+        "word": "芦淞大桥事故现场堆满鲜花玩偶",
+        "onboard_time": 1727210831,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 17769,
+        "num": 17769,
+        "word": "6人偷渡缅甸深陷境外诈骗窝点",
+        "onboard_time": 1727198833,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 17461,
+        "num": 17461,
+        "word": "邓为南柱赫同框看秀",
+        "onboard_time": 1727188761,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17460,
+        "num": 17460,
+        "word": "马龙王楚钦适应场地训练",
+        "onboard_time": 1727182819,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 17408,
+        "num": 17408,
+        "word": "黎巴嫩夺命寻呼机从何而来",
+        "onboard_time": 1727202014,
+        "rank": 43,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 17142,
+        "num": 17408,
+        "word": "第一次见按表走的睡姿",
+        "onboard_time": 1727209510,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 16785,
+        "num": 17408,
+        "word": "博主打击酒店隐藏摄像头遭多人围堵",
+        "onboard_time": 1727147238,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 16751,
+        "num": 17407,
+        "word": "女子12楼外墙施工遭老太割安全绳",
+        "onboard_time": 1727173339,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 16178,
+        "num": 17407,
+        "word": "张之臻回应获亚军",
+        "onboard_time": 1727192300,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 16142,
+        "num": 17407,
+        "word": "黎巴嫩经历最血腥一天",
+        "onboard_time": 1727175798,
+        "rank": 48,
+        "category": "社会新闻,国外时政"
+      },
+      {
+        "raw_hot": 15780,
+        "num": 17407,
+        "word": "第五人格",
+        "onboard_time": 1727190381,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国圆了飞天揽月梦也圆了自主创新梦#"
+    }
+  }
+}

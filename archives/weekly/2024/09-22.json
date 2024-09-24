@@ -1,6 +1,6 @@
 {
   "startTime": 1726936020707,
-  "endTime": 1727210279839,
+  "endTime": 1727212822027,
   "band_list": [
     {
       "raw_hot": 6817146,
@@ -8971,6 +8971,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 50222,
+      "num": 50222,
+      "word": "学校禁止学生带牛奶挨个查包",
+      "onboard_time": 1727207290,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 50114,
       "num": 532854,
       "word": "市监局调查东北雨姐红薯粉条事件",
@@ -9152,6 +9160,14 @@
       "word": "天山南北唱新歌",
       "onboard_time": 1726998799,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 42820,
+      "num": 42820,
+      "word": "78岁卖菜大爷被骗200元",
+      "onboard_time": 1727209150,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -9659,14 +9675,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 28405,
-      "num": 28405,
-      "word": "学校禁止学生带牛奶挨个查包",
-      "onboard_time": 1727207290,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 28301,
       "num": 225163,
       "word": "记者探访黎巴嫩首都遭以色列空袭现场",
@@ -9809,6 +9817,14 @@
       "onboard_time": 1727204112,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 26144,
+      "num": 26144,
+      "word": "专家提醒不必着急去银行",
+      "onboard_time": 1727208852,
+      "rank": 45,
+      "category": "财经"
     },
     {
       "raw_hot": 26109,
@@ -9979,12 +9995,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 19084,
-      "num": 19939,
-      "word": "专家提醒不必着急去银行",
-      "onboard_time": 1727208852,
-      "rank": 45,
-      "category": "财经"
+      "raw_hot": 18739,
+      "num": 18739,
+      "word": "芦淞大桥事故现场堆满鲜花玩偶",
+      "onboard_time": 1727210831,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 18631,
@@ -10041,6 +10057,14 @@
       "onboard_time": 1727119752,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 17142,
+      "num": 17408,
+      "word": "第一次见按表走的睡姿",
+      "onboard_time": 1727209510,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 16686,
@@ -10105,14 +10129,6 @@
       "onboard_time": 1727164819,
       "rank": 39,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 15254,
-      "num": 41999,
-      "word": "78岁卖菜大爷被骗200元",
-      "onboard_time": 1727209150,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 15239,
@@ -10200,6 +10216,14 @@
       "word": "浙江厨神外婆每天给外孙做花式早点",
       "onboard_time": 1726956913,
       "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 11490,
+      "num": 46177,
+      "word": "寻甸电商园区书记回应小英翻车",
+      "onboard_time": 1727210170,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
