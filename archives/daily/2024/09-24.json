@@ -1,6 +1,6 @@
 {
   "startTime": 1727108827688,
-  "endTime": 1727184606336,
+  "endTime": 1727185289453,
   "band_list": [
     {
       "raw_hot": 2264608,
@@ -147,6 +147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1264878,
+      "num": 686482,
+      "word": "致6死7伤交通事故中母子3人遇难",
+      "onboard_time": 1727181739,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1208193,
       "num": 1024145,
       "word": "被王毅外长认出来是什么感受",
@@ -163,6 +171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1054414,
+      "num": 679313,
+      "word": "石家庄有民宿称已在自查摄像头",
+      "onboard_time": 1727180838,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1037589,
       "num": 1037589,
       "word": "便装乘网约车亮证执法女子调离岗位",
@@ -176,14 +192,6 @@
       "word": "夫妻打造高端人设骗了7人600多万元",
       "onboard_time": 1727166678,
       "rank": 26,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 983295,
-      "num": 679313,
-      "word": "石家庄有民宿称已在自查摄像头",
-      "onboard_time": 1727180838,
-      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -363,14 +371,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 686482,
-      "num": 686482,
-      "word": "致6死7伤交通事故中母子3人遇难",
-      "onboard_time": 1727181739,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 681895,
       "num": 681895,
       "word": "李梦带了10套旗袍去平遥",
@@ -468,7 +468,7 @@
     },
     {
       "raw_hot": 596347,
-      "num": 340669,
+      "num": 448503,
       "word": "网红小英不能开着路虎卖惨",
       "onboard_time": 1727175258,
       "rank": 20,
@@ -891,6 +891,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 318577,
+      "num": 213344,
+      "word": "大爷凌晨卖菜只赚27元被骗200元",
+      "onboard_time": 1727181319,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 316320,
       "num": 316320,
       "word": "以军对黎巴嫩南部居民发出撤离警告",
@@ -953,14 +961,6 @@
       "onboard_time": 1727150301,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 299396,
-      "num": 213344,
-      "word": "大爷凌晨卖菜只赚27元被骗200元",
-      "onboard_time": 1727181319,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 292449,
@@ -1291,6 +1291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 223991,
+      "num": 223991,
+      "word": "孙佳俊打破亚洲纪录",
+      "onboard_time": 1727184739,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 222927,
       "num": 222927,
       "word": "央行降低存量房贷利率",
@@ -1427,6 +1435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 204973,
+      "num": 204973,
+      "word": "邓为刺绣黑西装",
+      "onboard_time": 1727184020,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 204743,
       "num": 204743,
       "word": "刘跃进被逮捕",
@@ -1457,14 +1473,6 @@
       "onboard_time": 1727166019,
       "rank": 30,
       "category": "数码"
-    },
-    {
-      "raw_hot": 202748,
-      "num": 202748,
-      "word": "邓为刺绣黑西装",
-      "onboard_time": 1727184020,
-      "rank": 16,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 202377,
@@ -1539,12 +1547,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 200041,
+      "num": 179070,
+      "word": "朋友圈可以发live实况图是好是坏",
+      "onboard_time": 1727183059,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 199822,
       "num": 199822,
       "word": "可能和我的家教有关吧",
       "onboard_time": 1727151802,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 199793,
+      "num": 181472,
+      "word": "邓为工作室",
+      "onboard_time": 1727185161,
+      "rank": 19,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 199627,
@@ -1657,6 +1681,14 @@
       "onboard_time": 1727142619,
       "rank": 19,
       "category": "电影"
+    },
+    {
+      "raw_hot": 195644,
+      "num": 251839,
+      "word": "以军空袭已致黎巴嫩50名儿童死亡",
+      "onboard_time": 1727181499,
+      "rank": 36,
+      "category": "国外时政"
     },
     {
       "raw_hot": 195540,
@@ -1795,6 +1827,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 181770,
+      "num": 175515,
+      "word": "周到拍的马龙王楚钦",
+      "onboard_time": 1727184680,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 180866,
       "num": 180866,
       "word": "孙颖莎新周期新公式照",
@@ -1817,6 +1857,14 @@
       "onboard_time": 1727146279,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 178579,
+      "num": 178579,
+      "word": "芒果拍节目还是太抽象了",
+      "onboard_time": 1727182639,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 178319,
@@ -1865,6 +1913,14 @@
       "onboard_time": 1727164640,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 175487,
+      "num": 344878,
+      "word": "周也Choker烟熏妆",
+      "onboard_time": 1727175859,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 173854,
@@ -1923,14 +1979,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 167652,
-      "num": 344878,
-      "word": "周也Choker烟熏妆",
-      "onboard_time": 1727175859,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 166659,
       "num": 166659,
       "word": "林奇被传遇难时带着绝密信息",
@@ -1987,14 +2035,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 162860,
-      "num": 162860,
-      "word": "以军空袭已致黎巴嫩50名儿童死亡",
-      "onboard_time": 1727181499,
-      "rank": 36,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 162854,
       "num": 162854,
       "word": "暴走邻家",
@@ -2011,6 +2051,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 159513,
+      "num": 159513,
+      "word": "中国将在月球上建无线网",
+      "onboard_time": 1727179520,
+      "rank": 41,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 158989,
       "num": 158989,
       "word": "铁路12306上新同车接续功能",
@@ -2019,12 +2067,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 158668,
-      "num": 158668,
-      "word": "芒果拍节目还是太抽象了",
-      "onboard_time": 1727182639,
-      "rank": 47,
-      "category": "综艺"
+      "raw_hot": 158142,
+      "num": 209265,
+      "word": "老太被当赌徒误抓殴打纪委展开调查",
+      "onboard_time": 1727182939,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 158018,
@@ -2043,8 +2091,8 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 154708,
-      "num": 154708,
+      "raw_hot": 156140,
+      "num": 156140,
       "word": "男子4分钟买俩金镯店员报警",
       "onboard_time": 1727171358,
       "rank": 34,
@@ -2065,14 +2113,6 @@
       "onboard_time": 1727172318,
       "rank": 44,
       "category": "情感"
-    },
-    {
-      "raw_hot": 153631,
-      "num": 209265,
-      "word": "老太被当赌徒误抓殴打纪委展开调查",
-      "onboard_time": 1727182939,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 152348,
@@ -2097,6 +2137,14 @@
       "onboard_time": 1727167159,
       "rank": 43,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 150008,
+      "num": 150008,
+      "word": "商竣程创造历史",
+      "onboard_time": 1727184559,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 149822,
@@ -2131,14 +2179,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 146835,
-      "num": 146835,
-      "word": "朋友圈可以发live实况图是好是坏",
-      "onboard_time": 1727183059,
-      "rank": 37,
-      "category": "情感"
-    },
-    {
       "raw_hot": 146178,
       "num": 146178,
       "word": "雨姐带货红薯粉条销售额近100万",
@@ -2169,6 +2209,14 @@
       "onboard_time": 1727146519,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 143635,
+      "num": 143635,
+      "word": "像炒股一样追星",
+      "onboard_time": 1727183178,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 141984,
@@ -2251,6 +2299,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 137695,
+      "num": 137695,
+      "word": "马龙王楚钦适应场地训练",
+      "onboard_time": 1727182819,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 136998,
       "num": 136998,
       "word": "对面如死灰有了清晰的认知",
@@ -2265,14 +2321,6 @@
       "onboard_time": 1727164819,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 136595,
-      "num": 136595,
-      "word": "像炒股一样追星",
-      "onboard_time": 1727183178,
-      "rank": 41,
-      "category": "幽默"
     },
     {
       "raw_hot": 136441,
@@ -2323,14 +2371,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 132432,
-      "num": 132432,
-      "word": "中国将在月球上建无线网",
-      "onboard_time": 1727179520,
-      "rank": 41,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 131503,
       "num": 175944,
       "word": "卖菜母子遇难有人买点生姜付一百元",
@@ -2377,14 +2417,6 @@
       "onboard_time": 1727145318,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 126012,
-      "num": 126012,
-      "word": "马龙王楚钦适应场地训练",
-      "onboard_time": 1727182819,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 124407,
@@ -2457,14 +2489,6 @@
       "onboard_time": 1727118732,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 117906,
-      "num": 117906,
-      "word": "商竣程创造历史",
-      "onboard_time": 1727184559,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 116765,
@@ -2619,6 +2643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 95959,
+      "num": 95959,
+      "word": "LEVEL5游戏发布会",
+      "onboard_time": 1727183178,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 93663,
       "num": 93663,
       "word": "邓为巴黎街拍",
@@ -2640,6 +2672,14 @@
       "word": "玫瑰的故事TVB开播",
       "onboard_time": 1727107398,
       "rank": 38,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 92246,
+      "num": 95957,
+      "word": "流水迢迢单更",
+      "onboard_time": 1727185161,
+      "rank": 49,
       "category": "剧集"
     },
     {
@@ -3083,19 +3123,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 34872,
+      "num": 686491,
+      "word": "天山南北唱新歌",
+      "onboard_time": 1727178379,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 34032,
       "num": 354786,
       "word": "广州多个写字楼存在宽带垄断",
       "onboard_time": 1727158342,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 32866,
-      "num": 686491,
-      "word": "天山南北唱新歌",
-      "onboard_time": 1727178379,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -3297,6 +3337,14 @@
       "onboard_time": 1727127191,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 12216,
+      "num": 175527,
+      "word": "唐嫣巴黎时装周气场全开",
+      "onboard_time": 1727184801,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 12093,
