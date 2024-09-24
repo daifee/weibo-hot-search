@@ -1,6 +1,6 @@
 {
   "startTime": 1727195285620,
-  "endTime": 1727205460252,
+  "endTime": 1727206611279,
   "band_list": [
     {
       "raw_hot": 812186,
@@ -467,6 +467,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 40037,
+      "num": 40037,
+      "word": "只有她转身看到了台下的薛之谦",
+      "onboard_time": 1727202793,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
       "raw_hot": 37924,
       "num": 43283,
       "word": "修容腮红技巧",
@@ -491,14 +499,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 35409,
-      "num": 36046,
-      "word": "只有她转身看到了台下的薛之谦",
-      "onboard_time": 1727202793,
-      "rank": 46,
-      "category": "演出"
-    },
-    {
       "raw_hot": 33911,
       "num": 38624,
       "word": "周深演唱会好浪漫",
@@ -515,6 +515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 33145,
+      "num": 41824,
+      "word": "记者直播遇空袭身后窗户炸裂",
+      "onboard_time": 1727203572,
+      "rank": 14,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 25277,
       "num": 28153,
       "word": "黎巴嫩夺命寻呼机从何而来",
@@ -523,28 +531,28 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 24351,
-      "num": 41824,
-      "word": "记者直播遇空袭身后窗户炸裂",
-      "onboard_time": 1727203572,
-      "rank": 14,
-      "category": "国外时政"
-    },
-    {
-      "raw_hot": 20701,
-      "num": 21585,
+      "raw_hot": 24359,
+      "num": 24359,
       "word": "大张伟辟谣是北京人就打过大张伟",
       "onboard_time": 1727204771,
       "rank": 41,
       "category": "综艺"
     },
     {
-      "raw_hot": 20105,
-      "num": 21563,
+      "raw_hot": 20175,
+      "num": 22704,
       "word": "博主大娃回应被东北雨姐殴打",
       "onboard_time": 1727204112,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 16473,
+      "num": 22692,
+      "word": "美国PVH涉嫌歧视涉疆产品被调查",
+      "onboard_time": 1727206391,
+      "rank": 48,
+      "category": "国内时政"
     },
     {
       "raw_hot": 14727,
