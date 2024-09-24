@@ -1,6 +1,6 @@
 {
   "startTime": 1727108827688,
-  "endTime": 1727163321333,
+  "endTime": 1727166550076,
   "band_list": [
     {
       "raw_hot": 2264608,
@@ -91,6 +91,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1208193,
+      "num": 460613,
+      "word": "被王毅外长认出来是什么感受",
+      "onboard_time": 1727163498,
+      "rank": 11,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1087275,
       "num": 1087275,
       "word": "官方通报工作人员便装亮证查网约车",
@@ -104,6 +112,14 @@
       "word": "便装乘网约车亮证执法女子调离岗位",
       "onboard_time": 1727140279,
       "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 913319,
+      "num": 913319,
+      "word": "博主曝光民宿偷拍摄像头警方已立案",
+      "onboard_time": 1727160799,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -179,6 +195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 803347,
+      "num": 803347,
+      "word": "肯德基刚来中国时还不叫肯德基",
+      "onboard_time": 1727163919,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 767927,
       "num": 787210,
       "word": "王玉雯 谈恋爱不如结拜",
@@ -193,6 +217,14 @@
       "onboard_time": 1727143160,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 730620,
+      "num": 730620,
+      "word": "甜馨参加小姨婚礼",
+      "onboard_time": 1727161941,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 725148,
@@ -235,7 +267,7 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 632056,
+      "raw_hot": 641456,
       "num": 584336,
       "word": "博主打击酒店隐藏摄像头遭多人围堵",
       "onboard_time": 1727147238,
@@ -315,14 +347,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 559552,
-      "num": 496072,
-      "word": "甜馨参加小姨婚礼",
-      "onboard_time": 1727161941,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 549509,
       "num": 573460,
       "word": "九省通衢的气质具象化了",
@@ -339,6 +363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 518514,
+      "num": 518514,
+      "word": "邓为 迪奥",
+      "onboard_time": 1727164759,
+      "rank": 6,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 510138,
       "num": 510138,
       "word": "二套房贷最低首付比例下调至15%",
@@ -353,6 +385,14 @@
       "onboard_time": 1727136199,
       "rank": 7,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 499364,
+      "num": 499364,
+      "word": "等一个Mate70",
+      "onboard_time": 1727162840,
+      "rank": 30,
+      "category": "数码"
     },
     {
       "raw_hot": 494816,
@@ -827,14 +867,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 263185,
-      "num": 218500,
-      "word": "等一个Mate70",
-      "onboard_time": 1727162840,
-      "rank": 30,
-      "category": "数码"
-    },
-    {
       "raw_hot": 262780,
       "num": 262780,
       "word": "王一博 漫步者",
@@ -857,6 +889,14 @@
       "onboard_time": 1727153601,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 258955,
+      "num": 346169,
+      "word": "田曦薇给自己演yue了",
+      "onboard_time": 1727164519,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 258774,
@@ -897,6 +937,14 @@
       "onboard_time": 1727152282,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 236292,
+      "num": 502762,
+      "word": "公司禁止员工互相随礼合理吗",
+      "onboard_time": 1727162899,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 233127,
@@ -1067,6 +1115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 204743,
+      "num": 204743,
+      "word": "刘跃进被逮捕",
+      "onboard_time": 1727163378,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 203791,
       "num": 203791,
       "word": "国庆部分航班票价降幅达40%",
@@ -1083,12 +1139,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 202810,
+      "num": 202810,
+      "word": "纯血鸿蒙将启动公测",
+      "onboard_time": 1727166019,
+      "rank": 30,
+      "category": "数码"
+    },
+    {
       "raw_hot": 202108,
       "num": 202108,
       "word": "国庆档电影统一预售",
       "onboard_time": 1727150781,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 201442,
+      "num": 201442,
+      "word": "asoul工作室隐身的刘志",
+      "onboard_time": 1727165839,
+      "rank": 31,
+      "category": "动漫"
     },
     {
       "raw_hot": 201216,
@@ -1105,6 +1177,14 @@
       "onboard_time": 1727160017,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 201147,
+      "num": 203127,
+      "word": "王玉雯 人怎么可以捅这么大的娄子",
+      "onboard_time": 1727164220,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 200550,
@@ -1145,6 +1225,14 @@
       "onboard_time": 1727144118,
       "rank": 40,
       "category": "财经"
+    },
+    {
+      "raw_hot": 198116,
+      "num": 198116,
+      "word": "华为正式发布智界R7",
+      "onboard_time": 1727165300,
+      "rank": 32,
+      "category": "汽车"
     },
     {
       "raw_hot": 198059,
@@ -1339,6 +1427,22 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 176581,
+      "num": 176581,
+      "word": "演员为角色喊哑了嗓子后半生再没好",
+      "onboard_time": 1727163740,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 174841,
+      "num": 174841,
+      "word": "男子种了10年的铁树开花了",
+      "onboard_time": 1727164640,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 173854,
       "num": 173854,
       "word": "华为Watch GT5 Pro",
@@ -1353,6 +1457,14 @@
       "onboard_time": 1727158878,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 170879,
+      "num": 170879,
+      "word": "金融部门重磅发布会的十点干货",
+      "onboard_time": 1727166019,
+      "rank": 36,
+      "category": "财经"
     },
     {
       "raw_hot": 170019,
@@ -1387,12 +1499,28 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 166632,
+      "num": 166632,
+      "word": "旧电脑寄给爱回收凌晨收到诡异短信",
+      "onboard_time": 1727164701,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 165744,
       "num": 165744,
       "word": "我国成功发射一箭8星",
       "onboard_time": 1727154082,
       "rank": 43,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 165032,
+      "num": 165032,
+      "word": "婆婆曾反对韩安冉荣浩然交往",
+      "onboard_time": 1727164759,
+      "rank": 40,
+      "category": "网红"
     },
     {
       "raw_hot": 164624,
@@ -1449,6 +1577,14 @@
       "onboard_time": 1727159718,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 152995,
+      "num": 465393,
+      "word": "唐嫣台步走出维密天使感",
+      "onboard_time": 1727163078,
+      "rank": 17,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 151807,
@@ -1515,6 +1651,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 136998,
+      "num": 136998,
+      "word": "对面如死灰有了清晰的认知",
+      "onboard_time": 1727166318,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 136649,
+      "num": 136649,
+      "word": "王楚钦白西装",
+      "onboard_time": 1727164819,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 136441,
       "num": 136441,
       "word": "守护甜心 日奈森亚梦",
@@ -1555,6 +1707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 131546,
+      "num": 131546,
+      "word": "炉石传说",
+      "onboard_time": 1727166258,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 130707,
       "num": 130707,
       "word": "2中企高管在菲被撕票嫌犯李娜韩国落网",
@@ -1569,6 +1729,14 @@
       "onboard_time": 1727102180,
       "rank": 18,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 129809,
+      "num": 499730,
+      "word": "中方明确反对侵犯黎巴嫩主权和安全",
+      "onboard_time": 1727165421,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 127867,
@@ -1835,11 +2003,11 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 81309,
-      "num": 502762,
-      "word": "公司禁止员工互相随礼合理吗",
-      "onboard_time": 1727162899,
-      "rank": 9,
+      "raw_hot": 80373,
+      "num": 165708,
+      "word": "农学生毕业论文被偷吃后",
+      "onboard_time": 1727164459,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -2044,7 +2212,7 @@
     },
     {
       "raw_hot": 49334,
-      "num": 221268,
+      "num": 362146,
       "word": "谁懂拼多多偏远地区包邮的含金量",
       "onboard_time": 1727162240,
       "rank": 45,
@@ -2057,6 +2225,14 @@
       "onboard_time": 1727150840,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 45867,
+      "num": 372725,
+      "word": "华为手表首发情绪健康助手",
+      "onboard_time": 1727164941,
+      "rank": 15,
+      "category": "数码"
     },
     {
       "raw_hot": 44084,
@@ -2099,11 +2275,27 @@
       "category": "网红"
     },
     {
+      "raw_hot": 38074,
+      "num": 317896,
+      "word": "男子冒充国企采购骗走280万货物",
+      "onboard_time": 1727165300,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 34032,
       "num": 354786,
       "word": "广州多个写字楼存在宽带垄断",
       "onboard_time": 1727158342,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 33165,
+      "num": 499435,
+      "word": "骗保举报内容疑神同步给被举报单位",
+      "onboard_time": 1727165240,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -2113,14 +2305,6 @@
       "onboard_time": 1727116872,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 30780,
-      "num": 465393,
-      "word": "唐嫣台步走出维密天使感",
-      "onboard_time": 1727163078,
-      "rank": 17,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 30262,
@@ -2152,6 +2336,14 @@
       "word": "乘客晕车应该怪司机吗",
       "onboard_time": 1727103980,
       "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 27691,
+      "num": 1456991,
+      "word": "老铁山单日记录迁徙猛禽过万只",
+      "onboard_time": 1727148199,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -2195,14 +2387,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 21594,
-      "num": 1456991,
-      "word": "老铁山单日记录迁徙猛禽过万只",
-      "onboard_time": 1727148199,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 17858,
       "num": 19037,
       "word": "重庆反家暴立法新实践10月1日起实施",
@@ -2233,6 +2417,14 @@
       "onboard_time": 1727127191,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 12992,
+      "num": 165164,
+      "word": "最醉福州",
+      "onboard_time": 1727164819,
+      "rank": 39,
+      "category": "旅游"
     },
     {
       "raw_hot": 12093,
