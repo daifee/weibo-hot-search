@@ -1,6 +1,6 @@
 {
   "startTime": 1726936020707,
-  "endTime": 1727188799918,
+  "endTime": 1727191452985,
   "band_list": [
     {
       "raw_hot": 6817146,
@@ -1131,6 +1131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 741808,
+      "num": 741808,
+      "word": "深圳一男子被悬赏340万",
+      "onboard_time": 1727189002,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 738316,
       "num": 368729,
       "word": "爱情公寓韩国版",
@@ -1499,6 +1507,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 605479,
+      "num": 605479,
+      "word": "石家庄一涉摄像头事件民宿歇业关闭",
+      "onboard_time": 1727187080,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 603019,
       "num": 603019,
       "word": "张凌赫 何医生",
@@ -1777,6 +1793,14 @@
       "onboard_time": 1727136199,
       "rank": 7,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 506656,
+      "num": 419806,
+      "word": "幼童被狗撕咬拖行狗主人找到了",
+      "onboard_time": 1727188101,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 506312,
@@ -2080,6 +2104,14 @@
       "word": "小伙装空调坠亡母亲捐其眼角膜救3人",
       "onboard_time": 1727054180,
       "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 444846,
+      "num": 444846,
+      "word": "成都不入秋了直接入冬",
+      "onboard_time": 1727185400,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -2643,6 +2675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 340318,
+      "num": 340318,
+      "word": "秦皇岛巨响",
+      "onboard_time": 1727190440,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 339900,
       "num": 339900,
       "word": "东北雨姐评论区关评刷屏",
@@ -2825,6 +2865,14 @@
       "onboard_time": 1727024297,
       "rank": 12,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 309890,
+      "num": 365601,
+      "word": "邓为南柱赫同框看秀",
+      "onboard_time": 1727188761,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 309414,
@@ -3105,6 +3153,14 @@
       "onboard_time": 1727060478,
       "rank": 46,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 275834,
+      "num": 253550,
+      "word": "孟川脱口秀",
+      "onboard_time": 1727186481,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 275716,
@@ -3403,14 +3459,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 253550,
-      "num": 253550,
-      "word": "孟川脱口秀",
-      "onboard_time": 1727186481,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 251835,
       "num": 214406,
       "word": "便宜的眼镜真的会伤眼吗",
@@ -3491,12 +3539,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 243654,
+      "num": 243654,
+      "word": "黎巴嫩",
+      "onboard_time": 1727188941,
+      "rank": 19,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 243508,
       "num": 243508,
       "word": "黄誉博叫徐艺洋老板娘",
       "onboard_time": 1727015065,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 242909,
+      "num": 237244,
+      "word": "石家庄民宿摄像头",
+      "onboard_time": 1727188701,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 242690,
@@ -3737,14 +3801,6 @@
       "onboard_time": 1726999821,
       "rank": 37,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 228421,
-      "num": 228421,
-      "word": "成都不入秋了直接入冬",
-      "onboard_time": 1727185400,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 228421,
@@ -4659,6 +4715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 196117,
+      "num": 420257,
+      "word": "警方通报博主打击隐藏摄像头遭围堵",
+      "onboard_time": 1727190140,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 196080,
       "num": 364117,
       "word": "专家点评最新房贷政策",
@@ -5107,6 +5171,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 186261,
+      "num": 186261,
+      "word": "肖战往事随风舞台播放量破亿",
+      "onboard_time": 1727190140,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 185388,
       "num": 185388,
       "word": "王俊凯连续4年任平遥影展特约策展人",
@@ -5121,6 +5193,14 @@
       "onboard_time": 1727077339,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 184666,
+      "num": 184666,
+      "word": "全红婵被陈若琳问体重回答没有秤",
+      "onboard_time": 1727190621,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 184631,
@@ -5193,6 +5273,14 @@
       "onboard_time": 1727095520,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 183053,
+      "num": 183053,
+      "word": "吴倩戏路越来越宽了",
+      "onboard_time": 1727189720,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 182198,
@@ -5603,14 +5691,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 168963,
-      "num": 168963,
-      "word": "石家庄民宿摄像头",
-      "onboard_time": 1727188701,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 168776,
       "num": 168776,
       "word": "开车后也能改签火车票",
@@ -5835,6 +5915,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 163352,
+      "num": 163352,
+      "word": "好怕唐嫣突然说一句China",
+      "onboard_time": 1727191161,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 163257,
       "num": 163257,
       "word": "凤凰传奇演唱会三城官宣",
@@ -5875,14 +5963,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 162795,
-      "num": 162795,
-      "word": "幼童被狗撕咬拖行狗主人找到了",
-      "onboard_time": 1727188101,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 162726,
       "num": 296633,
       "word": "流水迢迢",
@@ -5915,6 +5995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 160084,
+      "num": 160084,
+      "word": "强冷空气已预定国庆档期",
+      "onboard_time": 1727184559,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 159676,
       "num": 159676,
       "word": "CP30 开不开票",
@@ -5936,14 +6024,6 @@
       "word": "铁路12306上新同车接续功能",
       "onboard_time": 1727171779,
       "rank": 38,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 158639,
-      "num": 158639,
-      "word": "强冷空气已预定国庆档期",
-      "onboard_time": 1727184559,
-      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -6000,6 +6080,14 @@
       "word": "黑神话悟空总收入近10亿美元",
       "onboard_time": 1727096720,
       "rank": 46,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 156721,
+      "num": 156721,
+      "word": "王者荣耀新赛季",
+      "onboard_time": 1727187561,
+      "rank": 48,
       "category": "游戏"
     },
     {
@@ -6144,6 +6232,14 @@
       "word": "警方通报官员出轨并殴打女方",
       "onboard_time": 1727140639,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 151799,
+      "num": 441759,
+      "word": "国庆部分航班票价降超一半",
+      "onboard_time": 1727188161,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -6387,14 +6483,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 145964,
-      "num": 145964,
-      "word": "王者荣耀新赛季",
-      "onboard_time": 1727187561,
-      "rank": 48,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 145840,
       "num": 145840,
       "word": "江苏一地公示15名干部6人有曾用名",
@@ -6449,6 +6537,14 @@
       "onboard_time": 1727066611,
       "rank": 47,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 145048,
+      "num": 145048,
+      "word": "小英家的牛",
+      "onboard_time": 1727191280,
+      "rank": 39,
+      "category": "网红"
     },
     {
       "raw_hot": 144670,
@@ -6568,14 +6664,6 @@
       "word": "女子提醒男子不要吸烟被砸碗辱骂",
       "onboard_time": 1727110514,
       "rank": 26,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 141376,
-      "num": 375099,
-      "word": "石家庄一涉摄像头事件民宿歇业关闭",
-      "onboard_time": 1727187080,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -6699,6 +6787,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 138535,
+      "num": 138535,
+      "word": "孙颖莎说非常期待在北京比赛",
+      "onboard_time": 1727190081,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 138474,
       "num": 486840,
       "word": "国家医保局进驻无锡涉嫌骗保医院",
@@ -6793,6 +6889,14 @@
       "onboard_time": 1727081420,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 135649,
+      "num": 135649,
+      "word": "全红婵陈芋汐拜访老师",
+      "onboard_time": 1727190502,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 135576,
@@ -7201,6 +7305,14 @@
       "onboard_time": 1726995979,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 122727,
+      "num": 534633,
+      "word": "河南永城多处被淹市民发声",
+      "onboard_time": 1727187441,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 122723,
@@ -8371,6 +8483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 65174,
+      "num": 157477,
+      "word": "王一博美男鱼",
+      "onboard_time": 1727190201,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 64758,
       "num": 64758,
       "word": "周深把音响加到鸟巢承重极限",
@@ -8432,14 +8552,6 @@
       "word": "文化中国行发现节气之美",
       "onboard_time": 1726995738,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 61577,
-      "num": 534633,
-      "word": "河南永城多处被淹市民发声",
-      "onboard_time": 1727187441,
-      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -9211,14 +9323,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 32238,
-      "num": 441759,
-      "word": "国庆部分航班票价降超一半",
-      "onboard_time": 1727188161,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 31909,
       "num": 37181,
       "word": "刘耀文19岁不受限的人生",
@@ -9667,6 +9771,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 18631,
+      "num": 419854,
+      "word": "商务部回应对美PVH集团启动调查",
+      "onboard_time": 1727189961,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 18193,
       "num": 23546,
       "word": "野生动物其实也在守护着人类",
@@ -9899,14 +10011,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 7440,
-      "num": 365601,
-      "word": "邓为南柱赫同框看秀",
-      "onboard_time": 1727188761,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 6169,
       "num": 503614,
       "word": "遏制高空抛物要追责更要重判重罚",
@@ -9921,6 +10025,14 @@
       "onboard_time": 1726987279,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 5081,
+      "num": 243779,
+      "word": "田曦薇周雨彤新剧battle茶艺",
+      "onboard_time": 1727191339,
+      "rank": 18,
+      "category": "剧集"
     }
   ],
   "hotgov_list": [
