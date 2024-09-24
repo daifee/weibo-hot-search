@@ -1,6 +1,6 @@
 {
   "startTime": 1727108827688,
-  "endTime": 1727152014516,
+  "endTime": 1727152871543,
   "band_list": [
     {
       "raw_hot": 2264608,
@@ -32,6 +32,14 @@
       "word": "厕所发现摄像头高校认为无需报警",
       "onboard_time": 1727137940,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1678817,
+      "num": 1678817,
+      "word": "胖东来禁止公司上下随礼",
+      "onboard_time": 1727150840,
+      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -155,14 +163,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 688329,
-      "num": 688329,
-      "word": "胖东来禁止公司上下随礼",
-      "onboard_time": 1727150840,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 655479,
       "num": 655479,
       "word": "筋膜枪的真正作用只有一个",
@@ -195,6 +195,14 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 584336,
+      "num": 584336,
+      "word": "博主打击酒店隐藏摄像头遭多人围堵",
+      "onboard_time": 1727147238,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 574372,
       "num": 652627,
       "word": "时尚女总裁都来恋综找对象了",
@@ -224,14 +232,6 @@
       "word": "九省通衢的气质具象化了",
       "onboard_time": 1727144598,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 538175,
-      "num": 538175,
-      "word": "博主打击酒店隐藏摄像头遭多人围堵",
-      "onboard_time": 1727147238,
-      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -275,6 +275,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 471489,
+      "num": 537456,
+      "word": "陈情令包售后的",
+      "onboard_time": 1727149520,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 468103,
       "num": 468103,
       "word": "朴信惠新剧",
@@ -289,14 +297,6 @@
       "onboard_time": 1727097021,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 447591,
-      "num": 537456,
-      "word": "陈情令包售后的",
-      "onboard_time": 1727149520,
-      "rank": 13,
-      "category": "剧集"
     },
     {
       "raw_hot": 433106,
@@ -331,20 +331,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 388361,
+      "num": 388361,
+      "word": "4个症状说明身体需要立刻休息",
+      "onboard_time": 1727146519,
+      "rank": 45,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 386573,
       "num": 438201,
       "word": "林小宅这是可以说的吗",
       "onboard_time": 1727143160,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 386282,
-      "num": 334737,
-      "word": "4个症状说明身体需要立刻休息",
-      "onboard_time": 1727146519,
-      "rank": 45,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 365935,
@@ -369,6 +369,14 @@
       "onboard_time": 1727144418,
       "rank": 8,
       "category": "电影"
+    },
+    {
+      "raw_hot": 346363,
+      "num": 346363,
+      "word": "俩姑娘出去玩捡到一斤黄金",
+      "onboard_time": 1727152462,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 345790,
@@ -401,6 +409,14 @@
       "onboard_time": 1727107217,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 336159,
+      "num": 388153,
+      "word": "唐嫣走秀把玫瑰花抛给黄奕",
+      "onboard_time": 1727149280,
+      "rank": 19,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 333080,
@@ -451,12 +467,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 292218,
+      "raw_hot": 304081,
       "num": 333783,
       "word": "YG确定BLACKPINK明年完整体回归",
       "onboard_time": 1727150301,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 292449,
+      "num": 292449,
+      "word": "光遇",
+      "onboard_time": 1727151920,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 286856,
@@ -467,12 +491,28 @@
       "category": "网红"
     },
     {
+      "raw_hot": 283519,
+      "num": 283519,
+      "word": "马龙 全世界最好的队长",
+      "onboard_time": 1727152161,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 283200,
       "num": 283200,
       "word": "极乐鸟工作室",
       "onboard_time": 1727103920,
       "rank": 32,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 282490,
+      "num": 282490,
+      "word": "中国传媒大学70周年校庆晚会阵容",
+      "onboard_time": 1727149039,
+      "rank": 35,
+      "category": "教育"
     },
     {
       "raw_hot": 281822,
@@ -523,12 +563,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 264471,
+      "num": 264471,
+      "word": "孙佳俊刷新全国纪录",
+      "onboard_time": 1727151201,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 264197,
       "num": 435705,
       "word": "血常规报告中这4项最重要",
       "onboard_time": 1727146699,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 264179,
+      "num": 264179,
+      "word": "GFriend将重组",
+      "onboard_time": 1727151381,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 263973,
@@ -539,6 +595,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 262780,
+      "num": 262780,
+      "word": "王一博 漫步者",
+      "onboard_time": 1727151321,
+      "rank": 46,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 259296,
       "num": 259296,
       "word": "21岁女保安值班时被保安队长杀害",
@@ -547,20 +611,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 256511,
-      "num": 256511,
-      "word": "中国传媒大学70周年校庆晚会阵容",
-      "onboard_time": 1727149039,
-      "rank": 35,
-      "category": "教育"
+      "raw_hot": 258774,
+      "num": 258774,
+      "word": "毛不易演我减肥",
+      "onboard_time": 1727152101,
+      "rank": 38,
+      "category": "艺人"
     },
     {
-      "raw_hot": 248295,
-      "num": 317379,
-      "word": "唐嫣走秀把玫瑰花抛给黄奕",
-      "onboard_time": 1727149280,
+      "raw_hot": 242690,
+      "num": 418350,
+      "word": "校长开家长会下封口令被停职",
+      "onboard_time": 1727147000,
       "rank": 19,
-      "category": "艺人,时尚"
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 236956,
+      "num": 236956,
+      "word": "世界之外",
+      "onboard_time": 1727152282,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 229009,
@@ -569,14 +641,6 @@
       "onboard_time": 1727145438,
       "rank": 19,
       "category": "电影"
-    },
-    {
-      "raw_hot": 228542,
-      "num": 418350,
-      "word": "校长开家长会下封口令被停职",
-      "onboard_time": 1727147000,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 227961,
@@ -635,14 +699,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 215961,
-      "num": 215961,
-      "word": "光遇",
-      "onboard_time": 1727151920,
-      "rank": 40,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 212691,
       "num": 212691,
       "word": "警方回应博主打击隐藏摄像头遭围堵",
@@ -651,20 +707,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 212568,
-      "num": 212568,
-      "word": "GFriend将重组",
-      "onboard_time": 1727151381,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 211928,
       "num": 211928,
       "word": "央行将下调存款准备金率0.5个百分点",
       "onboard_time": 1727142440,
       "rank": 31,
       "category": "财经"
+    },
+    {
+      "raw_hot": 211564,
+      "num": 211564,
+      "word": "黄奕巴黎看秀的鞋子被偷了",
+      "onboard_time": 1727152521,
+      "rank": 46,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 203791,
@@ -715,6 +771,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 199415,
+      "num": 199415,
+      "word": "王楚钦说很庆幸能走到现在",
+      "onboard_time": 1727152342,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 198059,
       "num": 198059,
       "word": "国新办举行新闻发布会",
@@ -729,14 +793,6 @@
       "onboard_time": 1727142559,
       "rank": 33,
       "category": "财经"
-    },
-    {
-      "raw_hot": 196409,
-      "num": 196409,
-      "word": "王一博 漫步者",
-      "onboard_time": 1727151321,
-      "rank": 46,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 196080,
@@ -988,7 +1044,7 @@
     },
     {
       "raw_hot": 132775,
-      "num": 195267,
+      "num": 509137,
       "word": "戚薇 四川女人走到哪都要吃火锅",
       "onboard_time": 1727151440,
       "rank": 49,
@@ -1075,6 +1131,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 114581,
+      "num": 264321,
+      "word": "江慈好会爱人",
+      "onboard_time": 1727152762,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 114007,
+      "num": 532942,
+      "word": "家电补贴省出6000块居然是真的",
+      "onboard_time": 1727148860,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 113342,
       "num": 113342,
       "word": "LPR",
@@ -1137,14 +1209,6 @@
       "onboard_time": 1727116272,
       "rank": 45,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 100605,
-      "num": 532942,
-      "word": "家电补贴省出6000块居然是真的",
-      "onboard_time": 1727148860,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 99620,
@@ -1347,6 +1411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 58221,
+      "num": 422264,
+      "word": "贾玲说李现是秀场里最帅的",
+      "onboard_time": 1727152700,
+      "rank": 19,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 56143,
       "num": 69213,
       "word": "半熟男女",
@@ -1395,6 +1467,30 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 45970,
+      "num": 491866,
+      "word": "你遇到过没有边界的探店打卡吗",
+      "onboard_time": 1727150840,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 38689,
+      "num": 1292308,
+      "word": "铸牢共同体中华一家亲",
+      "onboard_time": 1727148499,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 38608,
+      "num": 632804,
+      "word": "国新办发布会5大关键信号",
+      "onboard_time": 1727151142,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 38314,
       "num": 56145,
       "word": "博主称打假东北雨姐反被打",
@@ -1403,36 +1499,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 37560,
-      "num": 1292308,
-      "word": "铸牢共同体中华一家亲",
-      "onboard_time": 1727148499,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 32371,
-      "num": 491866,
-      "word": "你遇到过没有边界的探店打卡吗",
-      "onboard_time": 1727150840,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 31909,
       "num": 37181,
       "word": "刘耀文19岁不受限的人生",
       "onboard_time": 1727116872,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 29364,
-      "num": 632804,
-      "word": "国新办发布会5大关键信号",
-      "onboard_time": 1727151142,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 29034,
