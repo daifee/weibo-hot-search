@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/09/25 00:28:05 ~ 2024/09/25 04:24:26
+本榜单时间：2024/09/25 00:28:05 ~ 2024/09/25 04:37:59
 </p>
 </blockquote>
 <p>
@@ -363,6 +363,12 @@ A股全面爆发（热度：359677）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AE%B0%E8%80%85%E7%9B%B4%E6%92%AD%E9%81%87%E7%A9%BA%E8%A2%AD%E8%BA%AB%E5%90%8E%E7%AA%97%E6%88%B7%E7%82%B8%E8%A3%82%23" target="weibo">
+记者直播遇空袭身后窗户炸裂（热度：42615）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%AA%E6%9C%89%E5%A5%B9%E8%BD%AC%E8%BA%AB%E7%9C%8B%E5%88%B0%E4%BA%86%E5%8F%B0%E4%B8%8B%E7%9A%84%E8%96%9B%E4%B9%8B%E8%B0%A6%23" target="weibo">
 只有她转身看到了台下的薛之谦（热度：40037）
 </a>
@@ -399,8 +405,14 @@ A股全面爆发（热度：359677）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%AE%B0%E8%80%85%E7%9B%B4%E6%92%AD%E9%81%87%E7%A9%BA%E8%A2%AD%E8%BA%AB%E5%90%8E%E7%AA%97%E6%88%B7%E7%82%B8%E8%A3%82%23" target="weibo">
-记者直播遇空袭身后窗户炸裂（热度：33145）
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%A6%E6%A0%A1%E7%A6%81%E6%AD%A2%E5%AD%A6%E7%94%9F%E5%B8%A6%E7%89%9B%E5%A5%B6%E6%8C%A8%E4%B8%AA%E6%9F%A5%E5%8C%85%23" target="weibo">
+学校禁止学生带牛奶挨个查包（热度：28405）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%9A%E4%B8%BB%E5%A4%A7%E5%A8%83%E5%9B%9E%E5%BA%94%E8%A2%AB%E4%B8%9C%E5%8C%97%E9%9B%A8%E5%A7%90%E6%AE%B4%E6%89%93%23" target="weibo">
+博主大娃回应被东北雨姐殴打（热度：26533）
 </a>
 </li>
 
@@ -411,32 +423,20 @@ A股全面爆发（热度：359677）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AD%A6%E6%A0%A1%E7%A6%81%E6%AD%A2%E5%AD%A6%E7%94%9F%E5%B8%A6%E7%89%9B%E5%A5%B6%E6%8C%A8%E4%B8%AA%E6%9F%A5%E5%8C%85%23" target="weibo">
-学校禁止学生带牛奶挨个查包（热度：24979）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%BC%A0%E4%BC%9F%E8%BE%9F%E8%B0%A3%E6%98%AF%E5%8C%97%E4%BA%AC%E4%BA%BA%E5%B0%B1%E6%89%93%E8%BF%87%E5%A4%A7%E5%BC%A0%E4%BC%9F%23" target="weibo">
 大张伟辟谣是北京人就打过大张伟（热度：24359）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%9A%E4%B8%BB%E5%A4%A7%E5%A8%83%E5%9B%9E%E5%BA%94%E8%A2%AB%E4%B8%9C%E5%8C%97%E9%9B%A8%E5%A7%90%E6%AE%B4%E6%89%93%23" target="weibo">
-博主大娃回应被东北雨姐殴打（热度：20175）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BDPVH%E6%B6%89%E5%AB%8C%E6%AD%A7%E8%A7%86%E6%B6%89%E7%96%86%E4%BA%A7%E5%93%81%E8%A2%AB%E8%B0%83%E6%9F%A5%23" target="weibo">
-美国PVH涉嫌歧视涉疆产品被调查（热度：19284）
+美国PVH涉嫌歧视涉疆产品被调查（热度：20673）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E6%8F%90%E9%86%92%E4%B8%8D%E5%BF%85%E7%9D%80%E6%80%A5%E5%8E%BB%E9%93%B6%E8%A1%8C%23" target="weibo">
-专家提醒不必着急去银行（热度：16228）
+专家提醒不必着急去银行（热度：19084）
 </a>
 </li>
 
