@@ -1,6 +1,6 @@
 {
   "startTime": 1727108827688,
-  "endTime": 1727162453271,
+  "endTime": 1727163321333,
   "band_list": [
     {
       "raw_hot": 2264608,
@@ -171,6 +171,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 826553,
+      "num": 826553,
+      "word": "江苏南通一年轻女村干部遇害",
+      "onboard_time": 1727160440,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 767927,
       "num": 787210,
       "word": "王玉雯 谈恋爱不如结拜",
@@ -219,14 +227,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 680065,
-      "num": 680065,
-      "word": "江苏南通一年轻女村干部遇害",
-      "onboard_time": 1727160440,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 655479,
       "num": 655479,
       "word": "筋膜枪的真正作用只有一个",
@@ -241,6 +241,14 @@
       "onboard_time": 1727147238,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 622926,
+      "num": 622926,
+      "word": "华为发布会",
+      "onboard_time": 1727159898,
+      "rank": 14,
+      "category": "数码"
     },
     {
       "raw_hot": 621406,
@@ -265,14 +273,6 @@
       "onboard_time": 1727137281,
       "rank": 20,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 599473,
-      "num": 599473,
-      "word": "华为发布会",
-      "onboard_time": 1727159898,
-      "rank": 14,
-      "category": "数码"
     },
     {
       "raw_hot": 589230,
@@ -315,6 +315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 559552,
+      "num": 496072,
+      "word": "甜馨参加小姨婚礼",
+      "onboard_time": 1727161941,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 549509,
       "num": 573460,
       "word": "九省通衢的气质具象化了",
@@ -345,6 +353,14 @@
       "onboard_time": 1727136199,
       "rank": 7,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 494816,
+      "num": 494816,
+      "word": "山西一地新娘被众人绑电线杆上",
+      "onboard_time": 1727158219,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 487184,
@@ -379,6 +395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 469259,
+      "num": 469259,
+      "word": "石家庄",
+      "onboard_time": 1727160799,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 468103,
       "num": 468103,
       "word": "朴信惠新剧",
@@ -403,20 +427,20 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 440178,
+      "num": 582516,
+      "word": "林依晨床头放着几百张老公的视频截图",
+      "onboard_time": 1727160498,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 433106,
       "num": 433106,
       "word": "无锡虹桥医院15人被采取刑事强制措施",
       "onboard_time": 1727137158,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 420003,
-      "num": 582516,
-      "word": "林依晨床头放着几百张老公的视频截图",
-      "onboard_time": 1727160498,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 414831,
@@ -428,7 +452,7 @@
     },
     {
       "raw_hot": 411924,
-      "num": 411924,
+      "num": 473065,
       "word": "赵丽颖的哭戏还是这么顶",
       "onboard_time": 1727161039,
       "rank": 12,
@@ -507,14 +531,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 365554,
-      "num": 365554,
-      "word": "山西一地新娘被众人绑电线杆上",
-      "onboard_time": 1727158219,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 363278,
       "num": 427246,
       "word": "虞书欣生图",
@@ -537,6 +553,22 @@
       "onboard_time": 1727152521,
       "rank": 46,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 353017,
+      "num": 488452,
+      "word": "何知南高鹏复合",
+      "onboard_time": 1727160199,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 346939,
+      "num": 346939,
+      "word": "知音漫客",
+      "onboard_time": 1727160017,
+      "rank": 45,
+      "category": "动漫"
     },
     {
       "raw_hot": 345790,
@@ -659,14 +691,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 299659,
-      "num": 299659,
-      "word": "何知南高鹏复合",
-      "onboard_time": 1727160199,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 292449,
       "num": 292449,
       "word": "光遇",
@@ -705,14 +729,6 @@
       "onboard_time": 1727149039,
       "rank": 35,
       "category": "教育"
-    },
-    {
-      "raw_hot": 282435,
-      "num": 282435,
-      "word": "知音漫客",
-      "onboard_time": 1727160017,
-      "rank": 45,
-      "category": "动漫"
     },
     {
       "raw_hot": 282315,
@@ -779,14 +795,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 264920,
-      "num": 296399,
-      "word": "甜馨参加小姨婚礼",
-      "onboard_time": 1727161941,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 264471,
       "num": 264471,
       "word": "孙佳俊刷新全国纪录",
@@ -819,6 +827,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 263185,
+      "num": 218500,
+      "word": "等一个Mate70",
+      "onboard_time": 1727162840,
+      "rank": 30,
+      "category": "数码"
+    },
+    {
       "raw_hot": 262780,
       "num": 262780,
       "word": "王一博 漫步者",
@@ -849,14 +865,6 @@
       "onboard_time": 1727152101,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 251873,
-      "num": 251873,
-      "word": "石家庄",
-      "onboard_time": 1727160799,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 247703,
@@ -939,6 +947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 224082,
+      "num": 224082,
+      "word": "余文乐 一直中国人一枚",
+      "onboard_time": 1727162779,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 222927,
       "num": 222927,
       "word": "央行降低存量房贷利率",
@@ -1011,6 +1027,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 209402,
+      "num": 209402,
+      "word": "沪指暴涨100点",
+      "onboard_time": 1727162420,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
       "raw_hot": 209373,
       "num": 209373,
       "word": "汪苏泷演唱会官宣三站",
@@ -1025,6 +1049,22 @@
       "onboard_time": 1727155281,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 206358,
+      "num": 206358,
+      "word": "女子被家政偷走50多瓶茅台",
+      "onboard_time": 1727159839,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 205855,
+      "num": 205855,
+      "word": "爱你首发预告",
+      "onboard_time": 1727162118,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 203791,
@@ -1163,6 +1203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 194598,
+      "num": 203856,
+      "word": "吴磊登台华为发布会",
+      "onboard_time": 1727162240,
+      "rank": 37,
+      "category": "艺人,数码"
+    },
+    {
       "raw_hot": 193728,
       "num": 193728,
       "word": "老百姓房贷月供少了",
@@ -1187,12 +1235,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 190815,
-      "num": 190815,
-      "word": "吴磊登台华为发布会",
-      "onboard_time": 1727162240,
-      "rank": 37,
-      "category": "艺人,数码"
+      "raw_hot": 189021,
+      "num": 184554,
+      "word": "KPL夏季赛最佳阵容候选名单",
+      "onboard_time": 1727163078,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 188555,
@@ -1251,14 +1299,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 183838,
-      "num": 183838,
-      "word": "女子被家政偷走50多瓶茅台",
-      "onboard_time": 1727159839,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 179238,
       "num": 391957,
       "word": "半熟男女 冷暴力",
@@ -1299,6 +1339,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 173854,
+      "num": 173854,
+      "word": "华为Watch GT5 Pro",
+      "onboard_time": 1727162899,
+      "rank": 47,
+      "category": "数码"
+    },
+    {
       "raw_hot": 173751,
       "num": 173751,
       "word": "母单恋爱遇到困难要放弃吗",
@@ -1331,28 +1379,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 167421,
-      "num": 167421,
-      "word": "爱你首发预告",
-      "onboard_time": 1727162118,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 166659,
       "num": 166659,
       "word": "林奇被传遇难时带着绝密信息",
       "onboard_time": 1727137940,
       "rank": 34,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 166173,
-      "num": 166173,
-      "word": "沪指暴涨100点",
-      "onboard_time": 1727162420,
-      "rank": 47,
-      "category": "财经"
     },
     {
       "raw_hot": 165744,
@@ -1803,6 +1835,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 81309,
+      "num": 502762,
+      "word": "公司禁止员工互相随礼合理吗",
+      "onboard_time": 1727162899,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 78069,
       "num": 91249,
       "word": "白鹿直播",
@@ -2003,11 +2043,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 49334,
+      "num": 221268,
+      "word": "谁懂拼多多偏远地区包邮的含金量",
+      "onboard_time": 1727162240,
+      "rank": 45,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 45970,
       "num": 491866,
       "word": "你遇到过没有边界的探店打卡吗",
       "onboard_time": 1727150840,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 44084,
+      "num": 449512,
+      "word": "员工称反映男厕装监控不合理遭劝退",
+      "onboard_time": 1727162479,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -2043,14 +2099,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 36144,
-      "num": 166792,
-      "word": "谁懂拼多多偏远地区包邮的含金量",
-      "onboard_time": 1727162240,
-      "rank": 45,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 34032,
       "num": 354786,
       "word": "广州多个写字楼存在宽带垄断",
@@ -2065,6 +2113,14 @@
       "onboard_time": 1727116872,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 30780,
+      "num": 465393,
+      "word": "唐嫣台步走出维密天使感",
+      "onboard_time": 1727163078,
+      "rank": 17,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 30262,
@@ -2083,6 +2139,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 28564,
+      "num": 484258,
+      "word": "不说学校坏话作为爱校教育简直离谱",
+      "onboard_time": 1727162598,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 27763,
       "num": 99803,
       "word": "乘客晕车应该怪司机吗",
@@ -2097,6 +2161,14 @@
       "onboard_time": 1727113394,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 24724,
+      "num": 442872,
+      "word": "高校临时延期报到竟因校区还没建好",
+      "onboard_time": 1727162659,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 24302,
@@ -2116,7 +2188,7 @@
     },
     {
       "raw_hot": 22770,
-      "num": 361395,
+      "num": 477083,
       "word": "乡村学校老师怎么变成保姆了",
       "onboard_time": 1727162240,
       "rank": 14,
