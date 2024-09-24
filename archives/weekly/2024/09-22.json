@@ -1,6 +1,6 @@
 {
   "startTime": 1726936020707,
-  "endTime": 1727173503296,
+  "endTime": 1727174533489,
   "band_list": [
     {
       "raw_hot": 6817146,
@@ -700,7 +700,7 @@
     },
     {
       "raw_hot": 947446,
-      "num": 345949,
+      "num": 347999,
       "word": "金鹤龙 迪丽热巴妆造",
       "onboard_time": 1727171118,
       "rank": 10,
@@ -1115,6 +1115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 704938,
+      "num": 347956,
+      "word": "菜摊母子三人遇难邻居自发帮忙卖菜",
+      "onboard_time": 1727172140,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 704780,
       "num": 704780,
       "word": "国色芳华",
@@ -1185,6 +1193,14 @@
       "onboard_time": 1726975880,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 681895,
+      "num": 681895,
+      "word": "李梦带了10套旗袍去平遥",
+      "onboard_time": 1727171420,
+      "rank": 4,
+      "category": "电影"
     },
     {
       "raw_hot": 679933,
@@ -1419,6 +1435,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 578960,
+      "num": 578960,
+      "word": "男子曝近十年被物业多收39万电费",
+      "onboard_time": 1727168839,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 575746,
       "num": 575746,
       "word": "店员用个人收款码收4万被刑拘",
@@ -1553,14 +1577,6 @@
       "onboard_time": 1726994180,
       "rank": 29,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 530709,
-      "num": 530709,
-      "word": "李梦带了10套旗袍去平遥",
-      "onboard_time": 1727171420,
-      "rank": 4,
-      "category": "电影"
     },
     {
       "raw_hot": 526214,
@@ -2419,20 +2435,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 347756,
+      "num": 347756,
+      "word": "庄周新皮肤牧神诗旅",
+      "onboard_time": 1727173279,
+      "rank": 22,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 346939,
       "num": 346939,
       "word": "知音漫客",
       "onboard_time": 1727160017,
       "rank": 45,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 345489,
-      "num": 345489,
-      "word": "菜摊母子三人遇难邻居自发帮忙卖菜",
-      "onboard_time": 1727172140,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 345326,
@@ -2779,14 +2795,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 284597,
-      "num": 284597,
-      "word": "庄周新皮肤牧神诗旅",
-      "onboard_time": 1727173279,
-      "rank": 22,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 283200,
       "num": 283200,
       "word": "极乐鸟工作室",
@@ -2857,14 +2865,6 @@
       "onboard_time": 1726984402,
       "rank": 24,
       "category": "情感"
-    },
-    {
-      "raw_hot": 279830,
-      "num": 333808,
-      "word": "男子曝近十年被物业多收39万电费",
-      "onboard_time": 1727168839,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 279818,
@@ -3176,6 +3176,14 @@
       "word": "无锡虹桥医院涉欺诈骗保被立案侦查",
       "onboard_time": 1727071408,
       "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 255503,
+      "num": 255503,
+      "word": "下月工资或将多一笔钱",
+      "onboard_time": 1727174300,
+      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -3675,6 +3683,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 220555,
+      "num": 220555,
+      "word": "IGN",
+      "onboard_time": 1727172380,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 219630,
       "num": 222970,
       "word": "杨志刚亲手制作酥山赠与多宝",
@@ -3993,6 +4009,14 @@
       "onboard_time": 1727003302,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 205355,
+      "num": 205355,
+      "word": "女子12楼外墙施工遭老太割安全绳",
+      "onboard_time": 1727173339,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 205159,
@@ -4363,6 +4387,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 196353,
+      "num": 196353,
+      "word": "杭州人3天在同个商场买了7个亿",
+      "onboard_time": 1727174300,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 196221,
       "num": 196221,
       "word": "BOYNEXTDOOR首次世巡海报",
@@ -4625,14 +4657,6 @@
       "onboard_time": 1727062280,
       "rank": 35,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 190007,
-      "num": 190007,
-      "word": "IGN",
-      "onboard_time": 1727172380,
-      "rank": 34,
-      "category": "游戏"
     },
     {
       "raw_hot": 189950,
@@ -5515,6 +5539,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 162308,
+      "num": 162308,
+      "word": "木薯粉会给身体造成危害吗",
+      "onboard_time": 1727172739,
+      "rank": 32,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 162179,
       "num": 162179,
       "word": "LPL最害怕的一集",
@@ -5595,6 +5627,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 156790,
+      "num": 156790,
+      "word": "上海地铁15号线自动扶梯碎裂",
+      "onboard_time": 1727174300,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 156361,
       "num": 156361,
       "word": "秦彻风临野",
@@ -5649,6 +5689,14 @@
       "onboard_time": 1727097380,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 153860,
+      "num": 153860,
+      "word": "住了很久的出租屋要退租了",
+      "onboard_time": 1727172318,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 153400,
@@ -5947,6 +5995,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 145554,
+      "num": 156855,
+      "word": "NCTWISH回归",
+      "onboard_time": 1727173579,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 145374,
       "num": 328206,
       "word": "古特雷斯称黎巴嫩可能成另一个加沙",
@@ -6081,6 +6137,14 @@
       "onboard_time": 1726976358,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 140857,
+      "num": 140857,
+      "word": "WTT",
+      "onboard_time": 1727170999,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 140227,
@@ -6321,14 +6385,6 @@
       "onboard_time": 1727137281,
       "rank": 42,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 134726,
-      "num": 134726,
-      "word": "住了很久的出租屋要退租了",
-      "onboard_time": 1727172318,
-      "rank": 44,
-      "category": "情感"
     },
     {
       "raw_hot": 134674,
@@ -6683,14 +6739,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 122019,
-      "num": 122019,
-      "word": "女子12楼外墙施工遭老太割安全绳",
-      "onboard_time": 1727173339,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 121739,
       "num": 121739,
       "word": "周子瑜棒球开球",
@@ -6779,6 +6827,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 118790,
+      "num": 118790,
+      "word": "卖菜母子遇难有人买点生姜付一百元",
+      "onboard_time": 1727174358,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 118780,
       "num": 118780,
       "word": "张博恒给师兄颁发奖牌",
@@ -6857,6 +6913,14 @@
       "onboard_time": 1726932264,
       "rank": 43,
       "category": "演出,电竞"
+    },
+    {
+      "raw_hot": 116765,
+      "num": 116765,
+      "word": "极乐鸟 电次",
+      "onboard_time": 1727170999,
+      "rank": 47,
+      "category": "动漫"
     },
     {
       "raw_hot": 116615,
@@ -7361,6 +7425,14 @@
       "onboard_time": 1727053339,
       "rank": 48,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 88880,
+      "num": 157529,
+      "word": "智界R7华为满血途灵平台有多强",
+      "onboard_time": 1727173999,
+      "rank": 33,
+      "category": "汽车"
     },
     {
       "raw_hot": 88466,
@@ -8083,6 +8155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 50627,
+      "num": 362146,
+      "word": "谁懂拼多多偏远地区包邮的含金量",
+      "onboard_time": 1727162240,
+      "rank": 45,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 50517,
       "num": 439820,
       "word": "不止是Cybertruck更是一车抵多车",
@@ -8113,14 +8193,6 @@
       "onboard_time": 1727158279,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 49334,
-      "num": 362146,
-      "word": "谁懂拼多多偏远地区包邮的含金量",
-      "onboard_time": 1727162240,
-      "rank": 45,
-      "category": "互联网"
     },
     {
       "raw_hot": 48966,
@@ -8785,6 +8857,14 @@
       "onboard_time": 1727042412,
       "rank": 42,
       "category": "艺人,作品衍生"
+    },
+    {
+      "raw_hot": 26761,
+      "num": 189766,
+      "word": "吴尊说中国网球飞啦",
+      "onboard_time": 1727173819,
+      "rank": 28,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 25936,

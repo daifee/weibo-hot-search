@@ -1,0 +1,410 @@
+{
+  "runTime": 1727174533489,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1874054,
+        "num": 1874054,
+        "word": "12306买票不一定先到先得",
+        "onboard_time": 1727168839,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 687594,
+        "num": 687594,
+        "word": "肯德基刚来中国时还不叫肯德基",
+        "onboard_time": 1727163919,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 5488,
+        "num": 682449,
+        "word": "老铁山单日记录迁徙猛禽过万只",
+        "onboard_time": 1727148199,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 681895,
+        "num": 681895,
+        "word": "李梦带了10套旗袍去平遥",
+        "onboard_time": 1727171420,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 675901,
+        "num": 675901,
+        "word": "被王毅外长认出来是什么感受",
+        "onboard_time": 1727163498,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 578960,
+        "num": 578960,
+        "word": "男子曝近十年被物业多收39万电费",
+        "onboard_time": 1727168839,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 441321,
+        "num": 441321,
+        "word": "俩姑娘出去玩捡到一斤黄金",
+        "onboard_time": 1727152462,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 387296,
+        "num": 387296,
+        "word": "张元英穿搭撞衫脱粉收容所",
+        "onboard_time": 1727168120,
+        "rank": 7,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 264323,
+        "num": 350600,
+        "word": "东北雨姐60S广告报价100万",
+        "onboard_time": 1727158580,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 334578,
+        "num": 348122,
+        "word": "夫妻打造高端人设骗了7人600多万元",
+        "onboard_time": 1727166678,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 909960,
+        "num": 347999,
+        "word": "金鹤龙 迪丽热巴妆造",
+        "onboard_time": 1727171118,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 704938,
+        "num": 347956,
+        "word": "菜摊母子三人遇难邻居自发帮忙卖菜",
+        "onboard_time": 1727172140,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 347756,
+        "num": 347756,
+        "word": "庄周新皮肤牧神诗旅",
+        "onboard_time": 1727173279,
+        "rank": 12,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 327486,
+        "num": 327486,
+        "word": "极乐鸟发长文",
+        "onboard_time": 1727159360,
+        "rank": 13,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 50627,
+        "num": 319131,
+        "word": "谁懂拼多多偏远地区包邮的含金量",
+        "onboard_time": 1727162240,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 239680,
+        "num": 314273,
+        "word": "微博音乐盛典节目单",
+        "onboard_time": 1727170518,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 193549,
+        "num": 309220,
+        "word": "唐嫣台步走出维密天使感",
+        "onboard_time": 1727163078,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 189163,
+        "num": 298291,
+        "word": "甜馨参加小姨婚礼",
+        "onboard_time": 1727161941,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27695,
+        "num": 288746,
+        "word": "跟着英伦腔外卖小哥特种兵旅游",
+        "onboard_time": 1727170579,
+        "rank": 18,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 170196,
+        "num": 276312,
+        "word": "田曦薇给自己演yue了",
+        "onboard_time": 1727164519,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 398997,
+        "num": 267486,
+        "word": "博主打击酒店隐藏摄像头遭多人围堵",
+        "onboard_time": 1727147238,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 266826,
+        "num": 266826,
+        "word": "周扬青爸爸从小就不让哭",
+        "onboard_time": 1727171779,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 255503,
+        "num": 255503,
+        "word": "下月工资或将多一笔钱",
+        "onboard_time": 1727174300,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220555,
+        "num": 220555,
+        "word": "IGN",
+        "onboard_time": 1727172380,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 205355,
+        "num": 205355,
+        "word": "女子12楼外墙施工遭老太割安全绳",
+        "onboard_time": 1727173339,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203949,
+        "num": 203949,
+        "word": "迪丽热巴看秀look",
+        "onboard_time": 1727167398,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 196353,
+        "num": 196353,
+        "word": "杭州人3天在同个商场买了7个亿",
+        "onboard_time": 1727174300,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193703,
+        "num": 193703,
+        "word": "逆水寒",
+        "onboard_time": 1727172798,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 26761,
+        "num": 189766,
+        "word": "吴尊说中国网球飞啦",
+        "onboard_time": 1727173819,
+        "rank": 28,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 189032,
+        "num": 189032,
+        "word": "华为发布会",
+        "onboard_time": 1727159898,
+        "rank": 29,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 171562,
+        "num": 171562,
+        "word": "降低存量房贷利率切实为民纾困",
+        "onboard_time": 1727153001,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162842,
+        "num": 162842,
+        "word": "等一个Mate70",
+        "onboard_time": 1727162840,
+        "rank": 31,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 162308,
+        "num": 162308,
+        "word": "木薯粉会给身体造成危害吗",
+        "onboard_time": 1727172739,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 88880,
+        "num": 157529,
+        "word": "智界R7华为满血途灵平台有多强",
+        "onboard_time": 1727173999,
+        "rank": 33,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 145554,
+        "num": 156855,
+        "word": "NCTWISH回归",
+        "onboard_time": 1727173579,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 156790,
+        "num": 156790,
+        "word": "上海地铁15号线自动扶梯碎裂",
+        "onboard_time": 1727174300,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153860,
+        "num": 153860,
+        "word": "住了很久的出租屋要退租了",
+        "onboard_time": 1727172318,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 149152,
+        "num": 149152,
+        "word": "博主曝光民宿偷拍摄像头警方已立案",
+        "onboard_time": 1727160799,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145104,
+        "num": 145104,
+        "word": "中国对美国PVH集团启动调查",
+        "onboard_time": 1727168719,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 142149,
+        "num": 142149,
+        "word": "小伙用榫卯结构做面包拿世界冠军",
+        "onboard_time": 1727171660,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140857,
+        "num": 140857,
+        "word": "WTT",
+        "onboard_time": 1727170999,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136029,
+        "num": 136029,
+        "word": "王楚钦孙颖莎到达首钢",
+        "onboard_time": 1727168598,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131153,
+        "num": 131153,
+        "word": "婆婆曾反对韩安冉宋浩然交往",
+        "onboard_time": 1727164759,
+        "rank": 42,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 128210,
+        "num": 128210,
+        "word": "莫文蔚晒与肖战合照",
+        "onboard_time": 1727154141,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 126053,
+        "num": 126053,
+        "word": "旧电脑寄给爱回收凌晨收到诡异短信",
+        "onboard_time": 1727164701,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119458,
+        "num": 119458,
+        "word": "A股近百股涨停",
+        "onboard_time": 1727169380,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 118790,
+        "num": 118790,
+        "word": "卖菜母子遇难有人买点生姜付一百元",
+        "onboard_time": 1727174358,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116765,
+        "num": 116765,
+        "word": "极乐鸟 电次",
+        "onboard_time": 1727170999,
+        "rank": 47,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 115248,
+        "num": 115248,
+        "word": "铁路12306上新同车接续功能",
+        "onboard_time": 1727171779,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112340,
+        "num": 112340,
+        "word": "Asoul离职员工的叙述",
+        "onboard_time": 1727172679,
+        "rank": 49,
+        "category": "动漫"
+      }
+    ],
+    "hotgov": {
+      "word": "#让航天科技成果更好造福人类#"
+    }
+  }
+}
