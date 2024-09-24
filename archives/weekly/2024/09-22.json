@@ -1,6 +1,6 @@
 {
   "startTime": 1726936020707,
-  "endTime": 1727185289453,
+  "endTime": 1727187585304,
   "band_list": [
     {
       "raw_hot": 6817146,
@@ -465,6 +465,22 @@
       "onboard_time": 1727009902,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1298086,
+      "num": 866722,
+      "word": "迪丽热巴无袖束腰裙",
+      "onboard_time": 1727185340,
+      "rank": 3,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1294163,
+      "num": 1294163,
+      "word": "网红小英不能开着路虎卖惨",
+      "onboard_time": 1727175258,
+      "rank": 20,
+      "category": "网红"
     },
     {
       "raw_hot": 1290002,
@@ -953,6 +969,14 @@
       "onboard_time": 1726933102,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 842199,
+      "num": 547732,
+      "word": "邓为工作室",
+      "onboard_time": 1727185161,
+      "rank": 19,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 836400,
@@ -1475,14 +1499,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 596347,
-      "num": 448503,
-      "word": "网红小英不能开着路虎卖惨",
-      "onboard_time": 1727175258,
-      "rank": 20,
-      "category": "网红"
-    },
-    {
       "raw_hot": 594456,
       "num": 594456,
       "word": "11岁女孩沉迷买卡仨月花了一万二",
@@ -1593,6 +1609,14 @@
       "onboard_time": 1727153181,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 561760,
+      "num": 561760,
+      "word": "以军空袭已致黎巴嫩50名儿童死亡",
+      "onboard_time": 1727181499,
+      "rank": 36,
+      "category": "国外时政"
     },
     {
       "raw_hot": 560702,
@@ -1771,6 +1795,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 501709,
+      "num": 501709,
+      "word": "孙佳俊打破亚洲纪录",
+      "onboard_time": 1727184739,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 494979,
       "num": 494979,
       "word": "东北雨姐卖红薯粉丝被质疑成分",
@@ -1913,6 +1945,14 @@
       "onboard_time": 1727141780,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 466619,
+      "num": 331679,
+      "word": "金智秀淡妆高马尾",
+      "onboard_time": 1727187021,
+      "rank": 13,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 466391,
@@ -2177,6 +2217,14 @@
       "onboard_time": 1726963037,
       "rank": 22,
       "category": "音乐,体育"
+    },
+    {
+      "raw_hot": 402740,
+      "num": 298428,
+      "word": "大爷凌晨卖菜只赚27元被骗200元",
+      "onboard_time": 1727181319,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 402554,
@@ -2635,6 +2683,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 331706,
+      "num": 331706,
+      "word": "周到拍的马龙王楚钦",
+      "onboard_time": 1727184680,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 331060,
       "num": 331060,
       "word": "TFBOYS恭喜王俊凯全球代言",
@@ -2681,14 +2737,6 @@
       "onboard_time": 1727065171,
       "rank": 29,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 318577,
-      "num": 213344,
-      "word": "大爷凌晨卖菜只赚27元被骗200元",
-      "onboard_time": 1727181319,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 318185,
@@ -2899,6 +2947,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 291954,
+      "num": 291954,
+      "word": "迪奥大秀",
+      "onboard_time": 1727187021,
+      "rank": 23,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 289819,
       "num": 289819,
       "word": "樊振东 端水大师",
@@ -2969,6 +3025,14 @@
       "onboard_time": 1727147000,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 281441,
+      "num": 281441,
+      "word": "朋友圈可以发live实况图是好是坏",
+      "onboard_time": 1727183059,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 281072,
@@ -3707,6 +3771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 226500,
+      "num": 226500,
+      "word": "邓为时装周戴口罩",
+      "onboard_time": 1727186960,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 225720,
       "num": 225720,
       "word": "高雅cp",
@@ -3745,14 +3817,6 @@
       "onboard_time": 1727162779,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 223991,
-      "num": 223991,
-      "word": "孙佳俊打破亚洲纪录",
-      "onboard_time": 1727184739,
-      "rank": 13,
-      "category": "体育"
     },
     {
       "raw_hot": 223913,
@@ -3809,6 +3873,14 @@
       "onboard_time": 1727174300,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 221737,
+      "num": 221737,
+      "word": "孟川脱口秀",
+      "onboard_time": 1727186481,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 220976,
@@ -4363,14 +4435,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 200041,
-      "num": 179070,
-      "word": "朋友圈可以发live实况图是好是坏",
-      "onboard_time": 1727183059,
-      "rank": 37,
-      "category": "情感"
-    },
-    {
       "raw_hot": 199822,
       "num": 199822,
       "word": "可能和我的家教有关吧",
@@ -4385,14 +4449,6 @@
       "onboard_time": 1726995738,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 199793,
-      "num": 181472,
-      "word": "邓为工作室",
-      "onboard_time": 1727185161,
-      "rank": 19,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 199737,
@@ -4635,14 +4691,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 195644,
-      "num": 251839,
-      "word": "以军空袭已致黎巴嫩50名儿童死亡",
-      "onboard_time": 1727181499,
-      "rank": 36,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 195556,
       "num": 195556,
       "word": "冯巩一句我想死你们了婚礼秒变春晚",
@@ -4763,6 +4811,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 193321,
+      "num": 193321,
+      "word": "白鹿敖瑞鹏这13秒预告",
+      "onboard_time": 1727186000,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 193148,
       "num": 193148,
       "word": "为什么抑郁症患者不愿去医院",
@@ -4795,6 +4851,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 191883,
+      "num": 191883,
+      "word": "杭州赛张之臻获亚军",
+      "onboard_time": 1727185879,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 191878,
       "num": 191878,
       "word": "中国赛翁泓阳男单冠军",
@@ -4825,6 +4889,14 @@
       "onboard_time": 1727064862,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 191402,
+      "num": 191402,
+      "word": "成都不入秋了直接入冬",
+      "onboard_time": 1727185400,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 191219,
@@ -4987,6 +5059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 187154,
+      "num": 187154,
+      "word": "马龙王楚钦适应场地训练",
+      "onboard_time": 1727182819,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 187008,
       "num": 187008,
       "word": "iPhone15ProMax为上半年最畅销手机",
@@ -5137,14 +5217,6 @@
       "onboard_time": 1726995379,
       "rank": 34,
       "category": "音乐,体育"
-    },
-    {
-      "raw_hot": 181770,
-      "num": 175515,
-      "word": "周到拍的马龙王楚钦",
-      "onboard_time": 1727184680,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 181625,
@@ -5345,6 +5417,14 @@
       "onboard_time": 1727175859,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 175359,
+      "num": 175359,
+      "word": "京城大师赛",
+      "onboard_time": 1727186660,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 174929,
@@ -5795,12 +5875,36 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 161527,
+      "num": 209265,
+      "word": "老太被当赌徒误抓殴打纪委展开调查",
+      "onboard_time": 1727182939,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 161256,
       "num": 161256,
       "word": "迪丽热巴超飒花絮图",
       "onboard_time": 1726990279,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 160776,
+      "num": 160776,
+      "word": "男子4分钟买俩金镯店员报警",
+      "onboard_time": 1727171358,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 159676,
+      "num": 159676,
+      "word": "CP30 开不开票",
+      "onboard_time": 1727187320,
+      "rank": 42,
+      "category": "动漫"
     },
     {
       "raw_hot": 159513,
@@ -5825,14 +5929,6 @@
       "onboard_time": 1726967899,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 158142,
-      "num": 209265,
-      "word": "老太被当赌徒误抓殴打纪委展开调查",
-      "onboard_time": 1727182939,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 157678,
@@ -5891,20 +5987,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 156140,
-      "num": 156140,
-      "word": "男子4分钟买俩金镯店员报警",
-      "onboard_time": 1727171358,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 155896,
       "num": 155896,
       "word": "我家现实都没这么全的家具",
       "onboard_time": 1726979539,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 155874,
+      "num": 155874,
+      "word": "足协杯",
+      "onboard_time": 1727186182,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 155197,
@@ -5936,6 +6032,14 @@
       "word": "姑娘奶茶只喝三分甜牙齿严重酸蚀",
       "onboard_time": 1726923742,
       "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 154192,
+      "num": 154192,
+      "word": "强冷空气已预定国庆档期",
+      "onboard_time": 1727184559,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -6251,6 +6355,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 145964,
+      "num": 145964,
+      "word": "王者荣耀新赛季",
+      "onboard_time": 1727187561,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 145840,
       "num": 145840,
       "word": "江苏一地公示15名干部6人有曾用名",
@@ -6419,6 +6531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 141376,
+      "num": 141376,
+      "word": "石家庄一涉摄像头事件民宿歇业关闭",
+      "onboard_time": 1727187080,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 141281,
       "num": 141281,
       "word": "2024全国游泳锦标赛",
@@ -6563,14 +6683,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 137695,
-      "num": 137695,
-      "word": "马龙王楚钦适应场地训练",
-      "onboard_time": 1727182819,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
       "raw_hot": 137448,
       "num": 137448,
       "word": "这次听到樊振东声音了",
@@ -6689,14 +6801,6 @@
       "onboard_time": 1727137281,
       "rank": 42,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 134741,
-      "num": 134741,
-      "word": "强冷空气已预定国庆档期",
-      "onboard_time": 1727184559,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 134674,
@@ -7643,6 +7747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 96608,
+      "num": 519512,
+      "word": "人均翻车的直播时代到底怎么了",
+      "onboard_time": 1727186060,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 96465,
       "num": 96465,
       "word": "谁在共享充电宝生意中赚钱",
@@ -8291,6 +8403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 59519,
+      "num": 513680,
+      "word": "网约车便衣执法事件5个要点要说清",
+      "onboard_time": 1727186781,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 59468,
       "num": 59468,
       "word": "迪丽热巴动态版一则",
@@ -8491,6 +8611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 52844,
+      "num": 313094,
+      "word": "张新成 在线征集成熟热梗",
+      "onboard_time": 1727187021,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 52793,
       "num": 145861,
       "word": "好喜欢看黄景瑜哭",
@@ -8569,6 +8697,14 @@
       "onboard_time": 1727068350,
       "rank": 20,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 50510,
+      "num": 340335,
+      "word": "唐嫣巴黎时装周气场全开",
+      "onboard_time": 1727184801,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 50114,
@@ -8740,7 +8876,7 @@
     },
     {
       "raw_hot": 42885,
-      "num": 865932,
+      "num": 912665,
       "word": "天山南北唱新歌",
       "onboard_time": 1726998799,
       "rank": 2,
@@ -8913,6 +9049,14 @@
       "onboard_time": 1727026933,
       "rank": 45,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 36489,
+      "num": 317645,
+      "word": "揭秘网红医生伪科普生意经",
+      "onboard_time": 1727186841,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 36393,
@@ -9315,6 +9459,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 26210,
+      "num": 534633,
+      "word": "河南永城多处被淹市民发声",
+      "onboard_time": 1727187441,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 25936,
       "num": 135765,
       "word": "潘展乐温州话就是破纪录",
@@ -9425,6 +9577,14 @@
       "onboard_time": 1727091260,
       "rank": 49,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 21083,
+      "num": 331664,
+      "word": "超级主播带货为何频繁翻车",
+      "onboard_time": 1727187021,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 20674,
@@ -9601,14 +9761,6 @@
       "onboard_time": 1726955050,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 12216,
-      "num": 175527,
-      "word": "唐嫣巴黎时装周气场全开",
-      "onboard_time": 1727184801,
-      "rank": 31,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 12095,
