@@ -1,6 +1,6 @@
 {
   "startTime": 1727195285620,
-  "endTime": 1727195285620,
+  "endTime": 1727196268280,
   "band_list": [
     {
       "raw_hot": 812186,
@@ -49,6 +49,14 @@
       "onboard_time": 1727190140,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 359677,
+      "num": 359677,
+      "word": "A股全面爆发",
+      "onboard_time": 1727193259,
+      "rank": 14,
+      "category": "财经"
     },
     {
       "raw_hot": 334777,
@@ -105,14 +113,6 @@
       "onboard_time": 1727188941,
       "rank": 7,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 217396,
-      "num": 217396,
-      "word": "A股全面爆发",
-      "onboard_time": 1727193259,
-      "rank": 14,
-      "category": "财经"
     },
     {
       "raw_hot": 207613,
@@ -179,6 +179,14 @@
       "category": "社会新闻,国外时政"
     },
     {
+      "raw_hot": 140888,
+      "num": 238565,
+      "word": "男子刷手机掉海里漂了3小时",
+      "onboard_time": 1727177058,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 130548,
       "num": 130548,
       "word": "东北雨姐直播间酸菜疑货不对板",
@@ -233,14 +241,6 @@
       "onboard_time": 1727191880,
       "rank": 31,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 103825,
-      "num": 238565,
-      "word": "男子刷手机掉海里漂了3小时",
-      "onboard_time": 1727177058,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 103407,
@@ -316,7 +316,7 @@
     },
     {
       "raw_hot": 78754,
-      "num": 78754,
+      "num": 88826,
       "word": "半熟男女",
       "onboard_time": 1727193918,
       "rank": 41,
@@ -393,6 +393,22 @@
       "onboard_time": 1727191761,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 63179,
+      "num": 63179,
+      "word": "卫昭 月落的地方就是家的方向",
+      "onboard_time": 1727195896,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 62691,
+      "num": 62691,
+      "word": "马龙王楚钦适应场地训练",
+      "onboard_time": 1727182819,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 3387,
