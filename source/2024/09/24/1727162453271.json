@@ -1,0 +1,410 @@
+{
+  "runTime": 1727162453271,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1255130,
+        "num": 1255130,
+        "word": "俩姑娘出去玩捡到一斤黄金",
+        "onboard_time": 1727152462,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 888622,
+        "num": 1002956,
+        "word": "东北雨姐60S广告报价100万",
+        "onboard_time": 1727158580,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 7076,
+        "num": 765739,
+        "word": "铸牢共同体中华一家亲",
+        "onboard_time": 1727148499,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 754938,
+        "num": 754938,
+        "word": "胖东来禁止公司上下随礼",
+        "onboard_time": 1727150840,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 702758,
+        "num": 702758,
+        "word": "王楚钦COSMO首封",
+        "onboard_time": 1727160859,
+        "rank": 4,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 680065,
+        "num": 680065,
+        "word": "江苏南通一年轻女村干部遇害",
+        "onboard_time": 1727160440,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 599473,
+        "num": 599473,
+        "word": "华为发布会",
+        "onboard_time": 1727159898,
+        "rank": 6,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 444105,
+        "num": 586861,
+        "word": "莫文蔚晒与肖战合照",
+        "onboard_time": 1727154141,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 420003,
+        "num": 582516,
+        "word": "林依晨床头放着几百张老公的视频截图",
+        "onboard_time": 1727160498,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 41533,
+        "num": 581978,
+        "word": "两市半日成交额超5200亿",
+        "onboard_time": 1727161099,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 581954,
+        "num": 581954,
+        "word": "100万元房贷30年将少还10万",
+        "onboard_time": 1727144118,
+        "rank": 10,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 443818,
+        "num": 443818,
+        "word": "极乐鸟发长文",
+        "onboard_time": 1727159360,
+        "rank": 11,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 411924,
+        "num": 411924,
+        "word": "赵丽颖的哭戏还是这么顶",
+        "onboard_time": 1727161039,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 365554,
+        "num": 365554,
+        "word": "山西一地新娘被众人绑电线杆上",
+        "onboard_time": 1727158219,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22770,
+        "num": 361395,
+        "word": "乡村学校老师怎么变成保姆了",
+        "onboard_time": 1727162240,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 360520,
+        "num": 360520,
+        "word": "山西警方通报失联40多天女童已身亡",
+        "onboard_time": 1727155700,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 347614,
+        "num": 347614,
+        "word": "降低存量房贷利率",
+        "onboard_time": 1727141659,
+        "rank": 16,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 299659,
+        "num": 299659,
+        "word": "何知南高鹏复合",
+        "onboard_time": 1727160199,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 275161,
+        "num": 298285,
+        "word": "于正再宣新人男演员",
+        "onboard_time": 1727159119,
+        "rank": 18,
+        "category": "艺人,剧集"
+      },
+      {
+        "raw_hot": 264920,
+        "num": 296399,
+        "word": "甜馨参加小姨婚礼",
+        "onboard_time": 1727161941,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 483815,
+        "num": 291804,
+        "word": "博主打击酒店隐藏摄像头遭多人围堵",
+        "onboard_time": 1727147238,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 325444,
+        "num": 290609,
+        "word": "长期不社交的人会有什么变化",
+        "onboard_time": 1727158999,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 289042,
+        "num": 289042,
+        "word": "樊振东去打羽毛球了",
+        "onboard_time": 1727158099,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 282435,
+        "num": 282435,
+        "word": "知音漫客",
+        "onboard_time": 1727160017,
+        "rank": 23,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 259757,
+        "num": 259757,
+        "word": "专家称现在确实要苦一苦商业银行了",
+        "onboard_time": 1727146100,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251873,
+        "num": 251873,
+        "word": "石家庄",
+        "onboard_time": 1727160799,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247703,
+        "num": 247703,
+        "word": "马可波罗星界特工新皮肤",
+        "onboard_time": 1727162181,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 239180,
+        "num": 239180,
+        "word": "官方通报工作人员便装亮证查网约车",
+        "onboard_time": 1727143519,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232914,
+        "num": 232914,
+        "word": "赵丽颖张若昀 好演员间的惺惺相惜",
+        "onboard_time": 1727154381,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 224537,
+        "num": 231974,
+        "word": "东北雨姐带货红薯厂家承认含木薯粉",
+        "onboard_time": 1727146458,
+        "rank": 29,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 231301,
+        "num": 231301,
+        "word": "钟南山说身体很好基本恢复了",
+        "onboard_time": 1727158700,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216425,
+        "num": 216425,
+        "word": "股市",
+        "onboard_time": 1727160799,
+        "rank": 31,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 212786,
+        "num": 212786,
+        "word": "九省通衢的气质具象化了",
+        "onboard_time": 1727144598,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209522,
+        "num": 209522,
+        "word": "贺峻霖和三位前辈主持中传校庆",
+        "onboard_time": 1727162059,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209373,
+        "num": 209373,
+        "word": "汪苏泷演唱会官宣三站",
+        "onboard_time": 1727161579,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 209164,
+        "num": 209164,
+        "word": "女童吃冷藏水果后大脑感染高烧不退",
+        "onboard_time": 1727156179,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201181,
+        "num": 201181,
+        "word": "存贷利率下调每年将减少利息1500亿",
+        "onboard_time": 1727160017,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190815,
+        "num": 190815,
+        "word": "吴磊登台华为发布会",
+        "onboard_time": 1727162240,
+        "rank": 37,
+        "category": "艺人,数码"
+      },
+      {
+        "raw_hot": 187454,
+        "num": 187454,
+        "word": "王者合金弹头新联动",
+        "onboard_time": 1727161699,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 183838,
+        "num": 183838,
+        "word": "女子被家政偷走50多瓶茅台",
+        "onboard_time": 1727159839,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174373,
+        "num": 174373,
+        "word": "降低存量房贷利率切实为民纾困",
+        "onboard_time": 1727153001,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169700,
+        "num": 169700,
+        "word": "电影816定档",
+        "onboard_time": 1727161820,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 169090,
+        "num": 169090,
+        "word": "A股8000亿资金来了",
+        "onboard_time": 1727154620,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 168776,
+        "num": 168776,
+        "word": "开车后也能改签火车票",
+        "onboard_time": 1727157800,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167421,
+        "num": 167421,
+        "word": "爱你首发预告",
+        "onboard_time": 1727162118,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 36144,
+        "num": 166792,
+        "word": "谁懂拼多多偏远地区包邮的含金量",
+        "onboard_time": 1727162240,
+        "rank": 45,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 166526,
+        "num": 166526,
+        "word": "4个症状说明身体需要立刻休息",
+        "onboard_time": 1727146519,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 166173,
+        "num": 166173,
+        "word": "沪指暴涨100点",
+        "onboard_time": 1727162420,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 165744,
+        "num": 165744,
+        "word": "我国成功发射一箭8星",
+        "onboard_time": 1727154082,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 164624,
+        "num": 164624,
+        "word": "徐明浩还给粉丝金块",
+        "onboard_time": 1727160979,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#让航天科技成果更好造福人类#"
+    }
+  }
+}
