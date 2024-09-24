@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/09/01 00:25:38 ~ 2024/09/25 06:39:19
+本榜单时间：2024/09/01 00:25:38 ~ 2024/09/25 07:21:24
 </p>
 </blockquote>
 <p>
@@ -5607,6 +5607,12 @@ iPhone16史上最容易维修iPhone（热度：900387）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E9%95%BF%E6%97%B6%E9%97%B4%E5%9D%90%E6%98%9F%E5%B7%B4%E5%85%8B%E9%97%A8%E5%8F%A3%E5%91%98%E5%B7%A5%E6%8A%A5%E8%AD%A6%E5%8A%9D%E7%A6%BB%23" target="weibo">
+老人长时间坐星巴克门口员工报警劝离（热度：866210）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E7%9B%B4%E6%92%AD%E9%97%B4%E9%AB%98%E9%A2%9D%E8%BF%94%E5%88%A9%E9%AA%97%E5%B1%80%23" target="weibo">
 央视曝光直播间高额返利骗局（热度：864325）
 </a>
@@ -6005,12 +6011,6 @@ WBG战胜JDG（热度：837121）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%88%B1%E5%A5%87%E8%89%BA%E5%B7%B2%E9%80%80%E6%AC%BE%23" target="weibo">
 爱奇艺已退款（热度：821331）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%2370%E4%B8%87%E4%B9%B0%E4%BE%84%E5%A5%B3%E4%B8%80%E5%A5%97%E6%88%BF%E5%A5%B9%E5%8F%8D%E6%82%94%E4%BA%86%E6%80%8E%E4%B9%88%E5%8A%9E%23" target="weibo">
-70万买侄女一套房她反悔了怎么办（热度：821118）
 </a>
 </li>
 

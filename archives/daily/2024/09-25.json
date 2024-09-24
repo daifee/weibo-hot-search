@@ -1,7 +1,15 @@
 {
   "startTime": 1727195285620,
-  "endTime": 1727217559419,
+  "endTime": 1727220084639,
   "band_list": [
+    {
+      "raw_hot": 866210,
+      "num": 866210,
+      "word": "老人长时间坐星巴克门口员工报警劝离",
+      "onboard_time": 1727199072,
+      "rank": 44,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 812186,
       "num": 917606,
@@ -19,11 +27,35 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 675813,
+      "num": 675813,
+      "word": "石家庄警方通报民宿摄像头事件",
+      "onboard_time": 1727197514,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 574243,
+      "num": 574243,
+      "word": "学校禁止学生带牛奶挨个查包",
+      "onboard_time": 1727207290,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 555305,
       "num": 555305,
       "word": "深圳一男子被悬赏340万",
       "onboard_time": 1727189002,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 517693,
+      "num": 517693,
+      "word": "南京街头现大量百元钞票",
+      "onboard_time": 1727200273,
+      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -51,27 +83,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 429944,
-      "num": 502193,
-      "word": "石家庄警方通报民宿摄像头事件",
-      "onboard_time": 1727197514,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 417851,
       "num": 199441,
       "word": "警方通报博主打击隐藏摄像头遭围堵",
       "onboard_time": 1727190140,
       "rank": 15,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 386104,
-      "num": 386104,
-      "word": "老人长时间坐星巴克门口员工报警劝离",
-      "onboard_time": 1727199072,
-      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -99,6 +115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 302967,
+      "num": 302967,
+      "word": "曝光摄像头遭围堵博主放弃追责冲突方",
+      "onboard_time": 1727215453,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 281534,
       "num": 230844,
       "word": "石家庄一涉摄像头事件民宿歇业关闭",
@@ -107,12 +131,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 266964,
-      "num": 266964,
-      "word": "学校禁止学生带牛奶挨个查包",
-      "onboard_time": 1727207290,
-      "rank": 23,
-      "category": "社会新闻"
+      "raw_hot": 264153,
+      "num": 238873,
+      "word": "大张伟辟谣是北京人就打过大张伟",
+      "onboard_time": 1727204771,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 261129,
@@ -131,6 +155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 256849,
+      "num": 256849,
+      "word": "东北雨姐直播间酸菜疑货不对板",
+      "onboard_time": 1727194338,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 252119,
       "num": 218972,
       "word": "全红婵被陈若琳问体重回答没有秤",
@@ -139,28 +171,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 246045,
-      "num": 246045,
-      "word": "东北雨姐直播间酸菜疑货不对板",
-      "onboard_time": 1727194338,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 245703,
       "num": 245703,
       "word": "黎巴嫩",
       "onboard_time": 1727188941,
       "rank": 7,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 239599,
-      "num": 239599,
-      "word": "南京街头现大量百元钞票",
-      "onboard_time": 1727200273,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 207613,
@@ -243,6 +259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 138634,
+      "num": 138634,
+      "word": "只有她转身看到了台下的薛之谦",
+      "onboard_time": 1727202793,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
       "raw_hot": 124288,
       "num": 124288,
       "word": "朋友圈可以发live实况图是好是坏",
@@ -251,20 +275,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 120796,
+      "num": 105524,
+      "word": "专家提醒不必着急去银行",
+      "onboard_time": 1727208852,
+      "rank": 45,
+      "category": "财经"
+    },
+    {
       "raw_hot": 120672,
       "num": 120672,
       "word": "邓为时装周戴口罩",
       "onboard_time": 1727186960,
       "rank": 26,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 119287,
-      "num": 119287,
-      "word": "曝光摄像头遭围堵博主放弃追责冲突方",
-      "onboard_time": 1727215453,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 118340,
@@ -291,6 +315,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 112070,
+      "num": 112070,
+      "word": "以军空袭已致黎巴嫩50名儿童死亡",
+      "onboard_time": 1727181499,
+      "rank": 43,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 110234,
       "num": 110234,
       "word": "云南地里是有放射性物质么",
@@ -307,20 +339,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 99179,
+      "num": 99179,
+      "word": "男子4分钟买俩金镯店员报警",
+      "onboard_time": 1727171358,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 97504,
       "num": 97504,
       "word": "强冷空气已预定国庆档期",
       "onboard_time": 1727184559,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 94603,
-      "num": 94603,
-      "word": "大张伟辟谣是北京人就打过大张伟",
-      "onboard_time": 1727204771,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 90290,
@@ -347,6 +379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 87441,
+      "num": 87441,
+      "word": "180斤男生3月怒减40斤桃花都多了",
+      "onboard_time": 1727179940,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 85094,
       "num": 85094,
       "word": "张之臻回应获亚军",
@@ -361,14 +401,6 @@
       "onboard_time": 1727181140,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 79329,
-      "num": 79329,
-      "word": "180斤男生3月怒减40斤桃花都多了",
-      "onboard_time": 1727179940,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 78754,
@@ -396,7 +428,7 @@
     },
     {
       "raw_hot": 75350,
-      "num": 75350,
+      "num": 83945,
       "word": "肖战往事随风舞台播放量破亿",
       "onboard_time": 1727190140,
       "rank": 44,
@@ -409,14 +441,6 @@
       "onboard_time": 1727190502,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 72349,
-      "num": 68180,
-      "word": "专家提醒不必着急去银行",
-      "onboard_time": 1727208852,
-      "rank": 45,
-      "category": "财经"
     },
     {
       "raw_hot": 71968,
@@ -432,6 +456,14 @@
       "word": "国庆部分航班票价降超一半",
       "onboard_time": 1727188161,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 70361,
+      "num": 70361,
+      "word": "博主大娃回应被东北雨姐殴打",
+      "onboard_time": 1727204112,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -467,14 +499,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 62753,
-      "num": 62753,
-      "word": "以军空袭已致黎巴嫩50名儿童死亡",
-      "onboard_time": 1727181499,
-      "rank": 43,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 62691,
       "num": 62691,
       "word": "马龙王楚钦适应场地训练",
@@ -483,27 +507,43 @@
       "category": "体育"
     },
     {
-      "raw_hot": 59862,
-      "num": 68619,
-      "word": "只有她转身看到了台下的薛之谦",
-      "onboard_time": 1727202793,
-      "rank": 46,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 53936,
-      "num": 53936,
-      "word": "男子4分钟买俩金镯店员报警",
-      "onboard_time": 1727171358,
-      "rank": 40,
+      "raw_hot": 60369,
+      "num": 64213,
+      "word": "寻甸电商园区书记回应小英翻车",
+      "onboard_time": 1727210170,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 46607,
-      "num": 46607,
-      "word": "博主大娃回应被东北雨姐殴打",
-      "onboard_time": 1727204112,
-      "rank": 45,
+      "raw_hot": 50200,
+      "num": 75613,
+      "word": "周芳谈王一博四年前后反差",
+      "onboard_time": 1727213351,
+      "rank": 49,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 48712,
+      "num": 64193,
+      "word": "不敢想象表白墙上会蛐蛐成啥样",
+      "onboard_time": 1727219116,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 48382,
+      "num": 64179,
+      "word": "6人偷渡缅甸深陷境外诈骗窝点",
+      "onboard_time": 1727198833,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 48140,
+      "num": 64151,
+      "word": "芦淞大桥事故现场堆满鲜花玩偶",
+      "onboard_time": 1727210831,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -539,36 +579,20 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 37673,
-      "num": 50239,
-      "word": "周芳谈王一博四年前后反差",
-      "onboard_time": 1727213351,
-      "rank": 49,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 36656,
-      "num": 36656,
-      "word": "6人偷渡缅甸深陷境外诈骗窝点",
-      "onboard_time": 1727198833,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 36212,
-      "num": 43268,
-      "word": "第五人格",
-      "onboard_time": 1727190381,
-      "rank": 46,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 35445,
-      "num": 38509,
+      "raw_hot": 37265,
+      "num": 64062,
       "word": "博主回应曝光民宿偷拍摄像头遭围堵",
       "onboard_time": 1727199552,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 36212,
+      "num": 64055,
+      "word": "第五人格",
+      "onboard_time": 1727190381,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 33911,
@@ -577,22 +601,6 @@
       "onboard_time": 1727198954,
       "rank": 42,
       "category": "演出"
-    },
-    {
-      "raw_hot": 32680,
-      "num": 36598,
-      "word": "芦淞大桥事故现场堆满鲜花玩偶",
-      "onboard_time": 1727210831,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 30262,
-      "num": 46177,
-      "word": "寻甸电商园区书记回应小英翻车",
-      "onboard_time": 1727210170,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 29069,
@@ -643,18 +651,18 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 3387,
-      "num": 486859,
-      "word": "天山南北唱新歌",
-      "onboard_time": 1727178379,
+      "raw_hot": 4392,
+      "num": 578810,
+      "word": "老铁山单日记录迁徙猛禽过万只",
+      "onboard_time": 1727148199,
       "rank": 2,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2596,
-      "num": 311336,
-      "word": "老铁山单日记录迁徙猛禽过万只",
-      "onboard_time": 1727148199,
+      "raw_hot": 3387,
+      "num": 486859,
+      "word": "天山南北唱新歌",
+      "onboard_time": 1727178379,
       "rank": 2,
       "category": "社会新闻"
     }
