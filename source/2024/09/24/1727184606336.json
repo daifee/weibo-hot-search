@@ -1,0 +1,410 @@
+{
+  "runTime": 1727184606336,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1907487,
+        "num": 1907487,
+        "word": "7岁女孩不到1秒破世界纪录",
+        "onboard_time": 1727176939,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 686597,
+        "num": 686597,
+        "word": "男子刷手机掉海里漂了3小时",
+        "onboard_time": 1727177058,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28791,
+        "num": 686491,
+        "word": "天山南北唱新歌",
+        "onboard_time": 1727178379,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 686482,
+        "num": 686482,
+        "word": "致6死7伤交通事故中母子3人遇难",
+        "onboard_time": 1727181739,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 983295,
+        "num": 679313,
+        "word": "石家庄有民宿称已在自查摄像头",
+        "onboard_time": 1727180838,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 653588,
+        "num": 653588,
+        "word": "白月梵星",
+        "onboard_time": 1727181140,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 621751,
+        "num": 621751,
+        "word": "黎巴嫩经历最血腥一天",
+        "onboard_time": 1727175798,
+        "rank": 6,
+        "category": "社会新闻,国外时政"
+      },
+      {
+        "raw_hot": 357972,
+        "num": 357972,
+        "word": "商竣程夺冠",
+        "onboard_time": 1727182458,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 301768,
+        "num": 301768,
+        "word": "家业 韩东君",
+        "onboard_time": 1727177959,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141166,
+        "num": 246575,
+        "word": "肯德基刚来中国时还不叫肯德基",
+        "onboard_time": 1727163919,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 611951,
+        "num": 246224,
+        "word": "金鹤龙 迪丽热巴妆造",
+        "onboard_time": 1727171118,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 241733,
+        "num": 241733,
+        "word": "男子曝近十年被物业多收39万电费",
+        "onboard_time": 1727168839,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217669,
+        "num": 217669,
+        "word": "俩姑娘出去玩捡到一斤黄金",
+        "onboard_time": 1727152462,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215904,
+        "num": 215904,
+        "word": "张元英穿搭撞衫脱粉收容所",
+        "onboard_time": 1727168120,
+        "rank": 13,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 153631,
+        "num": 209265,
+        "word": "老太被当赌徒误抓殴打纪委展开调查",
+        "onboard_time": 1727182939,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33004,
+        "num": 203214,
+        "word": "初进大学来点iQOO小新机",
+        "onboard_time": 1727180899,
+        "rank": 15,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 202748,
+        "num": 202748,
+        "word": "邓为刺绣黑西装",
+        "onboard_time": 1727184020,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 193084,
+        "num": 193084,
+        "word": "山花烂漫时 一场病压垮一个家庭",
+        "onboard_time": 1727183779,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 184533,
+        "num": 184533,
+        "word": "杭州人3天在同个商场买了7个亿",
+        "onboard_time": 1727174300,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179751,
+        "num": 179751,
+        "word": "唐嫣台步走出维密天使感",
+        "onboard_time": 1727163078,
+        "rank": 19,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 595981,
+        "num": 179625,
+        "word": "博主曝光民宿偷拍摄像头警方已立案",
+        "onboard_time": 1727160799,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 436511,
+        "num": 179219,
+        "word": "网红小英不能开着路虎卖惨",
+        "onboard_time": 1727175258,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 173335,
+        "num": 179054,
+        "word": "极乐鸟发长文",
+        "onboard_time": 1727159360,
+        "rank": 22,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 403121,
+        "num": 178545,
+        "word": "迪丽热巴看秀look",
+        "onboard_time": 1727167398,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 307670,
+        "num": 178298,
+        "word": "女子12楼外墙施工遭老太割安全绳",
+        "onboard_time": 1727173339,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 299396,
+        "num": 177857,
+        "word": "大爷凌晨卖菜只赚27元被骗200元",
+        "onboard_time": 1727181319,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270499,
+        "num": 177668,
+        "word": "考公和考研同时上岸选择哪个",
+        "onboard_time": 1727179579,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 57964,
+        "num": 177352,
+        "word": "探索新境探索家直播",
+        "onboard_time": 1727183362,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 236827,
+        "num": 176776,
+        "word": "180斤男生3月怒减40斤桃花都多了",
+        "onboard_time": 1727179940,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160243,
+        "num": 176392,
+        "word": "邓为 迪奥",
+        "onboard_time": 1727164759,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 35473,
+        "num": 176311,
+        "word": "iQOO性能特爆战士",
+        "onboard_time": 1727180357,
+        "rank": 30,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 39264,
+        "num": 175979,
+        "word": "多地鼓励外卖骑手充当食品安全监督员",
+        "onboard_time": 1727182698,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223950,
+        "num": 175389,
+        "word": "博主打击酒店隐藏摄像头遭多人围堵",
+        "onboard_time": 1727147238,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175304,
+        "num": 175304,
+        "word": "黑神话IGN年度投票支持率急速下降",
+        "onboard_time": 1727174779,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 167652,
+        "num": 167652,
+        "word": "周也Choker烟熏妆",
+        "onboard_time": 1727175859,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158668,
+        "num": 158668,
+        "word": "芒果拍节目还是太抽象了",
+        "onboard_time": 1727182639,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151442,
+        "num": 151442,
+        "word": "男子4分钟买俩金镯店员报警",
+        "onboard_time": 1727171358,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146835,
+        "num": 146835,
+        "word": "朋友圈可以发live实况图是好是坏",
+        "onboard_time": 1727183059,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 143874,
+        "num": 143874,
+        "word": "李梦带了10套旗袍去平遥",
+        "onboard_time": 1727171420,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1431890,
+        "num": 142674,
+        "word": "高档小区内8岁女孩掉深井溺亡",
+        "onboard_time": 1727177120,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141281,
+        "num": 141281,
+        "word": "2024全国游泳锦标赛",
+        "onboard_time": 1727183362,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136595,
+        "num": 136595,
+        "word": "像炒股一样追星",
+        "onboard_time": 1727183178,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 134741,
+        "num": 134741,
+        "word": "强冷空气已预定国庆档期",
+        "onboard_time": 1727184559,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132432,
+        "num": 132432,
+        "word": "中国将在月球上建无线网",
+        "onboard_time": 1727179520,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 130252,
+        "num": 130252,
+        "word": "选角导演没想到张新成王玉雯认识16年",
+        "onboard_time": 1727176039,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127539,
+        "num": 127539,
+        "word": "田曦薇给自己演yue了",
+        "onboard_time": 1727164519,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126012,
+        "num": 126012,
+        "word": "马龙王楚钦适应场地训练",
+        "onboard_time": 1727182819,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120920,
+        "num": 120920,
+        "word": "公司八卦 无领导小组讨论",
+        "onboard_time": 1727181859,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117906,
+        "num": 117906,
+        "word": "商竣程创造历史",
+        "onboard_time": 1727184559,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115586,
+        "num": 115586,
+        "word": "日专生的就业方向如此清晰",
+        "onboard_time": 1727183599,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#我国航天事业实现历史性高质量跨越式发展#"
+    }
+  }
+}
