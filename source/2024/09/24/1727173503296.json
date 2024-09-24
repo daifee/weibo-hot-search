@@ -1,0 +1,410 @@
+{
+  "runTime": 1727173503296,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2184194,
+        "num": 2184194,
+        "word": "12306买票不一定先到先得",
+        "onboard_time": 1727168839,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 758085,
+        "num": 758085,
+        "word": "肯德基刚来中国时还不叫肯德基",
+        "onboard_time": 1727163919,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 5633,
+        "num": 618012,
+        "word": "老铁山单日记录迁徙猛禽过万只",
+        "onboard_time": 1727148199,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 590015,
+        "num": 590015,
+        "word": "被王毅外长认出来是什么感受",
+        "onboard_time": 1727163498,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 530709,
+        "num": 530709,
+        "word": "李梦带了10套旗袍去平遥",
+        "onboard_time": 1727171420,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 480216,
+        "num": 480216,
+        "word": "张元英穿搭撞衫脱粉收容所",
+        "onboard_time": 1727168120,
+        "rank": 5,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 462122,
+        "num": 462122,
+        "word": "俩姑娘出去玩捡到一斤黄金",
+        "onboard_time": 1727152462,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 437963,
+        "num": 437963,
+        "word": "夫妻打造高端人设骗了7人600多万元",
+        "onboard_time": 1727166678,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 259495,
+        "num": 347881,
+        "word": "东北雨姐60S广告报价100万",
+        "onboard_time": 1727158580,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100785,
+        "num": 346230,
+        "word": "降低存量房贷利率切实为民纾困",
+        "onboard_time": 1727153001,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 947446,
+        "num": 345949,
+        "word": "金鹤龙 迪丽热巴妆造",
+        "onboard_time": 1727171118,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 345489,
+        "num": 345489,
+        "word": "菜摊母子三人遇难邻居自发帮忙卖菜",
+        "onboard_time": 1727172140,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 344988,
+        "num": 344988,
+        "word": "极乐鸟发长文",
+        "onboard_time": 1727159360,
+        "rank": 12,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 55508,
+        "num": 343165,
+        "word": "骗了行骗者该不该被处罚",
+        "onboard_time": 1727172198,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38713,
+        "num": 334062,
+        "word": "谁懂拼多多偏远地区包邮的含金量",
+        "onboard_time": 1727162240,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 278854,
+        "num": 329815,
+        "word": "微博音乐盛典节目单",
+        "onboard_time": 1727170518,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 197951,
+        "num": 324525,
+        "word": "甜馨参加小姨婚礼",
+        "onboard_time": 1727161941,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30552,
+        "num": 312241,
+        "word": "跟着英伦腔外卖小哥特种兵旅游",
+        "onboard_time": 1727170579,
+        "rank": 17,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 191642,
+        "num": 310707,
+        "word": "唐嫣台步走出维密天使感",
+        "onboard_time": 1727163078,
+        "rank": 18,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 187041,
+        "num": 299182,
+        "word": "田曦薇给自己演yue了",
+        "onboard_time": 1727164519,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96432,
+        "num": 291561,
+        "word": "年轻人开始在咖啡中找健康",
+        "onboard_time": 1727168541,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 481039,
+        "num": 290961,
+        "word": "博主打击酒店隐藏摄像头遭多人围堵",
+        "onboard_time": 1727147238,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 284597,
+        "num": 284597,
+        "word": "庄周新皮肤牧神诗旅",
+        "onboard_time": 1727173279,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 279830,
+        "num": 279830,
+        "word": "男子曝近十年被物业多收39万电费",
+        "onboard_time": 1727168839,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 275716,
+        "num": 275716,
+        "word": "周扬青爸爸从小就不让哭",
+        "onboard_time": 1727171779,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 273648,
+        "num": 273648,
+        "word": "迪丽热巴看秀look",
+        "onboard_time": 1727167398,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 240330,
+        "num": 240330,
+        "word": "逆水寒",
+        "onboard_time": 1727172798,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 147039,
+        "num": 238337,
+        "word": "莫文蔚晒与肖战合照",
+        "onboard_time": 1727154141,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 142706,
+        "num": 228125,
+        "word": "婆婆曾反对韩安冉宋浩然交往",
+        "onboard_time": 1727164759,
+        "rank": 28,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 40320,
+        "num": 226117,
+        "word": "商竣程vs穆塞蒂",
+        "onboard_time": 1727172679,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1403072,
+        "num": 217250,
+        "word": "芦淞大桥事故中一家母子三人遇难",
+        "onboard_time": 1727169199,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213466,
+        "num": 213466,
+        "word": "华为发布会",
+        "onboard_time": 1727159898,
+        "rank": 31,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 201595,
+        "num": 201595,
+        "word": "Asoul离职员工的叙述",
+        "onboard_time": 1727172679,
+        "rank": 32,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 193144,
+        "num": 193144,
+        "word": "等一个Mate70",
+        "onboard_time": 1727162840,
+        "rank": 33,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 190007,
+        "num": 190007,
+        "word": "IGN",
+        "onboard_time": 1727172380,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 174497,
+        "num": 174497,
+        "word": "博主曝光民宿偷拍摄像头警方已立案",
+        "onboard_time": 1727160799,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165556,
+        "num": 165556,
+        "word": "中国对美国PVH集团启动调查",
+        "onboard_time": 1727168719,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 163220,
+        "num": 163220,
+        "word": "小伙用榫卯结构做面包拿世界冠军",
+        "onboard_time": 1727171660,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158989,
+        "num": 158989,
+        "word": "铁路12306上新同车接续功能",
+        "onboard_time": 1727171779,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155091,
+        "num": 155091,
+        "word": "王楚钦孙颖莎到达首钢",
+        "onboard_time": 1727168598,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146103,
+        "num": 146103,
+        "word": "花花cos大象可爱爆表",
+        "onboard_time": 1727170459,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 141090,
+        "num": 141090,
+        "word": "A股近百股涨停",
+        "onboard_time": 1727169380,
+        "rank": 41,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 137441,
+        "num": 137441,
+        "word": "旧电脑寄给爱回收凌晨收到诡异短信",
+        "onboard_time": 1727164701,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135830,
+        "num": 135830,
+        "word": "为什么小众旅游越来越火",
+        "onboard_time": 1727169800,
+        "rank": 43,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 134726,
+        "num": 134726,
+        "word": "住了很久的出租屋要退租了",
+        "onboard_time": 1727172318,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 129800,
+        "num": 129800,
+        "word": "胖东来禁止公司上下随礼",
+        "onboard_time": 1727150840,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123434,
+        "num": 123434,
+        "word": "男子种了10年的铁树开花了",
+        "onboard_time": 1727164640,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122019,
+        "num": 122019,
+        "word": "女子12楼外墙施工遭老太割安全绳",
+        "onboard_time": 1727173339,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121152,
+        "num": 121152,
+        "word": "鸿蒙NEXT10月8日公测",
+        "onboard_time": 1727172618,
+        "rank": 48,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 117465,
+        "num": 117465,
+        "word": "美国PVH集团无端抵制新疆棉花",
+        "onboard_time": 1727169859,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#让航天科技成果更好造福人类#"
+    }
+  }
+}

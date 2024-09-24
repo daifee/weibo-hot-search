@@ -1,6 +1,6 @@
 {
   "startTime": 1726936020707,
-  "endTime": 1727170682600,
+  "endTime": 1727173503296,
   "band_list": [
     {
       "raw_hot": 6817146,
@@ -97,6 +97,14 @@
       "onboard_time": 1727144118,
       "rank": 0,
       "category": "财经"
+    },
+    {
+      "raw_hot": 2184194,
+      "num": 2184194,
+      "word": "12306买票不一定先到先得",
+      "onboard_time": 1727168839,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2162735,
@@ -361,6 +369,14 @@
       "onboard_time": 1727153481,
       "rank": 3,
       "category": "体育,时尚"
+    },
+    {
+      "raw_hot": 1403072,
+      "num": 520148,
+      "word": "芦淞大桥事故中一家母子三人遇难",
+      "onboard_time": 1727169199,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1401846,
@@ -681,6 +697,14 @@
       "onboard_time": 1727061679,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 947446,
+      "num": 345949,
+      "word": "金鹤龙 迪丽热巴妆造",
+      "onboard_time": 1727171118,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 930683,
@@ -1065,14 +1089,6 @@
       "onboard_time": 1726971320,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 727623,
-      "num": 727623,
-      "word": "12306买票不一定先到先得",
-      "onboard_time": 1727168839,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 716157,
@@ -1539,6 +1555,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 530709,
+      "num": 530709,
+      "word": "李梦带了10套旗袍去平遥",
+      "onboard_time": 1727171420,
+      "rank": 4,
+      "category": "电影"
+    },
+    {
       "raw_hot": 526214,
       "num": 526214,
       "word": "孙颖莎 大朋友小朋友都成长了",
@@ -1569,14 +1593,6 @@
       "onboard_time": 1727057300,
       "rank": 5,
       "category": "体育"
-    },
-    {
-      "raw_hot": 520148,
-      "num": 520148,
-      "word": "芦淞大桥事故中一家母子三人遇难",
-      "onboard_time": 1727169199,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 518514,
@@ -2411,6 +2427,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 345489,
+      "num": 345489,
+      "word": "菜摊母子三人遇难邻居自发帮忙卖菜",
+      "onboard_time": 1727172140,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 345326,
       "num": 432261,
       "word": "周雨彤在国外最常用的英文",
@@ -2755,6 +2779,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 284597,
+      "num": 284597,
+      "word": "庄周新皮肤牧神诗旅",
+      "onboard_time": 1727173279,
+      "rank": 22,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 283200,
       "num": 283200,
       "word": "极乐鸟工作室",
@@ -2827,12 +2859,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 279830,
+      "num": 333808,
+      "word": "男子曝近十年被物业多收39万电费",
+      "onboard_time": 1727168839,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 279818,
       "num": 279818,
       "word": "李白举杯回望人生",
       "onboard_time": 1727146458,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 278854,
+      "num": 329815,
+      "word": "微博音乐盛典节目单",
+      "onboard_time": 1727170518,
+      "rank": 28,
+      "category": "音乐"
     },
     {
       "raw_hot": 277918,
@@ -2849,6 +2897,14 @@
       "onboard_time": 1727060478,
       "rank": 46,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 275716,
+      "num": 275716,
+      "word": "周扬青爸爸从小就不让哭",
+      "onboard_time": 1727171779,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 275161,
@@ -3273,6 +3329,14 @@
       "onboard_time": 1727019263,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 240330,
+      "num": 240330,
+      "word": "逆水寒",
+      "onboard_time": 1727172798,
+      "rank": 26,
+      "category": "游戏"
     },
     {
       "raw_hot": 239552,
@@ -4051,6 +4115,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 201595,
+      "num": 201595,
+      "word": "Asoul离职员工的叙述",
+      "onboard_time": 1727172679,
+      "rank": 32,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 201442,
       "num": 201442,
       "word": "asoul工作室隐身的刘志",
@@ -4307,14 +4379,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 195984,
-      "num": 240210,
-      "word": "微博音乐盛典节目单",
-      "onboard_time": 1727170518,
-      "rank": 28,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 195957,
       "num": 195957,
       "word": "旧电脑寄给爱回收凌晨收到诡异短信",
@@ -4561,6 +4625,14 @@
       "onboard_time": 1727062280,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 190007,
+      "num": 190007,
+      "word": "IGN",
+      "onboard_time": 1727172380,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 189950,
@@ -5403,6 +5475,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 163220,
+      "num": 163220,
+      "word": "小伙用榫卯结构做面包拿世界冠军",
+      "onboard_time": 1727171660,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 163209,
       "num": 163209,
       "word": "向佐 我只是想把自己炒热",
@@ -5449,6 +5529,14 @@
       "onboard_time": 1726990279,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 158989,
+      "num": 158989,
+      "word": "铁路12306上新同车接续功能",
+      "onboard_time": 1727171779,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 158412,
@@ -5835,6 +5923,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 146103,
+      "num": 146103,
+      "word": "花花cos大象可爱爆表",
+      "onboard_time": 1727170459,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 145840,
       "num": 145840,
       "word": "江苏一地公示15名干部6人有曾用名",
@@ -5929,14 +6025,6 @@
       "onboard_time": 1727104039,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 143718,
-      "num": 143718,
-      "word": "花花cos大象可爱爆表",
-      "onboard_time": 1727170459,
-      "rank": 44,
-      "category": "幽默"
     },
     {
       "raw_hot": 143210,
@@ -6233,6 +6321,14 @@
       "onboard_time": 1727137281,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 134726,
+      "num": 134726,
+      "word": "住了很久的出租屋要退租了",
+      "onboard_time": 1727172318,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 134674,
@@ -6587,6 +6683,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 122019,
+      "num": 122019,
+      "word": "女子12楼外墙施工遭老太割安全绳",
+      "onboard_time": 1727173339,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 121739,
       "num": 121739,
       "word": "周子瑜棒球开球",
@@ -6609,6 +6713,14 @@
       "onboard_time": 1727143219,
       "rank": 44,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 121152,
+      "num": 121152,
+      "word": "鸿蒙NEXT10月8日公测",
+      "onboard_time": 1727172618,
+      "rank": 48,
+      "category": "数码"
     },
     {
       "raw_hot": 120862,
@@ -7067,14 +7179,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 98900,
-      "num": 333808,
-      "word": "男子曝近十年被物业多收39万电费",
-      "onboard_time": 1727168839,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 98819,
       "num": 381014,
       "word": "用筋膜枪按摩眼周视力仅余0.1",
@@ -7120,6 +7224,14 @@
       "word": "谁在共享充电宝生意中赚钱",
       "onboard_time": 1727102421,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 96432,
+      "num": 371336,
+      "word": "年轻人开始在咖啡中找健康",
+      "onboard_time": 1727168541,
+      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -7811,14 +7923,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 57140,
-      "num": 371336,
-      "word": "年轻人开始在咖啡中找健康",
-      "onboard_time": 1727168541,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 56954,
       "num": 440984,
       "word": "37岁女子常年重油重盐抽出猪油血",
@@ -7848,6 +7952,14 @@
       "word": "75人因贵州一煤矿重大火灾被追责问责",
       "onboard_time": 1727169260,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 55508,
+      "num": 343165,
+      "word": "骗了行骗者该不该被处罚",
+      "onboard_time": 1727172198,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -8195,6 +8307,14 @@
       "category": "互联网,作品衍生"
     },
     {
+      "raw_hot": 40320,
+      "num": 226117,
+      "word": "商竣程vs穆塞蒂",
+      "onboard_time": 1727172679,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 40290,
       "num": 40290,
       "word": "周深北京欢迎你回忆杀",
@@ -8417,6 +8537,14 @@
       "onboard_time": 1726982660,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 30552,
+      "num": 312241,
+      "word": "跟着英伦腔外卖小哥特种兵旅游",
+      "onboard_time": 1727170579,
+      "rank": 42,
+      "category": "旅游"
     },
     {
       "raw_hot": 30269,
@@ -8905,14 +9033,6 @@
       "onboard_time": 1727029814,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 14687,
-      "num": 144926,
-      "word": "跟着英伦腔外卖小哥特种兵旅游",
-      "onboard_time": 1727170579,
-      "rank": 42,
-      "category": "旅游"
     },
     {
       "raw_hot": 14147,
