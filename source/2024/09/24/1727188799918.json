@@ -1,0 +1,410 @@
+{
+  "runTime": 1727188799918,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1464089,
+        "num": 1464089,
+        "word": "网红小英不能开着路虎卖惨",
+        "onboard_time": 1727175258,
+        "rank": 0,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1258582,
+        "num": 1258582,
+        "word": "7岁女孩不到1秒破世界纪录",
+        "onboard_time": 1727176939,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19847,
+        "num": 1222917,
+        "word": "天山南北唱新歌",
+        "onboard_time": 1727178379,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1191845,
+        "num": 1191845,
+        "word": "迪丽热巴无袖束腰裙",
+        "onboard_time": 1727185340,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 568419,
+        "num": 568419,
+        "word": "男子刷手机掉海里漂了3小时",
+        "onboard_time": 1727177058,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 458184,
+        "num": 458184,
+        "word": "孙佳俊打破亚洲纪录",
+        "onboard_time": 1727184739,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 689690,
+        "num": 456189,
+        "word": "金智秀淡妆高马尾",
+        "onboard_time": 1727187021,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 61577,
+        "num": 445589,
+        "word": "河南永城多处被淹市民发声",
+        "onboard_time": 1727187441,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32238,
+        "num": 441759,
+        "word": "国庆部分航班票价降超一半",
+        "onboard_time": 1727188161,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 600256,
+        "num": 430344,
+        "word": "邓为工作室",
+        "onboard_time": 1727185161,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 518359,
+        "num": 426209,
+        "word": "迪奥大秀",
+        "onboard_time": 1727187021,
+        "rank": 10,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 60154,
+        "num": 417999,
+        "word": "高校厕所摄像头偷拍视频流向了哪里",
+        "onboard_time": 1727188101,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 63898,
+        "num": 410799,
+        "word": "唐嫣巴黎时装周气场全开",
+        "onboard_time": 1727184801,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 31341,
+        "num": 404468,
+        "word": "河南商丘69个乡镇遭受洪涝灾害",
+        "onboard_time": 1727187681,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19650,
+        "num": 392027,
+        "word": "超级主播带货为何频繁翻车",
+        "onboard_time": 1727187021,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 463711,
+        "num": 390479,
+        "word": "邓为时装周戴口罩",
+        "onboard_time": 1727186960,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 383834,
+        "num": 383834,
+        "word": "以军空袭已致黎巴嫩50名儿童死亡",
+        "onboard_time": 1727181499,
+        "rank": 16,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 35029,
+        "num": 380388,
+        "word": "员工反映男厕装监控被踢出工作群",
+        "onboard_time": 1727188342,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131164,
+        "num": 375099,
+        "word": "石家庄一涉摄像头事件民宿歇业关闭",
+        "onboard_time": 1727187080,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 7440,
+        "num": 365601,
+        "word": "邓为南柱赫同框看秀",
+        "onboard_time": 1727188761,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 484770,
+        "num": 362428,
+        "word": "博主曝光民宿偷拍摄像头警方已立案",
+        "onboard_time": 1727160799,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 356351,
+        "num": 356351,
+        "word": "大爷凌晨卖菜只赚27元被骗200元",
+        "onboard_time": 1727181319,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 286226,
+        "num": 286226,
+        "word": "周到拍的马龙王楚钦",
+        "onboard_time": 1727184680,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 282956,
+        "num": 282956,
+        "word": "朋友圈可以发live实况图是好是坏",
+        "onboard_time": 1727183059,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 279067,
+        "num": 279067,
+        "word": "黎巴嫩经历最血腥一天",
+        "onboard_time": 1727175798,
+        "rank": 24,
+        "category": "社会新闻,国外时政"
+      },
+      {
+        "raw_hot": 253550,
+        "num": 253550,
+        "word": "孟川脱口秀",
+        "onboard_time": 1727186481,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 252462,
+        "num": 252462,
+        "word": "白月梵星",
+        "onboard_time": 1727181140,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 228421,
+        "num": 228421,
+        "word": "京城大师赛",
+        "onboard_time": 1727186660,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 228421,
+        "num": 228421,
+        "word": "成都不入秋了直接入冬",
+        "onboard_time": 1727185400,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94551,
+        "num": 217818,
+        "word": "网约车便衣执法事件5个要点要说清",
+        "onboard_time": 1727186781,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215323,
+        "num": 215323,
+        "word": "博主打击酒店隐藏摄像头遭多人围堵",
+        "onboard_time": 1727147238,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201303,
+        "num": 201303,
+        "word": "金鹤龙 迪丽热巴妆造",
+        "onboard_time": 1727171118,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 42489,
+        "num": 186962,
+        "word": "揭秘网红医生伪科普生意经",
+        "onboard_time": 1727186841,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186782,
+        "num": 186782,
+        "word": "白鹿敖瑞鹏这13秒预告",
+        "onboard_time": 1727186000,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185856,
+        "num": 185856,
+        "word": "俩姑娘出去玩捡到一斤黄金",
+        "onboard_time": 1727152462,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175276,
+        "num": 175276,
+        "word": "女子12楼外墙施工遭老太割安全绳",
+        "onboard_time": 1727173339,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171416,
+        "num": 171416,
+        "word": "180斤男生3月怒减40斤桃花都多了",
+        "onboard_time": 1727179940,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170931,
+        "num": 170931,
+        "word": "马龙王楚钦适应场地训练",
+        "onboard_time": 1727182819,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168963,
+        "num": 168963,
+        "word": "石家庄民宿摄像头",
+        "onboard_time": 1727188701,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165980,
+        "num": 165980,
+        "word": "周也Choker烟熏妆",
+        "onboard_time": 1727175859,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165100,
+        "num": 165100,
+        "word": "老太被当赌徒误抓殴打纪委展开调查",
+        "onboard_time": 1727182939,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162795,
+        "num": 162795,
+        "word": "幼童被狗撕咬拖行狗主人找到了",
+        "onboard_time": 1727188101,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161875,
+        "num": 161875,
+        "word": "男子曝近十年被物业多收39万电费",
+        "onboard_time": 1727168839,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158639,
+        "num": 158639,
+        "word": "强冷空气已预定国庆档期",
+        "onboard_time": 1727184559,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157672,
+        "num": 157672,
+        "word": "考公和考研同时上岸选择哪个",
+        "onboard_time": 1727179579,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 153077,
+        "num": 153077,
+        "word": "男子4分钟买俩金镯店员报警",
+        "onboard_time": 1727171358,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148717,
+        "num": 148717,
+        "word": "赵丽颖 体验派演员",
+        "onboard_time": 1727188401,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 147942,
+        "num": 147942,
+        "word": "人均翻车的直播时代到底怎么了",
+        "onboard_time": 1727186060,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144642,
+        "num": 144642,
+        "word": "家业 韩东君",
+        "onboard_time": 1727177959,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142643,
+        "num": 142643,
+        "word": "山东泰山成功晋级足协杯决赛",
+        "onboard_time": 1727188161,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#我国航天事业实现历史性高质量跨越式发展#"
+    }
+  }
+}
