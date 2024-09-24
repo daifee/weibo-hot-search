@@ -1,6 +1,6 @@
 {
   "startTime": 1726936020707,
-  "endTime": 1727169860236,
+  "endTime": 1727170682600,
   "band_list": [
     {
       "raw_hot": 6817146,
@@ -460,7 +460,7 @@
     },
     {
       "raw_hot": 1208193,
-      "num": 950736,
+      "num": 1024145,
       "word": "被王毅外长认出来是什么感受",
       "onboard_time": 1727163498,
       "rank": 11,
@@ -625,6 +625,14 @@
       "onboard_time": 1727015305,
       "rank": 16,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1001346,
+      "num": 1001346,
+      "word": "夫妻打造高端人设骗了7人600多万元",
+      "onboard_time": 1727166678,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1001169,
@@ -955,14 +963,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 775859,
-      "num": 775859,
-      "word": "夫妻打造高端人设骗了7人600多万元",
-      "onboard_time": 1727166678,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 767927,
       "num": 787210,
       "word": "王玉雯 谈恋爱不如结拜",
@@ -1067,6 +1067,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 727623,
+      "num": 727623,
+      "word": "12306买票不一定先到先得",
+      "onboard_time": 1727168839,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 716157,
       "num": 716157,
       "word": "株洲一大桥发生多车相撞有人员伤亡",
@@ -1121,6 +1129,14 @@
       "onboard_time": 1727105359,
       "rank": 5,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 693157,
+      "num": 584336,
+      "word": "博主打击酒店隐藏摄像头遭多人围堵",
+      "onboard_time": 1727147238,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 691161,
@@ -1248,14 +1264,6 @@
       "word": "河海大学图书馆厕所发现摄像头",
       "onboard_time": 1727089399,
       "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 641456,
-      "num": 584336,
-      "word": "博主打击酒店隐藏摄像头遭多人围堵",
-      "onboard_time": 1727147238,
-      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -1561,6 +1569,14 @@
       "onboard_time": 1727057300,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 520148,
+      "num": 520148,
+      "word": "芦淞大桥事故中一家母子三人遇难",
+      "onboard_time": 1727169199,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 518514,
@@ -2843,14 +2859,6 @@
       "category": "艺人,剧集"
     },
     {
-      "raw_hot": 272744,
-      "num": 272744,
-      "word": "12306买票不一定先到先得",
-      "onboard_time": 1727168839,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 272647,
       "num": 272647,
       "word": "王楚钦孙颖莎到达首钢",
@@ -3073,14 +3081,6 @@
       "onboard_time": 1727153601,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 258851,
-      "num": 258851,
-      "word": "芦淞大桥事故中一家母子三人遇难",
-      "onboard_time": 1727169199,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 258774,
@@ -3867,6 +3867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 206766,
+      "num": 241421,
+      "word": "婆婆曾反对韩安冉宋浩然交往",
+      "onboard_time": 1727164759,
+      "rank": 47,
+      "category": "网红"
+    },
+    {
       "raw_hot": 206734,
       "num": 206734,
       "word": "任翔宇受伤",
@@ -4299,6 +4307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 195984,
+      "num": 240210,
+      "word": "微博音乐盛典节目单",
+      "onboard_time": 1727170518,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 195957,
       "num": 195957,
       "word": "旧电脑寄给爱回收凌晨收到诡异短信",
@@ -4675,20 +4691,20 @@
       "category": "数码"
     },
     {
+      "raw_hot": 186686,
+      "num": 186686,
+      "word": "为什么小众旅游越来越火",
+      "onboard_time": 1727169800,
+      "rank": 48,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 186533,
       "num": 186533,
       "word": "陈梦温柔坚韧大片",
       "onboard_time": 1727155100,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 186486,
-      "num": 196254,
-      "word": "婆婆曾反对韩安冉宋浩然交往",
-      "onboard_time": 1727164759,
-      "rank": 47,
-      "category": "网红"
     },
     {
       "raw_hot": 186294,
@@ -5073,6 +5089,14 @@
       "onboard_time": 1727064560,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 172435,
+      "num": 172435,
+      "word": "A股近百股涨停",
+      "onboard_time": 1727169380,
+      "rank": 46,
+      "category": "财经"
     },
     {
       "raw_hot": 172388,
@@ -5779,14 +5803,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 146995,
-      "num": 146995,
-      "word": "A股近百股涨停",
-      "onboard_time": 1727169380,
-      "rank": 46,
-      "category": "财经"
-    },
-    {
       "raw_hot": 146712,
       "num": 146712,
       "word": "登陆少年回复黄绮珊",
@@ -5915,6 +5931,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 143718,
+      "num": 143718,
+      "word": "花花cos大象可爱爆表",
+      "onboard_time": 1727170459,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 143210,
       "num": 143210,
       "word": "惠若琪说周深嗓子确实杠杠的",
@@ -6011,20 +6035,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 139096,
+      "num": 139096,
+      "word": "什么是存量房贷",
+      "onboard_time": 1727168478,
+      "rank": 45,
+      "category": "财经"
+    },
+    {
       "raw_hot": 138766,
       "num": 320243,
       "word": "半熟男女微博追剧团",
       "onboard_time": 1727072128,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 138712,
-      "num": 138712,
-      "word": "为什么小众旅游越来越火",
-      "onboard_time": 1727169800,
-      "rank": 48,
-      "category": "旅游"
     },
     {
       "raw_hot": 138711,
@@ -6057,6 +6081,14 @@
       "onboard_time": 1727007141,
       "rank": 10,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 138544,
+      "num": 138544,
+      "word": "美国PVH集团无端抵制新疆棉花",
+      "onboard_time": 1727169859,
+      "rank": 46,
+      "category": "国内时政"
     },
     {
       "raw_hot": 138474,
@@ -7035,6 +7067,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 98900,
+      "num": 333808,
+      "word": "男子曝近十年被物业多收39万电费",
+      "onboard_time": 1727168839,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 98819,
       "num": 381014,
       "word": "用筋膜枪按摩眼周视力仅余0.1",
@@ -7547,14 +7587,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 69306,
-      "num": 333808,
-      "word": "男子曝近十年被物业多收39万电费",
-      "onboard_time": 1727168839,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 68490,
       "num": 77932,
       "word": "aespa和ILLIT同一天回归",
@@ -7812,7 +7844,7 @@
     },
     {
       "raw_hot": 55568,
-      "num": 403278,
+      "num": 499519,
       "word": "75人因贵州一煤矿重大火灾被追责问责",
       "onboard_time": 1727169260,
       "rank": 9,
@@ -8347,12 +8379,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 32526,
+      "num": 314283,
+      "word": "陈紫函戴向宇四登时尚新娘",
+      "onboard_time": 1727169739,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 31909,
       "num": 37181,
       "word": "刘耀文19岁不受限的人生",
       "onboard_time": 1727116872,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 31582,
+      "num": 313990,
+      "word": "吴磊说走出去才会有奇遇",
+      "onboard_time": 1727166859,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 30718,
@@ -8387,14 +8435,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 30112,
-      "num": 313990,
-      "word": "吴磊说走出去才会有奇遇",
-      "onboard_time": 1727166859,
-      "rank": 32,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 30102,
       "num": 245327,
       "word": "李宁新出了陶瓷设计款",
@@ -8419,12 +8459,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 29708,
+      "num": 196919,
+      "word": "AI新中式亮相米兰时装周",
+      "onboard_time": 1727166859,
+      "rank": 38,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 29658,
       "num": 582789,
       "word": "丰收连连看",
       "onboard_time": 1726977260,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 29436,
+      "num": 315223,
+      "word": "智界R7搭载华为最强智驾",
+      "onboard_time": 1727167820,
+      "rank": 16,
+      "category": "汽车"
     },
     {
       "raw_hot": 29386,
@@ -8571,14 +8627,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 27287,
-      "num": 315223,
-      "word": "智界R7搭载华为最强智驾",
-      "onboard_time": 1727167820,
-      "rank": 16,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 27166,
       "num": 27166,
       "word": "00后种地搞了个田间情报站",
@@ -8617,14 +8665,6 @@
       "onboard_time": 1726932383,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 25703,
-      "num": 196919,
-      "word": "AI新中式亮相米兰时装周",
-      "onboard_time": 1727166859,
-      "rank": 38,
-      "category": "时尚"
     },
     {
       "raw_hot": 25561,
@@ -8867,6 +8907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 14687,
+      "num": 144926,
+      "word": "跟着英伦腔外卖小哥特种兵旅游",
+      "onboard_time": 1727170579,
+      "rank": 42,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 14147,
       "num": 39737,
       "word": "大凉山小姑娘把童年快乐唱成歌",
@@ -8985,14 +9033,6 @@
       "onboard_time": 1726987279,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 6025,
-      "num": 314283,
-      "word": "陈紫函戴向宇四登时尚新娘",
-      "onboard_time": 1727169739,
-      "rank": 18,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [

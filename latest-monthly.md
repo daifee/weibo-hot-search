@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/09/01 00:25:38 ~ 2024/09/24 17:24:20
+本榜单时间：2024/09/01 00:25:38 ~ 2024/09/24 17:38:02
 </p>
 </blockquote>
 <p>
@@ -4425,6 +4425,12 @@ iPhone16定价（热度：1011795）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%AB%E5%A6%BB%E6%89%93%E9%80%A0%E9%AB%98%E7%AB%AF%E4%BA%BA%E8%AE%BE%E9%AA%97%E4%BA%867%E4%BA%BA600%E5%A4%9A%E4%B8%87%E5%85%83%23" target="weibo">
+夫妻打造高端人设骗了7人600多万元（热度：1001346）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A0%AA%E6%B4%B26%E6%AD%BB7%E4%BC%A4%E8%BD%A6%E7%A5%B8%E8%B4%A3%E4%BB%BB%E8%AF%A5%E5%A6%82%E4%BD%95%E5%88%92%E5%AE%9A%23" target="weibo">
 株洲6死7伤车祸责任该如何划定（热度：1001169）
 </a>
@@ -6005,12 +6011,6 @@ WBG战胜JDG（热度：837121）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%AC%E7%84%B6%E5%AE%A3%E7%A7%B0%E6%86%8E%E6%81%A8%E9%9C%89%E9%9C%89%23" target="weibo">
 特朗普公然宣称憎恨霉霉（热度：815342）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%B9%B0%E9%B8%A1%E8%80%8D%E5%BF%83%E7%9C%BC%E8%A2%AB%E5%BA%97%E4%B8%BB%E8%BF%9E%E6%89%874%E8%80%B3%E5%85%89%23" target="weibo">
-男子买鸡耍心眼被店主连扇4耳光（热度：814239）
 </a>
 </li>
 
