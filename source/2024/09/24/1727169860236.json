@@ -1,0 +1,410 @@
+{
+  "runTime": 1727169860236,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1328670,
+        "num": 1328670,
+        "word": "肯德基刚来中国时还不叫肯德基",
+        "onboard_time": 1727163919,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 950736,
+        "num": 950736,
+        "word": "被王毅外长认出来是什么感受",
+        "onboard_time": 1727163498,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 13449,
+        "num": 835622,
+        "word": "老铁山单日记录迁徙猛禽过万只",
+        "onboard_time": 1727148199,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 775859,
+        "num": 775859,
+        "word": "夫妻打造高端人设骗了7人600多万元",
+        "onboard_time": 1727166678,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 751015,
+        "num": 751015,
+        "word": "张元英穿搭撞衫脱粉收容所",
+        "onboard_time": 1727168120,
+        "rank": 4,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 652452,
+        "num": 652452,
+        "word": "俩姑娘出去玩捡到一斤黄金",
+        "onboard_time": 1727152462,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 623235,
+        "num": 623235,
+        "word": "迪丽热巴看秀look",
+        "onboard_time": 1727167398,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 386020,
+        "num": 497021,
+        "word": "东北雨姐60S广告报价100万",
+        "onboard_time": 1727158580,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 421871,
+        "num": 421871,
+        "word": "等一个Mate70",
+        "onboard_time": 1727162840,
+        "rank": 8,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 55568,
+        "num": 403278,
+        "word": "75人因贵州一煤矿重大火灾被追责问责",
+        "onboard_time": 1727169260,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 400454,
+        "num": 400454,
+        "word": "甜馨参加小姨婚礼",
+        "onboard_time": 1727161941,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 395635,
+        "num": 395635,
+        "word": "唐嫣台步走出维密天使感",
+        "onboard_time": 1727163078,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 57140,
+        "num": 371336,
+        "word": "年轻人开始在咖啡中找健康",
+        "onboard_time": 1727168541,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 359005,
+        "num": 359005,
+        "word": "田曦薇给自己演yue了",
+        "onboard_time": 1727164519,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 69306,
+        "num": 333808,
+        "word": "男子曝近十年被物业多收39万电费",
+        "onboard_time": 1727168839,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 325543,
+        "num": 325543,
+        "word": "华为发布会",
+        "onboard_time": 1727159898,
+        "rank": 15,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 27287,
+        "num": 315223,
+        "word": "智界R7搭载华为最强智驾",
+        "onboard_time": 1727167820,
+        "rank": 16,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 314284,
+        "num": 314284,
+        "word": "极乐鸟发长文",
+        "onboard_time": 1727159360,
+        "rank": 17,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 6025,
+        "num": 314283,
+        "word": "陈紫函戴向宇四登时尚新娘",
+        "onboard_time": 1727169739,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21838,
+        "num": 314058,
+        "word": "官方称男孩骑行身亡案仍在补充侦查",
+        "onboard_time": 1727169557,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30112,
+        "num": 313990,
+        "word": "吴磊说走出去才会有奇遇",
+        "onboard_time": 1727166859,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 86820,
+        "num": 313860,
+        "word": "华为手表首发情绪健康助手",
+        "onboard_time": 1727164941,
+        "rank": 21,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 701194,
+        "num": 313763,
+        "word": "一个爱侧睡的女生悄悄碎了",
+        "onboard_time": 1727167460,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 664766,
+        "num": 313596,
+        "word": "怀孕狗狗被偷10天找回宝宝没了",
+        "onboard_time": 1727167398,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 541074,
+        "num": 313529,
+        "word": "博主打击酒店隐藏摄像头遭多人围堵",
+        "onboard_time": 1727147238,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 313434,
+        "num": 313434,
+        "word": "胖东来禁止公司上下随礼",
+        "onboard_time": 1727150840,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212647,
+        "num": 292781,
+        "word": "莫文蔚晒与肖战合照",
+        "onboard_time": 1727154141,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 225466,
+        "num": 292468,
+        "word": "邓为 迪奥",
+        "onboard_time": 1727164759,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 292335,
+        "num": 292335,
+        "word": "博主曝光民宿偷拍摄像头警方已立案",
+        "onboard_time": 1727160799,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200578,
+        "num": 279815,
+        "word": "张凌赫徐若晗爱你首发预告",
+        "onboard_time": 1727168779,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 272744,
+        "num": 272744,
+        "word": "12306买票不一定先到先得",
+        "onboard_time": 1727168839,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 272647,
+        "num": 272647,
+        "word": "王楚钦孙颖莎到达首钢",
+        "onboard_time": 1727168598,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 186348,
+        "num": 269224,
+        "word": "赵丽颖的哭戏还是这么顶",
+        "onboard_time": 1727161039,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 267632,
+        "num": 267632,
+        "word": "中科院孙凝晖院士批评华为搞技术垄断",
+        "onboard_time": 1727166798,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258851,
+        "num": 258851,
+        "word": "芦淞大桥事故中一家母子三人遇难",
+        "onboard_time": 1727169199,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214547,
+        "num": 214547,
+        "word": "降低存量房贷利率切实为民纾困",
+        "onboard_time": 1727153001,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199794,
+        "num": 199794,
+        "word": "公司禁止员工互相随礼合理吗",
+        "onboard_time": 1727162899,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198384,
+        "num": 198384,
+        "word": "中国对美国PVH集团启动调查",
+        "onboard_time": 1727168719,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 25703,
+        "num": 196919,
+        "word": "AI新中式亮相米兰时装周",
+        "onboard_time": 1727166859,
+        "rank": 38,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 186486,
+        "num": 196254,
+        "word": "婆婆曾反对韩安冉宋浩然交往",
+        "onboard_time": 1727164759,
+        "rank": 39,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 195957,
+        "num": 195957,
+        "word": "旧电脑寄给爱回收凌晨收到诡异短信",
+        "onboard_time": 1727164701,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181641,
+        "num": 181641,
+        "word": "100万元房贷30年将少还10万",
+        "onboard_time": 1727144118,
+        "rank": 41,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 175796,
+        "num": 175796,
+        "word": "男子种了10年的铁树开花了",
+        "onboard_time": 1727164640,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171845,
+        "num": 171845,
+        "word": "刘跃进被逮捕",
+        "onboard_time": 1727163378,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148459,
+        "num": 148459,
+        "word": "中方明确反对侵犯黎巴嫩主权和安全",
+        "onboard_time": 1727165421,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148221,
+        "num": 148221,
+        "word": "知音漫客",
+        "onboard_time": 1727160017,
+        "rank": 45,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 146995,
+        "num": 146995,
+        "word": "A股近百股涨停",
+        "onboard_time": 1727169380,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 140076,
+        "num": 140076,
+        "word": "为什么越来越多人选择拼假游",
+        "onboard_time": 1727167518,
+        "rank": 47,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 138712,
+        "num": 138712,
+        "word": "为什么小众旅游越来越火",
+        "onboard_time": 1727169800,
+        "rank": 48,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 138711,
+        "num": 138711,
+        "word": "Asoul工作室 PUA",
+        "onboard_time": 1727168478,
+        "rank": 49,
+        "category": "动漫"
+      }
+    ],
+    "hotgov": {
+      "word": "#再接再厉乘势而上加快建设航天强国#"
+    }
+  }
+}

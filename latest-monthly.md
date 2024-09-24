@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/09/01 00:25:38 ~ 2024/09/24 16:43:16
+本榜单时间：2024/09/01 00:25:38 ~ 2024/09/24 17:24:20
 </p>
 </blockquote>
 <p>
@@ -2691,6 +2691,12 @@ iPhone16配色（热度：1336689）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%82%AF%E5%BE%B7%E5%9F%BA%E5%88%9A%E6%9D%A5%E4%B8%AD%E5%9B%BD%E6%97%B6%E8%BF%98%E4%B8%8D%E5%8F%AB%E8%82%AF%E5%BE%B7%E5%9F%BA%23" target="weibo">
+肯德基刚来中国时还不叫肯德基（热度：1328670）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6vs%E9%BB%84%E9%95%87%E5%BB%B7%23" target="weibo">
 王楚钦vs黄镇廷（热度：1328010）
 </a>
@@ -3701,12 +3707,6 @@ NewJeans被HYBE其他艺人团队排挤（热度：1130540）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BE%99%E9%98%9F%E6%98%AF%E5%8E%BB%E4%B8%8A%E5%8E%95%E6%89%80%E4%B8%8D%E6%98%AF%E4%B8%8D%E8%A6%81%E4%BD%A0%E4%BB%AC%23" target="weibo">
 龙队是去上厕所不是不要你们（热度：1118210）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%82%AF%E5%BE%B7%E5%9F%BA%E5%88%9A%E6%9D%A5%E4%B8%AD%E5%9B%BD%E6%97%B6%E8%BF%98%E4%B8%8D%E5%8F%AB%E8%82%AF%E5%BE%B7%E5%9F%BA%23" target="weibo">
-肯德基刚来中国时还不叫肯德基（热度：1118015）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1726936020707,
-  "endTime": 1727167396977,
+  "endTime": 1727169860236,
   "band_list": [
     {
       "raw_hot": 6817146,
@@ -395,6 +395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1328670,
+      "num": 1328670,
+      "word": "肯德基刚来中国时还不叫肯德基",
+      "onboard_time": 1727163919,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1322960,
       "num": 1322960,
       "word": "专家称现在确实要苦一苦商业银行了",
@@ -452,7 +460,7 @@
     },
     {
       "raw_hot": 1208193,
-      "num": 460613,
+      "num": 950736,
       "word": "被王毅外长认出来是什么感受",
       "onboard_time": 1727163498,
       "rank": 11,
@@ -529,14 +537,6 @@
       "onboard_time": 1726980798,
       "rank": 1,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 1118015,
-      "num": 1178882,
-      "word": "肯德基刚来中国时还不叫肯德基",
-      "onboard_time": 1727163919,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1106238,
@@ -955,6 +955,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 775859,
+      "num": 775859,
+      "word": "夫妻打造高端人设骗了7人600多万元",
+      "onboard_time": 1727166678,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 767927,
       "num": 787210,
       "word": "王玉雯 谈恋爱不如结拜",
@@ -993,6 +1001,14 @@
       "onboard_time": 1727065105,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 751015,
+      "num": 751015,
+      "word": "张元英穿搭撞衫脱粉收容所",
+      "onboard_time": 1727168120,
+      "rank": 4,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 748779,
@@ -1091,6 +1107,14 @@
       "category": "体育,网红"
     },
     {
+      "raw_hot": 701194,
+      "num": 313763,
+      "word": "一个爱侧睡的女生悄悄碎了",
+      "onboard_time": 1727167460,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 693263,
       "num": 693263,
       "word": "以军空袭黎巴嫩492死1645伤",
@@ -1161,6 +1185,14 @@
       "onboard_time": 1726990998,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 664766,
+      "num": 313596,
+      "word": "怀孕狗狗被偷10天找回宝宝没了",
+      "onboard_time": 1727167398,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 661500,
@@ -1265,6 +1297,14 @@
       "onboard_time": 1726980559,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 623235,
+      "num": 623235,
+      "word": "迪丽热巴看秀look",
+      "onboard_time": 1727167398,
+      "rank": 6,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 622926,
@@ -2043,6 +2083,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 395635,
+      "num": 465393,
+      "word": "唐嫣台步走出维密天使感",
+      "onboard_time": 1727163078,
+      "rank": 17,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 395019,
       "num": 395019,
       "word": "90后出任兰溪市副市长",
@@ -2259,6 +2307,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 359005,
+      "num": 359005,
+      "word": "田曦薇给自己演yue了",
+      "onboard_time": 1727164519,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 358507,
       "num": 468747,
       "word": "陆虎婚后告诫张远老婆开心生活舒心",
@@ -2329,14 +2385,6 @@
       "onboard_time": 1726967720,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 348980,
-      "num": 348980,
-      "word": "田曦薇给自己演yue了",
-      "onboard_time": 1727164519,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 346939,
@@ -2795,6 +2843,22 @@
       "category": "艺人,剧集"
     },
     {
+      "raw_hot": 272744,
+      "num": 272744,
+      "word": "12306买票不一定先到先得",
+      "onboard_time": 1727168839,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 272647,
+      "num": 272647,
+      "word": "王楚钦孙颖莎到达首钢",
+      "onboard_time": 1727168598,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 272426,
       "num": 205871,
       "word": "叶珂最新健身视频",
@@ -2833,6 +2897,14 @@
       "onboard_time": 1727076499,
       "rank": 18,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 267632,
+      "num": 267632,
+      "word": "中科院孙凝晖院士批评华为搞技术垄断",
+      "onboard_time": 1727166798,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 267451,
@@ -3001,6 +3073,14 @@
       "onboard_time": 1727153601,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 258851,
+      "num": 258851,
+      "word": "芦淞大桥事故中一家母子三人遇难",
+      "onboard_time": 1727169199,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 258774,
@@ -3313,14 +3393,6 @@
       "onboard_time": 1727103141,
       "rank": 18,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 231505,
-      "num": 465393,
-      "word": "唐嫣台步走出维密天使感",
-      "onboard_time": 1727163078,
-      "rank": 17,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 231301,
@@ -4011,6 +4083,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 200578,
+      "num": 279815,
+      "word": "张凌赫徐若晗爱你首发预告",
+      "onboard_time": 1727168779,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 200550,
       "num": 324572,
       "word": "秦越祝贺赵丽颖",
@@ -4105,6 +4185,14 @@
       "onboard_time": 1727058979,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 198384,
+      "num": 198384,
+      "word": "中国对美国PVH集团启动调查",
+      "onboard_time": 1727168719,
+      "rank": 37,
+      "category": "国内时政"
     },
     {
       "raw_hot": 198140,
@@ -4208,6 +4296,14 @@
       "word": "专家点评最新房贷政策",
       "onboard_time": 1727146458,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 195957,
+      "num": 195957,
+      "word": "旧电脑寄给爱回收凌晨收到诡异短信",
+      "onboard_time": 1727164701,
+      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -4571,14 +4667,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 187152,
-      "num": 187152,
-      "word": "夫妻打造高端人设骗了7人600多万元",
-      "onboard_time": 1727166678,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 187008,
       "num": 187008,
       "word": "iPhone15ProMax为上半年最畅销手机",
@@ -4593,6 +4681,14 @@
       "onboard_time": 1727155100,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 186486,
+      "num": 196254,
+      "word": "婆婆曾反对韩安冉宋浩然交往",
+      "onboard_time": 1727164759,
+      "rank": 47,
+      "category": "网红"
     },
     {
       "raw_hot": 186294,
@@ -4867,6 +4963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 175796,
+      "num": 175796,
+      "word": "男子种了10年的铁树开花了",
+      "onboard_time": 1727164640,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 175665,
       "num": 175665,
       "word": "老人诬陷并殴打搀扶者后被拘",
@@ -4889,14 +4993,6 @@
       "onboard_time": 1727018962,
       "rank": 42,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 174841,
-      "num": 174841,
-      "word": "男子种了10年的铁树开花了",
-      "onboard_time": 1727164640,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 174744,
@@ -5115,14 +5211,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 166632,
-      "num": 166632,
-      "word": "旧电脑寄给爱回收凌晨收到诡异短信",
-      "onboard_time": 1727164701,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 166467,
       "num": 166467,
       "word": "王力宏今晚唱我们的歌",
@@ -5321,14 +5409,6 @@
       "onboard_time": 1727000000,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 162445,
-      "num": 162445,
-      "word": "中科院孙凝晖院士批评华为搞技术垄断",
-      "onboard_time": 1727166798,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 162179,
@@ -5627,6 +5707,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 148459,
+      "num": 499730,
+      "word": "中方明确反对侵犯黎巴嫩主权和安全",
+      "onboard_time": 1727165421,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 148425,
       "num": 148425,
       "word": "无糖奶茶含糖量接近正常糖的一半",
@@ -5691,6 +5779,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 146995,
+      "num": 146995,
+      "word": "A股近百股涨停",
+      "onboard_time": 1727169380,
+      "rank": 46,
+      "category": "财经"
+    },
+    {
       "raw_hot": 146712,
       "num": 146712,
       "word": "登陆少年回复黄绮珊",
@@ -5753,14 +5849,6 @@
       "onboard_time": 1727146519,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 145227,
-      "num": 145227,
-      "word": "婆婆曾反对韩安冉宋浩然交往",
-      "onboard_time": 1727164759,
-      "rank": 47,
-      "category": "网红"
     },
     {
       "raw_hot": 145178,
@@ -5899,6 +5987,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 140076,
+      "num": 140076,
+      "word": "为什么越来越多人选择拼假游",
+      "onboard_time": 1727167518,
+      "rank": 47,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 140050,
       "num": 140050,
       "word": "山花烂漫时 隐喻",
@@ -5921,6 +6017,22 @@
       "onboard_time": 1727072128,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 138712,
+      "num": 138712,
+      "word": "为什么小众旅游越来越火",
+      "onboard_time": 1727169800,
+      "rank": 48,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 138711,
+      "num": 138711,
+      "word": "Asoul工作室 PUA",
+      "onboard_time": 1727168478,
+      "rank": 49,
+      "category": "动漫"
     },
     {
       "raw_hot": 138691,
@@ -6216,14 +6328,6 @@
       "word": "央视曝光包治百病的保健床垫骗局",
       "onboard_time": 1727017284,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 129809,
-      "num": 499730,
-      "word": "中方明确反对侵犯黎巴嫩主权和安全",
-      "onboard_time": 1727165421,
-      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -7163,6 +7267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 86820,
+      "num": 372725,
+      "word": "华为手表首发情绪健康助手",
+      "onboard_time": 1727164941,
+      "rank": 15,
+      "category": "数码"
+    },
+    {
       "raw_hot": 85689,
       "num": 465847,
       "word": "没人能在雪景里打败霍建华",
@@ -7435,6 +7547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 69306,
+      "num": 333808,
+      "word": "男子曝近十年被物业多收39万电费",
+      "onboard_time": 1727168839,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 68490,
       "num": 77932,
       "word": "aespa和ILLIT同一天回归",
@@ -7659,6 +7779,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 57140,
+      "num": 371336,
+      "word": "年轻人开始在咖啡中找健康",
+      "onboard_time": 1727168541,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 56954,
       "num": 440984,
       "word": "37岁女子常年重油重盐抽出猪油血",
@@ -7681,6 +7809,14 @@
       "onboard_time": 1727108597,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 55568,
+      "num": 403278,
+      "word": "75人因贵州一煤矿重大火灾被追责问责",
+      "onboard_time": 1727169260,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 54810,
@@ -7737,14 +7873,6 @@
       "onboard_time": 1727062038,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 53294,
-      "num": 372725,
-      "word": "华为手表首发情绪健康助手",
-      "onboard_time": 1727164941,
-      "rank": 15,
-      "category": "数码"
     },
     {
       "raw_hot": 53032,
@@ -8259,6 +8387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 30112,
+      "num": 313990,
+      "word": "吴磊说走出去才会有奇遇",
+      "onboard_time": 1727166859,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 30102,
       "num": 245327,
       "word": "李宁新出了陶瓷设计款",
@@ -8289,14 +8425,6 @@
       "onboard_time": 1726977260,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 29427,
-      "num": 166549,
-      "word": "吴磊说走出去才会有奇遇",
-      "onboard_time": 1727166859,
-      "rank": 32,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 29386,
@@ -8443,6 +8571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 27287,
+      "num": 315223,
+      "word": "智界R7搭载华为最强智驾",
+      "onboard_time": 1727167820,
+      "rank": 16,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 27166,
       "num": 27166,
       "word": "00后种地搞了个田间情报站",
@@ -8483,6 +8619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 25703,
+      "num": 196919,
+      "word": "AI新中式亮相米兰时装周",
+      "onboard_time": 1727166859,
+      "rank": 38,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 25561,
       "num": 32430,
       "word": "黑神话悟空DLC确认开发中",
@@ -8513,14 +8657,6 @@
       "onboard_time": 1727113753,
       "rank": 42,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 23260,
-      "num": 158580,
-      "word": "AI新中式亮相米兰时装周",
-      "onboard_time": 1727166859,
-      "rank": 38,
-      "category": "时尚"
     },
     {
       "raw_hot": 22770,
@@ -8569,6 +8705,14 @@
       "onboard_time": 1727071290,
       "rank": 12,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 21838,
+      "num": 314058,
+      "word": "官方称男孩骑行身亡案仍在补充侦查",
+      "onboard_time": 1727169557,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 21543,
@@ -8841,6 +8985,14 @@
       "onboard_time": 1726987279,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 6025,
+      "num": 314283,
+      "word": "陈紫函戴向宇四登时尚新娘",
+      "onboard_time": 1727169739,
+      "rank": 18,
+      "category": "艺人"
     }
   ],
   "hotgov_list": [
