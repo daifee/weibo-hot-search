@@ -1,6 +1,6 @@
 {
   "startTime": 1727195285620,
-  "endTime": 1727198493563,
+  "endTime": 1727199569328,
   "band_list": [
     {
       "raw_hot": 812186,
@@ -43,7 +43,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 426654,
+      "raw_hot": 438689,
       "num": 507170,
       "word": "爸爸过世后我不再恐惧死亡",
       "onboard_time": 1727193139,
@@ -115,20 +115,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 246045,
+      "num": 246045,
+      "word": "东北雨姐直播间酸菜疑货不对板",
+      "onboard_time": 1727194338,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 245703,
       "num": 245703,
       "word": "黎巴嫩",
       "onboard_time": 1727188941,
       "rank": 7,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 219786,
-      "num": 219786,
-      "word": "东北雨姐直播间酸菜疑货不对板",
-      "onboard_time": 1727194338,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 207613,
@@ -139,11 +139,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 181263,
+      "num": 181263,
+      "word": "炉石传说",
+      "onboard_time": 1727197514,
+      "rank": 10,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 180110,
       "num": 180110,
       "word": "成都不入秋了直接入冬",
       "onboard_time": 1727185400,
       "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 173755,
+      "num": 173755,
+      "word": "民宿业主与安装摄像头3人不相识",
+      "onboard_time": 1727192959,
+      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -153,14 +169,6 @@
       "onboard_time": 1727187021,
       "rank": 17,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 165497,
-      "num": 165497,
-      "word": "炉石传说",
-      "onboard_time": 1727197514,
-      "rank": 10,
-      "category": "游戏"
     },
     {
       "raw_hot": 161545,
@@ -243,14 +251,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 114097,
-      "num": 170450,
-      "word": "民宿业主与安装摄像头3人不相识",
-      "onboard_time": 1727192959,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 110234,
       "num": 110234,
       "word": "云南地里是有放射性物质么",
@@ -272,6 +272,14 @@
       "word": "强冷空气已预定国庆档期",
       "onboard_time": 1727184559,
       "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 94594,
+      "num": 174150,
+      "word": "石家庄警方通报民宿摄像头事件",
+      "onboard_time": 1727197514,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -345,14 +353,6 @@
       "onboard_time": 1727184739,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 75481,
-      "num": 75481,
-      "word": "石家庄警方通报民宿摄像头事件",
-      "onboard_time": 1727197514,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 75350,
@@ -467,6 +467,30 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 33911,
+      "num": 38624,
+      "word": "周深演唱会好浪漫",
+      "onboard_time": 1727198954,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 32399,
+      "num": 38532,
+      "word": "老人长时间坐星巴克门口员工报警劝离",
+      "onboard_time": 1727199072,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 31765,
+      "num": 38509,
+      "word": "博主回应曝光民宿偷拍摄像头遭围堵",
+      "onboard_time": 1727199552,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 3387,
       "num": 486859,
       "word": "天山南北唱新歌",
@@ -475,7 +499,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1489,
+      "raw_hot": 1823,
       "num": 311336,
       "word": "老铁山单日记录迁徙猛禽过万只",
       "onboard_time": 1727148199,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1727199569328,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 438689,
+        "num": 438689,
+        "word": "爸爸过世后我不再恐惧死亡",
+        "onboard_time": 1727193139,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 316782,
+        "num": 316782,
+        "word": "网红小英不能开着路虎卖惨",
+        "onboard_time": 1727175258,
+        "rank": 1,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1823,
+        "num": 271031,
+        "word": "老铁山单日记录迁徙猛禽过万只",
+        "onboard_time": 1727148199,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257364,
+        "num": 257364,
+        "word": "好怕唐嫣突然说一句China",
+        "onboard_time": 1727191161,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 246045,
+        "num": 246045,
+        "word": "东北雨姐直播间酸菜疑货不对板",
+        "onboard_time": 1727194338,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220871,
+        "num": 220871,
+        "word": "深圳一男子被悬赏340万",
+        "onboard_time": 1727189002,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191116,
+        "num": 191116,
+        "word": "A股全面爆发",
+        "onboard_time": 1727193259,
+        "rank": 6,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 181263,
+        "num": 181263,
+        "word": "炉石传说",
+        "onboard_time": 1727197514,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 179079,
+        "num": 179079,
+        "word": "7岁女孩不到1秒破世界纪录",
+        "onboard_time": 1727176939,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94594,
+        "num": 174150,
+        "word": "石家庄警方通报民宿摄像头事件",
+        "onboard_time": 1727197514,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173755,
+        "num": 173755,
+        "word": "民宿业主与安装摄像头3人不相识",
+        "onboard_time": 1727192959,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139507,
+        "num": 139507,
+        "word": "秦皇岛巨响",
+        "onboard_time": 1727190440,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125912,
+        "num": 125912,
+        "word": "迪丽热巴无袖束腰裙",
+        "onboard_time": 1727185340,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 112296,
+        "num": 112296,
+        "word": "幼童被狗撕咬拖行狗主人找到了",
+        "onboard_time": 1727188101,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102619,
+        "num": 102619,
+        "word": "邓为G社生图",
+        "onboard_time": 1727193259,
+        "rank": 14,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 99819,
+        "num": 99819,
+        "word": "邓为南柱赫同框看秀",
+        "onboard_time": 1727188761,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 84709,
+        "num": 84709,
+        "word": "男子刷手机掉海里漂了3小时",
+        "onboard_time": 1727177058,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 58225,
+        "num": 58225,
+        "word": "金智秀淡妆高马尾",
+        "onboard_time": 1727187021,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 57324,
+        "num": 57324,
+        "word": "王者荣耀新赛季",
+        "onboard_time": 1727187561,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 39317,
+        "num": 55387,
+        "word": "周也Choker烟熏妆",
+        "onboard_time": 1727175859,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97433,
+        "num": 54901,
+        "word": "大爷凌晨卖菜只赚27元被骗200元",
+        "onboard_time": 1727181319,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 69319,
+        "num": 54886,
+        "word": "博主打击酒店隐藏摄像头遭多人围堵",
+        "onboard_time": 1727147238,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 53538,
+        "num": 53538,
+        "word": "朋友圈可以发live实况图是好是坏",
+        "onboard_time": 1727183059,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 53259,
+        "num": 53259,
+        "word": "我们一般都喝wps",
+        "onboard_time": 1727191041,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 52142,
+        "num": 52142,
+        "word": "邓为时装周戴口罩",
+        "onboard_time": 1727186960,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 51780,
+        "num": 51780,
+        "word": "全红婵被陈若琳问体重回答没有秤",
+        "onboard_time": 1727190621,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 47352,
+        "num": 47352,
+        "word": "马龙王楚钦适应场地训练",
+        "onboard_time": 1727182819,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 47128,
+        "num": 47128,
+        "word": "迪奥大秀",
+        "onboard_time": 1727187021,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 47001,
+        "num": 47001,
+        "word": "考公和考研同时上岸选择哪个",
+        "onboard_time": 1727179579,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 46533,
+        "num": 46533,
+        "word": "成都不入秋了直接入冬",
+        "onboard_time": 1727185400,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 43071,
+        "num": 43071,
+        "word": "王一博美男鱼",
+        "onboard_time": 1727190201,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 41274,
+        "num": 41274,
+        "word": "以军空袭已致黎巴嫩50名儿童死亡",
+        "onboard_time": 1727181499,
+        "rank": 31,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 40453,
+        "num": 40453,
+        "word": "女子12楼外墙施工遭老太割安全绳",
+        "onboard_time": 1727173339,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34714,
+        "num": 40133,
+        "word": "半熟男女",
+        "onboard_time": 1727193918,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 39923,
+        "num": 39923,
+        "word": "180斤男生3月怒减40斤桃花都多了",
+        "onboard_time": 1727179940,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 39584,
+        "num": 39584,
+        "word": "张之臻回应获亚军",
+        "onboard_time": 1727192300,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 39443,
+        "num": 39443,
+        "word": "黎巴嫩经历最血腥一天",
+        "onboard_time": 1727175798,
+        "rank": 36,
+        "category": "社会新闻,国外时政"
+      },
+      {
+        "raw_hot": 38801,
+        "num": 38801,
+        "word": "男子4分钟买俩金镯店员报警",
+        "onboard_time": 1727171358,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36623,
+        "num": 38791,
+        "word": "强冷空气已预定国庆档期",
+        "onboard_time": 1727184559,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36205,
+        "num": 38757,
+        "word": "金鹤龙 迪丽热巴妆造",
+        "onboard_time": 1727171118,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34390,
+        "num": 38714,
+        "word": "孙佳俊打破亚洲纪录",
+        "onboard_time": 1727184739,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 33950,
+        "num": 38676,
+        "word": "修容腮红技巧",
+        "onboard_time": 1727196555,
+        "rank": 41,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 33911,
+        "num": 38624,
+        "word": "周深演唱会好浪漫",
+        "onboard_time": 1727198954,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 33197,
+        "num": 38599,
+        "word": "周到拍的马龙王楚钦",
+        "onboard_time": 1727184680,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 32399,
+        "num": 38532,
+        "word": "老人长时间坐星巴克门口员工报警劝离",
+        "onboard_time": 1727199072,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31765,
+        "num": 38509,
+        "word": "博主回应曝光民宿偷拍摄像头遭围堵",
+        "onboard_time": 1727199552,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31588,
+        "num": 38486,
+        "word": "第五人格",
+        "onboard_time": 1727190381,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 31396,
+        "num": 38439,
+        "word": "孙颖莎说非常期待在北京比赛",
+        "onboard_time": 1727190081,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 31228,
+        "num": 38386,
+        "word": "孟川脱口秀",
+        "onboard_time": 1727186481,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 29815,
+        "num": 38351,
+        "word": "肖战往事随风舞台播放量破亿",
+        "onboard_time": 1727190140,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国圆了飞天揽月梦也圆了自主创新梦#"
+    }
+  }
+}
