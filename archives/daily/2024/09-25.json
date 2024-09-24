@@ -1,6 +1,6 @@
 {
   "startTime": 1727195285620,
-  "endTime": 1727206611279,
+  "endTime": 1727209466286,
   "band_list": [
     {
       "raw_hot": 812186,
@@ -531,6 +531,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 24979,
+      "num": 24979,
+      "word": "学校禁止学生带牛奶挨个查包",
+      "onboard_time": 1727207290,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 24359,
       "num": 24359,
       "word": "大张伟辟谣是北京人就打过大张伟",
@@ -540,19 +548,35 @@
     },
     {
       "raw_hot": 20175,
-      "num": 22704,
+      "num": 38662,
       "word": "博主大娃回应被东北雨姐殴打",
       "onboard_time": 1727204112,
       "rank": 45,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 16473,
+      "raw_hot": 19284,
       "num": 22692,
       "word": "美国PVH涉嫌歧视涉疆产品被调查",
       "onboard_time": 1727206391,
       "rank": 48,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 16228,
+      "num": 18054,
+      "word": "专家提醒不必着急去银行",
+      "onboard_time": 1727208852,
+      "rank": 45,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 15254,
+      "num": 18052,
+      "word": "78岁卖菜大爷被骗200元",
+      "onboard_time": 1727209150,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 14727,
