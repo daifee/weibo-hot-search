@@ -1,0 +1,410 @@
+{
+  "runTime": 1727176736339,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1373603,
+        "num": 1373603,
+        "word": "12306买票不一定先到先得",
+        "onboard_time": 1727168839,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 631533,
+        "num": 631533,
+        "word": "男子曝近十年被物业多收39万电费",
+        "onboard_time": 1727168839,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 5615,
+        "num": 586854,
+        "word": "老铁山单日记录迁徙猛禽过万只",
+        "onboard_time": 1727148199,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 579057,
+        "num": 579057,
+        "word": "肯德基刚来中国时还不叫肯德基",
+        "onboard_time": 1727163919,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 480367,
+        "num": 480367,
+        "word": "杭州人3天在同个商场买了7个亿",
+        "onboard_time": 1727174300,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 461380,
+        "num": 461380,
+        "word": "被王毅外长认出来是什么感受",
+        "onboard_time": 1727163498,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 366987,
+        "num": 366987,
+        "word": "俩姑娘出去玩捡到一斤黄金",
+        "onboard_time": 1727152462,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 315270,
+        "num": 366750,
+        "word": "张元英穿搭撞衫脱粉收容所",
+        "onboard_time": 1727168120,
+        "rank": 7,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 233283,
+        "num": 363777,
+        "word": "微博音乐盛典节目单",
+        "onboard_time": 1727170518,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 39170,
+        "num": 361325,
+        "word": "校方回应禁止学生带牛奶进校",
+        "onboard_time": 1727176158,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1468874,
+        "num": 360706,
+        "word": "菜摊母子三人遇难邻居自发帮忙卖菜",
+        "onboard_time": 1727172140,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1392051,
+        "num": 358852,
+        "word": "下月工资或将多一笔钱",
+        "onboard_time": 1727174300,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 629074,
+        "num": 356316,
+        "word": "金鹤龙 迪丽热巴妆造",
+        "onboard_time": 1727171118,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18680,
+        "num": 354580,
+        "word": "便装查车是执法不当还是以权谋私",
+        "onboard_time": 1727175859,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 13910,
+        "num": 351638,
+        "word": "雎晓雯碎钻雨滴妆",
+        "onboard_time": 1727175619,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 513945,
+        "num": 350932,
+        "word": "女子12楼外墙施工遭老太割安全绳",
+        "onboard_time": 1727173339,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227609,
+        "num": 348378,
+        "word": "唐嫣台步走出维密天使感",
+        "onboard_time": 1727163078,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 190659,
+        "num": 347273,
+        "word": "严浩翔栗棕发色",
+        "onboard_time": 1727175560,
+        "rank": 17,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 59053,
+        "num": 344878,
+        "word": "周也Choker烟熏妆",
+        "onboard_time": 1727175859,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31872,
+        "num": 341826,
+        "word": "中学扣分细则被指严苛超监狱",
+        "onboard_time": 1727175258,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 593833,
+        "num": 340669,
+        "word": "网红小英不能开着路虎卖惨",
+        "onboard_time": 1727175258,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 24888,
+        "num": 339804,
+        "word": "余承东现场演示智界R7超超超能装",
+        "onboard_time": 1727174839,
+        "rank": 21,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 524128,
+        "num": 337517,
+        "word": "李梦带了10套旗袍去平遥",
+        "onboard_time": 1727171420,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 440479,
+        "num": 335457,
+        "word": "博主打击酒店隐藏摄像头遭多人围堵",
+        "onboard_time": 1727147238,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 410655,
+        "num": 332862,
+        "word": "博主曝光民宿偷拍摄像头警方已立案",
+        "onboard_time": 1727160799,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253233,
+        "num": 332136,
+        "word": "东北雨姐60S广告报价100万",
+        "onboard_time": 1727158580,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 279368,
+        "num": 279368,
+        "word": "黑神话IGN年度投票支持率急速下降",
+        "onboard_time": 1727174779,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 273325,
+        "num": 273325,
+        "word": "极乐鸟发长文",
+        "onboard_time": 1727159360,
+        "rank": 27,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 228322,
+        "num": 228322,
+        "word": "周扬青爸爸从小就不让哭",
+        "onboard_time": 1727171779,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 66522,
+        "num": 213104,
+        "word": "黎巴嫩经历最血腥一天",
+        "onboard_time": 1727175798,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211964,
+        "num": 211964,
+        "word": "上海地铁15号线自动扶梯碎裂",
+        "onboard_time": 1727174300,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199627,
+        "num": 199627,
+        "word": "一幅画打开老家河南",
+        "onboard_time": 1727176640,
+        "rank": 31,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 198690,
+        "num": 198690,
+        "word": "木薯粉会给身体造成危害吗",
+        "onboard_time": 1727172739,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 50741,
+        "num": 198563,
+        "word": "19岁正是爱酷的年纪",
+        "onboard_time": 1727175979,
+        "rank": 33,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 39696,
+        "num": 198400,
+        "word": "智界R7华为满血途灵平台有多强",
+        "onboard_time": 1727173999,
+        "rank": 34,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 165744,
+        "num": 198004,
+        "word": "田曦薇给自己演yue了",
+        "onboard_time": 1727164519,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 196164,
+        "num": 197879,
+        "word": "王昶晒训练日常",
+        "onboard_time": 1727176158,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 197620,
+        "num": 197620,
+        "word": "庄周新皮肤牧神诗旅",
+        "onboard_time": 1727173279,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 196095,
+        "num": 196095,
+        "word": "夫妻打造高端人设骗了7人600多万元",
+        "onboard_time": 1727166678,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172548,
+        "num": 188305,
+        "word": "选角导演没想到张新成王玉雯认识16年",
+        "onboard_time": 1727176039,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185413,
+        "num": 185413,
+        "word": "迪丽热巴看秀look",
+        "onboard_time": 1727167398,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 180866,
+        "num": 180866,
+        "word": "孙颖莎新周期新公式照",
+        "onboard_time": 1727175798,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 161897,
+        "num": 161897,
+        "word": "华为发布会",
+        "onboard_time": 1727159898,
+        "rank": 42,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 151811,
+        "num": 151811,
+        "word": "甜馨参加小姨婚礼",
+        "onboard_time": 1727161941,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148315,
+        "num": 148315,
+        "word": "小伙用榫卯结构做面包拿世界冠军",
+        "onboard_time": 1727171660,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139874,
+        "num": 139874,
+        "word": "王楚钦孙颖莎到达首钢",
+        "onboard_time": 1727168598,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131503,
+        "num": 131503,
+        "word": "卖菜母子遇难有人买点生姜付一百元",
+        "onboard_time": 1727174358,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127076,
+        "num": 127076,
+        "word": "莫文蔚晒与肖战合照",
+        "onboard_time": 1727154141,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 124407,
+        "num": 124407,
+        "word": "老家河南哪些地方值得一去",
+        "onboard_time": 1727176698,
+        "rank": 48,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 124360,
+        "num": 124360,
+        "word": "住了很久的出租屋要退租了",
+        "onboard_time": 1727172318,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#再接再厉乘势而上加快建设航天强国#"
+    }
+  }
+}
