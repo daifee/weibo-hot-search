@@ -1,7 +1,23 @@
 {
   "startTime": 1727108827688,
-  "endTime": 1727143144444,
+  "endTime": 1727146378570,
   "band_list": [
+    {
+      "raw_hot": 1843763,
+      "num": 1843763,
+      "word": "100万元房贷30年将少还10万",
+      "onboard_time": 1727144118,
+      "rank": 0,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 1781209,
+      "num": 1781209,
+      "word": "央行宣布降息降准",
+      "onboard_time": 1727142559,
+      "rank": 9,
+      "category": "财经"
+    },
     {
       "raw_hot": 1722556,
       "num": 1722556,
@@ -19,8 +35,16 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 1081803,
-      "num": 1081803,
+      "raw_hot": 1363425,
+      "num": 1363425,
+      "word": "司机称账号被封禁期间失去经济来源",
+      "onboard_time": 1727143519,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1290002,
+      "num": 1290002,
       "word": "降低存量房贷利率",
       "onboard_time": 1727141659,
       "rank": 9,
@@ -33,6 +57,14 @@
       "onboard_time": 1727140279,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 900260,
+      "num": 900260,
+      "word": "iPhone16史上最容易维修iPhone",
+      "onboard_time": 1727143219,
+      "rank": 5,
+      "category": "数码"
     },
     {
       "raw_hot": 874653,
@@ -115,6 +147,14 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 566607,
+      "num": 566607,
+      "word": "移民船上30具遗体腐烂难以辨认",
+      "onboard_time": 1727143160,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 564727,
       "num": 564727,
       "word": "以军空袭黎巴嫩多地致275死1024伤",
@@ -139,12 +179,28 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 485511,
+      "num": 485511,
+      "word": "二套房贷最低首付比例下调至15%",
+      "onboard_time": 1727143098,
+      "rank": 40,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 480800,
       "num": 480800,
       "word": "工资可以少但要双休不加班",
       "onboard_time": 1727090480,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 478680,
+      "num": 478680,
+      "word": "OLAY 孙颖莎",
+      "onboard_time": 1727145138,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 468103,
@@ -161,14 +217,6 @@
       "onboard_time": 1727097021,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 447894,
-      "num": 447894,
-      "word": "央行宣布降息降准",
-      "onboard_time": 1727142559,
-      "rank": 9,
-      "category": "财经"
     },
     {
       "raw_hot": 433106,
@@ -209,6 +257,22 @@
       "onboard_time": 1727093480,
       "rank": 20,
       "category": "网红"
+    },
+    {
+      "raw_hot": 359265,
+      "num": 359265,
+      "word": "林小宅这是可以说的吗",
+      "onboard_time": 1727143160,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 354341,
+      "num": 610527,
+      "word": "肖央赵丽颖刘烨三双眼睛一种恨",
+      "onboard_time": 1727144418,
+      "rank": 8,
+      "category": "电影"
     },
     {
       "raw_hot": 345790,
@@ -275,6 +339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 294395,
+      "num": 573460,
+      "word": "九省通衢的气质具象化了",
+      "onboard_time": 1727144598,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 286856,
       "num": 234076,
       "word": "全网首个粉丝破亿女主播诞生",
@@ -289,6 +361,14 @@
       "onboard_time": 1727110215,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 268774,
+      "num": 268774,
+      "word": "羊毛衫真的会惩罚每一个水洗它的人",
+      "onboard_time": 1727143579,
+      "rank": 21,
+      "category": "幽默"
     },
     {
       "raw_hot": 267373,
@@ -315,12 +395,28 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 226290,
+      "num": 285408,
+      "word": "国庆档新片片长",
+      "onboard_time": 1727145438,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
       "raw_hot": 222927,
       "num": 222927,
       "word": "央行降低存量房贷利率",
       "onboard_time": 1727141717,
       "rank": 31,
       "category": "财经"
+    },
+    {
+      "raw_hot": 220801,
+      "num": 223195,
+      "word": "半熟男女 孩子是爱情稳定剂吗",
+      "onboard_time": 1727141538,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 220114,
@@ -331,12 +427,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 219630,
+      "num": 222970,
+      "word": "杨志刚亲手制作酥山赠与多宝",
+      "onboard_time": 1727142797,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 211928,
       "num": 211928,
       "word": "央行将下调存款准备金率0.5个百分点",
       "onboard_time": 1727142440,
       "rank": 31,
       "category": "财经"
+    },
+    {
+      "raw_hot": 208253,
+      "num": 208253,
+      "word": "全身最早衰老的器官",
+      "onboard_time": 1727145858,
+      "rank": 26,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 203791,
@@ -387,6 +499,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 193728,
+      "num": 193728,
+      "word": "老百姓房贷月供少了",
+      "onboard_time": 1727144179,
+      "rank": 28,
+      "category": "财经"
+    },
+    {
       "raw_hot": 187515,
       "num": 383241,
       "word": "白鹿开启新副本",
@@ -427,6 +547,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 175656,
+      "num": 175656,
+      "word": "专家称现在确实要苦一苦商业银行了",
+      "onboard_time": 1727146100,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 170019,
       "num": 160383,
       "word": "容易内耗的人都有一个共性",
@@ -435,20 +563,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 169136,
+      "num": 183378,
+      "word": "电影749局",
+      "onboard_time": 1727143999,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 166659,
+      "num": 166659,
+      "word": "林奇被传遇难时带着绝密信息",
+      "onboard_time": 1727137940,
+      "rank": 34,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 160428,
       "num": 229705,
       "word": "李诞自曝开直播是为了躲酒",
       "onboard_time": 1727096121,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 159179,
-      "num": 223195,
-      "word": "半熟男女 孩子是爱情稳定剂吗",
-      "onboard_time": 1727141538,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 158018,
@@ -467,14 +603,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 156428,
-      "num": 156428,
-      "word": "二套房贷最低首付比例下调至15%",
-      "onboard_time": 1727143098,
-      "rank": 40,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 151807,
       "num": 355281,
       "word": "警方通报官员出轨并殴打女方",
@@ -483,12 +611,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 148620,
-      "num": 222970,
-      "word": "杨志刚亲手制作酥山赠与多宝",
-      "onboard_time": 1727142797,
-      "rank": 28,
-      "category": "综艺"
+      "raw_hot": 148886,
+      "num": 148886,
+      "word": "肖战做气息发音训练",
+      "onboard_time": 1727144959,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 141984,
@@ -507,6 +635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 141202,
+      "num": 141202,
+      "word": "姚安娜新剧没有技巧只有莽",
+      "onboard_time": 1727146158,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 139496,
       "num": 220257,
       "word": "国色芳华",
@@ -521,6 +657,14 @@
       "onboard_time": 1727134517,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 135100,
+      "num": 135100,
+      "word": "00后主打的就是一个没福硬享",
+      "onboard_time": 1727143519,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 134913,
@@ -563,12 +707,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 126517,
+      "num": 126517,
+      "word": "律师谈运管人员便衣打车亮证",
+      "onboard_time": 1727145318,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 122200,
       "num": 122200,
       "word": "全流程考研时间节点",
       "onboard_time": 1727139981,
       "rank": 46,
       "category": "教育"
+    },
+    {
+      "raw_hot": 121563,
+      "num": 121563,
+      "word": "唐嫣超模气场",
+      "onboard_time": 1727143219,
+      "rank": 44,
+      "category": "时尚"
     },
     {
       "raw_hot": 121226,
@@ -587,12 +747,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 117059,
+      "num": 117059,
+      "word": "女子带猫逛商场猫被死死卡进扶梯",
+      "onboard_time": 1727146279,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 115568,
       "num": 115568,
       "word": "官方回应运管人员穿便服封网约车账号",
       "onboard_time": 1727120050,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 113342,
+      "num": 113342,
+      "word": "LPR",
+      "onboard_time": 1727146158,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 112686,
@@ -956,7 +1132,7 @@
     },
     {
       "raw_hot": 8235,
-      "num": 1246772,
+      "num": 1448124,
       "word": "文化中国行看巴丹吉林沙漠之美",
       "onboard_time": 1727080280,
       "rank": 2,

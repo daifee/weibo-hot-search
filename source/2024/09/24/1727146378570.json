@@ -1,0 +1,410 @@
+{
+  "runTime": 1727146378570,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1843763,
+        "num": 1843763,
+        "word": "100万元房贷30年将少还10万",
+        "onboard_time": 1727144118,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1781209,
+        "num": 1781209,
+        "word": "央行宣布降息降准",
+        "onboard_time": 1727142559,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 7143,
+        "num": 1448124,
+        "word": "文化中国行看巴丹吉林沙漠之美",
+        "onboard_time": 1727080280,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1363425,
+        "num": 1363425,
+        "word": "司机称账号被封禁期间失去经济来源",
+        "onboard_time": 1727143519,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1290002,
+        "num": 1290002,
+        "word": "降低存量房贷利率",
+        "onboard_time": 1727141659,
+        "rank": 4,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 900260,
+        "num": 900260,
+        "word": "iPhone16史上最容易维修iPhone",
+        "onboard_time": 1727143219,
+        "rank": 5,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 826106,
+        "num": 826106,
+        "word": "厕所发现摄像头高校认为无需报警",
+        "onboard_time": 1727137940,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 455089,
+        "num": 663373,
+        "word": "王玉雯 谈恋爱不如结拜",
+        "onboard_time": 1727138060,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 354341,
+        "num": 610527,
+        "word": "肖央赵丽颖刘烨三双眼睛一种恨",
+        "onboard_time": 1727144418,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 294395,
+        "num": 573460,
+        "word": "九省通衢的气质具象化了",
+        "onboard_time": 1727144598,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 566607,
+        "num": 566607,
+        "word": "移民船上30具遗体腐烂难以辨认",
+        "onboard_time": 1727143160,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 543919,
+        "num": 543919,
+        "word": "便装乘网约车亮证执法女子调离岗位",
+        "onboard_time": 1727140279,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 485511,
+        "num": 485511,
+        "word": "二套房贷最低首付比例下调至15%",
+        "onboard_time": 1727143098,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 478680,
+        "num": 478680,
+        "word": "OLAY 孙颖莎",
+        "onboard_time": 1727145138,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 393221,
+        "num": 393221,
+        "word": "韩男子杀女友后将其砌进阳台灌水泥",
+        "onboard_time": 1727133376,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 359265,
+        "num": 359265,
+        "word": "林小宅这是可以说的吗",
+        "onboard_time": 1727143160,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 347350,
+        "num": 347350,
+        "word": "以前不理解李慧珍 上班后老实了",
+        "onboard_time": 1727105479,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 334620,
+        "num": 334620,
+        "word": "朴信惠新剧",
+        "onboard_time": 1727141780,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 305486,
+        "num": 305486,
+        "word": "以军空袭黎巴嫩492死1645伤",
+        "onboard_time": 1727105359,
+        "rank": 18,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 226290,
+        "num": 285408,
+        "word": "国庆档新片片长",
+        "onboard_time": 1727145438,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 427433,
+        "num": 282773,
+        "word": "唐嫣走秀wink",
+        "onboard_time": 1727136199,
+        "rank": 20,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 268774,
+        "num": 268774,
+        "word": "羊毛衫真的会惩罚每一个水洗它的人",
+        "onboard_time": 1727143579,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 256864,
+        "num": 256864,
+        "word": "极乐鸟工作室",
+        "onboard_time": 1727103920,
+        "rank": 22,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 235445,
+        "num": 235445,
+        "word": "紧身牛仔裤是犯了时尚界的死罪吗",
+        "onboard_time": 1727137281,
+        "rank": 23,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 220801,
+        "num": 220801,
+        "word": "半熟男女 孩子是爱情稳定剂吗",
+        "onboard_time": 1727141538,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 219630,
+        "num": 219630,
+        "word": "杨志刚亲手制作酥山赠与多宝",
+        "onboard_time": 1727142797,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208253,
+        "num": 208253,
+        "word": "全身最早衰老的器官",
+        "onboard_time": 1727145858,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 198820,
+        "num": 198820,
+        "word": "无锡虹桥医院15人被采取刑事强制措施",
+        "onboard_time": 1727137158,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193728,
+        "num": 193728,
+        "word": "老百姓房贷月供少了",
+        "onboard_time": 1727144179,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 169136,
+        "num": 183378,
+        "word": "电影749局",
+        "onboard_time": 1727143999,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 183147,
+        "num": 183147,
+        "word": "以军对黎巴嫩南部居民发出撤离警告",
+        "onboard_time": 1727137940,
+        "rank": 30,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 179175,
+        "num": 179175,
+        "word": "原始人一句话没说卖出近250万元",
+        "onboard_time": 1727137820,
+        "rank": 31,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 175864,
+        "num": 175864,
+        "word": "70多年前他们用鲜血护住身后万家团圆",
+        "onboard_time": 1727137759,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175656,
+        "num": 175656,
+        "word": "专家称现在确实要苦一苦商业银行了",
+        "onboard_time": 1727146100,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166659,
+        "num": 166659,
+        "word": "林奇被传遇难时带着绝密信息",
+        "onboard_time": 1727137940,
+        "rank": 34,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 148886,
+        "num": 148886,
+        "word": "肖战做气息发音训练",
+        "onboard_time": 1727144959,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 147291,
+        "num": 147291,
+        "word": "孙颖莎王楚钦持续领衔世界第一",
+        "onboard_time": 1727140339,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 141202,
+        "num": 141202,
+        "word": "姚安娜新剧没有技巧只有莽",
+        "onboard_time": 1727146158,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139515,
+        "num": 139515,
+        "word": "749局片长123分钟",
+        "onboard_time": 1727142619,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 138373,
+        "num": 138373,
+        "word": "常吃猪油和植物油的人有什么区别",
+        "onboard_time": 1727140399,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 135896,
+        "num": 135896,
+        "word": "央行将统一房贷最低首付比例",
+        "onboard_time": 1727142559,
+        "rank": 40,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 135100,
+        "num": 135100,
+        "word": "00后主打的就是一个没福硬享",
+        "onboard_time": 1727143519,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126517,
+        "num": 126517,
+        "word": "律师谈运管人员便衣打车亮证",
+        "onboard_time": 1727145318,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125954,
+        "num": 125954,
+        "word": "原来人会从34岁开始变老",
+        "onboard_time": 1727105299,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 121563,
+        "num": 121563,
+        "word": "唐嫣超模气场",
+        "onboard_time": 1727143219,
+        "rank": 44,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 120988,
+        "num": 120988,
+        "word": "江歌妈妈不服判决准备上诉",
+        "onboard_time": 1727096601,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119121,
+        "num": 119121,
+        "word": "全网首个粉丝破亿女主播诞生",
+        "onboard_time": 1727095459,
+        "rank": 46,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 117059,
+        "num": 117059,
+        "word": "女子带猫逛商场猫被死死卡进扶梯",
+        "onboard_time": 1727146279,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113342,
+        "num": 113342,
+        "word": "LPR",
+        "onboard_time": 1727146158,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 112989,
+        "num": 112989,
+        "word": "东北雨姐丈夫回应博主打假被真打",
+        "onboard_time": 1727096421,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#加快建设航天强国#"
+    }
+  }
+}

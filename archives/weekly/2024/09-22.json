@@ -1,6 +1,6 @@
 {
   "startTime": 1726936020707,
-  "endTime": 1727143144444,
+  "endTime": 1727146378570,
   "band_list": [
     {
       "raw_hot": 6817146,
@@ -129,6 +129,22 @@
       "onboard_time": 1727067510,
       "rank": 7,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 1843763,
+      "num": 1843763,
+      "word": "100万元房贷30年将少还10万",
+      "onboard_time": 1727144118,
+      "rank": 0,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 1781209,
+      "num": 1781209,
+      "word": "央行宣布降息降准",
+      "onboard_time": 1727142559,
+      "rank": 9,
+      "category": "财经"
     },
     {
       "raw_hot": 1777259,
@@ -331,6 +347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1363425,
+      "num": 1363425,
+      "word": "司机称账号被封禁期间失去经济来源",
+      "onboard_time": 1727143519,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1348936,
       "num": 1348936,
       "word": "八旬老太排队领鸡蛋被挤倒身亡",
@@ -353,6 +377,14 @@
       "onboard_time": 1727009902,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1290002,
+      "num": 1290002,
+      "word": "降低存量房贷利率",
+      "onboard_time": 1727141659,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1232262,
@@ -481,14 +513,6 @@
       "onboard_time": 1726979779,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1081803,
-      "num": 1081803,
-      "word": "降低存量房贷利率",
-      "onboard_time": 1727141659,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1072343,
@@ -649,6 +673,14 @@
       "onboard_time": 1727096421,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 900260,
+      "num": 900260,
+      "word": "iPhone16史上最容易维修iPhone",
+      "onboard_time": 1727143219,
+      "rank": 5,
+      "category": "数码"
     },
     {
       "raw_hot": 897295,
@@ -1187,6 +1219,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 566607,
+      "num": 566607,
+      "word": "移民船上30具遗体腐烂难以辨认",
+      "onboard_time": 1727143160,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 564727,
       "num": 600433,
       "word": "以军空袭黎巴嫩多地致275死1024伤",
@@ -1379,6 +1419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 485511,
+      "num": 485511,
+      "word": "二套房贷最低首付比例下调至15%",
+      "onboard_time": 1727143098,
+      "rank": 40,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 483264,
       "num": 483264,
       "word": "日本舰长擅闯我领海后被撤职",
@@ -1401,6 +1449,14 @@
       "onboard_time": 1727071648,
       "rank": 23,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 478680,
+      "num": 478680,
+      "word": "OLAY 孙颖莎",
+      "onboard_time": 1727145138,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 478561,
@@ -1513,14 +1569,6 @@
       "onboard_time": 1726927107,
       "rank": 20,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 447894,
-      "num": 447894,
-      "word": "央行宣布降息降准",
-      "onboard_time": 1727142559,
-      "rank": 9,
-      "category": "财经"
     },
     {
       "raw_hot": 447844,
@@ -1891,6 +1939,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 359265,
+      "num": 359265,
+      "word": "林小宅这是可以说的吗",
+      "onboard_time": 1727143160,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 358507,
       "num": 468747,
       "word": "陆虎婚后告诫张远老婆开心生活舒心",
@@ -1913,6 +1969,14 @@
       "onboard_time": 1727080399,
       "rank": 17,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 354341,
+      "num": 610527,
+      "word": "肖央赵丽颖刘烨三双眼睛一种恨",
+      "onboard_time": 1727144418,
+      "rank": 8,
+      "category": "电影"
     },
     {
       "raw_hot": 353813,
@@ -2163,6 +2227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 294395,
+      "num": 573460,
+      "word": "九省通衢的气质具象化了",
+      "onboard_time": 1727144598,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 293760,
       "num": 293760,
       "word": "第五人格",
@@ -2273,6 +2345,14 @@
       "onboard_time": 1727022798,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 268774,
+      "num": 268774,
+      "word": "羊毛衫真的会惩罚每一个水洗它的人",
+      "onboard_time": 1727143579,
+      "rank": 21,
+      "category": "幽默"
     },
     {
       "raw_hot": 267994,
@@ -2739,6 +2819,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 226290,
+      "num": 285408,
+      "word": "国庆档新片片长",
+      "onboard_time": 1727145438,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
       "raw_hot": 225720,
       "num": 225720,
       "word": "高雅cp",
@@ -2841,6 +2929,22 @@
       "onboard_time": 1726961295,
       "rank": 25,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 220801,
+      "num": 223195,
+      "word": "半熟男女 孩子是爱情稳定剂吗",
+      "onboard_time": 1727141538,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 219630,
+      "num": 222970,
+      "word": "杨志刚亲手制作酥山赠与多宝",
+      "onboard_time": 1727142797,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 217969,
@@ -3032,6 +3136,14 @@
       "word": "这些身体部位不宜用筋膜枪",
       "onboard_time": 1727050941,
       "rank": 22,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 208253,
+      "num": 208253,
+      "word": "全身最早衰老的器官",
+      "onboard_time": 1727145858,
+      "rank": 26,
       "category": "健康医疗"
     },
     {
@@ -3417,6 +3529,14 @@
       "onboard_time": 1727008823,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 193728,
+      "num": 193728,
+      "word": "老百姓房贷月供少了",
+      "onboard_time": 1727144179,
+      "rank": 28,
+      "category": "财经"
     },
     {
       "raw_hot": 193522,
@@ -3851,6 +3971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 175656,
+      "num": 175656,
+      "word": "专家称现在确实要苦一苦商业银行了",
+      "onboard_time": 1727146100,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 175566,
       "num": 274304,
       "word": "秋分也是丰收节",
@@ -3987,6 +4115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 169136,
+      "num": 183378,
+      "word": "电影749局",
+      "onboard_time": 1727143999,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 169076,
       "num": 169076,
       "word": "加沙人问4个月大的胎儿做错了什么",
@@ -4033,6 +4169,14 @@
       "onboard_time": 1727068292,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 166659,
+      "num": 166659,
+      "word": "林奇被传遇难时带着绝密信息",
+      "onboard_time": 1727137940,
+      "rank": 34,
+      "category": "国外时政"
     },
     {
       "raw_hot": 166467,
@@ -4203,14 +4347,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 159179,
-      "num": 223195,
-      "word": "半熟男女 孩子是爱情稳定剂吗",
-      "onboard_time": 1727141538,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 158412,
       "num": 158412,
       "word": "半熟男女三女主义",
@@ -4265,14 +4401,6 @@
       "onboard_time": 1727096720,
       "rank": 46,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 156428,
-      "num": 156428,
-      "word": "二套房贷最低首付比例下调至15%",
-      "onboard_time": 1727143098,
-      "rank": 40,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 156361,
@@ -4427,6 +4555,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 148886,
+      "num": 148886,
+      "word": "肖战做气息发音训练",
+      "onboard_time": 1727144959,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 148843,
       "num": 182382,
       "word": "妹妹遇假警察骗局哥哥找来真警察",
@@ -4457,14 +4593,6 @@
       "onboard_time": 1726931305,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 148620,
-      "num": 222970,
-      "word": "杨志刚亲手制作酥山赠与多宝",
-      "onboard_time": 1727142797,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 148425,
@@ -4691,6 +4819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 141202,
+      "num": 141202,
+      "word": "姚安娜新剧没有技巧只有莽",
+      "onboard_time": 1727146158,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 141149,
       "num": 141149,
       "word": "王者荣耀联动李白故里",
@@ -4857,6 +4993,14 @@
       "onboard_time": 1727024297,
       "rank": 23,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 135100,
+      "num": 135100,
+      "word": "00后主打的就是一个没福硬享",
+      "onboard_time": 1727143519,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 134961,
@@ -5091,6 +5235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 126517,
+      "num": 126517,
+      "word": "律师谈运管人员便衣打车亮证",
+      "onboard_time": 1727145318,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 126392,
       "num": 126392,
       "word": "寻呼机炸响中东炸穿了世界的底线",
@@ -5225,6 +5377,14 @@
       "onboard_time": 1727087599,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 121563,
+      "num": 121563,
+      "word": "唐嫣超模气场",
+      "onboard_time": 1727143219,
+      "rank": 44,
+      "category": "时尚"
     },
     {
       "raw_hot": 120862,
@@ -5363,6 +5523,14 @@
       "category": "演出,电竞"
     },
     {
+      "raw_hot": 117059,
+      "num": 117059,
+      "word": "女子带猫逛商场猫被死死卡进扶梯",
+      "onboard_time": 1727146279,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 116615,
       "num": 107652,
       "word": "林宥嘉唱成全",
@@ -5441,6 +5609,14 @@
       "onboard_time": 1727044514,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 113342,
+      "num": 113342,
+      "word": "LPR",
+      "onboard_time": 1727146158,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 113098,
@@ -6740,7 +6916,7 @@
     },
     {
       "raw_hot": 33988,
-      "num": 1246772,
+      "num": 1448124,
       "word": "文化中国行看巴丹吉林沙漠之美",
       "onboard_time": 1727080280,
       "rank": 2,
