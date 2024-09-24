@@ -1,0 +1,410 @@
+{
+  "runTime": 1727160302452,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1520117,
+        "num": 1520117,
+        "word": "俩姑娘出去玩捡到一斤黄金",
+        "onboard_time": 1727152462,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 874469,
+        "num": 874469,
+        "word": "女子将农药挂树上致幼女误食丧命",
+        "onboard_time": 1727154441,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 7732,
+        "num": 870061,
+        "word": "铸牢共同体中华一家亲",
+        "onboard_time": 1727148499,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 866884,
+        "num": 866884,
+        "word": "于正问赵丽颖成毅合作谁是一番",
+        "onboard_time": 1727156720,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 782275,
+        "num": 782275,
+        "word": "胖东来禁止公司上下随礼",
+        "onboard_time": 1727150840,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 615910,
+        "num": 615910,
+        "word": "山西警方通报失联40多天女童已身亡",
+        "onboard_time": 1727155700,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 606439,
+        "num": 606439,
+        "word": "100万元房贷30年将少还10万",
+        "onboard_time": 1727144118,
+        "rank": 6,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 583049,
+        "num": 583049,
+        "word": "莫文蔚晒与肖战合照",
+        "onboard_time": 1727154141,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 50114,
+        "num": 532854,
+        "word": "市监局调查东北雨姐红薯粉条事件",
+        "onboard_time": 1727159718,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 531648,
+        "num": 531648,
+        "word": "降低存量房贷利率",
+        "onboard_time": 1727141659,
+        "rank": 9,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 445993,
+        "num": 445993,
+        "word": "专家称现在确实要苦一苦商业银行了",
+        "onboard_time": 1727146100,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 414831,
+        "num": 414831,
+        "word": "王楚钦谈当特派体育老师",
+        "onboard_time": 1727158819,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 376446,
+        "num": 376446,
+        "word": "樊振东去打羽毛球了",
+        "onboard_time": 1727158099,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 305215,
+        "num": 372891,
+        "word": "东北雨姐60S广告报价100万",
+        "onboard_time": 1727158580,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 362239,
+        "num": 362239,
+        "word": "华为发布会",
+        "onboard_time": 1727159898,
+        "rank": 14,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 355218,
+        "num": 355218,
+        "word": "赵丽颖张若昀 好演员间的惺惺相惜",
+        "onboard_time": 1727154381,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154645,
+        "num": 352218,
+        "word": "半熟男女田曦薇哭戏",
+        "onboard_time": 1727159718,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 351688,
+        "num": 351688,
+        "word": "东北雨姐带货红薯厂家承认含木薯粉",
+        "onboard_time": 1727146458,
+        "rank": 17,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 229143,
+        "num": 332392,
+        "word": "于正再宣新人男演员",
+        "onboard_time": 1727159119,
+        "rank": 18,
+        "category": "艺人,剧集"
+      },
+      {
+        "raw_hot": 313277,
+        "num": 313277,
+        "word": "A股8000亿资金来了",
+        "onboard_time": 1727154620,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 143522,
+        "num": 304068,
+        "word": "存贷利率下调每年将减少利息1500亿",
+        "onboard_time": 1727160017,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 494089,
+        "num": 303062,
+        "word": "博主打击酒店隐藏摄像头遭多人围堵",
+        "onboard_time": 1727147238,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 302008,
+        "num": 302008,
+        "word": "官方通报工作人员便装亮证查网约车",
+        "onboard_time": 1727143519,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 277807,
+        "num": 277807,
+        "word": "女童吃冷藏水果后大脑感染高烧不退",
+        "onboard_time": 1727156179,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 275062,
+        "num": 275062,
+        "word": "九省通衢的气质具象化了",
+        "onboard_time": 1727144598,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 269466,
+        "num": 269466,
+        "word": "山西一地新娘被众人绑电线杆上",
+        "onboard_time": 1727158219,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261194,
+        "num": 261194,
+        "word": "降低存量房贷利率切实为民纾困",
+        "onboard_time": 1727153001,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227772,
+        "num": 255990,
+        "word": "杨紫李现新剧将分上下两部",
+        "onboard_time": 1727153181,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191142,
+        "num": 251975,
+        "word": "黄小蕾晋商少奶奶造型",
+        "onboard_time": 1727158219,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172499,
+        "num": 246698,
+        "word": "这大概就是教育的意义",
+        "onboard_time": 1727157499,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 382381,
+        "num": 240280,
+        "word": "极乐鸟发长文",
+        "onboard_time": 1727159360,
+        "rank": 30,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 34032,
+        "num": 233509,
+        "word": "广州多个写字楼存在宽带垄断",
+        "onboard_time": 1727158342,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231125,
+        "num": 231125,
+        "word": "钟南山说身体很好基本恢复了",
+        "onboard_time": 1727158700,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229184,
+        "num": 229184,
+        "word": "iPhone16史上最容易维修iPhone",
+        "onboard_time": 1727143219,
+        "rank": 33,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 206289,
+        "num": 206289,
+        "word": "4个症状说明身体需要立刻休息",
+        "onboard_time": 1727146519,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 198357,
+        "num": 198357,
+        "word": "全身最早衰老的器官",
+        "onboard_time": 1727145858,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 197821,
+        "num": 197821,
+        "word": "胖东来员工结婚公司均随礼2000元",
+        "onboard_time": 1727155281,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187756,
+        "num": 187756,
+        "word": "长期不社交的人会有什么变化",
+        "onboard_time": 1727158999,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 175845,
+        "num": 175845,
+        "word": "太原一高校招聘多名东南亚留学博士",
+        "onboard_time": 1727155820,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 66013,
+        "num": 166576,
+        "word": "多方回应8岁女童坠井身亡",
+        "onboard_time": 1727158400,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163257,
+        "num": 163257,
+        "word": "凤凰传奇演唱会三城官宣",
+        "onboard_time": 1727159239,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 159608,
+        "num": 159608,
+        "word": "我国成功发射一箭8星",
+        "onboard_time": 1727154082,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 157787,
+        "num": 157787,
+        "word": "世界上最清澈的两个群体相遇了",
+        "onboard_time": 1727153001,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 156136,
+        "num": 156136,
+        "word": "A股",
+        "onboard_time": 1727144118,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 154723,
+        "num": 154723,
+        "word": "何知南高鹏复合",
+        "onboard_time": 1727160199,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154676,
+        "num": 154676,
+        "word": "知音漫客",
+        "onboard_time": 1727160017,
+        "rank": 45,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 51805,
+        "num": 150398,
+        "word": "无锡骗保案对医保政策会有何影响",
+        "onboard_time": 1727158099,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149735,
+        "num": 149735,
+        "word": "卢昱晓 琉璃少女",
+        "onboard_time": 1727154321,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146613,
+        "num": 146613,
+        "word": "开车后也能改签火车票",
+        "onboard_time": 1727157800,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141757,
+        "num": 141757,
+        "word": "Kim回归offer6",
+        "onboard_time": 1727153601,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#让航天科技成果更好造福人类#"
+    }
+  }
+}
