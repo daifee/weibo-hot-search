@@ -1,10 +1,10 @@
 {
   "startTime": 1727108827688,
-  "endTime": 1727146942340,
+  "endTime": 1727148457392,
   "band_list": [
     {
-      "raw_hot": 1891936,
-      "num": 1891936,
+      "raw_hot": 2234922,
+      "num": 2234922,
       "word": "100万元房贷30年将少还10万",
       "onboard_time": 1727144118,
       "rank": 0,
@@ -19,19 +19,19 @@
       "category": "财经"
     },
     {
+      "raw_hot": 1759877,
+      "num": 1759877,
+      "word": "司机称账号被封禁期间失去经济来源",
+      "onboard_time": 1727143519,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1722556,
       "num": 1722556,
       "word": "厕所发现摄像头高校认为无需报警",
       "onboard_time": 1727137940,
       "rank": 0,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1533292,
-      "num": 1533292,
-      "word": "司机称账号被封禁期间失去经济来源",
-      "onboard_time": 1727143519,
-      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -48,6 +48,14 @@
       "word": "降低存量房贷利率",
       "onboard_time": 1727141659,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1252943,
+      "num": 1252943,
+      "word": "专家称现在确实要苦一苦商业银行了",
+      "onboard_time": 1727146100,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -91,12 +99,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 823695,
+      "num": 823695,
+      "word": "姚安娜新剧没有技巧只有莽",
+      "onboard_time": 1727146158,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 767927,
       "num": 787210,
       "word": "王玉雯 谈恋爱不如结拜",
       "onboard_time": 1727138060,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 732006,
+      "num": 732006,
+      "word": "移民船上30具遗体腐烂难以辨认",
+      "onboard_time": 1727143160,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 725148,
@@ -145,14 +169,6 @@
       "onboard_time": 1727137820,
       "rank": 6,
       "category": "互联网,社会新闻"
-    },
-    {
-      "raw_hot": 585175,
-      "num": 585175,
-      "word": "移民船上30具遗体腐烂难以辨认",
-      "onboard_time": 1727143160,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 564727,
@@ -219,11 +235,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 439885,
+      "num": 573460,
+      "word": "九省通衢的气质具象化了",
+      "onboard_time": 1727144598,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 433106,
       "num": 433106,
       "word": "无锡虹桥医院15人被采取刑事强制措施",
       "onboard_time": 1727137158,
       "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 415745,
+      "num": 415745,
+      "word": "东北雨姐带货红薯厂家承认含木薯粉",
+      "onboard_time": 1727146458,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -252,11 +284,19 @@
     },
     {
       "raw_hot": 386573,
-      "num": 386573,
+      "num": 438201,
       "word": "林小宅这是可以说的吗",
       "onboard_time": 1727143160,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 386403,
+      "num": 386403,
+      "word": "全身最早衰老的器官",
+      "onboard_time": 1727145858,
+      "rank": 26,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 365935,
@@ -265,6 +305,14 @@
       "onboard_time": 1727093480,
       "rank": 20,
       "category": "网红"
+    },
+    {
+      "raw_hot": 354540,
+      "num": 354540,
+      "word": "博主打击酒店隐藏摄像头遭多人围堵",
+      "onboard_time": 1727147238,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 354341,
@@ -315,12 +363,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 328705,
+      "num": 432261,
+      "word": "周雨彤在国外最常用的英文",
+      "onboard_time": 1727146939,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 316320,
       "num": 316320,
       "word": "以军对黎巴嫩南部居民发出撤离警告",
       "onboard_time": 1727137940,
       "rank": 22,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 313170,
+      "num": 427246,
+      "word": "虞书欣生图",
+      "onboard_time": 1727146819,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 306690,
@@ -336,22 +400,6 @@
       "word": "多名考生反映连收10多条保研拒信",
       "onboard_time": 1727100801,
       "rank": 25,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 305115,
-      "num": 305115,
-      "word": "专家称现在确实要苦一苦商业银行了",
-      "onboard_time": 1727146100,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 294395,
-      "num": 573460,
-      "word": "九省通衢的气质具象化了",
-      "onboard_time": 1727144598,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -371,6 +419,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 281822,
+      "num": 281822,
+      "word": "羊毛衫真的会惩罚每一个水洗它的人",
+      "onboard_time": 1727143579,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 279818,
       "num": 279818,
       "word": "李白举杯回望人生",
@@ -385,14 +441,6 @@
       "onboard_time": 1727110215,
       "rank": 8,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 274921,
-      "num": 274921,
-      "word": "羊毛衫真的会惩罚每一个水洗它的人",
-      "onboard_time": 1727143579,
-      "rank": 21,
-      "category": "幽默"
     },
     {
       "raw_hot": 267373,
@@ -411,12 +459,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 264856,
-      "num": 264856,
-      "word": "全身最早衰老的器官",
-      "onboard_time": 1727145858,
-      "rank": 26,
-      "category": "健康医疗"
+      "raw_hot": 252318,
+      "num": 252318,
+      "word": "21岁女保安值班时被保安队长杀害",
+      "onboard_time": 1727146458,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 229009,
@@ -425,6 +473,14 @@
       "onboard_time": 1727145438,
       "rank": 19,
       "category": "电影"
+    },
+    {
+      "raw_hot": 225014,
+      "num": 225014,
+      "word": "网约车司机称便装亮证女子已道歉",
+      "onboard_time": 1727146398,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 222927,
@@ -459,6 +515,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 217615,
+      "num": 217615,
+      "word": "上海迪士尼将实行实名制购票",
+      "onboard_time": 1727147000,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 212691,
+      "num": 212691,
+      "word": "警方回应博主打击隐藏摄像头遭围堵",
+      "onboard_time": 1727146579,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 211928,
       "num": 211928,
       "word": "央行将下调存款准备金率0.5个百分点",
@@ -467,20 +539,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 207088,
-      "num": 201969,
-      "word": "21岁女保安值班时被保安队长杀害",
-      "onboard_time": 1727146458,
-      "rank": 32,
-      "category": "社会新闻"
+      "raw_hot": 207898,
+      "num": 207898,
+      "word": "4个症状说明身体需要立刻休息",
+      "onboard_time": 1727146519,
+      "rank": 45,
+      "category": "健康医疗"
     },
     {
-      "raw_hot": 205570,
-      "num": 205570,
-      "word": "姚安娜新剧没有技巧只有莽",
-      "onboard_time": 1727146158,
-      "rank": 37,
-      "category": "剧集"
+      "raw_hot": 205743,
+      "num": 205743,
+      "word": "时尚女总裁都来恋综找对象了",
+      "onboard_time": 1727148080,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 203791,
@@ -495,14 +567,6 @@
       "num": 201216,
       "word": "官方再通报无锡虹桥医院涉嫌骗取医保",
       "onboard_time": 1727138121,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 201180,
-      "num": 201180,
-      "word": "东北雨姐带货红薯厂家承认含木薯粉",
-      "onboard_time": 1727146458,
       "rank": 33,
       "category": "社会新闻"
     },
@@ -547,12 +611,36 @@
       "category": "电影"
     },
     {
+      "raw_hot": 194324,
+      "num": 194324,
+      "word": "银行将持续降低月供族的房贷成本",
+      "onboard_time": 1727147840,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 193728,
       "num": 193728,
       "word": "老百姓房贷月供少了",
       "onboard_time": 1727144179,
       "rank": 28,
       "category": "财经"
+    },
+    {
+      "raw_hot": 188555,
+      "num": 188555,
+      "word": "易烊千玺献唱航天原创歌曲不辞星海",
+      "onboard_time": 1727148018,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 188522,
+      "num": 188522,
+      "word": "赵丽颖发新片眼神戏海报",
+      "onboard_time": 1727147659,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 187515,
@@ -577,6 +665,14 @@
       "onboard_time": 1727140339,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 178768,
+      "num": 178768,
+      "word": "女子带猫逛商场猫被死死卡进扶梯",
+      "onboard_time": 1727146279,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 177849,
@@ -611,12 +707,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 164343,
-      "num": 164343,
-      "word": "警方回应博主打击隐藏摄像头遭围堵",
-      "onboard_time": 1727146579,
-      "rank": 39,
-      "category": "社会新闻"
+      "raw_hot": 162854,
+      "num": 162854,
+      "word": "暴走邻家",
+      "onboard_time": 1727146880,
+      "rank": 48,
+      "category": "动漫"
     },
     {
       "raw_hot": 160428,
@@ -651,14 +747,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 150236,
-      "num": 150236,
-      "word": "女子带猫逛商场猫被死死卡进扶梯",
-      "onboard_time": 1727146279,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 148886,
       "num": 148886,
       "word": "肖战做气息发音训练",
@@ -673,22 +761,6 @@
       "onboard_time": 1727146519,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 143574,
-      "num": 143574,
-      "word": "虞书欣生图",
-      "onboard_time": 1727146819,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 142645,
-      "num": 142645,
-      "word": "4个症状说明身体需要立刻休息",
-      "onboard_time": 1727146519,
-      "rank": 45,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 141984,
@@ -707,11 +779,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 141409,
-      "num": 141409,
-      "word": "网约车司机称便装亮证女子已道歉",
-      "onboard_time": 1727146398,
-      "rank": 47,
+      "raw_hot": 140018,
+      "num": 435705,
+      "word": "血常规报告中这4项最重要",
+      "onboard_time": 1727146699,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -723,20 +795,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 136890,
-      "num": 136890,
-      "word": "暴走邻家",
-      "onboard_time": 1727146880,
-      "rank": 48,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 136441,
       "num": 136441,
       "word": "守护甜心 日奈森亚梦",
       "onboard_time": 1727146519,
       "rank": 49,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 136184,
+      "num": 259133,
+      "word": "专家点评最新房贷政策",
+      "onboard_time": 1727146458,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 135576,
@@ -907,20 +979,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 104940,
-      "num": 405569,
-      "word": "血常规报告中这4项最重要",
-      "onboard_time": 1727146699,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 99620,
       "num": 99620,
       "word": "恋与深空",
       "onboard_time": 1727093120,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 98810,
+      "num": 418350,
+      "word": "校长开家长会下封口令被停职",
+      "onboard_time": 1727147000,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 97386,
@@ -985,6 +1057,14 @@
       "onboard_time": 1727112853,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 87659,
+      "num": 594754,
+      "word": "父亲将判给女儿的房产私下卖出",
+      "onboard_time": 1727146638,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 81441,
@@ -1115,6 +1195,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 51282,
+      "num": 419603,
+      "word": "舍不得星星新浪扫楼",
+      "onboard_time": 1727147840,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 50968,
       "num": 56165,
       "word": "肖战感谢力宏哥的运镜",
@@ -1179,11 +1267,11 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 20176,
-      "num": 594754,
-      "word": "父亲将判给女儿的房产私下卖出",
-      "onboard_time": 1727146638,
-      "rank": 9,
+      "raw_hot": 21594,
+      "num": 1456991,
+      "word": "老铁山单日记录迁徙猛禽过万只",
+      "onboard_time": 1727148199,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -1241,6 +1329,9 @@
     },
     {
       "word": "#加快建设航天强国#"
+    },
+    {
+      "word": "#让航天科技成果更好造福人类#"
     }
   ]
 }

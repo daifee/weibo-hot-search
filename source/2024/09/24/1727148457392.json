@@ -1,0 +1,410 @@
+{
+  "runTime": 1727148457392,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2234922,
+        "num": 2234922,
+        "word": "100万元房贷30年将少还10万",
+        "onboard_time": 1727144118,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1759877,
+        "num": 1759877,
+        "word": "司机称账号被封禁期间失去经济来源",
+        "onboard_time": 1727143519,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21594,
+        "num": 1456991,
+        "word": "老铁山单日记录迁徙猛禽过万只",
+        "onboard_time": 1727148199,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1252943,
+        "num": 1252943,
+        "word": "专家称现在确实要苦一苦商业银行了",
+        "onboard_time": 1727146100,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1047480,
+        "num": 1047480,
+        "word": "降低存量房贷利率",
+        "onboard_time": 1727141659,
+        "rank": 4,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 957684,
+        "num": 957684,
+        "word": "央行宣布降息降准",
+        "onboard_time": 1727142559,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 823695,
+        "num": 823695,
+        "word": "姚安娜新剧没有技巧只有莽",
+        "onboard_time": 1727146158,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 772248,
+        "num": 772248,
+        "word": "iPhone16史上最容易维修iPhone",
+        "onboard_time": 1727143219,
+        "rank": 7,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 732006,
+        "num": 732006,
+        "word": "移民船上30具遗体腐烂难以辨认",
+        "onboard_time": 1727143160,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 415755,
+        "num": 599946,
+        "word": "王玉雯 谈恋爱不如结拜",
+        "onboard_time": 1727138060,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 486417,
+        "num": 486417,
+        "word": "厕所发现摄像头高校认为无需报警",
+        "onboard_time": 1727137940,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 448544,
+        "num": 448544,
+        "word": "二套房贷最低首付比例下调至15%",
+        "onboard_time": 1727143098,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 439885,
+        "num": 439885,
+        "word": "九省通衢的气质具象化了",
+        "onboard_time": 1727144598,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 378175,
+        "num": 438201,
+        "word": "林小宅这是可以说的吗",
+        "onboard_time": 1727143160,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140018,
+        "num": 435705,
+        "word": "血常规报告中这4项最重要",
+        "onboard_time": 1727146699,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 328705,
+        "num": 432261,
+        "word": "周雨彤在国外最常用的英文",
+        "onboard_time": 1727146939,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 313170,
+        "num": 427246,
+        "word": "虞书欣生图",
+        "onboard_time": 1727146819,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 87659,
+        "num": 425268,
+        "word": "父亲将判给女儿的房产私下卖出",
+        "onboard_time": 1727146638,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 51282,
+        "num": 419603,
+        "word": "舍不得星星新浪扫楼",
+        "onboard_time": 1727147840,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 98810,
+        "num": 418350,
+        "word": "校长开家长会下封口令被停职",
+        "onboard_time": 1727147000,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 415745,
+        "num": 415745,
+        "word": "东北雨姐带货红薯厂家承认含木薯粉",
+        "onboard_time": 1727146458,
+        "rank": 20,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 386403,
+        "num": 386403,
+        "word": "全身最早衰老的器官",
+        "onboard_time": 1727145858,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 364355,
+        "num": 364355,
+        "word": "便装乘网约车亮证执法女子调离岗位",
+        "onboard_time": 1727140279,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 354540,
+        "num": 354540,
+        "word": "博主打击酒店隐藏摄像头遭多人围堵",
+        "onboard_time": 1727147238,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 328686,
+        "num": 328686,
+        "word": "韩男子杀女友后将其砌进阳台灌水泥",
+        "onboard_time": 1727133376,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290846,
+        "num": 290846,
+        "word": "肖央赵丽颖刘烨三双眼睛一种恨",
+        "onboard_time": 1727144418,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 281822,
+        "num": 281822,
+        "word": "羊毛衫真的会惩罚每一个水洗它的人",
+        "onboard_time": 1727143579,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 276949,
+        "num": 276949,
+        "word": "唐嫣走秀wink",
+        "onboard_time": 1727136199,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 259599,
+        "num": 259599,
+        "word": "以前不理解李慧珍 上班后老实了",
+        "onboard_time": 1727105479,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136184,
+        "num": 259133,
+        "word": "专家点评最新房贷政策",
+        "onboard_time": 1727146458,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258944,
+        "num": 258944,
+        "word": "极乐鸟工作室",
+        "onboard_time": 1727103920,
+        "rank": 30,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 252318,
+        "num": 252318,
+        "word": "21岁女保安值班时被保安队长杀害",
+        "onboard_time": 1727146458,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225014,
+        "num": 225014,
+        "word": "网约车司机称便装亮证女子已道歉",
+        "onboard_time": 1727146398,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220934,
+        "num": 220934,
+        "word": "朴信惠新剧",
+        "onboard_time": 1727141780,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 5980,
+        "num": 218383,
+        "word": "文化中国行看巴丹吉林沙漠之美",
+        "onboard_time": 1727080280,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217615,
+        "num": 217615,
+        "word": "上海迪士尼将实行实名制购票",
+        "onboard_time": 1727147000,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212691,
+        "num": 212691,
+        "word": "警方回应博主打击隐藏摄像头遭围堵",
+        "onboard_time": 1727146579,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208806,
+        "num": 208806,
+        "word": "以军空袭黎巴嫩492死1645伤",
+        "onboard_time": 1727105359,
+        "rank": 37,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 207898,
+        "num": 207898,
+        "word": "4个症状说明身体需要立刻休息",
+        "onboard_time": 1727146519,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 205743,
+        "num": 205743,
+        "word": "时尚女总裁都来恋综找对象了",
+        "onboard_time": 1727148080,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205428,
+        "num": 205428,
+        "word": "国庆档新片片长",
+        "onboard_time": 1727145438,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 194324,
+        "num": 194324,
+        "word": "银行将持续降低月供族的房贷成本",
+        "onboard_time": 1727147840,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189992,
+        "num": 189992,
+        "word": "紧身牛仔裤是犯了时尚界的死罪吗",
+        "onboard_time": 1727137281,
+        "rank": 42,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 188555,
+        "num": 188555,
+        "word": "易烊千玺献唱航天原创歌曲不辞星海",
+        "onboard_time": 1727148018,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188522,
+        "num": 188522,
+        "word": "赵丽颖发新片眼神戏海报",
+        "onboard_time": 1727147659,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 185225,
+        "num": 185225,
+        "word": "半熟男女 孩子是爱情稳定剂吗",
+        "onboard_time": 1727141538,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178768,
+        "num": 178768,
+        "word": "女子带猫逛商场猫被死死卡进扶梯",
+        "onboard_time": 1727146279,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173426,
+        "num": 173426,
+        "word": "70多年前他们用鲜血护住身后万家团圆",
+        "onboard_time": 1727137759,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163480,
+        "num": 163480,
+        "word": "老百姓房贷月供少了",
+        "onboard_time": 1727144179,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 162854,
+        "num": 162854,
+        "word": "暴走邻家",
+        "onboard_time": 1727146880,
+        "rank": 49,
+        "category": "动漫"
+      }
+    ],
+    "hotgov": {
+      "word": "#让航天科技成果更好造福人类#"
+    }
+  }
+}
