@@ -1,6 +1,6 @@
 {
   "startTime": 1727195285620,
-  "endTime": 1727239290076,
+  "endTime": 1727241725594,
   "band_list": [
     {
       "raw_hot": 2135949,
@@ -9,6 +9,22 @@
       "onboard_time": 1727231179,
       "rank": 0,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1683468,
+      "num": 1683468,
+      "word": "12306回应部分车票一开售就是候补",
+      "onboard_time": 1727238981,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1427671,
+      "num": 1427671,
+      "word": "一网约车司机4年出200多次事故",
+      "onboard_time": 1727237000,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1145766,
@@ -41,6 +57,14 @@
       "onboard_time": 1727199072,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1005975,
+      "num": 1005975,
+      "word": "周扬青 果然男人最懂男人",
+      "onboard_time": 1727238320,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 899017,
@@ -81,14 +105,6 @@
       "onboard_time": 1727175258,
       "rank": 0,
       "category": "网红"
-    },
-    {
-      "raw_hot": 786915,
-      "num": 786915,
-      "word": "一网约车司机4年出200多次事故",
-      "onboard_time": 1727237000,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 786800,
@@ -163,6 +179,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 609059,
+      "num": 609059,
+      "word": "女总裁六年没谈恋爱二战恋综",
+      "onboard_time": 1727239702,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 605911,
+      "num": 605911,
+      "word": "赵丽颖你知道人是会遭报应的吗",
+      "onboard_time": 1727238261,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 598142,
       "num": 598142,
       "word": "猎罪图鉴2首发预告",
@@ -209,14 +241,6 @@
       "onboard_time": 1727227698,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 514504,
-      "num": 471416,
-      "word": "赵丽颖你知道人是会遭报应的吗",
-      "onboard_time": 1727238261,
-      "rank": 24,
-      "category": "电影"
     },
     {
       "raw_hot": 512968,
@@ -291,14 +315,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 431291,
-      "num": 431291,
-      "word": "周扬青 果然男人最懂男人",
-      "onboard_time": 1727238320,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 422745,
       "num": 422745,
       "word": "沈以诚播客下架",
@@ -321,6 +337,14 @@
       "onboard_time": 1727227818,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 404504,
+      "num": 404504,
+      "word": "学校景区附近主题房是偷拍重灾区",
+      "onboard_time": 1727239281,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 404150,
@@ -369,6 +393,14 @@
       "onboard_time": 1727232137,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 362743,
+      "num": 362743,
+      "word": "猪肉冒充牛肉干电商卖了500万",
+      "onboard_time": 1727240183,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 360805,
@@ -427,6 +459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 318490,
+      "num": 341215,
+      "word": "半熟男女 女主人设",
+      "onboard_time": 1727238920,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 305873,
       "num": 256835,
       "word": "你是我见过班味最重的",
@@ -483,6 +523,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 269580,
+      "num": 267947,
+      "word": "酒店回应大闸蟹自助半小时只给1只",
+      "onboard_time": 1727237179,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 262476,
       "num": 262476,
       "word": "黑神话遭遇第八十二难",
@@ -515,11 +563,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 253547,
-      "num": 253547,
-      "word": "酒店回应大闸蟹自助半小时只给1只",
-      "onboard_time": 1727237179,
-      "rank": 41,
+      "raw_hot": 256252,
+      "num": 256252,
+      "word": "80后中产父母开始抛弃国际学校了",
+      "onboard_time": 1727238861,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -563,6 +611,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 242246,
+      "num": 258001,
+      "word": "楠丁格尔先生",
+      "onboard_time": 1727236220,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 232144,
+      "num": 232144,
+      "word": "狐妖小红娘王权篇剑指王权海报",
+      "onboard_time": 1727236280,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 221383,
       "num": 221383,
       "word": "绝区零1.2",
@@ -571,19 +635,19 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 217952,
+      "num": 217952,
+      "word": "女子闪了腰仍坚持家务险致瘫痪",
+      "onboard_time": 1727239460,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 217605,
       "num": 217605,
       "word": "胡歌楠丁格尔先生海报",
       "onboard_time": 1727236819,
       "rank": 39,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 217192,
-      "num": 217192,
-      "word": "狐妖小红娘王权篇剑指王权海报",
-      "onboard_time": 1727236280,
-      "rank": 40,
       "category": "剧集"
     },
     {
@@ -643,6 +707,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 202114,
+      "num": 202114,
+      "word": "金晨说田嘉瑞是一辈子的好朋友",
+      "onboard_time": 1727240061,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 202045,
       "num": 202045,
       "word": "猫 咬完就跑好刺激",
@@ -688,14 +760,6 @@
       "word": "男子不戒酒肉痛风石疯长7厘米",
       "onboard_time": 1727234299,
       "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 197772,
-      "num": 197772,
-      "word": "12306回应部分车票一开售就是候补",
-      "onboard_time": 1727238981,
-      "rank": 40,
       "category": "社会新闻"
     },
     {
@@ -827,12 +891,12 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 175901,
-      "num": 175901,
-      "word": "80后中产父母开始抛弃国际学校了",
-      "onboard_time": 1727238861,
-      "rank": 46,
-      "category": "社会新闻"
+      "raw_hot": 177474,
+      "num": 320630,
+      "word": "刘琳新剧硬刚老公",
+      "onboard_time": 1727241442,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 175247,
@@ -841,6 +905,14 @@
       "onboard_time": 1727233938,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 174804,
+      "num": 174804,
+      "word": "原神",
+      "onboard_time": 1727240003,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 173755,
@@ -883,11 +955,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 167540,
-      "num": 341215,
-      "word": "半熟男女 女主人设",
-      "onboard_time": 1727238920,
-      "rank": 16,
+      "raw_hot": 165634,
+      "num": 217779,
+      "word": "李一桐在古装剧里做PPT",
+      "onboard_time": 1727238261,
+      "rank": 38,
       "category": "剧集"
     },
     {
@@ -947,20 +1019,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 159178,
-      "num": 159178,
-      "word": "楠丁格尔先生",
-      "onboard_time": 1727236220,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 155836,
       "num": 331878,
       "word": "力箭一号遥四商业运载火箭发射成功",
       "onboard_time": 1727225179,
       "rank": 9,
       "category": "军事"
+    },
+    {
+      "raw_hot": 154664,
+      "num": 249469,
+      "word": "6块6的咖啡攻不下县城年轻人",
+      "onboard_time": 1727239221,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 150649,
+      "num": 155055,
+      "word": "书卷一梦",
+      "onboard_time": 1727241260,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 150400,
@@ -1035,14 +1115,6 @@
       "category": "社会新闻,国外时政"
     },
     {
-      "raw_hot": 141498,
-      "num": 217779,
-      "word": "李一桐在古装剧里做PPT",
-      "onboard_time": 1727238261,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 140888,
       "num": 238565,
       "word": "男子刷手机掉海里漂了3小时",
@@ -1057,14 +1129,6 @@
       "onboard_time": 1727225600,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 133459,
-      "num": 249469,
-      "word": "6块6的咖啡攻不下县城年轻人",
-      "onboard_time": 1727239221,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 133401,
@@ -1427,6 +1491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 55732,
+      "num": 267337,
+      "word": "细嚼慢咽到底是每口嚼几下",
+      "onboard_time": 1727239882,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 53189,
       "num": 66358,
       "word": "芦淞大桥事故现场堆满鲜花玩偶",
@@ -1473,6 +1545,14 @@
       "onboard_time": 1727197934,
       "rank": 38,
       "category": "电影"
+    },
+    {
+      "raw_hot": 43360,
+      "num": 360526,
+      "word": "株洲6死7伤事故背后的安全之问",
+      "onboard_time": 1727240900,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 42820,
@@ -1563,6 +1643,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 28937,
+      "num": 256333,
+      "word": "王欣瑜vs本玉真唯",
+      "onboard_time": 1727241321,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 25277,
       "num": 28153,
       "word": "黎巴嫩夺命寻呼机从何而来",
@@ -1595,6 +1683,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 17674,
+      "num": 1097832,
+      "word": "被丰收的颜色惊艳到了",
+      "onboard_time": 1727241621,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 14727,
       "num": 30290,
       "word": "老太疑被民警殴打曾有人提出4万私了",
@@ -1617,6 +1713,14 @@
       "onboard_time": 1727148199,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 6128,
+      "num": 256466,
+      "word": "WTT中国大满贯2024全名单",
+      "onboard_time": 1727241680,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 3387,

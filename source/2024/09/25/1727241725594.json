@@ -1,0 +1,410 @@
+{
+  "runTime": 1727241725594,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1683468,
+        "num": 1683468,
+        "word": "12306回应部分车票一开售就是候补",
+        "onboard_time": 1727238981,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1427671,
+        "num": 1427671,
+        "word": "一网约车司机4年出200多次事故",
+        "onboard_time": 1727237000,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 17674,
+        "num": 1097832,
+        "word": "被丰收的颜色惊艳到了",
+        "onboard_time": 1727241621,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1005975,
+        "num": 1005975,
+        "word": "周扬青 果然男人最懂男人",
+        "onboard_time": 1727238320,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 803139,
+        "num": 803139,
+        "word": "我军向太平洋发射洲际弹道导弹",
+        "onboard_time": 1727231179,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 609059,
+        "num": 609059,
+        "word": "女总裁六年没谈恋爱二战恋综",
+        "onboard_time": 1727239702,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 605911,
+        "num": 605911,
+        "word": "赵丽颖你知道人是会遭报应的吗",
+        "onboard_time": 1727238261,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 463811,
+        "num": 463811,
+        "word": "6块6的咖啡打不赢价格战",
+        "onboard_time": 1727234119,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 422624,
+        "num": 422624,
+        "word": "爱奇艺片单",
+        "onboard_time": 1727228839,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 415184,
+        "num": 415184,
+        "word": "俄拟立法禁止宣传不生孩子",
+        "onboard_time": 1727231778,
+        "rank": 9,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 404504,
+        "num": 404504,
+        "word": "学校景区附近主题房是偷拍重灾区",
+        "onboard_time": 1727239281,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 683070,
+        "num": 398580,
+        "word": "赵丽颖尹昉新剧吻戏",
+        "onboard_time": 1727233280,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 362743,
+        "num": 362743,
+        "word": "猪肉冒充牛肉干电商卖了500万",
+        "onboard_time": 1727240183,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 360561,
+        "num": 360561,
+        "word": "猎罪图鉴2首发预告",
+        "onboard_time": 1727235559,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 43360,
+        "num": 360526,
+        "word": "株洲6死7伤事故背后的安全之问",
+        "onboard_time": 1727240900,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 360524,
+        "num": 360524,
+        "word": "王源朋友圈三天可见",
+        "onboard_time": 1727237841,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 177474,
+        "num": 320630,
+        "word": "刘琳新剧硬刚老公",
+        "onboard_time": 1727241442,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 318490,
+        "num": 318490,
+        "word": "半熟男女 女主人设",
+        "onboard_time": 1727238920,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 296812,
+        "num": 296812,
+        "word": "蔡磊夫妇愿终身投入罕见病研究",
+        "onboard_time": 1727233820,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 269287,
+        "num": 269287,
+        "word": "王楚钦中国大满贯倒计时海报",
+        "onboard_time": 1727229919,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 467828,
+        "num": 269079,
+        "word": "学校禁止学生带牛奶挨个查包",
+        "onboard_time": 1727207290,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 426937,
+        "num": 268471,
+        "word": "迪丽热巴成功追星娜塔莉波特曼",
+        "onboard_time": 1727224280,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 276684,
+        "num": 268223,
+        "word": "高铁站一声舅舅换来一群兵舅舅回头",
+        "onboard_time": 1727232258,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 269580,
+        "num": 267947,
+        "word": "酒店回应大闸蟹自助半小时只给1只",
+        "onboard_time": 1727237179,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 55732,
+        "num": 267337,
+        "word": "细嚼慢咽到底是每口嚼几下",
+        "onboard_time": 1727239882,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267137,
+        "num": 267137,
+        "word": "韩安冉说小英没有塌房",
+        "onboard_time": 1727223680,
+        "rank": 25,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 261572,
+        "num": 261572,
+        "word": "黑神话遭遇第八十二难",
+        "onboard_time": 1727237179,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 242246,
+        "num": 258001,
+        "word": "楠丁格尔先生",
+        "onboard_time": 1727236220,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 6128,
+        "num": 256466,
+        "word": "WTT中国大满贯2024全名单",
+        "onboard_time": 1727241680,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 28937,
+        "num": 256333,
+        "word": "王欣瑜vs本玉真唯",
+        "onboard_time": 1727241321,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 256252,
+        "num": 256252,
+        "word": "80后中产父母开始抛弃国际学校了",
+        "onboard_time": 1727238861,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240276,
+        "num": 240276,
+        "word": "炉石传说将补偿玩家2023年全部卡牌",
+        "onboard_time": 1727227818,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 232144,
+        "num": 232144,
+        "word": "狐妖小红娘王权篇剑指王权海报",
+        "onboard_time": 1727236280,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 228801,
+        "num": 228801,
+        "word": "曝光民宿摄像头事件博主再发声",
+        "onboard_time": 1727227698,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227654,
+        "num": 227654,
+        "word": "如鸢",
+        "onboard_time": 1727230879,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 217952,
+        "num": 217952,
+        "word": "女子闪了腰仍坚持家务险致瘫痪",
+        "onboard_time": 1727239460,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216030,
+        "num": 216030,
+        "word": "摊主偷偷把58元说成38元",
+        "onboard_time": 1727233159,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203966,
+        "num": 203966,
+        "word": "杨紫韩东君家业概念海报",
+        "onboard_time": 1727231837,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 202114,
+        "num": 202114,
+        "word": "金晨说田嘉瑞是一辈子的好朋友",
+        "onboard_time": 1727240061,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200887,
+        "num": 200887,
+        "word": "胡歌楠丁格尔先生海报",
+        "onboard_time": 1727236819,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 177633,
+        "num": 177633,
+        "word": "人民币重回6字头",
+        "onboard_time": 1727230638,
+        "rank": 40,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 174804,
+        "num": 174804,
+        "word": "原神",
+        "onboard_time": 1727240003,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 165634,
+        "num": 165634,
+        "word": "李一桐在古装剧里做PPT",
+        "onboard_time": 1727238261,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163044,
+        "num": 163044,
+        "word": "白鹿让虐文大女主有脸了",
+        "onboard_time": 1727232380,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163037,
+        "num": 163037,
+        "word": "极乐鸟",
+        "onboard_time": 1727223320,
+        "rank": 44,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 158985,
+        "num": 158985,
+        "word": "男子不戒酒肉痛风石疯长7厘米",
+        "onboard_time": 1727234299,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150649,
+        "num": 155055,
+        "word": "书卷一梦",
+        "onboard_time": 1727241260,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154765,
+        "num": 154765,
+        "word": "车保罗不觉得当导游是降身价",
+        "onboard_time": 1727238020,
+        "rank": 47,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 154664,
+        "num": 154664,
+        "word": "6块6的咖啡攻不下县城年轻人",
+        "onboard_time": 1727239221,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154291,
+        "num": 154291,
+        "word": "王骁田曦薇新剧演师兄妹",
+        "onboard_time": 1727238380,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#我国航天事业实现历史性高质量跨越式发展#"
+    }
+  }
+}
