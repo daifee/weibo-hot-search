@@ -1,0 +1,410 @@
+{
+  "runTime": 1727307331509,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1005568,
+        "num": 1005568,
+        "word": "人社局回应公司禁带苹果产品",
+        "onboard_time": 1727292611,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 731412,
+        "num": 731412,
+        "word": "预制朋友圈火了",
+        "onboard_time": 1727277141,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 44248,
+        "num": 670389,
+        "word": "首次亮相天安门广场的蔬果花篮",
+        "onboard_time": 1727268981,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 654134,
+        "num": 654134,
+        "word": "秦岚卢昱晓任敏 财阀家的千金们",
+        "onboard_time": 1727305815,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 560808,
+        "num": 560808,
+        "word": "于适新头像",
+        "onboard_time": 1727276360,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 343036,
+        "num": 343036,
+        "word": "山西是有一个睡眠结界吗",
+        "onboard_time": 1727281877,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 418165,
+        "num": 337457,
+        "word": "钟丽缇53岁状态",
+        "onboard_time": 1727306355,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 280022,
+        "num": 280022,
+        "word": "合肥3.8级地震与4.7级地震震中基本一致",
+        "onboard_time": 1727272403,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242693,
+        "num": 242693,
+        "word": "阿尔山景区多家酒店默认早9点退房",
+        "onboard_time": 1727270961,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184389,
+        "num": 203594,
+        "word": "33岁男子辞去工程监理摆摊卖卤肉",
+        "onboard_time": 1727305875,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 742611,
+        "num": 198185,
+        "word": "女律师在工作群发与上司出轨细节",
+        "onboard_time": 1727274082,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 535911,
+        "num": 197593,
+        "word": "学校回应学生仅退款被拒骂客服1小时",
+        "onboard_time": 1727275700,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186235,
+        "num": 186235,
+        "word": "恒温壶",
+        "onboard_time": 1727280199,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178745,
+        "num": 178745,
+        "word": "47岁女教师成为大体老师重回母校",
+        "onboard_time": 1727254940,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162677,
+        "num": 162677,
+        "word": "73岁母亲现场怒打54岁惯犯儿子",
+        "onboard_time": 1727272403,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154543,
+        "num": 154543,
+        "word": "本轮冷空气或将终结南方高温",
+        "onboard_time": 1727268200,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142917,
+        "num": 142917,
+        "word": "吴谨言线下活动",
+        "onboard_time": 1727274319,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141283,
+        "num": 141283,
+        "word": "法考",
+        "onboard_time": 1727278579,
+        "rank": 17,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 139171,
+        "num": 139171,
+        "word": "黄景瑜说取消顾一燃旅店那段是现挂",
+        "onboard_time": 1727276841,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128356,
+        "num": 128356,
+        "word": "肖战湾区升明月vlog",
+        "onboard_time": 1727305815,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 256967,
+        "num": 120773,
+        "word": "中国人的尿酸为啥越来越高了",
+        "onboard_time": 1727284994,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 190432,
+        "num": 117642,
+        "word": "天降烟头到熟睡孩子床上床单被烧焦",
+        "onboard_time": 1727301131,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112554,
+        "num": 112554,
+        "word": "合肥肥东今年已经发生5次地震",
+        "onboard_time": 1727266580,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98648,
+        "num": 98648,
+        "word": "赵今麦张凌赫自然到不像演的",
+        "onboard_time": 1727269402,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 97318,
+        "num": 97318,
+        "word": "没有十年工龄看不懂的摸鱼技巧",
+        "onboard_time": 1727305215,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 95199,
+        "num": 95199,
+        "word": "高龄产妇困在备孕失败的那些年",
+        "onboard_time": 1727273299,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94717,
+        "num": 94717,
+        "word": "合肥肥东3.8级地震",
+        "onboard_time": 1727264422,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 84879,
+        "num": 89293,
+        "word": "苏醒 写了一百多首没有一首是火的",
+        "onboard_time": 1727270120,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 81248,
+        "num": 89022,
+        "word": "Echo 答案之书",
+        "onboard_time": 1727285593,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 74728,
+        "num": 88870,
+        "word": "檀健次 沈翊越疯越迷人",
+        "onboard_time": 1727302332,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 88783,
+        "num": 88783,
+        "word": "张雨霏50蝶夺冠",
+        "onboard_time": 1727274982,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 87745,
+        "num": 87745,
+        "word": "12306候补一种很新的存钱方式",
+        "onboard_time": 1727274680,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 85670,
+        "num": 85670,
+        "word": "小狗 个头小本事大",
+        "onboard_time": 1727305335,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 83593,
+        "num": 83593,
+        "word": "我的宝藏家乡",
+        "onboard_time": 1727275879,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 80248,
+        "num": 80248,
+        "word": "25岁遇害女村干部系家中独女",
+        "onboard_time": 1727260219,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 76827,
+        "num": 76827,
+        "word": "律所回应女律师自曝出轨上司",
+        "onboard_time": 1727306656,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 76054,
+        "num": 76054,
+        "word": "苹果商店软件涉黄",
+        "onboard_time": 1727247679,
+        "rank": 36,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 73938,
+        "num": 73938,
+        "word": "广州地铁警察佩戴女性服务包",
+        "onboard_time": 1727270659,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 72253,
+        "num": 72253,
+        "word": "一般4级以上地震才有预警提醒",
+        "onboard_time": 1727277800,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 66706,
+        "num": 66706,
+        "word": "8天婴儿呛奶爸爸海姆立克急救",
+        "onboard_time": 1727284873,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 66259,
+        "num": 66259,
+        "word": "新能源汽车也要年检了",
+        "onboard_time": 1727304073,
+        "rank": 40,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 64109,
+        "num": 64109,
+        "word": "尹净汉入伍前发文",
+        "onboard_time": 1727306115,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 63714,
+        "num": 63714,
+        "word": "单依纯获奖感言",
+        "onboard_time": 1727269461,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 62532,
+        "num": 62532,
+        "word": "追光的你",
+        "onboard_time": 1727299390,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 59230,
+        "num": 59230,
+        "word": "郑钦文张之臻中网酒会造型",
+        "onboard_time": 1727306597,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 58761,
+        "num": 58761,
+        "word": "直击合肥肥东地震震中",
+        "onboard_time": 1727277561,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 58207,
+        "num": 58207,
+        "word": "一女子声音被做成AI产品网上售卖",
+        "onboard_time": 1727276601,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 56786,
+        "num": 56786,
+        "word": "第一次见宋茜哭成这样",
+        "onboard_time": 1727306897,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 50790,
+        "num": 56780,
+        "word": "倪妮拉链吊带黑裙",
+        "onboard_time": 1727271441,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 50418,
+        "num": 56758,
+        "word": "原生家庭对人的性格影响太大了",
+        "onboard_time": 1727291112,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#科技赋能强种业人勤苗壮绘丰收#"
+    }
+  }
+}
