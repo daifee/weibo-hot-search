@@ -1,6 +1,6 @@
 {
   "startTime": 1726936020707,
-  "endTime": 1727256277508,
+  "endTime": 1727257115910,
   "band_list": [
     {
       "raw_hot": 6817146,
@@ -579,6 +579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1215503,
+      "num": 1215503,
+      "word": "瑞士使用安乐死胶囊舱相关人员被捕",
+      "onboard_time": 1727254281,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1213528,
       "num": 596576,
       "word": "半熟男女 性同意",
@@ -593,6 +601,14 @@
       "onboard_time": 1727163498,
       "rank": 11,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1195210,
+      "num": 1195210,
+      "word": "47岁女教师成为大体老师重回母校",
+      "onboard_time": 1727254940,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1191794,
@@ -1555,14 +1571,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 678541,
-      "num": 678541,
-      "word": "瑞士使用安乐死胶囊舱相关人员被捕",
-      "onboard_time": 1727254281,
-      "rank": 3,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 675813,
       "num": 675813,
       "word": "石家庄警方通报民宿摄像头事件",
@@ -1601,6 +1609,14 @@
       "onboard_time": 1727167398,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 664194,
+      "num": 386025,
+      "word": "南丁格尔是女护士",
+      "onboard_time": 1727251580,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 661543,
@@ -1883,6 +1899,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 577315,
+      "num": 577315,
+      "word": "电视剧遮天",
+      "onboard_time": 1727254519,
+      "rank": 14,
+      "category": "剧集,动漫"
+    },
+    {
       "raw_hot": 575746,
       "num": 575746,
       "word": "店员用个人收款码收4万被刑拘",
@@ -2163,14 +2187,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 504728,
-      "num": 386025,
-      "word": "南丁格尔是女护士",
-      "onboard_time": 1727251580,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 503713,
       "num": 503713,
       "word": "王源朋友圈三天可见",
@@ -2345,14 +2361,6 @@
       "onboard_time": 1727154381,
       "rank": 20,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 471845,
-      "num": 471845,
-      "word": "47岁女教师成为大体老师重回母校",
-      "onboard_time": 1727254940,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 471840,
@@ -3115,14 +3123,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 360628,
-      "num": 360628,
-      "word": "电视剧遮天",
-      "onboard_time": 1727254519,
-      "rank": 14,
-      "category": "剧集,动漫"
-    },
-    {
       "raw_hot": 359677,
       "num": 359677,
       "word": "A股全面爆发",
@@ -3257,6 +3257,14 @@
       "onboard_time": 1727173279,
       "rank": 22,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 347285,
+      "num": 347285,
+      "word": "闵熙珍继续担任NewJeans制作人",
+      "onboard_time": 1727256141,
+      "rank": 28,
+      "category": "音乐"
     },
     {
       "raw_hot": 346939,
@@ -3515,6 +3523,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 310267,
+      "num": 310267,
+      "word": "王嘉尔压轴",
+      "onboard_time": 1727254761,
+      "rank": 18,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 309414,
       "num": 233595,
       "word": "aespa",
@@ -3537,6 +3553,14 @@
       "onboard_time": 1727179579,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 306360,
+      "num": 244038,
+      "word": "蒋梦婕黄黑皮",
+      "onboard_time": 1727255181,
+      "rank": 23,
+      "category": "电影"
     },
     {
       "raw_hot": 306093,
@@ -3848,14 +3872,6 @@
       "word": "微博音乐盛典节目单",
       "onboard_time": 1727170518,
       "rank": 28,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 278554,
-      "num": 278554,
-      "word": "王嘉尔压轴",
-      "onboard_time": 1727254761,
-      "rank": 18,
       "category": "音乐"
     },
     {
@@ -4171,14 +4187,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 260268,
-      "num": 244038,
-      "word": "蒋梦婕黄黑皮",
-      "onboard_time": 1727255181,
-      "rank": 23,
-      "category": "电影"
-    },
-    {
       "raw_hot": 260259,
       "num": 252953,
       "word": "陈乔恩Alan婚纱写真",
@@ -4283,6 +4291,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 252336,
+      "num": 239155,
+      "word": "余景天沈小婷一起走红毯",
+      "onboard_time": 1727254098,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 252119,
       "num": 225067,
       "word": "全红婵被陈若琳问体重回答没有秤",
@@ -4345,6 +4361,14 @@
       "onboard_time": 1727018486,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 248258,
+      "num": 248258,
+      "word": "又一酒店房间被曝摄像头正对床",
+      "onboard_time": 1727254881,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 247703,
@@ -4481,14 +4505,6 @@
       "onboard_time": 1726916301,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 239155,
-      "num": 239155,
-      "word": "余景天沈小婷一起走红毯",
-      "onboard_time": 1727254098,
-      "rank": 25,
-      "category": "音乐"
     },
     {
       "raw_hot": 238366,
@@ -5011,14 +5027,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 213096,
-      "num": 213096,
-      "word": "又一酒店房间被曝摄像头正对床",
-      "onboard_time": 1727254881,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 212848,
       "num": 212848,
       "word": "云宫迅音",
@@ -5113,14 +5121,6 @@
       "onboard_time": 1726972159,
       "rank": 8,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 209616,
-      "num": 209616,
-      "word": "闵熙珍继续担任NewJeans制作人",
-      "onboard_time": 1727256141,
-      "rank": 28,
-      "category": "音乐"
     },
     {
       "raw_hot": 209544,
@@ -5281,6 +5281,14 @@
       "onboard_time": 1727089280,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 205113,
+      "num": 205113,
+      "word": "陈都灵 神女赛道",
+      "onboard_time": 1727255541,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 204973,
@@ -5617,6 +5625,14 @@
       "onboard_time": 1726982780,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 199064,
+      "num": 199064,
+      "word": "一路繁花有张兰和向太",
+      "onboard_time": 1727256380,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 198916,
@@ -6563,6 +6579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 180367,
+      "num": 180367,
+      "word": "山西通报新娘被多名男子绑电线杆上",
+      "onboard_time": 1727251639,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 180099,
       "num": 160936,
       "word": "经常做梦和很少做梦谁睡眠质量好",
@@ -6713,14 +6737,6 @@
       "onboard_time": 1727080340,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 175844,
-      "num": 175844,
-      "word": "陈都灵 神女赛道",
-      "onboard_time": 1727255541,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 175796,
@@ -7035,6 +7051,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 167365,
+      "num": 167365,
+      "word": "民宿老板售卖偷拍视频日收入五位数",
+      "onboard_time": 1727253261,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 166752,
       "num": 166752,
       "word": "阿云嘎新歌唢呐一出泪腺控不住",
@@ -7321,14 +7345,6 @@
       "onboard_time": 1727231418,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 162227,
-      "num": 162227,
-      "word": "民宿老板售卖偷拍视频日收入五位数",
-      "onboard_time": 1727253261,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 162179,
@@ -8323,14 +8339,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 138387,
-      "num": 138387,
-      "word": "山西通报新娘被多名男子绑电线杆上",
-      "onboard_time": 1727251639,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 138069,
       "num": 138069,
       "word": "朱一龙ELLE银十封面",
@@ -9259,6 +9267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 115243,
+      "num": 115243,
+      "word": "哈里斯竞选团队办公室遭枪击受损",
+      "onboard_time": 1727256980,
+      "rank": 46,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 114655,
       "num": 114655,
       "word": "哈兰德追平C罗百球纪录",
@@ -9297,6 +9313,14 @@
       "onboard_time": 1727148860,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 113661,
+      "num": 113661,
+      "word": "周深一口气介绍新专辑",
+      "onboard_time": 1727257040,
+      "rank": 49,
+      "category": "音乐"
     },
     {
       "raw_hot": 113544,
@@ -9699,6 +9723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 94003,
+      "num": 404799,
+      "word": "非法放贷APP贷款利率高达2300%",
+      "onboard_time": 1727255000,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 93999,
       "num": 93999,
       "word": "易烊千玺内场直拍",
@@ -9849,6 +9881,14 @@
       "onboard_time": 1727164941,
       "rank": 15,
       "category": "数码"
+    },
+    {
+      "raw_hot": 86325,
+      "num": 214356,
+      "word": "前民宿老板揭露偷拍黑色产业链",
+      "onboard_time": 1727256020,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 85689,
@@ -10139,14 +10179,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 70283,
-      "num": 404799,
-      "word": "非法放贷APP贷款利率高达2300%",
-      "onboard_time": 1727255000,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 70041,
       "num": 70041,
       "word": "牙医最大的谎言",
@@ -10385,14 +10417,6 @@
       "onboard_time": 1727039891,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 59112,
-      "num": 191552,
-      "word": "前民宿老板揭露偷拍黑色产业链",
-      "onboard_time": 1727256020,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 58897,
@@ -10785,6 +10809,14 @@
       "onboard_time": 1727198833,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 47842,
+      "num": 148771,
+      "word": "比亚迪第900万辆新能源车仰望U9下线",
+      "onboard_time": 1727256499,
+      "rank": 38,
+      "category": "汽车"
     },
     {
       "raw_hot": 47444,
