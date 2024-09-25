@@ -1,6 +1,6 @@
 {
   "startTime": 1727281816744,
-  "endTime": 1727296612398,
+  "endTime": 1727299319024,
   "band_list": [
     {
       "raw_hot": 1228111,
@@ -195,6 +195,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 128308,
+      "num": 134435,
+      "word": "人社局回应公司禁带苹果产品",
+      "onboard_time": 1727292611,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 110181,
       "num": 68439,
       "word": "中国人的尿酸为啥越来越高了",
@@ -209,14 +217,6 @@
       "onboard_time": 1727267420,
       "rank": 24,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 103580,
-      "num": 103580,
-      "word": "人社局回应公司禁带苹果产品",
-      "onboard_time": 1727292611,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 101856,
@@ -523,12 +523,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 16521,
-      "num": 18085,
+      "raw_hot": 17576,
+      "num": 18745,
       "word": "感觉这个小哥快要碎掉了",
       "onboard_time": 1727292552,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 17204,
+      "num": 22710,
+      "word": "脱口秀和Ta的朋友们",
+      "onboard_time": 1727266219,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 13964,
@@ -536,6 +544,14 @@
       "word": "非法使用窃听窃照专用器材或领刑2年",
       "onboard_time": 1727294051,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 10573,
+      "num": 25698,
+      "word": "文化中国行文博日历",
+      "onboard_time": 1727298491,
+      "rank": 20,
       "category": "社会新闻"
     },
     {
