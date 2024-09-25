@@ -1,6 +1,6 @@
 {
   "startTime": 1727195285620,
-  "endTime": 1727259897754,
+  "endTime": 1727260939484,
   "band_list": [
     {
       "raw_hot": 2727211,
@@ -33,6 +33,14 @@
       "onboard_time": 1727247679,
       "rank": 10,
       "category": "数码"
+    },
+    {
+      "raw_hot": 1510247,
+      "num": 1510247,
+      "word": "银川地震",
+      "onboard_time": 1727259859,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1493598,
@@ -107,19 +115,19 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1088453,
+      "num": 1088453,
+      "word": "又一酒店房间被曝摄像头正对床",
+      "onboard_time": 1727254881,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1075725,
       "num": 1075725,
       "word": "老人长时间坐星巴克门口员工报警劝离",
       "onboard_time": 1727199072,
       "rank": 44,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1069913,
-      "num": 777888,
-      "word": "又一酒店房间被曝摄像头正对床",
-      "onboard_time": 1727254881,
-      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -235,6 +243,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 752940,
+      "num": 752940,
+      "word": "微博音乐盛典",
+      "onboard_time": 1727259500,
+      "rank": 8,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 730851,
       "num": 730851,
       "word": "父亲车祸身亡后继母和儿子互相起诉",
@@ -249,6 +265,14 @@
       "onboard_time": 1727228839,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 725079,
+      "num": 725079,
+      "word": "一路繁花有张兰和向太",
+      "onboard_time": 1727256380,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 714165,
@@ -275,14 +299,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 699833,
-      "num": 699833,
-      "word": "一路繁花有张兰和向太",
-      "onboard_time": 1727256380,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 688880,
       "num": 688880,
       "word": "猪肉冒充牛肉干电商卖了500万",
@@ -291,12 +307,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 686439,
-      "num": 686439,
-      "word": "银川地震",
-      "onboard_time": 1727259859,
-      "rank": 5,
-      "category": "社会新闻"
+      "raw_hot": 685308,
+      "num": 319982,
+      "word": "蒋梦婕回应退圈",
+      "onboard_time": 1727259979,
+      "rank": 21,
+      "category": "电影"
     },
     {
       "raw_hot": 684078,
@@ -355,6 +371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 597257,
+      "num": 478675,
+      "word": "如何看待公司禁止员工带苹果产品",
+      "onboard_time": 1727257399,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 590213,
       "num": 590213,
       "word": "南京街头现大量百元钞票",
@@ -387,14 +411,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 553488,
-      "num": 553488,
-      "word": "微博音乐盛典",
-      "onboard_time": 1727259500,
-      "rank": 8,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 545366,
       "num": 545366,
       "word": "杨幂欧豪生万物海报",
@@ -409,6 +425,14 @@
       "onboard_time": 1727227698,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 523940,
+      "num": 475966,
+      "word": "楠丁格尔先生片名引争议",
+      "onboard_time": 1727251221,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 512968,
@@ -435,28 +459,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 489310,
-      "num": 475966,
-      "word": "楠丁格尔先生片名引争议",
-      "onboard_time": 1727251221,
-      "rank": 15,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 485278,
       "num": 485278,
       "word": "沈翊 疯批感",
       "onboard_time": 1727234478,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 478675,
-      "num": 478675,
-      "word": "如何看待公司禁止员工带苹果产品",
-      "onboard_time": 1727257399,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 477160,
@@ -715,6 +723,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 327257,
+      "num": 327257,
+      "word": "25岁遇害女村干部系家中独女",
+      "onboard_time": 1727260219,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 321552,
       "num": 279803,
       "word": "大张伟辟谣是北京人就打过大张伟",
@@ -769,6 +785,14 @@
       "onboard_time": 1727220497,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 302944,
+      "num": 302944,
+      "word": "R1SE合影",
+      "onboard_time": 1727260159,
+      "rank": 23,
+      "category": "音乐"
     },
     {
       "raw_hot": 301977,
@@ -1171,6 +1195,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 201537,
+      "num": 175590,
+      "word": "张帅中网开门红",
+      "onboard_time": 1727260760,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 201277,
       "num": 201277,
       "word": "一市民4元机选彩票中1000万元",
@@ -1387,6 +1419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 182279,
+      "num": 182279,
+      "word": "马龙孙颖莎王楚钦赛前训练画面",
+      "onboard_time": 1727259078,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 180667,
       "num": 180667,
       "word": "林志颖王心凌比心三连拍",
@@ -1433,6 +1473,14 @@
       "onboard_time": 1727238020,
       "rank": 49,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 175421,
+      "num": 175421,
+      "word": "云次方",
+      "onboard_time": 1727260699,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 175247,
@@ -1707,12 +1755,28 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 146950,
+      "num": 146950,
+      "word": "如鸢预约",
+      "onboard_time": 1727260760,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 146852,
       "num": 146852,
       "word": "王者S37新赛季今日开启",
       "onboard_time": 1727233159,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 145976,
+      "num": 145976,
+      "word": "G社镜头下的迪丽热巴周也金智秀",
+      "onboard_time": 1727259979,
+      "rank": 36,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 145187,
@@ -1891,11 +1955,43 @@
       "category": "财经"
     },
     {
+      "raw_hot": 129562,
+      "num": 175755,
+      "word": "张帅终结单打24连败",
+      "onboard_time": 1727260579,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 128865,
       "num": 417444,
       "word": "这就是中国青年",
       "onboard_time": 1727228657,
       "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 125893,
+      "num": 476402,
+      "word": "A股吹响冲锋号",
+      "onboard_time": 1727257940,
+      "rank": 17,
+      "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 125829,
+      "num": 125829,
+      "word": "陈卓璇甄姬既视感",
+      "onboard_time": 1727260338,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 125583,
+      "num": 558575,
+      "word": "管住偷拍摄像头还得重罚酒店",
+      "onboard_time": 1727258720,
+      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -2035,14 +2131,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 111429,
-      "num": 111429,
-      "word": "马龙孙颖莎王楚钦赛前训练画面",
-      "onboard_time": 1727259078,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 111009,
       "num": 111009,
       "word": "张鲁一用手写瘦金体告别吴邪",
@@ -2131,6 +2219,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 80540,
+      "num": 476105,
+      "word": "女子充完话费接到警方通知涉嫌洗钱",
+      "onboard_time": 1727259439,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 79523,
       "num": 79523,
       "word": "博主大娃回应被东北雨姐殴打",
@@ -2185,14 +2281,6 @@
       "onboard_time": 1727245580,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 73993,
-      "num": 476402,
-      "word": "A股吹响冲锋号",
-      "onboard_time": 1727257940,
-      "rank": 17,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 72227,
@@ -2259,6 +2347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 67309,
+      "num": 393945,
+      "word": "一招测出房间里是否有偷拍摄像头",
+      "onboard_time": 1727260041,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 63179,
       "num": 63179,
       "word": "卫昭 月落的地方就是家的方向",
@@ -2315,14 +2411,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 53869,
-      "num": 558575,
-      "word": "管住偷拍摄像头还得重罚酒店",
-      "onboard_time": 1727258720,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 53189,
       "num": 66358,
       "word": "芦淞大桥事故现场堆满鲜花玩偶",
@@ -2348,7 +2436,7 @@
     },
     {
       "raw_hot": 50716,
-      "num": 907993,
+      "num": 1106112,
       "word": "我国成功发射一箭5星",
       "onboard_time": 1727252060,
       "rank": 2,
@@ -2480,14 +2568,6 @@
       "word": "全网都在找这辆红色SUV",
       "onboard_time": 1727247619,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 41844,
-      "num": 476105,
-      "word": "女子充完话费接到警方通知涉嫌洗钱",
-      "onboard_time": 1727259439,
-      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -2664,6 +2744,22 @@
       "word": "老太疑被民警殴打曾有人提出4万私了",
       "onboard_time": 1727203392,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 13032,
+      "num": 121123,
+      "word": "微博音乐盛典红毯出片搭子",
+      "onboard_time": 1727260699,
+      "rank": 46,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 12081,
+      "num": 419814,
+      "word": "专家称新能源车能替代房地产是胡说",
+      "onboard_time": 1727260820,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
