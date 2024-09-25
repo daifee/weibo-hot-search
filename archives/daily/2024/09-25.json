@@ -1,10 +1,10 @@
 {
   "startTime": 1727195285620,
-  "endTime": 1727233492685,
+  "endTime": 1727234986312,
   "band_list": [
     {
-      "raw_hot": 1839938,
-      "num": 1839938,
+      "raw_hot": 2135949,
+      "num": 2135949,
       "word": "我军向太平洋发射洲际弹道导弹",
       "onboard_time": 1727231179,
       "rank": 0,
@@ -27,12 +27,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 899017,
+      "num": 739217,
+      "word": "学校禁止学生带牛奶挨个查包",
+      "onboard_time": 1727207290,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 881499,
       "num": 844756,
       "word": "全红婵真的内耗不了一点",
       "onboard_time": 1727229138,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 861280,
+      "num": 861280,
+      "word": "赵丽颖尹昉新剧吻戏",
+      "onboard_time": 1727233280,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 857249,
@@ -67,20 +83,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 739217,
-      "num": 739217,
-      "word": "学校禁止学生带牛奶挨个查包",
-      "onboard_time": 1727207290,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 730851,
       "num": 730851,
       "word": "父亲车祸身亡后继母和儿子互相起诉",
       "onboard_time": 1727229078,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 727881,
+      "num": 727881,
+      "word": "爱奇艺片单",
+      "onboard_time": 1727228839,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 709155,
@@ -99,14 +115,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 655843,
-      "num": 655843,
-      "word": "爱奇艺片单",
-      "onboard_time": 1727228839,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 622732,
       "num": 116905,
       "word": "8岁女童小区内坠井身亡母亲发声",
@@ -121,6 +129,22 @@
       "onboard_time": 1727200273,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 572723,
+      "num": 572723,
+      "word": "王楚钦中国大满贯倒计时海报",
+      "onboard_time": 1727229919,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 566408,
+      "num": 566408,
+      "word": "俄拟立法禁止宣传不生孩子",
+      "onboard_time": 1727231778,
+      "rank": 14,
+      "category": "国外时政"
     },
     {
       "raw_hot": 555305,
@@ -139,6 +163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 530886,
+      "num": 530886,
+      "word": "曝光民宿摄像头事件博主再发声",
+      "onboard_time": 1727227698,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 512968,
       "num": 295479,
       "word": "考上公费师范生后我选择违约",
@@ -147,12 +179,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 497012,
-      "num": 497012,
-      "word": "王楚钦中国大满贯倒计时海报",
-      "onboard_time": 1727229919,
-      "rank": 7,
-      "category": "体育"
+      "raw_hot": 506699,
+      "num": 284081,
+      "word": "高铁站一声舅舅换来一群兵舅舅回头",
+      "onboard_time": 1727232258,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 495938,
@@ -235,6 +267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 383904,
+      "num": 383904,
+      "word": "狐妖小红娘竹业篇竹影剑心海报",
+      "onboard_time": 1727233820,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 380057,
       "num": 372033,
       "word": "杜江找肖战要签名后续",
@@ -275,6 +315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 352182,
+      "num": 277511,
+      "word": "摊主偷偷把58元说成38元",
+      "onboard_time": 1727233159,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 344689,
       "num": 344689,
       "word": "电视剧家业",
@@ -283,28 +331,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 337105,
-      "num": 337105,
-      "word": "曝光民宿摄像头事件博主再发声",
-      "onboard_time": 1727227698,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 334777,
       "num": 334777,
       "word": "迪丽热巴无袖束腰裙",
       "onboard_time": 1727185340,
       "rank": 6,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 330025,
-      "num": 330025,
-      "word": "俄拟立法禁止宣传不生孩子",
-      "onboard_time": 1727231778,
-      "rank": 14,
-      "category": "国外时政"
     },
     {
       "raw_hot": 321552,
@@ -371,12 +403,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 256230,
-      "num": 256230,
-      "word": "高铁站一声舅舅换来一群兵舅舅回头",
-      "onboard_time": 1727232258,
-      "rank": 32,
-      "category": "社会新闻"
+      "raw_hot": 254499,
+      "num": 254499,
+      "word": "大逃脱回归",
+      "onboard_time": 1727233099,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 252119,
@@ -385,6 +417,14 @@
       "onboard_time": 1727190621,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 248469,
+      "num": 248469,
+      "word": "刘亦菲新封面老婆变老公",
+      "onboard_time": 1727233639,
+      "rank": 29,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 245703,
@@ -403,28 +443,36 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 228707,
-      "num": 228707,
+      "raw_hot": 233556,
+      "num": 233556,
       "word": "人民币重回6字头",
       "onboard_time": 1727230638,
       "rank": 27,
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 218849,
+      "num": 218849,
+      "word": "白鹿让虐文大女主有脸了",
+      "onboard_time": 1727232380,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 216851,
+      "num": 216851,
+      "word": "A股牛回速归",
+      "onboard_time": 1727233700,
+      "rank": 32,
+      "category": "财经"
+    },
+    {
       "raw_hot": 216122,
-      "num": 216122,
+      "num": 569712,
       "word": "炉石传说",
       "onboard_time": 1727197514,
       "rank": 10,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 211637,
-      "num": 211637,
-      "word": "大逃脱回归",
-      "onboard_time": 1727233099,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 207613,
@@ -443,12 +491,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 204643,
+      "num": 204643,
+      "word": "绝区零",
+      "onboard_time": 1727233639,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 202045,
       "num": 202045,
       "word": "猫 咬完就跑好刺激",
       "onboard_time": 1727225959,
       "rank": 27,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 201747,
+      "num": 201747,
+      "word": "衡门有狐临江仙首发预告",
+      "onboard_time": 1727234240,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 201277,
@@ -459,11 +523,27 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 200837,
-      "num": 200837,
-      "word": "白鹿让虐文大女主有脸了",
-      "onboard_time": 1727232380,
+      "raw_hot": 200237,
+      "num": 200237,
+      "word": "斩神赵将军callback",
+      "onboard_time": 1727234780,
+      "rank": 35,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 200213,
+      "num": 200213,
+      "word": "新能源车企出海也在拼文化输出",
+      "onboard_time": 1727234899,
       "rank": 36,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 195819,
+      "num": 195819,
+      "word": "沈翊 疯批感",
+      "onboard_time": 1727234478,
+      "rank": 37,
       "category": "剧集"
     },
     {
@@ -473,6 +553,14 @@
       "onboard_time": 1727202793,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 191127,
+      "num": 191127,
+      "word": "法考成绩",
+      "onboard_time": 1727232919,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 190389,
@@ -499,11 +587,19 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 180614,
-      "num": 164520,
-      "word": "赵丽颖尹昉新剧吻戏",
-      "onboard_time": 1727233280,
-      "rank": 37,
+      "raw_hot": 185141,
+      "num": 185648,
+      "word": "李宇春大梦归离主题曲MV",
+      "onboard_time": 1727234299,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 183425,
+      "num": 183425,
+      "word": "真的有剧拍了女人你在玩火",
+      "onboard_time": 1727233159,
+      "rank": 35,
       "category": "剧集"
     },
     {
@@ -555,11 +651,19 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 167877,
-      "num": 167877,
-      "word": "真的有剧拍了女人你在玩火",
-      "onboard_time": 1727233159,
-      "rank": 35,
+      "raw_hot": 164509,
+      "num": 164509,
+      "word": "李一桐新剧不是三角恋是三角杀",
+      "onboard_time": 1727234541,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 164484,
+      "num": 164484,
+      "word": "在人间全阵容剧照",
+      "onboard_time": 1727234478,
+      "rank": 47,
       "category": "剧集"
     },
     {
@@ -595,20 +699,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 159883,
+      "num": 410727,
+      "word": "影子不会说谎和警方联合行动",
+      "onboard_time": 1727233038,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 159538,
       "num": 159538,
       "word": "周雨彤 我朋友多都在惦记我",
       "onboard_time": 1727229801,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 159270,
-      "num": 159270,
-      "word": "摊主偷偷把58元说成38元",
-      "onboard_time": 1727233159,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 155836,
@@ -697,6 +801,14 @@
       "onboard_time": 1727225600,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 136514,
+      "num": 568030,
+      "word": "隐藏摄像头为何无孔不入",
+      "onboard_time": 1727233938,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 133401,
@@ -843,14 +955,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 106034,
-      "num": 106034,
-      "word": "法考成绩",
-      "onboard_time": 1727232919,
-      "rank": 49,
-      "category": "教育"
-    },
-    {
       "raw_hot": 99928,
       "num": 99928,
       "word": "孙颖莎说非常期待在北京比赛",
@@ -889,14 +993,6 @@
       "onboard_time": 1727186481,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 86177,
-      "num": 410727,
-      "word": "影子不会说谎和警方联合行动",
-      "onboard_time": 1727233038,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 85094,
@@ -979,6 +1075,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 71074,
+      "num": 451487,
+      "word": "6块6的咖啡打不赢价格战",
+      "onboard_time": 1727234119,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 71050,
       "num": 71050,
       "word": "国庆部分航班票价降超一半",
@@ -1016,6 +1120,14 @@
       "word": "厕所发现摄像头高校应立即报警",
       "onboard_time": 1727191761,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 65583,
+      "num": 304386,
+      "word": "男子不戒酒肉痛风石疯长7厘米",
+      "onboard_time": 1727234299,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -1163,6 +1275,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 35395,
+      "num": 493711,
+      "word": "想和王一博一起漫步",
+      "onboard_time": 1727233639,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 33911,
       "num": 38624,
       "word": "周深演唱会好浪漫",
@@ -1201,6 +1321,14 @@
       "onboard_time": 1727214792,
       "rank": 49,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 17316,
+      "num": 566744,
+      "word": "推进延迟退休改革要做好这三项工作",
+      "onboard_time": 1727234838,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 14727,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1727234986312,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2135949,
+        "num": 2135949,
+        "word": "我军向太平洋发射洲际弹道导弹",
+        "onboard_time": 1727231179,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 861280,
+        "num": 861280,
+        "word": "赵丽颖尹昉新剧吻戏",
+        "onboard_time": 1727233280,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 6493,
+        "num": 737845,
+        "word": "老铁山单日记录迁徙猛禽过万只",
+        "onboard_time": 1727148199,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 727881,
+        "num": 727881,
+        "word": "爱奇艺片单",
+        "onboard_time": 1727228839,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 627132,
+        "num": 627132,
+        "word": "父亲车祸身亡后继母和儿子互相起诉",
+        "onboard_time": 1727229078,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 572723,
+        "num": 572723,
+        "word": "王楚钦中国大满贯倒计时海报",
+        "onboard_time": 1727229919,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 344190,
+        "num": 572604,
+        "word": "中国维和部队排除未爆火箭弹",
+        "onboard_time": 1727226559,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 188155,
+        "num": 569712,
+        "word": "炉石传说",
+        "onboard_time": 1727197514,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 136514,
+        "num": 568030,
+        "word": "隐藏摄像头为何无孔不入",
+        "onboard_time": 1727233938,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 17316,
+        "num": 566744,
+        "word": "推进延迟退休改革要做好这三项工作",
+        "onboard_time": 1727234838,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 566408,
+        "num": 566408,
+        "word": "俄拟立法禁止宣传不生孩子",
+        "onboard_time": 1727231778,
+        "rank": 10,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 530886,
+        "num": 530886,
+        "word": "曝光民宿摄像头事件博主再发声",
+        "onboard_time": 1727227698,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 35395,
+        "num": 493711,
+        "word": "想和王一博一起漫步",
+        "onboard_time": 1727233639,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 480522,
+        "num": 480522,
+        "word": "杨幂欧豪生万物海报",
+        "onboard_time": 1727231717,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 71074,
+        "num": 451487,
+        "word": "6块6的咖啡打不赢价格战",
+        "onboard_time": 1727234119,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 445273,
+        "num": 445273,
+        "word": "杨紫韩东君家业概念海报",
+        "onboard_time": 1727231837,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 383904,
+        "num": 383904,
+        "word": "狐妖小红娘竹业篇竹影剑心海报",
+        "onboard_time": 1727233820,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 353265,
+        "num": 353265,
+        "word": "好怕唐嫣突然说一句China",
+        "onboard_time": 1727191161,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 306641,
+        "num": 306641,
+        "word": "炉石传说将补偿玩家2023年全部卡牌",
+        "onboard_time": 1727227818,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 65583,
+        "num": 304386,
+        "word": "男子不戒酒肉痛风石疯长7厘米",
+        "onboard_time": 1727234299,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 899017,
+        "num": 300561,
+        "word": "学校禁止学生带牛奶挨个查包",
+        "onboard_time": 1727207290,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 604505,
+        "num": 292638,
+        "word": "迪丽热巴成功追星娜塔莉波特曼",
+        "onboard_time": 1727224280,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 551117,
+        "num": 289607,
+        "word": "韩安冉说小英没有塌房",
+        "onboard_time": 1727223680,
+        "rank": 22,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 506699,
+        "num": 284081,
+        "word": "高铁站一声舅舅换来一群兵舅舅回头",
+        "onboard_time": 1727232258,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 352182,
+        "num": 277511,
+        "word": "摊主偷偷把58元说成38元",
+        "onboard_time": 1727233159,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 277309,
+        "num": 277309,
+        "word": "成毅赴山海双角色海报",
+        "onboard_time": 1727232137,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159883,
+        "num": 259730,
+        "word": "影子不会说谎和警方联合行动",
+        "onboard_time": 1727233038,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254499,
+        "num": 254499,
+        "word": "大逃脱回归",
+        "onboard_time": 1727233099,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 250130,
+        "num": 250130,
+        "word": "老人长时间坐星巴克门口员工报警劝离",
+        "onboard_time": 1727199072,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248469,
+        "num": 248469,
+        "word": "刘亦菲新封面老婆变老公",
+        "onboard_time": 1727233639,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 233556,
+        "num": 233556,
+        "word": "人民币重回6字头",
+        "onboard_time": 1727230638,
+        "rank": 30,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 218849,
+        "num": 218849,
+        "word": "白鹿让虐文大女主有脸了",
+        "onboard_time": 1727232380,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 216851,
+        "num": 216851,
+        "word": "A股牛回速归",
+        "onboard_time": 1727233700,
+        "rank": 32,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 204643,
+        "num": 204643,
+        "word": "绝区零",
+        "onboard_time": 1727233639,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 201747,
+        "num": 201747,
+        "word": "衡门有狐临江仙首发预告",
+        "onboard_time": 1727234240,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 200237,
+        "num": 200237,
+        "word": "斩神赵将军callback",
+        "onboard_time": 1727234780,
+        "rank": 35,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 200213,
+        "num": 200213,
+        "word": "新能源车企出海也在拼文化输出",
+        "onboard_time": 1727234899,
+        "rank": 36,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 195819,
+        "num": 195819,
+        "word": "沈翊 疯批感",
+        "onboard_time": 1727234478,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191127,
+        "num": 191127,
+        "word": "法考成绩",
+        "onboard_time": 1727232919,
+        "rank": 38,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 185996,
+        "num": 185996,
+        "word": "杜江找肖战要签名后续",
+        "onboard_time": 1727223860,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 185141,
+        "num": 185648,
+        "word": "李宇春大梦归离主题曲MV",
+        "onboard_time": 1727234299,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185604,
+        "num": 185604,
+        "word": "A股",
+        "onboard_time": 1727228058,
+        "rank": 41,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 183425,
+        "num": 183425,
+        "word": "真的有剧拍了女人你在玩火",
+        "onboard_time": 1727233159,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181370,
+        "num": 181370,
+        "word": "博士妻子陪失意丈夫卖甜水",
+        "onboard_time": 1727228179,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178493,
+        "num": 178493,
+        "word": "考上公费师范生后我选择违约",
+        "onboard_time": 1727224340,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165596,
+        "num": 165596,
+        "word": "电视剧家业",
+        "onboard_time": 1727222780,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164509,
+        "num": 164509,
+        "word": "李一桐新剧不是三角恋是三角杀",
+        "onboard_time": 1727234541,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164484,
+        "num": 164484,
+        "word": "在人间全阵容剧照",
+        "onboard_time": 1727234478,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164348,
+        "num": 164348,
+        "word": "沈以诚播客下架",
+        "onboard_time": 1727224460,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 150096,
+        "num": 150096,
+        "word": "赵丽颖带火的簪花渔村现状",
+        "onboard_time": 1727223799,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国圆了飞天揽月梦也圆了自主创新梦#"
+    }
+  }
+}
