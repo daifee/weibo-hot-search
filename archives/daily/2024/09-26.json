@@ -1,6 +1,6 @@
 {
   "startTime": 1727281816744,
-  "endTime": 1727303946534,
+  "endTime": 1727306482693,
   "band_list": [
     {
       "raw_hot": 1228111,
@@ -27,8 +27,16 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 709676,
-      "num": 194459,
+      "raw_hot": 899415,
+      "num": 899415,
+      "word": "人社局回应公司禁带苹果产品",
+      "onboard_time": 1727292611,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 756710,
+      "num": 201130,
       "word": "女律师在工作群发与上司出轨细节",
       "onboard_time": 1727274082,
       "rank": 10,
@@ -36,7 +44,7 @@
     },
     {
       "raw_hot": 550899,
-      "num": 191467,
+      "num": 200752,
       "word": "学校回应学生仅退款被拒骂客服1小时",
       "onboard_time": 1727275700,
       "rank": 11,
@@ -51,11 +59,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 419429,
-      "num": 500511,
-      "word": "人社局回应公司禁带苹果产品",
-      "onboard_time": 1727292611,
-      "rank": 49,
+      "raw_hot": 481182,
+      "num": 200562,
+      "word": "秦岚卢昱晓任敏 财阀家的千金们",
+      "onboard_time": 1727305815,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 366444,
+      "num": 366444,
+      "word": "山西是有一个睡眠结界吗",
+      "onboard_time": 1727281877,
+      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -65,14 +81,6 @@
       "onboard_time": 1727247679,
       "rank": 5,
       "category": "数码"
-    },
-    {
-      "raw_hot": 332863,
-      "num": 332863,
-      "word": "山西是有一个睡眠结界吗",
-      "onboard_time": 1727281877,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 321345,
@@ -89,6 +97,14 @@
       "onboard_time": 1727266521,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 246235,
+      "num": 119956,
+      "word": "中国人的尿酸为啥越来越高了",
+      "onboard_time": 1727284994,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 239281,
@@ -123,6 +139,30 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 212716,
+      "num": 212716,
+      "word": "恒温壶",
+      "onboard_time": 1727280199,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 201792,
+      "num": 201792,
+      "word": "阿尔山景区多家酒店默认早9点退房",
+      "onboard_time": 1727270961,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 199976,
+      "num": 201690,
+      "word": "肖战湾区升明月vlog",
+      "onboard_time": 1727305815,
+      "rank": 8,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 195422,
       "num": 195422,
       "word": "本轮冷空气或将终结南方高温",
@@ -131,11 +171,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 181465,
-      "num": 181465,
-      "word": "阿尔山景区多家酒店默认早9点退房",
-      "onboard_time": 1727270961,
-      "rank": 15,
+      "raw_hot": 190332,
+      "num": 119059,
+      "word": "天降烟头到熟睡孩子床上床单被烧焦",
+      "onboard_time": 1727301131,
+      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -187,14 +227,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 144022,
-      "num": 69282,
-      "word": "中国人的尿酸为啥越来越高了",
-      "onboard_time": 1727284994,
-      "rank": 21,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 143970,
       "num": 143970,
       "word": "一般4级以上地震才有预警提醒",
@@ -203,12 +235,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 132248,
-      "num": 132248,
-      "word": "恒温壶",
-      "onboard_time": 1727280199,
-      "rank": 36,
-      "category": "社会新闻"
+      "raw_hot": 137161,
+      "num": 137161,
+      "word": "钟丽缇53岁状态",
+      "onboard_time": 1727306355,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 132214,
@@ -323,28 +355,28 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 81807,
-      "num": 81807,
-      "word": "749局预售票房破1000万",
-      "onboard_time": 1727280019,
-      "rank": 37,
-      "category": "电影"
+      "raw_hot": 84104,
+      "num": 84104,
+      "word": "高龄产妇困在备孕失败的那些年",
+      "onboard_time": 1727273299,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
-      "raw_hot": 80451,
-      "num": 80451,
+      "raw_hot": 83289,
+      "num": 83289,
       "word": "Echo 答案之书",
       "onboard_time": 1727285593,
       "rank": 8,
       "category": "综艺"
     },
     {
-      "raw_hot": 80288,
-      "num": 80288,
-      "word": "高龄产妇困在备孕失败的那些年",
-      "onboard_time": 1727273299,
-      "rank": 38,
-      "category": "社会新闻"
+      "raw_hot": 81807,
+      "num": 81807,
+      "word": "749局预售票房破1000万",
+      "onboard_time": 1727280019,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 74896,
@@ -395,6 +427,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 68902,
+      "num": 77377,
+      "word": "檀健次 沈翊越疯越迷人",
+      "onboard_time": 1727302332,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 67899,
       "num": 73061,
       "word": "促进劳动报酬合理增长",
@@ -403,11 +443,11 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 67011,
-      "num": 67011,
-      "word": "天降烟头到熟睡孩子床上床单被烧焦",
-      "onboard_time": 1727301131,
-      "rank": 25,
+      "raw_hot": 63772,
+      "num": 63772,
+      "word": "8天婴儿呛奶爸爸海姆立克急救",
+      "onboard_time": 1727284873,
+      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -443,6 +483,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 55820,
+      "num": 55820,
+      "word": "没有十年工龄看不懂的摸鱼技巧",
+      "onboard_time": 1727305215,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 55723,
       "num": 68960,
       "word": "山花烂漫时豆瓣开分9.0",
@@ -451,11 +499,51 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 49166,
-      "num": 49564,
-      "word": "8天婴儿呛奶爸爸海姆立克急救",
-      "onboard_time": 1727284873,
-      "rank": 36,
+      "raw_hot": 52459,
+      "num": 52459,
+      "word": "新能源汽车也要年检了",
+      "onboard_time": 1727304073,
+      "rank": 42,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 52438,
+      "num": 201489,
+      "word": "33岁男子辞去工程监理摆摊卖卤肉",
+      "onboard_time": 1727305875,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 51361,
+      "num": 51361,
+      "word": "小狗 个头小本事大",
+      "onboard_time": 1727305335,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 50043,
+      "num": 50043,
+      "word": "原生家庭对人的性格影响太大了",
+      "onboard_time": 1727291112,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 46387,
+      "num": 46387,
+      "word": "尹净汉入伍前发文",
+      "onboard_time": 1727306115,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 45977,
+      "num": 45977,
+      "word": "全能型强冷空气来袭",
+      "onboard_time": 1727290392,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -507,36 +595,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 34432,
-      "num": 49172,
-      "word": "檀健次 沈翊越疯越迷人",
-      "onboard_time": 1727302332,
-      "rank": 49,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 31349,
-      "num": 31349,
-      "word": "全能型强冷空气来袭",
-      "onboard_time": 1727290392,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 30371,
-      "num": 31122,
-      "word": "原生家庭对人的性格影响太大了",
-      "onboard_time": 1727291112,
-      "rank": 46,
-      "category": "情感"
-    },
-    {
       "raw_hot": 27676,
       "num": 35170,
       "word": "王一博喊你来河南",
       "onboard_time": 1727301432,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 26723,
+      "num": 481711,
+      "word": "首次亮相天安门广场的蔬果花篮",
+      "onboard_time": 1727268981,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 25680,
