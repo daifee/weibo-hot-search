@@ -1,6 +1,6 @@
 {
   "startTime": 1727195285620,
-  "endTime": 1727271014763,
+  "endTime": 1727271696519,
   "band_list": [
     {
       "raw_hot": 4498953,
@@ -164,7 +164,7 @@
     },
     {
       "raw_hot": 1028615,
-      "num": 1028615,
+      "num": 1136371,
       "word": "合肥肥东今年已经发生5次地震",
       "onboard_time": 1727266580,
       "rank": 3,
@@ -179,7 +179,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 916516,
+      "raw_hot": 926981,
       "num": 786872,
       "word": "韩素希回应柳俊烈李惠利争议",
       "onboard_time": 1727266521,
@@ -339,6 +339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 704932,
+      "num": 447952,
+      "word": "赵今麦张凌赫自然到不像演的",
+      "onboard_time": 1727269402,
+      "rank": 13,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 688880,
       "num": 688880,
       "word": "猪肉冒充牛肉干电商卖了500万",
@@ -393,6 +401,14 @@
       "onboard_time": 1727224219,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 614665,
+      "num": 614665,
+      "word": "单依纯获奖感言",
+      "onboard_time": 1727269461,
+      "rank": 4,
+      "category": "音乐"
     },
     {
       "raw_hot": 605911,
@@ -499,14 +515,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 509287,
-      "num": 509287,
-      "word": "单依纯获奖感言",
-      "onboard_time": 1727269461,
-      "rank": 4,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 503713,
       "num": 503713,
       "word": "王源朋友圈三天可见",
@@ -536,6 +544,14 @@
       "word": "沈翊 疯批感",
       "onboard_time": 1727234478,
       "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 483374,
+      "num": 388222,
+      "word": "爱奇艺回应胡歌新剧引争议",
+      "onboard_time": 1727271080,
+      "rank": 12,
       "category": "剧集"
     },
     {
@@ -601,14 +617,6 @@
       "onboard_time": 1727227698,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 447952,
-      "num": 447952,
-      "word": "赵今麦张凌赫自然到不像演的",
-      "onboard_time": 1727269402,
-      "rank": 13,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 438689,
@@ -683,12 +691,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 390922,
+      "num": 390922,
+      "word": "谁教刘忻这么穿的",
+      "onboard_time": 1727266161,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 388958,
       "num": 193000,
       "word": "禁止非法使用窃听窃照专用器材",
       "onboard_time": 1727252660,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 386249,
+      "num": 386249,
+      "word": "苏醒 写了一百多首没有一首是火的",
+      "onboard_time": 1727270120,
+      "rank": 17,
+      "category": "音乐"
     },
     {
       "raw_hot": 383904,
@@ -881,14 +905,6 @@
       "onboard_time": 1727238920,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 316766,
-      "num": 316766,
-      "word": "谁教刘忻这么穿的",
-      "onboard_time": 1727266161,
-      "rank": 27,
-      "category": "音乐"
     },
     {
       "raw_hot": 310267,
@@ -1139,12 +1155,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 245129,
-      "num": 245129,
-      "word": "苏醒 写了一百多首没有一首是火的",
-      "onboard_time": 1727270120,
-      "rank": 17,
-      "category": "音乐"
+      "raw_hot": 244046,
+      "num": 244046,
+      "word": "本轮冷空气或将终结南方高温",
+      "onboard_time": 1727268200,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 242794,
@@ -1275,20 +1291,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 210575,
-      "num": 210575,
-      "word": "本轮冷空气或将终结南方高温",
-      "onboard_time": 1727268200,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 209544,
       "num": 209544,
       "word": "国乒女队大满贯首次训练",
       "onboard_time": 1727237540,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 208079,
+      "num": 208079,
+      "word": "Echo淘汰",
+      "onboard_time": 1727270120,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 207613,
@@ -1587,20 +1603,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 189667,
+      "num": 189667,
+      "word": "孙佳俊再次刷新亚洲纪录",
+      "onboard_time": 1727270900,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 189665,
       "num": 522337,
       "word": "WTT中国大满贯2024全名单",
       "onboard_time": 1727241680,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 189530,
-      "num": 189530,
-      "word": "Echo淘汰",
-      "onboard_time": 1727270120,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 189239,
@@ -1633,14 +1649,6 @@
       "onboard_time": 1727223320,
       "rank": 26,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 186459,
-      "num": 186459,
-      "word": "孙佳俊再次刷新亚洲纪录",
-      "onboard_time": 1727270900,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 186265,
@@ -1707,6 +1715,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 182120,
+      "num": 182120,
+      "word": "上班一年正式被确诊为办公臀",
+      "onboard_time": 1727270479,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 181684,
       "num": 181684,
       "word": "张桂梅 富养孤儿",
@@ -1739,12 +1755,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 180097,
+      "num": 180097,
+      "word": "广州地铁警察佩戴女性服务包",
+      "onboard_time": 1727270659,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 179977,
       "num": 179977,
       "word": "南丁格尔",
       "onboard_time": 1727251699,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 179913,
+      "num": 179913,
+      "word": "749局",
+      "onboard_time": 1727271021,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 179532,
@@ -1817,6 +1849,14 @@
       "onboard_time": 1727192959,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 171762,
+      "num": 171762,
+      "word": "Echo二姐的故事",
+      "onboard_time": 1727271320,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 170111,
@@ -1947,6 +1987,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 162696,
+      "num": 162696,
+      "word": "倪妮拉链吊带黑裙",
+      "onboard_time": 1727271441,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 162593,
       "num": 162593,
       "word": "仙台有树首发预告",
@@ -2011,12 +2059,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 157924,
+      "num": 157924,
+      "word": "促进劳动报酬合理增长",
+      "onboard_time": 1727267602,
+      "rank": 47,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 155836,
       "num": 331878,
       "word": "力箭一号遥四商业运载火箭发射成功",
       "onboard_time": 1727225179,
       "rank": 9,
       "category": "军事"
+    },
+    {
+      "raw_hot": 155281,
+      "num": 227352,
+      "word": "一张画穿越辽宁春夏秋冬",
+      "onboard_time": 1727264301,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 154702,
@@ -2033,6 +2097,14 @@
       "onboard_time": 1727239221,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 152215,
+      "num": 152215,
+      "word": "杨紫形容李祯",
+      "onboard_time": 1727271681,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 150472,
@@ -2195,28 +2267,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 141785,
-      "num": 141785,
-      "word": "促进劳动报酬合理增长",
-      "onboard_time": 1727267602,
-      "rank": 47,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 140888,
       "num": 238565,
       "word": "男子刷手机掉海里漂了3小时",
       "onboard_time": 1727177058,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 140430,
-      "num": 140430,
-      "word": "上班一年正式被确诊为办公臀",
-      "onboard_time": 1727270479,
-      "rank": 39,
-      "category": "幽默"
     },
     {
       "raw_hot": 138017,
@@ -2427,14 +2483,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 123103,
-      "num": 123103,
-      "word": "广州地铁警察佩戴女性服务包",
-      "onboard_time": 1727270659,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 122264,
       "num": 122264,
       "word": "哈里斯竞选团队办公室遭枪击受损",
@@ -2503,14 +2551,6 @@
       "num": 117921,
       "word": "两部门为困难群众发放一次性生活补助",
       "onboard_time": 1727250259,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 117031,
-      "num": 117031,
-      "word": "一张画穿越辽宁春夏秋冬",
-      "onboard_time": 1727264301,
       "rank": 49,
       "category": "社会新闻"
     },
@@ -2601,6 +2641,14 @@
       "onboard_time": 1727227579,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 101983,
+      "num": 489847,
+      "word": "阿尔山景区多家酒店默认早9点退房",
+      "onboard_time": 1727270961,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 99928,
@@ -2699,6 +2747,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 77076,
+      "num": 745195,
+      "word": "中国天眼升级了",
+      "onboard_time": 1727269221,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 77011,
       "num": 77011,
       "word": "金鹤龙 迪丽热巴妆造",
@@ -2745,14 +2801,6 @@
       "onboard_time": 1727245580,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 73375,
-      "num": 745195,
-      "word": "中国天眼升级了",
-      "onboard_time": 1727269221,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 72227,
@@ -2851,11 +2899,11 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 59377,
-      "num": 489847,
-      "word": "阿尔山景区多家酒店默认早9点退房",
-      "onboard_time": 1727270961,
-      "rank": 8,
+      "raw_hot": 57553,
+      "num": 237642,
+      "word": "大爷6千买画实际价值不到100",
+      "onboard_time": 1727269701,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -2888,6 +2936,14 @@
       "word": "芦淞大桥事故现场堆满鲜花玩偶",
       "onboard_time": 1727210831,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 53141,
+      "num": 489346,
+      "word": "业内称房贷利率还有下降空间",
+      "onboard_time": 1727269641,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -2955,6 +3011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 48118,
+      "num": 240834,
+      "word": "有店家卖宠物石头月营业额约2万",
+      "onboard_time": 1727269701,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 47842,
       "num": 148771,
       "word": "比亚迪第900万辆新能源车仰望U9下线",
@@ -2993,6 +3057,14 @@
       "onboard_time": 1727248038,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 44210,
+      "num": 115630,
+      "word": "家庭越野车的四门必修课",
+      "onboard_time": 1727271441,
+      "rank": 49,
+      "category": "汽车"
     },
     {
       "raw_hot": 43525,
@@ -3051,14 +3123,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 40910,
-      "num": 237642,
-      "word": "大爷6千买画实际价值不到100",
-      "onboard_time": 1727269701,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 40307,
       "num": 117522,
       "word": "京西小故宫你可太会了",
@@ -3073,14 +3137,6 @@
       "onboard_time": 1727245699,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 40037,
-      "num": 489346,
-      "word": "业内称房贷利率还有下降空间",
-      "onboard_time": 1727269641,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 39686,
@@ -3113,14 +3169,6 @@
       "onboard_time": 1727196555,
       "rank": 44,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 37811,
-      "num": 240834,
-      "word": "有店家卖宠物石头月营业额约2万",
-      "onboard_time": 1727269701,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 37265,
@@ -3211,6 +3259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 27681,
+      "num": 392802,
+      "word": "高校应考虑开放与管理均衡",
+      "onboard_time": 1727269641,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 27396,
       "num": 1071324,
       "word": "第四届中国新电商大会",
@@ -3257,14 +3313,6 @@
       "onboard_time": 1727231539,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 21663,
-      "num": 392802,
-      "word": "高校应考虑开放与管理均衡",
-      "onboard_time": 1727269641,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 20673,
@@ -3370,6 +3418,9 @@
     },
     {
       "word": "#中华民族是一个大家庭#"
+    },
+    {
+      "word": "#科技赋能强种业人勤苗壮绘丰收#"
     }
   ]
 }

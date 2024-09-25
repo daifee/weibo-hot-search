@@ -1,0 +1,410 @@
+{
+  "runTime": 1727271696519,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 852322,
+        "num": 1136371,
+        "word": "合肥肥东今年已经发生5次地震",
+        "onboard_time": 1727266580,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 846333,
+        "num": 846333,
+        "word": "合肥肥东3.8级地震",
+        "onboard_time": 1727264422,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 77076,
+        "num": 738585,
+        "word": "中国天眼升级了",
+        "onboard_time": 1727269221,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 713919,
+        "num": 713919,
+        "word": "47岁女教师成为大体老师重回母校",
+        "onboard_time": 1727254940,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 614665,
+        "num": 614665,
+        "word": "单依纯获奖感言",
+        "onboard_time": 1727269461,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 515679,
+        "num": 515679,
+        "word": "苹果商店软件涉黄",
+        "onboard_time": 1727247679,
+        "rank": 5,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 443098,
+        "num": 443098,
+        "word": "赵丽颖说事业心又强了",
+        "onboard_time": 1727267659,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 420523,
+        "num": 420523,
+        "word": "微博音乐盛典",
+        "onboard_time": 1727259500,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 101983,
+        "num": 402239,
+        "word": "阿尔山景区多家酒店默认早9点退房",
+        "onboard_time": 1727270961,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 390922,
+        "num": 390922,
+        "word": "谁教刘忻这么穿的",
+        "onboard_time": 1727266161,
+        "rank": 9,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 926981,
+        "num": 390338,
+        "word": "韩素希回应柳俊烈李惠利争议",
+        "onboard_time": 1727266521,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 704932,
+        "num": 389325,
+        "word": "赵今麦张凌赫自然到不像演的",
+        "onboard_time": 1727269402,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 483374,
+        "num": 388222,
+        "word": "爱奇艺回应胡歌新剧引争议",
+        "onboard_time": 1727271080,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 471876,
+        "num": 387735,
+        "word": "河南一学生欲跳楼老师报警被阻拦",
+        "onboard_time": 1727265022,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 408490,
+        "num": 386982,
+        "word": "25岁遇害女村干部系家中独女",
+        "onboard_time": 1727260219,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 386249,
+        "num": 386249,
+        "word": "苏醒 写了一百多首没有一首是火的",
+        "onboard_time": 1727270120,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 322775,
+        "num": 322775,
+        "word": "雅太帅了",
+        "onboard_time": 1727267420,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 244046,
+        "num": 244046,
+        "word": "本轮冷空气或将终结南方高温",
+        "onboard_time": 1727268200,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155281,
+        "num": 227352,
+        "word": "一张画穿越辽宁春夏秋冬",
+        "onboard_time": 1727264301,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216267,
+        "num": 216267,
+        "word": "路人捡金手镯后扔掉判赔1万6",
+        "onboard_time": 1727252241,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 333811,
+        "num": 212460,
+        "word": "赵丽颖飞天奖后首亮相",
+        "onboard_time": 1727270300,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 208079,
+        "num": 208079,
+        "word": "Echo淘汰",
+        "onboard_time": 1727270120,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202592,
+        "num": 202592,
+        "word": "对就业质量不高的专业红黄牌提示",
+        "onboard_time": 1727267241,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199736,
+        "num": 199736,
+        "word": "唐朝诡事录3将开机",
+        "onboard_time": 1727265320,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193631,
+        "num": 193631,
+        "word": "瑞士使用安乐死胶囊舱相关人员被捕",
+        "onboard_time": 1727254281,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189667,
+        "num": 189667,
+        "word": "孙佳俊再次刷新亚洲纪录",
+        "onboard_time": 1727270900,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 182120,
+        "num": 182120,
+        "word": "上班一年正式被确诊为办公臀",
+        "onboard_time": 1727270479,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 180097,
+        "num": 180097,
+        "word": "广州地铁警察佩戴女性服务包",
+        "onboard_time": 1727270659,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179913,
+        "num": 179913,
+        "word": "749局",
+        "onboard_time": 1727271021,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 172487,
+        "num": 172487,
+        "word": "就业优先战略促进高质量充分就业",
+        "onboard_time": 1727265803,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 171762,
+        "num": 171762,
+        "word": "Echo二姐的故事",
+        "onboard_time": 1727271320,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162880,
+        "num": 162880,
+        "word": "种地吧",
+        "onboard_time": 1727266880,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162696,
+        "num": 162696,
+        "word": "倪妮拉链吊带黑裙",
+        "onboard_time": 1727271441,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 157924,
+        "num": 157924,
+        "word": "促进劳动报酬合理增长",
+        "onboard_time": 1727267602,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 153597,
+        "num": 153597,
+        "word": "时代少年团西装牛仔混搭造型",
+        "onboard_time": 1727254221,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 48118,
+        "num": 152811,
+        "word": "有店家卖宠物石头月营业额约2万",
+        "onboard_time": 1727269701,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 53141,
+        "num": 152462,
+        "word": "业内称房贷利率还有下降空间",
+        "onboard_time": 1727269641,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152215,
+        "num": 152215,
+        "word": "杨紫形容李祯",
+        "onboard_time": 1727271681,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149515,
+        "num": 149515,
+        "word": "男子花800万买的房子竟是凶宅",
+        "onboard_time": 1727266939,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147546,
+        "num": 147546,
+        "word": "宋亚轩王心凌热聊",
+        "onboard_time": 1727269101,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 27681,
+        "num": 142241,
+        "word": "高校应考虑开放与管理均衡",
+        "onboard_time": 1727269641,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141974,
+        "num": 141974,
+        "word": "陈楚生 还好音乐没有忘记我",
+        "onboard_time": 1727269641,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 141334,
+        "num": 141334,
+        "word": "一路繁花有张兰和向太",
+        "onboard_time": 1727256380,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137688,
+        "num": 137688,
+        "word": "你好星期六",
+        "onboard_time": 1727263280,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137071,
+        "num": 137071,
+        "word": "炉石传说 开门",
+        "onboard_time": 1727264903,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 125100,
+        "num": 125100,
+        "word": "猎罪图鉴2",
+        "onboard_time": 1727243960,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 57553,
+        "num": 120241,
+        "word": "大爷6千买画实际价值不到100",
+        "onboard_time": 1727269701,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119679,
+        "num": 119679,
+        "word": "曾舜晞头套保住了",
+        "onboard_time": 1727270120,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119128,
+        "num": 119128,
+        "word": "宋亚轩体制内男友即视感",
+        "onboard_time": 1727267900,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 44210,
+        "num": 115630,
+        "word": "家庭越野车的四门必修课",
+        "onboard_time": 1727271441,
+        "rank": 49,
+        "category": "汽车"
+      }
+    ],
+    "hotgov": {
+      "word": "#科技赋能强种业人勤苗壮绘丰收#"
+    }
+  }
+}
