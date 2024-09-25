@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1727282839886,
+  "endTime": 1727284804869,
   "band_list": [
     {
       "raw_hot": 28035334,
@@ -27008,6 +27008,14 @@
       "word": "东北雨姐直播间酸菜疑货不对板",
       "onboard_time": 1727194338,
       "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 256798,
+      "num": 256798,
+      "word": "山西是有一个睡眠结界吗",
+      "onboard_time": 1727281877,
+      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -61963,6 +61971,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 94372,
+      "num": 87961,
+      "word": "爷爷网购50只鸡仔无一存活",
+      "onboard_time": 1727282596,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 94314,
       "num": 227271,
       "word": "台风影响无锡幼儿园小学初中停课",
@@ -62521,14 +62537,6 @@
       "onboard_time": 1727173999,
       "rank": 33,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 88840,
-      "num": 88840,
-      "word": "山西是有一个睡眠结界吗",
-      "onboard_time": 1727281877,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 88769,
@@ -67251,14 +67259,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 51989,
-      "num": 68908,
-      "word": "爷爷网购50只鸡仔无一存活",
-      "onboard_time": 1727282596,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 51984,
       "num": 597861,
       "word": "让我看看谁还不知道金标大众",
@@ -68633,6 +68633,14 @@
       "onboard_time": 1726596553,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 45717,
+      "num": 45717,
+      "word": "陈哲远是有什么年代KPI要完成吗",
+      "onboard_time": 1727283854,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 45630,
@@ -70067,6 +70075,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 39330,
+      "num": 41894,
+      "word": "王源金发路透",
+      "onboard_time": 1727284394,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
       "raw_hot": 39325,
       "num": 52121,
       "word": "成毅水蓝色造型路透",
@@ -70345,6 +70361,14 @@
       "onboard_time": 1726232842,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 38421,
+      "num": 41772,
+      "word": "Echo 走出大山一直是我的人生主题",
+      "onboard_time": 1727284635,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 38419,
@@ -76555,6 +76579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 8393,
+      "num": 863513,
+      "word": "两岸新媒体嘉年华",
+      "onboard_time": 1727269101,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 8309,
       "num": 49671,
       "word": "中医用筷子为肾绞痛乘客按穴位治疗",
@@ -76625,14 +76657,6 @@
       "onboard_time": 1726220121,
       "rank": 29,
       "category": "教育"
-    },
-    {
-      "raw_hot": 7166,
-      "num": 863513,
-      "word": "两岸新媒体嘉年华",
-      "onboard_time": 1727269101,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 7100,

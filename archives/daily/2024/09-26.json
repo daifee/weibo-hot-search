@@ -1,6 +1,6 @@
 {
   "startTime": 1727281816744,
-  "endTime": 1727282839886,
+  "endTime": 1727284804869,
   "band_list": [
     {
       "raw_hot": 1228111,
@@ -73,6 +73,14 @@
       "onboard_time": 1727266521,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 256798,
+      "num": 256798,
+      "word": "山西是有一个睡眠结界吗",
+      "onboard_time": 1727281877,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 239281,
@@ -235,6 +243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 94372,
+      "num": 87961,
+      "word": "爷爷网购50只鸡仔无一存活",
+      "onboard_time": 1727282596,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 94013,
       "num": 94013,
       "word": "王嘉尔 你们人多我过来",
@@ -249,14 +265,6 @@
       "onboard_time": 1727264903,
       "rank": 31,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 88840,
-      "num": 88840,
-      "word": "山西是有一个睡眠结界吗",
-      "onboard_time": 1727281877,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 87688,
@@ -411,11 +419,35 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 51989,
-      "num": 68908,
-      "word": "爷爷网购50只鸡仔无一存活",
-      "onboard_time": 1727282596,
-      "rank": 49,
+      "raw_hot": 45717,
+      "num": 45717,
+      "word": "陈哲远是有什么年代KPI要完成吗",
+      "onboard_time": 1727283854,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 39330,
+      "num": 41894,
+      "word": "王源金发路透",
+      "onboard_time": 1727284394,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 38421,
+      "num": 41772,
+      "word": "Echo 走出大山一直是我的人生主题",
+      "onboard_time": 1727284635,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 8393,
+      "num": 265985,
+      "word": "两岸新媒体嘉年华",
+      "onboard_time": 1727269101,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
