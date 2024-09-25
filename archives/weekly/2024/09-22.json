@@ -1,6 +1,6 @@
 {
   "startTime": 1726936020707,
-  "endTime": 1727234986312,
+  "endTime": 1727235849291,
   "band_list": [
     {
       "raw_hot": 6817146,
@@ -595,6 +595,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1145766,
+      "num": 1145766,
+      "word": "赵丽颖尹昉新剧吻戏",
+      "onboard_time": 1727233280,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 1139729,
+      "num": 290065,
+      "word": "高铁站一声舅舅换来一群兵舅舅回头",
+      "onboard_time": 1727232258,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1134561,
       "num": 1134561,
       "word": "知情人称嫌犯李娜已在韩国落网",
@@ -984,14 +1000,6 @@
       "word": "刘琳好可惜",
       "onboard_time": 1726926867,
       "rank": 4,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 861280,
-      "num": 861280,
-      "word": "赵丽颖尹昉新剧吻戏",
-      "onboard_time": 1727233280,
-      "rank": 37,
       "category": "剧集"
     },
     {
@@ -1467,6 +1475,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 654191,
+      "num": 654191,
+      "word": "俄拟立法禁止宣传不生孩子",
+      "onboard_time": 1727231778,
+      "rank": 14,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 653588,
       "num": 653588,
       "word": "白月梵星",
@@ -1747,14 +1763,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 566408,
-      "num": 566408,
-      "word": "俄拟立法禁止宣传不生孩子",
-      "onboard_time": 1727231778,
-      "rank": 14,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 564727,
       "num": 600433,
       "word": "以军空袭黎巴嫩多地致275死1024伤",
@@ -1963,14 +1971,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 506699,
-      "num": 284081,
-      "word": "高铁站一声舅舅换来一群兵舅舅回头",
-      "onboard_time": 1727232258,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 506312,
       "num": 378956,
       "word": "樊振东是换打法了吗",
@@ -2073,6 +2073,14 @@
       "onboard_time": 1726969639,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 485278,
+      "num": 485278,
+      "word": "沈翊 疯批感",
+      "onboard_time": 1727234478,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 483264,
@@ -2771,6 +2779,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 365556,
+      "num": 284974,
+      "word": "摊主偷偷把58元说成38元",
+      "onboard_time": 1727233159,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 364699,
       "num": 364699,
       "word": "成毅赴山海双角色海报",
@@ -2929,14 +2945,6 @@
       "onboard_time": 1727049979,
       "rank": 31,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 352182,
-      "num": 277511,
-      "word": "摊主偷偷把58元说成38元",
-      "onboard_time": 1727233159,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 349856,
@@ -3355,6 +3363,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 284050,
+      "num": 284050,
+      "word": "人民币重回6字头",
+      "onboard_time": 1727230638,
+      "rank": 27,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 283200,
       "num": 283200,
       "word": "极乐鸟工作室",
@@ -3433,6 +3449,14 @@
       "onboard_time": 1726984402,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 280024,
+      "num": 280024,
+      "word": "大逃脱回归",
+      "onboard_time": 1727233099,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 279818,
@@ -3795,14 +3819,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 254499,
-      "num": 254499,
-      "word": "大逃脱回归",
-      "onboard_time": 1727233099,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 253598,
       "num": 253598,
       "word": "驻以使馆提醒中国公民尽快回国",
@@ -4089,14 +4105,6 @@
       "onboard_time": 1727048958,
       "rank": 19,
       "category": "音乐,体育"
-    },
-    {
-      "raw_hot": 233556,
-      "num": 233556,
-      "word": "人民币重回6字头",
-      "onboard_time": 1727230638,
-      "rank": 27,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 233127,
@@ -4497,6 +4505,14 @@
       "onboard_time": 1727019862,
       "rank": 28,
       "category": "音乐,体育"
+    },
+    {
+      "raw_hot": 213880,
+      "num": 410727,
+      "word": "影子不会说谎和警方联合行动",
+      "onboard_time": 1727233038,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 212848,
@@ -5187,14 +5203,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 195819,
-      "num": 195819,
-      "word": "沈翊 疯批感",
-      "onboard_time": 1727234478,
-      "rank": 37,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 195818,
       "num": 274825,
       "word": "749局片长123分钟",
@@ -5571,6 +5579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 187621,
+      "num": 187621,
+      "word": "炉石传说 进不去",
+      "onboard_time": 1727228599,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 187594,
       "num": 236509,
       "word": "新能源汽车是快消品吗",
@@ -5691,6 +5707,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 184065,
+      "num": 184065,
+      "word": "蔡磊夫妇愿终身投入罕见病研究",
+      "onboard_time": 1727233820,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 184064,
       "num": 243666,
       "word": "美国伯明翰发生大规模枪击事件",
@@ -5769,6 +5793,14 @@
       "onboard_time": 1727189720,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 182934,
+      "num": 182934,
+      "word": "猎罪图鉴2首发预告",
+      "onboard_time": 1727235559,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 182198,
@@ -5865,6 +5897,14 @@
       "onboard_time": 1726967300,
       "rank": 45,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 179511,
+      "num": 179511,
+      "word": "如鸢",
+      "onboard_time": 1727101162,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 179238,
@@ -6001,6 +6041,14 @@
       "onboard_time": 1727175859,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 175247,
+      "num": 568030,
+      "word": "隐藏摄像头为何无孔不入",
+      "onboard_time": 1727233938,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 174929,
@@ -6211,6 +6259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 167804,
+      "num": 167804,
+      "word": "李一桐新剧不是三角恋是三角杀",
+      "onboard_time": 1727234541,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 167504,
       "num": 112089,
       "word": "漫长的季节",
@@ -6353,14 +6409,6 @@
       "onboard_time": 1727160979,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 164509,
-      "num": 164509,
-      "word": "李一桐新剧不是三角恋是三角杀",
-      "onboard_time": 1727234541,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 164484,
@@ -6531,19 +6579,19 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 160873,
+      "num": 160873,
+      "word": "娜扎一场戏五种情绪",
+      "onboard_time": 1727235501,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 160776,
       "num": 160776,
       "word": "男子4分钟买俩金镯店员报警",
       "onboard_time": 1727171358,
       "rank": 34,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 159883,
-      "num": 410727,
-      "word": "影子不会说谎和警方联合行动",
-      "onboard_time": 1727233038,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -6929,6 +6977,14 @@
       "onboard_time": 1727078119,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 148807,
+      "num": 148807,
+      "word": "李一桐刘宇宁IE分明",
+      "onboard_time": 1727235741,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 148806,
@@ -7491,14 +7547,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 136514,
-      "num": 568030,
-      "word": "隐藏摄像头为何无孔不入",
-      "onboard_time": 1727233938,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 136441,
       "num": 136441,
       "word": "守护甜心 日奈森亚梦",
@@ -7705,14 +7753,6 @@
       "onboard_time": 1726970060,
       "rank": 49,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 130076,
-      "num": 130076,
-      "word": "炉石传说 进不去",
-      "onboard_time": 1727228599,
-      "rank": 43,
-      "category": "游戏"
     },
     {
       "raw_hot": 130048,
@@ -8331,6 +8371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 112663,
+      "num": 451487,
+      "word": "6块6的咖啡打不赢价格战",
+      "onboard_time": 1727234119,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 112634,
       "num": 112634,
       "word": "女主播大佬式带货月销5000万",
@@ -8377,14 +8425,6 @@
       "onboard_time": 1727223320,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 110841,
-      "num": 110841,
-      "word": "如鸢",
-      "onboard_time": 1727101162,
-      "rank": 47,
-      "category": "游戏"
     },
     {
       "raw_hot": 110712,
@@ -8584,6 +8624,14 @@
       "word": "农村小哥卖南瓜张口就是英伦腔",
       "onboard_time": 1727055378,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 98111,
+      "num": 304386,
+      "word": "男子不戒酒肉痛风石疯长7厘米",
+      "onboard_time": 1727234299,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -9123,14 +9171,6 @@
       "category": "音乐,体育"
     },
     {
-      "raw_hot": 71074,
-      "num": 451487,
-      "word": "6块6的咖啡打不赢价格战",
-      "onboard_time": 1727234119,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 70375,
       "num": 464440,
       "word": "啥都还没学怎么就要做Pre了",
@@ -9240,14 +9280,6 @@
       "word": "多方回应8岁女童坠井身亡",
       "onboard_time": 1727158400,
       "rank": 18,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 65583,
-      "num": 304386,
-      "word": "男子不戒酒肉痛风石疯长7厘米",
-      "onboard_time": 1727234299,
-      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -9705,6 +9737,14 @@
       "onboard_time": 1727158279,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 49689,
+      "num": 566744,
+      "word": "推进延迟退休改革要做好这三项工作",
+      "onboard_time": 1727234838,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 48966,
@@ -10769,14 +10809,6 @@
       "onboard_time": 1727119752,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 17316,
-      "num": 566744,
-      "word": "推进延迟退休改革要做好这三项工作",
-      "onboard_time": 1727234838,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 16686,
