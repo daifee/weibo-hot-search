@@ -1,6 +1,6 @@
 {
   "startTime": 1727195285620,
-  "endTime": 1727257115910,
+  "endTime": 1727259897754,
   "band_list": [
     {
       "raw_hot": 2727211,
@@ -35,11 +35,27 @@
       "category": "数码"
     },
     {
+      "raw_hot": 1493598,
+      "num": 486199,
+      "word": "南丁格尔是女护士",
+      "onboard_time": 1727251580,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1427671,
       "num": 1427671,
       "word": "一网约车司机4年出200多次事故",
       "onboard_time": 1727237000,
       "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1407382,
+      "num": 1407382,
+      "word": "47岁女教师成为大体老师重回母校",
+      "onboard_time": 1727254940,
+      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -64,14 +80,6 @@
       "word": "瑞士使用安乐死胶囊舱相关人员被捕",
       "onboard_time": 1727254281,
       "rank": 3,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1195210,
-      "num": 1195210,
-      "word": "47岁女教师成为大体老师重回母校",
-      "onboard_time": 1727254940,
-      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -104,6 +112,14 @@
       "word": "老人长时间坐星巴克门口员工报警劝离",
       "onboard_time": 1727199072,
       "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1069913,
+      "num": 777888,
+      "word": "又一酒店房间被曝摄像头正对床",
+      "onboard_time": 1727254881,
+      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -252,11 +268,19 @@
     },
     {
       "raw_hot": 708593,
-      "num": 404228,
+      "num": 483198,
       "word": "石家庄民宿",
       "onboard_time": 1727252660,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 699833,
+      "num": 699833,
+      "word": "一路繁花有张兰和向太",
+      "onboard_time": 1727256380,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 688880,
@@ -264,6 +288,14 @@
       "word": "猪肉冒充牛肉干电商卖了500万",
       "onboard_time": 1727240183,
       "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 686439,
+      "num": 686439,
+      "word": "银川地震",
+      "onboard_time": 1727259859,
+      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -289,14 +321,6 @@
       "onboard_time": 1727197514,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 664194,
-      "num": 386025,
-      "word": "南丁格尔是女护士",
-      "onboard_time": 1727251580,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 622732,
@@ -363,6 +387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 553488,
+      "num": 553488,
+      "word": "微博音乐盛典",
+      "onboard_time": 1727259500,
+      "rank": 8,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 545366,
       "num": 545366,
       "word": "杨幂欧豪生万物海报",
@@ -404,7 +436,7 @@
     },
     {
       "raw_hot": 489310,
-      "num": 374116,
+      "num": 475966,
       "word": "楠丁格尔先生片名引争议",
       "onboard_time": 1727251221,
       "rank": 15,
@@ -417,6 +449,22 @@
       "onboard_time": 1727234478,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 478675,
+      "num": 478675,
+      "word": "如何看待公司禁止员工带苹果产品",
+      "onboard_time": 1727257399,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 477160,
+      "num": 477160,
+      "word": "田曦薇回应粉丝诉求",
+      "onboard_time": 1727257520,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 475965,
@@ -539,6 +587,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 376838,
+      "num": 347285,
+      "word": "闵熙珍继续担任NewJeans制作人",
+      "onboard_time": 1727256141,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 372145,
       "num": 407649,
       "word": "赵丽颖辛芷蕾新片入围东京电影节",
@@ -625,14 +681,6 @@
       "onboard_time": 1727241442,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 347285,
-      "num": 347285,
-      "word": "闵熙珍继续担任NewJeans制作人",
-      "onboard_time": 1727256141,
-      "rank": 28,
-      "category": "音乐"
     },
     {
       "raw_hot": 344689,
@@ -915,14 +963,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 248258,
-      "num": 248258,
-      "word": "又一酒店房间被曝摄像头正对床",
-      "onboard_time": 1727254881,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 246060,
       "num": 246060,
       "word": "如鸢",
@@ -971,6 +1011,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 218482,
+      "num": 218482,
+      "word": "前民宿老板揭露偷拍黑色产业链",
+      "onboard_time": 1727256020,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 217605,
       "num": 217605,
       "word": "胡歌楠丁格尔先生海报",
@@ -1017,6 +1065,14 @@
       "onboard_time": 1727181319,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 207534,
+      "num": 207534,
+      "word": "易方达基金被举报",
+      "onboard_time": 1727257458,
+      "rank": 27,
+      "category": "财经"
     },
     {
       "raw_hot": 207127,
@@ -1145,14 +1201,6 @@
       "onboard_time": 1727240900,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 199064,
-      "num": 199064,
-      "word": "一路繁花有张兰和向太",
-      "onboard_time": 1727256380,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 198523,
@@ -1425,6 +1473,14 @@
       "onboard_time": 1727192959,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 170111,
+      "num": 170111,
+      "word": "孙颖莎说主场作战非常开心",
+      "onboard_time": 1727258240,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 170071,
@@ -1859,6 +1915,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 124239,
+      "num": 124239,
+      "word": "12306上新车内换座功能",
+      "onboard_time": 1727257160,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 122264,
+      "num": 122264,
+      "word": "哈里斯竞选团队办公室遭枪击受损",
+      "onboard_time": 1727256980,
+      "rank": 46,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 120989,
       "num": 434368,
       "word": "女子乘车亮证执法公权力岂容滥用",
@@ -1923,14 +1995,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 115243,
-      "num": 115243,
-      "word": "哈里斯竞选团队办公室遭枪击受损",
-      "onboard_time": 1727256980,
-      "rank": 46,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 113661,
       "num": 113661,
       "word": "周深一口气介绍新专辑",
@@ -1969,6 +2033,14 @@
       "onboard_time": 1727226141,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 111429,
+      "num": 111429,
+      "word": "马龙孙颖莎王楚钦赛前训练画面",
+      "onboard_time": 1727259078,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 111009,
@@ -2043,14 +2115,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 86325,
-      "num": 214356,
-      "word": "前民宿老板揭露偷拍黑色产业链",
-      "onboard_time": 1727256020,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 85094,
       "num": 85094,
       "word": "张之臻回应获亚军",
@@ -2121,6 +2185,14 @@
       "onboard_time": 1727245580,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 73993,
+      "num": 476402,
+      "word": "A股吹响冲锋号",
+      "onboard_time": 1727257940,
+      "rank": 17,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 72227,
@@ -2243,6 +2315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 53869,
+      "num": 558575,
+      "word": "管住偷拍摄像头还得重罚酒店",
+      "onboard_time": 1727258720,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 53189,
       "num": 66358,
       "word": "芦淞大桥事故现场堆满鲜花玩偶",
@@ -2281,6 +2361,14 @@
       "onboard_time": 1727254401,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 49747,
+      "num": 476022,
+      "word": "闵熙珍说HYBE玩文字游戏",
+      "onboard_time": 1727259137,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 49689,
@@ -2395,6 +2483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 41844,
+      "num": 476105,
+      "word": "女子充完话费接到警方通知涉嫌洗钱",
+      "onboard_time": 1727259439,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 40307,
       "num": 117522,
       "word": "京西小故宫你可太会了",
@@ -2409,6 +2505,14 @@
       "onboard_time": 1727245699,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 39076,
+      "num": 479485,
+      "word": "校方否认萝卜招聘东南亚留学博士",
+      "onboard_time": 1727258599,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 38501,
