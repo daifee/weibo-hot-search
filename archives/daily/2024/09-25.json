@@ -1,7 +1,15 @@
 {
   "startTime": 1727195285620,
-  "endTime": 1727263190495,
+  "endTime": 1727264138632,
   "band_list": [
+    {
+      "raw_hot": 2791932,
+      "num": 2791932,
+      "word": "银川地震",
+      "onboard_time": 1727259859,
+      "rank": 5,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 2727211,
       "num": 2727211,
@@ -33,14 +41,6 @@
       "onboard_time": 1727247679,
       "rank": 10,
       "category": "数码"
-    },
-    {
-      "raw_hot": 1510247,
-      "num": 1510247,
-      "word": "银川地震",
-      "onboard_time": 1727259859,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1493598,
@@ -75,6 +75,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1282524,
+      "num": 481346,
+      "word": "25岁遇害女村干部系家中独女",
+      "onboard_time": 1727260219,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1242224,
       "num": 1242224,
       "word": "继承房产要去世百年老人死亡证明",
@@ -88,14 +96,6 @@
       "word": "瑞士使用安乐死胶囊舱相关人员被捕",
       "onboard_time": 1727254281,
       "rank": 3,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1186284,
-      "num": 481346,
-      "word": "25岁遇害女村干部系家中独女",
-      "onboard_time": 1727260219,
-      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -1019,20 +1019,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 238924,
+      "num": 393945,
+      "word": "一招测出房间里是否有偷拍摄像头",
+      "onboard_time": 1727260041,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 237612,
+      "num": 237612,
+      "word": "时代少年团抽到了王嘉尔",
+      "onboard_time": 1727260939,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 232514,
       "num": 232514,
       "word": "夫妻用猪肉干冒充牛肉干卖出500余万",
       "onboard_time": 1727243600,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 232443,
-      "num": 232443,
-      "word": "时代少年团抽到了王嘉尔",
-      "onboard_time": 1727260939,
-      "rank": 23,
-      "category": "音乐"
     },
     {
       "raw_hot": 232169,
@@ -1051,12 +1059,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 229819,
-      "num": 393945,
-      "word": "一招测出房间里是否有偷拍摄像头",
-      "onboard_time": 1727260041,
-      "rank": 13,
-      "category": "社会新闻"
+      "raw_hot": 227541,
+      "num": 227541,
+      "word": "念无双",
+      "onboard_time": 1727261601,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 222888,
@@ -1099,6 +1107,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 216345,
+      "num": 216345,
+      "word": "赵丽颖直播",
+      "onboard_time": 1727263760,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 216122,
       "num": 569712,
       "word": "炉石传说",
@@ -1121,6 +1137,14 @@
       "onboard_time": 1727237540,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 207651,
+      "num": 207651,
+      "word": "你好星期六",
+      "onboard_time": 1727263280,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 207613,
@@ -1185,6 +1209,14 @@
       "onboard_time": 1727233639,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 204232,
+      "num": 204232,
+      "word": "刘宇宁唱讲真的 梦回18年",
+      "onboard_time": 1727263518,
+      "rank": 27,
+      "category": "音乐"
     },
     {
       "raw_hot": 204008,
@@ -1273,14 +1305,6 @@
       "onboard_time": 1727240900,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 198947,
-      "num": 198947,
-      "word": "念无双",
-      "onboard_time": 1727261601,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 198523,
@@ -1779,6 +1803,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 149486,
+      "num": 476105,
+      "word": "女子充完话费接到警方通知涉嫌洗钱",
+      "onboard_time": 1727259439,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 149073,
       "num": 149073,
       "word": "国乒女队最新备战画面",
@@ -1811,12 +1843,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 148431,
-      "num": 476105,
-      "word": "女子充完话费接到警方通知涉嫌洗钱",
-      "onboard_time": 1727259439,
-      "rank": 18,
-      "category": "社会新闻"
+      "raw_hot": 148101,
+      "num": 148101,
+      "word": "G社镜头下的迪丽热巴周也金智秀",
+      "onboard_time": 1727259979,
+      "rank": 36,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 147363,
@@ -1841,14 +1873,6 @@
       "onboard_time": 1727233159,
       "rank": 44,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 145976,
-      "num": 145976,
-      "word": "G社镜头下的迪丽热巴周也金智秀",
-      "onboard_time": 1727259979,
-      "rank": 36,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 145187,
@@ -1907,6 +1931,14 @@
       "category": "社会新闻,国外时政"
     },
     {
+      "raw_hot": 142657,
+      "num": 142657,
+      "word": "许凯火场追凶杀青",
+      "onboard_time": 1727262919,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 142212,
       "num": 348865,
       "word": "公司虚构项目诈骗百余老人1500万",
@@ -1953,6 +1985,14 @@
       "onboard_time": 1727225600,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 134341,
+      "num": 134341,
+      "word": "尤长靖新歌",
+      "onboard_time": 1727264002,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 134080,
@@ -2091,6 +2131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 123700,
+      "num": 123700,
+      "word": "张碧晨红毯造型好仙",
+      "onboard_time": 1727263698,
+      "rank": 48,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 122264,
       "num": 122264,
       "word": "哈里斯竞选团队办公室遭枪击受损",
@@ -2121,14 +2169,6 @@
       "onboard_time": 1727229378,
       "rank": 47,
       "category": "财经"
-    },
-    {
-      "raw_hot": 119206,
-      "num": 119206,
-      "word": "许凯火场追凶杀青",
-      "onboard_time": 1727262919,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 118672,
@@ -2299,6 +2339,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 84233,
+      "num": 451479,
+      "word": "一口价黄金打开了溢价天花板",
+      "onboard_time": 1727262200,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 79523,
       "num": 79523,
       "word": "博主大娃回应被东北雨姐殴打",
@@ -2345,6 +2393,14 @@
       "onboard_time": 1727190502,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 74170,
+      "num": 275972,
+      "word": "八旬老太领蛋被挤倒身亡超市赔10万",
+      "onboard_time": 1727262140,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 74101,
@@ -2451,14 +2507,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 58159,
-      "num": 451479,
-      "word": "一口价黄金打开了溢价天花板",
-      "onboard_time": 1727262200,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 57170,
       "num": 291814,
       "word": "中年养殖户和他死去的25000只鸡",
@@ -2561,14 +2609,6 @@
       "onboard_time": 1727256499,
       "rank": 38,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 47003,
-      "num": 275972,
-      "word": "八旬老太领蛋被挤倒身亡超市赔10万",
-      "onboard_time": 1727262140,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 46806,
@@ -2795,6 +2835,22 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 25147,
+      "num": 275844,
+      "word": "微博音乐盛典红毯出片搭子",
+      "onboard_time": 1727260699,
+      "rank": 46,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 24469,
+      "num": 288751,
+      "word": "业内称客房装摄像头涉及背后灰产",
+      "onboard_time": 1727264060,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 22708,
       "num": 168620,
       "word": "中网女单正赛今日开赛",
@@ -2819,14 +2875,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 19152,
-      "num": 275844,
-      "word": "微博音乐盛典红毯出片搭子",
-      "onboard_time": 1727260699,
-      "rank": 46,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 15390,
       "num": 484185,
       "word": "大摩称A股或跑赢新兴市场",
@@ -2841,6 +2889,14 @@
       "onboard_time": 1727203392,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 13389,
+      "num": 230843,
+      "word": "袁文康演塌房艺人律师精神状态",
+      "onboard_time": 1727263698,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 12081,

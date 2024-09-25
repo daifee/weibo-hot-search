@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1727263190495,
+  "endTime": 1727264138632,
   "band_list": [
     {
       "raw_hot": 28035334,
@@ -601,6 +601,14 @@
       "onboard_time": 1726804702,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2791932,
+      "num": 2791932,
+      "word": "银川地震",
+      "onboard_time": 1727259859,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2775458,
@@ -2707,14 +2715,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1510247,
-      "num": 1510247,
-      "word": "银川地震",
-      "onboard_time": 1727259859,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1507222,
       "num": 1507222,
       "word": "买到15盒美诚月饼老板称给亲戚了",
@@ -3915,6 +3915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1282524,
+      "num": 481346,
+      "word": "25岁遇害女村干部系家中独女",
+      "onboard_time": 1727260219,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1280133,
       "num": 1280133,
       "word": "男主写死了",
@@ -4640,14 +4648,6 @@
       "word": "台风普拉桑是急性子",
       "onboard_time": 1726715540,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1186284,
-      "num": 481346,
-      "word": "25岁遇害女村干部系家中独女",
-      "onboard_time": 1727260219,
-      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -28683,6 +28683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 238924,
+      "num": 393945,
+      "word": "一招测出房间里是否有偷拍摄像头",
+      "onboard_time": 1727260041,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 238869,
       "num": 238869,
       "word": "包头地震",
@@ -28849,6 +28857,14 @@
       "onboard_time": 1726556181,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 237612,
+      "num": 237612,
+      "word": "时代少年团抽到了王嘉尔",
+      "onboard_time": 1727260939,
+      "rank": 23,
+      "category": "音乐"
     },
     {
       "raw_hot": 237556,
@@ -29443,14 +29459,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 232443,
-      "num": 232443,
-      "word": "时代少年团抽到了王嘉尔",
-      "onboard_time": 1727260939,
-      "rank": 23,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 232439,
       "num": 232439,
       "word": "原神基尼奇",
@@ -29843,14 +29851,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 229819,
-      "num": 393945,
-      "word": "一招测出房间里是否有偷拍摄像头",
-      "onboard_time": 1727260041,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 229689,
       "num": 229689,
       "word": "上海网友称今天在暴雨中坐船上班",
@@ -30177,6 +30177,14 @@
       "onboard_time": 1726034542,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 227541,
+      "num": 227541,
+      "word": "念无双",
+      "onboard_time": 1727261601,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 227532,
@@ -31617,6 +31625,14 @@
       "onboard_time": 1725683359,
       "rank": 30,
       "category": "数码"
+    },
+    {
+      "raw_hot": 216345,
+      "num": 216345,
+      "word": "赵丽颖直播",
+      "onboard_time": 1727263760,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 216343,
@@ -33115,6 +33131,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 207651,
+      "num": 207651,
+      "word": "你好星期六",
+      "onboard_time": 1725713060,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 207637,
       "num": 207637,
       "word": "肚子容易长肉是基因决定的",
@@ -34041,6 +34065,14 @@
       "onboard_time": 1726656260,
       "rank": 34,
       "category": "财经"
+    },
+    {
+      "raw_hot": 204232,
+      "num": 204232,
+      "word": "刘宇宁唱讲真的 梦回18年",
+      "onboard_time": 1727263518,
+      "rank": 27,
+      "category": "音乐"
     },
     {
       "raw_hot": 204132,
@@ -35569,14 +35601,6 @@
       "onboard_time": 1725609380,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 198947,
-      "num": 198947,
-      "word": "念无双",
-      "onboard_time": 1727261601,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 198934,
@@ -37409,14 +37433,6 @@
       "onboard_time": 1726917081,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 193200,
-      "num": 193200,
-      "word": "你好星期六",
-      "onboard_time": 1725713060,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 193195,
@@ -49675,6 +49691,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 149486,
+      "num": 476105,
+      "word": "女子充完话费接到警方通知涉嫌洗钱",
+      "onboard_time": 1727259439,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 149471,
       "num": 149471,
       "word": "入青云路透",
@@ -50019,14 +50043,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 148431,
-      "num": 476105,
-      "word": "女子充完话费接到警方通知涉嫌洗钱",
-      "onboard_time": 1727259439,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 148425,
       "num": 148425,
       "word": "无糖奶茶含糖量接近正常糖的一半",
@@ -50177,6 +50193,14 @@
       "onboard_time": 1725432859,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 148101,
+      "num": 148101,
+      "word": "G社镜头下的迪丽热巴周也金智秀",
+      "onboard_time": 1727259979,
+      "rank": 36,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 148081,
@@ -50745,14 +50769,6 @@
       "onboard_time": 1725180620,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 145976,
-      "num": 145976,
-      "word": "G社镜头下的迪丽热巴周也金智秀",
-      "onboard_time": 1727259979,
-      "rank": 36,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 145936,
@@ -51833,6 +51849,14 @@
       "onboard_time": 1726054460,
       "rank": 38,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 142657,
+      "num": 142657,
+      "word": "许凯火场追凶杀青",
+      "onboard_time": 1727262919,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 142643,
@@ -54017,6 +54041,14 @@
       "onboard_time": 1725957201,
       "rank": 44,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 134341,
+      "num": 134341,
+      "word": "尤长靖新歌",
+      "onboard_time": 1727264002,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 134338,
@@ -56691,6 +56723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 123700,
+      "num": 123700,
+      "word": "张碧晨红毯造型好仙",
+      "onboard_time": 1727263698,
+      "rank": 48,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 123611,
       "num": 123611,
       "word": "奥运群像",
@@ -57609,14 +57649,6 @@
       "onboard_time": 1725969921,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 119206,
-      "num": 119206,
-      "word": "许凯火场追凶杀青",
-      "onboard_time": 1727262919,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 119100,
@@ -62443,6 +62475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 84233,
+      "num": 451479,
+      "word": "一口价黄金打开了溢价天花板",
+      "onboard_time": 1727262200,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 84219,
       "num": 340877,
       "word": "如何过好大学生活",
@@ -63473,6 +63513,14 @@
       "onboard_time": 1726900101,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 74170,
+      "num": 275972,
+      "word": "八旬老太领蛋被挤倒身亡超市赔10万",
+      "onboard_time": 1727262140,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 74101,
@@ -65441,14 +65489,6 @@
       "onboard_time": 1727152700,
       "rank": 19,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 58159,
-      "num": 451479,
-      "word": "一口价黄金打开了溢价天花板",
-      "onboard_time": 1727262200,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 58107,
@@ -67544,14 +67584,6 @@
       "word": "头部主播带货为何频频翻车",
       "onboard_time": 1726282879,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 47003,
-      "num": 275972,
-      "word": "八旬老太领蛋被挤倒身亡超市赔10万",
-      "onboard_time": 1727262140,
-      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -73163,6 +73195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 25147,
+      "num": 275844,
+      "word": "微博音乐盛典红毯出片搭子",
+      "onboard_time": 1727260699,
+      "rank": 46,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 25021,
       "num": 25021,
       "word": "野孩子 事实孤儿",
@@ -73313,6 +73353,14 @@
       "onboard_time": 1725705562,
       "rank": 18,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 24469,
+      "num": 288751,
+      "word": "业内称客房装摄像头涉及背后灰产",
+      "onboard_time": 1727264060,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 24448,
@@ -74467,14 +74515,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 19152,
-      "num": 275844,
-      "word": "微博音乐盛典红毯出片搭子",
-      "onboard_time": 1727260699,
-      "rank": 46,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 19143,
       "num": 252653,
       "word": "精英阶层的自我复制",
@@ -75289,6 +75329,14 @@
       "onboard_time": 1726081931,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 13389,
+      "num": 230843,
+      "word": "袁文康演塌房艺人律师精神状态",
+      "onboard_time": 1727263698,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 13379,

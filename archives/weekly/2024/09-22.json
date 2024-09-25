@@ -1,6 +1,6 @@
 {
   "startTime": 1726936020707,
-  "endTime": 1727263190495,
+  "endTime": 1727264138632,
   "band_list": [
     {
       "raw_hot": 6817146,
@@ -56,6 +56,14 @@
       "word": "致6死7伤肇事车司机绝望大喊完了",
       "onboard_time": 1727075719,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2791932,
+      "num": 2791932,
+      "word": "银川地震",
+      "onboard_time": 1727259859,
+      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -355,14 +363,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 1510247,
-      "num": 1510247,
-      "word": "银川地震",
-      "onboard_time": 1727259859,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1499484,
       "num": 864789,
       "word": "男友嫖娼被拘后女子要求酒店给说法",
@@ -563,6 +563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1282524,
+      "num": 481346,
+      "word": "25岁遇害女村干部系家中独女",
+      "onboard_time": 1727260219,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1267818,
       "num": 1267818,
       "word": "东北雨姐带货红薯厂家承认含木薯粉",
@@ -633,14 +641,6 @@
       "onboard_time": 1726989439,
       "rank": 0,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1186284,
-      "num": 481346,
-      "word": "25岁遇害女村干部系家中独女",
-      "onboard_time": 1727260219,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1173426,
@@ -4579,12 +4579,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 238924,
+      "num": 393945,
+      "word": "一招测出房间里是否有偷拍摄像头",
+      "onboard_time": 1727260041,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 238366,
       "num": 238366,
       "word": "于正回复洪尧关注美女",
       "onboard_time": 1726982721,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 237612,
+      "num": 237612,
+      "word": "时代少年团抽到了王嘉尔",
+      "onboard_time": 1727260939,
+      "rank": 23,
+      "category": "音乐"
     },
     {
       "raw_hot": 237556,
@@ -4691,14 +4707,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 232443,
-      "num": 232443,
-      "word": "时代少年团抽到了王嘉尔",
-      "onboard_time": 1727260939,
-      "rank": 23,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 232169,
       "num": 232169,
       "word": "云次方",
@@ -4755,14 +4763,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 229819,
-      "num": 393945,
-      "word": "一招测出房间里是否有偷拍摄像头",
-      "onboard_time": 1727260041,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 229022,
       "num": 229022,
       "word": "走失猫咪独自跋涉1200多公里",
@@ -4801,6 +4801,14 @@
       "onboard_time": 1727148799,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 227541,
+      "num": 227541,
+      "word": "念无双",
+      "onboard_time": 1727261601,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 227409,
@@ -5083,6 +5091,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 216345,
+      "num": 216345,
+      "word": "赵丽颖直播",
+      "onboard_time": 1727263760,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 216122,
       "num": 569712,
       "word": "炉石传说",
@@ -5283,6 +5299,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 207651,
+      "num": 207651,
+      "word": "你好星期六",
+      "onboard_time": 1727263280,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 207534,
       "num": 207534,
       "word": "易方达基金被举报",
@@ -5449,6 +5473,14 @@
       "onboard_time": 1726999399,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 204232,
+      "num": 204232,
+      "word": "刘宇宁唱讲真的 梦回18年",
+      "onboard_time": 1727263518,
+      "rank": 27,
+      "category": "音乐"
     },
     {
       "raw_hot": 204091,
@@ -5753,14 +5785,6 @@
       "onboard_time": 1726982780,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 198947,
-      "num": 198947,
-      "word": "念无双",
-      "onboard_time": 1727261601,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 198916,
@@ -7915,6 +7939,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 149486,
+      "num": 476105,
+      "word": "女子充完话费接到警方通知涉嫌洗钱",
+      "onboard_time": 1727259439,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 149471,
       "num": 149471,
       "word": "入青云路透",
@@ -8027,14 +8059,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 148431,
-      "num": 476105,
-      "word": "女子充完话费接到警方通知涉嫌洗钱",
-      "onboard_time": 1727259439,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 148425,
       "num": 148425,
       "word": "无糖奶茶含糖量接近正常糖的一半",
@@ -8049,6 +8073,14 @@
       "onboard_time": 1726970060,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 148101,
+      "num": 148101,
+      "word": "G社镜头下的迪丽热巴周也金智秀",
+      "onboard_time": 1727259979,
+      "rank": 36,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 147942,
@@ -8169,14 +8201,6 @@
       "onboard_time": 1727170459,
       "rank": 44,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 145976,
-      "num": 145976,
-      "word": "G社镜头下的迪丽热巴周也金智秀",
-      "onboard_time": 1727259979,
-      "rank": 36,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 145840,
@@ -8361,6 +8385,14 @@
       "onboard_time": 1727015245,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 142657,
+      "num": 142657,
+      "word": "许凯火场追凶杀青",
+      "onboard_time": 1727262919,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 142643,
@@ -8713,6 +8745,14 @@
       "onboard_time": 1727085201,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 134341,
+      "num": 134341,
+      "word": "尤长靖新歌",
+      "onboard_time": 1727264002,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 134080,
@@ -9155,6 +9195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 123700,
+      "num": 123700,
+      "word": "张碧晨红毯造型好仙",
+      "onboard_time": 1727263698,
+      "rank": 48,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 123420,
       "num": 123420,
       "word": "周雨彤演技",
@@ -9336,14 +9384,6 @@
       "word": "舍不得星星",
       "onboard_time": 1727088079,
       "rank": 46,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 119206,
-      "num": 119206,
-      "word": "许凯火场追凶杀青",
-      "onboard_time": 1727262919,
-      "rank": 47,
       "category": "剧集"
     },
     {
@@ -10147,6 +10187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 84233,
+      "num": 451479,
+      "word": "一口价黄金打开了溢价天花板",
+      "onboard_time": 1727262200,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 83876,
       "num": 365954,
       "word": "男子离婚冷静期杀妻案二审宣判",
@@ -10321,6 +10369,14 @@
       "onboard_time": 1727101460,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 74170,
+      "num": 275972,
+      "word": "八旬老太领蛋被挤倒身亡超市赔10万",
+      "onboard_time": 1727262140,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 74101,
@@ -10673,14 +10729,6 @@
       "onboard_time": 1727152700,
       "rank": 19,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 58159,
-      "num": 451479,
-      "word": "一口价黄金打开了溢价天花板",
-      "onboard_time": 1727262200,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 58107,
@@ -11073,14 +11121,6 @@
       "onboard_time": 1727180899,
       "rank": 16,
       "category": "数码"
-    },
-    {
-      "raw_hot": 47003,
-      "num": 275972,
-      "word": "八旬老太领蛋被挤倒身亡超市赔10万",
-      "onboard_time": 1727262140,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 46929,
@@ -12051,6 +12091,22 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 25147,
+      "num": 275844,
+      "word": "微博音乐盛典红毯出片搭子",
+      "onboard_time": 1727260699,
+      "rank": 46,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 24469,
+      "num": 288751,
+      "word": "业内称客房装摄像头涉及背后灰产",
+      "onboard_time": 1727264060,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 24302,
       "num": 30474,
       "word": "王心凌官宣微博音乐盛典",
@@ -12193,14 +12249,6 @@
       "onboard_time": 1727214792,
       "rank": 49,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 19152,
-      "num": 275844,
-      "word": "微博音乐盛典红毯出片搭子",
-      "onboard_time": 1727260699,
-      "rank": 46,
-      "category": "音乐"
     },
     {
       "raw_hot": 18631,
@@ -12369,6 +12417,14 @@
       "onboard_time": 1726949531,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 13389,
+      "num": 230843,
+      "word": "袁文康演塌房艺人律师精神状态",
+      "onboard_time": 1727263698,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 13145,
