@@ -1,0 +1,410 @@
+{
+  "runTime": 1727269198486,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2374798,
+        "num": 2374798,
+        "word": "合肥肥东3.8级地震",
+        "onboard_time": 1727264422,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1028615,
+        "num": 1028615,
+        "word": "合肥肥东今年已经发生5次地震",
+        "onboard_time": 1727266580,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 7166,
+        "num": 863513,
+        "word": "两岸新媒体嘉年华",
+        "onboard_time": 1727269101,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 786872,
+        "num": 786872,
+        "word": "韩素希回应柳俊烈李惠利争议",
+        "onboard_time": 1727266521,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 600807,
+        "num": 600807,
+        "word": "47岁女教师成为大体老师重回母校",
+        "onboard_time": 1727254940,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 598664,
+        "num": 598664,
+        "word": "赵丽颖直播",
+        "onboard_time": 1727263760,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 550516,
+        "num": 550516,
+        "word": "微博音乐盛典",
+        "onboard_time": 1727259500,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 466045,
+        "num": 466045,
+        "word": "苹果商店软件涉黄",
+        "onboard_time": 1727247679,
+        "rank": 7,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 245928,
+        "num": 245928,
+        "word": "南京震感",
+        "onboard_time": 1727265861,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187148,
+        "num": 245699,
+        "word": "对就业质量不高的专业红黄牌提示",
+        "onboard_time": 1727267241,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 531001,
+        "num": 242954,
+        "word": "河南一学生欲跳楼老师报警被阻拦",
+        "onboard_time": 1727265022,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 480378,
+        "num": 239042,
+        "word": "赵丽颖说事业心又强了",
+        "onboard_time": 1727267659,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 355713,
+        "num": 236597,
+        "word": "25岁遇害女村干部系家中独女",
+        "onboard_time": 1727260219,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 292088,
+        "num": 232322,
+        "word": "雅太帅了",
+        "onboard_time": 1727267420,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 279859,
+        "num": 230127,
+        "word": "唐朝诡事录3将开机",
+        "onboard_time": 1727265320,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 229397,
+        "num": 229397,
+        "word": "谁教刘忻这么穿的",
+        "onboard_time": 1727266161,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 161608,
+        "num": 221990,
+        "word": "就业优先战略促进高质量充分就业",
+        "onboard_time": 1727265803,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 220726,
+        "num": 220726,
+        "word": "豆瓣崩了",
+        "onboard_time": 1727268140,
+        "rank": 17,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 32453,
+        "num": 210124,
+        "word": "首次亮相天安门广场的蔬果花篮",
+        "onboard_time": 1727268981,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207615,
+        "num": 207615,
+        "word": "种地吧",
+        "onboard_time": 1727266880,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 207498,
+        "num": 207498,
+        "word": "一路繁花有张兰和向太",
+        "onboard_time": 1727256380,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 207269,
+        "num": 207269,
+        "word": "路人捡金手镯后扔掉判赔1万6",
+        "onboard_time": 1727252241,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203143,
+        "num": 203143,
+        "word": "如何看待公司禁止员工带苹果产品",
+        "onboard_time": 1727257399,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24979,
+        "num": 196239,
+        "word": "中国天眼从粗头铅笔升级到数码相机",
+        "onboard_time": 1727251940,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195916,
+        "num": 195916,
+        "word": "你好星期六",
+        "onboard_time": 1727263280,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 88199,
+        "num": 192521,
+        "word": "花800万在上海买到凶宅能退吗",
+        "onboard_time": 1727267300,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191038,
+        "num": 191038,
+        "word": "宋亚轩体制内男友即视感",
+        "onboard_time": 1727267900,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 388958,
+        "num": 189068,
+        "word": "禁止非法使用窃听窃照专用器材",
+        "onboard_time": 1727252660,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 406209,
+        "num": 185793,
+        "word": "一招测出房间里是否有偷拍摄像头",
+        "onboard_time": 1727260041,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171848,
+        "num": 171848,
+        "word": "瑞士使用安乐死胶囊舱相关人员被捕",
+        "onboard_time": 1727254281,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168080,
+        "num": 168080,
+        "word": "张桂梅 富养孤儿",
+        "onboard_time": 1727264543,
+        "rank": 30,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 190279,
+        "num": 165946,
+        "word": "宋亚轩王心凌热聊",
+        "onboard_time": 1727269101,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 162241,
+        "num": 162241,
+        "word": "小鱼 大佬培养我考北大",
+        "onboard_time": 1727267781,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161140,
+        "num": 161140,
+        "word": "猎罪图鉴2",
+        "onboard_time": 1727243960,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159294,
+        "num": 159294,
+        "word": "炉石传说 开门",
+        "onboard_time": 1727264903,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 156512,
+        "num": 156512,
+        "word": "时代少年团西装牛仔混搭造型",
+        "onboard_time": 1727254221,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 154944,
+        "num": 154944,
+        "word": "宁夏银川发生3.3级地震",
+        "onboard_time": 1727261601,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150524,
+        "num": 150524,
+        "word": "樊振东怎么还没有请全红婵吃叉烧",
+        "onboard_time": 1727265142,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 147822,
+        "num": 147822,
+        "word": "本轮冷空气或将终结南方高温",
+        "onboard_time": 1727268200,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135268,
+        "num": 135268,
+        "word": "强冷空气发力了局地降温16摄氏度",
+        "onboard_time": 1727268020,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136048,
+        "num": 134520,
+        "word": "时代少年团解构光影创想",
+        "onboard_time": 1727268200,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 133517,
+        "num": 133517,
+        "word": "田曦薇回应粉丝诉求",
+        "onboard_time": 1727257520,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2591960,
+        "num": 132113,
+        "word": "救救王心凌",
+        "onboard_time": 1727265680,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 129703,
+        "num": 129703,
+        "word": "男子花800万买的房子竟是凶宅",
+        "onboard_time": 1727266939,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123272,
+        "num": 123272,
+        "word": "电视剧遮天",
+        "onboard_time": 1727254519,
+        "rank": 44,
+        "category": "剧集,动漫"
+      },
+      {
+        "raw_hot": 122300,
+        "num": 122300,
+        "word": "王嘉尔压轴",
+        "onboard_time": 1727254761,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 122072,
+        "num": 122072,
+        "word": "上海海港vs上海申花",
+        "onboard_time": 1727268680,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120739,
+        "num": 120739,
+        "word": "促进劳动报酬合理增长",
+        "onboard_time": 1727267602,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 120579,
+        "num": 120579,
+        "word": "如鸢预下载登顶免费榜",
+        "onboard_time": 1727264842,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 114199,
+        "num": 114199,
+        "word": "山西通报新娘被多名男子绑电线杆上",
+        "onboard_time": 1727251639,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#让民族团结的佳话代代相传#"
+    }
+  }
+}
