@@ -1,0 +1,410 @@
+{
+  "runTime": 1727232930921,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1799912,
+        "num": 1799912,
+        "word": "我军向太平洋发射洲际弹道导弹",
+        "onboard_time": 1727231179,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 844756,
+        "num": 844756,
+        "word": "全红婵真的内耗不了一点",
+        "onboard_time": 1727229138,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 6908,
+        "num": 796698,
+        "word": "老铁山单日记录迁徙猛禽过万只",
+        "onboard_time": 1727148199,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 761175,
+        "num": 761175,
+        "word": "中国维和部队排除未爆火箭弹",
+        "onboard_time": 1727226559,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 673020,
+        "num": 673020,
+        "word": "父亲车祸身亡后继母和儿子互相起诉",
+        "onboard_time": 1727229078,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 649504,
+        "num": 649504,
+        "word": "爱奇艺片单",
+        "onboard_time": 1727228839,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 470961,
+        "num": 470961,
+        "word": "杨幂欧豪生万物海报",
+        "onboard_time": 1727231717,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 469808,
+        "num": 469808,
+        "word": "王楚钦中国大满贯倒计时海报",
+        "onboard_time": 1727229919,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 404772,
+        "num": 404772,
+        "word": "好怕唐嫣突然说一句China",
+        "onboard_time": 1727191161,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 363733,
+        "num": 363733,
+        "word": "炉石传说将补偿玩家2023年全部卡牌",
+        "onboard_time": 1727227818,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 344689,
+        "num": 344689,
+        "word": "电视剧家业",
+        "onboard_time": 1727222780,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 307244,
+        "num": 307244,
+        "word": "老人长时间坐星巴克门口员工报警劝离",
+        "onboard_time": 1727199072,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 328785,
+        "num": 304792,
+        "word": "杨紫韩东君家业概念海报",
+        "onboard_time": 1727231837,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 278623,
+        "num": 278623,
+        "word": "成毅赴山海双角色海报",
+        "onboard_time": 1727232137,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 254973,
+        "num": 254973,
+        "word": "俄拟立法禁止宣传不生孩子",
+        "onboard_time": 1727231778,
+        "rank": 14,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 251962,
+        "num": 251962,
+        "word": "杜江找肖战要签名后续",
+        "onboard_time": 1727223860,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 238147,
+        "num": 238147,
+        "word": "考上公费师范生后我选择违约",
+        "onboard_time": 1727224340,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237113,
+        "num": 237113,
+        "word": "A股",
+        "onboard_time": 1727228058,
+        "rank": 17,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 215604,
+        "num": 215604,
+        "word": "赵丽颖带火的簪花渔村现状",
+        "onboard_time": 1727223799,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26214,
+        "num": 214913,
+        "word": "韩政府讨论引入养宠税",
+        "onboard_time": 1727232200,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 712723,
+        "num": 210016,
+        "word": "韩安冉说小英没有塌房",
+        "onboard_time": 1727223680,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 583085,
+        "num": 205923,
+        "word": "迪丽热巴成功追星娜塔莉波特曼",
+        "onboard_time": 1727224280,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 562087,
+        "num": 198004,
+        "word": "学校禁止学生带牛奶挨个查包",
+        "onboard_time": 1727207290,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 291132,
+        "num": 193667,
+        "word": "博士妻子陪失意丈夫卖甜水",
+        "onboard_time": 1727228179,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228036,
+        "num": 191850,
+        "word": "你是我见过班味最重的",
+        "onboard_time": 1727225959,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 188910,
+        "num": 188910,
+        "word": "最简单的减肥方法",
+        "onboard_time": 1727226379,
+        "rank": 25,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 182963,
+        "num": 182963,
+        "word": "沈以诚播客下架",
+        "onboard_time": 1727224460,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 181067,
+        "num": 181067,
+        "word": "人民币重回6字头",
+        "onboard_time": 1727230638,
+        "rank": 27,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 173054,
+        "num": 173054,
+        "word": "爸爸过世后我不再恐惧死亡",
+        "onboard_time": 1727193139,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22708,
+        "num": 168620,
+        "word": "中网女单正赛今日开赛",
+        "onboard_time": 1727231539,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167522,
+        "num": 167522,
+        "word": "极乐鸟",
+        "onboard_time": 1727223320,
+        "rank": 30,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 162593,
+        "num": 162593,
+        "word": "仙台有树首发预告",
+        "onboard_time": 1727231418,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159850,
+        "num": 159850,
+        "word": "高铁站一声舅舅换来一群兵舅舅回头",
+        "onboard_time": 1727232258,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154542,
+        "num": 154542,
+        "word": "周雨彤 我朋友多都在惦记我",
+        "onboard_time": 1727229801,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149778,
+        "num": 149778,
+        "word": "炉石传说",
+        "onboard_time": 1727197514,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 149397,
+        "num": 149397,
+        "word": "男子在楼梯间发现超级袜子连连看",
+        "onboard_time": 1727230219,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147286,
+        "num": 147286,
+        "word": "白鹿让虐文大女主有脸了",
+        "onboard_time": 1727232380,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 86000,
+        "num": 136146,
+        "word": "警方回应大货车雨中顶推奔驰行驶",
+        "onboard_time": 1727230939,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135361,
+        "num": 135361,
+        "word": "7岁女孩不到1秒破世界纪录",
+        "onboard_time": 1727176939,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134449,
+        "num": 134449,
+        "word": "力箭一号遥四商业运载火箭发射成功",
+        "onboard_time": 1727225179,
+        "rank": 39,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 134212,
+        "num": 134212,
+        "word": "楚乔传的含金量还在上升",
+        "onboard_time": 1727224340,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133401,
+        "num": 133401,
+        "word": "漂白首支预告",
+        "onboard_time": 1727231659,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130437,
+        "num": 130437,
+        "word": "猫 咬完就跑好刺激",
+        "onboard_time": 1727225959,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 127880,
+        "num": 127880,
+        "word": "一市民4元机选彩票中1000万元",
+        "onboard_time": 1727225060,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121945,
+        "num": 121945,
+        "word": "大生意人预告",
+        "onboard_time": 1727232558,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112334,
+        "num": 112334,
+        "word": "邓为扛住了外媒镜头",
+        "onboard_time": 1727226320,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 110037,
+        "num": 110037,
+        "word": "吴倩演技",
+        "onboard_time": 1727228719,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 108185,
+        "num": 108185,
+        "word": "朴彩英巴黎路透",
+        "onboard_time": 1727225419,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 107443,
+        "num": 107443,
+        "word": "炉石传说 进不去",
+        "onboard_time": 1727228599,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 106034,
+        "num": 106034,
+        "word": "法考成绩",
+        "onboard_time": 1727232919,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国圆了飞天揽月梦也圆了自主创新梦#"
+    }
+  }
+}
