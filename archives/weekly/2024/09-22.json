@@ -1,6 +1,6 @@
 {
   "startTime": 1726936020707,
-  "endTime": 1727275236927,
+  "endTime": 1727277885489,
   "band_list": [
     {
       "raw_hot": 6817146,
@@ -233,6 +233,14 @@
       "onboard_time": 1727060358,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1764938,
+      "num": 663517,
+      "word": "于适新头像",
+      "onboard_time": 1727276360,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 1759877,
@@ -520,6 +528,14 @@
       "word": "株洲芦淞大桥事故已致6死7伤",
       "onboard_time": 1727060358,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1380136,
+      "num": 338505,
+      "word": "女律师在工作群发与上司出轨细节",
+      "onboard_time": 1727274082,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -889,6 +905,14 @@
       "onboard_time": 1727015305,
       "rank": 16,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1020834,
+      "num": 1163333,
+      "word": "吴谨言线下活动",
+      "onboard_time": 1727274319,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 1002249,
@@ -1811,6 +1835,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 646468,
+      "num": 646468,
+      "word": "合肥3.8级地震与4.7级地震震中基本一致",
+      "onboard_time": 1727272403,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 642953,
       "num": 642953,
       "word": "河海大学图书馆厕所发现摄像头",
@@ -2659,14 +2691,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 454811,
-      "num": 255823,
-      "word": "女律师在工作群发与上司出轨细节",
-      "onboard_time": 1727274082,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 454510,
       "num": 454510,
       "word": "石家庄民宿摄像头",
@@ -2785,14 +2809,6 @@
       "onboard_time": 1727160498,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 439909,
-      "num": 439909,
-      "word": "合肥3.8级地震与4.7级地震震中基本一致",
-      "onboard_time": 1727272403,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 438689,
@@ -3072,14 +3088,6 @@
       "word": "白鹿开启新副本",
       "onboard_time": 1727101520,
       "rank": 18,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 392279,
-      "num": 392279,
-      "word": "吴谨言线下活动",
-      "onboard_time": 1727274319,
-      "rank": 16,
       "category": "艺人"
     },
     {
@@ -3899,6 +3907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 301314,
+      "num": 273944,
+      "word": "12306候补一种很新的存钱方式",
+      "onboard_time": 1727274680,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 301313,
       "num": 301313,
       "word": "未定事件簿",
@@ -4009,6 +4025,14 @@
       "onboard_time": 1727250259,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 287424,
+      "num": 287424,
+      "word": "张雨霏50蝶夺冠",
+      "onboard_time": 1727274982,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 287026,
@@ -4153,6 +4177,14 @@
       "onboard_time": 1727170518,
       "rank": 28,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 278680,
+      "num": 278680,
+      "word": "学校回应学生仅退款被拒骂客服1小时",
+      "onboard_time": 1727275700,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 277918,
@@ -5083,6 +5115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 226343,
+      "num": 226343,
+      "word": "高龄产妇困在备孕失败的那些年",
+      "onboard_time": 1727273299,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 225720,
       "num": 225720,
       "word": "高雅cp",
@@ -5385,6 +5425,14 @@
       "onboard_time": 1727233038,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 213838,
+      "num": 213838,
+      "word": "时代少年团听到rumors的反应",
+      "onboard_time": 1727277020,
+      "rank": 23,
+      "category": "音乐"
     },
     {
       "raw_hot": 212848,
@@ -5763,6 +5811,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 203971,
+      "num": 203971,
+      "word": "黄景瑜说取消顾一燃旅店那段是现挂",
+      "onboard_time": 1727276841,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 203829,
       "num": 189326,
       "word": "猫系美女",
@@ -5817,6 +5873,14 @@
       "onboard_time": 1727166019,
       "rank": 30,
       "category": "数码"
+    },
+    {
+      "raw_hot": 202641,
+      "num": 202641,
+      "word": "王嘉尔 你们人多我过来",
+      "onboard_time": 1727275161,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 202599,
@@ -6051,14 +6115,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 198954,
-      "num": 198954,
-      "word": "高龄产妇困在备孕失败的那些年",
-      "onboard_time": 1727273299,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 198916,
       "num": 198916,
       "word": "男孩收到武大靖签名鞋狂炫耀",
@@ -6209,14 +6265,6 @@
       "onboard_time": 1727272580,
       "rank": 31,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 196469,
-      "num": 196469,
-      "word": "12306候补一种很新的存钱方式",
-      "onboard_time": 1727274680,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 196221,
@@ -7403,6 +7451,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 173787,
+      "num": 351868,
+      "word": "我的宝藏家乡",
+      "onboard_time": 1727275879,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 173755,
       "num": 173755,
       "word": "民宿业主与安装摄像头3人不相识",
@@ -7785,6 +7841,14 @@
       "onboard_time": 1727160979,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 164606,
+      "num": 164606,
+      "word": "预制朋友圈火了",
+      "onboard_time": 1727277141,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 164484,
@@ -8363,14 +8427,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 150022,
-      "num": 150022,
-      "word": "张雨霏50蝶夺冠",
-      "onboard_time": 1727274982,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 150008,
       "num": 150008,
       "word": "商竣程创造历史",
@@ -8497,6 +8553,14 @@
       "onboard_time": 1726931305,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 148553,
+      "num": 148553,
+      "word": "GAI五获年度说唱歌手",
+      "onboard_time": 1727275401,
+      "rank": 33,
+      "category": "音乐"
     },
     {
       "raw_hot": 148459,
@@ -8723,6 +8787,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 145035,
+      "num": 145035,
+      "word": "侯明昊吻戏",
+      "onboard_time": 1727275401,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 144815,
       "num": 144815,
       "word": "吴倩演技",
@@ -8793,14 +8865,6 @@
       "onboard_time": 1727104039,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 143736,
-      "num": 143736,
-      "word": "王嘉尔 你们人多我过来",
-      "onboard_time": 1727275161,
-      "rank": 40,
-      "category": "音乐"
     },
     {
       "raw_hot": 143635,
@@ -8897,6 +8961,14 @@
       "onboard_time": 1727183362,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 141241,
+      "num": 141241,
+      "word": "咖啡价格卷到6.6元",
+      "onboard_time": 1727271801,
+      "rank": 42,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 141149,
@@ -9033,14 +9105,6 @@
       "onboard_time": 1727252419,
       "rank": 43,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 137998,
-      "num": 137998,
-      "word": "咖啡价格卷到6.6元",
-      "onboard_time": 1727271801,
-      "rank": 42,
-      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 137791,
@@ -9184,6 +9248,14 @@
       "word": "舍不得星星大宋少年志梦幻联动",
       "onboard_time": 1727071829,
       "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 135165,
+      "num": 135165,
+      "word": "她让一百个女孩走出大山",
+      "onboard_time": 1727277079,
+      "rank": 39,
       "category": "剧集"
     },
     {
@@ -10283,6 +10355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 107220,
+      "num": 107220,
+      "word": "送别黄公略烈士",
+      "onboard_time": 1727277440,
+      "rank": 48,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 107101,
       "num": 107101,
       "word": "京淘淘称被羊毛党薅走1.8亿",
@@ -10353,6 +10433,14 @@
       "onboard_time": 1727058198,
       "rank": 38,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 102715,
+      "num": 102715,
+      "word": "直击合肥肥东地震震中",
+      "onboard_time": 1727277561,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 102529,
@@ -10907,6 +10995,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 74865,
+      "num": 310738,
+      "word": "一女子声音被做成AI产品网上售卖",
+      "onboard_time": 1727276601,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 74784,
       "num": 202881,
       "word": "3岁幼儿园小朋友能有多自律",
@@ -11235,6 +11331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 59845,
+      "num": 404182,
+      "word": "陈少熙超争气",
+      "onboard_time": 1727273121,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 59468,
       "num": 59468,
       "word": "迪丽热巴动态版一则",
@@ -11353,6 +11457,14 @@
       "onboard_time": 1727069187,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 56702,
+      "num": 410406,
+      "word": "赵丽颖谈柔韧的力量",
+      "onboard_time": 1727270241,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 56335,
@@ -11843,14 +11955,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 43850,
-      "num": 404182,
-      "word": "陈少熙超争气",
-      "onboard_time": 1727273121,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 43635,
       "num": 104694,
       "word": "对6个省区开展实地法治督察",
@@ -12224,14 +12328,6 @@
       "word": "想和王一博一起漫步",
       "onboard_time": 1727233639,
       "rank": 12,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 35124,
-      "num": 410406,
-      "word": "赵丽颖谈柔韧的力量",
-      "onboard_time": 1727270241,
-      "rank": 23,
       "category": "艺人"
     },
     {

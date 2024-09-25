@@ -1,6 +1,6 @@
 {
   "startTime": 1727195285620,
-  "endTime": 1727275236927,
+  "endTime": 1727277885489,
   "band_list": [
     {
       "raw_hot": 4498953,
@@ -59,6 +59,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1764938,
+      "num": 663517,
+      "word": "于适新头像",
+      "onboard_time": 1727276360,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1655109,
       "num": 1655109,
       "word": "苹果商店软件涉黄",
@@ -88,6 +96,14 @@
       "word": "47岁女教师成为大体老师重回母校",
       "onboard_time": 1727254940,
       "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1380136,
+      "num": 338505,
+      "word": "女律师在工作群发与上司出轨细节",
+      "onboard_time": 1727274082,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -185,6 +201,14 @@
       "onboard_time": 1727266580,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1020834,
+      "num": 1163333,
+      "word": "吴谨言线下活动",
+      "onboard_time": 1727274319,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 1002249,
@@ -427,6 +451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 646468,
+      "num": 646468,
+      "word": "合肥3.8级地震与4.7级地震震中基本一致",
+      "onboard_time": 1727272403,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 622732,
       "num": 116905,
       "word": "8岁女童小区内坠井身亡母亲发声",
@@ -651,27 +683,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 454811,
-      "num": 255823,
-      "word": "女律师在工作群发与上司出轨细节",
-      "onboard_time": 1727274082,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 454510,
       "num": 454510,
       "word": "石家庄民宿摄像头",
       "onboard_time": 1727227698,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 439909,
-      "num": 439909,
-      "word": "合肥3.8级地震与4.7级地震震中基本一致",
-      "onboard_time": 1727272403,
-      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -744,14 +760,6 @@
       "word": "赵丽颖带火的簪花渔村现状",
       "onboard_time": 1727223799,
       "rank": 7,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 392279,
-      "num": 392279,
-      "word": "吴谨言线下活动",
-      "onboard_time": 1727274319,
-      "rank": 16,
       "category": "艺人"
     },
     {
@@ -1003,6 +1011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 301314,
+      "num": 273944,
+      "word": "12306候补一种很新的存钱方式",
+      "onboard_time": 1727274680,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 296782,
       "num": 296782,
       "word": "代号鸢",
@@ -1033,6 +1049,14 @@
       "onboard_time": 1727250259,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 287424,
+      "num": 287424,
+      "word": "张雨霏50蝶夺冠",
+      "onboard_time": 1727274982,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 284948,
@@ -1073,6 +1097,14 @@
       "onboard_time": 1727251341,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 278680,
+      "num": 278680,
+      "word": "学校回应学生仅退款被拒骂客服1小时",
+      "onboard_time": 1727275700,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 275203,
@@ -1299,6 +1331,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 226343,
+      "num": 226343,
+      "word": "高龄产妇困在备孕失败的那些年",
+      "onboard_time": 1727273299,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 222888,
       "num": 222888,
       "word": "马龙孙颖莎王楚钦赛前训练画面",
@@ -1361,6 +1401,14 @@
       "onboard_time": 1727233038,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 213838,
+      "num": 213838,
+      "word": "时代少年团听到rumors的反应",
+      "onboard_time": 1727277020,
+      "rank": 23,
+      "category": "音乐"
     },
     {
       "raw_hot": 211972,
@@ -1483,12 +1531,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 203971,
+      "num": 203971,
+      "word": "黄景瑜说取消顾一燃旅店那段是现挂",
+      "onboard_time": 1727276841,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 203086,
       "num": 203086,
       "word": "伊朗总统准备与大国合作结束核僵局",
       "onboard_time": 1727250740,
       "rank": 28,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 202641,
+      "num": 202641,
+      "word": "王嘉尔 你们人多我过来",
+      "onboard_time": 1727275161,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 202599,
@@ -1571,14 +1635,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 198954,
-      "num": 198954,
-      "word": "高龄产妇困在备孕失败的那些年",
-      "onboard_time": 1727273299,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 198523,
       "num": 304386,
       "word": "男子不戒酒肉痛风石疯长7厘米",
@@ -1609,14 +1665,6 @@
       "onboard_time": 1727272580,
       "rank": 31,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 196469,
-      "num": 196469,
-      "word": "12306候补一种很新的存钱方式",
-      "onboard_time": 1727274680,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 195734,
@@ -1979,6 +2027,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 173787,
+      "num": 351868,
+      "word": "我的宝藏家乡",
+      "onboard_time": 1727275879,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 173755,
       "num": 173755,
       "word": "民宿业主与安装摄像头3人不相识",
@@ -2089,6 +2145,14 @@
       "onboard_time": 1727245281,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 164606,
+      "num": 164606,
+      "word": "预制朋友圈火了",
+      "onboard_time": 1727277141,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 164484,
@@ -2243,14 +2307,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 150022,
-      "num": 150022,
-      "word": "张雨霏50蝶夺冠",
-      "onboard_time": 1727274982,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 149486,
       "num": 476105,
       "word": "女子充完话费接到警方通知涉嫌洗钱",
@@ -2289,6 +2345,14 @@
       "onboard_time": 1727235741,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 148553,
+      "num": 148553,
+      "word": "GAI五获年度说唱歌手",
+      "onboard_time": 1727275401,
+      "rank": 33,
+      "category": "音乐"
     },
     {
       "raw_hot": 148101,
@@ -2339,6 +2403,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 145035,
+      "num": 145035,
+      "word": "侯明昊吻戏",
+      "onboard_time": 1727275401,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 145003,
       "num": 145003,
       "word": "王者荣耀新赛季",
@@ -2379,14 +2451,6 @@
       "category": "社会新闻,国外时政"
     },
     {
-      "raw_hot": 143736,
-      "num": 143736,
-      "word": "王嘉尔 你们人多我过来",
-      "onboard_time": 1727275161,
-      "rank": 40,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 142657,
       "num": 142657,
       "word": "许凯火场追凶杀青",
@@ -2403,6 +2467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 141241,
+      "num": 141241,
+      "word": "咖啡价格卷到6.6元",
+      "onboard_time": 1727271801,
+      "rank": 42,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 140888,
       "num": 238565,
       "word": "男子刷手机掉海里漂了3小时",
@@ -2417,14 +2489,6 @@
       "onboard_time": 1727252419,
       "rank": 43,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 137998,
-      "num": 137998,
-      "word": "咖啡价格卷到6.6元",
-      "onboard_time": 1727271801,
-      "rank": 42,
-      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 137737,
@@ -2473,6 +2537,14 @@
       "onboard_time": 1727268200,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 135165,
+      "num": 135165,
+      "word": "她让一百个女孩走出大山",
+      "onboard_time": 1727277079,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 134341,
@@ -2795,6 +2867,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 107220,
+      "num": 107220,
+      "word": "送别黄公略烈士",
+      "onboard_time": 1727277440,
+      "rank": 48,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 102715,
+      "num": 102715,
+      "word": "直击合肥肥东地震震中",
+      "onboard_time": 1727277561,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 99928,
       "num": 99928,
       "word": "孙颖莎说非常期待在北京比赛",
@@ -2939,6 +3027,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 74865,
+      "num": 310738,
+      "word": "一女子声音被做成AI产品网上售卖",
+      "onboard_time": 1727276601,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 74804,
       "num": 74804,
       "word": "全红婵陈芋汐拜访老师",
@@ -3051,6 +3147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 59845,
+      "num": 404182,
+      "word": "陈少熙超争气",
+      "onboard_time": 1727273121,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 59384,
       "num": 66370,
       "word": "第一次见按表走的睡姿",
@@ -3073,6 +3177,14 @@
       "onboard_time": 1727236762,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 56702,
+      "num": 410406,
+      "word": "赵丽颖谈柔韧的力量",
+      "onboard_time": 1727270241,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 56335,
@@ -3227,14 +3339,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 43850,
-      "num": 404182,
-      "word": "陈少熙超争气",
-      "onboard_time": 1727273121,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 43525,
       "num": 383401,
       "word": "世界之外星际副本",
@@ -3376,14 +3480,6 @@
       "word": "想和王一博一起漫步",
       "onboard_time": 1727233639,
       "rank": 12,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 35124,
-      "num": 410406,
-      "word": "赵丽颖谈柔韧的力量",
-      "onboard_time": 1727270241,
-      "rank": 23,
       "category": "艺人"
     },
     {
