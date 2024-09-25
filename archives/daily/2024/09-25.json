@@ -1,6 +1,6 @@
 {
   "startTime": 1727195285620,
-  "endTime": 1727249731869,
+  "endTime": 1727253029478,
   "band_list": [
     {
       "raw_hot": 2135949,
@@ -32,6 +32,14 @@
       "word": "一网约车司机4年出200多次事故",
       "onboard_time": 1727237000,
       "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1362091,
+      "num": 385291,
+      "word": "将新娘绑电线杆上当事人道歉",
+      "onboard_time": 1727247738,
+      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -83,6 +91,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1002249,
+      "num": 1002249,
+      "word": "安乐死胶囊舱首次在瑞士使用",
+      "onboard_time": 1727247080,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 899017,
       "num": 739217,
       "word": "学校禁止学生带牛奶挨个查包",
@@ -120,6 +136,14 @@
       "word": "8女大学生被强奸嫌疑人被放再犯新案",
       "onboard_time": 1727226141,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 846179,
+      "num": 846179,
+      "word": "公司禁止员工带苹果手机进入",
+      "onboard_time": 1727251100,
+      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -227,6 +251,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 680040,
+      "num": 419772,
+      "word": "楠丁格尔先生",
+      "onboard_time": 1727236220,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 675813,
       "num": 675813,
       "word": "石家庄警方通报民宿摄像头事件",
@@ -251,6 +283,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 605139,
+      "num": 605139,
+      "word": "猎罪图鉴2",
+      "onboard_time": 1727243960,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 598142,
       "num": 598142,
       "word": "猎罪图鉴2首发预告",
@@ -264,14 +304,6 @@
       "word": "南京街头现大量百元钞票",
       "onboard_time": 1727200273,
       "rank": 16,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 580818,
-      "num": 580818,
-      "word": "安乐死胶囊舱首次在瑞士使用",
-      "onboard_time": 1727247080,
-      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -331,19 +363,19 @@
       "category": "财经"
     },
     {
+      "raw_hot": 489310,
+      "num": 374116,
+      "word": "楠丁格尔先生片名引争议",
+      "onboard_time": 1727251221,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 485278,
       "num": 485278,
       "word": "沈翊 疯批感",
       "onboard_time": 1727234478,
       "rank": 37,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 477446,
-      "num": 597015,
-      "word": "猎罪图鉴2",
-      "onboard_time": 1727243960,
-      "rank": 34,
       "category": "剧集"
     },
     {
@@ -401,14 +433,6 @@
       "onboard_time": 1727224460,
       "rank": 17,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 419772,
-      "num": 419772,
-      "word": "楠丁格尔先生",
-      "onboard_time": 1727236220,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 418621,
@@ -475,6 +499,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 371207,
+      "num": 371207,
+      "word": "一路繁花",
+      "onboard_time": 1727249360,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 365556,
       "num": 284974,
       "word": "摊主偷偷把58元说成38元",
@@ -489,14 +521,6 @@
       "onboard_time": 1727232137,
       "rank": 13,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 363513,
-      "num": 363513,
-      "word": "将新娘绑电线杆上当事人道歉",
-      "onboard_time": 1727247738,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 360805,
@@ -563,6 +587,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 333763,
+      "num": 244769,
+      "word": "路人捡金手镯后扔掉判赔1万6",
+      "onboard_time": 1727252241,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 321552,
       "num": 279803,
       "word": "大张伟辟谣是北京人就打过大张伟",
@@ -601,6 +633,14 @@
       "onboard_time": 1727220497,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 301977,
+      "num": 301977,
+      "word": "警方通报女子12楼外墙施工遭老太割绳",
+      "onboard_time": 1727249240,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 296782,
@@ -649,6 +689,14 @@
       "onboard_time": 1727233099,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 279578,
+      "num": 244538,
+      "word": "刘奕君与女儿合拍大片",
+      "onboard_time": 1727251341,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 275203,
@@ -731,6 +779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 253532,
+      "num": 253532,
+      "word": "周深说时代少年团有熟人",
+      "onboard_time": 1727252301,
+      "rank": 19,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 252418,
       "num": 259671,
       "word": "书卷一梦",
@@ -803,6 +859,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 220921,
+      "num": 220921,
+      "word": "影子团队向石家庄人民公开致歉",
+      "onboard_time": 1727250801,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 217605,
       "num": 217605,
       "word": "胡歌楠丁格尔先生海报",
@@ -873,6 +937,14 @@
       "onboard_time": 1727247019,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 205564,
+      "num": 205564,
+      "word": "梦回何以琛",
+      "onboard_time": 1727250259,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 204643,
@@ -987,14 +1059,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 195574,
-      "num": 195574,
-      "word": "一路繁花",
-      "onboard_time": 1727249360,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 195569,
       "num": 195569,
       "word": "无限暖暖实机演示",
@@ -1025,6 +1089,14 @@
       "onboard_time": 1727237781,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 193549,
+      "num": 193549,
+      "word": "石家庄民宿",
+      "onboard_time": 1727252660,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 192322,
@@ -1081,6 +1153,14 @@
       "onboard_time": 1727226379,
       "rank": 37,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 188909,
+      "num": 188909,
+      "word": "伊朗总统准备与大国合作结束核僵局",
+      "onboard_time": 1727250740,
+      "rank": 28,
+      "category": "国外时政"
     },
     {
       "raw_hot": 187621,
@@ -1147,12 +1227,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 180557,
+      "num": 180557,
+      "word": "南丁格尔是女护士",
+      "onboard_time": 1727251580,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 180110,
       "num": 180110,
       "word": "成都不入秋了直接入冬",
       "onboard_time": 1727185400,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 179977,
+      "num": 179977,
+      "word": "南丁格尔",
+      "onboard_time": 1727251699,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 179440,
@@ -1193,6 +1289,14 @@
       "onboard_time": 1727246118,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 174172,
+      "num": 174172,
+      "word": "年轻人的旅游阈值越来越高了",
+      "onboard_time": 1727251459,
+      "rank": 33,
+      "category": "旅游"
     },
     {
       "raw_hot": 173755,
@@ -1299,20 +1403,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 161410,
-      "num": 161410,
-      "word": "警方通报女子12楼外墙施工遭老太割绳",
-      "onboard_time": 1727249240,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 160873,
       "num": 160873,
       "word": "娜扎一场戏五种情绪",
       "onboard_time": 1727235501,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 160740,
+      "num": 160740,
+      "word": "贺峻霖将加盟一路繁花",
+      "onboard_time": 1727250801,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 159538,
@@ -1329,6 +1433,14 @@
       "onboard_time": 1727225179,
       "rank": 9,
       "category": "军事"
+    },
+    {
+      "raw_hot": 155649,
+      "num": 155649,
+      "word": "莫让偷拍黑产坑垮了民宿",
+      "onboard_time": 1727250919,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 154702,
@@ -1361,6 +1473,14 @@
       "onboard_time": 1727232558,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 149073,
+      "num": 149073,
+      "word": "国乒女队最新备战画面",
+      "onboard_time": 1727252360,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 149013,
@@ -1451,12 +1571,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 138387,
+      "num": 138387,
+      "word": "山西通报新娘被多名男子绑电线杆上",
+      "onboard_time": 1727251639,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 138017,
+      "num": 138017,
+      "word": "王琳凯蓝蝴蝶耳钉",
+      "onboard_time": 1727252419,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 137737,
       "num": 137737,
       "word": "陈梦OK十月刊封面",
       "onboard_time": 1727246601,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 137210,
+      "num": 137210,
+      "word": "吴宣仪周柯宇一起走红毯",
+      "onboard_time": 1727252660,
+      "rank": 44,
+      "category": "音乐"
     },
     {
       "raw_hot": 136935,
@@ -1472,6 +1616,14 @@
       "word": "漂白首支预告",
       "onboard_time": 1727231659,
       "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 133213,
+      "num": 133213,
+      "word": "狐妖王权篇战损感",
+      "onboard_time": 1727250740,
+      "rank": 46,
       "category": "剧集"
     },
     {
@@ -1539,6 +1691,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 121941,
+      "num": 121941,
+      "word": "跳绳是减肥效果最好的运动",
+      "onboard_time": 1727252840,
+      "rank": 47,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 120989,
       "num": 434368,
       "word": "女子乘车亮证执法公权力岂容滥用",
@@ -1563,11 +1723,27 @@
       "category": "财经"
     },
     {
+      "raw_hot": 118672,
+      "num": 118672,
+      "word": "RED首次红毯",
+      "onboard_time": 1727251159,
+      "rank": 48,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 118340,
       "num": 118340,
       "word": "博主打击酒店隐藏摄像头遭多人围堵",
       "onboard_time": 1727147238,
       "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 117921,
+      "num": 117921,
+      "word": "两部门为困难群众发放一次性生活补助",
+      "onboard_time": 1727250259,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -1907,6 +2083,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 49524,
+      "num": 389490,
+      "word": "本月三家大牌在京东独家发售",
+      "onboard_time": 1727248879,
+      "rank": 20,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 48382,
       "num": 64179,
       "word": "6人偷渡缅甸深陷境外诈骗窝点",
@@ -1937,6 +2121,14 @@
       "onboard_time": 1727248038,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 43525,
+      "num": 383401,
+      "word": "世界之外星际副本",
+      "onboard_time": 1727250620,
+      "rank": 12,
+      "category": "游戏"
     },
     {
       "raw_hot": 42939,
@@ -2019,20 +2211,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 36465,
+      "num": 907993,
+      "word": "我国成功发射一箭5星",
+      "onboard_time": 1727252060,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 36212,
       "num": 64055,
       "word": "第五人格",
       "onboard_time": 1727190381,
       "rank": 46,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 36154,
-      "num": 383279,
-      "word": "本月三家大牌在京东独家发售",
-      "onboard_time": 1727248879,
-      "rank": 20,
-      "category": "互联网"
     },
     {
       "raw_hot": 35866,
@@ -2057,6 +2249,14 @@
       "onboard_time": 1727233639,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 34216,
+      "num": 393444,
+      "word": "媒体谈医院造假骗保事件",
+      "onboard_time": 1727251940,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 34196,
@@ -2105,6 +2305,14 @@
       "onboard_time": 1727202014,
       "rank": 46,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 25166,
+      "num": 377631,
+      "word": "男子一房4卖骗140万获刑11年",
+      "onboard_time": 1727251940,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 22708,
@@ -2188,6 +2396,9 @@
     },
     {
       "word": "#嫦娥既是中国的又属于全人类#"
+    },
+    {
+      "word": "#让民族团结的佳话代代相传#"
     }
   ]
 }
