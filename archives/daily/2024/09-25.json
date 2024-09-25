@@ -1,6 +1,6 @@
 {
   "startTime": 1727195285620,
-  "endTime": 1727246702302,
+  "endTime": 1727248886045,
   "band_list": [
     {
       "raw_hot": 2135949,
@@ -75,6 +75,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1022875,
+      "num": 546993,
+      "word": "苹果商店软件涉黄",
+      "onboard_time": 1727247679,
+      "rank": 10,
+      "category": "数码"
+    },
+    {
       "raw_hot": 899017,
       "num": 739217,
       "word": "学校禁止学生带牛奶挨个查包",
@@ -145,6 +153,14 @@
       "onboard_time": 1727244380,
       "rank": 7,
       "category": "财经"
+    },
+    {
+      "raw_hot": 802929,
+      "num": 802929,
+      "word": "王楚钦中国冠封面",
+      "onboard_time": 1727246538,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 786800,
@@ -371,6 +387,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 418621,
+      "num": 418621,
+      "word": "北上广的鸡娃工厂批量倒闭",
+      "onboard_time": 1727244258,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 417851,
       "num": 199441,
       "word": "警方通报博主打击隐藏摄像头遭围堵",
@@ -411,12 +435,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 383084,
+      "num": 597015,
+      "word": "猎罪图鉴2",
+      "onboard_time": 1727243960,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 380057,
       "num": 372033,
       "word": "杜江找肖战要签名后续",
       "onboard_time": 1727223860,
       "rank": 13,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 372145,
+      "num": 372145,
+      "word": "赵丽颖辛芷蕾新片入围东京电影节",
+      "onboard_time": 1727246118,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 365556,
@@ -499,6 +539,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 329485,
+      "num": 329485,
+      "word": "安乐死胶囊舱首次在瑞士使用",
+      "onboard_time": 1727247080,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 321552,
       "num": 279803,
       "word": "大张伟辟谣是北京人就打过大张伟",
@@ -571,14 +619,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 279394,
-      "num": 279394,
-      "word": "北上广的鸡娃工厂批量倒闭",
-      "onboard_time": 1727244258,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 275203,
       "num": 287317,
       "word": "周雨彤半熟男女原来是本色出演",
@@ -595,12 +635,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 275056,
+      "num": 275056,
+      "word": "出去玩一次朋友圈发五年",
+      "onboard_time": 1727243239,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 269580,
       "num": 267947,
       "word": "酒店回应大闸蟹自助半小时只给1只",
       "onboard_time": 1727237179,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 267997,
+      "num": 487602,
+      "word": "微博音乐盛典红毯",
+      "onboard_time": 1727243660,
+      "rank": 28,
+      "category": "音乐"
     },
     {
       "raw_hot": 264773,
@@ -627,12 +683,20 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 258938,
-      "num": 258938,
+      "raw_hot": 260741,
+      "num": 260741,
       "word": "金晨 我是一个超敏感的人",
       "onboard_time": 1727245459,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 260250,
+      "num": 260250,
+      "word": "将新娘绑电线杆上当事人道歉",
+      "onboard_time": 1727247738,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 257941,
@@ -723,12 +787,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 227102,
-      "num": 227102,
-      "word": "微博音乐盛典红毯",
-      "onboard_time": 1727243660,
-      "rank": 28,
-      "category": "音乐"
+      "raw_hot": 222236,
+      "num": 405581,
+      "word": "A股成交额重破万亿",
+      "onboard_time": 1727246180,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 221383,
@@ -737,14 +801,6 @@
       "onboard_time": 1727238141,
       "rank": 36,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 218622,
-      "num": 218622,
-      "word": "赵丽颖辛芷蕾新片入围东京电影节",
-      "onboard_time": 1727246118,
-      "rank": 27,
-      "category": "电影"
     },
     {
       "raw_hot": 217605,
@@ -769,14 +825,6 @@
       "onboard_time": 1727197514,
       "rank": 10,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 216084,
-      "num": 216084,
-      "word": "出去玩一次朋友圈发五年",
-      "onboard_time": 1727243239,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 213880,
@@ -811,12 +859,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 207015,
+      "num": 207015,
+      "word": "电影小小的我",
+      "onboard_time": 1727248340,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 204643,
       "num": 204643,
       "word": "绝区零",
       "onboard_time": 1727233639,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 204008,
+      "num": 204008,
+      "word": "COSMO 王楚钦",
+      "onboard_time": 1727248581,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 202114,
@@ -841,6 +905,14 @@
       "onboard_time": 1727234240,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 201668,
+      "num": 201668,
+      "word": "星纪魅族AI生态发布会",
+      "onboard_time": 1727248700,
+      "rank": 34,
+      "category": "数码"
     },
     {
       "raw_hot": 201277,
@@ -881,6 +953,14 @@
       "onboard_time": 1727234299,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 197207,
+      "num": 197207,
+      "word": "王楚钦形容自己像一支矛",
+      "onboard_time": 1727248038,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 196814,
@@ -931,12 +1011,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 192305,
-      "num": 192305,
-      "word": "王楚钦中国冠封面",
-      "onboard_time": 1727246538,
-      "rank": 35,
-      "category": "体育"
+      "raw_hot": 192322,
+      "num": 192322,
+      "word": "东京电影节入围片单",
+      "onboard_time": 1727248219,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 192263,
@@ -952,6 +1032,14 @@
       "word": "花少团这期主线任务拯救宋茜",
       "onboard_time": 1727242220,
       "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 191244,
+      "num": 191244,
+      "word": "捡糖cp",
+      "onboard_time": 1727247019,
+      "rank": 38,
       "category": "综艺"
     },
     {
@@ -1107,14 +1195,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 171813,
-      "num": 171813,
-      "word": "猎罪图鉴2",
-      "onboard_time": 1727243960,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 170071,
       "num": 170071,
       "word": "邓为扛住了外媒镜头",
@@ -1145,6 +1225,14 @@
       "onboard_time": 1727234541,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 167713,
+      "num": 167713,
+      "word": "中国实射洲际导弹有利于周边局势稳定",
+      "onboard_time": 1727247139,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 165634,
@@ -1651,6 +1739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 69336,
+      "num": 454769,
+      "word": "小小米线店一月流水50万能信吗",
+      "onboard_time": 1727248038,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 68458,
       "num": 68458,
       "word": "寻甸电商园区书记回应小英翻车",
@@ -1731,14 +1827,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 53218,
-      "num": 405581,
-      "word": "A股成交额重破万亿",
-      "onboard_time": 1727246180,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 53189,
       "num": 66358,
       "word": "芦淞大桥事故现场堆满鲜花玩偶",
@@ -1787,12 +1875,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 45184,
+      "num": 401388,
+      "word": "任嘉伦名誉权胜诉通报",
+      "onboard_time": 1727248038,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 42939,
       "num": 275912,
       "word": "男子吐槽上万亩稻谷颗粒无收",
       "onboard_time": 1727244739,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 42850,
+      "num": 416514,
+      "word": "灵犀你就宠她吧",
+      "onboard_time": 1727244800,
+      "rank": 17,
+      "category": "游戏"
     },
     {
       "raw_hot": 42820,
@@ -1811,6 +1915,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 41059,
+      "num": 391439,
+      "word": "多城出台政策鼓励购买大面积住宅",
+      "onboard_time": 1727247919,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 40307,
       "num": 117522,
       "word": "京西小故宫你可太会了",
@@ -1820,7 +1932,7 @@
     },
     {
       "raw_hot": 40091,
-      "num": 206400,
+      "num": 376100,
       "word": "王欣瑜战胜日本选手",
       "onboard_time": 1727245699,
       "rank": 29,
@@ -1891,14 +2003,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 34708,
-      "num": 279488,
-      "word": "灵犀你就宠她吧",
-      "onboard_time": 1727244800,
-      "rank": 17,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 34196,
       "num": 398151,
       "word": "被拆迁后开发商原地违建套牢买房人",
@@ -1913,6 +2017,22 @@
       "onboard_time": 1727198954,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 31023,
+      "num": 438623,
+      "word": "全网都在找这辆红色SUV",
+      "onboard_time": 1727247619,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 27522,
+      "num": 585299,
+      "word": "案值5000多万香烟走私案侦破现场",
+      "onboard_time": 1727248038,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 27396,
@@ -1939,6 +2059,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 22368,
+      "num": 1097832,
+      "word": "被丰收的颜色惊艳到了",
+      "onboard_time": 1727241621,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 20673,
       "num": 22692,
       "word": "美国PVH涉嫌歧视涉疆产品被调查",
@@ -1953,14 +2081,6 @@
       "onboard_time": 1727214792,
       "rank": 49,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 17674,
-      "num": 1097832,
-      "word": "被丰收的颜色惊艳到了",
-      "onboard_time": 1727241621,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 14727,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/09/01 00:25:38 ~ 2024/09/25 14:45:02
+本榜单时间：2024/09/01 00:25:38 ~ 2024/09/25 15:21:26
 </p>
 </blockquote>
 <p>
@@ -4383,6 +4383,12 @@ iPhone16ProMax秒没（热度：1053938）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%95%86%E5%BA%97%E8%BD%AF%E4%BB%B6%E6%B6%89%E9%BB%84%23" target="weibo">
+苹果商店软件涉黄（热度：1022875）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%9B%9E%E5%88%B0%E5%AE%B6%E4%B8%80%E7%9C%8B%E6%89%8B%E6%9C%BA%E5%A4%A9%E5%A1%8C%E4%BA%86%23" target="weibo">
 迪丽热巴回到家一看手机天塌了（热度：1022491）
 </a>
@@ -6005,12 +6011,6 @@ WBG战胜JDG（热度：837121）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%BA%9A%E5%B8%8C%E5%BD%B1%E5%90%8E%E6%89%8B%E6%9C%BA%E5%A3%B3%23" target="weibo">
 李庚希影后手机壳（热度：830335）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%23" target="weibo">
-台风（热度：829470）
 </a>
 </li>
 
