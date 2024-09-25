@@ -1,6 +1,6 @@
 {
   "startTime": 1727281816744,
-  "endTime": 1727300187928,
+  "endTime": 1727302835764,
   "band_list": [
     {
       "raw_hot": 1228111,
@@ -72,6 +72,14 @@
       "word": "合肥3.8级地震与4.7级地震震中基本一致",
       "onboard_time": 1727272403,
       "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 290949,
+      "num": 386829,
+      "word": "人社局回应公司禁带苹果产品",
+      "onboard_time": 1727292611,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -195,15 +203,7 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 128308,
-      "num": 180139,
-      "word": "人社局回应公司禁带苹果产品",
-      "onboard_time": 1727292611,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 110181,
+      "raw_hot": 112271,
       "num": 68439,
       "word": "中国人的尿酸为啥越来越高了",
       "onboard_time": 1727284994,
@@ -259,6 +259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 95090,
+      "num": 95090,
+      "word": "恒温壶",
+      "onboard_time": 1727280199,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 94372,
       "num": 87961,
       "word": "爷爷网购50只鸡仔无一存活",
@@ -304,14 +312,6 @@
       "word": "广州地铁警察佩戴女性服务包",
       "onboard_time": 1727270659,
       "rank": 34,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 85383,
-      "num": 85383,
-      "word": "恒温壶",
-      "onboard_time": 1727280199,
-      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -491,6 +491,30 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 35707,
+      "num": 35707,
+      "word": "天降烟头到熟睡孩子床上床单被烧焦",
+      "onboard_time": 1727301131,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 27676,
+      "num": 35170,
+      "word": "王一博喊你来河南",
+      "onboard_time": 1727301432,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 26979,
+      "num": 28494,
+      "word": "原生家庭对人的性格影响太大了",
+      "onboard_time": 1727291112,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 25680,
       "num": 32035,
       "word": "749局",
@@ -499,20 +523,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 23848,
-      "num": 23226,
+      "raw_hot": 24151,
+      "num": 28494,
       "word": "全能型强冷空气来袭",
       "onboard_time": 1727290392,
       "rank": 41,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 20033,
-      "num": 21476,
-      "word": "原生家庭对人的性格影响太大了",
-      "onboard_time": 1727291112,
-      "rank": 46,
-      "category": "情感"
+      "raw_hot": 20497,
+      "num": 28493,
+      "word": "檀健次 沈翊越疯越迷人",
+      "onboard_time": 1727302332,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 18234,
@@ -552,6 +576,14 @@
       "word": "非法使用窃听窃照专用器材或领刑2年",
       "onboard_time": 1727294051,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 12051,
+      "num": 84747,
+      "word": "治理欠薪欠保违法裁员求职陷阱乱象",
+      "onboard_time": 1727301492,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
