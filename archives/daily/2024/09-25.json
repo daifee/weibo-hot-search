@@ -1,7 +1,15 @@
 {
   "startTime": 1727195285620,
-  "endTime": 1727264138632,
+  "endTime": 1727268202699,
   "band_list": [
+    {
+      "raw_hot": 4498953,
+      "num": 4498953,
+      "word": "合肥肥东3.8级地震",
+      "onboard_time": 1727264422,
+      "rank": 0,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 2791932,
       "num": 2791932,
@@ -17,6 +25,14 @@
       "onboard_time": 1727251100,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2136768,
+      "num": 2136768,
+      "word": "救救王心凌",
+      "onboard_time": 1727265680,
+      "rank": 1,
+      "category": "音乐"
     },
     {
       "raw_hot": 2135949,
@@ -211,6 +227,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 820546,
+      "num": 820546,
+      "word": "合肥肥东今年已经发生5次地震",
+      "onboard_time": 1727266580,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 812186,
       "num": 917606,
       "word": "网红小英不能开着路虎卖惨",
@@ -339,12 +363,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 677195,
+      "num": 677195,
+      "word": "赵丽颖直播",
+      "onboard_time": 1727263760,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 675813,
       "num": 675813,
       "word": "石家庄警方通报民宿摄像头事件",
       "onboard_time": 1727197514,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 640004,
+      "num": 559417,
+      "word": "韩素希回应柳俊烈李惠利争议",
+      "onboard_time": 1727266521,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 622732,
@@ -579,6 +619,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 405746,
+      "num": 405746,
+      "word": "一招测出房间里是否有偷拍摄像头",
+      "onboard_time": 1727260041,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 404150,
       "num": 404150,
       "word": "人民币重回6字头",
@@ -643,6 +691,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 368564,
+      "num": 368564,
+      "word": "赵丽颖说事业心又强了",
+      "onboard_time": 1727267659,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 367583,
       "num": 367583,
       "word": "周深说时代少年团有熟人",
@@ -665,6 +721,14 @@
       "onboard_time": 1727232137,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 361575,
+      "num": 361575,
+      "word": "南京震感",
+      "onboard_time": 1727265861,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 360805,
@@ -713,6 +777,14 @@
       "onboard_time": 1727241442,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 346075,
+      "num": 346075,
+      "word": "河南一学生欲跳楼老师报警被阻拦",
+      "onboard_time": 1727265022,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 344689,
@@ -963,6 +1035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 254973,
+      "num": 254973,
+      "word": "唐朝诡事录3将开机",
+      "onboard_time": 1727265320,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 252418,
       "num": 259671,
       "word": "书卷一梦",
@@ -1019,14 +1099,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 238924,
-      "num": 393945,
-      "word": "一招测出房间里是否有偷拍摄像头",
-      "onboard_time": 1727260041,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 237612,
       "num": 237612,
       "word": "时代少年团抽到了王嘉尔",
@@ -1057,6 +1129,14 @@
       "onboard_time": 1727236280,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 229324,
+      "num": 229324,
+      "word": "你好星期六",
+      "onboard_time": 1727263280,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 227541,
@@ -1107,14 +1187,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 216345,
-      "num": 216345,
-      "word": "赵丽颖直播",
-      "onboard_time": 1727263760,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 216122,
       "num": 569712,
       "word": "炉石传说",
@@ -1131,6 +1203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 211972,
+      "num": 211972,
+      "word": "种地吧",
+      "onboard_time": 1727266880,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 209544,
       "num": 209544,
       "word": "国乒女队大满贯首次训练",
@@ -1139,12 +1219,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 207651,
-      "num": 207651,
-      "word": "你好星期六",
-      "onboard_time": 1727263280,
-      "rank": 26,
-      "category": "综艺"
+      "raw_hot": 209524,
+      "num": 209524,
+      "word": "豆瓣崩了",
+      "onboard_time": 1727268140,
+      "rank": 23,
+      "category": "互联网"
     },
     {
       "raw_hot": 207613,
@@ -1233,6 +1313,14 @@
       "onboard_time": 1727250740,
       "rank": 28,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 202227,
+      "num": 202227,
+      "word": "雅太帅了",
+      "onboard_time": 1727267420,
+      "rank": 24,
+      "category": "音乐"
     },
     {
       "raw_hot": 202114,
@@ -1371,6 +1459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 192431,
+      "num": 192431,
+      "word": "谁教刘忻这么穿的",
+      "onboard_time": 1727266161,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 192322,
       "num": 192322,
       "word": "东京电影节入围片单",
@@ -1507,6 +1603,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 181684,
+      "num": 181684,
+      "word": "张桂梅 富养孤儿",
+      "onboard_time": 1727264543,
+      "rank": 28,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 181453,
+      "num": 181453,
+      "word": "就业优先战略促进高质量充分就业",
+      "onboard_time": 1727265803,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 180667,
       "num": 180667,
       "word": "林志颖王心凌比心三连拍",
@@ -1545,6 +1657,14 @@
       "onboard_time": 1727181499,
       "rank": 43,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 178372,
+      "num": 178372,
+      "word": "炉石传说 开门",
+      "onboard_time": 1727264903,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 178299,
@@ -1659,6 +1779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 165835,
+      "num": 165835,
+      "word": "宋亚轩体制内男友即视感",
+      "onboard_time": 1727267900,
+      "rank": 33,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 165663,
       "num": 165663,
       "word": "原来晚上10点就睡有这么多好处",
@@ -1731,6 +1859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 160982,
+      "num": 193000,
+      "word": "禁止非法使用窃听窃照专用器材",
+      "onboard_time": 1727252660,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 160873,
       "num": 160873,
       "word": "娜扎一场戏五种情绪",
@@ -1745,6 +1881,14 @@
       "onboard_time": 1727250801,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 159863,
+      "num": 159863,
+      "word": "樊振东怎么还没有请全红婵吃叉烧",
+      "onboard_time": 1727265142,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 159862,
@@ -2083,6 +2227,30 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 127884,
+      "num": 127884,
+      "word": "强冷空气发力了局地降温16摄氏度",
+      "onboard_time": 1727268020,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 126806,
+      "num": 126806,
+      "word": "对就业质量不高的专业红黄牌提示",
+      "onboard_time": 1727267241,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 126577,
+      "num": 126577,
+      "word": "男子花800万买的房子竟是凶宅",
+      "onboard_time": 1727266939,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 125893,
       "num": 476402,
       "word": "A股吹响冲锋号",
@@ -2113,6 +2281,14 @@
       "onboard_time": 1727230939,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 125033,
+      "num": 125033,
+      "word": "如鸢预下载登顶免费榜",
+      "onboard_time": 1727264842,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 124288,
@@ -2187,6 +2363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 118076,
+      "num": 118076,
+      "word": "刘耀文打招呼用双手",
+      "onboard_time": 1727266041,
+      "rank": 45,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 117921,
       "num": 117921,
       "word": "两部门为困难群众发放一次性生活补助",
@@ -2211,6 +2395,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 114311,
+      "num": 114311,
+      "word": "沈星回 春风若有怜花意",
+      "onboard_time": 1727268020,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 113661,
       "num": 113661,
       "word": "周深一口气介绍新专辑",
@@ -2224,6 +2416,14 @@
       "word": "刮刮乐销量连续四个月下滑",
       "onboard_time": 1727237240,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 112682,
+      "num": 112682,
+      "word": "一张画穿越辽宁春夏秋冬",
+      "onboard_time": 1727264301,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -2305,6 +2505,14 @@
       "onboard_time": 1727173339,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 90112,
+      "num": 236892,
+      "word": "小鱼 大佬培养我考北大",
+      "onboard_time": 1727267781,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 89856,
@@ -2619,6 +2827,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 45909,
+      "num": 230696,
+      "word": "东莞一店铺三人殴打七旬修鞋老人",
+      "onboard_time": 1727266459,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 45863,
+      "num": 314717,
+      "word": "花800万在上海买到凶宅能退吗",
+      "onboard_time": 1727267300,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 45630,
       "num": 45630,
       "word": "平遥国际电影展",
@@ -2873,6 +3097,14 @@
       "onboard_time": 1727214792,
       "rank": 49,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 15952,
+      "num": 1179401,
+      "word": "中国天眼从粗头铅笔升级到数码相机",
+      "onboard_time": 1727251940,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 15390,
