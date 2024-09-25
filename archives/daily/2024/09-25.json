@@ -1,6 +1,6 @@
 {
   "startTime": 1727195285620,
-  "endTime": 1727238426244,
+  "endTime": 1727239290076,
   "band_list": [
     {
       "raw_hot": 2135949,
@@ -83,6 +83,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 786915,
+      "num": 786915,
+      "word": "一网约车司机4年出200多次事故",
+      "onboard_time": 1727237000,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 786800,
       "num": 439654,
       "word": "迪丽热巴成功追星娜塔莉波特曼",
@@ -113,6 +121,14 @@
       "onboard_time": 1727228839,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 714165,
+      "num": 714165,
+      "word": "6块6的咖啡打不赢价格战",
+      "onboard_time": 1727234119,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 709155,
@@ -147,6 +163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 598142,
+      "num": 598142,
+      "word": "猎罪图鉴2首发预告",
+      "onboard_time": 1727235559,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 590213,
       "num": 590213,
       "word": "南京街头现大量百元钞票",
@@ -171,14 +195,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 546096,
-      "num": 546096,
-      "word": "猎罪图鉴2首发预告",
-      "onboard_time": 1727235559,
-      "rank": 37,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 545366,
       "num": 545366,
       "word": "杨幂欧豪生万物海报",
@@ -195,12 +211,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 514504,
+      "num": 471416,
+      "word": "赵丽颖你知道人是会遭报应的吗",
+      "onboard_time": 1727238261,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 512968,
       "num": 295479,
       "word": "考上公费师范生后我选择违约",
       "onboard_time": 1727224340,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 503713,
+      "num": 503713,
+      "word": "王源朋友圈三天可见",
+      "onboard_time": 1727237841,
+      "rank": 17,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 495938,
@@ -259,12 +291,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 429395,
-      "num": 451487,
-      "word": "6块6的咖啡打不赢价格战",
-      "onboard_time": 1727234119,
-      "rank": 14,
-      "category": "社会新闻"
+      "raw_hot": 431291,
+      "num": 431291,
+      "word": "周扬青 果然男人最懂男人",
+      "onboard_time": 1727238320,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 422745,
@@ -297,14 +329,6 @@
       "onboard_time": 1727230638,
       "rank": 27,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 402618,
-      "num": 402618,
-      "word": "一网约车司机4年出200多次事故",
-      "onboard_time": 1727237000,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 399367,
@@ -403,14 +427,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 311243,
-      "num": 311243,
-      "word": "王源朋友圈三天可见",
-      "onboard_time": 1727237841,
-      "rank": 17,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 305873,
       "num": 256835,
       "word": "你是我见过班味最重的",
@@ -427,8 +443,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 293282,
-      "num": 293282,
+      "raw_hot": 296782,
+      "num": 296782,
       "word": "代号鸢",
       "onboard_time": 1727237540,
       "rank": 18,
@@ -436,7 +452,7 @@
     },
     {
       "raw_hot": 290433,
-      "num": 280783,
+      "num": 290294,
       "word": "无限暖暖",
       "onboard_time": 1727237000,
       "rank": 27,
@@ -499,6 +515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 253547,
+      "num": 253547,
+      "word": "酒店回应大闸蟹自助半小时只给1只",
+      "onboard_time": 1727237179,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 252119,
       "num": 218972,
       "word": "全红婵被陈若琳问体重回答没有秤",
@@ -515,6 +539,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 246060,
+      "num": 246060,
+      "word": "如鸢",
+      "onboard_time": 1727230879,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 245703,
       "num": 245703,
       "word": "黎巴嫩",
@@ -523,28 +555,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 244804,
-      "num": 244804,
-      "word": "如鸢",
-      "onboard_time": 1727230879,
-      "rank": 39,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 242794,
       "num": 242794,
       "word": "楚乔传的含金量还在上升",
       "onboard_time": 1727224340,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 223441,
-      "num": 284489,
-      "word": "赵丽颖你知道人是会遭报应的吗",
-      "onboard_time": 1727238261,
-      "rank": 24,
-      "category": "电影"
     },
     {
       "raw_hot": 221383,
@@ -595,16 +611,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 211687,
-      "num": 211687,
-      "word": "酒店回应大闸蟹自助半小时只给1只",
-      "onboard_time": 1727237179,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 208689,
-      "num": 208689,
+      "raw_hot": 209544,
+      "num": 209544,
       "word": "国乒女队大满贯首次训练",
       "onboard_time": 1727237540,
       "rank": 42,
@@ -633,14 +641,6 @@
       "onboard_time": 1727233639,
       "rank": 33,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 203393,
-      "num": 203393,
-      "word": "周扬青 果然男人最懂男人",
-      "onboard_time": 1727238320,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 202045,
@@ -683,12 +683,44 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 198523,
+      "num": 304386,
+      "word": "男子不戒酒肉痛风石疯长7厘米",
+      "onboard_time": 1727234299,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 197772,
+      "num": 197772,
+      "word": "12306回应部分车票一开售就是候补",
+      "onboard_time": 1727238981,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 195734,
+      "num": 195734,
+      "word": "王骁田曦薇新剧演师兄妹",
+      "onboard_time": 1727238380,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 195569,
       "num": 195569,
       "word": "无限暖暖实机演示",
       "onboard_time": 1727238020,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 195073,
+      "num": 195073,
+      "word": "花儿与少年6",
+      "onboard_time": 1727238562,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 193795,
@@ -723,14 +755,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 189368,
-      "num": 189368,
-      "word": "王骁田曦薇新剧演师兄妹",
-      "onboard_time": 1727238380,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 188910,
       "num": 188910,
       "word": "最简单的减肥方法",
@@ -745,14 +769,6 @@
       "onboard_time": 1727228599,
       "rank": 43,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 187139,
-      "num": 304386,
-      "word": "男子不戒酒肉痛风石疯长7厘米",
-      "onboard_time": 1727234299,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 186653,
@@ -811,6 +827,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 175901,
+      "num": 175901,
+      "word": "80后中产父母开始抛弃国际学校了",
+      "onboard_time": 1727238861,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 175247,
       "num": 568030,
       "word": "隐藏摄像头为何无孔不入",
@@ -856,6 +880,14 @@
       "word": "李一桐新剧不是三角恋是三角杀",
       "onboard_time": 1727234541,
       "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 167540,
+      "num": 341215,
+      "word": "半熟男女 女主人设",
+      "onboard_time": 1727238920,
+      "rank": 16,
       "category": "剧集"
     },
     {
@@ -913,6 +945,14 @@
       "onboard_time": 1727229801,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 159178,
+      "num": 159178,
+      "word": "楠丁格尔先生",
+      "onboard_time": 1727236220,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 155836,
@@ -1019,6 +1059,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 133459,
+      "num": 249469,
+      "word": "6块6的咖啡攻不下县城年轻人",
+      "onboard_time": 1727239221,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 133401,
       "num": 133401,
       "word": "漂白首支预告",
@@ -1067,6 +1115,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 120989,
+      "num": 434368,
+      "word": "女子乘车亮证执法公权力岂容滥用",
+      "onboard_time": 1727237421,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 120672,
       "num": 120672,
       "word": "邓为时装周戴口罩",
@@ -1105,6 +1161,14 @@
       "onboard_time": 1727187021,
       "rank": 28,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 112996,
+      "num": 429435,
+      "word": "刮刮乐销量连续四个月下滑",
+      "onboard_time": 1727237240,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 112534,
@@ -1193,14 +1257,6 @@
       "onboard_time": 1727186481,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 87640,
-      "num": 434368,
-      "word": "女子乘车亮证执法公权力岂容滥用",
-      "onboard_time": 1727237421,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 85094,
@@ -1297,14 +1353,6 @@
       "onboard_time": 1727175859,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 69952,
-      "num": 429435,
-      "word": "刮刮乐销量连续四个月下滑",
-      "onboard_time": 1727237240,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 68458,
@@ -1563,7 +1611,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 7821,
+      "raw_hot": 8067,
       "num": 863744,
       "word": "老铁山单日记录迁徙猛禽过万只",
       "onboard_time": 1727148199,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1727239290076,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1469173,
+        "num": 1469173,
+        "word": "我军向太平洋发射洲际弹道导弹",
+        "onboard_time": 1727231179,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 969452,
+        "num": 969452,
+        "word": "赵丽颖尹昉新剧吻戏",
+        "onboard_time": 1727233280,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 8067,
+        "num": 858116,
+        "word": "老铁山单日记录迁徙猛禽过万只",
+        "onboard_time": 1727148199,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 823187,
+        "num": 823187,
+        "word": "蔡磊夫妇愿终身投入罕见病研究",
+        "onboard_time": 1727233820,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 786915,
+        "num": 786915,
+        "word": "一网约车司机4年出200多次事故",
+        "onboard_time": 1727237000,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 714165,
+        "num": 714165,
+        "word": "6块6的咖啡打不赢价格战",
+        "onboard_time": 1727234119,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 656858,
+        "num": 656858,
+        "word": "爱奇艺片单",
+        "onboard_time": 1727228839,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 598142,
+        "num": 598142,
+        "word": "猎罪图鉴2首发预告",
+        "onboard_time": 1727235559,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 595494,
+        "num": 595494,
+        "word": "俄拟立法禁止宣传不生孩子",
+        "onboard_time": 1727231778,
+        "rank": 8,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 503713,
+        "num": 503713,
+        "word": "王源朋友圈三天可见",
+        "onboard_time": 1727237841,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 514504,
+        "num": 471416,
+        "word": "赵丽颖你知道人是会遭报应的吗",
+        "onboard_time": 1727238261,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 431291,
+        "num": 431291,
+        "word": "周扬青 果然男人最懂男人",
+        "onboard_time": 1727238320,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 399823,
+        "num": 399823,
+        "word": "王楚钦中国大满贯倒计时海报",
+        "onboard_time": 1727229919,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120989,
+        "num": 379278,
+        "word": "女子乘车亮证执法公权力岂容滥用",
+        "onboard_time": 1727237421,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 375134,
+        "num": 375134,
+        "word": "曝光民宿摄像头事件博主再发声",
+        "onboard_time": 1727227698,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 361107,
+        "num": 361107,
+        "word": "人民币重回6字头",
+        "onboard_time": 1727230638,
+        "rank": 15,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 167540,
+        "num": 341215,
+        "word": "半熟男女 女主人设",
+        "onboard_time": 1727238920,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 338668,
+        "num": 338668,
+        "word": "杨紫韩东君家业概念海报",
+        "onboard_time": 1727231837,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 296782,
+        "num": 296782,
+        "word": "代号鸢",
+        "onboard_time": 1727237540,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 290294,
+        "num": 290294,
+        "word": "无限暖暖",
+        "onboard_time": 1727237000,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 651784,
+        "num": 289702,
+        "word": "迪丽热巴成功追星娜塔莉波特曼",
+        "onboard_time": 1727224280,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 453368,
+        "num": 287965,
+        "word": "高铁站一声舅舅换来一群兵舅舅回头",
+        "onboard_time": 1727232258,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 437793,
+        "num": 286842,
+        "word": "韩安冉说小英没有塌房",
+        "onboard_time": 1727223680,
+        "rank": 22,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 417779,
+        "num": 284272,
+        "word": "学校禁止学生带牛奶挨个查包",
+        "onboard_time": 1727207290,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 283827,
+        "num": 283827,
+        "word": "炉石传说将补偿玩家2023年全部卡牌",
+        "onboard_time": 1727227818,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 289972,
+        "num": 281521,
+        "word": "摊主偷偷把58元说成38元",
+        "onboard_time": 1727233159,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 269176,
+        "num": 269176,
+        "word": "白鹿让虐文大女主有脸了",
+        "onboard_time": 1727232380,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 253547,
+        "num": 253547,
+        "word": "酒店回应大闸蟹自助半小时只给1只",
+        "onboard_time": 1727237179,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250684,
+        "num": 250684,
+        "word": "好怕唐嫣突然说一句China",
+        "onboard_time": 1727191161,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 133459,
+        "num": 249469,
+        "word": "6块6的咖啡攻不下县城年轻人",
+        "onboard_time": 1727239221,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112996,
+        "num": 249002,
+        "word": "刮刮乐销量连续四个月下滑",
+        "onboard_time": 1727237240,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248964,
+        "num": 248964,
+        "word": "黑神话遭遇第八十二难",
+        "onboard_time": 1727237179,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 30007,
+        "num": 246324,
+        "word": "想和王一博一起漫步",
+        "onboard_time": 1727233639,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 246060,
+        "num": 246060,
+        "word": "如鸢",
+        "onboard_time": 1727230879,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 226623,
+        "num": 226623,
+        "word": "中国维和部队排除未爆火箭弹",
+        "onboard_time": 1727226559,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 209630,
+        "num": 209630,
+        "word": "胡歌楠丁格尔先生海报",
+        "onboard_time": 1727236819,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 209544,
+        "num": 209544,
+        "word": "国乒女队大满贯首次训练",
+        "onboard_time": 1727237540,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 207938,
+        "num": 207938,
+        "word": "狐妖小红娘王权篇剑指王权海报",
+        "onboard_time": 1727236280,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 199733,
+        "num": 199733,
+        "word": "狐妖小红娘竹业篇竹影剑心海报",
+        "onboard_time": 1727233820,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198523,
+        "num": 198523,
+        "word": "男子不戒酒肉痛风石疯长7厘米",
+        "onboard_time": 1727234299,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197772,
+        "num": 197772,
+        "word": "12306回应部分车票一开售就是候补",
+        "onboard_time": 1727238981,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195734,
+        "num": 195734,
+        "word": "王骁田曦薇新剧演师兄妹",
+        "onboard_time": 1727238380,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195073,
+        "num": 195073,
+        "word": "花儿与少年6",
+        "onboard_time": 1727238562,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193996,
+        "num": 193996,
+        "word": "父亲车祸身亡后继母和儿子互相起诉",
+        "onboard_time": 1727229078,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189859,
+        "num": 189859,
+        "word": "杨幂欧豪生万物海报",
+        "onboard_time": 1727231717,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187278,
+        "num": 187278,
+        "word": "大逃脱回归",
+        "onboard_time": 1727233099,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175901,
+        "num": 175901,
+        "word": "80后中产父母开始抛弃国际学校了",
+        "onboard_time": 1727238861,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168924,
+        "num": 168924,
+        "word": "绝区零1.2",
+        "onboard_time": 1727238141,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 159178,
+        "num": 159178,
+        "word": "楠丁格尔先生",
+        "onboard_time": 1727236220,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155376,
+        "num": 155376,
+        "word": "炉石传说",
+        "onboard_time": 1727197514,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#我国航天事业实现历史性高质量跨越式发展#"
+    }
+  }
+}
