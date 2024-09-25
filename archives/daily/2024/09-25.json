@@ -1,6 +1,6 @@
 {
   "startTime": 1727195285620,
-  "endTime": 1727271696519,
+  "endTime": 1727274124893,
   "band_list": [
     {
       "raw_hot": 4498953,
@@ -33,6 +33,14 @@
       "onboard_time": 1727265680,
       "rank": 1,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 2434222,
+      "num": 389711,
+      "word": "爱奇艺回应胡歌新剧引争议",
+      "onboard_time": 1727271080,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 2135949,
@@ -96,6 +104,14 @@
       "word": "25岁遇害女村干部系家中独女",
       "onboard_time": 1727260219,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1280691,
+      "num": 379908,
+      "word": "73岁母亲现场怒打54岁惯犯儿子",
+      "onboard_time": 1727272403,
+      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -193,6 +209,14 @@
       "onboard_time": 1727207290,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 894133,
+      "num": 447952,
+      "word": "赵今麦张凌赫自然到不像演的",
+      "onboard_time": 1727269402,
+      "rank": 13,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 881499,
@@ -323,6 +347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 709324,
+      "num": 709324,
+      "word": "本轮冷空气或将终结南方高温",
+      "onboard_time": 1727268200,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 709155,
       "num": 546815,
       "word": "好怕唐嫣突然说一句China",
@@ -337,14 +369,6 @@
       "onboard_time": 1727252660,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 704932,
-      "num": 447952,
-      "word": "赵今麦张凌赫自然到不像演的",
-      "onboard_time": 1727269402,
-      "rank": 13,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 688880,
@@ -547,14 +571,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 483374,
-      "num": 388222,
-      "word": "爱奇艺回应胡歌新剧引争议",
-      "onboard_time": 1727271080,
-      "rank": 12,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 480378,
       "num": 490301,
       "word": "赵丽颖说事业心又强了",
@@ -601,6 +617,14 @@
       "onboard_time": 1727239281,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 463005,
+      "num": 463005,
+      "word": "苏醒 写了一百多首没有一首是火的",
+      "onboard_time": 1727270120,
+      "rank": 17,
+      "category": "音乐"
     },
     {
       "raw_hot": 462776,
@@ -659,6 +683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 411145,
+      "num": 411145,
+      "word": "合肥3.8级地震与4.7级地震震中基本一致",
+      "onboard_time": 1727272403,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 410453,
       "num": 410453,
       "word": "炉石传说将补偿玩家2023年全部卡牌",
@@ -705,14 +737,6 @@
       "onboard_time": 1727252660,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 386249,
-      "num": 386249,
-      "word": "苏醒 写了一百多首没有一首是火的",
-      "onboard_time": 1727270120,
-      "rank": 17,
-      "category": "音乐"
     },
     {
       "raw_hot": 383904,
@@ -843,6 +867,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 347466,
+      "num": 489847,
+      "word": "阿尔山景区多家酒店默认早9点退房",
+      "onboard_time": 1727270961,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 344689,
       "num": 344689,
       "word": "电视剧家业",
@@ -913,6 +945,14 @@
       "onboard_time": 1727254761,
       "rank": 18,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 307565,
+      "num": 356940,
+      "word": "爱奇艺副总裁回应楠丁格尔片名",
+      "onboard_time": 1727273661,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 306360,
@@ -1091,6 +1131,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 258853,
+      "num": 351827,
+      "word": "Echo二姐的故事",
+      "onboard_time": 1727271320,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 257941,
       "num": 232305,
       "word": "幼童被狗撕咬拖行狗主人找到了",
@@ -1131,6 +1179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 251138,
+      "num": 251138,
+      "word": "倪妮拉链吊带黑裙",
+      "onboard_time": 1727271441,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 248469,
       "num": 248469,
       "word": "刘亦菲新封面老婆变老公",
@@ -1155,20 +1211,28 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 244046,
-      "num": 244046,
-      "word": "本轮冷空气或将终结南方高温",
-      "onboard_time": 1727268200,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 242794,
       "num": 242794,
       "word": "楚乔传的含金量还在上升",
       "onboard_time": 1727224340,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 239814,
+      "num": 239814,
+      "word": "广州地铁警察佩戴女性服务包",
+      "onboard_time": 1727270659,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 238046,
+      "num": 238046,
+      "word": "女律师在工作群发与上司出轨细节",
+      "onboard_time": 1727274082,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 237612,
@@ -1201,6 +1265,14 @@
       "onboard_time": 1727236280,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 231724,
+      "num": 231724,
+      "word": "孙佳俊再次刷新亚洲纪录",
+      "onboard_time": 1727270900,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 229324,
@@ -1499,6 +1571,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 196498,
+      "num": 196498,
+      "word": "时代少年团梦直拍",
+      "onboard_time": 1727272580,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 195734,
       "num": 195734,
       "word": "王骁田曦薇新剧演师兄妹",
@@ -1523,12 +1603,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 194736,
+      "num": 194736,
+      "word": "强冷空气发力了局地降温16摄氏度",
+      "onboard_time": 1727268020,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 194038,
       "num": 221990,
       "word": "就业优先战略促进高质量充分就业",
       "onboard_time": 1727265803,
       "rank": 29,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 193995,
+      "num": 193995,
+      "word": "749局",
+      "onboard_time": 1727271021,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 193885,
@@ -1545,6 +1641,14 @@
       "onboard_time": 1727237781,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 193735,
+      "num": 227352,
+      "word": "一张画穿越辽宁春夏秋冬",
+      "onboard_time": 1727264301,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 192322,
@@ -1603,12 +1707,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 189667,
-      "num": 189667,
-      "word": "孙佳俊再次刷新亚洲纪录",
-      "onboard_time": 1727270900,
-      "rank": 28,
-      "category": "体育"
+      "raw_hot": 190068,
+      "num": 190068,
+      "word": "张艺兴橘发",
+      "onboard_time": 1727273960,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 190009,
+      "num": 190009,
+      "word": "张杰微博音乐盛典年度全能音乐人",
+      "onboard_time": 1727274020,
+      "rank": 36,
+      "category": "音乐"
     },
     {
       "raw_hot": 189665,
@@ -1723,6 +1835,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 181889,
+      "num": 181889,
+      "word": "林宥嘉谢谢王力宏的直拍",
+      "onboard_time": 1727273661,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 181684,
       "num": 181684,
       "word": "张桂梅 富养孤儿",
@@ -1755,28 +1875,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 180097,
-      "num": 180097,
-      "word": "广州地铁警察佩戴女性服务包",
-      "onboard_time": 1727270659,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 179977,
       "num": 179977,
       "word": "南丁格尔",
       "onboard_time": 1727251699,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 179913,
-      "num": 179913,
-      "word": "749局",
-      "onboard_time": 1727271021,
-      "rank": 28,
-      "category": "电影"
     },
     {
       "raw_hot": 179532,
@@ -1851,14 +1955,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 171762,
-      "num": 171762,
-      "word": "Echo二姐的故事",
-      "onboard_time": 1727271320,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 170111,
       "num": 170111,
       "word": "孙颖莎说主场作战非常开心",
@@ -1913,6 +2009,14 @@
       "onboard_time": 1727247139,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 167612,
+      "num": 167612,
+      "word": "张艺兴年度荣耀音乐人",
+      "onboard_time": 1727273841,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 167365,
@@ -1987,14 +2091,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 162696,
-      "num": 162696,
-      "word": "倪妮拉链吊带黑裙",
-      "onboard_time": 1727271441,
-      "rank": 32,
-      "category": "电影"
-    },
-    {
       "raw_hot": 162593,
       "num": 162593,
       "word": "仙台有树首发预告",
@@ -2059,8 +2155,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 157924,
-      "num": 157924,
+      "raw_hot": 158755,
+      "num": 158755,
       "word": "促进劳动报酬合理增长",
       "onboard_time": 1727267602,
       "rank": 47,
@@ -2073,14 +2169,6 @@
       "onboard_time": 1727225179,
       "rank": 9,
       "category": "军事"
-    },
-    {
-      "raw_hot": 155281,
-      "num": 227352,
-      "word": "一张画穿越辽宁春夏秋冬",
-      "onboard_time": 1727264301,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 154702,
@@ -2299,6 +2387,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 136973,
+      "num": 136973,
+      "word": "奇塔迪尼梅开二度",
+      "onboard_time": 1727273299,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 136935,
       "num": 136935,
       "word": "墨雨云间庆功宴合影",
@@ -2313,14 +2409,6 @@
       "onboard_time": 1727268200,
       "rank": 40,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 135268,
-      "num": 135268,
-      "word": "强冷空气发力了局地降温16摄氏度",
-      "onboard_time": 1727268020,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 134341,
@@ -2353,6 +2441,14 @@
       "onboard_time": 1727250740,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 132963,
+      "num": 132963,
+      "word": "高龄产妇困在备孕失败的那些年",
+      "onboard_time": 1727273299,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 132603,
@@ -2643,14 +2739,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 101983,
-      "num": 489847,
-      "word": "阿尔山景区多家酒店默认早9点退房",
-      "onboard_time": 1727270961,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 99928,
       "num": 99928,
       "word": "孙颖莎说非常期待在北京比赛",
@@ -2736,6 +2824,14 @@
       "word": "博主大娃回应被东北雨姐殴打",
       "onboard_time": 1727204112,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 78768,
+      "num": 369189,
+      "word": "民宿偷拍的视频都去哪儿了",
+      "onboard_time": 1727273001,
+      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -3060,11 +3156,19 @@
     },
     {
       "raw_hot": 44210,
-      "num": 115630,
+      "num": 385940,
       "word": "家庭越野车的四门必修课",
       "onboard_time": 1727271441,
       "rank": 49,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 43850,
+      "num": 238441,
+      "word": "陈少熙超争气",
+      "onboard_time": 1727273121,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 43525,
@@ -3151,6 +3255,14 @@
       "num": 479485,
       "word": "校方否认萝卜招聘东南亚留学博士",
       "onboard_time": 1727258599,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 38662,
+      "num": 370037,
+      "word": "女童坠亡消防井安全隐患一年未解决",
+      "onboard_time": 1727273061,
       "rank": 14,
       "category": "社会新闻"
     },
@@ -3307,6 +3419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 24359,
+      "num": 246648,
+      "word": "赵丽颖谈柔韧的力量",
+      "onboard_time": 1727270241,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 22708,
       "num": 168620,
       "word": "中网女单正赛今日开赛",
@@ -3329,6 +3449,14 @@
       "onboard_time": 1727214792,
       "rank": 49,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 18381,
+      "num": 351127,
+      "word": "购买78万元黄金女子成骗子帮凶",
+      "onboard_time": 1727272580,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 15390,

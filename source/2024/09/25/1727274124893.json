@@ -1,0 +1,410 @@
+{
+  "runTime": 1727274124893,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 910064,
+        "num": 1145610,
+        "word": "47岁女教师成为大体老师重回母校",
+        "onboard_time": 1727254940,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 709324,
+        "num": 709324,
+        "word": "本轮冷空气或将终结南方高温",
+        "onboard_time": 1727268200,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 59407,
+        "num": 614475,
+        "word": "中国天眼升级了",
+        "onboard_time": 1727269221,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 606465,
+        "num": 606465,
+        "word": "合肥肥东今年已经发生5次地震",
+        "onboard_time": 1727266580,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 585901,
+        "num": 585901,
+        "word": "苹果商店软件涉黄",
+        "onboard_time": 1727247679,
+        "rank": 4,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 492806,
+        "num": 492806,
+        "word": "单依纯获奖感言",
+        "onboard_time": 1727269461,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 463005,
+        "num": 463005,
+        "word": "苏醒 写了一百多首没有一首是火的",
+        "onboard_time": 1727270120,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 444581,
+        "num": 444581,
+        "word": "合肥肥东3.8级地震",
+        "onboard_time": 1727264422,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 411145,
+        "num": 411145,
+        "word": "合肥3.8级地震与4.7级地震震中基本一致",
+        "onboard_time": 1727272403,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 391039,
+        "num": 391039,
+        "word": "微博音乐盛典",
+        "onboard_time": 1727259500,
+        "rank": 9,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 2434222,
+        "num": 389711,
+        "word": "爱奇艺回应胡歌新剧引争议",
+        "onboard_time": 1727271080,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 29506,
+        "num": 385940,
+        "word": "家庭越野车的四门必修课",
+        "onboard_time": 1727271441,
+        "rank": 11,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 1280691,
+        "num": 379908,
+        "word": "73岁母亲现场怒打54岁惯犯儿子",
+        "onboard_time": 1727272403,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 894133,
+        "num": 377229,
+        "word": "赵今麦张凌赫自然到不像演的",
+        "onboard_time": 1727269402,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 38662,
+        "num": 370037,
+        "word": "女童坠亡消防井安全隐患一年未解决",
+        "onboard_time": 1727273061,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 78768,
+        "num": 369189,
+        "word": "民宿偷拍的视频都去哪儿了",
+        "onboard_time": 1727273001,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 635672,
+        "num": 361103,
+        "word": "韩素希回应柳俊烈李惠利争议",
+        "onboard_time": 1727266521,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 307565,
+        "num": 356940,
+        "word": "爱奇艺副总裁回应楠丁格尔片名",
+        "onboard_time": 1727273661,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 258853,
+        "num": 351827,
+        "word": "Echo二姐的故事",
+        "onboard_time": 1727271320,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18381,
+        "num": 351127,
+        "word": "购买78万元黄金女子成骗子帮凶",
+        "onboard_time": 1727272580,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 347466,
+        "num": 347466,
+        "word": "阿尔山景区多家酒店默认早9点退房",
+        "onboard_time": 1727270961,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 269158,
+        "num": 269158,
+        "word": "25岁遇害女村干部系家中独女",
+        "onboard_time": 1727260219,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251138,
+        "num": 251138,
+        "word": "倪妮拉链吊带黑裙",
+        "onboard_time": 1727271441,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 24359,
+        "num": 246648,
+        "word": "赵丽颖谈柔韧的力量",
+        "onboard_time": 1727270241,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 243476,
+        "num": 243476,
+        "word": "谁教刘忻这么穿的",
+        "onboard_time": 1727266161,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 241033,
+        "num": 241033,
+        "word": "雅太帅了",
+        "onboard_time": 1727267420,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 239814,
+        "num": 239814,
+        "word": "广州地铁警察佩戴女性服务包",
+        "onboard_time": 1727270659,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 43850,
+        "num": 238441,
+        "word": "陈少熙超争气",
+        "onboard_time": 1727273121,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 238046,
+        "num": 238046,
+        "word": "女律师在工作群发与上司出轨细节",
+        "onboard_time": 1727274082,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231724,
+        "num": 231724,
+        "word": "孙佳俊再次刷新亚洲纪录",
+        "onboard_time": 1727270900,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 221560,
+        "num": 221560,
+        "word": "河南一学生欲跳楼老师报警被阻拦",
+        "onboard_time": 1727265022,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196498,
+        "num": 196498,
+        "word": "时代少年团梦直拍",
+        "onboard_time": 1727272580,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 194736,
+        "num": 194736,
+        "word": "强冷空气发力了局地降温16摄氏度",
+        "onboard_time": 1727268020,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193995,
+        "num": 193995,
+        "word": "749局",
+        "onboard_time": 1727271021,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 193735,
+        "num": 193735,
+        "word": "一张画穿越辽宁春夏秋冬",
+        "onboard_time": 1727264301,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190068,
+        "num": 190068,
+        "word": "张艺兴橘发",
+        "onboard_time": 1727273960,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 190009,
+        "num": 190009,
+        "word": "张杰微博音乐盛典年度全能音乐人",
+        "onboard_time": 1727274020,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 181889,
+        "num": 181889,
+        "word": "林宥嘉谢谢王力宏的直拍",
+        "onboard_time": 1727273661,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 179618,
+        "num": 179618,
+        "word": "上班一年正式被确诊为办公臀",
+        "onboard_time": 1727270479,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 176622,
+        "num": 176622,
+        "word": "Echo淘汰",
+        "onboard_time": 1727270120,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172608,
+        "num": 172608,
+        "word": "瑞士使用安乐死胶囊舱相关人员被捕",
+        "onboard_time": 1727254281,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167612,
+        "num": 167612,
+        "word": "张艺兴年度荣耀音乐人",
+        "onboard_time": 1727273841,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 158755,
+        "num": 158755,
+        "word": "促进劳动报酬合理增长",
+        "onboard_time": 1727267602,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 148070,
+        "num": 148070,
+        "word": "杨紫形容李祯",
+        "onboard_time": 1727271681,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145021,
+        "num": 145021,
+        "word": "就业优先战略促进高质量充分就业",
+        "onboard_time": 1727265803,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 143718,
+        "num": 143718,
+        "word": "唐朝诡事录3将开机",
+        "onboard_time": 1727265320,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136973,
+        "num": 136973,
+        "word": "奇塔迪尼梅开二度",
+        "onboard_time": 1727273299,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134819,
+        "num": 134819,
+        "word": "路人捡金手镯后扔掉判赔1万6",
+        "onboard_time": 1727252241,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133211,
+        "num": 133211,
+        "word": "陈楚生 还好音乐没有忘记我",
+        "onboard_time": 1727269641,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 132963,
+        "num": 132963,
+        "word": "高龄产妇困在备孕失败的那些年",
+        "onboard_time": 1727273299,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#让民族团结的佳话代代相传#"
+    }
+  }
+}
