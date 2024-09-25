@@ -1,6 +1,6 @@
 {
   "startTime": 1727195285620,
-  "endTime": 1727277885489,
+  "endTime": 1727278735046,
   "band_list": [
     {
       "raw_hot": 4498953,
@@ -25,6 +25,14 @@
       "onboard_time": 1727251100,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2692855,
+      "num": 663517,
+      "word": "于适新头像",
+      "onboard_time": 1727276360,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 2591960,
@@ -59,14 +67,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1764938,
-      "num": 663517,
-      "word": "于适新头像",
-      "onboard_time": 1727276360,
-      "rank": 3,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1655109,
       "num": 1655109,
       "word": "苹果商店软件涉黄",
@@ -99,7 +99,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1380136,
+      "raw_hot": 1393861,
       "num": 338505,
       "word": "女律师在工作群发与上司出轨细节",
       "onboard_time": 1727274082,
@@ -587,6 +587,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 503675,
+      "num": 503675,
+      "word": "法考",
+      "onboard_time": 1727278579,
+      "rank": 6,
+      "category": "教育"
+    },
+    {
       "raw_hot": 495938,
       "num": 495938,
       "word": "A股",
@@ -625,6 +633,14 @@
       "onboard_time": 1727267659,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 477567,
+      "num": 323047,
+      "word": "学校回应学生仅退款被拒骂客服1小时",
+      "onboard_time": 1727275700,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 477160,
@@ -1012,7 +1028,7 @@
     },
     {
       "raw_hot": 301314,
-      "num": 273944,
+      "num": 283634,
       "word": "12306候补一种很新的存钱方式",
       "onboard_time": 1727274680,
       "rank": 28,
@@ -1059,6 +1075,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 285197,
+      "num": 285197,
+      "word": "预制朋友圈火了",
+      "onboard_time": 1727277141,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 284948,
       "num": 405581,
       "word": "A股成交额重破万亿",
@@ -1097,14 +1121,6 @@
       "onboard_time": 1727251341,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 278680,
-      "num": 278680,
-      "word": "学校回应学生仅退款被拒骂客服1小时",
-      "onboard_time": 1727275700,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 275203,
@@ -1243,6 +1259,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 246413,
+      "num": 297803,
+      "word": "黄景瑜说取消顾一燃旅店那段是现挂",
+      "onboard_time": 1727276841,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 246060,
       "num": 246060,
       "word": "如鸢",
@@ -1371,6 +1395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 218073,
+      "num": 288514,
+      "word": "时代少年团听到rumors的反应",
+      "onboard_time": 1727277020,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 217605,
       "num": 217605,
       "word": "胡歌楠丁格尔先生海报",
@@ -1401,14 +1433,6 @@
       "onboard_time": 1727233038,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 213838,
-      "num": 213838,
-      "word": "时代少年团听到rumors的反应",
-      "onboard_time": 1727277020,
-      "rank": 23,
-      "category": "音乐"
     },
     {
       "raw_hot": 211972,
@@ -1529,14 +1553,6 @@
       "onboard_time": 1727273960,
       "rank": 35,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 203971,
-      "num": 203971,
-      "word": "黄景瑜说取消顾一燃旅店那段是现挂",
-      "onboard_time": 1727276841,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 203086,
@@ -2147,14 +2163,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 164606,
-      "num": 164606,
-      "word": "预制朋友圈火了",
-      "onboard_time": 1727277141,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 164484,
       "num": 164484,
       "word": "在人间全阵容剧照",
@@ -2219,6 +2227,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 160793,
+      "num": 160793,
+      "word": "张艺兴音乐剧",
+      "onboard_time": 1727277919,
+      "rank": 29,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 160740,
       "num": 160740,
       "word": "贺峻霖将加盟一路繁花",
@@ -2257,6 +2273,14 @@
       "onboard_time": 1727267602,
       "rank": 47,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 158602,
+      "num": 158602,
+      "word": "GAI五获年度说唱歌手",
+      "onboard_time": 1727275401,
+      "rank": 33,
+      "category": "音乐"
     },
     {
       "raw_hot": 155836,
@@ -2347,14 +2371,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 148553,
-      "num": 148553,
-      "word": "GAI五获年度说唱歌手",
-      "onboard_time": 1727275401,
-      "rank": 33,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 148101,
       "num": 148101,
       "word": "G社镜头下的迪丽热巴周也金智秀",
@@ -2404,7 +2420,7 @@
     },
     {
       "raw_hot": 145035,
-      "num": 145035,
+      "num": 158206,
       "word": "侯明昊吻戏",
       "onboard_time": 1727275401,
       "rank": 35,
@@ -2468,7 +2484,7 @@
     },
     {
       "raw_hot": 141241,
-      "num": 141241,
+      "num": 157842,
       "word": "咖啡价格卷到6.6元",
       "onboard_time": 1727271801,
       "rank": 42,
@@ -2875,8 +2891,16 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 104925,
+      "num": 310738,
+      "word": "一女子声音被做成AI产品网上售卖",
+      "onboard_time": 1727276601,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 102715,
-      "num": 102715,
+      "num": 156017,
       "word": "直击合肥肥东地震震中",
       "onboard_time": 1727277561,
       "rank": 49,
@@ -3025,14 +3049,6 @@
       "onboard_time": 1727190140,
       "rank": 44,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 74865,
-      "num": 310738,
-      "word": "一女子声音被做成AI产品网上售卖",
-      "onboard_time": 1727276601,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 74804,
