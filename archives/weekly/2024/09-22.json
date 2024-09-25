@@ -1,6 +1,6 @@
 {
   "startTime": 1726936020707,
-  "endTime": 1727260939484,
+  "endTime": 1727263190495,
   "band_list": [
     {
       "raw_hot": 6817146,
@@ -633,6 +633,14 @@
       "onboard_time": 1726989439,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1186284,
+      "num": 481346,
+      "word": "25岁遇害女村干部系家中独女",
+      "onboard_time": 1727260219,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1173426,
@@ -2307,6 +2315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 489495,
+      "num": 489495,
+      "word": "R1SE合影",
+      "onboard_time": 1727260159,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 488216,
       "num": 488216,
       "word": "飞天奖提名争议是佳作频出的烦恼",
@@ -3019,6 +3035,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 377959,
+      "num": 485634,
+      "word": "宁夏银川发生3.3级地震",
+      "onboard_time": 1727261601,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 377474,
       "num": 377474,
       "word": "家业 韩东君",
@@ -3467,14 +3491,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 327257,
-      "num": 327257,
-      "word": "25岁遇害女村干部系家中独女",
-      "onboard_time": 1727260219,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 325444,
       "num": 290609,
       "word": "长期不社交的人会有什么变化",
@@ -3673,14 +3689,6 @@
       "onboard_time": 1727150301,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 302944,
-      "num": 302944,
-      "word": "R1SE合影",
-      "onboard_time": 1727260159,
-      "rank": 23,
-      "category": "音乐"
     },
     {
       "raw_hot": 301977,
@@ -4683,6 +4691,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 232443,
+      "num": 232443,
+      "word": "时代少年团抽到了王嘉尔",
+      "onboard_time": 1727260939,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 232169,
+      "num": 232169,
+      "word": "云次方",
+      "onboard_time": 1727260699,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 232144,
       "num": 232144,
       "word": "狐妖小红娘王权篇剑指王权海报",
@@ -4728,6 +4752,14 @@
       "word": "男子醉酒后从22楼窗户扔下杠铃",
       "onboard_time": 1727082260,
       "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 229819,
+      "num": 393945,
+      "word": "一招测出房间里是否有偷拍摄像头",
+      "onboard_time": 1727260041,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -4881,6 +4913,14 @@
       "onboard_time": 1727141717,
       "rank": 31,
       "category": "财经"
+    },
+    {
+      "raw_hot": 222888,
+      "num": 222888,
+      "word": "马龙孙颖莎王楚钦赛前训练画面",
+      "onboard_time": 1727259078,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 222798,
@@ -5715,6 +5755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 198947,
+      "num": 198947,
+      "word": "念无双",
+      "onboard_time": 1727261601,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 198916,
       "num": 198916,
       "word": "男孩收到武大靖签名鞋狂炫耀",
@@ -6523,6 +6571,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 183939,
+      "num": 183939,
+      "word": "全红婵在线call樊振东",
+      "onboard_time": 1727263100,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 183936,
       "num": 183936,
       "word": "孙颖莎王楚钦持续领衔世界第一",
@@ -6545,6 +6601,14 @@
       "onboard_time": 1727233159,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 183362,
+      "num": 183362,
+      "word": "想见你开场",
+      "onboard_time": 1727262019,
+      "rank": 33,
+      "category": "音乐"
     },
     {
       "raw_hot": 183304,
@@ -6585,14 +6649,6 @@
       "onboard_time": 1727189720,
       "rank": 29,
       "category": "电影"
-    },
-    {
-      "raw_hot": 182279,
-      "num": 182279,
-      "word": "马龙孙颖莎王楚钦赛前训练画面",
-      "onboard_time": 1727259078,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 182198,
@@ -6859,14 +6915,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 175421,
-      "num": 175421,
-      "word": "云次方",
-      "onboard_time": 1727260699,
-      "rank": 31,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 175247,
       "num": 568030,
       "word": "隐藏摄像头为何无孔不入",
@@ -7105,6 +7153,14 @@
       "onboard_time": 1727157800,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 168724,
+      "num": 168724,
+      "word": "张新成王玉雯假动作文学",
+      "onboard_time": 1727261960,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 167804,
@@ -7497,6 +7553,14 @@
       "onboard_time": 1727250801,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 159862,
+      "num": 159862,
+      "word": "王星越又成虐文男主了",
+      "onboard_time": 1727261178,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 159676,
@@ -7960,6 +8024,14 @@
       "word": "中方明确反对侵犯黎巴嫩主权和安全",
       "onboard_time": 1727165421,
       "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 148431,
+      "num": 476105,
+      "word": "女子充完话费接到警方通知涉嫌洗钱",
+      "onboard_time": 1727259439,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -9267,6 +9339,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 119206,
+      "num": 119206,
+      "word": "许凯火场追凶杀青",
+      "onboard_time": 1727262919,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 118780,
       "num": 118780,
       "word": "张博恒给师兄颁发奖牌",
@@ -10147,14 +10227,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 80540,
-      "num": 476105,
-      "word": "女子充完话费接到警方通知涉嫌洗钱",
-      "onboard_time": 1727259439,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 80373,
       "num": 165708,
       "word": "农学生毕业论文被偷吃后",
@@ -10411,14 +10483,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 67309,
-      "num": 393945,
-      "word": "一招测出房间里是否有偷拍摄像头",
-      "onboard_time": 1727260041,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 66628,
       "num": 188131,
       "word": "钟辰乐直播",
@@ -10609,6 +10673,14 @@
       "onboard_time": 1727152700,
       "rank": 19,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 58159,
+      "num": 451479,
+      "word": "一口价黄金打开了溢价天花板",
+      "onboard_time": 1727262200,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 58107,
@@ -11003,6 +11075,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 47003,
+      "num": 275972,
+      "word": "八旬老太领蛋被挤倒身亡超市赔10万",
+      "onboard_time": 1727262140,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 46929,
       "num": 71976,
       "word": "Cat解说杯FMVP",
@@ -11305,6 +11385,14 @@
       "onboard_time": 1727245699,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 39686,
+      "num": 488409,
+      "word": "A股成交额过万亿创近5个月新高",
+      "onboard_time": 1727263100,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 39663,
@@ -12107,6 +12195,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 19152,
+      "num": 275844,
+      "word": "微博音乐盛典红毯出片搭子",
+      "onboard_time": 1727260699,
+      "rank": 46,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 18631,
       "num": 419854,
       "word": "商务部回应对美PVH集团启动调查",
@@ -12281,14 +12377,6 @@
       "onboard_time": 1726923742,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 13032,
-      "num": 121123,
-      "word": "微博音乐盛典红毯出片搭子",
-      "onboard_time": 1727260699,
-      "rank": 46,
-      "category": "音乐"
     },
     {
       "raw_hot": 12309,

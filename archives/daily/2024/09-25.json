@@ -1,6 +1,6 @@
 {
   "startTime": 1727195285620,
-  "endTime": 1727260939484,
+  "endTime": 1727263190495,
   "band_list": [
     {
       "raw_hot": 2727211,
@@ -88,6 +88,14 @@
       "word": "瑞士使用安乐死胶囊舱相关人员被捕",
       "onboard_time": 1727254281,
       "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1186284,
+      "num": 481346,
+      "word": "25岁遇害女村干部系家中独女",
+      "onboard_time": 1727260219,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -459,6 +467,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 489495,
+      "num": 489495,
+      "word": "R1SE合影",
+      "onboard_time": 1727260159,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 485278,
       "num": 485278,
       "word": "沈翊 疯批感",
@@ -595,6 +611,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 377959,
+      "num": 485634,
+      "word": "宁夏银川发生3.3级地震",
+      "onboard_time": 1727261601,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 376838,
       "num": 347285,
       "word": "闵熙珍继续担任NewJeans制作人",
@@ -723,14 +747,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 327257,
-      "num": 327257,
-      "word": "25岁遇害女村干部系家中独女",
-      "onboard_time": 1727260219,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 321552,
       "num": 279803,
       "word": "大张伟辟谣是北京人就打过大张伟",
@@ -785,14 +801,6 @@
       "onboard_time": 1727220497,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 302944,
-      "num": 302944,
-      "word": "R1SE合影",
-      "onboard_time": 1727260159,
-      "rank": 23,
-      "category": "音乐"
     },
     {
       "raw_hot": 301977,
@@ -1019,12 +1027,44 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 232443,
+      "num": 232443,
+      "word": "时代少年团抽到了王嘉尔",
+      "onboard_time": 1727260939,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 232169,
+      "num": 232169,
+      "word": "云次方",
+      "onboard_time": 1727260699,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 232144,
       "num": 232144,
       "word": "狐妖小红娘王权篇剑指王权海报",
       "onboard_time": 1727236280,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 229819,
+      "num": 393945,
+      "word": "一招测出房间里是否有偷拍摄像头",
+      "onboard_time": 1727260041,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 222888,
+      "num": 222888,
+      "word": "马龙孙颖莎王楚钦赛前训练画面",
+      "onboard_time": 1727259078,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 221383,
@@ -1235,6 +1275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 198947,
+      "num": 198947,
+      "word": "念无双",
+      "onboard_time": 1727261601,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 198523,
       "num": 304386,
       "word": "男子不戒酒肉痛风石疯长7厘米",
@@ -1411,6 +1459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 183939,
+      "num": 183939,
+      "word": "全红婵在线call樊振东",
+      "onboard_time": 1727263100,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 183425,
       "num": 183425,
       "word": "真的有剧拍了女人你在玩火",
@@ -1419,12 +1475,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 182279,
-      "num": 182279,
-      "word": "马龙孙颖莎王楚钦赛前训练画面",
-      "onboard_time": 1727259078,
-      "rank": 48,
-      "category": "体育"
+      "raw_hot": 183362,
+      "num": 183362,
+      "word": "想见你开场",
+      "onboard_time": 1727262019,
+      "rank": 33,
+      "category": "音乐"
     },
     {
       "raw_hot": 180667,
@@ -1473,14 +1529,6 @@
       "onboard_time": 1727238020,
       "rank": 49,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 175421,
-      "num": 175421,
-      "word": "云次方",
-      "onboard_time": 1727260699,
-      "rank": 31,
-      "category": "音乐"
     },
     {
       "raw_hot": 175247,
@@ -1553,6 +1601,14 @@
       "onboard_time": 1727187021,
       "rank": 17,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 168724,
+      "num": 168724,
+      "word": "张新成王玉雯假动作文学",
+      "onboard_time": 1727261960,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 167804,
@@ -1667,6 +1723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 159862,
+      "num": 159862,
+      "word": "王星越又成虐文男主了",
+      "onboard_time": 1727261178,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 159538,
       "num": 159538,
       "word": "周雨彤 我朋友多都在惦记我",
@@ -1745,6 +1809,14 @@
       "onboard_time": 1727235741,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 148431,
+      "num": 476105,
+      "word": "女子充完话费接到警方通知涉嫌洗钱",
+      "onboard_time": 1727259439,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 147363,
@@ -2051,6 +2123,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 119206,
+      "num": 119206,
+      "word": "许凯火场追凶杀青",
+      "onboard_time": 1727262919,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 118672,
       "num": 203163,
       "word": "RED首次红毯",
@@ -2219,14 +2299,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 80540,
-      "num": 476105,
-      "word": "女子充完话费接到警方通知涉嫌洗钱",
-      "onboard_time": 1727259439,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 79523,
       "num": 79523,
       "word": "博主大娃回应被东北雨姐殴打",
@@ -2347,14 +2419,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 67309,
-      "num": 393945,
-      "word": "一招测出房间里是否有偷拍摄像头",
-      "onboard_time": 1727260041,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 63179,
       "num": 63179,
       "word": "卫昭 月落的地方就是家的方向",
@@ -2385,6 +2449,14 @@
       "onboard_time": 1727209510,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 58159,
+      "num": 451479,
+      "word": "一口价黄金打开了溢价天花板",
+      "onboard_time": 1727262200,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 57170,
@@ -2491,6 +2563,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 47003,
+      "num": 275972,
+      "word": "八旬老太领蛋被挤倒身亡超市赔10万",
+      "onboard_time": 1727262140,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 46806,
       "num": 393100,
       "word": "多城出台政策鼓励购买大面积住宅",
@@ -2585,6 +2665,14 @@
       "onboard_time": 1727245699,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 39686,
+      "num": 488409,
+      "word": "A股成交额过万亿创近5个月新高",
+      "onboard_time": 1727263100,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 39076,
@@ -2731,6 +2819,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 19152,
+      "num": 275844,
+      "word": "微博音乐盛典红毯出片搭子",
+      "onboard_time": 1727260699,
+      "rank": 46,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 15390,
       "num": 484185,
       "word": "大摩称A股或跑赢新兴市场",
@@ -2745,14 +2841,6 @@
       "onboard_time": 1727203392,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 13032,
-      "num": 121123,
-      "word": "微博音乐盛典红毯出片搭子",
-      "onboard_time": 1727260699,
-      "rank": 46,
-      "category": "音乐"
     },
     {
       "raw_hot": 12081,
