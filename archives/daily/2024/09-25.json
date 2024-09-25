@@ -1,6 +1,6 @@
 {
   "startTime": 1727195285620,
-  "endTime": 1727245875752,
+  "endTime": 1727246702302,
   "band_list": [
     {
       "raw_hot": 2135949,
@@ -27,8 +27,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1233779,
-      "num": 1233779,
+      "raw_hot": 1242224,
+      "num": 1242224,
       "word": "继承房产要去世百年老人死亡证明",
       "onboard_time": 1727242580,
       "rank": 43,
@@ -123,6 +123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 832806,
+      "num": 832806,
+      "word": "星汉灿烂 书卷一梦",
+      "onboard_time": 1727243000,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 812186,
       "num": 917606,
       "word": "网红小英不能开着路虎卖惨",
@@ -131,20 +139,20 @@
       "category": "网红"
     },
     {
+      "raw_hot": 807587,
+      "num": 807587,
+      "word": "金饰价格涨到778元每克",
+      "onboard_time": 1727244380,
+      "rank": 7,
+      "category": "财经"
+    },
+    {
       "raw_hot": 786800,
       "num": 439654,
       "word": "迪丽热巴成功追星娜塔莉波特曼",
       "onboard_time": 1727224280,
       "rank": 3,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 785974,
-      "num": 785974,
-      "word": "星汉灿烂 书卷一梦",
-      "onboard_time": 1727243000,
-      "rank": 4,
-      "category": "剧集"
     },
     {
       "raw_hot": 761175,
@@ -241,14 +249,6 @@
       "onboard_time": 1727200273,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 585336,
-      "num": 585336,
-      "word": "金饰价格涨到778元每克",
-      "onboard_time": 1727244380,
-      "rank": 7,
-      "category": "财经"
     },
     {
       "raw_hot": 572723,
@@ -571,12 +571,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 275675,
-      "num": 275675,
+      "raw_hot": 279394,
+      "num": 279394,
       "word": "北上广的鸡娃工厂批量倒闭",
       "onboard_time": 1727244258,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 275203,
+      "num": 287317,
+      "word": "周雨彤半熟男女原来是本色出演",
+      "onboard_time": 1727244920,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 275125,
@@ -617,6 +625,14 @@
       "onboard_time": 1727193259,
       "rank": 8,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 258938,
+      "num": 258938,
+      "word": "金晨 我是一个超敏感的人",
+      "onboard_time": 1727245459,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 257941,
@@ -691,6 +707,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 232514,
+      "num": 232514,
+      "word": "夫妻用猪肉干冒充牛肉干卖出500余万",
+      "onboard_time": 1727243600,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 232144,
       "num": 232144,
       "word": "狐妖小红娘王权篇剑指王权海报",
@@ -699,12 +723,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 227102,
+      "num": 227102,
+      "word": "微博音乐盛典红毯",
+      "onboard_time": 1727243660,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 221383,
       "num": 221383,
       "word": "绝区零1.2",
       "onboard_time": 1727238141,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 218622,
+      "num": 218622,
+      "word": "赵丽颖辛芷蕾新片入围东京电影节",
+      "onboard_time": 1727246118,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 217605,
@@ -729,6 +769,14 @@
       "onboard_time": 1727197514,
       "rank": 10,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 216084,
+      "num": 216084,
+      "word": "出去玩一次朋友圈发五年",
+      "onboard_time": 1727243239,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 213880,
@@ -769,14 +817,6 @@
       "onboard_time": 1727233639,
       "rank": 33,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 203858,
-      "num": 203858,
-      "word": "夫妻用猪肉干冒充牛肉干卖出500余万",
-      "onboard_time": 1727243600,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 202114,
@@ -827,12 +867,12 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 199043,
-      "num": 199043,
-      "word": "微博音乐盛典红毯",
-      "onboard_time": 1727243660,
-      "rank": 28,
-      "category": "音乐"
+      "raw_hot": 199373,
+      "num": 360526,
+      "word": "株洲6死7伤事故背后的安全之问",
+      "onboard_time": 1727240900,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 198523,
@@ -843,12 +883,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 198165,
-      "num": 198165,
-      "word": "金晨 我是一个超敏感的人",
-      "onboard_time": 1727245459,
-      "rank": 30,
-      "category": "综艺"
+      "raw_hot": 196814,
+      "num": 196814,
+      "word": "易烊千玺新片小小的我入围东京电影节",
+      "onboard_time": 1727245940,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 195734,
@@ -891,6 +931,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 192305,
+      "num": 192305,
+      "word": "王楚钦中国冠封面",
+      "onboard_time": 1727246538,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 192263,
       "num": 192263,
       "word": "只有她转身看到了台下的薛之谦",
@@ -921,6 +969,14 @@
       "onboard_time": 1727184559,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 189665,
+      "num": 522337,
+      "word": "WTT中国大满贯2024全名单",
+      "onboard_time": 1727241680,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 188910,
@@ -956,7 +1012,7 @@
     },
     {
       "raw_hot": 186191,
-      "num": 186191,
+      "num": 190151,
       "word": "家业",
       "onboard_time": 1727245459,
       "rank": 31,
@@ -1027,20 +1083,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 175062,
-      "num": 287317,
-      "word": "周雨彤半熟男女原来是本色出演",
-      "onboard_time": 1727244920,
-      "rank": 15,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 174804,
       "num": 174804,
       "word": "原神",
       "onboard_time": 1727240003,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 174641,
+      "num": 174641,
+      "word": "成毅这回不舞刀弄剑改耍枪了",
+      "onboard_time": 1727246118,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 173755,
@@ -1083,14 +1139,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 168872,
-      "num": 360526,
-      "word": "株洲6死7伤事故背后的安全之问",
-      "onboard_time": 1727240900,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 167804,
       "num": 167804,
       "word": "李一桐新剧不是三角恋是三角杀",
@@ -1128,14 +1176,6 @@
       "word": "男子在楼梯间发现超级袜子连连看",
       "onboard_time": 1727230219,
       "rank": 35,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 163171,
-      "num": 163171,
-      "word": "出去玩一次朋友圈发五年",
-      "onboard_time": 1727243239,
-      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -1291,20 +1331,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 137737,
+      "num": 137737,
+      "word": "陈梦OK十月刊封面",
+      "onboard_time": 1727246601,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 136935,
       "num": 136935,
       "word": "墨雨云间庆功宴合影",
       "onboard_time": 1727225600,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 133403,
-      "num": 522337,
-      "word": "WTT中国大满贯2024全名单",
-      "onboard_time": 1727241680,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 133401,
@@ -1571,6 +1611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 74101,
+      "num": 279020,
+      "word": "易烊千玺邀请大家来家乡湖南",
+      "onboard_time": 1727245580,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 72227,
       "num": 72227,
       "word": "不敢想象表白墙上会蛐蛐成啥样",
@@ -1683,6 +1731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 53218,
+      "num": 405581,
+      "word": "A股成交额重破万亿",
+      "onboard_time": 1727246180,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 53189,
       "num": 66358,
       "word": "芦淞大桥事故现场堆满鲜花玩偶",
@@ -1731,6 +1787,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 42939,
+      "num": 275912,
+      "word": "男子吐槽上万亩稻谷颗粒无收",
+      "onboard_time": 1727244739,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 42820,
       "num": 42820,
       "word": "78岁卖菜大爷被骗200元",
@@ -1755,6 +1819,22 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 40091,
+      "num": 206400,
+      "word": "王欣瑜战胜日本选手",
+      "onboard_time": 1727245699,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 39695,
+      "num": 297064,
+      "word": "A股市场交投氛围火爆",
+      "onboard_time": 1727246480,
+      "rank": 13,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 38501,
       "num": 280329,
       "word": "韩政府讨论引入养宠税",
@@ -1769,14 +1849,6 @@
       "onboard_time": 1727196555,
       "rank": 44,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 37762,
-      "num": 275931,
-      "word": "易烊千玺邀请大家来家乡湖南",
-      "onboard_time": 1727245580,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 37265,
@@ -1819,6 +1891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 34708,
+      "num": 279488,
+      "word": "灵犀你就宠她吧",
+      "onboard_time": 1727244800,
+      "rank": 17,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 34196,
       "num": 398151,
       "word": "被拆迁后开发商原地违建套牢买房人",
@@ -1849,22 +1929,6 @@
       "onboard_time": 1727202014,
       "rank": 46,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 24846,
-      "num": 275912,
-      "word": "男子吐槽上万亩稻谷颗粒无收",
-      "onboard_time": 1727244739,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 24340,
-      "num": 276056,
-      "word": "灵犀你就宠她吧",
-      "onboard_time": 1727244800,
-      "rank": 17,
-      "category": "游戏"
     },
     {
       "raw_hot": 22708,
@@ -1899,14 +1963,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 14929,
-      "num": 198532,
-      "word": "王欣瑜战胜日本选手",
-      "onboard_time": 1727245699,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 14727,
       "num": 30290,
       "word": "老太疑被民警殴打曾有人提出4万私了",
@@ -1923,7 +1979,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 9094,
+      "raw_hot": 9787,
       "num": 979113,
       "word": "桥见新时代",
       "onboard_time": 1727241260,

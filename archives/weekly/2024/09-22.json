@@ -1,6 +1,6 @@
 {
   "startTime": 1726936020707,
-  "endTime": 1727245875752,
+  "endTime": 1727246702302,
   "band_list": [
     {
       "raw_hot": 6817146,
@@ -531,8 +531,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1233779,
-      "num": 1233779,
+      "raw_hot": 1242224,
+      "num": 1242224,
       "word": "继承房产要去世百年老人死亡证明",
       "onboard_time": 1727242580,
       "rank": 43,
@@ -1107,6 +1107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 832806,
+      "num": 832806,
+      "word": "星汉灿烂 书卷一梦",
+      "onboard_time": 1727243000,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 830752,
       "num": 935437,
       "word": "原来人会从34岁开始变老",
@@ -1163,6 +1171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 807587,
+      "num": 807587,
+      "word": "金饰价格涨到778元每克",
+      "onboard_time": 1727244380,
+      "rank": 7,
+      "category": "财经"
+    },
+    {
       "raw_hot": 804521,
       "num": 804521,
       "word": "孙颖莎见面会",
@@ -1185,14 +1201,6 @@
       "onboard_time": 1727224280,
       "rank": 3,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 785974,
-      "num": 785974,
-      "word": "星汉灿烂 书卷一梦",
-      "onboard_time": 1727243000,
-      "rank": 4,
-      "category": "剧集"
     },
     {
       "raw_hot": 778129,
@@ -1777,14 +1785,6 @@
       "onboard_time": 1727137820,
       "rank": 6,
       "category": "互联网,社会新闻"
-    },
-    {
-      "raw_hot": 585336,
-      "num": 585336,
-      "word": "金饰价格涨到778元每克",
-      "onboard_time": 1727244380,
-      "rank": 7,
-      "category": "财经"
     },
     {
       "raw_hot": 584439,
@@ -3635,6 +3635,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 279394,
+      "num": 279394,
+      "word": "北上广的鸡娃工厂批量倒闭",
+      "onboard_time": 1727244258,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 279368,
       "num": 279368,
       "word": "黑神话IGN年度投票支持率急速下降",
@@ -3691,12 +3699,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 275675,
-      "num": 275675,
-      "word": "北上广的鸡娃工厂批量倒闭",
-      "onboard_time": 1727244258,
-      "rank": 21,
-      "category": "社会新闻"
+      "raw_hot": 275203,
+      "num": 287317,
+      "word": "周雨彤半熟男女原来是本色出演",
+      "onboard_time": 1727244920,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 275161,
@@ -3968,6 +3976,14 @@
       "word": "Kim回归offer6",
       "onboard_time": 1727153601,
       "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 258938,
+      "num": 258938,
+      "word": "金晨 我是一个超敏感的人",
+      "onboard_time": 1727245459,
+      "rank": 30,
       "category": "综艺"
     },
     {
@@ -4355,6 +4371,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 232514,
+      "num": 232514,
+      "word": "夫妻用猪肉干冒充牛肉干卖出500余万",
+      "onboard_time": 1727243600,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 232144,
       "num": 232144,
       "word": "狐妖小红娘王权篇剑指王权海报",
@@ -4457,6 +4481,14 @@
       "onboard_time": 1727002941,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 227102,
+      "num": 227102,
+      "word": "微博音乐盛典红毯",
+      "onboard_time": 1727243660,
+      "rank": 28,
+      "category": "音乐"
     },
     {
       "raw_hot": 227064,
@@ -4627,6 +4659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 218622,
+      "num": 218622,
+      "word": "赵丽颖辛芷蕾新片入围东京电影节",
+      "onboard_time": 1727246118,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 217969,
       "num": 217969,
       "word": "潘展乐 为了中国奋勇争先",
@@ -4713,6 +4753,14 @@
       "onboard_time": 1727166258,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 216084,
+      "num": 216084,
+      "word": "出去玩一次朋友圈发五年",
+      "onboard_time": 1727243239,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 215293,
@@ -5051,14 +5099,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 203858,
-      "num": 203858,
-      "word": "夫妻用猪肉干冒充牛肉干卖出500余万",
-      "onboard_time": 1727243600,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 203829,
       "num": 189326,
       "word": "猫系美女",
@@ -5291,6 +5331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 199373,
+      "num": 360526,
+      "word": "株洲6死7伤事故背后的安全之问",
+      "onboard_time": 1727240900,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 199177,
       "num": 438824,
       "word": "拜托他可是张新成",
@@ -5305,14 +5353,6 @@
       "onboard_time": 1726982780,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 199043,
-      "num": 199043,
-      "word": "微博音乐盛典红毯",
-      "onboard_time": 1727243660,
-      "rank": 28,
-      "category": "音乐"
     },
     {
       "raw_hot": 198916,
@@ -5353,14 +5393,6 @@
       "onboard_time": 1727168719,
       "rank": 37,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 198165,
-      "num": 198165,
-      "word": "金晨 我是一个超敏感的人",
-      "onboard_time": 1727245459,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 198140,
@@ -5425,6 +5457,14 @@
       "onboard_time": 1727142559,
       "rank": 33,
       "category": "财经"
+    },
+    {
+      "raw_hot": 196814,
+      "num": 196814,
+      "word": "易烊千玺新片小小的我入围东京电影节",
+      "onboard_time": 1727245940,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 196764,
@@ -5715,6 +5755,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 192305,
+      "num": 192305,
+      "word": "王楚钦中国冠封面",
+      "onboard_time": 1727246538,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 192263,
       "num": 192263,
       "word": "只有她转身看到了台下的薛之谦",
@@ -5832,6 +5880,14 @@
       "word": "冠军搭档联手开课啦",
       "onboard_time": 1727007441,
       "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 189665,
+      "num": 522337,
+      "word": "WTT中国大满贯2024全名单",
+      "onboard_time": 1727241680,
+      "rank": 28,
       "category": "体育"
     },
     {
@@ -6028,7 +6084,7 @@
     },
     {
       "raw_hot": 186191,
-      "num": 186191,
+      "num": 190151,
       "word": "家业",
       "onboard_time": 1727245459,
       "rank": 31,
@@ -6411,14 +6467,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 175062,
-      "num": 287317,
-      "word": "周雨彤半熟男女原来是本色出演",
-      "onboard_time": 1727244920,
-      "rank": 15,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 174929,
       "num": 209019,
       "word": "黄霄雲唱功",
@@ -6441,6 +6489,14 @@
       "onboard_time": 1727065040,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 174641,
+      "num": 174641,
+      "word": "成毅这回不舞刀弄剑改耍枪了",
+      "onboard_time": 1727246118,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 174467,
@@ -6625,14 +6681,6 @@
       "onboard_time": 1726967659,
       "rank": 44,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 168872,
-      "num": 360526,
-      "word": "株洲6死7伤事故背后的安全之问",
-      "onboard_time": 1727240900,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 168776,
@@ -6913,14 +6961,6 @@
       "onboard_time": 1726975278,
       "rank": 37,
       "category": "电影"
-    },
-    {
-      "raw_hot": 163171,
-      "num": 163171,
-      "word": "出去玩一次朋友圈发五年",
-      "onboard_time": 1727243239,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 163097,
@@ -7915,6 +7955,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 137737,
+      "num": 137737,
+      "word": "陈梦OK十月刊封面",
+      "onboard_time": 1727246601,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 137448,
       "num": 137448,
       "word": "这次听到樊振东声音了",
@@ -8073,14 +8121,6 @@
       "onboard_time": 1726973119,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 133403,
-      "num": 522337,
-      "word": "WTT中国大满贯2024全名单",
-      "onboard_time": 1727241680,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 133401,
@@ -9547,6 +9587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 74101,
+      "num": 279020,
+      "word": "易烊千玺邀请大家来家乡湖南",
+      "onboard_time": 1727245580,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 73856,
       "num": 73856,
       "word": "派出所回应喜来登被指提供色情服务",
@@ -10051,6 +10099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 53218,
+      "num": 405581,
+      "word": "A股成交额重破万亿",
+      "onboard_time": 1727246180,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 53189,
       "num": 66358,
       "word": "芦淞大桥事故现场堆满鲜花玩偶",
@@ -10371,6 +10427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 42939,
+      "num": 275912,
+      "word": "男子吐槽上万亩稻谷颗粒无收",
+      "onboard_time": 1727244739,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 42885,
       "num": 1222917,
       "word": "天山南北唱新歌",
@@ -10475,6 +10539,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 40091,
+      "num": 206400,
+      "word": "王欣瑜战胜日本选手",
+      "onboard_time": 1727245699,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 39695,
+      "num": 297064,
+      "word": "A股市场交投氛围火爆",
+      "onboard_time": 1727246480,
+      "rank": 13,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 39663,
       "num": 334751,
       "word": "印度狂买黄金有啥目的",
@@ -10561,14 +10641,6 @@
       "onboard_time": 1727196555,
       "rank": 44,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 37762,
-      "num": 275931,
-      "word": "易烊千玺邀请大家来家乡湖南",
-      "onboard_time": 1727245580,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 37601,
@@ -10697,6 +10769,14 @@
       "onboard_time": 1727084000,
       "rank": 39,
       "category": "国外时政,军事"
+    },
+    {
+      "raw_hot": 34708,
+      "num": 279488,
+      "word": "灵犀你就宠她吧",
+      "onboard_time": 1727244800,
+      "rank": 17,
+      "category": "游戏"
     },
     {
       "raw_hot": 34196,
@@ -11107,22 +11187,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 24846,
-      "num": 275912,
-      "word": "男子吐槽上万亩稻谷颗粒无收",
-      "onboard_time": 1727244739,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 24340,
-      "num": 276056,
-      "word": "灵犀你就宠她吧",
-      "onboard_time": 1727244800,
-      "rank": 17,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 24302,
       "num": 30474,
       "word": "王心凌官宣微博音乐盛典",
@@ -11403,14 +11467,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 14929,
-      "num": 198532,
-      "word": "王欣瑜战胜日本选手",
-      "onboard_time": 1727245699,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 14857,
       "num": 90433,
       "word": "文化中国行文物里的秋色平分",
@@ -11515,18 +11571,18 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 9209,
-      "num": 1492275,
-      "word": "青春华章津彩绽放",
-      "onboard_time": 1726994960,
+      "raw_hot": 9787,
+      "num": 979113,
+      "word": "桥见新时代",
+      "onboard_time": 1727241260,
       "rank": 2,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 9094,
-      "num": 979113,
-      "word": "桥见新时代",
-      "onboard_time": 1727241260,
+      "raw_hot": 9209,
+      "num": 1492275,
+      "word": "青春华章津彩绽放",
+      "onboard_time": 1726994960,
       "rank": 2,
       "category": "社会新闻"
     },
