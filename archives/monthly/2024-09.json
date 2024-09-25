@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1727278735046,
+  "endTime": 1727281816744,
   "band_list": [
     {
       "raw_hot": 28035334,
@@ -4371,6 +4371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1224532,
+      "num": 1224532,
+      "word": "法考",
+      "onboard_time": 1726822940,
+      "rank": 37,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1223239,
       "num": 1223239,
       "word": "大哥靠5000万枚变蛋买三套房爆改人生",
@@ -5665,6 +5673,14 @@
       "onboard_time": 1726232604,
       "rank": 27,
       "category": "数码"
+    },
+    {
+      "raw_hot": 1053783,
+      "num": 1053783,
+      "word": "预制朋友圈火了",
+      "onboard_time": 1727277141,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1053654,
@@ -8737,14 +8753,6 @@
       "onboard_time": 1726377379,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 798415,
-      "num": 798415,
-      "word": "法考",
-      "onboard_time": 1726822940,
-      "rank": 37,
-      "category": "教育"
     },
     {
       "raw_hot": 798242,
@@ -13467,6 +13475,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 550899,
+      "num": 323047,
+      "word": "学校回应学生仅退款被拒骂客服1小时",
+      "onboard_time": 1727275700,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 550533,
       "num": 550533,
       "word": "许昕说孙颖莎今天状态只有7分",
@@ -15801,14 +15817,6 @@
       "onboard_time": 1725526459,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 477567,
-      "num": 323047,
-      "word": "学校回应学生仅退款被拒骂客服1小时",
-      "onboard_time": 1727275700,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 477530,
@@ -24368,14 +24376,6 @@
       "word": "老人在足浴店消费超30万儿子发声",
       "onboard_time": 1725112281,
       "rank": 21,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 285197,
-      "num": 285197,
-      "word": "预制朋友圈火了",
-      "onboard_time": 1727277141,
-      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -51931,6 +51931,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 143970,
+      "num": 143970,
+      "word": "一般4级以上地震才有预警提醒",
+      "onboard_time": 1727277800,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 143894,
       "num": 143894,
       "word": "苹果发布会介绍腾讯新游戏",
@@ -63099,6 +63107,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 84150,
+      "num": 84150,
+      "word": "王者S37上分计划",
+      "onboard_time": 1727280617,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 83969,
       "num": 370913,
       "word": "开学使用频率最高的手机功能",
@@ -63145,6 +63161,14 @@
       "onboard_time": 1726564758,
       "rank": 19,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 83329,
+      "num": 83329,
+      "word": "恒温壶",
+      "onboard_time": 1727280199,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 83203,
@@ -63305,6 +63329,14 @@
       "onboard_time": 1727155222,
       "rank": 24,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 81807,
+      "num": 81807,
+      "word": "749局预售票房破1000万",
+      "onboard_time": 1727280019,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 81789,
@@ -66297,6 +66329,14 @@
       "onboard_time": 1725300433,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 57487,
+      "num": 73026,
+      "word": "陶喆宁波",
+      "onboard_time": 1727281757,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 57465,

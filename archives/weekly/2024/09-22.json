@@ -1,6 +1,6 @@
 {
   "startTime": 1726936020707,
-  "endTime": 1727278735046,
+  "endTime": 1727281816744,
   "band_list": [
     {
       "raw_hot": 6817146,
@@ -651,6 +651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1224532,
+      "num": 1224532,
+      "word": "法考",
+      "onboard_time": 1726975640,
+      "rank": 48,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1219278,
       "num": 1219278,
       "word": "博主称打假东北雨姐反被打",
@@ -848,6 +856,14 @@
       "word": "石家庄有民宿称已在自查摄像头",
       "onboard_time": 1727180838,
       "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1053783,
+      "num": 1053783,
+      "word": "预制朋友圈火了",
+      "onboard_time": 1727277141,
+      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -2187,6 +2203,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 550899,
+      "num": 323047,
+      "word": "学校回应学生仅退款被拒骂客服1小时",
+      "onboard_time": 1727275700,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 549509,
       "num": 573460,
       "word": "九省通衢的气质具象化了",
@@ -2387,14 +2411,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 503675,
-      "num": 503675,
-      "word": "法考",
-      "onboard_time": 1726975640,
-      "rank": 48,
-      "category": "教育"
-    },
-    {
       "raw_hot": 503302,
       "num": 503302,
       "word": "禁止吃泡面景区如此治污难服众",
@@ -2544,14 +2560,6 @@
       "word": "妻子失联20年丈夫恋爱算出轨吗",
       "onboard_time": 1726985540,
       "rank": 23,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 477567,
-      "num": 323047,
-      "word": "学校回应学生仅退款被拒骂客服1小时",
-      "onboard_time": 1727275700,
-      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -4049,14 +4057,6 @@
       "onboard_time": 1727153001,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 285197,
-      "num": 285197,
-      "word": "预制朋友圈火了",
-      "onboard_time": 1727277141,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 284948,
@@ -8867,6 +8867,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 143970,
+      "num": 143970,
+      "word": "一般4级以上地震才有预警提醒",
+      "onboard_time": 1727277800,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 143752,
       "num": 143752,
       "word": "庆怜 我还需要成长才能面对离别",
@@ -10827,11 +10835,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 84150,
+      "num": 84150,
+      "word": "王者S37上分计划",
+      "onboard_time": 1727280617,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 83876,
       "num": 365954,
       "word": "男子离婚冷静期杀妻案二审宣判",
       "onboard_time": 1727065410,
       "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 83329,
+      "num": 83329,
+      "word": "恒温壶",
+      "onboard_time": 1727280199,
+      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -10873,6 +10897,14 @@
       "onboard_time": 1727155222,
       "rank": 24,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 81807,
+      "num": 81807,
+      "word": "749局预售票房破1000万",
+      "onboard_time": 1727280019,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 81720,
@@ -11433,6 +11465,14 @@
       "onboard_time": 1727269701,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 57487,
+      "num": 73026,
+      "word": "陶喆宁波",
+      "onboard_time": 1727281757,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 57465,
