@@ -1,6 +1,6 @@
 {
   "startTime": 1726936020707,
-  "endTime": 1727248886045,
+  "endTime": 1727249731869,
   "band_list": [
     {
       "raw_hot": 6817146,
@@ -257,6 +257,14 @@
       "onboard_time": 1727065230,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1655109,
+      "num": 1655109,
+      "word": "苹果商店软件涉黄",
+      "onboard_time": 1727247679,
+      "rank": 10,
+      "category": "数码"
     },
     {
       "raw_hot": 1634493,
@@ -769,14 +777,6 @@
       "onboard_time": 1727019982,
       "rank": 7,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 1022875,
-      "num": 546993,
-      "word": "苹果商店软件涉黄",
-      "onboard_time": 1727247679,
-      "rank": 10,
-      "category": "数码"
     },
     {
       "raw_hot": 1021817,
@@ -1819,6 +1819,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 580818,
+      "num": 580818,
+      "word": "安乐死胶囊舱首次在瑞士使用",
+      "onboard_time": 1727247080,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 580205,
       "num": 580205,
       "word": "等一个Mate70",
@@ -2243,6 +2251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 477446,
+      "num": 597015,
+      "word": "猎罪图鉴2",
+      "onboard_time": 1727243960,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 477188,
       "num": 477188,
       "word": "法院4.2元拍卖一瓶大雪碧限自提",
@@ -2579,6 +2595,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 419772,
+      "num": 419772,
+      "word": "楠丁格尔先生",
+      "onboard_time": 1727236220,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 418621,
       "num": 418621,
       "word": "北上广的鸡娃工厂批量倒闭",
@@ -2819,14 +2843,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 383084,
-      "num": 597015,
-      "word": "猎罪图鉴2",
-      "onboard_time": 1727243960,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 381792,
       "num": 278867,
       "word": "警方通报男子踹倒骑自行车男孩",
@@ -2892,7 +2908,7 @@
     },
     {
       "raw_hot": 372145,
-      "num": 372145,
+      "num": 407649,
       "word": "赵丽颖辛芷蕾新片入围东京电影节",
       "onboard_time": 1727246118,
       "rank": 27,
@@ -2985,6 +3001,14 @@
       "onboard_time": 1726993039,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 363513,
+      "num": 363513,
+      "word": "将新娘绑电线杆上当事人道歉",
+      "onboard_time": 1727247738,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 363451,
@@ -3275,14 +3299,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 329485,
-      "num": 329485,
-      "word": "安乐死胶囊舱首次在瑞士使用",
-      "onboard_time": 1727247080,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 329078,
       "num": 329078,
       "word": "大伯长期喝浓茶得胆结石做7次手术",
@@ -3563,6 +3579,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 290599,
+      "num": 417003,
+      "word": "金晨 我是一个超敏感的人",
+      "onboard_time": 1727245459,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 290433,
       "num": 290294,
       "word": "无限暖暖",
@@ -3585,6 +3609,14 @@
       "onboard_time": 1727153001,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 284948,
+      "num": 405581,
+      "word": "A股成交额重破万亿",
+      "onboard_time": 1727246180,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 283200,
@@ -3995,14 +4027,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 260741,
-      "num": 260741,
-      "word": "金晨 我是一个超敏感的人",
-      "onboard_time": 1727245459,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 260653,
       "num": 260653,
       "word": "雷佳音飞天奖视帝",
@@ -4017,14 +4041,6 @@
       "onboard_time": 1726979841,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 260250,
-      "num": 260250,
-      "word": "将新娘绑电线杆上当事人道歉",
-      "onboard_time": 1727247738,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 259307,
@@ -4265,14 +4281,6 @@
       "onboard_time": 1727154261,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 242246,
-      "num": 258001,
-      "word": "楠丁格尔先生",
-      "onboard_time": 1727236220,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 242212,
@@ -4667,14 +4675,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 222236,
-      "num": 405581,
-      "word": "A股成交额重破万亿",
-      "onboard_time": 1727246180,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 221383,
       "num": 221383,
       "word": "绝区零1.2",
@@ -5025,6 +5025,14 @@
       "onboard_time": 1727248340,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 206790,
+      "num": 206790,
+      "word": "捡糖cp",
+      "onboard_time": 1727247019,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 206766,
@@ -5643,6 +5651,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 195574,
+      "num": 195574,
+      "word": "一路繁花",
+      "onboard_time": 1727249360,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 195569,
       "num": 195569,
       "word": "无限暖暖实机演示",
@@ -5897,14 +5913,6 @@
       "onboard_time": 1727064862,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 191244,
-      "num": 191244,
-      "word": "捡糖cp",
-      "onboard_time": 1727247019,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 191219,
@@ -7107,6 +7115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 161410,
+      "num": 161410,
+      "word": "警方通报女子12楼外墙施工遭老太割绳",
+      "onboard_time": 1727249240,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 161256,
       "num": 161256,
       "word": "迪丽热巴超飒花絮图",
@@ -7443,6 +7459,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 150472,
+      "num": 150472,
+      "word": "Yamy老钱风穿搭",
+      "onboard_time": 1727249601,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 150400,
       "num": 150400,
       "word": "大生意人预告",
@@ -7649,6 +7673,14 @@
       "onboard_time": 1727098401,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 147363,
+      "num": 297064,
+      "word": "A股市场交投氛围火爆",
+      "onboard_time": 1727246480,
+      "rank": 13,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 146852,
@@ -8307,12 +8339,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 130884,
+      "num": 130884,
+      "word": "才发现小学课本里的全是细糠",
+      "onboard_time": 1727249478,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 130533,
       "num": 130533,
       "word": "何广智职业最大危机是哈妮克孜",
       "onboard_time": 1726972999,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 130519,
+      "num": 130519,
+      "word": "田嘉瑞古偶惨人赛道上新",
+      "onboard_time": 1727249660,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 130391,
@@ -9771,7 +9819,7 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 69336,
+      "raw_hot": 69785,
       "num": 454769,
       "word": "小小米线店一月流水50万能信吗",
       "onboard_time": 1727248038,
@@ -10387,6 +10435,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 46806,
+      "num": 393100,
+      "word": "多城出台政策鼓励购买大面积住宅",
+      "onboard_time": 1727247919,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 46679,
       "num": 52332,
       "word": "俄外长称普京支持哈里斯是玩笑话",
@@ -10571,6 +10627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 42271,
+      "num": 438623,
+      "word": "全网都在找这辆红色SUV",
+      "onboard_time": 1727247619,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 41982,
       "num": 365606,
       "word": "河北省旅发大会在廊坊启幕",
@@ -10600,14 +10664,6 @@
       "word": "直播带货或更快告别草莽时代",
       "onboard_time": 1727104460,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 41059,
-      "num": 391439,
-      "word": "多城出台政策鼓励购买大面积住宅",
-      "onboard_time": 1727247919,
-      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -10657,14 +10713,6 @@
       "onboard_time": 1727245699,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 39695,
-      "num": 297064,
-      "word": "A股市场交投氛围火爆",
-      "onboard_time": 1727246480,
-      "rank": 13,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 39663,
@@ -10811,6 +10859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 36154,
+      "num": 383279,
+      "word": "本月三家大牌在京东独家发售",
+      "onboard_time": 1727248879,
+      "rank": 20,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 35905,
       "num": 56607,
       "word": "葫芦果音乐节",
@@ -10899,6 +10955,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 34113,
+      "num": 1097832,
+      "word": "被丰收的颜色惊艳到了",
+      "onboard_time": 1727241621,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 34032,
       "num": 354786,
       "word": "广州多个写字楼存在宽带垄断",
@@ -10921,6 +10985,14 @@
       "onboard_time": 1727198954,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 33307,
+      "num": 585299,
+      "word": "案值5000多万香烟走私案侦破现场",
+      "onboard_time": 1727248038,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 32633,
@@ -10968,14 +11040,6 @@
       "word": "河南商丘69个乡镇遭受洪涝灾害",
       "onboard_time": 1727187681,
       "rank": 13,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 31023,
-      "num": 438623,
-      "word": "全网都在找这辆红色SUV",
-      "onboard_time": 1727247619,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -11211,14 +11275,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 27522,
-      "num": 585299,
-      "word": "案值5000多万香烟走私案侦破现场",
-      "onboard_time": 1727248038,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 27396,
       "num": 1071324,
       "word": "第四届中国新电商大会",
@@ -11385,14 +11441,6 @@
       "onboard_time": 1727071290,
       "rank": 12,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 22368,
-      "num": 1097832,
-      "word": "被丰收的颜色惊艳到了",
-      "onboard_time": 1727241621,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 21838,
@@ -11577,6 +11625,14 @@
       "onboard_time": 1727164819,
       "rank": 39,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 15390,
+      "num": 484185,
+      "word": "大摩称A股或跑赢新兴市场",
+      "onboard_time": 1727249180,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 15239,

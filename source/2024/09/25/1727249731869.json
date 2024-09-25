@@ -1,0 +1,410 @@
+{
+  "runTime": 1727249731869,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1655109,
+        "num": 1655109,
+        "word": "苹果商店软件涉黄",
+        "onboard_time": 1727247679,
+        "rank": 0,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 1000689,
+        "num": 1000689,
+        "word": "12306回应部分车票一开售就是候补",
+        "onboard_time": 1727238981,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34113,
+        "num": 730299,
+        "word": "被丰收的颜色惊艳到了",
+        "onboard_time": 1727241621,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 729156,
+        "num": 729156,
+        "word": "王楚钦中国冠封面",
+        "onboard_time": 1727246538,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 664293,
+        "num": 664293,
+        "word": "星汉灿烂 书卷一梦",
+        "onboard_time": 1727243000,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 628255,
+        "num": 628255,
+        "word": "金饰价格涨到778元每克",
+        "onboard_time": 1727244380,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 589713,
+        "num": 589713,
+        "word": "12306提醒国庆假期车票应该怎么抢",
+        "onboard_time": 1727242881,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 581283,
+        "num": 581283,
+        "word": "我军向太平洋发射洲际弹道导弹",
+        "onboard_time": 1727231179,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 477446,
+        "num": 580932,
+        "word": "猎罪图鉴2",
+        "onboard_time": 1727243960,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 33307,
+        "num": 580847,
+        "word": "案值5000多万香烟走私案侦破现场",
+        "onboard_time": 1727248038,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 580818,
+        "num": 580818,
+        "word": "安乐死胶囊舱首次在瑞士使用",
+        "onboard_time": 1727247080,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 556350,
+        "num": 556350,
+        "word": "继承房产要去世百年老人死亡证明",
+        "onboard_time": 1727242580,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 15390,
+        "num": 484185,
+        "word": "大摩称A股或跑赢新兴市场",
+        "onboard_time": 1727249180,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 69785,
+        "num": 451862,
+        "word": "小小米线店一月流水50万能信吗",
+        "onboard_time": 1727248038,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 42271,
+        "num": 433865,
+        "word": "全网都在找这辆红色SUV",
+        "onboard_time": 1727247619,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 419772,
+        "num": 419772,
+        "word": "楠丁格尔先生",
+        "onboard_time": 1727236220,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 290599,
+        "num": 417003,
+        "word": "金晨 我是一个超敏感的人",
+        "onboard_time": 1727245459,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 267827,
+        "num": 407649,
+        "word": "赵丽颖辛芷蕾新片入围东京电影节",
+        "onboard_time": 1727246118,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 46806,
+        "num": 393100,
+        "word": "多城出台政策鼓励购买大面积住宅",
+        "onboard_time": 1727247919,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262672,
+        "num": 385802,
+        "word": "周扬青 果然男人最懂男人",
+        "onboard_time": 1727238320,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 36154,
+        "num": 383279,
+        "word": "本月三家大牌在京东独家发售",
+        "onboard_time": 1727248879,
+        "rank": 20,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 374509,
+        "num": 374509,
+        "word": "北上广的鸡娃工厂批量倒闭",
+        "onboard_time": 1727244258,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 363513,
+        "num": 363513,
+        "word": "将新娘绑电线杆上当事人道歉",
+        "onboard_time": 1727247738,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 284948,
+        "num": 284948,
+        "word": "A股成交额重破万亿",
+        "onboard_time": 1727246180,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 266938,
+        "num": 266938,
+        "word": "一网约车司机4年出200多次事故",
+        "onboard_time": 1727237000,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237013,
+        "num": 237013,
+        "word": "出去玩一次朋友圈发五年",
+        "onboard_time": 1727243239,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222668,
+        "num": 222668,
+        "word": "微博音乐盛典红毯",
+        "onboard_time": 1727243660,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 210221,
+        "num": 210221,
+        "word": "爱奇艺片单",
+        "onboard_time": 1727228839,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 206790,
+        "num": 206790,
+        "word": "捡糖cp",
+        "onboard_time": 1727247019,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195574,
+        "num": 195574,
+        "word": "一路繁花",
+        "onboard_time": 1727249360,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189723,
+        "num": 189723,
+        "word": "王楚钦形容自己像一支矛",
+        "onboard_time": 1727248038,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 179678,
+        "num": 179678,
+        "word": "猪肉冒充牛肉干电商卖了500万",
+        "onboard_time": 1727240183,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179251,
+        "num": 179251,
+        "word": "电影小小的我",
+        "onboard_time": 1727248340,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 176397,
+        "num": 176397,
+        "word": "女总裁六年没谈恋爱二战恋综",
+        "onboard_time": 1727239702,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174237,
+        "num": 174237,
+        "word": "夫妻用猪肉干冒充牛肉干卖出500余万",
+        "onboard_time": 1727243600,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38858,
+        "num": 170212,
+        "word": "灵犀你就宠她吧",
+        "onboard_time": 1727244800,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 169992,
+        "num": 169992,
+        "word": "你好种地少年2定档",
+        "onboard_time": 1727243000,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166358,
+        "num": 166358,
+        "word": "女子闪了腰仍坚持家务险致瘫痪",
+        "onboard_time": 1727239460,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165880,
+        "num": 165880,
+        "word": "星纪魅族AI生态发布会",
+        "onboard_time": 1727248700,
+        "rank": 38,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 161410,
+        "num": 161410,
+        "word": "警方通报女子12楼外墙施工遭老太割绳",
+        "onboard_time": 1727249240,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156025,
+        "num": 156025,
+        "word": "中国实射洲际导弹有利于周边局势稳定",
+        "onboard_time": 1727247139,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152820,
+        "num": 152820,
+        "word": "80后中产父母开始抛弃国际学校了",
+        "onboard_time": 1727238861,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150472,
+        "num": 150472,
+        "word": "Yamy老钱风穿搭",
+        "onboard_time": 1727249601,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147497,
+        "num": 147497,
+        "word": "迪丽热巴成功追星娜塔莉波特曼",
+        "onboard_time": 1727224280,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 146378,
+        "num": 147383,
+        "word": "学校景区附近主题房是偷拍重灾区",
+        "onboard_time": 1727239281,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147363,
+        "num": 147363,
+        "word": "A股市场交投氛围火爆",
+        "onboard_time": 1727246480,
+        "rank": 45,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 136033,
+        "num": 136033,
+        "word": "周雨彤半熟男女原来是本色出演",
+        "onboard_time": 1727244920,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133340,
+        "num": 133340,
+        "word": "赵丽颖尹昉新剧吻戏",
+        "onboard_time": 1727233280,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130884,
+        "num": 130884,
+        "word": "才发现小学课本里的全是细糠",
+        "onboard_time": 1727249478,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 130519,
+        "num": 130519,
+        "word": "田嘉瑞古偶惨人赛道上新",
+        "onboard_time": 1727249660,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#嫦娥既是中国的又属于全人类#"
+    }
+  }
+}
