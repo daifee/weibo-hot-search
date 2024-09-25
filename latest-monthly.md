@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/09/01 00:25:38 ~ 2024/09/25 22:22:04
+本榜单时间：2024/09/01 00:25:38 ~ 2024/09/25 22:40:36
 </p>
 </blockquote>
 <p>
@@ -4641,6 +4641,12 @@ iPhone16定价（热度：1011795）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%88%B1%E5%A5%87%E8%89%BA%E5%89%AF%E6%80%BB%E8%A3%81%E5%9B%9E%E5%BA%94%E6%A5%A0%E4%B8%81%E6%A0%BC%E5%B0%94%E7%89%87%E5%90%8D%23" target="weibo">
+爱奇艺副总裁回应楠丁格尔片名（热度：1000508）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E7%88%B8%E7%9A%84%E5%BC%80%E5%BF%83%E6%B6%88%E6%B6%88%E4%B9%90%E5%81%9C%E5%9C%A8%E4%BA%868739%E5%85%B3%23" target="weibo">
 我爸的开心消消乐停在了8739关（热度：998129）
 </a>
@@ -6005,12 +6011,6 @@ Angelababy鞠躬感谢粉丝（热度：852648）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2312306%E5%9B%9E%E5%BA%94%E5%88%97%E8%BD%A6%E5%91%98%E6%9C%89%E7%BA%B9%E8%BA%AB%23" target="weibo">
 12306回应列车员有纹身（热度：838236）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23WBG%E6%88%98%E8%83%9CJDG%23" target="weibo">
-WBG战胜JDG（热度：837121）
 </a>
 </li>
 
