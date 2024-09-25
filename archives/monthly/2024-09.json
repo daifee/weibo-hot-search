@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1727220943228,
+  "endTime": 1727228572506,
   "band_list": [
     {
       "raw_hot": 28035334,
@@ -5219,6 +5219,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1093035,
+      "num": 1174885,
+      "word": "韩安冉说小英没有塌房",
+      "onboard_time": 1727223680,
+      "rank": 0,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1091769,
       "num": 1091769,
       "word": "辽宁大连3.7级地震",
@@ -8035,6 +8043,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 818510,
+      "num": 264285,
+      "word": "8女大学生被强奸嫌疑人被放再犯新案",
+      "onboard_time": 1727226141,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 818200,
       "num": 818200,
       "word": "网曝安徽一中学4个学生吃1盆菜",
@@ -8561,6 +8577,14 @@
       "onboard_time": 1726912522,
       "rank": 9,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 786800,
+      "num": 439654,
+      "word": "迪丽热巴成功追星娜塔莉波特曼",
+      "onboard_time": 1727224280,
+      "rank": 3,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 785331,
@@ -11363,6 +11387,14 @@
       "category": "演出,体育"
     },
     {
+      "raw_hot": 622732,
+      "num": 116905,
+      "word": "8岁女童小区内坠井身亡母亲发声",
+      "onboard_time": 1727224219,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 622597,
       "num": 622597,
       "word": "赵露思赵丽颖演同一小说",
@@ -14121,6 +14153,14 @@
       "onboard_time": 1725783980,
       "rank": 32,
       "category": "网红"
+    },
+    {
+      "raw_hot": 512968,
+      "num": 263478,
+      "word": "考上公费师范生后我选择违约",
+      "onboard_time": 1727224340,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 512868,
@@ -17899,6 +17939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 399367,
+      "num": 282753,
+      "word": "赵丽颖带火的簪花渔村现状",
+      "onboard_time": 1727223799,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 399289,
       "num": 399289,
       "word": "中国队94金73银49铜断层领跑",
@@ -18545,6 +18593,14 @@
       "onboard_time": 1726116022,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 380057,
+      "num": 262417,
+      "word": "杜江找肖战要签名后续",
+      "onboard_time": 1727223860,
+      "rank": 13,
+      "category": "音乐"
     },
     {
       "raw_hot": 379991,
@@ -22137,6 +22193,14 @@
       "onboard_time": 1725506058,
       "rank": 16,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 305362,
+      "num": 261650,
+      "word": "全红婵说大家都这么帅啊",
+      "onboard_time": 1727220497,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 305349,
@@ -25899,6 +25963,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 257453,
+      "num": 264444,
+      "word": "石家庄民宿摄像头",
+      "onboard_time": 1727188701,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 257364,
       "num": 257364,
       "word": "被人咬伤比被动物咬伤更严重",
@@ -25953,6 +26025,14 @@
       "onboard_time": 1727058873,
       "rank": 21,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 256969,
+      "num": 232166,
+      "word": "你是我见过班味最重的",
+      "onboard_time": 1727225959,
+      "rank": 20,
+      "category": "幽默"
     },
     {
       "raw_hot": 256961,
@@ -26281,6 +26361,14 @@
       "onboard_time": 1726402521,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 252790,
+      "num": 252790,
+      "word": "沈以诚播客下架",
+      "onboard_time": 1727224460,
+      "rank": 17,
+      "category": "音乐"
     },
     {
       "raw_hot": 252679,
@@ -27291,14 +27379,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 242909,
-      "num": 240325,
-      "word": "石家庄民宿摄像头",
-      "onboard_time": 1727188701,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 242866,
       "num": 242866,
       "word": "清澈的爱只为中国",
@@ -27577,6 +27657,14 @@
       "onboard_time": 1725873747,
       "rank": 43,
       "category": "网红"
+    },
+    {
+      "raw_hot": 240922,
+      "num": 240922,
+      "word": "电视剧家业",
+      "onboard_time": 1727222780,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 240831,
@@ -28497,6 +28585,14 @@
       "onboard_time": 1726317742,
       "rank": 35,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 233539,
+      "num": 233539,
+      "word": "中国维和部队排除未爆火箭弹",
+      "onboard_time": 1727226559,
+      "rank": 19,
+      "category": "国内时政"
     },
     {
       "raw_hot": 233511,
@@ -29777,6 +29873,14 @@
       "onboard_time": 1725855859,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 223579,
+      "num": 223579,
+      "word": "楚乔传的含金量还在上升",
+      "onboard_time": 1727224340,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 223491,
@@ -32163,6 +32267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 207834,
+      "num": 207834,
+      "word": "炉石传说",
+      "onboard_time": 1727166258,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 207819,
       "num": 207819,
       "word": "赵今麦薄荷曼波长尾裙",
@@ -33809,6 +33921,14 @@
       "onboard_time": 1725697221,
       "rank": 41,
       "category": "演出"
+    },
+    {
+      "raw_hot": 201277,
+      "num": 201277,
+      "word": "一市民4元机选彩票中1000万元",
+      "onboard_time": 1727225060,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 201264,
@@ -39043,6 +39163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 183323,
+      "num": 183323,
+      "word": "极乐鸟",
+      "onboard_time": 1727223320,
+      "rank": 26,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 183271,
       "num": 301797,
       "word": "电影小丑2定档",
@@ -39563,14 +39691,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 181263,
-      "num": 181263,
-      "word": "炉石传说",
-      "onboard_time": 1727166258,
-      "rank": 49,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 181249,
       "num": 201118,
       "word": "Jennie10月solo回归",
@@ -39737,6 +39857,14 @@
       "onboard_time": 1725530839,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 180511,
+      "num": 180511,
+      "word": "猫 咬完就跑好刺激",
+      "onboard_time": 1727225959,
+      "rank": 27,
+      "category": "幽默"
     },
     {
       "raw_hot": 180404,
@@ -40785,6 +40913,14 @@
       "onboard_time": 1725698781,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 176509,
+      "num": 225196,
+      "word": "强冷空气已预定国庆档期",
+      "onboard_time": 1727184559,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 176495,
@@ -42529,6 +42665,14 @@
       "onboard_time": 1726577122,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 170071,
+      "num": 170071,
+      "word": "邓为扛住了外媒镜头",
+      "onboard_time": 1727226320,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 170063,
@@ -45195,14 +45339,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 160084,
-      "num": 225196,
-      "word": "强冷空气已预定国庆档期",
-      "onboard_time": 1727184559,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 160062,
       "num": 160062,
       "word": "Viper生涯首个LCK冠军",
@@ -45673,6 +45809,14 @@
       "onboard_time": 1726371258,
       "rank": 39,
       "category": "教育"
+    },
+    {
+      "raw_hot": 158429,
+      "num": 146698,
+      "word": "朴彩英巴黎路透",
+      "onboard_time": 1727225419,
+      "rank": 33,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 158416,
@@ -49835,6 +49979,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 144206,
+      "num": 144206,
+      "word": "有种慢性疲劳叫累丑",
+      "onboard_time": 1727221998,
+      "rank": 34,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 144109,
       "num": 144109,
       "word": "田曦薇米兰生图",
@@ -49921,6 +50073,14 @@
       "onboard_time": 1727104039,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 143732,
+      "num": 143732,
+      "word": "博士妻子陪失意丈夫卖甜水",
+      "onboard_time": 1727228179,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 143721,
@@ -51723,6 +51883,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 136935,
+      "num": 136935,
+      "word": "墨雨云间庆功宴合影",
+      "onboard_time": 1727225600,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 136927,
       "num": 136927,
       "word": "林诗栋说不会有什么庆祝",
@@ -52881,6 +53049,14 @@
       "onboard_time": 1726535359,
       "rank": 49,
       "category": "数码"
+    },
+    {
+      "raw_hot": 132593,
+      "num": 132593,
+      "word": "最简单的减肥方法",
+      "onboard_time": 1727226379,
+      "rank": 37,
+      "category": "运动健身"
     },
     {
       "raw_hot": 132589,
@@ -55955,6 +56131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 118436,
+      "num": 118436,
+      "word": "炉石传说将补偿玩家2023年全部卡牌",
+      "onboard_time": 1727227818,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 118421,
       "num": 118421,
       "word": "河南卫视秋晚",
@@ -57163,6 +57347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 112314,
+      "num": 112314,
+      "word": "落日熔金具象化了",
+      "onboard_time": 1727227818,
+      "rank": 45,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 112207,
       "num": 112207,
       "word": "郑钦文今年大满贯成绩",
@@ -57387,6 +57579,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 111009,
+      "num": 111009,
+      "word": "张鲁一用手写瘦金体告别吴邪",
+      "onboard_time": 1727223320,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 110860,
       "num": 147739,
       "word": "周深华丽唱腔表现大场面",
@@ -57520,6 +57720,14 @@
       "word": "山花烂漫时 不雌竞的女性关系",
       "onboard_time": 1726906399,
       "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 110261,
+      "num": 110261,
+      "word": "林少白我一个月工资才多少",
+      "onboard_time": 1727228537,
+      "rank": 47,
       "category": "剧集"
     },
     {
@@ -57697,6 +57905,14 @@
       "onboard_time": 1726589238,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 108620,
+      "num": 108620,
+      "word": "贺峻霖晒中传校庆邀请函",
+      "onboard_time": 1727227579,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 108604,
@@ -62619,14 +62835,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 66384,
-      "num": 66384,
-      "word": "全红婵说大家都这么帅啊",
-      "onboard_time": 1727220497,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 66360,
       "num": 66360,
       "word": "郑棋元签唱会",
@@ -63952,6 +64160,14 @@
       "word": "买校服牛奶才办入学涉事学校被整改",
       "onboard_time": 1725389052,
       "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 56335,
+      "num": 202766,
+      "word": "英国老兵一辈子都记得感谢中国渔民",
+      "onboard_time": 1727222420,
+      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -67081,6 +67297,14 @@
       "onboard_time": 1727172679,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 40307,
+      "num": 117522,
+      "word": "京西小故宫你可太会了",
+      "onboard_time": 1727226258,
+      "rank": 41,
+      "category": "旅游"
     },
     {
       "raw_hot": 40293,

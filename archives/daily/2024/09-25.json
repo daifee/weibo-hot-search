@@ -1,7 +1,15 @@
 {
   "startTime": 1727195285620,
-  "endTime": 1727220943228,
+  "endTime": 1727228572506,
   "band_list": [
+    {
+      "raw_hot": 1093035,
+      "num": 1174885,
+      "word": "韩安冉说小英没有塌房",
+      "onboard_time": 1727223680,
+      "rank": 0,
+      "category": "网红"
+    },
     {
       "raw_hot": 1075725,
       "num": 1075725,
@@ -11,12 +19,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 818510,
+      "num": 264285,
+      "word": "8女大学生被强奸嫌疑人被放再犯新案",
+      "onboard_time": 1727226141,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 812186,
       "num": 917606,
       "word": "网红小英不能开着路虎卖惨",
       "onboard_time": 1727175258,
       "rank": 0,
       "category": "网红"
+    },
+    {
+      "raw_hot": 786800,
+      "num": 439654,
+      "word": "迪丽热巴成功追星娜塔莉波特曼",
+      "onboard_time": 1727224280,
+      "rank": 3,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 739217,
@@ -43,6 +67,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 622732,
+      "num": 116905,
+      "word": "8岁女童小区内坠井身亡母亲发声",
+      "onboard_time": 1727224219,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 590213,
       "num": 590213,
       "word": "南京街头现大量百元钞票",
@@ -56,6 +88,14 @@
       "word": "深圳一男子被悬赏340万",
       "onboard_time": 1727189002,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 512968,
+      "num": 263478,
+      "word": "考上公费师范生后我选择违约",
+      "onboard_time": 1727224340,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -89,6 +129,22 @@
       "onboard_time": 1727190140,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 399367,
+      "num": 282753,
+      "word": "赵丽颖带火的簪花渔村现状",
+      "onboard_time": 1727223799,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 380057,
+      "num": 262417,
+      "word": "杜江找肖战要签名后续",
+      "onboard_time": 1727223860,
+      "rank": 13,
+      "category": "音乐"
     },
     {
       "raw_hot": 360805,
@@ -131,12 +187,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 305362,
+      "num": 261650,
+      "word": "全红婵说大家都这么帅啊",
+      "onboard_time": 1727220497,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 281534,
       "num": 230844,
       "word": "石家庄一涉摄像头事件民宿歇业关闭",
       "onboard_time": 1727187080,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 261240,
+      "num": 261240,
+      "word": "A股",
+      "onboard_time": 1727228058,
+      "rank": 16,
+      "category": "财经"
     },
     {
       "raw_hot": 261129,
@@ -155,12 +227,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 257453,
+      "num": 264444,
+      "word": "石家庄民宿摄像头",
+      "onboard_time": 1727227698,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 256969,
+      "num": 232166,
+      "word": "你是我见过班味最重的",
+      "onboard_time": 1727225959,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 256849,
       "num": 284892,
       "word": "东北雨姐直播间酸菜疑货不对板",
       "onboard_time": 1727194338,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 252790,
+      "num": 252790,
+      "word": "沈以诚播客下架",
+      "onboard_time": 1727224460,
+      "rank": 17,
+      "category": "音乐"
     },
     {
       "raw_hot": 252119,
@@ -179,11 +275,51 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 240922,
+      "num": 240922,
+      "word": "电视剧家业",
+      "onboard_time": 1727222780,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 233539,
+      "num": 233539,
+      "word": "中国维和部队排除未爆火箭弹",
+      "onboard_time": 1727226559,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 223579,
+      "num": 223579,
+      "word": "楚乔传的含金量还在上升",
+      "onboard_time": 1727224340,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 207834,
+      "num": 207834,
+      "word": "炉石传说",
+      "onboard_time": 1727197514,
+      "rank": 10,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 207613,
-      "num": 155514,
+      "num": 173031,
       "word": "大爷凌晨卖菜只赚27元被骗200元",
       "onboard_time": 1727181319,
       "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 201277,
+      "num": 201277,
+      "word": "一市民4元机选彩票中1000万元",
+      "onboard_time": 1727225060,
+      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -195,12 +331,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 181263,
-      "num": 181263,
-      "word": "炉石传说",
-      "onboard_time": 1727197514,
-      "rank": 10,
-      "category": "游戏"
+      "raw_hot": 183323,
+      "num": 183323,
+      "word": "极乐鸟",
+      "onboard_time": 1727223320,
+      "rank": 26,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 180511,
+      "num": 180511,
+      "word": "猫 咬完就跑好刺激",
+      "onboard_time": 1727225959,
+      "rank": 27,
+      "category": "幽默"
     },
     {
       "raw_hot": 180110,
@@ -219,12 +363,28 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 176509,
+      "num": 176509,
+      "word": "强冷空气已预定国庆档期",
+      "onboard_time": 1727184559,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 173755,
       "num": 173755,
       "word": "民宿业主与安装摄像头3人不相识",
       "onboard_time": 1727192959,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 170071,
+      "num": 170071,
+      "word": "邓为扛住了外媒镜头",
+      "onboard_time": 1727226320,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 169381,
@@ -243,6 +403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 158429,
+      "num": 146698,
+      "word": "朴彩英巴黎路透",
+      "onboard_time": 1727225419,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 149013,
       "num": 149013,
       "word": "我们一般都喝wps",
@@ -259,6 +427,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 144206,
+      "num": 144206,
+      "word": "有种慢性疲劳叫累丑",
+      "onboard_time": 1727221998,
+      "rank": 34,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 144032,
       "num": 144032,
       "word": "黎巴嫩经历最血腥一天",
@@ -267,12 +443,36 @@
       "category": "社会新闻,国外时政"
     },
     {
+      "raw_hot": 143732,
+      "num": 143732,
+      "word": "博士妻子陪失意丈夫卖甜水",
+      "onboard_time": 1727228179,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 140888,
       "num": 238565,
       "word": "男子刷手机掉海里漂了3小时",
       "onboard_time": 1727177058,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 136935,
+      "num": 136935,
+      "word": "墨雨云间庆功宴合影",
+      "onboard_time": 1727225600,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 132593,
+      "num": 132593,
+      "word": "最简单的减肥方法",
+      "onboard_time": 1727226379,
+      "rank": 37,
+      "category": "运动健身"
     },
     {
       "raw_hot": 130048,
@@ -297,6 +497,14 @@
       "onboard_time": 1727186960,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 118436,
+      "num": 118436,
+      "word": "炉石传说将补偿玩家2023年全部卡牌",
+      "onboard_time": 1727227818,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 118340,
@@ -331,12 +539,44 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 112314,
+      "num": 112314,
+      "word": "落日熔金具象化了",
+      "onboard_time": 1727227818,
+      "rank": 45,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 111009,
+      "num": 111009,
+      "word": "张鲁一用手写瘦金体告别吴邪",
+      "onboard_time": 1727223320,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 110261,
+      "num": 110261,
+      "word": "林少白我一个月工资才多少",
+      "onboard_time": 1727228537,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 110234,
       "num": 110234,
       "word": "云南地里是有放射性物质么",
       "onboard_time": 1727191880,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 108620,
+      "num": 108620,
+      "word": "贺峻霖晒中传校庆邀请函",
+      "onboard_time": 1727227579,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 99928,
@@ -352,14 +592,6 @@
       "word": "男子4分钟买俩金镯店员报警",
       "onboard_time": 1727171358,
       "rank": 40,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 97504,
-      "num": 97504,
-      "word": "强冷空气已预定国庆档期",
-      "onboard_time": 1727184559,
-      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -507,14 +739,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 66384,
-      "num": 66384,
-      "word": "全红婵说大家都这么帅啊",
-      "onboard_time": 1727220497,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 63179,
       "num": 63179,
       "word": "卫昭 月落的地方就是家的方向",
@@ -545,6 +769,14 @@
       "onboard_time": 1727209510,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 56335,
+      "num": 202766,
+      "word": "英国老兵一辈子都记得感谢中国渔民",
+      "onboard_time": 1727222420,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 53189,
@@ -601,6 +833,14 @@
       "onboard_time": 1727203572,
       "rank": 14,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 40307,
+      "num": 117522,
+      "word": "京西小故宫你可太会了",
+      "onboard_time": 1727226258,
+      "rank": 41,
+      "category": "旅游"
     },
     {
       "raw_hot": 37924,
@@ -675,7 +915,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 5149,
+      "raw_hot": 7750,
       "num": 686359,
       "word": "老铁山单日记录迁徙猛禽过万只",
       "onboard_time": 1727148199,
