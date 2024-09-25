@@ -1,0 +1,410 @@
+{
+  "runTime": 1727253841729,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2008985,
+        "num": 2008985,
+        "word": "公司禁止员工带苹果手机进入",
+        "onboard_time": 1727251100,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1083309,
+        "num": 1083309,
+        "word": "苹果商店软件涉黄",
+        "onboard_time": 1727247679,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 45128,
+        "num": 800416,
+        "word": "我国成功发射一箭5星",
+        "onboard_time": 1727252060,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 701880,
+        "num": 701880,
+        "word": "安乐死胶囊舱首次在瑞士使用",
+        "onboard_time": 1727247080,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 591916,
+        "num": 591916,
+        "word": "猎罪图鉴2",
+        "onboard_time": 1727243960,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 556125,
+        "num": 556125,
+        "word": "12306回应部分车票一开售就是候补",
+        "onboard_time": 1727238981,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 413391,
+        "num": 413391,
+        "word": "金饰价格涨到778元每克",
+        "onboard_time": 1727244380,
+        "rank": 6,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 386819,
+        "num": 386819,
+        "word": "星汉灿烂 书卷一梦",
+        "onboard_time": 1727243000,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 367583,
+        "num": 367583,
+        "word": "周深说时代少年团有熟人",
+        "onboard_time": 1727252301,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 194889,
+        "num": 365000,
+        "word": "我军向太平洋发射洲际弹道导弹",
+        "onboard_time": 1727231179,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1185245,
+        "num": 362307,
+        "word": "将新娘绑电线杆上当事人道歉",
+        "onboard_time": 1727247738,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34605,
+        "num": 358149,
+        "word": "世界之外星际副本",
+        "onboard_time": 1727250620,
+        "rank": 11,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 664414,
+        "num": 353397,
+        "word": "楠丁格尔先生",
+        "onboard_time": 1727236220,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22739,
+        "num": 348865,
+        "word": "公司虚构项目诈骗百余老人1500万",
+        "onboard_time": 1727253560,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 345915,
+        "num": 345915,
+        "word": "一路繁花",
+        "onboard_time": 1727249360,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 461408,
+        "num": 335496,
+        "word": "楠丁格尔先生片名引争议",
+        "onboard_time": 1727251221,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 355303,
+        "num": 324253,
+        "word": "石家庄民宿",
+        "onboard_time": 1727252660,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290446,
+        "num": 290446,
+        "word": "12306提醒国庆假期车票应该怎么抢",
+        "onboard_time": 1727242881,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 287450,
+        "num": 287450,
+        "word": "梦回何以琛",
+        "onboard_time": 1727250259,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 49060,
+        "num": 285960,
+        "word": "本月三家大牌在京东独家发售",
+        "onboard_time": 1727248879,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 428256,
+        "num": 285954,
+        "word": "路人捡金手镯后扔掉判赔1万6",
+        "onboard_time": 1727252241,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 285605,
+        "num": 285605,
+        "word": "南丁格尔是女护士",
+        "onboard_time": 1727251580,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 274990,
+        "num": 274990,
+        "word": "警方通报女子12楼外墙施工遭老太割绳",
+        "onboard_time": 1727249240,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262033,
+        "num": 262033,
+        "word": "影子团队向石家庄人民公开致歉",
+        "onboard_time": 1727250801,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34889,
+        "num": 241197,
+        "word": "男子一房4卖骗140万获刑11年",
+        "onboard_time": 1727251940,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231766,
+        "num": 231766,
+        "word": "刘奕君与女儿合拍大片",
+        "onboard_time": 1727251341,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211283,
+        "num": 211283,
+        "word": "爱奇艺片单",
+        "onboard_time": 1727228839,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 188575,
+        "num": 204391,
+        "word": "微博音乐盛典红毯",
+        "onboard_time": 1727243660,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 168529,
+        "num": 203440,
+        "word": "电影小小的我",
+        "onboard_time": 1727248340,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 97061,
+        "num": 203163,
+        "word": "RED首次红毯",
+        "onboard_time": 1727251159,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 203086,
+        "num": 203086,
+        "word": "伊朗总统准备与大国合作结束核僵局",
+        "onboard_time": 1727250740,
+        "rank": 30,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 196295,
+        "num": 196295,
+        "word": "跳绳是减肥效果最好的运动",
+        "onboard_time": 1727252840,
+        "rank": 31,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 190183,
+        "num": 190183,
+        "word": "继承房产要去世百年老人死亡证明",
+        "onboard_time": 1727242580,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164082,
+        "num": 164082,
+        "word": "莫让偷拍黑产坑垮了民宿",
+        "onboard_time": 1727250919,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 43042,
+        "num": 162540,
+        "word": "媒体谈医院造假骗保事件",
+        "onboard_time": 1727251940,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162227,
+        "num": 162227,
+        "word": "民宿老板售卖偷拍视频日收入五位数",
+        "onboard_time": 1727253261,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155749,
+        "num": 155749,
+        "word": "出去玩一次朋友圈发五年",
+        "onboard_time": 1727243239,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150760,
+        "num": 150760,
+        "word": "一网约车司机4年出200多次事故",
+        "onboard_time": 1727237000,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145412,
+        "num": 145412,
+        "word": "年轻人的旅游阈值越来越高了",
+        "onboard_time": 1727251459,
+        "rank": 38,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 145186,
+        "num": 145186,
+        "word": "吴宣仪周柯宇一起走红毯",
+        "onboard_time": 1727252660,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 144369,
+        "num": 144369,
+        "word": "微博音乐盛典红毯生图",
+        "onboard_time": 1727253440,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 142044,
+        "num": 142044,
+        "word": "原来晚上10点就睡有这么多好处",
+        "onboard_time": 1727253501,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 137027,
+        "num": 137027,
+        "word": "贺峻霖将加盟一路繁花",
+        "onboard_time": 1727250801,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132764,
+        "num": 132764,
+        "word": "夫妻用猪肉干冒充牛肉干卖出500余万",
+        "onboard_time": 1727243600,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132378,
+        "num": 132378,
+        "word": "中国航天太牛了",
+        "onboard_time": 1727253321,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 132229,
+        "num": 132229,
+        "word": "北上广的鸡娃工厂批量倒闭",
+        "onboard_time": 1727244258,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129872,
+        "num": 129872,
+        "word": "国乒女队最新备战画面",
+        "onboard_time": 1727252360,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127076,
+        "num": 127076,
+        "word": "金晨 我是一个超敏感的人",
+        "onboard_time": 1727245459,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126353,
+        "num": 126353,
+        "word": "赵丽颖辛芷蕾新片入围东京电影节",
+        "onboard_time": 1727246118,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 114875,
+        "num": 114875,
+        "word": "王琳凯蓝蝴蝶耳钉",
+        "onboard_time": 1727252419,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#中华民族是一个大家庭#"
+    }
+  }
+}
