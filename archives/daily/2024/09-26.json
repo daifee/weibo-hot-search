@@ -1,6 +1,6 @@
 {
   "startTime": 1727281816744,
-  "endTime": 1727291757713,
+  "endTime": 1727292937578,
   "band_list": [
     {
       "raw_hot": 1228111,
@@ -475,8 +475,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 29221,
-      "num": 32007,
+      "raw_hot": 36910,
+      "num": 36910,
       "word": "沈小婷内娱红毯生图",
       "onboard_time": 1727289793,
       "rank": 49,
@@ -491,20 +491,28 @@
       "category": "电影"
     },
     {
-      "raw_hot": 21582,
-      "num": 21582,
+      "raw_hot": 23848,
+      "num": 23226,
       "word": "全能型强冷空气来袭",
       "onboard_time": 1727290392,
       "rank": 41,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 18414,
+      "raw_hot": 20033,
       "num": 21476,
       "word": "原生家庭对人的性格影响太大了",
       "onboard_time": 1727291112,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 16527,
+      "num": 19961,
+      "word": "人社局回应公司禁带苹果产品",
+      "onboard_time": 1727292611,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 8393,
