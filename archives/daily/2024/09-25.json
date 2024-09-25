@@ -1,7 +1,15 @@
 {
   "startTime": 1727195285620,
-  "endTime": 1727253841729,
+  "endTime": 1727256277508,
   "band_list": [
+    {
+      "raw_hot": 2727211,
+      "num": 2727211,
+      "word": "公司禁止员工带苹果手机进入",
+      "onboard_time": 1727251100,
+      "rank": 3,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 2135949,
       "num": 2135949,
@@ -9,14 +17,6 @@
       "onboard_time": 1727231179,
       "rank": 0,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 2008985,
-      "num": 2008985,
-      "word": "公司禁止员工带苹果手机进入",
-      "onboard_time": 1727251100,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1956055,
@@ -235,6 +235,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 708593,
+      "num": 404228,
+      "word": "石家庄民宿",
+      "onboard_time": 1727252660,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 688880,
       "num": 688880,
       "word": "猪肉冒充牛肉干电商卖了500万",
@@ -257,6 +265,14 @@
       "onboard_time": 1727236220,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 678541,
+      "num": 678541,
+      "word": "瑞士使用安乐死胶囊舱相关人员被捕",
+      "onboard_time": 1727254281,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 675813,
@@ -347,6 +363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 504728,
+      "num": 386025,
+      "word": "南丁格尔是女护士",
+      "onboard_time": 1727251580,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 503713,
       "num": 503713,
       "word": "王源朋友圈三天可见",
@@ -384,6 +408,14 @@
       "word": "秦皇岛巨响",
       "onboard_time": 1727190440,
       "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 471845,
+      "num": 471845,
+      "word": "47岁女教师成为大体老师重回母校",
+      "onboard_time": 1727254940,
+      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -547,6 +579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 360628,
+      "num": 360628,
+      "word": "电视剧遮天",
+      "onboard_time": 1727254519,
+      "rank": 14,
+      "category": "剧集,动漫"
+    },
+    {
       "raw_hot": 359677,
       "num": 359677,
       "word": "A股全面爆发",
@@ -560,14 +600,6 @@
       "word": "80后中产父母开始抛弃国际学校了",
       "onboard_time": 1727238861,
       "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 355303,
-      "num": 324253,
-      "word": "石家庄民宿",
-      "onboard_time": 1727252660,
-      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -609,6 +641,22 @@
       "onboard_time": 1727185340,
       "rank": 6,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 332371,
+      "num": 249350,
+      "word": "跳绳是减肥效果最好的运动",
+      "onboard_time": 1727252840,
+      "rank": 47,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 330593,
+      "num": 330593,
+      "word": "时代少年团西装牛仔混搭造型",
+      "onboard_time": 1727254221,
+      "rank": 16,
+      "category": "音乐"
     },
     {
       "raw_hot": 321552,
@@ -691,14 +739,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 285605,
-      "num": 285605,
-      "word": "南丁格尔是女护士",
-      "onboard_time": 1727251580,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 284948,
       "num": 405581,
       "word": "A股成交额重破万亿",
@@ -729,6 +769,14 @@
       "onboard_time": 1727251341,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 278554,
+      "num": 278554,
+      "word": "王嘉尔压轴",
+      "onboard_time": 1727254761,
+      "rank": 18,
+      "category": "音乐"
     },
     {
       "raw_hot": 275203,
@@ -803,6 +851,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 260268,
+      "num": 244038,
+      "word": "蒋梦婕黄黑皮",
+      "onboard_time": 1727255181,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 257941,
       "num": 232305,
       "word": "幼童被狗撕咬拖行狗主人找到了",
@@ -867,6 +923,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 239155,
+      "num": 239155,
+      "word": "余景天沈小婷一起走红毯",
+      "onboard_time": 1727254098,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 232514,
       "num": 232514,
       "word": "夫妻用猪肉干冒充牛肉干卖出500余万",
@@ -923,6 +987,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 213096,
+      "num": 213096,
+      "word": "又一酒店房间被曝摄像头正对床",
+      "onboard_time": 1727254881,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 209616,
+      "num": 209616,
+      "word": "闵熙珍继续担任NewJeans制作人",
+      "onboard_time": 1727256141,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 209544,
       "num": 209544,
       "word": "国乒女队大满贯首次训练",
@@ -961,6 +1041,14 @@
       "onboard_time": 1727247019,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 206784,
+      "num": 206784,
+      "word": "易方达回应五宗罪",
+      "onboard_time": 1727255781,
+      "rank": 29,
+      "category": "财经"
     },
     {
       "raw_hot": 204643,
@@ -1073,14 +1161,6 @@
       "onboard_time": 1727245940,
       "rank": 31,
       "category": "电影"
-    },
-    {
-      "raw_hot": 196295,
-      "num": 196295,
-      "word": "跳绳是减肥效果最好的运动",
-      "onboard_time": 1727252840,
-      "rank": 47,
-      "category": "运动健身"
     },
     {
       "raw_hot": 195734,
@@ -1243,6 +1323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 180667,
+      "num": 180667,
+      "word": "林志颖王心凌比心三连拍",
+      "onboard_time": 1727254761,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 180110,
       "num": 180110,
       "word": "成都不入秋了直接入冬",
@@ -1273,6 +1361,14 @@
       "onboard_time": 1727238020,
       "rank": 49,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 175844,
+      "num": 175844,
+      "word": "陈都灵 神女赛道",
+      "onboard_time": 1727255541,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 175247,
@@ -1353,6 +1449,14 @@
       "onboard_time": 1727247139,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 165663,
+      "num": 165663,
+      "word": "原来晚上10点就睡有这么多好处",
+      "onboard_time": 1727253501,
+      "rank": 41,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 165634,
@@ -1595,12 +1699,12 @@
       "category": "社会新闻,国外时政"
     },
     {
-      "raw_hot": 142044,
-      "num": 142044,
-      "word": "原来晚上10点就睡有这么多好处",
-      "onboard_time": 1727253501,
-      "rank": 41,
-      "category": "健康医疗"
+      "raw_hot": 142212,
+      "num": 348865,
+      "word": "公司虚构项目诈骗百余老人1500万",
+      "onboard_time": 1727253560,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 140888,
@@ -1635,12 +1739,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 137124,
+      "num": 137124,
+      "word": "阿云嘎穿了个蝴蝶",
+      "onboard_time": 1727253919,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 136935,
       "num": 136935,
       "word": "墨雨云间庆功宴合影",
       "onboard_time": 1727225600,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 134080,
+      "num": 134080,
+      "word": "瓦拉内退役",
+      "onboard_time": 1727255240,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 133401,
@@ -1995,6 +2115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 70283,
+      "num": 404799,
+      "word": "非法放贷APP贷款利率高达2300%",
+      "onboard_time": 1727255000,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 69785,
       "num": 454769,
       "word": "小小米线店一月流水50万能信吗",
@@ -2059,6 +2187,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 59112,
+      "num": 191552,
+      "word": "前民宿老板揭露偷拍黑色产业链",
+      "onboard_time": 1727256020,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 57170,
       "num": 291814,
       "word": "中年养殖户和他死去的25000只鸡",
@@ -2107,6 +2243,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 50716,
+      "num": 907993,
+      "word": "我国成功发射一箭5星",
+      "onboard_time": 1727252060,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 50078,
+      "num": 241662,
+      "word": "专家称人民币购买力被严重低估",
+      "onboard_time": 1727254401,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 49689,
       "num": 566744,
       "word": "推进延迟退休改革要做好这三项工作",
@@ -2153,14 +2305,6 @@
       "onboard_time": 1727248038,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 45128,
-      "num": 907993,
-      "word": "我国成功发射一箭5星",
-      "onboard_time": 1727252060,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 43525,
@@ -2345,14 +2489,6 @@
       "onboard_time": 1727202014,
       "rank": 46,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 22739,
-      "num": 348865,
-      "word": "公司虚构项目诈骗百余老人1500万",
-      "onboard_time": 1727253560,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 22708,
