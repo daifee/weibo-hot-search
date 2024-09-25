@@ -1,0 +1,410 @@
+{
+  "runTime": 1727233492685,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1839938,
+        "num": 1839938,
+        "word": "我军向太平洋发射洲际弹道导弹",
+        "onboard_time": 1727231179,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 730851,
+        "num": 730851,
+        "word": "父亲车祸身亡后继母和儿子互相起诉",
+        "onboard_time": 1727229078,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 6739,
+        "num": 691660,
+        "word": "老铁山单日记录迁徙猛禽过万只",
+        "onboard_time": 1727148199,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 655843,
+        "num": 655843,
+        "word": "爱奇艺片单",
+        "onboard_time": 1727228839,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 636685,
+        "num": 636685,
+        "word": "中国维和部队排除未爆火箭弹",
+        "onboard_time": 1727226559,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 545366,
+        "num": 545366,
+        "word": "杨幂欧豪生万物海报",
+        "onboard_time": 1727231717,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 497012,
+        "num": 497012,
+        "word": "王楚钦中国大满贯倒计时海报",
+        "onboard_time": 1727229919,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 467408,
+        "num": 467408,
+        "word": "杨紫韩东君家业概念海报",
+        "onboard_time": 1727231837,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 94077,
+        "num": 417444,
+        "word": "这就是中国青年",
+        "onboard_time": 1727228657,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 86177,
+        "num": 410727,
+        "word": "影子不会说谎和警方联合行动",
+        "onboard_time": 1727233038,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 410453,
+        "num": 410453,
+        "word": "炉石传说将补偿玩家2023年全部卡牌",
+        "onboard_time": 1727227818,
+        "rank": 10,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 373135,
+        "num": 373135,
+        "word": "好怕唐嫣突然说一句China",
+        "onboard_time": 1727191161,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 364699,
+        "num": 364699,
+        "word": "成毅赴山海双角色海报",
+        "onboard_time": 1727232137,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 337105,
+        "num": 337105,
+        "word": "曝光民宿摄像头事件博主再发声",
+        "onboard_time": 1727227698,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 330025,
+        "num": 330025,
+        "word": "俄拟立法禁止宣传不生孩子",
+        "onboard_time": 1727231778,
+        "rank": 14,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 312785,
+        "num": 312785,
+        "word": "电视剧家业",
+        "onboard_time": 1727222780,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 306689,
+        "num": 306689,
+        "word": "A股",
+        "onboard_time": 1727228058,
+        "rank": 16,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 292685,
+        "num": 292685,
+        "word": "老人长时间坐星巴克门口员工报警劝离",
+        "onboard_time": 1727199072,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 249289,
+        "num": 290642,
+        "word": "杜江找肖战要签名后续",
+        "onboard_time": 1727223860,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 38501,
+        "num": 280329,
+        "word": "韩政府讨论引入养宠税",
+        "onboard_time": 1727232200,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 664464,
+        "num": 277479,
+        "word": "韩安冉说小英没有塌房",
+        "onboard_time": 1727223680,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 624513,
+        "num": 267208,
+        "word": "迪丽热巴成功追星娜塔莉波特曼",
+        "onboard_time": 1727224280,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 612069,
+        "num": 258865,
+        "word": "学校禁止学生带牛奶挨个查包",
+        "onboard_time": 1727207290,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 256524,
+        "num": 256524,
+        "word": "博士妻子陪失意丈夫卖甜水",
+        "onboard_time": 1727228179,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 881499,
+        "num": 256493,
+        "word": "全红婵真的内耗不了一点",
+        "onboard_time": 1727229138,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 256230,
+        "num": 256230,
+        "word": "高铁站一声舅舅换来一群兵舅舅回头",
+        "onboard_time": 1727232258,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228707,
+        "num": 228707,
+        "word": "人民币重回6字头",
+        "onboard_time": 1727230638,
+        "rank": 26,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 212757,
+        "num": 212757,
+        "word": "考上公费师范生后我选择违约",
+        "onboard_time": 1727224340,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211637,
+        "num": 211637,
+        "word": "大逃脱回归",
+        "onboard_time": 1727233099,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 35866,
+        "num": 211203,
+        "word": "邓为给粉丝直播看塞纳河",
+        "onboard_time": 1727233458,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 210794,
+        "num": 210794,
+        "word": "你是我见过班味最重的",
+        "onboard_time": 1727225959,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 200837,
+        "num": 200837,
+        "word": "白鹿让虐文大女主有脸了",
+        "onboard_time": 1727232380,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197020,
+        "num": 197020,
+        "word": "赵丽颖带火的簪花渔村现状",
+        "onboard_time": 1727223799,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179389,
+        "num": 179389,
+        "word": "最简单的减肥方法",
+        "onboard_time": 1727226379,
+        "rank": 33,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 169095,
+        "num": 169095,
+        "word": "炉石传说",
+        "onboard_time": 1727197514,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 167877,
+        "num": 167877,
+        "word": "真的有剧拍了女人你在玩火",
+        "onboard_time": 1727233159,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164546,
+        "num": 164546,
+        "word": "极乐鸟",
+        "onboard_time": 1727223320,
+        "rank": 36,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 180614,
+        "num": 164520,
+        "word": "赵丽颖尹昉新剧吻戏",
+        "onboard_time": 1727233280,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158731,
+        "num": 163887,
+        "word": "沈以诚播客下架",
+        "onboard_time": 1727224460,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 163381,
+        "num": 163381,
+        "word": "男子在楼梯间发现超级袜子连连看",
+        "onboard_time": 1727230219,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159538,
+        "num": 159538,
+        "word": "周雨彤 我朋友多都在惦记我",
+        "onboard_time": 1727229801,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159270,
+        "num": 159270,
+        "word": "摊主偷偷把58元说成38元",
+        "onboard_time": 1727233159,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150400,
+        "num": 150400,
+        "word": "大生意人预告",
+        "onboard_time": 1727232558,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147259,
+        "num": 147259,
+        "word": "爸爸过世后我不再恐惧死亡",
+        "onboard_time": 1727193139,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146852,
+        "num": 146852,
+        "word": "王者S37新赛季今日开启",
+        "onboard_time": 1727233159,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 135578,
+        "num": 135578,
+        "word": "仙台有树首发预告",
+        "onboard_time": 1727231418,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131668,
+        "num": 131668,
+        "word": "王者新英雄影CG",
+        "onboard_time": 1727233038,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 127917,
+        "num": 127917,
+        "word": "猫 咬完就跑好刺激",
+        "onboard_time": 1727225959,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 125212,
+        "num": 125212,
+        "word": "警方回应大货车雨中顶推奔驰行驶",
+        "onboard_time": 1727230939,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123829,
+        "num": 123829,
+        "word": "炉石传说 进不去",
+        "onboard_time": 1727228599,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#我国航天事业实现历史性高质量跨越式发展#"
+    }
+  }
+}
