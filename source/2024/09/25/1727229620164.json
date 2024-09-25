@@ -1,0 +1,410 @@
+{
+  "runTime": 1727229620164,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 590947,
+        "num": 1094551,
+        "word": "中国维和部队排除未爆火箭弹",
+        "onboard_time": 1727226559,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 559292,
+        "num": 559292,
+        "word": "老人长时间坐星巴克门口员工报警劝离",
+        "onboard_time": 1727199072,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 7821,
+        "num": 500809,
+        "word": "老铁山单日记录迁徙猛禽过万只",
+        "onboard_time": 1727148199,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 495938,
+        "num": 495938,
+        "word": "A股",
+        "onboard_time": 1727228058,
+        "rank": 3,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 473605,
+        "num": 473605,
+        "word": "好怕唐嫣突然说一句China",
+        "onboard_time": 1727191161,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 454510,
+        "num": 454510,
+        "word": "石家庄民宿摄像头",
+        "onboard_time": 1727227698,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 422745,
+        "num": 422745,
+        "word": "沈以诚播客下架",
+        "onboard_time": 1727224460,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 379682,
+        "num": 379682,
+        "word": "赵丽颖带火的簪花渔村现状",
+        "onboard_time": 1727223799,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 372033,
+        "num": 372033,
+        "word": "杜江找肖战要签名后续",
+        "onboard_time": 1727223860,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 155836,
+        "num": 331878,
+        "word": "力箭一号遥四商业运载火箭发射成功",
+        "onboard_time": 1727225179,
+        "rank": 9,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 992264,
+        "num": 331168,
+        "word": "韩安冉说小英没有塌房",
+        "onboard_time": 1727223680,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 325740,
+        "num": 325740,
+        "word": "7岁女孩不到1秒破世界纪录",
+        "onboard_time": 1727176939,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 857249,
+        "num": 318390,
+        "word": "8女大学生被强奸嫌疑人被放再犯新案",
+        "onboard_time": 1727226141,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 741763,
+        "num": 305371,
+        "word": "迪丽热巴成功追星娜塔莉波特曼",
+        "onboard_time": 1727224280,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 476426,
+        "num": 295479,
+        "word": "考上公费师范生后我选择违约",
+        "onboard_time": 1727224340,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 457253,
+        "num": 284241,
+        "word": "学校禁止学生带牛奶挨个查包",
+        "onboard_time": 1727207290,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 337932,
+        "num": 278582,
+        "word": "爱奇艺片单",
+        "onboard_time": 1727228839,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 269438,
+        "num": 269438,
+        "word": "全红婵说大家都这么帅啊",
+        "onboard_time": 1727220497,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 260460,
+        "num": 260460,
+        "word": "爸爸过世后我不再恐惧死亡",
+        "onboard_time": 1727193139,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257544,
+        "num": 257544,
+        "word": "网红小英不能开着路虎卖惨",
+        "onboard_time": 1727175258,
+        "rank": 19,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 355215,
+        "num": 256846,
+        "word": "博士妻子陪失意丈夫卖甜水",
+        "onboard_time": 1727228179,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 305873,
+        "num": 256835,
+        "word": "你是我见过班味最重的",
+        "onboard_time": 1727225959,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 255324,
+        "num": 255324,
+        "word": "深圳一男子被悬赏340万",
+        "onboard_time": 1727189002,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242794,
+        "num": 242794,
+        "word": "楚乔传的含金量还在上升",
+        "onboard_time": 1727224340,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 222383,
+        "num": 222383,
+        "word": "父亲车祸身亡后继母和儿子互相起诉",
+        "onboard_time": 1727229078,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216122,
+        "num": 216122,
+        "word": "炉石传说",
+        "onboard_time": 1727197514,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 207127,
+        "num": 207127,
+        "word": "七夜雪",
+        "onboard_time": 1727228599,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 202045,
+        "num": 202045,
+        "word": "猫 咬完就跑好刺激",
+        "onboard_time": 1727225959,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 193934,
+        "num": 193934,
+        "word": "电视剧家业",
+        "onboard_time": 1727222780,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190389,
+        "num": 190389,
+        "word": "强冷空气已预定国庆档期",
+        "onboard_time": 1727184559,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186653,
+        "num": 186653,
+        "word": "极乐鸟",
+        "onboard_time": 1727223320,
+        "rank": 30,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 178725,
+        "num": 178725,
+        "word": "一市民4元机选彩票中1000万元",
+        "onboard_time": 1727225060,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178040,
+        "num": 178040,
+        "word": "最简单的减肥方法",
+        "onboard_time": 1727226379,
+        "rank": 32,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 176782,
+        "num": 176782,
+        "word": "幼童被狗撕咬拖行狗主人找到了",
+        "onboard_time": 1727188101,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169623,
+        "num": 169623,
+        "word": "朴彩英巴黎路透",
+        "onboard_time": 1727225419,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 163097,
+        "num": 163097,
+        "word": "林少白我一个月工资才多少",
+        "onboard_time": 1727228537,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165274,
+        "num": 161995,
+        "word": "邓为扛住了外媒镜头",
+        "onboard_time": 1727226320,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 159051,
+        "num": 159051,
+        "word": "炉石传说将补偿玩家2023年全部卡牌",
+        "onboard_time": 1727227818,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 151813,
+        "num": 151813,
+        "word": "全红婵真的内耗不了一点",
+        "onboard_time": 1727229138,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148854,
+        "num": 148854,
+        "word": "各地国庆氛围已拉满",
+        "onboard_time": 1727229018,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144815,
+        "num": 144815,
+        "word": "吴倩演技",
+        "onboard_time": 1727228719,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 142392,
+        "num": 142392,
+        "word": "大爷凌晨卖菜只赚27元被骗200元",
+        "onboard_time": 1727181319,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141068,
+        "num": 141068,
+        "word": "A股全面爆发",
+        "onboard_time": 1727193259,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 130076,
+        "num": 130076,
+        "word": "炉石传说 进不去",
+        "onboard_time": 1727228599,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 128865,
+        "num": 128865,
+        "word": "这就是中国青年",
+        "onboard_time": 1727228657,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123860,
+        "num": 123860,
+        "word": "东北雨姐直播间酸菜疑货不对板",
+        "onboard_time": 1727194338,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119960,
+        "num": 119960,
+        "word": "墨雨云间庆功宴合影",
+        "onboard_time": 1727225600,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119782,
+        "num": 119782,
+        "word": "A股首个3000亿股票ETF",
+        "onboard_time": 1727229378,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 118184,
+        "num": 118184,
+        "word": "南京街头现大量百元钞票",
+        "onboard_time": 1727200273,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111636,
+        "num": 111636,
+        "word": "酒泉一箭五星",
+        "onboard_time": 1727226141,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#我国航天事业实现历史性高质量跨越式发展#"
+    }
+  }
+}

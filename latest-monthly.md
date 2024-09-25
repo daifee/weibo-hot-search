@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/09/01 00:25:38 ~ 2024/09/25 09:42:52
+本榜单时间：2024/09/01 00:25:38 ~ 2024/09/25 10:00:20
 </p>
 </blockquote>
 <p>
@@ -5697,6 +5697,12 @@ iPhone16史上最容易维修iPhone（热度：900387）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%238%E5%A5%B3%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%A2%AB%E5%BC%BA%E5%A5%B8%E5%AB%8C%E7%96%91%E4%BA%BA%E8%A2%AB%E6%94%BE%E5%86%8D%E7%8A%AF%E6%96%B0%E6%A1%88%23" target="weibo">
+8女大学生被强奸嫌疑人被放再犯新案（热度：857249）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%902%E5%B9%B4%E8%A2%AB%E5%AE%B6%E6%9A%B416%E6%AC%A1%E7%A7%B0%E5%AD%95%E6%99%9A%E6%9C%9F%E8%BF%98%E4%BC%9A%E8%A2%AB%E6%89%93%23" target="weibo">
 女子2年被家暴16次称孕晚期还会被打（热度：855479）
 </a>
@@ -6005,12 +6011,6 @@ WBG战胜JDG（热度：837121）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A2%E5%A8%9F%E5%AD%90%E4%B8%8D%E6%98%AF%E6%97%A0%E7%9F%A5%E6%98%AF%E6%97%A0%E6%95%AC%E7%95%8F%E6%97%A0%E5%BA%95%E7%BA%BF%23" target="weibo">
 网红娟子不是无知是无敬畏无底线（热度：822282）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%BA%9A%E5%B8%8C%E6%8B%8D%E8%B6%85%E8%B6%8A%E8%85%BF%E7%B2%97%E4%BA%869%E5%8E%98%E7%B1%B3%23" target="weibo">
-李庚希拍超越腿粗了9厘米（热度：821785）
 </a>
 </li>
 
