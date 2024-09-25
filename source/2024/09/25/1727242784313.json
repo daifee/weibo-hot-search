@@ -1,0 +1,410 @@
+{
+  "runTime": 1727242784313,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1956055,
+        "num": 1956055,
+        "word": "12306回应部分车票一开售就是候补",
+        "onboard_time": 1727238981,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1124396,
+        "num": 1124396,
+        "word": "一网约车司机4年出200多次事故",
+        "onboard_time": 1727237000,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27396,
+        "num": 1071324,
+        "word": "第四届中国新电商大会",
+        "onboard_time": 1727240900,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1029113,
+        "num": 1029113,
+        "word": "周扬青 果然男人最懂男人",
+        "onboard_time": 1727238320,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 769555,
+        "num": 769555,
+        "word": "我军向太平洋发射洲际弹道导弹",
+        "onboard_time": 1727231179,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 844096,
+        "num": 737123,
+        "word": "女总裁六年没谈恋爱二战恋综",
+        "onboard_time": 1727239702,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 688880,
+        "num": 688880,
+        "word": "猪肉冒充牛肉干电商卖了500万",
+        "onboard_time": 1727240183,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 517925,
+        "num": 517925,
+        "word": "爱奇艺片单",
+        "onboard_time": 1727228839,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 465508,
+        "num": 465508,
+        "word": "学校景区附近主题房是偷拍重灾区",
+        "onboard_time": 1727239281,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 351069,
+        "num": 351069,
+        "word": "刘琳新剧硬刚老公",
+        "onboard_time": 1727241442,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 570259,
+        "num": 350944,
+        "word": "赵丽颖尹昉新剧吻戏",
+        "onboard_time": 1727233280,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 349289,
+        "num": 349289,
+        "word": "6块6的咖啡打不赢价格战",
+        "onboard_time": 1727234119,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 282165,
+        "num": 331501,
+        "word": "80后中产父母开始抛弃国际学校了",
+        "onboard_time": 1727238861,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 35735,
+        "num": 327344,
+        "word": "王欣瑜vs本玉真唯",
+        "onboard_time": 1727241321,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 326644,
+        "num": 326644,
+        "word": "俄拟立法禁止宣传不生孩子",
+        "onboard_time": 1727231778,
+        "rank": 14,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 295883,
+        "num": 295883,
+        "word": "王源朋友圈三天可见",
+        "onboard_time": 1727237841,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 279287,
+        "num": 279287,
+        "word": "半熟男女 女主人设",
+        "onboard_time": 1727238920,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 264773,
+        "num": 264773,
+        "word": "女子闪了腰仍坚持家务险致瘫痪",
+        "onboard_time": 1727239460,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107798,
+        "num": 259671,
+        "word": "书卷一梦",
+        "onboard_time": 1727241260,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 59938,
+        "num": 259083,
+        "word": "WTT中国大满贯2024全名单",
+        "onboard_time": 1727241680,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 510754,
+        "num": 259021,
+        "word": "学校禁止学生带牛奶挨个查包",
+        "onboard_time": 1727207290,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258861,
+        "num": 258861,
+        "word": "猎罪图鉴2首发预告",
+        "onboard_time": 1727235559,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 363894,
+        "num": 258793,
+        "word": "迪丽热巴成功追星娜塔莉波特曼",
+        "onboard_time": 1727224280,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 55427,
+        "num": 257951,
+        "word": "株洲6死7伤事故背后的安全之问",
+        "onboard_time": 1727240900,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257909,
+        "num": 257909,
+        "word": "酒店回应大闸蟹自助半小时只给1只",
+        "onboard_time": 1727237179,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248451,
+        "num": 248451,
+        "word": "高铁站一声舅舅换来一群兵舅舅回头",
+        "onboard_time": 1727232258,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244568,
+        "num": 244568,
+        "word": "蔡磊夫妇愿终身投入罕见病研究",
+        "onboard_time": 1727233820,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229155,
+        "num": 229155,
+        "word": "黑神话遭遇第八十二难",
+        "onboard_time": 1727237179,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 218295,
+        "num": 218295,
+        "word": "楠丁格尔先生",
+        "onboard_time": 1727236220,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 211074,
+        "num": 211074,
+        "word": "炉石传说将补偿玩家2023年全部卡牌",
+        "onboard_time": 1727227818,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 209987,
+        "num": 209987,
+        "word": "王楚钦中国大满贯倒计时海报",
+        "onboard_time": 1727229919,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 202298,
+        "num": 202298,
+        "word": "韩安冉说小英没有塌房",
+        "onboard_time": 1727223680,
+        "rank": 31,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 198213,
+        "num": 198213,
+        "word": "如鸢",
+        "onboard_time": 1727230879,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 193885,
+        "num": 193885,
+        "word": "炉石传说国服正式回归",
+        "onboard_time": 1727241918,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 191921,
+        "num": 191921,
+        "word": "花少团这期主线任务拯救宋茜",
+        "onboard_time": 1727242220,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186265,
+        "num": 186265,
+        "word": "网剧冬至",
+        "onboard_time": 1727242220,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 424842,
+        "num": 184435,
+        "word": "赵丽颖你知道人是会遭报应的吗",
+        "onboard_time": 1727238261,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 182450,
+        "num": 182450,
+        "word": "摊主偷偷把58元说成38元",
+        "onboard_time": 1727233159,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178087,
+        "num": 178087,
+        "word": "狐妖小红娘王权篇剑指王权海报",
+        "onboard_time": 1727236280,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175932,
+        "num": 175932,
+        "word": "金晨说田嘉瑞是一辈子的好朋友",
+        "onboard_time": 1727240061,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167004,
+        "num": 167004,
+        "word": "曝光民宿摄像头事件博主再发声",
+        "onboard_time": 1727227698,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166987,
+        "num": 166987,
+        "word": "胡歌楠丁格尔先生海报",
+        "onboard_time": 1727236819,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154908,
+        "num": 154908,
+        "word": "杨紫韩东君家业概念海报",
+        "onboard_time": 1727231837,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146790,
+        "num": 146790,
+        "word": "继承房产要去世百年老人死亡证明",
+        "onboard_time": 1727242580,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144884,
+        "num": 144884,
+        "word": "男子不戒酒肉痛风石疯长7厘米",
+        "onboard_time": 1727234299,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142554,
+        "num": 142554,
+        "word": "极乐鸟",
+        "onboard_time": 1727223320,
+        "rank": 45,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 136476,
+        "num": 136476,
+        "word": "炉石传说",
+        "onboard_time": 1727197514,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 133453,
+        "num": 133453,
+        "word": "人民币重回6字头",
+        "onboard_time": 1727230638,
+        "rank": 47,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 132603,
+        "num": 132603,
+        "word": "王源亲测20分钟公园效应有用",
+        "onboard_time": 1727242338,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 131465,
+        "num": 131465,
+        "word": "6块6的咖啡攻不下县城年轻人",
+        "onboard_time": 1727239221,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#嫦娥既是中国的又属于全人类#"
+    }
+  }
+}
