@@ -1,6 +1,6 @@
 {
   "startTime": 1727281816744,
-  "endTime": 1727285894225,
+  "endTime": 1727288994106,
   "band_list": [
     {
       "raw_hot": 1228111,
@@ -195,6 +195,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 110181,
+      "num": 68439,
+      "word": "中国人的尿酸为啥越来越高了",
+      "onboard_time": 1727284994,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 105279,
       "num": 105279,
       "word": "雅太帅了",
@@ -315,20 +323,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 80451,
+      "num": 80451,
+      "word": "Echo 答案之书",
+      "onboard_time": 1727285593,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 80288,
       "num": 80288,
       "word": "高龄产妇困在备孕失败的那些年",
       "onboard_time": 1727273299,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 75792,
-      "num": 68439,
-      "word": "中国人的尿酸为啥越来越高了",
-      "onboard_time": 1727284994,
-      "rank": 21,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 74896,
@@ -427,6 +435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 46150,
+      "num": 49564,
+      "word": "8天婴儿呛奶爸爸海姆立克急救",
+      "onboard_time": 1727284873,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 45759,
       "num": 56075,
       "word": "Echo 走出大山一直是我的人生主题",
@@ -451,20 +467,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 42241,
-      "num": 49564,
-      "word": "8天婴儿呛奶爸爸海姆立克急救",
-      "onboard_time": 1727284873,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 39330,
       "num": 41894,
       "word": "王源金发路透",
       "onboard_time": 1727284394,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 25680,
+      "num": 28760,
+      "word": "749局",
+      "onboard_time": 1727271021,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 8393,
