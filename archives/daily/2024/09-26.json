@@ -1,6 +1,6 @@
 {
   "startTime": 1727281816744,
-  "endTime": 1727281816744,
+  "endTime": 1727282839886,
   "band_list": [
     {
       "raw_hot": 1228111,
@@ -140,11 +140,19 @@
     },
     {
       "raw_hot": 148106,
-      "num": 148106,
+      "num": 157861,
       "word": "单依纯获奖感言",
       "onboard_time": 1727269461,
       "rank": 17,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 147468,
+      "num": 147468,
+      "word": "合肥肥东3.8级地震",
+      "onboard_time": 1727264422,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 145804,
@@ -156,7 +164,7 @@
     },
     {
       "raw_hot": 144058,
-      "num": 146512,
+      "num": 152402,
       "word": "时代少年团听到rumors的反应",
       "onboard_time": 1727277020,
       "rank": 18,
@@ -171,16 +179,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 138721,
-      "num": 138721,
-      "word": "合肥肥东3.8级地震",
-      "onboard_time": 1727264422,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 132214,
-      "num": 146115,
+      "num": 150342,
       "word": "苏醒 写了一百多首没有一首是火的",
       "onboard_time": 1727270120,
       "rank": 19,
@@ -251,6 +251,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 88840,
+      "num": 88840,
+      "word": "山西是有一个睡眠结界吗",
+      "onboard_time": 1727281877,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 87688,
       "num": 87688,
       "word": "GAI五获年度说唱歌手",
@@ -275,20 +283,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 85383,
+      "num": 85383,
+      "word": "恒温壶",
+      "onboard_time": 1727280199,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 84150,
       "num": 84150,
       "word": "王者S37上分计划",
       "onboard_time": 1727280617,
       "rank": 35,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 83329,
-      "num": 83329,
-      "word": "恒温壶",
-      "onboard_time": 1727280199,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 81807,
@@ -395,6 +403,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 55723,
+      "num": 68960,
+      "word": "山花烂漫时豆瓣开分9.0",
+      "onboard_time": 1727282537,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 51989,
+      "num": 68908,
+      "word": "爷爷网购50只鸡仔无一存活",
+      "onboard_time": 1727282596,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 7535,
       "num": 657516,
       "word": "中国天眼升级了",
@@ -406,6 +430,9 @@
   "hotgov_list": [
     {
       "word": "#让民族团结的佳话代代相传#"
+    },
+    {
+      "word": "#科技赋能强种业人勤苗壮绘丰收#"
     }
   ]
 }

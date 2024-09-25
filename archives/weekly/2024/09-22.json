@@ -1,6 +1,6 @@
 {
   "startTime": 1726936020707,
-  "endTime": 1727281816744,
+  "endTime": 1727282839886,
   "band_list": [
     {
       "raw_hot": 6817146,
@@ -10731,6 +10731,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 88840,
+      "num": 88840,
+      "word": "山西是有一个睡眠结界吗",
+      "onboard_time": 1727281877,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 88466,
       "num": 88466,
       "word": "郁可唯好听",
@@ -10819,6 +10827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 85383,
+      "num": 85383,
+      "word": "恒温壶",
+      "onboard_time": 1727280199,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 85094,
       "num": 85094,
       "word": "张之臻回应获亚军",
@@ -10848,14 +10864,6 @@
       "word": "男子离婚冷静期杀妻案二审宣判",
       "onboard_time": 1727065410,
       "rank": 18,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 83329,
-      "num": 83329,
-      "word": "恒温壶",
-      "onboard_time": 1727280199,
-      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -11539,6 +11547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 55723,
+      "num": 68960,
+      "word": "山花烂漫时豆瓣开分9.0",
+      "onboard_time": 1727282537,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 55687,
       "num": 91149,
       "word": "原神5.0版本",
@@ -11673,6 +11689,14 @@
       "onboard_time": 1726985419,
       "rank": 16,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 51989,
+      "num": 68908,
+      "word": "爷爷网购50只鸡仔无一存活",
+      "onboard_time": 1727282596,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 51805,
