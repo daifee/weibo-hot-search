@@ -1,6 +1,6 @@
 {
   "startTime": 1727281816744,
-  "endTime": 1727346225468,
+  "endTime": 1727347250770,
   "band_list": [
     {
       "raw_hot": 2340973,
@@ -155,6 +155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 935635,
+      "num": 935635,
+      "word": "实况P图",
+      "onboard_time": 1727341999,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 861117,
       "num": 861117,
       "word": "日本开始第九轮核污染水排海",
@@ -177,14 +185,6 @@
       "onboard_time": 1727312119,
       "rank": 1,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 817424,
-      "num": 817424,
-      "word": "实况P图",
-      "onboard_time": 1727341999,
-      "rank": 33,
-      "category": "情感"
     },
     {
       "raw_hot": 805646,
@@ -355,6 +355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 513566,
+      "num": 513566,
+      "word": "国产剧豆瓣9分的含金量",
+      "onboard_time": 1727344519,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 500338,
       "num": 517309,
       "word": "火箭军导弹发射现场图",
@@ -393,14 +401,6 @@
       "onboard_time": 1727309900,
       "rank": 7,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 469874,
-      "num": 469874,
-      "word": "国产剧豆瓣9分的含金量",
-      "onboard_time": 1727344519,
-      "rank": 11,
-      "category": "剧集"
     },
     {
       "raw_hot": 458835,
@@ -579,6 +579,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 329905,
+      "num": 329905,
+      "word": "东北雨姐称打假博主要30万",
+      "onboard_time": 1727343859,
+      "rank": 19,
+      "category": "网红"
+    },
+    {
       "raw_hot": 327497,
       "num": 511915,
       "word": "郑在玹将入伍",
@@ -617,6 +625,14 @@
       "onboard_time": 1727332879,
       "rank": 18,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 296783,
+      "num": 296783,
+      "word": "民宿为什么失宠了",
+      "onboard_time": 1727345479,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 285585,
@@ -955,6 +971,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 206109,
+      "num": 206109,
+      "word": "村官撞人赔650万一定是小官巨贪吗",
+      "onboard_time": 1727343498,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 205898,
       "num": 205898,
       "word": "闪耀暖暖",
@@ -985,14 +1009,6 @@
       "onboard_time": 1727335760,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 200730,
-      "num": 264105,
-      "word": "东北雨姐称打假博主要30万",
-      "onboard_time": 1727343859,
-      "rank": 19,
-      "category": "网红"
     },
     {
       "raw_hot": 200133,
@@ -1040,14 +1056,6 @@
       "word": "本轮冷空气或将终结南方高温",
       "onboard_time": 1727268200,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 194216,
-      "num": 194216,
-      "word": "村官撞人赔650万一定是小官巨贪吗",
-      "onboard_time": 1727343498,
-      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -1131,14 +1139,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 176940,
-      "num": 176940,
-      "word": "民宿为什么失宠了",
-      "onboard_time": 1727345479,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 175355,
       "num": 175355,
       "word": "重点做好应届毕业生等人群就业工作",
@@ -1160,6 +1160,14 @@
       "word": "WTT中国大满贯开赛",
       "onboard_time": 1727309181,
       "rank": 27,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 172668,
+      "num": 172668,
+      "word": "WTT官方称孙颖莎最具统治力",
+      "onboard_time": 1727346378,
+      "rank": 24,
       "category": "体育"
     },
     {
@@ -1339,6 +1347,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 149221,
+      "num": 149221,
+      "word": "校媛麻辣烫店主称媛字本身美好",
+      "onboard_time": 1727346619,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 148971,
       "num": 148971,
       "word": "黑神话悟空销量突破2000万",
@@ -1443,6 +1459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 138564,
+      "num": 138564,
+      "word": "为什么越来越多人选择平替旅游地",
+      "onboard_time": 1727343199,
+      "rank": 46,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 137565,
       "num": 137565,
       "word": "努力培养更多高素质新闻传播人才",
@@ -1457,6 +1481,14 @@
       "onboard_time": 1727317458,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 136592,
+      "num": 136592,
+      "word": "红薯粉",
+      "onboard_time": 1727346919,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 136565,
@@ -1555,12 +1587,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 128457,
-      "num": 128457,
-      "word": "为什么越来越多人选择平替旅游地",
-      "onboard_time": 1727343199,
-      "rank": 46,
-      "category": "旅游"
+      "raw_hot": 128283,
+      "num": 128283,
+      "word": "山花烂漫时",
+      "onboard_time": 1727346978,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 127895,
+      "num": 127895,
+      "word": "还以为李宇春脚下装了转盘",
+      "onboard_time": 1727346259,
+      "rank": 33,
+      "category": "音乐"
     },
     {
       "raw_hot": 127342,
@@ -1569,6 +1609,14 @@
       "onboard_time": 1727319378,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 126888,
+      "num": 126888,
+      "word": "你长这么慢 我很难看到你长大",
+      "onboard_time": 1727346499,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 126402,
@@ -1587,12 +1635,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 122501,
+      "num": 122501,
+      "word": "半熟男女",
+      "onboard_time": 1727261419,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 120423,
       "num": 445636,
       "word": "东北雨姐哭了",
       "onboard_time": 1727342479,
       "rank": 18,
       "category": "网红"
+    },
+    {
+      "raw_hot": 119971,
+      "num": 119971,
+      "word": "谁让神印王座这么写离别的",
+      "onboard_time": 1727343617,
+      "rank": 42,
+      "category": "动漫"
     },
     {
       "raw_hot": 119969,
@@ -1747,6 +1811,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 101145,
+      "num": 101145,
+      "word": "日本游戏大奖2024",
+      "onboard_time": 1727345899,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 100374,
       "num": 100374,
       "word": "微博音乐盛典",
@@ -1883,6 +1955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 76371,
+      "num": 476968,
+      "word": "网店卖礼品卡洗钱三个月流水上亿",
+      "onboard_time": 1727345119,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 74896,
       "num": 74896,
       "word": "送别黄公略烈士",
@@ -1976,6 +2056,14 @@
       "word": "8天婴儿呛奶爸爸海姆立克急救",
       "onboard_time": 1727284873,
       "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 66651,
+      "num": 346912,
+      "word": "便服执法事件网约车司机再发声",
+      "onboard_time": 1727346199,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -2251,14 +2339,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 41111,
-      "num": 476968,
-      "word": "网店卖礼品卡洗钱三个月流水上亿",
-      "onboard_time": 1727345119,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 40798,
       "num": 447158,
       "word": "员工称工伤赔偿被公司扣了四年",
@@ -2411,6 +2491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 23699,
+      "num": 206239,
+      "word": "宋佳车银优巴黎女装首秀造型",
+      "onboard_time": 1727345957,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 23214,
       "num": 178723,
       "word": "李庚希拍完摇太阳吃了一年素",
@@ -2435,12 +2523,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 18234,
-      "num": 21320,
-      "word": "半熟男女",
-      "onboard_time": 1727261419,
-      "rank": 29,
-      "category": "剧集"
+      "raw_hot": 20924,
+      "num": 129385,
+      "word": "侯明昊分享吻戏经验",
+      "onboard_time": 1727345179,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 17576,
@@ -2475,22 +2563,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 13452,
-      "num": 129385,
-      "word": "侯明昊分享吻戏经验",
-      "onboard_time": 1727345179,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 13006,
-      "num": 128551,
-      "word": "宋佳车银优巴黎女装首秀造型",
-      "onboard_time": 1727345957,
-      "rank": 41,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 10573,
       "num": 25698,
       "word": "文化中国行文博日历",
@@ -2512,14 +2584,6 @@
       "word": "中国天眼升级了",
       "onboard_time": 1727269221,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 6113,
-      "num": 346912,
-      "word": "便服执法事件网约车司机再发声",
-      "onboard_time": 1727346199,
-      "rank": 14,
       "category": "社会新闻"
     }
   ],
