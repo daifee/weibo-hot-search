@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/09/22 00:27:00 ~ 2024/09/27 00:28:11
+本榜单时间：2024/09/22 00:27:00 ~ 2024/09/27 00:44:20
 </p>
 </blockquote>
 <p>
@@ -3339,6 +3339,12 @@ TFBOYS恭喜王俊凯全球代言（热度：331060）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AE%B0%E4%BD%8F%E9%82%A3%E4%B8%AA%E6%91%94%E5%BE%97%E5%A4%B4%E7%A0%B4%E8%A1%80%E6%B5%81%E7%9A%84%E5%B9%B4%E8%BD%BB%E4%BA%BA%23" target="weibo">
+记住那个摔得头破血流的年轻人（热度：329595）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E4%BC%AF%E9%95%BF%E6%9C%9F%E5%96%9D%E6%B5%93%E8%8C%B6%E5%BE%97%E8%83%86%E7%BB%93%E7%9F%B3%E5%81%9A7%E6%AC%A1%E6%89%8B%E6%9C%AF%23" target="weibo">
 大伯长期喝浓茶得胆结石做7次手术（热度：329078）
 </a>
@@ -4751,12 +4757,6 @@ Echo二姐的故事（热度：258853）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23IGN%23" target="weibo">
 IGN（热度：220555）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%AE%B0%E4%BD%8F%E9%82%A3%E4%B8%AA%E6%91%94%E5%BE%97%E5%A4%B4%E7%A0%B4%E8%A1%80%E6%B5%81%E7%9A%84%E5%B9%B4%E8%BD%BB%E4%BA%BA%23" target="weibo">
-记住那个摔得头破血流的年轻人（热度：220181）
 </a>
 </li>
 
@@ -7197,6 +7197,12 @@ LGD秋季赛周冠军（热度：163711）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%8B%92%E8%A7%81%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%23" target="weibo">
+特朗普拒见泽连斯基（热度：162368）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E9%B1%BC%20%E5%A4%A7%E4%BD%AC%E5%9F%B9%E5%85%BB%E6%88%91%E8%80%83%E5%8C%97%E5%A4%A7%23" target="weibo">
 小鱼 大佬培养我考北大（热度：162241）
 </a>
@@ -7493,6 +7499,12 @@ THEBOYZ将继续完整体活动（热度：153400）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B5%E8%A7%86%E5%89%A7%E4%B8%89%E5%A4%A7%E5%A5%96%E5%A4%A7%E6%BB%A1%E8%B4%AF%E5%90%8D%E5%8D%95%23" target="weibo">
 电视剧三大奖大满贯名单（热度：152846）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23Capper%E5%91%A8%E9%9C%87%E5%8D%97%E5%95%83%E8%8B%B9%E6%9E%9C%E5%AE%98%E5%AE%A3%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
+Capper周震南啃苹果官宣演唱会（热度：152690）
 </a>
 </li>
 
@@ -7991,6 +8003,12 @@ NCTWISH回归（热度：145554）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BA%86%E6%80%9C%20%E6%88%91%E8%BF%98%E9%9C%80%E8%A6%81%E6%88%90%E9%95%BF%E6%89%8D%E8%83%BD%E9%9D%A2%E5%AF%B9%E7%A6%BB%E5%88%AB%23" target="weibo">
 庆怜 我还需要成长才能面对离别（热度：143752）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E4%BD%B3%E4%B8%8B%E6%88%8F%E5%90%8E%E5%BD%95%E8%A7%86%E9%A2%91%E5%93%BD%E5%92%BD%23" target="weibo">
+宋佳下戏后录视频哽咽（热度：143649）
 </a>
 </li>
 
@@ -8799,6 +8817,12 @@ A股吹响冲锋号（热度：125893）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%A4%AE%E6%9C%80%E6%96%B0%E9%83%A8%E7%BD%B2%E9%87%8D%E8%A6%81%E4%BF%A1%E5%8F%B7%E8%A7%81%E5%8A%9B%E5%BA%A6%23" target="weibo">
+中央最新部署重要信号见力度（热度：125701）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AE%A1%E4%BD%8F%E5%81%B7%E6%8B%8D%E6%91%84%E5%83%8F%E5%A4%B4%E8%BF%98%E5%BE%97%E9%87%8D%E7%BD%9A%E9%85%92%E5%BA%97%23" target="weibo">
 管住偷拍摄像头还得重罚酒店（热度：125583）
 </a>
@@ -8897,12 +8921,6 @@ A股吹响冲锋号（热度：125893）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%A2%A7%E6%99%A8%E7%BA%A2%E6%AF%AF%E9%80%A0%E5%9E%8B%E5%A5%BD%E4%BB%99%23" target="weibo">
 张碧晨红毯造型好仙（热度：123700）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E4%BD%B3%E4%B8%8B%E6%88%8F%E5%90%8E%E5%BD%95%E8%A7%86%E9%A2%91%E5%93%BD%E5%92%BD%23" target="weibo">
-宋佳下戏后录视频哽咽（热度：123592）
 </a>
 </li>
 
@@ -9209,12 +9227,6 @@ RED首次红毯（热度：118672）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%81%B5%E5%84%BF%E6%94%B9%E9%80%A0%E7%9A%84%E5%AF%B9%E8%B1%A1%E7%BB%88%E4%BA%8E%E5%88%B0%E4%BA%86%E6%8B%96%E7%B1%B3%23" target="weibo">
 灵儿改造的对象终于到了拖米（热度：116258）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%8B%92%E8%A7%81%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%23" target="weibo">
-特朗普拒见泽连斯基（热度：115955）
 </a>
 </li>
 
@@ -9533,12 +9545,6 @@ LPR（热度：113342）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%91%A8%E6%97%A5%E9%9C%80%E8%A6%81%E4%B8%8A%E7%8F%AD%23" target="weibo">
 这周日需要上班（热度：105856）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%A4%AE%E6%9C%80%E6%96%B0%E9%83%A8%E7%BD%B2%E9%87%8D%E8%A6%81%E4%BF%A1%E5%8F%B7%E8%A7%81%E5%8A%9B%E5%BA%A6%23" target="weibo">
-中央最新部署重要信号见力度（热度：105061）
 </a>
 </li>
 
@@ -10059,12 +10065,6 @@ enhypen身高被质疑（热度：79136）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23Capper%E5%91%A8%E9%9C%87%E5%8D%97%E5%95%83%E8%8B%B9%E6%9E%9C%E5%AE%98%E5%AE%A3%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
-Capper周震南啃苹果官宣演唱会（热度：77623）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B8%B8%E5%AE%A2%E9%80%9B%E7%B4%AF%E4%BA%86%E5%9D%90%E7%9D%80%E5%B0%B1%E6%8A%8A%E7%94%B5%E5%85%85%E6%BB%A1%E4%BA%86%23" target="weibo">
 游客逛累了坐着就把电充满了（热度：77424）
 </a>
@@ -10331,6 +10331,12 @@ aespa和ILLIT同一天回归（热度：68490）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E6%8A%8A%E9%9F%B3%E5%93%8D%E5%8A%A0%E5%88%B0%E9%B8%9F%E5%B7%A2%E6%89%BF%E9%87%8D%E6%9E%81%E9%99%90%23" target="weibo">
 周深把音响加到鸟巢承重极限（热度：64758）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E9%92%B1%E5%A0%A1%E5%9E%92%23" target="weibo">
+金钱堡垒（热度：64384）
 </a>
 </li>
 
@@ -10667,6 +10673,12 @@ aespa和ILLIT同一天回归（热度：68490）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%AB%A5%E7%96%91%E8%A2%AB%E6%89%98%E7%AE%A1%E6%9C%BA%E6%9E%84%E8%80%81%E5%B8%88%E6%8B%96%E6%8B%BD%E5%8F%97%E4%BC%A4%23" target="weibo">
 男童疑被托管机构老师拖拽受伤（热度：54428）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%98%BF%E7%BB%B4%E5%A1%9407%23" target="weibo">
+阿维塔07（热度：54427）
 </a>
 </li>
 

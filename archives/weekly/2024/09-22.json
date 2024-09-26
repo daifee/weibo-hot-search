@@ -1,6 +1,6 @@
 {
   "startTime": 1726936020707,
-  "endTime": 1727368091089,
+  "endTime": 1727369060751,
   "band_list": [
     {
       "raw_hot": 12357374,
@@ -3500,7 +3500,7 @@
     },
     {
       "raw_hot": 415849,
-      "num": 255383,
+      "num": 261360,
       "word": "迪丽热巴少来烦姐挂件",
       "onboard_time": 1727365759,
       "rank": 11,
@@ -4433,6 +4433,14 @@
       "onboard_time": 1727343859,
       "rank": 19,
       "category": "网红"
+    },
+    {
+      "raw_hot": 329595,
+      "num": 329595,
+      "word": "记住那个摔得头破血流的年轻人",
+      "onboard_time": 1727365219,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 329078,
@@ -6323,14 +6331,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 220181,
-      "num": 220181,
-      "word": "记住那个摔得头破血流的年轻人",
-      "onboard_time": 1727365219,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 219657,
       "num": 219657,
       "word": "二十一天开播",
@@ -6460,7 +6460,7 @@
     },
     {
       "raw_hot": 216747,
-      "num": 216747,
+      "num": 292487,
       "word": "官方通报学生家长校门口跪地",
       "onboard_time": 1727361801,
       "rank": 35,
@@ -9579,6 +9579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 162368,
+      "num": 162368,
+      "word": "特朗普拒见泽连斯基",
+      "onboard_time": 1727367258,
+      "rank": 27,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 162241,
       "num": 236892,
       "word": "小鱼 大佬培养我考北大",
@@ -9977,6 +9985,14 @@
       "onboard_time": 1726992680,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 152690,
+      "num": 186161,
+      "word": "Capper周震南啃苹果官宣演唱会",
+      "onboard_time": 1727367857,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 152657,
@@ -10641,6 +10657,14 @@
       "onboard_time": 1727104039,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 143649,
+      "num": 212843,
+      "word": "宋佳下戏后录视频哽咽",
+      "onboard_time": 1727364919,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 143635,
@@ -11715,6 +11739,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 125701,
+      "num": 125701,
+      "word": "中央最新部署重要信号见力度",
+      "onboard_time": 1727367019,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 125583,
       "num": 558575,
       "word": "管住偷拍摄像头还得重罚酒店",
@@ -11849,14 +11881,6 @@
       "onboard_time": 1727263698,
       "rank": 48,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 123592,
-      "num": 212843,
-      "word": "宋佳下戏后录视频哽咽",
-      "onboard_time": 1727364919,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 123420,
@@ -12265,14 +12289,6 @@
       "onboard_time": 1726984162,
       "rank": 39,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 115955,
-      "num": 115955,
-      "word": "特朗普拒见泽连斯基",
-      "onboard_time": 1727367258,
-      "rank": 27,
-      "category": "国外时政"
     },
     {
       "raw_hot": 115892,
@@ -12697,14 +12713,6 @@
       "onboard_time": 1727059337,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 105061,
-      "num": 105061,
-      "word": "中央最新部署重要信号见力度",
-      "onboard_time": 1727367019,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 104987,
@@ -13395,14 +13403,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 77623,
-      "num": 77623,
-      "word": "Capper周震南啃苹果官宣演唱会",
-      "onboard_time": 1727367857,
-      "rank": 43,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 77424,
       "num": 107748,
       "word": "游客逛累了坐着就把电充满了",
@@ -13676,7 +13676,7 @@
     },
     {
       "raw_hot": 67295,
-      "num": 71528,
+      "num": 82215,
       "word": "龚俊工作室出图",
       "onboard_time": 1727365398,
       "rank": 48,
@@ -13761,6 +13761,14 @@
       "onboard_time": 1726960875,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 64384,
+      "num": 82229,
+      "word": "金钱堡垒",
+      "onboard_time": 1727368516,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 64109,
@@ -14209,6 +14217,14 @@
       "onboard_time": 1726924101,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 54427,
+      "num": 82200,
+      "word": "阿维塔07",
+      "onboard_time": 1727368457,
+      "rank": 49,
+      "category": "汽车"
     },
     {
       "raw_hot": 53871,

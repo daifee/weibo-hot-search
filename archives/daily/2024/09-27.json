@@ -1,6 +1,6 @@
 {
   "startTime": 1727368091089,
-  "endTime": 1727368091089,
+  "endTime": 1727369060751,
   "band_list": [
     {
       "raw_hot": 2291469,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1057110,
-      "num": 262774,
+      "num": 267213,
       "word": "张杰谢娜纪念结婚13年",
       "onboard_time": 1727364620,
       "rank": 10,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 415849,
-      "num": 255383,
+      "num": 261360,
       "word": "迪丽热巴少来烦姐挂件",
       "onboard_time": 1727365759,
       "rank": 11,
@@ -75,8 +75,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 329595,
+      "num": 329595,
+      "word": "记住那个摔得头破血流的年轻人",
+      "onboard_time": 1727365219,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 297251,
-      "num": 244327,
+      "num": 246654,
       "word": "蔡徐坤CardiB坐在一起",
       "onboard_time": 1727359941,
       "rank": 12,
@@ -84,7 +92,7 @@
     },
     {
       "raw_hot": 293126,
-      "num": 236148,
+      "num": 248802,
       "word": "李沐宸 喜欢我是一件小众的事",
       "onboard_time": 1727361081,
       "rank": 13,
@@ -115,16 +123,8 @@
       "category": "网红"
     },
     {
-      "raw_hot": 220181,
-      "num": 220181,
-      "word": "记住那个摔得头破血流的年轻人",
-      "onboard_time": 1727365219,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 216747,
-      "num": 216747,
+      "num": 292487,
       "word": "官方通报学生家长校门口跪地",
       "onboard_time": 1727361801,
       "rank": 16,
@@ -147,6 +147,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 183054,
+      "num": 313512,
+      "word": "姚安娜一学就会秦霄贤一学就废",
+      "onboard_time": 1727353639,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 181741,
       "num": 277206,
       "word": "陈都灵路透",
@@ -155,12 +163,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 169822,
-      "num": 215868,
-      "word": "姚安娜一学就会秦霄贤一学就废",
-      "onboard_time": 1727353639,
-      "rank": 17,
-      "category": "综艺"
+      "raw_hot": 166957,
+      "num": 273560,
+      "word": "中国住宅要取消公摊了吗",
+      "onboard_time": 1727341759,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 164154,
@@ -171,12 +179,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 162368,
+      "num": 162368,
+      "word": "特朗普拒见泽连斯基",
+      "onboard_time": 1727367258,
+      "rank": 27,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 158508,
       "num": 213995,
       "word": "金智媛新闻图状态",
       "onboard_time": 1727359580,
       "rank": 18,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 152690,
+      "num": 186161,
+      "word": "Capper周震南啃苹果官宣演唱会",
+      "onboard_time": 1727367857,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 146082,
@@ -187,6 +211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 143649,
+      "num": 212843,
+      "word": "宋佳下戏后录视频哽咽",
+      "onboard_time": 1727364919,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 138247,
       "num": 138247,
       "word": "韩女奥运冠军被霸凌给男选手洗内裤",
@@ -195,28 +227,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 125090,
-      "num": 273560,
-      "word": "中国住宅要取消公摊了吗",
-      "onboard_time": 1727341759,
-      "rank": 9,
+      "raw_hot": 125701,
+      "num": 125701,
+      "word": "中央最新部署重要信号见力度",
+      "onboard_time": 1727367019,
+      "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 123592,
-      "num": 212843,
-      "word": "宋佳下戏后录视频哽咽",
-      "onboard_time": 1727364919,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 115955,
-      "num": 115955,
-      "word": "特朗普拒见泽连斯基",
-      "onboard_time": 1727367258,
-      "rank": 27,
-      "category": "国外时政"
     },
     {
       "raw_hot": 114847,
@@ -259,14 +275,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 105061,
-      "num": 105061,
-      "word": "中央最新部署重要信号见力度",
-      "onboard_time": 1727367019,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 100364,
       "num": 100364,
       "word": "高尿酸人群真正要忌口的食物",
@@ -299,20 +307,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 91428,
+      "num": 91428,
+      "word": "教育局通报家长跪求取消钉钉打卡",
+      "onboard_time": 1727362102,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 91386,
       "num": 91386,
       "word": "洲际弹道导弹发射现场图公布",
       "onboard_time": 1727354480,
       "rank": 39,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 89948,
-      "num": 89948,
-      "word": "教育局通报家长跪求取消钉钉打卡",
-      "onboard_time": 1727362102,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 85772,
@@ -332,23 +340,15 @@
     },
     {
       "raw_hot": 79058,
-      "num": 79058,
+      "num": 82220,
       "word": "住宿前一定要先检查这4个地方",
       "onboard_time": 1727355858,
       "rank": 42,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 77623,
-      "num": 77623,
-      "word": "Capper周震南啃苹果官宣演唱会",
-      "onboard_time": 1727367857,
-      "rank": 43,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 75369,
-      "num": 75369,
+      "num": 82202,
       "word": "世界避孕日",
       "onboard_time": 1727354238,
       "rank": 44,
@@ -364,7 +364,7 @@
     },
     {
       "raw_hot": 73427,
-      "num": 73427,
+      "num": 82229,
       "word": "三只羊构成虚假的商业宣传",
       "onboard_time": 1727358142,
       "rank": 46,
@@ -372,7 +372,7 @@
     },
     {
       "raw_hot": 72250,
-      "num": 72250,
+      "num": 82207,
       "word": "大张伟在法庭上蛐蛐老板",
       "onboard_time": 1727360603,
       "rank": 47,
@@ -380,7 +380,7 @@
     },
     {
       "raw_hot": 67295,
-      "num": 71528,
+      "num": 82215,
       "word": "龚俊工作室出图",
       "onboard_time": 1727365398,
       "rank": 48,
@@ -393,6 +393,22 @@
       "onboard_time": 1727358620,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 64384,
+      "num": 82229,
+      "word": "金钱堡垒",
+      "onboard_time": 1727368516,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 54427,
+      "num": 82200,
+      "word": "阿维塔07",
+      "onboard_time": 1727368457,
+      "rank": 49,
+      "category": "汽车"
     },
     {
       "raw_hot": 5856,
