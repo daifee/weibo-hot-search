@@ -1,6 +1,6 @@
 {
   "startTime": 1727281816744,
-  "endTime": 1727340185439,
+  "endTime": 1727342635851,
   "band_list": [
     {
       "raw_hot": 2146242,
@@ -33,6 +33,14 @@
       "onboard_time": 1727328620,
       "rank": 10,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1601345,
+      "num": 1601345,
+      "word": "东北雨姐回应红薯粉无红薯事件",
+      "onboard_time": 1727338879,
+      "rank": 13,
+      "category": "网红"
     },
     {
       "raw_hot": 1543293,
@@ -129,6 +137,14 @@
       "onboard_time": 1727319798,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 861117,
+      "num": 861117,
+      "word": "日本开始第九轮核污染水排海",
+      "onboard_time": 1727337919,
+      "rank": 17,
+      "category": "国外时政"
     },
     {
       "raw_hot": 857898,
@@ -267,20 +283,20 @@
       "category": "数码"
     },
     {
-      "raw_hot": 598946,
-      "num": 598946,
-      "word": "日本开始第九轮核污染水排海",
-      "onboard_time": 1727337919,
-      "rank": 17,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 581961,
       "num": 581961,
       "word": "白酒",
       "onboard_time": 1727330240,
       "rank": 5,
       "category": "财经"
+    },
+    {
+      "raw_hot": 575711,
+      "num": 575711,
+      "word": "孔子竟然会武功",
+      "onboard_time": 1727337079,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 575438,
@@ -339,11 +355,11 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 461049,
-      "num": 554842,
-      "word": "东北雨姐回应红薯粉无红薯事件",
-      "onboard_time": 1727338879,
-      "rank": 13,
+      "raw_hot": 462305,
+      "num": 462305,
+      "word": "东北雨姐道歉",
+      "onboard_time": 1727340979,
+      "rank": 8,
       "category": "网红"
     },
     {
@@ -408,6 +424,14 @@
       "word": "肖战两黑粉被强执8713元",
       "onboard_time": 1727321119,
       "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 413527,
+      "num": 413527,
+      "word": "亲友回应邹诚俊去世",
+      "onboard_time": 1727339059,
+      "rank": 38,
       "category": "艺人"
     },
     {
@@ -499,6 +523,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 341601,
+      "num": 341601,
+      "word": "中国住宅要取消公摊了吗",
+      "onboard_time": 1727341759,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 338116,
       "num": 338116,
       "word": "光遇",
@@ -513,14 +545,6 @@
       "onboard_time": 1727317759,
       "rank": 13,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 327872,
-      "num": 327872,
-      "word": "亲友回应邹诚俊去世",
-      "onboard_time": 1727339059,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 327497,
@@ -547,6 +571,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 306803,
+      "num": 306803,
+      "word": "全职高手官方道歉",
+      "onboard_time": 1727340919,
+      "rank": 23,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 303959,
       "num": 303959,
       "word": "如鸢攻略",
@@ -571,12 +603,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 282644,
-      "num": 282644,
-      "word": "孔子竟然会武功",
-      "onboard_time": 1727337079,
-      "rank": 21,
-      "category": "社会新闻"
+      "raw_hot": 284523,
+      "num": 284523,
+      "word": "刘亦菲五官特写",
+      "onboard_time": 1727338879,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 281646,
@@ -601,6 +633,14 @@
       "onboard_time": 1727312778,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 265111,
+      "num": 265111,
+      "word": "何运晨在offer6变何叔叔",
+      "onboard_time": 1727337619,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 264317,
@@ -675,12 +715,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 246728,
-      "num": 246728,
-      "word": "何运晨在offer6变何叔叔",
-      "onboard_time": 1727337619,
-      "rank": 22,
-      "category": "综艺"
+      "raw_hot": 244701,
+      "num": 244701,
+      "word": "韩国2公斤白菜卖到79元",
+      "onboard_time": 1727340259,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 244309,
@@ -712,14 +752,6 @@
       "word": "赵今麦张凌赫自然到不像演的",
       "onboard_time": 1727269402,
       "rank": 13,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 237338,
-      "num": 237338,
-      "word": "刘亦菲五官特写",
-      "onboard_time": 1727338879,
-      "rank": 27,
       "category": "作品衍生"
     },
     {
@@ -769,6 +801,14 @@
       "onboard_time": 1727314878,
       "rank": 23,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 228620,
+      "num": 328900,
+      "word": "陕西男子服刑20年出狱后讨公道",
+      "onboard_time": 1727338699,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 224090,
@@ -915,6 +955,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 202224,
+      "num": 421009,
+      "word": "A股成交额连续2天破万亿",
+      "onboard_time": 1727335760,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 200133,
       "num": 200133,
       "word": "县城中产爱上拉夫劳伦平替",
@@ -929,14 +977,6 @@
       "onboard_time": 1727305815,
       "rank": 8,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 199721,
-      "num": 421009,
-      "word": "A股成交额连续2天破万亿",
-      "onboard_time": 1727335760,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 199542,
@@ -1083,6 +1123,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 170627,
+      "num": 170627,
+      "word": "黑神话天蓬元帅原画披露",
+      "onboard_time": 1727340679,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 169953,
       "num": 411080,
       "word": "三市上涨个股超4900只",
@@ -1105,6 +1153,14 @@
       "onboard_time": 1727336419,
       "rank": 42,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 167047,
+      "num": 167047,
+      "word": "实况P图",
+      "onboard_time": 1727341999,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 166475,
@@ -1387,6 +1443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 131459,
+      "num": 131459,
+      "word": "林孝埈小组第二",
+      "onboard_time": 1727341578,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 130300,
       "num": 130300,
       "word": "塞尔达传说智慧的再现",
@@ -1427,6 +1491,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 124477,
+      "num": 124477,
+      "word": "董子健导演电影",
+      "onboard_time": 1727342540,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 124334,
       "num": 124334,
       "word": "如鸢 卡关",
@@ -1451,6 +1523,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 117377,
+      "num": 117377,
+      "word": "范志毅再谈采访名场面",
+      "onboard_time": 1727342479,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 116361,
       "num": 116361,
       "word": "13岁女孩在校排练啦啦操猝死",
@@ -1473,6 +1553,14 @@
       "onboard_time": 1727330180,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 110207,
+      "num": 110207,
+      "word": "武磊回应遭球迷辱骂",
+      "onboard_time": 1727342540,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 110152,
@@ -1755,12 +1843,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 70286,
-      "num": 328900,
-      "word": "陕西男子服刑20年出狱后讨公道",
-      "onboard_time": 1727338699,
-      "rank": 19,
-      "category": "社会新闻"
+      "raw_hot": 69747,
+      "num": 460704,
+      "word": "希林娜依高竟然躲在后台吃糖",
+      "onboard_time": 1727337800,
+      "rank": 11,
+      "category": "音乐"
     },
     {
       "raw_hot": 69495,
@@ -1793,6 +1881,14 @@
       "onboard_time": 1727304073,
       "rank": 42,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 64374,
+      "num": 342524,
+      "word": "东北雨姐哭了",
+      "onboard_time": 1727342479,
+      "rank": 18,
+      "category": "网红"
     },
     {
       "raw_hot": 64109,
@@ -2011,20 +2107,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 43792,
+      "num": 341706,
+      "word": "聊天剧本6天教你从恋爱到入刑",
+      "onboard_time": 1727341099,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 42325,
       "num": 49659,
       "word": "成毅黑白双生海报",
       "onboard_time": 1727285593,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 41472,
-      "num": 460704,
-      "word": "希林娜依高竟然躲在后台吃糖",
-      "onboard_time": 1727337800,
-      "rank": 11,
-      "category": "音乐"
     },
     {
       "raw_hot": 40314,
@@ -2083,6 +2179,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 36511,
+      "num": 415627,
+      "word": "员工称工伤赔偿被公司扣了四年",
+      "onboard_time": 1727341818,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 36406,
       "num": 84747,
       "word": "治理欠薪欠保违法裁员求职陷阱乱象",
@@ -2105,6 +2209,14 @@
       "onboard_time": 1727318237,
       "rank": 9,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 33965,
+      "num": 458408,
+      "word": "黎巴嫩已有约9万人流离失所",
+      "onboard_time": 1727341639,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 33874,
@@ -2155,12 +2267,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 22309,
+      "num": 808048,
+      "word": "我们这样践行嘱托",
+      "onboard_time": 1727339840,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 22101,
       "num": 204035,
       "word": "搭子治好了我的开学综合症",
       "onboard_time": 1727337800,
       "rank": 29,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 20741,
+      "num": 129146,
+      "word": "浓人再也不想跟淡人换房间",
+      "onboard_time": 1727341879,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 18893,
+      "num": 159687,
+      "word": "如鸢Live2D的神",
+      "onboard_time": 1727341461,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 18234,
@@ -2187,19 +2323,19 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 15400,
-      "num": 808048,
-      "word": "我们这样践行嘱托",
-      "onboard_time": 1727339840,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 13964,
       "num": 17961,
       "word": "非法使用窃听窃照专用器材或领刑2年",
       "onboard_time": 1727294051,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 11664,
+      "num": 985545,
+      "word": "用科幻电影的方式感受智能传播",
+      "onboard_time": 1727335639,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -2217,6 +2353,14 @@
       "onboard_time": 1727269101,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 7698,
+      "num": 344790,
+      "word": "惠英红 掌管光影的神",
+      "onboard_time": 1727342599,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 7535,
