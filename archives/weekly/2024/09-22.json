@@ -1,6 +1,6 @@
 {
   "startTime": 1726936020707,
-  "endTime": 1727360506014,
+  "endTime": 1727361676154,
   "band_list": [
     {
       "raw_hot": 12357374,
@@ -2667,6 +2667,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 531200,
+      "num": 531200,
+      "word": "以色列被禁止以国家名义参加国际竞赛",
+      "onboard_time": 1727357481,
+      "rank": 23,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 531001,
       "num": 488372,
       "word": "河南一学生欲跳楼老师报警被阻拦",
@@ -2937,14 +2945,6 @@
       "onboard_time": 1727234478,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 485155,
-      "num": 485155,
-      "word": "以色列被禁止以国家名义参加国际竞赛",
-      "onboard_time": 1727357481,
-      "rank": 23,
-      "category": "国外时政"
     },
     {
       "raw_hot": 484598,
@@ -3539,6 +3539,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 408407,
+      "num": 350849,
+      "word": "蔡徐坤CardiB坐在一起",
+      "onboard_time": 1727359941,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 407422,
       "num": 207163,
       "word": "成龙樊振东全红婵同框",
@@ -3625,6 +3633,14 @@
       "onboard_time": 1727011824,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 396315,
+      "num": 396315,
+      "word": "金智媛新闻图状态",
+      "onboard_time": 1727359580,
+      "rank": 8,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 395635,
@@ -3977,14 +3993,6 @@
       "onboard_time": 1727146819,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 363278,
-      "num": 363278,
-      "word": "金智媛新闻图状态",
-      "onboard_time": 1727359580,
-      "rank": 8,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 363188,
@@ -4675,6 +4683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 298050,
+      "num": 298050,
+      "word": "牛肉价格降至5年来最低",
+      "onboard_time": 1727360302,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 296782,
       "num": 296782,
       "word": "代号鸢",
@@ -5032,6 +5048,14 @@
       "word": "叶珂最新健身视频",
       "onboard_time": 1726966459,
       "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 271328,
+      "num": 271328,
+      "word": "李沐宸 喜欢我是一件小众的事",
+      "onboard_time": 1727361081,
+      "rank": 19,
       "category": "艺人"
     },
     {
@@ -6211,6 +6235,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 220341,
+      "num": 220341,
+      "word": "高尿酸人群真正要忌口的食物",
+      "onboard_time": 1727358862,
+      "rank": 44,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 219657,
       "num": 219657,
       "word": "二十一天开播",
@@ -6224,6 +6256,14 @@
       "word": "杨志刚亲手制作酥山赠与多宝",
       "onboard_time": 1727142797,
       "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 219090,
+      "num": 219090,
+      "word": "大张伟在法庭上蛐蛐老板",
+      "onboard_time": 1727360603,
+      "rank": 24,
       "category": "综艺"
     },
     {
@@ -7987,6 +8027,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 187389,
+      "num": 215209,
+      "word": "任嘉伦王鹤润合作",
+      "onboard_time": 1727360420,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 187268,
       "num": 174620,
       "word": "于正发文祝白鹿生日快乐",
@@ -9243,6 +9291,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 164788,
+      "num": 164788,
+      "word": "笑点低真的不适合当老师",
+      "onboard_time": 1727358620,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 164703,
       "num": 203554,
       "word": "陈梦谈巴黎奥运会夺金",
@@ -9979,14 +10035,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 150064,
-      "num": 150064,
-      "word": "笑点低真的不适合当老师",
-      "onboard_time": 1727358620,
-      "rank": 41,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 150008,
       "num": 150008,
       "word": "商竣程创造历史",
@@ -10243,6 +10291,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 147019,
+      "num": 360670,
+      "word": "火锅店熬制地沟油10人获刑",
+      "onboard_time": 1727359101,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 146950,
       "num": 146950,
       "word": "如鸢预约",
@@ -10313,6 +10369,14 @@
       "onboard_time": 1727153062,
       "rank": 48,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 146143,
+      "num": 146143,
+      "word": "AG魏无羡联赛1400淘汰",
+      "onboard_time": 1727360661,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 146103,
@@ -10491,14 +10555,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 143567,
-      "num": 350849,
-      "word": "蔡徐坤CardiB坐在一起",
-      "onboard_time": 1727359941,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 143210,
       "num": 143210,
       "word": "惠若琪说周深嗓子确实杠杠的",
@@ -10521,14 +10577,6 @@
       "onboard_time": 1726922301,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 142957,
-      "num": 142957,
-      "word": "牛肉价格降至5年来最低",
-      "onboard_time": 1727360302,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 142805,
@@ -10569,14 +10617,6 @@
       "onboard_time": 1727319078,
       "rank": 44,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 142236,
-      "num": 142236,
-      "word": "高尿酸人群真正要忌口的食物",
-      "onboard_time": 1727358862,
-      "rank": 44,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 142212,
@@ -10681,14 +10721,6 @@
       "onboard_time": 1727088740,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 139591,
-      "num": 139591,
-      "word": "任嘉伦王鹤润合作",
-      "onboard_time": 1727360420,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 139122,
@@ -11107,6 +11139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 133257,
+      "num": 354858,
+      "word": "三只羊称愿承担相关法律责任",
+      "onboard_time": 1727359101,
+      "rank": 11,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 133241,
       "num": 133241,
       "word": "努力提振资本市场",
@@ -11395,6 +11435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 128957,
+      "num": 128957,
+      "word": "2024世界设计之都大会",
+      "onboard_time": 1727360661,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 128880,
       "num": 128880,
       "word": "黑神话悟空里的说书人坚守了32年",
@@ -11427,12 +11475,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 127829,
+      "num": 127829,
+      "word": "贵州一地大量巨石滚落砸穿住宅楼",
+      "onboard_time": 1727361320,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 127696,
       "num": 127696,
       "word": "无锡骗保民营医院已停业",
       "onboard_time": 1727134638,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 127495,
+      "num": 348176,
+      "word": "WMA回应单依纯口误",
+      "onboard_time": 1727359822,
+      "rank": 14,
+      "category": "音乐,艺人"
     },
     {
       "raw_hot": 127342,
@@ -11809,6 +11873,14 @@
       "onboard_time": 1727176158,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 120673,
+      "num": 120673,
+      "word": "全新智己LS6 21.69万起",
+      "onboard_time": 1727361561,
+      "rank": 49,
+      "category": "汽车"
     },
     {
       "raw_hot": 120454,
@@ -12641,14 +12713,6 @@
       "onboard_time": 1727058798,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 96748,
-      "num": 354858,
-      "word": "三只羊称愿承担相关法律责任",
-      "onboard_time": 1727359101,
-      "rank": 11,
-      "category": "互联网"
     },
     {
       "raw_hot": 96687,
@@ -13595,22 +13659,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 61807,
-      "num": 348176,
-      "word": "WMA回应单依纯口误",
-      "onboard_time": 1727359822,
-      "rank": 14,
-      "category": "音乐,艺人"
-    },
-    {
-      "raw_hot": 61704,
-      "num": 360670,
-      "word": "火锅店熬制地沟油10人获刑",
-      "onboard_time": 1727359101,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 61381,
       "num": 337890,
       "word": "王腾说新手机就要碰一下",
@@ -13929,6 +13977,14 @@
       "onboard_time": 1727172198,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 55359,
+      "num": 273386,
+      "word": "董洁新剧女王发言",
+      "onboard_time": 1727361501,
+      "rank": 18,
+      "category": "剧集,艺人"
     },
     {
       "raw_hot": 55202,
@@ -14771,6 +14827,14 @@
       "category": "社会新闻,国外时政"
     },
     {
+      "raw_hot": 39456,
+      "num": 156763,
+      "word": "阿维塔07增程格局颠覆者",
+      "onboard_time": 1727361200,
+      "rank": 35,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 39330,
       "num": 41894,
       "word": "王源金发路透",
@@ -15105,6 +15169,14 @@
       "onboard_time": 1727030053,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 34151,
+      "num": 333019,
+      "word": "男子称有关系可进名校骗走家长千万",
+      "onboard_time": 1727359761,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 34113,
@@ -15827,14 +15899,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 20317,
-      "num": 333019,
-      "word": "男子称有关系可进名校骗走家长千万",
-      "onboard_time": 1727359761,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 19967,
       "num": 26622,
       "word": "赵露思米兰之旅新物料",
@@ -16155,6 +16219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 10237,
+      "num": 786031,
+      "word": "冠军中国青春接力",
+      "onboard_time": 1727357180,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 9787,
       "num": 979113,
       "word": "桥见新时代",
@@ -16191,14 +16263,6 @@
       "num": 494998,
       "word": "丰收的画面有多治愈",
       "onboard_time": 1727012545,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 7557,
-      "num": 786031,
-      "word": "冠军中国青春接力",
-      "onboard_time": 1727357180,
       "rank": 2,
       "category": "社会新闻"
     },
