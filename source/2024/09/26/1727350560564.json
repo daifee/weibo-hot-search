@@ -1,0 +1,410 @@
+{
+  "runTime": 1727350560564,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1369828,
+        "num": 1369828,
+        "word": "中国住宅要取消公摊了吗",
+        "onboard_time": 1727341759,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1134694,
+        "num": 1134694,
+        "word": "东北雨姐道歉",
+        "onboard_time": 1727340979,
+        "rank": 1,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 39645,
+        "num": 838215,
+        "word": "天山南北唱新歌",
+        "onboard_time": 1727348779,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 595634,
+        "num": 595634,
+        "word": "罗斯退役",
+        "onboard_time": 1727347278,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 563828,
+        "num": 563828,
+        "word": "五角大楼回应中国发射洲际导弹",
+        "onboard_time": 1727332159,
+        "rank": 4,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 445384,
+        "num": 445384,
+        "word": "国产剧豆瓣9分的含金量",
+        "onboard_time": 1727344519,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 410253,
+        "num": 410253,
+        "word": "实况P图",
+        "onboard_time": 1727341999,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 388594,
+        "num": 388594,
+        "word": "洲际导弹",
+        "onboard_time": 1727326881,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 75219,
+        "num": 387869,
+        "word": "东北雨姐称2天左右公布质检报告",
+        "onboard_time": 1727347699,
+        "rank": 8,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 147862,
+        "num": 387764,
+        "word": "走进画卷里的徽风皖韵",
+        "onboard_time": 1727348599,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1369832,
+        "num": 386914,
+        "word": "校媛麻辣烫店主称媛字本身美好",
+        "onboard_time": 1727346619,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 936759,
+        "num": 385905,
+        "word": "民宿为什么失宠了",
+        "onboard_time": 1727345479,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 594237,
+        "num": 385267,
+        "word": "黄晓明带叶珂去了大湾区晚会",
+        "onboard_time": 1727328620,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 409804,
+        "num": 384752,
+        "word": "班主任给全班24个学生买电脑",
+        "onboard_time": 1727320278,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 384168,
+        "num": 384168,
+        "word": "合肥肥东2.3级地震",
+        "onboard_time": 1727337019,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 313852,
+        "num": 313852,
+        "word": "教育局称家长跪求取消打卡为不实消息",
+        "onboard_time": 1727347939,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 308933,
+        "num": 308933,
+        "word": "吴谨言活动造型",
+        "onboard_time": 1727344819,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 245090,
+        "num": 245090,
+        "word": "全职高手官方道歉",
+        "onboard_time": 1727340919,
+        "rank": 17,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 206701,
+        "num": 241544,
+        "word": "东北雨姐称打假博主要30万",
+        "onboard_time": 1727343859,
+        "rank": 18,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 143665,
+        "num": 239956,
+        "word": "十个勤天演唱会抢票",
+        "onboard_time": 1727347399,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 308463,
+        "num": 239603,
+        "word": "长期不社交的人会有什么变化",
+        "onboard_time": 1727345058,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 239177,
+        "num": 239177,
+        "word": "马龙担任中网挑边嘉宾",
+        "onboard_time": 1727349918,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 207229,
+        "num": 207229,
+        "word": "你长这么慢 我很难看到你长大",
+        "onboard_time": 1727346499,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 203478,
+        "num": 203478,
+        "word": "一等功到家两位功臣却都不能露脸",
+        "onboard_time": 1727349739,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195594,
+        "num": 195594,
+        "word": "韩国2公斤白菜卖到79元",
+        "onboard_time": 1727340259,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179030,
+        "num": 179030,
+        "word": "晋剧演员一口气连唱32个嗨",
+        "onboard_time": 1727348957,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169639,
+        "num": 169639,
+        "word": "丈夫否认东北雨姐打人",
+        "onboard_time": 1727349438,
+        "rank": 26,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 136301,
+        "num": 168342,
+        "word": "董子健导演电影",
+        "onboard_time": 1727342540,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 134764,
+        "num": 168298,
+        "word": "还以为李宇春脚下装了转盘",
+        "onboard_time": 1727346259,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 6156,
+        "num": 168284,
+        "word": "王雅繁vs克鲁格",
+        "onboard_time": 1727350458,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168275,
+        "num": 168275,
+        "word": "守望先锋联动",
+        "onboard_time": 1727348839,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 168065,
+        "num": 168065,
+        "word": "韩女奥运冠军被霸凌给男选手洗内裤",
+        "onboard_time": 1727349558,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166727,
+        "num": 166727,
+        "word": "阿维塔发布会",
+        "onboard_time": 1727349199,
+        "rank": 32,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 159151,
+        "num": 159151,
+        "word": "如鸢",
+        "onboard_time": 1727331619,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 128853,
+        "num": 128853,
+        "word": "东北雨姐再回应盘锦河蟹事件",
+        "onboard_time": 1727350098,
+        "rank": 34,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 58590,
+        "num": 128596,
+        "word": "如果每个村都是我在xx很想你",
+        "onboard_time": 1727348599,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31913,
+        "num": 128580,
+        "word": "宋佳车银优巴黎女装首秀造型",
+        "onboard_time": 1727345957,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 128571,
+        "num": 128571,
+        "word": "日本开始第九轮核污染水排海",
+        "onboard_time": 1727337919,
+        "rank": 37,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 127339,
+        "num": 127339,
+        "word": "WTT官方称孙颖莎最具统治力",
+        "onboard_time": 1727346378,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127325,
+        "num": 127325,
+        "word": "我国无人驾驶重载列车首试成功",
+        "onboard_time": 1727348479,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117914,
+        "num": 117914,
+        "word": "王楚钦孙颖莎积极备战大满贯",
+        "onboard_time": 1727349379,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 116296,
+        "num": 116296,
+        "word": "村官撞人赔650万一定是小官巨贪吗",
+        "onboard_time": 1727343498,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113925,
+        "num": 113925,
+        "word": "阿里巴巴京东互相开放",
+        "onboard_time": 1727349138,
+        "rank": 42,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 113065,
+        "num": 113065,
+        "word": "医院肥胖科的饮料含糖量展示柜火了",
+        "onboard_time": 1727348178,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111356,
+        "num": 111356,
+        "word": "亲友回应邹诚俊去世",
+        "onboard_time": 1727339059,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110546,
+        "num": 110546,
+        "word": "如鸢开门了",
+        "onboard_time": 1727312119,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 108846,
+        "num": 108846,
+        "word": "刘亦菲五官特写",
+        "onboard_time": 1727338879,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 103686,
+        "num": 103686,
+        "word": "市监局回应饭店1份饺子68元",
+        "onboard_time": 1727350217,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100759,
+        "num": 100759,
+        "word": "我国万吨列车实现新突破",
+        "onboard_time": 1727348717,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37566,
+        "num": 100673,
+        "word": "郭晶晶现身新疆棉田秀",
+        "onboard_time": 1727350339,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中共中央政治局召开会议部署经济工作#"
+    }
+  }
+}

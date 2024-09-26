@@ -1,6 +1,6 @@
 {
   "startTime": 1727281816744,
-  "endTime": 1727349535154,
+  "endTime": 1727350560564,
   "band_list": [
     {
       "raw_hot": 2340973,
@@ -91,6 +91,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1369832,
+      "num": 470171,
+      "word": "校媛麻辣烫店主称媛字本身美好",
+      "onboard_time": 1727346619,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1228111,
       "num": 590598,
       "word": "于适新头像",
@@ -155,28 +163,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 936759,
+      "num": 463342,
+      "word": "民宿为什么失宠了",
+      "onboard_time": 1727345479,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 935635,
       "num": 935635,
       "word": "实况P图",
       "onboard_time": 1727341999,
       "rank": 33,
       "category": "情感"
-    },
-    {
-      "raw_hot": 923298,
-      "num": 470171,
-      "word": "校媛麻辣烫店主称媛字本身美好",
-      "onboard_time": 1727346619,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 915530,
-      "num": 463342,
-      "word": "民宿为什么失宠了",
-      "onboard_time": 1727345479,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 861117,
@@ -635,6 +635,30 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 313852,
+      "num": 313852,
+      "word": "教育局称家长跪求取消打卡为不实消息",
+      "onboard_time": 1727347939,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 308933,
+      "num": 437576,
+      "word": "吴谨言活动造型",
+      "onboard_time": 1727344819,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 308463,
+      "num": 239603,
+      "word": "长期不社交的人会有什么变化",
+      "onboard_time": 1727345058,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 307494,
       "num": 307494,
       "word": "如鸢抢名字",
@@ -713,14 +737,6 @@
       "onboard_time": 1727342540,
       "rank": 46,
       "category": "电影"
-    },
-    {
-      "raw_hot": 265220,
-      "num": 437576,
-      "word": "吴谨言活动造型",
-      "onboard_time": 1727344819,
-      "rank": 21,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 264317,
@@ -825,6 +841,14 @@
       "onboard_time": 1727269402,
       "rank": 13,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 239177,
+      "num": 239177,
+      "word": "马龙担任中网挑边嘉宾",
+      "onboard_time": 1727349918,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 237244,
@@ -995,11 +1019,11 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 208725,
-      "num": 208725,
-      "word": "长期不社交的人会有什么变化",
-      "onboard_time": 1727345058,
-      "rank": 23,
+      "raw_hot": 207229,
+      "num": 207229,
+      "word": "你长这么慢 我很难看到你长大",
+      "onboard_time": 1727346499,
+      "rank": 34,
       "category": "情感"
     },
     {
@@ -1043,6 +1067,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 203478,
+      "num": 203478,
+      "word": "一等功到家两位功臣却都不能露脸",
+      "onboard_time": 1727349739,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 202224,
       "num": 421009,
       "word": "A股成交额连续2天破万亿",
@@ -1073,14 +1105,6 @@
       "onboard_time": 1727314699,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 199257,
-      "num": 199257,
-      "word": "你长这么慢 我很难看到你长大",
-      "onboard_time": 1727346499,
-      "rank": 34,
-      "category": "情感"
     },
     {
       "raw_hot": 195593,
@@ -1147,14 +1171,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 184611,
-      "num": 184611,
-      "word": "教育局称家长跪求取消打卡为不实消息",
-      "onboard_time": 1727347939,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 184389,
       "num": 419511,
       "word": "33岁男子辞去工程监理摆摊卖卤肉",
@@ -1179,6 +1195,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 179030,
+      "num": 179030,
+      "word": "晋剧演员一口气连唱32个嗨",
+      "onboard_time": 1727348957,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 178958,
       "num": 178958,
       "word": "买完十一的机票不敢再看价格了",
@@ -1196,7 +1220,7 @@
     },
     {
       "raw_hot": 175777,
-      "num": 181805,
+      "num": 239956,
       "word": "十个勤天演唱会抢票",
       "onboard_time": 1727347399,
       "rank": 26,
@@ -1299,11 +1323,19 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 169025,
-      "num": 169025,
-      "word": "晋剧演员一口气连唱32个嗨",
-      "onboard_time": 1727348957,
-      "rank": 32,
+      "raw_hot": 169639,
+      "num": 169639,
+      "word": "丈夫否认东北雨姐打人",
+      "onboard_time": 1727349438,
+      "rank": 43,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 168065,
+      "num": 168065,
+      "word": "韩女奥运冠军被霸凌给男选手洗内裤",
+      "onboard_time": 1727349558,
+      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -1683,6 +1715,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 128853,
+      "num": 128853,
+      "word": "东北雨姐再回应盘锦河蟹事件",
+      "onboard_time": 1727350098,
+      "rank": 34,
+      "category": "网红"
+    },
+    {
       "raw_hot": 128283,
       "num": 128283,
       "word": "山花烂漫时",
@@ -1697,6 +1737,14 @@
       "onboard_time": 1727319378,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 127325,
+      "num": 127325,
+      "word": "我国无人驾驶重载列车首试成功",
+      "onboard_time": 1727348479,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 126402,
@@ -1763,6 +1811,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 117914,
+      "num": 117914,
+      "word": "王楚钦孙颖莎积极备战大满贯",
+      "onboard_time": 1727349379,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 116361,
       "num": 116361,
       "word": "13岁女孩在校排练啦啦操猝死",
@@ -1787,6 +1843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 113925,
+      "num": 113925,
+      "word": "阿里巴巴京东互相开放",
+      "onboard_time": 1727349138,
+      "rank": 46,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 113189,
       "num": 113189,
       "word": "奥运冠军陈梦邀你去尼山",
@@ -1795,20 +1859,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 113027,
-      "num": 113027,
-      "word": "我国无人驾驶重载列车首试成功",
-      "onboard_time": 1727348479,
-      "rank": 42,
+      "raw_hot": 113065,
+      "num": 406194,
+      "word": "医院肥胖科的饮料含糖量展示柜火了",
+      "onboard_time": 1727348178,
+      "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 112204,
-      "num": 112204,
-      "word": "丈夫否认东北雨姐打人",
-      "onboard_time": 1727349438,
-      "rank": 43,
-      "category": "网红"
     },
     {
       "raw_hot": 112007,
@@ -1825,14 +1881,6 @@
       "onboard_time": 1727345718,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 110311,
-      "num": 110311,
-      "word": "阿里巴巴京东互相开放",
-      "onboard_time": 1727349138,
-      "rank": 46,
-      "category": "互联网"
     },
     {
       "raw_hot": 110152,
@@ -1899,6 +1947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 103686,
+      "num": 103686,
+      "word": "市监局回应饭店1份饺子68元",
+      "onboard_time": 1727350217,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 101856,
       "num": 101856,
       "word": "张雨霏50蝶夺冠",
@@ -1921,6 +1977,14 @@
       "onboard_time": 1727345899,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 100759,
+      "num": 100759,
+      "word": "我国万吨列车实现新突破",
+      "onboard_time": 1727348717,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 100374,
@@ -1953,14 +2017,6 @@
       "onboard_time": 1727349019,
       "rank": 48,
       "category": "美食"
-    },
-    {
-      "raw_hot": 97690,
-      "num": 97690,
-      "word": "我国万吨列车实现新突破",
-      "onboard_time": 1727348717,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 97618,
@@ -2091,6 +2147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 75219,
+      "num": 504137,
+      "word": "东北雨姐称2天左右公布质检报告",
+      "onboard_time": 1727347699,
+      "rank": 8,
+      "category": "网红"
+    },
+    {
       "raw_hot": 74896,
       "num": 74896,
       "word": "送别黄公略烈士",
@@ -2177,14 +2241,6 @@
       "onboard_time": 1727267602,
       "rank": 45,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 67695,
-      "num": 504137,
-      "word": "东北雨姐称2天左右公布质检报告",
-      "onboard_time": 1727347699,
-      "rank": 8,
-      "category": "网红"
     },
     {
       "raw_hot": 66706,
@@ -2283,11 +2339,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 57616,
-      "num": 406194,
-      "word": "医院肥胖科的饮料含糖量展示柜火了",
-      "onboard_time": 1727348178,
-      "rank": 19,
+      "raw_hot": 58590,
+      "num": 438152,
+      "word": "如果每个村都是我在xx很想你",
+      "onboard_time": 1727348599,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -2385,14 +2441,6 @@
       "onboard_time": 1727319739,
       "rank": 47,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 47272,
-      "num": 438152,
-      "word": "如果每个村都是我在xx很想你",
-      "onboard_time": 1727348599,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 46636,
@@ -2515,6 +2563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 39645,
+      "num": 838215,
+      "word": "天山南北唱新歌",
+      "onboard_time": 1727348779,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 39330,
       "num": 41894,
       "word": "王源金发路透",
@@ -2537,6 +2593,14 @@
       "onboard_time": 1727323579,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 37566,
+      "num": 100673,
+      "word": "郭晶晶现身新疆棉田秀",
+      "onboard_time": 1727350339,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 36910,
@@ -2603,15 +2667,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 32040,
-      "num": 722602,
-      "word": "天山南北唱新歌",
-      "onboard_time": 1727348779,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 29993,
+      "raw_hot": 31913,
       "num": 206239,
       "word": "宋佳车银优巴黎女装首秀造型",
       "onboard_time": 1727345957,
@@ -2753,6 +2809,14 @@
       "onboard_time": 1727269221,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 6156,
+      "num": 168284,
+      "word": "王雅繁vs克鲁格",
+      "onboard_time": 1727350458,
+      "rank": 29,
+      "category": "体育"
     }
   ],
   "hotgov_list": [
