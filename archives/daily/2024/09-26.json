@@ -1,6 +1,6 @@
 {
   "startTime": 1727281816744,
-  "endTime": 1727332264876,
+  "endTime": 1727333082785,
   "band_list": [
     {
       "raw_hot": 1974308,
@@ -75,8 +75,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1163253,
-      "num": 1186120,
+      "raw_hot": 1208898,
+      "num": 1208898,
       "word": "洲际导弹",
       "onboard_time": 1727326881,
       "rank": 6,
@@ -115,20 +115,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 857898,
+      "num": 857898,
+      "word": "中共中央政治局9月26日召开会议",
+      "onboard_time": 1727329340,
+      "rank": 1,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 846020,
       "num": 846020,
       "word": "如鸢开门了",
       "onboard_time": 1727312119,
       "rank": 1,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 805663,
-      "num": 805663,
-      "word": "中共中央政治局9月26日召开会议",
-      "onboard_time": 1727329340,
-      "rank": 1,
-      "category": "国内时政"
     },
     {
       "raw_hot": 805646,
@@ -203,6 +203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 663273,
+      "num": 663273,
+      "word": "李明德签约和颂",
+      "onboard_time": 1727331741,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 654134,
       "num": 654134,
       "word": "秦岚卢昱晓任敏 财阀家的千金们",
@@ -241,6 +249,22 @@
       "onboard_time": 1727312119,
       "rank": 11,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 493113,
+      "num": 493113,
+      "word": "五角大楼回应中国发射洲际导弹",
+      "onboard_time": 1727332159,
+      "rank": 37,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 484182,
+      "num": 484182,
+      "word": "白酒",
+      "onboard_time": 1727330240,
+      "rank": 5,
+      "category": "财经"
     },
     {
       "raw_hot": 482538,
@@ -323,14 +347,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 404963,
-      "num": 404963,
-      "word": "白酒",
-      "onboard_time": 1727330240,
-      "rank": 5,
-      "category": "财经"
-    },
-    {
       "raw_hot": 381859,
       "num": 381859,
       "word": "王鹤润佳偶天成出妆",
@@ -345,14 +361,6 @@
       "onboard_time": 1727281877,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 365589,
-      "num": 314308,
-      "word": "李明德签约和颂",
-      "onboard_time": 1727331741,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 365102,
@@ -377,6 +385,14 @@
       "onboard_time": 1727247679,
       "rank": 5,
       "category": "数码"
+    },
+    {
+      "raw_hot": 346771,
+      "num": 346771,
+      "word": "印小天扫楼把电视砸了",
+      "onboard_time": 1727331799,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 344562,
@@ -440,6 +456,14 @@
       "word": "如鸢攻略",
       "onboard_time": 1727319378,
       "rank": 19,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 285585,
+      "num": 285585,
+      "word": "如鸢",
+      "onboard_time": 1727331619,
+      "rank": 30,
       "category": "游戏"
     },
     {
@@ -611,12 +635,36 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 222116,
+      "num": 222116,
+      "word": "股市",
+      "onboard_time": 1727331799,
+      "rank": 33,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 220721,
+      "num": 220721,
+      "word": "300头野猪72万赏金等你来领",
+      "onboard_time": 1727329819,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 219657,
       "num": 219657,
       "word": "二十一天开播",
       "onboard_time": 1727323519,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 219036,
+      "num": 300475,
+      "word": "WWD发的迪丽热巴",
+      "onboard_time": 1727332879,
+      "rank": 18,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 218378,
@@ -635,8 +683,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 217082,
+      "num": 217082,
+      "word": "女子表演非遗火裙舞太惊艳",
+      "onboard_time": 1727329400,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 216697,
-      "num": 291907,
+      "num": 317944,
       "word": "娜扎扫楼跳新疆舞",
       "onboard_time": 1727330661,
       "rank": 15,
@@ -691,14 +747,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 208339,
-      "num": 208339,
-      "word": "300头野猪72万赏金等你来领",
-      "onboard_time": 1727329819,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 206552,
       "num": 206552,
       "word": "牧神记定档",
@@ -716,7 +764,7 @@
     },
     {
       "raw_hot": 203718,
-      "num": 203718,
+      "num": 212856,
       "word": "刘亦菲32小时拍摄内感受10个角色",
       "onboard_time": 1727332220,
       "rank": 27,
@@ -763,22 +811,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 195167,
-      "num": 195167,
-      "word": "如鸢",
-      "onboard_time": 1727331619,
-      "rank": 30,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 191272,
-      "num": 191272,
-      "word": "女子表演非遗火裙舞太惊艳",
-      "onboard_time": 1727329400,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 190432,
       "num": 180700,
       "word": "天降烟头到熟睡孩子床上床单被烧焦",
@@ -795,20 +827,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 189075,
-      "num": 189075,
-      "word": "股市",
-      "onboard_time": 1727331799,
-      "rank": 33,
-      "category": "财经"
-    },
-    {
       "raw_hot": 188081,
       "num": 188081,
       "word": "李白还是太全面了",
       "onboard_time": 1727320639,
       "rank": 34,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 187996,
+      "num": 333504,
+      "word": "中学校长捞好处连复印纸都不放过",
+      "onboard_time": 1727328620,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 186238,
@@ -833,14 +865,6 @@
       "onboard_time": 1727311879,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 178114,
-      "num": 269832,
-      "word": "印小天扫楼把电视砸了",
-      "onboard_time": 1727331799,
-      "rank": 18,
-      "category": "电影"
     },
     {
       "raw_hot": 175261,
@@ -889,14 +913,6 @@
       "onboard_time": 1727327540,
       "rank": 41,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 169571,
-      "num": 169571,
-      "word": "五角大楼回应中国发射洲际导弹",
-      "onboard_time": 1727332159,
-      "rank": 37,
-      "category": "国外时政"
     },
     {
       "raw_hot": 167229,
@@ -985,6 +1001,14 @@
       "onboard_time": 1727331139,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 153536,
+      "num": 212815,
+      "word": "屈楚萧 林北星不在",
+      "onboard_time": 1727332278,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 151370,
@@ -1089,14 +1113,6 @@
       "onboard_time": 1727319078,
       "rank": 44,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 141029,
-      "num": 333504,
-      "word": "中学校长捞好处连复印纸都不放过",
-      "onboard_time": 1727328620,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 137565,
@@ -1216,6 +1232,14 @@
       "word": "13岁女孩在校排练啦啦操猝死",
       "onboard_time": 1727309840,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 112007,
+      "num": 169873,
+      "word": "平台订酒店提前半个月退订仍扣费",
+      "onboard_time": 1727330180,
+      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -1339,14 +1363,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 90137,
-      "num": 169873,
-      "word": "平台订酒店提前半个月退订仍扣费",
-      "onboard_time": 1727330180,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 87688,
       "num": 87688,
       "word": "GAI五获年度说唱歌手",
@@ -1401,6 +1417,14 @@
       "onboard_time": 1727280019,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 79458,
+      "num": 344547,
+      "word": "人民网评严打偷拍黑灰产",
+      "onboard_time": 1727332760,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 77944,
@@ -1587,6 +1611,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 57198,
+      "num": 315511,
+      "word": "全网恭迎广陵王",
+      "onboard_time": 1727330718,
+      "rank": 16,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 56707,
       "num": 458744,
       "word": "景区不能既禁止泡面又高价特卖",
@@ -1625,14 +1657,6 @@
       "onboard_time": 1727319739,
       "rank": 47,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 49079,
-      "num": 284215,
-      "word": "全网恭迎广陵王",
-      "onboard_time": 1727330718,
-      "rank": 16,
-      "category": "游戏"
     },
     {
       "raw_hot": 46636,
@@ -1715,6 +1739,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 39076,
+      "num": 324611,
+      "word": "白酒板块持续拉升",
+      "onboard_time": 1727332939,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 38106,
       "num": 224054,
       "word": "十一宝藏景区打卡",
@@ -1755,8 +1787,8 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 29179,
-      "num": 205107,
+      "raw_hot": 33919,
+      "num": 310724,
       "word": "我宣布这就是宝石老舅的新战歌",
       "onboard_time": 1727331080,
       "rank": 26,
