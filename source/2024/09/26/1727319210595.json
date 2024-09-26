@@ -1,0 +1,410 @@
+{
+  "runTime": 1727319210595,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1511622,
+        "num": 1511622,
+        "word": "韩国奥运冠军被长期霸凌",
+        "onboard_time": 1727314638,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1014210,
+        "num": 1014210,
+        "word": "胖东来回应将停止帮扶企业",
+        "onboard_time": 1727314638,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 17249,
+        "num": 807329,
+        "word": "首次亮相天安门广场的蔬果花篮",
+        "onboard_time": 1727268981,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 778267,
+        "num": 778267,
+        "word": "佳偶天成开机",
+        "onboard_time": 1727315478,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 656913,
+        "num": 656913,
+        "word": "普京或使用核武器进行反击",
+        "onboard_time": 1727315058,
+        "rank": 4,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 634228,
+        "num": 634228,
+        "word": "如鸢开门了",
+        "onboard_time": 1727312119,
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 597322,
+        "num": 597322,
+        "word": "预制朋友圈火了",
+        "onboard_time": 1727277141,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 580173,
+        "num": 580173,
+        "word": "韩媒称韩国已被中国超越",
+        "onboard_time": 1727307379,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 327497,
+        "num": 511915,
+        "word": "郑在玹将入伍",
+        "onboard_time": 1727316678,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30862,
+        "num": 511074,
+        "word": "券商称近两天每日交易量已翻倍",
+        "onboard_time": 1727318237,
+        "rank": 9,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 510642,
+        "num": 510642,
+        "word": "iPhone16成近年最不受欢迎一代",
+        "onboard_time": 1727316319,
+        "rank": 10,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 500338,
+        "num": 500338,
+        "word": "火箭军导弹发射现场图",
+        "onboard_time": 1727312119,
+        "rank": 11,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 342770,
+        "num": 342770,
+        "word": "杭州第一个购物中心落寞了",
+        "onboard_time": 1727317759,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 296391,
+        "num": 296391,
+        "word": "咒术回战",
+        "onboard_time": 1727317759,
+        "rank": 13,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 50992,
+        "num": 275426,
+        "word": "村主任撞死邻村主任案二审维持原判",
+        "onboard_time": 1727318478,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 259006,
+        "num": 259006,
+        "word": "于东来称将停止帮扶企业",
+        "onboard_time": 1727308218,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216609,
+        "num": 256714,
+        "word": "工作室晒赵丽颖实绩图",
+        "onboard_time": 1727310500,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212776,
+        "num": 254555,
+        "word": "樱桃琥珀首发剧照",
+        "onboard_time": 1727318540,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 212368,
+        "num": 253956,
+        "word": "半熟男女香港爱情故事",
+        "onboard_time": 1727317817,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198927,
+        "num": 251078,
+        "word": "尹净汉正式入伍",
+        "onboard_time": 1727312778,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 456539,
+        "num": 248248,
+        "word": "王琳凯把希林娜依高裙子当毯子",
+        "onboard_time": 1727309900,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 321584,
+        "num": 244939,
+        "word": "于适新头像",
+        "onboard_time": 1727276360,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 244309,
+        "num": 244309,
+        "word": "光夜拒绝黄赌毒",
+        "onboard_time": 1727316319,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 216439,
+        "num": 216439,
+        "word": "山西是有一个睡眠结界吗",
+        "onboard_time": 1727281877,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213163,
+        "num": 213163,
+        "word": "韩国紧急进口中国产大白菜",
+        "onboard_time": 1727307678,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201959,
+        "num": 201959,
+        "word": "国庆假期出行指南来了",
+        "onboard_time": 1727312119,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155897,
+        "num": 199626,
+        "word": "女高的娃娃们 100个全考上了",
+        "onboard_time": 1727312660,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137216,
+        "num": 198123,
+        "word": "半熟男女 初恋组",
+        "onboard_time": 1727317458,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131868,
+        "num": 195191,
+        "word": "任嘉伦佳偶天成开机应援",
+        "onboard_time": 1727316978,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 63796,
+        "num": 189342,
+        "word": "淘宝让一部分人先付起来了",
+        "onboard_time": 1727315118,
+        "rank": 29,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 188642,
+        "num": 188642,
+        "word": "王楚钦感谢支持到现在的所有球迷",
+        "onboard_time": 1727317998,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 182661,
+        "num": 182661,
+        "word": "iPhone被锁10年机主否认造假",
+        "onboard_time": 1727309420,
+        "rank": 31,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 180253,
+        "num": 180253,
+        "word": "朋友圈有些内容绝对不能发",
+        "onboard_time": 1727314638,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179846,
+        "num": 179846,
+        "word": "以军大规模空袭已致黎巴嫩1200死",
+        "onboard_time": 1727312420,
+        "rank": 33,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 175158,
+        "num": 175158,
+        "word": "律所回应女律师自曝出轨上司",
+        "onboard_time": 1727306656,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173279,
+        "num": 173279,
+        "word": "大熊猫安安可可即将赴港",
+        "onboard_time": 1727312899,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163429,
+        "num": 163429,
+        "word": "中国人的尿酸为啥越来越高了",
+        "onboard_time": 1727284994,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 161947,
+        "num": 161947,
+        "word": "詹姆斯与布朗尼互喷垃圾话",
+        "onboard_time": 1727317817,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 160454,
+        "num": 160454,
+        "word": "学校回应学生仅退款被拒骂客服1小时",
+        "onboard_time": 1727275700,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152553,
+        "num": 152553,
+        "word": "坐火车出行有哪些新变化",
+        "onboard_time": 1727314699,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148920,
+        "num": 148920,
+        "word": "多名家长反映婴儿恒温壶内残留白胶",
+        "onboard_time": 1727308218,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144704,
+        "num": 144704,
+        "word": "如鸢抢名字",
+        "onboard_time": 1727313559,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 135824,
+        "num": 135824,
+        "word": "天降烟头到熟睡孩子床上床单被烧焦",
+        "onboard_time": 1727301131,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130991,
+        "num": 130991,
+        "word": "朱绰盈 律政俏佳人",
+        "onboard_time": 1727312599,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123878,
+        "num": 123878,
+        "word": "崔胜澈出发巴黎时装周",
+        "onboard_time": 1727319078,
+        "rank": 44,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 119254,
+        "num": 119254,
+        "word": "钟丽缇53岁状态",
+        "onboard_time": 1727306355,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107368,
+        "num": 107368,
+        "word": "我的宝藏家乡",
+        "onboard_time": 1727275879,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106786,
+        "num": 106786,
+        "word": "73岁母亲现场怒打54岁惯犯儿子",
+        "onboard_time": 1727272403,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104490,
+        "num": 104490,
+        "word": "黎真主党对以实施最远攻击",
+        "onboard_time": 1727318959,
+        "rank": 48,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 101295,
+        "num": 101295,
+        "word": "光与夜之恋陆沉来电",
+        "onboard_time": 1727316918,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#科技赋能强种业人勤苗壮绘丰收#"
+    }
+  }
+}
