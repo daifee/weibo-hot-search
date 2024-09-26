@@ -1,7 +1,15 @@
 {
   "startTime": 1727281816744,
-  "endTime": 1727319784875,
+  "endTime": 1727321280952,
   "band_list": [
+    {
+      "raw_hot": 1531143,
+      "num": 1531143,
+      "word": "胖东来回应将停止帮扶企业",
+      "onboard_time": 1727314638,
+      "rank": 48,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 1511622,
       "num": 1511622,
@@ -9,14 +17,6 @@
       "onboard_time": 1727314638,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1341980,
-      "num": 1341980,
-      "word": "胖东来回应将停止帮扶企业",
-      "onboard_time": 1727314638,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1228111,
@@ -83,6 +83,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 713723,
+      "num": 713723,
+      "word": "杭州第一个购物中心落寞了",
+      "onboard_time": 1727317759,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 706479,
+      "num": 706479,
+      "word": "佳偶天成女主",
+      "onboard_time": 1727319378,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 706321,
       "num": 706321,
       "word": "普京或使用核武器进行反击",
@@ -139,14 +155,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 522203,
-      "num": 522203,
-      "word": "杭州第一个购物中心落寞了",
-      "onboard_time": 1727317759,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 500338,
       "num": 500338,
       "word": "火箭军导弹发射现场图",
@@ -161,6 +169,14 @@
       "onboard_time": 1727274319,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 473667,
+      "num": 534202,
+      "word": "樱桃琥珀首发剧照",
+      "onboard_time": 1727318540,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 473344,
@@ -203,19 +219,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 383594,
-      "num": 534202,
-      "word": "樱桃琥珀首发剧照",
-      "onboard_time": 1727318540,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 366444,
       "num": 366444,
       "word": "山西是有一个睡眠结界吗",
       "onboard_time": 1727281877,
       "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 358233,
+      "num": 319252,
+      "word": "班主任给全班24个学生买电脑",
+      "onboard_time": 1727320278,
+      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -235,12 +251,20 @@
       "category": "数码"
     },
     {
-      "raw_hot": 330426,
-      "num": 330426,
+      "raw_hot": 335518,
+      "num": 335518,
       "word": "咒术回战",
       "onboard_time": 1727317759,
       "rank": 13,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 332630,
+      "num": 332630,
+      "word": "半熟男女香港爱情故事",
+      "onboard_time": 1727317817,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 327497,
@@ -299,12 +323,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 253730,
-      "num": 316521,
-      "word": "半熟男女香港爱情故事",
-      "onboard_time": 1727317817,
-      "rank": 18,
-      "category": "剧集"
+      "raw_hot": 254055,
+      "num": 254055,
+      "word": "俄讨论核遏制国家政策基础更新",
+      "onboard_time": 1727320459,
+      "rank": 26,
+      "category": "国外时政"
     },
     {
       "raw_hot": 250336,
@@ -339,6 +363,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 234594,
+      "num": 551899,
+      "word": "研究生人数超本科卷学历还有出路吗",
+      "onboard_time": 1727320160,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 232297,
+      "num": 232297,
+      "word": "第五人格",
+      "onboard_time": 1727320339,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 230536,
       "num": 188278,
       "word": "我是广陵王 我重生了",
@@ -361,6 +401,14 @@
       "onboard_time": 1727254940,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 222982,
+      "num": 222982,
+      "word": "王楚钦感谢支持到现在的所有球迷",
+      "onboard_time": 1727317998,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 222269,
@@ -411,20 +459,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 207563,
-      "num": 207563,
-      "word": "佳偶天成女主",
-      "onboard_time": 1727319378,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 205898,
       "num": 205898,
       "word": "闪耀暖暖",
       "onboard_time": 1727315118,
       "rank": 27,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 205230,
+      "num": 277545,
+      "word": "肖战两黑粉被强执8713元",
+      "onboard_time": 1727321119,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 199976,
@@ -440,6 +488,14 @@
       "word": "坐火车出行有哪些新变化",
       "onboard_time": 1727314699,
       "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 198606,
+      "num": 198606,
+      "word": "律所回应女律师自曝出轨上司",
+      "onboard_time": 1727306656,
+      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -459,12 +515,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 188642,
-      "num": 188642,
-      "word": "王楚钦感谢支持到现在的所有球迷",
-      "onboard_time": 1727317998,
-      "rank": 30,
-      "category": "体育"
+      "raw_hot": 188081,
+      "num": 188081,
+      "word": "李白还是太全面了",
+      "onboard_time": 1727320639,
+      "rank": 34,
+      "category": "读书作家"
     },
     {
       "raw_hot": 186238,
@@ -491,12 +547,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 175158,
-      "num": 175158,
-      "word": "律所回应女律师自曝出轨上司",
-      "onboard_time": 1727306656,
-      "rank": 35,
-      "category": "社会新闻"
+      "raw_hot": 176557,
+      "num": 176557,
+      "word": "王鹤润佳偶天成出妆",
+      "onboard_time": 1727321059,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 173341,
@@ -532,7 +588,7 @@
     },
     {
       "raw_hot": 163381,
-      "num": 199626,
+      "num": 232393,
       "word": "女高的娃娃们 100个全考上了",
       "onboard_time": 1727312660,
       "rank": 24,
@@ -555,6 +611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 148314,
+      "num": 148314,
+      "word": "浴火之路全阵容海报",
+      "onboard_time": 1727320998,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 148106,
       "num": 157861,
       "word": "单依纯获奖感言",
@@ -563,12 +627,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 147553,
+      "num": 147553,
+      "word": "中传70年校庆",
+      "onboard_time": 1727320639,
+      "rank": 41,
+      "category": "教育"
+    },
+    {
       "raw_hot": 147468,
       "num": 147468,
       "word": "合肥肥东3.8级地震",
       "onboard_time": 1727264422,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 147422,
+      "num": 147422,
+      "word": "许凯好瘦",
+      "onboard_time": 1727321059,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 146785,
@@ -635,6 +715,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 134269,
+      "num": 134269,
+      "word": "闪耀暖暖掉率",
+      "onboard_time": 1727319617,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 133312,
       "num": 181214,
       "word": "第一次见宋茜哭成这样",
@@ -659,12 +747,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 131702,
-      "num": 131702,
-      "word": "闪耀暖暖掉率",
-      "onboard_time": 1727319617,
-      "rank": 45,
-      "category": "游戏"
+      "raw_hot": 129125,
+      "num": 129125,
+      "word": "离家出走带上小狗",
+      "onboard_time": 1727321177,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 127342,
@@ -696,6 +784,22 @@
       "word": "13岁女孩在校排练啦啦操猝死",
       "onboard_time": 1727309840,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 115542,
+      "num": 328148,
+      "word": "野猪泛滥已危害全国26省份",
+      "onboard_time": 1727319798,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 105607,
+      "num": 371106,
+      "word": "男童输液后死亡医院承认修改病历",
+      "onboard_time": 1727320459,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -1020,11 +1124,19 @@
     },
     {
       "raw_hot": 50153,
-      "num": 131103,
+      "num": 323004,
       "word": "华为CTO首次揭秘三折叠研发细节",
       "onboard_time": 1727319739,
       "rank": 47,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 49294,
+      "num": 333763,
+      "word": "三角洲行动今日上线",
+      "onboard_time": 1727319918,
+      "rank": 16,
+      "category": "游戏"
     },
     {
       "raw_hot": 45977,
@@ -1185,6 +1297,9 @@
     },
     {
       "word": "#科技赋能强种业人勤苗壮绘丰收#"
+    },
+    {
+      "word": "#56个民族就是相亲相爱的一家人#"
     }
   ]
 }
