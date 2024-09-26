@@ -1,0 +1,410 @@
+{
+  "runTime": 1727343588662,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1437281,
+        "num": 1437281,
+        "word": "东北雨姐回应红薯粉无红薯事件",
+        "onboard_time": 1727338879,
+        "rank": 0,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1307043,
+        "num": 1307043,
+        "word": "合肥地震",
+        "onboard_time": 1727337019,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 13370,
+        "num": 1152428,
+        "word": "用科幻电影的方式感受智能传播",
+        "onboard_time": 1727335639,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1039602,
+        "num": 1039602,
+        "word": "中国住宅要取消公摊了吗",
+        "onboard_time": 1727341759,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 934740,
+        "num": 934740,
+        "word": "东北雨姐道歉",
+        "onboard_time": 1727340979,
+        "rank": 4,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 805094,
+        "num": 805094,
+        "word": "五角大楼回应中国发射洲际导弹",
+        "onboard_time": 1727332159,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 719433,
+        "num": 719433,
+        "word": "日本开始第九轮核污染水排海",
+        "onboard_time": 1727337919,
+        "rank": 6,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 597022,
+        "num": 597022,
+        "word": "洲际导弹",
+        "onboard_time": 1727326881,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 551410,
+        "num": 551410,
+        "word": "房地产",
+        "onboard_time": 1727337678,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 450970,
+        "num": 450970,
+        "word": "孔子竟然会武功",
+        "onboard_time": 1727337079,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 891391,
+        "num": 450629,
+        "word": "黄晓明带叶珂去了大湾区晚会",
+        "onboard_time": 1727328620,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 386317,
+        "num": 449918,
+        "word": "亲友回应邹诚俊去世",
+        "onboard_time": 1727339059,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 317736,
+        "num": 448779,
+        "word": "杨紫成都活动",
+        "onboard_time": 1727338339,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 56332,
+        "num": 447914,
+        "word": "高校回应辅导员要求博士学历",
+        "onboard_time": 1727343139,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 40798,
+        "num": 447158,
+        "word": "员工称工伤赔偿被公司扣了四年",
+        "onboard_time": 1727341818,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 495165,
+        "num": 446421,
+        "word": "班主任给全班24个学生买电脑",
+        "onboard_time": 1727320278,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120423,
+        "num": 445636,
+        "word": "东北雨姐哭了",
+        "onboard_time": 1727342479,
+        "rank": 16,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 26753,
+        "num": 444645,
+        "word": "如鸢Live2D的神",
+        "onboard_time": 1727341461,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 444544,
+        "num": 444544,
+        "word": "中共中央政治局9月26日召开会议",
+        "onboard_time": 1727329340,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 56317,
+        "num": 314918,
+        "word": "东北雨姐称打假博主另有目的",
+        "onboard_time": 1727343498,
+        "rank": 19,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 281425,
+        "num": 281425,
+        "word": "淘宝回应微信支付测试进度",
+        "onboard_time": 1727334619,
+        "rank": 20,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 278620,
+        "num": 278620,
+        "word": "何运晨在offer6变何叔叔",
+        "onboard_time": 1727337619,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 277578,
+        "num": 277578,
+        "word": "韩国2公斤白菜卖到79元",
+        "onboard_time": 1727340259,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274864,
+        "num": 274864,
+        "word": "实况P图",
+        "onboard_time": 1727341999,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 260239,
+        "num": 260239,
+        "word": "全职高手官方道歉",
+        "onboard_time": 1727340919,
+        "rank": 24,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 231574,
+        "num": 231574,
+        "word": "倪妮听成粉丝喜欢自己四十年",
+        "onboard_time": 1727337919,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 15526,
+        "num": 225725,
+        "word": "惠英红 掌管光影的神",
+        "onboard_time": 1727342599,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 221998,
+        "num": 221998,
+        "word": "刘亦菲五官特写",
+        "onboard_time": 1727338879,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 200322,
+        "num": 200322,
+        "word": "董子健导演电影",
+        "onboard_time": 1727342540,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 43431,
+        "num": 192127,
+        "word": "黎巴嫩已有约9万人流离失所",
+        "onboard_time": 1727341639,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186740,
+        "num": 186740,
+        "word": "女子表演非遗火裙舞太惊艳",
+        "onboard_time": 1727329400,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185625,
+        "num": 185625,
+        "word": "陕西男子服刑20年出狱后讨公道",
+        "onboard_time": 1727338699,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174415,
+        "num": 174415,
+        "word": "A股成交额连续2天破万亿",
+        "onboard_time": 1727335760,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172999,
+        "num": 172999,
+        "word": "头破血流引发爱心接力的邹诚俊去世",
+        "onboard_time": 1727333359,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153834,
+        "num": 153834,
+        "word": "人民网评严打偷拍黑灰产",
+        "onboard_time": 1727332760,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148979,
+        "num": 148979,
+        "word": "黑神话天蓬元帅原画披露",
+        "onboard_time": 1727340679,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 142075,
+        "num": 142075,
+        "word": "如鸢开门了",
+        "onboard_time": 1727312119,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 139256,
+        "num": 139256,
+        "word": "武磊回应遭球迷辱骂",
+        "onboard_time": 1727342540,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137462,
+        "num": 137462,
+        "word": "李明德签约和颂",
+        "onboard_time": 1727331741,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136920,
+        "num": 136920,
+        "word": "民法典司法解释来了",
+        "onboard_time": 1727336419,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 135187,
+        "num": 135187,
+        "word": "午睡其实是身体在自我修复",
+        "onboard_time": 1727325319,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 55980,
+        "num": 134406,
+        "word": "希林娜依高竟然躲在后台吃糖",
+        "onboard_time": 1727337800,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 27264,
+        "num": 134283,
+        "word": "浓人再也不想跟淡人换房间",
+        "onboard_time": 1727341879,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 131113,
+        "num": 134259,
+        "word": "如鸢",
+        "onboard_time": 1727331619,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 134244,
+        "num": 134244,
+        "word": "范志毅再谈采访名场面",
+        "onboard_time": 1727342479,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131297,
+        "num": 131297,
+        "word": "村官撞人赔650万一定是小官巨贪吗",
+        "onboard_time": 1727343498,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125919,
+        "num": 125919,
+        "word": "为什么越来越多人选择平替旅游地",
+        "onboard_time": 1727343199,
+        "rank": 46,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 118738,
+        "num": 118738,
+        "word": "王楚钦林诗栋正反手对练",
+        "onboard_time": 1727337979,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118210,
+        "num": 118210,
+        "word": "如鸢 卡关",
+        "onboard_time": 1727340019,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 117497,
+        "num": 117497,
+        "word": "成都街头惊现麻辣冰咖啡",
+        "onboard_time": 1727335399,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#中共中央政治局召开会议部署经济工作#"
+    }
+  }
+}

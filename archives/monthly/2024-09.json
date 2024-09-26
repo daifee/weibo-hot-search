@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1727342635851,
+  "endTime": 1727343588662,
   "band_list": [
     {
       "raw_hot": 28035334,
@@ -5883,6 +5883,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1039602,
+      "num": 1039602,
+      "word": "中国住宅要取消公摊了吗",
+      "onboard_time": 1727341759,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1038451,
       "num": 1038451,
       "word": "央视曝光空挂学籍乱象",
@@ -6857,6 +6865,14 @@
       "onboard_time": 1725113539,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 934740,
+      "num": 934740,
+      "word": "东北雨姐道歉",
+      "onboard_time": 1727340979,
+      "rank": 8,
+      "category": "网红"
     },
     {
       "raw_hot": 934569,
@@ -16659,14 +16675,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 462305,
-      "num": 462305,
-      "word": "东北雨姐道歉",
-      "onboard_time": 1727340979,
-      "rank": 8,
-      "category": "网红"
-    },
-    {
       "raw_hot": 462294,
       "num": 462294,
       "word": "迪丽热巴中秋营业照",
@@ -18348,7 +18356,7 @@
     },
     {
       "raw_hot": 413527,
-      "num": 413527,
+      "num": 449918,
       "word": "亲友回应邹诚俊去世",
       "onboard_time": 1727339059,
       "rank": 38,
@@ -21497,14 +21505,6 @@
       "onboard_time": 1725929119,
       "rank": 22,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 341601,
-      "num": 341601,
-      "word": "中国住宅要取消公摊了吗",
-      "onboard_time": 1727341759,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 341142,
@@ -25491,6 +25491,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 278620,
+      "num": 278620,
+      "word": "何运晨在offer6变何叔叔",
+      "onboard_time": 1727337619,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 278555,
       "num": 278555,
       "word": "孕妈妈剖腹产后浑身颤抖不停",
@@ -25569,6 +25577,14 @@
       "onboard_time": 1725288983,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 277578,
+      "num": 277578,
+      "word": "韩国2公斤白菜卖到79元",
+      "onboard_time": 1727340259,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 277291,
@@ -25753,6 +25769,14 @@
       "onboard_time": 1726262232,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 274864,
+      "num": 274864,
+      "word": "实况P图",
+      "onboard_time": 1727341999,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 274861,
@@ -26609,14 +26633,6 @@
       "onboard_time": 1726470079,
       "rank": 34,
       "category": "情感"
-    },
-    {
-      "raw_hot": 265111,
-      "num": 265111,
-      "word": "何运晨在offer6变何叔叔",
-      "onboard_time": 1727337619,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 265085,
@@ -28809,14 +28825,6 @@
       "onboard_time": 1725232216,
       "rank": 16,
       "category": "演出"
-    },
-    {
-      "raw_hot": 244701,
-      "num": 244701,
-      "word": "韩国2公斤白菜卖到79元",
-      "onboard_time": 1727340259,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 244683,
@@ -36225,6 +36233,14 @@
       "onboard_time": 1726109782,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 200322,
+      "num": 200322,
+      "word": "董子健导演电影",
+      "onboard_time": 1727342540,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 200293,
@@ -46003,14 +46019,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 167047,
-      "num": 167047,
-      "word": "实况P图",
-      "onboard_time": 1727341999,
-      "rank": 33,
-      "category": "情感"
-    },
-    {
       "raw_hot": 167028,
       "num": 167028,
       "word": "折叠iPhone设计理念",
@@ -54259,6 +54267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 139256,
+      "num": 139256,
+      "word": "武磊回应遭球迷辱骂",
+      "onboard_time": 1727342540,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 139247,
       "num": 139247,
       "word": "里斯本丸沉没 寻亲公告",
@@ -55763,6 +55779,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 134244,
+      "num": 134244,
+      "word": "范志毅再谈采访名场面",
+      "onboard_time": 1727342479,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 134157,
       "num": 134157,
       "word": "魏大勋 十秒钟八百个表情",
@@ -56632,6 +56656,14 @@
       "word": "复旦教授称AI代替自己陪伴了孩子",
       "onboard_time": 1725705320,
       "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 131297,
+      "num": 131297,
+      "word": "村官撞人赔650万一定是小官巨贪吗",
+      "onboard_time": 1727343498,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -57971,6 +58003,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 125919,
+      "num": 125919,
+      "word": "为什么越来越多人选择平替旅游地",
+      "onboard_time": 1727343199,
+      "rank": 46,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 125893,
       "num": 476402,
       "word": "A股吹响冲锋号",
@@ -58337,14 +58377,6 @@
       "onboard_time": 1725959180,
       "rank": 44,
       "category": "数码,互联网"
-    },
-    {
-      "raw_hot": 124477,
-      "num": 124477,
-      "word": "董子健导演电影",
-      "onboard_time": 1727342540,
-      "rank": 46,
-      "category": "电影"
     },
     {
       "raw_hot": 124407,
@@ -59179,6 +59211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 120423,
+      "num": 445636,
+      "word": "东北雨姐哭了",
+      "onboard_time": 1727342479,
+      "rank": 18,
+      "category": "网红"
+    },
+    {
       "raw_hot": 120384,
       "num": 120384,
       "word": "檀健次翻唱陶喆蝴蝶",
@@ -59793,14 +59833,6 @@
       "onboard_time": 1726376539,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 117377,
-      "num": 117377,
-      "word": "范志毅再谈采访名场面",
-      "onboard_time": 1727342479,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 117373,
@@ -61217,14 +61249,6 @@
       "onboard_time": 1727191880,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 110207,
-      "num": 110207,
-      "word": "武磊回应遭球迷辱骂",
-      "onboard_time": 1727342540,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 110152,
@@ -66811,14 +66835,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 64374,
-      "num": 342524,
-      "word": "东北雨姐哭了",
-      "onboard_time": 1727342479,
-      "rank": 18,
-      "category": "网红"
-    },
-    {
       "raw_hot": 64372,
       "num": 268899,
       "word": "央妈直击金龙鱼油生产过程",
@@ -68027,6 +68043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 56332,
+      "num": 447914,
+      "word": "高校回应辅导员要求博士学历",
+      "onboard_time": 1727343139,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 56327,
       "num": 540902,
       "word": "国防部回应我军发射洲际导弹",
@@ -68041,6 +68065,14 @@
       "onboard_time": 1725283763,
       "rank": 12,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 56317,
+      "num": 314918,
+      "word": "东北雨姐称打假博主另有目的",
+      "onboard_time": 1727343498,
+      "rank": 19,
+      "category": "网红"
     },
     {
       "raw_hot": 56283,
@@ -70747,6 +70779,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 43431,
+      "num": 458408,
+      "word": "黎巴嫩已有约9万人流离失所",
+      "onboard_time": 1727341639,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 43387,
       "num": 391411,
       "word": "猫人把秀场搬到了长城上",
@@ -71297,6 +71337,14 @@
       "onboard_time": 1725905834,
       "rank": 46,
       "category": "数码"
+    },
+    {
+      "raw_hot": 40798,
+      "num": 447158,
+      "word": "员工称工伤赔偿被公司扣了四年",
+      "onboard_time": 1727341818,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 40767,
@@ -72571,14 +72619,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 36511,
-      "num": 415627,
-      "word": "员工称工伤赔偿被公司扣了四年",
-      "onboard_time": 1727341818,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 36488,
       "num": 240012,
       "word": "林一巴掌脸具象化",
@@ -73320,14 +73360,6 @@
       "word": "文化中国行看巴丹吉林沙漠之美",
       "onboard_time": 1727080280,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 33965,
-      "num": 458408,
-      "word": "黎巴嫩已有约9万人流离失所",
-      "onboard_time": 1727341639,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -75235,6 +75267,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 27264,
+      "num": 134283,
+      "word": "浓人再也不想跟淡人换房间",
+      "onboard_time": 1727341879,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 27166,
       "num": 27166,
       "word": "00后种地搞了个田间情报站",
@@ -75377,6 +75417,14 @@
       "onboard_time": 1727173819,
       "rank": 28,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 26753,
+      "num": 444645,
+      "word": "如鸢Live2D的神",
+      "onboard_time": 1727341461,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 26747,
@@ -76763,14 +76811,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 20741,
-      "num": 129146,
-      "word": "浓人再也不想跟淡人换房间",
-      "onboard_time": 1727341879,
-      "rank": 42,
-      "category": "情感"
-    },
-    {
       "raw_hot": 20704,
       "num": 24316,
       "word": "张杰福州演唱会",
@@ -77089,14 +77129,6 @@
       "onboard_time": 1726776911,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 18893,
-      "num": 159687,
-      "word": "如鸢Live2D的神",
-      "onboard_time": 1727341461,
-      "rank": 36,
-      "category": "游戏"
     },
     {
       "raw_hot": 18790,
@@ -77611,6 +77643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 15526,
+      "num": 344790,
+      "word": "惠英红 掌管光影的神",
+      "onboard_time": 1727342599,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 15505,
       "num": 135066,
       "word": "SKII有自己的前任系列",
@@ -77907,6 +77947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 13370,
+      "num": 1152428,
+      "word": "用科幻电影的方式感受智能传播",
+      "onboard_time": 1727335639,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 13308,
       "num": 294248,
       "word": "李一桐雪中背影图",
@@ -78104,14 +78152,6 @@
       "word": "超强台风天的10个应急锦囊",
       "onboard_time": 1725648313,
       "rank": 26,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 11664,
-      "num": 985545,
-      "word": "用科幻电影的方式感受智能传播",
-      "onboard_time": 1727335639,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -78417,14 +78457,6 @@
       "onboard_time": 1727012545,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 7698,
-      "num": 344790,
-      "word": "惠英红 掌管光影的神",
-      "onboard_time": 1727342599,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 7671,

@@ -1,6 +1,6 @@
 {
   "startTime": 1726936020707,
-  "endTime": 1727342635851,
+  "endTime": 1727343588662,
   "band_list": [
     {
       "raw_hot": 6817146,
@@ -963,6 +963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1039602,
+      "num": 1039602,
+      "word": "中国住宅要取消公摊了吗",
+      "onboard_time": 1727341759,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1037589,
       "num": 1037589,
       "word": "便装乘网约车亮证执法女子调离岗位",
@@ -1121,6 +1129,14 @@
       "onboard_time": 1727319798,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 934740,
+      "num": 934740,
+      "word": "东北雨姐道歉",
+      "onboard_time": 1727340979,
+      "rank": 8,
+      "category": "网红"
     },
     {
       "raw_hot": 930683,
@@ -3003,14 +3019,6 @@
       "category": "音乐,体育"
     },
     {
-      "raw_hot": 462305,
-      "num": 462305,
-      "word": "东北雨姐道歉",
-      "onboard_time": 1727340979,
-      "rank": 8,
-      "category": "网红"
-    },
-    {
       "raw_hot": 459047,
       "num": 323278,
       "word": "于正否认针对杨紫",
@@ -3332,7 +3340,7 @@
     },
     {
       "raw_hot": 413527,
-      "num": 413527,
+      "num": 449918,
       "word": "亲友回应邹诚俊去世",
       "onboard_time": 1727339059,
       "rank": 38,
@@ -4051,14 +4059,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 341601,
-      "num": 341601,
-      "word": "中国住宅要取消公摊了吗",
-      "onboard_time": 1727341759,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 339900,
       "num": 339900,
       "word": "东北雨姐评论区关评刷屏",
@@ -4731,12 +4731,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 278620,
+      "num": 278620,
+      "word": "何运晨在offer6变何叔叔",
+      "onboard_time": 1727337619,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 277918,
       "num": 330743,
       "word": "爱奇艺上半年预期的爆款都有偏差",
       "onboard_time": 1727110215,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 277578,
+      "num": 277578,
+      "word": "韩国2公斤白菜卖到79元",
+      "onboard_time": 1727340259,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 277291,
@@ -4801,6 +4817,14 @@
       "onboard_time": 1727243239,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 274864,
+      "num": 274864,
+      "word": "实况P图",
+      "onboard_time": 1727341999,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 273344,
@@ -4921,14 +4945,6 @@
       "onboard_time": 1727140279,
       "rank": 17,
       "category": "电影"
-    },
-    {
-      "raw_hot": 265111,
-      "num": 265111,
-      "word": "何运晨在offer6变何叔叔",
-      "onboard_time": 1727337619,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 264847,
@@ -5353,14 +5369,6 @@
       "onboard_time": 1727188941,
       "rank": 19,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 244701,
-      "num": 244701,
-      "word": "韩国2公斤白菜卖到79元",
-      "onboard_time": 1727340259,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 244683,
@@ -6817,6 +6825,14 @@
       "onboard_time": 1727137940,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 200322,
+      "num": 200322,
+      "word": "董子健导演电影",
+      "onboard_time": 1727342540,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 200237,
@@ -8659,14 +8675,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 167047,
-      "num": 167047,
-      "word": "实况P图",
-      "onboard_time": 1727341999,
-      "rank": 33,
-      "category": "情感"
-    },
-    {
       "raw_hot": 166752,
       "num": 166752,
       "word": "阿云嘎新歌唢呐一出泪腺控不住",
@@ -10163,6 +10171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 139256,
+      "num": 139256,
+      "word": "武磊回应遭球迷辱骂",
+      "onboard_time": 1727342540,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 139122,
       "num": 139122,
       "word": "樊振东获聘杨浦体育大使",
@@ -10499,6 +10515,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 134244,
+      "num": 134244,
+      "word": "范志毅再谈采访名场面",
+      "onboard_time": 1727342479,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 134080,
       "num": 134080,
       "word": "瓦拉内退役",
@@ -10649,6 +10673,14 @@
       "onboard_time": 1727341578,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 131297,
+      "num": 131297,
+      "word": "村官撞人赔650万一定是小官巨贪吗",
+      "onboard_time": 1727343498,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 131177,
@@ -10899,6 +10931,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 125919,
+      "num": 125919,
+      "word": "为什么越来越多人选择平替旅游地",
+      "onboard_time": 1727343199,
+      "rank": 46,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 125893,
       "num": 476402,
       "word": "A股吹响冲锋号",
@@ -10985,14 +11025,6 @@
       "onboard_time": 1726932503,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 124477,
-      "num": 124477,
-      "word": "董子健导演电影",
-      "onboard_time": 1727342540,
-      "rank": 46,
-      "category": "电影"
     },
     {
       "raw_hot": 124407,
@@ -11187,6 +11219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 120423,
+      "num": 445636,
+      "word": "东北雨姐哭了",
+      "onboard_time": 1727342479,
+      "rank": 18,
+      "category": "网红"
+    },
+    {
       "raw_hot": 120056,
       "num": 120056,
       "word": "夺命寻呼机供应链有多少安全漏洞",
@@ -11337,14 +11377,6 @@
       "onboard_time": 1727250259,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 117377,
-      "num": 117377,
-      "word": "范志毅再谈采访名场面",
-      "onboard_time": 1727342479,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 117320,
@@ -11633,14 +11665,6 @@
       "onboard_time": 1727191880,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 110207,
-      "num": 110207,
-      "word": "武磊回应遭球迷辱骂",
-      "onboard_time": 1727342540,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 110152,
@@ -12731,14 +12755,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 64374,
-      "num": 342524,
-      "word": "东北雨姐哭了",
-      "onboard_time": 1727342479,
-      "rank": 18,
-      "category": "网红"
-    },
-    {
       "raw_hot": 64109,
       "num": 64109,
       "word": "尹净汉入伍前发文",
@@ -13051,12 +13067,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 56332,
+      "num": 447914,
+      "word": "高校回应辅导员要求博士学历",
+      "onboard_time": 1727343139,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 56327,
       "num": 540902,
       "word": "国防部回应我军发射洲际导弹",
       "onboard_time": 1727339719,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 56317,
+      "num": 314918,
+      "word": "东北雨姐称打假博主另有目的",
+      "onboard_time": 1727343498,
+      "rank": 19,
+      "category": "网红"
     },
     {
       "raw_hot": 56108,
@@ -13683,6 +13715,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 43431,
+      "num": 458408,
+      "word": "黎巴嫩已有约9万人流离失所",
+      "onboard_time": 1727341639,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 43146,
       "num": 77012,
       "word": "孙千 苗苗时期的流水账日记",
@@ -13791,6 +13831,14 @@
       "num": 470318,
       "word": "直播带货或更快告别草莽时代",
       "onboard_time": 1727104460,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 40798,
+      "num": 447158,
+      "word": "员工称工伤赔偿被公司扣了四年",
+      "onboard_time": 1727341818,
       "rank": 14,
       "category": "社会新闻"
     },
@@ -14043,14 +14091,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 36511,
-      "num": 415627,
-      "word": "员工称工伤赔偿被公司扣了四年",
-      "onboard_time": 1727341818,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 36406,
       "num": 84747,
       "word": "治理欠薪欠保违法裁员求职陷阱乱象",
@@ -14208,14 +14248,6 @@
       "word": "文化中国行看巴丹吉林沙漠之美",
       "onboard_time": 1727080280,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 33965,
-      "num": 458408,
-      "word": "黎巴嫩已有约9万人流离失所",
-      "onboard_time": 1727341639,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -14563,6 +14595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 27264,
+      "num": 134283,
+      "word": "浓人再也不想跟淡人换房间",
+      "onboard_time": 1727341879,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 27166,
       "num": 27166,
       "word": "00后种地搞了个田间情报站",
@@ -14601,6 +14641,14 @@
       "onboard_time": 1727173819,
       "rank": 28,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 26753,
+      "num": 444645,
+      "word": "如鸢Live2D的神",
+      "onboard_time": 1727341461,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 26109,
@@ -14803,14 +14851,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 20741,
-      "num": 129146,
-      "word": "浓人再也不想跟淡人换房间",
-      "onboard_time": 1727341879,
-      "rank": 42,
-      "category": "情感"
-    },
-    {
       "raw_hot": 20674,
       "num": 208688,
       "word": "以为在火星实际在长城",
@@ -14841,14 +14881,6 @@
       "onboard_time": 1727214792,
       "rank": 49,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 18893,
-      "num": 159687,
-      "word": "如鸢Live2D的神",
-      "onboard_time": 1727341461,
-      "rank": 36,
-      "category": "游戏"
     },
     {
       "raw_hot": 18631,
@@ -14995,6 +15027,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 15526,
+      "num": 344790,
+      "word": "惠英红 掌管光影的神",
+      "onboard_time": 1727342599,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 15390,
       "num": 484185,
       "word": "大摩称A股或跑赢新兴市场",
@@ -15057,6 +15097,14 @@
       "onboard_time": 1727263698,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 13370,
+      "num": 1152428,
+      "word": "用科幻电影的方式感受智能传播",
+      "onboard_time": 1727335639,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 13145,
@@ -15123,14 +15171,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 11664,
-      "num": 985545,
-      "word": "用科幻电影的方式感受智能传播",
-      "onboard_time": 1727335639,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 11312,
       "num": 165167,
       "word": "朗姿炸场米兰",
@@ -15193,14 +15233,6 @@
       "onboard_time": 1727012545,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 7698,
-      "num": 344790,
-      "word": "惠英红 掌管光影的神",
-      "onboard_time": 1727342599,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 6169,
