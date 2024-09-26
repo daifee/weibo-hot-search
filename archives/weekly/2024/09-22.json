@@ -1,6 +1,6 @@
 {
   "startTime": 1726936020707,
-  "endTime": 1727319210595,
+  "endTime": 1727319784875,
   "band_list": [
     {
       "raw_hot": 6817146,
@@ -563,6 +563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1341980,
+      "num": 1341980,
+      "word": "胖东来回应将停止帮扶企业",
+      "onboard_time": 1727314638,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1335384,
       "num": 663604,
       "word": "张若昀耳洞流血",
@@ -945,14 +953,6 @@
       "onboard_time": 1727274319,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1014210,
-      "num": 1014210,
-      "word": "胖东来回应将停止帮扶企业",
-      "onboard_time": 1727314638,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1005568,
@@ -1659,6 +1659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 706321,
+      "num": 706321,
+      "word": "普京或使用核武器进行反击",
+      "onboard_time": 1727315058,
+      "rank": 25,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 704780,
       "num": 704780,
       "word": "国色芳华",
@@ -1819,6 +1827,14 @@
       "category": "音乐,体育"
     },
     {
+      "raw_hot": 671865,
+      "num": 671865,
+      "word": "iPhone16成近年最不受欢迎一代",
+      "onboard_time": 1727316319,
+      "rank": 10,
+      "category": "数码"
+    },
+    {
       "raw_hot": 666957,
       "num": 666957,
       "word": "居民被高空抛物砸伤警察全楼验DNA",
@@ -1857,14 +1873,6 @@
       "onboard_time": 1726989259,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 656913,
-      "num": 656913,
-      "word": "普京或使用核武器进行反击",
-      "onboard_time": 1727315058,
-      "rank": 25,
-      "category": "国外时政"
     },
     {
       "raw_hot": 655479,
@@ -2403,6 +2411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 522203,
+      "num": 522203,
+      "word": "杭州第一个购物中心落寞了",
+      "onboard_time": 1727317759,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 520313,
       "num": 520313,
       "word": "张新成王玉雯12年前vs12年后",
@@ -2449,14 +2465,6 @@
       "onboard_time": 1727224340,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 510642,
-      "num": 510642,
-      "word": "iPhone16成近年最不受欢迎一代",
-      "onboard_time": 1727316319,
-      "rank": 10,
-      "category": "数码"
     },
     {
       "raw_hot": 510138,
@@ -3331,6 +3339,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 383594,
+      "num": 534202,
+      "word": "樱桃琥珀首发剧照",
+      "onboard_time": 1727318540,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 381792,
       "num": 278867,
       "word": "警方通报男子踹倒骑自行车男孩",
@@ -3747,14 +3763,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 342770,
-      "num": 342770,
-      "word": "杭州第一个购物中心落寞了",
-      "onboard_time": 1727317759,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 339900,
       "num": 339900,
       "word": "东北雨姐评论区关评刷屏",
@@ -3857,6 +3865,14 @@
       "onboard_time": 1727254221,
       "rank": 16,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 330426,
+      "num": 330426,
+      "word": "咒术回战",
+      "onboard_time": 1727317759,
+      "rank": 13,
+      "category": "动漫"
     },
     {
       "raw_hot": 329078,
@@ -4083,6 +4099,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 303959,
+      "num": 303959,
+      "word": "如鸢攻略",
+      "onboard_time": 1727319378,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 301977,
       "num": 301977,
       "word": "警方通报女子12楼外墙施工遭老太割绳",
@@ -4137,14 +4161,6 @@
       "onboard_time": 1727237540,
       "rank": 18,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 296391,
-      "num": 296391,
-      "word": "咒术回战",
-      "onboard_time": 1727317759,
-      "rank": 13,
-      "category": "动漫"
     },
     {
       "raw_hot": 293760,
@@ -4809,6 +4825,14 @@
       "onboard_time": 1727078899,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 253730,
+      "num": 316521,
+      "word": "半熟男女香港爱情故事",
+      "onboard_time": 1727317817,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 253598,
@@ -5539,6 +5563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 218378,
+      "num": 218378,
+      "word": "国庆假期出行指南来了",
+      "onboard_time": 1727312119,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 218073,
       "num": 288514,
       "word": "时代少年团听到rumors的反应",
@@ -5691,14 +5723,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 212776,
-      "num": 254555,
-      "word": "樱桃琥珀首发剧照",
-      "onboard_time": 1727318540,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 212716,
       "num": 212716,
       "word": "恒温壶",
@@ -5721,14 +5745,6 @@
       "onboard_time": 1727146579,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 212368,
-      "num": 253956,
-      "word": "半熟男女香港爱情故事",
-      "onboard_time": 1727317817,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 212296,
@@ -5889,6 +5905,14 @@
       "onboard_time": 1727270120,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 207563,
+      "num": 207563,
+      "word": "佳偶天成女主",
+      "onboard_time": 1727319378,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 207534,
@@ -6201,14 +6225,6 @@
       "onboard_time": 1727225959,
       "rank": 27,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 201959,
-      "num": 201959,
-      "word": "国庆假期出行指南来了",
-      "onboard_time": 1727312119,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 201747,
@@ -7235,6 +7251,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 186238,
+      "num": 186238,
+      "word": "朋友圈有些内容绝对不能发",
+      "onboard_time": 1727314638,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 186191,
       "num": 190151,
       "word": "家业",
@@ -7488,14 +7512,6 @@
       "word": "山西通报新娘被多名男子绑电线杆上",
       "onboard_time": 1727251639,
       "rank": 42,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 180253,
-      "num": 180253,
-      "word": "朋友圈有些内容绝对不能发",
-      "onboard_time": 1727314638,
-      "rank": 40,
       "category": "社会新闻"
     },
     {
@@ -8291,6 +8307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 163381,
+      "num": 199626,
+      "word": "女高的娃娃们 100个全考上了",
+      "onboard_time": 1727312660,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 163257,
       "num": 163257,
       "word": "凤凰传奇演唱会三城官宣",
@@ -8561,14 +8585,6 @@
       "onboard_time": 1727096720,
       "rank": 46,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 156580,
-      "num": 199626,
-      "word": "女高的娃娃们 100个全考上了",
-      "onboard_time": 1727312660,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 156361,
@@ -9323,6 +9339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 142274,
+      "num": 142274,
+      "word": "崔胜澈出发巴黎时装周",
+      "onboard_time": 1727319078,
+      "rank": 44,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 142212,
       "num": 348865,
       "word": "公司虚构项目诈骗百余老人1500万",
@@ -9521,6 +9545,14 @@
       "onboard_time": 1727246601,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 137565,
+      "num": 137565,
+      "word": "努力培养更多高素质新闻传播人才",
+      "onboard_time": 1727319378,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 137448,
@@ -9851,6 +9883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 131702,
+      "num": 131702,
+      "word": "闪耀暖暖掉率",
+      "onboard_time": 1727319617,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 131668,
       "num": 131668,
       "word": "王者新英雄影CG",
@@ -10017,6 +10057,14 @@
       "onboard_time": 1727134638,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 127342,
+      "num": 127342,
+      "word": "傅融 又见面了",
+      "onboard_time": 1727319378,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 127304,
@@ -10193,14 +10241,6 @@
       "onboard_time": 1727068889,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 123878,
-      "num": 123878,
-      "word": "崔胜澈出发巴黎时装周",
-      "onboard_time": 1727319078,
-      "rank": 44,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 123700,
@@ -11619,6 +11659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 71589,
+      "num": 325523,
+      "word": "村主任撞死邻村主任案二审维持原判",
+      "onboard_time": 1727318478,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 71246,
       "num": 202870,
       "word": "时空中的绘旅人 第五人格",
@@ -12251,14 +12299,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 50992,
-      "num": 275426,
-      "word": "村主任撞死邻村主任案二审维持原判",
-      "onboard_time": 1727318478,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 50972,
       "num": 77378,
       "word": "比利亚雷亚尔1比5巴萨",
@@ -12321,6 +12361,14 @@
       "onboard_time": 1727291112,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 50153,
+      "num": 131103,
+      "word": "华为CTO首次揭秘三折叠研发细节",
+      "onboard_time": 1727319739,
+      "rank": 47,
+      "category": "互联网"
     },
     {
       "raw_hot": 50114,
@@ -12593,6 +12641,14 @@
       "onboard_time": 1727162479,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 44018,
+      "num": 307057,
+      "word": "郑在玹更新泡泡",
+      "onboard_time": 1727319678,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 43635,
@@ -12963,6 +13019,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 35959,
+      "num": 522362,
+      "word": "券商称近两天每日交易量已翻倍",
+      "onboard_time": 1727318237,
+      "rank": 9,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 35905,
       "num": 56607,
       "word": "葫芦果音乐节",
@@ -13145,14 +13209,6 @@
       "onboard_time": 1727187681,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 30862,
-      "num": 511074,
-      "word": "券商称近两天每日交易量已翻倍",
-      "onboard_time": 1727318237,
-      "rank": 9,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 30718,

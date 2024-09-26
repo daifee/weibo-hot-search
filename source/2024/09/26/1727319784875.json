@@ -1,0 +1,410 @@
+{
+  "runTime": 1727319784875,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1465123,
+        "num": 1465123,
+        "word": "韩国奥运冠军被长期霸凌",
+        "onboard_time": 1727314638,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1341980,
+        "num": 1341980,
+        "word": "胖东来回应将停止帮扶企业",
+        "onboard_time": 1727314638,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 16829,
+        "num": 803321,
+        "word": "首次亮相天安门广场的蔬果花篮",
+        "onboard_time": 1727268981,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 730298,
+        "num": 730298,
+        "word": "佳偶天成开机",
+        "onboard_time": 1727315478,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 706321,
+        "num": 706321,
+        "word": "普京或使用核武器进行反击",
+        "onboard_time": 1727315058,
+        "rank": 4,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 671865,
+        "num": 671865,
+        "word": "iPhone16成近年最不受欢迎一代",
+        "onboard_time": 1727316319,
+        "rank": 5,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 592107,
+        "num": 592107,
+        "word": "如鸢开门了",
+        "onboard_time": 1727312119,
+        "rank": 6,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 557012,
+        "num": 557012,
+        "word": "韩媒称韩国已被中国超越",
+        "onboard_time": 1727307379,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 383594,
+        "num": 534202,
+        "word": "樱桃琥珀首发剧照",
+        "onboard_time": 1727318540,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 35959,
+        "num": 522362,
+        "word": "券商称近两天每日交易量已翻倍",
+        "onboard_time": 1727318237,
+        "rank": 9,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 522203,
+        "num": 522203,
+        "word": "杭州第一个购物中心落寞了",
+        "onboard_time": 1727317759,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 492493,
+        "num": 492493,
+        "word": "预制朋友圈火了",
+        "onboard_time": 1727277141,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 467627,
+        "num": 467627,
+        "word": "火箭军导弹发射现场图",
+        "onboard_time": 1727312119,
+        "rank": 12,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 330426,
+        "num": 330426,
+        "word": "咒术回战",
+        "onboard_time": 1727317759,
+        "rank": 13,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 71589,
+        "num": 325523,
+        "word": "村主任撞死邻村主任案二审维持原判",
+        "onboard_time": 1727318478,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 285309,
+        "num": 319976,
+        "word": "郑在玹将入伍",
+        "onboard_time": 1727316678,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 253730,
+        "num": 316521,
+        "word": "半熟男女香港爱情故事",
+        "onboard_time": 1727317817,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 208087,
+        "num": 311344,
+        "word": "工作室晒赵丽颖实绩图",
+        "onboard_time": 1727310500,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 44018,
+        "num": 307057,
+        "word": "郑在玹更新泡泡",
+        "onboard_time": 1727319678,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 303959,
+        "num": 303959,
+        "word": "如鸢攻略",
+        "onboard_time": 1727319378,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 441146,
+        "num": 284471,
+        "word": "王琳凯把希林娜依高裙子当毯子",
+        "onboard_time": 1727309900,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 352919,
+        "num": 256542,
+        "word": "于适新头像",
+        "onboard_time": 1727276360,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 218378,
+        "num": 218378,
+        "word": "国庆假期出行指南来了",
+        "onboard_time": 1727312119,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207563,
+        "num": 207563,
+        "word": "佳偶天成女主",
+        "onboard_time": 1727319378,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 207295,
+        "num": 207295,
+        "word": "于东来称将停止帮扶企业",
+        "onboard_time": 1727308218,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202878,
+        "num": 202878,
+        "word": "韩国紧急进口中国产大白菜",
+        "onboard_time": 1727307678,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194039,
+        "num": 194039,
+        "word": "山西是有一个睡眠结界吗",
+        "onboard_time": 1727281877,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189848,
+        "num": 189848,
+        "word": "光夜拒绝黄赌毒",
+        "onboard_time": 1727316319,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 188969,
+        "num": 188969,
+        "word": "尹净汉正式入伍",
+        "onboard_time": 1727312778,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163381,
+        "num": 188015,
+        "word": "女高的娃娃们 100个全考上了",
+        "onboard_time": 1727312660,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187209,
+        "num": 187209,
+        "word": "王楚钦感谢支持到现在的所有球迷",
+        "onboard_time": 1727317998,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 186238,
+        "num": 186238,
+        "word": "朋友圈有些内容绝对不能发",
+        "onboard_time": 1727314638,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171382,
+        "num": 171382,
+        "word": "律所回应女律师自曝出轨上司",
+        "onboard_time": 1727306656,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158074,
+        "num": 158074,
+        "word": "詹姆斯与布朗尼互喷垃圾话",
+        "onboard_time": 1727317817,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157333,
+        "num": 157333,
+        "word": "iPhone被锁10年机主否认造假",
+        "onboard_time": 1727309420,
+        "rank": 34,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 156135,
+        "num": 156135,
+        "word": "中国人的尿酸为啥越来越高了",
+        "onboard_time": 1727284994,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 155025,
+        "num": 155025,
+        "word": "以军大规模空袭已致黎巴嫩1200死",
+        "onboard_time": 1727312420,
+        "rank": 36,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 152958,
+        "num": 152958,
+        "word": "大熊猫安安可可即将赴港",
+        "onboard_time": 1727312899,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151749,
+        "num": 151749,
+        "word": "学校回应学生仅退款被拒骂客服1小时",
+        "onboard_time": 1727275700,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143286,
+        "num": 143286,
+        "word": "如鸢抢名字",
+        "onboard_time": 1727313559,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 142274,
+        "num": 142274,
+        "word": "崔胜澈出发巴黎时装周",
+        "onboard_time": 1727319078,
+        "rank": 40,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 137958,
+        "num": 137958,
+        "word": "多名家长反映婴儿恒温壶内残留白胶",
+        "onboard_time": 1727308218,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137565,
+        "num": 137565,
+        "word": "努力培养更多高素质新闻传播人才",
+        "onboard_time": 1727319378,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137056,
+        "num": 137056,
+        "word": "天降烟头到熟睡孩子床上床单被烧焦",
+        "onboard_time": 1727301131,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135430,
+        "num": 135430,
+        "word": "坐火车出行有哪些新变化",
+        "onboard_time": 1727314699,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131702,
+        "num": 131702,
+        "word": "闪耀暖暖掉率",
+        "onboard_time": 1727319617,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 131376,
+        "num": 131376,
+        "word": "半熟男女 初恋组",
+        "onboard_time": 1727317458,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 50153,
+        "num": 131103,
+        "word": "华为CTO首次揭秘三折叠研发细节",
+        "onboard_time": 1727319739,
+        "rank": 47,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 131090,
+        "num": 131090,
+        "word": "钟丽缇53岁状态",
+        "onboard_time": 1727306355,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127342,
+        "num": 127342,
+        "word": "傅融 又见面了",
+        "onboard_time": 1727319378,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#让民族团结的佳话代代相传#"
+    }
+  }
+}
