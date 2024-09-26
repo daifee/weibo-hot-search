@@ -1,7 +1,15 @@
 {
   "startTime": 1727281816744,
-  "endTime": 1727343588662,
+  "endTime": 1727346225468,
   "band_list": [
+    {
+      "raw_hot": 2340973,
+      "num": 2340973,
+      "word": "中国住宅要取消公摊了吗",
+      "onboard_time": 1727341759,
+      "rank": 20,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 2146242,
       "num": 2146242,
@@ -75,6 +83,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1376799,
+      "num": 1376799,
+      "word": "东北雨姐道歉",
+      "onboard_time": 1727340979,
+      "rank": 8,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1228111,
       "num": 590598,
       "word": "于适新头像",
@@ -123,14 +139,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1039602,
-      "num": 1039602,
-      "word": "中国住宅要取消公摊了吗",
-      "onboard_time": 1727341759,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1005568,
       "num": 1005568,
       "word": "人社局回应公司禁带苹果产品",
@@ -145,14 +153,6 @@
       "onboard_time": 1727319798,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 934740,
-      "num": 934740,
-      "word": "东北雨姐道歉",
-      "onboard_time": 1727340979,
-      "rank": 8,
-      "category": "网红"
     },
     {
       "raw_hot": 861117,
@@ -177,6 +177,14 @@
       "onboard_time": 1727312119,
       "rank": 1,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 817424,
+      "num": 817424,
+      "word": "实况P图",
+      "onboard_time": 1727341999,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 805646,
@@ -283,6 +291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 613886,
+      "num": 613886,
+      "word": "韩国2公斤白菜卖到79元",
+      "onboard_time": 1727340259,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 610424,
       "num": 610424,
       "word": "多名家长反映婴儿恒温壶内残留白胶",
@@ -347,6 +363,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 484598,
+      "num": 484598,
+      "word": "全职高手官方道歉",
+      "onboard_time": 1727340919,
+      "rank": 23,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 482538,
       "num": 482538,
       "word": "吴谨言线下活动",
@@ -369,6 +393,14 @@
       "onboard_time": 1727309900,
       "rank": 7,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 469874,
+      "num": 469874,
+      "word": "国产剧豆瓣9分的含金量",
+      "onboard_time": 1727344519,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 458835,
@@ -571,14 +603,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 306803,
-      "num": 306803,
-      "word": "全职高手官方道歉",
-      "onboard_time": 1727340919,
-      "rank": 23,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 303959,
       "num": 303959,
       "word": "如鸢攻略",
@@ -635,28 +659,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 277578,
-      "num": 277578,
-      "word": "韩国2公斤白菜卖到79元",
-      "onboard_time": 1727340259,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 274864,
-      "num": 274864,
-      "word": "实况P图",
-      "onboard_time": 1727341999,
-      "rank": 33,
-      "category": "情感"
-    },
-    {
       "raw_hot": 273344,
       "num": 273344,
       "word": "尹净汉正式入伍",
       "onboard_time": 1727312778,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 267684,
+      "num": 267684,
+      "word": "董子健导演电影",
+      "onboard_time": 1727342540,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 264317,
@@ -971,12 +987,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 200322,
-      "num": 200322,
-      "word": "董子健导演电影",
-      "onboard_time": 1727342540,
-      "rank": 46,
-      "category": "电影"
+      "raw_hot": 200730,
+      "num": 264105,
+      "word": "东北雨姐称打假博主要30万",
+      "onboard_time": 1727343859,
+      "rank": 19,
+      "category": "网红"
     },
     {
       "raw_hot": 200133,
@@ -1003,6 +1019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 197023,
+      "num": 197023,
+      "word": "吴谨言活动造型",
+      "onboard_time": 1727344819,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 195593,
       "num": 195593,
       "word": "如鸢给我王粲会怎样呢",
@@ -1016,6 +1040,14 @@
       "word": "本轮冷空气或将终结南方高温",
       "onboard_time": 1727268200,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 194216,
+      "num": 194216,
+      "word": "村官撞人赔650万一定是小官巨贪吗",
+      "onboard_time": 1727343498,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -1075,11 +1107,35 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 181260,
+      "num": 181260,
+      "word": "CP30",
+      "onboard_time": 1727345238,
+      "rank": 23,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 178958,
+      "num": 178958,
+      "word": "买完十一的机票不敢再看价格了",
+      "onboard_time": 1727343979,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 178879,
       "num": 178879,
       "word": "胖东来晒月饼检测报告",
       "onboard_time": 1727311879,
       "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 176940,
+      "num": 176940,
+      "word": "民宿为什么失宠了",
+      "onboard_time": 1727345479,
+      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -1267,6 +1323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 158533,
+      "num": 158533,
+      "word": "武磊回应遭球迷辱骂",
+      "onboard_time": 1727342540,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 151370,
       "num": 151370,
       "word": "CP30 还不开票",
@@ -1371,14 +1435,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 139256,
-      "num": 139256,
-      "word": "武磊回应遭球迷辱骂",
-      "onboard_time": 1727342540,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 139122,
       "num": 139122,
       "word": "樊振东获聘杨浦体育大使",
@@ -1475,14 +1531,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 131297,
-      "num": 131297,
-      "word": "村官撞人赔650万一定是小官巨贪吗",
-      "onboard_time": 1727343498,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 130300,
       "num": 130300,
       "word": "塞尔达传说智慧的再现",
@@ -1507,6 +1555,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 128457,
+      "num": 128457,
+      "word": "为什么越来越多人选择平替旅游地",
+      "onboard_time": 1727343199,
+      "rank": 46,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 127342,
       "num": 127342,
       "word": "傅融 又见面了",
@@ -1521,14 +1577,6 @@
       "onboard_time": 1727339299,
       "rank": 49,
       "category": "教育"
-    },
-    {
-      "raw_hot": 125919,
-      "num": 125919,
-      "word": "为什么越来越多人选择平替旅游地",
-      "onboard_time": 1727343199,
-      "rank": 46,
-      "category": "旅游"
     },
     {
       "raw_hot": 124334,
@@ -1555,6 +1603,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 119787,
+      "num": 119787,
+      "word": "陈昊宇万妮达体验三条簪妆束",
+      "onboard_time": 1727345418,
+      "rank": 43,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 118753,
       "num": 118753,
       "word": "黎真主党向以发射一枚弹道导弹",
@@ -1571,6 +1627,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 114674,
+      "num": 114674,
+      "word": "林孝埈小组第1",
+      "onboard_time": 1727344219,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 113943,
+      "num": 113943,
+      "word": "强降温时段就要来了",
+      "onboard_time": 1727345779,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 113189,
       "num": 113189,
       "word": "奥运冠军陈梦邀你去尼山",
@@ -1584,6 +1656,14 @@
       "word": "平台订酒店提前半个月退订仍扣费",
       "onboard_time": 1727330180,
       "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 111918,
+      "num": 111918,
+      "word": "北方人快翻出厚衣服",
+      "onboard_time": 1727345718,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -2155,12 +2235,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 43187,
+      "num": 444645,
+      "word": "如鸢Live2D的神",
+      "onboard_time": 1727341461,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 42325,
       "num": 49659,
       "word": "成毅黑白双生海报",
       "onboard_time": 1727285593,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 41111,
+      "num": 476968,
+      "word": "网店卖礼品卡洗钱三个月流水上亿",
+      "onboard_time": 1727345119,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 40798,
@@ -2251,6 +2347,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 34712,
+      "num": 264119,
+      "word": "男子爱高枕无忧1个月落枕18次",
+      "onboard_time": 1727344698,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 33874,
       "num": 267603,
       "word": "张钰琪给米卡搭配旷野美拉德",
@@ -2283,14 +2387,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 26753,
-      "num": 444645,
-      "word": "如鸢Live2D的神",
-      "onboard_time": 1727341461,
-      "rank": 36,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 25680,
       "num": 32035,
       "word": "749局",
@@ -2303,6 +2399,14 @@
       "num": 877528,
       "word": "这是怎么拍都好看的秋天",
       "onboard_time": 1727321839,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 23705,
+      "num": 1152428,
+      "word": "用科幻电影的方式感受智能传播",
+      "onboard_time": 1727335639,
       "rank": 2,
       "category": "社会新闻"
     },
@@ -2371,12 +2475,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 13370,
-      "num": 1152428,
-      "word": "用科幻电影的方式感受智能传播",
-      "onboard_time": 1727335639,
-      "rank": 2,
-      "category": "社会新闻"
+      "raw_hot": 13452,
+      "num": 129385,
+      "word": "侯明昊分享吻戏经验",
+      "onboard_time": 1727345179,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 13006,
+      "num": 128551,
+      "word": "宋佳车银优巴黎女装首秀造型",
+      "onboard_time": 1727345957,
+      "rank": 41,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 10573,
@@ -2400,6 +2512,14 @@
       "word": "中国天眼升级了",
       "onboard_time": 1727269221,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 6113,
+      "num": 346912,
+      "word": "便服执法事件网约车司机再发声",
+      "onboard_time": 1727346199,
+      "rank": 14,
       "category": "社会新闻"
     }
   ],
