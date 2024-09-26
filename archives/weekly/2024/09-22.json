@@ -1,10 +1,10 @@
 {
   "startTime": 1726936020707,
-  "endTime": 1727358113500,
+  "endTime": 1727360506014,
   "band_list": [
     {
-      "raw_hot": 11853753,
-      "num": 11853753,
+      "raw_hot": 12357374,
+      "num": 12357374,
       "word": "合肥通报三只羊问题调查情况",
       "onboard_time": 1727356461,
       "rank": 0,
@@ -459,6 +459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1522756,
+      "num": 737389,
+      "word": "三只羊被罚款没收违法所得6894.91万",
+      "onboard_time": 1727357541,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1516903,
       "num": 1516903,
       "word": "美国拨款16亿美元雇水军黑中国",
@@ -521,14 +529,6 @@
       "onboard_time": 1726936160,
       "rank": 9,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1472655,
-      "num": 737389,
-      "word": "三只羊被罚款没收违法所得6894.91万",
-      "onboard_time": 1727357541,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1468052,
@@ -1828,7 +1828,7 @@
     },
     {
       "raw_hot": 714627,
-      "num": 271145,
+      "num": 329421,
       "word": "男生被4女生扣留2小时下跪道歉",
       "onboard_time": 1727355319,
       "rank": 20,
@@ -2939,6 +2939,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 485155,
+      "num": 485155,
+      "word": "以色列被禁止以国家名义参加国际竞赛",
+      "onboard_time": 1727357481,
+      "rank": 23,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 484598,
       "num": 484598,
       "word": "全职高手官方道歉",
@@ -3971,6 +3979,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 363278,
+      "num": 363278,
+      "word": "金智媛新闻图状态",
+      "onboard_time": 1727359580,
+      "rank": 8,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 363188,
       "num": 300561,
       "word": "长发张小斐回来了",
@@ -4361,6 +4377,14 @@
       "onboard_time": 1727316678,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 326289,
+      "num": 326289,
+      "word": "三只羊构成虚假的商业宣传",
+      "onboard_time": 1727358142,
+      "rank": 22,
+      "category": "互联网"
     },
     {
       "raw_hot": 325444,
@@ -5809,14 +5833,6 @@
       "onboard_time": 1726982959,
       "rank": 29,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 232574,
-      "num": 232574,
-      "word": "以色列被禁止以国家名义参加国际竞赛",
-      "onboard_time": 1727357481,
-      "rank": 23,
-      "category": "国外时政"
     },
     {
       "raw_hot": 232514,
@@ -7835,6 +7851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 189301,
+      "num": 189301,
+      "word": "TOP登陆少年大扫除vlog",
+      "onboard_time": 1727359221,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 189239,
       "num": 189239,
       "word": "曾舜晞头套保住了",
@@ -8699,6 +8723,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 173852,
+      "num": 173852,
+      "word": "阿维塔07价格",
+      "onboard_time": 1727359402,
+      "rank": 34,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 173787,
       "num": 351868,
       "word": "我的宝藏家乡",
@@ -9217,6 +9249,14 @@
       "onboard_time": 1726977739,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 164662,
+      "num": 164662,
+      "word": "住宿前一定要先检查这4个地方",
+      "onboard_time": 1727355858,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 164624,
@@ -9939,6 +9979,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 150064,
+      "num": 150064,
+      "word": "笑点低真的不适合当老师",
+      "onboard_time": 1727358620,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 150008,
       "num": 150008,
       "word": "商竣程创造历史",
@@ -10099,6 +10147,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 148255,
+      "num": 214221,
+      "word": "辛云来新剧烂人真心",
+      "onboard_time": 1727359162,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 148174,
       "num": 148174,
       "word": "惊艳了整个秋天的丰收色",
@@ -10209,6 +10265,14 @@
       "onboard_time": 1727312599,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 146775,
+      "num": 146775,
+      "word": "责令三只羊暂停经营限期整改",
+      "onboard_time": 1727358084,
+      "rank": 49,
+      "category": "互联网"
     },
     {
       "raw_hot": 146734,
@@ -10427,6 +10491,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 143567,
+      "num": 350849,
+      "word": "蔡徐坤CardiB坐在一起",
+      "onboard_time": 1727359941,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 143210,
       "num": 143210,
       "word": "惠若琪说周深嗓子确实杠杠的",
@@ -10449,6 +10521,14 @@
       "onboard_time": 1726922301,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 142957,
+      "num": 142957,
+      "word": "牛肉价格降至5年来最低",
+      "onboard_time": 1727360302,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 142805,
@@ -10489,6 +10569,14 @@
       "onboard_time": 1727319078,
       "rank": 44,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 142236,
+      "num": 142236,
+      "word": "高尿酸人群真正要忌口的食物",
+      "onboard_time": 1727358862,
+      "rank": 44,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 142212,
@@ -10593,6 +10681,14 @@
       "onboard_time": 1727088740,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 139591,
+      "num": 139591,
+      "word": "任嘉伦王鹤润合作",
+      "onboard_time": 1727360420,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 139122,
@@ -11043,6 +11139,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 132581,
+      "num": 132581,
+      "word": "2024PEL",
+      "onboard_time": 1727359402,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 132551,
       "num": 132551,
       "word": "半熟男女阁楼上的疯女人这段",
@@ -11145,6 +11249,14 @@
       "onboard_time": 1727092939,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 131029,
+      "num": 131029,
+      "word": "怎么有男主开播就立遗嘱的",
+      "onboard_time": 1727360482,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 130884,
@@ -11625,14 +11737,6 @@
       "onboard_time": 1727268680,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 121826,
-      "num": 121826,
-      "word": "住宿前一定要先检查这4个地方",
-      "onboard_time": 1727355858,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 121739,
@@ -12251,14 +12355,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 109899,
-      "num": 109899,
-      "word": "责令三只羊暂停经营限期整改",
-      "onboard_time": 1727358084,
-      "rank": 49,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 109616,
       "num": 109616,
       "word": "电影分手清单定档",
@@ -12545,6 +12641,14 @@
       "onboard_time": 1727058798,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 96748,
+      "num": 354858,
+      "word": "三只羊称愿承担相关法律责任",
+      "onboard_time": 1727359101,
+      "rank": 11,
+      "category": "互联网"
     },
     {
       "raw_hot": 96687,
@@ -13491,6 +13595,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 61807,
+      "num": 348176,
+      "word": "WMA回应单依纯口误",
+      "onboard_time": 1727359822,
+      "rank": 14,
+      "category": "音乐,艺人"
+    },
+    {
+      "raw_hot": 61704,
+      "num": 360670,
+      "word": "火锅店熬制地沟油10人获刑",
+      "onboard_time": 1727359101,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 61381,
       "num": 337890,
       "word": "王腾说新手机就要碰一下",
@@ -13585,6 +13705,14 @@
       "onboard_time": 1727306597,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 59230,
+      "num": 341174,
+      "word": "红米Note14发布会挑战玩真的",
+      "onboard_time": 1727356040,
+      "rank": 16,
+      "category": "数码"
     },
     {
       "raw_hot": 58897,
@@ -13801,6 +13929,14 @@
       "onboard_time": 1727172198,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 55202,
+      "num": 221521,
+      "word": "姚安娜代言阿维塔07",
+      "onboard_time": 1727359701,
+      "rank": 27,
+      "category": "艺人,汽车"
     },
     {
       "raw_hot": 54810,
@@ -14057,6 +14193,14 @@
       "onboard_time": 1727254401,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 49929,
+      "num": 327206,
+      "word": "阿维塔07售价21.99万起",
+      "onboard_time": 1727359701,
+      "rank": 21,
+      "category": "汽车"
     },
     {
       "raw_hot": 49825,
@@ -14483,6 +14627,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 42324,
+      "num": 337766,
+      "word": "全新智己LS6价格一出全场沸腾",
+      "onboard_time": 1727359701,
+      "rank": 17,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 42271,
       "num": 438623,
       "word": "全网都在找这辆红色SUV",
@@ -14532,7 +14684,7 @@
     },
     {
       "raw_hot": 40545,
-      "num": 147923,
+      "num": 343982,
       "word": "三角洲全球FPS全明星赛",
       "onboard_time": 1727357661,
       "rank": 39,
@@ -14732,7 +14884,7 @@
     },
     {
       "raw_hot": 37890,
-      "num": 147322,
+      "num": 336967,
       "word": "大鹏和车都丢了",
       "onboard_time": 1727357661,
       "rank": 40,
@@ -15033,14 +15185,6 @@
       "onboard_time": 1727014824,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 32587,
-      "num": 259939,
-      "word": "红米Note14发布会挑战玩真的",
-      "onboard_time": 1727356040,
-      "rank": 16,
-      "category": "数码"
     },
     {
       "raw_hot": 32526,
@@ -15683,6 +15827,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 20317,
+      "num": 333019,
+      "word": "男子称有关系可进名校骗走家长千万",
+      "onboard_time": 1727359761,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 19967,
       "num": 26622,
       "word": "赵露思米兰之旅新物料",
@@ -15721,6 +15873,14 @@
       "onboard_time": 1726957152,
       "rank": 29,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 18066,
+      "num": 354480,
+      "word": "医保局飞检骗保医院不限于影像科",
+      "onboard_time": 1727359402,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 17858,

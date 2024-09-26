@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/09/01 00:25:38 ~ 2024/09/26 21:41:53
+本榜单时间：2024/09/01 00:25:38 ~ 2024/09/26 22:21:46
 </p>
 </blockquote>
 <p>
@@ -69,14 +69,14 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%AE%89%E4%BA%A4%E9%80%9A%E4%BA%8B%E6%95%85%E8%87%B411%E4%BA%BA%E9%81%87%E9%9A%BE%23" target="weibo">
-泰安交通事故致11人遇难（热度：12253821）
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%88%E8%82%A5%E9%80%9A%E6%8A%A5%E4%B8%89%E5%8F%AA%E7%BE%8A%E9%97%AE%E9%A2%98%E8%B0%83%E6%9F%A5%E6%83%85%E5%86%B5%23" target="weibo">
+合肥通报三只羊问题调查情况（热度：12357374）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%90%88%E8%82%A5%E9%80%9A%E6%8A%A5%E4%B8%89%E5%8F%AA%E7%BE%8A%E9%97%AE%E9%A2%98%E8%B0%83%E6%9F%A5%E6%83%85%E5%86%B5%23" target="weibo">
-合肥通报三只羊问题调查情况（热度：11853753）
+<a href="https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%AE%89%E4%BA%A4%E9%80%9A%E4%BA%8B%E6%95%85%E8%87%B411%E4%BA%BA%E9%81%87%E9%9A%BE%23" target="weibo">
+泰安交通事故致11人遇难（热度：12253821）
 </a>
 </li>
 
@@ -2073,6 +2073,12 @@ iPhone16（热度：1524275）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%89%E5%8F%AA%E7%BE%8A%E8%A2%AB%E7%BD%9A%E6%AC%BE%E6%B2%A1%E6%94%B6%E8%BF%9D%E6%B3%95%E6%89%80%E5%BE%976894.91%E4%B8%87%23" target="weibo">
+三只羊被罚款没收违法所得6894.91万（热度：1522756）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%A9%9A%E5%90%8E%E5%8F%91%E7%8E%B0%E4%B8%88%E5%A4%AB%E6%AF%8F%E5%A4%A9%E5%90%83%E8%8D%AF%E5%91%8A%E5%88%B0%E6%B3%95%E9%99%A2%23" target="weibo">
 女子婚后发现丈夫每天吃药告到法院（热度：1521510）
 </a>
@@ -2309,12 +2315,6 @@ AG夏季赛夺冠（热度：1506407）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E5%B8%88%E8%8A%82%23" target="weibo">
 教师节（热度：1473520）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%89%E5%8F%AA%E7%BE%8A%E8%A2%AB%E7%BD%9A%E6%AC%BE%E6%B2%A1%E6%94%B6%E8%BF%9D%E6%B3%95%E6%89%80%E5%BE%976894.91%E4%B8%87%23" target="weibo">
-三只羊被罚款没收违法所得6894.91万（热度：1472655）
 </a>
 </li>
 

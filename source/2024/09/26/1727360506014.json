@@ -1,0 +1,410 @@
+{
+  "runTime": 1727360506014,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 12357374,
+        "num": 12357374,
+        "word": "合肥通报三只羊问题调查情况",
+        "onboard_time": 1727356461,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 793802,
+        "num": 793802,
+        "word": "知道螃蟹为啥要绑着蒸了",
+        "onboard_time": 1727353998,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 31654,
+        "num": 581422,
+        "word": "青春大讲堂",
+        "onboard_time": 1727357601,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1522756,
+        "num": 578316,
+        "word": "三只羊被罚款没收违法所得6894.91万",
+        "onboard_time": 1727357541,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 519147,
+        "num": 519147,
+        "word": "东北雨姐道歉",
+        "onboard_time": 1727340979,
+        "rank": 4,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 727003,
+        "num": 504495,
+        "word": "中国住宅要取消公摊了吗",
+        "onboard_time": 1727341759,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 485155,
+        "num": 485155,
+        "word": "以色列被禁止以国家名义参加国际竞赛",
+        "onboard_time": 1727357481,
+        "rank": 6,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 430728,
+        "num": 430728,
+        "word": "成龙回复全妹了",
+        "onboard_time": 1727352799,
+        "rank": 7,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 363278,
+        "num": 363278,
+        "word": "金智媛新闻图状态",
+        "onboard_time": 1727359580,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 61704,
+        "num": 360670,
+        "word": "火锅店熬制地沟油10人获刑",
+        "onboard_time": 1727359101,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 465713,
+        "num": 358278,
+        "word": "民宿为什么失宠了",
+        "onboard_time": 1727345479,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96748,
+        "num": 354858,
+        "word": "三只羊称愿承担相关法律责任",
+        "onboard_time": 1727359101,
+        "rank": 11,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 18066,
+        "num": 354480,
+        "word": "医保局飞检骗保医院不限于影像科",
+        "onboard_time": 1727359402,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143567,
+        "num": 350849,
+        "word": "蔡徐坤CardiB坐在一起",
+        "onboard_time": 1727359941,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 61807,
+        "num": 348176,
+        "word": "WMA回应单依纯口误",
+        "onboard_time": 1727359822,
+        "rank": 14,
+        "category": "音乐,艺人"
+      },
+      {
+        "raw_hot": 26426,
+        "num": 343982,
+        "word": "三角洲全球FPS全明星赛",
+        "onboard_time": 1727357661,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 59230,
+        "num": 341174,
+        "word": "红米Note14发布会挑战玩真的",
+        "onboard_time": 1727356040,
+        "rank": 16,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 42324,
+        "num": 337766,
+        "word": "全新智己LS6价格一出全场沸腾",
+        "onboard_time": 1727359701,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 12465,
+        "num": 336967,
+        "word": "大鹏和车都丢了",
+        "onboard_time": 1727357661,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 20317,
+        "num": 333019,
+        "word": "男子称有关系可进名校骗走家长千万",
+        "onboard_time": 1727359761,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 593140,
+        "num": 329421,
+        "word": "男生被4女生扣留2小时下跪道歉",
+        "onboard_time": 1727355319,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 49929,
+        "num": 327206,
+        "word": "阿维塔07售价21.99万起",
+        "onboard_time": 1727359701,
+        "rank": 21,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 326289,
+        "num": 326289,
+        "word": "三只羊构成虚假的商业宣传",
+        "onboard_time": 1727358142,
+        "rank": 22,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 321432,
+        "num": 321432,
+        "word": "黄晓明带叶珂去了大湾区晚会",
+        "onboard_time": 1727328620,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 237048,
+        "num": 237048,
+        "word": "韩女奥运冠军被霸凌给男选手洗内裤",
+        "onboard_time": 1727349558,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231520,
+        "num": 231520,
+        "word": "一等功到家两位功臣却都不能露脸",
+        "onboard_time": 1727349739,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230868,
+        "num": 230868,
+        "word": "五哈",
+        "onboard_time": 1727355259,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 55202,
+        "num": 221521,
+        "word": "姚安娜代言阿维塔07",
+        "onboard_time": 1727359701,
+        "rank": 27,
+        "category": "艺人,汽车"
+      },
+      {
+        "raw_hot": 215109,
+        "num": 215109,
+        "word": "贺峻霖主持中传校庆",
+        "onboard_time": 1727353219,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 148255,
+        "num": 214221,
+        "word": "辛云来新剧烂人真心",
+        "onboard_time": 1727359162,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 214108,
+        "num": 214108,
+        "word": "校媛麻辣烫店主称媛字本身美好",
+        "onboard_time": 1727346619,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210516,
+        "num": 210516,
+        "word": "班主任给全班24个学生买电脑",
+        "onboard_time": 1727320278,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209080,
+        "num": 209080,
+        "word": "罗斯退役",
+        "onboard_time": 1727347278,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 189301,
+        "num": 189301,
+        "word": "TOP登陆少年大扫除vlog",
+        "onboard_time": 1727359221,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 173852,
+        "num": 173852,
+        "word": "阿维塔07价格",
+        "onboard_time": 1727359402,
+        "rank": 34,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 167642,
+        "num": 167642,
+        "word": "刘诗诗 东方淮竹嫁衣造型",
+        "onboard_time": 1727351779,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 164662,
+        "num": 164662,
+        "word": "住宿前一定要先检查这4个地方",
+        "onboard_time": 1727355858,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162985,
+        "num": 162985,
+        "word": "炉石传说致歉",
+        "onboard_time": 1727351899,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 160739,
+        "num": 160739,
+        "word": "世界避孕日",
+        "onboard_time": 1727354238,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 159759,
+        "num": 159759,
+        "word": "合肥肥东2.3级地震",
+        "onboard_time": 1727337019,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150167,
+        "num": 150167,
+        "word": "五角大楼回应中国发射洲际导弹",
+        "onboard_time": 1727332159,
+        "rank": 40,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 150064,
+        "num": 150064,
+        "word": "笑点低真的不适合当老师",
+        "onboard_time": 1727358620,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 146775,
+        "num": 146775,
+        "word": "责令三只羊暂停经营限期整改",
+        "onboard_time": 1727358084,
+        "rank": 42,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 142957,
+        "num": 142957,
+        "word": "牛肉价格降至5年来最低",
+        "onboard_time": 1727360302,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142236,
+        "num": 142236,
+        "word": "高尿酸人群真正要忌口的食物",
+        "onboard_time": 1727358862,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 141783,
+        "num": 141783,
+        "word": "十个勤天中传",
+        "onboard_time": 1727355199,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139591,
+        "num": 139591,
+        "word": "任嘉伦王鹤润合作",
+        "onboard_time": 1727360420,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132859,
+        "num": 132859,
+        "word": "走进画卷里的徽风皖韵",
+        "onboard_time": 1727348599,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132581,
+        "num": 132581,
+        "word": "2024PEL",
+        "onboard_time": 1727359402,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 131029,
+        "num": 131029,
+        "word": "怎么有男主开播就立遗嘱的",
+        "onboard_time": 1727360482,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#努力培养更多高素质新闻传播人才#"
+    }
+  }
+}

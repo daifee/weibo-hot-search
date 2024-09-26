@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/09/26 21:41:53
+本榜单时间：2024/01/01 00:21:05 ~ 2024/09/26 22:21:46
 </p>
 </blockquote>
 <p>
@@ -615,6 +615,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%88%E8%82%A5%E9%80%9A%E6%8A%A5%E4%B8%89%E5%8F%AA%E7%BE%8A%E9%97%AE%E9%A2%98%E8%B0%83%E6%9F%A5%E6%83%85%E5%86%B5%23" target="weibo">
+合肥通报三只羊问题调查情况（热度：12357374）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%A6%E6%A0%A1%E9%80%9A%E6%8A%A5%E5%A5%B3%E6%95%99%E5%B8%88%E5%87%BA%E8%BD%A8%E9%AB%98%E4%B8%AD%E7%94%9F%23" target="weibo">
 学校通报女教师出轨高中生（热度：12343812）
 </a>
@@ -665,12 +671,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%98%9F%E8%B7%B3%E6%B0%B4%E5%A5%B3%E5%8F%8C3%E7%B1%B3%E6%9D%BF%E9%87%91%E7%89%8C%23" target="weibo">
 中国队跳水女双3米板金牌（热度：11976288）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%90%88%E8%82%A5%E9%80%9A%E6%8A%A5%E4%B8%89%E5%8F%AA%E7%BE%8A%E9%97%AE%E9%A2%98%E8%B0%83%E6%9F%A5%E6%83%85%E5%86%B5%23" target="weibo">
-合肥通报三只羊问题调查情况（热度：11853753）
 </a>
 </li>
 
