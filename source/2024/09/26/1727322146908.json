@@ -1,0 +1,410 @@
+{
+  "runTime": 1727322146908,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1493369,
+        "num": 1493369,
+        "word": "胖东来回应将停止帮扶企业",
+        "onboard_time": 1727314638,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1211493,
+        "num": 1211493,
+        "word": "韩国奥运冠军被长期霸凌",
+        "onboard_time": 1727314638,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 24850,
+        "num": 877528,
+        "word": "这是怎么拍都好看的秋天",
+        "onboard_time": 1727321839,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 710732,
+        "num": 710732,
+        "word": "佳偶天成女主",
+        "onboard_time": 1727319378,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 661130,
+        "num": 661130,
+        "word": "杭州第一个购物中心落寞了",
+        "onboard_time": 1727317759,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 618845,
+        "num": 618845,
+        "word": "iPhone16成近年最不受欢迎一代",
+        "onboard_time": 1727316319,
+        "rank": 5,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 541166,
+        "num": 541166,
+        "word": "研究生人数超本科卷学历还有出路吗",
+        "onboard_time": 1727320160,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 532520,
+        "num": 532520,
+        "word": "普京或使用核武器进行反击",
+        "onboard_time": 1727315058,
+        "rank": 7,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 414652,
+        "num": 518710,
+        "word": "肖战两黑粉被强执8713元",
+        "onboard_time": 1727321119,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 436658,
+        "num": 517309,
+        "word": "火箭军导弹发射现场图",
+        "onboard_time": 1727312119,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 516154,
+        "num": 516154,
+        "word": "韩媒称韩国已被中国超越",
+        "onboard_time": 1727307379,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 500008,
+        "num": 500008,
+        "word": "如鸢开门了",
+        "onboard_time": 1727312119,
+        "rank": 11,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 394963,
+        "num": 477238,
+        "word": "佳偶天成开机",
+        "onboard_time": 1727315478,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 462342,
+        "num": 462342,
+        "word": "预制朋友圈火了",
+        "onboard_time": 1727277141,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139955,
+        "num": 390877,
+        "word": "男童输液后死亡医院承认修改病历",
+        "onboard_time": 1727320459,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 386850,
+        "num": 386850,
+        "word": "樱桃琥珀首发剧照",
+        "onboard_time": 1727318540,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 60012,
+        "num": 383580,
+        "word": "三角洲行动今日上线",
+        "onboard_time": 1727319918,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 381859,
+        "num": 381859,
+        "word": "王鹤润佳偶天成出妆",
+        "onboard_time": 1727321059,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 344299,
+        "num": 344299,
+        "word": "半熟男女香港爱情故事",
+        "onboard_time": 1727317817,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 326408,
+        "num": 326408,
+        "word": "咒术回战",
+        "onboard_time": 1727317759,
+        "rank": 19,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 28765,
+        "num": 289630,
+        "word": "华为CTO首次揭秘三折叠研发细节",
+        "onboard_time": 1727319739,
+        "rank": 20,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1300247,
+        "num": 289528,
+        "word": "班主任给全班24个学生买电脑",
+        "onboard_time": 1727320278,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 287657,
+        "num": 287657,
+        "word": "于适新头像",
+        "onboard_time": 1727276360,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 284091,
+        "num": 284091,
+        "word": "王琳凯把希林娜依高裙子当毯子",
+        "onboard_time": 1727309900,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 260312,
+        "num": 260312,
+        "word": "许凯好瘦",
+        "onboard_time": 1727321059,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 235690,
+        "num": 235690,
+        "word": "野猪泛滥已危害全国26省份",
+        "onboard_time": 1727319798,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217804,
+        "num": 217804,
+        "word": "俄讨论核遏制国家政策基础更新",
+        "onboard_time": 1727320459,
+        "rank": 26,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 209737,
+        "num": 217422,
+        "word": "国庆假期出行指南来了",
+        "onboard_time": 1727312119,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217288,
+        "num": 217288,
+        "word": "如鸢攻略",
+        "onboard_time": 1727319378,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 188328,
+        "num": 214738,
+        "word": "工作室晒赵丽颖实绩图",
+        "onboard_time": 1727310500,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 214298,
+        "num": 214298,
+        "word": "律所回应女律师自曝出轨上司",
+        "onboard_time": 1727306656,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204962,
+        "num": 204962,
+        "word": "村主任撞死邻村主任案二审维持原判",
+        "onboard_time": 1727318478,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204092,
+        "num": 204092,
+        "word": "第五人格",
+        "onboard_time": 1727320339,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 183185,
+        "num": 183185,
+        "word": "王楚钦感谢支持到现在的所有球迷",
+        "onboard_time": 1727317998,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 178143,
+        "num": 178143,
+        "word": "韩国紧急进口中国产大白菜",
+        "onboard_time": 1727307678,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 53096,
+        "num": 162400,
+        "word": "避孕药科学说明书",
+        "onboard_time": 1727321479,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 158019,
+        "num": 158019,
+        "word": "李白还是太全面了",
+        "onboard_time": 1727320639,
+        "rank": 36,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 155378,
+        "num": 155378,
+        "word": "郑在玹将入伍",
+        "onboard_time": 1727316678,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144782,
+        "num": 144782,
+        "word": "浴火之路全阵容海报",
+        "onboard_time": 1727320998,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 142911,
+        "num": 142911,
+        "word": "朋友圈有些内容绝对不能发",
+        "onboard_time": 1727314638,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140810,
+        "num": 140810,
+        "word": "尹净汉正式入伍",
+        "onboard_time": 1727312778,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139054,
+        "num": 139054,
+        "word": "山西是有一个睡眠结界吗",
+        "onboard_time": 1727281877,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136453,
+        "num": 136453,
+        "word": "咒术回战最终话",
+        "onboard_time": 1727321958,
+        "rank": 42,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 133059,
+        "num": 133059,
+        "word": "中国人的尿酸为啥越来越高了",
+        "onboard_time": 1727284994,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 131061,
+        "num": 131061,
+        "word": "詹姆斯与布朗尼互喷垃圾话",
+        "onboard_time": 1727317817,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130300,
+        "num": 130300,
+        "word": "塞尔达传说智慧的再现",
+        "onboard_time": 1727321479,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 125908,
+        "num": 125908,
+        "word": "女高的娃娃们 100个全考上了",
+        "onboard_time": 1727312660,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123571,
+        "num": 123571,
+        "word": "离家出走带上小狗",
+        "onboard_time": 1727321177,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 123396,
+        "num": 123396,
+        "word": "学校回应学生仅退款被拒骂客服1小时",
+        "onboard_time": 1727275700,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117843,
+        "num": 117843,
+        "word": "于东来称将停止帮扶企业",
+        "onboard_time": 1727308218,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#56个民族就是相亲相爱的一家人#"
+    }
+  }
+}
