@@ -1,0 +1,410 @@
+{
+  "runTime": 1727314853076,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1209621,
+        "num": 1209621,
+        "word": "韩媒称韩国已被中国超越",
+        "onboard_time": 1727307379,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 846020,
+        "num": 846020,
+        "word": "如鸢开门了",
+        "onboard_time": 1727312119,
+        "rank": 1,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 31848,
+        "num": 722091,
+        "word": "首次亮相天安门广场的蔬果花篮",
+        "onboard_time": 1727268981,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 666731,
+        "num": 666731,
+        "word": "于东来称将停止帮扶企业",
+        "onboard_time": 1727308218,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 610424,
+        "num": 610424,
+        "word": "多名家长反映婴儿恒温壶内残留白胶",
+        "onboard_time": 1727308218,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 603378,
+        "num": 603378,
+        "word": "iPhone被锁10年机主否认造假",
+        "onboard_time": 1727309420,
+        "rank": 5,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 596019,
+        "num": 596019,
+        "word": "预制朋友圈火了",
+        "onboard_time": 1727277141,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 469836,
+        "num": 469836,
+        "word": "王琳凯把希林娜依高裙子当毯子",
+        "onboard_time": 1727309900,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 407354,
+        "num": 420870,
+        "word": "工作室晒赵丽颖实绩图",
+        "onboard_time": 1727310500,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173290,
+        "num": 419511,
+        "word": "33岁男子辞去工程监理摆摊卖卤肉",
+        "onboard_time": 1727305875,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 419506,
+        "num": 419506,
+        "word": "韩国紧急进口中国产大白菜",
+        "onboard_time": 1727307678,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 357744,
+        "num": 357744,
+        "word": "火箭军导弹发射现场图",
+        "onboard_time": 1727312119,
+        "rank": 11,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 353558,
+        "num": 353558,
+        "word": "73岁母亲现场怒打54岁惯犯儿子",
+        "onboard_time": 1727272403,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 318501,
+        "num": 318501,
+        "word": "秦岚卢昱晓任敏 财阀家的千金们",
+        "onboard_time": 1727305815,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 306729,
+        "num": 306729,
+        "word": "如鸢抢名字",
+        "onboard_time": 1727313559,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 302301,
+        "num": 302301,
+        "word": "山西是有一个睡眠结界吗",
+        "onboard_time": 1727281877,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 298105,
+        "num": 298105,
+        "word": "学校回应学生仅退款被拒骂客服1小时",
+        "onboard_time": 1727275700,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 291087,
+        "num": 291087,
+        "word": "韩国奥运冠军被长期霸凌",
+        "onboard_time": 1727314638,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 273344,
+        "num": 273344,
+        "word": "尹净汉正式入伍",
+        "onboard_time": 1727312778,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209590,
+        "num": 254865,
+        "word": "刘宇宁话筒矮了扎马步说感言",
+        "onboard_time": 1727308279,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 597182,
+        "num": 254020,
+        "word": "于适新头像",
+        "onboard_time": 1727276360,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 249777,
+        "num": 249777,
+        "word": "中国人的尿酸为啥越来越高了",
+        "onboard_time": 1727284994,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 212296,
+        "num": 212296,
+        "word": "中国地震台回应很多人没收到预警",
+        "onboard_time": 1727307438,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199229,
+        "num": 199229,
+        "word": "大熊猫安安可可即将赴港",
+        "onboard_time": 1727312899,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135756,
+        "num": 181793,
+        "word": "女高的娃娃们 100个全考上了",
+        "onboard_time": 1727312660,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133312,
+        "num": 181214,
+        "word": "第一次见宋茜哭成这样",
+        "onboard_time": 1727306897,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180700,
+        "num": 180700,
+        "word": "天降烟头到熟睡孩子床上床单被烧焦",
+        "onboard_time": 1727301131,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173341,
+        "num": 173341,
+        "word": "WTT中国大满贯开赛",
+        "onboard_time": 1727309181,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 170397,
+        "num": 170397,
+        "word": "以军大规模空袭已致黎巴嫩1200死",
+        "onboard_time": 1727312420,
+        "rank": 28,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 102030,
+        "num": 169116,
+        "word": "吴谨言线下活动",
+        "onboard_time": 1727274319,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 230536,
+        "num": 168884,
+        "word": "我是广陵王 我重生了",
+        "onboard_time": 1727314218,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 168429,
+        "num": 168429,
+        "word": "钟丽缇53岁状态",
+        "onboard_time": 1727306355,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166475,
+        "num": 166475,
+        "word": "苹果头显廉价版曝光",
+        "onboard_time": 1727314638,
+        "rank": 32,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 162832,
+        "num": 162832,
+        "word": "合肥肥东今年已经发生5次地震",
+        "onboard_time": 1727266580,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158637,
+        "num": 158637,
+        "word": "上海地铁",
+        "onboard_time": 1727313079,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154706,
+        "num": 154706,
+        "word": "合肥3.8级地震与4.7级地震震中基本一致",
+        "onboard_time": 1727272403,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149383,
+        "num": 149383,
+        "word": "胖东来晒月饼检测报告",
+        "onboard_time": 1727311879,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139562,
+        "num": 139562,
+        "word": "法考",
+        "onboard_time": 1727278579,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 135993,
+        "num": 135993,
+        "word": "本轮冷空气或将终结南方高温",
+        "onboard_time": 1727268200,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134689,
+        "num": 134689,
+        "word": "没有十年工龄看不懂的摸鱼技巧",
+        "onboard_time": 1727305215,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 133086,
+        "num": 133086,
+        "word": "朋友圈有些内容绝对不能发",
+        "onboard_time": 1727314638,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123711,
+        "num": 123711,
+        "word": "坐火车出行有哪些新变化",
+        "onboard_time": 1727314699,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123511,
+        "num": 123511,
+        "word": "12306候补一种很新的存钱方式",
+        "onboard_time": 1727274680,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119092,
+        "num": 119092,
+        "word": "律所回应女律师自曝出轨上司",
+        "onboard_time": 1727306656,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118753,
+        "num": 118753,
+        "word": "黎真主党向以发射一枚弹道导弹",
+        "onboard_time": 1727313799,
+        "rank": 44,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 116361,
+        "num": 116361,
+        "word": "13岁女孩在校排练啦啦操猝死",
+        "onboard_time": 1727309840,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115527,
+        "num": 115527,
+        "word": "过去的手机设计有多酷",
+        "onboard_time": 1727314699,
+        "rank": 46,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 115143,
+        "num": 115143,
+        "word": "我的宝藏家乡",
+        "onboard_time": 1727275879,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114129,
+        "num": 114129,
+        "word": "胖东来回应将停止帮扶企业",
+        "onboard_time": 1727314638,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114333,
+        "num": 113606,
+        "word": "朱绰盈 律政俏佳人",
+        "onboard_time": 1727312599,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#科技赋能强种业人勤苗壮绘丰收#"
+    }
+  }
+}
