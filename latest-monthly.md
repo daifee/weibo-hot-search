@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/09/01 00:25:38 ~ 2024/09/26 19:36:00
+本榜单时间：2024/09/01 00:25:38 ~ 2024/09/26 20:43:23
 </p>
 </blockquote>
 <p>
@@ -4191,6 +4191,12 @@ NewJeans被HYBE其他艺人团队排挤（热度：1130540）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E7%AD%89%E5%8A%9F%E5%88%B0%E5%AE%B6%E4%B8%A4%E4%BD%8D%E5%8A%9F%E8%87%A3%E5%8D%B4%E9%83%BD%E4%B8%8D%E8%83%BD%E9%9C%B2%E8%84%B8%23" target="weibo">
+一等功到家两位功臣却都不能露脸（热度：1081647）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0%E5%8F%96%E6%B6%88%E5%85%AC%E6%91%8A%E6%98%AF%E5%BF%BD%E6%82%A0%E8%80%81%E7%99%BE%E5%A7%93%E7%9A%84%23" target="weibo">
 专家称取消公摊是忽悠老百姓的（热度：1077079）
 </a>
@@ -5277,6 +5283,12 @@ WTT（热度：971085）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E5%B1%80%E7%A7%B0%E5%AE%B6%E9%95%BF%E8%B7%AA%E6%B1%82%E5%8F%96%E6%B6%88%E6%89%93%E5%8D%A1%E4%B8%BA%E4%B8%8D%E5%AE%9E%E6%B6%88%E6%81%AF%23" target="weibo">
+教育局称家长跪求取消打卡为不实消息（热度：926024）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A0%94%E7%A9%B6%E7%94%9F%E5%B0%8F%E4%BC%99%E6%89%93%E7%98%A6%E8%84%B8%E9%92%88%E4%B8%AD%E6%AF%92%E6%9A%B4%E7%98%A610%E6%96%A4%23" target="weibo">
 研究生小伙打瘦脸针中毒暴瘦10斤（热度：925996）
 </a>
@@ -5999,18 +6011,6 @@ iPhone16史上最容易维修iPhone（热度：900387）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE%E6%94%BF%E6%B2%BB%E5%B1%809%E6%9C%8826%E6%97%A5%E5%8F%AC%E5%BC%80%E4%BC%9A%E8%AE%AE%23" target="weibo">
 中共中央政治局9月26日召开会议（热度：857898）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8C%85%E5%8F%B0%E5%9B%9E%E5%BA%94%E4%B8%89%E5%8F%AA%E7%BE%8A%E6%89%80%E5%94%AE%E5%85%94%E8%8C%85%E7%9C%9F%E5%81%87%E4%BA%89%E8%AE%AE%23" target="weibo">
-茅台回应三只羊所售兔茅真假争议（热度：857855）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%94%A1%E7%A3%8A%E5%A4%AB%E5%A6%87%E6%84%BF%E7%BB%88%E8%BA%AB%E6%8A%95%E5%85%A5%E7%BD%95%E8%A7%81%E7%97%85%E7%A0%94%E7%A9%B6%23" target="weibo">
-蔡磊夫妇愿终身投入罕见病研究（热度：857446）
 </a>
 </li>
 
