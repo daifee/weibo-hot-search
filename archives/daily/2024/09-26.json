@@ -1,6 +1,6 @@
 {
   "startTime": 1727281816744,
-  "endTime": 1727328093916,
+  "endTime": 1727329167889,
   "band_list": [
     {
       "raw_hot": 1974308,
@@ -65,6 +65,14 @@
       "onboard_time": 1727307379,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1119882,
+      "num": 1119882,
+      "word": "洲际导弹",
+      "onboard_time": 1727326881,
+      "rank": 6,
+      "category": "国内时政"
     },
     {
       "raw_hot": 1065307,
@@ -203,12 +211,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 534598,
-      "num": 534598,
-      "word": "洲际导弹",
-      "onboard_time": 1727326881,
-      "rank": 6,
-      "category": "国内时政"
+      "raw_hot": 533141,
+      "num": 360866,
+      "word": "黄晓明带叶珂去了大湾区晚会",
+      "onboard_time": 1727328620,
+      "rank": 10,
+      "category": "音乐"
     },
     {
       "raw_hot": 500338,
@@ -315,6 +323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 365102,
+      "num": 282506,
+      "word": "午睡其实是身体在自我修复",
+      "onboard_time": 1727325319,
+      "rank": 49,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 353558,
       "num": 353558,
       "word": "73岁母亲现场怒打54岁惯犯儿子",
@@ -395,12 +411,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 282506,
-      "num": 282506,
-      "word": "午睡其实是身体在自我修复",
-      "onboard_time": 1727325319,
-      "rank": 49,
-      "category": "健康医疗"
+      "raw_hot": 281646,
+      "num": 437091,
+      "word": "林心如第一次送女儿上学时哭了",
+      "onboard_time": 1727326280,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 273344,
@@ -409,14 +425,6 @@
       "onboard_time": 1727312778,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 268803,
-      "num": 437091,
-      "word": "林心如第一次送女儿上学时哭了",
-      "onboard_time": 1727326280,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 261283,
@@ -505,6 +513,14 @@
       "onboard_time": 1727325019,
       "rank": 28,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 236126,
+      "num": 236126,
+      "word": "14岁女生遭教官体罚在ICU昏迷至今",
+      "onboard_time": 1727327061,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 232297,
@@ -619,14 +635,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 207433,
-      "num": 207433,
-      "word": "14岁女生遭教官体罚在ICU昏迷至今",
-      "onboard_time": 1727327061,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 206552,
       "num": 206552,
       "word": "牧神记定档",
@@ -643,12 +651,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 200133,
+      "num": 200133,
+      "word": "县城中产爱上拉夫劳伦平替",
+      "onboard_time": 1727327421,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 199976,
       "num": 201690,
       "word": "肖战湾区升明月vlog",
       "onboard_time": 1727305815,
       "rank": 8,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 199712,
+      "num": 199712,
+      "word": "百变刘亦菲",
+      "onboard_time": 1727328440,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 199542,
@@ -763,6 +787,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 170744,
+      "num": 170744,
+      "word": "汪顺被杭州一中学聘为思政辅导员",
+      "onboard_time": 1727327540,
+      "rank": 41,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 167229,
       "num": 145994,
       "word": "12306候补一种很新的存钱方式",
@@ -819,14 +851,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 159686,
-      "num": 159686,
-      "word": "县城中产爱上拉夫劳伦平替",
-      "onboard_time": 1727327421,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 158637,
       "num": 158637,
       "word": "上海地铁",
@@ -841,6 +865,14 @@
       "onboard_time": 1727322439,
       "rank": 45,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 151108,
+      "num": 151108,
+      "word": "宋茜 上班怎么会快乐呢",
+      "onboard_time": 1727328801,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 148971,
@@ -923,12 +955,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 142282,
+      "num": 142282,
+      "word": "如鸢 改文案",
+      "onboard_time": 1727328200,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 142274,
       "num": 142274,
       "word": "崔胜澈出发巴黎时装周",
       "onboard_time": 1727319078,
       "rank": 44,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 141029,
+      "num": 141029,
+      "word": "中学校长捞好处连复印纸都不放过",
+      "onboard_time": 1727328620,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 137565,
@@ -987,14 +1035,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 131769,
-      "num": 131769,
-      "word": "汪顺被杭州一中学聘为思政辅导员",
-      "onboard_time": 1727327540,
-      "rank": 41,
-      "category": "体育,社会新闻"
-    },
-    {
       "raw_hot": 130300,
       "num": 130300,
       "word": "塞尔达传说智慧的再现",
@@ -1035,6 +1075,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 118352,
+      "num": 368346,
+      "word": "登记不要户口本结婚更容易了吗",
+      "onboard_time": 1727326461,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 116361,
       "num": 116361,
       "word": "13岁女孩在校排练啦啦操猝死",
@@ -1048,6 +1096,22 @@
       "word": "如鸢 满级大佬重回新手村",
       "onboard_time": 1727322679,
       "rank": 48,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 109099,
+      "num": 444292,
+      "word": "原神心海联动",
+      "onboard_time": 1727326821,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 108768,
+      "num": 108768,
+      "word": "网易雷火",
+      "onboard_time": 1727329101,
+      "rank": 49,
       "category": "游戏"
     },
     {
@@ -1139,14 +1203,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 92469,
-      "num": 444292,
-      "word": "原神心海联动",
-      "onboard_time": 1727326821,
-      "rank": 14,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 92371,
       "num": 92371,
       "word": "炉石传说 开门",
@@ -1211,6 +1267,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 77653,
+      "num": 491713,
+      "word": "业内称停止帮扶可让胖东来回笼人力",
+      "onboard_time": 1727327061,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 74896,
       "num": 74896,
       "word": "送别黄公略烈士",
@@ -1256,14 +1320,6 @@
       "word": "直击合肥肥东地震震中",
       "onboard_time": 1727277561,
       "rank": 42,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 70379,
-      "num": 368346,
-      "word": "登记不要户口本结婚更容易了吗",
-      "onboard_time": 1727326461,
-      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -1387,6 +1443,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 56707,
+      "num": 458744,
+      "word": "景区不能既禁止泡面又高价特卖",
+      "onboard_time": 1727327300,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 55723,
       "num": 68960,
       "word": "山花烂漫时豆瓣开分9.0",
@@ -1419,20 +1483,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 50048,
-      "num": 491713,
-      "word": "业内称停止帮扶可让胖东来回笼人力",
-      "onboard_time": 1727327061,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 49631,
-      "num": 458744,
-      "word": "景区不能既禁止泡面又高价特卖",
-      "onboard_time": 1727327300,
-      "rank": 13,
-      "category": "社会新闻"
+      "raw_hot": 46636,
+      "num": 253111,
+      "word": "屈楚萧 高配合度悍匪",
+      "onboard_time": 1727327359,
+      "rank": 16,
+      "category": "电影"
     },
     {
       "raw_hot": 46398,
@@ -1523,20 +1579,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 36364,
+      "num": 189477,
+      "word": "大批民众从黎巴嫩逃往叙利亚",
+      "onboard_time": 1727327240,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 35959,
       "num": 522362,
       "word": "券商称近两天每日交易量已翻倍",
       "onboard_time": 1727318237,
       "rank": 9,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 34910,
-      "num": 189477,
-      "word": "大批民众从黎巴嫩逃往叙利亚",
-      "onboard_time": 1727327240,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 27676,
