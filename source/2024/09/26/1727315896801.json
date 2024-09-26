@@ -1,0 +1,410 @@
+{
+  "runTime": 1727315896801,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1130309,
+        "num": 1180849,
+        "word": "韩媒称韩国已被中国超越",
+        "onboard_time": 1727307379,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1043786,
+        "num": 1043786,
+        "word": "韩国奥运冠军被长期霸凌",
+        "onboard_time": 1727314638,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 20336,
+        "num": 806466,
+        "word": "首次亮相天安门广场的蔬果花篮",
+        "onboard_time": 1727268981,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 764956,
+        "num": 764956,
+        "word": "如鸢开门了",
+        "onboard_time": 1727312119,
+        "rank": 3,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 650372,
+        "num": 650372,
+        "word": "预制朋友圈火了",
+        "onboard_time": 1727277141,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 486113,
+        "num": 486113,
+        "word": "于东来称将停止帮扶企业",
+        "onboard_time": 1727308218,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 473344,
+        "num": 473344,
+        "word": "王琳凯把希林娜依高裙子当毯子",
+        "onboard_time": 1727309900,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 420695,
+        "num": 420695,
+        "word": "iPhone被锁10年机主否认造假",
+        "onboard_time": 1727309420,
+        "rank": 7,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 380267,
+        "num": 411943,
+        "word": "工作室晒赵丽颖实绩图",
+        "onboard_time": 1727310500,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 346517,
+        "num": 408735,
+        "word": "火箭军导弹发射现场图",
+        "onboard_time": 1727312119,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 406887,
+        "num": 406887,
+        "word": "多名家长反映婴儿恒温壶内残留白胶",
+        "onboard_time": 1727308218,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 345637,
+        "num": 345637,
+        "word": "韩国紧急进口中国产大白菜",
+        "onboard_time": 1727307678,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 307494,
+        "num": 307494,
+        "word": "如鸢抢名字",
+        "onboard_time": 1727313559,
+        "rank": 12,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 286524,
+        "num": 286524,
+        "word": "山西是有一个睡眠结界吗",
+        "onboard_time": 1727281877,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 277824,
+        "num": 277824,
+        "word": "73岁母亲现场怒打54岁惯犯儿子",
+        "onboard_time": 1727272403,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 272808,
+        "num": 272808,
+        "word": "秦岚卢昱晓任敏 财阀家的千金们",
+        "onboard_time": 1727305815,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 254446,
+        "num": 254446,
+        "word": "尹净汉正式入伍",
+        "onboard_time": 1727312778,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 250336,
+        "num": 250336,
+        "word": "大熊猫安安可可即将赴港",
+        "onboard_time": 1727312899,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192847,
+        "num": 250141,
+        "word": "佳偶天成开机",
+        "onboard_time": 1727315478,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164814,
+        "num": 249837,
+        "word": "刘宇宁话筒矮了扎马步说感言",
+        "onboard_time": 1727308279,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 548020,
+        "num": 249632,
+        "word": "于适新头像",
+        "onboard_time": 1727276360,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 431190,
+        "num": 249353,
+        "word": "刘美含 妈妈你到底失败在哪儿了",
+        "onboard_time": 1727314938,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 249132,
+        "num": 249132,
+        "word": "学校回应学生仅退款被拒骂客服1小时",
+        "onboard_time": 1727275700,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229006,
+        "num": 229006,
+        "word": "光与夜之恋",
+        "onboard_time": 1727314878,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 222269,
+        "num": 222269,
+        "word": "以军大规模空袭已致黎巴嫩1200死",
+        "onboard_time": 1727312420,
+        "rank": 24,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 218907,
+        "num": 218907,
+        "word": "普京或使用核武器进行反击",
+        "onboard_time": 1727315058,
+        "rank": 25,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 218393,
+        "num": 218393,
+        "word": "中国人的尿酸为啥越来越高了",
+        "onboard_time": 1727284994,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 205898,
+        "num": 205898,
+        "word": "闪耀暖暖",
+        "onboard_time": 1727315118,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 199542,
+        "num": 199542,
+        "word": "坐火车出行有哪些新变化",
+        "onboard_time": 1727314699,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156580,
+        "num": 188919,
+        "word": "女高的娃娃们 100个全考上了",
+        "onboard_time": 1727312660,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 188278,
+        "num": 188278,
+        "word": "我是广陵王 我重生了",
+        "onboard_time": 1727314218,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 178879,
+        "num": 178879,
+        "word": "胖东来晒月饼检测报告",
+        "onboard_time": 1727311879,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175295,
+        "num": 175295,
+        "word": "33岁男子辞去工程监理摆摊卖卤肉",
+        "onboard_time": 1727305875,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175098,
+        "num": 175098,
+        "word": "中国地震台回应很多人没收到预警",
+        "onboard_time": 1727307438,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167092,
+        "num": 167092,
+        "word": "天降烟头到熟睡孩子床上床单被烧焦",
+        "onboard_time": 1727301131,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158811,
+        "num": 158811,
+        "word": "钟丽缇53岁状态",
+        "onboard_time": 1727306355,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28892,
+        "num": 156241,
+        "word": "淘宝让一部分人先付起来了",
+        "onboard_time": 1727315118,
+        "rank": 36,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 155150,
+        "num": 155150,
+        "word": "朋友圈有些内容绝对不能发",
+        "onboard_time": 1727314638,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146785,
+        "num": 146785,
+        "word": "朱绰盈 律政俏佳人",
+        "onboard_time": 1727312599,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145666,
+        "num": 145666,
+        "word": "苹果头显廉价版曝光",
+        "onboard_time": 1727314638,
+        "rank": 39,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 142649,
+        "num": 142649,
+        "word": "胖东来回应将停止帮扶企业",
+        "onboard_time": 1727314638,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110340,
+        "num": 137973,
+        "word": "国庆假期出行指南来了",
+        "onboard_time": 1727312119,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137580,
+        "num": 137580,
+        "word": "WTT中国大满贯开赛",
+        "onboard_time": 1727309181,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137054,
+        "num": 137054,
+        "word": "律所回应女律师自曝出轨上司",
+        "onboard_time": 1727306656,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132890,
+        "num": 132890,
+        "word": "法考",
+        "onboard_time": 1727278579,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 132124,
+        "num": 132124,
+        "word": "上海地铁",
+        "onboard_time": 1727313079,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131454,
+        "num": 131454,
+        "word": "没有十年工龄看不懂的摸鱼技巧",
+        "onboard_time": 1727305215,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 120066,
+        "num": 120066,
+        "word": "我的宝藏家乡",
+        "onboard_time": 1727275879,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119969,
+        "num": 119969,
+        "word": "过去的手机设计有多酷",
+        "onboard_time": 1727314699,
+        "rank": 48,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 98238,
+        "num": 117799,
+        "word": "吴谨言线下活动",
+        "onboard_time": 1727274319,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#科技赋能强种业人勤苗壮绘丰收#"
+    }
+  }
+}
