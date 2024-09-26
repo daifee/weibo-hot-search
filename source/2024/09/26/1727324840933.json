@@ -1,0 +1,410 @@
+{
+  "runTime": 1727324840933,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1543293,
+        "num": 1543293,
+        "word": "研究生人数超本科卷学历还有出路吗",
+        "onboard_time": 1727320160,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1468058,
+        "num": 1468058,
+        "word": "班主任给全班24个学生买电脑",
+        "onboard_time": 1727320278,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46398,
+        "num": 1429182,
+        "word": "千里跃进大别山",
+        "onboard_time": 1727321417,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1400099,
+        "num": 1400099,
+        "word": "单依纯口误",
+        "onboard_time": 1727322318,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1065307,
+        "num": 1065307,
+        "word": "男童输液后死亡医院承认修改病历",
+        "onboard_time": 1727320459,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 882238,
+        "num": 882238,
+        "word": "韩国奥运冠军被长期霸凌",
+        "onboard_time": 1727314638,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 854941,
+        "num": 854941,
+        "word": "胖东来回应将停止帮扶企业",
+        "onboard_time": 1727314638,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 827692,
+        "num": 827692,
+        "word": "野猪泛滥已危害全国26省份",
+        "onboard_time": 1727319798,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 591346,
+        "num": 768043,
+        "word": "佳偶天成女主",
+        "onboard_time": 1727319378,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 754947,
+        "num": 754947,
+        "word": "日澳新三国舰艇过航台湾海峡",
+        "onboard_time": 1727323278,
+        "rank": 9,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 4927,
+        "num": 582609,
+        "word": "避孕药科学说明书",
+        "onboard_time": 1727321479,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 557038,
+        "num": 557038,
+        "word": "如鸢开门了",
+        "onboard_time": 1727312119,
+        "rank": 11,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 462462,
+        "num": 462462,
+        "word": "韩媒称韩国已被中国超越",
+        "onboard_time": 1727307379,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 417276,
+        "num": 417276,
+        "word": "许凯好瘦",
+        "onboard_time": 1727321059,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 48804,
+        "num": 415180,
+        "word": "无底线的闹婚是犯罪",
+        "onboard_time": 1727324001,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 414988,
+        "num": 414988,
+        "word": "肖战两黑粉被强执8713元",
+        "onboard_time": 1727321119,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 411224,
+        "num": 411224,
+        "word": "火箭军导弹发射现场图",
+        "onboard_time": 1727312119,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 389088,
+        "num": 389088,
+        "word": "iPhone16成近年最不受欢迎一代",
+        "onboard_time": 1727316319,
+        "rank": 17,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 355753,
+        "num": 355753,
+        "word": "普京或使用核武器进行反击",
+        "onboard_time": 1727315058,
+        "rank": 18,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 59314,
+        "num": 355128,
+        "word": "刘涛有自己的破碎感赛道",
+        "onboard_time": 1727323760,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 229423,
+        "num": 353879,
+        "word": "俄讨论核遏制国家政策基础更新",
+        "onboard_time": 1727320459,
+        "rank": 20,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 162719,
+        "num": 351602,
+        "word": "宋佳演技",
+        "onboard_time": 1727323579,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 224139,
+        "num": 350297,
+        "word": "半熟男女香港爱情故事",
+        "onboard_time": 1727317817,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 348701,
+        "num": 348701,
+        "word": "杭州第一个购物中心落寞了",
+        "onboard_time": 1727317759,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270558,
+        "num": 341922,
+        "word": "王鹤润佳偶天成出妆",
+        "onboard_time": 1727321059,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 338116,
+        "num": 338116,
+        "word": "光遇",
+        "onboard_time": 1727322259,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 312498,
+        "num": 312498,
+        "word": "预制朋友圈火了",
+        "onboard_time": 1727277141,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247455,
+        "num": 247455,
+        "word": "他不是报丧鸟他是活着的名册",
+        "onboard_time": 1727323340,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 44901,
+        "num": 228379,
+        "word": "三角洲行动今日上线",
+        "onboard_time": 1727319918,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 36747,
+        "num": 224054,
+        "word": "十一宝藏景区打卡",
+        "onboard_time": 1727323579,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223235,
+        "num": 223235,
+        "word": "于适新头像",
+        "onboard_time": 1727276360,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 219657,
+        "num": 219657,
+        "word": "二十一天开播",
+        "onboard_time": 1727323519,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 217882,
+        "num": 217882,
+        "word": "村主任撞死邻村主任案二审维持原判",
+        "onboard_time": 1727318478,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206552,
+        "num": 206552,
+        "word": "牧神记定档",
+        "onboard_time": 1727323278,
+        "rank": 33,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 202342,
+        "num": 202342,
+        "word": "樱桃琥珀首发剧照",
+        "onboard_time": 1727318540,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198012,
+        "num": 198012,
+        "word": "原来吴刚9岁就和游本昌合作了",
+        "onboard_time": 1727324480,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 195593,
+        "num": 195593,
+        "word": "如鸢给我王粲会怎样呢",
+        "onboard_time": 1727324419,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 195539,
+        "num": 195539,
+        "word": "如鸢攻略",
+        "onboard_time": 1727319378,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 191506,
+        "num": 191506,
+        "word": "王琳凯把希林娜依高裙子当毯子",
+        "onboard_time": 1727309900,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 191123,
+        "num": 191123,
+        "word": "运动要30分钟以上才能减肥吗",
+        "onboard_time": 1727322318,
+        "rank": 39,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 190933,
+        "num": 190933,
+        "word": "律所回应女律师自曝出轨上司",
+        "onboard_time": 1727306656,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171175,
+        "num": 171175,
+        "word": "韩国紧急进口中国产大白菜",
+        "onboard_time": 1727307678,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171139,
+        "num": 171139,
+        "word": "农村媳妇为何跑婚",
+        "onboard_time": 1727324419,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 42981,
+        "num": 171038,
+        "word": "华为CTO首次揭秘三折叠研发细节",
+        "onboard_time": 1727319739,
+        "rank": 43,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 170989,
+        "num": 170989,
+        "word": "神印王座光之晨曦一年之约",
+        "onboard_time": 1727323760,
+        "rank": 44,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 165825,
+        "num": 165825,
+        "word": "佳偶天成开机",
+        "onboard_time": 1727315478,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161246,
+        "num": 161246,
+        "word": "邓紫棋抢票",
+        "onboard_time": 1727323818,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 158825,
+        "num": 158825,
+        "word": "咒术回战最终话",
+        "onboard_time": 1727321958,
+        "rank": 47,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 151975,
+        "num": 151975,
+        "word": "正式确诊为熟人羞耻症",
+        "onboard_time": 1727322799,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 150388,
+        "num": 150388,
+        "word": "于东来称将停止帮扶企业",
+        "onboard_time": 1727308218,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平给中国传媒大学全体师生回信#"
+    }
+  }
+}

@@ -1,7 +1,15 @@
 {
   "startTime": 1727281816744,
-  "endTime": 1727322146908,
+  "endTime": 1727324840933,
   "band_list": [
+    {
+      "raw_hot": 1543293,
+      "num": 1543293,
+      "word": "研究生人数超本科卷学历还有出路吗",
+      "onboard_time": 1727320160,
+      "rank": 9,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 1531143,
       "num": 1531143,
@@ -19,12 +27,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1300247,
-      "num": 319252,
+      "raw_hot": 1468058,
+      "num": 1468058,
       "word": "班主任给全班24个学生买电脑",
       "onboard_time": 1727320278,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1400099,
+      "num": 1400099,
+      "word": "单依纯口误",
+      "onboard_time": 1727322318,
+      "rank": 3,
+      "category": "音乐"
     },
     {
       "raw_hot": 1228111,
@@ -48,6 +64,14 @@
       "word": "韩媒称韩国已被中国超越",
       "onboard_time": 1727307379,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1065307,
+      "num": 1065307,
+      "word": "男童输液后死亡医院承认修改病历",
+      "onboard_time": 1727320459,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -75,6 +99,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 827692,
+      "num": 827692,
+      "word": "野猪泛滥已危害全国26省份",
+      "onboard_time": 1727319798,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 778267,
       "num": 778267,
       "word": "佳偶天成开机",
@@ -91,6 +123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 754947,
+      "num": 754947,
+      "word": "日澳新三国舰艇过航台湾海峡",
+      "onboard_time": 1727323278,
+      "rank": 9,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 713723,
       "num": 713723,
       "word": "杭州第一个购物中心落寞了",
@@ -100,7 +140,7 @@
     },
     {
       "raw_hot": 710732,
-      "num": 710732,
+      "num": 768043,
       "word": "佳偶天成女主",
       "onboard_time": 1727319378,
       "rank": 23,
@@ -163,14 +203,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 541166,
-      "num": 551899,
-      "word": "研究生人数超本科卷学历还有出路吗",
-      "onboard_time": 1727320160,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 500338,
       "num": 517309,
       "word": "火箭军导弹发射现场图",
@@ -227,7 +259,15 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 414652,
+      "raw_hot": 417276,
+      "num": 417276,
+      "word": "许凯好瘦",
+      "onboard_time": 1727321059,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 414988,
       "num": 518710,
       "word": "肖战两黑粉被强执8713元",
       "onboard_time": 1727321119,
@@ -276,11 +316,19 @@
     },
     {
       "raw_hot": 344299,
-      "num": 344299,
+      "num": 350297,
       "word": "半熟男女香港爱情故事",
       "onboard_time": 1727317817,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 338116,
+      "num": 338116,
+      "word": "光遇",
+      "onboard_time": 1727322259,
+      "rank": 25,
+      "category": "游戏"
     },
     {
       "raw_hot": 335518,
@@ -339,14 +387,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 260312,
-      "num": 260312,
-      "word": "许凯好瘦",
-      "onboard_time": 1727321059,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 256967,
       "num": 249777,
       "word": "中国人的尿酸为啥越来越高了",
@@ -356,7 +396,7 @@
     },
     {
       "raw_hot": 254055,
-      "num": 254055,
+      "num": 353879,
       "word": "俄讨论核遏制国家政策基础更新",
       "onboard_time": 1727320459,
       "rank": 26,
@@ -369,6 +409,14 @@
       "onboard_time": 1727312899,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 247455,
+      "num": 247455,
+      "word": "他不是报丧鸟他是活着的名册",
+      "onboard_time": 1727323340,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 244309,
@@ -393,14 +441,6 @@
       "onboard_time": 1727269402,
       "rank": 13,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 235690,
-      "num": 328148,
-      "word": "野猪泛滥已危害全国26省份",
-      "onboard_time": 1727319798,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 232297,
@@ -451,11 +491,27 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 219657,
+      "num": 219657,
+      "word": "二十一天开播",
+      "onboard_time": 1727323519,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 218378,
       "num": 218378,
       "word": "国庆假期出行指南来了",
       "onboard_time": 1727312119,
       "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 217882,
+      "num": 325523,
+      "word": "村主任撞死邻村主任案二审维持原判",
+      "onboard_time": 1727318478,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -499,20 +555,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 206552,
+      "num": 206552,
+      "word": "牧神记定档",
+      "onboard_time": 1727323278,
+      "rank": 33,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 205898,
       "num": 205898,
       "word": "闪耀暖暖",
       "onboard_time": 1727315118,
       "rank": 27,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 204962,
-      "num": 325523,
-      "word": "村主任撞死邻村主任案二审维持原判",
-      "onboard_time": 1727318478,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 199976,
@@ -531,12 +587,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 198012,
+      "num": 198012,
+      "word": "原来吴刚9岁就和游本昌合作了",
+      "onboard_time": 1727324480,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 195593,
+      "num": 195593,
+      "word": "如鸢给我王粲会怎样呢",
+      "onboard_time": 1727324419,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 195422,
       "num": 195422,
       "word": "本轮冷空气或将终结南方高温",
       "onboard_time": 1727268200,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 191123,
+      "num": 191123,
+      "word": "运动要30分钟以上才能减肥吗",
+      "onboard_time": 1727322318,
+      "rank": 39,
+      "category": "运动健身"
     },
     {
       "raw_hot": 190432,
@@ -595,6 +675,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 171139,
+      "num": 171139,
+      "word": "农村媳妇为何跑婚",
+      "onboard_time": 1727324419,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 170989,
+      "num": 170989,
+      "word": "神印王座光之晨曦一年之约",
+      "onboard_time": 1727323760,
+      "rank": 44,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 167229,
       "num": 145994,
       "word": "12306候补一种很新的存钱方式",
@@ -619,6 +715,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 162719,
+      "num": 351602,
+      "word": "宋佳演技",
+      "onboard_time": 1727323579,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 161947,
       "num": 161947,
       "word": "詹姆斯与布朗尼互喷垃圾话",
@@ -627,12 +731,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 161246,
+      "num": 161246,
+      "word": "邓紫棋抢票",
+      "onboard_time": 1727323818,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 158825,
+      "num": 158825,
+      "word": "咒术回战最终话",
+      "onboard_time": 1727321958,
+      "rank": 42,
+      "category": "动漫,作品衍生"
+    },
+    {
       "raw_hot": 158637,
       "num": 158637,
       "word": "上海地铁",
       "onboard_time": 1727313079,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 151975,
+      "num": 151975,
+      "word": "正式确诊为熟人羞耻症",
+      "onboard_time": 1727322799,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 148314,
@@ -707,14 +835,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 139955,
-      "num": 390877,
-      "word": "男童输液后死亡医院承认修改病历",
-      "onboard_time": 1727320459,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 137565,
       "num": 137565,
       "word": "努力培养更多高素质新闻传播人才",
@@ -729,14 +849,6 @@
       "onboard_time": 1727317458,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 136453,
-      "num": 136453,
-      "word": "咒术回战最终话",
-      "onboard_time": 1727321958,
-      "rank": 42,
-      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 134689,
@@ -1115,6 +1227,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 59314,
+      "num": 355128,
+      "word": "刘涛有自己的破碎感赛道",
+      "onboard_time": 1727323760,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 59230,
       "num": 59230,
       "word": "郑钦文张之臻中网酒会造型",
@@ -1140,7 +1260,7 @@
     },
     {
       "raw_hot": 53096,
-      "num": 162400,
+      "num": 582609,
       "word": "避孕药科学说明书",
       "onboard_time": 1727321479,
       "rank": 35,
@@ -1161,6 +1281,22 @@
       "onboard_time": 1727319739,
       "rank": 47,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 48804,
+      "num": 415180,
+      "word": "无底线的闹婚是犯罪",
+      "onboard_time": 1727324001,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 46398,
+      "num": 1429182,
+      "word": "千里跃进大别山",
+      "onboard_time": 1727321417,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 45977,
@@ -1225,6 +1361,14 @@
       "onboard_time": 1727289793,
       "rank": 49,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 36747,
+      "num": 224054,
+      "word": "十一宝藏景区打卡",
+      "onboard_time": 1727323579,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 36406,
@@ -1332,6 +1476,9 @@
     },
     {
       "word": "#56个民族就是相亲相爱的一家人#"
+    },
+    {
+      "word": "#习近平给中国传媒大学全体师生回信#"
     }
   ]
 }
