@@ -1,6 +1,6 @@
 {
   "startTime": 1726936020707,
-  "endTime": 1727383047989,
+  "endTime": 1727385614742,
   "band_list": [
     {
       "raw_hot": 12357374,
@@ -14483,6 +14483,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 50520,
+      "num": 56751,
+      "word": "躺式午睡的中小学生有多幸福",
+      "onboard_time": 1727369415,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 50517,
       "num": 439820,
       "word": "不止是Cybertruck更是一车抵多车",
@@ -14537,14 +14545,6 @@
       "onboard_time": 1726957392,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 49825,
-      "num": 56751,
-      "word": "躺式午睡的中小学生有多幸福",
-      "onboard_time": 1727369415,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 49779,
@@ -16075,6 +16075,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 22923,
+      "num": 23481,
+      "word": "半熟男女 被渣者联盟的反击",
+      "onboard_time": 1727379310,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 22917,
       "num": 22917,
       "word": "网友点赞12306车内换座功能",
@@ -16251,12 +16259,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 18472,
+      "num": 20395,
+      "word": "越来越多中国记者出现在国际新闻现场",
+      "onboard_time": 1727381891,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 18381,
       "num": 351127,
       "word": "购买78万元黄金女子成骗子帮凶",
       "onboard_time": 1727272580,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 18263,
+      "num": 20386,
+      "word": "国防部敦促美方停止虚假叙事",
+      "onboard_time": 1727380811,
+      "rank": 47,
+      "category": "国内时政"
     },
     {
       "raw_hot": 18193,
@@ -16283,28 +16307,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 18019,
-      "num": 20395,
-      "word": "越来越多中国记者出现在国际新闻现场",
-      "onboard_time": 1727381891,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 17858,
       "num": 19037,
       "word": "重庆反家暴立法新实践10月1日起实施",
       "onboard_time": 1727123830,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 17841,
-      "num": 20391,
-      "word": "半熟男女 被渣者联盟的反击",
-      "onboard_time": 1727379310,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 17628,
@@ -16369,14 +16377,6 @@
       "onboard_time": 1726982660,
       "rank": 18,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 16448,
-      "num": 20386,
-      "word": "国防部敦促美方停止虚假叙事",
-      "onboard_time": 1727380811,
-      "rank": 47,
-      "category": "国内时政"
     },
     {
       "raw_hot": 16439,
@@ -16464,6 +16464,14 @@
       "word": "老太疑被民警殴打曾有人提出4万私了",
       "onboard_time": 1727203392,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 14664,
+      "num": 23501,
+      "word": "48块瓷片拼出一件极稀有国宝",
+      "onboard_time": 1727385251,
+      "rank": 27,
       "category": "社会新闻"
     },
     {
