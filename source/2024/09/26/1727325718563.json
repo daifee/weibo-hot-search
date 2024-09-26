@@ -1,0 +1,410 @@
+{
+  "runTime": 1727325718563,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1974308,
+        "num": 1974308,
+        "word": "班主任给全班24个学生买电脑",
+        "onboard_time": 1727320278,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1423698,
+        "num": 1423698,
+        "word": "研究生人数超本科卷学历还有出路吗",
+        "onboard_time": 1727320160,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 42886,
+        "num": 1385686,
+        "word": "国庆假期出行指南来了",
+        "onboard_time": 1727312119,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1379024,
+        "num": 1379024,
+        "word": "单依纯口误",
+        "onboard_time": 1727322318,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1051555,
+        "num": 1051555,
+        "word": "男童输液后死亡医院承认修改病历",
+        "onboard_time": 1727320459,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 939782,
+        "num": 939782,
+        "word": "野猪泛滥已危害全国26省份",
+        "onboard_time": 1727319798,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 805646,
+        "num": 805646,
+        "word": "日澳新三国舰艇过航台湾海峡",
+        "onboard_time": 1727323278,
+        "rank": 6,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 798658,
+        "num": 798658,
+        "word": "韩国奥运冠军被长期霸凌",
+        "onboard_time": 1727314638,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 479042,
+        "num": 654853,
+        "word": "佳偶天成女主",
+        "onboard_time": 1727319378,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 641701,
+        "num": 641701,
+        "word": "胖东来回应将停止帮扶企业",
+        "onboard_time": 1727314638,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 543881,
+        "num": 543881,
+        "word": "如鸢开门了",
+        "onboard_time": 1727312119,
+        "rank": 10,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1110,
+        "num": 503471,
+        "word": "避孕药科学说明书",
+        "onboard_time": 1727321479,
+        "rank": 11,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 503169,
+        "num": 503169,
+        "word": "韩媒称韩国已被中国超越",
+        "onboard_time": 1727307379,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 381306,
+        "num": 381306,
+        "word": "肖战两黑粉被强执8713元",
+        "onboard_time": 1727321119,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 74065,
+        "num": 366259,
+        "word": "无底线的闹婚是犯罪",
+        "onboard_time": 1727324001,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 365505,
+        "num": 365505,
+        "word": "火箭军导弹发射现场图",
+        "onboard_time": 1727312119,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 351796,
+        "num": 365109,
+        "word": "许凯好瘦",
+        "onboard_time": 1727321059,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 255241,
+        "num": 365036,
+        "word": "宋佳演技",
+        "onboard_time": 1727323579,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 272945,
+        "num": 365022,
+        "word": "刘亦菲嘉人十月刊封面",
+        "onboard_time": 1727325081,
+        "rank": 18,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 365011,
+        "num": 365011,
+        "word": "iPhone16成近年最不受欢迎一代",
+        "onboard_time": 1727316319,
+        "rank": 19,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 344562,
+        "num": 344562,
+        "word": "原来吴刚9岁就和游本昌合作了",
+        "onboard_time": 1727324480,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 337249,
+        "num": 337249,
+        "word": "普京或使用核武器进行反击",
+        "onboard_time": 1727315058,
+        "rank": 21,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 297140,
+        "num": 297140,
+        "word": "预制朋友圈火了",
+        "onboard_time": 1727277141,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257321,
+        "num": 257321,
+        "word": "他不是报丧鸟他是活着的名册",
+        "onboard_time": 1727323340,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 256218,
+        "num": 256218,
+        "word": "杭州第一个购物中心落寞了",
+        "onboard_time": 1727317759,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247635,
+        "num": 247635,
+        "word": "光遇",
+        "onboard_time": 1727322259,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 231181,
+        "num": 231181,
+        "word": "王鹤润佳偶天成出妆",
+        "onboard_time": 1727321059,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 215487,
+        "num": 215487,
+        "word": "运动要30分钟以上才能减肥吗",
+        "onboard_time": 1727322318,
+        "rank": 27,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 200208,
+        "num": 200208,
+        "word": "印度三星罢工工人被曝要求职位世袭",
+        "onboard_time": 1727325019,
+        "rank": 28,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 29661,
+        "num": 196609,
+        "word": "十一宝藏景区打卡",
+        "onboard_time": 1727323579,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193581,
+        "num": 193581,
+        "word": "律所回应女律师自曝出轨上司",
+        "onboard_time": 1727306656,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189046,
+        "num": 189046,
+        "word": "半熟男女香港爱情故事",
+        "onboard_time": 1727317817,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187693,
+        "num": 187693,
+        "word": "于适新头像",
+        "onboard_time": 1727276360,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 178233,
+        "num": 178233,
+        "word": "王琳凯把希林娜依高裙子当毯子",
+        "onboard_time": 1727309900,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 175261,
+        "num": 175261,
+        "word": "彭昱畅这次不坐小孩桌了",
+        "onboard_time": 1727325200,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 173170,
+        "num": 173170,
+        "word": "如鸢给我王粲会怎样呢",
+        "onboard_time": 1727324419,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 172524,
+        "num": 172524,
+        "word": "牧神记定档",
+        "onboard_time": 1727323278,
+        "rank": 36,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 169877,
+        "num": 169877,
+        "word": "如鸢攻略",
+        "onboard_time": 1727319378,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 169684,
+        "num": 169684,
+        "word": "农村媳妇为何跑婚",
+        "onboard_time": 1727324419,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168206,
+        "num": 168206,
+        "word": "樱桃琥珀首发剧照",
+        "onboard_time": 1727318540,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167829,
+        "num": 167829,
+        "word": "二十一天开播",
+        "onboard_time": 1727323519,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167820,
+        "num": 167820,
+        "word": "俄讨论核遏制国家政策基础更新",
+        "onboard_time": 1727320459,
+        "rank": 41,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 167328,
+        "num": 167328,
+        "word": "村主任撞死邻村主任案二审维持原判",
+        "onboard_time": 1727318478,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164960,
+        "num": 164960,
+        "word": "正式确诊为熟人羞耻症",
+        "onboard_time": 1727322799,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 161862,
+        "num": 161862,
+        "word": "咒术回战最终话",
+        "onboard_time": 1727321958,
+        "rank": 44,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 151370,
+        "num": 151370,
+        "word": "CP30 还不开票",
+        "onboard_time": 1727322439,
+        "rank": 45,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 150560,
+        "num": 150560,
+        "word": "佳偶天成开机",
+        "onboard_time": 1727315478,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150359,
+        "num": 150359,
+        "word": "韩国紧急进口中国产大白菜",
+        "onboard_time": 1727307678,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148971,
+        "num": 148971,
+        "word": "黑神话悟空销量突破2000万",
+        "onboard_time": 1727325380,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 147159,
+        "num": 147159,
+        "word": "午睡其实是身体在自我修复",
+        "onboard_time": 1727325319,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#56个民族就是相亲相爱的一家人#"
+    }
+  }
+}

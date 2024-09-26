@@ -1,7 +1,15 @@
 {
   "startTime": 1727281816744,
-  "endTime": 1727324840933,
+  "endTime": 1727325718563,
   "band_list": [
+    {
+      "raw_hot": 1974308,
+      "num": 1974308,
+      "word": "班主任给全班24个学生买电脑",
+      "onboard_time": 1727320278,
+      "rank": 21,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 1543293,
       "num": 1543293,
@@ -25,14 +33,6 @@
       "onboard_time": 1727314638,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1468058,
-      "num": 1468058,
-      "word": "班主任给全班24个学生买电脑",
-      "onboard_time": 1727320278,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1400099,
@@ -91,6 +91,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 939782,
+      "num": 939782,
+      "word": "野猪泛滥已危害全国26省份",
+      "onboard_time": 1727319798,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 846020,
       "num": 846020,
       "word": "如鸢开门了",
@@ -99,12 +107,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 827692,
-      "num": 827692,
-      "word": "野猪泛滥已危害全国26省份",
-      "onboard_time": 1727319798,
-      "rank": 19,
-      "category": "社会新闻"
+      "raw_hot": 805646,
+      "num": 805646,
+      "word": "日澳新三国舰艇过航台湾海峡",
+      "onboard_time": 1727323278,
+      "rank": 9,
+      "category": "国外时政"
     },
     {
       "raw_hot": 778267,
@@ -121,14 +129,6 @@
       "onboard_time": 1727274082,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 754947,
-      "num": 754947,
-      "word": "日澳新三国舰艇过航台湾海峡",
-      "onboard_time": 1727323278,
-      "rank": 9,
-      "category": "国外时政"
     },
     {
       "raw_hot": 713723,
@@ -315,6 +315,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 344562,
+      "num": 344562,
+      "word": "原来吴刚9岁就和游本昌合作了",
+      "onboard_time": 1727324480,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 344299,
       "num": 350297,
       "word": "半熟男女香港爱情故事",
@@ -379,6 +387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 272945,
+      "num": 365022,
+      "word": "刘亦菲嘉人十月刊封面",
+      "onboard_time": 1727325081,
+      "rank": 18,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 261283,
       "num": 187442,
       "word": "韩素希回应柳俊烈李惠利争议",
@@ -387,12 +403,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 257321,
+      "num": 257321,
+      "word": "他不是报丧鸟他是活着的名册",
+      "onboard_time": 1727323340,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 256967,
       "num": 249777,
       "word": "中国人的尿酸为啥越来越高了",
       "onboard_time": 1727284994,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 255241,
+      "num": 365036,
+      "word": "宋佳演技",
+      "onboard_time": 1727323579,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 254055,
@@ -409,14 +441,6 @@
       "onboard_time": 1727312899,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 247455,
-      "num": 247455,
-      "word": "他不是报丧鸟他是活着的名册",
-      "onboard_time": 1727323340,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 244309,
@@ -500,7 +524,7 @@
     },
     {
       "raw_hot": 218378,
-      "num": 218378,
+      "num": 1385686,
       "word": "国庆假期出行指南来了",
       "onboard_time": 1727312119,
       "rank": 41,
@@ -521,6 +545,14 @@
       "onboard_time": 1727266580,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 215487,
+      "num": 215487,
+      "word": "运动要30分钟以上才能减肥吗",
+      "onboard_time": 1727322318,
+      "rank": 39,
+      "category": "运动健身"
     },
     {
       "raw_hot": 214298,
@@ -571,6 +603,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 200208,
+      "num": 200208,
+      "word": "印度三星罢工工人被曝要求职位世袭",
+      "onboard_time": 1727325019,
+      "rank": 28,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 199976,
       "num": 201690,
       "word": "肖战湾区升明月vlog",
@@ -587,14 +627,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 198012,
-      "num": 198012,
-      "word": "原来吴刚9岁就和游本昌合作了",
-      "onboard_time": 1727324480,
-      "rank": 35,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 195593,
       "num": 195593,
       "word": "如鸢给我王粲会怎样呢",
@@ -609,14 +641,6 @@
       "onboard_time": 1727268200,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 191123,
-      "num": 191123,
-      "word": "运动要30分钟以上才能减肥吗",
-      "onboard_time": 1727322318,
-      "rank": 39,
-      "category": "运动健身"
     },
     {
       "raw_hot": 190432,
@@ -657,6 +681,14 @@
       "onboard_time": 1727311879,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 175261,
+      "num": 175261,
+      "word": "彭昱畅这次不坐小孩桌了",
+      "onboard_time": 1727325200,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 173341,
@@ -707,19 +739,19 @@
       "category": "数码"
     },
     {
+      "raw_hot": 164960,
+      "num": 164960,
+      "word": "正式确诊为熟人羞耻症",
+      "onboard_time": 1727322799,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 163381,
       "num": 232393,
       "word": "女高的娃娃们 100个全考上了",
       "onboard_time": 1727312660,
       "rank": 24,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 162719,
-      "num": 351602,
-      "word": "宋佳演技",
-      "onboard_time": 1727323579,
-      "rank": 21,
       "category": "剧集"
     },
     {
@@ -731,20 +763,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 161862,
+      "num": 161862,
+      "word": "咒术回战最终话",
+      "onboard_time": 1727321958,
+      "rank": 42,
+      "category": "动漫,作品衍生"
+    },
+    {
       "raw_hot": 161246,
       "num": 161246,
       "word": "邓紫棋抢票",
       "onboard_time": 1727323818,
       "rank": 46,
       "category": "演出"
-    },
-    {
-      "raw_hot": 158825,
-      "num": 158825,
-      "word": "咒术回战最终话",
-      "onboard_time": 1727321958,
-      "rank": 42,
-      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 158637,
@@ -755,12 +787,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 151975,
-      "num": 151975,
-      "word": "正式确诊为熟人羞耻症",
-      "onboard_time": 1727322799,
+      "raw_hot": 151370,
+      "num": 151370,
+      "word": "CP30 还不开票",
+      "onboard_time": 1727322439,
+      "rank": 45,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 148971,
+      "num": 148971,
+      "word": "黑神话悟空销量突破2000万",
+      "onboard_time": 1727325380,
       "rank": 48,
-      "category": "情感"
+      "category": "游戏"
     },
     {
       "raw_hot": 148314,
@@ -793,6 +833,14 @@
       "onboard_time": 1727264422,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 147159,
+      "num": 147159,
+      "word": "午睡其实是身体在自我修复",
+      "onboard_time": 1727325319,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 146785,
@@ -1115,6 +1163,14 @@
       "category": "美食,社会新闻"
     },
     {
+      "raw_hot": 74065,
+      "num": 415180,
+      "word": "无底线的闹婚是犯罪",
+      "onboard_time": 1727324001,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 73659,
       "num": 73659,
       "word": "孙佳俊再次刷新亚洲纪录",
@@ -1281,14 +1337,6 @@
       "onboard_time": 1727319739,
       "rank": 47,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 48804,
-      "num": 415180,
-      "word": "无底线的闹婚是犯罪",
-      "onboard_time": 1727324001,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 46398,
