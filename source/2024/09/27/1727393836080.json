@@ -1,0 +1,410 @@
+{
+  "runTime": 1727393836080,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1715325,
+        "num": 1715325,
+        "word": "新娘婚礼下轿被大妈强扯头纱",
+        "onboard_time": 1727391855,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 834222,
+        "num": 834222,
+        "word": "教育局通报家长跪求取消钉钉打卡",
+        "onboard_time": 1727362102,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19708,
+        "num": 549217,
+        "word": "我国无人驾驶重载列车首试成功",
+        "onboard_time": 1727348479,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 548778,
+        "num": 548778,
+        "word": "打假博主大娃回应东北雨姐",
+        "onboard_time": 1727370494,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 477544,
+        "num": 477544,
+        "word": "一个洗头油得慢的办法",
+        "onboard_time": 1727363361,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 468276,
+        "num": 468276,
+        "word": "以色列被禁止以国家名义参加国际竞赛",
+        "onboard_time": 1727357481,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 364798,
+        "num": 364798,
+        "word": "母亲玩手机3岁幼童坠楼商场判赔154万",
+        "onboard_time": 1727362761,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280389,
+        "num": 280389,
+        "word": "特朗普拒见泽连斯基",
+        "onboard_time": 1727367258,
+        "rank": 7,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 124549,
+        "num": 274832,
+        "word": "姚安娜一学就会秦霄贤一学就废",
+        "onboard_time": 1727353639,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 34818,
+        "num": 271636,
+        "word": "新版梁祝越剧武汉首演",
+        "onboard_time": 1727371994,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 298206,
+        "num": 270740,
+        "word": "东北雨姐团队称红薯粉条应该有问题",
+        "onboard_time": 1727389274,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 269779,
+        "num": 269779,
+        "word": "官方通报学生家长校门口跪地",
+        "onboard_time": 1727361801,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 256353,
+        "num": 256353,
+        "word": "父母因赌博离异儿子又迷上网赌",
+        "onboard_time": 1727377631,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230812,
+        "num": 230812,
+        "word": "韩女奥运冠军被霸凌给男选手洗内裤",
+        "onboard_time": 1727349558,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206310,
+        "num": 206310,
+        "word": "躺式午睡的中小学生有多幸福",
+        "onboard_time": 1727369415,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205629,
+        "num": 205629,
+        "word": "张杰谢娜纪念结婚13年",
+        "onboard_time": 1727364620,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195005,
+        "num": 195005,
+        "word": "牛肉价格降至5年来最低",
+        "onboard_time": 1727360302,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168301,
+        "num": 168301,
+        "word": "中央最新部署重要信号见力度",
+        "onboard_time": 1727367019,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164642,
+        "num": 164642,
+        "word": "记住那个摔得头破血流的年轻人",
+        "onboard_time": 1727365219,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125236,
+        "num": 146725,
+        "word": "聂远 华坪女高的故事还在继续",
+        "onboard_time": 1727369774,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 321766,
+        "num": 143602,
+        "word": "男生被4女生扣留2小时下跪道歉",
+        "onboard_time": 1727355319,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 275872,
+        "num": 143157,
+        "word": "2岁娃睡不好被奶奶喂符水致铅中毒",
+        "onboard_time": 1727370615,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139457,
+        "num": 139457,
+        "word": "今年的桂花香为何迟到了",
+        "onboard_time": 1727391014,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136319,
+        "num": 136319,
+        "word": "一等功到家两位功臣却都不能露脸",
+        "onboard_time": 1727349739,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135899,
+        "num": 135899,
+        "word": "高尿酸人群真正要忌口的食物",
+        "onboard_time": 1727358862,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 132747,
+        "num": 132747,
+        "word": "民宿为什么失宠了",
+        "onboard_time": 1727345479,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115476,
+        "num": 115476,
+        "word": "李沐宸 喜欢我是一件小众的事",
+        "onboard_time": 1727361081,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110417,
+        "num": 110417,
+        "word": "迪丽热巴少来烦姐挂件",
+        "onboard_time": 1727365759,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106192,
+        "num": 106192,
+        "word": "蔡徐坤CardiB坐在一起",
+        "onboard_time": 1727359941,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90864,
+        "num": 104676,
+        "word": "王源易烊千玺包场749局",
+        "onboard_time": 1727363240,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 103999,
+        "num": 103999,
+        "word": "三只羊构成虚假的商业宣传",
+        "onboard_time": 1727358142,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 96728,
+        "num": 96728,
+        "word": "黄晓明带叶珂去了大湾区晚会",
+        "onboard_time": 1727328620,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 95122,
+        "num": 95122,
+        "word": "洲际弹道导弹发射现场图公布",
+        "onboard_time": 1727354480,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 91616,
+        "num": 91616,
+        "word": "直到逝世人们才知道他三立特等功",
+        "onboard_time": 1727375052,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 91300,
+        "num": 91300,
+        "word": "贵州一地大量巨石滚落砸穿住宅楼",
+        "onboard_time": 1727361320,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 80125,
+        "num": 80125,
+        "word": "中国住宅要取消公摊了吗",
+        "onboard_time": 1727341759,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 78051,
+        "num": 78051,
+        "word": "1万多平米的树林其实只有1棵树",
+        "onboard_time": 1727377750,
+        "rank": 36,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 75684,
+        "num": 75684,
+        "word": "成龙回复全妹了",
+        "onboard_time": 1727352799,
+        "rank": 37,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 75254,
+        "num": 75254,
+        "word": "WMA回应单依纯口误",
+        "onboard_time": 1727359822,
+        "rank": 38,
+        "category": "音乐,艺人"
+      },
+      {
+        "raw_hot": 73458,
+        "num": 75254,
+        "word": "校媛麻辣烫店主称媛字本身美好",
+        "onboard_time": 1727346619,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 66547,
+        "num": 75252,
+        "word": "王昶晒雨刮器专项训练",
+        "onboard_time": 1727392335,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 60866,
+        "num": 75250,
+        "word": "网友点赞12306车内换座功能",
+        "onboard_time": 1727378112,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 57742,
+        "num": 75249,
+        "word": "高校引进水博士或与评价体系有关",
+        "onboard_time": 1727387532,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 57317,
+        "num": 75248,
+        "word": "半熟男女 被渣者联盟的反击",
+        "onboard_time": 1727379310,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 55908,
+        "num": 75246,
+        "word": "住宿前一定要先检查这4个地方",
+        "onboard_time": 1727355858,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 55015,
+        "num": 75246,
+        "word": "如鸢手游致歉",
+        "onboard_time": 1727364200,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 48371,
+        "num": 75244,
+        "word": "周震南直播不敢放音乐的原因找到了",
+        "onboard_time": 1727369955,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 45884,
+        "num": 75244,
+        "word": "陈都灵路透",
+        "onboard_time": 1727363840,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 44488,
+        "num": 75243,
+        "word": "酒店偷拍事件中这些法律问题待厘清",
+        "onboard_time": 1727392516,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 42650,
+        "num": 75241,
+        "word": "合肥肥东2.3级地震",
+        "onboard_time": 1727337019,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平回信提到一块碑的故事#"
+    }
+  }
+}
