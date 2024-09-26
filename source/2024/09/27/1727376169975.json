@@ -1,0 +1,410 @@
+{
+  "runTime": 1727376169975,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 192615,
+        "num": 192615,
+        "word": "打假博主大娃回应东北雨姐",
+        "onboard_time": 1727370494,
+        "rank": 0,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 189352,
+        "num": 189352,
+        "word": "记住那个摔得头破血流的年轻人",
+        "onboard_time": 1727365219,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1392,
+        "num": 146534,
+        "word": "冠军中国青春接力",
+        "onboard_time": 1727357180,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121664,
+        "num": 121664,
+        "word": "以色列被禁止以国家名义参加国际竞赛",
+        "onboard_time": 1727357481,
+        "rank": 3,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 88641,
+        "num": 88641,
+        "word": "特朗普拒见泽连斯基",
+        "onboard_time": 1727367258,
+        "rank": 4,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 84362,
+        "num": 84362,
+        "word": "一个洗头油得慢的办法",
+        "onboard_time": 1727363361,
+        "rank": 5,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 79934,
+        "num": 79934,
+        "word": "中央最新部署重要信号见力度",
+        "onboard_time": 1727367019,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 72037,
+        "num": 72037,
+        "word": "如鸢手游致歉",
+        "onboard_time": 1727364200,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 72002,
+        "num": 72002,
+        "word": "周震南直播不敢放音乐的原因找到了",
+        "onboard_time": 1727369955,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24560,
+        "num": 67382,
+        "word": "洲际弹道导弹发射现场图公布",
+        "onboard_time": 1727354480,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 83737,
+        "num": 66219,
+        "word": "民宿为什么失宠了",
+        "onboard_time": 1727345479,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 80734,
+        "num": 65614,
+        "word": "张杰谢娜纪念结婚13年",
+        "onboard_time": 1727364620,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 64992,
+        "num": 64992,
+        "word": "新版梁祝越剧武汉首演",
+        "onboard_time": 1727371994,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 60544,
+        "num": 60544,
+        "word": "蔡徐坤CardiB坐在一起",
+        "onboard_time": 1727359941,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 55491,
+        "num": 55491,
+        "word": "姚安娜一学就会秦霄贤一学就废",
+        "onboard_time": 1727353639,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 54950,
+        "num": 54950,
+        "word": "迪丽热巴少来烦姐挂件",
+        "onboard_time": 1727365759,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 47675,
+        "num": 47675,
+        "word": "合肥肥东2.3级地震",
+        "onboard_time": 1727337019,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 42360,
+        "num": 42360,
+        "word": "中国住宅要取消公摊了吗",
+        "onboard_time": 1727341759,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 40161,
+        "num": 40161,
+        "word": "韩女奥运冠军被霸凌给男选手洗内裤",
+        "onboard_time": 1727349558,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38684,
+        "num": 38684,
+        "word": "聂远 华坪女高的故事还在继续",
+        "onboard_time": 1727369774,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 85714,
+        "num": 38658,
+        "word": "男生被4女生扣留2小时下跪道歉",
+        "onboard_time": 1727355319,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 63402,
+        "num": 37563,
+        "word": "2岁娃睡不好被奶奶喂符水致铅中毒",
+        "onboard_time": 1727370615,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 51908,
+        "num": 36815,
+        "word": "母亲玩手机3岁幼童坠楼商场判赔154万",
+        "onboard_time": 1727362761,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 39074,
+        "num": 36328,
+        "word": "邝玲玲 年度魅力女性奖",
+        "onboard_time": 1727372713,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35890,
+        "num": 35890,
+        "word": "官方通报学生家长校门口跪地",
+        "onboard_time": 1727361801,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 35814,
+        "num": 35814,
+        "word": "躺式午睡的中小学生有多幸福",
+        "onboard_time": 1727369415,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 35695,
+        "num": 35695,
+        "word": "黄晓明带叶珂去了大湾区晚会",
+        "onboard_time": 1727328620,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 34516,
+        "num": 34516,
+        "word": "李沐宸 喜欢我是一件小众的事",
+        "onboard_time": 1727361081,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33042,
+        "num": 33785,
+        "word": "陈都灵路透",
+        "onboard_time": 1727363840,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 29459,
+        "num": 33547,
+        "word": "成龙回复全妹了",
+        "onboard_time": 1727352799,
+        "rank": 29,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 33524,
+        "num": 33524,
+        "word": "知道螃蟹为啥要绑着蒸了",
+        "onboard_time": 1727353998,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 32519,
+        "num": 32519,
+        "word": "教育局通报家长跪求取消钉钉打卡",
+        "onboard_time": 1727362102,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29820,
+        "num": 29820,
+        "word": "直到逝世人们才知道他三立特等功",
+        "onboard_time": 1727375052,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 29487,
+        "num": 29487,
+        "word": "牛肉价格降至5年来最低",
+        "onboard_time": 1727360302,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28862,
+        "num": 28862,
+        "word": "龚俊工作室出图",
+        "onboard_time": 1727365398,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 288874,
+        "num": 28845,
+        "word": "警方通报三只羊卢某某录音事件",
+        "onboard_time": 1727361742,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28696,
+        "num": 28696,
+        "word": "王源易烊千玺包场749局",
+        "onboard_time": 1727363240,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 28364,
+        "num": 28364,
+        "word": "罗斯退役",
+        "onboard_time": 1727347278,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 28030,
+        "num": 28030,
+        "word": "宋佳下戏后录视频哽咽",
+        "onboard_time": 1727364919,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27393,
+        "num": 27393,
+        "word": "一等功到家两位功臣却都不能露脸",
+        "onboard_time": 1727349739,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26679,
+        "num": 26679,
+        "word": "高尿酸人群真正要忌口的食物",
+        "onboard_time": 1727358862,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 26474,
+        "num": 26474,
+        "word": "校媛麻辣烫店主称媛字本身美好",
+        "onboard_time": 1727346619,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 68716,
+        "num": 26296,
+        "word": "东北雨姐道歉",
+        "onboard_time": 1727340979,
+        "rank": 42,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 25887,
+        "num": 25887,
+        "word": "三只羊构成虚假的商业宣传",
+        "onboard_time": 1727358142,
+        "rank": 43,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 25458,
+        "num": 25458,
+        "word": "住宿前一定要先检查这4个地方",
+        "onboard_time": 1727355858,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24972,
+        "num": 24972,
+        "word": "WMA回应单依纯口误",
+        "onboard_time": 1727359822,
+        "rank": 45,
+        "category": "音乐,艺人"
+      },
+      {
+        "raw_hot": 24572,
+        "num": 24971,
+        "word": "贺峻霖主持口条",
+        "onboard_time": 1727369835,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 22835,
+        "num": 24969,
+        "word": "Capper周震南啃苹果官宣演唱会",
+        "onboard_time": 1727367857,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 21499,
+        "num": 24968,
+        "word": "金智媛新闻图状态",
+        "onboard_time": 1727359580,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 20959,
+        "num": 24965,
+        "word": "炉石传说致歉",
+        "onboard_time": 1727351899,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平回信提到一块碑的故事#"
+    }
+  }
+}

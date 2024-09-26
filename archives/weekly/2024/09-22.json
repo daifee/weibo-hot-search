@@ -1,6 +1,6 @@
 {
   "startTime": 1726936020707,
-  "endTime": 1727375321372,
+  "endTime": 1727376169975,
   "band_list": [
     {
       "raw_hot": 12357374,
@@ -7819,6 +7819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 192615,
+      "num": 194280,
+      "word": "打假博主大娃回应东北雨姐",
+      "onboard_time": 1727370494,
+      "rank": 28,
+      "category": "网红"
+    },
+    {
       "raw_hot": 192452,
       "num": 251975,
       "word": "黄小蕾晋商少奶奶造型",
@@ -7889,14 +7897,6 @@
       "onboard_time": 1727064862,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 191237,
-      "num": 194280,
-      "word": "打假博主大娃回应东北雨姐",
-      "onboard_time": 1727370494,
-      "rank": 28,
-      "category": "网红"
     },
     {
       "raw_hot": 191219,
@@ -13787,6 +13787,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 64992,
+      "num": 64992,
+      "word": "新版梁祝越剧武汉首演",
+      "onboard_time": 1727371994,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 64758,
       "num": 64758,
       "word": "周深把音响加到鸟巢承重极限",
@@ -13881,14 +13889,6 @@
       "onboard_time": 1726929267,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 61959,
-      "num": 61959,
-      "word": "新版梁祝越剧武汉首演",
-      "onboard_time": 1727371994,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 61954,
@@ -15657,6 +15657,14 @@
       "onboard_time": 1727075539,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 29820,
+      "num": 29820,
+      "word": "直到逝世人们才知道他三立特等功",
+      "onboard_time": 1727375052,
+      "rank": 32,
+      "category": "国内时政"
     },
     {
       "raw_hot": 29811,

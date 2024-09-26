@@ -1,6 +1,6 @@
 {
   "startTime": 1727368091089,
-  "endTime": 1727375321372,
+  "endTime": 1727376169975,
   "band_list": [
     {
       "raw_hot": 2291469,
@@ -163,7 +163,7 @@
       "category": "电影"
     },
     {
-      "raw_hot": 191237,
+      "raw_hot": 192615,
       "num": 194280,
       "word": "打假博主大娃回应东北雨姐",
       "onboard_time": 1727370494,
@@ -427,20 +427,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 64992,
+      "num": 64992,
+      "word": "新版梁祝越剧武汉首演",
+      "onboard_time": 1727371994,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 64384,
       "num": 82229,
       "word": "金钱堡垒",
       "onboard_time": 1727368516,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 61959,
-      "num": 61959,
-      "word": "新版梁祝越剧武汉首演",
-      "onboard_time": 1727371994,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 54427,
@@ -481,6 +481,14 @@
       "onboard_time": 1727371513,
       "rank": 48,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 29820,
+      "num": 29820,
+      "word": "直到逝世人们才知道他三立特等功",
+      "onboard_time": 1727375052,
+      "rank": 32,
+      "category": "国内时政"
     },
     {
       "raw_hot": 5856,

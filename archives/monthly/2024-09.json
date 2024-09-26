@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1727375321372,
+  "endTime": 1727376169975,
   "band_list": [
     {
       "raw_hot": 28035334,
@@ -39219,6 +39219,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 192615,
+      "num": 194280,
+      "word": "打假博主大娃回应东北雨姐",
+      "onboard_time": 1727370494,
+      "rank": 28,
+      "category": "网红"
+    },
+    {
       "raw_hot": 192529,
       "num": 192529,
       "word": "Xiaohu手势舞",
@@ -39513,14 +39521,6 @@
       "onboard_time": 1726911140,
       "rank": 32,
       "category": "演出"
-    },
-    {
-      "raw_hot": 191237,
-      "num": 194280,
-      "word": "打假博主大娃回应东北雨姐",
-      "onboard_time": 1727370494,
-      "rank": 28,
-      "category": "网红"
     },
     {
       "raw_hot": 191219,
@@ -67819,6 +67819,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 64992,
+      "num": 64992,
+      "word": "新版梁祝越剧武汉首演",
+      "onboard_time": 1727371994,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 64880,
       "num": 64880,
       "word": "外国人也对这个词这么敏感",
@@ -68209,14 +68217,6 @@
       "onboard_time": 1725904933,
       "rank": 36,
       "category": "数码"
-    },
-    {
-      "raw_hot": 61959,
-      "num": 61959,
-      "word": "新版梁祝越剧武汉首演",
-      "onboard_time": 1727371994,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 61955,
@@ -75721,6 +75721,14 @@
       "onboard_time": 1726111941,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 29820,
+      "num": 29820,
+      "word": "直到逝世人们才知道他三立特等功",
+      "onboard_time": 1727375052,
+      "rank": 32,
+      "category": "国内时政"
     },
     {
       "raw_hot": 29811,
