@@ -1,0 +1,410 @@
+{
+  "runTime": 1727335280998,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1713403,
+        "num": 1713403,
+        "word": "五角大楼回应中国发射洲际导弹",
+        "onboard_time": 1727332159,
+        "rank": 0,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 787832,
+        "num": 787832,
+        "word": "洲际导弹",
+        "onboard_time": 1727326881,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 23891,
+        "num": 692966,
+        "word": "国庆假期出行指南来了",
+        "onboard_time": 1727312119,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 675891,
+        "num": 675891,
+        "word": "中共中央政治局9月26日召开会议",
+        "onboard_time": 1727329340,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 581961,
+        "num": 581961,
+        "word": "白酒",
+        "onboard_time": 1727330240,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 543503,
+        "num": 543503,
+        "word": "李明德签约和颂",
+        "onboard_time": 1727331741,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 463601,
+        "num": 463601,
+        "word": "人民网评严打偷拍黑灰产",
+        "onboard_time": 1727332760,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214255,
+        "num": 463552,
+        "word": "A股重回3000点",
+        "onboard_time": 1727334319,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 341551,
+        "num": 460856,
+        "word": "印小天扫楼把电视砸了",
+        "onboard_time": 1727331799,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 29101,
+        "num": 459409,
+        "word": "山寨网红减肥药价格贵过正版",
+        "onboard_time": 1727334260,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1410797,
+        "num": 456385,
+        "word": "黄晓明带叶珂去了大湾区晚会",
+        "onboard_time": 1727328620,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 515153,
+        "num": 454808,
+        "word": "班主任给全班24个学生买电脑",
+        "onboard_time": 1727320278,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 453344,
+        "num": 453344,
+        "word": "14岁女生遭教官体罚在ICU昏迷至今",
+        "onboard_time": 1727327061,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 302109,
+        "num": 451771,
+        "word": "WWD发的迪丽热巴",
+        "onboard_time": 1727332879,
+        "rank": 13,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 40133,
+        "num": 441707,
+        "word": "女子高空扔奶茶砸伤人被刑拘",
+        "onboard_time": 1727334260,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231620,
+        "num": 431473,
+        "word": "屈楚萧 林北星不在",
+        "onboard_time": 1727332278,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 188232,
+        "num": 427234,
+        "word": "单依纯口误",
+        "onboard_time": 1727322318,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 35556,
+        "num": 420491,
+        "word": "我宣布这就是宝石老舅的新战歌",
+        "onboard_time": 1727331080,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 88757,
+        "num": 411080,
+        "word": "三市上涨个股超4900只",
+        "onboard_time": 1727333359,
+        "rank": 18,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 26912,
+        "num": 407349,
+        "word": "男子疑用毒肉偷狗多次猖狂作案",
+        "onboard_time": 1727334438,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 400312,
+        "num": 400312,
+        "word": "股市",
+        "onboard_time": 1727331799,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 296259,
+        "num": 296259,
+        "word": "如鸢开门了",
+        "onboard_time": 1727312119,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 278967,
+        "num": 278967,
+        "word": "女子表演非遗火裙舞太惊艳",
+        "onboard_time": 1727329400,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 278707,
+        "num": 278707,
+        "word": "A股",
+        "onboard_time": 1727316319,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 247614,
+        "num": 247614,
+        "word": "午睡其实是身体在自我修复",
+        "onboard_time": 1727325319,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 181909,
+        "num": 246662,
+        "word": "刘亦菲32小时拍摄内感受10个角色",
+        "onboard_time": 1727332220,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26489,
+        "num": 245987,
+        "word": "如鸢28家联动齐发",
+        "onboard_time": 1727334260,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 27390,
+        "num": 244418,
+        "word": "张钰琪给米卡搭配旷野美拉德",
+        "onboard_time": 1727334379,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 152071,
+        "num": 243064,
+        "word": "百变刘亦菲",
+        "onboard_time": 1727328440,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 242959,
+        "num": 242959,
+        "word": "基金",
+        "onboard_time": 1727333958,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 233704,
+        "num": 233704,
+        "word": "韩国奥运冠军被长期霸凌",
+        "onboard_time": 1727314638,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 222202,
+        "num": 222202,
+        "word": "300头野猪72万赏金等你来领",
+        "onboard_time": 1727329819,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208818,
+        "num": 208818,
+        "word": "火箭军导弹发射现场图",
+        "onboard_time": 1727312119,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 188197,
+        "num": 188197,
+        "word": "中学校长捞好处连复印纸都不放过",
+        "onboard_time": 1727328620,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36740,
+        "num": 178721,
+        "word": "专家分析中国洲际导弹试射",
+        "onboard_time": 1727334018,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 176534,
+        "num": 176534,
+        "word": "男童输液后死亡医院承认修改病历",
+        "onboard_time": 1727320459,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169663,
+        "num": 169663,
+        "word": "头破血流引发爱心接力的邹诚俊去世",
+        "onboard_time": 1727333359,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135773,
+        "num": 168043,
+        "word": "娜扎扫楼跳新疆舞",
+        "onboard_time": 1727330661,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 167280,
+        "num": 167280,
+        "word": "淘宝回应微信支付测试进度",
+        "onboard_time": 1727334619,
+        "rank": 38,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 167235,
+        "num": 167235,
+        "word": "如鸢",
+        "onboard_time": 1727331619,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 164424,
+        "num": 164424,
+        "word": "野猪泛滥已危害全国26省份",
+        "onboard_time": 1727319798,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160474,
+        "num": 160474,
+        "word": "片仔癀价格大跳水",
+        "onboard_time": 1727331139,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144118,
+        "num": 144118,
+        "word": "iPhone16成近年最不受欢迎一代",
+        "onboard_time": 1727316319,
+        "rank": 42,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 138691,
+        "num": 138691,
+        "word": "运动要30分钟以上才能减肥吗",
+        "onboard_time": 1727322318,
+        "rank": 43,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 128938,
+        "num": 128938,
+        "word": "韩媒称韩国已被中国超越",
+        "onboard_time": 1727307379,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127495,
+        "num": 127495,
+        "word": "要促进房地产市场止跌回稳",
+        "onboard_time": 1727330959,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 124591,
+        "num": 124591,
+        "word": "宋茜 上班怎么会快乐呢",
+        "onboard_time": 1727328801,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113189,
+        "num": 113189,
+        "word": "奥运冠军陈梦邀你去尼山",
+        "onboard_time": 1727335100,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110800,
+        "num": 110800,
+        "word": "重点做好应届毕业生等人群就业工作",
+        "onboard_time": 1727335100,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107456,
+        "num": 107456,
+        "word": "陈红军烈士墓前摆满鲜花",
+        "onboard_time": 1727333298,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#让民族团结的佳话代代相传#"
+    }
+  }
+}

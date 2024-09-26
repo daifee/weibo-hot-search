@@ -1,6 +1,6 @@
 {
   "startTime": 1727281816744,
-  "endTime": 1727333082785,
+  "endTime": 1727335280998,
   "band_list": [
     {
       "raw_hot": 1974308,
@@ -12,11 +12,19 @@
     },
     {
       "raw_hot": 1888098,
-      "num": 360866,
+      "num": 456385,
       "word": "黄晓明带叶珂去了大湾区晚会",
       "onboard_time": 1727328620,
       "rank": 10,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1713403,
+      "num": 1713403,
+      "word": "五角大楼回应中国发射洲际导弹",
+      "onboard_time": 1727332159,
+      "rank": 37,
+      "category": "国外时政"
     },
     {
       "raw_hot": 1543293,
@@ -235,6 +243,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 581961,
+      "num": 581961,
+      "word": "白酒",
+      "onboard_time": 1727330240,
+      "rank": 5,
+      "category": "财经"
+    },
+    {
       "raw_hot": 550899,
       "num": 298105,
       "word": "学校回应学生仅退款被拒骂客服1小时",
@@ -249,22 +265,6 @@
       "onboard_time": 1727312119,
       "rank": 11,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 493113,
-      "num": 493113,
-      "word": "五角大楼回应中国发射洲际导弹",
-      "onboard_time": 1727332159,
-      "rank": 37,
-      "category": "国外时政"
-    },
-    {
-      "raw_hot": 484182,
-      "num": 484182,
-      "word": "白酒",
-      "onboard_time": 1727330240,
-      "rank": 5,
-      "category": "财经"
     },
     {
       "raw_hot": 482538,
@@ -289,6 +289,14 @@
       "onboard_time": 1727309900,
       "rank": 7,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 463601,
+      "num": 463601,
+      "word": "人民网评严打偷拍黑灰产",
+      "onboard_time": 1727332760,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 431190,
@@ -347,6 +355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 400312,
+      "num": 400312,
+      "word": "股市",
+      "onboard_time": 1727331799,
+      "rank": 33,
+      "category": "财经"
+    },
+    {
       "raw_hot": 381859,
       "num": 381859,
       "word": "王鹤润佳偶天成出妆",
@@ -388,7 +404,7 @@
     },
     {
       "raw_hot": 346771,
-      "num": 346771,
+      "num": 460856,
       "word": "印小天扫楼把电视砸了",
       "onboard_time": 1727331799,
       "rank": 18,
@@ -459,6 +475,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 302109,
+      "num": 451771,
+      "word": "WWD发的迪丽热巴",
+      "onboard_time": 1727332879,
+      "rank": 18,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 285585,
       "num": 285585,
       "word": "如鸢",
@@ -473,6 +497,22 @@
       "onboard_time": 1727326280,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 278967,
+      "num": 278967,
+      "word": "女子表演非遗火裙舞太惊艳",
+      "onboard_time": 1727329400,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 278707,
+      "num": 278707,
+      "word": "A股",
+      "onboard_time": 1727316319,
+      "rank": 22,
+      "category": "财经"
     },
     {
       "raw_hot": 273344,
@@ -555,6 +595,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 242959,
+      "num": 242959,
+      "word": "基金",
+      "onboard_time": 1727333958,
+      "rank": 29,
+      "category": "财经"
+    },
+    {
       "raw_hot": 242693,
       "num": 242693,
       "word": "阿尔山景区多家酒店默认早9点退房",
@@ -587,6 +635,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 231620,
+      "num": 431473,
+      "word": "屈楚萧 林北星不在",
+      "onboard_time": 1727332278,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 230536,
       "num": 188278,
       "word": "我是广陵王 我重生了",
@@ -601,14 +657,6 @@
       "onboard_time": 1727314878,
       "rank": 23,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 228272,
-      "num": 228272,
-      "word": "A股",
-      "onboard_time": 1727316319,
-      "rank": 22,
-      "category": "财经"
     },
     {
       "raw_hot": 224090,
@@ -635,16 +683,8 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 222116,
-      "num": 222116,
-      "word": "股市",
-      "onboard_time": 1727331799,
-      "rank": 33,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 220721,
-      "num": 220721,
+      "raw_hot": 222202,
+      "num": 222202,
       "word": "300头野猪72万赏金等你来领",
       "onboard_time": 1727329819,
       "rank": 25,
@@ -657,14 +697,6 @@
       "onboard_time": 1727323519,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 219036,
-      "num": 300475,
-      "word": "WWD发的迪丽热巴",
-      "onboard_time": 1727332879,
-      "rank": 18,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 218378,
@@ -680,14 +712,6 @@
       "word": "村主任撞死邻村主任案二审维持原判",
       "onboard_time": 1727318478,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 217082,
-      "num": 217082,
-      "word": "女子表演非遗火裙舞太惊艳",
-      "onboard_time": 1727329400,
-      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -721,6 +745,14 @@
       "onboard_time": 1727306656,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 214255,
+      "num": 463552,
+      "word": "A股重回3000点",
+      "onboard_time": 1727334319,
+      "rank": 7,
+      "category": "财经"
     },
     {
       "raw_hot": 212716,
@@ -764,7 +796,7 @@
     },
     {
       "raw_hot": 203718,
-      "num": 212856,
+      "num": 246662,
       "word": "刘亦菲32小时拍摄内感受10个角色",
       "onboard_time": 1727332220,
       "rank": 27,
@@ -827,20 +859,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 188197,
+      "num": 333504,
+      "word": "中学校长捞好处连复印纸都不放过",
+      "onboard_time": 1727328620,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 188081,
       "num": 188081,
       "word": "李白还是太全面了",
       "onboard_time": 1727320639,
       "rank": 34,
       "category": "读书作家"
-    },
-    {
-      "raw_hot": 187996,
-      "num": 333504,
-      "word": "中学校长捞好处连复印纸都不放过",
-      "onboard_time": 1727328620,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 186238,
@@ -915,6 +947,22 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 169663,
+      "num": 169663,
+      "word": "头破血流引发爱心接力的邹诚俊去世",
+      "onboard_time": 1727333359,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 167280,
+      "num": 167280,
+      "word": "淘宝回应微信支付测试进度",
+      "onboard_time": 1727334619,
+      "rank": 38,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 167229,
       "num": 145994,
       "word": "12306候补一种很新的存钱方式",
@@ -979,6 +1027,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 160474,
+      "num": 160474,
+      "word": "片仔癀价格大跳水",
+      "onboard_time": 1727331139,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 159392,
       "num": 198372,
       "word": "宋茜 上班怎么会快乐呢",
@@ -993,22 +1049,6 @@
       "onboard_time": 1727313079,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 154455,
-      "num": 154455,
-      "word": "片仔癀价格大跳水",
-      "onboard_time": 1727331139,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 153536,
-      "num": 212815,
-      "word": "屈楚萧 林北星不在",
-      "onboard_time": 1727332278,
-      "rank": 29,
-      "category": "电影"
     },
     {
       "raw_hot": 151370,
@@ -1235,11 +1275,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 113189,
+      "num": 113189,
+      "word": "奥运冠军陈梦邀你去尼山",
+      "onboard_time": 1727335100,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 112007,
       "num": 169873,
       "word": "平台订酒店提前半个月退订仍扣费",
       "onboard_time": 1727330180,
       "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 110800,
+      "num": 110800,
+      "word": "重点做好应届毕业生等人群就业工作",
+      "onboard_time": 1727335100,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -1265,6 +1321,14 @@
       "onboard_time": 1727329101,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 107456,
+      "num": 107456,
+      "word": "陈红军烈士墓前摆满鲜花",
+      "onboard_time": 1727333298,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 105279,
@@ -1363,6 +1427,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 88757,
+      "num": 411080,
+      "word": "三市上涨个股超4900只",
+      "onboard_time": 1727333359,
+      "rank": 18,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 87688,
       "num": 87688,
       "word": "GAI五获年度说唱歌手",
@@ -1417,14 +1489,6 @@
       "onboard_time": 1727280019,
       "rank": 37,
       "category": "电影"
-    },
-    {
-      "raw_hot": 79458,
-      "num": 344547,
-      "word": "人民网评严打偷拍黑灰产",
-      "onboard_time": 1727332760,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 77944,
@@ -1731,6 +1795,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 40133,
+      "num": 441707,
+      "word": "女子高空扔奶茶砸伤人被刑拘",
+      "onboard_time": 1727334260,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 39330,
       "num": 41894,
       "word": "王源金发路透",
@@ -1763,6 +1835,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 36740,
+      "num": 178721,
+      "word": "专家分析中国洲际导弹试射",
+      "onboard_time": 1727334018,
+      "rank": 34,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 36406,
       "num": 84747,
       "word": "治理欠薪欠保违法裁员求职陷阱乱象",
@@ -1787,12 +1867,20 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 33919,
-      "num": 310724,
+      "raw_hot": 35556,
+      "num": 420491,
       "word": "我宣布这就是宝石老舅的新战歌",
       "onboard_time": 1727331080,
       "rank": 26,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 29101,
+      "num": 459409,
+      "word": "山寨网红减肥药价格贵过正版",
+      "onboard_time": 1727334260,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 27676,
@@ -1801,6 +1889,30 @@
       "onboard_time": 1727301432,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 27390,
+      "num": 244418,
+      "word": "张钰琪给米卡搭配旷野美拉德",
+      "onboard_time": 1727334379,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 26912,
+      "num": 407349,
+      "word": "男子疑用毒肉偷狗多次猖狂作案",
+      "onboard_time": 1727334438,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 26489,
+      "num": 245987,
+      "word": "如鸢28家联动齐发",
+      "onboard_time": 1727334260,
+      "rank": 26,
+      "category": "游戏"
     },
     {
       "raw_hot": 25680,
