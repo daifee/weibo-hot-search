@@ -1,6 +1,6 @@
 {
   "startTime": 1727281816744,
-  "endTime": 1727364244808,
+  "endTime": 1727365106981,
   "band_list": [
     {
       "raw_hot": 12357374,
@@ -65,6 +65,14 @@
       "onboard_time": 1727338879,
       "rank": 13,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1563439,
+      "num": 287107,
+      "word": "张杰谢娜纪念结婚13年",
+      "onboard_time": 1727364620,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1543293,
@@ -523,6 +531,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 465880,
+      "num": 307789,
+      "word": "一个洗头油得慢的办法",
+      "onboard_time": 1727363361,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 458835,
       "num": 458835,
       "word": "女子表演非遗火裙舞太惊艳",
@@ -819,14 +835,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 307789,
-      "num": 307789,
-      "word": "一个洗头油得慢的办法",
-      "onboard_time": 1727363361,
-      "rank": 22,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 307494,
       "num": 307494,
       "word": "如鸢抢名字",
@@ -859,6 +867,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 289851,
+      "num": 280217,
+      "word": "王源易烊千玺包场749局",
+      "onboard_time": 1727363240,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 285585,
       "num": 285585,
       "word": "如鸢",
@@ -881,14 +897,6 @@
       "onboard_time": 1727326280,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 280217,
-      "num": 280217,
-      "word": "王源易烊千玺包场749局",
-      "onboard_time": 1727363240,
-      "rank": 24,
-      "category": "电影"
     },
     {
       "raw_hot": 278707,
@@ -1243,6 +1251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 212156,
+      "num": 212156,
+      "word": "陈都灵路透",
+      "onboard_time": 1727363840,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 209590,
       "num": 254865,
       "word": "刘宇宁话筒矮了扎马步说感言",
@@ -1289,6 +1305,14 @@
       "onboard_time": 1727355199,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 204273,
+      "num": 204273,
+      "word": "如鸢手游致歉",
+      "onboard_time": 1727364200,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 204260,
@@ -1955,14 +1979,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 145310,
-      "num": 145310,
-      "word": "陈都灵路透",
-      "onboard_time": 1727363840,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 144058,
       "num": 152402,
       "word": "时代少年团听到rumors的反应",
@@ -2001,6 +2017,14 @@
       "onboard_time": 1727362102,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 140573,
+      "num": 140573,
+      "word": "战鹰航迹下是他们守护的祖国山川",
+      "onboard_time": 1727364680,
+      "rank": 37,
+      "category": "军事"
     },
     {
       "raw_hot": 139122,
@@ -2168,14 +2192,6 @@
       "word": "塞尔达传说智慧的再现",
       "onboard_time": 1727321479,
       "rank": 45,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 130249,
-      "num": 130249,
-      "word": "如鸢手游致歉",
-      "onboard_time": 1727364200,
-      "rank": 44,
       "category": "游戏"
     },
     {
@@ -2563,6 +2579,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 99329,
+      "num": 99329,
+      "word": "宋佳下戏后录视频哽咽",
+      "onboard_time": 1727364919,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 99321,
       "num": 99321,
       "word": "25岁遇害女村干部系家中独女",
@@ -2609,6 +2633,14 @@
       "onboard_time": 1727275161,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 93073,
+      "num": 96494,
+      "word": "KSG单日三鸡",
+      "onboard_time": 1727362161,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 92371,
@@ -3163,6 +3195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 43438,
+      "num": 398418,
+      "word": "红薯粉条未如实标注成分属违法",
+      "onboard_time": 1727363003,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 43431,
       "num": 458408,
       "word": "黎巴嫩已有约9万人流离失所",
@@ -3384,14 +3424,6 @@
       "word": "近七成私募看好节后行情",
       "onboard_time": 1727352439,
       "rank": 44,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 30063,
-      "num": 398418,
-      "word": "红薯粉条未如实标注成分属违法",
-      "onboard_time": 1727363003,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
