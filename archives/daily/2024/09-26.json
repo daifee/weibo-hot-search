@@ -1,6 +1,6 @@
 {
   "startTime": 1727281816744,
-  "endTime": 1727329167889,
+  "endTime": 1727332264876,
   "band_list": [
     {
       "raw_hot": 1974308,
@@ -9,6 +9,14 @@
       "onboard_time": 1727320278,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1888098,
+      "num": 360866,
+      "word": "黄晓明带叶珂去了大湾区晚会",
+      "onboard_time": 1727328620,
+      "rank": 10,
+      "category": "音乐"
     },
     {
       "raw_hot": 1543293,
@@ -67,8 +75,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1119882,
-      "num": 1119882,
+      "raw_hot": 1163253,
+      "num": 1186120,
       "word": "洲际导弹",
       "onboard_time": 1727326881,
       "rank": 6,
@@ -115,6 +123,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 805663,
+      "num": 805663,
+      "word": "中共中央政治局9月26日召开会议",
+      "onboard_time": 1727329340,
+      "rank": 1,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 805646,
       "num": 805646,
       "word": "日澳新三国舰艇过航台湾海峡",
@@ -136,6 +152,14 @@
       "word": "女律师在工作群发与上司出轨细节",
       "onboard_time": 1727274082,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 739926,
+      "num": 739926,
+      "word": "14岁女生遭教官体罚在ICU昏迷至今",
+      "onboard_time": 1727327061,
+      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -209,14 +233,6 @@
       "onboard_time": 1727275700,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 533141,
-      "num": 360866,
-      "word": "黄晓明带叶珂去了大湾区晚会",
-      "onboard_time": 1727328620,
-      "rank": 10,
-      "category": "音乐"
     },
     {
       "raw_hot": 500338,
@@ -307,6 +323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 404963,
+      "num": 404963,
+      "word": "白酒",
+      "onboard_time": 1727330240,
+      "rank": 5,
+      "category": "财经"
+    },
+    {
       "raw_hot": 381859,
       "num": 381859,
       "word": "王鹤润佳偶天成出妆",
@@ -321,6 +345,14 @@
       "onboard_time": 1727281877,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 365589,
+      "num": 314308,
+      "word": "李明德签约和颂",
+      "onboard_time": 1727331741,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 365102,
@@ -427,6 +459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 264317,
+      "num": 343483,
+      "word": "百变刘亦菲",
+      "onboard_time": 1727328440,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 261283,
       "num": 187442,
       "word": "韩素希回应柳俊烈李惠利争议",
@@ -515,14 +555,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 236126,
-      "num": 236126,
-      "word": "14岁女生遭教官体罚在ICU昏迷至今",
-      "onboard_time": 1727327061,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 232297,
       "num": 232297,
       "word": "第五人格",
@@ -545,6 +577,14 @@
       "onboard_time": 1727314878,
       "rank": 23,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 228272,
+      "num": 228272,
+      "word": "A股",
+      "onboard_time": 1727316319,
+      "rank": 22,
+      "category": "财经"
     },
     {
       "raw_hot": 224090,
@@ -595,6 +635,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 216697,
+      "num": 291907,
+      "word": "娜扎扫楼跳新疆舞",
+      "onboard_time": 1727330661,
+      "rank": 15,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 216499,
+      "num": 216499,
+      "word": "要促进房地产市场止跌回稳",
+      "onboard_time": 1727330959,
+      "rank": 24,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 215942,
       "num": 215942,
       "word": "合肥肥东今年已经发生5次地震",
@@ -635,6 +691,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 208339,
+      "num": 208339,
+      "word": "300头野猪72万赏金等你来领",
+      "onboard_time": 1727329819,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 206552,
       "num": 206552,
       "word": "牧神记定档",
@@ -651,6 +715,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 203718,
+      "num": 203718,
+      "word": "刘亦菲32小时拍摄内感受10个角色",
+      "onboard_time": 1727332220,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 200133,
       "num": 200133,
       "word": "县城中产爱上拉夫劳伦平替",
@@ -665,14 +737,6 @@
       "onboard_time": 1727305815,
       "rank": 8,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 199712,
-      "num": 199712,
-      "word": "百变刘亦菲",
-      "onboard_time": 1727328440,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 199542,
@@ -699,6 +763,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 195167,
+      "num": 195167,
+      "word": "如鸢",
+      "onboard_time": 1727331619,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 191272,
+      "num": 191272,
+      "word": "女子表演非遗火裙舞太惊艳",
+      "onboard_time": 1727329400,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 190432,
       "num": 180700,
       "word": "天降烟头到熟睡孩子床上床单被烧焦",
@@ -713,6 +793,14 @@
       "onboard_time": 1727328019,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 189075,
+      "num": 189075,
+      "word": "股市",
+      "onboard_time": 1727331799,
+      "rank": 33,
+      "category": "财经"
     },
     {
       "raw_hot": 188081,
@@ -745,6 +833,14 @@
       "onboard_time": 1727311879,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 178114,
+      "num": 269832,
+      "word": "印小天扫楼把电视砸了",
+      "onboard_time": 1727331799,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 175261,
@@ -795,6 +891,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 169571,
+      "num": 169571,
+      "word": "五角大楼回应中国发射洲际导弹",
+      "onboard_time": 1727332159,
+      "rank": 37,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 167229,
       "num": 145994,
       "word": "12306候补一种很新的存钱方式",
@@ -835,6 +939,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 161927,
+      "num": 262211,
+      "word": "陈好撤回一个宋茜",
+      "onboard_time": 1727331320,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 161862,
       "num": 161862,
       "word": "咒术回战最终话",
@@ -851,11 +963,27 @@
       "category": "演出"
     },
     {
+      "raw_hot": 159392,
+      "num": 198372,
+      "word": "宋茜 上班怎么会快乐呢",
+      "onboard_time": 1727328801,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 158637,
       "num": 158637,
       "word": "上海地铁",
       "onboard_time": 1727313079,
       "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 154455,
+      "num": 154455,
+      "word": "片仔癀价格大跳水",
+      "onboard_time": 1727331139,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -865,14 +993,6 @@
       "onboard_time": 1727322439,
       "rank": 45,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 151108,
-      "num": 151108,
-      "word": "宋茜 上班怎么会快乐呢",
-      "onboard_time": 1727328801,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 148971,
@@ -972,7 +1092,7 @@
     },
     {
       "raw_hot": 141029,
-      "num": 141029,
+      "num": 333504,
       "word": "中学校长捞好处连复印纸都不放过",
       "onboard_time": 1727328620,
       "rank": 39,
@@ -1019,6 +1139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 133241,
+      "num": 133241,
+      "word": "努力提振资本市场",
+      "onboard_time": 1727332099,
+      "rank": 45,
+      "category": "财经"
+    },
+    {
       "raw_hot": 132214,
       "num": 150342,
       "word": "苏醒 写了一百多首没有一首是火的",
@@ -1041,6 +1169,14 @@
       "onboard_time": 1727321479,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 129810,
+      "num": 368346,
+      "word": "登记不要户口本结婚更容易了吗",
+      "onboard_time": 1727326461,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 129125,
@@ -1073,14 +1209,6 @@
       "onboard_time": 1727313799,
       "rank": 44,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 118352,
-      "num": 368346,
-      "word": "登记不要户口本结婚更容易了吗",
-      "onboard_time": 1727326461,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 116361,
@@ -1211,6 +1339,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 90137,
+      "num": 169873,
+      "word": "平台订酒店提前半个月退订仍扣费",
+      "onboard_time": 1727330180,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 87688,
       "num": 87688,
       "word": "GAI五获年度说唱歌手",
@@ -1265,6 +1401,14 @@
       "onboard_time": 1727280019,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 77944,
+      "num": 131326,
+      "word": "让王玉雯撒娇真是渡劫了",
+      "onboard_time": 1727330781,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 77653,
@@ -1483,6 +1627,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 49079,
+      "num": 284215,
+      "word": "全网恭迎广陵王",
+      "onboard_time": 1727330718,
+      "rank": 16,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 46636,
       "num": 253111,
       "word": "屈楚萧 高配合度悍匪",
@@ -1547,6 +1699,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 40314,
+      "num": 276826,
+      "word": "如鸢公测福利",
+      "onboard_time": 1727331020,
+      "rank": 17,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 39330,
       "num": 41894,
       "word": "王源金发路透",
@@ -1593,6 +1753,14 @@
       "onboard_time": 1727318237,
       "rank": 9,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 29179,
+      "num": 205107,
+      "word": "我宣布这就是宝石老舅的新战歌",
+      "onboard_time": 1727331080,
+      "rank": 26,
+      "category": "音乐"
     },
     {
       "raw_hot": 27676,

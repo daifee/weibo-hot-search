@@ -1,0 +1,410 @@
+{
+  "runTime": 1727332264876,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1163253,
+        "num": 1186120,
+        "word": "洲际导弹",
+        "onboard_time": 1727326881,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 805663,
+        "num": 805663,
+        "word": "中共中央政治局9月26日召开会议",
+        "onboard_time": 1727329340,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 20908,
+        "num": 764596,
+        "word": "国庆假期出行指南来了",
+        "onboard_time": 1727312119,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 739926,
+        "num": 739926,
+        "word": "14岁女生遭教官体罚在ICU昏迷至今",
+        "onboard_time": 1727327061,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 405317,
+        "num": 405317,
+        "word": "韩国奥运冠军被长期霸凌",
+        "onboard_time": 1727314638,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 404963,
+        "num": 404963,
+        "word": "白酒",
+        "onboard_time": 1727330240,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 354904,
+        "num": 354904,
+        "word": "如鸢开门了",
+        "onboard_time": 1727312119,
+        "rank": 6,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 277820,
+        "num": 350080,
+        "word": "单依纯口误",
+        "onboard_time": 1727322318,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 264317,
+        "num": 343483,
+        "word": "百变刘亦菲",
+        "onboard_time": 1727328440,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 137625,
+        "num": 333504,
+        "word": "中学校长捞好处连复印纸都不放过",
+        "onboard_time": 1727328620,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1888098,
+        "num": 329605,
+        "word": "黄晓明带叶珂去了大湾区晚会",
+        "onboard_time": 1727328620,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 649202,
+        "num": 318804,
+        "word": "班主任给全班24个学生买电脑",
+        "onboard_time": 1727320278,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 365589,
+        "num": 314308,
+        "word": "李明德签约和颂",
+        "onboard_time": 1727331741,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 309420,
+        "num": 309420,
+        "word": "男童输液后死亡医院承认修改病历",
+        "onboard_time": 1727320459,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 294227,
+        "num": 294227,
+        "word": "野猪泛滥已危害全国26省份",
+        "onboard_time": 1727319798,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216697,
+        "num": 291907,
+        "word": "娜扎扫楼跳新疆舞",
+        "onboard_time": 1727330661,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 49079,
+        "num": 284215,
+        "word": "全网恭迎广陵王",
+        "onboard_time": 1727330718,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 40314,
+        "num": 276826,
+        "word": "如鸢公测福利",
+        "onboard_time": 1727331020,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 178114,
+        "num": 269832,
+        "word": "印小天扫楼把电视砸了",
+        "onboard_time": 1727331799,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 161927,
+        "num": 262211,
+        "word": "陈好撤回一个宋茜",
+        "onboard_time": 1727331320,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 295174,
+        "num": 257376,
+        "word": "午睡其实是身体在自我修复",
+        "onboard_time": 1727325319,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 252746,
+        "num": 252746,
+        "word": "韩媒称韩国已被中国超越",
+        "onboard_time": 1727307379,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228272,
+        "num": 228272,
+        "word": "A股",
+        "onboard_time": 1727316319,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 217909,
+        "num": 217909,
+        "word": "火箭军导弹发射现场图",
+        "onboard_time": 1727312119,
+        "rank": 23,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 216499,
+        "num": 216499,
+        "word": "要促进房地产市场止跌回稳",
+        "onboard_time": 1727330959,
+        "rank": 24,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 208339,
+        "num": 208339,
+        "word": "300头野猪72万赏金等你来领",
+        "onboard_time": 1727329819,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29179,
+        "num": 205107,
+        "word": "我宣布这就是宝石老舅的新战歌",
+        "onboard_time": 1727331080,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 203718,
+        "num": 203718,
+        "word": "刘亦菲32小时拍摄内感受10个角色",
+        "onboard_time": 1727332220,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159392,
+        "num": 198372,
+        "word": "宋茜 上班怎么会快乐呢",
+        "onboard_time": 1727328801,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196315,
+        "num": 196315,
+        "word": "胖东来回应将停止帮扶企业",
+        "onboard_time": 1727314638,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195167,
+        "num": 195167,
+        "word": "如鸢",
+        "onboard_time": 1727331619,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 147568,
+        "num": 191961,
+        "word": "林心如第一次送女儿上学时哭了",
+        "onboard_time": 1727326280,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191272,
+        "num": 191272,
+        "word": "女子表演非遗火裙舞太惊艳",
+        "onboard_time": 1727329400,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189075,
+        "num": 189075,
+        "word": "股市",
+        "onboard_time": 1727331799,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 179940,
+        "num": 179940,
+        "word": "iPhone16成近年最不受欢迎一代",
+        "onboard_time": 1727316319,
+        "rank": 34,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 170564,
+        "num": 170564,
+        "word": "日澳新三国舰艇过航台湾海峡",
+        "onboard_time": 1727323278,
+        "rank": 35,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 90137,
+        "num": 169873,
+        "word": "平台订酒店提前半个月退订仍扣费",
+        "onboard_time": 1727330180,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169571,
+        "num": 169571,
+        "word": "五角大楼回应中国发射洲际导弹",
+        "onboard_time": 1727332159,
+        "rank": 37,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 154455,
+        "num": 154455,
+        "word": "片仔癀价格大跳水",
+        "onboard_time": 1727331139,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151423,
+        "num": 151423,
+        "word": "汪顺被杭州一中学聘为思政辅导员",
+        "onboard_time": 1727327540,
+        "rank": 39,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 147240,
+        "num": 147240,
+        "word": "县城中产爱上拉夫劳伦平替",
+        "onboard_time": 1727327421,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147224,
+        "num": 147224,
+        "word": "范志毅说中国队可重返亚洲强队序列",
+        "onboard_time": 1727328019,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136790,
+        "num": 136790,
+        "word": "佳偶天成女主",
+        "onboard_time": 1727319378,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136454,
+        "num": 136454,
+        "word": "如鸢 改文案",
+        "onboard_time": 1727328200,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 135094,
+        "num": 135094,
+        "word": "如鸢攻略",
+        "onboard_time": 1727319378,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 133241,
+        "num": 133241,
+        "word": "努力提振资本市场",
+        "onboard_time": 1727332099,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 77944,
+        "num": 131326,
+        "word": "让王玉雯撒娇真是渡劫了",
+        "onboard_time": 1727330781,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129810,
+        "num": 129810,
+        "word": "登记不要户口本结婚更容易了吗",
+        "onboard_time": 1727326461,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127151,
+        "num": 127151,
+        "word": "印度三星罢工工人被曝要求职位世袭",
+        "onboard_time": 1727325019,
+        "rank": 48,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 123548,
+        "num": 123548,
+        "word": "运动要30分钟以上才能减肥吗",
+        "onboard_time": 1727322318,
+        "rank": 49,
+        "category": "运动健身"
+      }
+    ],
+    "hotgov": {
+      "word": "#让民族团结的佳话代代相传#"
+    }
+  }
+}
