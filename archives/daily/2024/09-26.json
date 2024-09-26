@@ -1,7 +1,15 @@
 {
   "startTime": 1727281816744,
-  "endTime": 1727336159974,
+  "endTime": 1727339332827,
   "band_list": [
+    {
+      "raw_hot": 2093990,
+      "num": 2093990,
+      "word": "合肥地震",
+      "onboard_time": 1727337019,
+      "rank": 0,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 1974308,
       "num": 1974308,
@@ -171,6 +179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 715285,
+      "num": 715285,
+      "word": "淘宝回应微信支付测试进度",
+      "onboard_time": 1727334619,
+      "rank": 38,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 713723,
       "num": 713723,
       "word": "杭州第一个购物中心落寞了",
@@ -283,6 +299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 477437,
+      "num": 477437,
+      "word": "房地产",
+      "onboard_time": 1727337678,
+      "rank": 5,
+      "category": "财经"
+    },
+    {
       "raw_hot": 473667,
       "num": 534202,
       "word": "樱桃琥珀首发剧照",
@@ -297,6 +321,14 @@
       "onboard_time": 1727309900,
       "rank": 7,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 458835,
+      "num": 458835,
+      "word": "女子表演非遗火裙舞太惊艳",
+      "onboard_time": 1727329400,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 432060,
@@ -329,6 +361,14 @@
       "onboard_time": 1727307678,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 419232,
+      "num": 419232,
+      "word": "杨紫成都活动",
+      "onboard_time": 1727338339,
+      "rank": 8,
+      "category": "艺人"
     },
     {
       "raw_hot": 418165,
@@ -369,6 +409,14 @@
       "onboard_time": 1727321059,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 370246,
+      "num": 370246,
+      "word": "日本开始第九轮核污染水排海",
+      "onboard_time": 1727337919,
+      "rank": 17,
+      "category": "国外时政"
     },
     {
       "raw_hot": 368815,
@@ -491,12 +539,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 287385,
-      "num": 287385,
-      "word": "女子表演非遗火裙舞太惊艳",
-      "onboard_time": 1727329400,
-      "rank": 32,
-      "category": "社会新闻"
+      "raw_hot": 290771,
+      "num": 342051,
+      "word": "倪妮听成粉丝喜欢自己四十年",
+      "onboard_time": 1727337919,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 285585,
@@ -505,6 +553,14 @@
       "onboard_time": 1727331619,
       "rank": 30,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 282644,
+      "num": 282644,
+      "word": "孔子竟然会武功",
+      "onboard_time": 1727337079,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 281646,
@@ -603,6 +659,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 246728,
+      "num": 246728,
+      "word": "何运晨在offer6变何叔叔",
+      "onboard_time": 1727337619,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 244309,
       "num": 244309,
       "word": "光夜拒绝黄赌毒",
@@ -643,6 +707,22 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 233741,
+      "num": 441707,
+      "word": "女子高空扔奶茶砸伤人被刑拘",
+      "onboard_time": 1727334260,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 233287,
+      "num": 233287,
+      "word": "头破血流引发爱心接力的邹诚俊去世",
+      "onboard_time": 1727333359,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 232297,
       "num": 232297,
       "word": "第五人格",
@@ -657,14 +737,6 @@
       "onboard_time": 1727314218,
       "rank": 30,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 229788,
-      "num": 229788,
-      "word": "淘宝回应微信支付测试进度",
-      "onboard_time": 1727334619,
-      "rank": 38,
-      "category": "互联网"
     },
     {
       "raw_hot": 229006,
@@ -779,6 +851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 210163,
+      "num": 210163,
+      "word": "刘亦菲五官特写",
+      "onboard_time": 1727338879,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 209590,
       "num": 254865,
       "word": "刘宇宁话筒矮了扎马步说感言",
@@ -801,6 +881,14 @@
       "onboard_time": 1727315118,
       "rank": 27,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 204109,
+      "num": 204109,
+      "word": "刘诗诗上海活动",
+      "onboard_time": 1727336059,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 203718,
@@ -827,6 +915,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 199721,
+      "num": 421009,
+      "word": "A股成交额连续2天破万亿",
+      "onboard_time": 1727335760,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 199542,
       "num": 199542,
       "word": "坐火车出行有哪些新变化",
@@ -849,6 +945,14 @@
       "onboard_time": 1727268200,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 193166,
+      "num": 193166,
+      "word": "王楚钦林诗栋正反手对练",
+      "onboard_time": 1727337979,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 190432,
@@ -907,12 +1011,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 177324,
-      "num": 177324,
-      "word": "头破血流引发爱心接力的邹诚俊去世",
-      "onboard_time": 1727333359,
-      "rank": 36,
-      "category": "社会新闻"
+      "raw_hot": 178572,
+      "num": 178572,
+      "word": "亲友回应邹诚俊去世",
+      "onboard_time": 1727339059,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 175355,
@@ -995,6 +1099,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 166475,
+      "num": 166475,
+      "word": "李兰迪刷到过牛奶皮肤白梦妍",
+      "onboard_time": 1727336479,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 164960,
       "num": 164960,
       "word": "正式确诊为熟人羞耻症",
@@ -1049,6 +1161,14 @@
       "onboard_time": 1727331139,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 160181,
+      "num": 160181,
+      "word": "民法典司法解释来了",
+      "onboard_time": 1727336419,
+      "rank": 42,
+      "category": "国内时政"
     },
     {
       "raw_hot": 159392,
@@ -1131,6 +1251,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 146402,
+      "num": 146402,
+      "word": "成都街头惊现麻辣冰咖啡",
+      "onboard_time": 1727335399,
+      "rank": 46,
+      "category": "美食"
+    },
+    {
       "raw_hot": 145804,
       "num": 145804,
       "word": "我的宝藏家乡",
@@ -1169,6 +1297,14 @@
       "onboard_time": 1727319078,
       "rank": 44,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 139122,
+      "num": 139122,
+      "word": "樊振东获聘杨浦体育大使",
+      "onboard_time": 1727338639,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 137565,
@@ -1259,12 +1395,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 127528,
+      "num": 391518,
+      "word": "东北雨姐回应红薯粉无红薯事件",
+      "onboard_time": 1727338879,
+      "rank": 13,
+      "category": "网红"
+    },
+    {
       "raw_hot": 127342,
       "num": 127342,
       "word": "傅融 又见面了",
       "onboard_time": 1727319378,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 126402,
+      "num": 126402,
+      "word": "教育部要求保障学生2小时体育时间",
+      "onboard_time": 1727339299,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 119969,
@@ -1289,14 +1441,6 @@
       "onboard_time": 1727309840,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 114397,
-      "num": 114397,
-      "word": "成都街头惊现麻辣冰咖啡",
-      "onboard_time": 1727335399,
-      "rank": 46,
-      "category": "美食"
     },
     {
       "raw_hot": 113189,
@@ -1387,14 +1531,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 100795,
-      "num": 113887,
-      "word": "刘诗诗上海活动",
-      "onboard_time": 1727336059,
-      "rank": 48,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 100374,
       "num": 100374,
       "word": "微博音乐盛典",
@@ -1424,6 +1560,14 @@
       "word": "一女子声音被做成AI产品网上售卖",
       "onboard_time": 1727276601,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 95403,
+      "num": 388382,
+      "word": "官方通报天降烟头到熟睡孩子床上",
+      "onboard_time": 1727338280,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -1555,14 +1699,6 @@
       "category": "美食,社会新闻"
     },
     {
-      "raw_hot": 74359,
-      "num": 441707,
-      "word": "女子高空扔奶茶砸伤人被刑拘",
-      "onboard_time": 1727334260,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 74065,
       "num": 415180,
       "word": "无底线的闹婚是犯罪",
@@ -1643,6 +1779,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 63717,
+      "num": 328900,
+      "word": "陕西男子服刑20年出狱后讨公道",
+      "onboard_time": 1727338699,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 63484,
       "num": 73049,
       "word": "强冷空气发力了局地降温16摄氏度",
@@ -1665,6 +1809,14 @@
       "onboard_time": 1727265803,
       "rank": 47,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 60641,
+      "num": 756563,
+      "word": "长安街开启一路繁花模式",
+      "onboard_time": 1727335699,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 60259,
@@ -1729,6 +1881,14 @@
       "onboard_time": 1727282537,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 53790,
+      "num": 267547,
+      "word": "如鸢28家联动齐发",
+      "onboard_time": 1727334260,
+      "rank": 26,
+      "category": "游戏"
     },
     {
       "raw_hot": 53096,
@@ -1801,6 +1961,14 @@
       "onboard_time": 1727283854,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 44852,
+      "num": 373661,
+      "word": "分析师称可期待公积金贷款利率下调",
+      "onboard_time": 1727337499,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 44248,
@@ -1899,20 +2067,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 35993,
-      "num": 595361,
-      "word": "长安街开启一路繁花模式",
-      "onboard_time": 1727335699,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 35959,
       "num": 522362,
       "word": "券商称近两天每日交易量已翻倍",
       "onboard_time": 1727318237,
       "rank": 9,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 33874,
+      "num": 267603,
+      "word": "张钰琪给米卡搭配旷野美拉德",
+      "onboard_time": 1727334379,
+      "rank": 27,
+      "category": "音乐"
     },
     {
       "raw_hot": 33016,
@@ -1923,20 +2091,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 31866,
-      "num": 421009,
-      "word": "A股成交额连续2天破万亿",
-      "onboard_time": 1727335760,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 29171,
-      "num": 267547,
-      "word": "如鸢28家联动齐发",
-      "onboard_time": 1727334260,
-      "rank": 26,
-      "category": "游戏"
+      "raw_hot": 28548,
+      "num": 404738,
+      "word": "希林娜依高竟然躲在后台吃糖",
+      "onboard_time": 1727337800,
+      "rank": 11,
+      "category": "音乐"
     },
     {
       "raw_hot": 27676,
@@ -1945,14 +2105,6 @@
       "onboard_time": 1727301432,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 27390,
-      "num": 267603,
-      "word": "张钰琪给米卡搭配旷野美拉德",
-      "onboard_time": 1727334379,
-      "rank": 27,
-      "category": "音乐"
     },
     {
       "raw_hot": 25680,
@@ -1969,6 +2121,22 @@
       "onboard_time": 1727321839,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 22101,
+      "num": 204035,
+      "word": "搭子治好了我的开学综合症",
+      "onboard_time": 1727337800,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 22096,
+      "num": 178723,
+      "word": "李庚希拍完摇太阳吃了一年素",
+      "onboard_time": 1727337800,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 18234,
@@ -2039,6 +2207,9 @@
     },
     {
       "word": "#习近平给中国传媒大学全体师生回信#"
+    },
+    {
+      "word": "#中共中央政治局召开会议部署经济工作#"
     }
   ]
 }
