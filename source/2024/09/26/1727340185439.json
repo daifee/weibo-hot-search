@@ -1,0 +1,410 @@
+{
+  "runTime": 1727340185439,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2146242,
+        "num": 2146242,
+        "word": "合肥地震",
+        "onboard_time": 1727337019,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1387348,
+        "num": 1387348,
+        "word": "五角大楼回应中国发射洲际导弹",
+        "onboard_time": 1727332159,
+        "rank": 1,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 15400,
+        "num": 808048,
+        "word": "我们这样践行嘱托",
+        "onboard_time": 1727339840,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 748603,
+        "num": 748603,
+        "word": "房地产",
+        "onboard_time": 1727337678,
+        "rank": 3,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 646589,
+        "num": 646589,
+        "word": "淘宝回应微信支付测试进度",
+        "onboard_time": 1727334619,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 598946,
+        "num": 598946,
+        "word": "日本开始第九轮核污染水排海",
+        "onboard_time": 1727337919,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 566240,
+        "num": 566240,
+        "word": "杨紫成都活动",
+        "onboard_time": 1727338339,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 461049,
+        "num": 554842,
+        "word": "东北雨姐回应红薯粉无红薯事件",
+        "onboard_time": 1727338879,
+        "rank": 7,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 543856,
+        "num": 543856,
+        "word": "洲际导弹",
+        "onboard_time": 1727326881,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 56327,
+        "num": 540902,
+        "word": "国防部回应我军发射洲际导弹",
+        "onboard_time": 1727339719,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1094243,
+        "num": 495153,
+        "word": "黄晓明带叶珂去了大湾区晚会",
+        "onboard_time": 1727328620,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 41472,
+        "num": 460704,
+        "word": "希林娜依高竟然躲在后台吃糖",
+        "onboard_time": 1727337800,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 550965,
+        "num": 432425,
+        "word": "班主任给全班24个学生买电脑",
+        "onboard_time": 1727320278,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 428492,
+        "num": 428492,
+        "word": "中共中央政治局9月26日召开会议",
+        "onboard_time": 1727329340,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 413402,
+        "num": 413402,
+        "word": "女子表演非遗火裙舞太惊艳",
+        "onboard_time": 1727329400,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 342789,
+        "num": 342789,
+        "word": "倪妮听成粉丝喜欢自己四十年",
+        "onboard_time": 1727337919,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 327872,
+        "num": 327872,
+        "word": "亲友回应邹诚俊去世",
+        "onboard_time": 1727339059,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 327195,
+        "num": 327195,
+        "word": "人民网评严打偷拍黑灰产",
+        "onboard_time": 1727332760,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 288094,
+        "num": 288094,
+        "word": "李明德签约和颂",
+        "onboard_time": 1727331741,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 70286,
+        "num": 270804,
+        "word": "陕西男子服刑20年出狱后讨公道",
+        "onboard_time": 1727338699,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104154,
+        "num": 262506,
+        "word": "官方通报天降烟头到熟睡孩子床上",
+        "onboard_time": 1727338280,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255573,
+        "num": 255573,
+        "word": "孔子竟然会武功",
+        "onboard_time": 1727337079,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244822,
+        "num": 244822,
+        "word": "A股重回3000点",
+        "onboard_time": 1727334319,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 237338,
+        "num": 237338,
+        "word": "刘亦菲五官特写",
+        "onboard_time": 1727338879,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 214193,
+        "num": 214193,
+        "word": "如鸢开门了",
+        "onboard_time": 1727312119,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 208566,
+        "num": 208566,
+        "word": "印小天扫楼把电视砸了",
+        "onboard_time": 1727331799,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 203733,
+        "num": 203733,
+        "word": "何运晨在offer6变何叔叔",
+        "onboard_time": 1727337619,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201868,
+        "num": 201868,
+        "word": "头破血流引发爱心接力的邹诚俊去世",
+        "onboard_time": 1727333359,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177990,
+        "num": 177990,
+        "word": "刘诗诗上海活动",
+        "onboard_time": 1727336059,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14145,
+        "num": 174171,
+        "word": "搭子治好了我的开学综合症",
+        "onboard_time": 1727337800,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 185533,
+        "num": 173914,
+        "word": "女子高空扔奶茶砸伤人被刑拘",
+        "onboard_time": 1727334260,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171774,
+        "num": 171774,
+        "word": "王楚钦林诗栋正反手对练",
+        "onboard_time": 1727337979,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169414,
+        "num": 169414,
+        "word": "单依纯口误",
+        "onboard_time": 1727322318,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 167207,
+        "num": 167207,
+        "word": "民法典司法解释来了",
+        "onboard_time": 1727336419,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 164429,
+        "num": 164429,
+        "word": "成都街头惊现麻辣冰咖啡",
+        "onboard_time": 1727335399,
+        "rank": 34,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 163036,
+        "num": 163036,
+        "word": "A股成交额连续2天破万亿",
+        "onboard_time": 1727335760,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161481,
+        "num": 161481,
+        "word": "李兰迪刷到过牛奶皮肤白梦妍",
+        "onboard_time": 1727336479,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 23214,
+        "num": 153694,
+        "word": "李庚希拍完摇太阳吃了一年素",
+        "onboard_time": 1727337800,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 71721,
+        "num": 150723,
+        "word": "长安街开启一路繁花模式",
+        "onboard_time": 1727335699,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162508,
+        "num": 150486,
+        "word": "午睡其实是身体在自我修复",
+        "onboard_time": 1727325319,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 149145,
+        "num": 149145,
+        "word": "如鸢",
+        "onboard_time": 1727331619,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 141341,
+        "num": 141341,
+        "word": "WWD发的迪丽热巴",
+        "onboard_time": 1727332879,
+        "rank": 41,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 141027,
+        "num": 141027,
+        "word": "重点做好应届毕业生等人群就业工作",
+        "onboard_time": 1727335100,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139335,
+        "num": 139335,
+        "word": "火箭军导弹发射现场图",
+        "onboard_time": 1727312119,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 136565,
+        "num": 136565,
+        "word": "LCK世界赛媒体日",
+        "onboard_time": 1727339358,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 124334,
+        "num": 124334,
+        "word": "如鸢 卡关",
+        "onboard_time": 1727340019,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 123031,
+        "num": 123031,
+        "word": "300头野猪72万赏金等你来领",
+        "onboard_time": 1727329819,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122741,
+        "num": 122741,
+        "word": "屈楚萧 林北星不在",
+        "onboard_time": 1727332278,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 120792,
+        "num": 120792,
+        "word": "基金",
+        "onboard_time": 1727333958,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 120571,
+        "num": 120571,
+        "word": "教育部要求保障学生2小时体育时间",
+        "onboard_time": 1727339299,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中共中央政治局召开会议部署经济工作#"
+    }
+  }
+}
