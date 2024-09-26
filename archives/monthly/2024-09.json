@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1727365106981,
+  "endTime": 1727368091089,
   "band_list": [
     {
       "raw_hot": 28035334,
@@ -12979,6 +12979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 591226,
+      "num": 591226,
+      "word": "一个洗头油得慢的办法",
+      "onboard_time": 1727363361,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 590808,
       "num": 263595,
       "word": "邓超红发",
@@ -16667,14 +16675,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 465880,
-      "num": 307789,
-      "word": "一个洗头油得慢的办法",
-      "onboard_time": 1727363361,
-      "rank": 22,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 465665,
       "num": 465665,
       "word": "美官员称中国已成为美国史上最大挑战",
@@ -18467,6 +18467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 415849,
+      "num": 255383,
+      "word": "迪丽热巴少来烦姐挂件",
+      "onboard_time": 1727365759,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 415369,
       "num": 415369,
       "word": "二十一天定档",
@@ -19825,6 +19833,14 @@
       "onboard_time": 1725436221,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 380828,
+      "num": 380828,
+      "word": "如鸢手游致歉",
+      "onboard_time": 1727364200,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 380820,
@@ -32395,6 +32411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 220181,
+      "num": 220181,
+      "word": "记住那个摔得头破血流的年轻人",
+      "onboard_time": 1727365219,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 220174,
       "num": 220174,
       "word": "台风路径",
@@ -32897,6 +32921,14 @@
       "onboard_time": 1727233700,
       "rank": 32,
       "category": "财经"
+    },
+    {
+      "raw_hot": 216747,
+      "num": 216747,
+      "word": "官方通报学生家长校门口跪地",
+      "onboard_time": 1727361801,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 216697,
@@ -33604,7 +33636,7 @@
     },
     {
       "raw_hot": 212156,
-      "num": 212156,
+      "num": 277206,
       "word": "陈都灵路透",
       "onboard_time": 1727363840,
       "rank": 42,
@@ -35465,14 +35497,6 @@
       "onboard_time": 1726281620,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 204273,
-      "num": 204273,
-      "word": "如鸢手游致歉",
-      "onboard_time": 1727364200,
-      "rank": 44,
-      "category": "游戏"
     },
     {
       "raw_hot": 204263,
@@ -43913,14 +43937,6 @@
       "onboard_time": 1726708700,
       "rank": 37,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 176091,
-      "num": 176091,
-      "word": "官方通报学生家长校门口跪地",
-      "onboard_time": 1727361801,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 176074,
@@ -59307,6 +59323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 123592,
+      "num": 212843,
+      "word": "宋佳下戏后录视频哽咽",
+      "onboard_time": 1727364919,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 123588,
       "num": 123588,
       "word": "海南发布致全省人民的一封信",
@@ -60899,6 +60923,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 115955,
+      "num": 115955,
+      "word": "特朗普拒见泽连斯基",
+      "onboard_time": 1727367258,
+      "rank": 27,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 115892,
       "num": 115892,
       "word": "中国赛任何组合男双亚军",
@@ -62267,6 +62299,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 108768,
+      "num": 250113,
+      "word": "马思纯回应被叫妈妈",
+      "onboard_time": 1727363003,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 108686,
       "num": 98415,
       "word": "刘美含 我不是明星",
@@ -62873,6 +62913,14 @@
       "onboard_time": 1726632141,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 105061,
+      "num": 105061,
+      "word": "中央最新部署重要信号见力度",
+      "onboard_time": 1727367019,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 105044,
@@ -63617,14 +63665,6 @@
       "onboard_time": 1726529356,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 99329,
-      "num": 99329,
-      "word": "宋佳下戏后录视频哽咽",
-      "onboard_time": 1727364919,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 99270,
@@ -64441,6 +64481,14 @@
       "onboard_time": 1727056878,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 92530,
+      "num": 100953,
+      "word": "柳岩直播",
+      "onboard_time": 1727366476,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 92528,
@@ -66019,14 +66067,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 77999,
-      "num": 250113,
-      "word": "马思纯回应被叫妈妈",
-      "onboard_time": 1727363003,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 77944,
       "num": 131326,
       "word": "让王玉雯撒娇真是渡劫了",
@@ -66041,6 +66081,14 @@
       "onboard_time": 1727327061,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 77623,
+      "num": 77623,
+      "word": "Capper周震南啃苹果官宣演唱会",
+      "onboard_time": 1727367857,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 77601,
@@ -67377,6 +67425,14 @@
       "onboard_time": 1725928699,
       "rank": 9,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 67295,
+      "num": 71528,
+      "word": "龚俊工作室出图",
+      "onboard_time": 1727365398,
+      "rank": 48,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 67252,
