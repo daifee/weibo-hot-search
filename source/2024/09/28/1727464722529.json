@@ -1,0 +1,410 @@
+{
+  "runTime": 1727464722529,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 118189,
+        "num": 118189,
+        "word": "关停饭圈相关违规账号10万余个",
+        "onboard_time": 1727453239,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98246,
+        "num": 98246,
+        "word": "打假博主称东北雨姐丈夫曾拿刀威胁",
+        "onboard_time": 1727455396,
+        "rank": 1,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 14154,
+        "num": 89818,
+        "word": "接力表白祖国",
+        "onboard_time": 1727444179,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 89445,
+        "num": 89445,
+        "word": "男子偷车开完加油再还回",
+        "onboard_time": 1727461153,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 73218,
+        "num": 73218,
+        "word": "霍格沃茨三任校长演员离世",
+        "onboard_time": 1727446160,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 58956,
+        "num": 58956,
+        "word": "靠摆摊卖螺蛳粉老板月入8万",
+        "onboard_time": 1727445981,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 66564,
+        "num": 58799,
+        "word": "斯内普",
+        "onboard_time": 1727449821,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 57022,
+        "num": 57022,
+        "word": "警方回应青海无人区有多人扔砖砸车",
+        "onboard_time": 1727445320,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 56528,
+        "num": 56528,
+        "word": "张淇 破音",
+        "onboard_time": 1727452578,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 54500,
+        "num": 54500,
+        "word": "被教官体罚去世女孩父亲发声",
+        "onboard_time": 1727463192,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135882,
+        "num": 54464,
+        "word": "舅舅借外甥女900万不肯还",
+        "onboard_time": 1727444301,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 88423,
+        "num": 53535,
+        "word": "黄多多在纽约街边画画",
+        "onboard_time": 1727438058,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 68823,
+        "num": 52816,
+        "word": "警方回应女网红张悦疑坠楼身亡",
+        "onboard_time": 1727442500,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 61036,
+        "num": 52165,
+        "word": "武汉1.6级地震",
+        "onboard_time": 1727442380,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 52034,
+        "num": 52034,
+        "word": "女子钥匙放车里多次凌晨被开走",
+        "onboard_time": 1727436018,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29232,
+        "num": 51041,
+        "word": "你婚后愿意和老人住在一起吗",
+        "onboard_time": 1727448740,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50992,
+        "num": 50992,
+        "word": "吴宣仪cos貂蝉",
+        "onboard_time": 1727458154,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 48501,
+        "num": 48501,
+        "word": "87套法拍房待拍卖仅1人报名",
+        "onboard_time": 1727446040,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 43092,
+        "num": 43092,
+        "word": "以总理被迫雨中与人握手",
+        "onboard_time": 1727449341,
+        "rank": 18,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 36530,
+        "num": 40382,
+        "word": "NewJeans新歌demo",
+        "onboard_time": 1727451080,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 67023,
+        "num": 40340,
+        "word": "刚出生宝宝遭隐翅虫攻击致头部感染",
+        "onboard_time": 1727442439,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46941,
+        "num": 40316,
+        "word": "二本恋综拍出来了",
+        "onboard_time": 1727437880,
+        "rank": 21,
+        "category": "幽默,作品衍生"
+      },
+      {
+        "raw_hot": 40074,
+        "num": 40074,
+        "word": "发电厂海蜇泛滥员工已抓21万斤",
+        "onboard_time": 1727437938,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 39395,
+        "num": 39395,
+        "word": "职业闭店人收费十几万找人背几百万债",
+        "onboard_time": 1727463012,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32117,
+        "num": 32117,
+        "word": "闵熙珍说NewJeans不会离开HYBE",
+        "onboard_time": 1727452399,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31719,
+        "num": 31719,
+        "word": "奶茶店称因电费差价要多做一千杯",
+        "onboard_time": 1727433798,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31585,
+        "num": 31585,
+        "word": "麦格教授扮演者玛吉史密斯去世",
+        "onboard_time": 1727444781,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 31395,
+        "num": 31395,
+        "word": "孙怡巴黎一抹辣妹红",
+        "onboard_time": 1727461753,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 29808,
+        "num": 31174,
+        "word": "直播间赌石被骗还以为是运气不好",
+        "onboard_time": 1727448260,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 15388,
+        "num": 31081,
+        "word": "官方回应村民摆苹果堵路逼停车辆",
+        "onboard_time": 1727464692,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30690,
+        "num": 31066,
+        "word": "周杰伦千山万水现场",
+        "onboard_time": 1727447362,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 31054,
+        "num": 31054,
+        "word": "安徽省地震局回应地震热点问题",
+        "onboard_time": 1727443401,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30521,
+        "num": 30521,
+        "word": "王玉雯否认在王子奇车上待了很久",
+        "onboard_time": 1727436559,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30429,
+        "num": 30429,
+        "word": "半熟男女 全员恶人",
+        "onboard_time": 1727443700,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 29207,
+        "num": 29207,
+        "word": "原神版本直播",
+        "onboard_time": 1727439499,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 27737,
+        "num": 29206,
+        "word": "中国最没存在感的省会",
+        "onboard_time": 1727427199,
+        "rank": 35,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 26569,
+        "num": 29203,
+        "word": "汪苏泷演唱会DJ是王鹤棣",
+        "onboard_time": 1727450359,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 25099,
+        "num": 29199,
+        "word": "方媛称郭富城支持自己买房",
+        "onboard_time": 1727440999,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24685,
+        "num": 29197,
+        "word": "CP30",
+        "onboard_time": 1727432419,
+        "rank": 38,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 24036,
+        "num": 29193,
+        "word": "哈利波特",
+        "onboard_time": 1727445681,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 23915,
+        "num": 29190,
+        "word": "雎晓雯产后重返国际T台",
+        "onboard_time": 1727446761,
+        "rank": 40,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 23338,
+        "num": 29189,
+        "word": "关智斌感谢赵丽颖把自己带火",
+        "onboard_time": 1727427619,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 22680,
+        "num": 29185,
+        "word": "和叶太甜了吧",
+        "onboard_time": 1727454498,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 21647,
+        "num": 29180,
+        "word": "4个细节判断一个人靠不靠谱",
+        "onboard_time": 1727452219,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 21310,
+        "num": 29179,
+        "word": "山西甘肃婚假最长可享30天",
+        "onboard_time": 1727457374,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21305,
+        "num": 29175,
+        "word": "告诉爸妈别这样用保鲜膜了",
+        "onboard_time": 1727440760,
+        "rank": 45,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 20939,
+        "num": 29173,
+        "word": "闵熙珍晒HANNI聊天记录",
+        "onboard_time": 1727445741,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 20162,
+        "num": 29169,
+        "word": "曹杨香缇莫平票",
+        "onboard_time": 1727451739,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19687,
+        "num": 29165,
+        "word": "宋佳张桂梅合影",
+        "onboard_time": 1727463851,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19536,
+        "num": 29165,
+        "word": "战至巅峰",
+        "onboard_time": 1727458813,
+        "rank": 49,
+        "category": "综艺,电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#各族人民都有一个共同名字就是中国人#"
+    }
+  }
+}

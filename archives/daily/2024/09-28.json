@@ -1,6 +1,6 @@
 {
   "startTime": 1727454453610,
-  "endTime": 1727462605296,
+  "endTime": 1727464722529,
   "band_list": [
     {
       "raw_hot": 801781,
@@ -315,6 +315,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 89445,
+      "num": 89445,
+      "word": "男子偷车开完加油再还回",
+      "onboard_time": 1727461153,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 87302,
       "num": 87302,
       "word": "汪苏泷来过十万伏特你就定型了",
@@ -459,11 +467,19 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 39618,
-      "num": 75203,
-      "word": "男子偷车开完加油再还回",
-      "onboard_time": 1727461153,
+      "raw_hot": 54500,
+      "num": 54500,
+      "word": "被教官体罚去世女孩父亲发声",
+      "onboard_time": 1727463192,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 39395,
+      "num": 39395,
+      "word": "职业闭店人收费十几万找人背几百万债",
+      "onboard_time": 1727463012,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -523,11 +539,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 19687,
+      "num": 29165,
+      "word": "宋佳张桂梅合影",
+      "onboard_time": 1727463851,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 17562,
       "num": 510123,
       "word": "352个集体368名个人受到表彰",
       "onboard_time": 1727444301,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 15388,
+      "num": 31081,
+      "word": "官方回应村民摆苹果堵路逼停车辆",
+      "onboard_time": 1727464692,
+      "rank": 29,
       "category": "社会新闻"
     }
   ],
