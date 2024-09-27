@@ -1,6 +1,6 @@
 {
   "startTime": 1727368091089,
-  "endTime": 1727407644773,
+  "endTime": 1727408554961,
   "band_list": [
     {
       "raw_hot": 4551944,
@@ -83,6 +83,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 844302,
+      "num": 844302,
+      "word": "遭教官体罚进ICU的14岁女孩离世",
+      "onboard_time": 1727407160,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 834222,
       "num": 834222,
       "word": "教育局通报家长跪求取消钉钉打卡",
@@ -91,8 +99,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 751144,
-      "num": 751144,
+      "raw_hot": 813262,
+      "num": 813262,
       "word": "大量淘宝用户刷出微信支付界面",
       "onboard_time": 1727402479,
       "rank": 7,
@@ -171,8 +179,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 424119,
-      "num": 424119,
+      "raw_hot": 428483,
+      "num": 428483,
       "word": "浙江领证未满1年新人也享受13天婚假",
       "onboard_time": 1727405539,
       "rank": 36,
@@ -195,6 +203,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 412991,
+      "num": 412991,
+      "word": "同花顺",
+      "onboard_time": 1727405001,
+      "rank": 38,
+      "category": "互联网,财经"
+    },
+    {
+      "raw_hot": 404125,
+      "num": 404125,
+      "word": "芬兰计划提前归还大熊猫",
+      "onboard_time": 1727404939,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 393960,
       "num": 393960,
       "word": "三只羊被罚款没收违法所得6894.91万",
@@ -211,20 +235,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 368927,
+      "num": 368927,
+      "word": "我已出舱感觉良好有16年了",
+      "onboard_time": 1727407099,
+      "rank": 23,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 364798,
       "num": 364798,
       "word": "母亲玩手机3岁幼童坠楼商场判赔154万",
       "onboard_time": 1727362761,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 364071,
-      "num": 364071,
-      "word": "同花顺",
-      "onboard_time": 1727405001,
-      "rank": 38,
-      "category": "互联网,财经"
     },
     {
       "raw_hot": 360715,
@@ -252,7 +276,7 @@
     },
     {
       "raw_hot": 346854,
-      "num": 303813,
+      "num": 410480,
       "word": "Jennie厂牌",
       "onboard_time": 1727400440,
       "rank": 24,
@@ -403,20 +427,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 260196,
-      "num": 264254,
-      "word": "芬兰计划提前归还大熊猫",
-      "onboard_time": 1727404939,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 254332,
-      "num": 254332,
-      "word": "我已出舱感觉良好有16年了",
-      "onboard_time": 1727407099,
-      "rank": 23,
-      "category": "国内时政"
+      "raw_hot": 251013,
+      "num": 217256,
+      "word": "日本歌手酸欠少女去世",
+      "onboard_time": 1727408419,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 248292,
@@ -449,14 +465,6 @@
       "onboard_time": 1727405900,
       "rank": 41,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 231923,
-      "num": 231923,
-      "word": "遭教官体罚进ICU的14岁女孩离世",
-      "onboard_time": 1727407160,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 231626,
@@ -499,12 +507,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 219517,
+      "num": 219517,
+      "word": "东北雨姐称将追责P图博主",
+      "onboard_time": 1727403559,
+      "rank": 43,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 218252,
       "num": 218252,
       "word": "Scout事件大结局",
       "onboard_time": 1727402479,
       "rank": 33,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 217163,
+      "num": 217163,
+      "word": "撤单",
+      "onboard_time": 1727404880,
+      "rank": 41,
+      "category": "财经"
     },
     {
       "raw_hot": 209526,
@@ -515,11 +539,35 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 208730,
+      "num": 412388,
+      "word": "十个勤天团综开播",
+      "onboard_time": 1727408061,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 204802,
       "num": 204802,
       "word": "上证指数",
       "onboard_time": 1727405420,
       "rank": 40,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 202352,
+      "num": 202352,
+      "word": "上交所发布股票交易异常公告",
+      "onboard_time": 1727407639,
+      "rank": 34,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 197751,
+      "num": 197751,
+      "word": "创业板",
+      "onboard_time": 1727408360,
+      "rank": 36,
       "category": "财经"
     },
     {
@@ -531,20 +579,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 190215,
-      "num": 190215,
-      "word": "撤单",
-      "onboard_time": 1727404880,
-      "rank": 41,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 187530,
-      "num": 187530,
-      "word": "东北雨姐称将追责P图博主",
-      "onboard_time": 1727403559,
-      "rank": 43,
-      "category": "社会新闻,网红"
+      "raw_hot": 188526,
+      "num": 219213,
+      "word": "杨紫一抹蓝现场小记录",
+      "onboard_time": 1727407819,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 183054,
@@ -569,6 +609,22 @@
       "onboard_time": 1727404399,
       "rank": 44,
       "category": "美食"
+    },
+    {
+      "raw_hot": 175732,
+      "num": 237573,
+      "word": "16吨中国大白菜已运抵韩国",
+      "onboard_time": 1727404760,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 175077,
+      "num": 409853,
+      "word": "上交所发布股票交易异常情况公告",
+      "onboard_time": 1727407399,
+      "rank": 18,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 174407,
@@ -609,6 +665,14 @@
       "onboard_time": 1727328620,
       "rank": 24,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 160878,
+      "num": 358934,
+      "word": "AI写的大学论文导师能看出来吗",
+      "onboard_time": 1727405477,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 160351,
@@ -760,14 +824,6 @@
       "word": "南京打雷",
       "onboard_time": 1727396778,
       "rank": 44,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 116752,
-      "num": 358934,
-      "word": "AI写的大学论文导师能看出来吗",
-      "onboard_time": 1727405477,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -923,6 +979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 82336,
+      "num": 448414,
+      "word": "股民想让A股在国庆加个班",
+      "onboard_time": 1727407519,
+      "rank": 9,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 79058,
       "num": 82220,
       "word": "住宿前一定要先检查这4个地方",
@@ -1027,28 +1091,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 55618,
-      "num": 237573,
-      "word": "16吨中国大白菜已运抵韩国",
-      "onboard_time": 1727404760,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 55531,
-      "num": 286115,
-      "word": "上交所发布股票交易异常情况公告",
-      "onboard_time": 1727407399,
-      "rank": 18,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 54427,
       "num": 82200,
       "word": "阿维塔07",
       "onboard_time": 1727368457,
       "rank": 49,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 53324,
+      "num": 303944,
+      "word": "亚硝酸盐超标百倍的血燕卷土重来",
+      "onboard_time": 1727406500,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 51323,
@@ -1091,11 +1147,11 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 39469,
-      "num": 303944,
-      "word": "亚硝酸盐超标百倍的血燕卷土重来",
-      "onboard_time": 1727406500,
-      "rank": 14,
+      "raw_hot": 36784,
+      "num": 413245,
+      "word": "专家称A股3000点应该能站稳",
+      "onboard_time": 1727408299,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -1105,14 +1161,6 @@
       "onboard_time": 1727371513,
       "rank": 48,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 35612,
-      "num": 419919,
-      "word": "股民想让A股在国庆加个班",
-      "onboard_time": 1727407519,
-      "rank": 9,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 33782,
@@ -1128,6 +1176,14 @@
       "word": "中国红是国庆最美主色调",
       "onboard_time": 1727356880,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 30234,
+      "num": 407694,
+      "word": "美的客服回应网友称空调突发自燃",
+      "onboard_time": 1727406978,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -1155,6 +1211,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 27200,
+      "num": 467882,
+      "word": "上证指数横线",
+      "onboard_time": 1727408360,
+      "rank": 7,
+      "category": "财经"
+    },
+    {
       "raw_hot": 27067,
       "num": 28764,
       "word": "医院设特需门诊专治数理化不好",
@@ -1163,12 +1227,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 26728,
-      "num": 281918,
-      "word": "美的客服回应网友称空调突发自燃",
-      "onboard_time": 1727406978,
+      "raw_hot": 25438,
+      "num": 406333,
+      "word": "如鸢扬州河灯许愿",
+      "onboard_time": 1727407699,
       "rank": 19,
-      "category": "社会新闻"
+      "category": "游戏"
     },
     {
       "raw_hot": 21622,
