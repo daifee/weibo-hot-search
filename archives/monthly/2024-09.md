@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/09/01 00:25:38 ~ 2024/09/28 07:21:12
+本榜单时间：2024/09/01 00:25:38 ~ 2024/09/28 07:35:39
 </p>
 </blockquote>
 <p>
@@ -5367,6 +5367,12 @@ WTT（热度：971085）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E6%95%99%E5%AE%98%E4%BD%93%E7%BD%9A%E5%8E%BB%E4%B8%96%E5%A5%B3%E5%AD%A9%E7%88%B6%E4%BA%B2%E5%8F%91%E5%A3%B0%23" target="weibo">
+被教官体罚去世女孩父亲发声（热度：936765）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B0%91%E5%AE%BF%E4%B8%BA%E4%BB%80%E4%B9%88%E5%A4%B1%E5%AE%A0%E4%BA%86%23" target="weibo">
 民宿为什么失宠了（热度：936759）
 </a>
@@ -6005,12 +6011,6 @@ iPhone16史上最容易维修iPhone（热度：900387）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2317%E5%B2%81%E5%B0%8F%E4%BC%99%E6%9D%A5%E4%BE%8B%E5%81%87%E6%9F%A5%E5%87%BA%E6%9C%89%E5%8D%B5%E5%B7%A2%23" target="weibo">
 17岁小伙来例假查出有卵巢（热度：879437）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B2%99%E7%89%B9%E5%8F%8D%E8%B6%85%23" target="weibo">
-沙特反超（热度：879032）
 </a>
 </li>
 
