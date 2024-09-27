@@ -1,6 +1,6 @@
 {
   "startTime": 1727454453610,
-  "endTime": 1727469441364,
+  "endTime": 1727472050265,
   "band_list": [
     {
       "raw_hot": 801781,
@@ -339,6 +339,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 84045,
+      "num": 44361,
+      "word": "红霉素眼膏和红霉素软膏有区别吗",
+      "onboard_time": 1727465532,
+      "rank": 38,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 83686,
       "num": 83686,
       "word": "凡希亚puppet木偶舞",
@@ -483,20 +491,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 43139,
-      "num": 45876,
+      "raw_hot": 47223,
+      "num": 47223,
       "word": "官方回应村民摆苹果堵路逼停车辆",
       "onboard_time": 1727464692,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 41802,
-      "num": 25428,
-      "word": "红霉素眼膏和红霉素软膏有区别吗",
-      "onboard_time": 1727465532,
-      "rank": 38,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 39325,
@@ -579,12 +579,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 18592,
-      "num": 18592,
+      "raw_hot": 18730,
+      "num": 18975,
       "word": "各族人民都有一个共同名字就是中国人",
       "onboard_time": 1727466132,
       "rank": 43,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 17853,
+      "num": 18975,
+      "word": "官方通报商铺93克黄金变84克",
+      "onboard_time": 1727469671,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 17562,
@@ -595,8 +603,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 14660,
+      "num": 18961,
+      "word": "陶勇医生终于又拿起了手术刀",
+      "onboard_time": 1727466852,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 14093,
-      "num": 27798,
+      "num": 44373,
       "word": "教育局回应昆山部分学校发霉变面包",
       "onboard_time": 1727468832,
       "rank": 20,
