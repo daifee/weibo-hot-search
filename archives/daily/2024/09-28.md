@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/09/28 00:27:33 ~ 2024/09/28 05:36:22
+本榜单时间：2024/09/28 00:27:33 ~ 2024/09/28 06:20:52
 </p>
 </blockquote>
 <p>
@@ -105,6 +105,12 @@ NewJeans新歌demo（热度：296441）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E6%95%99%E5%AE%98%E4%BD%93%E7%BD%9A%E5%8E%BB%E4%B8%96%E5%A5%B3%E5%AD%A9%E7%88%B6%E4%BA%B2%E5%8F%91%E5%A3%B0%23" target="weibo">
+被教官体罚去世女孩父亲发声（热度：273768）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E9%9D%92%E6%B5%B7%E6%97%A0%E4%BA%BA%E5%8C%BA%E6%9C%89%E5%A4%9A%E4%BA%BA%E6%89%94%E7%A0%96%E7%A0%B8%E8%BD%A6%23" target="weibo">
 警方回应青海无人区有多人扔砖砸车（热度：266571）
 </a>
@@ -159,8 +165,8 @@ NewJeans新歌demo（热度：296441）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E6%95%99%E5%AE%98%E4%BD%93%E7%BD%9A%E5%8E%BB%E4%B8%96%E5%A5%B3%E5%AD%A9%E7%88%B6%E4%BA%B2%E5%8F%91%E5%A3%B0%23" target="weibo">
-被教官体罚去世女孩父亲发声（热度：156887）
+<a href="https://s.weibo.com/weibo?q=%23%E7%BA%A2%E9%9C%89%E7%B4%A0%E7%9C%BC%E8%86%8F%E5%92%8C%E7%BA%A2%E9%9C%89%E7%B4%A0%E8%BD%AF%E8%86%8F%E6%9C%89%E5%8C%BA%E5%88%AB%E5%90%97%23" target="weibo">
+红霉素眼膏和红霉素软膏有区别吗（热度：158288）
 </a>
 </li>
 
@@ -225,12 +231,6 @@ NewJeans新歌demo（热度：296441）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BA%A2%E9%9C%89%E7%B4%A0%E7%9C%BC%E8%86%8F%E5%92%8C%E7%BA%A2%E9%9C%89%E7%B4%A0%E8%BD%AF%E8%86%8F%E6%9C%89%E5%8C%BA%E5%88%AB%E5%90%97%23" target="weibo">
-红霉素眼膏和红霉素软膏有区别吗（热度：103014）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%8A%E7%86%9F%E7%94%B7%E5%A5%B3%20%E5%85%A8%E5%91%98%E6%81%B6%E4%BA%BA%23" target="weibo">
 半熟男女 全员恶人（热度：97130）
 </a>
@@ -279,6 +279,12 @@ NewJeans新歌demo（热度：296441）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%81%8C%E4%B8%9A%E9%97%AD%E5%BA%97%E4%BA%BA%E6%94%B6%E8%B4%B9%E5%8D%81%E5%87%A0%E4%B8%87%E6%89%BE%E4%BA%BA%E8%83%8C%E5%87%A0%E7%99%BE%E4%B8%87%E5%80%BA%23" target="weibo">
+职业闭店人收费十几万找人背几百万债（热度：82021）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%9C%A8%E4%BA%BA%E6%B5%B7%E5%9C%A8%E5%87%9D%E6%9C%9B%E5%9C%A8%E6%A2%A6%E9%87%8C%23" target="weibo">
 赵丽颖在人海在凝望在梦里（热度：79587）
 </a>
@@ -321,6 +327,12 @@ NewJeans新歌demo（热度：296441）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E6%9D%91%E6%B0%91%E6%91%86%E8%8B%B9%E6%9E%9C%E5%A0%B5%E8%B7%AF%E9%80%BC%E5%81%9C%E8%BD%A6%E8%BE%86%23" target="weibo">
+官方回应村民摆苹果堵路逼停车辆（热度：76149）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E4%BD%B3%E5%90%91%E5%8D%8E%E5%9D%AA%E5%8E%BF%E6%8D%90%E8%B5%A0100%E4%B8%87%23" target="weibo">
 宋佳向华坪县捐赠100万（热度：75198）
 </a>
@@ -335,6 +347,12 @@ NewJeans新歌demo（热度：296441）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E5%AE%A3%E4%BB%AAcos%E8%B2%82%E8%9D%89%23" target="weibo">
 吴宣仪cos貂蝉（热度：71746）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E7%9B%90%E6%B0%B4%E6%B3%A1%E7%A9%BA%E5%BF%83%E8%8F%9C%E6%B3%A1%E5%87%BA%E9%95%BF%E8%99%AB%23" target="weibo">
+女生盐水泡空心菜泡出长虫（热度：71329）
 </a>
 </li>
 
@@ -375,14 +393,8 @@ NewJeans新歌demo（热度：296441）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%81%8C%E4%B8%9A%E9%97%AD%E5%BA%97%E4%BA%BA%E6%94%B6%E8%B4%B9%E5%8D%81%E5%87%A0%E4%B8%87%E6%89%BE%E4%BA%BA%E8%83%8C%E5%87%A0%E7%99%BE%E4%B8%87%E5%80%BA%23" target="weibo">
-职业闭店人收费十几万找人背几百万债（热度：58841）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E6%9D%91%E6%B0%91%E6%91%86%E8%8B%B9%E6%9E%9C%E5%A0%B5%E8%B7%AF%E9%80%BC%E5%81%9C%E8%BD%A6%E8%BE%86%23" target="weibo">
-官方回应村民摆苹果堵路逼停车辆（热度：48825）
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E6%80%A1%E5%B7%B4%E9%BB%8E%E4%B8%80%E6%8A%B9%E8%BE%A3%E5%A6%B9%E7%BA%A2%23" target="weibo">
+孙怡巴黎一抹辣妹红（热度：56062）
 </a>
 </li>
 
@@ -393,8 +405,8 @@ NewJeans新歌demo（热度：296441）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E7%9B%90%E6%B0%B4%E6%B3%A1%E7%A9%BA%E5%BF%83%E8%8F%9C%E6%B3%A1%E5%87%BA%E9%95%BF%E8%99%AB%23" target="weibo">
-女生盐水泡空心菜泡出长虫（热度：36997）
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E6%A0%A1%E5%9B%9E%E5%BA%94%E6%96%B0%E7%94%9F%E7%AD%94%E9%94%99%E7%AC%AC%E4%B8%80%E4%BB%BB%E6%A0%A1%E9%95%BF%E5%90%8D%E5%AD%97%E8%A2%AB%E5%A4%84%E5%88%86%23" target="weibo">
+高校回应新生答错第一任校长名字被处分（热度：38163）
 </a>
 </li>
 
@@ -405,26 +417,38 @@ NewJeans新歌demo（热度：296441）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E6%80%A1%E5%B7%B4%E9%BB%8E%E4%B8%80%E6%8A%B9%E8%BE%A3%E5%A6%B9%E7%BA%A2%23" target="weibo">
-孙怡巴黎一抹辣妹红（热度：33782）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23CP30%23" target="weibo">
 CP30（热度：28313）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E6%A0%A1%E5%9B%9E%E5%BA%94%E6%96%B0%E7%94%9F%E7%AD%94%E9%94%99%E7%AC%AC%E4%B8%80%E4%BB%BB%E6%A0%A1%E9%95%BF%E5%90%8D%E5%AD%97%E8%A2%AB%E5%A4%84%E5%88%86%23" target="weibo">
-高校回应新生答错第一任校长名字被处分（热度：26921）
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E5%95%86%E9%93%BA93%E5%85%8B%E9%BB%84%E9%87%91%E5%8F%9884%E5%85%8B%23" target="weibo">
+官方通报商铺93克黄金变84克（热度：27278）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B1%AA%E8%8B%8F%E6%B3%B7%E6%96%B0%E6%AD%8C%E6%A2%86%E6%A2%86%23" target="weibo">
 汪苏泷新歌梆梆（热度：26771）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%232024%E5%B9%B4%E5%85%A8%E5%9B%BD%E8%B5%8F%E7%A7%8B%E5%9C%B0%E5%9B%BE%E5%87%BA%E7%82%89%23" target="weibo">
+2024年全国赏秋地图出炉（热度：26638）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%A8%83%E5%96%8A%E8%AF%9D%E9%9B%A8%E5%A7%90%E6%88%91%E5%87%BA%E4%BA%8B%E4%BD%A0%E4%B9%9F%E8%B7%91%E4%B8%8D%E6%8E%89%23" target="weibo">
+大娃喊话雨姐我出事你也跑不掉（热度：26418）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94%E6%98%86%E5%B1%B1%E9%83%A8%E5%88%86%E5%AD%A6%E6%A0%A1%E5%8F%91%E9%9C%89%E5%8F%98%E9%9D%A2%E5%8C%85%23" target="weibo">
+教育局回应昆山部分学校发霉变面包（热度：25092）
 </a>
 </li>
 
@@ -441,44 +465,26 @@ CP30（热度：28313）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%B6%E5%8B%87%E5%8C%BB%E7%94%9F%E7%BB%88%E4%BA%8E%E5%8F%88%E6%8B%BF%E8%B5%B7%E4%BA%86%E6%89%8B%E6%9C%AF%E5%88%80%23" target="weibo">
+陶勇医生终于又拿起了手术刀（热度：21484）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E4%BD%B3%E5%BC%A0%E6%A1%82%E6%A2%85%E5%90%88%E5%BD%B1%23" target="weibo">
 宋佳张桂梅合影（热度：19687）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E5%95%86%E9%93%BA93%E5%85%8B%E9%BB%84%E9%87%91%E5%8F%9884%E5%85%8B%23" target="weibo">
-官方通报商铺93克黄金变84克（热度：19050）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%84%E6%97%8F%E4%BA%BA%E6%B0%91%E9%83%BD%E6%9C%89%E4%B8%80%E4%B8%AA%E5%85%B1%E5%90%8C%E5%90%8D%E5%AD%97%E5%B0%B1%E6%98%AF%E4%B8%AD%E5%9B%BD%E4%BA%BA%23" target="weibo">
-各族人民都有一个共同名字就是中国人（热度：18730）
+各族人民都有一个共同名字就是中国人（热度：19529）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23352%E4%B8%AA%E9%9B%86%E4%BD%93368%E5%90%8D%E4%B8%AA%E4%BA%BA%E5%8F%97%E5%88%B0%E8%A1%A8%E5%BD%B0%23" target="weibo">
 352个集体368名个人受到表彰（热度：17562）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%B6%E5%8B%87%E5%8C%BB%E7%94%9F%E7%BB%88%E4%BA%8E%E5%8F%88%E6%8B%BF%E8%B5%B7%E4%BA%86%E6%89%8B%E6%9C%AF%E5%88%80%23" target="weibo">
-陶勇医生终于又拿起了手术刀（热度：16887）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94%E6%98%86%E5%B1%B1%E9%83%A8%E5%88%86%E5%AD%A6%E6%A0%A1%E5%8F%91%E9%9C%89%E5%8F%98%E9%9D%A2%E5%8C%85%23" target="weibo">
-教育局回应昆山部分学校发霉变面包（热度：16383）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%232024%E5%B9%B4%E5%85%A8%E5%9B%BD%E8%B5%8F%E7%A7%8B%E5%9C%B0%E5%9B%BE%E5%87%BA%E7%82%89%23" target="weibo">
-2024年全国赏秋地图出炉（热度：15426）
 </a>
 </li>
 
