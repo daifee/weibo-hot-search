@@ -1,0 +1,410 @@
+{
+  "runTime": 1727440935432,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 854614,
+        "num": 1136738,
+        "word": "二本恋综拍出来了",
+        "onboard_time": 1727437880,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 720999,
+        "num": 720999,
+        "word": "奶茶店称因电费差价要多做一千杯",
+        "onboard_time": 1727433798,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 9117,
+        "num": 540508,
+        "word": "天山南北唱新歌",
+        "onboard_time": 1727348779,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 505833,
+        "num": 505833,
+        "word": "宋佳向华坪县捐赠100万",
+        "onboard_time": 1727435179,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 433797,
+        "num": 433797,
+        "word": "赵丽颖直播造型",
+        "onboard_time": 1727439439,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 327193,
+        "num": 327193,
+        "word": "上交所道歉",
+        "onboard_time": 1727434100,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 314437,
+        "num": 314437,
+        "word": "体罚女孩致死教育机构拒绝家长探望",
+        "onboard_time": 1727429659,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 302869,
+        "num": 302869,
+        "word": "原神版本直播",
+        "onboard_time": 1727439499,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 275750,
+        "num": 275750,
+        "word": "叶罗丽居然拍了真人版",
+        "onboard_time": 1727437281,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 296760,
+        "num": 274886,
+        "word": "关智斌感谢赵丽颖把自己带火",
+        "onboard_time": 1727427619,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 652210,
+        "num": 272992,
+        "word": "女子钥匙放车里多次凌晨被开走",
+        "onboard_time": 1727436018,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 519909,
+        "num": 272250,
+        "word": "女网红张悦疑坠楼男友已被拘留",
+        "onboard_time": 1727430258,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 452036,
+        "num": 270849,
+        "word": "王玉雯否认在王子奇车上待了很久",
+        "onboard_time": 1727436559,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158939,
+        "num": 268810,
+        "word": "石破茂将出任日本首相",
+        "onboard_time": 1727418801,
+        "rank": 13,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 409069,
+        "num": 266393,
+        "word": "男子破产后捅妻子8刀获刑9个月",
+        "onboard_time": 1727429419,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 401630,
+        "num": 264674,
+        "word": "黄多多在纽约街边画画",
+        "onboard_time": 1727438058,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 351641,
+        "num": 262882,
+        "word": "中国最没存在感的省会",
+        "onboard_time": 1727427199,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 38307,
+        "num": 262066,
+        "word": "为什么一定要带孩子逛博物馆",
+        "onboard_time": 1727439379,
+        "rank": 17,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 384879,
+        "num": 259921,
+        "word": "王玉雯发文回应探班",
+        "onboard_time": 1727433439,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 259417,
+        "num": 259417,
+        "word": "A股正从反弹走向反转",
+        "onboard_time": 1727422520,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25809,
+        "num": 212372,
+        "word": "十个勤天在天猫揭秘家乡严选",
+        "onboard_time": 1727436920,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205306,
+        "num": 205306,
+        "word": "家乡当手机壁纸后不想再换别的了",
+        "onboard_time": 1727425760,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204332,
+        "num": 204332,
+        "word": "时代少年团 河北",
+        "onboard_time": 1727440398,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203712,
+        "num": 203712,
+        "word": "朱正廷自驾游",
+        "onboard_time": 1727440039,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197251,
+        "num": 197251,
+        "word": "陈都灵旅行休假小存货",
+        "onboard_time": 1727440039,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191333,
+        "num": 191333,
+        "word": "发电厂海蜇泛滥员工已抓21万斤",
+        "onboard_time": 1727437938,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180649,
+        "num": 180649,
+        "word": "男子110万元买6000多张足彩一张没中",
+        "onboard_time": 1727433798,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31100,
+        "num": 179830,
+        "word": "女子停车遇阻质疑给领导预留车位",
+        "onboard_time": 1727438959,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164920,
+        "num": 179521,
+        "word": "许佳琪魏哲鸣吻戏",
+        "onboard_time": 1727436140,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152071,
+        "num": 179396,
+        "word": "莫文蔚分享这世界那么多人舞台",
+        "onboard_time": 1727435539,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 179348,
+        "num": 179348,
+        "word": "浙江IP到底有多幸福",
+        "onboard_time": 1727434100,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152464,
+        "num": 152464,
+        "word": "兵哥哥执勤时被宝妈塞了一个娃",
+        "onboard_time": 1727420297,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142727,
+        "num": 142727,
+        "word": "遭教官体罚进ICU的14岁女孩离世",
+        "onboard_time": 1727407160,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136429,
+        "num": 136429,
+        "word": "全国已有25个省份延长婚假",
+        "onboard_time": 1727433259,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131282,
+        "num": 131282,
+        "word": "江慈人设",
+        "onboard_time": 1727440699,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 66916,
+        "num": 131071,
+        "word": "网红张悦疑坠楼有同名死者被送殡仪馆",
+        "onboard_time": 1727440159,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 63732,
+        "num": 131025,
+        "word": "黄景瑜发文告别雪迷宫",
+        "onboard_time": 1727439679,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 131021,
+        "num": 131021,
+        "word": "邓紫棋演唱会西安站",
+        "onboard_time": 1727440640,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 130548,
+        "num": 130548,
+        "word": "日薪800的健身教练一天扛1吨夏威夷果",
+        "onboard_time": 1727436258,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 17723,
+        "num": 129796,
+        "word": "相约尼山遇见孔子",
+        "onboard_time": 1727438420,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129328,
+        "num": 129793,
+        "word": "赵露思沉浸式吃播vlog",
+        "onboard_time": 1727440640,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129792,
+        "num": 129792,
+        "word": "央视揭秘直播间一刀暴富骗局",
+        "onboard_time": 1727438360,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129568,
+        "num": 129568,
+        "word": "殡仪馆回应女网红张悦疑坠楼身亡",
+        "onboard_time": 1727434218,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124511,
+        "num": 124511,
+        "word": "浙江婚假",
+        "onboard_time": 1727402842,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114002,
+        "num": 114002,
+        "word": "打过狂犬疫苗的人嘴真严啊",
+        "onboard_time": 1727416581,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 113178,
+        "num": 113178,
+        "word": "淘宝微信支付",
+        "onboard_time": 1727414960,
+        "rank": 45,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 105862,
+        "num": 105862,
+        "word": "可重复使用返回式试验卫星发射成功",
+        "onboard_time": 1727438179,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 103420,
+        "num": 103420,
+        "word": "告诉爸妈别这样用保鲜膜了",
+        "onboard_time": 1727440760,
+        "rank": 47,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 100323,
+        "num": 100323,
+        "word": "郑润泽巡演抢票",
+        "onboard_time": 1727436920,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 99118,
+        "num": 99118,
+        "word": "时代少年团欢乐小剧场",
+        "onboard_time": 1727432540,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#全国民族团结进步表彰大会#"
+    }
+  }
+}

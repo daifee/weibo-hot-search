@@ -1,6 +1,6 @@
 {
   "startTime": 1727368091089,
-  "endTime": 1727436928650,
+  "endTime": 1727440935432,
   "band_list": [
     {
       "raw_hot": 4551944,
@@ -187,6 +187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 854614,
+      "num": 1136738,
+      "word": "二本恋综拍出来了",
+      "onboard_time": 1727437880,
+      "rank": 0,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 847404,
       "num": 515449,
       "word": "名媛培训班 就业率",
@@ -281,6 +289,14 @@
       "onboard_time": 1727415800,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 652210,
+      "num": 272992,
+      "word": "女子钥匙放车里多次凌晨被开走",
+      "onboard_time": 1727436018,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 625834,
@@ -443,12 +459,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 452036,
+      "num": 270849,
+      "word": "王玉雯否认在王子奇车上待了很久",
+      "onboard_time": 1727436559,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 439684,
       "num": 169230,
       "word": "海清版张桂梅",
       "onboard_time": 1727430618,
       "rank": 38,
       "category": "电影"
+    },
+    {
+      "raw_hot": 433797,
+      "num": 433797,
+      "word": "赵丽颖直播造型",
+      "onboard_time": 1727439439,
+      "rank": 4,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 429221,
@@ -496,6 +528,14 @@
       "word": "王玉雯回应探班",
       "onboard_time": 1727433019,
       "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 401630,
+      "num": 264674,
+      "word": "黄多多在纽约街边画画",
+      "onboard_time": 1727438058,
+      "rank": 15,
       "category": "艺人"
     },
     {
@@ -595,6 +635,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 351641,
+      "num": 347082,
+      "word": "中国最没存在感的省会",
+      "onboard_time": 1727427199,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 350736,
       "num": 350736,
       "word": "五条悟结局",
@@ -609,14 +657,6 @@
       "onboard_time": 1727417301,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 347082,
-      "num": 347082,
-      "word": "中国最没存在感的省会",
-      "onboard_time": 1727427199,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 346854,
@@ -739,6 +779,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 302869,
+      "num": 302869,
+      "word": "原神版本直播",
+      "onboard_time": 1727439499,
+      "rank": 7,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 298206,
       "num": 284163,
       "word": "东北雨姐团队称红薯粉条应该有问题",
@@ -849,6 +897,14 @@
       "onboard_time": 1727413881,
       "rank": 42,
       "category": "财经"
+    },
+    {
+      "raw_hot": 275750,
+      "num": 275750,
+      "word": "叶罗丽居然拍了真人版",
+      "onboard_time": 1727437281,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 275677,
@@ -1147,14 +1203,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 208928,
-      "num": 151737,
-      "word": "王玉雯否认在王子奇车上待了很久",
-      "onboard_time": 1727436559,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 207296,
       "num": 207296,
       "word": "日薪800的健身教练一天扛1吨夏威夷果",
@@ -1187,12 +1235,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 204332,
+      "num": 204332,
+      "word": "时代少年团 河北",
+      "onboard_time": 1727440398,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 203742,
       "num": 262532,
       "word": "十个勤天专辑",
       "onboard_time": 1727410462,
       "rank": 27,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 203712,
+      "num": 203712,
+      "word": "朱正廷自驾游",
+      "onboard_time": 1727440039,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 202352,
@@ -1243,6 +1307,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 197251,
+      "num": 197251,
+      "word": "陈都灵旅行休假小存货",
+      "onboard_time": 1727440039,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 196946,
       "num": 196946,
       "word": "湖南爱上一次就会爱上无数次",
@@ -1289,6 +1361,14 @@
       "onboard_time": 1727429119,
       "rank": 34,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 191333,
+      "num": 191333,
+      "word": "发电厂海蜇泛滥员工已抓21万斤",
+      "onboard_time": 1727437938,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 191182,
@@ -1521,6 +1601,14 @@
       "onboard_time": 1727404880,
       "rank": 47,
       "category": "财经"
+    },
+    {
+      "raw_hot": 164920,
+      "num": 179521,
+      "word": "许佳琪魏哲鸣吻戏",
+      "onboard_time": 1727436140,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 164711,
@@ -1883,6 +1971,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 131282,
+      "num": 131282,
+      "word": "江慈人设",
+      "onboard_time": 1727440699,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 131021,
+      "num": 131021,
+      "word": "邓紫棋演唱会西安站",
+      "onboard_time": 1727440640,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 130289,
       "num": 186764,
       "word": "Jennie将回归",
@@ -1891,20 +1995,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 129792,
+      "num": 129792,
+      "word": "央视揭秘直播间一刀暴富骗局",
+      "onboard_time": 1727438360,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 129328,
+      "num": 129793,
+      "word": "赵露思沉浸式吃播vlog",
+      "onboard_time": 1727440640,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 128747,
       "num": 128747,
       "word": "金牛座是最反差的",
       "onboard_time": 1727396299,
       "rank": 39,
       "category": "情感"
-    },
-    {
-      "raw_hot": 127095,
-      "num": 127095,
-      "word": "女子钥匙放车里多次凌晨被开走",
-      "onboard_time": 1727436018,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 125236,
@@ -1977,14 +2089,6 @@
       "onboard_time": 1727396778,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 118187,
-      "num": 118187,
-      "word": "许佳琪魏哲鸣吻戏",
-      "onboard_time": 1727436140,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 115848,
@@ -2067,12 +2171,36 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 105862,
+      "num": 105862,
+      "word": "可重复使用返回式试验卫星发射成功",
+      "onboard_time": 1727438179,
+      "rank": 46,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 103999,
       "num": 103999,
       "word": "三只羊构成虚假的商业宣传",
       "onboard_time": 1727358142,
       "rank": 46,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 103420,
+      "num": 103420,
+      "word": "告诉爸妈别这样用保鲜膜了",
+      "onboard_time": 1727440760,
+      "rank": 47,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 100323,
+      "num": 100323,
+      "word": "郑润泽巡演抢票",
+      "onboard_time": 1727436920,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 100050,
@@ -2315,6 +2443,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 66916,
+      "num": 131071,
+      "word": "网红张悦疑坠楼有同名死者被送殡仪馆",
+      "onboard_time": 1727440159,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 66547,
       "num": 75252,
       "word": "王昶晒雨刮器专项训练",
@@ -2361,6 +2497,14 @@
       "onboard_time": 1727368516,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 63732,
+      "num": 131025,
+      "word": "黄景瑜发文告别雪迷宫",
+      "onboard_time": 1727439679,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 61770,
@@ -2579,6 +2723,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 38307,
+      "num": 262066,
+      "word": "为什么一定要带孩子逛博物馆",
+      "onboard_time": 1727439379,
+      "rank": 17,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 37477,
       "num": 274042,
       "word": "男子轻信出国高薪务工被骗1.9万",
@@ -2657,6 +2809,14 @@
       "onboard_time": 1727429479,
       "rank": 38,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 31100,
+      "num": 179830,
+      "word": "女子停车遇阻质疑给领导预留车位",
+      "onboard_time": 1727438959,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 30657,
@@ -2787,6 +2947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 25809,
+      "num": 212372,
+      "word": "十个勤天在天猫揭秘家乡严选",
+      "onboard_time": 1727436920,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 24674,
       "num": 244768,
       "word": "韦礼安徐海乔 安和乔",
@@ -2865,6 +3033,14 @@
       "onboard_time": 1727380811,
       "rank": 47,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 17723,
+      "num": 129796,
+      "word": "相约尼山遇见孔子",
+      "onboard_time": 1727438420,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 17123,
