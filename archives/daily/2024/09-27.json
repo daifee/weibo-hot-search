@@ -1,6 +1,6 @@
 {
   "startTime": 1727368091089,
-  "endTime": 1727414515228,
+  "endTime": 1727415581017,
   "band_list": [
     {
       "raw_hot": 4551944,
@@ -65,6 +65,14 @@
       "onboard_time": 1727405001,
       "rank": 4,
       "category": "财经"
+    },
+    {
+      "raw_hot": 1254424,
+      "num": 419513,
+      "word": "女高管与下属约会开房被开除",
+      "onboard_time": 1727412862,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1203633,
@@ -137,14 +145,6 @@
       "onboard_time": 1727401399,
       "rank": 10,
       "category": "体育"
-    },
-    {
-      "raw_hot": 626432,
-      "num": 419513,
-      "word": "女高管与下属约会开房被开除",
-      "onboard_time": 1727412862,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 625834,
@@ -251,6 +251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 470631,
+      "num": 470631,
+      "word": "东北雨姐回应客服骂人",
+      "onboard_time": 1727411721,
+      "rank": 42,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 456446,
       "num": 405970,
       "word": "易梦玲赵美延同框",
@@ -283,20 +291,28 @@
       "category": "互联网,财经"
     },
     {
-      "raw_hot": 405095,
-      "num": 405095,
-      "word": "东北雨姐回应客服骂人",
-      "onboard_time": 1727411721,
-      "rank": 42,
-      "category": "社会新闻,网红"
-    },
-    {
       "raw_hot": 393960,
       "num": 393960,
       "word": "三只羊被罚款没收违法所得6894.91万",
       "onboard_time": 1727357541,
       "rank": 5,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 386756,
+      "num": 315165,
+      "word": "Kim成熟了好多",
+      "onboard_time": 1727413940,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 384112,
+      "num": 304392,
+      "word": "湖南一9岁女童身亡未穿衣服身上有伤",
+      "onboard_time": 1727413881,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 380828,
@@ -427,6 +443,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 309190,
+      "num": 309190,
+      "word": "张帅爆冷美网四强",
+      "onboard_time": 1727413821,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 303948,
+      "num": 310703,
+      "word": "武艺一家痛失本名",
+      "onboard_time": 1727413641,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 298206,
       "num": 284163,
       "word": "东北雨姐团队称红薯粉条应该有问题",
@@ -489,14 +521,6 @@
       "onboard_time": 1727408839,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 288061,
-      "num": 315165,
-      "word": "Kim成熟了好多",
-      "onboard_time": 1727413940,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 283480,
@@ -571,14 +595,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 252549,
-      "num": 252549,
-      "word": "湖南一9岁女童身亡未穿衣服身上有伤",
-      "onboard_time": 1727413881,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 248292,
       "num": 248292,
       "word": "杨紫微博开屏",
@@ -609,6 +625,14 @@
       "onboard_time": 1727409920,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 234116,
+      "num": 234116,
+      "word": "淘宝微信支付",
+      "onboard_time": 1727414960,
+      "rank": 28,
+      "category": "互联网"
     },
     {
       "raw_hot": 233945,
@@ -659,28 +683,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 228528,
+      "num": 228528,
+      "word": "马琳说国乒女队从零开始",
+      "onboard_time": 1727414123,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 227165,
       "num": 261004,
       "word": "浙江婚假新规正式通过",
       "onboard_time": 1727404161,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 227042,
-      "num": 310703,
-      "word": "武艺一家痛失本名",
-      "onboard_time": 1727413641,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 224724,
-      "num": 224724,
-      "word": "马琳说国乒女队从零开始",
-      "onboard_time": 1727414123,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 221456,
@@ -707,6 +723,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 218201,
+      "num": 218201,
+      "word": "名媛培训班 就业率",
+      "onboard_time": 1727415081,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 217163,
       "num": 217163,
       "word": "撤单",
@@ -715,12 +739,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 212774,
-      "num": 212774,
-      "word": "张帅爆冷美网四强",
-      "onboard_time": 1727413821,
-      "rank": 37,
-      "category": "体育"
+      "raw_hot": 210525,
+      "num": 210525,
+      "word": "Uzi红温破防",
+      "onboard_time": 1727415020,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 209526,
@@ -851,20 +875,20 @@
       "category": "财经"
     },
     {
+      "raw_hot": 168965,
+      "num": 168965,
+      "word": "A股继续放量飙升",
+      "onboard_time": 1727413881,
+      "rank": 42,
+      "category": "财经"
+    },
+    {
       "raw_hot": 168739,
       "num": 168739,
       "word": "披荆斩棘4四公",
       "onboard_time": 1727412023,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 167694,
-      "num": 167694,
-      "word": "A股继续放量飙升",
-      "onboard_time": 1727413881,
-      "rank": 42,
-      "category": "财经"
     },
     {
       "raw_hot": 166957,
@@ -880,6 +904,14 @@
       "word": "东方财富",
       "onboard_time": 1727404880,
       "rank": 47,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 164711,
+      "num": 164711,
+      "word": "创业板指创历史最大单日涨幅",
+      "onboard_time": 1727415201,
+      "rank": 39,
       "category": "财经"
     },
     {
@@ -915,12 +947,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 154620,
-      "num": 154620,
+      "raw_hot": 157576,
+      "num": 157576,
       "word": "何超莲陈昊宇侯佩岑同框",
       "onboard_time": 1727414360,
       "rank": 44,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 154594,
+      "num": 524407,
+      "word": "上交所交易陆续恢复正常",
+      "onboard_time": 1727409979,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 154404,
@@ -963,20 +1003,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 150000,
-      "num": 524407,
-      "word": "上交所交易陆续恢复正常",
-      "onboard_time": 1727409979,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 147668,
       "num": 420555,
       "word": "上交所回应交易宕机",
       "onboard_time": 1727406680,
       "rank": 8,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 145237,
+      "num": 438557,
+      "word": "有股民不想放国庆假了",
+      "onboard_time": 1727413222,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 145043,
@@ -1009,6 +1049,14 @@
       "onboard_time": 1727391014,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 136760,
+      "num": 136760,
+      "word": "日本教练说中国球员有两个优点",
+      "onboard_time": 1727415081,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 136319,
@@ -1089,6 +1137,14 @@
       "onboard_time": 1727396778,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 115030,
+      "num": 413044,
+      "word": "向太曾为拒绝做舞女轻生",
+      "onboard_time": 1727414481,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 114847,
@@ -1219,6 +1275,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 88117,
+      "num": 416120,
+      "word": "于文文是懂追线下的",
+      "onboard_time": 1727414123,
+      "rank": 17,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 85772,
       "num": 100408,
       "word": "WMA回应单依纯口误",
@@ -1243,6 +1307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 83324,
+      "num": 422886,
+      "word": "不到30分钟两市成交超5000亿元",
+      "onboard_time": 1727413522,
+      "rank": 14,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 79058,
       "num": 82220,
       "word": "住宿前一定要先检查这4个地方",
@@ -1251,11 +1323,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 75531,
-      "num": 438557,
-      "word": "有股民不想放国庆假了",
-      "onboard_time": 1727413222,
-      "rank": 9,
+      "raw_hot": 76202,
+      "num": 430025,
+      "word": "利率下调对普通百姓有啥利好",
+      "onboard_time": 1727413582,
+      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -1305,14 +1377,6 @@
       "onboard_time": 1727365398,
       "rank": 48,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 66715,
-      "num": 422886,
-      "word": "不到30分钟两市成交超5000亿元",
-      "onboard_time": 1727413522,
-      "rank": 14,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 66547,
@@ -1379,12 +1443,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 59328,
-      "num": 416120,
-      "word": "于文文是懂追线下的",
-      "onboard_time": 1727414123,
-      "rank": 17,
-      "category": "音乐"
+      "raw_hot": 57406,
+      "num": 409773,
+      "word": "卷学历和卷考公到底该怎么选",
+      "onboard_time": 1727414241,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 54427,
@@ -1411,28 +1475,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 48141,
-      "num": 430025,
-      "word": "利率下调对普通百姓有啥利好",
-      "onboard_time": 1727413582,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 46127,
       "num": 233217,
       "word": "以色列定居者乘船观看轰炸加沙",
       "onboard_time": 1727406920,
       "rank": 29,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 45176,
-      "num": 413044,
-      "word": "向太曾为拒绝做舞女轻生",
-      "onboard_time": 1727414481,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 44974,
@@ -1499,12 +1547,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 34794,
-      "num": 409773,
-      "word": "卷学历和卷考公到底该怎么选",
-      "onboard_time": 1727414241,
-      "rank": 19,
-      "category": "社会新闻"
+      "raw_hot": 35038,
+      "num": 312195,
+      "word": "于正去看了出入平安",
+      "onboard_time": 1727412742,
+      "rank": 16,
+      "category": "电影"
     },
     {
       "raw_hot": 33782,
@@ -1579,6 +1627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 25862,
+      "num": 724069,
+      "word": "新电商新风尚",
+      "onboard_time": 1727409859,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 22744,
       "num": 313503,
       "word": "中国智能电车已经NEXTLEVEL了吗",
@@ -1599,14 +1655,6 @@
       "num": 661843,
       "word": "我国无人驾驶重载列车首试成功",
       "onboard_time": 1727348479,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 20883,
-      "num": 724069,
-      "word": "新电商新风尚",
-      "onboard_time": 1727409859,
       "rank": 2,
       "category": "社会新闻"
     },

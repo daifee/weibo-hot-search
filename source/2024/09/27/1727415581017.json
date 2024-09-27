@@ -1,0 +1,410 @@
+{
+  "runTime": 1727415581017,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1010135,
+        "num": 1161621,
+        "word": "浙江婚假",
+        "onboard_time": 1727402842,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 650025,
+        "num": 650025,
+        "word": "贾玲不再担任大碗娱乐职务",
+        "onboard_time": 1727398761,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25862,
+        "num": 534560,
+        "word": "新电商新风尚",
+        "onboard_time": 1727409859,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 515113,
+        "num": 515113,
+        "word": "A股",
+        "onboard_time": 1727400498,
+        "rank": 3,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 505872,
+        "num": 505872,
+        "word": "大碗娱乐所有艺人合约到期不续",
+        "onboard_time": 1727399419,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 470631,
+        "num": 470631,
+        "word": "东北雨姐回应客服骂人",
+        "onboard_time": 1727411721,
+        "rank": 5,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 468212,
+        "num": 468212,
+        "word": "戚薇蔡徐坤合照",
+        "onboard_time": 1727411601,
+        "rank": 6,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 428635,
+        "num": 428635,
+        "word": "芬兰计划提前归还大熊猫",
+        "onboard_time": 1727404939,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26078,
+        "num": 427062,
+        "word": "专家解读央行降准降息落地",
+        "onboard_time": 1727414000,
+        "rank": 8,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 191527,
+        "num": 416064,
+        "word": "今天起浙江婚假延长至13天",
+        "onboard_time": 1727403380,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1929812,
+        "num": 413987,
+        "word": "名媛培训班",
+        "onboard_time": 1727413881,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1254424,
+        "num": 403571,
+        "word": "女高管与下属约会开房被开除",
+        "onboard_time": 1727412862,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 927828,
+        "num": 393560,
+        "word": "遭教官体罚进ICU的14岁女孩离世",
+        "onboard_time": 1727407160,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 392469,
+        "num": 392469,
+        "word": "专家称A股3000点应该能站稳",
+        "onboard_time": 1727408299,
+        "rank": 13,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 355100,
+        "num": 355100,
+        "word": "多方回应9岁女童在偏僻地点带伤身亡",
+        "onboard_time": 1727409200,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 352254,
+        "num": 352254,
+        "word": "易梦玲赵美延同框",
+        "onboard_time": 1727412682,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 35038,
+        "num": 312195,
+        "word": "于正去看了出入平安",
+        "onboard_time": 1727412742,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 309190,
+        "num": 309190,
+        "word": "张帅爆冷美网四强",
+        "onboard_time": 1727413821,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115030,
+        "num": 308806,
+        "word": "向太曾为拒绝做舞女轻生",
+        "onboard_time": 1727414481,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 57406,
+        "num": 307383,
+        "word": "卷学历和卷考公到底该怎么选",
+        "onboard_time": 1727414241,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 386756,
+        "num": 305370,
+        "word": "Kim成熟了好多",
+        "onboard_time": 1727413940,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 384112,
+        "num": 304392,
+        "word": "湖南一9岁女童身亡未穿衣服身上有伤",
+        "onboard_time": 1727413881,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 303948,
+        "num": 303948,
+        "word": "武艺一家痛失本名",
+        "onboard_time": 1727413641,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 261565,
+        "num": 261565,
+        "word": "日本歌手酸欠少女去世",
+        "onboard_time": 1727408419,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 253226,
+        "num": 253226,
+        "word": "浙江领证未满1年新人也享受13天婚假",
+        "onboard_time": 1727405539,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251734,
+        "num": 251734,
+        "word": "A股牛甄嬛回宫",
+        "onboard_time": 1727409859,
+        "rank": 25,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 242017,
+        "num": 242017,
+        "word": "王皓说王楚钦是承上启下",
+        "onboard_time": 1727401399,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 235299,
+        "num": 235299,
+        "word": "股民想让A股在国庆加个班",
+        "onboard_time": 1727407519,
+        "rank": 27,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 234116,
+        "num": 234116,
+        "word": "淘宝微信支付",
+        "onboard_time": 1727414960,
+        "rank": 28,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 228528,
+        "num": 228528,
+        "word": "马琳说国乒女队从零开始",
+        "onboard_time": 1727414123,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 226232,
+        "num": 226232,
+        "word": "大量淘宝用户刷出微信支付界面",
+        "onboard_time": 1727402479,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 76202,
+        "num": 223363,
+        "word": "利率下调对普通百姓有啥利好",
+        "onboard_time": 1727413582,
+        "rank": 31,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 223225,
+        "num": 223225,
+        "word": "王皓说樊振东还在过渡期",
+        "onboard_time": 1727410640,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 218201,
+        "num": 218201,
+        "word": "名媛培训班 就业率",
+        "onboard_time": 1727415081,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210525,
+        "num": 210525,
+        "word": "Uzi红温破防",
+        "onboard_time": 1727415020,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 206584,
+        "num": 206584,
+        "word": "毛不易 希望大家一开场就哭",
+        "onboard_time": 1727413341,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 187645,
+        "num": 187645,
+        "word": "北上 速速定档",
+        "onboard_time": 1727414123,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172868,
+        "num": 172868,
+        "word": "我已出舱感觉良好有16年了",
+        "onboard_time": 1727407099,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 168965,
+        "num": 168965,
+        "word": "A股继续放量飙升",
+        "onboard_time": 1727413881,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 164711,
+        "num": 164711,
+        "word": "创业板指创历史最大单日涨幅",
+        "onboard_time": 1727415201,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 160996,
+        "num": 160996,
+        "word": "熊猫丫丫腮帮子耷拉到肩膀上了",
+        "onboard_time": 1727403559,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 88117,
+        "num": 157766,
+        "word": "于文文是懂追线下的",
+        "onboard_time": 1727414123,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 83324,
+        "num": 157586,
+        "word": "不到30分钟两市成交超5000亿元",
+        "onboard_time": 1727413522,
+        "rank": 42,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 157576,
+        "num": 157576,
+        "word": "何超莲陈昊宇侯佩岑同框",
+        "onboard_time": 1727414360,
+        "rank": 43,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 154594,
+        "num": 154594,
+        "word": "上交所交易陆续恢复正常",
+        "onboard_time": 1727409979,
+        "rank": 44,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 149439,
+        "num": 149439,
+        "word": "上交所交易系统出现延迟现象",
+        "onboard_time": 1727405001,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 145237,
+        "num": 145237,
+        "word": "有股民不想放国庆假了",
+        "onboard_time": 1727413222,
+        "rank": 46,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 138922,
+        "num": 138922,
+        "word": "张杰回应内娱演唱会劳模",
+        "onboard_time": 1727411421,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 138719,
+        "num": 138719,
+        "word": "巴总统问以色列谁杀了1.5万名儿童",
+        "onboard_time": 1727399479,
+        "rank": 48,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 136760,
+        "num": 136760,
+        "word": "日本教练说中国球员有两个优点",
+        "onboard_time": 1727415081,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#要像石榴籽一样紧紧抱在一起#"
+    }
+  }
+}
