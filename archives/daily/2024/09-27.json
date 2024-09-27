@@ -1,6 +1,6 @@
 {
   "startTime": 1727368091089,
-  "endTime": 1727408554961,
+  "endTime": 1727411211740,
   "band_list": [
     {
       "raw_hot": 4551944,
@@ -9,6 +9,14 @@
       "onboard_time": 1727398761,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2522422,
+      "num": 844302,
+      "word": "遭教官体罚进ICU的14岁女孩离世",
+      "onboard_time": 1727407160,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2424899,
@@ -83,14 +91,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 844302,
-      "num": 844302,
-      "word": "遭教官体罚进ICU的14岁女孩离世",
-      "onboard_time": 1727407160,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 834222,
       "num": 834222,
       "word": "教育局通报家长跪求取消钉钉打卡",
@@ -105,6 +105,22 @@
       "onboard_time": 1727402479,
       "rank": 7,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 706023,
+      "num": 684196,
+      "word": "日本歌手酸欠少女去世",
+      "onboard_time": 1727408419,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 694788,
+      "num": 694788,
+      "word": "芬兰计划提前归还大熊猫",
+      "onboard_time": 1727404939,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 675407,
@@ -155,12 +171,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 531312,
+      "num": 531312,
+      "word": "浙江领证未满1年新人也享受13天婚假",
+      "onboard_time": 1727405539,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 492871,
+      "num": 492871,
+      "word": "我已出舱感觉良好有16年了",
+      "onboard_time": 1727407099,
+      "rank": 23,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 480792,
       "num": 480792,
       "word": "以色列被禁止以国家名义参加国际竞赛",
       "onboard_time": 1727357481,
       "rank": 4,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 477942,
+      "num": 477942,
+      "word": "今天起浙江婚假延长至13天",
+      "onboard_time": 1727403380,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 473442,
@@ -179,19 +219,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 428483,
-      "num": 428483,
-      "word": "浙江领证未满1年新人也享受13天婚假",
-      "onboard_time": 1727405539,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 419591,
-      "num": 419591,
-      "word": "今天起浙江婚假延长至13天",
-      "onboard_time": 1727403380,
-      "rank": 11,
+      "raw_hot": 417371,
+      "num": 417371,
+      "word": "多方回应9岁女童在偏僻地点带伤身亡",
+      "onboard_time": 1727409200,
+      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -211,14 +243,6 @@
       "category": "互联网,财经"
     },
     {
-      "raw_hot": 404125,
-      "num": 404125,
-      "word": "芬兰计划提前归还大熊猫",
-      "onboard_time": 1727404939,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 393960,
       "num": 393960,
       "word": "三只羊被罚款没收违法所得6894.91万",
@@ -233,14 +257,6 @@
       "onboard_time": 1727364200,
       "rank": 6,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 368927,
-      "num": 368927,
-      "word": "我已出舱感觉良好有16年了",
-      "onboard_time": 1727407099,
-      "rank": 23,
-      "category": "国内时政"
     },
     {
       "raw_hot": 364798,
@@ -315,6 +331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 333815,
+      "num": 448414,
+      "word": "股民想让A股在国庆加个班",
+      "onboard_time": 1727407519,
+      "rank": 9,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 326956,
       "num": 326956,
       "word": "朴彩英签约大西洋唱片",
@@ -387,6 +411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 288658,
+      "num": 490744,
+      "word": "黑色月光定档",
+      "onboard_time": 1727408839,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 283480,
       "num": 283480,
       "word": "知道螃蟹为啥要绑着蒸了",
@@ -403,12 +435,28 @@
       "category": "财经,互联网"
     },
     {
+      "raw_hot": 279287,
+      "num": 481837,
+      "word": "十个勤天团综开播",
+      "onboard_time": 1727408061,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 275677,
       "num": 389442,
       "word": "巴勒斯坦总统连说3遍不会离开家园",
       "onboard_time": 1727399599,
       "rank": 8,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 270414,
+      "num": 270414,
+      "word": "凤凰传奇上海抢票",
+      "onboard_time": 1727410760,
+      "rank": 24,
+      "category": "演出"
     },
     {
       "raw_hot": 269779,
@@ -419,20 +467,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 266317,
+      "num": 409853,
+      "word": "上交所发布股票交易异常情况公告",
+      "onboard_time": 1727407399,
+      "rank": 18,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 263635,
-      "num": 263635,
+      "num": 335395,
       "word": "王嘉尔samuel竟然认识",
       "onboard_time": 1727403680,
       "rank": 22,
       "category": "音乐"
     },
     {
-      "raw_hot": 251013,
-      "num": 217256,
-      "word": "日本歌手酸欠少女去世",
-      "onboard_time": 1727408419,
-      "rank": 30,
-      "category": "艺人"
+      "raw_hot": 259579,
+      "num": 259579,
+      "word": "16吨中国大白菜已运抵韩国",
+      "onboard_time": 1727404760,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 248292,
@@ -449,6 +505,22 @@
       "onboard_time": 1727360302,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 235578,
+      "num": 263881,
+      "word": "大山女孩的两种结局",
+      "onboard_time": 1727409920,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 234024,
+      "num": 234024,
+      "word": "王皓说樊振东还在过渡期",
+      "onboard_time": 1727410640,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 233945,
@@ -539,20 +611,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 208730,
-      "num": 412388,
-      "word": "十个勤天团综开播",
-      "onboard_time": 1727408061,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 204802,
       "num": 204802,
       "word": "上证指数",
       "onboard_time": 1727405420,
       "rank": 40,
       "category": "财经"
+    },
+    {
+      "raw_hot": 203742,
+      "num": 262532,
+      "word": "十个勤天专辑",
+      "onboard_time": 1727410462,
+      "rank": 27,
+      "category": "音乐"
     },
     {
       "raw_hot": 202352,
@@ -564,7 +636,7 @@
     },
     {
       "raw_hot": 197751,
-      "num": 197751,
+      "num": 530129,
       "word": "创业板",
       "onboard_time": 1727408360,
       "rank": 36,
@@ -579,12 +651,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 193626,
+      "num": 193626,
+      "word": "股民建议取消国庆假期",
+      "onboard_time": 1727410521,
+      "rank": 35,
+      "category": "财经"
+    },
+    {
       "raw_hot": 188526,
       "num": 219213,
       "word": "杨紫一抹蓝现场小记录",
       "onboard_time": 1727407819,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 183728,
+      "num": 186188,
+      "word": "德云社节目单",
+      "onboard_time": 1727409440,
+      "rank": 37,
+      "category": "演出"
     },
     {
       "raw_hot": 183054,
@@ -611,27 +699,19 @@
       "category": "美食"
     },
     {
-      "raw_hot": 175732,
-      "num": 237573,
-      "word": "16吨中国大白菜已运抵韩国",
-      "onboard_time": 1727404760,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 175077,
-      "num": 409853,
-      "word": "上交所发布股票交易异常情况公告",
-      "onboard_time": 1727407399,
-      "rank": 18,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 174407,
       "num": 174407,
       "word": "车位被占男子竟把对方车砸了",
       "onboard_time": 1727402120,
       "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 173408,
+      "num": 231312,
+      "word": "巴适四川等你来",
+      "onboard_time": 1727402659,
+      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -648,6 +728,14 @@
       "word": "中国住宅要取消公摊了吗",
       "onboard_time": 1727341759,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 166401,
+      "num": 413245,
+      "word": "专家称A股3000点应该能站稳",
+      "onboard_time": 1727408299,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -691,14 +779,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 153278,
-      "num": 231312,
-      "word": "巴适四川等你来",
-      "onboard_time": 1727402659,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 152690,
       "num": 186161,
       "word": "Capper周震南啃苹果官宣演唱会",
@@ -721,6 +801,14 @@
       "onboard_time": 1727407578,
       "rank": 48,
       "category": "健康医疗,社会新闻"
+    },
+    {
+      "raw_hot": 144674,
+      "num": 144674,
+      "word": "真正适合轻断食的人",
+      "onboard_time": 1727410940,
+      "rank": 45,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 143777,
@@ -801,6 +889,14 @@
       "onboard_time": 1727369774,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 122554,
+      "num": 524407,
+      "word": "上交所交易陆续恢复正常",
+      "onboard_time": 1727409979,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 121767,
@@ -891,6 +987,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 99123,
+      "num": 530059,
+      "word": "A股牛甄嬛回宫",
+      "onboard_time": 1727409859,
+      "rank": 9,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 97514,
       "num": 97514,
       "word": "阿尔瓦雷斯绝杀",
@@ -900,7 +1004,7 @@
     },
     {
       "raw_hot": 97041,
-      "num": 165098,
+      "num": 261828,
       "word": "吴磊没懂嘻嘻不嘻嘻",
       "onboard_time": 1727402539,
       "rank": 48,
@@ -979,14 +1083,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 82336,
-      "num": 448414,
-      "word": "股民想让A股在国庆加个班",
-      "onboard_time": 1727407519,
-      "rank": 9,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 79058,
       "num": 82220,
       "word": "住宿前一定要先检查这4个地方",
@@ -1025,6 +1121,14 @@
       "onboard_time": 1727360603,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 71488,
+      "num": 481528,
+      "word": "商竣程vs布云朝克特",
+      "onboard_time": 1727411060,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 67295,
@@ -1147,12 +1251,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 36784,
-      "num": 413245,
-      "word": "专家称A股3000点应该能站稳",
-      "onboard_time": 1727408299,
-      "rank": 13,
-      "category": "社会新闻"
+      "raw_hot": 41458,
+      "num": 494997,
+      "word": "证券员工称客户群明显活跃问买什么",
+      "onboard_time": 1727411121,
+      "rank": 14,
+      "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 38491,
+      "num": 488322,
+      "word": "如鸢扬州河灯许愿",
+      "onboard_time": 1727407699,
+      "rank": 19,
+      "category": "游戏"
     },
     {
       "raw_hot": 36132,
@@ -1168,6 +1280,14 @@
       "word": "高中生用英语配音西游记经典片段",
       "onboard_time": 1727385672,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 32909,
+      "num": 839315,
+      "word": "文化中国行看黄渤海候鸟栖息地",
+      "onboard_time": 1727410220,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -1227,12 +1347,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 25438,
-      "num": 406333,
-      "word": "如鸢扬州河灯许愿",
-      "onboard_time": 1727407699,
-      "rank": 19,
-      "category": "游戏"
+      "raw_hot": 22744,
+      "num": 133592,
+      "word": "中国智能电车已经NEXTLEVEL了吗",
+      "onboard_time": 1727411182,
+      "rank": 49,
+      "category": "汽车"
     },
     {
       "raw_hot": 21622,
@@ -1313,6 +1433,9 @@
     },
     {
       "word": "#努力培养更多高素质新闻传播人才#"
+    },
+    {
+      "word": "#要像石榴籽一样紧紧抱在一起#"
     }
   ]
 }

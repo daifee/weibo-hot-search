@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/09/01 00:25:38 ~ 2024/09/27 11:42:34
+本榜单时间：2024/09/01 00:25:38 ~ 2024/09/27 12:26:51
 </p>
 </blockquote>
 <p>
@@ -599,6 +599,12 @@ iPhone16 抢购（热度：2690667）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23k%E6%80%BB%20%E9%80%80%E7%BD%91%23" target="weibo">
 k总 退网（热度：2551495）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%81%AD%E6%95%99%E5%AE%98%E4%BD%93%E7%BD%9A%E8%BF%9BICU%E7%9A%8414%E5%B2%81%E5%A5%B3%E5%AD%A9%E7%A6%BB%E4%B8%96%23" target="weibo">
+遭教官体罚进ICU的14岁女孩离世（热度：2522422）
 </a>
 </li>
 
@@ -6008,12 +6014,6 @@ iPhone16史上最容易维修iPhone（热度：900387）
 </a>
 </li>
 
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E7%9B%B4%E6%92%AD%E9%97%B4%E9%AB%98%E9%A2%9D%E8%BF%94%E5%88%A9%E9%AA%97%E5%B1%80%23" target="weibo">
-央视曝光直播间高额返利骗局（热度：864325）
-</a>
-</li>
-
 </ol>
 <h2>
 正能量
@@ -6593,6 +6593,12 @@ iPhone16史上最容易维修iPhone（热度：900387）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E5%8A%AA%E5%8A%9B%E5%9F%B9%E5%85%BB%E6%9B%B4%E5%A4%9A%E9%AB%98%E7%B4%A0%E8%B4%A8%E6%96%B0%E9%97%BB%E4%BC%A0%E6%92%AD%E4%BA%BA%E6%89%8D%23%23" target="weibo">
 #努力培养更多高素质新闻传播人才#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E8%A6%81%E5%83%8F%E7%9F%B3%E6%A6%B4%E7%B1%BD%E4%B8%80%E6%A0%B7%E7%B4%A7%E7%B4%A7%E6%8A%B1%E5%9C%A8%E4%B8%80%E8%B5%B7%23%23" target="weibo">
+#要像石榴籽一样紧紧抱在一起#
 </a>
 </li>
 
