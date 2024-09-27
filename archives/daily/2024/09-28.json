@@ -1,6 +1,6 @@
 {
   "startTime": 1727454453610,
-  "endTime": 1727454453610,
+  "endTime": 1727455417953,
   "band_list": [
     {
       "raw_hot": 801781,
@@ -51,6 +51,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 437266,
+      "num": 437266,
+      "word": "张淇 破音",
+      "onboard_time": 1727452578,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 415940,
       "num": 415940,
       "word": "斯内普",
@@ -73,14 +81,6 @@
       "onboard_time": 1727437880,
       "rank": 20,
       "category": "幽默,作品衍生"
-    },
-    {
-      "raw_hot": 318134,
-      "num": 318134,
-      "word": "张淇 破音",
-      "onboard_time": 1727452578,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 308166,
@@ -129,6 +129,14 @@
       "onboard_time": 1727444781,
       "rank": 15,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 219846,
+      "num": 265260,
+      "word": "关停饭圈相关违规账号10万余个",
+      "onboard_time": 1727453239,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 211636,
@@ -227,14 +235,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 118937,
-      "num": 265260,
-      "word": "关停饭圈相关违规账号10万余个",
-      "onboard_time": 1727453239,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 116773,
       "num": 116773,
       "word": "浙江IP到底有多幸福",
@@ -315,8 +315,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 82660,
-      "num": 82660,
+      "raw_hot": 83686,
+      "num": 83686,
       "word": "凡希亚puppet木偶舞",
       "onboard_time": 1727452938,
       "rank": 40,
@@ -395,6 +395,46 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 67217,
+      "num": 67217,
+      "word": "4个细节判断一个人靠不靠谱",
+      "onboard_time": 1727452219,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 66958,
+      "num": 66958,
+      "word": "打假博主称东北雨姐丈夫曾拿刀威胁",
+      "onboard_time": 1727455396,
+      "rank": 43,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 64227,
+      "num": 64227,
+      "word": "和叶太甜了吧",
+      "onboard_time": 1727454498,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 63357,
+      "num": 63357,
+      "word": "张杰献唱原神周年曲",
+      "onboard_time": 1727444361,
+      "rank": 47,
+      "category": "音乐,游戏"
+    },
+    {
+      "raw_hot": 61780,
+      "num": 62949,
+      "word": "艾薇 寒鸦少年",
+      "onboard_time": 1727455396,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 17562,
       "num": 510123,
       "word": "352个集体368名个人受到表彰",
@@ -406,6 +446,9 @@
   "hotgov_list": [
     {
       "word": "#各族人民都有一个共同名字就是中国人#"
+    },
+    {
+      "word": "#全国民族团结进步表彰大会#"
     }
   ]
 }

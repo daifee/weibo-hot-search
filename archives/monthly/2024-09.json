@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1727454453610,
+  "endTime": 1727455417953,
   "band_list": [
     {
       "raw_hot": 28035334,
@@ -18251,6 +18251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 437266,
+      "num": 437266,
+      "word": "张淇 破音",
+      "onboard_time": 1727452578,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 437083,
       "num": 289376,
       "word": "人到中年有多少存款才有安全感",
@@ -23753,14 +23761,6 @@
       "onboard_time": 1727070987,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 318134,
-      "num": 318134,
-      "word": "张淇 破音",
-      "onboard_time": 1727452578,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 318119,
@@ -33657,6 +33657,14 @@
       "onboard_time": 1726641019,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 219846,
+      "num": 265260,
+      "word": "关停饭圈相关违规账号10万余个",
+      "onboard_time": 1727453239,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 219837,
@@ -62563,14 +62571,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 118937,
-      "num": 265260,
-      "word": "关停饭圈相关违规账号10万余个",
-      "onboard_time": 1727453239,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 118783,
       "num": 262690,
       "word": "古人的螃蟹手办全身都是机关",
@@ -67875,6 +67875,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 83686,
+      "num": 83686,
+      "word": "凡希亚puppet木偶舞",
+      "onboard_time": 1727452938,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 83680,
       "num": 83680,
       "word": "西部战区辟谣",
@@ -68009,14 +68017,6 @@
       "onboard_time": 1726156458,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 82660,
-      "num": 82660,
-      "word": "凡希亚puppet木偶舞",
-      "onboard_time": 1727452938,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 82335,
@@ -69971,6 +69971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 67217,
+      "num": 67217,
+      "word": "4个细节判断一个人靠不靠谱",
+      "onboard_time": 1727452219,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 67164,
       "num": 67164,
       "word": "王安宇秒认秦海璐",
@@ -70017,6 +70025,14 @@
       "onboard_time": 1726663105,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 66958,
+      "num": 66958,
+      "word": "打假博主称东北雨姐丈夫曾拿刀威胁",
+      "onboard_time": 1727455396,
+      "rank": 43,
+      "category": "网红"
     },
     {
       "raw_hot": 66918,
@@ -70411,6 +70427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 64227,
+      "num": 64227,
+      "word": "和叶太甜了吧",
+      "onboard_time": 1727454498,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 64165,
       "num": 104661,
       "word": "边伯贤演唱会后有戒断反应",
@@ -70785,6 +70809,14 @@
       "onboard_time": 1725826752,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 61780,
+      "num": 62949,
+      "word": "艾薇 寒鸦少年",
+      "onboard_time": 1727455396,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 61770,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/09/22 00:27:00 ~ 2024/09/28 00:27:33
+本榜单时间：2024/09/22 00:27:00 ~ 2024/09/28 00:43:37
 </p>
 </blockquote>
 <p>
@@ -2937,6 +2937,12 @@ R1SE合影（热度：489495）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%B7%87%20%E7%A0%B4%E9%9F%B3%23" target="weibo">
+张淇 破音（热度：437266）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E8%B5%AB%E5%BC%A0%E5%AD%90%E8%90%B1%E8%B4%B4%E8%84%B8%E7%A7%80%E6%81%A9%E7%88%B1%23" target="weibo">
 陈赫张子萱贴脸秀恩爱（热度：434296）
 </a>
@@ -4001,12 +4007,6 @@ TFBOYS恭喜王俊凯全球代言（热度：331060）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E7%8A%AC%E5%8F%A3%E6%B0%B4%E9%83%BD%E6%8B%89%E4%B8%9D%E4%BA%86%E6%84%A3%E6%98%AF%E4%B8%80%E5%8F%A3%E6%B2%A1%E5%90%83%23" target="weibo">
 警犬口水都拉丝了愣是一口没吃（热度：318163）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%B7%87%20%E7%A0%B4%E9%9F%B3%23" target="weibo">
-张淇 破音（热度：318134）
 </a>
 </li>
 
@@ -5657,6 +5657,12 @@ A股超5200只股票上涨（热度：231560）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23IGN%23" target="weibo">
 IGN（热度：220555）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%B3%E5%81%9C%E9%A5%AD%E5%9C%88%E7%9B%B8%E5%85%B3%E8%BF%9D%E8%A7%84%E8%B4%A6%E5%8F%B710%E4%B8%87%E4%BD%99%E4%B8%AA%23" target="weibo">
+关停饭圈相关违规账号10万余个（热度：219846）
 </a>
 </li>
 
@@ -10797,12 +10803,6 @@ A股首个3000亿股票ETF（热度：119782）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%85%B3%E5%81%9C%E9%A5%AD%E5%9C%88%E7%9B%B8%E5%85%B3%E8%BF%9D%E8%A7%84%E8%B4%A6%E5%8F%B710%E4%B8%87%E4%BD%99%E4%B8%AA%23" target="weibo">
-关停饭圈相关违规账号10万余个（热度：118937）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%8D%9A%E6%81%92%E7%BB%99%E5%B8%88%E5%85%84%E9%A2%81%E5%8F%91%E5%A5%96%E7%89%8C%23" target="weibo">
 张博恒给师兄颁发奖牌（热度：118780）
 </a>
@@ -11769,6 +11769,12 @@ KSG单日三鸡（热度：93073）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%87%A1%E5%B8%8C%E4%BA%9Apuppet%E6%9C%A8%E5%81%B6%E8%88%9E%23" target="weibo">
+凡希亚puppet木偶舞（热度：83686）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8D%E5%88%B030%E5%88%86%E9%92%9F%E4%B8%A4%E5%B8%82%E6%88%90%E4%BA%A4%E8%B6%855000%E4%BA%BF%E5%85%83%23" target="weibo">
 不到30分钟两市成交超5000亿元（热度：83324）
 </a>
@@ -11795,12 +11801,6 @@ Echo 答案之书（热度：83289）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8A%A0%E6%B2%99%E6%AD%BB%E8%80%85%E5%90%8D%E5%8D%95%E5%89%8D14%E9%A1%B5%E9%83%BD%E6%98%AF%E5%A9%B4%E5%84%BF%23" target="weibo">
 加沙死者名单前14页都是婴儿（热度：82769）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%87%A1%E5%B8%8C%E4%BA%9Apuppet%E6%9C%A8%E5%81%B6%E8%88%9E%23" target="weibo">
-凡希亚puppet木偶舞（热度：82660）
 </a>
 </li>
 
@@ -12201,6 +12201,18 @@ aespa和ILLIT同一天回归（热度：68490）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%234%E4%B8%AA%E7%BB%86%E8%8A%82%E5%88%A4%E6%96%AD%E4%B8%80%E4%B8%AA%E4%BA%BA%E9%9D%A0%E4%B8%8D%E9%9D%A0%E8%B0%B1%23" target="weibo">
+4个细节判断一个人靠不靠谱（热度：67217）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%89%93%E5%81%87%E5%8D%9A%E4%B8%BB%E7%A7%B0%E4%B8%9C%E5%8C%97%E9%9B%A8%E5%A7%90%E4%B8%88%E5%A4%AB%E6%9B%BE%E6%8B%BF%E5%88%80%E5%A8%81%E8%83%81%23" target="weibo">
+打假博主称东北雨姐丈夫曾拿刀威胁（热度：66958）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%238%E5%A4%A9%E5%A9%B4%E5%84%BF%E5%91%9B%E5%A5%B6%E7%88%B8%E7%88%B8%E6%B5%B7%E5%A7%86%E7%AB%8B%E5%85%8B%E6%80%A5%E6%95%91%23" target="weibo">
 8天婴儿呛奶爸爸海姆立克急救（热度：66706）
 </a>
@@ -12291,6 +12303,12 @@ aespa和ILLIT同一天回归（热度：68490）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%92%8C%E5%8F%B6%E5%A4%AA%E7%94%9C%E4%BA%86%E5%90%A7%23" target="weibo">
+和叶太甜了吧（热度：64227）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%B9%E5%87%80%E6%B1%89%E5%85%A5%E4%BC%8D%E5%89%8D%E5%8F%91%E6%96%87%23" target="weibo">
 尹净汉入伍前发文（热度：64109）
 </a>
@@ -12365,6 +12383,12 @@ aespa和ILLIT同一天回归（热度：68490）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%87%E5%8C%96%E4%B8%AD%E5%9B%BD%E8%A1%8C%E5%8F%91%E7%8E%B0%E8%8A%82%E6%B0%94%E4%B9%8B%E7%BE%8E%23" target="weibo">
 文化中国行发现节气之美（热度：61831）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%89%BE%E8%96%87%20%E5%AF%92%E9%B8%A6%E5%B0%91%E5%B9%B4%23" target="weibo">
+艾薇 寒鸦少年（热度：61780）
 </a>
 </li>
 
