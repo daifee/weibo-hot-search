@@ -1,6 +1,6 @@
 {
   "startTime": 1726936020707,
-  "endTime": 1727405620922,
+  "endTime": 1727406179493,
   "band_list": [
     {
       "raw_hot": 12357374,
@@ -171,20 +171,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 2266801,
+      "num": 2266801,
+      "word": "浙江婚假",
+      "onboard_time": 1727402842,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2264608,
       "num": 2264608,
       "word": "100万元房贷30年将少还10万",
       "onboard_time": 1727144118,
       "rank": 0,
       "category": "财经"
-    },
-    {
-      "raw_hot": 2205529,
-      "num": 2205529,
-      "word": "浙江婚假",
-      "onboard_time": 1727402842,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2201849,
@@ -619,6 +619,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1412535,
+      "num": 1412535,
+      "word": "上交所交易系统出现延迟现象",
+      "onboard_time": 1727405001,
+      "rank": 4,
+      "category": "财经"
+    },
+    {
       "raw_hot": 1407698,
       "num": 1407698,
       "word": "LV认领孙颖莎",
@@ -867,6 +875,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1203633,
+      "num": 1203633,
+      "word": "A股",
+      "onboard_time": 1727058979,
+      "rank": 49,
+      "category": "财经"
+    },
+    {
       "raw_hot": 1191794,
       "num": 1171363,
       "word": "赵丽颖雷佳音没睡醒就要开会",
@@ -907,14 +923,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 1157218,
-      "num": 1157218,
-      "word": "上交所交易系统出现延迟现象",
-      "onboard_time": 1727405001,
-      "rank": 4,
-      "category": "财经"
-    },
-    {
       "raw_hot": 1147156,
       "num": 1183545,
       "word": "樊振东退场忘关麦和全红婵开心对话",
@@ -929,14 +937,6 @@
       "onboard_time": 1727233280,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1145349,
-      "num": 1145349,
-      "word": "A股",
-      "onboard_time": 1727058979,
-      "rank": 49,
-      "category": "财经"
     },
     {
       "raw_hot": 1139729,
@@ -4947,6 +4947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 300693,
+      "num": 300693,
+      "word": "浙江领证未满1年新人也享受13天婚假",
+      "onboard_time": 1727405539,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 299293,
       "num": 449016,
       "word": "2024只剩99天了",
@@ -5161,6 +5169,14 @@
       "onboard_time": 1727154321,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 282081,
+      "num": 282081,
+      "word": "多家炒股软件崩了",
+      "onboard_time": 1727404459,
+      "rank": 17,
+      "category": "财经,互联网"
     },
     {
       "raw_hot": 281822,
@@ -5513,14 +5529,6 @@
       "onboard_time": 1727239460,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 264617,
-      "num": 264617,
-      "word": "多家炒股软件崩了",
-      "onboard_time": 1727404459,
-      "rank": 17,
-      "category": "财经,互联网"
     },
     {
       "raw_hot": 264471,
@@ -6139,6 +6147,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 236851,
+      "num": 236851,
+      "word": "同花顺",
+      "onboard_time": 1727405001,
+      "rank": 38,
+      "category": "互联网,财经"
+    },
+    {
       "raw_hot": 236827,
       "num": 219653,
       "word": "180斤男生3月怒减40斤桃花都多了",
@@ -6411,6 +6427,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 227165,
+      "num": 261004,
+      "word": "浙江婚假新规正式通过",
+      "onboard_time": 1727404161,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 227064,
       "num": 227064,
       "word": "撤回一个刘浩存",
@@ -6449,14 +6473,6 @@
       "onboard_time": 1727068889,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 225518,
-      "num": 225518,
-      "word": "浙江婚假新规正式通过",
-      "onboard_time": 1727404161,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 224701,
@@ -7803,14 +7819,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 196248,
-      "num": 196248,
-      "word": "浙江领证未满1年新人也享受13天婚假",
-      "onboard_time": 1727405539,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 196221,
       "num": 196221,
       "word": "BOYNEXTDOOR首次世巡海报",
@@ -7913,6 +7921,14 @@
       "onboard_time": 1727148680,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 195510,
+      "num": 195510,
+      "word": "上证指数",
+      "onboard_time": 1727405420,
+      "rank": 40,
+      "category": "财经"
     },
     {
       "raw_hot": 195479,
@@ -8051,14 +8067,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 193572,
-      "num": 193572,
-      "word": "同花顺",
-      "onboard_time": 1727405001,
-      "rank": 38,
-      "category": "互联网,财经"
-    },
-    {
       "raw_hot": 193522,
       "num": 193522,
       "word": "宋雨琦直播",
@@ -8177,14 +8185,6 @@
       "onboard_time": 1726999880,
       "rank": 28,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 191699,
-      "num": 191699,
-      "word": "上证指数",
-      "onboard_time": 1727405420,
-      "rank": 40,
-      "category": "财经"
     },
     {
       "raw_hot": 191460,
@@ -8459,6 +8459,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 187530,
+      "num": 187530,
+      "word": "东北雨姐称将追责P图博主",
+      "onboard_time": 1727403559,
+      "rank": 43,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 187454,
       "num": 187454,
       "word": "王者合金弹头新联动",
@@ -8729,14 +8737,6 @@
       "onboard_time": 1727095520,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 183121,
-      "num": 183121,
-      "word": "东北雨姐称将追责P图博主",
-      "onboard_time": 1727403559,
-      "rank": 43,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 183098,
@@ -9049,6 +9049,14 @@
       "onboard_time": 1726976060,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 176792,
+      "num": 176792,
+      "word": "中国人首次太空漫步16周年",
+      "onboard_time": 1727405900,
+      "rank": 41,
+      "category": "国内时政"
     },
     {
       "raw_hot": 176619,
@@ -10345,6 +10353,14 @@
       "onboard_time": 1727352678,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 153278,
+      "num": 231312,
+      "word": "巴适四川等你来",
+      "onboard_time": 1727402659,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 152846,
@@ -12059,14 +12075,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 127317,
-      "num": 231312,
-      "word": "巴适四川等你来",
-      "onboard_time": 1727402659,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 127304,
       "num": 127304,
       "word": "困在看妇科的女性们",
@@ -13163,6 +13171,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 105961,
+      "num": 264254,
+      "word": "芬兰计划提前归还大熊猫",
+      "onboard_time": 1727404939,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 105856,
       "num": 105856,
       "word": "这周日需要上班",
@@ -13505,14 +13521,6 @@
       "onboard_time": 1727366476,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 92453,
-      "num": 264254,
-      "word": "芬兰计划提前归还大熊猫",
-      "onboard_time": 1727404939,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 92360,
@@ -14747,6 +14755,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 55618,
+      "num": 237573,
+      "word": "16吨中国大白菜已运抵韩国",
+      "onboard_time": 1727404760,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 55568,
       "num": 499519,
       "word": "75人因贵州一煤矿重大火灾被追责问责",
@@ -14931,6 +14947,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 51323,
+      "num": 283731,
+      "word": "禁止新能源车在地库停放是否合法",
+      "onboard_time": 1727404520,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 51282,
       "num": 419603,
       "word": "舍不得星星新浪扫楼",
@@ -14953,14 +14977,6 @@
       "onboard_time": 1727111115,
       "rank": 42,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 50948,
-      "num": 269507,
-      "word": "禁止新能源车在地库停放是否合法",
-      "onboard_time": 1727404520,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 50864,
@@ -15488,14 +15504,6 @@
       "word": "揭秘网红医生伪科普生意经",
       "onboard_time": 1727186841,
       "rank": 18,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 42341,
-      "num": 230020,
-      "word": "16吨中国大白菜已运抵韩国",
-      "onboard_time": 1727404760,
-      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -16251,6 +16259,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 29388,
+      "num": 266521,
+      "word": "迪丽热巴街拍穿小棉袄",
+      "onboard_time": 1727406020,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 29386,
       "num": 319673,
       "word": "5399元报篮球班课没上成退费慢",
@@ -16572,7 +16588,7 @@
     },
     {
       "raw_hot": 24716,
-      "num": 1647733,
+      "num": 1654192,
       "word": "中国红是国庆最美主色调",
       "onboard_time": 1727356880,
       "rank": 2,

@@ -1,6 +1,6 @@
 {
   "startTime": 1727368091089,
-  "endTime": 1727405620922,
+  "endTime": 1727406179493,
   "band_list": [
     {
       "raw_hot": 4551944,
@@ -19,8 +19,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2205529,
-      "num": 2205529,
+      "raw_hot": 2266801,
+      "num": 2266801,
       "word": "浙江婚假",
       "onboard_time": 1727402842,
       "rank": 1,
@@ -43,16 +43,16 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1157218,
-      "num": 1157218,
+      "raw_hot": 1412535,
+      "num": 1412535,
       "word": "上交所交易系统出现延迟现象",
       "onboard_time": 1727405001,
       "rank": 4,
       "category": "财经"
     },
     {
-      "raw_hot": 1145349,
-      "num": 1145349,
+      "raw_hot": 1203633,
+      "num": 1203633,
       "word": "A股",
       "onboard_time": 1727400498,
       "rank": 7,
@@ -291,6 +291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 300693,
+      "num": 300693,
+      "word": "浙江领证未满1年新人也享受13天婚假",
+      "onboard_time": 1727405539,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 298206,
       "num": 284163,
       "word": "东北雨姐团队称红薯粉条应该有问题",
@@ -347,6 +355,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 282081,
+      "num": 282081,
+      "word": "多家炒股软件崩了",
+      "onboard_time": 1727404459,
+      "rank": 17,
+      "category": "财经,互联网"
+    },
+    {
       "raw_hot": 275677,
       "num": 389442,
       "word": "巴勒斯坦总统连说3遍不会离开家园",
@@ -371,14 +387,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 264617,
-      "num": 264617,
-      "word": "多家炒股软件崩了",
-      "onboard_time": 1727404459,
-      "rank": 17,
-      "category": "财经,互联网"
-    },
-    {
       "raw_hot": 263635,
       "num": 263635,
       "word": "王嘉尔samuel竟然认识",
@@ -401,6 +409,14 @@
       "onboard_time": 1727360302,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 236851,
+      "num": 236851,
+      "word": "同花顺",
+      "onboard_time": 1727405001,
+      "rank": 38,
+      "category": "互联网,财经"
     },
     {
       "raw_hot": 233945,
@@ -443,8 +459,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 225518,
-      "num": 225518,
+      "raw_hot": 227165,
+      "num": 261004,
       "word": "浙江婚假新规正式通过",
       "onboard_time": 1727404161,
       "rank": 32,
@@ -467,12 +483,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 196248,
-      "num": 196248,
-      "word": "浙江领证未满1年新人也享受13天婚假",
-      "onboard_time": 1727405539,
-      "rank": 36,
-      "category": "社会新闻"
+      "raw_hot": 195510,
+      "num": 195510,
+      "word": "上证指数",
+      "onboard_time": 1727405420,
+      "rank": 40,
+      "category": "财经"
     },
     {
       "raw_hot": 193678,
@@ -483,22 +499,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 193572,
-      "num": 193572,
-      "word": "同花顺",
-      "onboard_time": 1727405001,
-      "rank": 38,
-      "category": "互联网,财经"
-    },
-    {
-      "raw_hot": 191699,
-      "num": 191699,
-      "word": "上证指数",
-      "onboard_time": 1727405420,
-      "rank": 40,
-      "category": "财经"
-    },
-    {
       "raw_hot": 190215,
       "num": 190215,
       "word": "撤单",
@@ -507,8 +507,8 @@
       "category": "财经"
     },
     {
-      "raw_hot": 183121,
-      "num": 183121,
+      "raw_hot": 187530,
+      "num": 187530,
       "word": "东北雨姐称将追责P图博主",
       "onboard_time": 1727403559,
       "rank": 43,
@@ -537,6 +537,14 @@
       "onboard_time": 1727404399,
       "rank": 44,
       "category": "美食"
+    },
+    {
+      "raw_hot": 176792,
+      "num": 176792,
+      "word": "中国人首次太空漫步16周年",
+      "onboard_time": 1727405900,
+      "rank": 41,
+      "category": "国内时政"
     },
     {
       "raw_hot": 174407,
@@ -585,6 +593,14 @@
       "onboard_time": 1727359580,
       "rank": 18,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 153278,
+      "num": 231312,
+      "word": "巴适四川等你来",
+      "onboard_time": 1727402659,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 152690,
@@ -665,14 +681,6 @@
       "onboard_time": 1727396299,
       "rank": 39,
       "category": "情感"
-    },
-    {
-      "raw_hot": 127317,
-      "num": 231312,
-      "word": "巴适四川等你来",
-      "onboard_time": 1727402659,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 125236,
@@ -763,6 +771,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 105961,
+      "num": 264254,
+      "word": "芬兰计划提前归还大熊猫",
+      "onboard_time": 1727404939,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 103999,
       "num": 103999,
       "word": "三只羊构成虚假的商业宣传",
@@ -809,14 +825,6 @@
       "onboard_time": 1727366476,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 92453,
-      "num": 264254,
-      "word": "芬兰计划提前归还大熊猫",
-      "onboard_time": 1727404939,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 91616,
@@ -979,6 +987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 55618,
+      "num": 237573,
+      "word": "16吨中国大白菜已运抵韩国",
+      "onboard_time": 1727404760,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 54427,
       "num": 82200,
       "word": "阿维塔07",
@@ -987,8 +1003,8 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 50948,
-      "num": 269507,
+      "raw_hot": 51323,
+      "num": 283731,
       "word": "禁止新能源车在地库停放是否合法",
       "onboard_time": 1727404520,
       "rank": 14,
@@ -1008,14 +1024,6 @@
       "word": "酒店偷拍事件中这些法律问题待厘清",
       "onboard_time": 1727392516,
       "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 42341,
-      "num": 230020,
-      "word": "16吨中国大白菜已运抵韩国",
-      "onboard_time": 1727404760,
-      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -1043,6 +1051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 29388,
+      "num": 266521,
+      "word": "迪丽热巴街拍穿小棉袄",
+      "onboard_time": 1727406020,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 28885,
       "num": 49573,
       "word": "厦门警方直播普法反复问刑不刑",
@@ -1068,7 +1084,7 @@
     },
     {
       "raw_hot": 24716,
-      "num": 1647733,
+      "num": 1654192,
       "word": "中国红是国庆最美主色调",
       "onboard_time": 1727356880,
       "rank": 2,
