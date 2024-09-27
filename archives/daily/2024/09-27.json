@@ -1,6 +1,6 @@
 {
   "startTime": 1727368091089,
-  "endTime": 1727406179493,
+  "endTime": 1727407644773,
   "band_list": [
     {
       "raw_hot": 4551944,
@@ -11,19 +11,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2424899,
+      "num": 2424899,
+      "word": "浙江婚假",
+      "onboard_time": 1727402842,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2291469,
       "num": 2291469,
       "word": "合肥通报三只羊问题调查情况",
       "onboard_time": 1727356461,
       "rank": 0,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2266801,
-      "num": 2266801,
-      "word": "浙江婚假",
-      "onboard_time": 1727402842,
-      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -91,6 +91,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 751144,
+      "num": 751144,
+      "word": "大量淘宝用户刷出微信支付界面",
+      "onboard_time": 1727402479,
+      "rank": 7,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 675407,
       "num": 675407,
       "word": "王皓说王楚钦是承上启下",
@@ -113,14 +121,6 @@
       "onboard_time": 1727399359,
       "rank": 6,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 592244,
-      "num": 592244,
-      "word": "大量淘宝用户刷出微信支付界面",
-      "onboard_time": 1727402479,
-      "rank": 7,
-      "category": "互联网"
     },
     {
       "raw_hot": 591226,
@@ -171,6 +171,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 424119,
+      "num": 424119,
+      "word": "浙江领证未满1年新人也享受13天婚假",
+      "onboard_time": 1727405539,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 419591,
+      "num": 419591,
+      "word": "今天起浙江婚假延长至13天",
+      "onboard_time": 1727403380,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 415849,
       "num": 261360,
       "word": "迪丽热巴少来烦姐挂件",
@@ -203,6 +219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 364071,
+      "num": 364071,
+      "word": "同花顺",
+      "onboard_time": 1727405001,
+      "rank": 38,
+      "category": "互联网,财经"
+    },
+    {
       "raw_hot": 360715,
       "num": 248720,
       "word": "7天轻断食瘦了9斤",
@@ -225,14 +249,6 @@
       "onboard_time": 1727395699,
       "rank": 11,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 348480,
-      "num": 348480,
-      "word": "今天起浙江婚假延长至13天",
-      "onboard_time": 1727403380,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 346854,
@@ -291,11 +307,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 300693,
-      "num": 300693,
-      "word": "浙江领证未满1年新人也享受13天婚假",
-      "onboard_time": 1727405539,
-      "rank": 36,
+      "raw_hot": 312130,
+      "num": 312130,
+      "word": "女网红疑坠楼身亡附近商户发声",
+      "onboard_time": 1727402659,
+      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -379,20 +395,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 268228,
-      "num": 268228,
-      "word": "女网红疑坠楼身亡附近商户发声",
-      "onboard_time": 1727402659,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 263635,
       "num": 263635,
       "word": "王嘉尔samuel竟然认识",
       "onboard_time": 1727403680,
       "rank": 22,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 260196,
+      "num": 264254,
+      "word": "芬兰计划提前归还大熊猫",
+      "onboard_time": 1727404939,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 254332,
+      "num": 254332,
+      "word": "我已出舱感觉良好有16年了",
+      "onboard_time": 1727407099,
+      "rank": 23,
+      "category": "国内时政"
     },
     {
       "raw_hot": 248292,
@@ -411,19 +435,27 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 236851,
-      "num": 236851,
-      "word": "同花顺",
-      "onboard_time": 1727405001,
-      "rank": 38,
-      "category": "互联网,财经"
-    },
-    {
       "raw_hot": 233945,
       "num": 233945,
       "word": "中央最新部署重要信号见力度",
       "onboard_time": 1727367019,
       "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 233205,
+      "num": 233205,
+      "word": "中国人首次太空漫步16周年",
+      "onboard_time": 1727405900,
+      "rank": 41,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 231923,
+      "num": 231923,
+      "word": "遭教官体罚进ICU的14岁女孩离世",
+      "onboard_time": 1727407160,
+      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -483,8 +515,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 195510,
-      "num": 195510,
+      "raw_hot": 204802,
+      "num": 204802,
       "word": "上证指数",
       "onboard_time": 1727405420,
       "rank": 40,
@@ -539,20 +571,20 @@
       "category": "美食"
     },
     {
-      "raw_hot": 176792,
-      "num": 176792,
-      "word": "中国人首次太空漫步16周年",
-      "onboard_time": 1727405900,
-      "rank": 41,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 174407,
       "num": 174407,
       "word": "车位被占男子竟把对方车砸了",
       "onboard_time": 1727402120,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 171089,
+      "num": 171089,
+      "word": "交易所和券商正紧急排查和修复中",
+      "onboard_time": 1727406259,
+      "rank": 42,
+      "category": "财经"
     },
     {
       "raw_hot": 166957,
@@ -609,6 +641,22 @@
       "onboard_time": 1727367857,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 147668,
+      "num": 420555,
+      "word": "上交所回应交易宕机",
+      "onboard_time": 1727406680,
+      "rank": 8,
+      "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 145043,
+      "num": 145043,
+      "word": "新冠病毒朝免疫逃逸增强方向进化",
+      "onboard_time": 1727407578,
+      "rank": 48,
+      "category": "健康医疗,社会新闻"
     },
     {
       "raw_hot": 143777,
@@ -715,6 +763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 116752,
+      "num": 358934,
+      "word": "AI写的大学论文导师能看出来吗",
+      "onboard_time": 1727405477,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 114847,
       "num": 114847,
       "word": "成龙回复全妹了",
@@ -769,14 +825,6 @@
       "onboard_time": 1727377750,
       "rank": 47,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 105961,
-      "num": 264254,
-      "word": "芬兰计划提前归还大熊猫",
-      "onboard_time": 1727404939,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 103999,
@@ -915,14 +963,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 72169,
-      "num": 358934,
-      "word": "AI写的大学论文导师能看出来吗",
-      "onboard_time": 1727405477,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 67295,
       "num": 82215,
       "word": "龚俊工作室出图",
@@ -995,6 +1035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 55531,
+      "num": 286115,
+      "word": "上交所发布股票交易异常情况公告",
+      "onboard_time": 1727407399,
+      "rank": 18,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 54427,
       "num": 82200,
       "word": "阿维塔07",
@@ -1009,6 +1057,14 @@
       "onboard_time": 1727404520,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 46127,
+      "num": 233217,
+      "word": "以色列定居者乘船观看轰炸加沙",
+      "onboard_time": 1727406920,
+      "rank": 29,
+      "category": "国外时政"
     },
     {
       "raw_hot": 44974,
@@ -1035,6 +1091,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 39469,
+      "num": 303944,
+      "word": "亚硝酸盐超标百倍的血燕卷土重来",
+      "onboard_time": 1727406500,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 36132,
       "num": 41714,
       "word": "邓为费加罗钻石封面预告",
@@ -1043,11 +1107,27 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 35612,
+      "num": 419919,
+      "word": "股民想让A股在国庆加个班",
+      "onboard_time": 1727407519,
+      "rank": 9,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 33782,
       "num": 54965,
       "word": "高中生用英语配音西游记经典片段",
       "onboard_time": 1727385672,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 31987,
+      "num": 1654192,
+      "word": "中国红是国庆最美主色调",
+      "onboard_time": 1727356880,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -1083,11 +1163,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 24716,
-      "num": 1654192,
-      "word": "中国红是国庆最美主色调",
-      "onboard_time": 1727356880,
-      "rank": 2,
+      "raw_hot": 26728,
+      "num": 281918,
+      "word": "美的客服回应网友称空调突发自燃",
+      "onboard_time": 1727406978,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
