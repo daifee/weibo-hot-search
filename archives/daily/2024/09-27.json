@@ -1,6 +1,6 @@
 {
   "startTime": 1727368091089,
-  "endTime": 1727425714302,
+  "endTime": 1727426544529,
   "band_list": [
     {
       "raw_hot": 4551944,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 1179903,
-      "num": 667261,
+      "num": 790027,
       "word": "兵哥哥执勤时被宝妈塞了一个娃",
       "onboard_time": 1727420297,
       "rank": 23,
@@ -129,6 +129,14 @@
       "onboard_time": 1727414960,
       "rank": 28,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 855567,
+      "num": 855567,
+      "word": "A股正从反弹走向反转",
+      "onboard_time": 1727422520,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 847404,
@@ -299,14 +307,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 507658,
-      "num": 507658,
-      "word": "A股正从反弹走向反转",
-      "onboard_time": 1727422520,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 487194,
       "num": 487194,
       "word": "专家称A股3000点应该能站稳",
@@ -395,12 +395,28 @@
       "category": "互联网,财经"
     },
     {
+      "raw_hot": 400661,
+      "num": 400661,
+      "word": "王楚钦首轮对阵篠塚大登",
+      "onboard_time": 1727423540,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 393960,
       "num": 393960,
       "word": "三只羊被罚款没收违法所得6894.91万",
       "onboard_time": 1727357541,
       "rank": 5,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 384211,
+      "num": 384211,
+      "word": "国庆假期全社会人员流动量将超19亿",
+      "onboard_time": 1727422640,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 384112,
@@ -563,14 +579,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 317327,
-      "num": 317327,
-      "word": "国庆假期全社会人员流动量将超19亿",
-      "onboard_time": 1727422640,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 312130,
       "num": 312130,
       "word": "女网红疑坠楼身亡附近商户发声",
@@ -609,14 +617,6 @@
       "onboard_time": 1727359941,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 295735,
-      "num": 295735,
-      "word": "王楚钦首轮对阵篠塚大登",
-      "onboard_time": 1727423540,
-      "rank": 22,
-      "category": "体育"
     },
     {
       "raw_hot": 295308,
@@ -699,6 +699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 277908,
+      "num": 277908,
+      "word": "女子景区采了8朵蘑菇老公吃进ICU",
+      "onboard_time": 1727423719,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 275677,
       "num": 389442,
       "word": "巴勒斯坦总统连说3遍不会离开家园",
@@ -769,6 +777,14 @@
       "onboard_time": 1727395098,
       "rank": 17,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 246444,
+      "num": 246444,
+      "word": "没苦硬吃可能毁了孩子一生",
+      "onboard_time": 1727423659,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 242569,
@@ -864,14 +880,6 @@
       "word": "浙江婚假新规正式通过",
       "onboard_time": 1727404161,
       "rank": 32,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 225541,
-      "num": 225541,
-      "word": "女子景区采了8朵蘑菇老公吃进ICU",
-      "onboard_time": 1727423719,
-      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -1084,7 +1092,7 @@
     },
     {
       "raw_hot": 186279,
-      "num": 186279,
+      "num": 455677,
       "word": "曾毅 年过半百工作量猛增",
       "onboard_time": 1727422339,
       "rank": 38,
@@ -1123,12 +1131,44 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 178832,
+      "num": 178832,
+      "word": "家乡当手机壁纸后不想再换别的了",
+      "onboard_time": 1727425760,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 178483,
+      "num": 178483,
+      "word": "阮佳",
+      "onboard_time": 1727422880,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 177319,
       "num": 177319,
       "word": "30岁失业在家开馒头店",
       "onboard_time": 1727404399,
       "rank": 44,
       "category": "美食"
+    },
+    {
+      "raw_hot": 175600,
+      "num": 175600,
+      "word": "LNG感谢Yagao",
+      "onboard_time": 1727426180,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 175023,
+      "num": 175023,
+      "word": "国企推行末等调整和不胜任退出制度",
+      "onboard_time": 1727425039,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 174407,
@@ -1144,14 +1184,6 @@
       "word": "巴适四川等你来",
       "onboard_time": 1727402659,
       "rank": 26,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 171763,
-      "num": 178987,
-      "word": "没苦硬吃可能毁了孩子一生",
-      "onboard_time": 1727423659,
-      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -1235,19 +1267,19 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 163785,
+      "num": 163785,
+      "word": "孙颖莎首场对阵波兰选手",
+      "onboard_time": 1727425339,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 162497,
       "num": 254144,
       "word": "女孩遭教官体罚持续昏迷四肢瘫软",
       "onboard_time": 1727418321,
       "rank": 37,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 162239,
-      "num": 162239,
-      "word": "国企推行末等调整和不胜任退出制度",
-      "onboard_time": 1727425039,
-      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -1291,14 +1323,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 155579,
-      "num": 155579,
-      "word": "阮佳",
-      "onboard_time": 1727422880,
-      "rank": 47,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 154594,
       "num": 524407,
       "word": "上交所交易陆续恢复正常",
@@ -1329,14 +1353,6 @@
       "onboard_time": 1727418679,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 153829,
-      "num": 153829,
-      "word": "孙颖莎首场对阵波兰选手",
-      "onboard_time": 1727425339,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 152690,
@@ -1441,6 +1457,14 @@
       "onboard_time": 1727391014,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 139064,
+      "num": 277477,
+      "word": "淘宝微信打通第一批受益者出现了",
+      "onboard_time": 1727422400,
+      "rank": 45,
+      "category": "互联网"
     },
     {
       "raw_hot": 136319,
@@ -1563,14 +1587,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 117151,
-      "num": 277477,
-      "word": "淘宝微信打通第一批受益者出现了",
-      "onboard_time": 1727422400,
-      "rank": 45,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 115848,
       "num": 248936,
       "word": "陈楚生谈再回披荆斩棘",
@@ -1641,6 +1657,14 @@
       "onboard_time": 1727358142,
       "rank": 46,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 100050,
+      "num": 530466,
+      "word": "中方回应石破茂将出任日本首相",
+      "onboard_time": 1727424500,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 97514,
@@ -1771,12 +1795,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 78186,
-      "num": 530466,
-      "word": "中方回应石破茂将出任日本首相",
-      "onboard_time": 1727424500,
-      "rank": 8,
-      "category": "社会新闻"
+      "raw_hot": 76368,
+      "num": 320950,
+      "word": "蒋勤勤掌管空气刘海的神",
+      "onboard_time": 1727425279,
+      "rank": 19,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 76202,
@@ -1844,7 +1868,7 @@
     },
     {
       "raw_hot": 67970,
-      "num": 325065,
+      "num": 331096,
       "word": "李雪琴也想砸新浪的电视",
       "onboard_time": 1727425459,
       "rank": 18,
@@ -1873,6 +1897,14 @@
       "onboard_time": 1727358620,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 65490,
+      "num": 443948,
+      "word": "官方通报果农把苹果摆在路上逼停司机",
+      "onboard_time": 1727426299,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 65193,
@@ -1905,14 +1937,6 @@
       "onboard_time": 1727368516,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 63814,
-      "num": 320950,
-      "word": "蒋勤勤掌管空气刘海的神",
-      "onboard_time": 1727425279,
-      "rank": 19,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 61770,
@@ -2084,7 +2108,7 @@
     },
     {
       "raw_hot": 35948,
-      "num": 189417,
+      "num": 198603,
       "word": "淘宝官微修改文案增加微信支付",
       "onboard_time": 1727423959,
       "rank": 35,
@@ -2097,6 +2121,14 @@
       "onboard_time": 1727412742,
       "rank": 16,
       "category": "电影"
+    },
+    {
+      "raw_hot": 34944,
+      "num": 511374,
+      "word": "时装周什么最要紧",
+      "onboard_time": 1727422458,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 33782,
@@ -2112,6 +2144,14 @@
       "word": "中国红是国庆最美主色调",
       "onboard_time": 1727356880,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 30657,
+      "num": 522889,
+      "word": "有券商客户咨询数量暴涨3倍以上",
+      "onboard_time": 1727424860,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -2155,6 +2195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 28123,
+      "num": 329796,
+      "word": "商铺凿承重墙装线槽称想着好看",
+      "onboard_time": 1727424500,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 27996,
       "num": 724069,
       "word": "新电商新风尚",
@@ -2176,14 +2224,6 @@
       "word": "檀健次迈阿密vlog",
       "onboard_time": 1727387051,
       "rank": 46,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 27378,
-      "num": 511374,
-      "word": "时装周什么最要紧",
-      "onboard_time": 1727422458,
-      "rank": 47,
       "category": "作品衍生"
     },
     {
@@ -2219,28 +2259,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 25983,
-      "num": 522889,
-      "word": "有券商客户咨询数量暴涨3倍以上",
-      "onboard_time": 1727424860,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 22744,
       "num": 313503,
       "word": "中国智能电车已经NEXTLEVEL了吗",
       "onboard_time": 1727411182,
       "rank": 49,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 22236,
-      "num": 329796,
-      "word": "商铺凿承重墙装线槽称想着好看",
-      "onboard_time": 1727424500,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 21622,
