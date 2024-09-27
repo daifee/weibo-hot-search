@@ -1,6 +1,6 @@
 {
   "startTime": 1727368091089,
-  "endTime": 1727411211740,
+  "endTime": 1727412105485,
   "band_list": [
     {
       "raw_hot": 4551944,
@@ -163,6 +163,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 544955,
+      "num": 544955,
+      "word": "我已出舱感觉良好有16年了",
+      "onboard_time": 1727407099,
+      "rank": 23,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 541984,
       "num": 541984,
       "word": "被传坠楼身亡女网红账号已私密",
@@ -172,19 +180,11 @@
     },
     {
       "raw_hot": 531312,
-      "num": 531312,
+      "num": 559699,
       "word": "浙江领证未满1年新人也享受13天婚假",
       "onboard_time": 1727405539,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 492871,
-      "num": 492871,
-      "word": "我已出舱感觉良好有16年了",
-      "onboard_time": 1727407099,
-      "rank": 23,
-      "category": "国内时政"
     },
     {
       "raw_hot": 480792,
@@ -219,8 +219,16 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 417371,
-      "num": 417371,
+      "raw_hot": 422472,
+      "num": 422472,
+      "word": "戚薇蔡徐坤合照",
+      "onboard_time": 1727411601,
+      "rank": 15,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 422027,
+      "num": 422027,
       "word": "多方回应9岁女童在偏僻地点带伤身亡",
       "onboard_time": 1727409200,
       "rank": 21,
@@ -315,6 +323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 341461,
+      "num": 341461,
+      "word": "王皓说樊振东还在过渡期",
+      "onboard_time": 1727410640,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 338458,
       "num": 338458,
       "word": "下调存款准备金率0.5个百分点",
@@ -347,11 +363,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 326687,
+      "num": 422307,
+      "word": "凤凰传奇上海抢票",
+      "onboard_time": 1727410760,
+      "rank": 24,
+      "category": "演出"
+    },
+    {
       "raw_hot": 318233,
       "num": 226086,
       "word": "2岁娃睡不好被奶奶喂符水致铅中毒",
       "onboard_time": 1727370615,
       "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 313567,
+      "num": 413245,
+      "word": "专家称A股3000点应该能站稳",
+      "onboard_time": 1727408299,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -451,14 +483,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 270414,
-      "num": 270414,
-      "word": "凤凰传奇上海抢票",
-      "onboard_time": 1727410760,
-      "rank": 24,
-      "category": "演出"
-    },
-    {
       "raw_hot": 269779,
       "num": 292487,
       "word": "官方通报学生家长校门口跪地",
@@ -473,6 +497,14 @@
       "onboard_time": 1727407399,
       "rank": 18,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 264372,
+      "num": 422288,
+      "word": "张杰回应内娱演唱会劳模",
+      "onboard_time": 1727411421,
+      "rank": 18,
+      "category": "演出"
     },
     {
       "raw_hot": 263635,
@@ -499,6 +531,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 242569,
+      "num": 242569,
+      "word": "股民建议取消国庆假期",
+      "onboard_time": 1727410521,
+      "rank": 35,
+      "category": "财经"
+    },
+    {
       "raw_hot": 237547,
       "num": 237547,
       "word": "牛肉价格降至5年来最低",
@@ -513,14 +553,6 @@
       "onboard_time": 1727409920,
       "rank": 26,
       "category": "电影"
-    },
-    {
-      "raw_hot": 234024,
-      "num": 234024,
-      "word": "王皓说樊振东还在过渡期",
-      "onboard_time": 1727410640,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 233945,
@@ -627,6 +659,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 203617,
+      "num": 530059,
+      "word": "A股牛甄嬛回宫",
+      "onboard_time": 1727409859,
+      "rank": 9,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 202352,
       "num": 202352,
       "word": "上交所发布股票交易异常公告",
@@ -635,8 +675,16 @@
       "category": "财经"
     },
     {
+      "raw_hot": 200828,
+      "num": 200828,
+      "word": "雷朋 成毅",
+      "onboard_time": 1727411361,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 197751,
-      "num": 530129,
+      "num": 564683,
       "word": "创业板",
       "onboard_time": 1727408360,
       "rank": 36,
@@ -649,14 +697,6 @@
       "onboard_time": 1727363240,
       "rank": 23,
       "category": "电影"
-    },
-    {
-      "raw_hot": 193626,
-      "num": 193626,
-      "word": "股民建议取消国庆假期",
-      "onboard_time": 1727410521,
-      "rank": 35,
-      "category": "财经"
     },
     {
       "raw_hot": 188526,
@@ -707,6 +747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 173700,
+      "num": 173700,
+      "word": "东北雨姐回应客服骂人",
+      "onboard_time": 1727411721,
+      "rank": 42,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 173408,
       "num": 231312,
       "word": "巴适四川等你来",
@@ -723,19 +771,19 @@
       "category": "财经"
     },
     {
+      "raw_hot": 168739,
+      "num": 168739,
+      "word": "披荆斩棘4四公",
+      "onboard_time": 1727412023,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 166957,
       "num": 273560,
       "word": "中国住宅要取消公摊了吗",
       "onboard_time": 1727341759,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 166401,
-      "num": 413245,
-      "word": "专家称A股3000点应该能站稳",
-      "onboard_time": 1727408299,
-      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -787,6 +835,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 150867,
+      "num": 150867,
+      "word": "真正适合轻断食的人",
+      "onboard_time": 1727410940,
+      "rank": 45,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 147668,
       "num": 420555,
       "word": "上交所回应交易宕机",
@@ -801,14 +857,6 @@
       "onboard_time": 1727407578,
       "rank": 48,
       "category": "健康医疗,社会新闻"
-    },
-    {
-      "raw_hot": 144674,
-      "num": 144674,
-      "word": "真正适合轻断食的人",
-      "onboard_time": 1727410940,
-      "rank": 45,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 143777,
@@ -859,6 +907,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 134761,
+      "num": 524407,
+      "word": "上交所交易陆续恢复正常",
+      "onboard_time": 1727409979,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 133393,
       "num": 133393,
       "word": "江苏现1.5万亩巨型眼影盘",
@@ -889,14 +945,6 @@
       "onboard_time": 1727369774,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 122554,
-      "num": 524407,
-      "word": "上交所交易陆续恢复正常",
-      "onboard_time": 1727409979,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 121767,
@@ -987,14 +1035,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 99123,
-      "num": 530059,
-      "word": "A股牛甄嬛回宫",
-      "onboard_time": 1727409859,
-      "rank": 9,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 97514,
       "num": 97514,
       "word": "阿尔瓦雷斯绝杀",
@@ -1004,7 +1044,7 @@
     },
     {
       "raw_hot": 97041,
-      "num": 261828,
+      "num": 422054,
       "word": "吴磊没懂嘻嘻不嘻嘻",
       "onboard_time": 1727402539,
       "rank": 48,
@@ -1171,6 +1211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 64775,
+      "num": 574718,
+      "word": "网友称三点休市太早了",
+      "onboard_time": 1727411240,
+      "rank": 7,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 64384,
       "num": 82229,
       "word": "金钱堡垒",
@@ -1243,11 +1291,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 44365,
+      "num": 1149902,
+      "word": "文化中国行看黄渤海候鸟栖息地",
+      "onboard_time": 1727410220,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 42098,
       "num": 71601,
       "word": "岁岁如弈",
       "onboard_time": 1727392755,
       "rank": 48,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 42051,
+      "num": 488322,
+      "word": "如鸢扬州河灯许愿",
+      "onboard_time": 1727407699,
+      "rank": 19,
       "category": "游戏"
     },
     {
@@ -1259,12 +1323,12 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 38491,
-      "num": 488322,
-      "word": "如鸢扬州河灯许愿",
-      "onboard_time": 1727407699,
-      "rank": 19,
-      "category": "游戏"
+      "raw_hot": 39444,
+      "num": 267510,
+      "word": "人世间台词含金量真的很高",
+      "onboard_time": 1727411541,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 36132,
@@ -1280,14 +1344,6 @@
       "word": "高中生用英语配音西游记经典片段",
       "onboard_time": 1727385672,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 32909,
-      "num": 839315,
-      "word": "文化中国行看黄渤海候鸟栖息地",
-      "onboard_time": 1727410220,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -1348,7 +1404,7 @@
     },
     {
       "raw_hot": 22744,
-      "num": 133592,
+      "num": 244695,
       "word": "中国智能电车已经NEXTLEVEL了吗",
       "onboard_time": 1727411182,
       "rank": 49,

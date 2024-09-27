@@ -1,0 +1,410 @@
+{
+  "runTime": 1727412105485,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1766437,
+        "num": 1766437,
+        "word": "浙江婚假",
+        "onboard_time": 1727402842,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1612471,
+        "num": 1612471,
+        "word": "贾玲不再担任大碗娱乐职务",
+        "onboard_time": 1727398761,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 44365,
+        "num": 1149902,
+        "word": "文化中国行看黄渤海候鸟栖息地",
+        "onboard_time": 1727410220,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 795204,
+        "num": 795204,
+        "word": "大碗娱乐所有艺人合约到期不续",
+        "onboard_time": 1727399419,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 734508,
+        "num": 734508,
+        "word": "A股",
+        "onboard_time": 1727400498,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 589716,
+        "num": 589716,
+        "word": "芬兰计划提前归还大熊猫",
+        "onboard_time": 1727404939,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 631615,
+        "num": 582282,
+        "word": "日本歌手酸欠少女去世",
+        "onboard_time": 1727408419,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 64775,
+        "num": 574718,
+        "word": "网友称三点休市太早了",
+        "onboard_time": 1727411240,
+        "rank": 7,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 138427,
+        "num": 564683,
+        "word": "创业板",
+        "onboard_time": 1727408360,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 527600,
+        "num": 559699,
+        "word": "浙江领证未满1年新人也享受13天婚假",
+        "onboard_time": 1727405539,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2190888,
+        "num": 547901,
+        "word": "遭教官体罚进ICU的14岁女孩离世",
+        "onboard_time": 1727407160,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 544955,
+        "num": 544955,
+        "word": "我已出舱感觉良好有16年了",
+        "onboard_time": 1727407099,
+        "rank": 11,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 514795,
+        "num": 514795,
+        "word": "王皓说王楚钦是承上启下",
+        "onboard_time": 1727401399,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 426785,
+        "num": 426785,
+        "word": "大量淘宝用户刷出微信支付界面",
+        "onboard_time": 1727402479,
+        "rank": 13,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 31017,
+        "num": 423722,
+        "word": "证券员工称客户群明显活跃问买什么",
+        "onboard_time": 1727411121,
+        "rank": 14,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 422472,
+        "num": 422472,
+        "word": "戚薇蔡徐坤合照",
+        "onboard_time": 1727411601,
+        "rank": 15,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 42051,
+        "num": 422397,
+        "word": "如鸢扬州河灯许愿",
+        "onboard_time": 1727407699,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 326687,
+        "num": 422307,
+        "word": "凤凰传奇上海抢票",
+        "onboard_time": 1727410760,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 264372,
+        "num": 422288,
+        "word": "张杰回应内娱演唱会劳模",
+        "onboard_time": 1727411421,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 60349,
+        "num": 422136,
+        "word": "商竣程vs布云朝克特",
+        "onboard_time": 1727411060,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 82803,
+        "num": 422054,
+        "word": "吴磊没懂嘻嘻不嘻嘻",
+        "onboard_time": 1727402539,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 422027,
+        "num": 422027,
+        "word": "多方回应9岁女童在偏僻地点带伤身亡",
+        "onboard_time": 1727409200,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 355601,
+        "num": 355601,
+        "word": "今天起浙江婚假延长至13天",
+        "onboard_time": 1727403380,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 341461,
+        "num": 341461,
+        "word": "王皓说樊振东还在过渡期",
+        "onboard_time": 1727410640,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 330170,
+        "num": 330170,
+        "word": "股民想让A股在国庆加个班",
+        "onboard_time": 1727407519,
+        "rank": 24,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 313567,
+        "num": 313567,
+        "word": "专家称A股3000点应该能站稳",
+        "onboard_time": 1727408299,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239945,
+        "num": 311516,
+        "word": "黑色月光定档",
+        "onboard_time": 1727408839,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 238707,
+        "num": 283714,
+        "word": "十个勤天团综开播",
+        "onboard_time": 1727408061,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 39444,
+        "num": 267510,
+        "word": "人世间台词含金量真的很高",
+        "onboard_time": 1727411541,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22278,
+        "num": 244695,
+        "word": "中国智能电车已经NEXTLEVEL了吗",
+        "onboard_time": 1727411182,
+        "rank": 29,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 242569,
+        "num": 242569,
+        "word": "股民建议取消国庆假期",
+        "onboard_time": 1727410521,
+        "rank": 30,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 236959,
+        "num": 236959,
+        "word": "阮佳 黑神话",
+        "onboard_time": 1727400322,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 233126,
+        "num": 236160,
+        "word": "大山女孩的两种结局",
+        "onboard_time": 1727409920,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 235806,
+        "num": 235806,
+        "word": "巴总统问以色列谁杀了1.5万名儿童",
+        "onboard_time": 1727399479,
+        "rank": 33,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 219119,
+        "num": 219119,
+        "word": "16吨中国大白菜已运抵韩国",
+        "onboard_time": 1727404760,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218926,
+        "num": 218926,
+        "word": "Jennie厂牌",
+        "onboard_time": 1727400440,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 212784,
+        "num": 212784,
+        "word": "上交所发布股票交易异常情况公告",
+        "onboard_time": 1727407399,
+        "rank": 36,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 203617,
+        "num": 203617,
+        "word": "A股牛甄嬛回宫",
+        "onboard_time": 1727409859,
+        "rank": 37,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 202765,
+        "num": 202765,
+        "word": "浙江婚假新规正式通过",
+        "onboard_time": 1727404161,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200828,
+        "num": 200828,
+        "word": "雷朋 成毅",
+        "onboard_time": 1727411361,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185652,
+        "num": 185652,
+        "word": "熊猫丫丫腮帮子耷拉到肩膀上了",
+        "onboard_time": 1727403559,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179237,
+        "num": 179237,
+        "word": "新娘婚礼下轿被大妈强扯头纱",
+        "onboard_time": 1727391855,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173700,
+        "num": 173700,
+        "word": "东北雨姐回应客服骂人",
+        "onboard_time": 1727411721,
+        "rank": 42,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 173281,
+        "num": 173281,
+        "word": "7天轻断食瘦了9斤",
+        "onboard_time": 1727396299,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 168739,
+        "num": 168739,
+        "word": "披荆斩棘4四公",
+        "onboard_time": 1727412023,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134761,
+        "num": 168734,
+        "word": "上交所交易陆续恢复正常",
+        "onboard_time": 1727409979,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168734,
+        "num": 168733,
+        "word": "德云社节目单",
+        "onboard_time": 1727409440,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 156892,
+        "num": 156892,
+        "word": "大熊猫萌兰再次受伤",
+        "onboard_time": 1727400920,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156483,
+        "num": 156483,
+        "word": "巴适四川等你来",
+        "onboard_time": 1727402659,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150867,
+        "num": 150867,
+        "word": "真正适合轻断食的人",
+        "onboard_time": 1727410940,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#要像石榴籽一样紧紧抱在一起#"
+    }
+  }
+}
