@@ -1,0 +1,410 @@
+{
+  "runTime": 1727444390688,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3776698,
+        "num": 3776698,
+        "word": "武汉震感",
+        "onboard_time": 1727442380,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 335956,
+        "num": 335956,
+        "word": "安徽省地震局回应地震热点问题",
+        "onboard_time": 1727443401,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 7102,
+        "num": 317615,
+        "word": "352个集体368名个人受到表彰",
+        "onboard_time": 1727444301,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 590116,
+        "num": 294329,
+        "word": "刚出生宝宝遭隐翅虫攻击致头部感染",
+        "onboard_time": 1727442439,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 506562,
+        "num": 274689,
+        "word": "赵丽颖直播造型",
+        "onboard_time": 1727439439,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 836421,
+        "num": 259457,
+        "word": "警方回应女网红张悦疑坠楼身亡",
+        "onboard_time": 1727442500,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247797,
+        "num": 247797,
+        "word": "宋佳向华坪县捐赠100万",
+        "onboard_time": 1727435179,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 232625,
+        "num": 232625,
+        "word": "A股正从反弹走向反转",
+        "onboard_time": 1727422520,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180528,
+        "num": 231889,
+        "word": "浙江IP到底有多幸福",
+        "onboard_time": 1727434100,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 53197,
+        "num": 231159,
+        "word": "殡仪馆回应女网红张悦疑坠楼身亡",
+        "onboard_time": 1727434218,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1246163,
+        "num": 230295,
+        "word": "黄多多在纽约街边画画",
+        "onboard_time": 1727438058,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1152429,
+        "num": 229521,
+        "word": "网红张悦疑坠楼有同名死者被送殡仪馆",
+        "onboard_time": 1727440159,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 442538,
+        "num": 228339,
+        "word": "发电厂海蜇泛滥员工已抓21万斤",
+        "onboard_time": 1727437938,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25690,
+        "num": 227421,
+        "word": "市监局回应盒饭店将食材堆垃圾箱旁",
+        "onboard_time": 1727443100,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 81887,
+        "num": 226480,
+        "word": "淘宝微信都成了那我的cp呢",
+        "onboard_time": 1727442021,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 172038,
+        "num": 225830,
+        "word": "原神版本直播",
+        "onboard_time": 1727439499,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 340554,
+        "num": 224181,
+        "word": "王玉雯否认在王子奇车上待了很久",
+        "onboard_time": 1727436559,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 338871,
+        "num": 223535,
+        "word": "奶茶店称因电费差价要多做一千杯",
+        "onboard_time": 1727433798,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 10806,
+        "num": 222385,
+        "word": "肖战回关王力宏",
+        "onboard_time": 1727444179,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25491,
+        "num": 221494,
+        "word": "景区回应丹霞地貌被植被覆盖",
+        "onboard_time": 1727442620,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 841296,
+        "num": 220170,
+        "word": "二本恋综拍出来了",
+        "onboard_time": 1727437880,
+        "rank": 20,
+        "category": "幽默,作品衍生"
+      },
+      {
+        "raw_hot": 333134,
+        "num": 220100,
+        "word": "女子钥匙放车里多次凌晨被开走",
+        "onboard_time": 1727436018,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 298583,
+        "num": 218591,
+        "word": "男子破产后捅妻子8刀获刑9个月",
+        "onboard_time": 1727429419,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 14258,
+        "num": 217977,
+        "word": "2024中国国际孔子文化节对话孔子互鉴文明",
+        "onboard_time": 1727427738,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 284464,
+        "num": 217159,
+        "word": "方媛称郭富城支持自己买房",
+        "onboard_time": 1727440999,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 249806,
+        "num": 216129,
+        "word": "中国最没存在感的省会",
+        "onboard_time": 1727427199,
+        "rank": 25,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 166960,
+        "num": 214479,
+        "word": "王祖蓝刚送走全红婵又迎来阿条姐",
+        "onboard_time": 1727443340,
+        "rank": 26,
+        "category": "综艺,体育"
+      },
+      {
+        "raw_hot": 136997,
+        "num": 213977,
+        "word": "半熟男女 全员恶人",
+        "onboard_time": 1727443700,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133687,
+        "num": 212479,
+        "word": "叶罗丽居然拍了真人版",
+        "onboard_time": 1727437281,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99525,
+        "num": 212312,
+        "word": "张之臻1比2弗基纳",
+        "onboard_time": 1727443220,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 211460,
+        "num": 211460,
+        "word": "时代少年团 河北",
+        "onboard_time": 1727440398,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211120,
+        "num": 211120,
+        "word": "关智斌感谢赵丽颖把自己带火",
+        "onboard_time": 1727427619,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192731,
+        "num": 192731,
+        "word": "不会舔毛但有一把子力气",
+        "onboard_time": 1727441840,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 182139,
+        "num": 182139,
+        "word": "杨幂戴墨镜飞吻",
+        "onboard_time": 1727441720,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 93695,
+        "num": 169696,
+        "word": "擎天柱威震天be美学",
+        "onboard_time": 1727443220,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 157422,
+        "num": 157422,
+        "word": "体罚女孩致死教育机构拒绝家长探望",
+        "onboard_time": 1727429659,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154642,
+        "num": 154642,
+        "word": "家乡当手机壁纸后不想再换别的了",
+        "onboard_time": 1727425760,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151566,
+        "num": 151566,
+        "word": "中网2024",
+        "onboard_time": 1727443581,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133574,
+        "num": 133574,
+        "word": "上交所道歉",
+        "onboard_time": 1727434100,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 133148,
+        "num": 133148,
+        "word": "第五人格骑士",
+        "onboard_time": 1727441478,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 129698,
+        "num": 129698,
+        "word": "告诉爸妈别这样用保鲜膜了",
+        "onboard_time": 1727440760,
+        "rank": 40,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 121548,
+        "num": 121548,
+        "word": "舅舅借外甥女900万不肯还",
+        "onboard_time": 1727444301,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121346,
+        "num": 121346,
+        "word": "王楚钦戴红色发带训练",
+        "onboard_time": 1727443820,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 11421,
+        "num": 115452,
+        "word": "天山南北唱新歌",
+        "onboard_time": 1727348779,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111839,
+        "num": 111839,
+        "word": "张杰献唱原神周年曲",
+        "onboard_time": 1727444361,
+        "rank": 44,
+        "category": "音乐,游戏"
+      },
+      {
+        "raw_hot": 111367,
+        "num": 111367,
+        "word": "许佳琪魏哲鸣吻戏",
+        "onboard_time": 1727436140,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 67717,
+        "num": 110564,
+        "word": "超650吨走私冻品装满29个集装箱",
+        "onboard_time": 1727443220,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110554,
+        "num": 110554,
+        "word": "张之臻中网止步首轮",
+        "onboard_time": 1727444060,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108079,
+        "num": 108079,
+        "word": "陈都灵旅行休假小存货",
+        "onboard_time": 1727440039,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106909,
+        "num": 106909,
+        "word": "石破茂将出任日本首相",
+        "onboard_time": 1727418801,
+        "rank": 49,
+        "category": "国外时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#全国民族团结进步表彰大会#"
+    }
+  }
+}

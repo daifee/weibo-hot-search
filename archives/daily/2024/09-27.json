@@ -1,6 +1,6 @@
 {
   "startTime": 1727368091089,
-  "endTime": 1727443742873,
+  "endTime": 1727444390688,
   "band_list": [
     {
       "raw_hot": 4551944,
@@ -11,8 +11,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 2926901,
-      "num": 2926901,
+      "raw_hot": 3776698,
+      "num": 3776698,
       "word": "武汉震感",
       "onboard_time": 1727442380,
       "rank": 0,
@@ -107,7 +107,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1223999,
+      "raw_hot": 1246163,
       "num": 264674,
       "word": "黄多多在纽约街边画画",
       "onboard_time": 1727438058,
@@ -225,6 +225,14 @@
       "onboard_time": 1727415081,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 836421,
+      "num": 364767,
+      "word": "警方回应女网红张悦疑坠楼身亡",
+      "onboard_time": 1727442500,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 834222,
@@ -363,6 +371,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 590116,
+      "num": 294329,
+      "word": "刚出生宝宝遭隐翅虫攻击致头部感染",
+      "onboard_time": 1727442439,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 583668,
       "num": 330864,
       "word": "体罚女孩致死教育机构拒绝家长探望",
@@ -499,20 +515,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 442538,
+      "num": 237438,
+      "word": "发电厂海蜇泛滥员工已抓21万斤",
+      "onboard_time": 1727437938,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 439684,
       "num": 169230,
       "word": "海清版张桂梅",
       "onboard_time": 1727430618,
       "rank": 38,
       "category": "电影"
-    },
-    {
-      "raw_hot": 437427,
-      "num": 237438,
-      "word": "发电厂海蜇泛滥员工已抓21万斤",
-      "onboard_time": 1727437938,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 429221,
@@ -635,14 +651,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 364767,
-      "num": 364767,
-      "word": "警方回应女网红张悦疑坠楼身亡",
-      "onboard_time": 1727442500,
-      "rank": 1,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 360715,
       "num": 248720,
       "word": "7天轻断食瘦了9斤",
@@ -737,6 +745,14 @@
       "onboard_time": 1727396599,
       "rank": 13,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 335956,
+      "num": 335956,
+      "word": "安徽省地震局回应地震热点问题",
+      "onboard_time": 1727443401,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 334511,
@@ -1017,14 +1033,6 @@
       "onboard_time": 1727403680,
       "rank": 22,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 262354,
-      "num": 262354,
-      "word": "刚出生宝宝遭隐翅虫攻击致头部感染",
-      "onboard_time": 1727442439,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 259839,
@@ -1419,6 +1427,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 192731,
+      "num": 192731,
+      "word": "不会舔毛但有一把子力气",
+      "onboard_time": 1727441840,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 191444,
       "num": 191444,
       "word": "国家勋章和国家荣誉称号颁授仪式",
@@ -1651,6 +1667,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 166960,
+      "num": 214479,
+      "word": "王祖蓝刚送走全红婵又迎来阿条姐",
+      "onboard_time": 1727443340,
+      "rank": 26,
+      "category": "综艺,体育"
+    },
+    {
       "raw_hot": 166957,
       "num": 273560,
       "word": "中国住宅要取消公摊了吗",
@@ -1764,7 +1788,7 @@
     },
     {
       "raw_hot": 158843,
-      "num": 214745,
+      "num": 231159,
       "word": "殡仪馆回应女网红张悦疑坠楼身亡",
       "onboard_time": 1727434218,
       "rank": 31,
@@ -1785,14 +1809,6 @@
       "onboard_time": 1727414360,
       "rank": 44,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 156151,
-      "num": 156151,
-      "word": "安徽省地震局回应地震热点问题",
-      "onboard_time": 1727443401,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 155983,
@@ -1873,6 +1889,14 @@
       "onboard_time": 1727411240,
       "rank": 7,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 151566,
+      "num": 151566,
+      "word": "中网2024",
+      "onboard_time": 1727443581,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 151502,
@@ -1971,14 +1995,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 139887,
-      "num": 139887,
-      "word": "不会舔毛但有一把子力气",
-      "onboard_time": 1727441840,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 139457,
       "num": 139457,
       "word": "今年的桂花香为何迟到了",
@@ -2003,12 +2019,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 137511,
-      "num": 137511,
-      "word": "中网2024",
-      "onboard_time": 1727443581,
-      "rank": 41,
-      "category": "体育"
+      "raw_hot": 136997,
+      "num": 213977,
+      "word": "半熟男女 全员恶人",
+      "onboard_time": 1727443700,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 136319,
@@ -2171,20 +2187,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 122990,
-      "num": 213842,
-      "word": "王祖蓝刚送走全红婵又迎来阿条姐",
-      "onboard_time": 1727443340,
-      "rank": 26,
-      "category": "综艺,体育"
-    },
-    {
       "raw_hot": 121767,
       "num": 121767,
       "word": "翁青雅彭高一起上班",
       "onboard_time": 1727397319,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 121548,
+      "num": 121548,
+      "word": "舅舅借外甥女900万不肯还",
+      "onboard_time": 1727444301,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 121346,
+      "num": 121346,
+      "word": "王楚钦戴红色发带训练",
+      "onboard_time": 1727443820,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 121267,
@@ -2267,6 +2291,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 111839,
+      "num": 111839,
+      "word": "张杰献唱原神周年曲",
+      "onboard_time": 1727444361,
+      "rank": 44,
+      "category": "音乐,游戏"
+    },
+    {
       "raw_hot": 110836,
       "num": 110836,
       "word": "贵州一地大量巨石滚落砸穿住宅楼",
@@ -2283,12 +2315,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 109904,
-      "num": 109904,
-      "word": "半熟男女 全员恶人",
-      "onboard_time": 1727443700,
-      "rank": 49,
-      "category": "剧集"
+      "raw_hot": 110554,
+      "num": 110554,
+      "word": "张之臻中网止步首轮",
+      "onboard_time": 1727444060,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 108768,
@@ -2339,19 +2371,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 99525,
+      "num": 212331,
+      "word": "张之臻1比2弗基纳",
+      "onboard_time": 1727443220,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 97514,
       "num": 97514,
       "word": "阿尔瓦雷斯绝杀",
       "onboard_time": 1727401460,
       "rank": 46,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 97274,
-      "num": 212331,
-      "word": "张之臻1比2弗基纳",
-      "onboard_time": 1727443220,
-      "rank": 29,
       "category": "体育"
     },
     {
@@ -2491,6 +2523,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 81887,
+      "num": 226480,
+      "word": "淘宝微信都成了那我的cp呢",
+      "onboard_time": 1727442021,
+      "rank": 14,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 79058,
       "num": 82220,
       "word": "住宿前一定要先检查这4个地方",
@@ -2587,6 +2627,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 67717,
+      "num": 221672,
+      "word": "超650吨走私冻品装满29个集装箱",
+      "onboard_time": 1727443220,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 67295,
       "num": 82215,
       "word": "龚俊工作室出图",
@@ -2665,14 +2713,6 @@
       "onboard_time": 1727412921,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 60999,
-      "num": 219194,
-      "word": "淘宝微信都成了那我的cp呢",
-      "onboard_time": 1727442021,
-      "rank": 14,
-      "category": "互联网"
     },
     {
       "raw_hot": 60866,
@@ -3107,6 +3147,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 25690,
+      "num": 227421,
+      "word": "市监局回应盒饭店将食材堆垃圾箱旁",
+      "onboard_time": 1727443100,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 25491,
+      "num": 221494,
+      "word": "景区回应丹霞地貌被植被覆盖",
+      "onboard_time": 1727442620,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 24674,
       "num": 244768,
       "word": "韦礼安徐海乔 安和乔",
@@ -3139,14 +3195,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 22899,
-      "num": 217470,
-      "word": "景区回应丹霞地貌被植被覆盖",
-      "onboard_time": 1727442620,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 22744,
       "num": 313503,
       "word": "中国智能电车已经NEXTLEVEL了吗",
@@ -3155,27 +3203,11 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 21657,
-      "num": 219540,
-      "word": "市监局回应盒饭店将食材堆垃圾箱旁",
-      "onboard_time": 1727443100,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 21622,
       "num": 28761,
       "word": "越来越多中国记者出现在国际新闻现场",
       "onboard_time": 1727381891,
       "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 21129,
-      "num": 221672,
-      "word": "超650吨走私冻品装满29个集装箱",
-      "onboard_time": 1727443220,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -3256,6 +3288,22 @@
       "word": "国庆高峰期加开多趟中短途旅客列车",
       "onboard_time": 1727389393,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 10806,
+      "num": 222385,
+      "word": "肖战回关王力宏",
+      "onboard_time": 1727444179,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 7102,
+      "num": 317615,
+      "word": "352个集体368名个人受到表彰",
+      "onboard_time": 1727444301,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
