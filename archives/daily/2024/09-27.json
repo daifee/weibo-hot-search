@@ -1,6 +1,6 @@
 {
   "startTime": 1727368091089,
-  "endTime": 1727448004693,
+  "endTime": 1727450548882,
   "band_list": [
     {
       "raw_hot": 4551944,
@@ -105,6 +105,14 @@
       "onboard_time": 1727405001,
       "rank": 4,
       "category": "财经"
+    },
+    {
+      "raw_hot": 1363538,
+      "num": 1363538,
+      "word": "靠摆摊卖螺蛳粉老板月入8万",
+      "onboard_time": 1727445981,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1318105,
@@ -219,6 +227,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 996262,
+      "num": 996262,
+      "word": "霍格沃茨三任校长演员离世",
+      "onboard_time": 1727446160,
+      "rank": 6,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 982470,
       "num": 982470,
       "word": "A股正从反弹走向反转",
@@ -299,6 +315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 768401,
+      "num": 768401,
+      "word": "警方回应青海无人区有多人扔砖砸车",
+      "onboard_time": 1727445320,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 755283,
       "num": 755283,
       "word": "WTT抽签",
@@ -313,14 +337,6 @@
       "onboard_time": 1727443401,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 722781,
-      "num": 695557,
-      "word": "霍格沃茨三任校长演员离世",
-      "onboard_time": 1727446160,
-      "rank": 6,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 722068,
@@ -385,14 +401,6 @@
       "onboard_time": 1727370494,
       "rank": 28,
       "category": "网红"
-    },
-    {
-      "raw_hot": 624134,
-      "num": 703847,
-      "word": "靠摆摊卖螺蛳粉老板月入8万",
-      "onboard_time": 1727445981,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 603076,
@@ -497,14 +505,6 @@
       "onboard_time": 1727411601,
       "rank": 15,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 501354,
-      "num": 501354,
-      "word": "警方回应青海无人区有多人扔砖砸车",
-      "onboard_time": 1727445320,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 494438,
@@ -633,6 +633,14 @@
       "onboard_time": 1727405001,
       "rank": 38,
       "category": "互联网,财经"
+    },
+    {
+      "raw_hot": 410957,
+      "num": 405824,
+      "word": "周杰伦千山万水现场",
+      "onboard_time": 1727447362,
+      "rank": 26,
+      "category": "演出"
     },
     {
       "raw_hot": 407651,
@@ -1275,6 +1283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 226927,
+      "num": 394551,
+      "word": "麦格教授 石墩出动",
+      "onboard_time": 1727446820,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 221456,
       "num": 306220,
       "word": "毛不易 希望大家一开场就哭",
@@ -1337,6 +1353,14 @@
       "onboard_time": 1727415680,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 211939,
+      "num": 388132,
+      "word": "以总理被迫雨中与人握手",
+      "onboard_time": 1727449341,
+      "rank": 8,
+      "category": "国外时政"
     },
     {
       "raw_hot": 209526,
@@ -1539,12 +1563,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 192315,
-      "num": 192315,
-      "word": "周杰伦千山万水现场",
-      "onboard_time": 1727447362,
-      "rank": 26,
-      "category": "演出"
+      "raw_hot": 192052,
+      "num": 192052,
+      "word": "中餐厅",
+      "onboard_time": 1727449760,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 191444,
@@ -1563,20 +1587,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 191147,
-      "num": 323166,
-      "word": "麦格教授 石墩出动",
-      "onboard_time": 1727446820,
-      "rank": 47,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 190254,
       "num": 259397,
       "word": "曾毅首部电影官宣",
       "onboard_time": 1727424620,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 189974,
+      "num": 189974,
+      "word": "你婚后愿意和老人住在一起吗",
+      "onboard_time": 1727448740,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 189659,
@@ -1627,12 +1651,28 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 188278,
+      "num": 188278,
+      "word": "斯内普",
+      "onboard_time": 1727449821,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 187524,
       "num": 187524,
       "word": "股票",
       "onboard_time": 1727423179,
       "rank": 38,
       "category": "财经"
+    },
+    {
+      "raw_hot": 185626,
+      "num": 185626,
+      "word": "汪苏泷演唱会DJ是王鹤棣",
+      "onboard_time": 1727450359,
+      "rank": 29,
+      "category": "演出"
     },
     {
       "raw_hot": 185110,
@@ -1747,6 +1787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 171800,
+      "num": 171800,
+      "word": "中戏上戏中传同台pk",
+      "onboard_time": 1727447301,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 171297,
       "num": 171297,
       "word": "洒水车哼着歌就把火灭了",
@@ -1833,6 +1881,14 @@
       "onboard_time": 1727404880,
       "rank": 47,
       "category": "财经"
+    },
+    {
+      "raw_hot": 165595,
+      "num": 410324,
+      "word": "雎晓雯产后重返国际T台",
+      "onboard_time": 1727446761,
+      "rank": 19,
+      "category": "时尚"
     },
     {
       "raw_hot": 164920,
@@ -1947,12 +2003,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 158059,
+      "num": 158059,
+      "word": "陈哲远 有没有可能许凯你找错人了",
+      "onboard_time": 1727447541,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 157576,
       "num": 157576,
       "word": "何超莲陈昊宇侯佩岑同框",
       "onboard_time": 1727414360,
       "rank": 44,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 156277,
+      "num": 651375,
+      "word": "87套法拍房待拍卖仅1人报名",
+      "onboard_time": 1727446040,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 155983,
@@ -1969,14 +2041,6 @@
       "onboard_time": 1727431580,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 154670,
-      "num": 154670,
-      "word": "中戏上戏中传同台pk",
-      "onboard_time": 1727447301,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 154594,
@@ -2251,6 +2315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 132317,
+      "num": 132317,
+      "word": "和叶学会了飞吻",
+      "onboard_time": 1727448080,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 132210,
       "num": 132210,
       "word": "Z世代眼中的孔子是什么样子",
@@ -2307,12 +2379,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 127106,
+      "num": 670172,
+      "word": "镇政府回应蜂农300万只蜜蜂死亡",
+      "onboard_time": 1727446580,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 125236,
       "num": 146725,
       "word": "聂远 华坪女高的故事还在继续",
       "onboard_time": 1727369774,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 124556,
+      "num": 124556,
+      "word": "直播间赌石被骗还以为是运气不好",
+      "onboard_time": 1727448260,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 124549,
@@ -2403,6 +2491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 115753,
+      "num": 115753,
+      "word": "任嘉伦歌词两年后等来了回旋镖",
+      "onboard_time": 1727450419,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 114847,
       "num": 114847,
       "word": "成龙回复全妹了",
@@ -2483,14 +2579,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 108161,
-      "num": 108161,
-      "word": "陈哲远 有没有可能许凯你找错人了",
-      "onboard_time": 1727447541,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 107122,
       "num": 107122,
       "word": "1万多平米的树林其实只有1棵树",
@@ -2505,14 +2593,6 @@
       "onboard_time": 1727438179,
       "rank": 46,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 104582,
-      "num": 651375,
-      "word": "87套法拍房待拍卖仅1人报名",
-      "onboard_time": 1727446040,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 103999,
@@ -2699,14 +2779,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 80434,
-      "num": 670172,
-      "word": "镇政府回应蜂农300万只蜜蜂死亡",
-      "onboard_time": 1727446580,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 79058,
       "num": 82220,
       "word": "住宿前一定要先检查这4个地方",
@@ -2777,14 +2849,6 @@
       "onboard_time": 1727360603,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 71625,
-      "num": 410324,
-      "word": "雎晓雯产后重返国际T台",
-      "onboard_time": 1727446761,
-      "rank": 19,
-      "category": "时尚"
     },
     {
       "raw_hot": 71488,
@@ -3107,6 +3171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 37481,
+      "num": 373727,
+      "word": "江苏昆山部分学校发放发霉面包",
+      "onboard_time": 1727449520,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 37477,
       "num": 274042,
       "word": "男子轻信出国高薪务工被骗1.9万",
@@ -3156,7 +3228,7 @@
     },
     {
       "raw_hot": 34431,
-      "num": 723356,
+      "num": 781145,
       "word": "352个集体368名个人受到表彰",
       "onboard_time": 1727444301,
       "rank": 2,
@@ -3299,6 +3371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 27738,
+      "num": 337835,
+      "word": "专家称网售泰国洞燕多是走私或假冒",
+      "onboard_time": 1727449461,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 27200,
       "num": 467882,
       "word": "上证指数横线",
@@ -3337,6 +3417,14 @@
       "onboard_time": 1727431220,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 26089,
+      "num": 329614,
+      "word": "石破茂将把日本带往何方",
+      "onboard_time": 1727450301,
+      "rank": 14,
+      "category": "国外时政"
     },
     {
       "raw_hot": 25690,
