@@ -1,6 +1,6 @@
 {
   "startTime": 1727454453610,
-  "endTime": 1727461803733,
+  "endTime": 1727462605296,
   "band_list": [
     {
       "raw_hot": 801781,
@@ -403,6 +403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 71746,
+      "num": 66197,
+      "word": "吴宣仪cos貂蝉",
+      "onboard_time": 1727458154,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 68216,
       "num": 68216,
       "word": "和叶太甜了吧",
@@ -417,14 +425,6 @@
       "onboard_time": 1727452219,
       "rank": 42,
       "category": "情感"
-    },
-    {
-      "raw_hot": 66197,
-      "num": 66197,
-      "word": "吴宣仪cos貂蝉",
-      "onboard_time": 1727458154,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 64997,
@@ -457,6 +457,14 @@
       "onboard_time": 1727455396,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 39618,
+      "num": 75203,
+      "word": "男子偷车开完加油再还回",
+      "onboard_time": 1727461153,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 39325,
@@ -499,19 +507,19 @@
       "category": "演出"
     },
     {
+      "raw_hot": 24621,
+      "num": 33017,
+      "word": "雪迷宫央一开播",
+      "onboard_time": 1727462292,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 23831,
       "num": 247710,
       "word": "接力表白祖国",
       "onboard_time": 1727444179,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 18632,
-      "num": 75203,
-      "word": "男子偷车开完加油再还回",
-      "onboard_time": 1727461153,
-      "rank": 9,
       "category": "社会新闻"
     },
     {

@@ -1,0 +1,410 @@
+{
+  "runTime": 1727462605296,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 182698,
+        "num": 182698,
+        "word": "关停饭圈相关违规账号10万余个",
+        "onboard_time": 1727453239,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140813,
+        "num": 140813,
+        "word": "打假博主称东北雨姐丈夫曾拿刀威胁",
+        "onboard_time": 1727455396,
+        "rank": 1,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 22417,
+        "num": 121424,
+        "word": "接力表白祖国",
+        "onboard_time": 1727444179,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106735,
+        "num": 106735,
+        "word": "霍格沃茨三任校长演员离世",
+        "onboard_time": 1727446160,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 80402,
+        "num": 80402,
+        "word": "靠摆摊卖螺蛳粉老板月入8万",
+        "onboard_time": 1727445981,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 73063,
+        "num": 73063,
+        "word": "你婚后愿意和老人住在一起吗",
+        "onboard_time": 1727448740,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 80119,
+        "num": 71448,
+        "word": "斯内普",
+        "onboard_time": 1727449821,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 78190,
+        "num": 70598,
+        "word": "张淇 破音",
+        "onboard_time": 1727452578,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 69144,
+        "num": 69144,
+        "word": "警方回应青海无人区有多人扔砖砸车",
+        "onboard_time": 1727445320,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 39618,
+        "num": 67675,
+        "word": "男子偷车开完加油再还回",
+        "onboard_time": 1727461153,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184513,
+        "num": 65671,
+        "word": "舅舅借外甥女900万不肯还",
+        "onboard_time": 1727444301,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146449,
+        "num": 64663,
+        "word": "黄多多在纽约街边画画",
+        "onboard_time": 1727438058,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82507,
+        "num": 62213,
+        "word": "武汉1.6级地震",
+        "onboard_time": 1727442380,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 80446,
+        "num": 60614,
+        "word": "警方回应女网红张悦疑坠楼身亡",
+        "onboard_time": 1727442500,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 77901,
+        "num": 56809,
+        "word": "女子钥匙放车里多次凌晨被开走",
+        "onboard_time": 1727436018,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 71746,
+        "num": 56202,
+        "word": "吴宣仪cos貂蝉",
+        "onboard_time": 1727458154,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 54649,
+        "num": 54649,
+        "word": "发电厂海蜇泛滥员工已抓21万斤",
+        "onboard_time": 1727437938,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 48655,
+        "num": 48655,
+        "word": "NewJeans新歌demo",
+        "onboard_time": 1727451080,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 47921,
+        "num": 47921,
+        "word": "王玉雯否认在王子奇车上待了很久",
+        "onboard_time": 1727436559,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 47785,
+        "num": 47785,
+        "word": "87套法拍房待拍卖仅1人报名",
+        "onboard_time": 1727446040,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 84983,
+        "num": 47625,
+        "word": "刚出生宝宝遭隐翅虫攻击致头部感染",
+        "onboard_time": 1727442439,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 59380,
+        "num": 47282,
+        "word": "二本恋综拍出来了",
+        "onboard_time": 1727437880,
+        "rank": 21,
+        "category": "幽默,作品衍生"
+      },
+      {
+        "raw_hot": 42439,
+        "num": 42439,
+        "word": "山西甘肃婚假最长可享30天",
+        "onboard_time": 1727457374,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 40944,
+        "num": 40944,
+        "word": "麦格教授扮演者玛吉史密斯去世",
+        "onboard_time": 1727444781,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 40901,
+        "num": 40901,
+        "word": "汪苏泷演唱会DJ是王鹤棣",
+        "onboard_time": 1727450359,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 40773,
+        "num": 40773,
+        "word": "闵熙珍说NewJeans不会离开HYBE",
+        "onboard_time": 1727452399,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40553,
+        "num": 40553,
+        "word": "安徽省地震局回应地震热点问题",
+        "onboard_time": 1727443401,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 40309,
+        "num": 40309,
+        "word": "周杰伦千山万水现场",
+        "onboard_time": 1727447362,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 37592,
+        "num": 37592,
+        "word": "半熟男女 全员恶人",
+        "onboard_time": 1727443700,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 36076,
+        "num": 36076,
+        "word": "直播间赌石被骗还以为是运气不好",
+        "onboard_time": 1727448260,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34475,
+        "num": 34475,
+        "word": "原神版本直播",
+        "onboard_time": 1727439499,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 34252,
+        "num": 34252,
+        "word": "中国最没存在感的省会",
+        "onboard_time": 1727427199,
+        "rank": 31,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 33158,
+        "num": 33158,
+        "word": "奶茶店称因电费差价要多做一千杯",
+        "onboard_time": 1727433798,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32010,
+        "num": 33150,
+        "word": "孙怡巴黎一抹辣妹红",
+        "onboard_time": 1727461753,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 28797,
+        "num": 33149,
+        "word": "原神5.1",
+        "onboard_time": 1727455815,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 28568,
+        "num": 33136,
+        "word": "方媛称郭富城支持自己买房",
+        "onboard_time": 1727440999,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28377,
+        "num": 33130,
+        "word": "和叶太甜了吧",
+        "onboard_time": 1727454498,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 27594,
+        "num": 33112,
+        "word": "雎晓雯产后重返国际T台",
+        "onboard_time": 1727446761,
+        "rank": 37,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 27308,
+        "num": 33110,
+        "word": "CP30",
+        "onboard_time": 1727432419,
+        "rank": 38,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 26914,
+        "num": 33100,
+        "word": "哈利波特",
+        "onboard_time": 1727445681,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 26798,
+        "num": 33091,
+        "word": "战至巅峰",
+        "onboard_time": 1727458813,
+        "rank": 40,
+        "category": "综艺,电竞"
+      },
+      {
+        "raw_hot": 26767,
+        "num": 33081,
+        "word": "以总理被迫雨中与人握手",
+        "onboard_time": 1727449341,
+        "rank": 41,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 26736,
+        "num": 33071,
+        "word": "告诉爸妈别这样用保鲜膜了",
+        "onboard_time": 1727440760,
+        "rank": 42,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 26027,
+        "num": 33056,
+        "word": "关智斌感谢赵丽颖把自己带火",
+        "onboard_time": 1727427619,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25519,
+        "num": 33047,
+        "word": "曹杨香缇莫平票",
+        "onboard_time": 1727451739,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25350,
+        "num": 33045,
+        "word": "闵熙珍晒HANNI聊天记录",
+        "onboard_time": 1727445741,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 24774,
+        "num": 33028,
+        "word": "张杰献唱原神周年曲",
+        "onboard_time": 1727444361,
+        "rank": 46,
+        "category": "音乐,游戏"
+      },
+      {
+        "raw_hot": 24675,
+        "num": 33020,
+        "word": "汪苏泷新歌梆梆",
+        "onboard_time": 1727455455,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 24621,
+        "num": 33017,
+        "word": "雪迷宫央一开播",
+        "onboard_time": 1727462292,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 23510,
+        "num": 33002,
+        "word": "肖战回关王力宏",
+        "onboard_time": 1727444179,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#全国民族团结进步表彰大会#"
+    }
+  }
+}
