@@ -1,0 +1,410 @@
+{
+  "runTime": 1727405620922,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3763455,
+        "num": 3763455,
+        "word": "贾玲不再担任大碗娱乐职务",
+        "onboard_time": 1727398761,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2205529,
+        "num": 2205529,
+        "word": "浙江婚假",
+        "onboard_time": 1727402842,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20855,
+        "num": 1647733,
+        "word": "中国红是国庆最美主色调",
+        "onboard_time": 1727356880,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1322395,
+        "num": 1322395,
+        "word": "大碗娱乐所有艺人合约到期不续",
+        "onboard_time": 1727399419,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1157218,
+        "num": 1157218,
+        "word": "上交所交易系统出现延迟现象",
+        "onboard_time": 1727405001,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1145349,
+        "num": 1145349,
+        "word": "A股",
+        "onboard_time": 1727400498,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 675407,
+        "num": 675407,
+        "word": "王皓说王楚钦是承上启下",
+        "onboard_time": 1727401399,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 592244,
+        "num": 592244,
+        "word": "大量淘宝用户刷出微信支付界面",
+        "onboard_time": 1727402479,
+        "rank": 7,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 381171,
+        "num": 381171,
+        "word": "巴总统问以色列谁杀了1.5万名儿童",
+        "onboard_time": 1727399479,
+        "rank": 8,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 72169,
+        "num": 358934,
+        "word": "AI写的大学论文导师能看出来吗",
+        "onboard_time": 1727405477,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 355811,
+        "num": 355811,
+        "word": "阮佳 黑神话",
+        "onboard_time": 1727400322,
+        "rank": 10,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 348480,
+        "num": 348480,
+        "word": "今天起浙江婚假延长至13天",
+        "onboard_time": 1727403380,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 344829,
+        "num": 344829,
+        "word": "大熊猫萌兰再次受伤",
+        "onboard_time": 1727400920,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274821,
+        "num": 274821,
+        "word": "被传坠楼身亡女网红账号已私密",
+        "onboard_time": 1727396180,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50948,
+        "num": 269507,
+        "word": "禁止新能源车在地库停放是否合法",
+        "onboard_time": 1727404520,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 268228,
+        "num": 268228,
+        "word": "女网红疑坠楼身亡附近商户发声",
+        "onboard_time": 1727402659,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267741,
+        "num": 267741,
+        "word": "Jennie厂牌",
+        "onboard_time": 1727400440,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 264617,
+        "num": 264617,
+        "word": "多家炒股软件崩了",
+        "onboard_time": 1727404459,
+        "rank": 17,
+        "category": "财经,互联网"
+      },
+      {
+        "raw_hot": 209348,
+        "num": 264507,
+        "word": "张小斐与大碗娱乐合约到期",
+        "onboard_time": 1727399359,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92453,
+        "num": 264254,
+        "word": "芬兰计划提前归还大熊猫",
+        "onboard_time": 1727404939,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 303836,
+        "num": 263969,
+        "word": "新娘婚礼下轿被大妈强扯头纱",
+        "onboard_time": 1727391855,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 295308,
+        "num": 263690,
+        "word": "丫丫从筐里掏出小苹果",
+        "onboard_time": 1727401579,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 263635,
+        "num": 263635,
+        "word": "王嘉尔samuel竟然认识",
+        "onboard_time": 1727403680,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 250488,
+        "num": 250488,
+        "word": "中国人民银行决定降准",
+        "onboard_time": 1727396599,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 248720,
+        "num": 248720,
+        "word": "7天轻断食瘦了9斤",
+        "onboard_time": 1727396299,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 231338,
+        "num": 231338,
+        "word": "四川人数到三拿下蜀道山",
+        "onboard_time": 1727404640,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127317,
+        "num": 231312,
+        "word": "巴适四川等你来",
+        "onboard_time": 1727402659,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187274,
+        "num": 230923,
+        "word": "朴彩英签约大西洋唱片",
+        "onboard_time": 1727396778,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129466,
+        "num": 230213,
+        "word": "杨紫微博开屏",
+        "onboard_time": 1727395098,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 42341,
+        "num": 230020,
+        "word": "16吨中国大白菜已运抵韩国",
+        "onboard_time": 1727404760,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229777,
+        "num": 229777,
+        "word": "熊猫丫丫腮帮子耷拉到肩膀上了",
+        "onboard_time": 1727403559,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228649,
+        "num": 228649,
+        "word": "下调存款准备金率0.5个百分点",
+        "onboard_time": 1727396599,
+        "rank": 31,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 225518,
+        "num": 225518,
+        "word": "浙江婚假新规正式通过",
+        "onboard_time": 1727404161,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218252,
+        "num": 218252,
+        "word": "Scout事件大结局",
+        "onboard_time": 1727402479,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 217543,
+        "num": 217543,
+        "word": "一个洗头油得慢的办法",
+        "onboard_time": 1727363361,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 217128,
+        "num": 217128,
+        "word": "巴勒斯坦总统连说3遍不会离开家园",
+        "onboard_time": 1727399599,
+        "rank": 35,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 196248,
+        "num": 196248,
+        "word": "浙江领证未满1年新人也享受13天婚假",
+        "onboard_time": 1727405539,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194802,
+        "num": 194802,
+        "word": "2岁娃睡不好被奶奶喂符水致铅中毒",
+        "onboard_time": 1727370615,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193572,
+        "num": 193572,
+        "word": "同花顺",
+        "onboard_time": 1727405001,
+        "rank": 38,
+        "category": "互联网,财经"
+      },
+      {
+        "raw_hot": 192244,
+        "num": 192244,
+        "word": "迪丽热巴少来烦姐挂件",
+        "onboard_time": 1727365759,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191699,
+        "num": 191699,
+        "word": "上证指数",
+        "onboard_time": 1727405420,
+        "rank": 40,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 190215,
+        "num": 190215,
+        "word": "撤单",
+        "onboard_time": 1727404880,
+        "rank": 41,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 186290,
+        "num": 186290,
+        "word": "河南师大偷女生内裤的男生已找到",
+        "onboard_time": 1727396299,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183121,
+        "num": 183121,
+        "word": "东北雨姐称将追责P图博主",
+        "onboard_time": 1727403559,
+        "rank": 43,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 177319,
+        "num": 177319,
+        "word": "30岁失业在家开馒头店",
+        "onboard_time": 1727404399,
+        "rank": 44,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 174407,
+        "num": 174407,
+        "word": "车位被占男子竟把对方车砸了",
+        "onboard_time": 1727402120,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169049,
+        "num": 169049,
+        "word": "张杰谢娜纪念结婚13年",
+        "onboard_time": 1727364620,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166288,
+        "num": 166288,
+        "word": "东方财富",
+        "onboard_time": 1727404880,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 97041,
+        "num": 165098,
+        "word": "吴磊没懂嘻嘻不嘻嘻",
+        "onboard_time": 1727402539,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 88327,
+        "num": 164272,
+        "word": "东北雨姐团队称红薯粉条应该有问题",
+        "onboard_time": 1727389274,
+        "rank": 49,
+        "category": "网红"
+      }
+    ],
+    "hotgov": {
+      "word": "#努力培养更多高素质新闻传播人才#"
+    }
+  }
+}

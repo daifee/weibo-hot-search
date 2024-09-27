@@ -1,6 +1,6 @@
 {
   "startTime": 1727368091089,
-  "endTime": 1727402344759,
+  "endTime": 1727405620922,
   "band_list": [
     {
       "raw_hot": 4551944,
@@ -19,8 +19,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2205529,
+      "num": 2205529,
+      "word": "浙江婚假",
+      "onboard_time": 1727402842,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2177230,
-      "num": 625418,
+      "num": 1322395,
       "word": "大碗娱乐所有艺人合约到期不续",
       "onboard_time": 1727399419,
       "rank": 3,
@@ -33,6 +41,22 @@
       "onboard_time": 1727391855,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1157218,
+      "num": 1157218,
+      "word": "上交所交易系统出现延迟现象",
+      "onboard_time": 1727405001,
+      "rank": 4,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 1145349,
+      "num": 1145349,
+      "word": "A股",
+      "onboard_time": 1727400498,
+      "rank": 7,
+      "category": "财经"
     },
     {
       "raw_hot": 1118445,
@@ -67,6 +91,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 675407,
+      "num": 675407,
+      "word": "王皓说王楚钦是承上启下",
+      "onboard_time": 1727401399,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 625834,
       "num": 625834,
       "word": "打假博主大娃回应东北雨姐",
@@ -83,20 +115,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 592244,
+      "num": 592244,
+      "word": "大量淘宝用户刷出微信支付界面",
+      "onboard_time": 1727402479,
+      "rank": 7,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 591226,
       "num": 591226,
       "word": "一个洗头油得慢的办法",
       "onboard_time": 1727363361,
       "rank": 1,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 575065,
-      "num": 575065,
-      "word": "A股",
-      "onboard_time": 1727400498,
-      "rank": 7,
-      "category": "财经"
     },
     {
       "raw_hot": 571822,
@@ -121,14 +153,6 @@
       "onboard_time": 1727357481,
       "rank": 4,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 478908,
-      "num": 306436,
-      "word": "王皓说王楚钦是承上启下",
-      "onboard_time": 1727401399,
-      "rank": 10,
-      "category": "体育"
     },
     {
       "raw_hot": 473442,
@@ -180,11 +204,19 @@
     },
     {
       "raw_hot": 360715,
-      "num": 229272,
+      "num": 248720,
       "word": "7天轻断食瘦了9斤",
       "onboard_time": 1727396299,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 355811,
+      "num": 355811,
+      "word": "阮佳 黑神话",
+      "onboard_time": 1727400322,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 350736,
@@ -193,6 +225,14 @@
       "onboard_time": 1727395699,
       "rank": 11,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 348480,
+      "num": 348480,
+      "word": "今天起浙江婚假延长至13天",
+      "onboard_time": 1727403380,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 346854,
@@ -208,6 +248,14 @@
       "word": "男生被4女生扣留2小时下跪道歉",
       "onboard_time": 1727355319,
       "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 344829,
+      "num": 344829,
+      "word": "大熊猫萌兰再次受伤",
+      "onboard_time": 1727400920,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -243,14 +291,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 301229,
-      "num": 301229,
-      "word": "大熊猫萌兰再次受伤",
-      "onboard_time": 1727400920,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 298206,
       "num": 284163,
       "word": "东北雨姐团队称红薯粉条应该有问题",
@@ -265,6 +305,14 @@
       "onboard_time": 1727359941,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 295308,
+      "num": 263690,
+      "word": "丫丫从筐里掏出小苹果",
+      "onboard_time": 1727401579,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 293988,
@@ -315,6 +363,30 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 268228,
+      "num": 268228,
+      "word": "女网红疑坠楼身亡附近商户发声",
+      "onboard_time": 1727402659,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 264617,
+      "num": 264617,
+      "word": "多家炒股软件崩了",
+      "onboard_time": 1727404459,
+      "rank": 17,
+      "category": "财经,互联网"
+    },
+    {
+      "raw_hot": 263635,
+      "num": 263635,
+      "word": "王嘉尔samuel竟然认识",
+      "onboard_time": 1727403680,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 248292,
       "num": 248292,
       "word": "杨紫微博开屏",
@@ -347,6 +419,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 231338,
+      "num": 231338,
+      "word": "四川人数到三拿下蜀道山",
+      "onboard_time": 1727404640,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 230812,
       "num": 230812,
       "word": "韩女奥运冠军被霸凌给男选手洗内裤",
@@ -355,12 +435,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 226838,
-      "num": 226838,
-      "word": "阮佳 黑神话",
-      "onboard_time": 1727400322,
-      "rank": 31,
-      "category": "游戏"
+      "raw_hot": 229777,
+      "num": 229777,
+      "word": "熊猫丫丫腮帮子耷拉到肩膀上了",
+      "onboard_time": 1727403559,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 225518,
+      "num": 225518,
+      "word": "浙江婚假新规正式通过",
+      "onboard_time": 1727404161,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 218252,
+      "num": 218252,
+      "word": "Scout事件大结局",
+      "onboard_time": 1727402479,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 209526,
@@ -368,6 +464,14 @@
       "word": "民宿为什么失宠了",
       "onboard_time": 1727345479,
       "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 196248,
+      "num": 196248,
+      "word": "浙江领证未满1年新人也享受13天婚假",
+      "onboard_time": 1727405539,
+      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -379,12 +483,36 @@
       "category": "电影"
     },
     {
-      "raw_hot": 186496,
-      "num": 186496,
-      "word": "丫丫从筐里掏出小苹果",
-      "onboard_time": 1727401579,
-      "rank": 31,
-      "category": "社会新闻"
+      "raw_hot": 193572,
+      "num": 193572,
+      "word": "同花顺",
+      "onboard_time": 1727405001,
+      "rank": 38,
+      "category": "互联网,财经"
+    },
+    {
+      "raw_hot": 191699,
+      "num": 191699,
+      "word": "上证指数",
+      "onboard_time": 1727405420,
+      "rank": 40,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 190215,
+      "num": 190215,
+      "word": "撤单",
+      "onboard_time": 1727404880,
+      "rank": 41,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 183121,
+      "num": 183121,
+      "word": "东北雨姐称将追责P图博主",
+      "onboard_time": 1727403559,
+      "rank": 43,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 183054,
@@ -403,12 +531,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 177319,
+      "num": 177319,
+      "word": "30岁失业在家开馒头店",
+      "onboard_time": 1727404399,
+      "rank": 44,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 174407,
+      "num": 174407,
+      "word": "车位被占男子竟把对方车砸了",
+      "onboard_time": 1727402120,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 166957,
       "num": 273560,
       "word": "中国住宅要取消公摊了吗",
       "onboard_time": 1727341759,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 166288,
+      "num": 166288,
+      "word": "东方财富",
+      "onboard_time": 1727404880,
+      "rank": 47,
+      "category": "财经"
     },
     {
       "raw_hot": 164154,
@@ -515,6 +667,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 127317,
+      "num": 231312,
+      "word": "巴适四川等你来",
+      "onboard_time": 1727402659,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 125236,
       "num": 146725,
       "word": "聂远 华坪女高的故事还在继续",
@@ -611,20 +771,20 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 101026,
-      "num": 101026,
-      "word": "车位被占男子竟把对方车砸了",
-      "onboard_time": 1727402120,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 97514,
       "num": 97514,
       "word": "阿尔瓦雷斯绝杀",
       "onboard_time": 1727401460,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 97041,
+      "num": 165098,
+      "word": "吴磊没懂嘻嘻不嘻嘻",
+      "onboard_time": 1727402539,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 95122,
@@ -649,6 +809,14 @@
       "onboard_time": 1727366476,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 92453,
+      "num": 264254,
+      "word": "芬兰计划提前归还大熊猫",
+      "onboard_time": 1727404939,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 91616,
@@ -739,6 +907,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 72169,
+      "num": 358934,
+      "word": "AI写的大学论文导师能看出来吗",
+      "onboard_time": 1727405477,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 67295,
       "num": 82215,
       "word": "龚俊工作室出图",
@@ -811,6 +987,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 50948,
+      "num": 269507,
+      "word": "禁止新能源车在地库停放是否合法",
+      "onboard_time": 1727404520,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 44974,
       "num": 44974,
       "word": "邝玲玲 年度魅力女性奖",
@@ -824,6 +1008,14 @@
       "word": "酒店偷拍事件中这些法律问题待厘清",
       "onboard_time": 1727392516,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 42341,
+      "num": 230020,
+      "word": "16吨中国大白菜已运抵韩国",
+      "onboard_time": 1727404760,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -876,7 +1068,7 @@
     },
     {
       "raw_hot": 24716,
-      "num": 636438,
+      "num": 1647733,
       "word": "中国红是国庆最美主色调",
       "onboard_time": 1727356880,
       "rank": 2,
