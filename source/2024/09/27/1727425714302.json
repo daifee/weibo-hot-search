@@ -1,0 +1,410 @@
+{
+  "runTime": 1727425714302,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 993497,
+        "num": 1158959,
+        "word": "石破茂将出任日本首相",
+        "onboard_time": 1727418801,
+        "rank": 0,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 715340,
+        "num": 715340,
+        "word": "王玉雯探班王子奇",
+        "onboard_time": 1727422578,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19706,
+        "num": 674785,
+        "word": "文化中国行看黄渤海候鸟栖息地",
+        "onboard_time": 1727410220,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1179903,
+        "num": 667261,
+        "word": "兵哥哥执勤时被宝妈塞了一个娃",
+        "onboard_time": 1727420297,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 652958,
+        "num": 652958,
+        "word": "官方介入调查约300万只蜜蜂死亡",
+        "onboard_time": 1727415919,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 601371,
+        "num": 601371,
+        "word": "WTT中国大满贯女单签表",
+        "onboard_time": 1727422939,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 542453,
+        "num": 542453,
+        "word": "淘宝微信支付",
+        "onboard_time": 1727414960,
+        "rank": 6,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 290565,
+        "num": 536789,
+        "word": "马伯骞回应没有子承父业的原因",
+        "onboard_time": 1727415800,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 78186,
+        "num": 530466,
+        "word": "中方回应石破茂将出任日本首相",
+        "onboard_time": 1727424500,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25983,
+        "num": 522889,
+        "word": "有券商客户咨询数量暴涨3倍以上",
+        "onboard_time": 1727424860,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 678024,
+        "num": 515449,
+        "word": "名媛培训班 就业率",
+        "onboard_time": 1727415081,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27378,
+        "num": 511374,
+        "word": "时装周什么最要紧",
+        "onboard_time": 1727422458,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 507658,
+        "num": 507658,
+        "word": "A股正从反弹走向反转",
+        "onboard_time": 1727422520,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 75270,
+        "num": 501315,
+        "word": "石破茂胜选对日本政局有何影响",
+        "onboard_time": 1727424259,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 496200,
+        "num": 496200,
+        "word": "遭教官体罚进ICU的14岁女孩离世",
+        "onboard_time": 1727407160,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 390355,
+        "num": 390355,
+        "word": "浙江婚假",
+        "onboard_time": 1727402842,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 330034,
+        "num": 330034,
+        "word": "河南嵩县约300万只蜜蜂离奇死亡",
+        "onboard_time": 1727419340,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22236,
+        "num": 329796,
+        "word": "商铺凿承重墙装线槽称想着好看",
+        "onboard_time": 1727424500,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 67970,
+        "num": 325065,
+        "word": "李雪琴也想砸新浪的电视",
+        "onboard_time": 1727425459,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 63814,
+        "num": 320950,
+        "word": "蒋勤勤掌管空气刘海的神",
+        "onboard_time": 1727425279,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 369559,
+        "num": 318908,
+        "word": "打过狂犬疫苗的人嘴真严啊",
+        "onboard_time": 1727416581,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 317327,
+        "num": 317327,
+        "word": "国庆假期全社会人员流动量将超19亿",
+        "onboard_time": 1727422640,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 295735,
+        "num": 295735,
+        "word": "王楚钦首轮对阵篠塚大登",
+        "onboard_time": 1727423540,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 293498,
+        "num": 293498,
+        "word": "走进珂学",
+        "onboard_time": 1727418321,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 117151,
+        "num": 277477,
+        "word": "淘宝微信打通第一批受益者出现了",
+        "onboard_time": 1727422400,
+        "rank": 24,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 272966,
+        "num": 272966,
+        "word": "WTT中国大满贯男单签表",
+        "onboard_time": 1727424200,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 271057,
+        "num": 271057,
+        "word": "阿云嘎透露和肖战聊天内容",
+        "onboard_time": 1727419578,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 259839,
+        "num": 259839,
+        "word": "戚百草骗骗子被骗子骗",
+        "onboard_time": 1727423719,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191182,
+        "num": 259434,
+        "word": "朱一龙说张子枫是勇敢的小女孩",
+        "onboard_time": 1727424920,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 190254,
+        "num": 259397,
+        "word": "曾毅首部电影官宣",
+        "onboard_time": 1727424620,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 259366,
+        "num": 259366,
+        "word": "WTT抽签",
+        "onboard_time": 1727418739,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 225541,
+        "num": 225541,
+        "word": "女子景区采了8朵蘑菇老公吃进ICU",
+        "onboard_time": 1727423719,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213501,
+        "num": 213501,
+        "word": "A股继续放量飙升",
+        "onboard_time": 1727413881,
+        "rank": 32,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 196946,
+        "num": 196946,
+        "word": "湖南爱上一次就会爱上无数次",
+        "onboard_time": 1727425639,
+        "rank": 33,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 189659,
+        "num": 189659,
+        "word": "王楚钦推荐外国运动员喝豆汁",
+        "onboard_time": 1727423122,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 35948,
+        "num": 189417,
+        "word": "淘宝官微修改文案增加微信支付",
+        "onboard_time": 1727423959,
+        "rank": 35,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 189184,
+        "num": 189184,
+        "word": "王楚钦孙颖莎出席大满贯抽签",
+        "onboard_time": 1727422939,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 188716,
+        "num": 188716,
+        "word": "Kim成熟了好多",
+        "onboard_time": 1727413940,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187524,
+        "num": 187524,
+        "word": "股票",
+        "onboard_time": 1727423179,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 186279,
+        "num": 186279,
+        "word": "曾毅 年过半百工作量猛增",
+        "onboard_time": 1727422339,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 180173,
+        "num": 180173,
+        "word": "巩固发展中华民族大团结",
+        "onboard_time": 1727422760,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 171763,
+        "num": 178987,
+        "word": "没苦硬吃可能毁了孩子一生",
+        "onboard_time": 1727423659,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178517,
+        "num": 178517,
+        "word": "浙江领证未满1年新人也享受13天婚假",
+        "onboard_time": 1727405539,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174390,
+        "num": 174390,
+        "word": "东北雨姐回应客服骂人",
+        "onboard_time": 1727411721,
+        "rank": 43,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 170255,
+        "num": 170255,
+        "word": "骗子在付款码收款码切换瞬间盗刷",
+        "onboard_time": 1727415680,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166662,
+        "num": 166662,
+        "word": "LNG确认Scout参加S14",
+        "onboard_time": 1727420418,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 162239,
+        "num": 162239,
+        "word": "国企推行末等调整和不胜任退出制度",
+        "onboard_time": 1727425039,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155579,
+        "num": 155579,
+        "word": "阮佳",
+        "onboard_time": 1727422880,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 153829,
+        "num": 153829,
+        "word": "孙颖莎首场对阵波兰选手",
+        "onboard_time": 1727425339,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146178,
+        "num": 146178,
+        "word": "女高管与下属约会开房被开除",
+        "onboard_time": 1727412862,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#要像石榴籽一样紧紧抱在一起#"
+    }
+  }
+}

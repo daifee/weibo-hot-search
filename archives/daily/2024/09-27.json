@@ -1,6 +1,6 @@
 {
   "startTime": 1727368091089,
-  "endTime": 1727422552841,
+  "endTime": 1727425714302,
   "band_list": [
     {
       "raw_hot": 4551944,
@@ -91,6 +91,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 1179903,
+      "num": 667261,
+      "word": "兵哥哥执勤时被宝妈塞了一个娃",
+      "onboard_time": 1727420297,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1118445,
       "num": 620046,
       "word": "警方通报三只羊卢某某录音事件",
@@ -124,7 +132,7 @@
     },
     {
       "raw_hot": 847404,
-      "num": 357569,
+      "num": 515449,
       "word": "名媛培训班 就业率",
       "onboard_time": 1727415081,
       "rank": 33,
@@ -161,6 +169,14 @@
       "onboard_time": 1727418739,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 715340,
+      "num": 715340,
+      "word": "王玉雯探班王子奇",
+      "onboard_time": 1727422578,
+      "rank": 1,
+      "category": "剧集"
     },
     {
       "raw_hot": 706023,
@@ -201,6 +217,14 @@
       "onboard_time": 1727370494,
       "rank": 28,
       "category": "网红"
+    },
+    {
+      "raw_hot": 601371,
+      "num": 601371,
+      "word": "WTT中国大满贯女单签表",
+      "onboard_time": 1727422939,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 593955,
@@ -275,6 +299,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 507658,
+      "num": 507658,
+      "word": "A股正从反弹走向反转",
+      "onboard_time": 1727422520,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 487194,
       "num": 487194,
       "word": "专家称A股3000点应该能站稳",
@@ -332,7 +364,7 @@
     },
     {
       "raw_hot": 428973,
-      "num": 289894,
+      "num": 318908,
       "word": "打过狂犬疫苗的人嘴真严啊",
       "onboard_time": 1727416581,
       "rank": 20,
@@ -393,14 +425,6 @@
       "onboard_time": 1727419578,
       "rank": 15,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 378069,
-      "num": 378069,
-      "word": "兵哥哥执勤时被宝妈塞了一个娃",
-      "onboard_time": 1727420297,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 364798,
@@ -507,6 +531,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 330034,
+      "num": 330034,
+      "word": "河南嵩县约300万只蜜蜂离奇死亡",
+      "onboard_time": 1727419340,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 326956,
       "num": 326956,
       "word": "朴彩英签约大西洋唱片",
@@ -528,6 +560,14 @@
       "word": "2岁娃睡不好被奶奶喂符水致铅中毒",
       "onboard_time": 1727370615,
       "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 317327,
+      "num": 317327,
+      "word": "国庆假期全社会人员流动量将超19亿",
+      "onboard_time": 1727422640,
+      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -571,6 +611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 295735,
+      "num": 295735,
+      "word": "王楚钦首轮对阵篠塚大登",
+      "onboard_time": 1727423540,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 295308,
       "num": 263690,
       "word": "丫丫从筐里掏出小苹果",
@@ -585,6 +633,14 @@
       "onboard_time": 1727367258,
       "rank": 27,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 293498,
+      "num": 293498,
+      "word": "走进珂学",
+      "onboard_time": 1727418321,
+      "rank": 43,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 293126,
@@ -651,6 +707,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 272966,
+      "num": 272966,
+      "word": "WTT中国大满贯男单签表",
+      "onboard_time": 1727424200,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 269779,
       "num": 292487,
       "word": "官方通报学生家长校门口跪地",
@@ -681,6 +745,14 @@
       "onboard_time": 1727403680,
       "rank": 22,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 259839,
+      "num": 259839,
+      "word": "戚百草骗骗子被骗子骗",
+      "onboard_time": 1727423719,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 259579,
@@ -792,6 +864,14 @@
       "word": "浙江婚假新规正式通过",
       "onboard_time": 1727404161,
       "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 225541,
+      "num": 225541,
+      "word": "女子景区采了8朵蘑菇老公吃进ICU",
+      "onboard_time": 1727423719,
+      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -907,14 +987,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 199061,
-      "num": 199061,
-      "word": "走进珂学",
-      "onboard_time": 1727418321,
-      "rank": 43,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 198762,
       "num": 198762,
       "word": "光与夜之恋巴黎时装周",
@@ -929,6 +1001,14 @@
       "onboard_time": 1727408360,
       "rank": 36,
       "category": "财经"
+    },
+    {
+      "raw_hot": 196946,
+      "num": 196946,
+      "word": "湖南爱上一次就会爱上无数次",
+      "onboard_time": 1727425639,
+      "rank": 33,
+      "category": "旅游"
     },
     {
       "raw_hot": 193678,
@@ -947,6 +1027,30 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 191182,
+      "num": 259434,
+      "word": "朱一龙说张子枫是勇敢的小女孩",
+      "onboard_time": 1727424920,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 190254,
+      "num": 259397,
+      "word": "曾毅首部电影官宣",
+      "onboard_time": 1727424620,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 189659,
+      "num": 189659,
+      "word": "王楚钦推荐外国运动员喝豆汁",
+      "onboard_time": 1727423122,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 189645,
       "num": 189645,
       "word": "鹿晗新单曲",
@@ -955,12 +1059,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 189637,
-      "num": 315406,
-      "word": "河南嵩县约300万只蜜蜂离奇死亡",
-      "onboard_time": 1727419340,
-      "rank": 28,
-      "category": "社会新闻"
+      "raw_hot": 189184,
+      "num": 189184,
+      "word": "王楚钦孙颖莎出席大满贯抽签",
+      "onboard_time": 1727422939,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 188526,
@@ -969,6 +1073,22 @@
       "onboard_time": 1727407819,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 187524,
+      "num": 187524,
+      "word": "股票",
+      "onboard_time": 1727423179,
+      "rank": 38,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 186279,
+      "num": 186279,
+      "word": "曾毅 年过半百工作量猛增",
+      "onboard_time": 1727422339,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 183728,
@@ -995,6 +1115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 180173,
+      "num": 180173,
+      "word": "巩固发展中华民族大团结",
+      "onboard_time": 1727422760,
+      "rank": 40,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 177319,
       "num": 177319,
       "word": "30岁失业在家开馒头店",
@@ -1016,6 +1144,14 @@
       "word": "巴适四川等你来",
       "onboard_time": 1727402659,
       "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 171763,
+      "num": 178987,
+      "word": "没苦硬吃可能毁了孩子一生",
+      "onboard_time": 1727423659,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -1107,6 +1243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 162239,
+      "num": 162239,
+      "word": "国企推行末等调整和不胜任退出制度",
+      "onboard_time": 1727425039,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 161172,
       "num": 161171,
       "word": "重637.4克公河蟹当选蟹王",
@@ -1147,6 +1291,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 155579,
+      "num": 155579,
+      "word": "阮佳",
+      "onboard_time": 1727422880,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 154594,
       "num": 524407,
       "word": "上交所交易陆续恢复正常",
@@ -1177,6 +1329,14 @@
       "onboard_time": 1727418679,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 153829,
+      "num": 153829,
+      "word": "孙颖莎首场对阵波兰选手",
+      "onboard_time": 1727425339,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 152690,
@@ -1233,14 +1393,6 @@
       "onboard_time": 1727407578,
       "rank": 48,
       "category": "健康医疗,社会新闻"
-    },
-    {
-      "raw_hot": 144487,
-      "num": 159400,
-      "word": "曾毅 年过半百工作量猛增",
-      "onboard_time": 1727422339,
-      "rank": 38,
-      "category": "电影"
     },
     {
       "raw_hot": 143777,
@@ -1409,6 +1561,14 @@
       "onboard_time": 1727396778,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 117151,
+      "num": 277477,
+      "word": "淘宝微信打通第一批受益者出现了",
+      "onboard_time": 1727422400,
+      "rank": 45,
+      "category": "互联网"
     },
     {
       "raw_hot": 115848,
@@ -1611,6 +1771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 78186,
+      "num": 530466,
+      "word": "中方回应石破茂将出任日本首相",
+      "onboard_time": 1727424500,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 76202,
       "num": 430025,
       "word": "利率下调对普通百姓有啥利好",
@@ -1625,6 +1793,14 @@
       "onboard_time": 1727354238,
       "rank": 44,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 75270,
+      "num": 501315,
+      "word": "石破茂胜选对日本政局有何影响",
+      "onboard_time": 1727424259,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 74066,
@@ -1665,6 +1841,14 @@
       "onboard_time": 1727415800,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 67970,
+      "num": 325065,
+      "word": "李雪琴也想砸新浪的电视",
+      "onboard_time": 1727425459,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 67295,
@@ -1721,6 +1905,14 @@
       "onboard_time": 1727368516,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 63814,
+      "num": 320950,
+      "word": "蒋勤勤掌管空气刘海的神",
+      "onboard_time": 1727425279,
+      "rank": 19,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 61770,
@@ -1785,14 +1977,6 @@
       "onboard_time": 1727404520,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 49269,
-      "num": 141911,
-      "word": "淘宝微信打通第一批受益者出现了",
-      "onboard_time": 1727422400,
-      "rank": 45,
-      "category": "互联网"
     },
     {
       "raw_hot": 46455,
@@ -1899,6 +2083,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 35948,
+      "num": 189417,
+      "word": "淘宝官微修改文案增加微信支付",
+      "onboard_time": 1727423959,
+      "rank": 35,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 35038,
       "num": 312195,
       "word": "于正去看了出入平安",
@@ -1911,14 +2103,6 @@
       "num": 54965,
       "word": "高中生用英语配音西游记经典片段",
       "onboard_time": 1727385672,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 32103,
-      "num": 371565,
-      "word": "A股正从反弹走向反转",
-      "onboard_time": 1727422520,
       "rank": 9,
       "category": "社会新闻"
     },
@@ -1995,6 +2179,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 27378,
+      "num": 511374,
+      "word": "时装周什么最要紧",
+      "onboard_time": 1727422458,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 27200,
       "num": 467882,
       "word": "上证指数横线",
@@ -2027,12 +2219,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 25983,
+      "num": 522889,
+      "word": "有券商客户咨询数量暴涨3倍以上",
+      "onboard_time": 1727424860,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 22744,
       "num": 313503,
       "word": "中国智能电车已经NEXTLEVEL了吗",
       "onboard_time": 1727411182,
       "rank": 49,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 22236,
+      "num": 329796,
+      "word": "商铺凿承重墙装线槽称想着好看",
+      "onboard_time": 1727424500,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 21622,
@@ -2081,14 +2289,6 @@
       "onboard_time": 1727385251,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 13001,
-      "num": 141892,
-      "word": "时装周什么最要紧",
-      "onboard_time": 1727422458,
-      "rank": 47,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 11909,

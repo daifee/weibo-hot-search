@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/09/01 00:25:38 ~ 2024/09/27 15:35:52
+本榜单时间：2024/09/01 00:25:38 ~ 2024/09/27 16:28:34
 </p>
 </blockquote>
 <p>
@@ -3723,6 +3723,12 @@ A股（热度：1203633）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%B5%E5%93%A5%E5%93%A5%E6%89%A7%E5%8B%A4%E6%97%B6%E8%A2%AB%E5%AE%9D%E5%A6%88%E5%A1%9E%E4%BA%86%E4%B8%80%E4%B8%AA%E5%A8%83%23" target="weibo">
+兵哥哥执勤时被宝妈塞了一个娃（热度：1179903）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E5%9D%8F%E4%BA%861%E9%A2%97%E7%89%99%E7%AB%9F%E8%A2%AB%E6%8B%94%E6%8E%89%E5%85%A8%E5%8F%A329%E9%A2%97%23" target="weibo">
 老人坏了1颗牙竟被拔掉全口29颗（热度：1177717）
 </a>
@@ -6005,12 +6011,6 @@ iPhone16史上最容易维修iPhone（热度：900387）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B1%AA%E8%8B%8F%E6%B3%B7%E7%9B%B4%E6%92%AD%23" target="weibo">
 汪苏泷直播（热度：868949）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%A4%A9%E7%9C%9F%E6%9B%9D%E6%9F%90%E5%A5%B3%E8%89%BA%E4%BA%BA%E8%80%81%E9%80%89%E4%B8%91%E8%A1%A3%E6%9C%8D%23" target="weibo">
-杨天真曝某女艺人老选丑衣服（热度：868757）
 </a>
 </li>
 
