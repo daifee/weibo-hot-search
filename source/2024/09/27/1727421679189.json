@@ -1,0 +1,410 @@
+{
+  "runTime": 1727421679189,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1669674,
+        "num": 1669674,
+        "word": "石破茂将出任日本首相",
+        "onboard_time": 1727418801,
+        "rank": 0,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 711479,
+        "num": 711479,
+        "word": "WTT抽签",
+        "onboard_time": 1727418739,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 33237,
+        "num": 692231,
+        "word": "文化中国行看黄渤海候鸟栖息地",
+        "onboard_time": 1727410220,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 674330,
+        "num": 674330,
+        "word": "淘宝微信支付",
+        "onboard_time": 1727414960,
+        "rank": 3,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 639777,
+        "num": 639777,
+        "word": "官方介入调查约300万只蜜蜂死亡",
+        "onboard_time": 1727415919,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 564565,
+        "num": 564565,
+        "word": "马伯骞回应没有子承父业的原因",
+        "onboard_time": 1727415800,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 478501,
+        "num": 478501,
+        "word": "浙江婚假",
+        "onboard_time": 1727402842,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 421703,
+        "num": 421703,
+        "word": "Kim成熟了好多",
+        "onboard_time": 1727413940,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 309195,
+        "num": 309195,
+        "word": "A股",
+        "onboard_time": 1727400498,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 86117,
+        "num": 308693,
+        "word": "市监局回应遭体罚14岁女孩离世",
+        "onboard_time": 1727420059,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 765955,
+        "num": 307895,
+        "word": "名媛培训班 就业率",
+        "onboard_time": 1727415081,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 444439,
+        "num": 306296,
+        "word": "遭教官体罚进ICU的14岁女孩离世",
+        "onboard_time": 1727407160,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 409958,
+        "num": 305242,
+        "word": "名媛培训班",
+        "onboard_time": 1727413881,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 349866,
+        "num": 304461,
+        "word": "WTT中国大满贯首日国乒12胜1负",
+        "onboard_time": 1727417301,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 324665,
+        "num": 302524,
+        "word": "女高管与下属约会开房被开除",
+        "onboard_time": 1727412862,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 302458,
+        "num": 302458,
+        "word": "阿云嘎透露和肖战聊天内容",
+        "onboard_time": 1727419578,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 273553,
+        "num": 273553,
+        "word": "东北雨姐回应客服骂人",
+        "onboard_time": 1727411721,
+        "rank": 16,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 267354,
+        "num": 267354,
+        "word": "LNG确认Scout参加S14",
+        "onboard_time": 1727420418,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 28749,
+        "num": 266230,
+        "word": "律师称村主任撞人案并非花650万买命",
+        "onboard_time": 1727421080,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 64794,
+        "num": 249692,
+        "word": "媒体评新娘被多名男子绑电线杆",
+        "onboard_time": 1727419819,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 556391,
+        "num": 244442,
+        "word": "民警锁定嫌疑人未及时抓捕获刑1年",
+        "onboard_time": 1727419759,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 358504,
+        "num": 228537,
+        "word": "打过狂犬疫苗的人嘴真严啊",
+        "onboard_time": 1727416581,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 227768,
+        "num": 227768,
+        "word": "浙江领证未满1年新人也享受13天婚假",
+        "onboard_time": 1727405539,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214222,
+        "num": 214222,
+        "word": "兵哥哥执勤时被宝妈塞了一个娃",
+        "onboard_time": 1727420297,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141801,
+        "num": 204633,
+        "word": "鑫仔淘汰",
+        "onboard_time": 1727420418,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 204130,
+        "num": 204130,
+        "word": "骗子在付款码收款码切换瞬间盗刷",
+        "onboard_time": 1727415680,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200547,
+        "num": 200547,
+        "word": "专家称A股3000点应该能站稳",
+        "onboard_time": 1727408299,
+        "rank": 26,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 143557,
+        "num": 198851,
+        "word": "戚薇蔡徐坤合照",
+        "onboard_time": 1727411601,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 198482,
+        "num": 198482,
+        "word": "贾玲不再担任大碗娱乐职务",
+        "onboard_time": 1727398761,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123790,
+        "num": 189961,
+        "word": "张凌赫赵今麦同看日落路透",
+        "onboard_time": 1727419700,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189637,
+        "num": 189637,
+        "word": "河南嵩县约300万只蜜蜂离奇死亡",
+        "onboard_time": 1727419340,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181630,
+        "num": 181630,
+        "word": "A股继续放量飙升",
+        "onboard_time": 1727413881,
+        "rank": 31,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 179202,
+        "num": 179202,
+        "word": "大碗娱乐所有艺人合约到期不续",
+        "onboard_time": 1727399419,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176976,
+        "num": 176976,
+        "word": "走进珂学",
+        "onboard_time": 1727418321,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 175172,
+        "num": 175172,
+        "word": "今天起浙江婚假延长至13天",
+        "onboard_time": 1727403380,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174520,
+        "num": 174520,
+        "word": "张帅爆冷美网四强",
+        "onboard_time": 1727413821,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 171297,
+        "num": 171297,
+        "word": "洒水车哼着歌就把火灭了",
+        "onboard_time": 1727419999,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162497,
+        "num": 162497,
+        "word": "女孩遭教官体罚持续昏迷四肢瘫软",
+        "onboard_time": 1727418321,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 87418,
+        "num": 161246,
+        "word": "这届年轻人偷偷在家爆改生活",
+        "onboard_time": 1727420418,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22876,
+        "num": 161172,
+        "word": "还原了世界名画里的场景",
+        "onboard_time": 1727420599,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161172,
+        "num": 161171,
+        "word": "重637.4克公河蟹当选蟹王",
+        "onboard_time": 1727418081,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152084,
+        "num": 152084,
+        "word": "WTT中国大满贯2024",
+        "onboard_time": 1727420297,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 145256,
+        "num": 145256,
+        "word": "向太曾为拒绝做舞女轻生",
+        "onboard_time": 1727414481,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144937,
+        "num": 144937,
+        "word": "我已出舱感觉良好有16年了",
+        "onboard_time": 1727407099,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 136970,
+        "num": 136970,
+        "word": "Uzi红温破防",
+        "onboard_time": 1727415020,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 134595,
+        "num": 134595,
+        "word": "钱塘江现潮汐巨龙气势拉满",
+        "onboard_time": 1727420660,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119549,
+        "num": 126805,
+        "word": "小鹿 长相普怎么了",
+        "onboard_time": 1727415919,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124549,
+        "num": 124549,
+        "word": "团伙锁定服务行业人员进行隔空盗刷",
+        "onboard_time": 1727421621,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122956,
+        "num": 122956,
+        "word": "2024KPL年总定妆照",
+        "onboard_time": 1727421621,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 99035,
+        "num": 122834,
+        "word": "人民日报报道赵丽颖飞天视后",
+        "onboard_time": 1727418679,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#要像石榴籽一样紧紧抱在一起#"
+    }
+  }
+}

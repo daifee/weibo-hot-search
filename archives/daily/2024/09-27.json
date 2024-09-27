@@ -1,6 +1,6 @@
 {
   "startTime": 1727368091089,
-  "endTime": 1727419528815,
+  "endTime": 1727421679189,
   "band_list": [
     {
       "raw_hot": 4551944,
@@ -57,6 +57,14 @@
       "onboard_time": 1727391855,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1669674,
+      "num": 1669674,
+      "word": "石破茂将出任日本首相",
+      "onboard_time": 1727418801,
+      "rank": 1,
+      "category": "国外时政"
     },
     {
       "raw_hot": 1412535,
@@ -131,12 +139,20 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 812156,
-      "num": 812156,
-      "word": "石破茂将出任日本首相",
-      "onboard_time": 1727418801,
-      "rank": 1,
-      "category": "国外时政"
+      "raw_hot": 765955,
+      "num": 307895,
+      "word": "名媛培训班 就业率",
+      "onboard_time": 1727415081,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 711479,
+      "num": 711479,
+      "word": "WTT抽签",
+      "onboard_time": 1727418739,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 706023,
@@ -171,6 +187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 639777,
+      "num": 639777,
+      "word": "官方介入调查约300万只蜜蜂死亡",
+      "onboard_time": 1727415919,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 625834,
       "num": 625834,
       "word": "打假博主大娃回应东北雨姐",
@@ -203,6 +227,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 556391,
+      "num": 244442,
+      "word": "民警锁定嫌疑人未及时抓捕获刑1年",
+      "onboard_time": 1727419759,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 544955,
       "num": 544955,
       "word": "我已出舱感觉良好有16年了",
@@ -225,14 +257,6 @@
       "onboard_time": 1727396180,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 540260,
-      "num": 290033,
-      "word": "名媛培训班 就业率",
-      "onboard_time": 1727415081,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 531312,
@@ -315,6 +339,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 421703,
+      "num": 421703,
+      "word": "Kim成熟了好多",
+      "onboard_time": 1727413940,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 415849,
       "num": 261360,
       "word": "迪丽热巴少来烦姐挂件",
@@ -339,14 +371,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 386756,
-      "num": 351666,
-      "word": "Kim成熟了好多",
-      "onboard_time": 1727413940,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 384112,
       "num": 304392,
       "word": "湖南一9岁女童身亡未穿衣服身上有伤",
@@ -361,14 +385,6 @@
       "onboard_time": 1727364200,
       "rank": 6,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 375595,
-      "num": 375595,
-      "word": "WTT抽签",
-      "onboard_time": 1727418739,
-      "rank": 6,
-      "category": "体育"
     },
     {
       "raw_hot": 364798,
@@ -409,6 +425,14 @@
       "onboard_time": 1727395699,
       "rank": 11,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 349866,
+      "num": 304461,
+      "word": "WTT中国大满贯首日国乒12胜1负",
+      "onboard_time": 1727417301,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 346854,
@@ -507,6 +531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 302458,
+      "num": 302458,
+      "word": "阿云嘎透露和肖战聊天内容",
+      "onboard_time": 1727419578,
+      "rank": 15,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 298206,
       "num": 284163,
       "word": "东北雨姐团队称红薯粉条应该有问题",
@@ -603,20 +635,20 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 269881,
-      "num": 269881,
-      "word": "WTT中国大满贯首日国乒12胜1负",
-      "onboard_time": 1727417301,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
       "raw_hot": 269779,
       "num": 292487,
       "word": "官方通报学生家长校门口跪地",
       "onboard_time": 1727361801,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 267354,
+      "num": 267354,
+      "word": "LNG确认Scout参加S14",
+      "onboard_time": 1727420418,
+      "rank": 17,
+      "category": "电竞"
     },
     {
       "raw_hot": 266317,
@@ -648,14 +680,6 @@
       "word": "16吨中国大白菜已运抵韩国",
       "onboard_time": 1727404760,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 253153,
-      "num": 315427,
-      "word": "官方介入调查约300万只蜜蜂死亡",
-      "onboard_time": 1727415919,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -803,6 +827,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 214222,
+      "num": 214222,
+      "word": "兵哥哥执勤时被宝妈塞了一个娃",
+      "onboard_time": 1727420297,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 213450,
       "num": 213450,
       "word": "骗子在付款码收款码切换瞬间盗刷",
@@ -899,6 +931,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 189637,
+      "num": 206210,
+      "word": "河南嵩县约300万只蜜蜂离奇死亡",
+      "onboard_time": 1727419340,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 188526,
       "num": 219213,
       "word": "杨紫一抹蓝现场小记录",
@@ -939,6 +979,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 181630,
+      "num": 181630,
+      "word": "A股继续放量飙升",
+      "onboard_time": 1727413881,
+      "rank": 42,
+      "category": "财经"
+    },
+    {
       "raw_hot": 177319,
       "num": 177319,
       "word": "30岁失业在家开馒头店",
@@ -963,18 +1011,18 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 171297,
+      "num": 171297,
+      "word": "洒水车哼着歌就把火灭了",
+      "onboard_time": 1727419999,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 171089,
       "num": 171089,
       "word": "交易所和券商正紧急排查和修复中",
       "onboard_time": 1727406259,
-      "rank": 42,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 168965,
-      "num": 168965,
-      "word": "A股继续放量飙升",
-      "onboard_time": 1727413881,
       "rank": 42,
       "category": "财经"
     },
@@ -1027,19 +1075,27 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 162497,
+      "num": 254144,
+      "word": "女孩遭教官体罚持续昏迷四肢瘫软",
+      "onboard_time": 1727418321,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 161172,
+      "num": 161171,
+      "word": "重637.4克公河蟹当选蟹王",
+      "onboard_time": 1727418081,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 160878,
       "num": 358934,
       "word": "AI写的大学论文导师能看出来吗",
       "onboard_time": 1727405477,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 160515,
-      "num": 160515,
-      "word": "重637.4克公河蟹当选蟹王",
-      "onboard_time": 1727418081,
-      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -1049,14 +1105,6 @@
       "onboard_time": 1727369955,
       "rank": 8,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 158680,
-      "num": 254144,
-      "word": "女孩遭教官体罚持续昏迷四肢瘫软",
-      "onboard_time": 1727418321,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 158508,
@@ -1105,6 +1153,14 @@
       "onboard_time": 1727367857,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 152084,
+      "num": 152084,
+      "word": "WTT中国大满贯2024",
+      "onboard_time": 1727420297,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 151615,
@@ -1179,6 +1235,14 @@
       "category": "体育,剧集"
     },
     {
+      "raw_hot": 141801,
+      "num": 204633,
+      "word": "鑫仔淘汰",
+      "onboard_time": 1727420418,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 140639,
       "num": 140639,
       "word": "日本教练说中国球员有两个优点",
@@ -1227,6 +1291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 134595,
+      "num": 134595,
+      "word": "钱塘江现潮汐巨龙气势拉满",
+      "onboard_time": 1727420660,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 133393,
       "num": 133393,
       "word": "江苏现1.5万亩巨型眼影盘",
@@ -1267,20 +1339,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 124549,
+      "num": 124549,
+      "word": "团伙锁定服务行业人员进行隔空盗刷",
+      "onboard_time": 1727421621,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 123790,
+      "num": 189961,
+      "word": "张凌赫赵今麦同看日落路透",
+      "onboard_time": 1727419700,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 122956,
+      "num": 122956,
+      "word": "2024KPL年总定妆照",
+      "onboard_time": 1727421621,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 121767,
       "num": 121767,
       "word": "翁青雅彭高一起上班",
       "onboard_time": 1727397319,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 120518,
-      "num": 206210,
-      "word": "河南嵩县约300万只蜜蜂离奇死亡",
-      "onboard_time": 1727419340,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 119005,
@@ -1443,6 +1531,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 87418,
+      "num": 161246,
+      "word": "这届年轻人偷偷在家爆改生活",
+      "onboard_time": 1727420418,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 86117,
+      "num": 308693,
+      "word": "市监局回应遭体罚14岁女孩离世",
+      "onboard_time": 1727420059,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 85772,
       "num": 100408,
       "word": "WMA回应单依纯口误",
@@ -1576,6 +1680,14 @@
       "word": "新版梁祝越剧武汉首演",
       "onboard_time": 1727371994,
       "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 64794,
+      "num": 249692,
+      "word": "媒体评新娘被多名男子绑电线杆",
+      "onboard_time": 1727419819,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -1795,6 +1907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 28749,
+      "num": 266230,
+      "word": "律师称村主任撞人案并非花650万买命",
+      "onboard_time": 1727421080,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 27996,
       "num": 724069,
       "word": "新电商新风尚",
@@ -1841,6 +1961,14 @@
       "onboard_time": 1727416101,
       "rank": 29,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 22876,
+      "num": 161172,
+      "word": "还原了世界名画里的场景",
+      "onboard_time": 1727420599,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 22744,
