@@ -1,0 +1,410 @@
+{
+  "runTime": 1727469441364,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 136132,
+        "num": 136132,
+        "word": "被教官体罚去世女孩父亲发声",
+        "onboard_time": 1727463192,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 64085,
+        "num": 64085,
+        "word": "打假博主称东北雨姐丈夫曾拿刀威胁",
+        "onboard_time": 1727455396,
+        "rank": 1,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 10021,
+        "num": 56291,
+        "word": "接力表白祖国",
+        "onboard_time": 1727444179,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 53708,
+        "num": 53708,
+        "word": "职业闭店人收费十几万找人背几百万债",
+        "onboard_time": 1727463012,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 52618,
+        "num": 52618,
+        "word": "霍格沃茨三任校长演员离世",
+        "onboard_time": 1727446160,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 43673,
+        "num": 43673,
+        "word": "你婚后愿意和老人住在一起吗",
+        "onboard_time": 1727448740,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 43139,
+        "num": 43139,
+        "word": "官方回应村民摆苹果堵路逼停车辆",
+        "onboard_time": 1727464692,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 42486,
+        "num": 42486,
+        "word": "关停饭圈相关违规账号10万余个",
+        "onboard_time": 1727453239,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 39111,
+        "num": 39111,
+        "word": "警方回应青海无人区有多人扔砖砸车",
+        "onboard_time": 1727445320,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36322,
+        "num": 39012,
+        "word": "靠摆摊卖螺蛳粉老板月入8万",
+        "onboard_time": 1727445981,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 93716,
+        "num": 38892,
+        "word": "舅舅借外甥女900万不肯还",
+        "onboard_time": 1727444301,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 56380,
+        "num": 38827,
+        "word": "黄多多在纽约街边画画",
+        "onboard_time": 1727438058,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 46682,
+        "num": 38638,
+        "word": "警方回应女网红张悦疑坠楼身亡",
+        "onboard_time": 1727442500,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 45038,
+        "num": 38585,
+        "word": "武汉1.6级地震",
+        "onboard_time": 1727442380,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38453,
+        "num": 38453,
+        "word": "女子钥匙放车里多次凌晨被开走",
+        "onboard_time": 1727436018,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36997,
+        "num": 36997,
+        "word": "女生盐水泡空心菜泡出长虫",
+        "onboard_time": 1727465532,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31779,
+        "num": 31779,
+        "word": "张淇 破音",
+        "onboard_time": 1727452578,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 27973,
+        "num": 27973,
+        "word": "斯内普",
+        "onboard_time": 1727449821,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 23144,
+        "num": 27939,
+        "word": "麦格教授扮演者玛吉史密斯去世",
+        "onboard_time": 1727444781,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 22639,
+        "num": 27874,
+        "word": "孙怡巴黎一抹辣妹红",
+        "onboard_time": 1727461753,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 14093,
+        "num": 27798,
+        "word": "教育局回应昆山部分学校发霉变面包",
+        "onboard_time": 1727468832,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41588,
+        "num": 27718,
+        "word": "刚出生宝宝遭隐翅虫攻击致头部感染",
+        "onboard_time": 1727442439,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28035,
+        "num": 27640,
+        "word": "发电厂海蜇泛滥员工已抓21万斤",
+        "onboard_time": 1727437938,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27604,
+        "num": 27604,
+        "word": "男子偷车开完加油再还回",
+        "onboard_time": 1727461153,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26921,
+        "num": 26921,
+        "word": "高校回应新生答错第一任校长名字被处分",
+        "onboard_time": 1727464992,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26142,
+        "num": 26142,
+        "word": "以总理被迫雨中与人握手",
+        "onboard_time": 1727449341,
+        "rank": 25,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 25551,
+        "num": 25551,
+        "word": "直播间赌石被骗还以为是运气不好",
+        "onboard_time": 1727448260,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21445,
+        "num": 25538,
+        "word": "周杰伦千山万水现场",
+        "onboard_time": 1727447362,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 21019,
+        "num": 25517,
+        "word": "半熟男女 全员恶人",
+        "onboard_time": 1727443700,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19843,
+        "num": 25475,
+        "word": "NewJeans新歌demo",
+        "onboard_time": 1727451080,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 41802,
+        "num": 25422,
+        "word": "红霉素眼膏和红霉素软膏有区别吗",
+        "onboard_time": 1727465532,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 25418,
+        "num": 25418,
+        "word": "87套法拍房待拍卖仅1人报名",
+        "onboard_time": 1727446040,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23926,
+        "num": 23926,
+        "word": "安徽省地震局回应地震热点问题",
+        "onboard_time": 1727443401,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23461,
+        "num": 23461,
+        "word": "二本恋综拍出来了",
+        "onboard_time": 1727437880,
+        "rank": 33,
+        "category": "幽默,作品衍生"
+      },
+      {
+        "raw_hot": 22951,
+        "num": 22951,
+        "word": "奶茶店称因电费差价要多做一千杯",
+        "onboard_time": 1727433798,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21651,
+        "num": 21651,
+        "word": "原神版本直播",
+        "onboard_time": 1727439499,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 19736,
+        "num": 19736,
+        "word": "方媛称郭富城支持自己买房",
+        "onboard_time": 1727440999,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19611,
+        "num": 19611,
+        "word": "4个细节判断一个人靠不靠谱",
+        "onboard_time": 1727452219,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 19009,
+        "num": 19009,
+        "word": "中国最没存在感的省会",
+        "onboard_time": 1727427199,
+        "rank": 38,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 18944,
+        "num": 18944,
+        "word": "关智斌感谢赵丽颖把自己带火",
+        "onboard_time": 1727427619,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18829,
+        "num": 18829,
+        "word": "CP30",
+        "onboard_time": 1727432419,
+        "rank": 40,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 18413,
+        "num": 18413,
+        "word": "雎晓雯产后重返国际T台",
+        "onboard_time": 1727446761,
+        "rank": 41,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 18226,
+        "num": 18226,
+        "word": "闵熙珍说NewJeans不会离开HYBE",
+        "onboard_time": 1727452399,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18194,
+        "num": 18194,
+        "word": "告诉爸妈别这样用保鲜膜了",
+        "onboard_time": 1727440760,
+        "rank": 43,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 18084,
+        "num": 18084,
+        "word": "各族人民都有一个共同名字就是中国人",
+        "onboard_time": 1727466132,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 17239,
+        "num": 18084,
+        "word": "吴宣仪cos貂蝉",
+        "onboard_time": 1727458154,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 17161,
+        "num": 18083,
+        "word": "王玉雯否认在王子奇车上待了很久",
+        "onboard_time": 1727436559,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16938,
+        "num": 18083,
+        "word": "存款利率或将再次下调",
+        "onboard_time": 1727451260,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 16840,
+        "num": 18083,
+        "word": "和叶太甜了吧",
+        "onboard_time": 1727454498,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 16207,
+        "num": 18082,
+        "word": "曹杨香缇莫平票",
+        "onboard_time": 1727451739,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#全国民族团结进步表彰大会#"
+    }
+  }
+}

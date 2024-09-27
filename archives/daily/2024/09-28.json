@@ -1,6 +1,6 @@
 {
   "startTime": 1727454453610,
-  "endTime": 1727468632664,
+  "endTime": 1727469441364,
   "band_list": [
     {
       "raw_hot": 801781,
@@ -483,6 +483,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 43139,
+      "num": 45876,
+      "word": "官方回应村民摆苹果堵路逼停车辆",
+      "onboard_time": 1727464692,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 41802,
+      "num": 25428,
+      "word": "红霉素眼膏和红霉素软膏有区别吗",
+      "onboard_time": 1727465532,
+      "rank": 38,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 39325,
       "num": 59010,
       "word": "哈利波特",
@@ -491,12 +507,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 36577,
-      "num": 25428,
-      "word": "红霉素眼膏和红霉素软膏有区别吗",
+      "raw_hot": 36997,
+      "num": 36997,
+      "word": "女生盐水泡空心菜泡出长虫",
       "onboard_time": 1727465532,
-      "rank": 38,
-      "category": "健康医疗"
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 36253,
@@ -505,14 +521,6 @@
       "onboard_time": 1727458813,
       "rank": 34,
       "category": "综艺,电竞"
-    },
-    {
-      "raw_hot": 34444,
-      "num": 34444,
-      "word": "女生盐水泡空心菜泡出长虫",
-      "onboard_time": 1727465532,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 33782,
@@ -531,20 +539,20 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 26921,
+      "num": 26921,
+      "word": "高校回应新生答错第一任校长名字被处分",
+      "onboard_time": 1727464992,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 26771,
       "num": 35317,
       "word": "汪苏泷新歌梆梆",
       "onboard_time": 1727455455,
       "rank": 49,
       "category": "演出"
-    },
-    {
-      "raw_hot": 26339,
-      "num": 26339,
-      "word": "高校回应新生答错第一任校长名字被处分",
-      "onboard_time": 1727464992,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 24621,
@@ -560,14 +568,6 @@
       "word": "接力表白祖国",
       "onboard_time": 1727444179,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 22707,
-      "num": 45876,
-      "word": "官方回应村民摆苹果堵路逼停车辆",
-      "onboard_time": 1727464692,
-      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -592,6 +592,14 @@
       "word": "352个集体368名个人受到表彰",
       "onboard_time": 1727444301,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 14093,
+      "num": 27798,
+      "word": "教育局回应昆山部分学校发霉变面包",
+      "onboard_time": 1727468832,
+      "rank": 20,
       "category": "社会新闻"
     }
   ],
