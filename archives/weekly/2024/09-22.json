@@ -1,6 +1,6 @@
 {
   "startTime": 1726936020707,
-  "endTime": 1727458681126,
+  "endTime": 1727461803733,
   "band_list": [
     {
       "raw_hot": 12357374,
@@ -8404,7 +8404,7 @@
     },
     {
       "raw_hot": 202723,
-      "num": 156910,
+      "num": 172433,
       "word": "打假博主称东北雨姐丈夫曾拿刀威胁",
       "onboard_time": 1727455396,
       "rank": 43,
@@ -16339,6 +16339,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 66197,
+      "num": 66197,
+      "word": "吴宣仪cos貂蝉",
+      "onboard_time": 1727458154,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 66013,
       "num": 340909,
       "word": "多方回应8岁女童坠井身亡",
@@ -17065,14 +17073,6 @@
       "onboard_time": 1727085080,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 52992,
-      "num": 52992,
-      "word": "吴宣仪cos貂蝉",
-      "onboard_time": 1727458154,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 52844,
@@ -18171,6 +18171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 36253,
+      "num": 36253,
+      "word": "战至巅峰",
+      "onboard_time": 1727458813,
+      "rank": 34,
+      "category": "综艺,电竞"
+    },
+    {
       "raw_hot": 36132,
       "num": 41714,
       "word": "邓为费加罗钻石封面预告",
@@ -18385,6 +18393,14 @@
       "onboard_time": 1727385672,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 33782,
+      "num": 35336,
+      "word": "孙怡巴黎一抹辣妹红",
+      "onboard_time": 1727461753,
+      "rank": 36,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 33307,
@@ -18955,6 +18971,14 @@
       "category": "艺人,作品衍生"
     },
     {
+      "raw_hot": 26771,
+      "num": 35317,
+      "word": "汪苏泷新歌梆梆",
+      "onboard_time": 1727455455,
+      "rank": 49,
+      "category": "演出"
+    },
+    {
       "raw_hot": 26761,
       "num": 189766,
       "word": "吴尊说中国网球飞啦",
@@ -19112,6 +19136,14 @@
       "word": "晒单文学是什么梗",
       "onboard_time": 1727427919,
       "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 23831,
+      "num": 247710,
+      "word": "接力表白祖国",
+      "onboard_time": 1727444179,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -19361,6 +19393,14 @@
       "onboard_time": 1727380811,
       "rank": 47,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 18632,
+      "num": 75203,
+      "word": "男子偷车开完加油再还回",
+      "onboard_time": 1727461153,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 18631,
@@ -19743,14 +19783,6 @@
       "num": 863513,
       "word": "两岸新媒体嘉年华",
       "onboard_time": 1727269101,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 8270,
-      "num": 247710,
-      "word": "接力表白祖国",
-      "onboard_time": 1727444179,
       "rank": 2,
       "category": "社会新闻"
     },
