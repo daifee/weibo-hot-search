@@ -1,0 +1,410 @@
+{
+  "runTime": 1727436003228,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 579801,
+        "num": 1092768,
+        "word": "奶茶店称因电费差价要多做一千杯",
+        "onboard_time": 1727433798,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 543744,
+        "num": 543744,
+        "word": "关智斌感谢赵丽颖把自己带火",
+        "onboard_time": 1727427619,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23415,
+        "num": 497200,
+        "word": "天山南北唱新歌",
+        "onboard_time": 1727348779,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 484700,
+        "num": 484700,
+        "word": "宋佳向华坪县捐赠100万",
+        "onboard_time": 1727435179,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 478152,
+        "num": 478152,
+        "word": "上交所道歉",
+        "onboard_time": 1727434100,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1427422,
+        "num": 445090,
+        "word": "女网红张悦疑坠楼男友已被拘留",
+        "onboard_time": 1727430258,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 404243,
+        "num": 404243,
+        "word": "A股正从反弹走向反转",
+        "onboard_time": 1727422520,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 391560,
+        "num": 391560,
+        "word": "兵哥哥执勤时被宝妈塞了一个娃",
+        "onboard_time": 1727420297,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 362999,
+        "num": 362999,
+        "word": "石破茂将出任日本首相",
+        "onboard_time": 1727418801,
+        "rank": 8,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 112960,
+        "num": 356295,
+        "word": "全国已有25个省份延长婚假",
+        "onboard_time": 1727433259,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 672600,
+        "num": 353840,
+        "word": "男子破产后捅妻子8刀获刑9个月",
+        "onboard_time": 1727429419,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 641858,
+        "num": 339029,
+        "word": "王玉雯发文回应探班",
+        "onboard_time": 1727433439,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 583668,
+        "num": 330864,
+        "word": "体罚女孩致死教育机构拒绝家长探望",
+        "onboard_time": 1727429659,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 494438,
+        "num": 320933,
+        "word": "男子110万元买6000多张足彩一张没中",
+        "onboard_time": 1727433798,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24239,
+        "num": 317957,
+        "word": "券商鼓励员工尽量别提前请国庆休假",
+        "onboard_time": 1727435539,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 273493,
+        "num": 310862,
+        "word": "中国最没存在感的省会",
+        "onboard_time": 1727427199,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 262487,
+        "num": 303225,
+        "word": "石凯希望张艺兴周深能不收他版权费",
+        "onboard_time": 1727431638,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 295056,
+        "num": 295056,
+        "word": "浙江IP到底有多幸福",
+        "onboard_time": 1727434100,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24936,
+        "num": 277623,
+        "word": "历历万乡唱给每一位在外拼搏的人",
+        "onboard_time": 1727435719,
+        "rank": 18,
+        "category": "综艺,音乐"
+      },
+      {
+        "raw_hot": 33618,
+        "num": 274042,
+        "word": "男子轻信出国高薪务工被骗1.9万",
+        "onboard_time": 1727435118,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 272765,
+        "num": 272765,
+        "word": "家乡当手机壁纸后不想再换别的了",
+        "onboard_time": 1727425760,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255409,
+        "num": 255409,
+        "word": "浙江婚假",
+        "onboard_time": 1727402842,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238683,
+        "num": 238683,
+        "word": "遭教官体罚进ICU的14岁女孩离世",
+        "onboard_time": 1727407160,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192724,
+        "num": 192724,
+        "word": "杨幂巴黎雨中漫步",
+        "onboard_time": 1727430320,
+        "rank": 23,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 178248,
+        "num": 178248,
+        "word": "女子景区采了8朵蘑菇老公吃进ICU",
+        "onboard_time": 1727423719,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 407651,
+        "num": 177607,
+        "word": "王玉雯回应探班",
+        "onboard_time": 1727433019,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170307,
+        "num": 170307,
+        "word": "迪丽热巴的巴黎plog",
+        "onboard_time": 1727434520,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 163892,
+        "num": 163892,
+        "word": "打过狂犬疫苗的人嘴真严啊",
+        "onboard_time": 1727416581,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 162915,
+        "num": 162915,
+        "word": "十个勤天看了都楞三秒的羽绒服",
+        "onboard_time": 1727433319,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 160136,
+        "num": 160136,
+        "word": "王俊凯平地摔出来的经验",
+        "onboard_time": 1727433920,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 164744,
+        "num": 160001,
+        "word": "莫文蔚分享这世界那么多人舞台",
+        "onboard_time": 1727435539,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 158843,
+        "num": 158843,
+        "word": "殡仪馆回应女网红张悦疑坠楼身亡",
+        "onboard_time": 1727434218,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158532,
+        "num": 158532,
+        "word": "4男子当街骚扰女生",
+        "onboard_time": 1727427437,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151413,
+        "num": 157032,
+        "word": "黄景瑜今年是一点没闲着",
+        "onboard_time": 1727430858,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156242,
+        "num": 156242,
+        "word": "时代少年团欢乐小剧场",
+        "onboard_time": 1727432540,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 152720,
+        "num": 152720,
+        "word": "CP30",
+        "onboard_time": 1727432419,
+        "rank": 35,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 152369,
+        "num": 152369,
+        "word": "没苦硬吃可能毁了孩子一生",
+        "onboard_time": 1727423659,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148803,
+        "num": 148803,
+        "word": "何同学说管理团队比百万播放还难",
+        "onboard_time": 1727431220,
+        "rank": 37,
+        "category": "数码,网红"
+      },
+      {
+        "raw_hot": 148572,
+        "num": 148572,
+        "word": "A股继续放量飙升",
+        "onboard_time": 1727413881,
+        "rank": 38,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 127494,
+        "num": 127494,
+        "word": "淘宝微信支付",
+        "onboard_time": 1727414960,
+        "rank": 39,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 124695,
+        "num": 124695,
+        "word": "淘宝回应部分用户不能用微信支付",
+        "onboard_time": 1727433798,
+        "rank": 40,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 123695,
+        "num": 123695,
+        "word": "官方介入调查约300万只蜜蜂死亡",
+        "onboard_time": 1727415919,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123305,
+        "num": 123305,
+        "word": "名媛培训班 就业率",
+        "onboard_time": 1727415081,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117350,
+        "num": 117350,
+        "word": "原来被骂扁是真的存在的",
+        "onboard_time": 1727428398,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 107441,
+        "num": 107441,
+        "word": "徐海乔参加披哥和赵丽颖说了",
+        "onboard_time": 1727428039,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 104562,
+        "num": 104562,
+        "word": "国庆假期全社会人员流动量将超19亿",
+        "onboard_time": 1727422640,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 99371,
+        "num": 99371,
+        "word": "汪苏泷回应叫王源宝宝",
+        "onboard_time": 1727431580,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 94931,
+        "num": 94931,
+        "word": "A股继续暴涨沪指逼近3100点",
+        "onboard_time": 1727427979,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 92595,
+        "num": 92595,
+        "word": "迪丽热巴时装周的待遇",
+        "onboard_time": 1727434579,
+        "rank": 48,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 92063,
+        "num": 92063,
+        "word": "马伯骞回应没有子承父业的原因",
+        "onboard_time": 1727415800,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#全国民族团结进步表彰大会#"
+    }
+  }
+}

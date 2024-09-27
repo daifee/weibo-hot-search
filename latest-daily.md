@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/09/27 00:28:11 ~ 2024/09/27 18:41:21
+本榜单时间：2024/09/27 00:28:11 ~ 2024/09/27 19:20:03
 </p>
 </blockquote>
 <p>
@@ -207,6 +207,12 @@ WTT抽签（热度：755283）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E7%8E%89%E9%9B%AF%E5%8F%91%E6%96%87%E5%9B%9E%E5%BA%94%E6%8E%A2%E7%8F%AD%23" target="weibo">
+王玉雯发文回应探班（热度：641858）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%89%93%E5%81%87%E5%8D%9A%E4%B8%BB%E5%A4%A7%E5%A8%83%E5%9B%9E%E5%BA%94%E4%B8%9C%E5%8C%97%E9%9B%A8%E5%A7%90%23" target="weibo">
 打假博主大娃回应东北雨姐（热度：625834）
 </a>
@@ -227,6 +233,18 @@ WTT中国大满贯女单签表（热度：601371）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%B8%AA%E6%B4%97%E5%A4%B4%E6%B2%B9%E5%BE%97%E6%85%A2%E7%9A%84%E5%8A%9E%E6%B3%95%23" target="weibo">
 一个洗头油得慢的办法（热度：591226）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BD%93%E7%BD%9A%E5%A5%B3%E5%AD%A9%E8%87%B4%E6%AD%BB%E6%95%99%E8%82%B2%E6%9C%BA%E6%9E%84%E6%8B%92%E7%BB%9D%E5%AE%B6%E9%95%BF%E6%8E%A2%E6%9C%9B%23" target="weibo">
+体罚女孩致死教育机构拒绝家长探望（热度：583668）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B6%E8%8C%B6%E5%BA%97%E7%A7%B0%E5%9B%A0%E7%94%B5%E8%B4%B9%E5%B7%AE%E4%BB%B7%E8%A6%81%E5%A4%9A%E5%81%9A%E4%B8%80%E5%8D%83%E6%9D%AF%23" target="weibo">
+奶茶店称因电费差价要多做一千杯（热度：579801）
 </a>
 </li>
 
@@ -273,14 +291,32 @@ WTT中国大满贯女单签表（热度：601371）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90110%E4%B8%87%E5%85%83%E4%B9%B06000%E5%A4%9A%E5%BC%A0%E8%B6%B3%E5%BD%A9%E4%B8%80%E5%BC%A0%E6%B2%A1%E4%B8%AD%23" target="weibo">
+男子110万元买6000多张足彩一张没中（热度：494438）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0A%E8%82%A13000%E7%82%B9%E5%BA%94%E8%AF%A5%E8%83%BD%E7%AB%99%E7%A8%B3%23" target="weibo">
 专家称A股3000点应该能站稳（热度：487194）
 </a>
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E4%BD%B3%E5%90%91%E5%8D%8E%E5%9D%AA%E5%8E%BF%E6%8D%90%E8%B5%A0100%E4%B8%87%23" target="weibo">
+宋佳向华坪县捐赠100万（热度：484700）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E8%A2%AB%E7%A6%81%E6%AD%A2%E4%BB%A5%E5%9B%BD%E5%AE%B6%E5%90%8D%E4%B9%89%E5%8F%82%E5%8A%A0%E5%9B%BD%E9%99%85%E7%AB%9E%E8%B5%9B%23" target="weibo">
 以色列被禁止以国家名义参加国际竞赛（热度：480792）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E4%BA%A4%E6%89%80%E9%81%93%E6%AD%89%23" target="weibo">
+上交所道歉（热度：478152）
 </a>
 </li>
 
@@ -341,6 +377,12 @@ Kim成熟了好多（热度：421703）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%8C%E8%8A%B1%E9%A1%BA%23" target="weibo">
 同花顺（热度：412991）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E7%8E%89%E9%9B%AF%E5%9B%9E%E5%BA%94%E6%8E%A2%E7%8F%AD%23" target="weibo">
+王玉雯回应探班（热度：407651）
 </a>
 </li>
 
@@ -543,6 +585,12 @@ LNG确认Scout参加S14（热度：310964）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B5%99%E6%B1%9FIP%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E5%B9%B8%E7%A6%8F%23" target="weibo">
+浙江IP到底有多幸福（热度：295056）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%8B%92%E8%A7%81%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%23" target="weibo">
 特朗普拒见泽连斯基（热度：293988）
 </a>
@@ -615,6 +663,12 @@ WTT中国大满贯男单签表（热度：272966）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%B6%E4%B9%A1%E5%BD%93%E6%89%8B%E6%9C%BA%E5%A3%81%E7%BA%B8%E5%90%8E%E4%B8%8D%E6%83%B3%E5%86%8D%E6%8D%A2%E5%88%AB%E7%9A%84%E4%BA%86%23" target="weibo">
+家乡当手机壁纸后不想再换别的了（热度：272765）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E5%AD%A6%E7%94%9F%E5%AE%B6%E9%95%BF%E6%A0%A1%E9%97%A8%E5%8F%A3%E8%B7%AA%E5%9C%B0%23" target="weibo">
 官方通报学生家长校门口跪地（热度：269779）
 </a>
@@ -645,12 +699,6 @@ WTT中国大满贯男单签表（热度：272966）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%B6%E4%B9%A1%E5%BD%93%E6%89%8B%E6%9C%BA%E5%A3%81%E7%BA%B8%E5%90%8E%E4%B8%8D%E6%83%B3%E5%86%8D%E6%8D%A2%E5%88%AB%E7%9A%84%E4%BA%86%23" target="weibo">
-家乡当手机壁纸后不想再换别的了（热度：262743）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%9A%E7%99%BE%E8%8D%89%E9%AA%97%E9%AA%97%E5%AD%90%E8%A2%AB%E9%AA%97%E5%AD%90%E9%AA%97%23" target="weibo">
 戚百草骗骗子被骗子骗（热度：259839）
 </a>
@@ -659,12 +707,6 @@ WTT中国大满贯男单签表（热度：272966）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2316%E5%90%A8%E4%B8%AD%E5%9B%BD%E5%A4%A7%E7%99%BD%E8%8F%9C%E5%B7%B2%E8%BF%90%E6%8A%B5%E9%9F%A9%E5%9B%BD%23" target="weibo">
 16吨中国大白菜已运抵韩国（热度：259579）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BD%93%E7%BD%9A%E5%A5%B3%E5%AD%A9%E8%87%B4%E6%AD%BB%E6%95%99%E8%82%B2%E6%9C%BA%E6%9E%84%E6%8B%92%E7%BB%9D%E5%AE%B6%E9%95%BF%E6%8E%A2%E6%9C%9B%23" target="weibo">
-体罚女孩致死教育机构拒绝家长探望（热度：256121）
 </a>
 </li>
 
@@ -1047,6 +1089,12 @@ LNG感谢Yagao（热度：175600）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%9A%84%E5%B7%B4%E9%BB%8Eplog%23" target="weibo">
+迪丽热巴的巴黎plog（热度：170307）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%8A%E7%86%9F%E7%94%B7%E5%A5%B3%E5%B0%B1%E6%98%AF%E4%BD%95%E7%9F%A5%E5%8D%97%E5%86%99%E7%9A%84%E5%90%A7%23" target="weibo">
 半熟男女就是何知南写的吧（热度：169987）
 </a>
@@ -1083,6 +1131,12 @@ WTT中国大满贯2024（热度：168098）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8E%AB%E6%96%87%E8%94%9A%E5%88%86%E4%BA%AB%E8%BF%99%E4%B8%96%E7%95%8C%E9%82%A3%E4%B9%88%E5%A4%9A%E4%BA%BA%E8%88%9E%E5%8F%B0%23" target="weibo">
+莫文蔚分享这世界那么多人舞台（热度：164744）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%9B%E4%B8%9A%E6%9D%BF%E6%8C%87%E5%88%9B%E5%8E%86%E5%8F%B2%E6%9C%80%E5%A4%A7%E5%8D%95%E6%97%A5%E6%B6%A8%E5%B9%85%23" target="weibo">
 创业板指创历史最大单日涨幅（热度：164711）
 </a>
@@ -1113,6 +1167,12 @@ WTT中国大满贯2024（热度：168098）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%81%E4%B8%AA%E5%8B%A4%E5%A4%A9%E7%9C%8B%E4%BA%86%E9%83%BD%E6%A5%9E%E4%B8%89%E7%A7%92%E7%9A%84%E7%BE%BD%E7%BB%92%E6%9C%8D%23" target="weibo">
+十个勤天看了都楞三秒的羽绒服（热度：162915）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E9%81%AD%E6%95%99%E5%AE%98%E4%BD%93%E7%BD%9A%E6%8C%81%E7%BB%AD%E6%98%8F%E8%BF%B7%E5%9B%9B%E8%82%A2%E7%98%AB%E8%BD%AF%23" target="weibo">
 女孩遭教官体罚持续昏迷四肢瘫软（热度：162497）
 </a>
@@ -1133,6 +1193,18 @@ AI写的大学论文导师能看出来吗（热度：160878）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E9%9C%87%E5%8D%97%E7%9B%B4%E6%92%AD%E4%B8%8D%E6%95%A2%E6%94%BE%E9%9F%B3%E4%B9%90%E7%9A%84%E5%8E%9F%E5%9B%A0%E6%89%BE%E5%88%B0%E4%BA%86%23" target="weibo">
 周震南直播不敢放音乐的原因找到了（热度：160351）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E5%B9%B3%E5%9C%B0%E6%91%94%E5%87%BA%E6%9D%A5%E7%9A%84%E7%BB%8F%E9%AA%8C%23" target="weibo">
+王俊凯平地摔出来的经验（热度：160136）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AE%A1%E4%BB%AA%E9%A6%86%E5%9B%9E%E5%BA%94%E5%A5%B3%E7%BD%91%E7%BA%A2%E5%BC%A0%E6%82%A6%E7%96%91%E5%9D%A0%E6%A5%BC%E8%BA%AB%E4%BA%A1%23" target="weibo">
+殡仪馆回应女网红张悦疑坠楼身亡（热度：158843）
 </a>
 </li>
 
@@ -1311,20 +1383,8 @@ Capper周震南啃苹果官宣演唱会（热度：152690）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%81%E4%B8%AA%E5%8B%A4%E5%A4%A9%E7%9C%8B%E4%BA%86%E9%83%BD%E6%A5%9E%E4%B8%89%E7%A7%92%E7%9A%84%E7%BE%BD%E7%BB%92%E6%9C%8D%23" target="weibo">
-十个勤天看了都楞三秒的羽绒服（热度：134461）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%8B%8F%E7%8E%B01.5%E4%B8%87%E4%BA%A9%E5%B7%A8%E5%9E%8B%E7%9C%BC%E5%BD%B1%E7%9B%98%23" target="weibo">
 江苏现1.5万亩巨型眼影盘（热度：133393）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E7%8E%89%E9%9B%AF%E5%8F%91%E6%96%87%E5%9B%9E%E5%BA%94%E6%8E%A2%E7%8F%AD%23" target="weibo">
-王玉雯发文回应探班（热度：133113）
 </a>
 </li>
 
@@ -1349,6 +1409,12 @@ Jennie将回归（热度：130289）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%81%82%E8%BF%9C%20%E5%8D%8E%E5%9D%AA%E5%A5%B3%E9%AB%98%E7%9A%84%E6%95%85%E4%BA%8B%E8%BF%98%E5%9C%A8%E7%BB%A7%E7%BB%AD%23" target="weibo">
 聂远 华坪女高的故事还在继续（热度：125236）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B7%98%E5%AE%9D%E5%9B%9E%E5%BA%94%E9%83%A8%E5%88%86%E7%94%A8%E6%88%B7%E4%B8%8D%E8%83%BD%E7%94%A8%E5%BE%AE%E4%BF%A1%E6%94%AF%E4%BB%98%23" target="weibo">
+淘宝回应部分用户不能用微信支付（热度：124695）
 </a>
 </li>
 
@@ -1499,6 +1565,12 @@ WTT双打签表（热度：112653）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%97%E6%96%AF%E9%80%80%E5%BD%B9%23" target="weibo">
 罗斯退役（热度：92687）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%97%B6%E8%A3%85%E5%91%A8%E7%9A%84%E5%BE%85%E9%81%87%23" target="weibo">
+迪丽热巴时装周的待遇（热度：92595）
 </a>
 </li>
 
@@ -1863,6 +1935,12 @@ WMA回应单依纯口误（热度：85772）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%BD%BB%E4%BF%A1%E5%87%BA%E5%9B%BD%E9%AB%98%E8%96%AA%E5%8A%A1%E5%B7%A5%E8%A2%AB%E9%AA%971.9%E4%B8%87%23" target="weibo">
+男子轻信出国高薪务工被骗1.9万（热度：33618）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%A5%E5%86%9B%E9%A6%96%E6%AC%A1%E8%BD%B0%E7%82%B8%E9%BB%8E%E5%B7%B4%E5%AB%A9%E5%8C%BB%E9%99%A2%23" target="weibo">
 以军首次轰炸黎巴嫩医院（热度：32809）
 </a>
@@ -1971,8 +2049,20 @@ WMA回应单依纯口误（热度：85772）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8E%86%E5%8E%86%E4%B8%87%E4%B9%A1%E5%94%B1%E7%BB%99%E6%AF%8F%E4%B8%80%E4%BD%8D%E5%9C%A8%E5%A4%96%E6%8B%BC%E6%90%8F%E7%9A%84%E4%BA%BA%23" target="weibo">
+历历万乡唱给每一位在外拼搏的人（热度：24936）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%A6%E7%A4%BC%E5%AE%89%E5%BE%90%E6%B5%B7%E4%B9%94%20%E5%AE%89%E5%92%8C%E4%B9%94%23" target="weibo">
 韦礼安徐海乔 安和乔（热度：24674）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%B8%E5%95%86%E9%BC%93%E5%8A%B1%E5%91%98%E5%B7%A5%E5%B0%BD%E9%87%8F%E5%88%AB%E6%8F%90%E5%89%8D%E8%AF%B7%E5%9B%BD%E5%BA%86%E4%BC%91%E5%81%87%23" target="weibo">
+券商鼓励员工尽量别提前请国庆休假（热度：24239）
 </a>
 </li>
 
@@ -1985,6 +2075,12 @@ WMA回应单依纯口误（热度：85772）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%99%92%E5%8D%95%E6%96%87%E5%AD%A6%E6%98%AF%E4%BB%80%E4%B9%88%E6%A2%97%23" target="weibo">
 晒单文学是什么梗（热度：23838）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A9%E5%B1%B1%E5%8D%97%E5%8C%97%E5%94%B1%E6%96%B0%E6%AD%8C%23" target="weibo">
+天山南北唱新歌（热度：23415）
 </a>
 </li>
 
@@ -2045,12 +2141,6 @@ WMA回应单依纯口误（热度：85772）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%BA%86%E9%AB%98%E5%B3%B0%E6%9C%9F%E5%8A%A0%E5%BC%80%E5%A4%9A%E8%B6%9F%E4%B8%AD%E7%9F%AD%E9%80%94%E6%97%85%E5%AE%A2%E5%88%97%E8%BD%A6%23" target="weibo">
 国庆高峰期加开多趟中短途旅客列车（热度：11359）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A9%E5%B1%B1%E5%8D%97%E5%8C%97%E5%94%B1%E6%96%B0%E6%AD%8C%23" target="weibo">
-天山南北唱新歌（热度：11066）
 </a>
 </li>
 
