@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/09/22 00:27:00 ~ 2024/09/28 03:35:48
+本榜单时间：2024/09/22 00:27:00 ~ 2024/09/28 04:23:52
 </p>
 </blockquote>
 <p>
@@ -8775,6 +8775,12 @@ GAI五获年度说唱歌手（热度：158602）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E6%95%99%E5%AE%98%E4%BD%93%E7%BD%9A%E5%8E%BB%E4%B8%96%E5%A5%B3%E5%AD%A9%E7%88%B6%E4%BA%B2%E5%8F%91%E5%A3%B0%23" target="weibo">
+被教官体罚去世女孩父亲发声（热度：156887）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%91%E7%A5%9E%E8%AF%9D%E6%82%9F%E7%A9%BA%E6%80%BB%E6%94%B6%E5%85%A5%E8%BF%9110%E4%BA%BF%E7%BE%8E%E5%85%83%23" target="weibo">
 黑神话悟空总收入近10亿美元（热度：156879）
 </a>
@@ -12021,12 +12027,6 @@ enhypen身高被质疑（热度：79136）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E6%95%99%E5%AE%98%E4%BD%93%E7%BD%9A%E5%8E%BB%E4%B8%96%E5%A5%B3%E5%AD%A9%E7%88%B6%E4%BA%B2%E5%8F%91%E5%A3%B0%23" target="weibo">
-被教官体罚去世女孩父亲发声（热度：74463）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%AB%E6%97%AC%E8%80%81%E5%A4%AA%E9%A2%86%E8%9B%8B%E8%A2%AB%E6%8C%A4%E5%80%92%E8%BA%AB%E4%BA%A1%E8%B6%85%E5%B8%82%E8%B5%9410%E4%B8%87%23" target="weibo">
 八旬老太领蛋被挤倒身亡超市赔10万（热度：74170）
 </a>
@@ -12537,6 +12537,12 @@ aespa和ILLIT同一天回归（热度：68490）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%81%8C%E4%B8%9A%E9%97%AD%E5%BA%97%E4%BA%BA%E6%94%B6%E8%B4%B9%E5%8D%81%E5%87%A0%E4%B8%87%E6%89%BE%E4%BA%BA%E8%83%8C%E5%87%A0%E7%99%BE%E4%B8%87%E5%80%BA%23" target="weibo">
+职业闭店人收费十几万找人背几百万债（热度：58841）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A6%82%E6%9E%9C%E6%AF%8F%E4%B8%AA%E6%9D%91%E9%83%BD%E6%98%AF%E6%88%91%E5%9C%A8xx%E5%BE%88%E6%83%B3%E4%BD%A0%23" target="weibo">
 如果每个村都是我在xx很想你（热度：58590）
 </a>
@@ -13031,12 +13037,6 @@ Cat解说杯FMVP（热度：46929）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BF%84%E5%A4%96%E9%95%BF%E7%A7%B0%E6%99%AE%E4%BA%AC%E6%94%AF%E6%8C%81%E5%93%88%E9%87%8C%E6%96%AF%E6%98%AF%E7%8E%A9%E7%AC%91%E8%AF%9D%23" target="weibo">
 俄外长称普京支持哈里斯是玩笑话（热度：46679）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%81%8C%E4%B8%9A%E9%97%AD%E5%BA%97%E4%BA%BA%E6%94%B6%E8%B4%B9%E5%8D%81%E5%87%A0%E4%B8%87%E6%89%BE%E4%BA%BA%E8%83%8C%E5%87%A0%E7%99%BE%E4%B8%87%E5%80%BA%23" target="weibo">
-职业闭店人收费十几万找人背几百万债（热度：46645）
 </a>
 </li>
 
@@ -13635,6 +13635,12 @@ A股成交额过万亿创近5个月新高（热度：39686）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BA%A2%E9%9C%89%E7%B4%A0%E7%9C%BC%E8%86%8F%E5%92%8C%E7%BA%A2%E9%9C%89%E7%B4%A0%E8%BD%AF%E8%86%8F%E6%9C%89%E5%8C%BA%E5%88%AB%E5%90%97%23" target="weibo">
+红霉素眼膏和红霉素软膏有区别吗（热度：36577）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B2%BB%E7%90%86%E6%AC%A0%E8%96%AA%E6%AC%A0%E4%BF%9D%E8%BF%9D%E6%B3%95%E8%A3%81%E5%91%98%E6%B1%82%E8%81%8C%E9%99%B7%E9%98%B1%E4%B9%B1%E8%B1%A1%23" target="weibo">
 治理欠薪欠保违法裁员求职陷阱乱象（热度：36406）
 </a>
@@ -13763,6 +13769,12 @@ A股成交额过万亿创近5个月新高（热度：39686）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%88%B1%E9%AB%98%E6%9E%95%E6%97%A0%E5%BF%A71%E4%B8%AA%E6%9C%88%E8%90%BD%E6%9E%9518%E6%AC%A1%23" target="weibo">
 男子爱高枕无忧1个月落枕18次（热度：34712）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E7%9B%90%E6%B0%B4%E6%B3%A1%E7%A9%BA%E5%BF%83%E8%8F%9C%E6%B3%A1%E5%87%BA%E9%95%BF%E8%99%AB%23" target="weibo">
+女生盐水泡空心菜泡出长虫（热度：34444）
 </a>
 </li>
 
@@ -13943,12 +13955,6 @@ A股成交额过万亿创近5个月新高（热度：39686）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%89%E5%88%B8%E5%95%86%E5%AE%A2%E6%88%B7%E5%92%A8%E8%AF%A2%E6%95%B0%E9%87%8F%E6%9A%B4%E6%B6%A83%E5%80%8D%E4%BB%A5%E4%B8%8A%23" target="weibo">
 有券商客户咨询数量暴涨3倍以上（热度：30657）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E7%9B%90%E6%B0%B4%E6%B3%A1%E7%A9%BA%E5%BF%83%E8%8F%9C%E6%B3%A1%E5%87%BA%E9%95%BF%E8%99%AB%23" target="weibo">
-女生盐水泡空心菜泡出长虫（热度：30572）
 </a>
 </li>
 
@@ -14283,6 +14289,12 @@ AI新中式亮相米兰时装周（热度：29708）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E6%A0%A1%E5%9B%9E%E5%BA%94%E6%96%B0%E7%94%9F%E7%AD%94%E9%94%99%E7%AC%AC%E4%B8%80%E4%BB%BB%E6%A0%A1%E9%95%BF%E5%90%8D%E5%AD%97%E8%A2%AB%E5%A4%84%E5%88%86%23" target="weibo">
+高校回应新生答错第一任校长名字被处分（热度：26339）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BD%93%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%A4%9A%E7%9A%84%E8%80%81%E4%BA%BA%E5%BC%80%E5%A7%8B%E7%85%A7%E9%A1%BE%E8%80%81%E4%BA%BA%23" target="weibo">
 当越来越多的老人开始照顾老人（热度：26168）
 </a>
@@ -14421,12 +14433,6 @@ AI新中式亮相米兰时装周（热度：29708）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BA%A2%E9%9C%89%E7%B4%A0%E7%9C%BC%E8%86%8F%E5%92%8C%E7%BA%A2%E9%9C%89%E7%B4%A0%E8%BD%AF%E8%86%8F%E6%9C%89%E5%8C%BA%E5%88%AB%E5%90%97%23" target="weibo">
-红霉素眼膏和红霉素软膏有区别吗（热度：23276）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%BA%9A%E5%B8%8C%E6%8B%8D%E5%AE%8C%E6%91%87%E5%A4%AA%E9%98%B3%E5%90%83%E4%BA%86%E4%B8%80%E5%B9%B4%E7%B4%A0%23" target="weibo">
 李庚希拍完摇太阳吃了一年素（热度：23214）
 </a>
@@ -14453,6 +14459,12 @@ AI新中式亮相米兰时装周（热度：29708）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%BD%91%E5%A5%B3%E5%8D%95%E6%AD%A3%E8%B5%9B%E4%BB%8A%E6%97%A5%E5%BC%80%E8%B5%9B%23" target="weibo">
 中网女单正赛今日开赛（热度：22708）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E6%9D%91%E6%B0%91%E6%91%86%E8%8B%B9%E6%9E%9C%E5%A0%B5%E8%B7%AF%E9%80%BC%E5%81%9C%E8%BD%A6%E8%BE%86%23" target="weibo">
+官方回应村民摆苹果堵路逼停车辆（热度：22707）
 </a>
 </li>
 
@@ -14559,12 +14571,6 @@ Prada高智感穿搭（热度：22440）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E6%A0%A1%E5%9B%9E%E5%BA%94%E6%96%B0%E7%94%9F%E7%AD%94%E9%94%99%E7%AC%AC%E4%B8%80%E4%BB%BB%E6%A0%A1%E9%95%BF%E5%90%8D%E5%AD%97%E8%A2%AB%E5%A4%84%E5%88%86%23" target="weibo">
-高校回应新生答错第一任校长名字被处分（热度：20199）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E6%96%B0%E6%99%BA%E5%B7%B1LS6%E7%BB%AD%E8%88%AA%E8%BE%BE%E6%88%90%E7%8E%87%E8%B6%85%E4%B9%9D%E6%88%90%23" target="weibo">
 全新智己LS6续航达成率超九成（热度：20142）
 </a>
@@ -14609,6 +14615,12 @@ Prada高智感穿搭（热度：22440）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%95%86%E5%8A%A1%E9%83%A8%E5%9B%9E%E5%BA%94%E5%AF%B9%E7%BE%8EPVH%E9%9B%86%E5%9B%A2%E5%90%AF%E5%8A%A8%E8%B0%83%E6%9F%A5%23" target="weibo">
 商务部回应对美PVH集团启动调查（热度：18631）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%84%E6%97%8F%E4%BA%BA%E6%B0%91%E9%83%BD%E6%9C%89%E4%B8%80%E4%B8%AA%E5%85%B1%E5%90%8C%E5%90%8D%E5%AD%97%E5%B0%B1%E6%98%AF%E4%B8%AD%E5%9B%BD%E4%BA%BA%23" target="weibo">
+各族人民都有一个共同名字就是中国人（热度：18592）
 </a>
 </li>
 
@@ -14735,12 +14747,6 @@ Prada高智感穿搭（热度：22440）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%80%E9%86%89%E7%A6%8F%E5%B7%9E%23" target="weibo">
 最醉福州（热度：15689）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E6%9D%91%E6%B0%91%E6%91%86%E8%8B%B9%E6%9E%9C%E5%A0%B5%E8%B7%AF%E9%80%BC%E5%81%9C%E8%BD%A6%E8%BE%86%23" target="weibo">
-官方回应村民摆苹果堵路逼停车辆（热度：15680）
 </a>
 </li>
 
