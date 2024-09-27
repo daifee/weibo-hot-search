@@ -1,6 +1,6 @@
 {
   "startTime": 1727368091089,
-  "endTime": 1727429044404,
+  "endTime": 1727429867295,
   "band_list": [
     {
       "raw_hot": 4551944,
@@ -147,6 +147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 945494,
+      "num": 558453,
+      "word": "女子景区采了8朵蘑菇老公吃进ICU",
+      "onboard_time": 1727423719,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 847404,
       "num": 515449,
       "word": "名媛培训班 就业率",
@@ -227,6 +235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 639934,
+      "num": 321302,
+      "word": "4男子当街骚扰女生",
+      "onboard_time": 1727427437,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 625834,
       "num": 625834,
       "word": "打假博主大娃回应东北雨姐",
@@ -265,14 +281,6 @@
       "onboard_time": 1727399479,
       "rank": 5,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 558453,
-      "num": 558453,
-      "word": "女子景区采了8朵蘑菇老公吃进ICU",
-      "onboard_time": 1727423719,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 556391,
@@ -417,14 +425,6 @@
       "onboard_time": 1727423540,
       "rank": 22,
       "category": "体育"
-    },
-    {
-      "raw_hot": 398616,
-      "num": 321302,
-      "word": "4男子当街骚扰女生",
-      "onboard_time": 1727427437,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 393960,
@@ -604,7 +604,7 @@
     },
     {
       "raw_hot": 316778,
-      "num": 263108,
+      "num": 279727,
       "word": "中国最没存在感的省会",
       "onboard_time": 1727427199,
       "rank": 22,
@@ -739,6 +739,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 279245,
+      "num": 279245,
+      "word": "A股继续放量飙升",
+      "onboard_time": 1727413881,
+      "rank": 42,
+      "category": "财经"
+    },
+    {
       "raw_hot": 275677,
       "num": 389442,
       "word": "巴勒斯坦总统连说3遍不会离开家园",
@@ -787,6 +795,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 262743,
+      "num": 281522,
+      "word": "家乡当手机壁纸后不想再换别的了",
+      "onboard_time": 1727425760,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 259839,
       "num": 259839,
       "word": "戚百草骗骗子被骗子骗",
@@ -801,14 +817,6 @@
       "onboard_time": 1727404760,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 255371,
-      "num": 255371,
-      "word": "A股继续放量飙升",
-      "onboard_time": 1727413881,
-      "rank": 42,
-      "category": "财经"
     },
     {
       "raw_hot": 253570,
@@ -833,14 +841,6 @@
       "onboard_time": 1727410521,
       "rank": 35,
       "category": "财经"
-    },
-    {
-      "raw_hot": 241102,
-      "num": 241102,
-      "word": "家乡当手机壁纸后不想再换别的了",
-      "onboard_time": 1727425760,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 241052,
@@ -889,6 +889,14 @@
       "onboard_time": 1727340979,
       "rank": 14,
       "category": "网红"
+    },
+    {
+      "raw_hot": 231560,
+      "num": 231560,
+      "word": "A股超5200只股票上涨",
+      "onboard_time": 1727426538,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 231338,
@@ -969,6 +977,14 @@
       "onboard_time": 1727415020,
       "rank": 34,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 215013,
+      "num": 443948,
+      "word": "官方通报果农把苹果摆在路上逼停司机",
+      "onboard_time": 1727426299,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 214463,
@@ -1083,6 +1099,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 195006,
+      "num": 296812,
+      "word": "电影金钱堡垒定档",
+      "onboard_time": 1727428698,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 193678,
       "num": 208471,
       "word": "王源易烊千玺包场749局",
@@ -1097,6 +1121,14 @@
       "onboard_time": 1727421919,
       "rank": 29,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 191444,
+      "num": 191444,
+      "word": "国家勋章和国家荣誉称号颁授仪式",
+      "onboard_time": 1727429119,
+      "rank": 34,
+      "category": "国内时政"
     },
     {
       "raw_hot": 191182,
@@ -1227,6 +1259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 172385,
+      "num": 172385,
+      "word": "原来被骂扁是真的存在的",
+      "onboard_time": 1727428398,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 171297,
       "num": 171297,
       "word": "洒水车哼着歌就把火灭了",
@@ -1241,6 +1281,14 @@
       "onboard_time": 1727406259,
       "rank": 42,
       "category": "财经"
+    },
+    {
+      "raw_hot": 169987,
+      "num": 228278,
+      "word": "半熟男女就是何知南写的吧",
+      "onboard_time": 1727428759,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 168739,
@@ -1265,22 +1313,6 @@
       "onboard_time": 1727420297,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 167802,
-      "num": 296812,
-      "word": "电影金钱堡垒定档",
-      "onboard_time": 1727428698,
-      "rank": 18,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 167664,
-      "num": 443948,
-      "word": "官方通报果农把苹果摆在路上逼停司机",
-      "onboard_time": 1727426299,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 166957,
@@ -1313,6 +1345,14 @@
       "onboard_time": 1727417060,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 164306,
+      "num": 164306,
+      "word": "国家勋章颁授",
+      "onboard_time": 1727429540,
+      "rank": 39,
+      "category": "国内时政"
     },
     {
       "raw_hot": 164154,
@@ -1361,14 +1401,6 @@
       "onboard_time": 1727369955,
       "rank": 8,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 159434,
-      "num": 159434,
-      "word": "A股超5200只股票上涨",
-      "onboard_time": 1727426538,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 158508,
@@ -1433,6 +1465,14 @@
       "onboard_time": 1727411240,
       "rank": 7,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 151502,
+      "num": 151502,
+      "word": "退订牙膏事业运",
+      "onboard_time": 1727429240,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 150867,
@@ -1539,14 +1579,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 137539,
-      "num": 137539,
-      "word": "原来被骂扁是真的存在的",
-      "onboard_time": 1727428398,
-      "rank": 43,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 136319,
       "num": 136319,
       "word": "一等功到家两位功臣却都不能露脸",
@@ -1585,14 +1617,6 @@
       "onboard_time": 1727420660,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 133483,
-      "num": 133483,
-      "word": "半熟男女就是何知南写的吧",
-      "onboard_time": 1727428759,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 133393,
@@ -2059,6 +2083,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 58303,
+      "num": 282274,
+      "word": "体罚女孩致死教育机构拒绝家长探望",
+      "onboard_time": 1727429659,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 57846,
       "num": 345458,
       "word": "央视曝光非法改装电动自行车乱象",
@@ -2108,7 +2140,7 @@
     },
     {
       "raw_hot": 50596,
-      "num": 253855,
+      "num": 282013,
       "word": "你好种地少年2开播",
       "onboard_time": 1727427799,
       "rank": 24,
@@ -2132,7 +2164,7 @@
     },
     {
       "raw_hot": 46051,
-      "num": 207389,
+      "num": 281321,
       "word": "王欣瑜无缘中网32强",
       "onboard_time": 1727428039,
       "rank": 29,
@@ -2160,6 +2192,14 @@
       "word": "文化中国行看黄渤海候鸟栖息地",
       "onboard_time": 1727410220,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 43630,
+      "num": 324952,
+      "word": "奶茶店称被二房东收一万多电费差价",
+      "onboard_time": 1727428216,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -2241,14 +2281,6 @@
       "onboard_time": 1727423959,
       "rank": 35,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 35437,
-      "num": 324952,
-      "word": "奶茶店称被二房东收一万多电费差价",
-      "onboard_time": 1727428216,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 35038,
@@ -2395,6 +2427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 23838,
+      "num": 200452,
+      "word": "晒单文学是什么梗",
+      "onboard_time": 1727427919,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 22744,
       "num": 313503,
       "word": "中国智能电车已经NEXTLEVEL了吗",
@@ -2411,19 +2451,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 21055,
+      "num": 165018,
+      "word": "范志毅评价鹿晗是足球界颜值担当",
+      "onboard_time": 1727429479,
+      "rank": 38,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 20886,
       "num": 661843,
       "word": "我国无人驾驶重载列车首试成功",
       "onboard_time": 1727348479,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 20024,
-      "num": 168913,
-      "word": "晒单文学是什么梗",
-      "onboard_time": 1727427919,
-      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -2441,6 +2481,14 @@
       "onboard_time": 1727380811,
       "rank": 47,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 17123,
+      "num": 279937,
+      "word": "王建国想打黑神话付航",
+      "onboard_time": 1727429298,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 15978,
@@ -2472,6 +2520,14 @@
       "word": "国庆高峰期加开多趟中短途旅客列车",
       "onboard_time": 1727389393,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 11066,
+      "num": 588981,
+      "word": "天山南北唱新歌",
+      "onboard_time": 1727348779,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
