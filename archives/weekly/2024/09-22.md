@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/09/22 00:27:00 ~ 2024/09/28 03:18:42
+本榜单时间：2024/09/22 00:27:00 ~ 2024/09/28 03:35:48
 </p>
 </blockquote>
 <p>
@@ -12021,6 +12021,12 @@ enhypen身高被质疑（热度：79136）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E6%95%99%E5%AE%98%E4%BD%93%E7%BD%9A%E5%8E%BB%E4%B8%96%E5%A5%B3%E5%AD%A9%E7%88%B6%E4%BA%B2%E5%8F%91%E5%A3%B0%23" target="weibo">
+被教官体罚去世女孩父亲发声（热度：74463）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%AB%E6%97%AC%E8%80%81%E5%A4%AA%E9%A2%86%E8%9B%8B%E8%A2%AB%E6%8C%A4%E5%80%92%E8%BA%AB%E4%BA%A1%E8%B6%85%E5%B8%82%E8%B5%9410%E4%B8%87%23" target="weibo">
 八旬老太领蛋被挤倒身亡超市赔10万（热度：74170）
 </a>
@@ -12735,12 +12741,6 @@ aespa和ILLIT同一天回归（热度：68490）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E6%95%99%E5%AE%98%E4%BD%93%E7%BD%9A%E5%8E%BB%E4%B8%96%E5%A5%B3%E5%AD%A9%E7%88%B6%E4%BA%B2%E5%8F%91%E5%A3%B0%23" target="weibo">
-被教官体罚去世女孩父亲发声（热度：54500）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%AB%A5%E7%96%91%E8%A2%AB%E6%89%98%E7%AE%A1%E6%9C%BA%E6%9E%84%E8%80%81%E5%B8%88%E6%8B%96%E6%8B%BD%E5%8F%97%E4%BC%A4%23" target="weibo">
 男童疑被托管机构老师拖拽受伤（热度：54428）
 </a>
@@ -13031,6 +13031,12 @@ Cat解说杯FMVP（热度：46929）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BF%84%E5%A4%96%E9%95%BF%E7%A7%B0%E6%99%AE%E4%BA%AC%E6%94%AF%E6%8C%81%E5%93%88%E9%87%8C%E6%96%AF%E6%98%AF%E7%8E%A9%E7%AC%91%E8%AF%9D%23" target="weibo">
 俄外长称普京支持哈里斯是玩笑话（热度：46679）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%81%8C%E4%B8%9A%E9%97%AD%E5%BA%97%E4%BA%BA%E6%94%B6%E8%B4%B9%E5%8D%81%E5%87%A0%E4%B8%87%E6%89%BE%E4%BA%BA%E8%83%8C%E5%87%A0%E7%99%BE%E4%B8%87%E5%80%BA%23" target="weibo">
+职业闭店人收费十几万找人背几百万债（热度：46645）
 </a>
 </li>
 
@@ -13475,12 +13481,6 @@ A股成交额过万亿创近5个月新高（热度：39686）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E4%B8%96%E9%97%B4%E5%8F%B0%E8%AF%8D%E5%90%AB%E9%87%91%E9%87%8F%E7%9C%9F%E7%9A%84%E5%BE%88%E9%AB%98%23" target="weibo">
 人世间台词含金量真的很高（热度：39444）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%81%8C%E4%B8%9A%E9%97%AD%E5%BA%97%E4%BA%BA%E6%94%B6%E8%B4%B9%E5%8D%81%E5%87%A0%E4%B8%87%E6%89%BE%E4%BA%BA%E8%83%8C%E5%87%A0%E7%99%BE%E4%B8%87%E5%80%BA%23" target="weibo">
-职业闭店人收费十几万找人背几百万债（热度：39395）
 </a>
 </li>
 
@@ -13943,6 +13943,12 @@ A股成交额过万亿创近5个月新高（热度：39686）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%89%E5%88%B8%E5%95%86%E5%AE%A2%E6%88%B7%E5%92%A8%E8%AF%A2%E6%95%B0%E9%87%8F%E6%9A%B4%E6%B6%A83%E5%80%8D%E4%BB%A5%E4%B8%8A%23" target="weibo">
 有券商客户咨询数量暴涨3倍以上（热度：30657）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E7%9B%90%E6%B0%B4%E6%B3%A1%E7%A9%BA%E5%BF%83%E8%8F%9C%E6%B3%A1%E5%87%BA%E9%95%BF%E8%99%AB%23" target="weibo">
+女生盐水泡空心菜泡出长虫（热度：30572）
 </a>
 </li>
 
@@ -14415,6 +14421,12 @@ AI新中式亮相米兰时装周（热度：29708）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BA%A2%E9%9C%89%E7%B4%A0%E7%9C%BC%E8%86%8F%E5%92%8C%E7%BA%A2%E9%9C%89%E7%B4%A0%E8%BD%AF%E8%86%8F%E6%9C%89%E5%8C%BA%E5%88%AB%E5%90%97%23" target="weibo">
+红霉素眼膏和红霉素软膏有区别吗（热度：23276）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%BA%9A%E5%B8%8C%E6%8B%8D%E5%AE%8C%E6%91%87%E5%A4%AA%E9%98%B3%E5%90%83%E4%BA%86%E4%B8%80%E5%B9%B4%E7%B4%A0%23" target="weibo">
 李庚希拍完摇太阳吃了一年素（热度：23214）
 </a>
@@ -14543,6 +14555,12 @@ Prada高智感穿搭（热度：22440）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E8%89%BE%E9%87%87%E8%AE%BF%E8%B6%85%E6%A8%A1%E4%BF%A1%E6%81%AF%E9%87%8F%E5%A5%BD%E5%A4%A7%23" target="weibo">
 李艾采访超模信息量好大（热度：20545）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E6%A0%A1%E5%9B%9E%E5%BA%94%E6%96%B0%E7%94%9F%E7%AD%94%E9%94%99%E7%AC%AC%E4%B8%80%E4%BB%BB%E6%A0%A1%E9%95%BF%E5%90%8D%E5%AD%97%E8%A2%AB%E5%A4%84%E5%88%86%23" target="weibo">
+高校回应新生答错第一任校长名字被处分（热度：20199）
 </a>
 </li>
 
@@ -14721,6 +14739,12 @@ Prada高智感穿搭（热度：22440）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E6%9D%91%E6%B0%91%E6%91%86%E8%8B%B9%E6%9E%9C%E5%A0%B5%E8%B7%AF%E9%80%BC%E5%81%9C%E8%BD%A6%E8%BE%86%23" target="weibo">
+官方回应村民摆苹果堵路逼停车辆（热度：15680）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%83%A0%E8%8B%B1%E7%BA%A2%20%E6%8E%8C%E7%AE%A1%E5%85%89%E5%BD%B1%E7%9A%84%E7%A5%9E%23" target="weibo">
 惠英红 掌管光影的神（热度：15526）
 </a>
@@ -14729,12 +14753,6 @@ Prada高智感穿搭（热度：22440）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E6%91%A9%E7%A7%B0A%E8%82%A1%E6%88%96%E8%B7%91%E8%B5%A2%E6%96%B0%E5%85%B4%E5%B8%82%E5%9C%BA%23" target="weibo">
 大摩称A股或跑赢新兴市场（热度：15390）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E6%9D%91%E6%B0%91%E6%91%86%E8%8B%B9%E6%9E%9C%E5%A0%B5%E8%B7%AF%E9%80%BC%E5%81%9C%E8%BD%A6%E8%BE%86%23" target="weibo">
-官方回应村民摆苹果堵路逼停车辆（热度：15388）
 </a>
 </li>
 
