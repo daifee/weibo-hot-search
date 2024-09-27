@@ -1,6 +1,6 @@
 {
   "startTime": 1727368091089,
-  "endTime": 1727441920267,
+  "endTime": 1727443742873,
   "band_list": [
     {
       "raw_hot": 4551944,
@@ -9,6 +9,14 @@
       "onboard_time": 1727398761,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2926901,
+      "num": 2926901,
+      "word": "武汉震感",
+      "onboard_time": 1727442380,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2522422,
@@ -99,6 +107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1223999,
+      "num": 264674,
+      "word": "黄多多在纽约街边画画",
+      "onboard_time": 1727438058,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1203633,
       "num": 1203633,
       "word": "A股",
@@ -112,6 +128,14 @@
       "word": "奶茶店称因电费差价要多做一千杯",
       "onboard_time": 1727433798,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1180452,
+      "num": 414515,
+      "word": "网红张悦疑坠楼有同名死者被送殡仪馆",
+      "onboard_time": 1727440159,
+      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -363,14 +387,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 545311,
-      "num": 264674,
-      "word": "黄多多在纽约街边画画",
-      "onboard_time": 1727438058,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 544955,
       "num": 544955,
       "word": "我已出舱感觉良好有16年了",
@@ -491,6 +507,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 437427,
+      "num": 237438,
+      "word": "发电厂海蜇泛滥员工已抓21万斤",
+      "onboard_time": 1727437938,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 429221,
       "num": 186518,
       "word": "河南师大偷女生内裤的男生已找到",
@@ -529,14 +553,6 @@
       "onboard_time": 1727365759,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 414515,
-      "num": 414515,
-      "word": "网红张悦疑坠楼有同名死者被送殡仪馆",
-      "onboard_time": 1727440159,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 412991,
@@ -616,6 +632,14 @@
       "word": "母亲玩手机3岁幼童坠楼商场判赔154万",
       "onboard_time": 1727362761,
       "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 364767,
+      "num": 364767,
+      "word": "警方回应女网红张悦疑坠楼身亡",
+      "onboard_time": 1727442500,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -867,6 +891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 291136,
+      "num": 291136,
+      "word": "第五人格骑士",
+      "onboard_time": 1727441478,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 290015,
       "num": 530059,
       "word": "A股牛甄嬛回宫",
@@ -955,14 +987,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 268842,
-      "num": 237438,
-      "word": "发电厂海蜇泛滥员工已抓21万斤",
-      "onboard_time": 1727437938,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 268232,
       "num": 339868,
       "word": "石凯希望张艺兴周深能不收他版权费",
@@ -993,6 +1017,14 @@
       "onboard_time": 1727403680,
       "rank": 22,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 262354,
+      "num": 262354,
+      "word": "刚出生宝宝遭隐翅虫攻击致头部感染",
+      "onboard_time": 1727442439,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 259839,
@@ -1059,6 +1091,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 237513,
+      "num": 233767,
+      "word": "时代少年团 河北",
+      "onboard_time": 1727440398,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 235578,
       "num": 263881,
       "word": "大山女孩的两种结局",
@@ -1073,14 +1113,6 @@
       "onboard_time": 1727367019,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 233767,
-      "num": 233767,
-      "word": "时代少年团 河北",
-      "onboard_time": 1727440398,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 233205,
@@ -1187,14 +1219,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 216045,
-      "num": 216045,
-      "word": "第五人格骑士",
-      "onboard_time": 1727441478,
-      "rank": 31,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 215254,
       "num": 215254,
       "word": "Uzi红温破防",
@@ -1265,6 +1289,14 @@
       "onboard_time": 1727427979,
       "rank": 30,
       "category": "财经"
+    },
+    {
+      "raw_hot": 205644,
+      "num": 205644,
+      "word": "擎天柱威震天be美学",
+      "onboard_time": 1727443220,
+      "rank": 34,
+      "category": "动漫"
     },
     {
       "raw_hot": 204802,
@@ -1465,6 +1497,14 @@
       "onboard_time": 1727431580,
       "rank": 33,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 184734,
+      "num": 184734,
+      "word": "杨幂戴墨镜飞吻",
+      "onboard_time": 1727441720,
+      "rank": 46,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 183728,
@@ -1724,7 +1764,7 @@
     },
     {
       "raw_hot": 158843,
-      "num": 158843,
+      "num": 214745,
       "word": "殡仪馆回应女网红张悦疑坠楼身亡",
       "onboard_time": 1727434218,
       "rank": 31,
@@ -1745,6 +1785,14 @@
       "onboard_time": 1727414360,
       "rank": 44,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 156151,
+      "num": 156151,
+      "word": "安徽省地震局回应地震热点问题",
+      "onboard_time": 1727443401,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 155983,
@@ -1923,6 +1971,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 139887,
+      "num": 139887,
+      "word": "不会舔毛但有一把子力气",
+      "onboard_time": 1727441840,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 139457,
       "num": 139457,
       "word": "今年的桂花香为何迟到了",
@@ -1931,12 +1987,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 139328,
+      "num": 139328,
+      "word": "告诉爸妈别这样用保鲜膜了",
+      "onboard_time": 1727440760,
+      "rank": 47,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 139064,
       "num": 277477,
       "word": "淘宝微信打通第一批受益者出现了",
       "onboard_time": 1727422400,
       "rank": 45,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 137511,
+      "num": 137511,
+      "word": "中网2024",
+      "onboard_time": 1727443581,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 136319,
@@ -2099,6 +2171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 122990,
+      "num": 213842,
+      "word": "王祖蓝刚送走全红婵又迎来阿条姐",
+      "onboard_time": 1727443340,
+      "rank": 26,
+      "category": "综艺,体育"
+    },
+    {
       "raw_hot": 121767,
       "num": 121767,
       "word": "翁青雅彭高一起上班",
@@ -2203,6 +2283,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 109904,
+      "num": 109904,
+      "word": "半熟男女 全员恶人",
+      "onboard_time": 1727443700,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 108768,
       "num": 108768,
       "word": "马思纯回应被叫妈妈",
@@ -2217,14 +2305,6 @@
       "onboard_time": 1727337019,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 107156,
-      "num": 107156,
-      "word": "杨幂戴墨镜飞吻",
-      "onboard_time": 1727441720,
-      "rank": 46,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 107122,
@@ -2251,22 +2331,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 103585,
-      "num": 103585,
-      "word": "告诉爸妈别这样用保鲜膜了",
-      "onboard_time": 1727440760,
-      "rank": 47,
-      "category": "科学科普"
-    },
-    {
-      "raw_hot": 102223,
-      "num": 102223,
-      "word": "不会舔毛但有一把子力气",
-      "onboard_time": 1727441840,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 100050,
       "num": 530466,
       "word": "中方回应石破茂将出任日本首相",
@@ -2280,6 +2344,14 @@
       "word": "阿尔瓦雷斯绝杀",
       "onboard_time": 1727401460,
       "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 97274,
+      "num": 212331,
+      "word": "张之臻1比2弗基纳",
+      "onboard_time": 1727443220,
+      "rank": 29,
       "category": "体育"
     },
     {
@@ -2425,6 +2497,14 @@
       "onboard_time": 1727355858,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 76416,
+      "num": 262066,
+      "word": "为什么一定要带孩子逛博物馆",
+      "onboard_time": 1727439379,
+      "rank": 17,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 76368,
@@ -2587,6 +2667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 60999,
+      "num": 219194,
+      "word": "淘宝微信都成了那我的cp呢",
+      "onboard_time": 1727442021,
+      "rank": 14,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 60866,
       "num": 75250,
       "word": "网友点赞12306车内换座功能",
@@ -2651,12 +2739,12 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 54407,
-      "num": 262066,
-      "word": "为什么一定要带孩子逛博物馆",
-      "onboard_time": 1727439379,
-      "rank": 17,
-      "category": "母婴育儿"
+      "raw_hot": 54067,
+      "num": 134723,
+      "word": "陈紫函先天红衣古装圣体",
+      "onboard_time": 1727442259,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 53324,
@@ -3051,6 +3139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 22899,
+      "num": 217470,
+      "word": "景区回应丹霞地貌被植被覆盖",
+      "onboard_time": 1727442620,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 22744,
       "num": 313503,
       "word": "中国智能电车已经NEXTLEVEL了吗",
@@ -3059,11 +3155,27 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 21657,
+      "num": 219540,
+      "word": "市监局回应盒饭店将食材堆垃圾箱旁",
+      "onboard_time": 1727443100,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 21622,
       "num": 28761,
       "word": "越来越多中国记者出现在国际新闻现场",
       "onboard_time": 1727381891,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 21129,
+      "num": 221672,
+      "word": "超650吨走私冻品装满29个集装箱",
+      "onboard_time": 1727443220,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
