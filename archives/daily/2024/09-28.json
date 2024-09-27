@@ -1,6 +1,6 @@
 {
   "startTime": 1727454453610,
-  "endTime": 1727457610319,
+  "endTime": 1727458681126,
   "band_list": [
     {
       "raw_hot": 801781,
@@ -147,6 +147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 202723,
+      "num": 156910,
+      "word": "打假博主称东北雨姐丈夫曾拿刀威胁",
+      "onboard_time": 1727455396,
+      "rank": 43,
+      "category": "网红"
+    },
+    {
       "raw_hot": 199584,
       "num": 199584,
       "word": "周杰伦千山万水现场",
@@ -209,14 +217,6 @@
       "onboard_time": 1727436018,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 133174,
-      "num": 133174,
-      "word": "打假博主称东北雨姐丈夫曾拿刀威胁",
-      "onboard_time": 1727455396,
-      "rank": 43,
-      "category": "网红"
     },
     {
       "raw_hot": 132346,
@@ -427,6 +427,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 64217,
+      "num": 135622,
+      "word": "山西甘肃婚假最长可享30天",
+      "onboard_time": 1727457374,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 63357,
       "num": 63357,
       "word": "张杰献唱原神周年曲",
@@ -443,6 +451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 52992,
+      "num": 52992,
+      "word": "吴宣仪cos貂蝉",
+      "onboard_time": 1727458154,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 39325,
       "num": 59010,
       "word": "哈利波特",
@@ -451,18 +467,18 @@
       "category": "电影"
     },
     {
-      "raw_hot": 27153,
-      "num": 135622,
-      "word": "山西甘肃婚假最长可享30天",
-      "onboard_time": 1727457374,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 17562,
       "num": 510123,
       "word": "352个集体368名个人受到表彰",
       "onboard_time": 1727444301,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 8270,
+      "num": 247710,
+      "word": "接力表白祖国",
+      "onboard_time": 1727444179,
       "rank": 2,
       "category": "社会新闻"
     }
