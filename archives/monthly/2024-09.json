@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1727455417953,
+  "endTime": 1727457610319,
   "band_list": [
     {
       "raw_hot": 28035334,
@@ -13001,6 +13001,14 @@
       "onboard_time": 1727238261,
       "rank": 24,
       "category": "电影"
+    },
+    {
+      "raw_hot": 605519,
+      "num": 605519,
+      "word": "关停饭圈相关违规账号10万余个",
+      "onboard_time": 1727453239,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 605352,
@@ -33657,14 +33665,6 @@
       "onboard_time": 1726641019,
       "rank": 41,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 219846,
-      "num": 265260,
-      "word": "关停饭圈相关违规账号10万余个",
-      "onboard_time": 1727453239,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 219837,
@@ -58859,6 +58859,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 133174,
+      "num": 133174,
+      "word": "打假博主称东北雨姐丈夫曾拿刀威胁",
+      "onboard_time": 1727455396,
+      "rank": 43,
+      "category": "网红"
+    },
+    {
       "raw_hot": 133116,
       "num": 133116,
       "word": "萧敬腾 军训求雨",
@@ -69835,6 +69843,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 68216,
+      "num": 68216,
+      "word": "和叶太甜了吧",
+      "onboard_time": 1727454498,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 68061,
       "num": 313220,
       "word": "厕所发现摄像头高校应立即报警",
@@ -70025,14 +70041,6 @@
       "onboard_time": 1726663105,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 66958,
-      "num": 66958,
-      "word": "打假博主称东北雨姐丈夫曾拿刀威胁",
-      "onboard_time": 1727455396,
-      "rank": 43,
-      "category": "网红"
     },
     {
       "raw_hot": 66918,
@@ -70347,6 +70355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 64997,
+      "num": 64997,
+      "word": "原神5.1",
+      "onboard_time": 1727455815,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 64992,
       "num": 271636,
       "word": "新版梁祝越剧武汉首演",
@@ -70425,14 +70441,6 @@
       "onboard_time": 1725167600,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 64227,
-      "num": 64227,
-      "word": "和叶太甜了吧",
-      "onboard_time": 1727454498,
-      "rank": 45,
-      "category": "幽默"
     },
     {
       "raw_hot": 64165,
@@ -79504,6 +79512,14 @@
       "word": "00后种地搞了个田间情报站",
       "onboard_time": 1726948812,
       "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 27153,
+      "num": 135622,
+      "word": "山西甘肃婚假最长可享30天",
+      "onboard_time": 1727457374,
+      "rank": 15,
       "category": "社会新闻"
     },
     {
