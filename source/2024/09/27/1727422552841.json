@@ -1,0 +1,410 @@
+{
+  "runTime": 1727422552841,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1551602,
+        "num": 1551602,
+        "word": "石破茂将出任日本首相",
+        "onboard_time": 1727418801,
+        "rank": 0,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 823331,
+        "num": 823331,
+        "word": "官方介入调查约300万只蜜蜂死亡",
+        "onboard_time": 1727415919,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38297,
+        "num": 773206,
+        "word": "文化中国行看黄渤海候鸟栖息地",
+        "onboard_time": 1727410220,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 755283,
+        "num": 755283,
+        "word": "WTT抽签",
+        "onboard_time": 1727418739,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 641842,
+        "num": 641842,
+        "word": "淘宝微信支付",
+        "onboard_time": 1727414960,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 486622,
+        "num": 486622,
+        "word": "浙江婚假",
+        "onboard_time": 1727402842,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 468091,
+        "num": 468091,
+        "word": "马伯骞回应没有子承父业的原因",
+        "onboard_time": 1727415800,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 379098,
+        "num": 379098,
+        "word": "Kim成熟了好多",
+        "onboard_time": 1727413940,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 378069,
+        "num": 378069,
+        "word": "兵哥哥执勤时被宝妈塞了一个娃",
+        "onboard_time": 1727420297,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32103,
+        "num": 371565,
+        "word": "A股正从反弹走向反转",
+        "onboard_time": 1727422520,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 847404,
+        "num": 357569,
+        "word": "名媛培训班 就业率",
+        "onboard_time": 1727415081,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 495236,
+        "num": 352454,
+        "word": "遭教官体罚进ICU的14岁女孩离世",
+        "onboard_time": 1727407160,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 378446,
+        "num": 338066,
+        "word": "阿云嘎透露和肖战聊天内容",
+        "onboard_time": 1727419578,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 29503,
+        "num": 326375,
+        "word": "官方通报男童输液死亡后医院修改病历",
+        "onboard_time": 1727421679,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 324859,
+        "num": 324859,
+        "word": "WTT中国大满贯首日国乒12胜1负",
+        "onboard_time": 1727417301,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 180298,
+        "num": 315406,
+        "word": "河南嵩县约300万只蜜蜂离奇死亡",
+        "onboard_time": 1727419340,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 93686,
+        "num": 312680,
+        "word": "阿如那缺席披哥四公录制",
+        "onboard_time": 1727422218,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 310964,
+        "num": 310964,
+        "word": "LNG确认Scout参加S14",
+        "onboard_time": 1727420418,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 29100,
+        "num": 297642,
+        "word": "律师称村主任撞人案并非花650万买命",
+        "onboard_time": 1727421080,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46455,
+        "num": 289956,
+        "word": "姚晨穿运动鞋看秀",
+        "onboard_time": 1727421979,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 402551,
+        "num": 289894,
+        "word": "打过狂犬疫苗的人嘴真严啊",
+        "onboard_time": 1727416581,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 285068,
+        "num": 285068,
+        "word": "女高管与下属约会开房被开除",
+        "onboard_time": 1727412862,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 283898,
+        "num": 283898,
+        "word": "名媛培训班",
+        "onboard_time": 1727413881,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 275774,
+        "num": 275774,
+        "word": "民警锁定嫌疑人未及时抓捕获刑1年",
+        "onboard_time": 1727419759,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 266832,
+        "num": 266832,
+        "word": "东北雨姐回应客服骂人",
+        "onboard_time": 1727411721,
+        "rank": 24,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 251153,
+        "num": 251153,
+        "word": "A股",
+        "onboard_time": 1727400498,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 232155,
+        "num": 232155,
+        "word": "A股继续放量飙升",
+        "onboard_time": 1727413881,
+        "rank": 26,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 224562,
+        "num": 224562,
+        "word": "浙江领证未满1年新人也享受13天婚假",
+        "onboard_time": 1727405539,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205735,
+        "num": 205735,
+        "word": "骗子在付款码收款码切换瞬间盗刷",
+        "onboard_time": 1727415680,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193191,
+        "num": 204611,
+        "word": "宋雨琦jellycat上海活动",
+        "onboard_time": 1727421919,
+        "rank": 29,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 204445,
+        "num": 204445,
+        "word": "专家称A股3000点应该能站稳",
+        "onboard_time": 1727408299,
+        "rank": 30,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 199061,
+        "num": 199061,
+        "word": "走进珂学",
+        "onboard_time": 1727418321,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 173007,
+        "num": 173007,
+        "word": "贾玲不再担任大碗娱乐职务",
+        "onboard_time": 1727398761,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168300,
+        "num": 168300,
+        "word": "2024KPL年总定妆照",
+        "onboard_time": 1727421621,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 168098,
+        "num": 168098,
+        "word": "WTT中国大满贯2024",
+        "onboard_time": 1727420297,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 165912,
+        "num": 165912,
+        "word": "我已出舱感觉良好有16年了",
+        "onboard_time": 1727407099,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 164067,
+        "num": 164067,
+        "word": "洒水车哼着歌就把火灭了",
+        "onboard_time": 1727419999,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159995,
+        "num": 159995,
+        "word": "今天起浙江婚假延长至13天",
+        "onboard_time": 1727403380,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144487,
+        "num": 159400,
+        "word": "曾毅 年过半百工作量猛增",
+        "onboard_time": 1727422339,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 78881,
+        "num": 159218,
+        "word": "这届年轻人偷偷在家爆改生活",
+        "onboard_time": 1727420418,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159159,
+        "num": 159159,
+        "word": "向太曾为拒绝做舞女轻生",
+        "onboard_time": 1727414481,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26603,
+        "num": 156444,
+        "word": "还原了世界名画里的场景",
+        "onboard_time": 1727420599,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154577,
+        "num": 154577,
+        "word": "市监局回应遭体罚14岁女孩离世",
+        "onboard_time": 1727420059,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150496,
+        "num": 150496,
+        "word": "重637.4克公河蟹当选蟹王",
+        "onboard_time": 1727418081,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141949,
+        "num": 141949,
+        "word": "戚薇蔡徐坤合照",
+        "onboard_time": 1727411601,
+        "rank": 44,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 49269,
+        "num": 141911,
+        "word": "淘宝微信打通第一批受益者出现了",
+        "onboard_time": 1727422400,
+        "rank": 45,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 142193,
+        "num": 141911,
+        "word": "大碗娱乐所有艺人合约到期不续",
+        "onboard_time": 1727399419,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 13001,
+        "num": 141892,
+        "word": "时装周什么最要紧",
+        "onboard_time": 1727422458,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 141890,
+        "num": 141890,
+        "word": "鑫仔淘汰",
+        "onboard_time": 1727420418,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134010,
+        "num": 134010,
+        "word": "张帅爆冷美网四强",
+        "onboard_time": 1727413821,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#要像石榴籽一样紧紧抱在一起#"
+    }
+  }
+}
