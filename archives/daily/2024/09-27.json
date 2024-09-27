@@ -1,7 +1,15 @@
 {
   "startTime": 1727368091089,
-  "endTime": 1727393836080,
+  "endTime": 1727401304274,
   "band_list": [
+    {
+      "raw_hot": 4183427,
+      "num": 4183427,
+      "word": "贾玲不再担任大碗娱乐职务",
+      "onboard_time": 1727398761,
+      "rank": 0,
+      "category": "艺人"
+    },
     {
       "raw_hot": 2291469,
       "num": 2291469,
@@ -9,6 +17,14 @@
       "onboard_time": 1727356461,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2177230,
+      "num": 573370,
+      "word": "大碗娱乐所有艺人合约到期不续",
+      "onboard_time": 1727399419,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 1715325,
@@ -25,6 +41,14 @@
       "onboard_time": 1727361742,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1066873,
+      "num": 1066873,
+      "word": "中国人民银行决定降准",
+      "onboard_time": 1727396599,
+      "rank": 1,
+      "category": "财经"
     },
     {
       "raw_hot": 1057110,
@@ -51,12 +75,36 @@
       "category": "网红"
     },
     {
+      "raw_hot": 593955,
+      "num": 479154,
+      "word": "张小斐与大碗娱乐合约到期",
+      "onboard_time": 1727399359,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 591226,
       "num": 591226,
       "word": "一个洗头油得慢的办法",
       "onboard_time": 1727363361,
       "rank": 1,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 541984,
+      "num": 541984,
+      "word": "被传坠楼身亡女网红账号已私密",
+      "onboard_time": 1727396180,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 503177,
+      "num": 503177,
+      "word": "巴总统问以色列谁杀了1.5万名儿童",
+      "onboard_time": 1727399479,
+      "rank": 5,
+      "category": "国外时政"
     },
     {
       "raw_hot": 480792,
@@ -75,12 +123,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 429221,
+      "num": 171690,
+      "word": "河南师大偷女生内裤的男生已找到",
+      "onboard_time": 1727396299,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 415849,
       "num": 261360,
       "word": "迪丽热巴少来烦姐挂件",
       "onboard_time": 1727365759,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 410255,
+      "num": 410255,
+      "word": "A股",
+      "onboard_time": 1727400498,
+      "rank": 7,
+      "category": "财经"
     },
     {
       "raw_hot": 393960,
@@ -107,11 +171,59 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 360715,
+      "num": 229272,
+      "word": "7天轻断食瘦了9斤",
+      "onboard_time": 1727396299,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 350736,
+      "num": 350736,
+      "word": "五条悟结局",
+      "onboard_time": 1727395699,
+      "rank": 11,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 346735,
-      "num": 212127,
+      "num": 218939,
       "word": "男生被4女生扣留2小时下跪道歉",
       "onboard_time": 1727355319,
       "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 338458,
+      "num": 338458,
+      "word": "下调存款准备金率0.5个百分点",
+      "onboard_time": 1727396599,
+      "rank": 13,
+      "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 334511,
+      "num": 334511,
+      "word": "躺式午睡的中小学生有多幸福",
+      "onboard_time": 1727369415,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 326956,
+      "num": 326956,
+      "word": "朴彩英签约大西洋唱片",
+      "onboard_time": 1727396778,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 318233,
+      "num": 226086,
+      "word": "2岁娃睡不好被奶奶喂符水致铅中毒",
+      "onboard_time": 1727370615,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -163,19 +275,27 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 275872,
-      "num": 143157,
-      "word": "2岁娃睡不好被奶奶喂符水致铅中毒",
-      "onboard_time": 1727370615,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 269779,
       "num": 292487,
       "word": "官方通报学生家长校门口跪地",
       "onboard_time": 1727361801,
       "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 248292,
+      "num": 248292,
+      "word": "杨紫微博开屏",
+      "onboard_time": 1727395098,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 237547,
+      "num": 237547,
+      "word": "牛肉价格降至5年来最低",
+      "onboard_time": 1727360302,
+      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -203,12 +323,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 227818,
-      "num": 227818,
-      "word": "躺式午睡的中小学生有多幸福",
-      "onboard_time": 1727369415,
-      "rank": 43,
-      "category": "社会新闻"
+      "raw_hot": 218630,
+      "num": 218630,
+      "word": "Jennie厂牌",
+      "onboard_time": 1727400440,
+      "rank": 24,
+      "category": "音乐"
     },
     {
       "raw_hot": 209526,
@@ -219,20 +339,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 195005,
-      "num": 195005,
-      "word": "牛肉价格降至5年来最低",
-      "onboard_time": 1727360302,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 193678,
       "num": 208471,
       "word": "王源易烊千玺包场749局",
       "onboard_time": 1727363240,
       "rank": 23,
       "category": "电影"
+    },
+    {
+      "raw_hot": 183581,
+      "num": 389442,
+      "word": "巴勒斯坦总统连说3遍不会离开家园",
+      "onboard_time": 1727399599,
+      "rank": 8,
+      "category": "国外时政"
     },
     {
       "raw_hot": 183054,
@@ -249,6 +369,14 @@
       "onboard_time": 1727363840,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 174147,
+      "num": 171382,
+      "word": "阮佳 黑神话",
+      "onboard_time": 1727400322,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 166957,
@@ -283,12 +411,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 154027,
+      "num": 154027,
+      "word": "大熊猫萌兰再次受伤",
+      "onboard_time": 1727400920,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 152690,
       "num": 186161,
       "word": "Capper周震南啃苹果官宣演唱会",
       "onboard_time": 1727367857,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 143777,
+      "num": 143777,
+      "word": "央行连发2条消息",
+      "onboard_time": 1727398699,
+      "rank": 35,
+      "category": "财经"
     },
     {
       "raw_hot": 143649,
@@ -323,6 +467,30 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 133393,
+      "num": 133393,
+      "word": "江苏现1.5万亩巨型眼影盘",
+      "onboard_time": 1727394318,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 130224,
+      "num": 130224,
+      "word": "哪怕剩一颗牙也要刷",
+      "onboard_time": 1727399240,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 128747,
+      "num": 128747,
+      "word": "金牛座是最反差的",
+      "onboard_time": 1727396299,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 125236,
       "num": 146725,
       "word": "聂远 华坪女高的故事还在继续",
@@ -331,12 +499,44 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 121767,
+      "num": 121767,
+      "word": "翁青雅彭高一起上班",
+      "onboard_time": 1727397319,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 119005,
+      "num": 119005,
+      "word": "央企保利打响买房保价第一枪",
+      "onboard_time": 1727396299,
+      "rank": 43,
+      "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 118739,
+      "num": 118739,
+      "word": "南京打雷",
+      "onboard_time": 1727396778,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 114847,
       "num": 114847,
       "word": "成龙回复全妹了",
       "onboard_time": 1727352799,
       "rank": 28,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 114433,
+      "num": 114433,
+      "word": "中信证券深夜发文一个字干",
+      "onboard_time": 1727399479,
+      "rank": 45,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 110836,
@@ -369,6 +569,14 @@
       "onboard_time": 1727337019,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 107122,
+      "num": 107122,
+      "word": "1万多平米的树林其实只有1棵树",
+      "onboard_time": 1727377750,
+      "rank": 47,
+      "category": "旅游"
     },
     {
       "raw_hot": 103999,
@@ -411,6 +619,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 91057,
+      "num": 91057,
+      "word": "降准",
+      "onboard_time": 1727398578,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 90150,
+      "num": 90150,
+      "word": "预制朋友圈成社交焦虑下的无奈选择",
+      "onboard_time": 1727401039,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 85772,
       "num": 100408,
       "word": "WMA回应单依纯口误",
@@ -443,14 +667,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 78051,
-      "num": 78051,
-      "word": "1万多平米的树林其实只有1棵树",
-      "onboard_time": 1727377750,
-      "rank": 47,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 75369,
       "num": 82202,
       "word": "世界避孕日",
@@ -465,6 +681,14 @@
       "onboard_time": 1727361862,
       "rank": 45,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 73701,
+      "num": 385297,
+      "word": "央行降低7天期逆回购操作利率",
+      "onboard_time": 1727399240,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 72250,
@@ -608,6 +832,14 @@
       "word": "医院设特需门诊专治数理化不好",
       "onboard_time": 1727386511,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 22311,
+      "num": 580671,
+      "word": "中国红是国庆最美主色调",
+      "onboard_time": 1727356880,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
