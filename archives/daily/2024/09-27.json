@@ -1,6 +1,6 @@
 {
   "startTime": 1727368091089,
-  "endTime": 1727436003228,
+  "endTime": 1727436928650,
   "band_list": [
     {
       "raw_hot": 4551944,
@@ -107,6 +107,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 1189066,
+      "num": 1190250,
+      "word": "奶茶店称因电费差价要多做一千杯",
+      "onboard_time": 1727433798,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1179903,
       "num": 790027,
       "word": "兵哥哥执勤时被宝妈塞了一个娃",
@@ -171,6 +179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 906906,
+      "num": 339029,
+      "word": "王玉雯发文回应探班",
+      "onboard_time": 1727433439,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 847404,
       "num": 515449,
       "word": "名媛培训班 就业率",
@@ -219,6 +235,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 722068,
+      "num": 722068,
+      "word": "宋佳向华坪县捐赠100万",
+      "onboard_time": 1727435179,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 715340,
       "num": 715340,
       "word": "王玉雯探班王子奇",
@@ -259,20 +283,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 641858,
-      "num": 339029,
-      "word": "王玉雯发文回应探班",
-      "onboard_time": 1727433439,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 625834,
       "num": 625834,
       "word": "打假博主大娃回应东北雨姐",
       "onboard_time": 1727370494,
       "rank": 28,
       "category": "网红"
+    },
+    {
+      "raw_hot": 603076,
+      "num": 603076,
+      "word": "上交所道歉",
+      "onboard_time": 1727434100,
+      "rank": 4,
+      "category": "财经"
     },
     {
       "raw_hot": 601371,
@@ -304,14 +328,6 @@
       "word": "体罚女孩致死教育机构拒绝家长探望",
       "onboard_time": 1727429659,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 579801,
-      "num": 1092768,
-      "word": "奶茶店称因电费差价要多做一千杯",
-      "onboard_time": 1727433798,
-      "rank": 0,
       "category": "社会新闻"
     },
     {
@@ -387,28 +403,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 484700,
-      "num": 484700,
-      "word": "宋佳向华坪县捐赠100万",
-      "onboard_time": 1727435179,
-      "rank": 3,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 480792,
       "num": 480792,
       "word": "以色列被禁止以国家名义参加国际竞赛",
       "onboard_time": 1727357481,
       "rank": 4,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 478152,
-      "num": 478152,
-      "word": "上交所道歉",
-      "onboard_time": 1727434100,
-      "rank": 4,
-      "category": "财经"
     },
     {
       "raw_hot": 477942,
@@ -611,6 +611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 347082,
+      "num": 347082,
+      "word": "中国最没存在感的省会",
+      "onboard_time": 1727427199,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 346854,
       "num": 410480,
       "word": "Jennie厂牌",
@@ -699,14 +707,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 316778,
-      "num": 310862,
-      "word": "中国最没存在感的省会",
-      "onboard_time": 1727427199,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 312130,
       "num": 312130,
       "word": "女网红疑坠楼身亡附近商户发声",
@@ -764,7 +764,7 @@
     },
     {
       "raw_hot": 295056,
-      "num": 295056,
+      "num": 298294,
       "word": "浙江IP到底有多幸福",
       "onboard_time": 1727434100,
       "rank": 17,
@@ -1147,6 +1147,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 208928,
+      "num": 151737,
+      "word": "王玉雯否认在王子奇车上待了很久",
+      "onboard_time": 1727436559,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 207296,
+      "num": 207296,
+      "word": "日薪800的健身教练一天扛1吨夏威夷果",
+      "onboard_time": 1727436258,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 207237,
       "num": 207237,
       "word": "CP30 没开票",
@@ -1241,6 +1257,14 @@
       "onboard_time": 1727428698,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 194223,
+      "num": 356295,
+      "word": "全国已有25个省份延长婚假",
+      "onboard_time": 1727433259,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 193678,
@@ -1403,6 +1427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 174889,
+      "num": 207481,
+      "word": "莫文蔚分享这世界那么多人舞台",
+      "onboard_time": 1727435539,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 174407,
       "num": 174407,
       "word": "车位被占男子竟把对方车砸了",
@@ -1491,14 +1523,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 164744,
-      "num": 160001,
-      "word": "莫文蔚分享这世界那么多人舞台",
-      "onboard_time": 1727435539,
-      "rank": 30,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 164711,
       "num": 164711,
       "word": "创业板指创历史最大单日涨幅",
@@ -1580,7 +1604,7 @@
     },
     {
       "raw_hot": 160136,
-      "num": 160136,
+      "num": 188019,
       "word": "王俊凯平地摔出来的经验",
       "onboard_time": 1727433920,
       "rank": 29,
@@ -1665,6 +1689,22 @@
       "onboard_time": 1727367857,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 152205,
+      "num": 152205,
+      "word": "镇魂街4动画定档",
+      "onboard_time": 1727436857,
+      "rank": 27,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 151731,
+      "num": 151731,
+      "word": "淘宝回应部分用户不能用微信支付",
+      "onboard_time": 1727433798,
+      "rank": 40,
+      "category": "互联网"
     },
     {
       "raw_hot": 151615,
@@ -1859,20 +1899,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 127095,
+      "num": 127095,
+      "word": "女子钥匙放车里多次凌晨被开走",
+      "onboard_time": 1727436018,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 125236,
       "num": 146725,
       "word": "聂远 华坪女高的故事还在继续",
       "onboard_time": 1727369774,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 124695,
-      "num": 124695,
-      "word": "淘宝回应部分用户不能用微信支付",
-      "onboard_time": 1727433798,
-      "rank": 40,
-      "category": "互联网"
     },
     {
       "raw_hot": 124549,
@@ -1889,14 +1929,6 @@
       "onboard_time": 1727427619,
       "rank": 47,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 124188,
-      "num": 356295,
-      "word": "全国已有25个省份延长婚假",
-      "onboard_time": 1727433259,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 123790,
@@ -1947,6 +1979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 118187,
+      "num": 118187,
+      "word": "许佳琪魏哲鸣吻戏",
+      "onboard_time": 1727436140,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 115848,
       "num": 248936,
       "word": "陈楚生谈再回披荆斩棘",
@@ -1977,6 +2017,14 @@
       "onboard_time": 1727432359,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 112616,
+      "num": 112616,
+      "word": "中信期货席位今日亏超66亿",
+      "onboard_time": 1727436680,
+      "rank": 45,
+      "category": "财经"
     },
     {
       "raw_hot": 110836,
@@ -2049,6 +2097,14 @@
       "onboard_time": 1727402539,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 96866,
+      "num": 96866,
+      "word": "国乒主力轮流训练",
+      "onboard_time": 1727436857,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 95122,
@@ -2523,6 +2579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 37477,
+      "num": 274042,
+      "word": "男子轻信出国高薪务工被骗1.9万",
+      "onboard_time": 1727435118,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 36132,
       "num": 41714,
       "word": "邓为费加罗钻石封面预告",
@@ -2537,6 +2601,14 @@
       "onboard_time": 1727423959,
       "rank": 35,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 35268,
+      "num": 277623,
+      "word": "历历万乡唱给每一位在外拼搏的人",
+      "onboard_time": 1727435719,
+      "rank": 18,
+      "category": "综艺,音乐"
     },
     {
       "raw_hot": 35038,
@@ -2560,14 +2632,6 @@
       "word": "高中生用英语配音西游记经典片段",
       "onboard_time": 1727385672,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 33618,
-      "num": 274042,
-      "word": "男子轻信出国高薪务工被骗1.9万",
-      "onboard_time": 1727435118,
-      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -2667,6 +2731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 27985,
+      "num": 317957,
+      "word": "券商鼓励员工尽量别提前请国庆休假",
+      "onboard_time": 1727435539,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 27789,
       "num": 45583,
       "word": "檀健次迈阿密vlog",
@@ -2715,28 +2787,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 24936,
-      "num": 277623,
-      "word": "历历万乡唱给每一位在外拼搏的人",
-      "onboard_time": 1727435719,
-      "rank": 18,
-      "category": "综艺,音乐"
-    },
-    {
       "raw_hot": 24674,
       "num": 244768,
       "word": "韦礼安徐海乔 安和乔",
       "onboard_time": 1727432419,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 24239,
-      "num": 317957,
-      "word": "券商鼓励员工尽量别提前请国庆休假",
-      "onboard_time": 1727435539,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 23959,
@@ -2756,7 +2812,7 @@
     },
     {
       "raw_hot": 23415,
-      "num": 589615,
+      "num": 613017,
       "word": "天山南北唱新歌",
       "onboard_time": 1727348779,
       "rank": 2,
@@ -2793,6 +2849,14 @@
       "onboard_time": 1727418979,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 19532,
+      "num": 151737,
+      "word": "张之臻VS弗基纳",
+      "onboard_time": 1727436319,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 19440,
