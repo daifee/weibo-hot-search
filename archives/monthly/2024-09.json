@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1727429867295,
+  "endTime": 1727432642932,
   "band_list": [
     {
       "raw_hot": 28035334,
@@ -1801,6 +1801,14 @@
       "onboard_time": 1726052001,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1815317,
+      "num": 1815317,
+      "word": "女网红张悦疑坠楼男友已被拘留",
+      "onboard_time": 1727430258,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1809806,
@@ -9163,6 +9171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 795460,
+      "num": 308356,
+      "word": "男子破产后捅妻子8刀获刑9个月",
+      "onboard_time": 1727429419,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 794343,
       "num": 294261,
       "word": "黄轩方否认家暴",
@@ -9440,6 +9456,14 @@
       "word": "中学被指不订奶要提供过敏证明",
       "onboard_time": 1726241481,
       "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 770520,
+      "num": 321302,
+      "word": "4男子当街骚扰女生",
+      "onboard_time": 1727427437,
+      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -11993,14 +12017,6 @@
       "onboard_time": 1725367700,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 639934,
-      "num": 321302,
-      "word": "4男子当街骚扰女生",
-      "onboard_time": 1727427437,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 638746,
@@ -17931,6 +17947,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 439684,
+      "num": 169230,
+      "word": "海清版张桂梅",
+      "onboard_time": 1727430618,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 439497,
       "num": 439497,
       "word": "关晓彤来我们学校拍戏了",
@@ -20531,6 +20555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 373303,
+      "num": 373303,
+      "word": "CP30",
+      "onboard_time": 1727345238,
+      "rank": 23,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 373083,
       "num": 373083,
       "word": "上海月租2000元的房子",
@@ -21585,6 +21617,14 @@
       "onboard_time": 1727243000,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 351696,
+      "num": 259888,
+      "word": "杨幂巴黎雨中漫步",
+      "onboard_time": 1727430320,
+      "rank": 15,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 351359,
@@ -31363,6 +31403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 233124,
+      "num": 233124,
+      "word": "何同学说管理团队比百万播放还难",
+      "onboard_time": 1727431220,
+      "rank": 25,
+      "category": "数码,网红"
+    },
+    {
       "raw_hot": 233048,
       "num": 312917,
       "word": "赵露思公主裙配球鞋",
@@ -36819,6 +36867,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 202892,
+      "num": 234485,
+      "word": "石凯希望张艺兴周深能不收他版权费",
+      "onboard_time": 1727431638,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 202854,
       "num": 202854,
       "word": "樊振东学会享受孤独学会和自己和解",
@@ -37001,6 +37057,14 @@
       "onboard_time": 1725453862,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 202138,
+      "num": 282274,
+      "word": "体罚女孩致死教育机构拒绝家长探望",
+      "onboard_time": 1727429659,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 202114,
@@ -39811,6 +39875,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 193653,
+      "num": 193653,
+      "word": "CP30 没开票",
+      "onboard_time": 1727432299,
+      "rank": 32,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 193629,
       "num": 193629,
       "word": "RedVelvet雨中唱跳",
@@ -41315,6 +41387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 188519,
+      "num": 182152,
+      "word": "cpp崩了",
+      "onboard_time": 1727432359,
+      "rank": 34,
+      "category": "动漫,作品衍生"
+    },
+    {
       "raw_hot": 188494,
       "num": 188494,
       "word": "黑神话Steam每日售出超40万份",
@@ -42435,6 +42515,14 @@
       "category": "音乐,艺人"
     },
     {
+      "raw_hot": 185110,
+      "num": 185110,
+      "word": "汪苏泷回应叫王源宝宝",
+      "onboard_time": 1727431580,
+      "rank": 33,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 185100,
       "num": 185100,
       "word": "台风珊珊已致日本6死128伤",
@@ -43529,14 +43617,6 @@
       "onboard_time": 1725258501,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 181260,
-      "num": 181260,
-      "word": "CP30",
-      "onboard_time": 1727345238,
-      "rank": 23,
-      "category": "动漫"
     },
     {
       "raw_hot": 181249,
@@ -45235,6 +45315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 175390,
+      "num": 175390,
+      "word": "原来被骂扁是真的存在的",
+      "onboard_time": 1727428398,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 175381,
       "num": 175381,
       "word": "超燃卡点视频重温九三阅兵",
@@ -46241,14 +46329,6 @@
       "onboard_time": 1726961597,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 172385,
-      "num": 172385,
-      "word": "原来被骂扁是真的存在的",
-      "onboard_time": 1727428398,
-      "rank": 43,
-      "category": "幽默"
     },
     {
       "raw_hot": 172374,
@@ -49475,6 +49555,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 161513,
+      "num": 161513,
+      "word": "时代少年团欢乐小剧场",
+      "onboard_time": 1727432540,
+      "rank": 39,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 161402,
       "num": 161402,
       "word": "弈星炽弈燎原皮肤",
@@ -51091,6 +51179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 155983,
+      "num": 155983,
+      "word": "黄景瑜今年是一点没闲着",
+      "onboard_time": 1727430858,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 155976,
       "num": 155976,
       "word": "南派三叔在藏海花玩上抽象了",
@@ -51265,6 +51361,14 @@
       "onboard_time": 1726822579,
       "rank": 42,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 155559,
+      "num": 155559,
+      "word": "王楚钦梁靖崑WTT男双",
+      "onboard_time": 1727431580,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 155495,
@@ -61187,6 +61291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 121428,
+      "num": 121428,
+      "word": "孙颖莎王艺迪WTT女双",
+      "onboard_time": 1727431939,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 121407,
       "num": 121407,
       "word": "柏浪涛 考前聚焦",
@@ -61721,6 +61833,14 @@
       "onboard_time": 1725638840,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 119240,
+      "num": 119240,
+      "word": "109款国产网络游戏获批",
+      "onboard_time": 1727431939,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 119219,
@@ -70339,14 +70459,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 58303,
-      "num": 282274,
-      "word": "体罚女孩致死教育机构拒绝家长探望",
-      "onboard_time": 1727429659,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 58221,
       "num": 422264,
       "word": "贾玲说李现是秀场里最帅的",
@@ -70553,6 +70665,14 @@
       "onboard_time": 1727076679,
       "rank": 29,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 57436,
+      "num": 282013,
+      "word": "你好种地少年2开播",
+      "onboard_time": 1727427799,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 57432,
@@ -71913,14 +72033,6 @@
       "onboard_time": 1726745062,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 50596,
-      "num": 282013,
-      "word": "你好种地少年2开播",
-      "onboard_time": 1727427799,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 50583,
@@ -76675,6 +76787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 32809,
+      "num": 178983,
+      "word": "以军首次轰炸黎巴嫩医院",
+      "onboard_time": 1727430798,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 32782,
       "num": 409061,
       "word": "抗美援朝战地记者张崇岫逝世",
@@ -77544,6 +77664,14 @@
       "word": "滞销书编辑决定放弃谈理想主义",
       "onboard_time": 1726111941,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 29866,
+      "num": 315346,
+      "word": "骗子潜伏家长群冒充班主任诈骗",
+      "onboard_time": 1727431638,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -78611,6 +78739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 26693,
+      "num": 215773,
+      "word": "范志毅评价鹿晗是足球界颜值担当",
+      "onboard_time": 1727429479,
+      "rank": 38,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 26664,
       "num": 32591,
       "word": "SM开辟周边新赛道",
@@ -78721,6 +78857,14 @@
       "onboard_time": 1725629240,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 26168,
+      "num": 243704,
+      "word": "当越来越多的老人开始照顾老人",
+      "onboard_time": 1727431220,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 26109,
@@ -79057,6 +79201,14 @@
       "onboard_time": 1725473832,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 24674,
+      "num": 244768,
+      "word": "韦礼安徐海乔 安和乔",
+      "onboard_time": 1727432419,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 24638,
@@ -79739,6 +79891,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 22314,
+      "num": 270242,
+      "word": "盘点巴黎时装周状态最佳",
+      "onboard_time": 1727431220,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 22309,
       "num": 808048,
       "word": "我们这样践行嘱托",
@@ -79969,14 +80129,6 @@
       "onboard_time": 1727187021,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 21055,
-      "num": 165018,
-      "word": "范志毅评价鹿晗是足球界颜值担当",
-      "onboard_time": 1727429479,
-      "rank": 38,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 20976,
