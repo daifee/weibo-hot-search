@@ -1,6 +1,6 @@
 {
   "startTime": 1726936020707,
-  "endTime": 1727401304274,
+  "endTime": 1727402344759,
   "band_list": [
     {
       "raw_hot": 12357374,
@@ -19,20 +19,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 4551944,
+      "num": 4551944,
+      "word": "贾玲不再担任大碗娱乐职务",
+      "onboard_time": 1727398761,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 4498953,
       "num": 4498953,
       "word": "合肥肥东3.8级地震",
       "onboard_time": 1727264422,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 4183427,
-      "num": 4183427,
-      "word": "贾玲不再担任大碗娱乐职务",
-      "onboard_time": 1727398761,
-      "rank": 0,
-      "category": "艺人"
     },
     {
       "raw_hot": 4119718,
@@ -196,7 +196,7 @@
     },
     {
       "raw_hot": 2177230,
-      "num": 573370,
+      "num": 625418,
       "word": "大碗娱乐所有艺人合约到期不续",
       "onboard_time": 1727399419,
       "rank": 3,
@@ -2484,7 +2484,7 @@
     },
     {
       "raw_hot": 593955,
-      "num": 479154,
+      "num": 489008,
       "word": "张小斐与大碗娱乐合约到期",
       "onboard_time": 1727399359,
       "rank": 6,
@@ -2579,6 +2579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 575065,
+      "num": 575065,
+      "word": "A股",
+      "onboard_time": 1727058979,
+      "rank": 49,
+      "category": "财经"
+    },
+    {
       "raw_hot": 575021,
       "num": 575021,
       "word": "两母亲吵架一女子抄起玩具砸向孩子",
@@ -2609,6 +2617,14 @@
       "onboard_time": 1727229919,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 571822,
+      "num": 571822,
+      "word": "巴总统问以色列谁杀了1.5万名儿童",
+      "onboard_time": 1727399479,
+      "rank": 5,
+      "category": "国外时政"
     },
     {
       "raw_hot": 570530,
@@ -2931,14 +2947,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 503177,
-      "num": 503177,
-      "word": "巴总统问以色列谁杀了1.5万名儿童",
-      "onboard_time": 1727399479,
-      "rank": 5,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 502449,
       "num": 284441,
       "word": "王俊凯晒长寿面",
@@ -2961,14 +2969,6 @@
       "onboard_time": 1727312119,
       "rank": 11,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 495938,
-      "num": 495938,
-      "word": "A股",
-      "onboard_time": 1727058979,
-      "rank": 49,
-      "category": "财经"
     },
     {
       "raw_hot": 494979,
@@ -3097,6 +3097,14 @@
       "onboard_time": 1727267659,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 478908,
+      "num": 306436,
+      "word": "王皓说王楚钦是承上启下",
+      "onboard_time": 1727401399,
+      "rank": 10,
+      "category": "体育"
     },
     {
       "raw_hot": 478561,
@@ -3484,7 +3492,7 @@
     },
     {
       "raw_hot": 429221,
-      "num": 171690,
+      "num": 186518,
       "word": "河南师大偷女生内裤的男生已找到",
       "onboard_time": 1727396299,
       "rank": 30,
@@ -4331,6 +4339,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 346854,
+      "num": 303813,
+      "word": "Jennie厂牌",
+      "onboard_time": 1727400440,
+      "rank": 24,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 346771,
       "num": 460856,
       "word": "印小天扫楼把电视砸了",
@@ -4875,6 +4891,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 301229,
+      "num": 301229,
+      "word": "大熊猫萌兰再次受伤",
+      "onboard_time": 1727400920,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 300768,
       "num": 300768,
       "word": "25岁72岁62岁三人CT片几乎一样",
@@ -5225,6 +5249,14 @@
       "onboard_time": 1727171779,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 275677,
+      "num": 389442,
+      "word": "巴勒斯坦总统连说3遍不会离开家园",
+      "onboard_time": 1727399599,
+      "rank": 8,
+      "category": "国外时政"
     },
     {
       "raw_hot": 275203,
@@ -6307,6 +6339,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 226838,
+      "num": 226838,
+      "word": "阮佳 黑神话",
+      "onboard_time": 1727400322,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 226543,
       "num": 226543,
       "word": "银行将持续降低月供族的房贷成本",
@@ -6529,14 +6569,6 @@
       "onboard_time": 1727360603,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 218630,
-      "num": 218630,
-      "word": "Jennie厂牌",
-      "onboard_time": 1727400440,
-      "rank": 24,
-      "category": "音乐"
     },
     {
       "raw_hot": 218482,
@@ -8371,6 +8403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 186496,
+      "num": 186496,
+      "word": "丫丫从筐里掏出小苹果",
+      "onboard_time": 1727401579,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 186294,
       "num": 186294,
       "word": "容易内耗的人都有一个共性",
@@ -8521,14 +8561,6 @@
       "onboard_time": 1726960155,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 183581,
-      "num": 389442,
-      "word": "巴勒斯坦总统连说3遍不会离开家园",
-      "onboard_time": 1727399599,
-      "rank": 8,
-      "category": "国外时政"
     },
     {
       "raw_hot": 183425,
@@ -9041,14 +9073,6 @@
       "onboard_time": 1727251459,
       "rank": 33,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 174147,
-      "num": 171382,
-      "word": "阮佳 黑神话",
-      "onboard_time": 1727400322,
-      "rank": 31,
-      "category": "游戏"
     },
     {
       "raw_hot": 173854,
@@ -10137,14 +10161,6 @@
       "onboard_time": 1727097380,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 154027,
-      "num": 154027,
-      "word": "大熊猫萌兰再次受伤",
-      "onboard_time": 1727400920,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 153860,
@@ -11323,6 +11339,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 135862,
+      "num": 135862,
+      "word": "哪怕剩一颗牙也要刷",
+      "onboard_time": 1727399240,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 135576,
       "num": 229886,
       "word": "虞书欣一句话给翟潇闻整红温了",
@@ -11699,20 +11723,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 130289,
+      "num": 186764,
+      "word": "Jennie将回归",
+      "onboard_time": 1727401821,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 130238,
       "num": 130238,
       "word": "智己发布会",
       "onboard_time": 1727356040,
       "rank": 44,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 130224,
-      "num": 130224,
-      "word": "哪怕剩一颗牙也要刷",
-      "onboard_time": 1727399240,
-      "rank": 38,
-      "category": "情感"
     },
     {
       "raw_hot": 130048,
@@ -13083,6 +13107,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 101026,
+      "num": 101026,
+      "word": "车位被占男子竟把对方车砸了",
+      "onboard_time": 1727402120,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 100759,
       "num": 100759,
       "word": "我国万吨列车实现新突破",
@@ -13137,6 +13169,14 @@
       "onboard_time": 1726984220,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 97514,
+      "num": 97514,
+      "word": "阿尔瓦雷斯绝杀",
+      "onboard_time": 1727401460,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 96838,
@@ -16339,6 +16379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 24716,
+      "num": 636438,
+      "word": "中国红是国庆最美主色调",
+      "onboard_time": 1727356880,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 24469,
       "num": 288751,
       "word": "业内称客房装摄像头涉及背后灰产",
@@ -16449,14 +16497,6 @@
       "onboard_time": 1727071290,
       "rank": 12,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 22311,
-      "num": 580671,
-      "word": "中国红是国庆最美主色调",
-      "onboard_time": 1727356880,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 22309,
