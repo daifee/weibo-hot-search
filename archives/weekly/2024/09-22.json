@@ -1,6 +1,6 @@
 {
   "startTime": 1726936020707,
-  "endTime": 1727450548882,
+  "endTime": 1727451479470,
   "band_list": [
     {
       "raw_hot": 12357374,
@@ -1393,6 +1393,14 @@
       "onboard_time": 1727061679,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 947676,
+      "num": 947676,
+      "word": "以总理被迫雨中与人握手",
+      "onboard_time": 1727449341,
+      "rank": 8,
+      "category": "国外时政"
     },
     {
       "raw_hot": 947446,
@@ -5259,6 +5267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 321032,
+      "num": 422410,
+      "word": "闵熙珍晒HANNI聊天记录",
+      "onboard_time": 1727445741,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 318490,
       "num": 341215,
       "word": "半熟男女 女主人设",
@@ -5723,6 +5739,14 @@
       "category": "音乐,体育"
     },
     {
+      "raw_hot": 288675,
+      "num": 288675,
+      "word": "汪苏泷演唱会DJ是王鹤棣",
+      "onboard_time": 1727450359,
+      "rank": 29,
+      "category": "演出"
+    },
+    {
       "raw_hot": 288658,
       "num": 490744,
       "word": "黑色月光定档",
@@ -6001,6 +6025,14 @@
       "onboard_time": 1727399599,
       "rank": 8,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 275493,
+      "num": 331229,
+      "word": "你婚后愿意和老人住在一起吗",
+      "onboard_time": 1727448740,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 275203,
@@ -6297,14 +6329,6 @@
       "onboard_time": 1727060298,
       "rank": 42,
       "category": "电影"
-    },
-    {
-      "raw_hot": 263819,
-      "num": 422410,
-      "word": "闵熙珍晒HANNI聊天记录",
-      "onboard_time": 1727445741,
-      "rank": 18,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 263635,
@@ -7651,6 +7675,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 216123,
+      "num": 216123,
+      "word": "斯内普",
+      "onboard_time": 1727449821,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 216122,
       "num": 569712,
       "word": "炉石传说",
@@ -7809,14 +7841,6 @@
       "onboard_time": 1726991599,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 211939,
-      "num": 388132,
-      "word": "以总理被迫雨中与人握手",
-      "onboard_time": 1727449341,
-      "rank": 8,
-      "category": "国外时政"
     },
     {
       "raw_hot": 211928,
@@ -8065,6 +8089,14 @@
       "onboard_time": 1727323278,
       "rank": 33,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 206536,
+      "num": 206536,
+      "word": "NewJeans新歌demo",
+      "onboard_time": 1727451080,
+      "rank": 23,
+      "category": "音乐"
     },
     {
       "raw_hot": 206358,
@@ -9387,14 +9419,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 189974,
-      "num": 189974,
-      "word": "你婚后愿意和老人住在一起吗",
-      "onboard_time": 1727448740,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 189950,
       "num": 189950,
       "word": "冠军搭档联手开课啦",
@@ -9553,14 +9577,6 @@
       "onboard_time": 1726982721,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 188278,
-      "num": 188278,
-      "word": "斯内普",
-      "onboard_time": 1727449821,
-      "rank": 27,
-      "category": "电影"
     },
     {
       "raw_hot": 188197,
@@ -9737,14 +9753,6 @@
       "onboard_time": 1727237240,
       "rank": 48,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 185626,
-      "num": 185626,
-      "word": "汪苏泷演唱会DJ是王鹤棣",
-      "onboard_time": 1727450359,
-      "rank": 29,
-      "category": "演出"
     },
     {
       "raw_hot": 185527,
@@ -11585,6 +11593,14 @@
       "onboard_time": 1727447541,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 157702,
+      "num": 157702,
+      "word": "直播间赌石被骗还以为是运气不好",
+      "onboard_time": 1727448260,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 157678,
@@ -13939,14 +13955,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 124556,
-      "num": 124556,
-      "word": "直播间赌石被骗还以为是运气不好",
-      "onboard_time": 1727448260,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 124549,
       "num": 124549,
       "word": "团伙锁定服务行业人员进行隔空盗刷",
@@ -14081,6 +14089,14 @@
       "onboard_time": 1727055439,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 122690,
+      "num": 122690,
+      "word": "任嘉伦歌词两年后等来了回旋镖",
+      "onboard_time": 1727450419,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 122264,
@@ -14513,14 +14529,6 @@
       "onboard_time": 1727073559,
       "rank": 46,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 115753,
-      "num": 115753,
-      "word": "任嘉伦歌词两年后等来了回旋镖",
-      "onboard_time": 1727450419,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 115586,
@@ -14985,6 +14993,14 @@
       "onboard_time": 1727059337,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 105254,
+      "num": 105254,
+      "word": "存款利率或将再次下调",
+      "onboard_time": 1727451260,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 104987,
@@ -16731,6 +16747,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 56223,
+      "num": 373727,
+      "word": "江苏昆山部分学校发放发霉面包",
+      "onboard_time": 1727449520,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 56108,
       "num": 404781,
       "word": "货车司机称走1公里被收22元通行费",
@@ -17923,14 +17947,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 37481,
-      "num": 373727,
-      "word": "江苏昆山部分学校发放发霉面包",
-      "onboard_time": 1727449520,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 37477,
       "num": 274042,
       "word": "男子轻信出国高薪务工被骗1.9万",
@@ -18164,7 +18180,7 @@
     },
     {
       "raw_hot": 34431,
-      "num": 781145,
+      "num": 934204,
       "word": "352个集体368名个人受到表彰",
       "onboard_time": 1727444301,
       "rank": 2,
@@ -18491,6 +18507,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 29401,
+      "num": 337835,
+      "word": "专家称网售泰国洞燕多是走私或假冒",
+      "onboard_time": 1727449461,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 29388,
       "num": 266521,
       "word": "迪丽热巴街拍穿小棉袄",
@@ -18680,14 +18704,6 @@
       "word": "乘客晕车应该怪司机吗",
       "onboard_time": 1727103980,
       "rank": 23,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 27738,
-      "num": 337835,
-      "word": "专家称网售泰国洞燕多是走私或假冒",
-      "onboard_time": 1727449461,
-      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -19080,6 +19096,14 @@
       "word": "我们这样践行嘱托",
       "onboard_time": 1727339840,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 22280,
+      "num": 334771,
+      "word": "三无燕窝亚硝酸盐最高超标上百倍",
+      "onboard_time": 1727450959,
+      "rank": 8,
       "category": "社会新闻"
     },
     {

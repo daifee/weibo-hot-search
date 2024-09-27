@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/09/01 00:25:38 ~ 2024/09/27 23:22:28
+本榜单时间：2024/09/01 00:25:38 ~ 2024/09/27 23:37:59
 </p>
 </blockquote>
 <p>
@@ -5289,6 +5289,12 @@ WTT（热度：971085）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BB%A5%E6%80%BB%E7%90%86%E8%A2%AB%E8%BF%AB%E9%9B%A8%E4%B8%AD%E4%B8%8E%E4%BA%BA%E6%8F%A1%E6%89%8B%23" target="weibo">
+以总理被迫雨中与人握手（热度：947676）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E9%B9%A4%E9%BE%99%20%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%A6%86%E9%80%A0%23" target="weibo">
 金鹤龙 迪丽热巴妆造（热度：947446）
 </a>
@@ -6005,12 +6011,6 @@ iPhone16史上最容易维修iPhone（热度：900387）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B2%99%E7%89%B9%E5%8F%8D%E8%B6%85%23" target="weibo">
 沙特反超（热度：879032）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8A%B1%E5%9B%9B%E4%B8%87%E9%9A%86%E7%9A%84%E9%BC%BB%E5%AD%90%E5%A7%91%E5%A8%98%E4%B8%8D%E6%BB%A1%E5%A4%AA%E8%87%AA%E7%84%B6%23" target="weibo">
-花四万隆的鼻子姑娘不满太自然（热度：878186）
 </a>
 </li>
 
