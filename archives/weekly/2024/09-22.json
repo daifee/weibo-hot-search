@@ -1,6 +1,6 @@
 {
   "startTime": 1726936020707,
-  "endTime": 1727451479470,
+  "endTime": 1727454453610,
   "band_list": [
     {
       "raw_hot": 12357374,
@@ -2747,6 +2747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 606104,
+      "num": 606104,
+      "word": "你婚后愿意和老人住在一起吗",
+      "onboard_time": 1727448740,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 605911,
       "num": 605911,
       "word": "赵丽颖你知道人是会遭报应的吗",
@@ -4075,6 +4083,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 415940,
+      "num": 415940,
+      "word": "斯内普",
+      "onboard_time": 1727449821,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 415849,
       "num": 261360,
       "word": "迪丽热巴少来烦姐挂件",
@@ -5307,6 +5323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 318134,
+      "num": 318134,
+      "word": "张淇 破音",
+      "onboard_time": 1727452578,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 317914,
       "num": 317914,
       "word": "THEBOYZ不续约",
@@ -5441,6 +5465,14 @@
       "onboard_time": 1727344819,
       "rank": 21,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 308166,
+      "num": 308166,
+      "word": "汪苏泷演唱会DJ是王鹤棣",
+      "onboard_time": 1727450359,
+      "rank": 29,
+      "category": "演出"
     },
     {
       "raw_hot": 307494,
@@ -5611,6 +5643,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 296441,
+      "num": 235437,
+      "word": "NewJeans新歌demo",
+      "onboard_time": 1727451080,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 295308,
       "num": 263690,
       "word": "丫丫从筐里掏出小苹果",
@@ -5737,14 +5777,6 @@
       "onboard_time": 1727014705,
       "rank": 47,
       "category": "音乐,体育"
-    },
-    {
-      "raw_hot": 288675,
-      "num": 288675,
-      "word": "汪苏泷演唱会DJ是王鹤棣",
-      "onboard_time": 1727450359,
-      "rank": 29,
-      "category": "演出"
     },
     {
       "raw_hot": 288658,
@@ -6025,14 +6057,6 @@
       "onboard_time": 1727399599,
       "rank": 8,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 275493,
-      "num": 331229,
-      "word": "你婚后愿意和老人住在一起吗",
-      "onboard_time": 1727448740,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 275203,
@@ -7675,14 +7699,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 216123,
-      "num": 216123,
-      "word": "斯内普",
-      "onboard_time": 1727449821,
-      "rank": 27,
-      "category": "电影"
-    },
-    {
       "raw_hot": 216122,
       "num": 569712,
       "word": "炉石传说",
@@ -8089,14 +8105,6 @@
       "onboard_time": 1727323278,
       "rank": 33,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 206536,
-      "num": 206536,
-      "word": "NewJeans新歌demo",
-      "onboard_time": 1727451080,
-      "rank": 23,
-      "category": "音乐"
     },
     {
       "raw_hot": 206358,
@@ -11563,6 +11571,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 158453,
+      "num": 158453,
+      "word": "曹杨唱如果你也听说",
+      "onboard_time": 1727453239,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 158412,
       "num": 158412,
       "word": "半熟男女三女主义",
@@ -11841,6 +11857,14 @@
       "onboard_time": 1727352678,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 153025,
+      "num": 150571,
+      "word": "曹杨香缇莫平票",
+      "onboard_time": 1727451739,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 152846,
@@ -14003,6 +14027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 124162,
+      "num": 118554,
+      "word": "闵熙珍说NewJeans不会离开HYBE",
+      "onboard_time": 1727452399,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 124127,
       "num": 365068,
       "word": "为何病人住院越久医院亏得越多",
@@ -14315,6 +14347,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 119225,
+      "num": 119225,
+      "word": "存款利率或将再次下调",
+      "onboard_time": 1727451260,
+      "rank": 48,
+      "category": "财经"
+    },
+    {
       "raw_hot": 119219,
       "num": 477721,
       "word": "舍不得星星",
@@ -14337,6 +14377,14 @@
       "onboard_time": 1727396299,
       "rank": 43,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 118937,
+      "num": 265260,
+      "word": "关停饭圈相关违规账号10万余个",
+      "onboard_time": 1727453239,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 118780,
@@ -14995,14 +15043,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 105254,
-      "num": 105254,
-      "word": "存款利率或将再次下调",
-      "onboard_time": 1727451260,
-      "rank": 48,
-      "category": "财经"
-    },
-    {
       "raw_hot": 104987,
       "num": 104987,
       "word": "外交部回应拜登称中国咄咄逼人",
@@ -15547,6 +15587,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 87302,
+      "num": 87302,
+      "word": "汪苏泷来过十万伏特你就定型了",
+      "onboard_time": 1727453059,
+      "rank": 39,
+      "category": "演出"
+    },
+    {
       "raw_hot": 86990,
       "num": 422043,
       "word": "2男子反骗电诈分子1800元被拘",
@@ -15665,6 +15713,14 @@
       "onboard_time": 1726942154,
       "rank": 47,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 82660,
+      "num": 82660,
+      "word": "凡希亚puppet木偶舞",
+      "onboard_time": 1727452938,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 82234,
@@ -15843,6 +15899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 76854,
+      "num": 76854,
+      "word": "柯南 绝美安室透",
+      "onboard_time": 1727452279,
+      "rank": 47,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 76427,
       "num": 370037,
       "word": "女童坠亡消防井安全隐患一年未解决",
@@ -15977,6 +16041,14 @@
       "onboard_time": 1727399240,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 73646,
+      "num": 73646,
+      "word": "王一博入选全球时尚产业人物500强",
+      "onboard_time": 1727452818,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 72945,

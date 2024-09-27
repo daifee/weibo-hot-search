@@ -1,0 +1,411 @@
+{
+  "startTime": 1727454453610,
+  "endTime": 1727454453610,
+  "band_list": [
+    {
+      "raw_hot": 801781,
+      "num": 255629,
+      "word": "舅舅借外甥女900万不肯还",
+      "onboard_time": 1727444301,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 718574,
+      "num": 902628,
+      "word": "霍格沃茨三任校长演员离世",
+      "onboard_time": 1727446160,
+      "rank": 0,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 684307,
+      "num": 250516,
+      "word": "黄多多在纽约街边画画",
+      "onboard_time": 1727438058,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 606104,
+      "num": 606104,
+      "word": "你婚后愿意和老人住在一起吗",
+      "onboard_time": 1727448740,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 482520,
+      "num": 482520,
+      "word": "靠摆摊卖螺蛳粉老板月入8万",
+      "onboard_time": 1727445981,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 474075,
+      "num": 474075,
+      "word": "以总理被迫雨中与人握手",
+      "onboard_time": 1727449341,
+      "rank": 4,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 415940,
+      "num": 415940,
+      "word": "斯内普",
+      "onboard_time": 1727449821,
+      "rank": 5,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 406932,
+      "num": 243991,
+      "word": "武汉1.6级地震",
+      "onboard_time": 1727442380,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 334708,
+      "num": 177552,
+      "word": "二本恋综拍出来了",
+      "onboard_time": 1727437880,
+      "rank": 20,
+      "category": "幽默,作品衍生"
+    },
+    {
+      "raw_hot": 318134,
+      "num": 318134,
+      "word": "张淇 破音",
+      "onboard_time": 1727452578,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 308166,
+      "num": 308166,
+      "word": "汪苏泷演唱会DJ是王鹤棣",
+      "onboard_time": 1727450359,
+      "rank": 7,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 299595,
+      "num": 237316,
+      "word": "警方回应女网红张悦疑坠楼身亡",
+      "onboard_time": 1727442500,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 296441,
+      "num": 235437,
+      "word": "NewJeans新歌demo",
+      "onboard_time": 1727451080,
+      "rank": 14,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 274054,
+      "num": 177460,
+      "word": "刚出生宝宝遭隐翅虫攻击致头部感染",
+      "onboard_time": 1727442439,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 266571,
+      "num": 266571,
+      "word": "警方回应青海无人区有多人扔砖砸车",
+      "onboard_time": 1727445320,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 231429,
+      "num": 231429,
+      "word": "麦格教授扮演者玛吉史密斯去世",
+      "onboard_time": 1727444781,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 211636,
+      "num": 211636,
+      "word": "发电厂海蜇泛滥员工已抓21万斤",
+      "onboard_time": 1727437938,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 199584,
+      "num": 199584,
+      "word": "周杰伦千山万水现场",
+      "onboard_time": 1727447362,
+      "rank": 17,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 190276,
+      "num": 190276,
+      "word": "王玉雯否认在王子奇车上待了很久",
+      "onboard_time": 1727436559,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 183849,
+      "num": 183849,
+      "word": "安徽省地震局回应地震热点问题",
+      "onboard_time": 1727443401,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 168485,
+      "num": 168485,
+      "word": "中国最没存在感的省会",
+      "onboard_time": 1727427199,
+      "rank": 22,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 158453,
+      "num": 158453,
+      "word": "曹杨唱如果你也听说",
+      "onboard_time": 1727453239,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 153025,
+      "num": 150571,
+      "word": "曹杨香缇莫平票",
+      "onboard_time": 1727451739,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 150604,
+      "num": 150604,
+      "word": "闵熙珍晒HANNI聊天记录",
+      "onboard_time": 1727445741,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 143667,
+      "num": 143667,
+      "word": "女子钥匙放车里多次凌晨被开走",
+      "onboard_time": 1727436018,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 132346,
+      "num": 132346,
+      "word": "直播间赌石被骗还以为是运气不好",
+      "onboard_time": 1727448260,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 124162,
+      "num": 118554,
+      "word": "闵熙珍说NewJeans不会离开HYBE",
+      "onboard_time": 1727452399,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 119225,
+      "num": 119225,
+      "word": "存款利率或将再次下调",
+      "onboard_time": 1727451260,
+      "rank": 28,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 118937,
+      "num": 265260,
+      "word": "关停饭圈相关违规账号10万余个",
+      "onboard_time": 1727453239,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 116773,
+      "num": 116773,
+      "word": "浙江IP到底有多幸福",
+      "onboard_time": 1727434100,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 114622,
+      "num": 114622,
+      "word": "87套法拍房待拍卖仅1人报名",
+      "onboard_time": 1727446040,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 103230,
+      "num": 103230,
+      "word": "中餐厅",
+      "onboard_time": 1727449760,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 103161,
+      "num": 103161,
+      "word": "肖战回关王力宏",
+      "onboard_time": 1727444179,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 97130,
+      "num": 97130,
+      "word": "半熟男女 全员恶人",
+      "onboard_time": 1727443700,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 96145,
+      "num": 96145,
+      "word": "关智斌感谢赵丽颖把自己带火",
+      "onboard_time": 1727427619,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 96072,
+      "num": 96072,
+      "word": "奶茶店称因电费差价要多做一千杯",
+      "onboard_time": 1727433798,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 90627,
+      "num": 90627,
+      "word": "杨幂戴墨镜飞吻",
+      "onboard_time": 1727441720,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 90457,
+      "num": 90457,
+      "word": "告诉爸妈别这样用保鲜膜了",
+      "onboard_time": 1727440760,
+      "rank": 38,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 87302,
+      "num": 87302,
+      "word": "汪苏泷来过十万伏特你就定型了",
+      "onboard_time": 1727453059,
+      "rank": 39,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 82660,
+      "num": 82660,
+      "word": "凡希亚puppet木偶舞",
+      "onboard_time": 1727452938,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 79587,
+      "num": 79587,
+      "word": "赵丽颖在人海在凝望在梦里",
+      "onboard_time": 1727447061,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 79058,
+      "num": 79058,
+      "word": "原神版本直播",
+      "onboard_time": 1727439499,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 78192,
+      "num": 78192,
+      "word": "雎晓雯产后重返国际T台",
+      "onboard_time": 1727446761,
+      "rank": 43,
+      "category": "时尚"
+    },
+    {
+      "raw_hot": 78140,
+      "num": 78140,
+      "word": "方媛称郭富城支持自己买房",
+      "onboard_time": 1727440999,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 77807,
+      "num": 77807,
+      "word": "中戏上戏中传同台pk",
+      "onboard_time": 1727447301,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 77081,
+      "num": 77081,
+      "word": "陈哲远 有没有可能许凯你找错人了",
+      "onboard_time": 1727447541,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 76854,
+      "num": 76854,
+      "word": "柯南 绝美安室透",
+      "onboard_time": 1727452279,
+      "rank": 47,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 75198,
+      "num": 75198,
+      "word": "宋佳向华坪县捐赠100万",
+      "onboard_time": 1727435179,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 73646,
+      "num": 73646,
+      "word": "王一博入选全球时尚产业人物500强",
+      "onboard_time": 1727452818,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 17562,
+      "num": 510123,
+      "word": "352个集体368名个人受到表彰",
+      "onboard_time": 1727444301,
+      "rank": 2,
+      "category": "社会新闻"
+    }
+  ],
+  "hotgov_list": [
+    {
+      "word": "#各族人民都有一个共同名字就是中国人#"
+    }
+  ]
+}
