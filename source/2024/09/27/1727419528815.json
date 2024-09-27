@@ -1,0 +1,410 @@
+{
+  "runTime": 1727419528815,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 887712,
+        "num": 1142034,
+        "word": "淘宝微信支付",
+        "onboard_time": 1727414960,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 812156,
+        "num": 812156,
+        "word": "石破茂将出任日本首相",
+        "onboard_time": 1727418801,
+        "rank": 1,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 27996,
+        "num": 702181,
+        "word": "新电商新风尚",
+        "onboard_time": 1727409859,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 657682,
+        "num": 657682,
+        "word": "马伯骞回应没有子承父业的原因",
+        "onboard_time": 1727415800,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 497413,
+        "num": 497413,
+        "word": "浙江婚假",
+        "onboard_time": 1727402842,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 390547,
+        "num": 390547,
+        "word": "东北雨姐回应客服骂人",
+        "onboard_time": 1727411721,
+        "rank": 5,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 375595,
+        "num": 375595,
+        "word": "WTT抽签",
+        "onboard_time": 1727418739,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 352526,
+        "num": 352526,
+        "word": "A股",
+        "onboard_time": 1727400498,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 351666,
+        "num": 351666,
+        "word": "Kim成熟了好多",
+        "onboard_time": 1727413940,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 343640,
+        "num": 343640,
+        "word": "张帅爆冷美网四强",
+        "onboard_time": 1727413821,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 718031,
+        "num": 328491,
+        "word": "名媛培训班",
+        "onboard_time": 1727413881,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 618562,
+        "num": 310875,
+        "word": "女高管与下属约会开房被开除",
+        "onboard_time": 1727412862,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 523616,
+        "num": 298911,
+        "word": "遭教官体罚进ICU的14岁女孩离世",
+        "onboard_time": 1727407160,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 478672,
+        "num": 290033,
+        "word": "名媛培训班 就业率",
+        "onboard_time": 1727415081,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 276539,
+        "num": 276539,
+        "word": "大碗娱乐所有艺人合约到期不续",
+        "onboard_time": 1727399419,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 269881,
+        "num": 269881,
+        "word": "WTT中国大满贯首日国乒12胜1负",
+        "onboard_time": 1727417301,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 255945,
+        "num": 255945,
+        "word": "贾玲不再担任大碗娱乐职务",
+        "onboard_time": 1727398761,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156236,
+        "num": 254144,
+        "word": "女孩遭教官体罚持续昏迷四肢瘫软",
+        "onboard_time": 1727418321,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19873,
+        "num": 253371,
+        "word": "张新成被七斋现场嗑cp的感受",
+        "onboard_time": 1727418979,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 253153,
+        "num": 253153,
+        "word": "官方介入调查约300万只蜜蜂死亡",
+        "onboard_time": 1727415919,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 412194,
+        "num": 244991,
+        "word": "打过狂犬疫苗的人嘴真严啊",
+        "onboard_time": 1727416581,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 235639,
+        "num": 235639,
+        "word": "浙江领证未满1年新人也享受13天婚假",
+        "onboard_time": 1727405539,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214463,
+        "num": 214463,
+        "word": "向太曾为拒绝做舞女轻生",
+        "onboard_time": 1727414481,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 58980,
+        "num": 213478,
+        "word": "和你好种地少年2一起游学",
+        "onboard_time": 1727419399,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 213450,
+        "num": 213450,
+        "word": "骗子在付款码收款码切换瞬间盗刷",
+        "onboard_time": 1727415680,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209294,
+        "num": 209294,
+        "word": "芬兰计划提前归还大熊猫",
+        "onboard_time": 1727404939,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192971,
+        "num": 208946,
+        "word": "戚薇蔡徐坤合照",
+        "onboard_time": 1727411601,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 171893,
+        "num": 207196,
+        "word": "罗永浩 上海打印店都在传我疯了",
+        "onboard_time": 1727417480,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120518,
+        "num": 206210,
+        "word": "河南嵩县约300万只蜜蜂离奇死亡",
+        "onboard_time": 1727419340,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26848,
+        "num": 204098,
+        "word": "问界新M5底盘拆解",
+        "onboard_time": 1727416101,
+        "rank": 29,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 71137,
+        "num": 203507,
+        "word": "披荆斩棘群像味包重的",
+        "onboard_time": 1727415800,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202207,
+        "num": 202207,
+        "word": "专家称A股3000点应该能站稳",
+        "onboard_time": 1727408299,
+        "rank": 31,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 190296,
+        "num": 190296,
+        "word": "Uzi红温破防",
+        "onboard_time": 1727415020,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 189645,
+        "num": 189645,
+        "word": "鹿晗新单曲",
+        "onboard_time": 1727419041,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 189509,
+        "num": 189509,
+        "word": "今天起浙江婚假延长至13天",
+        "onboard_time": 1727403380,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187660,
+        "num": 187660,
+        "word": "走进珂学",
+        "onboard_time": 1727418321,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 185965,
+        "num": 185965,
+        "word": "我已出舱感觉良好有16年了",
+        "onboard_time": 1727407099,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 160515,
+        "num": 160515,
+        "word": "重637.4克公河蟹当选蟹王",
+        "onboard_time": 1727418081,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159167,
+        "num": 159167,
+        "word": "何老师吐槽张杰演唱会cue自己",
+        "onboard_time": 1727417060,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 148751,
+        "num": 148751,
+        "word": "大量淘宝用户刷出微信支付界面",
+        "onboard_time": 1727402479,
+        "rank": 39,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 142381,
+        "num": 142381,
+        "word": "奥运冠军黄东萍也看山花烂漫时",
+        "onboard_time": 1727419459,
+        "rank": 40,
+        "category": "体育,剧集"
+      },
+      {
+        "raw_hot": 142012,
+        "num": 142012,
+        "word": "人民日报报道赵丽颖飞天视后",
+        "onboard_time": 1727418679,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134259,
+        "num": 134259,
+        "word": "湖南一9岁女童身亡未穿衣服身上有伤",
+        "onboard_time": 1727413881,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 40922,
+        "num": 134122,
+        "word": "男孩被校长掐脖不是体罚是滥施暴力",
+        "onboard_time": 1727417362,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134009,
+        "num": 134009,
+        "word": "光与夜之恋巴黎时装周",
+        "onboard_time": 1727417720,
+        "rank": 44,
+        "category": "游戏,作品衍生"
+      },
+      {
+        "raw_hot": 132210,
+        "num": 132210,
+        "word": "Z世代眼中的孔子是什么样子",
+        "onboard_time": 1727419220,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131738,
+        "num": 131738,
+        "word": "王皓说王楚钦是承上启下",
+        "onboard_time": 1727401399,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128447,
+        "num": 128447,
+        "word": "日本歌手酸欠少女去世",
+        "onboard_time": 1727408419,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126899,
+        "num": 126899,
+        "word": "武艺一家痛失本名",
+        "onboard_time": 1727413641,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123046,
+        "num": 123046,
+        "word": "上交所交易系统出现延迟现象",
+        "onboard_time": 1727405001,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#要像石榴籽一样紧紧抱在一起#"
+    }
+  }
+}
