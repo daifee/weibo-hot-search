@@ -1,6 +1,6 @@
 {
   "startTime": 1726936020707,
-  "endTime": 1727511997675,
+  "endTime": 1727512799645,
   "band_list": [
     {
       "raw_hot": 12357374,
@@ -635,6 +635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1495266,
+      "num": 1495266,
+      "word": "以军称打死黎真主党领导人纳斯鲁拉",
+      "onboard_time": 1727511379,
+      "rank": 1,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 1493598,
       "num": 486199,
       "word": "南丁格尔是女护士",
@@ -833,6 +841,14 @@
       "onboard_time": 1727163919,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1328240,
+      "num": 1170673,
+      "word": "李佳琦觉得自己不该被淘汰",
+      "onboard_time": 1727508498,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 1322960,
@@ -1235,14 +1251,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 1066707,
-      "num": 1170673,
-      "word": "李佳琦觉得自己不该被淘汰",
-      "onboard_time": 1727508498,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1065307,
       "num": 1065307,
       "word": "男童输液后死亡医院承认修改病历",
@@ -1353,14 +1361,6 @@
       "onboard_time": 1727353998,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1016292,
-      "num": 1016292,
-      "word": "以军称打死黎真主党领导人纳斯鲁拉",
-      "onboard_time": 1727511379,
-      "rank": 1,
-      "category": "国外时政"
     },
     {
       "raw_hot": 1005568,
@@ -5307,6 +5307,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 344541,
+      "num": 344541,
+      "word": "陈楚生又拿第一了",
+      "onboard_time": 1727511559,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 344299,
       "num": 350297,
       "word": "半熟男女香港爱情故事",
@@ -5713,6 +5721,22 @@
       "onboard_time": 1727137940,
       "rank": 22,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 315073,
+      "num": 315073,
+      "word": "刑满释放人员举报服刑监狱",
+      "onboard_time": 1727511859,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 315004,
+      "num": 232808,
+      "word": "放假去韩国玩的人嘴真严",
+      "onboard_time": 1727509458,
+      "rank": 20,
+      "category": "旅游"
     },
     {
       "raw_hot": 314278,
@@ -6515,14 +6539,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 274675,
-      "num": 222091,
-      "word": "放假去韩国玩的人嘴真严",
-      "onboard_time": 1727509458,
-      "rank": 20,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 274213,
       "num": 362475,
       "word": "WMA回应单依纯口误",
@@ -6723,6 +6739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 264500,
+      "num": 264500,
+      "word": "以色列",
+      "onboard_time": 1727511619,
+      "rank": 24,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 264471,
       "num": 264471,
       "word": "孙佳俊刷新全国纪录",
@@ -6857,6 +6881,14 @@
       "onboard_time": 1727007381,
       "rank": 31,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 261695,
+      "num": 261695,
+      "word": "梁龙人生最委屈的事是参加歌手",
+      "onboard_time": 1727511379,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 261289,
@@ -7675,6 +7707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 231531,
+      "num": 351868,
+      "word": "我的宝藏家乡",
+      "onboard_time": 1727275879,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 231338,
       "num": 231338,
       "word": "四川人数到三拿下蜀道山",
@@ -7705,6 +7745,14 @@
       "onboard_time": 1727314218,
       "rank": 30,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 230415,
+      "num": 289205,
+      "word": "以军称黎巴嫩真主党领导人死亡",
+      "onboard_time": 1727511679,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 230298,
@@ -7795,6 +7843,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 228139,
+      "num": 228139,
+      "word": "汪涵50岁正是爱炫耀的年纪",
+      "onboard_time": 1727511020,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 227961,
       "num": 227961,
       "word": "贺峻霖将参加中传70周年校庆",
@@ -7883,6 +7939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 226337,
+      "num": 226337,
+      "word": "董宇辉建议不要妖魔化食品添加剂",
+      "onboard_time": 1727510419,
+      "rank": 25,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 226160,
       "num": 264362,
       "word": "Kim请吃饭的漂亮姐姐",
@@ -7921,14 +7985,6 @@
       "onboard_time": 1727000780,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 224381,
-      "num": 224381,
-      "word": "梁龙人生最委屈的事是参加歌手",
-      "onboard_time": 1727511379,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 224082,
@@ -8475,14 +8531,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 210707,
-      "num": 210707,
-      "word": "汪涵50岁正是爱炫耀的年纪",
-      "onboard_time": 1727511020,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 210121,
       "num": 228310,
       "word": "向云端rap",
@@ -8561,14 +8609,6 @@
       "onboard_time": 1727414123,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 209177,
-      "num": 209177,
-      "word": "以色列",
-      "onboard_time": 1727511619,
-      "rank": 24,
-      "category": "国外时政"
     },
     {
       "raw_hot": 209110,
@@ -8769,6 +8809,14 @@
       "onboard_time": 1727003302,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 205369,
+      "num": 181692,
+      "word": "专家称现在的A股像1996年的日本股市",
+      "onboard_time": 1727511739,
+      "rank": 35,
+      "category": "财经"
     },
     {
       "raw_hot": 205223,
@@ -8985,14 +9033,6 @@
       "onboard_time": 1726927467,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 202922,
-      "num": 202922,
-      "word": "董宇辉建议不要妖魔化食品添加剂",
-      "onboard_time": 1727510419,
-      "rank": 25,
-      "category": "互联网"
     },
     {
       "raw_hot": 202810,
@@ -9347,6 +9387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 198415,
+      "num": 240832,
+      "word": "半熟男女 复婚签婚姻忠诚协议",
+      "onboard_time": 1727511079,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 198384,
       "num": 198384,
       "word": "中国对美国PVH集团启动调查",
@@ -9665,14 +9713,6 @@
       "onboard_time": 1727268020,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 194710,
-      "num": 194710,
-      "word": "陈楚生又拿第一了",
-      "onboard_time": 1727511559,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 194598,
@@ -10344,14 +10384,6 @@
       "word": "济南辟谣一女子商场坠楼砸中路人",
       "onboard_time": 1727067510,
       "rank": 35,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 187156,
-      "num": 351868,
-      "word": "我的宝藏家乡",
-      "onboard_time": 1727275879,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -11587,6 +11619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 167656,
+      "num": 167656,
+      "word": "以总理被曝在纽约酒店房间授权空袭",
+      "onboard_time": 1727511920,
+      "rank": 47,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 167612,
       "num": 167612,
       "word": "张艺兴年度荣耀音乐人",
@@ -12369,14 +12409,6 @@
       "onboard_time": 1726967899,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 158388,
-      "num": 185991,
-      "word": "半熟男女 复婚签婚姻忠诚协议",
-      "onboard_time": 1727511079,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 158267,
@@ -13195,6 +13227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 147828,
+      "num": 147828,
+      "word": "专家建议普通人买基金或者ETF",
+      "onboard_time": 1727509458,
+      "rank": 33,
+      "category": "财经"
+    },
+    {
       "raw_hot": 147707,
       "num": 163272,
       "word": "刘烨眼中花少最不合群的人",
@@ -13729,14 +13769,6 @@
       "onboard_time": 1726976358,
       "rank": 45,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 141072,
-      "num": 141072,
-      "word": "专家建议普通人买基金或者ETF",
-      "onboard_time": 1727509458,
-      "rank": 33,
-      "category": "财经"
     },
     {
       "raw_hot": 140857,
@@ -14827,14 +14859,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 127479,
-      "num": 127479,
-      "word": "专家称现在的A股像1996年的日本股市",
-      "onboard_time": 1727511739,
-      "rank": 35,
-      "category": "财经"
-    },
-    {
       "raw_hot": 127342,
       "num": 127342,
       "word": "傅融 又见面了",
@@ -14969,6 +14993,22 @@
       "onboard_time": 1727260338,
       "rank": 44,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 125794,
+      "num": 261086,
+      "word": "梵高向日葵又遭泼汤",
+      "onboard_time": 1727510419,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 125653,
+      "num": 125653,
+      "word": "预订酒店不可取消背后的帮退业务",
+      "onboard_time": 1727510419,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 125583,
@@ -15201,14 +15241,6 @@
       "onboard_time": 1727181978,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 122910,
-      "num": 289205,
-      "word": "以军称黎巴嫩真主党领导人死亡",
-      "onboard_time": 1727511679,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 122902,
@@ -15587,11 +15619,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 118421,
+      "num": 118421,
+      "word": "孙颖莎亮相揭幕战",
+      "onboard_time": 1727508378,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 118399,
       "num": 289374,
       "word": "官方全面叫停知名文保建筑挂灯笼",
       "onboard_time": 1727102180,
       "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 118360,
+      "num": 118360,
+      "word": "专家建议提高个税起征点至8000元",
+      "onboard_time": 1727512099,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -15683,6 +15731,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 116642,
+      "num": 116642,
+      "word": "喜人上恋综了",
+      "onboard_time": 1727509699,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 116620,
       "num": 116620,
       "word": "年轻人吸猫吸狗就是不想吸小孩",
@@ -15721,14 +15777,6 @@
       "onboard_time": 1726984162,
       "rank": 39,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 116098,
-      "num": 116098,
-      "word": "喜人上恋综了",
-      "onboard_time": 1727509699,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 116091,
@@ -15819,14 +15867,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 114541,
-      "num": 114541,
-      "word": "孙颖莎亮相揭幕战",
-      "onboard_time": 1727508378,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 114526,
       "num": 114526,
       "word": "2024年最后100天",
@@ -15897,14 +15937,6 @@
       "onboard_time": 1727349138,
       "rank": 46,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 113904,
-      "num": 113904,
-      "word": "刑满释放人员举报服刑监狱",
-      "onboard_time": 1727511859,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 113766,
@@ -16403,11 +16435,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 102393,
-      "num": 114592,
-      "word": "预订酒店不可取消背后的帮退业务",
-      "onboard_time": 1727510419,
-      "rank": 39,
+      "raw_hot": 101425,
+      "num": 101425,
+      "word": "监狱内犯人被指违规赌博用手机",
+      "onboard_time": 1727512039,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -16473,14 +16505,6 @@
       "onboard_time": 1727443220,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 99444,
-      "num": 99444,
-      "word": "以总理被曝在纽约酒店房间授权空袭",
-      "onboard_time": 1727511920,
-      "rank": 47,
-      "category": "国外时政"
     },
     {
       "raw_hot": 99393,
@@ -17419,6 +17443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 73388,
+      "num": 260654,
+      "word": "中国人的审美就是惊艳",
+      "onboard_time": 1727509819,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 72945,
       "num": 400334,
       "word": "全国层面不再区分首套房二套房",
@@ -17576,14 +17608,6 @@
       "word": "寻甸电商园区书记回应小英翻车",
       "onboard_time": 1727210170,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 68276,
-      "num": 261086,
-      "word": "梵高向日葵又遭泼汤",
-      "onboard_time": 1727510419,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -18547,6 +18571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 51022,
+      "num": 151628,
+      "word": "如何拥有一颗强大的心脏",
+      "onboard_time": 1727511800,
+      "rank": 49,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 50972,
       "num": 77378,
       "word": "比利亚雷亚尔1比5巴萨",
@@ -19099,14 +19131,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 43117,
-      "num": 96911,
-      "word": "如何拥有一颗强大的心脏",
-      "onboard_time": 1727511800,
-      "rank": 49,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 43070,
       "num": 52783,
       "word": "时代少年团推介自己的家乡",
@@ -19273,6 +19297,14 @@
       "onboard_time": 1727411121,
       "rank": 14,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 40993,
+      "num": 948049,
+      "word": "候鸟环球迁徙记",
+      "onboard_time": 1727511319,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 40922,
@@ -20121,14 +20153,6 @@
       "onboard_time": 1727016924,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 29730,
-      "num": 948049,
-      "word": "候鸟环球迁徙记",
-      "onboard_time": 1727511319,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 29708,
@@ -21369,6 +21393,14 @@
       "onboard_time": 1726956913,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 11419,
+      "num": 236278,
+      "word": "VOGUE唇语采访杨幂",
+      "onboard_time": 1727512698,
+      "rank": 19,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 11359,
