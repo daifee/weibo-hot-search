@@ -1,0 +1,410 @@
+{
+  "runTime": 1727530545634,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 763688,
+        "num": 1122190,
+        "word": "香港维多利亚港惊现水龙卷",
+        "onboard_time": 1727517258,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 536104,
+        "num": 536104,
+        "word": "WTT晚宴",
+        "onboard_time": 1727527400,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 16966,
+        "num": 361016,
+        "word": "读懂中国75年发展密码",
+        "onboard_time": 1727530161,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 625058,
+        "num": 348155,
+        "word": "黎真主党证实纳斯鲁拉死亡",
+        "onboard_time": 1727524401,
+        "rank": 3,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 332586,
+        "num": 332586,
+        "word": "韩国人用卷心菜娃娃菜代替大白菜",
+        "onboard_time": 1727528600,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 329312,
+        "num": 329312,
+        "word": "迪丽热巴慕胥辞新妆造路透",
+        "onboard_time": 1727530459,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 328065,
+        "num": 328065,
+        "word": "伊朗最高领袖发声",
+        "onboard_time": 1727520558,
+        "rank": 6,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 324557,
+        "num": 324557,
+        "word": "樊振东巴黎男单决赛前不敢看信息",
+        "onboard_time": 1727523260,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 227205,
+        "num": 323969,
+        "word": "邓为被评为巴黎时装周最佳着装明星",
+        "onboard_time": 1727515398,
+        "rank": 8,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 29448,
+        "num": 323704,
+        "word": "这是75年来的青春之声",
+        "onboard_time": 1727529858,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 323447,
+        "num": 323447,
+        "word": "郑钦文比赛爆满",
+        "onboard_time": 1727523380,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1135463,
+        "num": 321601,
+        "word": "秦岚 分手后我不会和前任做朋友",
+        "onboard_time": 1727527698,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 45070,
+        "num": 319794,
+        "word": "杨幂同款手袋",
+        "onboard_time": 1727528179,
+        "rank": 12,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 581957,
+        "num": 317723,
+        "word": "登陆少年 清华",
+        "onboard_time": 1727521459,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 521061,
+        "num": 316646,
+        "word": "何超莲这个背不去拔罐可惜了",
+        "onboard_time": 1727528780,
+        "rank": 14,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 440756,
+        "num": 314202,
+        "word": "停车费1小时200元车主质疑太贵",
+        "onboard_time": 1727517858,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 324020,
+        "num": 312996,
+        "word": "以军称打死黎真主党领导人纳斯鲁拉",
+        "onboard_time": 1727511379,
+        "rank": 16,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 311727,
+        "num": 311727,
+        "word": "唐宫奇案 白鹿",
+        "onboard_time": 1727522178,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 305510,
+        "num": 305510,
+        "word": "张真源 地铁跑酷",
+        "onboard_time": 1727525240,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 285464,
+        "num": 285464,
+        "word": "付鹏与男子合影",
+        "onboard_time": 1727503458,
+        "rank": 19,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 945061,
+        "num": 278706,
+        "word": "刑满释放人员举报服刑监狱",
+        "onboard_time": 1727511859,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 409116,
+        "num": 274221,
+        "word": "国庆朋友圈已经预制好了",
+        "onboard_time": 1727525959,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 323393,
+        "num": 267973,
+        "word": "77岁老太被野猪咬伤拿刀反杀",
+        "onboard_time": 1727513060,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 307819,
+        "num": 263124,
+        "word": "鲸落全过程",
+        "onboard_time": 1727524697,
+        "rank": 23,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 257962,
+        "num": 257962,
+        "word": "上海85平米的小家",
+        "onboard_time": 1727527158,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 249944,
+        "num": 249944,
+        "word": "沈月杨超越聊自己医美经历",
+        "onboard_time": 1727529021,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 213601,
+        "num": 213601,
+        "word": "郑钦文中网开门红",
+        "onboard_time": 1727527219,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 162763,
+        "num": 198683,
+        "word": "火树分享参观清华的方式",
+        "onboard_time": 1727529261,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 45050,
+        "num": 197591,
+        "word": "超燃3X联赛真的燃",
+        "onboard_time": 1727529381,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 151477,
+        "num": 197478,
+        "word": "Kanye试听会",
+        "onboard_time": 1727526499,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 197401,
+        "num": 197401,
+        "word": "王源红发",
+        "onboard_time": 1727529501,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 196948,
+        "num": 196948,
+        "word": "李佳琦觉得自己不该被淘汰",
+        "onboard_time": 1727508498,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188424,
+        "num": 188424,
+        "word": "孙佳俊破亚洲纪录",
+        "onboard_time": 1727527819,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 181805,
+        "num": 181805,
+        "word": "黎真主党誓言继续对抗以色列",
+        "onboard_time": 1727526859,
+        "rank": 33,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 181335,
+        "num": 181335,
+        "word": "印度一校长勾结老师勒死11岁学生",
+        "onboard_time": 1727522359,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180445,
+        "num": 180445,
+        "word": "恩利晒与杨幂合照",
+        "onboard_time": 1727522600,
+        "rank": 35,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 164961,
+        "num": 164961,
+        "word": "全国婚假最长的省份是哪个",
+        "onboard_time": 1727524818,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138289,
+        "num": 162146,
+        "word": "汪苏泷天津演唱会嘉宾是张碧晨",
+        "onboard_time": 1727528600,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 59798,
+        "num": 161583,
+        "word": "喜欢国风的外国小姐姐解释华夏",
+        "onboard_time": 1727528960,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161575,
+        "num": 161575,
+        "word": "郑钦文vs拉希莫娃",
+        "onboard_time": 1727519359,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153428,
+        "num": 153428,
+        "word": "王一博做饭糊了是锅不好",
+        "onboard_time": 1727526199,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150238,
+        "num": 150238,
+        "word": "朱一龙包场赵丽颖新电影",
+        "onboard_time": 1727519299,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 148387,
+        "num": 148387,
+        "word": "30岁和20岁毛不易在平行时空接受采访",
+        "onboard_time": 1727530099,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145750,
+        "num": 145750,
+        "word": "烈士纪念日",
+        "onboard_time": 1727528960,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144181,
+        "num": 144181,
+        "word": "拉希莫娃摔拍",
+        "onboard_time": 1727526078,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130840,
+        "num": 130840,
+        "word": "哈马斯对黎真主党领导人之死表示哀悼",
+        "onboard_time": 1727527580,
+        "rank": 45,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 127456,
+        "num": 127456,
+        "word": "于正谈白鹿王星越合作唐宫",
+        "onboard_time": 1727518878,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123685,
+        "num": 123685,
+        "word": "浴火之路",
+        "onboard_time": 1727522659,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 114292,
+        "num": 119551,
+        "word": "檀健次 减肥不是说减就减吗",
+        "onboard_time": 1727529021,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118847,
+        "num": 118847,
+        "word": "李佳琦回应披荆斩棘淘汰",
+        "onboard_time": 1727513539,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记始终高度重视民族工作#"
+    }
+  }
+}
