@@ -1,6 +1,6 @@
 {
   "startTime": 1727454453610,
-  "endTime": 1727534225702,
+  "endTime": 1727537038836,
   "band_list": [
     {
       "raw_hot": 2691799,
@@ -188,7 +188,7 @@
     },
     {
       "raw_hot": 751845,
-      "num": 280532,
+      "num": 314647,
       "word": "游泳队告六人去陈奕迅演唱会",
       "onboard_time": 1727531660,
       "rank": 11,
@@ -388,7 +388,7 @@
     },
     {
       "raw_hot": 526955,
-      "num": 307871,
+      "num": 312493,
       "word": "檀健次 减肥不是说减就减吗",
       "onboard_time": 1727529021,
       "rank": 19,
@@ -521,6 +521,14 @@
       "onboard_time": 1727504538,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 426047,
+      "num": 135487,
+      "word": "网友称银行网点存10万只能取三千",
+      "onboard_time": 1727534600,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 418452,
@@ -667,6 +675,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 343872,
+      "num": 343872,
+      "word": "王楚钦做漆扇",
+      "onboard_time": 1727533581,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 342774,
       "num": 312721,
       "word": "给不批假的领导们拉了个群",
@@ -715,6 +731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 328689,
+      "num": 328689,
+      "word": "心动的信号7素人返场路透",
+      "onboard_time": 1727535800,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 328319,
       "num": 328319,
       "word": "邱贻可又被莎莎支配了",
@@ -729,6 +753,14 @@
       "onboard_time": 1727482519,
       "rank": 12,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 323054,
+      "num": 323054,
+      "word": "毛不易带着八杯酒的消愁回来了",
+      "onboard_time": 1727534780,
+      "rank": 8,
+      "category": "演出"
     },
     {
       "raw_hot": 320186,
@@ -795,6 +827,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 306105,
+      "num": 306105,
+      "word": "心动的信号",
+      "onboard_time": 1727534300,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 305420,
       "num": 345028,
       "word": "我们该如何保护隐私权",
@@ -835,6 +875,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 286348,
+      "num": 286348,
+      "word": "男子听信美容偏方1月不洗脸满脸结痂",
+      "onboard_time": 1727534480,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 282873,
       "num": 282873,
       "word": "监狱内犯人被指违规赌博用手机",
@@ -865,14 +913,6 @@
       "onboard_time": 1727442439,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 270670,
-      "num": 252663,
-      "word": "王楚钦做漆扇",
-      "onboard_time": 1727533581,
-      "rank": 20,
-      "category": "体育"
     },
     {
       "raw_hot": 266571,
@@ -937,6 +977,14 @@
       "onboard_time": 1727492360,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 254027,
+      "num": 141628,
+      "word": "戚薇本次时装周用空8罐发胶",
+      "onboard_time": 1727536161,
+      "rank": 30,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 251793,
@@ -1251,6 +1299,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 193308,
+      "num": 193308,
+      "word": "苏州人从此不再羡慕湖南人",
+      "onboard_time": 1727536041,
+      "rank": 22,
+      "category": "美食"
+    },
+    {
       "raw_hot": 192358,
       "num": 192358,
       "word": "LPL出征S14定妆照",
@@ -1483,6 +1539,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 175590,
+      "num": 141359,
+      "word": "喻言唱跳舞台",
+      "onboard_time": 1727536939,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 174654,
       "num": 234424,
       "word": "刘学义上综艺跪着求上沈月了",
@@ -1585,6 +1649,14 @@
       "onboard_time": 1727531720,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 161168,
+      "num": 161168,
+      "word": "帕尔默半场大四喜",
+      "onboard_time": 1727535500,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 159774,
@@ -1737,6 +1809,14 @@
       "onboard_time": 1727522238,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 150387,
+      "num": 150387,
+      "word": "邓恩熙头纱出场",
+      "onboard_time": 1727536400,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 150078,
@@ -1929,6 +2009,14 @@
       "onboard_time": 1727522119,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 139862,
+      "num": 139862,
+      "word": "千万别把大拇脚趾头塞进手镯里",
+      "onboard_time": 1727536939,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 139649,
@@ -2203,6 +2291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 125813,
+      "num": 283711,
+      "word": "新能源车充电超时11分钟收费35元",
+      "onboard_time": 1727532021,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 125794,
       "num": 261086,
       "word": "梵高向日葵又遭泼汤",
@@ -2251,14 +2347,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 122450,
-      "num": 283711,
-      "word": "新能源车充电超时11分钟收费35元",
-      "onboard_time": 1727532021,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 122393,
       "num": 122393,
       "word": "陈哲远梁洁还原白色橄榄树转圈名场面",
@@ -2297,6 +2385,14 @@
       "onboard_time": 1727504178,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 121570,
+      "num": 258704,
+      "word": "众多年轻人涌进百元夜校",
+      "onboard_time": 1727533820,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 120624,
@@ -2459,6 +2555,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 107511,
+      "num": 107511,
+      "word": "被中国航天出品的衣服种草了",
+      "onboard_time": 1727536639,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 107186,
       "num": 107186,
       "word": "飓风席卷美国东南部致44死",
@@ -2499,6 +2603,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 103343,
+      "num": 103343,
+      "word": "炉石传说 掉线",
+      "onboard_time": 1727535260,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 103230,
       "num": 103230,
       "word": "中餐厅",
@@ -2537,6 +2649,14 @@
       "onboard_time": 1727521039,
       "rank": 47,
       "category": "财经"
+    },
+    {
+      "raw_hot": 101188,
+      "num": 101188,
+      "word": "切尔西vs布莱顿",
+      "onboard_time": 1727535020,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 100625,
@@ -2657,6 +2777,14 @@
       "onboard_time": 1727514077,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 87784,
+      "num": 322802,
+      "word": "韩国大白菜紧缺",
+      "onboard_time": 1727535681,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 87302,
@@ -2987,14 +3115,6 @@
       "category": "社会新闻,网红"
     },
     {
-      "raw_hot": 41255,
-      "num": 258704,
-      "word": "众多年轻人涌进百元夜校",
-      "onboard_time": 1727533820,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 40993,
       "num": 948049,
       "word": "候鸟环球迁徙记",
@@ -3161,6 +3281,14 @@
       "onboard_time": 1727432419,
       "rank": 44,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 27600,
+      "num": 306947,
+      "word": "扬言赚一个亿医院存在未批先建嫌疑",
+      "onboard_time": 1727535621,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 26771,

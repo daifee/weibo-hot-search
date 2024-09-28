@@ -1,0 +1,410 @@
+{
+  "runTime": 1727537038836,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 768158,
+        "num": 1122905,
+        "word": "韩国人用卷心菜娃娃菜代替大白菜",
+        "onboard_time": 1727528600,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 525416,
+        "num": 525416,
+        "word": "香港维多利亚港惊现水龙卷",
+        "onboard_time": 1727517258,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36854,
+        "num": 424001,
+        "word": "喜欢国风的外国小姐姐解释华夏",
+        "onboard_time": 1727528960,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 379683,
+        "num": 379683,
+        "word": "黎真主党证实纳斯鲁拉死亡",
+        "onboard_time": 1727524401,
+        "rank": 3,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 21928,
+        "num": 351900,
+        "word": "这是75年来的青春之声",
+        "onboard_time": 1727529858,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 343872,
+        "num": 343872,
+        "word": "王楚钦做漆扇",
+        "onboard_time": 1727533581,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 328689,
+        "num": 328689,
+        "word": "心动的信号7素人返场路透",
+        "onboard_time": 1727535800,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 325398,
+        "num": 325398,
+        "word": "以军称打死黎真主党领导人纳斯鲁拉",
+        "onboard_time": 1727511379,
+        "rank": 7,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 323054,
+        "num": 323054,
+        "word": "毛不易带着八杯酒的消愁回来了",
+        "onboard_time": 1727534780,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 87784,
+        "num": 322802,
+        "word": "韩国大白菜紧缺",
+        "onboard_time": 1727535681,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 921684,
+        "num": 317484,
+        "word": "秦岚 分手后我不会和前任做朋友",
+        "onboard_time": 1727527698,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 745790,
+        "num": 314647,
+        "word": "游泳队告六人去陈奕迅演唱会",
+        "onboard_time": 1727531660,
+        "rank": 11,
+        "category": "体育,演出"
+      },
+      {
+        "raw_hot": 386466,
+        "num": 312493,
+        "word": "檀健次 减肥不是说减就减吗",
+        "onboard_time": 1727529021,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 344973,
+        "num": 310852,
+        "word": "停车费1小时200元车主质疑太贵",
+        "onboard_time": 1727517858,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27600,
+        "num": 306947,
+        "word": "扬言赚一个亿医院存在未批先建嫌疑",
+        "onboard_time": 1727535621,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 306105,
+        "num": 306105,
+        "word": "心动的信号",
+        "onboard_time": 1727534300,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 286348,
+        "num": 286348,
+        "word": "男子听信美容偏方1月不洗脸满脸结痂",
+        "onboard_time": 1727534480,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280565,
+        "num": 280565,
+        "word": "登陆少年 清华",
+        "onboard_time": 1727521459,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 255053,
+        "num": 255053,
+        "word": "迪丽热巴慕胥辞新妆造路透",
+        "onboard_time": 1727530459,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 220247,
+        "num": 220247,
+        "word": "伊朗最高领袖发声",
+        "onboard_time": 1727520558,
+        "rank": 19,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 224550,
+        "num": 215977,
+        "word": "国庆朋友圈已经预制好了",
+        "onboard_time": 1727525959,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 210485,
+        "num": 210485,
+        "word": "李佳琦觉得自己不该被淘汰",
+        "onboard_time": 1727508498,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193308,
+        "num": 193308,
+        "word": "苏州人从此不再羡慕湖南人",
+        "onboard_time": 1727536041,
+        "rank": 22,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 182427,
+        "num": 182427,
+        "word": "沈月杨超越聊自己医美经历",
+        "onboard_time": 1727529021,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167559,
+        "num": 167559,
+        "word": "77岁老太被野猪咬伤拿刀反杀",
+        "onboard_time": 1727513060,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161605,
+        "num": 161605,
+        "word": "何超莲这个背不去拔罐可惜了",
+        "onboard_time": 1727528780,
+        "rank": 25,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 161168,
+        "num": 161168,
+        "word": "帕尔默半场大四喜",
+        "onboard_time": 1727535500,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 156979,
+        "num": 156979,
+        "word": "Kanye试听会",
+        "onboard_time": 1727526499,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 150387,
+        "num": 150387,
+        "word": "邓恩熙头纱出场",
+        "onboard_time": 1727536400,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143256,
+        "num": 143256,
+        "word": "付鹏与男子合影",
+        "onboard_time": 1727503458,
+        "rank": 29,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 254027,
+        "num": 141628,
+        "word": "戚薇本次时装周用空8罐发胶",
+        "onboard_time": 1727536161,
+        "rank": 30,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 175590,
+        "num": 141359,
+        "word": "喻言唱跳舞台",
+        "onboard_time": 1727536939,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 146079,
+        "num": 141231,
+        "word": "印度一校长勾结老师勒死11岁学生",
+        "onboard_time": 1727522359,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139862,
+        "num": 139862,
+        "word": "千万别把大拇脚趾头塞进手镯里",
+        "onboard_time": 1727536939,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 121385,
+        "num": 135554,
+        "word": "邓为被评为巴黎时装周最佳着装明星",
+        "onboard_time": 1727515398,
+        "rank": 34,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 426047,
+        "num": 135487,
+        "word": "网友称银行网点存10万只能取三千",
+        "onboard_time": 1727534600,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134961,
+        "num": 134961,
+        "word": "杨紫收到粉丝编织紫葡萄",
+        "onboard_time": 1727533041,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126339,
+        "num": 126339,
+        "word": "狗子摔出车厢被拖行主人心疼抹泪",
+        "onboard_time": 1727530040,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125813,
+        "num": 125813,
+        "word": "新能源车充电超时11分钟收费35元",
+        "onboard_time": 1727532021,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125795,
+        "num": 125795,
+        "word": "郑钦文跟唱奢香夫人",
+        "onboard_time": 1727533221,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121570,
+        "num": 121570,
+        "word": "众多年轻人涌进百元夜校",
+        "onboard_time": 1727533820,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121135,
+        "num": 121135,
+        "word": "唐宫奇案 白鹿",
+        "onboard_time": 1727522178,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120791,
+        "num": 120791,
+        "word": "李佳琦回应披荆斩棘淘汰",
+        "onboard_time": 1727513539,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118707,
+        "num": 118707,
+        "word": "朱一龙包场赵丽颖新电影",
+        "onboard_time": 1727519299,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 108757,
+        "num": 108757,
+        "word": "WTT晚宴",
+        "onboard_time": 1727527400,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108268,
+        "num": 108268,
+        "word": "张真源 地铁跑酷",
+        "onboard_time": 1727525240,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108011,
+        "num": 108011,
+        "word": "樊振东巴黎男单决赛前不敢看信息",
+        "onboard_time": 1727523260,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107511,
+        "num": 107511,
+        "word": "被中国航天出品的衣服种草了",
+        "onboard_time": 1727536639,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103343,
+        "num": 103343,
+        "word": "炉石传说 掉线",
+        "onboard_time": 1727535260,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 101188,
+        "num": 101188,
+        "word": "切尔西vs布莱顿",
+        "onboard_time": 1727535020,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#新时代中国产业工人的爱国心创造力#"
+    }
+  }
+}
