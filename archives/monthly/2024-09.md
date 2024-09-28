@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/09/01 00:25:38 ~ 2024/09/28 17:21:18
+本榜单时间：2024/09/01 00:25:38 ~ 2024/09/28 17:35:08
 </p>
 </blockquote>
 <p>
@@ -3315,6 +3315,12 @@ iPhone16配色（热度：1336689）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2377%E5%B2%81%E8%80%81%E5%A4%AA%E8%A2%AB%E9%87%8E%E7%8C%AA%E5%92%AC%E4%BC%A4%E6%8B%BF%E5%88%80%E5%8F%8D%E6%9D%80%23" target="weibo">
+77岁老太被野猪咬伤拿刀反杀（热度：1263477）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%B8%AA28%E5%B2%81%E5%A5%B3%E5%AD%A9%E5%81%87%E8%A3%85%E4%B8%8A%E7%8F%AD%E7%9A%84%E4%B8%A4%E5%B9%B4%23" target="weibo">
 一个28岁女孩假装上班的两年（热度：1262044）
 </a>
@@ -6005,12 +6011,6 @@ iPhone16史上最容易维修iPhone（热度：900387）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%88%B1%E7%8A%AC%E5%9C%A8%E5%B0%8F%E5%8C%BA%E8%A2%AB%E6%AF%92%E6%AD%BB%E6%8A%95%E6%AF%92%E9%82%BB%E5%B1%85%E8%A2%AB%E8%A1%8C%E6%8B%9812%E5%A4%A9%23" target="weibo">
 爱犬在小区被毒死投毒邻居被行拘12天（热度：884849）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%9C%E6%B1%9F%E6%8B%BF%E5%90%8D%E7%89%8C%E7%BA%B8%E8%AE%A9%E8%82%96%E6%88%98%E7%AD%BE%E5%90%8D%23" target="weibo">
-杜江拿名牌纸让肖战签名（热度：883681）
 </a>
 </li>
 
