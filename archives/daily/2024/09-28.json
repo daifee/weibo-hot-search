@@ -1,7 +1,15 @@
 {
   "startTime": 1727454453610,
-  "endTime": 1727512799645,
+  "endTime": 1727515278292,
   "band_list": [
+    {
+      "raw_hot": 2691799,
+      "num": 315073,
+      "word": "刑满释放人员举报服刑监狱",
+      "onboard_time": 1727511859,
+      "rank": 42,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 1632583,
       "num": 413662,
@@ -89,6 +97,14 @@
       "onboard_time": 1727484920,
       "rank": 0,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 875086,
+      "num": 201980,
+      "word": "77岁老太被野猪咬伤拿刀反杀",
+      "onboard_time": 1727513060,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 822718,
@@ -195,11 +211,27 @@
       "category": "军事"
     },
     {
+      "raw_hot": 571897,
+      "num": 213052,
+      "word": "李佳琦回应披荆斩棘淘汰",
+      "onboard_time": 1727513539,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 568642,
       "num": 568642,
       "word": "内塔尼亚胡先生请现在就停止战争",
       "onboard_time": 1727485278,
       "rank": 3,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 558545,
+      "num": 558545,
+      "word": "以色列",
+      "onboard_time": 1727511619,
+      "rank": 24,
       "category": "国外时政"
     },
     {
@@ -225,6 +257,14 @@
       "onboard_time": 1727488699,
       "rank": 6,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 491122,
+      "num": 491122,
+      "word": "陈楚生又拿第一了",
+      "onboard_time": 1727511559,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 483624,
@@ -339,6 +379,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 398456,
+      "num": 398456,
+      "word": "董宇辉建议不要妖魔化食品添加剂",
+      "onboard_time": 1727510419,
+      "rank": 25,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 392383,
       "num": 392383,
       "word": "青海一地有害气体中毒事件6人死亡",
@@ -353,6 +401,14 @@
       "onboard_time": 1727503640,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 383291,
+      "num": 208679,
+      "word": "专家称现在的A股像1996年的日本股市",
+      "onboard_time": 1727511739,
+      "rank": 35,
+      "category": "财经"
     },
     {
       "raw_hot": 379461,
@@ -393,14 +449,6 @@
       "onboard_time": 1727501538,
       "rank": 6,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 344541,
-      "num": 344541,
-      "word": "陈楚生又拿第一了",
-      "onboard_time": 1727511559,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 342774,
@@ -465,14 +513,6 @@
       "onboard_time": 1727482519,
       "rank": 12,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 315073,
-      "num": 315073,
-      "word": "刑满释放人员举报服刑监狱",
-      "onboard_time": 1727511859,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 315004,
@@ -577,14 +617,6 @@
       "onboard_time": 1727445320,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 264500,
-      "num": 264500,
-      "word": "以色列",
-      "onboard_time": 1727511619,
-      "rank": 24,
-      "category": "国外时政"
     },
     {
       "raw_hot": 262894,
@@ -692,7 +724,7 @@
     },
     {
       "raw_hot": 231531,
-      "num": 285182,
+      "num": 497778,
       "word": "我的宝藏家乡",
       "onboard_time": 1727508979,
       "rank": 9,
@@ -745,14 +777,6 @@
       "onboard_time": 1727489057,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 226337,
-      "num": 226337,
-      "word": "董宇辉建议不要妖魔化食品添加剂",
-      "onboard_time": 1727510419,
-      "rank": 25,
-      "category": "互联网"
     },
     {
       "raw_hot": 226160,
@@ -811,12 +835,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 205369,
-      "num": 181692,
-      "word": "专家称现在的A股像1996年的日本股市",
-      "onboard_time": 1727511739,
-      "rank": 35,
-      "category": "财经"
+      "raw_hot": 205181,
+      "num": 205181,
+      "word": "张远以为尤长靖参加偶练时才16岁",
+      "onboard_time": 1727514020,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 199584,
@@ -1059,12 +1083,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 156703,
+      "num": 156703,
+      "word": "专家建议提高个税起征点至8000元",
+      "onboard_time": 1727512099,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 155731,
       "num": 155731,
       "word": "部分客户已暂缓提前还贷",
       "onboard_time": 1727481617,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 155572,
+      "num": 159509,
+      "word": "刘学义 希望你们少白独立行走",
+      "onboard_time": 1727513297,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 155425,
@@ -1227,6 +1267,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 143312,
+      "num": 143312,
+      "word": "最近的青岛快乐要溢出来了",
+      "onboard_time": 1727514679,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 141556,
       "num": 141556,
       "word": "汪苏泷说650团综终于开录了",
@@ -1241,6 +1289,14 @@
       "onboard_time": 1727491699,
       "rank": 41,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 138037,
+      "num": 138037,
+      "word": "十七岁正是演高三生的年纪",
+      "onboard_time": 1727514738,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 137894,
@@ -1355,6 +1411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 129255,
+      "num": 129255,
+      "word": "PCL2024",
+      "onboard_time": 1727513900,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 127111,
       "num": 127111,
       "word": "翟志刚王亚平出镜登月服大片",
@@ -1369,6 +1433,14 @@
       "onboard_time": 1727491638,
       "rank": 42,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 126712,
+      "num": 126712,
+      "word": "董思成明月苍茫造型",
+      "onboard_time": 1727514738,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 126022,
@@ -1459,6 +1531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 120624,
+      "num": 120624,
+      "word": "灰烬称雨姐再次找中间人给他30万",
+      "onboard_time": 1727512879,
+      "rank": 41,
+      "category": "网红"
+    },
+    {
       "raw_hot": 119225,
       "num": 119225,
       "word": "存款利率或将再次下调",
@@ -1467,20 +1547,20 @@
       "category": "财经"
     },
     {
+      "raw_hot": 118852,
+      "num": 118852,
+      "word": "孙龙500米夺冠",
+      "onboard_time": 1727513178,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 118421,
       "num": 118421,
       "word": "孙颖莎亮相揭幕战",
       "onboard_time": 1727508378,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 118360,
-      "num": 118360,
-      "word": "专家建议提高个税起征点至8000元",
-      "onboard_time": 1727512099,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 117824,
@@ -1587,12 +1667,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 108673,
+      "num": 108673,
+      "word": "监狱内犯人被指违规赌博用手机",
+      "onboard_time": 1727512039,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 107186,
       "num": 107186,
       "word": "飓风席卷美国东南部致44死",
       "onboard_time": 1727507778,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 106141,
+      "num": 106141,
+      "word": "陈哲远梁洁还原白色橄榄树转圈名场面",
+      "onboard_time": 1727513479,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 105011,
@@ -1633,14 +1729,6 @@
       "onboard_time": 1727444179,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 101425,
-      "num": 101425,
-      "word": "监狱内犯人被指违规赌博用手机",
-      "onboard_time": 1727512039,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 100625,
@@ -1739,6 +1827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 88929,
+      "num": 204370,
+      "word": "曾梦雪哭戏",
+      "onboard_time": 1727514077,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 87302,
       "num": 87302,
       "word": "汪苏泷来过十万伏特你就定型了",
@@ -1747,12 +1843,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 84951,
+      "num": 219327,
+      "word": "离家十年我终于说出了过节不回家",
+      "onboard_time": 1727514020,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 83686,
       "num": 83686,
       "word": "凡希亚puppet木偶舞",
       "onboard_time": 1727452938,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 82718,
+      "num": 260654,
+      "word": "中国人的审美就是惊艳",
+      "onboard_time": 1727509819,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 79587,
@@ -1841,14 +1953,6 @@
       "onboard_time": 1727452818,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 73388,
-      "num": 260654,
-      "word": "中国人的审美就是惊艳",
-      "onboard_time": 1727509819,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 71746,
@@ -1956,7 +2060,7 @@
     },
     {
       "raw_hot": 51022,
-      "num": 151628,
+      "num": 213961,
       "word": "如何拥有一颗强大的心脏",
       "onboard_time": 1727511800,
       "rank": 49,
