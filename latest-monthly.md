@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/09/01 00:25:38 ~ 2024/09/28 18:38:39
+本榜单时间：2024/09/01 00:25:38 ~ 2024/09/28 19:18:38
 </p>
 </blockquote>
 <p>
@@ -1493,6 +1493,12 @@ Apple发布会（热度：2017612）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A0%AA%E6%B4%B2%E8%8A%A6%E6%B7%9E%E5%A4%A7%E6%A1%A5%E4%BA%8B%E6%95%85%E5%B7%B2%E8%87%B46%E6%AD%BB8%E4%BC%A4%23" target="weibo">
 株洲芦淞大桥事故已致6死8伤（热度：1777259）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%81%9C%E8%BD%A6%E8%B4%B91%E5%B0%8F%E6%97%B6200%E5%85%83%E8%BD%A6%E4%B8%BB%E8%B4%A8%E7%96%91%E5%A4%AA%E8%B4%B5%23" target="weibo">
+停车费1小时200元车主质疑太贵（热度：1776286）
 </a>
 </li>
 
@@ -3171,6 +3177,12 @@ iPhone16配色（热度：1336689）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E7%BB%B4%E5%A4%9A%E5%88%A9%E4%BA%9A%E6%B8%AF%E6%83%8A%E7%8E%B0%E6%B0%B4%E9%BE%99%E5%8D%B7%23" target="weibo">
+香港维多利亚港惊现水龙卷（热度：1288284）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A0%87%E9%94%99%E4%BB%B7%E6%A0%BC20%E5%88%86%E9%92%9F%E8%A2%AB%E8%96%857000%E4%B8%87%E5%85%83%23" target="weibo">
 标错价格20分钟被薅7000万元（热度：1287583）
 </a>
@@ -3629,12 +3641,6 @@ iOS18 丑（热度：1239435）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BE%9B%E5%B7%B4%E6%99%921%E4%BA%BF%E5%85%83%E8%BD%AC%E8%B4%A6%E5%8D%95%23" target="weibo">
 辛巴晒1亿元转账单（热度：1213013）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%81%9C%E8%BD%A6%E8%B4%B91%E5%B0%8F%E6%97%B6200%E5%85%83%E8%BD%A6%E4%B8%BB%E8%B4%A8%E7%96%91%E5%A4%AA%E8%B4%B5%23" target="weibo">
-停车费1小时200元车主质疑太贵（热度：1212681）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ iPhone16史上最容易维修iPhone（热度：900387）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E4%B8%80%E5%A4%A9%E5%AE%98%E5%AE%A3%E4%B8%A4%E9%83%A8%E5%A4%A7%E5%A5%B3%E4%B8%BB%E5%89%A7%23" target="weibo">
 赵露思一天官宣两部大女主剧（热度：886081）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%2320%E5%B2%81%E5%B0%8F%E4%BC%99%E5%8F%AA%E5%96%9D%E5%A5%B6%E8%8C%B6%E9%A5%AE%E6%96%99%E6%88%90%E7%89%9B%E5%A5%B6%E8%A1%80%23" target="weibo">
-20岁小伙只喝奶茶饮料成牛奶血（热度：885685）
 </a>
 </li>
 
