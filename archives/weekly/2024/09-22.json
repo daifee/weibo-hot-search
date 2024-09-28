@@ -1,6 +1,6 @@
 {
   "startTime": 1726936020707,
-  "endTime": 1727523312246,
+  "endTime": 1727527145871,
   "band_list": [
     {
       "raw_hot": 12357374,
@@ -1627,6 +1627,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 921206,
+      "num": 1147393,
+      "word": "黎真主党证实纳斯鲁拉死亡",
+      "onboard_time": 1727524401,
+      "rank": 0,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 920348,
       "num": 568456,
       "word": "王力宏李治廷同台",
@@ -2683,6 +2691,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 655458,
+      "num": 655458,
+      "word": "黎巴嫩证实其领导人纳斯鲁拉死亡",
+      "onboard_time": 1727525058,
+      "rank": 3,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 655275,
       "num": 279981,
       "word": "离家十年我终于说出了过节不回家",
@@ -2913,6 +2929,14 @@
       "onboard_time": 1727340259,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 612449,
+      "num": 244332,
+      "word": "唐宫奇案 白鹿",
+      "onboard_time": 1727522178,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 612434,
@@ -3449,6 +3473,14 @@
       "onboard_time": 1727488699,
       "rank": 6,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 532796,
+      "num": 532796,
+      "word": "樊振东巴黎男单决赛前不敢看信息",
+      "onboard_time": 1727523260,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 531312,
@@ -4667,6 +4699,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 399763,
+      "num": 230681,
+      "word": "张真源 地铁跑酷",
+      "onboard_time": 1727525240,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 399516,
       "num": 399516,
       "word": "以军大规模空袭黎巴嫩首都",
@@ -4721,6 +4761,14 @@
       "onboard_time": 1726930346,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 393446,
+      "num": 393446,
+      "word": "伊朗最高领袖发声",
+      "onboard_time": 1727520558,
+      "rank": 23,
+      "category": "国外时政"
     },
     {
       "raw_hot": 392662,
@@ -6027,6 +6075,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 307887,
+      "num": 186614,
+      "word": "印度一校长勾结老师勒死11岁学生",
+      "onboard_time": 1727522359,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 307494,
       "num": 307494,
       "word": "如鸢抢名字",
@@ -6891,14 +6947,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 264464,
-      "num": 264464,
-      "word": "伊朗最高领袖发声",
-      "onboard_time": 1727520558,
-      "rank": 23,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 264372,
       "num": 422288,
       "word": "张杰回应内娱演唱会劳模",
@@ -7459,14 +7507,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 244332,
-      "num": 244332,
-      "word": "唐宫奇案 白鹿",
-      "onboard_time": 1727522178,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 244309,
       "num": 244309,
       "word": "光夜拒绝黄赌毒",
@@ -7497,14 +7537,6 @@
       "onboard_time": 1727491278,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 242869,
-      "num": 186614,
-      "word": "印度一校长勾结老师勒死11岁学生",
-      "onboard_time": 1727522359,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 242794,
@@ -9651,6 +9683,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 197471,
+      "num": 197471,
+      "word": "王一博做饭糊了是锅不好",
+      "onboard_time": 1727526199,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 197360,
       "num": 197360,
       "word": "登陆少年内场饭拍",
@@ -9665,6 +9705,14 @@
       "onboard_time": 1727440039,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 197237,
+      "num": 234646,
+      "word": "王源上海巡演",
+      "onboard_time": 1727526321,
+      "rank": 13,
+      "category": "演出"
     },
     {
       "raw_hot": 197207,
@@ -11819,6 +11867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 168742,
+      "num": 168742,
+      "word": "Kanye试听会",
+      "onboard_time": 1727526499,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 168739,
       "num": 168739,
       "word": "披荆斩棘4四公",
@@ -12619,6 +12675,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 158714,
+      "num": 158714,
+      "word": "国庆朋友圈已经预制好了",
+      "onboard_time": 1727525959,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 158642,
       "num": 174757,
       "word": "王楚钦戴红色发带训练",
@@ -12873,6 +12937,14 @@
       "onboard_time": 1727068049,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 155091,
+      "num": 155091,
+      "word": "全国婚假最长的省份是哪个",
+      "onboard_time": 1727524818,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 154760,
@@ -13281,6 +13353,14 @@
       "onboard_time": 1727150480,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 149660,
+      "num": 149660,
+      "word": "郑钦文比赛爆满",
+      "onboard_time": 1727523380,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 149586,
@@ -14515,6 +14595,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 135613,
+      "num": 298491,
+      "word": "拉希莫娃摔拍",
+      "onboard_time": 1727526078,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 135576,
       "num": 229886,
       "word": "虞书欣一句话给翟潇闻整红温了",
@@ -14537,6 +14625,14 @@
       "onboard_time": 1727071829,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 135269,
+      "num": 135269,
+      "word": "中网",
+      "onboard_time": 1727352139,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 135165,
@@ -14907,6 +15003,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 131306,
+      "num": 131306,
+      "word": "北京大爷图鉴",
+      "onboard_time": 1727526257,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 131177,
       "num": 131177,
       "word": "黎巴嫩部队宣传视频或导致情报泄露",
@@ -14945,6 +15049,14 @@
       "onboard_time": 1727249478,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 130663,
+      "num": 188651,
+      "word": "蓝盈莹巴黎时装周梦回关芝芝",
+      "onboard_time": 1727526078,
+      "rank": 19,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 130549,
@@ -15827,14 +15939,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 120454,
-      "num": 120454,
-      "word": "中网",
-      "onboard_time": 1727352139,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 120428,
       "num": 120428,
       "word": "法院4.2元拍卖一瓶大雪碧已撤拍",
@@ -16161,6 +16265,14 @@
       "onboard_time": 1727309840,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 116284,
+      "num": 250941,
+      "word": "郑钦文8分钟拿下首局",
+      "onboard_time": 1727522778,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 116258,
@@ -16523,6 +16635,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 110740,
+      "num": 110740,
+      "word": "田曦薇哭戏共情力",
+      "onboard_time": 1727527040,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 110712,
       "num": 110712,
       "word": "林孝埈赛季首战",
@@ -16595,6 +16715,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 109072,
+      "num": 233849,
+      "word": "黎真主党誓言继续对抗以色列",
+      "onboard_time": 1727526859,
+      "rank": 14,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 108982,
       "num": 111057,
       "word": "郭麒麟新剧开机",
@@ -16640,14 +16768,6 @@
       "word": "罗德里 ACL",
       "onboard_time": 1727107638,
       "rank": 27,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 108476,
-      "num": 108476,
-      "word": "樊振东巴黎男单决赛前不敢看信息",
-      "onboard_time": 1727523260,
-      "rank": 48,
       "category": "体育"
     },
     {
@@ -16857,6 +16977,14 @@
       "onboard_time": 1727518579,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 102562,
+      "num": 136869,
+      "word": "izna初舞台",
+      "onboard_time": 1727525478,
+      "rank": 39,
+      "category": "音乐"
     },
     {
       "raw_hot": 102529,
@@ -20083,14 +20211,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 37531,
-      "num": 250941,
-      "word": "郑钦文8分钟拿下首局",
-      "onboard_time": 1727522778,
-      "rank": 18,
-      "category": "体育"
-    },
-    {
       "raw_hot": 37477,
       "num": 274042,
       "word": "男子轻信出国高薪务工被骗1.9万",
@@ -21961,6 +22081,14 @@
       "onboard_time": 1727298491,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 10276,
+      "num": 140211,
+      "word": "跑步让一部分人快乐起来",
+      "onboard_time": 1727525119,
+      "rank": 37,
+      "category": "运动健身"
     },
     {
       "raw_hot": 9787,

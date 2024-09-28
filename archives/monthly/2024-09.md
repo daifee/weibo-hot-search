@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/09/01 00:25:38 ~ 2024/09/28 19:35:12
+本榜单时间：2024/09/01 00:25:38 ~ 2024/09/28 20:39:05
 </p>
 </blockquote>
 <p>
@@ -5667,6 +5667,12 @@ Scout暂时无缘S14（热度：922133）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BB%8E%E7%9C%9F%E4%B8%BB%E5%85%9A%E8%AF%81%E5%AE%9E%E7%BA%B3%E6%96%AF%E9%B2%81%E6%8B%89%E6%AD%BB%E4%BA%A1%23" target="weibo">
+黎真主党证实纳斯鲁拉死亡（热度：921206）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%8A%9B%E5%AE%8F%E6%9D%8E%E6%B2%BB%E5%BB%B7%E5%90%8C%E5%8F%B0%23" target="weibo">
 王力宏李治廷同台（热度：920348）
 </a>
@@ -6005,12 +6011,6 @@ iPhone16史上最容易维修iPhone（热度：900387）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BE%B9%E7%89%A7%E8%AF%AF%E5%90%83%E8%91%A1%E8%90%84%E4%B8%8D%E5%81%9C%E5%96%9D%E6%B0%B4%E5%90%83%E8%8D%89%E8%A7%A3%E6%AF%92%23" target="weibo">
 边牧误吃葡萄不停喝水吃草解毒（热度：886538）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E5%8D%93%E9%A6%96%E5%BA%A6%E5%9B%9E%E5%BA%94%E6%8A%A5%E8%80%83%E5%8D%97%E5%B7%A5%E5%A4%A7%E5%8E%9F%E5%9B%A0%23" target="weibo">
-孙卓首度回应报考南工大原因（热度：886217）
 </a>
 </li>
 
