@@ -1,0 +1,410 @@
+{
+  "runTime": 1727562002755,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 171798,
+        "num": 362921,
+        "word": "大学生兼职泰山陪爬订单排到深秋",
+        "onboard_time": 1727555471,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100624,
+        "num": 100624,
+        "word": "韩国人用卷心菜娃娃菜代替大白菜",
+        "onboard_time": 1727528600,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2998,
+        "num": 99199,
+        "word": "喜欢国风的外国小姐姐解释华夏",
+        "onboard_time": 1727528960,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97961,
+        "num": 97961,
+        "word": "以威胁若伊朗客机降落将袭黎机场",
+        "onboard_time": 1727551452,
+        "rank": 3,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 2088,
+        "num": 91416,
+        "word": "这是75年来的青春之声",
+        "onboard_time": 1727529858,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 90940,
+        "num": 90940,
+        "word": "多种水果降价",
+        "onboard_time": 1727556492,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 90477,
+        "num": 90477,
+        "word": "伊朗最高领袖称以无法严重伤害真主党",
+        "onboard_time": 1727541676,
+        "rank": 6,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 67535,
+        "num": 88885,
+        "word": "黎真主党证实纳斯鲁拉死亡",
+        "onboard_time": 1727524401,
+        "rank": 7,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 37141,
+        "num": 86584,
+        "word": "喻言唱跳舞台",
+        "onboard_time": 1727536939,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 15048,
+        "num": 83089,
+        "word": "金钱至上观念与医院天职存在冲突",
+        "onboard_time": 1727561593,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242298,
+        "num": 80394,
+        "word": "青海有害气体中毒事件1家5口先后去世",
+        "onboard_time": 1727540236,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 91484,
+        "num": 79968,
+        "word": "秦岚 分手后我不会和前任做朋友",
+        "onboard_time": 1727527698,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 77491,
+        "num": 77491,
+        "word": "停车费1小时200元车主质疑太贵",
+        "onboard_time": 1727517858,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 72904,
+        "num": 72904,
+        "word": "千万别把大拇脚趾头塞进手镯里",
+        "onboard_time": 1727536939,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 62310,
+        "num": 62310,
+        "word": "阿根廷贫困率飙升至近53%",
+        "onboard_time": 1727555292,
+        "rank": 14,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 61848,
+        "num": 61848,
+        "word": "赵丽颖不敢对李红樱感同身受",
+        "onboard_time": 1727545513,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 57902,
+        "num": 57902,
+        "word": "游泳队告六人去陈奕迅演唱会",
+        "onboard_time": 1727531660,
+        "rank": 16,
+        "category": "体育,演出"
+      },
+      {
+        "raw_hot": 56262,
+        "num": 56262,
+        "word": "香港维多利亚港惊现水龙卷",
+        "onboard_time": 1727517258,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 55186,
+        "num": 55186,
+        "word": "以军称打死黎真主党领导人纳斯鲁拉",
+        "onboard_time": 1727511379,
+        "rank": 18,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 26788,
+        "num": 55128,
+        "word": "毛不易带着八杯酒的消愁回来了",
+        "onboard_time": 1727534780,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 82791,
+        "num": 54678,
+        "word": "离婚不离家可行吗",
+        "onboard_time": 1727538317,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 72165,
+        "num": 54405,
+        "word": "男孩按摩4次治驼背花近3万",
+        "onboard_time": 1727551032,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46046,
+        "num": 54196,
+        "word": "檀健次 减肥不是说减就减吗",
+        "onboard_time": 1727529021,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 44537,
+        "num": 53924,
+        "word": "戚薇本次时装周用空8罐发胶",
+        "onboard_time": 1727536161,
+        "rank": 23,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 41510,
+        "num": 53561,
+        "word": "李佳琦觉得自己不该被淘汰",
+        "onboard_time": 1727508498,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 40038,
+        "num": 53286,
+        "word": "经常喊累的人建议查查甲状腺",
+        "onboard_time": 1727544254,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 38529,
+        "num": 52840,
+        "word": "王楚钦做漆扇",
+        "onboard_time": 1727533581,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 35177,
+        "num": 52599,
+        "word": "沈月杨超越聊自己医美经历",
+        "onboard_time": 1727529021,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 34239,
+        "num": 52248,
+        "word": "青海有害气体中毒家属发声",
+        "onboard_time": 1727542516,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22914,
+        "num": 52065,
+        "word": "心动的信号7素人返场路透",
+        "onboard_time": 1727535800,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 51878,
+        "num": 51878,
+        "word": "男子听信美容偏方1月不洗脸满脸结痂",
+        "onboard_time": 1727534480,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 51664,
+        "num": 51664,
+        "word": "印度一校长勾结老师勒死11岁学生",
+        "onboard_time": 1727522359,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 44817,
+        "num": 51631,
+        "word": "南部战区部队时刻高度戒备",
+        "onboard_time": 1727541857,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33836,
+        "num": 51620,
+        "word": "国庆朋友圈已经预制好了",
+        "onboard_time": 1727525959,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 33021,
+        "num": 51565,
+        "word": "何超莲这个背不去拔罐可惜了",
+        "onboard_time": 1727528780,
+        "rank": 34,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 32230,
+        "num": 51537,
+        "word": "中国从来没有所谓垮掉的一代",
+        "onboard_time": 1727543535,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31381,
+        "num": 51494,
+        "word": "郑钦文中网开门红",
+        "onboard_time": 1727527219,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 30066,
+        "num": 51442,
+        "word": "登陆少年 清华",
+        "onboard_time": 1727521459,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 30001,
+        "num": 51403,
+        "word": "韩国大白菜紧缺",
+        "onboard_time": 1727535681,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19502,
+        "num": 51332,
+        "word": "Kanye试听会",
+        "onboard_time": 1727526499,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 28180,
+        "num": 51312,
+        "word": "潘展乐感谢陈奕迅邀请",
+        "onboard_time": 1727539638,
+        "rank": 40,
+        "category": "体育,演出"
+      },
+      {
+        "raw_hot": 27962,
+        "num": 51284,
+        "word": "内塔尼亚胡工作照曝光",
+        "onboard_time": 1727554272,
+        "rank": 41,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 27212,
+        "num": 51243,
+        "word": "登月服最动人的设计在手臂和背上",
+        "onboard_time": 1727545394,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25904,
+        "num": 51185,
+        "word": "十个勤天熟得让我有些害怕",
+        "onboard_time": 1727549414,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 15292,
+        "num": 51141,
+        "word": "没有1Tb的胃不敢去山东",
+        "onboard_time": 1727559671,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24602,
+        "num": 51094,
+        "word": "拜仁vs勒沃库森",
+        "onboard_time": 1727547312,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 22931,
+        "num": 51078,
+        "word": "中国登月服上满是中国元素",
+        "onboard_time": 1727554332,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22264,
+        "num": 51014,
+        "word": "徐德智称被点名时脑子一片空白",
+        "onboard_time": 1727547252,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 19676,
+        "num": 50967,
+        "word": "王俊凯平遥电影展特约策展人",
+        "onboard_time": 1727546231,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 22091,
+        "num": 50921,
+        "word": "以军发言人暗示对黎展开地面行动",
+        "onboard_time": 1727553552,
+        "rank": 49,
+        "category": "国外时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#新时代中国产业工人的爱国心创造力#"
+    }
+  }
+}
