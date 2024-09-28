@@ -1,0 +1,410 @@
+{
+  "runTime": 1727519919330,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 705748,
+        "num": 1112919,
+        "word": "香港维多利亚港惊现水龙卷",
+        "onboard_time": 1727517258,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 676096,
+        "num": 676096,
+        "word": "以军称打死黎真主党领导人纳斯鲁拉",
+        "onboard_time": 1727511379,
+        "rank": 1,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 24715,
+        "num": 657559,
+        "word": "我的宝藏家乡",
+        "onboard_time": 1727508979,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 641367,
+        "num": 641367,
+        "word": "邓为被评为巴黎时装周最佳着装明星",
+        "onboard_time": 1727515398,
+        "rank": 3,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 397344,
+        "num": 397344,
+        "word": "以色列",
+        "onboard_time": 1727511619,
+        "rank": 4,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 324480,
+        "num": 324480,
+        "word": "董宇辉建议不要妖魔化食品添加剂",
+        "onboard_time": 1727510419,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 287462,
+        "num": 287462,
+        "word": "陈楚生又拿第一了",
+        "onboard_time": 1727511559,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 276058,
+        "num": 276058,
+        "word": "朱一龙包场赵丽颖新电影",
+        "onboard_time": 1727519299,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1212681,
+        "num": 274208,
+        "word": "停车费1小时200元车主质疑太贵",
+        "onboard_time": 1727517858,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 64445,
+        "num": 270164,
+        "word": "沪市部分股票深夜成交",
+        "onboard_time": 1727518278,
+        "rank": 9,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 1689914,
+        "num": 265332,
+        "word": "刑满释放人员举报服刑监狱",
+        "onboard_time": 1727511859,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 655275,
+        "num": 262559,
+        "word": "离家十年我终于说出了过节不回家",
+        "onboard_time": 1727514020,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 580283,
+        "num": 259085,
+        "word": "付鹏与男子合影",
+        "onboard_time": 1727503458,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 77439,
+        "num": 255951,
+        "word": "郑钦文2024年中网首秀",
+        "onboard_time": 1727518579,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 484228,
+        "num": 254496,
+        "word": "伊朗最高领袖已被转移到安全地点",
+        "onboard_time": 1727517318,
+        "rank": 14,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 469758,
+        "num": 249903,
+        "word": "于正谈白鹿王星越合作唐宫",
+        "onboard_time": 1727518878,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 357323,
+        "num": 245558,
+        "word": "李佳琦回应披荆斩棘淘汰",
+        "onboard_time": 1727513539,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 348815,
+        "num": 240414,
+        "word": "21岁演员排练时发病送医后身亡",
+        "onboard_time": 1727506938,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240234,
+        "num": 240234,
+        "word": "监狱内犯人被指违规赌博用手机",
+        "onboard_time": 1727512039,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37644,
+        "num": 203099,
+        "word": "十一智驾游给祖国描个边",
+        "onboard_time": 1727518517,
+        "rank": 19,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 869116,
+        "num": 203071,
+        "word": "77岁老太被野猪咬伤拿刀反杀",
+        "onboard_time": 1727513060,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 520275,
+        "num": 203053,
+        "word": "李佳琦觉得自己不该被淘汰",
+        "onboard_time": 1727508498,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202781,
+        "num": 202781,
+        "word": "黎真主党领导人被打死意味着什么",
+        "onboard_time": 1727515579,
+        "rank": 22,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 201853,
+        "num": 201853,
+        "word": "亏损99.99%的股民重返战场",
+        "onboard_time": 1727516899,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 201446,
+        "num": 201446,
+        "word": "唐宫",
+        "onboard_time": 1727518939,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194522,
+        "num": 194522,
+        "word": "王俊凯来平遥吃了陈醋酸奶",
+        "onboard_time": 1727518939,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 186406,
+        "num": 186406,
+        "word": "左右为男 檀健次",
+        "onboard_time": 1727518700,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 180552,
+        "num": 180552,
+        "word": "专家称现在的A股像1996年的日本股市",
+        "onboard_time": 1727511739,
+        "rank": 27,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 164994,
+        "num": 177497,
+        "word": "王源上海巡演嘉宾是陈绮贞",
+        "onboard_time": 1727516238,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 149224,
+        "num": 176295,
+        "word": "丁禹兮邓恩熙对视氛围感",
+        "onboard_time": 1727518758,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176271,
+        "num": 176271,
+        "word": "当我被联合国秘书长介绍给中国外长",
+        "onboard_time": 1727518339,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 174787,
+        "num": 174787,
+        "word": "郑钦文vs拉希莫娃",
+        "onboard_time": 1727519359,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 174120,
+        "num": 174120,
+        "word": "东北雨姐夫妻实控约30家企业",
+        "onboard_time": 1727501958,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171241,
+        "num": 171241,
+        "word": "放假去韩国玩的人嘴真严",
+        "onboard_time": 1727509458,
+        "rank": 33,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 139916,
+        "num": 139916,
+        "word": "今晚好六有三个剧组",
+        "onboard_time": 1727519717,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132678,
+        "num": 139462,
+        "word": "刘学义上综艺跪着求上沈月了",
+        "onboard_time": 1727515279,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 53185,
+        "num": 139384,
+        "word": "杨幂恩利巴黎秀场合照",
+        "onboard_time": 1727518579,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 148983,
+        "num": 139372,
+        "word": "张远以为尤长靖参加偶练时才16岁",
+        "onboard_time": 1727514020,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139329,
+        "num": 139329,
+        "word": "范志毅多次拒绝王家卫拍繁花",
+        "onboard_time": 1727509040,
+        "rank": 38,
+        "category": "剧集,体育"
+      },
+      {
+        "raw_hot": 139107,
+        "num": 139107,
+        "word": "我的身份证上有你的名字",
+        "onboard_time": 1727503640,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128303,
+        "num": 128303,
+        "word": "十七岁正是演高三生的年纪",
+        "onboard_time": 1727514738,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126755,
+        "num": 126755,
+        "word": "于文文贝壳穿搭",
+        "onboard_time": 1727518878,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125785,
+        "num": 125785,
+        "word": "越来越多人开始对情绪旅游上头",
+        "onboard_time": 1727505858,
+        "rank": 42,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 122840,
+        "num": 122840,
+        "word": "第一批去养老院的90后已经后悔了",
+        "onboard_time": 1727496200,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119016,
+        "num": 119016,
+        "word": "金珉奎回应土豆塑",
+        "onboard_time": 1727516958,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112939,
+        "num": 112939,
+        "word": "青海一地有害气体中毒事件6人死亡",
+        "onboard_time": 1727509400,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107822,
+        "num": 107822,
+        "word": "王楚钦林高远精彩对练",
+        "onboard_time": 1727519658,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104413,
+        "num": 104413,
+        "word": "专家建议提高个税起征点至8000元",
+        "onboard_time": 1727512099,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103736,
+        "num": 103736,
+        "word": "韩安冉晒产后马甲线",
+        "onboard_time": 1727502378,
+        "rank": 48,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 98970,
+        "num": 98970,
+        "word": "青岛一索道被游客掉落拐杖别停",
+        "onboard_time": 1727517619,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记始终高度重视民族工作#"
+    }
+  }
+}

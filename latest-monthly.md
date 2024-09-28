@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/09/01 00:25:38 ~ 2024/09/28 18:21:05
+本榜单时间：2024/09/01 00:25:38 ~ 2024/09/28 18:38:39
 </p>
 </blockquote>
 <p>
@@ -3633,6 +3633,12 @@ iOS18 丑（热度：1239435）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%81%9C%E8%BD%A6%E8%B4%B91%E5%B0%8F%E6%97%B6200%E5%85%83%E8%BD%A6%E4%B8%BB%E8%B4%A8%E7%96%91%E5%A4%AA%E8%B4%B5%23" target="weibo">
+停车费1小时200元车主质疑太贵（热度：1212681）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BE%B7%E4%BA%91%E8%89%B2%E8%A7%A3%E6%95%A3%23" target="weibo">
 德云色解散（热度：1212394）
 </a>
@@ -6005,12 +6011,6 @@ iPhone16史上最容易维修iPhone（热度：900387）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2320%E5%B2%81%E5%B0%8F%E4%BC%99%E5%8F%AA%E5%96%9D%E5%A5%B6%E8%8C%B6%E9%A5%AE%E6%96%99%E6%88%90%E7%89%9B%E5%A5%B6%E8%A1%80%23" target="weibo">
 20岁小伙只喝奶茶饮料成牛奶血（热度：885685）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%88%B1%E7%8A%AC%E5%9C%A8%E5%B0%8F%E5%8C%BA%E8%A2%AB%E6%AF%92%E6%AD%BB%E6%8A%95%E6%AF%92%E9%82%BB%E5%B1%85%E8%A2%AB%E8%A1%8C%E6%8B%9812%E5%A4%A9%23" target="weibo">
-爱犬在小区被毒死投毒邻居被行拘12天（热度：884849）
 </a>
 </li>
 
