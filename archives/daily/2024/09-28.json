@@ -1,6 +1,6 @@
 {
   "startTime": 1727454453610,
-  "endTime": 1727505739808,
+  "endTime": 1727507956275,
   "band_list": [
     {
       "raw_hot": 1632583,
@@ -27,7 +27,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1311097,
+      "raw_hot": 1531045,
       "num": 313267,
       "word": "付鹏与男子合影",
       "onboard_time": 1727503458,
@@ -299,6 +299,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 376453,
+      "num": 376453,
+      "word": "起底东北雨姐的彪悍人生",
+      "onboard_time": 1727503818,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 372234,
       "num": 372234,
       "word": "王俊凯不参加749局路演",
@@ -337,6 +345,14 @@
       "onboard_time": 1727496980,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 339619,
+      "num": 339619,
+      "word": "我的身份证上有你的名字",
+      "onboard_time": 1727503640,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 338704,
@@ -451,6 +467,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 286102,
+      "num": 286102,
+      "word": "21岁演员排练时发病送医后身亡",
+      "onboard_time": 1727506938,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 282446,
       "num": 328613,
       "word": "爱胖达 光与夜之恋",
@@ -563,12 +587,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 239314,
-      "num": 239314,
-      "word": "我的身份证上有你的名字",
-      "onboard_time": 1727503640,
-      "rank": 27,
-      "category": "社会新闻"
+      "raw_hot": 236379,
+      "num": 236379,
+      "word": "林俊杰新歌",
+      "onboard_time": 1727506698,
+      "rank": 16,
+      "category": "演出"
     },
     {
       "raw_hot": 234040,
@@ -643,6 +667,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 218675,
+      "num": 218675,
+      "word": "小鹿 整容脸是天道酬勤",
+      "onboard_time": 1727504538,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 217076,
+      "num": 196946,
+      "word": "越来越多人开始对情绪旅游上头",
+      "onboard_time": 1727505858,
+      "rank": 21,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 211636,
       "num": 211636,
       "word": "发电厂海蜇泛滥员工已抓21万斤",
@@ -659,12 +699,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 202339,
-      "num": 202339,
-      "word": "小鹿 整容脸是天道酬勤",
-      "onboard_time": 1727504538,
-      "rank": 35,
-      "category": "综艺"
+      "raw_hot": 206433,
+      "num": 206433,
+      "word": "湾区升明月重播",
+      "onboard_time": 1727506819,
+      "rank": 18,
+      "category": "音乐"
     },
     {
       "raw_hot": 199584,
@@ -867,14 +907,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 157559,
-      "num": 224045,
-      "word": "起底东北雨姐的彪悍人生",
-      "onboard_time": 1727503818,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 156856,
       "num": 156856,
       "word": "没有他我们可能吃不上馒头",
@@ -1067,6 +1099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 136184,
+      "num": 136184,
+      "word": "陈哲远 四年前的回旋镖正中眉心",
+      "onboard_time": 1727506159,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 134909,
       "num": 134909,
       "word": "张凌赫 粤语是苏感开关",
@@ -1219,6 +1259,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 121729,
+      "num": 121729,
+      "word": "谢可寅拍照被虞书欣特训过",
+      "onboard_time": 1727504178,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 119225,
       "num": 119225,
       "word": "存款利率或将再次下调",
@@ -1275,20 +1323,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 113821,
-      "num": 113821,
-      "word": "谢可寅拍照被虞书欣特训过",
-      "onboard_time": 1727504178,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 113620,
       "num": 113620,
       "word": "炉石传说排队",
       "onboard_time": 1727497279,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 112505,
+      "num": 112505,
+      "word": "套内69平米的精致小家",
+      "onboard_time": 1727506938,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 111759,
@@ -1299,12 +1347,36 @@
       "category": "财经"
     },
     {
+      "raw_hot": 111319,
+      "num": 111319,
+      "word": "汪顺上海活动",
+      "onboard_time": 1727506399,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 108982,
       "num": 111057,
       "word": "郭麒麟新剧开机",
       "onboard_time": 1727503399,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 107889,
+      "num": 288215,
+      "word": "老人不管瘫痪老伴被诉辩称儿子出钱",
+      "onboard_time": 1727503219,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 107186,
+      "num": 107186,
+      "word": "飓风席卷美国东南部致44死",
+      "onboard_time": 1727507778,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 105011,
@@ -1321,6 +1393,22 @@
       "onboard_time": 1727483958,
       "rank": 28,
       "category": "电影,体育"
+    },
+    {
+      "raw_hot": 104669,
+      "num": 104669,
+      "word": "罗云熙刘雅瑟江奇霖3A脸",
+      "onboard_time": 1727507599,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 103477,
+      "num": 103477,
+      "word": "放假前在工位上的我",
+      "onboard_time": 1727505918,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 103230,
@@ -1353,6 +1441,14 @@
       "onboard_time": 1727494698,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 99072,
+      "num": 99072,
+      "word": "久哲夸黄俊捷的哪吒挡不住",
+      "onboard_time": 1727507838,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 97130,
@@ -1627,14 +1723,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 49282,
-      "num": 288215,
-      "word": "老人不管瘫痪老伴被诉辩称儿子出钱",
-      "onboard_time": 1727503219,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 47998,
       "num": 263483,
       "word": "西安八旬老太看牙却被全口拔牙",
@@ -1667,6 +1755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 41624,
+      "num": 143496,
+      "word": "大娃灰烬还原打假东北雨姐细节",
+      "onboard_time": 1727507118,
+      "rank": 29,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 40318,
       "num": 52768,
       "word": "蒋敦豪李昊把鹭卓摸了个遍",
@@ -1697,6 +1793,14 @@
       "onboard_time": 1727445681,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 36849,
+      "num": 128730,
+      "word": "张杰新歌原神经过",
+      "onboard_time": 1727507239,
+      "rank": 34,
+      "category": "音乐"
     },
     {
       "raw_hot": 36439,
@@ -1739,6 +1843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 29266,
+      "num": 198526,
+      "word": "朱珠一家逛环球影城",
+      "onboard_time": 1727507118,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 29166,
       "num": 282853,
       "word": "创业果园遭拆当事人称不会放弃维权",
@@ -1759,6 +1871,14 @@
       "num": 325486,
       "word": "创业板指创历史最大周涨幅纪录",
       "onboard_time": 1727503219,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 28772,
+      "num": 254741,
+      "word": "违法成本低滋长职业闭店人",
+      "onboard_time": 1727507118,
       "rank": 9,
       "category": "社会新闻"
     },
@@ -1809,6 +1929,14 @@
       "onboard_time": 1727488818,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 24058,
+      "num": 129513,
+      "word": "让我看看谁还不知道马自达EZ6",
+      "onboard_time": 1727506698,
+      "rank": 33,
+      "category": "汽车"
     },
     {
       "raw_hot": 21484,
@@ -1873,6 +2001,14 @@
       "onboard_time": 1727504899,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 12517,
+      "num": 389667,
+      "word": "中国广电精品创作大会",
+      "onboard_time": 1727499258,
+      "rank": 2,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

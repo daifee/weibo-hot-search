@@ -1,0 +1,410 @@
+{
+  "runTime": 1727507956275,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1042180,
+        "num": 1166748,
+        "word": "东北雨姐夫妻实控约30家企业",
+        "onboard_time": 1727501958,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 418861,
+        "num": 418861,
+        "word": "一念关山妆造",
+        "onboard_time": 1727499379,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 12517,
+        "num": 389667,
+        "word": "中国广电精品创作大会",
+        "onboard_time": 1727499258,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 376453,
+        "num": 376453,
+        "word": "起底东北雨姐的彪悍人生",
+        "onboard_time": 1727503818,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 339619,
+        "num": 339619,
+        "word": "我的身份证上有你的名字",
+        "onboard_time": 1727503640,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 289046,
+        "num": 289046,
+        "word": "A股大涨后第一批受益人出现了",
+        "onboard_time": 1727492058,
+        "rank": 5,
+        "category": "财经,其它"
+      },
+      {
+        "raw_hot": 286102,
+        "num": 286102,
+        "word": "21岁演员排练时发病送医后身亡",
+        "onboard_time": 1727506938,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 284779,
+        "num": 284779,
+        "word": "王俊凯不参加749局路演",
+        "onboard_time": 1727503038,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 255785,
+        "num": 255785,
+        "word": "中国登月服外观首次亮相",
+        "onboard_time": 1727488578,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 28772,
+        "num": 254741,
+        "word": "违法成本低滋长职业闭店人",
+        "onboard_time": 1727507118,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1531045,
+        "num": 252545,
+        "word": "付鹏与男子合影",
+        "onboard_time": 1727503458,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 548594,
+        "num": 251701,
+        "word": "第一批去养老院的90后已经后悔了",
+        "onboard_time": 1727496200,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 434184,
+        "num": 248640,
+        "word": "小S自曝感染霉浆菌",
+        "onboard_time": 1727502078,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 374198,
+        "num": 247483,
+        "word": "韩安冉晒产后马甲线",
+        "onboard_time": 1727502378,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 278665,
+        "num": 245492,
+        "word": "小孩因电梯故障被困徒手扒开门逃生",
+        "onboard_time": 1727492838,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243651,
+        "num": 243651,
+        "word": "央视新闻国庆定制MV心同此愿",
+        "onboard_time": 1727490017,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236379,
+        "num": 236379,
+        "word": "林俊杰新歌",
+        "onboard_time": 1727506698,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 218675,
+        "num": 218675,
+        "word": "小鹿 整容脸是天道酬勤",
+        "onboard_time": 1727504538,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 206433,
+        "num": 206433,
+        "word": "湾区升明月重播",
+        "onboard_time": 1727506819,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 29266,
+        "num": 198526,
+        "word": "朱珠一家逛环球影城",
+        "onboard_time": 1727507118,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 236350,
+        "num": 197364,
+        "word": "杨幂申敏儿小水巴黎时装周路透",
+        "onboard_time": 1727501538,
+        "rank": 20,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 217076,
+        "num": 196946,
+        "word": "越来越多人开始对情绪旅游上头",
+        "onboard_time": 1727505858,
+        "rank": 21,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 192015,
+        "num": 192015,
+        "word": "Kim请吃饭的漂亮姐姐",
+        "onboard_time": 1727502378,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169365,
+        "num": 169365,
+        "word": "杨笠最后一次参加脱口秀比赛类综艺",
+        "onboard_time": 1727498600,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164948,
+        "num": 164948,
+        "word": "食堂阿姨的消息比辅导员还灵通",
+        "onboard_time": 1727499978,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 149295,
+        "num": 149295,
+        "word": "给不批假的领导们拉了个群",
+        "onboard_time": 1727496980,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 149033,
+        "num": 149033,
+        "word": "给中国人自己的登月服起名",
+        "onboard_time": 1727488699,
+        "rank": 26,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 148876,
+        "num": 148876,
+        "word": "医院开工员工高喊先赚一个亿",
+        "onboard_time": 1727488040,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149552,
+        "num": 147733,
+        "word": "杨笠 不是敢说是不知道这个不能说",
+        "onboard_time": 1727504360,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 41624,
+        "num": 143496,
+        "word": "大娃灰烬还原打假东北雨姐细节",
+        "onboard_time": 1727507118,
+        "rank": 29,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 141370,
+        "num": 141370,
+        "word": "心同此愿",
+        "onboard_time": 1727489057,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136184,
+        "num": 136184,
+        "word": "陈哲远 四年前的回旋镖正中眉心",
+        "onboard_time": 1727506159,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131347,
+        "num": 131347,
+        "word": "章若楠刘诗诗撞造型",
+        "onboard_time": 1727487017,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24058,
+        "num": 129513,
+        "word": "让我看看谁还不知道马自达EZ6",
+        "onboard_time": 1727506698,
+        "rank": 33,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 36849,
+        "num": 128730,
+        "word": "张杰新歌原神经过",
+        "onboard_time": 1727507239,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 128679,
+        "num": 128679,
+        "word": "我们该如何保护隐私权",
+        "onboard_time": 1727494398,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128066,
+        "num": 128066,
+        "word": "杨紫素颜出发巴黎",
+        "onboard_time": 1727493619,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121729,
+        "num": 121729,
+        "word": "谢可寅拍照被虞书欣特训过",
+        "onboard_time": 1727504178,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118093,
+        "num": 118093,
+        "word": "湖南加入宝藏家乡群聊",
+        "onboard_time": 1727490739,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113875,
+        "num": 113875,
+        "word": "尤长靖四公第一",
+        "onboard_time": 1727498600,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112505,
+        "num": 112505,
+        "word": "套内69平米的精致小家",
+        "onboard_time": 1727506938,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 112211,
+        "num": 112211,
+        "word": "A股国庆节前还有一个交易日",
+        "onboard_time": 1727496319,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111319,
+        "num": 111319,
+        "word": "汪顺上海活动",
+        "onboard_time": 1727506399,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107889,
+        "num": 107889,
+        "word": "老人不管瘫痪老伴被诉辩称儿子出钱",
+        "onboard_time": 1727503219,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107780,
+        "num": 107780,
+        "word": "浙江安全转移不孕夫妇2万试管胚胎",
+        "onboard_time": 1727494879,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107186,
+        "num": 107186,
+        "word": "飓风席卷美国东南部致44死",
+        "onboard_time": 1727507778,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104669,
+        "num": 104669,
+        "word": "罗云熙刘雅瑟江奇霖3A脸",
+        "onboard_time": 1727507599,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103477,
+        "num": 103477,
+        "word": "放假前在工位上的我",
+        "onboard_time": 1727505918,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 99701,
+        "num": 99701,
+        "word": "你的股票回本了吗",
+        "onboard_time": 1727505018,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 99072,
+        "num": 99072,
+        "word": "久哲夸黄俊捷的哪吒挡不住",
+        "onboard_time": 1727507838,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#各族人民的共同名字是中国人#"
+    }
+  }
+}
