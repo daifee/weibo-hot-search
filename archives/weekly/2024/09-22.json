@@ -1,6 +1,6 @@
 {
   "startTime": 1726936020707,
-  "endTime": 1727537038836,
+  "endTime": 1727537904318,
   "band_list": [
     {
       "raw_hot": 12357374,
@@ -5339,6 +5339,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 360410,
+      "num": 286348,
+      "word": "男子听信美容偏方1月不洗脸满脸结痂",
+      "onboard_time": 1727534480,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 360325,
+      "num": 360325,
+      "word": "心动的信号7素人返场路透",
+      "onboard_time": 1727535800,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 360038,
       "num": 360038,
       "word": "张帅爆冷美网四强",
@@ -5865,14 +5881,6 @@
       "onboard_time": 1727496018,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 328689,
-      "num": 328689,
-      "word": "心动的信号7素人返场路透",
-      "onboard_time": 1727535800,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 328319,
@@ -6571,12 +6579,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 286348,
-      "num": 286348,
-      "word": "男子听信美容偏方1月不洗脸满脸结痂",
-      "onboard_time": 1727534480,
-      "rank": 16,
-      "category": "社会新闻"
+      "raw_hot": 285857,
+      "num": 242270,
+      "word": "戚薇本次时装周用空8罐发胶",
+      "onboard_time": 1727536161,
+      "rank": 30,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 285585,
@@ -7451,14 +7459,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 254027,
-      "num": 141628,
-      "word": "戚薇本次时装周用空8罐发胶",
-      "onboard_time": 1727536161,
-      "rank": 30,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 253598,
       "num": 253598,
       "word": "驻以使馆提醒中国公民尽快回国",
@@ -7841,6 +7841,14 @@
       "onboard_time": 1726982721,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 237993,
+      "num": 139862,
+      "word": "千万别把大拇脚趾头塞进手镯里",
+      "onboard_time": 1727536939,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 237612,
@@ -9249,6 +9257,14 @@
       "onboard_time": 1727405420,
       "rank": 40,
       "category": "财经"
+    },
+    {
+      "raw_hot": 204787,
+      "num": 204787,
+      "word": "喻言唱跳舞台",
+      "onboard_time": 1727536939,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 204774,
@@ -11641,14 +11657,6 @@
       "onboard_time": 1727426180,
       "rank": 42,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 175590,
-      "num": 141359,
-      "word": "喻言唱跳舞台",
-      "onboard_time": 1727536939,
-      "rank": 31,
-      "category": "演出"
     },
     {
       "raw_hot": 175566,
@@ -14603,14 +14611,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 139862,
-      "num": 139862,
-      "word": "千万别把大拇脚趾头塞进手镯里",
-      "onboard_time": 1727536939,
-      "rank": 33,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 139649,
       "num": 139649,
       "word": "预订酒店不可取消背后的帮退业务",
@@ -14985,6 +14985,14 @@
       "onboard_time": 1727440699,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 135461,
+      "num": 135461,
+      "word": "看见这幅画隔屏闻见吉林鱼香了",
+      "onboard_time": 1727537780,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 135290,
@@ -15697,6 +15705,14 @@
       "onboard_time": 1727396299,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 128429,
+      "num": 128429,
+      "word": "毛不易已经开始炫技了",
+      "onboard_time": 1727537839,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 128283,
@@ -17323,6 +17339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 104706,
+      "num": 322802,
+      "word": "韩国大白菜紧缺",
+      "onboard_time": 1727535681,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 104490,
       "num": 104490,
       "word": "黎真主党对以实施最远攻击",
@@ -17545,6 +17569,14 @@
       "onboard_time": 1727055378,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 98034,
+      "num": 98034,
+      "word": "刘浩存学院风",
+      "onboard_time": 1727537780,
+      "rank": 45,
+      "category": "电影"
     },
     {
       "raw_hot": 97654,
@@ -17928,14 +17960,6 @@
       "word": "老人离世老伴拿出6份遗嘱均被判无效",
       "onboard_time": 1726914980,
       "rank": 37,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 87784,
-      "num": 322802,
-      "word": "韩国大白菜紧缺",
-      "onboard_time": 1727535681,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -20948,7 +20972,7 @@
     },
     {
       "raw_hot": 34523,
-      "num": 358542,
+      "num": 360794,
       "word": "这是75年来的青春之声",
       "onboard_time": 1727529858,
       "rank": 9,
