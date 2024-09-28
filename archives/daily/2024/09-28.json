@@ -1,6 +1,6 @@
 {
   "startTime": 1727454453610,
-  "endTime": 1727504927653,
+  "endTime": 1727505739808,
   "band_list": [
     {
       "raw_hot": 1632583,
@@ -27,20 +27,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1010364,
-      "num": 1161658,
-      "word": "东北雨姐夫妻实控约30家企业",
-      "onboard_time": 1727501958,
-      "rank": 0,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1005402,
+      "raw_hot": 1311097,
       "num": 313267,
       "word": "付鹏与男子合影",
       "onboard_time": 1727503458,
       "rank": 11,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1123967,
+      "num": 1179834,
+      "word": "东北雨姐夫妻实控约30家企业",
+      "onboard_time": 1727501958,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 936765,
@@ -243,6 +243,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 442583,
+      "num": 274982,
+      "word": "小S自曝感染霉浆菌",
+      "onboard_time": 1727502078,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 437266,
       "num": 437266,
       "word": "张淇 破音",
@@ -283,6 +291,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 379461,
+      "num": 255501,
+      "word": "韩安冉晒产后马甲线",
+      "onboard_time": 1727502378,
+      "rank": 18,
+      "category": "网红"
+    },
+    {
       "raw_hot": 372234,
       "num": 372234,
       "word": "王俊凯不参加749局路演",
@@ -307,28 +323,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 364355,
-      "num": 274982,
-      "word": "小S自曝感染霉浆菌",
-      "onboard_time": 1727502078,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 361519,
       "num": 344590,
       "word": "杨幂申敏儿小水巴黎时装周路透",
       "onboard_time": 1727501538,
       "rank": 6,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 352431,
-      "num": 255501,
-      "word": "韩安冉晒产后马甲线",
-      "onboard_time": 1727502378,
-      "rank": 18,
-      "category": "网红"
     },
     {
       "raw_hot": 342774,
@@ -491,6 +491,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 261166,
+      "num": 243347,
+      "word": "食堂阿姨的消息比辅导员还灵通",
+      "onboard_time": 1727499978,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 254326,
       "num": 244805,
       "word": "孙颖莎获赠中国大满贯抽签筒",
@@ -539,14 +547,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 243347,
-      "num": 243347,
-      "word": "食堂阿姨的消息比辅导员还灵通",
-      "onboard_time": 1727499978,
-      "rank": 38,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 242930,
       "num": 278308,
       "word": "周深国庆暖心献唱祝福祖国",
@@ -561,6 +561,14 @@
       "onboard_time": 1727499018,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 239314,
+      "num": 239314,
+      "word": "我的身份证上有你的名字",
+      "onboard_time": 1727503640,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 234040,
@@ -648,6 +656,14 @@
       "word": "你好种地少年2观后感",
       "onboard_time": 1727499679,
       "rank": 16,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 202339,
+      "num": 202339,
+      "word": "小鹿 整容脸是天道酬勤",
+      "onboard_time": 1727504538,
+      "rank": 35,
       "category": "综艺"
     },
     {
@@ -803,14 +819,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 168969,
-      "num": 168969,
-      "word": "我的身份证上有你的名字",
-      "onboard_time": 1727503640,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 168485,
       "num": 168485,
       "word": "中国最没存在感的省会",
@@ -835,6 +843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 164154,
+      "num": 164154,
+      "word": "杨笠 不是敢说是不知道这个不能说",
+      "onboard_time": 1727504360,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 159774,
       "num": 156035,
       "word": "军训分为广西军训和其他军训",
@@ -851,12 +867,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 158105,
-      "num": 158105,
-      "word": "杨笠 不是敢说是不知道这个不能说",
-      "onboard_time": 1727504360,
-      "rank": 32,
-      "category": "综艺"
+      "raw_hot": 157559,
+      "num": 224045,
+      "word": "起底东北雨姐的彪悍人生",
+      "onboard_time": 1727503818,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 156856,
@@ -913,14 +929,6 @@
       "onboard_time": 1727451739,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 152234,
-      "num": 152234,
-      "word": "起底东北雨姐的彪悍人生",
-      "onboard_time": 1727503818,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 151040,
@@ -1059,14 +1067,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 136099,
-      "num": 136099,
-      "word": "小鹿 整容脸是天道酬勤",
-      "onboard_time": 1727504538,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 134909,
       "num": 134909,
       "word": "张凌赫 粤语是苏感开关",
@@ -1195,6 +1195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 123971,
+      "num": 123971,
+      "word": "夏目友人帐 初恋杀回来了",
+      "onboard_time": 1727502859,
+      "rank": 41,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 122021,
       "num": 122021,
       "word": "运20生产线上居然有钢铁侠",
@@ -1209,14 +1217,6 @@
       "onboard_time": 1727492479,
       "rank": 44,
       "category": "军事"
-    },
-    {
-      "raw_hot": 121156,
-      "num": 121156,
-      "word": "夏目友人帐 初恋杀回来了",
-      "onboard_time": 1727502859,
-      "rank": 41,
-      "category": "动漫"
     },
     {
       "raw_hot": 119225,
@@ -1289,6 +1289,14 @@
       "onboard_time": 1727497279,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 111759,
+      "num": 111759,
+      "word": "你的股票回本了吗",
+      "onboard_time": 1727505018,
+      "rank": 40,
+      "category": "财经"
     },
     {
       "raw_hot": 108982,
@@ -1369,6 +1377,14 @@
       "onboard_time": 1727433798,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 95294,
+      "num": 95294,
+      "word": "喜剧之王单口季评委",
+      "onboard_time": 1727505259,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 95044,
@@ -1643,6 +1659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 42291,
+      "num": 348210,
+      "word": "会唱歌的院子包甜的",
+      "onboard_time": 1727505379,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 40318,
       "num": 52768,
       "word": "蒋敦豪李昊把鹭卓摸了个遍",
@@ -1843,8 +1867,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 11470,
-      "num": 160834,
+      "raw_hot": 12760,
+      "num": 203560,
       "word": "只此青绿团队与山东签约",
       "onboard_time": 1727504899,
       "rank": 29,
