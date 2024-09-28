@@ -1,6 +1,6 @@
 {
   "startTime": 1727454453610,
-  "endTime": 1727522318086,
+  "endTime": 1727523312246,
   "band_list": [
     {
       "raw_hot": 2691799,
@@ -99,6 +99,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1115910,
+      "num": 265740,
+      "word": "登陆少年 清华",
+      "onboard_time": 1727521459,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 936765,
       "num": 952399,
       "word": "被教官体罚去世女孩父亲发声",
@@ -121,6 +129,14 @@
       "onboard_time": 1727484920,
       "rank": 0,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 840096,
+      "num": 255362,
+      "word": "恩利晒与杨幂合照",
+      "onboard_time": 1727522600,
+      "rank": 15,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 822718,
@@ -193,6 +209,14 @@
       "onboard_time": 1727515398,
       "rank": 6,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 627803,
+      "num": 441447,
+      "word": "朱一龙包场赵丽颖新电影",
+      "onboard_time": 1727519299,
+      "rank": 7,
+      "category": "电影"
     },
     {
       "raw_hot": 617424,
@@ -291,14 +315,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 536342,
-      "num": 383506,
-      "word": "朱一龙包场赵丽颖新电影",
-      "onboard_time": 1727519299,
-      "rank": 7,
-      "category": "电影"
-    },
-    {
       "raw_hot": 533513,
       "num": 533513,
       "word": "给中国人自己的登月服起名",
@@ -393,6 +409,14 @@
       "onboard_time": 1727502078,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 439714,
+      "num": 439714,
+      "word": "郑钦文vs拉希莫娃",
+      "onboard_time": 1727519359,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 437266,
@@ -531,14 +555,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 342041,
-      "num": 265740,
-      "word": "登陆少年 清华",
-      "onboard_time": 1727521459,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 338704,
       "num": 287778,
       "word": "赵丽颖蓝色水光长裙",
@@ -641,14 +657,6 @@
       "onboard_time": 1727494398,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 304232,
-      "num": 304232,
-      "word": "郑钦文vs拉希莫娃",
-      "onboard_time": 1727519359,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 299595,
@@ -803,12 +811,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 244332,
+      "num": 244332,
+      "word": "唐宫奇案 白鹿",
+      "onboard_time": 1727522178,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 242930,
       "num": 278308,
       "word": "周深国庆暖心献唱祝福祖国",
       "onboard_time": 1727491278,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 242869,
+      "num": 186614,
+      "word": "印度一校长勾结老师勒死11岁学生",
+      "onboard_time": 1727522359,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 240862,
@@ -920,6 +944,14 @@
       "word": "87套法拍房待拍卖仅1人报名",
       "onboard_time": 1727446040,
       "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 217555,
+      "num": 276493,
+      "word": "青岛一索道被游客掉落拐杖别停",
+      "onboard_time": 1727517619,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -1035,6 +1067,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 190387,
+      "num": 186349,
+      "word": "田曦薇周雨彤晒合照",
+      "onboard_time": 1727522479,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 190371,
       "num": 232983,
       "word": "卢昱晓手张力",
@@ -1059,12 +1099,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 189080,
+      "num": 280747,
+      "word": "靳东为郑钦文比赛挑边",
+      "onboard_time": 1727521278,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 187725,
       "num": 316507,
       "word": "胖子门窗瘦子门腔",
       "onboard_time": 1727499799,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 187140,
+      "num": 187140,
+      "word": "浴火之路",
+      "onboard_time": 1727522659,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 185711,
@@ -1097,6 +1153,14 @@
       "onboard_time": 1727443401,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 183266,
+      "num": 183266,
+      "word": "杨和苏 嘉宾开场",
+      "onboard_time": 1727522838,
+      "rank": 33,
+      "category": "演出"
     },
     {
       "raw_hot": 182645,
@@ -1132,7 +1196,7 @@
     },
     {
       "raw_hot": 176271,
-      "num": 286263,
+      "num": 359327,
       "word": "当我被联合国秘书长介绍给中国外长",
       "onboard_time": 1727518339,
       "rank": 36,
@@ -1177,14 +1241,6 @@
       "onboard_time": 1727475912,
       "rank": 38,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 168743,
-      "num": 276493,
-      "word": "青岛一索道被游客掉落拐杖别停",
-      "onboard_time": 1727517619,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 168485,
@@ -1275,6 +1331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 155921,
+      "num": 155921,
+      "word": "樊振东依旧想赢但不再怕输",
+      "onboard_time": 1727520799,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 155731,
       "num": 155731,
       "word": "部分客户已暂缓提前还贷",
@@ -1315,6 +1379,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 153421,
+      "num": 153421,
+      "word": "胡夏公开表白早安",
+      "onboard_time": 1727520020,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 153025,
       "num": 150571,
       "word": "曹杨香缇莫平票",
@@ -1345,6 +1417,14 @@
       "onboard_time": 1727445741,
       "rank": 24,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 150514,
+      "num": 150514,
+      "word": "武磊伤退",
+      "onboard_time": 1727522238,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 150078,
@@ -1427,6 +1507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 145966,
+      "num": 145966,
+      "word": "一切搅局南海的行动企图尽在掌握",
+      "onboard_time": 1727521818,
+      "rank": 37,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 145779,
       "num": 145779,
       "word": "罗云熙刘雅瑟江奇霖3A脸",
@@ -1483,6 +1571,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 140104,
+      "num": 147400,
+      "word": "舍不得星星",
+      "onboard_time": 1727522119,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 139649,
       "num": 139649,
       "word": "预订酒店不可取消背后的帮退业务",
@@ -1513,14 +1609,6 @@
       "onboard_time": 1727486659,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 136240,
-      "num": 280747,
-      "word": "靳东为郑钦文比赛挑边",
-      "onboard_time": 1727521278,
-      "rank": 12,
-      "category": "体育"
     },
     {
       "raw_hot": 136184,
@@ -1577,14 +1665,6 @@
       "onboard_time": 1727448260,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 132013,
-      "num": 132013,
-      "word": "一切搅局南海的行动企图尽在掌握",
-      "onboard_time": 1727521818,
-      "rank": 37,
-      "category": "国内时政"
     },
     {
       "raw_hot": 131164,
@@ -1739,14 +1819,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 123303,
-      "num": 123303,
-      "word": "胡夏公开表白早安",
-      "onboard_time": 1727520020,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 122393,
       "num": 122393,
       "word": "陈哲远梁洁还原白色橄榄树转圈名场面",
@@ -1803,6 +1875,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 117832,
+      "num": 117832,
+      "word": "曾黎的锁骨能养鱼",
+      "onboard_time": 1727522600,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 117824,
       "num": 117824,
       "word": "高校回应新生答错第一任校长名字被处分",
@@ -1816,14 +1896,6 @@
       "word": "范志毅愿意随时为中国足球效力",
       "onboard_time": 1727495299,
       "rank": 47,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 117526,
-      "num": 117526,
-      "word": "武磊伤退",
-      "onboard_time": 1727522238,
-      "rank": 41,
       "category": "体育"
     },
     {
@@ -1841,14 +1913,6 @@
       "onboard_time": 1727434100,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 116687,
-      "num": 116687,
-      "word": "樊振东依旧想赢但不再怕输",
-      "onboard_time": 1727520799,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 116642,
@@ -1915,14 +1979,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 112042,
-      "num": 149598,
-      "word": "唐宫奇案 白鹿",
-      "onboard_time": 1727522178,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 111759,
       "num": 111759,
       "word": "你的股票回本了吗",
@@ -1955,12 +2011,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 108476,
+      "num": 108476,
+      "word": "樊振东巴黎男单决赛前不敢看信息",
+      "onboard_time": 1727523260,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 107186,
       "num": 107186,
       "word": "飓风席卷美国东南部致44死",
       "onboard_time": 1727507778,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 106820,
+      "num": 106820,
+      "word": "解放军坚决挫败破坏地区和平稳定行径",
+      "onboard_time": 1727523198,
+      "rank": 49,
+      "category": "国内时政"
     },
     {
       "raw_hot": 105011,
@@ -2019,14 +2091,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 101472,
-      "num": 147400,
-      "word": "舍不得星星",
-      "onboard_time": 1727522119,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 100625,
       "num": 84774,
       "word": "女生盐水泡空心菜泡出长虫",
@@ -2036,7 +2100,7 @@
     },
     {
       "raw_hot": 99615,
-      "num": 99615,
+      "num": 258298,
       "word": "车主停车1小时被收200元停车费",
       "onboard_time": 1727520259,
       "rank": 49,
@@ -2275,6 +2339,14 @@
       "category": "综艺,体育"
     },
     {
+      "raw_hot": 70536,
+      "num": 276512,
+      "word": "投资小白要拿存款勇闯股市",
+      "onboard_time": 1727521219,
+      "rank": 14,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 69530,
       "num": 69530,
       "word": "11年糖友完全摆脱胰岛素注射",
@@ -2395,8 +2467,16 @@
       "category": "电影,体育"
     },
     {
+      "raw_hot": 44318,
+      "num": 285078,
+      "word": "专家解读为何网红主播频翻车",
+      "onboard_time": 1727521219,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 44025,
-      "num": 123330,
+      "num": 253303,
       "word": "你的国庆搭子city不city啊",
       "onboard_time": 1727521877,
       "rank": 39,
@@ -2425,14 +2505,6 @@
       "onboard_time": 1727507118,
       "rank": 29,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 41341,
-      "num": 276512,
-      "word": "投资小白要拿存款勇闯股市",
-      "onboard_time": 1727521219,
-      "rank": 14,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 40993,
@@ -2481,6 +2553,14 @@
       "onboard_time": 1727518517,
       "rank": 40,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 37531,
+      "num": 250941,
+      "word": "郑钦文8分钟拿下首局",
+      "onboard_time": 1727522778,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 36849,
@@ -2600,14 +2680,6 @@
       "word": "教育局回应昆山部分学校发霉变面包",
       "onboard_time": 1727468832,
       "rank": 20,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 24725,
-      "num": 285078,
-      "word": "专家解读为何网红主播频翻车",
-      "onboard_time": 1727521219,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -2743,6 +2815,9 @@
     },
     {
       "word": "#各族人民的共同名字是中国人#"
+    },
+    {
+      "word": "#习近平回信勉励中国一重产业工人代表#"
     }
   ]
 }
