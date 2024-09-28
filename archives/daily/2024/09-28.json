@@ -1,6 +1,6 @@
 {
   "startTime": 1727454453610,
-  "endTime": 1727498393889,
+  "endTime": 1727500815125,
   "band_list": [
     {
       "raw_hot": 1632583,
@@ -16,6 +16,14 @@
       "word": "小孩因电梯故障被困徒手扒开门逃生",
       "onboard_time": 1727492838,
       "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1561170,
+      "num": 810975,
+      "word": "第一批去养老院的90后已经后悔了",
+      "onboard_time": 1727496200,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -43,12 +51,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 810975,
-      "num": 810975,
-      "word": "第一批去养老院的90后已经后悔了",
-      "onboard_time": 1727496200,
-      "rank": 13,
-      "category": "社会新闻"
+      "raw_hot": 808582,
+      "num": 808582,
+      "word": "杨笠最后一次参加脱口秀比赛类综艺",
+      "onboard_time": 1727498600,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 801781,
@@ -259,12 +267,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 357083,
+      "num": 357083,
+      "word": "一念关山妆造",
+      "onboard_time": 1727499379,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 342774,
-      "num": 262636,
+      "num": 312721,
       "word": "给不批假的领导们拉了个群",
       "onboard_time": 1727496980,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 341733,
+      "num": 328918,
+      "word": "尤长靖四公第一",
+      "onboard_time": 1727498600,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 338704,
@@ -355,6 +379,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 305420,
+      "num": 305420,
+      "word": "我们该如何保护隐私权",
+      "onboard_time": 1727494398,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 299595,
       "num": 237316,
       "word": "警方回应女网红张悦疑坠楼身亡",
@@ -369,6 +401,14 @@
       "onboard_time": 1727451080,
       "rank": 14,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 282446,
+      "num": 328613,
+      "word": "爱胖达 光与夜之恋",
+      "onboard_time": 1727498899,
+      "rank": 8,
+      "category": "游戏"
     },
     {
       "raw_hot": 282289,
@@ -411,6 +451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 251793,
+      "num": 251793,
+      "word": "浙江安全转移不孕夫妇2万试管胚胎",
+      "onboard_time": 1727494879,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 251570,
       "num": 257240,
       "word": "还有3天国庆",
@@ -435,14 +483,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 244906,
-      "num": 244906,
-      "word": "浙江安全转移不孕夫妇2万试管胚胎",
-      "onboard_time": 1727494879,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 244805,
       "num": 244804,
       "word": "唐斯被交易到尼克斯",
@@ -457,6 +497,14 @@
       "onboard_time": 1727491278,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 240862,
+      "num": 240862,
+      "word": "阿如那淘汰",
+      "onboard_time": 1727499018,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 234040,
@@ -531,14 +579,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 208864,
-      "num": 208864,
-      "word": "我们该如何保护隐私权",
-      "onboard_time": 1727494398,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 199584,
       "num": 199584,
       "word": "周杰伦千山万水现场",
@@ -553,6 +593,14 @@
       "onboard_time": 1727498298,
       "rank": 17,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 192358,
+      "num": 192358,
+      "word": "LPL出征S14定妆照",
+      "onboard_time": 1727500039,
+      "rank": 29,
+      "category": "电竞"
     },
     {
       "raw_hot": 192267,
@@ -577,6 +625,14 @@
       "onboard_time": 1727436559,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 187725,
+      "num": 316507,
+      "word": "胖子门窗瘦子门腔",
+      "onboard_time": 1727499799,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 185711,
@@ -619,6 +675,22 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 180462,
+      "num": 418090,
+      "word": "A股国庆节前还有一个交易日",
+      "onboard_time": 1727496319,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 178504,
+      "num": 178504,
+      "word": "黎巴嫩真主党",
+      "onboard_time": 1727496319,
+      "rank": 38,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 176019,
       "num": 176019,
       "word": "原神",
@@ -633,6 +705,22 @@
       "onboard_time": 1727496738,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 170702,
+      "num": 327049,
+      "word": "你好种地少年2观后感",
+      "onboard_time": 1727499679,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 170189,
+      "num": 170189,
+      "word": "前华人首富出狱",
+      "onboard_time": 1727497460,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 169799,
@@ -659,20 +747,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 163642,
-      "num": 163642,
-      "word": "前华人首富出狱",
-      "onboard_time": 1727497460,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 159774,
       "num": 156035,
       "word": "军训分为广西军训和其他军训",
       "onboard_time": 1727488578,
       "rank": 31,
       "category": "军事"
+    },
+    {
+      "raw_hot": 159158,
+      "num": 159158,
+      "word": "食堂阿姨的消息比辅导员还灵通",
+      "onboard_time": 1727499978,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 158453,
@@ -691,20 +779,36 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 156178,
-      "num": 156178,
-      "word": "黎巴嫩真主党",
-      "onboard_time": 1727496319,
-      "rank": 38,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 155731,
       "num": 155731,
       "word": "部分客户已暂缓提前还贷",
       "onboard_time": 1727481617,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 155425,
+      "num": 155425,
+      "word": "燕窝好听",
+      "onboard_time": 1727500039,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 155397,
+      "num": 155397,
+      "word": "流行舞台好帅",
+      "onboard_time": 1727500159,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 155020,
+      "num": 163815,
+      "word": "749局",
+      "onboard_time": 1727499500,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 154760,
@@ -851,6 +955,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 134909,
+      "num": 134909,
+      "word": "张凌赫 粤语是苏感开关",
+      "onboard_time": 1727498719,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 134484,
+      "num": 284096,
+      "word": "蒋梦婕黄黑皮",
+      "onboard_time": 1727497579,
+      "rank": 16,
+      "category": "电影"
+    },
+    {
       "raw_hot": 134006,
       "num": 134006,
       "word": "中国登月服太酷啦",
@@ -945,6 +1065,14 @@
       "onboard_time": 1727452399,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 124064,
+      "num": 124064,
+      "word": "里斯本丸沉没代表中国内地角逐奥斯卡",
+      "onboard_time": 1727500758,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 121858,
@@ -1075,28 +1203,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 94446,
-      "num": 284096,
-      "word": "蒋梦婕黄黑皮",
-      "onboard_time": 1727497579,
-      "rank": 16,
-      "category": "电影"
-    },
-    {
       "raw_hot": 94399,
       "num": 94399,
       "word": "拳头取消Yagao替补资格",
       "onboard_time": 1727478975,
       "rank": 32,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 91034,
-      "num": 418090,
-      "word": "A股国庆节前还有一个交易日",
-      "onboard_time": 1727496319,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 90627,
@@ -1315,6 +1427,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 52811,
+      "num": 328184,
+      "word": "原神四周年",
+      "onboard_time": 1727499799,
+      "rank": 10,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 47998,
       "num": 263483,
       "word": "西安八旬老太看牙却被全口拔牙",
@@ -1379,12 +1499,20 @@
       "category": "综艺,电竞"
     },
     {
-      "raw_hot": 29571,
+      "raw_hot": 35670,
       "num": 412955,
       "word": "赵今麦超能科学少女",
       "onboard_time": 1727495719,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 30515,
+      "num": 328465,
+      "word": "揭秘AI生图五大乱象",
+      "onboard_time": 1727499619,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 29166,
@@ -1432,6 +1560,14 @@
       "word": "教育局回应昆山部分学校发霉变面包",
       "onboard_time": 1727468832,
       "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 25638,
+      "num": 578570,
+      "word": "东方白鹳宝宝带你探秘东营黄河口",
+      "onboard_time": 1727499619,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -1513,6 +1649,9 @@
     },
     {
       "word": "#全国民族团结进步表彰大会#"
+    },
+    {
+      "word": "#习近平总书记始终高度重视民族工作#"
     }
   ]
 }
