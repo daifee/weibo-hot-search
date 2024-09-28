@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/09/01 00:25:38 ~ 2024/09/28 15:35:33
+本榜单时间：2024/09/01 00:25:38 ~ 2024/09/28 16:26:37
 </p>
 </blockquote>
 <p>
@@ -3057,6 +3057,12 @@ iPhone16配色（热度：1336689）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2321%E5%B2%81%E6%BC%94%E5%91%98%E6%8E%92%E7%BB%83%E6%97%B6%E5%8F%91%E7%97%85%E9%80%81%E5%8C%BB%E5%90%8E%E8%BA%AB%E4%BA%A1%23" target="weibo">
+21岁演员排练时发病送医后身亡（热度：1317210）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B9%B3%E6%B1%9F%E8%B7%AF%23" target="weibo">
 平江路（热度：1316215）
 </a>
@@ -3951,12 +3957,6 @@ A股（热度：1203633）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%2321%E5%B2%81%E6%BC%94%E5%91%98%E6%8E%92%E7%BB%83%E6%97%B6%E5%8F%91%E7%97%85%E9%80%81%E5%8C%BB%E5%90%8E%E8%BA%AB%E4%BA%A1%23" target="weibo">
-21岁演员排练时发病送医后身亡（热度：1149819）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%A4%E5%91%B3%E4%B8%89%E5%B7%A8%E5%A4%B4%E4%B8%BA%E4%BB%80%E4%B9%88%E5%A4%B1%E5%AE%A0%23" target="weibo">
 卤味三巨头为什么失宠（热度：1147858）
 </a>
@@ -4485,6 +4485,12 @@ NewJeans被HYBE其他艺人团队排挤（热度：1130540）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%BD%B3%E7%90%A6%E8%A7%89%E5%BE%97%E8%87%AA%E5%B7%B1%E4%B8%8D%E8%AF%A5%E8%A2%AB%E6%B7%98%E6%B1%B0%23" target="weibo">
+李佳琦觉得自己不该被淘汰（热度：1066707）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E5%90%83%E7%B2%89%E7%9B%91%E6%8E%A7%E7%94%BB%E9%9D%A2%E8%A2%AB%E5%BA%97%E4%B8%BB%E5%8F%91%E7%BE%A4%E8%81%8A%E5%BC%80%E9%BB%84%E8%85%94%23" target="weibo">
 女生吃粉监控画面被店主发群聊开黄腔（热度：1066689）
 </a>
@@ -4847,6 +4853,12 @@ iPhone16ProMax秒没（热度：1053938）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9F%A5%E9%81%93%E8%9E%83%E8%9F%B9%E4%B8%BA%E5%95%A5%E8%A6%81%E7%BB%91%E7%9D%80%E8%92%B8%E4%BA%86%23" target="weibo">
 知道螃蟹为啥要绑着蒸了（热度：1018385）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BB%A5%E5%86%9B%E7%A7%B0%E6%89%93%E6%AD%BB%E9%BB%8E%E7%9C%9F%E4%B8%BB%E5%85%9A%E9%A2%86%E5%AF%BC%E4%BA%BA%E7%BA%B3%E6%96%AF%E9%B2%81%E6%8B%89%23" target="weibo">
+以军称打死黎真主党领导人纳斯鲁拉（热度：1016292）
 </a>
 </li>
 
@@ -5475,6 +5487,12 @@ WTT（热度：971085）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8C%83%E5%BF%97%E6%AF%85%E5%A4%9A%E6%AC%A1%E6%8B%92%E7%BB%9D%E7%8E%8B%E5%AE%B6%E5%8D%AB%E6%8B%8D%E7%B9%81%E8%8A%B1%23" target="weibo">
+范志毅多次拒绝王家卫拍繁花（热度：930046）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%AD%A6%E9%A3%9F%E5%A0%8215%E5%85%83%E9%85%8D%E8%8F%9C%E5%8F%AA%E6%9C%89%E7%B1%B3%E9%A5%AD%E5%92%8C%E4%B8%B8%E5%AD%90%23" target="weibo">
 中学食堂15元配菜只有米饭和丸子（热度：929855）
 </a>
@@ -5993,24 +6011,6 @@ iPhone16史上最容易维修iPhone（热度：900387）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E5%BB%BA%E8%AE%AE%E6%89%80%E6%9C%89%E7%9A%84%E5%9F%8E%E9%95%87%E6%88%BF%E5%B1%8B%E9%83%BD%E5%BA%94%E8%AF%A5%E4%BA%A4%E7%A8%8E%23" target="weibo">
 专家建议所有的城镇房屋都应该交税（热度：883443）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E7%94%9F%E6%97%A5%E5%8F%91%E5%8D%9A%23" target="weibo">
-杨幂生日发博（热度：883337）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E9%94%90%E4%B8%BA%E8%B5%B5%E9%9C%B2%E6%80%9D%E5%8F%91%E5%A3%B0%23" target="weibo">
-马锐为赵露思发声（热度：882875）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E4%B8%87%20%E4%B8%8B%E8%AF%BE%23" target="weibo">
-伊万 下课（热度：882279）
 </a>
 </li>
 

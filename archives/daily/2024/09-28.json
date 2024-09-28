@@ -1,6 +1,6 @@
 {
   "startTime": 1727454453610,
-  "endTime": 1727508933273,
+  "endTime": 1727511997675,
   "band_list": [
     {
       "raw_hot": 1632583,
@@ -35,7 +35,7 @@
       "category": "网红"
     },
     {
-      "raw_hot": 1149819,
+      "raw_hot": 1317210,
       "num": 1183971,
       "word": "21岁演员排练时发病送医后身亡",
       "onboard_time": 1727506938,
@@ -51,12 +51,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1066707,
+      "num": 1170673,
+      "word": "李佳琦觉得自己不该被淘汰",
+      "onboard_time": 1727508498,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1016292,
+      "num": 1016292,
+      "word": "以军称打死黎真主党领导人纳斯鲁拉",
+      "onboard_time": 1727511379,
+      "rank": 1,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 936765,
       "num": 952399,
       "word": "被教官体罚去世女孩父亲发声",
       "onboard_time": 1727463192,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 930046,
+      "num": 930046,
+      "word": "范志毅多次拒绝王家卫拍繁花",
+      "onboard_time": 1727509040,
+      "rank": 3,
+      "category": "剧集,体育"
     },
     {
       "raw_hot": 886721,
@@ -275,6 +299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 426870,
+      "num": 394200,
+      "word": "小鹿 整容脸是天道酬勤",
+      "onboard_time": 1727504538,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 418452,
       "num": 263123,
       "word": "新郎新娘举办着各自想要的婚礼",
@@ -307,12 +339,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 394200,
-      "num": 394200,
-      "word": "小鹿 整容脸是天道酬勤",
-      "onboard_time": 1727504538,
-      "rank": 35,
-      "category": "综艺"
+      "raw_hot": 392383,
+      "num": 392383,
+      "word": "青海一地有害气体中毒事件6人死亡",
+      "onboard_time": 1727509400,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 392322,
@@ -507,6 +539,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 274675,
+      "num": 222091,
+      "word": "放假去韩国玩的人嘴真严",
+      "onboard_time": 1727509458,
+      "rank": 20,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 274054,
       "num": 223047,
       "word": "刚出生宝宝遭隐翅虫攻击致头部感染",
@@ -675,6 +715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 224381,
+      "num": 224381,
+      "word": "梁龙人生最委屈的事是参加歌手",
+      "onboard_time": 1727511379,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 218916,
       "num": 218916,
       "word": "87套法拍房待拍卖仅1人报名",
@@ -691,6 +739,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 210707,
+      "num": 210707,
+      "word": "汪涵50岁正是爱炫耀的年纪",
+      "onboard_time": 1727511020,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 209177,
+      "num": 209177,
+      "word": "以色列",
+      "onboard_time": 1727511619,
+      "rank": 24,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 208152,
       "num": 327049,
       "word": "你好种地少年2观后感",
@@ -705,6 +769,14 @@
       "onboard_time": 1727506819,
       "rank": 18,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 202922,
+      "num": 202922,
+      "word": "董宇辉建议不要妖魔化食品添加剂",
+      "onboard_time": 1727510419,
+      "rank": 25,
+      "category": "互联网"
     },
     {
       "raw_hot": 199584,
@@ -729,6 +801,14 @@
       "onboard_time": 1727498298,
       "rank": 17,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 194710,
+      "num": 194710,
+      "word": "陈楚生又拿第一了",
+      "onboard_time": 1727511559,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 192358,
@@ -777,6 +857,14 @@
       "onboard_time": 1727499799,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 187156,
+      "num": 285182,
+      "word": "我的宝藏家乡",
+      "onboard_time": 1727508979,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 185711,
@@ -833,6 +921,14 @@
       "onboard_time": 1727496319,
       "rank": 38,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 177555,
+      "num": 177555,
+      "word": "套内69平米的精致小家",
+      "onboard_time": 1727506938,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 176019,
@@ -912,6 +1008,14 @@
       "word": "曹杨唱如果你也听说",
       "onboard_time": 1727453239,
       "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 158388,
+      "num": 185991,
+      "word": "半熟男女 复婚签婚姻忠诚协议",
+      "onboard_time": 1727511079,
+      "rank": 28,
       "category": "综艺"
     },
     {
@@ -1043,14 +1147,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 147878,
-      "num": 141200,
-      "word": "套内69平米的精致小家",
-      "onboard_time": 1727506938,
-      "rank": 40,
-      "category": "情感"
-    },
-    {
       "raw_hot": 146774,
       "num": 146774,
       "word": "披荆斩棘的哥哥",
@@ -1105,6 +1201,14 @@
       "onboard_time": 1727491699,
       "rank": 41,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 141072,
+      "num": 141072,
+      "word": "专家建议普通人买基金或者ETF",
+      "onboard_time": 1727509458,
+      "rank": 33,
+      "category": "财经"
     },
     {
       "raw_hot": 137894,
@@ -1219,6 +1323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 127479,
+      "num": 127479,
+      "word": "专家称现在的A股像1996年的日本股市",
+      "onboard_time": 1727511739,
+      "rank": 35,
+      "category": "财经"
+    },
+    {
       "raw_hot": 127111,
       "num": 127111,
       "word": "翟志刚王亚平出镜登月服大片",
@@ -1281,6 +1393,14 @@
       "onboard_time": 1727502859,
       "rank": 41,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 122910,
+      "num": 289205,
+      "word": "以军称黎巴嫩真主党领导人死亡",
+      "onboard_time": 1727511679,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 122021,
@@ -1355,6 +1475,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 116098,
+      "num": 116098,
+      "word": "喜人上恋综了",
+      "onboard_time": 1727509699,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 116091,
       "num": 116091,
       "word": "符龙飞舞剑",
@@ -1363,12 +1491,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 115012,
+      "num": 114566,
+      "word": "黄子弘凡巡演官宣",
+      "onboard_time": 1727509940,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 114541,
+      "num": 114541,
+      "word": "孙颖莎亮相揭幕战",
+      "onboard_time": 1727508378,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 113939,
       "num": 113939,
       "word": "十个勤天 群像的魅力",
       "onboard_time": 1727508320,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 113904,
+      "num": 113904,
+      "word": "刑满释放人员举报服刑监狱",
+      "onboard_time": 1727511859,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 113620,
@@ -1392,14 +1544,6 @@
       "word": "汪顺上海活动",
       "onboard_time": 1727506399,
       "rank": 42,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 111096,
-      "num": 111096,
-      "word": "孙颖莎亮相揭幕战",
-      "onboard_time": 1727508378,
-      "rank": 40,
       "category": "体育"
     },
     {
@@ -1459,12 +1603,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 102393,
+      "num": 114592,
+      "word": "预订酒店不可取消背后的帮退业务",
+      "onboard_time": 1727510419,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 100625,
       "num": 84774,
       "word": "女生盐水泡空心菜泡出长虫",
       "onboard_time": 1727465532,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 99444,
+      "num": 99444,
+      "word": "以总理被曝在纽约酒店房间授权空袭",
+      "onboard_time": 1727511920,
+      "rank": 47,
+      "category": "国外时政"
     },
     {
       "raw_hot": 99237,
@@ -1683,6 +1843,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 68276,
+      "num": 261086,
+      "word": "梵高向日葵又遭泼汤",
+      "onboard_time": 1727510419,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 68216,
       "num": 68216,
       "word": "和叶太甜了吧",
@@ -1777,6 +1945,14 @@
       "onboard_time": 1727502678,
       "rank": 22,
       "category": "电影,体育"
+    },
+    {
+      "raw_hot": 43117,
+      "num": 96911,
+      "word": "如何拥有一颗强大的心脏",
+      "onboard_time": 1727511800,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 43070,
@@ -1883,6 +2059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 29730,
+      "num": 948049,
+      "word": "候鸟环球迁徙记",
+      "onboard_time": 1727511319,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 29266,
       "num": 198526,
       "word": "朱珠一家逛环球影城",
@@ -1921,14 +2105,6 @@
       "onboard_time": 1727432419,
       "rank": 44,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 27929,
-      "num": 238332,
-      "word": "李佳琦觉得自己不该被淘汰",
-      "onboard_time": 1727508498,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 26771,
