@@ -1,6 +1,6 @@
 {
   "startTime": 1727540758074,
-  "endTime": 1727544934888,
+  "endTime": 1727548061411,
   "band_list": [
     {
       "raw_hot": 512390,
@@ -299,6 +299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 95152,
+      "num": 54742,
+      "word": "赵丽颖不敢对李红樱感同身受",
+      "onboard_time": 1727545513,
+      "rank": 12,
+      "category": "电影"
+    },
+    {
       "raw_hot": 87211,
       "num": 157333,
       "word": "唐宫奇案 白鹿",
@@ -411,6 +419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 60199,
+      "num": 60199,
+      "word": "拜仁vs勒沃库森",
+      "onboard_time": 1727547312,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 59055,
       "num": 157250,
       "word": "郑钦文vs拉希莫娃",
@@ -443,6 +459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 40773,
+      "num": 158192,
+      "word": "中国从来没有所谓垮掉的一代",
+      "onboard_time": 1727543535,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 40611,
       "num": 143062,
       "word": "经常喊累的人建议查查甲状腺",
@@ -451,12 +475,44 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 27827,
-      "num": 158192,
-      "word": "中国从来没有所谓垮掉的一代",
-      "onboard_time": 1727543535,
-      "rank": 12,
+      "raw_hot": 36876,
+      "num": 51101,
+      "word": "毛不易只在今夜上海演唱会",
+      "onboard_time": 1727546893,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 33012,
+      "num": 51085,
+      "word": "雪一下任嘉伦的宿命感就来了",
+      "onboard_time": 1727545992,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 28564,
+      "num": 49526,
+      "word": "登月服最动人的设计在手臂和背上",
+      "onboard_time": 1727545394,
+      "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 21786,
+      "num": 51121,
+      "word": "徐德智称被点名时脑子一片空白",
+      "onboard_time": 1727547252,
+      "rank": 24,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 19278,
+      "num": 51156,
+      "word": "徐德智谈被古特雷斯向王毅会长介绍",
+      "onboard_time": 1727547912,
+      "rank": 19,
+      "category": "国内时政"
     },
     {
       "raw_hot": 14400,
