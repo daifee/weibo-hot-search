@@ -1,7 +1,15 @@
 {
   "startTime": 1727454453610,
-  "endTime": 1727488663294,
+  "endTime": 1727491867409,
   "band_list": [
+    {
+      "raw_hot": 1632583,
+      "num": 399434,
+      "word": "医院开工员工高喊先赚一个亿",
+      "onboard_time": 1727488040,
+      "rank": 12,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 936765,
       "num": 952399,
@@ -20,7 +28,7 @@
     },
     {
       "raw_hot": 801781,
-      "num": 291045,
+      "num": 351685,
       "word": "舅舅借外甥女900万不肯还",
       "onboard_time": 1727444301,
       "rank": 10,
@@ -44,7 +52,7 @@
     },
     {
       "raw_hot": 638973,
-      "num": 638973,
+      "num": 1091424,
       "word": "章若楠刘诗诗撞造型",
       "onboard_time": 1727487017,
       "rank": 13,
@@ -131,11 +139,59 @@
       "category": "电影"
     },
     {
+      "raw_hot": 408583,
+      "num": 231750,
+      "word": "新郎新娘举办着各自想要的婚礼",
+      "onboard_time": 1727488578,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 406932,
       "num": 243991,
       "word": "武汉1.6级地震",
       "onboard_time": 1727442380,
       "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 399135,
+      "num": 399135,
+      "word": "以军大规模空袭黎巴嫩首都",
+      "onboard_time": 1727487078,
+      "rank": 32,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 396107,
+      "num": 396107,
+      "word": "中国登月服外观首次亮相",
+      "onboard_time": 1727488578,
+      "rank": 24,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 386547,
+      "num": 386547,
+      "word": "给中国人自己的登月服起名",
+      "onboard_time": 1727488699,
+      "rank": 6,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 369737,
+      "num": 369737,
+      "word": "央视新闻国庆定制MV心同此愿",
+      "onboard_time": 1727490017,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 335671,
+      "num": 335671,
+      "word": "东北雨姐喊话打假博主做人留一线",
+      "onboard_time": 1727485160,
+      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -171,6 +227,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 322686,
+      "num": 322686,
+      "word": "洲际导弹",
+      "onboard_time": 1727489057,
+      "rank": 13,
+      "category": "军事"
+    },
+    {
       "raw_hot": 310102,
       "num": 310102,
       "word": "上海台将有序关停四个电视频道",
@@ -195,14 +259,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 307618,
-      "num": 307618,
-      "word": "东北雨姐喊话打假博主做人留一线",
-      "onboard_time": 1727485160,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 299595,
       "num": 237316,
       "word": "警方回应女网红张悦疑坠楼身亡",
@@ -217,22 +273,6 @@
       "onboard_time": 1727451080,
       "rank": 14,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 294260,
-      "num": 294260,
-      "word": "以军大规模空袭黎巴嫩首都",
-      "onboard_time": 1727487078,
-      "rank": 32,
-      "category": "国外时政"
-    },
-    {
-      "raw_hot": 290808,
-      "num": 290808,
-      "word": "医院开工员工高喊先赚一个亿",
-      "onboard_time": 1727488040,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 282289,
@@ -259,12 +299,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 250478,
-      "num": 156333,
-      "word": "新郎新娘举办着各自想要的婚礼",
-      "onboard_time": 1727488578,
-      "rank": 30,
-      "category": "幽默"
+      "raw_hot": 259910,
+      "num": 259910,
+      "word": "年轻女租客遭6旬房东骚扰抑郁发作",
+      "onboard_time": 1727491039,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 251570,
+      "num": 257240,
+      "word": "还有3天国庆",
+      "onboard_time": 1727483838,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 247833,
@@ -273,6 +321,14 @@
       "onboard_time": 1727485278,
       "rank": 14,
       "category": "军事"
+    },
+    {
+      "raw_hot": 242777,
+      "num": 370347,
+      "word": "赵今麦哭戏",
+      "onboard_time": 1727487979,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 234040,
@@ -307,19 +363,19 @@
       "category": "幽默,社会新闻"
     },
     {
+      "raw_hot": 227521,
+      "num": 227521,
+      "word": "心同此愿",
+      "onboard_time": 1727489057,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 225071,
       "num": 172984,
       "word": "女子钥匙放车里多次凌晨被开走",
       "onboard_time": 1727436018,
       "rank": 26,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 224940,
-      "num": 257240,
-      "word": "还有3天国庆",
-      "onboard_time": 1727483838,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -331,6 +387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 213810,
+      "num": 213810,
+      "word": "国庆机票价格再次大跳水",
+      "onboard_time": 1727490138,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 211636,
       "num": 211636,
       "word": "发电厂海蜇泛滥员工已抓21万斤",
@@ -339,12 +403,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 200360,
-      "num": 200360,
-      "word": "中国登月服外观首次亮相",
-      "onboard_time": 1727488578,
-      "rank": 24,
-      "category": "国内时政"
+      "raw_hot": 203637,
+      "num": 203637,
+      "word": "楠丁格尔先生",
+      "onboard_time": 1727489239,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 199584,
@@ -356,7 +420,7 @@
     },
     {
       "raw_hot": 190371,
-      "num": 171845,
+      "num": 232983,
       "word": "卢昱晓手张力",
       "onboard_time": 1727478254,
       "rank": 15,
@@ -369,6 +433,22 @@
       "onboard_time": 1727436559,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 187106,
+      "num": 238901,
+      "word": "周深国庆暖心献唱祝福祖国",
+      "onboard_time": 1727491278,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 185285,
+      "num": 369823,
+      "word": "湖南加入宝藏家乡群聊",
+      "onboard_time": 1727490739,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 184411,
@@ -409,14 +489,6 @@
       "onboard_time": 1727427199,
       "rank": 22,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 166940,
-      "num": 166940,
-      "word": "赵今麦哭戏",
-      "onboard_time": 1727487979,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 159774,
@@ -467,6 +539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 150846,
+      "num": 150846,
+      "word": "官方回应医院员工高喊先赚一个亿",
+      "onboard_time": 1727490798,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 150604,
       "num": 150604,
       "word": "闵熙珍晒HANNI聊天记录",
@@ -515,12 +595,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 143581,
+      "num": 143581,
+      "word": "英国国王首相悼念玛吉史密斯",
+      "onboard_time": 1727490138,
+      "rank": 33,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 137095,
       "num": 137095,
       "word": "西安一医院办篝火晚会被指祭祀",
       "onboard_time": 1727486659,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 134006,
+      "num": 134006,
+      "word": "中国登月服太酷啦",
+      "onboard_time": 1727491579,
+      "rank": 34,
+      "category": "国内时政"
     },
     {
       "raw_hot": 132346,
@@ -545,6 +641,46 @@
       "onboard_time": 1727486537,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 127111,
+      "num": 127111,
+      "word": "翟志刚王亚平出镜登月服大片",
+      "onboard_time": 1727491759,
+      "rank": 38,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 126915,
+      "num": 126914,
+      "word": "登月服设计灵感有飞天飘带也有铠甲",
+      "onboard_time": 1727491699,
+      "rank": 41,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 126759,
+      "num": 126759,
+      "word": "360度全景看登月服",
+      "onboard_time": 1727491638,
+      "rank": 42,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 124844,
+      "num": 124844,
+      "word": "以军战舰参与对黎首都空袭",
+      "onboard_time": 1727490739,
+      "rank": 43,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 124461,
+      "num": 124461,
+      "word": "为中国登月服取名",
+      "onboard_time": 1727488877,
+      "rank": 44,
+      "category": "国内时政"
     },
     {
       "raw_hot": 124162,
@@ -609,6 +745,14 @@
       "onboard_time": 1727444179,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 103082,
+      "num": 112419,
+      "word": "汪顺报项100蛙",
+      "onboard_time": 1727490978,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 100625,
@@ -977,6 +1121,14 @@
       "onboard_time": 1727462292,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 24456,
+      "num": 126959,
+      "word": "浙里的孔子文化有点潮",
+      "onboard_time": 1727488818,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 21484,
