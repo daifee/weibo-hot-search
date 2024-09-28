@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/09/01 00:25:38 ~ 2024/09/28 22:18:26
+本榜单时间：2024/09/01 00:25:38 ~ 2024/09/28 22:37:05
 </p>
 </blockquote>
 <p>
@@ -4077,6 +4077,12 @@ A股（热度：1203633）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E4%BA%BA%E7%94%A8%E5%8D%B7%E5%BF%83%E8%8F%9C%E5%A8%83%E5%A8%83%E8%8F%9C%E4%BB%A3%E6%9B%BF%E5%A4%A7%E7%99%BD%E8%8F%9C%23" target="weibo">
+韩国人用卷心菜娃娃菜代替大白菜（热度：1137388）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E5%AE%A2%E6%9C%8D%E5%9B%9E%E5%BA%94%E6%8F%90%E7%8E%B0%E6%89%8B%E7%BB%AD%E8%B4%B9%23" target="weibo">
 微信客服回应提现手续费（热度：1136887）
 </a>
@@ -4973,12 +4979,6 @@ iPhone16定价（热度：1011795）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%99%93%E6%98%8E%E6%9B%BE%E4%B8%BA%E5%8F%B6%E7%8F%82%E5%8C%85%E5%9C%BA%E5%BA%86%E7%94%9F%23" target="weibo">
 黄晓明曾为叶珂包场庆生（热度：1005551）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E4%BA%BA%E7%94%A8%E5%8D%B7%E5%BF%83%E8%8F%9C%E5%A8%83%E5%A8%83%E8%8F%9C%E4%BB%A3%E6%9B%BF%E5%A4%A7%E7%99%BD%E8%8F%9C%23" target="weibo">
-韩国人用卷心菜娃娃菜代替大白菜（热度：1003582）
 </a>
 </li>
 
@@ -6629,6 +6629,12 @@ iPhone16史上最容易维修iPhone（热度：900387）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%9B%9E%E4%BF%A1%E5%8B%89%E5%8A%B1%E4%B8%AD%E5%9B%BD%E4%B8%80%E9%87%8D%E4%BA%A7%E4%B8%9A%E5%B7%A5%E4%BA%BA%E4%BB%A3%E8%A1%A8%23%23" target="weibo">
 #习近平回信勉励中国一重产业工人代表#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E6%96%B0%E6%97%B6%E4%BB%A3%E4%B8%AD%E5%9B%BD%E4%BA%A7%E4%B8%9A%E5%B7%A5%E4%BA%BA%E7%9A%84%E7%88%B1%E5%9B%BD%E5%BF%83%E5%88%9B%E9%80%A0%E5%8A%9B%23%23" target="weibo">
+#新时代中国产业工人的爱国心创造力#
 </a>
 </li>
 
