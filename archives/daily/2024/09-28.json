@@ -1,6 +1,6 @@
 {
   "startTime": 1727454453610,
-  "endTime": 1727492473767,
+  "endTime": 1727493978938,
   "band_list": [
     {
       "raw_hot": 1632583,
@@ -35,6 +35,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 785620,
+      "num": 1125699,
+      "word": "章若楠刘诗诗撞造型",
+      "onboard_time": 1727487017,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 737663,
+      "num": 313058,
+      "word": "年轻女租客遭6旬房东骚扰抑郁发作",
+      "onboard_time": 1727491039,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 718574,
       "num": 902628,
       "word": "霍格沃茨三任校长演员离世",
@@ -49,14 +65,6 @@
       "onboard_time": 1727438058,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 638973,
-      "num": 1102141,
-      "word": "章若楠刘诗诗撞造型",
-      "onboard_time": 1727487017,
-      "rank": 13,
-      "category": "剧集"
     },
     {
       "raw_hot": 606104,
@@ -83,8 +91,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 546194,
-      "num": 546194,
+      "raw_hot": 568642,
+      "num": 568642,
       "word": "内塔尼亚胡先生请现在就停止战争",
       "onboard_time": 1727485278,
       "rank": 3,
@@ -99,12 +107,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 492604,
-      "num": 313058,
-      "word": "年轻女租客遭6旬房东骚扰抑郁发作",
-      "onboard_time": 1727491039,
-      "rank": 14,
-      "category": "社会新闻"
+      "raw_hot": 533513,
+      "num": 533513,
+      "word": "给中国人自己的登月服起名",
+      "onboard_time": 1727488699,
+      "rank": 6,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 524762,
+      "num": 246217,
+      "word": "A股大涨后第一批受益人出现了",
+      "onboard_time": 1727492058,
+      "rank": 21,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 498395,
+      "num": 498395,
+      "word": "洲际导弹",
+      "onboard_time": 1727489057,
+      "rank": 13,
+      "category": "军事"
     },
     {
       "raw_hot": 482520,
@@ -121,14 +145,6 @@
       "onboard_time": 1727449341,
       "rank": 4,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 465407,
-      "num": 465407,
-      "word": "洲际导弹",
-      "onboard_time": 1727489057,
-      "rank": 13,
-      "category": "军事"
     },
     {
       "raw_hot": 444259,
@@ -148,7 +164,7 @@
     },
     {
       "raw_hot": 418452,
-      "num": 242027,
+      "num": 246038,
       "word": "新郎新娘举办着各自想要的婚礼",
       "onboard_time": 1727488578,
       "rank": 30,
@@ -163,20 +179,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 414330,
+      "num": 414330,
+      "word": "中国登月服外观首次亮相",
+      "onboard_time": 1727488578,
+      "rank": 24,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 406932,
       "num": 243991,
       "word": "武汉1.6级地震",
       "onboard_time": 1727442380,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 402892,
-      "num": 402892,
-      "word": "中国登月服外观首次亮相",
-      "onboard_time": 1727488578,
-      "rank": 24,
-      "category": "国内时政"
     },
     {
       "raw_hot": 399516,
@@ -187,14 +203,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 386547,
-      "num": 386547,
-      "word": "给中国人自己的登月服起名",
-      "onboard_time": 1727488699,
-      "rank": 6,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 369737,
       "num": 369737,
       "word": "央视新闻国庆定制MV心同此愿",
@@ -203,12 +211,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 343652,
-      "num": 241812,
-      "word": "A股大涨后第一批受益人出现了",
-      "onboard_time": 1727492058,
-      "rank": 21,
-      "category": "财经"
+      "raw_hot": 338704,
+      "num": 287778,
+      "word": "赵丽颖蓝色水光长裙",
+      "onboard_time": 1727492178,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 335671,
@@ -251,6 +259,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 311188,
+      "num": 245462,
+      "word": "国庆机票价格再次大跳水",
+      "onboard_time": 1727490138,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 310102,
       "num": 310102,
       "word": "上海台将有序关停四个电视频道",
@@ -291,6 +307,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 289795,
+      "num": 289795,
+      "word": "小孩因电梯故障被困徒手扒开门逃生",
+      "onboard_time": 1727492838,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 282289,
       "num": 282289,
       "word": "美方不能总以两副面孔对华",
@@ -323,6 +347,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 254326,
+      "num": 244805,
+      "word": "孙颖莎获赠中国大满贯抽签筒",
+      "onboard_time": 1727492360,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 251570,
       "num": 257240,
       "word": "还有3天国庆",
@@ -339,20 +371,20 @@
       "category": "军事"
     },
     {
+      "raw_hot": 244805,
+      "num": 244804,
+      "word": "唐斯被交易到尼克斯",
+      "onboard_time": 1727492119,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 242930,
-      "num": 242930,
+      "num": 247760,
       "word": "周深国庆暖心献唱祝福祖国",
       "onboard_time": 1727491278,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 241085,
-      "num": 241085,
-      "word": "国庆机票价格再次大跳水",
-      "onboard_time": 1727490138,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 234040,
@@ -411,14 +443,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 221767,
-      "num": 221767,
-      "word": "孙颖莎获赠中国大满贯抽签筒",
-      "onboard_time": 1727492360,
-      "rank": 25,
-      "category": "体育"
-    },
-    {
       "raw_hot": 218916,
       "num": 218916,
       "word": "87套法拍房待拍卖仅1人报名",
@@ -441,6 +465,14 @@
       "onboard_time": 1727447362,
       "rank": 17,
       "category": "演出"
+    },
+    {
+      "raw_hot": 193435,
+      "num": 193435,
+      "word": "杨紫素颜出发巴黎",
+      "onboard_time": 1727493619,
+      "rank": 31,
+      "category": "艺人,作品衍生"
     },
     {
       "raw_hot": 190371,
@@ -483,14 +515,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 178587,
-      "num": 178587,
-      "word": "唐斯被交易到尼克斯",
-      "onboard_time": 1727492119,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 176019,
       "num": 176019,
       "word": "原神",
@@ -529,6 +553,14 @@
       "onboard_time": 1727453239,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 156856,
+      "num": 156856,
+      "word": "没有他我们可能吃不上馒头",
+      "onboard_time": 1727493138,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 155731,
@@ -603,6 +635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 148613,
+      "num": 148613,
+      "word": "景区回应21岁舞蹈演员身亡",
+      "onboard_time": 1727492538,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 145579,
       "num": 145579,
       "word": "以军空袭黎巴嫩真主党总部",
@@ -611,12 +651,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 145505,
-      "num": 145505,
-      "word": "赵丽颖蓝色水光长裙",
-      "onboard_time": 1727492178,
-      "rank": 32,
-      "category": "作品衍生"
+      "raw_hot": 144944,
+      "num": 246998,
+      "word": "李晓原型说张子枫演得太好了",
+      "onboard_time": 1727493438,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 144893,
@@ -657,6 +697,14 @@
       "onboard_time": 1727491579,
       "rank": 34,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 133790,
+      "num": 209476,
+      "word": "卓沅 第一次见陈少熙这么温柔",
+      "onboard_time": 1727492360,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 132346,
@@ -731,6 +779,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 121858,
+      "num": 121858,
+      "word": "南部战区权威发布",
+      "onboard_time": 1727492479,
+      "rank": 44,
+      "category": "军事"
+    },
+    {
       "raw_hot": 119225,
       "num": 119225,
       "word": "存款利率或将再次下调",
@@ -753,14 +809,6 @@
       "onboard_time": 1727434100,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 110979,
-      "num": 110979,
-      "word": "卓沅 第一次见陈少熙这么温柔",
-      "onboard_time": 1727492360,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 105011,
@@ -1059,6 +1107,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 52052,
+      "num": 289274,
+      "word": "小伙称整顿职场后上厕所都得报备",
+      "onboard_time": 1727493318,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 43070,
       "num": 52783,
       "word": "时代少年团推介自己的家乡",
@@ -1171,6 +1227,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 23966,
+      "num": 246666,
+      "word": "西安八旬老太看牙却被全口拔牙",
+      "onboard_time": 1727493318,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 22606,
+      "num": 282853,
+      "word": "创业果园遭拆当事人称不会放弃维权",
+      "onboard_time": 1727493318,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 21484,
       "num": 25080,
       "word": "陶勇医生终于又拿起了手术刀",
@@ -1211,19 +1283,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 13107,
+      "num": 140807,
+      "word": "孔子是思想疗愈届超级网红",
+      "onboard_time": 1727492417,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 13106,
       "num": 149726,
       "word": "河南学子复刻名场面帧帧爱国",
       "onboard_time": 1727477834,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 8587,
-      "num": 132248,
-      "word": "孔子是思想疗愈届超级网红",
-      "onboard_time": 1727492417,
-      "rank": 39,
       "category": "社会新闻"
     }
   ],
