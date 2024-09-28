@@ -1,6 +1,6 @@
 {
   "startTime": 1727540758074,
-  "endTime": 1727540758074,
+  "endTime": 1727541685630,
   "band_list": [
     {
       "raw_hot": 512390,
@@ -35,20 +35,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 334809,
+      "num": 205975,
+      "word": "潘展乐感谢陈奕迅邀请",
+      "onboard_time": 1727539638,
+      "rank": 12,
+      "category": "体育,演出"
+    },
+    {
       "raw_hot": 333706,
       "num": 333706,
       "word": "香港维多利亚港惊现水龙卷",
       "onboard_time": 1727517258,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 325501,
-      "num": 205975,
-      "word": "潘展乐感谢陈奕迅邀请",
-      "onboard_time": 1727539638,
-      "rank": 12,
-      "category": "体育,演出"
     },
     {
       "raw_hot": 290355,
@@ -67,6 +67,14 @@
       "category": "体育,演出"
     },
     {
+      "raw_hot": 211650,
+      "num": 190728,
+      "word": "刘浩存学院风",
+      "onboard_time": 1727537780,
+      "rank": 14,
+      "category": "电影"
+    },
+    {
       "raw_hot": 209283,
       "num": 209283,
       "word": "心动的信号7素人返场路透",
@@ -81,14 +89,6 @@
       "onboard_time": 1727529021,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 190728,
-      "num": 190728,
-      "word": "刘浩存学院风",
-      "onboard_time": 1727537780,
-      "rank": 14,
-      "category": "电影"
     },
     {
       "raw_hot": 188835,
@@ -139,20 +139,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 163002,
+      "num": 154770,
+      "word": "国庆朋友圈已经预制好了",
+      "onboard_time": 1727525959,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 157676,
       "num": 157676,
       "word": "喻言唱跳舞台",
       "onboard_time": 1727536939,
       "rank": 19,
       "category": "演出"
-    },
-    {
-      "raw_hot": 154770,
-      "num": 154770,
-      "word": "国庆朋友圈已经预制好了",
-      "onboard_time": 1727525959,
-      "rank": 20,
-      "category": "情感"
     },
     {
       "raw_hot": 145517,
@@ -179,20 +179,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 137185,
+      "num": 137185,
+      "word": "青海有害气体中毒事件1家5口先后去世",
+      "onboard_time": 1727540236,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 132402,
+      "num": 207351,
+      "word": "离婚不离家可行吗",
+      "onboard_time": 1727538317,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 129681,
       "num": 129681,
       "word": "李佳琦觉得自己不该被淘汰",
       "onboard_time": 1727508498,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 126954,
-      "num": 207351,
-      "word": "离婚不离家可行吗",
-      "onboard_time": 1727538317,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 125309,
@@ -209,6 +217,14 @@
       "onboard_time": 1727537839,
       "rank": 26,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 120791,
+      "num": 120791,
+      "word": "半熟男女 装深情",
+      "onboard_time": 1727540300,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 116345,
@@ -291,14 +307,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 82231,
-      "num": 111728,
-      "word": "青海有害气体中毒事件1家5口先后去世",
-      "onboard_time": 1727540236,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 78043,
       "num": 111441,
       "word": "付鹏与男子合影",
@@ -320,6 +328,14 @@
       "word": "阿森纳vs莱斯特城",
       "onboard_time": 1727536520,
       "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 75108,
+      "num": 109722,
+      "word": "孙佳俊破亚洲纪录",
+      "onboard_time": 1727527819,
+      "rank": 45,
       "category": "体育"
     },
     {
@@ -345,14 +361,6 @@
       "onboard_time": 1727533041,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 73025,
-      "num": 109722,
-      "word": "孙佳俊破亚洲纪录",
-      "onboard_time": 1727527819,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 72335,
@@ -387,6 +395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 59055,
+      "num": 59055,
+      "word": "郑钦文vs拉希莫娃",
+      "onboard_time": 1727519359,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 14400,
       "num": 309910,
       "word": "喜欢国风的外国小姐姐解释华夏",
@@ -406,6 +422,9 @@
   "hotgov_list": [
     {
       "word": "#习近平回信勉励中国一重产业工人代表#"
+    },
+    {
+      "word": "#习近平总书记始终高度重视民族工作#"
     }
   ]
 }

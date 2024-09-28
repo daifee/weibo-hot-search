@@ -1,0 +1,410 @@
+{
+  "runTime": 1727541685630,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 431917,
+        "num": 763551,
+        "word": "韩国人用卷心菜娃娃菜代替大白菜",
+        "onboard_time": 1727528600,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 284262,
+        "num": 284262,
+        "word": "香港维多利亚港惊现水龙卷",
+        "onboard_time": 1727517258,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 10090,
+        "num": 253505,
+        "word": "喜欢国风的外国小姐姐解释华夏",
+        "onboard_time": 1727528960,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246803,
+        "num": 246803,
+        "word": "黎真主党证实纳斯鲁拉死亡",
+        "onboard_time": 1727524401,
+        "rank": 3,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 4281,
+        "num": 188925,
+        "word": "这是75年来的青春之声",
+        "onboard_time": 1727529858,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175769,
+        "num": 175769,
+        "word": "心动的信号7素人返场路透",
+        "onboard_time": 1727535800,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161524,
+        "num": 161524,
+        "word": "韩国大白菜紧缺",
+        "onboard_time": 1727535681,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154062,
+        "num": 154062,
+        "word": "以军称打死黎真主党领导人纳斯鲁拉",
+        "onboard_time": 1727511379,
+        "rank": 7,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 147486,
+        "num": 147486,
+        "word": "毛不易带着八杯酒的消愁回来了",
+        "onboard_time": 1727534780,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 143097,
+        "num": 143097,
+        "word": "看见这幅画隔屏闻见吉林鱼香了",
+        "onboard_time": 1727537780,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 489453,
+        "num": 142421,
+        "word": "千万别把大拇脚趾头塞进手镯里",
+        "onboard_time": 1727536939,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 398457,
+        "num": 142284,
+        "word": "秦岚 分手后我不会和前任做朋友",
+        "onboard_time": 1727527698,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 334809,
+        "num": 141199,
+        "word": "潘展乐感谢陈奕迅邀请",
+        "onboard_time": 1727539638,
+        "rank": 12,
+        "category": "体育,演出"
+      },
+      {
+        "raw_hot": 211650,
+        "num": 140803,
+        "word": "刘浩存学院风",
+        "onboard_time": 1727537780,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 172605,
+        "num": 140075,
+        "word": "檀健次 减肥不是说减就减吗",
+        "onboard_time": 1727529021,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161389,
+        "num": 139134,
+        "word": "停车费1小时200元车主质疑太贵",
+        "onboard_time": 1727517858,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152912,
+        "num": 138048,
+        "word": "戚薇本次时装周用空8罐发胶",
+        "onboard_time": 1727536161,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 167071,
+        "num": 137791,
+        "word": "游泳队告六人去陈奕迅演唱会",
+        "onboard_time": 1727531660,
+        "rank": 17,
+        "category": "体育,演出"
+      },
+      {
+        "raw_hot": 137185,
+        "num": 137185,
+        "word": "青海有害气体中毒事件1家5口先后去世",
+        "onboard_time": 1727540236,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132726,
+        "num": 132726,
+        "word": "喻言唱跳舞台",
+        "onboard_time": 1727536939,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 132402,
+        "num": 132402,
+        "word": "离婚不离家可行吗",
+        "onboard_time": 1727538317,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163002,
+        "num": 129567,
+        "word": "国庆朋友圈已经预制好了",
+        "onboard_time": 1727525959,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 132410,
+        "num": 125527,
+        "word": "迪丽热巴慕胥辞新妆造路透",
+        "onboard_time": 1727530459,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120791,
+        "num": 120791,
+        "word": "半熟男女 装深情",
+        "onboard_time": 1727540300,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114394,
+        "num": 114394,
+        "word": "苏州人从此不再羡慕湖南人",
+        "onboard_time": 1727536041,
+        "rank": 24,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 111011,
+        "num": 111011,
+        "word": "陈奕迅靠在徐嘉余肩头",
+        "onboard_time": 1727538019,
+        "rank": 25,
+        "category": "演出,体育"
+      },
+      {
+        "raw_hot": 110037,
+        "num": 110037,
+        "word": "李佳琦觉得自己不该被淘汰",
+        "onboard_time": 1727508498,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106550,
+        "num": 106550,
+        "word": "何超莲这个背不去拔罐可惜了",
+        "onboard_time": 1727528780,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 105339,
+        "num": 105339,
+        "word": "毛不易已经开始炫技了",
+        "onboard_time": 1727537839,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 93647,
+        "num": 93647,
+        "word": "Kanye试听会",
+        "onboard_time": 1727526499,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 318119,
+        "num": 92413,
+        "word": "男子听信美容偏方1月不洗脸满脸结痂",
+        "onboard_time": 1727534480,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 91076,
+        "num": 91076,
+        "word": "登陆少年 清华",
+        "onboard_time": 1727521459,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 80438,
+        "num": 80438,
+        "word": "王楚钦做漆扇",
+        "onboard_time": 1727533581,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 78212,
+        "num": 78212,
+        "word": "伊朗最高领袖发声",
+        "onboard_time": 1727520558,
+        "rank": 33,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 77837,
+        "num": 77837,
+        "word": "汪苏泷天津演唱会嘉宾是张碧晨",
+        "onboard_time": 1727528600,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 77370,
+        "num": 77370,
+        "word": "唐宫奇案 白鹿",
+        "onboard_time": 1727522178,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 76975,
+        "num": 76975,
+        "word": "印度一校长勾结老师勒死11岁学生",
+        "onboard_time": 1727522359,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 75108,
+        "num": 75108,
+        "word": "孙佳俊破亚洲纪录",
+        "onboard_time": 1727527819,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 69012,
+        "num": 69012,
+        "word": "沈月杨超越聊自己医美经历",
+        "onboard_time": 1727529021,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 67891,
+        "num": 67891,
+        "word": "付鹏与男子合影",
+        "onboard_time": 1727503458,
+        "rank": 39,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 65759,
+        "num": 65759,
+        "word": "阿森纳vs莱斯特城",
+        "onboard_time": 1727536520,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 65332,
+        "num": 65332,
+        "word": "狗子摔出车厢被拖行主人心疼抹泪",
+        "onboard_time": 1727530040,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 65158,
+        "num": 65158,
+        "word": "张真源 地铁跑酷",
+        "onboard_time": 1727525240,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 64590,
+        "num": 64590,
+        "word": "邓恩熙头纱出场",
+        "onboard_time": 1727536400,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 63276,
+        "num": 63276,
+        "word": "帕尔默半场大四喜",
+        "onboard_time": 1727535500,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 63233,
+        "num": 63233,
+        "word": "杨紫收到粉丝编织紫葡萄",
+        "onboard_time": 1727533041,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 60772,
+        "num": 60772,
+        "word": "樊振东巴黎男单决赛前不敢看信息",
+        "onboard_time": 1727523260,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 60200,
+        "num": 60200,
+        "word": "77岁老太被野猪咬伤拿刀反杀",
+        "onboard_time": 1727513060,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 59055,
+        "num": 59055,
+        "word": "郑钦文vs拉希莫娃",
+        "onboard_time": 1727519359,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 52534,
+        "num": 58780,
+        "word": "心动的信号",
+        "onboard_time": 1727534300,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记始终高度重视民族工作#"
+    }
+  }
+}

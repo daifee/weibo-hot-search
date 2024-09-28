@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1727540758074,
+  "endTime": 1727541685630,
   "band_list": [
     {
       "raw_hot": 28035334,
@@ -23523,6 +23523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 334809,
+      "num": 205975,
+      "word": "潘展乐感谢陈奕迅邀请",
+      "onboard_time": 1727539638,
+      "rank": 12,
+      "category": "体育,演出"
+    },
+    {
       "raw_hot": 334600,
       "num": 334600,
       "word": "芜湖巨响",
@@ -24073,14 +24081,6 @@
       "onboard_time": 1725588799,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 325501,
-      "num": 205975,
-      "word": "潘展乐感谢陈奕迅邀请",
-      "onboard_time": 1727539638,
-      "rank": 12,
-      "category": "体育,演出"
     },
     {
       "raw_hot": 325444,
@@ -36011,6 +36011,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 211650,
+      "num": 190728,
+      "word": "刘浩存学院风",
+      "onboard_time": 1727537780,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 211630,
       "num": 211630,
       "word": "警方通报女子拒喝酒遭辱骂扇耳光",
@@ -42257,14 +42265,6 @@
       "onboard_time": 1725894142,
       "rank": 25,
       "category": "数码"
-    },
-    {
-      "raw_hot": 190728,
-      "num": 190728,
-      "word": "刘浩存学院风",
-      "onboard_time": 1727537780,
-      "rank": 45,
-      "category": "电影"
     },
     {
       "raw_hot": 190661,
@@ -59355,6 +59355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 137185,
+      "num": 137185,
+      "word": "青海有害气体中毒事件1家5口先后去世",
+      "onboard_time": 1727540236,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 137179,
       "num": 137179,
       "word": "想过会输 没想到输得这么惨",
@@ -60977,6 +60985,14 @@
       "onboard_time": 1726892300,
       "rank": 48,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 132402,
+      "num": 207351,
+      "word": "离婚不离家可行吗",
+      "onboard_time": 1727538317,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 132385,
@@ -62683,14 +62699,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 126954,
-      "num": 207351,
-      "word": "离婚不离家可行吗",
-      "onboard_time": 1727538317,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 126923,
       "num": 126923,
       "word": "好想拥有蔡徐坤一样的社交属性",
@@ -64241,6 +64249,14 @@
       "onboard_time": 1727176158,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 120791,
+      "num": 120791,
+      "word": "半熟男女 装深情",
+      "onboard_time": 1727540300,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 120761,
@@ -70465,14 +70481,6 @@
       "onboard_time": 1727091499,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 82231,
-      "num": 111728,
-      "word": "青海有害气体中毒事件1家5口先后去世",
-      "onboard_time": 1727540236,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 82220,
