@@ -1,0 +1,410 @@
+{
+  "runTime": 1727558417059,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 64772,
+        "num": 118714,
+        "word": "大学生兼职泰山陪爬订单排到深秋",
+        "onboard_time": 1727555471,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 59482,
+        "num": 59482,
+        "word": "以威胁若伊朗客机降落将袭黎机场",
+        "onboard_time": 1727551452,
+        "rank": 1,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1884,
+        "num": 56477,
+        "word": "喜欢国风的外国小姐姐解释华夏",
+        "onboard_time": 1727528960,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 54323,
+        "num": 54323,
+        "word": "韩国人用卷心菜娃娃菜代替大白菜",
+        "onboard_time": 1727528600,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1518,
+        "num": 49549,
+        "word": "这是75年来的青春之声",
+        "onboard_time": 1727529858,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 47224,
+        "num": 47224,
+        "word": "黎真主党证实纳斯鲁拉死亡",
+        "onboard_time": 1727524401,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 40514,
+        "num": 40514,
+        "word": "伊朗最高领袖称以无法严重伤害真主党",
+        "onboard_time": 1727541676,
+        "rank": 6,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 33572,
+        "num": 33572,
+        "word": "以军称打死黎真主党领导人纳斯鲁拉",
+        "onboard_time": 1727511379,
+        "rank": 7,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 21070,
+        "num": 33551,
+        "word": "喻言唱跳舞台",
+        "onboard_time": 1727536939,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 15063,
+        "num": 33511,
+        "word": "阿根廷贫困率飙升至近53%",
+        "onboard_time": 1727555292,
+        "rank": 9,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 91817,
+        "num": 33494,
+        "word": "青海有害气体中毒事件1家5口先后去世",
+        "onboard_time": 1727540236,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46815,
+        "num": 33446,
+        "word": "秦岚 分手后我不会和前任做朋友",
+        "onboard_time": 1727527698,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 42252,
+        "num": 33402,
+        "word": "千万别把大拇脚趾头塞进手镯里",
+        "onboard_time": 1727536939,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 33377,
+        "num": 33377,
+        "word": "停车费1小时200元车主质疑太贵",
+        "onboard_time": 1727517858,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33290,
+        "num": 33290,
+        "word": "香港维多利亚港惊现水龙卷",
+        "onboard_time": 1727517258,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32597,
+        "num": 32597,
+        "word": "赵丽颖不敢对李红樱感同身受",
+        "onboard_time": 1727545513,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 27391,
+        "num": 27391,
+        "word": "青海有害气体中毒家属发声",
+        "onboard_time": 1727542516,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26247,
+        "num": 26247,
+        "word": "沈月杨超越聊自己医美经历",
+        "onboard_time": 1727529021,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25916,
+        "num": 25916,
+        "word": "韩国大白菜紧缺",
+        "onboard_time": 1727535681,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 15669,
+        "num": 25035,
+        "word": "Kanye试听会",
+        "onboard_time": 1727526499,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 34790,
+        "num": 25030,
+        "word": "离婚不离家可行吗",
+        "onboard_time": 1727538317,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29979,
+        "num": 25003,
+        "word": "男孩按摩4次治驼背花近3万",
+        "onboard_time": 1727551032,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24750,
+        "num": 24750,
+        "word": "中国登月服上满是中国元素",
+        "onboard_time": 1727554332,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24202,
+        "num": 24202,
+        "word": "多种水果降价",
+        "onboard_time": 1727556492,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24147,
+        "num": 24147,
+        "word": "李佳琦觉得自己不该被淘汰",
+        "onboard_time": 1727508498,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23500,
+        "num": 23500,
+        "word": "内塔尼亚胡工作照曝光",
+        "onboard_time": 1727554272,
+        "rank": 25,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 21867,
+        "num": 21867,
+        "word": "游泳队告六人去陈奕迅演唱会",
+        "onboard_time": 1727531660,
+        "rank": 26,
+        "category": "体育,演出"
+      },
+      {
+        "raw_hot": 21525,
+        "num": 21525,
+        "word": "登月服最动人的设计在手臂和背上",
+        "onboard_time": 1727545394,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20780,
+        "num": 20780,
+        "word": "戚薇本次时装周用空8罐发胶",
+        "onboard_time": 1727536161,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 20709,
+        "num": 20709,
+        "word": "郑钦文vs拉希莫娃",
+        "onboard_time": 1727519359,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 28780,
+        "num": 20709,
+        "word": "男子听信美容偏方1月不洗脸满脸结痂",
+        "onboard_time": 1727534480,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25777,
+        "num": 20709,
+        "word": "印度一校长勾结老师勒死11岁学生",
+        "onboard_time": 1727522359,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20709,
+        "num": 20708,
+        "word": "檀健次 减肥不是说减就减吗",
+        "onboard_time": 1727529021,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 13593,
+        "num": 20218,
+        "word": "王俊凯平遥电影展特约策展人",
+        "onboard_time": 1727546231,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 24243,
+        "num": 20211,
+        "word": "南部战区部队时刻高度戒备",
+        "onboard_time": 1727541857,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20190,
+        "num": 20190,
+        "word": "拜仁vs勒沃库森",
+        "onboard_time": 1727547312,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19655,
+        "num": 19655,
+        "word": "何超莲这个背不去拔罐可惜了",
+        "onboard_time": 1727528780,
+        "rank": 36,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 19531,
+        "num": 19531,
+        "word": "徐德智称被点名时脑子一片空白",
+        "onboard_time": 1727547252,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 19437,
+        "num": 19437,
+        "word": "登陆少年 清华",
+        "onboard_time": 1727521459,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 13916,
+        "num": 19437,
+        "word": "毛不易带着八杯酒的消愁回来了",
+        "onboard_time": 1727534780,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 18658,
+        "num": 19435,
+        "word": "经常喊累的人建议查查甲状腺",
+        "onboard_time": 1727544254,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 18291,
+        "num": 19434,
+        "word": "潘展乐感谢陈奕迅邀请",
+        "onboard_time": 1727539638,
+        "rank": 41,
+        "category": "体育,演出"
+      },
+      {
+        "raw_hot": 18164,
+        "num": 19433,
+        "word": "以军发言人暗示对黎展开地面行动",
+        "onboard_time": 1727553552,
+        "rank": 42,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 18014,
+        "num": 19431,
+        "word": "国庆朋友圈已经预制好了",
+        "onboard_time": 1727525959,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 17990,
+        "num": 19430,
+        "word": "中国从来没有所谓垮掉的一代",
+        "onboard_time": 1727543535,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 17227,
+        "num": 19429,
+        "word": "乾隆为孔子严选的青铜器太有排面了",
+        "onboard_time": 1727553311,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 17085,
+        "num": 19426,
+        "word": "王楚钦做漆扇",
+        "onboard_time": 1727533581,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 16475,
+        "num": 19426,
+        "word": "狗子摔出车厢被拖行主人心疼抹泪",
+        "onboard_time": 1727530040,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 13752,
+        "num": 19425,
+        "word": "下一战音乐会",
+        "onboard_time": 1727548452,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 16428,
+        "num": 19422,
+        "word": "徐德智谈被古特雷斯向王毅会长介绍",
+        "onboard_time": 1727547912,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#平凡铸就伟大英雄来自人民#"
+    }
+  }
+}
