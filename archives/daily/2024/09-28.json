@@ -1,6 +1,6 @@
 {
   "startTime": 1727454453610,
-  "endTime": 1727507956275,
+  "endTime": 1727508933273,
   "band_list": [
     {
       "raw_hot": 1632583,
@@ -27,12 +27,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1531045,
+      "raw_hot": 1549468,
       "num": 313267,
       "word": "付鹏与男子合影",
       "onboard_time": 1727503458,
       "rank": 11,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1149819,
+      "num": 1183971,
+      "word": "21岁演员排练时发病送医后身亡",
+      "onboard_time": 1727506938,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1123967,
@@ -211,6 +219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 475128,
+      "num": 475128,
+      "word": "起底东北雨姐的彪悍人生",
+      "onboard_time": 1727503818,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 474075,
       "num": 474075,
       "word": "以总理被迫雨中与人握手",
@@ -244,7 +260,7 @@
     },
     {
       "raw_hot": 442583,
-      "num": 274982,
+      "num": 275671,
       "word": "小S自曝感染霉浆菌",
       "onboard_time": 1727502078,
       "rank": 16,
@@ -291,20 +307,28 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 394200,
+      "num": 394200,
+      "word": "小鹿 整容脸是天道酬勤",
+      "onboard_time": 1727504538,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 392322,
+      "num": 392322,
+      "word": "我的身份证上有你的名字",
+      "onboard_time": 1727503640,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 379461,
-      "num": 255501,
+      "num": 270308,
       "word": "韩安冉晒产后马甲线",
       "onboard_time": 1727502378,
       "rank": 18,
       "category": "网红"
-    },
-    {
-      "raw_hot": 376453,
-      "num": 376453,
-      "word": "起底东北雨姐的彪悍人生",
-      "onboard_time": 1727503818,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 372234,
@@ -345,14 +369,6 @@
       "onboard_time": 1727496980,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 339619,
-      "num": 339619,
-      "word": "我的身份证上有你的名字",
-      "onboard_time": 1727503640,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 338704,
@@ -467,12 +483,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 286102,
-      "num": 286102,
-      "word": "21岁演员排练时发病送医后身亡",
-      "onboard_time": 1727506938,
-      "rank": 6,
-      "category": "社会新闻"
+      "raw_hot": 289242,
+      "num": 289242,
+      "word": "林俊杰新歌",
+      "onboard_time": 1727506698,
+      "rank": 16,
+      "category": "演出"
     },
     {
       "raw_hot": 282446,
@@ -587,12 +603,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 236379,
-      "num": 236379,
-      "word": "林俊杰新歌",
-      "onboard_time": 1727506698,
-      "rank": 16,
-      "category": "演出"
+      "raw_hot": 235371,
+      "num": 235371,
+      "word": "越来越多人开始对情绪旅游上头",
+      "onboard_time": 1727505858,
+      "rank": 21,
+      "category": "旅游"
     },
     {
       "raw_hot": 234040,
@@ -665,22 +681,6 @@
       "onboard_time": 1727446040,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 218675,
-      "num": 218675,
-      "word": "小鹿 整容脸是天道酬勤",
-      "onboard_time": 1727504538,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 217076,
-      "num": 196946,
-      "word": "越来越多人开始对情绪旅游上头",
-      "onboard_time": 1727505858,
-      "rank": 21,
-      "category": "旅游"
     },
     {
       "raw_hot": 211636,
@@ -761,6 +761,14 @@
       "onboard_time": 1727436559,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 189389,
+      "num": 189389,
+      "word": "王一博说我不再相信我是极少数的人",
+      "onboard_time": 1727508258,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 187725,
@@ -1035,12 +1043,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 147878,
+      "num": 141200,
+      "word": "套内69平米的精致小家",
+      "onboard_time": 1727506938,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 146774,
       "num": 146774,
       "word": "披荆斩棘的哥哥",
       "onboard_time": 1727496858,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 145779,
+      "num": 145779,
+      "word": "罗云熙刘雅瑟江奇霖3A脸",
+      "onboard_time": 1727507599,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 145579,
@@ -1065,6 +1089,14 @@
       "onboard_time": 1727490138,
       "rank": 33,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 141556,
+      "num": 141556,
+      "word": "汪苏泷说650团综终于开录了",
+      "onboard_time": 1727508199,
+      "rank": 29,
+      "category": "演出"
     },
     {
       "raw_hot": 141292,
@@ -1144,6 +1176,14 @@
       "word": "直播间赌石被骗还以为是运气不好",
       "onboard_time": 1727448260,
       "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 130549,
+      "num": 288215,
+      "word": "老人不管瘫痪老伴被诉辩称儿子出钱",
+      "onboard_time": 1727503219,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -1323,20 +1363,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 113939,
+      "num": 113939,
+      "word": "十个勤天 群像的魅力",
+      "onboard_time": 1727508320,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 113620,
       "num": 113620,
       "word": "炉石传说排队",
       "onboard_time": 1727497279,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 112505,
-      "num": 112505,
-      "word": "套内69平米的精致小家",
-      "onboard_time": 1727506938,
-      "rank": 40,
-      "category": "情感"
     },
     {
       "raw_hot": 111759,
@@ -1355,20 +1395,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 111096,
+      "num": 111096,
+      "word": "孙颖莎亮相揭幕战",
+      "onboard_time": 1727508378,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 108982,
       "num": 111057,
       "word": "郭麒麟新剧开机",
       "onboard_time": 1727503399,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 107889,
-      "num": 288215,
-      "word": "老人不管瘫痪老伴被诉辩称儿子出钱",
-      "onboard_time": 1727503219,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 107186,
@@ -1393,14 +1433,6 @@
       "onboard_time": 1727483958,
       "rank": 28,
       "category": "电影,体育"
-    },
-    {
-      "raw_hot": 104669,
-      "num": 104669,
-      "word": "罗云熙刘雅瑟江奇霖3A脸",
-      "onboard_time": 1727507599,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 103477,
@@ -1699,6 +1731,14 @@
       "category": "音乐,游戏"
     },
     {
+      "raw_hot": 63143,
+      "num": 254741,
+      "word": "违法成本低滋长职业闭店人",
+      "onboard_time": 1727507118,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 61780,
       "num": 62949,
       "word": "艾薇 寒鸦少年",
@@ -1796,7 +1836,7 @@
     },
     {
       "raw_hot": 36849,
-      "num": 128730,
+      "num": 280570,
       "word": "张杰新歌原神经过",
       "onboard_time": 1727507239,
       "rank": 34,
@@ -1875,20 +1915,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 28772,
-      "num": 254741,
-      "word": "违法成本低滋长职业闭店人",
-      "onboard_time": 1727507118,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 28313,
       "num": 35324,
       "word": "CP30",
       "onboard_time": 1727432419,
       "rank": 44,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 27929,
+      "num": 238332,
+      "word": "李佳琦觉得自己不该被淘汰",
+      "onboard_time": 1727508498,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 26771,
@@ -1932,7 +1972,7 @@
     },
     {
       "raw_hot": 24058,
-      "num": 129513,
+      "num": 265496,
       "word": "让我看看谁还不知道马自达EZ6",
       "onboard_time": 1727506698,
       "rank": 33,
@@ -1971,6 +2011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 14658,
+      "num": 522552,
+      "word": "中国广电精品创作大会",
+      "onboard_time": 1727499258,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 14508,
       "num": 90651,
       "word": "校长自掏腰包给丢钱大学生补1500元",
@@ -2001,14 +2049,6 @@
       "onboard_time": 1727504899,
       "rank": 29,
       "category": "电影"
-    },
-    {
-      "raw_hot": 12517,
-      "num": 389667,
-      "word": "中国广电精品创作大会",
-      "onboard_time": 1727499258,
-      "rank": 2,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
