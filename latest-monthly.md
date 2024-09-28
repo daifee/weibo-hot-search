@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/09/01 00:25:38 ~ 2024/09/28 13:20:15
+本榜单时间：2024/09/01 00:25:38 ~ 2024/09/28 13:38:20
 </p>
 </blockquote>
 <p>
@@ -6617,6 +6617,12 @@ iPhone16史上最容易维修iPhone（热度：900387）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%A7%8B%E7%BB%88%E9%AB%98%E5%BA%A6%E9%87%8D%E8%A7%86%E6%B0%91%E6%97%8F%E5%B7%A5%E4%BD%9C%23%23" target="weibo">
 #习近平总书记始终高度重视民族工作#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E5%90%84%E6%97%8F%E4%BA%BA%E6%B0%91%E7%9A%84%E5%85%B1%E5%90%8C%E5%90%8D%E5%AD%97%E6%98%AF%E4%B8%AD%E5%9B%BD%E4%BA%BA%23%23" target="weibo">
+#各族人民的共同名字是中国人#
 </a>
 </li>
 
