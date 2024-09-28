@@ -1,13 +1,21 @@
 {
   "startTime": 1727454453610,
-  "endTime": 1727494871385,
+  "endTime": 1727497545965,
   "band_list": [
     {
       "raw_hot": 1632583,
-      "num": 399434,
+      "num": 413662,
       "word": "医院开工员工高喊先赚一个亿",
       "onboard_time": 1727488040,
       "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1604435,
+      "num": 1604435,
+      "word": "小孩因电梯故障被困徒手扒开门逃生",
+      "onboard_time": 1727492838,
+      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -44,7 +52,7 @@
     },
     {
       "raw_hot": 743427,
-      "num": 313058,
+      "num": 404686,
       "word": "年轻女租客遭6旬房东骚扰抑郁发作",
       "onboard_time": 1727491039,
       "rank": 14,
@@ -67,12 +75,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 661258,
-      "num": 661258,
-      "word": "小孩因电梯故障被困徒手扒开门逃生",
-      "onboard_time": 1727492838,
-      "rank": 7,
-      "category": "社会新闻"
+      "raw_hot": 617424,
+      "num": 409524,
+      "word": "杨紫素颜出发巴黎",
+      "onboard_time": 1727493619,
+      "rank": 31,
+      "category": "艺人,作品衍生"
     },
     {
       "raw_hot": 606104,
@@ -115,6 +123,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 564047,
+      "num": 564047,
+      "word": "A股大涨后第一批受益人出现了",
+      "onboard_time": 1727492058,
+      "rank": 21,
+      "category": "财经"
+    },
+    {
       "raw_hot": 545167,
       "num": 545167,
       "word": "职业闭店人收费十几万找人背几百万债",
@@ -129,22 +145,6 @@
       "onboard_time": 1727488699,
       "rank": 6,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 524762,
-      "num": 263189,
-      "word": "A股大涨后第一批受益人出现了",
-      "onboard_time": 1727492058,
-      "rank": 21,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 488924,
-      "num": 272025,
-      "word": "杨紫素颜出发巴黎",
-      "onboard_time": 1727493619,
-      "rank": 31,
-      "category": "艺人,作品衍生"
     },
     {
       "raw_hot": 482520,
@@ -163,6 +163,22 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 461642,
+      "num": 461642,
+      "word": "青年养老院住满了不想再卷的年轻人",
+      "onboard_time": 1727495059,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 446831,
+      "num": 446831,
+      "word": "小伙称整顿职场后上厕所都得报备",
+      "onboard_time": 1727493318,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 444259,
       "num": 444259,
       "word": "打假博主称东北雨姐丈夫曾拿刀威胁",
@@ -171,12 +187,28 @@
       "category": "网红"
     },
     {
+      "raw_hot": 444259,
+      "num": 444259,
+      "word": "你好星期六",
+      "onboard_time": 1727495960,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 437266,
       "num": 437266,
       "word": "张淇 破音",
       "onboard_time": 1727452578,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 420534,
+      "num": 420534,
+      "word": "中国登月服外观首次亮相",
+      "onboard_time": 1727488578,
+      "rank": 24,
+      "category": "国内时政"
     },
     {
       "raw_hot": 418452,
@@ -195,12 +227,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 414330,
-      "num": 414330,
-      "word": "中国登月服外观首次亮相",
-      "onboard_time": 1727488578,
-      "rank": 24,
-      "category": "国内时政"
+      "raw_hot": 407906,
+      "num": 407906,
+      "word": "第一批去养老院的90后已经后悔了",
+      "onboard_time": 1727496200,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 406932,
@@ -220,7 +252,7 @@
     },
     {
       "raw_hot": 369737,
-      "num": 369737,
+      "num": 416620,
       "word": "央视新闻国庆定制MV心同此愿",
       "onboard_time": 1727490017,
       "rank": 10,
@@ -273,6 +305,14 @@
       "onboard_time": 1727482519,
       "rank": 12,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 318893,
+      "num": 318893,
+      "word": "金珉奎 土豆",
+      "onboard_time": 1727496018,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 311188,
@@ -459,6 +499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 224099,
+      "num": 178008,
+      "word": "给不批假的领导们拉了个群",
+      "onboard_time": 1727496980,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 218916,
       "num": 218916,
       "word": "87套法拍房待拍卖仅1人报名",
@@ -475,12 +523,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 205342,
+      "num": 205342,
+      "word": "浙江安全转移不孕夫妇2万试管胚胎",
+      "onboard_time": 1727494879,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 199584,
       "num": 199584,
       "word": "周杰伦千山万水现场",
       "onboard_time": 1727447362,
       "rank": 17,
       "category": "演出"
+    },
+    {
+      "raw_hot": 192267,
+      "num": 197291,
+      "word": "易烊千玺只此青绿同名片尾曲首发",
+      "onboard_time": 1727496619,
+      "rank": 24,
+      "category": "电影"
     },
     {
       "raw_hot": 190371,
@@ -497,6 +561,14 @@
       "onboard_time": 1727436559,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 185711,
+      "num": 346482,
+      "word": "樊振东看了很多遍霸王别姬",
+      "onboard_time": 1727496379,
+      "rank": 16,
+      "category": "电影,体育"
     },
     {
       "raw_hot": 185285,
@@ -521,6 +593,14 @@
       "onboard_time": 1727443401,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 182645,
+      "num": 182645,
+      "word": "蒋奇明穿皮衣贵起来了",
+      "onboard_time": 1727496918,
+      "rank": 26,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 176019,
@@ -595,6 +675,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 152321,
+      "num": 152321,
+      "word": "我们该如何保护隐私权",
+      "onboard_time": 1727494398,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 151040,
       "num": 242923,
       "word": "肖战出道八周年",
@@ -667,6 +755,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 144447,
+      "num": 144447,
+      "word": "一家5口人疑因下水道毒气泄漏去世",
+      "onboard_time": 1727495299,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 143581,
       "num": 143581,
       "word": "英国国王首相悼念玛吉史密斯",
@@ -683,19 +779,19 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 137894,
+      "num": 137894,
+      "word": "SEVENTEEN预告",
+      "onboard_time": 1727495599,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 137095,
       "num": 137095,
       "word": "西安一医院办篝火晚会被指祭祀",
       "onboard_time": 1727486659,
       "rank": 34,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 136296,
-      "num": 289274,
-      "word": "小伙称整顿职场后上厕所都得报备",
-      "onboard_time": 1727493318,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -705,6 +801,14 @@
       "onboard_time": 1727491579,
       "rank": 34,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 133853,
+      "num": 133853,
+      "word": "郑钦文说感受到了东道主的快乐",
+      "onboard_time": 1727496738,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 133790,
@@ -723,12 +827,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 131497,
+      "num": 131497,
+      "word": "王源客厅狂欢巡演",
+      "onboard_time": 1727497218,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 130483,
       "num": 130483,
       "word": "加脱氢乙酸钠的面包糕点还能吃吗",
       "onboard_time": 1727479395,
       "rank": 27,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 130218,
+      "num": 130218,
+      "word": "披荆斩棘的哥哥",
+      "onboard_time": 1727496858,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 129613,
@@ -779,6 +899,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 124233,
+      "num": 124233,
+      "word": "杨幂西装高定",
+      "onboard_time": 1727495719,
+      "rank": 46,
+      "category": "作品衍生,艺人"
+    },
+    {
       "raw_hot": 124162,
       "num": 118554,
       "word": "闵熙珍说NewJeans不会离开HYBE",
@@ -811,6 +939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 117601,
+      "num": 117601,
+      "word": "范志毅愿意随时为中国足球效力",
+      "onboard_time": 1727495299,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 116773,
       "num": 116773,
       "word": "浙江IP到底有多幸福",
@@ -819,11 +955,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 106172,
-      "num": 106172,
-      "word": "我们该如何保护隐私权",
-      "onboard_time": 1727494398,
-      "rank": 44,
+      "raw_hot": 113620,
+      "num": 113620,
+      "word": "炉石传说排队",
+      "onboard_time": 1727497279,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 112718,
+      "num": 112718,
+      "word": "前华人首富出狱",
+      "onboard_time": 1727497460,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -1131,6 +1275,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 49659,
+      "num": 418090,
+      "word": "A股国庆节前还有一个交易日",
+      "onboard_time": 1727496319,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 47998,
       "num": 263483,
       "word": "西安八旬老太看牙却被全口拔牙",
@@ -1209,6 +1361,14 @@
       "onboard_time": 1727469671,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 28371,
+      "num": 412955,
+      "word": "赵今麦超能科学少女",
+      "onboard_time": 1727495719,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 28313,

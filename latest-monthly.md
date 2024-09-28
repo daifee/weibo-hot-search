@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/09/01 00:25:38 ~ 2024/09/28 11:41:11
+本榜单时间：2024/09/01 00:25:38 ~ 2024/09/28 12:25:45
 </p>
 </blockquote>
 <p>
@@ -1871,6 +1871,12 @@ iPhone16真机上手（热度：1763353）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%A9%E5%AD%90%E6%9C%AA%E5%81%9A%E8%82%9D%E8%84%8F%E6%B4%BB%E6%A3%80%E4%BF%9D%E9%99%A9%E5%85%AC%E5%8F%B8%E6%8B%92%E8%B5%94%23" target="weibo">
 孩子未做肝脏活检保险公司拒赔（热度：1607573）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%AD%A9%E5%9B%A0%E7%94%B5%E6%A2%AF%E6%95%85%E9%9A%9C%E8%A2%AB%E5%9B%B0%E5%BE%92%E6%89%8B%E6%89%92%E5%BC%80%E9%97%A8%E9%80%83%E7%94%9F%23" target="weibo">
+小孩因电梯故障被困徒手扒开门逃生（热度：1604435）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ iPhone16史上最容易维修iPhone（热度：900387）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%88%E8%82%A5%E6%88%90%E7%AB%8B%E8%81%94%E5%90%88%E8%B0%83%E6%9F%A5%E7%BB%84%E6%A0%B8%E6%9F%A5%E4%B8%89%E5%8F%AA%E7%BE%8A%E9%97%AE%E9%A2%98%23" target="weibo">
 合肥成立联合调查组核查三只羊问题（热度：881085）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%85%AC%E5%9B%AD%E5%9B%9E%E5%BA%94%E7%94%B7%E5%8E%95%E5%B0%8F%E4%BE%BF%E6%B1%A0%E5%8D%8A%E9%9C%B2%E5%A4%A9%E5%BC%8F%23" target="weibo">
-公园回应男厕小便池半露天式（热度：880889）
 </a>
 </li>
 
