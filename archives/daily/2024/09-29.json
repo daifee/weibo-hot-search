@@ -1,7 +1,15 @@
 {
   "startTime": 1727540758074,
-  "endTime": 1727563076896,
+  "endTime": 1727565689931,
   "band_list": [
+    {
+      "raw_hot": 628503,
+      "num": 158251,
+      "word": "青海有害气体中毒事件1家5口先后去世",
+      "onboard_time": 1727540236,
+      "rank": 38,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 512390,
       "num": 206965,
@@ -27,19 +35,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 443657,
+      "num": 772391,
+      "word": "大学生兼职泰山陪爬订单排到深秋",
+      "onboard_time": 1727555471,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 413817,
       "num": 157693,
       "word": "男子听信美容偏方1月不洗脸满脸结痂",
       "onboard_time": 1727534480,
       "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 352227,
-      "num": 158251,
-      "word": "青海有害气体中毒事件1家5口先后去世",
-      "onboard_time": 1727540236,
-      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -67,6 +75,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 296123,
+      "num": 296123,
+      "word": "赵丽颖不敢对李红樱感同身受",
+      "onboard_time": 1727545513,
+      "rank": 12,
+      "category": "电影"
+    },
+    {
       "raw_hot": 290355,
       "num": 290355,
       "word": "黎真主党证实纳斯鲁拉死亡",
@@ -75,10 +91,42 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 238985,
+      "raw_hot": 239389,
       "num": 172243,
       "word": "游泳队告六人去陈奕迅演唱会",
       "onboard_time": 1727531660,
+      "rank": 17,
+      "category": "体育,演出"
+    },
+    {
+      "raw_hot": 235758,
+      "num": 235758,
+      "word": "伊朗最高领袖称以无法严重伤害真主党",
+      "onboard_time": 1727541676,
+      "rank": 5,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 228985,
+      "num": 127652,
+      "word": "男孩按摩4次治驼背花近3万",
+      "onboard_time": 1727551032,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 219222,
+      "num": 219222,
+      "word": "以威胁若伊朗客机降落将袭黎机场",
+      "onboard_time": 1727551452,
+      "rank": 9,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 213470,
+      "num": 136281,
+      "word": "潘展乐大声给陈奕迅纠错",
+      "onboard_time": 1727565256,
       "rank": 17,
       "category": "体育,演出"
     },
@@ -107,15 +155,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 192592,
-      "num": 458748,
-      "word": "大学生兼职泰山陪爬订单排到深秋",
-      "onboard_time": 1727555471,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 188835,
+      "raw_hot": 193733,
       "num": 188835,
       "word": "停车费1小时200元车主质疑太贵",
       "onboard_time": 1727517858,
@@ -163,14 +203,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 164876,
-      "num": 158376,
-      "word": "伊朗最高领袖称以无法严重伤害真主党",
-      "onboard_time": 1727541676,
-      "rank": 5,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 163002,
       "num": 157941,
       "word": "国庆朋友圈已经预制好了",
@@ -185,6 +217,14 @@
       "onboard_time": 1727536939,
       "rank": 19,
       "category": "演出"
+    },
+    {
+      "raw_hot": 157354,
+      "num": 157354,
+      "word": "多种水果降价",
+      "onboard_time": 1727556492,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 145517,
@@ -219,20 +259,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 126893,
-      "num": 126893,
-      "word": "以威胁若伊朗客机降落将袭黎机场",
-      "onboard_time": 1727551452,
-      "rank": 9,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 125309,
       "num": 157536,
       "word": "陈奕迅靠在徐嘉余肩头",
       "onboard_time": 1727538019,
       "rank": 25,
       "category": "演出,体育"
+    },
+    {
+      "raw_hot": 122142,
+      "num": 122142,
+      "word": "阿根廷贫困率飙升至近53%",
+      "onboard_time": 1727555292,
+      "rank": 9,
+      "category": "国外时政"
     },
     {
       "raw_hot": 121821,
@@ -251,12 +291,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 120376,
-      "num": 120376,
-      "word": "赵丽颖不敢对李红樱感同身受",
-      "onboard_time": 1727545513,
-      "rank": 12,
-      "category": "电影"
+      "raw_hot": 118469,
+      "num": 157568,
+      "word": "印度一校长勾结老师勒死11岁学生",
+      "onboard_time": 1727522359,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 116345,
@@ -275,20 +315,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 107362,
-      "num": 70411,
-      "word": "男孩按摩4次治驼背花近3万",
-      "onboard_time": 1727551032,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 105701,
       "num": 157615,
       "word": "登陆少年 清华",
       "onboard_time": 1727521459,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 105446,
+      "num": 155268,
+      "word": "我们的歌",
+      "onboard_time": 1727563095,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 104364,
@@ -307,20 +347,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 101075,
-      "num": 101075,
-      "word": "多种水果降价",
-      "onboard_time": 1727556492,
-      "rank": 23,
-      "category": "社会新闻"
+      "raw_hot": 103454,
+      "num": 103454,
+      "word": "李梦偶遇小猪合影被吓到",
+      "onboard_time": 1727562674,
+      "rank": 46,
+      "category": "电影"
     },
     {
-      "raw_hot": 97483,
-      "num": 157568,
-      "word": "印度一校长勾结老师勒死11岁学生",
-      "onboard_time": 1727522359,
-      "rank": 33,
-      "category": "社会新闻"
+      "raw_hot": 100832,
+      "num": 143062,
+      "word": "经常喊累的人建议查查甲状腺",
+      "onboard_time": 1727544254,
+      "rank": 39,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 96294,
@@ -339,11 +379,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 88258,
+      "num": 157655,
+      "word": "南部战区部队时刻高度戒备",
+      "onboard_time": 1727541857,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 87211,
       "num": 157333,
       "word": "唐宫奇案 白鹿",
       "onboard_time": 1727522178,
       "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 86094,
+      "num": 132687,
+      "word": "半熟男女初恋组要be了",
+      "onboard_time": 1727564116,
+      "rank": 18,
       "category": "剧集"
     },
     {
@@ -355,28 +411,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 78612,
-      "num": 157655,
-      "word": "南部战区部队时刻高度戒备",
-      "onboard_time": 1727541857,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 78043,
       "num": 157411,
       "word": "付鹏与男子合影",
       "onboard_time": 1727503458,
       "rank": 39,
       "category": "网红"
-    },
-    {
-      "raw_hot": 77978,
-      "num": 77978,
-      "word": "阿根廷贫困率飙升至近53%",
-      "onboard_time": 1727555292,
-      "rank": 9,
-      "category": "国外时政"
     },
     {
       "raw_hot": 77861,
@@ -467,12 +507,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 63201,
-      "num": 143062,
-      "word": "经常喊累的人建议查查甲状腺",
-      "onboard_time": 1727544254,
-      "rank": 39,
-      "category": "健康医疗"
+      "raw_hot": 64984,
+      "num": 64984,
+      "word": "以色列对黎真主党领导人发动空袭现场",
+      "onboard_time": 1727564596,
+      "rank": 35,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 61409,
+      "num": 99680,
+      "word": "金钱至上观念与医院天职存在冲突",
+      "onboard_time": 1727561593,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 59055,
@@ -483,12 +531,36 @@
       "category": "体育"
     },
     {
-      "raw_hot": 52506,
+      "raw_hot": 56496,
       "num": 157461,
       "word": "青海有害气体中毒家属发声",
       "onboard_time": 1727542516,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 53002,
+      "num": 61485,
+      "word": "郑钦文中网开门红",
+      "onboard_time": 1727527219,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 51774,
+      "num": 158192,
+      "word": "中国从来没有所谓垮掉的一代",
+      "onboard_time": 1727543535,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 51003,
+      "num": 51003,
+      "word": "陈少熙 我把自己养的很好",
+      "onboard_time": 1727564776,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 50943,
@@ -497,6 +569,30 @@
       "onboard_time": 1727543174,
       "rank": 39,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 46945,
+      "num": 50987,
+      "word": "金枕榴莲在云南试种成功",
+      "onboard_time": 1727565196,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 45739,
+      "num": 61454,
+      "word": "内塔尼亚胡工作照曝光",
+      "onboard_time": 1727554272,
+      "rank": 42,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 45447,
+      "num": 66519,
+      "word": "我国新增工业机器人装机量占全球超50%",
+      "onboard_time": 1727563575,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 44186,
@@ -515,11 +611,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 40773,
-      "num": 158192,
-      "word": "中国从来没有所谓垮掉的一代",
-      "onboard_time": 1727543535,
-      "rank": 12,
+      "raw_hot": 43164,
+      "num": 61421,
+      "word": "登月服最动人的设计在手臂和背上",
+      "onboard_time": 1727545394,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -547,36 +643,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 33938,
-      "num": 61485,
-      "word": "郑钦文中网开门红",
-      "onboard_time": 1727527219,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
       "raw_hot": 33012,
       "num": 56605,
       "word": "雪一下任嘉伦的宿命感就来了",
       "onboard_time": 1727545992,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 32013,
-      "num": 61454,
-      "word": "内塔尼亚胡工作照曝光",
-      "onboard_time": 1727554272,
-      "rank": 42,
-      "category": "国外时政"
-    },
-    {
-      "raw_hot": 29709,
-      "num": 61421,
-      "word": "登月服最动人的设计在手臂和背上",
-      "onboard_time": 1727545394,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 28093,
@@ -595,14 +667,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 26354,
-      "num": 61348,
-      "word": "李梦偶遇小猪合影被吓到",
-      "onboard_time": 1727562674,
-      "rank": 46,
-      "category": "电影"
-    },
-    {
       "raw_hot": 25974,
       "num": 51156,
       "word": "徐德智谈被古特雷斯向王毅会长介绍",
@@ -611,11 +675,11 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 25306,
-      "num": 99680,
-      "word": "金钱至上观念与医院天职存在冲突",
-      "onboard_time": 1727561593,
-      "rank": 9,
+      "raw_hot": 25627,
+      "num": 154560,
+      "word": "中国持有机器人相关有效专利超19万项",
+      "onboard_time": 1727565436,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -684,7 +748,7 @@
     },
     {
       "raw_hot": 6572,
-      "num": 219516,
+      "num": 236892,
       "word": "这是75年来的青春之声",
       "onboard_time": 1727529858,
       "rank": 4,
