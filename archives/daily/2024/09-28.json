@@ -1,6 +1,6 @@
 {
   "startTime": 1727454453610,
-  "endTime": 1727480139384,
+  "endTime": 1727487655712,
   "band_list": [
     {
       "raw_hot": 936765,
@@ -9,6 +9,14 @@
       "onboard_time": 1727463192,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 886721,
+      "num": 1141875,
+      "word": "以总理一上场多国代表团离场",
+      "onboard_time": 1727484920,
+      "rank": 0,
+      "category": "国外时政"
     },
     {
       "raw_hot": 801781,
@@ -48,6 +56,14 @@
       "word": "关停饭圈相关违规账号10万余个",
       "onboard_time": 1727453239,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 545167,
+      "num": 545167,
+      "word": "职业闭店人收费十几万找人背几百万债",
+      "onboard_time": 1727463012,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -91,6 +107,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 413540,
+      "num": 413540,
+      "word": "内塔尼亚胡先生请现在就停止战争",
+      "onboard_time": 1727485278,
+      "rank": 3,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 406932,
       "num": 243991,
       "word": "武汉1.6级地震",
@@ -108,11 +132,43 @@
     },
     {
       "raw_hot": 334109,
-      "num": 174240,
+      "num": 223470,
       "word": "王栎鑫 我也没帮陈楚生拿下那一城",
       "onboard_time": 1727478316,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 328319,
+      "num": 328319,
+      "word": "邱贻可又被莎莎支配了",
+      "onboard_time": 1727482519,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 323947,
+      "num": 250295,
+      "word": "杨幂藤蔓高定黑裙",
+      "onboard_time": 1727482519,
+      "rank": 12,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 310102,
+      "num": 310102,
+      "word": "上海台将有序关停四个电视频道",
+      "onboard_time": 1727479395,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 309715,
+      "num": 223105,
+      "word": "全家拆迁7套房他仍选择摆摊讨生活",
+      "onboard_time": 1727482519,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 308166,
@@ -121,6 +177,14 @@
       "onboard_time": 1727450359,
       "rank": 7,
       "category": "演出"
+    },
+    {
+      "raw_hot": 299911,
+      "num": 299911,
+      "word": "749局 真实存在",
+      "onboard_time": 1727486838,
+      "rank": 7,
+      "category": "电影"
     },
     {
       "raw_hot": 299595,
@@ -140,7 +204,7 @@
     },
     {
       "raw_hot": 274054,
-      "num": 177460,
+      "num": 223047,
       "word": "刚出生宝宝遭隐翅虫攻击致头部感染",
       "onboard_time": 1727442439,
       "rank": 21,
@@ -153,6 +217,22 @@
       "onboard_time": 1727445320,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 258670,
+      "num": 247843,
+      "word": "章若楠刘诗诗撞造型",
+      "onboard_time": 1727487017,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 247833,
+      "num": 247833,
+      "word": "南部战区位中国黄岩岛附近海空域演训",
+      "onboard_time": 1727485278,
+      "rank": 14,
+      "category": "军事"
     },
     {
       "raw_hot": 234040,
@@ -171,19 +251,35 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 226147,
-      "num": 226147,
-      "word": "职业闭店人收费十几万找人背几百万债",
-      "onboard_time": 1727463012,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 225071,
       "num": 172984,
       "word": "女子钥匙放车里多次凌晨被开走",
       "onboard_time": 1727436018,
       "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 224528,
+      "num": 224528,
+      "word": "美方不能总以两副面孔对华",
+      "onboard_time": 1727482519,
+      "rank": 16,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 222727,
+      "num": 222727,
+      "word": "东北雨姐喊话打假博主做人留一线",
+      "onboard_time": 1727485160,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 218916,
+      "num": 218916,
+      "word": "87套法拍房待拍卖仅1人报名",
+      "onboard_time": 1727446040,
+      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -193,6 +289,22 @@
       "onboard_time": 1727437938,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 204774,
+      "num": 223913,
+      "word": "张子枫与李晓原型跨时空拥抱",
+      "onboard_time": 1727484139,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 199651,
+      "num": 199651,
+      "word": "小县城没有班味",
+      "onboard_time": 1727484437,
+      "rank": 24,
+      "category": "幽默,社会新闻"
     },
     {
       "raw_hot": 199584,
@@ -219,6 +331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 184411,
+      "num": 184411,
+      "word": "官方回应村民摆苹果堵路逼停车辆",
+      "onboard_time": 1727464692,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 183849,
       "num": 183849,
       "word": "安徽省地震局回应地震热点问题",
@@ -227,12 +347,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 176015,
-      "num": 176015,
-      "word": "官方回应村民摆苹果堵路逼停车辆",
-      "onboard_time": 1727464692,
-      "rank": 29,
-      "category": "社会新闻"
+      "raw_hot": 176019,
+      "num": 176019,
+      "word": "原神",
+      "onboard_time": 1727486118,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 169799,
+      "num": 169799,
+      "word": "长期不洗脸小心粟丘疹",
+      "onboard_time": 1727475912,
+      "rank": 38,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 169338,
+      "num": 169338,
+      "word": "以军大规模空袭黎巴嫩首都",
+      "onboard_time": 1727487078,
+      "rank": 32,
+      "category": "国外时政"
     },
     {
       "raw_hot": 168485,
@@ -243,6 +379,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 159446,
+      "num": 257240,
+      "word": "还有3天国庆",
+      "onboard_time": 1727483838,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 158453,
       "num": 158453,
       "word": "曹杨唱如果你也听说",
@@ -251,8 +395,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 155731,
+      "num": 155731,
+      "word": "部分客户已暂缓提前还贷",
+      "onboard_time": 1727481617,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 154760,
-      "num": 154760,
+      "num": 180838,
       "word": "大娃喊话雨姐我出事你也跑不掉",
       "onboard_time": 1727474652,
       "rank": 40,
@@ -267,6 +419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 151040,
+      "num": 183616,
+      "word": "肖战出道八周年",
+      "onboard_time": 1727482639,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 150604,
       "num": 150604,
       "word": "闵熙珍晒HANNI聊天记录",
@@ -275,12 +435,44 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 133257,
-      "num": 130503,
-      "word": "长期不洗脸小心粟丘疹",
-      "onboard_time": 1727475912,
+      "raw_hot": 149586,
+      "num": 149586,
+      "word": "中方绝不接受人权教师爷指手画脚",
+      "onboard_time": 1727480419,
+      "rank": 35,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 149282,
+      "num": 149282,
+      "word": "王毅会见布林肯",
+      "onboard_time": 1727480117,
+      "rank": 40,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 145579,
+      "num": 145579,
+      "word": "以军空袭黎巴嫩真主党总部",
+      "onboard_time": 1727481977,
+      "rank": 37,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 144893,
+      "num": 144893,
+      "word": "在青海吃到了水果届的活化石",
+      "onboard_time": 1727483778,
       "rank": 38,
-      "category": "健康医疗"
+      "category": "情感"
+    },
+    {
+      "raw_hot": 143099,
+      "num": 143099,
+      "word": "警方回应2车斗气互相抢道被顶翻",
+      "onboard_time": 1727485818,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 132346,
@@ -291,12 +483,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 130231,
-      "num": 130231,
-      "word": "87套法拍房待拍卖仅1人报名",
-      "onboard_time": 1727446040,
-      "rank": 31,
-      "category": "社会新闻"
+      "raw_hot": 130483,
+      "num": 130483,
+      "word": "加脱氢乙酸钠的面包糕点还能吃吗",
+      "onboard_time": 1727479395,
+      "rank": 27,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 129613,
+      "num": 129613,
+      "word": "红掌拨清波的画面具像化了",
+      "onboard_time": 1727486537,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 124162,
@@ -315,12 +515,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 117824,
+      "num": 117824,
+      "word": "高校回应新生答错第一任校长名字被处分",
+      "onboard_time": 1727464992,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 116773,
       "num": 116773,
       "word": "浙江IP到底有多幸福",
       "onboard_time": 1727434100,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 105011,
+      "num": 105011,
+      "word": "马斯克称中国的工业产能已远超美国",
+      "onboard_time": 1727482758,
+      "rank": 44,
+      "category": "互联网"
     },
     {
       "raw_hot": 103230,
@@ -371,12 +587,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 95534,
-      "num": 95534,
-      "word": "高校回应新生答错第一任校长名字被处分",
-      "onboard_time": 1727464992,
-      "rank": 44,
-      "category": "社会新闻"
+      "raw_hot": 94491,
+      "num": 178336,
+      "word": "樊振东为陈飞宇表演打call",
+      "onboard_time": 1727483958,
+      "rank": 28,
+      "category": "电影,体育"
+    },
+    {
+      "raw_hot": 94488,
+      "num": 94488,
+      "word": "QQ飞车手游",
+      "onboard_time": 1727487439,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 94399,
+      "num": 94399,
+      "word": "拳头取消Yagao替补资格",
+      "onboard_time": 1727478975,
+      "rank": 32,
+      "category": "电竞"
     },
     {
       "raw_hot": 90627,
@@ -403,28 +635,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 89085,
-      "num": 71552,
-      "word": "拳头取消Yagao替补资格",
-      "onboard_time": 1727478975,
-      "rank": 32,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 87302,
       "num": 87302,
       "word": "汪苏泷来过十万伏特你就定型了",
       "onboard_time": 1727453059,
       "rank": 39,
       "category": "演出"
-    },
-    {
-      "raw_hot": 83797,
-      "num": 83797,
-      "word": "加脱氢乙酸钠的面包糕点还能吃吗",
-      "onboard_time": 1727479395,
-      "rank": 27,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 83686,
@@ -547,14 +763,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 69523,
-      "num": 69523,
-      "word": "上海台将有序关停四个电视频道",
-      "onboard_time": 1727479395,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 68216,
       "num": 68216,
       "word": "和叶太甜了吧",
@@ -577,14 +785,6 @@
       "onboard_time": 1727452219,
       "rank": 42,
       "category": "情感"
-    },
-    {
-      "raw_hot": 65426,
-      "num": 65426,
-      "word": "王毅会见布林肯",
-      "onboard_time": 1727480117,
-      "rank": 40,
-      "category": "国内时政"
     },
     {
       "raw_hot": 64997,
@@ -643,6 +843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 39608,
+      "num": 177966,
+      "word": "以色列驻外使领馆处于高度戒备状态",
+      "onboard_time": 1727486779,
+      "rank": 29,
+      "category": "国外时政,军事"
+    },
+    {
       "raw_hot": 39515,
       "num": 175420,
       "word": "一头大熊猫白切黑要多久",
@@ -660,7 +868,7 @@
     },
     {
       "raw_hot": 36439,
-      "num": 367817,
+      "num": 432805,
       "word": "接力表白祖国",
       "onboard_time": 1727444179,
       "rank": 2,
