@@ -1,6 +1,6 @@
 {
   "startTime": 1726936020707,
-  "endTime": 1727491867409,
+  "endTime": 1727492473767,
   "band_list": [
     {
       "raw_hot": 12357374,
@@ -2628,7 +2628,7 @@
     },
     {
       "raw_hot": 638973,
-      "num": 1091424,
+      "num": 1102141,
       "word": "章若楠刘诗诗撞造型",
       "onboard_time": 1727487017,
       "rank": 13,
@@ -3147,6 +3147,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 546194,
+      "num": 546194,
+      "word": "内塔尼亚胡先生请现在就停止战争",
+      "onboard_time": 1727485278,
+      "rank": 3,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 545366,
       "num": 545366,
       "word": "杨幂欧豪生万物海报",
@@ -3257,14 +3265,6 @@
       "onboard_time": 1727227698,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 527839,
-      "num": 527839,
-      "word": "内塔尼亚胡先生请现在就停止战争",
-      "onboard_time": 1727485278,
-      "rank": 3,
-      "category": "国外时政"
     },
     {
       "raw_hot": 526214,
@@ -3472,6 +3472,14 @@
       "word": "阿尔山景区多家酒店默认早9点退房",
       "onboard_time": 1727270961,
       "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 492604,
+      "num": 313058,
+      "word": "年轻女租客遭6旬房东骚扰抑郁发作",
+      "onboard_time": 1727491039,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -4139,6 +4147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 418452,
+      "num": 242027,
+      "word": "新郎新娘举办着各自想要的婚礼",
+      "onboard_time": 1727488578,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 418165,
       "num": 337457,
       "word": "钟丽缇53岁状态",
@@ -4275,14 +4291,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 408583,
-      "num": 231750,
-      "word": "新郎新娘举办着各自想要的婚礼",
-      "onboard_time": 1727488578,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 407651,
       "num": 177607,
       "word": "王玉雯回应探班",
@@ -4321,6 +4329,14 @@
       "onboard_time": 1727230638,
       "rank": 27,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 402892,
+      "num": 402892,
+      "word": "中国登月服外观首次亮相",
+      "onboard_time": 1727488578,
+      "rank": 24,
+      "category": "国内时政"
     },
     {
       "raw_hot": 402740,
@@ -4371,20 +4387,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 399516,
+      "num": 399516,
+      "word": "以军大规模空袭黎巴嫩首都",
+      "onboard_time": 1727487078,
+      "rank": 32,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 399367,
       "num": 379682,
       "word": "赵丽颖带火的簪花渔村现状",
       "onboard_time": 1727223799,
       "rank": 7,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 399135,
-      "num": 399135,
-      "word": "以军大规模空袭黎巴嫩首都",
-      "onboard_time": 1727487078,
-      "rank": 32,
-      "category": "国外时政"
     },
     {
       "raw_hot": 397745,
@@ -4409,14 +4425,6 @@
       "onboard_time": 1727359580,
       "rank": 8,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 396107,
-      "num": 396107,
-      "word": "中国登月服外观首次亮相",
-      "onboard_time": 1727488578,
-      "rank": 24,
-      "category": "国内时政"
     },
     {
       "raw_hot": 395635,
@@ -5113,6 +5121,14 @@
       "onboard_time": 1727317817,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 343652,
+      "num": 241812,
+      "word": "A股大涨后第一批受益人出现了",
+      "onboard_time": 1727492058,
+      "rank": 21,
+      "category": "财经"
     },
     {
       "raw_hot": 343242,
@@ -6531,6 +6547,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 262894,
+      "num": 370347,
+      "word": "赵今麦哭戏",
+      "onboard_time": 1727487979,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 262780,
       "num": 262780,
       "word": "王一博 漫步者",
@@ -6617,14 +6641,6 @@
       "onboard_time": 1726979841,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 259910,
-      "num": 259910,
-      "word": "年轻女租客遭6旬房东骚扰抑郁发作",
-      "onboard_time": 1727491039,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 259839,
@@ -6995,19 +7011,19 @@
       "category": "演出"
     },
     {
+      "raw_hot": 242930,
+      "num": 242930,
+      "word": "周深国庆暖心献唱祝福祖国",
+      "onboard_time": 1727491278,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 242794,
       "num": 242794,
       "word": "楚乔传的含金量还在上升",
       "onboard_time": 1727224340,
       "rank": 22,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 242777,
-      "num": 370347,
-      "word": "赵今麦哭戏",
-      "onboard_time": 1727487979,
-      "rank": 26,
       "category": "剧集"
     },
     {
@@ -7057,6 +7073,14 @@
       "onboard_time": 1726979599,
       "rank": 34,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 241085,
+      "num": 241085,
+      "word": "国庆机票价格再次大跳水",
+      "onboard_time": 1727490138,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 241052,
@@ -7707,6 +7731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 221767,
+      "num": 221767,
+      "word": "孙颖莎获赠中国大满贯抽签筒",
+      "onboard_time": 1727492360,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 221456,
       "num": 306220,
       "word": "毛不易 希望大家一开场就哭",
@@ -8024,14 +8056,6 @@
       "word": "影子不会说谎和警方联合行动",
       "onboard_time": 1727233038,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 213810,
-      "num": 213810,
-      "word": "国庆机票价格再次大跳水",
-      "onboard_time": 1727490138,
-      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -9939,14 +9963,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 187106,
-      "num": 238901,
-      "word": "周深国庆暖心献唱祝福祖国",
-      "onboard_time": 1727491278,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 187008,
       "num": 187008,
       "word": "iPhone15ProMax为上半年最畅销手机",
@@ -10449,6 +10465,14 @@
       "onboard_time": 1727146279,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 178587,
+      "num": 178587,
+      "word": "唐斯被交易到尼克斯",
+      "onboard_time": 1727492119,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 178579,
@@ -12348,7 +12372,7 @@
     },
     {
       "raw_hot": 151040,
-      "num": 183616,
+      "num": 242923,
       "word": "肖战出道八周年",
       "onboard_time": 1727482639,
       "rank": 26,
@@ -12835,6 +12859,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 145505,
+      "num": 145505,
+      "word": "赵丽颖蓝色水光长裙",
+      "onboard_time": 1727492178,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 145374,
       "num": 328206,
       "word": "古特雷斯称黎巴嫩可能成另一个加沙",
@@ -13129,6 +13161,14 @@
       "onboard_time": 1727110514,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 141292,
+      "num": 141292,
+      "word": "登月服设计灵感有飞天飘带也有铠甲",
+      "onboard_time": 1727491699,
+      "rank": 41,
+      "category": "国内时政"
     },
     {
       "raw_hot": 141281,
@@ -14235,14 +14275,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 126915,
-      "num": 126914,
-      "word": "登月服设计灵感有飞天飘带也有铠甲",
-      "onboard_time": 1727491699,
-      "rank": 41,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 126759,
       "num": 126759,
       "word": "360度全景看登月服",
@@ -14297,6 +14329,14 @@
       "onboard_time": 1727352979,
       "rank": 42,
       "category": "数码"
+    },
+    {
+      "raw_hot": 126022,
+      "num": 126022,
+      "word": "汪顺报项100蛙",
+      "onboard_time": 1727490978,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 125893,
@@ -15283,6 +15323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 110979,
+      "num": 110979,
+      "word": "卓沅 第一次见陈少熙这么温柔",
+      "onboard_time": 1727492360,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 110712,
       "num": 110712,
       "word": "林孝埈赛季首战",
@@ -15553,14 +15601,6 @@
       "onboard_time": 1727058198,
       "rank": 38,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 103082,
-      "num": 112419,
-      "word": "汪顺报项100蛙",
-      "onboard_time": 1727490978,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 102715,
@@ -20400,6 +20440,14 @@
       "word": "青春华章津彩绽放",
       "onboard_time": 1726994960,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 8587,
+      "num": 132248,
+      "word": "孔子是思想疗愈届超级网红",
+      "onboard_time": 1727492417,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
