@@ -1,6 +1,6 @@
 {
   "startTime": 1727454453610,
-  "endTime": 1727501900770,
+  "endTime": 1727504927653,
   "band_list": [
     {
       "raw_hot": 1632583,
@@ -25,6 +25,22 @@
       "onboard_time": 1727496200,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1010364,
+      "num": 1161658,
+      "word": "东北雨姐夫妻实控约30家企业",
+      "onboard_time": 1727501958,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1005402,
+      "num": 313267,
+      "word": "付鹏与男子合影",
+      "onboard_time": 1727503458,
+      "rank": 11,
+      "category": "网红"
     },
     {
       "raw_hot": 936765,
@@ -267,6 +283,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 372234,
+      "num": 372234,
+      "word": "王俊凯不参加749局路演",
+      "onboard_time": 1727503038,
+      "rank": 3,
+      "category": "电影"
+    },
+    {
       "raw_hot": 369737,
       "num": 416620,
       "word": "央视新闻国庆定制MV心同此愿",
@@ -281,6 +305,30 @@
       "onboard_time": 1727498600,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 364355,
+      "num": 274982,
+      "word": "小S自曝感染霉浆菌",
+      "onboard_time": 1727502078,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 361519,
+      "num": 344590,
+      "word": "杨幂申敏儿小水巴黎时装周路透",
+      "onboard_time": 1727501538,
+      "rank": 6,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 352431,
+      "num": 255501,
+      "word": "韩安冉晒产后马甲线",
+      "onboard_time": 1727502378,
+      "rank": 18,
+      "category": "网红"
     },
     {
       "raw_hot": 342774,
@@ -380,7 +428,7 @@
     },
     {
       "raw_hot": 305420,
-      "num": 305420,
+      "num": 345028,
       "word": "我们该如何保护隐私权",
       "onboard_time": 1727494398,
       "rank": 44,
@@ -491,6 +539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 243347,
+      "num": 243347,
+      "word": "食堂阿姨的消息比辅导员还灵通",
+      "onboard_time": 1727499978,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 242930,
       "num": 278308,
       "word": "周深国庆暖心献唱祝福祖国",
@@ -547,6 +603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 226160,
+      "num": 264362,
+      "word": "Kim请吃饭的漂亮姐姐",
+      "onboard_time": 1727502378,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 226145,
       "num": 226145,
       "word": "楠丁格尔先生",
@@ -561,14 +625,6 @@
       "onboard_time": 1727436018,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 223648,
-      "num": 223648,
-      "word": "食堂阿姨的消息比辅导员还灵通",
-      "onboard_time": 1727499978,
-      "rank": 38,
-      "category": "幽默"
     },
     {
       "raw_hot": 218916,
@@ -747,12 +803,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 168969,
+      "num": 168969,
+      "word": "我的身份证上有你的名字",
+      "onboard_time": 1727503640,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 168485,
       "num": 168485,
       "word": "中国最没存在感的省会",
       "onboard_time": 1727427199,
       "rank": 22,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 166542,
+      "num": 166542,
+      "word": "雅wink",
+      "onboard_time": 1727504538,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 164398,
@@ -776,6 +848,14 @@
       "word": "曹杨唱如果你也听说",
       "onboard_time": 1727453239,
       "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 158105,
+      "num": 158105,
+      "word": "杨笠 不是敢说是不知道这个不能说",
+      "onboard_time": 1727504360,
+      "rank": 32,
       "category": "综艺"
     },
     {
@@ -833,6 +913,14 @@
       "onboard_time": 1727451739,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 152234,
+      "num": 152234,
+      "word": "起底东北雨姐的彪悍人生",
+      "onboard_time": 1727503818,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 151040,
@@ -971,6 +1059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 136099,
+      "num": 136099,
+      "word": "小鹿 整容脸是天道酬勤",
+      "onboard_time": 1727504538,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 134909,
       "num": 134909,
       "word": "张凌赫 粤语是苏感开关",
@@ -1017,6 +1113,14 @@
       "onboard_time": 1727479395,
       "rank": 27,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 129800,
+      "num": 129800,
+      "word": "许凯济南活动",
+      "onboard_time": 1727504178,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 129613,
@@ -1107,6 +1211,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 121156,
+      "num": 121156,
+      "word": "夏目友人帐 初恋杀回来了",
+      "onboard_time": 1727502859,
+      "rank": 41,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 119225,
       "num": 119225,
       "word": "存款利率或将再次下调",
@@ -1147,11 +1259,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 116521,
+      "num": 116521,
+      "word": "明月苍茫开机",
+      "onboard_time": 1727503580,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 116091,
       "num": 116091,
       "word": "符龙飞舞剑",
       "onboard_time": 1727501238,
       "rank": 48,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 113821,
+      "num": 113821,
+      "word": "谢可寅拍照被虞书欣特训过",
+      "onboard_time": 1727504178,
+      "rank": 47,
       "category": "综艺"
     },
     {
@@ -1161,6 +1289,14 @@
       "onboard_time": 1727497279,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 108982,
+      "num": 111057,
+      "word": "郭麒麟新剧开机",
+      "onboard_time": 1727503399,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 105011,
@@ -1475,12 +1611,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 49282,
+      "num": 288215,
+      "word": "老人不管瘫痪老伴被诉辩称儿子出钱",
+      "onboard_time": 1727503219,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 47998,
       "num": 263483,
       "word": "西安八旬老太看牙却被全口拔牙",
       "onboard_time": 1727493318,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 47792,
+      "num": 199963,
+      "word": "樊振东现身志愿军存亡之战首映",
+      "onboard_time": 1727502678,
+      "rank": 22,
+      "category": "电影,体育"
     },
     {
       "raw_hot": 43070,
@@ -1576,6 +1728,14 @@
       "word": "官方通报商铺93克黄金变84克",
       "onboard_time": 1727469671,
       "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 28783,
+      "num": 325486,
+      "word": "创业板指创历史最大周涨幅纪录",
+      "onboard_time": 1727503219,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -1681,6 +1841,14 @@
       "onboard_time": 1727477834,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 11470,
+      "num": 160834,
+      "word": "只此青绿团队与山东签约",
+      "onboard_time": 1727504899,
+      "rank": 29,
+      "category": "电影"
     }
   ],
   "hotgov_list": [

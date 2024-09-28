@@ -1,0 +1,410 @@
+{
+  "runTime": 1727504927653,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1010364,
+        "num": 1161658,
+        "word": "东北雨姐夫妻实控约30家企业",
+        "onboard_time": 1727501958,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 468424,
+        "num": 468424,
+        "word": "一念关山妆造",
+        "onboard_time": 1727499379,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 21474,
+        "num": 417161,
+        "word": "东方白鹳宝宝带你探秘东营黄河口",
+        "onboard_time": 1727499619,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 372234,
+        "num": 372234,
+        "word": "王俊凯不参加749局路演",
+        "onboard_time": 1727503038,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 348853,
+        "num": 348853,
+        "word": "A股大涨后第一批受益人出现了",
+        "onboard_time": 1727492058,
+        "rank": 4,
+        "category": "财经,其它"
+      },
+      {
+        "raw_hot": 184812,
+        "num": 345028,
+        "word": "我们该如何保护隐私权",
+        "onboard_time": 1727494398,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 361519,
+        "num": 344590,
+        "word": "杨幂申敏儿小水巴黎时装周路透",
+        "onboard_time": 1727501538,
+        "rank": 6,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 341209,
+        "num": 341209,
+        "word": "杨笠最后一次参加脱口秀比赛类综艺",
+        "onboard_time": 1727498600,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184157,
+        "num": 334095,
+        "word": "央视新闻国庆定制MV心同此愿",
+        "onboard_time": 1727490017,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28783,
+        "num": 325486,
+        "word": "创业板指创历史最大周涨幅纪录",
+        "onboard_time": 1727503219,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153261,
+        "num": 317279,
+        "word": "中国登月服外观首次亮相",
+        "onboard_time": 1727488578,
+        "rank": 10,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1005402,
+        "num": 313267,
+        "word": "付鹏与男子合影",
+        "onboard_time": 1727503458,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 738137,
+        "num": 308706,
+        "word": "第一批去养老院的90后已经后悔了",
+        "onboard_time": 1727496200,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 459922,
+        "num": 295201,
+        "word": "小孩因电梯故障被困徒手扒开门逃生",
+        "onboard_time": 1727492838,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 49282,
+        "num": 288215,
+        "word": "老人不管瘫痪老伴被诉辩称儿子出钱",
+        "onboard_time": 1727503219,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183845,
+        "num": 279732,
+        "word": "给中国人自己的登月服起名",
+        "onboard_time": 1727488699,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 364355,
+        "num": 274982,
+        "word": "小S自曝感染霉浆菌",
+        "onboard_time": 1727502078,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 226160,
+        "num": 264362,
+        "word": "Kim请吃饭的漂亮姐姐",
+        "onboard_time": 1727502378,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 352431,
+        "num": 255501,
+        "word": "韩安冉晒产后马甲线",
+        "onboard_time": 1727502378,
+        "rank": 18,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 252392,
+        "num": 252392,
+        "word": "章若楠刘诗诗撞造型",
+        "onboard_time": 1727487017,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 243347,
+        "num": 243347,
+        "word": "食堂阿姨的消息比辅导员还灵通",
+        "onboard_time": 1727499978,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 32191,
+        "num": 206901,
+        "word": "原神四周年",
+        "onboard_time": 1727499799,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 47792,
+        "num": 199963,
+        "word": "樊振东现身志愿军存亡之战首映",
+        "onboard_time": 1727502678,
+        "rank": 22,
+        "category": "电影,体育"
+      },
+      {
+        "raw_hot": 193356,
+        "num": 193356,
+        "word": "给不批假的领导们拉了个群",
+        "onboard_time": 1727496980,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 185169,
+        "num": 185169,
+        "word": "医院开工员工高喊先赚一个亿",
+        "onboard_time": 1727488040,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181837,
+        "num": 181837,
+        "word": "小伙称整顿职场后上厕所都得报备",
+        "onboard_time": 1727493318,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179161,
+        "num": 179161,
+        "word": "尤长靖四公第一",
+        "onboard_time": 1727498600,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168969,
+        "num": 168969,
+        "word": "我的身份证上有你的名字",
+        "onboard_time": 1727503640,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166542,
+        "num": 166542,
+        "word": "雅wink",
+        "onboard_time": 1727504538,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 11470,
+        "num": 160834,
+        "word": "只此青绿团队与山东签约",
+        "onboard_time": 1727504899,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 168365,
+        "num": 160370,
+        "word": "杨紫素颜出发巴黎",
+        "onboard_time": 1727493619,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159411,
+        "num": 159411,
+        "word": "青年养老院住满了不想再卷的年轻人",
+        "onboard_time": 1727495059,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158105,
+        "num": 158105,
+        "word": "杨笠 不是敢说是不知道这个不能说",
+        "onboard_time": 1727504360,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155721,
+        "num": 155721,
+        "word": "心同此愿",
+        "onboard_time": 1727489057,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152234,
+        "num": 152234,
+        "word": "起底东北雨姐的彪悍人生",
+        "onboard_time": 1727503818,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136099,
+        "num": 136099,
+        "word": "小鹿 整容脸是天道酬勤",
+        "onboard_time": 1727504538,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134562,
+        "num": 134562,
+        "word": "你好种地少年2观后感",
+        "onboard_time": 1727499679,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129800,
+        "num": 129800,
+        "word": "许凯济南活动",
+        "onboard_time": 1727504178,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129343,
+        "num": 129343,
+        "word": "A股国庆节前还有一个交易日",
+        "onboard_time": 1727496319,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127837,
+        "num": 127837,
+        "word": "湖南加入宝藏家乡群聊",
+        "onboard_time": 1727490739,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121784,
+        "num": 121784,
+        "word": "阿如那淘汰",
+        "onboard_time": 1727499018,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121156,
+        "num": 121156,
+        "word": "夏目友人帐 初恋杀回来了",
+        "onboard_time": 1727502859,
+        "rank": 41,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 118947,
+        "num": 118947,
+        "word": "小伙疑因要求补缴公积金被穿小鞋",
+        "onboard_time": 1727500278,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116521,
+        "num": 116521,
+        "word": "明月苍茫开机",
+        "onboard_time": 1727503580,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117715,
+        "num": 116478,
+        "word": "浙江安全转移不孕夫妇2万试管胚胎",
+        "onboard_time": 1727494879,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115930,
+        "num": 115930,
+        "word": "国庆机票价格再次大跳水",
+        "onboard_time": 1727490138,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114053,
+        "num": 114053,
+        "word": "还有3天国庆",
+        "onboard_time": 1727483838,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113821,
+        "num": 113821,
+        "word": "谢可寅拍照被虞书欣特训过",
+        "onboard_time": 1727504178,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112005,
+        "num": 112005,
+        "word": "周深国庆暖心献唱祝福祖国",
+        "onboard_time": 1727491278,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108982,
+        "num": 111057,
+        "word": "郭麒麟新剧开机",
+        "onboard_time": 1727503399,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记始终高度重视民族工作#"
+    }
+  }
+}
