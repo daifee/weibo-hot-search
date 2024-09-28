@@ -1,6 +1,6 @@
 {
   "startTime": 1726936020707,
-  "endTime": 1727528076905,
+  "endTime": 1727529836569,
   "band_list": [
     {
       "raw_hot": 12357374,
@@ -580,7 +580,7 @@
     },
     {
       "raw_hot": 1549468,
-      "num": 313267,
+      "num": 317609,
       "word": "付鹏与男子合影",
       "onboard_time": 1727503458,
       "rank": 11,
@@ -964,7 +964,7 @@
     },
     {
       "raw_hot": 1263477,
-      "num": 269598,
+      "num": 282862,
       "word": "77岁老太被野猪咬伤拿刀反杀",
       "onboard_time": 1727513060,
       "rank": 21,
@@ -2067,6 +2067,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 793949,
+      "num": 323303,
+      "word": "秦岚 分手后我不会和前任做朋友",
+      "onboard_time": 1727527698,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 788154,
       "num": 788154,
       "word": "山东齐河县政府财政局办公楼起火",
@@ -3033,6 +3041,14 @@
       "onboard_time": 1727090300,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 601502,
+      "num": 601502,
+      "word": "WTT晚宴",
+      "onboard_time": 1727527400,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 601371,
@@ -4939,6 +4955,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 380184,
+      "num": 294014,
+      "word": "国庆朋友圈已经预制好了",
+      "onboard_time": 1727525959,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 380057,
       "num": 372033,
       "word": "杜江找肖战要签名后续",
@@ -5275,6 +5299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 359821,
+      "num": 359821,
+      "word": "郑钦文比赛爆满",
+      "onboard_time": 1727523380,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 359677,
       "num": 359677,
       "word": "A股全面爆发",
@@ -5443,6 +5475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 349488,
+      "num": 320543,
+      "word": "何超莲这个背不去拔罐可惜了",
+      "onboard_time": 1727528780,
+      "rank": 16,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 347756,
       "num": 347756,
       "word": "庄周新皮肤牧神诗旅",
@@ -5473,14 +5513,6 @@
       "onboard_time": 1727331799,
       "rank": 18,
       "category": "电影"
-    },
-    {
-      "raw_hot": 345758,
-      "num": 331429,
-      "word": "WTT晚宴",
-      "onboard_time": 1727527400,
-      "rank": 13,
-      "category": "体育"
     },
     {
       "raw_hot": 345326,
@@ -5723,14 +5755,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 331064,
-      "num": 163017,
-      "word": "国庆朋友圈已经预制好了",
-      "onboard_time": 1727525959,
-      "rank": 33,
-      "category": "情感"
-    },
-    {
       "raw_hot": 331060,
       "num": 331060,
       "word": "TFBOYS恭喜王俊凯全球代言",
@@ -5881,6 +5905,14 @@
       "onboard_time": 1727445741,
       "rank": 18,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 320186,
+      "num": 332591,
+      "word": "郑钦文中网开门红",
+      "onboard_time": 1727527219,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 318490,
@@ -6092,7 +6124,7 @@
     },
     {
       "raw_hot": 307887,
-      "num": 186614,
+      "num": 206068,
       "word": "印度一校长勾结老师勒死11岁学生",
       "onboard_time": 1727522359,
       "rank": 30,
@@ -6425,14 +6457,6 @@
       "onboard_time": 1727408839,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 287638,
-      "num": 332591,
-      "word": "郑钦文中网开门红",
-      "onboard_time": 1727527219,
-      "rank": 7,
-      "category": "体育"
     },
     {
       "raw_hot": 287450,
@@ -6777,6 +6801,14 @@
       "onboard_time": 1727312778,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 272969,
+      "num": 272969,
+      "word": "韩国人用卷心菜娃娃菜代替大白菜",
+      "onboard_time": 1727528600,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 272966,
@@ -7179,6 +7211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 259181,
+      "num": 259181,
+      "word": "孙佳俊破亚洲纪录",
+      "onboard_time": 1727527819,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 258979,
       "num": 258979,
       "word": "Kim回归offer6",
@@ -7401,6 +7441,14 @@
       "onboard_time": 1727312899,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 249407,
+      "num": 249407,
+      "word": "黎真主党誓言继续对抗以色列",
+      "onboard_time": 1727526859,
+      "rank": 14,
+      "category": "国外时政"
     },
     {
       "raw_hot": 249076,
@@ -8083,14 +8131,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 227571,
-      "num": 332125,
-      "word": "郑钦文比赛爆满",
-      "onboard_time": 1727523380,
-      "rank": 35,
-      "category": "体育"
-    },
-    {
       "raw_hot": 227541,
       "num": 227541,
       "word": "念无双",
@@ -8379,6 +8419,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 220223,
+      "num": 220223,
+      "word": "鲸落全过程",
+      "onboard_time": 1727524697,
+      "rank": 27,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 219657,
       "num": 219657,
       "word": "二十一天开播",
@@ -8467,6 +8515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 217772,
+      "num": 217772,
+      "word": "上海85平米的小家",
+      "onboard_time": 1727527158,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 217672,
       "num": 226086,
       "word": "花花小肚皮上堆满苹果",
@@ -8537,6 +8593,14 @@
       "onboard_time": 1727061738,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 216857,
+      "num": 216857,
+      "word": "沈月杨超越聊自己医美经历",
+      "onboard_time": 1727529021,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 216851,
@@ -10019,6 +10083,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 194225,
+      "num": 217201,
+      "word": "王源红发",
+      "onboard_time": 1727529501,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 194223,
       "num": 356295,
       "word": "全国已有25个省份延长婚假",
@@ -10483,6 +10555,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 189247,
+      "num": 218866,
+      "word": "汪苏泷天津演唱会嘉宾是张碧晨",
+      "onboard_time": 1727528600,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 189239,
       "num": 189239,
       "word": "曾舜晞头套保住了",
@@ -10931,6 +11011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 183756,
+      "num": 183756,
+      "word": "火树分享参观清华的方式",
+      "onboard_time": 1727529261,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 183728,
       "num": 186188,
       "word": "德云社节目单",
@@ -11115,12 +11203,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 180796,
-      "num": 159150,
-      "word": "孙佳俊破亚洲纪录",
-      "onboard_time": 1727527819,
-      "rank": 31,
-      "category": "体育"
+      "raw_hot": 180802,
+      "num": 180802,
+      "word": "全国婚假最长的省份是哪个",
+      "onboard_time": 1727524818,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 180667,
@@ -11209,6 +11297,14 @@
       "onboard_time": 1727155460,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 179193,
+      "num": 179193,
+      "word": "郑钦文感谢现场观众",
+      "onboard_time": 1727528179,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 179030,
@@ -11372,7 +11468,7 @@
     },
     {
       "raw_hot": 176528,
-      "num": 176528,
+      "num": 218611,
       "word": "Kanye试听会",
       "onboard_time": 1727526499,
       "rank": 26,
@@ -11665,6 +11761,14 @@
       "onboard_time": 1727349199,
       "rank": 31,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 172907,
+      "num": 172907,
+      "word": "烈士纪念日",
+      "onboard_time": 1727528960,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 172668,
@@ -12395,14 +12499,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 163899,
-      "num": 233849,
-      "word": "黎真主党誓言继续对抗以色列",
-      "onboard_time": 1727526859,
-      "rank": 14,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 163785,
       "num": 163785,
       "word": "孙颖莎首场对阵波兰选手",
@@ -12841,14 +12937,6 @@
       "onboard_time": 1726997000,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 157297,
-      "num": 157297,
-      "word": "全国婚假最长的省份是哪个",
-      "onboard_time": 1727524818,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 157289,
@@ -13563,6 +13651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 148661,
+      "num": 148661,
+      "word": "WTT",
+      "onboard_time": 1727170999,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 148629,
       "num": 205454,
       "word": "陈晓云襄传2造型",
@@ -14225,14 +14321,6 @@
       "onboard_time": 1726976358,
       "rank": 45,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 140857,
-      "num": 140857,
-      "word": "WTT",
-      "onboard_time": 1727170999,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 140639,
@@ -15371,6 +15459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 128022,
+      "num": 128022,
+      "word": "郑钦文晋级中网32强",
+      "onboard_time": 1727528600,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 127867,
       "num": 242596,
       "word": "EVISU发了王一博赛车照",
@@ -15940,7 +16036,7 @@
     },
     {
       "raw_hot": 121202,
-      "num": 121202,
+      "num": 323750,
       "word": "哈马斯对黎真主党领导人之死表示哀悼",
       "onboard_time": 1727527580,
       "rank": 45,
@@ -16283,14 +16379,6 @@
       "category": "演出,电竞"
     },
     {
-      "raw_hot": 116914,
-      "num": 116914,
-      "word": "秦岚 分手后我不会和前任做朋友",
-      "onboard_time": 1727527698,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 116765,
       "num": 116765,
       "word": "极乐鸟 电次",
@@ -16609,14 +16697,6 @@
       "onboard_time": 1727432359,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 112635,
-      "num": 112635,
-      "word": "上海85平米的小家",
-      "onboard_time": 1727527158,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 112634,
@@ -17969,6 +18049,14 @@
       "onboard_time": 1727413582,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 76199,
+      "num": 307871,
+      "word": "檀健次 减肥不是说减就减吗",
+      "onboard_time": 1727529021,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 76095,
@@ -20011,6 +20099,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 40356,
+      "num": 178728,
+      "word": "超燃3X联赛真的燃",
+      "onboard_time": 1727529381,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 40355,
       "num": 140767,
       "word": "搜狐视频播主大会",
@@ -20739,6 +20835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 31176,
+      "num": 322349,
+      "word": "杨幂同款手袋",
+      "onboard_time": 1727528179,
+      "rank": 12,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 31100,
       "num": 179830,
       "word": "女子停车遇阻质疑给领导预留车位",
@@ -21177,6 +21281,14 @@
       "onboard_time": 1727341879,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 27227,
+      "num": 463816,
+      "word": "喜欢国风的外国小姐姐解释华夏",
+      "onboard_time": 1727528960,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 27200,
