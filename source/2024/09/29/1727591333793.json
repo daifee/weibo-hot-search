@@ -1,0 +1,410 @@
+{
+  "runTime": 1727591333793,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 950373,
+        "num": 1152059,
+        "word": "多家房企宣布涨价",
+        "onboard_time": 1727588840,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 645434,
+        "num": 645434,
+        "word": "多家银行大额存单掀起转让潮",
+        "onboard_time": 1727587158,
+        "rank": 1,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 8164,
+        "num": 643768,
+        "word": "功勋模范铿锵有力唱歌唱祖国",
+        "onboard_time": 1727571618,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 643402,
+        "num": 643402,
+        "word": "何卓佳3比0张本美和",
+        "onboard_time": 1727585900,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 466507,
+        "num": 466507,
+        "word": "中国银行为防诈骗限制储户取款",
+        "onboard_time": 1727582539,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 440128,
+        "num": 440128,
+        "word": "张本美和止步首轮",
+        "onboard_time": 1727586199,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 429484,
+        "num": 429484,
+        "word": "CP30涨价",
+        "onboard_time": 1727587459,
+        "rank": 6,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 142269,
+        "num": 406755,
+        "word": "电影749局首映",
+        "onboard_time": 1727587220,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 387965,
+        "num": 387965,
+        "word": "12306从未授权第三方平台卖票",
+        "onboard_time": 1727578817,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 42460,
+        "num": 385692,
+        "word": "投资者线上排队开户",
+        "onboard_time": 1727590218,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2561192,
+        "num": 372258,
+        "word": "快递柜拿取声吵到婴儿被封",
+        "onboard_time": 1727588598,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 671322,
+        "num": 363417,
+        "word": "电影这个杀手不太冷定档",
+        "onboard_time": 1727584880,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 579527,
+        "num": 356813,
+        "word": "一家四口惨死民警苦苦追凶27年",
+        "onboard_time": 1727579298,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 354064,
+        "num": 354064,
+        "word": "侯明昊卢昱晓 她在闹他在笑",
+        "onboard_time": 1727586260,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 308316,
+        "num": 308316,
+        "word": "刘浩存Minnie出发巴黎时装周撞衫",
+        "onboard_time": 1727589979,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 305649,
+        "num": 305649,
+        "word": "商家回应女子买一颗话梅收71.6元",
+        "onboard_time": 1727590580,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104719,
+        "num": 293810,
+        "word": "暗恋是蒋时延一个人的兵荒马乱",
+        "onboard_time": 1727590399,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 286438,
+        "num": 286438,
+        "word": "买到假爱马仕因没开箱视频遭拒退",
+        "onboard_time": 1727580018,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33940,
+        "num": 284238,
+        "word": "侃爷听到南京憋不住笑了",
+        "onboard_time": 1727590820,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24254,
+        "num": 283244,
+        "word": "赛道上的显眼豹",
+        "onboard_time": 1727588657,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 282959,
+        "num": 282959,
+        "word": "高鹏冷暴力逼何知南提分手",
+        "onboard_time": 1727588538,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 527875,
+        "num": 282629,
+        "word": "保研朋友圈屏蔽了三百多人",
+        "onboard_time": 1727586980,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 277739,
+        "num": 277739,
+        "word": "林昀儒2比3卡尔伯格",
+        "onboard_time": 1727589919,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 260853,
+        "num": 260853,
+        "word": "郑钦文早就提醒裁判关顶棚",
+        "onboard_time": 1727587520,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 256252,
+        "num": 256252,
+        "word": "东北菜可不止量大",
+        "onboard_time": 1727590159,
+        "rank": 24,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 240797,
+        "num": 240797,
+        "word": "老人被高空坠落的火钳砸中身亡",
+        "onboard_time": 1727590639,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232190,
+        "num": 232190,
+        "word": "黑神话悟空初版铁扇公主",
+        "onboard_time": 1727587339,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 229601,
+        "num": 229601,
+        "word": "不是上链接吗怎么上警车了",
+        "onboard_time": 1727587339,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122417,
+        "num": 228836,
+        "word": "战至巅峰",
+        "onboard_time": 1727590218,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 228279,
+        "num": 228279,
+        "word": "15人被授予国家勋章国家荣誉称号",
+        "onboard_time": 1727584640,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 208374,
+        "num": 208374,
+        "word": "孙颖莎11比1",
+        "onboard_time": 1727581338,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 192022,
+        "num": 192022,
+        "word": "何卓佳说孙颖莎赛前给自己支招",
+        "onboard_time": 1727589020,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 186461,
+        "num": 186461,
+        "word": "张本智和说自己算上上签",
+        "onboard_time": 1727580859,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 173619,
+        "num": 173619,
+        "word": "保研",
+        "onboard_time": 1727578099,
+        "rank": 33,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 56076,
+        "num": 168320,
+        "word": "以军打死真主党领导人影响有多大",
+        "onboard_time": 1727589319,
+        "rank": 34,
+        "category": "社会新闻,国外时政"
+      },
+      {
+        "raw_hot": 122408,
+        "num": 165707,
+        "word": "二十一天 成年人的友情",
+        "onboard_time": 1727588780,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164008,
+        "num": 164008,
+        "word": "孙颖莎许魏洲合照",
+        "onboard_time": 1727587459,
+        "rank": 36,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 161631,
+        "num": 161631,
+        "word": "倪夏莲3比0简彤娟",
+        "onboard_time": 1727588958,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157546,
+        "num": 157546,
+        "word": "张碧晨武艺只差一岁被人认成母子",
+        "onboard_time": 1727580381,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156341,
+        "num": 156341,
+        "word": "孙颖莎打笑了",
+        "onboard_time": 1727583561,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 152263,
+        "num": 152263,
+        "word": "女子帮顾客扫充电宝未归还称寒心了",
+        "onboard_time": 1727590820,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142318,
+        "num": 142318,
+        "word": "乃万时装周反差感",
+        "onboard_time": 1727590218,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 137300,
+        "num": 137300,
+        "word": "刘国梁观战孙颖莎",
+        "onboard_time": 1727588239,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136536,
+        "num": 136536,
+        "word": "周雨彤推开刘烨",
+        "onboard_time": 1727576298,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 91009,
+        "num": 135850,
+        "word": "业内人士称房企保价涨价是营销手段",
+        "onboard_time": 1727590580,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135630,
+        "num": 135630,
+        "word": "股民4天人均赚4.7万",
+        "onboard_time": 1727574137,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 135342,
+        "num": 135342,
+        "word": "A股上涨你四天赚了多少钱",
+        "onboard_time": 1727588057,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 131020,
+        "num": 131020,
+        "word": "许嵩 我不配看恋综吗",
+        "onboard_time": 1727576656,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 127465,
+        "num": 127465,
+        "word": "林诗栋3比1博格斯",
+        "onboard_time": 1727590939,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126313,
+        "num": 126313,
+        "word": "挚爱我的祖国",
+        "onboard_time": 1727587940,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#国家勋章国家荣誉称号颁授仪式#"
+    }
+  }
+}
