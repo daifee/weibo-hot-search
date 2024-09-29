@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/09/30 00:26:22 ~ 2024/09/30 04:22:24
+本榜单时间：2024/09/30 00:26:22 ~ 2024/09/30 04:35:50
 </p>
 </blockquote>
 <p>
@@ -375,6 +375,12 @@ SM新女团路透照（热度：143998）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%B2%E5%8E%86%E8%80%85%E8%AE%B2%E8%BF%B0%E9%94%8C%E6%B0%B4%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85%E5%89%8D%E5%9B%A0%E5%90%8E%E6%9E%9C%23" target="weibo">
+亲历者讲述锌水爆炸事故前因后果（热度：25878）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BA%B3%E6%96%AF%E9%B2%81%E6%8B%89%E4%B9%8B%E6%AD%BB%E6%88%96%E5%8F%AA%E6%98%AF%E5%BC%80%E5%A7%8B%E8%80%8C%E9%9D%9E%E7%BB%93%E6%9D%9F%23" target="weibo">
 纳斯鲁拉之死或只是开始而非结束（热度：25672）
 </a>
@@ -405,14 +411,8 @@ AG告别秋季赛（热度：23810）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BA%B2%E5%8E%86%E8%80%85%E8%AE%B2%E8%BF%B0%E9%94%8C%E6%B0%B4%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85%E5%89%8D%E5%9B%A0%E5%90%8E%E6%9E%9C%23" target="weibo">
-亲历者讲述锌水爆炸事故前因后果（热度：22487）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%8E%E7%9C%9F%E4%B8%BB%E5%85%9A%E7%A7%B0%E5%AF%B9%E4%BB%A5%E5%A2%83%E5%86%85%E7%9B%AE%E6%A0%87%E5%8F%91%E5%B0%84%E7%81%AB%E7%AE%AD%E5%BC%B9%23" target="weibo">
-黎真主党称对以境内目标发射火箭弹（热度：18390）
+黎真主党称对以境内目标发射火箭弹（热度：20335）
 </a>
 </li>
 
