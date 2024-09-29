@@ -1,6 +1,6 @@
 {
   "startTime": 1727540758074,
-  "endTime": 1727591333793,
+  "endTime": 1727592155911,
   "band_list": [
     {
       "raw_hot": 2561192,
@@ -51,6 +51,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1318720,
+      "num": 1318720,
+      "word": "多家房企宣布涨价",
+      "onboard_time": 1727588840,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1312474,
       "num": 634900,
       "word": "周雨彤推开刘烨",
@@ -91,14 +99,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 950373,
-      "num": 1152059,
-      "word": "多家房企宣布涨价",
-      "onboard_time": 1727588840,
-      "rank": 0,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 833534,
       "num": 1133365,
       "word": "大学生兼职泰山陪爬订单排到深秋",
@@ -121,6 +121,14 @@
       "onboard_time": 1727578099,
       "rank": 27,
       "category": "教育"
+    },
+    {
+      "raw_hot": 767296,
+      "num": 305649,
+      "word": "商家回应女子买一颗话梅收71.6元",
+      "onboard_time": 1727590580,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 766593,
@@ -355,6 +363,14 @@
       "category": "体育,演出"
     },
     {
+      "raw_hot": 398788,
+      "num": 308316,
+      "word": "刘浩存Minnie出发巴黎时装周撞衫",
+      "onboard_time": 1727589979,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 396473,
       "num": 396473,
       "word": "黄继光后人有17人参军",
@@ -377,6 +393,14 @@
       "onboard_time": 1727572578,
       "rank": 8,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 378948,
+      "num": 255820,
+      "word": "老人被高空坠落的火钳砸中身亡",
+      "onboard_time": 1727590639,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 375367,
@@ -481,22 +505,6 @@
       "onboard_time": 1727570898,
       "rank": 20,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 308316,
-      "num": 308316,
-      "word": "刘浩存Minnie出发巴黎时装周撞衫",
-      "onboard_time": 1727589979,
-      "rank": 14,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 305649,
-      "num": 305649,
-      "word": "商家回应女子买一颗话梅收71.6元",
-      "onboard_time": 1727590580,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 300658,
@@ -619,8 +627,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 256252,
-      "num": 256252,
+      "raw_hot": 258310,
+      "num": 258310,
       "word": "东北菜可不止量大",
       "onboard_time": 1727590159,
       "rank": 24,
@@ -633,14 +641,6 @@
       "onboard_time": 1727551452,
       "rank": 9,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 240797,
-      "num": 240797,
-      "word": "老人被高空坠落的火钳砸中身亡",
-      "onboard_time": 1727590639,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 239577,
@@ -795,6 +795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 209291,
+      "num": 197242,
+      "word": "女子帮顾客扫充电宝未归还称寒心了",
+      "onboard_time": 1727590820,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 209283,
       "num": 209283,
       "word": "心动的信号7素人返场路透",
@@ -857,6 +865,14 @@
       "onboard_time": 1727587819,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 197475,
+      "num": 197475,
+      "word": "檀健次南京演唱会抢票",
+      "onboard_time": 1727591419,
+      "rank": 29,
+      "category": "演出"
     },
     {
       "raw_hot": 196360,
@@ -931,6 +947,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 180789,
+      "num": 180789,
+      "word": "倪夏莲3比0简彤娟",
+      "onboard_time": 1727588958,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 180538,
       "num": 208820,
       "word": "毛不易带着八杯酒的消愁回来了",
@@ -945,6 +969,14 @@
       "onboard_time": 1727578159,
       "rank": 46,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 178922,
+      "num": 178922,
+      "word": "镇魂街2穷剧不穷特效",
+      "onboard_time": 1727591360,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 178197,
@@ -984,6 +1016,14 @@
       "word": "看见这幅画隔屏闻见吉林鱼香了",
       "onboard_time": 1727537780,
       "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 167733,
+      "num": 167733,
+      "word": "6岁小孩手腕断裂反安慰母亲",
+      "onboard_time": 1727591657,
+      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -1027,14 +1067,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 161631,
-      "num": 161631,
-      "word": "倪夏莲3比0简彤娟",
-      "onboard_time": 1727588958,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 160034,
       "num": 160034,
       "word": "国庆想当熊猫腿替回老家看看",
@@ -1073,14 +1105,6 @@
       "onboard_time": 1727580980,
       "rank": 40,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 152263,
-      "num": 152263,
-      "word": "女子帮顾客扫充电宝未归还称寒心了",
-      "onboard_time": 1727590820,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 150469,
@@ -1171,6 +1195,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 141383,
+      "num": 256591,
+      "word": "业内人士称房企保价涨价是营销手段",
+      "onboard_time": 1727590580,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 140112,
       "num": 140112,
       "word": "布云朝克特晋级中网8强",
@@ -1185,6 +1217,14 @@
       "onboard_time": 1727536041,
       "rank": 23,
       "category": "美食"
+    },
+    {
+      "raw_hot": 139162,
+      "num": 139162,
+      "word": "女子遭遇话梅刺客一斤3580元",
+      "onboard_time": 1727592019,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 137300,
@@ -1273,6 +1313,14 @@
       "onboard_time": 1727590939,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 127107,
+      "num": 127107,
+      "word": "网曝女子买一颗话梅被收71.6元",
+      "onboard_time": 1727592078,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 127046,
@@ -1403,6 +1451,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 118398,
+      "num": 118398,
+      "word": "孙颖莎给外国运动员推荐北京烤鸭",
+      "onboard_time": 1727592138,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 117241,
       "num": 143062,
       "word": "经常喊累的人建议查查甲状腺",
@@ -1417,6 +1473,14 @@
       "onboard_time": 1727539580,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 115421,
+      "num": 293810,
+      "word": "暗恋是蒋时延一个人的兵荒马乱",
+      "onboard_time": 1727590399,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 114119,
@@ -1481,14 +1545,6 @@
       "onboard_time": 1727563095,
       "rank": 9,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 104719,
-      "num": 293810,
-      "word": "暗恋是蒋时延一个人的兵荒马乱",
-      "onboard_time": 1727590399,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 104364,
@@ -1587,14 +1643,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 91009,
-      "num": 135850,
-      "word": "业内人士称房企保价涨价是营销手段",
-      "onboard_time": 1727590580,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 88258,
       "num": 157655,
       "word": "南部战区部队时刻高度戒备",
@@ -1625,6 +1673,14 @@
       "onboard_time": 1727564596,
       "rank": 35,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 86312,
+      "num": 284238,
+      "word": "侃爷听到南京憋不住笑了",
+      "onboard_time": 1727590820,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 86097,
@@ -1803,6 +1859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 60668,
+      "num": 385692,
+      "word": "投资者线上排队开户",
+      "onboard_time": 1727590218,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 59971,
       "num": 257124,
       "word": "内塔尼亚胡称中东无以长臂不及之处",
@@ -1955,14 +2019,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 42460,
-      "num": 385692,
-      "word": "投资者线上排队开户",
-      "onboard_time": 1727590218,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 39379,
       "num": 61318,
       "word": "徐德智称被点名时脑子一片空白",
@@ -2001,14 +2057,6 @@
       "onboard_time": 1727586500,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 33940,
-      "num": 284238,
-      "word": "侃爷听到南京憋不住笑了",
-      "onboard_time": 1727590820,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 33012,
