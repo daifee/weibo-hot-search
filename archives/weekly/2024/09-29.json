@@ -1,6 +1,6 @@
 {
   "startTime": 1727540758074,
-  "endTime": 1727579253905,
+  "endTime": 1727580712177,
   "band_list": [
     {
       "raw_hot": 1465522,
@@ -11,8 +11,16 @@
       "category": "财经"
     },
     {
+      "raw_hot": 1400197,
+      "num": 1400197,
+      "word": "国庆请2休10超长假受打工人追捧",
+      "onboard_time": 1727578277,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1312474,
-      "num": 346558,
+      "num": 364011,
       "word": "周雨彤推开刘烨",
       "onboard_time": 1727576298,
       "rank": 10,
@@ -20,7 +28,7 @@
     },
     {
       "raw_hot": 984420,
-      "num": 343697,
+      "num": 359978,
       "word": "许嵩 我不配看恋综吗",
       "onboard_time": 1727576656,
       "rank": 11,
@@ -41,6 +49,22 @@
       "onboard_time": 1727571798,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 740105,
+      "num": 740105,
+      "word": "保研",
+      "onboard_time": 1727578099,
+      "rank": 27,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 734836,
+      "num": 1089083,
+      "word": "国家最高礼遇迎接功勋模范",
+      "onboard_time": 1727575578,
+      "rank": 24,
+      "category": "国内时政"
     },
     {
       "raw_hot": 713846,
@@ -75,14 +99,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 556770,
-      "num": 1089083,
-      "word": "国家最高礼遇迎接功勋模范",
-      "onboard_time": 1727575578,
-      "rank": 24,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 536450,
       "num": 347830,
       "word": "这大概是最费发夹的发型了",
@@ -105,6 +121,14 @@
       "onboard_time": 1727527698,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 511004,
+      "num": 190357,
+      "word": "国庆出游的打工人搜爆病号服",
+      "onboard_time": 1727578459,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 504589,
@@ -139,11 +163,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 433023,
+      "raw_hot": 458600,
       "num": 333065,
       "word": "男子为了出气杀害表哥一家四口",
       "onboard_time": 1727577979,
       "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 440104,
+      "num": 356878,
+      "word": "一家四口惨死民警苦苦追凶27年",
+      "onboard_time": 1727579298,
+      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -153,6 +185,14 @@
       "onboard_time": 1727534480,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 407793,
+      "num": 407793,
+      "word": "孙颖莎vs巴约尔",
+      "onboard_time": 1727574858,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 402719,
@@ -203,6 +243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 350716,
+      "num": 350716,
+      "word": "被王毅认出又被联合国秘书长点赞",
+      "onboard_time": 1727579238,
+      "rank": 47,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 342261,
       "num": 274053,
       "word": "为什么是上厕所不是下厕所",
@@ -217,6 +265,14 @@
       "onboard_time": 1727571439,
       "rank": 9,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 339537,
+      "num": 339537,
+      "word": "12306从未授权第三方平台卖票",
+      "onboard_time": 1727578817,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 338406,
@@ -249,14 +305,6 @@
       "onboard_time": 1727575879,
       "rank": 8,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 322039,
-      "num": 322039,
-      "word": "保研",
-      "onboard_time": 1727578099,
-      "rank": 27,
-      "category": "教育"
     },
     {
       "raw_hot": 320829,
@@ -355,6 +403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 227273,
+      "num": 227273,
+      "word": "纷玩岛",
+      "onboard_time": 1727580079,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 223691,
       "num": 188835,
       "word": "停车费1小时200元车主质疑太贵",
@@ -372,19 +428,11 @@
     },
     {
       "raw_hot": 214541,
-      "num": 360094,
+      "num": 736059,
       "word": "功勋模范铿锵有力唱歌唱祖国",
       "onboard_time": 1727571618,
       "rank": 17,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 214305,
-      "num": 214305,
-      "word": "国庆请2休10超长假受打工人追捧",
-      "onboard_time": 1727578277,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 213095,
@@ -419,20 +467,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 205526,
-      "num": 349963,
-      "word": "孙颖莎vs巴约尔",
-      "onboard_time": 1727574858,
-      "rank": 14,
-      "category": "体育"
-    },
-    {
       "raw_hot": 202279,
       "num": 189895,
       "word": "用人民币视角感受瑞士物价",
       "onboard_time": 1727577437,
       "rank": 31,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 198839,
+      "num": 198839,
+      "word": "喜儿扮演者获颁人民艺术家",
+      "onboard_time": 1727579838,
+      "rank": 23,
+      "category": "国内时政"
     },
     {
       "raw_hot": 196360,
@@ -443,20 +491,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 195991,
+      "num": 195991,
+      "word": "张碧晨武艺只差一岁被人认成母子",
+      "onboard_time": 1727580381,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 195049,
+      "num": 195049,
+      "word": "徐锦江送儿子拍封神时嚎啕大哭",
+      "onboard_time": 1727580137,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 192802,
+      "num": 192802,
+      "word": "以空军控制黎巴嫩贝鲁特机场",
+      "onboard_time": 1727579598,
+      "rank": 27,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 190971,
       "num": 195334,
       "word": "登陆少年暖房仪式",
       "onboard_time": 1727577617,
       "rank": 26,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 190357,
-      "num": 190357,
-      "word": "国庆出游的打工人搜爆病号服",
-      "onboard_time": 1727578459,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 186404,
@@ -499,12 +563,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 180164,
+      "num": 180164,
+      "word": "买到假爱马仕因没开箱视频遭拒退",
+      "onboard_time": 1727580018,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 178197,
       "num": 208756,
       "word": "以军称打死黎真主党领导人纳斯鲁拉",
       "onboard_time": 1727511379,
       "rank": 7,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 177680,
+      "num": 177680,
+      "word": "要推动全社会尊崇英雄",
+      "onboard_time": 1727579658,
+      "rank": 31,
+      "category": "国内时政"
     },
     {
       "raw_hot": 172505,
@@ -596,7 +676,7 @@
     },
     {
       "raw_hot": 142456,
-      "num": 335871,
+      "num": 376788,
       "word": "A股今天不开盘",
       "onboard_time": 1727578099,
       "rank": 13,
@@ -611,12 +691,44 @@
       "category": "美食"
     },
     {
-      "raw_hot": 132628,
-      "num": 132628,
-      "word": "12306从未授权第三方平台卖票",
-      "onboard_time": 1727578817,
+      "raw_hot": 139814,
+      "num": 139814,
+      "word": "国庆想当熊猫腿替回老家看看",
+      "onboard_time": 1727580199,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 137730,
+      "num": 137730,
+      "word": "何广智精修脑子毛坯嘴",
+      "onboard_time": 1727580318,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 136232,
+      "num": 136232,
+      "word": "周斌 你让我觉得恶心",
+      "onboard_time": 1727580440,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 135574,
+      "num": 135574,
+      "word": "4人获得共和国勋章",
+      "onboard_time": 1727580318,
+      "rank": 41,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 131272,
+      "num": 131272,
+      "word": "刘浩存出发巴黎时装周",
+      "onboard_time": 1727579778,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 130805,
@@ -651,6 +763,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 127046,
+      "num": 127046,
+      "word": "梁洁平衡性好强",
+      "onboard_time": 1727579719,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 126251,
       "num": 189405,
       "word": "音乐缘计划全员爆梗哇声一片",
@@ -681,6 +801,14 @@
       "onboard_time": 1727574557,
       "rank": 42,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 122918,
+      "num": 157299,
+      "word": "黄子弘凡上海演唱会抢票",
+      "onboard_time": 1727580560,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 122142,
@@ -825,14 +953,6 @@
       "onboard_time": 1727520558,
       "rank": 32,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 104362,
-      "num": 104362,
-      "word": "被王毅认出又被联合国秘书长点赞",
-      "onboard_time": 1727579238,
-      "rank": 47,
-      "category": "国内时政"
     },
     {
       "raw_hot": 103855,
@@ -1209,6 +1329,14 @@
       "onboard_time": 1727547252,
       "rank": 24,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 37977,
+      "num": 371384,
+      "word": "全党全国各族人民要以英雄模范为榜样",
+      "onboard_time": 1727580199,
+      "rank": 8,
+      "category": "社会新闻,国内时政"
     },
     {
       "raw_hot": 36876,
