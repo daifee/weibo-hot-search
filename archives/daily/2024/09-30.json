@@ -1,6 +1,6 @@
 {
   "startTime": 1727627182055,
-  "endTime": 1727627182055,
+  "endTime": 1727628113105,
   "band_list": [
     {
       "raw_hot": 1153138,
@@ -43,7 +43,7 @@
       "category": "演出"
     },
     {
-      "raw_hot": 323716,
+      "raw_hot": 371704,
       "num": 291015,
       "word": "俩老人买黄金不问价店员果断报警",
       "onboard_time": 1727611399,
@@ -139,8 +139,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 212905,
-      "num": 212905,
+      "raw_hot": 220384,
+      "num": 220384,
       "word": "双胞胎还在妈妈子宫就把手术做了",
       "onboard_time": 1727597717,
       "rank": 19,
@@ -227,8 +227,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 113690,
-      "num": 113690,
+      "raw_hot": 113827,
+      "num": 113827,
       "word": "央媒评淘宝可使用微信支付",
       "onboard_time": 1727610558,
       "rank": 32,
@@ -244,7 +244,7 @@
     },
     {
       "raw_hot": 110148,
-      "num": 110148,
+      "num": 115273,
       "word": "上海住房增值税征免年限5年调整为2年",
       "onboard_time": 1727623639,
       "rank": 34,
@@ -315,6 +315,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 82320,
+      "num": 82320,
+      "word": "杭州警方通报网红遭人持刀抢劫",
+      "onboard_time": 1727605219,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 78851,
       "num": 78851,
       "word": "甘孜一油罐车坠崖夫妻身亡",
@@ -323,12 +331,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 77998,
-      "num": 77998,
-      "word": "杭州警方通报网红遭人持刀抢劫",
-      "onboard_time": 1727605219,
-      "rank": 43,
-      "category": "社会新闻"
+      "raw_hot": 78583,
+      "num": 78583,
+      "word": "王楚钦光速进32强",
+      "onboard_time": 1727611579,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 76815,
+      "num": 76815,
+      "word": "如鸢孙策",
+      "onboard_time": 1727627357,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 76306,
@@ -345,6 +361,14 @@
       "onboard_time": 1727621840,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 73209,
+      "num": 73209,
+      "word": "东北雨姐回应后继续掉粉",
+      "onboard_time": 1727627597,
+      "rank": 42,
+      "category": "网红"
     },
     {
       "raw_hot": 72544,
@@ -379,12 +403,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 62858,
-      "num": 72533,
-      "word": "王楚钦光速进32强",
-      "onboard_time": 1727611579,
-      "rank": 49,
-      "category": "体育"
+      "raw_hot": 63216,
+      "num": 63216,
+      "word": "10月1至2日在深圳的有福了",
+      "onboard_time": 1727615600,
+      "rank": 46,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 6971,
