@@ -1,6 +1,6 @@
 {
   "startTime": 1727627182055,
-  "endTime": 1727634467364,
+  "endTime": 1727635283077,
   "band_list": [
     {
       "raw_hot": 1153138,
@@ -428,7 +428,7 @@
     },
     {
       "raw_hot": 63216,
-      "num": 65035,
+      "num": 92073,
       "word": "10月1至2日在深圳的有福了",
       "onboard_time": 1727615600,
       "rank": 46,
@@ -456,6 +456,14 @@
       "word": "麦迪娜佟丽娅新疆美女联动了",
       "onboard_time": 1727623340,
       "rank": 45,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 30649,
+      "num": 30649,
+      "word": "虞书欣情商",
+      "onboard_time": 1727634792,
+      "rank": 35,
       "category": "艺人"
     },
     {
@@ -489,6 +497,14 @@
       "onboard_time": 1727603179,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 22995,
+      "num": 29014,
+      "word": "重庆断崖式降温你准备好了吗",
+      "onboard_time": 1727634673,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 7510,
