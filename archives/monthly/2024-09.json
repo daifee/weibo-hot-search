@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1727628113105,
+  "endTime": 1727630288348,
   "band_list": [
     {
       "raw_hot": 28035334,
@@ -24419,6 +24419,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 333356,
+      "num": 333356,
+      "word": "TES",
+      "onboard_time": 1727629514,
+      "rank": 1,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 333219,
       "num": 333219,
       "word": "NINEPERCENT QQ音乐",
@@ -32225,6 +32233,14 @@
       "onboard_time": 1725165079,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 244881,
+      "num": 244881,
+      "word": "深圳首套房最低首付款比例调整为15%",
+      "onboard_time": 1727628915,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 244839,
@@ -70531,6 +70547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 102304,
+      "num": 102304,
+      "word": "如鸢孙策",
+      "onboard_time": 1727627357,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 102254,
       "num": 102254,
       "word": "涵艺说scout百分百去不了世界赛",
@@ -71425,6 +71449,14 @@
       "onboard_time": 1726700416,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 96408,
+      "num": 96408,
+      "word": "东北雨姐回应后继续掉粉",
+      "onboard_time": 1727627597,
+      "rank": 42,
+      "category": "网红"
     },
     {
       "raw_hot": 96170,
@@ -73859,14 +73891,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 76815,
-      "num": 76815,
-      "word": "如鸢孙策",
-      "onboard_time": 1727627357,
-      "rank": 38,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 76797,
       "num": 213423,
       "word": "女子投诉物业拒不办理法拍房收房",
@@ -74417,14 +74441,6 @@
       "onboard_time": 1725145694,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 73209,
-      "num": 73209,
-      "word": "东北雨姐回应后继续掉粉",
-      "onboard_time": 1727627597,
-      "rank": 42,
-      "category": "网红"
     },
     {
       "raw_hot": 73193,
@@ -77259,6 +77275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 56352,
+      "num": 65039,
+      "word": "深圳进一步优化房地产政策",
+      "onboard_time": 1727628915,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 56335,
       "num": 202766,
       "word": "英国老兵一辈子都记得感谢中国渔民",
@@ -79251,6 +79275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 47141,
+      "num": 96168,
+      "word": "音乐缘计划",
+      "onboard_time": 1727629815,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 47113,
       "num": 422054,
       "word": "二次元美瞳市场乱象频发",
@@ -79667,6 +79699,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 45683,
+      "num": 296261,
+      "word": "麦迪娜佟丽娅新疆美女联动了",
+      "onboard_time": 1727623340,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 45630,
       "num": 45630,
       "word": "平遥国际电影展",
@@ -79800,6 +79840,14 @@
       "word": "罗大美案主犯潜逃缅甸输掉大部分赃款",
       "onboard_time": 1725672319,
       "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 45053,
+      "num": 64910,
+      "word": "骗子把老人所有定期存款转成活期",
+      "onboard_time": 1727629155,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -82641,14 +82689,6 @@
       "onboard_time": 1726943114,
       "rank": 44,
       "category": "演出"
-    },
-    {
-      "raw_hot": 35872,
-      "num": 296261,
-      "word": "麦迪娜佟丽娅新疆美女联动了",
-      "onboard_time": 1727623340,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 35866,
