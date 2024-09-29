@@ -1,0 +1,410 @@
+{
+  "runTime": 1727579253905,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 556770,
+        "num": 1089083,
+        "word": "国家最高礼遇迎接功勋模范",
+        "onboard_time": 1727575578,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 360343,
+        "num": 360343,
+        "word": "国家功勋人物一路红毯入场",
+        "onboard_time": 1727575879,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 86103,
+        "num": 360094,
+        "word": "功勋模范铿锵有力唱歌唱祖国",
+        "onboard_time": 1727571618,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1326990,
+        "num": 360094,
+        "word": "股民4天人均赚4.7万",
+        "onboard_time": 1727574137,
+        "rank": 3,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 518868,
+        "num": 360084,
+        "word": "赵丽颖不敢跟导演和肖央说难受",
+        "onboard_time": 1727575998,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 360071,
+        "num": 360071,
+        "word": "内塔尼亚胡喊话伊朗你打我我就打你",
+        "onboard_time": 1727571677,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 357891,
+        "num": 357891,
+        "word": "小水妆造",
+        "onboard_time": 1727574738,
+        "rank": 6,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 356048,
+        "num": 356048,
+        "word": "大学生兼职泰山陪爬订单排到深秋",
+        "onboard_time": 1727555471,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 328428,
+        "num": 354194,
+        "word": "战斗英雄黄宗德抵达人民大会堂",
+        "onboard_time": 1727575879,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 205526,
+        "num": 349963,
+        "word": "孙颖莎vs巴约尔",
+        "onboard_time": 1727574858,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1241644,
+        "num": 346558,
+        "word": "周雨彤推开刘烨",
+        "onboard_time": 1727576298,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 882105,
+        "num": 343697,
+        "word": "许嵩 我不配看恋综吗",
+        "onboard_time": 1727576656,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 438832,
+        "num": 339932,
+        "word": "著名书法家田英章去世",
+        "onboard_time": 1727575998,
+        "rank": 12,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 142456,
+        "num": 335871,
+        "word": "A股今天不开盘",
+        "onboard_time": 1727578099,
+        "rank": 13,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 433023,
+        "num": 333065,
+        "word": "男子为了出气杀害表哥一家四口",
+        "onboard_time": 1727577979,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 331195,
+        "num": 331195,
+        "word": "河南婚假28天排全国第四",
+        "onboard_time": 1727571798,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 322039,
+        "num": 322039,
+        "word": "保研",
+        "onboard_time": 1727578099,
+        "rank": 16,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 261718,
+        "num": 261718,
+        "word": "倪妮红裙生图",
+        "onboard_time": 1727573658,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 239000,
+        "num": 239000,
+        "word": "黄宗德被颁授共和国勋章",
+        "onboard_time": 1727577498,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 226844,
+        "num": 226844,
+        "word": "秦岚 分手后我不会和前任做朋友",
+        "onboard_time": 1727527698,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 305012,
+        "num": 226612,
+        "word": "为什么是上厕所不是下厕所",
+        "onboard_time": 1727573478,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 217697,
+        "num": 217697,
+        "word": "威少炮轰湖人快船",
+        "onboard_time": 1727576837,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 214305,
+        "num": 214305,
+        "word": "国庆请2休10超长假受打工人追捧",
+        "onboard_time": 1727578277,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190357,
+        "num": 190357,
+        "word": "国庆出游的打工人搜爆病号服",
+        "onboard_time": 1727578459,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189271,
+        "num": 189271,
+        "word": "WTT中国大满贯开幕式",
+        "onboard_time": 1727577378,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 181162,
+        "num": 181162,
+        "word": "田华佩戴奖章敬礼",
+        "onboard_time": 1727577737,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 179092,
+        "num": 179092,
+        "word": "双开门冰箱突然变大气了",
+        "onboard_time": 1727570898,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 176058,
+        "num": 176058,
+        "word": "Jennie新歌概念预告",
+        "onboard_time": 1727572578,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 159228,
+        "num": 159228,
+        "word": "死亡搁浅2",
+        "onboard_time": 1727576477,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 158543,
+        "num": 158543,
+        "word": "王一博的攀岩plog",
+        "onboard_time": 1727578879,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 202279,
+        "num": 157668,
+        "word": "用人民币视角感受瑞士物价",
+        "onboard_time": 1727577437,
+        "rank": 30,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 154820,
+        "num": 154820,
+        "word": "当男朋友带着小猫来接我时",
+        "onboard_time": 1727572818,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 9415,
+        "num": 153084,
+        "word": "喜欢国风的外国小姐姐解释华夏",
+        "onboard_time": 1727528960,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153061,
+        "num": 153061,
+        "word": "这大概是最费发夹的发型了",
+        "onboard_time": 1727569098,
+        "rank": 33,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 142934,
+        "num": 142934,
+        "word": "翁青雅彭高好嗑",
+        "onboard_time": 1727571439,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137435,
+        "num": 137435,
+        "word": "潘展乐大声给陈奕迅纠错",
+        "onboard_time": 1727565256,
+        "rank": 35,
+        "category": "演出,体育"
+      },
+      {
+        "raw_hot": 135763,
+        "num": 135763,
+        "word": "网文连获8届中国科幻最高奖",
+        "onboard_time": 1727578217,
+        "rank": 36,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 132628,
+        "num": 132628,
+        "word": "12306从未授权第三方平台卖票",
+        "onboard_time": 1727578817,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130649,
+        "num": 130649,
+        "word": "十月最容易脱单的星座",
+        "onboard_time": 1727568558,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 130056,
+        "num": 130056,
+        "word": "梅西破门",
+        "onboard_time": 1727577197,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127154,
+        "num": 127154,
+        "word": "男孩按摩4次治驼背花近3万",
+        "onboard_time": 1727551032,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126037,
+        "num": 126037,
+        "word": "酸奶刺客卖不动了吗",
+        "onboard_time": 1727578338,
+        "rank": 41,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 119279,
+        "num": 119279,
+        "word": "黄继光后人有17人参军",
+        "onboard_time": 1727568558,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 118799,
+        "num": 118799,
+        "word": "勋章奖章获得者朴实话语听得泪目",
+        "onboard_time": 1727574557,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 117967,
+        "num": 117967,
+        "word": "83岁科学家说要在世界上为国争地位",
+        "onboard_time": 1727575938,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 107823,
+        "num": 107823,
+        "word": "登陆少年暖房仪式",
+        "onboard_time": 1727577617,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 105789,
+        "num": 105789,
+        "word": "孙颖莎首战赛前训练",
+        "onboard_time": 1727577676,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104362,
+        "num": 104362,
+        "word": "被王毅认出又被联合国秘书长点赞",
+        "onboard_time": 1727579238,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 71095,
+        "num": 103779,
+        "word": "江慈身世",
+        "onboard_time": 1727566036,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 68333,
+        "num": 103641,
+        "word": "演唱会上的Karina",
+        "onboard_time": 1727570419,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#国家勋章国家荣誉称号颁授仪式#"
+    }
+  }
+}

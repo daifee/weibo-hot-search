@@ -1,6 +1,6 @@
 {
   "startTime": 1727540758074,
-  "endTime": 1727578699290,
+  "endTime": 1727579253905,
   "band_list": [
     {
       "raw_hot": 1465522,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1312474,
-      "num": 287403,
+      "num": 346558,
       "word": "周雨彤推开刘烨",
       "onboard_time": 1727576298,
       "rank": 10,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 984420,
-      "num": 276124,
+      "num": 343697,
       "word": "许嵩 我不配看恋综吗",
       "onboard_time": 1727576656,
       "rank": 11,
@@ -75,12 +75,28 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 556770,
+      "num": 1089083,
+      "word": "国家最高礼遇迎接功勋模范",
+      "onboard_time": 1727575578,
+      "rank": 24,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 536450,
       "num": 347830,
       "word": "这大概是最费发夹的发型了",
       "onboard_time": 1727569098,
       "rank": 11,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 518868,
+      "num": 1068182,
+      "word": "赵丽颖不敢跟导演和肖央说难受",
+      "onboard_time": 1727575998,
+      "rank": 0,
+      "category": "电影"
     },
     {
       "raw_hot": 512390,
@@ -92,7 +108,7 @@
     },
     {
       "raw_hot": 504589,
-      "num": 273273,
+      "num": 339932,
       "word": "著名书法家田英章去世",
       "onboard_time": 1727575998,
       "rank": 12,
@@ -123,12 +139,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 426140,
-      "num": 1068182,
-      "word": "赵丽颖不敢跟导演和肖央说难受",
-      "onboard_time": 1727575998,
-      "rank": 0,
-      "category": "电影"
+      "raw_hot": 433023,
+      "num": 333065,
+      "word": "男子为了出气杀害表哥一家四口",
+      "onboard_time": 1727577979,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 413817,
@@ -227,12 +243,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 320985,
-      "num": 320985,
+      "raw_hot": 328428,
+      "num": 354194,
       "word": "战斗英雄黄宗德抵达人民大会堂",
       "onboard_time": 1727575879,
       "rank": 8,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 322039,
+      "num": 322039,
+      "word": "保研",
+      "onboard_time": 1727578099,
+      "rank": 27,
+      "category": "教育"
     },
     {
       "raw_hot": 320829,
@@ -283,14 +307,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 288364,
-      "num": 288364,
-      "word": "国家最高礼遇迎接功勋模范",
-      "onboard_time": 1727575578,
-      "rank": 24,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 275929,
       "num": 275929,
       "word": "伊朗最高领袖称以无法严重伤害真主党",
@@ -315,6 +331,14 @@
       "category": "体育,演出"
     },
     {
+      "raw_hot": 239000,
+      "num": 239000,
+      "word": "黄宗德被颁授共和国勋章",
+      "onboard_time": 1727577498,
+      "rank": 22,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 238936,
       "num": 238936,
       "word": "A股",
@@ -331,14 +355,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 230690,
-      "num": 230690,
-      "word": "男子为了出气杀害表哥一家四口",
-      "onboard_time": 1727577979,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 223691,
       "num": 188835,
       "word": "停车费1小时200元车主质疑太贵",
@@ -347,12 +363,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 217697,
+      "num": 217697,
+      "word": "威少炮轰湖人快船",
+      "onboard_time": 1727576837,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 214541,
-      "num": 358855,
+      "num": 360094,
       "word": "功勋模范铿锵有力唱歌唱祖国",
       "onboard_time": 1727571618,
       "rank": 17,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 214305,
+      "num": 214305,
+      "word": "国庆请2休10超长假受打工人追捧",
+      "onboard_time": 1727578277,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 213095,
@@ -371,14 +403,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 210857,
-      "num": 210857,
-      "word": "黄宗德被颁授共和国勋章",
-      "onboard_time": 1727577498,
-      "rank": 22,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 209283,
       "num": 209283,
       "word": "心动的信号7素人返场路透",
@@ -395,12 +419,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 200915,
-      "num": 200915,
-      "word": "威少炮轰湖人快船",
-      "onboard_time": 1727576837,
-      "rank": 23,
+      "raw_hot": 205526,
+      "num": 349963,
+      "word": "孙颖莎vs巴约尔",
+      "onboard_time": 1727574858,
+      "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 202279,
+      "num": 189895,
+      "word": "用人民币视角感受瑞士物价",
+      "onboard_time": 1727577437,
+      "rank": 31,
+      "category": "旅游"
     },
     {
       "raw_hot": 196360,
@@ -411,14 +443,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 194513,
-      "num": 194513,
-      "word": "保研",
-      "onboard_time": 1727578099,
-      "rank": 27,
-      "category": "教育"
-    },
-    {
       "raw_hot": 190971,
       "num": 195334,
       "word": "登陆少年暖房仪式",
@@ -427,12 +451,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 189895,
-      "num": 189895,
-      "word": "用人民币视角感受瑞士物价",
-      "onboard_time": 1727577437,
-      "rank": 31,
-      "category": "旅游"
+      "raw_hot": 190357,
+      "num": 190357,
+      "word": "国庆出游的打工人搜爆病号服",
+      "onboard_time": 1727578459,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 186404,
@@ -483,14 +507,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 172897,
-      "num": 339728,
-      "word": "孙颖莎vs巴约尔",
-      "onboard_time": 1727574858,
-      "rank": 14,
-      "category": "体育"
-    },
-    {
       "raw_hot": 172505,
       "num": 172505,
       "word": "戚薇本次时装周用空8罐发胶",
@@ -531,6 +547,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 158543,
+      "num": 158543,
+      "word": "王一博的攀岩plog",
+      "onboard_time": 1727578879,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 157676,
       "num": 157863,
       "word": "喻言唱跳舞台",
@@ -545,14 +569,6 @@
       "onboard_time": 1727578217,
       "rank": 37,
       "category": "读书作家"
-    },
-    {
-      "raw_hot": 146390,
-      "num": 146390,
-      "word": "国庆请2休10超长假受打工人追捧",
-      "onboard_time": 1727578277,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 146125,
@@ -579,6 +595,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 142456,
+      "num": 335871,
+      "word": "A股今天不开盘",
+      "onboard_time": 1727578099,
+      "rank": 13,
+      "category": "财经"
+    },
+    {
       "raw_hot": 139864,
       "num": 157587,
       "word": "苏州人从此不再羡慕湖南人",
@@ -587,11 +611,11 @@
       "category": "美食"
     },
     {
-      "raw_hot": 131358,
-      "num": 131358,
-      "word": "国庆出游的打工人搜爆病号服",
-      "onboard_time": 1727578459,
-      "rank": 42,
+      "raw_hot": 132628,
+      "num": 132628,
+      "word": "12306从未授权第三方平台卖票",
+      "onboard_time": 1727578817,
+      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -649,14 +673,6 @@
       "onboard_time": 1727538019,
       "rank": 25,
       "category": "演出,体育"
-    },
-    {
-      "raw_hot": 125186,
-      "num": 261832,
-      "word": "A股今天不开盘",
-      "onboard_time": 1727578099,
-      "rank": 13,
-      "category": "财经"
     },
     {
       "raw_hot": 123843,
@@ -809,6 +825,14 @@
       "onboard_time": 1727520558,
       "rank": 32,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 104362,
+      "num": 104362,
+      "word": "被王毅认出又被联合国秘书长点赞",
+      "onboard_time": 1727579238,
+      "rank": 47,
+      "category": "国内时政"
     },
     {
       "raw_hot": 103855,
