@@ -1,0 +1,410 @@
+{
+  "runTime": 1727584801327,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1259491,
+        "num": 1259491,
+        "word": "12306从未授权第三方平台卖票",
+        "onboard_time": 1727578817,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 995469,
+        "num": 995469,
+        "word": "孙颖莎11比1",
+        "onboard_time": 1727581338,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 30368,
+        "num": 817995,
+        "word": "功勋模范铿锵有力唱歌唱祖国",
+        "onboard_time": 1727571618,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 781475,
+        "num": 781475,
+        "word": "保研",
+        "onboard_time": 1727578099,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 766593,
+        "num": 766593,
+        "word": "张本智和说自己算上上签",
+        "onboard_time": 1727580859,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 654964,
+        "num": 654964,
+        "word": "被王毅认出又被联合国秘书长点赞",
+        "onboard_time": 1727579238,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 633487,
+        "num": 633487,
+        "word": "4人获得共和国勋章",
+        "onboard_time": 1727580318,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 557828,
+        "num": 557828,
+        "word": "股民4天人均赚4.7万",
+        "onboard_time": 1727574137,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 56720,
+        "num": 548778,
+        "word": "孙颖莎3比0巴约",
+        "onboard_time": 1727581698,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 295946,
+        "num": 533853,
+        "word": "孙颖莎中国大满贯开门红",
+        "onboard_time": 1727581219,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1683853,
+        "num": 517333,
+        "word": "一家四口惨死民警苦苦追凶27年",
+        "onboard_time": 1727579298,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1222233,
+        "num": 504278,
+        "word": "买到假爱马仕因没开箱视频遭拒退",
+        "onboard_time": 1727580018,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 501024,
+        "num": 501024,
+        "word": "张碧晨武艺只差一岁被人认成母子",
+        "onboard_time": 1727580381,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 476822,
+        "num": 476822,
+        "word": "许嵩 我不配看恋综吗",
+        "onboard_time": 1727576656,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 427549,
+        "num": 427549,
+        "word": "徐锦江送儿子拍封神时嚎啕大哭",
+        "onboard_time": 1727580137,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 407781,
+        "num": 407781,
+        "word": "王楚钦眼里全是活儿",
+        "onboard_time": 1727583680,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 212794,
+        "num": 377003,
+        "word": "半熟男女是个巨大的图书馆三十秒",
+        "onboard_time": 1727582059,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 358388,
+        "num": 358388,
+        "word": "中国银行为防诈骗限制储户取款",
+        "onboard_time": 1727582539,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 35969,
+        "num": 314022,
+        "word": "十一假期来北京遛个弯",
+        "onboard_time": 1727582059,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 276668,
+        "num": 276668,
+        "word": "机场员工泄露外籍模特照片已被开除",
+        "onboard_time": 1727581940,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 289053,
+        "num": 276342,
+        "word": "周斌 你让我觉得恶心",
+        "onboard_time": 1727580440,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 29117,
+        "num": 274525,
+        "word": "享界S9我说了算",
+        "onboard_time": 1727581098,
+        "rank": 21,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 153405,
+        "num": 274148,
+        "word": "重庆小伙被联合国秘书长点名表扬",
+        "onboard_time": 1727582838,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 273930,
+        "num": 273930,
+        "word": "未定事件簿",
+        "onboard_time": 1727584640,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 255383,
+        "num": 269379,
+        "word": "15人被授予国家勋章国家荣誉称号",
+        "onboard_time": 1727584640,
+        "rank": 24,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 268948,
+        "num": 268948,
+        "word": "杨超越把沈月当成赖美云",
+        "onboard_time": 1727583620,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 267872,
+        "num": 267872,
+        "word": "周雨彤推开刘烨",
+        "onboard_time": 1727576298,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 254885,
+        "num": 254885,
+        "word": "男子为了出气杀害表哥一家四口",
+        "onboard_time": 1727577979,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224341,
+        "num": 224341,
+        "word": "何广智精修脑子毛坯嘴",
+        "onboard_time": 1727580318,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 69646,
+        "num": 222453,
+        "word": "孙颖莎打笑了",
+        "onboard_time": 1727583561,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 221804,
+        "num": 221804,
+        "word": "父亲称小孩担心上课迟到扒门自救",
+        "onboard_time": 1727579897,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212921,
+        "num": 212921,
+        "word": "以空军控制黎巴嫩贝鲁特机场",
+        "onboard_time": 1727579598,
+        "rank": 31,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 207600,
+        "num": 207600,
+        "word": "永辉超市回应背刺胖东来传闻",
+        "onboard_time": 1727583019,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167659,
+        "num": 203253,
+        "word": "张子枫盲女哭戏感染力",
+        "onboard_time": 1727584040,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 201425,
+        "num": 201425,
+        "word": "DXMON成员JO退团",
+        "onboard_time": 1727583380,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 86082,
+        "num": 200987,
+        "word": "曾黎张博恒合影",
+        "onboard_time": 1727583561,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200747,
+        "num": 200747,
+        "word": "为什么是上厕所不是下厕所",
+        "onboard_time": 1727573478,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 183024,
+        "num": 183024,
+        "word": "用人民币视角感受瑞士物价",
+        "onboard_time": 1727577437,
+        "rank": 37,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 42260,
+        "num": 181017,
+        "word": "到底是谁抢到了霸王茶姬宠物周边",
+        "onboard_time": 1727584520,
+        "rank": 38,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 97908,
+        "num": 180608,
+        "word": "749局预售票房破3000万",
+        "onboard_time": 1727582599,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 180528,
+        "num": 180528,
+        "word": "时团听周深唱爆炸撕裂下坠的反应",
+        "onboard_time": 1727581579,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 179511,
+        "num": 179511,
+        "word": "致敬闪亮的名字",
+        "onboard_time": 1727578159,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 173177,
+        "num": 173177,
+        "word": "著名书法家田英章去世",
+        "onboard_time": 1727575998,
+        "rank": 42,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 162415,
+        "num": 162415,
+        "word": "赵丽颖不敢跟导演和肖央说难受",
+        "onboard_time": 1727575998,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 146061,
+        "num": 146061,
+        "word": "井胧说尤长靖给大家上了一课",
+        "onboard_time": 1727583859,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135092,
+        "num": 135092,
+        "word": "TGS2024",
+        "onboard_time": 1727584699,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 134923,
+        "num": 134923,
+        "word": "Jennie新歌概念预告",
+        "onboard_time": 1727572578,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 132983,
+        "num": 132983,
+        "word": "国家最高礼遇迎接功勋模范",
+        "onboard_time": 1727575578,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 131499,
+        "num": 131499,
+        "word": "内塔尼亚胡喊话伊朗你打我我就打你",
+        "onboard_time": 1727571677,
+        "rank": 48,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 124505,
+        "num": 124505,
+        "word": "刘宇宁选歌以为要演一下",
+        "onboard_time": 1727584759,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#国家勋章国家荣誉称号颁授仪式#"
+    }
+  }
+}
