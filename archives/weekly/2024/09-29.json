@@ -1,6 +1,6 @@
 {
   "startTime": 1727540758074,
-  "endTime": 1727645705527,
+  "endTime": 1727648382637,
   "band_list": [
     {
       "raw_hot": 2629801,
@@ -1073,6 +1073,14 @@
       "onboard_time": 1727619920,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 285268,
+      "num": 170610,
+      "word": "小区业主大骂外地商贩滚出苏州",
+      "onboard_time": 1727642231,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 284823,
@@ -2715,6 +2723,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 122425,
+      "num": 102064,
+      "word": "东北雨姐回应后继续掉粉",
+      "onboard_time": 1727627597,
+      "rank": 42,
+      "category": "网红"
+    },
+    {
       "raw_hot": 122417,
       "num": 228836,
       "word": "战至巅峰",
@@ -2979,14 +2995,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 107546,
-      "num": 170610,
-      "word": "小区业主大骂外地商贩滚出苏州",
-      "onboard_time": 1727642231,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 105701,
       "num": 157615,
       "word": "登陆少年 清华",
@@ -3073,14 +3081,6 @@
       "onboard_time": 1727627357,
       "rank": 38,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 102064,
-      "num": 102064,
-      "word": "东北雨姐回应后继续掉粉",
-      "onboard_time": 1727627597,
-      "rank": 42,
-      "category": "网红"
     },
     {
       "raw_hot": 100961,
@@ -3467,6 +3467,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 65341,
+      "num": 65341,
+      "word": "埃尔多安称以色列被一些大国宠坏了",
+      "onboard_time": 1727633234,
+      "rank": 26,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 61424,
+      "num": 61424,
+      "word": "重庆断崖式降温你准备好了吗",
+      "onboard_time": 1727634673,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 61409,
       "num": 99680,
       "word": "金钱至上观念与医院天职存在冲突",
@@ -3529,14 +3545,6 @@
       "onboard_time": 1727591360,
       "rank": 9,
       "category": "社会新闻,国内时政"
-    },
-    {
-      "raw_hot": 58641,
-      "num": 58641,
-      "word": "重庆断崖式降温你准备好了吗",
-      "onboard_time": 1727634673,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 58236,
@@ -3723,20 +3731,20 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 40163,
+      "num": 40163,
+      "word": "G2",
+      "onboard_time": 1727642900,
+      "rank": 20,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 39379,
       "num": 61318,
       "word": "徐德智称被点名时脑子一片空白",
       "onboard_time": 1727547252,
       "rank": 24,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 39164,
-      "num": 39164,
-      "word": "埃尔多安称以色列被一些大国宠坏了",
-      "onboard_time": 1727633234,
-      "rank": 26,
-      "category": "国外时政"
     },
     {
       "raw_hot": 37764,
@@ -3771,14 +3779,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 36573,
-      "num": 36573,
-      "word": "G2",
-      "onboard_time": 1727642900,
-      "rank": 20,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 36103,
       "num": 130749,
       "word": "张帅三连胜",
@@ -3793,6 +3793,14 @@
       "onboard_time": 1727549414,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 34948,
+      "num": 34948,
+      "word": "被新疆六星街女警甜到了",
+      "onboard_time": 1727643731,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 34913,
@@ -3835,6 +3843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 31664,
+      "num": 31664,
+      "word": "男子5年开车碰瓷近200次",
+      "onboard_time": 1727643670,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 31402,
       "num": 234929,
       "word": "黎巴嫩真主党领袖身亡细节披露",
@@ -3849,6 +3865,22 @@
       "onboard_time": 1727601379,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 28914,
+      "num": 44816,
+      "word": "纳斯鲁拉之死或只是开始而非结束",
+      "onboard_time": 1727632513,
+      "rank": 44,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 28219,
+      "num": 28219,
+      "word": "亲历者讲述锌水爆炸事故前因后果",
+      "onboard_time": 1727637972,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 28093,
@@ -3883,6 +3915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 26645,
+      "num": 27468,
+      "word": "黎真主党称对以境内目标发射火箭弹",
+      "onboard_time": 1727640491,
+      "rank": 45,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 26588,
       "num": 265509,
       "word": "克隆声音的门槛有多低",
@@ -3899,22 +3939,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 25878,
-      "num": 25878,
-      "word": "亲历者讲述锌水爆炸事故前因后果",
-      "onboard_time": 1727637972,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 25672,
-      "num": 44816,
-      "word": "纳斯鲁拉之死或只是开始而非结束",
-      "onboard_time": 1727632513,
-      "rank": 44,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 25627,
       "num": 175883,
       "word": "中国持有机器人相关有效专利超19万项",
@@ -3923,28 +3947,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 25456,
-      "num": 25456,
-      "word": "黎真主党称对以境内目标发射火箭弹",
-      "onboard_time": 1727640491,
-      "rank": 45,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 25275,
       "num": 26474,
       "word": "深圳舰真的深圳见了",
       "onboard_time": 1727635633,
       "rank": 38,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 25164,
-      "num": 25164,
-      "word": "被新疆六星街女警甜到了",
-      "onboard_time": 1727643731,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 24848,
@@ -3987,6 +3995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 22124,
+      "num": 27423,
+      "word": "陆川749局同事现身749首映",
+      "onboard_time": 1727648234,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
       "raw_hot": 22091,
       "num": 50921,
       "word": "以军发言人暗示对黎展开地面行动",
@@ -4008,14 +4024,6 @@
       "word": "万元打造高仿小游戏20天可上线",
       "onboard_time": 1727617941,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 20636,
-      "num": 22037,
-      "word": "男子5年开车碰瓷近200次",
-      "onboard_time": 1727643670,
-      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -4056,6 +4064,14 @@
       "word": "乾隆为孔子严选的青铜器太有排面了",
       "onboard_time": 1727553311,
       "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 16130,
+      "num": 84327,
+      "word": "中国步伐",
+      "onboard_time": 1727647452,
+      "rank": 9,
       "category": "社会新闻"
     },
     {

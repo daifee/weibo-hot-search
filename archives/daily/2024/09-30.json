@@ -1,6 +1,6 @@
 {
   "startTime": 1727627182055,
-  "endTime": 1727645705527,
+  "endTime": 1727648382637,
   "band_list": [
     {
       "raw_hot": 1153138,
@@ -72,6 +72,14 @@
       "word": "首套二套存量房贷利率批量下调",
       "onboard_time": 1727617701,
       "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 285268,
+      "num": 170610,
+      "word": "小区业主大骂外地商贩滚出苏州",
+      "onboard_time": 1727642231,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -235,6 +243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 122425,
+      "num": 102064,
+      "word": "东北雨姐回应后继续掉粉",
+      "onboard_time": 1727627597,
+      "rank": 42,
+      "category": "网红"
+    },
+    {
       "raw_hot": 120563,
       "num": 250004,
       "word": "商业房贷首付统一为不低于15%",
@@ -283,14 +299,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 107546,
-      "num": 170610,
-      "word": "小区业主大骂外地商贩滚出苏州",
-      "onboard_time": 1727642231,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 105674,
       "num": 105674,
       "word": "王源唱sleep",
@@ -313,14 +321,6 @@
       "onboard_time": 1727627357,
       "rank": 38,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 102064,
-      "num": 102064,
-      "word": "东北雨姐回应后继续掉粉",
-      "onboard_time": 1727627597,
-      "rank": 42,
-      "category": "网红"
     },
     {
       "raw_hot": 97597,
@@ -443,6 +443,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 65341,
+      "num": 65341,
+      "word": "埃尔多安称以色列被一些大国宠坏了",
+      "onboard_time": 1727633234,
+      "rank": 26,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 63216,
       "num": 92073,
       "word": "10月1至2日在深圳的有福了",
@@ -451,8 +459,8 @@
       "category": "社会新闻,旅游"
     },
     {
-      "raw_hot": 58641,
-      "num": 58641,
+      "raw_hot": 61424,
+      "num": 61424,
       "word": "重庆断崖式降温你准备好了吗",
       "onboard_time": 1727634673,
       "rank": 47,
@@ -483,31 +491,31 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 39164,
-      "num": 39164,
-      "word": "埃尔多安称以色列被一些大国宠坏了",
-      "onboard_time": 1727633234,
-      "rank": 26,
-      "category": "国外时政"
-    },
-    {
-      "raw_hot": 36573,
-      "num": 36573,
+      "raw_hot": 40163,
+      "num": 40163,
       "word": "G2",
       "onboard_time": 1727642900,
       "rank": 20,
       "category": "电竞"
     },
     {
-      "raw_hot": 25878,
-      "num": 25878,
-      "word": "亲历者讲述锌水爆炸事故前因后果",
-      "onboard_time": 1727637972,
-      "rank": 47,
+      "raw_hot": 34948,
+      "num": 34948,
+      "word": "被新疆六星街女警甜到了",
+      "onboard_time": 1727643731,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 25672,
+      "raw_hot": 31664,
+      "num": 31664,
+      "word": "男子5年开车碰瓷近200次",
+      "onboard_time": 1727643670,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 28914,
       "num": 44816,
       "word": "纳斯鲁拉之死或只是开始而非结束",
       "onboard_time": 1727632513,
@@ -515,8 +523,16 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 25456,
-      "num": 25456,
+      "raw_hot": 28219,
+      "num": 28219,
+      "word": "亲历者讲述锌水爆炸事故前因后果",
+      "onboard_time": 1727637972,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 26645,
+      "num": 27468,
       "word": "黎真主党称对以境内目标发射火箭弹",
       "onboard_time": 1727640491,
       "rank": 45,
@@ -529,14 +545,6 @@
       "onboard_time": 1727635633,
       "rank": 38,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 25164,
-      "num": 25164,
-      "word": "被新疆六星街女警甜到了",
-      "onboard_time": 1727643731,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 24612,
@@ -563,12 +571,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 20636,
-      "num": 22037,
-      "word": "男子5年开车碰瓷近200次",
-      "onboard_time": 1727643670,
-      "rank": 46,
-      "category": "社会新闻"
+      "raw_hot": 22124,
+      "num": 27423,
+      "word": "陆川749局同事现身749首映",
+      "onboard_time": 1727648234,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 18671,
@@ -585,6 +593,14 @@
       "onboard_time": 1727638691,
       "rank": 47,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 16130,
+      "num": 84327,
+      "word": "中国步伐",
+      "onboard_time": 1727647452,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 7510,
