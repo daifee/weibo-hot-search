@@ -1,7 +1,15 @@
 {
   "startTime": 1727540758074,
-  "endTime": 1727580712177,
+  "endTime": 1727581443519,
   "band_list": [
+    {
+      "raw_hot": 1839597,
+      "num": 1400197,
+      "word": "国庆请2休10超长假受打工人追捧",
+      "onboard_time": 1727578277,
+      "rank": 38,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 1465522,
       "num": 1161578,
@@ -11,16 +19,8 @@
       "category": "财经"
     },
     {
-      "raw_hot": 1400197,
-      "num": 1400197,
-      "word": "国庆请2休10超长假受打工人追捧",
-      "onboard_time": 1727578277,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1312474,
-      "num": 364011,
+      "num": 634900,
       "word": "周雨彤推开刘烨",
       "onboard_time": 1727576298,
       "rank": 10,
@@ -28,11 +28,19 @@
     },
     {
       "raw_hot": 984420,
-      "num": 359978,
+      "num": 630557,
       "word": "许嵩 我不配看恋综吗",
       "onboard_time": 1727576656,
       "rank": 11,
       "category": "演出"
+    },
+    {
+      "raw_hot": 851540,
+      "num": 640700,
+      "word": "一家四口惨死民警苦苦追凶27年",
+      "onboard_time": 1727579298,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 833534,
@@ -51,8 +59,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 740105,
-      "num": 740105,
+      "raw_hot": 748953,
+      "num": 1119832,
       "word": "保研",
       "onboard_time": 1727578099,
       "rank": 27,
@@ -75,6 +83,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 671657,
+      "num": 671657,
+      "word": "孙颖莎vs巴约尔",
+      "onboard_time": 1727574858,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 656845,
       "num": 653956,
       "word": "直播国家勋章和国家荣誉称号颁授仪式",
@@ -91,12 +107,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 629386,
+      "num": 629386,
+      "word": "12306从未授权第三方平台卖票",
+      "onboard_time": 1727578817,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 556910,
       "num": 556910,
       "word": "内塔尼亚胡喊话伊朗你打我我就打你",
       "onboard_time": 1727571677,
       "rank": 3,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 550963,
+      "num": 550963,
+      "word": "徐锦江送儿子拍封神时嚎啕大哭",
+      "onboard_time": 1727580137,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 536450,
@@ -171,14 +203,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 440104,
-      "num": 356878,
-      "word": "一家四口惨死民警苦苦追凶27年",
-      "onboard_time": 1727579298,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 413817,
       "num": 157693,
       "word": "男子听信美容偏方1月不洗脸满脸结痂",
@@ -187,12 +211,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 407793,
-      "num": 407793,
-      "word": "孙颖莎vs巴约尔",
-      "onboard_time": 1727574858,
-      "rank": 14,
-      "category": "体育"
+      "raw_hot": 408728,
+      "num": 408728,
+      "word": "张碧晨武艺只差一岁被人认成母子",
+      "onboard_time": 1727580381,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 402719,
@@ -243,12 +267,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 350716,
-      "num": 350716,
+      "raw_hot": 374549,
+      "num": 374549,
       "word": "被王毅认出又被联合国秘书长点赞",
       "onboard_time": 1727579238,
       "rank": 47,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 373684,
+      "num": 373684,
+      "word": "买到假爱马仕因没开箱视频遭拒退",
+      "onboard_time": 1727580018,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 342261,
@@ -265,14 +297,6 @@
       "onboard_time": 1727571439,
       "rank": 9,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 339537,
-      "num": 339537,
-      "word": "12306从未授权第三方平台卖票",
-      "onboard_time": 1727578817,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 338406,
@@ -419,6 +443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 222613,
+      "num": 222613,
+      "word": "周斌 你让我觉得恶心",
+      "onboard_time": 1727580440,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 217697,
       "num": 217697,
       "word": "威少炮轰湖人快船",
@@ -428,7 +460,7 @@
     },
     {
       "raw_hot": 214541,
-      "num": 736059,
+      "num": 821982,
       "word": "功勋模范铿锵有力唱歌唱祖国",
       "onboard_time": 1727571618,
       "rank": 17,
@@ -459,6 +491,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 207622,
+      "num": 207622,
+      "word": "何广智精修脑子毛坯嘴",
+      "onboard_time": 1727580318,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 207456,
+      "num": 207456,
+      "word": "孙颖莎11比1",
+      "onboard_time": 1727581338,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 205758,
       "num": 205758,
       "word": "檀健次 减肥不是说减就减吗",
@@ -468,7 +516,7 @@
     },
     {
       "raw_hot": 202279,
-      "num": 189895,
+      "num": 192135,
       "word": "用人民币视角感受瑞士物价",
       "onboard_time": 1727577437,
       "rank": 31,
@@ -489,22 +537,6 @@
       "onboard_time": 1727577378,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 195991,
-      "num": 195991,
-      "word": "张碧晨武艺只差一岁被人认成母子",
-      "onboard_time": 1727580381,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 195049,
-      "num": 195049,
-      "word": "徐锦江送儿子拍封神时嚎啕大哭",
-      "onboard_time": 1727580137,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 192802,
@@ -563,14 +595,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 180164,
-      "num": 180164,
-      "word": "买到假爱马仕因没开箱视频遭拒退",
-      "onboard_time": 1727580018,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 178197,
       "num": 208756,
       "word": "以军称打死黎真主党领导人纳斯鲁拉",
@@ -585,6 +609,14 @@
       "onboard_time": 1727579658,
       "rank": 31,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 173400,
+      "num": 173400,
+      "word": "张本智和说自己算上上签",
+      "onboard_time": 1727580859,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 172505,
@@ -611,6 +643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 167051,
+      "num": 664570,
+      "word": "黄子弘凡上海演唱会抢票",
+      "onboard_time": 1727580560,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
       "raw_hot": 163994,
       "num": 163994,
       "word": "肖战工作室成立5周年",
@@ -627,6 +667,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 162850,
+      "num": 162850,
+      "word": "孙颖莎中国大满贯开门红",
+      "onboard_time": 1727581219,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 160034,
+      "num": 160034,
+      "word": "国庆想当熊猫腿替回老家看看",
+      "onboard_time": 1727580199,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 158543,
       "num": 158543,
       "word": "王一博的攀岩plog",
@@ -641,6 +697,22 @@
       "onboard_time": 1727536939,
       "rank": 19,
       "category": "演出"
+    },
+    {
+      "raw_hot": 157062,
+      "num": 157062,
+      "word": "4人获得共和国勋章",
+      "onboard_time": 1727580318,
+      "rank": 41,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 156739,
+      "num": 156739,
+      "word": "周深时代少年团互唱对方的歌",
+      "onboard_time": 1727580980,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 147064,
@@ -667,6 +739,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 144709,
+      "num": 144709,
+      "word": "表白祖国的N种方式",
+      "onboard_time": 1727577916,
+      "rank": 45,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 143082,
       "num": 157506,
       "word": "何超莲这个背不去拔罐可惜了",
@@ -675,8 +755,16 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 142557,
+      "num": 142557,
+      "word": "父亲称小孩担心上课迟到扒门自救",
+      "onboard_time": 1727579897,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 142456,
-      "num": 376788,
+      "num": 659043,
       "word": "A股今天不开盘",
       "onboard_time": 1727578099,
       "rank": 13,
@@ -691,40 +779,8 @@
       "category": "美食"
     },
     {
-      "raw_hot": 139814,
-      "num": 139814,
-      "word": "国庆想当熊猫腿替回老家看看",
-      "onboard_time": 1727580199,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 137730,
-      "num": 137730,
-      "word": "何广智精修脑子毛坯嘴",
-      "onboard_time": 1727580318,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 136232,
-      "num": 136232,
-      "word": "周斌 你让我觉得恶心",
-      "onboard_time": 1727580440,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 135574,
-      "num": 135574,
-      "word": "4人获得共和国勋章",
-      "onboard_time": 1727580318,
-      "rank": 41,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 131272,
-      "num": 131272,
+      "num": 282414,
       "word": "刘浩存出发巴黎时装周",
       "onboard_time": 1727579778,
       "rank": 42,
@@ -801,14 +857,6 @@
       "onboard_time": 1727574557,
       "rank": 42,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 122918,
-      "num": 157299,
-      "word": "黄子弘凡上海演唱会抢票",
-      "onboard_time": 1727580560,
-      "rank": 34,
-      "category": "演出"
     },
     {
       "raw_hot": 122142,
@@ -1291,6 +1339,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 50141,
+      "num": 654900,
+      "word": "全党全国各族人民要以英雄模范为榜样",
+      "onboard_time": 1727580199,
+      "rank": 8,
+      "category": "社会新闻,国内时政"
+    },
+    {
+      "raw_hot": 46080,
+      "num": 650378,
+      "word": "奔赴山与海征途向未来",
+      "onboard_time": 1727581338,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 45739,
       "num": 61454,
       "word": "内塔尼亚胡工作照曝光",
@@ -1331,12 +1395,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 37977,
-      "num": 371384,
-      "word": "全党全国各族人民要以英雄模范为榜样",
-      "onboard_time": 1727580199,
-      "rank": 8,
-      "category": "社会新闻,国内时政"
+      "raw_hot": 37182,
+      "num": 145004,
+      "word": "享界S9我说了算",
+      "onboard_time": 1727581098,
+      "rank": 44,
+      "category": "汽车"
     },
     {
       "raw_hot": 36876,
