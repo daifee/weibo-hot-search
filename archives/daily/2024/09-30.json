@@ -1,6 +1,6 @@
 {
   "startTime": 1727627182055,
-  "endTime": 1727638552979,
+  "endTime": 1727641344415,
   "band_list": [
     {
       "raw_hot": 1153138,
@@ -443,6 +443,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 58641,
+      "num": 58641,
+      "word": "重庆断崖式降温你准备好了吗",
+      "onboard_time": 1727634673,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 56352,
       "num": 65039,
       "word": "深圳进一步优化房地产政策",
@@ -473,14 +481,6 @@
       "onboard_time": 1727633234,
       "rank": 26,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 31175,
-      "num": 57144,
-      "word": "重庆断崖式降温你准备好了吗",
-      "onboard_time": 1727634673,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 25672,
@@ -523,12 +523,36 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 19111,
+      "raw_hot": 22487,
       "num": 23368,
       "word": "亲历者讲述锌水爆炸事故前因后果",
       "onboard_time": 1727637972,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 18390,
+      "num": 22443,
+      "word": "黎真主党称对以境内目标发射火箭弹",
+      "onboard_time": 1727640491,
+      "rank": 45,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 18168,
+      "num": 22430,
+      "word": "一切民族英雄都是中华民族的脊梁",
+      "onboard_time": 1727638691,
+      "rank": 47,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 18026,
+      "num": 22420,
+      "word": "我们的歌",
+      "onboard_time": 1727610259,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 7510,
