@@ -1,6 +1,6 @@
 {
   "startTime": 1727540758074,
-  "endTime": 1727620631708,
+  "endTime": 1727623375521,
   "band_list": [
     {
       "raw_hot": 2629801,
@@ -227,6 +227,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 800359,
+      "num": 300539,
+      "word": "张元英眼睛状态",
+      "onboard_time": 1727620881,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 766593,
       "num": 766593,
       "word": "张本智和说自己算上上签",
@@ -273,6 +281,14 @@
       "onboard_time": 1727565798,
       "rank": 18,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 681236,
+      "num": 297326,
+      "word": "王源妈妈骄傲的先退场了",
+      "onboard_time": 1727621600,
+      "rank": 12,
+      "category": "演出"
     },
     {
       "raw_hot": 671657,
@@ -563,6 +579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 478340,
+      "num": 268894,
+      "word": "杨紫张晚意秀场同框",
+      "onboard_time": 1727622081,
+      "rank": 21,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 472480,
       "num": 451338,
       "word": "俩老人买黄金不问价店员果断报警",
@@ -593,6 +617,14 @@
       "onboard_time": 1727594299,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 433179,
+      "num": 326679,
+      "word": "客服是否该为主播翻车行为担责",
+      "onboard_time": 1727618300,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 422322,
@@ -859,11 +891,11 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 326679,
-      "num": 326679,
-      "word": "客服是否该为主播翻车行为担责",
-      "onboard_time": 1727618300,
-      "rank": 27,
+      "raw_hot": 326224,
+      "num": 326224,
+      "word": "贵州教育厅厅长邹联克主动投案",
+      "onboard_time": 1727622020,
+      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -1025,6 +1057,14 @@
       "onboard_time": 1727588538,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 282937,
+      "num": 282937,
+      "word": "内塔尼亚胡称以色列已到历史转折点",
+      "onboard_time": 1727621661,
+      "rank": 20,
+      "category": "国外时政"
     },
     {
       "raw_hot": 278963,
@@ -1193,6 +1233,14 @@
       "onboard_time": 1727573057,
       "rank": 23,
       "category": "财经"
+    },
+    {
+      "raw_hot": 238870,
+      "num": 238870,
+      "word": "SM新女团路透照",
+      "onboard_time": 1727621480,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 238797,
@@ -1435,6 +1483,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 203989,
+      "num": 203989,
+      "word": "王楚钦呼吁观众少开点闪光灯",
+      "onboard_time": 1727619920,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 202433,
       "num": 263619,
       "word": "天山南北唱新歌",
@@ -1539,6 +1595,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 195047,
+      "num": 195047,
+      "word": "商业房贷首付统一为不低于15%",
+      "onboard_time": 1727621720,
+      "rank": 29,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 194425,
       "num": 194425,
       "word": "宁德时代",
@@ -1601,6 +1665,14 @@
       "onboard_time": 1727586980,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 191088,
+      "num": 191088,
+      "word": "AG告别秋季赛",
+      "onboard_time": 1727622201,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 190971,
@@ -1835,12 +1907,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 170948,
+      "num": 286004,
+      "word": "张远逆袭陈楚生",
+      "onboard_time": 1727621900,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 169929,
+      "num": 156338,
+      "word": "周深在六公主的11次舞台",
+      "onboard_time": 1727622680,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 169768,
       "num": 169768,
       "word": "看见这幅画隔屏闻见吉林鱼香了",
       "onboard_time": 1727537780,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 168666,
+      "num": 168666,
+      "word": "半熟男女中的一些隐喻",
+      "onboard_time": 1727621780,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 167659,
@@ -1857,6 +1953,14 @@
       "onboard_time": 1727600479,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 167286,
+      "num": 167286,
+      "word": "老师介绍婚姻本科专业学什么",
+      "onboard_time": 1727621300,
+      "rank": 35,
+      "category": "教育"
     },
     {
       "raw_hot": 167051,
@@ -2179,14 +2283,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 141577,
-      "num": 141577,
-      "word": "王楚钦呼吁观众少开点闪光灯",
-      "onboard_time": 1727619920,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 140112,
       "num": 140112,
       "word": "布云朝克特晋级中网8强",
@@ -2209,6 +2305,14 @@
       "onboard_time": 1727615420,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 138865,
+      "num": 138865,
+      "word": "王源帮我录视频向老板请假",
+      "onboard_time": 1727620641,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 138558,
@@ -2299,6 +2403,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 133790,
+      "num": 133790,
+      "word": "100万房贷每年可节约利息约5600元",
+      "onboard_time": 1727622260,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 133577,
       "num": 133577,
       "word": "虞书欣 允许不开心",
@@ -2313,6 +2425,14 @@
       "onboard_time": 1727599098,
       "rank": 46,
       "category": "财经"
+    },
+    {
+      "raw_hot": 131525,
+      "num": 131525,
+      "word": "王一博攀岩遇暴雨身体险失温",
+      "onboard_time": 1727621840,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 131272,
@@ -2491,6 +2611,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 122774,
+      "num": 122774,
+      "word": "全力促进房地产市场止跌回稳",
+      "onboard_time": 1727622320,
+      "rank": 46,
+      "category": "社会新闻,国内时政"
+    },
+    {
       "raw_hot": 122617,
       "num": 286492,
       "word": "疑似有人假冒王鹤棣及其团队",
@@ -2553,6 +2681,14 @@
       "onboard_time": 1727540300,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 120630,
+      "num": 120630,
+      "word": "下调存量房贷利率0.5%左右",
+      "onboard_time": 1727621300,
+      "rank": 48,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 120089,
@@ -2739,12 +2875,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 111837,
+      "num": 111837,
+      "word": "警方通报老板将老鼠药注入食品中",
+      "onboard_time": 1727623340,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 110286,
       "num": 240149,
       "word": "漠风吟开播",
       "onboard_time": 1727595439,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 106352,
+      "num": 303861,
+      "word": "100万房贷每年节约利息5600元",
+      "onboard_time": 1727621119,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 105701,
@@ -2881,6 +3033,14 @@
       "onboard_time": 1727565798,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 91864,
+      "num": 293649,
+      "word": "个人住房贷款最低首付比例不低于15%",
+      "onboard_time": 1727621900,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 91599,
@@ -3705,6 +3865,14 @@
       "onboard_time": 1727555829,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 6079,
+      "num": 283161,
+      "word": "麦迪娜佟丽娅新疆美女联动了",
+      "onboard_time": 1727623340,
+      "rank": 19,
+      "category": "艺人"
     }
   ],
   "hotgov_list": [
