@@ -1,14 +1,30 @@
 {
   "startTime": 1727540758074,
-  "endTime": 1727575802684,
+  "endTime": 1727578699290,
   "band_list": [
     {
-      "raw_hot": 1009864,
+      "raw_hot": 1465522,
       "num": 1161578,
       "word": "股民4天人均赚4.7万",
       "onboard_time": 1727574137,
       "rank": 19,
       "category": "财经"
+    },
+    {
+      "raw_hot": 1312474,
+      "num": 287403,
+      "word": "周雨彤推开刘烨",
+      "onboard_time": 1727576298,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 984420,
+      "num": 276124,
+      "word": "许嵩 我不配看恋综吗",
+      "onboard_time": 1727576656,
+      "rank": 11,
+      "category": "演出"
     },
     {
       "raw_hot": 833534,
@@ -35,7 +51,7 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 653956,
+      "raw_hot": 656845,
       "num": 653956,
       "word": "直播国家勋章和国家荣誉称号颁授仪式",
       "onboard_time": 1727571677,
@@ -75,6 +91,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 504589,
+      "num": 273273,
+      "word": "著名书法家田英章去世",
+      "onboard_time": 1727575998,
+      "rank": 12,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 498330,
       "num": 274140,
       "word": "汪苏泷强行拉走张碧晨",
@@ -99,12 +123,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 426140,
+      "num": 1068182,
+      "word": "赵丽颖不敢跟导演和肖央说难受",
+      "onboard_time": 1727575998,
+      "rank": 0,
+      "category": "电影"
+    },
+    {
       "raw_hot": 413817,
       "num": 157693,
       "word": "男子听信美容偏方1月不洗脸满脸结痂",
       "onboard_time": 1727534480,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 402719,
+      "num": 402719,
+      "word": "小水妆造",
+      "onboard_time": 1727574738,
+      "rank": 7,
+      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 400510,
@@ -123,6 +163,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 393674,
+      "num": 393674,
+      "word": "国家功勋人物一路红毯入场",
+      "onboard_time": 1727575879,
+      "rank": 5,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 389917,
       "num": 389917,
       "word": "Jennie新歌概念预告",
@@ -137,6 +185,14 @@
       "onboard_time": 1727571798,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 342261,
+      "num": 274053,
+      "word": "为什么是上厕所不是下厕所",
+      "onboard_time": 1727573478,
+      "rank": 26,
+      "category": "幽默"
     },
     {
       "raw_hot": 341762,
@@ -171,28 +227,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 320985,
+      "num": 320985,
+      "word": "战斗英雄黄宗德抵达人民大会堂",
+      "onboard_time": 1727575879,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 320829,
       "num": 320829,
       "word": "倪妮红裙生图",
       "onboard_time": 1727573658,
       "rank": 21,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 317867,
-      "num": 369984,
-      "word": "小水妆造",
-      "onboard_time": 1727574738,
-      "rank": 7,
-      "category": "作品衍生,美妆"
-    },
-    {
-      "raw_hot": 310713,
-      "num": 274053,
-      "word": "为什么是上厕所不是下厕所",
-      "onboard_time": 1727573478,
-      "rank": 26,
-      "category": "幽默"
     },
     {
       "raw_hot": 310230,
@@ -235,6 +283,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 288364,
+      "num": 288364,
+      "word": "国家最高礼遇迎接功勋模范",
+      "onboard_time": 1727575578,
+      "rank": 24,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 275929,
       "num": 275929,
       "word": "伊朗最高领袖称以无法严重伤害真主党",
@@ -275,6 +331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 230690,
+      "num": 230690,
+      "word": "男子为了出气杀害表哥一家四口",
+      "onboard_time": 1727577979,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 223691,
       "num": 188835,
       "word": "停车费1小时200元车主质疑太贵",
@@ -291,12 +355,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 213095,
+      "num": 213095,
+      "word": "死亡搁浅2",
+      "onboard_time": 1727576477,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 211650,
       "num": 190728,
       "word": "刘浩存学院风",
       "onboard_time": 1727537780,
       "rank": 14,
       "category": "电影"
+    },
+    {
+      "raw_hot": 210857,
+      "num": 210857,
+      "word": "黄宗德被颁授共和国勋章",
+      "onboard_time": 1727577498,
+      "rank": 22,
+      "category": "国内时政"
     },
     {
       "raw_hot": 209283,
@@ -307,20 +387,68 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 207387,
-      "num": 207387,
-      "word": "国家最高礼遇迎接功勋模范",
-      "onboard_time": 1727575578,
-      "rank": 24,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 205758,
       "num": 205758,
       "word": "檀健次 减肥不是说减就减吗",
       "onboard_time": 1727529021,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 200915,
+      "num": 200915,
+      "word": "威少炮轰湖人快船",
+      "onboard_time": 1727576837,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 196360,
+      "num": 196360,
+      "word": "WTT中国大满贯开幕式",
+      "onboard_time": 1727577378,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 194513,
+      "num": 194513,
+      "word": "保研",
+      "onboard_time": 1727578099,
+      "rank": 27,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 190971,
+      "num": 195334,
+      "word": "登陆少年暖房仪式",
+      "onboard_time": 1727577617,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 189895,
+      "num": 189895,
+      "word": "用人民币视角感受瑞士物价",
+      "onboard_time": 1727577437,
+      "rank": 31,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 186404,
+      "num": 186404,
+      "word": "田华佩戴奖章敬礼",
+      "onboard_time": 1727577737,
+      "rank": 32,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 186241,
+      "num": 186241,
+      "word": "当男朋友带着小猫来接我时",
+      "onboard_time": 1727572818,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 186226,
@@ -355,12 +483,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 177530,
-      "num": 177530,
-      "word": "当男朋友带着小猫来接我时",
-      "onboard_time": 1727572818,
-      "rank": 30,
-      "category": "情感"
+      "raw_hot": 172897,
+      "num": 339728,
+      "word": "孙颖莎vs巴约尔",
+      "onboard_time": 1727574858,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 172505,
@@ -411,6 +539,30 @@
       "category": "演出"
     },
     {
+      "raw_hot": 147064,
+      "num": 147064,
+      "word": "网文连获8届中国科幻最高奖",
+      "onboard_time": 1727578217,
+      "rank": 37,
+      "category": "读书作家"
+    },
+    {
+      "raw_hot": 146390,
+      "num": 146390,
+      "word": "国庆请2休10超长假受打工人追捧",
+      "onboard_time": 1727578277,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 146125,
+      "num": 146125,
+      "word": "梅西破门",
+      "onboard_time": 1727577197,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 145517,
       "num": 158027,
       "word": "迪丽热巴慕胥辞新妆造路透",
@@ -435,12 +587,36 @@
       "category": "美食"
     },
     {
+      "raw_hot": 131358,
+      "num": 131358,
+      "word": "国庆出游的打工人搜爆病号服",
+      "onboard_time": 1727578459,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 130805,
+      "num": 130805,
+      "word": "酸奶刺客卖不动了吗",
+      "onboard_time": 1727578338,
+      "rank": 43,
+      "category": "美食"
+    },
+    {
       "raw_hot": 129681,
       "num": 157779,
       "word": "李佳琦觉得自己不该被淘汰",
       "onboard_time": 1727508498,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 128016,
+      "num": 128016,
+      "word": "4天A股市值净增10万亿",
+      "onboard_time": 1727576656,
+      "rank": 44,
+      "category": "财经"
     },
     {
       "raw_hot": 127946,
@@ -475,6 +651,22 @@
       "category": "演出,体育"
     },
     {
+      "raw_hot": 125186,
+      "num": 261832,
+      "word": "A股今天不开盘",
+      "onboard_time": 1727578099,
+      "rank": 13,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 123843,
+      "num": 123843,
+      "word": "勋章奖章获得者朴实话语听得泪目",
+      "onboard_time": 1727574557,
+      "rank": 42,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 122142,
       "num": 122142,
       "word": "阿根廷贫困率飙升至近53%",
@@ -499,12 +691,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 120803,
+      "num": 120803,
+      "word": "孙颖莎首战赛前训练",
+      "onboard_time": 1727577676,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 120791,
       "num": 157901,
       "word": "半熟男女 装深情",
       "onboard_time": 1727540300,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 119468,
+      "num": 119468,
+      "word": "83岁科学家说要在世界上为国争地位",
+      "onboard_time": 1727575938,
+      "rank": 49,
+      "category": "国内时政"
     },
     {
       "raw_hot": 118525,
@@ -665,14 +873,6 @@
       "onboard_time": 1727540300,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 95382,
-      "num": 95382,
-      "word": "勋章奖章获得者朴实话语听得泪目",
-      "onboard_time": 1727574557,
-      "rank": 42,
-      "category": "国内时政"
     },
     {
       "raw_hot": 92654,
@@ -843,14 +1043,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 66930,
-      "num": 339728,
-      "word": "孙颖莎vs巴约尔",
-      "onboard_time": 1727574858,
-      "rank": 14,
-      "category": "体育"
-    },
-    {
       "raw_hot": 66056,
       "num": 66056,
       "word": "拜仁vs勒沃库森",
@@ -875,8 +1067,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 59971,
+      "num": 257124,
+      "word": "内塔尼亚胡称中东无以长臂不及之处",
+      "onboard_time": 1727577078,
+      "rank": 14,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 59912,
-      "num": 180063,
+      "num": 198377,
       "word": "上交所启动测试券商替股民模拟下单",
       "onboard_time": 1727575097,
       "rank": 29,
@@ -1127,6 +1327,9 @@
     },
     {
       "word": "#新时代中国产业工人的爱国心创造力#"
+    },
+    {
+      "word": "#国家勋章国家荣誉称号颁授仪式#"
     }
   ]
 }
