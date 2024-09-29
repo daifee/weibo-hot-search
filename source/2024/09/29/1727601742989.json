@@ -1,0 +1,410 @@
+{
+  "runTime": 1727601742989,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 904093,
+        "num": 1144655,
+        "word": "多家房企宣布涨价",
+        "onboard_time": 1727588840,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 616375,
+        "num": 616375,
+        "word": "孙颖莎 认真打的",
+        "onboard_time": 1727596158,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 175507,
+        "num": 549450,
+        "word": "国家勋章国家荣誉称号获得者名单",
+        "onboard_time": 1727597118,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 505794,
+        "num": 505794,
+        "word": "张本美和又哭了",
+        "onboard_time": 1727598138,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 498008,
+        "num": 498008,
+        "word": "东北雨姐团队称红薯粉条应该有问题",
+        "onboard_time": 1727600539,
+        "rank": 4,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 323686,
+        "num": 323686,
+        "word": "12306从未授权第三方平台卖票",
+        "onboard_time": 1727578817,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243325,
+        "num": 243325,
+        "word": "辽菜是第一个国家级非遗菜系",
+        "onboard_time": 1727596399,
+        "rank": 6,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 234361,
+        "num": 234361,
+        "word": "中国银行为防诈骗限制储户取款",
+        "onboard_time": 1727582539,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209353,
+        "num": 233950,
+        "word": "林孝埈1000米夺冠",
+        "onboard_time": 1727594299,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 68482,
+        "num": 232955,
+        "word": "投资者开户爆了中国结算加班审核",
+        "onboard_time": 1727597239,
+        "rank": 9,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 1040527,
+        "num": 231938,
+        "word": "双胞胎还在妈妈子宫就把手术做了",
+        "onboard_time": 1727597717,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 684482,
+        "num": 230203,
+        "word": "杭州回应家长强烈要求取消春秋假",
+        "onboard_time": 1727595319,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 644431,
+        "num": 229501,
+        "word": "银行存10万取3000时被要求第三方证明",
+        "onboard_time": 1727592318,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 540933,
+        "num": 228415,
+        "word": "车票候补",
+        "onboard_time": 1727595980,
+        "rank": 13,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 32861,
+        "num": 226322,
+        "word": "律师碰掉法院信号屏蔽器该被处罚吗",
+        "onboard_time": 1727600959,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 68929,
+        "num": 225269,
+        "word": "心脏撑不住了有什么信号",
+        "onboard_time": 1727600479,
+        "rank": 15,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 433947,
+        "num": 224699,
+        "word": "戚薇说北大考试差点写不完",
+        "onboard_time": 1727595559,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 504685,
+        "num": 223740,
+        "word": "网红自曝开劳被人持刀携爆炸物抢劫",
+        "onboard_time": 1727597899,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 14183,
+        "num": 222356,
+        "word": "叶童当年也是很多人的白月光",
+        "onboard_time": 1727601379,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32479,
+        "num": 221498,
+        "word": "多方回应高校校招现足浴技师招聘",
+        "onboard_time": 1727600838,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 469138,
+        "num": 219315,
+        "word": "快递柜拿取声吵到婴儿被封",
+        "onboard_time": 1727588598,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 400686,
+        "num": 218689,
+        "word": "侃爷因中暑演唱会中途退场",
+        "onboard_time": 1727598199,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 386978,
+        "num": 216981,
+        "word": "商家回应女子买一颗话梅收71.6元",
+        "onboard_time": 1727590580,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 373090,
+        "num": 215738,
+        "word": "惠州一男子被超2米长蟒蛇缠住",
+        "onboard_time": 1727600719,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 284290,
+        "num": 215621,
+        "word": "女子骑马被教练偷拍发群里开黄腔",
+        "onboard_time": 1727596219,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261901,
+        "num": 213418,
+        "word": "网曝女子买一颗话梅被收71.6元",
+        "onboard_time": 1727592078,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 315208,
+        "num": 212414,
+        "word": "侃爷听到南京憋不住笑了",
+        "onboard_time": 1727590820,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212219,
+        "num": 212219,
+        "word": "保研朋友圈屏蔽了三百多人",
+        "onboard_time": 1727586980,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 210637,
+        "num": 210637,
+        "word": "首个中韩选秀节目开播",
+        "onboard_time": 1727599519,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198071,
+        "num": 198071,
+        "word": "罗永浩称已和星巴克和解",
+        "onboard_time": 1727599580,
+        "rank": 29,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 192669,
+        "num": 192669,
+        "word": "周柯宇问程潇和妹妹是不是双胞胎",
+        "onboard_time": 1727599699,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181692,
+        "num": 181692,
+        "word": "戚薇说终于等到刘忻的乐队了",
+        "onboard_time": 1727600420,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181301,
+        "num": 181301,
+        "word": "迪丽热巴慕胥辞路透",
+        "onboard_time": 1727596099,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174378,
+        "num": 174378,
+        "word": "专家建议买新能源车可以不买电池",
+        "onboard_time": 1727595619,
+        "rank": 33,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 172899,
+        "num": 172899,
+        "word": "业内人士称房企保价涨价是营销手段",
+        "onboard_time": 1727590580,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 72170,
+        "num": 172841,
+        "word": "漠风吟开播",
+        "onboard_time": 1727595439,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172802,
+        "num": 172802,
+        "word": "刘学义吴谨言春花焰团综路透",
+        "onboard_time": 1727598919,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171643,
+        "num": 171643,
+        "word": "老人被高空坠落的火钳砸中身亡",
+        "onboard_time": 1727590639,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167447,
+        "num": 167447,
+        "word": "祁煜 敦煌飞天",
+        "onboard_time": 1727600479,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 162976,
+        "num": 162976,
+        "word": "CP30涨价",
+        "onboard_time": 1727587459,
+        "rank": 39,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 155744,
+        "num": 155744,
+        "word": "林园称A股涨到4500点才是牛市起点",
+        "onboard_time": 1727601679,
+        "rank": 40,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 151385,
+        "num": 151385,
+        "word": "林园称A股现在非常便宜",
+        "onboard_time": 1727601679,
+        "rank": 41,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 144946,
+        "num": 144946,
+        "word": "孙俪吴慷仁新剧开拍",
+        "onboard_time": 1727593939,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126036,
+        "num": 126036,
+        "word": "王楚钦给倪夏莲签名",
+        "onboard_time": 1727601679,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125080,
+        "num": 125080,
+        "word": "王一博高空点外卖",
+        "onboard_time": 1727594780,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 122617,
+        "num": 122617,
+        "word": "疑似有人假冒王鹤棣及其团队",
+        "onboard_time": 1727597958,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118741,
+        "num": 118741,
+        "word": "比亚迪召回近10万台电车",
+        "onboard_time": 1727601679,
+        "rank": 46,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 99893,
+        "num": 118120,
+        "word": "6岁小孩手腕断裂反安慰母亲",
+        "onboard_time": 1727591657,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 86230,
+        "num": 118069,
+        "word": "甘望星被误以为80后",
+        "onboard_time": 1727601019,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118028,
+        "num": 118028,
+        "word": "宁德消防回应宁德时代Z基地起火",
+        "onboard_time": 1727600181,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#颁授仪式上这些话语鼓舞人心#"
+    }
+  }
+}
