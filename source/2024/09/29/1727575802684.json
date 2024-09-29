@@ -1,0 +1,410 @@
+{
+  "runTime": 1727575802684,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1009864,
+        "num": 1161578,
+        "word": "股民4天人均赚4.7万",
+        "onboard_time": 1727574137,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 756128,
+        "num": 756128,
+        "word": "大学生兼职泰山陪爬订单排到深秋",
+        "onboard_time": 1727555471,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 8751,
+        "num": 754660,
+        "word": "喜欢国风的外国小姐姐解释华夏",
+        "onboard_time": 1727528960,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 754310,
+        "num": 754310,
+        "word": "河南婚假28天排全国第四",
+        "onboard_time": 1727571798,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 653956,
+        "num": 653956,
+        "word": "直播国家勋章和国家荣誉称号颁授仪式",
+        "onboard_time": 1727571677,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 556910,
+        "num": 556910,
+        "word": "内塔尼亚胡喊话伊朗你打我我就打你",
+        "onboard_time": 1727571677,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 375367,
+        "num": 375367,
+        "word": "孙颖莎中国大满贯首场比赛",
+        "onboard_time": 1727571798,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 317867,
+        "num": 369984,
+        "word": "小水妆造",
+        "onboard_time": 1727574738,
+        "rank": 7,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 164294,
+        "num": 363369,
+        "word": "江慈身世",
+        "onboard_time": 1727566036,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 87396,
+        "num": 358855,
+        "word": "功勋模范铿锵有力唱歌唱祖国",
+        "onboard_time": 1727571618,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 530167,
+        "num": 349526,
+        "word": "第一次见房子用毫米来形容",
+        "onboard_time": 1727565798,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 498047,
+        "num": 347830,
+        "word": "这大概是最费发夹的发型了",
+        "onboard_time": 1727569098,
+        "rank": 11,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 342280,
+        "num": 342280,
+        "word": "秦岚 分手后我不会和前任做朋友",
+        "onboard_time": 1727527698,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 341762,
+        "num": 341762,
+        "word": "翁青雅彭高好嗑",
+        "onboard_time": 1727571439,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 66930,
+        "num": 339728,
+        "word": "孙颖莎vs巴约尔",
+        "onboard_time": 1727574858,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 339013,
+        "num": 339013,
+        "word": "潘展乐大声给陈奕迅纠错",
+        "onboard_time": 1727565256,
+        "rank": 15,
+        "category": "演出,体育"
+      },
+      {
+        "raw_hot": 331932,
+        "num": 331932,
+        "word": "Jennie新歌概念预告",
+        "onboard_time": 1727572578,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 320829,
+        "num": 320829,
+        "word": "倪妮红裙生图",
+        "onboard_time": 1727573658,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 295243,
+        "num": 295243,
+        "word": "韩国人用卷心菜娃娃菜代替大白菜",
+        "onboard_time": 1727528600,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274063,
+        "num": 274063,
+        "word": "拜登称美国完全支持以色列自卫",
+        "onboard_time": 1727570419,
+        "rank": 19,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 310713,
+        "num": 274053,
+        "word": "为什么是上厕所不是下厕所",
+        "onboard_time": 1727573478,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 272974,
+        "num": 272974,
+        "word": "双开门冰箱突然变大气了",
+        "onboard_time": 1727570898,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 212353,
+        "num": 212353,
+        "word": "黄继光后人有17人参军",
+        "onboard_time": 1727568558,
+        "rank": 22,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 210611,
+        "num": 210611,
+        "word": "A股",
+        "onboard_time": 1727573057,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 207387,
+        "num": 207387,
+        "word": "国家最高礼遇迎接功勋模范",
+        "onboard_time": 1727575578,
+        "rank": 24,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 189862,
+        "num": 189862,
+        "word": "十月最容易脱单的星座",
+        "onboard_time": 1727568558,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 126251,
+        "num": 189405,
+        "word": "音乐缘计划全员爆梗哇声一片",
+        "onboard_time": 1727575517,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122173,
+        "num": 186426,
+        "word": "演唱会上的Karina",
+        "onboard_time": 1727570419,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 80919,
+        "num": 182112,
+        "word": "王一博摩托车后座视角",
+        "onboard_time": 1727566337,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 59912,
+        "num": 180063,
+        "word": "上交所启动测试券商替股民模拟下单",
+        "onboard_time": 1727575097,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 159524,
+        "num": 177032,
+        "word": "汪苏泷强行拉走张碧晨",
+        "onboard_time": 1727565737,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 176548,
+        "num": 176548,
+        "word": "赵丽颖不敢对李红樱感同身受",
+        "onboard_time": 1727545513,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 173250,
+        "num": 173250,
+        "word": "当男朋友带着小猫来接我时",
+        "onboard_time": 1727572818,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 172403,
+        "num": 172403,
+        "word": "男孩按摩4次治驼背花近3万",
+        "onboard_time": 1727551032,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131832,
+        "num": 131832,
+        "word": "离婚不离家可行吗",
+        "onboard_time": 1727538317,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126514,
+        "num": 126514,
+        "word": "多种水果降价",
+        "onboard_time": 1727556492,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121140,
+        "num": 121140,
+        "word": "檀健次 减肥不是说减就减吗",
+        "onboard_time": 1727529021,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118443,
+        "num": 118443,
+        "word": "cp30",
+        "onboard_time": 1727568018,
+        "rank": 37,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 114907,
+        "num": 114907,
+        "word": "肖战工作室成立5周年",
+        "onboard_time": 1727568738,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113579,
+        "num": 113579,
+        "word": "特斯拉德国工厂员工病假率升至17%",
+        "onboard_time": 1727574137,
+        "rank": 39,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 105910,
+        "num": 105910,
+        "word": "以军称打死黎真主党领导人纳斯鲁拉",
+        "onboard_time": 1727511379,
+        "rank": 40,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 95571,
+        "num": 95571,
+        "word": "国庆朋友圈已经预制好了",
+        "onboard_time": 1727525959,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 95382,
+        "num": 95382,
+        "word": "勋章奖章获得者朴实话语听得泪目",
+        "onboard_time": 1727574557,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 87073,
+        "num": 87073,
+        "word": "迈阿密国际vs夏洛特",
+        "onboard_time": 1727573478,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 86097,
+        "num": 86097,
+        "word": "微博旅行家",
+        "onboard_time": 1727575758,
+        "rank": 44,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 86064,
+        "num": 86064,
+        "word": "niko锤烂桌子",
+        "onboard_time": 1727573357,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 82459,
+        "num": 86059,
+        "word": "伊朗最高领袖称以无法严重伤害真主党",
+        "onboard_time": 1727541676,
+        "rank": 46,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 77547,
+        "num": 86038,
+        "word": "凤凰传奇演唱会",
+        "onboard_time": 1727568197,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 67262,
+        "num": 86003,
+        "word": "周深新歌虚构",
+        "onboard_time": 1727567357,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 65554,
+        "num": 85989,
+        "word": "毛不易一口气唱完了十部剧OST",
+        "onboard_time": 1727575159,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平回信勉励中国一重产业工人代表#"
+    }
+  }
+}
