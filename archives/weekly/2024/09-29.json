@@ -1,6 +1,6 @@
 {
   "startTime": 1727540758074,
-  "endTime": 1727606341609,
+  "endTime": 1727608709615,
   "band_list": [
     {
       "raw_hot": 2561192,
@@ -299,6 +299,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 629564,
+      "num": 257656,
+      "word": "你23岁的时候在做什么",
+      "onboard_time": 1727605579,
+      "rank": 37,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 584315,
       "num": 236506,
       "word": "网红自曝开劳被人持刀携爆炸物抢劫",
@@ -377,6 +385,14 @@
       "onboard_time": 1727527698,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 511703,
+      "num": 190836,
+      "word": "甘孜一油罐车坠崖夫妻身亡",
+      "onboard_time": 1727606058,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 511004,
@@ -475,6 +491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 411949,
+      "num": 190028,
+      "word": "陈梦在周杰伦和黄晓明中选了黄晓明",
+      "onboard_time": 1727606299,
+      "rank": 38,
+      "category": "体育,作品衍生"
+    },
+    {
       "raw_hot": 407781,
       "num": 407781,
       "word": "王楚钦眼里全是活儿",
@@ -539,6 +563,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 385336,
+      "num": 385336,
+      "word": "比亚迪召回近10万台电车",
+      "onboard_time": 1727601679,
+      "rank": 46,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 378731,
+      "num": 190554,
+      "word": "十个勤天玫瑰酪",
+      "onboard_time": 1727606781,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 375743,
       "num": 286387,
       "word": "女子骑马被教练偷拍发群里开黄腔",
@@ -555,6 +595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 357820,
+      "num": 189981,
+      "word": "市监局回应网友称住酒店遭临时涨价",
+      "onboard_time": 1727603781,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 355367,
       "num": 598181,
       "word": "孙颖莎中国大满贯开门红",
@@ -569,14 +617,6 @@
       "onboard_time": 1727586260,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 353526,
-      "num": 190097,
-      "word": "比亚迪召回近10万台电车",
-      "onboard_time": 1727601679,
-      "rank": 46,
-      "category": "汽车"
     },
     {
       "raw_hot": 342261,
@@ -699,12 +739,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 301996,
-      "num": 188480,
-      "word": "市监局回应网友称住酒店遭临时涨价",
-      "onboard_time": 1727603781,
-      "rank": 23,
-      "category": "社会新闻"
+      "raw_hot": 302777,
+      "num": 189898,
+      "word": "周深为自己做的生日蛋糕",
+      "onboard_time": 1727603179,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 300658,
@@ -953,6 +993,14 @@
       "onboard_time": 1727579598,
       "rank": 27,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 228324,
+      "num": 189824,
+      "word": "杭州警方通报网红遭人持刀抢劫",
+      "onboard_time": 1727605219,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 227273,
@@ -1219,6 +1267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 191204,
+      "num": 191204,
+      "word": "樊振东观战中网",
+      "onboard_time": 1727606781,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 191118,
       "num": 372309,
       "word": "舍不得星星暧昧期见家长",
@@ -1241,6 +1297,14 @@
       "onboard_time": 1727586019,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 188164,
+      "num": 188164,
+      "word": "房姐李梅87套房开拍仅5人报名",
+      "onboard_time": 1727607679,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 186404,
@@ -1355,12 +1419,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 175329,
+      "num": 148099,
+      "word": "房企涨价",
+      "onboard_time": 1727607620,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 174378,
       "num": 174378,
       "word": "专家建议买新能源车可以不买电池",
       "onboard_time": 1727595619,
       "rank": 46,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 173483,
+      "num": 173483,
+      "word": "刘烨回复周雨彤下次我拉拉你",
+      "onboard_time": 1727605758,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 172802,
@@ -1441,14 +1521,6 @@
       "onboard_time": 1727592918,
       "rank": 35,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 166210,
-      "num": 166210,
-      "word": "刘烨回复周雨彤下次我拉拉你",
-      "onboard_time": 1727605758,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 165230,
@@ -1683,6 +1755,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 138558,
+      "num": 134764,
+      "word": "周雨彤刘烨互晒合照",
+      "onboard_time": 1727605998,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 137811,
       "num": 137811,
       "word": "PEL秋季常规赛最佳阵容",
@@ -1723,6 +1803,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 134782,
+      "num": 158779,
+      "word": "樊振东为阿尔卡拉斯挑边",
+      "onboard_time": 1727605998,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 134217,
       "num": 134217,
       "word": "恋与天津游",
@@ -1761,6 +1849,14 @@
       "onboard_time": 1727578338,
       "rank": 43,
       "category": "美食"
+    },
+    {
+      "raw_hot": 130628,
+      "num": 130628,
+      "word": "沈星回 祝你百岁无忧",
+      "onboard_time": 1727607739,
+      "rank": 35,
+      "category": "动漫"
     },
     {
       "raw_hot": 130555,
@@ -1835,6 +1931,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 125725,
+      "num": 125725,
+      "word": "华晨宇携中国美院艺术展返场贵阳",
+      "onboard_time": 1727607441,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 125607,
       "num": 186426,
       "word": "演唱会上的Karina",
@@ -1857,14 +1961,6 @@
       "onboard_time": 1727584759,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 124477,
-      "num": 124477,
-      "word": "你23岁的时候在做什么",
-      "onboard_time": 1727605579,
-      "rank": 37,
-      "category": "社会议题"
     },
     {
       "raw_hot": 124006,
@@ -1931,14 +2027,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 121151,
-      "num": 121151,
-      "word": "陈梦在周杰伦和黄晓明中选了黄晓明",
-      "onboard_time": 1727606299,
-      "rank": 38,
-      "category": "体育,作品衍生"
-    },
-    {
       "raw_hot": 120803,
       "num": 120803,
       "word": "孙颖莎首战赛前训练",
@@ -1955,6 +2043,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 119979,
+      "num": 119979,
+      "word": "最适合懒人的减肥训练",
+      "onboard_time": 1727605099,
+      "rank": 43,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 119468,
       "num": 119468,
       "word": "83岁科学家说要在世界上为国争地位",
@@ -1963,20 +2059,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 118589,
+      "num": 191162,
+      "word": "惠英红 生而为中国人我骄傲自豪",
+      "onboard_time": 1727605160,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 118525,
       "num": 118525,
       "word": "黎真主党领导人身亡后内塔尼亚胡首发声",
       "onboard_time": 1727570599,
       "rank": 36,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 118503,
-      "num": 118503,
-      "word": "甘孜一油罐车坠崖夫妻身亡",
-      "onboard_time": 1727606058,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 118443,
@@ -2099,12 +2195,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 110427,
-      "num": 110427,
-      "word": "杭州警方通报网红遭人持刀抢劫",
-      "onboard_time": 1727605219,
-      "rank": 44,
-      "category": "社会新闻"
+      "raw_hot": 110678,
+      "num": 110678,
+      "word": "王楚钦中国大满贯首战",
+      "onboard_time": 1727608520,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 110286,
@@ -2113,14 +2209,6 @@
       "onboard_time": 1727595439,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 107907,
-      "num": 107907,
-      "word": "最适合懒人的减肥训练",
-      "onboard_time": 1727605099,
-      "rank": 43,
-      "category": "运动健身"
     },
     {
       "raw_hot": 105701,
@@ -2155,28 +2243,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 104360,
-      "num": 104360,
-      "word": "周深为自己做的生日蛋糕",
-      "onboard_time": 1727603179,
-      "rank": 45,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 103855,
       "num": 157729,
       "word": "Kanye试听会",
       "onboard_time": 1727526499,
       "rank": 29,
       "category": "演出"
-    },
-    {
-      "raw_hot": 103718,
-      "num": 103718,
-      "word": "周雨彤刘烨互晒合照",
-      "onboard_time": 1727605998,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 103539,
@@ -2371,6 +2443,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 76207,
+      "num": 190209,
+      "word": "王楚钦vs篠塚大登",
+      "onboard_time": 1727606239,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 76041,
       "num": 382574,
       "word": "谁能继续领导黎真主党",
@@ -2539,14 +2619,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 60267,
-      "num": 163728,
-      "word": "惠英红 生而为中国人我骄傲自豪",
-      "onboard_time": 1727605160,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 59971,
       "num": 257124,
       "word": "内塔尼亚胡称中东无以长臂不及之处",
@@ -2643,14 +2715,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 51707,
-      "num": 158779,
-      "word": "樊振东为阿尔卡拉斯挑边",
-      "onboard_time": 1727605998,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 50943,
       "num": 157430,
       "word": "周深第二张个人专辑",
@@ -2732,7 +2796,7 @@
     },
     {
       "raw_hot": 40749,
-      "num": 109039,
+      "num": 190438,
       "word": "十一如何拍出人生照片",
       "onboard_time": 1727605998,
       "rank": 45,
@@ -2923,20 +2987,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 18423,
+      "num": 191022,
+      "word": "失去双臂老兵永远想做人民的兵",
+      "onboard_time": 1727607499,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 18369,
       "num": 37833,
       "word": "五月天成都演唱会",
       "onboard_time": 1727544974,
       "rank": 48,
       "category": "演出"
-    },
-    {
-      "raw_hot": 17509,
-      "num": 158989,
-      "word": "王楚钦vs篠塚大登",
-      "onboard_time": 1727606239,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 17227,
