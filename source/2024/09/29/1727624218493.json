@@ -1,0 +1,410 @@
+{
+  "runTime": 1727624218493,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 550422,
+        "num": 1088067,
+        "word": "首套二套存量房贷利率批量下调",
+        "onboard_time": 1727617701,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 546158,
+        "num": 546158,
+        "word": "不再区分首套二套房",
+        "onboard_time": 1727618360,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 15277,
+        "num": 520798,
+        "word": "今天请记住这些闪亮的名字",
+        "onboard_time": 1727617161,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 511403,
+        "num": 511403,
+        "word": "贵州教育厅厅长邹联克主动投案",
+        "onboard_time": 1727622020,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 461690,
+        "num": 461690,
+        "word": "俩老人买黄金不问价店员果断报警",
+        "onboard_time": 1727611399,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 354662,
+        "num": 354662,
+        "word": "10月1日10点01分表白祖国",
+        "onboard_time": 1727612839,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 350763,
+        "num": 350763,
+        "word": "上海进一步优化房地产市场政策",
+        "onboard_time": 1727618480,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25483,
+        "num": 350073,
+        "word": "广州官宣楼市取消限购",
+        "onboard_time": 1727623940,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3101,
+        "num": 349473,
+        "word": "奔赴山与海征途向未来",
+        "onboard_time": 1727581338,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 295619,
+        "num": 348899,
+        "word": "你23岁的时候在做什么",
+        "onboard_time": 1727605579,
+        "rank": 9,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 2088082,
+        "num": 348090,
+        "word": "女子收到12306八百万退款短信",
+        "onboard_time": 1727617880,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 800781,
+        "num": 347387,
+        "word": "张元英眼睛状态",
+        "onboard_time": 1727620881,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 706396,
+        "num": 346662,
+        "word": "王源妈妈骄傲的先退场了",
+        "onboard_time": 1727621600,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 446744,
+        "num": 345592,
+        "word": "关晓彤华伦天奴大秀",
+        "onboard_time": 1727616500,
+        "rank": 13,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 399661,
+        "num": 344743,
+        "word": "快递柜拿取声吵到婴儿被封",
+        "onboard_time": 1727588598,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 344283,
+        "num": 344283,
+        "word": "张远逆袭陈楚生",
+        "onboard_time": 1727621900,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 335996,
+        "num": 335996,
+        "word": "林允儿齐刘海包头造型",
+        "onboard_time": 1727618719,
+        "rank": 16,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 312696,
+        "num": 312696,
+        "word": "客服是否该为主播翻车行为担责",
+        "onboard_time": 1727618300,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 417229,
+        "num": 303707,
+        "word": "杨紫张晚意秀场同框",
+        "onboard_time": 1727622081,
+        "rank": 18,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 35872,
+        "num": 296261,
+        "word": "麦迪娜佟丽娅新疆美女联动了",
+        "onboard_time": 1727623340,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 293606,
+        "num": 293606,
+        "word": "双胞胎还在妈妈子宫就把手术做了",
+        "onboard_time": 1727597717,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137688,
+        "num": 274079,
+        "word": "100万房贷每年节约利息5600元",
+        "onboard_time": 1727621119,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260906,
+        "num": 260906,
+        "word": "21岁男生工作20余天后跳桥身亡",
+        "onboard_time": 1727616921,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244616,
+        "num": 244616,
+        "word": "内塔尼亚胡称以色列已到历史转折点",
+        "onboard_time": 1727621661,
+        "rank": 23,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 219462,
+        "num": 219462,
+        "word": "SM新女团路透照",
+        "onboard_time": 1727621480,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 216663,
+        "num": 216663,
+        "word": "周深在六公主的11次舞台",
+        "onboard_time": 1727622680,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 211502,
+        "num": 211502,
+        "word": "王楚钦呼吁观众少开点闪光灯",
+        "onboard_time": 1727619920,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 198780,
+        "num": 198780,
+        "word": "杨紫看秀look",
+        "onboard_time": 1727616080,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 191805,
+        "num": 191805,
+        "word": "商业房贷首付统一为不低于15%",
+        "onboard_time": 1727621720,
+        "rank": 28,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 190765,
+        "num": 190765,
+        "word": "央媒评淘宝可使用微信支付",
+        "onboard_time": 1727610558,
+        "rank": 29,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 158952,
+        "num": 158952,
+        "word": "如何一眼看出画的是广东",
+        "onboard_time": 1727605219,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157576,
+        "num": 157576,
+        "word": "周深为自己做的生日蛋糕",
+        "onboard_time": 1727603179,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155122,
+        "num": 155122,
+        "word": "半熟男女中的一些隐喻",
+        "onboard_time": 1727621780,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146238,
+        "num": 146238,
+        "word": "老师介绍婚姻本科专业学什么",
+        "onboard_time": 1727621300,
+        "rank": 33,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 139624,
+        "num": 139624,
+        "word": "警方通报老板将老鼠药注入食品中",
+        "onboard_time": 1727623340,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138120,
+        "num": 138120,
+        "word": "周杰伦演唱会",
+        "onboard_time": 1727620401,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 133986,
+        "num": 133986,
+        "word": "张晚意看秀生图",
+        "onboard_time": 1727618841,
+        "rank": 36,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 131124,
+        "num": 131124,
+        "word": "王源帮我录视频向老板请假",
+        "onboard_time": 1727620641,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 128510,
+        "num": 128510,
+        "word": "王冰冰 社交破冰技巧",
+        "onboard_time": 1727623400,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128290,
+        "num": 128290,
+        "word": "王楚钦主动示意没上台",
+        "onboard_time": 1727611339,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126378,
+        "num": 126378,
+        "word": "个人住房贷款最低首付比例不低于15%",
+        "onboard_time": 1727621900,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123777,
+        "num": 123777,
+        "word": "教育局回应鹤壁技师学院打人事件",
+        "onboard_time": 1727612180,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121286,
+        "num": 121286,
+        "word": "宁波一厂发生锌水爆炸大量锌水流出",
+        "onboard_time": 1727614159,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116848,
+        "num": 116848,
+        "word": "甘孜一油罐车坠崖夫妻身亡",
+        "onboard_time": 1727606058,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114867,
+        "num": 114867,
+        "word": "辛巴和蛋蛋消痛贴违法添加穿山甲",
+        "onboard_time": 1727612839,
+        "rank": 44,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 111430,
+        "num": 111430,
+        "word": "王一博攀岩遇暴雨身体险失温",
+        "onboard_time": 1727621840,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109042,
+        "num": 109042,
+        "word": "华伦天奴大秀",
+        "onboard_time": 1727610080,
+        "rank": 46,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 106536,
+        "num": 106536,
+        "word": "上海住房增值税征免年限5年调整为2年",
+        "onboard_time": 1727623639,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100800,
+        "num": 100800,
+        "word": "100万房贷每年可节约利息约5600元",
+        "onboard_time": 1727622260,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41855,
+        "num": 98444,
+        "word": "惠英红 生而为中国人我骄傲自豪",
+        "onboard_time": 1727605160,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#150秒回顾这场勋章奖章颁授仪式#"
+    }
+  }
+}
