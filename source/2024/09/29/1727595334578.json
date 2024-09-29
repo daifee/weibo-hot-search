@@ -1,0 +1,410 @@
+{
+  "runTime": 1727595334578,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1268585,
+        "num": 1268585,
+        "word": "多家房企宣布涨价",
+        "onboard_time": 1727588840,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 654198,
+        "num": 654198,
+        "word": "6岁小孩手腕断裂反安慰母亲",
+        "onboard_time": 1727591657,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 50228,
+        "num": 406425,
+        "word": "国家最高礼遇迎接功勋模范",
+        "onboard_time": 1727575578,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 307022,
+        "num": 307022,
+        "word": "外交部回应黎真主党领导人遇袭身亡",
+        "onboard_time": 1727592799,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 302568,
+        "num": 302568,
+        "word": "多家银行大额存单掀起转让潮",
+        "onboard_time": 1727587158,
+        "rank": 4,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 302313,
+        "num": 302313,
+        "word": "12306从未授权第三方平台卖票",
+        "onboard_time": 1727578817,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 298813,
+        "num": 298813,
+        "word": "林孝埈1000米夺冠",
+        "onboard_time": 1727594299,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 265699,
+        "num": 265699,
+        "word": "CP30涨价",
+        "onboard_time": 1727587459,
+        "rank": 7,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 246436,
+        "num": 246436,
+        "word": "何卓佳3比0张本美和",
+        "onboard_time": 1727585900,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 215324,
+        "num": 245965,
+        "word": "中国银行为防诈骗限制储户取款",
+        "onboard_time": 1727582539,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1364020,
+        "num": 244708,
+        "word": "快递柜拿取声吵到婴儿被封",
+        "onboard_time": 1727588598,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 979908,
+        "num": 244221,
+        "word": "侃爷听到南京憋不住笑了",
+        "onboard_time": 1727590820,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 842992,
+        "num": 243162,
+        "word": "银行存10万取3000时被要求第三方证明",
+        "onboard_time": 1727592318,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 701916,
+        "num": 241902,
+        "word": "商家回应女子买一颗话梅收71.6元",
+        "onboard_time": 1727590580,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 576538,
+        "num": 240994,
+        "word": "女子遭遇话梅刺客一斤3580元",
+        "onboard_time": 1727592019,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 362225,
+        "num": 240912,
+        "word": "一家四口惨死民警苦苦追凶27年",
+        "onboard_time": 1727579298,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 324984,
+        "num": 239702,
+        "word": "刘浩存Minnie出发巴黎时装周撞衫",
+        "onboard_time": 1727589979,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 44533,
+        "num": 238938,
+        "word": "黄俊捷直播",
+        "onboard_time": 1727593337,
+        "rank": 17,
+        "category": "综艺,作品衍生"
+      },
+      {
+        "raw_hot": 27223,
+        "num": 238125,
+        "word": "以官员称纳斯鲁拉因拒绝外交方案被杀",
+        "onboard_time": 1727594898,
+        "rank": 18,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 91599,
+        "num": 236855,
+        "word": "惠英红中轴线封面 恢宏东方气韵",
+        "onboard_time": 1727594418,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 512017,
+        "num": 235684,
+        "word": "老人被高空坠落的火钳砸中身亡",
+        "onboard_time": 1727590639,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 343891,
+        "num": 235398,
+        "word": "保研朋友圈屏蔽了三百多人",
+        "onboard_time": 1727586980,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 304379,
+        "num": 233762,
+        "word": "电影这个杀手不太冷定档",
+        "onboard_time": 1727584880,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 307280,
+        "num": 233568,
+        "word": "孙俪吴慷仁新剧开拍",
+        "onboard_time": 1727593939,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 253197,
+        "num": 232182,
+        "word": "赵露思沈阳活动",
+        "onboard_time": 1727592199,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26588,
+        "num": 231742,
+        "word": "克隆声音的门槛有多低",
+        "onboard_time": 1727593458,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230849,
+        "num": 230849,
+        "word": "业内人士称房企保价涨价是营销手段",
+        "onboard_time": 1727590580,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210837,
+        "num": 210837,
+        "word": "易烊千玺北京出发巴黎路透",
+        "onboard_time": 1727593579,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 209604,
+        "num": 209604,
+        "word": "黄薇 造型",
+        "onboard_time": 1727592979,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197592,
+        "num": 197592,
+        "word": "谁教翟潇闻虞书欣这么起名的",
+        "onboard_time": 1727594299,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197530,
+        "num": 197530,
+        "word": "王一博高空点外卖",
+        "onboard_time": 1727594780,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 195415,
+        "num": 195415,
+        "word": "侯明昊卢昱晓 她在闹他在笑",
+        "onboard_time": 1727586260,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190478,
+        "num": 190478,
+        "word": "宁德时代",
+        "onboard_time": 1727592379,
+        "rank": 32,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 179393,
+        "num": 179393,
+        "word": "网曝女子买一颗话梅被收71.6元",
+        "onboard_time": 1727592078,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174423,
+        "num": 174423,
+        "word": "女子帮顾客扫充电宝未归还称寒心了",
+        "onboard_time": 1727590820,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171529,
+        "num": 171529,
+        "word": "高鹏冷暴力逼何知南提分手",
+        "onboard_time": 1727588538,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171510,
+        "num": 171510,
+        "word": "15人被授予国家勋章国家荣誉称号",
+        "onboard_time": 1727584640,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 165230,
+        "num": 165230,
+        "word": "宁德时代旗下生产基地着火",
+        "onboard_time": 1727594780,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160119,
+        "num": 160119,
+        "word": "伊拉克数千人冲击美国大使馆",
+        "onboard_time": 1727592918,
+        "rank": 38,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 158989,
+        "num": 158989,
+        "word": "郑钦文早就提醒裁判关顶棚",
+        "onboard_time": 1727587520,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153226,
+        "num": 153226,
+        "word": "黑神话悟空初版铁扇公主",
+        "onboard_time": 1727587339,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 141080,
+        "num": 141080,
+        "word": "商家回应话梅3580一斤价格正常",
+        "onboard_time": 1727595019,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139532,
+        "num": 139532,
+        "word": "买到假爱马仕因没开箱视频遭拒退",
+        "onboard_time": 1727580018,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138168,
+        "num": 138168,
+        "word": "不是上链接吗怎么上警车了",
+        "onboard_time": 1727587339,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 84499,
+        "num": 129288,
+        "word": "致敬闪亮的名字",
+        "onboard_time": 1727578159,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 98250,
+        "num": 128995,
+        "word": "电影749局首映",
+        "onboard_time": 1727587220,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 128883,
+        "num": 128883,
+        "word": "一条plog告别九月",
+        "onboard_time": 1727594898,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 125643,
+        "num": 125643,
+        "word": "保研",
+        "onboard_time": 1727578099,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 125621,
+        "num": 125621,
+        "word": "杭州回应家长强烈要求取消春秋假",
+        "onboard_time": 1727595319,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123200,
+        "num": 123200,
+        "word": "孙颖莎11比1",
+        "onboard_time": 1727581338,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#国家勋章国家荣誉称号颁授仪式#"
+    }
+  }
+}

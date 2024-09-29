@@ -1,6 +1,6 @@
 {
   "startTime": 1727540758074,
-  "endTime": 1727594350363,
+  "endTime": 1727595334578,
   "band_list": [
     {
       "raw_hot": 2561192,
@@ -99,6 +99,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 979908,
+      "num": 284238,
+      "word": "侃爷听到南京憋不住笑了",
+      "onboard_time": 1727590820,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 875819,
       "num": 305649,
       "word": "商家回应女子买一颗话梅收71.6元",
@@ -112,6 +120,14 @@
       "word": "6岁小孩手腕断裂反安慰母亲",
       "onboard_time": 1727591657,
       "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 842992,
+      "num": 265547,
+      "word": "银行存10万取3000时被要求第三方证明",
+      "onboard_time": 1727592318,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -153,14 +169,6 @@
       "onboard_time": 1727571798,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 735824,
-      "num": 284238,
-      "word": "侃爷听到南京憋不住笑了",
-      "onboard_time": 1727590820,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 734836,
@@ -235,20 +243,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 601816,
-      "num": 265547,
-      "word": "银行存10万取3000时被要求第三方证明",
-      "onboard_time": 1727592318,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 581398,
       "num": 328990,
       "word": "保研朋友圈屏蔽了三百多人",
       "onboard_time": 1727586980,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 576538,
+      "num": 264865,
+      "word": "女子遭遇话梅刺客一斤3580元",
+      "onboard_time": 1727592019,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 556910,
@@ -507,14 +515,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 325912,
-      "num": 264865,
-      "word": "女子遭遇话梅刺客一斤3580元",
-      "onboard_time": 1727592019,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 320829,
       "num": 320829,
       "word": "倪妮红裙生图",
@@ -547,12 +547,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 307280,
+      "num": 264271,
+      "word": "孙俪吴慷仁新剧开拍",
+      "onboard_time": 1727593939,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 307022,
+      "num": 307022,
+      "word": "外交部回应黎真主党领导人遇袭身亡",
+      "onboard_time": 1727592799,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 300658,
       "num": 252162,
       "word": "十月最容易脱单的星座",
       "onboard_time": 1727568558,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 298813,
+      "num": 298813,
+      "word": "林孝埈1000米夺冠",
+      "onboard_time": 1727594299,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 296123,
@@ -659,14 +683,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 264271,
-      "num": 264271,
-      "word": "孙俪吴慷仁新剧开拍",
-      "onboard_time": 1727593939,
-      "rank": 22,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 260853,
       "num": 260853,
       "word": "郑钦文早就提醒裁判关顶棚",
@@ -747,6 +763,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 230849,
+      "num": 256591,
+      "word": "业内人士称房企保价涨价是营销手段",
+      "onboard_time": 1727590580,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 229601,
       "num": 229601,
       "word": "不是上链接吗怎么上警车了",
@@ -769,14 +793,6 @@
       "onboard_time": 1727580079,
       "rank": 18,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 224668,
-      "num": 256591,
-      "word": "业内人士称房企保价涨价是营销手段",
-      "onboard_time": 1727590580,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 224341,
@@ -851,6 +867,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 210837,
+      "num": 210837,
+      "word": "易烊千玺北京出发巴黎路透",
+      "onboard_time": 1727593579,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 209494,
       "num": 209494,
       "word": "挚爱我的祖国",
@@ -881,14 +905,6 @@
       "onboard_time": 1727583019,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 206435,
-      "num": 206435,
-      "word": "易烊千玺北京出发巴黎路透",
-      "onboard_time": 1727593579,
-      "rank": 26,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 205815,
@@ -939,20 +955,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 197592,
+      "num": 197592,
+      "word": "谁教翟潇闻虞书欣这么起名的",
+      "onboard_time": 1727594299,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 197530,
+      "num": 197530,
+      "word": "王一博高空点外卖",
+      "onboard_time": 1727594780,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 197475,
       "num": 197475,
       "word": "檀健次南京演唱会抢票",
       "onboard_time": 1727591419,
       "rank": 29,
       "category": "演出"
-    },
-    {
-      "raw_hot": 197305,
-      "num": 197305,
-      "word": "林孝埈1000米夺冠",
-      "onboard_time": 1727594299,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 196360,
@@ -1059,14 +1083,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 180528,
-      "num": 266429,
-      "word": "外交部回应黎真主党领导人遇袭身亡",
-      "onboard_time": 1727592799,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 179511,
       "num": 179511,
       "word": "致敬闪亮的名字",
@@ -1145,6 +1161,14 @@
       "onboard_time": 1727592918,
       "rank": 35,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 165230,
+      "num": 165230,
+      "word": "宁德时代旗下生产基地着火",
+      "onboard_time": 1727594780,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 163994,
@@ -1299,6 +1323,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 141080,
+      "num": 141080,
+      "word": "商家回应话梅3580一斤价格正常",
+      "onboard_time": 1727595019,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 140112,
       "num": 140112,
       "word": "布云朝克特晋级中网8强",
@@ -1395,6 +1427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 128883,
+      "num": 128883,
+      "word": "一条plog告别九月",
+      "onboard_time": 1727594898,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 128016,
       "num": 128016,
       "word": "4天A股市值净增10万亿",
@@ -1435,6 +1475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 125621,
+      "num": 125621,
+      "word": "杭州回应家长强烈要求取消春秋假",
+      "onboard_time": 1727595319,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 125607,
       "num": 186426,
       "word": "演唱会上的Karina",
@@ -1460,7 +1508,7 @@
     },
     {
       "raw_hot": 124006,
-      "num": 124006,
+      "num": 238938,
       "word": "黄俊捷直播",
       "onboard_time": 1727593337,
       "rank": 47,
@@ -1577,14 +1625,6 @@
       "onboard_time": 1727539580,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 116089,
-      "num": 116089,
-      "word": "谁教翟潇闻虞书欣这么起名的",
-      "onboard_time": 1727594299,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 115421,
@@ -1753,6 +1793,14 @@
       "onboard_time": 1727565798,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 91599,
+      "num": 236855,
+      "word": "惠英红中轴线封面 恢宏东方气韵",
+      "onboard_time": 1727594418,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 88258,
@@ -2195,11 +2243,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 27223,
+      "num": 238125,
+      "word": "以官员称纳斯鲁拉因拒绝外交方案被杀",
+      "onboard_time": 1727594898,
+      "rank": 18,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 26884,
       "num": 61368,
       "word": "中国登月服上满是中国元素",
       "onboard_time": 1727554332,
       "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 26588,
+      "num": 265509,
+      "word": "克隆声音的门槛有多低",
+      "onboard_time": 1727593458,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -2249,14 +2313,6 @@
       "onboard_time": 1727538738,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 19673,
-      "num": 265509,
-      "word": "克隆声音的门槛有多低",
-      "onboard_time": 1727593458,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 18369,
