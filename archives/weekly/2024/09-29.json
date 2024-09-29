@@ -1,6 +1,6 @@
 {
   "startTime": 1727540758074,
-  "endTime": 1727614516524,
+  "endTime": 1727616261701,
   "band_list": [
     {
       "raw_hot": 2561192,
@@ -323,6 +323,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 610233,
+      "num": 610233,
+      "word": "王楚钦主动示意没上台",
+      "onboard_time": 1727611339,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 584315,
       "num": 236506,
       "word": "网红自曝开劳被人持刀携爆炸物抢劫",
@@ -387,19 +395,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 546388,
+      "num": 405989,
+      "word": "华伦天奴大秀",
+      "onboard_time": 1727610080,
+      "rank": 10,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 544094,
       "num": 544094,
       "word": "张本美和止步首轮",
       "onboard_time": 1727586199,
       "rank": 18,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 542421,
-      "num": 542421,
-      "word": "王楚钦主动示意没上台",
-      "onboard_time": 1727611339,
-      "rank": 5,
       "category": "体育"
     },
     {
@@ -515,12 +523,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 442524,
-      "num": 405989,
-      "word": "华伦天奴大秀",
-      "onboard_time": 1727610080,
-      "rank": 10,
-      "category": "时尚,作品衍生"
+      "raw_hot": 422322,
+      "num": 319453,
+      "word": "辛巴和蛋蛋消痛贴违法添加穿山甲",
+      "onboard_time": 1727612839,
+      "rank": 21,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 413817,
@@ -577,6 +585,14 @@
       "onboard_time": 1727565256,
       "rank": 17,
       "category": "体育,演出"
+    },
+    {
+      "raw_hot": 399924,
+      "num": 318904,
+      "word": "马龙换球衣",
+      "onboard_time": 1727614399,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 399013,
@@ -659,12 +675,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 368911,
-      "num": 298427,
-      "word": "辛巴和蛋蛋消痛贴违法添加穿山甲",
-      "onboard_time": 1727612839,
-      "rank": 21,
-      "category": "社会新闻,网红"
+      "raw_hot": 364715,
+      "num": 364715,
+      "word": "范思琦vs王艺迪",
+      "onboard_time": 1727614518,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 357820,
@@ -755,6 +771,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 326547,
+      "num": 326547,
+      "word": "10月1日10点01分表白祖国",
+      "onboard_time": 1727612839,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 324584,
       "num": 324584,
       "word": "8位无名烈士有名字了",
@@ -787,11 +811,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 313384,
-      "num": 313384,
-      "word": "10月1日10点01分表白祖国",
-      "onboard_time": 1727612839,
-      "rank": 44,
+      "raw_hot": 315766,
+      "num": 315766,
+      "word": "如何一眼看出画的是广东",
+      "onboard_time": 1727605219,
+      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -907,6 +931,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 278963,
+      "num": 278963,
+      "word": "范思琦3比2王艺迪",
+      "onboard_time": 1727614940,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 277739,
       "num": 277739,
       "word": "林昀儒2比3卡尔伯格",
@@ -1019,6 +1051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 239790,
+      "num": 239790,
+      "word": "宁波一厂发生锌水爆炸大量锌水流出",
+      "onboard_time": 1727614159,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 239577,
       "num": 239577,
       "word": "CP30",
@@ -1083,6 +1123,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 231343,
+      "num": 231343,
+      "word": "俩老人买黄金不问价店员果断报警",
+      "onboard_time": 1727611399,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 230849,
       "num": 256591,
       "word": "业内人士称房企保价涨价是营销手段",
@@ -1113,6 +1161,14 @@
       "onboard_time": 1727579598,
       "rank": 27,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 227954,
+      "num": 227954,
+      "word": "教育局回应鹤壁技师学院打人事件",
+      "onboard_time": 1727612180,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 227273,
@@ -1161,14 +1217,6 @@
       "onboard_time": 1727576837,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 215755,
-      "num": 245640,
-      "word": "如何一眼看出画的是广东",
-      "onboard_time": 1727605219,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 215333,
@@ -1281,6 +1329,14 @@
       "onboard_time": 1727581579,
       "rank": 31,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 202433,
+      "num": 202433,
+      "word": "天山南北唱新歌",
+      "onboard_time": 1727614399,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 202279,
@@ -1427,14 +1483,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 189365,
-      "num": 189365,
-      "word": "教育局回应鹤壁技师学院打人事件",
-      "onboard_time": 1727612180,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 188164,
       "num": 188164,
       "word": "房姐李梅87套房开拍仅5人报名",
@@ -1571,14 +1619,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 174124,
-      "num": 174124,
-      "word": "俩老人买黄金不问价店员果断报警",
-      "onboard_time": 1727611399,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 173483,
       "num": 173483,
       "word": "刘烨回复周雨彤下次我拉拉你",
@@ -1633,6 +1673,14 @@
       "onboard_time": 1727537780,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 169307,
+      "num": 169307,
+      "word": "杨紫看秀look",
+      "onboard_time": 1727616080,
+      "rank": 38,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 167659,
@@ -1723,12 +1771,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 160136,
+      "num": 170757,
+      "word": "王源演唱会",
+      "onboard_time": 1727614878,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 160034,
       "num": 160034,
       "word": "国庆想当熊猫腿替回老家看看",
       "onboard_time": 1727580199,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 158898,
+      "num": 153641,
+      "word": "10月1至2日在深圳的有福了",
+      "onboard_time": 1727615600,
+      "rank": 44,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 158628,
@@ -1771,6 +1835,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 157053,
+      "num": 157053,
+      "word": "断崖式降温换季来了",
+      "onboard_time": 1727610558,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 156739,
       "num": 156739,
       "word": "周深时代少年团互唱对方的歌",
@@ -1793,6 +1865,14 @@
       "onboard_time": 1727605998,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 152381,
+      "num": 152381,
+      "word": "第一次在李赫宰脸上看到愁容",
+      "onboard_time": 1727613018,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 151385,
@@ -1915,14 +1995,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 140286,
-      "num": 140286,
-      "word": "第一次在李赫宰脸上看到愁容",
-      "onboard_time": 1727613018,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 140112,
       "num": 140112,
       "word": "布云朝克特晋级中网8强",
@@ -1939,11 +2011,11 @@
       "category": "美食"
     },
     {
-      "raw_hot": 138751,
-      "num": 138751,
-      "word": "马龙换球衣",
-      "onboard_time": 1727614399,
-      "rank": 37,
+      "raw_hot": 139332,
+      "num": 139332,
+      "word": "樊振东中网帅气出场",
+      "onboard_time": 1727615420,
+      "rank": 48,
       "category": "体育"
     },
     {
@@ -1953,14 +2025,6 @@
       "onboard_time": 1727605998,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 137916,
-      "num": 137916,
-      "word": "宁波一厂发生锌水爆炸大量锌水流出",
-      "onboard_time": 1727614159,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 137811,
@@ -2019,6 +2083,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 133932,
+      "num": 133932,
+      "word": "王俊凯亮相749局首映礼",
+      "onboard_time": 1727614580,
+      "rank": 49,
+      "category": "电影"
+    },
+    {
       "raw_hot": 133577,
       "num": 133577,
       "word": "虞书欣 允许不开心",
@@ -2033,14 +2105,6 @@
       "onboard_time": 1727599098,
       "rank": 46,
       "category": "财经"
-    },
-    {
-      "raw_hot": 133321,
-      "num": 133321,
-      "word": "天山南北唱新歌",
-      "onboard_time": 1727614399,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 131272,
@@ -2385,14 +2449,6 @@
       "onboard_time": 1727544254,
       "rank": 39,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 117087,
-      "num": 117087,
-      "word": "断崖式降温换季来了",
-      "onboard_time": 1727610558,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 116345,
@@ -2803,11 +2859,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 71674,
+      "num": 317368,
+      "word": "刘宇宁大张伟slay全场",
+      "onboard_time": 1727616198,
+      "rank": 19,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 71011,
       "num": 71011,
       "word": "我国新增工业机器人装机量占全球超50%",
       "onboard_time": 1727563575,
       "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 70602,
+      "num": 324904,
+      "word": "以军投下85枚炸弹轰炸黎真主党总部",
+      "onboard_time": 1727614580,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -2899,6 +2971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 60069,
+      "num": 228136,
+      "word": "樊振东阿尔卡拉斯拍立得",
+      "onboard_time": 1727615841,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 59971,
       "num": 257124,
       "word": "内塔尼亚胡称中东无以长臂不及之处",
@@ -2931,6 +3011,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 59103,
+      "num": 323433,
+      "word": "直击长城巨型鳄鱼",
+      "onboard_time": 1727613800,
+      "rank": 31,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 59055,
       "num": 157250,
       "word": "郑钦文vs拉希莫娃",
@@ -2940,7 +3028,7 @@
     },
     {
       "raw_hot": 58918,
-      "num": 289276,
+      "num": 322355,
       "word": "大美中国有多少种色彩",
       "onboard_time": 1727591360,
       "rank": 9,
@@ -3075,6 +3163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 41198,
+      "num": 484565,
+      "word": "孔子也是Z世代的理想型老师",
+      "onboard_time": 1727597359,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 41197,
       "num": 236389,
       "word": "多方回应高校校招现足浴技师招聘",
@@ -3145,14 +3241,6 @@
       "onboard_time": 1727549414,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 35508,
-      "num": 167273,
-      "word": "直击长城巨型鳄鱼",
-      "onboard_time": 1727613800,
-      "rank": 31,
-      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 34913,
@@ -3251,20 +3339,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 24719,
-      "num": 484565,
-      "word": "孔子也是Z世代的理想型老师",
-      "onboard_time": 1727597359,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 24254,
       "num": 283244,
       "word": "赛道上的显眼豹",
       "onboard_time": 1727588657,
       "rank": 19,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 23304,
+      "num": 320953,
+      "word": "3年11幅世界名画被袭击",
+      "onboard_time": 1727615300,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 22570,
@@ -3355,6 +3443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 13000,
+      "num": 475190,
+      "word": "何以英雄他们给出了闪亮的答案",
+      "onboard_time": 1727616198,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 12891,
       "num": 499883,
       "word": "这是75年来的青春之声",
@@ -3369,6 +3465,14 @@
       "onboard_time": 1727555829,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 8368,
+      "num": 228555,
+      "word": "胡塞武装称袭击以色列机场",
+      "onboard_time": 1727616198,
+      "rank": 28,
+      "category": "国外时政,军事"
     }
   ],
   "hotgov_list": [

@@ -1,0 +1,410 @@
+{
+  "runTime": 1727616261701,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 727859,
+        "num": 1116457,
+        "word": "央媒评淘宝可使用微信支付",
+        "onboard_time": 1727610558,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 610233,
+        "num": 610233,
+        "word": "王楚钦主动示意没上台",
+        "onboard_time": 1727611339,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 13000,
+        "num": 475190,
+        "word": "何以英雄他们给出了闪亮的答案",
+        "onboard_time": 1727616198,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 364715,
+        "num": 364715,
+        "word": "范思琦vs王艺迪",
+        "onboard_time": 1727614518,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 347352,
+        "num": 347352,
+        "word": "房企涨价",
+        "onboard_time": 1727607620,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 343075,
+        "num": 343075,
+        "word": "你23岁的时候在做什么",
+        "onboard_time": 1727605579,
+        "rank": 5,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 326547,
+        "num": 326547,
+        "word": "10月1日10点01分表白祖国",
+        "onboard_time": 1727612839,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 4630,
+        "num": 326412,
+        "word": "奔赴山与海征途向未来",
+        "onboard_time": 1727581338,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 75742,
+        "num": 325300,
+        "word": "惠英红 生而为中国人我骄傲自豪",
+        "onboard_time": 1727605160,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 70602,
+        "num": 324904,
+        "word": "以军投下85枚炸弹轰炸黎真主党总部",
+        "onboard_time": 1727614580,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41198,
+        "num": 324330,
+        "word": "孔子也是Z世代的理想型老师",
+        "onboard_time": 1727597359,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 59103,
+        "num": 323433,
+        "word": "直击长城巨型鳄鱼",
+        "onboard_time": 1727613800,
+        "rank": 11,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 8247,
+        "num": 322355,
+        "word": "大美中国有多少种色彩",
+        "onboard_time": 1727591360,
+        "rank": 12,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 546388,
+        "num": 322078,
+        "word": "华伦天奴大秀",
+        "onboard_time": 1727610080,
+        "rank": 13,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 23304,
+        "num": 320953,
+        "word": "3年11幅世界名画被袭击",
+        "onboard_time": 1727615300,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 522590,
+        "num": 320509,
+        "word": "快递柜拿取声吵到婴儿被封",
+        "onboard_time": 1727588598,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 422322,
+        "num": 319453,
+        "word": "辛巴和蛋蛋消痛贴违法添加穿山甲",
+        "onboard_time": 1727612839,
+        "rank": 16,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 399924,
+        "num": 318904,
+        "word": "马龙换球衣",
+        "onboard_time": 1727614399,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 377804,
+        "num": 318477,
+        "word": "双胞胎还在妈妈子宫就把手术做了",
+        "onboard_time": 1727597717,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 71674,
+        "num": 317368,
+        "word": "刘宇宁大张伟slay全场",
+        "onboard_time": 1727616198,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 310774,
+        "num": 317020,
+        "word": "一人一句祝祖国生日快乐",
+        "onboard_time": 1727611520,
+        "rank": 20,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 353126,
+        "num": 316465,
+        "word": "周深为自己做的生日蛋糕",
+        "onboard_time": 1727603179,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 315766,
+        "num": 315766,
+        "word": "如何一眼看出画的是广东",
+        "onboard_time": 1727605219,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 298823,
+        "num": 298823,
+        "word": "多家房企宣布涨价",
+        "onboard_time": 1727588840,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 295189,
+        "num": 295189,
+        "word": "杭州警方通报网红遭人持刀抢劫",
+        "onboard_time": 1727605219,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 278963,
+        "num": 278963,
+        "word": "范思琦3比2王艺迪",
+        "onboard_time": 1727614940,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 239790,
+        "num": 239790,
+        "word": "宁波一厂发生锌水爆炸大量锌水流出",
+        "onboard_time": 1727614159,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231343,
+        "num": 231343,
+        "word": "俩老人买黄金不问价店员果断报警",
+        "onboard_time": 1727611399,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 8368,
+        "num": 228555,
+        "word": "胡塞武装称袭击以色列机场",
+        "onboard_time": 1727616198,
+        "rank": 28,
+        "category": "国外时政,军事"
+      },
+      {
+        "raw_hot": 60069,
+        "num": 228136,
+        "word": "樊振东阿尔卡拉斯拍立得",
+        "onboard_time": 1727615841,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 227954,
+        "num": 227954,
+        "word": "教育局回应鹤壁技师学院打人事件",
+        "onboard_time": 1727612180,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225022,
+        "num": 225022,
+        "word": "戚薇说北大考试差点写不完",
+        "onboard_time": 1727595559,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204799,
+        "num": 204799,
+        "word": "王楚钦光速进32强",
+        "onboard_time": 1727611579,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 202433,
+        "num": 202433,
+        "word": "天山南北唱新歌",
+        "onboard_time": 1727614399,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189842,
+        "num": 189842,
+        "word": "甘孜一油罐车坠崖夫妻身亡",
+        "onboard_time": 1727606058,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176636,
+        "num": 176636,
+        "word": "陈梦在周杰伦和黄晓明中选了黄晓明",
+        "onboard_time": 1727606299,
+        "rank": 35,
+        "category": "体育,作品衍生"
+      },
+      {
+        "raw_hot": 175332,
+        "num": 175332,
+        "word": "摘杨梅的场面原来这么壮观",
+        "onboard_time": 1727610080,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160136,
+        "num": 170757,
+        "word": "王源演唱会",
+        "onboard_time": 1727614878,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 169307,
+        "num": 169307,
+        "word": "杨紫看秀look",
+        "onboard_time": 1727616080,
+        "rank": 38,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 168712,
+        "num": 168712,
+        "word": "蓝盈莹 人在巴黎也要中式复古",
+        "onboard_time": 1727612659,
+        "rank": 39,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 166546,
+        "num": 166546,
+        "word": "1000人凌晨4点打探照灯摘杨梅",
+        "onboard_time": 1727610139,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157053,
+        "num": 157053,
+        "word": "断崖式降温换季来了",
+        "onboard_time": 1727610558,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157913,
+        "num": 156182,
+        "word": "东北雨姐团队称红薯粉条应该有问题",
+        "onboard_time": 1727600539,
+        "rank": 42,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 153740,
+        "num": 153740,
+        "word": "十个勤天玫瑰酪",
+        "onboard_time": 1727606781,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158898,
+        "num": 153641,
+        "word": "10月1至2日在深圳的有福了",
+        "onboard_time": 1727615600,
+        "rank": 44,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 152381,
+        "num": 152381,
+        "word": "第一次在李赫宰脸上看到愁容",
+        "onboard_time": 1727613018,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143610,
+        "num": 143610,
+        "word": "赵丽颖包十场749局",
+        "onboard_time": 1727603418,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 139390,
+        "num": 139390,
+        "word": "我们的歌",
+        "onboard_time": 1727610259,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139332,
+        "num": 139332,
+        "word": "樊振东中网帅气出场",
+        "onboard_time": 1727615420,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133932,
+        "num": 133932,
+        "word": "王俊凯亮相749局首映礼",
+        "onboard_time": 1727614580,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#颁授仪式上这些话语鼓舞人心#"
+    }
+  }
+}
