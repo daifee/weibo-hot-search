@@ -1,6 +1,6 @@
 {
   "startTime": 1727627182055,
-  "endTime": 1727637411194,
+  "endTime": 1727638552979,
   "band_list": [
     {
       "raw_hot": 1153138,
@@ -419,20 +419,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 69114,
+      "num": 56265,
+      "word": "虞书欣情商",
+      "onboard_time": 1727634792,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 68399,
       "num": 72539,
       "word": "赵丽颖包十场749局",
       "onboard_time": 1727603418,
       "rank": 48,
       "category": "电影"
-    },
-    {
-      "raw_hot": 66248,
-      "num": 56265,
-      "word": "虞书欣情商",
-      "onboard_time": 1727634792,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 63216,
@@ -467,20 +467,36 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 31700,
-      "num": 31700,
+      "raw_hot": 37247,
+      "num": 37247,
       "word": "埃尔多安称以色列被一些大国宠坏了",
       "onboard_time": 1727633234,
       "rank": 26,
       "category": "国外时政"
     },
     {
-      "raw_hot": 25445,
+      "raw_hot": 31175,
+      "num": 57144,
+      "word": "重庆断崖式降温你准备好了吗",
+      "onboard_time": 1727634673,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 25672,
       "num": 33733,
       "word": "纳斯鲁拉之死或只是开始而非结束",
       "onboard_time": 1727632513,
       "rank": 44,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 25275,
+      "num": 26474,
+      "word": "深圳舰真的深圳见了",
+      "onboard_time": 1727635633,
+      "rank": 38,
+      "category": "国内时政"
     },
     {
       "raw_hot": 24612,
@@ -489,14 +505,6 @@
       "onboard_time": 1727620281,
       "rank": 45,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 24167,
-      "num": 26474,
-      "word": "深圳舰真的深圳见了",
-      "onboard_time": 1727635633,
-      "rank": 38,
-      "category": "国内时政"
     },
     {
       "raw_hot": 23810,
@@ -515,10 +523,10 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 22995,
-      "num": 57144,
-      "word": "重庆断崖式降温你准备好了吗",
-      "onboard_time": 1727634673,
+      "raw_hot": 19111,
+      "num": 23368,
+      "word": "亲历者讲述锌水爆炸事故前因后果",
+      "onboard_time": 1727637972,
       "rank": 47,
       "category": "社会新闻"
     },

@@ -1,6 +1,6 @@
 {
   "startTime": 1727540758074,
-  "endTime": 1727637411194,
+  "endTime": 1727638552979,
   "band_list": [
     {
       "raw_hot": 2629801,
@@ -3395,6 +3395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 69114,
+      "num": 56265,
+      "word": "虞书欣情商",
+      "onboard_time": 1727634792,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 68929,
       "num": 236565,
       "word": "心脏撑不住了有什么信号",
@@ -3433,14 +3441,6 @@
       "onboard_time": 1727604919,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 66248,
-      "num": 56265,
-      "word": "虞书欣情商",
-      "onboard_time": 1727634792,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 66056,
@@ -3731,6 +3731,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 37247,
+      "num": 37247,
+      "word": "埃尔多安称以色列被一些大国宠坏了",
+      "onboard_time": 1727633234,
+      "rank": 26,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 37182,
       "num": 289715,
       "word": "享界S9我说了算",
@@ -3803,20 +3811,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 31700,
-      "num": 31700,
-      "word": "埃尔多安称以色列被一些大国宠坏了",
-      "onboard_time": 1727633234,
-      "rank": 26,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 31402,
       "num": 234929,
       "word": "黎巴嫩真主党领袖身亡细节披露",
       "onboard_time": 1727586740,
       "rank": 29,
       "category": "社会新闻,国外时政"
+    },
+    {
+      "raw_hot": 31175,
+      "num": 57144,
+      "word": "重庆断崖式降温你准备好了吗",
+      "onboard_time": 1727634673,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 30975,
@@ -3875,6 +3883,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 25672,
+      "num": 33733,
+      "word": "纳斯鲁拉之死或只是开始而非结束",
+      "onboard_time": 1727632513,
+      "rank": 44,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 25627,
       "num": 175883,
       "word": "中国持有机器人相关有效专利超19万项",
@@ -3883,12 +3899,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 25445,
-      "num": 33733,
-      "word": "纳斯鲁拉之死或只是开始而非结束",
-      "onboard_time": 1727632513,
-      "rank": 44,
-      "category": "国外时政"
+      "raw_hot": 25275,
+      "num": 26474,
+      "word": "深圳舰真的深圳见了",
+      "onboard_time": 1727635633,
+      "rank": 38,
+      "category": "国内时政"
     },
     {
       "raw_hot": 24848,
@@ -3905,22 +3921,6 @@
       "onboard_time": 1727588657,
       "rank": 19,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 24167,
-      "num": 26474,
-      "word": "深圳舰真的深圳见了",
-      "onboard_time": 1727635633,
-      "rank": 38,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 22995,
-      "num": 57144,
-      "word": "重庆断崖式降温你准备好了吗",
-      "onboard_time": 1727634673,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 22570,
@@ -3968,6 +3968,14 @@
       "word": "万元打造高仿小游戏20天可上线",
       "onboard_time": 1727617941,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 19111,
+      "num": 23368,
+      "word": "亲历者讲述锌水爆炸事故前因后果",
+      "onboard_time": 1727637972,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
