@@ -1,0 +1,410 @@
+{
+  "runTime": 1727609723523,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 594135,
+        "num": 1095061,
+        "word": "多家房企宣布涨价",
+        "onboard_time": 1727588840,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 389926,
+        "num": 389926,
+        "word": "比亚迪召回近10万台电车",
+        "onboard_time": 1727601679,
+        "rank": 1,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 60240,
+        "num": 331956,
+        "word": "国家勋章国家荣誉称号获得者名单",
+        "onboard_time": 1727597118,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 838472,
+        "num": 324419,
+        "word": "你23岁的时候在做什么",
+        "onboard_time": 1727605579,
+        "rank": 3,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 314658,
+        "num": 314658,
+        "word": "市监局回应南京话梅刺客一颗71元",
+        "onboard_time": 1727602641,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 268377,
+        "num": 268377,
+        "word": "樊振东观战中网",
+        "onboard_time": 1727606781,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 251569,
+        "num": 251569,
+        "word": "王楚钦vs篠塚大登",
+        "onboard_time": 1727606239,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118851,
+        "num": 206471,
+        "word": "惠英红 生而为中国人我骄傲自豪",
+        "onboard_time": 1727605160,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 84420,
+        "num": 191451,
+        "word": "种地吧",
+        "onboard_time": 1727605458,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189291,
+        "num": 189291,
+        "word": "如何一眼看出画的是广东",
+        "onboard_time": 1727605219,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1010968,
+        "num": 189266,
+        "word": "周深为自己做的生日蛋糕",
+        "onboard_time": 1727603179,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 559856,
+        "num": 188183,
+        "word": "甘孜一油罐车坠崖夫妻身亡",
+        "onboard_time": 1727606058,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 539421,
+        "num": 187780,
+        "word": "快递柜拿取声吵到婴儿被封",
+        "onboard_time": 1727588598,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 413122,
+        "num": 187212,
+        "word": "赵丽颖包十场749局",
+        "onboard_time": 1727603418,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 411195,
+        "num": 186649,
+        "word": "双胞胎还在妈妈子宫就把手术做了",
+        "onboard_time": 1727597717,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 384920,
+        "num": 186238,
+        "word": "十个勤天玫瑰酪",
+        "onboard_time": 1727606781,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 22552,
+        "num": 185463,
+        "word": "十一如何拍出人生照片",
+        "onboard_time": 1727605998,
+        "rank": 16,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 318093,
+        "num": 184818,
+        "word": "戚薇说北大考试差点写不完",
+        "onboard_time": 1727595559,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 284740,
+        "num": 184559,
+        "word": "市监局回应网友称住酒店遭临时涨价",
+        "onboard_time": 1727603781,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 276885,
+        "num": 183618,
+        "word": "杭州警方通报网红遭人持刀抢劫",
+        "onboard_time": 1727605219,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 386407,
+        "num": 183303,
+        "word": "陈梦在周杰伦和黄晓明中选了黄晓明",
+        "onboard_time": 1727606299,
+        "rank": 20,
+        "category": "体育,作品衍生"
+      },
+      {
+        "raw_hot": 182849,
+        "num": 182849,
+        "word": "8位无名烈士有名字了",
+        "onboard_time": 1727603060,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 347018,
+        "num": 180973,
+        "word": "东北雨姐团队称红薯粉条应该有问题",
+        "onboard_time": 1727600539,
+        "rank": 22,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 200686,
+        "num": 179408,
+        "word": "王楚钦中国大满贯首战",
+        "onboard_time": 1727608520,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 200309,
+        "num": 178209,
+        "word": "房企涨价",
+        "onboard_time": 1727607620,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173871,
+        "num": 173871,
+        "word": "女子骑马被教练偷拍发群里开黄腔",
+        "onboard_time": 1727596219,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163057,
+        "num": 163057,
+        "word": "杭州回应家长强烈要求取消春秋假",
+        "onboard_time": 1727595319,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156916,
+        "num": 156916,
+        "word": "房姐李梅87套房开拍仅5人报名",
+        "onboard_time": 1727607679,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150605,
+        "num": 150605,
+        "word": "银行存10万取3000时被要求第三方证明",
+        "onboard_time": 1727592318,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142313,
+        "num": 142313,
+        "word": "749局北京首映礼",
+        "onboard_time": 1727608700,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 137470,
+        "num": 137470,
+        "word": "刘烨回复周雨彤下次我拉拉你",
+        "onboard_time": 1727605758,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135082,
+        "num": 135082,
+        "word": "孙颖莎 认真打的",
+        "onboard_time": 1727596158,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132532,
+        "num": 132532,
+        "word": "商家回应女子买一颗话梅收71.6元",
+        "onboard_time": 1727590580,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130781,
+        "num": 130781,
+        "word": "沈星回 祝你百岁无忧",
+        "onboard_time": 1727607739,
+        "rank": 33,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 124992,
+        "num": 124992,
+        "word": "网曝女子买一颗话梅被收71.6元",
+        "onboard_time": 1727592078,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133728,
+        "num": 124465,
+        "word": "周雨彤刘烨互晒合照",
+        "onboard_time": 1727605998,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123903,
+        "num": 123903,
+        "word": "倪夏莲说我永远是中国人",
+        "onboard_time": 1727608759,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113968,
+        "num": 113968,
+        "word": "迪丽热巴坐三轮车路透",
+        "onboard_time": 1727602581,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113410,
+        "num": 113410,
+        "word": "老人被高空坠落的火钳砸中身亡",
+        "onboard_time": 1727590639,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111780,
+        "num": 111780,
+        "word": "樊振东为阿尔卡拉斯挑边",
+        "onboard_time": 1727605998,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 109012,
+        "num": 109012,
+        "word": "张本美和又哭了",
+        "onboard_time": 1727598138,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 103965,
+        "num": 103965,
+        "word": "最适合懒人的减肥训练",
+        "onboard_time": 1727605099,
+        "rank": 41,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 102406,
+        "num": 102406,
+        "word": "林园称A股涨到4500点才是牛市起点",
+        "onboard_time": 1727601679,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 97658,
+        "num": 97658,
+        "word": "周柯宇问程潇和妹妹是不是双胞胎",
+        "onboard_time": 1727599699,
+        "rank": 43,
+        "category": "综艺,电竞"
+      },
+      {
+        "raw_hot": 96915,
+        "num": 96915,
+        "word": "KPL年总全员出征照",
+        "onboard_time": 1727605998,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 89391,
+        "num": 89391,
+        "word": "林孝埈1000米夺冠",
+        "onboard_time": 1727594299,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 32435,
+        "num": 89129,
+        "word": "失去双臂老兵永远想做人民的兵",
+        "onboard_time": 1727607499,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 88911,
+        "num": 88911,
+        "word": "过敏性鼻炎",
+        "onboard_time": 1727609419,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 88081,
+        "num": 88081,
+        "word": "12306从未授权第三方平台卖票",
+        "onboard_time": 1727578817,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 80690,
+        "num": 80690,
+        "word": "网红自曝开劳被人持刀携爆炸物抢劫",
+        "onboard_time": 1727597899,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#颁授仪式上这些话语鼓舞人心#"
+    }
+  }
+}
