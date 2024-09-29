@@ -1,6 +1,6 @@
 {
   "startTime": 1727540758074,
-  "endTime": 1727587239948,
+  "endTime": 1727588280007,
   "band_list": [
     {
       "raw_hot": 1916350,
@@ -59,6 +59,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1003394,
+      "num": 391347,
+      "word": "电影这个杀手不太冷定档",
+      "onboard_time": 1727584880,
+      "rank": 11,
+      "category": "电影"
+    },
+    {
       "raw_hot": 995469,
       "num": 995469,
       "word": "孙颖莎11比1",
@@ -83,20 +91,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 813442,
+      "num": 774020,
+      "word": "中国银行为防诈骗限制储户取款",
+      "onboard_time": 1727582539,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 812635,
       "num": 1119832,
       "word": "保研",
       "onboard_time": 1727578099,
       "rank": 27,
       "category": "教育"
-    },
-    {
-      "raw_hot": 774020,
-      "num": 774020,
-      "word": "中国银行为防诈骗限制储户取款",
-      "onboard_time": 1727582539,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 766593,
@@ -113,14 +121,6 @@
       "onboard_time": 1727571798,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 745520,
-      "num": 383923,
-      "word": "电影这个杀手不太冷定档",
-      "onboard_time": 1727584880,
-      "rank": 11,
-      "category": "电影"
     },
     {
       "raw_hot": 734836,
@@ -179,6 +179,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 581398,
+      "num": 328990,
+      "word": "保研朋友圈屏蔽了三百多人",
+      "onboard_time": 1727586980,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 556910,
       "num": 556910,
       "word": "内塔尼亚胡喊话伊朗你打我我就打你",
@@ -193,6 +201,14 @@
       "onboard_time": 1727580137,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 544094,
+      "num": 544094,
+      "word": "张本美和止步首轮",
+      "onboard_time": 1727586199,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 536450,
@@ -241,6 +257,14 @@
       "onboard_time": 1727580381,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 498798,
+      "num": 498798,
+      "word": "CP30涨价",
+      "onboard_time": 1727587459,
+      "rank": 5,
+      "category": "动漫"
     },
     {
       "raw_hot": 498330,
@@ -336,14 +360,6 @@
       "word": "孙颖莎中国大满贯首场比赛",
       "onboard_time": 1727571798,
       "rank": 15,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 371751,
-      "num": 371751,
-      "word": "张本美和止步首轮",
-      "onboard_time": 1727586199,
-      "rank": 18,
       "category": "体育"
     },
     {
@@ -459,6 +475,22 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 292902,
+      "num": 292902,
+      "word": "孙颖莎许魏洲合照",
+      "onboard_time": 1727587459,
+      "rank": 22,
+      "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 292369,
+      "num": 292369,
+      "word": "孙颖莎打笑了",
+      "onboard_time": 1727583561,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 290355,
       "num": 290355,
       "word": "黎真主党证实纳斯鲁拉死亡",
@@ -523,6 +555,22 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 245853,
+      "num": 245853,
+      "word": "多家银行大额存单掀起转让潮",
+      "onboard_time": 1727587158,
+      "rank": 45,
+      "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 239577,
+      "num": 239577,
+      "word": "CP30",
+      "onboard_time": 1727588239,
+      "rank": 28,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 239389,
       "num": 172243,
       "word": "游泳队告六人去陈奕迅演唱会",
@@ -564,19 +612,11 @@
     },
     {
       "raw_hot": 232392,
-      "num": 232392,
+      "num": 378272,
       "word": "孙颖莎加上赛后握手用时24分钟",
       "onboard_time": 1727586080,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 231392,
-      "num": 231392,
-      "word": "保研朋友圈屏蔽了三百多人",
-      "onboard_time": 1727586980,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 229356,
@@ -635,6 +675,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 214713,
+      "num": 214713,
+      "word": "郑钦文早就提醒裁判关顶棚",
+      "onboard_time": 1727587520,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 214541,
       "num": 822459,
       "word": "功勋模范铿锵有力唱歌唱祖国",
@@ -659,6 +707,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 209494,
+      "num": 209494,
+      "word": "挚爱我的祖国",
+      "onboard_time": 1727587940,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 209283,
       "num": 209283,
       "word": "心动的信号7素人返场路透",
@@ -675,20 +731,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 205815,
+      "num": 406707,
+      "word": "电影749局首映",
+      "onboard_time": 1727587220,
+      "rank": 49,
+      "category": "电影"
+    },
+    {
       "raw_hot": 205758,
       "num": 205758,
       "word": "檀健次 减肥不是说减就减吗",
       "onboard_time": 1727529021,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 204799,
-      "num": 222453,
-      "word": "孙颖莎打笑了",
-      "onboard_time": 1727583561,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 204346,
@@ -707,6 +763,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 201726,
+      "num": 201726,
+      "word": "黑神话悟空初版铁扇公主",
+      "onboard_time": 1727587339,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 198839,
       "num": 198839,
       "word": "喜儿扮演者获颁人民艺术家",
@@ -715,12 +779,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 198057,
+      "num": 198057,
+      "word": "恋与制作人",
+      "onboard_time": 1727587819,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 196360,
       "num": 196360,
       "word": "WTT中国大满贯开幕式",
       "onboard_time": 1727577378,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 191118,
+      "num": 372309,
+      "word": "舍不得星星暧昧期见家长",
+      "onboard_time": 1727586980,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 190971,
@@ -801,6 +881,14 @@
       "onboard_time": 1727579658,
       "rank": 31,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 177630,
+      "num": 177630,
+      "word": "不是上链接吗怎么上警车了",
+      "onboard_time": 1727587339,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 172505,
@@ -907,20 +995,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 151518,
-      "num": 151518,
-      "word": "多家银行大额存单掀起转让潮",
-      "onboard_time": 1727587158,
-      "rank": 45,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 150469,
       "num": 150469,
       "word": "NXX海岛疑云",
       "onboard_time": 1727587158,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 148709,
+      "num": 148709,
+      "word": "A股上涨你四天赚了多少钱",
+      "onboard_time": 1727588057,
+      "rank": 43,
+      "category": "财经"
     },
     {
       "raw_hot": 147064,
@@ -987,12 +1075,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 141211,
-      "num": 141211,
-      "word": "电影749局首映",
-      "onboard_time": 1727587220,
-      "rank": 49,
-      "category": "电影"
+      "raw_hot": 140112,
+      "num": 140112,
+      "word": "布云朝克特晋级中网8强",
+      "onboard_time": 1727588239,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 139864,
@@ -1003,20 +1091,20 @@
       "category": "美食"
     },
     {
-      "raw_hot": 139592,
-      "num": 372309,
-      "word": "舍不得星星暧昧期见家长",
-      "onboard_time": 1727586980,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 136525,
       "num": 136525,
       "word": "20个缅北电诈头目和骨干被押解回国",
       "onboard_time": 1727582659,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 135642,
+      "num": 135642,
+      "word": "刘国梁观战孙颖莎",
+      "onboard_time": 1727588239,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 135178,
@@ -1032,6 +1120,14 @@
       "word": "TGS2024",
       "onboard_time": 1727584699,
       "rank": 45,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 134217,
+      "num": 134217,
+      "word": "恋与天津游",
+      "onboard_time": 1727588239,
+      "rank": 49,
       "category": "游戏"
     },
     {
@@ -1347,7 +1443,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 92974,
+      "raw_hot": 93173,
       "num": 382927,
       "word": "到底是谁抢到了霸王茶姬宠物周边",
       "onboard_time": 1727584520,
@@ -1747,6 +1843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 34913,
+      "num": 397730,
+      "word": "机构预期A股有望迎来金九银十",
+      "onboard_time": 1727586500,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 33012,
       "num": 56605,
       "word": "雪一下任嘉伦的宿命感就来了",
@@ -1755,16 +1859,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 31629,
-      "num": 384898,
-      "word": "机构预期A股有望迎来金九银十",
-      "onboard_time": 1727586500,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 31402,
-      "num": 232775,
+      "num": 234929,
       "word": "黎巴嫩真主党领袖身亡细节披露",
       "onboard_time": 1727586740,
       "rank": 29,
