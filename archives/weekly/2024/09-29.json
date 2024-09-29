@@ -1,6 +1,6 @@
 {
   "startTime": 1727540758074,
-  "endTime": 1727635283077,
+  "endTime": 1727637411194,
   "band_list": [
     {
       "raw_hot": 2629801,
@@ -3435,6 +3435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 66248,
+      "num": 56265,
+      "word": "虞书欣情商",
+      "onboard_time": 1727634792,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 66056,
       "num": 66056,
       "word": "拜仁vs勒沃库森",
@@ -3795,6 +3803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 31700,
+      "num": 31700,
+      "word": "埃尔多安称以色列被一些大国宠坏了",
+      "onboard_time": 1727633234,
+      "rank": 26,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 31402,
       "num": 234929,
       "word": "黎巴嫩真主党领袖身亡细节披露",
@@ -3808,14 +3824,6 @@
       "word": "叶童当年也是很多人的白月光",
       "onboard_time": 1727601379,
       "rank": 18,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 30649,
-      "num": 30649,
-      "word": "虞书欣情商",
-      "onboard_time": 1727634792,
-      "rank": 35,
       "category": "艺人"
     },
     {
@@ -3875,20 +3883,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 25445,
+      "num": 33733,
+      "word": "纳斯鲁拉之死或只是开始而非结束",
+      "onboard_time": 1727632513,
+      "rank": 44,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 24848,
       "num": 320953,
       "word": "3年11幅世界名画被袭击",
       "onboard_time": 1727615300,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 24782,
-      "num": 33733,
-      "word": "纳斯鲁拉之死或只是开始而非结束",
-      "onboard_time": 1727632513,
-      "rank": 44,
-      "category": "国外时政"
     },
     {
       "raw_hot": 24254,
@@ -3899,8 +3907,16 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 24167,
+      "num": 26474,
+      "word": "深圳舰真的深圳见了",
+      "onboard_time": 1727635633,
+      "rank": 38,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 22995,
-      "num": 29014,
+      "num": 57144,
       "word": "重庆断崖式降温你准备好了吗",
       "onboard_time": 1727634673,
       "rank": 47,
