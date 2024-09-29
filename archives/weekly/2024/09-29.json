@@ -1,6 +1,6 @@
 {
   "startTime": 1727540758074,
-  "endTime": 1727592155911,
+  "endTime": 1727594350363,
   "band_list": [
     {
       "raw_hot": 2561192,
@@ -35,6 +35,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1494163,
+      "num": 1494163,
+      "word": "多家房企宣布涨价",
+      "onboard_time": 1727588840,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1465522,
       "num": 1161578,
       "word": "股民4天人均赚4.7万",
@@ -48,14 +56,6 @@
       "word": "12306从未授权第三方平台卖票",
       "onboard_time": 1727578817,
       "rank": 37,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1318720,
-      "num": 1318720,
-      "word": "多家房企宣布涨价",
-      "onboard_time": 1727588840,
-      "rank": 0,
       "category": "社会新闻"
     },
     {
@@ -99,6 +99,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 875819,
+      "num": 305649,
+      "word": "商家回应女子买一颗话梅收71.6元",
+      "onboard_time": 1727590580,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 846703,
+      "num": 846703,
+      "word": "6岁小孩手腕断裂反安慰母亲",
+      "onboard_time": 1727591657,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 833534,
       "num": 1133365,
       "word": "大学生兼职泰山陪爬订单排到深秋",
@@ -123,14 +139,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 767296,
-      "num": 305649,
-      "word": "商家回应女子买一颗话梅收71.6元",
-      "onboard_time": 1727590580,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 766593,
       "num": 766593,
       "word": "张本智和说自己算上上签",
@@ -145,6 +153,14 @@
       "onboard_time": 1727571798,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 735824,
+      "num": 284238,
+      "word": "侃爷听到南京憋不住笑了",
+      "onboard_time": 1727590820,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 734836,
@@ -169,6 +185,14 @@
       "onboard_time": 1727574858,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 662832,
+      "num": 264556,
+      "word": "老人被高空坠落的火钳砸中身亡",
+      "onboard_time": 1727590639,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 656845,
@@ -209,6 +233,14 @@
       "onboard_time": 1727580318,
       "rank": 41,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 601816,
+      "num": 265547,
+      "word": "银行存10万取3000时被要求第三方证明",
+      "onboard_time": 1727592318,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 581398,
@@ -395,14 +427,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 378948,
-      "num": 255820,
-      "word": "老人被高空坠落的火钳砸中身亡",
-      "onboard_time": 1727590639,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 375367,
       "num": 375367,
       "word": "孙颖莎中国大满贯首场比赛",
@@ -483,6 +507,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 325912,
+      "num": 264865,
+      "word": "女子遭遇话梅刺客一斤3580元",
+      "onboard_time": 1727592019,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 320829,
       "num": 320829,
       "word": "倪妮红裙生图",
@@ -505,6 +537,14 @@
       "onboard_time": 1727570898,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 307402,
+      "num": 264737,
+      "word": "赵露思沈阳活动",
+      "onboard_time": 1727592199,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 300658,
@@ -619,6 +659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 264271,
+      "num": 264271,
+      "word": "孙俪吴慷仁新剧开拍",
+      "onboard_time": 1727593939,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 260853,
       "num": 260853,
       "word": "郑钦文早就提醒裁判关顶棚",
@@ -723,6 +771,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 224668,
+      "num": 256591,
+      "word": "业内人士称房企保价涨价是营销手段",
+      "onboard_time": 1727590580,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 224341,
       "num": 224341,
       "word": "何广智精修脑子毛坯嘴",
@@ -745,6 +801,14 @@
       "onboard_time": 1727579897,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 220401,
+      "num": 220401,
+      "word": "黄薇 造型",
+      "onboard_time": 1727592979,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 217697,
@@ -819,6 +883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 206435,
+      "num": 206435,
+      "word": "易烊千玺北京出发巴黎路透",
+      "onboard_time": 1727593579,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 205815,
       "num": 406755,
       "word": "电影749局首映",
@@ -875,12 +947,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 197305,
+      "num": 197305,
+      "word": "林孝埈1000米夺冠",
+      "onboard_time": 1727594299,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 196360,
       "num": 196360,
       "word": "WTT中国大满贯开幕式",
       "onboard_time": 1727577378,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 194425,
+      "num": 194425,
+      "word": "宁德时代",
+      "onboard_time": 1727592379,
+      "rank": 30,
+      "category": "财经"
     },
     {
       "raw_hot": 192022,
@@ -913,6 +1001,14 @@
       "onboard_time": 1727586019,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 188101,
+      "num": 188101,
+      "word": "网曝女子买一颗话梅被收71.6元",
+      "onboard_time": 1727592078,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 186404,
@@ -961,6 +1057,14 @@
       "onboard_time": 1727534780,
       "rank": 6,
       "category": "演出"
+    },
+    {
+      "raw_hot": 180528,
+      "num": 266429,
+      "word": "外交部回应黎真主党领导人遇袭身亡",
+      "onboard_time": 1727592799,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 179511,
@@ -1019,14 +1123,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 167733,
-      "num": 167733,
-      "word": "6岁小孩手腕断裂反安慰母亲",
-      "onboard_time": 1727591657,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 167659,
       "num": 203253,
       "word": "张子枫盲女哭戏感染力",
@@ -1041,6 +1137,14 @@
       "onboard_time": 1727580560,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 166735,
+      "num": 166735,
+      "word": "伊拉克数千人冲击美国大使馆",
+      "onboard_time": 1727592918,
+      "rank": 35,
+      "category": "国外时政"
     },
     {
       "raw_hot": 163994,
@@ -1195,14 +1299,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 141383,
-      "num": 256591,
-      "word": "业内人士称房企保价涨价是营销手段",
-      "onboard_time": 1727590580,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 140112,
       "num": 140112,
       "word": "布云朝克特晋级中网8强",
@@ -1217,14 +1313,6 @@
       "onboard_time": 1727536041,
       "rank": 23,
       "category": "美食"
-    },
-    {
-      "raw_hot": 139162,
-      "num": 139162,
-      "word": "女子遭遇话梅刺客一斤3580元",
-      "onboard_time": 1727592019,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 137300,
@@ -1267,6 +1355,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 133577,
+      "num": 133577,
+      "word": "虞书欣 允许不开心",
+      "onboard_time": 1727592499,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 131272,
       "num": 282414,
       "word": "刘浩存出发巴黎时装周",
@@ -1281,6 +1377,14 @@
       "onboard_time": 1727578338,
       "rank": 43,
       "category": "美食"
+    },
+    {
+      "raw_hot": 129887,
+      "num": 129887,
+      "word": "樊振东奥运会官方8分钟集锦",
+      "onboard_time": 1727591839,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 129681,
@@ -1313,14 +1417,6 @@
       "onboard_time": 1727590939,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 127107,
-      "num": 127107,
-      "word": "网曝女子买一颗话梅被收71.6元",
-      "onboard_time": 1727592078,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 127046,
@@ -1361,6 +1457,14 @@
       "onboard_time": 1727584759,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 124006,
+      "num": 124006,
+      "word": "黄俊捷直播",
+      "onboard_time": 1727593337,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 123843,
@@ -1473,6 +1577,14 @@
       "onboard_time": 1727539580,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 116089,
+      "num": 116089,
+      "word": "谁教翟潇闻虞书欣这么起名的",
+      "onboard_time": 1727594299,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 115421,
@@ -1675,14 +1787,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 86312,
-      "num": 284238,
-      "word": "侃爷听到南京憋不住笑了",
-      "onboard_time": 1727590820,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 86097,
       "num": 86097,
       "word": "微博旅行家",
@@ -1825,6 +1929,14 @@
       "onboard_time": 1727535500,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 67999,
+      "num": 266268,
+      "word": "你小时候最爱吃哪种水果",
+      "onboard_time": 1727593099,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 67262,
@@ -2137,6 +2249,14 @@
       "onboard_time": 1727538738,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 19673,
+      "num": 265509,
+      "word": "克隆声音的门槛有多低",
+      "onboard_time": 1727593458,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 18369,
