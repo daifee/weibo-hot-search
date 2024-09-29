@@ -1,7 +1,23 @@
 {
   "startTime": 1727540758074,
-  "endTime": 1727566642570,
+  "endTime": 1727574493264,
   "band_list": [
+    {
+      "raw_hot": 833534,
+      "num": 1133365,
+      "word": "大学生兼职泰山陪爬订单排到深秋",
+      "onboard_time": 1727555471,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 713846,
+      "num": 331342,
+      "word": "第一次见房子用毫米来形容",
+      "onboard_time": 1727565798,
+      "rank": 18,
+      "category": "幽默"
+    },
     {
       "raw_hot": 640224,
       "num": 171991,
@@ -11,16 +27,32 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 560193,
-      "num": 899630,
-      "word": "大学生兼职泰山陪爬订单排到深秋",
-      "onboard_time": 1727555471,
-      "rank": 43,
+      "raw_hot": 563432,
+      "num": 563432,
+      "word": "河南婚假28天排全国第四",
+      "onboard_time": 1727571798,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
+      "raw_hot": 537421,
+      "num": 537421,
+      "word": "内塔尼亚胡喊话伊朗你打我我就打你",
+      "onboard_time": 1727571677,
+      "rank": 3,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 536450,
+      "num": 314952,
+      "word": "这大概是最费发夹的发型了",
+      "onboard_time": 1727569098,
+      "rank": 11,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 512390,
-      "num": 206965,
+      "num": 300216,
       "word": "秦岚 分手后我不会和前任做朋友",
       "onboard_time": 1727527698,
       "rank": 10,
@@ -28,7 +60,7 @@
     },
     {
       "raw_hot": 498330,
-      "num": 170266,
+      "num": 274140,
       "word": "汪苏泷强行拉走张碧晨",
       "onboard_time": 1727565737,
       "rank": 11,
@@ -51,6 +83,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 493562,
+      "num": 493562,
+      "word": "直播国家勋章和国家荣誉称号颁授仪式",
+      "onboard_time": 1727571677,
+      "rank": 5,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 413817,
       "num": 157693,
       "word": "男子听信美容偏方1月不洗脸满脸结痂",
@@ -59,12 +99,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 376416,
-      "num": 168952,
+      "raw_hot": 400510,
+      "num": 312674,
       "word": "潘展乐大声给陈奕迅纠错",
       "onboard_time": 1727565256,
       "rank": 17,
       "category": "体育,演出"
+    },
+    {
+      "raw_hot": 396473,
+      "num": 396473,
+      "word": "黄继光后人有17人参军",
+      "onboard_time": 1727568558,
+      "rank": 7,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 389917,
+      "num": 389917,
+      "word": "Jennie新歌概念预告",
+      "onboard_time": 1727572578,
+      "rank": 8,
+      "category": "音乐"
     },
     {
       "raw_hot": 338406,
@@ -91,12 +147,44 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 332641,
+      "num": 332641,
+      "word": "翁青雅彭高好嗑",
+      "onboard_time": 1727571439,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 310230,
+      "num": 263389,
+      "word": "双开门冰箱突然变大气了",
+      "onboard_time": 1727570898,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 300658,
+      "num": 252162,
+      "word": "十月最容易脱单的星座",
+      "onboard_time": 1727568558,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 296123,
       "num": 296123,
       "word": "赵丽颖不敢对李红樱感同身受",
       "onboard_time": 1727545513,
       "rank": 12,
       "category": "电影"
+    },
+    {
+      "raw_hot": 296003,
+      "num": 296003,
+      "word": "拜登称美国完全支持以色列自卫",
+      "onboard_time": 1727570419,
+      "rank": 14,
+      "category": "国外时政"
     },
     {
       "raw_hot": 290355,
@@ -107,12 +195,28 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 284524,
+      "num": 284524,
+      "word": "孙颖莎中国大满贯首场比赛",
+      "onboard_time": 1727571798,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 275929,
       "num": 275929,
       "word": "伊朗最高领袖称以无法严重伤害真主党",
       "onboard_time": 1727541676,
       "rank": 5,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 261312,
+      "num": 261312,
+      "word": "倪妮红裙生图",
+      "onboard_time": 1727573658,
+      "rank": 21,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 251471,
@@ -131,8 +235,16 @@
       "category": "体育,演出"
     },
     {
+      "raw_hot": 238936,
+      "num": 238936,
+      "word": "A股",
+      "onboard_time": 1727573057,
+      "rank": 23,
+      "category": "财经"
+    },
+    {
       "raw_hot": 238797,
-      "num": 153433,
+      "num": 231207,
       "word": "男孩按摩4次治驼背花近3万",
       "onboard_time": 1727551032,
       "rank": 45,
@@ -145,6 +257,14 @@
       "onboard_time": 1727517858,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 214541,
+      "num": 275560,
+      "word": "功勋模范铿锵有力唱歌唱祖国",
+      "onboard_time": 1727571618,
+      "rank": 17,
+      "category": "国内时政"
     },
     {
       "raw_hot": 211650,
@@ -163,12 +283,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 207479,
+      "num": 207479,
+      "word": "为什么是上厕所不是下厕所",
+      "onboard_time": 1727573478,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 205758,
       "num": 205758,
       "word": "檀健次 减肥不是说减就减吗",
       "onboard_time": 1727529021,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 186226,
+      "num": 186226,
+      "word": "多种水果降价",
+      "onboard_time": 1727556492,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 182422,
+      "num": 283024,
+      "word": "江慈身世",
+      "onboard_time": 1727566036,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 180538,
@@ -187,12 +331,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 177905,
-      "num": 177905,
-      "word": "多种水果降价",
-      "onboard_time": 1727556492,
-      "rank": 23,
-      "category": "社会新闻"
+      "raw_hot": 177530,
+      "num": 177530,
+      "word": "当男朋友带着小猫来接我时",
+      "onboard_time": 1727572818,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 172505,
@@ -201,14 +345,6 @@
       "onboard_time": 1727536161,
       "rank": 16,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 171744,
-      "num": 158935,
-      "word": "第一次见房子用毫米来形容",
-      "onboard_time": 1727565798,
-      "rank": 18,
-      "category": "幽默"
     },
     {
       "raw_hot": 171286,
@@ -225,6 +361,14 @@
       "onboard_time": 1727537780,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 163994,
+      "num": 163994,
+      "word": "肖战工作室成立5周年",
+      "onboard_time": 1727568738,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 163002,
@@ -283,6 +427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 125607,
+      "num": 179296,
+      "word": "演唱会上的Karina",
+      "onboard_time": 1727570419,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 125309,
       "num": 157536,
       "word": "陈奕迅靠在徐嘉余肩头",
@@ -323,6 +475,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 118525,
+      "num": 118525,
+      "word": "黎真主党领导人身亡后内塔尼亚胡首发声",
+      "onboard_time": 1727570599,
+      "rank": 36,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 117241,
       "num": 143062,
       "word": "经常喊累的人建议查查甲状腺",
@@ -347,12 +507,60 @@
       "category": "体育"
     },
     {
+      "raw_hot": 113942,
+      "num": 113942,
+      "word": "niko锤烂桌子",
+      "onboard_time": 1727573357,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 113647,
+      "num": 113647,
+      "word": "牛肉价格怎么不牛了",
+      "onboard_time": 1727568978,
+      "rank": 40,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 113080,
+      "num": 113080,
+      "word": "cp30",
+      "onboard_time": 1727568018,
+      "rank": 41,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 108974,
+      "num": 266109,
+      "word": "股民4天人均赚4.7万",
+      "onboard_time": 1727574137,
+      "rank": 19,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 108669,
+      "num": 108669,
+      "word": "特斯拉德国工厂员工病假率升至17%",
+      "onboard_time": 1727574137,
+      "rank": 42,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 105701,
       "num": 157615,
       "word": "登陆少年 清华",
       "onboard_time": 1727521459,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 105518,
+      "num": 105518,
+      "word": "纳斯鲁拉遇袭身亡后以总理首发声",
+      "onboard_time": 1727569520,
+      "rank": 43,
+      "category": "国外时政"
     },
     {
       "raw_hot": 105446,
@@ -379,12 +587,44 @@
       "category": "演出"
     },
     {
+      "raw_hot": 103539,
+      "num": 103539,
+      "word": "这就是东北人说的大大方方的啊",
+      "onboard_time": 1727565977,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 103454,
       "num": 103454,
       "word": "李梦偶遇小猪合影被吓到",
       "onboard_time": 1727562674,
       "rank": 46,
       "category": "电影"
+    },
+    {
+      "raw_hot": 100961,
+      "num": 100961,
+      "word": "孙佳俊真成孤泳者了",
+      "onboard_time": 1727568858,
+      "rank": 45,
+      "category": "体育,演出"
+    },
+    {
+      "raw_hot": 100051,
+      "num": 177680,
+      "word": "王一博摩托车后座视角",
+      "onboard_time": 1727566337,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 96769,
+      "num": 96769,
+      "word": "迈阿密国际vs夏洛特",
+      "onboard_time": 1727573478,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 96294,
@@ -411,20 +651,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 91250,
-      "num": 91250,
-      "word": "这就是东北人说的大大方方的啊",
-      "onboard_time": 1727565977,
-      "rank": 33,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 88258,
       "num": 157655,
       "word": "南部战区部队时刻高度戒备",
       "onboard_time": 1727541857,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 87335,
+      "num": 114849,
+      "word": "凤凰传奇演唱会",
+      "onboard_time": 1727568197,
+      "rank": 38,
+      "category": "演出"
     },
     {
       "raw_hot": 87211,
@@ -441,22 +681,6 @@
       "onboard_time": 1727564596,
       "rank": 35,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 85218,
-      "num": 114231,
-      "word": "江慈身世",
-      "onboard_time": 1727566036,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 83802,
-      "num": 98084,
-      "word": "王一博摩托车后座视角",
-      "onboard_time": 1727566337,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 82404,
@@ -577,6 +801,14 @@
       "onboard_time": 1727547312,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 65928,
+      "num": 91548,
+      "word": "周深新歌虚构",
+      "onboard_time": 1727567357,
+      "rank": 49,
+      "category": "音乐"
     },
     {
       "raw_hot": 61409,
@@ -796,10 +1028,18 @@
     },
     {
       "raw_hot": 14400,
-      "num": 311143,
+      "num": 548184,
       "word": "喜欢国风的外国小姐姐解释华夏",
       "onboard_time": 1727528960,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 12891,
+      "num": 499883,
+      "word": "这是75年来的青春之声",
+      "onboard_time": 1727529858,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -808,14 +1048,6 @@
       "word": "930向人民英雄敬献花篮仪式",
       "onboard_time": 1727555829,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 6572,
-      "num": 256151,
-      "word": "这是75年来的青春之声",
-      "onboard_time": 1727529858,
-      "rank": 4,
       "category": "社会新闻"
     }
   ],
