@@ -1,6 +1,6 @@
 {
   "startTime": 1727540758074,
-  "endTime": 1727581443519,
+  "endTime": 1727583954615,
   "band_list": [
     {
       "raw_hot": 1839597,
@@ -8,6 +8,14 @@
       "word": "国庆请2休10超长假受打工人追捧",
       "onboard_time": 1727578277,
       "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1484980,
+      "num": 640700,
+      "word": "一家四口惨死民警苦苦追凶27年",
+      "onboard_time": 1727579298,
+      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -19,12 +27,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 1399492,
+      "num": 1399492,
+      "word": "12306从未授权第三方平台卖票",
+      "onboard_time": 1727578817,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1312474,
       "num": 634900,
       "word": "周雨彤推开刘烨",
       "onboard_time": 1727576298,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1238743,
+      "num": 586351,
+      "word": "买到假爱马仕因没开箱视频遭拒退",
+      "onboard_time": 1727580018,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 984420,
@@ -35,12 +59,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 851540,
-      "num": 640700,
-      "word": "一家四口惨死民警苦苦追凶27年",
-      "onboard_time": 1727579298,
-      "rank": 12,
-      "category": "社会新闻"
+      "raw_hot": 934272,
+      "num": 934272,
+      "word": "孙颖莎11比1",
+      "onboard_time": 1727581338,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 833534,
@@ -51,20 +75,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 812635,
+      "num": 1119832,
+      "word": "保研",
+      "onboard_time": 1727578099,
+      "rank": 27,
+      "category": "教育"
+    },
+    {
       "raw_hot": 754310,
       "num": 754310,
       "word": "河南婚假28天排全国第四",
       "onboard_time": 1727571798,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 748953,
-      "num": 1119832,
-      "word": "保研",
-      "onboard_time": 1727578099,
-      "rank": 27,
-      "category": "教育"
     },
     {
       "raw_hot": 734836,
@@ -107,12 +131,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 629386,
-      "num": 629386,
-      "word": "12306从未授权第三方平台卖票",
-      "onboard_time": 1727578817,
-      "rank": 37,
-      "category": "社会新闻"
+      "raw_hot": 633023,
+      "num": 633023,
+      "word": "张本智和说自己算上上签",
+      "onboard_time": 1727580859,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 610767,
+      "num": 610767,
+      "word": "被王毅认出又被联合国秘书长点赞",
+      "onboard_time": 1727579238,
+      "rank": 47,
+      "category": "国内时政"
     },
     {
       "raw_hot": 556910,
@@ -195,6 +227,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 480966,
+      "num": 480966,
+      "word": "张碧晨武艺只差一岁被人认成母子",
+      "onboard_time": 1727580381,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 474584,
+      "num": 607231,
+      "word": "4人获得共和国勋章",
+      "onboard_time": 1727580318,
+      "rank": 41,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 458600,
       "num": 333065,
       "word": "男子为了出气杀害表哥一家四口",
@@ -209,14 +257,6 @@
       "onboard_time": 1727534480,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 408728,
-      "num": 408728,
-      "word": "张碧晨武艺只差一岁被人认成母子",
-      "onboard_time": 1727580381,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 402719,
@@ -267,20 +307,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 374549,
-      "num": 374549,
-      "word": "被王毅认出又被联合国秘书长点赞",
-      "onboard_time": 1727579238,
-      "rank": 47,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 373684,
-      "num": 373684,
-      "word": "买到假爱马仕因没开箱视频遭拒退",
-      "onboard_time": 1727580018,
-      "rank": 30,
-      "category": "社会新闻"
+      "raw_hot": 355367,
+      "num": 598181,
+      "word": "孙颖莎中国大满贯开门红",
+      "onboard_time": 1727581219,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 342261,
@@ -387,12 +419,44 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 261334,
+      "num": 261334,
+      "word": "中国银行为防诈骗限制储户取款",
+      "onboard_time": 1727582539,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 261326,
+      "num": 261326,
+      "word": "周斌 你让我觉得恶心",
+      "onboard_time": 1727580440,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 257773,
+      "num": 257773,
+      "word": "王楚钦眼里全是活儿",
+      "onboard_time": 1727583680,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 251471,
       "num": 251471,
       "word": "以威胁若伊朗客机降落将袭黎机场",
       "onboard_time": 1727551452,
       "rank": 9,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 248383,
+      "num": 204544,
+      "word": "机场员工泄露外籍模特照片已被开除",
+      "onboard_time": 1727581940,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 239389,
@@ -427,6 +491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 229356,
+      "num": 229356,
+      "word": "以空军控制黎巴嫩贝鲁特机场",
+      "onboard_time": 1727579598,
+      "rank": 27,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 227273,
       "num": 227273,
       "word": "纷玩岛",
@@ -443,14 +515,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 222613,
-      "num": 222613,
-      "word": "周斌 你让我觉得恶心",
-      "onboard_time": 1727580440,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 217697,
       "num": 217697,
       "word": "威少炮轰湖人快船",
@@ -459,8 +523,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 215333,
+      "num": 215333,
+      "word": "DXMON成员JO退团",
+      "onboard_time": 1727583380,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 214541,
-      "num": 821982,
+      "num": 822459,
       "word": "功勋模范铿锵有力唱歌唱祖国",
       "onboard_time": 1727571618,
       "rank": 17,
@@ -499,14 +571,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 207456,
-      "num": 207456,
-      "word": "孙颖莎11比1",
-      "onboard_time": 1727581338,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 205758,
       "num": 205758,
       "word": "檀健次 减肥不是说减就减吗",
@@ -515,8 +579,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 204346,
+      "num": 204346,
+      "word": "时团听周深唱爆炸撕裂下坠的反应",
+      "onboard_time": 1727581579,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 202279,
-      "num": 192135,
+      "num": 197927,
       "word": "用人民币视角感受瑞士物价",
       "onboard_time": 1727577437,
       "rank": 31,
@@ -539,12 +611,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 192802,
-      "num": 192802,
-      "word": "以空军控制黎巴嫩贝鲁特机场",
-      "onboard_time": 1727579598,
-      "rank": 27,
-      "category": "国外时政"
+      "raw_hot": 193976,
+      "num": 193976,
+      "word": "杨超越把沈月当成赖美云",
+      "onboard_time": 1727583620,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 191172,
+      "num": 191172,
+      "word": "父亲称小孩担心上课迟到扒门自救",
+      "onboard_time": 1727579897,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 190971,
@@ -611,14 +691,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 173400,
-      "num": 173400,
-      "word": "张本智和说自己算上上签",
-      "onboard_time": 1727580859,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
       "raw_hot": 172505,
       "num": 172505,
       "word": "戚薇本次时装周用空8罐发胶",
@@ -651,6 +723,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 165477,
+      "num": 453240,
+      "word": "半熟男女是个巨大的图书馆三十秒",
+      "onboard_time": 1727582059,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 163994,
       "num": 163994,
       "word": "肖战工作室成立5周年",
@@ -667,12 +747,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 162850,
-      "num": 162850,
-      "word": "孙颖莎中国大满贯开门红",
-      "onboard_time": 1727581219,
-      "rank": 36,
-      "category": "体育"
+      "raw_hot": 162986,
+      "num": 162986,
+      "word": "重庆小伙被联合国秘书长点名表扬",
+      "onboard_time": 1727582838,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 160034,
@@ -699,20 +779,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 157062,
-      "num": 157062,
-      "word": "4人获得共和国勋章",
-      "onboard_time": 1727580318,
-      "rank": 41,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 156739,
       "num": 156739,
       "word": "周深时代少年团互唱对方的歌",
       "onboard_time": 1727580980,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 154974,
+      "num": 154974,
+      "word": "永辉超市回应背刺胖东来传闻",
+      "onboard_time": 1727583019,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 147064,
@@ -747,20 +827,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 143961,
+      "num": 143961,
+      "word": "井胧说尤长靖给大家上了一课",
+      "onboard_time": 1727583859,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 143884,
+      "num": 143884,
+      "word": "何知南韩苏谈出轨这段",
+      "onboard_time": 1727582180,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 143082,
       "num": 157506,
       "word": "何超莲这个背不去拔罐可惜了",
       "onboard_time": 1727528780,
       "rank": 22,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 142557,
-      "num": 142557,
-      "word": "父亲称小孩担心上课迟到扒门自救",
-      "onboard_time": 1727579897,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 142456,
@@ -777,6 +865,30 @@
       "onboard_time": 1727536041,
       "rank": 23,
       "category": "美食"
+    },
+    {
+      "raw_hot": 138614,
+      "num": 138614,
+      "word": "致敬闪亮的名字",
+      "onboard_time": 1727578159,
+      "rank": 46,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 136525,
+      "num": 136525,
+      "word": "20个缅北电诈头目和骨干被押解回国",
+      "onboard_time": 1727582659,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 135178,
+      "num": 135178,
+      "word": "王源演唱会爆改相亲角",
+      "onboard_time": 1727582480,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 131272,
@@ -971,6 +1083,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 112025,
+      "num": 205272,
+      "word": "749局预售票房破3000万",
+      "onboard_time": 1727582599,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 105701,
       "num": 157615,
       "word": "登陆少年 清华",
@@ -1144,6 +1264,14 @@
       "word": "阿森纳vs莱斯特城",
       "onboard_time": 1727536520,
       "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 75149,
+      "num": 602464,
+      "word": "孙颖莎3比0巴约",
+      "onboard_time": 1727581698,
+      "rank": 8,
       "category": "体育"
     },
     {
@@ -1371,6 +1499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 44101,
+      "num": 289776,
+      "word": "曾黎张博恒合影",
+      "onboard_time": 1727583561,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 43966,
       "num": 61679,
       "word": "下一战音乐会",
@@ -1396,7 +1532,7 @@
     },
     {
       "raw_hot": 37182,
-      "num": 145004,
+      "num": 289715,
       "word": "享界S9我说了算",
       "onboard_time": 1727581098,
       "rank": 44,
@@ -1425,6 +1561,14 @@
       "onboard_time": 1727545992,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 32679,
+      "num": 293388,
+      "word": "十一假期来北京遛个弯",
+      "onboard_time": 1727582059,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 28093,
@@ -1480,6 +1624,14 @@
       "word": "英超联赛",
       "onboard_time": 1727538738,
       "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 21230,
+      "num": 204590,
+      "word": "孙颖莎打笑了",
+      "onboard_time": 1727583561,
+      "rank": 29,
       "category": "体育"
     },
     {
