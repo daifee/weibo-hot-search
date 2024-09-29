@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/09/01 00:25:38 ~ 2024/09/29 21:35:55
+本榜单时间：2024/09/01 00:25:38 ~ 2024/09/29 22:19:08
 </p>
 </blockquote>
 <p>
@@ -833,6 +833,12 @@ WTT 卖不出票（热度：2354423）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%81%87%E5%94%B1%23" target="weibo">
 假唱（热度：2324594）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%94%B6%E5%88%B012306%E5%85%AB%E7%99%BE%E4%B8%87%E9%80%80%E6%AC%BE%E7%9F%AD%E4%BF%A1%23" target="weibo">
+女子收到12306八百万退款短信（热度：2310634）
 </a>
 </li>
 
@@ -4485,6 +4491,12 @@ NewJeans被HYBE其他艺人团队排挤（热度：1130540）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E5%8D%8E%E4%BC%A6%E5%A4%A9%E5%A5%B4%E5%A4%A7%E7%A7%80%23" target="weibo">
+关晓彤华伦天奴大秀（热度：1086160）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%87%BA%E7%8E%B0%E4%B8%80%E5%8F%AA%E5%9C%A8%E9%80%83%E5%90%97%E5%96%BD%23" target="weibo">
 上海出现一只在逃吗喽（热度：1083835）
 </a>
@@ -5999,18 +6011,6 @@ iPhone16史上最容易维修iPhone（热度：900387）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%A9%E7%8E%A9%E7%81%AB%E7%83%A7%E4%BC%A4%E5%90%8E%E7%AB%9F%E8%A2%AB%E8%80%81%E4%BA%BA%E9%A9%B1%E8%B5%B6%23" target="weibo">
 男孩玩火烧伤后竟被老人驱赶（热度：894867）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E4%B8%8D%E6%98%AF%E7%B4%AF%E6%98%AF%E7%A9%B7%E5%95%8A%23" target="weibo">
-原来不是累是穷啊（热度：894621）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%BB%8A%E9%BA%A6%E5%BC%A0%E5%87%8C%E8%B5%AB%E8%87%AA%E7%84%B6%E5%88%B0%E4%B8%8D%E5%83%8F%E6%BC%94%E7%9A%84%23" target="weibo">
-赵今麦张凌赫自然到不像演的（热度：894133）
 </a>
 </li>
 
