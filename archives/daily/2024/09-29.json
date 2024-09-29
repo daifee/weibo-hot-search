@@ -1,6 +1,6 @@
 {
   "startTime": 1727540758074,
-  "endTime": 1727613565552,
+  "endTime": 1727614516524,
   "band_list": [
     {
       "raw_hot": 2561192,
@@ -227,20 +227,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 746351,
+      "num": 1119416,
+      "word": "央媒评淘宝可使用微信支付",
+      "onboard_time": 1727610558,
+      "rank": 0,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 734836,
       "num": 1089083,
       "word": "国家最高礼遇迎接功勋模范",
       "onboard_time": 1727575578,
       "rank": 24,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 733277,
-      "num": 1117324,
-      "word": "央媒评淘宝可使用微信支付",
-      "onboard_time": 1727610558,
-      "rank": 0,
-      "category": "互联网"
     },
     {
       "raw_hot": 713846,
@@ -395,6 +395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 542421,
+      "num": 542421,
+      "word": "王楚钦主动示意没上台",
+      "onboard_time": 1727611339,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 536450,
       "num": 347830,
       "word": "这大概是最费发夹的发型了",
@@ -531,14 +539,6 @@
       "category": "体育,作品衍生"
     },
     {
-      "raw_hot": 410445,
-      "num": 410445,
-      "word": "王楚钦主动示意没上台",
-      "onboard_time": 1727611339,
-      "rank": 5,
-      "category": "体育"
-    },
-    {
       "raw_hot": 407781,
       "num": 407781,
       "word": "王楚钦眼里全是活儿",
@@ -659,6 +659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 368911,
+      "num": 298427,
+      "word": "辛巴和蛋蛋消痛贴违法添加穿山甲",
+      "onboard_time": 1727612839,
+      "rank": 21,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 357820,
       "num": 189981,
       "word": "市监局回应网友称住酒店遭临时涨价",
@@ -739,6 +747,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 327188,
+      "num": 407451,
+      "word": "一人一句祝祖国生日快乐",
+      "onboard_time": 1727611520,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 324584,
       "num": 324584,
       "word": "8位无名烈士有名字了",
@@ -769,6 +785,14 @@
       "onboard_time": 1727582059,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 313384,
+      "num": 313384,
+      "word": "10月1日10点01分表白祖国",
+      "onboard_time": 1727612839,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 310230,
@@ -955,14 +979,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 259377,
-      "num": 259377,
-      "word": "辛巴和蛋蛋消痛贴违法添加穿山甲",
-      "onboard_time": 1727612839,
-      "rank": 21,
-      "category": "社会新闻,网红"
-    },
-    {
       "raw_hot": 258310,
       "num": 258310,
       "word": "东北菜可不止量大",
@@ -1075,6 +1091,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 229830,
+      "num": 229830,
+      "word": "王一博德约科维奇同框",
+      "onboard_time": 1727613378,
+      "rank": 33,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 229601,
       "num": 229601,
       "word": "不是上链接吗怎么上警车了",
@@ -1140,7 +1164,7 @@
     },
     {
       "raw_hot": 215755,
-      "num": 215755,
+      "num": 245640,
       "word": "如何一眼看出画的是广东",
       "onboard_time": 1727605219,
       "rank": 5,
@@ -1169,14 +1193,6 @@
       "onboard_time": 1727576477,
       "rank": 19,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 212959,
-      "num": 407451,
-      "word": "一人一句祝祖国生日快乐",
-      "onboard_time": 1727611520,
-      "rank": 8,
-      "category": "国内时政"
     },
     {
       "raw_hot": 211650,
@@ -1387,14 +1403,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 191537,
-      "num": 191537,
-      "word": "王一博德约科维奇同框",
-      "onboard_time": 1727613378,
-      "rank": 33,
-      "category": "艺人,体育"
-    },
-    {
       "raw_hot": 191118,
       "num": 372309,
       "word": "舍不得星星暧昧期见家长",
@@ -1417,6 +1425,14 @@
       "onboard_time": 1727586019,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 189365,
+      "num": 189365,
+      "word": "教育局回应鹤壁技师学院打人事件",
+      "onboard_time": 1727612180,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 188164,
@@ -1739,14 +1755,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 157923,
-      "num": 157923,
-      "word": "教育局回应鹤壁技师学院打人事件",
-      "onboard_time": 1727612180,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 157676,
       "num": 157863,
       "word": "喻言唱跳舞台",
@@ -1825,14 +1833,6 @@
       "onboard_time": 1727597958,
       "rank": 45,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 147926,
-      "num": 147926,
-      "word": "10月1日10点01分表白祖国",
-      "onboard_time": 1727612839,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 147064,
@@ -1915,6 +1915,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 140286,
+      "num": 140286,
+      "word": "第一次在李赫宰脸上看到愁容",
+      "onboard_time": 1727613018,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 140112,
       "num": 140112,
       "word": "布云朝克特晋级中网8强",
@@ -1931,12 +1939,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 138751,
+      "num": 138751,
+      "word": "马龙换球衣",
+      "onboard_time": 1727614399,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 138558,
       "num": 134764,
       "word": "周雨彤刘烨互晒合照",
       "onboard_time": 1727605998,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 137916,
+      "num": 137916,
+      "word": "宁波一厂发生锌水爆炸大量锌水流出",
+      "onboard_time": 1727614159,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 137811,
@@ -1961,14 +1985,6 @@
       "onboard_time": 1727582659,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 136157,
-      "num": 136157,
-      "word": "第一次在李赫宰脸上看到愁容",
-      "onboard_time": 1727613018,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 135178,
@@ -2019,6 +2035,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 133321,
+      "num": 133321,
+      "word": "天山南北唱新歌",
+      "onboard_time": 1727614399,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 131272,
       "num": 282414,
       "word": "刘浩存出发巴黎时装周",
@@ -2065,6 +2089,14 @@
       "onboard_time": 1727591839,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 129749,
+      "num": 129749,
+      "word": "漠风吟",
+      "onboard_time": 1727614039,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 129681,
@@ -2251,6 +2283,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 120089,
+      "num": 120089,
+      "word": "2024中网",
+      "onboard_time": 1727611639,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 119979,
       "num": 119979,
       "word": "最适合懒人的减肥训练",
@@ -2265,6 +2305,14 @@
       "onboard_time": 1727613499,
       "rank": 49,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 119474,
+      "num": 119474,
+      "word": "台风",
+      "onboard_time": 1727613738,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 119468,
@@ -2339,6 +2387,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 117087,
+      "num": 117087,
+      "word": "断崖式降温换季来了",
+      "onboard_time": 1727610558,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 116345,
       "num": 142791,
       "word": "卓沅新疆vlog",
@@ -2401,6 +2457,14 @@
       "onboard_time": 1727574137,
       "rank": 42,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 112599,
+      "num": 112599,
+      "word": "王楚钦3比0篠塚大登",
+      "onboard_time": 1727612058,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 112025,
@@ -2633,6 +2697,14 @@
       "onboard_time": 1727536400,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 80526,
+      "num": 252766,
+      "word": "刘宇宁歌声里的天高海阔",
+      "onboard_time": 1727613559,
+      "rank": 18,
+      "category": "音乐"
     },
     {
       "raw_hot": 78043,
@@ -2915,6 +2987,14 @@
       "category": "社会新闻,国外时政"
     },
     {
+      "raw_hot": 54939,
+      "num": 281887,
+      "word": "70名05后入学婚姻专业",
+      "onboard_time": 1727612839,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 52926,
       "num": 52926,
       "word": "华晨宇没有放长假的打算",
@@ -2969,14 +3049,6 @@
       "onboard_time": 1727542096,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 44149,
-      "num": 281887,
-      "word": "70名05后入学婚姻专业",
-      "onboard_time": 1727612839,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 44085,
@@ -3075,6 +3147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 35508,
+      "num": 167273,
+      "word": "直击长城巨型鳄鱼",
+      "onboard_time": 1727613800,
+      "rank": 31,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 34913,
       "num": 397730,
       "word": "机构预期A股有望迎来金九银十",
@@ -3171,6 +3251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 24719,
+      "num": 484565,
+      "word": "孔子也是Z世代的理想型老师",
+      "onboard_time": 1727597359,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 24254,
       "num": 283244,
       "word": "赛道上的显眼豹",
@@ -3227,20 +3315,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 18383,
-      "num": 484565,
-      "word": "孔子也是Z世代的理想型老师",
-      "onboard_time": 1727597359,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 18369,
       "num": 37833,
       "word": "五月天成都演唱会",
       "onboard_time": 1727544974,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 18054,
+      "num": 171295,
+      "word": "萧敬腾也来中网了",
+      "onboard_time": 1727613981,
+      "rank": 28,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 17227,

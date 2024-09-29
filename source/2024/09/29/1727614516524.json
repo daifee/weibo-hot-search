@@ -1,0 +1,410 @@
+{
+  "runTime": 1727614516524,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 746351,
+        "num": 1119416,
+        "word": "央媒评淘宝可使用微信支付",
+        "onboard_time": 1727610558,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 542421,
+        "num": 542421,
+        "word": "王楚钦主动示意没上台",
+        "onboard_time": 1727611339,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 24719,
+        "num": 425565,
+        "word": "孔子也是Z世代的理想型老师",
+        "onboard_time": 1727597359,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 384861,
+        "num": 384861,
+        "word": "你23岁的时候在做什么",
+        "onboard_time": 1727605579,
+        "rank": 3,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 374633,
+        "num": 374633,
+        "word": "多家房企宣布涨价",
+        "onboard_time": 1727588840,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 357279,
+        "num": 357279,
+        "word": "房企涨价",
+        "onboard_time": 1727607620,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 354866,
+        "num": 354866,
+        "word": "王楚钦vs篠塚大登",
+        "onboard_time": 1727606239,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 327188,
+        "num": 327188,
+        "word": "一人一句祝祖国生日快乐",
+        "onboard_time": 1727611520,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 65187,
+        "num": 314995,
+        "word": "惠英红 生而为中国人我骄傲自豪",
+        "onboard_time": 1727605160,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 313384,
+        "num": 313384,
+        "word": "10月1日10点01分表白祖国",
+        "onboard_time": 1727612839,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 421406,
+        "num": 310597,
+        "word": "华伦天奴大秀",
+        "onboard_time": 1727610080,
+        "rank": 10,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 380579,
+        "num": 305508,
+        "word": "周深为自己做的生日蛋糕",
+        "onboard_time": 1727603179,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 373719,
+        "num": 304272,
+        "word": "双胞胎还在妈妈子宫就把手术做了",
+        "onboard_time": 1727597717,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 368911,
+        "num": 298427,
+        "word": "辛巴和蛋蛋消痛贴违法添加穿山甲",
+        "onboard_time": 1727612839,
+        "rank": 13,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 295166,
+        "num": 295166,
+        "word": "王楚钦光速进32强",
+        "onboard_time": 1727611579,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 345600,
+        "num": 289071,
+        "word": "快递柜拿取声吵到婴儿被封",
+        "onboard_time": 1727588598,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 309064,
+        "num": 284471,
+        "word": "杭州警方通报网红遭人持刀抢劫",
+        "onboard_time": 1727605219,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 269937,
+        "num": 269937,
+        "word": "戚薇说北大考试差点写不完",
+        "onboard_time": 1727595559,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80526,
+        "num": 252766,
+        "word": "刘宇宁歌声里的天高海阔",
+        "onboard_time": 1727613559,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 54939,
+        "num": 246340,
+        "word": "70名05后入学婚姻专业",
+        "onboard_time": 1727612839,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185338,
+        "num": 245640,
+        "word": "如何一眼看出画的是广东",
+        "onboard_time": 1727605219,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245329,
+        "num": 245329,
+        "word": "甘孜一油罐车坠崖夫妻身亡",
+        "onboard_time": 1727606058,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229830,
+        "num": 229830,
+        "word": "王一博德约科维奇同框",
+        "onboard_time": 1727613378,
+        "rank": 22,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 217843,
+        "num": 217843,
+        "word": "摘杨梅的场面原来这么壮观",
+        "onboard_time": 1727610080,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192421,
+        "num": 192421,
+        "word": "十个勤天玫瑰酪",
+        "onboard_time": 1727606781,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189365,
+        "num": 189365,
+        "word": "教育局回应鹤壁技师学院打人事件",
+        "onboard_time": 1727612180,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184311,
+        "num": 184311,
+        "word": "1000人凌晨4点打探照灯摘杨梅",
+        "onboard_time": 1727610139,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171426,
+        "num": 171426,
+        "word": "蓝盈莹 人在巴黎也要中式复古",
+        "onboard_time": 1727612659,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 18054,
+        "num": 171295,
+        "word": "萧敬腾也来中网了",
+        "onboard_time": 1727613981,
+        "rank": 28,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 171251,
+        "num": 171251,
+        "word": "陈梦在周杰伦和黄晓明中选了黄晓明",
+        "onboard_time": 1727606299,
+        "rank": 29,
+        "category": "体育,作品衍生"
+      },
+      {
+        "raw_hot": 167670,
+        "num": 167670,
+        "word": "俩老人买黄金不问价店员果断报警",
+        "onboard_time": 1727611399,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 35508,
+        "num": 167273,
+        "word": "直击长城巨型鳄鱼",
+        "onboard_time": 1727613800,
+        "rank": 31,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 167004,
+        "num": 167004,
+        "word": "赵丽颖包十场749局",
+        "onboard_time": 1727603418,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 149634,
+        "num": 149634,
+        "word": "东北雨姐团队称红薯粉条应该有问题",
+        "onboard_time": 1727600539,
+        "rank": 33,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 144894,
+        "num": 144894,
+        "word": "比亚迪召回近10万台电车",
+        "onboard_time": 1727601679,
+        "rank": 34,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 142607,
+        "num": 142607,
+        "word": "我们的歌",
+        "onboard_time": 1727610259,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140286,
+        "num": 140286,
+        "word": "第一次在李赫宰脸上看到愁容",
+        "onboard_time": 1727613018,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138751,
+        "num": 138751,
+        "word": "马龙换球衣",
+        "onboard_time": 1727614399,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137916,
+        "num": 137916,
+        "word": "宁波一厂发生锌水爆炸大量锌水流出",
+        "onboard_time": 1727614159,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136596,
+        "num": 136596,
+        "word": "我们的歌金曲巅峰夜直播",
+        "onboard_time": 1727610139,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133321,
+        "num": 133321,
+        "word": "天山南北唱新歌",
+        "onboard_time": 1727614399,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129749,
+        "num": 129749,
+        "word": "漠风吟",
+        "onboard_time": 1727614039,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123761,
+        "num": 123761,
+        "word": "女子骑马被教练偷拍发群里开黄腔",
+        "onboard_time": 1727596219,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122004,
+        "num": 122004,
+        "word": "樊振东观战中网",
+        "onboard_time": 1727606781,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120089,
+        "num": 120089,
+        "word": "2024中网",
+        "onboard_time": 1727611639,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119474,
+        "num": 119474,
+        "word": "台风",
+        "onboard_time": 1727613738,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118586,
+        "num": 118586,
+        "word": "周深 绘本二创",
+        "onboard_time": 1727613320,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 117087,
+        "num": 117087,
+        "word": "断崖式降温换季来了",
+        "onboard_time": 1727610558,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114741,
+        "num": 114741,
+        "word": "Gr战队冠军",
+        "onboard_time": 1727613078,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 112599,
+        "num": 112599,
+        "word": "王楚钦3比0篠塚大登",
+        "onboard_time": 1727612058,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#颁授仪式上这些话语鼓舞人心#"
+    }
+  }
+}
