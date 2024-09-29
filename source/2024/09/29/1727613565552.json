@@ -1,0 +1,410 @@
+{
+  "runTime": 1727613565552,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 733277,
+        "num": 1117324,
+        "word": "央媒评淘宝可使用微信支付",
+        "onboard_time": 1727610558,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 584264,
+        "num": 584264,
+        "word": "王楚钦vs篠塚大登",
+        "onboard_time": 1727606239,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 18383,
+        "num": 484565,
+        "word": "孔子也是Z世代的理想型老师",
+        "onboard_time": 1727597359,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 437011,
+        "num": 437011,
+        "word": "你23岁的时候在做什么",
+        "onboard_time": 1727605579,
+        "rank": 3,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 415135,
+        "num": 415135,
+        "word": "多家房企宣布涨价",
+        "onboard_time": 1727588840,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 410445,
+        "num": 410445,
+        "word": "王楚钦主动示意没上台",
+        "onboard_time": 1727611339,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 82346,
+        "num": 410065,
+        "word": "惠英红 生而为中国人我骄傲自豪",
+        "onboard_time": 1727605160,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 51874,
+        "num": 409265,
+        "word": "种地吧",
+        "onboard_time": 1727605458,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 212959,
+        "num": 407451,
+        "word": "一人一句祝祖国生日快乐",
+        "onboard_time": 1727611520,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 37764,
+        "num": 407094,
+        "word": "上交所测试订单为历史峰值2倍",
+        "onboard_time": 1727612241,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 442524,
+        "num": 405989,
+        "word": "华伦天奴大秀",
+        "onboard_time": 1727610080,
+        "rank": 10,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 405357,
+        "num": 405357,
+        "word": "双胞胎还在妈妈子宫就把手术做了",
+        "onboard_time": 1727597717,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 371706,
+        "num": 404856,
+        "word": "王楚钦光速进32强",
+        "onboard_time": 1727611579,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 404670,
+        "num": 404670,
+        "word": "房企涨价",
+        "onboard_time": 1727607620,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22233,
+        "num": 399746,
+        "word": "孕妇大补的问题燕窝依旧在售",
+        "onboard_time": 1727611999,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 399013,
+        "num": 399013,
+        "word": "杭州警方通报网红遭人持刀抢劫",
+        "onboard_time": 1727605219,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 390241,
+        "num": 390241,
+        "word": "周深为自己做的生日蛋糕",
+        "onboard_time": 1727603179,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 327488,
+        "num": 327488,
+        "word": "快递柜拿取声吵到婴儿被封",
+        "onboard_time": 1727588598,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 299948,
+        "num": 299948,
+        "word": "甘孜一油罐车坠崖夫妻身亡",
+        "onboard_time": 1727606058,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 44149,
+        "num": 281887,
+        "word": "70名05后入学婚姻专业",
+        "onboard_time": 1727612839,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270963,
+        "num": 270963,
+        "word": "戚薇说北大考试差点写不完",
+        "onboard_time": 1727595559,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 259377,
+        "num": 259377,
+        "word": "辛巴和蛋蛋消痛贴违法添加穿山甲",
+        "onboard_time": 1727612839,
+        "rank": 21,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 251728,
+        "num": 251728,
+        "word": "摘杨梅的场面原来这么壮观",
+        "onboard_time": 1727610080,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245875,
+        "num": 245875,
+        "word": "1000人凌晨4点打探照灯摘杨梅",
+        "onboard_time": 1727610139,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 14913,
+        "num": 234009,
+        "word": "大美中国有多少种色彩",
+        "onboard_time": 1727591360,
+        "rank": 24,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 233989,
+        "num": 233989,
+        "word": "年轻人为了省手续费有多拼",
+        "onboard_time": 1727610198,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224708,
+        "num": 224708,
+        "word": "陈梦在周杰伦和黄晓明中选了黄晓明",
+        "onboard_time": 1727606299,
+        "rank": 26,
+        "category": "体育,作品衍生"
+      },
+      {
+        "raw_hot": 222989,
+        "num": 222989,
+        "word": "十个勤天玫瑰酪",
+        "onboard_time": 1727606781,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 215755,
+        "num": 215755,
+        "word": "如何一眼看出画的是广东",
+        "onboard_time": 1727605219,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 75389,
+        "num": 209015,
+        "word": "王楚钦说感受到了大家的热情",
+        "onboard_time": 1727612898,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 208977,
+        "num": 208977,
+        "word": "我们的歌",
+        "onboard_time": 1727610259,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191584,
+        "num": 191584,
+        "word": "赵丽颖包十场749局",
+        "onboard_time": 1727603418,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 192283,
+        "num": 191572,
+        "word": "我们的歌金曲巅峰夜直播",
+        "onboard_time": 1727610139,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191537,
+        "num": 191537,
+        "word": "王一博德约科维奇同框",
+        "onboard_time": 1727613378,
+        "rank": 33,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 186663,
+        "num": 186663,
+        "word": "蓝盈莹 人在巴黎也要中式复古",
+        "onboard_time": 1727612659,
+        "rank": 34,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 186410,
+        "num": 186410,
+        "word": "比亚迪召回近10万台电车",
+        "onboard_time": 1727601679,
+        "rank": 35,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 174124,
+        "num": 174124,
+        "word": "俩老人买黄金不问价店员果断报警",
+        "onboard_time": 1727611399,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171871,
+        "num": 171871,
+        "word": "Gr战队冠军",
+        "onboard_time": 1727613078,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 166906,
+        "num": 166906,
+        "word": "房姐李梅87套房开拍仅5人报名",
+        "onboard_time": 1727607679,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164903,
+        "num": 164903,
+        "word": "东北雨姐团队称红薯粉条应该有问题",
+        "onboard_time": 1727600539,
+        "rank": 39,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 162537,
+        "num": 162537,
+        "word": "樊振东观战中网",
+        "onboard_time": 1727606781,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158237,
+        "num": 158237,
+        "word": "罗永浩呼吁互联网公司打破壁垒",
+        "onboard_time": 1727612418,
+        "rank": 41,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 157923,
+        "num": 157923,
+        "word": "教育局回应鹤壁技师学院打人事件",
+        "onboard_time": 1727612180,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156510,
+        "num": 156510,
+        "word": "如鸢",
+        "onboard_time": 1727612058,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 147926,
+        "num": 147926,
+        "word": "10月1日10点01分表白祖国",
+        "onboard_time": 1727612839,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136157,
+        "num": 136157,
+        "word": "第一次在李赫宰脸上看到愁容",
+        "onboard_time": 1727613018,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130054,
+        "num": 130054,
+        "word": "周深 绘本二创",
+        "onboard_time": 1727613320,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 127683,
+        "num": 127683,
+        "word": "碧蓝之海第二季",
+        "onboard_time": 1727611399,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 124051,
+        "num": 124051,
+        "word": "女子骑马被教练偷拍发群里开黄腔",
+        "onboard_time": 1727596219,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119604,
+        "num": 119604,
+        "word": "有益心脏健康的饮食法",
+        "onboard_time": 1727613499,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#全国人民要以英雄模范为榜样#"
+    }
+  }
+}
