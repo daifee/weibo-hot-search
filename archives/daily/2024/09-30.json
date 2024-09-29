@@ -1,6 +1,6 @@
 {
   "startTime": 1727627182055,
-  "endTime": 1727642150997,
+  "endTime": 1727644782080,
   "band_list": [
     {
       "raw_hot": 1153138,
@@ -475,12 +475,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 37247,
-      "num": 37247,
+      "raw_hot": 39164,
+      "num": 39164,
       "word": "埃尔多安称以色列被一些大国宠坏了",
       "onboard_time": 1727633234,
       "rank": 26,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 33604,
+      "num": 33604,
+      "word": "G2",
+      "onboard_time": 1727642900,
+      "rank": 20,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 33385,
+      "num": 40510,
+      "word": "小区业主大骂外地商贩滚出苏州",
+      "onboard_time": 1727642231,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 25878,
@@ -515,6 +531,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 24363,
+      "num": 24363,
+      "word": "黎真主党称对以境内目标发射火箭弹",
+      "onboard_time": 1727640491,
+      "rank": 45,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 23810,
       "num": 33718,
       "word": "AG告别秋季赛",
@@ -531,12 +555,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 20335,
-      "num": 22443,
-      "word": "黎真主党称对以境内目标发射火箭弹",
-      "onboard_time": 1727640491,
-      "rank": 45,
-      "category": "国外时政"
+      "raw_hot": 19303,
+      "num": 20980,
+      "word": "被新疆六星街女警甜到了",
+      "onboard_time": 1727643731,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 18568,
+      "num": 20979,
+      "word": "男子5年开车碰瓷近200次",
+      "onboard_time": 1727643670,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 18168,
@@ -547,7 +579,7 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 18026,
+      "raw_hot": 18077,
       "num": 22420,
       "word": "我们的歌",
       "onboard_time": 1727610259,
