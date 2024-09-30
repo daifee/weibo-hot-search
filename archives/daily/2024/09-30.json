@@ -1,6 +1,6 @@
 {
   "startTime": 1727627182055,
-  "endTime": 1727703090870,
+  "endTime": 1727703761360,
   "band_list": [
     {
       "raw_hot": 2429172,
@@ -59,6 +59,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1403282,
+      "num": 1403282,
+      "word": "小哥误撞奔驰车主免赔偿称结婚叫我",
+      "onboard_time": 1727700080,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1402885,
       "num": 408987,
       "word": "哀牢山",
@@ -89,14 +97,6 @@
       "onboard_time": 1727658259,
       "rank": 1,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1263394,
-      "num": 1263394,
-      "word": "小哥误撞奔驰车主免赔偿称结婚叫我",
-      "onboard_time": 1727700080,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1257696,
@@ -195,6 +195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 890162,
+      "num": 890162,
+      "word": "台湾首来大陆同胞1256个景区免票",
+      "onboard_time": 1727700202,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 837753,
       "num": 936557,
       "word": "广州官宣楼市取消限购",
@@ -257,14 +265,6 @@
       "onboard_time": 1727670620,
       "rank": 31,
       "category": "财经"
-    },
-    {
-      "raw_hot": 643812,
-      "num": 643812,
-      "word": "台湾首来大陆同胞1256个景区免票",
-      "onboard_time": 1727700202,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 640502,
@@ -344,6 +344,14 @@
       "word": "马龙3比0皮切福德",
       "onboard_time": 1727699120,
       "rank": 5,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 523793,
+      "num": 285885,
+      "word": "马龙采访被儿子打断",
+      "onboard_time": 1727702780,
+      "rank": 30,
       "category": "体育"
     },
     {
@@ -464,6 +472,14 @@
       "word": "13岁男孩夏令营遭体罚致横纹肌溶解",
       "onboard_time": 1727676140,
       "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 419653,
+      "num": 250547,
+      "word": "5岁幼童遭8岁男孩强行推入水池",
+      "onboard_time": 1727702479,
+      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -659,6 +675,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 326530,
+      "num": 696684,
+      "word": "庆祝中华人民共和国成立75周年招待会",
+      "onboard_time": 1727701580,
+      "rank": 5,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 324257,
       "num": 324257,
       "word": "骗子把老人所有定期存款转成活期",
@@ -803,28 +827,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 278431,
-      "num": 195048,
-      "word": "马龙采访被儿子打断",
-      "onboard_time": 1727702780,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 277805,
       "num": 277805,
       "word": "缅北诈骗分子在武装势力庇护下建窝点",
       "onboard_time": 1727668639,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 274787,
-      "num": 696684,
-      "word": "庆祝中华人民共和国成立75周年招待会",
-      "onboard_time": 1727701580,
-      "rank": 5,
-      "category": "国内时政"
     },
     {
       "raw_hot": 268782,
@@ -971,14 +979,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 237521,
-      "num": 216089,
-      "word": "5岁幼童遭8岁男孩强行推入水池",
-      "onboard_time": 1727702479,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 237221,
       "num": 237221,
       "word": "王楚然枯藤老树下古装宿命感",
@@ -1011,6 +1011,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 221132,
+      "num": 221132,
+      "word": "沈梦辰露额头 精英感",
+      "onboard_time": 1727702119,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 220384,
       "num": 220384,
       "word": "双胞胎还在妈妈子宫就把手术做了",
@@ -1041,6 +1049,14 @@
       "onboard_time": 1727664859,
       "rank": 33,
       "category": "财经"
+    },
+    {
+      "raw_hot": 214081,
+      "num": 214081,
+      "word": "高鹏 有钱就变坏",
+      "onboard_time": 1727702479,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 213337,
@@ -1099,12 +1115,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 207669,
-      "num": 207669,
-      "word": "高鹏 有钱就变坏",
-      "onboard_time": 1727702479,
-      "rank": 24,
-      "category": "剧集"
+      "raw_hot": 207742,
+      "num": 326543,
+      "word": "朱一龙演技",
+      "onboard_time": 1727700560,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 206257,
@@ -1395,6 +1411,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 182159,
+      "num": 182159,
+      "word": "张若昀好帅",
+      "onboard_time": 1727702899,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 179623,
       "num": 394249,
       "word": "郑钦文晋级中网16强",
@@ -1417,14 +1441,6 @@
       "onboard_time": 1727664078,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 176999,
-      "num": 176999,
-      "word": "沈梦辰露额头 精英感",
-      "onboard_time": 1727702119,
-      "rank": 35,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 176098,
@@ -1755,6 +1771,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 148690,
+      "num": 148690,
+      "word": "山取",
+      "onboard_time": 1727703080,
+      "rank": 36,
+      "category": "网红"
+    },
+    {
       "raw_hot": 148335,
       "num": 148335,
       "word": "心动的信号7第二次约会",
@@ -1883,6 +1907,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 138794,
+      "num": 138794,
+      "word": "一线城市房价很有可能率先止跌",
+      "onboard_time": 1727701942,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 138556,
       "num": 138556,
       "word": "一键开启清新福建",
@@ -1947,14 +1979,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 136523,
-      "num": 136523,
-      "word": "张若昀好帅",
-      "onboard_time": 1727702899,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 136171,
       "num": 136171,
       "word": "A股六大新纪录诞生",
@@ -1969,14 +1993,6 @@
       "onboard_time": 1727681301,
       "rank": 36,
       "category": "财经"
-    },
-    {
-      "raw_hot": 135972,
-      "num": 135972,
-      "word": "一线城市房价很有可能率先止跌",
-      "onboard_time": 1727701942,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 135446,
@@ -2073,14 +2089,6 @@
       "onboard_time": 1727698280,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 129114,
-      "num": 216364,
-      "word": "朱一龙演技",
-      "onboard_time": 1727700560,
-      "rank": 31,
-      "category": "电影"
     },
     {
       "raw_hot": 128759,
@@ -2211,11 +2219,27 @@
       "category": "电影"
     },
     {
+      "raw_hot": 122061,
+      "num": 122061,
+      "word": "郑钦文谈下轮对战阿尼西莫娃",
+      "onboard_time": 1727701280,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 121453,
       "num": 121453,
       "word": "券商工作人员大呼忙疯了",
       "onboard_time": 1727671939,
       "rank": 48,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 121269,
+      "num": 121269,
+      "word": "新闻联播报道A股",
+      "onboard_time": 1727701280,
+      "rank": 49,
       "category": "财经"
     },
     {
@@ -2252,7 +2276,7 @@
     },
     {
       "raw_hot": 118481,
-      "num": 118481,
+      "num": 121208,
       "word": "曾黎手里拎着一朵新疆棉",
       "onboard_time": 1727701521,
       "rank": 48,
@@ -2305,14 +2329,6 @@
       "onboard_time": 1727676200,
       "rank": 49,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 117010,
-      "num": 117010,
-      "word": "新闻联播报道A股",
-      "onboard_time": 1727701280,
-      "rank": 49,
-      "category": "财经"
     },
     {
       "raw_hot": 116250,
@@ -2465,6 +2481,14 @@
       "onboard_time": 1727698760,
       "rank": 46,
       "category": "财经"
+    },
+    {
+      "raw_hot": 107919,
+      "num": 180248,
+      "word": "外卖小哥的担当遇上车主朴素的善意",
+      "onboard_time": 1727703380,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 107773,
@@ -2891,6 +2915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 59832,
+      "num": 531346,
+      "word": "今年国庆档新片票房破2亿",
+      "onboard_time": 1727702359,
+      "rank": 7,
+      "category": "电影"
+    },
+    {
       "raw_hot": 58066,
       "num": 58066,
       "word": "辣条里检出老鼠药嫌犯已被刑拘",
@@ -3075,6 +3107,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 36652,
+      "num": 311762,
+      "word": "广州多名学生称在校就餐后腹泻",
+      "onboard_time": 1727702119,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 35339,
       "num": 380199,
       "word": "官方回应水司楼变身度假酒店",
@@ -3107,14 +3147,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 34409,
-      "num": 531346,
-      "word": "今年国庆档新片票房破2亿",
-      "onboard_time": 1727702359,
-      "rank": 7,
-      "category": "电影"
-    },
-    {
       "raw_hot": 34176,
       "num": 346638,
       "word": "男子安检机上偷走手提包被刑拘",
@@ -3137,6 +3169,14 @@
       "onboard_time": 1727683760,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 29253,
+      "num": 195053,
+      "word": "布云朝克特vs卢布列夫",
+      "onboard_time": 1727702420,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 29017,
@@ -3179,18 +3219,18 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 27197,
+      "num": 1222680,
+      "word": "亲亲的长街新新的模样",
+      "onboard_time": 1727702842,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 25997,
       "num": 290662,
       "word": "文物局回应古寺修缮未能修旧如旧",
       "onboard_time": 1727680460,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 25396,
-      "num": 311762,
-      "word": "广州多名学生称在校就餐后腹泻",
-      "onboard_time": 1727702119,
       "rank": 14,
       "category": "社会新闻"
     },
@@ -3313,22 +3353,6 @@
       "onboard_time": 1727680820,
       "rank": 24,
       "category": "电影"
-    },
-    {
-      "raw_hot": 14068,
-      "num": 195053,
-      "word": "布云朝克特vs卢布列夫",
-      "onboard_time": 1727702420,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 11333,
-      "num": 1222680,
-      "word": "亲亲的长街新新的模样",
-      "onboard_time": 1727702842,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 10910,
