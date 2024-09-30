@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1727727855026,
+  "endTime": 1727728674920,
   "band_list": [
     {
       "raw_hot": 1370014,
@@ -539,19 +539,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 33619,
+      "num": 33619,
+      "word": "石破茂要探讨日本引入美国核武",
+      "onboard_time": 1727726891,
+      "rank": 36,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 32283,
+      "num": 53333,
+      "word": "火车上旅客最熟悉的陌生人",
+      "onboard_time": 1727726413,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 30293,
       "num": 30293,
       "word": "黎巴嫩网红双胞胎住所附近遭轰炸",
       "onboard_time": 1727724072,
       "rank": 43,
-      "category": "国外时政"
-    },
-    {
-      "raw_hot": 28499,
-      "num": 28499,
-      "word": "石破茂要探讨日本引入美国核武",
-      "onboard_time": 1727726891,
-      "rank": 36,
       "category": "国外时政"
     },
     {
@@ -563,20 +571,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 24443,
-      "num": 24443,
+      "raw_hot": 26405,
+      "num": 26405,
       "word": "石破茂鼓吹亚洲版北约",
       "onboard_time": 1727727251,
       "rank": 44,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 24375,
-      "num": 53333,
-      "word": "火车上旅客最熟悉的陌生人",
-      "onboard_time": 1727726413,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 23150,
@@ -587,11 +587,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 16465,
-      "num": 26198,
+      "raw_hot": 17212,
+      "num": 44034,
       "word": "警号004391重启",
       "onboard_time": 1727727372,
       "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 16754,
+      "num": 28532,
+      "word": "绿皮车到动车都能听到她的声音",
+      "onboard_time": 1727728511,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
