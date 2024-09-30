@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/10/01 00:28:17 ~ 2024/10/01 05:36:13
+本榜单时间：2024/10/01 00:28:17 ~ 2024/10/01 06:20:57
 </p>
 </blockquote>
 <p>
@@ -153,6 +153,12 @@ A股疯涨普通人是否要入局（热度：230137）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%8B%8F%E8%B7%AF%E6%AE%B5%E5%B7%B2%E5%87%BA%E7%8E%B0%E5%A4%A7%E9%87%8F%E8%BD%A6%E6%B5%81%23" target="weibo">
+江苏路段已出现大量车流（热度：215257）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E9%BE%99%E4%B8%80%E5%AE%B6%E5%9B%9B%E5%8F%A3%E5%90%8C%E6%A1%86%23" target="weibo">
 马龙一家四口同框（热度：207070）
 </a>
@@ -195,12 +201,6 @@ A股疯涨普通人是否要入局（热度：230137）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%8B%8F%E8%B7%AF%E6%AE%B5%E5%B7%B2%E5%87%BA%E7%8E%B0%E5%A4%A7%E9%87%8F%E8%BD%A6%E6%B5%81%23" target="weibo">
-江苏路段已出现大量车流（热度：147542）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%235%E5%B2%81%E5%B9%BC%E7%AB%A5%E9%81%AD8%E5%B2%81%E7%94%B7%E5%AD%A9%E5%BC%BA%E8%A1%8C%E6%8E%A8%E5%85%A5%E6%B0%B4%E6%B1%A0%23" target="weibo">
 5岁幼童遭8岁男孩强行推入水池（热度：145530）
 </a>
@@ -215,6 +215,12 @@ A股疯涨普通人是否要入局（热度：230137）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%85%E5%AE%A2%E8%A1%8C%E6%9D%8E%E7%AE%B1%E5%A1%9E%E6%BB%A1180%E4%B8%87%E7%BE%8E%E5%85%83%E5%85%A5%E5%A2%83%23" target="weibo">
 旅客行李箱塞满180万美元入境（热度：124504）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%8B%8E50%E4%B8%87%E7%8E%B0%E9%87%91%E5%87%BA%E5%BA%AD%E5%BD%92%E8%BF%98%E5%80%BA%E4%B8%BB%23" target="weibo">
+女子拎50万现金出庭归还债主（热度：122239）
 </a>
 </li>
 
@@ -261,6 +267,12 @@ A股还有三关要过（热度：110479）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BB%A5%E7%A9%BA%E5%86%9B%E9%A3%9E%E8%B6%8A1800%E5%85%AC%E9%87%8C%E7%A9%BA%E8%A2%AD%E4%B9%9F%E9%97%A8%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%85%23" target="weibo">
+以空军飞越1800公里空袭也门胡塞武装（热度：104279）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%8A%E7%86%9F%E7%94%B7%E5%A5%B3%20%E5%A5%B3%E6%80%A7%E7%9A%84%E7%9C%9F%E5%AE%9E%E5%9B%B0%E5%A2%83%23" target="weibo">
 半熟男女 女性的真实困境（热度：104097）
 </a>
@@ -291,8 +303,8 @@ A股还有三关要过（热度：110479）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BB%A5%E7%A9%BA%E5%86%9B%E9%A3%9E%E8%B6%8A1800%E5%85%AC%E9%87%8C%E7%A9%BA%E8%A2%AD%E4%B9%9F%E9%97%A8%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%85%23" target="weibo">
-以空军飞越1800公里空袭也门胡塞武装（热度：79163）
+<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E5%8F%96%E6%B6%88%E9%99%90%E8%B4%AD%E6%9C%89%E4%B8%AD%E4%BB%8B%E7%A7%B0%E8%BF%9E%E5%A4%9C%E5%BC%80%E5%A4%9A%E5%8D%95%23" target="weibo">
+广州取消限购有中介称连夜开多单（热度：81773）
 </a>
 </li>
 
@@ -363,8 +375,8 @@ A股还有三关要过（热度：110479）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%8B%8E50%E4%B8%87%E7%8E%B0%E9%87%91%E5%87%BA%E5%BA%AD%E5%BD%92%E8%BF%98%E5%80%BA%E4%B8%BB%23" target="weibo">
-女子拎50万现金出庭归还债主（热度：58116）
+<a href="https://s.weibo.com/weibo?q=%23%E5%87%86%E5%A4%87%E8%BF%98%E6%AC%BE%E6%97%B6%E5%8F%91%E7%8E%B0%E6%88%BF%E5%B1%8B%E6%98%93%E4%B8%BB%E8%A2%AB%E6%8A%B5%E6%8A%BC%23" target="weibo">
+准备还款时发现房屋易主被抵押（热度：58398）
 </a>
 </li>
 
@@ -383,6 +395,18 @@ A股还有三关要过（热度：110479）
 <li>
 <a href="https://s.weibo.com/weibo?q=%232024%E5%A4%AE%E8%A7%86%E5%9B%BD%E5%BA%86%E6%99%9A%E4%BC%9A%E8%8A%82%E7%9B%AE%E5%8D%95%23" target="weibo">
 2024央视国庆晚会节目单（热度：46129）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%9F%B3%E7%A0%B4%E8%8C%82%E8%A6%81%E6%8E%A2%E8%AE%A8%E6%97%A5%E6%9C%AC%E5%BC%95%E5%85%A5%E7%BE%8E%E5%9B%BD%E6%A0%B8%E6%AD%A6%23" target="weibo">
+石破茂要探讨日本引入美国核武（热度：42608）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%A0%A1%E6%96%B9%E7%A7%B0%E8%A2%AB%E6%89%93%E7%94%B7%E7%94%9F%E6%83%85%E5%86%B5%E6%B2%A1%E9%82%A3%E4%B9%88%E4%B8%A5%E9%87%8D%23" target="weibo">
+校方称被打男生情况没那么严重（热度：42073）
 </a>
 </li>
 
@@ -417,14 +441,14 @@ A股还有三关要过（热度：110479）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%9D%90%E5%8C%97%E4%BA%AC%E5%9C%B0%E9%93%81%E5%9B%9E%E5%AE%B6%23" target="weibo">
-坐北京地铁回家（热度：36806）
+<a href="https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%B1%9A%E5%AE%9D%E5%AE%9D4%E4%B8%AA%E6%9C%88%E5%B7%B2%E5%AD%A6%E4%BC%9A%E6%8D%89%E9%B1%BC%E5%96%B7%E6%B0%B4%23" target="weibo">
+江豚宝宝4个月已学会捉鱼喷水（热度：39167）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%9F%B3%E7%A0%B4%E8%8C%82%E8%A6%81%E6%8E%A2%E8%AE%A8%E6%97%A5%E6%9C%AC%E5%BC%95%E5%85%A5%E7%BE%8E%E5%9B%BD%E6%A0%B8%E6%AD%A6%23" target="weibo">
-石破茂要探讨日本引入美国核武（热度：35737）
+<a href="https://s.weibo.com/weibo?q=%23%E5%9D%90%E5%8C%97%E4%BA%AC%E5%9C%B0%E9%93%81%E5%9B%9E%E5%AE%B6%23" target="weibo">
+坐北京地铁回家（热度：36806）
 </a>
 </li>
 
@@ -442,13 +466,7 @@ A股还有三关要过（热度：110479）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%8E%E5%B7%B4%E5%AB%A9%E7%BD%91%E7%BA%A2%E5%8F%8C%E8%83%9E%E8%83%8E%E4%BD%8F%E6%89%80%E9%99%84%E8%BF%91%E9%81%AD%E8%BD%B0%E7%82%B8%23" target="weibo">
-黎巴嫩网红双胞胎住所附近遭轰炸（热度：30293）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%A0%A1%E6%96%B9%E7%A7%B0%E8%A2%AB%E6%89%93%E7%94%B7%E7%94%9F%E6%83%85%E5%86%B5%E6%B2%A1%E9%82%A3%E4%B9%88%E4%B8%A5%E9%87%8D%23" target="weibo">
-校方称被打男生情况没那么严重（热度：28150）
+黎巴嫩网红双胞胎住所附近遭轰炸（热度：31660）
 </a>
 </li>
 
@@ -471,8 +489,8 @@ A股还有三关要过（热度：110479）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%87%86%E5%A4%87%E8%BF%98%E6%AC%BE%E6%97%B6%E5%8F%91%E7%8E%B0%E6%88%BF%E5%B1%8B%E6%98%93%E4%B8%BB%E8%A2%AB%E6%8A%B5%E6%8A%BC%23" target="weibo">
-准备还款时发现房屋易主被抵押（热度：24913）
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%9B%BD%E5%BA%86%E5%89%8D%E6%9C%9F%E6%88%96%E5%8F%97%E5%8F%B0%E9%A3%8E%E5%B1%B1%E9%99%80%E5%84%BF%E5%BD%B1%E5%93%8D%23" target="weibo">
+上海国庆前期或受台风山陀儿影响（热度：23925）
 </a>
 </li>
 
@@ -483,8 +501,8 @@ A股还有三关要过（热度：110479）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%B1%9A%E5%AE%9D%E5%AE%9D4%E4%B8%AA%E6%9C%88%E5%B7%B2%E5%AD%A6%E4%BC%9A%E6%8D%89%E9%B1%BC%E5%96%B7%E6%B0%B4%23" target="weibo">
-江豚宝宝4个月已学会捉鱼喷水（热度：19322）
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E4%BA%AC%E7%9A%84%E5%9B%BD%E5%BA%86%E6%B0%9B%E5%9B%B4%E6%84%9F%E6%8B%89%E6%BB%A1%23" target="weibo">
+南京的国庆氛围感拉满（热度：20393）
 </a>
 </li>
 

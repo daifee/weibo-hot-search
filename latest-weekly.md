@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/09/29 00:25:58 ~ 2024/10/01 05:36:13
+本榜单时间：2024/09/29 00:25:58 ~ 2024/10/01 06:20:57
 </p>
 </blockquote>
 <p>
@@ -1887,6 +1887,12 @@ DXMON成员JO退团（热度：215333）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%8B%8F%E8%B7%AF%E6%AE%B5%E5%B7%B2%E5%87%BA%E7%8E%B0%E5%A4%A7%E9%87%8F%E8%BD%A6%E6%B5%81%23" target="weibo">
+江苏路段已出现大量车流（热度：215257）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8A%9F%E5%8B%8B%E6%A8%A1%E8%8C%83%E9%93%BF%E9%94%B5%E6%9C%89%E5%8A%9B%E5%94%B1%E6%AD%8C%E5%94%B1%E7%A5%96%E5%9B%BD%23" target="weibo">
 功勋模范铿锵有力唱歌唱祖国（热度：214541）
 </a>
@@ -3087,12 +3093,6 @@ A股上涨你四天赚了多少钱（热度：148709）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%8B%8F%E8%B7%AF%E6%AE%B5%E5%B7%B2%E5%87%BA%E7%8E%B0%E5%A4%A7%E9%87%8F%E8%BD%A6%E6%B5%81%23" target="weibo">
-江苏路段已出现大量车流（热度：147542）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E6%96%87%E8%BF%9E%E8%8E%B78%E5%B1%8A%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%B9%BB%E6%9C%80%E9%AB%98%E5%A5%96%23" target="weibo">
 网文连获8届中国科幻最高奖（热度：147064）
 </a>
@@ -3789,6 +3789,12 @@ A股 高开（热度：122906）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%8B%8E50%E4%B8%87%E7%8E%B0%E9%87%91%E5%87%BA%E5%BA%AD%E5%BD%92%E8%BF%98%E5%80%BA%E4%B8%BB%23" target="weibo">
+女子拎50万现金出庭归还债主（热度：122239）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%98%BF%E6%A0%B9%E5%BB%B7%E8%B4%AB%E5%9B%B0%E7%8E%87%E9%A3%99%E5%8D%87%E8%87%B3%E8%BF%9153%25%23" target="weibo">
 阿根廷贫困率飙升至近53%（热度：122142）
 </a>
@@ -4221,6 +4227,12 @@ A股杀回3200点（热度：111064）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BB%A5%E7%A9%BA%E5%86%9B%E9%A3%9E%E8%B6%8A1800%E5%85%AC%E9%87%8C%E7%A9%BA%E8%A2%AD%E4%B9%9F%E9%97%A8%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%85%23" target="weibo">
+以空军飞越1800公里空袭也门胡塞武装（热度：104279）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%A3%E5%8F%B7%E9%B8%A2%20%E9%99%88%E7%99%BB%E6%95%91%E4%BA%86%E4%B8%BB%E5%85%AC%E6%9C%80%E5%90%8E%E4%B8%80%E6%AC%A1%23" target="weibo">
 代号鸢 陈登救了主公最后一次（热度：104272）
 </a>
@@ -4551,14 +4563,14 @@ A股经历无比梦幻的一周（热度：89326）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E6%AD%8C%E5%A3%B0%E9%87%8C%E7%9A%84%E5%A4%A9%E9%AB%98%E6%B5%B7%E9%98%94%23" target="weibo">
-刘宇宁歌声里的天高海阔（热度：80526）
+<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E5%8F%96%E6%B6%88%E9%99%90%E8%B4%AD%E6%9C%89%E4%B8%AD%E4%BB%8B%E7%A7%B0%E8%BF%9E%E5%A4%9C%E5%BC%80%E5%A4%9A%E5%8D%95%23" target="weibo">
+广州取消限购有中介称连夜开多单（热度：81773）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BB%A5%E7%A9%BA%E5%86%9B%E9%A3%9E%E8%B6%8A1800%E5%85%AC%E9%87%8C%E7%A9%BA%E8%A2%AD%E4%B9%9F%E9%97%A8%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%85%23" target="weibo">
-以空军飞越1800公里空袭也门胡塞武装（热度：79163）
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E6%AD%8C%E5%A3%B0%E9%87%8C%E7%9A%84%E5%A4%A9%E9%AB%98%E6%B5%B7%E9%98%94%23" target="weibo">
+刘宇宁歌声里的天高海阔（热度：80526）
 </a>
 </li>
 
@@ -4827,14 +4839,14 @@ A股全天成交超2.6万亿元创纪录（热度：77928）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%B0%91%E7%86%99%20%E6%88%91%E6%8A%8A%E8%87%AA%E5%B7%B1%E5%85%BB%E7%9A%84%E5%BE%88%E5%A5%BD%23" target="weibo">
-陈少熙 我把自己养的很好（热度：58236）
+<a href="https://s.weibo.com/weibo?q=%23%E5%87%86%E5%A4%87%E8%BF%98%E6%AC%BE%E6%97%B6%E5%8F%91%E7%8E%B0%E6%88%BF%E5%B1%8B%E6%98%93%E4%B8%BB%E8%A2%AB%E6%8A%B5%E6%8A%BC%23" target="weibo">
+准备还款时发现房屋易主被抵押（热度：58398）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%8B%8E50%E4%B8%87%E7%8E%B0%E9%87%91%E5%87%BA%E5%BA%AD%E5%BD%92%E8%BF%98%E5%80%BA%E4%B8%BB%23" target="weibo">
-女子拎50万现金出庭归还债主（热度：58116）
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%B0%91%E7%86%99%20%E6%88%91%E6%8A%8A%E8%87%AA%E5%B7%B1%E5%85%BB%E7%9A%84%E5%BE%88%E5%A5%BD%23" target="weibo">
+陈少熙 我把自己养的很好（热度：58236）
 </a>
 </li>
 
@@ -5049,6 +5061,18 @@ G2（热度：45264）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%9F%B3%E7%A0%B4%E8%8C%82%E8%A6%81%E6%8E%A2%E8%AE%A8%E6%97%A5%E6%9C%AC%E5%BC%95%E5%85%A5%E7%BE%8E%E5%9B%BD%E6%A0%B8%E6%AD%A6%23" target="weibo">
+石破茂要探讨日本引入美国核武（热度：42608）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%A0%A1%E6%96%B9%E7%A7%B0%E8%A2%AB%E6%89%93%E7%94%B7%E7%94%9F%E6%83%85%E5%86%B5%E6%B2%A1%E9%82%A3%E4%B9%88%E4%B8%A5%E9%87%8D%23" target="weibo">
+校方称被打男生情况没那么严重（热度：42073）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E4%B8%AD%E5%9B%BD%E6%88%90%E7%AB%8B75%E5%91%A8%E5%B9%B4%E4%B8%BB%E9%A2%98%E5%AE%A3%E4%BC%A0%E7%89%87%23" target="weibo">
 新中国成立75周年主题宣传片（热度：41999）
 </a>
@@ -5105,6 +5129,12 @@ G2（热度：45264）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%AE%87%E6%98%A5%E6%96%B0%E6%AD%8C%E7%8C%AE%E7%A4%BC%E7%A5%96%E5%9B%BD%23" target="weibo">
 李宇春新歌献礼祖国（热度：39360）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%B1%9A%E5%AE%9D%E5%AE%9D4%E4%B8%AA%E6%9C%88%E5%B7%B2%E5%AD%A6%E4%BC%9A%E6%8D%89%E9%B1%BC%E5%96%B7%E6%B0%B4%23" target="weibo">
+江豚宝宝4个月已学会捉鱼喷水（热度：39167）
 </a>
 </li>
 
@@ -5177,12 +5207,6 @@ G2（热度：45264）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%B8%85%E4%B8%89%E8%BF%9E%E8%83%9C%23" target="weibo">
 张帅三连胜（热度：36103）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%9F%B3%E7%A0%B4%E8%8C%82%E8%A6%81%E6%8E%A2%E8%AE%A8%E6%97%A5%E6%9C%AC%E5%BC%95%E5%85%A5%E7%BE%8E%E5%9B%BD%E6%A0%B8%E6%AD%A6%23" target="weibo">
-石破茂要探讨日本引入美国核武（热度：35737）
 </a>
 </li>
 
@@ -5277,6 +5301,12 @@ G2（热度：45264）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BB%8E%E5%B7%B4%E5%AB%A9%E7%BD%91%E7%BA%A2%E5%8F%8C%E8%83%9E%E8%83%8E%E4%BD%8F%E6%89%80%E9%99%84%E8%BF%91%E9%81%AD%E8%BD%B0%E7%82%B8%23" target="weibo">
+黎巴嫩网红双胞胎住所附近遭轰炸（热度：31660）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%8E%E5%B7%B4%E5%AB%A9%E7%9C%9F%E4%B8%BB%E5%85%9A%E9%A2%86%E8%A2%96%E8%BA%AB%E4%BA%A1%E7%BB%86%E8%8A%82%E6%8A%AB%E9%9C%B2%23" target="weibo">
 黎巴嫩真主党领袖身亡细节披露（热度：31402）
 </a>
@@ -5285,12 +5315,6 @@ G2（热度：45264）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%B6%E7%AB%A5%E5%BD%93%E5%B9%B4%E4%B9%9F%E6%98%AF%E5%BE%88%E5%A4%9A%E4%BA%BA%E7%9A%84%E7%99%BD%E6%9C%88%E5%85%89%23" target="weibo">
 叶童当年也是很多人的白月光（热度：30975）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%BB%8E%E5%B7%B4%E5%AB%A9%E7%BD%91%E7%BA%A2%E5%8F%8C%E8%83%9E%E8%83%8E%E4%BD%8F%E6%89%80%E9%99%84%E8%BF%91%E9%81%AD%E8%BD%B0%E7%82%B8%23" target="weibo">
-黎巴嫩网红双胞胎住所附近遭轰炸（热度：30293）
 </a>
 </li>
 
@@ -5309,12 +5333,6 @@ G2（热度：45264）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E6%8F%90%E9%86%92%E8%9E%8D%E8%B5%84%E8%9E%8D%E5%88%B8%E9%9C%80%E6%B3%A8%E6%84%8F%E9%A3%8E%E9%99%A9%23" target="weibo">
 专家提醒融资融券需注意风险（热度：28616）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%A0%A1%E6%96%B9%E7%A7%B0%E8%A2%AB%E6%89%93%E7%94%B7%E7%94%9F%E6%83%85%E5%86%B5%E6%B2%A1%E9%82%A3%E4%B9%88%E4%B8%A5%E9%87%8D%23" target="weibo">
-校方称被打男生情况没那么严重（热度：28150）
 </a>
 </li>
 
@@ -5403,12 +5421,6 @@ G2（热度：45264）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%87%86%E5%A4%87%E8%BF%98%E6%AC%BE%E6%97%B6%E5%8F%91%E7%8E%B0%E6%88%BF%E5%B1%8B%E6%98%93%E4%B8%BB%E8%A2%AB%E6%8A%B5%E6%8A%BC%23" target="weibo">
-准备还款时发现房屋易主被抵押（热度：24913）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%233%E5%B9%B411%E5%B9%85%E4%B8%96%E7%95%8C%E5%90%8D%E7%94%BB%E8%A2%AB%E8%A2%AD%E5%87%BB%23" target="weibo">
 3年11幅世界名画被袭击（热度：24848）
 </a>
@@ -5417,6 +5429,12 @@ G2（热度：45264）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%9B%E9%81%93%E4%B8%8A%E7%9A%84%E6%98%BE%E7%9C%BC%E8%B1%B9%23" target="weibo">
 赛道上的显眼豹（热度：24254）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%9B%BD%E5%BA%86%E5%89%8D%E6%9C%9F%E6%88%96%E5%8F%97%E5%8F%B0%E9%A3%8E%E5%B1%B1%E9%99%80%E5%84%BF%E5%BD%B1%E5%93%8D%23" target="weibo">
+上海国庆前期或受台风山陀儿影响（热度：23925）
 </a>
 </li>
 
@@ -5493,14 +5511,14 @@ G2（热度：45264）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%AD%A5%E4%BC%90%23" target="weibo">
-中国步伐（热度：19782）
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E4%BA%AC%E7%9A%84%E5%9B%BD%E5%BA%86%E6%B0%9B%E5%9B%B4%E6%84%9F%E6%8B%89%E6%BB%A1%23" target="weibo">
+南京的国庆氛围感拉满（热度：20393）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%B1%9A%E5%AE%9D%E5%AE%9D4%E4%B8%AA%E6%9C%88%E5%B7%B2%E5%AD%A6%E4%BC%9A%E6%8D%89%E9%B1%BC%E5%96%B7%E6%B0%B4%23" target="weibo">
-江豚宝宝4个月已学会捉鱼喷水（热度：19322）
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%AD%A5%E4%BC%90%23" target="weibo">
+中国步伐（热度：19782）
 </a>
 </li>
 
