@@ -1,6 +1,6 @@
 {
   "startTime": 1727540758074,
-  "endTime": 1727665695716,
+  "endTime": 1727667223257,
   "band_list": [
     {
       "raw_hot": 2629801,
@@ -105,6 +105,14 @@
       "onboard_time": 1727580018,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1236225,
+      "num": 1236225,
+      "word": "A股疯牛",
+      "onboard_time": 1727662938,
+      "rank": 25,
+      "category": "财经"
     },
     {
       "raw_hot": 1207848,
@@ -460,7 +468,7 @@
     },
     {
       "raw_hot": 593348,
-      "num": 348649,
+      "num": 399228,
       "word": "潘玮柏 完蛋繁体跟简体不一样",
       "onboard_time": 1727661499,
       "rank": 37,
@@ -683,6 +691,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 478281,
+      "num": 478281,
+      "word": "90后00后投资者入市了",
+      "onboard_time": 1727661380,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 472480,
       "num": 461690,
       "word": "俩老人买黄金不问价店员果断报警",
@@ -713,6 +729,14 @@
       "onboard_time": 1727577979,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 446654,
+      "num": 402498,
+      "word": "迪丽热巴条纹毛衣搭花苞裙",
+      "onboard_time": 1727664380,
+      "rank": 17,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 446319,
@@ -779,20 +803,20 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 411010,
+      "num": 411010,
+      "word": "A股大涨上海马路股市沙龙人气旺",
+      "onboard_time": 1727663478,
+      "rank": 19,
+      "category": "财经"
+    },
+    {
       "raw_hot": 407781,
       "num": 407781,
       "word": "王楚钦眼里全是活儿",
       "onboard_time": 1727583680,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 406701,
-      "num": 328625,
-      "word": "迪丽热巴条纹毛衣搭花苞裙",
-      "onboard_time": 1727664380,
-      "rank": 17,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 402719,
@@ -883,6 +907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 385800,
+      "num": 385800,
+      "word": "回本",
+      "onboard_time": 1727663899,
+      "rank": 30,
+      "category": "财经"
+    },
+    {
       "raw_hot": 384920,
       "num": 222989,
       "word": "十个勤天玫瑰酪",
@@ -923,28 +955,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 369382,
-      "num": 325976,
-      "word": "A股大涨上海马路股市沙龙人气旺",
-      "onboard_time": 1727663478,
-      "rank": 19,
-      "category": "财经"
-    },
-    {
       "raw_hot": 369368,
       "num": 369368,
       "word": "TES",
       "onboard_time": 1727629514,
       "rank": 1,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 365028,
-      "num": 365028,
-      "word": "A股疯牛",
-      "onboard_time": 1727662938,
-      "rank": 25,
-      "category": "财经"
     },
     {
       "raw_hot": 364715,
@@ -987,6 +1003,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 347073,
+      "num": 405989,
+      "word": "烈士纪念日的天安门广场",
+      "onboard_time": 1727660900,
+      "rank": 16,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 344602,
       "num": 344602,
       "word": "如何一眼看出画的是广东",
@@ -1011,28 +1035,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 342149,
-      "num": 353860,
-      "word": "烈士纪念日的天安门广场",
-      "onboard_time": 1727660900,
-      "rank": 16,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 341762,
       "num": 341762,
       "word": "翁青雅彭高好嗑",
       "onboard_time": 1727571439,
       "rank": 9,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 341419,
-      "num": 341419,
-      "word": "90后00后投资者入市了",
-      "onboard_time": 1727661380,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 338406,
@@ -1104,6 +1112,14 @@
       "word": "骗子把老人所有定期存款转成活期",
       "onboard_time": 1727629155,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 323722,
+      "num": 358297,
+      "word": "35分钟A股成交额突破1万亿",
+      "onboard_time": 1727663839,
+      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -1211,6 +1227,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 296349,
+      "num": 285184,
+      "word": "爸爸生日女儿花30元送仿真土豪三件套",
+      "onboard_time": 1727664318,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 296123,
       "num": 296123,
       "word": "赵丽颖不敢对李红樱感同身受",
@@ -1275,14 +1299,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 285184,
-      "num": 285184,
-      "word": "爸爸生日女儿花30元送仿真土豪三件套",
-      "onboard_time": 1727664318,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 284823,
       "num": 303861,
       "word": "100万房贷每年节约利息5600元",
@@ -1304,6 +1320,14 @@
       "word": "范思琦3比2王艺迪",
       "onboard_time": 1727614940,
       "rank": 25,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 278254,
+      "num": 278254,
+      "word": "张本美和说孙颖莎是最厉害的",
+      "onboard_time": 1727664799,
+      "rank": 47,
       "category": "体育"
     },
     {
@@ -1433,6 +1457,14 @@
       "onboard_time": 1727551452,
       "rank": 9,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 250227,
+      "num": 250227,
+      "word": "斯坦福博士已入职乡镇公务员岗",
+      "onboard_time": 1727666419,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 247479,
@@ -1707,6 +1739,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 212026,
+      "num": 212026,
+      "word": "杨紫回应秀场wink",
+      "onboard_time": 1727665219,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 211650,
       "num": 190728,
       "word": "刘浩存学院风",
@@ -1915,6 +1955,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 196450,
+      "num": 196450,
+      "word": "黄小蕾说有王心凌真好",
+      "onboard_time": 1727666359,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 196360,
       "num": 196360,
       "word": "WTT中国大满贯开幕式",
@@ -1947,12 +1995,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 193931,
-      "num": 193931,
-      "word": "张本美和说孙颖莎是最厉害的",
-      "onboard_time": 1727664799,
-      "rank": 47,
-      "category": "体育"
+      "raw_hot": 193971,
+      "num": 193971,
+      "word": "赵丽颖格物观己",
+      "onboard_time": 1727665940,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 193439,
@@ -2043,14 +2091,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 189794,
-      "num": 194982,
-      "word": "回本",
-      "onboard_time": 1727663899,
-      "rank": 30,
-      "category": "财经"
-    },
-    {
       "raw_hot": 189565,
       "num": 206852,
       "word": "樊振东感谢中网邀请",
@@ -2065,6 +2105,14 @@
       "onboard_time": 1727655618,
       "rank": 32,
       "category": "国内时政,社会新闻"
+    },
+    {
+      "raw_hot": 188465,
+      "num": 188465,
+      "word": "基金",
+      "onboard_time": 1727664859,
+      "rank": 33,
+      "category": "财经"
     },
     {
       "raw_hot": 188193,
@@ -2211,14 +2259,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 178879,
-      "num": 178879,
-      "word": "基金",
-      "onboard_time": 1727664859,
-      "rank": 33,
-      "category": "财经"
-    },
-    {
       "raw_hot": 178197,
       "num": 208756,
       "word": "以军称打死黎真主党领导人纳斯鲁拉",
@@ -2299,6 +2339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 173097,
+      "num": 173097,
+      "word": "心动的信号7",
+      "onboard_time": 1727666059,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 172802,
       "num": 172802,
       "word": "刘学义吴谨言春花焰团综路透",
@@ -2336,14 +2384,6 @@
       "word": "韩国大白菜紧缺",
       "onboard_time": 1727535681,
       "rank": 8,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 170965,
-      "num": 358297,
-      "word": "35分钟A股成交额突破1万亿",
-      "onboard_time": 1727663839,
-      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -2499,12 +2539,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 160632,
-      "num": 160632,
-      "word": "杨紫回应秀场wink",
-      "onboard_time": 1727665219,
-      "rank": 38,
-      "category": "作品衍生"
+      "raw_hot": 161723,
+      "num": 161723,
+      "word": "A股超5300股上涨",
+      "onboard_time": 1727666239,
+      "rank": 36,
+      "category": "财经"
     },
     {
       "raw_hot": 160136,
@@ -2987,6 +3027,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 133564,
+      "num": 481970,
+      "word": "烈士纪念日向人民英雄敬献花篮",
+      "onboard_time": 1727661739,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 133419,
       "num": 133419,
       "word": "上交所竞价系统接收报单2.7亿笔",
@@ -3435,6 +3483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 116250,
+      "num": 116250,
+      "word": "专家称黄金周买房量会大增",
+      "onboard_time": 1727666298,
+      "rank": 46,
+      "category": "财经"
+    },
+    {
       "raw_hot": 115421,
       "num": 293810,
       "word": "暗恋是蒋时延一个人的兵荒马乱",
@@ -3489,6 +3545,14 @@
       "onboard_time": 1727574137,
       "rank": 42,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 112992,
+      "num": 112992,
+      "word": "拜登称将很快与以色列总理交谈",
+      "onboard_time": 1727664979,
+      "rank": 47,
+      "category": "国外时政"
     },
     {
       "raw_hot": 112599,
@@ -3627,6 +3691,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 102196,
+      "num": 102196,
+      "word": "aespa未来感预告",
+      "onboard_time": 1727665760,
+      "rank": 49,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 100961,
       "num": 100961,
       "word": "孙佳俊真成孤泳者了",
@@ -3691,6 +3763,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 95325,
+      "num": 231969,
+      "word": "周深直播都不忘控场",
+      "onboard_time": 1727665818,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 93173,
       "num": 382927,
       "word": "到底是谁抢到了霸王茶姬宠物周边",
@@ -3745,6 +3825,14 @@
       "onboard_time": 1727568197,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 87217,
+      "num": 251118,
+      "word": "券商感慨被骂三年终于做人",
+      "onboard_time": 1727666118,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 87211,
@@ -4235,14 +4323,6 @@
       "category": "社会新闻,国内时政"
     },
     {
-      "raw_hot": 48989,
-      "num": 481970,
-      "word": "烈士纪念日向人民英雄敬献花篮",
-      "onboard_time": 1727661739,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 47141,
       "num": 97535,
       "word": "音乐缘计划",
@@ -4308,7 +4388,7 @@
     },
     {
       "raw_hot": 43707,
-      "num": 165838,
+      "num": 282676,
       "word": "阿祖这次还没收手",
       "onboard_time": 1727665459,
       "rank": 37,
@@ -4361,6 +4441,14 @@
       "onboard_time": 1727547252,
       "rank": 24,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 39122,
+      "num": 194122,
+      "word": "美官员称纳斯鲁拉死了才更安全",
+      "onboard_time": 1727667079,
+      "rank": 29,
+      "category": "国外时政"
     },
     {
       "raw_hot": 37764,
@@ -4420,7 +4508,7 @@
     },
     {
       "raw_hot": 35219,
-      "num": 125207,
+      "num": 289084,
       "word": "超牛的贴秋膘指南",
       "onboard_time": 1727665459,
       "rank": 45,
