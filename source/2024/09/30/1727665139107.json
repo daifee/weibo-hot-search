@@ -1,0 +1,410 @@
+{
+  "runTime": 1727665139107,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1304524,
+        "num": 1304524,
+        "word": "股民称A股爆火赚4.7万其中5万是本",
+        "onboard_time": 1727661559,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 546790,
+        "num": 546790,
+        "word": "撒贝宁北大保送含金量还在上升",
+        "onboard_time": 1727658259,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 4120,
+        "num": 540792,
+        "word": "何以英雄他们给出了闪亮的答案",
+        "onboard_time": 1727616198,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 539828,
+        "num": 539828,
+        "word": "A股",
+        "onboard_time": 1727659518,
+        "rank": 3,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 364308,
+        "num": 364308,
+        "word": "外媒称真主党高层几乎被团灭",
+        "onboard_time": 1727656461,
+        "rank": 4,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 203940,
+        "num": 362864,
+        "word": "749局",
+        "onboard_time": 1727656518,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 48673,
+        "num": 360756,
+        "word": "烈士纪念日向人民英雄敬献花篮",
+        "onboard_time": 1727661739,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170965,
+        "num": 358297,
+        "word": "35分钟A股成交额突破1万亿",
+        "onboard_time": 1727663839,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 10361,
+        "num": 357327,
+        "word": "奔赴山与海征途向未来",
+        "onboard_time": 1727581338,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 339251,
+        "num": 353860,
+        "word": "烈士纪念日的天安门广场",
+        "onboard_time": 1727660900,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 691286,
+        "num": 350961,
+        "word": "董宇辉 居里夫人",
+        "onboard_time": 1727656042,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 593348,
+        "num": 348649,
+        "word": "潘玮柏 完蛋繁体跟简体不一样",
+        "onboard_time": 1727661499,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 504384,
+        "num": 347762,
+        "word": "李美珍生理期跑完马拉松",
+        "onboard_time": 1727658259,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122906,
+        "num": 345541,
+        "word": "A股 高开",
+        "onboard_time": 1727663539,
+        "rank": 13,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 140630,
+        "num": 342964,
+        "word": "股民说希望在1万点胜利大会师",
+        "onboard_time": 1727662278,
+        "rank": 14,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 341419,
+        "num": 341419,
+        "word": "90后00后投资者入市了",
+        "onboard_time": 1727661380,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 309906,
+        "num": 309906,
+        "word": "女子收到12306八百万退款短信",
+        "onboard_time": 1727617880,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 295342,
+        "num": 295342,
+        "word": "迪丽热巴条纹毛衣搭花苞裙",
+        "onboard_time": 1727664380,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 41508,
+        "num": 292889,
+        "word": "补仓",
+        "onboard_time": 1727664439,
+        "rank": 18,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 292401,
+        "num": 292401,
+        "word": "A股大涨上海马路股市沙龙人气旺",
+        "onboard_time": 1727663478,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 461013,
+        "num": 289416,
+        "word": "男生玩抽皮条不慎将血管抽爆",
+        "onboard_time": 1727660959,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 275251,
+        "num": 275251,
+        "word": "广州官宣楼市取消限购",
+        "onboard_time": 1727623940,
+        "rank": 21,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 235493,
+        "num": 235493,
+        "word": "爸爸生日女儿花30元送仿真土豪三件套",
+        "onboard_time": 1727664318,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229104,
+        "num": 229104,
+        "word": "黄晓明再现我不要你觉得",
+        "onboard_time": 1727656042,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213179,
+        "num": 213179,
+        "word": "杨紫透露10月底进组家业",
+        "onboard_time": 1727661678,
+        "rank": 24,
+        "category": "剧集,作品衍生"
+      },
+      {
+        "raw_hot": 209029,
+        "num": 209029,
+        "word": "A股疯牛",
+        "onboard_time": 1727662938,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 206257,
+        "num": 206257,
+        "word": "Henry的小提琴拉的快冒烟了",
+        "onboard_time": 1727664380,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 201222,
+        "num": 201222,
+        "word": "内塔尼亚胡称以色列已到历史转折点",
+        "onboard_time": 1727621661,
+        "rank": 27,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 198148,
+        "num": 198148,
+        "word": "十月行程图",
+        "onboard_time": 1727664618,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 177960,
+        "num": 195460,
+        "word": "明日有晴天 父女亲情",
+        "onboard_time": 1727664078,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189794,
+        "num": 194982,
+        "word": "回本",
+        "onboard_time": 1727663899,
+        "rank": 30,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 194928,
+        "num": 194928,
+        "word": "烈士纪念日向烈士默哀",
+        "onboard_time": 1727663419,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 189850,
+        "num": 189850,
+        "word": "股市",
+        "onboard_time": 1727660116,
+        "rank": 32,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 176476,
+        "num": 176476,
+        "word": "基金",
+        "onboard_time": 1727664859,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 167821,
+        "num": 167821,
+        "word": "山河无恙致敬先烈",
+        "onboard_time": 1727658740,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 166508,
+        "num": 166508,
+        "word": "程潇说妹妹和自己性格一模一样",
+        "onboard_time": 1727663119,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164952,
+        "num": 164952,
+        "word": "丁真介绍自己出圈照",
+        "onboard_time": 1727657899,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162779,
+        "num": 162779,
+        "word": "A股开盘三大指数集体暴涨",
+        "onboard_time": 1727664919,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 162354,
+        "num": 162354,
+        "word": "我国第十一个烈士纪念日",
+        "onboard_time": 1727655618,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 156512,
+        "num": 156512,
+        "word": "沪深两市刷新历史最快万亿纪录",
+        "onboard_time": 1727663899,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 149001,
+        "num": 149001,
+        "word": "伊藤美诚采访提到陈梦",
+        "onboard_time": 1727656100,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 141920,
+        "num": 141920,
+        "word": "第一次见会动的纹身",
+        "onboard_time": 1727661739,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 140085,
+        "num": 140085,
+        "word": "重庆断崖式降温你准备好了吗",
+        "onboard_time": 1727634673,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139659,
+        "num": 139659,
+        "word": "礼兵将9个花篮稳稳摆好",
+        "onboard_time": 1727665039,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 138362,
+        "num": 138362,
+        "word": "中信建投证券崩了",
+        "onboard_time": 1727664138,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 136428,
+        "num": 136428,
+        "word": "房地产板块大爆发",
+        "onboard_time": 1727664680,
+        "rank": 45,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 135446,
+        "num": 135446,
+        "word": "以国之名敬英雄",
+        "onboard_time": 1727662639,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 132114,
+        "num": 132114,
+        "word": "张本美和说孙颖莎是最厉害的",
+        "onboard_time": 1727664799,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126405,
+        "num": 126405,
+        "word": "俩老人买黄金不问价店员果断报警",
+        "onboard_time": 1727611399,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124331,
+        "num": 124331,
+        "word": "骗子把老人所有定期存款转成活期",
+        "onboard_time": 1727629155,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#150秒回顾这场勋章奖章颁授仪式#"
+    }
+  }
+}

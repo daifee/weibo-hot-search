@@ -1,6 +1,6 @@
 {
   "startTime": 1727540758074,
-  "endTime": 1727661918885,
+  "endTime": 1727665139107,
   "band_list": [
     {
       "raw_hot": 2629801,
@@ -81,6 +81,14 @@
       "onboard_time": 1727576298,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1304524,
+      "num": 1304524,
+      "word": "股民称A股爆火赚4.7万其中5万是本",
+      "onboard_time": 1727661559,
+      "rank": 34,
+      "category": "财经"
     },
     {
       "raw_hot": 1285416,
@@ -451,6 +459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 593348,
+      "num": 348649,
+      "word": "潘玮柏 完蛋繁体跟简体不一样",
+      "onboard_time": 1727661499,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 584315,
       "num": 236506,
       "word": "网红自曝开劳被人持刀携爆炸物抢劫",
@@ -611,6 +627,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 504384,
+      "num": 412707,
+      "word": "李美珍生理期跑完马拉松",
+      "onboard_time": 1727658259,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 501024,
       "num": 501024,
       "word": "张碧晨武艺只差一岁被人认成母子",
@@ -675,6 +699,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 461013,
+      "num": 298420,
+      "word": "男生玩抽皮条不慎将血管抽爆",
+      "onboard_time": 1727660959,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 458600,
       "num": 333065,
       "word": "男子为了出气杀害表哥一家四口",
@@ -721,14 +753,6 @@
       "onboard_time": 1727534480,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 412707,
-      "num": 412707,
-      "word": "李美珍生理期跑完马拉松",
-      "onboard_time": 1727658259,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 411949,
@@ -891,20 +915,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 368651,
-      "num": 298420,
-      "word": "男生玩抽皮条不慎将血管抽爆",
-      "onboard_time": 1727660959,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 364715,
       "num": 364715,
       "word": "范思琦vs王艺迪",
       "onboard_time": 1727614518,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 364308,
+      "num": 364308,
+      "word": "外媒称真主党高层几乎被团灭",
+      "onboard_time": 1727656461,
+      "rank": 19,
+      "category": "国外时政"
     },
     {
       "raw_hot": 357820,
@@ -971,8 +995,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 341419,
+      "num": 341419,
+      "word": "90后00后投资者入市了",
+      "onboard_time": 1727661380,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 340728,
-      "num": 340728,
+      "num": 353860,
       "word": "烈士纪念日的天安门广场",
       "onboard_time": 1727660900,
       "rank": 16,
@@ -1171,6 +1203,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 295342,
+      "num": 295342,
+      "word": "迪丽热巴条纹毛衣搭花苞裙",
+      "onboard_time": 1727664380,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 294109,
       "num": 285736,
       "word": "网曝女子买一颗话梅被收71.6元",
@@ -1185,6 +1225,14 @@
       "onboard_time": 1727587459,
       "rank": 22,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 292401,
+      "num": 292401,
+      "word": "A股大涨上海马路股市沙龙人气旺",
+      "onboard_time": 1727663478,
+      "rank": 19,
+      "category": "财经"
     },
     {
       "raw_hot": 292369,
@@ -1403,14 +1451,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 242626,
-      "num": 242626,
-      "word": "外媒称真主党高层几乎被团灭",
-      "onboard_time": 1727656461,
-      "rank": 19,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 239618,
       "num": 239618,
       "word": "丁真介绍自己出圈照",
@@ -1464,6 +1504,14 @@
       "word": "因大龄单身被嘲笑将老鼠药注食品",
       "onboard_time": 1727624359,
       "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 235493,
+      "num": 235493,
+      "word": "爸爸生日女儿花30元送仿真土豪三件套",
+      "onboard_time": 1727664318,
+      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -1619,6 +1667,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 213179,
+      "num": 213179,
+      "word": "杨紫透露10月底进组家业",
+      "onboard_time": 1727661678,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 213095,
       "num": 213095,
       "word": "死亡搁浅2",
@@ -1691,6 +1747,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 209029,
+      "num": 209029,
+      "word": "A股疯牛",
+      "onboard_time": 1727662938,
+      "rank": 25,
+      "category": "财经"
+    },
+    {
       "raw_hot": 208977,
       "num": 208977,
       "word": "我们的歌",
@@ -1705,6 +1769,14 @@
       "onboard_time": 1727583019,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 206257,
+      "num": 206257,
+      "word": "Henry的小提琴拉的快冒烟了",
+      "onboard_time": 1727664380,
+      "rank": 26,
+      "category": "演出"
     },
     {
       "raw_hot": 205815,
@@ -1779,6 +1851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 198148,
+      "num": 198148,
+      "word": "十月行程图",
+      "onboard_time": 1727664618,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 198057,
       "num": 198057,
       "word": "恋与制作人",
@@ -1849,6 +1929,14 @@
       "onboard_time": 1727621720,
       "rank": 29,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 194928,
+      "num": 194928,
+      "word": "烈士纪念日向烈士默哀",
+      "onboard_time": 1727663419,
+      "rank": 31,
+      "category": "国内时政"
     },
     {
       "raw_hot": 194425,
@@ -1947,6 +2035,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 189794,
+      "num": 194982,
+      "word": "回本",
+      "onboard_time": 1727663899,
+      "rank": 30,
+      "category": "财经"
+    },
+    {
       "raw_hot": 189565,
       "num": 206852,
       "word": "樊振东感谢中网邀请",
@@ -2025,14 +2121,6 @@
       "onboard_time": 1727602581,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 184697,
-      "num": 184697,
-      "word": "股民称A股爆火赚4.7万其中5万是本",
-      "onboard_time": 1727661559,
-      "rank": 34,
-      "category": "财经"
     },
     {
       "raw_hot": 182860,
@@ -2115,6 +2203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 177960,
+      "num": 195460,
+      "word": "明日有晴天 父女亲情",
+      "onboard_time": 1727664078,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 177680,
       "num": 177680,
       "word": "要推动全社会尊崇英雄",
@@ -2129,6 +2225,14 @@
       "onboard_time": 1727601679,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 176476,
+      "num": 176476,
+      "word": "基金",
+      "onboard_time": 1727664859,
+      "rank": 33,
+      "category": "财经"
     },
     {
       "raw_hot": 176098,
@@ -2211,6 +2315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 170965,
+      "num": 358297,
+      "word": "35分钟A股成交额突破1万亿",
+      "onboard_time": 1727663839,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 169768,
       "num": 169768,
       "word": "看见这幅画隔屏闻见吉林鱼香了",
@@ -2273,6 +2385,14 @@
       "onboard_time": 1727592918,
       "rank": 35,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 166508,
+      "num": 166508,
+      "word": "程潇说妹妹和自己性格一模一样",
+      "onboard_time": 1727663119,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 165257,
@@ -2347,6 +2467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 162779,
+      "num": 162779,
+      "word": "A股开盘三大指数集体暴涨",
+      "onboard_time": 1727664919,
+      "rank": 37,
+      "category": "财经"
+    },
+    {
       "raw_hot": 162298,
       "num": 162298,
       "word": "断崖式降温换季来了",
@@ -2419,20 +2547,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 156893,
-      "num": 156893,
-      "word": "潘玮柏 完蛋繁体跟简体不一样",
-      "onboard_time": 1727661499,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 156739,
       "num": 156739,
       "word": "周深时代少年团互唱对方的歌",
       "onboard_time": 1727580980,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 156512,
+      "num": 156512,
+      "word": "沪深两市刷新历史最快万亿纪录",
+      "onboard_time": 1727663899,
+      "rank": 39,
+      "category": "财经"
     },
     {
       "raw_hot": 156510,
@@ -2627,12 +2755,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 141920,
+      "num": 141920,
+      "word": "第一次见会动的纹身",
+      "onboard_time": 1727661739,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 141613,
       "num": 228136,
       "word": "樊振东阿尔卡拉斯拍立得",
       "onboard_time": 1727615841,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 140630,
+      "num": 342964,
+      "word": "股民说希望在1万点胜利大会师",
+      "onboard_time": 1727662278,
+      "rank": 14,
+      "category": "财经"
     },
     {
       "raw_hot": 140112,
@@ -2649,6 +2793,14 @@
       "onboard_time": 1727536041,
       "rank": 23,
       "category": "美食"
+    },
+    {
+      "raw_hot": 139659,
+      "num": 139659,
+      "word": "礼兵将9个花篮稳稳摆好",
+      "onboard_time": 1727665039,
+      "rank": 43,
+      "category": "国内时政"
     },
     {
       "raw_hot": 139624,
@@ -2681,6 +2833,14 @@
       "onboard_time": 1727605998,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 138362,
+      "num": 138362,
+      "word": "中信建投证券崩了",
+      "onboard_time": 1727664138,
+      "rank": 44,
+      "category": "财经"
     },
     {
       "raw_hot": 138288,
@@ -2723,12 +2883,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 136214,
-      "num": 136214,
-      "word": "杨紫透露10月底进组家业",
-      "onboard_time": 1727661678,
-      "rank": 42,
-      "category": "剧集"
+      "raw_hot": 136428,
+      "num": 136428,
+      "word": "房地产板块大爆发",
+      "onboard_time": 1727664680,
+      "rank": 45,
+      "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 135446,
+      "num": 135446,
+      "word": "以国之名敬英雄",
+      "onboard_time": 1727662639,
+      "rank": 46,
+      "category": "国内时政"
     },
     {
       "raw_hot": 135415,
@@ -2801,6 +2969,14 @@
       "onboard_time": 1727599098,
       "rank": 46,
       "category": "财经"
+    },
+    {
+      "raw_hot": 132114,
+      "num": 132114,
+      "word": "张本美和说孙颖莎是最厉害的",
+      "onboard_time": 1727664799,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 131525,
@@ -3017,6 +3193,14 @@
       "onboard_time": 1727574557,
       "rank": 42,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 122906,
+      "num": 345541,
+      "word": "A股 高开",
+      "onboard_time": 1727663539,
+      "rank": 13,
+      "category": "财经"
     },
     {
       "raw_hot": 122774,
@@ -4105,6 +4289,14 @@
       "onboard_time": 1727640491,
       "rank": 45,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 41508,
+      "num": 292889,
+      "word": "补仓",
+      "onboard_time": 1727664439,
+      "rank": 18,
+      "category": "财经"
     },
     {
       "raw_hot": 41198,
