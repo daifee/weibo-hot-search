@@ -1,9 +1,9 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1727713697354,
+  "endTime": 1727714761102,
   "band_list": [
     {
-      "raw_hot": 1321277,
+      "raw_hot": 1370014,
       "num": 241785,
       "word": "女子称一丝不挂被2次刷开酒店房门",
       "onboard_time": 1727710519,
@@ -19,7 +19,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 709980,
+      "raw_hot": 777132,
       "num": 901253,
       "word": "国庆节",
       "onboard_time": 1727712799,
@@ -91,6 +91,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 379618,
+      "num": 379618,
+      "word": "我的身份证上有你的名字",
+      "onboard_time": 1727711179,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 296297,
       "num": 296297,
       "word": "马龙采访被儿子打断",
@@ -120,14 +128,6 @@
       "word": "北京楼市出台一揽子新政",
       "onboard_time": 1727708121,
       "rank": 6,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 244618,
-      "num": 244618,
-      "word": "我的身份证上有你的名字",
-      "onboard_time": 1727711179,
-      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -163,20 +163,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 216640,
+      "num": 194314,
+      "word": "关晓彤帽子好像特效",
+      "onboard_time": 1727712140,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 208422,
+      "num": 208422,
+      "word": "祖国万岁",
+      "onboard_time": 1727713638,
+      "rank": 42,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 207070,
       "num": 207070,
       "word": "马龙一家四口同框",
       "onboard_time": 1727706620,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 190972,
-      "num": 190972,
-      "word": "关晓彤帽子好像特效",
-      "onboard_time": 1727712140,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 183543,
@@ -203,6 +211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 156660,
+      "num": 156660,
+      "word": "校方回应男生遭同学多次用板凳砸头",
+      "onboard_time": 1727712440,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 156620,
       "num": 156620,
       "word": "台湾首来大陆同胞1256个景区免票",
@@ -224,14 +240,6 @@
       "word": "5岁幼童遭8岁男孩强行推入水池",
       "onboard_time": 1727702479,
       "rank": 28,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 139979,
-      "num": 139979,
-      "word": "校方回应男生遭同学多次用板凳砸头",
-      "onboard_time": 1727712440,
-      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -299,6 +307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 95382,
+      "num": 103639,
+      "word": "北京五环内购房社保年限5改3",
+      "onboard_time": 1727708959,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 90979,
       "num": 104076,
       "word": "俞灏明谈公布恋情",
@@ -331,14 +347,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 78185,
-      "num": 103791,
-      "word": "祖国万岁",
-      "onboard_time": 1727713638,
-      "rank": 42,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 76141,
       "num": 103730,
       "word": "郑钦文羡慕大家国庆放假",
@@ -353,14 +361,6 @@
       "onboard_time": 1727706562,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 75590,
-      "num": 103639,
-      "word": "北京五环内购房社保年限5改3",
-      "onboard_time": 1727708959,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 73745,
@@ -387,10 +387,34 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 68597,
+      "num": 114945,
+      "word": "今年国庆档新片票房破2亿",
+      "onboard_time": 1727702359,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 63493,
+      "num": 92563,
+      "word": "中俄巴伊四国外长联合声明",
+      "onboard_time": 1727697919,
+      "rank": 47,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 58028,
       "num": 103350,
       "word": "志愿军存亡之战",
       "onboard_time": 1727691138,
+      "rank": 49,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 55703,
+      "num": 92531,
+      "word": "抓娃娃",
+      "onboard_time": 1727696179,
       "rank": 49,
       "category": "电影"
     },

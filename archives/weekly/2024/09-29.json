@@ -1,6 +1,6 @@
 {
   "startTime": 1727540758074,
-  "endTime": 1727713697354,
+  "endTime": 1727714761102,
   "band_list": [
     {
       "raw_hot": 2629801,
@@ -155,20 +155,20 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 1370014,
+      "num": 241785,
+      "word": "女子称一丝不挂被2次刷开酒店房门",
+      "onboard_time": 1727710519,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1361321,
       "num": 745002,
       "word": "马龙采访被儿子打断",
       "onboard_time": 1727702780,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1321277,
-      "num": 241785,
-      "word": "女子称一丝不挂被2次刷开酒店房门",
-      "onboard_time": 1727710519,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1316837,
@@ -483,6 +483,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 777132,
+      "num": 901253,
+      "word": "国庆节",
+      "onboard_time": 1727712799,
+      "rank": 0,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 766593,
       "num": 766593,
       "word": "张本智和说自己算上上签",
@@ -561,14 +569,6 @@
       "onboard_time": 1727679319,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 709980,
-      "num": 901253,
-      "word": "国庆节",
-      "onboard_time": 1727712799,
-      "rank": 0,
-      "category": "国内时政"
     },
     {
       "raw_hot": 706396,
@@ -1387,6 +1387,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 379618,
+      "num": 379618,
+      "word": "我的身份证上有你的名字",
+      "onboard_time": 1727711179,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 377321,
       "num": 314591,
       "word": "迪丽热巴登人民日报宣传片",
@@ -2179,14 +2187,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 244618,
-      "num": 244618,
-      "word": "我的身份证上有你的名字",
-      "onboard_time": 1727711179,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 243990,
       "num": 245269,
       "word": "10月你好",
@@ -2459,6 +2459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 216640,
+      "num": 194314,
+      "word": "关晓彤帽子好像特效",
+      "onboard_time": 1727712140,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 215976,
       "num": 215976,
       "word": "基金",
@@ -2609,6 +2617,14 @@
       "onboard_time": 1727680401,
       "rank": 32,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 208422,
+      "num": 208422,
+      "word": "祖国万岁",
+      "onboard_time": 1727713638,
+      "rank": 42,
+      "category": "国内时政"
     },
     {
       "raw_hot": 207742,
@@ -3017,14 +3033,6 @@
       "onboard_time": 1727622201,
       "rank": 31,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 190972,
-      "num": 190972,
-      "word": "关晓彤帽子好像特效",
-      "onboard_time": 1727712140,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 190971,
@@ -3867,6 +3875,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 156660,
+      "num": 156660,
+      "word": "校方回应男生遭同学多次用板凳砸头",
+      "onboard_time": 1727712440,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 156512,
       "num": 156512,
       "word": "沪深两市刷新历史最快万亿纪录",
@@ -4273,14 +4289,6 @@
       "onboard_time": 1727588239,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 139979,
-      "num": 139979,
-      "word": "校方回应男生遭同学多次用板凳砸头",
-      "onboard_time": 1727712440,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 139864,
@@ -5803,6 +5811,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 95382,
+      "num": 317269,
+      "word": "北京五环内购房社保年限5改3",
+      "onboard_time": 1727708959,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 95325,
       "num": 231969,
       "word": "周深直播都不忘控场",
@@ -6027,14 +6043,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 78185,
-      "num": 103791,
-      "word": "祖国万岁",
-      "onboard_time": 1727713638,
-      "rank": 42,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 78043,
       "num": 157411,
       "word": "付鹏与男子合影",
@@ -6089,14 +6097,6 @@
       "onboard_time": 1727704820,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 75590,
-      "num": 317269,
-      "word": "北京五环内购房社保年限5改3",
-      "onboard_time": 1727708959,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 75539,
