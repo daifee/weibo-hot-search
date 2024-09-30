@@ -1,14 +1,46 @@
 {
   "startTime": 1727627182055,
-  "endTime": 1727652917886,
+  "endTime": 1727660684095,
   "band_list": [
     {
+      "raw_hot": 1520926,
+      "num": 1520926,
+      "word": "A股",
+      "onboard_time": 1727659518,
+      "rank": 0,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 1285416,
+      "num": 1285416,
+      "word": "撒贝宁北大保送含金量还在上升",
+      "onboard_time": 1727658259,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1207848,
+      "num": 344467,
+      "word": "董宇辉 居里夫人",
+      "onboard_time": 1727656042,
+      "rank": 11,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1153138,
-      "num": 260939,
+      "num": 337728,
       "word": "女子收到12306八百万退款短信",
       "onboard_time": 1727617880,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 927506,
+      "num": 343209,
+      "word": "黄晓明再现我不要你觉得",
+      "onboard_time": 1727656042,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 837753,
@@ -25,6 +57,14 @@
       "onboard_time": 1727622020,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 624198,
+      "num": 624198,
+      "word": "伊藤美诚采访提到陈梦",
+      "onboard_time": 1727656100,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 577171,
@@ -67,12 +107,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 399883,
+      "num": 399883,
+      "word": "749局",
+      "onboard_time": 1727656518,
+      "rank": 4,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 375419,
+      "num": 375419,
+      "word": "重庆断崖式降温你准备好了吗",
+      "onboard_time": 1727634673,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 369368,
       "num": 369368,
       "word": "TES",
       "onboard_time": 1727629514,
       "rank": 1,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 332166,
+      "num": 332166,
+      "word": "股市",
+      "onboard_time": 1727660116,
+      "rank": 14,
+      "category": "财经"
     },
     {
       "raw_hot": 331224,
@@ -83,12 +147,28 @@
       "category": "网红"
     },
     {
-      "raw_hot": 317784,
-      "num": 317784,
-      "word": "重庆断崖式降温你准备好了吗",
-      "onboard_time": 1727634673,
-      "rank": 47,
+      "raw_hot": 324257,
+      "num": 324257,
+      "word": "骗子把老人所有定期存款转成活期",
+      "onboard_time": 1727629155,
+      "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 315796,
+      "num": 315796,
+      "word": "朱军任北京市委常委",
+      "onboard_time": 1727654898,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 305722,
+      "num": 305722,
+      "word": "恋与深空",
+      "onboard_time": 1727658799,
+      "rank": 17,
+      "category": "游戏"
     },
     {
       "raw_hot": 298698,
@@ -123,12 +203,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 255899,
-      "num": 255899,
-      "word": "骗子把老人所有定期存款转成活期",
-      "onboard_time": 1727629155,
-      "rank": 46,
-      "category": "社会新闻"
+      "raw_hot": 268782,
+      "num": 228856,
+      "word": "熊 最讨厌抢功劳的同事",
+      "onboard_time": 1727657240,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 262842,
+      "num": 262842,
+      "word": "李美珍生理期跑完马拉松",
+      "onboard_time": 1727658259,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 250805,
@@ -171,6 +259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 242626,
+      "num": 242626,
+      "word": "外媒称真主党高层几乎被团灭",
+      "onboard_time": 1727656461,
+      "rank": 19,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 242530,
       "num": 209520,
       "word": "杨紫张晚意秀场同框",
@@ -211,6 +307,46 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 214640,
+      "num": 214640,
+      "word": "我国第十一个烈士纪念日",
+      "onboard_time": 1727655618,
+      "rank": 23,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 212229,
+      "num": 212229,
+      "word": "王一博网球发球",
+      "onboard_time": 1727659699,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 206624,
+      "num": 206624,
+      "word": "股票",
+      "onboard_time": 1727660361,
+      "rank": 25,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 205956,
+      "num": 205956,
+      "word": "丁真介绍自己出圈照",
+      "onboard_time": 1727657899,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 192844,
+      "num": 192844,
+      "word": "A股节前最后一个交易日",
+      "onboard_time": 1727658379,
+      "rank": 28,
+      "category": "财经"
+    },
+    {
       "raw_hot": 186715,
       "num": 186715,
       "word": "21岁男生工作20余天后跳桥身亡",
@@ -219,12 +355,52 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 186454,
+      "num": 186454,
+      "word": "恋与深空黎深",
+      "onboard_time": 1727660295,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 182860,
       "num": 182860,
       "word": "埃尔多安称以色列被一些大国宠坏了",
       "onboard_time": 1727633234,
       "rank": 26,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 176098,
+      "num": 176098,
+      "word": "以色列公布真主党高层死亡名单",
+      "onboard_time": 1727655679,
+      "rank": 31,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 175073,
+      "num": 175073,
+      "word": "铭记英烈在今天也在每一天",
+      "onboard_time": 1727655618,
+      "rank": 32,
+      "category": "国内时政,社会新闻"
+    },
+    {
+      "raw_hot": 174320,
+      "num": 174320,
+      "word": "最可爱的人被塞给了最可爱的人",
+      "onboard_time": 1727658678,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 165544,
+      "num": 165544,
+      "word": "一个有希望的民族不能没有英雄",
+      "onboard_time": 1727660361,
+      "rank": 34,
+      "category": "国内时政"
     },
     {
       "raw_hot": 163694,
@@ -251,6 +427,38 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 153165,
+      "num": 153165,
+      "word": "他们长眠我们常念",
+      "onboard_time": 1727657240,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 152588,
+      "num": 152588,
+      "word": "张晚意林允儿合照",
+      "onboard_time": 1727658440,
+      "rank": 37,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 150003,
+      "num": 150003,
+      "word": "10元手工冰淇淋为什么火了",
+      "onboard_time": 1727659997,
+      "rank": 39,
+      "category": "美食,社会新闻"
+    },
+    {
+      "raw_hot": 149264,
+      "num": 149264,
+      "word": "分手后的复合不过是回光返照",
+      "onboard_time": 1727652677,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 147850,
       "num": 147850,
       "word": "曼联vs热刺",
@@ -267,6 +475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 138288,
+      "num": 138288,
+      "word": "代号鸢",
+      "onboard_time": 1727656580,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 137955,
       "num": 137955,
       "word": "客服是否该为主播翻车行为担责",
@@ -275,12 +491,44 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 134497,
+      "num": 134497,
+      "word": "你离我很近",
+      "onboard_time": 1727655679,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 125939,
+      "num": 125939,
+      "word": "以色列",
+      "onboard_time": 1727656760,
+      "rank": 43,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 120584,
+      "num": 120584,
+      "word": "小狗叼走拖鞋也叼走了我的心",
+      "onboard_time": 1727657300,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 120563,
       "num": 250004,
       "word": "商业房贷首付统一为不低于15%",
       "onboard_time": 1727621720,
       "rank": 9,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 117943,
+      "num": 117943,
+      "word": "人民英雄永垂不朽",
+      "onboard_time": 1727660295,
+      "rank": 47,
+      "category": "国内时政"
     },
     {
       "raw_hot": 117832,
@@ -331,6 +579,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 105672,
+      "num": 350994,
+      "word": "烈士陵园的细节每个都令人泪目",
+      "onboard_time": 1727655618,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 104583,
       "num": 138634,
       "word": "王冰冰 社交破冰技巧",
@@ -345,6 +601,14 @@
       "onboard_time": 1727627357,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 99884,
+      "num": 99884,
+      "word": "男子5年开车碰瓷近200次",
+      "onboard_time": 1727643670,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 99116,
@@ -491,14 +755,6 @@
       "category": "社会新闻,旅游"
     },
     {
-      "raw_hot": 60115,
-      "num": 64368,
-      "word": "男子5年开车碰瓷近200次",
-      "onboard_time": 1727643670,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 58066,
       "num": 58066,
       "word": "辣条里检出老鼠药嫌犯已被刑拘",
@@ -531,14 +787,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 50386,
-      "num": 50386,
-      "word": "分手后的复合不过是回光返照",
-      "onboard_time": 1727652677,
-      "rank": 48,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 47141,
       "num": 97535,
       "word": "音乐缘计划",
@@ -569,6 +817,14 @@
       "onboard_time": 1727640491,
       "rank": 45,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 38432,
+      "num": 349982,
+      "word": "A股杀回3200点",
+      "onboard_time": 1727660479,
+      "rank": 9,
+      "category": "财经"
     },
     {
       "raw_hot": 37455,
@@ -644,11 +900,19 @@
     },
     {
       "raw_hot": 7510,
-      "num": 404416,
+      "num": 714131,
       "word": "何以英雄他们给出了闪亮的答案",
       "onboard_time": 1727616198,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 7166,
+      "num": 350032,
+      "word": "奔赴山与海征途向未来",
+      "onboard_time": 1727581338,
+      "rank": 8,
+      "category": "国内时政"
     },
     {
       "raw_hot": 6971,
@@ -657,14 +921,6 @@
       "onboard_time": 1727617161,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 3576,
-      "num": 263344,
-      "word": "奔赴山与海征途向未来",
-      "onboard_time": 1727581338,
-      "rank": 8,
-      "category": "国内时政"
     }
   ],
   "hotgov_list": [

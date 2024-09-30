@@ -1,6 +1,6 @@
 {
   "startTime": 1727540758074,
-  "endTime": 1727652917886,
+  "endTime": 1727660684095,
   "band_list": [
     {
       "raw_hot": 2629801,
@@ -43,6 +43,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1520926,
+      "num": 1520926,
+      "word": "A股",
+      "onboard_time": 1727573057,
+      "rank": 23,
+      "category": "财经"
+    },
+    {
       "raw_hot": 1494163,
       "num": 1494163,
       "word": "多家房企宣布涨价",
@@ -75,12 +83,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1285416,
+      "num": 1285416,
+      "word": "撒贝宁北大保送含金量还在上升",
+      "onboard_time": 1727658259,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1238743,
       "num": 586351,
       "word": "买到假爱马仕因没开箱视频遭拒退",
       "onboard_time": 1727580018,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1207848,
+      "num": 344467,
+      "word": "董宇辉 居里夫人",
+      "onboard_time": 1727656042,
+      "rank": 11,
+      "category": "网红"
     },
     {
       "raw_hot": 1086160,
@@ -136,6 +160,14 @@
       "word": "侃爷听到南京憋不住笑了",
       "onboard_time": 1727590820,
       "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 927506,
+      "num": 343209,
+      "word": "黄晓明再现我不要你觉得",
+      "onboard_time": 1727656042,
+      "rank": 12,
       "category": "艺人"
     },
     {
@@ -385,6 +417,14 @@
       "onboard_time": 1727580318,
       "rank": 41,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 624198,
+      "num": 624198,
+      "word": "伊藤美诚采访提到陈梦",
+      "onboard_time": 1727656100,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 619691,
@@ -723,6 +763,14 @@
       "category": "体育,演出"
     },
     {
+      "raw_hot": 399883,
+      "num": 399883,
+      "word": "749局",
+      "onboard_time": 1727656518,
+      "rank": 4,
+      "category": "电影"
+    },
+    {
       "raw_hot": 399013,
       "num": 399013,
       "word": "杭州警方通报网红遭人持刀抢劫",
@@ -792,6 +840,14 @@
       "word": "女子骑马被教练偷拍发群里开黄腔",
       "onboard_time": 1727596219,
       "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 375419,
+      "num": 375419,
+      "word": "重庆断崖式降温你准备好了吗",
+      "onboard_time": 1727634673,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -915,6 +971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 332166,
+      "num": 332166,
+      "word": "股市",
+      "onboard_time": 1727660116,
+      "rank": 14,
+      "category": "财经"
+    },
+    {
       "raw_hot": 331224,
       "num": 258340,
       "word": "东北雨姐回应后继续掉粉",
@@ -955,6 +1019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 324257,
+      "num": 324257,
+      "word": "骗子把老人所有定期存款转成活期",
+      "onboard_time": 1727629155,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 323075,
       "num": 323075,
       "word": "辽菜是第一个国家级非遗菜系",
@@ -979,11 +1051,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 317784,
-      "num": 317784,
-      "word": "重庆断崖式降温你准备好了吗",
-      "onboard_time": 1727634673,
-      "rank": 47,
+      "raw_hot": 315796,
+      "num": 315796,
+      "word": "朱军任北京市委常委",
+      "onboard_time": 1727654898,
+      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -1017,6 +1089,14 @@
       "onboard_time": 1727592799,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 305722,
+      "num": 305722,
+      "word": "恋与深空",
+      "onboard_time": 1727658799,
+      "rank": 17,
+      "category": "游戏"
     },
     {
       "raw_hot": 302800,
@@ -1187,6 +1267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 268782,
+      "num": 228856,
+      "word": "熊 最讨厌抢功劳的同事",
+      "onboard_time": 1727657240,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 268377,
       "num": 268377,
       "word": "樊振东观战中网",
@@ -1211,6 +1299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 262842,
+      "num": 262842,
+      "word": "李美珍生理期跑完马拉松",
+      "onboard_time": 1727658259,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 260853,
       "num": 260853,
       "word": "郑钦文早就提醒裁判关顶棚",
@@ -1225,14 +1321,6 @@
       "onboard_time": 1727590159,
       "rank": 24,
       "category": "美食"
-    },
-    {
-      "raw_hot": 255899,
-      "num": 255899,
-      "word": "骗子把老人所有定期存款转成活期",
-      "onboard_time": 1727629155,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 251728,
@@ -1283,6 +1371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 242626,
+      "num": 242626,
+      "word": "外媒称真主党高层几乎被团灭",
+      "onboard_time": 1727656461,
+      "rank": 19,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 239577,
       "num": 239577,
       "word": "CP30",
@@ -1305,14 +1401,6 @@
       "onboard_time": 1727577498,
       "rank": 22,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 238936,
-      "num": 238936,
-      "word": "A股",
-      "onboard_time": 1727573057,
-      "rank": 23,
-      "category": "财经"
     },
     {
       "raw_hot": 238870,
@@ -1475,6 +1563,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 214640,
+      "num": 214640,
+      "word": "我国第十一个烈士纪念日",
+      "onboard_time": 1727655618,
+      "rank": 23,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 214541,
       "num": 822459,
       "word": "功勋模范铿锵有力唱歌唱祖国",
@@ -1489,6 +1585,14 @@
       "onboard_time": 1727576477,
       "rank": 19,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 212229,
+      "num": 212229,
+      "word": "王一博网球发球",
+      "onboard_time": 1727659699,
+      "rank": 24,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 211650,
@@ -1561,6 +1665,22 @@
       "onboard_time": 1727583019,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 206624,
+      "num": 206624,
+      "word": "股票",
+      "onboard_time": 1727660361,
+      "rank": 25,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 205956,
+      "num": 205956,
+      "word": "丁真介绍自己出圈照",
+      "onboard_time": 1727657899,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 205815,
@@ -1723,6 +1843,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 192844,
+      "num": 192844,
+      "word": "A股节前最后一个交易日",
+      "onboard_time": 1727658379,
+      "rank": 28,
+      "category": "财经"
+    },
+    {
       "raw_hot": 192669,
       "num": 192669,
       "word": "周柯宇问程潇和妹妹是不是双胞胎",
@@ -1809,6 +1937,14 @@
       "onboard_time": 1727612659,
       "rank": 34,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 186454,
+      "num": 186454,
+      "word": "恋与深空黎深",
+      "onboard_time": 1727660295,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 186404,
@@ -1947,6 +2083,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 176098,
+      "num": 176098,
+      "word": "以色列公布真主党高层死亡名单",
+      "onboard_time": 1727655679,
+      "rank": 31,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 175507,
       "num": 549450,
       "word": "国家勋章国家荣誉称号获得者名单",
@@ -1955,12 +2099,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 175073,
+      "num": 175073,
+      "word": "铭记英烈在今天也在每一天",
+      "onboard_time": 1727655618,
+      "rank": 32,
+      "category": "国内时政,社会新闻"
+    },
+    {
       "raw_hot": 174378,
       "num": 174378,
       "word": "专家建议买新能源车可以不买电池",
       "onboard_time": 1727595619,
       "rank": 46,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 174320,
+      "num": 174320,
+      "word": "最可爱的人被塞给了最可爱的人",
+      "onboard_time": 1727658678,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 173483,
@@ -2073,6 +2233,14 @@
       "onboard_time": 1727592918,
       "rank": 35,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 165544,
+      "num": 165544,
+      "word": "一个有希望的民族不能没有英雄",
+      "onboard_time": 1727660361,
+      "rank": 34,
+      "category": "国内时政"
     },
     {
       "raw_hot": 165257,
@@ -2235,6 +2403,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 153165,
+      "num": 153165,
+      "word": "他们长眠我们常念",
+      "onboard_time": 1727657240,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 152588,
+      "num": 152588,
+      "word": "张晚意林允儿合照",
+      "onboard_time": 1727658440,
+      "rank": 37,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 152140,
       "num": 152140,
       "word": "降低存量房贷利率时间明确",
@@ -2259,6 +2443,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 150003,
+      "num": 150003,
+      "word": "10元手工冰淇淋为什么火了",
+      "onboard_time": 1727659997,
+      "rank": 39,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 149802,
       "num": 149802,
       "word": "150秒回顾这场勋章奖章颁授仪式",
@@ -2273,6 +2465,14 @@
       "onboard_time": 1727619920,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 149264,
+      "num": 149264,
+      "word": "分手后的复合不过是回光返照",
+      "onboard_time": 1727652677,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 148709,
@@ -2435,6 +2635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 138288,
+      "num": 138288,
+      "word": "代号鸢",
+      "onboard_time": 1727656580,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 137811,
       "num": 137811,
       "word": "PEL秋季常规赛最佳阵容",
@@ -2497,6 +2705,14 @@
       "onboard_time": 1727605998,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 134497,
+      "num": 134497,
+      "word": "你离我很近",
+      "onboard_time": 1727655679,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 134217,
@@ -2683,6 +2899,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 125939,
+      "num": 125939,
+      "word": "以色列",
+      "onboard_time": 1727656760,
+      "rank": 43,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 125725,
       "num": 125725,
       "word": "华晨宇携中国美院艺术展返场贵阳",
@@ -2819,6 +3043,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 120584,
+      "num": 120584,
+      "word": "小狗叼走拖鞋也叼走了我的心",
+      "onboard_time": 1727657300,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 120089,
       "num": 120089,
       "word": "2024中网",
@@ -2913,6 +3145,14 @@
       "onboard_time": 1727597239,
       "rank": 9,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 117943,
+      "num": 117943,
+      "word": "人民英雄永垂不朽",
+      "onboard_time": 1727660295,
+      "rank": 47,
+      "category": "国内时政"
     },
     {
       "raw_hot": 117241,
@@ -3035,6 +3275,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 105672,
+      "num": 350994,
+      "word": "烈士陵园的细节每个都令人泪目",
+      "onboard_time": 1727655618,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 105518,
       "num": 105518,
       "word": "纳斯鲁拉遇袭身亡后以总理首发声",
@@ -3121,6 +3369,14 @@
       "onboard_time": 1727566337,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 99884,
+      "num": 99884,
+      "word": "男子5年开车碰瓷近200次",
+      "onboard_time": 1727643670,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 97919,
@@ -3523,14 +3779,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 60115,
-      "num": 64368,
-      "word": "男子5年开车碰瓷近200次",
-      "onboard_time": 1727643670,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 59971,
       "num": 257124,
       "word": "内塔尼亚胡称中东无以长臂不及之处",
@@ -3683,14 +3931,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 50386,
-      "num": 50386,
-      "word": "分手后的复合不过是回光返照",
-      "onboard_time": 1727652677,
-      "rank": 48,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 50323,
       "num": 305401,
       "word": "一表读懂你的房贷利率将怎么调",
@@ -3817,6 +4057,14 @@
       "onboard_time": 1727547252,
       "rank": 24,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 38432,
+      "num": 349982,
+      "word": "A股杀回3200点",
+      "onboard_time": 1727660479,
+      "rank": 9,
+      "category": "财经"
     },
     {
       "raw_hot": 37764,
@@ -4140,7 +4388,7 @@
     },
     {
       "raw_hot": 13000,
-      "num": 475190,
+      "num": 714131,
       "word": "何以英雄他们给出了闪亮的答案",
       "onboard_time": 1727616198,
       "rank": 2,
