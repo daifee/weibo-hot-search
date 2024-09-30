@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1727716806580,
+  "endTime": 1727717880111,
   "band_list": [
     {
       "raw_hot": 1370014,
@@ -75,6 +75,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 469708,
+      "num": 136654,
+      "word": "东北雨姐称先行全额退款",
+      "onboard_time": 1727715915,
+      "rank": 15,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 416302,
       "num": 244823,
       "word": "恒大地产和许家印等被处分",
@@ -129,14 +137,6 @@
       "onboard_time": 1727710700,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 253088,
-      "num": 136654,
-      "word": "东北雨姐称先行全额退款",
-      "onboard_time": 1727715915,
-      "rank": 15,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 245471,
@@ -411,6 +411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 70888,
+      "num": 126765,
+      "word": "文化中国行文博日历",
+      "onboard_time": 1727714958,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 68597,
       "num": 114945,
       "word": "今年国庆档新片票房破2亿",
@@ -459,14 +467,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 55329,
-      "num": 126765,
-      "word": "文化中国行文博日历",
-      "onboard_time": 1727714958,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 46129,
       "num": 102291,
       "word": "2024央视国庆晚会节目单",
@@ -475,10 +475,34 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 41412,
+      "num": 100757,
+      "word": "俄总理抵达伊朗",
+      "onboard_time": 1727716936,
+      "rank": 10,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 41238,
       "num": 423012,
       "word": "亲亲的长街新新的模样",
       "onboard_time": 1727702842,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 39360,
+      "num": 53471,
+      "word": "李宇春新歌献礼祖国",
+      "onboard_time": 1727717835,
+      "rank": 48,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 11267,
+      "num": 230792,
+      "word": "写给先辈们的一封信",
+      "onboard_time": 1727702721,
       "rank": 2,
       "category": "社会新闻"
     }
