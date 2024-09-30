@@ -1,6 +1,6 @@
 {
   "startTime": 1727627182055,
-  "endTime": 1727677953682,
+  "endTime": 1727678767025,
   "band_list": [
     {
       "raw_hot": 1939826,
@@ -59,20 +59,28 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1198477,
+      "num": 1198477,
+      "word": "有股民一早赚了52万",
+      "onboard_time": 1727674219,
+      "rank": 31,
+      "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 1188982,
+      "num": 284341,
+      "word": "俞灏明谈公布恋情",
+      "onboard_time": 1727677760,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1153138,
       "num": 344280,
       "word": "女子收到12306八百万退款短信",
       "onboard_time": 1727617880,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1102834,
-      "num": 1102834,
-      "word": "有股民一早赚了52万",
-      "onboard_time": 1727674219,
-      "rank": 31,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 953929,
@@ -235,6 +243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 452148,
+      "num": 452148,
+      "word": "堵车时劝你不要打开车窗",
+      "onboard_time": 1727674100,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 451071,
       "num": 248043,
       "word": "王源妈妈骄傲的先退场了",
@@ -387,14 +403,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 327927,
-      "num": 327927,
-      "word": "堵车时劝你不要打开车窗",
-      "onboard_time": 1727674100,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 324257,
       "num": 324257,
       "word": "骗子把老人所有定期存款转成活期",
@@ -417,14 +425,6 @@
       "onboard_time": 1727664318,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 319707,
-      "num": 173918,
-      "word": "俞灏明谈公布恋情",
-      "onboard_time": 1727677760,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 317020,
@@ -547,6 +547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 249836,
+      "num": 249836,
+      "word": "梁靖崑问Goat是啥",
+      "onboard_time": 1727675840,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 247423,
       "num": 247423,
       "word": "周深在六公主的11次舞台",
@@ -619,20 +627,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 231964,
-      "num": 231964,
-      "word": "梁靖崑问Goat是啥",
-      "onboard_time": 1727675840,
-      "rank": 20,
-      "category": "体育"
-    },
-    {
       "raw_hot": 228748,
       "num": 437404,
       "word": "我国第十一个烈士纪念日",
       "onboard_time": 1727655618,
       "rank": 23,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 227136,
+      "num": 227136,
+      "word": "13岁男孩夏令营遭体罚致横纹肌溶解",
+      "onboard_time": 1727676140,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 220384,
@@ -649,6 +657,14 @@
       "onboard_time": 1727664618,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 219940,
+      "num": 219940,
+      "word": "A股41只券商股全部涨停",
+      "onboard_time": 1727676740,
+      "rank": 25,
+      "category": "财经"
     },
     {
       "raw_hot": 215976,
@@ -681,14 +697,6 @@
       "onboard_time": 1727659699,
       "rank": 24,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 206448,
-      "num": 206448,
-      "word": "A股41只券商股全部涨停",
-      "onboard_time": 1727676740,
-      "rank": 25,
-      "category": "财经"
     },
     {
       "raw_hot": 206257,
@@ -883,12 +891,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 172281,
-      "num": 172281,
-      "word": "13岁男孩夏令营遭体罚致横纹肌溶解",
-      "onboard_time": 1727676140,
-      "rank": 31,
-      "category": "社会新闻"
+      "raw_hot": 169896,
+      "num": 169896,
+      "word": "A股连休7天",
+      "onboard_time": 1727675000,
+      "rank": 33,
+      "category": "财经"
     },
     {
       "raw_hot": 168574,
@@ -979,14 +987,6 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 157675,
-      "num": 157675,
-      "word": "A股连休7天",
-      "onboard_time": 1727675000,
-      "rank": 33,
-      "category": "财经"
-    },
-    {
       "raw_hot": 156512,
       "num": 156512,
       "word": "沪深两市刷新历史最快万亿纪录",
@@ -1075,6 +1075,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 147047,
+      "num": 147047,
+      "word": "头发别在耳后显脸小的方法",
+      "onboard_time": 1727678480,
+      "rank": 36,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 145229,
       "num": 342964,
       "word": "股民说希望在1万点胜利大会师",
@@ -1105,6 +1113,14 @@
       "onboard_time": 1727670442,
       "rank": 41,
       "category": "财经"
+    },
+    {
+      "raw_hot": 143634,
+      "num": 143634,
+      "word": "杨靖宇生前唯一的照片",
+      "onboard_time": 1727677998,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 142144,
@@ -1227,12 +1243,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 132473,
+      "num": 132473,
+      "word": "王曼昱感谢大家来现场加油",
+      "onboard_time": 1727678599,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 132427,
       "num": 209436,
       "word": "国庆假期旅游产品预订进入冲刺阶段",
       "onboard_time": 1727674760,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 128779,
+      "num": 128779,
+      "word": "A股这波行情你跟上了吗",
+      "onboard_time": 1727678720,
+      "rank": 43,
+      "category": "财经"
     },
     {
       "raw_hot": 128759,
@@ -1252,7 +1284,7 @@
     },
     {
       "raw_hot": 127371,
-      "num": 127371,
+      "num": 220030,
       "word": "中缅一举抓获870名电诈嫌犯",
       "onboard_time": 1727671340,
       "rank": 44,
@@ -1547,6 +1579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 90186,
+      "num": 494165,
+      "word": "电影出入平安今日上映",
+      "onboard_time": 1727676620,
+      "rank": 7,
+      "category": "电影"
+    },
+    {
       "raw_hot": 89289,
       "num": 89289,
       "word": "个人住房贷款最低首付比例不低于15%",
@@ -1731,8 +1771,24 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 53408,
+      "num": 172284,
+      "word": "蒋时延的爱在眼神里",
+      "onboard_time": 1727678240,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 50395,
+      "num": 247874,
+      "word": "制造流水线公主的旅拍店批量倒闭",
+      "onboard_time": 1727676981,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 49329,
-      "num": 213881,
+      "num": 261932,
       "word": "电影危机航线今日上映",
       "onboard_time": 1727674579,
       "rank": 28,
@@ -1777,14 +1833,6 @@
       "onboard_time": 1727642900,
       "rank": 20,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 44412,
-      "num": 247874,
-      "word": "制造流水线公主的旅拍店批量倒闭",
-      "onboard_time": 1727676981,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 43707,
@@ -1833,14 +1881,6 @@
       "onboard_time": 1727669180,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 35234,
-      "num": 494165,
-      "word": "电影出入平安今日上映",
-      "onboard_time": 1727676620,
-      "rank": 7,
-      "category": "电影"
     },
     {
       "raw_hot": 35219,
