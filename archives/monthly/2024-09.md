@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/09/01 00:25:38 ~ 2024/09/30 17:26:21
+本榜单时间：2024/09/01 00:25:38 ~ 2024/09/30 17:39:33
 </p>
 </blockquote>
 <p>
@@ -6683,6 +6683,12 @@ Scout暂时无缘S14（热度：922133）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E4%B8%80%E4%B8%AA%E6%9C%89%E5%B8%8C%E6%9C%9B%E7%9A%84%E6%B0%91%E6%97%8F%E4%B8%8D%E8%83%BD%E6%B2%A1%E6%9C%89%E8%8B%B1%E9%9B%84%23%23" target="weibo">
 #一个有希望的民族不能没有英雄#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E8%87%B4%E6%95%AC%E8%8B%B1%E9%9B%84%E6%A8%A1%E8%8C%83%E6%80%BB%E4%B9%A6%E8%AE%B0%E8%BF%99%E4%BA%9B%E8%AF%9D%E9%BC%93%E8%88%9E%E4%BA%BA%E5%BF%83%23%23" target="weibo">
+#致敬英雄模范总书记这些话鼓舞人心#
 </a>
 </li>
 

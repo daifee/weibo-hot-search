@@ -1,6 +1,6 @@
 {
   "startTime": 1727540758074,
-  "endTime": 1727688381656,
+  "endTime": 1727689173936,
   "band_list": [
     {
       "raw_hot": 2629801,
@@ -377,6 +377,14 @@
       "onboard_time": 1727580859,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 755247,
+      "num": 755247,
+      "word": "四川高速堵成红锅了",
+      "onboard_time": 1727685978,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 754310,
@@ -1139,14 +1147,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 387306,
-      "num": 387306,
-      "word": "四川高速堵成红锅了",
-      "onboard_time": 1727685978,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 386976,
       "num": 348004,
       "word": "21岁男生工作20余天后跳桥身亡",
@@ -1451,6 +1451,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 308823,
+      "num": 250457,
+      "word": "赌王千金何超盈在联合国演讲",
+      "onboard_time": 1727684480,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 307402,
       "num": 264737,
       "word": "赵露思沈阳活动",
@@ -1569,14 +1577,6 @@
       "onboard_time": 1727524401,
       "rank": 3,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 289474,
-      "num": 250457,
-      "word": "赌王千金何超盈在联合国演讲",
-      "onboard_time": 1727684480,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 289053,
@@ -2051,6 +2051,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 219964,
+      "num": 213127,
+      "word": "国庆回家耗尽了我全部力气和手段",
+      "onboard_time": 1727685139,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 217697,
       "num": 217697,
       "word": "威少炮轰湖人快船",
@@ -2097,14 +2105,6 @@
       "onboard_time": 1727661678,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 213127,
-      "num": 213127,
-      "word": "国庆回家耗尽了我全部力气和手段",
-      "onboard_time": 1727685139,
-      "rank": 41,
-      "category": "幽默"
     },
     {
       "raw_hot": 213095,
@@ -2345,6 +2345,14 @@
       "onboard_time": 1727595019,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 198225,
+      "num": 198225,
+      "word": "田曦薇分手戏",
+      "onboard_time": 1727688257,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 198057,
@@ -2827,20 +2835,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 173510,
+      "num": 173510,
+      "word": "代号鸢 策子没了",
+      "onboard_time": 1727687599,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 173483,
       "num": 173483,
       "word": "刘烨回复周雨彤下次我拉拉你",
       "onboard_time": 1727605758,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 173378,
-      "num": 173378,
-      "word": "代号鸢 策子没了",
-      "onboard_time": 1727687599,
-      "rank": 30,
-      "category": "游戏"
     },
     {
       "raw_hot": 173035,
@@ -3147,6 +3155,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 158740,
+      "num": 251174,
+      "word": "男子5年偷拍视频7.5万条被判1年",
+      "onboard_time": 1727683099,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 158628,
       "num": 158628,
       "word": "Lacoste直播",
@@ -3256,14 +3272,6 @@
       "word": "杨靖宇生前唯一的照片",
       "onboard_time": 1727677998,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 153186,
-      "num": 251174,
-      "word": "男子5年偷拍视频7.5万条被判1年",
-      "onboard_time": 1727683099,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -3547,6 +3555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 141492,
+      "num": 141492,
+      "word": "今天下班后就不要联系我了",
+      "onboard_time": 1727689158,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 141471,
       "num": 141471,
       "word": "黄小蕾转发区好多人",
@@ -3673,6 +3689,14 @@
       "onboard_time": 1727582659,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 136171,
+      "num": 136171,
+      "word": "A股六大新纪录诞生",
+      "onboard_time": 1727688200,
+      "rank": 45,
+      "category": "财经"
     },
     {
       "raw_hot": 136075,
@@ -3987,6 +4011,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 126069,
+      "num": 126069,
+      "word": "哀牢山 颜料师",
+      "onboard_time": 1727688918,
+      "rank": 38,
+      "category": "网红"
+    },
+    {
       "raw_hot": 126048,
       "num": 126048,
       "word": "部分用户反映券商银转证功能卡顿",
@@ -4073,14 +4105,6 @@
       "onboard_time": 1727665279,
       "rank": 49,
       "category": "财经"
-    },
-    {
-      "raw_hot": 124045,
-      "num": 124045,
-      "word": "田曦薇分手戏",
-      "onboard_time": 1727688257,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 124043,
@@ -4185,6 +4209,14 @@
       "onboard_time": 1727671939,
       "rank": 48,
       "category": "财经"
+    },
+    {
+      "raw_hot": 121248,
+      "num": 121248,
+      "word": "中方将对葡萄牙等四国试行免签",
+      "onboard_time": 1727688559,
+      "rank": 39,
+      "category": "国内时政"
     },
     {
       "raw_hot": 120803,
@@ -4659,14 +4691,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 102114,
-      "num": 102114,
-      "word": "A股六大新纪录诞生",
-      "onboard_time": 1727688200,
-      "rank": 45,
-      "category": "财经"
-    },
-    {
       "raw_hot": 101478,
       "num": 101478,
       "word": "中国青年因拼搏而自带光芒",
@@ -4697,6 +4721,14 @@
       "onboard_time": 1727687359,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 100704,
+      "num": 100704,
+      "word": "同济陈芋汐 花式告白祖国",
+      "onboard_time": 1727686159,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 100220,
@@ -4737,6 +4769,14 @@
       "onboard_time": 1727585960,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 97754,
+      "num": 97754,
+      "word": "A股超3000股涨幅超9%",
+      "onboard_time": 1727688858,
+      "rank": 46,
+      "category": "财经"
     },
     {
       "raw_hot": 96892,
@@ -5195,6 +5235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 60776,
+      "num": 258532,
+      "word": "广州取消限购后售楼部深夜灯火通明",
+      "onboard_time": 1727687179,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 60668,
       "num": 385692,
       "word": "投资者线上排队开户",
@@ -5467,20 +5515,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 45341,
+      "num": 246081,
+      "word": "颖儿 在米兰感受到了中国文化自信",
+      "onboard_time": 1727687720,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 45264,
       "num": 45264,
       "word": "G2",
       "onboard_time": 1727642900,
       "rank": 20,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 44622,
-      "num": 258532,
-      "word": "广州取消限购后售楼部深夜灯火通明",
-      "onboard_time": 1727687179,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 44186,
@@ -5633,14 +5681,6 @@
       "onboard_time": 1727546893,
       "rank": 27,
       "category": "演出"
-    },
-    {
-      "raw_hot": 36300,
-      "num": 246081,
-      "word": "颖儿 在米兰感受到了中国文化自信",
-      "onboard_time": 1727687720,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 36103,
@@ -6092,6 +6132,9 @@
     },
     {
       "word": "#一个有希望的民族不能没有英雄#"
+    },
+    {
+      "word": "#致敬英雄模范总书记这些话鼓舞人心#"
     }
   ]
 }
