@@ -1,6 +1,6 @@
 {
   "startTime": 1727540758074,
-  "endTime": 1727665139107,
+  "endTime": 1727665695716,
   "band_list": [
     {
       "raw_hot": 2629801,
@@ -75,20 +75,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1316837,
+      "num": 1304524,
+      "word": "股民称A股爆火赚4.7万其中5万是本",
+      "onboard_time": 1727661559,
+      "rank": 34,
+      "category": "财经"
+    },
+    {
       "raw_hot": 1312474,
       "num": 634900,
       "word": "周雨彤推开刘烨",
       "onboard_time": 1727576298,
       "rank": 10,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1304524,
-      "num": 1304524,
-      "word": "股民称A股爆火赚4.7万其中5万是本",
-      "onboard_time": 1727661559,
-      "rank": 34,
-      "category": "财经"
     },
     {
       "raw_hot": 1285416,
@@ -731,6 +731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 429207,
+      "num": 429207,
+      "word": "外媒称真主党高层几乎被团灭",
+      "onboard_time": 1727656461,
+      "rank": 19,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 422322,
       "num": 319453,
       "word": "辛巴和蛋蛋消痛贴违法添加穿山甲",
@@ -777,6 +785,14 @@
       "onboard_time": 1727583680,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 406701,
+      "num": 328625,
+      "word": "迪丽热巴条纹毛衣搭花苞裙",
+      "onboard_time": 1727664380,
+      "rank": 17,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 402719,
@@ -907,6 +923,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 369382,
+      "num": 325976,
+      "word": "A股大涨上海马路股市沙龙人气旺",
+      "onboard_time": 1727663478,
+      "rank": 19,
+      "category": "财经"
+    },
+    {
       "raw_hot": 369368,
       "num": 369368,
       "word": "TES",
@@ -915,20 +939,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 365028,
+      "num": 365028,
+      "word": "A股疯牛",
+      "onboard_time": 1727662938,
+      "rank": 25,
+      "category": "财经"
+    },
+    {
       "raw_hot": 364715,
       "num": 364715,
       "word": "范思琦vs王艺迪",
       "onboard_time": 1727614518,
       "rank": 3,
       "category": "体育"
-    },
-    {
-      "raw_hot": 364308,
-      "num": 364308,
-      "word": "外媒称真主党高层几乎被团灭",
-      "onboard_time": 1727656461,
-      "rank": 19,
-      "category": "国外时政"
     },
     {
       "raw_hot": 357820,
@@ -987,6 +1011,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 342149,
+      "num": 353860,
+      "word": "烈士纪念日的天安门广场",
+      "onboard_time": 1727660900,
+      "rank": 16,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 341762,
       "num": 341762,
       "word": "翁青雅彭高好嗑",
@@ -1001,14 +1033,6 @@
       "onboard_time": 1727661380,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 340728,
-      "num": 353860,
-      "word": "烈士纪念日的天安门广场",
-      "onboard_time": 1727660900,
-      "rank": 16,
-      "category": "国内时政"
     },
     {
       "raw_hot": 338406,
@@ -1203,14 +1227,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 295342,
-      "num": 295342,
-      "word": "迪丽热巴条纹毛衣搭花苞裙",
-      "onboard_time": 1727664380,
-      "rank": 17,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 294109,
       "num": 285736,
       "word": "网曝女子买一颗话梅被收71.6元",
@@ -1225,14 +1241,6 @@
       "onboard_time": 1727587459,
       "rank": 22,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 292401,
-      "num": 292401,
-      "word": "A股大涨上海马路股市沙龙人气旺",
-      "onboard_time": 1727663478,
-      "rank": 19,
-      "category": "财经"
     },
     {
       "raw_hot": 292369,
@@ -1265,6 +1273,14 @@
       "onboard_time": 1727619920,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 285184,
+      "num": 285184,
+      "word": "爸爸生日女儿花30元送仿真土豪三件套",
+      "onboard_time": 1727664318,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 284823,
@@ -1507,14 +1523,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 235493,
-      "num": 235493,
-      "word": "爸爸生日女儿花30元送仿真土豪三件套",
-      "onboard_time": 1727664318,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 233989,
       "num": 233989,
       "word": "年轻人为了省手续费有多拼",
@@ -1643,6 +1651,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 220079,
+      "num": 220079,
+      "word": "十月行程图",
+      "onboard_time": 1727664618,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 217697,
       "num": 217697,
       "word": "威少炮轰湖人快船",
@@ -1747,14 +1763,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 209029,
-      "num": 209029,
-      "word": "A股疯牛",
-      "onboard_time": 1727662938,
-      "rank": 25,
-      "category": "财经"
-    },
-    {
       "raw_hot": 208977,
       "num": 208977,
       "word": "我们的歌",
@@ -1835,6 +1843,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 199493,
+      "num": 199493,
+      "word": "烈士纪念日向烈士默哀",
+      "onboard_time": 1727663419,
+      "rank": 31,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 198839,
       "num": 198839,
       "word": "喜儿扮演者获颁人民艺术家",
@@ -1849,14 +1865,6 @@
       "onboard_time": 1727595019,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 198148,
-      "num": 198148,
-      "word": "十月行程图",
-      "onboard_time": 1727664618,
-      "rank": 28,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 198057,
@@ -1931,20 +1939,20 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 194928,
-      "num": 194928,
-      "word": "烈士纪念日向烈士默哀",
-      "onboard_time": 1727663419,
-      "rank": 31,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 194425,
       "num": 194425,
       "word": "宁德时代",
       "onboard_time": 1727592379,
       "rank": 30,
       "category": "财经"
+    },
+    {
+      "raw_hot": 193931,
+      "num": 193931,
+      "word": "张本美和说孙颖莎是最厉害的",
+      "onboard_time": 1727664799,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 193439,
@@ -2123,6 +2131,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 184508,
+      "num": 184508,
+      "word": "程潇说妹妹和自己性格一模一样",
+      "onboard_time": 1727663119,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 183076,
+      "num": 192924,
+      "word": "A股大涨",
+      "onboard_time": 1727665520,
+      "rank": 32,
+      "category": "财经"
+    },
+    {
       "raw_hot": 182860,
       "num": 182860,
       "word": "埃尔多安称以色列被一些大国宠坏了",
@@ -2187,6 +2211,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 178879,
+      "num": 178879,
+      "word": "基金",
+      "onboard_time": 1727664859,
+      "rank": 33,
+      "category": "财经"
+    },
+    {
       "raw_hot": 178197,
       "num": 208756,
       "word": "以军称打死黎真主党领导人纳斯鲁拉",
@@ -2225,14 +2257,6 @@
       "onboard_time": 1727601679,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 176476,
-      "num": 176476,
-      "word": "基金",
-      "onboard_time": 1727664859,
-      "rank": 33,
-      "category": "财经"
     },
     {
       "raw_hot": 176098,
@@ -2387,14 +2411,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 166508,
-      "num": 166508,
-      "word": "程潇说妹妹和自己性格一模一样",
-      "onboard_time": 1727663119,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 165257,
       "num": 165257,
       "word": "薛之谦 你不要垂头丧气的",
@@ -2481,6 +2497,14 @@
       "onboard_time": 1727610558,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 160632,
+      "num": 160632,
+      "word": "杨紫回应秀场wink",
+      "onboard_time": 1727665219,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 160136,
@@ -2707,6 +2731,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 145229,
+      "num": 342964,
+      "word": "股民说希望在1万点胜利大会师",
+      "onboard_time": 1727662278,
+      "rank": 14,
+      "category": "财经"
+    },
+    {
       "raw_hot": 144709,
       "num": 144709,
       "word": "表白祖国的N种方式",
@@ -2763,20 +2795,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 141747,
+      "num": 141747,
+      "word": "房地产板块大爆发",
+      "onboard_time": 1727664680,
+      "rank": 45,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 141613,
       "num": 228136,
       "word": "樊振东阿尔卡拉斯拍立得",
       "onboard_time": 1727615841,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 140630,
-      "num": 342964,
-      "word": "股民说希望在1万点胜利大会师",
-      "onboard_time": 1727662278,
-      "rank": 14,
-      "category": "财经"
     },
     {
       "raw_hot": 140112,
@@ -2883,14 +2915,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 136428,
-      "num": 136428,
-      "word": "房地产板块大爆发",
-      "onboard_time": 1727664680,
-      "rank": 45,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 135446,
       "num": 135446,
       "word": "以国之名敬英雄",
@@ -2969,14 +2993,6 @@
       "onboard_time": 1727599098,
       "rank": 46,
       "category": "财经"
-    },
-    {
-      "raw_hot": 132114,
-      "num": 132114,
-      "word": "张本美和说孙颖莎是最厉害的",
-      "onboard_time": 1727664799,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 131525,
@@ -3169,6 +3185,14 @@
       "onboard_time": 1727584759,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 124111,
+      "num": 124111,
+      "word": "A股房地产板块多股涨停",
+      "onboard_time": 1727665279,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 124006,
@@ -4115,6 +4139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 56487,
+      "num": 292889,
+      "word": "补仓",
+      "onboard_time": 1727664439,
+      "rank": 18,
+      "category": "财经"
+    },
+    {
       "raw_hot": 56464,
       "num": 56464,
       "word": "彭小苒凤凰台上梦回小枫",
@@ -4275,6 +4307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 43707,
+      "num": 165838,
+      "word": "阿祖这次还没收手",
+      "onboard_time": 1727665459,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 43164,
       "num": 61421,
       "word": "登月服最动人的设计在手臂和背上",
@@ -4289,14 +4329,6 @@
       "onboard_time": 1727640491,
       "rank": 45,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 41508,
-      "num": 292889,
-      "word": "补仓",
-      "onboard_time": 1727664439,
-      "rank": 18,
-      "category": "财经"
     },
     {
       "raw_hot": 41198,
@@ -4385,6 +4417,14 @@
       "onboard_time": 1727549414,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 35219,
+      "num": 125207,
+      "word": "超牛的贴秋膘指南",
+      "onboard_time": 1727665459,
+      "rank": 45,
+      "category": "美食"
     },
     {
       "raw_hot": 34913,
