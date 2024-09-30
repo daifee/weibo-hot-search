@@ -1,6 +1,6 @@
 {
   "startTime": 1727540758074,
-  "endTime": 1727692974066,
+  "endTime": 1727695144334,
   "band_list": [
     {
       "raw_hot": 2629801,
@@ -201,6 +201,14 @@
       "onboard_time": 1727689879,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1041133,
+      "num": 1166581,
+      "word": "2024央视国庆晚会节目单",
+      "onboard_time": 1727693119,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 1040527,
@@ -867,6 +875,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 476080,
+      "num": 226880,
+      "word": "堵车",
+      "onboard_time": 1727689459,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 472480,
       "num": 461690,
       "word": "俩老人买黄金不问价店员果断报警",
@@ -1123,6 +1139,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 393024,
+      "num": 222609,
+      "word": "哀牢山",
+      "onboard_time": 1727694079,
+      "rank": 13,
+      "category": "自然,网红"
+    },
+    {
       "raw_hot": 391729,
       "num": 391729,
       "word": "外交部回应美方军援台湾地区",
@@ -1201,6 +1225,14 @@
       "onboard_time": 1727571798,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 372660,
+      "num": 314591,
+      "word": "迪丽热巴登人民日报宣传片",
+      "onboard_time": 1727692339,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 371706,
@@ -1355,6 +1387,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 331092,
+      "num": 197378,
+      "word": "烤鱼店黄牛取号炒至200元被质疑",
+      "onboard_time": 1727690597,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 328852,
       "num": 385661,
       "word": "张本智和3比1黄镇廷",
@@ -1505,6 +1545,14 @@
       "onboard_time": 1727658799,
       "rank": 17,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 305208,
+      "num": 190026,
+      "word": "美方再次向中国台湾地区提供武器",
+      "onboard_time": 1727693419,
+      "rank": 17,
+      "category": "国内时政"
     },
     {
       "raw_hot": 302800,
@@ -1851,6 +1899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 241305,
+      "num": 223334,
+      "word": "今天下班后就不要联系我了",
+      "onboard_time": 1727689158,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 241005,
       "num": 241005,
       "word": "岁岁年年的爱献给祖国",
@@ -1993,14 +2049,6 @@
       "onboard_time": 1727579598,
       "rank": 27,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 229185,
-      "num": 223334,
-      "word": "今天下班后就不要联系我了",
-      "onboard_time": 1727689158,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 229108,
@@ -2248,14 +2296,6 @@
       "word": "永辉超市回应背刺胖东来传闻",
       "onboard_time": 1727583019,
       "rank": 40,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 206931,
-      "num": 206931,
-      "word": "堵车",
-      "onboard_time": 1727689459,
-      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -2515,14 +2555,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 193502,
-      "num": 159035,
-      "word": "迪丽热巴登人民日报宣传片",
-      "onboard_time": 1727692339,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 193439,
       "num": 193439,
       "word": "PEL",
@@ -2657,6 +2689,14 @@
       "onboard_time": 1727655618,
       "rank": 32,
       "category": "国内时政,社会新闻"
+    },
+    {
+      "raw_hot": 188755,
+      "num": 188755,
+      "word": "孙亚龙报警",
+      "onboard_time": 1727694380,
+      "rank": 18,
+      "category": "电竞"
     },
     {
       "raw_hot": 188193,
@@ -3507,6 +3547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 147274,
+      "num": 147274,
+      "word": "A股猛涨投资者纷纷朋友圈晒盈利",
+      "onboard_time": 1727692459,
+      "rank": 28,
+      "category": "财经"
+    },
+    {
       "raw_hot": 147064,
       "num": 147064,
       "word": "网文连获8届中国科幻最高奖",
@@ -3796,7 +3844,7 @@
     },
     {
       "raw_hot": 136911,
-      "num": 147395,
+      "num": 178216,
       "word": "游本昌张若昀同框致敬奋斗者",
       "onboard_time": 1727692579,
       "rank": 29,
@@ -3816,14 +3864,6 @@
       "word": "20个缅北电诈头目和骨干被押解回国",
       "onboard_time": 1727582659,
       "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 136433,
-      "num": 136433,
-      "word": "烤鱼店黄牛取号炒至200元被质疑",
-      "onboard_time": 1727690597,
-      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -4137,6 +4177,14 @@
       "onboard_time": 1727590939,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 127280,
+      "num": 127280,
+      "word": "退钱哥纳闷他的基金亏了",
+      "onboard_time": 1727693299,
+      "rank": 32,
+      "category": "财经"
     },
     {
       "raw_hot": 127046,
@@ -4859,6 +4907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 101137,
+      "num": 101137,
+      "word": "TF家族危险的关系预告片",
+      "onboard_time": 1727694738,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 101074,
       "num": 101074,
       "word": "沪深两市成交额超2.59万亿元",
@@ -4913,6 +4969,22 @@
       "onboard_time": 1727643670,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 99541,
+      "num": 99541,
+      "word": "蒋时延看起来快碎了",
+      "onboard_time": 1727694919,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 98620,
+      "num": 248138,
+      "word": "郑钦文vs波多罗斯卡",
+      "onboard_time": 1727691860,
+      "rank": 29,
+      "category": "教育"
     },
     {
       "raw_hot": 98370,
@@ -5131,6 +5203,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 83821,
+      "num": 83821,
+      "word": "郭俊辰穿了丁真送的藏服",
+      "onboard_time": 1727693000,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 82404,
       "num": 157143,
       "word": "邓恩熙头纱出场",
@@ -5283,6 +5363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 71469,
+      "num": 92555,
+      "word": "我的名字是国庆",
+      "onboard_time": 1727693119,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 71011,
       "num": 71011,
       "word": "我国新增工业机器人装机量占全球超50%",
@@ -5393,6 +5481,14 @@
       "onboard_time": 1727575159,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 61857,
+      "num": 253755,
+      "word": "专家称房地产牛市正逐渐开启",
+      "onboard_time": 1727693778,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 61409,
@@ -5625,14 +5721,6 @@
       "onboard_time": 1727674579,
       "rank": 28,
       "category": "电影"
-    },
-    {
-      "raw_hot": 48546,
-      "num": 227527,
-      "word": "郑钦文vs波多罗斯卡",
-      "onboard_time": 1727691860,
-      "rank": 29,
-      "category": "教育"
     },
     {
       "raw_hot": 48011,
@@ -5891,6 +5979,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 35162,
+      "num": 97090,
+      "word": "秋冬美拉德氛围感穿搭",
+      "onboard_time": 1727693840,
+      "rank": 44,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 34913,
       "num": 397730,
       "word": "机构预期A股有望迎来金九银十",
@@ -6096,6 +6192,14 @@
       "word": "每一位英雄烈士都是一座精神丰碑",
       "onboard_time": 1727684959,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 22827,
+      "num": 216020,
+      "word": "河南最低首付比例为15%",
+      "onboard_time": 1727694320,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
