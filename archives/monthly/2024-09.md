@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/09/01 00:25:38 ~ 2024/09/30 22:21:34
+本榜单时间：2024/09/01 00:25:38 ~ 2024/09/30 22:41:23
 </p>
 </blockquote>
 <p>
@@ -4743,6 +4743,12 @@ NewJeans被HYBE其他艺人团队排挤（热度：1130540）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A2%E5%A5%B3%E9%AA%91%E5%A3%AB%E7%9F%B3%E8%86%8F%E5%8F%91%E7%94%9F%E8%BD%A6%E7%A5%B8%E8%BA%AB%E4%BA%A1%23" target="weibo">
+网红女骑士石膏发生车祸身亡（热度：1062618）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%AF%B9%E5%A3%B0%E9%9F%B3%E6%95%8F%E6%84%9F%E8%A6%81%E6%B1%82%E9%82%BB%E5%B1%85%E6%99%9A%E4%B8%8A%E4%B8%8D%E7%94%A8%E9%A9%AC%E6%A1%B6%23" target="weibo">
 女子对声音敏感要求邻居晚上不用马桶（热度：1062287）
 </a>
@@ -6005,12 +6011,6 @@ Scout暂时无缘S14（热度：922133）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E8%B7%AF%E8%99%8E%E9%80%86%E8%A1%8C%E6%89%93%E4%BA%BA%E5%A5%B3%E5%8F%B8%E6%9C%BA%E5%9C%A8%E5%AE%B6%E6%8B%98%E7%95%99%23" target="weibo">
 官方辟谣路虎逆行打人女司机在家拘留（热度：909633）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E7%A9%BA%E6%8A%9B%E7%89%A9%E4%BC%A4%E4%BA%BA%E5%85%A8%E6%A5%BC%E6%9F%A5DNA%E5%90%8E%E7%94%B7%E5%AD%90%E8%87%AA%E9%A6%96%23" target="weibo">
-高空抛物伤人全楼查DNA后男子自首（热度：909257）
 </a>
 </li>
 

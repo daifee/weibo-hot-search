@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1727706094749,
+  "endTime": 1727707283450,
   "band_list": [
     {
       "raw_hot": 28035334,
@@ -6305,6 +6305,14 @@
       "onboard_time": 1725623961,
       "rank": 21,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1062618,
+      "num": 295089,
+      "word": "网红女骑士石膏发生车祸身亡",
+      "onboard_time": 1727705540,
+      "rank": 18,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 1062287,
@@ -16185,6 +16193,14 @@
       "onboard_time": 1726216524,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 527853,
+      "num": 413271,
+      "word": "还是低估了国庆假期堵车的程度",
+      "onboard_time": 1727704340,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 527702,
@@ -27739,6 +27755,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 295381,
+      "num": 295381,
+      "word": "成都混团世界杯名单",
+      "onboard_time": 1727706021,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 295308,
       "num": 263690,
       "word": "丫丫从筐里掏出小苹果",
@@ -27753,14 +27777,6 @@
       "onboard_time": 1725848659,
       "rank": 15,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 295089,
-      "num": 295089,
-      "word": "网红女骑士石膏发生车祸身亡",
-      "onboard_time": 1727705540,
-      "rank": 18,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 295061,
@@ -39051,14 +39067,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 207882,
-      "num": 413271,
-      "word": "还是低估了国庆假期堵车的程度",
-      "onboard_time": 1727704340,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 207880,
       "num": 207880,
       "word": "巩俐郑钦文 永不妥协的嘴角",
@@ -44627,12 +44635,28 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 191727,
+      "num": 191727,
+      "word": "哑舍动画定档",
+      "onboard_time": 1727705781,
+      "rank": 31,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 191690,
       "num": 191690,
       "word": "王楚钦进四强",
       "onboard_time": 1726235782,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 191688,
+      "num": 191688,
+      "word": "肖战 月亮代表我的心",
+      "onboard_time": 1727706562,
+      "rank": 22,
+      "category": "音乐"
     },
     {
       "raw_hot": 191677,
@@ -47107,14 +47131,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 184824,
-      "num": 167395,
-      "word": "成都混团世界杯名单",
-      "onboard_time": 1727706021,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 184812,
       "num": 184812,
       "word": "印度奸杀案事发医院前院长被捕",
@@ -48779,6 +48795,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 179105,
+      "num": 179105,
+      "word": "迪丽热巴陈飞宇慕胥辞情侣装",
+      "onboard_time": 1727706501,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 179065,
       "num": 179065,
       "word": "解放军1秒决断保住遇险直升机",
@@ -49489,6 +49513,14 @@
       "onboard_time": 1726131501,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 176889,
+      "num": 291892,
+      "word": "为了国庆不添堵结果堵在高速路",
+      "onboard_time": 1727704642,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 176877,
@@ -51659,6 +51691,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 170388,
+      "num": 304269,
+      "word": "关晓彤直播",
+      "onboard_time": 1727705061,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 170383,
       "num": 170383,
       "word": "动画葬送的芙莉莲",
@@ -52627,14 +52667,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 167385,
-      "num": 167385,
-      "word": "哑舍动画定档",
-      "onboard_time": 1727705781,
-      "rank": 31,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 167370,
       "num": 167370,
       "word": "有王安宇在田曦薇没抬过箱子",
@@ -52865,14 +52897,6 @@
       "onboard_time": 1725762558,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 166671,
-      "num": 166671,
-      "word": "为了国庆不添堵结果堵在高速路",
-      "onboard_time": 1727704642,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 166666,
@@ -53963,6 +53987,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 163478,
+      "num": 401212,
+      "word": "布云朝克特vs卢布列夫",
+      "onboard_time": 1727702420,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 163449,
       "num": 372745,
       "word": "虞书欣 中华小厨娘",
@@ -54377,6 +54409,14 @@
       "onboard_time": 1727231418,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 162569,
+      "num": 162569,
+      "word": "华伦天奴 设计",
+      "onboard_time": 1727705481,
+      "rank": 35,
+      "category": "时尚"
     },
     {
       "raw_hot": 162525,
@@ -58883,14 +58923,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 149489,
-      "num": 149489,
-      "word": "华伦天奴 设计",
-      "onboard_time": 1727705481,
-      "rank": 35,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 149486,
       "num": 476105,
       "word": "女子充完话费接到警方通知涉嫌洗钱",
@@ -59321,6 +59353,14 @@
       "onboard_time": 1726961716,
       "rank": 46,
       "category": "美食,健康医疗"
+    },
+    {
+      "raw_hot": 148420,
+      "num": 148420,
+      "word": "马龙一家四口同框",
+      "onboard_time": 1727706620,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 148419,
@@ -61955,6 +61995,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 140985,
+      "num": 140985,
+      "word": "A股大涨多个银行大额存单被转让",
+      "onboard_time": 1727706380,
+      "rank": 35,
+      "category": "财经"
+    },
+    {
       "raw_hot": 140853,
       "num": 137281,
       "word": "陆虎陈曌旭跳舞",
@@ -64179,6 +64227,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 134517,
+      "num": 134517,
+      "word": "樊振东全红婵一起参加活动",
+      "onboard_time": 1727706681,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 134490,
       "num": 134490,
       "word": "王一博高原骑马",
@@ -65217,14 +65273,6 @@
       "onboard_time": 1725154697,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 131768,
-      "num": 304269,
-      "word": "关晓彤直播",
-      "onboard_time": 1727705061,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 131763,
@@ -74875,6 +74923,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 87960,
+      "num": 204408,
+      "word": "中国选手首进中网男单四强",
+      "onboard_time": 1727706801,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 87952,
       "num": 115558,
       "word": "翁青雅tomo约会",
@@ -82947,6 +83003,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 43309,
+      "num": 1222680,
+      "word": "亲亲的长街新新的模样",
+      "onboard_time": 1727702842,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 43265,
       "num": 519019,
       "word": "警方回应9岁男孩疑被男子放狗扑咬",
@@ -83881,14 +83945,6 @@
       "onboard_time": 1726767013,
       "rank": 41,
       "category": "音乐,综艺"
-    },
-    {
-      "raw_hot": 40000,
-      "num": 401212,
-      "word": "布云朝克特vs卢布列夫",
-      "onboard_time": 1727702420,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 39966,
@@ -85537,14 +85593,6 @@
       "onboard_time": 1726304119,
       "rank": 21,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 35142,
-      "num": 1222680,
-      "word": "亲亲的长街新新的模样",
-      "onboard_time": 1727702842,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 35120,
@@ -89353,6 +89401,14 @@
       "onboard_time": 1726225880,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 23643,
+      "num": 198819,
+      "word": "曾黎带中国茶去巴黎时装周",
+      "onboard_time": 1727706201,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 23637,

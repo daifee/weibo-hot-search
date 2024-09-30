@@ -1,6 +1,6 @@
 {
   "startTime": 1727540758074,
-  "endTime": 1727706094749,
+  "endTime": 1727707283450,
   "band_list": [
     {
       "raw_hot": 2629801,
@@ -241,6 +241,14 @@
       "onboard_time": 1727684658,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1062618,
+      "num": 295089,
+      "word": "网红女骑士石膏发生车祸身亡",
+      "onboard_time": 1727705540,
+      "rank": 18,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 1051685,
@@ -817,6 +825,14 @@
       "onboard_time": 1727569098,
       "rank": 11,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 527853,
+      "num": 413271,
+      "word": "还是低估了国庆假期堵车的程度",
+      "onboard_time": 1727704340,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 523849,
@@ -1739,12 +1755,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 295089,
-      "num": 295089,
-      "word": "网红女骑士石膏发生车祸身亡",
-      "onboard_time": 1727705540,
-      "rank": 18,
-      "category": "社会新闻,网红"
+      "raw_hot": 295381,
+      "num": 295381,
+      "word": "成都混团世界杯名单",
+      "onboard_time": 1727706021,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 294109,
@@ -2459,14 +2475,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 207882,
-      "num": 413271,
-      "word": "还是低估了国庆假期堵车的程度",
-      "onboard_time": 1727704340,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 207742,
       "num": 326543,
       "word": "朱一龙演技",
@@ -2835,6 +2843,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 191727,
+      "num": 191727,
+      "word": "哑舍动画定档",
+      "onboard_time": 1727705781,
+      "rank": 31,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 191688,
+      "num": 191688,
+      "word": "肖战 月亮代表我的心",
+      "onboard_time": 1727706562,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 191479,
       "num": 191479,
       "word": "10月1至2日在深圳的有福了",
@@ -3035,14 +3059,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 184824,
-      "num": 167395,
-      "word": "成都混团世界杯名单",
-      "onboard_time": 1727706021,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 184508,
       "num": 184508,
       "word": "程潇说妹妹和自己性格一模一样",
@@ -3139,6 +3155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 179105,
+      "num": 179105,
+      "word": "迪丽热巴陈飞宇慕胥辞情侣装",
+      "onboard_time": 1727706501,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 178922,
       "num": 178922,
       "word": "镇魂街2穷剧不穷特效",
@@ -3185,6 +3209,14 @@
       "onboard_time": 1727601679,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 176889,
+      "num": 291892,
+      "word": "为了国庆不添堵结果堵在高速路",
+      "onboard_time": 1727704642,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 176098,
@@ -3307,6 +3339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 170388,
+      "num": 304269,
+      "word": "关晓彤直播",
+      "onboard_time": 1727705061,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 169896,
       "num": 169896,
       "word": "A股连休7天",
@@ -3363,14 +3403,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 167385,
-      "num": 167385,
-      "word": "哑舍动画定档",
-      "onboard_time": 1727705781,
-      "rank": 31,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 167286,
       "num": 167286,
       "word": "老师介绍婚姻本科专业学什么",
@@ -3409,14 +3441,6 @@
       "onboard_time": 1727592918,
       "rank": 35,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 166671,
-      "num": 166671,
-      "word": "为了国庆不添堵结果堵在高速路",
-      "onboard_time": 1727704642,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 165997,
@@ -3483,6 +3507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 163478,
+      "num": 401212,
+      "word": "布云朝克特vs卢布列夫",
+      "onboard_time": 1727702420,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 163002,
       "num": 157941,
       "word": "国庆朋友圈已经预制好了",
@@ -3521,6 +3553,14 @@
       "onboard_time": 1727664919,
       "rank": 37,
       "category": "财经"
+    },
+    {
+      "raw_hot": 162569,
+      "num": 162569,
+      "word": "华伦天奴 设计",
+      "onboard_time": 1727705481,
+      "rank": 35,
+      "category": "时尚"
     },
     {
       "raw_hot": 162298,
@@ -3843,14 +3883,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 149489,
-      "num": 149489,
-      "word": "华伦天奴 设计",
-      "onboard_time": 1727705481,
-      "rank": 35,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 149264,
       "num": 149264,
       "word": "分手后的复合不过是回光返照",
@@ -3865,6 +3897,14 @@
       "onboard_time": 1727588057,
       "rank": 43,
       "category": "财经"
+    },
+    {
+      "raw_hot": 148420,
+      "num": 148420,
+      "word": "马龙一家四口同框",
+      "onboard_time": 1727706620,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 148403,
@@ -4065,6 +4105,14 @@
       "onboard_time": 1727675119,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 140985,
+      "num": 140985,
+      "word": "A股大涨多个银行大额存单被转让",
+      "onboard_time": 1727706380,
+      "rank": 35,
+      "category": "财经"
     },
     {
       "raw_hot": 140667,
@@ -4299,6 +4347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 134517,
+      "num": 134517,
+      "word": "樊振东全红婵一起参加活动",
+      "onboard_time": 1727706681,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 134217,
       "num": 134217,
       "word": "恋与天津游",
@@ -4393,14 +4449,6 @@
       "onboard_time": 1727674760,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 131768,
-      "num": 304269,
-      "word": "关晓彤直播",
-      "onboard_time": 1727705061,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 131629,
@@ -5643,6 +5691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 87960,
+      "num": 204408,
+      "word": "中国选手首进中网男单四强",
+      "onboard_time": 1727706801,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 87346,
       "num": 87346,
       "word": "国庆雷军和尼格买提小米工厂直播",
@@ -6363,6 +6419,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 43309,
+      "num": 1222680,
+      "word": "亲亲的长街新新的模样",
+      "onboard_time": 1727702842,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 43164,
       "num": 61421,
       "word": "登月服最动人的设计在手臂和背上",
@@ -6409,14 +6473,6 @@
       "onboard_time": 1727605998,
       "rank": 45,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 40000,
-      "num": 401212,
-      "word": "布云朝克特vs卢布列夫",
-      "onboard_time": 1727702420,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 39379,
@@ -6545,14 +6601,6 @@
       "onboard_time": 1727693840,
       "rank": 44,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 35142,
-      "num": 1222680,
-      "word": "亲亲的长街新新的模样",
-      "onboard_time": 1727702842,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 34913,
@@ -6769,6 +6817,14 @@
       "onboard_time": 1727588657,
       "rank": 19,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 23643,
+      "num": 198819,
+      "word": "曾黎带中国茶去巴黎时装周",
+      "onboard_time": 1727706201,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 23403,
