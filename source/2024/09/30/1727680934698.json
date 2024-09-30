@@ -1,0 +1,410 @@
+{
+  "runTime": 1727680934698,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1380946,
+        "num": 1380946,
+        "word": "有股民一早赚了52万",
+        "onboard_time": 1727674219,
+        "rank": 0,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 684101,
+        "num": 684101,
+        "word": "堵车时劝你不要打开车窗",
+        "onboard_time": 1727674100,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 14299,
+        "num": 681421,
+        "word": "山河无恙致敬先烈",
+        "onboard_time": 1727658740,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 680348,
+        "num": 680348,
+        "word": "路上已长满了放假聪明人",
+        "onboard_time": 1727668339,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 478875,
+        "num": 478875,
+        "word": "有网文作者股市已赚300万直接断更",
+        "onboard_time": 1727671100,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 640354,
+        "num": 423903,
+        "word": "吴慷仁签约壹心娱乐",
+        "onboard_time": 1727679800,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 364771,
+        "num": 364771,
+        "word": "A股大涨股民自费机票升舱",
+        "onboard_time": 1727670620,
+        "rank": 6,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 353418,
+        "num": 353418,
+        "word": "A股",
+        "onboard_time": 1727659518,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 12218,
+        "num": 319287,
+        "word": "75年奇迹如歌",
+        "onboard_time": 1727669240,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 290691,
+        "num": 290691,
+        "word": "A股41只券商股全部涨停",
+        "onboard_time": 1727676740,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1814225,
+        "num": 289412,
+        "word": "俞灏明谈公布恋情",
+        "onboard_time": 1727677760,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 676427,
+        "num": 284224,
+        "word": "董宇辉直播翻车",
+        "onboard_time": 1727670678,
+        "rank": 11,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 204210,
+        "num": 281105,
+        "word": "把青春华章写在祖国大地上",
+        "onboard_time": 1727680460,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 419945,
+        "num": 277936,
+        "word": "13岁男孩夏令营遭体罚致横纹肌溶解",
+        "onboard_time": 1727676140,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24553,
+        "num": 275288,
+        "word": "文物局回应古寺修缮未能修旧如旧",
+        "onboard_time": 1727680460,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 332022,
+        "num": 271464,
+        "word": "惠英红六处骨裂",
+        "onboard_time": 1727679319,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 268071,
+        "num": 268071,
+        "word": "还没下班朋友圈就已经堵了",
+        "onboard_time": 1727668218,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 251536,
+        "num": 251536,
+        "word": "曾黎连续两年巴黎看秀背同一只包",
+        "onboard_time": 1727679021,
+        "rank": 17,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 91569,
+        "num": 250657,
+        "word": "可我就是心疼卫昭",
+        "onboard_time": 1727680520,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 36629,
+        "num": 250474,
+        "word": "电商用猪肉假冒牛肉干销售额达500万",
+        "onboard_time": 1727679978,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1261963,
+        "num": 248828,
+        "word": "张凌赫让金靖孕期多看看迪丽热巴",
+        "onboard_time": 1727679679,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 321402,
+        "num": 247948,
+        "word": "头发别在耳后显脸小的方法",
+        "onboard_time": 1727678480,
+        "rank": 21,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 247758,
+        "num": 247758,
+        "word": "董宇辉纠正科普错误",
+        "onboard_time": 1727672779,
+        "rank": 22,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 243116,
+        "num": 243116,
+        "word": "梁靖崑问Goat是啥",
+        "onboard_time": 1727675840,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 14717,
+        "num": 241517,
+        "word": "电影志愿军存亡之战路演",
+        "onboard_time": 1727680820,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 240571,
+        "num": 240571,
+        "word": "90后00后投资者入市了",
+        "onboard_time": 1727661380,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224699,
+        "num": 224699,
+        "word": "中缅一举抓获870名电诈嫌犯",
+        "onboard_time": 1727671340,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190850,
+        "num": 190850,
+        "word": "锦绣安宁",
+        "onboard_time": 1727679800,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179664,
+        "num": 179664,
+        "word": "林高远vs阿拉米扬",
+        "onboard_time": 1727676079,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 174373,
+        "num": 174373,
+        "word": "A股这波行情你跟上了吗",
+        "onboard_time": 1727678720,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 169670,
+        "num": 169670,
+        "word": "岁岁年年的爱献给祖国",
+        "onboard_time": 1727675778,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 164893,
+        "num": 164893,
+        "word": "有股民称已赚20个点果断满仓",
+        "onboard_time": 1727672840,
+        "rank": 31,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 163349,
+        "num": 163349,
+        "word": "代号鸢 文丑尽义了",
+        "onboard_time": 1727680401,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 158774,
+        "num": 158774,
+        "word": "基金",
+        "onboard_time": 1727664859,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 157019,
+        "num": 157019,
+        "word": "董宇辉称居里夫人获得诺贝尔文学奖",
+        "onboard_time": 1727670499,
+        "rank": 34,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 148722,
+        "num": 148722,
+        "word": "A股连休7天",
+        "onboard_time": 1727675000,
+        "rank": 35,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 146394,
+        "num": 146394,
+        "word": "CP30开票",
+        "onboard_time": 1727669059,
+        "rank": 36,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 143719,
+        "num": 143719,
+        "word": "杨靖宇生前唯一的照片",
+        "onboard_time": 1727677998,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139726,
+        "num": 139726,
+        "word": "留学生来中6年嫌英文太难秒切中文",
+        "onboard_time": 1727678900,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137881,
+        "num": 137881,
+        "word": "景区不让带宠物进入主人直接遗弃",
+        "onboard_time": 1727670558,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131867,
+        "num": 131867,
+        "word": "虞书欣宝石草莓大片",
+        "onboard_time": 1727680641,
+        "rank": 40,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 130151,
+        "num": 130151,
+        "word": "男孩掉5元被老人抢先捡走伤心好久",
+        "onboard_time": 1727668100,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128509,
+        "num": 128509,
+        "word": "沪深两市成交额突破2万亿元",
+        "onboard_time": 1727680700,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 127649,
+        "num": 127649,
+        "word": "HANNI将以证人出席监查",
+        "onboard_time": 1727673800,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123622,
+        "num": 123622,
+        "word": "缅北诈骗分子在武装势力庇护下建窝点",
+        "onboard_time": 1727668639,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121162,
+        "num": 121162,
+        "word": "丞磊林允民国cp感",
+        "onboard_time": 1727677339,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118090,
+        "num": 118090,
+        "word": "王曼昱感谢大家来现场加油",
+        "onboard_time": 1727678599,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117494,
+        "num": 117494,
+        "word": "雅 43岁正是告状的年纪",
+        "onboard_time": 1727671040,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110515,
+        "num": 110515,
+        "word": "沪深成交额创下历史最高纪录",
+        "onboard_time": 1727679561,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 107773,
+        "num": 107773,
+        "word": "河南取消住房限购",
+        "onboard_time": 1727680880,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#一个有希望的民族不能没有英雄#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1727627182055,
-  "endTime": 1727678767025,
+  "endTime": 1727680934698,
   "band_list": [
     {
       "raw_hot": 1939826,
@@ -9,6 +9,14 @@
       "onboard_time": 1727668339,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1814225,
+      "num": 289412,
+      "word": "俞灏明谈公布恋情",
+      "onboard_time": 1727677760,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 1757272,
@@ -35,6 +43,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 1380946,
+      "num": 1380946,
+      "word": "有股民一早赚了52万",
+      "onboard_time": 1727674219,
+      "rank": 31,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 1316837,
       "num": 1304524,
       "word": "股民称A股爆火赚4.7万其中5万是本",
@@ -51,28 +67,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1261963,
+      "num": 248828,
+      "word": "张凌赫让金靖孕期多看看迪丽热巴",
+      "onboard_time": 1727679679,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1207848,
       "num": 418719,
       "word": "董宇辉 居里夫人",
       "onboard_time": 1727656042,
       "rank": 11,
       "category": "网红"
-    },
-    {
-      "raw_hot": 1198477,
-      "num": 1198477,
-      "word": "有股民一早赚了52万",
-      "onboard_time": 1727674219,
-      "rank": 31,
-      "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 1188982,
-      "num": 284341,
-      "word": "俞灏明谈公布恋情",
-      "onboard_time": 1727677760,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 1153138,
@@ -131,6 +139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 684101,
+      "num": 684101,
+      "word": "堵车时劝你不要打开车窗",
+      "onboard_time": 1727674100,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 674417,
       "num": 674417,
       "word": "A股大涨股民自费机票升舱",
@@ -145,6 +161,14 @@
       "onboard_time": 1727671100,
       "rank": 37,
       "category": "财经"
+    },
+    {
+      "raw_hot": 640354,
+      "num": 423903,
+      "word": "吴慷仁签约壹心娱乐",
+      "onboard_time": 1727679800,
+      "rank": 5,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 636128,
@@ -243,14 +267,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 452148,
-      "num": 452148,
-      "word": "堵车时劝你不要打开车窗",
-      "onboard_time": 1727674100,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 451071,
       "num": 248043,
       "word": "王源妈妈骄傲的先退场了",
@@ -289,6 +305,14 @@
       "onboard_time": 1727656461,
       "rank": 19,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 419945,
+      "num": 277936,
+      "word": "13岁男孩夏令营遭体罚致横纹肌溶解",
+      "onboard_time": 1727676140,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 418599,
@@ -395,6 +419,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 332022,
+      "num": 271464,
+      "word": "惠英红六处骨裂",
+      "onboard_time": 1727679319,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 331224,
       "num": 258340,
       "word": "东北雨姐回应后继续掉粉",
@@ -417,6 +449,14 @@
       "onboard_time": 1727673019,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 321402,
+      "num": 247948,
+      "word": "头发别在耳后显脸小的方法",
+      "onboard_time": 1727678480,
+      "rank": 36,
+      "category": "美妆"
     },
     {
       "raw_hot": 320759,
@@ -483,6 +523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 290691,
+      "num": 290691,
+      "word": "A股41只券商股全部涨停",
+      "onboard_time": 1727676740,
+      "rank": 25,
+      "category": "财经"
+    },
+    {
       "raw_hot": 290646,
       "num": 290646,
       "word": "首套二套存量房贷利率批量下调",
@@ -537,6 +585,14 @@
       "onboard_time": 1727667621,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 251536,
+      "num": 251536,
+      "word": "曾黎连续两年巴黎看秀背同一只包",
+      "onboard_time": 1727679021,
+      "rank": 17,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 250805,
@@ -635,11 +691,11 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 227136,
-      "num": 227136,
-      "word": "13岁男孩夏令营遭体罚致横纹肌溶解",
-      "onboard_time": 1727676140,
-      "rank": 31,
+      "raw_hot": 224699,
+      "num": 224699,
+      "word": "中缅一举抓获870名电诈嫌犯",
+      "onboard_time": 1727671340,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -657,14 +713,6 @@
       "onboard_time": 1727664618,
       "rank": 28,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 219940,
-      "num": 219940,
-      "word": "A股41只券商股全部涨停",
-      "onboard_time": 1727676740,
-      "rank": 25,
-      "category": "财经"
     },
     {
       "raw_hot": 215976,
@@ -715,6 +763,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 204210,
+      "num": 281105,
+      "word": "把青春华章写在祖国大地上",
+      "onboard_time": 1727680460,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 199493,
       "num": 199493,
       "word": "烈士纪念日向烈士默哀",
@@ -761,6 +817,14 @@
       "onboard_time": 1727658379,
       "rank": 28,
       "category": "财经"
+    },
+    {
+      "raw_hot": 190850,
+      "num": 190850,
+      "word": "锦绣安宁",
+      "onboard_time": 1727679800,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 190154,
@@ -859,6 +923,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 174373,
+      "num": 174373,
+      "word": "A股这波行情你跟上了吗",
+      "onboard_time": 1727678720,
+      "rank": 43,
+      "category": "财经"
+    },
+    {
       "raw_hot": 174320,
       "num": 174320,
       "word": "最可爱的人被塞给了最可爱的人",
@@ -899,6 +971,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 169670,
+      "num": 169670,
+      "word": "岁岁年年的爱献给祖国",
+      "onboard_time": 1727675778,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 168574,
       "num": 160278,
       "word": "汪苏泷上海演唱会抢票",
@@ -921,6 +1001,14 @@
       "onboard_time": 1727618480,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 163349,
+      "num": 163349,
+      "word": "代号鸢 文丑尽义了",
+      "onboard_time": 1727680401,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 162896,
@@ -1075,14 +1163,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 147047,
-      "num": 147047,
-      "word": "头发别在耳后显脸小的方法",
-      "onboard_time": 1727678480,
-      "rank": 36,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 145229,
       "num": 342964,
       "word": "股民说希望在1万点胜利大会师",
@@ -1115,8 +1195,8 @@
       "category": "财经"
     },
     {
-      "raw_hot": 143634,
-      "num": 143634,
+      "raw_hot": 143719,
+      "num": 143719,
       "word": "杨靖宇生前唯一的照片",
       "onboard_time": 1727677998,
       "rank": 39,
@@ -1161,6 +1241,14 @@
       "onboard_time": 1727675119,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 139726,
+      "num": 139726,
+      "word": "留学生来中6年嫌英文太难秒切中文",
+      "onboard_time": 1727678900,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 139659,
@@ -1259,12 +1347,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 128779,
-      "num": 128779,
-      "word": "A股这波行情你跟上了吗",
-      "onboard_time": 1727678720,
-      "rank": 43,
-      "category": "财经"
+      "raw_hot": 131867,
+      "num": 131867,
+      "word": "虞书欣宝石草莓大片",
+      "onboard_time": 1727680641,
+      "rank": 40,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 128759,
@@ -1275,20 +1363,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 128509,
+      "num": 128509,
+      "word": "沪深两市成交额突破2万亿元",
+      "onboard_time": 1727680700,
+      "rank": 42,
+      "category": "财经"
+    },
+    {
       "raw_hot": 128358,
       "num": 128358,
       "word": "任嘉伦翻身骑马打戏",
       "onboard_time": 1727671100,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 127371,
-      "num": 220030,
-      "word": "中缅一举抓获870名电诈嫌犯",
-      "onboard_time": 1727671340,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 126048,
@@ -1467,6 +1555,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 110515,
+      "num": 110515,
+      "word": "沪深成交额创下历史最高纪录",
+      "onboard_time": 1727679561,
+      "rank": 48,
+      "category": "财经"
+    },
+    {
       "raw_hot": 110148,
       "num": 115273,
       "word": "上海住房增值税征免年限5年调整为2年",
@@ -1480,6 +1576,14 @@
       "word": "教育局回应鹤壁技师学院打人事件",
       "onboard_time": 1727612180,
       "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 107773,
+      "num": 107773,
+      "word": "河南取消住房限购",
+      "onboard_time": 1727680880,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -1577,6 +1681,14 @@
       "onboard_time": 1727665818,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 91569,
+      "num": 250657,
+      "word": "可我就是心疼卫昭",
+      "onboard_time": 1727680520,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 90186,
@@ -1875,6 +1987,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 36629,
+      "num": 250474,
+      "word": "电商用猪肉假冒牛肉干销售额达500万",
+      "onboard_time": 1727679978,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 35339,
       "num": 380199,
       "word": "官方回应水司楼变身度假酒店",
@@ -1939,6 +2059,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 24553,
+      "num": 275288,
+      "word": "文物局回应古寺修缮未能修旧如旧",
+      "onboard_time": 1727680460,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 23810,
       "num": 33718,
       "word": "AG告别秋季赛",
@@ -1985,6 +2113,14 @@
       "onboard_time": 1727651175,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 14717,
+      "num": 241517,
+      "word": "电影志愿军存亡之战路演",
+      "onboard_time": 1727680820,
+      "rank": 24,
+      "category": "电影"
     },
     {
       "raw_hot": 10669,
