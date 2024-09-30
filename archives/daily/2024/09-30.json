@@ -1,6 +1,6 @@
 {
   "startTime": 1727627182055,
-  "endTime": 1727707283450,
+  "endTime": 1727709888246,
   "band_list": [
     {
       "raw_hot": 2429172,
@@ -57,6 +57,14 @@
       "onboard_time": 1727679679,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1457265,
+      "num": 413271,
+      "word": "还是低估了国庆假期堵车的程度",
+      "onboard_time": 1727704340,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1403282,
@@ -155,20 +163,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1070184,
+      "num": 321926,
+      "word": "网红女骑士石膏发生车祸身亡",
+      "onboard_time": 1727705540,
+      "rank": 18,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 1064845,
       "num": 276187,
       "word": "金靖和男朋友 直球恋爱",
       "onboard_time": 1727684658,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1062618,
-      "num": 295089,
-      "word": "网红女骑士石膏发生车祸身亡",
-      "onboard_time": 1727705540,
-      "rank": 18,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 1051685,
@@ -248,6 +256,14 @@
       "word": "堵车时劝你不要打开车窗",
       "onboard_time": 1727674100,
       "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 720650,
+      "num": 309248,
+      "word": "为了国庆不添堵结果堵在高速路",
+      "onboard_time": 1727704642,
+      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -363,14 +379,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 527853,
-      "num": 413271,
-      "word": "还是低估了国庆假期堵车的程度",
-      "onboard_time": 1727704340,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 523849,
       "num": 523849,
       "word": "马龙3比0皮切福德",
@@ -392,6 +400,14 @@
       "word": "李美珍生理期跑完马拉松",
       "onboard_time": 1727658259,
       "rank": 18,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 503834,
+      "num": 304781,
+      "word": "马龙一家四口同框",
+      "onboard_time": 1727706620,
+      "rank": 32,
       "category": "体育"
     },
     {
@@ -667,6 +683,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 347855,
+      "num": 347855,
+      "word": "七夜雪定档",
+      "onboard_time": 1727707701,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 347073,
       "num": 405989,
       "word": "烈士纪念日的天安门广场",
@@ -675,12 +699,36 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 340321,
+      "num": 340321,
+      "word": "北京下调个人住房贷款首付款比例",
+      "onboard_time": 1727707881,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 333841,
       "num": 333841,
       "word": "郑钦文vs波多罗斯卡",
       "onboard_time": 1727691860,
       "rank": 29,
       "category": "教育"
+    },
+    {
+      "raw_hot": 332479,
+      "num": 332479,
+      "word": "成都混团世界杯名单",
+      "onboard_time": 1727706021,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 332433,
+      "num": 332432,
+      "word": "北京楼市出台一揽子新政",
+      "onboard_time": 1727708121,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 331224,
@@ -795,12 +843,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 295381,
-      "num": 295381,
-      "word": "成都混团世界杯名单",
-      "onboard_time": 1727706021,
-      "rank": 30,
-      "category": "体育"
+      "raw_hot": 296328,
+      "num": 296328,
+      "word": "女子拔插头被电伤截肢",
+      "onboard_time": 1727709140,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 293032,
@@ -939,6 +987,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 246902,
+      "num": 246902,
+      "word": "华伦天奴 设计",
+      "onboard_time": 1727705481,
+      "rank": 35,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 244881,
       "num": 244881,
       "word": "深圳首套房最低首付款比例调整为15%",
@@ -1017,6 +1073,14 @@
       "onboard_time": 1727686519,
       "rank": 22,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 236265,
+      "num": 236265,
+      "word": "黎巴嫩网红双胞胎母亲拍下逃难画面",
+      "onboard_time": 1727708900,
+      "rank": 24,
+      "category": "国外时政"
     },
     {
       "raw_hot": 233928,
@@ -1147,6 +1211,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 206841,
+      "num": 332433,
+      "word": "700多位航天英烈长眠酒泉",
+      "onboard_time": 1727707461,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 206257,
       "num": 206257,
       "word": "Henry的小提琴拉的快冒烟了",
@@ -1233,6 +1305,14 @@
       "onboard_time": 1727700500,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 198244,
+      "num": 198244,
+      "word": "恒大地产和许家印等被处分",
+      "onboard_time": 1727709439,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 198225,
@@ -1379,6 +1459,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 187424,
+      "num": 187424,
+      "word": "迪丽热巴陈飞宇慕胥辞情侣装",
+      "onboard_time": 1727706501,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 187207,
+      "num": 332433,
+      "word": "中国选手首进中网男单四强",
+      "onboard_time": 1727706801,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 186715,
       "num": 186715,
       "word": "21岁男生工作20余天后跳桥身亡",
@@ -1483,28 +1579,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 179105,
-      "num": 179105,
-      "word": "迪丽热巴陈飞宇慕胥辞情侣装",
-      "onboard_time": 1727706501,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 177960,
       "num": 195460,
       "word": "明日有晴天 父女亲情",
       "onboard_time": 1727664078,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 176889,
-      "num": 291892,
-      "word": "为了国庆不添堵结果堵在高速路",
-      "onboard_time": 1727704642,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 176098,
@@ -1619,6 +1699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 165502,
+      "num": 332434,
+      "word": "749局2024国庆档预售票房冠军",
+      "onboard_time": 1727708481,
+      "rank": 7,
+      "category": "电影"
+    },
+    {
       "raw_hot": 164647,
       "num": 496336,
       "word": "当地回应斯坦福博士已入职镇政府",
@@ -1657,14 +1745,6 @@
       "onboard_time": 1727664919,
       "rank": 37,
       "category": "财经"
-    },
-    {
-      "raw_hot": 162569,
-      "num": 162569,
-      "word": "华伦天奴 设计",
-      "onboard_time": 1727705481,
-      "rank": 35,
-      "category": "时尚"
     },
     {
       "raw_hot": 162199,
@@ -1771,6 +1851,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 155986,
+      "num": 208461,
+      "word": "A股还有三关要过",
+      "onboard_time": 1727708000,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 155553,
       "num": 155553,
       "word": "沪指5天大涨20%",
@@ -1873,14 +1961,6 @@
       "onboard_time": 1727652677,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 148420,
-      "num": 148420,
-      "word": "马龙一家四口同框",
-      "onboard_time": 1727706620,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 148335,
@@ -2315,6 +2395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 124743,
+      "num": 124743,
+      "word": "布云朝克特下轮对阵世界第一",
+      "onboard_time": 1727708719,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 124111,
       "num": 124111,
       "word": "A股房地产板块多股涨停",
@@ -2499,6 +2587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 115030,
+      "num": 115030,
+      "word": "外籍男子将日本老人推倒致死",
+      "onboard_time": 1727709680,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 114800,
       "num": 114800,
       "word": "代号鸢 什么仗要本王亲自打",
@@ -2587,6 +2683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 109845,
+      "num": 109845,
+      "word": "国庆节文案",
+      "onboard_time": 1727709320,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 109570,
       "num": 109570,
       "word": "教育局回应鹤壁技师学院打人事件",
@@ -2641,6 +2745,14 @@
       "onboard_time": 1727698520,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 106959,
+      "num": 106959,
+      "word": "旅客行李箱塞满180万美元入境",
+      "onboard_time": 1727709501,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 106666,
@@ -2875,14 +2987,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 87960,
-      "num": 204408,
-      "word": "中国选手首进中网男单四强",
-      "onboard_time": 1727706801,
-      "rank": 18,
-      "category": "体育"
-    },
-    {
       "raw_hot": 87346,
       "num": 87346,
       "word": "国庆雷军和尼格买提小米工厂直播",
@@ -3072,6 +3176,14 @@
       "word": "广州取消限购后售楼部深夜灯火通明",
       "onboard_time": 1727687179,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 59935,
+      "num": 317269,
+      "word": "北京五环内购房社保年限5改3",
+      "onboard_time": 1727708959,
+      "rank": 14,
       "category": "社会新闻"
     },
     {

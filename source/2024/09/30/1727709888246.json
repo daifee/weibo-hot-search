@@ -1,0 +1,410 @@
+{
+  "runTime": 1727709888246,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 818483,
+        "num": 1130957,
+        "word": "小哥误撞奔驰车主免赔偿称结婚叫我",
+        "onboard_time": 1727700080,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 691777,
+        "num": 691777,
+        "word": "上海房东连夜跳价50万",
+        "onboard_time": 1727696778,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32316,
+        "num": 573297,
+        "word": "亲亲的长街新新的模样",
+        "onboard_time": 1727702842,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 570655,
+        "num": 570655,
+        "word": "马龙采访被儿子打断",
+        "onboard_time": 1727702780,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 347855,
+        "num": 347855,
+        "word": "七夜雪定档",
+        "onboard_time": 1727707701,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 340321,
+        "num": 340321,
+        "word": "北京下调个人住房贷款首付款比例",
+        "onboard_time": 1727707881,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 332479,
+        "num": 332479,
+        "word": "成都混团世界杯名单",
+        "onboard_time": 1727706021,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 165502,
+        "num": 332434,
+        "word": "749局2024国庆档预售票房冠军",
+        "onboard_time": 1727708481,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 187207,
+        "num": 332433,
+        "word": "中国选手首进中网男单四强",
+        "onboard_time": 1727706801,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 206841,
+        "num": 332433,
+        "word": "700多位航天英烈长眠酒泉",
+        "onboard_time": 1727707461,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 332433,
+        "num": 332432,
+        "word": "北京楼市出台一揽子新政",
+        "onboard_time": 1727708121,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 328312,
+        "num": 328312,
+        "word": "A股疯涨普通人是否要入局",
+        "onboard_time": 1727683579,
+        "rank": 11,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1457265,
+        "num": 328071,
+        "word": "还是低估了国庆假期堵车的程度",
+        "onboard_time": 1727704340,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1070184,
+        "num": 321926,
+        "word": "网红女骑士石膏发生车祸身亡",
+        "onboard_time": 1727705540,
+        "rank": 13,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 59935,
+        "num": 317269,
+        "word": "北京五环内购房社保年限5改3",
+        "onboard_time": 1727708959,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 826508,
+        "num": 315868,
+        "word": "哀牢山",
+        "onboard_time": 1727694079,
+        "rank": 15,
+        "category": "自然,网红"
+      },
+      {
+        "raw_hot": 720650,
+        "num": 309248,
+        "word": "为了国庆不添堵结果堵在高速路",
+        "onboard_time": 1727704642,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 503834,
+        "num": 304781,
+        "word": "马龙一家四口同框",
+        "onboard_time": 1727706620,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 358137,
+        "num": 301964,
+        "word": "5岁幼童遭8岁男孩强行推入水池",
+        "onboard_time": 1727702479,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 334176,
+        "num": 297546,
+        "word": "中纪委驻中组部纪检监察组组长李刚被查",
+        "onboard_time": 1727700861,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 296328,
+        "num": 296328,
+        "word": "女子拔插头被电伤截肢",
+        "onboard_time": 1727709140,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 283892,
+        "num": 283892,
+        "word": "台湾首来大陆同胞1256个景区免票",
+        "onboard_time": 1727700202,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250070,
+        "num": 250070,
+        "word": "俞灏明谈公布恋情",
+        "onboard_time": 1727677760,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 246902,
+        "num": 246902,
+        "word": "华伦天奴 设计",
+        "onboard_time": 1727705481,
+        "rank": 23,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 236265,
+        "num": 236265,
+        "word": "黎巴嫩网红双胞胎母亲拍下逃难画面",
+        "onboard_time": 1727708900,
+        "rank": 24,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 155986,
+        "num": 208461,
+        "word": "A股还有三关要过",
+        "onboard_time": 1727708000,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198244,
+        "num": 198244,
+        "word": "恒大地产和许家印等被处分",
+        "onboard_time": 1727709439,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187424,
+        "num": 187424,
+        "word": "迪丽热巴陈飞宇慕胥辞情侣装",
+        "onboard_time": 1727706501,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169642,
+        "num": 169642,
+        "word": "哀牢山 颜料师",
+        "onboard_time": 1727688918,
+        "rank": 28,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 111697,
+        "num": 168571,
+        "word": "2024央视国庆晚会节目单",
+        "onboard_time": 1727693119,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167787,
+        "num": 167787,
+        "word": "高鹏 有钱就变坏",
+        "onboard_time": 1727702479,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157257,
+        "num": 157257,
+        "word": "肖战 月亮代表我的心",
+        "onboard_time": 1727706562,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147343,
+        "num": 147343,
+        "word": "哑舍动画定档",
+        "onboard_time": 1727705781,
+        "rank": 32,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 144706,
+        "num": 144706,
+        "word": "华伦天奴 头巾",
+        "onboard_time": 1727705420,
+        "rank": 33,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 135960,
+        "num": 135960,
+        "word": "A股大涨多个银行大额存单被转让",
+        "onboard_time": 1727706380,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 135649,
+        "num": 135649,
+        "word": "杨紫直播句句有回应",
+        "onboard_time": 1727703800,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127023,
+        "num": 127023,
+        "word": "庆祝中华人民共和国成立75周年招待会",
+        "onboard_time": 1727701580,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 124743,
+        "num": 124743,
+        "word": "布云朝克特下轮对阵世界第一",
+        "onboard_time": 1727708719,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123913,
+        "num": 123913,
+        "word": "男子遭叉车碾压忍痛爬起将车熄火",
+        "onboard_time": 1727689879,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122739,
+        "num": 122739,
+        "word": "马龙带两个儿子亮相中国大满贯",
+        "onboard_time": 1727697499,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121012,
+        "num": 121012,
+        "word": "射手座的喜欢与爱差别很大",
+        "onboard_time": 1727697619,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 115030,
+        "num": 115030,
+        "word": "外籍男子将日本老人推倒致死",
+        "onboard_time": 1727709680,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111167,
+        "num": 111167,
+        "word": "张若昀好帅",
+        "onboard_time": 1727702899,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109845,
+        "num": 109845,
+        "word": "国庆节文案",
+        "onboard_time": 1727709320,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 106959,
+        "num": 106959,
+        "word": "旅客行李箱塞满180万美元入境",
+        "onboard_time": 1727709501,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104181,
+        "num": 104181,
+        "word": "马龙3比0皮切福德",
+        "onboard_time": 1727699120,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100329,
+        "num": 100329,
+        "word": "山取",
+        "onboard_time": 1727703080,
+        "rank": 46,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 99151,
+        "num": 99151,
+        "word": "关晓彤直播",
+        "onboard_time": 1727705061,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96147,
+        "num": 96147,
+        "word": "孙涵涵 假性独立女性",
+        "onboard_time": 1727702301,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 89474,
+        "num": 96087,
+        "word": "志愿军存亡之战",
+        "onboard_time": 1727691138,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#铭记英烈丰功伟绩同心谱写时代新篇#"
+    }
+  }
+}
