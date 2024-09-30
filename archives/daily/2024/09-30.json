@@ -1,7 +1,15 @@
 {
   "startTime": 1727627182055,
-  "endTime": 1727667223257,
+  "endTime": 1727667947357,
   "band_list": [
+    {
+      "raw_hot": 1665921,
+      "num": 1665921,
+      "word": "A股疯牛",
+      "onboard_time": 1727662938,
+      "rank": 25,
+      "category": "财经"
+    },
     {
       "raw_hot": 1581576,
       "num": 1581576,
@@ -25,14 +33,6 @@
       "onboard_time": 1727658259,
       "rank": 1,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1236225,
-      "num": 1236225,
-      "word": "A股疯牛",
-      "onboard_time": 1727662938,
-      "rank": 25,
-      "category": "财经"
     },
     {
       "raw_hot": 1207848,
@@ -64,6 +64,22 @@
       "word": "广州官宣楼市取消限购",
       "onboard_time": 1727623940,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 751558,
+      "num": 385800,
+      "word": "回本",
+      "onboard_time": 1727663899,
+      "rank": 30,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 648548,
+      "num": 648548,
+      "word": "90后00后投资者入市了",
+      "onboard_time": 1727661380,
+      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -107,20 +123,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 508899,
+      "num": 508899,
+      "word": "斯坦福博士已入职乡镇公务员岗",
+      "onboard_time": 1727666419,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 504384,
       "num": 412707,
       "word": "李美珍生理期跑完马拉松",
       "onboard_time": 1727658259,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 478281,
-      "num": 478281,
-      "word": "90后00后投资者入市了",
-      "onboard_time": 1727661380,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 475731,
@@ -139,6 +155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 460211,
+      "num": 460211,
+      "word": "35分钟A股成交额突破1万亿",
+      "onboard_time": 1727663839,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 451071,
       "num": 248043,
       "word": "王源妈妈骄傲的先退场了",
@@ -147,7 +171,7 @@
       "category": "演出"
     },
     {
-      "raw_hot": 446654,
+      "raw_hot": 449214,
       "num": 402498,
       "word": "迪丽热巴条纹毛衣搭花苞裙",
       "onboard_time": 1727664380,
@@ -195,14 +219,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 385800,
-      "num": 385800,
-      "word": "回本",
-      "onboard_time": 1727663899,
-      "rank": 30,
-      "category": "财经"
-    },
-    {
       "raw_hot": 375419,
       "num": 375419,
       "word": "重庆断崖式降温你准备好了吗",
@@ -217,6 +233,14 @@
       "onboard_time": 1727629514,
       "rank": 1,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 350413,
+      "num": 350413,
+      "word": "张本美和说孙颖莎是最厉害的",
+      "onboard_time": 1727664799,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 347073,
@@ -243,11 +267,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 323722,
-      "num": 358297,
-      "word": "35分钟A股成交额突破1万亿",
-      "onboard_time": 1727663839,
-      "rank": 7,
+      "raw_hot": 320759,
+      "num": 285184,
+      "word": "爸爸生日女儿花30元送仿真土豪三件套",
+      "onboard_time": 1727664318,
+      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -283,14 +307,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 296349,
-      "num": 285184,
-      "word": "爸爸生日女儿花30元送仿真土豪三件套",
-      "onboard_time": 1727664318,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 293032,
       "num": 255926,
       "word": "快递柜拿取声吵到婴儿被封",
@@ -315,14 +331,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 278254,
-      "num": 278254,
-      "word": "张本美和说孙颖莎是最厉害的",
-      "onboard_time": 1727664799,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 268782,
       "num": 228856,
       "word": "熊 最讨厌抢功劳的同事",
@@ -345,14 +353,6 @@
       "onboard_time": 1727621900,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 250227,
-      "num": 250227,
-      "word": "斯坦福博士已入职乡镇公务员岗",
-      "onboard_time": 1727666419,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 247423,
@@ -435,6 +435,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 225225,
+      "num": 183688,
+      "word": "黑暗荣耀文东恩妈妈饰演者去世",
+      "onboard_time": 1727667621,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 224420,
+      "num": 224420,
+      "word": "杨紫回应秀场wink",
+      "onboard_time": 1727665219,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 220384,
       "num": 220384,
       "word": "双胞胎还在妈妈子宫就把手术做了",
@@ -464,14 +480,6 @@
       "word": "王一博网球发球",
       "onboard_time": 1727659699,
       "rank": 24,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 212026,
-      "num": 212026,
-      "word": "杨紫回应秀场wink",
-      "onboard_time": 1727665219,
-      "rank": 38,
       "category": "作品衍生"
     },
     {
@@ -555,11 +563,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 184827,
+      "num": 184827,
+      "word": "成毅官宣雷朋全球品牌代言人",
+      "onboard_time": 1727667679,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 184508,
       "num": 184508,
       "word": "程潇说妹妹和自己性格一模一样",
       "onboard_time": 1727663119,
       "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 183662,
+      "num": 183662,
+      "word": "心动的信号7",
+      "onboard_time": 1727666059,
+      "rank": 34,
       "category": "综艺"
     },
     {
@@ -603,12 +627,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 173097,
-      "num": 173097,
-      "word": "心动的信号7",
-      "onboard_time": 1727666059,
-      "rank": 34,
-      "category": "综艺"
+      "raw_hot": 172868,
+      "num": 183928,
+      "word": "电视剧足迹杀青",
+      "onboard_time": 1727667438,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 163694,
@@ -811,6 +835,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 124043,
+      "num": 124043,
+      "word": "提前出发的已经被堵在路上",
+      "onboard_time": 1727667318,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 122906,
       "num": 345541,
       "word": "A股 高开",
@@ -929,6 +961,14 @@
       "onboard_time": 1727623400,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 104059,
+      "num": 104059,
+      "word": "江慈 嘴硬心软",
+      "onboard_time": 1727667919,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 102304,
@@ -1188,7 +1228,7 @@
     },
     {
       "raw_hot": 43707,
-      "num": 282676,
+      "num": 341989,
       "word": "阿祖这次还没收手",
       "onboard_time": 1727665459,
       "rank": 37,
@@ -1220,7 +1260,7 @@
     },
     {
       "raw_hot": 35219,
-      "num": 289084,
+      "num": 317088,
       "word": "超牛的贴秋膘指南",
       "onboard_time": 1727665459,
       "rank": 45,
@@ -1291,7 +1331,7 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 10361,
+      "raw_hot": 10669,
       "num": 446598,
       "word": "奔赴山与海征途向未来",
       "onboard_time": 1727581338,

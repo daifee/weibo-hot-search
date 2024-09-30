@@ -1,0 +1,410 @@
+{
+  "runTime": 1727667947357,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1665921,
+        "num": 1665921,
+        "word": "A股疯牛",
+        "onboard_time": 1727662938,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 648548,
+        "num": 648548,
+        "word": "90后00后投资者入市了",
+        "onboard_time": 1727661380,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3604,
+        "num": 556536,
+        "word": "何以英雄他们给出了闪亮的答案",
+        "onboard_time": 1727616198,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 508899,
+        "num": 508899,
+        "word": "斯坦福博士已入职乡镇公务员岗",
+        "onboard_time": 1727666419,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 460211,
+        "num": 460211,
+        "word": "35分钟A股成交额突破1万亿",
+        "onboard_time": 1727663839,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 414735,
+        "num": 414735,
+        "word": "撒贝宁北大保送含金量还在上升",
+        "onboard_time": 1727658259,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 395582,
+        "num": 395582,
+        "word": "A股大涨上海马路股市沙龙人气旺",
+        "onboard_time": 1727663478,
+        "rank": 6,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 183667,
+        "num": 384353,
+        "word": "749局",
+        "onboard_time": 1727656518,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 10669,
+        "num": 373621,
+        "word": "奔赴山与海征途向未来",
+        "onboard_time": 1727581338,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 373221,
+        "num": 373221,
+        "word": "外媒称真主党高层几乎被团灭",
+        "onboard_time": 1727656461,
+        "rank": 9,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 449214,
+        "num": 369566,
+        "word": "迪丽热巴条纹毛衣搭花苞裙",
+        "onboard_time": 1727664380,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 358805,
+        "num": 358805,
+        "word": "潘玮柏 完蛋繁体跟简体不一样",
+        "onboard_time": 1727661499,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 350413,
+        "num": 350413,
+        "word": "张本美和说孙颖莎是最厉害的",
+        "onboard_time": 1727664799,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 18940,
+        "num": 341989,
+        "word": "阿祖这次还没收手",
+        "onboard_time": 1727665459,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 336539,
+        "num": 336539,
+        "word": "A股",
+        "onboard_time": 1727659518,
+        "rank": 14,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 23826,
+        "num": 317088,
+        "word": "超牛的贴秋膘指南",
+        "onboard_time": 1727665459,
+        "rank": 15,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 751558,
+        "num": 315097,
+        "word": "回本",
+        "onboard_time": 1727663899,
+        "rank": 16,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 309263,
+        "num": 309263,
+        "word": "烈士纪念日的天安门广场",
+        "onboard_time": 1727660900,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 244139,
+        "num": 244139,
+        "word": "女子收到12306八百万退款短信",
+        "onboard_time": 1727617880,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224420,
+        "num": 224420,
+        "word": "杨紫回应秀场wink",
+        "onboard_time": 1727665219,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 588150,
+        "num": 209806,
+        "word": "董宇辉 居里夫人",
+        "onboard_time": 1727656042,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 320759,
+        "num": 209653,
+        "word": "爸爸生日女儿花30元送仿真土豪三件套",
+        "onboard_time": 1727664318,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 313819,
+        "num": 208587,
+        "word": "男生玩抽皮条不慎将血管抽爆",
+        "onboard_time": 1727660959,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188810,
+        "num": 188810,
+        "word": "十月行程图",
+        "onboard_time": 1727664618,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 187631,
+        "num": 187631,
+        "word": "基金",
+        "onboard_time": 1727664859,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 71731,
+        "num": 186916,
+        "word": "券商感慨被骂三年终于做人",
+        "onboard_time": 1727666118,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186462,
+        "num": 186462,
+        "word": "我国第十一个烈士纪念日",
+        "onboard_time": 1727655618,
+        "rank": 26,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 184827,
+        "num": 184827,
+        "word": "成毅官宣雷朋全球品牌代言人",
+        "onboard_time": 1727667679,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172868,
+        "num": 183928,
+        "word": "电视剧足迹杀青",
+        "onboard_time": 1727667438,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 38873,
+        "num": 183714,
+        "word": "美官员称纳斯鲁拉死了才更安全",
+        "onboard_time": 1727667079,
+        "rank": 29,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 225225,
+        "num": 183688,
+        "word": "黑暗荣耀文东恩妈妈饰演者去世",
+        "onboard_time": 1727667621,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183662,
+        "num": 183662,
+        "word": "心动的信号7",
+        "onboard_time": 1727666059,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181719,
+        "num": 181719,
+        "word": "李美珍生理期跑完马拉松",
+        "onboard_time": 1727658259,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 180324,
+        "num": 180324,
+        "word": "内塔尼亚胡称以色列已到历史转折点",
+        "onboard_time": 1727621661,
+        "rank": 33,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 176634,
+        "num": 176634,
+        "word": "广州官宣楼市取消限购",
+        "onboard_time": 1727623940,
+        "rank": 34,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 169194,
+        "num": 169194,
+        "word": "山河无恙致敬先烈",
+        "onboard_time": 1727658740,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 162372,
+        "num": 162372,
+        "word": "赵丽颖格物观己",
+        "onboard_time": 1727665940,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 158139,
+        "num": 158139,
+        "word": "Henry的小提琴拉的快冒烟了",
+        "onboard_time": 1727664380,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 140419,
+        "num": 140419,
+        "word": "股民说希望在1万点胜利大会师",
+        "onboard_time": 1727662278,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 139356,
+        "num": 139356,
+        "word": "房地产板块大爆发",
+        "onboard_time": 1727664680,
+        "rank": 39,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 130451,
+        "num": 130451,
+        "word": "程潇说妹妹和自己性格一模一样",
+        "onboard_time": 1727663119,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128476,
+        "num": 128476,
+        "word": "黄小蕾说有王心凌真好",
+        "onboard_time": 1727666359,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 124819,
+        "num": 124819,
+        "word": "烈士纪念日向人民英雄敬献花篮",
+        "onboard_time": 1727661739,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124043,
+        "num": 124043,
+        "word": "提前出发的已经被堵在路上",
+        "onboard_time": 1727667318,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 115324,
+        "num": 115324,
+        "word": "黄晓明再现我不要你觉得",
+        "onboard_time": 1727656042,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115058,
+        "num": 115058,
+        "word": "股市",
+        "onboard_time": 1727660116,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 112232,
+        "num": 112232,
+        "word": "第一次见会动的纹身",
+        "onboard_time": 1727661739,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 108634,
+        "num": 108634,
+        "word": "烈士纪念日向烈士默哀",
+        "onboard_time": 1727663419,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 106930,
+        "num": 106930,
+        "word": "A股大涨",
+        "onboard_time": 1727665520,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 104059,
+        "num": 104059,
+        "word": "江慈 嘴硬心软",
+        "onboard_time": 1727667919,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#一切民族英雄都是中华民族的脊梁#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1727540758074,
-  "endTime": 1727667223257,
+  "endTime": 1727667947357,
   "band_list": [
     {
       "raw_hot": 2629801,
@@ -41,6 +41,14 @@
       "onboard_time": 1727579298,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1665921,
+      "num": 1665921,
+      "word": "A股疯牛",
+      "onboard_time": 1727662938,
+      "rank": 25,
+      "category": "财经"
     },
     {
       "raw_hot": 1581576,
@@ -105,14 +113,6 @@
       "onboard_time": 1727580018,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1236225,
-      "num": 1236225,
-      "word": "A股疯牛",
-      "onboard_time": 1727662938,
-      "rank": 25,
-      "category": "财经"
     },
     {
       "raw_hot": 1207848,
@@ -307,6 +307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 751558,
+      "num": 385800,
+      "word": "回本",
+      "onboard_time": 1727663899,
+      "rank": 30,
+      "category": "财经"
+    },
+    {
       "raw_hot": 746351,
       "num": 1119416,
       "word": "央媒评淘宝可使用微信支付",
@@ -377,6 +385,14 @@
       "onboard_time": 1727579238,
       "rank": 47,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 648548,
+      "num": 648548,
+      "word": "90后00后投资者入市了",
+      "onboard_time": 1727661380,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 648245,
@@ -611,6 +627,14 @@
       "category": "作品衍生,艺人"
     },
     {
+      "raw_hot": 508899,
+      "num": 508899,
+      "word": "斯坦福博士已入职乡镇公务员岗",
+      "onboard_time": 1727666419,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 505794,
       "num": 505794,
       "word": "张本美和又哭了",
@@ -691,14 +715,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 478281,
-      "num": 478281,
-      "word": "90后00后投资者入市了",
-      "onboard_time": 1727661380,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 472480,
       "num": 461690,
       "word": "俩老人买黄金不问价店员果断报警",
@@ -723,6 +739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 460211,
+      "num": 460211,
+      "word": "35分钟A股成交额突破1万亿",
+      "onboard_time": 1727663839,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 458600,
       "num": 333065,
       "word": "男子为了出气杀害表哥一家四口",
@@ -731,7 +755,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 446654,
+      "raw_hot": 449214,
       "num": 402498,
       "word": "迪丽热巴条纹毛衣搭花苞裙",
       "onboard_time": 1727664380,
@@ -907,14 +931,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 385800,
-      "num": 385800,
-      "word": "回本",
-      "onboard_time": 1727663899,
-      "rank": 30,
-      "category": "财经"
-    },
-    {
       "raw_hot": 384920,
       "num": 222989,
       "word": "十个勤天玫瑰酪",
@@ -1001,6 +1017,14 @@
       "onboard_time": 1727586260,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 350413,
+      "num": 350413,
+      "word": "张本美和说孙颖莎是最厉害的",
+      "onboard_time": 1727664799,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 347073,
@@ -1115,14 +1139,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 323722,
-      "num": 358297,
-      "word": "35分钟A股成交额突破1万亿",
-      "onboard_time": 1727663839,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 323075,
       "num": 323075,
       "word": "辽菜是第一个国家级非遗菜系",
@@ -1137,6 +1153,14 @@
       "onboard_time": 1727573658,
       "rank": 21,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 320759,
+      "num": 285184,
+      "word": "爸爸生日女儿花30元送仿真土豪三件套",
+      "onboard_time": 1727664318,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 318755,
@@ -1227,14 +1251,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 296349,
-      "num": 285184,
-      "word": "爸爸生日女儿花30元送仿真土豪三件套",
-      "onboard_time": 1727664318,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 296123,
       "num": 296123,
       "word": "赵丽颖不敢对李红樱感同身受",
@@ -1320,14 +1336,6 @@
       "word": "范思琦3比2王艺迪",
       "onboard_time": 1727614940,
       "rank": 25,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 278254,
-      "num": 278254,
-      "word": "张本美和说孙颖莎是最厉害的",
-      "onboard_time": 1727664799,
-      "rank": 47,
       "category": "体育"
     },
     {
@@ -1457,14 +1465,6 @@
       "onboard_time": 1727551452,
       "rank": 9,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 250227,
-      "num": 250227,
-      "word": "斯坦福博士已入职乡镇公务员岗",
-      "onboard_time": 1727666419,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 247479,
@@ -1643,6 +1643,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 225225,
+      "num": 183688,
+      "word": "黑暗荣耀文东恩妈妈饰演者去世",
+      "onboard_time": 1727667621,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 224420,
+      "num": 224420,
+      "word": "杨紫回应秀场wink",
+      "onboard_time": 1727665219,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 224341,
       "num": 224341,
       "word": "何广智精修脑子毛坯嘴",
@@ -1736,14 +1752,6 @@
       "word": "王一博网球发球",
       "onboard_time": 1727659699,
       "rank": 24,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 212026,
-      "num": 212026,
-      "word": "杨紫回应秀场wink",
-      "onboard_time": 1727665219,
-      "rank": 38,
       "category": "作品衍生"
     },
     {
@@ -2179,11 +2187,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 184827,
+      "num": 184827,
+      "word": "成毅官宣雷朋全球品牌代言人",
+      "onboard_time": 1727667679,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 184508,
       "num": 184508,
       "word": "程潇说妹妹和自己性格一模一样",
       "onboard_time": 1727663119,
       "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 183662,
+      "num": 183662,
+      "word": "心动的信号7",
+      "onboard_time": 1727666059,
+      "rank": 34,
       "category": "综艺"
     },
     {
@@ -2339,12 +2363,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 173097,
-      "num": 173097,
-      "word": "心动的信号7",
-      "onboard_time": 1727666059,
-      "rank": 34,
-      "category": "综艺"
+      "raw_hot": 172868,
+      "num": 183928,
+      "word": "电视剧足迹杀青",
+      "onboard_time": 1727667438,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 172802,
@@ -3243,6 +3267,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 124043,
+      "num": 124043,
+      "word": "提前出发的已经被堵在路上",
+      "onboard_time": 1727667318,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 124006,
       "num": 238938,
       "word": "黄俊捷直播",
@@ -3633,6 +3665,14 @@
       "onboard_time": 1727520558,
       "rank": 32,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 104059,
+      "num": 104059,
+      "word": "江慈 嘴硬心软",
+      "onboard_time": 1727667919,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 103855,
@@ -4388,7 +4428,7 @@
     },
     {
       "raw_hot": 43707,
-      "num": 282676,
+      "num": 341989,
       "word": "阿祖这次还没收手",
       "onboard_time": 1727665459,
       "rank": 37,
@@ -4508,7 +4548,7 @@
     },
     {
       "raw_hot": 35219,
-      "num": 289084,
+      "num": 317088,
       "word": "超牛的贴秋膘指南",
       "onboard_time": 1727665459,
       "rank": 45,
