@@ -1,6 +1,6 @@
 {
   "startTime": 1727540758074,
-  "endTime": 1727700254899,
+  "endTime": 1727701244911,
   "band_list": [
     {
       "raw_hot": 2629801,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 1814225,
-      "num": 368261,
+      "num": 374103,
       "word": "俞灏明谈公布恋情",
       "onboard_time": 1727677760,
       "rank": 30,
@@ -116,7 +116,7 @@
     },
     {
       "raw_hot": 1402885,
-      "num": 376705,
+      "num": 380628,
       "word": "哀牢山",
       "onboard_time": 1727694079,
       "rank": 13,
@@ -161,6 +161,14 @@
       "onboard_time": 1727658259,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1257696,
+      "num": 1257696,
+      "word": "上海房东连夜跳价50万",
+      "onboard_time": 1727696778,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1249445,
@@ -212,7 +220,7 @@
     },
     {
       "raw_hot": 1051685,
-      "num": 276792,
+      "num": 327105,
       "word": "男子遭叉车碾压忍痛爬起将车熄火",
       "onboard_time": 1727689879,
       "rank": 11,
@@ -281,14 +289,6 @@
       "onboard_time": 1727669059,
       "rank": 10,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 953792,
-      "num": 1152606,
-      "word": "上海房东连夜跳价50万",
-      "onboard_time": 1727696778,
-      "rank": 0,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 934503,
@@ -1123,6 +1123,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 405568,
+      "num": 405568,
+      "word": "小哥误撞奔驰车主免赔偿称结婚叫我",
+      "onboard_time": 1727700080,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 402719,
       "num": 402719,
       "word": "小水妆造",
@@ -1169,6 +1177,14 @@
       "onboard_time": 1727589979,
       "rank": 14,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 398383,
+      "num": 398383,
+      "word": "CP30抢票",
+      "onboard_time": 1727698940,
+      "rank": 14,
+      "category": "动漫"
     },
     {
       "raw_hot": 396473,
@@ -1299,6 +1315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 369902,
+      "num": 369902,
+      "word": "中俄巴伊四国外长联合声明",
+      "onboard_time": 1727697919,
+      "rank": 13,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 369368,
       "num": 369368,
       "word": "TES",
@@ -1323,14 +1347,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 360744,
-      "num": 360744,
-      "word": "中俄巴伊四国外长联合声明",
-      "onboard_time": 1727697919,
-      "rank": 13,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 357820,
       "num": 189981,
       "word": "市监局回应网友称住酒店遭临时涨价",
@@ -1345,14 +1361,6 @@
       "onboard_time": 1727581219,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 355266,
-      "num": 355266,
-      "word": "CP30抢票",
-      "onboard_time": 1727698940,
-      "rank": 14,
-      "category": "动漫"
     },
     {
       "raw_hot": 354662,
@@ -1489,6 +1497,14 @@
       "onboard_time": 1727611520,
       "rank": 8,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 324844,
+      "num": 324844,
+      "word": "中纪委驻中组部纪检监察组组长李刚被查",
+      "onboard_time": 1727700861,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 324584,
@@ -2219,6 +2235,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 219131,
+      "num": 219131,
+      "word": "马龙说想让儿子见识自己打一场比赛",
+      "onboard_time": 1727700319,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 217697,
       "num": 217697,
       "word": "威少炮轰湖人快船",
@@ -2281,6 +2305,14 @@
       "onboard_time": 1727670079,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 212775,
+      "num": 315043,
+      "word": "再见怦然心动定档",
+      "onboard_time": 1727699900,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 212229,
@@ -2411,6 +2443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 205087,
+      "num": 205087,
+      "word": "中网",
+      "onboard_time": 1727700619,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 205013,
       "num": 310737,
       "word": "王俊凯演技",
@@ -2505,6 +2545,14 @@
       "onboard_time": 1727663419,
       "rank": 31,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 199107,
+      "num": 199107,
+      "word": "郑钦文2比0波多罗斯卡",
+      "onboard_time": 1727700500,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 198839,
@@ -2867,6 +2915,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 185305,
+      "num": 185305,
+      "word": "王子奇 总共也没干几年",
+      "onboard_time": 1727695518,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 185103,
       "num": 161757,
       "word": "迪丽热巴坐三轮车路透",
@@ -2905,14 +2961,6 @@
       "onboard_time": 1727633234,
       "rank": 26,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 182513,
-      "num": 182513,
-      "word": "王子奇 总共也没干几年",
-      "onboard_time": 1727695518,
-      "rank": 27,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 182422,
@@ -3156,7 +3204,7 @@
     },
     {
       "raw_hot": 169427,
-      "num": 169427,
+      "num": 394249,
       "word": "郑钦文晋级中网16强",
       "onboard_time": 1727699780,
       "rank": 24,
@@ -3361,6 +3409,14 @@
       "onboard_time": 1727669120,
       "rank": 37,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 161403,
+      "num": 161403,
+      "word": "台湾首来大陆同胞1256个景区免票",
+      "onboard_time": 1727700202,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 160759,
@@ -3707,14 +3763,6 @@
       "category": "读书作家"
     },
     {
-      "raw_hot": 146409,
-      "num": 169113,
-      "word": "再见怦然心动定档",
-      "onboard_time": 1727699900,
-      "rank": 25,
-      "category": "电影"
-    },
-    {
       "raw_hot": 146125,
       "num": 146125,
       "word": "梅西破门",
@@ -3761,6 +3809,14 @@
       "onboard_time": 1727577916,
       "rank": 45,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 144595,
+      "num": 144595,
+      "word": "我的名字是国庆",
+      "onboard_time": 1727693119,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 143884,
@@ -4163,6 +4219,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 132783,
+      "num": 150442,
+      "word": "张杰国庆晚会少年中国说",
+      "onboard_time": 1727700919,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 132473,
       "num": 132473,
       "word": "王曼昱感谢大家来现场加油",
@@ -4307,12 +4371,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 128194,
-      "num": 128194,
-      "word": "我的名字是国庆",
-      "onboard_time": 1727693119,
-      "rank": 46,
-      "category": "社会新闻"
+      "raw_hot": 128198,
+      "num": 128198,
+      "word": "杨紫张晚意秀场自拍",
+      "onboard_time": 1727699599,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 128016,
@@ -4755,6 +4819,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 117648,
+      "num": 117648,
+      "word": "蒲熠星面试过第一季战至巅峰",
+      "onboard_time": 1727700919,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 117584,
       "num": 117584,
       "word": "一诺拔毛不容易",
@@ -4824,14 +4896,6 @@
       "word": "成都大风",
       "onboard_time": 1727599519,
       "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 115021,
-      "num": 115021,
-      "word": "小哥误撞奔驰车主免赔偿称结婚叫我",
-      "onboard_time": 1727700080,
-      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -4971,6 +5035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 109168,
+      "num": 109168,
+      "word": "专家谈股市是否会面临疯牛",
+      "onboard_time": 1727700380,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
       "raw_hot": 108719,
       "num": 108719,
       "word": "格列兹曼国家队退役",
@@ -5001,14 +5073,6 @@
       "onboard_time": 1727698520,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 107008,
-      "num": 107008,
-      "word": "杨紫张晚意秀场自拍",
-      "onboard_time": 1727699599,
-      "rank": 47,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 106666,
@@ -5211,14 +5275,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 99831,
-      "num": 99831,
-      "word": "台湾首来大陆同胞1256个景区免票",
-      "onboard_time": 1727700202,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 99541,
       "num": 99541,
       "word": "蒋时延看起来快碎了",
@@ -5307,6 +5363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 92027,
+      "num": 322096,
+      "word": "沪七条出台首日中介忙得没空吃饭",
+      "onboard_time": 1727700380,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 91599,
       "num": 236855,
       "word": "惠英红中轴线封面 恢宏东方气韵",
@@ -5320,6 +5384,14 @@
       "word": "电影出入平安今日上映",
       "onboard_time": 1727676620,
       "rank": 7,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 89757,
+      "num": 325934,
+      "word": "出入平安",
+      "onboard_time": 1727701040,
+      "rank": 14,
       "category": "电影"
     },
     {
@@ -6233,6 +6305,14 @@
       "onboard_time": 1727673738,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 34494,
+      "num": 158774,
+      "word": "朱一龙演技",
+      "onboard_time": 1727700560,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 34176,

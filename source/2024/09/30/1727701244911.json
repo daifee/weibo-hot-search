@@ -1,0 +1,410 @@
+{
+  "runTime": 1727701244911,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1257696,
+        "num": 1257696,
+        "word": "上海房东连夜跳价50万",
+        "onboard_time": 1727696778,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 469937,
+        "num": 469937,
+        "word": "马龙vs皮切福德",
+        "onboard_time": 1727696718,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 15624,
+        "num": 450652,
+        "word": "重逢奋不顾身的青春",
+        "onboard_time": 1727684840,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2135369,
+        "num": 450529,
+        "word": "马龙带两个儿子亮相中国大满贯",
+        "onboard_time": 1727697499,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 450366,
+        "num": 450366,
+        "word": "A股疯涨普通人是否要入局",
+        "onboard_time": 1727683579,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 405568,
+        "num": 405568,
+        "word": "小哥误撞奔驰车主免赔偿称结婚叫我",
+        "onboard_time": 1727700080,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 398383,
+        "num": 398383,
+        "word": "CP30抢票",
+        "onboard_time": 1727698940,
+        "rank": 6,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 395464,
+        "num": 395464,
+        "word": "央视国庆晚会",
+        "onboard_time": 1727696480,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166229,
+        "num": 394249,
+        "word": "郑钦文晋级中网16强",
+        "onboard_time": 1727699780,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 316736,
+        "num": 387835,
+        "word": "2024央视国庆晚会节目单",
+        "onboard_time": 1727693119,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1352537,
+        "num": 380628,
+        "word": "哀牢山",
+        "onboard_time": 1727694079,
+        "rank": 10,
+        "category": "自然,网红"
+      },
+      {
+        "raw_hot": 514008,
+        "num": 374103,
+        "word": "俞灏明谈公布恋情",
+        "onboard_time": 1727677760,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 369902,
+        "num": 369902,
+        "word": "中俄巴伊四国外长联合声明",
+        "onboard_time": 1727697919,
+        "rank": 12,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 327105,
+        "num": 327105,
+        "word": "男子遭叉车碾压忍痛爬起将车熄火",
+        "onboard_time": 1727689879,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 89757,
+        "num": 325934,
+        "word": "出入平安",
+        "onboard_time": 1727701040,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 324844,
+        "num": 324844,
+        "word": "中纪委驻中组部纪检监察组组长李刚被查",
+        "onboard_time": 1727700861,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92027,
+        "num": 322096,
+        "word": "沪七条出台首日中介忙得没空吃饭",
+        "onboard_time": 1727700380,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 396160,
+        "num": 322006,
+        "word": "四川高速堵成红锅了",
+        "onboard_time": 1727685978,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 320960,
+        "num": 320960,
+        "word": "马龙3比0皮切福德",
+        "onboard_time": 1727699120,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 212775,
+        "num": 315043,
+        "word": "再见怦然心动定档",
+        "onboard_time": 1727699900,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 311794,
+        "num": 311794,
+        "word": "美方再次向中国台湾地区提供武器",
+        "onboard_time": 1727693419,
+        "rank": 20,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 282330,
+        "num": 282330,
+        "word": "郑钦文vs波多罗斯卡",
+        "onboard_time": 1727691860,
+        "rank": 21,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 281104,
+        "num": 281104,
+        "word": "杨紫去巴黎带了中药药方",
+        "onboard_time": 1727696240,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 223462,
+        "num": 223462,
+        "word": "哀牢山 颜料师",
+        "onboard_time": 1727688918,
+        "rank": 23,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 306986,
+        "num": 223071,
+        "word": "路上已长满了放假聪明人",
+        "onboard_time": 1727668339,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219131,
+        "num": 219131,
+        "word": "马龙说想让儿子见识自己打一场比赛",
+        "onboard_time": 1727700319,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 205087,
+        "num": 205087,
+        "word": "中网",
+        "onboard_time": 1727700619,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 199107,
+        "num": 199107,
+        "word": "郑钦文2比0波多罗斯卡",
+        "onboard_time": 1727700500,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 185305,
+        "num": 185305,
+        "word": "王子奇 总共也没干几年",
+        "onboard_time": 1727695518,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 170887,
+        "num": 170887,
+        "word": "迪丽热巴登人民日报宣传片",
+        "onboard_time": 1727692339,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161403,
+        "num": 161403,
+        "word": "台湾首来大陆同胞1256个景区免票",
+        "onboard_time": 1727700202,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34494,
+        "num": 158774,
+        "word": "朱一龙演技",
+        "onboard_time": 1727700560,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 157063,
+        "num": 157063,
+        "word": "有股民一早赚了52万",
+        "onboard_time": 1727674219,
+        "rank": 32,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 155905,
+        "num": 155905,
+        "word": "射手座的喜欢与爱差别很大",
+        "onboard_time": 1727697619,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 132783,
+        "num": 150442,
+        "word": "张杰国庆晚会少年中国说",
+        "onboard_time": 1727700919,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149489,
+        "num": 149489,
+        "word": "张凌赫让金靖孕期多看看迪丽热巴",
+        "onboard_time": 1727679679,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147890,
+        "num": 147890,
+        "word": "专家称房地产牛市正逐渐开启",
+        "onboard_time": 1727693778,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144595,
+        "num": 144595,
+        "word": "我的名字是国庆",
+        "onboard_time": 1727693119,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140486,
+        "num": 140486,
+        "word": "A股猛涨投资者纷纷朋友圈晒盈利",
+        "onboard_time": 1727692459,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 121873,
+        "num": 138454,
+        "word": "抓娃娃",
+        "onboard_time": 1727696179,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 137455,
+        "num": 137455,
+        "word": "WTT",
+        "onboard_time": 1727696240,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133263,
+        "num": 133263,
+        "word": "今天下班后就不要联系我了",
+        "onboard_time": 1727689158,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 128198,
+        "num": 128198,
+        "word": "杨紫张晚意秀场自拍",
+        "onboard_time": 1727699599,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 117648,
+        "num": 117648,
+        "word": "蒲熠星面试过第一季战至巅峰",
+        "onboard_time": 1727700919,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117018,
+        "num": 117018,
+        "word": "孙亚龙报警",
+        "onboard_time": 1727694380,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 112363,
+        "num": 112363,
+        "word": "十一下班前记得上好厕所",
+        "onboard_time": 1727699241,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111373,
+        "num": 111373,
+        "word": "cpp又崩了",
+        "onboard_time": 1727699841,
+        "rank": 46,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 109168,
+        "num": 109168,
+        "word": "专家谈股市是否会面临疯牛",
+        "onboard_time": 1727700380,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 101000,
+        "num": 101000,
+        "word": "华尔街资金买入中国的一切",
+        "onboard_time": 1727696179,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 99888,
+        "num": 99888,
+        "word": "志愿军存亡之战",
+        "onboard_time": 1727691138,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#致敬英雄模范总书记这些话鼓舞人心#"
+    }
+  }
+}
