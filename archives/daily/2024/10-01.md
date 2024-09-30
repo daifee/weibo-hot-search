@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/10/01 00:28:17 ~ 2024/10/01 05:21:28
+本榜单时间：2024/10/01 00:28:17 ~ 2024/10/01 05:36:13
 </p>
 </blockquote>
 <p>
@@ -363,6 +363,12 @@ A股还有三关要过（热度：110479）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%8B%8E50%E4%B8%87%E7%8E%B0%E9%87%91%E5%87%BA%E5%BA%AD%E5%BD%92%E8%BF%98%E5%80%BA%E4%B8%BB%23" target="weibo">
+女子拎50万现金出庭归还债主（热度：58116）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BF%97%E6%84%BF%E5%86%9B%E5%AD%98%E4%BA%A1%E4%B9%8B%E6%88%98%23" target="weibo">
 志愿军存亡之战（热度：58028）
 </a>
@@ -377,12 +383,6 @@ A股还有三关要过（热度：110479）
 <li>
 <a href="https://s.weibo.com/weibo?q=%232024%E5%A4%AE%E8%A7%86%E5%9B%BD%E5%BA%86%E6%99%9A%E4%BC%9A%E8%8A%82%E7%9B%AE%E5%8D%95%23" target="weibo">
 2024央视国庆晚会节目单（热度：46129）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%8B%8E50%E4%B8%87%E7%8E%B0%E9%87%91%E5%87%BA%E5%BA%AD%E5%BD%92%E8%BF%98%E5%80%BA%E4%B8%BB%23" target="weibo">
-女子拎50万现金出庭归还债主（热度：44016）
 </a>
 </li>
 
@@ -447,6 +447,18 @@ A股还有三关要过（热度：110479）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%A0%A1%E6%96%B9%E7%A7%B0%E8%A2%AB%E6%89%93%E7%94%B7%E7%94%9F%E6%83%85%E5%86%B5%E6%B2%A1%E9%82%A3%E4%B9%88%E4%B8%A5%E9%87%8D%23" target="weibo">
+校方称被打男生情况没那么严重（热度：28150）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%2310%E6%9C%88%E8%B5%B7%E5%B0%86%E5%BD%B1%E5%93%8D%E4%BD%A0%E6%88%91%E7%94%9F%E6%B4%BB%E7%9A%84%E6%96%B0%E8%A7%84%23" target="weibo">
+10月起将影响你我生活的新规（热度：27649）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%BF%E4%BA%A7%E4%B8%AD%E4%BB%8B%E7%A7%B0%E5%B8%82%E5%9C%BA%E6%9C%89%E5%8F%8D%E5%BC%B9%E4%BD%86%E6%B2%A1%E6%9C%89%E5%BE%88%E5%A4%B8%E5%BC%A0%23" target="weibo">
 房产中介称市场有反弹但没有很夸张（热度：26458）
 </a>
@@ -459,8 +471,8 @@ A股还有三关要过（热度：110479）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%A0%A1%E6%96%B9%E7%A7%B0%E8%A2%AB%E6%89%93%E7%94%B7%E7%94%9F%E6%83%85%E5%86%B5%E6%B2%A1%E9%82%A3%E4%B9%88%E4%B8%A5%E9%87%8D%23" target="weibo">
-校方称被打男生情况没那么严重（热度：25163）
+<a href="https://s.weibo.com/weibo?q=%23%E5%87%86%E5%A4%87%E8%BF%98%E6%AC%BE%E6%97%B6%E5%8F%91%E7%8E%B0%E6%88%BF%E5%B1%8B%E6%98%93%E4%B8%BB%E8%A2%AB%E6%8A%B5%E6%8A%BC%23" target="weibo">
+准备还款时发现房屋易主被抵押（热度：24913）
 </a>
 </li>
 
@@ -471,14 +483,8 @@ A股还有三关要过（热度：110479）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%2310%E6%9C%88%E8%B5%B7%E5%B0%86%E5%BD%B1%E5%93%8D%E4%BD%A0%E6%88%91%E7%94%9F%E6%B4%BB%E7%9A%84%E6%96%B0%E8%A7%84%23" target="weibo">
-10月起将影响你我生活的新规（热度：18294）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%B1%9A%E5%AE%9D%E5%AE%9D4%E4%B8%AA%E6%9C%88%E5%B7%B2%E5%AD%A6%E4%BC%9A%E6%8D%89%E9%B1%BC%E5%96%B7%E6%B0%B4%23" target="weibo">
-江豚宝宝4个月已学会捉鱼喷水（热度：17545）
+江豚宝宝4个月已学会捉鱼喷水（热度：19322）
 </a>
 </li>
 
