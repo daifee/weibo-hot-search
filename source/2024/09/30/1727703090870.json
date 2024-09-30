@@ -1,0 +1,410 @@
+{
+  "runTime": 1727703090870,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1263394,
+        "num": 1263394,
+        "word": "小哥误撞奔驰车主免赔偿称结婚叫我",
+        "onboard_time": 1727700080,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1233165,
+        "num": 1233165,
+        "word": "上海房东连夜跳价50万",
+        "onboard_time": 1727696778,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 11333,
+        "num": 1222680,
+        "word": "亲亲的长街新新的模样",
+        "onboard_time": 1727702842,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1400994,
+        "num": 1042915,
+        "word": "马龙带两个儿子亮相中国大满贯",
+        "onboard_time": 1727697499,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 271172,
+        "num": 919780,
+        "word": "央视国庆晚会",
+        "onboard_time": 1727696480,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 274787,
+        "num": 696684,
+        "word": "庆祝中华人民共和国成立75周年招待会",
+        "onboard_time": 1727701580,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 643812,
+        "num": 643812,
+        "word": "台湾首来大陆同胞1256个景区免票",
+        "onboard_time": 1727700202,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34409,
+        "num": 531346,
+        "word": "今年国庆档新片票房破2亿",
+        "onboard_time": 1727702359,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 444695,
+        "num": 444695,
+        "word": "马龙说想让儿子见识自己打一场比赛",
+        "onboard_time": 1727700319,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 416778,
+        "num": 416778,
+        "word": "A股疯涨普通人是否要入局",
+        "onboard_time": 1727683579,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1191382,
+        "num": 408987,
+        "word": "哀牢山",
+        "onboard_time": 1727694079,
+        "rank": 10,
+        "category": "自然,网红"
+      },
+      {
+        "raw_hot": 1071541,
+        "num": 402020,
+        "word": "中纪委驻中组部纪检监察组组长李刚被查",
+        "onboard_time": 1727700861,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 393568,
+        "num": 393568,
+        "word": "俞灏明谈公布恋情",
+        "onboard_time": 1727677760,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 344303,
+        "num": 344303,
+        "word": "中俄巴伊四国外长联合声明",
+        "onboard_time": 1727697919,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 25396,
+        "num": 311762,
+        "word": "广州多名学生称在校就餐后腹泻",
+        "onboard_time": 1727702119,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290985,
+        "num": 290985,
+        "word": "男子遭叉车碾压忍痛爬起将车熄火",
+        "onboard_time": 1727689879,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254827,
+        "num": 254827,
+        "word": "CP30抢票",
+        "onboard_time": 1727698940,
+        "rank": 16,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 216770,
+        "num": 216770,
+        "word": "2024央视国庆晚会节目单",
+        "onboard_time": 1727693119,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187531,
+        "num": 216706,
+        "word": "再见怦然心动定档",
+        "onboard_time": 1727699900,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 31222,
+        "num": 216411,
+        "word": "坐车闻到香水味晕得更厉害了",
+        "onboard_time": 1727692698,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129114,
+        "num": 216364,
+        "word": "朱一龙演技",
+        "onboard_time": 1727700560,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 237521,
+        "num": 216089,
+        "word": "5岁幼童遭8岁男孩强行推入水池",
+        "onboard_time": 1727702479,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216000,
+        "num": 216000,
+        "word": "美方再次向中国台湾地区提供武器",
+        "onboard_time": 1727693419,
+        "rank": 22,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 213910,
+        "num": 213910,
+        "word": "马龙3比0皮切福德",
+        "onboard_time": 1727699120,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 207669,
+        "num": 207669,
+        "word": "高鹏 有钱就变坏",
+        "onboard_time": 1727702479,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 196085,
+        "num": 196085,
+        "word": "哀牢山 颜料师",
+        "onboard_time": 1727688918,
+        "rank": 25,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 22252,
+        "num": 195470,
+        "word": "写给先辈们的一封信",
+        "onboard_time": 1727702721,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195152,
+        "num": 195152,
+        "word": "马龙vs皮切福德",
+        "onboard_time": 1727696718,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 99165,
+        "num": 195087,
+        "word": "出入平安",
+        "onboard_time": 1727701040,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 14068,
+        "num": 195053,
+        "word": "布云朝克特vs卢布列夫",
+        "onboard_time": 1727702420,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 278431,
+        "num": 195048,
+        "word": "马龙采访被儿子打断",
+        "onboard_time": 1727702780,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 195025,
+        "num": 195025,
+        "word": "杨紫去巴黎带了中药药方",
+        "onboard_time": 1727696240,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194660,
+        "num": 194660,
+        "word": "孙涵涵 假性独立女性",
+        "onboard_time": 1727702301,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 192430,
+        "num": 192430,
+        "word": "射手座的喜欢与爱差别很大",
+        "onboard_time": 1727697619,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 179623,
+        "num": 179623,
+        "word": "郑钦文晋级中网16强",
+        "onboard_time": 1727699780,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 176999,
+        "num": 176999,
+        "word": "沈梦辰露额头 精英感",
+        "onboard_time": 1727702119,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 143098,
+        "num": 143098,
+        "word": "张凌赫让金靖孕期多看看迪丽热巴",
+        "onboard_time": 1727679679,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141952,
+        "num": 141952,
+        "word": "广西有多壮美",
+        "onboard_time": 1727701820,
+        "rank": 37,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 140751,
+        "num": 140751,
+        "word": "有股民一早赚了52万",
+        "onboard_time": 1727674219,
+        "rank": 38,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 137461,
+        "num": 137461,
+        "word": "郑钦文vs波多罗斯卡",
+        "onboard_time": 1727691860,
+        "rank": 39,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 136523,
+        "num": 136523,
+        "word": "张若昀好帅",
+        "onboard_time": 1727702899,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135972,
+        "num": 135972,
+        "word": "一线城市房价很有可能率先止跌",
+        "onboard_time": 1727701942,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132922,
+        "num": 132922,
+        "word": "A股猛涨投资者纷纷朋友圈晒盈利",
+        "onboard_time": 1727692459,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 132409,
+        "num": 132409,
+        "word": "郑钦文2比0波多罗斯卡",
+        "onboard_time": 1727700500,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132099,
+        "num": 132099,
+        "word": "王子奇 总共也没干几年",
+        "onboard_time": 1727695518,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 129638,
+        "num": 129638,
+        "word": "志愿军存亡之战",
+        "onboard_time": 1727691138,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 128591,
+        "num": 128591,
+        "word": "迪丽热巴登人民日报宣传片",
+        "onboard_time": 1727692339,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119961,
+        "num": 119961,
+        "word": "张杰国庆晚会少年中国说",
+        "onboard_time": 1727700919,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118481,
+        "num": 118481,
+        "word": "曾黎手里拎着一朵新疆棉",
+        "onboard_time": 1727701521,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 117010,
+        "num": 117010,
+        "word": "新闻联播报道A股",
+        "onboard_time": 1727701280,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#铭记英烈丰功伟绩同心谱写时代新篇#"
+    }
+  }
+}
