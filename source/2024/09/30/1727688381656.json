@@ -1,0 +1,410 @@
+{
+  "runTime": 1727688381656,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1249445,
+        "num": 1249445,
+        "word": "A股疯涨普通人是否要入局",
+        "onboard_time": 1727683579,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 583046,
+        "num": 583046,
+        "word": "有股民一早赚了52万",
+        "onboard_time": 1727674219,
+        "rank": 1,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 23403,
+        "num": 406259,
+        "word": "每一位英雄烈士都是一座精神丰碑",
+        "onboard_time": 1727684959,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 594793,
+        "num": 399526,
+        "word": "路上已长满了放假聪明人",
+        "onboard_time": 1727668339,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 391729,
+        "num": 391729,
+        "word": "外交部回应美方军援台湾地区",
+        "onboard_time": 1727685561,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 387306,
+        "num": 387306,
+        "word": "四川高速堵成红锅了",
+        "onboard_time": 1727685978,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 343830,
+        "num": 343830,
+        "word": "堵车时劝你不要打开车窗",
+        "onboard_time": 1727674100,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261591,
+        "num": 261591,
+        "word": "还没下班朋友圈就已经堵了",
+        "onboard_time": 1727668218,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 200213,
+        "num": 261590,
+        "word": "闪闪的儿科医生",
+        "onboard_time": 1727685740,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 44622,
+        "num": 258532,
+        "word": "广州取消限购后售楼部深夜灯火通明",
+        "onboard_time": 1727687179,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1069198,
+        "num": 258327,
+        "word": "俞灏明谈公布恋情",
+        "onboard_time": 1727677760,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1064845,
+        "num": 255777,
+        "word": "金靖和男朋友 直球恋爱",
+        "onboard_time": 1727684658,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 555774,
+        "num": 253770,
+        "word": "多位购房者称房东临时涨价或反悔不卖",
+        "onboard_time": 1727685379,
+        "rank": 12,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 352861,
+        "num": 253173,
+        "word": "A股仅8股下跌",
+        "onboard_time": 1727686279,
+        "rank": 13,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 111027,
+        "num": 251174,
+        "word": "男子5年偷拍视频7.5万条被判1年",
+        "onboard_time": 1727683099,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 289474,
+        "num": 250457,
+        "word": "赌王千金何超盈在联合国演讲",
+        "onboard_time": 1727684480,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 249072,
+        "num": 249072,
+        "word": "惠英红六处骨裂",
+        "onboard_time": 1727679319,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 247780,
+        "num": 247780,
+        "word": "cv天空晒照",
+        "onboard_time": 1727682499,
+        "rank": 17,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 36300,
+        "num": 246081,
+        "word": "颖儿 在米兰感受到了中国文化自信",
+        "onboard_time": 1727687720,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31696,
+        "num": 243327,
+        "word": "以军会议照中哈马斯领导人被打问号",
+        "onboard_time": 1727687599,
+        "rank": 19,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 701460,
+        "num": 241512,
+        "word": "张凌赫让金靖孕期多看看迪丽热巴",
+        "onboard_time": 1727679679,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 533501,
+        "num": 238261,
+        "word": "董宇辉直播翻车",
+        "onboard_time": 1727670678,
+        "rank": 21,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 237221,
+        "num": 237221,
+        "word": "王楚然枯藤老树下古装宿命感",
+        "onboard_time": 1727686519,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 229108,
+        "num": 229108,
+        "word": "75面国旗见证75个中国故事",
+        "onboard_time": 1727687118,
+        "rank": 23,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 213127,
+        "num": 213127,
+        "word": "国庆回家耗尽了我全部力气和手段",
+        "onboard_time": 1727685139,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 213010,
+        "num": 213010,
+        "word": "岁岁年年的爱献给祖国",
+        "onboard_time": 1727675778,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 211188,
+        "num": 211188,
+        "word": "有网文作者股市已赚300万直接断更",
+        "onboard_time": 1727671100,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 185753,
+        "num": 185753,
+        "word": "内蒙古下暴雪331国道数百辆车被困",
+        "onboard_time": 1727684059,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176476,
+        "num": 176476,
+        "word": "章若楠口误给自己整红温了",
+        "onboard_time": 1727683160,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 23031,
+        "num": 173770,
+        "word": "重塑麦昆工艺美学",
+        "onboard_time": 1727685139,
+        "rank": 29,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 173378,
+        "num": 173378,
+        "word": "代号鸢 策子没了",
+        "onboard_time": 1727687599,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 164421,
+        "num": 164421,
+        "word": "WTT青春盛筵大片",
+        "onboard_time": 1727685019,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158600,
+        "num": 158600,
+        "word": "樊振东乒乓世界采访",
+        "onboard_time": 1727686820,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 151618,
+        "num": 151618,
+        "word": "董宇辉称居里夫人获得诺贝尔文学奖",
+        "onboard_time": 1727670499,
+        "rank": 33,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 143698,
+        "num": 143698,
+        "word": "时代少年团长夏不会凋落",
+        "onboard_time": 1727686879,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 143685,
+        "num": 143685,
+        "word": "张新成王玉雯新剧结婚照",
+        "onboard_time": 1727684360,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133463,
+        "num": 133463,
+        "word": "日本股市遭遇黑色星期一",
+        "onboard_time": 1727686939,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 124943,
+        "num": 124943,
+        "word": "林高远说自己年纪大了伤病多了",
+        "onboard_time": 1727685320,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124045,
+        "num": 124045,
+        "word": "田曦薇分手戏",
+        "onboard_time": 1727688257,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121738,
+        "num": 121738,
+        "word": "杨靖宇生前唯一的照片",
+        "onboard_time": 1727677998,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120745,
+        "num": 120745,
+        "word": "把青春华章写在祖国大地上",
+        "onboard_time": 1727680460,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118199,
+        "num": 118199,
+        "word": "中国科创力量不断向前",
+        "onboard_time": 1727680940,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116360,
+        "num": 116360,
+        "word": "头发别在耳后显脸小的方法",
+        "onboard_time": 1727678480,
+        "rank": 42,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 106924,
+        "num": 106924,
+        "word": "13岁男孩夏令营遭体罚致横纹肌溶解",
+        "onboard_time": 1727676140,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104272,
+        "num": 104272,
+        "word": "代号鸢 陈登救了主公最后一次",
+        "onboard_time": 1727687539,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 102114,
+        "num": 102114,
+        "word": "A股六大新纪录诞生",
+        "onboard_time": 1727688200,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 102056,
+        "num": 102056,
+        "word": "董宇辉纠正科普错误",
+        "onboard_time": 1727672779,
+        "rank": 46,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 100785,
+        "num": 100785,
+        "word": "沈阳街头大合唱我爱你中国",
+        "onboard_time": 1727687359,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98370,
+        "num": 98370,
+        "word": "孙滢皓段星星刘冠佑公式照",
+        "onboard_time": 1727686459,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 91769,
+        "num": 91769,
+        "word": "CP30开票",
+        "onboard_time": 1727669059,
+        "rank": 49,
+        "category": "动漫"
+      }
+    ],
+    "hotgov": {
+      "word": "#烈士纪念日向人民英雄敬献花篮#"
+    }
+  }
+}

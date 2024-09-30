@@ -1,6 +1,6 @@
 {
   "startTime": 1727627182055,
-  "endTime": 1727685843866,
+  "endTime": 1727688381656,
   "band_list": [
     {
       "raw_hot": 1939826,
@@ -75,6 +75,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1249445,
+      "num": 1249445,
+      "word": "A股疯涨普通人是否要入局",
+      "onboard_time": 1727683579,
+      "rank": 4,
+      "category": "财经"
+    },
+    {
       "raw_hot": 1207848,
       "num": 418719,
       "word": "董宇辉 居里夫人",
@@ -89,6 +97,14 @@
       "onboard_time": 1727617880,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1064845,
+      "num": 255777,
+      "word": "金靖和男朋友 直球恋爱",
+      "onboard_time": 1727684658,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 953929,
@@ -113,14 +129,6 @@
       "onboard_time": 1727656042,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 925604,
-      "num": 1148096,
-      "word": "A股疯涨普通人是否要入局",
-      "onboard_time": 1727683579,
-      "rank": 4,
-      "category": "财经"
     },
     {
       "raw_hot": 837753,
@@ -235,6 +243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 555774,
+      "num": 253770,
+      "word": "多位购房者称房东临时涨价或反悔不卖",
+      "onboard_time": 1727685379,
+      "rank": 29,
+      "category": "财经"
+    },
+    {
       "raw_hot": 508899,
       "num": 508899,
       "word": "斯坦福博士已入职乡镇公务员岗",
@@ -305,14 +321,6 @@
       "onboard_time": 1727664380,
       "rank": 17,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 446653,
-      "num": 204986,
-      "word": "金靖和男朋友 直球恋爱",
-      "onboard_time": 1727684658,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 437759,
@@ -411,11 +419,27 @@
       "category": "电影"
     },
     {
+      "raw_hot": 391729,
+      "num": 391729,
+      "word": "外交部回应美方军援台湾地区",
+      "onboard_time": 1727685561,
+      "rank": 43,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 388888,
       "num": 388598,
       "word": "景区不让带宠物进入主人直接遗弃",
       "onboard_time": 1727670558,
       "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 387306,
+      "num": 387306,
+      "word": "四川高速堵成红锅了",
+      "onboard_time": 1727685978,
+      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -441,6 +465,14 @@
       "onboard_time": 1727668100,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 352861,
+      "num": 253173,
+      "word": "A股仅8股下跌",
+      "onboard_time": 1727686279,
+      "rank": 13,
+      "category": "财经"
     },
     {
       "raw_hot": 350504,
@@ -561,6 +593,14 @@
       "onboard_time": 1727617701,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 289474,
+      "num": 250457,
+      "word": "赌王千金何超盈在联合国演讲",
+      "onboard_time": 1727684480,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 284823,
@@ -723,12 +763,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 237221,
+      "num": 237221,
+      "word": "王楚然枯藤老树下古装宿命感",
+      "onboard_time": 1727686519,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 233928,
       "num": 233928,
       "word": "虞书欣情商",
       "onboard_time": 1727634792,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 229108,
+      "num": 229108,
+      "word": "75面国旗见证75个中国故事",
+      "onboard_time": 1727687118,
+      "rank": 23,
+      "category": "国内时政"
     },
     {
       "raw_hot": 228748,
@@ -777,6 +833,14 @@
       "onboard_time": 1727661678,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 213127,
+      "num": 213127,
+      "word": "国庆回家耗尽了我全部力气和手段",
+      "onboard_time": 1727685139,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 213056,
@@ -849,6 +913,14 @@
       "onboard_time": 1727680940,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 200213,
+      "num": 261590,
+      "word": "闪闪的儿科医生",
+      "onboard_time": 1727685740,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 199493,
@@ -947,6 +1019,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 185753,
+      "num": 254253,
+      "word": "内蒙古下暴雪331国道数百辆车被困",
+      "onboard_time": 1727684059,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 185359,
       "num": 185359,
       "word": "朱婷晒骑行照片",
@@ -969,14 +1049,6 @@
       "onboard_time": 1727663119,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 183849,
-      "num": 183849,
-      "word": "赌王千金何超盈在联合国演讲",
-      "onboard_time": 1727684480,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 183076,
@@ -1025,6 +1097,14 @@
       "onboard_time": 1727658678,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 173378,
+      "num": 173378,
+      "word": "代号鸢 策子没了",
+      "onboard_time": 1727687599,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 173035,
@@ -1155,6 +1235,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 158600,
+      "num": 158600,
+      "word": "樊振东乒乓世界采访",
+      "onboard_time": 1727686820,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 157917,
       "num": 239882,
       "word": "黄雅琼看周深直播",
@@ -1196,7 +1284,7 @@
     },
     {
       "raw_hot": 153186,
-      "num": 153186,
+      "num": 251174,
       "word": "男子5年偷拍视频7.5万条被判1年",
       "onboard_time": 1727683099,
       "rank": 30,
@@ -1315,6 +1403,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 143698,
+      "num": 143698,
+      "word": "时代少年团长夏不会凋落",
+      "onboard_time": 1727686879,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 142144,
       "num": 142144,
       "word": "华尔街资金涌入中国资产",
@@ -1419,14 +1515,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 133858,
-      "num": 133858,
-      "word": "多位购房者称房东临时涨价或反悔不卖",
-      "onboard_time": 1727685379,
-      "rank": 29,
-      "category": "财经"
-    },
-    {
       "raw_hot": 133629,
       "num": 133629,
       "word": "女子散布西安下雪虚假视频被拘",
@@ -1441,6 +1529,14 @@
       "onboard_time": 1727661739,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 133463,
+      "num": 133463,
+      "word": "日本股市遭遇黑色星期一",
+      "onboard_time": 1727686939,
+      "rank": 36,
+      "category": "财经"
     },
     {
       "raw_hot": 133202,
@@ -1531,12 +1627,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 124943,
+      "num": 124943,
+      "word": "林高远说自己年纪大了伤病多了",
+      "onboard_time": 1727685320,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 124111,
       "num": 124111,
       "word": "A股房地产板块多股涨停",
       "onboard_time": 1727665279,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 124045,
+      "num": 124045,
+      "word": "田曦薇分手戏",
+      "onboard_time": 1727688257,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 124043,
@@ -1683,14 +1795,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 112552,
-      "num": 112552,
-      "word": "林高远说自己年纪大了伤病多了",
-      "onboard_time": 1727685320,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 111064,
       "num": 349982,
       "word": "A股杀回3200点",
@@ -1771,6 +1875,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 104272,
+      "num": 104272,
+      "word": "代号鸢 陈登救了主公最后一次",
+      "onboard_time": 1727687539,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 104059,
       "num": 104059,
       "word": "江慈 嘴硬心软",
@@ -1787,20 +1899,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 102198,
-      "num": 102198,
-      "word": "国庆回家耗尽了我全部力气和手段",
-      "onboard_time": 1727685139,
-      "rank": 41,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 102196,
       "num": 102196,
       "word": "aespa未来感预告",
       "onboard_time": 1727665760,
       "rank": 49,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 102114,
+      "num": 102114,
+      "word": "A股六大新纪录诞生",
+      "onboard_time": 1727688200,
+      "rank": 45,
+      "category": "财经"
     },
     {
       "raw_hot": 101478,
@@ -1811,20 +1923,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 101265,
-      "num": 101265,
-      "word": "外交部回应美方军援台湾地区",
-      "onboard_time": 1727685561,
-      "rank": 43,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 101074,
       "num": 101074,
       "word": "沪深两市成交额超2.59万亿元",
       "onboard_time": 1727684299,
       "rank": 46,
       "category": "财经"
+    },
+    {
+      "raw_hot": 100785,
+      "num": 100785,
+      "word": "沈阳街头大合唱我爱你中国",
+      "onboard_time": 1727687359,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 100220,
@@ -1849,6 +1961,14 @@
       "onboard_time": 1727614159,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 98370,
+      "num": 98370,
+      "word": "孙滢皓段星星刘冠佑公式照",
+      "onboard_time": 1727686459,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 97597,
@@ -1921,14 +2041,6 @@
       "onboard_time": 1727666118,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 86623,
-      "num": 112576,
-      "word": "闪闪的儿科医生",
-      "onboard_time": 1727685740,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 85899,
@@ -2067,14 +2179,6 @@
       "category": "社会新闻,旅游"
     },
     {
-      "raw_hot": 60441,
-      "num": 254253,
-      "word": "内蒙古下暴雪331国道数百辆车被困",
-      "onboard_time": 1727684059,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 58066,
       "num": 58066,
       "word": "辣条里检出老鼠药嫌犯已被刑拘",
@@ -2195,6 +2299,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 44622,
+      "num": 258532,
+      "word": "广州取消限购后售楼部深夜灯火通明",
+      "onboard_time": 1727687179,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 43707,
       "num": 341989,
       "word": "阿祖这次还没收手",
@@ -2251,6 +2363,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 36300,
+      "num": 246081,
+      "word": "颖儿 在米兰感受到了中国文化自信",
+      "onboard_time": 1727687720,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 35339,
       "num": 380199,
       "word": "官方回应水司楼变身度假酒店",
@@ -2299,6 +2419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 31696,
+      "num": 243327,
+      "word": "以军会议照中哈马斯领导人被打问号",
+      "onboard_time": 1727687599,
+      "rank": 19,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 29017,
       "num": 294283,
       "word": "犯罪团伙用共享屏幕转走老人钱",
@@ -2308,7 +2436,7 @@
     },
     {
       "raw_hot": 28146,
-      "num": 112563,
+      "num": 173770,
       "word": "重塑麦昆工艺美学",
       "onboard_time": 1727685139,
       "rank": 37,
@@ -2353,6 +2481,14 @@
       "onboard_time": 1727622201,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 23403,
+      "num": 697751,
+      "word": "每一位英雄烈士都是一座精神丰碑",
+      "onboard_time": 1727684959,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 23120,
@@ -2401,14 +2537,6 @@
       "onboard_time": 1727651175,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 16114,
-      "num": 697751,
-      "word": "每一位英雄烈士都是一座精神丰碑",
-      "onboard_time": 1727684959,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 14717,
