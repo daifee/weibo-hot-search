@@ -1,6 +1,6 @@
 {
   "startTime": 1727540758074,
-  "endTime": 1727670454386,
+  "endTime": 1727671332672,
   "band_list": [
     {
       "raw_hot": 2629801,
@@ -19,6 +19,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1939826,
+      "num": 686831,
+      "word": "路上已长满了放假聪明人",
+      "onboard_time": 1727668339,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1916350,
       "num": 1916350,
       "word": "何卓佳3比0张本美和",
@@ -32,14 +40,6 @@
       "word": "国庆请2休10超长假受打工人追捧",
       "onboard_time": 1727578277,
       "rank": 38,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1786675,
-      "num": 436923,
-      "word": "路上已长满了放假聪明人",
-      "onboard_time": 1727668339,
-      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -188,7 +188,7 @@
     },
     {
       "raw_hot": 953929,
-      "num": 401193,
+      "num": 636610,
       "word": "CP30开票",
       "onboard_time": 1727669059,
       "rank": 10,
@@ -371,8 +371,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 697367,
-      "num": 697367,
+      "raw_hot": 705754,
+      "num": 705754,
       "word": "90后00后投资者入市了",
       "onboard_time": 1727661380,
       "rank": 15,
@@ -449,6 +449,14 @@
       "onboard_time": 1727618360,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 636128,
+      "num": 636128,
+      "word": "还没下班朋友圈就已经堵了",
+      "onboard_time": 1727668218,
+      "rank": 11,
+      "category": "幽默"
     },
     {
       "raw_hot": 635540,
@@ -787,12 +795,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 444702,
-      "num": 396917,
-      "word": "还没下班朋友圈就已经堵了",
-      "onboard_time": 1727668218,
-      "rank": 11,
-      "category": "幽默"
+      "raw_hot": 437759,
+      "num": 437759,
+      "word": "cpp崩了",
+      "onboard_time": 1727670020,
+      "rank": 12,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 435917,
+      "num": 435917,
+      "word": "孙亚龙给前妻道歉",
+      "onboard_time": 1727668039,
+      "rank": 15,
+      "category": "电竞"
     },
     {
       "raw_hot": 433179,
@@ -801,14 +817,6 @@
       "onboard_time": 1727618300,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 433176,
-      "num": 390480,
-      "word": "cpp崩了",
-      "onboard_time": 1727670020,
-      "rank": 12,
-      "category": "动漫"
     },
     {
       "raw_hot": 429207,
@@ -833,6 +841,14 @@
       "onboard_time": 1727607620,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 416116,
+      "num": 416116,
+      "word": "杨紫回应秀场wink",
+      "onboard_time": 1727665219,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 413817,
@@ -995,14 +1011,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 374562,
-      "num": 374562,
-      "word": "孙亚龙给前妻道歉",
-      "onboard_time": 1727668039,
-      "rank": 15,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 371706,
       "num": 404856,
       "word": "王楚钦光速进32强",
@@ -1019,20 +1027,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 366502,
+      "num": 318452,
+      "word": "男孩掉5元被老人抢先捡走伤心好久",
+      "onboard_time": 1727668100,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 364715,
       "num": 364715,
       "word": "范思琦vs王艺迪",
       "onboard_time": 1727614518,
       "rank": 3,
       "category": "体育"
-    },
-    {
-      "raw_hot": 363637,
-      "num": 363637,
-      "word": "杨紫回应秀场wink",
-      "onboard_time": 1727665219,
-      "rank": 38,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 357820,
@@ -1219,14 +1227,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 318452,
-      "num": 318452,
-      "word": "男孩掉5元被老人抢先捡走伤心好久",
-      "onboard_time": 1727668100,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 315796,
       "num": 315796,
       "word": "朱军任北京市委常委",
@@ -1297,6 +1297,22 @@
       "onboard_time": 1727568558,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 300573,
+      "num": 300573,
+      "word": "景区不让带宠物进入主人直接遗弃",
+      "onboard_time": 1727670558,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 298607,
+      "num": 298607,
+      "word": "心动的信号7",
+      "onboard_time": 1727666059,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 298040,
@@ -1377,6 +1393,14 @@
       "onboard_time": 1727621119,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 283221,
+      "num": 283221,
+      "word": "董宇辉称居里夫人获得诺贝尔文学奖",
+      "onboard_time": 1727670499,
+      "rank": 22,
+      "category": "互联网"
     },
     {
       "raw_hot": 282959,
@@ -1467,16 +1491,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 267081,
-      "num": 267081,
-      "word": "心动的信号7",
-      "onboard_time": 1727666059,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 266406,
-      "num": 438281,
+      "num": 705684,
       "word": "山河无恙致敬先烈",
       "onboard_time": 1727658740,
       "rank": 22,
@@ -1513,6 +1529,14 @@
       "onboard_time": 1727590159,
       "rank": 24,
       "category": "美食"
+    },
+    {
+      "raw_hot": 257765,
+      "num": 257765,
+      "word": "黑暗荣耀文东恩妈妈饰演者去世",
+      "onboard_time": 1727667621,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 251728,
@@ -1561,14 +1585,6 @@
       "onboard_time": 1727628915,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 239942,
-      "num": 239942,
-      "word": "黑暗荣耀文东恩妈妈饰演者去世",
-      "onboard_time": 1727667621,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 239618,
@@ -1771,6 +1787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 216187,
+      "num": 197709,
+      "word": "董宇辉直播翻车",
+      "onboard_time": 1727670678,
+      "rank": 30,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 215333,
       "num": 215333,
       "word": "DXMON成员JO退团",
@@ -1788,7 +1812,7 @@
     },
     {
       "raw_hot": 213179,
-      "num": 213179,
+      "num": 299209,
       "word": "杨紫透露10月底进组家业",
       "onboard_time": 1727661678,
       "rank": 42,
@@ -1801,6 +1825,14 @@
       "onboard_time": 1727576477,
       "rank": 19,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 213056,
+      "num": 213056,
+      "word": "刘端端首次爆灯挑战成功",
+      "onboard_time": 1727670079,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 212229,
@@ -1873,6 +1905,14 @@
       "onboard_time": 1727563095,
       "rank": 9,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 208889,
+      "num": 208889,
+      "word": "缅北诈骗分子在武装势力庇护下建窝点",
+      "onboard_time": 1727668639,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 207600,
@@ -2107,6 +2147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 192371,
+      "num": 192371,
+      "word": "A股大涨股民自费机票升舱",
+      "onboard_time": 1727670620,
+      "rank": 31,
+      "category": "财经"
+    },
+    {
       "raw_hot": 192283,
       "num": 191572,
       "word": "我们的歌金曲巅峰夜直播",
@@ -2211,6 +2259,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 186275,
+      "num": 186275,
+      "word": "网红二驴回归",
+      "onboard_time": 1727670738,
+      "rank": 32,
+      "category": "网红"
+    },
+    {
       "raw_hot": 186241,
       "num": 186241,
       "word": "当男朋友带着小猫来接我时",
@@ -2225,6 +2281,14 @@
       "onboard_time": 1727556492,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 185359,
+      "num": 185359,
+      "word": "朱婷晒骑行照片",
+      "onboard_time": 1727670499,
+      "rank": 33,
+      "category": "体育,网红"
     },
     {
       "raw_hot": 185347,
@@ -2265,14 +2329,6 @@
       "onboard_time": 1727665520,
       "rank": 32,
       "category": "财经"
-    },
-    {
-      "raw_hot": 182945,
-      "num": 182945,
-      "word": "缅北诈骗分子在武装势力庇护下建窝点",
-      "onboard_time": 1727668639,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 182860,
@@ -2420,7 +2476,7 @@
     },
     {
       "raw_hot": 172868,
-      "num": 419053,
+      "num": 630097,
       "word": "电视剧足迹杀青",
       "onboard_time": 1727667438,
       "rank": 28,
@@ -2523,6 +2579,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 166806,
+      "num": 166806,
+      "word": "雅 43岁正是告状的年纪",
+      "onboard_time": 1727671040,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 166735,
       "num": 166735,
       "word": "伊拉克数千人冲击美国大使馆",
@@ -2569,6 +2633,14 @@
       "onboard_time": 1727568738,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 163398,
+      "num": 163398,
+      "word": "有网文作者股市已赚300万直接断更",
+      "onboard_time": 1727671100,
+      "rank": 37,
+      "category": "财经"
     },
     {
       "raw_hot": 163002,
@@ -2843,14 +2915,6 @@
       "category": "读书作家"
     },
     {
-      "raw_hot": 146704,
-      "num": 146704,
-      "word": "刘端端首次爆灯挑战成功",
-      "onboard_time": 1727670079,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 146125,
       "num": 146125,
       "word": "梅西破门",
@@ -2876,7 +2940,7 @@
     },
     {
       "raw_hot": 145517,
-      "num": 406808,
+      "num": 496336,
       "word": "当地回应斯坦福博士已入职镇政府",
       "onboard_time": 1727668999,
       "rank": 9,
@@ -3267,6 +3331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 128358,
+      "num": 128358,
+      "word": "任嘉伦翻身骑马打戏",
+      "onboard_time": 1727671100,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 128016,
       "num": 128016,
       "word": "4天A股市值净增10万亿",
@@ -3361,6 +3433,14 @@
       "onboard_time": 1727538019,
       "rank": 25,
       "category": "演出,体育"
+    },
+    {
+      "raw_hot": 124969,
+      "num": 124969,
+      "word": "cpp 抢票",
+      "onboard_time": 1727671158,
+      "rank": 43,
+      "category": "动漫"
     },
     {
       "raw_hot": 124505,
@@ -4579,6 +4659,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 41321,
+      "num": 328598,
+      "word": "预制朋友圈是精装朋友圈的变种吗",
+      "onboard_time": 1727669718,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 41198,
       "num": 484565,
       "word": "孔子也是Z世代的理想型老师",
@@ -4609,14 +4697,6 @@
       "onboard_time": 1727547252,
       "rank": 24,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 39186,
-      "num": 328598,
-      "word": "预制朋友圈是精装朋友圈的变种吗",
-      "onboard_time": 1727669718,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 39122,
@@ -4763,6 +4843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 27897,
+      "num": 546312,
+      "word": "75年奇迹如歌",
+      "onboard_time": 1727669240,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 27754,
       "num": 552656,
       "word": "今天请记住这些闪亮的名字",
@@ -4880,14 +4968,6 @@
       "word": "万元打造高仿小游戏20天可上线",
       "onboard_time": 1727617941,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 20647,
-      "num": 416800,
-      "word": "75年奇迹如歌",
-      "onboard_time": 1727669240,
-      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -5025,6 +5105,9 @@
     },
     {
       "word": "#烈士纪念日向人民英雄敬献花篮#"
+    },
+    {
+      "word": "#一个有希望的民族不能没有英雄#"
     }
   ]
 }
