@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1727714761102,
+  "endTime": 1727716806580,
   "band_list": [
     {
       "raw_hot": 1370014,
@@ -40,6 +40,14 @@
       "word": "还是低估了国庆假期堵车的程度",
       "onboard_time": 1727704340,
       "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 616447,
+      "num": 616447,
+      "word": "我的身份证上有你的名字",
+      "onboard_time": 1727711179,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -91,14 +99,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 379618,
-      "num": 379618,
-      "word": "我的身份证上有你的名字",
-      "onboard_time": 1727711179,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 296297,
       "num": 296297,
       "word": "马龙采访被儿子打断",
@@ -115,12 +115,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 270847,
+      "num": 270847,
+      "word": "祖国万岁",
+      "onboard_time": 1727713638,
+      "rank": 42,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 263802,
       "num": 244689,
       "word": "何知南官配上线",
       "onboard_time": 1727710700,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 253088,
+      "num": 136654,
+      "word": "东北雨姐称先行全额退款",
+      "onboard_time": 1727715915,
+      "rank": 15,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 245471,
@@ -169,14 +185,6 @@
       "onboard_time": 1727712140,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 208422,
-      "num": 208422,
-      "word": "祖国万岁",
-      "onboard_time": 1727713638,
-      "rank": 42,
-      "category": "国内时政"
     },
     {
       "raw_hot": 207070,
@@ -243,6 +251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 135447,
+      "num": 135447,
+      "word": "毛不易的新歌被各地文旅用上了",
+      "onboard_time": 1727714776,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 124504,
       "num": 124504,
       "word": "旅客行李箱塞满180万美元入境",
@@ -257,6 +273,14 @@
       "onboard_time": 1727706501,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 111427,
+      "num": 111427,
+      "word": "华晨宇鸟巢演唱会全纪录",
+      "onboard_time": 1727715497,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 110479,
@@ -396,11 +420,27 @@
     },
     {
       "raw_hot": 63493,
-      "num": 92563,
+      "num": 127007,
       "word": "中俄巴伊四国外长联合声明",
       "onboard_time": 1727697919,
       "rank": 47,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 59133,
+      "num": 101856,
+      "word": "迪丽热巴登人民日报宣传片",
+      "onboard_time": 1727692339,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 59125,
+      "num": 102001,
+      "word": "华伦天奴 头巾",
+      "onboard_time": 1727705420,
+      "rank": 42,
+      "category": "时尚"
     },
     {
       "raw_hot": 58028,
@@ -412,11 +452,27 @@
     },
     {
       "raw_hot": 55703,
-      "num": 92531,
+      "num": 101976,
       "word": "抓娃娃",
       "onboard_time": 1727696179,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 55329,
+      "num": 126765,
+      "word": "文化中国行文博日历",
+      "onboard_time": 1727714958,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 46129,
+      "num": 102291,
+      "word": "2024央视国庆晚会节目单",
+      "onboard_time": 1727693119,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 41238,

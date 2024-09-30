@@ -1,0 +1,410 @@
+{
+  "runTime": 1727716806580,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 616447,
+        "num": 616447,
+        "word": "我的身份证上有你的名字",
+        "onboard_time": 1727711179,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 416977,
+        "num": 416977,
+        "word": "国庆节",
+        "onboard_time": 1727712799,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 22471,
+        "num": 325289,
+        "word": "亲亲的长街新新的模样",
+        "onboard_time": 1727702842,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270847,
+        "num": 270847,
+        "word": "祖国万岁",
+        "onboard_time": 1727713638,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 262854,
+        "num": 262854,
+        "word": "小哥误撞奔驰车主免赔偿称结婚叫我",
+        "onboard_time": 1727700080,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193073,
+        "num": 193073,
+        "word": "上海房东连夜跳价50万",
+        "onboard_time": 1727696778,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161327,
+        "num": 161327,
+        "word": "10月你好",
+        "onboard_time": 1727713220,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154672,
+        "num": 154672,
+        "word": "北京楼市出台一揽子新政",
+        "onboard_time": 1727708121,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 90516,
+        "num": 144536,
+        "word": "七夜雪定档",
+        "onboard_time": 1727707701,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 61787,
+        "num": 138809,
+        "word": "749局2024国庆档预售票房冠军",
+        "onboard_time": 1727708481,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 137543,
+        "num": 137543,
+        "word": "中国红永远是最爱的颜色",
+        "onboard_time": 1727710640,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 534147,
+        "num": 137382,
+        "word": "女子拔插头被电伤截肢",
+        "onboard_time": 1727709140,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 462671,
+        "num": 137163,
+        "word": "网红女骑士石膏发生车祸身亡",
+        "onboard_time": 1727705540,
+        "rank": 12,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 430460,
+        "num": 137098,
+        "word": "哀牢山",
+        "onboard_time": 1727694079,
+        "rank": 13,
+        "category": "自然,网红"
+      },
+      {
+        "raw_hot": 294099,
+        "num": 136952,
+        "word": "还是低估了国庆假期堵车的程度",
+        "onboard_time": 1727704340,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253088,
+        "num": 136654,
+        "word": "东北雨姐称先行全额退款",
+        "onboard_time": 1727715915,
+        "rank": 15,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 241246,
+        "num": 136522,
+        "word": "外籍男子将日本老人推倒致死",
+        "onboard_time": 1727709680,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195873,
+        "num": 136323,
+        "word": "黎巴嫩网红双胞胎母亲拍下逃难画面",
+        "onboard_time": 1727708900,
+        "rank": 17,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 188531,
+        "num": 136116,
+        "word": "关晓彤帽子好像特效",
+        "onboard_time": 1727712140,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128291,
+        "num": 135836,
+        "word": "何知南官配上线",
+        "onboard_time": 1727710700,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 906030,
+        "num": 135769,
+        "word": "女子称一丝不挂被2次刷开酒店房门",
+        "onboard_time": 1727710519,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138985,
+        "num": 135481,
+        "word": "马龙采访被儿子打断",
+        "onboard_time": 1727702780,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 135447,
+        "num": 135447,
+        "word": "毛不易的新歌被各地文旅用上了",
+        "onboard_time": 1727714776,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 128630,
+        "num": 128630,
+        "word": "校方回应男生遭同学多次用板凳砸头",
+        "onboard_time": 1727712440,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 57705,
+        "num": 127007,
+        "word": "中俄巴伊四国外长联合声明",
+        "onboard_time": 1727697919,
+        "rank": 24,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 55329,
+        "num": 126765,
+        "word": "文化中国行文博日历",
+        "onboard_time": 1727714958,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126552,
+        "num": 126552,
+        "word": "恒大地产和许家印等被处分",
+        "onboard_time": 1727709439,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111427,
+        "num": 111427,
+        "word": "华晨宇鸟巢演唱会全纪录",
+        "onboard_time": 1727715497,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 109061,
+        "num": 109061,
+        "word": "A股疯涨普通人是否要入局",
+        "onboard_time": 1727683579,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 108169,
+        "num": 108169,
+        "word": "中纪委驻中组部纪检监察组组长李刚被查",
+        "onboard_time": 1727700861,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108031,
+        "num": 108031,
+        "word": "北京下调个人住房贷款首付款比例",
+        "onboard_time": 1727707881,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105605,
+        "num": 105605,
+        "word": "700多位航天英烈长眠酒泉",
+        "onboard_time": 1727707461,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 102751,
+        "num": 102751,
+        "word": "台湾首来大陆同胞1256个景区免票",
+        "onboard_time": 1727700202,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 83841,
+        "num": 102701,
+        "word": "马龙一家四口同框",
+        "onboard_time": 1727706620,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 77458,
+        "num": 102622,
+        "word": "旅客行李箱塞满180万美元入境",
+        "onboard_time": 1727709501,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 75012,
+        "num": 102523,
+        "word": "5岁幼童遭8岁男孩强行推入水池",
+        "onboard_time": 1727702479,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 74585,
+        "num": 102495,
+        "word": "为了国庆不添堵结果堵在高速路",
+        "onboard_time": 1727704642,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 72996,
+        "num": 102389,
+        "word": "哀牢山 颜料师",
+        "onboard_time": 1727688918,
+        "rank": 37,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 64453,
+        "num": 102319,
+        "word": "庆祝中华人民共和国成立75周年招待会",
+        "onboard_time": 1727701580,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 46129,
+        "num": 102291,
+        "word": "2024央视国庆晚会节目单",
+        "onboard_time": 1727693119,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 63701,
+        "num": 102213,
+        "word": "北京五环内购房社保年限5改3",
+        "onboard_time": 1727708959,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 63132,
+        "num": 102069,
+        "word": "孙颖莎时尚COSMO电子刊封面",
+        "onboard_time": 1727711419,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 59125,
+        "num": 102001,
+        "word": "华伦天奴 头巾",
+        "onboard_time": 1727705420,
+        "rank": 42,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 44198,
+        "num": 101976,
+        "word": "抓娃娃",
+        "onboard_time": 1727696179,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 59133,
+        "num": 101856,
+        "word": "迪丽热巴登人民日报宣传片",
+        "onboard_time": 1727692339,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 53209,
+        "num": 101797,
+        "word": "马龙3比0皮切福德",
+        "onboard_time": 1727699120,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 49833,
+        "num": 101753,
+        "word": "A股还有三关要过",
+        "onboard_time": 1727708000,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 49432,
+        "num": 101624,
+        "word": "成都混团世界杯名单",
+        "onboard_time": 1727706021,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 47309,
+        "num": 101563,
+        "word": "俞灏明谈公布恋情",
+        "onboard_time": 1727677760,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 50895,
+        "num": 101523,
+        "word": "迪丽热巴陈飞宇慕胥辞情侣装",
+        "onboard_time": 1727706501,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#清澈的爱只为中国#"
+    }
+  }
+}

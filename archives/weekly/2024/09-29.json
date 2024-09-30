@@ -1,6 +1,6 @@
 {
   "startTime": 1727540758074,
-  "endTime": 1727714761102,
+  "endTime": 1727716806580,
   "band_list": [
     {
       "raw_hot": 2629801,
@@ -739,6 +739,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 616447,
+      "num": 616447,
+      "word": "我的身份证上有你的名字",
+      "onboard_time": 1727711179,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 610233,
       "num": 610233,
       "word": "王楚钦主动示意没上台",
@@ -1387,14 +1395,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 379618,
-      "num": 379618,
-      "word": "我的身份证上有你的名字",
-      "onboard_time": 1727711179,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 377321,
       "num": 314591,
       "word": "迪丽热巴登人民日报宣传片",
@@ -2027,6 +2027,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 270847,
+      "num": 270847,
+      "word": "祖国万岁",
+      "onboard_time": 1727713638,
+      "rank": 42,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 268948,
       "num": 268948,
       "word": "杨超越把沈月当成赖美云",
@@ -2105,6 +2113,14 @@
       "onboard_time": 1727667621,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 253088,
+      "num": 136654,
+      "word": "东北雨姐称先行全额退款",
+      "onboard_time": 1727715915,
+      "rank": 15,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 251728,
@@ -2617,14 +2633,6 @@
       "onboard_time": 1727680401,
       "rank": 32,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 208422,
-      "num": 208422,
-      "word": "祖国万岁",
-      "onboard_time": 1727713638,
-      "rank": 42,
-      "category": "国内时政"
     },
     {
       "raw_hot": 207742,
@@ -4451,6 +4459,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 135447,
+      "num": 135447,
+      "word": "毛不易的新歌被各地文旅用上了",
+      "onboard_time": 1727714776,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 135446,
       "num": 135446,
       "word": "以国之名敬英雄",
@@ -5417,6 +5433,14 @@
       "onboard_time": 1727692878,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 111427,
+      "num": 111427,
+      "word": "华晨宇鸟巢演唱会全纪录",
+      "onboard_time": 1727715497,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 111064,
@@ -6441,6 +6465,14 @@
       "onboard_time": 1727589319,
       "rank": 34,
       "category": "社会新闻,国外时政"
+    },
+    {
+      "raw_hot": 55329,
+      "num": 126765,
+      "word": "文化中国行文博日历",
+      "onboard_time": 1727714958,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 55313,
