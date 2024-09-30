@@ -1,6 +1,6 @@
 {
   "startTime": 1727627182055,
-  "endTime": 1727673733120,
+  "endTime": 1727674777079,
   "band_list": [
     {
       "raw_hot": 1939826,
@@ -9,6 +9,14 @@
       "onboard_time": 1727668339,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1757272,
+      "num": 421677,
+      "word": "董宇辉直播翻车",
+      "onboard_time": 1727670678,
+      "rank": 30,
+      "category": "互联网"
     },
     {
       "raw_hot": 1740806,
@@ -25,14 +33,6 @@
       "onboard_time": 1727659518,
       "rank": 0,
       "category": "财经"
-    },
-    {
-      "raw_hot": 1511859,
-      "num": 421677,
-      "word": "董宇辉直播翻车",
-      "onboard_time": 1727670678,
-      "rank": 30,
-      "category": "互联网"
     },
     {
       "raw_hot": 1316837,
@@ -115,6 +115,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 674417,
+      "num": 674417,
+      "word": "A股大涨股民自费机票升舱",
+      "onboard_time": 1727670620,
+      "rank": 31,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 640502,
+      "num": 640502,
+      "word": "有网文作者股市已赚300万直接断更",
+      "onboard_time": 1727671100,
+      "rank": 37,
+      "category": "财经"
+    },
+    {
       "raw_hot": 636128,
       "num": 636128,
       "word": "还没下班朋友圈就已经堵了",
@@ -163,14 +179,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 559244,
-      "num": 416224,
-      "word": "有网文作者股市已赚300万直接断更",
-      "onboard_time": 1727671100,
-      "rank": 37,
-      "category": "财经"
-    },
-    {
       "raw_hot": 508899,
       "num": 508899,
       "word": "斯坦福博士已入职乡镇公务员岗",
@@ -185,6 +193,14 @@
       "onboard_time": 1727658259,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 483724,
+      "num": 323871,
+      "word": "董宇辉纠正科普错误",
+      "onboard_time": 1727672779,
+      "rank": 28,
+      "category": "互联网"
     },
     {
       "raw_hot": 475731,
@@ -227,14 +243,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 440735,
-      "num": 440735,
-      "word": "A股大涨股民自费机票升舱",
-      "onboard_time": 1727670620,
-      "rank": 31,
-      "category": "财经"
-    },
-    {
       "raw_hot": 437759,
       "num": 437759,
       "word": "cpp崩了",
@@ -259,20 +267,20 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 418599,
+      "num": 413650,
+      "word": "雅 43岁正是告状的年纪",
+      "onboard_time": 1727671040,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 416116,
       "num": 416116,
       "word": "杨紫回应秀场wink",
       "onboard_time": 1727665219,
       "rank": 38,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 413650,
-      "num": 413650,
-      "word": "雅 43岁正是告状的年纪",
-      "onboard_time": 1727671040,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 411900,
@@ -307,7 +315,7 @@
       "category": "电影"
     },
     {
-      "raw_hot": 388598,
+      "raw_hot": 388888,
       "num": 388598,
       "word": "景区不让带宠物进入主人直接遗弃",
       "onboard_time": 1727670558,
@@ -371,12 +379,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 323554,
+      "num": 347300,
+      "word": "王曼昱vs石洵瑶",
+      "onboard_time": 1727673019,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 320759,
       "num": 285184,
       "word": "爸爸生日女儿花30元送仿真土豪三件套",
       "onboard_time": 1727664318,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 317020,
+      "num": 317020,
+      "word": "HANNI将以证人出席监查",
+      "onboard_time": 1727673800,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 315796,
@@ -547,20 +571,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 237308,
+      "num": 237308,
+      "word": "有股民称已赚20个点果断满仓",
+      "onboard_time": 1727672840,
+      "rank": 37,
+      "category": "财经"
+    },
+    {
       "raw_hot": 233928,
       "num": 233928,
       "word": "虞书欣情商",
       "onboard_time": 1727634792,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 230105,
-      "num": 230105,
-      "word": "董宇辉纠正科普错误",
-      "onboard_time": 1727672779,
-      "rank": 28,
-      "category": "互联网"
     },
     {
       "raw_hot": 228748,
@@ -617,6 +641,14 @@
       "onboard_time": 1727664380,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 204915,
+      "num": 204915,
+      "word": "有股民一早赚了52万",
+      "onboard_time": 1727674219,
+      "rank": 31,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 204694,
@@ -755,6 +787,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 176273,
+      "num": 176273,
+      "word": "堵车时劝你不要打开车窗",
+      "onboard_time": 1727674100,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 176098,
       "num": 176098,
       "word": "以色列公布真主党高层死亡名单",
@@ -785,6 +825,22 @@
       "onboard_time": 1727667438,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 172644,
+      "num": 172644,
+      "word": "肖战武侠生贺曲好带感",
+      "onboard_time": 1727674459,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 168574,
+      "num": 160278,
+      "word": "汪苏泷上海演唱会抢票",
+      "onboard_time": 1727674340,
+      "rank": 39,
+      "category": "演出"
     },
     {
       "raw_hot": 164647,
@@ -851,11 +907,11 @@
       "category": "电影"
     },
     {
-      "raw_hot": 159801,
-      "num": 159801,
-      "word": "有股民称已赚20个点果断满仓",
-      "onboard_time": 1727672840,
-      "rank": 37,
+      "raw_hot": 159521,
+      "num": 323799,
+      "word": "上证指数重回3300点",
+      "onboard_time": 1727674040,
+      "rank": 13,
       "category": "财经"
     },
     {
@@ -872,6 +928,14 @@
       "word": "沪深两市刷新历史最快万亿纪录",
       "onboard_time": 1727663899,
       "rank": 39,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 155553,
+      "num": 155553,
+      "word": "沪指5天大涨20%",
+      "onboard_time": 1727674579,
+      "rank": 42,
       "category": "财经"
     },
     {
@@ -947,14 +1011,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 145123,
-      "num": 347300,
-      "word": "王曼昱vs石洵瑶",
-      "onboard_time": 1727673019,
-      "rank": 18,
-      "category": "体育"
-    },
-    {
       "raw_hot": 144864,
       "num": 144864,
       "word": "苗苗 为749而战",
@@ -976,6 +1032,14 @@
       "word": "上交所拟于10月7日再次开展全网测试",
       "onboard_time": 1727670442,
       "rank": 41,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 142144,
+      "num": 142144,
+      "word": "华尔街资金涌入中国资产",
+      "onboard_time": 1727673619,
+      "rank": 47,
       "category": "财经"
     },
     {
@@ -1115,14 +1179,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 123558,
-      "num": 123558,
-      "word": "华尔街资金涌入中国资产",
-      "onboard_time": 1727673619,
-      "rank": 47,
-      "category": "财经"
-    },
-    {
       "raw_hot": 122906,
       "num": 345541,
       "word": "A股 高开",
@@ -1201,6 +1257,14 @@
       "onboard_time": 1727666298,
       "rank": 46,
       "category": "财经"
+    },
+    {
+      "raw_hot": 114456,
+      "num": 294148,
+      "word": "浪三组团支持出入平安",
+      "onboard_time": 1727674219,
+      "rank": 20,
+      "category": "电影"
     },
     {
       "raw_hot": 113827,
@@ -1459,6 +1523,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 67176,
+      "num": 425002,
+      "word": "上海100万房贷30年可少还16.41万",
+      "onboard_time": 1727672660,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 66833,
       "num": 66833,
       "word": "紫金山彗星与紫金山天文台同框",
@@ -1480,6 +1552,14 @@
       "word": "辣条里检出老鼠药嫌犯已被刑拘",
       "onboard_time": 1727652136,
       "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 57552,
+      "num": 209436,
+      "word": "国庆假期旅游产品预订进入冲刺阶段",
+      "onboard_time": 1727674760,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -1507,11 +1587,35 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 55313,
+      "num": 278299,
+      "word": "电影志愿军存亡之战上映",
+      "onboard_time": 1727674459,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
       "raw_hot": 55227,
       "num": 64360,
       "word": "亲历者讲述锌水爆炸事故前因后果",
       "onboard_time": 1727637972,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 49329,
+      "num": 213881,
+      "word": "电影危机航线今日上映",
+      "onboard_time": 1727674579,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 48011,
+      "num": 388895,
+      "word": "偶尔吃一顿大餐血管会经历什么",
+      "onboard_time": 1727672840,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -1587,14 +1691,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 37280,
-      "num": 388895,
-      "word": "偶尔吃一顿大餐血管会经历什么",
-      "onboard_time": 1727672840,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 35339,
       "num": 380199,
       "word": "官方回应水司楼变身度假酒店",
@@ -1611,27 +1707,27 @@
       "category": "美食"
     },
     {
+      "raw_hot": 34670,
+      "num": 323612,
+      "word": "张钧甯倒时差的方式是跑5公里",
+      "onboard_time": 1727673738,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 34176,
+      "num": 346638,
+      "word": "男子安检机上偷走手提包被刑拘",
+      "onboard_time": 1727672899,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 32417,
       "num": 546312,
       "word": "75年奇迹如歌",
       "onboard_time": 1727669240,
       "rank": 7,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 29579,
-      "num": 425002,
-      "word": "上海100万房贷30年可少还16.41万",
-      "onboard_time": 1727672660,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 28747,
-      "num": 346638,
-      "word": "男子安检机上偷走手提包被刑拘",
-      "onboard_time": 1727672899,
-      "rank": 19,
       "category": "社会新闻"
     },
     {

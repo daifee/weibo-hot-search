@@ -1,0 +1,410 @@
+{
+  "runTime": 1727674777079,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1536199,
+        "num": 1536199,
+        "word": "A股疯牛",
+        "onboard_time": 1727662938,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 674417,
+        "num": 674417,
+        "word": "A股大涨股民自费机票升舱",
+        "onboard_time": 1727670620,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 23540,
+        "num": 652526,
+        "word": "山河无恙致敬先烈",
+        "onboard_time": 1727658740,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1145386,
+        "num": 650401,
+        "word": "路上已长满了放假聪明人",
+        "onboard_time": 1727668339,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 645396,
+        "num": 645396,
+        "word": "90后00后投资者入市了",
+        "onboard_time": 1727661380,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 640502,
+        "num": 640502,
+        "word": "有网文作者股市已赚300万直接断更",
+        "onboard_time": 1727671100,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 480874,
+        "num": 480874,
+        "word": "还没下班朋友圈就已经堵了",
+        "onboard_time": 1727668218,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 328176,
+        "num": 328176,
+        "word": "撒贝宁北大保送含金量还在上升",
+        "onboard_time": 1727658259,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 22667,
+        "num": 324763,
+        "word": "75年奇迹如歌",
+        "onboard_time": 1727669240,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 324016,
+        "num": 324016,
+        "word": "A股",
+        "onboard_time": 1727659518,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1757272,
+        "num": 323975,
+        "word": "董宇辉直播翻车",
+        "onboard_time": 1727670678,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 819052,
+        "num": 323915,
+        "word": "董宇辉称居里夫人获得诺贝尔文学奖",
+        "onboard_time": 1727670499,
+        "rank": 11,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 483724,
+        "num": 323871,
+        "word": "董宇辉纠正科普错误",
+        "onboard_time": 1727672779,
+        "rank": 12,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 159521,
+        "num": 323799,
+        "word": "上证指数重回3300点",
+        "onboard_time": 1727674040,
+        "rank": 13,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 215517,
+        "num": 323737,
+        "word": "外媒称真主党高层几乎被团灭",
+        "onboard_time": 1727656461,
+        "rank": 14,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 418599,
+        "num": 323679,
+        "word": "雅 43岁正是告状的年纪",
+        "onboard_time": 1727671040,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 388888,
+        "num": 323620,
+        "word": "景区不让带宠物进入主人直接遗弃",
+        "onboard_time": 1727670558,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34670,
+        "num": 323612,
+        "word": "张钧甯倒时差的方式是跑5公里",
+        "onboard_time": 1727673738,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 323554,
+        "num": 323554,
+        "word": "王曼昱vs石洵瑶",
+        "onboard_time": 1727673019,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 317020,
+        "num": 317020,
+        "word": "HANNI将以证人出席监查",
+        "onboard_time": 1727673800,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114456,
+        "num": 294148,
+        "word": "浪三组团支持出入平安",
+        "onboard_time": 1727674219,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 279502,
+        "num": 279502,
+        "word": "CP30开票",
+        "onboard_time": 1727669059,
+        "rank": 21,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 55313,
+        "num": 278299,
+        "word": "电影志愿军存亡之战上映",
+        "onboard_time": 1727674459,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 278132,
+        "num": 278132,
+        "word": "35分钟A股成交额突破1万亿",
+        "onboard_time": 1727663839,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237308,
+        "num": 237308,
+        "word": "有股民称已赚20个点果断满仓",
+        "onboard_time": 1727672840,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 220210,
+        "num": 220210,
+        "word": "男孩掉5元被老人抢先捡走伤心好久",
+        "onboard_time": 1727668100,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218140,
+        "num": 218140,
+        "word": "杨紫回应秀场wink",
+        "onboard_time": 1727665219,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 48011,
+        "num": 217010,
+        "word": "偶尔吃一顿大餐血管会经历什么",
+        "onboard_time": 1727672840,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 49329,
+        "num": 213881,
+        "word": "电影危机航线今日上映",
+        "onboard_time": 1727674579,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 57552,
+        "num": 209436,
+        "word": "国庆假期旅游产品预订进入冲刺阶段",
+        "onboard_time": 1727674760,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34176,
+        "num": 206049,
+        "word": "男子安检机上偷走手提包被刑拘",
+        "onboard_time": 1727672899,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204915,
+        "num": 204915,
+        "word": "有股民一早赚了52万",
+        "onboard_time": 1727674219,
+        "rank": 31,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 202956,
+        "num": 202956,
+        "word": "缅北诈骗分子在武装势力庇护下建窝点",
+        "onboard_time": 1727668639,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95447,
+        "num": 180205,
+        "word": "电影749局",
+        "onboard_time": 1727672779,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 177246,
+        "num": 177246,
+        "word": "基金",
+        "onboard_time": 1727664859,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 176273,
+        "num": 176273,
+        "word": "堵车时劝你不要打开车窗",
+        "onboard_time": 1727674100,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172644,
+        "num": 172644,
+        "word": "肖战武侠生贺曲好带感",
+        "onboard_time": 1727674459,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 163344,
+        "num": 163344,
+        "word": "黑暗荣耀文东恩妈妈饰演者去世",
+        "onboard_time": 1727667621,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 67176,
+        "num": 160888,
+        "word": "上海100万房贷30年可少还16.41万",
+        "onboard_time": 1727672660,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168574,
+        "num": 160278,
+        "word": "汪苏泷上海演唱会抢票",
+        "onboard_time": 1727674340,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 159031,
+        "num": 159031,
+        "word": "迪丽热巴条纹毛衣搭花苞裙",
+        "onboard_time": 1727664380,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 158653,
+        "num": 158653,
+        "word": "孙亚龙给前妻道歉",
+        "onboard_time": 1727668039,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 155553,
+        "num": 155553,
+        "word": "沪指5天大涨20%",
+        "onboard_time": 1727674579,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 152390,
+        "num": 152390,
+        "word": "一代人有一代人的不动产",
+        "onboard_time": 1727671340,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 147545,
+        "num": 147545,
+        "word": "心动的信号7第二次约会",
+        "onboard_time": 1727671999,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145745,
+        "num": 145745,
+        "word": "董宇辉 居里夫人",
+        "onboard_time": 1727656042,
+        "rank": 45,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 142144,
+        "num": 142144,
+        "word": "华尔街资金涌入中国资产",
+        "onboard_time": 1727673619,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 137365,
+        "num": 137365,
+        "word": "烈士纪念日的天安门广场",
+        "onboard_time": 1727660900,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 134912,
+        "num": 134912,
+        "word": "陈奕迅 亲一万个人要亲很久",
+        "onboard_time": 1727671461,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 131758,
+        "num": 131758,
+        "word": "迪丽热巴蝴蝶结马尾辫",
+        "onboard_time": 1727672480,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#烈士纪念日向人民英雄敬献花篮#"
+    }
+  }
+}
