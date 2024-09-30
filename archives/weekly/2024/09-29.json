@@ -1,6 +1,6 @@
 {
   "startTime": 1727540758074,
-  "endTime": 1727691928684,
+  "endTime": 1727692974066,
   "band_list": [
     {
       "raw_hot": 2629801,
@@ -193,6 +193,14 @@
       "onboard_time": 1727684658,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1051685,
+      "num": 276671,
+      "word": "男子遭叉车碾压忍痛爬起将车熄火",
+      "onboard_time": 1727689879,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1040527,
@@ -505,14 +513,6 @@
       "onboard_time": 1727579238,
       "rank": 47,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 649600,
-      "num": 276671,
-      "word": "男子遭叉车碾压忍痛爬起将车熄火",
-      "onboard_time": 1727689879,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 648245,
@@ -1995,6 +1995,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 229185,
+      "num": 223334,
+      "word": "今天下班后就不要联系我了",
+      "onboard_time": 1727689158,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 229108,
       "num": 229108,
       "word": "75面国旗见证75个中国故事",
@@ -2041,14 +2049,6 @@
       "onboard_time": 1727517858,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 223334,
-      "num": 223334,
-      "word": "今天下班后就不要联系我了",
-      "onboard_time": 1727689158,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 223171,
@@ -2251,6 +2251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 206931,
+      "num": 206931,
+      "word": "堵车",
+      "onboard_time": 1727689459,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 206257,
       "num": 206257,
       "word": "Henry的小提琴拉的快冒烟了",
@@ -2345,6 +2353,14 @@
       "onboard_time": 1727608520,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 200477,
+      "num": 200477,
+      "word": "北京晚霞",
+      "onboard_time": 1727692517,
+      "rank": 19,
+      "category": "自然"
     },
     {
       "raw_hot": 200213,
@@ -2499,6 +2515,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 193502,
+      "num": 159035,
+      "word": "迪丽热巴登人民日报宣传片",
+      "onboard_time": 1727692339,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 193439,
       "num": 193439,
       "word": "PEL",
@@ -2601,6 +2625,22 @@
       "onboard_time": 1727586019,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 189934,
+      "num": 189934,
+      "word": "二十一天是人性恐怖片",
+      "onboard_time": 1727692219,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 189632,
+      "num": 272861,
+      "word": "和肖战一起为祖国送祝福",
+      "onboard_time": 1727691979,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 189565,
@@ -3547,6 +3587,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 143120,
+      "num": 143120,
+      "word": "花1000元打网约车运10000元现金",
+      "onboard_time": 1727689759,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 143082,
       "num": 157506,
       "word": "何超莲这个背不去拔罐可惜了",
@@ -3617,14 +3665,6 @@
       "onboard_time": 1727675119,
       "rank": 37,
       "category": "电影"
-    },
-    {
-      "raw_hot": 140730,
-      "num": 140730,
-      "word": "堵车",
-      "onboard_time": 1727689459,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 140667,
@@ -3723,6 +3763,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 137791,
+      "num": 243327,
+      "word": "以军会议照中哈马斯领导人被打问号",
+      "onboard_time": 1727687599,
+      "rank": 19,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 137300,
       "num": 137300,
       "word": "刘国梁观战孙颖莎",
@@ -3731,12 +3779,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 137154,
+      "num": 137154,
+      "word": "坐车闻到香水味晕得更厉害了",
+      "onboard_time": 1727692698,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 137130,
       "num": 137130,
       "word": "cp30摊宣",
       "onboard_time": 1727677520,
       "rank": 39,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 136911,
+      "num": 147395,
+      "word": "游本昌张若昀同框致敬奋斗者",
+      "onboard_time": 1727692579,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 136723,
@@ -3752,6 +3816,14 @@
       "word": "20个缅北电诈头目和骨干被押解回国",
       "onboard_time": 1727582659,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 136433,
+      "num": 136433,
+      "word": "烤鱼店黄牛取号炒至200元被质疑",
+      "onboard_time": 1727690597,
+      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -3955,14 +4027,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 130445,
-      "num": 243327,
-      "word": "以军会议照中哈马斯领导人被打问号",
-      "onboard_time": 1727687599,
-      "rank": 19,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 130054,
       "num": 130054,
       "word": "周深 绘本二创",
@@ -4041,6 +4105,14 @@
       "onboard_time": 1727576656,
       "rank": 44,
       "category": "财经"
+    },
+    {
+      "raw_hot": 127949,
+      "num": 277902,
+      "word": "中方将对葡萄牙等四国试行免签",
+      "onboard_time": 1727688559,
+      "rank": 39,
+      "category": "国内时政"
     },
     {
       "raw_hot": 127946,
@@ -4187,14 +4259,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 124021,
-      "num": 124021,
-      "word": "花1000元打网约车运10000元现金",
-      "onboard_time": 1727689759,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 124006,
       "num": 238938,
       "word": "黄俊捷直播",
@@ -4289,14 +4353,6 @@
       "onboard_time": 1727671939,
       "rank": 48,
       "category": "财经"
-    },
-    {
-      "raw_hot": 121248,
-      "num": 277902,
-      "word": "中方将对葡萄牙等四国试行免签",
-      "onboard_time": 1727688559,
-      "rank": 39,
-      "category": "国内时政"
     },
     {
       "raw_hot": 120803,
@@ -4491,20 +4547,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 116058,
-      "num": 116058,
-      "word": "烤鱼店黄牛取号炒至200元被质疑",
-      "onboard_time": 1727690597,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 115694,
       "num": 115694,
       "word": "你可以永远相信中国创新科技",
       "onboard_time": 1727683880,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 115426,
+      "num": 115426,
+      "word": "网传中信建投140万人排队开户",
+      "onboard_time": 1727691560,
+      "rank": 44,
+      "category": "财经"
     },
     {
       "raw_hot": 115421,
@@ -4603,12 +4659,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 111749,
-      "num": 111749,
-      "word": "网传中信建投140万人排队开户",
-      "onboard_time": 1727691560,
+      "raw_hot": 111979,
+      "num": 111979,
+      "word": "749局预售票房破5000万",
+      "onboard_time": 1727692878,
       "rank": 44,
-      "category": "财经"
+      "category": "电影"
     },
     {
       "raw_hot": 111064,
@@ -4955,6 +5011,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 89326,
+      "num": 227833,
+      "word": "A股经历无比梦幻的一周",
+      "onboard_time": 1727690418,
+      "rank": 12,
+      "category": "财经"
+    },
+    {
       "raw_hot": 88911,
       "num": 88911,
       "word": "过敏性鼻炎",
@@ -5052,7 +5116,7 @@
     },
     {
       "raw_hot": 85899,
-      "num": 85899,
+      "num": 136461,
       "word": "新中国成立七十五周年",
       "onboard_time": 1727685139,
       "rank": 48,
@@ -5561,6 +5625,14 @@
       "onboard_time": 1727674579,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 48546,
+      "num": 227527,
+      "word": "郑钦文vs波多罗斯卡",
+      "onboard_time": 1727691860,
+      "rank": 29,
+      "category": "教育"
     },
     {
       "raw_hot": 48011,
@@ -6123,6 +6195,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 17458,
+      "num": 230768,
+      "word": "警方辟谣沭阳一广场有人拐卖儿童",
+      "onboard_time": 1727691019,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 17270,
       "num": 262040,
       "word": "实干家领航者",
@@ -6179,14 +6259,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 13008,
-      "num": 230768,
-      "word": "警方辟谣沭阳一广场有人拐卖儿童",
-      "onboard_time": 1727691019,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 13000,
       "num": 875764,
       "word": "何以英雄他们给出了闪亮的答案",
@@ -6217,14 +6289,6 @@
       "onboard_time": 1727691379,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 6144,
-      "num": 150753,
-      "word": "郑钦文vs波多罗斯卡",
-      "onboard_time": 1727691860,
-      "rank": 29,
-      "category": "教育"
     }
   ],
   "hotgov_list": [

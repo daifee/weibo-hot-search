@@ -1,0 +1,410 @@
+{
+  "runTime": 1727692974066,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 779966,
+        "num": 1124794,
+        "word": "A股疯涨普通人是否要入局",
+        "onboard_time": 1727683579,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 408887,
+        "num": 408887,
+        "word": "有股民一早赚了52万",
+        "onboard_time": 1727674219,
+        "rank": 1,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 12170,
+        "num": 351580,
+        "word": "每一位英雄烈士都是一座精神丰碑",
+        "onboard_time": 1727684959,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1027561,
+        "num": 339719,
+        "word": "四川高速堵成红锅了",
+        "onboard_time": 1727685978,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 483784,
+        "num": 328939,
+        "word": "路上已长满了放假聪明人",
+        "onboard_time": 1727668339,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 313544,
+        "num": 313544,
+        "word": "堵车时劝你不要打开车窗",
+        "onboard_time": 1727674100,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189632,
+        "num": 272861,
+        "word": "和肖战一起为祖国送祝福",
+        "onboard_time": 1727691979,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 256170,
+        "num": 256170,
+        "word": "外交部回应美方军援台湾地区",
+        "onboard_time": 1727685561,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 230368,
+        "num": 230368,
+        "word": "代号鸢 策子没了",
+        "onboard_time": 1727687599,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 60136,
+        "num": 230068,
+        "word": "志愿军存亡之战",
+        "onboard_time": 1727691138,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1051685,
+        "num": 229177,
+        "word": "男子遭叉车碾压忍痛爬起将车熄火",
+        "onboard_time": 1727689879,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 868028,
+        "num": 228942,
+        "word": "俞灏明谈公布恋情",
+        "onboard_time": 1727677760,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 89326,
+        "num": 227833,
+        "word": "A股经历无比梦幻的一周",
+        "onboard_time": 1727690418,
+        "rank": 12,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 48546,
+        "num": 227527,
+        "word": "郑钦文vs波多罗斯卡",
+        "onboard_time": 1727691860,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 381106,
+        "num": 226597,
+        "word": "金靖和男朋友 直球恋爱",
+        "onboard_time": 1727684658,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 366419,
+        "num": 225947,
+        "word": "哀牢山 颜料师",
+        "onboard_time": 1727688918,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 246843,
+        "num": 225331,
+        "word": "A股仅8股下跌",
+        "onboard_time": 1727686279,
+        "rank": 16,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 225087,
+        "num": 225087,
+        "word": "岁岁年年的爱献给祖国",
+        "onboard_time": 1727675778,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 206931,
+        "num": 206931,
+        "word": "堵车",
+        "onboard_time": 1727689459,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200477,
+        "num": 200477,
+        "word": "北京晚霞",
+        "onboard_time": 1727692517,
+        "rank": 19,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 479897,
+        "num": 199214,
+        "word": "张凌赫让金靖孕期多看看迪丽热巴",
+        "onboard_time": 1727679679,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 229185,
+        "num": 198014,
+        "word": "今天下班后就不要联系我了",
+        "onboard_time": 1727689158,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 196694,
+        "num": 196694,
+        "word": "多位购房者称房东临时涨价或反悔不卖",
+        "onboard_time": 1727685379,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 189934,
+        "num": 189934,
+        "word": "二十一天是人性恐怖片",
+        "onboard_time": 1727692219,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170591,
+        "num": 170591,
+        "word": "董宇辉直播翻车",
+        "onboard_time": 1727670678,
+        "rank": 24,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 64065,
+        "num": 159576,
+        "word": "中国科创力量不断向前",
+        "onboard_time": 1727680940,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193502,
+        "num": 159035,
+        "word": "迪丽热巴登人民日报宣传片",
+        "onboard_time": 1727692339,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156689,
+        "num": 156689,
+        "word": "惠英红六处骨裂",
+        "onboard_time": 1727679319,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152955,
+        "num": 152955,
+        "word": "国庆回家耗尽了我全部力气和手段",
+        "onboard_time": 1727685139,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 136911,
+        "num": 147395,
+        "word": "游本昌张若昀同框致敬奋斗者",
+        "onboard_time": 1727692579,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143120,
+        "num": 143120,
+        "word": "花1000元打网约车运10000元现金",
+        "onboard_time": 1727689759,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143081,
+        "num": 143081,
+        "word": "樊振东把巴黎奥运会看成新起点",
+        "onboard_time": 1727689578,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 138315,
+        "num": 138315,
+        "word": "把青春华章写在祖国大地上",
+        "onboard_time": 1727680460,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137791,
+        "num": 137791,
+        "word": "以军会议照中哈马斯领导人被打问号",
+        "onboard_time": 1727687599,
+        "rank": 33,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 137154,
+        "num": 137154,
+        "word": "坐车闻到香水味晕得更厉害了",
+        "onboard_time": 1727692698,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 61499,
+        "num": 136461,
+        "word": "新中国成立七十五周年",
+        "onboard_time": 1727685139,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 136433,
+        "num": 136433,
+        "word": "烤鱼店黄牛取号炒至200元被质疑",
+        "onboard_time": 1727690597,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 17458,
+        "num": 128785,
+        "word": "警方辟谣沭阳一广场有人拐卖儿童",
+        "onboard_time": 1727691019,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127949,
+        "num": 127949,
+        "word": "中方将对葡萄牙等四国试行免签",
+        "onboard_time": 1727688559,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 125342,
+        "num": 125342,
+        "word": "田曦薇分手戏",
+        "onboard_time": 1727688257,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122203,
+        "num": 122203,
+        "word": "中年人恋爱就像老房子着火",
+        "onboard_time": 1727691260,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120031,
+        "num": 120031,
+        "word": "股民称主板涨停板才10%非常耽误事",
+        "onboard_time": 1727690839,
+        "rank": 41,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 115426,
+        "num": 115426,
+        "word": "网传中信建投140万人排队开户",
+        "onboard_time": 1727691560,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 114063,
+        "num": 114063,
+        "word": "杨紫时装周状态",
+        "onboard_time": 1727691379,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 111979,
+        "num": 111979,
+        "word": "749局预售票房破5000万",
+        "onboard_time": 1727692878,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 110987,
+        "num": 110987,
+        "word": "75面国旗见证75个中国故事",
+        "onboard_time": 1727687118,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 110466,
+        "num": 110466,
+        "word": "cv天空晒照",
+        "onboard_time": 1727682499,
+        "rank": 46,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 108881,
+        "num": 108881,
+        "word": "内蒙古下暴雪331国道数百辆车被困",
+        "onboard_time": 1727684059,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107731,
+        "num": 107731,
+        "word": "章若楠口误给自己整红温了",
+        "onboard_time": 1727683160,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104704,
+        "num": 104704,
+        "word": "格列兹曼国家队退役",
+        "onboard_time": 1727689879,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#烈士纪念日向人民英雄敬献花篮#"
+    }
+  }
+}
