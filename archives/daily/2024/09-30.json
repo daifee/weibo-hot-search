@@ -1,10 +1,18 @@
 {
   "startTime": 1727627182055,
-  "endTime": 1727667947357,
+  "endTime": 1727670454386,
   "band_list": [
     {
-      "raw_hot": 1665921,
-      "num": 1665921,
+      "raw_hot": 1786675,
+      "num": 436923,
+      "word": "路上已长满了放假聪明人",
+      "onboard_time": 1727668339,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1726470,
+      "num": 1726470,
       "word": "A股疯牛",
       "onboard_time": 1727662938,
       "rank": 25,
@@ -51,6 +59,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 953929,
+      "num": 401193,
+      "word": "CP30开票",
+      "onboard_time": 1727669059,
+      "rank": 10,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 927506,
       "num": 404429,
       "word": "黄晓明再现我不要你觉得",
@@ -75,8 +91,8 @@
       "category": "财经"
     },
     {
-      "raw_hot": 648548,
-      "num": 648548,
+      "raw_hot": 697367,
+      "num": 697367,
       "word": "90后00后投资者入市了",
       "onboard_time": 1727661380,
       "rank": 15,
@@ -179,6 +195,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 444702,
+      "num": 396917,
+      "word": "还没下班朋友圈就已经堵了",
+      "onboard_time": 1727668218,
+      "rank": 11,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 433176,
+      "num": 390480,
+      "word": "cpp崩了",
+      "onboard_time": 1727670020,
+      "rank": 12,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 429207,
       "num": 429207,
       "word": "外媒称真主党高层几乎被团灭",
@@ -227,6 +259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 374562,
+      "num": 374562,
+      "word": "孙亚龙给前妻道歉",
+      "onboard_time": 1727668039,
+      "rank": 15,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 369368,
       "num": 369368,
       "word": "TES",
@@ -235,8 +275,16 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 350413,
-      "num": 350413,
+      "raw_hot": 363637,
+      "num": 363637,
+      "word": "杨紫回应秀场wink",
+      "onboard_time": 1727665219,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 350504,
+      "num": 350504,
       "word": "张本美和说孙颖莎是最厉害的",
       "onboard_time": 1727664799,
       "rank": 47,
@@ -272,6 +320,14 @@
       "word": "爸爸生日女儿花30元送仿真土豪三件套",
       "onboard_time": 1727664318,
       "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 318452,
+      "num": 318452,
+      "word": "男孩掉5元被老人抢先捡走伤心好久",
+      "onboard_time": 1727668100,
+      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -339,8 +395,16 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 267081,
+      "num": 267081,
+      "word": "心动的信号7",
+      "onboard_time": 1727666059,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 266406,
-      "num": 266406,
+      "num": 438281,
       "word": "山河无恙致敬先烈",
       "onboard_time": 1727658740,
       "rank": 22,
@@ -395,6 +459,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 239942,
+      "num": 239942,
+      "word": "黑暗荣耀文东恩妈妈饰演者去世",
+      "onboard_time": 1727667621,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 239618,
       "num": 239618,
       "word": "丁真介绍自己出圈照",
@@ -435,22 +507,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 225225,
-      "num": 183688,
-      "word": "黑暗荣耀文东恩妈妈饰演者去世",
-      "onboard_time": 1727667621,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 224420,
-      "num": 224420,
-      "word": "杨紫回应秀场wink",
-      "onboard_time": 1727665219,
-      "rank": 38,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 220384,
       "num": 220384,
       "word": "双胞胎还在妈妈子宫就把手术做了",
@@ -489,6 +545,14 @@
       "onboard_time": 1727664380,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 204694,
+      "num": 204694,
+      "word": "基金",
+      "onboard_time": 1727664859,
+      "rank": 33,
+      "category": "财经"
     },
     {
       "raw_hot": 199493,
@@ -539,14 +603,6 @@
       "category": "国内时政,社会新闻"
     },
     {
-      "raw_hot": 188465,
-      "num": 188465,
-      "word": "基金",
-      "onboard_time": 1727664859,
-      "rank": 33,
-      "category": "财经"
-    },
-    {
       "raw_hot": 188193,
       "num": 188193,
       "word": "恋与深空黎深",
@@ -579,20 +635,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 183662,
-      "num": 183662,
-      "word": "心动的信号7",
-      "onboard_time": 1727666059,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 183076,
       "num": 192924,
       "word": "A股大涨",
       "onboard_time": 1727665520,
       "rank": 32,
       "category": "财经"
+    },
+    {
+      "raw_hot": 182945,
+      "num": 182945,
+      "word": "缅北诈骗分子在武装势力庇护下建窝点",
+      "onboard_time": 1727668639,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 182860,
@@ -628,7 +684,7 @@
     },
     {
       "raw_hot": 172868,
-      "num": 183928,
+      "num": 419053,
       "word": "电视剧足迹杀青",
       "onboard_time": 1727667438,
       "rank": 28,
@@ -667,12 +723,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 161693,
+      "num": 161693,
+      "word": "吴昕巴黎时装周看秀状态",
+      "onboard_time": 1727669120,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 161325,
       "num": 161325,
       "word": "林允儿齐刘海包头造型",
       "onboard_time": 1727618719,
       "rank": 25,
       "category": "作品衍生,艺人"
+    },
+    {
+      "raw_hot": 160759,
+      "num": 354479,
+      "word": "王俊凯新片749局是怎样的电影",
+      "onboard_time": 1727669599,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 157917,
@@ -731,6 +803,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 146704,
+      "num": 146704,
+      "word": "刘端端首次爆灯挑战成功",
+      "onboard_time": 1727670079,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 145517,
+      "num": 406808,
+      "word": "当地回应斯坦福博士已入职镇政府",
+      "onboard_time": 1727668999,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 145229,
       "num": 342964,
       "word": "股民说希望在1万点胜利大会师",
@@ -745,6 +833,14 @@
       "onboard_time": 1727621480,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 143857,
+      "num": 143857,
+      "word": "上交所拟于10月7日再次开展全网测试",
+      "onboard_time": 1727670442,
+      "rank": 41,
+      "category": "财经"
     },
     {
       "raw_hot": 141920,
@@ -811,6 +907,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 133202,
+      "num": 133202,
+      "word": "光遇",
+      "onboard_time": 1727670378,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 128759,
+      "num": 146781,
+      "word": "亚洲青年音乐盛典官宣",
+      "onboard_time": 1727669960,
+      "rank": 39,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 126048,
       "num": 126048,
       "word": "部分用户反映券商银转证功能卡顿",
@@ -865,6 +977,14 @@
       "onboard_time": 1727621720,
       "rank": 9,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 118479,
+      "num": 118479,
+      "word": "第五人格",
+      "onboard_time": 1727669120,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 117943,
@@ -1211,6 +1331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 46219,
+      "num": 236398,
+      "word": "黎真主党领导人遇袭地点画面公开",
+      "onboard_time": 1727669781,
+      "rank": 29,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 45683,
       "num": 85583,
       "word": "麦迪娜佟丽娅新疆美女联动了",
@@ -1243,6 +1371,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 39186,
+      "num": 328598,
+      "word": "预制朋友圈是精装朋友圈的变种吗",
+      "onboard_time": 1727669718,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 39122,
       "num": 194122,
       "word": "美官员称纳斯鲁拉死了才更安全",
@@ -1259,8 +1395,16 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 35339,
+      "num": 380199,
+      "word": "官方回应水司楼变身度假酒店",
+      "onboard_time": 1727669180,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 35219,
-      "num": 317088,
+      "num": 318581,
       "word": "超牛的贴秋膘指南",
       "onboard_time": 1727665459,
       "rank": 45,
@@ -1297,6 +1441,14 @@
       "onboard_time": 1727603179,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 20647,
+      "num": 416800,
+      "word": "75年奇迹如歌",
+      "onboard_time": 1727669240,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 19782,
@@ -1361,6 +1513,9 @@
     },
     {
       "word": "#150秒回顾这场勋章奖章颁授仪式#"
+    },
+    {
+      "word": "#烈士纪念日向人民英雄敬献花篮#"
     }
   ]
 }
