@@ -1,0 +1,410 @@
+{
+  "runTime": 1727724933883,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 197316,
+        "num": 197316,
+        "word": "我的身份证上有你的名字",
+        "onboard_time": 1727711179,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124424,
+        "num": 124424,
+        "word": "江苏路段已出现大量车流",
+        "onboard_time": 1727719573,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 4974,
+        "num": 95998,
+        "word": "写给先辈们的一封信",
+        "onboard_time": 1727702721,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 84323,
+        "num": 84323,
+        "word": "小哥误撞奔驰车主免赔偿称结婚叫我",
+        "onboard_time": 1727700080,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 81276,
+        "num": 81276,
+        "word": "祖国万岁",
+        "onboard_time": 1727713638,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 72152,
+        "num": 72152,
+        "word": "以空军飞越1800公里空袭也门胡塞武装",
+        "onboard_time": 1727722573,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 66697,
+        "num": 66697,
+        "word": "中国红永远是最爱的颜色",
+        "onboard_time": 1727710640,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22940,
+        "num": 66659,
+        "word": "七夜雪定档",
+        "onboard_time": 1727707701,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22383,
+        "num": 66593,
+        "word": "749局2024国庆档预售票房冠军",
+        "onboard_time": 1727708481,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 15777,
+        "num": 66565,
+        "word": "坐北京地铁回家",
+        "onboard_time": 1727724552,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178125,
+        "num": 66520,
+        "word": "东北雨姐称先行全额退款",
+        "onboard_time": 1727715915,
+        "rank": 10,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 130301,
+        "num": 66454,
+        "word": "网红女骑士石膏发生车祸身亡",
+        "onboard_time": 1727705540,
+        "rank": 11,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 66416,
+        "num": 66416,
+        "word": "10月你好",
+        "onboard_time": 1727713220,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129163,
+        "num": 65805,
+        "word": "女子拔插头被电伤截肢",
+        "onboard_time": 1727709140,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116635,
+        "num": 65258,
+        "word": "哀牢山",
+        "onboard_time": 1727694079,
+        "rank": 14,
+        "category": "自然,网红"
+      },
+      {
+        "raw_hot": 77403,
+        "num": 64778,
+        "word": "黎巴嫩网红双胞胎母亲拍下逃难画面",
+        "onboard_time": 1727708900,
+        "rank": 15,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 63942,
+        "num": 63942,
+        "word": "还是低估了国庆假期堵车的程度",
+        "onboard_time": 1727704340,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 57741,
+        "num": 57741,
+        "word": "上海房东连夜跳价50万",
+        "onboard_time": 1727696778,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 59070,
+        "num": 57711,
+        "word": "国庆节",
+        "onboard_time": 1727712799,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 32932,
+        "num": 57682,
+        "word": "何知南官配上线",
+        "onboard_time": 1727710700,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 234116,
+        "num": 57677,
+        "word": "女子称一丝不挂被2次刷开酒店房门",
+        "onboard_time": 1727710519,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 57673,
+        "num": 57673,
+        "word": "校方回应男生遭同学多次用板凳砸头",
+        "onboard_time": 1727712440,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 56091,
+        "num": 56091,
+        "word": "外籍男子将日本老人推倒致死",
+        "onboard_time": 1727709680,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 49807,
+        "num": 49807,
+        "word": "台湾首来大陆同胞1256个景区免票",
+        "onboard_time": 1727700202,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38226,
+        "num": 38226,
+        "word": "700多位航天英烈长眠酒泉",
+        "onboard_time": 1727707461,
+        "rank": 24,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 38081,
+        "num": 38081,
+        "word": "关晓彤帽子好像特效",
+        "onboard_time": 1727712140,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37762,
+        "num": 37762,
+        "word": "俞灏明谈公布恋情",
+        "onboard_time": 1727677760,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 36152,
+        "num": 36152,
+        "word": "中纪委驻中组部纪检监察组组长李刚被查",
+        "onboard_time": 1727700861,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33765,
+        "num": 33765,
+        "word": "A股疯涨普通人是否要入局",
+        "onboard_time": 1727683579,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 32535,
+        "num": 32535,
+        "word": "5岁幼童遭8岁男孩强行推入水池",
+        "onboard_time": 1727702479,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32138,
+        "num": 32138,
+        "word": "华伦天奴 头巾",
+        "onboard_time": 1727705420,
+        "rank": 30,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 32006,
+        "num": 32006,
+        "word": "旅客行李箱塞满180万美元入境",
+        "onboard_time": 1727709501,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31902,
+        "num": 31902,
+        "word": "中俄巴伊四国外长联合声明",
+        "onboard_time": 1727697919,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 30137,
+        "num": 30137,
+        "word": "机票价格跳水可以买低退高吗",
+        "onboard_time": 1727719694,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29881,
+        "num": 29881,
+        "word": "恒大地产和许家印等被处分",
+        "onboard_time": 1727709439,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29122,
+        "num": 29122,
+        "word": "为了国庆不添堵结果堵在高速路",
+        "onboard_time": 1727704642,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28948,
+        "num": 28948,
+        "word": "马龙采访被儿子打断",
+        "onboard_time": 1727702780,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 27400,
+        "num": 27400,
+        "word": "北京楼市出台一揽子新政",
+        "onboard_time": 1727708121,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27232,
+        "num": 27232,
+        "word": "毛不易的新歌被各地文旅用上了",
+        "onboard_time": 1727714776,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 26897,
+        "num": 26897,
+        "word": "马龙一家四口同框",
+        "onboard_time": 1727706620,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 17617,
+        "num": 26683,
+        "word": "志愿军存亡之战",
+        "onboard_time": 1727691138,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 26535,
+        "num": 26535,
+        "word": "成都混团世界杯名单",
+        "onboard_time": 1727706021,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 26248,
+        "num": 26535,
+        "word": "北京下调个人住房贷款首付款比例",
+        "onboard_time": 1727707881,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25012,
+        "num": 26535,
+        "word": "黎巴嫩网红双胞胎住所附近遭轰炸",
+        "onboard_time": 1727724072,
+        "rank": 43,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 24982,
+        "num": 26535,
+        "word": "肖战 月亮代表我的心",
+        "onboard_time": 1727706562,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 24756,
+        "num": 26535,
+        "word": "哀牢山 颜料师",
+        "onboard_time": 1727688918,
+        "rank": 45,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 22759,
+        "num": 26535,
+        "word": "俄总理抵达伊朗",
+        "onboard_time": 1727716936,
+        "rank": 46,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 22218,
+        "num": 26535,
+        "word": "庆祝中华人民共和国成立75周年招待会",
+        "onboard_time": 1727701580,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 22145,
+        "num": 26535,
+        "word": "新中国成立75周年主题宣传片",
+        "onboard_time": 1727718254,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 13694,
+        "num": 26535,
+        "word": "抓娃娃",
+        "onboard_time": 1727696179,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#铭记英烈丰功伟绩同心谱写时代新篇#"
+    }
+  }
+}
