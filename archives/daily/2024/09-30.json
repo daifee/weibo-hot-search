@@ -1,10 +1,10 @@
 {
   "startTime": 1727627182055,
-  "endTime": 1727674777079,
+  "endTime": 1727677953682,
   "band_list": [
     {
       "raw_hot": 1939826,
-      "num": 686831,
+      "num": 848562,
       "word": "路上已长满了放假聪明人",
       "onboard_time": 1727668339,
       "rank": 3,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1757272,
-      "num": 421677,
+      "num": 439855,
       "word": "董宇辉直播翻车",
       "onboard_time": 1727670678,
       "rank": 30,
@@ -65,6 +65,14 @@
       "onboard_time": 1727617880,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1102834,
+      "num": 1102834,
+      "word": "有股民一早赚了52万",
+      "onboard_time": 1727674219,
+      "rank": 31,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 953929,
@@ -196,7 +204,7 @@
     },
     {
       "raw_hot": 483724,
-      "num": 323871,
+      "num": 437477,
       "word": "董宇辉纠正科普错误",
       "onboard_time": 1727672779,
       "rank": 28,
@@ -273,6 +281,14 @@
       "onboard_time": 1727671040,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 418096,
+      "num": 418096,
+      "word": "林高远vs阿拉米扬",
+      "onboard_time": 1727676079,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 416116,
@@ -371,6 +387,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 327927,
+      "num": 327927,
+      "word": "堵车时劝你不要打开车窗",
+      "onboard_time": 1727674100,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 324257,
       "num": 324257,
       "word": "骗子把老人所有定期存款转成活期",
@@ -393,6 +417,14 @@
       "onboard_time": 1727664318,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 319707,
+      "num": 173918,
+      "word": "俞灏明谈公布恋情",
+      "onboard_time": 1727677760,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 317020,
@@ -467,6 +499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 282486,
+      "num": 282486,
+      "word": "有股民称已赚20个点果断满仓",
+      "onboard_time": 1727672840,
+      "rank": 37,
+      "category": "财经"
+    },
+    {
       "raw_hot": 277805,
       "num": 277805,
       "word": "缅北诈骗分子在武装势力庇护下建窝点",
@@ -484,7 +524,7 @@
     },
     {
       "raw_hot": 266406,
-      "num": 705684,
+      "num": 882588,
       "word": "山河无恙致敬先烈",
       "onboard_time": 1727658740,
       "rank": 22,
@@ -571,20 +611,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 237308,
-      "num": 237308,
-      "word": "有股民称已赚20个点果断满仓",
-      "onboard_time": 1727672840,
-      "rank": 37,
-      "category": "财经"
-    },
-    {
       "raw_hot": 233928,
       "num": 233928,
       "word": "虞书欣情商",
       "onboard_time": 1727634792,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 231964,
+      "num": 231964,
+      "word": "梁靖崑问Goat是啥",
+      "onboard_time": 1727675840,
+      "rank": 20,
+      "category": "体育"
     },
     {
       "raw_hot": 228748,
@@ -611,6 +651,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 215976,
+      "num": 215976,
+      "word": "基金",
+      "onboard_time": 1727664859,
+      "rank": 33,
+      "category": "财经"
+    },
+    {
       "raw_hot": 213179,
       "num": 299209,
       "word": "杨紫透露10月底进组家业",
@@ -635,6 +683,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 206448,
+      "num": 206448,
+      "word": "A股41只券商股全部涨停",
+      "onboard_time": 1727676740,
+      "rank": 25,
+      "category": "财经"
+    },
+    {
       "raw_hot": 206257,
       "num": 206257,
       "word": "Henry的小提琴拉的快冒烟了",
@@ -643,20 +699,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 204915,
-      "num": 204915,
-      "word": "有股民一早赚了52万",
-      "onboard_time": 1727674219,
-      "rank": 31,
-      "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 204694,
-      "num": 204694,
-      "word": "基金",
-      "onboard_time": 1727664859,
-      "rank": 33,
-      "category": "财经"
+      "raw_hot": 205013,
+      "num": 310737,
+      "word": "王俊凯演技",
+      "onboard_time": 1727677041,
+      "rank": 16,
+      "category": "电影"
     },
     {
       "raw_hot": 199493,
@@ -705,6 +753,14 @@
       "onboard_time": 1727658379,
       "rank": 28,
       "category": "财经"
+    },
+    {
+      "raw_hot": 190154,
+      "num": 190154,
+      "word": "丞磊林允民国cp感",
+      "onboard_time": 1727677339,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 189133,
@@ -787,14 +843,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 176273,
-      "num": 176273,
-      "word": "堵车时劝你不要打开车窗",
-      "onboard_time": 1727674100,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 176098,
       "num": 176098,
       "word": "以色列公布真主党高层死亡名单",
@@ -833,6 +881,14 @@
       "onboard_time": 1727674459,
       "rank": 36,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 172281,
+      "num": 172281,
+      "word": "13岁男孩夏令营遭体罚致横纹肌溶解",
+      "onboard_time": 1727676140,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 168574,
@@ -923,6 +979,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 157675,
+      "num": 157675,
+      "word": "A股连休7天",
+      "onboard_time": 1727675000,
+      "rank": 33,
+      "category": "财经"
+    },
+    {
       "raw_hot": 156512,
       "num": 156512,
       "word": "沪深两市刷新历史最快万亿纪录",
@@ -961,6 +1025,14 @@
       "onboard_time": 1727672419,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 151552,
+      "num": 151552,
+      "word": "A股成交破2万亿",
+      "onboard_time": 1727675479,
+      "rank": 34,
+      "category": "财经"
     },
     {
       "raw_hot": 150669,
@@ -1059,6 +1131,22 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 141471,
+      "num": 141471,
+      "word": "黄小蕾转发区好多人",
+      "onboard_time": 1727675119,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 140667,
+      "num": 140667,
+      "word": "高雅cp",
+      "onboard_time": 1727675119,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 139659,
       "num": 139659,
       "word": "礼兵将9个花篮稳稳摆好",
@@ -1091,12 +1179,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 137130,
+      "num": 137130,
+      "word": "cp30摊宣",
+      "onboard_time": 1727677520,
+      "rank": 39,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 135446,
       "num": 135446,
       "word": "以国之名敬英雄",
       "onboard_time": 1727662639,
       "rank": 46,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 135038,
+      "num": 135038,
+      "word": "10月十二星座注意事项",
+      "onboard_time": 1727675901,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 133629,
+      "num": 133629,
+      "word": "女子散布西安下雪虚假视频被拘",
+      "onboard_time": 1727677399,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 133564,
@@ -1115,6 +1227,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 132427,
+      "num": 209436,
+      "word": "国庆假期旅游产品预订进入冲刺阶段",
+      "onboard_time": 1727674760,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 128759,
       "num": 146781,
       "word": "亚洲青年音乐盛典官宣",
@@ -1129,6 +1249,14 @@
       "onboard_time": 1727671100,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 127371,
+      "num": 127371,
+      "word": "中缅一举抓获870名电诈嫌犯",
+      "onboard_time": 1727671340,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 126048,
@@ -1251,8 +1379,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 117584,
+      "num": 117584,
+      "word": "一诺拔毛不容易",
+      "onboard_time": 1727676200,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 116250,
-      "num": 116250,
+      "num": 458632,
       "word": "专家称黄金周买房量会大增",
       "onboard_time": 1727666298,
       "rank": 46,
@@ -1555,14 +1691,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 57552,
-      "num": 209436,
-      "word": "国庆假期旅游产品预订进入冲刺阶段",
-      "onboard_time": 1727674760,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 56487,
       "num": 292889,
       "word": "补仓",
@@ -1651,6 +1779,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 44412,
+      "num": 247874,
+      "word": "制造流水线公主的旅拍店批量倒闭",
+      "onboard_time": 1727676981,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 43707,
       "num": 341989,
       "word": "阿祖这次还没收手",
@@ -1699,6 +1835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 35234,
+      "num": 494165,
+      "word": "电影出入平安今日上映",
+      "onboard_time": 1727676620,
+      "rank": 7,
+      "category": "电影"
+    },
+    {
       "raw_hot": 35219,
       "num": 318581,
       "word": "超牛的贴秋膘指南",
@@ -1729,6 +1873,14 @@
       "onboard_time": 1727669240,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 27899,
+      "num": 133800,
+      "word": "模拟以袭击黎真主党领导人全过程",
+      "onboard_time": 1727676681,
+      "rank": 41,
+      "category": "国外时政"
     },
     {
       "raw_hot": 25275,

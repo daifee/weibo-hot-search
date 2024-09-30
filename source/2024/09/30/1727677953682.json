@@ -1,0 +1,410 @@
+{
+  "runTime": 1727677953682,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1403306,
+        "num": 1403306,
+        "word": "A股疯牛",
+        "onboard_time": 1727662938,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1102834,
+        "num": 1102834,
+        "word": "有股民一早赚了52万",
+        "onboard_time": 1727674219,
+        "rank": 1,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 19443,
+        "num": 882588,
+        "word": "山河无恙致敬先烈",
+        "onboard_time": 1727658740,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 848562,
+        "num": 848562,
+        "word": "路上已长满了放假聪明人",
+        "onboard_time": 1727668339,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 507192,
+        "num": 507192,
+        "word": "有网文作者股市已赚300万直接断更",
+        "onboard_time": 1727671100,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 160991,
+        "num": 497508,
+        "word": "撒贝宁北大保送含金量还在上升",
+        "onboard_time": 1727658259,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 495953,
+        "num": 495953,
+        "word": "A股大涨股民自费机票升舱",
+        "onboard_time": 1727670620,
+        "rank": 6,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 35234,
+        "num": 494165,
+        "word": "电影出入平安今日上映",
+        "onboard_time": 1727676620,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 17223,
+        "num": 473331,
+        "word": "75年奇迹如歌",
+        "onboard_time": 1727669240,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 59636,
+        "num": 458632,
+        "word": "专家称黄金周买房量会大增",
+        "onboard_time": 1727666298,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 861655,
+        "num": 439855,
+        "word": "董宇辉直播翻车",
+        "onboard_time": 1727670678,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 439214,
+        "num": 439214,
+        "word": "A股",
+        "onboard_time": 1727659518,
+        "rank": 11,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 472448,
+        "num": 437477,
+        "word": "董宇辉纠正科普错误",
+        "onboard_time": 1727672779,
+        "rank": 12,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 418096,
+        "num": 418096,
+        "word": "林高远vs阿拉米扬",
+        "onboard_time": 1727676079,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 327927,
+        "num": 327927,
+        "word": "堵车时劝你不要打开车窗",
+        "onboard_time": 1727674100,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 322356,
+        "num": 322356,
+        "word": "90后00后投资者入市了",
+        "onboard_time": 1727661380,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205013,
+        "num": 310737,
+        "word": "王俊凯演技",
+        "onboard_time": 1727677041,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 301812,
+        "num": 301812,
+        "word": "还没下班朋友圈就已经堵了",
+        "onboard_time": 1727668218,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 282486,
+        "num": 282486,
+        "word": "有股民称已赚20个点果断满仓",
+        "onboard_time": 1727672840,
+        "rank": 18,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 44412,
+        "num": 247874,
+        "word": "制造流水线公主的旅拍店批量倒闭",
+        "onboard_time": 1727676981,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231964,
+        "num": 231964,
+        "word": "梁靖崑问Goat是啥",
+        "onboard_time": 1727675840,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 226042,
+        "num": 226042,
+        "word": "董宇辉称居里夫人获得诺贝尔文学奖",
+        "onboard_time": 1727670499,
+        "rank": 21,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 223923,
+        "num": 223923,
+        "word": "雅 43岁正是告状的年纪",
+        "onboard_time": 1727671040,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 215976,
+        "num": 215976,
+        "word": "基金",
+        "onboard_time": 1727664859,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 207884,
+        "num": 207884,
+        "word": "王曼昱vs石洵瑶",
+        "onboard_time": 1727673019,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 206448,
+        "num": 206448,
+        "word": "A股41只券商股全部涨停",
+        "onboard_time": 1727676740,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 190154,
+        "num": 190154,
+        "word": "丞磊林允民国cp感",
+        "onboard_time": 1727677339,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183134,
+        "num": 183134,
+        "word": "景区不让带宠物进入主人直接遗弃",
+        "onboard_time": 1727670558,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178378,
+        "num": 178378,
+        "word": "HANNI将以证人出席监查",
+        "onboard_time": 1727673800,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174074,
+        "num": 174074,
+        "word": "CP30开票",
+        "onboard_time": 1727669059,
+        "rank": 29,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 319707,
+        "num": 173918,
+        "word": "俞灏明谈公布恋情",
+        "onboard_time": 1727677760,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172281,
+        "num": 172281,
+        "word": "13岁男孩夏令营遭体罚致横纹肌溶解",
+        "onboard_time": 1727676140,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167502,
+        "num": 167502,
+        "word": "外媒称真主党高层几乎被团灭",
+        "onboard_time": 1727656461,
+        "rank": 32,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 157675,
+        "num": 157675,
+        "word": "A股连休7天",
+        "onboard_time": 1727675000,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 151552,
+        "num": 151552,
+        "word": "A股成交破2万亿",
+        "onboard_time": 1727675479,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 149793,
+        "num": 149793,
+        "word": "缅北诈骗分子在武装势力庇护下建窝点",
+        "onboard_time": 1727668639,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147565,
+        "num": 147565,
+        "word": "男孩掉5元被老人抢先捡走伤心好久",
+        "onboard_time": 1727668100,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141471,
+        "num": 141471,
+        "word": "黄小蕾转发区好多人",
+        "onboard_time": 1727675119,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 140667,
+        "num": 140667,
+        "word": "高雅cp",
+        "onboard_time": 1727675119,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137130,
+        "num": 137130,
+        "word": "cp30摊宣",
+        "onboard_time": 1727677520,
+        "rank": 39,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 135038,
+        "num": 135038,
+        "word": "10月十二星座注意事项",
+        "onboard_time": 1727675901,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 27899,
+        "num": 133800,
+        "word": "模拟以袭击黎真主党领导人全过程",
+        "onboard_time": 1727676681,
+        "rank": 41,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 133629,
+        "num": 133629,
+        "word": "女子散布西安下雪虚假视频被拘",
+        "onboard_time": 1727677399,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132427,
+        "num": 132427,
+        "word": "国庆假期旅游产品预订进入冲刺阶段",
+        "onboard_time": 1727674760,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127371,
+        "num": 127371,
+        "word": "中缅一举抓获870名电诈嫌犯",
+        "onboard_time": 1727671340,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127247,
+        "num": 127247,
+        "word": "股市",
+        "onboard_time": 1727660116,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 124899,
+        "num": 124899,
+        "word": "35分钟A股成交额突破1万亿",
+        "onboard_time": 1727663839,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124162,
+        "num": 124162,
+        "word": "华尔街资金涌入中国资产",
+        "onboard_time": 1727673619,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 123645,
+        "num": 123645,
+        "word": "杨紫回应秀场wink",
+        "onboard_time": 1727665219,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 117584,
+        "num": 117584,
+        "word": "一诺拔毛不容易",
+        "onboard_time": 1727676200,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#一个有希望的民族不能没有英雄#"
+    }
+  }
+}

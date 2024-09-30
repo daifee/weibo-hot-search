@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/09/01 00:25:38 ~ 2024/09/30 13:39:37
+本榜单时间：2024/09/01 00:25:38 ~ 2024/09/30 14:32:33
 </p>
 </blockquote>
 <p>
@@ -4437,6 +4437,12 @@ NewJeans被HYBE其他艺人团队排挤（热度：1130540）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9C%89%E8%82%A1%E6%B0%91%E4%B8%80%E6%97%A9%E8%B5%9A%E4%BA%8652%E4%B8%87%23" target="weibo">
+有股民一早赚了52万（热度：1102834）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%80%9A%E6%8A%A5%E7%A7%92%E5%88%A0%E5%A4%9A%E6%AC%A1%E7%BA%A6%E8%B0%88%E4%B8%89%E5%8F%AA%E7%BE%8A%E5%86%85%E5%AE%B9%23" target="weibo">
 通报秒删多次约谈三只羊内容（热度：1102445）
 </a>
@@ -6005,12 +6011,6 @@ Scout暂时无缘S14（热度：922133）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E4%BC%9F%E9%9C%86%20%E4%BD%9B%E7%88%B7%23" target="weibo">
 陈伟霆 佛爷（热度：902226）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%B6%B3%E4%B8%BB%E5%B8%85%E5%9B%9E%E5%BA%940%E6%AF%947%E6%83%A8%E8%B4%A5%23" target="weibo">
-国足主帅回应0比7惨败（热度：900695）
 </a>
 </li>
 
