@@ -1,6 +1,6 @@
 {
   "startTime": 1727540758074,
-  "endTime": 1727696132780,
+  "endTime": 1727700254899,
   "band_list": [
     {
       "raw_hot": 2629801,
@@ -17,6 +17,14 @@
       "onboard_time": 1727588598,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2429172,
+      "num": 553285,
+      "word": "马龙带两个儿子亮相中国大满贯",
+      "onboard_time": 1727697499,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 1939826,
@@ -44,7 +52,7 @@
     },
     {
       "raw_hot": 1814225,
-      "num": 299803,
+      "num": 368261,
       "word": "俞灏明谈公布恋情",
       "onboard_time": 1727677760,
       "rank": 30,
@@ -108,7 +116,7 @@
     },
     {
       "raw_hot": 1402885,
-      "num": 225616,
+      "num": 376705,
       "word": "哀牢山",
       "onboard_time": 1727694079,
       "rank": 13,
@@ -204,7 +212,7 @@
     },
     {
       "raw_hot": 1051685,
-      "num": 276671,
+      "num": 276792,
       "word": "男子遭叉车碾压忍痛爬起将车熄火",
       "onboard_time": 1727689879,
       "rank": 11,
@@ -273,6 +281,14 @@
       "onboard_time": 1727669059,
       "rank": 10,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 953792,
+      "num": 1152606,
+      "word": "上海房东连夜跳价50万",
+      "onboard_time": 1727696778,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 934503,
@@ -489,6 +505,14 @@
       "onboard_time": 1727661380,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 698741,
+      "num": 698741,
+      "word": "马龙vs皮切福德",
+      "onboard_time": 1727696718,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 674417,
@@ -723,6 +747,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 550961,
+      "num": 550961,
+      "word": "央视国庆晚会",
+      "onboard_time": 1727696480,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 546388,
       "num": 405989,
       "word": "华伦天奴大秀",
@@ -745,6 +777,14 @@
       "onboard_time": 1727569098,
       "rank": 11,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 523849,
+      "num": 523849,
+      "word": "马龙3比0皮切福德",
+      "onboard_time": 1727699120,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 518868,
@@ -1155,6 +1195,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 391724,
+      "num": 363292,
+      "word": "美方再次向中国台湾地区提供武器",
+      "onboard_time": 1727693419,
+      "rank": 17,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 389926,
       "num": 389926,
       "word": "比亚迪召回近10万台电车",
@@ -1275,6 +1323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 360744,
+      "num": 360744,
+      "word": "中俄巴伊四国外长联合声明",
+      "onboard_time": 1727697919,
+      "rank": 13,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 357820,
       "num": 189981,
       "word": "市监局回应网友称住酒店遭临时涨价",
@@ -1289,6 +1345,14 @@
       "onboard_time": 1727581219,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 355266,
+      "num": 355266,
+      "word": "CP30抢票",
+      "onboard_time": 1727698940,
+      "rank": 14,
+      "category": "动漫"
     },
     {
       "raw_hot": 354662,
@@ -1377,6 +1441,14 @@
       "onboard_time": 1727539638,
       "rank": 12,
       "category": "体育,演出"
+    },
+    {
+      "raw_hot": 333841,
+      "num": 333841,
+      "word": "郑钦文vs波多罗斯卡",
+      "onboard_time": 1727691860,
+      "rank": 29,
+      "category": "教育"
     },
     {
       "raw_hot": 333706,
@@ -1547,14 +1619,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 305354,
-      "num": 210621,
-      "word": "美方再次向中国台湾地区提供武器",
-      "onboard_time": 1727693419,
-      "rank": 17,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 302800,
       "num": 302800,
       "word": "张晚意看秀生图",
@@ -1593,6 +1657,14 @@
       "onboard_time": 1727599580,
       "rank": 29,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 298032,
+      "num": 298032,
+      "word": "杨紫去巴黎带了中药药方",
+      "onboard_time": 1727696240,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 296123,
@@ -2835,6 +2907,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 182513,
+      "num": 182513,
+      "word": "王子奇 总共也没干几年",
+      "onboard_time": 1727695518,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 182422,
       "num": 363369,
       "word": "江慈身世",
@@ -2947,14 +3027,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 176068,
-      "num": 176068,
-      "word": "王子奇 总共也没干几年",
-      "onboard_time": 1727695518,
-      "rank": 27,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 175507,
       "num": 549450,
       "word": "国家勋章国家荣誉称号获得者名单",
@@ -2985,6 +3057,14 @@
       "onboard_time": 1727658678,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 173911,
+      "num": 173911,
+      "word": "马龙晋级32强",
+      "onboard_time": 1727699418,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 173483,
@@ -3075,6 +3155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 169427,
+      "num": 169427,
+      "word": "郑钦文晋级中网16强",
+      "onboard_time": 1727699780,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 168666,
       "num": 168666,
       "word": "半熟男女中的一些隐喻",
@@ -3113,6 +3201,14 @@
       "onboard_time": 1727621300,
       "rank": 35,
       "category": "教育"
+    },
+    {
+      "raw_hot": 167145,
+      "num": 167145,
+      "word": "檀健次成都路透",
+      "onboard_time": 1727699000,
+      "rank": 29,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 167051,
@@ -3275,6 +3371,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 160600,
+      "num": 160600,
+      "word": "射手座的喜欢与爱差别很大",
+      "onboard_time": 1727697619,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 160154,
+      "num": 160154,
+      "word": "WTT",
+      "onboard_time": 1727696240,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 160136,
       "num": 170757,
       "word": "王源演唱会",
@@ -3289,6 +3401,14 @@
       "onboard_time": 1727580199,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 159917,
+      "num": 159917,
+      "word": "cpp又崩了",
+      "onboard_time": 1727699841,
+      "rank": 33,
+      "category": "动漫"
     },
     {
       "raw_hot": 159521,
@@ -3329,6 +3449,14 @@
       "onboard_time": 1727578879,
       "rank": 29,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 158411,
+      "num": 253755,
+      "word": "专家称房地产牛市正逐渐开启",
+      "onboard_time": 1727693778,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 158237,
@@ -3579,6 +3707,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 146409,
+      "num": 169113,
+      "word": "再见怦然心动定档",
+      "onboard_time": 1727699900,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 146125,
       "num": 146125,
       "word": "梅西破门",
@@ -3609,14 +3745,6 @@
       "onboard_time": 1727662278,
       "rank": 14,
       "category": "财经"
-    },
-    {
-      "raw_hot": 144894,
-      "num": 248138,
-      "word": "郑钦文vs波多罗斯卡",
-      "onboard_time": 1727691860,
-      "rank": 29,
-      "category": "教育"
     },
     {
       "raw_hot": 144864,
@@ -4099,6 +4227,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 130165,
+      "num": 130165,
+      "word": "与祖国同行",
+      "onboard_time": 1727698280,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 130054,
       "num": 130054,
       "word": "周深 绘本二创",
@@ -4169,6 +4305,14 @@
       "onboard_time": 1727671100,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 128194,
+      "num": 128194,
+      "word": "我的名字是国庆",
+      "onboard_time": 1727693119,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 128016,
@@ -4403,6 +4547,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 122352,
+      "num": 168692,
+      "word": "抓娃娃",
+      "onboard_time": 1727696179,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 122142,
       "num": 122142,
       "word": "阿根廷贫困率飙升至近53%",
@@ -4513,6 +4665,14 @@
       "onboard_time": 1727575938,
       "rank": 49,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 119080,
+      "num": 119080,
+      "word": "华尔街资金买入中国的一切",
+      "onboard_time": 1727696179,
+      "rank": 42,
+      "category": "财经"
     },
     {
       "raw_hot": 118851,
@@ -4651,11 +4811,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 115366,
+      "num": 115366,
+      "word": "十一下班前记得上好厕所",
+      "onboard_time": 1727699241,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 115155,
       "num": 115155,
       "word": "成都大风",
       "onboard_time": 1727599519,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 115021,
+      "num": 115021,
+      "word": "小哥误撞奔驰车主免赔偿称结婚叫我",
+      "onboard_time": 1727700080,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -4803,12 +4979,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 108413,
+      "num": 108413,
+      "word": "李大霄称这是一场没人相信的牛市",
+      "onboard_time": 1727698760,
+      "rank": 46,
+      "category": "财经"
+    },
+    {
       "raw_hot": 107773,
       "num": 107773,
       "word": "河南取消住房限购",
       "onboard_time": 1727680880,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 107293,
+      "num": 168115,
+      "word": "二十一天",
+      "onboard_time": 1727698520,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 107008,
+      "num": 107008,
+      "word": "杨紫张晚意秀场自拍",
+      "onboard_time": 1727699599,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 106666,
@@ -4963,6 +5163,14 @@
       "category": "体育,演出"
     },
     {
+      "raw_hot": 100937,
+      "num": 100937,
+      "word": "8城新设市内免税店",
+      "onboard_time": 1727700202,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 100785,
       "num": 100785,
       "word": "沈阳街头大合唱我爱你中国",
@@ -5000,6 +5208,14 @@
       "word": "男子5年开车碰瓷近200次",
       "onboard_time": 1727643670,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 99831,
+      "num": 99831,
+      "word": "台湾首来大陆同胞1256个景区免票",
+      "onboard_time": 1727700202,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -5387,14 +5603,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 71469,
-      "num": 92555,
-      "word": "我的名字是国庆",
-      "onboard_time": 1727693119,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 71011,
       "num": 71011,
       "word": "我国新增工业机器人装机量占全球超50%",
@@ -5513,14 +5721,6 @@
       "onboard_time": 1727575159,
       "rank": 49,
       "category": "演出"
-    },
-    {
-      "raw_hot": 61857,
-      "num": 253755,
-      "word": "专家称房地产牛市正逐渐开启",
-      "onboard_time": 1727693778,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 61409,
@@ -5932,7 +6132,7 @@
     },
     {
       "raw_hot": 38301,
-      "num": 216808,
+      "num": 554951,
       "word": "重逢奋不顾身的青春",
       "onboard_time": 1727684840,
       "rank": 16,
@@ -6115,12 +6315,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 28464,
+      "raw_hot": 28820,
       "num": 195426,
       "word": "今晚一起看音乐会",
       "onboard_time": 1727695279,
       "rank": 25,
       "category": "演出"
+    },
+    {
+      "raw_hot": 28616,
+      "num": 379082,
+      "word": "专家提醒融资融券需注意风险",
+      "onboard_time": 1727698520,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 28146,
