@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1727738590013,
+  "endTime": 1727739421119,
   "band_list": [
     {
       "raw_hot": 1370014,
@@ -11,8 +11,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1138317,
-      "num": 1138317,
+      "raw_hot": 1312532,
+      "num": 1312532,
       "word": "国庆节",
       "onboard_time": 1727712799,
       "rank": 0,
@@ -35,7 +35,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 707897,
+      "raw_hot": 762775,
       "num": 245013,
       "word": "还是低估了国庆假期堵车的程度",
       "onboard_time": 1727704340,
@@ -59,6 +59,14 @@
       "category": "自然,网红"
     },
     {
+      "raw_hot": 603713,
+      "num": 603713,
+      "word": "国庆",
+      "onboard_time": 1727738837,
+      "rank": 3,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 576418,
       "num": 576418,
       "word": "小哥误撞奔驰车主免赔偿称结婚叫我",
@@ -76,7 +84,7 @@
     },
     {
       "raw_hot": 529740,
-      "num": 174905,
+      "num": 226687,
       "word": "东北雨姐称先行全额退款",
       "onboard_time": 1727715915,
       "rank": 15,
@@ -147,6 +155,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 254269,
+      "num": 254269,
+      "word": "以空军飞越1800公里空袭也门胡塞武装",
+      "onboard_time": 1727722573,
+      "rank": 9,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 245471,
       "num": 245471,
       "word": "北京楼市出台一揽子新政",
@@ -171,12 +187,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 240388,
-      "num": 240388,
-      "word": "以空军飞越1800公里空袭也门胡塞武装",
-      "onboard_time": 1727722573,
-      "rank": 9,
-      "category": "国外时政"
+      "raw_hot": 236811,
+      "num": 225875,
+      "word": "国庆天安门广场升国旗完整视频",
+      "onboard_time": 1727738235,
+      "rank": 17,
+      "category": "国内时政"
     },
     {
       "raw_hot": 235380,
@@ -187,6 +203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 231042,
+      "num": 231042,
+      "word": "同晒一缕阳光祝祖国生日快乐",
+      "onboard_time": 1727737335,
+      "rank": 7,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 230137,
       "num": 230137,
       "word": "A股疯涨普通人是否要入局",
@@ -195,12 +219,44 @@
       "category": "财经"
     },
     {
+      "raw_hot": 226656,
+      "num": 226656,
+      "word": "国庆节是中国人的浪漫",
+      "onboard_time": 1727738235,
+      "rank": 23,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 225375,
+      "num": 225375,
+      "word": "今天祖国的第一缕阳光",
+      "onboard_time": 1727738296,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 217940,
+      "num": 230060,
+      "word": "一群人走出一个人的声音",
+      "onboard_time": 1727738116,
+      "rank": 22,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 216640,
       "num": 194314,
       "word": "关晓彤帽子好像特效",
       "onboard_time": 1727712140,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 212552,
+      "num": 212552,
+      "word": "今天适合单曲循环",
+      "onboard_time": 1727738657,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 207070,
@@ -212,19 +268,11 @@
     },
     {
       "raw_hot": 203039,
-      "num": 165015,
+      "num": 197405,
       "word": "女子拎50万现金出庭归还债主",
       "onboard_time": 1727728751,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 184429,
-      "num": 184429,
-      "word": "同晒一缕阳光祝祖国生日快乐",
-      "onboard_time": 1727737335,
-      "rank": 7,
-      "category": "国内时政"
     },
     {
       "raw_hot": 183543,
@@ -233,6 +281,14 @@
       "onboard_time": 1727707701,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 181311,
+      "num": 181311,
+      "word": "国旗护卫队脚步声太震撼了",
+      "onboard_time": 1727737935,
+      "rank": 26,
+      "category": "国内时政"
     },
     {
       "raw_hot": 178121,
@@ -251,28 +307,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 163728,
-      "num": 163728,
-      "word": "国庆天安门广场升国旗完整视频",
-      "onboard_time": 1727738235,
-      "rank": 17,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 160392,
-      "num": 160392,
-      "word": "一群人走出一个人的声音",
-      "onboard_time": 1727738116,
-      "rank": 22,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 157923,
-      "num": 157923,
-      "word": "国庆节是中国人的浪漫",
-      "onboard_time": 1727738235,
-      "rank": 23,
-      "category": "国内时政"
+      "raw_hot": 159307,
+      "num": 159307,
+      "word": "3个部位的淋巴肿了要小心",
+      "onboard_time": 1727737396,
+      "rank": 28,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 156660,
@@ -299,28 +339,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 145544,
-      "num": 145544,
-      "word": "今天祖国的第一缕阳光",
-      "onboard_time": 1727738296,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 145530,
       "num": 145530,
       "word": "5岁幼童遭8岁男孩强行推入水池",
       "onboard_time": 1727702479,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 141793,
-      "num": 141793,
-      "word": "国旗护卫队脚步声太震撼了",
-      "onboard_time": 1727737935,
-      "rank": 26,
-      "category": "国内时政"
     },
     {
       "raw_hot": 135447,
@@ -331,6 +355,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 126661,
+      "num": 126661,
+      "word": "A股疯涨专家提醒笑不露齿",
+      "onboard_time": 1727734934,
+      "rank": 41,
+      "category": "财经"
+    },
+    {
       "raw_hot": 124504,
       "num": 124504,
       "word": "旅客行李箱塞满180万美元入境",
@@ -339,12 +371,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 117738,
-      "num": 117738,
-      "word": "A股疯涨专家提醒笑不露齿",
-      "onboard_time": 1727734934,
-      "rank": 41,
-      "category": "财经"
+      "raw_hot": 118255,
+      "num": 225935,
+      "word": "漠风吟 古偶新鲜血液",
+      "onboard_time": 1727737818,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 116715,
@@ -353,14 +385,6 @@
       "onboard_time": 1727706501,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 114493,
-      "num": 114493,
-      "word": "3个部位的淋巴肿了要小心",
-      "onboard_time": 1727737396,
-      "rank": 28,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 111427,
@@ -385,6 +409,14 @@
       "onboard_time": 1727688918,
       "rank": 33,
       "category": "网红"
+    },
+    {
+      "raw_hot": 108095,
+      "num": 108095,
+      "word": "这就是今天早晨的天安门广场",
+      "onboard_time": 1727738657,
+      "rank": 34,
+      "category": "国内时政"
     },
     {
       "raw_hot": 107695,
@@ -451,19 +483,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 82062,
+      "num": 82062,
+      "word": "大湾区国庆氛围拉满了",
+      "onboard_time": 1727737396,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 81773,
       "num": 81773,
       "word": "广州取消限购有中介称连夜开多单",
       "onboard_time": 1727732892,
       "rank": 21,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 78807,
-      "num": 78807,
-      "word": "大湾区国庆氛围拉满了",
-      "onboard_time": 1727737396,
-      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -473,6 +505,14 @@
       "onboard_time": 1727706801,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 76300,
+      "num": 76300,
+      "word": "石破茂要探讨日本引入美国核武",
+      "onboard_time": 1727726891,
+      "rank": 36,
+      "category": "国外时政"
     },
     {
       "raw_hot": 76141,
@@ -515,14 +555,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 72173,
-      "num": 72173,
-      "word": "石破茂要探讨日本引入美国核武",
-      "onboard_time": 1727726891,
-      "rank": 36,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 71023,
       "num": 103454,
       "word": "高鹏 有钱就变坏",
@@ -547,12 +579,28 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 69506,
+      "num": 102001,
+      "word": "华伦天奴 头巾",
+      "onboard_time": 1727705420,
+      "rank": 42,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 68597,
       "num": 114945,
       "word": "今年国庆档新片票房破2亿",
       "onboard_time": 1727702359,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 63935,
+      "num": 63935,
+      "word": "共祝愿祖国好",
+      "onboard_time": 1727738657,
+      "rank": 45,
+      "category": "国内时政"
     },
     {
       "raw_hot": 63493,
@@ -563,20 +611,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 61280,
-      "num": 163137,
-      "word": "漠风吟 古偶新鲜血液",
-      "onboard_time": 1727737818,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 59753,
-      "num": 102001,
-      "word": "华伦天奴 头巾",
-      "onboard_time": 1727705420,
-      "rank": 42,
-      "category": "时尚"
+      "raw_hot": 60936,
+      "num": 60936,
+      "word": "男子嫌小孩推车进电梯慢将车扔出",
+      "onboard_time": 1727739376,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 59133,
@@ -596,7 +636,7 @@
     },
     {
       "raw_hot": 55703,
-      "num": 101976,
+      "num": 232007,
       "word": "抓娃娃",
       "onboard_time": 1727696179,
       "rank": 49,
@@ -748,7 +788,7 @@
     },
     {
       "raw_hot": 11267,
-      "num": 462430,
+      "num": 729475,
       "word": "写给先辈们的一封信",
       "onboard_time": 1727702721,
       "rank": 2,
