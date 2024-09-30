@@ -1,10 +1,10 @@
 {
   "startTime": 1727627182055,
-  "endTime": 1727660684095,
+  "endTime": 1727661918885,
   "band_list": [
     {
-      "raw_hot": 1520926,
-      "num": 1520926,
+      "raw_hot": 1581576,
+      "num": 1581576,
       "word": "A股",
       "onboard_time": 1727659518,
       "rank": 0,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1207848,
-      "num": 344467,
+      "num": 418719,
       "word": "董宇辉 居里夫人",
       "onboard_time": 1727656042,
       "rank": 11,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 1153138,
-      "num": 337728,
+      "num": 344280,
       "word": "女子收到12306八百万退款短信",
       "onboard_time": 1727617880,
       "rank": 10,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 927506,
-      "num": 343209,
+      "num": 404429,
       "word": "黄晓明再现我不要你觉得",
       "onboard_time": 1727656042,
       "rank": 12,
@@ -49,6 +49,14 @@
       "onboard_time": 1727623940,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 635540,
+      "num": 635540,
+      "word": "股市",
+      "onboard_time": 1727660116,
+      "rank": 14,
+      "category": "财经"
     },
     {
       "raw_hot": 635358,
@@ -91,6 +99,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 412707,
+      "num": 412707,
+      "word": "李美珍生理期跑完马拉松",
+      "onboard_time": 1727658259,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 411900,
       "num": 411900,
       "word": "内塔尼亚胡称以色列已到历史转折点",
@@ -108,7 +124,7 @@
     },
     {
       "raw_hot": 399883,
-      "num": 399883,
+      "num": 490984,
       "word": "749局",
       "onboard_time": 1727656518,
       "rank": 4,
@@ -131,12 +147,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 332166,
-      "num": 332166,
-      "word": "股市",
-      "onboard_time": 1727660116,
-      "rank": 14,
-      "category": "财经"
+      "raw_hot": 368651,
+      "num": 298420,
+      "word": "男生玩抽皮条不慎将血管抽爆",
+      "onboard_time": 1727660959,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 340728,
+      "num": 340728,
+      "word": "烈士纪念日的天安门广场",
+      "onboard_time": 1727660900,
+      "rank": 16,
+      "category": "国内时政"
     },
     {
       "raw_hot": 331224,
@@ -169,6 +193,14 @@
       "onboard_time": 1727658799,
       "rank": 17,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 301407,
+      "num": 301407,
+      "word": "股票",
+      "onboard_time": 1727660361,
+      "rank": 25,
+      "category": "财经"
     },
     {
       "raw_hot": 298698,
@@ -211,12 +243,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 262842,
-      "num": 262842,
-      "word": "李美珍生理期跑完马拉松",
-      "onboard_time": 1727658259,
-      "rank": 18,
-      "category": "体育"
+      "raw_hot": 266406,
+      "num": 266406,
+      "word": "山河无恙致敬先烈",
+      "onboard_time": 1727658740,
+      "rank": 22,
+      "category": "国内时政"
     },
     {
       "raw_hot": 250805,
@@ -275,6 +307,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 239618,
+      "num": 239618,
+      "word": "丁真介绍自己出圈照",
+      "onboard_time": 1727657899,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 238758,
       "num": 238758,
       "word": "你23岁的时候在做什么",
@@ -299,20 +339,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 228748,
+      "num": 437404,
+      "word": "我国第十一个烈士纪念日",
+      "onboard_time": 1727655618,
+      "rank": 23,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 220384,
       "num": 220384,
       "word": "双胞胎还在妈妈子宫就把手术做了",
       "onboard_time": 1727597717,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 214640,
-      "num": 214640,
-      "word": "我国第十一个烈士纪念日",
-      "onboard_time": 1727655618,
-      "rank": 23,
-      "category": "国内时政"
     },
     {
       "raw_hot": 212229,
@@ -323,20 +363,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 206624,
-      "num": 206624,
-      "word": "股票",
+      "raw_hot": 197859,
+      "num": 197859,
+      "word": "一个有希望的民族不能没有英雄",
       "onboard_time": 1727660361,
-      "rank": 25,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 205956,
-      "num": 205956,
-      "word": "丁真介绍自己出圈照",
-      "onboard_time": 1727657899,
-      "rank": 26,
-      "category": "综艺"
+      "rank": 34,
+      "category": "国内时政"
     },
     {
       "raw_hot": 192844,
@@ -347,6 +379,22 @@
       "category": "财经"
     },
     {
+      "raw_hot": 189133,
+      "num": 189133,
+      "word": "铭记英烈在今天也在每一天",
+      "onboard_time": 1727655618,
+      "rank": 32,
+      "category": "国内时政,社会新闻"
+    },
+    {
+      "raw_hot": 188193,
+      "num": 188193,
+      "word": "恋与深空黎深",
+      "onboard_time": 1727660295,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 186715,
       "num": 186715,
       "word": "21岁男生工作20余天后跳桥身亡",
@@ -355,12 +403,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 186454,
-      "num": 186454,
-      "word": "恋与深空黎深",
-      "onboard_time": 1727660295,
-      "rank": 29,
-      "category": "游戏"
+      "raw_hot": 184697,
+      "num": 184697,
+      "word": "股民称A股爆火赚4.7万其中5万是本",
+      "onboard_time": 1727661559,
+      "rank": 34,
+      "category": "财经"
     },
     {
       "raw_hot": 182860,
@@ -379,14 +427,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 175073,
-      "num": 175073,
-      "word": "铭记英烈在今天也在每一天",
-      "onboard_time": 1727655618,
-      "rank": 32,
-      "category": "国内时政,社会新闻"
-    },
-    {
       "raw_hot": 174320,
       "num": 174320,
       "word": "最可爱的人被塞给了最可爱的人",
@@ -395,20 +435,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 165544,
-      "num": 165544,
-      "word": "一个有希望的民族不能没有英雄",
-      "onboard_time": 1727660361,
-      "rank": 34,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 163694,
       "num": 163694,
       "word": "上海进一步优化房地产市场政策",
       "onboard_time": 1727618480,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 162896,
+      "num": 162896,
+      "word": "张晚意林允儿合照",
+      "onboard_time": 1727658440,
+      "rank": 37,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 161325,
@@ -427,6 +467,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 156893,
+      "num": 156893,
+      "word": "潘玮柏 完蛋繁体跟简体不一样",
+      "onboard_time": 1727661499,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 153165,
       "num": 153165,
       "word": "他们长眠我们常念",
@@ -435,12 +483,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 152588,
-      "num": 152588,
-      "word": "张晚意林允儿合照",
-      "onboard_time": 1727658440,
-      "rank": 37,
-      "category": "作品衍生,时尚"
+      "raw_hot": 150669,
+      "num": 150669,
+      "word": "你离我很近",
+      "onboard_time": 1727655679,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 150003,
@@ -491,12 +539,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 134497,
-      "num": 134497,
-      "word": "你离我很近",
-      "onboard_time": 1727655679,
+      "raw_hot": 136214,
+      "num": 136214,
+      "word": "杨紫透露10月底进组家业",
+      "onboard_time": 1727661678,
       "rank": 42,
-      "category": "社会新闻"
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 126048,
+      "num": 126048,
+      "word": "部分用户反映券商银转证功能卡顿",
+      "onboard_time": 1727661858,
+      "rank": 47,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 125939,
@@ -555,6 +611,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 111064,
+      "num": 349982,
+      "word": "A股杀回3200点",
+      "onboard_time": 1727660479,
+      "rank": 9,
+      "category": "财经"
+    },
+    {
       "raw_hot": 110148,
       "num": 115273,
       "word": "上海住房增值税征免年限5年调整为2年",
@@ -580,7 +644,7 @@
     },
     {
       "raw_hot": 105672,
-      "num": 350994,
+      "num": 463509,
       "word": "烈士陵园的细节每个都令人泪目",
       "onboard_time": 1727655618,
       "rank": 7,
@@ -739,6 +803,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 68377,
+      "num": 346053,
+      "word": "持股过节",
+      "onboard_time": 1727661317,
+      "rank": 14,
+      "category": "财经"
+    },
+    {
       "raw_hot": 66833,
       "num": 66833,
       "word": "紫金山彗星与紫金山天文台同框",
@@ -787,6 +859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 48989,
+      "num": 481970,
+      "word": "烈士纪念日向人民英雄敬献花篮",
+      "onboard_time": 1727661739,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 47141,
       "num": 97535,
       "word": "音乐缘计划",
@@ -817,14 +897,6 @@
       "onboard_time": 1727640491,
       "rank": 45,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 38432,
-      "num": 349982,
-      "word": "A股杀回3200点",
-      "onboard_time": 1727660479,
-      "rank": 9,
-      "category": "财经"
     },
     {
       "raw_hot": 37455,
@@ -900,7 +972,7 @@
     },
     {
       "raw_hot": 7510,
-      "num": 714131,
+      "num": 875764,
       "word": "何以英雄他们给出了闪亮的答案",
       "onboard_time": 1727616198,
       "rank": 2,
@@ -908,7 +980,7 @@
     },
     {
       "raw_hot": 7166,
-      "num": 350032,
+      "num": 446598,
       "word": "奔赴山与海征途向未来",
       "onboard_time": 1727581338,
       "rank": 8,
