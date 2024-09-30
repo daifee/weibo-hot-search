@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1727717880111,
+  "endTime": 1727721000708,
   "band_list": [
     {
       "raw_hot": 1370014,
@@ -475,6 +475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 41999,
+      "num": 41999,
+      "word": "新中国成立75周年主题宣传片",
+      "onboard_time": 1727718254,
+      "rank": 31,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 41412,
       "num": 100757,
       "word": "俄总理抵达伊朗",
@@ -497,6 +505,22 @@
       "onboard_time": 1727717835,
       "rank": 48,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 33412,
+      "num": 103451,
+      "word": "江苏路段已出现大量车流",
+      "onboard_time": 1727719573,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 29916,
+      "num": 40460,
+      "word": "机票价格跳水可以买低退高吗",
+      "onboard_time": 1727719694,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 11267,
