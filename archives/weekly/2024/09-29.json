@@ -1,6 +1,6 @@
 {
   "startTime": 1727540758074,
-  "endTime": 1727710761330,
+  "endTime": 1727713697354,
   "band_list": [
     {
       "raw_hot": 2629801,
@@ -163,6 +163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1321277,
+      "num": 241785,
+      "word": "女子称一丝不挂被2次刷开酒店房门",
+      "onboard_time": 1727710519,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1316837,
       "num": 1304524,
       "word": "股民称A股爆火赚4.7万其中5万是本",
@@ -289,6 +297,14 @@
       "onboard_time": 1727603179,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1010561,
+      "num": 296328,
+      "word": "女子拔插头被电伤截肢",
+      "onboard_time": 1727709140,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1003394,
@@ -467,14 +483,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 795103,
-      "num": 296328,
-      "word": "女子拔插头被电伤截肢",
-      "onboard_time": 1727709140,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 766593,
       "num": 766593,
       "word": "张本智和说自己算上上签",
@@ -553,6 +561,14 @@
       "onboard_time": 1727679319,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 709980,
+      "num": 901253,
+      "word": "国庆节",
+      "onboard_time": 1727712799,
+      "rank": 0,
+      "category": "国内时政"
     },
     {
       "raw_hot": 706396,
@@ -785,6 +801,14 @@
       "onboard_time": 1727592019,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 575868,
+      "num": 272039,
+      "word": "黎巴嫩网红双胞胎母亲拍下逃难画面",
+      "onboard_time": 1727708900,
+      "rank": 24,
+      "category": "国外时政"
     },
     {
       "raw_hot": 559856,
@@ -1171,6 +1195,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 415837,
+      "num": 244689,
+      "word": "外籍男子将日本老人推倒致死",
+      "onboard_time": 1727709680,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 413817,
       "num": 157693,
       "word": "男子听信美容偏方1月不洗脸满脸结痂",
@@ -1241,14 +1273,6 @@
       "onboard_time": 1727565256,
       "rank": 17,
       "category": "体育,演出"
-    },
-    {
-      "raw_hot": 400177,
-      "num": 272039,
-      "word": "黎巴嫩网红双胞胎母亲拍下逃难画面",
-      "onboard_time": 1727708900,
-      "rank": 24,
-      "category": "国外时政"
     },
     {
       "raw_hot": 399883,
@@ -1987,6 +2011,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 271279,
+      "num": 332433,
+      "word": "700多位航天英烈长眠酒泉",
+      "onboard_time": 1727707461,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 268948,
       "num": 268948,
       "word": "杨超越把沈月当成赖美云",
@@ -2025,6 +2057,14 @@
       "onboard_time": 1727618660,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 263802,
+      "num": 244689,
+      "word": "何知南官配上线",
+      "onboard_time": 1727710700,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 263487,
@@ -2139,6 +2179,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 244618,
+      "num": 244618,
+      "word": "我的身份证上有你的名字",
+      "onboard_time": 1727711179,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 243990,
+      "num": 245269,
+      "word": "10月你好",
+      "onboard_time": 1727713220,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 241305,
       "num": 223334,
       "word": "今天下班后就不要联系我了",
@@ -2225,6 +2281,14 @@
       "onboard_time": 1727686519,
       "rank": 22,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 235380,
+      "num": 235380,
+      "word": "中国红永远是最爱的颜色",
+      "onboard_time": 1727710640,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 233989,
@@ -2563,14 +2627,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 206841,
-      "num": 332433,
-      "word": "700多位航天英烈长眠酒泉",
-      "onboard_time": 1727707461,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 206257,
       "num": 206257,
       "word": "Henry的小提琴拉的快冒烟了",
@@ -2633,14 +2689,6 @@
       "onboard_time": 1727684360,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 203416,
-      "num": 203416,
-      "word": "外籍男子将日本老人推倒致死",
-      "onboard_time": 1727709680,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 202697,
@@ -2969,6 +3017,14 @@
       "onboard_time": 1727622201,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 190972,
+      "num": 190972,
+      "word": "关晓彤帽子好像特效",
+      "onboard_time": 1727712140,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 190971,
@@ -4219,6 +4275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 139979,
+      "num": 139979,
+      "word": "校方回应男生遭同学多次用板凳砸头",
+      "onboard_time": 1727712440,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 139864,
       "num": 157587,
       "word": "苏州人从此不再羡慕湖南人",
@@ -4843,6 +4907,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 124504,
+      "num": 124504,
+      "word": "旅客行李箱塞满180万美元入境",
+      "onboard_time": 1727709501,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 124111,
       "num": 124111,
       "word": "A股房地产板块多股涨停",
@@ -4881,14 +4953,6 @@
       "onboard_time": 1727574557,
       "rank": 42,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 123676,
-      "num": 123676,
-      "word": "女子称一丝不挂被2次刷开酒店房门",
-      "onboard_time": 1727710519,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 122906,
@@ -5089,14 +5153,6 @@
       "onboard_time": 1727705781,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 118999,
-      "num": 118999,
-      "word": "旅客行李箱塞满180万美元入境",
-      "onboard_time": 1727709501,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 118851,
@@ -5451,6 +5507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 107695,
+      "num": 107695,
+      "word": "孙颖莎时尚COSMO电子刊封面",
+      "onboard_time": 1727711419,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 107293,
       "num": 168115,
       "word": "二十一天",
@@ -5513,6 +5577,14 @@
       "onboard_time": 1727687539,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 104097,
+      "num": 104097,
+      "word": "半熟男女 女性的真实困境",
+      "onboard_time": 1727707340,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 104059,
@@ -5697,14 +5769,6 @@
       "onboard_time": 1727688858,
       "rank": 46,
       "category": "财经"
-    },
-    {
-      "raw_hot": 97577,
-      "num": 97577,
-      "word": "中国红永远是最爱的颜色",
-      "onboard_time": 1727710640,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 96892,
@@ -5931,14 +5995,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 83813,
-      "num": 83813,
-      "word": "何知南官配上线",
-      "onboard_time": 1727710700,
-      "rank": 49,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 82404,
       "num": 157143,
       "word": "邓恩熙头纱出场",
@@ -5969,6 +6025,14 @@
       "onboard_time": 1727643731,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 78185,
+      "num": 103791,
+      "word": "祖国万岁",
+      "onboard_time": 1727713638,
+      "rank": 42,
+      "category": "国内时政"
     },
     {
       "raw_hot": 78043,
@@ -6003,6 +6067,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 76141,
+      "num": 103730,
+      "word": "郑钦文羡慕大家国庆放假",
+      "onboard_time": 1727710519,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 76041,
       "num": 382574,
       "word": "谁能继续领导黎真主党",
@@ -6017,6 +6089,14 @@
       "onboard_time": 1727704820,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 75590,
+      "num": 317269,
+      "word": "北京五环内购房社保年限5改3",
+      "onboard_time": 1727708959,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 75539,
@@ -6209,14 +6289,6 @@
       "onboard_time": 1727547312,
       "rank": 7,
       "category": "体育"
-    },
-    {
-      "raw_hot": 65953,
-      "num": 317269,
-      "word": "北京五环内购房社保年限5改3",
-      "onboard_time": 1727708959,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 65554,

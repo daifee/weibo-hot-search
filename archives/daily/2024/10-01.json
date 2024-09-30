@@ -1,0 +1,411 @@
+{
+  "startTime": 1727713697354,
+  "endTime": 1727713697354,
+  "band_list": [
+    {
+      "raw_hot": 1321277,
+      "num": 241785,
+      "word": "女子称一丝不挂被2次刷开酒店房门",
+      "onboard_time": 1727710519,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1010561,
+      "num": 245161,
+      "word": "女子拔插头被电伤截肢",
+      "onboard_time": 1727709140,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 709980,
+      "num": 901253,
+      "word": "国庆节",
+      "onboard_time": 1727712799,
+      "rank": 0,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 681784,
+      "num": 245076,
+      "word": "网红女骑士石膏发生车祸身亡",
+      "onboard_time": 1727705540,
+      "rank": 12,
+      "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 644066,
+      "num": 245013,
+      "word": "还是低估了国庆假期堵车的程度",
+      "onboard_time": 1727704340,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 606402,
+      "num": 244962,
+      "word": "哀牢山",
+      "onboard_time": 1727694079,
+      "rank": 14,
+      "category": "自然,网红"
+    },
+    {
+      "raw_hot": 576418,
+      "num": 576418,
+      "word": "小哥误撞奔驰车主免赔偿称结婚叫我",
+      "onboard_time": 1727700080,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 575868,
+      "num": 244854,
+      "word": "黎巴嫩网红双胞胎母亲拍下逃难画面",
+      "onboard_time": 1727708900,
+      "rank": 15,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 416302,
+      "num": 244823,
+      "word": "恒大地产和许家印等被处分",
+      "onboard_time": 1727709439,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 415837,
+      "num": 244689,
+      "word": "外籍男子将日本老人推倒致死",
+      "onboard_time": 1727709680,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 396946,
+      "num": 396946,
+      "word": "上海房东连夜跳价50万",
+      "onboard_time": 1727696778,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 296297,
+      "num": 296297,
+      "word": "马龙采访被儿子打断",
+      "onboard_time": 1727702780,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 271279,
+      "num": 271279,
+      "word": "700多位航天英烈长眠酒泉",
+      "onboard_time": 1727707461,
+      "rank": 5,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 263802,
+      "num": 244689,
+      "word": "何知南官配上线",
+      "onboard_time": 1727710700,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 245471,
+      "num": 245471,
+      "word": "北京楼市出台一揽子新政",
+      "onboard_time": 1727708121,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 244618,
+      "num": 244618,
+      "word": "我的身份证上有你的名字",
+      "onboard_time": 1727711179,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 244304,
+      "num": 245198,
+      "word": "北京下调个人住房贷款首付款比例",
+      "onboard_time": 1727707881,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 243990,
+      "num": 245269,
+      "word": "10月你好",
+      "onboard_time": 1727713220,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 235380,
+      "num": 235380,
+      "word": "中国红永远是最爱的颜色",
+      "onboard_time": 1727710640,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 230137,
+      "num": 230137,
+      "word": "A股疯涨普通人是否要入局",
+      "onboard_time": 1727683579,
+      "rank": 22,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 207070,
+      "num": 207070,
+      "word": "马龙一家四口同框",
+      "onboard_time": 1727706620,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 190972,
+      "num": 190972,
+      "word": "关晓彤帽子好像特效",
+      "onboard_time": 1727712140,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 183543,
+      "num": 245449,
+      "word": "七夜雪定档",
+      "onboard_time": 1727707701,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 178121,
+      "num": 178121,
+      "word": "中纪委驻中组部纪检监察组组长李刚被查",
+      "onboard_time": 1727700861,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 171170,
+      "num": 171170,
+      "word": "为了国庆不添堵结果堵在高速路",
+      "onboard_time": 1727704642,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 156620,
+      "num": 156620,
+      "word": "台湾首来大陆同胞1256个景区免票",
+      "onboard_time": 1727700202,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 153170,
+      "num": 245330,
+      "word": "749局2024国庆档预售票房冠军",
+      "onboard_time": 1727708481,
+      "rank": 8,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 145530,
+      "num": 145530,
+      "word": "5岁幼童遭8岁男孩强行推入水池",
+      "onboard_time": 1727702479,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 139979,
+      "num": 139979,
+      "word": "校方回应男生遭同学多次用板凳砸头",
+      "onboard_time": 1727712440,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 124504,
+      "num": 124504,
+      "word": "旅客行李箱塞满180万美元入境",
+      "onboard_time": 1727709501,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 116715,
+      "num": 116715,
+      "word": "迪丽热巴陈飞宇慕胥辞情侣装",
+      "onboard_time": 1727706501,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 110479,
+      "num": 110479,
+      "word": "A股还有三关要过",
+      "onboard_time": 1727708000,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 108996,
+      "num": 108996,
+      "word": "哀牢山 颜料师",
+      "onboard_time": 1727688918,
+      "rank": 33,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 107695,
+      "num": 107695,
+      "word": "孙颖莎时尚COSMO电子刊封面",
+      "onboard_time": 1727711419,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 105462,
+      "num": 105462,
+      "word": "庆祝中华人民共和国成立75周年招待会",
+      "onboard_time": 1727701580,
+      "rank": 35,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 104324,
+      "num": 104324,
+      "word": "哑舍动画定档",
+      "onboard_time": 1727705781,
+      "rank": 36,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 104097,
+      "num": 104097,
+      "word": "半熟男女 女性的真实困境",
+      "onboard_time": 1727707340,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 90979,
+      "num": 104076,
+      "word": "俞灏明谈公布恋情",
+      "onboard_time": 1727677760,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 89411,
+      "num": 104028,
+      "word": "华伦天奴 设计",
+      "onboard_time": 1727705481,
+      "rank": 39,
+      "category": "时尚"
+    },
+    {
+      "raw_hot": 83941,
+      "num": 103952,
+      "word": "成都混团世界杯名单",
+      "onboard_time": 1727706021,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 78269,
+      "num": 103885,
+      "word": "中国选手首进中网男单四强",
+      "onboard_time": 1727706801,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 78185,
+      "num": 103791,
+      "word": "祖国万岁",
+      "onboard_time": 1727713638,
+      "rank": 42,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 76141,
+      "num": 103730,
+      "word": "郑钦文羡慕大家国庆放假",
+      "onboard_time": 1727710519,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 75802,
+      "num": 103718,
+      "word": "肖战 月亮代表我的心",
+      "onboard_time": 1727706562,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 75590,
+      "num": 103639,
+      "word": "北京五环内购房社保年限5改3",
+      "onboard_time": 1727708959,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 73745,
+      "num": 103583,
+      "word": "马龙3比0皮切福德",
+      "onboard_time": 1727699120,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 73480,
+      "num": 103526,
+      "word": "杨紫直播句句有回应",
+      "onboard_time": 1727703800,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 71023,
+      "num": 103454,
+      "word": "高鹏 有钱就变坏",
+      "onboard_time": 1727702479,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 58028,
+      "num": 103350,
+      "word": "志愿军存亡之战",
+      "onboard_time": 1727691138,
+      "rank": 49,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 41238,
+      "num": 423012,
+      "word": "亲亲的长街新新的模样",
+      "onboard_time": 1727702842,
+      "rank": 2,
+      "category": "社会新闻"
+    }
+  ],
+  "hotgov_list": [
+    {
+      "word": "#清澈的爱只为中国#"
+    }
+  ]
+}
