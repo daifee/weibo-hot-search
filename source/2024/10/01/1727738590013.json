@@ -1,0 +1,410 @@
+{
+  "runTime": 1727738590013,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1138317,
+        "num": 1138317,
+        "word": "国庆节",
+        "onboard_time": 1727712799,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1014184,
+        "num": 1014184,
+        "word": "我的身份证上有你的名字",
+        "onboard_time": 1727711179,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 4243,
+        "num": 462430,
+        "word": "写给先辈们的一封信",
+        "onboard_time": 1727702721,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 333932,
+        "num": 333932,
+        "word": "小哥误撞奔驰车主免赔偿称结婚叫我",
+        "onboard_time": 1727700080,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258913,
+        "num": 258913,
+        "word": "江苏路段已出现大量车流",
+        "onboard_time": 1727719573,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258226,
+        "num": 258226,
+        "word": "祖国万岁",
+        "onboard_time": 1727713638,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 240388,
+        "num": 240388,
+        "word": "以空军飞越1800公里空袭也门胡塞武装",
+        "onboard_time": 1727722573,
+        "rank": 6,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 184429,
+        "num": 184429,
+        "word": "同晒一缕阳光祝祖国生日快乐",
+        "onboard_time": 1727737335,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 183212,
+        "num": 183212,
+        "word": "10月你好",
+        "onboard_time": 1727713220,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 57414,
+        "num": 181475,
+        "word": "七夜雪定档",
+        "onboard_time": 1727707701,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 707897,
+        "num": 180156,
+        "word": "还是低估了国庆假期堵车的程度",
+        "onboard_time": 1727704340,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 614252,
+        "num": 176489,
+        "word": "女子拔插头被电伤截肢",
+        "onboard_time": 1727709140,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 529740,
+        "num": 174905,
+        "word": "东北雨姐称先行全额退款",
+        "onboard_time": 1727715915,
+        "rank": 12,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 455674,
+        "num": 172916,
+        "word": "网红女骑士石膏发生车祸身亡",
+        "onboard_time": 1727705540,
+        "rank": 13,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 295059,
+        "num": 168957,
+        "word": "黎巴嫩网红双胞胎母亲拍下逃难画面",
+        "onboard_time": 1727708900,
+        "rank": 14,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 213845,
+        "num": 167865,
+        "word": "哀牢山",
+        "onboard_time": 1727694079,
+        "rank": 15,
+        "category": "自然,网红"
+      },
+      {
+        "raw_hot": 203039,
+        "num": 165015,
+        "word": "女子拎50万现金出庭归还债主",
+        "onboard_time": 1727728751,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163728,
+        "num": 163728,
+        "word": "国庆天安门广场升国旗完整视频",
+        "onboard_time": 1727738235,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 61280,
+        "num": 163137,
+        "word": "漠风吟 古偶新鲜血液",
+        "onboard_time": 1727737818,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 38081,
+        "num": 162753,
+        "word": "何知南官配上线",
+        "onboard_time": 1727710700,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 908875,
+        "num": 161538,
+        "word": "女子称一丝不挂被2次刷开酒店房门",
+        "onboard_time": 1727710519,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198361,
+        "num": 160442,
+        "word": "外籍男子将日本老人推倒致死",
+        "onboard_time": 1727709680,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160392,
+        "num": 160392,
+        "word": "一群人走出一个人的声音",
+        "onboard_time": 1727738116,
+        "rank": 22,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 157923,
+        "num": 157923,
+        "word": "国庆节是中国人的浪漫",
+        "onboard_time": 1727738235,
+        "rank": 23,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 152689,
+        "num": 152689,
+        "word": "上海房东连夜跳价50万",
+        "onboard_time": 1727696778,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145544,
+        "num": 145544,
+        "word": "今天祖国的第一缕阳光",
+        "onboard_time": 1727738296,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141793,
+        "num": 141793,
+        "word": "国旗护卫队脚步声太震撼了",
+        "onboard_time": 1727737935,
+        "rank": 26,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 117738,
+        "num": 117738,
+        "word": "A股疯涨专家提醒笑不露齿",
+        "onboard_time": 1727734934,
+        "rank": 27,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 114493,
+        "num": 114493,
+        "word": "3个部位的淋巴肿了要小心",
+        "onboard_time": 1727737396,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 106839,
+        "num": 106839,
+        "word": "台湾首来大陆同胞1256个景区免票",
+        "onboard_time": 1727700202,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103694,
+        "num": 103694,
+        "word": "校方回应男生遭同学多次用板凳砸头",
+        "onboard_time": 1727712440,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102180,
+        "num": 102180,
+        "word": "为了国庆不添堵结果堵在高速路",
+        "onboard_time": 1727704642,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100120,
+        "num": 100120,
+        "word": "马龙一家四口同框",
+        "onboard_time": 1727706620,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 99052,
+        "num": 99052,
+        "word": "5岁幼童遭8岁男孩强行推入水池",
+        "onboard_time": 1727702479,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22545,
+        "num": 98269,
+        "word": "抓娃娃",
+        "onboard_time": 1727696179,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 98255,
+        "num": 98255,
+        "word": "旅客行李箱塞满180万美元入境",
+        "onboard_time": 1727709501,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 81318,
+        "num": 81318,
+        "word": "广州取消限购有中介称连夜开多单",
+        "onboard_time": 1727732892,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 78807,
+        "num": 78807,
+        "word": "大湾区国庆氛围拉满了",
+        "onboard_time": 1727737396,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 78343,
+        "num": 78343,
+        "word": "中纪委驻中组部纪检监察组组长李刚被查",
+        "onboard_time": 1727700861,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 76083,
+        "num": 76083,
+        "word": "准备还款时发现房屋易主被抵押",
+        "onboard_time": 1727731691,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 72173,
+        "num": 72173,
+        "word": "石破茂要探讨日本引入美国核武",
+        "onboard_time": 1727726891,
+        "rank": 40,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 70014,
+        "num": 70014,
+        "word": "南京的国庆氛围感拉满",
+        "onboard_time": 1727734514,
+        "rank": 41,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 66355,
+        "num": 66355,
+        "word": "恒大地产和许家印等被处分",
+        "onboard_time": 1727709439,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 63184,
+        "num": 63184,
+        "word": "中俄巴伊四国外长联合声明",
+        "onboard_time": 1727697919,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 61689,
+        "num": 61689,
+        "word": "A股疯涨普通人是否要入局",
+        "onboard_time": 1727683579,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 60461,
+        "num": 60461,
+        "word": "北京楼市出台一揽子新政",
+        "onboard_time": 1727708121,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 59753,
+        "num": 59753,
+        "word": "华伦天奴 头巾",
+        "onboard_time": 1727705420,
+        "rank": 46,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 57383,
+        "num": 57383,
+        "word": "肖战 月亮代表我的心",
+        "onboard_time": 1727706562,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 57062,
+        "num": 57062,
+        "word": "马龙采访被儿子打断",
+        "onboard_time": 1727702780,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 56502,
+        "num": 56502,
+        "word": "700多位航天英烈长眠酒泉",
+        "onboard_time": 1727707461,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#铭记英烈丰功伟绩同心谱写时代新篇#"
+    }
+  }
+}
