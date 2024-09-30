@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1727724933883,
+  "endTime": 1727727855026,
   "band_list": [
     {
       "raw_hot": 1370014,
@@ -371,6 +371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 79163,
+      "num": 79163,
+      "word": "以空军飞越1800公里空袭也门胡塞武装",
+      "onboard_time": 1727722573,
+      "rank": 9,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 78269,
       "num": 103885,
       "word": "中国选手首进中网男单四强",
@@ -409,14 +417,6 @@
       "onboard_time": 1727703800,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 72152,
-      "num": 72152,
-      "word": "以空军飞越1800公里空袭也门胡塞武装",
-      "onboard_time": 1727722573,
-      "rank": 9,
-      "category": "国外时政"
     },
     {
       "raw_hot": 71023,
@@ -523,6 +523,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 36806,
+      "num": 66565,
+      "word": "坐北京地铁回家",
+      "onboard_time": 1727724552,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 34235,
       "num": 99915,
       "word": "机票价格跳水可以买低退高吗",
@@ -531,12 +539,44 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 25012,
-      "num": 26535,
+      "raw_hot": 30293,
+      "num": 30293,
       "word": "黎巴嫩网红双胞胎住所附近遭轰炸",
       "onboard_time": 1727724072,
       "rank": 43,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 28499,
+      "num": 28499,
+      "word": "石破茂要探讨日本引入美国核武",
+      "onboard_time": 1727726891,
+      "rank": 36,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 26458,
+      "num": 26458,
+      "word": "房产中介称市场有反弹但没有很夸张",
+      "onboard_time": 1727724432,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 24443,
+      "num": 24443,
+      "word": "石破茂鼓吹亚洲版北约",
+      "onboard_time": 1727727251,
+      "rank": 44,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 24375,
+      "num": 53333,
+      "word": "火车上旅客最熟悉的陌生人",
+      "onboard_time": 1727726413,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 23150,
@@ -547,11 +587,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 15777,
-      "num": 66565,
-      "word": "坐北京地铁回家",
-      "onboard_time": 1727724552,
-      "rank": 9,
+      "raw_hot": 16465,
+      "num": 26198,
+      "word": "警号004391重启",
+      "onboard_time": 1727727372,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
