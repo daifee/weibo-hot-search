@@ -1,0 +1,410 @@
+{
+  "runTime": 1727673733120,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1740806,
+        "num": 1740806,
+        "word": "A股疯牛",
+        "onboard_time": 1727662938,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 579325,
+        "num": 579325,
+        "word": "90后00后投资者入市了",
+        "onboard_time": 1727661380,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22190,
+        "num": 449705,
+        "word": "山河无恙致敬先烈",
+        "onboard_time": 1727658740,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1390700,
+        "num": 449295,
+        "word": "路上已长满了放假聪明人",
+        "onboard_time": 1727668339,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 440735,
+        "num": 440735,
+        "word": "A股大涨股民自费机票升舱",
+        "onboard_time": 1727670620,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 353267,
+        "num": 439686,
+        "word": "撒贝宁北大保送含金量还在上升",
+        "onboard_time": 1727658259,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 572582,
+        "num": 434733,
+        "word": "还没下班朋友圈就已经堵了",
+        "onboard_time": 1727668218,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 120697,
+        "num": 431453,
+        "word": "电影749局终极预告",
+        "onboard_time": 1727672538,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 32417,
+        "num": 430088,
+        "word": "75年奇迹如歌",
+        "onboard_time": 1727669240,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 29579,
+        "num": 425002,
+        "word": "上海100万房贷30年可少还16.41万",
+        "onboard_time": 1727672660,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1511859,
+        "num": 421677,
+        "word": "董宇辉直播翻车",
+        "onboard_time": 1727670678,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 934503,
+        "num": 418250,
+        "word": "董宇辉称居里夫人获得诺贝尔文学奖",
+        "onboard_time": 1727670499,
+        "rank": 11,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 559244,
+        "num": 416224,
+        "word": "有网文作者股市已赚300万直接断更",
+        "onboard_time": 1727671100,
+        "rank": 12,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 413650,
+        "num": 413650,
+        "word": "雅 43岁正是告状的年纪",
+        "onboard_time": 1727671040,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 37280,
+        "num": 388895,
+        "word": "偶尔吃一顿大餐血管会经历什么",
+        "onboard_time": 1727672840,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 388598,
+        "num": 388598,
+        "word": "景区不让带宠物进入主人直接遗弃",
+        "onboard_time": 1727670558,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118369,
+        "num": 352881,
+        "word": "电影749局",
+        "onboard_time": 1727672779,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 352745,
+        "num": 352745,
+        "word": "35分钟A股成交额突破1万亿",
+        "onboard_time": 1727663839,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145123,
+        "num": 347300,
+        "word": "王曼昱vs石洵瑶",
+        "onboard_time": 1727673019,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 28747,
+        "num": 346638,
+        "word": "男子安检机上偷走手提包被刑拘",
+        "onboard_time": 1727672899,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 346627,
+        "num": 346627,
+        "word": "CP30开票",
+        "onboard_time": 1727669059,
+        "rank": 20,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 310038,
+        "num": 310038,
+        "word": "A股",
+        "onboard_time": 1727659518,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 290394,
+        "num": 290394,
+        "word": "男孩掉5元被老人抢先捡走伤心好久",
+        "onboard_time": 1727668100,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 287961,
+        "num": 287961,
+        "word": "董宇辉 居里夫人",
+        "onboard_time": 1727656042,
+        "rank": 23,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 277805,
+        "num": 277805,
+        "word": "缅北诈骗分子在武装势力庇护下建窝点",
+        "onboard_time": 1727668639,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 268430,
+        "num": 268430,
+        "word": "外媒称真主党高层几乎被团灭",
+        "onboard_time": 1727656461,
+        "rank": 25,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 268131,
+        "num": 268131,
+        "word": "杨紫回应秀场wink",
+        "onboard_time": 1727665219,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 250229,
+        "num": 250229,
+        "word": "孙亚龙给前妻道歉",
+        "onboard_time": 1727668039,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 230105,
+        "num": 230105,
+        "word": "董宇辉纠正科普错误",
+        "onboard_time": 1727672779,
+        "rank": 28,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 196785,
+        "num": 196785,
+        "word": "黑暗荣耀文东恩妈妈饰演者去世",
+        "onboard_time": 1727667621,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193868,
+        "num": 193868,
+        "word": "迪丽热巴蝴蝶结马尾辫",
+        "onboard_time": 1727672480,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 186704,
+        "num": 186704,
+        "word": "基金",
+        "onboard_time": 1727664859,
+        "rank": 31,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 173035,
+        "num": 173035,
+        "word": "陈奕迅 亲一万个人要亲很久",
+        "onboard_time": 1727671461,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 172488,
+        "num": 172488,
+        "word": "张本美和说孙颖莎是最厉害的",
+        "onboard_time": 1727664799,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 164647,
+        "num": 164647,
+        "word": "当地回应斯坦福博士已入职镇政府",
+        "onboard_time": 1727668999,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181920,
+        "num": 163845,
+        "word": "迪丽热巴条纹毛衣搭花苞裙",
+        "onboard_time": 1727664380,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 161804,
+        "num": 161804,
+        "word": "心动的信号7",
+        "onboard_time": 1727666059,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159801,
+        "num": 159801,
+        "word": "有股民称已赚20个点果断满仓",
+        "onboard_time": 1727672840,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 154507,
+        "num": 154507,
+        "word": "一代人有一代人的不动产",
+        "onboard_time": 1727671340,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 152086,
+        "num": 152086,
+        "word": "梁靖崑3比0徐海东",
+        "onboard_time": 1727672419,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 149512,
+        "num": 149512,
+        "word": "网红二驴回归",
+        "onboard_time": 1727670738,
+        "rank": 40,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 148335,
+        "num": 148335,
+        "word": "心动的信号7第二次约会",
+        "onboard_time": 1727671999,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144864,
+        "num": 144864,
+        "word": "苗苗 为749而战",
+        "onboard_time": 1727671939,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 139443,
+        "num": 139443,
+        "word": "刘端端首次爆灯挑战成功",
+        "onboard_time": 1727670079,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139361,
+        "num": 139361,
+        "word": "我国第十一个烈士纪念日",
+        "onboard_time": 1727655618,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 132526,
+        "num": 132526,
+        "word": "烈士纪念日的天安门广场",
+        "onboard_time": 1727660900,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 124943,
+        "num": 124943,
+        "word": "这些题中国都答上来了",
+        "onboard_time": 1727673619,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123558,
+        "num": 123558,
+        "word": "华尔街资金涌入中国资产",
+        "onboard_time": 1727673619,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 121453,
+        "num": 121453,
+        "word": "券商工作人员大呼忙疯了",
+        "onboard_time": 1727671939,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 100085,
+        "num": 120293,
+        "word": "电视剧足迹杀青",
+        "onboard_time": 1727667438,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#烈士纪念日向人民英雄敬献花篮#"
+    }
+  }
+}
