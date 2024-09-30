@@ -1,6 +1,6 @@
 {
   "startTime": 1727540758074,
-  "endTime": 1727695144334,
+  "endTime": 1727696132780,
   "band_list": [
     {
       "raw_hot": 2629801,
@@ -105,6 +105,14 @@
       "onboard_time": 1727574137,
       "rank": 19,
       "category": "财经"
+    },
+    {
+      "raw_hot": 1402885,
+      "num": 225616,
+      "word": "哀牢山",
+      "onboard_time": 1727694079,
+      "rank": 13,
+      "category": "自然,网红"
     },
     {
       "raw_hot": 1399492,
@@ -1139,14 +1147,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 393024,
-      "num": 222609,
-      "word": "哀牢山",
-      "onboard_time": 1727694079,
-      "rank": 13,
-      "category": "自然,网红"
-    },
-    {
       "raw_hot": 391729,
       "num": 391729,
       "word": "外交部回应美方军援台湾地区",
@@ -1203,6 +1203,22 @@
       "category": "网红"
     },
     {
+      "raw_hot": 377321,
+      "num": 314591,
+      "word": "迪丽热巴登人民日报宣传片",
+      "onboard_time": 1727692339,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 376495,
+      "num": 216879,
+      "word": "烤鱼店黄牛取号炒至200元被质疑",
+      "onboard_time": 1727690597,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 375743,
       "num": 286387,
       "word": "女子骑马被教练偷拍发群里开黄腔",
@@ -1225,14 +1241,6 @@
       "onboard_time": 1727571798,
       "rank": 15,
       "category": "体育"
-    },
-    {
-      "raw_hot": 372660,
-      "num": 314591,
-      "word": "迪丽热巴登人民日报宣传片",
-      "onboard_time": 1727692339,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 371706,
@@ -1387,14 +1395,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 331092,
-      "num": 197378,
-      "word": "烤鱼店黄牛取号炒至200元被质疑",
-      "onboard_time": 1727690597,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 328852,
       "num": 385661,
       "word": "张本智和3比1黄镇廷",
@@ -1547,8 +1547,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 305208,
-      "num": 190026,
+      "raw_hot": 305354,
+      "num": 210621,
       "word": "美方再次向中国台湾地区提供武器",
       "onboard_time": 1727693419,
       "rank": 17,
@@ -1649,6 +1649,14 @@
       "onboard_time": 1727580440,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 287410,
+      "num": 209402,
+      "word": "孙亚龙报警",
+      "onboard_time": 1727694380,
+      "rank": 18,
+      "category": "电竞"
     },
     {
       "raw_hot": 285650,
@@ -2563,6 +2571,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 193306,
+      "num": 193306,
+      "word": "A股猛涨投资者纷纷朋友圈晒盈利",
+      "onboard_time": 1727692459,
+      "rank": 28,
+      "category": "财经"
+    },
+    {
       "raw_hot": 193029,
       "num": 193029,
       "word": "林园称A股涨到4500点才是牛市起点",
@@ -2689,14 +2705,6 @@
       "onboard_time": 1727655618,
       "rank": 32,
       "category": "国内时政,社会新闻"
-    },
-    {
-      "raw_hot": 188755,
-      "num": 188755,
-      "word": "孙亚龙报警",
-      "onboard_time": 1727694380,
-      "rank": 18,
-      "category": "电竞"
     },
     {
       "raw_hot": 188193,
@@ -2937,6 +2945,14 @@
       "onboard_time": 1727655679,
       "rank": 31,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 176068,
+      "num": 176068,
+      "word": "王子奇 总共也没干几年",
+      "onboard_time": 1727695518,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 175507,
@@ -3403,6 +3419,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 153628,
+      "num": 153628,
+      "word": "TF家族危险的关系预告片",
+      "onboard_time": 1727694738,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 153458,
       "num": 153458,
       "word": "杨靖宇生前唯一的照片",
@@ -3547,14 +3571,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 147274,
-      "num": 147274,
-      "word": "A股猛涨投资者纷纷朋友圈晒盈利",
-      "onboard_time": 1727692459,
-      "rank": 28,
-      "category": "财经"
-    },
-    {
       "raw_hot": 147064,
       "num": 147064,
       "word": "网文连获8届中国科幻最高奖",
@@ -3593,6 +3609,14 @@
       "onboard_time": 1727662278,
       "rank": 14,
       "category": "财经"
+    },
+    {
+      "raw_hot": 144894,
+      "num": 248138,
+      "word": "郑钦文vs波多罗斯卡",
+      "onboard_time": 1727691860,
+      "rank": 29,
+      "category": "教育"
     },
     {
       "raw_hot": 144864,
@@ -3913,6 +3937,14 @@
       "onboard_time": 1727584699,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 135088,
+      "num": 135088,
+      "word": "KPL年总超访发布汇",
+      "onboard_time": 1727695879,
+      "rank": 32,
+      "category": "电竞"
     },
     {
       "raw_hot": 135038,
@@ -4779,6 +4811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 106666,
+      "num": 214393,
+      "word": "张若昀国庆晚会1人分饰4角",
+      "onboard_time": 1727695641,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 105701,
       "num": 157615,
       "word": "登陆少年 清华",
@@ -4907,14 +4947,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 101137,
-      "num": 101137,
-      "word": "TF家族危险的关系预告片",
-      "onboard_time": 1727694738,
-      "rank": 38,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 101074,
       "num": 101074,
       "word": "沪深两市成交额超2.59万亿元",
@@ -4977,14 +5009,6 @@
       "onboard_time": 1727694919,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 98620,
-      "num": 248138,
-      "word": "郑钦文vs波多罗斯卡",
-      "onboard_time": 1727691860,
-      "rank": 29,
-      "category": "教育"
     },
     {
       "raw_hot": 98370,
@@ -5457,6 +5481,14 @@
       "onboard_time": 1727647633,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 66388,
+      "num": 212866,
+      "word": "惠英红 不想因受伤导致剧组停工",
+      "onboard_time": 1727695158,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 66370,
@@ -6083,6 +6115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 28464,
+      "num": 195426,
+      "word": "今晚一起看音乐会",
+      "onboard_time": 1727695279,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
       "raw_hot": 28146,
       "num": 173770,
       "word": "重塑麦昆工艺美学",
@@ -6196,7 +6236,7 @@
     },
     {
       "raw_hot": 22827,
-      "num": 216020,
+      "num": 220057,
       "word": "河南最低首付比例为15%",
       "onboard_time": 1727694320,
       "rank": 14,

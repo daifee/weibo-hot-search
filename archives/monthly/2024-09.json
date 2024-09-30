@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1727695144334,
+  "endTime": 1727696132780,
   "band_list": [
     {
       "raw_hot": 28035334,
@@ -3737,6 +3737,14 @@
       "onboard_time": 1727169199,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1402885,
+      "num": 225616,
+      "word": "哀牢山",
+      "onboard_time": 1727694079,
+      "rank": 13,
+      "category": "自然,网红"
     },
     {
       "raw_hot": 1401846,
@@ -21643,14 +21651,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 393024,
-      "num": 222609,
-      "word": "哀牢山",
-      "onboard_time": 1727694079,
-      "rank": 13,
-      "category": "自然,网红"
-    },
-    {
       "raw_hot": 392662,
       "num": 445673,
       "word": "白鹿开启新副本",
@@ -22355,6 +22355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 377321,
+      "num": 314591,
+      "word": "迪丽热巴登人民日报宣传片",
+      "onboard_time": 1727692339,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 377267,
       "num": 377267,
       "word": "孙海洋支持孙卓在大学谈恋爱",
@@ -22377,6 +22385,14 @@
       "onboard_time": 1726721669,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 376495,
+      "num": 216879,
+      "word": "烤鱼店黄牛取号炒至200元被质疑",
+      "onboard_time": 1727690597,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 376446,
@@ -22553,14 +22569,6 @@
       "onboard_time": 1725281782,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 372660,
-      "num": 314591,
-      "word": "迪丽热巴登人民日报宣传片",
-      "onboard_time": 1727692339,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 372390,
@@ -25035,14 +25043,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 331092,
-      "num": 197378,
-      "word": "烤鱼店黄牛取号炒至200元被质疑",
-      "onboard_time": 1727690597,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 331065,
       "num": 331065,
       "word": "天秤座生日快乐",
@@ -26843,6 +26843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 305354,
+      "num": 210621,
+      "word": "美方再次向中国台湾地区提供武器",
+      "onboard_time": 1727693419,
+      "rank": 17,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 305349,
       "num": 305349,
       "word": "刘亦菲去了张靓颖演唱会",
@@ -26857,14 +26865,6 @@
       "onboard_time": 1726318822,
       "rank": 45,
       "category": "电影"
-    },
-    {
-      "raw_hot": 305208,
-      "num": 190026,
-      "word": "美方再次向中国台湾地区提供武器",
-      "onboard_time": 1727693419,
-      "rank": 17,
-      "category": "国内时政"
     },
     {
       "raw_hot": 305133,
@@ -28249,6 +28249,14 @@
       "onboard_time": 1727274982,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 287410,
+      "num": 209402,
+      "word": "孙亚龙报警",
+      "onboard_time": 1727694380,
+      "rank": 18,
+      "category": "电竞"
     },
     {
       "raw_hot": 287398,
@@ -43883,6 +43891,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 193306,
+      "num": 193306,
+      "word": "A股猛涨投资者纷纷朋友圈晒盈利",
+      "onboard_time": 1727692459,
+      "rank": 28,
+      "category": "财经"
+    },
+    {
       "raw_hot": 193291,
       "num": 193291,
       "word": "中级财管计算量",
@@ -45433,14 +45449,6 @@
       "onboard_time": 1727083041,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 188755,
-      "num": 188755,
-      "word": "孙亚龙报警",
-      "onboard_time": 1727694380,
-      "rank": 18,
-      "category": "电竞"
     },
     {
       "raw_hot": 188727,
@@ -49529,6 +49537,14 @@
       "onboard_time": 1725793038,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 176068,
+      "num": 176068,
+      "word": "王子奇 总共也没干几年",
+      "onboard_time": 1727695518,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 176055,
@@ -57227,6 +57243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 153628,
+      "num": 153628,
+      "word": "TF家族危险的关系预告片",
+      "onboard_time": 1727694738,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 153621,
       "num": 153621,
       "word": "好久没见过这么完整的古偶婚礼了",
@@ -59499,14 +59523,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 147274,
-      "num": 147274,
-      "word": "A股猛涨投资者纷纷朋友圈晒盈利",
-      "onboard_time": 1727692459,
-      "rank": 28,
-      "category": "财经"
-    },
-    {
       "raw_hot": 147214,
       "num": 155872,
       "word": "Kid 躁郁症",
@@ -60313,6 +60329,14 @@
       "onboard_time": 1725806421,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 144894,
+      "num": 248138,
+      "word": "郑钦文vs波多罗斯卡",
+      "onboard_time": 1727691860,
+      "rank": 29,
+      "category": "教育"
     },
     {
       "raw_hot": 144893,
@@ -63561,6 +63585,14 @@
       "onboard_time": 1727584699,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 135088,
+      "num": 135088,
+      "word": "KPL年总超访发布汇",
+      "onboard_time": 1727695879,
+      "rank": 32,
+      "category": "电竞"
     },
     {
       "raw_hot": 135053,
@@ -71531,6 +71563,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 106666,
+      "num": 214393,
+      "word": "张若昀国庆晚会1人分饰4角",
+      "onboard_time": 1727695641,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 106551,
       "num": 106551,
       "word": "谢瑜vlog",
@@ -72459,14 +72499,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 101137,
-      "num": 101137,
-      "word": "TF家族危险的关系预告片",
-      "onboard_time": 1727694738,
-      "rank": 38,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 101088,
       "num": 685808,
       "word": "豪华车价格整顿打响第一枪",
@@ -72945,14 +72977,6 @@
       "onboard_time": 1725932058,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 98620,
-      "num": 248138,
-      "word": "郑钦文vs波多罗斯卡",
-      "onboard_time": 1727691860,
-      "rank": 29,
-      "category": "教育"
     },
     {
       "raw_hot": 98550,
@@ -77441,6 +77465,14 @@
       "onboard_time": 1727130794,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 66388,
+      "num": 212866,
+      "word": "惠英红 不想因受伤导致剧组停工",
+      "onboard_time": 1727695158,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 66370,
@@ -87211,6 +87243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 28464,
+      "num": 195426,
+      "word": "今晚一起看音乐会",
+      "onboard_time": 1727695279,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
       "raw_hot": 28437,
       "num": 390901,
       "word": "偷骑行女子手机两嫌疑人到案",
@@ -89052,7 +89092,7 @@
     },
     {
       "raw_hot": 22827,
-      "num": 216020,
+      "num": 220057,
       "word": "河南最低首付比例为15%",
       "onboard_time": 1727694320,
       "rank": 14,

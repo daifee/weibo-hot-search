@@ -1,0 +1,410 @@
+{
+  "runTime": 1727696132780,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1025096,
+        "num": 1164015,
+        "word": "2024央视国庆晚会节目单",
+        "onboard_time": 1727693119,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 635236,
+        "num": 635236,
+        "word": "A股疯涨普通人是否要入局",
+        "onboard_time": 1727683579,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 6126,
+        "num": 621426,
+        "word": "每一位英雄烈士都是一座精神丰碑",
+        "onboard_time": 1727684959,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 616427,
+        "num": 616427,
+        "word": "四川高速堵成红锅了",
+        "onboard_time": 1727685978,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 423747,
+        "num": 423747,
+        "word": "路上已长满了放假聪明人",
+        "onboard_time": 1727668339,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 310793,
+        "num": 310793,
+        "word": "有股民一早赚了52万",
+        "onboard_time": 1727674219,
+        "rank": 5,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 229795,
+        "num": 229795,
+        "word": "堵车时劝你不要打开车窗",
+        "onboard_time": 1727674100,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161570,
+        "num": 228497,
+        "word": "岁岁年年的爱献给祖国",
+        "onboard_time": 1727675778,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 61670,
+        "num": 228003,
+        "word": "专家称房地产牛市正逐渐开启",
+        "onboard_time": 1727693778,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153660,
+        "num": 226427,
+        "word": "外交部回应美方军援台湾地区",
+        "onboard_time": 1727685561,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1402885,
+        "num": 225616,
+        "word": "哀牢山",
+        "onboard_time": 1727694079,
+        "rank": 10,
+        "category": "自然,网红"
+      },
+      {
+        "raw_hot": 707152,
+        "num": 224019,
+        "word": "俞灏明谈公布恋情",
+        "onboard_time": 1727677760,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 590004,
+        "num": 222823,
+        "word": "男子遭叉车碾压忍痛爬起将车熄火",
+        "onboard_time": 1727689879,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 377321,
+        "num": 221476,
+        "word": "迪丽热巴登人民日报宣传片",
+        "onboard_time": 1727692339,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20933,
+        "num": 220057,
+        "word": "河南最低首付比例为15%",
+        "onboard_time": 1727694320,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144894,
+        "num": 218896,
+        "word": "郑钦文vs波多罗斯卡",
+        "onboard_time": 1727691860,
+        "rank": 15,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 376495,
+        "num": 216879,
+        "word": "烤鱼店黄牛取号炒至200元被质疑",
+        "onboard_time": 1727690597,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 331823,
+        "num": 215994,
+        "word": "堵车",
+        "onboard_time": 1727689459,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106666,
+        "num": 214393,
+        "word": "张若昀国庆晚会1人分饰4角",
+        "onboard_time": 1727695641,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 66388,
+        "num": 212866,
+        "word": "惠英红 不想因受伤导致剧组停工",
+        "onboard_time": 1727695158,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 331552,
+        "num": 211935,
+        "word": "哀牢山 颜料师",
+        "onboard_time": 1727688918,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 305354,
+        "num": 210621,
+        "word": "美方再次向中国台湾地区提供武器",
+        "onboard_time": 1727693419,
+        "rank": 21,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 287410,
+        "num": 209402,
+        "word": "孙亚龙报警",
+        "onboard_time": 1727694380,
+        "rank": 22,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 273920,
+        "num": 207596,
+        "word": "张凌赫让金靖孕期多看看迪丽热巴",
+        "onboard_time": 1727679679,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 207409,
+        "num": 207409,
+        "word": "今天下班后就不要联系我了",
+        "onboard_time": 1727689158,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 28464,
+        "num": 195426,
+        "word": "今晚一起看音乐会",
+        "onboard_time": 1727695279,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 193306,
+        "num": 193306,
+        "word": "A股猛涨投资者纷纷朋友圈晒盈利",
+        "onboard_time": 1727692459,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 176068,
+        "num": 176068,
+        "word": "王子奇 总共也没干几年",
+        "onboard_time": 1727695518,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 153628,
+        "num": 153628,
+        "word": "TF家族危险的关系预告片",
+        "onboard_time": 1727694738,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 149228,
+        "num": 149228,
+        "word": "董宇辉直播翻车",
+        "onboard_time": 1727670678,
+        "rank": 29,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 147424,
+        "num": 147424,
+        "word": "二十一天是人性恐怖片",
+        "onboard_time": 1727692219,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143412,
+        "num": 143412,
+        "word": "A股仅8股下跌",
+        "onboard_time": 1727686279,
+        "rank": 31,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 135088,
+        "num": 135088,
+        "word": "KPL年总超访发布汇",
+        "onboard_time": 1727695879,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 132538,
+        "num": 132538,
+        "word": "花1000元打网约车运10000元现金",
+        "onboard_time": 1727689759,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124909,
+        "num": 124909,
+        "word": "金靖和男朋友 直球恋爱",
+        "onboard_time": 1727684658,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121795,
+        "num": 121795,
+        "word": "国庆回家耗尽了我全部力气和手段",
+        "onboard_time": 1727685139,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 118526,
+        "num": 118526,
+        "word": "代号鸢 策子没了",
+        "onboard_time": 1727687599,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 112232,
+        "num": 112232,
+        "word": "退钱哥纳闷他的基金亏了",
+        "onboard_time": 1727693299,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 103142,
+        "num": 103142,
+        "word": "惠英红六处骨裂",
+        "onboard_time": 1727679319,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101595,
+        "num": 101595,
+        "word": "樊振东把巴黎奥运会看成新起点",
+        "onboard_time": 1727689578,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 70933,
+        "num": 100437,
+        "word": "游本昌张若昀同框致敬奋斗者",
+        "onboard_time": 1727692579,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 99717,
+        "num": 99717,
+        "word": "中年人恋爱就像老房子着火",
+        "onboard_time": 1727691260,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99002,
+        "num": 99002,
+        "word": "cv天空晒照",
+        "onboard_time": 1727682499,
+        "rank": 42,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 96498,
+        "num": 96498,
+        "word": "网传中信建投140万人排队开户",
+        "onboard_time": 1727691560,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 91975,
+        "num": 96308,
+        "word": "蒋时延看起来快碎了",
+        "onboard_time": 1727694919,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 85155,
+        "num": 96231,
+        "word": "多位购房者称房东临时涨价或反悔不卖",
+        "onboard_time": 1727685379,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 83602,
+        "num": 95936,
+        "word": "北京晚霞",
+        "onboard_time": 1727692517,
+        "rank": 46,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 82059,
+        "num": 95728,
+        "word": "把青春华章写在祖国大地上",
+        "onboard_time": 1727680460,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 69057,
+        "num": 95490,
+        "word": "志愿军存亡之战",
+        "onboard_time": 1727691138,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 74616,
+        "num": 95102,
+        "word": "中方将对葡萄牙等四国试行免签",
+        "onboard_time": 1727688559,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#致敬英雄模范总书记这些话鼓舞人心#"
+    }
+  }
+}
