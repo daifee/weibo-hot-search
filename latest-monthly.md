@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/09/01 00:25:38 ~ 2024/09/30 17:39:33
+本榜单时间：2024/09/01 00:25:38 ~ 2024/09/30 18:25:28
 </p>
 </blockquote>
 <p>
@@ -4005,6 +4005,12 @@ iOS18 丑（热度：1239435）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E9%AB%98%E9%80%9F%E5%A0%B5%E6%88%90%E7%BA%A2%E9%94%85%E4%BA%86%23" target="weibo">
+四川高速堵成红锅了（热度：1173438）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E8%B0%A8%E8%A8%80%E5%B8%8C%E6%9C%9B%E6%88%90%E4%B8%BA%E8%B5%B5%E4%B8%BD%E9%A2%96%23" target="weibo">
 吴谨言希望成为赵丽颖（热度：1173426）
 </a>
@@ -6005,12 +6011,6 @@ Scout暂时无缘S14（热度：922133）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A2%9C%E6%80%A1%E9%A2%9C%E6%82%A6%20%E4%B8%83%E4%B8%AA%E7%9F%AE%E5%AD%90%E6%94%BE%E7%8E%B0%E5%9C%A8%E5%8F%AB%E7%94%B7%E5%9B%A2%23" target="weibo">
 颜怡颜悦 七个矮子放现在叫男团（热度：905119）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%9C%E5%8C%97%E9%9B%A8%E5%A7%90%E4%B8%88%E5%A4%AB%E5%9B%9E%E5%BA%94%E5%8D%9A%E4%B8%BB%E6%89%93%E5%81%87%E8%A2%AB%E7%9C%9F%E6%89%93%23" target="weibo">
-东北雨姐丈夫回应博主打假被真打（热度：904674）
 </a>
 </li>
 
