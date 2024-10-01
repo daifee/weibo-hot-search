@@ -1,0 +1,410 @@
+{
+  "runTime": 1727782526891,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 678968,
+        "num": 1108634,
+        "word": "志愿军",
+        "onboard_time": 1727769078,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 521941,
+        "num": 521941,
+        "word": "人人人人人你人人人人人",
+        "onboard_time": 1727756059,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19135,
+        "num": 413740,
+        "word": "国庆氛围感还得看中国红",
+        "onboard_time": 1727770398,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 581556,
+        "num": 395479,
+        "word": "749局特效",
+        "onboard_time": 1727768240,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 363567,
+        "num": 363567,
+        "word": "拍开国大典时摄影师被总理紧紧抓住",
+        "onboard_time": 1727776039,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 164416,
+        "num": 363376,
+        "word": "盛世中华吾辈有幸",
+        "onboard_time": 1727774719,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 416270,
+        "num": 362668,
+        "word": "浴火之路开分9.5",
+        "onboard_time": 1727780479,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 158873,
+        "num": 361586,
+        "word": "国庆一人一句祝福新中国",
+        "onboard_time": 1727744118,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 150606,
+        "num": 360489,
+        "word": "中华人民共和国成立75周年",
+        "onboard_time": 1727752699,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 117470,
+        "num": 360030,
+        "word": "这一刻是属于中国人的浪漫",
+        "onboard_time": 1727781798,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 844521,
+        "num": 359059,
+        "word": "Jennie小松菜奈同框",
+        "onboard_time": 1727780900,
+        "rank": 10,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 812862,
+        "num": 358017,
+        "word": "以色列总理向伊朗人民喊话",
+        "onboard_time": 1727779939,
+        "rank": 11,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 426251,
+        "num": 357157,
+        "word": "赵今麦刘浩存MIUMIU出图",
+        "onboard_time": 1727775798,
+        "rank": 12,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 356935,
+        "num": 356935,
+        "word": "749局票房",
+        "onboard_time": 1727774479,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 58510,
+        "num": 352023,
+        "word": "国庆当天12.3万人观看升国旗仪式",
+        "onboard_time": 1727781259,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157328,
+        "num": 351493,
+        "word": "国庆假期第一天你在干什么",
+        "onboard_time": 1727748859,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 351007,
+        "num": 351007,
+        "word": "合肥地震",
+        "onboard_time": 1727772199,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 304637,
+        "num": 304637,
+        "word": "合肥肥东今年已经发生6次3级以上地震",
+        "onboard_time": 1727774660,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236478,
+        "num": 267954,
+        "word": "浴火之路票房",
+        "onboard_time": 1727771299,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 38883,
+        "num": 254070,
+        "word": "布云朝克特霸气出场",
+        "onboard_time": 1727781979,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 922481,
+        "num": 252079,
+        "word": "身份证尾号是X的人要吃多少苦",
+        "onboard_time": 1727781678,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244000,
+        "num": 244000,
+        "word": "山西大同晴空万里突转大雪纷飞",
+        "onboard_time": 1727772740,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243986,
+        "num": 243986,
+        "word": "重庆人已经穿上羽绒服了",
+        "onboard_time": 1727778200,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 240113,
+        "num": 240113,
+        "word": "女子没钱产检并流产医生两次硬发红包",
+        "onboard_time": 1727760799,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237725,
+        "num": 237725,
+        "word": "749局",
+        "onboard_time": 1727751198,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 228604,
+        "num": 228604,
+        "word": "TF三代一起去做的最后一件事",
+        "onboard_time": 1727781678,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 221539,
+        "num": 221539,
+        "word": "单依纯巴黎看秀状态",
+        "onboard_time": 1727780119,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 211908,
+        "num": 211908,
+        "word": "杨紫出席VOGUE晚宴",
+        "onboard_time": 1727780300,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 206752,
+        "num": 206752,
+        "word": "石破茂当选日本首相",
+        "onboard_time": 1727764039,
+        "rank": 28,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 193908,
+        "num": 193908,
+        "word": "韩国拟从中国进口1100吨大白菜",
+        "onboard_time": 1727774000,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146650,
+        "num": 193831,
+        "word": "布云朝克特vs辛纳",
+        "onboard_time": 1727780479,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111799,
+        "num": 193790,
+        "word": "浴火之路 打拐题材",
+        "onboard_time": 1727781919,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 193766,
+        "num": 193766,
+        "word": "孙颖莎9400分世排第一",
+        "onboard_time": 1727776280,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 190920,
+        "num": 190920,
+        "word": "彭高和翁青雅约会高兴到跳脚",
+        "onboard_time": 1727779939,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175620,
+        "num": 175620,
+        "word": "国庆第1天西湖人从众",
+        "onboard_time": 1727778560,
+        "rank": 34,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 166073,
+        "num": 166073,
+        "word": "新闻联播里的伊能静",
+        "onboard_time": 1727756780,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164011,
+        "num": 164011,
+        "word": "赵丽颖三搭想和肖央演兄妹",
+        "onboard_time": 1727781259,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 157756,
+        "num": 157756,
+        "word": "刘浩存深V衬衫造型",
+        "onboard_time": 1727780779,
+        "rank": 37,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 150420,
+        "num": 150420,
+        "word": "P人有的是手段拿捏时间",
+        "onboard_time": 1727776219,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 146884,
+        "num": 146884,
+        "word": "高速堵车 无人机叫醒",
+        "onboard_time": 1727767519,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141953,
+        "num": 141953,
+        "word": "堵车时第1辆车在干啥",
+        "onboard_time": 1727766137,
+        "rank": 40,
+        "category": "社会新闻,汽车"
+      },
+      {
+        "raw_hot": 10598,
+        "num": 138340,
+        "word": "十一旅行带衣服万能公式",
+        "onboard_time": 1727782159,
+        "rank": 41,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 138238,
+        "num": 138238,
+        "word": "孙颖莎比赛多次被闪光灯干扰",
+        "onboard_time": 1727766740,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134551,
+        "num": 134551,
+        "word": "数学学习困难门诊到底治什么",
+        "onboard_time": 1727781018,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129499,
+        "num": 129499,
+        "word": "69名中国公民从黎安全撤离",
+        "onboard_time": 1727776578,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 119344,
+        "num": 119344,
+        "word": "陆川 抓娃娃",
+        "onboard_time": 1727763738,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 117825,
+        "num": 117825,
+        "word": "脱口秀和Ta的朋友们",
+        "onboard_time": 1727782039,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114422,
+        "num": 114422,
+        "word": "90岁老人回忆在开国大典打腰鼓",
+        "onboard_time": 1727780239,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106325,
+        "num": 106325,
+        "word": "德云社砸挂秦霄贤",
+        "onboard_time": 1727748018,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 105295,
+        "num": 105295,
+        "word": "山西部分地区国庆首日下雪",
+        "onboard_time": 1727782340,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#清澈的爱只为中国#"
+    }
+  }
+}
