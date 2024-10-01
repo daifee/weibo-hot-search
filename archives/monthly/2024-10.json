@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1727779384910,
+  "endTime": 1727781597755,
   "band_list": [
     {
       "raw_hot": 2889500,
@@ -187,6 +187,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 756176,
+      "num": 1120988,
+      "word": "志愿军",
+      "onboard_time": 1727769078,
+      "rank": 9,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 754409,
+      "num": 379365,
+      "word": "以色列总理向伊朗人民喊话",
+      "onboard_time": 1727779939,
+      "rank": 10,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 750651,
       "num": 750651,
       "word": "天安门广场升过的国旗去哪了",
@@ -220,7 +236,7 @@
     },
     {
       "raw_hot": 693254,
-      "num": 307644,
+      "num": 340944,
       "word": "合肥肥东今年已经发生6次3级以上地震",
       "onboard_time": 1727774660,
       "rank": 42,
@@ -236,7 +252,7 @@
     },
     {
       "raw_hot": 653812,
-      "num": 217552,
+      "num": 367015,
       "word": "赵今麦刘浩存MIUMIU出图",
       "onboard_time": 1727775798,
       "rank": 12,
@@ -435,14 +451,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 437187,
-      "num": 642992,
-      "word": "志愿军",
-      "onboard_time": 1727769078,
-      "rank": 9,
-      "category": "电影"
-    },
-    {
       "raw_hot": 435070,
       "num": 435070,
       "word": "张帅第三次进中网女单8强",
@@ -555,6 +563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 308956,
+      "num": 308956,
+      "word": "749局票房",
+      "onboard_time": 1727774479,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 306086,
       "num": 306086,
       "word": "半熟男女 孙涵涵联手曾诚对抗周斌",
@@ -577,6 +593,14 @@
       "onboard_time": 1727749339,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 296799,
+      "num": 296799,
+      "word": "Jennie小松菜奈同框",
+      "onboard_time": 1727780900,
+      "rank": 17,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 296297,
@@ -611,11 +635,11 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 279583,
-      "num": 206703,
-      "word": "749局票房",
-      "onboard_time": 1727774479,
-      "rank": 29,
+      "raw_hot": 276018,
+      "num": 399865,
+      "word": "浴火之路开分9.5",
+      "onboard_time": 1727780479,
+      "rank": 8,
       "category": "电影"
     },
     {
@@ -747,6 +771,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 238089,
+      "num": 238089,
+      "word": "国庆第1天西湖人从众",
+      "onboard_time": 1727778560,
+      "rank": 22,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 236829,
       "num": 236829,
       "word": "迪丽热巴的十月行程图",
@@ -777,6 +809,14 @@
       "onboard_time": 1727766677,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 234720,
+      "num": 234720,
+      "word": "单依纯巴黎看秀状态",
+      "onboard_time": 1727780119,
+      "rank": 23,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 234520,
@@ -835,12 +875,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 230124,
+      "num": 230124,
+      "word": "重庆人已经穿上羽绒服了",
+      "onboard_time": 1727778200,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 227274,
       "num": 227274,
       "word": "浴火之路",
       "onboard_time": 1727751978,
       "rank": 33,
       "category": "电影"
+    },
+    {
+      "raw_hot": 224880,
+      "num": 224880,
+      "word": "杨紫出席VOGUE晚宴",
+      "onboard_time": 1727780300,
+      "rank": 26,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 220118,
@@ -897,6 +953,14 @@
       "onboard_time": 1727743398,
       "rank": 28,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 209133,
+      "num": 209133,
+      "word": "孙颖莎9400分世排第一",
+      "onboard_time": 1727776280,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 207239,
@@ -963,14 +1027,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 200429,
-      "num": 200429,
-      "word": "孙颖莎9400分世排第一",
-      "onboard_time": 1727776280,
-      "rank": 35,
-      "category": "体育"
-    },
-    {
       "raw_hot": 200231,
       "num": 200231,
       "word": "杨紫波点白裙搭配荷叶领",
@@ -993,6 +1049,14 @@
       "onboard_time": 1727751138,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 194508,
+      "num": 194508,
+      "word": "P人有的是手段拿捏时间",
+      "onboard_time": 1727776219,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 193769,
@@ -1041,6 +1105,14 @@
       "onboard_time": 1727753719,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 191329,
+      "num": 191329,
+      "word": "刘浩存深V衬衫造型",
+      "onboard_time": 1727780779,
+      "rank": 33,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 188776,
@@ -1147,14 +1219,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 177872,
-      "num": 177872,
-      "word": "P人有的是手段拿捏时间",
-      "onboard_time": 1727776219,
-      "rank": 36,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 177419,
       "num": 177419,
       "word": "A股还能再涨吗",
@@ -1201,6 +1265,14 @@
       "onboard_time": 1727762718,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 168614,
+      "num": 168614,
+      "word": "彭高和翁青雅约会高兴到跳脚",
+      "onboard_time": 1727779939,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 167466,
@@ -1403,6 +1475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 140264,
+      "num": 390303,
+      "word": "布云朝克特vs辛纳",
+      "onboard_time": 1727780479,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 139939,
       "num": 139939,
       "word": "十月对我好一点",
@@ -1465,14 +1545,6 @@
       "onboard_time": 1727757559,
       "rank": 48,
       "category": "数码"
-    },
-    {
-      "raw_hot": 136769,
-      "num": 136769,
-      "word": "重庆人已经穿上羽绒服了",
-      "onboard_time": 1727778200,
-      "rank": 45,
-      "category": "幽默"
     },
     {
       "raw_hot": 136575,
@@ -1715,6 +1787,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 117350,
+      "num": 117350,
+      "word": "赵丽颖三搭想和肖央演兄妹",
+      "onboard_time": 1727781259,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 116715,
       "num": 116715,
       "word": "迪丽热巴陈飞宇慕胥辞情侣装",
@@ -1737,6 +1817,14 @@
       "onboard_time": 1727778139,
       "rank": 24,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 113221,
+      "num": 113221,
+      "word": "数学学习困难门诊到底治什么",
+      "onboard_time": 1727781018,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 111427,
@@ -2123,6 +2211,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 68119,
+      "num": 230207,
+      "word": "90岁老人回忆在开国大典打腰鼓",
+      "onboard_time": 1727780239,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 67287,
       "num": 268897,
       "word": "爆款好人",
@@ -2371,6 +2467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 32971,
+      "num": 260098,
+      "word": "他们在最具安全感的地方安然入睡",
+      "onboard_time": 1727781441,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 32459,
       "num": 346232,
       "word": "大国重器是刻进中国人DNA的骄傲",
@@ -2407,6 +2511,14 @@
       "num": 377385,
       "word": "国庆一起云游全国景区",
       "onboard_time": 1727759658,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 29517,
+      "num": 344985,
+      "word": "国庆当天12.3万人观看升国旗仪式",
+      "onboard_time": 1727781259,
       "rank": 14,
       "category": "社会新闻"
     },
