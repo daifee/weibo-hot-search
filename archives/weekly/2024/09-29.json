@@ -1,6 +1,6 @@
 {
   "startTime": 1727540758074,
-  "endTime": 1727765171781,
+  "endTime": 1727767323873,
   "band_list": [
     {
       "raw_hot": 2629801,
@@ -315,6 +315,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1130069,
+      "num": 397753,
+      "word": "陆川 抓娃娃",
+      "onboard_time": 1727763738,
+      "rank": 13,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1086160,
       "num": 372869,
       "word": "关晓彤华伦天奴大秀",
@@ -419,14 +427,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 984199,
-      "num": 397753,
-      "word": "陆川 抓娃娃",
-      "onboard_time": 1727763738,
-      "rank": 13,
-      "category": "电影"
-    },
-    {
       "raw_hot": 979908,
       "num": 287288,
       "word": "侃爷听到南京憋不住笑了",
@@ -465,6 +465,14 @@
       "onboard_time": 1727748078,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 899499,
+      "num": 709406,
+      "word": "石破茂当选日本首相",
+      "onboard_time": 1727764039,
+      "rank": 9,
+      "category": "国外时政"
     },
     {
       "raw_hot": 890162,
@@ -667,6 +675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 735355,
+      "num": 735355,
+      "word": "孙颖莎vs蒯曼",
+      "onboard_time": 1727758639,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 734836,
       "num": 1089083,
       "word": "国家最高礼遇迎接功勋模范",
@@ -713,6 +729,14 @@
       "onboard_time": 1727661380,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 705507,
+      "num": 705507,
+      "word": "孙颖莎3比1蒯曼",
+      "onboard_time": 1727765957,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 698741,
@@ -897,14 +921,6 @@
       "onboard_time": 1727616080,
       "rank": 38,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 617978,
-      "num": 617978,
-      "word": "孙颖莎vs蒯曼",
-      "onboard_time": 1727758639,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 610233,
@@ -1331,6 +1347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 450890,
+      "num": 374224,
+      "word": "国庆假期第一天你在干什么",
+      "onboard_time": 1727748859,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 449214,
       "num": 402498,
       "word": "迪丽热巴条纹毛衣搭花苞裙",
@@ -1691,14 +1715,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 374950,
-      "num": 374224,
-      "word": "国庆假期第一天你在干什么",
-      "onboard_time": 1727748859,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 371706,
       "num": 404856,
       "word": "王楚钦光速进32强",
@@ -2027,6 +2043,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 318175,
+      "num": 318175,
+      "word": "孙颖莎暴力正手连击",
+      "onboard_time": 1727766198,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 317020,
       "num": 317020,
       "word": "HANNI将以证人出席监查",
@@ -2081,6 +2105,14 @@
       "onboard_time": 1727592799,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 306086,
+      "num": 306086,
+      "word": "半熟男女 孙涵涵联手曾诚对抗周斌",
+      "onboard_time": 1727765598,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 305991,
@@ -2177,14 +2209,6 @@
       "onboard_time": 1727592078,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 293814,
-      "num": 423019,
-      "word": "石破茂当选日本首相",
-      "onboard_time": 1727764039,
-      "rank": 9,
-      "category": "国外时政"
     },
     {
       "raw_hot": 292902,
@@ -2795,6 +2819,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 229697,
+      "num": 229697,
+      "word": "孙颖莎比赛多次被闪光灯干扰",
+      "onboard_time": 1727766740,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 229601,
       "num": 229601,
       "word": "不是上链接吗怎么上警车了",
@@ -3155,6 +3187,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 206429,
+      "num": 206429,
+      "word": "孙颖莎正手",
+      "onboard_time": 1727766260,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 206257,
       "num": 206257,
       "word": "Henry的小提琴拉的快冒烟了",
@@ -3225,6 +3265,14 @@
       "onboard_time": 1727684360,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 203120,
+      "num": 203120,
+      "word": "堵车时第1辆车在干啥",
+      "onboard_time": 1727766137,
+      "rank": 24,
+      "category": "社会新闻,汽车"
     },
     {
       "raw_hot": 203039,
@@ -3593,6 +3641,14 @@
       "onboard_time": 1727706562,
       "rank": 22,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 191480,
+      "num": 191480,
+      "word": "杨幂黑皮衣牛仔裤",
+      "onboard_time": 1727766677,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 191479,
@@ -4715,6 +4771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 152655,
+      "num": 152655,
+      "word": "赵牧辰阮小咪约会",
+      "onboard_time": 1727765778,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 152140,
       "num": 152140,
       "word": "降低存量房贷利率时间明确",
@@ -5307,6 +5371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 135407,
+      "num": 319079,
+      "word": "赵丽颖李红樱定妆记录",
+      "onboard_time": 1727763558,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 135178,
       "num": 135178,
       "word": "王源演唱会爆改相亲角",
@@ -5337,6 +5409,14 @@
       "onboard_time": 1727675901,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 134997,
+      "num": 134997,
+      "word": "孙颖莎中国大满贯进16强",
+      "onboard_time": 1727767157,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 134784,
@@ -5451,6 +5531,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 133123,
+      "num": 133123,
+      "word": "李梦蓝盈莹巴黎偶遇",
+      "onboard_time": 1727767217,
+      "rank": 43,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 132783,
       "num": 150442,
       "word": "张杰国庆晚会少年中国说",
@@ -5484,7 +5572,7 @@
     },
     {
       "raw_hot": 131882,
-      "num": 173386,
+      "num": 193862,
       "word": "伊能静写给祖国的小作文",
       "onboard_time": 1727761760,
       "rank": 29,
@@ -5916,7 +6004,7 @@
     },
     {
       "raw_hot": 123135,
-      "num": 123135,
+      "num": 711523,
       "word": "中华人民共和国成立75周年",
       "onboard_time": 1727752699,
       "rank": 45,
@@ -6009,6 +6097,14 @@
       "onboard_time": 1727671939,
       "rank": 48,
       "category": "财经"
+    },
+    {
+      "raw_hot": 121377,
+      "num": 121377,
+      "word": "黑神话制作人说这是老祖宗赏饭吃",
+      "onboard_time": 1727763618,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 121269,
@@ -6595,6 +6691,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 104106,
+      "num": 155157,
+      "word": "华晨宇官宣杭州演唱会",
+      "onboard_time": 1727765598,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
       "raw_hot": 104097,
       "num": 104097,
       "word": "半熟男女 女性的真实困境",
@@ -6955,14 +7059,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 87666,
-      "num": 319079,
-      "word": "赵丽颖李红樱定妆记录",
-      "onboard_time": 1727763558,
-      "rank": 17,
-      "category": "电影"
-    },
-    {
       "raw_hot": 87346,
       "num": 87346,
       "word": "国庆雷军和尼格买提小米工厂直播",
@@ -7145,6 +7241,14 @@
       "onboard_time": 1727528600,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 77208,
+      "num": 339199,
+      "word": "祖国永远在我心上",
+      "onboard_time": 1727766919,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 76306,
@@ -7843,6 +7947,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 41409,
+      "num": 135024,
+      "word": "麦迪娜吃新疆美食吃到撑",
+      "onboard_time": 1727765898,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 41321,
       "num": 328598,
       "word": "预制朋友圈是精装朋友圈的变种吗",
@@ -8233,6 +8345,14 @@
       "onboard_time": 1727617161,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 27747,
+      "num": 193794,
+      "word": "孙颖莎说吃好休息好",
+      "onboard_time": 1727766978,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 27649,
