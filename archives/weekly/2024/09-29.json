@@ -1,6 +1,6 @@
 {
   "startTime": 1727540758074,
-  "endTime": 1727757743386,
+  "endTime": 1727760118626,
   "band_list": [
     {
       "raw_hot": 2629801,
@@ -155,6 +155,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1447700,
+      "num": 382552,
+      "word": "新闻联播里的伊能静",
+      "onboard_time": 1727756780,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1403282,
       "num": 1403282,
       "word": "小哥误撞奔驰车主免赔偿称结婚叫我",
@@ -264,6 +272,14 @@
       "word": "买到假爱马仕因没开箱视频遭拒退",
       "onboard_time": 1727580018,
       "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1218260,
+      "num": 1218260,
+      "word": "人人人人人你人人人人人",
+      "onboard_time": 1727756059,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -507,14 +523,6 @@
       "category": "社会议题"
     },
     {
-      "raw_hot": 837843,
-      "num": 837843,
-      "word": "人人人人人你人人人人人",
-      "onboard_time": 1727756059,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 837753,
       "num": 936557,
       "word": "广州官宣楼市取消限购",
@@ -571,6 +579,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 804107,
+      "num": 804107,
+      "word": "749局",
+      "onboard_time": 1727656518,
+      "rank": 4,
+      "category": "电影"
+    },
+    {
       "raw_hot": 800781,
       "num": 347387,
       "word": "张元英眼睛状态",
@@ -601,6 +617,14 @@
       "onboard_time": 1727663899,
       "rank": 30,
       "category": "财经"
+    },
+    {
+      "raw_hot": 750651,
+      "num": 750651,
+      "word": "天安门广场升过的国旗去哪了",
+      "onboard_time": 1727755759,
+      "rank": 7,
+      "category": "国内时政"
     },
     {
       "raw_hot": 746351,
@@ -689,14 +713,6 @@
       "onboard_time": 1727702479,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 692459,
-      "num": 529212,
-      "word": "749局",
-      "onboard_time": 1727656518,
-      "rank": 4,
-      "category": "电影"
     },
     {
       "raw_hot": 685826,
@@ -843,6 +859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 623641,
+      "num": 623641,
+      "word": "王楚钦再现一字马拉伸",
+      "onboard_time": 1727757440,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 619691,
       "num": 367556,
       "word": "杨紫看秀look",
@@ -897,14 +921,6 @@
       "onboard_time": 1727606239,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 582411,
-      "num": 582411,
-      "word": "天安门广场升过的国旗去哪了",
-      "onboard_time": 1727755759,
-      "rank": 7,
-      "category": "国内时政"
     },
     {
       "raw_hot": 581398,
@@ -1163,6 +1179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 486683,
+      "num": 486683,
+      "word": "A股暴涨后股民消费升级",
+      "onboard_time": 1727758100,
+      "rank": 7,
+      "category": "财经"
+    },
+    {
       "raw_hot": 483724,
       "num": 437477,
       "word": "董宇辉纠正科普错误",
@@ -1329,14 +1353,6 @@
       "onboard_time": 1727618300,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 431355,
-      "num": 218892,
-      "word": "新闻联播里的伊能静",
-      "onboard_time": 1727756780,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 429207,
@@ -2011,6 +2027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 305991,
+      "num": 305991,
+      "word": "心动的信号",
+      "onboard_time": 1727534300,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 305722,
       "num": 305722,
       "word": "恋与深空",
@@ -2145,6 +2169,22 @@
       "onboard_time": 1727580440,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 288920,
+      "num": 288920,
+      "word": "东北雨姐道歉视频不见了",
+      "onboard_time": 1727755039,
+      "rank": 46,
+      "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 288296,
+      "num": 288296,
+      "word": "国庆假期第一天你在干什么",
+      "onboard_time": 1727748859,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 287410,
@@ -2499,6 +2539,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 239769,
+      "num": 239769,
+      "word": "爱奇艺10月片单",
+      "onboard_time": 1727758039,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 239618,
       "num": 239618,
       "word": "丁真介绍自己出圈照",
@@ -2723,6 +2771,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 225015,
+      "num": 225015,
+      "word": "浴火之路",
+      "onboard_time": 1727751978,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 224341,
       "num": 224341,
       "word": "何广智精修脑子毛坯嘴",
@@ -2841,6 +2897,14 @@
       "onboard_time": 1727754079,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 215890,
+      "num": 215890,
+      "word": "孙颖莎vs蒯曼",
+      "onboard_time": 1727758639,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 215333,
@@ -2979,14 +3043,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 209173,
-      "num": 209173,
-      "word": "国庆假期第一天你在干什么",
-      "onboard_time": 1727748859,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 208977,
       "num": 208977,
       "word": "我们的歌",
@@ -3097,14 +3153,6 @@
       "onboard_time": 1727684360,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 203264,
-      "num": 203264,
-      "word": "浴火之路",
-      "onboard_time": 1727751978,
-      "rank": 33,
-      "category": "电影"
     },
     {
       "raw_hot": 203039,
@@ -3291,6 +3339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 196451,
+      "num": 196451,
+      "word": "赵丽颖完成了演员与角色之间的交汇",
+      "onboard_time": 1727759479,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 196450,
       "num": 196450,
       "word": "黄小蕾说有王心凌真好",
@@ -3435,14 +3491,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 192088,
-      "num": 192088,
-      "word": "心动的信号",
-      "onboard_time": 1727534300,
-      "rank": 48,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 192022,
       "num": 192022,
       "word": "何卓佳说孙颖莎赛前给自己支招",
@@ -3531,14 +3579,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 189747,
-      "num": 189747,
-      "word": "王楚钦再现一字马拉伸",
-      "onboard_time": 1727757440,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 189632,
       "num": 272861,
       "word": "和肖战一起为祖国送祝福",
@@ -3585,6 +3625,14 @@
       "onboard_time": 1727607679,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 187572,
+      "num": 187572,
+      "word": "时代少年团我爱你中国MV",
+      "onboard_time": 1727758819,
+      "rank": 36,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 187424,
@@ -3715,6 +3763,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 183397,
+      "num": 183397,
+      "word": "石凯献唱浴火之路主题曲",
+      "onboard_time": 1727759119,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 183076,
       "num": 192924,
       "word": "A股大涨",
@@ -3788,7 +3844,7 @@
     },
     {
       "raw_hot": 179836,
-      "num": 751676,
+      "num": 789933,
       "word": "亲爱的祖国生日快乐",
       "onboard_time": 1727752878,
       "rank": 2,
@@ -4283,14 +4339,6 @@
       "category": "互联网,社会新闻"
     },
     {
-      "raw_hot": 161967,
-      "num": 161967,
-      "word": "东北雨姐道歉视频不见了",
-      "onboard_time": 1727755039,
-      "rank": 46,
-      "category": "社会新闻,网红"
-    },
-    {
       "raw_hot": 161723,
       "num": 161723,
       "word": "A股超5300股上涨",
@@ -4523,6 +4571,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 154286,
+      "num": 336809,
+      "word": "假期第一天你睡到了几点",
+      "onboard_time": 1727757260,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 153628,
       "num": 153628,
       "word": "TF家族危险的关系预告片",
@@ -4625,6 +4681,14 @@
       "onboard_time": 1727598979,
       "rank": 39,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 149766,
+      "num": 149766,
+      "word": "李现当中网站哥",
+      "onboard_time": 1727760079,
+      "rank": 47,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 149703,
@@ -5387,6 +5451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 129481,
+      "num": 383462,
+      "word": "国旗护卫队人人自带混响",
+      "onboard_time": 1727759419,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 128883,
       "num": 128883,
       "word": "一条plog告别九月",
@@ -6009,6 +6081,14 @@
       "onboard_time": 1727544254,
       "rank": 39,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 117235,
+      "num": 379148,
+      "word": "只此青绿",
+      "onboard_time": 1727759899,
+      "rank": 13,
+      "category": "电影"
     },
     {
       "raw_hot": 116345,
@@ -7060,7 +7140,7 @@
     },
     {
       "raw_hot": 69088,
-      "num": 224650,
+      "num": 329800,
       "word": "半熟男女得不到就更加爱",
       "onboard_time": 1727756479,
       "rank": 30,
@@ -7097,6 +7177,14 @@
       "onboard_time": 1727593099,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 67287,
+      "num": 231504,
+      "word": "爆款好人",
+      "onboard_time": 1727758279,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 67262,
@@ -7723,6 +7811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 36415,
+      "num": 385017,
+      "word": "张帅vs弗莱彻",
+      "onboard_time": 1727757379,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 36103,
       "num": 130749,
       "word": "张帅三连胜",
@@ -7987,14 +8083,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 26025,
-      "num": 336809,
-      "word": "假期第一天你睡到了几点",
-      "onboard_time": 1727757260,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 25997,
       "num": 290662,
       "word": "文物局回应古寺修缮未能修旧如旧",
@@ -8064,6 +8152,14 @@
       "word": "75岁骑行老人国庆重游武汉",
       "onboard_time": 1727717354,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 23086,
+      "num": 377385,
+      "word": "国庆一起云游全国景区",
+      "onboard_time": 1727759658,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -8209,14 +8305,6 @@
       "onboard_time": 1727727372,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 17180,
-      "num": 221062,
-      "word": "张帅vs弗莱彻",
-      "onboard_time": 1727757379,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 15432,
