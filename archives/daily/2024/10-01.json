@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1727768154554,
+  "endTime": 1727771391535,
   "band_list": [
     {
       "raw_hot": 2157671,
@@ -67,6 +67,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1278215,
+      "num": 1278215,
+      "word": "749局",
+      "onboard_time": 1727751198,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1218260,
       "num": 1218260,
       "word": "人人人人人你人人人人人",
@@ -81,14 +89,6 @@
       "onboard_time": 1727752638,
       "rank": 1,
       "category": "军事"
-    },
-    {
-      "raw_hot": 1164192,
-      "num": 1186270,
-      "word": "749局",
-      "onboard_time": 1727751198,
-      "rank": 17,
-      "category": "电影"
     },
     {
       "raw_hot": 1130069,
@@ -129,6 +129,14 @@
       "onboard_time": 1727764039,
       "rank": 9,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 867926,
+      "num": 335228,
+      "word": "高速堵车 无人机叫醒",
+      "onboard_time": 1727767519,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 864802,
@@ -284,7 +292,7 @@
     },
     {
       "raw_hot": 534705,
-      "num": 321829,
+      "num": 333733,
       "word": "孙颖莎比赛多次被闪光灯干扰",
       "onboard_time": 1727766740,
       "rank": 22,
@@ -315,6 +323,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 460666,
+      "num": 325218,
+      "word": "堵车时第1辆车在干啥",
+      "onboard_time": 1727766137,
+      "rank": 24,
+      "category": "社会新闻,汽车"
+    },
+    {
       "raw_hot": 456825,
       "num": 456825,
       "word": "孙颖莎王楚钦祝福祖国",
@@ -329,6 +345,14 @@
       "onboard_time": 1727748859,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 451852,
+      "num": 355816,
+      "word": "749局 九层妖塔",
+      "onboard_time": 1727769019,
+      "rank": 4,
+      "category": "电影"
     },
     {
       "raw_hot": 450890,
@@ -363,6 +387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 419285,
+      "num": 345446,
+      "word": "749局特效",
+      "onboard_time": 1727768240,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
       "raw_hot": 416302,
       "num": 244823,
       "word": "恒大地产和许家印等被处分",
@@ -395,6 +427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 396710,
+      "num": 322270,
+      "word": "意料之外的749局",
+      "onboard_time": 1727767519,
+      "rank": 9,
+      "category": "电影"
+    },
+    {
       "raw_hot": 369496,
       "num": 360281,
       "word": "赵露思10月行程图",
@@ -409,6 +449,14 @@
       "onboard_time": 1727759479,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 359253,
+      "num": 711523,
+      "word": "中华人民共和国成立75周年",
+      "onboard_time": 1727752699,
+      "rank": 45,
+      "category": "国内时政"
     },
     {
       "raw_hot": 342733,
@@ -539,14 +587,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 262877,
-      "num": 262877,
-      "word": "堵车时第1辆车在干啥",
-      "onboard_time": 1727766137,
-      "rank": 24,
-      "category": "社会新闻,汽车"
-    },
-    {
       "raw_hot": 255296,
       "num": 239422,
       "word": "麦当劳bob",
@@ -584,14 +624,6 @@
       "word": "10月你好",
       "onboard_time": 1727713220,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 240101,
-      "num": 240101,
-      "word": "高速堵车 无人机叫醒",
-      "onboard_time": 1727767519,
-      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -699,6 +731,14 @@
       "category": "国外时政,军事"
     },
     {
+      "raw_hot": 219297,
+      "num": 219297,
+      "word": "张本智和特别喜欢看樊振东比赛",
+      "onboard_time": 1727770158,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 218672,
       "num": 218672,
       "word": "三年了爸妈3个账户都回本了",
@@ -803,14 +843,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 197290,
-      "num": 322270,
-      "word": "意料之外的749局",
-      "onboard_time": 1727767519,
-      "rank": 9,
-      "category": "电影"
-    },
-    {
       "raw_hot": 197030,
       "num": 197030,
       "word": "李现观战郑钦文比赛",
@@ -843,12 +875,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 193024,
+      "num": 339136,
+      "word": "志愿军",
+      "onboard_time": 1727769078,
+      "rank": 9,
+      "category": "电影"
+    },
+    {
       "raw_hot": 192715,
       "num": 192715,
       "word": "10月这个星座请做好暴富的准备",
       "onboard_time": 1727748859,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 192545,
+      "num": 192545,
+      "word": "浴火之路剧情",
+      "onboard_time": 1727770459,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 192092,
@@ -995,12 +1043,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 170634,
+      "num": 170634,
+      "word": "孙颖莎说去冲击洛杉矶奥运会",
+      "onboard_time": 1727769198,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 169199,
       "num": 169199,
       "word": "98年升旗手升旗仪式后向女友求婚",
       "onboard_time": 1727762718,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 166108,
+      "num": 166108,
+      "word": "莫雷高德说林高远最时尚",
+      "onboard_time": 1727770639,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 164894,
@@ -1307,6 +1371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 128349,
+      "num": 128349,
+      "word": "华晨宇首个大莲花四面台演唱会",
+      "onboard_time": 1727770517,
+      "rank": 39,
+      "category": "演出"
+    },
+    {
       "raw_hot": 126661,
       "num": 126661,
       "word": "A股疯涨专家提醒笑不露齿",
@@ -1355,14 +1427,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 123135,
-      "num": 711523,
-      "word": "中华人民共和国成立75周年",
-      "onboard_time": 1727752699,
-      "rank": 45,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 121377,
       "num": 121377,
       "word": "黑神话制作人说这是老祖宗赏饭吃",
@@ -1377,6 +1441,14 @@
       "onboard_time": 1727748859,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 118998,
+      "num": 118998,
+      "word": "张碧晨 这一路鹅语鹅香",
+      "onboard_time": 1727770038,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 118255,
@@ -1395,12 +1467,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 117466,
+      "num": 153870,
+      "word": "喀纳斯秋天的梦幻氛围感",
+      "onboard_time": 1727768778,
+      "rank": 34,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 116715,
       "num": 116715,
       "word": "迪丽热巴陈飞宇慕胥辞情侣装",
       "onboard_time": 1727706501,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 116386,
+      "num": 116386,
+      "word": "霍启山何超欣参加招待会",
+      "onboard_time": 1727768778,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 111427,
@@ -1425,6 +1513,14 @@
       "onboard_time": 1727688918,
       "rank": 33,
       "category": "网红"
+    },
+    {
+      "raw_hot": 108482,
+      "num": 108482,
+      "word": "代号鸢 人已散",
+      "onboard_time": 1727768000,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 108095,
@@ -1491,6 +1587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 99069,
+      "num": 99069,
+      "word": "浴火之路票房",
+      "onboard_time": 1727771299,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
       "raw_hot": 96710,
       "num": 219403,
       "word": "国庆档新片票房已破3亿",
@@ -1528,6 +1632,14 @@
       "word": "马龙比赛儿子台下转圈圈鼓掌加油",
       "onboard_time": 1727747838,
       "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 91463,
+      "num": 91463,
+      "word": "林高远王艺迪3比0特奥多罗库库洛娃",
+      "onboard_time": 1727770218,
+      "rank": 48,
       "category": "体育"
     },
     {
@@ -1763,6 +1875,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 47075,
+      "num": 397573,
+      "word": "国庆氛围感还得看中国红",
+      "onboard_time": 1727770398,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 46129,
       "num": 102291,
       "word": "2024央视国庆晚会节目单",
@@ -1841,6 +1961,14 @@
       "onboard_time": 1727728511,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 39584,
+      "num": 299605,
+      "word": "张钧甯巴黎路透换三套造型",
+      "onboard_time": 1727770277,
+      "rank": 19,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 39360,
@@ -1955,6 +2083,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 26931,
+      "num": 346232,
+      "word": "大国重器是刻进中国人DNA的骄傲",
+      "onboard_time": 1727769439,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 26458,
       "num": 26458,
       "word": "房产中介称市场有反弹但没有很夸张",
@@ -1977,6 +2113,30 @@
       "onboard_time": 1727717354,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 22166,
+      "num": 341417,
+      "word": "中国人在太空祝福祖国",
+      "onboard_time": 1727752459,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 21565,
+      "num": 323599,
+      "word": "学习困难门诊预约爆满背后",
+      "onboard_time": 1727770878,
+      "rank": 14,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 20795,
+      "num": 306545,
+      "word": "广州有楼盘卖1套房奖销售80万",
+      "onboard_time": 1727771178,
+      "rank": 18,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 17212,
