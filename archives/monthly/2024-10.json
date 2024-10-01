@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1727747419068,
+  "endTime": 1727748762203,
   "band_list": [
     {
       "raw_hot": 2157671,
@@ -9,6 +9,30 @@
       "onboard_time": 1727741359,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1748306,
+      "num": 476672,
+      "word": "德云社砸挂秦霄贤",
+      "onboard_time": 1727748018,
+      "rank": 10,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 1678868,
+      "num": 471353,
+      "word": "天安门升旗仪式结束男子还未醒",
+      "onboard_time": 1727747299,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1449026,
+      "num": 1449026,
+      "word": "国庆一人一句祝福新中国",
+      "onboard_time": 1727744118,
+      "rank": 5,
+      "category": "国内时政"
     },
     {
       "raw_hot": 1389240,
@@ -35,14 +59,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 1037186,
-      "num": 807655,
-      "word": "国庆一人一句祝福新中国",
-      "onboard_time": 1727744118,
-      "rank": 5,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 1014184,
       "num": 1014184,
       "word": "我的身份证上有你的名字",
@@ -52,11 +68,19 @@
     },
     {
       "raw_hot": 1010561,
-      "num": 245161,
+      "num": 254886,
       "word": "女子拔插头被电伤截肢",
       "onboard_time": 1727709140,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 864802,
+      "num": 587909,
+      "word": "长期吃白人饭的人都怎么样了",
+      "onboard_time": 1727745018,
+      "rank": 7,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 762775,
@@ -68,7 +92,7 @@
     },
     {
       "raw_hot": 725509,
-      "num": 245076,
+      "num": 257895,
       "word": "网红女骑士石膏发生车祸身亡",
       "onboard_time": 1727705540,
       "rank": 12,
@@ -99,14 +123,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 587909,
-      "num": 587909,
-      "word": "长期吃白人饭的人都怎么样了",
-      "onboard_time": 1727745018,
-      "rank": 7,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 576418,
       "num": 576418,
       "word": "小哥误撞奔驰车主免赔偿称结婚叫我",
@@ -124,7 +140,7 @@
     },
     {
       "raw_hot": 569018,
-      "num": 219124,
+      "num": 245276,
       "word": "男子嫌小孩推车进电梯慢将车扔出",
       "onboard_time": 1727739376,
       "rank": 48,
@@ -137,6 +153,14 @@
       "onboard_time": 1727715915,
       "rank": 15,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 481028,
+      "num": 481028,
+      "word": "国庆节假期第1天",
+      "onboard_time": 1727740936,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 454756,
@@ -179,20 +203,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 355164,
-      "num": 445175,
-      "word": "国庆节假期第1天",
-      "onboard_time": 1727740936,
-      "rank": 9,
-      "category": "社会新闻"
+      "raw_hot": 360280,
+      "num": 360280,
+      "word": "秦霄贤常驻综艺停更",
+      "onboard_time": 1727748078,
+      "rank": 15,
+      "category": "综艺"
     },
     {
-      "raw_hot": 330675,
-      "num": 330675,
-      "word": "天安门升旗仪式结束男子还未醒",
-      "onboard_time": 1727747299,
-      "rank": 13,
-      "category": "社会新闻"
+      "raw_hot": 342733,
+      "num": 342733,
+      "word": "用我的方式祝福祖国",
+      "onboard_time": 1727747717,
+      "rank": 17,
+      "category": "国内时政"
     },
     {
       "raw_hot": 326204,
@@ -209,6 +233,14 @@
       "onboard_time": 1727702780,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 292771,
+      "num": 326840,
+      "word": "今天祖国的第一缕阳光",
+      "onboard_time": 1727738296,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 274826,
@@ -243,14 +275,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 260408,
-      "num": 326840,
-      "word": "今天祖国的第一缕阳光",
-      "onboard_time": 1727738296,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 254269,
       "num": 254269,
       "word": "以空军飞越1800公里空袭也门胡塞武装",
@@ -280,6 +304,14 @@
       "word": "10月你好",
       "onboard_time": 1727713220,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 236011,
+      "num": 236011,
+      "word": "江山如画",
+      "onboard_time": 1727747960,
+      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -339,11 +371,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 208090,
-      "num": 208090,
+      "raw_hot": 210515,
+      "num": 210515,
       "word": "祝福伟大祖国繁荣富强",
       "onboard_time": 1727743398,
       "rank": 28,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 207239,
+      "num": 207239,
+      "word": "神州大地飘满中国红",
+      "onboard_time": 1727747058,
+      "rank": 30,
       "category": "国内时政"
     },
     {
@@ -363,16 +403,16 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 185691,
-      "num": 185691,
-      "word": "神州大地飘满中国红",
-      "onboard_time": 1727747058,
-      "rank": 30,
-      "category": "国内时政"
+      "raw_hot": 197030,
+      "num": 197030,
+      "word": "李现观战郑钦文比赛",
+      "onboard_time": 1727747299,
+      "rank": 46,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 183543,
-      "num": 245449,
+      "num": 490804,
       "word": "七夜雪定档",
       "onboard_time": 1727707701,
       "rank": 7,
@@ -385,6 +425,14 @@
       "onboard_time": 1727737935,
       "rank": 26,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 179176,
+      "num": 179176,
+      "word": "被中式美学的省区市创意字惊艳到",
+      "onboard_time": 1727746938,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 178121,
@@ -401,6 +449,14 @@
       "onboard_time": 1727704642,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 164894,
+      "num": 164894,
+      "word": "易烊千玺刺绣皮衣造型",
+      "onboard_time": 1727747478,
+      "rank": 34,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 161198,
@@ -459,6 +515,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 148609,
+      "num": 148609,
+      "word": "10月第一天",
+      "onboard_time": 1727740458,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 145530,
       "num": 145530,
       "word": "5岁幼童遭8岁男孩强行推入水池",
@@ -467,12 +531,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 141609,
-      "num": 141609,
-      "word": "10月第一天",
-      "onboard_time": 1727740458,
-      "rank": 36,
-      "category": "社会新闻"
+      "raw_hot": 139697,
+      "num": 139697,
+      "word": "伟大的中国人民万岁",
+      "onboard_time": 1727746098,
+      "rank": 45,
+      "category": "国内时政"
     },
     {
       "raw_hot": 139240,
@@ -489,14 +553,6 @@
       "onboard_time": 1727743938,
       "rank": 38,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 137524,
-      "num": 137524,
-      "word": "被中式美学的省区市创意字惊艳到",
-      "onboard_time": 1727746938,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 135447,
@@ -547,6 +603,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 118121,
+      "num": 118121,
+      "word": "NBA名宿穆托姆博去世",
+      "onboard_time": 1727747960,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 116715,
       "num": 116715,
       "word": "迪丽热巴陈飞宇慕胥辞情侣装",
@@ -563,22 +627,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 111035,
-      "num": 111035,
-      "word": "伟大的中国人民万岁",
-      "onboard_time": 1727746098,
-      "rank": 45,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 110803,
-      "num": 110803,
-      "word": "李现观战郑钦文比赛",
-      "onboard_time": 1727747299,
-      "rank": 46,
-      "category": "艺人,体育"
-    },
-    {
       "raw_hot": 110479,
       "num": 110479,
       "word": "A股还有三关要过",
@@ -593,6 +641,14 @@
       "onboard_time": 1727688918,
       "rank": 33,
       "category": "网红"
+    },
+    {
+      "raw_hot": 108487,
+      "num": 508059,
+      "word": "电影志愿军存亡之战",
+      "onboard_time": 1727745378,
+      "rank": 8,
+      "category": "电影"
     },
     {
       "raw_hot": 108095,
@@ -635,14 +691,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 97358,
-      "num": 448134,
-      "word": "电影志愿军存亡之战",
-      "onboard_time": 1727745378,
-      "rank": 8,
-      "category": "电影"
-    },
-    {
       "raw_hot": 96710,
       "num": 219403,
       "word": "国庆档新片票房已破3亿",
@@ -657,6 +705,22 @@
       "onboard_time": 1727708959,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 94267,
+      "num": 150315,
+      "word": "点赞中国红",
+      "onboard_time": 1727748018,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 92578,
+      "num": 111692,
+      "word": "马龙比赛儿子台下转圈圈鼓掌加油",
+      "onboard_time": 1727747838,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 90979,
@@ -996,7 +1060,7 @@
     },
     {
       "raw_hot": 11267,
-      "num": 1277992,
+      "num": 1280888,
       "word": "写给先辈们的一封信",
       "onboard_time": 1727702721,
       "rank": 2,
