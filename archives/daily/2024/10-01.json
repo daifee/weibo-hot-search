@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1727761179338,
+  "endTime": 1727764362826,
   "band_list": [
     {
       "raw_hot": 2157671,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 1447700,
-      "num": 382552,
+      "num": 414253,
       "word": "新闻联播里的伊能静",
       "onboard_time": 1727756780,
       "rank": 45,
@@ -83,6 +83,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 1146616,
+      "num": 1183458,
+      "word": "749局",
+      "onboard_time": 1727751198,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1014184,
       "num": 1014184,
       "word": "我的身份证上有你的名字",
@@ -107,20 +115,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 922245,
-      "num": 922245,
-      "word": "749局",
-      "onboard_time": 1727751198,
-      "rank": 17,
-      "category": "电影"
-    },
-    {
       "raw_hot": 864802,
       "num": 587909,
       "word": "长期吃白人饭的人都怎么样了",
       "onboard_time": 1727745018,
       "rank": 7,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 820854,
+      "num": 334089,
+      "word": "女子没钱产检并流产医生两次硬发红包",
+      "onboard_time": 1727760799,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 807536,
@@ -179,6 +187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 631837,
+      "num": 408107,
+      "word": "美俄战机空中交锋",
+      "onboard_time": 1727761519,
+      "rank": 11,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 606402,
       "num": 244962,
       "word": "哀牢山",
@@ -225,6 +241,14 @@
       "onboard_time": 1727708900,
       "rank": 15,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 569840,
+      "num": 569840,
+      "word": "孙颖莎vs蒯曼",
+      "onboard_time": 1727758639,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 569018,
@@ -283,6 +307,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 435070,
+      "num": 435070,
+      "word": "张帅第三次进中网女单8强",
+      "onboard_time": 1727762779,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 424786,
       "num": 300139,
       "word": "为什么高铁晚上禁止运行",
@@ -315,6 +347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 397753,
+      "num": 397753,
+      "word": "陆川 抓娃娃",
+      "onboard_time": 1727763738,
+      "rank": 13,
+      "category": "电影"
+    },
+    {
       "raw_hot": 396946,
       "num": 396946,
       "word": "上海房东连夜跳价50万",
@@ -323,16 +363,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 379995,
-      "num": 379995,
-      "word": "孙颖莎vs蒯曼",
-      "onboard_time": 1727758639,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 374950,
-      "num": 367357,
+      "num": 374224,
       "word": "国庆假期第一天你在干什么",
       "onboard_time": 1727748859,
       "rank": 32,
@@ -355,12 +387,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 334089,
-      "num": 334089,
-      "word": "女子没钱产检并流产医生两次硬发红包",
-      "onboard_time": 1727760799,
-      "rank": 22,
-      "category": "社会新闻"
+      "raw_hot": 330325,
+      "num": 330325,
+      "word": "赵丽颖完成了演员与角色之间的交汇",
+      "onboard_time": 1727759479,
+      "rank": 35,
+      "category": "电影"
     },
     {
       "raw_hot": 326204,
@@ -467,12 +499,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 256146,
-      "num": 256146,
-      "word": "赵丽颖完成了演员与角色之间的交汇",
-      "onboard_time": 1727759479,
-      "rank": 35,
-      "category": "电影"
+      "raw_hot": 255296,
+      "num": 173261,
+      "word": "麦当劳bob",
+      "onboard_time": 1727762000,
+      "rank": 30,
+      "category": "美食"
     },
     {
       "raw_hot": 254269,
@@ -675,6 +707,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 202769,
+      "num": 434497,
+      "word": "只此青绿",
+      "onboard_time": 1727759899,
+      "rank": 13,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 202539,
+      "num": 202539,
+      "word": "一人一句表白祖国",
+      "onboard_time": 1727761459,
+      "rank": 25,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 200231,
       "num": 200231,
       "word": "杨紫波点白裙搭配荷叶领",
@@ -819,6 +867,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 177651,
+      "num": 423019,
+      "word": "石破茂当选日本首相",
+      "onboard_time": 1727764039,
+      "rank": 9,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 177419,
+      "num": 177419,
+      "word": "A股还能再涨吗",
+      "onboard_time": 1727761278,
+      "rank": 28,
+      "category": "财经"
+    },
+    {
       "raw_hot": 176059,
       "num": 176059,
       "word": "749局预测票房超9亿",
@@ -840,6 +904,14 @@
       "word": "为了国庆不添堵结果堵在高速路",
       "onboard_time": 1727704642,
       "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 169199,
+      "num": 169199,
+      "word": "98年升旗手升旗仪式后向女友求婚",
+      "onboard_time": 1727762718,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -955,6 +1027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 142899,
+      "num": 142899,
+      "word": "余宇涵手势舞",
+      "onboard_time": 1727761339,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 139939,
       "num": 139939,
       "word": "十月对我好一点",
@@ -1067,6 +1147,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 131882,
+      "num": 173386,
+      "word": "伊能静写给祖国的小作文",
+      "onboard_time": 1727761760,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 130242,
       "num": 130242,
       "word": "日本岸田内阁宣布集体辞职",
@@ -1107,6 +1195,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 124297,
+      "num": 124297,
+      "word": "金娜英3比2平野美宇",
+      "onboard_time": 1727762959,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 124146,
+      "num": 124146,
+      "word": "张帅2比0弗莱彻",
+      "onboard_time": 1727763078,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 123585,
       "num": 508059,
       "word": "电影志愿军存亡之战",
@@ -1123,20 +1227,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 122531,
-      "num": 379148,
-      "word": "只此青绿",
-      "onboard_time": 1727759899,
-      "rank": 13,
-      "category": "电影"
-    },
-    {
       "raw_hot": 120636,
       "num": 120636,
       "word": "易烊千玺畅游异国街头",
       "onboard_time": 1727748859,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 118466,
+      "num": 152839,
+      "word": "王一博向祖国说展信安",
+      "onboard_time": 1727764278,
+      "rank": 39,
+      "category": "音乐"
     },
     {
       "raw_hot": 118255,
@@ -1619,6 +1723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 31257,
+      "num": 169347,
+      "word": "阿云嘎说出入平安拍得特别压抑",
+      "onboard_time": 1727762779,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 29815,
       "num": 377385,
       "word": "国庆一起云游全国景区",
@@ -1681,6 +1793,14 @@
       "onboard_time": 1727756419,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 13857,
+      "num": 202773,
+      "word": "江慈的爱永远拿得出手",
+      "onboard_time": 1727761398,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 11267,
