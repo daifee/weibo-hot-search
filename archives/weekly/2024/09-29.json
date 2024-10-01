@@ -1,6 +1,6 @@
 {
   "startTime": 1727540758074,
-  "endTime": 1727790107970,
+  "endTime": 1727792478464,
   "band_list": [
     {
       "raw_hot": 11925969,
@@ -332,7 +332,7 @@
     },
     {
       "raw_hot": 1218260,
-      "num": 2633882,
+      "num": 2647987,
       "word": "人人人人人你人人人人人",
       "onboard_time": 1727756059,
       "rank": 13,
@@ -507,6 +507,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 937922,
+      "num": 376883,
+      "word": "电影749局 观后感",
+      "onboard_time": 1727789063,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 934503,
       "num": 418250,
       "word": "董宇辉称居里夫人获得诺贝尔文学奖",
@@ -569,6 +577,14 @@
       "onboard_time": 1727767519,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 867520,
+      "num": 267385,
+      "word": "林德回应战胜王楚钦",
+      "onboard_time": 1727791403,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 864802,
@@ -1235,6 +1251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 546627,
+      "num": 311671,
+      "word": "倪夏莲流泪说让大家失望了",
+      "onboard_time": 1727789003,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 546388,
       "num": 405989,
       "word": "华伦天奴大秀",
@@ -1529,14 +1553,6 @@
       "onboard_time": 1727709439,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 451369,
-      "num": 311671,
-      "word": "倪夏莲流泪说让大家失望了",
-      "onboard_time": 1727789003,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 450890,
@@ -1913,14 +1929,6 @@
       "onboard_time": 1727692339,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 376883,
-      "num": 376883,
-      "word": "电影749局 观后感",
-      "onboard_time": 1727789063,
-      "rank": 29,
-      "category": "电影"
     },
     {
       "raw_hot": 376495,
@@ -2569,6 +2577,14 @@
       "onboard_time": 1727694380,
       "rank": 18,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 287165,
+      "num": 326687,
+      "word": "志愿军 第二部比第一部好看",
+      "onboard_time": 1727787800,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 286667,
@@ -3403,6 +3419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 215522,
+      "num": 215522,
+      "word": "伊藤美诚3比0倪夏莲",
+      "onboard_time": 1727792121,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 215333,
       "num": 215333,
       "word": "DXMON成员JO退团",
@@ -4211,6 +4235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 189569,
+      "num": 189569,
+      "word": "李云霄彩排穆桂英挂帅",
+      "onboard_time": 1727792421,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 189565,
       "num": 206852,
       "word": "樊振东感谢中网邀请",
@@ -4233,6 +4265,14 @@
       "onboard_time": 1727750658,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 188313,
+      "num": 284233,
+      "word": "小布未来可期",
+      "onboard_time": 1727790143,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 188193,
@@ -4273,6 +4313,14 @@
       "onboard_time": 1727706801,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 187006,
+      "num": 279500,
+      "word": "维港国庆烟花汇演首次加入无人机",
+      "onboard_time": 1727790743,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 186663,
@@ -4377,14 +4425,6 @@
       "onboard_time": 1727667679,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 184667,
-      "num": 326687,
-      "word": "志愿军 第二部比第一部好看",
-      "onboard_time": 1727787800,
-      "rank": 28,
-      "category": "电影"
     },
     {
       "raw_hot": 184508,
@@ -4611,6 +4651,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 176451,
+      "num": 176451,
+      "word": "年轻人从头再来一次又如何",
+      "onboard_time": 1727791761,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 176098,
       "num": 176098,
       "word": "以色列公布真主党高层死亡名单",
@@ -4657,6 +4705,14 @@
       "onboard_time": 1727658678,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 173913,
+      "num": 173913,
+      "word": "周雨彤 侯明昊我想看你哭",
+      "onboard_time": 1727790562,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 173911,
@@ -5627,6 +5683,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 144628,
+      "num": 144628,
+      "word": "香港烟花",
+      "onboard_time": 1727792241,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 144595,
       "num": 144595,
       "word": "我的名字是国庆",
@@ -6115,6 +6179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 134461,
+      "num": 134461,
+      "word": "林孝埈祝大家长假快乐",
+      "onboard_time": 1727790382,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 134217,
       "num": 134217,
       "word": "恋与天津游",
@@ -6209,6 +6281,14 @@
       "onboard_time": 1727757379,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 132855,
+      "num": 254631,
+      "word": "游客们扛国旗爬泰山",
+      "onboard_time": 1727789962,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 132783,
@@ -6433,6 +6513,14 @@
       "onboard_time": 1727699599,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 128130,
+      "num": 128130,
+      "word": "749局预售票房破4000万",
+      "onboard_time": 1727791103,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 128016,
@@ -6771,14 +6859,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 121566,
-      "num": 121566,
-      "word": "游客们扛国旗爬泰山",
-      "onboard_time": 1727789962,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 121529,
       "num": 157568,
       "word": "印度一校长勾结老师勒死11岁学生",
@@ -6801,6 +6881,14 @@
       "onboard_time": 1727763618,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 121291,
+      "num": 121291,
+      "word": "叙利亚著名主播在以空袭中死亡",
+      "onboard_time": 1727792181,
+      "rank": 44,
+      "category": "国外时政"
     },
     {
       "raw_hot": 121269,
@@ -6867,6 +6955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 120238,
+      "num": 120238,
+      "word": "老外问为啥机器看到你会掉一瓶水",
+      "onboard_time": 1727790323,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 120089,
       "num": 120089,
       "word": "2024中网",
@@ -6881,6 +6977,14 @@
       "onboard_time": 1727605099,
       "rank": 43,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 119842,
+      "num": 119842,
+      "word": "赵丽颖演技",
+      "onboard_time": 1727792360,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 119604,
@@ -6969,6 +7073,14 @@
       "onboard_time": 1727570599,
       "rank": 36,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 118503,
+      "num": 118503,
+      "word": "布云朝克特无缘中网男单决赛",
+      "onboard_time": 1727792181,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 118481,
@@ -8441,6 +8553,14 @@
       "onboard_time": 1727647633,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 66748,
+      "num": 264012,
+      "word": "林诗栋蒯曼混双进8强",
+      "onboard_time": 1727791522,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 66388,
