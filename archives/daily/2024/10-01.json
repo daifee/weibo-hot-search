@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1727782526891,
+  "endTime": 1727786603581,
   "band_list": [
     {
       "raw_hot": 2889500,
@@ -49,6 +49,14 @@
       "onboard_time": 1727756780,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1412297,
+      "num": 252079,
+      "word": "身份证尾号是X的人要吃多少苦",
+      "onboard_time": 1727781678,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1389240,
@@ -107,6 +115,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1044271,
+      "num": 199968,
+      "word": "孙颖莎对马龙说hello爸爸",
+      "onboard_time": 1727783358,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1014184,
       "num": 1014184,
       "word": "我的身份证上有你的名字",
@@ -129,14 +145,6 @@
       "onboard_time": 1727748078,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 922481,
-      "num": 252079,
-      "word": "身份证尾号是X的人要吃多少苦",
-      "onboard_time": 1727781678,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 909872,
@@ -595,6 +603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 307857,
+      "num": 307857,
+      "word": "王楚钦vs林德",
+      "onboard_time": 1727785580,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 306086,
       "num": 306086,
       "word": "半熟男女 孙涵涵联手曾诚对抗周斌",
@@ -1019,6 +1035,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 205556,
+      "num": 199392,
+      "word": "苏新皓声乐考核第一",
+      "onboard_time": 1727785639,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 203704,
       "num": 180049,
       "word": "故宫国庆主题壁纸",
@@ -1043,12 +1067,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 200236,
+      "num": 200236,
+      "word": "假期第一个7分之1你做了啥",
+      "onboard_time": 1727785879,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 200231,
       "num": 200231,
       "word": "杨紫波点白裙搭配荷叶领",
       "onboard_time": 1727760678,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 199351,
+      "num": 199351,
+      "word": "温峥嵘演太好了",
+      "onboard_time": 1727783479,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 197030,
@@ -1113,6 +1153,14 @@
       "onboard_time": 1727770459,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 192294,
+      "num": 360030,
+      "word": "这一刻是属于中国人的浪漫",
+      "onboard_time": 1727781798,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 192092,
@@ -1265,6 +1313,14 @@
       "onboard_time": 1727759842,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 173185,
+      "num": 173185,
+      "word": "南昌烟花",
+      "onboard_time": 1727785639,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 171170,
@@ -1459,6 +1515,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 152046,
+      "num": 152046,
+      "word": "数学学习困难门诊到底治什么",
+      "onboard_time": 1727781018,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 151137,
+      "num": 151137,
+      "word": "罗永浩 脱口秀悖论",
+      "onboard_time": 1727785460,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 150062,
       "num": 150062,
       "word": "香港升旗仪式祝福祖国",
@@ -1555,6 +1627,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 138442,
+      "num": 138442,
+      "word": "运20能飞多高",
+      "onboard_time": 1727784019,
+      "rank": 38,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 138388,
       "num": 138388,
       "word": "香港金紫荆广场升五星红旗",
@@ -1609,14 +1689,6 @@
       "onboard_time": 1727754318,
       "rank": 45,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 134551,
-      "num": 134551,
-      "word": "数学学习困难门诊到底治什么",
-      "onboard_time": 1727781018,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 133724,
@@ -1779,6 +1851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 119293,
+      "num": 119293,
+      "word": "流水迢迢不会be吧",
+      "onboard_time": 1727786120,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 119144,
       "num": 119144,
       "word": "泰国曼谷校车起火至少10人死亡",
@@ -1819,12 +1899,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 117470,
-      "num": 360030,
-      "word": "这一刻是属于中国人的浪漫",
-      "onboard_time": 1727781798,
-      "rank": 9,
-      "category": "社会新闻"
+      "raw_hot": 117775,
+      "num": 117775,
+      "word": "八段锦8个动作分解教学",
+      "onboard_time": 1727784199,
+      "rank": 43,
+      "category": "运动健身"
     },
     {
       "raw_hot": 117466,
@@ -1849,6 +1929,14 @@
       "onboard_time": 1727771778,
       "rank": 48,
       "category": "美食"
+    },
+    {
+      "raw_hot": 115094,
+      "num": 115094,
+      "word": "孙颖莎跑动能力",
+      "onboard_time": 1727785218,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 114422,
@@ -1929,6 +2017,22 @@
       "onboard_time": 1727711419,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 106782,
+      "num": 106782,
+      "word": "国庆假期还剩6天",
+      "onboard_time": 1727785398,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 106749,
+      "num": 106749,
+      "word": "合肥肥东3.3级地震系余震",
+      "onboard_time": 1727783420,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 106448,
@@ -2020,7 +2124,7 @@
     },
     {
       "raw_hot": 97594,
-      "num": 97594,
+      "num": 119336,
       "word": "志愿军战士们笑着可观众哭了",
       "onboard_time": 1727778858,
       "rank": 48,
@@ -2139,6 +2243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 83729,
+      "num": 162171,
+      "word": "徐志胜的高情商是刷题刷的",
+      "onboard_time": 1727785338,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 82062,
       "num": 82062,
       "word": "大湾区国庆氛围拉满了",
@@ -2155,11 +2267,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 81730,
+      "num": 106678,
+      "word": "749局 IMAX",
+      "onboard_time": 1727782519,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
       "raw_hot": 80841,
       "num": 339199,
       "word": "祖国永远在我心上",
       "onboard_time": 1727766919,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 80218,
+      "num": 162470,
+      "word": "今天我们筑起新的长城",
+      "onboard_time": 1727786058,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -2273,6 +2401,14 @@
       "onboard_time": 1727758279,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 65010,
+      "num": 138340,
+      "word": "十一旅行带衣服万能公式",
+      "onboard_time": 1727782159,
+      "rank": 41,
+      "category": "旅游"
     },
     {
       "raw_hot": 64455,
@@ -2507,6 +2643,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 36047,
+      "num": 199763,
+      "word": "7天假期收到8份结婚请帖",
+      "onboard_time": 1727786299,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 35109,
       "num": 35109,
       "word": "黎巴嫩网红双胞胎住所附近遭轰炸",
@@ -2619,6 +2763,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 23855,
+      "num": 454397,
+      "word": "神奇的中国",
+      "onboard_time": 1727769078,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 23150,
       "num": 30693,
       "word": "75岁骑行老人国庆重游武汉",
@@ -2633,6 +2785,14 @@
       "onboard_time": 1727752459,
       "rank": 8,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 21222,
+      "num": 199882,
+      "word": "我们回不去了 你们继续前进",
+      "onboard_time": 1727786240,
+      "rank": 13,
+      "category": "电影"
     },
     {
       "raw_hot": 20321,
@@ -2673,14 +2833,6 @@
       "onboard_time": 1727702721,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 10598,
-      "num": 138340,
-      "word": "十一旅行带衣服万能公式",
-      "onboard_time": 1727782159,
-      "rank": 41,
-      "category": "旅游"
     }
   ],
   "hotgov_list": [
