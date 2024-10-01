@@ -1,0 +1,410 @@
+{
+  "runTime": 1727752257975,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1056963,
+        "num": 1169114,
+        "word": "国庆节",
+        "onboard_time": 1727712799,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 624528,
+        "num": 624528,
+        "word": "天安门放飞和平鸽与气球",
+        "onboard_time": 1727741359,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 6482,
+        "num": 505865,
+        "word": "写给先辈们的一封信",
+        "onboard_time": 1727702721,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 832429,
+        "num": 485185,
+        "word": "国庆一人一句祝福新中国",
+        "onboard_time": 1727744118,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 432162,
+        "num": 432162,
+        "word": "重温15次国庆阅兵高燃瞬间",
+        "onboard_time": 1727741478,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 772328,
+        "num": 415308,
+        "word": "国庆节是中国人的浪漫",
+        "onboard_time": 1727738235,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 343628,
+        "num": 343628,
+        "word": "我的身份证上有你的名字",
+        "onboard_time": 1727711179,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 402918,
+        "num": 317620,
+        "word": "国庆节假期第1天",
+        "onboard_time": 1727740936,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261450,
+        "num": 261450,
+        "word": "今天把清澈的爱大声唱给祖国听",
+        "onboard_time": 1727749339,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 82700,
+        "num": 260189,
+        "word": "电影志愿军存亡之战",
+        "onboard_time": 1727745378,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 989394,
+        "num": 257803,
+        "word": "天安门升旗仪式结束男子还未醒",
+        "onboard_time": 1727747299,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 879529,
+        "num": 255140,
+        "word": "秦霄贤常驻综艺停更",
+        "onboard_time": 1727748078,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 437979,
+        "num": 249887,
+        "word": "美公布美俄战机空中交锋视频",
+        "onboard_time": 1727749879,
+        "rank": 12,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 421547,
+        "num": 249838,
+        "word": "张韶涵大雨中笑着唱淋雨一直走",
+        "onboard_time": 1727748859,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137203,
+        "num": 244685,
+        "word": "神州大地飘满中国红",
+        "onboard_time": 1727747058,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 399781,
+        "num": 242348,
+        "word": "国庆天安门广场升国旗完整视频",
+        "onboard_time": 1727738235,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 241148,
+        "num": 241148,
+        "word": "祖国万岁",
+        "onboard_time": 1727713638,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 399425,
+        "num": 234666,
+        "word": "749局",
+        "onboard_time": 1727751198,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 216311,
+        "num": 216311,
+        "word": "赵露思10月行程图",
+        "onboard_time": 1727751559,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207741,
+        "num": 207741,
+        "word": "黎巴嫩网红双胞胎母亲拍下逃难画面",
+        "onboard_time": 1727708900,
+        "rank": 19,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1659337,
+        "num": 207557,
+        "word": "德云社砸挂秦霄贤",
+        "onboard_time": 1727748018,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 381155,
+        "num": 206900,
+        "word": "网红女骑士石膏发生车祸身亡",
+        "onboard_time": 1727705540,
+        "rank": 21,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 373148,
+        "num": 206363,
+        "word": "为什么高铁晚上禁止运行",
+        "onboard_time": 1727748799,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 320454,
+        "num": 205948,
+        "word": "女子称一丝不挂被2次刷开酒店房门",
+        "onboard_time": 1727710519,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 315478,
+        "num": 205043,
+        "word": "女子拔插头被电伤截肢",
+        "onboard_time": 1727709140,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 314833,
+        "num": 204765,
+        "word": "女生寄作业被取错报警让对方重写",
+        "onboard_time": 1727749158,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204203,
+        "num": 204203,
+        "word": "用我的方式祝福祖国",
+        "onboard_time": 1727747717,
+        "rank": 26,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 200642,
+        "num": 200642,
+        "word": "今天适合单曲循环",
+        "onboard_time": 1727738657,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196822,
+        "num": 196822,
+        "word": "赵丽颖 李红樱的行程之书",
+        "onboard_time": 1727751138,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 188721,
+        "num": 188721,
+        "word": "10月这个星座请做好暴富的准备",
+        "onboard_time": 1727748859,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 178099,
+        "num": 178099,
+        "word": "祝福伟大祖国繁荣富强",
+        "onboard_time": 1727743398,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 174152,
+        "num": 174152,
+        "word": "男子嫌小孩推车进电梯慢将车扔出",
+        "onboard_time": 1727739376,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172810,
+        "num": 172810,
+        "word": "2024KPL年度总决赛",
+        "onboard_time": 1727750958,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 165365,
+        "num": 165365,
+        "word": "浴火之路",
+        "onboard_time": 1727751978,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 164214,
+        "num": 164214,
+        "word": "鱿鱼游戏2最新预告",
+        "onboard_time": 1727751499,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163818,
+        "num": 163818,
+        "word": "皮皮鲁40岁正是闯的年纪",
+        "onboard_time": 1727752158,
+        "rank": 35,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 160608,
+        "num": 160608,
+        "word": "10月第一天",
+        "onboard_time": 1727740458,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153065,
+        "num": 153065,
+        "word": "三年了爸妈3个账户都回本了",
+        "onboard_time": 1727741899,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 160300,
+        "num": 152120,
+        "word": "749局预测票房超9亿",
+        "onboard_time": 1727749639,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 145162,
+        "num": 145162,
+        "word": "外籍男子将日本老人推倒致死",
+        "onboard_time": 1727709680,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144634,
+        "num": 144634,
+        "word": "同晒一缕阳光祝祖国生日快乐",
+        "onboard_time": 1727737335,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 139939,
+        "num": 139939,
+        "word": "十月对我好一点",
+        "onboard_time": 1727749039,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 139375,
+        "num": 139375,
+        "word": "电影浴火之路今日上映",
+        "onboard_time": 1727751919,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 127165,
+        "num": 127165,
+        "word": "10月你好",
+        "onboard_time": 1727713220,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125326,
+        "num": 125326,
+        "word": "武汉发生1.8级地震",
+        "onboard_time": 1727749999,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124132,
+        "num": 124132,
+        "word": "Jennie全新粉发造型",
+        "onboard_time": 1727752219,
+        "rank": 45,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 123664,
+        "num": 123664,
+        "word": "江山如画",
+        "onboard_time": 1727747960,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121734,
+        "num": 121734,
+        "word": "猫妈妈和猫猫在真的躲猫猫",
+        "onboard_time": 1727751319,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 88878,
+        "num": 121490,
+        "word": "NBA名宿穆托姆博去世",
+        "onboard_time": 1727747960,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 82630,
+        "num": 121001,
+        "word": "马龙比赛儿子台下转圈圈鼓掌加油",
+        "onboard_time": 1727747838,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#清澈的爱只为中国#"
+    }
+  }
+}
