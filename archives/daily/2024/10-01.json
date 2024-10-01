@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1727786603581,
+  "endTime": 1727787607416,
   "band_list": [
     {
       "raw_hot": 2889500,
@@ -16,6 +16,14 @@
       "word": "天安门放飞和平鸽与气球",
       "onboard_time": 1727741359,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1815738,
+      "num": 252079,
+      "word": "身份证尾号是X的人要吃多少苦",
+      "onboard_time": 1727781678,
+      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -49,14 +57,6 @@
       "onboard_time": 1727756780,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1412297,
-      "num": 252079,
-      "word": "身份证尾号是X的人要吃多少苦",
-      "onboard_time": 1727781678,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1389240,
@@ -395,6 +395,14 @@
       "category": "社会新闻,汽车"
     },
     {
+      "raw_hot": 548104,
+      "num": 194348,
+      "word": "张元英赫本造型",
+      "onboard_time": 1727786839,
+      "rank": 12,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 534705,
       "num": 333733,
       "word": "孙颖莎比赛多次被闪光灯干扰",
@@ -411,6 +419,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 487868,
+      "num": 162022,
+      "word": "伊能静小作文 考公典范",
+      "onboard_time": 1727787259,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 481028,
       "num": 481028,
       "word": "国庆节假期第1天",
@@ -425,6 +441,14 @@
       "onboard_time": 1727771299,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 463513,
+      "num": 463513,
+      "word": "王楚钦vs林德",
+      "onboard_time": 1727785580,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 462172,
@@ -579,6 +603,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 337382,
+      "num": 188743,
+      "word": "孙颖莎没不舒服就是不得劲",
+      "onboard_time": 1727786720,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 326204,
       "num": 326204,
       "word": "今天适合单曲循环",
@@ -601,14 +633,6 @@
       "onboard_time": 1727774000,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 307857,
-      "num": 307857,
-      "word": "王楚钦vs林德",
-      "onboard_time": 1727785580,
-      "rank": 4,
-      "category": "体育"
     },
     {
       "raw_hot": 306086,
@@ -721,6 +745,14 @@
       "onboard_time": 1727710700,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 258925,
+      "num": 258925,
+      "word": "假期第一个7分之1你做了啥",
+      "onboard_time": 1727785879,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 255296,
@@ -931,6 +963,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 223388,
+      "num": 223388,
+      "word": "南昌烟花",
+      "onboard_time": 1727785639,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 220118,
       "num": 220118,
       "word": "以军对黎展开地面行动",
@@ -993,6 +1033,14 @@
       "onboard_time": 1727776280,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 207822,
+      "num": 199351,
+      "word": "温峥嵘演太好了",
+      "onboard_time": 1727783479,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 207239,
@@ -1067,28 +1115,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 200236,
-      "num": 200236,
-      "word": "假期第一个7分之1你做了啥",
-      "onboard_time": 1727785879,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 200231,
       "num": 200231,
       "word": "杨紫波点白裙搭配荷叶领",
       "onboard_time": 1727760678,
       "rank": 32,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 199351,
-      "num": 199351,
-      "word": "温峥嵘演太好了",
-      "onboard_time": 1727783479,
-      "rank": 21,
-      "category": "剧集"
     },
     {
       "raw_hot": 197030,
@@ -1105,6 +1137,14 @@
       "onboard_time": 1727751138,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 196436,
+      "num": 360030,
+      "word": "这一刻是属于中国人的浪漫",
+      "onboard_time": 1727781798,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 194508,
@@ -1155,20 +1195,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 192294,
-      "num": 360030,
-      "word": "这一刻是属于中国人的浪漫",
-      "onboard_time": 1727781798,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 192092,
       "num": 529301,
       "word": "电影志愿军片尾曲MV好哭",
       "onboard_time": 1727753719,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 191388,
+      "num": 191388,
+      "word": "柔佛新山vs上海申花",
+      "onboard_time": 1727787079,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 191329,
@@ -1201,6 +1241,14 @@
       "onboard_time": 1727758819,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 187230,
+      "num": 187230,
+      "word": "徐志胜的高情商是刷题刷的",
+      "onboard_time": 1727785338,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 185651,
@@ -1315,14 +1363,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 173185,
-      "num": 173185,
-      "word": "南昌烟花",
-      "onboard_time": 1727785639,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 171170,
       "num": 171170,
       "word": "为了国庆不添堵结果堵在高速路",
@@ -1353,6 +1393,22 @@
       "onboard_time": 1727771178,
       "rank": 18,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 166016,
+      "num": 166016,
+      "word": "Minnie走秀",
+      "onboard_time": 1727787440,
+      "rank": 26,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 165761,
+      "num": 165761,
+      "word": "国庆假期还剩6天",
+      "onboard_time": 1727785398,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 164894,
@@ -1401,6 +1457,14 @@
       "onboard_time": 1727754318,
       "rank": 37,
       "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 161339,
+      "num": 161339,
+      "word": "赵今麦荷叶边波点黑裙",
+      "onboard_time": 1727786839,
+      "rank": 31,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 161198,
@@ -1931,6 +1995,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 115482,
+      "num": 115482,
+      "word": "男子国庆假期收8份结婚请帖",
+      "onboard_time": 1727787259,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 115094,
       "num": 115094,
       "word": "孙颖莎跑动能力",
@@ -1979,6 +2051,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 110244,
+      "num": 199882,
+      "word": "我们回不去了 你们继续前进",
+      "onboard_time": 1727786240,
+      "rank": 13,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 109362,
+      "num": 109362,
+      "word": "高承睿3比1户上隼辅",
+      "onboard_time": 1727787379,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 108996,
       "num": 108996,
       "word": "哀牢山 颜料师",
@@ -2017,14 +2105,6 @@
       "onboard_time": 1727711419,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 106782,
-      "num": 106782,
-      "word": "国庆假期还剩6天",
-      "onboard_time": 1727785398,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 106749,
@@ -2081,6 +2161,14 @@
       "onboard_time": 1727707340,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 103608,
+      "num": 103608,
+      "word": "国庆档新片票房突破5亿",
+      "onboard_time": 1727787559,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 102667,
@@ -2171,6 +2259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 94797,
+      "num": 199763,
+      "word": "7天假期收到8份结婚请帖",
+      "onboard_time": 1727786299,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 94267,
       "num": 150315,
       "word": "点赞中国红",
@@ -2243,14 +2339,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 83729,
-      "num": 162171,
-      "word": "徐志胜的高情商是刷题刷的",
-      "onboard_time": 1727785338,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 82062,
       "num": 82062,
       "word": "大湾区国庆氛围拉满了",
@@ -2284,7 +2372,7 @@
     },
     {
       "raw_hot": 80218,
-      "num": 162470,
+      "num": 192914,
       "word": "今天我们筑起新的长城",
       "onboard_time": 1727786058,
       "rank": 29,
@@ -2643,14 +2731,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 36047,
-      "num": 199763,
-      "word": "7天假期收到8份结婚请帖",
-      "onboard_time": 1727786299,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 35109,
       "num": 35109,
       "word": "黎巴嫩网红双胞胎住所附近遭轰炸",
@@ -2696,6 +2776,14 @@
       "word": "火车上旅客最熟悉的陌生人",
       "onboard_time": 1727726413,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 32224,
+      "num": 454397,
+      "word": "神奇的中国",
+      "onboard_time": 1727769078,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -2763,14 +2851,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 23855,
-      "num": 454397,
-      "word": "神奇的中国",
-      "onboard_time": 1727769078,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 23150,
       "num": 30693,
       "word": "75岁骑行老人国庆重游武汉",
@@ -2785,14 +2865,6 @@
       "onboard_time": 1727752459,
       "rank": 8,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 21222,
-      "num": 199882,
-      "word": "我们回不去了 你们继续前进",
-      "onboard_time": 1727786240,
-      "rank": 13,
-      "category": "电影"
     },
     {
       "raw_hot": 20321,

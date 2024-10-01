@@ -1,6 +1,6 @@
 {
   "startTime": 1727540758074,
-  "endTime": 1727786603581,
+  "endTime": 1727787607416,
   "band_list": [
     {
       "raw_hot": 2889500,
@@ -64,6 +64,14 @@
       "word": "国庆请2休10超长假受打工人追捧",
       "onboard_time": 1727578277,
       "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1815738,
+      "num": 252079,
+      "word": "身份证尾号是X的人要吃多少苦",
+      "onboard_time": 1727781678,
+      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -169,14 +177,6 @@
       "onboard_time": 1727756780,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1412297,
-      "num": 252079,
-      "word": "身份证尾号是X的人要吃多少苦",
-      "onboard_time": 1727781678,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1403282,
@@ -1179,6 +1179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 548104,
+      "num": 194348,
+      "word": "张元英赫本造型",
+      "onboard_time": 1727786839,
+      "rank": 12,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 546388,
       "num": 405989,
       "word": "华伦天奴大秀",
@@ -1355,6 +1363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 487868,
+      "num": 162022,
+      "word": "伊能静小作文 考公典范",
+      "onboard_time": 1727787259,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 483724,
       "num": 437477,
       "word": "董宇辉纠正科普错误",
@@ -1408,6 +1424,14 @@
       "word": "马龙换球衣",
       "onboard_time": 1727614399,
       "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 463513,
+      "num": 463513,
+      "word": "王楚钦vs林德",
+      "onboard_time": 1727785580,
+      "rank": 4,
       "category": "体育"
     },
     {
@@ -2067,6 +2091,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 337382,
+      "num": 188743,
+      "word": "孙颖莎没不舒服就是不得劲",
+      "onboard_time": 1727786720,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 334809,
       "num": 205975,
       "word": "潘展乐感谢陈奕迅邀请",
@@ -2257,14 +2289,6 @@
       "onboard_time": 1727684480,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 307857,
-      "num": 307857,
-      "word": "王楚钦vs林德",
-      "onboard_time": 1727785580,
-      "rank": 4,
-      "category": "体育"
     },
     {
       "raw_hot": 307402,
@@ -2681,6 +2705,14 @@
       "onboard_time": 1727587520,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 258925,
+      "num": 258925,
+      "word": "假期第一个7分之1你做了啥",
+      "onboard_time": 1727785879,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 258310,
@@ -3163,6 +3195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 223388,
+      "num": 223388,
+      "word": "南昌烟花",
+      "onboard_time": 1727785639,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 223171,
       "num": 223171,
       "word": "男子发私照造黄谣报复前女友被抓",
@@ -3435,6 +3475,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 207822,
+      "num": 199351,
+      "word": "温峥嵘演太好了",
+      "onboard_time": 1727783479,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 207742,
       "num": 326543,
       "word": "朱一龙演技",
@@ -3627,14 +3675,6 @@
       "category": "自然"
     },
     {
-      "raw_hot": 200236,
-      "num": 200236,
-      "word": "假期第一个7分之1你做了啥",
-      "onboard_time": 1727785879,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 200231,
       "num": 200231,
       "word": "杨紫波点白裙搭配荷叶领",
@@ -3665,14 +3705,6 @@
       "onboard_time": 1727663419,
       "rank": 31,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 199351,
-      "num": 199351,
-      "word": "温峥嵘演太好了",
-      "onboard_time": 1727783479,
-      "rank": 21,
-      "category": "剧集"
     },
     {
       "raw_hot": 199107,
@@ -3785,6 +3817,14 @@
       "onboard_time": 1727666359,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 196436,
+      "num": 360030,
+      "word": "这一刻是属于中国人的浪漫",
+      "onboard_time": 1727781798,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 196360,
@@ -3939,14 +3979,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 192294,
-      "num": 360030,
-      "word": "这一刻是属于中国人的浪漫",
-      "onboard_time": 1727781798,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 192283,
       "num": 191572,
       "word": "我们的歌金曲巅峰夜直播",
@@ -3993,6 +4025,14 @@
       "onboard_time": 1727615600,
       "rank": 44,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 191388,
+      "num": 191388,
+      "word": "柔佛新山vs上海申花",
+      "onboard_time": 1727787079,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 191329,
@@ -4129,6 +4169,14 @@
       "onboard_time": 1727706501,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 187230,
+      "num": 187230,
+      "word": "徐志胜的高情商是刷题刷的",
+      "onboard_time": 1727785338,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 187207,
@@ -4523,14 +4571,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 173185,
-      "num": 173185,
-      "word": "南昌烟花",
-      "onboard_time": 1727785639,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 173035,
       "num": 173035,
       "word": "陈奕迅 亲一万个人要亲很久",
@@ -4723,6 +4763,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 166016,
+      "num": 166016,
+      "word": "Minnie走秀",
+      "onboard_time": 1727787440,
+      "rank": 26,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 165997,
       "num": 281392,
       "word": "可我就是心疼卫昭",
@@ -4737,6 +4785,14 @@
       "onboard_time": 1727684299,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 165761,
+      "num": 165761,
+      "word": "国庆假期还剩6天",
+      "onboard_time": 1727785398,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 165502,
@@ -4921,6 +4977,14 @@
       "onboard_time": 1727669120,
       "rank": 37,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 161339,
+      "num": 161339,
+      "word": "赵今麦荷叶边波点黑裙",
+      "onboard_time": 1727786839,
+      "rank": 31,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 161198,
@@ -6939,6 +7003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 115482,
+      "num": 115482,
+      "word": "男子国庆假期收8份结婚请帖",
+      "onboard_time": 1727787259,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 115426,
       "num": 115426,
       "word": "网传中信建投140万人排队开户",
@@ -7139,6 +7211,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 110244,
+      "num": 199882,
+      "word": "我们回不去了 你们继续前进",
+      "onboard_time": 1727786240,
+      "rank": 13,
+      "category": "电影"
+    },
+    {
       "raw_hot": 110148,
       "num": 115273,
       "word": "上海住房增值税征免年限5年调整为2年",
@@ -7153,6 +7233,14 @@
       "onboard_time": 1727709320,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 109362,
+      "num": 109362,
+      "word": "高承睿3比1户上隼辅",
+      "onboard_time": 1727787379,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 109168,
@@ -7233,14 +7321,6 @@
       "onboard_time": 1727698520,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 106782,
-      "num": 106782,
-      "word": "国庆假期还剩6天",
-      "onboard_time": 1727785398,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 106749,
@@ -7353,6 +7433,14 @@
       "onboard_time": 1727526499,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 103608,
+      "num": 103608,
+      "word": "国庆档新片票房突破5亿",
+      "onboard_time": 1727787559,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 103539,
@@ -7651,6 +7739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 94797,
+      "num": 199763,
+      "word": "7天假期收到8份结婚请帖",
+      "onboard_time": 1727786299,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 94267,
       "num": 150315,
       "word": "点赞中国红",
@@ -7883,14 +7979,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 83729,
-      "num": 162171,
-      "word": "徐志胜的高情商是刷题刷的",
-      "onboard_time": 1727785338,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 82404,
       "num": 157143,
       "word": "邓恩熙头纱出场",
@@ -7940,7 +8028,7 @@
     },
     {
       "raw_hot": 80218,
-      "num": 162470,
+      "num": 192914,
       "word": "今天我们筑起新的长城",
       "onboard_time": 1727786058,
       "rank": 29,
@@ -8947,14 +9035,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 36047,
-      "num": 199763,
-      "word": "7天假期收到8份结婚请帖",
-      "onboard_time": 1727786299,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 35520,
       "num": 61529,
       "word": "十个勤天熟得让我有些害怕",
@@ -9096,6 +9176,14 @@
       "word": "火车上旅客最熟悉的陌生人",
       "onboard_time": 1727726413,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 32224,
+      "num": 454397,
+      "word": "神奇的中国",
+      "onboard_time": 1727769078,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -9307,14 +9395,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 23855,
-      "num": 454397,
-      "word": "神奇的中国",
-      "onboard_time": 1727769078,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 23643,
       "num": 198819,
       "word": "曾黎带中国茶去巴黎时装周",
@@ -9409,14 +9489,6 @@
       "onboard_time": 1727617941,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 21222,
-      "num": 199882,
-      "word": "我们回不去了 你们继续前进",
-      "onboard_time": 1727786240,
-      "rank": 13,
-      "category": "电影"
     },
     {
       "raw_hot": 20914,
