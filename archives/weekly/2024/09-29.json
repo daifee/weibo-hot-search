@@ -1,6 +1,6 @@
 {
   "startTime": 1727540758074,
-  "endTime": 1727797133571,
+  "endTime": 1727800165777,
   "band_list": [
     {
       "raw_hot": 11925969,
@@ -457,6 +457,14 @@
       "onboard_time": 1727597717,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1030303,
+      "num": 757290,
+      "word": "A股彻底爆了现在进场还来得及吗",
+      "onboard_time": 1727795841,
+      "rank": 19,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 1024556,
@@ -1121,6 +1129,14 @@
       "onboard_time": 1727616080,
       "rank": 38,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 617321,
+      "num": 617321,
+      "word": "重庆断崖式降温后市民乱穿衣",
+      "onboard_time": 1727795660,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 616890,
@@ -3363,14 +3379,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 226545,
-      "num": 226545,
-      "word": "重庆断崖式降温后市民乱穿衣",
-      "onboard_time": 1727795660,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 224880,
       "num": 224880,
       "word": "杨紫出席VOGUE晚宴",
@@ -4065,6 +4073,14 @@
       "onboard_time": 1727577378,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 195836,
+      "num": 195836,
+      "word": "安溥手写国庆祝福",
+      "onboard_time": 1727798899,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 195487,
@@ -4795,6 +4811,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 174740,
+      "num": 789104,
+      "word": "上海东方明珠塔为国庆亮灯",
+      "onboard_time": 1727797699,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 174378,
       "num": 174378,
       "word": "专家建议买新能源车可以不买电池",
@@ -5201,6 +5225,14 @@
       "onboard_time": 1727664919,
       "rank": 37,
       "category": "财经"
+    },
+    {
+      "raw_hot": 162649,
+      "num": 759635,
+      "word": "华春莹连发18组对比图展现中国变化",
+      "onboard_time": 1727798418,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 162298,
@@ -7603,6 +7635,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 109759,
+      "num": 109759,
+      "word": "关晓彤小猫短发",
+      "onboard_time": 1727799677,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 109362,
       "num": 109362,
       "word": "高承睿3比1户上隼辅",
@@ -8067,6 +8107,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 96607,
+      "num": 96607,
+      "word": "易烊千玺活动现场幕后花絮",
+      "onboard_time": 1727798117,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 96294,
       "num": 157810,
       "word": "沈月杨超越聊自己医美经历",
@@ -8121,6 +8169,14 @@
       "onboard_time": 1727748018,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 94086,
+      "num": 141194,
+      "word": "749局成国庆节票房冠军",
+      "onboard_time": 1727789485,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 93776,
@@ -8443,6 +8499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 78408,
+      "num": 78408,
+      "word": "张子枫演的李晓",
+      "onboard_time": 1727798719,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 78043,
       "num": 157411,
       "word": "付鹏与男子合影",
@@ -8547,6 +8611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 75074,
+      "num": 75074,
+      "word": "爱祖国刻在中国人DNA里了",
+      "onboard_time": 1727799138,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 75036,
       "num": 157187,
       "word": "张真源 地铁跑酷",
@@ -8601,14 +8673,6 @@
       "onboard_time": 1727530040,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 71590,
-      "num": 420306,
-      "word": "A股彻底爆了现在进场还来得及吗",
-      "onboard_time": 1727795841,
-      "rank": 19,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 71011,

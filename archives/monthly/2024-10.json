@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1727797133571,
+  "endTime": 1727800165777,
   "band_list": [
     {
       "raw_hot": 11925969,
@@ -177,6 +177,14 @@
       "onboard_time": 1727783358,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1030303,
+      "num": 757290,
+      "word": "A股彻底爆了现在进场还来得及吗",
+      "onboard_time": 1727795841,
+      "rank": 19,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 1024556,
@@ -425,6 +433,14 @@
       "onboard_time": 1727794162,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 617321,
+      "num": 617321,
+      "word": "重庆断崖式降温后市民乱穿衣",
+      "onboard_time": 1727795660,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 616890,
@@ -1147,14 +1163,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 226545,
-      "num": 226545,
-      "word": "重庆断崖式降温后市民乱穿衣",
-      "onboard_time": 1727795660,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 224880,
       "num": 224880,
       "word": "杨紫出席VOGUE晚宴",
@@ -1385,6 +1393,14 @@
       "onboard_time": 1727781798,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 195836,
+      "num": 195836,
+      "word": "安溥手写国庆祝福",
+      "onboard_time": 1727798899,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 195487,
@@ -1635,6 +1651,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 174740,
+      "num": 789104,
+      "word": "上海东方明珠塔为国庆亮灯",
+      "onboard_time": 1727797699,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 171622,
       "num": 171622,
       "word": "王楚钦蓄势待发",
@@ -1721,6 +1745,14 @@
       "onboard_time": 1727772979,
       "rank": 32,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 162649,
+      "num": 759635,
+      "word": "华春莹连发18组对比图展现中国变化",
+      "onboard_time": 1727798418,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 162104,
@@ -2435,6 +2467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 109759,
+      "num": 109759,
+      "word": "关晓彤小猫短发",
+      "onboard_time": 1727799677,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 109362,
       "num": 109362,
       "word": "高承睿3比1户上隼辅",
@@ -2619,6 +2659,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 96607,
+      "num": 96607,
+      "word": "易烊千玺活动现场幕后花絮",
+      "onboard_time": 1727798117,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 95882,
       "num": 95882,
       "word": "林高远王艺迪混双进8强",
@@ -2649,6 +2697,14 @@
       "onboard_time": 1727748018,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 94086,
+      "num": 141194,
+      "word": "749局成国庆节票房冠军",
+      "onboard_time": 1727789485,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 92578,
@@ -2779,6 +2835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 78408,
+      "num": 78408,
+      "word": "张子枫演的李晓",
+      "onboard_time": 1727798719,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 78269,
       "num": 103885,
       "word": "中国选手首进中网男单四强",
@@ -2819,6 +2883,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 75074,
+      "num": 75074,
+      "word": "爱祖国刻在中国人DNA里了",
+      "onboard_time": 1727799138,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 73745,
       "num": 103583,
       "word": "马龙3比0皮切福德",
@@ -2841,14 +2913,6 @@
       "onboard_time": 1727703800,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 71590,
-      "num": 420306,
-      "word": "A股彻底爆了现在进场还来得及吗",
-      "onboard_time": 1727795841,
-      "rank": 19,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 71023,
