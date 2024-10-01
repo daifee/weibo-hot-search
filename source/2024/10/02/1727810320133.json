@@ -1,0 +1,410 @@
+{
+  "runTime": 1727810320133,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 116250,
+        "num": 143639,
+        "word": "华春莹连发18组对比图展现中国变化",
+        "onboard_time": 1727798418,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 48828,
+        "num": 143293,
+        "word": "上海东方明珠塔为国庆亮灯",
+        "onboard_time": 1727797699,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 12178,
+        "num": 143182,
+        "word": "国庆假期预计近20亿人次跨区域出行",
+        "onboard_time": 1727792901,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 397856,
+        "num": 143139,
+        "word": "王楚钦止步中国大满贯32强",
+        "onboard_time": 1727789425,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143082,
+        "num": 143082,
+        "word": "电影749局 观后感",
+        "onboard_time": 1727789063,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1718,
+        "num": 143011,
+        "word": "国庆博物馆打卡攻略",
+        "onboard_time": 1727792721,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2013,
+        "num": 142290,
+        "word": "太空视角看日新月异的中国",
+        "onboard_time": 1727793621,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 92268,
+        "num": 141138,
+        "word": "王楚钦1比3林德",
+        "onboard_time": 1727789425,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 20079,
+        "num": 141001,
+        "word": "志愿军 第二部比第一部好看",
+        "onboard_time": 1727787800,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 13796,
+        "num": 140018,
+        "word": "移民管理警察为界碑一笔一划描红",
+        "onboard_time": 1727808132,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 306496,
+        "num": 139451,
+        "word": "伊朗称向以色列发射导弹为合法防御",
+        "onboard_time": 1727804954,
+        "rank": 10,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 233478,
+        "num": 139001,
+        "word": "拜登召集国家安全团队紧急会议",
+        "onboard_time": 1727804054,
+        "rank": 11,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 223635,
+        "num": 138329,
+        "word": "以色列全境机场暂停飞机起降",
+        "onboard_time": 1727808732,
+        "rank": 12,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 152143,
+        "num": 137866,
+        "word": "A股彻底爆了现在进场还来得及吗",
+        "onboard_time": 1727795841,
+        "rank": 13,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 137246,
+        "num": 137246,
+        "word": "身份证尾号是X的人要吃多少苦",
+        "onboard_time": 1727781678,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132006,
+        "num": 132006,
+        "word": "叙利亚著名主播在以空袭中死亡",
+        "onboard_time": 1727792181,
+        "rank": 15,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 130624,
+        "num": 130624,
+        "word": "王皓表情",
+        "onboard_time": 1727792721,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 96867,
+        "num": 96867,
+        "word": "关晓彤小猫短发",
+        "onboard_time": 1727799677,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 95371,
+        "num": 95371,
+        "word": "伊朗向以色列发动大规模导弹袭击",
+        "onboard_time": 1727802615,
+        "rank": 18,
+        "category": "国外时政,军事"
+      },
+      {
+        "raw_hot": 80363,
+        "num": 80363,
+        "word": "伊能静小作文 考公典范",
+        "onboard_time": 1727787259,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 79659,
+        "num": 79659,
+        "word": "重庆断崖式降温后市民乱穿衣",
+        "onboard_time": 1727795660,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28621,
+        "num": 76650,
+        "word": "国庆假期首日北京下雪了",
+        "onboard_time": 1727795060,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 74247,
+        "num": 74247,
+        "word": "球童是王皓儿子",
+        "onboard_time": 1727794402,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 63403,
+        "num": 63403,
+        "word": "赵丽颖演技",
+        "onboard_time": 1727792360,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 59732,
+        "num": 59732,
+        "word": "张元英赫本造型",
+        "onboard_time": 1727786839,
+        "rank": 24,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 57913,
+        "num": 57913,
+        "word": "王楚钦vs林德",
+        "onboard_time": 1727785580,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 47776,
+        "num": 47776,
+        "word": "G社镜头下的单依纯",
+        "onboard_time": 1727805793,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 42806,
+        "num": 42806,
+        "word": "刘烨好帅",
+        "onboard_time": 1727792360,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 38581,
+        "num": 38581,
+        "word": "749局成国庆节票房冠军",
+        "onboard_time": 1727789485,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 36943,
+        "num": 38577,
+        "word": "倪夏莲流泪说让大家失望了",
+        "onboard_time": 1727789003,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 35184,
+        "num": 38562,
+        "word": "安溥手写国庆祝福",
+        "onboard_time": 1727798899,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32558,
+        "num": 38546,
+        "word": "闫安说王楚钦要熬过艰难的阶段",
+        "onboard_time": 1727794162,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 31341,
+        "num": 38530,
+        "word": "孙颖莎对马龙说hello爸爸",
+        "onboard_time": 1727783358,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 30885,
+        "num": 38514,
+        "word": "以色列总理向伊朗人民喊话",
+        "onboard_time": 1727779939,
+        "rank": 33,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 30521,
+        "num": 38504,
+        "word": "赵今麦miumiu大秀状态",
+        "onboard_time": 1727795780,
+        "rank": 34,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 30329,
+        "num": 38493,
+        "word": "Minnie走秀",
+        "onboard_time": 1727787440,
+        "rank": 35,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 29672,
+        "num": 38472,
+        "word": "王楚钦好帅的二次启动",
+        "onboard_time": 1727788942,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 27868,
+        "num": 38471,
+        "word": "孙颖莎没不舒服就是不得劲",
+        "onboard_time": 1727786720,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 28927,
+        "num": 38456,
+        "word": "林德回应战胜王楚钦",
+        "onboard_time": 1727791403,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 26126,
+        "num": 38433,
+        "word": "剩下的6天假期准备怎么过",
+        "onboard_time": 1727788820,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25536,
+        "num": 38421,
+        "word": "年轻人从头再来一次又如何",
+        "onboard_time": 1727791761,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 25448,
+        "num": 38409,
+        "word": "刘浩存深V衬衫造型",
+        "onboard_time": 1727780779,
+        "rank": 41,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 25444,
+        "num": 38400,
+        "word": "7天假期收到8份结婚请帖",
+        "onboard_time": 1727786299,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24483,
+        "num": 38383,
+        "word": "炉石传说",
+        "onboard_time": 1727804174,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 24083,
+        "num": 38375,
+        "word": "爱祖国刻在中国人DNA里了",
+        "onboard_time": 1727799138,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22789,
+        "num": 38355,
+        "word": "维港国庆烟花汇演首次加入无人机",
+        "onboard_time": 1727790743,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22622,
+        "num": 38346,
+        "word": "神舟十九号载人飞船发射时间",
+        "onboard_time": 1727805072,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 22522,
+        "num": 38323,
+        "word": "合肥地震",
+        "onboard_time": 1727772199,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21174,
+        "num": 38313,
+        "word": "人人人人人你人人人人人",
+        "onboard_time": 1727756059,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21150,
+        "num": 38305,
+        "word": "三代人接力合唱今天是你的生日",
+        "onboard_time": 1727801716,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#增强做中国人的骨气和底气#"
+    }
+  }
+}

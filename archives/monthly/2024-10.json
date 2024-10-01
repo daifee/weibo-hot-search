@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1727808244218,
+  "endTime": 1727810320133,
   "band_list": [
     {
       "raw_hot": 11925969,
@@ -1209,6 +1209,14 @@
       "onboard_time": 1727780300,
       "rank": 26,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 223635,
+      "num": 138329,
+      "word": "以色列全境机场暂停飞机起降",
+      "onboard_time": 1727808732,
+      "rank": 12,
+      "category": "国外时政"
     },
     {
       "raw_hot": 223496,
@@ -3467,19 +3475,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 22622,
+      "num": 203574,
+      "word": "神舟十九号载人飞船发射时间",
+      "onboard_time": 1727805072,
+      "rank": 15,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 22175,
       "num": 341417,
       "word": "中国人在太空祝福祖国",
       "onboard_time": 1727752459,
       "rank": 8,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 21228,
-      "num": 203574,
-      "word": "神舟十九号载人飞船发射时间",
-      "onboard_time": 1727805072,
-      "rank": 15,
       "category": "国内时政"
     },
     {
@@ -3523,20 +3531,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 13796,
+      "num": 140018,
+      "word": "移民管理警察为界碑一笔一划描红",
+      "onboard_time": 1727808132,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 13432,
       "num": 75295,
       "word": "一镜到底看新中国成立75周年",
       "onboard_time": 1727808014,
       "rank": 25,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 11597,
-      "num": 74881,
-      "word": "移民管理警察为界碑一笔一划描红",
-      "onboard_time": 1727808132,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 11267,
