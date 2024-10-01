@@ -1,0 +1,410 @@
+{
+  "runTime": 1727761179338,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1178176,
+        "num": 1188508,
+        "word": "人人人人人你人人人人人",
+        "onboard_time": 1727756059,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 922245,
+        "num": 922245,
+        "word": "749局",
+        "onboard_time": 1727751198,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 111548,
+        "num": 638606,
+        "word": "亲爱的祖国生日快乐",
+        "onboard_time": 1727752878,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 634685,
+        "num": 634685,
+        "word": "王楚钦再现一字马拉伸",
+        "onboard_time": 1727757440,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 625680,
+        "num": 625680,
+        "word": "天安门广场升过的国旗去哪了",
+        "onboard_time": 1727755759,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 598799,
+        "num": 598799,
+        "word": "洲际导弹",
+        "onboard_time": 1727752638,
+        "rank": 5,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 596347,
+        "num": 596347,
+        "word": "A股暴涨后股民消费升级",
+        "onboard_time": 1727758100,
+        "rank": 6,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 595996,
+        "num": 595996,
+        "word": "国庆一人一句祝福新中国",
+        "onboard_time": 1727744118,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 379995,
+        "num": 379995,
+        "word": "孙颖莎vs蒯曼",
+        "onboard_time": 1727758639,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133156,
+        "num": 377138,
+        "word": "红旗之下",
+        "onboard_time": 1727757379,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 851161,
+        "num": 376946,
+        "word": "新闻联播里的伊能静",
+        "onboard_time": 1727756780,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 376348,
+        "num": 376348,
+        "word": "国庆节假期第1天",
+        "onboard_time": 1727740936,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 368655,
+        "num": 368655,
+        "word": "秦霄贤常驻综艺停更",
+        "onboard_time": 1727748078,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 374950,
+        "num": 367357,
+        "word": "国庆假期第一天你在干什么",
+        "onboard_time": 1727748859,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29815,
+        "num": 352067,
+        "word": "国庆一起云游全国景区",
+        "onboard_time": 1727759658,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 351820,
+        "num": 351820,
+        "word": "孙颖莎王楚钦祝福祖国",
+        "onboard_time": 1727754258,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 338702,
+        "num": 338702,
+        "word": "国庆节",
+        "onboard_time": 1727712799,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 54665,
+        "num": 338079,
+        "word": "张晚意任敏古装cp感",
+        "onboard_time": 1727760139,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 206504,
+        "num": 337381,
+        "word": "国庆档",
+        "onboard_time": 1727760201,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 44145,
+        "num": 336249,
+        "word": "张帅1比0弗莱彻",
+        "onboard_time": 1727760440,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 924303,
+        "num": 335284,
+        "word": "德云社砸挂秦霄贤",
+        "onboard_time": 1727748018,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 122531,
+        "num": 334682,
+        "word": "只此青绿",
+        "onboard_time": 1727759899,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 334089,
+        "num": 334089,
+        "word": "女子没钱产检并流产医生两次硬发红包",
+        "onboard_time": 1727760799,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 275289,
+        "num": 275289,
+        "word": "女子称一丝不挂被2次刷开酒店房门",
+        "onboard_time": 1727710519,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 58195,
+        "num": 268897,
+        "word": "爆款好人",
+        "onboard_time": 1727758279,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 268845,
+        "num": 268845,
+        "word": "天安门升旗仪式结束男子还未醒",
+        "onboard_time": 1727747299,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 268381,
+        "num": 268381,
+        "word": "心动的信号",
+        "onboard_time": 1727757319,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 256146,
+        "num": 256146,
+        "word": "赵丽颖完成了演员与角色之间的交汇",
+        "onboard_time": 1727759479,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 238664,
+        "num": 238664,
+        "word": "东北雨姐道歉视频不见了",
+        "onboard_time": 1727755039,
+        "rank": 28,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 236489,
+        "num": 236489,
+        "word": "为什么高铁晚上禁止运行",
+        "onboard_time": 1727748799,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227274,
+        "num": 227274,
+        "word": "浴火之路",
+        "onboard_time": 1727751978,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 211529,
+        "num": 211529,
+        "word": "女生寄作业被取错报警让对方重写",
+        "onboard_time": 1727749158,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200231,
+        "num": 200231,
+        "word": "杨紫波点白裙搭配荷叶领",
+        "onboard_time": 1727760678,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 193568,
+        "num": 193568,
+        "word": "大同下雪",
+        "onboard_time": 1727752760,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184486,
+        "num": 184486,
+        "word": "李现当中网站哥",
+        "onboard_time": 1727760079,
+        "rank": 34,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 182251,
+        "num": 182251,
+        "word": "迪丽热巴的十月行程图",
+        "onboard_time": 1727756661,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181191,
+        "num": 181191,
+        "word": "今天把清澈的爱大声唱给祖国听",
+        "onboard_time": 1727749339,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181095,
+        "num": 181095,
+        "word": "假期第一天你睡到了几点",
+        "onboard_time": 1727757260,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177673,
+        "num": 177673,
+        "word": "祝福伟大祖国繁荣富强",
+        "onboard_time": 1727743398,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 173407,
+        "num": 173407,
+        "word": "爱奇艺10月片单",
+        "onboard_time": 1727758039,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163374,
+        "num": 163374,
+        "word": "零点整准时出生宝宝取名十一",
+        "onboard_time": 1727754858,
+        "rank": 40,
+        "category": "母婴育儿,社会新闻"
+      },
+      {
+        "raw_hot": 162748,
+        "num": 162748,
+        "word": "他们的愿望就藏在万家灯火之间",
+        "onboard_time": 1727754079,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161124,
+        "num": 161124,
+        "word": "阴阳师",
+        "onboard_time": 1727759842,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 157564,
+        "num": 157564,
+        "word": "南部战区位南海战备巡航",
+        "onboard_time": 1727760201,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 140896,
+        "num": 140896,
+        "word": "重温15次国庆阅兵高燃瞬间",
+        "onboard_time": 1727741478,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 140175,
+        "num": 140175,
+        "word": "电影浴火之路观后感",
+        "onboard_time": 1727755637,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 138740,
+        "num": 138740,
+        "word": "半熟男女 克服弱者羞耻",
+        "onboard_time": 1727756780,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133373,
+        "num": 133373,
+        "word": "全红婵等奥运冠军唱响我爱你中国",
+        "onboard_time": 1727761038,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127515,
+        "num": 132726,
+        "word": "电影志愿军片尾曲MV好哭",
+        "onboard_time": 1727753719,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 132632,
+        "num": 132632,
+        "word": "和平精英",
+        "onboard_time": 1727760258,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#清澈的爱只为中国#"
+    }
+  }
+}

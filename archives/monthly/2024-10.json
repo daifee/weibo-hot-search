@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1727760118626,
+  "endTime": 1727761179338,
   "band_list": [
     {
       "raw_hot": 2157671,
@@ -107,6 +107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 922245,
+      "num": 922245,
+      "word": "749局",
+      "onboard_time": 1727751198,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 864802,
       "num": 587909,
       "word": "长期吃白人饭的人都怎么样了",
@@ -121,14 +129,6 @@
       "onboard_time": 1727756300,
       "rank": 9,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 804107,
-      "num": 804107,
-      "word": "749局",
-      "onboard_time": 1727751198,
-      "rank": 17,
-      "category": "电影"
     },
     {
       "raw_hot": 762775,
@@ -171,8 +171,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 623641,
-      "num": 623641,
+      "raw_hot": 634685,
+      "num": 634685,
       "word": "王楚钦再现一字马拉伸",
       "onboard_time": 1727757440,
       "rank": 37,
@@ -193,6 +193,14 @@
       "onboard_time": 1727738837,
       "rank": 3,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 596347,
+      "num": 596347,
+      "word": "A股暴涨后股民消费升级",
+      "onboard_time": 1727758100,
+      "rank": 7,
+      "category": "财经"
     },
     {
       "raw_hot": 594027,
@@ -233,14 +241,6 @@
       "onboard_time": 1727715915,
       "rank": 15,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 486683,
-      "num": 486683,
-      "word": "A股暴涨后股民消费升级",
-      "onboard_time": 1727758100,
-      "rank": 7,
-      "category": "财经"
     },
     {
       "raw_hot": 481028,
@@ -323,6 +323,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 379995,
+      "num": 379995,
+      "word": "孙颖莎vs蒯曼",
+      "onboard_time": 1727758639,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 374950,
+      "num": 367357,
+      "word": "国庆假期第一天你在干什么",
+      "onboard_time": 1727748859,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 369496,
       "num": 360281,
       "word": "赵露思10月行程图",
@@ -337,6 +353,14 @@
       "onboard_time": 1727747717,
       "rank": 17,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 334089,
+      "num": 334089,
+      "word": "女子没钱产检并流产医生两次硬发红包",
+      "onboard_time": 1727760799,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 326204,
@@ -385,14 +409,6 @@
       "onboard_time": 1727755039,
       "rank": 46,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 288296,
-      "num": 288296,
-      "word": "国庆假期第一天你在干什么",
-      "onboard_time": 1727748859,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 286667,
@@ -449,6 +465,14 @@
       "onboard_time": 1727710700,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 256146,
+      "num": 256146,
+      "word": "赵丽颖完成了演员与角色之间的交汇",
+      "onboard_time": 1727759479,
+      "rank": 35,
+      "category": "电影"
     },
     {
       "raw_hot": 254269,
@@ -555,8 +579,8 @@
       "category": "财经"
     },
     {
-      "raw_hot": 225015,
-      "num": 225015,
+      "raw_hot": 227274,
+      "num": 227274,
       "word": "浴火之路",
       "onboard_time": 1727751978,
       "rank": 33,
@@ -603,14 +627,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 215890,
-      "num": 215890,
-      "word": "孙颖莎vs蒯曼",
-      "onboard_time": 1727758639,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 210515,
       "num": 210515,
       "word": "祝福伟大祖国繁荣富强",
@@ -635,6 +651,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 206504,
+      "num": 337381,
+      "word": "国庆档",
+      "onboard_time": 1727760201,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 206068,
       "num": 206068,
       "word": "电影浴火之路观后感",
@@ -651,6 +675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 200231,
+      "num": 200231,
+      "word": "杨紫波点白裙搭配荷叶领",
+      "onboard_time": 1727760678,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 197030,
       "num": 197030,
       "word": "李现观战郑钦文比赛",
@@ -664,14 +696,6 @@
       "word": "赵丽颖 李红樱的行程之书",
       "onboard_time": 1727751138,
       "rank": 29,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 196451,
-      "num": 196451,
-      "word": "赵丽颖完成了演员与角色之间的交汇",
-      "onboard_time": 1727759479,
-      "rank": 35,
       "category": "电影"
     },
     {
@@ -723,6 +747,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 184486,
+      "num": 184486,
+      "word": "李现当中网站哥",
+      "onboard_time": 1727760079,
+      "rank": 47,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 183543,
       "num": 490804,
       "word": "七夜雪定档",
@@ -745,6 +777,14 @@
       "onboard_time": 1727737935,
       "rank": 26,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 181095,
+      "num": 336809,
+      "word": "假期第一天你睡到了几点",
+      "onboard_time": 1727757260,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 180210,
@@ -867,6 +907,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 157564,
+      "num": 157564,
+      "word": "南部战区位南海战备巡航",
+      "onboard_time": 1727760201,
+      "rank": 43,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 156660,
       "num": 156660,
       "word": "校方回应男生遭同学多次用板凳砸头",
@@ -880,14 +928,6 @@
       "word": "台湾首来大陆同胞1256个景区免票",
       "onboard_time": 1727700202,
       "rank": 27,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 154286,
-      "num": 336809,
-      "word": "假期第一天你睡到了几点",
-      "onboard_time": 1727757260,
-      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -905,14 +945,6 @@
       "onboard_time": 1727742198,
       "rank": 35,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 149766,
-      "num": 149766,
-      "word": "李现当中网站哥",
-      "onboard_time": 1727760079,
-      "rank": 47,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 145530,
@@ -1011,6 +1043,30 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 133373,
+      "num": 133373,
+      "word": "全红婵等奥运冠军唱响我爱你中国",
+      "onboard_time": 1727761038,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 133156,
+      "num": 529286,
+      "word": "红旗之下",
+      "onboard_time": 1727757379,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 132632,
+      "num": 132632,
+      "word": "和平精英",
+      "onboard_time": 1727760258,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 130242,
       "num": 130242,
       "word": "日本岸田内阁宣布集体辞职",
@@ -1067,6 +1123,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 122531,
+      "num": 379148,
+      "word": "只此青绿",
+      "onboard_time": 1727759899,
+      "rank": 13,
+      "category": "电影"
+    },
+    {
       "raw_hot": 120636,
       "num": 120636,
       "word": "易烊千玺畅游异国街头",
@@ -1089,14 +1153,6 @@
       "onboard_time": 1727747960,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 117235,
-      "num": 379148,
-      "word": "只此青绿",
-      "onboard_time": 1727759899,
-      "rank": 13,
-      "category": "电影"
     },
     {
       "raw_hot": 116715,
@@ -1217,14 +1273,6 @@
       "onboard_time": 1727677760,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 90682,
-      "num": 529286,
-      "word": "红旗之下",
-      "onboard_time": 1727757379,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 89411,
@@ -1380,7 +1428,7 @@
     },
     {
       "raw_hot": 67287,
-      "num": 231504,
+      "num": 268897,
       "word": "爆款好人",
       "onboard_time": 1727758279,
       "rank": 28,
@@ -1427,6 +1475,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 54665,
+      "num": 338079,
+      "word": "张晚意任敏古装cp感",
+      "onboard_time": 1727760139,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 46129,
       "num": 102291,
       "word": "2024央视国庆晚会节目单",
@@ -1441,6 +1497,14 @@
       "onboard_time": 1727729832,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 44145,
+      "num": 336249,
+      "word": "张帅1比0弗莱彻",
+      "onboard_time": 1727760440,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 41999,
@@ -1555,6 +1619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 29815,
+      "num": 377385,
+      "word": "国庆一起云游全国景区",
+      "onboard_time": 1727759658,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 27649,
       "num": 46674,
       "word": "10月起将影响你我生活的新规",
@@ -1592,14 +1664,6 @@
       "word": "75岁骑行老人国庆重游武汉",
       "onboard_time": 1727717354,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 23086,
-      "num": 377385,
-      "word": "国庆一起云游全国景区",
-      "onboard_time": 1727759658,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
