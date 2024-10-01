@@ -1,13 +1,29 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1727789418126,
+  "endTime": 1727790107970,
   "band_list": [
     {
-      "raw_hot": 5098599,
+      "raw_hot": 11925969,
+      "num": 379767,
+      "word": "王楚钦止步中国大满贯32强",
+      "onboard_time": 1727789425,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 7446436,
       "num": 5098599,
       "word": "王楚钦vs林德",
       "onboard_time": 1727785580,
       "rank": 4,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 4261203,
+      "num": 322440,
+      "word": "王楚钦1比3林德",
+      "onboard_time": 1727789425,
+      "rank": 13,
       "category": "体育"
     },
     {
@@ -28,7 +44,7 @@
     },
     {
       "raw_hot": 1901424,
-      "num": 318664,
+      "num": 321051,
       "word": "身份证尾号是X的人要吃多少苦",
       "onboard_time": 1727781678,
       "rank": 20,
@@ -52,7 +68,7 @@
     },
     {
       "raw_hot": 1588492,
-      "num": 318548,
+      "num": 320098,
       "word": "伊能静小作文 考公典范",
       "onboard_time": 1727787259,
       "rank": 30,
@@ -108,7 +124,7 @@
     },
     {
       "raw_hot": 1218260,
-      "num": 1218260,
+      "num": 2633882,
       "word": "人人人人人你人人人人人",
       "onboard_time": 1727756059,
       "rank": 13,
@@ -132,7 +148,7 @@
     },
     {
       "raw_hot": 1044271,
-      "num": 316270,
+      "num": 316661,
       "word": "孙颖莎对马龙说hello爸爸",
       "onboard_time": 1727783358,
       "rank": 11,
@@ -140,7 +156,7 @@
     },
     {
       "raw_hot": 1024556,
-      "num": 317801,
+      "num": 319247,
       "word": "张元英赫本造型",
       "onboard_time": 1727786839,
       "rank": 12,
@@ -323,6 +339,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 635535,
+      "num": 314892,
+      "word": "王楚钦好帅的二次启动",
+      "onboard_time": 1727788942,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 635518,
       "num": 635518,
       "word": "大同下雪",
@@ -483,6 +507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 451369,
+      "num": 311671,
+      "word": "倪夏莲流泪说让大家失望了",
+      "onboard_time": 1727789003,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 450890,
       "num": 643152,
       "word": "国庆假期第一天你在干什么",
@@ -512,14 +544,6 @@
       "word": "张帅第三次进中网女单8强",
       "onboard_time": 1727762779,
       "rank": 7,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 426082,
-      "num": 314892,
-      "word": "王楚钦好帅的二次启动",
-      "onboard_time": 1727788942,
-      "rank": 18,
       "category": "体育"
     },
     {
@@ -563,12 +587,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 401668,
+      "num": 401668,
+      "word": "南昌烟花",
+      "onboard_time": 1727785639,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 396946,
       "num": 396946,
       "word": "上海房东连夜跳价50万",
       "onboard_time": 1727696778,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 396772,
+      "num": 312967,
+      "word": "孙颖莎没不舒服就是不得劲",
+      "onboard_time": 1727786720,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 396710,
@@ -579,20 +619,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 396405,
-      "num": 396405,
-      "word": "南昌烟花",
-      "onboard_time": 1727785639,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 377811,
-      "num": 312967,
-      "word": "孙颖莎没不舒服就是不得劲",
-      "onboard_time": 1727786720,
-      "rank": 21,
-      "category": "体育"
+      "raw_hot": 376883,
+      "num": 376883,
+      "word": "电影749局 观后感",
+      "onboard_time": 1727789063,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 369496,
@@ -643,6 +675,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 336253,
+      "num": 312937,
+      "word": "7天假期收到8份结婚请帖",
+      "onboard_time": 1727786299,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 326370,
       "num": 326370,
       "word": "王楚钦孙颖莎国庆节出战",
@@ -665,14 +705,6 @@
       "onboard_time": 1727766198,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 312937,
-      "num": 312937,
-      "word": "7天假期收到8份结婚请帖",
-      "onboard_time": 1727786299,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 312482,
@@ -804,7 +836,7 @@
     },
     {
       "raw_hot": 258925,
-      "num": 268591,
+      "num": 329360,
       "word": "假期第一个7分之1你做了啥",
       "onboard_time": 1727785879,
       "rank": 7,
@@ -812,7 +844,7 @@
     },
     {
       "raw_hot": 255872,
-      "num": 187230,
+      "num": 212705,
       "word": "徐志胜的高情商是刷题刷的",
       "onboard_time": 1727785338,
       "rank": 30,
@@ -1027,6 +1059,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 222696,
+      "num": 222696,
+      "word": "恋与深空",
+      "onboard_time": 1727789183,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 220118,
       "num": 220118,
       "word": "以军对黎展开地面行动",
@@ -1073,14 +1113,6 @@
       "onboard_time": 1727754079,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 213803,
-      "num": 177528,
-      "word": "倪夏莲流泪说让大家失望了",
-      "onboard_time": 1727789003,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 210515,
@@ -1211,20 +1243,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 195487,
+      "num": 195487,
+      "word": "李昊直播",
+      "onboard_time": 1727789364,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 194508,
       "num": 194508,
       "word": "P人有的是手段拿捏时间",
       "onboard_time": 1727776219,
       "rank": 36,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 193981,
-      "num": 176656,
-      "word": "恋与深空",
-      "onboard_time": 1727789183,
-      "rank": 32,
-      "category": "游戏"
     },
     {
       "raw_hot": 193769,
@@ -1324,7 +1356,7 @@
     },
     {
       "raw_hot": 184667,
-      "num": 184667,
+      "num": 326687,
       "word": "志愿军 第二部比第一部好看",
       "onboard_time": 1727787800,
       "rank": 28,
@@ -1403,14 +1435,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 178363,
-      "num": 178363,
-      "word": "电影749局 观后感",
-      "onboard_time": 1727789063,
-      "rank": 29,
-      "category": "电影"
-    },
-    {
       "raw_hot": 178121,
       "num": 178121,
       "word": "中纪委驻中组部纪检监察组组长李刚被查",
@@ -1425,6 +1449,14 @@
       "onboard_time": 1727761278,
       "rank": 28,
       "category": "财经"
+    },
+    {
+      "raw_hot": 177356,
+      "num": 317144,
+      "word": "布云朝克特止步中网四强",
+      "onboard_time": 1727788880,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 176059,
@@ -1667,12 +1699,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 150951,
-      "num": 150951,
-      "word": "李昊直播",
-      "onboard_time": 1727789364,
-      "rank": 41,
-      "category": "艺人"
+      "raw_hot": 150816,
+      "num": 327934,
+      "word": "中国红特别美",
+      "onboard_time": 1727789245,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 150062,
@@ -1705,6 +1737,14 @@
       "onboard_time": 1727775918,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 145553,
+      "num": 145553,
+      "word": "深圳全城万架无人机表演为祖国庆生",
+      "onboard_time": 1727788220,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 145530,
@@ -1793,14 +1833,6 @@
       "onboard_time": 1727757559,
       "rank": 48,
       "category": "数码"
-    },
-    {
-      "raw_hot": 136952,
-      "num": 136952,
-      "word": "深圳全城万架无人机表演为祖国庆生",
-      "onboard_time": 1727788220,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 136575,
@@ -1993,6 +2025,14 @@
       "onboard_time": 1727745378,
       "rank": 8,
       "category": "电影"
+    },
+    {
+      "raw_hot": 121566,
+      "num": 121566,
+      "word": "游客们扛国旗爬泰山",
+      "onboard_time": 1727789962,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 121377,
@@ -2267,14 +2307,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 103181,
-      "num": 317144,
-      "word": "布云朝克特止步中网四强",
-      "onboard_time": 1727788880,
-      "rank": 14,
-      "category": "体育"
-    },
-    {
       "raw_hot": 102667,
       "num": 102667,
       "word": "亚冠",
@@ -2297,14 +2329,6 @@
       "onboard_time": 1727777118,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 100031,
-      "num": 314805,
-      "word": "中国红特别美",
-      "onboard_time": 1727789245,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 98628,
@@ -2467,6 +2491,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 80936,
+      "num": 317679,
+      "word": "刘宇金发直播",
+      "onboard_time": 1727788942,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 80841,
       "num": 339199,
       "word": "祖国永远在我心上",
@@ -2536,14 +2568,6 @@
       "word": "杨紫直播句句有回应",
       "onboard_time": 1727703800,
       "rank": 47,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 73102,
-      "num": 315468,
-      "word": "刘宇金发直播",
-      "onboard_time": 1727788942,
-      "rank": 17,
       "category": "艺人"
     },
     {

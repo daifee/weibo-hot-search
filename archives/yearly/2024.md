@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/10/01 21:30:18
+本榜单时间：2024/01/01 00:21:05 ~ 2024/10/01 21:41:47
 </p>
 </blockquote>
 <p>
@@ -671,6 +671,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%98%9F%E8%B7%B3%E6%B0%B4%E5%A5%B3%E5%8F%8C3%E7%B1%B3%E6%9D%BF%E9%87%91%E7%89%8C%23" target="weibo">
 中国队跳水女双3米板金牌（热度：11976288）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E6%AD%A2%E6%AD%A5%E4%B8%AD%E5%9B%BD%E5%A4%A7%E6%BB%A1%E8%B4%AF32%E5%BC%BA%23" target="weibo">
+王楚钦止步中国大满贯32强（热度：11925969）
 </a>
 </li>
 
@@ -1805,12 +1811,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%8F%8C%E4%BA%BA%E5%8D%81%E7%B1%B3%E5%8F%B0%E5%86%B3%E8%B5%9B%23" target="weibo">
 女子双人十米台决赛（热度：7568117）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B9%B3%E8%A1%A1%E6%9C%A8%20%E6%8E%89%E6%9C%A8%23" target="weibo">
-平衡木 掉木（热度：7558613）
 </a>
 </li>
 
