@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1727752257975,
+  "endTime": 1727753872731,
   "band_list": [
     {
       "raw_hot": 2157671,
@@ -108,11 +108,19 @@
     },
     {
       "raw_hot": 685826,
-      "num": 319132,
+      "num": 339582,
       "word": "美公布美俄战机空中交锋视频",
       "onboard_time": 1727749879,
       "rank": 12,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 665888,
+      "num": 340214,
+      "word": "749局",
+      "onboard_time": 1727751198,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 606402,
@@ -171,6 +179,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 510577,
+      "num": 510577,
+      "word": "洲际导弹",
+      "onboard_time": 1727752638,
+      "rank": 1,
+      "category": "军事"
+    },
+    {
       "raw_hot": 481028,
       "num": 481028,
       "word": "国庆节假期第1天",
@@ -188,7 +204,7 @@
     },
     {
       "raw_hot": 454478,
-      "num": 306067,
+      "num": 337612,
       "word": "张韶涵大雨中笑着唱淋雨一直走",
       "onboard_time": 1727748859,
       "rank": 14,
@@ -201,6 +217,14 @@
       "onboard_time": 1727713638,
       "rank": 42,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 424786,
+      "num": 263034,
+      "word": "为什么高铁晚上禁止运行",
+      "onboard_time": 1727748799,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 416302,
@@ -219,12 +243,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 399425,
-      "num": 257402,
-      "word": "749局",
-      "onboard_time": 1727751198,
-      "rank": 17,
-      "category": "电影"
+      "raw_hot": 409335,
+      "num": 260170,
+      "word": "女生寄作业被取错报警让对方重写",
+      "onboard_time": 1727749158,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 396946,
@@ -235,12 +259,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 384957,
-      "num": 206363,
-      "word": "为什么高铁晚上禁止运行",
-      "onboard_time": 1727748799,
-      "rank": 21,
-      "category": "社会新闻"
+      "raw_hot": 369496,
+      "num": 338178,
+      "word": "赵露思10月行程图",
+      "onboard_time": 1727751559,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 342733,
@@ -255,14 +279,6 @@
       "num": 326204,
       "word": "今天适合单曲循环",
       "onboard_time": 1727738657,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 314833,
-      "num": 204765,
-      "word": "女生寄作业被取错报警让对方重写",
-      "onboard_time": 1727749158,
       "rank": 24,
       "category": "社会新闻"
     },
@@ -371,6 +387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 234045,
+      "num": 234045,
+      "word": "大同下雪",
+      "onboard_time": 1727752760,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 231042,
       "num": 231042,
       "word": "同晒一缕阳光祝祖国生日快乐",
@@ -393,6 +417,14 @@
       "onboard_time": 1727745139,
       "rank": 18,
       "category": "国外时政,军事"
+    },
+    {
+      "raw_hot": 219139,
+      "num": 219139,
+      "word": "Jennie全新粉发造型",
+      "onboard_time": 1727752219,
+      "rank": 45,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 218672,
@@ -419,14 +451,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 216311,
-      "num": 216311,
-      "word": "赵露思10月行程图",
-      "onboard_time": 1727751559,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 210515,
       "num": 210515,
       "word": "祝福伟大祖国繁荣富强",
@@ -436,7 +460,7 @@
     },
     {
       "raw_hot": 207239,
-      "num": 244685,
+      "num": 342268,
       "word": "神州大地飘满中国红",
       "onboard_time": 1727747058,
       "rank": 30,
@@ -475,6 +499,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 192715,
+      "num": 192715,
+      "word": "10月这个星座请做好暴富的准备",
+      "onboard_time": 1727748859,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 188776,
       "num": 171685,
       "word": "赵露思白色深v针织衫",
@@ -483,12 +515,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 188721,
-      "num": 188721,
-      "word": "10月这个星座请做好暴富的准备",
-      "onboard_time": 1727748859,
-      "rank": 33,
-      "category": "情感"
+      "raw_hot": 186379,
+      "num": 186379,
+      "word": "詹姆斯破防了",
+      "onboard_time": 1727753419,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 185651,
@@ -507,12 +539,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 182347,
+      "num": 182347,
+      "word": "浴火之路",
+      "onboard_time": 1727751978,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 181311,
       "num": 181311,
       "word": "国旗护卫队脚步声太震撼了",
       "onboard_time": 1727737935,
       "rank": 26,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 179836,
+      "num": 499826,
+      "word": "亲爱的祖国生日快乐",
+      "onboard_time": 1727752878,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 179281,
+      "num": 179281,
+      "word": "孙颖莎王楚钦再度领衔世界第一",
+      "onboard_time": 1727753240,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 179176,
@@ -545,14 +601,6 @@
       "onboard_time": 1727704642,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 165365,
-      "num": 165365,
-      "word": "浴火之路",
-      "onboard_time": 1727751978,
-      "rank": 33,
-      "category": "电影"
     },
     {
       "raw_hot": 164894,
@@ -699,6 +747,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 138014,
+      "num": 285960,
+      "word": "电影志愿军片尾曲MV好哭",
+      "onboard_time": 1727753719,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 135447,
       "num": 135447,
       "word": "毛不易的新歌被各地文旅用上了",
@@ -739,16 +795,24 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 124132,
-      "num": 124132,
-      "word": "Jennie全新粉发造型",
-      "onboard_time": 1727752219,
-      "rank": 45,
-      "category": "作品衍生,时尚"
+      "raw_hot": 123585,
+      "num": 508059,
+      "word": "电影志愿军存亡之战",
+      "onboard_time": 1727745378,
+      "rank": 8,
+      "category": "电影"
     },
     {
-      "raw_hot": 121734,
-      "num": 121734,
+      "raw_hot": 123135,
+      "num": 123135,
+      "word": "中华人民共和国成立75周年",
+      "onboard_time": 1727752699,
+      "rank": 45,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 122630,
+      "num": 122630,
       "word": "猫妈妈和猫猫在真的躲猫猫",
       "onboard_time": 1727751319,
       "rank": 47,
@@ -787,14 +851,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 113410,
-      "num": 508059,
-      "word": "电影志愿军存亡之战",
-      "onboard_time": 1727745378,
-      "rank": 8,
-      "category": "电影"
-    },
-    {
       "raw_hot": 111427,
       "num": 111427,
       "word": "华晨宇鸟巢演唱会全纪录",
@@ -825,6 +881,14 @@
       "onboard_time": 1727738657,
       "rank": 34,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 107806,
+      "num": 107806,
+      "word": "黑塔利亚 王耀",
+      "onboard_time": 1727752578,
+      "rank": 49,
+      "category": "动漫"
     },
     {
       "raw_hot": 107695,
