@@ -1,6 +1,6 @@
 {
   "startTime": 1727540758074,
-  "endTime": 1727804294010,
+  "endTime": 1727807418061,
   "band_list": [
     {
       "raw_hot": 11925969,
@@ -1739,6 +1739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 420508,
+      "num": 226218,
+      "word": "拜登召集国家安全团队紧急会议",
+      "onboard_time": 1727804054,
+      "rank": 30,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 419945,
       "num": 284095,
       "word": "13岁男孩夏令营遭体罚致横纹肌溶解",
@@ -1961,6 +1969,14 @@
       "onboard_time": 1727572578,
       "rank": 8,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 389095,
+      "num": 225772,
+      "word": "伊朗称向以色列发射导弹为合法防御",
+      "onboard_time": 1727804954,
+      "rank": 11,
+      "category": "国外时政"
     },
     {
       "raw_hot": 388888,
@@ -8491,14 +8507,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 79310,
-      "num": 173550,
-      "word": "拜登召集国家安全团队紧急会议",
-      "onboard_time": 1727804054,
-      "rank": 30,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 79073,
       "num": 358822,
       "word": "外地蟹冒充阳澄湖蟹是公开的秘密",
@@ -8753,6 +8761,14 @@
       "onboard_time": 1727661317,
       "rank": 14,
       "category": "财经"
+    },
+    {
+      "raw_hot": 68358,
+      "num": 96911,
+      "word": "G社镜头下的单依纯",
+      "onboard_time": 1727805793,
+      "rank": 26,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 68031,
@@ -9081,6 +9097,14 @@
       "onboard_time": 1727566337,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 52219,
+      "num": 227129,
+      "word": "炉石传说",
+      "onboard_time": 1727804174,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 51041,
@@ -9449,14 +9473,6 @@
       "onboard_time": 1727684840,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 37874,
-      "num": 171512,
-      "word": "炉石传说",
-      "onboard_time": 1727804174,
-      "rank": 47,
-      "category": "游戏"
     },
     {
       "raw_hot": 37764,
@@ -9860,7 +9876,7 @@
     },
     {
       "raw_hot": 27704,
-      "num": 80376,
+      "num": 96807,
       "word": "国庆第1天杭州接待游客181.24万人次",
       "onboard_time": 1727802376,
       "rank": 29,
@@ -10161,6 +10177,14 @@
       "onboard_time": 1727727372,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 16355,
+      "num": 203574,
+      "word": "神舟十九号载人飞船发射时间",
+      "onboard_time": 1727805072,
+      "rank": 15,
+      "category": "国内时政"
     },
     {
       "raw_hot": 15432,
