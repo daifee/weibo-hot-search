@@ -1,6 +1,6 @@
 {
   "startTime": 1727540758074,
-  "endTime": 1727764362826,
+  "endTime": 1727765171781,
   "band_list": [
     {
       "raw_hot": 2629801,
@@ -307,8 +307,8 @@
       "category": "军事"
     },
     {
-      "raw_hot": 1146616,
-      "num": 1183458,
+      "raw_hot": 1164192,
+      "num": 1186270,
       "word": "749局",
       "onboard_time": 1727656518,
       "rank": 4,
@@ -417,6 +417,14 @@
       "onboard_time": 1727576656,
       "rank": 11,
       "category": "演出"
+    },
+    {
+      "raw_hot": 984199,
+      "num": 397753,
+      "word": "陆川 抓娃娃",
+      "onboard_time": 1727763738,
+      "rank": 13,
+      "category": "电影"
     },
     {
       "raw_hot": 979908,
@@ -891,6 +899,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 617978,
+      "num": 617978,
+      "word": "孙颖莎vs蒯曼",
+      "onboard_time": 1727758639,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 610233,
       "num": 610233,
       "word": "王楚钦主动示意没上台",
@@ -985,14 +1001,6 @@
       "onboard_time": 1727708900,
       "rank": 24,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 569840,
-      "num": 569840,
-      "word": "孙颖莎vs蒯曼",
-      "onboard_time": 1727758639,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 569018,
@@ -1563,14 +1571,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 397753,
-      "num": 397753,
-      "word": "陆川 抓娃娃",
-      "onboard_time": 1727763738,
-      "rank": 13,
-      "category": "电影"
-    },
-    {
       "raw_hot": 396473,
       "num": 396473,
       "word": "黄继光后人有17人参军",
@@ -1729,6 +1729,14 @@
       "onboard_time": 1727629514,
       "rank": 1,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 367137,
+      "num": 330325,
+      "word": "赵丽颖完成了演员与角色之间的交汇",
+      "onboard_time": 1727759479,
+      "rank": 35,
+      "category": "电影"
     },
     {
       "raw_hot": 366502,
@@ -1913,14 +1921,6 @@
       "onboard_time": 1727627597,
       "rank": 42,
       "category": "网红"
-    },
-    {
-      "raw_hot": 330325,
-      "num": 330325,
-      "word": "赵丽颖完成了演员与角色之间的交汇",
-      "onboard_time": 1727759479,
-      "rank": 35,
-      "category": "电影"
     },
     {
       "raw_hot": 328852,
@@ -2177,6 +2177,14 @@
       "onboard_time": 1727592078,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 293814,
+      "num": 423019,
+      "word": "石破茂当选日本首相",
+      "onboard_time": 1727764039,
+      "rank": 9,
+      "category": "国外时政"
     },
     {
       "raw_hot": 292902,
@@ -2476,7 +2484,7 @@
     },
     {
       "raw_hot": 255296,
-      "num": 173261,
+      "num": 239422,
       "word": "麦当劳bob",
       "onboard_time": 1727762000,
       "rank": 30,
@@ -2721,6 +2729,14 @@
       "onboard_time": 1727634792,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 232638,
+      "num": 232638,
+      "word": "一人一句表白祖国",
+      "onboard_time": 1727761459,
+      "rank": 25,
+      "category": "国内时政"
     },
     {
       "raw_hot": 232588,
@@ -3233,14 +3249,6 @@
       "onboard_time": 1727690839,
       "rank": 23,
       "category": "财经"
-    },
-    {
-      "raw_hot": 202539,
-      "num": 202539,
-      "word": "一人一句表白祖国",
-      "onboard_time": 1727761459,
-      "rank": 25,
-      "category": "国内时政"
     },
     {
       "raw_hot": 202433,
@@ -4017,14 +4025,6 @@
       "onboard_time": 1727579658,
       "rank": 31,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 177651,
-      "num": 423019,
-      "word": "石破茂当选日本首相",
-      "onboard_time": 1727764039,
-      "rank": 9,
-      "category": "国外时政"
     },
     {
       "raw_hot": 177419,
@@ -5515,6 +5515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 131084,
+      "num": 131084,
+      "word": "莫雷加德3比2松岛辉空",
+      "onboard_time": 1727764758,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 130805,
       "num": 130805,
       "word": "酸奶刺客卖不动了吗",
@@ -5577,6 +5585,14 @@
       "onboard_time": 1727591839,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 129825,
+      "num": 167554,
+      "word": "王一博向祖国说展信安",
+      "onboard_time": 1727764278,
+      "rank": 39,
+      "category": "音乐"
     },
     {
       "raw_hot": 129749,
@@ -6147,14 +6163,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 118466,
-      "num": 152839,
-      "word": "王一博向祖国说展信安",
-      "onboard_time": 1727764278,
-      "rank": 39,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 118443,
       "num": 118443,
       "word": "cp30",
@@ -6675,6 +6683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 101225,
+      "num": 101225,
+      "word": "我爱你中国在这一刻具象了",
+      "onboard_time": 1727764518,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 101074,
       "num": 101074,
       "word": "沪深两市成交额超2.59万亿元",
@@ -6937,6 +6953,14 @@
       "onboard_time": 1727541857,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 87666,
+      "num": 319079,
+      "word": "赵丽颖李红樱定妆记录",
+      "onboard_time": 1727763558,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 87346,

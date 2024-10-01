@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1727764362826,
+  "endTime": 1727765171781,
   "band_list": [
     {
       "raw_hot": 2157671,
@@ -83,8 +83,8 @@
       "category": "军事"
     },
     {
-      "raw_hot": 1146616,
-      "num": 1183458,
+      "raw_hot": 1164192,
+      "num": 1186270,
       "word": "749局",
       "onboard_time": 1727751198,
       "rank": 17,
@@ -105,6 +105,14 @@
       "onboard_time": 1727709140,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 984199,
+      "num": 397753,
+      "word": "陆川 抓娃娃",
+      "onboard_time": 1727763738,
+      "rank": 13,
+      "category": "电影"
     },
     {
       "raw_hot": 924305,
@@ -195,6 +203,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 617978,
+      "num": 617978,
+      "word": "孙颖莎vs蒯曼",
+      "onboard_time": 1727758639,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 606402,
       "num": 244962,
       "word": "哀牢山",
@@ -241,14 +257,6 @@
       "onboard_time": 1727708900,
       "rank": 15,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 569840,
-      "num": 569840,
-      "word": "孙颖莎vs蒯曼",
-      "onboard_time": 1727758639,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 569018,
@@ -347,14 +355,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 397753,
-      "num": 397753,
-      "word": "陆川 抓娃娃",
-      "onboard_time": 1727763738,
-      "rank": 13,
-      "category": "电影"
-    },
-    {
       "raw_hot": 396946,
       "num": 396946,
       "word": "上海房东连夜跳价50万",
@@ -379,20 +379,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 367137,
+      "num": 330325,
+      "word": "赵丽颖完成了演员与角色之间的交汇",
+      "onboard_time": 1727759479,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 342733,
       "num": 342733,
       "word": "用我的方式祝福祖国",
       "onboard_time": 1727747717,
       "rank": 17,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 330325,
-      "num": 330325,
-      "word": "赵丽颖完成了演员与角色之间的交汇",
-      "onboard_time": 1727759479,
-      "rank": 35,
-      "category": "电影"
     },
     {
       "raw_hot": 326204,
@@ -425,6 +425,14 @@
       "onboard_time": 1727702780,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 293814,
+      "num": 423019,
+      "word": "石破茂当选日本首相",
+      "onboard_time": 1727764039,
+      "rank": 9,
+      "category": "国外时政"
     },
     {
       "raw_hot": 292771,
@@ -500,7 +508,7 @@
     },
     {
       "raw_hot": 255296,
-      "num": 173261,
+      "num": 239422,
       "word": "麦当劳bob",
       "onboard_time": 1727762000,
       "rank": 30,
@@ -577,6 +585,14 @@
       "onboard_time": 1727754858,
       "rank": 26,
       "category": "母婴育儿,社会新闻"
+    },
+    {
+      "raw_hot": 232638,
+      "num": 232638,
+      "word": "一人一句表白祖国",
+      "onboard_time": 1727761459,
+      "rank": 25,
+      "category": "国内时政"
     },
     {
       "raw_hot": 232588,
@@ -713,14 +729,6 @@
       "onboard_time": 1727759899,
       "rank": 13,
       "category": "电影"
-    },
-    {
-      "raw_hot": 202539,
-      "num": 202539,
-      "word": "一人一句表白祖国",
-      "onboard_time": 1727761459,
-      "rank": 25,
-      "category": "国内时政"
     },
     {
       "raw_hot": 200231,
@@ -865,14 +873,6 @@
       "onboard_time": 1727700861,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 177651,
-      "num": 423019,
-      "word": "石破茂当选日本首相",
-      "onboard_time": 1727764039,
-      "rank": 9,
-      "category": "国外时政"
     },
     {
       "raw_hot": 177419,
@@ -1155,12 +1155,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 131084,
+      "num": 131084,
+      "word": "莫雷加德3比2松岛辉空",
+      "onboard_time": 1727764758,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 130242,
       "num": 130242,
       "word": "日本岸田内阁宣布集体辞职",
       "onboard_time": 1727744419,
       "rank": 42,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 129825,
+      "num": 167554,
+      "word": "王一博向祖国说展信安",
+      "onboard_time": 1727764278,
+      "rank": 39,
+      "category": "音乐"
     },
     {
       "raw_hot": 129481,
@@ -1233,14 +1249,6 @@
       "onboard_time": 1727748859,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 118466,
-      "num": 152839,
-      "word": "王一博向祖国说展信安",
-      "onboard_time": 1727764278,
-      "rank": 39,
-      "category": "音乐"
     },
     {
       "raw_hot": 118255,
@@ -1339,6 +1347,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 101225,
+      "num": 101225,
+      "word": "我爱你中国在这一刻具象了",
+      "onboard_time": 1727764518,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 96710,
       "num": 219403,
       "word": "国庆档新片票房已破3亿",
@@ -1393,6 +1409,14 @@
       "onboard_time": 1727745858,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 87666,
+      "num": 319079,
+      "word": "赵丽颖李红樱定妆记录",
+      "onboard_time": 1727763558,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 86235,
