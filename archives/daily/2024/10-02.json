@@ -1,6 +1,6 @@
 {
   "startTime": 1727800165777,
-  "endTime": 1727822366203,
+  "endTime": 1727824893382,
   "band_list": [
     {
       "raw_hot": 2319330,
@@ -43,6 +43,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 664525,
+      "num": 225772,
+      "word": "伊朗称向以色列发射导弹为合法防御",
+      "onboard_time": 1727804954,
+      "rank": 11,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 617321,
       "num": 617321,
       "word": "重庆断崖式降温后市民乱穿衣",
@@ -65,14 +73,6 @@
       "onboard_time": 1727798418,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 489348,
-      "num": 225772,
-      "word": "伊朗称向以色列发射导弹为合法防御",
-      "onboard_time": 1727804954,
-      "rank": 11,
-      "category": "国外时政"
     },
     {
       "raw_hot": 470597,
@@ -99,6 +99,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 450001,
+      "num": 226218,
+      "word": "拜登召集国家安全团队紧急会议",
+      "onboard_time": 1727804054,
+      "rank": 30,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 439338,
       "num": 439338,
       "word": "叙利亚著名主播在以空袭中死亡",
@@ -115,12 +123,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 420508,
-      "num": 226218,
-      "word": "拜登召集国家安全团队紧急会议",
-      "onboard_time": 1727804054,
-      "rank": 30,
-      "category": "国外时政"
+      "raw_hot": 403809,
+      "num": 766015,
+      "word": "HPV疫苗已降到20多元1支",
+      "onboard_time": 1727824215,
+      "rank": 0,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 342968,
@@ -155,12 +163,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 223635,
-      "num": 138329,
+      "raw_hot": 307080,
+      "num": 145666,
+      "word": "大同降雪迎亲队冒雪抬新娘行进",
+      "onboard_time": 1727818031,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 292668,
+      "num": 142891,
       "word": "以色列全境机场暂停飞机起降",
       "onboard_time": 1727808732,
       "rank": 12,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 230252,
+      "num": 230252,
+      "word": "中国记者徐德智战绩可查",
+      "onboard_time": 1727815520,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 217740,
@@ -259,12 +283,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 130394,
-      "num": 130394,
-      "word": "中国记者徐德智战绩可查",
-      "onboard_time": 1727815520,
-      "rank": 1,
-      "category": "社会新闻"
+      "raw_hot": 139418,
+      "num": 139418,
+      "word": "徐志胜的高情商是刷题刷的",
+      "onboard_time": 1727785338,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 122907,
@@ -347,20 +371,20 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 89786,
-      "num": 89786,
-      "word": "大同降雪迎亲队冒雪抬新娘行进",
-      "onboard_time": 1727818031,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 85037,
       "num": 85037,
       "word": "伊藤美诚3比0倪夏莲",
       "onboard_time": 1727792121,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 83562,
+      "num": 83562,
+      "word": "卫昭不抢亲 直接喊停婚礼",
+      "onboard_time": 1727822293,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 79503,
@@ -393,6 +417,14 @@
       "onboard_time": 1727794103,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 75183,
+      "num": 75183,
+      "word": "小伙无人区陷车徒步20多公里求援",
+      "onboard_time": 1727819772,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 75074,
@@ -443,6 +475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 53833,
+      "num": 66101,
+      "word": "林诗栋晋级中国大满贯16强",
+      "onboard_time": 1727822833,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 52219,
       "num": 227129,
       "word": "炉石传说",
@@ -459,12 +499,28 @@
       "category": "电影"
     },
     {
-      "raw_hot": 41234,
-      "num": 51730,
-      "word": "小伙无人区陷车徒步20多公里求援",
-      "onboard_time": 1727819772,
-      "rank": 35,
+      "raw_hot": 36950,
+      "num": 66084,
+      "word": "欧冠联赛",
+      "onboard_time": 1727824815,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 36098,
+      "num": 66078,
+      "word": "当事小伙回应无人区陷车徒步求援",
+      "onboard_time": 1727820793,
+      "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 34502,
+      "num": 66076,
+      "word": "武艺上错车",
+      "onboard_time": 1727824576,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 34362,
@@ -539,14 +595,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 22379,
-      "num": 51703,
-      "word": "卫昭不抢亲 直接喊停婚礼",
-      "onboard_time": 1727822293,
-      "rank": 49,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 22063,
       "num": 124845,
       "word": "徐德智回应被联合国秘书长表扬",
@@ -604,7 +652,7 @@
     },
     {
       "raw_hot": 13452,
-      "num": 143182,
+      "num": 232985,
       "word": "国庆假期预计近20亿人次跨区域出行",
       "onboard_time": 1727792901,
       "rank": 2,
