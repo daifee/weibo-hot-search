@@ -1,10 +1,10 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1727774679056,
+  "endTime": 1727775541997,
   "band_list": [
     {
       "raw_hot": 2889500,
-      "num": 247904,
+      "num": 642898,
       "word": "合肥地震",
       "onboard_time": 1727772199,
       "rank": 10,
@@ -140,7 +140,7 @@
     },
     {
       "raw_hot": 867926,
-      "num": 335228,
+      "num": 408899,
       "word": "高速堵车 无人机叫醒",
       "onboard_time": 1727767519,
       "rank": 24,
@@ -220,15 +220,23 @@
     },
     {
       "raw_hot": 672728,
-      "num": 422327,
+      "num": 643681,
       "word": "749局特效",
       "onboard_time": 1727768240,
       "rank": 6,
       "category": "电影"
     },
     {
+      "raw_hot": 642796,
+      "num": 642796,
+      "word": "山西大同晴空万里突转大雪纷飞",
+      "onboard_time": 1727772740,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 639196,
-      "num": 355816,
+      "num": 544066,
       "word": "749局 九层妖塔",
       "onboard_time": 1727769019,
       "rank": 4,
@@ -347,6 +355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 474132,
+      "num": 643572,
+      "word": "浴火之路票房",
+      "onboard_time": 1727771299,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
       "raw_hot": 462172,
       "num": 443120,
       "word": "国庆天安门广场升国旗完整视频",
@@ -372,7 +388,7 @@
     },
     {
       "raw_hot": 450890,
-      "num": 374224,
+      "num": 643152,
       "word": "国庆假期第一天你在干什么",
       "onboard_time": 1727748859,
       "rank": 32,
@@ -385,6 +401,14 @@
       "onboard_time": 1727713638,
       "rank": 42,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 439282,
+      "num": 439282,
+      "word": "高铁晚点",
+      "onboard_time": 1727771538,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 435070,
@@ -403,14 +427,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 424341,
-      "num": 424341,
-      "word": "浴火之路票房",
-      "onboard_time": 1727771299,
-      "rank": 47,
-      "category": "电影"
-    },
-    {
       "raw_hot": 416302,
       "num": 244823,
       "word": "恒大地产和许家印等被处分",
@@ -424,14 +440,6 @@
       "word": "外籍男子将日本老人推倒致死",
       "onboard_time": 1727709680,
       "rank": 17,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 415024,
-      "num": 201140,
-      "word": "山西大同晴空万里突转大雪纷飞",
-      "onboard_time": 1727772740,
-      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -457,14 +465,6 @@
       "onboard_time": 1727767519,
       "rank": 9,
       "category": "电影"
-    },
-    {
-      "raw_hot": 396511,
-      "num": 206292,
-      "word": "高铁晚点",
-      "onboard_time": 1727771538,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 369496,
@@ -513,6 +513,14 @@
       "onboard_time": 1727766198,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 307644,
+      "num": 307644,
+      "word": "合肥肥东今年已经发生6次3级以上地震",
+      "onboard_time": 1727774660,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 306086,
@@ -569,6 +577,14 @@
       "onboard_time": 1727755581,
       "rank": 22,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 279841,
+      "num": 279841,
+      "word": "韩国拟从中国进口1100吨大白菜",
+      "onboard_time": 1727774000,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 274826,
@@ -636,7 +652,7 @@
     },
     {
       "raw_hot": 249986,
-      "num": 190680,
+      "num": 233765,
       "word": "以色列空袭叙利亚首都3死9伤",
       "onboard_time": 1727772199,
       "rank": 49,
@@ -859,6 +875,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 205022,
+      "num": 205022,
+      "word": "749局票房",
+      "onboard_time": 1727774479,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 203039,
       "num": 197405,
       "word": "女子拎50万现金出庭归还债主",
@@ -873,6 +897,14 @@
       "onboard_time": 1727759899,
       "rank": 13,
       "category": "电影"
+    },
+    {
+      "raw_hot": 200721,
+      "num": 643407,
+      "word": "盛世中华吾辈有幸",
+      "onboard_time": 1727774719,
+      "rank": 6,
+      "category": "国内时政"
     },
     {
       "raw_hot": 200231,
@@ -924,7 +956,7 @@
     },
     {
       "raw_hot": 193024,
-      "num": 339136,
+      "num": 642992,
       "word": "志愿军",
       "onboard_time": 1727769078,
       "rank": 9,
@@ -1195,6 +1227,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 158109,
+      "num": 158109,
+      "word": "元气少女缘结神 最甜恋爱番",
+      "onboard_time": 1727772380,
+      "rank": 38,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 157564,
       "num": 157564,
       "word": "南部战区位南海战备巡航",
@@ -1299,14 +1339,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 139460,
-      "num": 139460,
-      "word": "韩国拟从中国进口1100吨大白菜",
-      "onboard_time": 1727774000,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 139375,
       "num": 139375,
       "word": "电影浴火之路今日上映",
@@ -1345,14 +1377,6 @@
       "onboard_time": 1727757559,
       "rank": 48,
       "category": "数码"
-    },
-    {
-      "raw_hot": 137947,
-      "num": 137947,
-      "word": "元气少女缘结神 最甜恋爱番",
-      "onboard_time": 1727772380,
-      "rank": 38,
-      "category": "动漫"
     },
     {
       "raw_hot": 136575,
@@ -1515,14 +1539,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 123978,
-      "num": 168164,
-      "word": "749局票房",
-      "onboard_time": 1727774479,
-      "rank": 29,
-      "category": "电影"
-    },
-    {
       "raw_hot": 123585,
       "num": 508059,
       "word": "电影志愿军存亡之战",
@@ -1545,6 +1561,14 @@
       "onboard_time": 1727748859,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 120057,
+      "num": 196817,
+      "word": "吴昕时装周造型戴了10个假发片",
+      "onboard_time": 1727773820,
+      "rank": 19,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 118998,
@@ -1587,12 +1611,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 115618,
-      "num": 115618,
-      "word": "合肥肥东今年已经发生6次3级以上地震",
-      "onboard_time": 1727774660,
-      "rank": 42,
-      "category": "社会新闻"
+      "raw_hot": 116001,
+      "num": 116001,
+      "word": "桂花酒酿冰奶",
+      "onboard_time": 1727771778,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 111427,
@@ -1651,14 +1675,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 106317,
-      "num": 106317,
-      "word": "桂花酒酿冰奶",
-      "onboard_time": 1727771778,
-      "rank": 48,
-      "category": "美食"
-    },
-    {
       "raw_hot": 105462,
       "num": 105462,
       "word": "庆祝中华人民共和国成立75周年招待会",
@@ -1697,6 +1713,22 @@
       "onboard_time": 1727764518,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 97802,
+      "num": 97802,
+      "word": "749局彩蛋",
+      "onboard_time": 1727775437,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 96962,
+      "num": 96962,
+      "word": "宝宝的足底握持反射",
+      "onboard_time": 1727774418,
+      "rank": 46,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 96710,
@@ -1940,11 +1972,19 @@
     },
     {
       "raw_hot": 64455,
-      "num": 397573,
+      "num": 660068,
       "word": "国庆氛围感还得看中国红",
       "onboard_time": 1727770398,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 63985,
+      "num": 158999,
+      "word": "用最美中国红向祖国告白",
+      "onboard_time": 1727775500,
+      "rank": 29,
+      "category": "国内时政"
     },
     {
       "raw_hot": 63935,
@@ -1969,14 +2009,6 @@
       "onboard_time": 1727692339,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 58048,
-      "num": 196817,
-      "word": "吴昕时装周造型戴了10个假发片",
-      "onboard_time": 1727773820,
-      "rank": 19,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 58028,
@@ -2169,6 +2201,14 @@
       "onboard_time": 1727719694,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 33866,
+      "num": 273974,
+      "word": "李艾骑车逛北京",
+      "onboard_time": 1727775320,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 32459,
