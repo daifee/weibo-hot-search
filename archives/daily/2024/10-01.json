@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1727775541997,
+  "endTime": 1727778310131,
   "band_list": [
     {
       "raw_hot": 2889500,
@@ -131,6 +131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 909872,
+      "num": 643681,
+      "word": "749局特效",
+      "onboard_time": 1727768240,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
       "raw_hot": 899499,
       "num": 709406,
       "word": "石破茂当选日本首相",
@@ -211,20 +219,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 693254,
+      "num": 307644,
+      "word": "合肥肥东今年已经发生6次3级以上地震",
+      "onboard_time": 1727774660,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 685826,
       "num": 419605,
       "word": "美公布美俄战机空中交锋视频",
       "onboard_time": 1727749879,
       "rank": 12,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 672728,
-      "num": 643681,
-      "word": "749局特效",
-      "onboard_time": 1727768240,
-      "rank": 6,
-      "category": "电影"
     },
     {
       "raw_hot": 642796,
@@ -275,6 +283,14 @@
       "category": "自然,网红"
     },
     {
+      "raw_hot": 606139,
+      "num": 217552,
+      "word": "赵今麦刘浩存MIUMIU出图",
+      "onboard_time": 1727775798,
+      "rank": 12,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 603713,
       "num": 603713,
       "word": "国庆",
@@ -296,6 +312,14 @@
       "word": "重温15次国庆阅兵高燃瞬间",
       "onboard_time": 1727741478,
       "rank": 6,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 578690,
+      "num": 578690,
+      "word": "拍开国大典时摄影师被总理紧紧抓住",
+      "onboard_time": 1727776039,
+      "rank": 1,
       "category": "国内时政"
     },
     {
@@ -515,11 +539,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 307644,
-      "num": 307644,
-      "word": "合肥肥东今年已经发生6次3级以上地震",
-      "onboard_time": 1727774660,
-      "rank": 42,
+      "raw_hot": 312482,
+      "num": 279841,
+      "word": "韩国拟从中国进口1100吨大白菜",
+      "onboard_time": 1727774000,
+      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -579,14 +603,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 279841,
-      "num": 279841,
-      "word": "韩国拟从中国进口1100吨大白菜",
-      "onboard_time": 1727774000,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 274826,
       "num": 274826,
       "word": "江苏路段已出现大量车流",
@@ -601,6 +617,14 @@
       "onboard_time": 1727753419,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 273754,
+      "num": 210489,
+      "word": "黄子弘凡直播",
+      "onboard_time": 1727775918,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 271279,
@@ -651,6 +675,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 251233,
+      "num": 198898,
+      "word": "CHANEL大秀",
+      "onboard_time": 1727776820,
+      "rank": 25,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 249986,
       "num": 233765,
       "word": "以色列空袭叙利亚首都3死9伤",
@@ -681,6 +713,14 @@
       "onboard_time": 1727713220,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 241657,
+      "num": 643407,
+      "word": "盛世中华吾辈有幸",
+      "onboard_time": 1727774719,
+      "rank": 6,
+      "category": "国内时政"
     },
     {
       "raw_hot": 239769,
@@ -747,12 +787,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 232214,
+      "num": 642992,
+      "word": "志愿军",
+      "onboard_time": 1727769078,
+      "rank": 9,
+      "category": "电影"
+    },
+    {
       "raw_hot": 231548,
       "num": 231548,
       "word": "Jennie全新粉发造型",
       "onboard_time": 1727752219,
       "rank": 45,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 231466,
+      "num": 198545,
+      "word": "69名中国公民从黎安全撤离",
+      "onboard_time": 1727776578,
+      "rank": 26,
+      "category": "国内时政"
     },
     {
       "raw_hot": 231042,
@@ -883,6 +939,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 203704,
+      "num": 180049,
+      "word": "故宫国庆主题壁纸",
+      "onboard_time": 1727778139,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 203039,
       "num": 197405,
       "word": "女子拎50万现金出庭归还债主",
@@ -897,14 +961,6 @@
       "onboard_time": 1727759899,
       "rank": 13,
       "category": "电影"
-    },
-    {
-      "raw_hot": 200721,
-      "num": 643407,
-      "word": "盛世中华吾辈有幸",
-      "onboard_time": 1727774719,
-      "rank": 6,
-      "category": "国内时政"
     },
     {
       "raw_hot": 200231,
@@ -953,14 +1009,6 @@
       "onboard_time": 1727770639,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 193024,
-      "num": 642992,
-      "word": "志愿军",
-      "onboard_time": 1727769078,
-      "rank": 9,
-      "category": "电影"
     },
     {
       "raw_hot": 192715,
@@ -1267,12 +1315,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 155673,
+      "num": 196817,
+      "word": "吴昕时装周造型戴了10个假发片",
+      "onboard_time": 1727773820,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 155439,
+      "num": 155439,
+      "word": "孙颖莎9400分世排第一",
+      "onboard_time": 1727776280,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 153170,
       "num": 245330,
       "word": "749局2024国庆档预售票房冠军",
       "onboard_time": 1727708481,
       "rank": 8,
       "category": "电影"
+    },
+    {
+      "raw_hot": 152902,
+      "num": 152902,
+      "word": "P人有的是手段拿捏时间",
+      "onboard_time": 1727776219,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 152655,
@@ -1305,6 +1377,14 @@
       "onboard_time": 1727767699,
       "rank": 37,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 146108,
+      "num": 146108,
+      "word": "林高远回应迪亚兹夸奖",
+      "onboard_time": 1727775918,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 145530,
@@ -1361,6 +1441,14 @@
       "onboard_time": 1727749999,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 138485,
+      "num": 138485,
+      "word": "赵露思白色深V针织衫",
+      "onboard_time": 1727777479,
+      "rank": 41,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 138388,
@@ -1563,14 +1651,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 120057,
-      "num": 196817,
-      "word": "吴昕时装周造型戴了10个假发片",
-      "onboard_time": 1727773820,
-      "rank": 19,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 118998,
       "num": 118998,
       "word": "张碧晨 这一路鹅语鹅香",
@@ -1617,6 +1697,14 @@
       "onboard_time": 1727771778,
       "rank": 48,
       "category": "美食"
+    },
+    {
+      "raw_hot": 113400,
+      "num": 200307,
+      "word": "崂山日出相映国旗红",
+      "onboard_time": 1727778139,
+      "rank": 24,
+      "category": "旅游"
     },
     {
       "raw_hot": 111427,
@@ -1675,6 +1763,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 107486,
+      "num": 107486,
+      "word": "重庆人已经穿上羽绒服了",
+      "onboard_time": 1727778200,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 106448,
+      "num": 106448,
+      "word": "阿尔卡拉斯2比0梅德韦杰夫",
+      "onboard_time": 1727778139,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 105462,
       "num": 105462,
       "word": "庆祝中华人民共和国成立75周年招待会",
@@ -1715,8 +1819,24 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 99944,
+      "num": 207816,
+      "word": "郑钦文说没想到有这么多人来看我",
+      "onboard_time": 1727777118,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 98628,
+      "num": 98628,
+      "word": "九寨沟秋雪全糖微冰",
+      "onboard_time": 1727776099,
+      "rank": 48,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 97802,
-      "num": 97802,
+      "num": 98598,
       "word": "749局彩蛋",
       "onboard_time": 1727775437,
       "rank": 45,
@@ -1785,6 +1905,14 @@
       "onboard_time": 1727770218,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 91462,
+      "num": 207291,
+      "word": "五星红旗凝聚着中国人民的爱国之心",
+      "onboard_time": 1727777000,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 90979,
