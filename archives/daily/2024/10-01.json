@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1727767323873,
+  "endTime": 1727768154554,
   "band_list": [
     {
       "raw_hot": 2157671,
@@ -283,6 +283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 534705,
+      "num": 321829,
+      "word": "孙颖莎比赛多次被闪光灯干扰",
+      "onboard_time": 1727766740,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 529740,
       "num": 255409,
       "word": "东北雨姐称先行全额退款",
@@ -419,8 +427,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 318175,
-      "num": 318175,
+      "raw_hot": 320728,
+      "num": 320728,
       "word": "孙颖莎暴力正手连击",
       "onboard_time": 1727766198,
       "rank": 14,
@@ -531,6 +539,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 262877,
+      "num": 262877,
+      "word": "堵车时第1辆车在干啥",
+      "onboard_time": 1727766137,
+      "rank": 24,
+      "category": "社会新闻,汽车"
+    },
+    {
       "raw_hot": 255296,
       "num": 239422,
       "word": "麦当劳bob",
@@ -571,6 +587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 240101,
+      "num": 240101,
+      "word": "高速堵车 无人机叫醒",
+      "onboard_time": 1727767519,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 239769,
       "num": 239769,
       "word": "爱奇艺10月片单",
@@ -601,6 +625,14 @@
       "onboard_time": 1727710640,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 235260,
+      "num": 235260,
+      "word": "杨幂黑皮衣牛仔裤",
+      "onboard_time": 1727766677,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 234520,
@@ -649,14 +681,6 @@
       "onboard_time": 1727683579,
       "rank": 22,
       "category": "财经"
-    },
-    {
-      "raw_hot": 229697,
-      "num": 229697,
-      "word": "孙颖莎比赛多次被闪光灯干扰",
-      "onboard_time": 1727766740,
-      "rank": 22,
-      "category": "体育"
     },
     {
       "raw_hot": 227274,
@@ -755,14 +779,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 203120,
-      "num": 203120,
-      "word": "堵车时第1辆车在干啥",
-      "onboard_time": 1727766137,
-      "rank": 24,
-      "category": "社会新闻,汽车"
-    },
-    {
       "raw_hot": 203039,
       "num": 197405,
       "word": "女子拎50万现金出庭归还债主",
@@ -787,6 +803,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 197290,
+      "num": 322270,
+      "word": "意料之外的749局",
+      "onboard_time": 1727767519,
+      "rank": 9,
+      "category": "电影"
+    },
+    {
       "raw_hot": 197030,
       "num": 197030,
       "word": "李现观战郑钦文比赛",
@@ -801,6 +825,14 @@
       "onboard_time": 1727751138,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 193769,
+      "num": 184736,
+      "word": "王楚钦孙颖莎打卡海淀送国庆祝福",
+      "onboard_time": 1727767638,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 193739,
@@ -825,14 +857,6 @@
       "onboard_time": 1727753719,
       "rank": 18,
       "category": "电影"
-    },
-    {
-      "raw_hot": 191480,
-      "num": 191480,
-      "word": "杨幂黑皮衣牛仔裤",
-      "onboard_time": 1727766677,
-      "rank": 31,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 188776,
@@ -865,6 +889,14 @@
       "onboard_time": 1727760079,
       "rank": 47,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 184154,
+      "num": 184154,
+      "word": "李梦蓝盈莹巴黎偶遇",
+      "onboard_time": 1727767217,
+      "rank": 43,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 183543,
@@ -1075,12 +1107,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 152482,
+      "num": 152482,
+      "word": "孙颖莎中国大满贯进16强",
+      "onboard_time": 1727767157,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 150062,
       "num": 150062,
       "word": "香港升旗仪式祝福祖国",
       "onboard_time": 1727742198,
       "rank": 35,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 149576,
+      "num": 149576,
+      "word": "登陆少年乐队版本我和我的祖国",
+      "onboard_time": 1727767699,
+      "rank": 37,
+      "category": "音乐"
     },
     {
       "raw_hot": 145530,
@@ -1179,14 +1227,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 134997,
-      "num": 134997,
-      "word": "孙颖莎中国大满贯进16强",
-      "onboard_time": 1727767157,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 134784,
       "num": 134784,
       "word": "共和国的圆梦时刻",
@@ -1217,14 +1257,6 @@
       "onboard_time": 1727757379,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 133123,
-      "num": 133123,
-      "word": "李梦蓝盈莹巴黎偶遇",
-      "onboard_time": 1727767217,
-      "rank": 43,
-      "category": "体育,艺人"
     },
     {
       "raw_hot": 132632,
@@ -1467,6 +1499,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 95521,
+      "num": 184775,
+      "word": "今天发条微博为新中国庆生",
+      "onboard_time": 1727765598,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 95382,
       "num": 103639,
       "word": "北京五环内购房社保年限5改3",
@@ -1497,6 +1537,14 @@
       "onboard_time": 1727677760,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 90722,
+      "num": 131618,
+      "word": "国庆打卡中国红",
+      "onboard_time": 1727761398,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 89411,
@@ -1547,20 +1595,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 80841,
+      "num": 339199,
+      "word": "祖国永远在我心上",
+      "onboard_time": 1727766919,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 78269,
       "num": 103885,
       "word": "中国选手首进中网男单四强",
       "onboard_time": 1727706801,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 77208,
-      "num": 339199,
-      "word": "祖国永远在我心上",
-      "onboard_time": 1727766919,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 76300,
@@ -1729,6 +1777,14 @@
       "onboard_time": 1727729832,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 45516,
+      "num": 262285,
+      "word": "危机航线1比1复刻空中巨无霸A380",
+      "onboard_time": 1727767879,
+      "rank": 19,
+      "category": "电影"
     },
     {
       "raw_hot": 44145,
