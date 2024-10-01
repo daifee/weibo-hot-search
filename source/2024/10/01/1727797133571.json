@@ -1,0 +1,410 @@
+{
+  "runTime": 1727797133571,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 288942,
+        "num": 1097927,
+        "word": "人人人人人你人人人人人",
+        "onboard_time": 1727756059,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 288031,
+        "num": 288031,
+        "word": "剩下的6天假期准备怎么过",
+        "onboard_time": 1727788820,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 49978,
+        "num": 284429,
+        "word": "以国旗之名",
+        "onboard_time": 1727794341,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3894548,
+        "num": 283862,
+        "word": "王楚钦止步中国大满贯32强",
+        "onboard_time": 1727789425,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 968135,
+        "num": 279559,
+        "word": "电影749局 观后感",
+        "onboard_time": 1727789063,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 73978,
+        "num": 273611,
+        "word": "国庆博物馆打卡攻略",
+        "onboard_time": 1727792721,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31023,
+        "num": 269920,
+        "word": "太空视角看日新月异的中国",
+        "onboard_time": 1727793621,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 268114,
+        "num": 268114,
+        "word": "南昌烟花",
+        "onboard_time": 1727785639,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 641118,
+        "num": 257712,
+        "word": "王楚钦1比3林德",
+        "onboard_time": 1727789425,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 234609,
+        "num": 234609,
+        "word": "志愿军 第二部比第一部好看",
+        "onboard_time": 1727787800,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1835027,
+        "num": 234566,
+        "word": "王皓表情",
+        "onboard_time": 1727792721,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1071069,
+        "num": 234520,
+        "word": "身份证尾号是X的人要吃多少苦",
+        "onboard_time": 1727781678,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 807979,
+        "num": 234475,
+        "word": "赵丽颖演技",
+        "onboard_time": 1727792360,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 772155,
+        "num": 234441,
+        "word": "叙利亚著名主播在以空袭中死亡",
+        "onboard_time": 1727792181,
+        "rank": 13,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 720206,
+        "num": 234400,
+        "word": "伊能静小作文 考公典范",
+        "onboard_time": 1727787259,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 911799,
+        "num": 234354,
+        "word": "球童是王皓儿子",
+        "onboard_time": 1727794402,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 622987,
+        "num": 234272,
+        "word": "闫安说王楚钦要熬过艰难的阶段",
+        "onboard_time": 1727794162,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 64140,
+        "num": 234239,
+        "word": "西湖边最美人墙第9年如约而至",
+        "onboard_time": 1727796980,
+        "rank": 17,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 28658,
+        "num": 234200,
+        "word": "中网创造单日入场人数新纪录",
+        "onboard_time": 1727796380,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 71590,
+        "num": 234142,
+        "word": "A股彻底爆了现在进场还来得及吗",
+        "onboard_time": 1727795841,
+        "rank": 19,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 554003,
+        "num": 234096,
+        "word": "刘烨好帅",
+        "onboard_time": 1727792360,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 390204,
+        "num": 234028,
+        "word": "张元英赫本造型",
+        "onboard_time": 1727786839,
+        "rank": 21,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 375255,
+        "num": 234018,
+        "word": "林德回应战胜王楚钦",
+        "onboard_time": 1727791403,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 291360,
+        "num": 233941,
+        "word": "倪夏莲流泪说让大家失望了",
+        "onboard_time": 1727789003,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 274263,
+        "num": 233888,
+        "word": "王楚钦vs林德",
+        "onboard_time": 1727785580,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 238303,
+        "num": 233869,
+        "word": "刘宇用纸巾给自己打光",
+        "onboard_time": 1727794880,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 233828,
+        "num": 233828,
+        "word": "孙颖莎对马龙说hello爸爸",
+        "onboard_time": 1727783358,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 62731,
+        "num": 228600,
+        "word": "今日重读方志敏可爱的中国",
+        "onboard_time": 1727795240,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226545,
+        "num": 226545,
+        "word": "重庆断崖式降温后市民乱穿衣",
+        "onboard_time": 1727795660,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224065,
+        "num": 224065,
+        "word": "林德说王楚钦没发挥最佳水平",
+        "onboard_time": 1727793741,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 223496,
+        "num": 223496,
+        "word": "赵今麦miumiu大秀状态",
+        "onboard_time": 1727795780,
+        "rank": 30,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 213088,
+        "num": 213088,
+        "word": "Minnie走秀",
+        "onboard_time": 1727787440,
+        "rank": 31,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 178538,
+        "num": 178538,
+        "word": "香港烟花",
+        "onboard_time": 1727792241,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170884,
+        "num": 170884,
+        "word": "以色列总理向伊朗人民喊话",
+        "onboard_time": 1727779939,
+        "rank": 33,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 166000,
+        "num": 166000,
+        "word": "王楚钦好帅的二次启动",
+        "onboard_time": 1727788942,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 160541,
+        "num": 160541,
+        "word": "维港国庆烟花汇演首次加入无人机",
+        "onboard_time": 1727790743,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159454,
+        "num": 159454,
+        "word": "假期第一个7分之1你做了啥",
+        "onboard_time": 1727785879,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157726,
+        "num": 157726,
+        "word": "周雨彤 侯明昊我想看你哭",
+        "onboard_time": 1727790562,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150635,
+        "num": 150635,
+        "word": "伊藤美诚3比0倪夏莲",
+        "onboard_time": 1727792121,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 145279,
+        "num": 145279,
+        "word": "这一刻是属于中国人的浪漫",
+        "onboard_time": 1727781798,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122983,
+        "num": 122983,
+        "word": "观众说朱一龙身上有妈生正气",
+        "onboard_time": 1727794103,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 123942,
+        "num": 122447,
+        "word": "国庆假期预计近20亿人次跨区域出行",
+        "onboard_time": 1727792901,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121274,
+        "num": 121274,
+        "word": "苏州山塘街变仙塘街",
+        "onboard_time": 1727794042,
+        "rank": 42,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 121565,
+        "num": 118704,
+        "word": "国庆假期首日北京下雪了",
+        "onboard_time": 1727795060,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114776,
+        "num": 114776,
+        "word": "赵今麦刘浩存MIUMIU出图",
+        "onboard_time": 1727775798,
+        "rank": 44,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 114046,
+        "num": 114046,
+        "word": "年轻人从头再来一次又如何",
+        "onboard_time": 1727791761,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110751,
+        "num": 110751,
+        "word": "合肥地震",
+        "onboard_time": 1727772199,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107298,
+        "num": 107298,
+        "word": "7天假期收到8份结婚请帖",
+        "onboard_time": 1727786299,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106255,
+        "num": 106255,
+        "word": "南京音乐台鸽子快没地落脚了",
+        "onboard_time": 1727793021,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 71605,
+        "num": 104057,
+        "word": "浴火之路开分9.5",
+        "onboard_time": 1727780479,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#伟大的中国人民万岁#"
+    }
+  }
+}

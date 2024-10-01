@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1727796244951,
+  "endTime": 1727797133571,
   "band_list": [
     {
       "raw_hot": 11925969,
@@ -291,7 +291,7 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 766112,
+      "raw_hot": 772155,
       "num": 766112,
       "word": "叙利亚著名主播在以空袭中死亡",
       "onboard_time": 1727792181,
@@ -419,6 +419,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 622987,
+      "num": 565923,
+      "word": "闫安说王楚钦要熬过艰难的阶段",
+      "onboard_time": 1727794162,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 616890,
       "num": 315898,
       "word": "Minnie走秀",
@@ -491,12 +499,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 565923,
-      "num": 565923,
-      "word": "闫安说王楚钦要熬过艰难的阶段",
-      "onboard_time": 1727794162,
-      "rank": 16,
-      "category": "体育"
+      "raw_hot": 554003,
+      "num": 441080,
+      "word": "刘烨好帅",
+      "onboard_time": 1727792360,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 551953,
@@ -585,14 +593,6 @@
       "onboard_time": 1727713638,
       "rank": 42,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 441080,
-      "num": 441080,
-      "word": "刘烨好帅",
-      "onboard_time": 1727792360,
-      "rank": 33,
-      "category": "电影"
     },
     {
       "raw_hot": 439282,
@@ -1019,6 +1019,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 238303,
+      "num": 233869,
+      "word": "刘宇用纸巾给自己打光",
+      "onboard_time": 1727794880,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 238089,
       "num": 238089,
       "word": "国庆第1天西湖人从众",
@@ -1139,11 +1147,27 @@
       "category": "电影"
     },
     {
+      "raw_hot": 226545,
+      "num": 226545,
+      "word": "重庆断崖式降温后市民乱穿衣",
+      "onboard_time": 1727795660,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 224880,
       "num": 224880,
       "word": "杨紫出席VOGUE晚宴",
       "onboard_time": 1727780300,
       "rank": 26,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 223496,
+      "num": 223496,
+      "word": "赵今麦miumiu大秀状态",
+      "onboard_time": 1727795780,
+      "rank": 34,
       "category": "作品衍生,时尚"
     },
     {
@@ -1337,14 +1361,6 @@
       "onboard_time": 1727792421,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 197208,
-      "num": 197208,
-      "word": "刘宇用纸巾给自己打光",
-      "onboard_time": 1727794880,
-      "rank": 28,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 197030,
@@ -1563,6 +1579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 178538,
+      "num": 178538,
+      "word": "香港烟花",
+      "onboard_time": 1727792241,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 178121,
       "num": 178121,
       "word": "中纪委驻中组部纪检监察组组长李刚被查",
@@ -1619,27 +1643,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 171536,
-      "num": 171536,
-      "word": "赵今麦miumiu大秀状态",
-      "onboard_time": 1727795780,
-      "rank": 34,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 171170,
       "num": 171170,
       "word": "为了国庆不添堵结果堵在高速路",
       "onboard_time": 1727704642,
       "rank": 26,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 171092,
-      "num": 171092,
-      "word": "香港烟花",
-      "onboard_time": 1727792241,
-      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -2177,14 +2185,6 @@
       "onboard_time": 1727788701,
       "rank": 48,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 127310,
-      "num": 127310,
-      "word": "重庆断崖式降温后市民乱穿衣",
-      "onboard_time": 1727795660,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 126661,
@@ -2828,7 +2828,7 @@
     },
     {
       "raw_hot": 73678,
-      "num": 187911,
+      "num": 228600,
       "word": "今日重读方志敏可爱的中国",
       "onboard_time": 1727795240,
       "rank": 30,
@@ -2841,6 +2841,14 @@
       "onboard_time": 1727703800,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 71590,
+      "num": 420306,
+      "word": "A股彻底爆了现在进场还来得及吗",
+      "onboard_time": 1727795841,
+      "rank": 19,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 71023,
@@ -2921,6 +2929,14 @@
       "onboard_time": 1727770398,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 64140,
+      "num": 234239,
+      "word": "西湖边最美人墙第9年如约而至",
+      "onboard_time": 1727796980,
+      "rank": 17,
+      "category": "旅游"
     },
     {
       "raw_hot": 63985,
@@ -3251,6 +3267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 28658,
+      "num": 234200,
+      "word": "中网创造单日入场人数新纪录",
+      "onboard_time": 1727796380,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 27939,
       "num": 156541,
       "word": "傅园慧日均骑行30公里",
@@ -3297,14 +3321,6 @@
       "onboard_time": 1727727251,
       "rank": 44,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 24229,
-      "num": 420306,
-      "word": "A股彻底爆了现在进场还来得及吗",
-      "onboard_time": 1727795841,
-      "rank": 19,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 23150,
@@ -3386,6 +3402,9 @@
     },
     {
       "word": "#增强做中国人的骨气和底气#"
+    },
+    {
+      "word": "#伟大的中国人民万岁#"
     }
   ]
 }
