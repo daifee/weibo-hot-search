@@ -1,7 +1,15 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1727772216975,
+  "endTime": 1727774679056,
   "band_list": [
+    {
+      "raw_hot": 2889500,
+      "num": 247904,
+      "word": "合肥地震",
+      "onboard_time": 1727772199,
+      "rank": 10,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 2157671,
       "num": 2157671,
@@ -123,14 +131,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 899853,
-      "num": 247904,
-      "word": "合肥地震",
-      "onboard_time": 1727772199,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 899499,
       "num": 709406,
       "word": "石破茂当选日本首相",
@@ -219,6 +219,22 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 672728,
+      "num": 422327,
+      "word": "749局特效",
+      "onboard_time": 1727768240,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 639196,
+      "num": 355816,
+      "word": "749局 九层妖塔",
+      "onboard_time": 1727769019,
+      "rank": 4,
+      "category": "电影"
+    },
+    {
       "raw_hot": 635518,
       "num": 635518,
       "word": "大同下雪",
@@ -289,14 +305,6 @@
       "onboard_time": 1727708900,
       "rank": 15,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 574771,
-      "num": 355816,
-      "word": "749局 九层妖塔",
-      "onboard_time": 1727769019,
-      "rank": 4,
-      "category": "电影"
     },
     {
       "raw_hot": 569018,
@@ -395,11 +403,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 422327,
-      "num": 422327,
-      "word": "749局特效",
-      "onboard_time": 1727768240,
-      "rank": 6,
+      "raw_hot": 424341,
+      "num": 424341,
+      "word": "浴火之路票房",
+      "onboard_time": 1727771299,
+      "rank": 47,
       "category": "电影"
     },
     {
@@ -416,6 +424,14 @@
       "word": "外籍男子将日本老人推倒致死",
       "onboard_time": 1727709680,
       "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 415024,
+      "num": 201140,
+      "word": "山西大同晴空万里突转大雪纷飞",
+      "onboard_time": 1727772740,
+      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -441,6 +457,14 @@
       "onboard_time": 1727767519,
       "rank": 9,
       "category": "电影"
+    },
+    {
+      "raw_hot": 396511,
+      "num": 206292,
+      "word": "高铁晚点",
+      "onboard_time": 1727771538,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 369496,
@@ -608,6 +632,14 @@
       "word": "以空军飞越1800公里空袭也门胡塞武装",
       "onboard_time": 1727722573,
       "rank": 9,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 249986,
+      "num": 190680,
+      "word": "以色列空袭叙利亚首都3死9伤",
+      "onboard_time": 1727772199,
+      "rank": 49,
       "category": "国外时政"
     },
     {
@@ -817,14 +849,6 @@
       "onboard_time": 1727766260,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 206292,
-      "num": 206292,
-      "word": "高铁晚点",
-      "onboard_time": 1727771538,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 206068,
@@ -1043,14 +1067,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 176262,
-      "num": 250041,
-      "word": "浴火之路票房",
-      "onboard_time": 1727771299,
-      "rank": 47,
-      "category": "电影"
-    },
-    {
       "raw_hot": 176059,
       "num": 176059,
       "word": "749局预测票房超9亿",
@@ -1091,6 +1107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 167466,
+      "num": 306545,
+      "word": "广州有楼盘卖1套房奖销售80万",
+      "onboard_time": 1727771178,
+      "rank": 18,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 164894,
       "num": 164894,
       "word": "易烊千玺刺绣皮衣造型",
@@ -1113,6 +1137,14 @@
       "onboard_time": 1727752158,
       "rank": 35,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 163547,
+      "num": 163547,
+      "word": "第一批游客已经在长沙玩一圈了",
+      "onboard_time": 1727772979,
+      "rank": 32,
+      "category": "旅游"
     },
     {
       "raw_hot": 162104,
@@ -1152,6 +1184,14 @@
       "word": "Jennie新歌概念预告",
       "onboard_time": 1727743518,
       "rank": 32,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 158634,
+      "num": 158634,
+      "word": "tfing音乐厂牌公式照",
+      "onboard_time": 1727773339,
+      "rank": 34,
       "category": "音乐"
     },
     {
@@ -1259,6 +1299,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 139460,
+      "num": 139460,
+      "word": "韩国拟从中国进口1100吨大白菜",
+      "onboard_time": 1727774000,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 139375,
       "num": 139375,
       "word": "电影浴火之路今日上映",
@@ -1297,6 +1345,14 @@
       "onboard_time": 1727757559,
       "rank": 48,
       "category": "数码"
+    },
+    {
+      "raw_hot": 137947,
+      "num": 137947,
+      "word": "元气少女缘结神 最甜恋爱番",
+      "onboard_time": 1727772380,
+      "rank": 38,
+      "category": "动漫"
     },
     {
       "raw_hot": 136575,
@@ -1459,6 +1515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 123978,
+      "num": 168164,
+      "word": "749局票房",
+      "onboard_time": 1727774479,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 123585,
       "num": 508059,
       "word": "电影志愿军存亡之战",
@@ -1523,6 +1587,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 115618,
+      "num": 115618,
+      "word": "合肥肥东今年已经发生6次3级以上地震",
+      "onboard_time": 1727774660,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 111427,
       "num": 111427,
       "word": "华晨宇鸟巢演唱会全纪录",
@@ -1577,6 +1649,14 @@
       "onboard_time": 1727711419,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 106317,
+      "num": 106317,
+      "word": "桂花酒酿冰奶",
+      "onboard_time": 1727771778,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 105462,
@@ -1667,14 +1747,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 92012,
-      "num": 92012,
-      "word": "桂花酒酿冰奶",
-      "onboard_time": 1727771778,
-      "rank": 48,
-      "category": "美食"
-    },
-    {
       "raw_hot": 91463,
       "num": 91463,
       "word": "林高远王艺迪3比0特奥多罗库库洛娃",
@@ -1689,14 +1761,6 @@
       "onboard_time": 1727677760,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 90753,
-      "num": 90753,
-      "word": "以色列空袭叙利亚首都3死9伤",
-      "onboard_time": 1727772199,
-      "rank": 49,
-      "category": "国外时政"
     },
     {
       "raw_hot": 90722,
@@ -1875,6 +1939,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 64455,
+      "num": 397573,
+      "word": "国庆氛围感还得看中国红",
+      "onboard_time": 1727770398,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 63935,
       "num": 63935,
       "word": "共祝愿祖国好",
@@ -1891,20 +1963,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 62887,
-      "num": 397573,
-      "word": "国庆氛围感还得看中国红",
-      "onboard_time": 1727770398,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 59133,
       "num": 101856,
       "word": "迪丽热巴登人民日报宣传片",
       "onboard_time": 1727692339,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 58048,
+      "num": 196817,
+      "word": "吴昕时装周造型戴了10个假发片",
+      "onboard_time": 1727773820,
+      "rank": 19,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 58028,
@@ -1929,6 +2001,22 @@
       "onboard_time": 1727760139,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 50303,
+      "num": 191319,
+      "word": "开山岛上的升旗仪式",
+      "onboard_time": 1727774598,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 48647,
+      "num": 164753,
+      "word": "开向未来的列车",
+      "onboard_time": 1727774239,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 46129,
@@ -2019,14 +2107,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 39474,
-      "num": 306545,
-      "word": "广州有楼盘卖1套房奖销售80万",
-      "onboard_time": 1727771178,
-      "rank": 18,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 39360,
       "num": 53471,
       "word": "李宇春新歌献礼祖国",
@@ -2091,6 +2171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 32459,
+      "num": 346232,
+      "word": "大国重器是刻进中国人DNA的骄傲",
+      "onboard_time": 1727769439,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 32283,
       "num": 53333,
       "word": "火车上旅客最熟悉的陌生人",
@@ -2113,14 +2201,6 @@
       "onboard_time": 1727762779,
       "rank": 33,
       "category": "电影"
-    },
-    {
-      "raw_hot": 29826,
-      "num": 346232,
-      "word": "大国重器是刻进中国人DNA的骄傲",
-      "onboard_time": 1727769439,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 29815,
@@ -2185,6 +2265,14 @@
       "onboard_time": 1727752459,
       "rank": 8,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 20321,
+      "num": 231103,
+      "word": "好日子的具象化",
+      "onboard_time": 1727773700,
+      "rank": 9,
+      "category": "电影"
     },
     {
       "raw_hot": 17212,

@@ -1,7 +1,15 @@
 {
   "startTime": 1727540758074,
-  "endTime": 1727772216975,
+  "endTime": 1727774679056,
   "band_list": [
+    {
+      "raw_hot": 2889500,
+      "num": 247904,
+      "word": "合肥地震",
+      "onboard_time": 1727772199,
+      "rank": 10,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 2629801,
       "num": 381751,
@@ -467,14 +475,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 899853,
-      "num": 247904,
-      "word": "合肥地震",
-      "onboard_time": 1727772199,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 899499,
       "num": 709406,
       "word": "石破茂当选日本首相",
@@ -787,6 +787,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 672728,
+      "num": 422327,
+      "word": "749局特效",
+      "onboard_time": 1727768240,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
       "raw_hot": 671657,
       "num": 671657,
       "word": "孙颖莎vs巴约尔",
@@ -865,6 +873,14 @@
       "onboard_time": 1727618360,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 639196,
+      "num": 355816,
+      "word": "749局 九层妖塔",
+      "onboard_time": 1727769019,
+      "rank": 4,
+      "category": "电影"
     },
     {
       "raw_hot": 636128,
@@ -1033,14 +1049,6 @@
       "onboard_time": 1727708900,
       "rank": 24,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 574771,
-      "num": 355816,
-      "word": "749局 九层妖塔",
-      "onboard_time": 1727769019,
-      "rank": 4,
-      "category": "电影"
     },
     {
       "raw_hot": 569018,
@@ -1475,11 +1483,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 422327,
-      "num": 422327,
-      "word": "749局特效",
-      "onboard_time": 1727768240,
-      "rank": 6,
+      "raw_hot": 424341,
+      "num": 424341,
+      "word": "浴火之路票房",
+      "onboard_time": 1727771299,
+      "rank": 47,
       "category": "电影"
     },
     {
@@ -1536,6 +1544,14 @@
       "word": "外籍男子将日本老人推倒致死",
       "onboard_time": 1727709680,
       "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 415024,
+      "num": 201140,
+      "word": "山西大同晴空万里突转大雪纷飞",
+      "onboard_time": 1727772740,
+      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -1649,6 +1665,14 @@
       "onboard_time": 1727767519,
       "rank": 9,
       "category": "电影"
+    },
+    {
+      "raw_hot": 396511,
+      "num": 206292,
+      "word": "高铁晚点",
+      "onboard_time": 1727771538,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 396473,
@@ -2619,6 +2643,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 249986,
+      "num": 190680,
+      "word": "以色列空袭叙利亚首都3死9伤",
+      "onboard_time": 1727772199,
+      "rank": 49,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 249836,
       "num": 249836,
       "word": "梁靖崑问Goat是啥",
@@ -3265,14 +3297,6 @@
       "onboard_time": 1727766260,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 206292,
-      "num": 206292,
-      "word": "高铁晚点",
-      "onboard_time": 1727771538,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 206257,
@@ -4203,14 +4227,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 176262,
-      "num": 250041,
-      "word": "浴火之路票房",
-      "onboard_time": 1727771299,
-      "rank": 47,
-      "category": "电影"
-    },
-    {
       "raw_hot": 176098,
       "num": 176098,
       "word": "以色列公布真主党高层死亡名单",
@@ -4411,6 +4427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 167466,
+      "num": 306545,
+      "word": "广州有楼盘卖1套房奖销售80万",
+      "onboard_time": 1727771178,
+      "rank": 18,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 167447,
       "num": 167447,
       "word": "祁煜 敦煌飞天",
@@ -4553,6 +4577,14 @@
       "onboard_time": 1727752158,
       "rank": 35,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 163547,
+      "num": 163547,
+      "word": "第一批游客已经在长沙玩一圈了",
+      "onboard_time": 1727772979,
+      "rank": 32,
+      "category": "旅游"
     },
     {
       "raw_hot": 163478,
@@ -4721,6 +4753,14 @@
       "onboard_time": 1727683099,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 158634,
+      "num": 158634,
+      "word": "tfing音乐厂牌公式照",
+      "onboard_time": 1727773339,
+      "rank": 34,
+      "category": "音乐"
     },
     {
       "raw_hot": 158628,
@@ -5307,6 +5347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 139460,
+      "num": 139460,
+      "word": "韩国拟从中国进口1100吨大白菜",
+      "onboard_time": 1727774000,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 139375,
       "num": 139375,
       "word": "电影浴火之路今日上映",
@@ -5401,6 +5449,14 @@
       "onboard_time": 1727757559,
       "rank": 48,
       "category": "数码"
+    },
+    {
+      "raw_hot": 137947,
+      "num": 137947,
+      "word": "元气少女缘结神 最甜恋爱番",
+      "onboard_time": 1727772380,
+      "rank": 38,
+      "category": "动漫"
     },
     {
       "raw_hot": 137811,
@@ -6123,6 +6179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 123978,
+      "num": 168164,
+      "word": "749局票房",
+      "onboard_time": 1727774479,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 123903,
       "num": 123903,
       "word": "倪夏莲说我永远是中国人",
@@ -6531,6 +6595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 115618,
+      "num": 115618,
+      "word": "合肥肥东今年已经发生6次3级以上地震",
+      "onboard_time": 1727774660,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 115426,
       "num": 115426,
       "word": "网传中信建投140万人排队开户",
@@ -6801,6 +6873,14 @@
       "onboard_time": 1727695641,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 106317,
+      "num": 106317,
+      "word": "桂花酒酿冰奶",
+      "onboard_time": 1727771778,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 105701,
@@ -7179,14 +7259,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 92012,
-      "num": 92012,
-      "word": "桂花酒酿冰奶",
-      "onboard_time": 1727771778,
-      "rank": 48,
-      "category": "美食"
-    },
-    {
       "raw_hot": 91599,
       "num": 236855,
       "word": "惠英红中轴线封面 恢宏东方气韵",
@@ -7201,14 +7273,6 @@
       "onboard_time": 1727770218,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 90753,
-      "num": 90753,
-      "word": "以色列空袭叙利亚首都3死9伤",
-      "onboard_time": 1727772199,
-      "rank": 49,
-      "category": "国外时政"
     },
     {
       "raw_hot": 90722,
@@ -7731,20 +7795,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 64455,
+      "num": 397573,
+      "word": "国庆氛围感还得看中国红",
+      "onboard_time": 1727770398,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 63935,
       "num": 63935,
       "word": "共祝愿祖国好",
       "onboard_time": 1727738657,
       "rank": 45,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 62887,
-      "num": 397573,
-      "word": "国庆氛围感还得看中国红",
-      "onboard_time": 1727770398,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 61409,
@@ -7833,6 +7897,14 @@
       "onboard_time": 1727652136,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 58048,
+      "num": 196817,
+      "word": "吴昕时装周造型戴了10个假发片",
+      "onboard_time": 1727773820,
+      "rank": 19,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 57165,
@@ -7971,6 +8043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 50303,
+      "num": 191319,
+      "word": "开山岛上的升旗仪式",
+      "onboard_time": 1727774598,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 50141,
       "num": 654900,
       "word": "全党全国各族人民要以英雄模范为榜样",
@@ -7985,6 +8065,14 @@
       "onboard_time": 1727674579,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 48647,
+      "num": 164753,
+      "word": "开向未来的列车",
+      "onboard_time": 1727774239,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 48011,
@@ -8227,14 +8315,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 39474,
-      "num": 306545,
-      "word": "广州有楼盘卖1套房奖销售80万",
-      "onboard_time": 1727771178,
-      "rank": 18,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 39379,
       "num": 61318,
       "word": "徐德智称被点名时脑子一片空白",
@@ -8475,6 +8555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 32459,
+      "num": 346232,
+      "word": "大国重器是刻进中国人DNA的骄傲",
+      "onboard_time": 1727769439,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 32435,
       "num": 191022,
       "word": "失去双臂老兵永远想做人民的兵",
@@ -8529,14 +8617,6 @@
       "onboard_time": 1727601379,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 29826,
-      "num": 346232,
-      "word": "大国重器是刻进中国人DNA的骄傲",
-      "onboard_time": 1727769439,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 29815,
@@ -8817,6 +8897,14 @@
       "onboard_time": 1727683519,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 20321,
+      "num": 231103,
+      "word": "好日子的具象化",
+      "onboard_time": 1727773700,
+      "rank": 9,
+      "category": "电影"
     },
     {
       "raw_hot": 19782,
