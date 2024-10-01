@@ -1,0 +1,410 @@
+{
+  "runTime": 1727756859587,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1172298,
+        "num": 1187567,
+        "word": "洲际导弹",
+        "onboard_time": 1727752638,
+        "rank": 0,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 722080,
+        "num": 722080,
+        "word": "国庆一人一句祝福新中国",
+        "onboard_time": 1727744118,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 84562,
+        "num": 636907,
+        "word": "亲爱的祖国生日快乐",
+        "onboard_time": 1727752878,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 635518,
+        "num": 635518,
+        "word": "大同下雪",
+        "onboard_time": 1727752760,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 631038,
+        "num": 631038,
+        "word": "国庆节",
+        "onboard_time": 1727712799,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 56485,
+        "num": 575057,
+        "word": "神州大地飘满中国红",
+        "onboard_time": 1727747058,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 528110,
+        "num": 528110,
+        "word": "国庆节是中国人的浪漫",
+        "onboard_time": 1727738235,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 422139,
+        "num": 422139,
+        "word": "天安门广场升过的国旗去哪了",
+        "onboard_time": 1727755759,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 156011,
+        "num": 420980,
+        "word": "电影志愿军片尾曲MV好哭",
+        "onboard_time": 1727753719,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 807536,
+        "num": 417079,
+        "word": "光遇",
+        "onboard_time": 1727756300,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 692459,
+        "num": 414931,
+        "word": "749局",
+        "onboard_time": 1727751198,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 569447,
+        "num": 412275,
+        "word": "秦霄贤常驻综艺停更",
+        "onboard_time": 1727748078,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 470964,
+        "num": 410567,
+        "word": "天安门升旗仪式结束男子还未醒",
+        "onboard_time": 1727747299,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 408377,
+        "num": 408377,
+        "word": "人人人人人你人人人人人",
+        "onboard_time": 1727756059,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 329882,
+        "num": 329882,
+        "word": "孙颖莎王楚钦祝福祖国",
+        "onboard_time": 1727754258,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 308560,
+        "num": 308560,
+        "word": "国庆节假期第1天",
+        "onboard_time": 1727740936,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 295664,
+        "num": 295664,
+        "word": "美公布美俄战机空中交锋视频",
+        "onboard_time": 1727749879,
+        "rank": 16,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 307317,
+        "num": 293646,
+        "word": "国庆天安门广场升国旗完整视频",
+        "onboard_time": 1727738235,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 288328,
+        "num": 288328,
+        "word": "天安门放飞和平鸽与气球",
+        "onboard_time": 1727741359,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180210,
+        "num": 287403,
+        "word": "电影只此青绿里的中式美学",
+        "onboard_time": 1727755125,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1246205,
+        "num": 287191,
+        "word": "德云社砸挂秦霄贤",
+        "onboard_time": 1727748018,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 293316,
+        "num": 287162,
+        "word": "为什么高铁晚上禁止运行",
+        "onboard_time": 1727748799,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 286667,
+        "num": 286667,
+        "word": "光遇复刻",
+        "onboard_time": 1727755581,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 286143,
+        "num": 286143,
+        "word": "女生寄作业被取错报警让对方重写",
+        "onboard_time": 1727749158,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267498,
+        "num": 267498,
+        "word": "女子称一丝不挂被2次刷开酒店房门",
+        "onboard_time": 1727710519,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238614,
+        "num": 238614,
+        "word": "重温15次国庆阅兵高燃瞬间",
+        "onboard_time": 1727741478,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 234520,
+        "num": 234520,
+        "word": "零点整准时出生宝宝取名十一",
+        "onboard_time": 1727754858,
+        "rank": 26,
+        "category": "母婴育儿,社会新闻"
+      },
+      {
+        "raw_hot": 226661,
+        "num": 226661,
+        "word": "赵露思10月行程图",
+        "onboard_time": 1727751559,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 78477,
+        "num": 226492,
+        "word": "半熟男女 克服弱者羞耻",
+        "onboard_time": 1727756780,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15432,
+        "num": 225608,
+        "word": "用爱心骑行的方式祝福祖国",
+        "onboard_time": 1727756419,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 69088,
+        "num": 224650,
+        "word": "半熟男女得不到就更加爱",
+        "onboard_time": 1727756479,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 232588,
+        "num": 224049,
+        "word": "霍启刚郭晶晶发文庆祝75周年华诞",
+        "onboard_time": 1727755637,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 223907,
+        "num": 223907,
+        "word": "Jennie全新粉发造型",
+        "onboard_time": 1727752219,
+        "rank": 32,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 222080,
+        "num": 222080,
+        "word": "孙颖莎王楚钦再度领衔世界第一",
+        "onboard_time": 1727753240,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 208725,
+        "num": 208725,
+        "word": "詹姆斯破防了",
+        "onboard_time": 1727753419,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 206068,
+        "num": 206068,
+        "word": "电影浴火之路观后感",
+        "onboard_time": 1727755637,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 194432,
+        "num": 194432,
+        "word": "他们的愿望就藏在万家灯火之间",
+        "onboard_time": 1727754079,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190853,
+        "num": 190853,
+        "word": "网红女骑士石膏发生车祸身亡",
+        "onboard_time": 1727705540,
+        "rank": 37,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 190849,
+        "num": 190849,
+        "word": "用我的方式祝福祖国",
+        "onboard_time": 1727747717,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 182244,
+        "num": 182244,
+        "word": "浴火之路",
+        "onboard_time": 1727751978,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 178209,
+        "num": 178209,
+        "word": "张韶涵大雨中笑着唱淋雨一直走",
+        "onboard_time": 1727748859,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176563,
+        "num": 176563,
+        "word": "祝福伟大祖国繁荣富强",
+        "onboard_time": 1727743398,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 172736,
+        "num": 172736,
+        "word": "迪丽热巴的十月行程图",
+        "onboard_time": 1727756661,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169545,
+        "num": 169545,
+        "word": "今天把清澈的爱大声唱给祖国听",
+        "onboard_time": 1727749339,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164848,
+        "num": 164848,
+        "word": "我的身份证上有你的名字",
+        "onboard_time": 1727711179,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160995,
+        "num": 160995,
+        "word": "新闻联播里的伊能静",
+        "onboard_time": 1727756780,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153196,
+        "num": 153196,
+        "word": "女子拔插头被电伤截肢",
+        "onboard_time": 1727709140,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141887,
+        "num": 141887,
+        "word": "祖国万岁",
+        "onboard_time": 1727713638,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 140345,
+        "num": 140345,
+        "word": "男子嫌小孩推车进电梯慢将车扔出",
+        "onboard_time": 1727739376,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 93597,
+        "num": 137420,
+        "word": "电影志愿军存亡之战",
+        "onboard_time": 1727745378,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#清澈的爱只为中国#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1727754469008,
+  "endTime": 1727756859587,
   "band_list": [
     {
       "raw_hot": 2157671,
@@ -59,8 +59,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 1125674,
-      "num": 1180107,
+      "raw_hot": 1172298,
+      "num": 1187567,
       "word": "洲际导弹",
       "onboard_time": 1727752638,
       "rank": 1,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 924305,
-      "num": 390414,
+      "num": 412275,
       "word": "秦霄贤常驻综艺停更",
       "onboard_time": 1727748078,
       "rank": 15,
@@ -97,6 +97,14 @@
       "onboard_time": 1727745018,
       "rank": 7,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 807536,
+      "num": 417079,
+      "word": "光遇",
+      "onboard_time": 1727756300,
+      "rank": 9,
+      "category": "游戏"
     },
     {
       "raw_hot": 762775,
@@ -115,6 +123,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 692459,
+      "num": 414931,
+      "word": "749局",
+      "onboard_time": 1727751198,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 685826,
       "num": 382841,
       "word": "美公布美俄战机空中交锋视频",
@@ -123,12 +139,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 665888,
-      "num": 388392,
-      "word": "749局",
-      "onboard_time": 1727751198,
-      "rank": 17,
-      "category": "电影"
+      "raw_hot": 635518,
+      "num": 635518,
+      "word": "大同下雪",
+      "onboard_time": 1727752760,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 606402,
@@ -227,6 +243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 422139,
+      "num": 422139,
+      "word": "天安门广场升过的国旗去哪了",
+      "onboard_time": 1727755759,
+      "rank": 7,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 416302,
       "num": 244823,
       "word": "恒大地产和许家印等被处分",
@@ -248,6 +272,14 @@
       "word": "女生寄作业被取错报警让对方重写",
       "onboard_time": 1727749158,
       "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 408377,
+      "num": 408377,
+      "word": "人人人人人你人人人人人",
+      "onboard_time": 1727756059,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -275,12 +307,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 327165,
-      "num": 327165,
-      "word": "大同下雪",
-      "onboard_time": 1727752760,
-      "rank": 27,
-      "category": "社会新闻"
+      "raw_hot": 329882,
+      "num": 329882,
+      "word": "孙颖莎王楚钦祝福祖国",
+      "onboard_time": 1727754258,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 326204,
@@ -313,6 +345,14 @@
       "onboard_time": 1727738296,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 286667,
+      "num": 286667,
+      "word": "光遇复刻",
+      "onboard_time": 1727755581,
+      "rank": 22,
+      "category": "游戏"
     },
     {
       "raw_hot": 274826,
@@ -411,6 +451,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 234520,
+      "num": 234520,
+      "word": "零点整准时出生宝宝取名十一",
+      "onboard_time": 1727754858,
+      "rank": 26,
+      "category": "母婴育儿,社会新闻"
+    },
+    {
+      "raw_hot": 232588,
+      "num": 224049,
+      "word": "霍启刚郭晶晶发文庆祝75周年华诞",
+      "onboard_time": 1727755637,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 231548,
       "num": 231548,
       "word": "Jennie全新粉发造型",
@@ -484,7 +540,7 @@
     },
     {
       "raw_hot": 207239,
-      "num": 401043,
+      "num": 575057,
       "word": "神州大地飘满中国红",
       "onboard_time": 1727747058,
       "rank": 30,
@@ -497,6 +553,14 @@
       "onboard_time": 1727706620,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 206068,
+      "num": 206068,
+      "word": "电影浴火之路观后感",
+      "onboard_time": 1727755637,
+      "rank": 35,
+      "category": "电影"
     },
     {
       "raw_hot": 203039,
@@ -532,19 +596,11 @@
     },
     {
       "raw_hot": 192092,
-      "num": 418405,
+      "num": 420980,
       "word": "电影志愿军片尾曲MV好哭",
       "onboard_time": 1727753719,
       "rank": 18,
       "category": "电影"
-    },
-    {
-      "raw_hot": 190525,
-      "num": 190525,
-      "word": "孙颖莎王楚钦祝福祖国",
-      "onboard_time": 1727754258,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 188776,
@@ -587,6 +643,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 180210,
+      "num": 287403,
+      "word": "电影只此青绿里的中式美学",
+      "onboard_time": 1727755125,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
       "raw_hot": 179836,
       "num": 751676,
       "word": "亲爱的祖国生日快乐",
@@ -617,6 +681,14 @@
       "onboard_time": 1727749639,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 172736,
+      "num": 172736,
+      "word": "迪丽热巴的十月行程图",
+      "onboard_time": 1727756661,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 171170,
@@ -665,6 +737,14 @@
       "onboard_time": 1727740097,
       "rank": 31,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 160995,
+      "num": 160995,
+      "word": "新闻联播里的伊能静",
+      "onboard_time": 1727756780,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 160608,
@@ -1051,6 +1131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 78477,
+      "num": 226492,
+      "word": "半熟男女 克服弱者羞耻",
+      "onboard_time": 1727756780,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 78269,
       "num": 103885,
       "word": "中国选手首进中网男单四强",
@@ -1137,6 +1225,14 @@
       "onboard_time": 1727705420,
       "rank": 42,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 69088,
+      "num": 224650,
+      "word": "半熟男女得不到就更加爱",
+      "onboard_time": 1727756479,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 68597,
@@ -1344,6 +1440,14 @@
       "word": "警号004391重启",
       "onboard_time": 1727727372,
       "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 15432,
+      "num": 225608,
+      "word": "用爱心骑行的方式祝福祖国",
+      "onboard_time": 1727756419,
+      "rank": 29,
       "category": "社会新闻"
     },
     {

@@ -1,6 +1,6 @@
 {
   "startTime": 1727540758074,
-  "endTime": 1727754469008,
+  "endTime": 1727756859587,
   "band_list": [
     {
       "raw_hot": 2629801,
@@ -283,8 +283,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1125674,
-      "num": 1180107,
+      "raw_hot": 1172298,
+      "num": 1187567,
       "word": "洲际导弹",
       "onboard_time": 1727752638,
       "rank": 1,
@@ -428,7 +428,7 @@
     },
     {
       "raw_hot": 924305,
-      "num": 390414,
+      "num": 412275,
       "word": "秦霄贤常驻综艺停更",
       "onboard_time": 1727748078,
       "rank": 15,
@@ -555,6 +555,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 807536,
+      "num": 417079,
+      "word": "光遇",
+      "onboard_time": 1727670378,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 800781,
       "num": 347387,
       "word": "张元英眼睛状态",
@@ -675,6 +683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 692459,
+      "num": 490984,
+      "word": "749局",
+      "onboard_time": 1727656518,
+      "rank": 4,
+      "category": "电影"
+    },
+    {
       "raw_hot": 685826,
       "num": 382841,
       "word": "美公布美俄战机空中交锋视频",
@@ -697,14 +713,6 @@
       "onboard_time": 1727574858,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 665888,
-      "num": 490984,
-      "word": "749局",
-      "onboard_time": 1727656518,
-      "rank": 4,
-      "category": "电影"
     },
     {
       "raw_hot": 662832,
@@ -793,6 +801,14 @@
       "onboard_time": 1727660116,
       "rank": 14,
       "category": "财经"
+    },
+    {
+      "raw_hot": 635518,
+      "num": 635518,
+      "word": "大同下雪",
+      "onboard_time": 1727752760,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 635358,
@@ -1315,6 +1331,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 422139,
+      "num": 422139,
+      "word": "天安门广场升过的国旗去哪了",
+      "onboard_time": 1727755759,
+      "rank": 7,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 421959,
       "num": 421959,
       "word": "房企涨价",
@@ -1400,6 +1424,14 @@
       "word": "女生寄作业被取错报警让对方重写",
       "onboard_time": 1727749158,
       "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 408377,
+      "num": 408377,
+      "word": "人人人人人你人人人人人",
+      "onboard_time": 1727756059,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -1803,6 +1835,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 329882,
+      "num": 329882,
+      "word": "孙颖莎王楚钦祝福祖国",
+      "onboard_time": 1727754258,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 328852,
       "num": 385661,
       "word": "张本智和3比1黄镇廷",
@@ -1825,14 +1865,6 @@
       "onboard_time": 1727611520,
       "rank": 8,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 327165,
-      "num": 327165,
-      "word": "大同下雪",
-      "onboard_time": 1727752760,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 326530,
@@ -2113,6 +2145,14 @@
       "onboard_time": 1727694380,
       "rank": 18,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 286667,
+      "num": 286667,
+      "word": "光遇复刻",
+      "onboard_time": 1727755581,
+      "rank": 22,
+      "category": "游戏"
     },
     {
       "raw_hot": 285650,
@@ -2539,6 +2579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 234520,
+      "num": 234520,
+      "word": "零点整准时出生宝宝取名十一",
+      "onboard_time": 1727754858,
+      "rank": 26,
+      "category": "母婴育儿,社会新闻"
+    },
+    {
       "raw_hot": 233989,
       "num": 233989,
       "word": "年轻人为了省手续费有多拼",
@@ -2553,6 +2601,14 @@
       "onboard_time": 1727634792,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 232588,
+      "num": 224049,
+      "word": "霍启刚郭晶晶发文庆祝75周年华诞",
+      "onboard_time": 1727755637,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 232392,
@@ -2940,7 +2996,7 @@
     },
     {
       "raw_hot": 207239,
-      "num": 401043,
+      "num": 575057,
       "word": "神州大地飘满中国红",
       "onboard_time": 1727747058,
       "rank": 30,
@@ -2953,6 +3009,14 @@
       "onboard_time": 1727664380,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 206068,
+      "num": 206068,
+      "word": "电影浴火之路观后感",
+      "onboard_time": 1727755637,
+      "rank": 35,
+      "category": "电影"
     },
     {
       "raw_hot": 205815,
@@ -3324,7 +3388,7 @@
     },
     {
       "raw_hot": 192092,
-      "num": 418405,
+      "num": 420980,
       "word": "电影志愿军片尾曲MV好哭",
       "onboard_time": 1727753719,
       "rank": 18,
@@ -3393,14 +3457,6 @@
       "onboard_time": 1727679800,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 190525,
-      "num": 190525,
-      "word": "孙颖莎王楚钦祝福祖国",
-      "onboard_time": 1727754258,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 190154,
@@ -3675,6 +3731,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 180210,
+      "num": 287403,
+      "word": "电影只此青绿里的中式美学",
+      "onboard_time": 1727755125,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
       "raw_hot": 179836,
       "num": 751676,
       "word": "亲爱的祖国生日快乐",
@@ -3857,6 +3921,14 @@
       "onboard_time": 1727598919,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 172736,
+      "num": 172736,
+      "word": "迪丽热巴的十月行程图",
+      "onboard_time": 1727756661,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 172644,
@@ -4193,6 +4265,14 @@
       "onboard_time": 1727740097,
       "rank": 31,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 160995,
+      "num": 160995,
+      "word": "新闻联播里的伊能静",
+      "onboard_time": 1727756780,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 160759,
@@ -5129,14 +5209,6 @@
       "onboard_time": 1727599098,
       "rank": 46,
       "category": "财经"
-    },
-    {
-      "raw_hot": 133202,
-      "num": 133202,
-      "word": "光遇",
-      "onboard_time": 1727670378,
-      "rank": 43,
-      "category": "游戏"
     },
     {
       "raw_hot": 132783,
@@ -6739,6 +6811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 78477,
+      "num": 226492,
+      "word": "半熟男女 克服弱者羞耻",
+      "onboard_time": 1727756780,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 78043,
       "num": 157411,
       "word": "付鹏与男子合影",
@@ -6937,6 +7017,14 @@
       "onboard_time": 1727534300,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 69088,
+      "num": 224650,
+      "word": "半熟男女得不到就更加爱",
+      "onboard_time": 1727756479,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 68929,
@@ -8072,6 +8160,14 @@
       "word": "警号004391重启",
       "onboard_time": 1727727372,
       "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 15432,
+      "num": 225608,
+      "word": "用爱心骑行的方式祝福祖国",
+      "onboard_time": 1727756419,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
