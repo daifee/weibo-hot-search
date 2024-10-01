@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/10/01 00:28:17 ~ 2024/10/01 16:29:51
+本榜单时间：2024/10/01 00:28:17 ~ 2024/10/01 16:43:36
 </p>
 </blockquote>
 <p>
@@ -101,6 +101,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A7%A6%E9%9C%84%E8%B4%A4%E5%B8%B8%E9%A9%BB%E7%BB%BC%E8%89%BA%E5%81%9C%E6%9B%B4%23" target="weibo">
 秦霄贤常驻综艺停更（热度：924305）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%88%E8%82%A5%E5%9C%B0%E9%9C%87%23" target="weibo">
+合肥地震（热度：899853）
 </a>
 </li>
 
@@ -225,8 +231,20 @@ A股暴涨后股民消费升级（热度：596347）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23749%E5%B1%80%20%E4%B9%9D%E5%B1%82%E5%A6%96%E5%A1%94%23" target="weibo">
+749局 九层妖塔（热度：574771）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%AB%8C%E5%B0%8F%E5%AD%A9%E6%8E%A8%E8%BD%A6%E8%BF%9B%E7%94%B5%E6%A2%AF%E6%85%A2%E5%B0%86%E8%BD%A6%E6%89%94%E5%87%BA%23" target="weibo">
 男子嫌小孩推车进电梯慢将车扔出（热度：569018）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A0%B5%E8%BD%A6%E6%97%B6%E7%AC%AC1%E8%BE%86%E8%BD%A6%E5%9C%A8%E5%B9%B2%E5%95%A5%23" target="weibo">
+堵车时第1辆车在干啥（热度：551953）
 </a>
 </li>
 
@@ -255,12 +273,6 @@ A股暴涨后股民消费升级（热度：596347）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A0%B5%E8%BD%A6%E6%97%B6%E7%AC%AC1%E8%BE%86%E8%BD%A6%E5%9C%A8%E5%B9%B2%E5%95%A5%23" target="weibo">
-堵车时第1辆车在干啥（热度：460666）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E7%8E%8B%E6%A5%9A%E9%92%A6%E7%A5%9D%E7%A6%8F%E7%A5%96%E5%9B%BD%23" target="weibo">
 孙颖莎王楚钦祝福祖国（热度：456825）
 </a>
@@ -269,12 +281,6 @@ A股暴涨后股民消费升级（热度：596347）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9F%B6%E6%B6%B5%E5%A4%A7%E9%9B%A8%E4%B8%AD%E7%AC%91%E7%9D%80%E5%94%B1%E6%B7%8B%E9%9B%A8%E4%B8%80%E7%9B%B4%E8%B5%B0%23" target="weibo">
 张韶涵大雨中笑着唱淋雨一直走（热度：454478）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23749%E5%B1%80%20%E4%B9%9D%E5%B1%82%E5%A6%96%E5%A1%94%23" target="weibo">
-749局 九层妖塔（热度：451852）
 </a>
 </li>
 
@@ -304,7 +310,7 @@ A股暴涨后股民消费升级（热度：596347）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23749%E5%B1%80%E7%89%B9%E6%95%88%23" target="weibo">
-749局特效（热度：419285）
+749局特效（热度：422327）
 </a>
 </li>
 
@@ -621,6 +627,12 @@ A股疯涨普通人是否要入局（热度：230137）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%93%81%E6%99%9A%E7%82%B9%23" target="weibo">
+高铁晚点（热度：206292）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B5%E5%BD%B1%E6%B5%B4%E7%81%AB%E4%B9%8B%E8%B7%AF%E8%A7%82%E5%90%8E%E6%84%9F%23" target="weibo">
 电影浴火之路观后感（热度：206068）
 </a>
@@ -665,6 +677,12 @@ A股疯涨普通人是否要入局（热度：230137）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%8A%E7%86%9F%E7%94%B7%E5%A5%B3%20%E5%85%8B%E6%9C%8D%E5%BC%B1%E8%80%85%E7%BE%9E%E8%80%BB%23" target="weibo">
 半熟男女 克服弱者羞耻（热度：193739）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8E%AB%E9%9B%B7%E9%AB%98%E5%BE%B7%E8%AF%B4%E6%9E%97%E9%AB%98%E8%BF%9C%E6%9C%80%E6%97%B6%E5%B0%9A%23" target="weibo">
+莫雷高德说林高远最时尚（热度：193112）
 </a>
 </li>
 
@@ -777,6 +795,12 @@ A股还能再涨吗（热度：177419）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B5%B4%E7%81%AB%E4%B9%8B%E8%B7%AF%E7%A5%A8%E6%88%BF%23" target="weibo">
+浴火之路票房（热度：176262）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23749%E5%B1%80%E9%A2%84%E6%B5%8B%E7%A5%A8%E6%88%BF%E8%B6%859%E4%BA%BF%23" target="weibo">
 749局预测票房超9亿（热度：176059）
 </a>
@@ -803,12 +827,6 @@ A股还能再涨吗（热度：177419）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2398%E5%B9%B4%E5%8D%87%E6%97%97%E6%89%8B%E5%8D%87%E6%97%97%E4%BB%AA%E5%BC%8F%E5%90%8E%E5%90%91%E5%A5%B3%E5%8F%8B%E6%B1%82%E5%A9%9A%23" target="weibo">
 98年升旗手升旗仪式后向女友求婚（热度：169199）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8E%AB%E9%9B%B7%E9%AB%98%E5%BE%B7%E8%AF%B4%E6%9E%97%E9%AB%98%E8%BF%9C%E6%9C%80%E6%97%B6%E5%B0%9A%23" target="weibo">
-莫雷高德说林高远最时尚（热度：166108）
 </a>
 </li>
 
@@ -863,6 +881,12 @@ Jennie新歌概念预告（热度：158794）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E9%83%A8%E6%88%98%E5%8C%BA%E4%BD%8D%E5%8D%97%E6%B5%B7%E6%88%98%E5%A4%87%E5%B7%A1%E8%88%AA%23" target="weibo">
 南部战区位南海战备巡航（热度：157564）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9C%8D%E5%90%AF%E5%B1%B1%E4%BD%95%E8%B6%85%E6%AC%A3%E5%8F%82%E5%8A%A0%E6%8B%9B%E5%BE%85%E4%BC%9A%23" target="weibo">
+霍启山何超欣参加招待会（热度：157303）
 </a>
 </li>
 
@@ -959,6 +983,12 @@ Jennie新歌概念预告（热度：158794）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%B4%A2%E5%B0%BCpsn%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%B4%A9%E4%BA%86%23" target="weibo">
 索尼psn服务器崩了（热度：138251）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%BA%86%E8%8A%82%E5%80%BC%E5%BE%97%E9%87%8D%E6%B8%A9%E7%9A%84%E9%98%85%E5%85%B5%E7%94%BB%E9%9D%A2%23" target="weibo">
+国庆节值得重温的阅兵画面（热度：136575）
 </a>
 </li>
 
@@ -1125,12 +1155,6 @@ NBA名宿穆托姆博去世（热度：118121）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9C%8D%E5%90%AF%E5%B1%B1%E4%BD%95%E8%B6%85%E6%AC%A3%E5%8F%82%E5%8A%A0%E6%8B%9B%E5%BE%85%E4%BC%9A%23" target="weibo">
-霍启山何超欣参加招待会（热度：116386）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E9%B8%9F%E5%B7%A2%E6%BC%94%E5%94%B1%E4%BC%9A%E5%85%A8%E7%BA%AA%E5%BD%95%23" target="weibo">
 华晨宇鸟巢演唱会全纪录（热度：111427）
 </a>
@@ -1203,14 +1227,14 @@ A股还有三关要过（热度：110479）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B5%B4%E7%81%AB%E4%B9%8B%E8%B7%AF%E7%A5%A8%E6%88%BF%23" target="weibo">
-浴火之路票房（热度：99069）
+<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%BA%86%E6%A1%A3%E6%96%B0%E7%89%87%E7%A5%A8%E6%88%BF%E5%B7%B2%E7%A0%B43%E4%BA%BF%23" target="weibo">
+国庆档新片票房已破3亿（热度：96710）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%BA%86%E6%A1%A3%E6%96%B0%E7%89%87%E7%A5%A8%E6%88%BF%E5%B7%B2%E7%A0%B43%E4%BA%BF%23" target="weibo">
-国庆档新片票房已破3亿（热度：96710）
+<a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E9%AB%98%E8%BF%9C%E7%8E%8B%E8%89%BA%E8%BF%AA%E6%B7%B7%E5%8F%8C%E8%BF%9B8%E5%BC%BA%23" target="weibo">
+林高远王艺迪混双进8强（热度：95882）
 </a>
 </li>
 
@@ -1239,6 +1263,12 @@ A股还有三关要过（热度：110479）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%A1%82%E8%8A%B1%E9%85%92%E9%85%BF%E5%86%B0%E5%A5%B6%23" target="weibo">
+桂花酒酿冰奶（热度：92012）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E9%AB%98%E8%BF%9C%E7%8E%8B%E8%89%BA%E8%BF%AA3%E6%AF%940%E7%89%B9%E5%A5%A5%E5%A4%9A%E7%BD%97%E5%BA%93%E5%BA%93%E6%B4%9B%E5%A8%83%23" target="weibo">
 林高远王艺迪3比0特奥多罗库库洛娃（热度：91463）
 </a>
@@ -1247,6 +1277,12 @@ A股还有三关要过（热度：110479）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BF%9E%E7%81%8F%E6%98%8E%E8%B0%88%E5%85%AC%E5%B8%83%E6%81%8B%E6%83%85%23" target="weibo">
 俞灏明谈公布恋情（热度：90979）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E7%A9%BA%E8%A2%AD%E5%8F%99%E5%88%A9%E4%BA%9A%E9%A6%96%E9%83%BD3%E6%AD%BB9%E4%BC%A4%23" target="weibo">
+以色列空袭叙利亚首都3死9伤（热度：90753）
 </a>
 </li>
 
@@ -1395,6 +1431,12 @@ A股还有三关要过（热度：110479）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%BA%86%E6%B0%9B%E5%9B%B4%E6%84%9F%E8%BF%98%E5%BE%97%E7%9C%8B%E4%B8%AD%E5%9B%BD%E7%BA%A2%23" target="weibo">
+国庆氛围感还得看中国红（热度：62887）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%99%BB%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E5%AE%A3%E4%BC%A0%E7%89%87%23" target="weibo">
 迪丽热巴登人民日报宣传片（热度：59133）
 </a>
@@ -1415,12 +1457,6 @@ A股还有三关要过（热度：110479）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%99%9A%E6%84%8F%E4%BB%BB%E6%95%8F%E5%8F%A4%E8%A3%85cp%E6%84%9F%23" target="weibo">
 张晚意任敏古装cp感（热度：54665）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%BA%86%E6%B0%9B%E5%9B%B4%E6%84%9F%E8%BF%98%E5%BE%97%E7%9C%8B%E4%B8%AD%E5%9B%BD%E7%BA%A2%23" target="weibo">
-国庆氛围感还得看中国红（热度：47075）
 </a>
 </li>
 
@@ -1491,6 +1527,12 @@ A股还有三关要过（热度：110479）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E6%9C%89%E6%A5%BC%E7%9B%98%E5%8D%961%E5%A5%97%E6%88%BF%E5%A5%96%E9%94%80%E5%94%AE80%E4%B8%87%23" target="weibo">
+广州有楼盘卖1套房奖销售80万（热度：39474）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%AE%87%E6%98%A5%E6%96%B0%E6%AD%8C%E7%8C%AE%E7%A4%BC%E7%A5%96%E5%9B%BD%23" target="weibo">
 李宇春新歌献礼祖国（热度：39360）
 </a>
@@ -1499,6 +1541,12 @@ A股还有三关要过（热度：110479）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E6%97%97%E5%8D%87%E8%B5%B7%E5%9C%A8%E6%B3%B0%E5%B1%B1%E4%B9%8B%E5%B7%85%23" target="weibo">
 国旗升起在泰山之巅（热度：37739）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%A6%E4%B9%A0%E5%9B%B0%E9%9A%BE%E9%97%A8%E8%AF%8A%E9%A2%84%E7%BA%A6%E7%88%86%E6%BB%A1%E8%83%8C%E5%90%8E%23" target="weibo">
+学习困难门诊预约爆满背后（热度：37642）
 </a>
 </li>
 
@@ -1551,6 +1599,12 @@ A股还有三关要过（热度：110479）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%9B%BD%E9%87%8D%E5%99%A8%E6%98%AF%E5%88%BB%E8%BF%9B%E4%B8%AD%E5%9B%BD%E4%BA%BADNA%E7%9A%84%E9%AA%84%E5%82%B2%23" target="weibo">
+大国重器是刻进中国人DNA的骄傲（热度：29826）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%BA%86%E4%B8%80%E8%B5%B7%E4%BA%91%E6%B8%B8%E5%85%A8%E5%9B%BD%E6%99%AF%E5%8C%BA%23" target="weibo">
 国庆一起云游全国景区（热度：29815）
 </a>
@@ -1575,12 +1629,6 @@ A股还有三关要过（热度：110479）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%9B%BD%E9%87%8D%E5%99%A8%E6%98%AF%E5%88%BB%E8%BF%9B%E4%B8%AD%E5%9B%BD%E4%BA%BADNA%E7%9A%84%E9%AA%84%E5%82%B2%23" target="weibo">
-大国重器是刻进中国人DNA的骄傲（热度：26931）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%BF%E4%BA%A7%E4%B8%AD%E4%BB%8B%E7%A7%B0%E5%B8%82%E5%9C%BA%E6%9C%89%E5%8F%8D%E5%BC%B9%E4%BD%86%E6%B2%A1%E6%9C%89%E5%BE%88%E5%A4%B8%E5%BC%A0%23" target="weibo">
 房产中介称市场有反弹但没有很夸张（热度：26458）
 </a>
@@ -1600,19 +1648,7 @@ A股还有三关要过（热度：110479）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%9C%A8%E5%A4%AA%E7%A9%BA%E7%A5%9D%E7%A6%8F%E7%A5%96%E5%9B%BD%23" target="weibo">
-中国人在太空祝福祖国（热度：22166）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AD%A6%E4%B9%A0%E5%9B%B0%E9%9A%BE%E9%97%A8%E8%AF%8A%E9%A2%84%E7%BA%A6%E7%88%86%E6%BB%A1%E8%83%8C%E5%90%8E%23" target="weibo">
-学习困难门诊预约爆满背后（热度：21565）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E6%9C%89%E6%A5%BC%E7%9B%98%E5%8D%961%E5%A5%97%E6%88%BF%E5%A5%96%E9%94%80%E5%94%AE80%E4%B8%87%23" target="weibo">
-广州有楼盘卖1套房奖销售80万（热度：20795）
+中国人在太空祝福祖国（热度：22175）
 </a>
 </li>
 

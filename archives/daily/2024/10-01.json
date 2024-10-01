@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1727771391535,
+  "endTime": 1727772216975,
   "band_list": [
     {
       "raw_hot": 2157671,
@@ -121,6 +121,14 @@
       "onboard_time": 1727748078,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 899853,
+      "num": 247904,
+      "word": "合肥地震",
+      "onboard_time": 1727772199,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 899499,
@@ -283,12 +291,28 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 574771,
+      "num": 355816,
+      "word": "749局 九层妖塔",
+      "onboard_time": 1727769019,
+      "rank": 4,
+      "category": "电影"
+    },
+    {
       "raw_hot": 569018,
       "num": 245276,
       "word": "男子嫌小孩推车进电梯慢将车扔出",
       "onboard_time": 1727739376,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 551953,
+      "num": 325218,
+      "word": "堵车时第1辆车在干啥",
+      "onboard_time": 1727766137,
+      "rank": 24,
+      "category": "社会新闻,汽车"
     },
     {
       "raw_hot": 534705,
@@ -323,14 +347,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 460666,
-      "num": 325218,
-      "word": "堵车时第1辆车在干啥",
-      "onboard_time": 1727766137,
-      "rank": 24,
-      "category": "社会新闻,汽车"
-    },
-    {
       "raw_hot": 456825,
       "num": 456825,
       "word": "孙颖莎王楚钦祝福祖国",
@@ -345,14 +361,6 @@
       "onboard_time": 1727748859,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 451852,
-      "num": 355816,
-      "word": "749局 九层妖塔",
-      "onboard_time": 1727769019,
-      "rank": 4,
-      "category": "电影"
     },
     {
       "raw_hot": 450890,
@@ -387,8 +395,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 419285,
-      "num": 345446,
+      "raw_hot": 422327,
+      "num": 422327,
       "word": "749局特效",
       "onboard_time": 1727768240,
       "rank": 6,
@@ -811,6 +819,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 206292,
+      "num": 206292,
+      "word": "高铁晚点",
+      "onboard_time": 1727771538,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 206068,
       "num": 206068,
       "word": "电影浴火之路观后感",
@@ -875,6 +891,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 193112,
+      "num": 193112,
+      "word": "莫雷高德说林高远最时尚",
+      "onboard_time": 1727770639,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 193024,
       "num": 339136,
       "word": "志愿军",
@@ -892,7 +916,7 @@
     },
     {
       "raw_hot": 192545,
-      "num": 192545,
+      "num": 193138,
       "word": "浴火之路剧情",
       "onboard_time": 1727770459,
       "rank": 28,
@@ -1019,6 +1043,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 176262,
+      "num": 250041,
+      "word": "浴火之路票房",
+      "onboard_time": 1727771299,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
       "raw_hot": 176059,
       "num": 176059,
       "word": "749局预测票房超9亿",
@@ -1057,14 +1089,6 @@
       "onboard_time": 1727762718,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 166108,
-      "num": 166108,
-      "word": "莫雷高德说林高远最时尚",
-      "onboard_time": 1727770639,
-      "rank": 33,
-      "category": "体育"
     },
     {
       "raw_hot": 164894,
@@ -1137,6 +1161,14 @@
       "onboard_time": 1727760201,
       "rank": 43,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 157303,
+      "num": 157303,
+      "word": "霍启山何超欣参加招待会",
+      "onboard_time": 1727768778,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 156660,
@@ -1265,6 +1297,14 @@
       "onboard_time": 1727757559,
       "rank": 48,
       "category": "数码"
+    },
+    {
+      "raw_hot": 136575,
+      "num": 214459,
+      "word": "国庆节值得重温的阅兵画面",
+      "onboard_time": 1727772018,
+      "rank": 24,
+      "category": "国内时政"
     },
     {
       "raw_hot": 136091,
@@ -1468,7 +1508,7 @@
     },
     {
       "raw_hot": 117466,
-      "num": 153870,
+      "num": 229998,
       "word": "喀纳斯秋天的梦幻氛围感",
       "onboard_time": 1727768778,
       "rank": 34,
@@ -1481,14 +1521,6 @@
       "onboard_time": 1727706501,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 116386,
-      "num": 116386,
-      "word": "霍启山何超欣参加招待会",
-      "onboard_time": 1727768778,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 111427,
@@ -1587,20 +1619,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 99069,
-      "num": 99069,
-      "word": "浴火之路票房",
-      "onboard_time": 1727771299,
-      "rank": 47,
-      "category": "电影"
-    },
-    {
       "raw_hot": 96710,
       "num": 219403,
       "word": "国庆档新片票房已破3亿",
       "onboard_time": 1727746518,
       "rank": 22,
       "category": "电影"
+    },
+    {
+      "raw_hot": 95882,
+      "num": 95882,
+      "word": "林高远王艺迪混双进8强",
+      "onboard_time": 1727771718,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 95521,
@@ -1635,6 +1667,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 92012,
+      "num": 92012,
+      "word": "桂花酒酿冰奶",
+      "onboard_time": 1727771778,
+      "rank": 48,
+      "category": "美食"
+    },
+    {
       "raw_hot": 91463,
       "num": 91463,
       "word": "林高远王艺迪3比0特奥多罗库库洛娃",
@@ -1649,6 +1689,14 @@
       "onboard_time": 1727677760,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 90753,
+      "num": 90753,
+      "word": "以色列空袭叙利亚首都3死9伤",
+      "onboard_time": 1727772199,
+      "rank": 49,
+      "category": "国外时政"
     },
     {
       "raw_hot": 90722,
@@ -1843,6 +1891,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 62887,
+      "num": 397573,
+      "word": "国庆氛围感还得看中国红",
+      "onboard_time": 1727770398,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 59133,
       "num": 101856,
       "word": "迪丽热巴登人民日报宣传片",
@@ -1873,14 +1929,6 @@
       "onboard_time": 1727760139,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 47075,
-      "num": 397573,
-      "word": "国庆氛围感还得看中国红",
-      "onboard_time": 1727770398,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 46129,
@@ -1971,6 +2019,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 39474,
+      "num": 306545,
+      "word": "广州有楼盘卖1套房奖销售80万",
+      "onboard_time": 1727771178,
+      "rank": 18,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 39360,
       "num": 53471,
       "word": "李宇春新歌献礼祖国",
@@ -1985,6 +2041,14 @@
       "onboard_time": 1727746459,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 37642,
+      "num": 323599,
+      "word": "学习困难门诊预约爆满背后",
+      "onboard_time": 1727770878,
+      "rank": 14,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 37160,
@@ -2051,6 +2115,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 29826,
+      "num": 346232,
+      "word": "大国重器是刻进中国人DNA的骄傲",
+      "onboard_time": 1727769439,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 29815,
       "num": 377385,
       "word": "国庆一起云游全国景区",
@@ -2083,14 +2155,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 26931,
-      "num": 346232,
-      "word": "大国重器是刻进中国人DNA的骄傲",
-      "onboard_time": 1727769439,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 26458,
       "num": 26458,
       "word": "房产中介称市场有反弹但没有很夸张",
@@ -2115,28 +2179,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 22166,
+      "raw_hot": 22175,
       "num": 341417,
       "word": "中国人在太空祝福祖国",
       "onboard_time": 1727752459,
       "rank": 8,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 21565,
-      "num": 323599,
-      "word": "学习困难门诊预约爆满背后",
-      "onboard_time": 1727770878,
-      "rank": 14,
-      "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 20795,
-      "num": 306545,
-      "word": "广州有楼盘卖1套房奖销售80万",
-      "onboard_time": 1727771178,
-      "rank": 18,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 17212,
