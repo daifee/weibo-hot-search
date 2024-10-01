@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1727810320133,
+  "endTime": 1727811362806,
   "band_list": [
     {
       "raw_hot": 11925969,
@@ -3507,6 +3507,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 19969,
+      "num": 140018,
+      "word": "移民管理警察为界碑一笔一划描红",
+      "onboard_time": 1727808132,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 17212,
       "num": 44034,
       "word": "警号004391重启",
@@ -3523,20 +3531,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 14678,
+      "num": 43521,
+      "word": "家国同心",
+      "onboard_time": 1727810892,
+      "rank": 25,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 13857,
       "num": 202773,
       "word": "江慈的爱永远拿得出手",
       "onboard_time": 1727761398,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 13796,
-      "num": 140018,
-      "word": "移民管理警察为界碑一笔一划描红",
-      "onboard_time": 1727808132,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 13432,

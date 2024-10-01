@@ -1,6 +1,6 @@
 {
   "startTime": 1727800165777,
-  "endTime": 1727810320133,
+  "endTime": 1727811362806,
   "band_list": [
     {
       "raw_hot": 2319330,
@@ -507,12 +507,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 19969,
+      "num": 140018,
+      "word": "移民管理警察为界碑一笔一划描红",
+      "onboard_time": 1727808132,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 18767,
       "num": 65394,
       "word": "9图速览全国长假第1天",
       "onboard_time": 1727796200,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 14678,
+      "num": 43521,
+      "word": "家国同心",
+      "onboard_time": 1727810892,
+      "rank": 25,
+      "category": "国内时政"
     },
     {
       "raw_hot": 14584,
@@ -523,11 +539,11 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 13796,
-      "num": 140018,
-      "word": "移民管理警察为界碑一笔一划描红",
-      "onboard_time": 1727808132,
-      "rank": 35,
+      "raw_hot": 13452,
+      "num": 143182,
+      "word": "国庆假期预计近20亿人次跨区域出行",
+      "onboard_time": 1727792901,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -537,14 +553,6 @@
       "onboard_time": 1727808014,
       "rank": 25,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 12178,
-      "num": 143182,
-      "word": "国庆假期预计近20亿人次跨区域出行",
-      "onboard_time": 1727792901,
-      "rank": 2,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
