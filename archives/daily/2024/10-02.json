@@ -1,6 +1,6 @@
 {
   "startTime": 1727800165777,
-  "endTime": 1727875715345,
+  "endTime": 1727876415345,
   "band_list": [
     {
       "raw_hot": 2609208,
@@ -395,6 +395,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 491777,
+      "num": 285343,
+      "word": "向佐的鼻梁骨到底有谁在啊",
+      "onboard_time": 1727875038,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
       "raw_hot": 483196,
       "num": 483196,
       "word": "中国飞机炮火中逆行至黎巴嫩撤侨",
@@ -473,6 +481,14 @@
       "onboard_time": 1727825836,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 447677,
+      "num": 399850,
+      "word": "继业 既生专何生本",
+      "onboard_time": 1727872879,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 444019,
@@ -555,14 +571,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 399850,
-      "num": 399850,
-      "word": "继业 既生专何生本",
-      "onboard_time": 1727872879,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 399576,
       "num": 399576,
       "word": "iPhone16遭苹果砍单",
@@ -585,6 +593,14 @@
       "onboard_time": 1727844799,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 377018,
+      "num": 335573,
+      "word": "国庆假期第一批受益者出现了",
+      "onboard_time": 1727872279,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 355239,
@@ -625,14 +641,6 @@
       "onboard_time": 1727843117,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 335573,
-      "num": 335573,
-      "word": "国庆假期第一批受益者出现了",
-      "onboard_time": 1727872279,
-      "rank": 44,
-      "category": "情感"
     },
     {
       "raw_hot": 330635,
@@ -745,14 +753,6 @@
       "onboard_time": 1727855178,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 285343,
-      "num": 285343,
-      "word": "向佐的鼻梁骨到底有谁在啊",
-      "onboard_time": 1727875038,
-      "rank": 22,
-      "category": "电影"
     },
     {
       "raw_hot": 282347,
@@ -875,6 +875,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 249846,
+      "num": 404726,
+      "word": "马龙晋级男单16强",
+      "onboard_time": 1727875280,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 246689,
       "num": 208278,
       "word": "何卓佳11比1",
@@ -947,12 +955,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 224039,
-      "num": 404726,
-      "word": "马龙晋级男单16强",
-      "onboard_time": 1727875280,
-      "rank": 13,
-      "category": "体育"
+      "raw_hot": 224589,
+      "num": 224589,
+      "word": "付完餐具费可以带走餐具吗",
+      "onboard_time": 1727873418,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 221100,
@@ -1011,20 +1019,20 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 212204,
+      "num": 212204,
+      "word": "宁艺卓晒了范思哲时装周邀请函",
+      "onboard_time": 1727875160,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 212200,
       "num": 582795,
       "word": "美媒爆以色列计划重大报复伊朗",
       "onboard_time": 1727858838,
       "rank": 23,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 207648,
-      "num": 178081,
-      "word": "付完餐具费可以带走餐具吗",
-      "onboard_time": 1727873418,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 207635,
@@ -1105,14 +1113,6 @@
       "onboard_time": 1727842758,
       "rank": 43,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 200351,
-      "num": 200351,
-      "word": "宁艺卓晒了范思哲时装周邀请函",
-      "onboard_time": 1727875160,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 199070,
@@ -1225,6 +1225,14 @@
       "onboard_time": 1727867298,
       "rank": 22,
       "category": "电影"
+    },
+    {
+      "raw_hot": 188067,
+      "num": 188067,
+      "word": "马龙3比1曾蓓勋",
+      "onboard_time": 1727875699,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 187716,
@@ -1411,14 +1419,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 163878,
-      "num": 163878,
-      "word": "马龙3比1曾蓓勋",
-      "onboard_time": 1727875699,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 163854,
       "num": 163854,
       "word": "张予曦千禧辣妹妆",
@@ -1547,6 +1547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 152617,
+      "num": 152617,
+      "word": "带孩子四处旅游有意义吗",
+      "onboard_time": 1727871259,
+      "rank": 41,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 151673,
       "num": 151673,
       "word": "斩神",
@@ -1569,6 +1577,14 @@
       "onboard_time": 1727830098,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 149502,
+      "num": 149502,
+      "word": "林俊杰东京演唱会",
+      "onboard_time": 1727875879,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 149276,
@@ -1633,14 +1649,6 @@
       "onboard_time": 1727864778,
       "rank": 26,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 143166,
-      "num": 143166,
-      "word": "带孩子四处旅游有意义吗",
-      "onboard_time": 1727871259,
-      "rank": 41,
-      "category": "母婴育儿"
     },
     {
       "raw_hot": 142845,
@@ -2060,7 +2068,7 @@
     },
     {
       "raw_hot": 106445,
-      "num": 427996,
+      "num": 433405,
       "word": "中华文化的璀璨与浪漫在此刻具象化了",
       "onboard_time": 1727853797,
       "rank": 38,
@@ -2163,6 +2171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 101199,
+      "num": 412060,
+      "word": "外交部回应黎真主党领导人遇袭身亡",
+      "onboard_time": 1727870060,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 99729,
       "num": 99729,
       "word": "周启豪逆转晋级16强",
@@ -2257,6 +2273,22 @@
       "onboard_time": 1727780779,
       "rank": 40,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 90119,
+      "num": 339661,
+      "word": "年轻人整顿份子钱也是移风易俗",
+      "onboard_time": 1727874979,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 89935,
+      "num": 233051,
+      "word": "4个表图分清楚医保个人自付和自费",
+      "onboard_time": 1727876240,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 87018,
@@ -2523,28 +2555,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 53246,
-      "num": 339661,
-      "word": "年轻人整顿份子钱也是移风易俗",
-      "onboard_time": 1727874979,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 52219,
       "num": 227129,
       "word": "炉石传说",
       "onboard_time": 1727804174,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 49826,
-      "num": 412060,
-      "word": "外交部回应黎真主党领导人遇袭身亡",
-      "onboard_time": 1727870060,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 49276,
@@ -2576,6 +2592,14 @@
       "word": "当事小伙回应无人区陷车徒步求援",
       "onboard_time": 1727820793,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 45040,
+      "num": 403537,
+      "word": "深圳一楼盘新政首日成交2亿",
+      "onboard_time": 1727875579,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -2715,20 +2739,20 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 31369,
-      "num": 403537,
-      "word": "深圳一楼盘新政首日成交2亿",
-      "onboard_time": 1727875579,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 30599,
       "num": 766580,
       "word": "国庆博物馆打卡攻略",
       "onboard_time": 1727792721,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 30581,
+      "num": 140032,
+      "word": "北京大隐于市的秋日秘境",
+      "onboard_time": 1727875640,
+      "rank": 39,
+      "category": "旅游"
     },
     {
       "raw_hot": 30091,
@@ -2937,14 +2961,6 @@
       "onboard_time": 1727851939,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 5864,
-      "num": 140032,
-      "word": "北京大隐于市的秋日秘境",
-      "onboard_time": 1727875640,
-      "rank": 39,
-      "category": "旅游"
     }
   ],
   "hotgov_list": [

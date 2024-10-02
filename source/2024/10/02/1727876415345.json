@@ -1,0 +1,410 @@
+{
+  "runTime": 1727876415345,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 956575,
+        "num": 1153052,
+        "word": "马龙vs曾蓓勋",
+        "onboard_time": 1727873058,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 439909,
+        "num": 439909,
+        "word": "郑钦文vs阿尼西莫娃",
+        "onboard_time": 1727871379,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 23857,
+        "num": 433405,
+        "word": "中华文化的璀璨与浪漫在此刻具象化了",
+        "onboard_time": 1727853797,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 777526,
+        "num": 433129,
+        "word": "王楚钦回应单打失利",
+        "onboard_time": 1727868380,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 428706,
+        "num": 428706,
+        "word": "提醒我公民暂勿前往以色列",
+        "onboard_time": 1727869519,
+        "rank": 4,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 46679,
+        "num": 370075,
+        "word": "9位侗族姑娘给法国人亿点震撼",
+        "onboard_time": 1727872818,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 361927,
+        "num": 361927,
+        "word": "中国飞机炮火中逆行至黎巴嫩撤侨",
+        "onboard_time": 1727867900,
+        "rank": 6,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 249846,
+        "num": 249846,
+        "word": "马龙晋级男单16强",
+        "onboard_time": 1727875280,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 59556,
+        "num": 249659,
+        "word": "志愿军",
+        "onboard_time": 1727858898,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 58763,
+        "num": 247197,
+        "word": "把清澈的爱唱给祖国听",
+        "onboard_time": 1727854998,
+        "rank": 9,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 2122700,
+        "num": 246359,
+        "word": "女生付完6元餐具费后打包带走碗筷",
+        "onboard_time": 1727870601,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 523700,
+        "num": 244868,
+        "word": "田曦薇方回应无牌车违规问题",
+        "onboard_time": 1727869101,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 491777,
+        "num": 241964,
+        "word": "向佐的鼻梁骨到底有谁在啊",
+        "onboard_time": 1727875038,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 461381,
+        "num": 241092,
+        "word": "以色列宣布禁止古特雷斯入境",
+        "onboard_time": 1727866218,
+        "rank": 13,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 45040,
+        "num": 239775,
+        "word": "深圳一楼盘新政首日成交2亿",
+        "onboard_time": 1727875579,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 447677,
+        "num": 238217,
+        "word": "继业 既生专何生本",
+        "onboard_time": 1727872879,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 400098,
+        "num": 236357,
+        "word": "749局 好奇心",
+        "onboard_time": 1727871740,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 255920,
+        "num": 233638,
+        "word": "女生打顺风车已满座司机仍接单",
+        "onboard_time": 1727856259,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 89935,
+        "num": 233051,
+        "word": "4个表图分清楚医保个人自付和自费",
+        "onboard_time": 1727876240,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 90119,
+        "num": 230810,
+        "word": "年轻人整顿份子钱也是移风易俗",
+        "onboard_time": 1727874979,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229989,
+        "num": 229989,
+        "word": "人人人人景点人人人人",
+        "onboard_time": 1727836216,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224589,
+        "num": 224589,
+        "word": "付完餐具费可以带走餐具吗",
+        "onboard_time": 1727873418,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 377018,
+        "num": 219314,
+        "word": "国庆假期第一批受益者出现了",
+        "onboard_time": 1727872279,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 212204,
+        "num": 212204,
+        "word": "宁艺卓晒了范思哲时装周邀请函",
+        "onboard_time": 1727875160,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210908,
+        "num": 210908,
+        "word": "为啥街边烤鸭只要25块",
+        "onboard_time": 1727869519,
+        "rank": 24,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 188067,
+        "num": 188067,
+        "word": "马龙3比1曾蓓勋",
+        "onboard_time": 1727875699,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 179735,
+        "num": 179735,
+        "word": "中网男单决赛票价太值了",
+        "onboard_time": 1727873778,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 164324,
+        "num": 164324,
+        "word": "爬个山假发被猴子摘了",
+        "onboard_time": 1727869519,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 159375,
+        "num": 159375,
+        "word": "时代少年团棉花娃娃",
+        "onboard_time": 1727867541,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156091,
+        "num": 156091,
+        "word": "王俊凯749局演技",
+        "onboard_time": 1727862618,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 107830,
+        "num": 154982,
+        "word": "阿尔卡拉斯首夺中网冠军",
+        "onboard_time": 1727872518,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 371805,
+        "num": 154980,
+        "word": "金马奖入围名单",
+        "onboard_time": 1727867478,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 154768,
+        "num": 154768,
+        "word": "王楚钦替梁靖崑分享减肥秘诀",
+        "onboard_time": 1727870839,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 152617,
+        "num": 152617,
+        "word": "带孩子四处旅游有意义吗",
+        "onboard_time": 1727871259,
+        "rank": 33,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 149502,
+        "num": 149502,
+        "word": "林俊杰东京演唱会",
+        "onboard_time": 1727875879,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 144231,
+        "num": 144231,
+        "word": "特朗普就伊朗空袭以色列发声",
+        "onboard_time": 1727860277,
+        "rank": 35,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 142868,
+        "num": 142868,
+        "word": "刘烨 三金影帝的实力",
+        "onboard_time": 1727859498,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 133408,
+        "num": 133408,
+        "word": "王楚钦梁靖崑vs洛伦佐萨琳",
+        "onboard_time": 1727863158,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131072,
+        "num": 131072,
+        "word": "人人人人人广州人人人人人",
+        "onboard_time": 1727858118,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30581,
+        "num": 126562,
+        "word": "北京大隐于市的秋日秘境",
+        "onboard_time": 1727875640,
+        "rank": 39,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 122847,
+        "num": 122847,
+        "word": "周启豪3比2奥恰洛夫",
+        "onboard_time": 1727870478,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122597,
+        "num": 122597,
+        "word": "陈丽君谈更多年轻人喜欢上越剧",
+        "onboard_time": 1727866759,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121737,
+        "num": 121737,
+        "word": "张予曦千禧辣妹妆",
+        "onboard_time": 1727872639,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 120184,
+        "num": 120184,
+        "word": "5只熊猫宝宝打架邻居隔墙吃瓜",
+        "onboard_time": 1727873418,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 115215,
+        "num": 115215,
+        "word": "王楚钦称自己心态上没有完全沉下来",
+        "onboard_time": 1727870240,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111874,
+        "num": 111874,
+        "word": "妈妈来大城市工作比我挣钱还多",
+        "onboard_time": 1727874440,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104255,
+        "num": 104255,
+        "word": "恩利说妈妈最好的朋友是刘亦菲",
+        "onboard_time": 1727856139,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 101199,
+        "num": 101199,
+        "word": "外交部回应黎真主党领导人遇袭身亡",
+        "onboard_time": 1727870060,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98657,
+        "num": 98657,
+        "word": "王曼昱晋级16强",
+        "onboard_time": 1727875640,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 92794,
+        "num": 92794,
+        "word": "王源太湖湾",
+        "onboard_time": 1727866640,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#要靠实干奋斗实现中华民族伟大复兴#"
+    }
+  }
+}
