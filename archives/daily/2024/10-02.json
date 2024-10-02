@@ -1,6 +1,6 @@
 {
   "startTime": 1727800165777,
-  "endTime": 1727837553895,
+  "endTime": 1727838114018,
   "band_list": [
     {
       "raw_hot": 2319330,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1223265,
-      "num": 313291,
+      "num": 448611,
       "word": "美方呼吁世界各国一道谴责伊朗",
       "onboard_time": 1727827398,
       "rank": 10,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 945157,
-      "num": 313137,
+      "num": 444053,
       "word": "上海一房东220万卖房临时追加20万",
       "onboard_time": 1727827398,
       "rank": 11,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 857024,
-      "num": 313495,
+      "num": 450993,
       "word": "王皓指导",
       "onboard_time": 1727834118,
       "rank": 21,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 775576,
-      "num": 313107,
+      "num": 446059,
       "word": "以军称伊朗向以色列发射超180枚导弹",
       "onboard_time": 1727827398,
       "rank": 12,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 746143,
-      "num": 312689,
+      "num": 342778,
       "word": "伊朗伊斯兰革命卫队发布第二份声明",
       "onboard_time": 1727830878,
       "rank": 30,
@@ -113,6 +113,14 @@
       "onboard_time": 1727795660,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 599402,
+      "num": 447755,
+      "word": "伊朗公布下令向以色列发射导弹视频",
+      "onboard_time": 1727836398,
+      "rank": 17,
+      "category": "国外时政"
     },
     {
       "raw_hot": 566779,
@@ -155,6 +163,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 472176,
+      "num": 472176,
+      "word": "港股",
+      "onboard_time": 1727836458,
+      "rank": 6,
+      "category": "财经"
+    },
+    {
       "raw_hot": 470597,
       "num": 764214,
       "word": "王楚钦1比3林德",
@@ -171,8 +187,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 468495,
+      "num": 468495,
+      "word": "人人人人景点人人人人",
+      "onboard_time": 1727836216,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 459767,
-      "num": 313910,
+      "num": 456396,
       "word": "林德称上次就觉得能赢王楚钦",
       "onboard_time": 1727826557,
       "rank": 7,
@@ -225,14 +249,6 @@
       "onboard_time": 1727827276,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 371634,
-      "num": 312503,
-      "word": "伊朗公布下令向以色列发射导弹视频",
-      "onboard_time": 1727836398,
-      "rank": 17,
-      "category": "国外时政"
     },
     {
       "raw_hot": 355239,
@@ -291,28 +307,20 @@
       "category": "国外时政,军事"
     },
     {
-      "raw_hot": 314139,
-      "num": 314139,
-      "word": "人人人人景点人人人人",
-      "onboard_time": 1727836216,
-      "rank": 1,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 313872,
-      "num": 313872,
-      "word": "港股",
-      "onboard_time": 1727836458,
-      "rank": 6,
-      "category": "财经"
-    },
-    {
       "raw_hot": 310377,
       "num": 789104,
       "word": "上海东方明珠塔为国庆亮灯",
       "onboard_time": 1727797699,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 310196,
+      "num": 287539,
+      "word": "孙怡生图",
+      "onboard_time": 1727836398,
+      "rank": 24,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 294931,
@@ -331,12 +339,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 263775,
-      "num": 263775,
-      "word": "孙怡生图",
-      "onboard_time": 1727836398,
-      "rank": 24,
-      "category": "作品衍生,时尚"
+      "raw_hot": 271714,
+      "num": 375692,
+      "word": "因为爱你反复热泪盈眶",
+      "onboard_time": 1727834418,
+      "rank": 29,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 262977,
@@ -371,12 +379,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 242576,
-      "num": 242576,
-      "word": "因为爱你反复热泪盈眶",
-      "onboard_time": 1727834418,
-      "rank": 29,
-      "category": "社会新闻,艺人"
+      "raw_hot": 233957,
+      "num": 233957,
+      "word": "欧豪包场赵丽颖浴火之路",
+      "onboard_time": 1727836818,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 232689,
@@ -393,6 +401,14 @@
       "onboard_time": 1727815520,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 226497,
+      "num": 226497,
+      "word": "iPhone16遭苹果砍单",
+      "onboard_time": 1727837658,
+      "rank": 30,
+      "category": "数码"
     },
     {
       "raw_hot": 220096,
@@ -427,20 +443,20 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 208707,
-      "num": 208707,
-      "word": "欧豪包场赵丽颖浴火之路",
-      "onboard_time": 1727836818,
-      "rank": 36,
-      "category": "电影"
-    },
-    {
       "raw_hot": 205562,
       "num": 435419,
       "word": "剩下的6天假期准备怎么过",
       "onboard_time": 1727788820,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 205248,
+      "num": 205248,
+      "word": "杨幂日落日出plog",
+      "onboard_time": 1727837058,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 204775,
@@ -467,14 +483,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 197839,
-      "num": 197839,
-      "word": "杨幂日落日出plog",
-      "onboard_time": 1727837058,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 195836,
       "num": 195836,
       "word": "安溥手写国庆祝福",
@@ -484,7 +492,7 @@
     },
     {
       "raw_hot": 194255,
-      "num": 313675,
+      "num": 452897,
       "word": "表白祖国我是14亿分之一",
       "onboard_time": 1727835798,
       "rank": 8,
@@ -497,6 +505,14 @@
       "onboard_time": 1727783358,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 186896,
+      "num": 186896,
+      "word": "KPL",
+      "onboard_time": 1727837778,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 184286,
@@ -513,6 +529,22 @@
       "onboard_time": 1727795780,
       "rank": 25,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 181248,
+      "num": 181248,
+      "word": "伊朗总统称强烈回应以色列侵略",
+      "onboard_time": 1727836818,
+      "rank": 41,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 178333,
+      "num": 178333,
+      "word": "以色列特拉维夫枪击事件致6死",
+      "onboard_time": 1727837598,
+      "rank": 42,
+      "category": "国外时政"
     },
     {
       "raw_hot": 177538,
@@ -539,16 +571,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 173095,
-      "num": 173095,
-      "word": "伊朗总统称强烈回应以色列侵略",
-      "onboard_time": 1727836818,
-      "rank": 41,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 166671,
-      "num": 313772,
+      "num": 454486,
       "word": "浴火之路 纯粹的快意恩仇",
       "onboard_time": 1727834959,
       "rank": 7,
@@ -561,6 +585,14 @@
       "onboard_time": 1727756059,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 164581,
+      "num": 164581,
+      "word": "这衣服一件更比六件强",
+      "onboard_time": 1727834837,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 163804,
@@ -611,6 +643,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 151673,
+      "num": 151673,
+      "word": "斩神",
+      "onboard_time": 1727836879,
+      "rank": 45,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 150429,
       "num": 150429,
       "word": "伊朗称90%导弹成功击中目标",
@@ -635,22 +675,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 148113,
-      "num": 148113,
-      "word": "斩神",
-      "onboard_time": 1727836879,
-      "rank": 45,
-      "category": "动漫"
-    },
-    {
-      "raw_hot": 147581,
-      "num": 147581,
-      "word": "这衣服一件更比六件强",
-      "onboard_time": 1727834837,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 145327,
       "num": 145327,
       "word": "被祖国成就震撼的那一刻",
@@ -667,6 +691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 135723,
+      "num": 135723,
+      "word": "马龙王楚钦孙颖莎等今日出战WTT",
+      "onboard_time": 1727838018,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 132469,
       "num": 237167,
       "word": "国庆假期他们坚守战位的样子真帅",
@@ -675,7 +707,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 123474,
+      "raw_hot": 129539,
       "num": 247451,
       "word": "港股爆发",
       "onboard_time": 1727837178,
@@ -724,7 +756,7 @@
     },
     {
       "raw_hot": 107721,
-      "num": 313617,
+      "num": 451940,
       "word": "港股继续大涨",
       "onboard_time": 1727836579,
       "rank": 9,
@@ -988,7 +1020,7 @@
     },
     {
       "raw_hot": 27818,
-      "num": 312936,
+      "num": 445189,
       "word": "一镜打卡32处武汉地标",
       "onboard_time": 1727836458,
       "rank": 14,
@@ -1027,8 +1059,16 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 23348,
+      "num": 226656,
+      "word": "看志愿军存亡之战哭惨了",
+      "onboard_time": 1727838078,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 22954,
-      "num": 347445,
+      "num": 469758,
       "word": "国庆假期预计近20亿人次跨区域出行",
       "onboard_time": 1727792901,
       "rank": 2,
@@ -1049,6 +1089,14 @@
       "onboard_time": 1727808132,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 19251,
+      "num": 244929,
+      "word": "港股券商股开盘继续大涨",
+      "onboard_time": 1727837058,
+      "rank": 28,
+      "category": "财经"
     },
     {
       "raw_hot": 18767,
@@ -1081,14 +1129,6 @@
       "onboard_time": 1727812991,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 15982,
-      "num": 244929,
-      "word": "港股券商股开盘继续大涨",
-      "onboard_time": 1727837058,
-      "rank": 28,
-      "category": "财经"
     },
     {
       "raw_hot": 14584,
