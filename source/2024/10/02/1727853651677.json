@@ -1,0 +1,410 @@
+{
+  "runTime": 1727853651677,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 763058,
+        "num": 1122089,
+        "word": "人人人人景点人人人人",
+        "onboard_time": 1727836216,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254138,
+        "num": 254138,
+        "word": "HPV疫苗已降到20多元1支",
+        "onboard_time": 1727824215,
+        "rank": 1,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 9377,
+        "num": 242635,
+        "word": "国庆仪式感让清澈的爱具象化了",
+        "onboard_time": 1727829978,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 314880,
+        "num": 242141,
+        "word": "王楚钦止步中国大满贯32强",
+        "onboard_time": 1727789425,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 231349,
+        "num": 231349,
+        "word": "交警无人机高速提供叫醒服务",
+        "onboard_time": 1727850318,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191211,
+        "num": 191211,
+        "word": "人人人人人苏州人人人人人",
+        "onboard_time": 1727838617,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152217,
+        "num": 191204,
+        "word": "威震天 我不想再拯救你了",
+        "onboard_time": 1727847317,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 148518,
+        "num": 191015,
+        "word": "假期第2天你准备做什么",
+        "onboard_time": 1727850259,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109745,
+        "num": 190812,
+        "word": "浴火之路",
+        "onboard_time": 1727839458,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 16285,
+        "num": 190648,
+        "word": "上海新盘到访量显著增加",
+        "onboard_time": 1727852538,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 536881,
+        "num": 190487,
+        "word": "以驻联合国代表谴责伊朗导弹袭击",
+        "onboard_time": 1727850079,
+        "rank": 10,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 466137,
+        "num": 190342,
+        "word": "陆川 有什么事冲我来",
+        "onboard_time": 1727839878,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 414575,
+        "num": 190208,
+        "word": "内塔尼亚胡在掩体中宣称伊朗败了",
+        "onboard_time": 1727840358,
+        "rank": 12,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 410205,
+        "num": 190052,
+        "word": "王俊凯演技",
+        "onboard_time": 1727839398,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 387230,
+        "num": 190008,
+        "word": "伊朗宣布对以色列行动已结束",
+        "onboard_time": 1727844858,
+        "rank": 14,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 307679,
+        "num": 189816,
+        "word": "国庆档电影豆瓣开分",
+        "onboard_time": 1727847617,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 264383,
+        "num": 189720,
+        "word": "宋茜当导游有亿点人脉",
+        "onboard_time": 1727851158,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 31457,
+        "num": 189450,
+        "word": "以官员称将对伊朗发动重大报复",
+        "onboard_time": 1727852718,
+        "rank": 17,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 260345,
+        "num": 189368,
+        "word": "以军称伊朗向以色列发射超180枚导弹",
+        "onboard_time": 1727827398,
+        "rank": 18,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 17130,
+        "num": 189190,
+        "word": "用美食看中国",
+        "onboard_time": 1727853078,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 306095,
+        "num": 189123,
+        "word": "为什么现在酒店退房不查房了",
+        "onboard_time": 1727836280,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232698,
+        "num": 188926,
+        "word": "景区缆车门被大风吹开致游客坠落",
+        "onboard_time": 1727850378,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229789,
+        "num": 188753,
+        "word": "何卓佳11比1",
+        "onboard_time": 1727850198,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 192055,
+        "num": 188610,
+        "word": "张本美和三项比赛全部出局",
+        "onboard_time": 1727850858,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 188568,
+        "num": 188568,
+        "word": "张凌赫田曦薇平番",
+        "onboard_time": 1727853558,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159051,
+        "num": 159051,
+        "word": "马龙再现东方魔法",
+        "onboard_time": 1727853198,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158192,
+        "num": 158192,
+        "word": "谁懂刘亦菲走的这几步",
+        "onboard_time": 1727845637,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 152896,
+        "num": 152896,
+        "word": "河南1000万大奖无人认领成弃奖",
+        "onboard_time": 1727848579,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149405,
+        "num": 149405,
+        "word": "iPhone16遭苹果砍单",
+        "onboard_time": 1727837658,
+        "rank": 28,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 118457,
+        "num": 148638,
+        "word": "商务部回应加拿大对我国电动汽车加征关税",
+        "onboard_time": 1727846539,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 147946,
+        "num": 147946,
+        "word": "逐玉",
+        "onboard_time": 1727852958,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141916,
+        "num": 141916,
+        "word": "孙颖莎教月亮姐姐打乒乓球",
+        "onboard_time": 1727847859,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 139557,
+        "num": 139557,
+        "word": "陈飞宇要请嗯哼全班看电影",
+        "onboard_time": 1727851459,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 137030,
+        "num": 137030,
+        "word": "伊朗公布下令向以色列发射导弹视频",
+        "onboard_time": 1727836398,
+        "rank": 33,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 133106,
+        "num": 133106,
+        "word": "伊朗首次使用高超音速导弹",
+        "onboard_time": 1727845998,
+        "rank": 34,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 129462,
+        "num": 129462,
+        "word": "美国大选",
+        "onboard_time": 1727841138,
+        "rank": 35,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 126756,
+        "num": 126756,
+        "word": "王皓指导",
+        "onboard_time": 1727834118,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119074,
+        "num": 119074,
+        "word": "以色列或将打开无休止战争之门",
+        "onboard_time": 1727850498,
+        "rank": 37,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 104471,
+        "num": 104471,
+        "word": "高雅cp",
+        "onboard_time": 1727844799,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 104386,
+        "num": 104386,
+        "word": "749局豆瓣开分5.0",
+        "onboard_time": 1727838679,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 100207,
+        "num": 100207,
+        "word": "国庆假期第2天你在哪里过的",
+        "onboard_time": 1727838199,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112438,
+        "num": 99983,
+        "word": "樊振东与王皓儿子合照",
+        "onboard_time": 1727843117,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 87315,
+        "num": 99805,
+        "word": "没人告诉我王楚然这么搞笑啊",
+        "onboard_time": 1727852177,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99756,
+        "num": 99756,
+        "word": "这月的工资已经提前花了",
+        "onboard_time": 1727849238,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 94290,
+        "num": 94290,
+        "word": "港股爆发",
+        "onboard_time": 1727837178,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 93358,
+        "num": 93358,
+        "word": "陈幸同钱天一进女双8强",
+        "onboard_time": 1727853317,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 92041,
+        "num": 92041,
+        "word": "朴彩英正规一辑Rosie",
+        "onboard_time": 1727853017,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 91059,
+        "num": 91059,
+        "word": "侯明昊没有一块肌肉是白练的",
+        "onboard_time": 1727853558,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 88348,
+        "num": 88348,
+        "word": "谭飞 王俊凯撑住了每个档期",
+        "onboard_time": 1727845818,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 87620,
+        "num": 87620,
+        "word": "国庆假期第二天",
+        "onboard_time": 1727825775,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#感悟总书记的传统文化情结#"
+    }
+  }
+}

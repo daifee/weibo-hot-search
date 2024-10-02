@@ -1,6 +1,6 @@
 {
   "startTime": 1727540758074,
-  "endTime": 1727851454245,
+  "endTime": 1727853651677,
   "band_list": [
     {
       "raw_hot": 11925969,
@@ -1483,6 +1483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 536881,
+      "num": 232731,
+      "word": "以驻联合国代表谴责伊朗导弹袭击",
+      "onboard_time": 1727850079,
+      "rank": 21,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 536450,
       "num": 347830,
       "word": "这大概是最费发夹的发型了",
@@ -1641,14 +1649,6 @@
       "onboard_time": 1727580381,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 500011,
-      "num": 232731,
-      "word": "以驻联合国代表谴责伊朗导弹袭击",
-      "onboard_time": 1727850079,
-      "rank": 21,
-      "category": "国外时政"
     },
     {
       "raw_hot": 498798,
@@ -3267,6 +3267,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 264383,
+      "num": 207194,
+      "word": "宋茜当导游有亿点人脉",
+      "onboard_time": 1727851158,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 264057,
       "num": 264057,
       "word": "全红婵展示什么是痛包",
@@ -3723,6 +3731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 232698,
+      "num": 188926,
+      "word": "景区缆车门被大风吹开致游客坠落",
+      "onboard_time": 1727850378,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 232689,
       "num": 228614,
       "word": "罗永浩 该走的没走不该走的走了",
@@ -3777,6 +3793,14 @@
       "onboard_time": 1727776578,
       "rank": 26,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 231349,
+      "num": 239148,
+      "word": "交警无人机高速提供叫醒服务",
+      "onboard_time": 1727850318,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 231042,
@@ -4273,14 +4297,6 @@
       "onboard_time": 1727747058,
       "rank": 30,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 207194,
-      "num": 207194,
-      "word": "宋茜当导游有亿点人脉",
-      "onboard_time": 1727851158,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 206504,
@@ -4851,6 +4867,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 192055,
+      "num": 188610,
+      "word": "张本美和三项比赛全部出局",
+      "onboard_time": 1727850858,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 192038,
       "num": 192038,
       "word": "749局王俊凯跑酷戏",
@@ -5025,6 +5049,14 @@
       "onboard_time": 1727750658,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 188568,
+      "num": 188568,
+      "word": "张凌赫田曦薇平番",
+      "onboard_time": 1727853558,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 188313,
@@ -5249,14 +5281,6 @@
       "onboard_time": 1727665520,
       "rank": 32,
       "category": "财经"
-    },
-    {
-      "raw_hot": 182863,
-      "num": 182863,
-      "word": "张本美和三项比赛全部出局",
-      "onboard_time": 1727850858,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 182860,
@@ -5995,14 +6019,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 161153,
-      "num": 161153,
-      "word": "景区缆车门被大风吹开致游客坠落",
-      "onboard_time": 1727850378,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 160759,
       "num": 354479,
       "word": "王俊凯新片749局是怎样的电影",
@@ -6057,6 +6073,14 @@
       "onboard_time": 1727737396,
       "rank": 28,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 159051,
+      "num": 159051,
+      "word": "马龙再现东方魔法",
+      "onboard_time": 1727853198,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 158740,
@@ -6507,6 +6531,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 148518,
+      "num": 191015,
+      "word": "假期第2天你准备做什么",
+      "onboard_time": 1727850259,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 148403,
       "num": 148403,
       "word": "诗画江南浙江拍了拍你",
@@ -6521,6 +6553,14 @@
       "onboard_time": 1727671999,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 147946,
+      "num": 147946,
+      "word": "逐玉",
+      "onboard_time": 1727852958,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 147850,
@@ -6817,6 +6857,14 @@
       "onboard_time": 1727623340,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 139557,
+      "num": 139557,
+      "word": "陈飞宇要请嗯哼全班看电影",
+      "onboard_time": 1727851459,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 139375,
@@ -8043,6 +8091,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 119074,
+      "num": 236043,
+      "word": "以色列或将打开无休止战争之门",
+      "onboard_time": 1727850498,
+      "rank": 14,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 119047,
       "num": 140545,
       "word": "国庆档新片票房破6亿",
@@ -8643,14 +8699,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 107332,
-      "num": 239148,
-      "word": "交警无人机高速提供叫醒服务",
-      "onboard_time": 1727850318,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 107293,
       "num": 168115,
       "word": "二十一天",
@@ -9131,6 +9179,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 93358,
+      "num": 93358,
+      "word": "陈幸同钱天一进女双8强",
+      "onboard_time": 1727853317,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 93173,
       "num": 382927,
       "word": "到底是谁抢到了霸王茶姬宠物周边",
@@ -9153,6 +9209,14 @@
       "onboard_time": 1727747838,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 92041,
+      "num": 92041,
+      "word": "朴彩英正规一辑Rosie",
+      "onboard_time": 1727853017,
+      "rank": 46,
+      "category": "音乐"
     },
     {
       "raw_hot": 92027,
@@ -9185,6 +9249,14 @@
       "onboard_time": 1727841800,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 91059,
+      "num": 91059,
+      "word": "侯明昊没有一块肌肉是白练的",
+      "onboard_time": 1727853558,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 90722,
@@ -9257,6 +9329,14 @@
       "onboard_time": 1727568197,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 87315,
+      "num": 99805,
+      "word": "没人告诉我王楚然这么搞笑啊",
+      "onboard_time": 1727852177,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 87297,
@@ -9881,14 +9961,6 @@
       "onboard_time": 1727561593,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 61151,
-      "num": 236043,
-      "word": "以色列或将打开无休止战争之门",
-      "onboard_time": 1727850498,
-      "rank": 14,
-      "category": "国外时政"
     },
     {
       "raw_hot": 60776,
@@ -10851,6 +10923,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 31457,
+      "num": 189450,
+      "word": "以官员称将对伊朗发动重大报复",
+      "onboard_time": 1727852718,
+      "rank": 17,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 31402,
       "num": 234929,
       "word": "黎巴嫩真主党领袖身亡细节披露",
@@ -11339,6 +11419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 17130,
+      "num": 189190,
+      "word": "用美食看中国",
+      "onboard_time": 1727853078,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 16796,
       "num": 19727,
       "word": "中国工匠雕玉石一眼惊艳",
@@ -11353,6 +11441,14 @@
       "onboard_time": 1727812991,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 16285,
+      "num": 190648,
+      "word": "上海新盘到访量显著增加",
+      "onboard_time": 1727852538,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 15432,
