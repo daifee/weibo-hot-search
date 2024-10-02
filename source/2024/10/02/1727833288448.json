@@ -1,0 +1,410 @@
+{
+  "runTime": 1727833288448,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 747235,
+        "num": 1119557,
+        "word": "HPV疫苗已降到20多元1支",
+        "onboard_time": 1727824215,
+        "rank": 0,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 275972,
+        "num": 275972,
+        "word": "华春莹连发18组对比图展现中国变化",
+        "onboard_time": 1727798418,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22954,
+        "num": 272799,
+        "word": "国庆假期预计近20亿人次跨区域出行",
+        "onboard_time": 1727792901,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1062127,
+        "num": 265949,
+        "word": "王楚钦止步中国大满贯32强",
+        "onboard_time": 1727789425,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 366003,
+        "num": 258798,
+        "word": "电影749局 观后感",
+        "onboard_time": 1727789063,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 8367,
+        "num": 250081,
+        "word": "国庆博物馆打卡攻略",
+        "onboard_time": 1727792721,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 6633,
+        "num": 240693,
+        "word": "太空视角看日新月异的中国",
+        "onboard_time": 1727793621,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 444940,
+        "num": 231930,
+        "word": "林德称上次就觉得能赢王楚钦",
+        "onboard_time": 1727826557,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 229073,
+        "num": 229073,
+        "word": "WTT",
+        "onboard_time": 1727830699,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132469,
+        "num": 229051,
+        "word": "国庆假期他们坚守战位的样子真帅",
+        "onboard_time": 1727832738,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1223265,
+        "num": 229034,
+        "word": "美方呼吁世界各国一道谴责伊朗",
+        "onboard_time": 1727827398,
+        "rank": 10,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 945157,
+        "num": 229012,
+        "word": "上海一房东220万卖房临时追加20万",
+        "onboard_time": 1727827398,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 775576,
+        "num": 228970,
+        "word": "以军称伊朗向以色列发射超180枚导弹",
+        "onboard_time": 1727827398,
+        "rank": 12,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 584442,
+        "num": 228961,
+        "word": "身份证尾号是X的人要吃多少苦",
+        "onboard_time": 1727781678,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 557705,
+        "num": 228920,
+        "word": "伊朗袭击以色列后地区多国民众庆祝",
+        "onboard_time": 1727829558,
+        "rank": 14,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 546209,
+        "num": 228890,
+        "word": "拜登下令美军助以击落伊朗导弹",
+        "onboard_time": 1727827218,
+        "rank": 15,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 503850,
+        "num": 228875,
+        "word": "导弹在以色列上空飞过",
+        "onboard_time": 1727827158,
+        "rank": 16,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 456500,
+        "num": 228847,
+        "word": "王皓表情",
+        "onboard_time": 1727792721,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 450377,
+        "num": 228830,
+        "word": "起猛了看到赵丽颖张百乔拜堂戏",
+        "onboard_time": 1727825836,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 350263,
+        "num": 228798,
+        "word": "A股彻底爆了现在进场还来得及吗",
+        "onboard_time": 1727795841,
+        "rank": 19,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 394385,
+        "num": 228760,
+        "word": "女生为减肥当快递分拣员3天瘦4斤",
+        "onboard_time": 1727827276,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 309968,
+        "num": 228745,
+        "word": "以总理称伊朗犯下大错将付出代价",
+        "onboard_time": 1727826076,
+        "rank": 21,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 261538,
+        "num": 228716,
+        "word": "球童是王皓儿子",
+        "onboard_time": 1727794402,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 251172,
+        "num": 228688,
+        "word": "身体真正需要的高效休息",
+        "onboard_time": 1727830639,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 77306,
+        "num": 228664,
+        "word": "志愿军 第二部比第一部好看",
+        "onboard_time": 1727787800,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 236781,
+        "num": 228639,
+        "word": "伊朗向以色列发动大规模导弹袭击",
+        "onboard_time": 1727802615,
+        "rank": 25,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 232689,
+        "num": 228614,
+        "word": "罗永浩 该走的没走不该走的走了",
+        "onboard_time": 1727825476,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198112,
+        "num": 228596,
+        "word": "国庆假期第二天",
+        "onboard_time": 1727825775,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 228572,
+        "num": 228572,
+        "word": "我的屁股翘到可以顶起一只金毛",
+        "onboard_time": 1727830578,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 225489,
+        "num": 225489,
+        "word": "伊朗总统警告以色列不要对抗伊朗",
+        "onboard_time": 1727832738,
+        "rank": 29,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 746143,
+        "num": 220650,
+        "word": "伊朗伊斯兰革命卫队发布第二份声明",
+        "onboard_time": 1727830878,
+        "rank": 30,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 213041,
+        "num": 213041,
+        "word": "美国警告伊朗将面临制裁",
+        "onboard_time": 1727827398,
+        "rank": 31,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 206996,
+        "num": 206996,
+        "word": "重庆断崖式降温后市民乱穿衣",
+        "onboard_time": 1727795660,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204775,
+        "num": 204775,
+        "word": "以色列要求安理会举行紧急会议",
+        "onboard_time": 1727827637,
+        "rank": 33,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 115044,
+        "num": 202570,
+        "word": "749局成国庆节票房冠军",
+        "onboard_time": 1727789485,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 202427,
+        "num": 202427,
+        "word": "伊能静小作文 考公典范",
+        "onboard_time": 1727787259,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201089,
+        "num": 201089,
+        "word": "王楚钦1比3林德",
+        "onboard_time": 1727789425,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 194954,
+        "num": 194954,
+        "word": "以色列总理伊朗导弹袭击后首发声",
+        "onboard_time": 1727829978,
+        "rank": 37,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 184286,
+        "num": 184286,
+        "word": "莫雷加德说最好的搭档是林昀儒",
+        "onboard_time": 1727832678,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 177538,
+        "num": 177538,
+        "word": "牛吃草为什么突然停顿一下",
+        "onboard_time": 1727826256,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 175721,
+        "num": 175721,
+        "word": "国王老板女儿恋情官宣",
+        "onboard_time": 1727831358,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158446,
+        "num": 158446,
+        "word": "卫昭不抢亲 直接喊停婚礼",
+        "onboard_time": 1727822293,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158023,
+        "num": 158023,
+        "word": "刘亦菲背头暗黑风",
+        "onboard_time": 1727827096,
+        "rank": 42,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 155952,
+        "num": 155952,
+        "word": "赵丽颖演技",
+        "onboard_time": 1727792360,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 155490,
+        "num": 155490,
+        "word": "叙利亚著名主播在以空袭中死亡",
+        "onboard_time": 1727792181,
+        "rank": 44,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 155323,
+        "num": 155323,
+        "word": "披哥们在林依轮家合唱我和我的祖国",
+        "onboard_time": 1727833099,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149273,
+        "num": 149273,
+        "word": "机场安检时擦的小纸片是什么",
+        "onboard_time": 1727831959,
+        "rank": 46,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 145327,
+        "num": 145327,
+        "word": "被祖国成就震撼的那一刻",
+        "onboard_time": 1727825775,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 119047,
+        "num": 140545,
+        "word": "国庆档新片票房破6亿",
+        "onboard_time": 1727829499,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 139333,
+        "num": 139333,
+        "word": "一份份清澈的爱汇聚成今日中国",
+        "onboard_time": 1727830098,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#伟大的中国人民万岁#"
+    }
+  }
+}
