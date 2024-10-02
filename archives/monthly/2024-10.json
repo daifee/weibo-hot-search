@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1727911332372,
+  "endTime": 1727912147212,
   "band_list": [
     {
       "raw_hot": 11925969,
@@ -1339,6 +1339,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 352140,
+      "num": 858859,
+      "word": "六万年一遇彗星闪耀北京上空",
+      "onboard_time": 1727896751,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 348376,
       "num": 348376,
       "word": "WTT",
@@ -1483,6 +1491,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 310109,
+      "num": 310109,
+      "word": "黄山山顶所有饮食都是人力挑上去的",
+      "onboard_time": 1727910494,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 306086,
       "num": 306086,
       "word": "半熟男女 孙涵涵联手曾诚对抗周斌",
@@ -1593,14 +1609,6 @@
       "onboard_time": 1727755581,
       "rank": 22,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 285437,
-      "num": 747076,
-      "word": "六万年一遇彗星闪耀北京上空",
-      "onboard_time": 1727896751,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 285133,
@@ -2065,6 +2073,14 @@
       "onboard_time": 1727754858,
       "rank": 26,
       "category": "母婴育儿,社会新闻"
+    },
+    {
+      "raw_hot": 233621,
+      "num": 169644,
+      "word": "被冰箱贴硬控一小时",
+      "onboard_time": 1727911695,
+      "rank": 15,
+      "category": "幽默"
     },
     {
       "raw_hot": 232689,
@@ -3444,7 +3460,7 @@
     },
     {
       "raw_hot": 152668,
-      "num": 140518,
+      "num": 149267,
       "word": "749局 导演能力",
       "onboard_time": 1727891532,
       "rank": 28,
@@ -3465,6 +3481,14 @@
       "onboard_time": 1727767157,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 152306,
+      "num": 152306,
+      "word": "脱口秀女演员不断拿起话筒",
+      "onboard_time": 1727874620,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 152046,
@@ -4195,14 +4219,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 122399,
-      "num": 122399,
-      "word": "脱口秀女演员不断拿起话筒",
-      "onboard_time": 1727874620,
-      "rank": 48,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 121377,
       "num": 121377,
       "word": "黑神话制作人说这是老祖宗赏饭吃",
@@ -4233,6 +4249,22 @@
       "onboard_time": 1727858658,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 120158,
+      "num": 222961,
+      "word": "中网",
+      "onboard_time": 1727700619,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 119830,
+      "num": 119830,
+      "word": "马龙解释采访被儿子打断",
+      "onboard_time": 1727911034,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 119424,
@@ -5051,6 +5083,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 90799,
+      "num": 90799,
+      "word": "早安我的中国",
+      "onboard_time": 1727911995,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 90722,
       "num": 171550,
       "word": "国庆打卡中国红",
@@ -5235,12 +5275,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 77894,
-      "num": 141678,
-      "word": "黄山山顶所有饮食都是人力挑上去的",
-      "onboard_time": 1727910494,
-      "rank": 9,
-      "category": "社会新闻"
+      "raw_hot": 77420,
+      "num": 77420,
+      "word": "两只猫咪当街被主人抱着打架",
+      "onboard_time": 1727911274,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 76978,
@@ -5363,6 +5403,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 72681,
+      "num": 184743,
+      "word": "黄山山顶餐饮最低10块多",
+      "onboard_time": 1727910494,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 72615,
+      "num": 72615,
+      "word": "为何有人看起来显老有人显年轻",
+      "onboard_time": 1727911335,
+      "rank": 37,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 71023,
       "num": 103454,
       "word": "高鹏 有钱就变坏",
@@ -5387,20 +5443,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 70381,
-      "num": 70381,
-      "word": "马龙解释采访被儿子打断",
-      "onboard_time": 1727911034,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
       "raw_hot": 70014,
       "num": 84313,
       "word": "南京的国庆氛围感拉满",
       "onboard_time": 1727734514,
       "rank": 15,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 69983,
+      "num": 69983,
+      "word": "卫昭做了周生辰不敢做的事",
+      "onboard_time": 1727910675,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 69506,
@@ -5451,20 +5507,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 67254,
+      "num": 67254,
+      "word": "小鹦鹉找回主人礼貌跟民警说拜拜",
+      "onboard_time": 1727911695,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 67229,
+      "num": 67229,
+      "word": "女子空地烧婚纱为自己举办离婚典礼",
+      "onboard_time": 1727911274,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 66748,
       "num": 264012,
       "word": "林诗栋蒯曼混双进8强",
       "onboard_time": 1727791522,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 65385,
-      "num": 65385,
-      "word": "黄山山顶餐饮最低10块多",
-      "onboard_time": 1727910494,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 65010,
@@ -5489,6 +5553,14 @@
       "onboard_time": 1727796980,
       "rank": 17,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 64087,
+      "num": 64087,
+      "word": "郑钦文挺进女单八强",
+      "onboard_time": 1727911755,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 63985,
@@ -5521,14 +5593,6 @@
       "onboard_time": 1727839339,
       "rank": 12,
       "category": "财经"
-    },
-    {
-      "raw_hot": 59956,
-      "num": 59956,
-      "word": "女子空地烧婚纱为自己举办离婚典礼",
-      "onboard_time": 1727911274,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 59133,
@@ -5571,6 +5635,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 57975,
+      "num": 57975,
+      "word": "让无名烈士不再无名",
+      "onboard_time": 1727911875,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 57085,
       "num": 109180,
       "word": "江苏气温跌到个位数",
@@ -5611,14 +5683,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 54848,
-      "num": 54848,
-      "word": "两只猫咪当街被主人抱着打架",
-      "onboard_time": 1727911274,
-      "rank": 39,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 54665,
       "num": 338079,
       "word": "张晚意任敏古装cp感",
@@ -5635,6 +5699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 53902,
+      "num": 188622,
+      "word": "华晨宇说唱向阳而生看到国旗很自豪",
+      "onboard_time": 1727908212,
+      "rank": 29,
+      "category": "演出"
+    },
+    {
       "raw_hot": 53718,
       "num": 419205,
       "word": "9位侗族姑娘给法国人亿点震撼",
@@ -5649,14 +5721,6 @@
       "onboard_time": 1727804174,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 51932,
-      "num": 222961,
-      "word": "中网",
-      "onboard_time": 1727700619,
-      "rank": 27,
-      "category": "体育"
     },
     {
       "raw_hot": 51041,
@@ -5729,14 +5793,6 @@
       "onboard_time": 1727820793,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 46225,
-      "num": 49111,
-      "word": "卫昭做了周生辰不敢做的事",
-      "onboard_time": 1727910675,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 46129,
@@ -5905,14 +5961,6 @@
       "onboard_time": 1727850558,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 38472,
-      "num": 83266,
-      "word": "华晨宇说唱向阳而生看到国旗很自豪",
-      "onboard_time": 1727908212,
-      "rank": 29,
-      "category": "演出"
     },
     {
       "raw_hot": 38434,
