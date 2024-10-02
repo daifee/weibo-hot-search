@@ -1,6 +1,6 @@
 {
   "startTime": 1727800165777,
-  "endTime": 1727839644277,
+  "endTime": 1727840555236,
   "band_list": [
     {
       "raw_hot": 2319330,
@@ -11,12 +11,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2052734,
+      "num": 421957,
+      "word": "陆川 有什么事冲我来",
+      "onboard_time": 1727839878,
+      "rank": 10,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1223265,
       "num": 448611,
       "word": "美方呼吁世界各国一道谴责伊朗",
       "onboard_time": 1727827398,
       "rank": 10,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 1100425,
+      "num": 1176068,
+      "word": "人人人人景点人人人人",
+      "onboard_time": 1727836216,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1030303,
@@ -51,6 +67,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 793385,
+      "num": 447755,
+      "word": "伊朗公布下令向以色列发射导弹视频",
+      "onboard_time": 1727836398,
+      "rank": 17,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 775576,
       "num": 446059,
       "word": "以军称伊朗向以色列发射超180枚导弹",
@@ -65,14 +89,6 @@
       "onboard_time": 1727789063,
       "rank": 4,
       "category": "电影"
-    },
-    {
-      "raw_hot": 761993,
-      "num": 447755,
-      "word": "伊朗公布下令向以色列发射导弹视频",
-      "onboard_time": 1727836398,
-      "rank": 17,
-      "category": "国外时政"
     },
     {
       "raw_hot": 753610,
@@ -107,14 +123,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 661380,
-      "num": 1105820,
-      "word": "人人人人景点人人人人",
-      "onboard_time": 1727836216,
-      "rank": 1,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 628990,
       "num": 312364,
       "word": "伊朗袭击以色列后地区多国民众庆祝",
@@ -132,7 +140,7 @@
     },
     {
       "raw_hot": 566779,
-      "num": 312522,
+      "num": 416940,
       "word": "为什么现在酒店退房不查房了",
       "onboard_time": 1727836280,
       "rank": 20,
@@ -152,6 +160,14 @@
       "word": "赵丽颖演技",
       "onboard_time": 1727792360,
       "rank": 14,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 510699,
+      "num": 418585,
+      "word": "749局豆瓣开分5.0",
+      "onboard_time": 1727838679,
+      "rank": 24,
       "category": "电影"
     },
     {
@@ -177,6 +193,22 @@
       "onboard_time": 1727836458,
       "rank": 6,
       "category": "财经"
+    },
+    {
+      "raw_hot": 497178,
+      "num": 435521,
+      "word": "人人人人人苏州人人人人人",
+      "onboard_time": 1727838617,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 481625,
+      "num": 417957,
+      "word": "王俊凯演技",
+      "onboard_time": 1727839398,
+      "rank": 35,
+      "category": "电影"
     },
     {
       "raw_hot": 470597,
@@ -235,6 +267,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 434099,
+      "num": 415755,
+      "word": "谈恋爱还是得找恋爱脑谈",
+      "onboard_time": 1727839398,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 433391,
       "num": 433391,
       "word": "闫安说王楚钦要熬过艰难的阶段",
@@ -244,11 +284,27 @@
     },
     {
       "raw_hot": 428943,
-      "num": 314557,
+      "num": 415517,
       "word": "明日方舟",
       "onboard_time": 1727839398,
       "rank": 16,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 401925,
+      "num": 401925,
+      "word": "孙颖莎说马龙儿子太可爱了",
+      "onboard_time": 1727839999,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 399576,
+      "num": 399576,
+      "word": "iPhone16遭苹果砍单",
+      "onboard_time": 1727837658,
+      "rank": 30,
+      "category": "数码"
     },
     {
       "raw_hot": 394385,
@@ -257,14 +313,6 @@
       "onboard_time": 1727827276,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 370087,
-      "num": 311514,
-      "word": "iPhone16遭苹果砍单",
-      "onboard_time": 1727837658,
-      "rank": 30,
-      "category": "数码"
     },
     {
       "raw_hot": 355239,
@@ -291,14 +339,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 334929,
-      "num": 310912,
-      "word": "749局豆瓣开分5.0",
-      "onboard_time": 1727838679,
-      "rank": 24,
-      "category": "电影"
-    },
-    {
       "raw_hot": 330635,
       "num": 224190,
       "word": "关晓彤小猫短发",
@@ -308,7 +348,7 @@
     },
     {
       "raw_hot": 330340,
-      "num": 318720,
+      "num": 423377,
       "word": "以总理称伊朗犯下大错将付出代价",
       "onboard_time": 1727826076,
       "rank": 21,
@@ -395,6 +435,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 262626,
+      "num": 262626,
+      "word": "马龙王楚钦孙颖莎等今日出战WTT",
+      "onboard_time": 1727838018,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 259884,
       "num": 228572,
       "word": "我的屁股翘到可以顶起一只金毛",
@@ -411,20 +459,20 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 256717,
+      "num": 256717,
+      "word": "孙颖莎王艺迪vs萨马拉德拉戈曼",
+      "onboard_time": 1727835678,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 251387,
       "num": 251387,
       "word": "国庆假期第二天",
       "onboard_time": 1727825775,
       "rank": 27,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 251293,
-      "num": 251293,
-      "word": "马龙王楚钦孙颖莎等今日出战WTT",
-      "onboard_time": 1727838018,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 245289,
@@ -443,19 +491,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 232667,
+      "num": 232667,
+      "word": "内塔尼亚胡在掩体中宣称伊朗败了",
+      "onboard_time": 1727840358,
+      "rank": 34,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 230252,
       "num": 230252,
       "word": "中国记者徐德智战绩可查",
       "onboard_time": 1727815520,
       "rank": 1,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 227978,
-      "num": 317969,
-      "word": "人人人人人苏州人人人人人",
-      "onboard_time": 1727838617,
-      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -483,14 +531,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 213063,
-      "num": 213063,
-      "word": "王俊凯演技",
-      "onboard_time": 1727839398,
-      "rank": 35,
-      "category": "电影"
-    },
-    {
       "raw_hot": 213041,
       "num": 213041,
       "word": "美国警告伊朗将面临制裁",
@@ -515,6 +555,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 204375,
+      "num": 423668,
+      "word": "浴火之路",
+      "onboard_time": 1727839458,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
       "raw_hot": 204114,
       "num": 204114,
       "word": "披哥们在林依轮家合唱我和我的祖国",
@@ -523,28 +571,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 203770,
+      "num": 203770,
+      "word": "以色列特拉维夫枪击事件致6死",
+      "onboard_time": 1727837598,
+      "rank": 42,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 199070,
       "num": 812128,
       "word": "志愿军 第二部比第一部好看",
       "onboard_time": 1727787800,
       "rank": 0,
       "category": "电影"
-    },
-    {
-      "raw_hot": 198892,
-      "num": 198892,
-      "word": "谈恋爱还是得找恋爱脑谈",
-      "onboard_time": 1727839398,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 198327,
-      "num": 198327,
-      "word": "以色列特拉维夫枪击事件致6死",
-      "onboard_time": 1727837598,
-      "rank": 42,
-      "category": "国外时政"
     },
     {
       "raw_hot": 195836,
@@ -601,14 +641,6 @@
       "onboard_time": 1727795780,
       "rank": 25,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 184102,
-      "num": 313406,
-      "word": "浴火之路",
-      "onboard_time": 1727839458,
-      "rank": 19,
-      "category": "电影"
     },
     {
       "raw_hot": 181248,
@@ -732,7 +764,7 @@
     },
     {
       "raw_hot": 149603,
-      "num": 149603,
+      "num": 449142,
       "word": "一份份清澈的爱汇聚成今日中国",
       "onboard_time": 1727830098,
       "rank": 49,
@@ -745,6 +777,14 @@
       "onboard_time": 1727831959,
       "rank": 46,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 146198,
+      "num": 146198,
+      "word": "林德曾遇严重车祸至今背部仍带着钢板",
+      "onboard_time": 1727840418,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 145327,
@@ -772,7 +812,7 @@
     },
     {
       "raw_hot": 136105,
-      "num": 136105,
+      "num": 214595,
       "word": "国庆假期第2天你在哪里过的",
       "onboard_time": 1727838199,
       "rank": 49,
@@ -788,7 +828,7 @@
     },
     {
       "raw_hot": 129539,
-      "num": 317650,
+      "num": 422269,
       "word": "港股爆发",
       "onboard_time": 1727837178,
       "rank": 27,
@@ -1004,7 +1044,7 @@
     },
     {
       "raw_hot": 61583,
-      "num": 316184,
+      "num": 420977,
       "word": "贝莱德上调中国股票评级",
       "onboard_time": 1727839339,
       "rank": 12,
@@ -1019,12 +1059,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 57703,
-      "num": 147711,
-      "word": "孙颖莎王艺迪vs萨马拉德拉戈曼",
-      "onboard_time": 1727835678,
-      "rank": 46,
-      "category": "体育"
+      "raw_hot": 52690,
+      "num": 420457,
+      "word": "看志愿军存亡之战哭惨了",
+      "onboard_time": 1727838078,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 52219,
@@ -1033,6 +1073,14 @@
       "onboard_time": 1727804174,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 47481,
+      "num": 203488,
+      "word": "10分钟看懂中国知名山脉",
+      "onboard_time": 1727839398,
+      "rank": 39,
+      "category": "旅游"
     },
     {
       "raw_hot": 47410,
@@ -1051,8 +1099,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 43464,
-      "num": 315241,
+      "raw_hot": 43959,
+      "num": 419948,
       "word": "山西文旅如何接住黑神话流量",
       "onboard_time": 1727839398,
       "rank": 14,
@@ -1073,6 +1121,14 @@
       "onboard_time": 1727824815,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 40017,
+      "num": 422962,
+      "word": "国庆打卡祖国大好河山",
+      "onboard_time": 1727840117,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 34362,
@@ -1115,14 +1171,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 29021,
-      "num": 192175,
-      "word": "10分钟看懂中国知名山脉",
-      "onboard_time": 1727839398,
-      "rank": 39,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 27818,
       "num": 445189,
       "word": "一镜打卡32处武汉地标",
@@ -1161,14 +1209,6 @@
       "onboard_time": 1727805072,
       "rank": 15,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 23348,
-      "num": 226656,
-      "word": "看志愿军存亡之战哭惨了",
-      "onboard_time": 1727838078,
-      "rank": 29,
-      "category": "电影"
     },
     {
       "raw_hot": 22954,
@@ -1257,6 +1297,9 @@
     },
     {
       "word": "#伟大的中国人民万岁#"
+    },
+    {
+      "word": "#感悟总书记的传统文化情结#"
     }
   ]
 }
