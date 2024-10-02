@@ -1,6 +1,6 @@
 {
   "startTime": 1727886505064,
-  "endTime": 1727907741830,
+  "endTime": 1727908796203,
   "band_list": [
     {
       "raw_hot": 979862,
@@ -163,6 +163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 194278,
+      "num": 469990,
+      "word": "股民连夜找回密码重启账户",
+      "onboard_time": 1727893273,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 176824,
       "num": 176824,
       "word": "国庆长沙感觉有一亿人",
@@ -211,10 +219,10 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 148668,
-      "num": 368943,
-      "word": "股民连夜找回密码重启账户",
-      "onboard_time": 1727893273,
+      "raw_hot": 146272,
+      "num": 146272,
+      "word": "六万年一遇彗星闪耀北京上空",
+      "onboard_time": 1727896751,
       "rank": 9,
       "category": "社会新闻"
     },
@@ -225,6 +233,14 @@
       "onboard_time": 1727886797,
       "rank": 24,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 133327,
+      "num": 133327,
+      "word": "剩下的5天假期准备如何度过",
+      "onboard_time": 1727890994,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 132710,
@@ -241,14 +257,6 @@
       "onboard_time": 1727869519,
       "rank": 28,
       "category": "美食"
-    },
-    {
-      "raw_hot": 128447,
-      "num": 128447,
-      "word": "剩下的5天假期准备如何度过",
-      "onboard_time": 1727890994,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 127256,
@@ -321,14 +329,6 @@
       "onboard_time": 1727866218,
       "rank": 38,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 98978,
-      "num": 98978,
-      "word": "六万年一遇彗星闪耀北京上空",
-      "onboard_time": 1727896751,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 89619,
@@ -435,20 +435,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 55981,
+      "num": 71206,
+      "word": "杨超越 纪凌尘像被人偷了脑子",
+      "onboard_time": 1727878400,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 55603,
       "num": 89530,
       "word": "749局",
       "onboard_time": 1727881220,
       "rank": 49,
       "category": "电影"
-    },
-    {
-      "raw_hot": 51044,
-      "num": 71206,
-      "word": "杨超越 纪凌尘像被人偷了脑子",
-      "onboard_time": 1727878400,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 49706,
@@ -499,6 +499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 34523,
+      "num": 42768,
+      "word": "神舟十八号乘组在太空祝福祖国",
+      "onboard_time": 1727906832,
+      "rank": 13,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 30289,
       "num": 39897,
       "word": "全国各地开启人从众模式",
@@ -521,6 +529,14 @@
       "onboard_time": 1727902090,
       "rank": 23,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 27619,
+      "num": 44023,
+      "word": "华晨宇说唱向阳而生看到国旗很自豪",
+      "onboard_time": 1727908212,
+      "rank": 29,
+      "category": "演出"
     },
     {
       "raw_hot": 25984,
@@ -555,6 +571,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 18677,
+      "num": 33485,
+      "word": "他让心存质疑的英国科学家竖起大拇指",
+      "onboard_time": 1727907853,
+      "rank": 40,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 17183,
+      "num": 53675,
+      "word": "来自太空的国庆祝福请查收",
+      "onboard_time": 1727908453,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 14939,
       "num": 46661,
       "word": "陕西一小孩哥冒雨扛回吹落国旗",
@@ -579,14 +611,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 13431,
-      "num": 42768,
-      "word": "神舟十八号乘组在太空祝福祖国",
-      "onboard_time": 1727906832,
-      "rank": 13,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 11795,
       "num": 37311,
       "word": "60秒看花开中国姹紫嫣红",
@@ -604,7 +628,7 @@
     },
     {
       "raw_hot": 8658,
-      "num": 101420,
+      "num": 136956,
       "word": "超3.3亿人次假期首日跨区域流动",
       "onboard_time": 1727873659,
       "rank": 2,
