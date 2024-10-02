@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1727882663351,
+  "endTime": 1727883538972,
   "band_list": [
     {
       "raw_hot": 11925969,
@@ -1075,6 +1075,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 440345,
+      "num": 204242,
+      "word": "以色列空军基地被伊朗导弹击中",
+      "onboard_time": 1727881880,
+      "rank": 24,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 439282,
       "num": 439282,
       "word": "高铁晚点",
@@ -1553,6 +1561,14 @@
       "onboard_time": 1727755581,
       "rank": 22,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 285615,
+      "num": 285615,
+      "word": "阿尼西莫娃摔拍",
+      "onboard_time": 1727880320,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 285133,
@@ -2059,6 +2075,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 228060,
+      "num": 256928,
+      "word": "12306没有任何额外收费",
+      "onboard_time": 1727878339,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 227274,
       "num": 504209,
       "word": "浴火之路",
@@ -2185,14 +2209,6 @@
       "onboard_time": 1727738116,
       "rank": 22,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 217742,
-      "num": 204275,
-      "word": "阿尼西莫娃摔拍",
-      "onboard_time": 1727880320,
-      "rank": 23,
-      "category": "体育"
     },
     {
       "raw_hot": 216640,
@@ -2339,14 +2355,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 204890,
-      "num": 256928,
-      "word": "12306没有任何额外收费",
-      "onboard_time": 1727878339,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 204775,
       "num": 204775,
       "word": "以色列要求安理会举行紧急会议",
@@ -2361,14 +2369,6 @@
       "onboard_time": 1727873778,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 204242,
-      "num": 204242,
-      "word": "以色列空军基地被伊朗导弹击中",
-      "onboard_time": 1727881880,
-      "rank": 24,
-      "category": "国外时政"
     },
     {
       "raw_hot": 204114,
@@ -3035,6 +3035,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 167524,
+      "num": 167524,
+      "word": "周冬雨压轴登上红毯",
+      "onboard_time": 1727881940,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 167466,
       "num": 306545,
       "word": "广州有楼盘卖1套房奖销售80万",
@@ -3129,6 +3137,14 @@
       "onboard_time": 1727772979,
       "rank": 32,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 162257,
+      "num": 204578,
+      "word": "327家国家一级博物馆名单",
+      "onboard_time": 1727880199,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 162104,
@@ -3707,6 +3723,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 135556,
+      "num": 135556,
+      "word": "女子遭猴抢包物品被一样样扔下树",
+      "onboard_time": 1727882720,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 135447,
       "num": 135447,
       "word": "毛不易的新歌被各地文旅用上了",
@@ -3851,14 +3875,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 131506,
-      "num": 131506,
-      "word": "周冬雨压轴登上红毯",
-      "onboard_time": 1727881940,
-      "rank": 37,
-      "category": "电影"
-    },
-    {
       "raw_hot": 131485,
       "num": 131485,
       "word": "田嘉瑞 大理掼蛋",
@@ -3929,6 +3945,14 @@
       "onboard_time": 1727759419,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 128689,
+      "num": 128689,
+      "word": "突然发现自己的语言能力退化了",
+      "onboard_time": 1727881820,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 128396,
@@ -4033,14 +4057,6 @@
       "onboard_time": 1727794103,
       "rank": 45,
       "category": "电影"
-    },
-    {
-      "raw_hot": 124762,
-      "num": 204578,
-      "word": "327家国家一级博物馆名单",
-      "onboard_time": 1727880199,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 124504,
@@ -4345,6 +4361,14 @@
       "onboard_time": 1727879000,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 113914,
+      "num": 119176,
+      "word": "赵今麦刘浩存张元英官方认领图",
+      "onboard_time": 1727883440,
+      "rank": 42,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 113400,
@@ -4747,12 +4771,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 99316,
+      "num": 119152,
+      "word": "国庆长沙感觉有一亿人",
+      "onboard_time": 1727882778,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 98628,
       "num": 98628,
       "word": "九寨沟秋雪全糖微冰",
       "onboard_time": 1727776099,
       "rank": 48,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 97866,
+      "num": 119151,
+      "word": "AG战胜EDGM",
+      "onboard_time": 1727880559,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 97802,
@@ -4873,6 +4913,14 @@
       "onboard_time": 1727747838,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 92188,
+      "num": 119129,
+      "word": "黄子弘凡音乐节",
+      "onboard_time": 1727883499,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 92041,
@@ -5100,7 +5148,7 @@
     },
     {
       "raw_hot": 76350,
-      "num": 169277,
+      "num": 176519,
       "word": "古代小孩有多淘",
       "onboard_time": 1727882599,
       "rank": 29,
@@ -5193,6 +5241,14 @@
       "onboard_time": 1727703800,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 73163,
+      "num": 137520,
+      "word": "五星红旗亮相世界第一高楼",
+      "onboard_time": 1727883440,
+      "rank": 34,
+      "category": "国内时政"
     },
     {
       "raw_hot": 71023,
