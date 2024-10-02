@@ -1,6 +1,6 @@
 {
   "startTime": 1727886505064,
-  "endTime": 1727887461042,
+  "endTime": 1727889548550,
   "band_list": [
     {
       "raw_hot": 979862,
@@ -83,6 +83,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 333593,
+      "num": 191244,
+      "word": "澳洲包邮",
+      "onboard_time": 1727882599,
+      "rank": 22,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 289548,
       "num": 250850,
       "word": "向佐的鼻梁骨到底有谁在啊",
@@ -139,14 +147,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 217465,
-      "num": 191244,
-      "word": "澳洲包邮",
-      "onboard_time": 1727882599,
-      "rank": 22,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 208378,
       "num": 208378,
       "word": "双轨男主 何与",
@@ -155,7 +155,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 194104,
+      "raw_hot": 208061,
       "num": 194104,
       "word": "男子身绑20万美元出境被查",
       "onboard_time": 1727884278,
@@ -201,6 +201,22 @@
       "onboard_time": 1727867478,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 150942,
+      "num": 251475,
+      "word": "一文读懂医保统筹支付和自付自费",
+      "onboard_time": 1727886076,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 142547,
+      "num": 149391,
+      "word": "黎巴嫩侨胞说看到五星国旗安心了",
+      "onboard_time": 1727886797,
+      "rank": 24,
+      "category": "国外时政"
     },
     {
       "raw_hot": 132710,
@@ -299,14 +315,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 86928,
-      "num": 251475,
-      "word": "一文读懂医保统筹支付和自付自费",
-      "onboard_time": 1727886076,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 83231,
       "num": 106127,
       "word": "向佐演技好像疯了一样",
@@ -379,14 +387,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 60439,
-      "num": 149391,
-      "word": "黎巴嫩侨胞说看到五星国旗安心了",
-      "onboard_time": 1727886797,
-      "rank": 24,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 57326,
       "num": 89549,
       "word": "王楚钦梁靖崑vs洛伦佐萨琳",
@@ -417,6 +417,38 @@
       "onboard_time": 1727884998,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 49464,
+      "num": 71206,
+      "word": "杨超越 纪凌尘像被人偷了脑子",
+      "onboard_time": 1727878400,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 42155,
+      "num": 71192,
+      "word": "陈丽君马克西姆梦幻联动",
+      "onboard_time": 1727888473,
+      "rank": 49,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 29892,
+      "num": 92796,
+      "word": "战火无情国家有爱",
+      "onboard_time": 1727885657,
+      "rank": 26,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 27578,
+      "num": 108762,
+      "word": "踏上国土的一刻我们就知道安全了",
+      "onboard_time": 1727889134,
+      "rank": 19,
+      "category": "国内时政"
     },
     {
       "raw_hot": 8654,
