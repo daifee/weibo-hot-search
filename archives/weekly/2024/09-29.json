@@ -1,6 +1,6 @@
 {
   "startTime": 1727540758074,
-  "endTime": 1727879945824,
+  "endTime": 1727882663351,
   "band_list": [
     {
       "raw_hot": 11925969,
@@ -339,6 +339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1283205,
+      "num": 204799,
+      "word": "印度拒绝日本亚洲北约提议",
+      "onboard_time": 1727880500,
+      "rank": 11,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 1278215,
       "num": 1278215,
       "word": "749局",
@@ -401,6 +409,14 @@
       "onboard_time": 1727791403,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1175826,
+      "num": 258170,
+      "word": "虞书欣 双轨",
+      "onboard_time": 1727878400,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 1173438,
@@ -489,14 +505,6 @@
       "onboard_time": 1727684658,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1052557,
-      "num": 258170,
-      "word": "虞书欣 双轨",
-      "onboard_time": 1727878400,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 1051685,
@@ -1051,6 +1059,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 708407,
+      "num": 204705,
+      "word": "花少cue王楚钦孙颖莎",
+      "onboard_time": 1727879540,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 707693,
       "num": 275235,
       "word": "伊朗宣布对以色列行动已结束",
@@ -1137,6 +1153,14 @@
       "onboard_time": 1727749879,
       "rank": 12,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 675183,
+      "num": 1108029,
+      "word": "郑钦文vs阿尼西莫娃",
+      "onboard_time": 1727871379,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 674417,
@@ -1371,14 +1395,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 622793,
-      "num": 1099647,
-      "word": "郑钦文vs阿尼西莫娃",
-      "onboard_time": 1727871379,
-      "rank": 5,
-      "category": "体育"
-    },
-    {
       "raw_hot": 622255,
       "num": 1061006,
       "word": "爆冷王楚钦的林德是谁",
@@ -1416,6 +1432,14 @@
       "word": "王楚钦主动示意没上台",
       "onboard_time": 1727611339,
       "rank": 5,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 607811,
+      "num": 607811,
+      "word": "马龙说或许这是最后一次国际赛",
+      "onboard_time": 1727879300,
+      "rank": 27,
       "category": "体育"
     },
     {
@@ -3467,6 +3491,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 275305,
+      "num": 204488,
+      "word": "双轨男主 何与",
+      "onboard_time": 1727880441,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 274826,
       "num": 274826,
       "word": "江苏路段已出现大量车流",
@@ -4427,6 +4459,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 217742,
+      "num": 204275,
+      "word": "阿尼西莫娃摔拍",
+      "onboard_time": 1727880320,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 217697,
       "num": 217697,
       "word": "威少炮轰湖人快船",
@@ -4755,14 +4795,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 205741,
-      "num": 205741,
-      "word": "马龙说或许这是最后一次国际赛",
-      "onboard_time": 1727879300,
-      "rank": 27,
-      "category": "体育"
-    },
-    {
       "raw_hot": 205556,
       "num": 199392,
       "word": "苏新皓声乐考核第一",
@@ -4785,6 +4817,14 @@
       "onboard_time": 1727700619,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 204890,
+      "num": 256928,
+      "word": "12306没有任何额外收费",
+      "onboard_time": 1727878339,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 204775,
@@ -4817,6 +4857,14 @@
       "onboard_time": 1727684360,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 204242,
+      "num": 204242,
+      "word": "以色列空军基地被伊朗导弹击中",
+      "onboard_time": 1727881880,
+      "rank": 24,
+      "category": "国外时政"
     },
     {
       "raw_hot": 204114,
@@ -5088,14 +5136,6 @@
       "word": "张若昀好帅",
       "onboard_time": 1727702899,
       "rank": 40,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 196713,
-      "num": 196713,
-      "word": "花少cue王楚钦孙颖莎",
-      "onboard_time": 1727879540,
-      "rank": 28,
       "category": "综艺"
     },
     {
@@ -6025,6 +6065,14 @@
       "onboard_time": 1727866640,
       "rank": 23,
       "category": "演出"
+    },
+    {
+      "raw_hot": 176582,
+      "num": 176582,
+      "word": "郑钦文扳平",
+      "onboard_time": 1727881160,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 176451,
@@ -7051,6 +7099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 150709,
+      "num": 150709,
+      "word": "王源 Talking之神",
+      "onboard_time": 1727881160,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
       "raw_hot": 150669,
       "num": 150669,
       "word": "你离我很近",
@@ -7923,6 +7979,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 133972,
+      "num": 133972,
+      "word": "林高远一天三胜",
+      "onboard_time": 1727880620,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 133932,
       "num": 133932,
       "word": "王俊凯亮相749局首映礼",
@@ -8107,6 +8171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 131506,
+      "num": 131506,
+      "word": "周冬雨压轴登上红毯",
+      "onboard_time": 1727881940,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 131485,
       "num": 131485,
       "word": "田嘉瑞 大理掼蛋",
@@ -8289,6 +8361,14 @@
       "onboard_time": 1727680700,
       "rank": 42,
       "category": "财经"
+    },
+    {
+      "raw_hot": 128396,
+      "num": 128396,
+      "word": "视觉模拟中国撤侨航线",
+      "onboard_time": 1727882179,
+      "rank": 41,
+      "category": "国外时政"
     },
     {
       "raw_hot": 128358,
@@ -8545,6 +8625,14 @@
       "onboard_time": 1727685320,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 124762,
+      "num": 204578,
+      "word": "327家国家一级博物馆名单",
+      "onboard_time": 1727880199,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 124743,
@@ -9267,6 +9355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 114086,
+      "num": 257192,
+      "word": "郑钦文失首盘",
+      "onboard_time": 1727879000,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 113942,
       "num": 113942,
       "word": "niko锤烂桌子",
@@ -9620,7 +9716,7 @@
     },
     {
       "raw_hot": 106445,
-      "num": 433405,
+      "num": 511569,
       "word": "中华文化的璀璨与浪漫在此刻具象化了",
       "onboard_time": 1727853797,
       "rank": 38,
@@ -10051,6 +10147,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 97546,
+      "num": 113676,
+      "word": "澳洲包邮",
+      "onboard_time": 1727882599,
+      "rank": 48,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 97203,
       "num": 97203,
       "word": "文化中国行感受非遗魅力",
@@ -10121,6 +10225,14 @@
       "onboard_time": 1727771718,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 95568,
+      "num": 128487,
+      "word": "对祖国的爱在此刻具象化了",
+      "onboard_time": 1727880199,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 95521,
@@ -10451,14 +10563,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 83079,
-      "num": 256928,
-      "word": "12306没有任何额外收费",
-      "onboard_time": 1727878339,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 82404,
       "num": 157143,
       "word": "邓恩熙头纱出场",
@@ -10609,6 +10713,14 @@
       "onboard_time": 1727863098,
       "rank": 48,
       "category": "自然"
+    },
+    {
+      "raw_hot": 76350,
+      "num": 169277,
+      "word": "古代小孩有多淘",
+      "onboard_time": 1727882599,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 76306,
@@ -10985,14 +11097,6 @@
       "onboard_time": 1727738657,
       "rank": 45,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 63761,
-      "num": 257192,
-      "word": "郑钦文失首盘",
-      "onboard_time": 1727879000,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 61583,
