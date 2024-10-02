@@ -1,6 +1,6 @@
 {
   "startTime": 1727800165777,
-  "endTime": 1727878768489,
+  "endTime": 1727879945824,
   "band_list": [
     {
       "raw_hot": 2609208,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 1168651,
-      "num": 182499,
+      "num": 187961,
       "word": "金马奖入围名单",
       "onboard_time": 1727867478,
       "rank": 30,
@@ -81,6 +81,14 @@
       "onboard_time": 1727868380,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1052557,
+      "num": 258170,
+      "word": "虞书欣 双轨",
+      "onboard_time": 1727878400,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 1030303,
@@ -132,7 +140,7 @@
     },
     {
       "raw_hot": 793650,
-      "num": 240196,
+      "num": 257675,
       "word": "付完餐具费可以带走餐具吗",
       "onboard_time": 1727873418,
       "rank": 23,
@@ -283,6 +291,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 622793,
+      "num": 1099647,
+      "word": "郑钦文vs阿尼西莫娃",
+      "onboard_time": 1727871379,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 622255,
       "num": 1061006,
       "word": "爆冷王楚钦的林德是谁",
@@ -313,6 +329,14 @@
       "onboard_time": 1727859498,
       "rank": 11,
       "category": "电影"
+    },
+    {
+      "raw_hot": 591567,
+      "num": 256862,
+      "word": "伊朗称200枚导弹90%击中预设目标",
+      "onboard_time": 1727877080,
+      "rank": 17,
+      "category": "国外时政"
     },
     {
       "raw_hot": 566779,
@@ -425,14 +449,6 @@
       "onboard_time": 1727871740,
       "rank": 18,
       "category": "电影"
-    },
-    {
-      "raw_hot": 471848,
-      "num": 471848,
-      "word": "郑钦文vs阿尼西莫娃",
-      "onboard_time": 1727871379,
-      "rank": 5,
-      "category": "体育"
     },
     {
       "raw_hot": 470597,
@@ -691,14 +707,6 @@
       "category": "国外时政,军事"
     },
     {
-      "raw_hot": 311223,
-      "num": 230563,
-      "word": "伊朗称200枚导弹90%击中预设目标",
-      "onboard_time": 1727877080,
-      "rank": 17,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 310810,
       "num": 310810,
       "word": "孙怡生图",
@@ -769,6 +777,14 @@
       "onboard_time": 1727855178,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 285133,
+      "num": 255492,
+      "word": "宁艺卓晒了范思哲时装周邀请函",
+      "onboard_time": 1727875160,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 282347,
@@ -843,6 +859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 263764,
+      "num": 255463,
+      "word": "马龙希望两个儿子度过愉快夜晚",
+      "onboard_time": 1727877680,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 262977,
       "num": 228688,
       "word": "身体真正需要的高效休息",
@@ -859,20 +883,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 261348,
+      "num": 255122,
+      "word": "杨超越 纪凌尘像被人偷了脑子",
+      "onboard_time": 1727878400,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 259884,
       "num": 228572,
       "word": "我的屁股翘到可以顶起一只金毛",
       "onboard_time": 1727830578,
       "rank": 28,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 259500,
-      "num": 223518,
-      "word": "宁艺卓晒了范思哲时装周邀请函",
-      "onboard_time": 1727875160,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 256811,
@@ -1075,6 +1099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 205741,
+      "num": 205741,
+      "word": "马龙说或许这是最后一次国际赛",
+      "onboard_time": 1727879300,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 205562,
       "num": 435419,
       "word": "剩下的6天假期准备怎么过",
@@ -1163,6 +1195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 196713,
+      "num": 196713,
+      "word": "花少cue王楚钦孙颖莎",
+      "onboard_time": 1727879540,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 195836,
       "num": 195836,
       "word": "安溥手写国庆祝福",
@@ -1185,14 +1225,6 @@
       "onboard_time": 1727860157,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 193528,
-      "num": 193528,
-      "word": "虞书欣 双轨",
-      "onboard_time": 1727878400,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 192055,
@@ -1473,14 +1505,6 @@
       "onboard_time": 1727834837,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 163888,
-      "num": 163888,
-      "word": "马龙希望两个儿子度过愉快夜晚",
-      "onboard_time": 1727877680,
-      "rank": 33,
-      "category": "体育"
     },
     {
       "raw_hot": 163854,
@@ -1899,6 +1923,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 126439,
+      "num": 255912,
+      "word": "妈妈来大城市工作比我挣钱还多",
+      "onboard_time": 1727874440,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 126397,
       "num": 126397,
       "word": "钟楚曦 好考验头骨的发型",
@@ -1915,28 +1947,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 125228,
-      "num": 125228,
-      "word": "杨超越 纪凌尘像被人偷了脑子",
-      "onboard_time": 1727878400,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 122907,
       "num": 122907,
       "word": "刘宇用纸巾给自己打光",
       "onboard_time": 1727794880,
       "rank": 31,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 122681,
-      "num": 122681,
-      "word": "妈妈来大城市工作比我挣钱还多",
-      "onboard_time": 1727874440,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 120713,
@@ -2275,6 +2291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 100379,
+      "num": 127468,
+      "word": "朱一龙演技",
+      "onboard_time": 1727879901,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
       "raw_hot": 99729,
       "num": 99729,
       "word": "周启豪逆转晋级16强",
@@ -2419,6 +2443,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 83079,
+      "num": 256928,
+      "word": "12306没有任何额外收费",
+      "onboard_time": 1727878339,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 79503,
       "num": 171818,
       "word": "合肥地震",
@@ -2560,6 +2592,14 @@
       "word": "孙颖莎没不舒服就是不得劲",
       "onboard_time": 1727786720,
       "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 63761,
+      "num": 257192,
+      "word": "郑钦文失首盘",
+      "onboard_time": 1727879000,
+      "rank": 14,
       "category": "体育"
     },
     {
@@ -2779,14 +2819,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 34123,
-      "num": 182542,
-      "word": "12306没有任何额外收费",
-      "onboard_time": 1727878339,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 33224,
       "num": 218134,
       "word": "三代人接力合唱今天是你的生日",
@@ -2809,6 +2841,14 @@
       "onboard_time": 1727860217,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 31871,
+      "num": 188106,
+      "word": "一抹抹中国红是国庆独特风景线",
+      "onboard_time": 1727879901,
+      "rank": 29,
+      "category": "国内时政"
     },
     {
       "raw_hot": 31518,
