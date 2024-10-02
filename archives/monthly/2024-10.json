@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1727872949074,
+  "endTime": 1727873924769,
   "band_list": [
     {
       "raw_hot": 11925969,
@@ -35,7 +35,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2467902,
+      "raw_hot": 2609208,
       "num": 298379,
       "word": "女生付完6元餐具费后打包带走碗筷",
       "onboard_time": 1727870601,
@@ -196,7 +196,7 @@
     },
     {
       "raw_hot": 1168651,
-      "num": 157001,
+      "num": 162624,
       "word": "金马奖入围名单",
       "onboard_time": 1727867478,
       "rank": 30,
@@ -220,7 +220,7 @@
     },
     {
       "raw_hot": 1095624,
-      "num": 386056,
+      "num": 485560,
       "word": "王楚钦回应单打失利",
       "onboard_time": 1727868380,
       "rank": 14,
@@ -523,6 +523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 694003,
+      "num": 1111040,
+      "word": "提醒我公民暂勿前往以色列",
+      "onboard_time": 1727869519,
+      "rank": 0,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 693254,
       "num": 340944,
       "word": "合肥肥东今年已经发生6次3级以上地震",
@@ -531,20 +539,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 691455,
-      "num": 1110632,
-      "word": "提醒我公民暂勿前往以色列",
-      "onboard_time": 1727869519,
-      "rank": 0,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 685826,
       "num": 419605,
       "word": "美公布美俄战机空中交锋视频",
       "onboard_time": 1727749879,
       "rank": 12,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 682358,
+      "num": 682358,
+      "word": "马龙vs曾蓓勋",
+      "onboard_time": 1727873058,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 664525,
@@ -883,6 +891,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 483196,
+      "num": 483196,
+      "word": "中国飞机炮火中逆行至黎巴嫩撤侨",
+      "onboard_time": 1727867900,
+      "rank": 19,
+      "category": "国内时政,军事"
+    },
+    {
       "raw_hot": 481028,
       "num": 481028,
       "word": "国庆节假期第1天",
@@ -896,6 +912,14 @@
       "word": "浴火之路票房",
       "onboard_time": 1727771299,
       "rank": 47,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 472844,
+      "num": 292683,
+      "word": "749局 好奇心",
+      "onboard_time": 1727871740,
+      "rank": 18,
       "category": "电影"
     },
     {
@@ -977,6 +1001,14 @@
       "onboard_time": 1727713638,
       "rank": 42,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 444019,
+      "num": 444019,
+      "word": "郑钦文vs阿尼西莫娃",
+      "onboard_time": 1727871379,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 439282,
@@ -1147,14 +1179,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 384723,
-      "num": 384723,
-      "word": "中国飞机炮火中逆行至黎巴嫩撤侨",
-      "onboard_time": 1727867900,
-      "rank": 19,
-      "category": "国内时政,军事"
-    },
-    {
       "raw_hot": 369496,
       "num": 360281,
       "word": "赵露思10月行程图",
@@ -1193,14 +1217,6 @@
       "onboard_time": 1727788820,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 356486,
-      "num": 356486,
-      "word": "郑钦文vs阿尼西莫娃",
-      "onboard_time": 1727871379,
-      "rank": 5,
-      "category": "体育"
     },
     {
       "raw_hot": 355239,
@@ -1419,14 +1435,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 292683,
-      "num": 292683,
-      "word": "749局 好奇心",
-      "onboard_time": 1727871740,
-      "rank": 18,
-      "category": "电影"
-    },
-    {
       "raw_hot": 292668,
       "num": 163866,
       "word": "以色列全境机场暂停飞机起降",
@@ -1529,6 +1537,14 @@
       "onboard_time": 1727775918,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 273500,
+      "num": 246973,
+      "word": "为啥街边烤鸭只要25块",
+      "onboard_time": 1727869519,
+      "rank": 20,
+      "category": "美食"
     },
     {
       "raw_hot": 271714,
@@ -1705,14 +1721,6 @@
       "onboard_time": 1727772199,
       "rank": 49,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 246973,
-      "num": 246973,
-      "word": "为啥街边烤鸭只要25块",
-      "onboard_time": 1727869519,
-      "rank": 20,
-      "category": "美食"
     },
     {
       "raw_hot": 246689,
@@ -1987,6 +1995,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 222039,
+      "num": 185704,
+      "word": "国庆假期第一批受益者出现了",
+      "onboard_time": 1727872279,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 221100,
       "num": 221100,
       "word": "他们是武警唯一一支国字号特殊分队",
@@ -2129,6 +2145,14 @@
       "onboard_time": 1727783479,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 207648,
+      "num": 178081,
+      "word": "付完餐具费可以带走餐具吗",
+      "onboard_time": 1727873418,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 207239,
@@ -2675,6 +2699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 177779,
+      "num": 177779,
+      "word": "AG对战EDGM",
+      "onboard_time": 1727872818,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 177538,
       "num": 177538,
       "word": "牛吃草为什么突然停顿一下",
@@ -2811,6 +2843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 168893,
+      "num": 168893,
+      "word": "天秤座新月许愿",
+      "onboard_time": 1727873418,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 167466,
       "num": 306545,
       "word": "广州有楼盘卖1套房奖销售80万",
@@ -2875,12 +2915,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 163854,
+      "num": 163854,
+      "word": "张予曦千禧辣妹妆",
+      "onboard_time": 1727872639,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
       "raw_hot": 163818,
       "num": 163818,
       "word": "皮皮鲁40岁正是闯的年纪",
       "onboard_time": 1727752158,
       "rank": 35,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 163798,
+      "num": 296047,
+      "word": "阿尔卡拉斯首夺中网冠军",
+      "onboard_time": 1727872518,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 163547,
@@ -2897,6 +2953,14 @@
       "onboard_time": 1727754318,
       "rank": 37,
       "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 161292,
+      "num": 161292,
+      "word": "王楚钦称自己心态上没有完全沉下来",
+      "onboard_time": 1727870240,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 161198,
@@ -2937,6 +3001,14 @@
       "onboard_time": 1727737396,
       "rank": 28,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 159029,
+      "num": 295286,
+      "word": "年轻人用淘宝挡住伴手礼刺客",
+      "onboard_time": 1727870418,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 158794,
@@ -2995,14 +3067,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 157289,
-      "num": 157289,
-      "word": "王楚钦称自己心态上没有完全沉下来",
-      "onboard_time": 1727870240,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 156660,
       "num": 156660,
       "word": "校方回应男生遭同学多次用板凳砸头",
@@ -3017,6 +3081,14 @@
       "onboard_time": 1727700202,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 156611,
+      "num": 156611,
+      "word": "5只熊猫宝宝打架邻居隔墙吃瓜",
+      "onboard_time": 1727873418,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 156320,
@@ -3459,6 +3531,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 134332,
+      "num": 263437,
+      "word": "继业 既生专何生本",
+      "onboard_time": 1727872879,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 134177,
       "num": 199882,
       "word": "我们回不去了 你们继续前进",
@@ -3731,22 +3811,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 122166,
-      "num": 295286,
-      "word": "年轻人用淘宝挡住伴手礼刺客",
-      "onboard_time": 1727870418,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 121676,
-      "num": 121676,
-      "word": "张予曦千禧辣妹妆",
-      "onboard_time": 1727872639,
-      "rank": 38,
-      "category": "演出"
-    },
-    {
       "raw_hot": 121377,
       "num": 121377,
       "word": "黑神话制作人说这是老祖宗赏饭吃",
@@ -3777,6 +3841,14 @@
       "onboard_time": 1727858658,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 119518,
+      "num": 119518,
+      "word": "带孩子四处旅游有意义吗",
+      "onboard_time": 1727871259,
+      "rank": 41,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 119424,
@@ -3875,14 +3947,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 118192,
-      "num": 118192,
-      "word": "带孩子四处旅游有意义吗",
-      "onboard_time": 1727871259,
-      "rank": 41,
-      "category": "母婴育儿"
-    },
-    {
       "raw_hot": 118121,
       "num": 121490,
       "word": "NBA名宿穆托姆博去世",
@@ -3947,12 +4011,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 116637,
+      "num": 294500,
+      "word": "中方对中东局势动荡深感忧虑",
+      "onboard_time": 1727865139,
+      "rank": 39,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 116001,
       "num": 116001,
       "word": "桂花酒酿冰奶",
       "onboard_time": 1727771778,
       "rank": 48,
       "category": "美食"
+    },
+    {
+      "raw_hot": 115979,
+      "num": 115979,
+      "word": "中网男单决赛票价太值了",
+      "onboard_time": 1727873778,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 115488,
+      "num": 115488,
+      "word": "危险的关系",
+      "onboard_time": 1727873480,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 115482,
@@ -3993,14 +4081,6 @@
       "onboard_time": 1727780239,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 113471,
-      "num": 113471,
-      "word": "AG对战EDGM",
-      "onboard_time": 1727872818,
-      "rank": 42,
-      "category": "电竞"
     },
     {
       "raw_hot": 113400,
@@ -4057,14 +4137,6 @@
       "onboard_time": 1727867541,
       "rank": 41,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 110941,
-      "num": 110941,
-      "word": "国庆假期第一批受益者出现了",
-      "onboard_time": 1727872279,
-      "rank": 44,
-      "category": "情感"
     },
     {
       "raw_hot": 110671,
@@ -4163,6 +4235,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 107317,
+      "num": 107317,
+      "word": "周启豪vs奥恰洛夫",
+      "onboard_time": 1727870478,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 106840,
       "num": 106840,
       "word": "广角拍猫",
@@ -4257,14 +4337,6 @@
       "onboard_time": 1727707340,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 104042,
-      "num": 294500,
-      "word": "中方对中东局势动荡深感忧虑",
-      "onboard_time": 1727865139,
-      "rank": 39,
-      "category": "国内时政"
     },
     {
       "raw_hot": 103935,
@@ -4553,14 +4625,6 @@
       "onboard_time": 1727868380,
       "rank": 48,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 86836,
-      "num": 296047,
-      "word": "阿尔卡拉斯首夺中网冠军",
-      "onboard_time": 1727872518,
-      "rank": 13,
-      "category": "体育"
     },
     {
       "raw_hot": 86235,
@@ -5259,14 +5323,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 39324,
-      "num": 263437,
-      "word": "继业 既生专何生本",
-      "onboard_time": 1727872879,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 38883,
       "num": 254070,
       "word": "布云朝克特霸气出场",
@@ -5483,6 +5539,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 30091,
+      "num": 386496,
+      "word": "一组图回顾我们共同走过的75年",
+      "onboard_time": 1727869818,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 29815,
       "num": 377385,
       "word": "国庆一起云游全国景区",
@@ -5643,14 +5707,6 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 21045,
-      "num": 386496,
-      "word": "一组图回顾我们共同走过的75年",
-      "onboard_time": 1727869818,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 20614,
       "num": 316516,
       "word": "哈哈曹回应188太子",
@@ -5761,6 +5817,14 @@
       "onboard_time": 1727808014,
       "rank": 25,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 13241,
+      "num": 485722,
+      "word": "超3.3亿人次假期首日跨区域流动",
+      "onboard_time": 1727873659,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 11267,

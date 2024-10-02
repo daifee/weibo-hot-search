@@ -1,9 +1,9 @@
 {
   "startTime": 1727800165777,
-  "endTime": 1727872949074,
+  "endTime": 1727873924769,
   "band_list": [
     {
-      "raw_hot": 2467902,
+      "raw_hot": 2609208,
       "num": 298379,
       "word": "女生付完6元餐具费后打包带走碗筷",
       "onboard_time": 1727870601,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 1168651,
-      "num": 157001,
+      "num": 162624,
       "word": "金马奖入围名单",
       "onboard_time": 1727867478,
       "rank": 30,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 1095624,
-      "num": 386056,
+      "num": 485560,
       "word": "王楚钦回应单打失利",
       "onboard_time": 1727868380,
       "rank": 14,
@@ -211,12 +211,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 691455,
-      "num": 1110632,
+      "raw_hot": 694003,
+      "num": 1111040,
       "word": "提醒我公民暂勿前往以色列",
       "onboard_time": 1727869519,
       "rank": 0,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 682358,
+      "num": 682358,
+      "word": "马龙vs曾蓓勋",
+      "onboard_time": 1727873058,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 664525,
@@ -387,6 +395,22 @@
       "category": "财经"
     },
     {
+      "raw_hot": 483196,
+      "num": 483196,
+      "word": "中国飞机炮火中逆行至黎巴嫩撤侨",
+      "onboard_time": 1727867900,
+      "rank": 19,
+      "category": "国内时政,军事"
+    },
+    {
+      "raw_hot": 472844,
+      "num": 292683,
+      "word": "749局 好奇心",
+      "onboard_time": 1727871740,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 470597,
       "num": 764214,
       "word": "王楚钦1比3林德",
@@ -449,6 +473,14 @@
       "onboard_time": 1727825836,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 444019,
+      "num": 444019,
+      "word": "郑钦文vs阿尼西莫娃",
+      "onboard_time": 1727871379,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 439338,
@@ -545,22 +577,6 @@
       "onboard_time": 1727844799,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 384723,
-      "num": 384723,
-      "word": "中国飞机炮火中逆行至黎巴嫩撤侨",
-      "onboard_time": 1727867900,
-      "rank": 19,
-      "category": "国内时政,军事"
-    },
-    {
-      "raw_hot": 356486,
-      "num": 356486,
-      "word": "郑钦文vs阿尼西莫娃",
-      "onboard_time": 1727871379,
-      "rank": 5,
-      "category": "体育"
     },
     {
       "raw_hot": 355239,
@@ -691,14 +707,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 292683,
-      "num": 292683,
-      "word": "749局 好奇心",
-      "onboard_time": 1727871740,
-      "rank": 18,
-      "category": "电影"
-    },
-    {
       "raw_hot": 292668,
       "num": 163866,
       "word": "以色列全境机场暂停飞机起降",
@@ -737,6 +745,14 @@
       "onboard_time": 1727850318,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 273500,
+      "num": 246973,
+      "word": "为啥街边烤鸭只要25块",
+      "onboard_time": 1727869519,
+      "rank": 20,
+      "category": "美食"
     },
     {
       "raw_hot": 271714,
@@ -835,14 +851,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 246973,
-      "num": 246973,
-      "word": "为啥街边烤鸭只要25块",
-      "onboard_time": 1727869519,
-      "rank": 20,
-      "category": "美食"
-    },
-    {
       "raw_hot": 246689,
       "num": 208278,
       "word": "何卓佳11比1",
@@ -915,6 +923,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 222039,
+      "num": 185704,
+      "word": "国庆假期第一批受益者出现了",
+      "onboard_time": 1727872279,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 221100,
       "num": 221100,
       "word": "他们是武警唯一一支国字号特殊分队",
@@ -977,6 +993,14 @@
       "onboard_time": 1727858838,
       "rank": 23,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 207648,
+      "num": 178081,
+      "word": "付完餐具费可以带走餐具吗",
+      "onboard_time": 1727873418,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 207635,
@@ -1235,6 +1259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 177779,
+      "num": 177779,
+      "word": "AG对战EDGM",
+      "onboard_time": 1727872818,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 177538,
       "num": 177538,
       "word": "牛吃草为什么突然停顿一下",
@@ -1299,6 +1331,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 168893,
+      "num": 168893,
+      "word": "天秤座新月许愿",
+      "onboard_time": 1727873418,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 166671,
       "num": 454486,
       "word": "浴火之路 纯粹的快意恩仇",
@@ -1331,12 +1371,36 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 163854,
+      "num": 163854,
+      "word": "张予曦千禧辣妹妆",
+      "onboard_time": 1727872639,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
       "raw_hot": 163804,
       "num": 163804,
       "word": "徐志胜的高情商是刷题刷的",
       "onboard_time": 1727785338,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 163798,
+      "num": 296047,
+      "word": "阿尔卡拉斯首夺中网冠军",
+      "onboard_time": 1727872518,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 161292,
+      "num": 161292,
+      "word": "王楚钦称自己心态上没有完全沉下来",
+      "onboard_time": 1727870240,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 160697,
@@ -1363,6 +1427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 159029,
+      "num": 295286,
+      "word": "年轻人用淘宝挡住伴手礼刺客",
+      "onboard_time": 1727870418,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 158446,
       "num": 158446,
       "word": "卫昭不抢亲 直接喊停婚礼",
@@ -1379,20 +1451,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 157289,
-      "num": 157289,
-      "word": "王楚钦称自己心态上没有完全沉下来",
-      "onboard_time": 1727870240,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 157104,
       "num": 173813,
       "word": "倪夏莲流泪说让大家失望了",
       "onboard_time": 1727789003,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 156611,
+      "num": 156611,
+      "word": "5只熊猫宝宝打架邻居隔墙吃瓜",
+      "onboard_time": 1727873418,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 156320,
@@ -1603,6 +1675,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 134332,
+      "num": 263437,
+      "word": "继业 既生专何生本",
+      "onboard_time": 1727872879,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 133171,
       "num": 133171,
       "word": "侯明昊没有一块肌肉是白练的",
@@ -1699,22 +1779,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 122166,
-      "num": 295286,
-      "word": "年轻人用淘宝挡住伴手礼刺客",
-      "onboard_time": 1727870418,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 121676,
-      "num": 121676,
-      "word": "张予曦千禧辣妹妆",
-      "onboard_time": 1727872639,
-      "rank": 38,
-      "category": "演出"
-    },
-    {
       "raw_hot": 120713,
       "num": 285807,
       "word": "申万宏源香港大涨128%",
@@ -1737,6 +1801,14 @@
       "onboard_time": 1727785879,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 119518,
+      "num": 119518,
+      "word": "带孩子四处旅游有意义吗",
+      "onboard_time": 1727871259,
+      "rank": 41,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 119307,
@@ -1787,14 +1859,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 118192,
-      "num": 118192,
-      "word": "带孩子四处旅游有意义吗",
-      "onboard_time": 1727871259,
-      "rank": 41,
-      "category": "母婴育儿"
-    },
-    {
       "raw_hot": 117514,
       "num": 117514,
       "word": "2024KPL年度总决赛主题曲",
@@ -1811,6 +1875,30 @@
       "category": "财经"
     },
     {
+      "raw_hot": 116637,
+      "num": 294500,
+      "word": "中方对中东局势动荡深感忧虑",
+      "onboard_time": 1727865139,
+      "rank": 39,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 115979,
+      "num": 115979,
+      "word": "中网男单决赛票价太值了",
+      "onboard_time": 1727873778,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 115488,
+      "num": 115488,
+      "word": "危险的关系",
+      "onboard_time": 1727873480,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 115318,
       "num": 500607,
       "word": "看志愿军存亡之战哭惨了",
@@ -1825,14 +1913,6 @@
       "onboard_time": 1727789485,
       "rank": 29,
       "category": "电影"
-    },
-    {
-      "raw_hot": 113471,
-      "num": 113471,
-      "word": "AG对战EDGM",
-      "onboard_time": 1727872818,
-      "rank": 42,
-      "category": "电竞"
     },
     {
       "raw_hot": 112229,
@@ -1865,14 +1945,6 @@
       "onboard_time": 1727867541,
       "rank": 41,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 110941,
-      "num": 110941,
-      "word": "国庆假期第一批受益者出现了",
-      "onboard_time": 1727872279,
-      "rank": 44,
-      "category": "情感"
     },
     {
       "raw_hot": 110594,
@@ -1913,6 +1985,14 @@
       "onboard_time": 1727836579,
       "rank": 9,
       "category": "财经"
+    },
+    {
+      "raw_hot": 107317,
+      "num": 107317,
+      "word": "周启豪vs奥恰洛夫",
+      "onboard_time": 1727870478,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 106840,
@@ -1961,14 +2041,6 @@
       "onboard_time": 1727864417,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 104042,
-      "num": 294500,
-      "word": "中方对中东局势动荡深感忧虑",
-      "onboard_time": 1727865139,
-      "rank": 39,
-      "category": "国内时政"
     },
     {
       "raw_hot": 103935,
@@ -2129,14 +2201,6 @@
       "onboard_time": 1727868380,
       "rank": 48,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 86836,
-      "num": 296047,
-      "word": "阿尔卡拉斯首夺中网冠军",
-      "onboard_time": 1727872518,
-      "rank": 13,
-      "category": "体育"
     },
     {
       "raw_hot": 85161,
@@ -2491,14 +2555,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 39324,
-      "num": 263437,
-      "word": "继业 既生专何生本",
-      "onboard_time": 1727872879,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 38822,
       "num": 224957,
       "word": "我这样为祖国庆生",
@@ -2593,6 +2649,14 @@
       "onboard_time": 1727792721,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 30091,
+      "num": 386496,
+      "word": "一组图回顾我们共同走过的75年",
+      "onboard_time": 1727869818,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 29059,
@@ -2691,14 +2755,6 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 21045,
-      "num": 386496,
-      "word": "一组图回顾我们共同走过的75年",
-      "onboard_time": 1727869818,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 19969,
       "num": 140018,
       "word": "移民管理警察为界碑一笔一划描红",
@@ -2785,6 +2841,14 @@
       "onboard_time": 1727808014,
       "rank": 25,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 13241,
+      "num": 485722,
+      "word": "超3.3亿人次假期首日跨区域流动",
+      "onboard_time": 1727873659,
+      "rank": 2,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
