@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1727864599621,
+  "endTime": 1727865659937,
   "band_list": [
     {
       "raw_hot": 11925969,
@@ -113,6 +113,14 @@
       "onboard_time": 1727756780,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1391758,
+      "num": 1391758,
+      "word": "王楚钦梁靖崑vs洛伦佐萨琳",
+      "onboard_time": 1727863158,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 1389240,
@@ -1451,6 +1459,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 267856,
+      "num": 190037,
+      "word": "瞿一芃大溪地归来入赘豪门",
+      "onboard_time": 1727863818,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 265823,
       "num": 265823,
       "word": "王一博 轻描淡写地说浓墨重彩地做",
@@ -2107,6 +2123,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 200355,
+      "num": 200355,
+      "word": "王楚钦梁靖崑晋级男双八强",
+      "onboard_time": 1727865318,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 200231,
       "num": 200231,
       "word": "杨紫波点白裙搭配荷叶领",
@@ -2315,14 +2339,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 190037,
-      "num": 190037,
-      "word": "瞿一芃大溪地归来入赘豪门",
-      "onboard_time": 1727863818,
-      "rank": 22,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 189872,
       "num": 189872,
       "word": "谭飞 王俊凯撑住了每个档期",
@@ -2392,6 +2408,14 @@
       "word": "深圳有人连夜买房",
       "onboard_time": 1727854037,
       "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 184818,
+      "num": 188917,
+      "word": "为什么我们想回家但又不愿久留",
+      "onboard_time": 1727857518,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -2547,6 +2571,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 176339,
+      "num": 1017063,
+      "word": "南京长江大桥亮灯了",
+      "onboard_time": 1727863579,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 176059,
       "num": 176059,
       "word": "749局预测票房超9亿",
@@ -2633,14 +2665,6 @@
       "onboard_time": 1727834959,
       "rank": 7,
       "category": "电影"
-    },
-    {
-      "raw_hot": 165687,
-      "num": 1046610,
-      "word": "王楚钦梁靖崑vs洛伦佐萨琳",
-      "onboard_time": 1727863158,
-      "rank": 5,
-      "category": "体育"
     },
     {
       "raw_hot": 165535,
@@ -2785,14 +2809,6 @@
       "onboard_time": 1727772380,
       "rank": 38,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 157950,
-      "num": 188917,
-      "word": "为什么我们想回家但又不愿久留",
-      "onboard_time": 1727857518,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 157567,
@@ -3059,6 +3075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 143555,
+      "num": 143555,
+      "word": "LPL世界赛首战",
+      "onboard_time": 1727864778,
+      "rank": 26,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 142899,
       "num": 142899,
       "word": "余宇涵手势舞",
@@ -3073,6 +3097,14 @@
       "onboard_time": 1727859977,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 140713,
+      "num": 140713,
+      "word": "浴火之路 狼兔CP",
+      "onboard_time": 1727862559,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 139939,
@@ -3240,14 +3272,6 @@
       "word": "我们回不去了 你们继续前进",
       "onboard_time": 1727786240,
       "rank": 13,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 133759,
-      "num": 133759,
-      "word": "浴火之路 狼兔CP",
-      "onboard_time": 1727862559,
-      "rank": 28,
       "category": "电影"
     },
     {
@@ -3419,6 +3443,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 126856,
+      "num": 126856,
+      "word": "中概股空头亏损69亿美元",
+      "onboard_time": 1727861898,
+      "rank": 34,
+      "category": "财经"
+    },
+    {
       "raw_hot": 126661,
       "num": 126661,
       "word": "A股疯涨专家提醒笑不露齿",
@@ -3433,6 +3465,14 @@
       "onboard_time": 1727778799,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 126397,
+      "num": 126397,
+      "word": "钟楚曦 好考验头骨的发型",
+      "onboard_time": 1727862258,
+      "rank": 41,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 126322,
@@ -3529,6 +3569,14 @@
       "onboard_time": 1727777000,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 119307,
+      "num": 119307,
+      "word": "中方回应黎以伊以局势升级",
+      "onboard_time": 1727864298,
+      "rank": 38,
+      "category": "国外时政"
     },
     {
       "raw_hot": 119293,
@@ -3851,6 +3899,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 106840,
+      "num": 106840,
+      "word": "广角拍猫",
+      "onboard_time": 1727862018,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 106749,
       "num": 106749,
       "word": "合肥肥东3.3级地震系余震",
@@ -3907,6 +3963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 104641,
+      "num": 104641,
+      "word": "徐志胜要求自己出口成商",
+      "onboard_time": 1727864417,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 104324,
       "num": 104324,
       "word": "哑舍动画定档",
@@ -3931,6 +3995,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 104042,
+      "num": 104042,
+      "word": "中方对中东局势动荡深感忧虑",
+      "onboard_time": 1727865139,
+      "rank": 39,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 103935,
       "num": 103935,
       "word": "资金借道港股ETF布局节后A股",
@@ -3939,20 +4011,20 @@
       "category": "财经"
     },
     {
+      "raw_hot": 103890,
+      "num": 103890,
+      "word": "王楚钦梁靖崑3比0洛伦佐萨琳",
+      "onboard_time": 1727865499,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 103608,
       "num": 103608,
       "word": "国庆档新片票房突破5亿",
       "onboard_time": 1727787559,
       "rank": 49,
       "category": "电影"
-    },
-    {
-      "raw_hot": 103160,
-      "num": 103160,
-      "word": "中概股空头亏损69亿美元",
-      "onboard_time": 1727861898,
-      "rank": 34,
-      "category": "财经"
     },
     {
       "raw_hot": 103075,
@@ -4115,6 +4187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 93553,
+      "num": 93553,
+      "word": "日本股市抢筹中国资产",
+      "onboard_time": 1727865139,
+      "rank": 43,
+      "category": "财经"
+    },
+    {
       "raw_hot": 92578,
       "num": 121001,
       "word": "马龙比赛儿子台下转圈圈鼓掌加油",
@@ -4163,14 +4243,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 90251,
-      "num": 90251,
-      "word": "中方回应黎以伊以局势升级",
-      "onboard_time": 1727864298,
-      "rank": 38,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 89411,
       "num": 104028,
       "word": "华伦天奴 设计",
@@ -4185,14 +4257,6 @@
       "onboard_time": 1727745858,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 87186,
-      "num": 87186,
-      "word": "钟楚曦 好考验头骨的发型",
-      "onboard_time": 1727862258,
-      "rank": 41,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 86235,
@@ -4243,14 +4307,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 83936,
-      "num": 83936,
-      "word": "广角拍猫",
-      "onboard_time": 1727862018,
-      "rank": 43,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 82062,
       "num": 82062,
       "word": "大湾区国庆氛围拉满了",
@@ -4281,14 +4337,6 @@
       "onboard_time": 1727782519,
       "rank": 48,
       "category": "电影"
-    },
-    {
-      "raw_hot": 81578,
-      "num": 81578,
-      "word": "徐志胜要求自己出口成商",
-      "onboard_time": 1727864417,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 80936,
@@ -4337,6 +4385,14 @@
       "onboard_time": 1727706801,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 78045,
+      "num": 78045,
+      "word": "泼天富贵被港股接住了",
+      "onboard_time": 1727863877,
+      "rank": 46,
+      "category": "财经"
     },
     {
       "raw_hot": 76978,
@@ -4388,7 +4444,7 @@
     },
     {
       "raw_hot": 75499,
-      "num": 75499,
+      "num": 77454,
       "word": "今年国庆档票房破7亿",
       "onboard_time": 1727858598,
       "rank": 49,
@@ -4651,14 +4707,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 51865,
-      "num": 1017063,
-      "word": "南京长江大桥亮灯了",
-      "onboard_time": 1727863579,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 51041,
       "num": 331097,
       "word": "小男孩看升旗走丢大学生接力送回",
@@ -4880,6 +4928,14 @@
       "word": "国庆出行再度上演人在囧途",
       "onboard_time": 1727787740,
       "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 38373,
+      "num": 175045,
+      "word": "00后边防军人的心声",
+      "onboard_time": 1727864899,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
