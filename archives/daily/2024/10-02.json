@@ -1,6 +1,6 @@
 {
   "startTime": 1727800165777,
-  "endTime": 1727844085117,
+  "endTime": 1727846498931,
   "band_list": [
     {
       "raw_hot": 2319330,
@@ -275,6 +275,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 451108,
+      "num": 214521,
+      "word": "半熟男女 闺蜜的前任追求要接受吗",
+      "onboard_time": 1727843660,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 450377,
       "num": 239551,
       "word": "起猛了看到赵丽颖张百乔拜堂戏",
@@ -339,6 +347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 356880,
+      "num": 212825,
+      "word": "高雅cp",
+      "onboard_time": 1727844799,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 355239,
       "num": 164410,
       "word": "大同降雪迎亲队冒雪抬新娘行进",
@@ -361,6 +377,14 @@
       "onboard_time": 1727792360,
       "rank": 20,
       "category": "电影"
+    },
+    {
+      "raw_hot": 336693,
+      "num": 207499,
+      "word": "樊振东与王皓儿子合照",
+      "onboard_time": 1727843117,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 330635,
@@ -395,14 +419,6 @@
       "category": "国外时政,军事"
     },
     {
-      "raw_hot": 311250,
-      "num": 201913,
-      "word": "樊振东与王皓儿子合照",
-      "onboard_time": 1727843117,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 310810,
       "num": 310810,
       "word": "孙怡生图",
@@ -425,6 +441,14 @@
       "onboard_time": 1727836818,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 295862,
+      "num": 295862,
+      "word": "林高远3比2陈垣宇",
+      "onboard_time": 1727843839,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 294931,
@@ -457,6 +481,14 @@
       "onboard_time": 1727834418,
       "rank": 29,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 266919,
+      "num": 204650,
+      "word": "伊朗宣布对以色列行动已结束",
+      "onboard_time": 1727844858,
+      "rank": 25,
+      "category": "国外时政"
     },
     {
       "raw_hot": 262977,
@@ -547,6 +579,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 221100,
+      "num": 221100,
+      "word": "他们是武警唯一一支国字号特殊分队",
+      "onboard_time": 1727841678,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 220096,
       "num": 220096,
       "word": "以色列总理伊朗导弹袭击后首发声",
@@ -619,12 +659,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 201950,
-      "num": 201950,
-      "word": "林高远3比2陈垣宇",
-      "onboard_time": 1727843839,
-      "rank": 29,
-      "category": "体育"
+      "raw_hot": 203368,
+      "num": 499982,
+      "word": "中国海警舰艇首次进入北冰洋海域",
+      "onboard_time": 1727843117,
+      "rank": 24,
+      "category": "国内时政"
     },
     {
       "raw_hot": 201509,
@@ -675,6 +715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 189872,
+      "num": 189872,
+      "word": "谭飞 王俊凯撑住了每个档期",
+      "onboard_time": 1727845818,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 187716,
       "num": 187716,
       "word": "十一休time",
@@ -689,6 +737,14 @@
       "onboard_time": 1727837778,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 185222,
+      "num": 185222,
+      "word": "谁懂刘亦菲走的这几步",
+      "onboard_time": 1727845637,
+      "rank": 30,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 184286,
@@ -739,12 +795,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 174815,
-      "num": 174815,
-      "word": "半熟男女 闺蜜的前任追求要接受吗",
-      "onboard_time": 1727843660,
-      "rank": 37,
-      "category": "剧集"
+      "raw_hot": 172740,
+      "num": 172740,
+      "word": "胡辣汤终于对咖啡下手了",
+      "onboard_time": 1727840658,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 166671,
@@ -771,19 +827,19 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 164429,
-      "num": 217889,
-      "word": "他们是武警唯一一支国字号特殊分队",
-      "onboard_time": 1727841678,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 163804,
       "num": 163804,
       "word": "徐志胜的高情商是刷题刷的",
       "onboard_time": 1727785338,
       "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 162011,
+      "num": 162011,
+      "word": "花儿与少年",
+      "onboard_time": 1727846300,
+      "rank": 35,
       "category": "综艺"
     },
     {
@@ -801,14 +857,6 @@
       "onboard_time": 1727822293,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 158314,
-      "num": 499982,
-      "word": "中国海警舰艇首次进入北冰洋海域",
-      "onboard_time": 1727843117,
-      "rank": 24,
-      "category": "国内时政"
     },
     {
       "raw_hot": 157567,
@@ -915,14 +963,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 136712,
-      "num": 136712,
-      "word": "胡辣汤终于对咖啡下手了",
-      "onboard_time": 1727840658,
-      "rank": 48,
-      "category": "美食"
-    },
-    {
       "raw_hot": 132469,
       "num": 237167,
       "word": "国庆假期他们坚守战位的样子真帅",
@@ -931,20 +971,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 132348,
+      "num": 132348,
+      "word": "伍六七第五季开播",
+      "onboard_time": 1727845036,
+      "rank": 46,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 129642,
+      "num": 279731,
+      "word": "哪一刻你感受到祖国的强大",
+      "onboard_time": 1727842938,
+      "rank": 26,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 122907,
       "num": 122907,
       "word": "刘宇用纸巾给自己打光",
       "onboard_time": 1727794880,
       "rank": 31,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 120932,
-      "num": 279731,
-      "word": "哪一刻你感受到祖国的强大",
-      "onboard_time": 1727842938,
-      "rank": 26,
-      "category": "国内时政"
     },
     {
       "raw_hot": 120713,
@@ -985,6 +1033,14 @@
       "onboard_time": 1727789485,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 110886,
+      "num": 206341,
+      "word": "港股半日成交额2354亿港元",
+      "onboard_time": 1727844558,
+      "rank": 23,
+      "category": "财经"
     },
     {
       "raw_hot": 110594,
@@ -1057,6 +1113,14 @@
       "onboard_time": 1727788942,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 91378,
+      "num": 187266,
+      "word": "国庆第一天九寨沟飘起鹅毛大雪",
+      "onboard_time": 1727841800,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 90496,
@@ -1227,12 +1291,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 52818,
+      "num": 214904,
+      "word": "伊朗首次使用高超音速导弹",
+      "onboard_time": 1727845998,
+      "rank": 14,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 52219,
       "num": 227129,
       "word": "炉石传说",
       "onboard_time": 1727804174,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 51751,
+      "num": 205363,
+      "word": "志愿军战士用生命丈量阵地",
+      "onboard_time": 1727846358,
+      "rank": 24,
+      "category": "电影"
     },
     {
       "raw_hot": 47481,
