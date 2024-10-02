@@ -1,6 +1,6 @@
 {
   "startTime": 1727800165777,
-  "endTime": 1727840555236,
+  "endTime": 1727843218749,
   "band_list": [
     {
       "raw_hot": 2319330,
@@ -27,8 +27,8 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 1100425,
-      "num": 1176068,
+      "raw_hot": 1132416,
+      "num": 1181186,
       "word": "人人人人景点人人人人",
       "onboard_time": 1727836216,
       "rank": 1,
@@ -57,6 +57,14 @@
       "onboard_time": 1727827398,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 921934,
+      "num": 294802,
+      "word": "内塔尼亚胡在掩体中宣称伊朗败了",
+      "onboard_time": 1727840358,
+      "rank": 34,
+      "category": "国外时政"
     },
     {
       "raw_hot": 857024,
@@ -123,6 +131,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 634232,
+      "num": 417957,
+      "word": "王俊凯演技",
+      "onboard_time": 1727839398,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 628990,
       "num": 312364,
       "word": "伊朗袭击以色列后地区多国民众庆祝",
@@ -136,6 +152,14 @@
       "word": "重庆断崖式降温后市民乱穿衣",
       "onboard_time": 1727795660,
       "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 601828,
+      "num": 480822,
+      "word": "人人人人人苏州人人人人人",
+      "onboard_time": 1727838617,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -155,6 +179,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 527761,
+      "num": 527761,
+      "word": "港股爆发",
+      "onboard_time": 1727837178,
+      "rank": 27,
+      "category": "财经"
+    },
+    {
       "raw_hot": 527518,
       "num": 527518,
       "word": "赵丽颖演技",
@@ -163,7 +195,7 @@
       "category": "电影"
     },
     {
-      "raw_hot": 510699,
+      "raw_hot": 510705,
       "num": 418585,
       "word": "749局豆瓣开分5.0",
       "onboard_time": 1727838679,
@@ -193,22 +225,6 @@
       "onboard_time": 1727836458,
       "rank": 6,
       "category": "财经"
-    },
-    {
-      "raw_hot": 497178,
-      "num": 435521,
-      "word": "人人人人人苏州人人人人人",
-      "onboard_time": 1727838617,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 481625,
-      "num": 417957,
-      "word": "王俊凯演技",
-      "onboard_time": 1727839398,
-      "rank": 35,
-      "category": "电影"
     },
     {
       "raw_hot": 470597,
@@ -395,6 +411,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 300913,
+      "num": 289705,
+      "word": "美国大选",
+      "onboard_time": 1727841138,
+      "rank": 16,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 294931,
       "num": 227609,
       "word": "伊朗总统警告以色列不要对抗伊朗",
@@ -491,19 +515,27 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 232667,
-      "num": 232667,
-      "word": "内塔尼亚胡在掩体中宣称伊朗败了",
-      "onboard_time": 1727840358,
-      "rank": 34,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 230252,
       "num": 230252,
       "word": "中国记者徐德智战绩可查",
       "onboard_time": 1727815520,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 226959,
+      "num": 226959,
+      "word": "孙颖莎王艺迪晋级8强",
+      "onboard_time": 1727842159,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 221253,
+      "num": 221253,
+      "word": "国庆假期第2天你在哪里过的",
+      "onboard_time": 1727838199,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -539,6 +571,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 207635,
+      "num": 423668,
+      "word": "浴火之路",
+      "onboard_time": 1727839458,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
       "raw_hot": 205562,
       "num": 435419,
       "word": "剩下的6天假期准备怎么过",
@@ -553,14 +593,6 @@
       "onboard_time": 1727827637,
       "rank": 33,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 204375,
-      "num": 423668,
-      "word": "浴火之路",
-      "onboard_time": 1727839458,
-      "rank": 19,
-      "category": "电影"
     },
     {
       "raw_hot": 204114,
@@ -625,6 +657,14 @@
       "onboard_time": 1727837778,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 184635,
+      "num": 184635,
+      "word": "大量弹道导弹划破夜空",
+      "onboard_time": 1727842758,
+      "rank": 43,
+      "category": "国外时政"
     },
     {
       "raw_hot": 184286,
@@ -699,12 +739,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 164429,
+      "num": 217889,
+      "word": "他们是武警唯一一支国字号特殊分队",
+      "onboard_time": 1727841678,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 163804,
       "num": 163804,
       "word": "徐志胜的高情商是刷题刷的",
       "onboard_time": 1727785338,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 162240,
+      "num": 162240,
+      "word": "樊振东与王皓儿子合照",
+      "onboard_time": 1727843117,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 160697,
@@ -723,6 +779,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 158314,
+      "num": 281781,
+      "word": "中国海警舰艇首次进入北冰洋海域",
+      "onboard_time": 1727843117,
+      "rank": 24,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 157567,
       "num": 157567,
       "word": "台风",
@@ -737,6 +801,14 @@
       "onboard_time": 1727789003,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 155740,
+      "num": 155740,
+      "word": "伊朗民众上街高呼反美反以口号",
+      "onboard_time": 1727842877,
+      "rank": 49,
+      "category": "国外时政"
     },
     {
       "raw_hot": 154028,
@@ -811,14 +883,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 136105,
-      "num": 214595,
-      "word": "国庆假期第2天你在哪里过的",
-      "onboard_time": 1727838199,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 132469,
       "num": 237167,
       "word": "国庆假期他们坚守战位的样子真帅",
@@ -827,20 +891,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 129539,
-      "num": 422269,
-      "word": "港股爆发",
-      "onboard_time": 1727837178,
-      "rank": 27,
-      "category": "财经"
-    },
-    {
       "raw_hot": 122907,
       "num": 122907,
       "word": "刘宇用纸巾给自己打光",
       "onboard_time": 1727794880,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 120932,
+      "num": 279731,
+      "word": "哪一刻你感受到祖国的强大",
+      "onboard_time": 1727842938,
+      "rank": 26,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 120713,
+      "num": 285807,
+      "word": "申万宏源香港大涨128%",
+      "onboard_time": 1727841318,
+      "rank": 20,
+      "category": "财经"
     },
     {
       "raw_hot": 119781,
@@ -889,6 +961,14 @@
       "onboard_time": 1727793741,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 103501,
+      "num": 420457,
+      "word": "看志愿军存亡之战哭惨了",
+      "onboard_time": 1727838078,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 101922,
@@ -947,6 +1027,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 85112,
+      "num": 286510,
+      "word": "任嘉伦深情表白祖国",
+      "onboard_time": 1727842278,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 85037,
       "num": 85037,
       "word": "伊藤美诚3比0倪夏莲",
@@ -968,6 +1056,14 @@
       "word": "张子枫演的李晓",
       "onboard_time": 1727798719,
       "rank": 43,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 78246,
+      "num": 284201,
+      "word": "陆川 爱之深责之切",
+      "onboard_time": 1727842877,
+      "rank": 21,
       "category": "电影"
     },
     {
@@ -1009,6 +1105,14 @@
       "onboard_time": 1727792241,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 73981,
+      "num": 267424,
+      "word": "朱一龙这一嗓子的穿透力",
+      "onboard_time": 1727843178,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 72412,
@@ -1059,12 +1163,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 52690,
-      "num": 420457,
-      "word": "看志愿军存亡之战哭惨了",
-      "onboard_time": 1727838078,
-      "rank": 29,
-      "category": "电影"
+      "raw_hot": 56599,
+      "num": 283044,
+      "word": "业内人士称A股大涨或在节后惯性延续",
+      "onboard_time": 1727841379,
+      "rank": 22,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 55640,
+      "num": 288011,
+      "word": "恒生科技指数上涨10%",
+      "onboard_time": 1727841738,
+      "rank": 17,
+      "category": "财经"
     },
     {
       "raw_hot": 52219,
@@ -1115,6 +1227,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 42309,
+      "num": 447977,
+      "word": "国庆打卡祖国大好河山",
+      "onboard_time": 1727840117,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 40169,
       "num": 67560,
       "word": "欧冠联赛",
@@ -1123,12 +1243,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 40017,
-      "num": 422962,
-      "word": "国庆打卡祖国大好河山",
-      "onboard_time": 1727840117,
-      "rank": 8,
+      "raw_hot": 38731,
+      "num": 516216,
+      "word": "国庆仪式感让清澈的爱具象化了",
+      "onboard_time": 1727829978,
+      "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 35148,
+      "num": 287131,
+      "word": "港股中资地产股爆发",
+      "onboard_time": 1727840959,
+      "rank": 18,
+      "category": "财经"
     },
     {
       "raw_hot": 34362,
