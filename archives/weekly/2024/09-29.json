@@ -1,6 +1,6 @@
 {
   "startTime": 1727540758074,
-  "endTime": 1727865659937,
+  "endTime": 1727867933706,
   "band_list": [
     {
       "raw_hot": 11925969,
@@ -923,6 +923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 740111,
+      "num": 230633,
+      "word": "时代少年团棉花娃娃",
+      "onboard_time": 1727867541,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 739224,
       "num": 739224,
       "word": "堵车时劝你不要打开车窗",
@@ -1771,6 +1779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 487911,
+      "num": 229291,
+      "word": "以色列宣布禁止古特雷斯入境",
+      "onboard_time": 1727866218,
+      "rank": 13,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 483724,
       "num": 437477,
       "word": "董宇辉纠正科普错误",
@@ -1907,6 +1923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 451696,
+      "num": 149603,
+      "word": "金马奖入围名单",
+      "onboard_time": 1727867478,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 451275,
       "num": 226218,
       "word": "拜登召集国家安全团队紧急会议",
@@ -1985,6 +2009,14 @@
       "onboard_time": 1727670020,
       "rank": 12,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 436734,
+      "num": 436734,
+      "word": "王楚钦梁靖崑晋级男双八强",
+      "onboard_time": 1727865318,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 435917,
@@ -3707,6 +3739,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 240690,
+      "num": 1017063,
+      "word": "南京长江大桥亮灯了",
+      "onboard_time": 1727863579,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 239769,
       "num": 239769,
       "word": "爱奇艺10月片单",
@@ -4168,6 +4208,14 @@
       "word": "维港国庆烟花汇演首次加入无人机",
       "onboard_time": 1727790743,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 218400,
+      "num": 820231,
+      "word": "国庆假期余额还有5天",
+      "onboard_time": 1727854037,
+      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -4667,14 +4715,6 @@
       "category": "自然"
     },
     {
-      "raw_hot": 200355,
-      "num": 200355,
-      "word": "王楚钦梁靖崑晋级男双八强",
-      "onboard_time": 1727865318,
-      "rank": 5,
-      "category": "体育"
-    },
-    {
       "raw_hot": 200231,
       "num": 200231,
       "word": "杨紫波点白裙搭配荷叶领",
@@ -4913,14 +4953,6 @@
       "onboard_time": 1727592379,
       "rank": 30,
       "category": "财经"
-    },
-    {
-      "raw_hot": 194097,
-      "num": 820231,
-      "word": "国庆假期余额还有5天",
-      "onboard_time": 1727854037,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 193971,
@@ -5225,6 +5257,14 @@
       "onboard_time": 1727616559,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 189272,
+      "num": 189272,
+      "word": "什么是孙悟空型人格",
+      "onboard_time": 1727867298,
+      "rank": 22,
+      "category": "电影"
     },
     {
       "raw_hot": 189133,
@@ -5707,20 +5747,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 176836,
+      "num": 176836,
+      "word": "王源太湖湾",
+      "onboard_time": 1727866640,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
       "raw_hot": 176451,
       "num": 176451,
       "word": "年轻人从头再来一次又如何",
       "onboard_time": 1727791761,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 176339,
-      "num": 1017063,
-      "word": "南京长江大桥亮灯了",
-      "onboard_time": 1727863579,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 176098,
@@ -5753,6 +5793,14 @@
       "onboard_time": 1727597118,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 175333,
+      "num": 175333,
+      "word": "语言通货膨胀",
+      "onboard_time": 1727866819,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 174466,
@@ -5889,6 +5937,14 @@
       "onboard_time": 1727769198,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 170501,
+      "num": 170501,
+      "word": "日本股市抢筹中国资产",
+      "onboard_time": 1727865139,
+      "rank": 43,
+      "category": "财经"
     },
     {
       "raw_hot": 170388,
@@ -6769,6 +6825,14 @@
       "onboard_time": 1727652677,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 149106,
+      "num": 149106,
+      "word": "本月你的工资或将多2笔钱",
+      "onboard_time": 1727867838,
+      "rank": 31,
+      "category": "财经"
     },
     {
       "raw_hot": 148709,
@@ -7691,6 +7755,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 131039,
+      "num": 131039,
+      "word": "十一出游露思淡妆",
+      "onboard_time": 1727866277,
+      "rank": 33,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 130805,
       "num": 130805,
       "word": "酸奶刺客卖不动了吗",
@@ -8396,7 +8468,7 @@
     },
     {
       "raw_hot": 119307,
-      "num": 119307,
+      "num": 231739,
       "word": "中方回应黎以伊以局势升级",
       "onboard_time": 1727864298,
       "rank": 38,
@@ -8891,6 +8963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 111109,
+      "num": 111109,
+      "word": "KSG战胜WE",
+      "onboard_time": 1727867541,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 111064,
       "num": 349982,
       "word": "A股杀回3200点",
@@ -8979,12 +9059,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 109327,
+      "num": 109327,
+      "word": "偏偏宠爱",
+      "onboard_time": 1727867838,
+      "rank": 42,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 109168,
       "num": 109168,
       "word": "专家谈股市是否会面临疯牛",
       "onboard_time": 1727700380,
       "rank": 47,
       "category": "财经"
+    },
+    {
+      "raw_hot": 109090,
+      "num": 109090,
+      "word": "武志红评浴火之路爽感从何而来",
+      "onboard_time": 1727867419,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 108719,
@@ -9627,14 +9723,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 93553,
-      "num": 93553,
-      "word": "日本股市抢筹中国资产",
-      "onboard_time": 1727865139,
-      "rank": 43,
-      "category": "财经"
-    },
-    {
       "raw_hot": 93173,
       "num": 382927,
       "word": "到底是谁抢到了霸王茶姬宠物周边",
@@ -10251,6 +10339,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 69338,
+      "num": 95293,
+      "word": "志愿军存亡之战票房破3亿",
+      "onboard_time": 1727867419,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
       "raw_hot": 69088,
       "num": 329800,
       "word": "半熟男女得不到就更加爱",
@@ -10529,6 +10625,14 @@
       "onboard_time": 1727527219,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 57085,
+      "num": 109180,
+      "word": "江苏气温跌到个位数",
+      "onboard_time": 1727863699,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 56599,
@@ -11064,6 +11168,14 @@
       "word": "美官员称纳斯鲁拉死了才更安全",
       "onboard_time": 1727667079,
       "rank": 29,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 39062,
+      "num": 228751,
+      "word": "伊朗以色列是否会彻底摊牌",
+      "onboard_time": 1727866999,
+      "rank": 14,
       "category": "国外时政"
     },
     {
@@ -11659,6 +11771,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 26027,
+      "num": 231841,
+      "word": "陈丽君谈更多年轻人喜欢上越剧",
+      "onboard_time": 1727866759,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 25997,
       "num": 290662,
       "word": "文物局回应古寺修缮未能修旧如旧",
@@ -12097,6 +12217,14 @@
       "onboard_time": 1727691379,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 8217,
+      "num": 212612,
+      "word": "中国飞机炮火中逆行至黎巴嫩撤侨",
+      "onboard_time": 1727867900,
+      "rank": 19,
+      "category": "国内时政,军事"
     }
   ],
   "hotgov_list": [

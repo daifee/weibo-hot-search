@@ -1,0 +1,410 @@
+{
+  "runTime": 1727867933706,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 908075,
+        "num": 1145292,
+        "word": "王楚钦梁靖崑vs洛伦佐萨琳",
+        "onboard_time": 1727863158,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 436734,
+        "num": 436734,
+        "word": "王楚钦梁靖崑晋级男双八强",
+        "onboard_time": 1727865318,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 13904,
+        "num": 346002,
+        "word": "哪一刻你感受到祖国的强大",
+        "onboard_time": 1727842938,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 330451,
+        "num": 330451,
+        "word": "人人人人景点人人人人",
+        "onboard_time": 1727836216,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240690,
+        "num": 240690,
+        "word": "南京长江大桥亮灯了",
+        "onboard_time": 1727863579,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233322,
+        "num": 233322,
+        "word": "爆冷王楚钦的林德是谁",
+        "onboard_time": 1727854097,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 105706,
+        "num": 233111,
+        "word": "志愿军",
+        "onboard_time": 1727858898,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 92596,
+        "num": 232488,
+        "word": "把清澈的爱唱给祖国听",
+        "onboard_time": 1727854998,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 26027,
+        "num": 231841,
+        "word": "陈丽君谈更多年轻人喜欢上越剧",
+        "onboard_time": 1727866759,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 80444,
+        "num": 231739,
+        "word": "中方回应黎以伊以局势升级",
+        "onboard_time": 1727864298,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 218400,
+        "num": 231058,
+        "word": "国庆假期余额还有5天",
+        "onboard_time": 1727854037,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 740111,
+        "num": 230633,
+        "word": "时代少年团棉花娃娃",
+        "onboard_time": 1727867541,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 665909,
+        "num": 229764,
+        "word": "女生打顺风车已满座司机仍接单",
+        "onboard_time": 1727856259,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 487911,
+        "num": 229291,
+        "word": "以色列宣布禁止古特雷斯入境",
+        "onboard_time": 1727866218,
+        "rank": 13,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 39062,
+        "num": 228751,
+        "word": "伊朗以色列是否会彻底摊牌",
+        "onboard_time": 1727866999,
+        "rank": 14,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 307923,
+        "num": 228312,
+        "word": "特朗普就伊朗空袭以色列发声",
+        "onboard_time": 1727860277,
+        "rank": 15,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 287379,
+        "num": 227937,
+        "word": "王俊凯749局演技",
+        "onboard_time": 1727862618,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 227658,
+        "num": 227658,
+        "word": "为什么现在酒店退房不查房了",
+        "onboard_time": 1727836280,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221965,
+        "num": 221965,
+        "word": "人人人人人广州人人人人人",
+        "onboard_time": 1727858118,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 8217,
+        "num": 212612,
+        "word": "中国飞机炮火中逆行至黎巴嫩撤侨",
+        "onboard_time": 1727867900,
+        "rank": 19,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 208885,
+        "num": 208885,
+        "word": "恩利说妈妈最好的朋友是刘亦菲",
+        "onboard_time": 1727856139,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 201122,
+        "num": 201122,
+        "word": "刘烨 三金影帝的实力",
+        "onboard_time": 1727859498,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 189272,
+        "num": 189272,
+        "word": "什么是孙悟空型人格",
+        "onboard_time": 1727867298,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 176836,
+        "num": 176836,
+        "word": "王源太湖湾",
+        "onboard_time": 1727866640,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 175333,
+        "num": 175333,
+        "word": "语言通货膨胀",
+        "onboard_time": 1727866819,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 170501,
+        "num": 170501,
+        "word": "日本股市抢筹中国资产",
+        "onboard_time": 1727865139,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 168794,
+        "num": 168794,
+        "word": "我的宝藏家乡",
+        "onboard_time": 1727856437,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168013,
+        "num": 168013,
+        "word": "瞿一芃大溪地归来入赘豪门",
+        "onboard_time": 1727863818,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164883,
+        "num": 164883,
+        "word": "以驻联合国代表谴责伊朗导弹袭击",
+        "onboard_time": 1727850079,
+        "rank": 28,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 149653,
+        "num": 149653,
+        "word": "胡军包场",
+        "onboard_time": 1727860697,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 451696,
+        "num": 149603,
+        "word": "金马奖入围名单",
+        "onboard_time": 1727867478,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 149106,
+        "num": 149106,
+        "word": "本月你的工资或将多2笔钱",
+        "onboard_time": 1727867838,
+        "rank": 31,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 143423,
+        "num": 143423,
+        "word": "为什么我们想回家但又不愿久留",
+        "onboard_time": 1727857518,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131039,
+        "num": 131039,
+        "word": "十一出游露思淡妆",
+        "onboard_time": 1727866277,
+        "rank": 33,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 124829,
+        "num": 124829,
+        "word": "LPL世界赛首战",
+        "onboard_time": 1727864778,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 120569,
+        "num": 120569,
+        "word": "张凌赫田曦薇平番",
+        "onboard_time": 1727853558,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120475,
+        "num": 120475,
+        "word": "美媒爆以色列计划重大报复伊朗",
+        "onboard_time": 1727858838,
+        "rank": 36,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 256267,
+        "num": 118969,
+        "word": "官方通报雁荡山缆车故障致1游客坠落",
+        "onboard_time": 1727858958,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114189,
+        "num": 114189,
+        "word": "陆川 有什么事冲我来",
+        "onboard_time": 1727839878,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 112326,
+        "num": 112326,
+        "word": "浴火之路 狼兔CP",
+        "onboard_time": 1727862559,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 111612,
+        "num": 111612,
+        "word": "中概股空头亏损69亿美元",
+        "onboard_time": 1727861898,
+        "rank": 40,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 111109,
+        "num": 111109,
+        "word": "KSG战胜WE",
+        "onboard_time": 1727867541,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 109327,
+        "num": 109327,
+        "word": "偏偏宠爱",
+        "onboard_time": 1727867838,
+        "rank": 42,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 57085,
+        "num": 109180,
+        "word": "江苏气温跌到个位数",
+        "onboard_time": 1727863699,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109090,
+        "num": 109090,
+        "word": "武志红评浴火之路爽感从何而来",
+        "onboard_time": 1727867419,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 105624,
+        "num": 105624,
+        "word": "男子闲逛时被伊朗导弹碎片砸死",
+        "onboard_time": 1727856017,
+        "rank": 45,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 104529,
+        "num": 104529,
+        "word": "逐玉",
+        "onboard_time": 1727852958,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 98128,
+        "num": 98128,
+        "word": "再也不用羡慕美国展出的月壤了",
+        "onboard_time": 1727856078,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 69338,
+        "num": 95293,
+        "word": "志愿军存亡之战票房破3亿",
+        "onboard_time": 1727867419,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 57850,
+        "num": 93807,
+        "word": "雅 中国的面地球的力量",
+        "onboard_time": 1727859977,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#一份份清澈的爱汇聚成今日中国#"
+    }
+  }
+}
