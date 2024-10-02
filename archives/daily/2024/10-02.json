@@ -1,6 +1,6 @@
 {
   "startTime": 1727800165777,
-  "endTime": 1727867933706,
+  "endTime": 1727868938047,
   "band_list": [
     {
       "raw_hot": 2319330,
@@ -41,6 +41,14 @@
       "onboard_time": 1727827398,
       "rank": 10,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 1168651,
+      "num": 149603,
+      "word": "金马奖入围名单",
+      "onboard_time": 1727867478,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 1132416,
@@ -91,6 +99,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 802965,
+      "num": 243366,
+      "word": "时代少年团棉花娃娃",
+      "onboard_time": 1727867541,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 793385,
       "num": 447755,
       "word": "伊朗公布下令向以色列发射导弹视频",
@@ -137,14 +153,6 @@
       "onboard_time": 1727830878,
       "rank": 30,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 740111,
-      "num": 230633,
-      "word": "时代少年团棉花娃娃",
-      "onboard_time": 1727867541,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 730969,
@@ -275,6 +283,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 546445,
+      "num": 241458,
+      "word": "以色列宣布禁止古特雷斯入境",
+      "onboard_time": 1727866218,
+      "rank": 13,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 546209,
       "num": 298663,
       "word": "拜登下令美军助以击落伊朗导弹",
@@ -339,12 +355,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 487911,
-      "num": 229291,
-      "word": "以色列宣布禁止古特雷斯入境",
-      "onboard_time": 1727866218,
-      "rank": 13,
-      "category": "国外时政"
+      "raw_hot": 489435,
+      "num": 240682,
+      "word": "王楚钦回应单打失利",
+      "onboard_time": 1727868380,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 470597,
@@ -385,14 +401,6 @@
       "onboard_time": 1727794402,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 451696,
-      "num": 149603,
-      "word": "金马奖入围名单",
-      "onboard_time": 1727867478,
-      "rank": 30,
-      "category": "电影"
     },
     {
       "raw_hot": 451275,
@@ -603,6 +611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 310368,
+      "num": 239768,
+      "word": "本月你的工资或将多2笔钱",
+      "onboard_time": 1727867838,
+      "rank": 31,
+      "category": "财经"
+    },
+    {
       "raw_hot": 302958,
       "num": 270126,
       "word": "欧豪包场赵丽颖浴火之路",
@@ -691,6 +707,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 268298,
+      "num": 1017063,
+      "word": "南京长江大桥亮灯了",
+      "onboard_time": 1727863579,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 267856,
       "num": 190037,
       "word": "瞿一芃大溪地归来入赘豪门",
@@ -771,20 +795,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 240690,
-      "num": 1017063,
-      "word": "南京长江大桥亮灯了",
-      "onboard_time": 1727863579,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 239624,
       "num": 251793,
       "word": "国庆假期第2天你在哪里过的",
       "onboard_time": 1727838199,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 238261,
+      "num": 238261,
+      "word": "偏偏宠爱",
+      "onboard_time": 1727867838,
+      "rank": 42,
+      "category": "动漫"
     },
     {
       "raw_hot": 232689,
@@ -1355,14 +1379,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 149106,
-      "num": 149106,
-      "word": "本月你的工资或将多2笔钱",
-      "onboard_time": 1727867838,
-      "rank": 31,
-      "category": "财经"
-    },
-    {
       "raw_hot": 148534,
       "num": 242391,
       "word": "商务部回应加拿大对我国电动汽车加征关税",
@@ -1417,6 +1433,14 @@
       "onboard_time": 1727859977,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 141133,
+      "num": 141133,
+      "word": "十一出游露思淡妆",
+      "onboard_time": 1727866277,
+      "rank": 33,
+      "category": "美妆"
     },
     {
       "raw_hot": 140713,
@@ -1505,14 +1529,6 @@
       "onboard_time": 1727855657,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 131039,
-      "num": 131039,
-      "word": "十一出游露思淡妆",
-      "onboard_time": 1727866277,
-      "rank": 33,
-      "category": "美妆"
     },
     {
       "raw_hot": 129884,
@@ -1723,14 +1739,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 109327,
-      "num": 109327,
-      "word": "偏偏宠爱",
-      "onboard_time": 1727867838,
-      "rank": 42,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 109090,
       "num": 109090,
       "word": "武志红评浴火之路爽感从何而来",
@@ -1883,10 +1891,34 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 96082,
+      "num": 221472,
+      "word": "中国飞机炮火中逆行至黎巴嫩撤侨",
+      "onboard_time": 1727867900,
+      "rank": 19,
+      "category": "国内时政,军事"
+    },
+    {
+      "raw_hot": 95450,
+      "num": 95450,
+      "word": "隐藏在水果中的热量刺客",
+      "onboard_time": 1727868380,
+      "rank": 42,
+      "category": "美食"
+    },
+    {
       "raw_hot": 95200,
       "num": 95200,
       "word": "国庆无人景区攻略",
       "onboard_time": 1727861656,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 94826,
+      "num": 94826,
+      "word": "全球多航司停飞",
+      "onboard_time": 1727867359,
       "rank": 43,
       "category": "社会新闻"
     },
@@ -1923,6 +1955,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 87018,
+      "num": 87018,
+      "word": "KSG年总开门红",
+      "onboard_time": 1727868380,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 85161,
       "num": 85161,
       "word": "林诗栋晋级中国大满贯16强",
@@ -1945,6 +1985,14 @@
       "onboard_time": 1727792121,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 84393,
+      "num": 84393,
+      "word": "心疼卫昭",
+      "onboard_time": 1727868918,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 84034,
@@ -2067,6 +2115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 70037,
+      "num": 231841,
+      "word": "陈丽君谈更多年轻人喜欢上越剧",
+      "onboard_time": 1727866759,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 69338,
       "num": 95293,
       "word": "志愿军存亡之战票房破3亿",
@@ -2113,6 +2169,14 @@
       "onboard_time": 1727824576,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 58417,
+      "num": 228751,
+      "word": "伊朗以色列是否会彻底摊牌",
+      "onboard_time": 1727866999,
+      "rank": 14,
+      "category": "国外时政"
     },
     {
       "raw_hot": 57085,
@@ -2233,14 +2297,6 @@
       "onboard_time": 1727860996,
       "rank": 29,
       "category": "电影"
-    },
-    {
-      "raw_hot": 39062,
-      "num": 228751,
-      "word": "伊朗以色列是否会彻底摊牌",
-      "onboard_time": 1727866999,
-      "rank": 14,
-      "category": "国外时政"
     },
     {
       "raw_hot": 38822,
@@ -2387,14 +2443,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 26027,
-      "num": 231841,
-      "word": "陈丽君谈更多年轻人喜欢上越剧",
-      "onboard_time": 1727866759,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 23515,
       "num": 203574,
       "word": "神舟十九号载人飞船发射时间",
@@ -2425,6 +2473,14 @@
       "onboard_time": 1727856858,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 21341,
+      "num": 243786,
+      "word": "有一种豪情浪漫叫当军婚遇上国庆",
+      "onboard_time": 1727866159,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 21111,
@@ -2521,14 +2577,6 @@
       "onboard_time": 1727808014,
       "rank": 25,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 8217,
-      "num": 212612,
-      "word": "中国飞机炮火中逆行至黎巴嫩撤侨",
-      "onboard_time": 1727867900,
-      "rank": 19,
-      "category": "国内时政,军事"
     }
   ],
   "hotgov_list": [

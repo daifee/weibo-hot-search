@@ -1,6 +1,6 @@
 {
   "startTime": 1727540758074,
-  "endTime": 1727867933706,
+  "endTime": 1727868938047,
   "band_list": [
     {
       "raw_hot": 11925969,
@@ -411,6 +411,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 1168651,
+      "num": 149603,
+      "word": "金马奖入围名单",
+      "onboard_time": 1727867478,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1132416,
       "num": 1181186,
       "word": "人人人人景点人人人人",
@@ -819,6 +827,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 802965,
+      "num": 243366,
+      "word": "时代少年团棉花娃娃",
+      "onboard_time": 1727867541,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 800781,
       "num": 347387,
       "word": "张元英眼睛状态",
@@ -921,14 +937,6 @@
       "onboard_time": 1727617701,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 740111,
-      "num": 230633,
-      "word": "时代少年团棉花娃娃",
-      "onboard_time": 1727867541,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 739224,
@@ -1547,6 +1555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 546445,
+      "num": 241458,
+      "word": "以色列宣布禁止古特雷斯入境",
+      "onboard_time": 1727866218,
+      "rank": 13,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 546388,
       "num": 405989,
       "word": "华伦天奴大秀",
@@ -1779,12 +1795,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 487911,
-      "num": 229291,
-      "word": "以色列宣布禁止古特雷斯入境",
-      "onboard_time": 1727866218,
-      "rank": 13,
-      "category": "国外时政"
+      "raw_hot": 489435,
+      "num": 240682,
+      "word": "王楚钦回应单打失利",
+      "onboard_time": 1727868380,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 483724,
@@ -1921,14 +1937,6 @@
       "onboard_time": 1727709439,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 451696,
-      "num": 149603,
-      "word": "金马奖入围名单",
-      "onboard_time": 1727867478,
-      "rank": 30,
-      "category": "电影"
     },
     {
       "raw_hot": 451275,
@@ -2931,6 +2939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 310368,
+      "num": 239768,
+      "word": "本月你的工资或将多2笔钱",
+      "onboard_time": 1727867838,
+      "rank": 31,
+      "category": "财经"
+    },
+    {
       "raw_hot": 310230,
       "num": 272974,
       "word": "双开门冰箱突然变大气了",
@@ -3419,6 +3435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 268298,
+      "num": 1017063,
+      "word": "南京长江大桥亮灯了",
+      "onboard_time": 1727863579,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 267856,
       "num": 190037,
       "word": "瞿一芃大溪地归来入赘豪门",
@@ -3739,14 +3763,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 240690,
-      "num": 1017063,
-      "word": "南京长江大桥亮灯了",
-      "onboard_time": 1727863579,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 239769,
       "num": 239769,
       "word": "爱奇艺10月片单",
@@ -3825,6 +3841,14 @@
       "onboard_time": 1727794880,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 238261,
+      "num": 238261,
+      "word": "偏偏宠爱",
+      "onboard_time": 1727867838,
+      "rank": 42,
+      "category": "动漫"
     },
     {
       "raw_hot": 238093,
@@ -6827,14 +6851,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 149106,
-      "num": 149106,
-      "word": "本月你的工资或将多2笔钱",
-      "onboard_time": 1727867838,
-      "rank": 31,
-      "category": "财经"
-    },
-    {
       "raw_hot": 148709,
       "num": 148709,
       "word": "A股上涨你四天赚了多少钱",
@@ -7137,6 +7153,14 @@
       "onboard_time": 1727675119,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 141133,
+      "num": 141133,
+      "word": "十一出游露思淡妆",
+      "onboard_time": 1727866277,
+      "rank": 33,
+      "category": "美妆"
     },
     {
       "raw_hot": 140985,
@@ -7753,14 +7777,6 @@
       "onboard_time": 1727764758,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 131039,
-      "num": 131039,
-      "word": "十一出游露思淡妆",
-      "onboard_time": 1727866277,
-      "rank": 33,
-      "category": "美妆"
     },
     {
       "raw_hot": 130805,
@@ -9059,14 +9075,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 109327,
-      "num": 109327,
-      "word": "偏偏宠爱",
-      "onboard_time": 1727867838,
-      "rank": 42,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 109168,
       "num": 109168,
       "word": "专家谈股市是否会面临疯牛",
@@ -9659,6 +9667,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 96082,
+      "num": 221472,
+      "word": "中国飞机炮火中逆行至黎巴嫩撤侨",
+      "onboard_time": 1727867900,
+      "rank": 19,
+      "category": "国内时政,军事"
+    },
+    {
       "raw_hot": 96039,
       "num": 112422,
       "word": "半熟男女 渣男装深情",
@@ -9683,6 +9699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 95450,
+      "num": 95450,
+      "word": "隐藏在水果中的热量刺客",
+      "onboard_time": 1727868380,
+      "rank": 42,
+      "category": "美食"
+    },
+    {
       "raw_hot": 95382,
       "num": 317269,
       "word": "北京五环内购房社保年限5改3",
@@ -9703,6 +9727,14 @@
       "num": 95200,
       "word": "国庆无人景区攻略",
       "onboard_time": 1727861656,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 94826,
+      "num": 94826,
+      "word": "全球多航司停飞",
+      "onboard_time": 1727867359,
       "rank": 43,
       "category": "社会新闻"
     },
@@ -9883,6 +9915,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 87018,
+      "num": 87018,
+      "word": "KSG年总开门红",
+      "onboard_time": 1727868380,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 86501,
       "num": 86501,
       "word": "以色列对黎真主党领导人发动空袭现场",
@@ -9953,6 +9993,14 @@
       "onboard_time": 1727842278,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 84393,
+      "num": 84393,
+      "word": "心疼卫昭",
+      "onboard_time": 1727868918,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 84043,
@@ -10331,6 +10379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 70037,
+      "num": 231841,
+      "word": "陈丽君谈更多年轻人喜欢上越剧",
+      "onboard_time": 1727866759,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 70014,
       "num": 84313,
       "word": "南京的国庆氛围感拉满",
@@ -10601,6 +10657,14 @@
       "onboard_time": 1727781259,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 58417,
+      "num": 228751,
+      "word": "伊朗以色列是否会彻底摊牌",
+      "onboard_time": 1727866999,
+      "rank": 14,
+      "category": "国外时政"
     },
     {
       "raw_hot": 58236,
@@ -11168,14 +11232,6 @@
       "word": "美官员称纳斯鲁拉死了才更安全",
       "onboard_time": 1727667079,
       "rank": 29,
-      "category": "国外时政"
-    },
-    {
-      "raw_hot": 39062,
-      "num": 228751,
-      "word": "伊朗以色列是否会彻底摊牌",
-      "onboard_time": 1727866999,
-      "rank": 14,
       "category": "国外时政"
     },
     {
@@ -11771,14 +11827,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 26027,
-      "num": 231841,
-      "word": "陈丽君谈更多年轻人喜欢上越剧",
-      "onboard_time": 1727866759,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 25997,
       "num": 290662,
       "word": "文物局回应古寺修缮未能修旧如旧",
@@ -11945,6 +11993,14 @@
       "onboard_time": 1727856858,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 21341,
+      "num": 243786,
+      "word": "有一种豪情浪漫叫当军婚遇上国庆",
+      "onboard_time": 1727866159,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 21111,
@@ -12217,14 +12273,6 @@
       "onboard_time": 1727691379,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 8217,
-      "num": 212612,
-      "word": "中国飞机炮火中逆行至黎巴嫩撤侨",
-      "onboard_time": 1727867900,
-      "rank": 19,
-      "category": "国内时政,军事"
     }
   ],
   "hotgov_list": [
