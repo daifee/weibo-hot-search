@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1727857724302,
+  "endTime": 1727858576771,
   "band_list": [
     {
       "raw_hot": 11925969,
@@ -105,6 +105,14 @@
       "onboard_time": 1727756780,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1421127,
+      "num": 196791,
+      "word": "女生打顺风车已满座司机仍接单",
+      "onboard_time": 1727856259,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1389240,
@@ -420,7 +428,7 @@
     },
     {
       "raw_hot": 730969,
-      "num": 190213,
+      "num": 196371,
       "word": "男子闲逛时被伊朗导弹碎片砸死",
       "onboard_time": 1727856017,
       "rank": 12,
@@ -460,7 +468,7 @@
     },
     {
       "raw_hot": 702876,
-      "num": 189468,
+      "num": 194039,
       "word": "恩利说妈妈最好的朋友是刘亦菲",
       "onboard_time": 1727856139,
       "rank": 14,
@@ -737,14 +745,6 @@
       "onboard_time": 1727715915,
       "rank": 15,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 528727,
-      "num": 188626,
-      "word": "女生打顺风车已满座司机仍接单",
-      "onboard_time": 1727856259,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 518322,
@@ -1291,20 +1291,20 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 287610,
+      "num": 192439,
+      "word": "张凌赫雨天车内吻戏",
+      "onboard_time": 1727855178,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 286667,
       "num": 286667,
       "word": "光遇复刻",
       "onboard_time": 1727755581,
       "rank": 22,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 284887,
-      "num": 186402,
-      "word": "张凌赫雨天车内吻戏",
-      "onboard_time": 1727855178,
-      "rank": 21,
-      "category": "剧集"
     },
     {
       "raw_hot": 282347,
@@ -2547,6 +2547,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 165535,
+      "num": 165535,
+      "word": "749局剧情",
+      "onboard_time": 1727857818,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 165405,
       "num": 165405,
       "word": "赵今麦荷叶边波点黑裙",
@@ -2633,6 +2641,14 @@
       "onboard_time": 1727852958,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 159364,
+      "num": 194155,
+      "word": "把清澈的爱唱给祖国听",
+      "onboard_time": 1727854998,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 159307,
@@ -2739,6 +2755,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 155624,
+      "num": 187717,
+      "word": "再也不用羡慕美国展出的月壤了",
+      "onboard_time": 1727856078,
+      "rank": 34,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 154422,
       "num": 154422,
       "word": "朱一龙主演电影票房破110亿",
@@ -2835,6 +2859,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 149276,
+      "num": 170073,
+      "word": "以国庆命名是中国人特有的浪漫",
+      "onboard_time": 1727854037,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 149273,
       "num": 149273,
       "word": "机场安检时擦的小纸片是什么",
@@ -2849,6 +2881,14 @@
       "onboard_time": 1727846539,
       "rank": 29,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 146842,
+      "num": 146842,
+      "word": "美国制裁以色列两名个人及一个实体",
+      "onboard_time": 1727856617,
+      "rank": 35,
+      "category": "国外时政"
     },
     {
       "raw_hot": 146650,
@@ -3147,12 +3187,12 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 132118,
-      "num": 132118,
-      "word": "再也不用羡慕美国展出的月壤了",
-      "onboard_time": 1727856078,
-      "rank": 34,
-      "category": "国内时政"
+      "raw_hot": 132209,
+      "num": 132209,
+      "word": "为什么旅行容易引发争吵",
+      "onboard_time": 1727855657,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 131882,
@@ -3192,14 +3232,6 @@
       "word": "日本岸田内阁宣布集体辞职",
       "onboard_time": 1727744419,
       "rank": 42,
-      "category": "国外时政"
-    },
-    {
-      "raw_hot": 130002,
-      "num": 130002,
-      "word": "美国制裁以色列两名个人及一个实体",
-      "onboard_time": 1727856617,
-      "rank": 35,
       "category": "国外时政"
     },
     {
@@ -3257,6 +3289,14 @@
       "onboard_time": 1727788701,
       "rank": 48,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 127208,
+      "num": 127208,
+      "word": "人人人人人广州人人人人人",
+      "onboard_time": 1727858118,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 126661,
@@ -3345,14 +3385,6 @@
       "onboard_time": 1727748859,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 119501,
-      "num": 119501,
-      "word": "以国庆命名是中国人特有的浪漫",
-      "onboard_time": 1727854037,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 119424,
@@ -3571,14 +3603,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 111489,
-      "num": 194155,
-      "word": "把清澈的爱唱给祖国听",
-      "onboard_time": 1727854998,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 111427,
       "num": 111427,
       "word": "华晨宇鸟巢演唱会全纪录",
@@ -3601,6 +3625,14 @@
       "onboard_time": 1727790143,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 110591,
+      "num": 110591,
+      "word": "赵丽颖哭戏",
+      "onboard_time": 1727857639,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 110479,
@@ -3712,6 +3744,14 @@
       "word": "中华文化的璀璨与浪漫在此刻具象化了",
       "onboard_time": 1727853797,
       "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 106166,
+      "num": 106166,
+      "word": "人人人人人济南人人人人人",
+      "onboard_time": 1727857276,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -3827,14 +3867,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 100090,
-      "num": 100090,
-      "word": "人人人人人济南人人人人人",
-      "onboard_time": 1727857276,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 98628,
       "num": 98628,
       "word": "九寨沟秋雪全糖微冰",
@@ -3857,6 +3889,14 @@
       "onboard_time": 1727778858,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 97426,
+      "num": 97426,
+      "word": "柯洁进决赛",
+      "onboard_time": 1727858358,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 97203,
@@ -4088,14 +4128,6 @@
       "word": "今天我们筑起新的长城",
       "onboard_time": 1727786058,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 80037,
-      "num": 129763,
-      "word": "为什么旅行容易引发争吵",
-      "onboard_time": 1727855657,
-      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -4332,7 +4364,7 @@
     },
     {
       "raw_hot": 61410,
-      "num": 187468,
+      "num": 188917,
       "word": "为什么我们想回家但又不愿久留",
       "onboard_time": 1727857518,
       "rank": 19,
@@ -4659,7 +4691,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 35648,
+      "raw_hot": 35971,
       "num": 278190,
       "word": "五星红旗与壮美山川同框",
       "onboard_time": 1727854217,
@@ -4921,6 +4953,14 @@
       "onboard_time": 1727856858,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 21111,
+      "num": 121922,
+      "word": "GAI被布云朝克特圈粉了",
+      "onboard_time": 1727857999,
+      "rank": 35,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 20614,

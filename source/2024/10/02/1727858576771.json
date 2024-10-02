@@ -1,0 +1,410 @@
+{
+  "runTime": 1727858576771,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 573787,
+        "num": 1091806,
+        "word": "人人人人景点人人人人",
+        "onboard_time": 1727836216,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 449675,
+        "num": 449675,
+        "word": "为什么现在酒店退房不查房了",
+        "onboard_time": 1727836280,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30481,
+        "num": 249423,
+        "word": "哪一刻你感受到祖国的强大",
+        "onboard_time": 1727842938,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 617266,
+        "num": 229275,
+        "word": "爆冷王楚钦的林德是谁",
+        "onboard_time": 1727854097,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 202362,
+        "num": 202362,
+        "word": "覃予萱纵歌曼3比1王曼昱蒯曼",
+        "onboard_time": 1727854877,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 35971,
+        "num": 201617,
+        "word": "五星红旗与壮美山川同框",
+        "onboard_time": 1727854217,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168846,
+        "num": 200587,
+        "word": "我的宝藏家乡",
+        "onboard_time": 1727856437,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163899,
+        "num": 200208,
+        "word": "国庆假期余额还有5天",
+        "onboard_time": 1727854037,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122396,
+        "num": 199404,
+        "word": "威震天 我不想再拯救你了",
+        "onboard_time": 1727847317,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 115475,
+        "num": 198422,
+        "word": "浴火之路",
+        "onboard_time": 1727839458,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1421127,
+        "num": 196791,
+        "word": "女生打顺风车已满座司机仍接单",
+        "onboard_time": 1727856259,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 635680,
+        "num": 196371,
+        "word": "男子闲逛时被伊朗导弹碎片砸死",
+        "onboard_time": 1727856017,
+        "rank": 11,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 145512,
+        "num": 195322,
+        "word": "假期第2天你准备做什么",
+        "onboard_time": 1727850259,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 620545,
+        "num": 194039,
+        "word": "恩利说妈妈最好的朋友是刘亦菲",
+        "onboard_time": 1727856139,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 431828,
+        "num": 193550,
+        "word": "没人告诉我王楚然这么搞笑啊",
+        "onboard_time": 1727852177,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 287610,
+        "num": 192439,
+        "word": "张凌赫雨天车内吻戏",
+        "onboard_time": 1727855178,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 287521,
+        "num": 191827,
+        "word": "以驻联合国代表谴责伊朗导弹袭击",
+        "onboard_time": 1727850079,
+        "rank": 16,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 280437,
+        "num": 191059,
+        "word": "内塔尼亚胡在掩体中宣称伊朗败了",
+        "onboard_time": 1727840358,
+        "rank": 17,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 251660,
+        "num": 189802,
+        "word": "陆川 有什么事冲我来",
+        "onboard_time": 1727839878,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 47858,
+        "num": 188917,
+        "word": "为什么我们想回家但又不愿久留",
+        "onboard_time": 1727857518,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155624,
+        "num": 187717,
+        "word": "再也不用羡慕美国展出的月壤了",
+        "onboard_time": 1727856078,
+        "rank": 20,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 187401,
+        "num": 187401,
+        "word": "张凌赫田曦薇平番",
+        "onboard_time": 1727853558,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181353,
+        "num": 181353,
+        "word": "深圳有人连夜买房",
+        "onboard_time": 1727854037,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149276,
+        "num": 170073,
+        "word": "以国庆命名是中国人特有的浪漫",
+        "onboard_time": 1727854037,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167068,
+        "num": 167068,
+        "word": "马龙再现东方魔法",
+        "onboard_time": 1727853198,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 165535,
+        "num": 165535,
+        "word": "749局剧情",
+        "onboard_time": 1727857818,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 159445,
+        "num": 159445,
+        "word": "许凯陈哲远互摸腹肌",
+        "onboard_time": 1727856139,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159364,
+        "num": 159364,
+        "word": "把清澈的爱唱给祖国听",
+        "onboard_time": 1727854998,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146842,
+        "num": 146842,
+        "word": "美国制裁以色列两名个人及一个实体",
+        "onboard_time": 1727856617,
+        "rank": 28,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 138356,
+        "num": 138356,
+        "word": "伊朗宣布对以色列行动已结束",
+        "onboard_time": 1727844858,
+        "rank": 29,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 152314,
+        "num": 136939,
+        "word": "谁懂刘亦菲走的这几步",
+        "onboard_time": 1727845637,
+        "rank": 30,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 133520,
+        "num": 133520,
+        "word": "王俊凯演技",
+        "onboard_time": 1727839398,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 132209,
+        "num": 132209,
+        "word": "为什么旅行容易引发争吵",
+        "onboard_time": 1727855657,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127208,
+        "num": 127208,
+        "word": "人人人人人广州人人人人人",
+        "onboard_time": 1727858118,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122352,
+        "num": 122352,
+        "word": "国庆档电影豆瓣开分",
+        "onboard_time": 1727847617,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 21111,
+        "num": 121922,
+        "word": "GAI被布云朝克特圈粉了",
+        "onboard_time": 1727857999,
+        "rank": 35,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 121899,
+        "num": 121899,
+        "word": "王楚钦止步中国大满贯32强",
+        "onboard_time": 1727789425,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115605,
+        "num": 115605,
+        "word": "以军称伊朗向以色列发射超180枚导弹",
+        "onboard_time": 1727827398,
+        "rank": 37,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 111305,
+        "num": 111305,
+        "word": "HPV疫苗已降到20多元1支",
+        "onboard_time": 1727824215,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 110591,
+        "num": 110591,
+        "word": "赵丽颖哭戏",
+        "onboard_time": 1727857639,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 106166,
+        "num": 106166,
+        "word": "人人人人人济南人人人人人",
+        "onboard_time": 1727857276,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105179,
+        "num": 105179,
+        "word": "逐玉",
+        "onboard_time": 1727852958,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104916,
+        "num": 104916,
+        "word": "749局豆瓣开分5.0",
+        "onboard_time": 1727838679,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 102245,
+        "num": 102245,
+        "word": "交警无人机高速提供叫醒服务",
+        "onboard_time": 1727850318,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101618,
+        "num": 101618,
+        "word": "科创板50ETF暴涨超234%",
+        "onboard_time": 1727854938,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 99664,
+        "num": 99664,
+        "word": "航天人是不是系皮带都要再备一根",
+        "onboard_time": 1727856259,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 97426,
+        "num": 97426,
+        "word": "柯洁进决赛",
+        "onboard_time": 1727858358,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 88948,
+        "num": 88948,
+        "word": "人人人人人苏州人人人人人",
+        "onboard_time": 1727838617,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 88187,
+        "num": 88187,
+        "word": "张本美和三项比赛全部出局",
+        "onboard_time": 1727850858,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 87735,
+        "num": 87735,
+        "word": "iPhone16遭苹果砍单",
+        "onboard_time": 1727837658,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#一份份清澈的爱汇聚成今日中国#"
+    }
+  }
+}
