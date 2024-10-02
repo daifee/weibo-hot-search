@@ -1,0 +1,410 @@
+{
+  "runTime": 1727894639777,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 159628,
+        "num": 159628,
+        "word": "五星红旗亮相世界第一高楼",
+        "onboard_time": 1727883440,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 99304,
+        "num": 99304,
+        "word": "中国飞机炮火中逆行至黎巴嫩撤侨",
+        "onboard_time": 1727867900,
+        "rank": 1,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 2322,
+        "num": 89661,
+        "word": "中华文化的璀璨与浪漫在此刻具象化了",
+        "onboard_time": 1727853797,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 82836,
+        "num": 82836,
+        "word": "剩下的5天假期准备如何度过",
+        "onboard_time": 1727890994,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 69588,
+        "num": 69588,
+        "word": "郑钦文晋级中网八强",
+        "onboard_time": 1727884459,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2884,
+        "num": 68068,
+        "word": "9位侗族姑娘给法国人亿点震撼",
+        "onboard_time": 1727872818,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 67676,
+        "num": 67676,
+        "word": "王楚钦回应单打失利",
+        "onboard_time": 1727868380,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 62070,
+        "num": 62070,
+        "word": "黎巴嫩侨胞说看到五星国旗安心了",
+        "onboard_time": 1727886797,
+        "rank": 7,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 50843,
+        "num": 62002,
+        "word": "提醒我公民暂勿前往以色列",
+        "onboard_time": 1727869519,
+        "rank": 8,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 31557,
+        "num": 61038,
+        "word": "股民连夜找回密码重启账户",
+        "onboard_time": 1727893273,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217817,
+        "num": 60388,
+        "word": "女生付完6元餐具费后打包带走碗筷",
+        "onboard_time": 1727870601,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158995,
+        "num": 59663,
+        "word": "虞书欣 双轨",
+        "onboard_time": 1727878400,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145840,
+        "num": 59528,
+        "word": "澳洲包邮",
+        "onboard_time": 1727882599,
+        "rank": 12,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 141906,
+        "num": 58298,
+        "word": "男子身绑20万美元出境被查",
+        "onboard_time": 1727884278,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129501,
+        "num": 57940,
+        "word": "以色列空军基地被伊朗导弹击中",
+        "onboard_time": 1727881880,
+        "rank": 14,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 118103,
+        "num": 57428,
+        "word": "舒马赫露面",
+        "onboard_time": 1727883798,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110011,
+        "num": 56881,
+        "word": "印度拒绝日本亚洲北约提议",
+        "onboard_time": 1727880500,
+        "rank": 16,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 87119,
+        "num": 56233,
+        "word": "向佐的鼻梁骨到底有谁在啊",
+        "onboard_time": 1727875038,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 71585,
+        "num": 55544,
+        "word": "田曦薇方回应无牌车违规问题",
+        "onboard_time": 1727869101,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 68747,
+        "num": 54554,
+        "word": "花少cue王楚钦孙颖莎",
+        "onboard_time": 1727879540,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 68530,
+        "num": 54471,
+        "word": "749局 导演能力",
+        "onboard_time": 1727891532,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 64548,
+        "num": 53686,
+        "word": "付完餐具费可以带走餐具吗",
+        "onboard_time": 1727873418,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 53266,
+        "num": 53266,
+        "word": "王俊凯749局演技",
+        "onboard_time": 1727862618,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 51932,
+        "num": 51932,
+        "word": "女子遭猴抢包物品被一样样扔下树",
+        "onboard_time": 1727882720,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 49221,
+        "num": 49221,
+        "word": "向佐演技好像疯了一样",
+        "onboard_time": 1727876539,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 44963,
+        "num": 44963,
+        "word": "国庆长沙感觉有一亿人",
+        "onboard_time": 1727882778,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 44187,
+        "num": 44187,
+        "word": "一文读懂医保统筹支付和自付自费",
+        "onboard_time": 1727886076,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 43102,
+        "num": 43102,
+        "word": "749局 好奇心",
+        "onboard_time": 1727871740,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 42761,
+        "num": 42761,
+        "word": "马龙说或许这是最后一次国际赛",
+        "onboard_time": 1727879300,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 38961,
+        "num": 38961,
+        "word": "伊朗称200枚导弹90%击中预设目标",
+        "onboard_time": 1727877080,
+        "rank": 29,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 41216,
+        "num": 38924,
+        "word": "金马奖入围名单",
+        "onboard_time": 1727867478,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 38779,
+        "num": 38779,
+        "word": "以色列宣布禁止古特雷斯入境",
+        "onboard_time": 1727866218,
+        "rank": 31,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 38532,
+        "num": 38532,
+        "word": "双轨男主 何与",
+        "onboard_time": 1727880441,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 38104,
+        "num": 38104,
+        "word": "王楚钦梁靖崑晋级男双八强",
+        "onboard_time": 1727865318,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 37819,
+        "num": 37819,
+        "word": "杨超越 纪凌尘像被人偷了脑子",
+        "onboard_time": 1727878400,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 37273,
+        "num": 37273,
+        "word": "赵今麦刘浩存张元英官方认领图",
+        "onboard_time": 1727883440,
+        "rank": 35,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 37164,
+        "num": 37164,
+        "word": "国庆假期第一批受益者出现了",
+        "onboard_time": 1727872279,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 32322,
+        "num": 32322,
+        "word": "郑钦文vs阿尼西莫娃",
+        "onboard_time": 1727871379,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 31492,
+        "num": 31492,
+        "word": "327家国家一级博物馆名单",
+        "onboard_time": 1727880199,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31138,
+        "num": 31492,
+        "word": "为啥街边烤鸭只要25块",
+        "onboard_time": 1727869519,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 29872,
+        "num": 31491,
+        "word": "王楚钦梁靖崑vs洛伦佐萨琳",
+        "onboard_time": 1727863158,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 29245,
+        "num": 31490,
+        "word": "全国各地开启人从众模式",
+        "onboard_time": 1727892194,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28477,
+        "num": 31488,
+        "word": "马龙希望两个儿子度过愉快夜晚",
+        "onboard_time": 1727877680,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 28096,
+        "num": 31488,
+        "word": "马龙vs曾蓓勋",
+        "onboard_time": 1727873058,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 27979,
+        "num": 31487,
+        "word": "突然发现自己的语言能力退化了",
+        "onboard_time": 1727881820,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 27601,
+        "num": 31487,
+        "word": "749局",
+        "onboard_time": 1727881220,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 27269,
+        "num": 31486,
+        "word": "带孩子四处旅游有意义吗",
+        "onboard_time": 1727871259,
+        "rank": 46,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 26505,
+        "num": 31485,
+        "word": "脱口秀女演员不断拿起话筒",
+        "onboard_time": 1727874620,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23487,
+        "num": 31484,
+        "word": "宁艺卓晒了范思哲时装周邀请函",
+        "onboard_time": 1727875160,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22547,
+        "num": 31484,
+        "word": "贵州速冻模式游客一下高铁天塌了",
+        "onboard_time": 1727894172,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#要靠实干奋斗实现中华民族伟大复兴#"
+    }
+  }
+}
