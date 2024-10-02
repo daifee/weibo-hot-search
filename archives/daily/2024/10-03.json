@@ -1,6 +1,6 @@
 {
   "startTime": 1727886505064,
-  "endTime": 1727889548550,
+  "endTime": 1727890632763,
   "band_list": [
     {
       "raw_hot": 979862,
@@ -147,20 +147,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 239341,
+      "num": 194104,
+      "word": "男子身绑20万美元出境被查",
+      "onboard_time": 1727884278,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 208378,
       "num": 208378,
       "word": "双轨男主 何与",
       "onboard_time": 1727880441,
       "rank": 20,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 208061,
-      "num": 194104,
-      "word": "男子身绑20万美元出境被查",
-      "onboard_time": 1727884278,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 176824,
@@ -411,20 +411,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 51044,
+      "num": 71206,
+      "word": "杨超越 纪凌尘像被人偷了脑子",
+      "onboard_time": 1727878400,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 49706,
       "num": 106098,
       "word": "尊崇热爱中华文明",
       "onboard_time": 1727884998,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 49464,
-      "num": 71206,
-      "word": "杨超越 纪凌尘像被人偷了脑子",
-      "onboard_time": 1727878400,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 42155,
@@ -435,7 +435,7 @@
       "category": "演出"
     },
     {
-      "raw_hot": 29892,
+      "raw_hot": 40782,
       "num": 92796,
       "word": "战火无情国家有爱",
       "onboard_time": 1727885657,
@@ -443,7 +443,15 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 27578,
+      "raw_hot": 40031,
+      "num": 61373,
+      "word": "马龙vs曾蓓勋",
+      "onboard_time": 1727873058,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 30097,
       "num": 108762,
       "word": "踏上国土的一刻我们就知道安全了",
       "onboard_time": 1727889134,
