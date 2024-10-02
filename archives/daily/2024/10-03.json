@@ -1,6 +1,6 @@
 {
   "startTime": 1727886505064,
-  "endTime": 1727896736040,
+  "endTime": 1727897732502,
   "band_list": [
     {
       "raw_hot": 979862,
@@ -235,6 +235,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 128447,
+      "num": 128447,
+      "word": "剩下的5天假期准备如何度过",
+      "onboard_time": 1727890994,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 127256,
       "num": 127256,
       "word": "749局 好奇心",
@@ -257,14 +265,6 @@
       "onboard_time": 1727869519,
       "rank": 32,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 121384,
-      "num": 121384,
-      "word": "剩下的5天假期准备如何度过",
-      "onboard_time": 1727890994,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 119657,
@@ -499,11 +499,19 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 23892,
+      "raw_hot": 24297,
       "num": 31484,
       "word": "贵州速冻模式游客一下高铁天塌了",
       "onboard_time": 1727894172,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 15988,
+      "num": 41723,
+      "word": "六万年一遇彗星闪耀北京上空",
+      "onboard_time": 1727896751,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -523,19 +531,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 8658,
+      "num": 101420,
+      "word": "超3.3亿人次假期首日跨区域流动",
+      "onboard_time": 1727873659,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 8654,
       "num": 265077,
       "word": "9位侗族姑娘给法国人亿点震撼",
       "onboard_time": 1727872818,
       "rank": 5,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 7682,
-      "num": 101420,
-      "word": "超3.3亿人次假期首日跨区域流动",
-      "onboard_time": 1727873659,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
