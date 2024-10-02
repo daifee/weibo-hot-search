@@ -1,0 +1,410 @@
+{
+  "runTime": 1727854529450,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 709557,
+        "num": 1113529,
+        "word": "人人人人景点人人人人",
+        "onboard_time": 1727836216,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280594,
+        "num": 280594,
+        "word": "交警无人机高速提供叫醒服务",
+        "onboard_time": 1727850318,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 7451,
+        "num": 280473,
+        "word": "国庆仪式感让清澈的爱具象化了",
+        "onboard_time": 1727829978,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 314152,
+        "num": 280177,
+        "word": "王楚钦止步中国大满贯32强",
+        "onboard_time": 1727789425,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 221732,
+        "num": 279579,
+        "word": "HPV疫苗已降到20多元1支",
+        "onboard_time": 1727824215,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 181265,
+        "num": 279401,
+        "word": "人人人人人苏州人人人人人",
+        "onboard_time": 1727838617,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148479,
+        "num": 279039,
+        "word": "假期第2天你准备做什么",
+        "onboard_time": 1727850259,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116737,
+        "num": 278604,
+        "word": "威震天 我不想再拯救你了",
+        "onboard_time": 1727847317,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 22988,
+        "num": 278190,
+        "word": "五星红旗与壮美山川同框",
+        "onboard_time": 1727854217,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116066,
+        "num": 277637,
+        "word": "浴火之路",
+        "onboard_time": 1727839458,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 513983,
+        "num": 277270,
+        "word": "以驻联合国代表谴责伊朗导弹袭击",
+        "onboard_time": 1727850079,
+        "rank": 10,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 461705,
+        "num": 276808,
+        "word": "陆川 有什么事冲我来",
+        "onboard_time": 1727839878,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 456169,
+        "num": 276471,
+        "word": "景区缆车门被大风吹开致游客坠落",
+        "onboard_time": 1727850378,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 393880,
+        "num": 276320,
+        "word": "王俊凯演技",
+        "onboard_time": 1727839398,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 386011,
+        "num": 275632,
+        "word": "内塔尼亚胡在掩体中宣称伊朗败了",
+        "onboard_time": 1727840358,
+        "rank": 14,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 310666,
+        "num": 275235,
+        "word": "伊朗宣布对以色列行动已结束",
+        "onboard_time": 1727844858,
+        "rank": 15,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 284029,
+        "num": 274982,
+        "word": "国庆档电影豆瓣开分",
+        "onboard_time": 1727847617,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 274802,
+        "num": 274802,
+        "word": "以军称伊朗向以色列发射超180枚导弹",
+        "onboard_time": 1727827398,
+        "rank": 17,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 262688,
+        "num": 262688,
+        "word": "没人告诉我王楚然这么搞笑啊",
+        "onboard_time": 1727852177,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17935,
+        "num": 252331,
+        "word": "用美食看中国",
+        "onboard_time": 1727853078,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 278479,
+        "num": 251083,
+        "word": "为什么现在酒店退房不查房了",
+        "onboard_time": 1727836280,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 269474,
+        "num": 248711,
+        "word": "张凌赫田曦薇平番",
+        "onboard_time": 1727853558,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 244416,
+        "num": 244416,
+        "word": "宋茜当导游有亿点人脉",
+        "onboard_time": 1727851158,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 237079,
+        "num": 237079,
+        "word": "爆冷王楚钦的林德是谁",
+        "onboard_time": 1727854097,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128495,
+        "num": 231169,
+        "word": "国庆假期余额还有5天",
+        "onboard_time": 1727854037,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19819,
+        "num": 227715,
+        "word": "上海新盘到访量显著增加",
+        "onboard_time": 1727852538,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225800,
+        "num": 225800,
+        "word": "马龙再现东方魔法",
+        "onboard_time": 1727853198,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 186818,
+        "num": 186818,
+        "word": "张本美和三项比赛全部出局",
+        "onboard_time": 1727850858,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 180070,
+        "num": 180070,
+        "word": "何卓佳11比1",
+        "onboard_time": 1727850198,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159550,
+        "num": 159550,
+        "word": "逐玉",
+        "onboard_time": 1727852958,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157794,
+        "num": 157794,
+        "word": "iPhone16遭苹果砍单",
+        "onboard_time": 1727837658,
+        "rank": 30,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 145068,
+        "num": 145068,
+        "word": "陈飞宇要请嗯哼全班看电影",
+        "onboard_time": 1727851459,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 143091,
+        "num": 143091,
+        "word": "谁懂刘亦菲走的这几步",
+        "onboard_time": 1727845637,
+        "rank": 32,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 140903,
+        "num": 140903,
+        "word": "美国大选",
+        "onboard_time": 1727841138,
+        "rank": 33,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 135977,
+        "num": 135977,
+        "word": "伊朗公布下令向以色列发射导弹视频",
+        "onboard_time": 1727836398,
+        "rank": 34,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 133394,
+        "num": 133394,
+        "word": "深圳有人连夜买房",
+        "onboard_time": 1727854037,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133171,
+        "num": 133171,
+        "word": "侯明昊没有一块肌肉是白练的",
+        "onboard_time": 1727853558,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130211,
+        "num": 130211,
+        "word": "河南1000万大奖无人认领成弃奖",
+        "onboard_time": 1727848579,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106445,
+        "num": 127435,
+        "word": "中华文化的璀璨与浪漫在此刻具象化了",
+        "onboard_time": 1727853797,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126972,
+        "num": 126972,
+        "word": "王皓指导",
+        "onboard_time": 1727834118,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119501,
+        "num": 119501,
+        "word": "以国庆命名是中国人特有的浪漫",
+        "onboard_time": 1727854037,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112545,
+        "num": 112545,
+        "word": "伊朗首次使用高超音速导弹",
+        "onboard_time": 1727845998,
+        "rank": 41,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 109810,
+        "num": 109810,
+        "word": "太湖湾音乐节",
+        "onboard_time": 1727854160,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 109504,
+        "num": 109504,
+        "word": "这月的工资已经提前花了",
+        "onboard_time": 1727849238,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 116080,
+        "num": 107313,
+        "word": "樊振东与王皓儿子合照",
+        "onboard_time": 1727843117,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104355,
+        "num": 104355,
+        "word": "以色列或将打开无休止战争之门",
+        "onboard_time": 1727850498,
+        "rank": 45,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 103075,
+        "num": 103075,
+        "word": "陈幸同钱天一进女双8强",
+        "onboard_time": 1727853317,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 101486,
+        "num": 101486,
+        "word": "孙颖莎教月亮姐姐打乒乓球",
+        "onboard_time": 1727847859,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 98161,
+        "num": 98161,
+        "word": "749局豆瓣开分5.0",
+        "onboard_time": 1727838679,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 97203,
+        "num": 97203,
+        "word": "文化中国行感受非遗魅力",
+        "onboard_time": 1727853797,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#一份份清澈的爱汇聚成今日中国#"
+    }
+  }
+}
