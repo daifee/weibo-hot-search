@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/09/29 00:25:58 ~ 2024/10/03 04:39:37
+本榜单时间：2024/09/29 00:25:58 ~ 2024/10/03 05:23:06
 </p>
 </blockquote>
 <p>
@@ -9351,6 +9351,12 @@ G2（热度：45264）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%B8%80%E5%88%BB%E5%9B%BD%E6%97%97%E5%92%8C%E7%BA%A2%E9%A2%86%E5%B7%BE%E9%83%BD%E6%9B%B4%E9%B2%9C%E8%89%B3%E4%BA%86%23" target="weibo">
+这一刻国旗和红领巾都更鲜艳了（热度：28805）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%BD%91%E5%88%9B%E9%80%A0%E5%8D%95%E6%97%A5%E5%85%A5%E5%9C%BA%E4%BA%BA%E6%95%B0%E6%96%B0%E7%BA%AA%E5%BD%95%23" target="weibo">
 中网创造单日入场人数新纪录（热度：28658）
 </a>
@@ -9515,6 +9521,12 @@ G2（热度：45264）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9B%BE%E9%BB%8E%E5%B8%A6%E4%B8%AD%E5%9B%BD%E8%8C%B6%E5%8E%BB%E5%B7%B4%E9%BB%8E%E6%97%B6%E8%A3%85%E5%91%A8%23" target="weibo">
 曾黎带中国茶去巴黎时装周（热度：23643）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BB%96%E4%BB%AC%E5%BD%93%E5%B9%B4%E9%9D%A0%E4%B8%80%E6%8A%8A%E7%82%92%E9%BB%84%E8%B1%86%E8%B5%B0%E9%81%8D%E5%8C%97%E5%A4%A7%E8%8D%92%23" target="weibo">
+他们当年靠一把炒黄豆走遍北大荒（热度：23606）
 </a>
 </li>
 
@@ -9795,6 +9807,12 @@ GAI被布云朝克特圈粉了（热度：21111）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%BB%BD%E7%8B%AC%E5%B1%9E%E4%BA%8E%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%9A%84%E4%BB%AA%E5%BC%8F%E6%84%9F%23" target="weibo">
+这份独属于中国人的仪式感（热度：14139）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%8D%E4%BD%8E%E5%AD%98%E9%87%8F%E6%88%BF%E8%B4%B7%E5%88%A9%E7%8E%87%E6%97%B6%E9%97%B4%E6%98%8E%E7%A1%AE%E4%BA%86%23" target="weibo">
 降低存量房贷利率时间明确了（热度：14083）
 </a>
@@ -9809,12 +9827,6 @@ GAI被布云朝克特圈粉了（热度：21111）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E9%95%9C%E5%88%B0%E5%BA%95%E7%9C%8B%E6%96%B0%E4%B8%AD%E5%9B%BD%E6%88%90%E7%AB%8B75%E5%91%A8%E5%B9%B4%23" target="weibo">
 一镜到底看新中国成立75周年（热度：13432）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BB%96%E4%BB%AC%E5%BD%93%E5%B9%B4%E9%9D%A0%E4%B8%80%E6%8A%8A%E7%82%92%E9%BB%84%E8%B1%86%E8%B5%B0%E9%81%8D%E5%8C%97%E5%A4%A7%E8%8D%92%23" target="weibo">
-他们当年靠一把炒黄豆走遍北大荒（热度：13311）
 </a>
 </li>
 
