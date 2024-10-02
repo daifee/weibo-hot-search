@@ -1,6 +1,6 @@
 {
   "startTime": 1727540758074,
-  "endTime": 1727838114018,
+  "endTime": 1727839644277,
   "band_list": [
     {
       "raw_hot": 11925969,
@@ -811,6 +811,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 761993,
+      "num": 447755,
+      "word": "伊朗公布下令向以色列发射导弹视频",
+      "onboard_time": 1727836398,
+      "rank": 17,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 756176,
       "num": 1120988,
       "word": "志愿军",
@@ -1008,6 +1016,14 @@
       "word": "老人被高空坠落的火钳砸中身亡",
       "onboard_time": 1727590639,
       "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 661380,
+      "num": 1105820,
+      "word": "人人人人景点人人人人",
+      "onboard_time": 1727836216,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -1227,14 +1243,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 599402,
-      "num": 447755,
-      "word": "伊朗公布下令向以色列发射导弹视频",
-      "onboard_time": 1727836398,
-      "rank": 17,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 596347,
       "num": 596347,
       "word": "A股暴涨后股民消费升级",
@@ -1332,7 +1340,7 @@
     },
     {
       "raw_hot": 566779,
-      "num": 312206,
+      "num": 312522,
       "word": "为什么现在酒店退房不查房了",
       "onboard_time": 1727836280,
       "rank": 20,
@@ -1595,6 +1603,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 497266,
+      "num": 497266,
+      "word": "港股",
+      "onboard_time": 1727836458,
+      "rank": 6,
+      "category": "财经"
+    },
+    {
       "raw_hot": 494321,
       "num": 881608,
       "word": "韩国人用卷心菜娃娃菜代替大白菜",
@@ -1648,22 +1664,6 @@
       "word": "俩老人买黄金不问价店员果断报警",
       "onboard_time": 1727611399,
       "rank": 36,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 472176,
-      "num": 472176,
-      "word": "港股",
-      "onboard_time": 1727836458,
-      "rank": 6,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 468495,
-      "num": 468495,
-      "word": "人人人人景点人人人人",
-      "onboard_time": 1727836216,
-      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -1849,6 +1849,14 @@
       "onboard_time": 1727656461,
       "rank": 19,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 428943,
+      "num": 314557,
+      "word": "明日方舟",
+      "onboard_time": 1727839398,
+      "rank": 16,
+      "category": "游戏"
     },
     {
       "raw_hot": 424786,
@@ -2187,6 +2195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 370087,
+      "num": 311514,
+      "word": "iPhone16遭苹果砍单",
+      "onboard_time": 1727837658,
+      "rank": 30,
+      "category": "数码"
+    },
+    {
       "raw_hot": 369902,
       "num": 369902,
       "word": "中俄巴伊四国外长联合声明",
@@ -2411,6 +2427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 334929,
+      "num": 310912,
+      "word": "749局豆瓣开分5.0",
+      "onboard_time": 1727838679,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 334809,
       "num": 205975,
       "word": "潘展乐感谢陈奕迅邀请",
@@ -2468,7 +2492,7 @@
     },
     {
       "raw_hot": 330340,
-      "num": 232617,
+      "num": 318720,
       "word": "以总理称伊朗犯下大错将付出代价",
       "onboard_time": 1727826076,
       "rank": 21,
@@ -2635,6 +2659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 310810,
+      "num": 310810,
+      "word": "孙怡生图",
+      "onboard_time": 1727836398,
+      "rank": 24,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 310377,
       "num": 789104,
       "word": "上海东方明珠塔为国庆亮灯",
@@ -2649,14 +2681,6 @@
       "onboard_time": 1727570898,
       "rank": 20,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 310196,
-      "num": 287539,
-      "word": "孙怡生图",
-      "onboard_time": 1727836398,
-      "rank": 24,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 308823,
@@ -2713,6 +2737,14 @@
       "onboard_time": 1727658799,
       "rank": 17,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 302958,
+      "num": 270126,
+      "word": "欧豪包场赵丽颖浴火之路",
+      "onboard_time": 1727836818,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 302800,
@@ -2921,6 +2953,14 @@
       "onboard_time": 1727672840,
       "rank": 37,
       "category": "财经"
+    },
+    {
+      "raw_hot": 282347,
+      "num": 282347,
+      "word": "杨幂日落日出plog",
+      "onboard_time": 1727837058,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 281865,
@@ -3235,6 +3275,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 251293,
+      "num": 251293,
+      "word": "马龙王楚钦孙颖莎等今日出战WTT",
+      "onboard_time": 1727838018,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 251258,
       "num": 251258,
       "word": "代号鸢 策子没了",
@@ -3297,6 +3345,14 @@
       "onboard_time": 1727610139,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 245289,
+      "num": 452897,
+      "word": "表白祖国我是14亿分之一",
+      "onboard_time": 1727835798,
+      "rank": 8,
+      "category": "国内时政"
     },
     {
       "raw_hot": 244881,
@@ -3499,14 +3555,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 233957,
-      "num": 233957,
-      "word": "欧豪包场赵丽颖浴火之路",
-      "onboard_time": 1727836818,
-      "rank": 36,
-      "category": "电影"
-    },
-    {
       "raw_hot": 233928,
       "num": 233928,
       "word": "虞书欣情商",
@@ -3643,6 +3691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 227978,
+      "num": 317969,
+      "word": "人人人人人苏州人人人人人",
+      "onboard_time": 1727838617,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 227954,
       "num": 227954,
       "word": "教育局回应鹤壁技师学院打人事件",
@@ -3652,7 +3708,7 @@
     },
     {
       "raw_hot": 227274,
-      "num": 227274,
+      "num": 313406,
       "word": "浴火之路",
       "onboard_time": 1727751978,
       "rank": 33,
@@ -3665,14 +3721,6 @@
       "onboard_time": 1727580079,
       "rank": 18,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 226497,
-      "num": 226497,
-      "word": "iPhone16遭苹果砍单",
-      "onboard_time": 1727837658,
-      "rank": 30,
-      "category": "数码"
     },
     {
       "raw_hot": 224880,
@@ -3889,6 +3937,14 @@
       "onboard_time": 1727576477,
       "rank": 19,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 213063,
+      "num": 310737,
+      "word": "王俊凯演技",
+      "onboard_time": 1727677041,
+      "rank": 16,
+      "category": "电影"
     },
     {
       "raw_hot": 213056,
@@ -4123,28 +4179,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 205248,
-      "num": 205248,
-      "word": "杨幂日落日出plog",
-      "onboard_time": 1727837058,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 205087,
       "num": 222961,
       "word": "中网",
       "onboard_time": 1727700619,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 205013,
-      "num": 310737,
-      "word": "王俊凯演技",
-      "onboard_time": 1727677041,
-      "rank": 16,
-      "category": "电影"
     },
     {
       "raw_hot": 204775,
@@ -4291,6 +4331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 198892,
+      "num": 198892,
+      "word": "谈恋爱还是得找恋爱脑谈",
+      "onboard_time": 1727839398,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 198839,
       "num": 198839,
       "word": "喜儿扮演者获颁人民艺术家",
@@ -4313,6 +4361,14 @@
       "onboard_time": 1727792421,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 198327,
+      "num": 198327,
+      "word": "以色列特拉维夫枪击事件致6死",
+      "onboard_time": 1727837598,
+      "rank": 42,
+      "category": "国外时政"
     },
     {
       "raw_hot": 198225,
@@ -4475,14 +4531,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 194255,
-      "num": 452897,
-      "word": "表白祖国我是14亿分之一",
-      "onboard_time": 1727835798,
-      "rank": 8,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 193971,
       "num": 193971,
       "word": "赵丽颖格物观己",
@@ -4603,6 +4651,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 192038,
+      "num": 192038,
+      "word": "749局王俊凯跑酷戏",
+      "onboard_time": 1727838859,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 192022,
       "num": 192022,
       "word": "何卓佳说孙颖莎赛前给自己支招",
@@ -4689,6 +4745,14 @@
       "onboard_time": 1727679800,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 190487,
+      "num": 181453,
+      "word": "国庆各景区有自己的同款公主",
+      "onboard_time": 1727838559,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 190154,
@@ -5097,14 +5161,6 @@
       "onboard_time": 1727792241,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 178333,
-      "num": 178333,
-      "word": "以色列特拉维夫枪击事件致6死",
-      "onboard_time": 1727837598,
-      "rank": 42,
-      "category": "国外时政"
     },
     {
       "raw_hot": 178197,
@@ -6491,6 +6547,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 139354,
+      "num": 139354,
+      "word": "微博旅行家",
+      "onboard_time": 1727575758,
+      "rank": 44,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 139332,
       "num": 139332,
       "word": "樊振东中网帅气出场",
@@ -6675,6 +6739,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 136105,
+      "num": 136105,
+      "word": "国庆假期第2天你在哪里过的",
+      "onboard_time": 1727838199,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 136091,
       "num": 136091,
       "word": "雷军演讲祝福祖国",
@@ -6689,14 +6761,6 @@
       "onboard_time": 1727681301,
       "rank": 36,
       "category": "财经"
-    },
-    {
-      "raw_hot": 135723,
-      "num": 135723,
-      "word": "马龙王楚钦孙颖莎等今日出战WTT",
-      "onboard_time": 1727838018,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 135447,
@@ -6948,7 +7012,7 @@
     },
     {
       "raw_hot": 131773,
-      "num": 469758,
+      "num": 498120,
       "word": "国庆假期预计近20亿人次跨区域出行",
       "onboard_time": 1727792901,
       "rank": 2,
@@ -7084,7 +7148,7 @@
     },
     {
       "raw_hot": 129539,
-      "num": 247451,
+      "num": 317650,
       "word": "港股爆发",
       "onboard_time": 1727837178,
       "rank": 27,
@@ -8851,14 +8915,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 86097,
-      "num": 86097,
-      "word": "微博旅行家",
-      "onboard_time": 1727575758,
-      "rank": 44,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 86082,
       "num": 289776,
       "word": "曾黎张博恒合影",
@@ -9379,6 +9435,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 61583,
+      "num": 316184,
+      "word": "贝莱德上调中国股票评级",
+      "onboard_time": 1727839339,
+      "rank": 12,
+      "category": "财经"
+    },
+    {
       "raw_hot": 61409,
       "num": 99680,
       "word": "金钱至上观念与医院天职存在冲突",
@@ -9825,6 +9889,14 @@
       "onboard_time": 1727665459,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 43464,
+      "num": 315241,
+      "word": "山西文旅如何接住黑神话流量",
+      "onboard_time": 1727839398,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 43309,
@@ -10313,6 +10385,14 @@
       "onboard_time": 1727803335,
       "rank": 10,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 29021,
+      "num": 192175,
+      "word": "10分钟看懂中国知名山脉",
+      "onboard_time": 1727839398,
+      "rank": 39,
+      "category": "旅游"
     },
     {
       "raw_hot": 29017,

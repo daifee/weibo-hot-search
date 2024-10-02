@@ -1,6 +1,6 @@
 {
   "startTime": 1727800165777,
-  "endTime": 1727838114018,
+  "endTime": 1727839644277,
   "band_list": [
     {
       "raw_hot": 2319330,
@@ -67,6 +67,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 761993,
+      "num": 447755,
+      "word": "伊朗公布下令向以色列发射导弹视频",
+      "onboard_time": 1727836398,
+      "rank": 17,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 753610,
       "num": 753610,
       "word": "身份证尾号是X的人要吃多少苦",
@@ -99,6 +107,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 661380,
+      "num": 1105820,
+      "word": "人人人人景点人人人人",
+      "onboard_time": 1727836216,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 628990,
       "num": 312364,
       "word": "伊朗袭击以色列后地区多国民众庆祝",
@@ -115,16 +131,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 599402,
-      "num": 447755,
-      "word": "伊朗公布下令向以色列发射导弹视频",
-      "onboard_time": 1727836398,
-      "rank": 17,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 566779,
-      "num": 312206,
+      "num": 312522,
       "word": "为什么现在酒店退房不查房了",
       "onboard_time": 1727836280,
       "rank": 20,
@@ -163,8 +171,8 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 472176,
-      "num": 472176,
+      "raw_hot": 497266,
+      "num": 497266,
       "word": "港股",
       "onboard_time": 1727836458,
       "rank": 6,
@@ -185,14 +193,6 @@
       "onboard_time": 1727787259,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 468495,
-      "num": 468495,
-      "word": "人人人人景点人人人人",
-      "onboard_time": 1727836216,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 459767,
@@ -243,12 +243,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 428943,
+      "num": 314557,
+      "word": "明日方舟",
+      "onboard_time": 1727839398,
+      "rank": 16,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 394385,
       "num": 260890,
       "word": "女生为减肥当快递分拣员3天瘦4斤",
       "onboard_time": 1727827276,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 370087,
+      "num": 311514,
+      "word": "iPhone16遭苹果砍单",
+      "onboard_time": 1727837658,
+      "rank": 30,
+      "category": "数码"
     },
     {
       "raw_hot": 355239,
@@ -275,6 +291,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 334929,
+      "num": 310912,
+      "word": "749局豆瓣开分5.0",
+      "onboard_time": 1727838679,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 330635,
       "num": 224190,
       "word": "关晓彤小猫短发",
@@ -284,7 +308,7 @@
     },
     {
       "raw_hot": 330340,
-      "num": 232617,
+      "num": 318720,
       "word": "以总理称伊朗犯下大错将付出代价",
       "onboard_time": 1727826076,
       "rank": 21,
@@ -307,6 +331,14 @@
       "category": "国外时政,军事"
     },
     {
+      "raw_hot": 310810,
+      "num": 310810,
+      "word": "孙怡生图",
+      "onboard_time": 1727836398,
+      "rank": 24,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 310377,
       "num": 789104,
       "word": "上海东方明珠塔为国庆亮灯",
@@ -315,12 +347,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 310196,
-      "num": 287539,
-      "word": "孙怡生图",
-      "onboard_time": 1727836398,
-      "rank": 24,
-      "category": "作品衍生,时尚"
+      "raw_hot": 302958,
+      "num": 270126,
+      "word": "欧豪包场赵丽颖浴火之路",
+      "onboard_time": 1727836818,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 294931,
@@ -337,6 +369,14 @@
       "onboard_time": 1727808732,
       "rank": 12,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 282347,
+      "num": 282347,
+      "word": "杨幂日落日出plog",
+      "onboard_time": 1727837058,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 271714,
@@ -379,12 +419,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 233957,
-      "num": 233957,
-      "word": "欧豪包场赵丽颖浴火之路",
-      "onboard_time": 1727836818,
-      "rank": 36,
-      "category": "电影"
+      "raw_hot": 251293,
+      "num": 251293,
+      "word": "马龙王楚钦孙颖莎等今日出战WTT",
+      "onboard_time": 1727838018,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 245289,
+      "num": 452897,
+      "word": "表白祖国我是14亿分之一",
+      "onboard_time": 1727835798,
+      "rank": 8,
+      "category": "国内时政"
     },
     {
       "raw_hot": 232689,
@@ -403,12 +451,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 226497,
-      "num": 226497,
-      "word": "iPhone16遭苹果砍单",
-      "onboard_time": 1727837658,
-      "rank": 30,
-      "category": "数码"
+      "raw_hot": 227978,
+      "num": 317969,
+      "word": "人人人人人苏州人人人人人",
+      "onboard_time": 1727838617,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 220096,
@@ -435,6 +483,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 213063,
+      "num": 213063,
+      "word": "王俊凯演技",
+      "onboard_time": 1727839398,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 213041,
       "num": 213041,
       "word": "美国警告伊朗将面临制裁",
@@ -449,14 +505,6 @@
       "onboard_time": 1727788820,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 205248,
-      "num": 205248,
-      "word": "杨幂日落日出plog",
-      "onboard_time": 1727837058,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 204775,
@@ -483,6 +531,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 198892,
+      "num": 198892,
+      "word": "谈恋爱还是得找恋爱脑谈",
+      "onboard_time": 1727839398,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 198327,
+      "num": 198327,
+      "word": "以色列特拉维夫枪击事件致6死",
+      "onboard_time": 1727837598,
+      "rank": 42,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 195836,
       "num": 195836,
       "word": "安溥手写国庆祝福",
@@ -491,12 +555,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 194255,
-      "num": 452897,
-      "word": "表白祖国我是14亿分之一",
-      "onboard_time": 1727835798,
-      "rank": 8,
-      "category": "国内时政"
+      "raw_hot": 192038,
+      "num": 192038,
+      "word": "749局王俊凯跑酷戏",
+      "onboard_time": 1727838859,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 191305,
@@ -505,6 +569,14 @@
       "onboard_time": 1727783358,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 190487,
+      "num": 181453,
+      "word": "国庆各景区有自己的同款公主",
+      "onboard_time": 1727838559,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 186896,
@@ -531,19 +603,19 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 184102,
+      "num": 313406,
+      "word": "浴火之路",
+      "onboard_time": 1727839458,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
       "raw_hot": 181248,
       "num": 181248,
       "word": "伊朗总统称强烈回应以色列侵略",
       "onboard_time": 1727836818,
       "rank": 41,
-      "category": "国外时政"
-    },
-    {
-      "raw_hot": 178333,
-      "num": 178333,
-      "word": "以色列特拉维夫枪击事件致6死",
-      "onboard_time": 1727837598,
-      "rank": 42,
       "category": "国外时政"
     },
     {
@@ -691,12 +763,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 135723,
-      "num": 135723,
-      "word": "马龙王楚钦孙颖莎等今日出战WTT",
-      "onboard_time": 1727838018,
+      "raw_hot": 139354,
+      "num": 139354,
+      "word": "微博旅行家",
+      "onboard_time": 1727839518,
+      "rank": 48,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 136105,
+      "num": 136105,
+      "word": "国庆假期第2天你在哪里过的",
+      "onboard_time": 1727838199,
       "rank": 49,
-      "category": "体育"
+      "category": "社会新闻"
     },
     {
       "raw_hot": 132469,
@@ -708,7 +788,7 @@
     },
     {
       "raw_hot": 129539,
-      "num": 247451,
+      "num": 317650,
       "word": "港股爆发",
       "onboard_time": 1727837178,
       "rank": 27,
@@ -923,6 +1003,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 61583,
+      "num": 316184,
+      "word": "贝莱德上调中国股票评级",
+      "onboard_time": 1727839339,
+      "rank": 12,
+      "category": "财经"
+    },
+    {
       "raw_hot": 59003,
       "num": 67684,
       "word": "武艺上错车",
@@ -960,6 +1048,14 @@
       "word": "当事小伙回应无人区陷车徒步求援",
       "onboard_time": 1727820793,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 43464,
+      "num": 315241,
+      "word": "山西文旅如何接住黑神话流量",
+      "onboard_time": 1727839398,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -1019,6 +1115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 29021,
+      "num": 192175,
+      "word": "10分钟看懂中国知名山脉",
+      "onboard_time": 1727839398,
+      "rank": 39,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 27818,
       "num": 445189,
       "word": "一镜打卡32处武汉地标",
@@ -1068,7 +1172,7 @@
     },
     {
       "raw_hot": 22954,
-      "num": 469758,
+      "num": 498120,
       "word": "国庆假期预计近20亿人次跨区域出行",
       "onboard_time": 1727792901,
       "rank": 2,
