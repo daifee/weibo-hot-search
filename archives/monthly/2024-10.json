@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1727908796203,
+  "endTime": 1727911332372,
   "band_list": [
     {
       "raw_hot": 11925969,
@@ -1595,12 +1595,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 285437,
+      "num": 747076,
+      "word": "六万年一遇彗星闪耀北京上空",
+      "onboard_time": 1727896751,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 285133,
       "num": 255492,
       "word": "宁艺卓晒了范思哲时装周邀请函",
       "onboard_time": 1727875160,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 284587,
+      "num": 469990,
+      "word": "股民连夜找回密码重启账户",
+      "onboard_time": 1727893273,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 282347,
@@ -1648,6 +1664,14 @@
       "word": "江苏路段已出现大量车流",
       "onboard_time": 1727719573,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 274645,
+      "num": 194104,
+      "word": "男子身绑20万美元出境被查",
+      "onboard_time": 1727884278,
+      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -1960,14 +1984,6 @@
       "word": "国庆假期第2天你在哪里过的",
       "onboard_time": 1727838199,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 239341,
-      "num": 194104,
-      "word": "男子身绑20万美元出境被查",
-      "onboard_time": 1727884278,
-      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -2475,6 +2491,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 202587,
+      "num": 202587,
+      "word": "剩下的5天假期准备如何度过",
+      "onboard_time": 1727890994,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 201509,
       "num": 201509,
       "word": "大量弹道导弹划破夜空",
@@ -2561,14 +2585,6 @@
       "onboard_time": 1727776219,
       "rank": 36,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 194278,
-      "num": 469990,
-      "word": "股民连夜找回密码重启账户",
-      "onboard_time": 1727893273,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 193800,
@@ -3427,6 +3443,14 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 152668,
+      "num": 140518,
+      "word": "749局 导演能力",
+      "onboard_time": 1727891532,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 152655,
       "num": 152655,
       "word": "赵牧辰阮小咪约会",
@@ -3577,14 +3601,6 @@
       "onboard_time": 1727780479,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 146272,
-      "num": 146272,
-      "word": "六万年一遇彗星闪耀北京上空",
-      "onboard_time": 1727896751,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 146198,
@@ -3907,14 +3923,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 133327,
-      "num": 133327,
-      "word": "剩下的5天假期准备如何度过",
-      "onboard_time": 1727890994,
-      "rank": 3,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 133171,
       "num": 133171,
       "word": "侯明昊没有一块肌肉是白练的",
@@ -4185,6 +4193,14 @@
       "onboard_time": 1727745378,
       "rank": 8,
       "category": "电影"
+    },
+    {
+      "raw_hot": 122399,
+      "num": 122399,
+      "word": "脱口秀女演员不断拿起话筒",
+      "onboard_time": 1727874620,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 121377,
@@ -5123,14 +5139,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 84003,
-      "num": 54471,
-      "word": "749局 导演能力",
-      "onboard_time": 1727891532,
-      "rank": 28,
-      "category": "电影"
-    },
-    {
       "raw_hot": 83941,
       "num": 103952,
       "word": "成都混团世界杯名单",
@@ -5227,6 +5235,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 77894,
+      "num": 141678,
+      "word": "黄山山顶所有饮食都是人力挑上去的",
+      "onboard_time": 1727910494,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 76978,
       "num": 234204,
       "word": "志愿军战士用生命丈量阵地",
@@ -5281,6 +5297,14 @@
       "onboard_time": 1727706562,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 75602,
+      "num": 75602,
+      "word": "郑钦文",
+      "onboard_time": 1727911034,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 75499,
@@ -5363,6 +5387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 70381,
+      "num": 70381,
+      "word": "马龙解释采访被儿子打断",
+      "onboard_time": 1727911034,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 70014,
       "num": 84313,
       "word": "南京的国庆氛围感拉满",
@@ -5419,20 +5451,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 66935,
-      "num": 106051,
-      "word": "脱口秀女演员不断拿起话筒",
-      "onboard_time": 1727874620,
-      "rank": 48,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 66748,
       "num": 264012,
       "word": "林诗栋蒯曼混双进8强",
       "onboard_time": 1727791522,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 65385,
+      "num": 65385,
+      "word": "黄山山顶餐饮最低10块多",
+      "onboard_time": 1727910494,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 65010,
@@ -5489,6 +5521,14 @@
       "onboard_time": 1727839339,
       "rank": 12,
       "category": "财经"
+    },
+    {
+      "raw_hot": 59956,
+      "num": 59956,
+      "word": "女子空地烧婚纱为自己举办离婚典礼",
+      "onboard_time": 1727911274,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 59133,
@@ -5571,6 +5611,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 54848,
+      "num": 54848,
+      "word": "两只猫咪当街被主人抱着打架",
+      "onboard_time": 1727911274,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 54665,
       "num": 338079,
       "word": "张晚意任敏古装cp感",
@@ -5601,6 +5649,14 @@
       "onboard_time": 1727804174,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 51932,
+      "num": 222961,
+      "word": "中网",
+      "onboard_time": 1727700619,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 51041,
@@ -5635,6 +5691,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 49253,
+      "num": 49253,
+      "word": "北京多家开发商称不会涨价",
+      "onboard_time": 1727905091,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 48647,
       "num": 164753,
       "word": "开向未来的列车",
@@ -5665,6 +5729,14 @@
       "onboard_time": 1727820793,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 46225,
+      "num": 49111,
+      "word": "卫昭做了周生辰不敢做的事",
+      "onboard_time": 1727910675,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 46129,
@@ -5835,6 +5907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 38472,
+      "num": 83266,
+      "word": "华晨宇说唱向阳而生看到国旗很自豪",
+      "onboard_time": 1727908212,
+      "rank": 29,
+      "category": "演出"
+    },
+    {
       "raw_hot": 38434,
       "num": 297491,
       "word": "黎巴嫩战乱亲历者发声",
@@ -5865,6 +5945,14 @@
       "onboard_time": 1727894172,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 38283,
+      "num": 49040,
+      "word": "神舟十八号乘组在太空祝福祖国",
+      "onboard_time": 1727906832,
+      "rank": 13,
+      "category": "国内时政"
     },
     {
       "raw_hot": 37739,
@@ -5899,14 +5987,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 36751,
-      "num": 36550,
-      "word": "北京多家开发商称不会涨价",
-      "onboard_time": 1727905091,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 36415,
       "num": 385017,
       "word": "张帅vs弗莱彻",
@@ -5937,14 +6017,6 @@
       "onboard_time": 1727724072,
       "rank": 43,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 34523,
-      "num": 42768,
-      "word": "神舟十八号乘组在太空祝福祖国",
-      "onboard_time": 1727906832,
-      "rank": 13,
-      "category": "国内时政"
     },
     {
       "raw_hot": 34522,
@@ -6033,14 +6105,6 @@
       "onboard_time": 1727879901,
       "rank": 29,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 31764,
-      "num": 222961,
-      "word": "中网",
-      "onboard_time": 1727700619,
-      "rank": 27,
-      "category": "体育"
     },
     {
       "raw_hot": 31600,
@@ -6177,14 +6241,6 @@
       "onboard_time": 1727730492,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 27619,
-      "num": 44023,
-      "word": "华晨宇说唱向阳而生看到国旗很自豪",
-      "onboard_time": 1727908212,
-      "rank": 29,
-      "category": "演出"
     },
     {
       "raw_hot": 27252,

@@ -1,6 +1,6 @@
 {
   "startTime": 1727886505064,
-  "endTime": 1727908796203,
+  "endTime": 1727911332372,
   "band_list": [
     {
       "raw_hot": 979862,
@@ -99,12 +99,36 @@
       "category": "电影"
     },
     {
+      "raw_hot": 285437,
+      "num": 747076,
+      "word": "六万年一遇彗星闪耀北京上空",
+      "onboard_time": 1727896751,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 284587,
+      "num": 469990,
+      "word": "股民连夜找回密码重启账户",
+      "onboard_time": 1727893273,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 279163,
       "num": 279163,
       "word": "马龙说或许这是最后一次国际赛",
       "onboard_time": 1727879300,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 274645,
+      "num": 194104,
+      "word": "男子身绑20万美元出境被查",
+      "onboard_time": 1727884278,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 272073,
@@ -147,14 +171,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 239341,
-      "num": 194104,
-      "word": "男子身绑20万美元出境被查",
-      "onboard_time": 1727884278,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 208378,
       "num": 208378,
       "word": "双轨男主 何与",
@@ -163,11 +179,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 194278,
-      "num": 469990,
-      "word": "股民连夜找回密码重启账户",
-      "onboard_time": 1727893273,
-      "rank": 9,
+      "raw_hot": 202587,
+      "num": 202587,
+      "word": "剩下的5天假期准备如何度过",
+      "onboard_time": 1727890994,
+      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -211,18 +227,18 @@
       "category": "电影"
     },
     {
+      "raw_hot": 152668,
+      "num": 140518,
+      "word": "749局 导演能力",
+      "onboard_time": 1727891532,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 150942,
       "num": 251475,
       "word": "一文读懂医保统筹支付和自付自费",
       "onboard_time": 1727886076,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 146272,
-      "num": 146272,
-      "word": "六万年一遇彗星闪耀北京上空",
-      "onboard_time": 1727896751,
       "rank": 9,
       "category": "社会新闻"
     },
@@ -233,14 +249,6 @@
       "onboard_time": 1727886797,
       "rank": 24,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 133327,
-      "num": 133327,
-      "word": "剩下的5天假期准备如何度过",
-      "onboard_time": 1727890994,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 132710,
@@ -281,6 +289,14 @@
       "onboard_time": 1727869519,
       "rank": 32,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 122399,
+      "num": 122399,
+      "word": "脱口秀女演员不断拿起话筒",
+      "onboard_time": 1727874620,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 119657,
@@ -339,12 +355,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 84003,
-      "num": 54471,
-      "word": "749局 导演能力",
-      "onboard_time": 1727891532,
-      "rank": 28,
-      "category": "电影"
+      "raw_hot": 83443,
+      "num": 83443,
+      "word": "杨超越 纪凌尘像被人偷了脑子",
+      "onboard_time": 1727878400,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 83231,
@@ -371,6 +387,14 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 77894,
+      "num": 141678,
+      "word": "黄山山顶所有饮食都是人力挑上去的",
+      "onboard_time": 1727910494,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 76401,
       "num": 106091,
       "word": "林高远一天三胜",
@@ -395,6 +419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 75602,
+      "num": 75602,
+      "word": "郑钦文",
+      "onboard_time": 1727911034,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 70649,
       "num": 106066,
       "word": "郑钦文连续Ace球成功保发",
@@ -403,12 +435,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 66935,
-      "num": 106051,
-      "word": "脱口秀女演员不断拿起话筒",
-      "onboard_time": 1727874620,
-      "rank": 48,
-      "category": "综艺"
+      "raw_hot": 70381,
+      "num": 70381,
+      "word": "马龙解释采访被儿子打断",
+      "onboard_time": 1727911034,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 65385,
+      "num": 65385,
+      "word": "黄山山顶餐饮最低10块多",
+      "onboard_time": 1727910494,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 64367,
@@ -417,6 +457,14 @@
       "onboard_time": 1727881160,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 59956,
+      "num": 59956,
+      "word": "女子空地烧婚纱为自己举办离婚典礼",
+      "onboard_time": 1727911274,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 57326,
@@ -435,20 +483,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 55981,
-      "num": 71206,
-      "word": "杨超越 纪凌尘像被人偷了脑子",
-      "onboard_time": 1727878400,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 55603,
       "num": 89530,
       "word": "749局",
       "onboard_time": 1727881220,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 54848,
+      "num": 54848,
+      "word": "两只猫咪当街被主人抱着打架",
+      "onboard_time": 1727911274,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 51932,
+      "num": 51932,
+      "word": "中网",
+      "onboard_time": 1727911274,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 49706,
@@ -459,12 +515,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 49253,
+      "num": 49253,
+      "word": "北京多家开发商称不会涨价",
+      "onboard_time": 1727905091,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 46225,
+      "num": 49111,
+      "word": "卫昭做了周生辰不敢做的事",
+      "onboard_time": 1727910675,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 42155,
       "num": 71192,
       "word": "陈丽君马克西姆梦幻联动",
       "onboard_time": 1727888473,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 40804,
+      "num": 61373,
+      "word": "马龙vs曾蓓勋",
+      "onboard_time": 1727873058,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 40782,
@@ -475,12 +555,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 40031,
-      "num": 61373,
-      "word": "马龙vs曾蓓勋",
-      "onboard_time": 1727873058,
-      "rank": 46,
-      "category": "体育"
+      "raw_hot": 38472,
+      "num": 83266,
+      "word": "华晨宇说唱向阳而生看到国旗很自豪",
+      "onboard_time": 1727908212,
+      "rank": 29,
+      "category": "演出"
     },
     {
       "raw_hot": 38358,
@@ -491,16 +571,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 36751,
-      "num": 36550,
-      "word": "北京多家开发商称不会涨价",
-      "onboard_time": 1727905091,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 34523,
-      "num": 42768,
+      "raw_hot": 38283,
+      "num": 49040,
       "word": "神舟十八号乘组在太空祝福祖国",
       "onboard_time": 1727906832,
       "rank": 13,
@@ -529,14 +601,6 @@
       "onboard_time": 1727902090,
       "rank": 23,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 27619,
-      "num": 44023,
-      "word": "华晨宇说唱向阳而生看到国旗很自豪",
-      "onboard_time": 1727908212,
-      "rank": 29,
-      "category": "演出"
     },
     {
       "raw_hot": 25984,
@@ -628,7 +692,7 @@
     },
     {
       "raw_hot": 8658,
-      "num": 136956,
+      "num": 227215,
       "word": "超3.3亿人次假期首日跨区域流动",
       "onboard_time": 1727873659,
       "rank": 2,
