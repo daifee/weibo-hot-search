@@ -1,6 +1,6 @@
 {
   "startTime": 1727800165777,
-  "endTime": 1727876415345,
+  "endTime": 1727878768489,
   "band_list": [
     {
       "raw_hot": 2609208,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 1168651,
-      "num": 166583,
+      "num": 182499,
       "word": "金马奖入围名单",
       "onboard_time": 1727867478,
       "rank": 30,
@@ -131,6 +131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 793650,
+      "num": 240196,
+      "word": "付完餐具费可以带走餐具吗",
+      "onboard_time": 1727873418,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 793385,
       "num": 447755,
       "word": "伊朗公布下令向以色列发射导弹视频",
@@ -152,6 +160,14 @@
       "word": "电影749局 观后感",
       "onboard_time": 1727789063,
       "rank": 4,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 765273,
+      "num": 285343,
+      "word": "向佐的鼻梁骨到底有谁在啊",
+      "onboard_time": 1727875038,
+      "rank": 22,
       "category": "电影"
     },
     {
@@ -395,14 +411,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 491777,
-      "num": 285343,
-      "word": "向佐的鼻梁骨到底有谁在啊",
-      "onboard_time": 1727875038,
-      "rank": 22,
-      "category": "电影"
-    },
-    {
       "raw_hot": 483196,
       "num": 483196,
       "word": "中国飞机炮火中逆行至黎巴嫩撤侨",
@@ -417,6 +425,14 @@
       "onboard_time": 1727871740,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 471848,
+      "num": 471848,
+      "word": "郑钦文vs阿尼西莫娃",
+      "onboard_time": 1727871379,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 470597,
@@ -489,14 +505,6 @@
       "onboard_time": 1727872879,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 444019,
-      "num": 444019,
-      "word": "郑钦文vs阿尼西莫娃",
-      "onboard_time": 1727871379,
-      "rank": 5,
-      "category": "体育"
     },
     {
       "raw_hot": 439338,
@@ -683,6 +691,14 @@
       "category": "国外时政,军事"
     },
     {
+      "raw_hot": 311223,
+      "num": 230563,
+      "word": "伊朗称200枚导弹90%击中预设目标",
+      "onboard_time": 1727877080,
+      "rank": 17,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 310810,
       "num": 310810,
       "word": "孙怡生图",
@@ -851,6 +867,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 259500,
+      "num": 223518,
+      "word": "宁艺卓晒了范思哲时装周邀请函",
+      "onboard_time": 1727875160,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 256811,
       "num": 256811,
       "word": "中东局势",
@@ -867,20 +891,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 252419,
+      "num": 404726,
+      "word": "马龙晋级男单16强",
+      "onboard_time": 1727875280,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 251387,
       "num": 251387,
       "word": "国庆假期第二天",
       "onboard_time": 1727825775,
       "rank": 27,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 249846,
-      "num": 404726,
-      "word": "马龙晋级男单16强",
-      "onboard_time": 1727875280,
-      "rank": 13,
-      "category": "体育"
     },
     {
       "raw_hot": 246689,
@@ -955,11 +979,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 224589,
-      "num": 224589,
-      "word": "付完餐具费可以带走餐具吗",
-      "onboard_time": 1727873418,
-      "rank": 23,
+      "raw_hot": 223318,
+      "num": 223318,
+      "word": "韩国博主挑战中国泰山",
+      "onboard_time": 1727877018,
+      "rank": 22,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 222789,
+      "num": 231841,
+      "word": "陈丽君谈更多年轻人喜欢上越剧",
+      "onboard_time": 1727866759,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -1017,14 +1049,6 @@
       "onboard_time": 1727827398,
       "rank": 31,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 212204,
-      "num": 212204,
-      "word": "宁艺卓晒了范思哲时装周邀请函",
-      "onboard_time": 1727875160,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 212200,
@@ -1147,12 +1171,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 193800,
+      "num": 193800,
+      "word": "林高远林诗栋3比1高承睿黄彦诚",
+      "onboard_time": 1727877619,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 193669,
       "num": 193669,
       "word": "05后高中生给奶奶做玩手机说明书",
       "onboard_time": 1727860157,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 193528,
+      "num": 193528,
+      "word": "虞书欣 双轨",
+      "onboard_time": 1727878400,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 192055,
@@ -1227,6 +1267,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 188262,
+      "num": 188262,
+      "word": "向佐演技好像疯了一样",
+      "onboard_time": 1727876539,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 188067,
       "num": 188067,
       "word": "马龙3比1曾蓓勋",
@@ -1289,6 +1337,14 @@
       "onboard_time": 1727795780,
       "rank": 25,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 181724,
+      "num": 233051,
+      "word": "4个表图分清楚医保个人自付和自费",
+      "onboard_time": 1727876240,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 181248,
@@ -1419,6 +1475,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 163888,
+      "num": 163888,
+      "word": "马龙希望两个儿子度过愉快夜晚",
+      "onboard_time": 1727877680,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 163854,
       "num": 163854,
       "word": "张予曦千禧辣妹妆",
@@ -1547,12 +1611,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 152617,
-      "num": 152617,
+      "raw_hot": 152902,
+      "num": 152902,
       "word": "带孩子四处旅游有意义吗",
       "onboard_time": 1727871259,
       "rank": 41,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 152031,
+      "num": 339661,
+      "word": "年轻人整顿份子钱也是移风易俗",
+      "onboard_time": 1727874979,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 151673,
@@ -1739,6 +1811,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 133408,
+      "num": 133408,
+      "word": "罗云熙晒音乐节大合照",
+      "onboard_time": 1727877500,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 133171,
       "num": 133171,
       "word": "侯明昊没有一块肌肉是白练的",
@@ -1779,12 +1859,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 130238,
-      "num": 231841,
-      "word": "陈丽君谈更多年轻人喜欢上越剧",
-      "onboard_time": 1727866759,
-      "rank": 8,
-      "category": "社会新闻"
+      "raw_hot": 130399,
+      "num": 130399,
+      "word": "何卓佳vs纵歌曼",
+      "onboard_time": 1727877619,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 129884,
@@ -1833,6 +1913,14 @@
       "onboard_time": 1727860938,
       "rank": 46,
       "category": "电影"
+    },
+    {
+      "raw_hot": 125228,
+      "num": 125228,
+      "word": "杨超越 纪凌尘像被人偷了脑子",
+      "onboard_time": 1727878400,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 122907,
@@ -1969,6 +2057,14 @@
       "onboard_time": 1727789485,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 112518,
+      "num": 403537,
+      "word": "深圳一楼盘新政首日成交2亿",
+      "onboard_time": 1727875579,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 112229,
@@ -2275,22 +2371,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 90119,
-      "num": 339661,
-      "word": "年轻人整顿份子钱也是移风易俗",
-      "onboard_time": 1727874979,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 89935,
-      "num": 233051,
-      "word": "4个表图分清楚医保个人自付和自费",
-      "onboard_time": 1727876240,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 87018,
       "num": 87018,
       "word": "KSG年总开门红",
@@ -2595,14 +2675,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 45040,
-      "num": 403537,
-      "word": "深圳一楼盘新政首日成交2亿",
-      "onboard_time": 1727875579,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 43959,
       "num": 419948,
       "word": "山西文旅如何接住黑神话流量",
@@ -2707,6 +2779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 34123,
+      "num": 182542,
+      "word": "12306没有任何额外收费",
+      "onboard_time": 1727878339,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 33224,
       "num": 218134,
       "word": "三代人接力合唱今天是你的生日",
@@ -2729,6 +2809,14 @@
       "onboard_time": 1727860217,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 31518,
+      "num": 233455,
+      "word": "侗族大歌自带声部混响太震撼",
+      "onboard_time": 1727875725,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 31457,
@@ -2961,6 +3049,14 @@
       "onboard_time": 1727851939,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 9599,
+      "num": 229589,
+      "word": "姚晨把中国算盘带到巴黎",
+      "onboard_time": 1727878280,
+      "rank": 18,
+      "category": "作品衍生,时尚"
     }
   ],
   "hotgov_list": [
