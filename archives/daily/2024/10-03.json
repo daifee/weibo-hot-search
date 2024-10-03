@@ -1,10 +1,18 @@
 {
   "startTime": 1727886505064,
-  "endTime": 1727912147212,
+  "endTime": 1727919697968,
   "band_list": [
     {
+      "raw_hot": 1025547,
+      "num": 1164087,
+      "word": "中国公民从黎巴嫩撤离车顶贴国旗",
+      "onboard_time": 1727913196,
+      "rank": 0,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 979862,
-      "num": 251367,
+      "num": 415040,
       "word": "虞书欣 双轨",
       "onboard_time": 1727878400,
       "rank": 10,
@@ -12,11 +20,19 @@
     },
     {
       "raw_hot": 913167,
-      "num": 251325,
+      "num": 419051,
       "word": "女生付完6元餐具费后打包带走碗筷",
       "onboard_time": 1727870601,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 721024,
+      "num": 721024,
+      "word": "中国坚定支持联合国秘书长工作",
+      "onboard_time": 1727914756,
+      "rank": 1,
+      "category": "国内时政"
     },
     {
       "raw_hot": 591321,
@@ -35,8 +51,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 548529,
+      "num": 428862,
+      "word": "马龙不希望轻易地不负责任地输球",
+      "onboard_time": 1727914878,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 520940,
-      "num": 251132,
+      "num": 280318,
       "word": "以色列空军基地被伊朗导弹击中",
       "onboard_time": 1727881880,
       "rank": 13,
@@ -51,12 +75,44 @@
       "category": "体育"
     },
     {
+      "raw_hot": 493473,
+      "num": 493473,
+      "word": "中方对中东暴力冲突提出4个必须",
+      "onboard_time": 1727914097,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 486675,
       "num": 251040,
       "word": "印度拒绝日本亚洲北约提议",
       "onboard_time": 1727880500,
       "rank": 14,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 478070,
+      "num": 478070,
+      "word": "全红婵国庆节又回家带娃了",
+      "onboard_time": 1727914216,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 458788,
+      "num": 458788,
+      "word": "黄山山顶餐饮最低10块多",
+      "onboard_time": 1727910494,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 388996,
+      "num": 388996,
+      "word": "中方反对以对联合国秘书长无端指责",
+      "onboard_time": 1727916976,
+      "rank": 13,
+      "category": "国内时政"
     },
     {
       "raw_hot": 376583,
@@ -107,6 +163,30 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 308629,
+      "num": 308629,
+      "word": "我是怎么扣扣搜搜花了很多钱的",
+      "onboard_time": 1727912236,
+      "rank": 15,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 295602,
+      "num": 450791,
+      "word": "被冰箱贴硬控一小时",
+      "onboard_time": 1727911695,
+      "rank": 15,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 290725,
+      "num": 290725,
+      "word": "李兰迪演技",
+      "onboard_time": 1727915296,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 289548,
       "num": 250850,
       "word": "向佐的鼻梁骨到底有谁在啊",
@@ -147,6 +227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 270136,
+      "num": 270136,
+      "word": "剩下的5天假期准备如何度过",
+      "onboard_time": 1727890994,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 267340,
       "num": 250745,
       "word": "田曦薇方回应无牌车违规问题",
@@ -179,12 +267,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 233621,
-      "num": 169644,
-      "word": "被冰箱贴硬控一小时",
-      "onboard_time": 1727911695,
-      "rank": 15,
-      "category": "幽默"
+      "raw_hot": 217710,
+      "num": 217710,
+      "word": "今天是国庆长假第3天",
+      "onboard_time": 1727912236,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 208378,
@@ -195,12 +283,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 202587,
-      "num": 202587,
-      "word": "剩下的5天假期准备如何度过",
-      "onboard_time": 1727890994,
-      "rank": 3,
+      "raw_hot": 196089,
+      "num": 196089,
+      "word": "女子空地烧婚纱为自己举办离婚典礼",
+      "onboard_time": 1727911274,
+      "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 193004,
+      "num": 193004,
+      "word": "福建舰运20的国庆祝福太硬核了",
+      "onboard_time": 1727913556,
+      "rank": 22,
+      "category": "国内时政,军事"
+    },
+    {
+      "raw_hot": 178751,
+      "num": 178751,
+      "word": "年轻人爱上了奔县旅游",
+      "onboard_time": 1727916136,
+      "rank": 23,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 176824,
@@ -235,6 +339,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 156183,
+      "num": 156183,
+      "word": "福建舰官兵摆出巨型数字75",
+      "onboard_time": 1727913378,
+      "rank": 24,
+      "category": "国内时政,军事"
+    },
+    {
       "raw_hot": 152999,
       "num": 127197,
       "word": "金马奖入围名单",
@@ -244,7 +356,7 @@
     },
     {
       "raw_hot": 152668,
-      "num": 149267,
+      "num": 151286,
       "word": "749局 导演能力",
       "onboard_time": 1727891532,
       "rank": 28,
@@ -267,11 +379,35 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 148994,
+      "num": 440503,
+      "word": "美国石英小镇暂停采矿全球芯慌",
+      "onboard_time": 1727915537,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 142547,
       "num": 149391,
       "word": "黎巴嫩侨胞说看到五星国旗安心了",
       "onboard_time": 1727886797,
       "rank": 24,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 141490,
+      "num": 141490,
+      "word": "为什么出去旅游女厕所永远在排队",
+      "onboard_time": 1727917997,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 135699,
+      "num": 135699,
+      "word": "美一边呼吁停火一边支持以色列",
+      "onboard_time": 1727916077,
+      "rank": 28,
       "category": "国外时政"
     },
     {
@@ -291,6 +427,22 @@
       "category": "美食"
     },
     {
+      "raw_hot": 130875,
+      "num": 130875,
+      "word": "马龙解释采访被儿子打断",
+      "onboard_time": 1727911034,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 129716,
+      "num": 129716,
+      "word": "美官员暗中支持以升级军事行动",
+      "onboard_time": 1727916436,
+      "rank": 31,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 127256,
       "num": 127256,
       "word": "749局 好奇心",
@@ -305,6 +457,14 @@
       "onboard_time": 1727872279,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 125539,
+      "num": 125539,
+      "word": "直击黎巴嫩撤侨",
+      "onboard_time": 1727917997,
+      "rank": 33,
+      "category": "国外时政"
     },
     {
       "raw_hot": 123472,
@@ -323,20 +483,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 119830,
-      "num": 119830,
-      "word": "马龙解释采访被儿子打断",
-      "onboard_time": 1727911034,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
       "raw_hot": 119657,
       "num": 119657,
       "word": "陈丽君谈更多年轻人喜欢上越剧",
       "onboard_time": 1727866759,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 119578,
+      "num": 119578,
+      "word": "梅西梅开二度",
+      "onboard_time": 1727918777,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 119377,
+      "num": 119377,
+      "word": "两只猫咪当街被主人抱着打架",
+      "onboard_time": 1727911274,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 119226,
@@ -371,12 +539,44 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 108192,
+      "num": 108192,
+      "word": "小鹦鹉找回主人礼貌跟民警说拜拜",
+      "onboard_time": 1727911695,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 106380,
+      "num": 106380,
+      "word": "卫昭做了周生辰不敢做的事",
+      "onboard_time": 1727910675,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 106142,
       "num": 106142,
       "word": "以色列宣布禁止古特雷斯入境",
       "onboard_time": 1727866218,
       "rank": 38,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 95399,
+      "num": 95399,
+      "word": "野生仓鼠生气的样子",
+      "onboard_time": 1727919437,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 92488,
+      "num": 92488,
+      "word": "一起打卡秋天里的中国",
+      "onboard_time": 1727919138,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 90799,
@@ -387,12 +587,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 90499,
+      "num": 90499,
+      "word": "美股中国资产继续飙升",
+      "onboard_time": 1727919377,
+      "rank": 46,
+      "category": "财经"
+    },
+    {
       "raw_hot": 89619,
       "num": 106136,
       "word": "王曼昱做好被小球员冲击准备",
       "onboard_time": 1727885477,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 88984,
+      "num": 88984,
+      "word": "全红婵国庆节回家哥哥烤鸡庆祝",
+      "onboard_time": 1727918897,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 88956,
+      "num": 88956,
+      "word": "学走路的熊猫宝宝一不小心就翻车",
+      "onboard_time": 1727919617,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 83443,
@@ -427,12 +651,12 @@
       "category": "母婴育儿"
     },
     {
-      "raw_hot": 77420,
-      "num": 77420,
-      "word": "两只猫咪当街被主人抱着打架",
-      "onboard_time": 1727911274,
-      "rank": 39,
-      "category": "幽默"
+      "raw_hot": 78521,
+      "num": 324130,
+      "word": "郑钦文晋级获得130万奖金",
+      "onboard_time": 1727919497,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 76401,
@@ -467,14 +691,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 72681,
-      "num": 184743,
-      "word": "黄山山顶餐饮最低10块多",
-      "onboard_time": 1727910494,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 72615,
       "num": 72615,
       "word": "为何有人看起来显老有人显年轻",
@@ -491,35 +707,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 69983,
-      "num": 69983,
-      "word": "卫昭做了周生辰不敢做的事",
-      "onboard_time": 1727910675,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 67254,
-      "num": 67254,
-      "word": "小鹦鹉找回主人礼貌跟民警说拜拜",
-      "onboard_time": 1727911695,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 67229,
-      "num": 67229,
-      "word": "女子空地烧婚纱为自己举办离婚典礼",
-      "onboard_time": 1727911274,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 64367,
       "num": 106043,
       "word": "王源 Talking之神",
       "onboard_time": 1727881160,
       "rank": 49,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 64147,
+      "num": 442170,
+      "word": "华晨宇说唱向阳而生看到国旗很自豪",
+      "onboard_time": 1727908212,
+      "rank": 29,
       "category": "演出"
     },
     {
@@ -561,14 +761,6 @@
       "onboard_time": 1727881220,
       "rank": 49,
       "category": "电影"
-    },
-    {
-      "raw_hot": 53902,
-      "num": 188622,
-      "word": "华晨宇说唱向阳而生看到国旗很自豪",
-      "onboard_time": 1727908212,
-      "rank": 29,
-      "category": "演出"
     },
     {
       "raw_hot": 49706,
@@ -723,6 +915,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 13441,
+      "num": 556417,
+      "word": "一组图回顾我们共同走过的75年",
+      "onboard_time": 1727869818,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 12240,
+      "num": 464043,
+      "word": "9位侗族姑娘给法国人亿点震撼",
+      "onboard_time": 1727872818,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 11795,
       "num": 37311,
       "word": "60秒看花开中国姹紫嫣红",
@@ -744,14 +952,6 @@
       "word": "超3.3亿人次假期首日跨区域流动",
       "onboard_time": 1727873659,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 8654,
-      "num": 265077,
-      "word": "9位侗族姑娘给法国人亿点震撼",
-      "onboard_time": 1727872818,
-      "rank": 5,
       "category": "社会新闻"
     },
     {
