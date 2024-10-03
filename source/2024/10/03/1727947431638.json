@@ -1,0 +1,410 @@
+{
+  "runTime": 1727947431638,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 969870,
+        "num": 1155179,
+        "word": "100斤女警穿70斤衣服排爆",
+        "onboard_time": 1727940258,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 336545,
+        "num": 336545,
+        "word": "独库公路10日20时冬季封闭禁行",
+        "onboard_time": 1727942119,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 9173,
+        "num": 335155,
+        "word": "跟着文物去寻中国红",
+        "onboard_time": 1727924178,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264671,
+        "num": 333869,
+        "word": "日本首相石破茂因政治资金问题被检举",
+        "onboard_time": 1727944758,
+        "rank": 3,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 177270,
+        "num": 331887,
+        "word": "孙颖莎WTT中国大满贯三连胜",
+        "onboard_time": 1727931677,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 172621,
+        "num": 329364,
+        "word": "莫雷加德vs张本智和",
+        "onboard_time": 1727931979,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146186,
+        "num": 325739,
+        "word": "听泉鉴宝连线太精彩了",
+        "onboard_time": 1727934738,
+        "rank": 6,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 42973,
+        "num": 324316,
+        "word": "微度假成旅行新方式",
+        "onboard_time": 1727944998,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146503,
+        "num": 322019,
+        "word": "国庆天安门升旗仪式这个彩蛋看哭了",
+        "onboard_time": 1727935757,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 107577,
+        "num": 319439,
+        "word": "赴山海",
+        "onboard_time": 1727939176,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1229323,
+        "num": 317482,
+        "word": "秦霄贤感谢粉丝陪伴",
+        "onboard_time": 1727945839,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 976668,
+        "num": 314694,
+        "word": "成毅吊威亚摔在了台阶上",
+        "onboard_time": 1727942478,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 660090,
+        "num": 314036,
+        "word": "黑神话取景地小西天被喊差评",
+        "onboard_time": 1727945358,
+        "rank": 12,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 171705,
+        "num": 310240,
+        "word": "82岁医生办公室放着健身垫",
+        "onboard_time": 1727944758,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 605018,
+        "num": 309186,
+        "word": "穆婷婷复刻冷冰心",
+        "onboard_time": 1727943078,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 477122,
+        "num": 306559,
+        "word": "中方警告一场全面战争一触即发",
+        "onboard_time": 1727946619,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 370024,
+        "num": 303790,
+        "word": "博物馆昆虫被2孩子偷走",
+        "onboard_time": 1727937317,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 8757,
+        "num": 302172,
+        "word": "LPL世界赛出征片",
+        "onboard_time": 1727947338,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 19109,
+        "num": 300966,
+        "word": "Angelababy带小海绵做爱心餐",
+        "onboard_time": 1727947038,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32068,
+        "num": 296989,
+        "word": "份子钱不应成为人情负担",
+        "onboard_time": 1727946019,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 296833,
+        "num": 296833,
+        "word": "好利来二公子逐梦演艺圈",
+        "onboard_time": 1727928617,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 308332,
+        "num": 290168,
+        "word": "香港男子5000万拿下广州三套房",
+        "onboard_time": 1727947038,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 274085,
+        "num": 274085,
+        "word": "伊朗袭击以色列美军舰参与拦截",
+        "onboard_time": 1727945839,
+        "rank": 22,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 269969,
+        "num": 269969,
+        "word": "749局 奥特曼",
+        "onboard_time": 1727941158,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 237911,
+        "num": 237911,
+        "word": "仙台有树",
+        "onboard_time": 1727946019,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 222361,
+        "num": 222361,
+        "word": "以军一机库被伊朗导弹炸出大洞",
+        "onboard_time": 1727938458,
+        "rank": 25,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 193217,
+        "num": 193217,
+        "word": "浴火之路 删减",
+        "onboard_time": 1727943977,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 171126,
+        "num": 171126,
+        "word": "杨紫被选为巴黎时装周最佳着装",
+        "onboard_time": 1727928498,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 166414,
+        "num": 166414,
+        "word": "专家称期待已久的楼市银十回来了",
+        "onboard_time": 1727933478,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 55352,
+        "num": 151260,
+        "word": "孙颖莎一天双赛",
+        "onboard_time": 1727947399,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144976,
+        "num": 144976,
+        "word": "张帅无缘中网四强",
+        "onboard_time": 1727944878,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130183,
+        "num": 130183,
+        "word": "张本智和说想进一次8强",
+        "onboard_time": 1727939717,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126821,
+        "num": 126821,
+        "word": "莫雷加德连续淘汰日本三人",
+        "onboard_time": 1727943378,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126339,
+        "num": 126339,
+        "word": "宋亚轩julia官摄",
+        "onboard_time": 1727946978,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 124233,
+        "num": 124233,
+        "word": "王楚钦说面对勒布伦兄弟做好自己",
+        "onboard_time": 1727942659,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122818,
+        "num": 122818,
+        "word": "为什么没人住的房子老得特别快",
+        "onboard_time": 1727946858,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120577,
+        "num": 120577,
+        "word": "大爷把你放心上你把大爷挂网上",
+        "onboard_time": 1727945659,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 119741,
+        "num": 119741,
+        "word": "在深圳中学读书的一天",
+        "onboard_time": 1727940198,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 118633,
+        "num": 118633,
+        "word": "我以为的749局",
+        "onboard_time": 1727940798,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 116526,
+        "num": 116526,
+        "word": "阿姨用脚后跟给小狗来了一套颠勺",
+        "onboard_time": 1727938937,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 115132,
+        "num": 115132,
+        "word": "恒生科技指数创两年以来最大跌幅",
+        "onboard_time": 1727944218,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113678,
+        "num": 113678,
+        "word": "魏大勋开机路透",
+        "onboard_time": 1727945358,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111171,
+        "num": 111171,
+        "word": "美军帮以色列拦截伊朗导弹视频",
+        "onboard_time": 1727947038,
+        "rank": 42,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 106770,
+        "num": 106770,
+        "word": "一大波国漫集合回归了",
+        "onboard_time": 1727945778,
+        "rank": 43,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 105925,
+        "num": 105925,
+        "word": "林高远搂着勒布伦",
+        "onboard_time": 1727947220,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104356,
+        "num": 104356,
+        "word": "许凯横店见面会",
+        "onboard_time": 1727946437,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103449,
+        "num": 103449,
+        "word": "广深售楼部挤满了买房的人",
+        "onboard_time": 1727922437,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102837,
+        "num": 102837,
+        "word": "杭州萧山人开吃年夜饭了",
+        "onboard_time": 1727941997,
+        "rank": 47,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 102538,
+        "num": 102538,
+        "word": "心疼大黄蜂",
+        "onboard_time": 1727946858,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 97139,
+        "num": 97139,
+        "word": "女子隧道口偶遇3熊一路蹦跶",
+        "onboard_time": 1727946379,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平心头最大的牵挂#"
+    }
+  }
+}
