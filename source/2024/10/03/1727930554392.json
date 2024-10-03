@@ -1,0 +1,410 @@
+{
+  "runTime": 1727930554392,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 749647,
+        "num": 1119943,
+        "word": "孙颖莎vs刘炜珊",
+        "onboard_time": 1727925499,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 608777,
+        "num": 608777,
+        "word": "港股突变",
+        "onboard_time": 1727925617,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 25163,
+        "num": 606498,
+        "word": "予家予国",
+        "onboard_time": 1727925078,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 606225,
+        "num": 606225,
+        "word": "广深售楼部挤满了买房的人",
+        "onboard_time": 1727922437,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 355327,
+        "num": 355327,
+        "word": "只此青绿演了600次场场满座",
+        "onboard_time": 1727926578,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 334416,
+        "num": 334416,
+        "word": "碧昂斯",
+        "onboard_time": 1727926758,
+        "rank": 5,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 313471,
+        "num": 313471,
+        "word": "驻日美军承认用含氟化物灭火剂19年",
+        "onboard_time": 1727922496,
+        "rank": 6,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 284321,
+        "num": 284321,
+        "word": "剩下的5天假期准备如何度过",
+        "onboard_time": 1727890994,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 284252,
+        "num": 284252,
+        "word": "医护用一个谎言从日军手中救人",
+        "onboard_time": 1727927178,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199586,
+        "num": 284173,
+        "word": "孙颖莎3比1战胜刘炜珊",
+        "onboard_time": 1727929697,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1864900,
+        "num": 282688,
+        "word": "好利来二公子逐梦演艺圈",
+        "onboard_time": 1727928617,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 362801,
+        "num": 282274,
+        "word": "多国反对以色列禁止古特雷斯入境",
+        "onboard_time": 1727924837,
+        "rank": 11,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 358382,
+        "num": 280855,
+        "word": "伊以冲突",
+        "onboard_time": 1727926457,
+        "rank": 12,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 33945,
+        "num": 279768,
+        "word": "广州有楼盘1天成交达3.5亿元",
+        "onboard_time": 1727929758,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 284885,
+        "num": 279224,
+        "word": "以色列又一次攻击联合国工作人员",
+        "onboard_time": 1727922017,
+        "rank": 14,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 278490,
+        "num": 278490,
+        "word": "中国公民从黎巴嫩撤离车顶贴国旗",
+        "onboard_time": 1727913196,
+        "rank": 15,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 250825,
+        "num": 250825,
+        "word": "多国声援联合国秘书长",
+        "onboard_time": 1727922017,
+        "rank": 16,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 40592,
+        "num": 243468,
+        "word": "浴火之路怒呛江湖",
+        "onboard_time": 1727929338,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 238096,
+        "num": 238096,
+        "word": "国庆档电影票房一路飘红破纪录",
+        "onboard_time": 1727923037,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 58163,
+        "num": 237917,
+        "word": "如鸢漫展现场做非遗",
+        "onboard_time": 1727928977,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 425255,
+        "num": 237408,
+        "word": "杨紫被选为巴黎时装周最佳着装",
+        "onboard_time": 1727928498,
+        "rank": 20,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 240202,
+        "num": 236941,
+        "word": "这些话是当上老师就自动会了吗",
+        "onboard_time": 1727925018,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 353910,
+        "num": 236426,
+        "word": "高铁站女童坐行李箱摔下后昏迷",
+        "onboard_time": 1727920758,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260234,
+        "num": 235968,
+        "word": "无限暖暖",
+        "onboard_time": 1727928739,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 235814,
+        "num": 235814,
+        "word": "马伯骞婚礼想让王耀庆当主婚人",
+        "onboard_time": 1727928857,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201326,
+        "num": 201326,
+        "word": "孙颖莎丝滑进8强",
+        "onboard_time": 1727929458,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 193398,
+        "num": 193398,
+        "word": "时代少年团演唱会官摄视频上线",
+        "onboard_time": 1727929338,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 191504,
+        "num": 191504,
+        "word": "于东来辛巴会面",
+        "onboard_time": 1727928437,
+        "rank": 27,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 187682,
+        "num": 187682,
+        "word": "虞书欣 双轨",
+        "onboard_time": 1727878400,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159831,
+        "num": 159831,
+        "word": "749局 导演能力",
+        "onboard_time": 1727891532,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 453096,
+        "num": 159610,
+        "word": "小白的心脏是两节五号电池",
+        "onboard_time": 1727928617,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 147304,
+        "num": 147304,
+        "word": "有年轻人结婚不收份子钱",
+        "onboard_time": 1727925499,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 139125,
+        "num": 139125,
+        "word": "联合国回应秘书长被以色列拒绝入境",
+        "onboard_time": 1727927416,
+        "rank": 32,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 37578,
+        "num": 137999,
+        "word": "成毅赴山海明信片",
+        "onboard_time": 1727924897,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137774,
+        "num": 137774,
+        "word": "孙颖莎3比1刘炜珊",
+        "onboard_time": 1727929938,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137656,
+        "num": 137656,
+        "word": "今天是国庆长假第3天",
+        "onboard_time": 1727912236,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134368,
+        "num": 134368,
+        "word": "我们的歌好友嗨唱夜阵容官宣",
+        "onboard_time": 1727929639,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126719,
+        "num": 126719,
+        "word": "原来全世界的祖父母给钱时都这样",
+        "onboard_time": 1727922379,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 124123,
+        "num": 124123,
+        "word": "我是怎么扣扣搜搜花了很多钱的",
+        "onboard_time": 1727912236,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 124027,
+        "num": 124027,
+        "word": "金九银十大家都在买什么车",
+        "onboard_time": 1727929577,
+        "rank": 39,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 118013,
+        "num": 118013,
+        "word": "中国基建狂魔把绝境变成打卡地",
+        "onboard_time": 1727929998,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115649,
+        "num": 115649,
+        "word": "梅西生涯第46冠",
+        "onboard_time": 1727922257,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113673,
+        "num": 113673,
+        "word": "港股大跳水",
+        "onboard_time": 1727929938,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 111253,
+        "num": 111253,
+        "word": "多国回应以色列禁止古特雷斯入境",
+        "onboard_time": 1727928917,
+        "rank": 43,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 109999,
+        "num": 109999,
+        "word": "为什么出去旅游女厕所永远在排队",
+        "onboard_time": 1727917997,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 106953,
+        "num": 106953,
+        "word": "林德3比2高承睿",
+        "onboard_time": 1727930478,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 95544,
+        "num": 95544,
+        "word": "为躲避日军追捕她从窗户跳了下去",
+        "onboard_time": 1727927537,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95404,
+        "num": 95404,
+        "word": "解雨臣生日谷",
+        "onboard_time": 1727926218,
+        "rank": 47,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 91134,
+        "num": 91134,
+        "word": "港股",
+        "onboard_time": 1727921057,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 90916,
+        "num": 90916,
+        "word": "马龙不希望轻易地不负责任地输球",
+        "onboard_time": 1727914878,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#要靠实干奋斗实现中华民族伟大复兴#"
+    }
+  }
+}

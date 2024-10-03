@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1727929648493,
+  "endTime": 1727930554392,
   "band_list": [
     {
       "raw_hot": 11925969,
@@ -75,6 +75,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1864900,
+      "num": 311863,
+      "word": "好利来二公子逐梦演艺圈",
+      "onboard_time": 1727928617,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1761489,
       "num": 1015351,
       "word": "女生打顺风车已满座司机仍接单",
@@ -121,14 +129,6 @@
       "onboard_time": 1727756780,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1416588,
-      "num": 311863,
-      "word": "好利来二公子逐梦演艺圈",
-      "onboard_time": 1727928617,
-      "rank": 10,
-      "category": "剧集"
     },
     {
       "raw_hot": 1391758,
@@ -1171,6 +1171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 453096,
+      "num": 159610,
+      "word": "小白的心脏是两节五号电池",
+      "onboard_time": 1727928617,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 451275,
       "num": 226218,
       "word": "拜登召集国家安全团队紧急会议",
@@ -1273,6 +1281,14 @@
       "onboard_time": 1727862618,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 425255,
+      "num": 258163,
+      "word": "杨紫被选为巴黎时装周最佳着装",
+      "onboard_time": 1727928498,
+      "rank": 21,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 424786,
@@ -1443,12 +1459,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 367005,
-      "num": 258163,
-      "word": "杨紫被选为巴黎时装周最佳着装",
-      "onboard_time": 1727928498,
-      "rank": 21,
-      "category": "作品衍生,时尚"
+      "raw_hot": 362801,
+      "num": 287820,
+      "word": "多国反对以色列禁止古特雷斯入境",
+      "onboard_time": 1727924837,
+      "rank": 44,
+      "category": "国外时政"
     },
     {
       "raw_hot": 359253,
@@ -1539,6 +1555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 334416,
+      "num": 334416,
+      "word": "碧昂斯",
+      "onboard_time": 1727926758,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
       "raw_hot": 333593,
       "num": 191244,
       "word": "澳洲包邮",
@@ -1595,14 +1619,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 325125,
-      "num": 152308,
-      "word": "小白的心脏是两节五号电池",
-      "onboard_time": 1727928617,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 322601,
       "num": 230747,
       "word": "伊朗向以色列发动大规模导弹袭击",
@@ -1625,14 +1641,6 @@
       "onboard_time": 1727927178,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 316701,
-      "num": 316701,
-      "word": "碧昂斯",
-      "onboard_time": 1727926758,
-      "rank": 34,
-      "category": "演出"
     },
     {
       "raw_hot": 315462,
@@ -1817,14 +1825,6 @@
       "onboard_time": 1727755039,
       "rank": 46,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 287820,
-      "num": 287820,
-      "word": "多国反对以色列禁止古特雷斯入境",
-      "onboard_time": 1727924837,
-      "rank": 44,
-      "category": "国外时政"
     },
     {
       "raw_hot": 287610,
@@ -2289,6 +2289,14 @@
       "onboard_time": 1727747960,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 235814,
+      "num": 235814,
+      "word": "马伯骞婚礼想让王耀庆当主婚人",
+      "onboard_time": 1727928857,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 235380,
@@ -2803,12 +2811,28 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 201326,
+      "num": 295278,
+      "word": "孙颖莎丝滑进8强",
+      "onboard_time": 1727929458,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 200231,
       "num": 200231,
       "word": "杨紫波点白裙搭配荷叶领",
       "onboard_time": 1727760678,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 199586,
+      "num": 284173,
+      "word": "孙颖莎3比1战胜刘炜珊",
+      "onboard_time": 1727929697,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 198709,
@@ -2891,14 +2915,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 194122,
-      "num": 194122,
-      "word": "马伯骞婚礼想让王耀庆当主婚人",
-      "onboard_time": 1727928857,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 193800,
       "num": 193800,
       "word": "林高远林诗栋3比1高承睿黄彦诚",
@@ -2929,6 +2945,14 @@
       "onboard_time": 1727860157,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 193398,
+      "num": 193398,
+      "word": "时代少年团演唱会官摄视频上线",
+      "onboard_time": 1727929338,
+      "rank": 36,
+      "category": "演出"
     },
     {
       "raw_hot": 193112,
@@ -4195,6 +4219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 139125,
+      "num": 139125,
+      "word": "联合国回应秘书长被以色列拒绝入境",
+      "onboard_time": 1727927416,
+      "rank": 38,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 138695,
       "num": 138695,
       "word": "马龙解释采访被儿子打断",
@@ -4249,6 +4281,14 @@
       "onboard_time": 1727757559,
       "rank": 48,
       "category": "数码"
+    },
+    {
+      "raw_hot": 137774,
+      "num": 137774,
+      "word": "孙颖莎3比1刘炜珊",
+      "onboard_time": 1727929938,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 137534,
@@ -4331,6 +4371,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 134368,
+      "num": 134368,
+      "word": "我们的歌好友嗨唱夜阵容官宣",
+      "onboard_time": 1727929639,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 134177,
       "num": 199882,
       "word": "我们回不去了 你们继续前进",
@@ -4372,7 +4420,7 @@
     },
     {
       "raw_hot": 133238,
-      "num": 133238,
+      "num": 137999,
       "word": "成毅赴山海明信片",
       "onboard_time": 1727924897,
       "rank": 28,
@@ -4425,14 +4473,6 @@
       "onboard_time": 1727855657,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 132054,
-      "num": 132054,
-      "word": "时代少年团演唱会官摄视频上线",
-      "onboard_time": 1727929338,
-      "rank": 36,
-      "category": "演出"
     },
     {
       "raw_hot": 131882,
@@ -4675,14 +4715,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 123611,
-      "num": 123611,
-      "word": "联合国回应秘书长被以色列拒绝入境",
-      "onboard_time": 1727927416,
-      "rank": 38,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 123585,
       "num": 508059,
       "word": "电影志愿军存亡之战",
@@ -4851,19 +4883,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 118013,
+      "num": 118013,
+      "word": "中国基建狂魔把绝境变成打卡地",
+      "onboard_time": 1727929998,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 117825,
       "num": 117825,
       "word": "脱口秀和Ta的朋友们",
       "onboard_time": 1727782039,
       "rank": 46,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 117797,
-      "num": 117797,
-      "word": "我们的歌好友嗨唱夜阵容官宣",
-      "onboard_time": 1727929639,
-      "rank": 40,
       "category": "综艺"
     },
     {
@@ -4995,6 +5027,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 113673,
+      "num": 113673,
+      "word": "港股大跳水",
+      "onboard_time": 1727929938,
+      "rank": 42,
+      "category": "财经"
+    },
+    {
       "raw_hot": 113400,
       "num": 206944,
       "word": "崂山日出相映国旗红",
@@ -5057,6 +5097,14 @@
       "onboard_time": 1727715497,
       "rank": 27,
       "category": "演出"
+    },
+    {
+      "raw_hot": 111253,
+      "num": 111253,
+      "word": "多国回应以色列禁止古特雷斯入境",
+      "onboard_time": 1727928917,
+      "rank": 43,
+      "category": "国外时政"
     },
     {
       "raw_hot": 111220,
@@ -5200,6 +5248,14 @@
       "word": "周启豪vs奥恰洛夫",
       "onboard_time": 1727870478,
       "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 106953,
+      "num": 106953,
+      "word": "林德3比2高承睿",
+      "onboard_time": 1727930478,
+      "rank": 45,
       "category": "体育"
     },
     {
@@ -5400,14 +5456,6 @@
       "word": "黎巴嫩贝鲁特南郊满目疮痍",
       "onboard_time": 1727920517,
       "rank": 44,
-      "category": "国外时政"
-    },
-    {
-      "raw_hot": 101640,
-      "num": 101640,
-      "word": "多国回应以色列禁止古特雷斯入境",
-      "onboard_time": 1727928917,
-      "rank": 43,
       "category": "国外时政"
     },
     {
@@ -6283,6 +6331,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 58163,
+      "num": 237917,
+      "word": "如鸢漫展现场做非遗",
+      "onboard_time": 1727928977,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 58028,
       "num": 103350,
       "word": "志愿军存亡之战",
@@ -6395,14 +6451,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 50587,
-      "num": 152320,
-      "word": "如鸢漫展现场做非遗",
-      "onboard_time": 1727928977,
-      "rank": 29,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 50303,
       "num": 191319,
       "word": "开山岛上的升旗仪式",
@@ -6417,14 +6465,6 @@
       "onboard_time": 1727884998,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 49425,
-      "num": 295278,
-      "word": "孙颖莎丝滑进8强",
-      "onboard_time": 1727929458,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 49276,
@@ -6760,6 +6800,14 @@
       "word": "机票价格跳水可以买低退高吗",
       "onboard_time": 1727719694,
       "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 33945,
+      "num": 279768,
+      "word": "广州有楼盘1天成交达3.5亿元",
+      "onboard_time": 1727929758,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
