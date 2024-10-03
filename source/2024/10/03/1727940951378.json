@@ -1,0 +1,410 @@
+{
+  "runTime": 1727940951378,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 494528,
+        "num": 1079124,
+        "word": "国庆天安门升旗仪式这个彩蛋看哭了",
+        "onboard_time": 1727935757,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 473756,
+        "num": 473756,
+        "word": "专家称期待已久的楼市银十回来了",
+        "onboard_time": 1727933478,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149299,
+        "num": 345863,
+        "word": "国庆档电影票房一路飘红破纪录",
+        "onboard_time": 1727923037,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 477610,
+        "num": 344237,
+        "word": "听泉鉴宝连线太精彩了",
+        "onboard_time": 1727934738,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 298714,
+        "num": 298714,
+        "word": "莫雷加德vs张本智和",
+        "onboard_time": 1727931979,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 290260,
+        "num": 290260,
+        "word": "妈妈抱着升旗后的张威哭了",
+        "onboard_time": 1727935819,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245825,
+        "num": 245825,
+        "word": "赴山海",
+        "onboard_time": 1727939176,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 217204,
+        "num": 217204,
+        "word": "广深售楼部挤满了买房的人",
+        "onboard_time": 1727922437,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 48527,
+        "num": 208781,
+        "word": "电影志愿军的战损册更是英雄谱",
+        "onboard_time": 1727939959,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 72111,
+        "num": 208171,
+        "word": "张帅vs巴多萨",
+        "onboard_time": 1727939777,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 208106,
+        "num": 208106,
+        "word": "100斤女警穿70斤衣服排爆",
+        "onboard_time": 1727940258,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 884225,
+        "num": 208106,
+        "word": "博物馆昆虫被2孩子偷走",
+        "onboard_time": 1727937317,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 738985,
+        "num": 208092,
+        "word": "好利来二公子逐梦演艺圈",
+        "onboard_time": 1727928617,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 95487,
+        "num": 208071,
+        "word": "林高远王艺迪3比1薛飞钱天一",
+        "onboard_time": 1727940438,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 209003,
+        "num": 208060,
+        "word": "孙颖莎WTT中国大满贯三连胜",
+        "onboard_time": 1727931677,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 276186,
+        "num": 208053,
+        "word": "以军一机库被伊朗导弹炸出大洞",
+        "onboard_time": 1727938458,
+        "rank": 15,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 266638,
+        "num": 208031,
+        "word": "陈哲远演技",
+        "onboard_time": 1727937198,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 263761,
+        "num": 208019,
+        "word": "半熟男女 分手了人生是旷野",
+        "onboard_time": 1727934560,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 246071,
+        "num": 208015,
+        "word": "极氪车主高速上自动驾驶时盖被睡觉",
+        "onboard_time": 1727934138,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 208003,
+        "num": 208003,
+        "word": "林诗栋3比2卡尔伯格",
+        "onboard_time": 1727937918,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 41975,
+        "num": 205091,
+        "word": "国庆出行顶级心态来都来了",
+        "onboard_time": 1727928018,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237182,
+        "num": 201914,
+        "word": "杨紫被选为巴黎时装周最佳着装",
+        "onboard_time": 1727928498,
+        "rank": 21,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 236251,
+        "num": 198961,
+        "word": "阿姨用脚后跟给小狗来了一套颠勺",
+        "onboard_time": 1727938937,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 218694,
+        "num": 194651,
+        "word": "王楚钦说看见梁靖崑就想笑",
+        "onboard_time": 1727937078,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 194154,
+        "num": 194154,
+        "word": "小jiojio出现的一瞬间萌化了",
+        "onboard_time": 1727932638,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 193053,
+        "num": 193053,
+        "word": "以军空袭黎巴嫩首都已致5死",
+        "onboard_time": 1727935456,
+        "rank": 25,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 192537,
+        "num": 192537,
+        "word": "周深因为手背青筋被暴击",
+        "onboard_time": 1727934018,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160869,
+        "num": 160869,
+        "word": "offer6带教 香港首位内地女性大律师",
+        "onboard_time": 1727932218,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147468,
+        "num": 147468,
+        "word": "花少团有事情刘烨是真上",
+        "onboard_time": 1727936837,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146258,
+        "num": 146258,
+        "word": "丰收时蔓越莓要先游个泳再上岸",
+        "onboard_time": 1727937918,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149545,
+        "num": 146076,
+        "word": "在深圳中学读书的一天",
+        "onboard_time": 1727940198,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 144749,
+        "num": 144749,
+        "word": "莫雷加德3比2张本智和",
+        "onboard_time": 1727933599,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144465,
+        "num": 144465,
+        "word": "厕纸到底应该冲掉还是扔纸篓",
+        "onboard_time": 1727939777,
+        "rank": 32,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 143915,
+        "num": 143915,
+        "word": "张本智和说想进一次8强",
+        "onboard_time": 1727939717,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 96839,
+        "num": 143054,
+        "word": "峨眉女团耀动香港",
+        "onboard_time": 1727940678,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 52737,
+        "num": 142959,
+        "word": "堵车后众人在隧道开起了演唱会",
+        "onboard_time": 1727939717,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142931,
+        "num": 142931,
+        "word": "王楚钦回应双甜组合网名",
+        "onboard_time": 1727938518,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142385,
+        "num": 142385,
+        "word": "林高远王艺迪进混双决赛",
+        "onboard_time": 1727940618,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132931,
+        "num": 132931,
+        "word": "港股突变",
+        "onboard_time": 1727925617,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 127130,
+        "num": 127130,
+        "word": "中国基建狂魔把绝境变成打卡地",
+        "onboard_time": 1727929998,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123223,
+        "num": 123223,
+        "word": "刘璇给二十岁女孩的忠告",
+        "onboard_time": 1727940678,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121567,
+        "num": 121567,
+        "word": "高铁站女童坐行李箱摔下后昏迷",
+        "onboard_time": 1727920758,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117033,
+        "num": 117033,
+        "word": "以色列又一次攻击联合国工作人员",
+        "onboard_time": 1727922017,
+        "rank": 42,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 112943,
+        "num": 112943,
+        "word": "罗仪涵 让你走让你留都是命运在保护你",
+        "onboard_time": 1727937977,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112783,
+        "num": 112783,
+        "word": "我以为的749局",
+        "onboard_time": 1727940798,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 103160,
+        "num": 103160,
+        "word": "小孩哥 现在的年轻人真好哄",
+        "onboard_time": 1727940918,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 100911,
+        "num": 100911,
+        "word": "莫雷加德进中国大满贯8强",
+        "onboard_time": 1727933419,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 99372,
+        "num": 99372,
+        "word": "99年出生女警成为一名排爆手",
+        "onboard_time": 1727940798,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 99280,
+        "num": 99280,
+        "word": "密逃好笑的含金量还在上升",
+        "onboard_time": 1727940317,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 91027,
+        "num": 91027,
+        "word": "林诗栋谈下轮对阵林德",
+        "onboard_time": 1727940918,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#清澈的爱祝福中国#"
+    }
+  }
+}
