@@ -1,6 +1,6 @@
 {
   "startTime": 1727886505064,
-  "endTime": 1727952102845,
+  "endTime": 1727954342076,
   "band_list": [
     {
       "raw_hot": 1864900,
@@ -83,6 +83,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 903887,
+      "num": 559430,
+      "word": "95后北大博士范富荣履新副市长",
+      "onboard_time": 1727950458,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 884225,
       "num": 327423,
       "word": "博物馆昆虫被2孩子偷走",
@@ -131,6 +139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 692913,
+      "num": 460775,
+      "word": "马伯骞 留子果然什么都能吃",
+      "onboard_time": 1727950697,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 670728,
       "num": 304423,
       "word": "以色列又一次攻击联合国工作人员",
@@ -145,14 +161,6 @@
       "onboard_time": 1727945358,
       "rank": 12,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 646096,
-      "num": 460775,
-      "word": "马伯骞 留子果然什么都能吃",
-      "onboard_time": 1727950697,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 639876,
@@ -193,14 +201,6 @@
       "onboard_time": 1727883798,
       "rank": 12,
       "category": "体育"
-    },
-    {
-      "raw_hot": 559430,
-      "num": 559430,
-      "word": "95后北大博士范富荣履新副市长",
-      "onboard_time": 1727950458,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 548529,
@@ -259,6 +259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 508357,
+      "num": 508357,
+      "word": "游客捅马蜂窝致多人被蜇伤",
+      "onboard_time": 1727949918,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 497315,
       "num": 497315,
       "word": "伊朗指出结束中东战事唯一途径",
@@ -296,6 +304,14 @@
       "word": "中方对中东暴力冲突提出4个必须",
       "onboard_time": 1727914097,
       "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 492353,
+      "num": 492353,
+      "word": "给老人设计的拐杖却被年轻人买爆",
+      "onboard_time": 1727950759,
+      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -403,6 +419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 373161,
+      "num": 275156,
+      "word": "深圳1家6口放弃旅游改看房",
+      "onboard_time": 1727951180,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 372574,
       "num": 289805,
       "word": "极氪车主高速上自动驾驶时盖被睡觉",
@@ -481,6 +505,14 @@
       "onboard_time": 1727882599,
       "rank": 22,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 330554,
+      "num": 330554,
+      "word": "流水迢迢 oe",
+      "onboard_time": 1727952199,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 319669,
@@ -611,6 +643,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 282075,
+      "num": 282075,
+      "word": "永夜星河",
+      "onboard_time": 1727953279,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 280858,
       "num": 952575,
       "word": "恒生科技指数创两年以来最大跌幅",
@@ -625,14 +665,6 @@
       "onboard_time": 1727934018,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 279625,
-      "num": 173072,
-      "word": "深圳1家6口放弃旅游改看房",
-      "onboard_time": 1727951180,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 279163,
@@ -811,12 +843,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 223651,
-      "num": 223651,
-      "word": "给老人设计的拐杖却被年轻人买爆",
-      "onboard_time": 1727950759,
-      "rank": 26,
-      "category": "社会新闻"
+      "raw_hot": 225534,
+      "num": 225534,
+      "word": "以军称打死加沙地带哈马斯领导人",
+      "onboard_time": 1727951718,
+      "rank": 48,
+      "category": "国外时政"
     },
     {
       "raw_hot": 220662,
@@ -923,6 +955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 194580,
+      "num": 491936,
+      "word": "向鹏3比1F勒布伦",
+      "onboard_time": 1727953938,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 194094,
       "num": 174961,
       "word": "少儿频道是月亮姐姐最好的医美",
@@ -979,6 +1019,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 191605,
+      "num": 191605,
+      "word": "登陆少年 园博园",
+      "onboard_time": 1727953820,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 190959,
       "num": 190959,
       "word": "神印王座放假正是修炼的时候",
@@ -1008,6 +1056,14 @@
       "word": "张本智和说想进一次8强",
       "onboard_time": 1727939717,
       "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 181236,
+      "num": 181236,
+      "word": "张博恒希望LPL拿到开门红",
+      "onboard_time": 1727953100,
+      "rank": 25,
       "category": "体育"
     },
     {
@@ -1051,6 +1107,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 173062,
+      "num": 424971,
+      "word": "孙颖莎王艺迪3比0杜凯琹刘杨子",
+      "onboard_time": 1727951898,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 172920,
+      "num": 172920,
+      "word": "真主党领导人身亡前同意停火",
+      "onboard_time": 1727951180,
+      "rank": 31,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 172543,
       "num": 172543,
       "word": "郑钦文打到对手摔拍子",
@@ -1067,20 +1139,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 169216,
-      "num": 169216,
-      "word": "真主党领导人身亡前同意停火",
-      "onboard_time": 1727951180,
-      "rank": 31,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 168432,
       "num": 168432,
       "word": "秋月梨桂花百香果",
       "onboard_time": 1727927719,
       "rank": 27,
       "category": "美食"
+    },
+    {
+      "raw_hot": 167691,
+      "num": 167691,
+      "word": "成毅身体未出现其他不适症状",
+      "onboard_time": 1727953040,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 167052,
@@ -1113,14 +1185,6 @@
       "onboard_time": 1727882720,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 161650,
-      "num": 161650,
-      "word": "孙颖莎王艺迪3比0杜凯琹刘杨子",
-      "onboard_time": 1727951898,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 160016,
@@ -1459,6 +1523,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 131631,
+      "num": 131631,
+      "word": "第一次见情绪这么稳定的猴子",
+      "onboard_time": 1727949858,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 131599,
       "num": 131599,
       "word": "邱贻可仔细检查孙颖莎球拍",
@@ -1555,6 +1627,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 120652,
+      "num": 120652,
+      "word": "赵丽颖刘烨肖央三个戏疯子",
+      "onboard_time": 1727954059,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 120577,
       "num": 120577,
       "word": "大爷把你放心上你把大爷挂网上",
@@ -1609,14 +1689,6 @@
       "onboard_time": 1727862618,
       "rank": 34,
       "category": "电影"
-    },
-    {
-      "raw_hot": 117705,
-      "num": 117705,
-      "word": "第一次见情绪这么稳定的猴子",
-      "onboard_time": 1727949858,
-      "rank": 40,
-      "category": "幽默"
     },
     {
       "raw_hot": 117521,
@@ -1683,12 +1755,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 113140,
-      "num": 297027,
-      "word": "游客捅马蜂窝致多人被蜇伤",
-      "onboard_time": 1727949918,
-      "rank": 19,
-      "category": "社会新闻"
+      "raw_hot": 113551,
+      "num": 113551,
+      "word": "舍不得星星",
+      "onboard_time": 1727954179,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 112943,
@@ -1755,6 +1827,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 108985,
+      "num": 108985,
+      "word": "高铁上遇到顶级rapper",
+      "onboard_time": 1727953638,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 108966,
       "num": 108966,
       "word": "解雨臣生日谷",
@@ -1787,12 +1867,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 107386,
-      "num": 107386,
-      "word": "以军称打死加沙地带哈马斯领导人",
-      "onboard_time": 1727951718,
-      "rank": 48,
-      "category": "国外时政"
+      "raw_hot": 107392,
+      "num": 107392,
+      "word": "林高远林诗栋3比0加多斯哈贝松",
+      "onboard_time": 1727953218,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 106790,
+      "num": 106790,
+      "word": "流水迢迢结局",
+      "onboard_time": 1727952319,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 106770,
@@ -1881,6 +1969,14 @@
       "onboard_time": 1727920517,
       "rank": 44,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 101168,
+      "num": 101168,
+      "word": "孙颖莎说现场观众越多更有动力",
+      "onboard_time": 1727954239,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 100933,
@@ -2379,6 +2475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 52399,
+      "num": 440685,
+      "word": "网信办部署开展为期3个月专项行动",
+      "onboard_time": 1727953398,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 52020,
       "num": 176417,
       "word": "听周深等你大好河山等你来看",
@@ -2488,6 +2592,14 @@
       "word": "战火无情国家有爱",
       "onboard_time": 1727885657,
       "rank": 26,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 39715,
+      "num": 123823,
+      "word": "网信办集中整治五类突出问题",
+      "onboard_time": 1727953984,
+      "rank": 36,
       "category": "国内时政"
     },
     {

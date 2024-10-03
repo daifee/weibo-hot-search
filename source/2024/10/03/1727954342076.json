@@ -1,0 +1,410 @@
+{
+  "runTime": 1727954342076,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 637513,
+        "num": 1102002,
+        "word": "100斤女警穿70斤衣服排爆",
+        "onboard_time": 1727940258,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 508357,
+        "num": 508357,
+        "word": "游客捅马蜂窝致多人被蜇伤",
+        "onboard_time": 1727949918,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3627,
+        "num": 498510,
+        "word": "跟着文物去寻中国红",
+        "onboard_time": 1727924178,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 903887,
+        "num": 498003,
+        "word": "95后北大博士范富荣履新副市长",
+        "onboard_time": 1727950458,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 492353,
+        "num": 492353,
+        "word": "给老人设计的拐杖却被年轻人买爆",
+        "onboard_time": 1727950759,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194580,
+        "num": 491936,
+        "word": "向鹏3比1F勒布伦",
+        "onboard_time": 1727953938,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 186259,
+        "num": 475896,
+        "word": "恒生科技指数创两年以来最大跌幅",
+        "onboard_time": 1727944218,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22447,
+        "num": 463764,
+        "word": "微度假成旅行新方式",
+        "onboard_time": 1727944998,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128324,
+        "num": 459577,
+        "word": "听泉鉴宝连线太精彩了",
+        "onboard_time": 1727934738,
+        "rank": 8,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 52399,
+        "num": 440685,
+        "word": "网信办部署开展为期3个月专项行动",
+        "onboard_time": 1727953398,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1095985,
+        "num": 431342,
+        "word": "中方警告一场全面战争一触即发",
+        "onboard_time": 1727946619,
+        "rank": 10,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 173062,
+        "num": 424971,
+        "word": "孙颖莎王艺迪3比0杜凯琹刘杨子",
+        "onboard_time": 1727951898,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 948079,
+        "num": 412423,
+        "word": "Angelababy带小海绵做爱心餐",
+        "onboard_time": 1727947038,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 692913,
+        "num": 398334,
+        "word": "马伯骞 留子果然什么都能吃",
+        "onboard_time": 1727950697,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 556764,
+        "num": 391234,
+        "word": "成毅吊威亚摔在了台阶上",
+        "onboard_time": 1727942478,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 386961,
+        "num": 386961,
+        "word": "伊朗指出结束中东战事唯一途径",
+        "onboard_time": 1727947938,
+        "rank": 15,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 363688,
+        "num": 363688,
+        "word": "孙颖莎王艺迪vs杜凯琹刘杨子",
+        "onboard_time": 1727950339,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 330554,
+        "num": 330554,
+        "word": "流水迢迢 oe",
+        "onboard_time": 1727952199,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 293250,
+        "num": 293250,
+        "word": "香港男子5000万拿下广州三套房",
+        "onboard_time": 1727947038,
+        "rank": 18,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 282075,
+        "num": 282075,
+        "word": "永夜星河",
+        "onboard_time": 1727953279,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 373161,
+        "num": 275156,
+        "word": "深圳1家6口放弃旅游改看房",
+        "onboard_time": 1727951180,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264218,
+        "num": 264218,
+        "word": "穆婷婷复刻冷冰心",
+        "onboard_time": 1727943078,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 245127,
+        "num": 245127,
+        "word": "博物馆昆虫被2孩子偷走",
+        "onboard_time": 1727937317,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225534,
+        "num": 225534,
+        "word": "以军称打死加沙地带哈马斯领导人",
+        "onboard_time": 1727951718,
+        "rank": 23,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 191605,
+        "num": 191605,
+        "word": "登陆少年 园博园",
+        "onboard_time": 1727953820,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181236,
+        "num": 181236,
+        "word": "张博恒希望LPL拿到开门红",
+        "onboard_time": 1727953100,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 172920,
+        "num": 172920,
+        "word": "真主党领导人身亡前同意停火",
+        "onboard_time": 1727951180,
+        "rank": 26,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 168729,
+        "num": 168729,
+        "word": "伊朗袭击以色列美军舰参与拦截",
+        "onboard_time": 1727945839,
+        "rank": 27,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 167691,
+        "num": 167691,
+        "word": "成毅身体未出现其他不适症状",
+        "onboard_time": 1727953040,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164895,
+        "num": 164895,
+        "word": "日本首相石破茂因政治资金问题被检举",
+        "onboard_time": 1727944758,
+        "rank": 29,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 163285,
+        "num": 163285,
+        "word": "749局 奥特曼",
+        "onboard_time": 1727941158,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 156661,
+        "num": 156661,
+        "word": "好利来二公子逐梦演艺圈",
+        "onboard_time": 1727928617,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142715,
+        "num": 142715,
+        "word": "为什么没人住的房子老得特别快",
+        "onboard_time": 1727946858,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131631,
+        "num": 131631,
+        "word": "第一次见情绪这么稳定的猴子",
+        "onboard_time": 1727949858,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 129026,
+        "num": 129026,
+        "word": "英雄联盟S14",
+        "onboard_time": 1727950939,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 127608,
+        "num": 127608,
+        "word": "高铁上查票是什么原因",
+        "onboard_time": 1727947819,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 39715,
+        "num": 123823,
+        "word": "网信办集中整治五类突出问题",
+        "onboard_time": 1727953984,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 120652,
+        "num": 120652,
+        "word": "赵丽颖刘烨肖央三个戏疯子",
+        "onboard_time": 1727954059,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 115728,
+        "num": 115728,
+        "word": "仙台有树",
+        "onboard_time": 1727946019,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115375,
+        "num": 115375,
+        "word": "小西天景区文旅局道歉",
+        "onboard_time": 1727949438,
+        "rank": 39,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 113551,
+        "num": 113551,
+        "word": "舍不得星星",
+        "onboard_time": 1727954179,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111302,
+        "num": 111302,
+        "word": "82岁医生办公室放着健身垫",
+        "onboard_time": 1727944758,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108985,
+        "num": 108985,
+        "word": "高铁上遇到顶级rapper",
+        "onboard_time": 1727953638,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 82497,
+        "num": 108342,
+        "word": "孙颖莎王艺迪女双4强",
+        "onboard_time": 1727951838,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108200,
+        "num": 108200,
+        "word": "流水迢迢",
+        "onboard_time": 1727948959,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107392,
+        "num": 107392,
+        "word": "林高远林诗栋3比0加多斯哈贝松",
+        "onboard_time": 1727953218,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 106790,
+        "num": 106790,
+        "word": "流水迢迢结局",
+        "onboard_time": 1727952319,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102794,
+        "num": 102794,
+        "word": "独库公路10日20时冬季封闭禁行",
+        "onboard_time": 1727942119,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101730,
+        "num": 101730,
+        "word": "美军帮以色列拦截伊朗导弹视频",
+        "onboard_time": 1727947038,
+        "rank": 48,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 101168,
+        "num": 101168,
+        "word": "孙颖莎说现场观众越多更有动力",
+        "onboard_time": 1727954239,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#75年岁月绘写美丽中国#"
+    }
+  }
+}
