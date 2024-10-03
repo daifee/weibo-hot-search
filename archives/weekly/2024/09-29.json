@@ -1,6 +1,6 @@
 {
   "startTime": 1727540758074,
-  "endTime": 1727954342076,
+  "endTime": 1727955329374,
   "band_list": [
     {
       "raw_hot": 11925969,
@@ -1035,6 +1035,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 757314,
+      "num": 1121170,
+      "word": "游客捅马蜂窝致多人被蜇伤",
+      "onboard_time": 1727949918,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 756176,
       "num": 1120988,
       "word": "志愿军",
@@ -2027,19 +2035,19 @@
       "category": "电影"
     },
     {
+      "raw_hot": 510018,
+      "num": 510018,
+      "word": "给老人设计的拐杖却被年轻人买爆",
+      "onboard_time": 1727950759,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 508899,
       "num": 508899,
       "word": "斯坦福博士已入职乡镇公务员岗",
       "onboard_time": 1727666419,
       "rank": 22,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 508357,
-      "num": 508357,
-      "word": "游客捅马蜂窝致多人被蜇伤",
-      "onboard_time": 1727949918,
-      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -2176,14 +2184,6 @@
       "word": "中方对中东暴力冲突提出4个必须",
       "onboard_time": 1727914097,
       "rank": 3,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 492353,
-      "num": 492353,
-      "word": "给老人设计的拐杖却被年轻人买爆",
-      "onboard_time": 1727950759,
-      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -2363,6 +2363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 452848,
+      "num": 491936,
+      "word": "向鹏3比1F勒布伦",
+      "onboard_time": 1727953938,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 452436,
       "num": 274846,
       "word": "恒大地产和许家印等被处分",
@@ -2529,6 +2537,14 @@
       "onboard_time": 1727839398,
       "rank": 16,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 426899,
+      "num": 426899,
+      "word": "永夜星河",
+      "onboard_time": 1727953279,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 425689,
@@ -3153,6 +3169,14 @@
       "onboard_time": 1727664799,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 349556,
+      "num": 349556,
+      "word": "登陆少年 园博园",
+      "onboard_time": 1727953820,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 348376,
@@ -3977,14 +4001,6 @@
       "onboard_time": 1727837058,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 282075,
-      "num": 282075,
-      "word": "永夜星河",
-      "onboard_time": 1727953279,
-      "rank": 19,
-      "category": "剧集"
     },
     {
       "raw_hot": 281865,
@@ -5891,6 +5907,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 197802,
+      "num": 197802,
+      "word": "桂花柿子冰茶",
+      "onboard_time": 1727954599,
+      "rank": 24,
+      "category": "美食"
+    },
+    {
       "raw_hot": 197592,
       "num": 197592,
       "word": "谁教翟潇闻虞书欣这么起名的",
@@ -6003,6 +6027,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 195616,
+      "num": 195616,
+      "word": "赵丽颖刘烨肖央三个戏疯子",
+      "onboard_time": 1727954059,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 195487,
       "num": 195487,
       "word": "李昊直播",
@@ -6033,14 +6065,6 @@
       "onboard_time": 1727702301,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 194580,
-      "num": 491936,
-      "word": "向鹏3比1F勒布伦",
-      "onboard_time": 1727953938,
-      "rank": 5,
-      "category": "体育"
     },
     {
       "raw_hot": 194508,
@@ -6289,14 +6313,6 @@
       "onboard_time": 1727706562,
       "rank": 22,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 191605,
-      "num": 191605,
-      "word": "登陆少年 园博园",
-      "onboard_time": 1727953820,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 191479,
@@ -6771,6 +6787,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 181900,
+      "num": 181900,
+      "word": "朱志鑫散步vlog",
+      "onboard_time": 1727954959,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 181724,
       "num": 233051,
       "word": "4个表图分清楚医保个人自付和自费",
@@ -6987,6 +7011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 177485,
+      "num": 177485,
+      "word": "舍不得星星",
+      "onboard_time": 1727954179,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 177419,
       "num": 177419,
       "word": "A股还能再涨吗",
@@ -7001,6 +7033,14 @@
       "onboard_time": 1727788880,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 177262,
+      "num": 177262,
+      "word": "差点没认出来林允",
+      "onboard_time": 1727954779,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 176960,
@@ -7156,7 +7196,7 @@
     },
     {
       "raw_hot": 173062,
-      "num": 424971,
+      "num": 449673,
       "word": "孙颖莎王艺迪3比0杜凯琹刘杨子",
       "onboard_time": 1727951898,
       "rank": 32,
@@ -7825,6 +7865,14 @@
       "onboard_time": 1727737396,
       "rank": 28,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 159291,
+      "num": 159291,
+      "word": "十个勤天",
+      "onboard_time": 1727954900,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 159057,
@@ -8523,6 +8571,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 145747,
+      "num": 145747,
+      "word": "高铁上遇到顶级rapper",
+      "onboard_time": 1727953638,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 145553,
       "num": 145553,
       "word": "深圳全城万架无人机表演为祖国庆生",
@@ -8833,6 +8889,14 @@
       "onboard_time": 1727922617,
       "rank": 31,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 140247,
+      "num": 140247,
+      "word": "第一次见情绪这么稳定的猴子",
+      "onboard_time": 1727949858,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 140112,
@@ -9539,14 +9603,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 131631,
-      "num": 131631,
-      "word": "第一次见情绪这么稳定的猴子",
-      "onboard_time": 1727949858,
-      "rank": 40,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 131629,
       "num": 131629,
       "word": "中年人恋爱就像老房子着火",
@@ -9561,6 +9617,14 @@
       "onboard_time": 1727930598,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 131541,
+      "num": 131541,
+      "word": "伊朗与真主党内部启动除奸行动",
+      "onboard_time": 1727954539,
+      "rank": 38,
+      "category": "国外时政"
     },
     {
       "raw_hot": 131525,
@@ -10299,14 +10363,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 120652,
-      "num": 120652,
-      "word": "赵丽颖刘烨肖央三个戏疯子",
-      "onboard_time": 1727954059,
-      "rank": 37,
-      "category": "电影"
-    },
-    {
       "raw_hot": 120636,
       "num": 120636,
       "word": "易烊千玺畅游异国街头",
@@ -10369,6 +10425,14 @@
       "onboard_time": 1727605099,
       "rank": 43,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 119673,
+      "num": 119673,
+      "word": "密室大逃脱大神版",
+      "onboard_time": 1727955200,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 119604,
@@ -10675,6 +10739,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 117400,
+      "num": 117400,
+      "word": "哈妮克孜漠风吟唇妆厚的原因",
+      "onboard_time": 1727953879,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 117241,
       "num": 143062,
       "word": "经常喊累的人建议查查甲状腺",
@@ -10867,6 +10939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 114307,
+      "num": 440685,
+      "word": "网信办部署开展为期3个月专项行动",
+      "onboard_time": 1727953398,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 114119,
       "num": 157489,
       "word": "王楚钦做漆扇",
@@ -10921,14 +11001,6 @@
       "onboard_time": 1727574137,
       "rank": 42,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 113551,
-      "num": 113551,
-      "word": "舍不得星星",
-      "onboard_time": 1727954179,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 113400,
@@ -11187,14 +11259,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 108985,
-      "num": 108985,
-      "word": "高铁上遇到顶级rapper",
-      "onboard_time": 1727953638,
-      "rank": 42,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 108966,
       "num": 108966,
       "word": "解雨臣生日谷",
@@ -11321,6 +11385,14 @@
       "onboard_time": 1727698520,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 107282,
+      "num": 443713,
+      "word": "孙颖莎王艺迪女双4强",
+      "onboard_time": 1727951838,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 106840,
@@ -11640,14 +11712,6 @@
       "word": "亚冠",
       "onboard_time": 1727777479,
       "rank": 44,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 102564,
-      "num": 443713,
-      "word": "孙颖莎王艺迪女双4强",
-      "onboard_time": 1727951838,
-      "rank": 16,
       "category": "体育"
     },
     {
@@ -13523,14 +13587,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 52399,
-      "num": 440685,
-      "word": "网信办部署开展为期3个月专项行动",
-      "onboard_time": 1727953398,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 52219,
       "num": 227129,
       "word": "炉石传说",
@@ -14020,7 +14076,7 @@
     },
     {
       "raw_hot": 39715,
-      "num": 123823,
+      "num": 441916,
       "word": "网信办集中整治五类突出问题",
       "onboard_time": 1727953984,
       "rank": 36,
