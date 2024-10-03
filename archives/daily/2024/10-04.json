@@ -1,6 +1,6 @@
 {
   "startTime": 1727972886536,
-  "endTime": 1727980207579,
+  "endTime": 1727981017030,
   "band_list": [
     {
       "raw_hot": 695912,
@@ -235,6 +235,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 131733,
+      "num": 61564,
+      "word": "100多名美国公民及其亲属撤出黎巴嫩",
+      "onboard_time": 1727976674,
+      "rank": 43,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 131102,
       "num": 131102,
       "word": "宋亚轩的抽象超乎我的想象",
@@ -387,14 +395,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 77670,
-      "num": 61564,
-      "word": "100多名美国公民及其亲属撤出黎巴嫩",
-      "onboard_time": 1727976674,
-      "rank": 43,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 75822,
       "num": 75822,
       "word": "薛之谦自拍",
@@ -475,12 +475,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 35426,
+      "num": 35426,
+      "word": "超3万人给749局打1星",
+      "onboard_time": 1727980212,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 33248,
       "num": 44237,
       "word": "流水迢迢 oe",
       "onboard_time": 1727952199,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 29485,
+      "num": 29485,
+      "word": "姥姥的外孙代表泰国角逐奥斯卡",
+      "onboard_time": 1727980693,
+      "rank": 45,
+      "category": "电影"
     },
     {
       "raw_hot": 24333,
@@ -499,7 +515,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 13866,
+      "raw_hot": 14501,
       "num": 61438,
       "word": "人民海军发布2024招飞宣传片",
       "onboard_time": 1727979072,
@@ -515,7 +531,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 11432,
+      "raw_hot": 11958,
       "num": 44116,
       "word": "民警搀扶佩戴勋章的老人看升旗",
       "onboard_time": 1727979554,
