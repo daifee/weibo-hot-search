@@ -1,9 +1,9 @@
 {
   "startTime": 1727972886536,
-  "endTime": 1727997740938,
+  "endTime": 1727998586616,
   "band_list": [
     {
-      "raw_hot": 695912,
+      "raw_hot": 765024,
       "num": 166809,
       "word": "中方警告一场全面战争一触即发",
       "onboard_time": 1727946619,
@@ -36,11 +36,19 @@
     },
     {
       "raw_hot": 362142,
-      "num": 845598,
+      "num": 853717,
       "word": "中国海警现身阿拉斯加附近打乱美国布局",
       "onboard_time": 1727963000,
       "rank": 0,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 361488,
+      "num": 113919,
+      "word": "脸与身材严重不符具像化了",
+      "onboard_time": 1727997795,
+      "rank": 20,
+      "category": "幽默"
     },
     {
       "raw_hot": 334445,
@@ -83,6 +91,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 267175,
+      "num": 121839,
+      "word": "大陆女生勇闯台湾娱乐圈",
+      "onboard_time": 1727970080,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 257417,
+      "num": 150616,
+      "word": "假期去冰岛旅游的人已经后悔了",
+      "onboard_time": 1727965460,
+      "rank": 26,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 245061,
       "num": 740003,
       "word": "俄扣押美国两家银行数亿美元资金",
@@ -99,14 +123,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 237349,
-      "num": 121839,
-      "word": "大陆女生勇闯台湾娱乐圈",
-      "onboard_time": 1727970080,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 213338,
       "num": 213338,
       "word": "长沙坡子街派出所成热门打卡地",
@@ -121,6 +137,14 @@
       "onboard_time": 1727954779,
       "rank": 19,
       "category": "电影"
+    },
+    {
+      "raw_hot": 201612,
+      "num": 114741,
+      "word": "退伍军人跳海救人未果大喊我尽力了",
+      "onboard_time": 1727994552,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 199115,
@@ -155,19 +179,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 183793,
-      "num": 150616,
-      "word": "假期去冰岛旅游的人已经后悔了",
-      "onboard_time": 1727965460,
-      "rank": 26,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 183514,
       "num": 162993,
       "word": "贵州织金发生山体垮塌6人死亡",
       "onboard_time": 1727971159,
       "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 174149,
+      "num": 162199,
+      "word": "幼童车祸后做CT发现1年前磁力珠",
+      "onboard_time": 1727964981,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -187,6 +211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 166304,
+      "num": 145996,
+      "word": "堵车演唱会开在了音效最好的地方",
+      "onboard_time": 1727969000,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 162751,
       "num": 162751,
       "word": "TES战胜T1",
@@ -195,27 +227,11 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 162199,
-      "num": 162199,
-      "word": "幼童车祸后做CT发现1年前磁力珠",
-      "onboard_time": 1727964981,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 158395,
       "num": 158395,
       "word": "给老人设计的拐杖却被年轻人买爆",
       "onboard_time": 1727950759,
       "rank": 24,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 156867,
-      "num": 145996,
-      "word": "堵车演唱会开在了音效最好的地方",
-      "onboard_time": 1727969000,
-      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -227,7 +243,7 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 141995,
+      "raw_hot": 146704,
       "num": 118628,
       "word": "伊朗称将非常规回应以色列袭击",
       "onboard_time": 1727972837,
@@ -299,12 +315,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 113054,
-      "num": 113054,
-      "word": "退伍军人跳海救人未果大喊我尽力了",
-      "onboard_time": 1727994552,
-      "rank": 40,
-      "category": "社会新闻"
+      "raw_hot": 115897,
+      "num": 115897,
+      "word": "孙颖莎分享在家幸福日常",
+      "onboard_time": 1727996954,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 104532,
@@ -313,6 +329,14 @@
       "onboard_time": 1727966001,
       "rank": 35,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 104016,
+      "num": 104016,
+      "word": "周冬雨宋仲基破次元同框",
+      "onboard_time": 1727997676,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 102127,
@@ -363,6 +387,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 91362,
+      "num": 91362,
+      "word": "潘玮柏二刷的杭州面馆1天卖千碗",
+      "onboard_time": 1727986510,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 87138,
+      "num": 87138,
+      "word": "S14瑞士轮",
+      "onboard_time": 1727961020,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 86647,
       "num": 86647,
       "word": "马龙回应是否让儿子打乒乓球",
@@ -395,14 +435,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 83459,
-      "num": 83459,
-      "word": "孙颖莎分享在家幸福日常",
-      "onboard_time": 1727996954,
-      "rank": 26,
-      "category": "体育"
-    },
-    {
       "raw_hot": 83274,
       "num": 83274,
       "word": "陈数 只此青绿中式美学天花板",
@@ -411,8 +443,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 79786,
-      "num": 79786,
+      "raw_hot": 80121,
+      "num": 80121,
       "word": "董洁大女主赛道",
       "onboard_time": 1727993172,
       "rank": 36,
@@ -427,12 +459,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 78799,
-      "num": 78799,
-      "word": "潘玮柏二刷的杭州面馆1天卖千碗",
-      "onboard_time": 1727986510,
-      "rank": 46,
-      "category": "艺人"
+      "raw_hot": 79382,
+      "num": 79382,
+      "word": "终于有胳膊肘向内拐的剧",
+      "onboard_time": 1727992632,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 78784,
@@ -443,6 +475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 75963,
+      "num": 75963,
+      "word": "被国产剧一群脆皮00后刀到了",
+      "onboard_time": 1727996655,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 75822,
       "num": 75822,
       "word": "薛之谦自拍",
@@ -451,28 +491,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 72623,
+      "num": 72623,
+      "word": "波尔图3比3曼联",
+      "onboard_time": 1727997855,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 72324,
+      "num": 72324,
+      "word": "以色列遍地防空设施黎巴嫩却难有",
+      "onboard_time": 1727984471,
+      "rank": 23,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 66069,
       "num": 74492,
       "word": "马龙说我年龄也不算大",
       "onboard_time": 1727965160,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 65363,
-      "num": 65363,
-      "word": "终于有胳膊肘向内拐的剧",
-      "onboard_time": 1727992632,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 64249,
-      "num": 64249,
-      "word": "以色列遍地防空设施黎巴嫩却难有",
-      "onboard_time": 1727984471,
-      "rank": 23,
-      "category": "国外时政"
     },
     {
       "raw_hot": 62770,
@@ -491,12 +531,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 61397,
+      "num": 61397,
+      "word": "S14瑞士轮抽签",
+      "onboard_time": 1727998216,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 59855,
       "num": 59855,
       "word": "旅游睡厕所算没苦硬吃吗",
       "onboard_time": 1727991731,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 58783,
+      "num": 58783,
+      "word": "超3万人给749局打1星",
+      "onboard_time": 1727980212,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 52011,
@@ -507,12 +563,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 50823,
-      "num": 50823,
-      "word": "超3万人给749局打1星",
-      "onboard_time": 1727980212,
-      "rank": 33,
-      "category": "电影"
+      "raw_hot": 50087,
+      "num": 50087,
+      "word": "黎称以对黎袭击已致超2000人死亡",
+      "onboard_time": 1727997435,
+      "rank": 45,
+      "category": "国外时政"
     },
     {
       "raw_hot": 49063,
@@ -531,14 +587,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 48375,
-      "num": 48375,
-      "word": "被国产剧一群脆皮00后刀到了",
-      "onboard_time": 1727996655,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 46217,
       "num": 48395,
       "word": "陈梦闪现崂山为青岛上大分",
@@ -553,22 +601,6 @@
       "onboard_time": 1727959279,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 36845,
-      "num": 48273,
-      "word": "黎称以对黎袭击已致超2000人死亡",
-      "onboard_time": 1727997435,
-      "rank": 45,
-      "category": "国外时政"
-    },
-    {
-      "raw_hot": 34516,
-      "num": 48196,
-      "word": "周冬雨宋仲基破次元同框",
-      "onboard_time": 1727997676,
-      "rank": 48,
-      "category": "电影"
     },
     {
       "raw_hot": 33248,
@@ -668,7 +700,7 @@
     },
     {
       "raw_hot": 12687,
-      "num": 199082,
+      "num": 205083,
       "word": "大型纪录片为了新中国",
       "onboard_time": 1727962460,
       "rank": 2,
@@ -697,6 +729,14 @@
       "onboard_time": 1727982911,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 9163,
+      "num": 114363,
+      "word": "TizzyT直播",
+      "onboard_time": 1727998395,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 5431,
