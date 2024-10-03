@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1727966415939,
+  "endTime": 1727969074617,
   "band_list": [
     {
       "raw_hot": 11925969,
@@ -576,6 +576,14 @@
       "word": "驻日美军承认用含氟化物灭火剂19年",
       "onboard_time": 1727922496,
       "rank": 3,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 777547,
+      "num": 267930,
+      "word": "以色列",
+      "onboard_time": 1727966539,
+      "rank": 11,
       "category": "国外时政"
     },
     {
@@ -1251,6 +1259,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 516314,
+      "num": 257971,
+      "word": "GEN对战WBG",
+      "onboard_time": 1727966001,
+      "rank": 14,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 510705,
       "num": 470744,
       "word": "749局豆瓣开分5.0",
@@ -1603,6 +1619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 417559,
+      "num": 249869,
+      "word": "何秋亊请假",
+      "onboard_time": 1727966901,
+      "rank": 20,
+      "category": "网红"
+    },
+    {
       "raw_hot": 416302,
       "num": 244823,
       "word": "恒大地产和许家印等被处分",
@@ -1625,6 +1649,14 @@
       "onboard_time": 1727709680,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 413949,
+      "num": 264505,
+      "word": "GEN战胜WBG",
+      "onboard_time": 1727968760,
+      "rank": 14,
+      "category": "电竞"
     },
     {
       "raw_hot": 409335,
@@ -1731,6 +1763,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 381945,
+      "num": 381945,
+      "word": "夫妻在广州看房不到3小时下定金",
+      "onboard_time": 1727967139,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 381256,
       "num": 332808,
       "word": "向佐 鼻梁中有老婆",
@@ -1803,6 +1843,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 364923,
+      "num": 251784,
+      "word": "田曦薇眼技",
+      "onboard_time": 1727965760,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 363288,
       "num": 296654,
       "word": "伊藤美诚3比2金娜英",
@@ -1817,6 +1865,14 @@
       "onboard_time": 1727924837,
       "rank": 44,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 360158,
+      "num": 245797,
+      "word": "幼童车祸后做CT发现1年前磁力珠",
+      "onboard_time": 1727964981,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 359253,
@@ -1979,6 +2035,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 327951,
+      "num": 327951,
+      "word": "凤凰浴火重生这一刻具象化了",
+      "onboard_time": 1727967499,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 327212,
       "num": 327212,
       "word": "胡军包场",
@@ -2041,14 +2105,6 @@
       "onboard_time": 1727792121,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 312690,
-      "num": 223335,
-      "word": "幼童车祸后做CT发现1年前磁力珠",
-      "onboard_time": 1727964981,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 312482,
@@ -2851,6 +2907,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 238152,
+      "num": 238152,
+      "word": "假期去冰岛旅游的人已经后悔了",
+      "onboard_time": 1727965460,
+      "rank": 27,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 238089,
       "num": 238089,
       "word": "国庆第1天西湖人从众",
@@ -3347,14 +3411,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 207120,
-      "num": 207120,
-      "word": "假期去冰岛旅游的人已经后悔了",
-      "onboard_time": 1727965460,
-      "rank": 27,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 207070,
       "num": 207070,
       "word": "马龙一家四口同框",
@@ -3643,12 +3699,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 194630,
+      "num": 194630,
+      "word": "马龙说我年龄也不算大",
+      "onboard_time": 1727965160,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 194508,
       "num": 194508,
       "word": "P人有的是手段拿捏时间",
       "onboard_time": 1727776219,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 194207,
+      "num": 189070,
+      "word": "东京食尸鬼 蜈蚣耳塞",
+      "onboard_time": 1727968338,
+      "rank": 30,
+      "category": "动漫"
     },
     {
       "raw_hot": 194094,
@@ -3687,14 +3759,6 @@
       "num": 413325,
       "word": "半熟男女 克服弱者羞耻",
       "onboard_time": 1727756780,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 193720,
-      "num": 193720,
-      "word": "田曦薇眼技",
-      "onboard_time": 1727965760,
       "rank": 28,
       "category": "剧集"
     },
@@ -3913,14 +3977,6 @@
       "onboard_time": 1727876539,
       "rank": 28,
       "category": "电影"
-    },
-    {
-      "raw_hot": 188191,
-      "num": 188191,
-      "word": "马龙说我年龄也不算大",
-      "onboard_time": 1727965160,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 188067,
@@ -4275,6 +4331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 175560,
+      "num": 175560,
+      "word": "江慈为卫昭留下一子",
+      "onboard_time": 1727968579,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 175470,
       "num": 175470,
       "word": "阴阳师",
@@ -4289,6 +4353,14 @@
       "onboard_time": 1727866819,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 175233,
+      "num": 175233,
+      "word": "京城大师赛",
+      "onboard_time": 1727967860,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 174862,
@@ -4329,6 +4401,14 @@
       "onboard_time": 1727940678,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 173368,
+      "num": 173368,
+      "word": "五百肖央盛赞赵丽颖",
+      "onboard_time": 1727968760,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 173062,
@@ -4507,6 +4587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 166212,
+      "num": 166212,
+      "word": "银川特产硬控每一个外地人",
+      "onboard_time": 1727967919,
+      "rank": 35,
+      "category": "美食"
+    },
+    {
       "raw_hot": 165535,
       "num": 165535,
       "word": "749局剧情",
@@ -4609,6 +4697,14 @@
       "onboard_time": 1727754318,
       "rank": 37,
       "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 161448,
+      "num": 161448,
+      "word": "Faker状态",
+      "onboard_time": 1727967499,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 161292,
@@ -4881,6 +4977,14 @@
       "onboard_time": 1727708481,
       "rank": 8,
       "category": "电影"
+    },
+    {
+      "raw_hot": 153124,
+      "num": 153124,
+      "word": "花海达成KPL首个3000击杀",
+      "onboard_time": 1727968338,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 152902,
@@ -5209,6 +5313,14 @@
       "onboard_time": 1727938518,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 142917,
+      "num": 142917,
+      "word": "薛之谦自拍",
+      "onboard_time": 1727967020,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 142899,
@@ -5643,6 +5755,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 132538,
+      "num": 132538,
+      "word": "陈数 只此青绿中式美学天花板",
+      "onboard_time": 1727966959,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 132469,
       "num": 237167,
       "word": "国庆假期他们坚守战位的样子真帅",
@@ -5883,6 +6003,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 126799,
+      "num": 126799,
+      "word": "林高远说打完比赛饭都来不及吃",
+      "onboard_time": 1727967020,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 126661,
       "num": 126661,
       "word": "A股疯涨专家提醒笑不露齿",
@@ -5953,6 +6081,14 @@
       "onboard_time": 1727794103,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 125130,
+      "num": 278319,
+      "word": "这不是特效是中国非遗表演",
+      "onboard_time": 1727967860,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 124504,
@@ -6265,6 +6401,14 @@
       "onboard_time": 1727768778,
       "rank": 34,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 117436,
+      "num": 117436,
+      "word": "堵车演唱会开在了音效最好的地方",
+      "onboard_time": 1727969000,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 117400,
@@ -6785,14 +6929,6 @@
       "onboard_time": 1727923997,
       "rank": 42,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 105647,
-      "num": 227307,
-      "word": "GEN对战WBG",
-      "onboard_time": 1727966001,
-      "rank": 14,
-      "category": "电竞"
     },
     {
       "raw_hot": 105462,

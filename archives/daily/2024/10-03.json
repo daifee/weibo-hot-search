@@ -1,6 +1,6 @@
 {
   "startTime": 1727886505064,
-  "endTime": 1727966415939,
+  "endTime": 1727969074617,
   "band_list": [
     {
       "raw_hot": 1907090,
@@ -160,6 +160,14 @@
       "word": "驻日美军承认用含氟化物灭火剂19年",
       "onboard_time": 1727922496,
       "rank": 3,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 777547,
+      "num": 267930,
+      "word": "以色列",
+      "onboard_time": 1727966539,
+      "rank": 11,
       "category": "国外时政"
     },
     {
@@ -347,6 +355,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 516314,
+      "num": 257971,
+      "word": "GEN对战WBG",
+      "onboard_time": 1727966001,
+      "rank": 14,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 514606,
       "num": 869993,
       "word": "郑钦文vs阿尼西莫娃",
@@ -507,6 +523,22 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 417559,
+      "num": 249869,
+      "word": "何秋亊请假",
+      "onboard_time": 1727966901,
+      "rank": 20,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 413949,
+      "num": 264505,
+      "word": "GEN战胜WBG",
+      "onboard_time": 1727968760,
+      "rank": 14,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 405087,
       "num": 331396,
       "word": "伊朗袭击以色列美军舰参与拦截",
@@ -529,6 +561,14 @@
       "onboard_time": 1727926457,
       "rank": 31,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 381945,
+      "num": 381945,
+      "word": "夫妻在广州看房不到3小时下定金",
+      "onboard_time": 1727967139,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 381256,
@@ -587,6 +627,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 364923,
+      "num": 251784,
+      "word": "田曦薇眼技",
+      "onboard_time": 1727965760,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 363288,
       "num": 296654,
       "word": "伊藤美诚3比2金娜英",
@@ -601,6 +649,14 @@
       "onboard_time": 1727924837,
       "rank": 44,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 360158,
+      "num": 245797,
+      "word": "幼童车祸后做CT发现1年前磁力珠",
+      "onboard_time": 1727964981,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 353018,
@@ -675,6 +731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 327951,
+      "num": 327951,
+      "word": "凤凰浴火重生这一刻具象化了",
+      "onboard_time": 1727967499,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 319669,
       "num": 319669,
       "word": "医护用一个谎言从日军手中救人",
@@ -689,14 +753,6 @@
       "onboard_time": 1727941158,
       "rank": 14,
       "category": "电影"
-    },
-    {
-      "raw_hot": 312690,
-      "num": 223335,
-      "word": "幼童车祸后做CT发现1年前磁力珠",
-      "onboard_time": 1727964981,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 311102,
@@ -1027,6 +1083,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 238152,
+      "num": 238152,
+      "word": "假期去冰岛旅游的人已经后悔了",
+      "onboard_time": 1727965460,
+      "rank": 27,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 237239,
       "num": 360751,
       "word": "钟汉良与绝症孩子保持联系十几年",
@@ -1179,14 +1243,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 207120,
-      "num": 207120,
-      "word": "假期去冰岛旅游的人已经后悔了",
-      "onboard_time": 1727965460,
-      "rank": 27,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 205771,
       "num": 440503,
       "word": "美国石英小镇暂停采矿全球芯慌",
@@ -1267,6 +1323,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 194630,
+      "num": 194630,
+      "word": "马龙说我年龄也不算大",
+      "onboard_time": 1727965160,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 194207,
+      "num": 189070,
+      "word": "东京食尸鬼 蜈蚣耳塞",
+      "onboard_time": 1727968338,
+      "rank": 30,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 194094,
       "num": 174961,
       "word": "少儿频道是月亮姐姐最好的医美",
@@ -1281,14 +1353,6 @@
       "onboard_time": 1727931259,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 193720,
-      "num": 193720,
-      "word": "田曦薇眼技",
-      "onboard_time": 1727965760,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 193398,
@@ -1353,14 +1417,6 @@
       "onboard_time": 1727937918,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 188191,
-      "num": 188191,
-      "word": "马龙说我年龄也不算大",
-      "onboard_time": 1727965160,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 185623,
@@ -1451,6 +1507,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 175560,
+      "num": 175560,
+      "word": "江慈为卫昭留下一子",
+      "onboard_time": 1727968579,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 175233,
+      "num": 175233,
+      "word": "京城大师赛",
+      "onboard_time": 1727967860,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 174862,
       "num": 174862,
       "word": "突然发现自己的语言能力退化了",
@@ -1481,6 +1553,14 @@
       "onboard_time": 1727940678,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 173368,
+      "num": 173368,
+      "word": "五百肖央盛赞赵丽颖",
+      "onboard_time": 1727968760,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 173062,
@@ -1579,6 +1659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 166212,
+      "num": 166212,
+      "word": "银川特产硬控每一个外地人",
+      "onboard_time": 1727967919,
+      "rank": 35,
+      "category": "美食"
+    },
+    {
       "raw_hot": 163868,
       "num": 324130,
       "word": "郑钦文晋级获得130万奖金",
@@ -1593,6 +1681,14 @@
       "onboard_time": 1727882720,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 161448,
+      "num": 161448,
+      "word": "Faker状态",
+      "onboard_time": 1727967499,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 160016,
@@ -1681,6 +1777,14 @@
       "onboard_time": 1727961800,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 153124,
+      "num": 153124,
+      "word": "花海达成KPL首个3000击杀",
+      "onboard_time": 1727968338,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 152999,
@@ -1801,6 +1905,14 @@
       "onboard_time": 1727938518,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 142917,
+      "num": 142917,
+      "word": "薛之谦自拍",
+      "onboard_time": 1727967020,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 142547,
@@ -1979,6 +2091,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 132538,
+      "num": 132538,
+      "word": "陈数 只此青绿中式美学天花板",
+      "onboard_time": 1727966959,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 132376,
       "num": 132376,
       "word": "唠这个侯明昊可就不困了",
@@ -2083,6 +2203,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 126799,
+      "num": 126799,
+      "word": "林高远说打完比赛饭都来不及吃",
+      "onboard_time": 1727967020,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 126335,
       "num": 126335,
       "word": "虎先锋在杭州已经加了三天班了",
@@ -2097,6 +2225,14 @@
       "onboard_time": 1727917997,
       "rank": 33,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 125130,
+      "num": 278319,
+      "word": "这不是特效是中国非遗表演",
+      "onboard_time": 1727967860,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 124300,
@@ -2225,6 +2361,14 @@
       "onboard_time": 1727944579,
       "rank": 42,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 117436,
+      "num": 117436,
+      "word": "堵车演唱会开在了音效最好的地方",
+      "onboard_time": 1727969000,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 117400,
@@ -2457,14 +2601,6 @@
       "onboard_time": 1727923997,
       "rank": 42,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 105647,
-      "num": 227307,
-      "word": "GEN对战WBG",
-      "onboard_time": 1727966001,
-      "rank": 14,
-      "category": "电竞"
     },
     {
       "raw_hot": 104361,
