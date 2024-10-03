@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1727955329374,
+  "endTime": 1727959349896,
   "band_list": [
     {
       "raw_hot": 11925969,
@@ -499,6 +499,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 805285,
+      "num": 194960,
+      "word": "差点没认出来林允",
+      "onboard_time": 1727954779,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 802965,
       "num": 293347,
       "word": "时代少年团棉花娃娃",
@@ -657,6 +665,14 @@
       "onboard_time": 1727705540,
       "rank": 12,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 719481,
+      "num": 1115116,
+      "word": "马龙vs李尚洙",
+      "onboard_time": 1727958020,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 708407,
@@ -897,6 +913,14 @@
       "onboard_time": 1727787440,
       "rank": 26,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 611940,
+      "num": 194934,
+      "word": "多名游客挤在黄山景区厕所过夜",
+      "onboard_time": 1727957121,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 608309,
@@ -1169,6 +1193,14 @@
       "onboard_time": 1727838679,
       "rank": 24,
       "category": "电影"
+    },
+    {
+      "raw_hot": 510097,
+      "num": 194884,
+      "word": "迪丽热巴晚间溜达七宫格",
+      "onboard_time": 1727956280,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 510018,
@@ -1683,6 +1715,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 363288,
+      "num": 194849,
+      "word": "伊藤美诚3比2金娜英",
+      "onboard_time": 1727957299,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 362801,
       "num": 287820,
       "word": "多国反对以色列禁止古特雷斯入境",
@@ -2144,6 +2184,14 @@
       "word": "仙台有树",
       "onboard_time": 1727946019,
       "rank": 24,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 284736,
+      "num": 284736,
+      "word": "半熟男女 爱人先爱己",
+      "onboard_time": 1727956219,
+      "rank": 4,
       "category": "剧集"
     },
     {
@@ -2651,6 +2699,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 237239,
+      "num": 237239,
+      "word": "钟汉良与绝症孩子保持联系十几年",
+      "onboard_time": 1727955799,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 236864,
       "num": 236864,
       "word": "莫雷加德3比2张本智和",
@@ -2883,6 +2939,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 223155,
+      "num": 194788,
+      "word": "徐冬冬谈和赵丽颖合作感受",
+      "onboard_time": 1727958320,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
       "raw_hot": 222789,
       "num": 231841,
       "word": "陈丽君谈更多年轻人喜欢上越剧",
@@ -3057,6 +3121,14 @@
       "onboard_time": 1727858838,
       "rank": 23,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 211867,
+      "num": 211867,
+      "word": "孙颖莎8强对阵伊藤美诚",
+      "onboard_time": 1727958620,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 211262,
@@ -3371,6 +3443,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 194971,
+      "num": 194971,
+      "word": "林高远6小时三战",
+      "onboard_time": 1727955560,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 194739,
+      "num": 194739,
+      "word": "陈立农家仓库屋顶被台风吹跑了",
+      "onboard_time": 1727958380,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 194508,
       "num": 194508,
       "word": "P人有的是手段拿捏时间",
@@ -3667,6 +3755,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 186272,
+      "num": 186272,
+      "word": "749局会征服每一个小孩哥",
+      "onboard_time": 1727957659,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 185651,
       "num": 185651,
       "word": "2024KPL年度总决赛",
@@ -3827,6 +3923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 178815,
+      "num": 178815,
+      "word": "伊朗和以色列代表当面互相警告",
+      "onboard_time": 1727955619,
+      "rank": 30,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 178538,
       "num": 178538,
       "word": "香港烟花",
@@ -3897,14 +4001,6 @@
       "onboard_time": 1727788880,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 177262,
-      "num": 177262,
-      "word": "差点没认出来林允",
-      "onboard_time": 1727954779,
-      "rank": 29,
-      "category": "电影"
     },
     {
       "raw_hot": 176836,
@@ -4035,6 +4131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 172332,
+      "num": 172332,
+      "word": "男子向多名同事借钱后人消失了",
+      "onboard_time": 1727956340,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 171622,
       "num": 171622,
       "word": "王楚钦蓄势待发",
@@ -4065,6 +4169,14 @@
       "onboard_time": 1727865139,
       "rank": 43,
       "category": "财经"
+    },
+    {
+      "raw_hot": 169863,
+      "num": 167344,
+      "word": "高铁上遇到顶级rapper",
+      "onboard_time": 1727953638,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 169310,
@@ -4105,6 +4217,14 @@
       "onboard_time": 1727953040,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 167576,
+      "num": 167576,
+      "word": "周启豪vs梁靖崑",
+      "onboard_time": 1727956640,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 167524,
@@ -4275,6 +4395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 160513,
+      "num": 160513,
+      "word": "F勒布伦急得直蹦",
+      "onboard_time": 1727958859,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 160016,
       "num": 160016,
       "word": "赵今麦刘浩存张元英官方认领图",
@@ -4377,6 +4505,14 @@
       "onboard_time": 1727822293,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 158444,
+      "num": 158444,
+      "word": "BLG对战MDK",
+      "onboard_time": 1727957121,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 158109,
@@ -4739,12 +4875,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 145747,
-      "num": 145747,
-      "word": "高铁上遇到顶级rapper",
-      "onboard_time": 1727953638,
-      "rank": 42,
-      "category": "幽默"
+      "raw_hot": 145843,
+      "num": 145843,
+      "word": "梁靖崑3比2战胜周启豪",
+      "onboard_time": 1727957540,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 145553,
@@ -4857,6 +4993,14 @@
       "onboard_time": 1727886797,
       "rank": 24,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 142412,
+      "num": 142412,
+      "word": "电影浴火之路票房破2亿",
+      "onboard_time": 1727958739,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 141738,
@@ -5563,6 +5707,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 123257,
+      "num": 123257,
+      "word": "徐嘉余买冰淇淋老板娘竟没认出代言人",
+      "onboard_time": 1727955738,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 122801,
       "num": 122801,
       "word": "JDG反应游戏节目效果拉满",
@@ -5689,6 +5841,14 @@
       "onboard_time": 1727778438,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 119107,
+      "num": 119107,
+      "word": "只此青绿张翰情绪爆发戏",
+      "onboard_time": 1727957420,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 119074,
@@ -5955,6 +6115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 113928,
+      "num": 194874,
+      "word": "好了好了知道你在过国庆了",
+      "onboard_time": 1727958020,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 113678,
       "num": 113678,
       "word": "魏大勋开机路透",
@@ -6177,6 +6345,14 @@
       "onboard_time": 1727738657,
       "rank": 34,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 107994,
+      "num": 107994,
+      "word": "向佐 鼻梁中有老婆",
+      "onboard_time": 1727959279,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 107806,
@@ -7947,6 +8123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 39995,
+      "num": 194766,
+      "word": "跟着戏曲打卡大美中国",
+      "onboard_time": 1727959219,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 39904,
       "num": 308749,
       "word": "听完这三句跨时空回答泪流满面",
@@ -8305,6 +8489,14 @@
       "onboard_time": 1727796380,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 27968,
+      "num": 194905,
+      "word": "港股波动是正常的无需担心牛市结束",
+      "onboard_time": 1727959219,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 27939,
@@ -8721,6 +8913,14 @@
       "onboard_time": 1727944878,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 6086,
+      "num": 180071,
+      "word": "马龙晋级中国大满贯8强",
+      "onboard_time": 1727959279,
+      "rank": 29,
+      "category": "体育"
     }
   ],
   "hotgov_list": [
