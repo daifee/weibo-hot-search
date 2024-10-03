@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1727940951378,
+  "endTime": 1727944115414,
   "band_list": [
     {
       "raw_hot": 11925969,
@@ -187,6 +187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1241189,
+      "num": 1241189,
+      "word": "100斤女警穿70斤衣服排爆",
+      "onboard_time": 1727940258,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1223265,
       "num": 448611,
       "word": "美方呼吁世界各国一道谴责伊朗",
@@ -233,6 +241,14 @@
       "onboard_time": 1727867478,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1164353,
+      "num": 160631,
+      "word": "成毅吊威亚摔在了台阶上",
+      "onboard_time": 1727942478,
+      "rank": 10,
+      "category": "剧集"
     },
     {
       "raw_hot": 1150396,
@@ -1179,6 +1195,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 470768,
+      "num": 160364,
+      "word": "穆婷婷复刻冷冰心",
+      "onboard_time": 1727943078,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 465493,
       "num": 365145,
       "word": "offer6带教 香港首位内地女性大律师",
@@ -1723,6 +1747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 317409,
+      "num": 160309,
+      "word": "749局 奥特曼",
+      "onboard_time": 1727941158,
+      "rank": 14,
+      "category": "电影"
+    },
+    {
       "raw_hot": 315462,
       "num": 315462,
       "word": "伊藤美诚3比0倪夏莲",
@@ -1777,6 +1809,14 @@
       "onboard_time": 1727910494,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 307917,
+      "num": 160150,
+      "word": "林高远王艺迪进混双决赛",
+      "onboard_time": 1727940618,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 306086,
@@ -2025,6 +2065,14 @@
       "onboard_time": 1727880441,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 275267,
+      "num": 159783,
+      "word": "厕纸到底应该冲掉还是扔纸篓",
+      "onboard_time": 1727939777,
+      "rank": 49,
+      "category": "科学科普"
     },
     {
       "raw_hot": 274826,
@@ -2379,6 +2427,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 242729,
+      "num": 198961,
+      "word": "阿姨用脚后跟给小狗来了一套颠勺",
+      "onboard_time": 1727938937,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 241657,
       "num": 643407,
       "word": "盛世中华吾辈有幸",
@@ -2441,14 +2497,6 @@
       "onboard_time": 1727756661,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 236251,
-      "num": 198961,
-      "word": "阿姨用脚后跟给小狗来了一套颠勺",
-      "onboard_time": 1727938937,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 236011,
@@ -2803,6 +2851,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 212638,
+      "num": 160220,
+      "word": "99年出生女警成为一名排爆手",
+      "onboard_time": 1727940798,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 212200,
       "num": 582795,
       "word": "美媒爆以色列计划重大报复伊朗",
@@ -2833,14 +2889,6 @@
       "onboard_time": 1727776280,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 208106,
-      "num": 208106,
-      "word": "100斤女警穿70斤衣服排爆",
-      "onboard_time": 1727940258,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 207822,
@@ -3435,6 +3483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 184184,
+      "num": 159866,
+      "word": "张本智和说想进一次8强",
+      "onboard_time": 1727939717,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 184154,
       "num": 184154,
       "word": "李梦蓝盈莹巴黎偶遇",
@@ -3667,6 +3723,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 173805,
+      "num": 159580,
+      "word": "刘璇给二十岁女孩的忠告",
+      "onboard_time": 1727940678,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 172740,
       "num": 172740,
       "word": "胡辣汤终于对咖啡下手了",
@@ -3713,6 +3777,14 @@
       "onboard_time": 1727865139,
       "rank": 43,
       "category": "财经"
+    },
+    {
+      "raw_hot": 169310,
+      "num": 159473,
+      "word": "在深圳中学读书的一天",
+      "onboard_time": 1727940198,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 169199,
@@ -4243,14 +4315,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 149545,
-      "num": 146076,
-      "word": "在深圳中学读书的一天",
-      "onboard_time": 1727940198,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 149502,
       "num": 149502,
       "word": "林俊杰东京演唱会",
@@ -4305,6 +4369,14 @@
       "onboard_time": 1727780479,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 146634,
+      "num": 146634,
+      "word": "我以为的749局",
+      "onboard_time": 1727940798,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 146198,
@@ -4371,28 +4443,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 144465,
-      "num": 144465,
-      "word": "厕纸到底应该冲掉还是扔纸篓",
-      "onboard_time": 1727939777,
-      "rank": 49,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 143976,
       "num": 172735,
       "word": "国庆假期首日北京下雪了",
       "onboard_time": 1727795060,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 143915,
-      "num": 143915,
-      "word": "张本智和说想进一次8强",
-      "onboard_time": 1727939717,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 143555,
@@ -4441,14 +4497,6 @@
       "onboard_time": 1727886797,
       "rank": 24,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 142385,
-      "num": 142385,
-      "word": "林高远王艺迪进混双决赛",
-      "onboard_time": 1727940618,
-      "rank": 37,
-      "category": "体育"
     },
     {
       "raw_hot": 141738,
@@ -4795,6 +4843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 132376,
+      "num": 132376,
+      "word": "唠这个侯明昊可就不困了",
+      "onboard_time": 1727943019,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 132348,
       "num": 132348,
       "word": "伍六七第五季开播",
@@ -5091,14 +5147,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 123223,
-      "num": 123223,
-      "word": "刘璇给二十岁女孩的忠告",
-      "onboard_time": 1727940678,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 122801,
       "num": 122801,
       "word": "JDG反应游戏节目效果拉满",
@@ -5147,6 +5195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 119768,
+      "num": 119768,
+      "word": "肖央哭戏没掉一滴泪",
+      "onboard_time": 1727941098,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 119578,
       "num": 119578,
       "word": "梅西梅开二度",
@@ -5169,6 +5225,14 @@
       "onboard_time": 1727911274,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 119324,
+      "num": 119324,
+      "word": "临沂音乐节",
+      "onboard_time": 1727943378,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 119307,
@@ -5347,6 +5411,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 116330,
+      "num": 116330,
+      "word": "王楚钦说面对勒布伦兄弟做好自己",
+      "onboard_time": 1727942659,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 116042,
       "num": 279768,
       "word": "广州有楼盘1天成交达3.5亿元",
@@ -5443,12 +5515,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 112783,
-      "num": 112783,
-      "word": "我以为的749局",
-      "onboard_time": 1727940798,
-      "rank": 44,
-      "category": "电影"
+      "raw_hot": 112560,
+      "num": 112560,
+      "word": "安陵容蛐蛐完了所有人",
+      "onboard_time": 1727942419,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 112518,
@@ -5555,6 +5627,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 109658,
+      "num": 109658,
+      "word": "杭州萧山人开吃年夜饭了",
+      "onboard_time": 1727941997,
+      "rank": 34,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 109362,
       "num": 109362,
       "word": "高承睿3比1户上隼辅",
@@ -5657,6 +5737,14 @@
       "onboard_time": 1727870478,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 107262,
+      "num": 160667,
+      "word": "独库公路10日20时冬季封闭禁行",
+      "onboard_time": 1727942119,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 106840,
@@ -5835,6 +5923,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 102779,
+      "num": 102779,
+      "word": "家国在这一刻具象化了",
+      "onboard_time": 1727941818,
+      "rank": 39,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 102724,
       "num": 130329,
       "word": "各地国庆氛围已拉满",
@@ -5915,6 +6011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 100877,
+      "num": 100877,
+      "word": "浴火之路 删减",
+      "onboard_time": 1727943977,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 100586,
       "num": 100586,
       "word": "原来蔓越莓是在水里采收的",
@@ -5953,14 +6057,6 @@
       "onboard_time": 1727871259,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 99372,
-      "num": 99372,
-      "word": "99年出生女警成为一名排爆手",
-      "onboard_time": 1727940798,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 99280,
@@ -6091,6 +6187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 95613,
+      "num": 95613,
+      "word": "浴火之路 废弃车架",
+      "onboard_time": 1727943919,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 95568,
       "num": 128487,
       "word": "对祖国的爱在此刻具象化了",
@@ -6131,6 +6235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 95307,
+      "num": 95307,
+      "word": "港股反转可能正在发生",
+      "onboard_time": 1727943618,
+      "rank": 46,
+      "category": "财经"
+    },
+    {
       "raw_hot": 95200,
       "num": 95200,
       "word": "国庆无人景区攻略",
@@ -6153,6 +6265,14 @@
       "onboard_time": 1727748018,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 94115,
+      "num": 94115,
+      "word": "燕窝全场大合唱太美好了",
+      "onboard_time": 1727943439,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 92578,
@@ -6329,6 +6449,14 @@
       "onboard_time": 1727868918,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 84355,
+      "num": 84355,
+      "word": "港股行情",
+      "onboard_time": 1727943738,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 84034,
