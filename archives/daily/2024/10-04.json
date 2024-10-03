@@ -1,6 +1,6 @@
 {
   "startTime": 1727972886536,
-  "endTime": 1727973858965,
+  "endTime": 1727976063504,
   "band_list": [
     {
       "raw_hot": 695912,
@@ -75,20 +75,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 245061,
+      "num": 483654,
+      "word": "俄扣押美国两家银行数亿美元资金",
+      "onboard_time": 1727970738,
+      "rank": 3,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 237677,
       "num": 164237,
       "word": "GEN战胜WBG",
       "onboard_time": 1727968760,
       "rank": 17,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 232811,
-      "num": 232811,
-      "word": "俄扣押美国两家银行数亿美元资金",
-      "onboard_time": 1727970738,
-      "rank": 3,
-      "category": "国外时政"
     },
     {
       "raw_hot": 210299,
@@ -131,6 +131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 168021,
+      "num": 165207,
+      "word": "TL对战LNG",
+      "onboard_time": 1727970920,
+      "rank": 14,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 167975,
       "num": 167975,
       "word": "100斤女警穿70斤衣服排爆",
@@ -152,6 +160,14 @@
       "word": "幼童车祸后做CT发现1年前磁力珠",
       "onboard_time": 1727964981,
       "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 161761,
+      "num": 167258,
+      "word": "国庆堵在隧道众人下车大合唱",
+      "onboard_time": 1727972299,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -243,12 +259,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 117295,
-      "num": 167258,
-      "word": "国庆堵在隧道众人下车大合唱",
-      "onboard_time": 1727972299,
-      "rank": 9,
-      "category": "社会新闻"
+      "raw_hot": 109623,
+      "num": 101045,
+      "word": "伊朗称将非常规回应以色列袭击",
+      "onboard_time": 1727972837,
+      "rank": 48,
+      "category": "国外时政"
     },
     {
       "raw_hot": 104532,
@@ -275,14 +291,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 101045,
-      "num": 101045,
-      "word": "伊朗称将非常规回应以色列袭击",
-      "onboard_time": 1727972837,
-      "rank": 48,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 97180,
       "num": 97180,
       "word": "深圳1家6口放弃旅游改看房",
@@ -305,14 +313,6 @@
       "onboard_time": 1727956219,
       "rank": 8,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 96525,
-      "num": 165207,
-      "word": "TL对战LNG",
-      "onboard_time": 1727970920,
-      "rank": 14,
-      "category": "电竞"
     },
     {
       "raw_hot": 93846,
@@ -403,11 +403,67 @@
       "category": "演出"
     },
     {
-      "raw_hot": 33467,
+      "raw_hot": 49063,
+      "num": 49063,
+      "word": "向佐 鼻梁中有老婆",
+      "onboard_time": 1727959279,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 48889,
       "num": 132595,
       "word": "男子战火逆行救助数百只失去主人动物",
       "onboard_time": 1727973497,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 48685,
+      "num": 48685,
+      "word": "任嘉伦说卫昭没有陆绎狠",
+      "onboard_time": 1727975895,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 46217,
+      "num": 48395,
+      "word": "陈梦闪现崂山为青岛上大分",
+      "onboard_time": 1727973917,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 42554,
+      "num": 48327,
+      "word": "马龙晋级中国大满贯8强",
+      "onboard_time": 1727959279,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 24333,
+      "num": 78357,
+      "word": "我们中国我没有看够",
+      "onboard_time": 1727974217,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 17835,
+      "num": 84435,
+      "word": "红军长征时留下布满弹孔的旗帜",
+      "onboard_time": 1727975955,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 16769,
+      "num": 54959,
+      "word": "长沙坡子街派出所成热门打卡地",
+      "onboard_time": 1727975895,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
