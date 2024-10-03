@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1727960337213,
+  "endTime": 1727962147452,
   "band_list": [
     {
       "raw_hot": 11925969,
@@ -283,6 +283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1140845,
+      "num": 359690,
+      "word": "多名游客挤在黄山景区厕所过夜",
+      "onboard_time": 1727957121,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1132416,
       "num": 1181186,
       "word": "人人人人景点人人人人",
@@ -379,19 +387,19 @@
       "category": "电影"
     },
     {
+      "raw_hot": 977659,
+      "num": 351549,
+      "word": "差点没认出来林允",
+      "onboard_time": 1727954779,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 945157,
       "num": 444053,
       "word": "上海一房东220万卖房临时追加20万",
       "onboard_time": 1727827398,
       "rank": 11,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 944655,
-      "num": 300086,
-      "word": "多名游客挤在黄山景区厕所过夜",
-      "onboard_time": 1727957121,
-      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -505,14 +513,6 @@
       "onboard_time": 1727756300,
       "rank": 9,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 805285,
-      "num": 299128,
-      "word": "差点没认出来林允",
-      "onboard_time": 1727954779,
-      "rank": 29,
-      "category": "电影"
     },
     {
       "raw_hot": 802965,
@@ -1003,6 +1003,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 587106,
+      "num": 1093937,
+      "word": "好了好了知道你在过国庆了",
+      "onboard_time": 1727958020,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 583774,
       "num": 583774,
       "word": "拍开国大典时摄影师被总理紧紧抓住",
@@ -1041,6 +1049,14 @@
       "onboard_time": 1727836280,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 566693,
+      "num": 566693,
+      "word": "马龙晋级中国大满贯8强",
+      "onboard_time": 1727959279,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 564621,
@@ -1172,7 +1188,7 @@
     },
     {
       "raw_hot": 524824,
-      "num": 297271,
+      "num": 326624,
       "word": "迪丽热巴晚间溜达七宫格",
       "onboard_time": 1727956280,
       "rank": 15,
@@ -1225,6 +1241,14 @@
       "onboard_time": 1727827158,
       "rank": 16,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 499428,
+      "num": 499428,
+      "word": "王曼昱vs覃予萱",
+      "onboard_time": 1727960360,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 497315,
@@ -1371,6 +1395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 455126,
+      "num": 329461,
+      "word": "TES对战T1",
+      "onboard_time": 1727960179,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 454478,
       "num": 337612,
       "word": "张韶涵大雨中笑着唱淋雨一直走",
@@ -1515,14 +1547,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 425569,
-      "num": 425569,
-      "word": "好了好了知道你在过国庆了",
-      "onboard_time": 1727958020,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 425255,
       "num": 258163,
       "word": "杨紫被选为巴黎时装周最佳着装",
@@ -1536,6 +1560,14 @@
       "word": "为什么高铁晚上禁止运行",
       "onboard_time": 1727748799,
       "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 421658,
+      "num": 421658,
+      "word": "国庆假期能不能多开点夜间高铁",
+      "onboard_time": 1727959580,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -1963,6 +1995,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 313109,
+      "num": 313109,
+      "word": "向佐 鼻梁中有老婆",
+      "onboard_time": 1727959279,
+      "rank": 49,
+      "category": "电影"
+    },
+    {
       "raw_hot": 312482,
       "num": 279841,
       "word": "韩国拟从中国进口1100吨大白菜",
@@ -2064,14 +2104,6 @@
       "word": "马龙采访被儿子打断",
       "onboard_time": 1727702780,
       "rank": 4,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 295880,
-      "num": 295880,
-      "word": "马龙晋级中国大满贯8强",
-      "onboard_time": 1727959279,
-      "rank": 29,
       "category": "体育"
     },
     {
@@ -2203,6 +2235,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 286162,
+      "num": 286162,
+      "word": "749局会征服每一个小孩哥",
+      "onboard_time": 1727957659,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 285133,
       "num": 255492,
       "word": "宁艺卓晒了范思哲时装周邀请函",
@@ -2220,7 +2260,7 @@
     },
     {
       "raw_hot": 284736,
-      "num": 326732,
+      "num": 367854,
       "word": "半熟男女 爱人先爱己",
       "onboard_time": 1727956219,
       "rank": 4,
@@ -2281,6 +2321,14 @@
       "onboard_time": 1727790562,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 280108,
+      "num": 280108,
+      "word": "陈立农家仓库屋顶被台风吹跑了",
+      "onboard_time": 1727958380,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 279915,
@@ -2579,6 +2627,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 253344,
+      "num": 320159,
+      "word": "林高远3比0格罗特",
+      "onboard_time": 1727961860,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 252419,
       "num": 404726,
       "word": "马龙晋级男单16强",
@@ -2643,14 +2699,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 245596,
-      "num": 193134,
-      "word": "向佐 鼻梁中有老婆",
-      "onboard_time": 1727959279,
-      "rank": 49,
-      "category": "电影"
-    },
-    {
       "raw_hot": 245471,
       "num": 245471,
       "word": "北京楼市出台一揽子新政",
@@ -2697,6 +2745,14 @@
       "onboard_time": 1727938937,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 242110,
+      "num": 242110,
+      "word": "林高远6小时三战",
+      "onboard_time": 1727955560,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 241657,
@@ -2748,7 +2804,7 @@
     },
     {
       "raw_hot": 237239,
-      "num": 295917,
+      "num": 360751,
       "word": "钟汉良与绝症孩子保持联系十几年",
       "onboard_time": 1727955799,
       "rank": 6,
@@ -2939,14 +2995,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 226334,
-      "num": 226334,
-      "word": "陈立农家仓库屋顶被台风吹跑了",
-      "onboard_time": 1727958380,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 225800,
       "num": 225800,
       "word": "马龙再现东方魔法",
@@ -2996,7 +3044,7 @@
     },
     {
       "raw_hot": 223155,
-      "num": 194788,
+      "num": 209162,
       "word": "徐冬冬谈和赵丽颖合作感受",
       "onboard_time": 1727958320,
       "rank": 22,
@@ -3193,14 +3241,6 @@
       "onboard_time": 1727743398,
       "rank": 28,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 209818,
-      "num": 209818,
-      "word": "749局会征服每一个小孩哥",
-      "onboard_time": 1727957659,
-      "rank": 28,
-      "category": "电影"
     },
     {
       "raw_hot": 209133,
@@ -3507,14 +3547,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 194971,
-      "num": 194971,
-      "word": "林高远6小时三战",
-      "onboard_time": 1727955560,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 194508,
       "num": 194508,
       "word": "P人有的是手段拿捏时间",
@@ -3811,6 +3843,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 185792,
+      "num": 185792,
+      "word": "养狗就别在家里健身了",
+      "onboard_time": 1727960720,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 185651,
       "num": 185651,
       "word": "2024KPL年度总决赛",
@@ -3819,20 +3859,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 185623,
+      "num": 185623,
+      "word": "F勒布伦急得直蹦",
+      "onboard_time": 1727958859,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 185537,
       "num": 185537,
       "word": "深圳有人连夜买房",
       "onboard_time": 1727854037,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 185171,
-      "num": 185171,
-      "word": "F勒布伦急得直蹦",
-      "onboard_time": 1727958859,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 185008,
@@ -3897,6 +3937,14 @@
       "onboard_time": 1727759119,
       "rank": 39,
       "category": "电影"
+    },
+    {
+      "raw_hot": 182026,
+      "num": 182026,
+      "word": "男子向多名同事借钱后人消失了",
+      "onboard_time": 1727956340,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 181900,
@@ -4115,14 +4163,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 175398,
-      "num": 175398,
-      "word": "男子向多名同事借钱后人消失了",
-      "onboard_time": 1727956340,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 175333,
       "num": 175333,
       "word": "语言通货膨胀",
@@ -4265,6 +4305,14 @@
       "onboard_time": 1727927719,
       "rank": 27,
       "category": "美食"
+    },
+    {
+      "raw_hot": 168278,
+      "num": 168278,
+      "word": "博主回应独闯哀牢山疑被凶兽盯上",
+      "onboard_time": 1727960480,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 167691,
@@ -4595,6 +4643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 157024,
+      "num": 157024,
+      "word": "为何很多奶茶咖啡不给去冰",
+      "onboard_time": 1727958499,
+      "rank": 49,
+      "category": "美食"
+    },
+    {
       "raw_hot": 156660,
       "num": 156660,
       "word": "校方回应男生遭同学多次用板凳砸头",
@@ -4681,6 +4737,14 @@
       "onboard_time": 1727947038,
       "rank": 42,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 154352,
+      "num": 154352,
+      "word": "崔然竣solo初一位",
+      "onboard_time": 1727961800,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 153170,
@@ -4795,14 +4859,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 150749,
-      "num": 150749,
-      "word": "TES对战T1",
-      "onboard_time": 1727960179,
-      "rank": 39,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 150709,
       "num": 150709,
       "word": "王源 Talking之神",
@@ -4899,12 +4955,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 146643,
+      "num": 146643,
+      "word": "王曼昱被闪光灯影响",
+      "onboard_time": 1727961980,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 146634,
       "num": 146634,
       "word": "我以为的749局",
       "onboard_time": 1727940798,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 146228,
+      "num": 146228,
+      "word": "S14瑞士轮",
+      "onboard_time": 1727961020,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 146198,
@@ -5395,6 +5467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 133234,
+      "num": 133234,
+      "word": "BLG瑞士轮开门红",
+      "onboard_time": 1727960299,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 133171,
       "num": 133171,
       "word": "侯明昊没有一块肌肉是白练的",
@@ -5579,6 +5659,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 129037,
+      "num": 298491,
+      "word": "LPL世界赛开门红",
+      "onboard_time": 1727960002,
+      "rank": 13,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 128481,
+      "num": 128481,
+      "word": "向佐 喜剧天赋",
+      "onboard_time": 1727962100,
+      "rank": 49,
+      "category": "电影"
+    },
+    {
       "raw_hot": 128396,
       "num": 128396,
       "word": "视觉模拟中国撤侨航线",
@@ -5705,14 +5801,6 @@
       "onboard_time": 1727794103,
       "rank": 45,
       "category": "电影"
-    },
-    {
-      "raw_hot": 124561,
-      "num": 124561,
-      "word": "BLG瑞士轮开门红",
-      "onboard_time": 1727960299,
-      "rank": 45,
-      "category": "电竞"
     },
     {
       "raw_hot": 124504,
@@ -6129,14 +6217,6 @@
       "onboard_time": 1727789485,
       "rank": 29,
       "category": "电影"
-    },
-    {
-      "raw_hot": 114590,
-      "num": 114590,
-      "word": "为何很多奶茶咖啡不给去冰",
-      "onboard_time": 1727958499,
-      "rank": 49,
-      "category": "美食"
     },
     {
       "raw_hot": 114434,
@@ -6635,6 +6715,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 103539,
+      "num": 315096,
+      "word": "王曼昱3比0覃予萱",
+      "onboard_time": 1727961860,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 103176,
       "num": 103176,
       "word": "王曼昱晋级16强",
@@ -6955,14 +7043,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 95625,
-      "num": 303761,
-      "word": "国庆假期能不能多开点夜间高铁",
-      "onboard_time": 1727959580,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 95568,
       "num": 128487,
       "word": "对祖国的爱在此刻具象化了",
@@ -6993,14 +7073,6 @@
       "onboard_time": 1727868380,
       "rank": 42,
       "category": "美食"
-    },
-    {
-      "raw_hot": 95393,
-      "num": 298491,
-      "word": "LPL世界赛开门红",
-      "onboard_time": 1727960002,
-      "rank": 13,
-      "category": "电竞"
     },
     {
       "raw_hot": 95382,
@@ -7779,6 +7851,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 58269,
+      "num": 194766,
+      "word": "跟着戏曲打卡大美中国",
+      "onboard_time": 1727959219,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 58163,
       "num": 237917,
       "word": "如鸢漫展现场做非遗",
@@ -7867,6 +7947,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 55601,
+      "num": 515601,
+      "word": "中国人的餐桌75年变迁史",
+      "onboard_time": 1727944878,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 54665,
       "num": 338079,
       "word": "张晚意任敏古装cp感",
@@ -7905,6 +7993,14 @@
       "onboard_time": 1727804174,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 52053,
+      "num": 346515,
+      "word": "6岁警娃国庆节跟爸爸巡边3小时累到哭",
+      "onboard_time": 1727960780,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 52020,
@@ -8177,14 +8273,6 @@
       "onboard_time": 1727824815,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 39995,
-      "num": 194766,
-      "word": "跟着戏曲打卡大美中国",
-      "onboard_time": 1727959219,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 39904,
@@ -8761,14 +8849,6 @@
       "onboard_time": 1727773700,
       "rank": 9,
       "category": "电影"
-    },
-    {
-      "raw_hot": 20150,
-      "num": 456751,
-      "word": "中国人的餐桌75年变迁史",
-      "onboard_time": 1727944878,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 19969,

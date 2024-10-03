@@ -1,6 +1,6 @@
 {
   "startTime": 1727886505064,
-  "endTime": 1727960337213,
+  "endTime": 1727962147452,
   "band_list": [
     {
       "raw_hot": 1864900,
@@ -59,6 +59,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1140845,
+      "num": 359690,
+      "word": "多名游客挤在黄山景区厕所过夜",
+      "onboard_time": 1727957121,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1025547,
       "num": 1164087,
       "word": "中国公民从黎巴嫩撤离车顶贴国旗",
@@ -75,12 +83,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 944655,
-      "num": 300086,
-      "word": "多名游客挤在黄山景区厕所过夜",
-      "onboard_time": 1727957121,
-      "rank": 12,
-      "category": "社会新闻"
+      "raw_hot": 977659,
+      "num": 351549,
+      "word": "差点没认出来林允",
+      "onboard_time": 1727954779,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 913167,
@@ -113,14 +121,6 @@
       "onboard_time": 1727925499,
       "rank": 13,
       "category": "体育"
-    },
-    {
-      "raw_hot": 805285,
-      "num": 299128,
-      "word": "差点没认出来林允",
-      "onboard_time": 1727954779,
-      "rank": 29,
-      "category": "电影"
     },
     {
       "raw_hot": 782878,
@@ -227,6 +227,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 587106,
+      "num": 1093937,
+      "word": "好了好了知道你在过国庆了",
+      "onboard_time": 1727958020,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 566693,
+      "num": 566693,
+      "word": "马龙晋级中国大满贯8强",
+      "onboard_time": 1727959279,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 562167,
       "num": 251234,
       "word": "舒马赫露面",
@@ -276,7 +292,7 @@
     },
     {
       "raw_hot": 524824,
-      "num": 297271,
+      "num": 326624,
       "word": "迪丽热巴晚间溜达七宫格",
       "onboard_time": 1727956280,
       "rank": 15,
@@ -305,6 +321,14 @@
       "onboard_time": 1727950759,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 499428,
+      "num": 499428,
+      "word": "王曼昱vs覃予萱",
+      "onboard_time": 1727960360,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 497315,
@@ -395,6 +419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 455126,
+      "num": 329461,
+      "word": "TES对战T1",
+      "onboard_time": 1727960179,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 452848,
       "num": 491936,
       "word": "向鹏3比1F勒布伦",
@@ -427,20 +459,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 425569,
-      "num": 425569,
-      "word": "好了好了知道你在过国庆了",
-      "onboard_time": 1727958020,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 425255,
       "num": 258163,
       "word": "杨紫被选为巴黎时装周最佳着装",
       "onboard_time": 1727928498,
       "rank": 21,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 421658,
+      "num": 421658,
+      "word": "国庆假期能不能多开点夜间高铁",
+      "onboard_time": 1727959580,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 405087,
@@ -611,6 +643,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 313109,
+      "num": 313109,
+      "word": "向佐 鼻梁中有老婆",
+      "onboard_time": 1727959279,
+      "rank": 49,
+      "category": "电影"
+    },
+    {
       "raw_hot": 311102,
       "num": 311102,
       "word": "剩下的5天假期准备如何度过",
@@ -640,14 +680,6 @@
       "word": "马龙3比0李尚洙",
       "onboard_time": 1727959398,
       "rank": 9,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 295880,
-      "num": 295880,
-      "word": "马龙晋级中国大满贯8强",
-      "onboard_time": 1727959279,
-      "rank": 29,
       "category": "体育"
     },
     {
@@ -715,6 +747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 286162,
+      "num": 286162,
+      "word": "749局会征服每一个小孩哥",
+      "onboard_time": 1727957659,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 285034,
       "num": 285034,
       "word": "仙台有树",
@@ -724,7 +764,7 @@
     },
     {
       "raw_hot": 284736,
-      "num": 326732,
+      "num": 367854,
       "word": "半熟男女 爱人先爱己",
       "onboard_time": 1727956219,
       "rank": 4,
@@ -753,6 +793,14 @@
       "onboard_time": 1727944218,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 280108,
+      "num": 280108,
+      "word": "陈立农家仓库屋顶被台风吹跑了",
+      "onboard_time": 1727958380,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 279915,
@@ -875,6 +923,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 253344,
+      "num": 320159,
+      "word": "林高远3比0格罗特",
+      "onboard_time": 1727961860,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 250710,
       "num": 250710,
       "word": "327家国家一级博物馆名单",
@@ -899,14 +955,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 245596,
-      "num": 193134,
-      "word": "向佐 鼻梁中有老婆",
-      "onboard_time": 1727959279,
-      "rank": 49,
-      "category": "电影"
-    },
-    {
       "raw_hot": 242729,
       "num": 198961,
       "word": "阿姨用脚后跟给小狗来了一套颠勺",
@@ -915,8 +963,16 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 242110,
+      "num": 242110,
+      "word": "林高远6小时三战",
+      "onboard_time": 1727955560,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 237239,
-      "num": 295917,
+      "num": 360751,
       "word": "钟汉良与绝症孩子保持联系十几年",
       "onboard_time": 1727955799,
       "rank": 6,
@@ -955,14 +1011,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 226334,
-      "num": 226334,
-      "word": "陈立农家仓库屋顶被台风吹跑了",
-      "onboard_time": 1727958380,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 225640,
       "num": 310240,
       "word": "82岁医生办公室放着健身垫",
@@ -980,7 +1028,7 @@
     },
     {
       "raw_hot": 223155,
-      "num": 194788,
+      "num": 209162,
       "word": "徐冬冬谈和赵丽颖合作感受",
       "onboard_time": 1727958320,
       "rank": 22,
@@ -1019,6 +1067,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 213288,
+      "num": 213288,
+      "word": "WTT",
+      "onboard_time": 1727961621,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 212638,
       "num": 160220,
       "word": "99年出生女警成为一名排爆手",
@@ -1033,14 +1089,6 @@
       "onboard_time": 1727916136,
       "rank": 23,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 209818,
-      "num": 209818,
-      "word": "749局会征服每一个小孩哥",
-      "onboard_time": 1727957659,
-      "rank": 28,
-      "category": "电影"
     },
     {
       "raw_hot": 208378,
@@ -1123,14 +1171,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 194971,
-      "num": 194971,
-      "word": "林高远6小时三战",
-      "onboard_time": 1727955560,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 194094,
       "num": 174961,
       "word": "少儿频道是月亮姐姐最好的医美",
@@ -1203,8 +1243,16 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 185171,
-      "num": 185171,
+      "raw_hot": 185792,
+      "num": 185792,
+      "word": "养狗就别在家里健身了",
+      "onboard_time": 1727960720,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 185623,
+      "num": 185623,
       "word": "F勒布伦急得直蹦",
       "onboard_time": 1727958859,
       "rank": 35,
@@ -1225,6 +1273,14 @@
       "onboard_time": 1727939717,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 182026,
+      "num": 182026,
+      "word": "男子向多名同事借钱后人消失了",
+      "onboard_time": 1727956340,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 181900,
@@ -1272,14 +1328,6 @@
       "word": "国庆长沙感觉有一亿人",
       "onboard_time": 1727882778,
       "rank": 23,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 175398,
-      "num": 175398,
-      "word": "男子向多名同事借钱后人消失了",
-      "onboard_time": 1727956340,
-      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -1353,6 +1401,14 @@
       "onboard_time": 1727927719,
       "rank": 27,
       "category": "美食"
+    },
+    {
+      "raw_hot": 168278,
+      "num": 168278,
+      "word": "博主回应独闯哀牢山疑被凶兽盯上",
+      "onboard_time": 1727960480,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 167691,
@@ -1459,6 +1515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 157024,
+      "num": 157024,
+      "word": "为何很多奶茶咖啡不给去冰",
+      "onboard_time": 1727958499,
+      "rank": 49,
+      "category": "美食"
+    },
+    {
       "raw_hot": 156552,
       "num": 156552,
       "word": "高铁上查票是什么原因",
@@ -1481,6 +1545,14 @@
       "onboard_time": 1727947038,
       "rank": 42,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 154352,
+      "num": 154352,
+      "word": "崔然竣solo初一位",
+      "onboard_time": 1727961800,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 152999,
@@ -1531,19 +1603,19 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 150749,
-      "num": 150749,
-      "word": "TES对战T1",
-      "onboard_time": 1727960179,
-      "rank": 39,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 148154,
       "num": 183063,
       "word": "林诗栋vs卡尔伯格",
       "onboard_time": 1727935878,
       "rank": 19,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 146643,
+      "num": 146643,
+      "word": "王曼昱被闪光灯影响",
+      "onboard_time": 1727961980,
+      "rank": 44,
       "category": "体育"
     },
     {
@@ -1553,6 +1625,14 @@
       "onboard_time": 1727940798,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 146228,
+      "num": 146228,
+      "word": "S14瑞士轮",
+      "onboard_time": 1727961020,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 145973,
@@ -1739,6 +1819,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 133234,
+      "num": 133234,
+      "word": "BLG瑞士轮开门红",
+      "onboard_time": 1727960299,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 132710,
       "num": 132710,
       "word": "周冬雨压轴登上红毯",
@@ -1803,6 +1891,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 129037,
+      "num": 298491,
+      "word": "LPL世界赛开门红",
+      "onboard_time": 1727960002,
+      "rank": 13,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 128481,
+      "num": 128481,
+      "word": "向佐 喜剧天赋",
+      "onboard_time": 1727962100,
+      "rank": 49,
+      "category": "电影"
+    },
+    {
       "raw_hot": 127398,
       "num": 251864,
       "word": "特别版红旗颂",
@@ -1841,14 +1945,6 @@
       "onboard_time": 1727917997,
       "rank": 33,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 124561,
-      "num": 124561,
-      "word": "BLG瑞士轮开门红",
-      "onboard_time": 1727960299,
-      "rank": 45,
-      "category": "电竞"
     },
     {
       "raw_hot": 124300,
@@ -2009,14 +2105,6 @@
       "onboard_time": 1727929758,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 114590,
-      "num": 114590,
-      "word": "为何很多奶茶咖啡不给去冰",
-      "onboard_time": 1727958499,
-      "rank": 49,
-      "category": "美食"
     },
     {
       "raw_hot": 114434,
@@ -2227,6 +2315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 103539,
+      "num": 315096,
+      "word": "王曼昱3比0覃予萱",
+      "onboard_time": 1727961860,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 103160,
       "num": 103160,
       "word": "小孩哥 现在的年轻人真好哄",
@@ -2363,28 +2459,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 95625,
-      "num": 303761,
-      "word": "国庆假期能不能多开点夜间高铁",
-      "onboard_time": 1727959580,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 95487,
       "num": 208071,
       "word": "林高远王艺迪3比1薛飞钱天一",
       "onboard_time": 1727940438,
       "rank": 13,
       "category": "体育"
-    },
-    {
-      "raw_hot": 95393,
-      "num": 298491,
-      "word": "LPL世界赛开门红",
-      "onboard_time": 1727960002,
-      "rank": 13,
-      "category": "电竞"
     },
     {
       "raw_hot": 94577,
@@ -2699,6 +2779,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 58269,
+      "num": 194766,
+      "word": "跟着戏曲打卡大美中国",
+      "onboard_time": 1727959219,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 58163,
       "num": 237917,
       "word": "如鸢漫展现场做非遗",
@@ -2763,11 +2851,27 @@
       "category": "电影"
     },
     {
+      "raw_hot": 55601,
+      "num": 515601,
+      "word": "中国人的餐桌75年变迁史",
+      "onboard_time": 1727944878,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 52737,
       "num": 170317,
       "word": "堵车后众人在隧道开起了演唱会",
       "onboard_time": 1727939717,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 52053,
+      "num": 346515,
+      "word": "6岁警娃国庆节跟爸爸巡边3小时累到哭",
+      "onboard_time": 1727960780,
+      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -2881,14 +2985,6 @@
       "onboard_time": 1727885657,
       "rank": 26,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 39995,
-      "num": 194766,
-      "word": "跟着戏曲打卡大美中国",
-      "onboard_time": 1727959219,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 39715,
@@ -3024,14 +3120,6 @@
       "word": "这份独属于中国人的仪式感",
       "onboard_time": 1727903051,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 20150,
-      "num": 456751,
-      "word": "中国人的餐桌75年变迁史",
-      "onboard_time": 1727944878,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
