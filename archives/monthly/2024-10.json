@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1727969950484,
+  "endTime": 1727972886536,
   "band_list": [
     {
       "raw_hot": 11925969,
@@ -1979,6 +1979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 334445,
+      "num": 334445,
+      "word": "这不是特效是中国非遗表演",
+      "onboard_time": 1727967860,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 334416,
       "num": 334416,
       "word": "碧昂斯",
@@ -2217,6 +2225,14 @@
       "onboard_time": 1727843839,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 295802,
+      "num": 250416,
+      "word": "东京食尸鬼 蜈蚣耳塞",
+      "onboard_time": 1727968338,
+      "rank": 30,
+      "category": "动漫"
     },
     {
       "raw_hot": 295602,
@@ -2523,6 +2539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 272061,
+      "num": 267213,
+      "word": "江慈为卫昭留下一子",
+      "onboard_time": 1727968579,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 271714,
       "num": 375692,
       "word": "因为爱你反复热泪盈眶",
@@ -2576,14 +2600,6 @@
       "word": "瞿一芃大溪地归来入赘豪门",
       "onboard_time": 1727863818,
       "rank": 22,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 267213,
-      "num": 267213,
-      "word": "江慈为卫昭留下一子",
-      "onboard_time": 1727968579,
-      "rank": 32,
       "category": "剧集"
     },
     {
@@ -2777,14 +2793,6 @@
       "onboard_time": 1727880199,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 250416,
-      "num": 250416,
-      "word": "东京食尸鬼 蜈蚣耳塞",
-      "onboard_time": 1727968338,
-      "rank": 30,
-      "category": "动漫"
     },
     {
       "raw_hot": 249986,
@@ -3243,12 +3251,28 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 219651,
+      "num": 219651,
+      "word": "俄扣押美国两家银行数亿美元资金",
+      "onboard_time": 1727970738,
+      "rank": 3,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 219297,
       "num": 219297,
       "word": "张本智和特别喜欢看樊振东比赛",
       "onboard_time": 1727770158,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 218882,
+      "num": 164127,
+      "word": "王一博 石猴出世",
+      "onboard_time": 1727971339,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 218672,
@@ -4483,14 +4507,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 169660,
-      "num": 278319,
-      "word": "这不是特效是中国非遗表演",
-      "onboard_time": 1727967860,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 169310,
       "num": 169273,
       "word": "在深圳中学读书的一天",
@@ -4504,6 +4520,14 @@
       "word": "98年升旗手升旗仪式后向女友求婚",
       "onboard_time": 1727762718,
       "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 168953,
+      "num": 162993,
+      "word": "贵州织金发生山体垮塌6人死亡",
+      "onboard_time": 1727971159,
+      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -5579,6 +5603,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 137077,
+      "num": 322242,
+      "word": "广州地产销售说每天忙到2万步数",
+      "onboard_time": 1727969181,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 136965,
       "num": 136965,
       "word": "宋亚轩julia官摄",
@@ -5867,6 +5899,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 131102,
+      "num": 131102,
+      "word": "宋亚轩的抽象超乎我的想象",
+      "onboard_time": 1727970202,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 131084,
       "num": 131084,
       "word": "莫雷加德3比2松岛辉空",
@@ -6147,6 +6187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 123052,
+      "num": 123052,
+      "word": "TES全员发博碰拳",
+      "onboard_time": 1727969959,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 122801,
       "num": 122801,
       "word": "JDG反应游戏节目效果拉满",
@@ -6169,6 +6217,14 @@
       "onboard_time": 1727941098,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 121839,
+      "num": 121839,
+      "word": "大陆女生勇闯台湾娱乐圈",
+      "onboard_time": 1727970080,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 121377,
@@ -7083,6 +7139,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 102127,
+      "num": 102127,
+      "word": "余景天烟台海边唱如愿",
+      "onboard_time": 1727972418,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
       "raw_hot": 101922,
       "num": 221830,
       "word": "合唱我和我的祖国",
@@ -7555,14 +7619,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 87812,
-      "num": 322242,
-      "word": "广州地产销售说每天忙到2万步数",
-      "onboard_time": 1727969181,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 87018,
       "num": 87018,
       "word": "KSG年总开门红",
@@ -7595,6 +7651,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 85421,
+      "num": 85421,
+      "word": "游客在长沙走路都要排队",
+      "onboard_time": 1727970859,
+      "rank": 41,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 85161,
       "num": 85161,
       "word": "林诗栋晋级中国大满贯16强",
@@ -7609,6 +7673,14 @@
       "onboard_time": 1727842278,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 84850,
+      "num": 84850,
+      "word": "广东的青菜有多离谱",
+      "onboard_time": 1727970560,
+      "rank": 42,
+      "category": "美食"
     },
     {
       "raw_hot": 84734,
@@ -7851,6 +7923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 75811,
+      "num": 165207,
+      "word": "TL对战LNG",
+      "onboard_time": 1727970920,
+      "rank": 14,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 75802,
       "num": 103718,
       "word": "肖战 月亮代表我的心",
@@ -7913,6 +7993,14 @@
       "onboard_time": 1727799138,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 74592,
+      "num": 74592,
+      "word": "伊朗称将非常规回应以色列袭击",
+      "onboard_time": 1727972837,
+      "rank": 48,
+      "category": "国外时政"
     },
     {
       "raw_hot": 73981,
@@ -8545,6 +8633,14 @@
       "onboard_time": 1727718254,
       "rank": 31,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 41994,
+      "num": 167258,
+      "word": "国庆堵在隧道众人下车大合唱",
+      "onboard_time": 1727972299,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 41659,

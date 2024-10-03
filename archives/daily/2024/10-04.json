@@ -1,0 +1,411 @@
+{
+  "startTime": 1727972886536,
+  "endTime": 1727972886536,
+  "band_list": [
+    {
+      "raw_hot": 695912,
+      "num": 166809,
+      "word": "中方警告一场全面战争一触即发",
+      "onboard_time": 1727946619,
+      "rank": 10,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 550802,
+      "num": 166348,
+      "word": "夫妻在广州看房不到3小时下定金",
+      "onboard_time": 1727967139,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 460288,
+      "num": 166043,
+      "word": "出入平安撤档",
+      "onboard_time": 1727962400,
+      "rank": 12,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 362142,
+      "num": 845598,
+      "word": "中国海警现身阿拉斯加附近打乱美国布局",
+      "onboard_time": 1727963000,
+      "rank": 0,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 334445,
+      "num": 334445,
+      "word": "这不是特效是中国非遗表演",
+      "onboard_time": 1727967860,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 295802,
+      "num": 165627,
+      "word": "东京食尸鬼 蜈蚣耳塞",
+      "onboard_time": 1727968338,
+      "rank": 13,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 277121,
+      "num": 165175,
+      "word": "Angelababy带小海绵做爱心餐",
+      "onboard_time": 1727947038,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 272061,
+      "num": 164685,
+      "word": "江慈为卫昭留下一子",
+      "onboard_time": 1727968579,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 237677,
+      "num": 164237,
+      "word": "GEN战胜WBG",
+      "onboard_time": 1727968760,
+      "rank": 17,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 219651,
+      "num": 219651,
+      "word": "俄扣押美国两家银行数亿美元资金",
+      "onboard_time": 1727970738,
+      "rank": 3,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 218882,
+      "num": 164127,
+      "word": "王一博 石猴出世",
+      "onboard_time": 1727971339,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 210299,
+      "num": 163611,
+      "word": "差点没认出来林允",
+      "onboard_time": 1727954779,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 199115,
+      "num": 199115,
+      "word": "好了好了知道你在过国庆了",
+      "onboard_time": 1727958020,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 197049,
+      "num": 163418,
+      "word": "多名游客挤在黄山景区厕所过夜",
+      "onboard_time": 1727957121,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 194607,
+      "num": 194607,
+      "word": "凤凰浴火重生这一刻具象化了",
+      "onboard_time": 1727967499,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 168953,
+      "num": 162993,
+      "word": "贵州织金发生山体垮塌6人死亡",
+      "onboard_time": 1727971159,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 167975,
+      "num": 167975,
+      "word": "100斤女警穿70斤衣服排爆",
+      "onboard_time": 1727940258,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 162751,
+      "num": 162751,
+      "word": "TES战胜T1",
+      "onboard_time": 1727964380,
+      "rank": 22,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 162199,
+      "num": 162199,
+      "word": "幼童车祸后做CT发现1年前磁力珠",
+      "onboard_time": 1727964981,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 158395,
+      "num": 158395,
+      "word": "给老人设计的拐杖却被年轻人买爆",
+      "onboard_time": 1727950759,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 154590,
+      "num": 154590,
+      "word": "以色列",
+      "onboard_time": 1727966539,
+      "rank": 25,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 150616,
+      "num": 150616,
+      "word": "假期去冰岛旅游的人已经后悔了",
+      "onboard_time": 1727965460,
+      "rank": 26,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 145996,
+      "num": 145996,
+      "word": "堵车演唱会开在了音效最好的地方",
+      "onboard_time": 1727969000,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 138868,
+      "num": 138868,
+      "word": "何秋亊请假",
+      "onboard_time": 1727966901,
+      "rank": 28,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 137077,
+      "num": 137077,
+      "word": "广州地产销售说每天忙到2万步数",
+      "onboard_time": 1727969181,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 132785,
+      "num": 132785,
+      "word": "五百肖央盛赞赵丽颖",
+      "onboard_time": 1727968760,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 131102,
+      "num": 131102,
+      "word": "宋亚轩的抽象超乎我的想象",
+      "onboard_time": 1727970202,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 128301,
+      "num": 128301,
+      "word": "成毅吊威亚摔在了台阶上",
+      "onboard_time": 1727942478,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 123052,
+      "num": 123052,
+      "word": "TES全员发博碰拳",
+      "onboard_time": 1727969959,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 121839,
+      "num": 121839,
+      "word": "大陆女生勇闯台湾娱乐圈",
+      "onboard_time": 1727970080,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 104532,
+      "num": 104532,
+      "word": "GEN对战WBG",
+      "onboard_time": 1727966001,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 102127,
+      "num": 102127,
+      "word": "余景天烟台海边唱如愿",
+      "onboard_time": 1727972418,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 101310,
+      "num": 101310,
+      "word": "田曦薇眼技",
+      "onboard_time": 1727965760,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 97180,
+      "num": 97180,
+      "word": "深圳1家6口放弃旅游改看房",
+      "onboard_time": 1727951180,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 96833,
+      "num": 167713,
+      "word": "永夜星河",
+      "onboard_time": 1727953279,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 96747,
+      "num": 167283,
+      "word": "半熟男女 爱人先爱己",
+      "onboard_time": 1727956219,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 93846,
+      "num": 93846,
+      "word": "迪丽热巴晚间溜达七宫格",
+      "onboard_time": 1727956280,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 86647,
+      "num": 86647,
+      "word": "马龙回应是否让儿子打乒乓球",
+      "onboard_time": 1727962219,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 85421,
+      "num": 85421,
+      "word": "游客在长沙走路都要排队",
+      "onboard_time": 1727970859,
+      "rank": 41,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 84850,
+      "num": 84850,
+      "word": "广东的青菜有多离谱",
+      "onboard_time": 1727970560,
+      "rank": 42,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 83762,
+      "num": 83762,
+      "word": "749局会征服每一个小孩哥",
+      "onboard_time": 1727957659,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 83274,
+      "num": 83274,
+      "word": "陈数 只此青绿中式美学天花板",
+      "onboard_time": 1727966959,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 79440,
+      "num": 79440,
+      "word": "养狗就别在家里健身了",
+      "onboard_time": 1727960720,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 78784,
+      "num": 78784,
+      "word": "陈立农家仓库屋顶被台风吹跑了",
+      "onboard_time": 1727958380,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 75822,
+      "num": 75822,
+      "word": "薛之谦自拍",
+      "onboard_time": 1727967020,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 75811,
+      "num": 165207,
+      "word": "TL对战LNG",
+      "onboard_time": 1727970920,
+      "rank": 14,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 74592,
+      "num": 74592,
+      "word": "伊朗称将非常规回应以色列袭击",
+      "onboard_time": 1727972837,
+      "rank": 48,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 66069,
+      "num": 74492,
+      "word": "马龙说我年龄也不算大",
+      "onboard_time": 1727965160,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 41994,
+      "num": 167258,
+      "word": "国庆堵在隧道众人下车大合唱",
+      "onboard_time": 1727972299,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 5431,
+      "num": 274556,
+      "word": "读懂中国75年发展密码",
+      "onboard_time": 1727962759,
+      "rank": 2,
+      "category": "社会新闻"
+    }
+  ],
+  "hotgov_list": [
+    {
+      "word": "#感悟总书记的传统文化情结#"
+    }
+  ]
+}
