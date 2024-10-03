@@ -1,7 +1,15 @@
 {
   "startTime": 1727886505064,
-  "endTime": 1727962831207,
+  "endTime": 1727965298616,
   "band_list": [
+    {
+      "raw_hot": 1907090,
+      "num": 280446,
+      "word": "出入平安撤档",
+      "onboard_time": 1727962400,
+      "rank": 25,
+      "category": "电影"
+    },
     {
       "raw_hot": 1864900,
       "num": 369344,
@@ -25,6 +33,14 @@
       "onboard_time": 1727945839,
       "rank": 10,
       "category": "演出"
+    },
+    {
+      "raw_hot": 1515921,
+      "num": 280206,
+      "word": "TES战胜T1",
+      "onboard_time": 1727964380,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 1271472,
@@ -65,6 +81,14 @@
       "onboard_time": 1727957121,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1063834,
+      "num": 332311,
+      "word": "TES对战T1",
+      "onboard_time": 1727960179,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 1025547,
@@ -235,6 +259,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 579204,
+      "num": 276720,
+      "word": "马龙回应是否让儿子打乒乓球",
+      "onboard_time": 1727962219,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 566693,
       "num": 566693,
       "word": "马龙晋级中国大满贯8强",
@@ -299,6 +331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 523521,
+      "num": 523521,
+      "word": "中国海警现身阿拉斯加附近打乱美国布局",
+      "onboard_time": 1727963000,
+      "rank": 1,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 520940,
       "num": 280318,
       "word": "以色列空军基地被伊朗导弹击中",
@@ -320,6 +360,14 @@
       "word": "给老人设计的拐杖却被年轻人买爆",
       "onboard_time": 1727950759,
       "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 500855,
+      "num": 500855,
+      "word": "国庆假期能不能多开点夜间高铁",
+      "onboard_time": 1727959580,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -417,22 +465,6 @@
       "onboard_time": 1727930478,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 455818,
-      "num": 455818,
-      "word": "国庆假期能不能多开点夜间高铁",
-      "onboard_time": 1727959580,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 455126,
-      "num": 332311,
-      "word": "TES对战T1",
-      "onboard_time": 1727960179,
-      "rank": 39,
-      "category": "电竞"
     },
     {
       "raw_hot": 452848,
@@ -635,7 +667,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 320983,
+      "raw_hot": 328673,
       "num": 320983,
       "word": "陈立农家仓库屋顶被台风吹跑了",
       "onboard_time": 1727958380,
@@ -851,6 +883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 274237,
+      "num": 274237,
+      "word": "养狗就别在家里健身了",
+      "onboard_time": 1727960720,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 272073,
       "num": 272073,
       "word": "郑钦文晋级中网八强",
@@ -923,14 +963,6 @@
       "category": "社会新闻,网红"
     },
     {
-      "raw_hot": 255218,
-      "num": 255218,
-      "word": "养狗就别在家里健身了",
-      "onboard_time": 1727960720,
-      "rank": 31,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 254043,
       "num": 254043,
       "word": "BLG对战MDK",
@@ -961,14 +993,6 @@
       "onboard_time": 1727939176,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 245254,
-      "num": 245254,
-      "word": "出入平安撤档",
-      "onboard_time": 1727962400,
-      "rank": 25,
-      "category": "电影"
     },
     {
       "raw_hot": 242729,
@@ -1009,6 +1033,14 @@
       "onboard_time": 1727928857,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 234963,
+      "num": 234963,
+      "word": "369",
+      "onboard_time": 1727964560,
+      "rank": 23,
+      "category": "电竞"
     },
     {
       "raw_hot": 233579,
@@ -1131,14 +1163,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 207309,
-      "num": 207309,
-      "word": "马龙回应是否让儿子打乒乓球",
-      "onboard_time": 1727962219,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 205771,
       "num": 440503,
       "word": "美国石英小镇暂停采矿全球芯慌",
@@ -1161,6 +1185,14 @@
       "onboard_time": 1727929458,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 198927,
+      "num": 198927,
+      "word": "JackeyLove烬四杀",
+      "onboard_time": 1727964742,
+      "rank": 28,
+      "category": "电竞"
     },
     {
       "raw_hot": 197802,
@@ -1297,6 +1329,14 @@
       "onboard_time": 1727958859,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 185023,
+      "num": 185023,
+      "word": "为何很多奶茶咖啡不给去冰",
+      "onboard_time": 1727958499,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 185008,
@@ -1555,12 +1595,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 157024,
-      "num": 157024,
-      "word": "为何很多奶茶咖啡不给去冰",
-      "onboard_time": 1727958499,
-      "rank": 49,
-      "category": "美食"
+      "raw_hot": 157793,
+      "num": 157793,
+      "word": "张云雷上青云不插电之夜",
+      "onboard_time": 1727963901,
+      "rank": 35,
+      "category": "演出"
     },
     {
       "raw_hot": 156552,
@@ -1699,6 +1739,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 144216,
+      "num": 144216,
+      "word": "WTT赛程",
+      "onboard_time": 1727964441,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 143323,
       "num": 143323,
       "word": "美官员暗中支持以升级军事行动",
@@ -1801,6 +1849,14 @@
       "onboard_time": 1727929938,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 137713,
+      "num": 137713,
+      "word": "幼童车祸后做CT发现1年前磁力珠",
+      "onboard_time": 1727964981,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 137551,
@@ -2017,6 +2073,14 @@
       "onboard_time": 1727941098,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 120765,
+      "num": 120765,
+      "word": "马龙说我年龄也不算大",
+      "onboard_time": 1727965160,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 120585,
@@ -2243,6 +2307,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 108371,
+      "num": 108371,
+      "word": "伊藤美诚说很开心又能和孙颖莎交手",
+      "onboard_time": 1727962219,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 108192,
       "num": 121711,
       "word": "小鹦鹉找回主人礼貌跟民警说拜拜",
@@ -2409,6 +2481,14 @@
       "onboard_time": 1727935938,
       "rank": 46,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 99725,
+      "num": 275426,
+      "word": "国乒锁定中国大满贯混双冠军",
+      "onboard_time": 1727964140,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 99718,
@@ -2729,6 +2809,14 @@
       "onboard_time": 1727923639,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 75310,
+      "num": 284409,
+      "word": "清澈童声唱响我和我的祖国",
+      "onboard_time": 1727964380,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 72949,
@@ -3195,6 +3283,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 17367,
+      "num": 508463,
+      "word": "读懂中国75年发展密码",
+      "onboard_time": 1727962759,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 17183,
       "num": 53675,
       "word": "来自太空的国庆祝福请查收",
@@ -3259,14 +3355,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 9695,
-      "num": 481392,
-      "word": "读懂中国75年发展密码",
-      "onboard_time": 1727962759,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 8658,
       "num": 267204,
       "word": "超3.3亿人次假期首日跨区域流动",
@@ -3301,6 +3389,9 @@
     },
     {
       "word": "#感悟总书记的传统文化情结#"
+    },
+    {
+      "word": "#习近平说给老百姓花钱不要抠抠搜搜#"
     }
   ]
 }

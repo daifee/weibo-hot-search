@@ -1,0 +1,410 @@
+{
+  "runTime": 1727965298616,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 707276,
+        "num": 1113164,
+        "word": "好了好了知道你在过国庆了",
+        "onboard_time": 1727958020,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 523521,
+        "num": 523521,
+        "word": "中国海警现身阿拉斯加附近打乱美国布局",
+        "onboard_time": 1727963000,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 17367,
+        "num": 508463,
+        "word": "读懂中国75年发展密码",
+        "onboard_time": 1727962759,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 500855,
+        "num": 500855,
+        "word": "国庆假期能不能多开点夜间高铁",
+        "onboard_time": 1727959580,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 299948,
+        "num": 299948,
+        "word": "100斤女警穿70斤衣服排爆",
+        "onboard_time": 1727940258,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184131,
+        "num": 296404,
+        "word": "永夜星河",
+        "onboard_time": 1727953279,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24589,
+        "num": 293163,
+        "word": "国庆假期文物展有多丰盛",
+        "onboard_time": 1727949679,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182356,
+        "num": 290198,
+        "word": "半熟男女 爱人先爱己",
+        "onboard_time": 1727956219,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 75310,
+        "num": 284409,
+        "word": "清澈童声唱响我和我的祖国",
+        "onboard_time": 1727964380,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280876,
+        "num": 280876,
+        "word": "马龙晋级中国大满贯8强",
+        "onboard_time": 1727959279,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1907090,
+        "num": 280446,
+        "word": "出入平安撤档",
+        "onboard_time": 1727962400,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1515921,
+        "num": 280206,
+        "word": "TES战胜T1",
+        "onboard_time": 1727964380,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1063834,
+        "num": 279657,
+        "word": "TES对战T1",
+        "onboard_time": 1727960179,
+        "rank": 12,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 733630,
+        "num": 279016,
+        "word": "中方警告一场全面战争一触即发",
+        "onboard_time": 1727946619,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 713887,
+        "num": 277982,
+        "word": "多名游客挤在黄山景区厕所过夜",
+        "onboard_time": 1727957121,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 591962,
+        "num": 277435,
+        "word": "Angelababy带小海绵做爱心餐",
+        "onboard_time": 1727947038,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 579204,
+        "num": 276720,
+        "word": "马龙回应是否让儿子打乒乓球",
+        "onboard_time": 1727962219,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 561547,
+        "num": 276463,
+        "word": "差点没认出来林允",
+        "onboard_time": 1727954779,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 411030,
+        "num": 276038,
+        "word": "成毅吊威亚摔在了台阶上",
+        "onboard_time": 1727942478,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99725,
+        "num": 275426,
+        "word": "国乒锁定中国大满贯混双冠军",
+        "onboard_time": 1727964140,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 328673,
+        "num": 274355,
+        "word": "陈立农家仓库屋顶被台风吹跑了",
+        "onboard_time": 1727958380,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 274237,
+        "num": 274237,
+        "word": "养狗就别在家里健身了",
+        "onboard_time": 1727960720,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 246154,
+        "num": 246154,
+        "word": "向佐 鼻梁中有老婆",
+        "onboard_time": 1727959279,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 234963,
+        "num": 234963,
+        "word": "369",
+        "onboard_time": 1727964560,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 234908,
+        "num": 234908,
+        "word": "深圳1家6口放弃旅游改看房",
+        "onboard_time": 1727951180,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203420,
+        "num": 214343,
+        "word": "孙颖莎8强对阵伊藤美诚",
+        "onboard_time": 1727958620,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 206065,
+        "num": 206065,
+        "word": "迪丽热巴晚间溜达七宫格",
+        "onboard_time": 1727956280,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205679,
+        "num": 205679,
+        "word": "给老人设计的拐杖却被年轻人买爆",
+        "onboard_time": 1727950759,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198927,
+        "num": 198927,
+        "word": "JackeyLove烬四杀",
+        "onboard_time": 1727964742,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 185023,
+        "num": 185023,
+        "word": "为何很多奶茶咖啡不给去冰",
+        "onboard_time": 1727958499,
+        "rank": 29,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 177142,
+        "num": 177142,
+        "word": "王曼昱被闪光灯影响",
+        "onboard_time": 1727961980,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 166728,
+        "num": 166728,
+        "word": "香港男子5000万拿下广州三套房",
+        "onboard_time": 1727947038,
+        "rank": 31,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 164242,
+        "num": 164242,
+        "word": "流水迢迢 oe",
+        "onboard_time": 1727952199,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162320,
+        "num": 162320,
+        "word": "王曼昱vs覃予萱",
+        "onboard_time": 1727960360,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 161498,
+        "num": 161498,
+        "word": "博主回应独闯哀牢山疑被凶兽盯上",
+        "onboard_time": 1727960480,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157793,
+        "num": 157793,
+        "word": "张云雷上青云不插电之夜",
+        "onboard_time": 1727963901,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 151115,
+        "num": 151115,
+        "word": "电影浴火之路票房破2亿",
+        "onboard_time": 1727958739,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 150690,
+        "num": 150690,
+        "word": "林高远3比0格罗特",
+        "onboard_time": 1727961860,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 149507,
+        "num": 149507,
+        "word": "749局会征服每一个小孩哥",
+        "onboard_time": 1727957659,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 148659,
+        "num": 148659,
+        "word": "伊朗指出结束中东战事唯一途径",
+        "onboard_time": 1727947938,
+        "rank": 39,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 144216,
+        "num": 144216,
+        "word": "WTT赛程",
+        "onboard_time": 1727964441,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137713,
+        "num": 137713,
+        "word": "幼童车祸后做CT发现1年前磁力珠",
+        "onboard_time": 1727964981,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134341,
+        "num": 134341,
+        "word": "95后北大博士范富荣履新副市长",
+        "onboard_time": 1727950458,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132330,
+        "num": 132330,
+        "word": "林高远6小时三战",
+        "onboard_time": 1727955560,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 37354,
+        "num": 132098,
+        "word": "国庆黄金周也是楼市黄金周",
+        "onboard_time": 1727962340,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132058,
+        "num": 132058,
+        "word": "男子向多名同事借钱后人消失了",
+        "onboard_time": 1727956340,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126231,
+        "num": 126231,
+        "word": "S14瑞士轮",
+        "onboard_time": 1727961020,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 120765,
+        "num": 120765,
+        "word": "马龙说我年龄也不算大",
+        "onboard_time": 1727965160,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108754,
+        "num": 108754,
+        "word": "穆婷婷复刻冷冰心",
+        "onboard_time": 1727943078,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108371,
+        "num": 108371,
+        "word": "伊藤美诚说很开心又能和孙颖莎交手",
+        "onboard_time": 1727962219,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平说给老百姓花钱不要抠抠搜搜#"
+    }
+  }
+}

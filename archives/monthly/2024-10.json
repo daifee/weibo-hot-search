@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1727962831207,
+  "endTime": 1727965298616,
   "band_list": [
     {
       "raw_hot": 11925969,
@@ -67,6 +67,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1907090,
+      "num": 280446,
+      "word": "出入平安撤档",
+      "onboard_time": 1727962400,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1901424,
       "num": 867391,
       "word": "身份证尾号是X的人要吃多少苦",
@@ -129,6 +137,14 @@
       "onboard_time": 1727945839,
       "rank": 10,
       "category": "演出"
+    },
+    {
+      "raw_hot": 1515921,
+      "num": 280206,
+      "word": "TES战胜T1",
+      "onboard_time": 1727964380,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 1449026,
@@ -313,6 +329,14 @@
       "onboard_time": 1727868380,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1063834,
+      "num": 332311,
+      "word": "TES对战T1",
+      "onboard_time": 1727960179,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 1049130,
@@ -1019,6 +1043,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 579204,
+      "num": 276720,
+      "word": "马龙回应是否让儿子打乒乓球",
+      "onboard_time": 1727962219,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 576418,
       "num": 576418,
       "word": "小哥误撞奔驰车主免赔偿称结婚叫我",
@@ -1195,6 +1227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 523521,
+      "num": 523521,
+      "word": "中国海警现身阿拉斯加附近打乱美国布局",
+      "onboard_time": 1727963000,
+      "rank": 1,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 520940,
       "num": 280318,
       "word": "以色列空军基地被伊朗导弹击中",
@@ -1241,6 +1281,14 @@
       "onboard_time": 1727827158,
       "rank": 16,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 500855,
+      "num": 500855,
+      "word": "国庆假期能不能多开点夜间高铁",
+      "onboard_time": 1727959580,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 499428,
@@ -1393,22 +1441,6 @@
       "onboard_time": 1727850378,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 455818,
-      "num": 455818,
-      "word": "国庆假期能不能多开点夜间高铁",
-      "onboard_time": 1727959580,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 455126,
-      "num": 332311,
-      "word": "TES对战T1",
-      "onboard_time": 1727960179,
-      "rank": 39,
-      "category": "电竞"
     },
     {
       "raw_hot": 454478,
@@ -1939,6 +1971,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 328673,
+      "num": 320983,
+      "word": "陈立农家仓库屋顶被台风吹跑了",
+      "onboard_time": 1727958380,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 327212,
       "num": 327212,
       "word": "胡军包场",
@@ -1969,14 +2009,6 @@
       "onboard_time": 1727802615,
       "rank": 14,
       "category": "国外时政,军事"
-    },
-    {
-      "raw_hot": 320983,
-      "num": 320983,
-      "word": "陈立农家仓库屋顶被台风吹跑了",
-      "onboard_time": 1727958380,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 320728,
@@ -2395,6 +2427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 274237,
+      "num": 274237,
+      "word": "养狗就别在家里健身了",
+      "onboard_time": 1727960720,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 273754,
       "num": 210489,
       "word": "黄子弘凡直播",
@@ -2619,14 +2659,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 255218,
-      "num": 255218,
-      "word": "养狗就别在家里健身了",
-      "onboard_time": 1727960720,
-      "rank": 31,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 254269,
       "num": 254269,
       "word": "以空军飞越1800公里空袭也门胡塞武装",
@@ -2721,14 +2753,6 @@
       "onboard_time": 1727835798,
       "rank": 8,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 245254,
-      "num": 245254,
-      "word": "出入平安撤档",
-      "onboard_time": 1727962400,
-      "rank": 25,
-      "category": "电影"
     },
     {
       "raw_hot": 244304,
@@ -2881,6 +2905,14 @@
       "onboard_time": 1727869519,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 234963,
+      "num": 234963,
+      "word": "369",
+      "onboard_time": 1727964560,
+      "rank": 23,
+      "category": "电竞"
     },
     {
       "raw_hot": 234720,
@@ -3291,14 +3323,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 207309,
-      "num": 207309,
-      "word": "马龙回应是否让儿子打乒乓球",
-      "onboard_time": 1727962219,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 207239,
       "num": 575057,
       "word": "神州大地飘满中国红",
@@ -3473,6 +3497,14 @@
       "onboard_time": 1727760678,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 198927,
+      "num": 198927,
+      "word": "JackeyLove烬四杀",
+      "onboard_time": 1727964742,
+      "rank": 28,
+      "category": "电竞"
     },
     {
       "raw_hot": 198709,
@@ -3913,6 +3945,14 @@
       "onboard_time": 1727854037,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 185023,
+      "num": 185023,
+      "word": "为何很多奶茶咖啡不给去冰",
+      "onboard_time": 1727958499,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 185008,
@@ -4659,6 +4699,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 157793,
+      "num": 157793,
+      "word": "张云雷上青云不插电之夜",
+      "onboard_time": 1727963901,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
       "raw_hot": 157567,
       "num": 157567,
       "word": "台风",
@@ -4681,14 +4729,6 @@
       "onboard_time": 1727768778,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 157024,
-      "num": 157024,
-      "word": "为何很多奶茶咖啡不给去冰",
-      "onboard_time": 1727958499,
-      "rank": 49,
-      "category": "美食"
     },
     {
       "raw_hot": 156660,
@@ -5091,6 +5131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 144216,
+      "num": 144216,
+      "word": "WTT赛程",
+      "onboard_time": 1727964441,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 143976,
       "num": 172735,
       "word": "国庆假期首日北京下雪了",
@@ -5337,6 +5385,14 @@
       "onboard_time": 1727929938,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 137713,
+      "num": 137713,
+      "word": "幼童车祸后做CT发现1年前磁力珠",
+      "onboard_time": 1727964981,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 137551,
@@ -5905,6 +5961,14 @@
       "onboard_time": 1727763618,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 120765,
+      "num": 120765,
+      "word": "马龙说我年龄也不算大",
+      "onboard_time": 1727965160,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 120713,
@@ -6491,6 +6555,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 108371,
+      "num": 108371,
+      "word": "伊藤美诚说很开心又能和孙颖莎交手",
+      "onboard_time": 1727962219,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 108192,
       "num": 121711,
       "word": "小鹦鹉找回主人礼貌跟民警说拜拜",
@@ -6912,6 +6984,14 @@
       "word": "周启豪逆转晋级16强",
       "onboard_time": 1727871678,
       "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 99725,
+      "num": 275426,
+      "word": "国乒锁定中国大满贯混双冠军",
+      "onboard_time": 1727964140,
+      "rank": 19,
       "category": "体育"
     },
     {
@@ -7593,6 +7673,14 @@
       "onboard_time": 1727858598,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 75310,
+      "num": 284409,
+      "word": "清澈童声唱响我和我的祖国",
+      "onboard_time": 1727964380,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 75183,
@@ -8971,6 +9059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 17367,
+      "num": 508463,
+      "word": "读懂中国75年发展密码",
+      "onboard_time": 1727962759,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 17212,
       "num": 44034,
       "word": "警号004391重启",
@@ -9083,14 +9179,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 9695,
-      "num": 481392,
-      "word": "读懂中国75年发展密码",
-      "onboard_time": 1727962759,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 9599,
       "num": 229589,
       "word": "姚晨把中国算盘带到巴黎",
@@ -9141,6 +9229,9 @@
     },
     {
       "word": "#75年岁月绘写美丽中国#"
+    },
+    {
+      "word": "#习近平说给老百姓花钱不要抠抠搜搜#"
     }
   ]
 }
