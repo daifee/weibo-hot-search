@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1727937065688,
+  "endTime": 1727937879133,
   "band_list": [
     {
       "raw_hot": 11925969,
@@ -1147,6 +1147,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 465862,
+      "num": 465862,
+      "word": "专家称期待已久的楼市银十回来了",
+      "onboard_time": 1727933478,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 465493,
       "num": 365145,
       "word": "offer6带教 香港首位内地女性大律师",
@@ -1243,6 +1251,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 449865,
+      "num": 449865,
+      "word": "听泉鉴宝连线太精彩了",
+      "onboard_time": 1727934738,
+      "rank": 3,
+      "category": "网红"
+    },
+    {
       "raw_hot": 447677,
       "num": 399850,
       "word": "继业 既生专何生本",
@@ -1331,14 +1347,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 418098,
-      "num": 352378,
-      "word": "听泉鉴宝连线太精彩了",
-      "onboard_time": 1727934738,
-      "rank": 3,
-      "category": "网红"
-    },
-    {
       "raw_hot": 416302,
       "num": 244823,
       "word": "恒大地产和许家印等被处分",
@@ -1392,14 +1400,6 @@
       "word": "南昌烟花",
       "onboard_time": 1727785639,
       "rank": 27,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 401496,
-      "num": 401496,
-      "word": "专家称期待已久的楼市银十回来了",
-      "onboard_time": 1727933478,
-      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -1481,6 +1481,14 @@
       "onboard_time": 1727880320,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 376391,
+      "num": 289797,
+      "word": "半熟男女 分手了人生是旷野",
+      "onboard_time": 1727934560,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 372574,
@@ -1699,6 +1707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 319020,
+      "num": 319020,
+      "word": "国庆天安门升旗仪式这个彩蛋看哭了",
+      "onboard_time": 1727935757,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 315462,
       "num": 315462,
       "word": "伊藤美诚3比0倪夏莲",
@@ -1883,14 +1899,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 289797,
-      "num": 289797,
-      "word": "半熟男女 分手了人生是旷野",
-      "onboard_time": 1727934560,
-      "rank": 13,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 288920,
       "num": 288920,
       "word": "东北雨姐道歉视频不见了",
@@ -1979,20 +1987,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 279915,
+      "num": 275074,
+      "word": "周深因为手背青筋被暴击",
+      "onboard_time": 1727934018,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 275305,
       "num": 208378,
       "word": "双轨男主 何与",
       "onboard_time": 1727880441,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 275074,
-      "num": 275074,
-      "word": "周深因为手背青筋被暴击",
-      "onboard_time": 1727934018,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 274826,
@@ -2280,6 +2288,14 @@
       "word": "何卓佳11比1",
       "onboard_time": 1727850198,
       "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 246552,
+      "num": 168960,
+      "word": "王楚钦说看见梁靖崑就想笑",
+      "onboard_time": 1727937078,
+      "rank": 21,
       "category": "体育"
     },
     {
@@ -2769,6 +2785,14 @@
       "onboard_time": 1727783479,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 207322,
+      "num": 158449,
+      "word": "花少团有事情刘烨是真上",
+      "onboard_time": 1727936837,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 207239,
@@ -3875,14 +3899,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 158449,
-      "num": 158449,
-      "word": "花少团有事情刘烨是真上",
-      "onboard_time": 1727936837,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 158446,
       "num": 158446,
       "word": "卫昭不抢亲 直接喊停婚礼",
@@ -4179,6 +4195,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 148154,
+      "num": 183063,
+      "word": "林诗栋vs卡尔伯格",
+      "onboard_time": 1727935878,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 146842,
       "num": 146842,
       "word": "美国制裁以色列两名个人及一个实体",
@@ -4307,20 +4331,20 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 142533,
+      "num": 142533,
+      "word": "陈哲远演技",
+      "onboard_time": 1727937198,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 141738,
       "num": 141738,
       "word": "雅 中国的面地球的力量",
       "onboard_time": 1727859977,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 141663,
-      "num": 289813,
-      "word": "国庆天安门升旗仪式这个彩蛋看哭了",
-      "onboard_time": 1727935757,
-      "rank": 8,
-      "category": "国内时政"
     },
     {
       "raw_hot": 141509,
@@ -4684,7 +4708,7 @@
     },
     {
       "raw_hot": 132023,
-      "num": 132023,
+      "num": 255655,
       "word": "妈妈抱着升旗后的张威哭了",
       "onboard_time": 1727935819,
       "rank": 33,
@@ -4843,6 +4867,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 127335,
+      "num": 248892,
+      "word": "莫雷加德进中国大满贯8强",
+      "onboard_time": 1727933419,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 126856,
       "num": 126856,
       "word": "中概股空头亏损69亿美元",
@@ -4953,6 +4985,14 @@
       "onboard_time": 1727763078,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 124022,
+      "num": 124022,
+      "word": "博物馆昆虫被2孩子偷走",
+      "onboard_time": 1727937317,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 123585,
@@ -5201,14 +5241,6 @@
       "onboard_time": 1727865139,
       "rank": 39,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 116103,
-      "num": 248892,
-      "word": "莫雷加德进中国大满贯8强",
-      "onboard_time": 1727933419,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 116001,
@@ -6091,6 +6123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 84734,
+      "num": 84734,
+      "word": "人人人人重庆人人人人",
+      "onboard_time": 1727934979,
+      "rank": 46,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 84393,
       "num": 84393,
       "word": "心疼卫昭",
@@ -6137,6 +6177,14 @@
       "onboard_time": 1727737396,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 81906,
+      "num": 81906,
+      "word": "熊猫妈妈假期无聊得开始rua崽了",
+      "onboard_time": 1727937438,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 81794,
@@ -6329,14 +6377,6 @@
       "onboard_time": 1727799138,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 74936,
-      "num": 183063,
-      "word": "林诗栋vs卡尔伯格",
-      "onboard_time": 1727935878,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 73981,
@@ -7393,6 +7433,14 @@
       "onboard_time": 1727894711,
       "rank": 42,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 25801,
+      "num": 243713,
+      "word": "国庆假期人比趵突泉里的锦鲤还多",
+      "onboard_time": 1727937078,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 24784,
