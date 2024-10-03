@@ -1,6 +1,6 @@
 {
   "startTime": 1727972886536,
-  "endTime": 1727984189921,
+  "endTime": 1727987049159,
   "band_list": [
     {
       "raw_hot": 695912,
@@ -475,6 +475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 40366,
+      "num": 34988,
+      "word": "黎巴嫩遭以色列空袭超15万人逃离",
+      "onboard_time": 1727984952,
+      "rank": 16,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 39886,
       "num": 39886,
       "word": "超3万人给749局打1星",
@@ -489,6 +497,22 @@
       "onboard_time": 1727952199,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 32363,
+      "num": 32363,
+      "word": "以色列遍地防空设施黎巴嫩却难有",
+      "onboard_time": 1727984471,
+      "rank": 23,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 29723,
+      "num": 29723,
+      "word": "伊朗直指中东地区冲突激化根源所在",
+      "onboard_time": 1727983813,
+      "rank": 41,
+      "category": "国外时政"
     },
     {
       "raw_hot": 29485,
@@ -515,12 +539,20 @@
       "category": "读书作家,情感"
     },
     {
-      "raw_hot": 22054,
-      "num": 22054,
-      "word": "伊朗直指中东地区冲突激化根源所在",
-      "onboard_time": 1727983813,
-      "rank": 41,
-      "category": "国外时政"
+      "raw_hot": 22321,
+      "num": 22321,
+      "word": "男子向十多个人骗钱赌博被判5年半",
+      "onboard_time": 1727985791,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 17928,
+      "num": 21952,
+      "word": "潘玮柏二刷的杭州面馆1天卖千碗",
+      "onboard_time": 1727986510,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 17835,
@@ -529,6 +561,14 @@
       "onboard_time": 1727975955,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 17566,
+      "num": 21951,
+      "word": "流水迢迢",
+      "onboard_time": 1727948959,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 14501,

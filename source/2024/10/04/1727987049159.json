@@ -1,0 +1,410 @@
+{
+  "runTime": 1727987049159,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 65070,
+        "num": 65070,
+        "word": "俄扣押美国两家银行数亿美元资金",
+        "onboard_time": 1727970738,
+        "rank": 0,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 64196,
+        "num": 64196,
+        "word": "中国海警现身阿拉斯加附近打乱美国布局",
+        "onboard_time": 1727963000,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 3264,
+        "num": 50884,
+        "word": "大型纪录片为了新中国",
+        "onboard_time": 1727962460,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 40407,
+        "num": 40407,
+        "word": "这不是特效是中国非遗表演",
+        "onboard_time": 1727967860,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36900,
+        "num": 36900,
+        "word": "长沙坡子街派出所成热门打卡地",
+        "onboard_time": 1727975895,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 35132,
+        "num": 35132,
+        "word": "100斤女警穿70斤衣服排爆",
+        "onboard_time": 1727940258,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29941,
+        "num": 35130,
+        "word": "国庆堵在隧道众人下车大合唱",
+        "onboard_time": 1727972299,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29352,
+        "num": 35108,
+        "word": "好了好了知道你在过国庆了",
+        "onboard_time": 1727958020,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26776,
+        "num": 35105,
+        "word": "半熟男女 爱人先爱己",
+        "onboard_time": 1727956219,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 12538,
+        "num": 35089,
+        "word": "永夜星河",
+        "onboard_time": 1727953279,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 199730,
+        "num": 35076,
+        "word": "中方警告一场全面战争一触即发",
+        "onboard_time": 1727946619,
+        "rank": 10,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 64162,
+        "num": 35052,
+        "word": "王一博 石猴出世",
+        "onboard_time": 1727971339,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 60906,
+        "num": 35043,
+        "word": "伊朗称将非常规回应以色列袭击",
+        "onboard_time": 1727972837,
+        "rank": 12,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 55238,
+        "num": 35025,
+        "word": "100多名美国公民及其亲属撤出黎巴嫩",
+        "onboard_time": 1727976674,
+        "rank": 13,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 49428,
+        "num": 35015,
+        "word": "出入平安撤档",
+        "onboard_time": 1727962400,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 49386,
+        "num": 34998,
+        "word": "以色列",
+        "onboard_time": 1727966539,
+        "rank": 15,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 40366,
+        "num": 34988,
+        "word": "黎巴嫩遭以色列空袭超15万人逃离",
+        "onboard_time": 1727984952,
+        "rank": 16,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 40029,
+        "num": 34974,
+        "word": "东京食尸鬼 蜈蚣耳塞",
+        "onboard_time": 1727968338,
+        "rank": 17,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 38391,
+        "num": 34959,
+        "word": "Angelababy带小海绵做爱心餐",
+        "onboard_time": 1727947038,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37357,
+        "num": 34955,
+        "word": "差点没认出来林允",
+        "onboard_time": 1727954779,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 27834,
+        "num": 34931,
+        "word": "男子战火逆行救助数百只失去主人动物",
+        "onboard_time": 1727973497,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34928,
+        "num": 34928,
+        "word": "假期去冰岛旅游的人已经后悔了",
+        "onboard_time": 1727965460,
+        "rank": 21,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 33787,
+        "num": 33787,
+        "word": "多名游客挤在黄山景区厕所过夜",
+        "onboard_time": 1727957121,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32363,
+        "num": 32363,
+        "word": "以色列遍地防空设施黎巴嫩却难有",
+        "onboard_time": 1727984471,
+        "rank": 23,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 31962,
+        "num": 31962,
+        "word": "贵州织金发生山体垮塌6人死亡",
+        "onboard_time": 1727971159,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31316,
+        "num": 31316,
+        "word": "超3万人给749局打1星",
+        "onboard_time": 1727980212,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 31153,
+        "num": 31153,
+        "word": "幼童车祸后做CT发现1年前磁力珠",
+        "onboard_time": 1727964981,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29723,
+        "num": 29723,
+        "word": "伊朗直指中东地区冲突激化根源所在",
+        "onboard_time": 1727983813,
+        "rank": 27,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 27551,
+        "num": 27551,
+        "word": "夫妻在广州看房不到3小时下定金",
+        "onboard_time": 1727967139,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26094,
+        "num": 26094,
+        "word": "TES战胜T1",
+        "onboard_time": 1727964380,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 25854,
+        "num": 25854,
+        "word": "五百肖央盛赞赵丽颖",
+        "onboard_time": 1727968760,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 24768,
+        "num": 24768,
+        "word": "堵车演唱会开在了音效最好的地方",
+        "onboard_time": 1727969000,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24076,
+        "num": 24076,
+        "word": "江慈为卫昭留下一子",
+        "onboard_time": 1727968579,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 23993,
+        "num": 23993,
+        "word": "凤凰浴火重生这一刻具象化了",
+        "onboard_time": 1727967499,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22585,
+        "num": 22585,
+        "word": "给老人设计的拐杖却被年轻人买爆",
+        "onboard_time": 1727950759,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22321,
+        "num": 22321,
+        "word": "男子向十多个人骗钱赌博被判5年半",
+        "onboard_time": 1727985791,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22290,
+        "num": 22290,
+        "word": "何秋亊请假",
+        "onboard_time": 1727966901,
+        "rank": 36,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 22282,
+        "num": 22282,
+        "word": "深圳1家6口放弃旅游改看房",
+        "onboard_time": 1727951180,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22266,
+        "num": 22266,
+        "word": "大陆女生勇闯台湾娱乐圈",
+        "onboard_time": 1727970080,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21963,
+        "num": 21963,
+        "word": "TES全员发博碰拳",
+        "onboard_time": 1727969959,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 21043,
+        "num": 21963,
+        "word": "广州地产销售说每天忙到2万步数",
+        "onboard_time": 1727969181,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21024,
+        "num": 21962,
+        "word": "薛之谦自拍",
+        "onboard_time": 1727967020,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 20685,
+        "num": 21960,
+        "word": "LNG战胜TL",
+        "onboard_time": 1727977095,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 20127,
+        "num": 21958,
+        "word": "GEN战胜WBG",
+        "onboard_time": 1727968760,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 19233,
+        "num": 21955,
+        "word": "TL对战LNG",
+        "onboard_time": 1727970920,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 19198,
+        "num": 21955,
+        "word": "陈梦闪现崂山为青岛上大分",
+        "onboard_time": 1727973917,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 17928,
+        "num": 21952,
+        "word": "潘玮柏二刷的杭州面馆1天卖千碗",
+        "onboard_time": 1727986510,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17566,
+        "num": 21951,
+        "word": "流水迢迢",
+        "onboard_time": 1727948959,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16856,
+        "num": 21949,
+        "word": "游客在长沙走路都要排队",
+        "onboard_time": 1727970859,
+        "rank": 48,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 14778,
+        "num": 21948,
+        "word": "马龙晋级中国大满贯8强",
+        "onboard_time": 1727959279,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平说给老百姓花钱不要抠抠搜搜#"
+    }
+  }
+}
