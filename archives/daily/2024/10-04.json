@@ -1,6 +1,6 @@
 {
   "startTime": 1727972886536,
-  "endTime": 1727987864170,
+  "endTime": 1727990451332,
   "band_list": [
     {
       "raw_hot": 695912,
@@ -259,6 +259,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 127192,
+      "num": 38320,
+      "word": "黎巴嫩遭以色列空袭超15万人逃离",
+      "onboard_time": 1727984952,
+      "rank": 16,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 123052,
       "num": 123052,
       "word": "TES全员发博碰拳",
@@ -377,14 +385,6 @@
       "onboard_time": 1727966959,
       "rank": 44,
       "category": "电影"
-    },
-    {
-      "raw_hot": 83060,
-      "num": 38320,
-      "word": "黎巴嫩遭以色列空袭超15万人逃离",
-      "onboard_time": 1727984952,
-      "rank": 16,
-      "category": "国外时政"
     },
     {
       "raw_hot": 79440,
@@ -523,6 +523,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 28776,
+      "num": 28776,
+      "word": "TES对战T1",
+      "onboard_time": 1727960179,
+      "rank": 28,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 26401,
+      "num": 26401,
+      "word": "潘玮柏二刷的杭州面馆1天卖千碗",
+      "onboard_time": 1727986510,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 24333,
       "num": 78357,
       "word": "我们中国我没有看够",
@@ -547,14 +563,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 19944,
-      "num": 21952,
-      "word": "潘玮柏二刷的杭州面馆1天卖千碗",
-      "onboard_time": 1727986510,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 17835,
       "num": 84435,
       "word": "红军长征时留下布满弹孔的旗帜",
@@ -569,6 +577,14 @@
       "onboard_time": 1727948959,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 16524,
+      "num": 18289,
+      "word": "国乒提前包揽混双冠亚军",
+      "onboard_time": 1727989212,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 14501,
