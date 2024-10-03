@@ -1,6 +1,6 @@
 {
   "startTime": 1727540758074,
-  "endTime": 1727962147452,
+  "endTime": 1727962831207,
   "band_list": [
     {
       "raw_hot": 11925969,
@@ -1091,6 +1091,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 748620,
+      "num": 1119779,
+      "word": "好了好了知道你在过国庆了",
+      "onboard_time": 1727958020,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 747235,
       "num": 1119557,
       "word": "HPV疫苗已降到20多元1支",
@@ -1707,14 +1715,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 587106,
-      "num": 1093937,
-      "word": "好了好了知道你在过国庆了",
-      "onboard_time": 1727958020,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 584315,
       "num": 236506,
       "word": "网红自曝开劳被人持刀携爆炸物抢劫",
@@ -1996,7 +1996,7 @@
     },
     {
       "raw_hot": 524824,
-      "num": 326624,
+      "num": 329653,
       "word": "迪丽热巴晚间溜达七宫格",
       "onboard_time": 1727956280,
       "rank": 15,
@@ -2411,8 +2411,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 455818,
+      "num": 455818,
+      "word": "国庆假期能不能多开点夜间高铁",
+      "onboard_time": 1727959580,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 455126,
-      "num": 329461,
+      "num": 332311,
       "word": "TES对战T1",
       "onboard_time": 1727960179,
       "rank": 39,
@@ -2656,14 +2664,6 @@
       "word": "房企涨价",
       "onboard_time": 1727607620,
       "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 421658,
-      "num": 421658,
-      "word": "国庆假期能不能多开点夜间高铁",
-      "onboard_time": 1727959580,
-      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -2977,6 +2977,14 @@
       "onboard_time": 1727926457,
       "rank": 31,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 381256,
+      "num": 332808,
+      "word": "向佐 鼻梁中有老婆",
+      "onboard_time": 1727959279,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 379760,
@@ -3563,6 +3571,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 320983,
+      "num": 320983,
+      "word": "陈立农家仓库屋顶被台风吹跑了",
+      "onboard_time": 1727958380,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 320829,
       "num": 320829,
       "word": "倪妮红裙生图",
@@ -3633,14 +3649,6 @@
       "onboard_time": 1727792121,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 313109,
-      "num": 313109,
-      "word": "向佐 鼻梁中有老婆",
-      "onboard_time": 1727959279,
-      "rank": 49,
-      "category": "电影"
     },
     {
       "raw_hot": 312482,
@@ -3865,6 +3873,14 @@
       "onboard_time": 1727911695,
       "rank": 15,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 295149,
+      "num": 330760,
+      "word": "林高远3比0格罗特",
+      "onboard_time": 1727961860,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 294931,
@@ -4153,14 +4169,6 @@
       "onboard_time": 1727790562,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 280108,
-      "num": 280108,
-      "word": "陈立农家仓库屋顶被台风吹跑了",
-      "onboard_time": 1727958380,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 279915,
@@ -4587,6 +4595,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 255218,
+      "num": 255218,
+      "word": "养狗就别在家里健身了",
+      "onboard_time": 1727960720,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 254269,
       "num": 254269,
       "word": "以空军飞越1800公里空袭也门胡塞武装",
@@ -4601,14 +4617,6 @@
       "onboard_time": 1727957121,
       "rank": 36,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 253344,
-      "num": 320159,
-      "word": "林高远3比0格罗特",
-      "onboard_time": 1727961860,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 252419,
@@ -4753,6 +4761,14 @@
       "onboard_time": 1727835798,
       "rank": 8,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 245254,
+      "num": 245254,
+      "word": "出入平安撤档",
+      "onboard_time": 1727962400,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 244881,
@@ -5659,6 +5675,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 209158,
+      "num": 209158,
+      "word": "王曼昱被闪光灯影响",
+      "onboard_time": 1727961980,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 209133,
       "num": 209133,
       "word": "孙颖莎9400分世排第一",
@@ -5713,6 +5737,14 @@
       "onboard_time": 1727936837,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 207309,
+      "num": 207309,
+      "word": "马龙回应是否让儿子打乒乓球",
+      "onboard_time": 1727962219,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 207239,
@@ -6195,6 +6227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 195964,
+      "num": 325934,
+      "word": "出入平安",
+      "onboard_time": 1727701040,
+      "rank": 14,
+      "category": "电影"
+    },
+    {
       "raw_hot": 195836,
       "num": 195836,
       "word": "安溥手写国庆祝福",
@@ -6353,6 +6393,14 @@
       "onboard_time": 1727943977,
       "rank": 41,
       "category": "电影"
+    },
+    {
+      "raw_hot": 193178,
+      "num": 329933,
+      "word": "王曼昱3比0覃予萱",
+      "onboard_time": 1727961860,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 193112,
@@ -6809,14 +6857,6 @@
       "onboard_time": 1727556492,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 185792,
-      "num": 185792,
-      "word": "养狗就别在家里健身了",
-      "onboard_time": 1727960720,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 185753,
@@ -8771,14 +8811,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 146643,
-      "num": 146643,
-      "word": "王曼昱被闪光灯影响",
-      "onboard_time": 1727961980,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 146634,
       "num": 146634,
       "word": "我以为的749局",
@@ -9547,6 +9579,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 135182,
+      "num": 135182,
+      "word": "向佐 喜剧天赋",
+      "onboard_time": 1727962100,
+      "rank": 49,
+      "category": "电影"
+    },
+    {
       "raw_hot": 135178,
       "num": 135178,
       "word": "王源演唱会爆改相亲角",
@@ -10097,14 +10137,6 @@
       "onboard_time": 1727680700,
       "rank": 42,
       "category": "财经"
-    },
-    {
-      "raw_hot": 128481,
-      "num": 128481,
-      "word": "向佐 喜剧天赋",
-      "onboard_time": 1727962100,
-      "rank": 49,
-      "category": "电影"
     },
     {
       "raw_hot": 128396,
@@ -11931,14 +11963,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 103539,
-      "num": 315096,
-      "word": "王曼昱3比0覃予萱",
-      "onboard_time": 1727961860,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 103454,
       "num": 103454,
       "word": "李梦偶遇小猪合影被吓到",
@@ -12249,14 +12273,6 @@
       "onboard_time": 1727940317,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 99165,
-      "num": 325934,
-      "word": "出入平安",
-      "onboard_time": 1727701040,
-      "rank": 14,
-      "category": "电影"
     },
     {
       "raw_hot": 99038,
@@ -12987,6 +13003,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 80243,
+      "num": 515601,
+      "word": "中国人的餐桌75年变迁史",
+      "onboard_time": 1727944878,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 80218,
       "num": 192914,
       "word": "今天我们筑起新的长城",
@@ -13008,6 +13032,14 @@
       "word": "外地蟹冒充阳澄湖蟹是公开的秘密",
       "onboard_time": 1727618541,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 78633,
+      "num": 158053,
+      "word": "国庆黄金周也是楼市黄金周",
+      "onboard_time": 1727962340,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -13276,7 +13308,7 @@
     },
     {
       "raw_hot": 72949,
-      "num": 286833,
+      "num": 339330,
       "word": "国庆假期文物展有多丰盛",
       "onboard_time": 1727949679,
       "rank": 20,
@@ -13505,6 +13537,14 @@
       "onboard_time": 1727575159,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 65450,
+      "num": 346515,
+      "word": "6岁警娃国庆节跟爸爸巡边3小时累到哭",
+      "onboard_time": 1727960780,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 65010,
@@ -13835,14 +13875,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 55601,
-      "num": 515601,
-      "word": "中国人的餐桌75年变迁史",
-      "onboard_time": 1727944878,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 55313,
       "num": 278299,
       "word": "电影志愿军存亡之战上映",
@@ -13913,14 +13945,6 @@
       "onboard_time": 1727804174,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 52053,
-      "num": 346515,
-      "word": "6岁警娃国庆节跟爸爸巡边3小时累到哭",
-      "onboard_time": 1727960780,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 52020,
@@ -14947,6 +14971,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 29817,
+      "num": 338821,
+      "word": "大型纪录片为了新中国",
+      "onboard_time": 1727962460,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 29815,
       "num": 377385,
       "word": "国庆一起云游全国景区",
@@ -15729,6 +15761,14 @@
       "onboard_time": 1727691379,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 9695,
+      "num": 481392,
+      "word": "读懂中国75年发展密码",
+      "onboard_time": 1727962759,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 9599,
