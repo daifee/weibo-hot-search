@@ -1,6 +1,6 @@
 {
   "startTime": 1727886505064,
-  "endTime": 1727951034001,
+  "endTime": 1727952102845,
   "band_list": [
     {
       "raw_hot": 1864900,
@@ -43,7 +43,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1181361,
+      "raw_hot": 1214498,
       "num": 676978,
       "word": "Angelababy带小海绵做爱心餐",
       "onboard_time": 1727947038,
@@ -147,6 +147,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 646096,
+      "num": 460775,
+      "word": "马伯骞 留子果然什么都能吃",
+      "onboard_time": 1727950697,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 639876,
       "num": 639876,
       "word": "港股突变",
@@ -185,6 +193,14 @@
       "onboard_time": 1727883798,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 559430,
+      "num": 559430,
+      "word": "95后北大博士范富荣履新副市长",
+      "onboard_time": 1727950458,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 548529,
@@ -265,6 +281,14 @@
       "onboard_time": 1727935757,
       "rank": 8,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 493670,
+      "num": 901337,
+      "word": "孙颖莎王艺迪vs杜凯琹刘杨子",
+      "onboard_time": 1727950339,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 493473,
@@ -603,6 +627,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 279625,
+      "num": 173072,
+      "word": "深圳1家6口放弃旅游改看房",
+      "onboard_time": 1727951180,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 279163,
       "num": 279163,
       "word": "马龙说或许这是最后一次国际赛",
@@ -689,14 +721,6 @@
       "onboard_time": 1727867900,
       "rank": 6,
       "category": "国内时政,军事"
-    },
-    {
-      "raw_hot": 258499,
-      "num": 258499,
-      "word": "马伯骞 留子果然什么都能吃",
-      "onboard_time": 1727950697,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 257499,
@@ -787,6 +811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 223651,
+      "num": 223651,
+      "word": "给老人设计的拐杖却被年轻人买爆",
+      "onboard_time": 1727950759,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 220662,
       "num": 220662,
       "word": "749局 导演能力",
@@ -857,6 +889,14 @@
       "onboard_time": 1727915537,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 201338,
+      "num": 201338,
+      "word": "英雄联盟S14",
+      "onboard_time": 1727950939,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 201326,
@@ -971,14 +1011,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 179355,
-      "num": 179355,
-      "word": "给老人设计的拐杖却被年轻人买爆",
-      "onboard_time": 1727950759,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 177523,
       "num": 177523,
       "word": "林高远搂着勒布伦",
@@ -1035,6 +1067,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 169216,
+      "num": 169216,
+      "word": "真主党领导人身亡前同意停火",
+      "onboard_time": 1727951180,
+      "rank": 31,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 168432,
       "num": 168432,
       "word": "秋月梨桂花百香果",
@@ -1075,6 +1115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 161650,
+      "num": 161650,
+      "word": "孙颖莎王艺迪3比0杜凯琹刘杨子",
+      "onboard_time": 1727951898,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 160016,
       "num": 160016,
       "word": "赵今麦刘浩存张元英官方认领图",
@@ -1113,6 +1161,14 @@
       "onboard_time": 1727933599,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 156552,
+      "num": 156552,
+      "word": "高铁上查票是什么原因",
+      "onboard_time": 1727947819,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 156183,
@@ -1179,14 +1235,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 148437,
-      "num": 148437,
-      "word": "高铁上查票是什么原因",
-      "onboard_time": 1727947819,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 148154,
       "num": 183063,
       "word": "林诗栋vs卡尔伯格",
@@ -1248,14 +1296,6 @@
       "word": "王楚钦回应双甜组合网名",
       "onboard_time": 1727938518,
       "rank": 34,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 142611,
-      "num": 901337,
-      "word": "孙颖莎王艺迪vs杜凯琹刘杨子",
-      "onboard_time": 1727950339,
-      "rank": 6,
       "category": "体育"
     },
     {
@@ -1339,6 +1379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 137551,
+      "num": 137551,
+      "word": "周深鸟巢演唱会vlog",
+      "onboard_time": 1727951239,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
       "raw_hot": 137357,
       "num": 137357,
       "word": "小西天景区文旅局道歉",
@@ -1361,6 +1409,14 @@
       "onboard_time": 1727929639,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 133609,
+      "num": 133609,
+      "word": "无畏的动态MVP结算",
+      "onboard_time": 1727950820,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 133238,
@@ -1395,14 +1451,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 132283,
-      "num": 132283,
-      "word": "无畏的动态MVP结算",
-      "onboard_time": 1727950820,
-      "rank": 35,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 132161,
       "num": 176367,
       "word": "我要你绑架我好小众的请求",
@@ -1433,14 +1481,6 @@
       "onboard_time": 1727924358,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 128238,
-      "num": 235295,
-      "word": "95后北大博士范富荣履新副市长",
-      "onboard_time": 1727950458,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 127398,
@@ -1587,14 +1627,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 117278,
-      "num": 117278,
-      "word": "英雄联盟S14",
-      "onboard_time": 1727950939,
-      "rank": 42,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 117225,
       "num": 117225,
       "word": "边伯贤三百万solo歌手",
@@ -1627,6 +1659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 114434,
+      "num": 114434,
+      "word": "下一战歌手第六期歌单",
+      "onboard_time": 1727952018,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 113678,
       "num": 113678,
       "word": "魏大勋开机路透",
@@ -1641,6 +1681,14 @@
       "onboard_time": 1727929938,
       "rank": 42,
       "category": "财经"
+    },
+    {
+      "raw_hot": 113140,
+      "num": 297027,
+      "word": "游客捅马蜂窝致多人被蜇伤",
+      "onboard_time": 1727949918,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 112943,
@@ -1739,6 +1787,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 107386,
+      "num": 107386,
+      "word": "以军称打死加沙地带哈马斯领导人",
+      "onboard_time": 1727951718,
+      "rank": 48,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 106770,
       "num": 106770,
       "word": "一大波国漫集合回归了",
@@ -1801,6 +1857,14 @@
       "onboard_time": 1727940918,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 102564,
+      "num": 443713,
+      "word": "孙颖莎王艺迪女双4强",
+      "onboard_time": 1727951838,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 102538,
@@ -2267,6 +2331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 57917,
+      "num": 473835,
+      "word": "孙颖莎一天双赛",
+      "onboard_time": 1727947399,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 57326,
       "num": 89549,
       "word": "王楚钦梁靖崑vs洛伦佐萨琳",
@@ -2291,28 +2363,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 55694,
-      "num": 297027,
-      "word": "游客捅马蜂窝致多人被蜇伤",
-      "onboard_time": 1727949918,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 55603,
       "num": 89530,
       "word": "749局",
       "onboard_time": 1727881220,
       "rank": 49,
       "category": "电影"
-    },
-    {
-      "raw_hot": 55352,
-      "num": 151260,
-      "word": "孙颖莎一天双赛",
-      "onboard_time": 1727947399,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 52737,
@@ -2329,6 +2385,14 @@
       "onboard_time": 1727935757,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 51972,
+      "num": 453827,
+      "word": "RW对战DRG",
+      "onboard_time": 1727950820,
+      "rank": 14,
+      "category": "电竞"
     },
     {
       "raw_hot": 50897,
@@ -2361,14 +2425,6 @@
       "onboard_time": 1727905091,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 45996,
-      "num": 450473,
-      "word": "RW对战DRG",
-      "onboard_time": 1727950820,
-      "rank": 14,
-      "category": "电竞"
     },
     {
       "raw_hot": 45282,
@@ -2515,6 +2571,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 25882,
+      "num": 449213,
+      "word": "林高远林诗栋男双进四强",
+      "onboard_time": 1727951838,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 25801,
       "num": 243713,
       "word": "国庆假期人比趵突泉里的锦鲤还多",
@@ -2545,6 +2609,14 @@
       "onboard_time": 1727903051,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 19785,
+      "num": 440450,
+      "word": "MONSTAX完整体合照",
+      "onboard_time": 1727951239,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 19358,
@@ -2671,6 +2743,9 @@
     },
     {
       "word": "#习近平心头最大的牵挂#"
+    },
+    {
+      "word": "#75年岁月绘写美丽中国#"
     }
   ]
 }
