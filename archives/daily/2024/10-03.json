@@ -1,6 +1,6 @@
 {
   "startTime": 1727886505064,
-  "endTime": 1727924568716,
+  "endTime": 1727926057706,
   "band_list": [
     {
       "raw_hot": 1025547,
@@ -51,12 +51,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 654516,
+      "num": 260331,
+      "word": "以色列又一次攻击联合国工作人员",
+      "onboard_time": 1727922017,
+      "rank": 14,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 608309,
       "num": 478070,
       "word": "全红婵国庆节又回家带娃了",
       "onboard_time": 1727914216,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 600786,
+      "num": 600786,
+      "word": "广深售楼部挤满了买房的人",
+      "onboard_time": 1727922437,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 591321,
@@ -139,23 +155,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 410919,
-      "num": 260331,
-      "word": "以色列又一次攻击联合国工作人员",
-      "onboard_time": 1727922017,
-      "rank": 14,
-      "category": "国外时政"
-    },
-    {
-      "raw_hot": 409940,
-      "num": 409940,
-      "word": "广深售楼部挤满了买房的人",
-      "onboard_time": 1727922437,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 408089,
+      "raw_hot": 413263,
       "num": 261516,
       "word": "多国声援联合国秘书长",
       "onboard_time": 1727922017,
@@ -307,6 +307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 259346,
+      "num": 235506,
+      "word": "孙颖莎vs刘炜珊",
+      "onboard_time": 1727925499,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 259026,
       "num": 259026,
       "word": "中国飞机炮火中逆行至黎巴嫩撤侨",
@@ -321,6 +329,14 @@
       "onboard_time": 1727868380,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 257172,
+      "num": 428090,
+      "word": "国庆档电影票房一路飘红破纪录",
+      "onboard_time": 1727923037,
+      "rank": 2,
+      "category": "电影"
     },
     {
       "raw_hot": 250710,
@@ -353,6 +369,14 @@
       "onboard_time": 1727912236,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 216346,
+      "num": 132603,
+      "word": "这些话是当上老师就自动会了吗",
+      "onboard_time": 1727925018,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 211262,
@@ -396,11 +420,19 @@
     },
     {
       "raw_hot": 192188,
-      "num": 126445,
+      "num": 177662,
       "word": "原来全世界的祖父母给钱时都这样",
       "onboard_time": 1727922379,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 190959,
+      "num": 190959,
+      "word": "神印王座放假正是修炼的时候",
+      "onboard_time": 1727925018,
+      "rank": 22,
+      "category": "动漫"
     },
     {
       "raw_hot": 176824,
@@ -433,6 +465,14 @@
       "onboard_time": 1727919497,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 163692,
+      "num": 242960,
+      "word": "一起打卡秋天里的中国",
+      "onboard_time": 1727919138,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 162808,
@@ -491,6 +531,22 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 145973,
+      "num": 145973,
+      "word": "恒生科技指数低开低走",
+      "onboard_time": 1727925018,
+      "rank": 26,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 144771,
+      "num": 144771,
+      "word": "龚俊公主抱彭小苒",
+      "onboard_time": 1727922077,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 143323,
       "num": 143323,
       "word": "美官员暗中支持以升级军事行动",
@@ -524,7 +580,7 @@
     },
     {
       "raw_hot": 140686,
-      "num": 125188,
+      "num": 126949,
       "word": "拜登不支持以色列袭击伊朗核设施",
       "onboard_time": 1727922617,
       "rank": 31,
@@ -537,6 +593,14 @@
       "onboard_time": 1727911034,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 133238,
+      "num": 133238,
+      "word": "成毅赴山海明信片",
+      "onboard_time": 1727924897,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 132710,
@@ -561,14 +625,6 @@
       "onboard_time": 1727924358,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 129914,
-      "num": 428090,
-      "word": "国庆档电影票房一路飘红破纪录",
-      "onboard_time": 1727923037,
-      "rank": 2,
-      "category": "电影"
     },
     {
       "raw_hot": 127256,
@@ -603,20 +659,20 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 120186,
-      "num": 120186,
-      "word": "龚俊公主抱彭小苒",
-      "onboard_time": 1727922077,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 120158,
       "num": 120158,
       "word": "中网",
       "onboard_time": 1727911274,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 119769,
+      "num": 119769,
+      "word": "港股突变",
+      "onboard_time": 1727925617,
+      "rank": 35,
+      "category": "财经"
     },
     {
       "raw_hot": 119657,
@@ -691,14 +747,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 106919,
-      "num": 242960,
-      "word": "一起打卡秋天里的中国",
-      "onboard_time": 1727919138,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 106380,
       "num": 106380,
       "word": "卫昭做了周生辰不敢做的事",
@@ -721,6 +769,14 @@
       "onboard_time": 1727866218,
       "rank": 38,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 104780,
+      "num": 104780,
+      "word": "刘浩存赵今麦比心",
+      "onboard_time": 1727923997,
+      "rank": 42,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 101913,
@@ -755,14 +811,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 95246,
-      "num": 95246,
-      "word": "刘浩存赵今麦比心",
-      "onboard_time": 1727923997,
-      "rank": 42,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 90799,
       "num": 90799,
       "word": "早安我的中国",
@@ -793,6 +841,38 @@
       "onboard_time": 1727918897,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 88205,
+      "num": 88205,
+      "word": "多国反对以色列禁止古特雷斯入境",
+      "onboard_time": 1727924837,
+      "rank": 44,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 87679,
+      "num": 251864,
+      "word": "特别版红旗颂",
+      "onboard_time": 1727924717,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 87351,
+      "num": 87351,
+      "word": "有年轻人结婚不收份子钱",
+      "onboard_time": 1727925499,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 83525,
+      "num": 83525,
+      "word": "名取周一 好伟大的脸",
+      "onboard_time": 1727925499,
+      "rank": 49,
+      "category": "动漫"
     },
     {
       "raw_hot": 83443,
@@ -987,6 +1067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 46401,
+      "num": 234328,
+      "word": "以色列1小时拉响1864个警报",
+      "onboard_time": 1727925197,
+      "rank": 14,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 43842,
       "num": 264941,
       "word": "国旗护卫队高唱祖国不会忘记",
@@ -1072,6 +1160,14 @@
       "word": "他们当年靠一把炒黄豆走遍北大荒",
       "onboard_time": 1727898430,
       "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 22813,
+      "num": 501573,
+      "word": "予家予国",
+      "onboard_time": 1727925078,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -1185,6 +1281,9 @@
     },
     {
       "word": "#跟着总书记感受美丽中国#"
+    },
+    {
+      "word": "#清澈的爱祝福中国#"
     }
   ]
 }

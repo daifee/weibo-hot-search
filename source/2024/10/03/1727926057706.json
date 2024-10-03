@@ -1,0 +1,410 @@
+{
+  "runTime": 1727926057706,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 741123,
+        "num": 1118579,
+        "word": "驻日美军承认用含氟化物灭火剂19年",
+        "onboard_time": 1727922496,
+        "rank": 0,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 600786,
+        "num": 600786,
+        "word": "广深售楼部挤满了买房的人",
+        "onboard_time": 1727922437,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22813,
+        "num": 501573,
+        "word": "予家予国",
+        "onboard_time": 1727925078,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 430934,
+        "num": 430934,
+        "word": "中国公民从黎巴嫩撤离车顶贴国旗",
+        "onboard_time": 1727913196,
+        "rank": 3,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 382714,
+        "num": 382714,
+        "word": "港股",
+        "onboard_time": 1727921057,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 260187,
+        "num": 260187,
+        "word": "剩下的5天假期准备如何度过",
+        "onboard_time": 1727890994,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 35213,
+        "num": 257409,
+        "word": "国旗护卫队高唱祖国不会忘记",
+        "onboard_time": 1727923758,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 257172,
+        "num": 257172,
+        "word": "国庆档电影票房一路飘红破纪录",
+        "onboard_time": 1727923037,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 47225,
+        "num": 254483,
+        "word": "华晨宇说唱向阳而生看到国旗很自豪",
+        "onboard_time": 1727908212,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 87679,
+        "num": 251864,
+        "word": "特别版红旗颂",
+        "onboard_time": 1727924717,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 654516,
+        "num": 247062,
+        "word": "以色列又一次攻击联合国工作人员",
+        "onboard_time": 1727922017,
+        "rank": 10,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 413263,
+        "num": 242480,
+        "word": "多国声援联合国秘书长",
+        "onboard_time": 1727922017,
+        "rank": 11,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 287421,
+        "num": 240255,
+        "word": "虞书欣 双轨",
+        "onboard_time": 1727878400,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 259346,
+        "num": 235506,
+        "word": "孙颖莎vs刘炜珊",
+        "onboard_time": 1727925499,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 46401,
+        "num": 234328,
+        "word": "以色列1小时拉响1864个警报",
+        "onboard_time": 1727925197,
+        "rank": 14,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 635892,
+        "num": 230452,
+        "word": "高铁站女童坐行李箱摔下后昏迷",
+        "onboard_time": 1727920758,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227148,
+        "num": 227148,
+        "word": "梅西生涯第46冠",
+        "onboard_time": 1727922257,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 217363,
+        "num": 217363,
+        "word": "我是怎么扣扣搜搜花了很多钱的",
+        "onboard_time": 1727912236,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 200219,
+        "num": 200219,
+        "word": "749局 导演能力",
+        "onboard_time": 1727891532,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 176225,
+        "num": 197980,
+        "word": "驻日美军附近地下水有害物超标300倍",
+        "onboard_time": 1727919796,
+        "rank": 19,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 225599,
+        "num": 197964,
+        "word": "女生付完6元餐具费后打包带走碗筷",
+        "onboard_time": 1727870601,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197257,
+        "num": 197257,
+        "word": "为什么出去旅游女厕所永远在排队",
+        "onboard_time": 1727917997,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 190959,
+        "num": 190959,
+        "word": "神印王座放假正是修炼的时候",
+        "onboard_time": 1727925018,
+        "rank": 22,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 177662,
+        "num": 177662,
+        "word": "原来全世界的祖父母给钱时都这样",
+        "onboard_time": 1727922379,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 163692,
+        "num": 163692,
+        "word": "一起打卡秋天里的中国",
+        "onboard_time": 1727919138,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161990,
+        "num": 161990,
+        "word": "今天是国庆长假第3天",
+        "onboard_time": 1727912236,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145973,
+        "num": 145973,
+        "word": "恒生科技指数低开低走",
+        "onboard_time": 1727925018,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 144771,
+        "num": 144771,
+        "word": "龚俊公主抱彭小苒",
+        "onboard_time": 1727922077,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133238,
+        "num": 133238,
+        "word": "成毅赴山海明信片",
+        "onboard_time": 1727924897,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132942,
+        "num": 132942,
+        "word": "被冰箱贴硬控一小时",
+        "onboard_time": 1727911695,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 216346,
+        "num": 132603,
+        "word": "这些话是当上老师就自动会了吗",
+        "onboard_time": 1727925018,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 131669,
+        "num": 131669,
+        "word": "郑钦文晋级获得130万奖金",
+        "onboard_time": 1727919497,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127068,
+        "num": 127068,
+        "word": "马龙不希望轻易地不负责任地输球",
+        "onboard_time": 1727914878,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126949,
+        "num": 126949,
+        "word": "拜登不支持以色列袭击伊朗核设施",
+        "onboard_time": 1727922617,
+        "rank": 33,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 120076,
+        "num": 120076,
+        "word": "野生仓鼠生气的样子",
+        "onboard_time": 1727919437,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 119769,
+        "num": 119769,
+        "word": "港股突变",
+        "onboard_time": 1727925617,
+        "rank": 35,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 113282,
+        "num": 113282,
+        "word": "中国坚定支持联合国秘书长工作",
+        "onboard_time": 1727914756,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 111181,
+        "num": 111181,
+        "word": "A股疯涨普通人是否要入局",
+        "onboard_time": 1727921656,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 104780,
+        "num": 104780,
+        "word": "刘浩存赵今麦比心",
+        "onboard_time": 1727923997,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 101029,
+        "num": 101029,
+        "word": "中方反对以对联合国秘书长无端指责",
+        "onboard_time": 1727916976,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 100879,
+        "num": 100879,
+        "word": "郑钦文打到对手摔拍子",
+        "onboard_time": 1727917997,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100436,
+        "num": 100436,
+        "word": "年轻人爱上了奔县旅游",
+        "onboard_time": 1727916136,
+        "rank": 41,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 97493,
+        "num": 97493,
+        "word": "马龙解释采访被儿子打断",
+        "onboard_time": 1727911034,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 94686,
+        "num": 94686,
+        "word": "以色列空军基地被伊朗导弹击中",
+        "onboard_time": 1727881880,
+        "rank": 43,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 88205,
+        "num": 88205,
+        "word": "多国反对以色列禁止古特雷斯入境",
+        "onboard_time": 1727924837,
+        "rank": 44,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 87351,
+        "num": 87351,
+        "word": "有年轻人结婚不收份子钱",
+        "onboard_time": 1727925499,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 86518,
+        "num": 86518,
+        "word": "浴火之路 被拐的女孩",
+        "onboard_time": 1727922918,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 85846,
+        "num": 85846,
+        "word": "黄山山顶餐饮最低10块多",
+        "onboard_time": 1727910494,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 84764,
+        "num": 84764,
+        "word": "迈阿密国际美职联夺冠",
+        "onboard_time": 1727924358,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 83525,
+        "num": 83525,
+        "word": "名取周一 好伟大的脸",
+        "onboard_time": 1727925499,
+        "rank": 49,
+        "category": "动漫"
+      }
+    ],
+    "hotgov": {
+      "word": "#清澈的爱祝福中国#"
+    }
+  }
+}
