@@ -1,6 +1,6 @@
 {
   "startTime": 1727886505064,
-  "endTime": 1727930554392,
+  "endTime": 1727932914257,
   "band_list": [
     {
       "raw_hot": 1864900,
@@ -25,6 +25,14 @@
       "onboard_time": 1727878400,
       "rank": 10,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 937254,
+      "num": 1149960,
+      "word": "莫雷加德vs张本智和",
+      "onboard_time": 1727931979,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 913167,
@@ -155,6 +163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 497243,
+      "num": 497243,
+      "word": "中国基建狂魔把绝境变成打卡地",
+      "onboard_time": 1727929998,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 493473,
       "num": 493473,
       "word": "中方对中东暴力冲突提出4个必须",
@@ -169,6 +185,14 @@
       "onboard_time": 1727880500,
       "rank": 14,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 485593,
+      "num": 207748,
+      "word": "小白的心脏是两节五号电池",
+      "onboard_time": 1727928617,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 462498,
@@ -187,12 +211,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 453096,
-      "num": 159610,
-      "word": "小白的心脏是两节五号电池",
-      "onboard_time": 1727928617,
-      "rank": 30,
-      "category": "幽默"
+      "raw_hot": 457490,
+      "num": 207210,
+      "word": "林德3比2高承睿",
+      "onboard_time": 1727930478,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 425255,
@@ -451,6 +475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 233579,
+      "num": 284173,
+      "word": "孙颖莎3比1战胜刘炜珊",
+      "onboard_time": 1727929697,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 220662,
       "num": 220662,
       "word": "749局 导演能力",
@@ -499,19 +531,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 203029,
+      "num": 203029,
+      "word": "孙颖莎WTT中国大满贯三连胜",
+      "onboard_time": 1727931677,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 201326,
       "num": 295278,
       "word": "孙颖莎丝滑进8强",
       "onboard_time": 1727929458,
       "rank": 14,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 199586,
-      "num": 284173,
-      "word": "孙颖莎3比1战胜刘炜珊",
-      "onboard_time": 1727929697,
-      "rank": 9,
       "category": "体育"
     },
     {
@@ -529,6 +561,14 @@
       "onboard_time": 1727929338,
       "rank": 36,
       "category": "演出"
+    },
+    {
+      "raw_hot": 193158,
+      "num": 193158,
+      "word": "小jiojio出现的一瞬间萌化了",
+      "onboard_time": 1727932638,
+      "rank": 27,
+      "category": "幽默"
     },
     {
       "raw_hot": 193004,
@@ -587,6 +627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 170049,
+      "num": 170049,
+      "word": "郑钦文说北京低温影响她进入状态",
+      "onboard_time": 1727931259,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 168432,
       "num": 168432,
       "word": "秋月梨桂花百香果",
@@ -601,6 +649,14 @@
       "onboard_time": 1727919138,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 166735,
+      "num": 166735,
+      "word": "孙颖莎摸暖气暖暖手",
+      "onboard_time": 1727931979,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 163868,
@@ -627,6 +683,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 159711,
+      "num": 159711,
+      "word": "犬夜叉 犬薇夫妻好甜",
+      "onboard_time": 1727931677,
+      "rank": 34,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 156183,
       "num": 156183,
       "word": "福建舰官兵摆出巨型数字75",
@@ -651,6 +715,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 152013,
+      "num": 152013,
+      "word": "萨摩耶把浮萍当成了草坪",
+      "onboard_time": 1727931917,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 150942,
       "num": 251475,
       "word": "一文读懂医保统筹支付和自付自费",
@@ -665,6 +737,14 @@
       "onboard_time": 1727916077,
       "rank": 28,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 150360,
+      "num": 150360,
+      "word": "offer6带教 香港首位内地女性大律师",
+      "onboard_time": 1727932218,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 145973,
@@ -707,6 +787,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 141509,
+      "num": 203453,
+      "word": "王楚钦梁靖崑vs玛纳什塔卡",
+      "onboard_time": 1727931618,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 141115,
       "num": 141115,
       "word": "野生仓鼠生气的样子",
@@ -721,6 +809,14 @@
       "onboard_time": 1727922617,
       "rank": 31,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 139143,
+      "num": 139143,
+      "word": "金九银十大家都在买什么车",
+      "onboard_time": 1727929577,
+      "rank": 34,
+      "category": "汽车"
     },
     {
       "raw_hot": 139125,
@@ -747,14 +843,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 135380,
-      "num": 135380,
-      "word": "金九银十大家都在买什么车",
-      "onboard_time": 1727929577,
-      "rank": 34,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 134368,
       "num": 134368,
       "word": "我们的歌好友嗨唱夜阵容官宣",
@@ -777,6 +865,14 @@
       "onboard_time": 1727881940,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 131599,
+      "num": 131599,
+      "word": "邱贻可仔细检查孙颖莎球拍",
+      "onboard_time": 1727930598,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 131340,
@@ -827,6 +923,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 124300,
+      "num": 124300,
+      "word": "为什么新出的冰箱吸不住冰箱贴",
+      "onboard_time": 1727932638,
+      "rank": 45,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 123472,
       "num": 123472,
       "word": "提醒我公民暂勿前往以色列",
@@ -873,14 +977,6 @@
       "onboard_time": 1727862618,
       "rank": 34,
       "category": "电影"
-    },
-    {
-      "raw_hot": 118013,
-      "num": 118013,
-      "word": "中国基建狂魔把绝境变成打卡地",
-      "onboard_time": 1727929998,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 116849,
@@ -955,12 +1051,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 106953,
-      "num": 106953,
-      "word": "林德3比2高承睿",
-      "onboard_time": 1727930478,
-      "rank": 45,
-      "category": "体育"
+      "raw_hot": 106872,
+      "num": 279768,
+      "word": "广州有楼盘1天成交达3.5亿元",
+      "onboard_time": 1727929758,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 106380,
@@ -1020,7 +1116,7 @@
     },
     {
       "raw_hot": 98553,
-      "num": 98553,
+      "num": 206369,
       "word": "为躲避日军追捕她从窗户跳了下去",
       "onboard_time": 1727927537,
       "rank": 45,
@@ -1073,6 +1169,14 @@
       "onboard_time": 1727918897,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 85583,
+      "num": 139475,
+      "word": "鱼腥草啵啵奶茶",
+      "onboard_time": 1727932278,
+      "rank": 39,
+      "category": "美食"
     },
     {
       "raw_hot": 83525,
@@ -1331,6 +1435,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 41642,
+      "num": 204711,
+      "word": "高端酒店激战县城",
+      "onboard_time": 1727931618,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 40804,
       "num": 61373,
       "word": "马龙vs曾蓓勋",
@@ -1347,6 +1459,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 39543,
+      "num": 195087,
+      "word": "危机航线全员自救反杀劫匪",
+      "onboard_time": 1727931618,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 38358,
       "num": 38358,
       "word": "贵州速冻模式游客一下高铁天塌了",
@@ -1361,14 +1481,6 @@
       "onboard_time": 1727906832,
       "rank": 13,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 33945,
-      "num": 279768,
-      "word": "广州有楼盘1天成交达3.5亿元",
-      "onboard_time": 1727929758,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 30289,
@@ -1409,6 +1521,22 @@
       "onboard_time": 1727894711,
       "rank": 42,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 24784,
+      "num": 206656,
+      "word": "亲历者讲述从黎巴嫩撤离经过",
+      "onboard_time": 1727931618,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 23987,
+      "num": 208977,
+      "word": "王楚钦梁靖崑晋级男双四强",
+      "onboard_time": 1727932877,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 23606,
