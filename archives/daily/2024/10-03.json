@@ -1,6 +1,6 @@
 {
   "startTime": 1727886505064,
-  "endTime": 1727959349896,
+  "endTime": 1727960337213,
   "band_list": [
     {
       "raw_hot": 1864900,
@@ -75,6 +75,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 944655,
+      "num": 300086,
+      "word": "多名游客挤在黄山景区厕所过夜",
+      "onboard_time": 1727957121,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 913167,
       "num": 419051,
       "word": "女生付完6元餐具费后打包带走碗筷",
@@ -108,7 +116,7 @@
     },
     {
       "raw_hot": 805285,
-      "num": 194960,
+      "num": 299128,
       "word": "差点没认出来林允",
       "onboard_time": 1727954779,
       "rank": 29,
@@ -203,14 +211,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 611940,
-      "num": 194934,
-      "word": "多名游客挤在黄山景区厕所过夜",
-      "onboard_time": 1727957121,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 608309,
       "num": 478070,
       "word": "全红婵国庆节又回家带娃了",
@@ -275,6 +275,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 524824,
+      "num": 297271,
+      "word": "迪丽热巴晚间溜达七宫格",
+      "onboard_time": 1727956280,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 520940,
       "num": 280318,
       "word": "以色列空军基地被伊朗导弹击中",
@@ -289,14 +297,6 @@
       "onboard_time": 1727871379,
       "rank": 0,
       "category": "体育"
-    },
-    {
-      "raw_hot": 510097,
-      "num": 194884,
-      "word": "迪丽热巴晚间溜达七宫格",
-      "onboard_time": 1727956280,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 510018,
@@ -403,6 +403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 451287,
+      "num": 451287,
+      "word": "孙颖莎8强对阵伊藤美诚",
+      "onboard_time": 1727958620,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 449120,
       "num": 449120,
       "word": "香港男子5000万拿下广州三套房",
@@ -417,6 +425,14 @@
       "onboard_time": 1727953279,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 425569,
+      "num": 425569,
+      "word": "好了好了知道你在过国庆了",
+      "onboard_time": 1727958020,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 425255,
@@ -500,7 +516,7 @@
     },
     {
       "raw_hot": 363288,
-      "num": 194849,
+      "num": 296654,
       "word": "伊藤美诚3比2金娜英",
       "onboard_time": 1727957299,
       "rank": 18,
@@ -619,6 +635,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 300160,
+      "num": 300160,
+      "word": "马龙3比0李尚洙",
+      "onboard_time": 1727959398,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 295880,
+      "num": 295880,
+      "word": "马龙晋级中国大满贯8强",
+      "onboard_time": 1727959279,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 295602,
       "num": 450791,
       "word": "被冰箱贴硬控一小时",
@@ -692,7 +724,7 @@
     },
     {
       "raw_hot": 284736,
-      "num": 284736,
+      "num": 326732,
       "word": "半熟男女 爱人先爱己",
       "onboard_time": 1727956219,
       "rank": 4,
@@ -835,6 +867,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 254043,
+      "num": 254043,
+      "word": "BLG对战MDK",
+      "onboard_time": 1727957121,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 250710,
       "num": 250710,
       "word": "327家国家一级博物馆名单",
@@ -859,6 +899,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 245596,
+      "num": 193134,
+      "word": "向佐 鼻梁中有老婆",
+      "onboard_time": 1727959279,
+      "rank": 49,
+      "category": "电影"
+    },
+    {
       "raw_hot": 242729,
       "num": 198961,
       "word": "阿姨用脚后跟给小狗来了一套颠勺",
@@ -868,7 +916,7 @@
     },
     {
       "raw_hot": 237239,
-      "num": 237239,
+      "num": 295917,
       "word": "钟汉良与绝症孩子保持联系十几年",
       "onboard_time": 1727955799,
       "rank": 6,
@@ -905,6 +953,14 @@
       "onboard_time": 1727946858,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 226334,
+      "num": 226334,
+      "word": "陈立农家仓库屋顶被台风吹跑了",
+      "onboard_time": 1727958380,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 225640,
@@ -971,20 +1027,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 211867,
-      "num": 211867,
-      "word": "孙颖莎8强对阵伊藤美诚",
-      "onboard_time": 1727958620,
-      "rank": 8,
-      "category": "体育"
-    },
-    {
       "raw_hot": 211262,
       "num": 211262,
       "word": "年轻人爱上了奔县旅游",
       "onboard_time": 1727916136,
       "rank": 23,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 209818,
+      "num": 209818,
+      "word": "749局会征服每一个小孩哥",
+      "onboard_time": 1727957659,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 208378,
@@ -1035,6 +1091,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 197479,
+      "num": 197479,
+      "word": "电影浴火之路票房破2亿",
+      "onboard_time": 1727958739,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 197191,
       "num": 137737,
       "word": "莫雷加德连续淘汰日本三人",
@@ -1065,14 +1129,6 @@
       "onboard_time": 1727955560,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 194739,
-      "num": 194739,
-      "word": "陈立农家仓库屋顶被台风吹跑了",
-      "onboard_time": 1727958380,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 194094,
@@ -1147,12 +1203,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 186272,
-      "num": 186272,
-      "word": "749局会征服每一个小孩哥",
-      "onboard_time": 1727957659,
-      "rank": 28,
-      "category": "电影"
+      "raw_hot": 185171,
+      "num": 185171,
+      "word": "F勒布伦急得直蹦",
+      "onboard_time": 1727958859,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 185008,
@@ -1219,6 +1275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 175398,
+      "num": 175398,
+      "word": "男子向多名同事借钱后人消失了",
+      "onboard_time": 1727956340,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 174862,
       "num": 174862,
       "word": "突然发现自己的语言能力退化了",
@@ -1265,14 +1329,6 @@
       "onboard_time": 1727917997,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 172332,
-      "num": 172332,
-      "word": "男子向多名同事借钱后人消失了",
-      "onboard_time": 1727956340,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 169863,
@@ -1331,6 +1387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 166229,
+      "num": 166229,
+      "word": "梁靖崑3比2战胜周启豪",
+      "onboard_time": 1727957540,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 163868,
       "num": 324130,
       "word": "郑钦文晋级获得130万奖金",
@@ -1345,14 +1409,6 @@
       "onboard_time": 1727882720,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 160513,
-      "num": 160513,
-      "word": "F勒布伦急得直蹦",
-      "onboard_time": 1727958859,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 160016,
@@ -1401,14 +1457,6 @@
       "onboard_time": 1727933599,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 158444,
-      "num": 158444,
-      "word": "BLG对战MDK",
-      "onboard_time": 1727957121,
-      "rank": 36,
-      "category": "电竞"
     },
     {
       "raw_hot": 156552,
@@ -1483,6 +1531,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 150749,
+      "num": 150749,
+      "word": "TES对战T1",
+      "onboard_time": 1727960179,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 148154,
       "num": 183063,
       "word": "林诗栋vs卡尔伯格",
@@ -1505,14 +1561,6 @@
       "onboard_time": 1727925018,
       "rank": 26,
       "category": "财经"
-    },
-    {
-      "raw_hot": 145843,
-      "num": 145843,
-      "word": "梁靖崑3比2战胜周启豪",
-      "onboard_time": 1727957540,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 144976,
@@ -1561,14 +1609,6 @@
       "onboard_time": 1727886797,
       "rank": 24,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 142412,
-      "num": 142412,
-      "word": "电影浴火之路票房破2亿",
-      "onboard_time": 1727958739,
-      "rank": 39,
-      "category": "电影"
     },
     {
       "raw_hot": 141570,
@@ -1803,6 +1843,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 124561,
+      "num": 124561,
+      "word": "BLG瑞士轮开门红",
+      "onboard_time": 1727960299,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 124300,
       "num": 124300,
       "word": "为什么新出的冰箱吸不住冰箱贴",
@@ -1841,6 +1889,14 @@
       "onboard_time": 1727941098,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 120585,
+      "num": 120585,
+      "word": "只此青绿张翰情绪爆发戏",
+      "onboard_time": 1727957420,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 120577,
@@ -1907,14 +1963,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 119107,
-      "num": 119107,
-      "word": "只此青绿张翰情绪爆发戏",
-      "onboard_time": 1727957420,
-      "rank": 46,
-      "category": "电影"
-    },
-    {
       "raw_hot": 117521,
       "num": 117521,
       "word": "吃素为什么也会得脂肪肝",
@@ -1963,6 +2011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 114590,
+      "num": 114590,
+      "word": "为何很多奶茶咖啡不给去冰",
+      "onboard_time": 1727958499,
+      "rank": 49,
+      "category": "美食"
+    },
+    {
       "raw_hot": 114434,
       "num": 114434,
       "word": "下一战歌手第六期歌单",
@@ -1977,14 +2033,6 @@
       "onboard_time": 1727953398,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 113928,
-      "num": 194874,
-      "word": "好了好了知道你在过国庆了",
-      "onboard_time": 1727958020,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 113678,
@@ -2081,14 +2129,6 @@
       "onboard_time": 1727911695,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 107994,
-      "num": 107994,
-      "word": "向佐 鼻梁中有老婆",
-      "onboard_time": 1727959279,
-      "rank": 49,
-      "category": "电影"
     },
     {
       "raw_hot": 107792,
@@ -2323,12 +2363,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 95625,
+      "num": 303761,
+      "word": "国庆假期能不能多开点夜间高铁",
+      "onboard_time": 1727959580,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 95487,
       "num": 208071,
       "word": "林高远王艺迪3比1薛飞钱天一",
       "onboard_time": 1727940438,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 95393,
+      "num": 298491,
+      "word": "LPL世界赛开门红",
+      "onboard_time": 1727960002,
+      "rank": 13,
+      "category": "电竞"
     },
     {
       "raw_hot": 94577,
@@ -2875,6 +2931,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 34497,
+      "num": 298259,
+      "word": "港股波动是正常的无需担心牛市结束",
+      "onboard_time": 1727959219,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 32068,
       "num": 296989,
       "word": "份子钱不应成为人情负担",
@@ -2905,14 +2969,6 @@
       "onboard_time": 1727902090,
       "rank": 23,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 27968,
-      "num": 194905,
-      "word": "港股波动是正常的无需担心牛市结束",
-      "onboard_time": 1727959219,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 25997,
@@ -2968,6 +3024,14 @@
       "word": "这份独属于中国人的仪式感",
       "onboard_time": 1727903051,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 20150,
+      "num": 456751,
+      "word": "中国人的餐桌75年变迁史",
+      "onboard_time": 1727944878,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -3075,28 +3139,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 7473,
-      "num": 217806,
-      "word": "中国人的餐桌75年变迁史",
-      "onboard_time": 1727944878,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 6950,
       "num": 401142,
       "word": "中华文化的璀璨与浪漫在此刻具象化了",
       "onboard_time": 1727853797,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 6086,
-      "num": 180071,
-      "word": "马龙晋级中国大满贯8强",
-      "onboard_time": 1727959279,
-      "rank": 29,
-      "category": "体育"
     }
   ],
   "hotgov_list": [
