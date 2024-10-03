@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1727933986773,
+  "endTime": 1727937065688,
   "band_list": [
     {
       "raw_hot": 11925969,
@@ -1331,6 +1331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 418098,
+      "num": 352378,
+      "word": "听泉鉴宝连线太精彩了",
+      "onboard_time": 1727934738,
+      "rank": 3,
+      "category": "网红"
+    },
+    {
       "raw_hot": 416302,
       "num": 244823,
       "word": "恒大地产和许家印等被处分",
@@ -1384,6 +1392,14 @@
       "word": "南昌烟花",
       "onboard_time": 1727785639,
       "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 401496,
+      "num": 401496,
+      "word": "专家称期待已久的楼市银十回来了",
+      "onboard_time": 1727933478,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -1465,6 +1481,14 @@
       "onboard_time": 1727880320,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 372574,
+      "num": 289805,
+      "word": "极氪车主高速上自动驾驶时盖被睡觉",
+      "onboard_time": 1727934138,
+      "rank": 11,
+      "category": "汽车"
     },
     {
       "raw_hot": 369496,
@@ -1851,6 +1875,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 289821,
+      "num": 289821,
+      "word": "孙颖莎WTT中国大满贯三连胜",
+      "onboard_time": 1727931677,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 289797,
+      "num": 289797,
+      "word": "半熟男女 分手了人生是旷野",
+      "onboard_time": 1727934560,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 288920,
       "num": 288920,
       "word": "东北雨姐道歉视频不见了",
@@ -1899,6 +1939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 283996,
+      "num": 197888,
+      "word": "小jiojio出现的一瞬间萌化了",
+      "onboard_time": 1727932638,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 282347,
       "num": 282347,
       "word": "杨幂日落日出plog",
@@ -1937,6 +1985,14 @@
       "onboard_time": 1727880441,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 275074,
+      "num": 275074,
+      "word": "周深因为手背青筋被暴击",
+      "onboard_time": 1727934018,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 274826,
@@ -2041,14 +2097,6 @@
       "onboard_time": 1727863818,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 266469,
-      "num": 197888,
-      "word": "小jiojio出现的一瞬间萌化了",
-      "onboard_time": 1727932638,
-      "rank": 27,
-      "category": "幽默"
     },
     {
       "raw_hot": 265823,
@@ -2321,6 +2369,14 @@
       "onboard_time": 1727778560,
       "rank": 22,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 236864,
+      "num": 236864,
+      "word": "莫雷加德3比2张本智和",
+      "onboard_time": 1727933599,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 236829,
@@ -2811,14 +2867,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 204064,
-      "num": 204064,
-      "word": "莫雷加德3比2张本智和",
-      "onboard_time": 1727933599,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 203770,
       "num": 203770,
       "word": "以色列特拉维夫枪击事件致6死",
@@ -2857,14 +2905,6 @@
       "onboard_time": 1727728751,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 203029,
-      "num": 203029,
-      "word": "孙颖莎WTT中国大满贯三连胜",
-      "onboard_time": 1727931677,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 202769,
@@ -2977,6 +3017,14 @@
       "onboard_time": 1727776219,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 194094,
+      "num": 174961,
+      "word": "少儿频道是月亮姐姐最好的医美",
+      "onboard_time": 1727936477,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 193937,
@@ -3827,6 +3875,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 158449,
+      "num": 158449,
+      "word": "花少团有事情刘烨是真上",
+      "onboard_time": 1727936837,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 158446,
       "num": 158446,
       "word": "卫昭不抢亲 直接喊停婚礼",
@@ -3961,6 +4017,14 @@
       "onboard_time": 1727765778,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 152558,
+      "num": 152558,
+      "word": "孙颖莎和裁判用英文交流",
+      "onboard_time": 1727934138,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 152482,
@@ -4249,6 +4313,14 @@
       "onboard_time": 1727859977,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 141663,
+      "num": 289813,
+      "word": "国庆天安门升旗仪式这个彩蛋看哭了",
+      "onboard_time": 1727935757,
+      "rank": 8,
+      "category": "国内时政"
     },
     {
       "raw_hot": 141509,
@@ -4563,6 +4635,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 132664,
+      "num": 132664,
+      "word": "大张伟说缺点一直都在保护你",
+      "onboard_time": 1727936538,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 132632,
       "num": 132632,
       "word": "和平精英",
@@ -4601,6 +4681,14 @@
       "onboard_time": 1727933298,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 132023,
+      "num": 132023,
+      "word": "妈妈抱着升旗后的张威哭了",
+      "onboard_time": 1727935819,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 131882,
@@ -4803,6 +4891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 126019,
+      "num": 126019,
+      "word": "以军空袭黎巴嫩首都已致5死",
+      "onboard_time": 1727935456,
+      "rank": 34,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 125916,
       "num": 125916,
       "word": "娜扎出入平安演技",
@@ -4865,6 +4961,14 @@
       "onboard_time": 1727745378,
       "rank": 8,
       "category": "电影"
+    },
+    {
+      "raw_hot": 122801,
+      "num": 122801,
+      "word": "JDG反应游戏节目效果拉满",
+      "onboard_time": 1727936056,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 121377,
@@ -5097,6 +5201,14 @@
       "onboard_time": 1727865139,
       "rank": 39,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 116103,
+      "num": 248892,
+      "word": "莫雷加德进中国大满贯8强",
+      "onboard_time": 1727933419,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 116001,
@@ -5347,6 +5459,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 107851,
+      "num": 279768,
+      "word": "广州有楼盘1天成交达3.5亿元",
+      "onboard_time": 1727929758,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 107806,
       "num": 107806,
       "word": "黑塔利亚 王耀",
@@ -5385,14 +5505,6 @@
       "onboard_time": 1727870478,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 106872,
-      "num": 279768,
-      "word": "广州有楼盘1天成交达3.5亿元",
-      "onboard_time": 1727929758,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 106840,
@@ -5643,6 +5755,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 100277,
+      "num": 100277,
+      "word": "假期客流那么大为何不多开夜间高铁",
+      "onboard_time": 1727935938,
+      "rank": 46,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 100265,
       "num": 207816,
       "word": "郑钦文说没想到有这么多人来看我",
@@ -5752,6 +5872,14 @@
       "word": "国庆出行顶级心态来都来了",
       "onboard_time": 1727928018,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 96104,
+      "num": 96104,
+      "word": "男生拍照五星红旗突然给了个拥抱",
+      "onboard_time": 1727934679,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -6067,14 +6195,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 78855,
-      "num": 374843,
-      "word": "专家称期待已久的楼市银十回来了",
-      "onboard_time": 1727933478,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 78408,
       "num": 171691,
       "word": "张子枫演的李晓",
@@ -6211,6 +6331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 74936,
+      "num": 183063,
+      "word": "林诗栋vs卡尔伯格",
+      "onboard_time": 1727935878,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 73981,
       "num": 267424,
       "word": "朱一龙这一嗓子的穿透力",
@@ -6224,14 +6352,6 @@
       "word": "马龙3比0皮切福德",
       "onboard_time": 1727699120,
       "rank": 46,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 73680,
-      "num": 248892,
-      "word": "莫雷加德进中国大满贯8强",
-      "onboard_time": 1727933419,
-      "rank": 14,
       "category": "体育"
     },
     {
@@ -6451,6 +6571,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 59666,
+      "num": 152677,
+      "word": "已故真主党领导人女婿在空袭中丧生",
+      "onboard_time": 1727935819,
+      "rank": 29,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 59133,
       "num": 101856,
       "word": "迪丽热巴登人民日报宣传片",
@@ -6601,6 +6729,14 @@
       "onboard_time": 1727804174,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 52020,
+      "num": 176417,
+      "word": "听周深等你大好河山等你来看",
+      "onboard_time": 1727935757,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 51041,
