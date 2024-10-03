@@ -1,6 +1,6 @@
 {
   "startTime": 1727886505064,
-  "endTime": 1727947431638,
+  "endTime": 1727948275571,
   "band_list": [
     {
       "raw_hot": 1864900,
@@ -9,6 +9,22 @@
       "onboard_time": 1727928617,
       "rank": 10,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1535031,
+      "num": 317482,
+      "word": "秦霄贤感谢粉丝陪伴",
+      "onboard_time": 1727945839,
+      "rank": 10,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 1415701,
+      "num": 306559,
+      "word": "中方警告一场全面战争一触即发",
+      "onboard_time": 1727946619,
+      "rank": 15,
+      "category": "国内时政"
     },
     {
       "raw_hot": 1271472,
@@ -25,14 +41,6 @@
       "onboard_time": 1727940258,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1229323,
-      "num": 317482,
-      "word": "秦霄贤感谢粉丝陪伴",
-      "onboard_time": 1727945839,
-      "rank": 10,
-      "category": "演出"
     },
     {
       "raw_hot": 1164353,
@@ -267,14 +275,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 477122,
-      "num": 306559,
-      "word": "中方警告一场全面战争一触即发",
-      "onboard_time": 1727946619,
-      "rank": 15,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 465493,
       "num": 365145,
       "word": "offer6带教 香港首位内地女性大律师",
@@ -307,12 +307,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 448163,
+      "num": 290168,
+      "word": "香港男子5000万拿下广州三套房",
+      "onboard_time": 1727947038,
+      "rank": 21,
+      "category": "财经"
+    },
+    {
       "raw_hot": 425255,
       "num": 258163,
       "word": "杨紫被选为巴黎时装周最佳着装",
       "onboard_time": 1727928498,
       "rank": 21,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 405087,
+      "num": 274085,
+      "word": "伊朗袭击以色列美军舰参与拦截",
+      "onboard_time": 1727945839,
+      "rank": 22,
+      "category": "国外时政"
     },
     {
       "raw_hot": 389145,
@@ -459,14 +475,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 308332,
-      "num": 290168,
-      "word": "香港男子5000万拿下广州三套房",
-      "onboard_time": 1727947038,
-      "rank": 21,
-      "category": "财经"
-    },
-    {
       "raw_hot": 307917,
       "num": 170841,
       "word": "林高远王艺迪进混双决赛",
@@ -595,14 +603,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 274085,
-      "num": 274085,
-      "word": "伊朗袭击以色列美军舰参与拦截",
-      "onboard_time": 1727945839,
-      "rank": 22,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 272073,
       "num": 272073,
       "word": "郑钦文晋级中网八强",
@@ -699,20 +699,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 244761,
+      "num": 244761,
+      "word": "仙台有树",
+      "onboard_time": 1727946019,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 242729,
       "num": 198961,
       "word": "阿姨用脚后跟给小狗来了一套颠勺",
       "onboard_time": 1727938937,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 237911,
-      "num": 237911,
-      "word": "仙台有树",
-      "onboard_time": 1727946019,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 236864,
@@ -737,6 +737,14 @@
       "onboard_time": 1727929697,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 225640,
+      "num": 310240,
+      "word": "82岁医生办公室放着健身垫",
+      "onboard_time": 1727944758,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 220662,
@@ -923,6 +931,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 177523,
+      "num": 177523,
+      "word": "林高远搂着勒布伦",
+      "onboard_time": 1727947220,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 176824,
       "num": 176824,
       "word": "国庆长沙感觉有一亿人",
@@ -963,14 +979,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 171705,
-      "num": 310240,
-      "word": "82岁医生办公室放着健身垫",
-      "onboard_time": 1727944758,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 169310,
       "num": 169273,
       "word": "在深圳中学读书的一天",
@@ -985,6 +993,14 @@
       "onboard_time": 1727927719,
       "rank": 27,
       "category": "美食"
+    },
+    {
+      "raw_hot": 167844,
+      "num": 261787,
+      "word": "恒生科技指数创两年以来最大跌幅",
+      "onboard_time": 1727944218,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 167052,
@@ -1009,6 +1025,14 @@
       "onboard_time": 1727919497,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 163512,
+      "num": 163512,
+      "word": "为什么没人住的房子老得特别快",
+      "onboard_time": 1727946858,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 162808,
@@ -1049,6 +1073,14 @@
       "onboard_time": 1727913378,
       "rank": 24,
       "category": "国内时政,军事"
+    },
+    {
+      "raw_hot": 154417,
+      "num": 154417,
+      "word": "美军帮以色列拦截伊朗导弹视频",
+      "onboard_time": 1727947038,
+      "rank": 42,
+      "category": "国外时政"
     },
     {
       "raw_hot": 152999,
@@ -1124,7 +1156,7 @@
     },
     {
       "raw_hot": 144976,
-      "num": 170769,
+      "num": 257438,
       "word": "张帅无缘中网四强",
       "onboard_time": 1727944878,
       "rank": 18,
@@ -1235,6 +1267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 136965,
+      "num": 136965,
+      "word": "宋亚轩julia官摄",
+      "onboard_time": 1727946978,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
       "raw_hot": 134368,
       "num": 134368,
       "word": "我们的歌好友嗨唱夜阵容官宣",
@@ -1307,6 +1347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 127558,
+      "num": 127558,
+      "word": "伊朗指出结束中东战事唯一途径",
+      "onboard_time": 1727947938,
+      "rank": 32,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 127398,
       "num": 251864,
       "word": "特别版红旗颂",
@@ -1339,20 +1387,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 126339,
-      "num": 126339,
-      "word": "宋亚轩julia官摄",
-      "onboard_time": 1727946978,
-      "rank": 33,
-      "category": "演出"
-    },
-    {
       "raw_hot": 125539,
       "num": 125539,
       "word": "直击黎巴嫩撤侨",
       "onboard_time": 1727917997,
       "rank": 33,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 124468,
+      "num": 124468,
+      "word": "高铁上查票是什么原因",
+      "onboard_time": 1727947819,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 124300,
@@ -1369,14 +1417,6 @@
       "onboard_time": 1727869519,
       "rank": 32,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 122818,
-      "num": 122818,
-      "word": "为什么没人住的房子老得特别快",
-      "onboard_time": 1727946858,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 122801,
@@ -1483,12 +1523,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 115132,
-      "num": 170720,
-      "word": "恒生科技指数创两年以来最大跌幅",
-      "onboard_time": 1727944218,
-      "rank": 19,
-      "category": "社会新闻"
+      "raw_hot": 114776,
+      "num": 300966,
+      "word": "Angelababy带小海绵做爱心餐",
+      "onboard_time": 1727947038,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 113678,
@@ -1552,14 +1592,6 @@
       "word": "多国回应以色列禁止古特雷斯入境",
       "onboard_time": 1727928917,
       "rank": 43,
-      "category": "国外时政"
-    },
-    {
-      "raw_hot": 111171,
-      "num": 111171,
-      "word": "美军帮以色列拦截伊朗导弹视频",
-      "onboard_time": 1727947038,
-      "rank": 42,
       "category": "国外时政"
     },
     {
@@ -1643,20 +1675,20 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 105925,
-      "num": 105925,
-      "word": "林高远搂着勒布伦",
-      "onboard_time": 1727947220,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 105739,
       "num": 105739,
       "word": "刘浩存赵今麦比心",
       "onboard_time": 1727923997,
       "rank": 42,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 104361,
+      "num": 104361,
+      "word": "腌辣白菜",
+      "onboard_time": 1727947878,
+      "rank": 42,
+      "category": "美食"
     },
     {
       "raw_hot": 104356,
@@ -1987,6 +2019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 75674,
+      "num": 302172,
+      "word": "LPL世界赛出征片",
+      "onboard_time": 1727947338,
+      "rank": 17,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 75602,
       "num": 75602,
       "word": "郑钦文",
@@ -2195,6 +2235,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 45282,
+      "num": 250746,
+      "word": "红旗颂前奏一响就让人热血沸腾",
+      "onboard_time": 1727947518,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 44524,
+      "num": 324316,
+      "word": "微度假成旅行新方式",
+      "onboard_time": 1727944998,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 44217,
       "num": 196961,
       "word": "在西湖边沉浸式体验最美人墙",
@@ -2203,12 +2259,12 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 42973,
-      "num": 324316,
-      "word": "微度假成旅行新方式",
-      "onboard_time": 1727944998,
-      "rank": 7,
-      "category": "社会新闻"
+      "raw_hot": 43698,
+      "num": 147679,
+      "word": "75年岁月绘写美丽中国",
+      "onboard_time": 1727948239,
+      "rank": 29,
+      "category": "国内时政"
     },
     {
       "raw_hot": 42155,
@@ -2363,14 +2419,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 19109,
-      "num": 300966,
-      "word": "Angelababy带小海绵做爱心餐",
-      "onboard_time": 1727947038,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 18742,
       "num": 104937,
       "word": "秋日润燥饮",
@@ -2449,14 +2497,6 @@
       "onboard_time": 1727899812,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 8757,
-      "num": 302172,
-      "word": "LPL世界赛出征片",
-      "onboard_time": 1727947338,
-      "rank": 17,
-      "category": "电竞"
     },
     {
       "raw_hot": 8658,

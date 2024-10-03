@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1727947431638,
+  "endTime": 1727948275571,
   "band_list": [
     {
       "raw_hot": 11925969,
@@ -115,6 +115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1535031,
+      "num": 317482,
+      "word": "秦霄贤感谢粉丝陪伴",
+      "onboard_time": 1727945839,
+      "rank": 10,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1449026,
       "num": 1449026,
       "word": "国庆一人一句祝福新中国",
@@ -129,6 +137,14 @@
       "onboard_time": 1727756780,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1415701,
+      "num": 306559,
+      "word": "中方警告一场全面战争一触即发",
+      "onboard_time": 1727946619,
+      "rank": 15,
+      "category": "国内时政"
     },
     {
       "raw_hot": 1391758,
@@ -193,14 +209,6 @@
       "onboard_time": 1727940258,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1229323,
-      "num": 317482,
-      "word": "秦霄贤感谢粉丝陪伴",
-      "onboard_time": 1727945839,
-      "rank": 10,
-      "category": "演出"
     },
     {
       "raw_hot": 1223265,
@@ -1203,14 +1211,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 477122,
-      "num": 306559,
-      "word": "中方警告一场全面战争一触即发",
-      "onboard_time": 1727946619,
-      "rank": 15,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 474132,
       "num": 643572,
       "word": "浴火之路票房",
@@ -1321,6 +1321,14 @@
       "onboard_time": 1727825836,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 448163,
+      "num": 290168,
+      "word": "香港男子5000万拿下广州三套房",
+      "onboard_time": 1727947038,
+      "rank": 21,
+      "category": "财经"
     },
     {
       "raw_hot": 447677,
@@ -1449,6 +1457,14 @@
       "onboard_time": 1727847617,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 405087,
+      "num": 274085,
+      "word": "伊朗袭击以色列美军舰参与拦截",
+      "onboard_time": 1727945839,
+      "rank": 22,
+      "category": "国外时政"
     },
     {
       "raw_hot": 401925,
@@ -1843,14 +1859,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 308332,
-      "num": 290168,
-      "word": "香港男子5000万拿下广州三套房",
-      "onboard_time": 1727947038,
-      "rank": 21,
-      "category": "财经"
-    },
-    {
       "raw_hot": 307917,
       "num": 170841,
       "word": "林高远王艺迪进混双决赛",
@@ -2137,14 +2145,6 @@
       "onboard_time": 1727753419,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 274085,
-      "num": 274085,
-      "word": "伊朗袭击以色列美军舰参与拦截",
-      "onboard_time": 1727945839,
-      "rank": 22,
-      "category": "国外时政"
     },
     {
       "raw_hot": 273754,
@@ -2459,6 +2459,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 244761,
+      "num": 244761,
+      "word": "仙台有树",
+      "onboard_time": 1727946019,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 244304,
       "num": 245198,
       "word": "北京下调个人住房贷款首付款比例",
@@ -2537,14 +2545,6 @@
       "onboard_time": 1727778560,
       "rank": 22,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 237911,
-      "num": 237911,
-      "word": "仙台有树",
-      "onboard_time": 1727946019,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 236864,
@@ -2729,6 +2729,14 @@
       "onboard_time": 1727853198,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 225640,
+      "num": 310240,
+      "word": "82岁医生办公室放着健身垫",
+      "onboard_time": 1727944758,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 224880,
@@ -3699,6 +3707,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 177523,
+      "num": 177523,
+      "word": "林高远搂着勒布伦",
+      "onboard_time": 1727947220,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 177419,
       "num": 177419,
       "word": "A股还能再涨吗",
@@ -3827,14 +3843,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 171705,
-      "num": 310240,
-      "word": "82岁医生办公室放着健身垫",
-      "onboard_time": 1727944758,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 171622,
       "num": 171622,
       "word": "王楚钦蓄势待发",
@@ -3897,6 +3905,14 @@
       "onboard_time": 1727927719,
       "rank": 27,
       "category": "美食"
+    },
+    {
+      "raw_hot": 167844,
+      "num": 261787,
+      "word": "恒生科技指数创两年以来最大跌幅",
+      "onboard_time": 1727944218,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 167524,
@@ -4025,6 +4041,14 @@
       "onboard_time": 1727772979,
       "rank": 32,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 163512,
+      "num": 163512,
+      "word": "为什么没人住的房子老得特别快",
+      "onboard_time": 1727946858,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 162808,
@@ -4249,6 +4273,14 @@
       "onboard_time": 1727849298,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 154417,
+      "num": 154417,
+      "word": "美军帮以色列拦截伊朗导弹视频",
+      "onboard_time": 1727947038,
+      "rank": 42,
+      "category": "国外时政"
     },
     {
       "raw_hot": 153170,
@@ -4524,7 +4556,7 @@
     },
     {
       "raw_hot": 144976,
-      "num": 170769,
+      "num": 257438,
       "word": "张帅无缘中网四强",
       "onboard_time": 1727944878,
       "rank": 18,
@@ -4785,6 +4817,14 @@
       "onboard_time": 1727846899,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 136965,
+      "num": 136965,
+      "word": "宋亚轩julia官摄",
+      "onboard_time": 1727946978,
+      "rank": 33,
+      "category": "演出"
     },
     {
       "raw_hot": 136575,
@@ -5107,6 +5147,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 127558,
+      "num": 127558,
+      "word": "伊朗指出结束中东战事唯一途径",
+      "onboard_time": 1727947938,
+      "rank": 32,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 127498,
       "num": 127498,
       "word": "曾黎上半身过冬天下半身过夏天",
@@ -5179,14 +5227,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 126339,
-      "num": 126339,
-      "word": "宋亚轩julia官摄",
-      "onboard_time": 1727946978,
-      "rank": 33,
-      "category": "演出"
-    },
-    {
       "raw_hot": 126322,
       "num": 126322,
       "word": "银川地震",
@@ -5227,6 +5267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 124468,
+      "num": 124468,
+      "word": "高铁上查票是什么原因",
+      "onboard_time": 1727947819,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 124300,
       "num": 124300,
       "word": "为什么新出的冰箱吸不住冰箱贴",
@@ -5257,14 +5305,6 @@
       "onboard_time": 1727745378,
       "rank": 8,
       "category": "电影"
-    },
-    {
-      "raw_hot": 122818,
-      "num": 122818,
-      "word": "为什么没人住的房子老得特别快",
-      "onboard_time": 1727946858,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 122801,
@@ -5587,14 +5627,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 115132,
-      "num": 170720,
-      "word": "恒生科技指数创两年以来最大跌幅",
-      "onboard_time": 1727944218,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 115094,
       "num": 115094,
       "word": "孙颖莎跑动能力",
@@ -5609,6 +5641,14 @@
       "onboard_time": 1727789485,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 114776,
+      "num": 300966,
+      "word": "Angelababy带小海绵做爱心餐",
+      "onboard_time": 1727947038,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 114422,
@@ -5745,14 +5785,6 @@
       "onboard_time": 1727851398,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 111171,
-      "num": 111171,
-      "word": "美军帮以色列拦截伊朗导弹视频",
-      "onboard_time": 1727947038,
-      "rank": 42,
-      "category": "国外时政"
     },
     {
       "raw_hot": 111109,
@@ -5979,14 +6011,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 105925,
-      "num": 105925,
-      "word": "林高远搂着勒布伦",
-      "onboard_time": 1727947220,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 105739,
       "num": 105739,
       "word": "刘浩存赵今麦比心",
@@ -6017,6 +6041,14 @@
       "onboard_time": 1727864417,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 104361,
+      "num": 104361,
+      "word": "腌辣白菜",
+      "onboard_time": 1727947878,
+      "rank": 42,
+      "category": "美食"
     },
     {
       "raw_hot": 104356,
@@ -6851,6 +6883,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 75674,
+      "num": 302172,
+      "word": "LPL世界赛出征片",
+      "onboard_time": 1727947338,
+      "rank": 17,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 75602,
       "num": 75602,
       "word": "郑钦文",
@@ -7411,6 +7451,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 45282,
+      "num": 250746,
+      "word": "红旗颂前奏一响就让人热血沸腾",
+      "onboard_time": 1727947518,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 44524,
+      "num": 324316,
+      "word": "微度假成旅行新方式",
+      "onboard_time": 1727944998,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 44217,
       "num": 196961,
       "word": "在西湖边沉浸式体验最美人墙",
@@ -7435,19 +7491,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 43698,
+      "num": 147679,
+      "word": "75年岁月绘写美丽中国",
+      "onboard_time": 1727948239,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 43345,
       "num": 516216,
       "word": "国庆仪式感让清澈的爱具象化了",
       "onboard_time": 1727829978,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 42973,
-      "num": 324316,
-      "word": "微度假成旅行新方式",
-      "onboard_time": 1727944998,
-      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -8123,14 +8179,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 19109,
-      "num": 300966,
-      "word": "Angelababy带小海绵做爱心餐",
-      "onboard_time": 1727947038,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 18742,
       "num": 104937,
       "word": "秋日润燥饮",
@@ -8289,14 +8337,6 @@
       "onboard_time": 1727878280,
       "rank": 18,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 8757,
-      "num": 302172,
-      "word": "LPL世界赛出征片",
-      "onboard_time": 1727947338,
-      "rank": 17,
-      "category": "电竞"
     },
     {
       "raw_hot": 7473,
