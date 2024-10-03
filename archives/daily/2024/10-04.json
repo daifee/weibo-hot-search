@@ -1,6 +1,6 @@
 {
   "startTime": 1727972886536,
-  "endTime": 1727977128658,
+  "endTime": 1727980207579,
   "band_list": [
     {
       "raw_hot": 695912,
@@ -89,6 +89,14 @@
       "onboard_time": 1727968760,
       "rank": 17,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 213338,
+      "num": 213338,
+      "word": "长沙坡子街派出所成热门打卡地",
+      "onboard_time": 1727975895,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 210299,
@@ -379,6 +387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 77670,
+      "num": 61564,
+      "word": "100多名美国公民及其亲属撤出黎巴嫩",
+      "onboard_time": 1727976674,
+      "rank": 43,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 75822,
       "num": 75822,
       "word": "薛之谦自拍",
@@ -395,6 +411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 62770,
+      "num": 61455,
+      "word": "LNG战胜TL",
+      "onboard_time": 1727977095,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 62140,
       "num": 62140,
       "word": "王力宏南宁",
@@ -409,14 +433,6 @@
       "onboard_time": 1727967499,
       "rank": 37,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 51219,
-      "num": 138550,
-      "word": "长沙坡子街派出所成热门打卡地",
-      "onboard_time": 1727975895,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 49063,
@@ -451,14 +467,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 44544,
-      "num": 44544,
-      "word": "100多名美国公民及其亲属撤出黎巴嫩",
-      "onboard_time": 1727976674,
-      "rank": 43,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 42554,
       "num": 48327,
       "word": "马龙晋级中国大满贯8强",
@@ -467,12 +475,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 42185,
-      "num": 42185,
-      "word": "LNG战胜TL",
-      "onboard_time": 1727977095,
-      "rank": 46,
-      "category": "电竞"
+      "raw_hot": 33248,
+      "num": 44237,
+      "word": "流水迢迢 oe",
+      "onboard_time": 1727952199,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 24333,
@@ -491,11 +499,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 13866,
+      "num": 61438,
+      "word": "人民海军发布2024招飞宣传片",
+      "onboard_time": 1727979072,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 12687,
       "num": 163146,
       "word": "大型纪录片为了新中国",
       "onboard_time": 1727962460,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 11432,
+      "num": 44116,
+      "word": "民警搀扶佩戴勋章的老人看升旗",
+      "onboard_time": 1727979554,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
