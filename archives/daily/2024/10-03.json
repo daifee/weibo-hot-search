@@ -1,6 +1,6 @@
 {
   "startTime": 1727886505064,
-  "endTime": 1727937879133,
+  "endTime": 1727940138165,
   "band_list": [
     {
       "raw_hot": 1864900,
@@ -83,6 +83,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 714033,
+      "num": 196646,
+      "word": "博物馆昆虫被2孩子偷走",
+      "onboard_time": 1727937317,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 670728,
       "num": 304423,
       "word": "以色列又一次攻击联合国工作人员",
@@ -131,6 +139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 545839,
+      "num": 1087334,
+      "word": "专家称期待已久的楼市银十回来了",
+      "onboard_time": 1727933478,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 542320,
       "num": 388996,
       "word": "中方反对以对联合国秘书长无端指责",
@@ -145,6 +161,14 @@
       "onboard_time": 1727922017,
       "rank": 12,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 540362,
+      "num": 449865,
+      "word": "听泉鉴宝连线太精彩了",
+      "onboard_time": 1727934738,
+      "rank": 3,
+      "category": "网红"
     },
     {
       "raw_hot": 520940,
@@ -179,6 +203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 487528,
+      "num": 487528,
+      "word": "国庆天安门升旗仪式这个彩蛋看哭了",
+      "onboard_time": 1727935757,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 486675,
       "num": 251040,
       "word": "印度拒绝日本亚洲北约提议",
@@ -193,14 +225,6 @@
       "onboard_time": 1727928617,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 465862,
-      "num": 465862,
-      "word": "专家称期待已久的楼市银十回来了",
-      "onboard_time": 1727933478,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 465493,
@@ -233,14 +257,6 @@
       "onboard_time": 1727930478,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 449865,
-      "num": 449865,
-      "word": "听泉鉴宝连线太精彩了",
-      "onboard_time": 1727934738,
-      "rank": 3,
-      "category": "网红"
     },
     {
       "raw_hot": 425255,
@@ -361,14 +377,6 @@
       "onboard_time": 1727927178,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 319020,
-      "num": 319020,
-      "word": "国庆天安门升旗仪式这个彩蛋看哭了",
-      "onboard_time": 1727935757,
-      "rank": 8,
-      "category": "国内时政"
     },
     {
       "raw_hot": 311102,
@@ -539,6 +547,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 251103,
+      "num": 255655,
+      "word": "妈妈抱着升旗后的张威哭了",
+      "onboard_time": 1727935819,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 250710,
       "num": 250710,
       "word": "327家国家一级博物馆名单",
@@ -547,8 +563,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 249566,
+      "num": 195990,
+      "word": "陈哲远演技",
+      "onboard_time": 1727937198,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 246552,
-      "num": 168960,
+      "num": 195274,
       "word": "王楚钦说看见梁靖崑就想笑",
       "onboard_time": 1727937078,
       "rank": 21,
@@ -569,6 +593,14 @@
       "onboard_time": 1727928857,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 234852,
+      "num": 170303,
+      "word": "阿姨用脚后跟给小狗来了一套颠勺",
+      "onboard_time": 1727938937,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 233579,
@@ -603,12 +635,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 216182,
+      "num": 195723,
+      "word": "林诗栋3比2卡尔伯格",
+      "onboard_time": 1727937918,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 211262,
       "num": 211262,
       "word": "年轻人爱上了奔县旅游",
       "onboard_time": 1727916136,
       "rank": 23,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 209570,
+      "num": 195583,
+      "word": "以军一机库被伊朗导弹炸出大洞",
+      "onboard_time": 1727938458,
+      "rank": 18,
+      "category": "国外时政"
     },
     {
       "raw_hot": 208378,
@@ -641,6 +689,14 @@
       "onboard_time": 1727929458,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 196991,
+      "num": 196991,
+      "word": "赴山海",
+      "onboard_time": 1727939176,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 196089,
@@ -699,6 +755,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 189673,
+      "num": 189673,
+      "word": "丰收时蔓越莓要先游个泳再上岸",
+      "onboard_time": 1727937918,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 185008,
       "num": 206369,
       "word": "为躲避日军追捕她从窗户跳了下去",
@@ -737,6 +801,14 @@
       "onboard_time": 1727917997,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 170548,
+      "num": 170548,
+      "word": "以军空袭黎巴嫩首都已致5死",
+      "onboard_time": 1727935456,
+      "rank": 34,
+      "category": "国外时政"
     },
     {
       "raw_hot": 168432,
@@ -899,12 +971,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 142533,
-      "num": 142533,
-      "word": "陈哲远演技",
-      "onboard_time": 1727937198,
-      "rank": 27,
-      "category": "剧集"
+      "raw_hot": 142323,
+      "num": 142323,
+      "word": "王楚钦回应双甜组合网名",
+      "onboard_time": 1727938518,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 141570,
@@ -1011,14 +1083,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 132023,
-      "num": 255655,
-      "word": "妈妈抱着升旗后的张威哭了",
-      "onboard_time": 1727935819,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 131599,
       "num": 131599,
       "word": "邱贻可仔细检查孙颖莎球拍",
@@ -1075,14 +1139,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 126019,
-      "num": 126019,
-      "word": "以军空袭黎巴嫩首都已致5死",
-      "onboard_time": 1727935456,
-      "rank": 34,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 125539,
       "num": 125539,
       "word": "直击黎巴嫩撤侨",
@@ -1097,14 +1153,6 @@
       "onboard_time": 1727932638,
       "rank": 45,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 124022,
-      "num": 124022,
-      "word": "博物馆昆虫被2孩子偷走",
-      "onboard_time": 1727937317,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 123472,
@@ -1163,12 +1211,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 117225,
+      "num": 117225,
+      "word": "边伯贤三百万solo歌手",
+      "onboard_time": 1727938639,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 116849,
       "num": 116849,
       "word": "马龙希望两个儿子度过愉快夜晚",
       "onboard_time": 1727877680,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 116042,
+      "num": 279768,
+      "word": "广州有楼盘1天成交达3.5亿元",
+      "onboard_time": 1727929758,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 113673,
@@ -1227,14 +1291,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 107851,
-      "num": 279768,
-      "word": "广州有楼盘1天成交达3.5亿元",
-      "onboard_time": 1727929758,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 107792,
       "num": 107792,
       "word": "赵奕欢晨艺真姐狗",
@@ -1283,12 +1339,28 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 101846,
+      "num": 101846,
+      "word": "罗仪涵 让你走让你留都是命运在保护你",
+      "onboard_time": 1727937977,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 100933,
       "num": 100933,
       "word": "中网钻石球场昨日上座率100%",
       "onboard_time": 1727920158,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 100586,
+      "num": 100586,
+      "word": "原来蔓越莓是在水里采收的",
+      "onboard_time": 1727939838,
+      "rank": 41,
+      "category": "科学科普,美食"
     },
     {
       "raw_hot": 100277,
@@ -1315,8 +1387,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 97309,
+      "num": 97309,
+      "word": "黑神话悟空",
+      "onboard_time": 1727939238,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 96188,
-      "num": 96188,
+      "num": 196119,
       "word": "国庆出行顶级心态来都来了",
       "onboard_time": 1727928018,
       "rank": 47,
@@ -1329,6 +1409,30 @@
       "onboard_time": 1727934679,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 96016,
+      "num": 96016,
+      "word": "张本智和说想进一次8强",
+      "onboard_time": 1727939717,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 94577,
+      "num": 314899,
+      "word": "广州国庆假期首日楼市火爆",
+      "onboard_time": 1727927957,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 91004,
+      "num": 91004,
+      "word": "厕纸到底应该冲掉还是扔纸篓",
+      "onboard_time": 1727939777,
+      "rank": 49,
+      "category": "科学科普"
     },
     {
       "raw_hot": 90799,
@@ -1417,6 +1521,14 @@
       "onboard_time": 1727926218,
       "rank": 9,
       "category": "国内时政,军事"
+    },
+    {
+      "raw_hot": 82177,
+      "num": 196777,
+      "word": "张帅vs巴多萨",
+      "onboard_time": 1727939777,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 81906,
@@ -1595,14 +1707,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 57549,
-      "num": 314899,
-      "word": "广州国庆假期首日楼市火爆",
-      "onboard_time": 1727927957,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 57326,
       "num": 89549,
       "word": "王楚钦梁靖崑vs洛伦佐萨琳",
@@ -1651,6 +1755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 50215,
+      "num": 190922,
+      "word": "电影志愿军的战损册更是英雄谱",
+      "onboard_time": 1727939959,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 49706,
       "num": 106098,
       "word": "尊崇热爱中华文明",
@@ -1667,6 +1779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 44217,
+      "num": 196961,
+      "word": "在西湖边沉浸式体验最美人墙",
+      "onboard_time": 1727939538,
+      "rank": 8,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 42155,
       "num": 71192,
       "word": "陈丽君马克西姆梦幻联动",
@@ -1680,6 +1800,14 @@
       "word": "高端酒店激战县城",
       "onboard_time": 1727931618,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 41339,
+      "num": 170317,
+      "word": "堵车后众人在隧道开起了演唱会",
+      "onboard_time": 1727939717,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
