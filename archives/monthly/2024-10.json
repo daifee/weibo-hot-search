@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1727981017030,
+  "endTime": 1727983016246,
   "band_list": [
     {
       "raw_hot": 11925969,
@@ -8771,6 +8771,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 39886,
+      "num": 39886,
+      "word": "超3万人给749局打1星",
+      "onboard_time": 1727980212,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 39715,
       "num": 441916,
       "word": "网信办集中整治五类突出问题",
@@ -8913,14 +8921,6 @@
       "onboard_time": 1727854217,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 35426,
-      "num": 35426,
-      "word": "超3万人给749局打1星",
-      "onboard_time": 1727980212,
-      "rank": 33,
-      "category": "电影"
     },
     {
       "raw_hot": 35148,
@@ -9587,11 +9587,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 11556,
+      "num": 39832,
+      "word": "一首MV见证新中国75年变迁",
+      "onboard_time": 1727981832,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 11267,
       "num": 1280888,
       "word": "写给先辈们的一封信",
       "onboard_time": 1727702721,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 10610,
+      "num": 39098,
+      "word": "应急管理部提示网红桥高空项目旅游安全",
+      "onboard_time": 1727982911,
+      "rank": 24,
       "category": "社会新闻"
     },
     {

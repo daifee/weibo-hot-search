@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/10/04 00:28:06 ~ 2024/10/04 02:43:37
+本榜单时间：2024/10/04 00:28:06 ~ 2024/10/04 03:16:56
 </p>
 </blockquote>
 <p>
@@ -370,7 +370,7 @@ Faker状态（热度：52011）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B6%853%E4%B8%87%E4%BA%BA%E7%BB%99749%E5%B1%80%E6%89%931%E6%98%9F%23" target="weibo">
-超3万人给749局打1星（热度：35426）
+超3万人给749局打1星（热度：39886）
 </a>
 </li>
 
@@ -413,6 +413,18 @@ Faker状态（热度：52011）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B0%91%E8%AD%A6%E6%90%80%E6%89%B6%E4%BD%A9%E6%88%B4%E5%8B%8B%E7%AB%A0%E7%9A%84%E8%80%81%E4%BA%BA%E7%9C%8B%E5%8D%87%E6%97%97%23" target="weibo">
 民警搀扶佩戴勋章的老人看升旗（热度：11958）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E9%A6%96MV%E8%A7%81%E8%AF%81%E6%96%B0%E4%B8%AD%E5%9B%BD75%E5%B9%B4%E5%8F%98%E8%BF%81%23" target="weibo">
+一首MV见证新中国75年变迁（热度：11556）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BA%94%E6%80%A5%E7%AE%A1%E7%90%86%E9%83%A8%E6%8F%90%E7%A4%BA%E7%BD%91%E7%BA%A2%E6%A1%A5%E9%AB%98%E7%A9%BA%E9%A1%B9%E7%9B%AE%E6%97%85%E6%B8%B8%E5%AE%89%E5%85%A8%23" target="weibo">
+应急管理部提示网红桥高空项目旅游安全（热度：10610）
 </a>
 </li>
 
