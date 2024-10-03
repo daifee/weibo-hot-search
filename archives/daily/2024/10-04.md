@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/10/04 00:28:06 ~ 2024/10/04 01:21:03
+本榜单时间：2024/10/04 00:28:06 ~ 2024/10/04 01:38:48
 </p>
 </blockquote>
 <p>
@@ -105,6 +105,12 @@ GEN战胜WBG（热度：237677）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%BA%86%E5%A0%B5%E5%9C%A8%E9%9A%A7%E9%81%93%E4%BC%97%E4%BA%BA%E4%B8%8B%E8%BD%A6%E5%A4%A7%E5%90%88%E5%94%B1%23" target="weibo">
+国庆堵在隧道众人下车大合唱（热度：189273）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B4%B5%E5%B7%9E%E7%BB%87%E9%87%91%E5%8F%91%E7%94%9F%E5%B1%B1%E4%BD%93%E5%9E%AE%E5%A1%8C6%E4%BA%BA%E6%AD%BB%E4%BA%A1%23" target="weibo">
 贵州织金发生山体垮塌6人死亡（热度：183514）
 </a>
@@ -131,12 +137,6 @@ TES战胜T1（热度：162751）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B9%BC%E7%AB%A5%E8%BD%A6%E7%A5%B8%E5%90%8E%E5%81%9ACT%E5%8F%91%E7%8E%B01%E5%B9%B4%E5%89%8D%E7%A3%81%E5%8A%9B%E7%8F%A0%23" target="weibo">
 幼童车祸后做CT发现1年前磁力珠（热度：162199）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%BA%86%E5%A0%B5%E5%9C%A8%E9%9A%A7%E9%81%93%E4%BC%97%E4%BA%BA%E4%B8%8B%E8%BD%A6%E5%A4%A7%E5%90%88%E5%94%B1%23" target="weibo">
-国庆堵在隧道众人下车大合唱（热度：161761）
 </a>
 </li>
 
@@ -315,6 +315,18 @@ GEN对战WBG（热度：104532）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23Faker%E7%8A%B6%E6%80%81%23" target="weibo">
+Faker状态（热度：52011）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%B2%99%E5%9D%A1%E5%AD%90%E8%A1%97%E6%B4%BE%E5%87%BA%E6%89%80%E6%88%90%E7%83%AD%E9%97%A8%E6%89%93%E5%8D%A1%E5%9C%B0%23" target="weibo">
+长沙坡子街派出所成热门打卡地（热度：51219）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%91%E4%BD%90%20%E9%BC%BB%E6%A2%81%E4%B8%AD%E6%9C%89%E8%80%81%E5%A9%86%23" target="weibo">
 向佐 鼻梁中有老婆（热度：49063）
 </a>
@@ -339,8 +351,20 @@ GEN对战WBG（热度：104532）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23100%E5%A4%9A%E5%90%8D%E7%BE%8E%E5%9B%BD%E5%85%AC%E6%B0%91%E5%8F%8A%E5%85%B6%E4%BA%B2%E5%B1%9E%E6%92%A4%E5%87%BA%E9%BB%8E%E5%B7%B4%E5%AB%A9%23" target="weibo">
+100多名美国公民及其亲属撤出黎巴嫩（热度：44544）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E9%BE%99%E6%99%8B%E7%BA%A7%E4%B8%AD%E5%9B%BD%E5%A4%A7%E6%BB%A1%E8%B4%AF8%E5%BC%BA%23" target="weibo">
 马龙晋级中国大满贯8强（热度：42554）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23LNG%E6%88%98%E8%83%9CTL%23" target="weibo">
+LNG战胜TL（热度：42185）
 </a>
 </li>
 
@@ -357,8 +381,8 @@ GEN对战WBG（热度：104532）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%B2%99%E5%9D%A1%E5%AD%90%E8%A1%97%E6%B4%BE%E5%87%BA%E6%89%80%E6%88%90%E7%83%AD%E9%97%A8%E6%89%93%E5%8D%A1%E5%9C%B0%23" target="weibo">
-长沙坡子街派出所成热门打卡地（热度：16769）
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%9E%8B%E7%BA%AA%E5%BD%95%E7%89%87%E4%B8%BA%E4%BA%86%E6%96%B0%E4%B8%AD%E5%9B%BD%23" target="weibo">
+大型纪录片为了新中国（热度：12687）
 </a>
 </li>
 
