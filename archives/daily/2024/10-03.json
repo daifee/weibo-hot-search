@@ -1,6 +1,6 @@
 {
   "startTime": 1727886505064,
-  "endTime": 1727944115414,
+  "endTime": 1727944949455,
   "band_list": [
     {
       "raw_hot": 1864900,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 1164353,
-      "num": 160631,
+      "num": 171132,
       "word": "成毅吊威亚摔在了台阶上",
       "onboard_time": 1727942478,
       "rank": 10,
@@ -121,6 +121,14 @@
       "onboard_time": 1727925617,
       "rank": 35,
       "category": "财经"
+    },
+    {
+      "raw_hot": 627250,
+      "num": 171202,
+      "word": "穆婷婷复刻冷冰心",
+      "onboard_time": 1727943078,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 608309,
@@ -241,14 +249,6 @@
       "onboard_time": 1727928617,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 470768,
-      "num": 160364,
-      "word": "穆婷婷复刻冷冰心",
-      "onboard_time": 1727943078,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 465493,
@@ -404,7 +404,7 @@
     },
     {
       "raw_hot": 317409,
-      "num": 160309,
+      "num": 171005,
       "word": "749局 奥特曼",
       "onboard_time": 1727941158,
       "rank": 14,
@@ -428,7 +428,7 @@
     },
     {
       "raw_hot": 307917,
-      "num": 160150,
+      "num": 170841,
       "word": "林高远王艺迪进混双决赛",
       "onboard_time": 1727940618,
       "rank": 37,
@@ -540,7 +540,7 @@
     },
     {
       "raw_hot": 275267,
-      "num": 159783,
+      "num": 170580,
       "word": "厕纸到底应该冲掉还是扔纸篓",
       "onboard_time": 1727939777,
       "rank": 49,
@@ -755,6 +755,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 197191,
+      "num": 137737,
+      "word": "莫雷加德连续淘汰日本三人",
+      "onboard_time": 1727943378,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 196089,
       "num": 196089,
       "word": "女子空地烧婚纱为自己举办离婚典礼",
@@ -836,11 +844,19 @@
     },
     {
       "raw_hot": 184184,
-      "num": 159866,
+      "num": 170368,
       "word": "张本智和说想进一次8强",
       "onboard_time": 1727939717,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 178472,
+      "num": 178472,
+      "word": "独库公路10日20时冬季封闭禁行",
+      "onboard_time": 1727942119,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 176824,
@@ -868,7 +884,7 @@
     },
     {
       "raw_hot": 173805,
-      "num": 159580,
+      "num": 170360,
       "word": "刘璇给二十岁女孩的忠告",
       "onboard_time": 1727940678,
       "rank": 40,
@@ -884,7 +900,7 @@
     },
     {
       "raw_hot": 169310,
-      "num": 159473,
+      "num": 169273,
       "word": "在深圳中学读书的一天",
       "onboard_time": 1727940198,
       "rank": 30,
@@ -993,6 +1009,14 @@
       "onboard_time": 1727931917,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 151555,
+      "num": 151555,
+      "word": "浴火之路 删减",
+      "onboard_time": 1727943977,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 150942,
@@ -1113,6 +1137,14 @@
       "onboard_time": 1727927416,
       "rank": 38,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 138994,
+      "num": 138994,
+      "word": "王楚钦说面对勒布伦兄弟做好自己",
+      "onboard_time": 1727942659,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 138695,
@@ -1267,20 +1299,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 122091,
+      "num": 122091,
+      "word": "肖央哭戏没掉一滴泪",
+      "onboard_time": 1727941098,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 120158,
       "num": 120158,
       "word": "中网",
       "onboard_time": 1727911274,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 119768,
-      "num": 119768,
-      "word": "肖央哭戏没掉一滴泪",
-      "onboard_time": 1727941098,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 119657,
@@ -1323,6 +1355,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 117624,
+      "num": 170491,
+      "word": "日本首相石破茂因政治资金问题被检举",
+      "onboard_time": 1727944758,
+      "rank": 23,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 117225,
       "num": 117225,
       "word": "边伯贤三百万solo歌手",
@@ -1339,12 +1379,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 116330,
-      "num": 116330,
-      "word": "王楚钦说面对勒布伦兄弟做好自己",
-      "onboard_time": 1727942659,
-      "rank": 32,
-      "category": "体育"
+      "raw_hot": 116091,
+      "num": 116091,
+      "word": "杭州萧山人开吃年夜饭了",
+      "onboard_time": 1727941997,
+      "rank": 34,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 116042,
@@ -1387,6 +1427,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 111679,
+      "num": 111679,
+      "word": "来光夜天天吃国宴",
+      "onboard_time": 1727944639,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 111521,
       "num": 111521,
       "word": "郑钦文中网三连胜",
@@ -1403,20 +1451,20 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 109658,
-      "num": 109658,
-      "word": "杭州萧山人开吃年夜饭了",
-      "onboard_time": 1727941997,
-      "rank": 34,
-      "category": "美食,社会新闻"
-    },
-    {
       "raw_hot": 109329,
       "num": 109329,
       "word": "伊朗称200枚导弹90%击中预设目标",
       "onboard_time": 1727877080,
       "rank": 37,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 109026,
+      "num": 109026,
+      "word": "港股反转可能正在发生",
+      "onboard_time": 1727943618,
+      "rank": 46,
+      "category": "财经"
     },
     {
       "raw_hot": 108966,
@@ -1443,12 +1491,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 107262,
-      "num": 160667,
-      "word": "独库公路10日20时冬季封闭禁行",
-      "onboard_time": 1727942119,
-      "rank": 9,
-      "category": "社会新闻"
+      "raw_hot": 107662,
+      "num": 107662,
+      "word": "家国在这一刻具象化了",
+      "onboard_time": 1727941818,
+      "rank": 39,
+      "category": "国内时政"
     },
     {
       "raw_hot": 106380,
@@ -1491,12 +1539,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 102779,
-      "num": 102779,
-      "word": "家国在这一刻具象化了",
-      "onboard_time": 1727941818,
-      "rank": 39,
-      "category": "国内时政"
+      "raw_hot": 103140,
+      "num": 103140,
+      "word": "82岁医生办公室放着健身垫",
+      "onboard_time": 1727944758,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 101913,
@@ -1507,6 +1555,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 101130,
+      "num": 101130,
+      "word": "吃素为什么也会得脂肪肝",
+      "onboard_time": 1727944579,
+      "rank": 42,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 100933,
       "num": 100933,
       "word": "中网钻石球场昨日上座率100%",
@@ -1515,20 +1571,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 100877,
-      "num": 100877,
-      "word": "浴火之路 删减",
-      "onboard_time": 1727943977,
-      "rank": 41,
-      "category": "电影"
-    },
-    {
       "raw_hot": 100586,
       "num": 100586,
       "word": "原来蔓越莓是在水里采收的",
       "onboard_time": 1727939838,
       "rank": 41,
       "category": "科学科普,美食"
+    },
+    {
+      "raw_hot": 100410,
+      "num": 100410,
+      "word": "浴火之路 废弃车架",
+      "onboard_time": 1727943919,
+      "rank": 45,
+      "category": "电影"
     },
     {
       "raw_hot": 100277,
@@ -1595,28 +1651,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 95613,
-      "num": 95613,
-      "word": "浴火之路 废弃车架",
-      "onboard_time": 1727943919,
-      "rank": 45,
-      "category": "电影"
-    },
-    {
       "raw_hot": 95487,
       "num": 208071,
       "word": "林高远王艺迪3比1薛飞钱天一",
       "onboard_time": 1727940438,
       "rank": 13,
       "category": "体育"
-    },
-    {
-      "raw_hot": 95307,
-      "num": 95307,
-      "word": "港股反转可能正在发生",
-      "onboard_time": 1727943618,
-      "rank": 46,
-      "category": "财经"
     },
     {
       "raw_hot": 94577,
@@ -1633,6 +1673,14 @@
       "onboard_time": 1727943439,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 93021,
+      "num": 208171,
+      "word": "张帅vs巴多萨",
+      "onboard_time": 1727939777,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 91027,
@@ -1737,14 +1785,6 @@
       "onboard_time": 1727926218,
       "rank": 9,
       "category": "国内时政,军事"
-    },
-    {
-      "raw_hot": 82177,
-      "num": 208171,
-      "word": "张帅vs巴多萨",
-      "onboard_time": 1727939777,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 81906,
@@ -2051,6 +2091,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 39117,
+      "num": 170769,
+      "word": "张帅无缘中网四强",
+      "onboard_time": 1727944878,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 38358,
       "num": 38358,
       "word": "贵州速冻模式游客一下高铁天塌了",
@@ -2089,6 +2137,14 @@
       "onboard_time": 1727889134,
       "rank": 19,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 28928,
+      "num": 170720,
+      "word": "恒生科技指数创两年以来最大跌幅",
+      "onboard_time": 1727944218,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 28805,
@@ -2153,6 +2209,14 @@
       "onboard_time": 1727898312,
       "rank": 47,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 18742,
+      "num": 104937,
+      "word": "秋日润燥饮",
+      "onboard_time": 1727944279,
+      "rank": 39,
+      "category": "休闲"
     },
     {
       "raw_hot": 18677,
@@ -2231,6 +2295,14 @@
       "num": 267204,
       "word": "超3.3亿人次假期首日跨区域流动",
       "onboard_time": 1727873659,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 7473,
+      "num": 217806,
+      "word": "中国人的餐桌75年变迁史",
+      "onboard_time": 1727944878,
       "rank": 2,
       "category": "社会新闻"
     },

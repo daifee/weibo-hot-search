@@ -1,0 +1,410 @@
+{
+  "runTime": 1727944949455,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1099765,
+        "num": 1175962,
+        "word": "100斤女警穿70斤衣服排爆",
+        "onboard_time": 1727940258,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237763,
+        "num": 237763,
+        "word": "国庆天安门升旗仪式这个彩蛋看哭了",
+        "onboard_time": 1727935757,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 7473,
+        "num": 217806,
+        "word": "中国人的餐桌75年变迁史",
+        "onboard_time": 1727944878,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215715,
+        "num": 215715,
+        "word": "莫雷加德vs张本智和",
+        "onboard_time": 1727931979,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 181012,
+        "num": 181012,
+        "word": "广深售楼部挤满了买房的人",
+        "onboard_time": 1727922437,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178766,
+        "num": 178766,
+        "word": "孙颖莎WTT中国大满贯三连胜",
+        "onboard_time": 1727931677,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 178472,
+        "num": 178472,
+        "word": "独库公路10日20时冬季封闭禁行",
+        "onboard_time": 1727942119,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171335,
+        "num": 171335,
+        "word": "听泉鉴宝连线太精彩了",
+        "onboard_time": 1727934738,
+        "rank": 7,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 151493,
+        "num": 171327,
+        "word": "妈妈抱着升旗后的张威哭了",
+        "onboard_time": 1727935819,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139820,
+        "num": 171271,
+        "word": "赴山海",
+        "onboard_time": 1727939176,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 627250,
+        "num": 171202,
+        "word": "穆婷婷复刻冷冰心",
+        "onboard_time": 1727943078,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1156758,
+        "num": 171132,
+        "word": "成毅吊威亚摔在了台阶上",
+        "onboard_time": 1727942478,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 496052,
+        "num": 171109,
+        "word": "博物馆昆虫被2孩子偷走",
+        "onboard_time": 1727937317,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 425199,
+        "num": 171033,
+        "word": "好利来二公子逐梦演艺圈",
+        "onboard_time": 1727928617,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 313598,
+        "num": 171005,
+        "word": "749局 奥特曼",
+        "onboard_time": 1727941158,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 264208,
+        "num": 170911,
+        "word": "以军一机库被伊朗导弹炸出大洞",
+        "onboard_time": 1727938458,
+        "rank": 15,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 258104,
+        "num": 170871,
+        "word": "专家称期待已久的楼市银十回来了",
+        "onboard_time": 1727933478,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188936,
+        "num": 170841,
+        "word": "林高远王艺迪进混双决赛",
+        "onboard_time": 1727940618,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 39117,
+        "num": 170769,
+        "word": "张帅无缘中网四强",
+        "onboard_time": 1727944878,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 28928,
+        "num": 170720,
+        "word": "恒生科技指数创两年以来最大跌幅",
+        "onboard_time": 1727944218,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123691,
+        "num": 170632,
+        "word": "国庆档电影票房一路飘红破纪录",
+        "onboard_time": 1727923037,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245088,
+        "num": 170580,
+        "word": "厕纸到底应该冲掉还是扔纸篓",
+        "onboard_time": 1727939777,
+        "rank": 21,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 239909,
+        "num": 170554,
+        "word": "阿姨用脚后跟给小狗来了一套颠勺",
+        "onboard_time": 1727938937,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 117624,
+        "num": 170491,
+        "word": "日本首相石破茂因政治资金问题被检举",
+        "onboard_time": 1727944758,
+        "rank": 23,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 186588,
+        "num": 170457,
+        "word": "杨紫被选为巴黎时装周最佳着装",
+        "onboard_time": 1727928498,
+        "rank": 24,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 183758,
+        "num": 170368,
+        "word": "张本智和说想进一次8强",
+        "onboard_time": 1727939717,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 170360,
+        "num": 170360,
+        "word": "刘璇给二十岁女孩的忠告",
+        "onboard_time": 1727940678,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169273,
+        "num": 169273,
+        "word": "在深圳中学读书的一天",
+        "onboard_time": 1727940198,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 151555,
+        "num": 151555,
+        "word": "浴火之路 删减",
+        "onboard_time": 1727943977,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 138994,
+        "num": 138994,
+        "word": "王楚钦说面对勒布伦兄弟做好自己",
+        "onboard_time": 1727942659,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 197191,
+        "num": 137737,
+        "word": "莫雷加德连续淘汰日本三人",
+        "onboard_time": 1727943378,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 135906,
+        "num": 135906,
+        "word": "极氪车主高速上自动驾驶时盖被睡觉",
+        "onboard_time": 1727934138,
+        "rank": 31,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 133938,
+        "num": 133938,
+        "word": "我以为的749局",
+        "onboard_time": 1727940798,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 122091,
+        "num": 122091,
+        "word": "肖央哭戏没掉一滴泪",
+        "onboard_time": 1727941098,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116091,
+        "num": 116091,
+        "word": "杭州萧山人开吃年夜饭了",
+        "onboard_time": 1727941997,
+        "rank": 34,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 48783,
+        "num": 113809,
+        "word": "峨眉女团耀动香港",
+        "onboard_time": 1727940678,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111679,
+        "num": 111679,
+        "word": "来光夜天天吃国宴",
+        "onboard_time": 1727944639,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 109026,
+        "num": 109026,
+        "word": "港股反转可能正在发生",
+        "onboard_time": 1727943618,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 107662,
+        "num": 107662,
+        "word": "家国在这一刻具象化了",
+        "onboard_time": 1727941818,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 18742,
+        "num": 104937,
+        "word": "秋日润燥饮",
+        "onboard_time": 1727944279,
+        "rank": 39,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 104217,
+        "num": 104217,
+        "word": "安陵容蛐蛐完了所有人",
+        "onboard_time": 1727942419,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103140,
+        "num": 103140,
+        "word": "82岁医生办公室放着健身垫",
+        "onboard_time": 1727944758,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101130,
+        "num": 101130,
+        "word": "吃素为什么也会得脂肪肝",
+        "onboard_time": 1727944579,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 100410,
+        "num": 100410,
+        "word": "浴火之路 废弃车架",
+        "onboard_time": 1727943919,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 100254,
+        "num": 100254,
+        "word": "小jiojio出现的一瞬间萌化了",
+        "onboard_time": 1727932638,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 100192,
+        "num": 100192,
+        "word": "临沂音乐节",
+        "onboard_time": 1727943378,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 98906,
+        "num": 98906,
+        "word": "中国基建狂魔把绝境变成打卡地",
+        "onboard_time": 1727929998,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97864,
+        "num": 97864,
+        "word": "王楚钦说看见梁靖崑就想笑",
+        "onboard_time": 1727937078,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 97127,
+        "num": 97127,
+        "word": "半熟男女 分手了人生是旷野",
+        "onboard_time": 1727934560,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 93021,
+        "num": 93021,
+        "word": "张帅vs巴多萨",
+        "onboard_time": 1727939777,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记感受美丽中国#"
+    }
+  }
+}
