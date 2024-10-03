@@ -1,14 +1,22 @@
 {
   "startTime": 1727886505064,
-  "endTime": 1727932914257,
+  "endTime": 1727933986773,
   "band_list": [
     {
       "raw_hot": 1864900,
-      "num": 311863,
+      "num": 369344,
       "word": "好利来二公子逐梦演艺圈",
       "onboard_time": 1727928617,
       "rank": 10,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1271472,
+      "num": 1271472,
+      "word": "莫雷加德vs张本智和",
+      "onboard_time": 1727931979,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 1025547,
@@ -25,14 +33,6 @@
       "onboard_time": 1727878400,
       "rank": 10,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 937254,
-      "num": 1149960,
-      "word": "莫雷加德vs张本智和",
-      "onboard_time": 1727931979,
-      "rank": 0,
-      "category": "体育"
     },
     {
       "raw_hot": 913167,
@@ -188,11 +188,19 @@
     },
     {
       "raw_hot": 485593,
-      "num": 207748,
+      "num": 366809,
       "word": "小白的心脏是两节五号电池",
       "onboard_time": 1727928617,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 465493,
+      "num": 365145,
+      "word": "offer6带教 香港首位内地女性大律师",
+      "onboard_time": 1727932218,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 462498,
@@ -212,7 +220,7 @@
     },
     {
       "raw_hot": 457490,
-      "num": 207210,
+      "num": 364654,
       "word": "林德3比2高承睿",
       "onboard_time": 1727930478,
       "rank": 45,
@@ -379,6 +387,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 287941,
+      "num": 372095,
+      "word": "王楚钦梁靖崑晋级男双四强",
+      "onboard_time": 1727932877,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 284587,
       "num": 469990,
       "word": "股民连夜找回密码重启账户",
@@ -425,6 +441,14 @@
       "onboard_time": 1727869101,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 266469,
+      "num": 197888,
+      "word": "小jiojio出现的一瞬间萌化了",
+      "onboard_time": 1727932638,
+      "rank": 27,
+      "category": "幽默"
     },
     {
       "raw_hot": 262035,
@@ -531,6 +555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 204064,
+      "num": 204064,
+      "word": "莫雷加德3比2张本智和",
+      "onboard_time": 1727933599,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 203029,
       "num": 203029,
       "word": "孙颖莎WTT中国大满贯三连胜",
@@ -555,20 +587,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 193937,
+      "num": 193937,
+      "word": "郑钦文说北京低温影响她进入状态",
+      "onboard_time": 1727931259,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 193398,
       "num": 193398,
       "word": "时代少年团演唱会官摄视频上线",
       "onboard_time": 1727929338,
       "rank": 36,
       "category": "演出"
-    },
-    {
-      "raw_hot": 193158,
-      "num": 193158,
-      "word": "小jiojio出现的一瞬间萌化了",
-      "onboard_time": 1727932638,
-      "rank": 27,
-      "category": "幽默"
     },
     {
       "raw_hot": 193004,
@@ -593,6 +625,14 @@
       "onboard_time": 1727925018,
       "rank": 22,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 185008,
+      "num": 206369,
+      "word": "为躲避日军追捕她从窗户跳了下去",
+      "onboard_time": 1727927537,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 176824,
@@ -624,14 +664,6 @@
       "word": "郑钦文打到对手摔拍子",
       "onboard_time": 1727917997,
       "rank": 25,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 170049,
-      "num": 170049,
-      "word": "郑钦文说北京低温影响她进入状态",
-      "onboard_time": 1727931259,
-      "rank": 31,
       "category": "体育"
     },
     {
@@ -691,6 +723,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 158725,
+      "num": 158725,
+      "word": "邱贻可看孙颖莎打球笑了",
+      "onboard_time": 1727933599,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 156183,
       "num": 156183,
       "word": "福建舰官兵摆出巨型数字75",
@@ -737,14 +777,6 @@
       "onboard_time": 1727916077,
       "rank": 28,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 150360,
-      "num": 150360,
-      "word": "offer6带教 香港首位内地女性大律师",
-      "onboard_time": 1727932218,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 145973,
@@ -864,6 +896,14 @@
       "word": "周冬雨压轴登上红毯",
       "onboard_time": 1727881940,
       "rank": 27,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 132161,
+      "num": 176367,
+      "word": "我要你绑架我好小众的请求",
+      "onboard_time": 1727933298,
+      "rank": 28,
       "category": "电影"
     },
     {
@@ -1115,14 +1155,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 98553,
-      "num": 206369,
-      "word": "为躲避日军追捕她从窗户跳了下去",
-      "onboard_time": 1727927537,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 98403,
       "num": 98403,
       "word": "哥伦布机员2比3迈阿密国际",
@@ -1235,6 +1267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 78855,
+      "num": 374843,
+      "word": "专家称期待已久的楼市银十回来了",
+      "onboard_time": 1727933478,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 77885,
       "num": 77885,
       "word": "5000港元买地产股赚了164%",
@@ -1281,6 +1321,14 @@
       "onboard_time": 1727923639,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 73680,
+      "num": 248892,
+      "word": "莫雷加德进中国大满贯8强",
+      "onboard_time": 1727933419,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 72615,
@@ -1363,6 +1411,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 57994,
+      "num": 204084,
+      "word": "变形金刚 和最好的朋友决裂",
+      "onboard_time": 1727932938,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 57975,
       "num": 57975,
       "word": "让无名烈士不再无名",
@@ -1393,6 +1449,14 @@
       "onboard_time": 1727867541,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 55816,
+      "num": 175836,
+      "word": "伊朗民众谴责美国和以色列破坏和平",
+      "onboard_time": 1727933478,
+      "rank": 29,
+      "category": "国外时政"
     },
     {
       "raw_hot": 55603,
@@ -1483,6 +1547,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 38271,
+      "num": 204071,
+      "word": "李想 战士铁汉外表下的柔情",
+      "onboard_time": 1727933838,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 30289,
       "num": 39897,
       "word": "全国各地开启人从众模式",
@@ -1529,14 +1601,6 @@
       "onboard_time": 1727931618,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 23987,
-      "num": 208977,
-      "word": "王楚钦梁靖崑晋级男双四强",
-      "onboard_time": 1727932877,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 23606,

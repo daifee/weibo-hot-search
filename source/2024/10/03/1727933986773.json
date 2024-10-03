@@ -1,0 +1,410 @@
+{
+  "runTime": 1727933986773,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1271472,
+        "num": 1271472,
+        "word": "莫雷加德vs张本智和",
+        "onboard_time": 1727931979,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 487190,
+        "num": 487190,
+        "word": "中国基建狂魔把绝境变成打卡地",
+        "onboard_time": 1727929998,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22645,
+        "num": 458680,
+        "word": "予家予国",
+        "onboard_time": 1727925078,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 441804,
+        "num": 441804,
+        "word": "广深售楼部挤满了买房的人",
+        "onboard_time": 1727922437,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 380999,
+        "num": 380999,
+        "word": "孙颖莎vs刘炜珊",
+        "onboard_time": 1727925499,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 447927,
+        "num": 379732,
+        "word": "港股突变",
+        "onboard_time": 1727925617,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 206274,
+        "num": 377635,
+        "word": "国庆档电影票房一路飘红破纪录",
+        "onboard_time": 1727923037,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 151838,
+        "num": 376909,
+        "word": "只此青绿演了600次场场满座",
+        "onboard_time": 1727926578,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 78855,
+        "num": 374843,
+        "word": "专家称期待已久的楼市银十回来了",
+        "onboard_time": 1727933478,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 287941,
+        "num": 372095,
+        "word": "王楚钦梁靖崑晋级男双四强",
+        "onboard_time": 1727932877,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1587616,
+        "num": 369344,
+        "word": "好利来二公子逐梦演艺圈",
+        "onboard_time": 1727928617,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 474826,
+        "num": 366809,
+        "word": "小白的心脏是两节五号电池",
+        "onboard_time": 1727928617,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 465493,
+        "num": 365145,
+        "word": "offer6带教 香港首位内地女性大律师",
+        "onboard_time": 1727932218,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 364654,
+        "num": 364654,
+        "word": "林德3比2高承睿",
+        "onboard_time": 1727930478,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 73680,
+        "num": 248892,
+        "word": "莫雷加德进中国大满贯8强",
+        "onboard_time": 1727933419,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 242495,
+        "num": 242495,
+        "word": "医护用一个谎言从日军手中救人",
+        "onboard_time": 1727927178,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219652,
+        "num": 219652,
+        "word": "剩下的5天假期准备如何度过",
+        "onboard_time": 1727890994,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 57994,
+        "num": 204084,
+        "word": "变形金刚 和最好的朋友决裂",
+        "onboard_time": 1727932938,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 38271,
+        "num": 204071,
+        "word": "李想 战士铁汉外表下的柔情",
+        "onboard_time": 1727933838,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 204064,
+        "num": 204064,
+        "word": "莫雷加德3比2张本智和",
+        "onboard_time": 1727933599,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 375361,
+        "num": 199000,
+        "word": "杨紫被选为巴黎时装周最佳着装",
+        "onboard_time": 1727928498,
+        "rank": 20,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 266469,
+        "num": 197888,
+        "word": "小jiojio出现的一瞬间萌化了",
+        "onboard_time": 1727932638,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 252338,
+        "num": 197500,
+        "word": "高铁站女童坐行李箱摔下后昏迷",
+        "onboard_time": 1727920758,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193937,
+        "num": 193937,
+        "word": "郑钦文说北京低温影响她进入状态",
+        "onboard_time": 1727931259,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 192173,
+        "num": 192173,
+        "word": "孙颖莎WTT中国大满贯三连胜",
+        "onboard_time": 1727931677,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 185008,
+        "num": 185008,
+        "word": "为躲避日军追捕她从窗户跳了下去",
+        "onboard_time": 1727927537,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178877,
+        "num": 178877,
+        "word": "伊以冲突",
+        "onboard_time": 1727926457,
+        "rank": 26,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 177015,
+        "num": 177015,
+        "word": "马伯骞婚礼想让王耀庆当主婚人",
+        "onboard_time": 1727928857,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132161,
+        "num": 176367,
+        "word": "我要你绑架我好小众的请求",
+        "onboard_time": 1727933298,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 55816,
+        "num": 175836,
+        "word": "伊朗民众谴责美国和以色列破坏和平",
+        "onboard_time": 1727933478,
+        "rank": 29,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 175761,
+        "num": 175761,
+        "word": "以色列又一次攻击联合国工作人员",
+        "onboard_time": 1727922017,
+        "rank": 30,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 166539,
+        "num": 166539,
+        "word": "孙颖莎3比1战胜刘炜珊",
+        "onboard_time": 1727929697,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158725,
+        "num": 158725,
+        "word": "邱贻可看孙颖莎打球笑了",
+        "onboard_time": 1727933599,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 147884,
+        "num": 147884,
+        "word": "犬夜叉 犬薇夫妻好甜",
+        "onboard_time": 1727931677,
+        "rank": 33,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 142927,
+        "num": 142927,
+        "word": "驻日美军承认用含氟化物灭火剂19年",
+        "onboard_time": 1727922496,
+        "rank": 34,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 142335,
+        "num": 142335,
+        "word": "中国公民从黎巴嫩撤离车顶贴国旗",
+        "onboard_time": 1727913196,
+        "rank": 35,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 134063,
+        "num": 134063,
+        "word": "多国反对以色列禁止古特雷斯入境",
+        "onboard_time": 1727924837,
+        "rank": 36,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 133059,
+        "num": 133059,
+        "word": "于东来辛巴会面",
+        "onboard_time": 1727928437,
+        "rank": 37,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 131025,
+        "num": 131025,
+        "word": "王楚钦梁靖崑vs玛纳什塔卡",
+        "onboard_time": 1727931618,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128657,
+        "num": 128657,
+        "word": "邱贻可仔细检查孙颖莎球拍",
+        "onboard_time": 1727930598,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127938,
+        "num": 127938,
+        "word": "金九银十大家都在买什么车",
+        "onboard_time": 1727929577,
+        "rank": 40,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 126927,
+        "num": 126927,
+        "word": "今天是国庆长假第3天",
+        "onboard_time": 1727912236,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124676,
+        "num": 124676,
+        "word": "孙颖莎摸暖气暖暖手",
+        "onboard_time": 1727931979,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 34846,
+        "num": 123206,
+        "word": "如鸢漫展现场做非遗",
+        "onboard_time": 1727928977,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 122672,
+        "num": 122672,
+        "word": "萨摩耶把浮萍当成了草坪",
+        "onboard_time": 1727931917,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 122036,
+        "num": 122036,
+        "word": "为什么新出的冰箱吸不住冰箱贴",
+        "onboard_time": 1727932638,
+        "rank": 45,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 117123,
+        "num": 117123,
+        "word": "时代少年团演唱会官摄视频上线",
+        "onboard_time": 1727929338,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 105510,
+        "num": 105510,
+        "word": "港股大跳水",
+        "onboard_time": 1727929938,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 103483,
+        "num": 103483,
+        "word": "这些话是当上老师就自动会了吗",
+        "onboard_time": 1727925018,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 101463,
+        "num": 101463,
+        "word": "多国声援联合国秘书长",
+        "onboard_time": 1727922017,
+        "rank": 49,
+        "category": "国外时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#要靠实干奋斗实现中华民族伟大复兴#"
+    }
+  }
+}
