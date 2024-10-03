@@ -1,6 +1,6 @@
 {
   "startTime": 1727886505064,
-  "endTime": 1727965298616,
+  "endTime": 1727966415939,
   "band_list": [
     {
       "raw_hot": 1907090,
@@ -129,6 +129,14 @@
       "onboard_time": 1727950458,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 901038,
+      "num": 1144166,
+      "word": "中国海警现身阿拉斯加附近打乱美国布局",
+      "onboard_time": 1727963000,
+      "rank": 1,
+      "category": "国内时政"
     },
     {
       "raw_hot": 884225,
@@ -329,14 +337,6 @@
       "onboard_time": 1727956280,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 523521,
-      "num": 523521,
-      "word": "中国海警现身阿拉斯加附近打乱美国布局",
-      "onboard_time": 1727963000,
-      "rank": 1,
-      "category": "国内时政"
     },
     {
       "raw_hot": 520940,
@@ -691,6 +691,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 312690,
+      "num": 223335,
+      "word": "幼童车祸后做CT发现1年前磁力珠",
+      "onboard_time": 1727964981,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 311102,
       "num": 311102,
       "word": "剩下的5天假期准备如何度过",
@@ -1011,6 +1019,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 238629,
+      "num": 234963,
+      "word": "369",
+      "onboard_time": 1727964560,
+      "rank": 23,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 237239,
       "num": 360751,
       "word": "钟汉良与绝症孩子保持联系十几年",
@@ -1033,14 +1049,6 @@
       "onboard_time": 1727928857,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 234963,
-      "num": 234963,
-      "word": "369",
-      "onboard_time": 1727964560,
-      "rank": 23,
-      "category": "电竞"
     },
     {
       "raw_hot": 233579,
@@ -1139,6 +1147,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 209254,
+      "num": 209254,
+      "word": "电刀",
+      "onboard_time": 1727965880,
+      "rank": 26,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 209158,
       "num": 209158,
       "word": "王曼昱被闪光灯影响",
@@ -1161,6 +1177,14 @@
       "onboard_time": 1727936837,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 207120,
+      "num": 207120,
+      "word": "假期去冰岛旅游的人已经后悔了",
+      "onboard_time": 1727965460,
+      "rank": 27,
+      "category": "旅游"
     },
     {
       "raw_hot": 205771,
@@ -1259,6 +1283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 193720,
+      "num": 193720,
+      "word": "田曦薇眼技",
+      "onboard_time": 1727965760,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 193398,
       "num": 193398,
       "word": "时代少年团演唱会官摄视频上线",
@@ -1321,6 +1353,14 @@
       "onboard_time": 1727937918,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 188191,
+      "num": 188191,
+      "word": "马龙说我年龄也不算大",
+      "onboard_time": 1727965160,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 185623,
@@ -1417,6 +1457,14 @@
       "onboard_time": 1727881820,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 174171,
+      "num": 174171,
+      "word": "WTT赛程",
+      "onboard_time": 1727964441,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 174052,
@@ -1739,14 +1787,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 144216,
-      "num": 144216,
-      "word": "WTT赛程",
-      "onboard_time": 1727964441,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 143323,
       "num": 143323,
       "word": "美官员暗中支持以升级军事行动",
@@ -1851,14 +1891,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 137713,
-      "num": 137713,
-      "word": "幼童车祸后做CT发现1年前磁力珠",
-      "onboard_time": 1727964981,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 137551,
       "num": 137551,
       "word": "周深鸟巢演唱会vlog",
@@ -1881,6 +1913,14 @@
       "onboard_time": 1727946978,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 135357,
+      "num": 189545,
+      "word": "票房",
+      "onboard_time": 1727965880,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 135182,
@@ -1971,12 +2011,28 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 131348,
+      "num": 131348,
+      "word": "伊藤美诚说很开心又能和孙颖莎交手",
+      "onboard_time": 1727962219,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 131340,
       "num": 131340,
       "word": "为啥街边烤鸭只要25块",
       "onboard_time": 1727869519,
       "rank": 28,
       "category": "美食"
+    },
+    {
+      "raw_hot": 130924,
+      "num": 275426,
+      "word": "国乒锁定中国大满贯混双冠军",
+      "onboard_time": 1727964140,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 129964,
@@ -2027,6 +2083,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 126335,
+      "num": 126335,
+      "word": "虎先锋在杭州已经加了三天班了",
+      "onboard_time": 1727965460,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 125539,
       "num": 125539,
       "word": "直击黎巴嫩撤侨",
@@ -2067,20 +2131,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 122132,
+      "num": 122132,
+      "word": "希林娜依高打卡烟台焖子",
+      "onboard_time": 1727966300,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 122091,
       "num": 122091,
       "word": "肖央哭戏没掉一滴泪",
       "onboard_time": 1727941098,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 120765,
-      "num": 120765,
-      "word": "马龙说我年龄也不算大",
-      "onboard_time": 1727965160,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 120585,
@@ -2307,14 +2371,6 @@
       "category": "读书作家"
     },
     {
-      "raw_hot": 108371,
-      "num": 108371,
-      "word": "伊藤美诚说很开心又能和孙颖莎交手",
-      "onboard_time": 1727962219,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 108192,
       "num": 121711,
       "word": "小鹦鹉找回主人礼貌跟民警说拜拜",
@@ -2403,6 +2459,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 105647,
+      "num": 227307,
+      "word": "GEN对战WBG",
+      "onboard_time": 1727966001,
+      "rank": 14,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 104361,
       "num": 104361,
       "word": "腌辣白菜",
@@ -2481,14 +2545,6 @@
       "onboard_time": 1727935938,
       "rank": 46,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 99725,
-      "num": 275426,
-      "word": "国乒锁定中国大满贯混双冠军",
-      "onboard_time": 1727964140,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 99718,
@@ -2673,6 +2729,14 @@
       "onboard_time": 1727943738,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 84307,
+      "num": 228116,
+      "word": "在不断前行的路上拥抱更好的自己",
+      "onboard_time": 1727966118,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 83525,
@@ -3227,6 +3291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 25274,
+      "num": 508463,
+      "word": "读懂中国75年发展密码",
+      "onboard_time": 1727962759,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 24784,
       "num": 206656,
       "word": "亲历者讲述从黎巴嫩撤离经过",
@@ -3281,14 +3353,6 @@
       "onboard_time": 1727907853,
       "rank": 40,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 17367,
-      "num": 508463,
-      "word": "读懂中国75年发展密码",
-      "onboard_time": 1727962759,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 17183,
