@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1727926942660,
+  "endTime": 1727929648493,
   "band_list": [
     {
       "raw_hot": 11925969,
@@ -121,6 +121,14 @@
       "onboard_time": 1727756780,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1416588,
+      "num": 311863,
+      "word": "好利来二公子逐梦演艺圈",
+      "onboard_time": 1727928617,
+      "rank": 10,
+      "category": "剧集"
     },
     {
       "raw_hot": 1391758,
@@ -379,6 +387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 848222,
+      "num": 1135715,
+      "word": "孙颖莎vs刘炜珊",
+      "onboard_time": 1727925499,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 848077,
       "num": 848077,
       "word": "赵丽颖演技",
@@ -531,6 +547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 739698,
+      "num": 739698,
+      "word": "广深售楼部挤满了买房的人",
+      "onboard_time": 1727922437,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 735355,
       "num": 735355,
       "word": "孙颖莎vs蒯曼",
@@ -636,19 +660,11 @@
     },
     {
       "raw_hot": 670728,
-      "num": 260331,
+      "num": 304423,
       "word": "以色列又一次攻击联合国工作人员",
       "onboard_time": 1727922017,
       "rank": 14,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 669300,
-      "num": 669300,
-      "word": "广深售楼部挤满了买房的人",
-      "onboard_time": 1727922437,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 664525,
@@ -673,6 +689,14 @@
       "onboard_time": 1727772740,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 639876,
+      "num": 639876,
+      "word": "港股突变",
+      "onboard_time": 1727925617,
+      "rank": 35,
+      "category": "财经"
     },
     {
       "raw_hot": 639196,
@@ -980,7 +1004,7 @@
     },
     {
       "raw_hot": 541452,
-      "num": 261516,
+      "num": 298973,
       "word": "多国声援联合国秘书长",
       "onboard_time": 1727922017,
       "rank": 12,
@@ -1065,14 +1089,6 @@
       "onboard_time": 1727914097,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 492031,
-      "num": 492031,
-      "word": "孙颖莎vs刘炜珊",
-      "onboard_time": 1727925499,
-      "rank": 13,
-      "category": "体育"
     },
     {
       "raw_hot": 483196,
@@ -1363,12 +1379,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 389145,
+      "num": 389145,
+      "word": "只此青绿演了600次场场满座",
+      "onboard_time": 1727926578,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 387161,
       "num": 234029,
       "word": "高雅cp",
       "onboard_time": 1727844799,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 383982,
+      "num": 307106,
+      "word": "伊以冲突",
+      "onboard_time": 1727926457,
+      "rank": 31,
+      "category": "国外时政"
     },
     {
       "raw_hot": 377018,
@@ -1409,6 +1441,14 @@
       "onboard_time": 1727912236,
       "rank": 15,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 367005,
+      "num": 258163,
+      "word": "杨紫被选为巴黎时装周最佳着装",
+      "onboard_time": 1727928498,
+      "rank": 21,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 359253,
@@ -1483,14 +1523,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 341579,
-      "num": 212980,
-      "word": "港股突变",
-      "onboard_time": 1727925617,
-      "rank": 35,
-      "category": "财经"
-    },
-    {
       "raw_hot": 336693,
       "num": 233886,
       "word": "樊振东与王皓儿子合照",
@@ -1563,6 +1595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 325125,
+      "num": 152308,
+      "word": "小白的心脏是两节五号电池",
+      "onboard_time": 1727928617,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 322601,
       "num": 230747,
       "word": "伊朗向以色列发动大规模导弹袭击",
@@ -1577,6 +1617,22 @@
       "onboard_time": 1727766198,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 319669,
+      "num": 319669,
+      "word": "医护用一个谎言从日军手中救人",
+      "onboard_time": 1727927178,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 316701,
+      "num": 316701,
+      "word": "碧昂斯",
+      "onboard_time": 1727926758,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 315462,
@@ -1763,6 +1819,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 287820,
+      "num": 287820,
+      "word": "多国反对以色列禁止古特雷斯入境",
+      "onboard_time": 1727924837,
+      "rank": 44,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 287610,
       "num": 229453,
       "word": "张凌赫雨天车内吻戏",
@@ -1891,6 +1955,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 271640,
+      "num": 257075,
+      "word": "无限暖暖",
+      "onboard_time": 1727928739,
+      "rank": 22,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 271279,
       "num": 271279,
       "word": "700多位航天英烈长眠酒泉",
@@ -1987,6 +2059,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 262035,
+      "num": 262035,
+      "word": "这些话是当上老师就自动会了吗",
+      "onboard_time": 1727925018,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 261348,
       "num": 255122,
       "word": "杨超越 纪凌尘像被人偷了脑子",
@@ -2025,6 +2105,14 @@
       "onboard_time": 1727835678,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 255921,
+      "num": 255921,
+      "word": "于东来辛巴会面",
+      "onboard_time": 1727928437,
+      "rank": 23,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 255872,
@@ -2483,14 +2571,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 216346,
-      "num": 186879,
-      "word": "这些话是当上老师就自动会了吗",
-      "onboard_time": 1727925018,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 216270,
       "num": 216270,
       "word": "林诗栋蒯曼3比0松岛辉空张本美和",
@@ -2809,6 +2889,14 @@
       "onboard_time": 1727776219,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 194122,
+      "num": 194122,
+      "word": "马伯骞婚礼想让王耀庆当主婚人",
+      "onboard_time": 1727928857,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 193800,
@@ -3315,6 +3403,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 174052,
+      "num": 174052,
+      "word": "有年轻人结婚不收份子钱",
+      "onboard_time": 1727925499,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 172740,
       "num": 172740,
       "word": "胡辣汤终于对咖啡下手了",
@@ -3377,6 +3473,14 @@
       "onboard_time": 1727873418,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 168432,
+      "num": 168432,
+      "word": "秋月梨桂花百香果",
+      "onboard_time": 1727927719,
+      "rank": 27,
+      "category": "美食"
     },
     {
       "raw_hot": 167524,
@@ -4043,14 +4147,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 140416,
-      "num": 140416,
-      "word": "多国反对以色列禁止古特雷斯入境",
-      "onboard_time": 1727924837,
-      "rank": 44,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 139939,
       "num": 139939,
       "word": "十月对我好一点",
@@ -4203,6 +4299,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 135380,
+      "num": 135380,
+      "word": "金九银十大家都在买什么车",
+      "onboard_time": 1727929577,
+      "rank": 34,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 134784,
       "num": 134784,
       "word": "共和国的圆梦时刻",
@@ -4321,6 +4425,14 @@
       "onboard_time": 1727855657,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 132054,
+      "num": 132054,
+      "word": "时代少年团演唱会官摄视频上线",
+      "onboard_time": 1727929338,
+      "rank": 36,
+      "category": "演出"
     },
     {
       "raw_hot": 131882,
@@ -4563,19 +4675,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 123611,
+      "num": 123611,
+      "word": "联合国回应秘书长被以色列拒绝入境",
+      "onboard_time": 1727927416,
+      "rank": 38,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 123585,
       "num": 508059,
       "word": "电影志愿军存亡之战",
       "onboard_time": 1727745378,
       "rank": 8,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 121896,
-      "num": 121896,
-      "word": "只此青绿演了600次场场满座",
-      "onboard_time": 1727926578,
-      "rank": 29,
       "category": "电影"
     },
     {
@@ -4747,6 +4859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 117797,
+      "num": 117797,
+      "word": "我们的歌好友嗨唱夜阵容官宣",
+      "onboard_time": 1727929639,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 117775,
       "num": 117775,
       "word": "八段锦8个动作分解教学",
@@ -4867,14 +4987,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 114316,
-      "num": 114316,
-      "word": "伊以冲突",
-      "onboard_time": 1727926457,
-      "rank": 31,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 114086,
       "num": 257192,
       "word": "郑钦文失首盘",
@@ -4961,14 +5073,6 @@
       "onboard_time": 1727867541,
       "rank": 41,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 110787,
-      "num": 110787,
-      "word": "有年轻人结婚不收份子钱",
-      "onboard_time": 1727925499,
-      "rank": 45,
-      "category": "情感"
     },
     {
       "raw_hot": 110671,
@@ -5065,6 +5169,14 @@
       "onboard_time": 1727752578,
       "rank": 49,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 107792,
+      "num": 107792,
+      "word": "赵奕欢晨艺真姐狗",
+      "onboard_time": 1727928376,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 107721,
@@ -5291,6 +5403,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 101640,
+      "num": 101640,
+      "word": "多国回应以色列禁止古特雷斯入境",
+      "onboard_time": 1727928917,
+      "rank": 43,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 101440,
       "num": 101440,
       "word": "Celine创意总监正式离任",
@@ -5379,6 +5499,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 98553,
+      "num": 98553,
+      "word": "为躲避日军追捕她从窗户跳了下去",
+      "onboard_time": 1727927537,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 98403,
       "num": 98403,
       "word": "哥伦布机员2比3迈阿密国际",
@@ -5427,14 +5555,6 @@
       "category": "母婴育儿"
     },
     {
-      "raw_hot": 96872,
-      "num": 112599,
-      "word": "碧昂斯",
-      "onboard_time": 1727926758,
-      "rank": 34,
-      "category": "演出"
-    },
-    {
       "raw_hot": 96710,
       "num": 219403,
       "word": "国庆档新片票房已破3亿",
@@ -5449,6 +5569,14 @@
       "onboard_time": 1727798117,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 96188,
+      "num": 96188,
+      "word": "国庆出行顶级心态来都来了",
+      "onboard_time": 1727928018,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 95882,
@@ -6107,6 +6235,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 62308,
+      "num": 278136,
+      "word": "浴火之路怒呛江湖",
+      "onboard_time": 1727929338,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 61583,
       "num": 420977,
       "word": "贝莱德上调中国股票评级",
@@ -6160,6 +6296,14 @@
       "word": "让无名烈士不再无名",
       "onboard_time": 1727911875,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 57549,
+      "num": 314899,
+      "word": "广州国庆假期首日楼市火爆",
+      "onboard_time": 1727927957,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -6251,6 +6395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 50587,
+      "num": 152320,
+      "word": "如鸢漫展现场做非遗",
+      "onboard_time": 1727928977,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 50303,
       "num": 191319,
       "word": "开山岛上的升旗仪式",
@@ -6265,6 +6417,14 @@
       "onboard_time": 1727884998,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 49425,
+      "num": 295278,
+      "word": "孙颖莎丝滑进8强",
+      "onboard_time": 1727929458,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 49276,
@@ -6852,7 +7012,7 @@
     },
     {
       "raw_hot": 25997,
-      "num": 577769,
+      "num": 682037,
       "word": "予家予国",
       "onboard_time": 1727925078,
       "rank": 2,

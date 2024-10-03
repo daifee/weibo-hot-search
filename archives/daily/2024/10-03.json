@@ -1,7 +1,15 @@
 {
   "startTime": 1727886505064,
-  "endTime": 1727926942660,
+  "endTime": 1727929648493,
   "band_list": [
+    {
+      "raw_hot": 1416588,
+      "num": 311863,
+      "word": "好利来二公子逐梦演艺圈",
+      "onboard_time": 1727928617,
+      "rank": 10,
+      "category": "剧集"
+    },
     {
       "raw_hot": 1025547,
       "num": 1164087,
@@ -25,6 +33,14 @@
       "onboard_time": 1727870601,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 848222,
+      "num": 1135715,
+      "word": "孙颖莎vs刘炜珊",
+      "onboard_time": 1727925499,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 782878,
@@ -51,20 +67,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 739698,
+      "num": 739698,
+      "word": "广深售楼部挤满了买房的人",
+      "onboard_time": 1727922437,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 670728,
-      "num": 260331,
+      "num": 304423,
       "word": "以色列又一次攻击联合国工作人员",
       "onboard_time": 1727922017,
       "rank": 14,
       "category": "国外时政"
     },
     {
-      "raw_hot": 669300,
-      "num": 669300,
-      "word": "广深售楼部挤满了买房的人",
-      "onboard_time": 1727922437,
-      "rank": 6,
-      "category": "社会新闻"
+      "raw_hot": 639876,
+      "num": 639876,
+      "word": "港股突变",
+      "onboard_time": 1727925617,
+      "rank": 35,
+      "category": "财经"
     },
     {
       "raw_hot": 608309,
@@ -108,7 +132,7 @@
     },
     {
       "raw_hot": 541452,
-      "num": 261516,
+      "num": 298973,
       "word": "多国声援联合国秘书长",
       "onboard_time": 1727922017,
       "rank": 12,
@@ -139,14 +163,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 492031,
-      "num": 492031,
-      "word": "孙颖莎vs刘炜珊",
-      "onboard_time": 1727925499,
-      "rank": 13,
-      "category": "体育"
-    },
-    {
       "raw_hot": 486675,
       "num": 251040,
       "word": "印度拒绝日本亚洲北约提议",
@@ -169,6 +185,22 @@
       "onboard_time": 1727910494,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 389145,
+      "num": 389145,
+      "word": "只此青绿演了600次场场满座",
+      "onboard_time": 1727926578,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 383982,
+      "num": 307106,
+      "word": "伊以冲突",
+      "onboard_time": 1727926457,
+      "rank": 31,
+      "category": "国外时政"
     },
     {
       "raw_hot": 376583,
@@ -195,6 +227,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 367005,
+      "num": 258163,
+      "word": "杨紫被选为巴黎时装周最佳着装",
+      "onboard_time": 1727928498,
+      "rank": 21,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 353018,
       "num": 353018,
       "word": "驻日美军附近地下水有害物超标300倍",
@@ -219,20 +259,36 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 341579,
-      "num": 212980,
-      "word": "港股突变",
-      "onboard_time": 1727925617,
-      "rank": 35,
-      "category": "财经"
-    },
-    {
       "raw_hot": 333593,
       "num": 191244,
       "word": "澳洲包邮",
       "onboard_time": 1727882599,
       "rank": 22,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 325125,
+      "num": 152308,
+      "word": "小白的心脏是两节五号电池",
+      "onboard_time": 1727928617,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 319669,
+      "num": 319669,
+      "word": "医护用一个谎言从日军手中救人",
+      "onboard_time": 1727927178,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 316701,
+      "num": 316701,
+      "word": "碧昂斯",
+      "onboard_time": 1727926758,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 311102,
@@ -291,6 +347,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 287820,
+      "num": 287820,
+      "word": "多国反对以色列禁止古特雷斯入境",
+      "onboard_time": 1727924837,
+      "rank": 44,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 284587,
       "num": 469990,
       "word": "股民连夜找回密码重启账户",
@@ -323,12 +387,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 271640,
+      "num": 257075,
+      "word": "无限暖暖",
+      "onboard_time": 1727928739,
+      "rank": 22,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 267340,
       "num": 250745,
       "word": "田曦薇方回应无牌车违规问题",
       "onboard_time": 1727869101,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 262035,
+      "num": 262035,
+      "word": "这些话是当上老师就自动会了吗",
+      "onboard_time": 1727925018,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 259026,
@@ -345,6 +425,14 @@
       "onboard_time": 1727868380,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 255921,
+      "num": 255921,
+      "word": "于东来辛巴会面",
+      "onboard_time": 1727928437,
+      "rank": 23,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 250710,
@@ -379,14 +467,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 216346,
-      "num": 186879,
-      "word": "这些话是当上老师就自动会了吗",
-      "onboard_time": 1727925018,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 211262,
       "num": 211262,
       "word": "年轻人爱上了奔县旅游",
@@ -417,6 +497,14 @@
       "onboard_time": 1727911274,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 194122,
+      "num": 194122,
+      "word": "马伯骞婚礼想让王耀庆当主婚人",
+      "onboard_time": 1727928857,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 193004,
@@ -459,12 +547,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 174052,
+      "num": 174052,
+      "word": "有年轻人结婚不收份子钱",
+      "onboard_time": 1727925499,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 172543,
       "num": 172543,
       "word": "郑钦文打到对手摔拍子",
       "onboard_time": 1727917997,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 168432,
+      "num": 168432,
+      "word": "秋月梨桂花百香果",
+      "onboard_time": 1727927719,
+      "rank": 27,
+      "category": "美食"
     },
     {
       "raw_hot": 167052,
@@ -595,20 +699,20 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 140416,
-      "num": 140416,
-      "word": "多国反对以色列禁止古特雷斯入境",
-      "onboard_time": 1727924837,
-      "rank": 44,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 138695,
       "num": 138695,
       "word": "马龙解释采访被儿子打断",
       "onboard_time": 1727911034,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 135380,
+      "num": 135380,
+      "word": "金九银十大家都在买什么车",
+      "onboard_time": 1727929577,
+      "rank": 34,
+      "category": "汽车"
     },
     {
       "raw_hot": 133238,
@@ -625,6 +729,14 @@
       "onboard_time": 1727881940,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 132054,
+      "num": 132054,
+      "word": "时代少年团演唱会官摄视频上线",
+      "onboard_time": 1727929338,
+      "rank": 36,
+      "category": "演出"
     },
     {
       "raw_hot": 131340,
@@ -675,20 +787,20 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 123611,
+      "num": 123611,
+      "word": "联合国回应秘书长被以色列拒绝入境",
+      "onboard_time": 1727927416,
+      "rank": 38,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 123472,
       "num": 123472,
       "word": "提醒我公民暂勿前往以色列",
       "onboard_time": 1727869519,
       "rank": 32,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 121896,
-      "num": 121896,
-      "word": "只此青绿演了600次场场满座",
-      "onboard_time": 1727926578,
-      "rank": 29,
-      "category": "电影"
     },
     {
       "raw_hot": 120158,
@@ -731,20 +843,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 117797,
+      "num": 117797,
+      "word": "我们的歌好友嗨唱夜阵容官宣",
+      "onboard_time": 1727929639,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 116849,
       "num": 116849,
       "word": "马龙希望两个儿子度过愉快夜晚",
       "onboard_time": 1727877680,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 114316,
-      "num": 114316,
-      "word": "伊以冲突",
-      "onboard_time": 1727926457,
-      "rank": 31,
-      "category": "国外时政"
     },
     {
       "raw_hot": 112210,
@@ -761,14 +873,6 @@
       "onboard_time": 1727881160,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 110787,
-      "num": 110787,
-      "word": "有年轻人结婚不收份子钱",
-      "onboard_time": 1727925499,
-      "rank": 45,
-      "category": "情感"
     },
     {
       "raw_hot": 109329,
@@ -793,6 +897,14 @@
       "onboard_time": 1727911695,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 107792,
+      "num": 107792,
+      "word": "赵奕欢晨艺真姐狗",
+      "onboard_time": 1727928376,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 106380,
@@ -835,6 +947,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 101640,
+      "num": 101640,
+      "word": "多国回应以色列禁止古特雷斯入境",
+      "onboard_time": 1727928917,
+      "rank": 43,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 100933,
       "num": 100933,
       "word": "中网钻石球场昨日上座率100%",
@@ -851,6 +971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 98553,
+      "num": 98553,
+      "word": "为躲避日军追捕她从窗户跳了下去",
+      "onboard_time": 1727927537,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 98403,
       "num": 98403,
       "word": "哥伦布机员2比3迈阿密国际",
@@ -859,12 +987,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 96872,
-      "num": 112599,
-      "word": "碧昂斯",
-      "onboard_time": 1727926758,
-      "rank": 34,
-      "category": "演出"
+      "raw_hot": 96188,
+      "num": 96188,
+      "word": "国庆出行顶级心态来都来了",
+      "onboard_time": 1727928018,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 90799,
@@ -1067,11 +1195,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 62308,
+      "num": 278136,
+      "word": "浴火之路怒呛江湖",
+      "onboard_time": 1727929338,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 57975,
       "num": 57975,
       "word": "让无名烈士不再无名",
       "onboard_time": 1727911875,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 57549,
+      "num": 314899,
+      "word": "广州国庆假期首日楼市火爆",
+      "onboard_time": 1727927957,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -1107,12 +1251,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 50587,
+      "num": 152320,
+      "word": "如鸢漫展现场做非遗",
+      "onboard_time": 1727928977,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 49706,
       "num": 106098,
       "word": "尊崇热爱中华文明",
       "onboard_time": 1727884998,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 49425,
+      "num": 295278,
+      "word": "孙颖莎丝滑进8强",
+      "onboard_time": 1727929458,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 49253,
@@ -1188,7 +1348,7 @@
     },
     {
       "raw_hot": 25997,
-      "num": 577769,
+      "num": 682037,
       "word": "予家予国",
       "onboard_time": 1727925078,
       "rank": 2,
