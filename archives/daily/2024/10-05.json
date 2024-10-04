@@ -1,6 +1,6 @@
 {
   "startTime": 1728059303809,
-  "endTime": 1728077726397,
+  "endTime": 1728080428481,
   "band_list": [
     {
       "raw_hot": 927616,
@@ -147,6 +147,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 148660,
+      "num": 188480,
+      "word": "郑钦文再获32.5万美元奖金",
+      "onboard_time": 1728054439,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 146078,
       "num": 244612,
       "word": "伊藤美诚说想赢孙颖莎一分都很难",
@@ -185,14 +193,6 @@
       "onboard_time": 1728056958,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 124491,
-      "num": 188480,
-      "word": "郑钦文再获32.5万美元奖金",
-      "onboard_time": 1728054439,
-      "rank": 26,
-      "category": "体育"
     },
     {
       "raw_hot": 123628,
@@ -371,6 +371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 71676,
+      "num": 71676,
+      "word": "接到儿子被抓电话30万险些送给骗子",
+      "onboard_time": 1728078371,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 68968,
       "num": 188176,
       "word": "向鹏18比20",
@@ -451,6 +459,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 49129,
+      "num": 49129,
+      "word": "这个拥抱让家国相依具象化了",
+      "onboard_time": 1728076332,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 48879,
       "num": 188125,
       "word": "TFING换头像",
@@ -507,6 +523,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 29075,
+      "num": 29075,
+      "word": "不计划不赶热闹不打卡的旅游太爽了",
+      "onboard_time": 1728080352,
+      "rank": 34,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 28743,
       "num": 155780,
       "word": "有种反向旅游叫捡秋",
@@ -529,6 +553,14 @@
       "onboard_time": 1728066493,
       "rank": 42,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 27250,
+      "num": 27250,
+      "word": "国庆人人人你人人人名场面",
+      "onboard_time": 1728075972,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 26821,
@@ -571,6 +603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 22533,
+      "num": 49243,
+      "word": "女子遇假警察电诈时真警察来了",
+      "onboard_time": 1728078731,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 22188,
       "num": 215978,
       "word": "滕王阁回应保安小哥歌舞串烧火了",
@@ -603,26 +643,10 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 18317,
-      "num": 26957,
-      "word": "国庆人人人你人人人名场面",
-      "onboard_time": 1728075972,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 18095,
       "num": 42960,
       "word": "献给所有挺起中国脊梁的人",
       "onboard_time": 1728065112,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 16507,
-      "num": 30737,
-      "word": "这个拥抱让家国相依具象化了",
-      "onboard_time": 1728076332,
       "rank": 29,
       "category": "社会新闻"
     },
