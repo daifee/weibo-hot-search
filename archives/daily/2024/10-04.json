@@ -1,6 +1,6 @@
 {
   "startTime": 1727972886536,
-  "endTime": 1728049204923,
+  "endTime": 1728051688828,
   "band_list": [
     {
       "raw_hot": 2490639,
@@ -211,6 +211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 743004,
+      "num": 743004,
+      "word": "蒯曼林诗栋混双冠军",
+      "onboard_time": 1728049340,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 739917,
       "num": 501423,
       "word": "全球富豪正逃离英国",
@@ -225,6 +233,14 @@
       "onboard_time": 1728041059,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 690585,
+      "num": 389877,
+      "word": "李兰迪 练仪态就拍古装大婚戏吧",
+      "onboard_time": 1728048259,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 678462,
@@ -289,6 +305,14 @@
       "onboard_time": 1728027079,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 585453,
+      "num": 392812,
+      "word": "伊藤美诚说想赢孙颖莎一分都很难",
+      "onboard_time": 1728047781,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 575171,
@@ -483,6 +507,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 442668,
+      "num": 567013,
+      "word": "749局细思极恐",
+      "onboard_time": 1728047539,
+      "rank": 8,
+      "category": "电影"
+    },
+    {
       "raw_hot": 432147,
       "num": 432147,
       "word": "深圳395套房源8小时售罄",
@@ -507,14 +539,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 392812,
-      "num": 392812,
-      "word": "伊藤美诚说想赢孙颖莎一分都很难",
-      "onboard_time": 1728047781,
-      "rank": 26,
-      "category": "体育"
-    },
-    {
       "raw_hot": 390806,
       "num": 390806,
       "word": "中国海警首次进北冰洋意味着什么",
@@ -529,14 +553,6 @@
       "onboard_time": 1728016337,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 389877,
-      "num": 389877,
-      "word": "李兰迪 练仪态就拍古装大婚戏吧",
-      "onboard_time": 1728048259,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 387295,
@@ -611,6 +627,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 358016,
+      "num": 290408,
+      "word": "张雨霏差点被郑钦文的球砸中",
+      "onboard_time": 1728047660,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 353377,
       "num": 353377,
       "word": "男子触电被3轮救援抢回一命",
@@ -648,14 +672,6 @@
       "word": "陈飞宇 志愿军演员第一次见就穿军装",
       "onboard_time": 1728016456,
       "rank": 18,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 332103,
-      "num": 567013,
-      "word": "749局细思极恐",
-      "onboard_time": 1728047539,
-      "rank": 8,
       "category": "电影"
     },
     {
@@ -915,6 +931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 264914,
+      "num": 264914,
+      "word": "伊朗以色列军事力量对比",
+      "onboard_time": 1728049940,
+      "rank": 22,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 262001,
       "num": 229439,
       "word": "女医生假期带娃爬山救回一条命",
@@ -1073,6 +1097,22 @@
       "onboard_time": 1728002597,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 228350,
+      "num": 228350,
+      "word": "郑钦文说穆霍娃赢萨巴伦卡出乎意料",
+      "onboard_time": 1728050659,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 228205,
+      "num": 228205,
+      "word": "黄晓明发文告别中餐厅8",
+      "onboard_time": 1728048861,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 228016,
@@ -1283,6 +1323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 196829,
+      "num": 196829,
+      "word": "GEN战胜TES",
+      "onboard_time": 1728049520,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 196622,
       "num": 215038,
       "word": "半熟男女 想给男生擦眼泪那是母爱",
@@ -1411,6 +1459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 188656,
+      "num": 283865,
+      "word": "TFING换头像",
+      "onboard_time": 1728051018,
+      "rank": 19,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 188387,
       "num": 188387,
       "word": "光遇",
@@ -1467,12 +1523,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 179956,
+      "num": 179956,
+      "word": "国乒提前包揽WTT五冠",
+      "onboard_time": 1728050480,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 176199,
       "num": 176199,
       "word": "吴谨言下班路透",
       "onboard_time": 1728045859,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 175161,
+      "num": 175161,
+      "word": "孙颖莎超强腿部力量震惊解说",
+      "onboard_time": 1728050300,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 174824,
@@ -1585,6 +1657,14 @@
       "onboard_time": 1728022338,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 164547,
+      "num": 164547,
+      "word": "中方必将采取一切措施维护中国企业利益",
+      "onboard_time": 1728051080,
+      "rank": 38,
+      "category": "国内时政"
     },
     {
       "raw_hot": 164146,
@@ -1707,6 +1787,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 150919,
+      "num": 150919,
+      "word": "国家队恭喜郑钦文",
+      "onboard_time": 1728051260,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 150011,
       "num": 322797,
       "word": "99岁院士叶铭汉逝世",
@@ -1731,6 +1819,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 147699,
+      "num": 147699,
+      "word": "故城和古城的区别",
+      "onboard_time": 1728050300,
+      "rank": 44,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 147465,
       "num": 147465,
       "word": "郑钦文连追4局扳平",
@@ -1753,14 +1849,6 @@
       "onboard_time": 1728010277,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 146727,
-      "num": 146727,
-      "word": "黄晓明发文告别中餐厅8",
-      "onboard_time": 1728048861,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 146704,
@@ -1843,11 +1931,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 140163,
+      "num": 140163,
+      "word": "花少 宋茜导游",
+      "onboard_time": 1728051199,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 139707,
       "num": 139707,
       "word": "马龙半决赛对阵梁靖崑",
       "onboard_time": 1728041360,
       "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 139021,
+      "num": 139021,
+      "word": "郑钦文追平李娜王蔷中网最佳战绩",
+      "onboard_time": 1728050842,
+      "rank": 47,
       "category": "体育"
     },
     {
@@ -1992,6 +2096,14 @@
       "word": "林高远林诗栋3比2袁励岑向鹏",
       "onboard_time": 1728022757,
       "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 132854,
+      "num": 132854,
+      "word": "林诗栋蒯曼3比1林高远王艺迪",
+      "onboard_time": 1728050300,
+      "rank": 48,
       "category": "体育"
     },
     {
@@ -2843,6 +2955,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 62033,
+      "num": 586952,
+      "word": "非遗真是凭实力圈粉",
+      "onboard_time": 1728050720,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 59855,
       "num": 59855,
       "word": "旅游睡厕所算没苦硬吃吗",
@@ -3091,6 +3211,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 28696,
+      "num": 296908,
+      "word": "从太空视角俯瞰神州大地",
+      "onboard_time": 1728051440,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 28221,
       "num": 412095,
       "word": "用几何美学打开中国",
@@ -3177,6 +3305,14 @@
       "onboard_time": 1728030317,
       "rank": 19,
       "category": "电影"
+    },
+    {
+      "raw_hot": 18656,
+      "num": 337520,
+      "word": "日记里的中国",
+      "onboard_time": 1728036080,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 17835,
@@ -3287,6 +3423,9 @@
     },
     {
       "word": "#总书记牵挂着老百姓山水间的幸福#"
+    },
+    {
+      "word": "#必须坚持人民至上#"
     }
   ]
 }
