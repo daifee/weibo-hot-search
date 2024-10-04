@@ -1,0 +1,410 @@
+{
+  "runTime": 1728026453279,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 658451,
+        "num": 1105352,
+        "word": "新疆小孩哥采访中惊出表情包",
+        "onboard_time": 1728023898,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 548385,
+        "num": 548385,
+        "word": "四川自贡真捅了龙窝了",
+        "onboard_time": 1728019577,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 7800,
+        "num": 370161,
+        "word": "这就是中国节拍",
+        "onboard_time": 1728003438,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 358821,
+        "num": 358821,
+        "word": "00后离家4000多公里到沙漠小城教书",
+        "onboard_time": 1728024022,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 304119,
+        "num": 304119,
+        "word": "马龙4比0战胜雨果",
+        "onboard_time": 1728018858,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 273833,
+        "num": 273833,
+        "word": "杭州千岛湖景区发布重要通告",
+        "onboard_time": 1728021021,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246038,
+        "num": 246038,
+        "word": "林诗栋4比0林德",
+        "onboard_time": 1728015677,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 227265,
+        "num": 227265,
+        "word": "黄继光母亲曾立家规后代都要参军",
+        "onboard_time": 1728012258,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194962,
+        "num": 194962,
+        "word": "国庆假期后半段你打算怎么过",
+        "onboard_time": 1728015019,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152426,
+        "num": 194741,
+        "word": "国庆假期第四天",
+        "onboard_time": 1728008238,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 745503,
+        "num": 193948,
+        "word": "王楚然 眼前一亮又一黑",
+        "onboard_time": 1728021918,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 689395,
+        "num": 193377,
+        "word": "女子支付空气买饮料演戏演全套",
+        "onboard_time": 1728019759,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 381473,
+        "num": 192862,
+        "word": "趵突泉保安拎罪证劝游客不要喂鱼",
+        "onboard_time": 1728019818,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 275174,
+        "num": 192290,
+        "word": "宋仲基说是周冬雨粉丝",
+        "onboard_time": 1728018376,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 249868,
+        "num": 191859,
+        "word": "女医生假期带娃爬山救回一条命",
+        "onboard_time": 1728020658,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240627,
+        "num": 190992,
+        "word": "中介劝房东不要情绪波动",
+        "onboard_time": 1728008477,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219560,
+        "num": 190345,
+        "word": "黎巴嫩首都机场附近爆炸火光一片",
+        "onboard_time": 1728024979,
+        "rank": 16,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 219556,
+        "num": 190151,
+        "word": "许昕赢了赚输了算",
+        "onboard_time": 1728021798,
+        "rank": 17,
+        "category": "综艺,体育"
+      },
+      {
+        "raw_hot": 42391,
+        "num": 189223,
+        "word": "港股飘红",
+        "onboard_time": 1728026179,
+        "rank": 18,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 219349,
+        "num": 188625,
+        "word": "谁在县城买几千万的豪宅",
+        "onboard_time": 1728012258,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1239089,
+        "num": 188370,
+        "word": "一家人患病查出血液中老鼠药成分高",
+        "onboard_time": 1728019398,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226388,
+        "num": 187936,
+        "word": "猫的意思是这是她的床",
+        "onboard_time": 1728022757,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 202565,
+        "num": 186898,
+        "word": "朋友圈已经失去活人感了",
+        "onboard_time": 1727999537,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 200529,
+        "num": 186656,
+        "word": "国庆假期趵突泉胖锦鲤撑死好几条",
+        "onboard_time": 1728017838,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186281,
+        "num": 186281,
+        "word": "官方回应停车7小时被收费217.5元",
+        "onboard_time": 1728008238,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 57818,
+        "num": 178345,
+        "word": "周奇墨 聚乙烯五子",
+        "onboard_time": 1728025338,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174117,
+        "num": 174117,
+        "word": "三清山游客冷风中排队齐喊退票",
+        "onboard_time": 1728025219,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 56298,
+        "num": 173738,
+        "word": "时光音乐会",
+        "onboard_time": 1728012018,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 55943,
+        "num": 172453,
+        "word": "买房者称购房压力减轻信心回增",
+        "onboard_time": 1728026418,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50067,
+        "num": 170512,
+        "word": "约翰逊曝内塔尼亚胡或亲自装窃听器",
+        "onboard_time": 1728025577,
+        "rank": 29,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 57301,
+        "num": 169515,
+        "word": "国庆假期最受瞩目的小孩出现了",
+        "onboard_time": 1728026297,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46735,
+        "num": 168252,
+        "word": "烈士墓前一声声稚嫩的谢谢让人动容",
+        "onboard_time": 1728022579,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166789,
+        "num": 166789,
+        "word": "女司机高速上开40码被交警拦下",
+        "onboard_time": 1728019398,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150523,
+        "num": 150523,
+        "word": "为什么坐油车不晕一坐电车就晕",
+        "onboard_time": 1728019038,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147098,
+        "num": 147098,
+        "word": "749局票房破3亿",
+        "onboard_time": 1728018737,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 146105,
+        "num": 146105,
+        "word": "黎巴嫩机场附近爆炸前还有飞机滑行",
+        "onboard_time": 1728025518,
+        "rank": 35,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 138020,
+        "num": 138020,
+        "word": "王楚钦场上很拽解释时很温柔",
+        "onboard_time": 1728019159,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131907,
+        "num": 131907,
+        "word": "赵丽颖这个逆光镜头",
+        "onboard_time": 1728021137,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 124483,
+        "num": 124483,
+        "word": "大学生在宿舍开化妆工作室生意火爆",
+        "onboard_time": 1728019818,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118553,
+        "num": 118553,
+        "word": "双轨",
+        "onboard_time": 1728024318,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114723,
+        "num": 114723,
+        "word": "哑舍十二卷卷卷有爷名",
+        "onboard_time": 1728025097,
+        "rank": 40,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 113460,
+        "num": 113460,
+        "word": "披荆斩棘 选人环节",
+        "onboard_time": 1728026237,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107618,
+        "num": 107618,
+        "word": "虞书欣古装簪花",
+        "onboard_time": 1728015559,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16535,
+        "num": 105329,
+        "word": "汪苏泷合肥蹦蹦跳",
+        "onboard_time": 1728024917,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 104415,
+        "num": 104415,
+        "word": "猎罪图鉴4地狱营救",
+        "onboard_time": 1728018620,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102794,
+        "num": 102794,
+        "word": "韩漫动起来之后好超前",
+        "onboard_time": 1728022877,
+        "rank": 45,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 102579,
+        "num": 102579,
+        "word": "女子取消预订酒店被扣1000多元",
+        "onboard_time": 1728015619,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100418,
+        "num": 100418,
+        "word": "王楚钦梁靖崑进男双决赛",
+        "onboard_time": 1728013578,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 99728,
+        "num": 99728,
+        "word": "孙颖莎飞身暴挑",
+        "onboard_time": 1728018559,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 97194,
+        "num": 97194,
+        "word": "王曼昱陈幸同女单4强",
+        "onboard_time": 1728021618,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#一首MV见证新中国75年变迁#"
+    }
+  }
+}
