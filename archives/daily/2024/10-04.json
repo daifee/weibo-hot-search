@@ -1,6 +1,6 @@
 {
   "startTime": 1727972886536,
-  "endTime": 1728031345073,
+  "endTime": 1728033814505,
   "band_list": [
     {
       "raw_hot": 2490639,
@@ -145,6 +145,14 @@
       "onboard_time": 1728027079,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 576500,
+      "num": 1092240,
+      "word": "外地人打飞的赴深圳买房",
+      "onboard_time": 1728029179,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 571095,
@@ -331,6 +339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 383043,
+      "num": 383043,
+      "word": "张雨霏为郑钦文挑边",
+      "onboard_time": 1728029718,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 367136,
       "num": 234691,
       "word": "周冬雨宋仲基破次元同框",
@@ -361,14 +377,6 @@
       "onboard_time": 1727997795,
       "rank": 20,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 355869,
-      "num": 355869,
-      "word": "张雨霏为郑钦文挑边",
-      "onboard_time": 1728029718,
-      "rank": 26,
-      "category": "体育"
     },
     {
       "raw_hot": 351227,
@@ -523,6 +531,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 280286,
+      "num": 176911,
+      "word": "王菊新剧分手这段哭死",
+      "onboard_time": 1728032058,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 279598,
       "num": 279598,
       "word": "林诗栋这一球请全场起立",
@@ -593,14 +609,6 @@
       "onboard_time": 1727970080,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 262467,
-      "num": 262467,
-      "word": "外地人打飞的赴深圳买房",
-      "onboard_time": 1728029179,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 262001,
@@ -851,6 +859,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 195397,
+      "num": 156891,
+      "word": "肖凯文孙颖莎击掌",
+      "onboard_time": 1728033378,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 194962,
       "num": 315707,
       "word": "国庆假期后半段你打算怎么过",
@@ -883,12 +899,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 186759,
+      "num": 176029,
+      "word": "何炅一句话把李斯丹妮拉回快女时代",
+      "onboard_time": 1728029538,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 183514,
       "num": 162993,
       "word": "贵州织金发生山体垮塌6人死亡",
       "onboard_time": 1727971159,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 181561,
+      "num": 175360,
+      "word": "芯片股爆发",
+      "onboard_time": 1728032298,
+      "rank": 18,
+      "category": "财经"
     },
     {
       "raw_hot": 180226,
@@ -904,6 +936,14 @@
       "word": "女司机高速上开40码被交警拦下",
       "onboard_time": 1728019398,
       "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 179811,
+      "num": 179811,
+      "word": "数学家初中抢交卷结果只考了18分",
+      "onboard_time": 1728033018,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -971,14 +1011,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 165079,
-      "num": 165079,
-      "word": "何炅一句话把李斯丹妮拉回快女时代",
-      "onboard_time": 1728029538,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 164898,
       "num": 164898,
       "word": "男孩登上父亲牺牲时驾驶的同款直升机",
@@ -1019,6 +1051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 161285,
+      "num": 161285,
+      "word": "半熟男女 姐狗文学",
+      "onboard_time": 1728031640,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 158809,
       "num": 158809,
       "word": "祖国永远在我心上",
@@ -1033,6 +1073,14 @@
       "onboard_time": 1727950759,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 158237,
+      "num": 158237,
+      "word": "杨鸣骂人用脸消音",
+      "onboard_time": 1728033198,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 154590,
@@ -1088,6 +1136,14 @@
       "word": "Bin想成为Faker接班人",
       "onboard_time": 1728026837,
       "rank": 39,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 143653,
+      "num": 143653,
+      "word": "小钰cos泽丽",
+      "onboard_time": 1728033198,
+      "rank": 32,
       "category": "电竞"
     },
     {
@@ -1395,6 +1451,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 117725,
+      "num": 174801,
+      "word": "王晨艺呼吁大家用领养代替购买",
+      "onboard_time": 1728032837,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 117527,
       "num": 160448,
       "word": "90岁抗美援朝女战士敬礼时眼中有光",
@@ -1449,6 +1513,14 @@
       "onboard_time": 1728028159,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 112314,
+      "num": 112314,
+      "word": "恒生指数刷新两年半新高",
+      "onboard_time": 1728033138,
+      "rank": 41,
+      "category": "财经"
     },
     {
       "raw_hot": 110948,
@@ -1611,12 +1683,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 96168,
+      "num": 180261,
+      "word": "被外国游客反向种草国内游了",
+      "onboard_time": 1728032418,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 95583,
       "num": 95583,
       "word": "世界动物日",
       "onboard_time": 1728010038,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 95460,
+      "num": 95460,
+      "word": "庆怜是哥哥们的玩具吗",
+      "onboard_time": 1728033798,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 93846,
@@ -1633,6 +1721,14 @@
       "onboard_time": 1728000077,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 90769,
+      "num": 90769,
+      "word": "炉石传说游戏服务正在好转中",
+      "onboard_time": 1728033678,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 88033,
@@ -1923,6 +2019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 54617,
+      "num": 177616,
+      "word": "为什么天一冷就想赖床",
+      "onboard_time": 1728032779,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 54534,
       "num": 79257,
       "word": "B费连续两场红牌",
@@ -2163,6 +2267,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 20803,
+      "num": 383418,
+      "word": "探寻发展密码",
+      "onboard_time": 1728031278,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 17835,
       "num": 84435,
       "word": "红军长征时留下布满弹孔的旗帜",
@@ -2235,12 +2347,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 6024,
-      "num": 383418,
-      "word": "探寻发展密码",
-      "onboard_time": 1728031278,
-      "rank": 2,
-      "category": "社会新闻"
+      "raw_hot": 5799,
+      "num": 156891,
+      "word": "恒生指数两年半新高",
+      "onboard_time": 1728033798,
+      "rank": 29,
+      "category": "财经"
     },
     {
       "raw_hot": 5431,
