@@ -1,0 +1,410 @@
+{
+  "runTime": 1728015991591,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 992227,
+        "num": 1158756,
+        "word": "王楚钦梁靖崑进男双决赛",
+        "onboard_time": 1728013578,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 854690,
+        "num": 854690,
+        "word": "黄继光母亲曾立家规后代都要参军",
+        "onboard_time": 1728012258,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27520,
+        "num": 666867,
+        "word": "这就是中国节拍",
+        "onboard_time": 1728003438,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 492168,
+        "num": 492168,
+        "word": "哑舍动画",
+        "onboard_time": 1728012018,
+        "rank": 3,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 384500,
+        "num": 384500,
+        "word": "孙颖莎王艺迪3比0郑怡静李昱谆",
+        "onboard_time": 1728013039,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 319833,
+        "num": 319833,
+        "word": "这个中国女团太美太飒",
+        "onboard_time": 1728010396,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204487,
+        "num": 319322,
+        "word": "时光音乐会",
+        "onboard_time": 1728012018,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109294,
+        "num": 317217,
+        "word": "只此青绿",
+        "onboard_time": 1728012137,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 100400,
+        "num": 313654,
+        "word": "被东北的秋色美到了",
+        "onboard_time": 1728012556,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46677,
+        "num": 310508,
+        "word": "金闪闪的大熊猫和金秋十月匹配上了",
+        "onboard_time": 1728014358,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 957543,
+        "num": 309361,
+        "word": "谁在县城买几千万的豪宅",
+        "onboard_time": 1728012258,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 941699,
+        "num": 305884,
+        "word": "中介劝房东不要情绪波动",
+        "onboard_time": 1728008477,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 526100,
+        "num": 304012,
+        "word": "赵丽颖刘烨听徐冬冬说英语的反应",
+        "onboard_time": 1728012918,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 483795,
+        "num": 302340,
+        "word": "官方回应停车7小时被收费217.5元",
+        "onboard_time": 1728008238,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 300495,
+        "num": 300495,
+        "word": "林诗栋4比0林德",
+        "onboard_time": 1728015677,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 296256,
+        "num": 296256,
+        "word": "秦彻抽卡",
+        "onboard_time": 1728014719,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 41909,
+        "num": 291227,
+        "word": "归龙潮烛T0级烫门",
+        "onboard_time": 1728014657,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 142086,
+        "num": 290718,
+        "word": "浴火之路无锡路演",
+        "onboard_time": 1728015258,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 290322,
+        "num": 290322,
+        "word": "黎巴嫩撤侨亲历者称非常感谢祖国",
+        "onboard_time": 1728013338,
+        "rank": 18,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 54449,
+        "num": 281395,
+        "word": "山东小伙砖厂说三国演义走红",
+        "onboard_time": 1728015977,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27352,
+        "num": 281265,
+        "word": "在乐见潮向快乐具象化",
+        "onboard_time": 1728012738,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 419869,
+        "num": 281263,
+        "word": "朋友圈已经失去活人感了",
+        "onboard_time": 1727999537,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 281253,
+        "num": 281253,
+        "word": "马龙呼吁网友别过分吹捧",
+        "onboard_time": 1728003318,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 280739,
+        "num": 280739,
+        "word": "国庆档两部影片撤档",
+        "onboard_time": 1728010818,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 387295,
+        "num": 275429,
+        "word": "我爷爷网购了一把锄头",
+        "onboard_time": 1728013039,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 301385,
+        "num": 274619,
+        "word": "内娱女鹅也到了演初恋的年纪",
+        "onboard_time": 1728012677,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 268993,
+        "num": 268993,
+        "word": "孙颖莎发球多次被闪光灯和喊声干扰",
+        "onboard_time": 1728012438,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 240912,
+        "num": 240912,
+        "word": "在黎滞留11天华人绝望中等到了中国轮船",
+        "onboard_time": 1728001937,
+        "rank": 27,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 226734,
+        "num": 226734,
+        "word": "国庆假期第四天",
+        "onboard_time": 1728008238,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 13170,
+        "num": 224264,
+        "word": "用不一样的视角看中国",
+        "onboard_time": 1728014778,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221959,
+        "num": 221959,
+        "word": "为什么我们越休息越累",
+        "onboard_time": 1728012378,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218586,
+        "num": 218586,
+        "word": "LNG空签",
+        "onboard_time": 1728006858,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 171207,
+        "num": 171207,
+        "word": "王一博给自己做了顿难吃的饭",
+        "onboard_time": 1728009317,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164146,
+        "num": 164146,
+        "word": "孙颖莎再次呼吁观众慎用闪光灯",
+        "onboard_time": 1728015977,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125964,
+        "num": 161641,
+        "word": "赵丽颖主演电影票房破50亿",
+        "onboard_time": 1728006559,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 160528,
+        "num": 160528,
+        "word": "虞书欣古装簪花",
+        "onboard_time": 1728015559,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158248,
+        "num": 158248,
+        "word": "上海有二手房涨价百万",
+        "onboard_time": 1728008718,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143937,
+        "num": 143937,
+        "word": "方志敏烈士女儿方梅逝世",
+        "onboard_time": 1728010277,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140940,
+        "num": 140940,
+        "word": "乌方讨论用土地换入约",
+        "onboard_time": 1728003497,
+        "rank": 38,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 134935,
+        "num": 134935,
+        "word": "国乒锁定中国大满贯男双冠亚军",
+        "onboard_time": 1728015077,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129082,
+        "num": 129082,
+        "word": "孙颖莎王艺迪女双进决赛",
+        "onboard_time": 1728014299,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126968,
+        "num": 126968,
+        "word": "女子取消预订酒店被扣1000多元",
+        "onboard_time": 1728015619,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117572,
+        "num": 117572,
+        "word": "没想到一句话让我妈认可男朋友",
+        "onboard_time": 1728007397,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 110342,
+        "num": 110342,
+        "word": "第五人格",
+        "onboard_time": 1728007397,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 109728,
+        "num": 109728,
+        "word": "中医建议入秋穿袜子睡觉",
+        "onboard_time": 1728000137,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 109496,
+        "num": 109496,
+        "word": "猫咪学主人睡觉姿势",
+        "onboard_time": 1728008537,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 107752,
+        "num": 107752,
+        "word": "王楚钦梁靖崑战胜法国组合",
+        "onboard_time": 1728013758,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 106116,
+        "num": 106116,
+        "word": "文豪野犬",
+        "onboard_time": 1728014957,
+        "rank": 47,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 103355,
+        "num": 103355,
+        "word": "周冬雨宋仲基破次元同框",
+        "onboard_time": 1727997676,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 92650,
+        "num": 103255,
+        "word": "国庆假期后半段你打算怎么过",
+        "onboard_time": 1728015019,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#一首MV见证新中国75年变迁#"
+    }
+  }
+}
