@@ -1,6 +1,6 @@
 {
   "startTime": 1728059303809,
-  "endTime": 1728063458691,
+  "endTime": 1728066578914,
   "band_list": [
     {
       "raw_hot": 927616,
@@ -403,6 +403,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 61002,
+      "num": 45460,
+      "word": "周震南晚安大小姐",
+      "onboard_time": 1728064693,
+      "rank": 21,
+      "category": "演出"
+    },
+    {
       "raw_hot": 60387,
       "num": 188563,
       "word": "75秒看新中国75年家电之变",
@@ -491,19 +499,19 @@
       "category": "演出"
     },
     {
+      "raw_hot": 28743,
+      "num": 155780,
+      "word": "有种反向旅游叫捡秋",
+      "onboard_time": 1728062654,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 28296,
       "num": 150622,
       "word": "自驾川西遇大量落石众人自发清理",
       "onboard_time": 1728059957,
       "rank": 36,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 27772,
-      "num": 155780,
-      "word": "有种反向旅游叫捡秋",
-      "onboard_time": 1728062654,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -528,6 +536,30 @@
       "word": "滕王阁回应保安小哥歌舞串烧火了",
       "onboard_time": 1728061336,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 19660,
+      "num": 45670,
+      "word": "底气来自强大的祖国",
+      "onboard_time": 1728064873,
+      "rank": 15,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 18095,
+      "num": 41306,
+      "word": "献给所有挺起中国脊梁的人",
+      "onboard_time": 1728065112,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 12275,
+      "num": 121596,
+      "word": "国庆入境游增速将超过出境游",
+      "onboard_time": 1728049940,
+      "rank": 2,
       "category": "社会新闻"
     }
   ],
