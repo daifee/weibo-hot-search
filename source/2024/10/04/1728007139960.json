@@ -1,0 +1,410 @@
+{
+  "runTime": 1728007139960,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1167523,
+        "num": 1186803,
+        "word": "在黎滞留11天华人绝望中等到了中国轮船",
+        "onboard_time": 1728001937,
+        "rank": 0,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 571095,
+        "num": 571095,
+        "word": "69名中国公民40小时撤出黎巴嫩全记录",
+        "onboard_time": 1728003078,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 5451,
+        "num": 471054,
+        "word": "大型纪录片为了新中国",
+        "onboard_time": 1727962460,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 390806,
+        "num": 390806,
+        "word": "中国海警首次进北冰洋意味着什么",
+        "onboard_time": 1728003318,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 285968,
+        "num": 285968,
+        "word": "北京中轴线的中是中国的中",
+        "onboard_time": 1728004217,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 282601,
+        "num": 282601,
+        "word": "中国的几何美学惊艳了",
+        "onboard_time": 1728000797,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280152,
+        "num": 280152,
+        "word": "长沙坡子街派出所成热门打卡地",
+        "onboard_time": 1727975895,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178871,
+        "num": 178871,
+        "word": "这不是特效是中国非遗表演",
+        "onboard_time": 1727967860,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163556,
+        "num": 163556,
+        "word": "年轻人错峰游整顿黄金周",
+        "onboard_time": 1728003497,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150998,
+        "num": 150998,
+        "word": "祖国永远在我心上",
+        "onboard_time": 1728005117,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 456873,
+        "num": 150998,
+        "word": "乌方讨论用土地换入约",
+        "onboard_time": 1728003497,
+        "rank": 10,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 444523,
+        "num": 150914,
+        "word": "中方警告一场全面战争一触即发",
+        "onboard_time": 1727946619,
+        "rank": 11,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 365163,
+        "num": 150893,
+        "word": "周冬雨宋仲基破次元同框",
+        "onboard_time": 1727997676,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 232004,
+        "num": 150840,
+        "word": "日本新外相回应石破茂内阁亲中亲韩",
+        "onboard_time": 1727999055,
+        "rank": 13,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 150812,
+        "num": 150812,
+        "word": "中国海警现身阿拉斯加附近打乱美国布局",
+        "onboard_time": 1727963000,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 204837,
+        "num": 150597,
+        "word": "以军对黎巴嫩首都连发11次袭击",
+        "onboard_time": 1727999537,
+        "rank": 15,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 196030,
+        "num": 150297,
+        "word": "堵车演唱会开在了音效最好的地方",
+        "onboard_time": 1727969000,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184462,
+        "num": 149940,
+        "word": "王一博 石猴出世",
+        "onboard_time": 1727971339,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164628,
+        "num": 149524,
+        "word": "夫妻在广州看房不到3小时下定金",
+        "onboard_time": 1727967139,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151162,
+        "num": 149306,
+        "word": "江慈为卫昭留下一子",
+        "onboard_time": 1727968579,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 637442,
+        "num": 148953,
+        "word": "朋友圈已经失去活人感了",
+        "onboard_time": 1727999537,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 276920,
+        "num": 148561,
+        "word": "马龙呼吁网友别过分吹捧",
+        "onboard_time": 1728003318,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 228379,
+        "num": 148260,
+        "word": "一些暧昧时期的聊天记录",
+        "onboard_time": 1728002597,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 176255,
+        "num": 147893,
+        "word": "中医建议入秋穿袜子睡觉",
+        "onboard_time": 1728000137,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 147855,
+        "num": 147855,
+        "word": "S14瑞士轮抽签",
+        "onboard_time": 1727998216,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 150264,
+        "num": 147765,
+        "word": "赵丽颖主演电影票房破50亿",
+        "onboard_time": 1728006559,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 142952,
+        "num": 142952,
+        "word": "国庆堵在隧道众人下车大合唱",
+        "onboard_time": 1727972299,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140864,
+        "num": 140864,
+        "word": "出入平安撤档",
+        "onboard_time": 1727962400,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 138378,
+        "num": 138378,
+        "word": "睡觉需要主人抱着的小狗",
+        "onboard_time": 1728001038,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 136838,
+        "num": 136838,
+        "word": "幼童车祸后做CT发现1年前磁力珠",
+        "onboard_time": 1727964981,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173202,
+        "num": 136755,
+        "word": "LNG空签",
+        "onboard_time": 1728006858,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 135639,
+        "num": 135639,
+        "word": "退伍军人跳海救人未果大喊我尽力了",
+        "onboard_time": 1727994552,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133820,
+        "num": 133820,
+        "word": "马龙回应是否让儿子打乒乓球",
+        "onboard_time": 1727962219,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133766,
+        "num": 133766,
+        "word": "TES签运",
+        "onboard_time": 1728005657,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 126478,
+        "num": 126478,
+        "word": "假期去冰岛旅游的人已经后悔了",
+        "onboard_time": 1727965460,
+        "rank": 34,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 122231,
+        "num": 122231,
+        "word": "周深巡回演唱会",
+        "onboard_time": 1728005778,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 112556,
+        "num": 112556,
+        "word": "大陆女生勇闯台湾娱乐圈",
+        "onboard_time": 1727970080,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107911,
+        "num": 107911,
+        "word": "潘玮柏二刷的杭州面馆1天卖千碗",
+        "onboard_time": 1727986510,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92100,
+        "num": 92100,
+        "word": "给老人设计的拐杖却被年轻人买爆",
+        "onboard_time": 1727950759,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 88033,
+        "num": 88033,
+        "word": "分手后爸爸给我写了一封信",
+        "onboard_time": 1728000678,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 87421,
+        "num": 87421,
+        "word": "代驾版的提灯定损",
+        "onboard_time": 1728005057,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 86736,
+        "num": 86736,
+        "word": "登陆少年的首次公开演出行程",
+        "onboard_time": 1728006737,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 86219,
+        "num": 86219,
+        "word": "这就是中国节拍",
+        "onboard_time": 1728003438,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 85083,
+        "num": 85083,
+        "word": "广州一中介门店1天卖出5套二手房",
+        "onboard_time": 1728003078,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 81649,
+        "num": 81649,
+        "word": "俄扣押美国两家银行数亿美元资金",
+        "onboard_time": 1727970738,
+        "rank": 44,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 81255,
+        "num": 81255,
+        "word": "黎巴嫩遭以色列空袭超15万人逃离",
+        "onboard_time": 1727984952,
+        "rank": 45,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 77056,
+        "num": 77056,
+        "word": "文化中国行感受律动节拍",
+        "onboard_time": 1728005117,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 74414,
+        "num": 74414,
+        "word": "如何一眼区分新女婿和老女婿",
+        "onboard_time": 1728000077,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 54534,
+        "num": 74274,
+        "word": "B费连续两场红牌",
+        "onboard_time": 1728003257,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 45360,
+        "num": 74139,
+        "word": "辽宁男篮战胜山东男篮",
+        "onboard_time": 1728006797,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平说给老百姓花钱不要抠抠搜搜#"
+    }
+  }
+}

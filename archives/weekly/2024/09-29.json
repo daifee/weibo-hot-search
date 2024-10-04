@@ -1,6 +1,6 @@
 {
   "startTime": 1727540758074,
-  "endTime": 1728006110786,
+  "endTime": 1728007139960,
   "band_list": [
     {
       "raw_hot": 11925969,
@@ -1859,6 +1859,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 571095,
+      "num": 571095,
+      "word": "69名中国公民40小时撤出黎巴嫩全记录",
+      "onboard_time": 1728003078,
+      "rank": 1,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 569018,
       "num": 245276,
       "word": "男子嫌小孩推车进电梯慢将车扔出",
@@ -2323,14 +2331,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 494144,
-      "num": 494144,
-      "word": "69名中国公民40小时撤出黎巴嫩全记录",
-      "onboard_time": 1728003078,
-      "rank": 1,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 493670,
       "num": 901337,
       "word": "孙颖莎王艺迪vs杜凯琹刘杨子",
@@ -2489,6 +2489,14 @@
       "onboard_time": 1727930478,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 456873,
+      "num": 184596,
+      "word": "乌方讨论用土地换入约",
+      "onboard_time": 1728003497,
+      "rank": 12,
+      "category": "国外时政"
     },
     {
       "raw_hot": 456825,
@@ -3019,6 +3027,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 390806,
+      "num": 390806,
+      "word": "中国海警首次进北冰洋意味着什么",
+      "onboard_time": 1728003318,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 389926,
       "num": 389926,
       "word": "比亚迪召回近10万台电车",
@@ -3457,14 +3473,6 @@
       "onboard_time": 1727621900,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 343947,
-      "num": 184596,
-      "word": "乌方讨论用土地换入约",
-      "onboard_time": 1728003497,
-      "rank": 12,
-      "category": "国外时政"
     },
     {
       "raw_hot": 342733,
@@ -4251,6 +4259,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 285968,
+      "num": 285968,
+      "word": "北京中轴线的中是中国的中",
+      "onboard_time": 1728004217,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 285650,
       "num": 285650,
       "word": "全红婵陈艺文一起去提车",
@@ -4427,6 +4443,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 276920,
+      "num": 157314,
+      "word": "马龙呼吁网友别过分吹捧",
+      "onboard_time": 1728003318,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 276668,
       "num": 276668,
       "word": "机场员工泄露外籍模特照片已被开除",
@@ -4569,14 +4593,6 @@
       "onboard_time": 1727707461,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 269845,
-      "num": 269845,
-      "word": "中国海警首次进北冰洋意味着什么",
-      "onboard_time": 1728003318,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 269474,
@@ -4936,14 +4952,6 @@
       "word": "梁靖崑问Goat是啥",
       "onboard_time": 1727675840,
       "rank": 20,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 247734,
-      "num": 157314,
-      "word": "马龙呼吁网友别过分吹捧",
-      "onboard_time": 1728003318,
-      "rank": 21,
       "category": "体育"
     },
     {
@@ -5443,6 +5451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 228379,
+      "num": 155595,
+      "word": "一些暧昧时期的聊天记录",
+      "onboard_time": 1728002597,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 228060,
       "num": 256928,
       "word": "12306没有任何额外收费",
@@ -5777,14 +5793,6 @@
       "onboard_time": 1727845637,
       "rank": 30,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 214604,
-      "num": 155595,
-      "word": "一些暧昧时期的聊天记录",
-      "onboard_time": 1728002597,
-      "rank": 23,
-      "category": "情感"
     },
     {
       "raw_hot": 214541,
@@ -6523,6 +6531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 196030,
+      "num": 181087,
+      "word": "堵车演唱会开在了音效最好的地方",
+      "onboard_time": 1727969000,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 195964,
       "num": 325934,
       "word": "出入平安",
@@ -6825,14 +6841,6 @@
       "onboard_time": 1727589020,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 191754,
-      "num": 181087,
-      "word": "堵车演唱会开在了音效最好的地方",
-      "onboard_time": 1727969000,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 191727,
@@ -7795,6 +7803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 173202,
+      "num": 136755,
+      "word": "LNG空签",
+      "onboard_time": 1728006858,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 173062,
       "num": 449673,
       "word": "孙颖莎王艺迪3比0杜凯琹刘杨子",
@@ -8299,6 +8315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 163556,
+      "num": 163556,
+      "word": "年轻人错峰游整顿黄金周",
+      "onboard_time": 1728003497,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 163547,
       "num": 163547,
       "word": "第一批游客已经在长沙玩一圈了",
@@ -8739,14 +8763,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 156418,
-      "num": 187304,
-      "word": "北京中轴线的中是中国的中",
-      "onboard_time": 1728004217,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 156320,
       "num": 156320,
       "word": "赵子山李红樱 好嗑",
@@ -9049,6 +9065,14 @@
       "onboard_time": 1727830938,
       "rank": 46,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 150264,
+      "num": 147765,
+      "word": "赵丽颖主演电影票房破50亿",
+      "onboard_time": 1728006559,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 150062,
@@ -9795,6 +9819,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 138378,
+      "num": 138378,
+      "word": "睡觉需要主人抱着的小狗",
+      "onboard_time": 1728001038,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 138362,
       "num": 138362,
       "word": "中信建投证券崩了",
@@ -10145,6 +10177,14 @@
       "onboard_time": 1727622260,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 133766,
+      "num": 133766,
+      "word": "TES签运",
+      "onboard_time": 1728005657,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 133724,
@@ -10683,14 +10723,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 127769,
-      "num": 127769,
-      "word": "年轻人错峰游整顿黄金周",
-      "onboard_time": 1728003497,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 127683,
       "num": 127683,
       "word": "碧蓝之海第二季",
@@ -11097,6 +11129,14 @@
       "onboard_time": 1727696179,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 122231,
+      "num": 122231,
+      "word": "周深巡回演唱会",
+      "onboard_time": 1728005778,
+      "rank": 39,
+      "category": "演出"
     },
     {
       "raw_hot": 122142,
@@ -11625,14 +11665,6 @@
       "onboard_time": 1727865139,
       "rank": 39,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 116358,
-      "num": 116358,
-      "word": "睡觉需要主人抱着的小狗",
-      "onboard_time": 1728001038,
-      "rank": 34,
-      "category": "情感"
     },
     {
       "raw_hot": 116345,
@@ -12851,14 +12883,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 99229,
-      "num": 99229,
-      "word": "周深巡回演唱会",
-      "onboard_time": 1728005778,
-      "rank": 39,
-      "category": "演出"
-    },
-    {
       "raw_hot": 99038,
       "num": 99038,
       "word": "学走路的熊猫宝宝一不小心就翻车",
@@ -13331,12 +13355,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 88033,
+      "num": 88033,
+      "word": "分手后爸爸给我写了一封信",
+      "onboard_time": 1728000678,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 87481,
       "num": 87481,
       "word": "他立下军令状为国研制预警机",
       "onboard_time": 1728002117,
       "rank": 42,
       "category": "社会新闻,国内时政"
+    },
+    {
+      "raw_hot": 87421,
+      "num": 87421,
+      "word": "代驾版的提灯定损",
+      "onboard_time": 1728005057,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 87346,
@@ -13385,6 +13425,14 @@
       "onboard_time": 1727868380,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 86736,
+      "num": 86736,
+      "word": "登陆少年的首次公开演出行程",
+      "onboard_time": 1728006737,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 86501,
@@ -13579,22 +13627,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 81884,
-      "num": 81884,
-      "word": "代驾版的提灯定损",
-      "onboard_time": 1728005057,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 81882,
-      "num": 81882,
-      "word": "TES签运",
-      "onboard_time": 1728005657,
-      "rank": 46,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 81794,
       "num": 188323,
       "word": "9图速览全国长假第1天",
@@ -13761,6 +13793,14 @@
       "onboard_time": 1727528600,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 77056,
+      "num": 77056,
+      "word": "文化中国行感受律动节拍",
+      "onboard_time": 1728005117,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 76978,
@@ -14627,6 +14667,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 54534,
+      "num": 79257,
+      "word": "B费连续两场红牌",
+      "onboard_time": 1728003257,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 53718,
       "num": 464043,
       "word": "9位侗族姑娘给法国人亿点震撼",
@@ -14721,14 +14769,6 @@
       "onboard_time": 1727676981,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 50360,
-      "num": 79257,
-      "word": "B费连续两场红牌",
-      "onboard_time": 1728003257,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 50323,
@@ -14929,6 +14969,14 @@
       "onboard_time": 1727767879,
       "rank": 19,
       "category": "电影"
+    },
+    {
+      "raw_hot": 45360,
+      "num": 74139,
+      "word": "辽宁男篮战胜山东男篮",
+      "onboard_time": 1728006797,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 45341,
@@ -15724,7 +15772,7 @@
     },
     {
       "raw_hot": 29817,
-      "num": 390787,
+      "num": 471054,
       "word": "大型纪录片为了新中国",
       "onboard_time": 1727962460,
       "rank": 10,

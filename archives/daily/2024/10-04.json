@@ -1,6 +1,6 @@
 {
   "startTime": 1727972886536,
-  "endTime": 1728006110786,
+  "endTime": 1728007139960,
   "band_list": [
     {
       "raw_hot": 1243100,
@@ -27,20 +27,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 571095,
+      "num": 571095,
+      "word": "69名中国公民40小时撤出黎巴嫩全记录",
+      "onboard_time": 1728003078,
+      "rank": 1,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 550802,
       "num": 166348,
       "word": "夫妻在广州看房不到3小时下定金",
       "onboard_time": 1727967139,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 494144,
-      "num": 494144,
-      "word": "69名中国公民40小时撤出黎巴嫩全记录",
-      "onboard_time": 1728003078,
-      "rank": 1,
-      "category": "国内时政"
     },
     {
       "raw_hot": 460288,
@@ -51,12 +51,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 456873,
+      "num": 184596,
+      "word": "乌方讨论用土地换入约",
+      "onboard_time": 1728003497,
+      "rank": 12,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 394582,
       "num": 119908,
       "word": "黎巴嫩遭以色列空袭超15万人逃离",
       "onboard_time": 1727984952,
       "rank": 16,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 390806,
+      "num": 390806,
+      "word": "中国海警首次进北冰洋意味着什么",
+      "onboard_time": 1728003318,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 367136,
@@ -91,14 +107,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 343947,
-      "num": 184596,
-      "word": "乌方讨论用土地换入约",
-      "onboard_time": 1728003497,
-      "rank": 12,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 334445,
       "num": 726118,
       "word": "这不是特效是中国非遗表演",
@@ -131,6 +139,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 285968,
+      "num": 285968,
+      "word": "北京中轴线的中是中国的中",
+      "onboard_time": 1728004217,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 283260,
       "num": 181885,
       "word": "王一博 石猴出世",
@@ -155,20 +171,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 276920,
+      "num": 157314,
+      "word": "马龙呼吁网友别过分吹捧",
+      "onboard_time": 1728003318,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 272061,
       "num": 164685,
       "word": "江慈为卫昭留下一子",
       "onboard_time": 1727968579,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 269845,
-      "num": 269845,
-      "word": "中国海警首次进北冰洋意味着什么",
-      "onboard_time": 1728003318,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 267175,
@@ -187,14 +203,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 247734,
-      "num": 157314,
-      "word": "马龙呼吁网友别过分吹捧",
-      "onboard_time": 1728003318,
-      "rank": 21,
-      "category": "体育"
-    },
-    {
       "raw_hot": 245061,
       "num": 740003,
       "word": "俄扣押美国两家银行数亿美元资金",
@@ -211,20 +219,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 228379,
+      "num": 155595,
+      "word": "一些暧昧时期的聊天记录",
+      "onboard_time": 1728002597,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 218440,
       "num": 156872,
       "word": "中医建议入秋穿袜子睡觉",
       "onboard_time": 1728000137,
       "rank": 22,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 214604,
-      "num": 155595,
-      "word": "一些暧昧时期的聊天记录",
-      "onboard_time": 1728002597,
-      "rank": 23,
-      "category": "情感"
     },
     {
       "raw_hot": 210299,
@@ -259,19 +267,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 196030,
+      "num": 181087,
+      "word": "堵车演唱会开在了音效最好的地方",
+      "onboard_time": 1727969000,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 194607,
       "num": 194607,
       "word": "凤凰浴火重生这一刻具象化了",
       "onboard_time": 1727967499,
       "rank": 5,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 191754,
-      "num": 181087,
-      "word": "堵车演唱会开在了音效最好的地方",
-      "onboard_time": 1727969000,
-      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -307,6 +315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 173202,
+      "num": 136755,
+      "word": "LNG空签",
+      "onboard_time": 1728006858,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 168021,
       "num": 165207,
       "word": "TL对战LNG",
@@ -320,6 +336,14 @@
       "word": "100斤女警穿70斤衣服排爆",
       "onboard_time": 1727940258,
       "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 163556,
+      "num": 163556,
+      "word": "年轻人错峰游整顿黄金周",
+      "onboard_time": 1728003497,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -347,20 +371,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 156418,
-      "num": 187304,
-      "word": "北京中轴线的中是中国的中",
-      "onboard_time": 1728004217,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 154590,
       "num": 154590,
       "word": "以色列",
       "onboard_time": 1727966539,
       "rank": 25,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 150264,
+      "num": 147765,
+      "word": "赵丽颖主演电影票房破50亿",
+      "onboard_time": 1728006559,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 149519,
@@ -387,12 +411,28 @@
       "category": "网红"
     },
     {
+      "raw_hot": 138378,
+      "num": 138378,
+      "word": "睡觉需要主人抱着的小狗",
+      "onboard_time": 1728001038,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 137077,
       "num": 137077,
       "word": "广州地产销售说每天忙到2万步数",
       "onboard_time": 1727969181,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 133766,
+      "num": 133766,
+      "word": "TES签运",
+      "onboard_time": 1728005657,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 132785,
@@ -427,14 +467,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 127769,
-      "num": 127769,
-      "word": "年轻人错峰游整顿黄金周",
-      "onboard_time": 1728003497,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 123052,
       "num": 123052,
       "word": "TES全员发博碰拳",
@@ -451,12 +483,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 116358,
-      "num": 116358,
-      "word": "睡觉需要主人抱着的小狗",
-      "onboard_time": 1728001038,
-      "rank": 34,
-      "category": "情感"
+      "raw_hot": 122231,
+      "num": 122231,
+      "word": "周深巡回演唱会",
+      "onboard_time": 1728005778,
+      "rank": 39,
+      "category": "演出"
     },
     {
       "raw_hot": 115897,
@@ -515,14 +547,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 99229,
-      "num": 99229,
-      "word": "周深巡回演唱会",
-      "onboard_time": 1728005778,
-      "rank": 39,
-      "category": "演出"
-    },
-    {
       "raw_hot": 97180,
       "num": 97180,
       "word": "深圳1家6口放弃旅游改看房",
@@ -563,6 +587,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 88033,
+      "num": 88033,
+      "word": "分手后爸爸给我写了一封信",
+      "onboard_time": 1728000678,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 87481,
       "num": 87481,
       "word": "他立下军令状为国研制预警机",
@@ -571,12 +603,28 @@
       "category": "社会新闻,国内时政"
     },
     {
+      "raw_hot": 87421,
+      "num": 87421,
+      "word": "代驾版的提灯定损",
+      "onboard_time": 1728005057,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 87138,
       "num": 87138,
       "word": "S14瑞士轮",
       "onboard_time": 1727961020,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 86736,
+      "num": 86736,
+      "word": "登陆少年的首次公开演出行程",
+      "onboard_time": 1728006737,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 85421,
@@ -619,22 +667,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 81884,
-      "num": 81884,
-      "word": "代驾版的提灯定损",
-      "onboard_time": 1728005057,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 81882,
-      "num": 81882,
-      "word": "TES签运",
-      "onboard_time": 1728005657,
-      "rank": 46,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 80121,
       "num": 80121,
       "word": "董洁大女主赛道",
@@ -673,6 +705,14 @@
       "onboard_time": 1727958380,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 77056,
+      "num": 77056,
+      "word": "文化中国行感受律动节拍",
+      "onboard_time": 1728005117,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 75963,
@@ -747,20 +787,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 54534,
+      "num": 79257,
+      "word": "B费连续两场红牌",
+      "onboard_time": 1728003257,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 52011,
       "num": 52011,
       "word": "Faker状态",
       "onboard_time": 1727967499,
       "rank": 37,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 50360,
-      "num": 79257,
-      "word": "B费连续两场红牌",
-      "onboard_time": 1728003257,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 50087,
@@ -792,6 +832,14 @@
       "word": "陈梦闪现崂山为青岛上大分",
       "onboard_time": 1727973917,
       "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 45360,
+      "num": 74139,
+      "word": "辽宁男篮战胜山东男篮",
+      "onboard_time": 1728006797,
+      "rank": 49,
       "category": "体育"
     },
     {
@@ -900,7 +948,7 @@
     },
     {
       "raw_hot": 12687,
-      "num": 390787,
+      "num": 471054,
       "word": "大型纪录片为了新中国",
       "onboard_time": 1727962460,
       "rank": 2,
