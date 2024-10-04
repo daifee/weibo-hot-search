@@ -1,0 +1,410 @@
+{
+  "runTime": 1728037461464,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1010012,
+        "num": 1161601,
+        "word": "数学家初中抢交卷结果只考了18分",
+        "onboard_time": 1728033018,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 396596,
+        "num": 396596,
+        "word": "外地人打飞的赴深圳买房",
+        "onboard_time": 1728029179,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 16152,
+        "num": 331258,
+        "word": "探寻发展密码",
+        "onboard_time": 1728031278,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 279062,
+        "num": 279062,
+        "word": "深圳395套房源8小时售罄",
+        "onboard_time": 1728026538,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240715,
+        "num": 240715,
+        "word": "当下买股票还是买房子",
+        "onboard_time": 1728036138,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143401,
+        "num": 228505,
+        "word": "被外国游客反向种草国内游了",
+        "onboard_time": 1728032418,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224635,
+        "num": 224635,
+        "word": "新疆小孩哥采访中惊出表情包",
+        "onboard_time": 1728023898,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223953,
+        "num": 223953,
+        "word": "郑钦文vs安德列娃",
+        "onboard_time": 1728036439,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130080,
+        "num": 223434,
+        "word": "志愿军欧豪朱亚文这条线好出彩",
+        "onboard_time": 1728034457,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 98620,
+        "num": 222143,
+        "word": "吾家吾国",
+        "onboard_time": 1728036138,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 739917,
+        "num": 220139,
+        "word": "全球富豪正逃离英国",
+        "onboard_time": 1728034038,
+        "rank": 10,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 522167,
+        "num": 217607,
+        "word": "丈夫给足球打气递给妻子时突然爆炸",
+        "onboard_time": 1728033917,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 466068,
+        "num": 216483,
+        "word": "穆祉丞漫展集邮",
+        "onboard_time": 1728036317,
+        "rank": 12,
+        "category": "动漫,艺人"
+      },
+      {
+        "raw_hot": 72821,
+        "num": 215466,
+        "word": "萨巴伦卡无缘中网四强",
+        "onboard_time": 1728037099,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 21845,
+        "num": 212401,
+        "word": "在祖国海岸线搜集1000次日落日出",
+        "onboard_time": 1728037220,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212320,
+        "num": 212320,
+        "word": "萨巴伦卡vs穆霍娃",
+        "onboard_time": 1728027917,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 320176,
+        "num": 211890,
+        "word": "王楚然 眼前一亮又一黑",
+        "onboard_time": 1728021918,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 316647,
+        "num": 210917,
+        "word": "肖凯文孙颖莎击掌",
+        "onboard_time": 1728033378,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111191,
+        "num": 209824,
+        "word": "于祥宇 商场为什么不多修点女厕所",
+        "onboard_time": 1728036918,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144377,
+        "num": 208868,
+        "word": "梁靖崑vs林高远",
+        "onboard_time": 1728036858,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 401225,
+        "num": 208365,
+        "word": "一家人患病查出血液中老鼠药成分高",
+        "onboard_time": 1728019398,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 384723,
+        "num": 206446,
+        "word": "起床后不叠被子的人赢了",
+        "onboard_time": 1728028937,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 308699,
+        "num": 206302,
+        "word": "杨鸣骂人用脸消音",
+        "onboard_time": 1728033198,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 278557,
+        "num": 204530,
+        "word": "穆婷婷希望大家追求自然地老去",
+        "onboard_time": 1728026717,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 237734,
+        "num": 203947,
+        "word": "肖战白色套装",
+        "onboard_time": 1728034218,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 232094,
+        "num": 202812,
+        "word": "堵车的源头竟是司机路边停车野餐",
+        "onboard_time": 1728026478,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177528,
+        "num": 202356,
+        "word": "张雨霏为郑钦文挑边",
+        "onboard_time": 1728029718,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 226759,
+        "num": 201137,
+        "word": "姜潮承诺为麦迪娜补办婚礼",
+        "onboard_time": 1728027079,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106205,
+        "num": 200119,
+        "word": "749局 拯救自己",
+        "onboard_time": 1728036678,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 96200,
+        "num": 198596,
+        "word": "密逃进盘丝洞这段笑癫了",
+        "onboard_time": 1728036737,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198595,
+        "num": 198595,
+        "word": "多名大妈在机场休息厅开音响跳舞",
+        "onboard_time": 1728034160,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195260,
+        "num": 195260,
+        "word": "退休英语老师的新赛道",
+        "onboard_time": 1728036798,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 192147,
+        "num": 192147,
+        "word": "宋亚轩 真假live图",
+        "onboard_time": 1728036737,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156410,
+        "num": 156410,
+        "word": "王菊新剧分手这段哭死",
+        "onboard_time": 1728032058,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147192,
+        "num": 147192,
+        "word": "猫的意思是这是她的床",
+        "onboard_time": 1728022757,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 141265,
+        "num": 141265,
+        "word": "女子支付空气买饮料演戏演全套",
+        "onboard_time": 1728019759,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137796,
+        "num": 137796,
+        "word": "华晨宇听到左立喊他冷少的反应",
+        "onboard_time": 1728035598,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136585,
+        "num": 136585,
+        "word": "男子与女友分手称我骗她钱她骗我色",
+        "onboard_time": 1728036559,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134602,
+        "num": 134602,
+        "word": "男子触电被3轮救援抢回一命",
+        "onboard_time": 1728036198,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131565,
+        "num": 131565,
+        "word": "马龙提醒观众别乱喊",
+        "onboard_time": 1728034398,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130546,
+        "num": 130546,
+        "word": "四川自贡真捅了龙窝了",
+        "onboard_time": 1728019577,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129502,
+        "num": 129502,
+        "word": "芯片股爆发",
+        "onboard_time": 1728032298,
+        "rank": 41,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 126619,
+        "num": 126619,
+        "word": "小钰cos泽丽",
+        "onboard_time": 1728033198,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 109974,
+        "num": 109974,
+        "word": "女司机高速上开40码被交警拦下",
+        "onboard_time": 1728019398,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108171,
+        "num": 108171,
+        "word": "肖凯文晒与王楚钦合照",
+        "onboard_time": 1728037157,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108112,
+        "num": 108112,
+        "word": "朋友圈已经失去活人感了",
+        "onboard_time": 1727999537,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 107938,
+        "num": 107938,
+        "word": "女医生假期带娃爬山救回一条命",
+        "onboard_time": 1728020658,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103538,
+        "num": 103538,
+        "word": "游客十一逃离人潮反向涌进县城",
+        "onboard_time": 1728036439,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96822,
+        "num": 96822,
+        "word": "汪涵做化妆解说是专业的",
+        "onboard_time": 1728037398,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 65424,
+        "num": 96803,
+        "word": "王晨艺呼吁大家用领养代替购买",
+        "onboard_time": 1728032837,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#一首MV见证新中国75年变迁#"
+    }
+  }
+}

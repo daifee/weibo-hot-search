@@ -1,6 +1,6 @@
 {
   "startTime": 1727540758074,
-  "endTime": 1728034720303,
+  "endTime": 1728037461464,
   "band_list": [
     {
       "raw_hot": 11925969,
@@ -755,6 +755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1010012,
+      "num": 1161601,
+      "word": "数学家初中抢交卷结果只考了18分",
+      "onboard_time": 1728033018,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1003394,
       "num": 391347,
       "word": "电影这个杀手不太冷定档",
@@ -920,14 +928,6 @@
       "word": "商家回应女子买一颗话梅收71.6元",
       "onboard_time": 1727590580,
       "rank": 15,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 872071,
-      "num": 1139531,
-      "word": "数学家初中抢交卷结果只考了18分",
-      "onboard_time": 1728033018,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -1297,6 +1297,14 @@
       "onboard_time": 1727920758,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 739917,
+      "num": 220139,
+      "word": "全球富豪正逃离英国",
+      "onboard_time": 1728034038,
+      "rank": 30,
+      "category": "国外时政"
     },
     {
       "raw_hot": 739698,
@@ -2283,6 +2291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 522167,
+      "num": 217607,
+      "word": "丈夫给足球打气递给妻子时突然爆炸",
+      "onboard_time": 1728033917,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 520940,
       "num": 280318,
       "word": "以色列空军基地被伊朗导弹击中",
@@ -2657,6 +2673,14 @@
       "onboard_time": 1727614399,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 466068,
+      "num": 216483,
+      "word": "穆祉丞漫展集邮",
+      "onboard_time": 1728036317,
+      "rank": 12,
+      "category": "动漫,艺人"
     },
     {
       "raw_hot": 465493,
@@ -3540,7 +3564,7 @@
     },
     {
       "raw_hot": 366409,
-      "num": 186756,
+      "num": 210917,
       "word": "肖凯文孙颖莎击掌",
       "onboard_time": 1728033378,
       "rank": 30,
@@ -4233,6 +4257,14 @@
       "onboard_time": 1727684480,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 308699,
+      "num": 206302,
+      "word": "杨鸣骂人用脸消音",
+      "onboard_time": 1728033198,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 308026,
@@ -5555,6 +5587,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 240715,
+      "num": 240715,
+      "word": "当下买股票还是买房子",
+      "onboard_time": 1728036138,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 239881,
       "num": 208470,
       "word": "猫的意思是这是她的床",
@@ -5673,6 +5713,14 @@
       "onboard_time": 1727778560,
       "rank": 22,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 237734,
+      "num": 203947,
+      "word": "肖战白色套装",
+      "onboard_time": 1728034218,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 237239,
@@ -6059,6 +6107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 223953,
+      "num": 223953,
+      "word": "郑钦文vs安德列娃",
+      "onboard_time": 1728036439,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 223691,
       "num": 188835,
       "word": "停车费1小时200元车主质疑太贵",
@@ -6107,28 +6163,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 222216,
-      "num": 177096,
-      "word": "杨鸣骂人用脸消音",
-      "onboard_time": 1728033198,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 221959,
       "num": 229378,
       "word": "为什么我们越休息越累",
       "onboard_time": 1728012378,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 221873,
-      "num": 147554,
-      "word": "全球富豪正逃离英国",
-      "onboard_time": 1728034038,
-      "rank": 30,
-      "category": "国外时政"
     },
     {
       "raw_hot": 221804,
@@ -6417,6 +6457,14 @@
       "onboard_time": 1727940798,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 212320,
+      "num": 212320,
+      "word": "萨巴伦卡vs穆霍娃",
+      "onboard_time": 1728027917,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 212229,
@@ -6963,6 +7011,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 198595,
+      "num": 198595,
+      "word": "多名大妈在机场休息厅开音响跳舞",
+      "onboard_time": 1728034160,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 198460,
       "num": 198460,
       "word": "商家回应话梅3580一斤价格正常",
@@ -7185,6 +7241,14 @@
       "onboard_time": 1728007457,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 195260,
+      "num": 195260,
+      "word": "退休英语老师的新赛道",
+      "onboard_time": 1728036798,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 195177,
@@ -7433,6 +7497,14 @@
       "onboard_time": 1727922379,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 192147,
+      "num": 192147,
+      "word": "宋亚轩 真假live图",
+      "onboard_time": 1728036737,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 192097,
@@ -9947,14 +10019,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 148078,
-      "num": 196661,
-      "word": "丈夫给足球打气递给妻子时突然爆炸",
-      "onboard_time": 1728033917,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 147850,
       "num": 147850,
       "word": "曼联vs热刺",
@@ -10025,14 +10089,6 @@
       "onboard_time": 1727840418,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 146179,
-      "num": 146179,
-      "word": "肖战白色套装",
-      "onboard_time": 1728034218,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 146125,
@@ -10163,6 +10219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 144377,
+      "num": 208868,
+      "word": "梁靖崑vs林高远",
+      "onboard_time": 1728036858,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 144346,
       "num": 144346,
       "word": "Bin想成为Faker接班人",
@@ -10209,6 +10273,14 @@
       "onboard_time": 1727864778,
       "rank": 26,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 143401,
+      "num": 262727,
+      "word": "被外国游客反向种草国内游了",
+      "onboard_time": 1728032418,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 143323,
@@ -10683,6 +10755,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 137796,
+      "num": 137796,
+      "word": "华晨宇听到左立喊他冷少的反应",
+      "onboard_time": 1728035598,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 137791,
       "num": 243327,
       "word": "以军会议照中哈马斯领导人被打问号",
@@ -10785,6 +10865,14 @@
       "onboard_time": 1727619020,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 136585,
+      "num": 136585,
+      "word": "男子与女友分手称我骗她钱她骗我色",
+      "onboard_time": 1728036559,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 136575,
@@ -10937,6 +11025,14 @@
       "onboard_time": 1727605998,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 134602,
+      "num": 134602,
+      "word": "男子触电被3轮救援抢回一命",
+      "onboard_time": 1728036198,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 134517,
@@ -11291,6 +11387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 131565,
+      "num": 131565,
+      "word": "马龙提醒观众别乱喊",
+      "onboard_time": 1728034398,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 131541,
       "num": 131541,
       "word": "伊朗与真主党内部启动除奸行动",
@@ -11417,6 +11521,14 @@
       "onboard_time": 1727698280,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 130080,
+      "num": 223434,
+      "word": "志愿军欧豪朱亚文这条线好出彩",
+      "onboard_time": 1728034457,
+      "rank": 21,
+      "category": "电影"
     },
     {
       "raw_hot": 130054,
@@ -12355,14 +12467,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 119295,
-      "num": 119295,
-      "word": "萨巴伦卡vs穆霍娃",
-      "onboard_time": 1728027917,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 119293,
       "num": 119293,
       "word": "流水迢迢不会be吧",
@@ -13083,6 +13187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 111191,
+      "num": 209824,
+      "word": "于祥宇 商场为什么不多修点女厕所",
+      "onboard_time": 1728036918,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 111109,
       "num": 111109,
       "word": "KSG战胜WE",
@@ -13152,14 +13264,6 @@
       "word": "上海住房增值税征免年限5年调整为2年",
       "onboard_time": 1727623639,
       "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 110011,
-      "num": 262727,
-      "word": "被外国游客反向种草国内游了",
-      "onboard_time": 1728032418,
-      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -13299,6 +13403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 108171,
+      "num": 108171,
+      "word": "肖凯文晒与王楚钦合照",
+      "onboard_time": 1728037157,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 108095,
       "num": 108095,
       "word": "这就是今天早晨的天安门广场",
@@ -13411,14 +13523,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 106990,
-      "num": 106990,
-      "word": "马龙提醒观众别乱喊",
-      "onboard_time": 1728034398,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 106840,
       "num": 106840,
       "word": "广角拍猫",
@@ -13489,6 +13593,14 @@
       "onboard_time": 1727910675,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 106205,
+      "num": 200119,
+      "word": "749局 拯救自己",
+      "onboard_time": 1728036678,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 106190,
@@ -13675,6 +13787,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 103538,
+      "num": 103538,
+      "word": "游客十一逃离人潮反向涌进县城",
+      "onboard_time": 1728036439,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 103454,
       "num": 103454,
       "word": "李梦偶遇小猪合影被吓到",
@@ -13841,14 +13961,6 @@
       "onboard_time": 1727875100,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 101289,
-      "num": 101289,
-      "word": "多名大妈在机场休息厅开音响跳舞",
-      "onboard_time": 1728034160,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 101225,
@@ -14051,6 +14163,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 98620,
+      "num": 222143,
+      "word": "吾家吾国",
+      "onboard_time": 1728036138,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 98403,
       "num": 98403,
       "word": "哥伦布机员2比3迈阿密国际",
@@ -14155,6 +14275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 96822,
+      "num": 96822,
+      "word": "汪涵做化妆解说是专业的",
+      "onboard_time": 1728037398,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 96769,
       "num": 96769,
       "word": "迈阿密国际vs夏洛特",
@@ -14184,6 +14312,14 @@
       "word": "沈月杨超越聊自己医美经历",
       "onboard_time": 1727529021,
       "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 96200,
+      "num": 198596,
+      "word": "密逃进盘丝洞这段笑癫了",
+      "onboard_time": 1728036737,
+      "rank": 29,
       "category": "综艺"
     },
     {
@@ -15219,6 +15355,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 72821,
+      "num": 215466,
+      "word": "萨巴伦卡无缘中网四强",
+      "onboard_time": 1728037099,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 72623,
       "num": 76844,
       "word": "波尔图3比3曼联",
@@ -16025,14 +16169,6 @@
       "onboard_time": 1727950820,
       "rank": 14,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 51594,
-      "num": 169803,
-      "word": "志愿军欧豪朱亚文这条线好出彩",
-      "onboard_time": 1728034457,
-      "rank": 21,
-      "category": "电影"
     },
     {
       "raw_hot": 51041,
@@ -17592,6 +17728,14 @@
       "word": "徐德智回应被联合国秘书长表扬",
       "onboard_time": 1727816771,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 21845,
+      "num": 212401,
+      "word": "在祖国海岸线搜集1000次日落日出",
+      "onboard_time": 1728037220,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
