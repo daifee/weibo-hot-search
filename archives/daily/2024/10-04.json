@@ -1,6 +1,6 @@
 {
   "startTime": 1727972886536,
-  "endTime": 1728030500709,
+  "endTime": 1728031345073,
   "band_list": [
     {
       "raw_hot": 2490639,
@@ -16,6 +16,14 @@
       "word": "中介劝房东不要情绪波动",
       "onboard_time": 1728008477,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1387941,
+      "num": 1387941,
+      "word": "起床后不叠被子的人赢了",
+      "onboard_time": 1728028937,
+      "rank": 0,
       "category": "社会新闻"
     },
     {
@@ -36,7 +44,7 @@
     },
     {
       "raw_hot": 1063386,
-      "num": 241945,
+      "num": 245602,
       "word": "王楚然 眼前一亮又一黑",
       "onboard_time": 1728021918,
       "rank": 11,
@@ -84,7 +92,7 @@
     },
     {
       "raw_hot": 838514,
-      "num": 179596,
+      "num": 249362,
       "word": "堵车的源头竟是司机路边停车野餐",
       "onboard_time": 1728026478,
       "rank": 26,
@@ -115,14 +123,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 748069,
-      "num": 1119691,
-      "word": "起床后不叠被子的人赢了",
-      "onboard_time": 1728028937,
-      "rank": 0,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 638674,
       "num": 288762,
       "word": "朋友圈已经失去活人感了",
@@ -140,7 +140,7 @@
     },
     {
       "raw_hot": 587183,
-      "num": 172299,
+      "num": 244768,
       "word": "姜潮承诺为麦迪娜补办婚礼",
       "onboard_time": 1728027079,
       "rank": 29,
@@ -209,6 +209,14 @@
       "onboard_time": 1728024022,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 515528,
+      "num": 241158,
+      "word": "穆婷婷希望大家追求自然地老去",
+      "onboard_time": 1728026717,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 509103,
@@ -355,6 +363,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 355869,
+      "num": 355869,
+      "word": "张雨霏为郑钦文挑边",
+      "onboard_time": 1728029718,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 351227,
       "num": 351227,
       "word": "中国的几何美学惊艳了",
@@ -385,14 +401,6 @@
       "onboard_time": 1728014719,
       "rank": 15,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 325711,
-      "num": 198178,
-      "word": "穆婷婷希望大家追求自然地老去",
-      "onboard_time": 1728026717,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 325216,
@@ -436,7 +444,7 @@
     },
     {
       "raw_hot": 303634,
-      "num": 204091,
+      "num": 211822,
       "word": "黎巴嫩首都机场附近爆炸火光一片",
       "onboard_time": 1728024979,
       "rank": 16,
@@ -587,6 +595,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 262467,
+      "num": 262467,
+      "word": "外地人打飞的赴深圳买房",
+      "onboard_time": 1728029179,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 262001,
       "num": 229439,
       "word": "女医生假期带娃爬山救回一条命",
@@ -612,7 +628,7 @@
     },
     {
       "raw_hot": 247542,
-      "num": 164323,
+      "num": 223276,
       "word": "胡冰卿开嗓这一下",
       "onboard_time": 1728027618,
       "rank": 17,
@@ -660,7 +676,7 @@
     },
     {
       "raw_hot": 232011,
-      "num": 232011,
+      "num": 260012,
       "word": "李斯丹妮快女13年后首个常驻音综",
       "onboard_time": 1728026659,
       "rank": 8,
@@ -697,6 +713,14 @@
       "onboard_time": 1728019038,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 224356,
+      "num": 207827,
+      "word": "边牧 玩你如玩狗",
+      "onboard_time": 1728027799,
+      "rank": 27,
+      "category": "幽默"
     },
     {
       "raw_hot": 221959,
@@ -747,6 +771,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 204345,
+      "num": 204345,
+      "word": "姜潮回应恋爱脑",
+      "onboard_time": 1728030018,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 202879,
       "num": 202879,
       "word": "没想到一句话让我妈认可男朋友",
@@ -777,6 +809,14 @@
       "onboard_time": 1727958020,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 198086,
+      "num": 198086,
+      "word": "缉妖录金角银角的恨比爱长久",
+      "onboard_time": 1728030858,
+      "rank": 23,
+      "category": "动漫"
     },
     {
       "raw_hot": 197873,
@@ -827,28 +867,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 192097,
+      "num": 149228,
+      "word": "马龙提醒教练打卡下班",
+      "onboard_time": 1728029838,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 189273,
       "num": 380353,
       "word": "国庆堵在隧道众人下车大合唱",
       "onboard_time": 1727972299,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 188751,
-      "num": 160622,
-      "word": "张雨霏为郑钦文挑边",
-      "onboard_time": 1728029718,
-      "rank": 26,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 185666,
-      "num": 160296,
-      "word": "边牧 玩你如玩狗",
-      "onboard_time": 1728027799,
-      "rank": 27,
-      "category": "幽默"
     },
     {
       "raw_hot": 183514,
@@ -907,6 +939,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 171010,
+      "num": 199646,
+      "word": "港股飘红",
+      "onboard_time": 1728026179,
+      "rank": 18,
+      "category": "财经"
+    },
+    {
       "raw_hot": 168021,
       "num": 165207,
       "word": "TL对战LNG",
@@ -931,12 +971,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 165587,
-      "num": 199646,
-      "word": "港股飘红",
-      "onboard_time": 1728026179,
-      "rank": 18,
-      "category": "财经"
+      "raw_hot": 165079,
+      "num": 165079,
+      "word": "何炅一句话把李斯丹妮拉回快女时代",
+      "onboard_time": 1728029538,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 164898,
@@ -979,14 +1019,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 160060,
-      "num": 160060,
-      "word": "外地人打飞的赴深圳买房",
-      "onboard_time": 1728029179,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 158809,
       "num": 158809,
       "word": "祖国永远在我心上",
@@ -1001,14 +1033,6 @@
       "onboard_time": 1727950759,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 158177,
-      "num": 158177,
-      "word": "姜潮回应恋爱脑",
-      "onboard_time": 1728030018,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 154590,
@@ -1059,14 +1083,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 145887,
-      "num": 145887,
-      "word": "何炅一句话把李斯丹妮拉回快女时代",
-      "onboard_time": 1728029538,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 144346,
       "num": 144346,
       "word": "Bin想成为Faker接班人",
@@ -1081,14 +1097,6 @@
       "onboard_time": 1728015258,
       "rank": 17,
       "category": "电影"
-    },
-    {
-      "raw_hot": 141627,
-      "num": 141627,
-      "word": "马龙提醒教练打卡下班",
-      "onboard_time": 1728029838,
-      "rank": 37,
-      "category": "体育"
     },
     {
       "raw_hot": 140477,
@@ -1137,6 +1145,14 @@
       "onboard_time": 1728001038,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 137395,
+      "num": 165380,
+      "word": "起床立刻叠被子是给螨虫搭窝",
+      "onboard_time": 1728030257,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 137077,
@@ -1267,6 +1283,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 127721,
+      "num": 259358,
+      "word": "志愿军",
+      "onboard_time": 1728030978,
+      "rank": 8,
+      "category": "电影"
+    },
+    {
       "raw_hot": 126428,
       "num": 126428,
       "word": "哑舍",
@@ -1331,6 +1355,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 122113,
+      "num": 122113,
+      "word": "今年十一旅游成本变低了",
+      "onboard_time": 1728030858,
+      "rank": 40,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 120879,
       "num": 177915,
       "word": "文化中国行一起打卡北京中轴线",
@@ -1344,6 +1376,14 @@
       "word": "林诗栋晋级中国大满贯四强",
       "onboard_time": 1728020359,
       "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 119295,
+      "num": 119295,
+      "word": "萨巴伦卡vs穆霍娃",
+      "onboard_time": 1728027917,
+      "rank": 42,
       "category": "体育"
     },
     {
@@ -1364,7 +1404,7 @@
     },
     {
       "raw_hot": 117170,
-      "num": 166533,
+      "num": 255543,
       "word": "有一种安全感叫祖国欢迎你回家",
       "onboard_time": 1728010818,
       "rank": 33,
@@ -1531,6 +1571,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 100814,
+      "num": 100814,
+      "word": "赵丽颖新片命数感应",
+      "onboard_time": 1728031218,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
       "raw_hot": 98660,
       "num": 98660,
       "word": "危机航线 空姐跳伞救人",
@@ -1625,14 +1673,6 @@
       "onboard_time": 1728006737,
       "rank": 41,
       "category": "演出"
-    },
-    {
-      "raw_hot": 85612,
-      "num": 165380,
-      "word": "起床立刻叠被子是给螨虫搭窝",
-      "onboard_time": 1728030257,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 85421,
@@ -2003,6 +2043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 38262,
+      "num": 252751,
+      "word": "国庆假期掀起文旅热",
+      "onboard_time": 1728030499,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 33248,
       "num": 44237,
       "word": "流水迢迢 oe",
@@ -2107,6 +2155,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 21124,
+      "num": 163345,
+      "word": "被志愿军战士的家国情怀感动到了",
+      "onboard_time": 1728030317,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
       "raw_hot": 17835,
       "num": 84435,
       "word": "红军长征时留下布满弹孔的旗帜",
@@ -2129,14 +2185,6 @@
       "onboard_time": 1727979072,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 13580,
-      "num": 163345,
-      "word": "被志愿军战士的家国情怀感动到了",
-      "onboard_time": 1728030317,
-      "rank": 19,
-      "category": "电影"
     },
     {
       "raw_hot": 13170,
@@ -2185,6 +2233,14 @@
       "onboard_time": 1727998395,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 6024,
+      "num": 383418,
+      "word": "探寻发展密码",
+      "onboard_time": 1728031278,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 5431,

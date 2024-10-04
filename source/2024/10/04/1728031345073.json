@@ -1,0 +1,410 @@
+{
+  "runTime": 1728031345073,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1387941,
+        "num": 1387941,
+        "word": "起床后不叠被子的人赢了",
+        "onboard_time": 1728028937,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 430073,
+        "num": 430073,
+        "word": "新疆小孩哥采访中惊出表情包",
+        "onboard_time": 1728023898,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 6024,
+        "num": 383418,
+        "word": "探寻发展密码",
+        "onboard_time": 1728031278,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 366891,
+        "num": 366891,
+        "word": "深圳395套房源8小时售罄",
+        "onboard_time": 1728026538,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 355869,
+        "num": 355869,
+        "word": "张雨霏为郑钦文挑边",
+        "onboard_time": 1728029718,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 265150,
+        "num": 265150,
+        "word": "00后离家4000多公里到沙漠小城教书",
+        "onboard_time": 1728024022,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262467,
+        "num": 262467,
+        "word": "外地人打飞的赴深圳买房",
+        "onboard_time": 1728029179,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210141,
+        "num": 260012,
+        "word": "李斯丹妮快女13年后首个常驻音综",
+        "onboard_time": 1728026659,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127721,
+        "num": 259358,
+        "word": "志愿军",
+        "onboard_time": 1728030978,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 16033,
+        "num": 255543,
+        "word": "有一种安全感叫祖国欢迎你回家",
+        "onboard_time": 1728010818,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38262,
+        "num": 252751,
+        "word": "国庆假期掀起文旅热",
+        "onboard_time": 1728030499,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 797108,
+        "num": 249362,
+        "word": "堵车的源头竟是司机路边停车野餐",
+        "onboard_time": 1728026478,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247133,
+        "num": 247133,
+        "word": "四川自贡真捅了龙窝了",
+        "onboard_time": 1728019577,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 666573,
+        "num": 245602,
+        "word": "王楚然 眼前一亮又一黑",
+        "onboard_time": 1728021918,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 536722,
+        "num": 244768,
+        "word": "姜潮承诺为麦迪娜补办婚礼",
+        "onboard_time": 1728027079,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 515528,
+        "num": 241158,
+        "word": "穆婷婷希望大家追求自然地老去",
+        "onboard_time": 1728026717,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 277623,
+        "num": 238869,
+        "word": "女子支付空气买饮料演戏演全套",
+        "onboard_time": 1728019759,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238820,
+        "num": 238820,
+        "word": "趵突泉保安拎罪证劝游客不要喂鱼",
+        "onboard_time": 1728019818,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223276,
+        "num": 223276,
+        "word": "胡冰卿开嗓这一下",
+        "onboard_time": 1728027618,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 211822,
+        "num": 211822,
+        "word": "黎巴嫩首都机场附近爆炸火光一片",
+        "onboard_time": 1728024979,
+        "rank": 19,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 656205,
+        "num": 208602,
+        "word": "一家人患病查出血液中老鼠药成分高",
+        "onboard_time": 1728019398,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224356,
+        "num": 207827,
+        "word": "边牧 玩你如玩狗",
+        "onboard_time": 1728027799,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 204345,
+        "num": 204345,
+        "word": "姜潮回应恋爱脑",
+        "onboard_time": 1728030018,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198086,
+        "num": 198086,
+        "word": "缉妖录金角银角的恨比爱长久",
+        "onboard_time": 1728030858,
+        "rank": 23,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 195046,
+        "num": 195046,
+        "word": "马龙4比0战胜雨果",
+        "onboard_time": 1728018858,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 177278,
+        "num": 177278,
+        "word": "猫的意思是这是她的床",
+        "onboard_time": 1728022757,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 171010,
+        "num": 171010,
+        "word": "港股飘红",
+        "onboard_time": 1728026179,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 168356,
+        "num": 168356,
+        "word": "三清山游客冷风中排队齐喊退票",
+        "onboard_time": 1728025219,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165079,
+        "num": 165079,
+        "word": "何炅一句话把李斯丹妮拉回快女时代",
+        "onboard_time": 1728029538,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151831,
+        "num": 151831,
+        "word": "朋友圈已经失去活人感了",
+        "onboard_time": 1727999537,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 192097,
+        "num": 149228,
+        "word": "马龙提醒教练打卡下班",
+        "onboard_time": 1728029838,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144705,
+        "num": 144705,
+        "word": "女司机高速上开40码被交警拦下",
+        "onboard_time": 1728019398,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138929,
+        "num": 138929,
+        "word": "男孩登上父亲牺牲时驾驶的同款直升机",
+        "onboard_time": 1728027979,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137395,
+        "num": 137395,
+        "word": "起床立刻叠被子是给螨虫搭窝",
+        "onboard_time": 1728030257,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137051,
+        "num": 137051,
+        "word": "林诗栋4比0林德",
+        "onboard_time": 1728015677,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134548,
+        "num": 134548,
+        "word": "为什么坐油车不晕一坐电车就晕",
+        "onboard_time": 1728019038,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130113,
+        "num": 130113,
+        "word": "国庆假期第四天",
+        "onboard_time": 1728008238,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128898,
+        "num": 128898,
+        "word": "女医生假期带娃爬山救回一条命",
+        "onboard_time": 1728020658,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21124,
+        "num": 128680,
+        "word": "被志愿军战士的家国情怀感动到了",
+        "onboard_time": 1728030317,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 128491,
+        "num": 128491,
+        "word": "Bin想成为Faker接班人",
+        "onboard_time": 1728026837,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 122113,
+        "num": 122113,
+        "word": "今年十一旅游成本变低了",
+        "onboard_time": 1728030858,
+        "rank": 40,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 121591,
+        "num": 121591,
+        "word": "尤长靖队长综合排名第一",
+        "onboard_time": 1728027677,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119295,
+        "num": 119295,
+        "word": "萨巴伦卡vs穆霍娃",
+        "onboard_time": 1728027917,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115868,
+        "num": 115868,
+        "word": "杨洋章若楠骑马打戏路透",
+        "onboard_time": 1728027499,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108659,
+        "num": 108659,
+        "word": "国庆假期趵突泉胖锦鲤撑死好几条",
+        "onboard_time": 1728017838,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104553,
+        "num": 104553,
+        "word": "黄继光母亲曾立家规后代都要参军",
+        "onboard_time": 1728012258,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103237,
+        "num": 103237,
+        "word": "王曼昱说半决赛没压力放开打",
+        "onboard_time": 1728028159,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 101168,
+        "num": 101168,
+        "word": "杭州千岛湖景区发布重要通告",
+        "onboard_time": 1728021021,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100814,
+        "num": 100814,
+        "word": "赵丽颖新片命数感应",
+        "onboard_time": 1728031218,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 99333,
+        "num": 99333,
+        "word": "国庆假期进度条过半",
+        "onboard_time": 1728027737,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记牵挂着老百姓山水间的幸福#"
+    }
+  }
+}
