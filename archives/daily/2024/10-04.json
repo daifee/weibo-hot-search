@@ -1,6 +1,6 @@
 {
   "startTime": 1727972886536,
-  "endTime": 1728023453751,
+  "endTime": 1728024327425,
   "band_list": [
     {
       "raw_hot": 2490639,
@@ -83,20 +83,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 785414,
+      "num": 1125666,
+      "word": "四川自贡真捅了龙窝了",
+      "onboard_time": 1728019577,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 765024,
       "num": 223951,
       "word": "中方警告一场全面战争一触即发",
       "onboard_time": 1727946619,
       "rank": 10,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 733474,
-      "num": 1117355,
-      "word": "四川自贡真捅了龙窝了",
-      "onboard_time": 1728019577,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 638674,
@@ -371,6 +371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 308026,
+      "num": 240964,
+      "word": "韩漫动起来之后好超前",
+      "onboard_time": 1728022877,
+      "rank": 18,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 302598,
       "num": 440366,
       "word": "内娱女鹅也到了演初恋的年纪",
@@ -392,14 +400,6 @@
       "word": "东京食尸鬼 蜈蚣耳塞",
       "onboard_time": 1727968338,
       "rank": 13,
-      "category": "动漫"
-    },
-    {
-      "raw_hot": 290705,
-      "num": 240964,
-      "word": "韩漫动起来之后好超前",
-      "onboard_time": 1728022877,
-      "rank": 18,
       "category": "动漫"
     },
     {
@@ -603,6 +603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 224172,
+      "num": 208470,
+      "word": "猫的意思是这是她的床",
+      "onboard_time": 1728022757,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 221959,
       "num": 229378,
       "word": "为什么我们越休息越累",
@@ -619,12 +627,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 216567,
+      "num": 242816,
+      "word": "杭州千岛湖景区发布重要通告",
+      "onboard_time": 1728021021,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 210299,
       "num": 163611,
       "word": "差点没认出来林允",
       "onboard_time": 1727954779,
       "rank": 19,
       "category": "电影"
+    },
+    {
+      "raw_hot": 207677,
+      "num": 207677,
+      "word": "许昕赢了赚输了算",
+      "onboard_time": 1728021798,
+      "rank": 42,
+      "category": "综艺,体育"
     },
     {
       "raw_hot": 205198,
@@ -811,11 +835,11 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 162713,
-      "num": 242816,
-      "word": "杭州千岛湖景区发布重要通告",
-      "onboard_time": 1728021021,
-      "rank": 5,
+      "raw_hot": 161688,
+      "num": 161688,
+      "word": "大学生在宿舍开化妆工作室生意火爆",
+      "onboard_time": 1728019818,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -835,28 +859,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 156345,
-      "num": 156345,
-      "word": "猫的意思是这是她的床",
-      "onboard_time": 1728022757,
-      "rank": 36,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 155484,
-      "num": 155484,
-      "word": "大学生在宿舍开化妆工作室生意火爆",
-      "onboard_time": 1728019818,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 154590,
       "num": 154590,
       "word": "以色列",
       "onboard_time": 1727966539,
       "rank": 25,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 152534,
+      "num": 152534,
+      "word": "赵丽颖这个逆光镜头",
+      "onboard_time": 1728021137,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 149519,
@@ -899,6 +915,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 140477,
+      "num": 140477,
+      "word": "任嘉伦随地大小打歌",
+      "onboard_time": 1728023658,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 138895,
       "num": 138895,
       "word": "乘飞机更便宜了",
@@ -913,6 +937,14 @@
       "onboard_time": 1727966901,
       "rank": 28,
       "category": "网红"
+    },
+    {
+      "raw_hot": 138822,
+      "num": 315707,
+      "word": "国庆假期后半段你打算怎么过",
+      "onboard_time": 1728015019,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 138818,
@@ -947,20 +979,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 133988,
-      "num": 315707,
-      "word": "国庆假期后半段你打算怎么过",
-      "onboard_time": 1728015019,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 133766,
       "num": 133766,
       "word": "TES签运",
       "onboard_time": 1728005657,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 133257,
+      "num": 133257,
+      "word": "当我在韩国需要牙签但不会说韩语",
+      "onboard_time": 1728022517,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 132875,
+      "num": 132875,
+      "word": "林高远林诗栋3比2袁励岑向鹏",
+      "onboard_time": 1728022757,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 132785,
@@ -993,14 +1033,6 @@
       "onboard_time": 1727970202,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 129464,
-      "num": 129464,
-      "word": "赵丽颖这个逆光镜头",
-      "onboard_time": 1728021137,
-      "rank": 39,
-      "category": "电影"
     },
     {
       "raw_hot": 129248,
@@ -1067,6 +1099,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 124141,
+      "num": 124141,
+      "word": "最适合伴郎们的游戏出现了",
+      "onboard_time": 1728024137,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 123052,
       "num": 123052,
       "word": "TES全员发博碰拳",
@@ -1089,14 +1129,6 @@
       "onboard_time": 1728005778,
       "rank": 39,
       "category": "演出"
-    },
-    {
-      "raw_hot": 122035,
-      "num": 122035,
-      "word": "许昕赢了赚输了算",
-      "onboard_time": 1728021798,
-      "rank": 42,
-      "category": "综艺,体育"
     },
     {
       "raw_hot": 120879,
@@ -1147,12 +1179,12 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 110240,
-      "num": 110240,
-      "word": "当我在韩国需要牙签但不会说韩语",
-      "onboard_time": 1728022517,
-      "rank": 45,
-      "category": "幽默"
+      "raw_hot": 110948,
+      "num": 110948,
+      "word": "范思琦4比3郑怡静",
+      "onboard_time": 1728023718,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 109852,
@@ -1193,14 +1225,6 @@
       "onboard_time": 1728003438,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 108108,
-      "num": 108108,
-      "word": "林高远林诗栋3比2袁励岑向鹏",
-      "onboard_time": 1728022757,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 107811,
@@ -1299,12 +1323,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 94501,
+      "num": 210204,
+      "word": "新疆小孩哥采访中惊出表情包",
+      "onboard_time": 1728023898,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 93846,
       "num": 93846,
       "word": "迪丽热巴晚间溜达七宫格",
       "onboard_time": 1727956280,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 93193,
+      "num": 93193,
+      "word": "00后离家4000多公里到沙漠小城教书",
+      "onboard_time": 1728024022,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 90795,
@@ -1499,6 +1539,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 71722,
+      "num": 242364,
+      "word": "烈士墓前一声声稚嫩的谢谢让人动容",
+      "onboard_time": 1728022579,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 69216,
       "num": 420533,
       "word": "金闪闪的大熊猫和金秋十月匹配上了",
@@ -1593,14 +1641,6 @@
       "onboard_time": 1728014657,
       "rank": 16,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 52677,
-      "num": 242364,
-      "word": "烈士墓前一声声稚嫩的谢谢让人动容",
-      "onboard_time": 1728022579,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 52011,
