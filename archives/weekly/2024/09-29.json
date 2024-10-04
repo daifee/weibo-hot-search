@@ -1,6 +1,6 @@
 {
   "startTime": 1727540758074,
-  "endTime": 1728052722524,
+  "endTime": 1728055441641,
   "band_list": [
     {
       "raw_hot": 11925969,
@@ -1184,6 +1184,14 @@
       "word": "新疆小孩哥采访中惊出表情包",
       "onboard_time": 1728023898,
       "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 805942,
+      "num": 1128950,
+      "word": "女子高速上40码龟速行驶被训",
+      "onboard_time": 1728053302,
+      "rank": 0,
       "category": "社会新闻"
     },
     {
@@ -3323,6 +3331,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 411245,
+      "num": 264914,
+      "word": "伊朗以色列军事力量对比",
+      "onboard_time": 1728049940,
+      "rank": 22,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 411010,
       "num": 411010,
       "word": "A股大涨上海马路股市沙龙人气旺",
@@ -3635,6 +3651,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 378422,
+      "num": 228430,
+      "word": "宋雨琦叶舒华唱了superstar",
+      "onboard_time": 1728053360,
+      "rank": 12,
+      "category": "演出"
+    },
+    {
       "raw_hot": 377321,
       "num": 314591,
       "word": "迪丽热巴登人民日报宣传片",
@@ -3697,6 +3721,14 @@
       "onboard_time": 1727571798,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 373660,
+      "num": 228205,
+      "word": "黄晓明发文告别中餐厅8",
+      "onboard_time": 1728048861,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 373161,
@@ -4361,14 +4393,6 @@
       "onboard_time": 1727766198,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 320224,
-      "num": 264914,
-      "word": "伊朗以色列军事力量对比",
-      "onboard_time": 1728049940,
-      "rank": 22,
-      "category": "国外时政"
     },
     {
       "raw_hot": 319669,
@@ -5427,6 +5451,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 265791,
+      "num": 221939,
+      "word": "梁靖崑说王楚钦又甜又凶",
+      "onboard_time": 1728052220,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 264671,
       "num": 1020894,
       "word": "日本首相石破茂因政治资金问题被检举",
@@ -5729,14 +5761,6 @@
       "onboard_time": 1727675840,
       "rank": 20,
       "category": "体育"
-    },
-    {
-      "raw_hot": 249818,
-      "num": 228205,
-      "word": "黄晓明发文告别中餐厅8",
-      "onboard_time": 1728048861,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 248841,
@@ -7307,6 +7331,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 201258,
+      "num": 201258,
+      "word": "郑钦文再获32.5万美元奖金",
+      "onboard_time": 1728054439,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 200948,
       "num": 200948,
       "word": "中国科创力量不断向前",
@@ -8219,6 +8251,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 188962,
+      "num": 243051,
+      "word": "中方必将采取一切措施维护中国企业利益",
+      "onboard_time": 1728051080,
+      "rank": 38,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 188776,
       "num": 171685,
       "word": "赵露思白色深v针织衫",
@@ -8473,6 +8513,14 @@
       "onboard_time": 1727927537,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 184920,
+      "num": 184920,
+      "word": "郑钦文打心底把张雨霏当朋友",
+      "onboard_time": 1728054379,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 184827,
@@ -9459,6 +9507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 166358,
+      "num": 157592,
+      "word": "郑钦文坦言和张雨霏很有缘",
+      "onboard_time": 1728054379,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 166229,
       "num": 166229,
       "word": "梁靖崑3比2战胜周启豪",
@@ -9577,14 +9633,6 @@
       "onboard_time": 1727834837,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 164547,
-      "num": 243051,
-      "word": "中方必将采取一切措施维护中国企业利益",
-      "onboard_time": 1728051080,
-      "rank": 38,
-      "category": "国内时政"
     },
     {
       "raw_hot": 164214,
@@ -10051,12 +10099,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 157790,
+      "num": 157790,
+      "word": "张雨霏 MY SHERO",
+      "onboard_time": 1728053060,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 157676,
       "num": 157863,
       "word": "喻言唱跳舞台",
       "onboard_time": 1727536939,
       "rank": 19,
       "category": "演出"
+    },
+    {
+      "raw_hot": 157584,
+      "num": 157584,
+      "word": "郑钦文很开心张雨霏能来现场",
+      "onboard_time": 1728054379,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 157567,
@@ -10217,6 +10281,14 @@
       "onboard_time": 1728041299,
       "rank": 36,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 154547,
+      "num": 154547,
+      "word": "周震南 明天接着舞",
+      "onboard_time": 1728054501,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 154507,
@@ -10625,6 +10697,14 @@
       "onboard_time": 1727671999,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 148201,
+      "num": 209911,
+      "word": "这两天的笑点是向佐给的",
+      "onboard_time": 1728053480,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 148154,
@@ -11529,14 +11609,6 @@
       "onboard_time": 1727969181,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 137028,
-      "num": 137028,
-      "word": "梁靖崑说王楚钦又甜又凶",
-      "onboard_time": 1728052220,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 136965,
@@ -17115,6 +17187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 48641,
+      "num": 233733,
+      "word": "太阳爆发7年来最强耀斑",
+      "onboard_time": 1728055039,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 48011,
       "num": 388895,
       "word": "偶尔吃一顿大餐血管会经历什么",
@@ -17275,6 +17355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 44288,
+      "num": 157676,
+      "word": "TL对战WBG",
+      "onboard_time": 1728054739,
+      "rank": 29,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 44217,
       "num": 196961,
       "word": "在西湖边沉浸式体验最美人墙",
@@ -17352,6 +17440,14 @@
       "word": "亲亲的长街新新的模样",
       "onboard_time": 1727702842,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 43232,
+      "num": 296908,
+      "word": "从太空视角俯瞰神州大地",
+      "onboard_time": 1728051440,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -17857,14 +17953,6 @@
       "onboard_time": 1727775320,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 33321,
-      "num": 296908,
-      "word": "从太空视角俯瞰神州大地",
-      "onboard_time": 1728051440,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 33224,
