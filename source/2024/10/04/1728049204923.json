@@ -1,0 +1,410 @@
+{
+  "runTime": 1728049204923,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1744651,
+        "num": 1744651,
+        "word": "郑钦文晋级半决赛",
+        "onboard_time": 1728047240,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 824242,
+        "num": 824242,
+        "word": "郑钦文vs安德列娃",
+        "onboard_time": 1728036439,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 77071,
+        "num": 799535,
+        "word": "国庆假期掀起文旅热",
+        "onboard_time": 1728030499,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 784679,
+        "num": 784679,
+        "word": "向鹏vs莫雷加德",
+        "onboard_time": 1728045138,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 649342,
+        "num": 649342,
+        "word": "向鹏18比20",
+        "onboard_time": 1728045439,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 512812,
+        "num": 512812,
+        "word": "孙颖莎4比0胜伊藤美诚",
+        "onboard_time": 1728042441,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 507358,
+        "num": 507358,
+        "word": "向鹏中国大满贯进4强",
+        "onboard_time": 1728046339,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 332103,
+        "num": 507165,
+        "word": "749局细思极恐",
+        "onboard_time": 1728047539,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 238415,
+        "num": 507139,
+        "word": "下一战歌手",
+        "onboard_time": 1728045920,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161578,
+        "num": 506768,
+        "word": "美国9月非农就业数据",
+        "onboard_time": 1728047240,
+        "rank": 9,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 884361,
+        "num": 506601,
+        "word": "穆婷婷白月光回国",
+        "onboard_time": 1728039619,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 678462,
+        "num": 506333,
+        "word": "赵丽颖的手差点没捂住张百乔的嘴",
+        "onboard_time": 1728046220,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 367920,
+        "num": 506120,
+        "word": "LNG战胜BLG",
+        "onboard_time": 1728046339,
+        "rank": 12,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 526930,
+        "num": 505971,
+        "word": "郑钦文水杯亮了",
+        "onboard_time": 1728046581,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 21638,
+        "num": 505695,
+        "word": "爆款好人理想友谊具象化",
+        "onboard_time": 1728047121,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 505685,
+        "num": 505685,
+        "word": "33岁中国男子涉嫌用热咖啡泼伤婴儿后出逃",
+        "onboard_time": 1728041059,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 474341,
+        "num": 474341,
+        "word": "王楚钦说打完了怎么喊都行",
+        "onboard_time": 1728038358,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 465418,
+        "num": 465418,
+        "word": "假冒媒体岂是儿戏",
+        "onboard_time": 1728039439,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 401369,
+        "num": 401369,
+        "word": "伊朗袭击以色列前检查导弹画面首公开",
+        "onboard_time": 1728042499,
+        "rank": 18,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 392812,
+        "num": 392812,
+        "word": "伊藤美诚说想赢孙颖莎一分都很难",
+        "onboard_time": 1728047781,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 412045,
+        "num": 392647,
+        "word": "起床后不叠被子的人赢了",
+        "onboard_time": 1728028937,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 389877,
+        "num": 389877,
+        "word": "李兰迪 练仪态就拍古装大婚戏吧",
+        "onboard_time": 1728048259,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 356242,
+        "num": 356242,
+        "word": "上海放宽应届生身份认定标准",
+        "onboard_time": 1728041839,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 307643,
+        "num": 307643,
+        "word": "林高远王艺迪vs林诗栋蒯曼",
+        "onboard_time": 1728048139,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 291900,
+        "num": 291900,
+        "word": "2NE1演唱会",
+        "onboard_time": 1728042740,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 91582,
+        "num": 290318,
+        "word": "复旦公布推免招生不诚信名单合理吗",
+        "onboard_time": 1728047300,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 289629,
+        "num": 289629,
+        "word": "鹿 你一边去吧该我了",
+        "onboard_time": 1728045859,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 250171,
+        "num": 250171,
+        "word": "蚊子包下不去女生直接用针扎",
+        "onboard_time": 1728044898,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238486,
+        "num": 238486,
+        "word": "数学家初中抢交卷结果只考了18分",
+        "onboard_time": 1728033018,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164941,
+        "num": 225286,
+        "word": "打开749局的另一种方式",
+        "onboard_time": 1728045979,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 220949,
+        "num": 220949,
+        "word": "WTT混双决赛",
+        "onboard_time": 1728048679,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 217041,
+        "num": 217041,
+        "word": "伯远MAMA舞台",
+        "onboard_time": 1728045679,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 211987,
+        "num": 211987,
+        "word": "肖战白色套装",
+        "onboard_time": 1728034218,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210859,
+        "num": 210859,
+        "word": "国庆婚庆市场爆了",
+        "onboard_time": 1728038418,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208914,
+        "num": 208914,
+        "word": "中网",
+        "onboard_time": 1728047601,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 73159,
+        "num": 201451,
+        "word": "商务部回应欧盟通过电动汽车反补贴案",
+        "onboard_time": 1728047060,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201325,
+        "num": 201325,
+        "word": "吴青峰音乐节歌单",
+        "onboard_time": 1728048259,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 188387,
+        "num": 188387,
+        "word": "光遇",
+        "onboard_time": 1728048381,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 188096,
+        "num": 188096,
+        "word": "郑钦文半决赛面对穆霍娃",
+        "onboard_time": 1728048201,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 186703,
+        "num": 186703,
+        "word": "英国偶遇孙怡",
+        "onboard_time": 1728039079,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183357,
+        "num": 183357,
+        "word": "郑钦文4连胜",
+        "onboard_time": 1728047900,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 180676,
+        "num": 180676,
+        "word": "喻言自信的你怪美的",
+        "onboard_time": 1728047539,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176814,
+        "num": 176814,
+        "word": "男子与女友分手称我骗她钱她骗我色",
+        "onboard_time": 1728036559,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166059,
+        "num": 166059,
+        "word": "游客错峰游成了高峰游",
+        "onboard_time": 1728044598,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164660,
+        "num": 164660,
+        "word": "半熟男女 想给男生擦眼泪那是母爱",
+        "onboard_time": 1728047060,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158027,
+        "num": 158027,
+        "word": "伊藤说孙颖莎是我努力的原因之一",
+        "onboard_time": 1728048201,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157846,
+        "num": 157846,
+        "word": "林高远林诗栋进男双决赛",
+        "onboard_time": 1728046879,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 147093,
+        "num": 147093,
+        "word": "梁靖崑回应双甜组合网名",
+        "onboard_time": 1728049100,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146727,
+        "num": 146727,
+        "word": "黄晓明发文告别中餐厅8",
+        "onboard_time": 1728048861,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144605,
+        "num": 144605,
+        "word": "张雨霏看得全神贯注",
+        "onboard_time": 1728048621,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记牵挂着老百姓山水间的幸福#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1727972886536,
-  "endTime": 1728048509023,
+  "endTime": 1728049204923,
   "band_list": [
     {
       "raw_hot": 2490639,
@@ -227,6 +227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 678462,
+      "num": 550113,
+      "word": "赵丽颖的手差点没捂住张百乔的嘴",
+      "onboard_time": 1728046220,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 675249,
       "num": 675249,
       "word": "上海放宽应届生身份认定标准",
@@ -281,14 +289,6 @@
       "onboard_time": 1728027079,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 581147,
-      "num": 550113,
-      "word": "赵丽颖的手差点没捂住张百乔的嘴",
-      "onboard_time": 1728046220,
-      "rank": 34,
-      "category": "电影"
     },
     {
       "raw_hot": 575171,
@@ -369,6 +369,14 @@
       "onboard_time": 1728033917,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 526930,
+      "num": 505971,
+      "word": "郑钦文水杯亮了",
+      "onboard_time": 1728046581,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 526100,
@@ -483,14 +491,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 421865,
-      "num": 421865,
-      "word": "郑钦文水杯亮了",
-      "onboard_time": 1728046581,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 413823,
       "num": 324481,
       "word": "英国偶遇孙怡",
@@ -507,6 +507,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 392812,
+      "num": 392812,
+      "word": "伊藤美诚说想赢孙颖莎一分都很难",
+      "onboard_time": 1728047781,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 390806,
       "num": 390806,
       "word": "中国海警首次进北冰洋意味着什么",
@@ -521,6 +529,14 @@
       "onboard_time": 1728016337,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 389877,
+      "num": 389877,
+      "word": "李兰迪 练仪态就拍古装大婚戏吧",
+      "onboard_time": 1728048259,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 387295,
@@ -635,6 +651,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 332103,
+      "num": 567013,
+      "word": "749局细思极恐",
+      "onboard_time": 1728047539,
+      "rank": 8,
+      "category": "电影"
+    },
+    {
       "raw_hot": 328709,
       "num": 296256,
       "word": "秦彻抽卡",
@@ -699,6 +723,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 307643,
+      "num": 307643,
+      "word": "林高远王艺迪vs林诗栋蒯曼",
+      "onboard_time": 1728048139,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 303634,
       "num": 211822,
       "word": "黎巴嫩首都机场附近爆炸火光一片",
@@ -747,6 +779,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 289629,
+      "num": 289629,
+      "word": "鹿 你一边去吧该我了",
+      "onboard_time": 1728045859,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 288080,
       "num": 288080,
       "word": "北京中轴线的中是中国的中",
@@ -761,14 +801,6 @@
       "onboard_time": 1727999537,
       "rank": 13,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 284323,
-      "num": 264734,
-      "word": "鹿 你一边去吧该我了",
-      "onboard_time": 1728045859,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 283260,
@@ -921,14 +953,6 @@
       "onboard_time": 1728044898,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 252404,
-      "num": 252404,
-      "word": "伊藤美诚说想赢孙颖莎一分都很难",
-      "onboard_time": 1728047781,
-      "rank": 26,
-      "category": "体育"
     },
     {
       "raw_hot": 248841,
@@ -1091,6 +1115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 220949,
+      "num": 220949,
+      "word": "WTT混双决赛",
+      "onboard_time": 1728048679,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 220308,
       "num": 420553,
       "word": "打开749局的另一种方式",
@@ -1147,12 +1179,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 205628,
-      "num": 205628,
-      "word": "李兰迪 练仪态就拍古装大婚戏吧",
-      "onboard_time": 1728048259,
-      "rank": 30,
-      "category": "剧集"
+      "raw_hot": 208914,
+      "num": 208914,
+      "word": "中网",
+      "onboard_time": 1728047601,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 205198,
@@ -1187,20 +1219,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 201676,
-      "num": 201676,
-      "word": "中网",
-      "onboard_time": 1728047601,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
       "raw_hot": 201612,
       "num": 164808,
       "word": "退伍军人跳海救人未果大喊我尽力了",
       "onboard_time": 1727994552,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 201325,
+      "num": 201325,
+      "word": "吴青峰音乐节歌单",
+      "onboard_time": 1728048259,
+      "rank": 43,
+      "category": "演出"
     },
     {
       "raw_hot": 199300,
@@ -1332,7 +1364,7 @@
     },
     {
       "raw_hot": 190008,
-      "num": 190008,
+      "num": 506768,
       "word": "美国9月非农就业数据",
       "onboard_time": 1728047240,
       "rank": 39,
@@ -1377,6 +1409,14 @@
       "onboard_time": 1728048201,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 188387,
+      "num": 188387,
+      "word": "光遇",
+      "onboard_time": 1728048381,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 186759,
@@ -1465,14 +1505,6 @@
       "onboard_time": 1727964981,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 174145,
-      "num": 174145,
-      "word": "林高远王艺迪vs林诗栋蒯曼",
-      "onboard_time": 1728048139,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 173632,
@@ -1619,36 +1651,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 157284,
-      "num": 157284,
-      "word": "女单4强都是国乒姑娘",
-      "onboard_time": 1728043879,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 157102,
-      "num": 157102,
-      "word": "吴青峰音乐节歌单",
-      "onboard_time": 1728048259,
-      "rank": 43,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 155860,
-      "num": 155860,
+      "raw_hot": 158027,
+      "num": 158027,
       "word": "伊藤说孙颖莎是我努力的原因之一",
       "onboard_time": 1728048201,
       "rank": 44,
       "category": "体育"
     },
     {
-      "raw_hot": 155164,
-      "num": 155164,
-      "word": "光遇",
-      "onboard_time": 1728048381,
-      "rank": 45,
-      "category": "游戏"
+      "raw_hot": 157284,
+      "num": 157284,
+      "word": "女单4强都是国乒姑娘",
+      "onboard_time": 1728043879,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 154877,
@@ -1723,12 +1739,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 147093,
+      "num": 147093,
+      "word": "梁靖崑回应双甜组合网名",
+      "onboard_time": 1728049100,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 146933,
       "num": 146933,
       "word": "郑钦文对阵17岁新星冲四强",
       "onboard_time": 1728010277,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 146727,
+      "num": 146727,
+      "word": "黄晓明发文告别中餐厅8",
+      "onboard_time": 1728048861,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 146704,
@@ -1745,6 +1777,14 @@
       "onboard_time": 1728017718,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 144605,
+      "num": 144605,
+      "word": "张雨霏看得全神贯注",
+      "onboard_time": 1728048621,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 144346,
@@ -2275,14 +2315,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 111019,
-      "num": 567013,
-      "word": "749局细思极恐",
-      "onboard_time": 1728047539,
-      "rank": 8,
-      "category": "电影"
-    },
-    {
       "raw_hot": 110948,
       "num": 110948,
       "word": "范思琦4比3郑怡静",
@@ -2507,6 +2539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 91582,
+      "num": 533702,
+      "word": "复旦公布推免招生不诚信名单合理吗",
+      "onboard_time": 1728047300,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 90795,
       "num": 90795,
       "word": "如何一眼区分新女婿和老女婿",
@@ -2585,14 +2625,6 @@
       "onboard_time": 1727970560,
       "rank": 42,
       "category": "美食"
-    },
-    {
-      "raw_hot": 84040,
-      "num": 533702,
-      "word": "复旦公布推免招生不诚信名单合理吗",
-      "onboard_time": 1728047300,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 83762,
@@ -2675,6 +2707,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 77071,
+      "num": 1182325,
+      "word": "国庆假期掀起文旅热",
+      "onboard_time": 1728030499,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 77056,
       "num": 77056,
       "word": "文化中国行感受律动节拍",
@@ -2699,14 +2739,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 74936,
-      "num": 1182325,
-      "word": "国庆假期掀起文旅热",
-      "onboard_time": 1728030499,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 74064,
       "num": 217639,
       "word": "志愿军188师1营大合照历史版本",
@@ -2721,6 +2753,14 @@
       "onboard_time": 1728010277,
       "rank": 48,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 73159,
+      "num": 563707,
+      "word": "商务部回应欧盟通过电动汽车反补贴案",
+      "onboard_time": 1728047060,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 72623,
@@ -2907,14 +2947,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 53384,
-      "num": 563707,
-      "word": "商务部回应欧盟通过电动汽车反补贴案",
-      "onboard_time": 1728047060,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 52011,
       "num": 52011,
       "word": "Faker状态",
@@ -3044,7 +3076,7 @@
     },
     {
       "raw_hot": 29312,
-      "num": 162998,
+      "num": 505695,
       "word": "爆款好人理想友谊具象化",
       "onboard_time": 1728047121,
       "rank": 42,
