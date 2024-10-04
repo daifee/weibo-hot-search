@@ -1,0 +1,410 @@
+{
+  "runTime": 1728041781658,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1169756,
+        "num": 1187161,
+        "word": "孙颖莎vs伊藤美诚",
+        "onboard_time": 1728037938,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 753342,
+        "num": 753342,
+        "word": "郑钦文vs安德列娃",
+        "onboard_time": 1728036439,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 23515,
+        "num": 601864,
+        "word": "探寻发展密码",
+        "onboard_time": 1728031278,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 568045,
+        "num": 568045,
+        "word": "国庆婚庆市场爆了",
+        "onboard_time": 1728038418,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 540868,
+        "num": 540868,
+        "word": "数学家初中抢交卷结果只考了18分",
+        "onboard_time": 1728033018,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 481064,
+        "num": 481064,
+        "word": "梁靖崑vs林高远",
+        "onboard_time": 1728036858,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 353377,
+        "num": 353377,
+        "word": "男子触电被3轮救援抢回一命",
+        "onboard_time": 1728036198,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189322,
+        "num": 351091,
+        "word": "你好种地少年",
+        "onboard_time": 1728041059,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186050,
+        "num": 344843,
+        "word": "749局 拯救自己",
+        "onboard_time": 1728036678,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 44079,
+        "num": 342103,
+        "word": "楼市银十有望变金十",
+        "onboard_time": 1728040159,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1323775,
+        "num": 339306,
+        "word": "假冒媒体岂是儿戏",
+        "onboard_time": 1728039439,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 906984,
+        "num": 332800,
+        "word": "穆婷婷白月光回国",
+        "onboard_time": 1728039619,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 682360,
+        "num": 327306,
+        "word": "男子与女友分手称我骗她钱她骗我色",
+        "onboard_time": 1728036559,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 414474,
+        "num": 324329,
+        "word": "全球富豪正逃离英国",
+        "onboard_time": 1728034038,
+        "rank": 13,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 413823,
+        "num": 318081,
+        "word": "英国偶遇孙怡",
+        "onboard_time": 1728039079,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 406416,
+        "num": 315386,
+        "word": "穆祉丞漫展集邮",
+        "onboard_time": 1728036317,
+        "rank": 15,
+        "category": "动漫,艺人"
+      },
+      {
+        "raw_hot": 292464,
+        "num": 309949,
+        "word": "宋亚轩 真假live图",
+        "onboard_time": 1728036737,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 308194,
+        "num": 308194,
+        "word": "梁靖崑4比2林高远",
+        "onboard_time": 1728040159,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 250048,
+        "num": 250048,
+        "word": "王楚钦说打完了怎么喊都行",
+        "onboard_time": 1728038358,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 22559,
+        "num": 236027,
+        "word": "惠英红带家人香港探店",
+        "onboard_time": 1728041360,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 368953,
+        "num": 234485,
+        "word": "一家人患病查出血液中老鼠药成分高",
+        "onboard_time": 1728019398,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 350226,
+        "num": 234368,
+        "word": "起床后不叠被子的人赢了",
+        "onboard_time": 1728028937,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231515,
+        "num": 231515,
+        "word": "退休英语老师的新赛道",
+        "onboard_time": 1728036798,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 227655,
+        "num": 227655,
+        "word": "恋与深空 秦彻",
+        "onboard_time": 1728037518,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 74064,
+        "num": 217639,
+        "word": "志愿军188师1营大合照历史版本",
+        "onboard_time": 1728041418,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 216458,
+        "num": 216458,
+        "word": "郑钦文张雨霏拥抱",
+        "onboard_time": 1728039739,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 200473,
+        "num": 200473,
+        "word": "欧盟对华电动汽车征收反补贴税提议通过",
+        "onboard_time": 1728040397,
+        "rank": 26,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 191794,
+        "num": 191794,
+        "word": "丈夫给足球打气递给妻子时突然爆炸",
+        "onboard_time": 1728033917,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189445,
+        "num": 189445,
+        "word": "梁靖崑WTT晋级四强",
+        "onboard_time": 1728040579,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 155008,
+        "num": 181421,
+        "word": "时装周最热艺人前二十",
+        "onboard_time": 1728038479,
+        "rank": 29,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 181419,
+        "num": 181419,
+        "word": "肖战白色套装",
+        "onboard_time": 1728034218,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180218,
+        "num": 180218,
+        "word": "33岁中国男子涉嫌用热咖啡泼伤婴儿后出逃",
+        "onboard_time": 1728041059,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178126,
+        "num": 178126,
+        "word": "王楚然 眼前一亮又一黑",
+        "onboard_time": 1728021918,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171168,
+        "num": 171168,
+        "word": "萨巴伦卡摔拍",
+        "onboard_time": 1728038658,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167195,
+        "num": 167195,
+        "word": "穆婷婷希望大家追求自然地老去",
+        "onboard_time": 1728026717,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166737,
+        "num": 166737,
+        "word": "萨巴伦卡无缘中网四强",
+        "onboard_time": 1728037099,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 154877,
+        "num": 154877,
+        "word": "毛利兰 天使角色第一",
+        "onboard_time": 1728041299,
+        "rank": 36,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 149313,
+        "num": 149313,
+        "word": "张雨霏来中网了",
+        "onboard_time": 1728041299,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 147360,
+        "num": 147360,
+        "word": "迪丽热巴贺思慕新头饰",
+        "onboard_time": 1728038058,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133397,
+        "num": 133397,
+        "word": "孙颖莎神级防守",
+        "onboard_time": 1728041418,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129545,
+        "num": 129545,
+        "word": "马龙半决赛对阵梁靖崑",
+        "onboard_time": 1728041360,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 516056,
+        "num": 128305,
+        "word": "当下买股票还是买房子",
+        "onboard_time": 1728036138,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124868,
+        "num": 124868,
+        "word": "多名大妈在机场休息厅开音响跳舞",
+        "onboard_time": 1728034160,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116270,
+        "num": 116270,
+        "word": "郑钦文连追4局扳平",
+        "onboard_time": 1728041598,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114429,
+        "num": 114429,
+        "word": "肖凯文孙颖莎击掌",
+        "onboard_time": 1728033378,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 72339,
+        "num": 112199,
+        "word": "浴火之路 我用什么把你留住",
+        "onboard_time": 1728041360,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 111657,
+        "num": 111657,
+        "word": "游客十一逃离人潮反向涌进县城",
+        "onboard_time": 1728036439,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109958,
+        "num": 109958,
+        "word": "如鸢",
+        "onboard_time": 1728041719,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 109321,
+        "num": 109321,
+        "word": "猫的意思是这是她的床",
+        "onboard_time": 1728022757,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 8417,
+        "num": 109140,
+        "word": "每一个女生都应该去骑行",
+        "onboard_time": 1728041539,
+        "rank": 49,
+        "category": "运动健身"
+      }
+    ],
+    "hotgov": {
+      "word": "#一首MV见证新中国75年变迁#"
+    }
+  }
+}

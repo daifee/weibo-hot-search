@@ -1,6 +1,6 @@
 {
   "startTime": 1727540758074,
-  "endTime": 1728040687959,
+  "endTime": 1728041781658,
   "band_list": [
     {
       "raw_hot": 11925969,
@@ -371,6 +371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1323775,
+      "num": 509561,
+      "word": "假冒媒体岂是儿戏",
+      "onboard_time": 1728039439,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1316837,
       "num": 1304524,
       "word": "股民称A股爆火赚4.7万其中5万是本",
@@ -531,6 +539,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 1169756,
+      "num": 1187161,
+      "word": "孙颖莎vs伊藤美诚",
+      "onboard_time": 1728037938,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1168651,
       "num": 187961,
       "word": "金马奖入围名单",
@@ -617,14 +633,6 @@
       "onboard_time": 1728012258,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1067722,
-      "num": 509561,
-      "word": "假冒媒体岂是儿戏",
-      "onboard_time": 1728039439,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 1064845,
@@ -889,6 +897,14 @@
       "onboard_time": 1727768240,
       "rank": 6,
       "category": "电影"
+    },
+    {
+      "raw_hot": 906984,
+      "num": 495149,
+      "word": "穆婷婷白月光回国",
+      "onboard_time": 1728039619,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 903887,
@@ -1251,6 +1267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 753342,
+      "num": 753342,
+      "word": "郑钦文vs安德列娃",
+      "onboard_time": 1728036439,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 751558,
       "num": 385800,
       "word": "回本",
@@ -1369,14 +1393,6 @@
       "onboard_time": 1727852177,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 720986,
-      "num": 1115357,
-      "word": "孙颖莎vs伊藤美诚",
-      "onboard_time": 1728037938,
-      "rank": 8,
-      "category": "体育"
     },
     {
       "raw_hot": 720650,
@@ -1963,14 +1979,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 584537,
-      "num": 584537,
-      "word": "郑钦文vs安德列娃",
-      "onboard_time": 1728036439,
-      "rank": 7,
-      "category": "体育"
-    },
-    {
       "raw_hot": 584315,
       "num": 236506,
       "word": "网红自曝开劳被人持刀携爆炸物抢劫",
@@ -2064,6 +2072,14 @@
       "word": "男子嫌小孩推车进电梯慢将车扔出",
       "onboard_time": 1727739376,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 568045,
+      "num": 568045,
+      "word": "国庆婚庆市场爆了",
+      "onboard_time": 1728038418,
+      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -2313,14 +2329,6 @@
       "onboard_time": 1727715915,
       "rank": 15,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 528603,
-      "num": 528603,
-      "word": "国庆婚庆市场爆了",
-      "onboard_time": 1728038418,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 526100,
@@ -2593,14 +2601,6 @@
       "onboard_time": 1727929998,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 495149,
-      "num": 495149,
-      "word": "穆婷婷白月光回国",
-      "onboard_time": 1728039619,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 494528,
@@ -3145,6 +3145,14 @@
       "onboard_time": 1727709680,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 413823,
+      "num": 324481,
+      "word": "英国偶遇孙怡",
+      "onboard_time": 1728039079,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 413817,
@@ -3771,6 +3779,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 353377,
+      "num": 353377,
+      "word": "男子触电被3轮救援抢回一命",
+      "onboard_time": 1728036198,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 353018,
       "num": 353018,
       "word": "驻日美军附近地下水有害物超标300倍",
@@ -3817,14 +3833,6 @@
       "onboard_time": 1727953820,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 348425,
-      "num": 348425,
-      "word": "男子触电被3轮救援抢回一命",
-      "onboard_time": 1728036198,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 348376,
@@ -4139,14 +4147,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 324481,
-      "num": 324481,
-      "word": "英国偶遇孙怡",
-      "onboard_time": 1728039079,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 324257,
       "num": 324257,
       "word": "骗子把老人所有定期存款转成活期",
@@ -4353,6 +4353,14 @@
       "onboard_time": 1728033198,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 308194,
+      "num": 308194,
+      "word": "梁靖崑4比2林高远",
+      "onboard_time": 1728040159,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 308026,
@@ -5515,6 +5523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 250048,
+      "num": 250048,
+      "word": "王楚钦说打完了怎么喊都行",
+      "onboard_time": 1728038358,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 249986,
       "num": 233765,
       "word": "以色列空袭叙利亚首都3死9伤",
@@ -6427,6 +6443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 216458,
+      "num": 216458,
+      "word": "郑钦文张雨霏拥抱",
+      "onboard_time": 1728039739,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 216270,
       "num": 216270,
       "word": "林诗栋蒯曼3比0松岛辉空张本美和",
@@ -7035,6 +7059,14 @@
       "category": "自然"
     },
     {
+      "raw_hot": 200473,
+      "num": 200473,
+      "word": "欧盟对华电动汽车征收反补贴税提议通过",
+      "onboard_time": 1728040397,
+      "rank": 28,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 200231,
       "num": 200231,
       "word": "杨紫波点白裙搭配荷叶领",
@@ -7417,14 +7449,6 @@
       "onboard_time": 1727665940,
       "rank": 30,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 193947,
-      "num": 193947,
-      "word": "梁靖崑4比2林高远",
-      "onboard_time": 1728040159,
-      "rank": 25,
-      "category": "体育"
     },
     {
       "raw_hot": 193937,
@@ -7819,6 +7843,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 189445,
+      "num": 189445,
+      "word": "梁靖崑WTT晋级四强",
+      "onboard_time": 1728040579,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 189322,
+      "num": 351091,
+      "word": "你好种地少年",
+      "onboard_time": 1728041059,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 189273,
       "num": 380353,
       "word": "国庆堵在隧道众人下车大合唱",
@@ -8115,14 +8155,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 184260,
-      "num": 184260,
-      "word": "王楚钦说打完了怎么喊都行",
-      "onboard_time": 1728038358,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 184184,
       "num": 170368,
       "word": "张本智和说想进一次8强",
@@ -8289,6 +8321,14 @@
       "onboard_time": 1727998216,
       "rank": 40,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 180218,
+      "num": 180218,
+      "word": "33岁中国男子涉嫌用热咖啡泼伤婴儿后出逃",
+      "onboard_time": 1728041059,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 180210,
@@ -8777,6 +8817,14 @@
       "onboard_time": 1727535681,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 171168,
+      "num": 171168,
+      "word": "萨巴伦卡摔拍",
+      "onboard_time": 1728038658,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 171010,
@@ -9739,14 +9787,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 155590,
-      "num": 155590,
-      "word": "欧盟对华电动汽车征收反补贴税提议通过",
-      "onboard_time": 1728040397,
-      "rank": 28,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 155553,
       "num": 155553,
       "word": "沪指5天大涨20%",
@@ -9761,6 +9801,14 @@
       "onboard_time": 1727691379,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 154877,
+      "num": 154877,
+      "word": "毛利兰 天使角色第一",
+      "onboard_time": 1728041299,
+      "rank": 36,
+      "category": "动漫"
     },
     {
       "raw_hot": 154507,
@@ -10097,6 +10145,14 @@
       "onboard_time": 1727678900,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 149313,
+      "num": 149313,
+      "word": "张雨霏来中网了",
+      "onboard_time": 1728041299,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 149276,
@@ -11323,6 +11379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 133397,
+      "num": 133397,
+      "word": "孙颖莎神级防守",
+      "onboard_time": 1728041418,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 133388,
       "num": 133388,
       "word": "原来这段间奏是王源写的",
@@ -11731,6 +11795,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 129545,
+      "num": 129545,
+      "word": "马龙半决赛对阵梁靖崑",
+      "onboard_time": 1728041360,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 129481,
       "num": 383462,
       "word": "国旗护卫队人人自带混响",
@@ -11785,14 +11857,6 @@
       "onboard_time": 1727669960,
       "rank": 39,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 128702,
-      "num": 128702,
-      "word": "郑钦文张雨霏拥抱",
-      "onboard_time": 1728039739,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 128510,
@@ -12939,6 +13003,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 116270,
+      "num": 116270,
+      "word": "郑钦文连追4局扳平",
+      "onboard_time": 1728041598,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 116250,
       "num": 458632,
       "word": "专家称黄金周买房量会大增",
@@ -13537,14 +13609,6 @@
       "onboard_time": 1728003438,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 108601,
-      "num": 108601,
-      "word": "梁靖崑WTT晋级四强",
-      "onboard_time": 1728040579,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 108482,
@@ -15459,6 +15523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 74064,
+      "num": 217639,
+      "word": "志愿军188师1营大合照历史版本",
+      "onboard_time": 1728041418,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 73981,
       "num": 267424,
       "word": "朱一龙这一嗓子的穿透力",
@@ -15521,6 +15593,14 @@
       "onboard_time": 1727924178,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 72339,
+      "num": 112199,
+      "word": "浴火之路 我用什么把你留住",
+      "onboard_time": 1728041360,
+      "rank": 45,
+      "category": "电影"
     },
     {
       "raw_hot": 72335,
@@ -17755,6 +17835,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 23515,
+      "num": 639122,
+      "word": "探寻发展密码",
+      "onboard_time": 1728031278,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 23403,
       "num": 697751,
       "word": "每一位英雄烈士都是一座精神丰碑",
@@ -17801,6 +17889,14 @@
       "onboard_time": 1727546231,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 22559,
+      "num": 236027,
+      "word": "惠英红带家人香港探店",
+      "onboard_time": 1728041360,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 22488,
@@ -17944,14 +18040,6 @@
       "word": "黑燕窝商家面对索赔当场改名",
       "onboard_time": 1727683519,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 20803,
-      "num": 639122,
-      "word": "探寻发展密码",
-      "onboard_time": 1728031278,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -18361,6 +18449,14 @@
       "onboard_time": 1727998395,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 8417,
+      "num": 109140,
+      "word": "每一个女生都应该去骑行",
+      "onboard_time": 1728041539,
+      "rank": 49,
+      "category": "运动健身"
     }
   ],
   "hotgov_list": [
