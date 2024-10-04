@@ -1,6 +1,6 @@
 {
   "startTime": 1727972886536,
-  "endTime": 1728038519791,
+  "endTime": 1728040687959,
   "band_list": [
     {
       "raw_hot": 2490639,
@@ -41,6 +41,14 @@
       "onboard_time": 1728012258,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1067722,
+      "num": 509561,
+      "word": "假冒媒体岂是儿戏",
+      "onboard_time": 1728039439,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1063386,
@@ -99,6 +107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 857470,
+      "num": 502676,
+      "word": "男子与女友分手称我骗她钱她骗我色",
+      "onboard_time": 1728036559,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 838514,
       "num": 249362,
       "word": "堵车的源头竟是司机路边停车野餐",
@@ -132,11 +148,19 @@
     },
     {
       "raw_hot": 739917,
-      "num": 220139,
+      "num": 501423,
       "word": "全球富豪正逃离英国",
       "onboard_time": 1728034038,
       "rank": 30,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 720986,
+      "num": 1115357,
+      "word": "孙颖莎vs伊藤美诚",
+      "onboard_time": 1728037938,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 638674,
@@ -147,12 +171,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 632239,
+      "num": 632239,
+      "word": "梁靖崑vs林高远",
+      "onboard_time": 1728036858,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 624618,
       "num": 624618,
       "word": "马龙vs雨果",
       "onboard_time": 1728017118,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 622675,
+      "num": 622675,
+      "word": "当下买股票还是买房子",
+      "onboard_time": 1728036138,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 610645,
@@ -169,6 +209,14 @@
       "onboard_time": 1728027079,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 584537,
+      "num": 584537,
+      "word": "郑钦文vs安德列娃",
+      "onboard_time": 1728036439,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 571095,
@@ -220,10 +268,18 @@
     },
     {
       "raw_hot": 531445,
-      "num": 217607,
+      "num": 287106,
       "word": "丈夫给足球打气递给妻子时突然爆炸",
       "onboard_time": 1728033917,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 528603,
+      "num": 528603,
+      "word": "国庆婚庆市场爆了",
+      "onboard_time": 1728038418,
+      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -252,7 +308,7 @@
     },
     {
       "raw_hot": 515241,
-      "num": 216483,
+      "num": 402592,
       "word": "穆祉丞漫展集邮",
       "onboard_time": 1728036317,
       "rank": 12,
@@ -265,6 +321,14 @@
       "onboard_time": 1728010396,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 495149,
+      "num": 495149,
+      "word": "穆婷婷白月光回国",
+      "onboard_time": 1728039619,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 492168,
@@ -315,27 +379,11 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 437024,
-      "num": 437024,
-      "word": "当下买股票还是买房子",
-      "onboard_time": 1728036138,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 432147,
       "num": 432147,
       "word": "深圳395套房源8小时售罄",
       "onboard_time": 1728026538,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 395046,
-      "num": 202378,
-      "word": "男子与女友分手称我骗她钱她骗我色",
-      "onboard_time": 1728036559,
-      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -395,14 +443,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 376821,
-      "num": 376821,
-      "word": "郑钦文vs安德列娃",
-      "onboard_time": 1728036439,
-      "rank": 7,
-      "category": "体育"
-    },
-    {
       "raw_hot": 367136,
       "num": 234691,
       "word": "周冬雨宋仲基破次元同框",
@@ -451,6 +491,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 348425,
+      "num": 348425,
+      "word": "男子触电被3轮救援抢回一命",
+      "onboard_time": 1728036198,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 335570,
+      "num": 406700,
+      "word": "宋亚轩 真假live图",
+      "onboard_time": 1728036737,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 334445,
       "num": 726118,
       "word": "这不是特效是中国非遗表演",
@@ -481,6 +537,14 @@
       "onboard_time": 1728010818,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 324481,
+      "num": 324481,
+      "word": "英国偶遇孙怡",
+      "onboard_time": 1728039079,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 323793,
@@ -548,19 +612,11 @@
     },
     {
       "raw_hot": 297769,
-      "num": 195260,
+      "num": 246148,
       "word": "退休英语老师的新赛道",
       "onboard_time": 1728036798,
       "rank": 31,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 297231,
-      "num": 297231,
-      "word": "梁靖崑vs林高远",
-      "onboard_time": 1728036858,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 295802,
@@ -569,14 +625,6 @@
       "onboard_time": 1727968338,
       "rank": 13,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 292152,
-      "num": 201359,
-      "word": "宋亚轩 真假live图",
-      "onboard_time": 1728036737,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 290322,
@@ -731,6 +779,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 247580,
+      "num": 247580,
+      "word": "恋与深空 秦彻",
+      "onboard_time": 1728037518,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 247542,
       "num": 223276,
       "word": "胡冰卿开嗓这一下",
@@ -745,6 +801,14 @@
       "onboard_time": 1728012018,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 245553,
+      "num": 526337,
+      "word": "749局 拯救自己",
+      "onboard_time": 1728036678,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 245061,
@@ -883,14 +947,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 206744,
-      "num": 206744,
-      "word": "孙颖莎vs伊藤美诚",
-      "onboard_time": 1728037938,
-      "rank": 8,
-      "category": "体育"
-    },
-    {
       "raw_hot": 205198,
       "num": 205198,
       "word": "王曼昱4比1何卓佳",
@@ -987,6 +1043,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 195053,
+      "num": 522216,
+      "word": "时装周最热艺人前二十",
+      "onboard_time": 1728038479,
+      "rank": 48,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 194962,
       "num": 315707,
       "word": "国庆假期后半段你打算怎么过",
@@ -1001,6 +1065,14 @@
       "onboard_time": 1727967499,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 193947,
+      "num": 193947,
+      "word": "梁靖崑4比2林高远",
+      "onboard_time": 1728040159,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 192097,
@@ -1025,6 +1097,14 @@
       "onboard_time": 1728029538,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 184260,
+      "num": 184260,
+      "word": "王楚钦说打完了怎么喊都行",
+      "onboard_time": 1728038358,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 183514,
@@ -1065,14 +1145,6 @@
       "onboard_time": 1728019398,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 177521,
-      "num": 177521,
-      "word": "恋与深空 秦彻",
-      "onboard_time": 1728037518,
-      "rank": 29,
-      "category": "游戏"
     },
     {
       "raw_hot": 174800,
@@ -1227,6 +1299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 155590,
+      "num": 155590,
+      "word": "欧盟对华电动汽车征收反补贴税提议通过",
+      "onboard_time": 1728040397,
+      "rank": 28,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 154590,
       "num": 154590,
       "word": "以色列",
@@ -1265,14 +1345,6 @@
       "onboard_time": 1727962219,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 148812,
-      "num": 203974,
-      "word": "男子触电被3轮救援抢回一命",
-      "onboard_time": 1728036198,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 146933,
@@ -1411,6 +1483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 134179,
+      "num": 156830,
+      "word": "游客十一逃离人潮反向涌进县城",
+      "onboard_time": 1728036439,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 133822,
       "num": 133822,
       "word": "尤长靖队长综合排名第一",
@@ -1457,14 +1537,6 @@
       "onboard_time": 1727968760,
       "rank": 30,
       "category": "电影"
-    },
-    {
-      "raw_hot": 132399,
-      "num": 132399,
-      "word": "王楚钦说打完了怎么喊都行",
-      "onboard_time": 1728038358,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 131837,
@@ -1515,11 +1587,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 129096,
+      "num": 129096,
+      "word": "谢可寅音乐节新歌首唱",
+      "onboard_time": 1728039498,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 129082,
       "num": 129082,
       "word": "孙颖莎王艺迪女双进决赛",
       "onboard_time": 1728014299,
       "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 128702,
+      "num": 128702,
+      "word": "郑钦文张雨霏拥抱",
+      "onboard_time": 1728039739,
+      "rank": 38,
       "category": "体育"
     },
     {
@@ -1683,14 +1771,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 116814,
-      "num": 156830,
-      "word": "游客十一逃离人潮反向涌进县城",
-      "onboard_time": 1728036439,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 115897,
       "num": 115897,
       "word": "孙颖莎分享在家幸福日常",
@@ -1723,12 +1803,12 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 113198,
-      "num": 200119,
-      "word": "749局 拯救自己",
-      "onboard_time": 1728036678,
-      "rank": 28,
-      "category": "电影"
+      "raw_hot": 113117,
+      "num": 113117,
+      "word": "郑钦文首次交手安德列娃",
+      "onboard_time": 1728039018,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 112829,
@@ -1811,6 +1891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 108601,
+      "num": 108601,
+      "word": "梁靖崑WTT晋级四强",
+      "onboard_time": 1728040579,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 107811,
       "num": 107811,
       "word": "中国轮船40小时带80人安全撤离黎巴嫩",
@@ -1841,14 +1929,6 @@
       "onboard_time": 1727966001,
       "rank": 35,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 102639,
-      "num": 102639,
-      "word": "时装周最热艺人前二十",
-      "onboard_time": 1728038479,
-      "rank": 48,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 102127,
@@ -2160,6 +2240,14 @@
       "word": "烈士墓前一声声稚嫩的谢谢让人动容",
       "onboard_time": 1728022579,
       "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 71529,
+      "num": 514299,
+      "word": "楼市银十有望变金十",
+      "onboard_time": 1728040159,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -2532,7 +2620,7 @@
     },
     {
       "raw_hot": 20803,
-      "num": 399836,
+      "num": 639122,
       "word": "探寻发展密码",
       "onboard_time": 1728031278,
       "rank": 2,

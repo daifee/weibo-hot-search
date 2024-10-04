@@ -1,0 +1,410 @@
+{
+  "runTime": 1728040687959,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 720986,
+        "num": 1115357,
+        "word": "孙颖莎vs伊藤美诚",
+        "onboard_time": 1728037938,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 697960,
+        "num": 697960,
+        "word": "数学家初中抢交卷结果只考了18分",
+        "onboard_time": 1728033018,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20286,
+        "num": 639122,
+        "word": "探寻发展密码",
+        "onboard_time": 1728031278,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 632239,
+        "num": 632239,
+        "word": "梁靖崑vs林高远",
+        "onboard_time": 1728036858,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 622675,
+        "num": 622675,
+        "word": "当下买股票还是买房子",
+        "onboard_time": 1728036138,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 584537,
+        "num": 584537,
+        "word": "郑钦文vs安德列娃",
+        "onboard_time": 1728036439,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 528603,
+        "num": 528603,
+        "word": "国庆婚庆市场爆了",
+        "onboard_time": 1728038418,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245553,
+        "num": 526337,
+        "word": "749局 拯救自己",
+        "onboard_time": 1728036678,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 195053,
+        "num": 522216,
+        "word": "时装周最热艺人前二十",
+        "onboard_time": 1728038479,
+        "rank": 8,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 71529,
+        "num": 514299,
+        "word": "楼市银十有望变金十",
+        "onboard_time": 1728040159,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1067722,
+        "num": 509561,
+        "word": "假冒媒体岂是儿戏",
+        "onboard_time": 1728039439,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 857470,
+        "num": 502676,
+        "word": "男子与女友分手称我骗她钱她骗我色",
+        "onboard_time": 1728036559,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 501423,
+        "num": 501423,
+        "word": "全球富豪正逃离英国",
+        "onboard_time": 1728034038,
+        "rank": 12,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 495149,
+        "num": 495149,
+        "word": "穆婷婷白月光回国",
+        "onboard_time": 1728039619,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 335570,
+        "num": 406700,
+        "word": "宋亚轩 真假live图",
+        "onboard_time": 1728036737,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 402592,
+        "num": 402592,
+        "word": "穆祉丞漫展集邮",
+        "onboard_time": 1728036317,
+        "rank": 15,
+        "category": "动漫,艺人"
+      },
+      {
+        "raw_hot": 348425,
+        "num": 348425,
+        "word": "男子触电被3轮救援抢回一命",
+        "onboard_time": 1728036198,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 324481,
+        "num": 324481,
+        "word": "英国偶遇孙怡",
+        "onboard_time": 1728039079,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 287106,
+        "num": 287106,
+        "word": "丈夫给足球打气递给妻子时突然爆炸",
+        "onboard_time": 1728033917,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247580,
+        "num": 247580,
+        "word": "恋与深空 秦彻",
+        "onboard_time": 1728037518,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 356742,
+        "num": 246640,
+        "word": "起床后不叠被子的人赢了",
+        "onboard_time": 1728028937,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 334226,
+        "num": 246457,
+        "word": "一家人患病查出血液中老鼠药成分高",
+        "onboard_time": 1728019398,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254660,
+        "num": 246148,
+        "word": "退休英语老师的新赛道",
+        "onboard_time": 1728036798,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 244211,
+        "num": 244211,
+        "word": "王楚然 眼前一亮又一黑",
+        "onboard_time": 1728021918,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 218259,
+        "num": 218259,
+        "word": "穆婷婷希望大家追求自然地老去",
+        "onboard_time": 1728026717,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193947,
+        "num": 193947,
+        "word": "梁靖崑4比2林高远",
+        "onboard_time": 1728040159,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 184260,
+        "num": 184260,
+        "word": "王楚钦说打完了怎么喊都行",
+        "onboard_time": 1728038358,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 180808,
+        "num": 180808,
+        "word": "肖战白色套装",
+        "onboard_time": 1728034218,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155590,
+        "num": 155590,
+        "word": "欧盟对华电动汽车征收反补贴税提议通过",
+        "onboard_time": 1728040397,
+        "rank": 28,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 220648,
+        "num": 155557,
+        "word": "外地人打飞的赴深圳买房",
+        "onboard_time": 1728029179,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178938,
+        "num": 154853,
+        "word": "深圳395套房源8小时售罄",
+        "onboard_time": 1728026538,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153856,
+        "num": 153856,
+        "word": "迪丽热巴贺思慕新头饰",
+        "onboard_time": 1728038058,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151824,
+        "num": 151824,
+        "word": "多名大妈在机场休息厅开音响跳舞",
+        "onboard_time": 1728034160,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135891,
+        "num": 135891,
+        "word": "新疆小孩哥采访中惊出表情包",
+        "onboard_time": 1728023898,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134562,
+        "num": 134562,
+        "word": "肖凯文孙颖莎击掌",
+        "onboard_time": 1728033378,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134179,
+        "num": 134179,
+        "word": "游客十一逃离人潮反向涌进县城",
+        "onboard_time": 1728036439,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133560,
+        "num": 133560,
+        "word": "萨巴伦卡无缘中网四强",
+        "onboard_time": 1728037099,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129096,
+        "num": 129096,
+        "word": "谢可寅音乐节新歌首唱",
+        "onboard_time": 1728039498,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 128702,
+        "num": 128702,
+        "word": "郑钦文张雨霏拥抱",
+        "onboard_time": 1728039739,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114671,
+        "num": 114671,
+        "word": "堵车的源头竟是司机路边停车野餐",
+        "onboard_time": 1728026478,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114174,
+        "num": 114174,
+        "word": "猫的意思是这是她的床",
+        "onboard_time": 1728022757,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 113117,
+        "num": 113117,
+        "word": "郑钦文首次交手安德列娃",
+        "onboard_time": 1728039018,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111725,
+        "num": 111725,
+        "word": "张雨霏为郑钦文挑边",
+        "onboard_time": 1728029718,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108601,
+        "num": 108601,
+        "word": "梁靖崑WTT晋级四强",
+        "onboard_time": 1728040579,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107243,
+        "num": 107243,
+        "word": "杨鸣骂人用脸消音",
+        "onboard_time": 1728033198,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 104880,
+        "num": 104880,
+        "word": "肖凯文晒与王楚钦合照",
+        "onboard_time": 1728037157,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 99522,
+        "num": 99522,
+        "word": "姜潮承诺为麦迪娜补办婚礼",
+        "onboard_time": 1728027079,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 92941,
+        "num": 92941,
+        "word": "华晨宇听到左立喊他冷少的反应",
+        "onboard_time": 1728035598,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 65283,
+        "num": 92929,
+        "word": "密逃进盘丝洞这段笑癫了",
+        "onboard_time": 1728036737,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 58772,
+        "num": 92885,
+        "word": "志愿军欧豪朱亚文这条线好出彩",
+        "onboard_time": 1728034457,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记牵挂着老百姓山水间的幸福#"
+    }
+  }
+}
