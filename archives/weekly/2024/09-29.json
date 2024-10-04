@@ -1,6 +1,6 @@
 {
   "startTime": 1727540758074,
-  "endTime": 1728069551051,
+  "endTime": 1728070537481,
   "band_list": [
     {
       "raw_hot": 11925969,
@@ -18483,7 +18483,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 27792,
+      "raw_hot": 27807,
       "num": 37347,
       "word": "真主党可能存在以色列间谍渗透",
       "onboard_time": 1728066493,
@@ -18659,6 +18659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 25202,
+      "num": 30595,
+      "word": "下一战歌手第六期彩排直击",
+      "onboard_time": 1728068292,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 24848,
       "num": 320953,
       "word": "3年11幅世界名画被袭击",
@@ -18697,6 +18705,14 @@
       "onboard_time": 1727588657,
       "rank": 19,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 23794,
+      "num": 28810,
+      "word": "国庆入境游增速或将超出境游",
+      "onboard_time": 1728067873,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 23643,
@@ -18883,14 +18899,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 21762,
-      "num": 28810,
-      "word": "国庆入境游增速或将超出境游",
-      "onboard_time": 1728067873,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 21675,
       "num": 358612,
       "word": "万元打造高仿小游戏20天可上线",
@@ -18963,6 +18971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 20561,
+      "num": 45670,
+      "word": "底气来自强大的祖国",
+      "onboard_time": 1728064873,
+      "rank": 15,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 20321,
       "num": 231103,
       "word": "好日子的具象化",
@@ -19009,22 +19025,6 @@
       "onboard_time": 1727647452,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 19763,
-      "num": 30595,
-      "word": "下一战歌手第六期彩排直击",
-      "onboard_time": 1728068292,
-      "rank": 29,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 19660,
-      "num": 45670,
-      "word": "底气来自强大的祖国",
-      "onboard_time": 1728064873,
-      "rank": 15,
-      "category": "国内时政"
     },
     {
       "raw_hot": 19358,
@@ -19233,6 +19233,14 @@
       "onboard_time": 1727680820,
       "rank": 24,
       "category": "电影"
+    },
+    {
+      "raw_hot": 14576,
+      "num": 31629,
+      "word": "我的北京我的家",
+      "onboard_time": 1728069911,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 14553,
