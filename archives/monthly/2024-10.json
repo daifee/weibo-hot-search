@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1728027381188,
+  "endTime": 1728030500709,
   "band_list": [
     {
       "raw_hot": 11925969,
@@ -603,6 +603,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 838514,
+      "num": 179596,
+      "word": "堵车的源头竟是司机路边停车野餐",
+      "onboard_time": 1728026478,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 820854,
       "num": 334089,
       "word": "女子没钱产检并流产医生两次硬发红包",
@@ -752,6 +760,14 @@
       "word": "好了好了知道你在过国庆了",
       "onboard_time": 1727958020,
       "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 748069,
+      "num": 1119691,
+      "word": "起床后不叠被子的人赢了",
+      "onboard_time": 1728028937,
+      "rank": 0,
       "category": "社会新闻"
     },
     {
@@ -1169,6 +1185,14 @@
       "onboard_time": 1727968760,
       "rank": 14,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 587183,
+      "num": 172299,
+      "word": "姜潮承诺为麦迪娜补办婚礼",
+      "onboard_time": 1728027079,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 583774,
@@ -1803,6 +1827,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 432147,
+      "num": 432147,
+      "word": "深圳395套房源8小时售罄",
+      "onboard_time": 1728026538,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 429215,
       "num": 429215,
       "word": "周启豪3比2奥恰洛夫",
@@ -2385,6 +2417,14 @@
       "onboard_time": 1727738657,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 325711,
+      "num": 198178,
+      "word": "穆婷婷希望大家追求自然地老去",
+      "onboard_time": 1728026717,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 325216,
@@ -3307,6 +3347,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 247542,
+      "num": 164323,
+      "word": "胡冰卿开嗓这一下",
+      "onboard_time": 1728027618,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 247329,
       "num": 319442,
       "word": "时光音乐会",
@@ -3585,6 +3633,14 @@
       "onboard_time": 1727755637,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 232011,
+      "num": 232011,
+      "word": "李斯丹妮快女13年后首个常驻音综",
+      "onboard_time": 1728026659,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 231548,
@@ -4259,6 +4315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 197873,
+      "num": 196403,
+      "word": "三清山游客冷风中排队齐喊退票",
+      "onboard_time": 1728025219,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 197802,
       "num": 197802,
       "word": "桂花柿子冰茶",
@@ -4312,14 +4376,6 @@
       "word": "这一刻是属于中国人的浪漫",
       "onboard_time": 1727781798,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 196403,
-      "num": 196403,
-      "word": "三清山游客冷风中排队齐喊退票",
-      "onboard_time": 1728025219,
-      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -4651,6 +4707,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 188751,
+      "num": 160622,
+      "word": "张雨霏为郑钦文挑边",
+      "onboard_time": 1728029718,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 188313,
       "num": 284233,
       "word": "小布未来可期",
@@ -4705,6 +4769,14 @@
       "onboard_time": 1727837778,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 185666,
+      "num": 160296,
+      "word": "边牧 玩你如玩狗",
+      "onboard_time": 1728027799,
+      "rank": 27,
+      "category": "幽默"
     },
     {
       "raw_hot": 185651,
@@ -4905,14 +4977,6 @@
       "onboard_time": 1727856139,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 179596,
-      "num": 179596,
-      "word": "堵车的源头竟是司机路边停车野餐",
-      "onboard_time": 1728026478,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 179176,
@@ -5163,14 +5227,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 172299,
-      "num": 172299,
-      "word": "姜潮承诺为麦迪娜补办婚礼",
-      "onboard_time": 1728027079,
-      "rank": 29,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 171622,
       "num": 171622,
       "word": "王楚钦蓄势待发",
@@ -5347,6 +5403,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 165587,
+      "num": 199646,
+      "word": "港股飘红",
+      "onboard_time": 1728026179,
+      "rank": 18,
+      "category": "财经"
+    },
+    {
       "raw_hot": 165535,
       "num": 165535,
       "word": "749局剧情",
@@ -5361,6 +5425,14 @@
       "onboard_time": 1727786839,
       "rank": 31,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 164898,
+      "num": 164898,
+      "word": "男孩登上父亲牺牲时驾驶的同款直升机",
+      "onboard_time": 1728027979,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 164894,
@@ -5507,6 +5579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 160060,
+      "num": 160060,
+      "word": "外地人打飞的赴深圳买房",
+      "onboard_time": 1728029179,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 160016,
       "num": 160016,
       "word": "赵今麦刘浩存张元英官方认领图",
@@ -5619,6 +5699,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 158177,
+      "num": 158177,
+      "word": "姜潮回应恋爱脑",
+      "onboard_time": 1728030018,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 158109,
       "num": 158109,
       "word": "元气少女缘结神 最甜恋爱番",
@@ -5657,14 +5745,6 @@
       "onboard_time": 1727768778,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 157031,
-      "num": 207928,
-      "word": "李斯丹妮快女13年后首个常驻音综",
-      "onboard_time": 1728026659,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 156660,
@@ -6051,6 +6131,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 145887,
+      "num": 145887,
+      "word": "何炅一句话把李斯丹妮拉回快女时代",
+      "onboard_time": 1728029538,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 145553,
       "num": 145553,
       "word": "深圳全城万架无人机表演为祖国庆生",
@@ -6105,6 +6193,14 @@
       "onboard_time": 1727922077,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 144346,
+      "num": 144346,
+      "word": "Bin想成为Faker接班人",
+      "onboard_time": 1728026837,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 143976,
@@ -6185,6 +6281,14 @@
       "onboard_time": 1727859977,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 141627,
+      "num": 141627,
+      "word": "马龙提醒教练打卡下班",
+      "onboard_time": 1728029838,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 141509,
@@ -6563,6 +6667,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 133822,
+      "num": 133822,
+      "word": "尤长靖队长综合排名第一",
+      "onboard_time": 1728027677,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 133766,
       "num": 133766,
       "word": "TES签运",
@@ -6593,6 +6705,14 @@
       "onboard_time": 1727877500,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 133388,
+      "num": 133388,
+      "word": "原来这段间奏是王源写的",
+      "onboard_time": 1728028997,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 133373,
@@ -7115,6 +7235,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 123710,
+      "num": 123710,
+      "word": "杨洋章若楠骑马打戏路透",
+      "onboard_time": 1728027499,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 123585,
       "num": 508059,
       "word": "电影志愿军存亡之战",
@@ -7460,7 +7588,7 @@
     },
     {
       "raw_hot": 117170,
-      "num": 150758,
+      "num": 166533,
       "word": "有一种安全感叫祖国欢迎你回家",
       "onboard_time": 1728010818,
       "rank": 33,
@@ -7529,6 +7657,14 @@
       "onboard_time": 1727996954,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 115836,
+      "num": 115836,
+      "word": "国庆假期进度条过半",
+      "onboard_time": 1728027737,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 115494,
@@ -7651,6 +7787,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 112829,
+      "num": 112829,
+      "word": "王曼昱说半决赛没压力放开打",
+      "onboard_time": 1728028159,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 112560,
       "num": 112560,
       "word": "安陵容蛐蛐完了所有人",
@@ -7771,6 +7915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 109901,
+      "num": 109901,
+      "word": "第五人格赛事",
+      "onboard_time": 1728028278,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 109852,
       "num": 109852,
       "word": "潘玮柏二刷的杭州面馆1天卖千碗",
@@ -7801,14 +7953,6 @@
       "onboard_time": 1727842518,
       "rank": 9,
       "category": "财经"
-    },
-    {
-      "raw_hot": 109287,
-      "num": 109287,
-      "word": "Bin想成为Faker接班人",
-      "onboard_time": 1728026837,
-      "rank": 39,
-      "category": "电竞"
     },
     {
       "raw_hot": 109090,
@@ -8795,6 +8939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 85612,
+      "num": 165380,
+      "word": "起床立刻叠被子是给螨虫搭窝",
+      "onboard_time": 1728030257,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 85583,
       "num": 139475,
       "word": "鱼腥草啵啵奶茶",
@@ -8888,14 +9040,6 @@
       "word": "你的样子",
       "onboard_time": 1728008357,
       "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 83556,
-      "num": 207336,
-      "word": "深圳395套房源8小时售罄",
-      "onboard_time": 1728026538,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -9180,7 +9324,7 @@
     },
     {
       "raw_hot": 75310,
-      "num": 284409,
+      "num": 484206,
       "word": "清澈童声唱响我和我的祖国",
       "onboard_time": 1727964380,
       "rank": 8,
@@ -9425,14 +9569,6 @@
       "onboard_time": 1727770398,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 64285,
-      "num": 199646,
-      "word": "港股飘红",
-      "onboard_time": 1728026179,
-      "rank": 18,
-      "category": "财经"
     },
     {
       "raw_hot": 64147,
@@ -9705,6 +9841,14 @@
       "onboard_time": 1727841738,
       "rank": 17,
       "category": "财经"
+    },
+    {
+      "raw_hot": 55375,
+      "num": 165063,
+      "word": "景区回应游客拥挤齐喊退票",
+      "onboard_time": 1728028937,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 54665,
@@ -10403,14 +10547,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 31355,
-      "num": 198178,
-      "word": "穆婷婷希望大家追求自然地老去",
-      "onboard_time": 1728026717,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 31257,
       "num": 169347,
       "word": "阿云嘎说出入平安拍得特别压抑",
@@ -10961,6 +11097,14 @@
       "onboard_time": 1727761398,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 13580,
+      "num": 163345,
+      "word": "被志愿军战士的家国情怀感动到了",
+      "onboard_time": 1728030317,
+      "rank": 19,
+      "category": "电影"
     },
     {
       "raw_hot": 13432,

@@ -1,6 +1,6 @@
 {
   "startTime": 1727972886536,
-  "endTime": 1728027381188,
+  "endTime": 1728030500709,
   "band_list": [
     {
       "raw_hot": 2490639,
@@ -83,6 +83,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 838514,
+      "num": 179596,
+      "word": "堵车的源头竟是司机路边停车野餐",
+      "onboard_time": 1728026478,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 806381,
       "num": 1129020,
       "word": "新疆小孩哥采访中惊出表情包",
@@ -107,6 +115,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 748069,
+      "num": 1119691,
+      "word": "起床后不叠被子的人赢了",
+      "onboard_time": 1728028937,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 638674,
       "num": 288762,
       "word": "朋友圈已经失去活人感了",
@@ -121,6 +137,14 @@
       "onboard_time": 1728017118,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 587183,
+      "num": 172299,
+      "word": "姜潮承诺为麦迪娜补办婚礼",
+      "onboard_time": 1728027079,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 571095,
@@ -243,6 +267,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 432147,
+      "num": 432147,
+      "word": "深圳395套房源8小时售罄",
+      "onboard_time": 1728026538,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 394582,
       "num": 119908,
       "word": "黎巴嫩遭以色列空袭超15万人逃离",
@@ -353,6 +385,14 @@
       "onboard_time": 1728014719,
       "rank": 15,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 325711,
+      "num": 198178,
+      "word": "穆婷婷希望大家追求自然地老去",
+      "onboard_time": 1728026717,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 325216,
@@ -571,6 +611,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 247542,
+      "num": 164323,
+      "word": "胡冰卿开嗓这一下",
+      "onboard_time": 1728027618,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 247329,
       "num": 319442,
       "word": "时光音乐会",
@@ -609,6 +657,14 @@
       "onboard_time": 1728008238,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 232011,
+      "num": 232011,
+      "word": "李斯丹妮快女13年后首个常驻音综",
+      "onboard_time": 1728026659,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 228379,
@@ -723,19 +779,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 197873,
+      "num": 196403,
+      "word": "三清山游客冷风中排队齐喊退票",
+      "onboard_time": 1728025219,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 197049,
       "num": 163418,
       "word": "多名游客挤在黄山景区厕所过夜",
       "onboard_time": 1727957121,
       "rank": 20,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 196403,
-      "num": 196403,
-      "word": "三清山游客冷风中排队齐喊退票",
-      "onboard_time": 1728025219,
-      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -779,6 +835,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 188751,
+      "num": 160622,
+      "word": "张雨霏为郑钦文挑边",
+      "onboard_time": 1728029718,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 185666,
+      "num": 160296,
+      "word": "边牧 玩你如玩狗",
+      "onboard_time": 1728027799,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 183514,
       "num": 162993,
       "word": "贵州织金发生山体垮塌6人死亡",
@@ -800,14 +872,6 @@
       "word": "女司机高速上开40码被交警拦下",
       "onboard_time": 1728019398,
       "rank": 42,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 179596,
-      "num": 179596,
-      "word": "堵车的源头竟是司机路边停车野餐",
-      "onboard_time": 1728026478,
-      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -833,14 +897,6 @@
       "onboard_time": 1727964981,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 172299,
-      "num": 172299,
-      "word": "姜潮承诺为麦迪娜补办婚礼",
-      "onboard_time": 1728027079,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 171339,
@@ -875,6 +931,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 165587,
+      "num": 199646,
+      "word": "港股飘红",
+      "onboard_time": 1728026179,
+      "rank": 18,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 164898,
+      "num": 164898,
+      "word": "男孩登上父亲牺牲时驾驶的同款直升机",
+      "onboard_time": 1728027979,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 164630,
       "num": 240871,
       "word": "刘旸 人类小肠图解",
@@ -907,6 +979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 160060,
+      "num": 160060,
+      "word": "外地人打飞的赴深圳买房",
+      "onboard_time": 1728029179,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 158809,
       "num": 158809,
       "word": "祖国永远在我心上",
@@ -923,11 +1003,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 157031,
-      "num": 207928,
-      "word": "李斯丹妮快女13年后首个常驻音综",
-      "onboard_time": 1728026659,
-      "rank": 8,
+      "raw_hot": 158177,
+      "num": 158177,
+      "word": "姜潮回应恋爱脑",
+      "onboard_time": 1728030018,
+      "rank": 31,
       "category": "综艺"
     },
     {
@@ -979,12 +1059,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 145887,
+      "num": 145887,
+      "word": "何炅一句话把李斯丹妮拉回快女时代",
+      "onboard_time": 1728029538,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 144346,
+      "num": 144346,
+      "word": "Bin想成为Faker接班人",
+      "onboard_time": 1728026837,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 142086,
       "num": 290718,
       "word": "浴火之路无锡路演",
       "onboard_time": 1728015258,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 141627,
+      "num": 141627,
+      "word": "马龙提醒教练打卡下班",
+      "onboard_time": 1728029838,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 140477,
@@ -1051,12 +1155,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 133822,
+      "num": 133822,
+      "word": "尤长靖队长综合排名第一",
+      "onboard_time": 1728027677,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 133766,
       "num": 133766,
       "word": "TES签运",
       "onboard_time": 1728005657,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 133388,
+      "num": 133388,
+      "word": "原来这段间奏是王源写的",
+      "onboard_time": 1728028997,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 133257,
@@ -1179,6 +1299,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 123710,
+      "num": 123710,
+      "word": "杨洋章若楠骑马打戏路透",
+      "onboard_time": 1728027499,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 123052,
       "num": 123052,
       "word": "TES全员发博碰拳",
@@ -1236,7 +1364,7 @@
     },
     {
       "raw_hot": 117170,
-      "num": 150758,
+      "num": 166533,
       "word": "有一种安全感叫祖国欢迎你回家",
       "onboard_time": 1728010818,
       "rank": 33,
@@ -1249,6 +1377,14 @@
       "onboard_time": 1727996954,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 115836,
+      "num": 115836,
+      "word": "国庆假期进度条过半",
+      "onboard_time": 1728027737,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 115494,
@@ -1267,12 +1403,28 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 112829,
+      "num": 112829,
+      "word": "王曼昱说半决赛没压力放开打",
+      "onboard_time": 1728028159,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 110948,
       "num": 110948,
       "word": "范思琦4比3郑怡静",
       "onboard_time": 1728023718,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 109901,
+      "num": 109901,
+      "word": "第五人格赛事",
+      "onboard_time": 1728028278,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 109852,
@@ -1289,14 +1441,6 @@
       "onboard_time": 1728012137,
       "rank": 13,
       "category": "电影"
-    },
-    {
-      "raw_hot": 109287,
-      "num": 109287,
-      "word": "Bin想成为Faker接班人",
-      "onboard_time": 1728026837,
-      "rank": 39,
-      "category": "电竞"
     },
     {
       "raw_hot": 108882,
@@ -1483,6 +1627,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 85612,
+      "num": 165380,
+      "word": "起床立刻叠被子是给螨虫搭窝",
+      "onboard_time": 1728030257,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 85421,
       "num": 85421,
       "word": "游客在长沙走路都要排队",
@@ -1512,14 +1664,6 @@
       "word": "你的样子",
       "onboard_time": 1728008357,
       "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 83556,
-      "num": 207336,
-      "word": "深圳395套房源8小时售罄",
-      "onboard_time": 1728026538,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -1659,14 +1803,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 64285,
-      "num": 199646,
-      "word": "港股飘红",
-      "onboard_time": 1728026179,
-      "rank": 18,
-      "category": "财经"
-    },
-    {
       "raw_hot": 62770,
       "num": 61455,
       "word": "LNG战胜TL",
@@ -1739,6 +1875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 55375,
+      "num": 165063,
+      "word": "景区回应游客拥挤齐喊退票",
+      "onboard_time": 1728028937,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 54534,
       "num": 79257,
       "word": "B费连续两场红牌",
@@ -1769,6 +1913,14 @@
       "onboard_time": 1728014657,
       "rank": 16,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 53778,
+      "num": 161087,
+      "word": "浴火之路",
+      "onboard_time": 1728029119,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 52011,
@@ -1857,14 +2009,6 @@
       "onboard_time": 1727952199,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 31355,
-      "num": 198178,
-      "word": "穆婷婷希望大家追求自然地老去",
-      "onboard_time": 1728026717,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 31066,
@@ -1987,6 +2131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 13580,
+      "num": 163345,
+      "word": "被志愿军战士的家国情怀感动到了",
+      "onboard_time": 1728030317,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
       "raw_hot": 13170,
       "num": 224264,
       "word": "用不一样的视角看中国",
@@ -2039,6 +2191,14 @@
       "num": 274556,
       "word": "读懂中国75年发展密码",
       "onboard_time": 1727962759,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3483,
+      "num": 484206,
+      "word": "清澈童声唱响我和我的祖国",
+      "onboard_time": 1727964380,
       "rank": 2,
       "category": "社会新闻"
     }
