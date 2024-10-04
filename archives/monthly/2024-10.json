@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1728033814505,
+  "endTime": 1728034720303,
   "band_list": [
     {
       "raw_hot": 11925969,
@@ -563,6 +563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 872071,
+      "num": 1139531,
+      "word": "数学家初中抢交卷结果只考了18分",
+      "onboard_time": 1728033018,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 867926,
       "num": 408899,
       "word": "高速堵车 无人机叫醒",
@@ -1099,6 +1107,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 610645,
+      "num": 1092240,
+      "word": "外地人打飞的赴深圳买房",
+      "onboard_time": 1728029179,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 608309,
       "num": 478070,
       "word": "全红婵国庆节又回家带娃了",
@@ -1216,14 +1232,6 @@
       "word": "夫妻在广州看房不到3小时下定金",
       "onboard_time": 1727967139,
       "rank": 3,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 576500,
-      "num": 1092240,
-      "word": "外地人打飞的赴深圳买房",
-      "onboard_time": 1728029179,
-      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -2171,6 +2179,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 366409,
+      "num": 186756,
+      "word": "肖凯文孙颖莎击掌",
+      "onboard_time": 1728033378,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 365198,
       "num": 312265,
       "word": "虞书欣古装簪花",
@@ -2932,7 +2948,7 @@
     },
     {
       "raw_hot": 280286,
-      "num": 176911,
+      "num": 180612,
       "word": "王菊新剧分手这段哭死",
       "onboard_time": 1728032058,
       "rank": 15,
@@ -3859,12 +3875,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 222216,
+      "num": 177096,
+      "word": "杨鸣骂人用脸消音",
+      "onboard_time": 1728033198,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 221959,
       "num": 229378,
       "word": "为什么我们越休息越累",
       "onboard_time": 1728012378,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 221873,
+      "num": 147554,
+      "word": "全球富豪正逃离英国",
+      "onboard_time": 1728034038,
+      "rank": 30,
+      "category": "国外时政"
     },
     {
       "raw_hot": 221100,
@@ -4483,14 +4515,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 195397,
-      "num": 156891,
-      "word": "肖凯文孙颖莎击掌",
-      "onboard_time": 1728033378,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 194962,
       "num": 315707,
       "word": "国庆假期后半段你打算怎么过",
@@ -5035,14 +5059,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 179811,
-      "num": 179811,
-      "word": "数学家初中抢交卷结果只考了18分",
-      "onboard_time": 1728033018,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 179681,
       "num": 179681,
       "word": "许凯陈哲远互摸腹肌",
@@ -5427,6 +5443,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 167485,
+      "num": 146759,
+      "word": "小钰cos泽丽",
+      "onboard_time": 1728033198,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 167466,
       "num": 306545,
       "word": "广州有楼盘卖1套房奖销售80万",
@@ -5771,14 +5795,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 158237,
-      "num": 158237,
-      "word": "杨鸣骂人用脸消音",
-      "onboard_time": 1728033198,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 158109,
       "num": 158109,
       "word": "元气少女缘结神 最甜恋爱番",
@@ -6019,6 +6035,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 151013,
+      "num": 151013,
+      "word": "庆怜是哥哥们的玩具吗",
+      "onboard_time": 1728033798,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 150942,
       "num": 251475,
       "word": "一文读懂医保统筹支付和自付自费",
@@ -6123,6 +6147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 148078,
+      "num": 196661,
+      "word": "丈夫给足球打气递给妻子时突然爆炸",
+      "onboard_time": 1728033917,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 146933,
       "num": 146933,
       "word": "郑钦文对阵17岁新星冲四强",
@@ -6177,6 +6209,14 @@
       "onboard_time": 1727840418,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 146179,
+      "num": 146179,
+      "word": "肖战白色套装",
+      "onboard_time": 1728034218,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 146114,
@@ -6273,14 +6313,6 @@
       "onboard_time": 1727795060,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 143653,
-      "num": 143653,
-      "word": "小钰cos泽丽",
-      "onboard_time": 1728033198,
-      "rank": 32,
-      "category": "电竞"
     },
     {
       "raw_hot": 143555,
@@ -7355,6 +7387,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 122785,
+      "num": 122785,
+      "word": "TTG对战LGDNBW",
+      "onboard_time": 1728034398,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 122231,
       "num": 122231,
       "word": "周深巡回演唱会",
@@ -8019,6 +8059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 110011,
+      "num": 262727,
+      "word": "被外国游客反向种草国内游了",
+      "onboard_time": 1728032418,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 109901,
       "num": 109901,
       "word": "第五人格赛事",
@@ -8216,6 +8264,14 @@
       "word": "孙颖莎王艺迪女双4强",
       "onboard_time": 1727951838,
       "rank": 16,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 106990,
+      "num": 106990,
+      "word": "马龙提醒观众别乱喊",
+      "onboard_time": 1728034398,
+      "rank": 48,
       "category": "体育"
     },
     {
@@ -8523,6 +8579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 101289,
+      "num": 101289,
+      "word": "多名大妈在机场休息厅开音响跳舞",
+      "onboard_time": 1728034160,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 101225,
       "num": 101225,
       "word": "我爱你中国在这一刻具象了",
@@ -8755,14 +8819,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 96168,
-      "num": 180261,
-      "word": "被外国游客反向种草国内游了",
-      "onboard_time": 1728032418,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 96104,
       "num": 96104,
       "word": "男生拍照五星红旗突然给了个拥抱",
@@ -8809,14 +8865,6 @@
       "onboard_time": 1727940438,
       "rank": 13,
       "category": "体育"
-    },
-    {
-      "raw_hot": 95460,
-      "num": 95460,
-      "word": "庆怜是哥哥们的玩具吗",
-      "onboard_time": 1728033798,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 95450,
@@ -9595,6 +9643,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 70236,
+      "num": 156891,
+      "word": "恒生指数两年半新高",
+      "onboard_time": 1728033798,
+      "rank": 29,
+      "category": "财经"
+    },
+    {
       "raw_hot": 70014,
       "num": 84313,
       "word": "南京的国庆氛围感拉满",
@@ -9617,6 +9673,14 @@
       "onboard_time": 1727867419,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 69269,
+      "num": 177616,
+      "word": "为什么天一冷就想赖床",
+      "onboard_time": 1728032779,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 69216,
@@ -9995,14 +10059,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 54617,
-      "num": 177616,
-      "word": "为什么天一冷就想赖床",
-      "onboard_time": 1728032779,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 54534,
       "num": 79257,
       "word": "B费连续两场红牌",
@@ -10073,6 +10129,14 @@
       "onboard_time": 1727950820,
       "rank": 14,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 51594,
+      "num": 169803,
+      "word": "志愿军欧豪朱亚文这条线好出彩",
+      "onboard_time": 1728034457,
+      "rank": 21,
+      "category": "电影"
     },
     {
       "raw_hot": 51041,
@@ -10185,6 +10249,14 @@
       "onboard_time": 1727820793,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 46885,
+      "num": 121288,
+      "word": "爆款好人无论何时都要充满passion",
+      "onboard_time": 1728034578,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 46217,
@@ -11345,14 +11417,6 @@
       "onboard_time": 1727998395,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 5799,
-      "num": 156891,
-      "word": "恒生指数两年半新高",
-      "onboard_time": 1728033798,
-      "rank": 29,
-      "category": "财经"
     }
   ],
   "hotgov_list": [
