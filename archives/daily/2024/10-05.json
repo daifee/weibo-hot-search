@@ -1,6 +1,6 @@
 {
   "startTime": 1728059303809,
-  "endTime": 1728059303809,
+  "endTime": 1728060259100,
   "band_list": [
     {
       "raw_hot": 927616,
@@ -43,6 +43,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 282896,
+      "num": 282896,
+      "word": "花少团出国了但没完全出",
+      "onboard_time": 1728057018,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 266044,
       "num": 242673,
       "word": "黄晓明发文告别中餐厅8",
@@ -59,12 +67,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 244819,
-      "num": 244819,
-      "word": "花少团出国了但没完全出",
-      "onboard_time": 1728057018,
-      "rank": 3,
-      "category": "综艺"
+      "raw_hot": 247553,
+      "num": 188615,
+      "word": "肖战白色套装",
+      "onboard_time": 1728034218,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 242663,
@@ -81,14 +89,6 @@
       "onboard_time": 1728053360,
       "rank": 16,
       "category": "演出"
-    },
-    {
-      "raw_hot": 188615,
-      "num": 188615,
-      "word": "肖战白色套装",
-      "onboard_time": 1728034218,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 173175,
@@ -123,7 +123,7 @@
       "category": "电影"
     },
     {
-      "raw_hot": 141555,
+      "raw_hot": 146078,
       "num": 244612,
       "word": "伊藤美诚说想赢孙颖莎一分都很难",
       "onboard_time": 1728047781,
@@ -163,20 +163,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 124491,
+      "num": 188480,
+      "word": "郑钦文再获32.5万美元奖金",
+      "onboard_time": 1728054439,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 123628,
       "num": 188494,
       "word": "33岁中国男子涉嫌用热咖啡泼伤婴儿后出逃",
       "onboard_time": 1728041059,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 123203,
-      "num": 188480,
-      "word": "郑钦文再获32.5万美元奖金",
-      "onboard_time": 1728054439,
-      "rank": 26,
-      "category": "体育"
     },
     {
       "raw_hot": 121674,
@@ -235,7 +235,15 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 89455,
+      "raw_hot": 93202,
+      "num": 188329,
+      "word": "孙佳俊去看陈奕迅演唱会了",
+      "onboard_time": 1728057618,
+      "rank": 36,
+      "category": "体育,演出"
+    },
+    {
+      "raw_hot": 92371,
       "num": 188356,
       "word": "伊朗袭击以色列前检查导弹画面首公开",
       "onboard_time": 1728042499,
@@ -243,7 +251,23 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 86753,
+      "raw_hot": 91242,
+      "num": 150722,
+      "word": "景区回应多名游客被挂在半空",
+      "onboard_time": 1728059057,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 90324,
+      "num": 188231,
+      "word": "披荆斩棘",
+      "onboard_time": 1728058878,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 87899,
       "num": 188450,
       "word": "东莞草莓音乐节",
       "onboard_time": 1728056000,
@@ -259,12 +283,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 83193,
-      "num": 188329,
-      "word": "孙佳俊去看陈奕迅演唱会了",
-      "onboard_time": 1728057618,
-      "rank": 36,
-      "category": "体育,演出"
+      "raw_hot": 83284,
+      "num": 188211,
+      "word": "国庆婚庆市场爆了",
+      "onboard_time": 1728038418,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 82842,
+      "num": 188295,
+      "word": "伯远MAMA舞台",
+      "onboard_time": 1728045679,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 81840,
@@ -273,14 +305,6 @@
       "onboard_time": 1728050480,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 81293,
-      "num": 188295,
-      "word": "伯远MAMA舞台",
-      "onboard_time": 1728045679,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 81230,
@@ -307,20 +331,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 74796,
-      "num": 188231,
-      "word": "披荆斩棘",
-      "onboard_time": 1728058878,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 72732,
-      "num": 188211,
-      "word": "国庆婚庆市场爆了",
-      "onboard_time": 1728038418,
-      "rank": 43,
-      "category": "社会新闻"
+      "raw_hot": 74465,
+      "num": 150587,
+      "word": "李兰迪 练仪态就拍古装大婚戏吧",
+      "onboard_time": 1728048259,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 72044,
@@ -337,6 +353,14 @@
       "onboard_time": 1728045439,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 63178,
+      "num": 150392,
+      "word": "年轻人假期整顿婚礼",
+      "onboard_time": 1728059477,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 62434,
@@ -371,7 +395,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 52389,
+      "raw_hot": 59320,
       "num": 188584,
       "word": "87岁院士仍活跃在数学教研一线",
       "onboard_time": 1728057679,
@@ -395,11 +419,27 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 28296,
+      "num": 150622,
+      "word": "自驾川西遇大量落石众人自发清理",
+      "onboard_time": 1728059957,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 26821,
       "num": 245580,
       "word": "非遗真是凭实力圈粉",
       "onboard_time": 1728050720,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 19767,
+      "num": 150762,
+      "word": "机场回应多名大妈在休息厅开音响跳舞",
+      "onboard_time": 1728060136,
+      "rank": 29,
       "category": "社会新闻"
     }
   ],
