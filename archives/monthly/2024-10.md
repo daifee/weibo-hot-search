@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/10/01 00:28:17 ~ 2024/10/05 06:20:28
+本榜单时间：2024/10/01 00:28:17 ~ 2024/10/05 06:38:44
 </p>
 </blockquote>
 <p>
@@ -5253,6 +5253,12 @@ tfing音乐厂牌公式照（热度：158634）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%8E%A5%E5%88%B0%E5%84%BF%E5%AD%90%E8%A2%AB%E6%8A%93%E7%94%B5%E8%AF%9D30%E4%B8%87%E9%99%A9%E4%BA%9B%E9%80%81%E7%BB%99%E9%AA%97%E5%AD%90%23" target="weibo">
+接到儿子被抓电话30万险些送给骗子（热度：147370）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A2%81%E9%9D%96%E5%B4%91%E5%9B%9E%E5%BA%94%E5%8F%8C%E7%94%9C%E7%BB%84%E5%90%88%E7%BD%91%E5%90%8D%23" target="weibo">
 梁靖崑回应双甜组合网名（热度：147093）
 </a>
@@ -6005,12 +6011,6 @@ BLG瑞士轮开门红（热度：133234）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%95%E5%8D%93%E4%BD%B3vs%E7%BA%B5%E6%AD%8C%E6%9B%BC%23" target="weibo">
 何卓佳vs纵歌曼（热度：130399）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%B2%B8%E7%94%B0%E5%86%85%E9%98%81%E5%AE%A3%E5%B8%83%E9%9B%86%E4%BD%93%E8%BE%9E%E8%81%8C%23" target="weibo">
-日本岸田内阁宣布集体辞职（热度：130242）
 </a>
 </li>
 

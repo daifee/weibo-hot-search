@@ -1,0 +1,410 @@
+{
+  "runTime": 1728081524295,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 265515,
+        "num": 475885,
+        "word": "太阳爆发7年来最强耀斑",
+        "onboard_time": 1728055039,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202808,
+        "num": 202808,
+        "word": "机场回应多名大妈在休息厅开音响跳舞",
+        "onboard_time": 1728060136,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3877,
+        "num": 167070,
+        "word": "国庆入境游增速将超过出境游",
+        "onboard_time": 1728049940,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147370,
+        "num": 147370,
+        "word": "接到儿子被抓电话30万险些送给骗子",
+        "onboard_time": 1728078371,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 87972,
+        "num": 87972,
+        "word": "年轻人假期整顿婚礼",
+        "onboard_time": 1728059477,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 81979,
+        "num": 81979,
+        "word": "中方必将采取一切措施维护中国企业利益",
+        "onboard_time": 1728051080,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 61285,
+        "num": 61285,
+        "word": "国庆婚庆市场爆了",
+        "onboard_time": 1728038418,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 52034,
+        "num": 52034,
+        "word": "花少团出国了但没完全出",
+        "onboard_time": 1728057018,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 40409,
+        "num": 51912,
+        "word": "749局细思极恐",
+        "onboard_time": 1728047539,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 13319,
+        "num": 51609,
+        "word": "钱七虎追光演讲",
+        "onboard_time": 1728080771,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224240,
+        "num": 51477,
+        "word": "景区回应多名游客被挂在半空",
+        "onboard_time": 1728059057,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177966,
+        "num": 51268,
+        "word": "郑钦文再获32.5万美元奖金",
+        "onboard_time": 1728054439,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119092,
+        "num": 51055,
+        "word": "女子高速上40码龟速行驶被训",
+        "onboard_time": 1728053302,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102058,
+        "num": 50753,
+        "word": "33岁中国男子涉嫌用热咖啡泼伤婴儿后出逃",
+        "onboard_time": 1728041059,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 76335,
+        "num": 50528,
+        "word": "伊朗袭击以色列前检查导弹画面首公开",
+        "onboard_time": 1728042499,
+        "rank": 14,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 65609,
+        "num": 50258,
+        "word": "入住酒店民宿这样排查隐藏摄像头",
+        "onboard_time": 1728055458,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 59255,
+        "num": 50082,
+        "word": "肖战白色套装",
+        "onboard_time": 1728034218,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 49967,
+        "num": 49967,
+        "word": "李兰迪 练仪态就拍古装大婚戏吧",
+        "onboard_time": 1728048259,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 47143,
+        "num": 47143,
+        "word": "穆婷婷白月光回国",
+        "onboard_time": 1728039619,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 43670,
+        "num": 46992,
+        "word": "张雨霏差点被郑钦文的球砸中",
+        "onboard_time": 1728047660,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115631,
+        "num": 46987,
+        "word": "为什么劝你千万别乱借共享充电宝",
+        "onboard_time": 1728061155,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 57376,
+        "num": 46984,
+        "word": "起床后不叠被子的人赢了",
+        "onboard_time": 1728028937,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46935,
+        "num": 46935,
+        "word": "伊朗以色列军事力量对比",
+        "onboard_time": 1728049940,
+        "rank": 22,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 46392,
+        "num": 46392,
+        "word": "假冒媒体岂是儿戏",
+        "onboard_time": 1728039439,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 44642,
+        "num": 44642,
+        "word": "女子遇假警察电诈时真警察来了",
+        "onboard_time": 1728078731,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41814,
+        "num": 41814,
+        "word": "郑钦文打心底把张雨霏当朋友",
+        "onboard_time": 1728054379,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 37550,
+        "num": 37550,
+        "word": "伊藤美诚说想赢孙颖莎一分都很难",
+        "onboard_time": 1728047781,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 36812,
+        "num": 36812,
+        "word": "赵丽颖的手差点没捂住张百乔的嘴",
+        "onboard_time": 1728046220,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 29052,
+        "num": 36791,
+        "word": "这两天的笑点是向佐给的",
+        "onboard_time": 1728053480,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 26097,
+        "num": 36789,
+        "word": "半熟男女 想给男生擦眼泪那是母爱",
+        "onboard_time": 1728047060,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 36789,
+        "num": 36788,
+        "word": "蚊子包下不去女生直接用针扎",
+        "onboard_time": 1728044898,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 35585,
+        "num": 35585,
+        "word": "不计划不赶热闹不打卡的旅游太爽了",
+        "onboard_time": 1728080352,
+        "rank": 31,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 34148,
+        "num": 34148,
+        "word": "上海放宽应届生身份认定标准",
+        "onboard_time": 1728041839,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32979,
+        "num": 32979,
+        "word": "国庆人人人你人人人名场面",
+        "onboard_time": 1728075972,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31468,
+        "num": 32978,
+        "word": "这个拥抱让家国相依具象化了",
+        "onboard_time": 1728076332,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31076,
+        "num": 32969,
+        "word": "有种反向旅游叫捡秋",
+        "onboard_time": 1728062654,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30490,
+        "num": 32966,
+        "word": "真主党可能存在以色列间谍渗透",
+        "onboard_time": 1728066493,
+        "rank": 36,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 28900,
+        "num": 32956,
+        "word": "LNG战胜BLG",
+        "onboard_time": 1728046339,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 28771,
+        "num": 32951,
+        "word": "何洁叛逆被化妆师记了快20年",
+        "onboard_time": 1728056958,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28378,
+        "num": 32951,
+        "word": "必须坚持人民至上",
+        "onboard_time": 1728056240,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 28250,
+        "num": 32945,
+        "word": "父母天安门广场见证儿子升国旗",
+        "onboard_time": 1728074111,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27554,
+        "num": 32937,
+        "word": "周震南晚安大小姐",
+        "onboard_time": 1728064693,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 27375,
+        "num": 32930,
+        "word": "蒯曼林诗栋混双冠军",
+        "onboard_time": 1728049340,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 26368,
+        "num": 32923,
+        "word": "美国9月非农就业数据",
+        "onboard_time": 1728047240,
+        "rank": 43,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 25690,
+        "num": 32923,
+        "word": "87岁院士仍活跃在数学教研一线",
+        "onboard_time": 1728057679,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24622,
+        "num": 32918,
+        "word": "WBG战胜TL",
+        "onboard_time": 1728057679,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 24565,
+        "num": 32907,
+        "word": "孙佳俊去看陈奕迅演唱会了",
+        "onboard_time": 1728057618,
+        "rank": 46,
+        "category": "体育,演出"
+      },
+      {
+        "raw_hot": 23565,
+        "num": 32907,
+        "word": "为帮国家破难题他6次带队深入油田",
+        "onboard_time": 1728062534,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22517,
+        "num": 32898,
+        "word": "原来巨嘴鸟是这样喝水的",
+        "onboard_time": 1728081373,
+        "rank": 48,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 15390,
+        "num": 32893,
+        "word": "下一战歌手",
+        "onboard_time": 1728045920,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#必须坚持人民至上#"
+    }
+  }
+}

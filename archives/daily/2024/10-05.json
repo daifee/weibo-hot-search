@@ -1,6 +1,6 @@
 {
   "startTime": 1728059303809,
-  "endTime": 1728080428481,
+  "endTime": 1728081524295,
   "band_list": [
     {
       "raw_hot": 927616,
@@ -115,6 +115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 177966,
+      "num": 188480,
+      "word": "郑钦文再获32.5万美元奖金",
+      "onboard_time": 1728054439,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 173175,
       "num": 244740,
       "word": "749局细思极恐",
@@ -147,12 +155,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 148660,
-      "num": 188480,
-      "word": "郑钦文再获32.5万美元奖金",
-      "onboard_time": 1728054439,
-      "rank": 26,
-      "category": "体育"
+      "raw_hot": 147370,
+      "num": 147370,
+      "word": "接到儿子被抓电话30万险些送给骗子",
+      "onboard_time": 1728078371,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 146078,
@@ -291,6 +299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 87972,
+      "num": 150392,
+      "word": "年轻人假期整顿婚礼",
+      "onboard_time": 1728059477,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 84748,
       "num": 188341,
       "word": "张雨霏 MY SHERO",
@@ -371,28 +387,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 71676,
-      "num": 71676,
-      "word": "接到儿子被抓电话30万险些送给骗子",
-      "onboard_time": 1728078371,
-      "rank": 3,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 68968,
       "num": 188176,
       "word": "向鹏18比20",
       "onboard_time": 1728045439,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 63178,
-      "num": 150392,
-      "word": "年轻人假期整顿婚礼",
-      "onboard_time": 1728059477,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 62434,
@@ -507,6 +507,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 44642,
+      "num": 49243,
+      "word": "女子遇假警察电诈时真警察来了",
+      "onboard_time": 1728078731,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 41052,
       "num": 92215,
       "word": "宋亚轩低U透视内搭",
@@ -523,15 +531,23 @@
       "category": "演出"
     },
     {
-      "raw_hot": 29075,
-      "num": 29075,
+      "raw_hot": 35585,
+      "num": 35585,
       "word": "不计划不赶热闹不打卡的旅游太爽了",
       "onboard_time": 1728080352,
       "rank": 34,
       "category": "旅游"
     },
     {
-      "raw_hot": 28743,
+      "raw_hot": 32979,
+      "num": 32979,
+      "word": "国庆人人人你人人人名场面",
+      "onboard_time": 1728075972,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 31076,
       "num": 155780,
       "word": "有种反向旅游叫捡秋",
       "onboard_time": 1728062654,
@@ -539,15 +555,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 28296,
-      "num": 150622,
-      "word": "自驾川西遇大量落石众人自发清理",
-      "onboard_time": 1728059957,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 27807,
+      "raw_hot": 30490,
       "num": 37347,
       "word": "真主党可能存在以色列间谍渗透",
       "onboard_time": 1728066493,
@@ -555,11 +563,11 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 27250,
-      "num": 27250,
-      "word": "国庆人人人你人人人名场面",
-      "onboard_time": 1728075972,
-      "rank": 21,
+      "raw_hot": 28296,
+      "num": 150622,
+      "word": "自驾川西遇大量落石众人自发清理",
+      "onboard_time": 1728059957,
+      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -595,7 +603,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 22582,
+      "raw_hot": 23565,
       "num": 92737,
       "word": "为帮国家破难题他6次带队深入油田",
       "onboard_time": 1728062534,
@@ -603,12 +611,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 22533,
-      "num": 49243,
-      "word": "女子遇假警察电诈时真警察来了",
-      "onboard_time": 1728078731,
-      "rank": 9,
-      "category": "社会新闻"
+      "raw_hot": 22517,
+      "num": 32898,
+      "word": "原来巨嘴鸟是这样喝水的",
+      "onboard_time": 1728081373,
+      "rank": 48,
+      "category": "科学科普"
     },
     {
       "raw_hot": 22188,
@@ -660,10 +668,18 @@
     },
     {
       "raw_hot": 13648,
-      "num": 121596,
+      "num": 167070,
       "word": "国庆入境游增速将超过出境游",
       "onboard_time": 1728049940,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 13319,
+      "num": 51609,
+      "word": "钱七虎追光演讲",
+      "onboard_time": 1728080771,
+      "rank": 9,
       "category": "社会新闻"
     }
   ],
