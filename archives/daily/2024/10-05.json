@@ -1,6 +1,6 @@
 {
   "startTime": 1728059303809,
-  "endTime": 1728067407774,
+  "endTime": 1728069551051,
   "band_list": [
     {
       "raw_hot": 927616,
@@ -355,6 +355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 73295,
+      "num": 45460,
+      "word": "周震南晚安大小姐",
+      "onboard_time": 1728064693,
+      "rank": 21,
+      "category": "演出"
+    },
+    {
       "raw_hot": 72044,
       "num": 188198,
       "word": "王楚钦说打完了怎么喊都行",
@@ -401,14 +409,6 @@
       "onboard_time": 1728056240,
       "rank": 47,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 61002,
-      "num": 45460,
-      "word": "周震南晚安大小姐",
-      "onboard_time": 1728064693,
-      "rank": 21,
-      "category": "演出"
     },
     {
       "raw_hot": 60387,
@@ -515,20 +515,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 27792,
+      "num": 37347,
+      "word": "真主党可能存在以色列间谍渗透",
+      "onboard_time": 1728066493,
+      "rank": 42,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 26821,
       "num": 245580,
       "word": "非遗真是凭实力圈粉",
       "onboard_time": 1728050720,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 26619,
-      "num": 37347,
-      "word": "真主党可能存在以色列间谍渗透",
-      "onboard_time": 1728066493,
-      "rank": 42,
-      "category": "国外时政"
     },
     {
       "raw_hot": 22582,
@@ -547,6 +547,30 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 21762,
+      "num": 28810,
+      "word": "国庆入境游增速或将超出境游",
+      "onboard_time": 1728067873,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 20237,
+      "num": 38002,
+      "word": "自黎撤离中国公民一路上都很放心",
+      "onboard_time": 1728065713,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 19763,
+      "num": 30595,
+      "word": "下一战歌手第六期彩排直击",
+      "onboard_time": 1728068292,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 19660,
       "num": 45670,
       "word": "底气来自强大的祖国",
@@ -555,19 +579,19 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 19052,
-      "num": 37417,
-      "word": "自黎撤离中国公民一路上都很放心",
-      "onboard_time": 1728065713,
-      "rank": 29,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 18095,
       "num": 42960,
       "word": "献给所有挺起中国脊梁的人",
       "onboard_time": 1728065112,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 14553,
+      "num": 28811,
+      "word": "这门古老的艺术在23年前华丽转身",
+      "onboard_time": 1728069372,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
