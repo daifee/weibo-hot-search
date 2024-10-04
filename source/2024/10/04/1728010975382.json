@@ -1,0 +1,410 @@
+{
+  "runTime": 1728010975382,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 512510,
+        "num": 1082001,
+        "word": "在黎滞留11天华人绝望中等到了中国轮船",
+        "onboard_time": 1728001937,
+        "rank": 0,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 434839,
+        "num": 434839,
+        "word": "年轻人错峰游整顿黄金周",
+        "onboard_time": 1728003497,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 5418,
+        "num": 341524,
+        "word": "大型纪录片为了新中国",
+        "onboard_time": 1727962460,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 288080,
+        "num": 288080,
+        "word": "北京中轴线的中是中国的中",
+        "onboard_time": 1728004217,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274770,
+        "num": 274770,
+        "word": "69名中国公民40小时撤出黎巴嫩全记录",
+        "onboard_time": 1728003078,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 244317,
+        "num": 244317,
+        "word": "长沙坡子街派出所成热门打卡地",
+        "onboard_time": 1727975895,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187920,
+        "num": 243900,
+        "word": "中国海警首次进北冰洋意味着什么",
+        "onboard_time": 1728003318,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171759,
+        "num": 241493,
+        "word": "国庆假期第四天",
+        "onboard_time": 1728008238,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166882,
+        "num": 240098,
+        "word": "中国的几何美学惊艳了",
+        "onboard_time": 1728000797,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147361,
+        "num": 237127,
+        "word": "这个中国女团太美太飒",
+        "onboard_time": 1728010396,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1406810,
+        "num": 235304,
+        "word": "中介劝房东不要情绪波动",
+        "onboard_time": 1728008477,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 992113,
+        "num": 233609,
+        "word": "官方回应停车7小时被收费217.5元",
+        "onboard_time": 1728008238,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 539836,
+        "num": 231921,
+        "word": "马龙呼吁网友别过分吹捧",
+        "onboard_time": 1728003318,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 385654,
+        "num": 229919,
+        "word": "上海有二手房涨价百万",
+        "onboard_time": 1728008718,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 256686,
+        "num": 229263,
+        "word": "乌方讨论用土地换入约",
+        "onboard_time": 1728003497,
+        "rank": 14,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 255781,
+        "num": 227464,
+        "word": "赵丽颖主演电影票房破50亿",
+        "onboard_time": 1728006559,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 245346,
+        "num": 224033,
+        "word": "周冬雨宋仲基破次元同框",
+        "onboard_time": 1727997676,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 223951,
+        "num": 223951,
+        "word": "中方警告一场全面战争一触即发",
+        "onboard_time": 1727946619,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 204278,
+        "num": 204278,
+        "word": "王一博 石猴出世",
+        "onboard_time": 1727971339,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150154,
+        "num": 203478,
+        "word": "日本新外相回应石破茂内阁亲中亲韩",
+        "onboard_time": 1727999055,
+        "rank": 19,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 574085,
+        "num": 203432,
+        "word": "朋友圈已经失去活人感了",
+        "onboard_time": 1727999537,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 202879,
+        "num": 202879,
+        "word": "没想到一句话让我妈认可男朋友",
+        "onboard_time": 1728007397,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 195431,
+        "num": 195431,
+        "word": "告别所谓的朋友圈精致生活了",
+        "onboard_time": 1728007457,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 184994,
+        "num": 184994,
+        "word": "王一博给自己做了顿难吃的饭",
+        "onboard_time": 1728009317,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165829,
+        "num": 165829,
+        "word": "中医建议入秋穿袜子睡觉",
+        "onboard_time": 1728000137,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 163502,
+        "num": 163502,
+        "word": "猫咪学主人睡觉姿势",
+        "onboard_time": 1728008537,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 146292,
+        "num": 146292,
+        "word": "国庆档两部影片撤档",
+        "onboard_time": 1728010818,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 138818,
+        "num": 138818,
+        "word": "第五人格",
+        "onboard_time": 1728007397,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 120879,
+        "num": 133279,
+        "word": "文化中国行一起打卡北京中轴线",
+        "onboard_time": 1728010277,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128269,
+        "num": 128269,
+        "word": "方志敏烈士女儿方梅逝世",
+        "onboard_time": 1728010277,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 323793,
+        "num": 127115,
+        "word": "LNG空签",
+        "onboard_time": 1728006858,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 125557,
+        "num": 125557,
+        "word": "乘飞机更便宜了",
+        "onboard_time": 1728007218,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 124243,
+        "num": 124243,
+        "word": "黄杨钿甜待播剧都是女主了",
+        "onboard_time": 1728009436,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111855,
+        "num": 119925,
+        "word": "有一种安全感叫祖国欢迎你回家",
+        "onboard_time": 1728010818,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119177,
+        "num": 119177,
+        "word": "出入平安撤档",
+        "onboard_time": 1727962400,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 117040,
+        "num": 117040,
+        "word": "一些暧昧时期的聊天记录",
+        "onboard_time": 1728002597,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 114355,
+        "num": 114355,
+        "word": "江慈为卫昭留下一子",
+        "onboard_time": 1727968579,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103747,
+        "num": 103747,
+        "word": "堵车演唱会开在了音效最好的地方",
+        "onboard_time": 1727969000,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103152,
+        "num": 103152,
+        "word": "TES签运",
+        "onboard_time": 1728005657,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 98963,
+        "num": 98963,
+        "word": "以军对黎巴嫩首都连发11次袭击",
+        "onboard_time": 1727999537,
+        "rank": 39,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 98851,
+        "num": 98851,
+        "word": "90岁抗美援朝女战士敬礼时眼中有光",
+        "onboard_time": 1728008058,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98437,
+        "num": 98437,
+        "word": "祖国永远在我心上",
+        "onboard_time": 1728005117,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97792,
+        "num": 97792,
+        "word": "退伍军人跳海救人未果大喊我尽力了",
+        "onboard_time": 1727994552,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96506,
+        "num": 96506,
+        "word": "幼童车祸后做CT发现1年前磁力珠",
+        "onboard_time": 1727964981,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 93789,
+        "num": 93789,
+        "word": "郑钦文对阵17岁新星冲四强",
+        "onboard_time": 1728010277,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 91007,
+        "num": 91007,
+        "word": "夫妻在广州看房不到3小时下定金",
+        "onboard_time": 1727967139,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 88324,
+        "num": 88324,
+        "word": "这不是特效是中国非遗表演",
+        "onboard_time": 1727967860,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 83577,
+        "num": 83577,
+        "word": "你的样子",
+        "onboard_time": 1728008357,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 82946,
+        "num": 82946,
+        "word": "世界动物日",
+        "onboard_time": 1728010038,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 79482,
+        "num": 82890,
+        "word": "国庆三里屯到底有多少人",
+        "onboard_time": 1728010517,
+        "rank": 49,
+        "category": "旅游"
+      }
+    ],
+    "hotgov": {
+      "word": "#感悟总书记的传统文化情结#"
+    }
+  }
+}
