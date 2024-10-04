@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/10/04 00:28:06 ~ 2024/10/04 12:26:31
+本榜单时间：2024/10/04 00:28:06 ~ 2024/10/04 12:41:13
 </p>
 </blockquote>
 <p>
@@ -27,8 +27,20 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B0%81%E5%9C%A8%E5%8E%BF%E5%9F%8E%E4%B9%B0%E5%87%A0%E5%8D%83%E4%B8%87%E7%9A%84%E8%B1%AA%E5%AE%85%23" target="weibo">
+谁在县城买几千万的豪宅（热度：1069438）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E5%81%9C%E8%BD%A67%E5%B0%8F%E6%97%B6%E8%A2%AB%E6%94%B6%E8%B4%B9217.5%E5%85%83%23" target="weibo">
 官方回应停车7小时被收费217.5元（热度：1055508）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E8%AF%97%E6%A0%8B4%E6%AF%940%E6%9E%97%E5%BE%B7%23" target="weibo">
+林诗栋4比0林德（热度：1023518）
 </a>
 </li>
 
@@ -39,14 +51,8 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B0%81%E5%9C%A8%E5%8E%BF%E5%9F%8E%E4%B9%B0%E5%87%A0%E5%8D%83%E4%B8%87%E7%9A%84%E8%B1%AA%E5%AE%85%23" target="weibo">
-谁在县城买几千万的豪宅（热度：957543）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E7%BB%A7%E5%85%89%E6%AF%8D%E4%BA%B2%E6%9B%BE%E7%AB%8B%E5%AE%B6%E8%A7%84%E5%90%8E%E4%BB%A3%E9%83%BD%E8%A6%81%E5%8F%82%E5%86%9B%23" target="weibo">
-黄继光母亲曾立家规后代都要参军（热度：854690）
+黄继光母亲曾立家规后代都要参军（热度：921476）
 </a>
 </li>
 
@@ -177,6 +183,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%A7%A6%E5%BD%BB%E6%8A%BD%E5%8D%A1%23" target="weibo">
+秦彻抽卡（热度：328709）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%BA%86%E6%A1%A3%E4%B8%A4%E9%83%A8%E5%BD%B1%E7%89%87%E6%92%A4%E6%A1%A3%23" target="weibo">
 国庆档两部影片撤档（热度：325216）
 </a>
@@ -203,18 +215,6 @@ LNG空签（热度：323793）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%86%85%E5%A8%B1%E5%A5%B3%E9%B9%85%E4%B9%9F%E5%88%B0%E4%BA%86%E6%BC%94%E5%88%9D%E6%81%8B%E7%9A%84%E5%B9%B4%E7%BA%AA%23" target="weibo">
 内娱女鹅也到了演初恋的年纪（热度：302598）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E8%AF%97%E6%A0%8B4%E6%AF%940%E6%9E%97%E5%BE%B7%23" target="weibo">
-林诗栋4比0林德（热度：300495）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%A7%A6%E5%BD%BB%E6%8A%BD%E5%8D%A1%23" target="weibo">
-秦彻抽卡（热度：296256）
 </a>
 </li>
 
@@ -297,6 +297,12 @@ Angelababy带小海绵做爱心餐（热度：277121）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E5%8F%A4%E8%A3%85%E7%B0%AA%E8%8A%B1%23" target="weibo">
+虞书欣古装簪花（热度：252565）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%B6%E5%85%89%E9%9F%B3%E4%B9%90%E4%BC%9A%23" target="weibo">
 时光音乐会（热度：247329）
 </a>
@@ -305,6 +311,12 @@ Angelababy带小海绵做爱心餐（热度：277121）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BF%84%E6%89%A3%E6%8A%BC%E7%BE%8E%E5%9B%BD%E4%B8%A4%E5%AE%B6%E9%93%B6%E8%A1%8C%E6%95%B0%E4%BA%BF%E7%BE%8E%E5%85%83%E8%B5%84%E9%87%91%23" target="weibo">
 俄扣押美国两家银行数亿美元资金（热度：245061）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B8%83%E6%9C%97%E5%B0%BC%E5%85%AC%E5%B8%83%E6%81%8B%E6%83%85%23" target="weibo">
+布朗尼公布恋情（热度：239142）
 </a>
 </li>
 
@@ -411,6 +423,24 @@ S14瑞士轮抽签（热度：180226）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E8%AF%B4%E5%A5%BD%E7%9A%84%E5%8F%8C%E6%89%93%E6%90%AD%E6%A1%A3%E9%9C%80%E8%A6%81%E5%A4%9A%E7%A3%A8%E5%90%88%23" target="weibo">
+王楚钦说好的双打搭档需要多磨合（热度：174971）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E4%B8%9C%E5%8C%97%E7%9A%84%E7%A7%8B%E8%89%B2%E7%BE%8E%E5%88%B0%E4%BA%86%23" target="weibo">
+被东北的秋色美到了（热度：174800）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%8F%96%E6%B6%88%E9%A2%84%E8%AE%A2%E9%85%92%E5%BA%97%E8%A2%AB%E6%89%A31000%E5%A4%9A%E5%85%83%23" target="weibo">
+女子取消预订酒店被扣1000多元（热度：174741）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B9%BC%E7%AB%A5%E8%BD%A6%E7%A5%B8%E5%90%8E%E5%81%9ACT%E5%8F%91%E7%8E%B01%E5%B9%B4%E5%89%8D%E7%A3%81%E5%8A%9B%E7%8F%A0%23" target="weibo">
 幼童车祸后做CT发现1年前磁力珠（热度：174149）
 </a>
@@ -447,12 +477,6 @@ TES战胜T1（热度：162751）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E5%8F%A4%E8%A3%85%E7%B0%AA%E8%8A%B1%23" target="weibo">
-虞书欣古装簪花（热度：160528）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A5%96%E5%9B%BD%E6%B0%B8%E8%BF%9C%E5%9C%A8%E6%88%91%E5%BF%83%E4%B8%8A%23" target="weibo">
 祖国永远在我心上（热度：158809）
 </a>
@@ -467,6 +491,12 @@ TES战胜T1（热度：162751）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%23" target="weibo">
 以色列（热度：154590）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E9%A3%9E%E5%AE%87%20%E5%BF%97%E6%84%BF%E5%86%9B%E6%BC%94%E5%91%98%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%A7%81%E5%B0%B1%E7%A9%BF%E5%86%9B%E8%A3%85%23" target="weibo">
+陈飞宇 志愿军演员第一次见就穿军装（热度：153958）
 </a>
 </li>
 
@@ -573,8 +603,8 @@ TES签运（热度：133766）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%8F%96%E6%B6%88%E9%A2%84%E8%AE%A2%E9%85%92%E5%BA%97%E8%A2%AB%E6%89%A31000%E5%A4%9A%E5%85%83%23" target="weibo">
-女子取消预订酒店被扣1000多元（热度：126968）
+<a href="https://s.weibo.com/weibo?q=%23%E9%BB%8E%E5%B7%B4%E5%AB%A9%E6%92%A4%E4%BE%A8%E4%BA%B2%E5%8E%86%E8%80%85%E4%B8%8D%E6%95%A2%E7%9B%B8%E4%BF%A1%E5%B7%B2%E5%9B%9E%E5%9B%BD%23" target="weibo">
+黎巴嫩撤侨亲历者不敢相信已回国（热度：127946）
 </a>
 </li>
 
@@ -629,12 +659,6 @@ TES全员发博碰拳（热度：123052）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%BA%86%E4%B8%89%E9%87%8C%E5%B1%AF%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E5%B0%91%E4%BA%BA%23" target="weibo">
 国庆三里屯到底有多少人（热度：115494）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E4%B8%9C%E5%8C%97%E7%9A%84%E7%A7%8B%E8%89%B2%E7%BE%8E%E5%88%B0%E4%BA%86%23" target="weibo">
-被东北的秋色美到了（热度：112965）
 </a>
 </li>
 
@@ -897,6 +921,12 @@ LNG战胜TL（热度：62770）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E9%97%AA%E9%97%AA%E7%9A%84%E5%A4%A7%E7%86%8A%E7%8C%AB%E5%92%8C%E9%87%91%E7%A7%8B%E5%8D%81%E6%9C%88%E5%8C%B9%E9%85%8D%E4%B8%8A%E4%BA%86%23" target="weibo">
+金闪闪的大熊猫和金秋十月匹配上了（热度：60322）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%85%E6%B8%B8%E7%9D%A1%E5%8E%95%E6%89%80%E7%AE%97%E6%B2%A1%E8%8B%A6%E7%A1%AC%E5%90%83%E5%90%97%23" target="weibo">
 旅游睡厕所算没苦硬吃吗（热度：59855）
 </a>
@@ -933,6 +963,12 @@ B费连续两场红牌（热度：54534）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BD%92%E9%BE%99%E6%BD%AE%E7%83%9BT0%E7%BA%A7%E7%83%AB%E9%97%A8%23" target="weibo">
+归龙潮烛T0级烫门（热度：54205）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23Faker%E7%8A%B6%E6%80%81%23" target="weibo">
 Faker状态（热度：52011）
 </a>
@@ -957,12 +993,6 @@ Faker状态（热度：52011）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E9%97%AA%E9%97%AA%E7%9A%84%E5%A4%A7%E7%86%8A%E7%8C%AB%E5%92%8C%E9%87%91%E7%A7%8B%E5%8D%81%E6%9C%88%E5%8C%B9%E9%85%8D%E4%B8%8A%E4%BA%86%23" target="weibo">
-金闪闪的大熊猫和金秋十月匹配上了（热度：46677）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E6%A2%A6%E9%97%AA%E7%8E%B0%E5%B4%82%E5%B1%B1%E4%B8%BA%E9%9D%92%E5%B2%9B%E4%B8%8A%E5%A4%A7%E5%88%86%23" target="weibo">
 陈梦闪现崂山为青岛上大分（热度：46217）
 </a>
@@ -977,12 +1007,6 @@ Faker状态（热度：52011）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E9%BE%99%E6%99%8B%E7%BA%A7%E4%B8%AD%E5%9B%BD%E5%A4%A7%E6%BB%A1%E8%B4%AF8%E5%BC%BA%23" target="weibo">
 马龙晋级中国大满贯8强（热度：42554）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BD%92%E9%BE%99%E6%BD%AE%E7%83%9BT0%E7%BA%A7%E7%83%AB%E9%97%A8%23" target="weibo">
-归龙潮烛T0级烫门（热度：41909）
 </a>
 </li>
 
@@ -1013,6 +1037,12 @@ Faker状态（热度：52011）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23TES%E5%AF%B9%E6%88%98T1%23" target="weibo">
 TES对战T1（热度：28776）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%A8%E5%87%A0%E4%BD%95%E7%BE%8E%E5%AD%A6%E6%89%93%E5%BC%80%E4%B8%AD%E5%9B%BD%23" target="weibo">
+用几何美学打开中国（热度：28221）
 </a>
 </li>
 
