@@ -1,6 +1,6 @@
 {
   "startTime": 1727540758074,
-  "endTime": 1728045716124,
+  "endTime": 1728046713689,
   "band_list": [
     {
       "raw_hot": 11925969,
@@ -81,6 +81,14 @@
       "onboard_time": 1727741359,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2075112,
+      "num": 2075112,
+      "word": "向鹏vs莫雷加德",
+      "onboard_time": 1728045138,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 2074167,
@@ -811,6 +819,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 988333,
+      "num": 495149,
+      "word": "穆婷婷白月光回国",
+      "onboard_time": 1728039619,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 984420,
       "num": 630557,
       "word": "许嵩 我不配看恋综吗",
@@ -907,14 +923,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 906984,
-      "num": 495149,
-      "word": "穆婷婷白月光回国",
-      "onboard_time": 1728039619,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 903887,
       "num": 559430,
       "word": "95后北大博士范富荣履新副市长",
@@ -937,6 +945,14 @@
       "onboard_time": 1727764039,
       "rank": 9,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 897693,
+      "num": 897693,
+      "word": "LNG战胜BLG",
+      "onboard_time": 1728046339,
+      "rank": 1,
+      "category": "电竞"
     },
     {
       "raw_hot": 890162,
@@ -1155,6 +1171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 805060,
+      "num": 805060,
+      "word": "郑钦文vs安德列娃",
+      "onboard_time": 1728036439,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 802965,
       "num": 293347,
       "word": "时代少年团棉花娃娃",
@@ -1275,14 +1299,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 753342,
-      "num": 753342,
-      "word": "郑钦文vs安德列娃",
-      "onboard_time": 1728036439,
-      "rank": 7,
-      "category": "体育"
-    },
-    {
       "raw_hot": 751558,
       "num": 385800,
       "word": "回本",
@@ -1401,6 +1417,14 @@
       "onboard_time": 1727852177,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 727075,
+      "num": 354541,
+      "word": "33岁中国男子涉嫌用热咖啡泼伤婴儿后出逃",
+      "onboard_time": 1728041059,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 720650,
@@ -1625,14 +1649,6 @@
       "onboard_time": 1727775798,
       "rank": 12,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 651319,
-      "num": 354541,
-      "word": "33岁中国男子涉嫌用热咖啡泼伤婴儿后出逃",
-      "onboard_time": 1728041059,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 648245,
@@ -1889,14 +1905,6 @@
       "onboard_time": 1727787440,
       "rank": 26,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 610825,
-      "num": 610825,
-      "word": "向鹏vs莫雷加德",
-      "onboard_time": 1728045138,
-      "rank": 4,
-      "category": "体育"
     },
     {
       "raw_hot": 610645,
@@ -2307,6 +2315,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 540698,
+      "num": 341711,
+      "word": "王楚钦说打完了怎么喊都行",
+      "onboard_time": 1728038358,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 540362,
       "num": 755243,
       "word": "听泉鉴宝连线太精彩了",
@@ -2435,6 +2451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 517504,
+      "num": 318185,
+      "word": "伊朗袭击以色列前检查导弹画面首公开",
+      "onboard_time": 1728042499,
+      "rank": 18,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 516314,
       "num": 315603,
       "word": "GEN对战WBG",
@@ -2515,6 +2539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 507984,
+      "num": 507984,
+      "word": "向鹏18比20",
+      "onboard_time": 1728045439,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 505794,
       "num": 505794,
       "word": "张本美和又哭了",
@@ -2537,14 +2569,6 @@
       "onboard_time": 1727798418,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 504705,
-      "num": 341711,
-      "word": "王楚钦说打完了怎么喊都行",
-      "onboard_time": 1728038358,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 504589,
@@ -4379,6 +4403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 309598,
+      "num": 309598,
+      "word": "向鹏中国大满贯进4强",
+      "onboard_time": 1728046339,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 309585,
       "num": 309585,
       "word": "长沙坡子街派出所成热门打卡地",
@@ -4875,12 +4907,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 284512,
-      "num": 284512,
-      "word": "伊朗袭击以色列前检查导弹画面首公开",
-      "onboard_time": 1728042499,
-      "rank": 18,
-      "category": "国外时政"
+      "raw_hot": 284323,
+      "num": 202930,
+      "word": "鹿 你一边去吧该我了",
+      "onboard_time": 1728045859,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 283996,
@@ -5611,6 +5643,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 247997,
+      "num": 247997,
+      "word": "BLG对战LNG",
+      "onboard_time": 1728043100,
+      "rank": 22,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 247580,
       "num": 247580,
       "word": "恋与深空 秦彻",
@@ -5745,6 +5785,14 @@
       "onboard_time": 1727938937,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 242596,
+      "num": 242596,
+      "word": "伯远MAMA舞台",
+      "onboard_time": 1728045679,
+      "rank": 43,
+      "category": "演出"
     },
     {
       "raw_hot": 242110,
@@ -5900,7 +5948,7 @@
     },
     {
       "raw_hot": 237734,
-      "num": 215136,
+      "num": 231466,
       "word": "肖战白色套装",
       "onboard_time": 1728034218,
       "rank": 32,
@@ -7731,6 +7779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 192007,
+      "num": 275314,
+      "word": "下一战歌手",
+      "onboard_time": 1728045920,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 191727,
       "num": 191727,
       "word": "哑舍动画定档",
@@ -7945,6 +8001,14 @@
       "onboard_time": 1727655618,
       "rank": 32,
       "category": "国内时政,社会新闻"
+    },
+    {
+      "raw_hot": 189022,
+      "num": 189022,
+      "word": "孙颖莎说对阵范思琦是硬仗",
+      "onboard_time": 1728045500,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 188776,
@@ -8267,6 +8331,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 182535,
+      "num": 182535,
+      "word": "赵丽颖的手差点没捂住张百乔的嘴",
+      "onboard_time": 1728046220,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 182422,
       "num": 363369,
       "word": "江慈身世",
@@ -8507,6 +8579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 177924,
+      "num": 177924,
+      "word": "蚊子包下不去女生直接用针扎",
+      "onboard_time": 1728044898,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 177779,
       "num": 177779,
       "word": "AG对战EDGM",
@@ -8595,14 +8675,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 176656,
-      "num": 274949,
-      "word": "向鹏18比20",
-      "onboard_time": 1728045439,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 176582,
       "num": 176582,
       "word": "郑钦文扳平",
@@ -8617,6 +8689,14 @@
       "onboard_time": 1727791761,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 176199,
+      "num": 176199,
+      "word": "吴谨言下班路透",
+      "onboard_time": 1728045859,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 176098,
@@ -9209,14 +9289,6 @@
       "onboard_time": 1727786839,
       "rank": 31,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 165301,
-      "num": 165301,
-      "word": "孙颖莎说对阵范思琦是硬仗",
-      "onboard_time": 1728045500,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 165257,
@@ -10523,6 +10595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 144353,
+      "num": 322797,
+      "word": "99岁院士叶铭汉逝世",
+      "onboard_time": 1728045079,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 144346,
       "num": 144346,
       "word": "Bin想成为Faker接班人",
@@ -10739,6 +10819,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 141353,
+      "num": 141353,
+      "word": "先天法医圣体的小朋友",
+      "onboard_time": 1728045560,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 141133,
       "num": 141133,
       "word": "十一出游露思淡妆",
@@ -10777,6 +10865,14 @@
       "onboard_time": 1727922617,
       "rank": 31,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 140675,
+      "num": 140675,
+      "word": "为什么火腿肠要在头尾箍上铝环",
+      "onboard_time": 1728046220,
+      "rank": 38,
+      "category": "美食"
     },
     {
       "raw_hot": 140477,
@@ -11051,6 +11147,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 137848,
+      "num": 137848,
+      "word": "孙颖莎回应战胜伊藤美诚",
+      "onboard_time": 1728045560,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 137811,
       "num": 137811,
       "word": "PEL秋季常规赛最佳阵容",
@@ -11097,14 +11201,6 @@
       "onboard_time": 1727846899,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 137514,
-      "num": 137514,
-      "word": "99岁院士叶铭汉逝世",
-      "onboard_time": 1728045079,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 137395,
@@ -11171,14 +11267,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 136782,
-      "num": 136782,
-      "word": "先天法医圣体的小朋友",
-      "onboard_time": 1728045560,
-      "rank": 37,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 136723,
       "num": 136723,
       "word": "孙楠说宋亚轩是让他吃惊的后辈",
@@ -11233,6 +11321,14 @@
       "onboard_time": 1727842938,
       "rank": 26,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 135750,
+      "num": 135750,
+      "word": "TF三代出发登陆",
+      "onboard_time": 1728046581,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 135447,
@@ -11561,14 +11657,6 @@
       "onboard_time": 1727757379,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 133033,
-      "num": 133033,
-      "word": "蚊子包下不去女生直接用针扎",
-      "onboard_time": 1728044898,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 132875,
@@ -12329,6 +12417,14 @@
       "onboard_time": 1727685320,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 124749,
+      "num": 202931,
+      "word": "暗夜与黎明",
+      "onboard_time": 1728045799,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 124743,
@@ -13387,6 +13483,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 113456,
+      "num": 113456,
+      "word": "郑钦文水杯亮了",
+      "onboard_time": 1728046581,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 113400,
       "num": 206944,
       "word": "崂山日出相映国旗红",
@@ -13497,6 +13601,14 @@
       "onboard_time": 1727692878,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 111917,
+      "num": 372396,
+      "word": "游客错峰游成了高峰游",
+      "onboard_time": 1728044598,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 111799,
@@ -13617,6 +13729,14 @@
       "onboard_time": 1727595439,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 110150,
+      "num": 110150,
+      "word": "LNG世界赛两连胜",
+      "onboard_time": 1728046641,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 110148,
@@ -13779,14 +13899,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 107900,
-      "num": 107900,
-      "word": "伯远MAMA舞台",
-      "onboard_time": 1728045679,
-      "rank": 43,
-      "category": "演出"
-    },
-    {
       "raw_hot": 107811,
       "num": 107811,
       "word": "中国轮船40小时带80人安全撤离黎巴嫩",
@@ -13880,14 +13992,6 @@
       "word": "孙颖莎王艺迪女双4强",
       "onboard_time": 1727951838,
       "rank": 16,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 107020,
-      "num": 107020,
-      "word": "孙颖莎回应战胜伊藤美诚",
-      "onboard_time": 1728045560,
-      "rank": 44,
       "category": "体育"
     },
     {
@@ -14945,6 +15049,14 @@
       "onboard_time": 1727919377,
       "rank": 46,
       "category": "财经"
+    },
+    {
+      "raw_hot": 90446,
+      "num": 336641,
+      "word": "打开749局的另一种方式",
+      "onboard_time": 1728045979,
+      "rank": 9,
+      "category": "电影"
     },
     {
       "raw_hot": 90352,
@@ -16459,14 +16571,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 54549,
-      "num": 372396,
-      "word": "游客错峰游成了高峰游",
-      "onboard_time": 1728044598,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 54534,
       "num": 79257,
       "word": "B费连续两场红牌",
@@ -16867,6 +16971,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 44165,
+      "num": 838653,
+      "word": "国庆假期掀起文旅热",
+      "onboard_time": 1728030499,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 44145,
       "num": 336249,
       "word": "张帅1比0弗莱彻",
@@ -17209,14 +17321,6 @@
       "onboard_time": 1727933838,
       "rank": 18,
       "category": "电影"
-    },
-    {
-      "raw_hot": 38262,
-      "num": 698917,
-      "word": "国庆假期掀起文旅热",
-      "onboard_time": 1728030499,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 37764,
