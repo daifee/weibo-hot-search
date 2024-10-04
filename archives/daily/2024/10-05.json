@@ -1,6 +1,6 @@
 {
   "startTime": 1728059303809,
-  "endTime": 1728084072669,
+  "endTime": 1728084919498,
   "band_list": [
     {
       "raw_hot": 927616,
@@ -19,7 +19,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 561475,
+      "raw_hot": 662753,
       "num": 290412,
       "word": "机场回应多名大妈在休息厅开音响跳舞",
       "onboard_time": 1728060136,
@@ -51,20 +51,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 340927,
+      "num": 188480,
+      "word": "郑钦文再获32.5万美元奖金",
+      "onboard_time": 1728054439,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 294476,
+      "num": 294476,
+      "word": "年轻人假期整顿婚礼",
+      "onboard_time": 1728059477,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 282896,
       "num": 282896,
       "word": "花少团出国了但没完全出",
       "onboard_time": 1728057018,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 277376,
-      "num": 188480,
-      "word": "郑钦文再获32.5万美元奖金",
-      "onboard_time": 1728054439,
-      "rank": 26,
-      "category": "体育"
     },
     {
       "raw_hot": 271130,
@@ -107,12 +115,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 227485,
-      "num": 227485,
-      "word": "年轻人假期整顿婚礼",
-      "onboard_time": 1728059477,
-      "rank": 47,
-      "category": "社会新闻"
+      "raw_hot": 203739,
+      "num": 203739,
+      "word": "不计划不赶热闹不打卡的旅游太爽了",
+      "onboard_time": 1728080352,
+      "rank": 34,
+      "category": "旅游"
     },
     {
       "raw_hot": 191647,
@@ -163,20 +171,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 164232,
-      "num": 164232,
-      "word": "不计划不赶热闹不打卡的旅游太爽了",
-      "onboard_time": 1728080352,
-      "rank": 34,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 161537,
       "num": 188602,
       "word": "这两天的笑点是向佐给的",
       "onboard_time": 1728053480,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 156862,
+      "num": 106211,
+      "word": "S14瑞士轮第三轮抽签",
+      "onboard_time": 1728083476,
+      "rank": 15,
+      "category": "电竞"
     },
     {
       "raw_hot": 146078,
@@ -211,12 +219,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 127478,
-      "num": 86570,
-      "word": "S14瑞士轮第三轮抽签",
-      "onboard_time": 1728083476,
-      "rank": 15,
-      "category": "电竞"
+      "raw_hot": 129548,
+      "num": 105964,
+      "word": "王皓 许昕进城2.0",
+      "onboard_time": 1728083653,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 127609,
+      "num": 188374,
+      "word": "中方必将采取一切措施维护中国企业利益",
+      "onboard_time": 1728051080,
+      "rank": 33,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 127082,
+      "num": 188211,
+      "word": "国庆婚庆市场爆了",
+      "onboard_time": 1728038418,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 124876,
@@ -251,14 +275,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 119493,
-      "num": 188374,
-      "word": "中方必将采取一切措施维护中国企业利益",
-      "onboard_time": 1728051080,
-      "rank": 33,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 115809,
       "num": 243817,
       "word": "蒯曼林诗栋混双冠军",
@@ -275,7 +291,7 @@
       "category": "电影"
     },
     {
-      "raw_hot": 109945,
+      "raw_hot": 112048,
       "num": 188356,
       "word": "伊朗袭击以色列前检查导弹画面首公开",
       "onboard_time": 1728042499,
@@ -299,12 +315,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 104501,
-      "num": 188211,
-      "word": "国庆婚庆市场爆了",
-      "onboard_time": 1728038418,
-      "rank": 43,
-      "category": "社会新闻"
+      "raw_hot": 99958,
+      "num": 99958,
+      "word": "未来3天可能发生强地磁活动",
+      "onboard_time": 1728083834,
+      "rank": 32,
+      "category": "社会新闻,国内时政"
     },
     {
       "raw_hot": 96241,
@@ -315,12 +331,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 93731,
+      "num": 93731,
+      "word": "原来巨嘴鸟是这样喝水的",
+      "onboard_time": 1728081373,
+      "rank": 48,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 93202,
       "num": 188329,
       "word": "孙佳俊去看陈奕迅演唱会了",
       "onboard_time": 1728057618,
       "rank": 36,
       "category": "体育,演出"
+    },
+    {
+      "raw_hot": 92324,
+      "num": 142831,
+      "word": "王一博在沙漠做饼",
+      "onboard_time": 1728061635,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 90324,
@@ -332,7 +364,7 @@
     },
     {
       "raw_hot": 89801,
-      "num": 89801,
+      "num": 107441,
       "word": "女子遇假警察电诈时真警察来了",
       "onboard_time": 1728078731,
       "rank": 9,
@@ -344,14 +376,6 @@
       "word": "张雨霏 MY SHERO",
       "onboard_time": 1728053060,
       "rank": 35,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 84025,
-      "num": 84025,
-      "word": "王皓 许昕进城2.0",
-      "onboard_time": 1728083653,
-      "rank": 22,
       "category": "体育"
     },
     {
@@ -395,22 +419,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 77036,
-      "num": 142831,
-      "word": "王一博在沙漠做饼",
-      "onboard_time": 1728061635,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 75759,
-      "num": 75759,
-      "word": "原来巨嘴鸟是这样喝水的",
-      "onboard_time": 1728081373,
-      "rank": 48,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 74465,
       "num": 150587,
       "word": "李兰迪 练仪态就拍古装大婚戏吧",
@@ -443,6 +451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 65318,
+      "num": 65318,
+      "word": "侯明昊卢昱晓吻戏路透",
+      "onboard_time": 1728083054,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 62434,
       "num": 188169,
       "word": "郑钦文水杯亮了",
@@ -459,12 +475,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 61382,
-      "num": 61382,
-      "word": "侯明昊卢昱晓吻戏路透",
-      "onboard_time": 1728083054,
-      "rank": 30,
-      "category": "剧集"
+      "raw_hot": 61101,
+      "num": 61101,
+      "word": "HLE战胜G2",
+      "onboard_time": 1728083954,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 61007,
@@ -473,14 +489,6 @@
       "onboard_time": 1728056240,
       "rank": 47,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 60969,
-      "num": 60969,
-      "word": "未来3天可能发生强地磁活动",
-      "onboard_time": 1728083834,
-      "rank": 32,
-      "category": "社会新闻,国内时政"
     },
     {
       "raw_hot": 60387,
@@ -499,12 +507,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 56181,
+      "num": 56181,
+      "word": "腾讯考虑收购育碧",
+      "onboard_time": 1728084374,
+      "rank": 38,
+      "category": "游戏,互联网"
+    },
+    {
       "raw_hot": 52115,
       "num": 188132,
       "word": "下一战歌手",
       "onboard_time": 1728045920,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 50702,
+      "num": 50702,
+      "word": "真主党可能存在以色列间谍渗透",
+      "onboard_time": 1728066493,
+      "rank": 42,
+      "category": "国外时政"
     },
     {
       "raw_hot": 49601,
@@ -539,6 +563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 48378,
+      "num": 155780,
+      "word": "有种反向旅游叫捡秋",
+      "onboard_time": 1728062654,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 47916,
       "num": 47916,
       "word": "父母天安门广场见证儿子升国旗",
@@ -555,20 +587,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 47401,
-      "num": 47401,
-      "word": "真主党可能存在以色列间谍渗透",
-      "onboard_time": 1728066493,
-      "rank": 42,
-      "category": "国外时政"
+      "raw_hot": 47264,
+      "num": 47264,
+      "word": "莫雷加德希望再来北京比赛",
+      "onboard_time": 1728084075,
+      "rank": 43,
+      "category": "体育"
     },
     {
-      "raw_hot": 46143,
-      "num": 155780,
-      "word": "有种反向旅游叫捡秋",
-      "onboard_time": 1728062654,
-      "rank": 14,
-      "category": "社会新闻"
+      "raw_hot": 45837,
+      "num": 47246,
+      "word": "魔卡少女樱家居服",
+      "onboard_time": 1728084795,
+      "rank": 44,
+      "category": "动漫"
     },
     {
       "raw_hot": 45555,
@@ -611,12 +643,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 35272,
-      "num": 42707,
-      "word": "HLE战胜G2",
-      "onboard_time": 1728083954,
-      "rank": 45,
-      "category": "电竞"
+      "raw_hot": 29131,
+      "num": 89359,
+      "word": "边防官兵顶风踏雪巡逻55号界碑",
+      "onboard_time": 1728082093,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 28296,
@@ -707,14 +739,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 16130,
-      "num": 89359,
-      "word": "边防官兵顶风踏雪巡逻55号界碑",
-      "onboard_time": 1728082093,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 14777,
       "num": 28826,
       "word": "这门古老的艺术在23年前华丽转身",
@@ -724,7 +748,7 @@
     },
     {
       "raw_hot": 13648,
-      "num": 170742,
+      "num": 228333,
       "word": "国庆入境游增速将超过出境游",
       "onboard_time": 1728049940,
       "rank": 2,
@@ -736,6 +760,30 @@
       "word": "钱七虎追光演讲",
       "onboard_time": 1728080771,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 12882,
+      "num": 50819,
+      "word": "专属敦煌的升旗仪式",
+      "onboard_time": 1728084195,
+      "rank": 40,
+      "category": "社会新闻,国内时政"
+    },
+    {
+      "raw_hot": 12538,
+      "num": 105746,
+      "word": "姜云升直播",
+      "onboard_time": 1728084434,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 12195,
+      "num": 101013,
+      "word": "一起打卡大美中国",
+      "onboard_time": 1728084735,
+      "rank": 24,
       "category": "社会新闻"
     }
   ],
