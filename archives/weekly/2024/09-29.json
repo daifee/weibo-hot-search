@@ -1,6 +1,6 @@
 {
   "startTime": 1727540758074,
-  "endTime": 1728056294502,
+  "endTime": 1728059303809,
   "band_list": [
     {
       "raw_hot": 11925969,
@@ -897,6 +897,14 @@
       "onboard_time": 1727670499,
       "rank": 22,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 927616,
+      "num": 936074,
+      "word": "太阳爆发7年来最强耀斑",
+      "onboard_time": 1728055039,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 927506,
@@ -3507,6 +3515,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 392275,
+      "num": 243215,
+      "word": "郑钦文打心底把张雨霏当朋友",
+      "onboard_time": 1728054379,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 391729,
       "num": 391729,
       "word": "外交部回应美方军援台湾地区",
@@ -3724,7 +3740,7 @@
     },
     {
       "raw_hot": 373660,
-      "num": 228205,
+      "num": 242673,
       "word": "黄晓明发文告别中餐厅8",
       "onboard_time": 1728048861,
       "rank": 48,
@@ -3857,6 +3873,14 @@
       "onboard_time": 1727924837,
       "rank": 44,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 362273,
+      "num": 243038,
+      "word": "入住酒店民宿这样排查隐藏摄像头",
+      "onboard_time": 1728055458,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 361488,
@@ -5891,6 +5915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 244819,
+      "num": 244819,
+      "word": "花少团出国了但没完全出",
+      "onboard_time": 1728057018,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 243990,
       "num": 245269,
       "word": "10月你好",
@@ -6001,14 +6033,6 @@
       "onboard_time": 1727671340,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 239458,
-      "num": 185594,
-      "word": "郑钦文打心底把张雨霏当朋友",
-      "onboard_time": 1728054379,
-      "rank": 22,
-      "category": "体育"
     },
     {
       "raw_hot": 239389,
@@ -7939,14 +7963,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 192675,
-      "num": 233733,
-      "word": "太阳爆发7年来最强耀斑",
-      "onboard_time": 1728055039,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 192669,
       "num": 192669,
       "word": "周柯宇问程潇和妹妹是不是双胞胎",
@@ -9524,7 +9540,7 @@
     },
     {
       "raw_hot": 166358,
-      "num": 157592,
+      "num": 188392,
       "word": "郑钦文坦言和张雨霏很有缘",
       "onboard_time": 1728054379,
       "rank": 30,
@@ -10116,7 +10132,7 @@
     },
     {
       "raw_hot": 157790,
-      "num": 157790,
+      "num": 188341,
       "word": "张雨霏 MY SHERO",
       "onboard_time": 1728053060,
       "rank": 26,
@@ -11659,6 +11675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 136485,
+      "num": 244423,
+      "word": "TL对战WBG",
+      "onboard_time": 1728054739,
+      "rank": 29,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 136171,
       "num": 136171,
       "word": "A股六大新纪录诞生",
@@ -12793,6 +12817,14 @@
       "onboard_time": 1727685320,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 124876,
+      "num": 188512,
+      "word": "何洁叛逆被化妆师记了快20年",
+      "onboard_time": 1728056958,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 124749,
@@ -14049,14 +14081,6 @@
       "onboard_time": 1727867541,
       "rank": 41,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 111088,
-      "num": 111088,
-      "word": "入住酒店民宿这样排查隐藏摄像头",
-      "onboard_time": 1728055458,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 111064,
@@ -15316,7 +15340,7 @@
     },
     {
       "raw_hot": 92944,
-      "num": 142632,
+      "num": 188450,
       "word": "东莞草莓音乐节",
       "onboard_time": 1728056000,
       "rank": 24,
@@ -15795,6 +15819,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 83193,
+      "num": 188329,
+      "word": "孙佳俊去看陈奕迅演唱会了",
+      "onboard_time": 1728057618,
+      "rank": 36,
+      "category": "体育,演出"
+    },
+    {
       "raw_hot": 82404,
       "num": 157143,
       "word": "邓恩熙头纱出场",
@@ -16195,12 +16227,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 74907,
+      "num": 188238,
+      "word": "WBG战胜TL",
+      "onboard_time": 1728057679,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 74831,
       "num": 74831,
       "word": "金枕榴莲在云南试种成功",
       "onboard_time": 1727565196,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 74796,
+      "num": 188231,
+      "word": "披荆斩棘",
+      "onboard_time": 1728058878,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 74503,
@@ -16340,7 +16388,7 @@
     },
     {
       "raw_hot": 71012,
-      "num": 133398,
+      "num": 188149,
       "word": "必须坚持人民至上",
       "onboard_time": 1728056240,
       "rank": 29,
@@ -16672,6 +16720,14 @@
       "word": "投资者线上排队开户",
       "onboard_time": 1727590218,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 60387,
+      "num": 188563,
+      "word": "75秒看新中国75年家电之变",
+      "onboard_time": 1728057138,
+      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -17067,6 +17123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 52389,
+      "num": 188584,
+      "word": "87岁院士仍活跃在数学教研一线",
+      "onboard_time": 1728057679,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 52219,
       "num": 227129,
       "word": "炉石传说",
@@ -17385,14 +17449,6 @@
       "onboard_time": 1727944998,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 44288,
-      "num": 157676,
-      "word": "TL对战WBG",
-      "onboard_time": 1728054739,
-      "rank": 29,
-      "category": "电竞"
     },
     {
       "raw_hot": 44217,

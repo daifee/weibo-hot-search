@@ -1,0 +1,410 @@
+{
+  "runTime": 1728059303809,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 927616,
+        "num": 936074,
+        "word": "太阳爆发7年来最强耀斑",
+        "onboard_time": 1728055039,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250109,
+        "num": 250109,
+        "word": "郑钦文晋级半决赛",
+        "onboard_time": 1728047240,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 26821,
+        "num": 245580,
+        "word": "非遗真是凭实力圈粉",
+        "onboard_time": 1728050720,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244819,
+        "num": 244819,
+        "word": "花少团出国了但没完全出",
+        "onboard_time": 1728057018,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173175,
+        "num": 244740,
+        "word": "749局细思极恐",
+        "onboard_time": 1728047539,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 141555,
+        "num": 244612,
+        "word": "伊藤美诚说想赢孙颖莎一分都很难",
+        "onboard_time": 1728047781,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136485,
+        "num": 244423,
+        "word": "TL对战WBG",
+        "onboard_time": 1728054739,
+        "rank": 6,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 129949,
+        "num": 244224,
+        "word": "孙颖莎4比0胜伊藤美诚",
+        "onboard_time": 1728042441,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121674,
+        "num": 243965,
+        "word": "LNG战胜BLG",
+        "onboard_time": 1728046339,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 115809,
+        "num": 243817,
+        "word": "蒯曼林诗栋混双冠军",
+        "onboard_time": 1728049340,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 863102,
+        "num": 243643,
+        "word": "女子高速上40码龟速行驶被训",
+        "onboard_time": 1728053302,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 465619,
+        "num": 243329,
+        "word": "穆婷婷白月光回国",
+        "onboard_time": 1728039619,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 392275,
+        "num": 243215,
+        "word": "郑钦文打心底把张雨霏当朋友",
+        "onboard_time": 1728054379,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 362273,
+        "num": 243038,
+        "word": "入住酒店民宿这样排查隐藏摄像头",
+        "onboard_time": 1728055458,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 266044,
+        "num": 242673,
+        "word": "黄晓明发文告别中餐厅8",
+        "onboard_time": 1728048861,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 242663,
+        "num": 242663,
+        "word": "假冒媒体岂是儿戏",
+        "onboard_time": 1728039439,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191647,
+        "num": 191647,
+        "word": "宋雨琦叶舒华唱了superstar",
+        "onboard_time": 1728053360,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 188615,
+        "num": 188615,
+        "word": "肖战白色套装",
+        "onboard_time": 1728034218,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161537,
+        "num": 188602,
+        "word": "这两天的笑点是向佐给的",
+        "onboard_time": 1728053480,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 52389,
+        "num": 188584,
+        "word": "87岁院士仍活跃在数学教研一线",
+        "onboard_time": 1728057679,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168686,
+        "num": 188575,
+        "word": "伊朗以色列军事力量对比",
+        "onboard_time": 1728049940,
+        "rank": 20,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 60387,
+        "num": 188563,
+        "word": "75秒看新中国75年家电之变",
+        "onboard_time": 1728057138,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167594,
+        "num": 188550,
+        "word": "起床后不叠被子的人赢了",
+        "onboard_time": 1728028937,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137482,
+        "num": 188537,
+        "word": "梁靖崑说王楚钦又甜又凶",
+        "onboard_time": 1728052220,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124876,
+        "num": 188512,
+        "word": "何洁叛逆被化妆师记了快20年",
+        "onboard_time": 1728056958,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123628,
+        "num": 188494,
+        "word": "33岁中国男子涉嫌用热咖啡泼伤婴儿后出逃",
+        "onboard_time": 1728041059,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123203,
+        "num": 188480,
+        "word": "郑钦文再获32.5万美元奖金",
+        "onboard_time": 1728054439,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121150,
+        "num": 188473,
+        "word": "蚊子包下不去女生直接用针扎",
+        "onboard_time": 1728044898,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 86753,
+        "num": 188450,
+        "word": "东莞草莓音乐节",
+        "onboard_time": 1728056000,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 61982,
+        "num": 188431,
+        "word": "半熟男女 想给男生擦眼泪那是母爱",
+        "onboard_time": 1728047060,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113836,
+        "num": 188419,
+        "word": "赵丽颖的手差点没捂住张百乔的嘴",
+        "onboard_time": 1728046220,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 108486,
+        "num": 188401,
+        "word": "2NE1演唱会",
+        "onboard_time": 1728042740,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 107013,
+        "num": 188392,
+        "word": "郑钦文坦言和张雨霏很有缘",
+        "onboard_time": 1728054379,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 96785,
+        "num": 188374,
+        "word": "中方必将采取一切措施维护中国企业利益",
+        "onboard_time": 1728051080,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 89455,
+        "num": 188356,
+        "word": "伊朗袭击以色列前检查导弹画面首公开",
+        "onboard_time": 1728042499,
+        "rank": 34,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 84748,
+        "num": 188341,
+        "word": "张雨霏 MY SHERO",
+        "onboard_time": 1728053060,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 83193,
+        "num": 188329,
+        "word": "孙佳俊去看陈奕迅演唱会了",
+        "onboard_time": 1728057618,
+        "rank": 36,
+        "category": "体育,演出"
+      },
+      {
+        "raw_hot": 81840,
+        "num": 188302,
+        "word": "国乒提前包揽WTT五冠",
+        "onboard_time": 1728050480,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 81293,
+        "num": 188295,
+        "word": "伯远MAMA舞台",
+        "onboard_time": 1728045679,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 81230,
+        "num": 188273,
+        "word": "张雨霏差点被郑钦文的球砸中",
+        "onboard_time": 1728047660,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 77524,
+        "num": 188267,
+        "word": "上海放宽应届生身份认定标准",
+        "onboard_time": 1728041839,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 74907,
+        "num": 188238,
+        "word": "WBG战胜TL",
+        "onboard_time": 1728057679,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 74796,
+        "num": 188231,
+        "word": "披荆斩棘",
+        "onboard_time": 1728058878,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 72732,
+        "num": 188211,
+        "word": "国庆婚庆市场爆了",
+        "onboard_time": 1728038418,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 72044,
+        "num": 188198,
+        "word": "王楚钦说打完了怎么喊都行",
+        "onboard_time": 1728038358,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 68968,
+        "num": 188176,
+        "word": "向鹏18比20",
+        "onboard_time": 1728045439,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 62434,
+        "num": 188169,
+        "word": "郑钦文水杯亮了",
+        "onboard_time": 1728046581,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 61007,
+        "num": 188149,
+        "word": "必须坚持人民至上",
+        "onboard_time": 1728056240,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 52115,
+        "num": 188132,
+        "word": "下一战歌手",
+        "onboard_time": 1728045920,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 48879,
+        "num": 188125,
+        "word": "TFING换头像",
+        "onboard_time": 1728051018,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#必须坚持人民至上#"
+    }
+  }
+}
