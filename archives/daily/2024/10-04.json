@@ -1,6 +1,6 @@
 {
   "startTime": 1727972886536,
-  "endTime": 1728055441641,
+  "endTime": 1728056294502,
   "band_list": [
     {
       "raw_hot": 2490639,
@@ -131,6 +131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 970995,
+      "num": 1155359,
+      "word": "女子高速上40码龟速行驶被训",
+      "onboard_time": 1728053302,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 921476,
       "num": 921476,
       "word": "黄继光母亲曾立家规后代都要参军",
@@ -184,14 +192,6 @@
       "word": "新疆小孩哥采访中惊出表情包",
       "onboard_time": 1728023898,
       "rank": 18,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 805942,
-      "num": 1128950,
-      "word": "女子高速上40码龟速行驶被训",
-      "onboard_time": 1728053302,
-      "rank": 0,
       "category": "社会新闻"
     },
     {
@@ -699,6 +699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 333604,
+      "num": 221939,
+      "word": "梁靖崑说王楚钦又甜又凶",
+      "onboard_time": 1728052220,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 332413,
       "num": 309091,
       "word": "陈飞宇 志愿军演员第一次见就穿军装",
@@ -963,14 +971,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 265791,
-      "num": 221939,
-      "word": "梁靖崑说王楚钦又甜又凶",
-      "onboard_time": 1728052220,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 262001,
       "num": 229439,
       "word": "女医生假期带娃爬山救回一条命",
@@ -1081,6 +1081,14 @@
       "onboard_time": 1728022757,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 239458,
+      "num": 185594,
+      "word": "郑钦文打心底把张雨霏当朋友",
+      "onboard_time": 1728054379,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 237734,
@@ -1451,6 +1459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 192675,
+      "num": 233733,
+      "word": "太阳爆发7年来最强耀斑",
+      "onboard_time": 1728055039,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 192097,
       "num": 149228,
       "word": "马龙提醒教练打卡下班",
@@ -1499,20 +1515,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 189036,
+      "num": 243051,
+      "word": "中方必将采取一切措施维护中国企业利益",
+      "onboard_time": 1728051080,
+      "rank": 38,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 189022,
       "num": 189022,
       "word": "孙颖莎说对阵范思琦是硬仗",
       "onboard_time": 1728045500,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 188962,
-      "num": 243051,
-      "word": "中方必将采取一切措施维护中国企业利益",
-      "onboard_time": 1728051080,
-      "rank": 38,
-      "category": "国内时政"
     },
     {
       "raw_hot": 188691,
@@ -1553,14 +1569,6 @@
       "onboard_time": 1728029538,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 184920,
-      "num": 184920,
-      "word": "郑钦文打心底把张雨霏当朋友",
-      "onboard_time": 1728054379,
-      "rank": 22,
-      "category": "体育"
     },
     {
       "raw_hot": 183514,
@@ -1713,6 +1721,14 @@
       "onboard_time": 1728021618,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 166401,
+      "num": 209911,
+      "word": "这两天的笑点是向佐给的",
+      "onboard_time": 1728053480,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 166358,
@@ -1905,14 +1921,6 @@
       "onboard_time": 1728041299,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 148201,
-      "num": 209911,
-      "word": "这两天的笑点是向佐给的",
-      "onboard_time": 1728053480,
-      "rank": 18,
-      "category": "电影"
     },
     {
       "raw_hot": 147699,
@@ -2531,6 +2539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 111088,
+      "num": 111088,
+      "word": "入住酒店民宿这样排查隐藏摄像头",
+      "onboard_time": 1728055458,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 110948,
       "num": 110948,
       "word": "范思琦4比3郑怡静",
@@ -2755,6 +2771,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 92944,
+      "num": 142632,
+      "word": "东莞草莓音乐节",
+      "onboard_time": 1728056000,
+      "rank": 24,
+      "category": "演出"
+    },
+    {
       "raw_hot": 91582,
       "num": 533702,
       "word": "复旦公布推免招生不诚信名单合理吗",
@@ -2849,6 +2873,14 @@
       "onboard_time": 1727970560,
       "rank": 42,
       "category": "美食"
+    },
+    {
+      "raw_hot": 84116,
+      "num": 94377,
+      "word": "中国股票基金资金流入规模创历史次高",
+      "onboard_time": 1728055698,
+      "rank": 47,
+      "category": "财经"
     },
     {
       "raw_hot": 83762,
@@ -3017,6 +3049,14 @@
       "onboard_time": 1728040159,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 71012,
+      "num": 133398,
+      "word": "必须坚持人民至上",
+      "onboard_time": 1728056240,
+      "rank": 29,
+      "category": "国内时政"
     },
     {
       "raw_hot": 70236,
@@ -3209,14 +3249,6 @@
       "onboard_time": 1727975895,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 48641,
-      "num": 233733,
-      "word": "太阳爆发7年来最强耀斑",
-      "onboard_time": 1728055039,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 46885,
