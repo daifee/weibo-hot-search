@@ -1,0 +1,410 @@
+{
+  "runTime": 1728012436226,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 450237,
+        "num": 1072037,
+        "word": "在黎滞留11天华人绝望中等到了中国轮船",
+        "onboard_time": 1728001937,
+        "rank": 0,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 414819,
+        "num": 414819,
+        "word": "这个中国女团太美太飒",
+        "onboard_time": 1728010396,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 5960,
+        "num": 331805,
+        "word": "大型纪录片为了新中国",
+        "onboard_time": 1727962460,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 282895,
+        "num": 282895,
+        "word": "国庆假期后半段出游成本便宜近半",
+        "onboard_time": 1728003497,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254798,
+        "num": 254798,
+        "word": "长沙坡子街派出所成热门打卡地",
+        "onboard_time": 1727975895,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245685,
+        "num": 245685,
+        "word": "北京中轴线的中是中国的中",
+        "onboard_time": 1728004217,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208545,
+        "num": 245531,
+        "word": "时光音乐会",
+        "onboard_time": 1728012018,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196911,
+        "num": 243959,
+        "word": "中国的几何美学惊艳了",
+        "onboard_time": 1728000797,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134816,
+        "num": 243536,
+        "word": "国庆假期第四天",
+        "onboard_time": 1728008238,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94716,
+        "num": 242486,
+        "word": "从黎撤离亲历者称仿佛置身两个世界",
+        "onboard_time": 1728011717,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1545445,
+        "num": 241543,
+        "word": "中介劝房东不要情绪波动",
+        "onboard_time": 1728008477,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 930414,
+        "num": 240531,
+        "word": "官方回应停车7小时被收费217.5元",
+        "onboard_time": 1728008238,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 448480,
+        "num": 240087,
+        "word": "马龙呼吁网友别过分吹捧",
+        "onboard_time": 1728003318,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 21417,
+        "num": 238934,
+        "word": "只此青绿",
+        "onboard_time": 1728012137,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 354775,
+        "num": 237594,
+        "word": "上海有二手房涨价百万",
+        "onboard_time": 1728008718,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 297525,
+        "num": 236720,
+        "word": "方志敏烈士女儿方梅逝世",
+        "onboard_time": 1728010277,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 275262,
+        "num": 236003,
+        "word": "LNG空签",
+        "onboard_time": 1728006858,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 175734,
+        "num": 235447,
+        "word": "69名中国公民40小时撤出黎巴嫩全记录",
+        "onboard_time": 1728003078,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 269646,
+        "num": 234691,
+        "word": "周冬雨宋仲基破次元同框",
+        "onboard_time": 1727997676,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 233876,
+        "num": 233876,
+        "word": "国庆档两部影片撤档",
+        "onboard_time": 1728010818,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 519833,
+        "num": 231908,
+        "word": "朋友圈已经失去活人感了",
+        "onboard_time": 1727999537,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 228821,
+        "num": 228821,
+        "word": "赵丽颖主演电影票房破50亿",
+        "onboard_time": 1728006559,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 214584,
+        "num": 214584,
+        "word": "王一博给自己做了顿难吃的饭",
+        "onboard_time": 1728009317,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203010,
+        "num": 203010,
+        "word": "乌方讨论用土地换入约",
+        "onboard_time": 1728003497,
+        "rank": 23,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 180343,
+        "num": 180343,
+        "word": "没想到一句话让我妈认可男朋友",
+        "onboard_time": 1728007397,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 179818,
+        "num": 179818,
+        "word": "哑舍动画",
+        "onboard_time": 1728012018,
+        "rank": 25,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 168703,
+        "num": 168703,
+        "word": "中方警告一场全面战争一触即发",
+        "onboard_time": 1727946619,
+        "rank": 26,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 168498,
+        "num": 168498,
+        "word": "王一博 石猴出世",
+        "onboard_time": 1727971339,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165810,
+        "num": 165810,
+        "word": "中医建议入秋穿袜子睡觉",
+        "onboard_time": 1728000137,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 164683,
+        "num": 164683,
+        "word": "告别所谓的朋友圈精致生活了",
+        "onboard_time": 1728007457,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 164469,
+        "num": 164469,
+        "word": "猫咪学主人睡觉姿势",
+        "onboard_time": 1728008537,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 139142,
+        "num": 139142,
+        "word": "中国海警首次进北冰洋意味着什么",
+        "onboard_time": 1728003318,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131837,
+        "num": 131837,
+        "word": "黄杨钿甜待播剧都是女主了",
+        "onboard_time": 1728009436,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128779,
+        "num": 128779,
+        "word": "乘飞机更便宜了",
+        "onboard_time": 1728007218,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 119732,
+        "num": 119732,
+        "word": "日本新外相回应石破茂内阁亲中亲韩",
+        "onboard_time": 1727999055,
+        "rank": 34,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 118861,
+        "num": 118861,
+        "word": "第五人格",
+        "onboard_time": 1728007397,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 116185,
+        "num": 116185,
+        "word": "以军对黎巴嫩首都连发11次袭击",
+        "onboard_time": 1727999537,
+        "rank": 36,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 115494,
+        "num": 115494,
+        "word": "国庆三里屯到底有多少人",
+        "onboard_time": 1728010517,
+        "rank": 37,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 112326,
+        "num": 112326,
+        "word": "有一种安全感叫祖国欢迎你回家",
+        "onboard_time": 1728010818,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113397,
+        "num": 111866,
+        "word": "郑钦文对阵17岁新星冲四强",
+        "onboard_time": 1728010277,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 103340,
+        "num": 103340,
+        "word": "江慈为卫昭留下一子",
+        "onboard_time": 1727968579,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99854,
+        "num": 99854,
+        "word": "一些暧昧时期的聊天记录",
+        "onboard_time": 1728002597,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 93052,
+        "num": 93052,
+        "word": "谁在县城买几千万的豪宅",
+        "onboard_time": 1728012258,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92009,
+        "num": 92009,
+        "word": "马龙回应你的局点不是局点",
+        "onboard_time": 1728008417,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 88057,
+        "num": 88057,
+        "word": "90岁抗美援朝女战士敬礼时眼中有光",
+        "onboard_time": 1728008058,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 86765,
+        "num": 86765,
+        "word": "出入平安撤档",
+        "onboard_time": 1727962400,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 86602,
+        "num": 86602,
+        "word": "祖国永远在我心上",
+        "onboard_time": 1728005117,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 84172,
+        "num": 84172,
+        "word": "幼童车祸后做CT发现1年前磁力珠",
+        "onboard_time": 1727964981,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 83152,
+        "num": 83152,
+        "word": "为什么我们越休息越累",
+        "onboard_time": 1728012378,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 82783,
+        "num": 82783,
+        "word": "黄继光母亲曾立家规后代都要参军",
+        "onboard_time": 1728012258,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平说给老百姓花钱不要抠抠搜搜#"
+    }
+  }
+}
