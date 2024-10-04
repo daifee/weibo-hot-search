@@ -1,6 +1,6 @@
 {
   "startTime": 1727972886536,
-  "endTime": 1728037461464,
+  "endTime": 1728038519791,
   "band_list": [
     {
       "raw_hot": 2490639,
@@ -219,6 +219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 531445,
+      "num": 217607,
+      "word": "丈夫给足球打气递给妻子时突然爆炸",
+      "onboard_time": 1728033917,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 526100,
       "num": 366129,
       "word": "赵丽颖刘烨听徐冬冬说英语的反应",
@@ -235,20 +243,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 522167,
-      "num": 217607,
-      "word": "丈夫给足球打气递给妻子时突然爆炸",
-      "onboard_time": 1728033917,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 515528,
       "num": 241158,
       "word": "穆婷婷希望大家追求自然地老去",
       "onboard_time": 1728026717,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 515241,
+      "num": 216483,
+      "word": "穆祉丞漫展集邮",
+      "onboard_time": 1728036317,
+      "rank": 12,
+      "category": "动漫,艺人"
     },
     {
       "raw_hot": 509103,
@@ -291,14 +299,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 466068,
-      "num": 216483,
-      "word": "穆祉丞漫展集邮",
-      "onboard_time": 1728036317,
-      "rank": 12,
-      "category": "动漫,艺人"
-    },
-    {
       "raw_hot": 460288,
       "num": 166043,
       "word": "出入平安撤档",
@@ -315,11 +315,27 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 437024,
+      "num": 437024,
+      "word": "当下买股票还是买房子",
+      "onboard_time": 1728036138,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 432147,
       "num": 432147,
       "word": "深圳395套房源8小时售罄",
       "onboard_time": 1728026538,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 395046,
+      "num": 202378,
+      "word": "男子与女友分手称我骗她钱她骗我色",
+      "onboard_time": 1728036559,
+      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -376,6 +392,14 @@
       "word": "张雨霏为郑钦文挑边",
       "onboard_time": 1728029718,
       "rank": 26,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 376821,
+      "num": 376821,
+      "word": "郑钦文vs安德列娃",
+      "onboard_time": 1728036439,
+      "rank": 7,
       "category": "体育"
     },
     {
@@ -523,12 +547,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 297769,
+      "num": 195260,
+      "word": "退休英语老师的新赛道",
+      "onboard_time": 1728036798,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 297231,
+      "num": 297231,
+      "word": "梁靖崑vs林高远",
+      "onboard_time": 1728036858,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 295802,
       "num": 165627,
       "word": "东京食尸鬼 蜈蚣耳塞",
       "onboard_time": 1727968338,
       "rank": 13,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 292152,
+      "num": 201359,
+      "word": "宋亚轩 真假live图",
+      "onboard_time": 1728036737,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 290322,
@@ -707,14 +755,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 240715,
-      "num": 240715,
-      "word": "当下买股票还是买房子",
-      "onboard_time": 1728036138,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 239881,
       "num": 208470,
       "word": "猫的意思是这是她的床",
@@ -795,14 +835,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 223953,
-      "num": 223953,
-      "word": "郑钦文vs安德列娃",
-      "onboard_time": 1728036439,
-      "rank": 7,
-      "category": "体育"
-    },
-    {
       "raw_hot": 221959,
       "num": 229378,
       "word": "为什么我们越休息越累",
@@ -849,6 +881,14 @@
       "onboard_time": 1727954779,
       "rank": 19,
       "category": "电影"
+    },
+    {
+      "raw_hot": 206744,
+      "num": 206744,
+      "word": "孙颖莎vs伊藤美诚",
+      "onboard_time": 1728037938,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 205198,
@@ -947,14 +987,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 195260,
-      "num": 195260,
-      "word": "退休英语老师的新赛道",
-      "onboard_time": 1728036798,
-      "rank": 31,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 194962,
       "num": 315707,
       "word": "国庆假期后半段你打算怎么过",
@@ -969,14 +1001,6 @@
       "onboard_time": 1727967499,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 192147,
-      "num": 192147,
-      "word": "宋亚轩 真假live图",
-      "onboard_time": 1728036737,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 192097,
@@ -1019,6 +1043,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 181434,
+      "num": 215466,
+      "word": "萨巴伦卡无缘中网四强",
+      "onboard_time": 1728037099,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 180226,
       "num": 180226,
       "word": "S14瑞士轮抽签",
@@ -1033,6 +1065,14 @@
       "onboard_time": 1728019398,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 177521,
+      "num": 177521,
+      "word": "恋与深空 秦彻",
+      "onboard_time": 1728037518,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 174800,
@@ -1057,6 +1097,14 @@
       "onboard_time": 1727964981,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 173632,
+      "num": 173632,
+      "word": "汪涵做化妆解说是专业的",
+      "onboard_time": 1728037398,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 171339,
@@ -1155,6 +1203,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 160620,
+      "num": 160620,
+      "word": "迪丽热巴贺思慕新头饰",
+      "onboard_time": 1728038058,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 158809,
       "num": 158809,
       "word": "祖国永远在我心上",
@@ -1177,6 +1233,14 @@
       "onboard_time": 1727966539,
       "rank": 25,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 154239,
+      "num": 154239,
+      "word": "葛优新片直播带货翻车",
+      "onboard_time": 1728037579,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 152534,
@@ -1203,6 +1267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 148812,
+      "num": 203974,
+      "word": "男子触电被3轮救援抢回一命",
+      "onboard_time": 1728036198,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 146933,
       "num": 146933,
       "word": "郑钦文对阵17岁新星冲四强",
@@ -1225,14 +1297,6 @@
       "onboard_time": 1728017718,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 144377,
-      "num": 208868,
-      "word": "梁靖崑vs林高远",
-      "onboard_time": 1728036858,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 144346,
@@ -1331,14 +1395,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 136585,
-      "num": 136585,
-      "word": "男子与女友分手称我骗她钱她骗我色",
-      "onboard_time": 1728036559,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 134935,
       "num": 134935,
       "word": "国乒锁定中国大满贯男双冠亚军",
@@ -1347,12 +1403,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 134602,
-      "num": 134602,
-      "word": "男子触电被3轮救援抢回一命",
-      "onboard_time": 1728036198,
-      "rank": 38,
-      "category": "社会新闻"
+      "raw_hot": 134753,
+      "num": 134753,
+      "word": "肖凯文晒与王楚钦合照",
+      "onboard_time": 1728037157,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 133822,
@@ -1401,6 +1457,14 @@
       "onboard_time": 1727968760,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 132399,
+      "num": 132399,
+      "word": "王楚钦说打完了怎么喊都行",
+      "onboard_time": 1728038358,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 131837,
@@ -1619,6 +1683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 116814,
+      "num": 156830,
+      "word": "游客十一逃离人潮反向涌进县城",
+      "onboard_time": 1728036439,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 115897,
       "num": 115897,
       "word": "孙颖莎分享在家幸福日常",
@@ -1651,6 +1723,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 113198,
+      "num": 200119,
+      "word": "749局 拯救自己",
+      "onboard_time": 1728036678,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 112829,
       "num": 112829,
       "word": "王曼昱说半决赛没压力放开打",
@@ -1667,7 +1747,7 @@
       "category": "财经"
     },
     {
-      "raw_hot": 111191,
+      "raw_hot": 112291,
       "num": 209824,
       "word": "于祥宇 商场为什么不多修点女厕所",
       "onboard_time": 1728036918,
@@ -1731,14 +1811,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 108171,
-      "num": 108171,
-      "word": "肖凯文晒与王楚钦合照",
-      "onboard_time": 1728037157,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 107811,
       "num": 107811,
       "word": "中国轮船40小时带80人安全撤离黎巴嫩",
@@ -1753,14 +1825,6 @@
       "onboard_time": 1728013758,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 106205,
-      "num": 200119,
-      "word": "749局 拯救自己",
-      "onboard_time": 1728036678,
-      "rank": 28,
-      "category": "电影"
     },
     {
       "raw_hot": 106116,
@@ -1779,12 +1843,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 103538,
-      "num": 103538,
-      "word": "游客十一逃离人潮反向涌进县城",
-      "onboard_time": 1728036439,
-      "rank": 47,
-      "category": "社会新闻"
+      "raw_hot": 102639,
+      "num": 102639,
+      "word": "时装周最热艺人前二十",
+      "onboard_time": 1728038479,
+      "rank": 48,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 102127,
@@ -1857,14 +1921,6 @@
       "onboard_time": 1727953279,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 96822,
-      "num": 96822,
-      "word": "汪涵做化妆解说是专业的",
-      "onboard_time": 1728037398,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 96747,
@@ -2081,14 +2137,6 @@
       "onboard_time": 1728010277,
       "rank": 48,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 72821,
-      "num": 215466,
-      "word": "萨巴伦卡无缘中网四强",
-      "onboard_time": 1728037099,
-      "rank": 13,
-      "category": "体育"
     },
     {
       "raw_hot": 72623,
@@ -2484,7 +2532,7 @@
     },
     {
       "raw_hot": 20803,
-      "num": 383418,
+      "num": 399836,
       "word": "探寻发展密码",
       "onboard_time": 1728031278,
       "rank": 2,

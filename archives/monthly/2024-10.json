@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1728037461464,
+  "endTime": 1728038519791,
   "band_list": [
     {
       "raw_hot": 11925969,
@@ -1443,6 +1443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 531445,
+      "num": 217607,
+      "word": "丈夫给足球打气递给妻子时突然爆炸",
+      "onboard_time": 1728033917,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 529740,
       "num": 255409,
       "word": "东北雨姐称先行全额退款",
@@ -1472,14 +1480,6 @@
       "word": "00后离家4000多公里到沙漠小城教书",
       "onboard_time": 1728024022,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 522167,
-      "num": 217607,
-      "word": "丈夫给足球打气递给妻子时突然爆炸",
-      "onboard_time": 1728033917,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -1513,6 +1513,14 @@
       "onboard_time": 1728026717,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 515241,
+      "num": 216483,
+      "word": "穆祉丞漫展集邮",
+      "onboard_time": 1728036317,
+      "rank": 12,
+      "category": "动漫,艺人"
     },
     {
       "raw_hot": 510705,
@@ -1691,14 +1699,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 466068,
-      "num": 216483,
-      "word": "穆祉丞漫展集邮",
-      "onboard_time": 1728036317,
-      "rank": 12,
-      "category": "动漫,艺人"
-    },
-    {
       "raw_hot": 465493,
       "num": 365145,
       "word": "offer6带教 香港首位内地女性大律师",
@@ -1848,6 +1848,14 @@
       "word": "高铁晚点",
       "onboard_time": 1727771538,
       "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 437024,
+      "num": 437024,
+      "word": "当下买股票还是买房子",
+      "onboard_time": 1728036138,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -2035,6 +2043,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 395046,
+      "num": 202378,
+      "word": "男子与女友分手称我骗她钱她骗我色",
+      "onboard_time": 1728036559,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 394582,
       "num": 119908,
       "word": "黎巴嫩遭以色列空袭超15万人逃离",
@@ -2137,6 +2153,14 @@
       "onboard_time": 1727872279,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 376821,
+      "num": 376821,
+      "word": "郑钦文vs安德列娃",
+      "onboard_time": 1728036439,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 376583,
@@ -2683,12 +2707,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 297769,
+      "num": 195260,
+      "word": "退休英语老师的新赛道",
+      "onboard_time": 1728036798,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 297277,
       "num": 297277,
       "word": "今天把清澈的爱大声唱给祖国听",
       "onboard_time": 1727749339,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 297231,
+      "num": 297231,
+      "word": "梁靖崑vs林高远",
+      "onboard_time": 1728036858,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 296297,
@@ -2761,6 +2801,14 @@
       "onboard_time": 1727808732,
       "rank": 12,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 292152,
+      "num": 201359,
+      "word": "宋亚轩 真假live图",
+      "onboard_time": 1728036737,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 290987,
@@ -3531,14 +3579,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 240715,
-      "num": 240715,
-      "word": "当下买股票还是买房子",
-      "onboard_time": 1728036138,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 239881,
       "num": 208470,
       "word": "猫的意思是这是她的床",
@@ -3883,14 +3923,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 223953,
-      "num": 223953,
-      "word": "郑钦文vs安德列娃",
-      "onboard_time": 1728036439,
-      "rank": 7,
-      "category": "体育"
-    },
-    {
       "raw_hot": 223496,
       "num": 223496,
       "word": "赵今麦miumiu大秀状态",
@@ -4209,6 +4241,14 @@
       "onboard_time": 1727856437,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 206744,
+      "num": 206744,
+      "word": "孙颖莎vs伊藤美诚",
+      "onboard_time": 1728037938,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 206504,
@@ -4571,14 +4611,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 195260,
-      "num": 195260,
-      "word": "退休英语老师的新赛道",
-      "onboard_time": 1728036798,
-      "rank": 31,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 194962,
       "num": 315707,
       "word": "国庆假期后半段你打算怎么过",
@@ -4721,14 +4753,6 @@
       "onboard_time": 1727922379,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 192147,
-      "num": 192147,
-      "word": "宋亚轩 真假live图",
-      "onboard_time": 1728036737,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 192097,
@@ -5067,6 +5091,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 181434,
+      "num": 215466,
+      "word": "萨巴伦卡无缘中网四强",
+      "onboard_time": 1728037099,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 181311,
       "num": 181311,
       "word": "国旗护卫队脚步声太震撼了",
@@ -5201,6 +5233,14 @@
       "onboard_time": 1727947220,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 177521,
+      "num": 177521,
+      "word": "恋与深空 秦彻",
+      "onboard_time": 1728037518,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 177485,
@@ -5352,6 +5392,14 @@
       "word": "刘璇给二十岁女孩的忠告",
       "onboard_time": 1727940678,
       "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 173632,
+      "num": 173632,
+      "word": "汪涵做化妆解说是专业的",
+      "onboard_time": 1728037398,
+      "rank": 48,
       "category": "综艺"
     },
     {
@@ -5747,6 +5795,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 160620,
+      "num": 160620,
+      "word": "迪丽热巴贺思慕新头饰",
+      "onboard_time": 1728038058,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 160608,
       "num": 160608,
       "word": "10月第一天",
@@ -6003,6 +6059,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 154239,
+      "num": 154239,
+      "word": "葛优新片直播带货翻车",
+      "onboard_time": 1728037579,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
       "raw_hot": 153170,
       "num": 245330,
       "word": "749局2024国庆档预售票房冠军",
@@ -6203,6 +6267,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 148812,
+      "num": 203974,
+      "word": "男子触电被3轮救援抢回一命",
+      "onboard_time": 1728036198,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 148534,
       "num": 242391,
       "word": "商务部回应加拿大对我国电动汽车加征关税",
@@ -6353,14 +6425,6 @@
       "onboard_time": 1727922077,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 144377,
-      "num": 208868,
-      "word": "梁靖崑vs林高远",
-      "onboard_time": 1728036858,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 144346,
@@ -6739,14 +6803,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 136585,
-      "num": 136585,
-      "word": "男子与女友分手称我骗她钱她骗我色",
-      "onboard_time": 1728036559,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 136575,
       "num": 214459,
       "word": "国庆节值得重温的阅兵画面",
@@ -6819,12 +6875,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 134602,
-      "num": 134602,
-      "word": "男子触电被3轮救援抢回一命",
-      "onboard_time": 1728036198,
-      "rank": 38,
-      "category": "社会新闻"
+      "raw_hot": 134753,
+      "num": 134753,
+      "word": "肖凯文晒与王楚钦合照",
+      "onboard_time": 1728037157,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 134461,
@@ -7001,6 +7057,14 @@
       "onboard_time": 1727832738,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 132399,
+      "num": 132399,
+      "word": "王楚钦说打完了怎么喊都行",
+      "onboard_time": 1728038358,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 132376,
@@ -7843,6 +7907,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 116814,
+      "num": 156830,
+      "word": "游客十一逃离人潮反向涌进县城",
+      "onboard_time": 1728036439,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 116715,
       "num": 116715,
       "word": "迪丽热巴陈飞宇慕胥辞情侣装",
@@ -8019,6 +8091,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 113198,
+      "num": 200119,
+      "word": "749局 拯救自己",
+      "onboard_time": 1728036678,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 112943,
       "num": 112943,
       "word": "罗仪涵 让你走让你留都是命运在保护你",
@@ -8057,6 +8137,14 @@
       "onboard_time": 1728033138,
       "rank": 41,
       "category": "财经"
+    },
+    {
+      "raw_hot": 112291,
+      "num": 209824,
+      "word": "于祥宇 商场为什么不多修点女厕所",
+      "onboard_time": 1728036918,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 112229,
@@ -8129,14 +8217,6 @@
       "onboard_time": 1727851398,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 111191,
-      "num": 209824,
-      "word": "于祥宇 商场为什么不多修点女厕所",
-      "onboard_time": 1728036918,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 111109,
@@ -8281,14 +8361,6 @@
       "onboard_time": 1727911695,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 108171,
-      "num": 108171,
-      "word": "肖凯文晒与王楚钦合照",
-      "onboard_time": 1728037157,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 108095,
@@ -8443,14 +8515,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 106205,
-      "num": 200119,
-      "word": "749局 拯救自己",
-      "onboard_time": 1728036678,
-      "rank": 28,
-      "category": "电影"
-    },
-    {
       "raw_hot": 106190,
       "num": 106190,
       "word": "唯一进入贝鲁特南郊的中国记者",
@@ -8579,14 +8643,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 103538,
-      "num": 103538,
-      "word": "游客十一逃离人潮反向涌进县城",
-      "onboard_time": 1728036439,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 103176,
       "num": 103176,
       "word": "王曼昱晋级16强",
@@ -8633,6 +8689,14 @@
       "onboard_time": 1727777479,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 102639,
+      "num": 102639,
+      "word": "时装周最热艺人前二十",
+      "onboard_time": 1728038479,
+      "rank": 48,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 102538,
@@ -8913,14 +8977,6 @@
       "onboard_time": 1727940678,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 96822,
-      "num": 96822,
-      "word": "汪涵做化妆解说是专业的",
-      "onboard_time": 1728037398,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 96710,
@@ -9705,14 +9761,6 @@
       "onboard_time": 1727949679,
       "rank": 20,
       "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 72821,
-      "num": 215466,
-      "word": "萨巴伦卡无缘中网四强",
-      "onboard_time": 1728037099,
-      "rank": 13,
-      "category": "体育"
     },
     {
       "raw_hot": 72623,
@@ -11284,7 +11332,7 @@
     },
     {
       "raw_hot": 20803,
-      "num": 383418,
+      "num": 399836,
       "word": "探寻发展密码",
       "onboard_time": 1728031278,
       "rank": 2,
