@@ -1,0 +1,410 @@
+{
+  "runTime": 1728006110786,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1243100,
+        "num": 1243100,
+        "word": "在黎滞留11天华人绝望中等到了中国轮船",
+        "onboard_time": 1728001937,
+        "rank": 0,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 494144,
+        "num": 494144,
+        "word": "69名中国公民40小时撤出黎巴嫩全记录",
+        "onboard_time": 1728003078,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 6932,
+        "num": 390787,
+        "word": "大型纪录片为了新中国",
+        "onboard_time": 1727962460,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 351227,
+        "num": 351227,
+        "word": "中国的几何美学惊艳了",
+        "onboard_time": 1728000797,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 309585,
+        "num": 309585,
+        "word": "长沙坡子街派出所成热门打卡地",
+        "onboard_time": 1727975895,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 269845,
+        "num": 269845,
+        "word": "中国海警首次进北冰洋意味着什么",
+        "onboard_time": 1728003318,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221135,
+        "num": 221135,
+        "word": "中国海警现身阿拉斯加附近打乱美国布局",
+        "onboard_time": 1727963000,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 208155,
+        "num": 208155,
+        "word": "这不是特效是中国非遗表演",
+        "onboard_time": 1727967860,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187642,
+        "num": 187642,
+        "word": "国庆堵在隧道众人下车大合唱",
+        "onboard_time": 1727972299,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156418,
+        "num": 187304,
+        "word": "北京中轴线的中是中国的中",
+        "onboard_time": 1728004217,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 453149,
+        "num": 186458,
+        "word": "中方警告一场全面战争一触即发",
+        "onboard_time": 1727946619,
+        "rank": 10,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 367136,
+        "num": 185515,
+        "word": "周冬雨宋仲基破次元同框",
+        "onboard_time": 1727997676,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 343947,
+        "num": 184596,
+        "word": "乌方讨论用土地换入约",
+        "onboard_time": 1728003497,
+        "rank": 12,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 287154,
+        "num": 183596,
+        "word": "以军对黎巴嫩首都连发11次袭击",
+        "onboard_time": 1727999537,
+        "rank": 13,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 279450,
+        "num": 182082,
+        "word": "日本新外相回应石破茂内阁亲中亲韩",
+        "onboard_time": 1727999055,
+        "rank": 14,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 195649,
+        "num": 181885,
+        "word": "王一博 石猴出世",
+        "onboard_time": 1727971339,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191754,
+        "num": 181087,
+        "word": "堵车演唱会开在了音效最好的地方",
+        "onboard_time": 1727969000,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180226,
+        "num": 180226,
+        "word": "S14瑞士轮抽签",
+        "onboard_time": 1727998216,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 164808,
+        "num": 164808,
+        "word": "退伍军人跳海救人未果大喊我尽力了",
+        "onboard_time": 1727994552,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158809,
+        "num": 158809,
+        "word": "祖国永远在我心上",
+        "onboard_time": 1728005117,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 638674,
+        "num": 158233,
+        "word": "朋友圈已经失去活人感了",
+        "onboard_time": 1727999537,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 247734,
+        "num": 157314,
+        "word": "马龙呼吁网友别过分吹捧",
+        "onboard_time": 1728003318,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 218440,
+        "num": 156872,
+        "word": "中医建议入秋穿袜子睡觉",
+        "onboard_time": 1728000137,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 214604,
+        "num": 155595,
+        "word": "一些暧昧时期的聊天记录",
+        "onboard_time": 1728002597,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 160470,
+        "num": 154670,
+        "word": "脸与身材严重不符具像化了",
+        "onboard_time": 1727997795,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 154584,
+        "num": 154584,
+        "word": "江慈为卫昭留下一子",
+        "onboard_time": 1727968579,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149519,
+        "num": 149519,
+        "word": "马龙回应是否让儿子打乒乓球",
+        "onboard_time": 1727962219,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 138990,
+        "num": 138990,
+        "word": "大陆女生勇闯台湾娱乐圈",
+        "onboard_time": 1727970080,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137692,
+        "num": 137692,
+        "word": "给老人设计的拐杖却被年轻人买爆",
+        "onboard_time": 1727950759,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137350,
+        "num": 137350,
+        "word": "夫妻在广州看房不到3小时下定金",
+        "onboard_time": 1727967139,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132539,
+        "num": 132539,
+        "word": "出入平安撤档",
+        "onboard_time": 1727962400,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 129843,
+        "num": 129843,
+        "word": "幼童车祸后做CT发现1年前磁力珠",
+        "onboard_time": 1727964981,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129754,
+        "num": 129754,
+        "word": "假期去冰岛旅游的人已经后悔了",
+        "onboard_time": 1727965460,
+        "rank": 32,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 127769,
+        "num": 127769,
+        "word": "年轻人错峰游整顿黄金周",
+        "onboard_time": 1728003497,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116358,
+        "num": 116358,
+        "word": "睡觉需要主人抱着的小狗",
+        "onboard_time": 1728001038,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 109852,
+        "num": 109852,
+        "word": "潘玮柏二刷的杭州面馆1天卖千碗",
+        "onboard_time": 1727986510,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108662,
+        "num": 108662,
+        "word": "广州一中介门店1天卖出5套二手房",
+        "onboard_time": 1728003078,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108625,
+        "num": 108625,
+        "word": "这就是中国节拍",
+        "onboard_time": 1728003438,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 99883,
+        "num": 99883,
+        "word": "俄扣押美国两家银行数亿美元资金",
+        "onboard_time": 1727970738,
+        "rank": 38,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 99229,
+        "num": 99229,
+        "word": "周深巡回演唱会",
+        "onboard_time": 1728005778,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 90795,
+        "num": 90795,
+        "word": "如何一眼区分新女婿和老女婿",
+        "onboard_time": 1728000077,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 88987,
+        "num": 88987,
+        "word": "黎巴嫩遭以色列空袭超15万人逃离",
+        "onboard_time": 1727984952,
+        "rank": 41,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 87481,
+        "num": 87481,
+        "word": "他立下军令状为国研制预警机",
+        "onboard_time": 1728002117,
+        "rank": 42,
+        "category": "社会新闻,国内时政"
+      },
+      {
+        "raw_hot": 82526,
+        "num": 82526,
+        "word": "CP30",
+        "onboard_time": 1728000077,
+        "rank": 43,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 81996,
+        "num": 81996,
+        "word": "凤凰浴火重生这一刻具象化了",
+        "onboard_time": 1727967499,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 81884,
+        "num": 81884,
+        "word": "代驾版的提灯定损",
+        "onboard_time": 1728005057,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 81882,
+        "num": 81882,
+        "word": "TES签运",
+        "onboard_time": 1728005657,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 79583,
+        "num": 79583,
+        "word": "韩国体育界霸凌事件频发",
+        "onboard_time": 1728000137,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 50360,
+        "num": 79257,
+        "word": "B费连续两场红牌",
+        "onboard_time": 1728003257,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 42102,
+        "num": 76844,
+        "word": "波尔图3比3曼联",
+        "onboard_time": 1727997855,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平说给老百姓花钱不要抠抠搜搜#"
+    }
+  }
+}

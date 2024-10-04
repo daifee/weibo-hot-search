@@ -1,14 +1,30 @@
 {
   "startTime": 1727972886536,
-  "endTime": 1727998586616,
+  "endTime": 1728006110786,
   "band_list": [
     {
+      "raw_hot": 1243100,
+      "num": 1243100,
+      "word": "在黎滞留11天华人绝望中等到了中国轮船",
+      "onboard_time": 1728001937,
+      "rank": 0,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 765024,
-      "num": 166809,
+      "num": 186458,
       "word": "中方警告一场全面战争一触即发",
       "onboard_time": 1727946619,
       "rank": 10,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 638674,
+      "num": 158233,
+      "word": "朋友圈已经失去活人感了",
+      "onboard_time": 1727999537,
+      "rank": 20,
+      "category": "幽默"
     },
     {
       "raw_hot": 550802,
@@ -17,6 +33,14 @@
       "onboard_time": 1727967139,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 494144,
+      "num": 494144,
+      "word": "69名中国公民40小时撤出黎巴嫩全记录",
+      "onboard_time": 1728003078,
+      "rank": 1,
+      "category": "国内时政"
     },
     {
       "raw_hot": 460288,
@@ -35,6 +59,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 367136,
+      "num": 185515,
+      "word": "周冬雨宋仲基破次元同框",
+      "onboard_time": 1727997676,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
       "raw_hot": 362142,
       "num": 853717,
       "word": "中国海警现身阿拉斯加附近打乱美国布局",
@@ -44,11 +76,27 @@
     },
     {
       "raw_hot": 361488,
-      "num": 113919,
+      "num": 154670,
       "word": "脸与身材严重不符具像化了",
       "onboard_time": 1727997795,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 351227,
+      "num": 351227,
+      "word": "中国的几何美学惊艳了",
+      "onboard_time": 1728000797,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 343947,
+      "num": 184596,
+      "word": "乌方讨论用土地换入约",
+      "onboard_time": 1728003497,
+      "rank": 12,
+      "category": "国外时政"
     },
     {
       "raw_hot": 334445,
@@ -56,6 +104,14 @@
       "word": "这不是特效是中国非遗表演",
       "onboard_time": 1727967860,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 309585,
+      "num": 309585,
+      "word": "长沙坡子街派出所成热门打卡地",
+      "onboard_time": 1727975895,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -67,12 +123,28 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 287154,
+      "num": 183596,
+      "word": "以军对黎巴嫩首都连发11次袭击",
+      "onboard_time": 1727999537,
+      "rank": 13,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 283260,
-      "num": 164127,
+      "num": 181885,
       "word": "王一博 石猴出世",
       "onboard_time": 1727971339,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 279450,
+      "num": 182082,
+      "word": "日本新外相回应石破茂内阁亲中亲韩",
+      "onboard_time": 1727999055,
+      "rank": 14,
+      "category": "国外时政"
     },
     {
       "raw_hot": 277121,
@@ -91,8 +163,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 269845,
+      "num": 269845,
+      "word": "中国海警首次进北冰洋意味着什么",
+      "onboard_time": 1728003318,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 267175,
-      "num": 121839,
+      "num": 138990,
       "word": "大陆女生勇闯台湾娱乐圈",
       "onboard_time": 1727970080,
       "rank": 34,
@@ -105,6 +185,14 @@
       "onboard_time": 1727965460,
       "rank": 26,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 247734,
+      "num": 157314,
+      "word": "马龙呼吁网友别过分吹捧",
+      "onboard_time": 1728003318,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 245061,
@@ -123,12 +211,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 213338,
-      "num": 213338,
-      "word": "长沙坡子街派出所成热门打卡地",
-      "onboard_time": 1727975895,
-      "rank": 41,
-      "category": "社会新闻"
+      "raw_hot": 218440,
+      "num": 156872,
+      "word": "中医建议入秋穿袜子睡觉",
+      "onboard_time": 1728000137,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 214604,
+      "num": 155595,
+      "word": "一些暧昧时期的聊天记录",
+      "onboard_time": 1728002597,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 210299,
@@ -140,7 +236,7 @@
     },
     {
       "raw_hot": 201612,
-      "num": 114741,
+      "num": 164808,
       "word": "退伍军人跳海救人未果大喊我尽力了",
       "onboard_time": 1727994552,
       "rank": 40,
@@ -171,6 +267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 191754,
+      "num": 181087,
+      "word": "堵车演唱会开在了音效最好的地方",
+      "onboard_time": 1727969000,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 189273,
       "num": 380353,
       "word": "国庆堵在隧道众人下车大合唱",
@@ -185,6 +289,14 @@
       "onboard_time": 1727971159,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 180226,
+      "num": 180226,
+      "word": "S14瑞士轮抽签",
+      "onboard_time": 1727998216,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 174149,
@@ -211,20 +323,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 166304,
-      "num": 145996,
-      "word": "堵车演唱会开在了音效最好的地方",
-      "onboard_time": 1727969000,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 162751,
       "num": 162751,
       "word": "TES战胜T1",
       "onboard_time": 1727964380,
       "rank": 22,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 158809,
+      "num": 158809,
+      "word": "祖国永远在我心上",
+      "onboard_time": 1728005117,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 158395,
@@ -235,12 +347,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 156418,
+      "num": 187304,
+      "word": "北京中轴线的中是中国的中",
+      "onboard_time": 1728004217,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 154590,
       "num": 154590,
       "word": "以色列",
       "onboard_time": 1727966539,
       "rank": 25,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 149519,
+      "num": 149519,
+      "word": "马龙回应是否让儿子打乒乓球",
+      "onboard_time": 1727962219,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 146704,
@@ -299,6 +427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 127769,
+      "num": 127769,
+      "word": "年轻人错峰游整顿黄金周",
+      "onboard_time": 1728003497,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 123052,
       "num": 123052,
       "word": "TES全员发博碰拳",
@@ -315,6 +451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 116358,
+      "num": 116358,
+      "word": "睡觉需要主人抱着的小狗",
+      "onboard_time": 1728001038,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 115897,
       "num": 115897,
       "word": "孙颖莎分享在家幸福日常",
@@ -323,20 +467,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 109852,
+      "num": 109852,
+      "word": "潘玮柏二刷的杭州面馆1天卖千碗",
+      "onboard_time": 1727986510,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 108662,
+      "num": 108662,
+      "word": "广州一中介门店1天卖出5套二手房",
+      "onboard_time": 1728003078,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 108625,
+      "num": 108625,
+      "word": "这就是中国节拍",
+      "onboard_time": 1728003438,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 104532,
       "num": 104532,
       "word": "GEN对战WBG",
       "onboard_time": 1727966001,
       "rank": 35,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 104016,
-      "num": 104016,
-      "word": "周冬雨宋仲基破次元同框",
-      "onboard_time": 1727997676,
-      "rank": 48,
-      "category": "电影"
     },
     {
       "raw_hot": 102127,
@@ -353,6 +513,14 @@
       "onboard_time": 1727965760,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 99229,
+      "num": 99229,
+      "word": "周深巡回演唱会",
+      "onboard_time": 1728005778,
+      "rank": 39,
+      "category": "演出"
     },
     {
       "raw_hot": 97180,
@@ -387,12 +555,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 91362,
-      "num": 91362,
-      "word": "潘玮柏二刷的杭州面馆1天卖千碗",
-      "onboard_time": 1727986510,
-      "rank": 46,
-      "category": "艺人"
+      "raw_hot": 90795,
+      "num": 90795,
+      "word": "如何一眼区分新女婿和老女婿",
+      "onboard_time": 1728000077,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 87481,
+      "num": 87481,
+      "word": "他立下军令状为国研制预警机",
+      "onboard_time": 1728002117,
+      "rank": 42,
+      "category": "社会新闻,国内时政"
     },
     {
       "raw_hot": 87138,
@@ -401,14 +577,6 @@
       "onboard_time": 1727961020,
       "rank": 30,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 86647,
-      "num": 86647,
-      "word": "马龙回应是否让儿子打乒乓球",
-      "onboard_time": 1727962219,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 85421,
@@ -443,12 +611,44 @@
       "category": "电影"
     },
     {
+      "raw_hot": 82526,
+      "num": 82526,
+      "word": "CP30",
+      "onboard_time": 1728000077,
+      "rank": 43,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 81884,
+      "num": 81884,
+      "word": "代驾版的提灯定损",
+      "onboard_time": 1728005057,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 81882,
+      "num": 81882,
+      "word": "TES签运",
+      "onboard_time": 1728005657,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 80121,
       "num": 80121,
       "word": "董洁大女主赛道",
       "onboard_time": 1727993172,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 79583,
+      "num": 79583,
+      "word": "韩国体育界霸凌事件频发",
+      "onboard_time": 1728000137,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 79440,
@@ -492,7 +692,7 @@
     },
     {
       "raw_hot": 72623,
-      "num": 72623,
+      "num": 76844,
       "word": "波尔图3比3曼联",
       "onboard_time": 1727997855,
       "rank": 35,
@@ -531,14 +731,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 61397,
-      "num": 61397,
-      "word": "S14瑞士轮抽签",
-      "onboard_time": 1727998216,
-      "rank": 40,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 59855,
       "num": 59855,
       "word": "旅游睡厕所算没苦硬吃吗",
@@ -561,6 +753,14 @@
       "onboard_time": 1727967499,
       "rank": 37,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 50360,
+      "num": 79257,
+      "word": "B费连续两场红牌",
+      "onboard_time": 1728003257,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 50087,
@@ -700,7 +900,7 @@
     },
     {
       "raw_hot": 12687,
-      "num": 205083,
+      "num": 390787,
       "word": "大型纪录片为了新中国",
       "onboard_time": 1727962460,
       "rank": 2,
