@@ -1,0 +1,410 @@
+{
+  "runTime": 1728027381188,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 806381,
+        "num": 1129020,
+        "word": "新疆小孩哥采访中惊出表情包",
+        "onboard_time": 1728023898,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 522372,
+        "num": 522372,
+        "word": "00后离家4000多公里到沙漠小城教书",
+        "onboard_time": 1728024022,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 7058,
+        "num": 476296,
+        "word": "这就是中国节拍",
+        "onboard_time": 1728003438,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 464306,
+        "num": 464306,
+        "word": "四川自贡真捅了龙窝了",
+        "onboard_time": 1728019577,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255291,
+        "num": 255291,
+        "word": "马龙4比0战胜雨果",
+        "onboard_time": 1728018858,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 222826,
+        "num": 222826,
+        "word": "杭州千岛湖景区发布重要通告",
+        "onboard_time": 1728021021,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212423,
+        "num": 212423,
+        "word": "林诗栋4比0林德",
+        "onboard_time": 1728015677,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 208313,
+        "num": 208313,
+        "word": "黄继光母亲曾立家规后代都要参军",
+        "onboard_time": 1728012258,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157031,
+        "num": 207928,
+        "word": "李斯丹妮快女13年后首个常驻音综",
+        "onboard_time": 1728026659,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 83556,
+        "num": 207336,
+        "word": "深圳395套房源8小时售罄",
+        "onboard_time": 1728026538,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 651142,
+        "num": 206329,
+        "word": "女子支付空气买饮料演戏演全套",
+        "onboard_time": 1728019759,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 604937,
+        "num": 205711,
+        "word": "王楚然 眼前一亮又一黑",
+        "onboard_time": 1728021918,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 303634,
+        "num": 204091,
+        "word": "黎巴嫩首都机场附近爆炸火光一片",
+        "onboard_time": 1728024979,
+        "rank": 12,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 294420,
+        "num": 203553,
+        "word": "趵突泉保安拎罪证劝游客不要喂鱼",
+        "onboard_time": 1728019818,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262001,
+        "num": 202389,
+        "word": "女医生假期带娃爬山救回一条命",
+        "onboard_time": 1728020658,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246952,
+        "num": 202114,
+        "word": "宋仲基说是周冬雨粉丝",
+        "onboard_time": 1728018376,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 226452,
+        "num": 201417,
+        "word": "中介劝房东不要情绪波动",
+        "onboard_time": 1728008477,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213613,
+        "num": 200080,
+        "word": "黎巴嫩机场附近爆炸前还有飞机滑行",
+        "onboard_time": 1728025518,
+        "rank": 17,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 64285,
+        "num": 199646,
+        "word": "港股飘红",
+        "onboard_time": 1728026179,
+        "rank": 18,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 31355,
+        "num": 198178,
+        "word": "穆婷婷希望大家追求自然地老去",
+        "onboard_time": 1728026717,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1220548,
+        "num": 197940,
+        "word": "一家人患病查出血液中老鼠药成分高",
+        "onboard_time": 1728019398,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239881,
+        "num": 196672,
+        "word": "猫的意思是这是她的床",
+        "onboard_time": 1728022757,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 196403,
+        "num": 196403,
+        "word": "三清山游客冷风中排队齐喊退票",
+        "onboard_time": 1728025219,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195368,
+        "num": 195368,
+        "word": "许昕赢了赚输了算",
+        "onboard_time": 1728021798,
+        "rank": 23,
+        "category": "综艺,体育"
+      },
+      {
+        "raw_hot": 193194,
+        "num": 193194,
+        "word": "谁在县城买几千万的豪宅",
+        "onboard_time": 1728012258,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186914,
+        "num": 186914,
+        "word": "朋友圈已经失去活人感了",
+        "onboard_time": 1727999537,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 179596,
+        "num": 179596,
+        "word": "堵车的源头竟是司机路边停车野餐",
+        "onboard_time": 1728026478,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178612,
+        "num": 178612,
+        "word": "国庆假期第四天",
+        "onboard_time": 1728008238,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174359,
+        "num": 174359,
+        "word": "官方回应停车7小时被收费217.5元",
+        "onboard_time": 1728008238,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172299,
+        "num": 172299,
+        "word": "姜潮承诺为麦迪娜补办婚礼",
+        "onboard_time": 1728027079,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149797,
+        "num": 149797,
+        "word": "国庆假期趵突泉胖锦鲤撑死好几条",
+        "onboard_time": 1728017838,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148863,
+        "num": 148863,
+        "word": "王楚钦场上很拽解释时很温柔",
+        "onboard_time": 1728019159,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144255,
+        "num": 144255,
+        "word": "国庆假期后半段你打算怎么过",
+        "onboard_time": 1728015019,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142473,
+        "num": 142473,
+        "word": "为什么坐油车不晕一坐电车就晕",
+        "onboard_time": 1728019038,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140660,
+        "num": 140660,
+        "word": "女司机高速上开40码被交警拦下",
+        "onboard_time": 1728019398,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140239,
+        "num": 140239,
+        "word": "披荆斩棘 选人环节",
+        "onboard_time": 1728026237,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137896,
+        "num": 137896,
+        "word": "749局票房破3亿",
+        "onboard_time": 1728018737,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 127096,
+        "num": 127096,
+        "word": "赵丽颖这个逆光镜头",
+        "onboard_time": 1728021137,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 112993,
+        "num": 112993,
+        "word": "哑舍十二卷卷卷有爷名",
+        "onboard_time": 1728025097,
+        "rank": 38,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 109287,
+        "num": 109287,
+        "word": "Bin想成为Faker接班人",
+        "onboard_time": 1728026837,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 105227,
+        "num": 105227,
+        "word": "虞书欣古装簪花",
+        "onboard_time": 1728015559,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104720,
+        "num": 104720,
+        "word": "大学生在宿舍开化妆工作室生意火爆",
+        "onboard_time": 1728019818,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100376,
+        "num": 100376,
+        "word": "女子取消预订酒店被扣1000多元",
+        "onboard_time": 1728015619,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 62161,
+        "num": 100314,
+        "word": "时光音乐会",
+        "onboard_time": 1728012018,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 21385,
+        "num": 100304,
+        "word": "汪苏泷合肥蹦蹦跳",
+        "onboard_time": 1728024917,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 100298,
+        "num": 100298,
+        "word": "双轨",
+        "onboard_time": 1728024318,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 98660,
+        "num": 98660,
+        "word": "危机航线 空姐跳伞救人",
+        "onboard_time": 1728027138,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 98288,
+        "num": 98288,
+        "word": "秦彻抽卡",
+        "onboard_time": 1728014719,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 96467,
+        "num": 96467,
+        "word": "孙颖莎飞身暴挑",
+        "onboard_time": 1728018559,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 95763,
+        "num": 95763,
+        "word": "猎罪图鉴4地狱营救",
+        "onboard_time": 1728018620,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#一首MV见证新中国75年变迁#"
+    }
+  }
+}

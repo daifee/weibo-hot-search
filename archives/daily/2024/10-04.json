@@ -1,6 +1,6 @@
 {
   "startTime": 1727972886536,
-  "endTime": 1728026453279,
+  "endTime": 1728027381188,
   "band_list": [
     {
       "raw_hot": 2490639,
@@ -83,6 +83,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 806381,
+      "num": 1129020,
+      "word": "新疆小孩哥采访中惊出表情包",
+      "onboard_time": 1728023898,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 785414,
       "num": 1125666,
       "word": "四川自贡真捅了龙窝了",
@@ -97,14 +105,6 @@
       "onboard_time": 1727946619,
       "rank": 10,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 658451,
-      "num": 1105352,
-      "word": "新疆小孩哥采访中惊出表情包",
-      "onboard_time": 1728023898,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 638674,
@@ -177,6 +177,14 @@
       "onboard_time": 1728012918,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 522372,
+      "num": 522372,
+      "word": "00后离家4000多公里到沙漠小城教书",
+      "onboard_time": 1728024022,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 509103,
@@ -315,14 +323,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 358821,
-      "num": 358821,
-      "word": "00后离家4000多公里到沙漠小城教书",
-      "onboard_time": 1728024022,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 351227,
       "num": 351227,
       "word": "中国的几何美学惊艳了",
@@ -393,6 +393,14 @@
       "onboard_time": 1728022877,
       "rank": 18,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 303634,
+      "num": 204091,
+      "word": "黎巴嫩首都机场附近爆炸火光一片",
+      "onboard_time": 1728024979,
+      "rank": 16,
+      "category": "国外时政"
     },
     {
       "raw_hot": 302598,
@@ -539,6 +547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 262001,
+      "num": 229439,
+      "word": "女医生假期带娃爬山救回一条命",
+      "onboard_time": 1728020658,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 257417,
       "num": 150616,
       "word": "假期去冰岛旅游的人已经后悔了",
@@ -555,14 +571,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 249868,
-      "num": 229439,
-      "word": "女医生假期带娃爬山救回一条命",
-      "onboard_time": 1728020658,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 247329,
       "num": 319442,
       "word": "时光音乐会",
@@ -577,6 +585,14 @@
       "onboard_time": 1727970738,
       "rank": 3,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 239881,
+      "num": 208470,
+      "word": "猫的意思是这是她的床",
+      "onboard_time": 1728022757,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 237677,
@@ -619,14 +635,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 226388,
-      "num": 208470,
-      "word": "猫的意思是这是她的床",
-      "onboard_time": 1728022757,
-      "rank": 36,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 225032,
       "num": 225032,
       "word": "为什么坐油车不晕一坐电车就晕",
@@ -643,14 +651,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 219560,
-      "num": 190345,
-      "word": "黎巴嫩首都机场附近爆炸火光一片",
-      "onboard_time": 1728024979,
-      "rank": 16,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 219556,
       "num": 207677,
       "word": "许昕赢了赚输了算",
@@ -665,6 +665,14 @@
       "onboard_time": 1728000137,
       "rank": 22,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 213613,
+      "num": 200080,
+      "word": "黎巴嫩机场附近爆炸前还有飞机滑行",
+      "onboard_time": 1728025518,
+      "rank": 35,
+      "category": "国外时政"
     },
     {
       "raw_hot": 210299,
@@ -720,6 +728,14 @@
       "word": "多名游客挤在黄山景区厕所过夜",
       "onboard_time": 1727957121,
       "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 196403,
+      "num": 196403,
+      "word": "三清山游客冷风中排队齐喊退票",
+      "onboard_time": 1728025219,
+      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -787,6 +803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 179596,
+      "num": 179596,
+      "word": "堵车的源头竟是司机路边停车野餐",
+      "onboard_time": 1728026478,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 174800,
       "num": 313654,
       "word": "被东北的秋色美到了",
@@ -811,12 +835,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 174117,
-      "num": 174117,
-      "word": "三清山游客冷风中排队齐喊退票",
-      "onboard_time": 1728025219,
-      "rank": 26,
-      "category": "社会新闻"
+      "raw_hot": 172299,
+      "num": 172299,
+      "word": "姜潮承诺为麦迪娜补办婚礼",
+      "onboard_time": 1728027079,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 171339,
@@ -899,6 +923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 157031,
+      "num": 207928,
+      "word": "李斯丹妮快女13年后首个常驻音综",
+      "onboard_time": 1728026659,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 154590,
       "num": 154590,
       "word": "以色列",
@@ -947,14 +979,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 146105,
-      "num": 146105,
-      "word": "黎巴嫩机场附近爆炸前还有飞机滑行",
-      "onboard_time": 1728025518,
-      "rank": 35,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 142086,
       "num": 290718,
       "word": "浴火之路无锡路演",
@@ -968,6 +992,14 @@
       "word": "任嘉伦随地大小打歌",
       "onboard_time": 1728023658,
       "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 140239,
+      "num": 140239,
+      "word": "披荆斩棘 选人环节",
+      "onboard_time": 1728026237,
+      "rank": 41,
       "category": "综艺"
     },
     {
@@ -1235,14 +1267,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 113460,
-      "num": 113460,
-      "word": "披荆斩棘 选人环节",
-      "onboard_time": 1728026237,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 110948,
       "num": 110948,
       "word": "范思琦4比3郑怡静",
@@ -1265,6 +1289,14 @@
       "onboard_time": 1728012137,
       "rank": 13,
       "category": "电影"
+    },
+    {
+      "raw_hot": 109287,
+      "num": 109287,
+      "word": "Bin想成为Faker接班人",
+      "onboard_time": 1728026837,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 108882,
@@ -1353,6 +1385,14 @@
       "onboard_time": 1728008417,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 98660,
+      "num": 98660,
+      "word": "危机航线 空姐跳伞救人",
+      "onboard_time": 1728027138,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 97180,
@@ -1472,6 +1512,14 @@
       "word": "你的样子",
       "onboard_time": 1728008357,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 83556,
+      "num": 207336,
+      "word": "深圳395套房源8小时售罄",
+      "onboard_time": 1728026538,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -1609,6 +1657,14 @@
       "onboard_time": 1727965160,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 64285,
+      "num": 199646,
+      "word": "港股飘红",
+      "onboard_time": 1728026179,
+      "rank": 18,
+      "category": "财经"
     },
     {
       "raw_hot": 62770,
@@ -1779,14 +1835,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 42391,
-      "num": 189223,
-      "word": "港股飘红",
-      "onboard_time": 1728026179,
-      "rank": 18,
-      "category": "财经"
-    },
-    {
       "raw_hot": 39735,
       "num": 316596,
       "word": "景区辟谣设施故障致游客悬在空中",
@@ -1809,6 +1857,14 @@
       "onboard_time": 1727952199,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 31355,
+      "num": 198178,
+      "word": "穆婷婷希望大家追求自然地老去",
+      "onboard_time": 1728026717,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 31066,
@@ -1899,6 +1955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 21385,
+      "num": 105329,
+      "word": "汪苏泷合肥蹦蹦跳",
+      "onboard_time": 1728024917,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
       "raw_hot": 17835,
       "num": 84435,
       "word": "红军长征时留下布满弹孔的旗帜",
@@ -1913,14 +1977,6 @@
       "onboard_time": 1727948959,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 16535,
-      "num": 105329,
-      "word": "汪苏泷合肥蹦蹦跳",
-      "onboard_time": 1728024917,
-      "rank": 43,
-      "category": "演出"
     },
     {
       "raw_hot": 14501,
