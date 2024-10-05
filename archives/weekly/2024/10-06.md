@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/10/06 00:26:13 ~ 2024/10/06 06:38:37
+本榜单时间：2024/10/06 00:26:13 ~ 2024/10/06 07:20:51
 </p>
 </blockquote>
 <p>
@@ -93,6 +93,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E4%B8%9C%E5%B1%80%E5%8A%BF%E5%88%B0%E4%BA%86%E6%9C%80%E5%8D%B1%E6%80%A5%E6%97%B6%E5%88%BB%23" target="weibo">
+中东局势到了最危急时刻（热度：300519）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E9%85%92%E5%BA%97%E9%87%8C%E7%9A%84%E8%A2%AB%E5%AD%90%E7%9D%A1%E5%AE%8C%E7%89%B9%E5%88%AB%E7%97%92%23" target="weibo">
 为什么酒店里的被子睡完特别痒（热度：297193）
 </a>
@@ -101,6 +107,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E8%AF%97%E6%A0%8B%E5%9D%90%E7%8E%8B%E6%A5%9A%E9%92%A6%E8%A1%8C%E6%9D%8E%E7%AE%B1%E4%B8%8A%E7%9C%8B%E6%AF%94%E8%B5%9B%23" target="weibo">
 林诗栋坐王楚钦行李箱上看比赛（热度：291039）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B8%B8%E5%AE%A2%E5%9B%A0%E6%8B%8D%E7%85%A7%E8%B5%B7%E5%86%B2%E7%AA%81%E5%9C%A8%E5%8F%97%E6%B0%94%E7%93%B6%E5%89%8D%E4%BA%89%E5%90%B5%23" target="weibo">
+游客因拍照起冲突在受气瓶前争吵（热度：272349）
 </a>
 </li>
 
@@ -131,6 +143,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E5%A4%9A%E5%B1%82%E5%AF%BC%E5%BC%B9%E6%8B%A6%E6%88%AA%E7%B3%BB%E7%BB%9F%E7%96%91%E4%BC%BC%E7%A0%B4%E9%98%B2%23" target="weibo">
 以色列多层导弹拦截系统疑似破防（热度：236667）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B8%B8%E5%AE%A2%E8%87%AA%E9%A9%BE%E9%A9%B6%E5%85%A5%E7%BD%97%E5%B8%83%E6%B3%8A%E8%A2%AB%E5%9B%B0%E5%BC%83%E8%BD%A6%E5%BE%92%E6%AD%A5%E8%BF%94%E5%9B%9E%23" target="weibo">
+游客自驾驶入罗布泊被困弃车徒步返回（热度：218998）
 </a>
 </li>
 
@@ -177,18 +195,6 @@ iPhone17Air相机功能或不如其他型号（热度：149934）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E4%B8%9C%E5%B1%80%E5%8A%BF%E5%88%B0%E4%BA%86%E6%9C%80%E5%8D%B1%E6%80%A5%E6%97%B6%E5%88%BB%23" target="weibo">
-中东局势到了最危急时刻（热度：148315）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B8%B8%E5%AE%A2%E5%9B%A0%E6%8B%8D%E7%85%A7%E8%B5%B7%E5%86%B2%E7%AA%81%E5%9C%A8%E5%8F%97%E6%B0%94%E7%93%B6%E5%89%8D%E4%BA%89%E5%90%B5%23" target="weibo">
-游客因拍照起冲突在受气瓶前争吵（热度：141926）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%8D%83%E5%AC%85%E9%87%8D%E5%BA%86%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
 杨千嬅重庆演唱会（热度：132249）
 </a>
@@ -203,6 +209,12 @@ iPhone17Air相机功能或不如其他型号（热度：149934）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%B9%B8%E5%90%8C%E9%92%B1%E5%A4%A9%E4%B8%80%E5%A4%BA%E5%86%A0%23" target="weibo">
 陈幸同钱天一夺冠（热度：128683）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B2%E7%8A%B6%E8%85%BA%E7%94%9F%E7%97%855%E4%B8%AA%E6%97%A9%E6%9C%9F%E5%BE%81%E5%85%86%23" target="weibo">
+甲状腺生病5个早期征兆（热度：127492）
 </a>
 </li>
 
@@ -263,6 +275,12 @@ DK现在笑不出来了吧（热度：101186）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%95%86%E5%9C%BA%E5%9B%9E%E5%BA%94%E7%94%B7%E5%8E%95%E7%8E%BB%E7%92%83%E7%A3%A8%E7%A0%82%E5%A5%B3%E5%8E%95%E9%80%8F%E6%98%8E%23" target="weibo">
 商场回应男厕玻璃磨砂女厕透明（热度：99977）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E9%87%8F%E6%B0%91%E4%BC%97%E4%BB%8E%E9%BB%8E%E5%B7%B4%E5%AB%A9%E8%BF%9B%E5%85%A5%E5%8F%99%E5%88%A9%E4%BA%9A%E9%81%BF%E9%9A%BE%23" target="weibo">
+大量民众从黎巴嫩进入叙利亚避难（热度：99802）
 </a>
 </li>
 
@@ -339,8 +357,14 @@ Weiwei回应DK二段笑（热度：78915）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E9%87%8F%E6%B0%91%E4%BC%97%E4%BB%8E%E9%BB%8E%E5%B7%B4%E5%AB%A9%E8%BF%9B%E5%85%A5%E5%8F%99%E5%88%A9%E4%BA%9A%E9%81%BF%E9%9A%BE%23" target="weibo">
-大量民众从黎巴嫩进入叙利亚避难（热度：75370）
+<a href="https://s.weibo.com/weibo?q=%23%E5%87%86%E5%A5%B3%E5%A9%BF%E5%88%B0%E5%A5%B3%E5%8F%8B%E5%AE%B6%E5%B9%B2%E6%B4%BB%E4%B8%80%E5%B9%B2%E4%B8%80%E4%B8%AA%E4%B8%8D%E5%90%B1%E5%A3%B0%23" target="weibo">
+准女婿到女友家干活一干一个不吱声（热度：70047）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%9B%9E%E6%99%AF%E5%BE%B7%E9%95%87%E5%8F%97%E6%B0%94%E7%93%B6%E7%9C%9F%E5%8F%97%E6%B0%94%E4%BA%86%23" target="weibo">
+这回景德镇受气瓶真受气了（热度：67057）
 </a>
 </li>
 
@@ -364,7 +388,7 @@ LNG晋级S14八强（热度：58135）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23S14%E7%91%9E%E5%A3%AB%E8%BD%AE%23" target="weibo">
-S14瑞士轮（热度：52432）
+S14瑞士轮（热度：52460）
 </a>
 </li>
 
@@ -381,8 +405,20 @@ S14瑞士轮（热度：52432）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%BA%9B%E7%B2%97%E7%B2%AE%E5%AE%9E%E9%99%85%E6%98%AF%E4%BC%AA%E7%B2%97%E7%B2%AE%23" target="weibo">
+这些粗粮实际是伪粗粮（热度：49145）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B4%94%E6%9D%8B%E5%9C%AD%E5%94%B1%E4%BA%86%E6%B0%B8%E4%B8%8D%E5%A4%B1%E8%81%94%E7%9A%84%E7%88%B1%23" target="weibo">
 崔杋圭唱了永不失联的爱（热度：48956）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%93%80%E7%89%A2%E5%B1%B1%E6%9C%AC%E5%9C%B0%E4%BA%BA%E7%A7%B0%E8%BF%9B%E5%B1%B1%E8%A6%81%E6%80%80%E6%95%AC%E7%95%8F%E4%B9%8B%E5%BF%83%23" target="weibo">
+哀牢山本地人称进山要怀敬畏之心（热度：47999）
 </a>
 </li>
 
@@ -393,20 +429,38 @@ S14瑞士轮（热度：52432）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B8%B8%E5%AE%A2%E8%87%AA%E9%A9%BE%E9%A9%B6%E5%85%A5%E7%BD%97%E5%B8%83%E6%B3%8A%E8%A2%AB%E5%9B%B0%E5%BC%83%E8%BD%A6%E5%BE%92%E6%AD%A5%E8%BF%94%E5%9B%9E%23" target="weibo">
-游客自驾驶入罗布泊被困弃车徒步返回（热度：42503）
+<a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E9%BE%99%E4%B8%BA%E7%A7%A6%E5%BF%97%E6%88%AC%E9%80%81%E4%B8%8A%E7%94%9F%E6%97%A5%E7%A5%9D%E7%A6%8F%23" target="weibo">
+马龙为秦志戬送上生日祝福（热度：44823）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E5%97%9C%E7%9D%A1%E7%9A%84%E9%94%85%E5%9C%B0%E7%A3%81%E6%9A%B4%E5%8F%AF%E4%B8%8D%E8%83%8C%23" target="weibo">
-你嗜睡的锅地磁暴可不背（热度：32516）
+你嗜睡的锅地磁暴可不背（热度：43902）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%93%80%E7%89%A2%E5%B1%B1%E6%9C%AC%E5%9C%B0%E4%BA%BA%E7%A7%B0%E8%BF%9B%E5%B1%B1%E8%A6%81%E6%80%80%E6%95%AC%E7%95%8F%E4%B9%8B%E5%BF%83%23" target="weibo">
-哀牢山本地人称进山要怀敬畏之心（热度：31518）
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E8%AF%B4%E6%88%91%E4%BB%AC%E4%B8%8B%E4%B8%AA%E8%B5%9B%E5%9C%BA%E8%A7%81%23" target="weibo">
+王楚钦说我们下个赛场见（热度：40125）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AC%A7%E7%9B%9F%E8%A6%81%E5%8A%A0%E7%9A%84%E4%B8%8D%E6%98%AF%E5%85%B3%E7%A8%8E%E8%80%8C%E6%98%AF%E6%88%98%E7%95%A5%E8%87%AA%E4%B8%BB%23" target="weibo">
+欧盟要加的不是关税而是战略自主（热度：39279）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%83%91%E9%92%A6%E6%96%87%E5%B7%A8%E5%A4%A7%E5%95%86%E4%B8%9A%E6%BD%9C%E5%8A%9B%E9%80%90%E6%B8%90%E5%B1%95%E7%8E%B0%23" target="weibo">
+郑钦文巨大商业潜力逐渐展现（热度：37778）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E7%94%A8%E4%BA%BA%E5%AD%97%E6%8B%96%E5%81%9A%E6%A1%A8%23" target="weibo">
+王一博用人字拖做桨（热度：35340）
 </a>
 </li>
 
@@ -417,14 +471,14 @@ S14瑞士轮（热度：52432）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E9%BE%99%E4%B8%BA%E7%A7%A6%E5%BF%97%E6%88%AC%E9%80%81%E4%B8%8A%E7%94%9F%E6%97%A5%E7%A5%9D%E7%A6%8F%23" target="weibo">
-马龙为秦志戬送上生日祝福（热度：21929）
+<a href="https://s.weibo.com/weibo?q=%23%E6%B5%81%E6%B0%B4%E8%BF%A2%E8%BF%A2%23" target="weibo">
+流水迢迢（热度：18205）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B5%81%E6%B0%B4%E8%BF%A2%E8%BF%A2%23" target="weibo">
-流水迢迢（热度：18205）
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%AA%E7%A9%BA%E8%A7%86%E8%A7%92%E7%9C%8B%E7%BE%8E%E4%B8%BD%E7%9A%84%E8%A5%BF%E6%B2%99%23" target="weibo">
+太空视角看美丽的西沙（热度：18148）
 </a>
 </li>
 
@@ -454,7 +508,7 @@ S14瑞士轮（热度：52432）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E8%AE%B0%E9%87%8C%E7%9A%84%E4%B8%AD%E5%9B%BD%23" target="weibo">
-日记里的中国（热度：1983）
+日记里的中国（热度：2764）
 </a>
 </li>
 
