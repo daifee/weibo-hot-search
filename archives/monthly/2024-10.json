@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1728145573126,
+  "endTime": 1728146505491,
   "band_list": [
     {
       "raw_hot": 11925969,
@@ -689,6 +689,14 @@
       "onboard_time": 1728033018,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 996450,
+      "num": 996450,
+      "word": "今晚可能发生强地磁暴",
+      "onboard_time": 1728143659,
+      "rank": 1,
+      "category": "自然"
     },
     {
       "raw_hot": 992227,
@@ -2187,14 +2195,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 523286,
-      "num": 523286,
-      "word": "今晚可能发生强地磁暴",
-      "onboard_time": 1728143659,
-      "rank": 1,
-      "category": "自然"
-    },
-    {
       "raw_hot": 522372,
       "num": 522372,
       "word": "00后离家4000多公里到沙漠小城教书",
@@ -3387,6 +3387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 335821,
+      "num": 251398,
+      "word": "声生不息港乐季2",
+      "onboard_time": 1728142818,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 335570,
       "num": 406700,
       "word": "宋亚轩 真假live图",
@@ -3441,14 +3449,6 @@
       "onboard_time": 1728016456,
       "rank": 18,
       "category": "电影"
-    },
-    {
-      "raw_hot": 331339,
-      "num": 251398,
-      "word": "声生不息港乐季2",
-      "onboard_time": 1728142818,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 330635,
@@ -4491,6 +4491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 264367,
+      "num": 241491,
+      "word": "专家解读为何哀牢山是禁区",
+      "onboard_time": 1728136459,
+      "rank": 21,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 264055,
       "num": 264055,
       "word": "孙颖莎王楚钦再度领衔世界第一",
@@ -4937,14 +4945,6 @@
       "onboard_time": 1727774719,
       "rank": 6,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 241491,
-      "num": 241491,
-      "word": "专家解读为何哀牢山是禁区",
-      "onboard_time": 1728136459,
-      "rank": 21,
-      "category": "旅游"
     },
     {
       "raw_hot": 239881,
@@ -5881,6 +5881,14 @@
       "onboard_time": 1728047539,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 204724,
+      "num": 194218,
+      "word": "情侣连续两次偷渡妄想去境外淘金",
+      "onboard_time": 1728143178,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 204451,
@@ -7411,14 +7419,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 173562,
-      "num": 173562,
-      "word": "情侣连续两次偷渡妄想去境外淘金",
-      "onboard_time": 1728143178,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 173062,
       "num": 449673,
       "word": "孙颖莎王艺迪3比0杜凯琹刘杨子",
@@ -8339,6 +8339,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 154709,
+      "num": 154709,
+      "word": "夏之光按出道顺序念出R1SE所有人",
+      "onboard_time": 1728142818,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 154547,
       "num": 154547,
       "word": "周震南 明天接着舞",
@@ -8609,14 +8617,6 @@
       "onboard_time": 1728045079,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 149999,
-      "num": 149999,
-      "word": "夏之光按出道顺序念出R1SE所有人",
-      "onboard_time": 1728142818,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 149934,
@@ -9835,6 +9835,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 132249,
+      "num": 132249,
+      "word": "杨千嬅重庆演唱会",
+      "onboard_time": 1728145757,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 132209,
       "num": 132209,
       "word": "为什么旅行容易引发争吵",
@@ -9905,6 +9913,14 @@
       "onboard_time": 1727954539,
       "rank": 38,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 131490,
+      "num": 196521,
+      "word": "为什么酒店里的被子睡完特别痒",
+      "onboard_time": 1728145879,
+      "rank": 7,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 131485,
@@ -11619,6 +11635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 107689,
+      "num": 107689,
+      "word": "广东潮汕猪脚饭有多好吃",
+      "onboard_time": 1728144918,
+      "rank": 43,
+      "category": "美食"
+    },
+    {
       "raw_hot": 107662,
       "num": 107662,
       "word": "家国在这一刻具象化了",
@@ -12299,6 +12323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 97099,
+      "num": 97099,
+      "word": "张大大 你们是真的饿了",
+      "onboard_time": 1728145638,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
       "raw_hot": 97007,
       "num": 97007,
       "word": "为了中国人独有的浪漫他们365天坚守",
@@ -12561,14 +12593,6 @@
       "onboard_time": 1727939777,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 92962,
-      "num": 92962,
-      "word": "广东潮汕猪脚饭有多好吃",
-      "onboard_time": 1728144918,
-      "rank": 43,
-      "category": "美食"
     },
     {
       "raw_hot": 92578,

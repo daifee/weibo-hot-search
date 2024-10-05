@@ -1,6 +1,6 @@
 {
   "startTime": 1728145573126,
-  "endTime": 1728145573126,
+  "endTime": 1728146505491,
   "band_list": [
     {
       "raw_hot": 1023363,
@@ -9,6 +9,14 @@
       "onboard_time": 1728142339,
       "rank": 10,
       "category": "电影"
+    },
+    {
+      "raw_hot": 996450,
+      "num": 996450,
+      "word": "今晚可能发生强地磁暴",
+      "onboard_time": 1728143659,
+      "rank": 1,
+      "category": "自然"
     },
     {
       "raw_hot": 755865,
@@ -33,14 +41,6 @@
       "onboard_time": 1728142458,
       "rank": 13,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 523286,
-      "num": 523286,
-      "word": "今晚可能发生强地磁暴",
-      "onboard_time": 1728143659,
-      "rank": 1,
-      "category": "自然"
     },
     {
       "raw_hot": 392345,
@@ -75,7 +75,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 331339,
+      "raw_hot": 335821,
       "num": 251398,
       "word": "声生不息港乐季2",
       "onboard_time": 1728142818,
@@ -107,6 +107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 264367,
+      "num": 241491,
+      "word": "专家解读为何哀牢山是禁区",
+      "onboard_time": 1728136459,
+      "rank": 21,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 253289,
       "num": 253289,
       "word": "马龙说自己实力不如梁靖崑",
@@ -123,20 +131,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 241491,
-      "num": 241491,
-      "word": "专家解读为何哀牢山是禁区",
-      "onboard_time": 1728136459,
-      "rank": 21,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 236667,
       "num": 236667,
       "word": "以色列多层导弹拦截系统疑似破防",
       "onboard_time": 1728135019,
       "rank": 22,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 204724,
+      "num": 194218,
+      "word": "情侣连续两次偷渡妄想去境外淘金",
+      "onboard_time": 1728143178,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 193068,
@@ -163,14 +171,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 173562,
-      "num": 173562,
-      "word": "情侣连续两次偷渡妄想去境外淘金",
-      "onboard_time": 1728143178,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 164472,
       "num": 253163,
       "word": "92岁抗美援朝女兵实弹打靶10发97环",
@@ -179,8 +179,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 149999,
-      "num": 149999,
+      "raw_hot": 154709,
+      "num": 154709,
       "word": "夏之光按出道顺序念出R1SE所有人",
       "onboard_time": 1728142818,
       "rank": 27,
@@ -193,6 +193,22 @@
       "onboard_time": 1728143119,
       "rank": 28,
       "category": "数码"
+    },
+    {
+      "raw_hot": 132249,
+      "num": 132249,
+      "word": "杨千嬅重庆演唱会",
+      "onboard_time": 1728145757,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 131490,
+      "num": 196521,
+      "word": "为什么酒店里的被子睡完特别痒",
+      "onboard_time": 1728145879,
+      "rank": 7,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 129588,
@@ -243,6 +259,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 107689,
+      "num": 107689,
+      "word": "广东潮汕猪脚饭有多好吃",
+      "onboard_time": 1728144918,
+      "rank": 43,
+      "category": "美食"
+    },
+    {
       "raw_hot": 105142,
       "num": 105142,
       "word": "王楚钦梁靖崑躲采访失败",
@@ -259,12 +283,28 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 101195,
+      "num": 101195,
+      "word": "HLE对战GEN",
+      "onboard_time": 1728139459,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 101186,
       "num": 101186,
       "word": "DK现在笑不出来了吧",
       "onboard_time": 1728140659,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 99977,
+      "num": 99977,
+      "word": "商场回应男厕玻璃磨砂女厕透明",
+      "onboard_time": 1728120739,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 98047,
@@ -283,12 +323,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 96971,
-      "num": 96971,
-      "word": "商场回应男厕玻璃磨砂女厕透明",
-      "onboard_time": 1728120739,
-      "rank": 39,
-      "category": "社会新闻"
+      "raw_hot": 97099,
+      "num": 97099,
+      "word": "张大大 你们是真的饿了",
+      "onboard_time": 1728145638,
+      "rank": 36,
+      "category": "演出"
     },
     {
       "raw_hot": 96803,
@@ -313,14 +353,6 @@
       "onboard_time": 1728144019,
       "rank": 42,
       "category": "情感"
-    },
-    {
-      "raw_hot": 92962,
-      "num": 92962,
-      "word": "广东潮汕猪脚饭有多好吃",
-      "onboard_time": 1728144918,
-      "rank": 43,
-      "category": "美食"
     },
     {
       "raw_hot": 84540,
