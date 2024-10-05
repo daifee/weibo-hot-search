@@ -1,7 +1,15 @@
 {
   "startTime": 1728059303809,
-  "endTime": 1728098765831,
+  "endTime": 1728099636150,
   "band_list": [
+    {
+      "raw_hot": 2047908,
+      "num": 2047908,
+      "word": "得知我是中国人对方撤回了请立即离开",
+      "onboard_time": 1728098239,
+      "rank": 4,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 1447002,
       "num": 1447002,
@@ -52,7 +60,7 @@
     },
     {
       "raw_hot": 810094,
-      "num": 212932,
+      "num": 241584,
       "word": "老公被隐形家务整崩溃想离家出走",
       "onboard_time": 1728091278,
       "rank": 20,
@@ -115,14 +123,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 536476,
-      "num": 536476,
-      "word": "得知我是中国人对方撤回了请立即离开",
-      "onboard_time": 1728098239,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 491538,
       "num": 357512,
       "word": "成毅 伯希和",
@@ -137,6 +137,14 @@
       "onboard_time": 1728039619,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 425418,
+      "num": 425418,
+      "word": "以后中国强大了一定要来看我",
+      "onboard_time": 1728096977,
+      "rank": 39,
+      "category": "国内时政"
     },
     {
       "raw_hot": 415680,
@@ -155,16 +163,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 379792,
-      "num": 379792,
-      "word": "以后中国强大了一定要来看我",
-      "onboard_time": 1728096977,
-      "rank": 39,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 372321,
-      "num": 211120,
+      "num": 229313,
       "word": "35岁再考清华当事人将再考",
       "onboard_time": 1728094697,
       "rank": 22,
@@ -179,6 +179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 341387,
+      "num": 276626,
+      "word": "BIGBANG完整体出演MAMA",
+      "onboard_time": 1728098958,
+      "rank": 14,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 340927,
       "num": 291258,
       "word": "郑钦文再获32.5万美元奖金",
@@ -187,12 +195,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 334736,
+      "num": 269624,
+      "word": "黎巴嫩9岁女孩腿被炸断",
+      "onboard_time": 1728098118,
+      "rank": 28,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 326715,
-      "num": 209806,
+      "num": 220809,
       "word": "国庆第一批宅家旅游者出现了",
       "onboard_time": 1728095658,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 323673,
+      "num": 323673,
+      "word": "三折叠怎么折都有题",
+      "onboard_time": 1728094397,
+      "rank": 28,
+      "category": "幽默"
     },
     {
       "raw_hot": 316478,
@@ -243,11 +267,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 265831,
+      "num": 265831,
+      "word": "记者探访走红的哀牢山",
+      "onboard_time": 1728094880,
+      "rank": 42,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 255808,
       "num": 182063,
       "word": "景区回应多名游客被挂在半空",
       "onboard_time": 1728059057,
       "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 251299,
+      "num": 251299,
+      "word": "国庆假期第5天",
+      "onboard_time": 1728086236,
+      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -264,14 +304,6 @@
       "word": "国内航线今起下调燃油附加费",
       "onboard_time": 1728092478,
       "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 244288,
-      "num": 244288,
-      "word": "国庆假期第5天",
-      "onboard_time": 1728086236,
-      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -299,12 +331,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 222274,
-      "num": 222274,
-      "word": "三折叠怎么折都有题",
-      "onboard_time": 1728094397,
-      "rank": 28,
-      "category": "幽默"
+      "raw_hot": 216962,
+      "num": 216962,
+      "word": "前车突然掉头逆行货车轮胎刹到冒烟",
+      "onboard_time": 1728097338,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 207853,
@@ -364,7 +396,7 @@
     },
     {
       "raw_hot": 180992,
-      "num": 217165,
+      "num": 246153,
       "word": "雅给向佐打电话的含金量还在上升",
       "onboard_time": 1728088399,
       "rank": 18,
@@ -392,14 +424,6 @@
       "word": "跳海救人未果当事人发声",
       "onboard_time": 1728088879,
       "rank": 25,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 170525,
-      "num": 170525,
-      "word": "前车突然掉头逆行货车轮胎刹到冒烟",
-      "onboard_time": 1728097338,
-      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -435,12 +459,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 160018,
+      "num": 160018,
+      "word": "郑钦文头号劲敌爆冷淘汰",
+      "onboard_time": 1728098899,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 156862,
       "num": 146189,
       "word": "S14瑞士轮第三轮抽签",
       "onboard_time": 1728083476,
       "rank": 15,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 156630,
+      "num": 156630,
+      "word": "风物出圈记",
+      "onboard_time": 1728098899,
+      "rank": 27,
+      "category": "时尚"
     },
     {
       "raw_hot": 155263,
@@ -465,6 +505,14 @@
       "onboard_time": 1728089298,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 153289,
+      "num": 153289,
+      "word": "湖人vs森林狼",
+      "onboard_time": 1728098359,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 147742,
@@ -499,12 +547,12 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 140894,
-      "num": 140894,
-      "word": "黎巴嫩9岁女孩腿被炸断",
-      "onboard_time": 1728098118,
-      "rank": 28,
-      "category": "国外时政"
+      "raw_hot": 137696,
+      "num": 137696,
+      "word": "桂林超强嗦粉阵容官宣",
+      "onboard_time": 1728098899,
+      "rank": 33,
+      "category": "旅游"
     },
     {
       "raw_hot": 137482,
@@ -531,6 +579,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 134895,
+      "num": 134895,
+      "word": "邓为去了卢浮宫",
+      "onboard_time": 1728098599,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 134442,
       "num": 142831,
       "word": "王一博在沙漠做饼",
@@ -555,6 +611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 129680,
+      "num": 129680,
+      "word": "想你的风吹到了哀牢山",
+      "onboard_time": 1728097998,
+      "rank": 38,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 129548,
       "num": 105964,
       "word": "王皓 许昕进城2.0",
@@ -569,14 +633,6 @@
       "onboard_time": 1728067873,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 128821,
-      "num": 128821,
-      "word": "湖人vs森林狼",
-      "onboard_time": 1728098359,
-      "rank": 33,
-      "category": "体育"
     },
     {
       "raw_hot": 127609,
@@ -609,6 +665,14 @@
       "onboard_time": 1728041059,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 122774,
+      "num": 122774,
+      "word": "黎巴嫩医务人员说在恐惧中工作很难",
+      "onboard_time": 1728098298,
+      "rank": 44,
+      "category": "国外时政"
     },
     {
       "raw_hot": 121751,
@@ -651,11 +715,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 116330,
-      "num": 116330,
-      "word": "想你的风吹到了哀牢山",
-      "onboard_time": 1728097998,
-      "rank": 38,
+      "raw_hot": 117426,
+      "num": 117426,
+      "word": "年轻人爱上非洲游",
+      "onboard_time": 1728098899,
+      "rank": 40,
       "category": "旅游"
     },
     {
@@ -707,14 +771,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 109959,
-      "num": 109959,
-      "word": "黎巴嫩医务人员说在恐惧中工作很难",
-      "onboard_time": 1728098298,
-      "rank": 44,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 109900,
       "num": 214156,
       "word": "中欧技术团队将继续关税谈判",
@@ -763,20 +819,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 104000,
-      "num": 104000,
-      "word": "记者探访走红的哀牢山",
-      "onboard_time": 1728094880,
-      "rank": 42,
-      "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 103140,
-      "num": 103140,
-      "word": "邓为去了卢浮宫",
-      "onboard_time": 1728098599,
-      "rank": 48,
-      "category": "艺人"
+      "raw_hot": 103065,
+      "num": 103065,
+      "word": "顾茜茜 傲娇美",
+      "onboard_time": 1728099619,
+      "rank": 49,
+      "category": "网红"
     },
     {
       "raw_hot": 102443,
@@ -1123,6 +1171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 48064,
+      "num": 347387,
+      "word": "和平精英品牌代言人田曦薇",
+      "onboard_time": 1728097158,
+      "rank": 47,
+      "category": "艺人,游戏"
+    },
+    {
       "raw_hot": 47916,
       "num": 47916,
       "word": "父母天安门广场见证儿子升国旗",
@@ -1177,14 +1233,6 @@
       "onboard_time": 1728062954,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 40971,
-      "num": 347387,
-      "word": "和平精英品牌代言人田曦薇",
-      "onboard_time": 1728097158,
-      "rank": 47,
-      "category": "艺人,游戏"
     },
     {
       "raw_hot": 39077,
