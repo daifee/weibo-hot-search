@@ -1,0 +1,410 @@
+{
+  "runTime": 1728102400833,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2341065,
+        "num": 2341065,
+        "word": "得知我是中国人对方撤回了请立即离开",
+        "onboard_time": 1728098239,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1048536,
+        "num": 1048536,
+        "word": "哀牢山堵车",
+        "onboard_time": 1728100038,
+        "rank": 1,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 16731,
+        "num": 794224,
+        "word": "国庆入境游增速将超过出境游",
+        "onboard_time": 1728049940,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 782086,
+        "num": 782086,
+        "word": "你好星期六全员cos经典男主角",
+        "onboard_time": 1728096258,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 746523,
+        "num": 746523,
+        "word": "哀牢山存在大地磁场强度异常的现象",
+        "onboard_time": 1728089658,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 632866,
+        "num": 632866,
+        "word": "公主日记3",
+        "onboard_time": 1728100219,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 452345,
+        "num": 452345,
+        "word": "以后中国强大了一定要来看我",
+        "onboard_time": 1728096977,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 368183,
+        "num": 368183,
+        "word": "未来3天可能发生强地磁活动",
+        "onboard_time": 1728083834,
+        "rank": 7,
+        "category": "社会新闻,国内时政"
+      },
+      {
+        "raw_hot": 340580,
+        "num": 340580,
+        "word": "三折叠怎么折都有题",
+        "onboard_time": 1728094397,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 50416,
+        "num": 339064,
+        "word": "他们反复与海浪搏斗救回2条命",
+        "onboard_time": 1728092597,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 769920,
+        "num": 337024,
+        "word": "黎巴嫩9岁女孩腿被炸断",
+        "onboard_time": 1728098118,
+        "rank": 10,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 687000,
+        "num": 332231,
+        "word": "郑钦文头号劲敌爆冷淘汰",
+        "onboard_time": 1728098899,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 392844,
+        "num": 329061,
+        "word": "BIGBANG完整体出演MAMA",
+        "onboard_time": 1728098958,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 327798,
+        "num": 327798,
+        "word": "哀牢山",
+        "onboard_time": 1728091638,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 9336,
+        "num": 281006,
+        "word": "掉入法律咨询服务圈套的人",
+        "onboard_time": 1728102258,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 272284,
+        "num": 272284,
+        "word": "国庆假期第5天",
+        "onboard_time": 1728086236,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260168,
+        "num": 260168,
+        "word": "文韬cos江直树",
+        "onboard_time": 1728100939,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 254291,
+        "num": 254291,
+        "word": "成毅 伯希和",
+        "onboard_time": 1728095539,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171107,
+        "num": 245194,
+        "word": "锦绣安宁OST阵容",
+        "onboard_time": 1728101118,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 242584,
+        "num": 242584,
+        "word": "任嘉伦 三折叠怎么折都be",
+        "onboard_time": 1728089357,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 405761,
+        "num": 235126,
+        "word": "老公被隐形家务整崩溃想离家出走",
+        "onboard_time": 1728091278,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 261105,
+        "num": 231560,
+        "word": "35岁再考清华当事人将再考",
+        "onboard_time": 1728094697,
+        "rank": 21,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 205001,
+        "num": 205001,
+        "word": "男子高速上开启自动驾驶撞上水马",
+        "onboard_time": 1728092778,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192741,
+        "num": 192741,
+        "word": "前车突然掉头逆行货车轮胎刹到冒烟",
+        "onboard_time": 1728097338,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177444,
+        "num": 177444,
+        "word": "国庆第一批宅家旅游者出现了",
+        "onboard_time": 1728095658,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176544,
+        "num": 176544,
+        "word": "又一条高铁要来了",
+        "onboard_time": 1728090257,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166810,
+        "num": 166810,
+        "word": "J人男友为出国女友写37页PPT攻略",
+        "onboard_time": 1728101358,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162829,
+        "num": 162829,
+        "word": "假期最后3天怎么过",
+        "onboard_time": 1728098058,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155143,
+        "num": 155143,
+        "word": "想你的风吹到了哀牢山",
+        "onboard_time": 1728097998,
+        "rank": 28,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 147214,
+        "num": 147214,
+        "word": "误乘误降火车可免费换乘",
+        "onboard_time": 1728092238,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141001,
+        "num": 141001,
+        "word": "黎巴嫩医务人员说在恐惧中工作很难",
+        "onboard_time": 1728098298,
+        "rank": 30,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 69408,
+        "num": 137393,
+        "word": "和平精英品牌代言人田曦薇",
+        "onboard_time": 1728097158,
+        "rank": 31,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 134189,
+        "num": 134189,
+        "word": "国内航线今起下调燃油附加费",
+        "onboard_time": 1728092478,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131225,
+        "num": 131225,
+        "word": "国庆假期趵突泉鱼被撑死了",
+        "onboard_time": 1728089597,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123624,
+        "num": 123624,
+        "word": "小伙工地干活一年换一部手机",
+        "onboard_time": 1728102198,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121634,
+        "num": 121634,
+        "word": "湖人vs森林狼",
+        "onboard_time": 1728098359,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 43689,
+        "num": 121139,
+        "word": "宁波两医生上演现实版好人有好报",
+        "onboard_time": 1728101237,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121051,
+        "num": 121051,
+        "word": "孙颖莎今天两场比赛",
+        "onboard_time": 1728101778,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117499,
+        "num": 117499,
+        "word": "胡塞武装称也门多地遭美英空袭",
+        "onboard_time": 1728097098,
+        "rank": 38,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 113669,
+        "num": 113669,
+        "word": "这个国庆假期真可呀",
+        "onboard_time": 1728100038,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113571,
+        "num": 113571,
+        "word": "哈妮克孜有自己的职场赛道",
+        "onboard_time": 1728100819,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 50277,
+        "num": 110735,
+        "word": "陈楚生口哨版黄金时代",
+        "onboard_time": 1728093798,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 108819,
+        "num": 108819,
+        "word": "邓为去了卢浮宫",
+        "onboard_time": 1728098599,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105808,
+        "num": 105808,
+        "word": "成毅打戏",
+        "onboard_time": 1728100458,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103153,
+        "num": 103153,
+        "word": "顾茜茜 傲娇美",
+        "onboard_time": 1728099619,
+        "rank": 44,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 101833,
+        "num": 101833,
+        "word": "放久的奶茶到底有多脏",
+        "onboard_time": 1728085696,
+        "rank": 45,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 101587,
+        "num": 101587,
+        "word": "布朗尼大帽对手",
+        "onboard_time": 1728102078,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 101234,
+        "num": 101234,
+        "word": "太阳爆发7年来最强耀斑",
+        "onboard_time": 1728055039,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98945,
+        "num": 98945,
+        "word": "黑神话获金摇杆奖最佳视觉设计提名",
+        "onboard_time": 1728101898,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 81326,
+        "num": 98941,
+        "word": "雅给向佐打电话的含金量还在上升",
+        "onboard_time": 1728088399,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#必须坚持人民至上#"
+    }
+  }
+}
