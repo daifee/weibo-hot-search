@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1728132905361,
+  "endTime": 1728134651533,
   "band_list": [
     {
       "raw_hot": 11925969,
@@ -80,6 +80,14 @@
       "word": "郑钦文无缘中网决赛",
       "onboard_time": 1728130041,
       "rank": 0,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 2171689,
+      "num": 2171689,
+      "word": "陈幸同钱天一夺冠",
+      "onboard_time": 1728132740,
+      "rank": 21,
       "category": "体育"
     },
     {
@@ -883,6 +891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 831740,
+      "num": 831740,
+      "word": "陈幸同钱天一3比1孙颖莎王艺迪",
+      "onboard_time": 1728132740,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 828403,
       "num": 546583,
       "word": "小伙工地干活一年换一部手机",
@@ -945,6 +961,14 @@
       "onboard_time": 1727694079,
       "rank": 14,
       "category": "自然,网红"
+    },
+    {
+      "raw_hot": 794963,
+      "num": 528661,
+      "word": "马龙vs梁靖崑",
+      "onboard_time": 1728124880,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 793650,
@@ -1651,12 +1675,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 602639,
+      "num": 404554,
+      "word": "马龙说林诗栋能力达到世界最高水平",
+      "onboard_time": 1728132440,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 601828,
       "num": 507114,
       "word": "人人人人人苏州人人人人人",
       "onboard_time": 1727838617,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 600480,
+      "num": 442114,
+      "word": "宋佳一出场就是国泰民安",
+      "onboard_time": 1728129019,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 596916,
@@ -2049,14 +2089,6 @@
       "onboard_time": 1727715915,
       "rank": 15,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 528661,
-      "num": 528661,
-      "word": "马龙vs梁靖崑",
-      "onboard_time": 1728124880,
-      "rank": 17,
-      "category": "体育"
     },
     {
       "raw_hot": 526930,
@@ -2531,14 +2563,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 442114,
-      "num": 442114,
-      "word": "宋佳一出场就是国泰民安",
-      "onboard_time": 1728129019,
-      "rank": 13,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 439282,
       "num": 439282,
       "word": "高铁晚点",
@@ -2723,6 +2747,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 403506,
+      "num": 403506,
+      "word": "李雯雯来看WTT是孙颖莎邀请的",
+      "onboard_time": 1728133159,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 401925,
       "num": 401925,
       "word": "孙颖莎说马龙儿子太可爱了",
@@ -2785,14 +2817,6 @@
       "onboard_time": 1727827276,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 393070,
-      "num": 393070,
-      "word": "陈幸同钱天一3比1孙颖莎王艺迪",
-      "onboard_time": 1728132740,
-      "rank": 15,
-      "category": "体育"
     },
     {
       "raw_hot": 392844,
@@ -3081,6 +3105,14 @@
       "onboard_time": 1727788820,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 356536,
+      "num": 356536,
+      "word": "亚锦赛",
+      "onboard_time": 1728134299,
+      "rank": 20,
+      "category": "体育"
     },
     {
       "raw_hot": 355239,
@@ -3475,6 +3507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 312926,
+      "num": 331516,
+      "word": "郑钦文回应摔倒",
+      "onboard_time": 1728132800,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 312482,
       "num": 279841,
       "word": "韩国拟从中国进口1100吨大白菜",
@@ -3568,14 +3608,6 @@
       "word": "林高远王艺迪vs林诗栋蒯曼",
       "onboard_time": 1728048139,
       "rank": 41,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 307336,
-      "num": 307336,
-      "word": "陈幸同钱天一夺冠",
-      "onboard_time": 1728132740,
-      "rank": 21,
       "category": "体育"
     },
     {
@@ -5091,6 +5123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 226821,
+      "num": 226821,
+      "word": "国乒包揽女双冠亚军",
+      "onboard_time": 1728133521,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 225800,
       "num": 225800,
       "word": "马龙再现东方魔法",
@@ -5296,6 +5336,14 @@
       "word": "张本智和特别喜欢看樊振东比赛",
       "onboard_time": 1727770158,
       "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 218721,
+      "num": 218721,
+      "word": "马龙说自己实力不如梁靖崑",
+      "onboard_time": 1728134299,
+      "rank": 26,
       "category": "体育"
     },
     {
@@ -6171,14 +6219,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 193356,
-      "num": 193356,
-      "word": "马龙说林诗栋能力达到世界最高水平",
-      "onboard_time": 1728132440,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
       "raw_hot": 193217,
       "num": 193217,
       "word": "浴火之路 删减",
@@ -6361,6 +6401,14 @@
       "onboard_time": 1727870839,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 190221,
+      "num": 190221,
+      "word": "DK对战LNG",
+      "onboard_time": 1728129742,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 190008,
@@ -7017,6 +7065,14 @@
       "onboard_time": 1727967860,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 175164,
+      "num": 175164,
+      "word": "兵马俑门口聚集大量游客维权",
+      "onboard_time": 1728131900,
+      "rank": 44,
+      "category": "旅游"
     },
     {
       "raw_hot": 175161,
@@ -7971,6 +8027,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 155428,
+      "num": 155428,
+      "word": "无畏小胖赛后采访",
+      "onboard_time": 1728134299,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 155263,
       "num": 155263,
       "word": "胡塞武装称也门多地遭美英空袭",
@@ -8081,14 +8145,6 @@
       "onboard_time": 1727968338,
       "rank": 38,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 153091,
-      "num": 153091,
-      "word": "兵马俑门口聚集大量游客维权",
-      "onboard_time": 1728131900,
-      "rank": 44,
-      "category": "旅游"
     },
     {
       "raw_hot": 152902,
@@ -8507,6 +8563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 144865,
+      "num": 144865,
+      "word": "郑钦文说摔倒是因为太累了",
+      "onboard_time": 1728134001,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 144823,
       "num": 144823,
       "word": "下一战歌手有两首EXO邓紫棋王菲",
@@ -8753,6 +8817,14 @@
       "onboard_time": 1728026237,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 140220,
+      "num": 140220,
+      "word": "肖凯文 祝贺头哥崑哥双打夺冠",
+      "onboard_time": 1728134361,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 140163,
@@ -9025,6 +9097,14 @@
       "onboard_time": 1728125418,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 137132,
+      "num": 137132,
+      "word": "郑钦文满意中网四强成绩",
+      "onboard_time": 1728134299,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 137077,
@@ -9547,6 +9627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 130871,
+      "num": 130871,
+      "word": "夏之光喜欢杨超越的反面类型",
+      "onboard_time": 1728134480,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 130662,
       "num": 130662,
       "word": "老外问为啥机器看到你会掉一瓶水",
@@ -9819,6 +9907,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 126507,
+      "num": 190505,
+      "word": "刀郎演唱会",
+      "onboard_time": 1728132259,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
       "raw_hot": 126439,
       "num": 255912,
       "word": "妈妈来大城市工作比我挣钱还多",
@@ -9857,6 +9953,14 @@
       "onboard_time": 1727965460,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 126327,
+      "num": 126327,
+      "word": "德约科维奇上海赛开门红",
+      "onboard_time": 1728134240,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 126322,
@@ -10187,14 +10291,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 120431,
-      "num": 141724,
-      "word": "刀郎演唱会",
-      "onboard_time": 1728132259,
-      "rank": 44,
-      "category": "演出"
-    },
-    {
       "raw_hot": 120410,
       "num": 120410,
       "word": "刘烨演技",
@@ -10507,14 +10603,6 @@
       "category": "美食,社会新闻"
     },
     {
-      "raw_hot": 116067,
-      "num": 116067,
-      "word": "DK对战LNG",
-      "onboard_time": 1728129742,
-      "rank": 41,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 116042,
       "num": 279768,
       "word": "广州有楼盘1天成交达3.5亿元",
@@ -10561,6 +10649,14 @@
       "onboard_time": 1728114860,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 115647,
+      "num": 655575,
+      "word": "当地文旅局回应哀牢山走红",
+      "onboard_time": 1728132681,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 115494,
@@ -10841,6 +10937,14 @@
       "onboard_time": 1727847859,
       "rank": 46,
       "category": "财经"
+    },
+    {
+      "raw_hot": 111523,
+      "num": 377398,
+      "word": "拉链式人墙给的安全感太足了",
+      "onboard_time": 1728134420,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 111521,
@@ -12555,6 +12659,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 81313,
+      "num": 193278,
+      "word": "远海任务遇外军挑衅他们挂弹起飞",
+      "onboard_time": 1728132920,
+      "rank": 28,
+      "category": "国内时政,军事"
+    },
+    {
       "raw_hot": 81144,
       "num": 81144,
       "word": "郑钦文逆转安德烈耶娃",
@@ -12769,6 +12881,14 @@
       "onboard_time": 1727706562,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 75771,
+      "num": 405284,
+      "word": "兵马俑人从众加开夜场",
+      "onboard_time": 1728133339,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 75674,
@@ -13432,6 +13552,14 @@
       "word": "中国非遗有多惊艳",
       "onboard_time": 1728106878,
       "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 56411,
+      "num": 1205568,
+      "word": "航天员发回的国庆礼物太赞了",
+      "onboard_time": 1728133221,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -14193,6 +14321,14 @@
       "onboard_time": 1727770878,
       "rank": 14,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 37322,
+      "num": 411732,
+      "word": "马兰童谣太好听了",
+      "onboard_time": 1728133880,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 37160,
@@ -14995,14 +15131,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 19107,
-      "num": 655575,
-      "word": "当地文旅局回应哀牢山走红",
-      "onboard_time": 1728132681,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 18811,
       "num": 377059,
       "word": "商竣程vs阿尔卡拉斯",
@@ -15289,14 +15417,6 @@
       "onboard_time": 1727998395,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 8548,
-      "num": 331516,
-      "word": "郑钦文回应摔倒",
-      "onboard_time": 1728132800,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 8417,
