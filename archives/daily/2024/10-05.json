@@ -1,6 +1,6 @@
 {
   "startTime": 1728059303809,
-  "endTime": 1728116810876,
+  "endTime": 1728117637921,
   "band_list": [
     {
       "raw_hot": 2363617,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1519935,
-      "num": 271046,
+      "num": 328199,
       "word": "爱奇艺会员暂停后播放全屏广告",
       "onboard_time": 1728114380,
       "rank": 10,
@@ -67,7 +67,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1193072,
+      "raw_hot": 1278527,
       "num": 227887,
       "word": "全红婵国宴",
       "onboard_time": 1728107719,
@@ -108,7 +108,7 @@
     },
     {
       "raw_hot": 906341,
-      "num": 269963,
+      "num": 327412,
       "word": "脱口秀演员调侃王楚钦遭辞退",
       "onboard_time": 1728113360,
       "rank": 15,
@@ -156,7 +156,7 @@
     },
     {
       "raw_hot": 709556,
-      "num": 269208,
+      "num": 324429,
       "word": "王楚钦和马琳儿子聊天",
       "onboard_time": 1728113900,
       "rank": 12,
@@ -260,7 +260,7 @@
     },
     {
       "raw_hot": 586630,
-      "num": 288620,
+      "num": 316902,
       "word": "王楚钦按下冠军手模",
       "onboard_time": 1728112280,
       "rank": 22,
@@ -313,6 +313,14 @@
       "onboard_time": 1728096977,
       "rank": 39,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 452052,
+      "num": 319880,
+      "word": "小雪 张百乔你离我丽颖远点",
+      "onboard_time": 1728116720,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 415680,
@@ -387,6 +395,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 336151,
+      "num": 336151,
+      "word": "孙颖莎决赛对阵王曼昱",
+      "onboard_time": 1728115760,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 335844,
       "num": 296089,
       "word": "付航吃法餐",
@@ -396,7 +412,7 @@
     },
     {
       "raw_hot": 327629,
-      "num": 266335,
+      "num": 299041,
       "word": "杨紫商务",
       "onboard_time": 1728112938,
       "rank": 18,
@@ -499,14 +515,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 266012,
-      "num": 266012,
-      "word": "孙颖莎决赛对阵王曼昱",
-      "onboard_time": 1728115760,
-      "rank": 17,
-      "category": "体育"
-    },
-    {
       "raw_hot": 265831,
       "num": 265831,
       "word": "记者探访走红的哀牢山",
@@ -587,6 +595,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 234590,
+      "num": 234590,
+      "word": "女子要求邻居安装的摄像头调整角度",
+      "onboard_time": 1728114979,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 232646,
       "num": 232646,
       "word": "老战士找到牺牲战友名字哭红了眼",
@@ -624,14 +640,6 @@
       "word": "前车突然掉头逆行货车轮胎刹到冒烟",
       "onboard_time": 1728097338,
       "rank": 24,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 214193,
-      "num": 214193,
-      "word": "女子要求邻居安装的摄像头调整角度",
-      "onboard_time": 1728114979,
-      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -691,6 +699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 192908,
+      "num": 192908,
+      "word": "郑钦文VOGUE封面",
+      "onboard_time": 1728117079,
+      "rank": 23,
+      "category": "体育,网红"
+    },
+    {
       "raw_hot": 191647,
       "num": 191647,
       "word": "宋雨琦叶舒华唱了superstar",
@@ -721,6 +737,14 @@
       "onboard_time": 1728111559,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 188138,
+      "num": 188138,
+      "word": "明日方舟",
+      "onboard_time": 1728116599,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 186364,
@@ -768,6 +792,14 @@
       "word": "男双决赛",
       "onboard_time": 1728108498,
       "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 178445,
+      "num": 178445,
+      "word": "孙颖莎回应本场火力全开",
+      "onboard_time": 1728116538,
+      "rank": 46,
       "category": "体育"
     },
     {
@@ -923,6 +955,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 163095,
+      "num": 163095,
+      "word": "柠栀结婚啦",
+      "onboard_time": 1728112817,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 162829,
       "num": 162829,
       "word": "假期最后3天怎么过",
@@ -947,12 +987,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 159370,
-      "num": 159370,
-      "word": "柠栀结婚啦",
-      "onboard_time": 1728112817,
-      "rank": 46,
-      "category": "电竞"
+      "raw_hot": 160416,
+      "num": 160416,
+      "word": "教育局回应学生举报补课被怼",
+      "onboard_time": 1728117198,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 156862,
@@ -1017,6 +1057,14 @@
       "onboard_time": 1728115338,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 152262,
+      "num": 152262,
+      "word": "孙颖莎正手狂轰",
+      "onboard_time": 1728116599,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 151170,
@@ -1331,14 +1379,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 118530,
-      "num": 118530,
-      "word": "明日方舟",
-      "onboard_time": 1728116599,
-      "rank": 41,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 117426,
       "num": 117426,
       "word": "年轻人爱上非洲游",
@@ -1353,14 +1393,6 @@
       "onboard_time": 1728106398,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 116144,
-      "num": 116144,
-      "word": "小雪 张百乔你离我丽颖远点",
-      "onboard_time": 1728116720,
-      "rank": 44,
-      "category": "电影"
     },
     {
       "raw_hot": 115809,
@@ -1443,14 +1475,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 112451,
-      "num": 112451,
-      "word": "孙颖莎回应本场火力全开",
-      "onboard_time": 1728116538,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
       "raw_hot": 112048,
       "num": 188356,
       "word": "伊朗袭击以色列前检查导弹画面首公开",
@@ -1465,6 +1489,14 @@
       "onboard_time": 1728105018,
       "rank": 8,
       "category": "电影"
+    },
+    {
+      "raw_hot": 110954,
+      "num": 110954,
+      "word": "燃月女生直面回应网络恶评",
+      "onboard_time": 1728117498,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 110251,
@@ -1499,12 +1531,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 107111,
-      "num": 107111,
-      "word": "孙颖莎正手狂轰",
-      "onboard_time": 1728116599,
-      "rank": 48,
-      "category": "体育"
+      "raw_hot": 107204,
+      "num": 107204,
+      "word": "陈芋汐红秀封面",
+      "onboard_time": 1728117440,
+      "rank": 43,
+      "category": "体育,时尚"
     },
     {
       "raw_hot": 107013,
@@ -1625,6 +1657,14 @@
       "onboard_time": 1728056000,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 95592,
+      "num": 95592,
+      "word": "郑钦文将迎战捷克名将穆霍娃",
+      "onboard_time": 1728117618,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 95496,
@@ -1763,6 +1803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 81775,
+      "num": 230453,
+      "word": "郭麒麟太会总结付航了",
+      "onboard_time": 1728116239,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 81230,
       "num": 188273,
       "word": "张雨霏差点被郑钦文的球砸中",
@@ -1825,14 +1873,6 @@
       "onboard_time": 1728038358,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 70640,
-      "num": 230453,
-      "word": "郭麒麟太会总结付航了",
-      "onboard_time": 1728116239,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 69408,
@@ -1913,6 +1953,14 @@
       "onboard_time": 1728056240,
       "rank": 47,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 60783,
+      "num": 318554,
+      "word": "粗糙的旅行和不打卡的人生",
+      "onboard_time": 1728116000,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 60387,
@@ -2155,14 +2203,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 29835,
-      "num": 268200,
-      "word": "粗糙的旅行和不打卡的人生",
-      "onboard_time": 1728116000,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 29131,
       "num": 89359,
       "word": "边防官兵顶风踏雪巡逻55号界碑",
@@ -2235,6 +2275,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 23508,
+      "num": 118638,
+      "word": "这些骑行误区一定要避开",
+      "onboard_time": 1728116720,
+      "rank": 39,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 23054,
+      "num": 244238,
+      "word": "晚退两小时被收半天房费合理吗",
+      "onboard_time": 1728117079,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 22188,
       "num": 215978,
       "word": "滕王阁回应保安小哥歌舞串烧火了",
@@ -2280,6 +2336,14 @@
       "word": "献给所有挺起中国脊梁的人",
       "onboard_time": 1728065112,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 17328,
+      "num": 590389,
+      "word": "每一次升旗都是对祖国的深情告白",
+      "onboard_time": 1728117139,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -2337,14 +2401,6 @@
       "onboard_time": 1728102739,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 6555,
-      "num": 118638,
-      "word": "这些骑行误区一定要避开",
-      "onboard_time": 1728116720,
-      "rank": 39,
-      "category": "运动健身"
     }
   ],
   "hotgov_list": [
