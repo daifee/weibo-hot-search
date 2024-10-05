@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1728134651533,
+  "endTime": 1728135359638,
   "band_list": [
     {
       "raw_hot": 11925969,
@@ -1403,6 +1403,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 663745,
+      "num": 442114,
+      "word": "宋佳一出场就是国泰民安",
+      "onboard_time": 1728129019,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 662753,
       "num": 290412,
       "word": "机场回应多名大妈在休息厅开音响跳舞",
@@ -1676,7 +1684,7 @@
     },
     {
       "raw_hot": 602639,
-      "num": 404554,
+      "num": 487941,
       "word": "马龙说林诗栋能力达到世界最高水平",
       "onboard_time": 1728132440,
       "rank": 34,
@@ -1689,14 +1697,6 @@
       "onboard_time": 1727838617,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 600480,
-      "num": 442114,
-      "word": "宋佳一出场就是国泰民安",
-      "onboard_time": 1728129019,
-      "rank": 13,
-      "category": "剧集"
     },
     {
       "raw_hot": 596916,
@@ -2467,6 +2467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 453798,
+      "num": 453798,
+      "word": "亚锦赛",
+      "onboard_time": 1728134299,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 452848,
       "num": 491936,
       "word": "向鹏3比1F勒布伦",
@@ -2619,6 +2627,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 427606,
+      "num": 427606,
+      "word": "李雯雯来看WTT是孙颖莎邀请的",
+      "onboard_time": 1728133159,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 426899,
       "num": 426899,
       "word": "永夜星河",
@@ -2745,14 +2761,6 @@
       "onboard_time": 1727945839,
       "rank": 22,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 403506,
-      "num": 403506,
-      "word": "李雯雯来看WTT是孙颖莎邀请的",
-      "onboard_time": 1728133159,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 401925,
@@ -3107,14 +3115,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 356536,
-      "num": 356536,
-      "word": "亚锦赛",
-      "onboard_time": 1728134299,
-      "rank": 20,
-      "category": "体育"
-    },
-    {
       "raw_hot": 355239,
       "num": 164410,
       "word": "大同降雪迎亲队冒雪抬新娘行进",
@@ -3177,6 +3177,14 @@
       "onboard_time": 1727953820,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 348474,
+      "num": 177204,
+      "word": "肖凯文 祝贺头哥崑哥双打夺冠",
+      "onboard_time": 1728134361,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 348376,
@@ -4435,6 +4443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 260638,
+      "num": 218721,
+      "word": "马龙说自己实力不如梁靖崑",
+      "onboard_time": 1728134299,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 260168,
       "num": 260168,
       "word": "文韬cos江直树",
@@ -5339,14 +5355,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 218721,
-      "num": 218721,
-      "word": "马龙说自己实力不如梁靖崑",
-      "onboard_time": 1728134299,
-      "rank": 26,
-      "category": "体育"
-    },
-    {
       "raw_hot": 218672,
       "num": 218672,
       "word": "三年了爸妈3个账户都回本了",
@@ -5883,6 +5891,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 199859,
+      "num": 199859,
+      "word": "DK对战LNG",
+      "onboard_time": 1728129742,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 199300,
       "num": 199300,
       "word": "王俊凯祝大家国庆假期愉快",
@@ -6027,12 +6043,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 196583,
+      "num": 173320,
+      "word": "你好星期六没发下期预告",
+      "onboard_time": 1728134780,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 196515,
       "num": 196515,
       "word": "77岁老人成为武汉最特别的游客",
       "onboard_time": 1728121040,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 196453,
+      "num": 196453,
+      "word": "aespa开麦三连唱",
+      "onboard_time": 1728134901,
+      "rank": 26,
+      "category": "音乐"
     },
     {
       "raw_hot": 196436,
@@ -6401,14 +6433,6 @@
       "onboard_time": 1727870839,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 190221,
-      "num": 190221,
-      "word": "DK对战LNG",
-      "onboard_time": 1728129742,
-      "rank": 41,
-      "category": "电竞"
     },
     {
       "raw_hot": 190008,
@@ -7427,6 +7451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 167322,
+      "num": 167322,
+      "word": "以色列多层导弹拦截系统疑似破防",
+      "onboard_time": 1728135019,
+      "rank": 32,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 167290,
       "num": 167290,
       "word": "姜妍虞书欣友情",
@@ -8331,6 +8363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 149742,
+      "num": 492814,
+      "word": "刀郎演唱会",
+      "onboard_time": 1728132259,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
       "raw_hot": 149603,
       "num": 449142,
       "word": "一份份清澈的爱汇聚成今日中国",
@@ -8379,6 +8419,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 148813,
+      "num": 148813,
+      "word": "夏之光喜欢杨超越的反面类型",
+      "onboard_time": 1728134480,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 148534,
       "num": 242391,
       "word": "商务部回应加拿大对我国电动汽车加征关税",
@@ -8393,6 +8441,14 @@
       "onboard_time": 1727935878,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 147899,
+      "num": 147899,
+      "word": "单依纯 随地大小睡",
+      "onboard_time": 1728134959,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 147699,
@@ -8819,14 +8875,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 140220,
-      "num": 140220,
-      "word": "肖凯文 祝贺头哥崑哥双打夺冠",
-      "onboard_time": 1728134361,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 140163,
       "num": 140163,
       "word": "花少 宋茜导游",
@@ -8947,6 +8995,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 138879,
+      "num": 138879,
+      "word": "檀健次Dance break",
+      "onboard_time": 1728135200,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 138818,
       "num": 138818,
       "word": "第五人格",
@@ -9048,6 +9104,14 @@
       "word": "孙颖莎3比1刘炜珊",
       "onboard_time": 1727929938,
       "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 137706,
+      "num": 137706,
+      "word": "周琦受伤",
+      "onboard_time": 1728135140,
+      "rank": 42,
       "category": "体育"
     },
     {
@@ -9627,14 +9691,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 130871,
-      "num": 130871,
-      "word": "夏之光喜欢杨超越的反面类型",
-      "onboard_time": 1728134480,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 130662,
       "num": 130662,
       "word": "老外问为啥机器看到你会掉一瓶水",
@@ -9649,6 +9705,14 @@
       "onboard_time": 1727877619,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 130387,
+      "num": 130387,
+      "word": "AG对战WB",
+      "onboard_time": 1728135019,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 130242,
@@ -9905,14 +9969,6 @@
       "onboard_time": 1727778799,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 126507,
-      "num": 190505,
-      "word": "刀郎演唱会",
-      "onboard_time": 1728132259,
-      "rank": 44,
-      "category": "演出"
     },
     {
       "raw_hot": 126439,
@@ -10299,6 +10355,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 120334,
+      "num": 492148,
+      "word": "拉链式人墙给的安全感太足了",
+      "onboard_time": 1728134420,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 119673,
       "num": 119673,
       "word": "密室大逃脱大神版",
@@ -10321,6 +10385,14 @@
       "onboard_time": 1727918777,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 119543,
+      "num": 193278,
+      "word": "远海任务遇外军挑衅他们挂弹起飞",
+      "onboard_time": 1728132920,
+      "rank": 28,
+      "category": "国内时政,军事"
     },
     {
       "raw_hot": 119424,
@@ -10937,14 +11009,6 @@
       "onboard_time": 1727847859,
       "rank": 46,
       "category": "财经"
-    },
-    {
-      "raw_hot": 111523,
-      "num": 377398,
-      "word": "拉链式人墙给的安全感太足了",
-      "onboard_time": 1728134420,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 111521,
@@ -12427,6 +12491,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 86943,
+      "num": 405284,
+      "word": "兵马俑人从众加开夜场",
+      "onboard_time": 1728133339,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 86736,
       "num": 86736,
       "word": "登陆少年的首次公开演出行程",
@@ -12659,14 +12731,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 81313,
-      "num": 193278,
-      "word": "远海任务遇外军挑衅他们挂弹起飞",
-      "onboard_time": 1728132920,
-      "rank": 28,
-      "category": "国内时政,军事"
-    },
-    {
       "raw_hot": 81144,
       "num": 81144,
       "word": "郑钦文逆转安德烈耶娃",
@@ -12883,14 +12947,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 75771,
-      "num": 405284,
-      "word": "兵马俑人从众加开夜场",
-      "onboard_time": 1728133339,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 75674,
       "num": 302172,
       "word": "LPL世界赛出征片",
@@ -13017,6 +13073,14 @@
       "onboard_time": 1727949679,
       "rank": 20,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 72833,
+      "num": 1205568,
+      "word": "航天员发回的国庆礼物太赞了",
+      "onboard_time": 1728133221,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 72623,
@@ -13552,14 +13616,6 @@
       "word": "中国非遗有多惊艳",
       "onboard_time": 1728106878,
       "rank": 5,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 56411,
-      "num": 1205568,
-      "word": "航天员发回的国庆礼物太赞了",
-      "onboard_time": 1728133221,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -14185,6 +14241,14 @@
       "onboard_time": 1727860996,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 39903,
+      "num": 673968,
+      "word": "凝聚力是中国人骨子里的精神",
+      "onboard_time": 1728132861,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 39735,
@@ -15425,14 +15489,6 @@
       "onboard_time": 1728041539,
       "rank": 49,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 6151,
-      "num": 673968,
-      "word": "凝聚力是中国人骨子里的精神",
-      "onboard_time": 1728132861,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 4982,
