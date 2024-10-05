@@ -1,6 +1,6 @@
 {
   "startTime": 1727540758074,
-  "endTime": 1728109764765,
+  "endTime": 1728110567504,
   "band_list": [
     {
       "raw_hot": 11925969,
@@ -75,20 +75,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2363617,
+      "num": 2363617,
+      "word": "王楚钦梁靖崑逆转夺冠",
+      "onboard_time": 1728107838,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2341065,
       "num": 2341065,
       "word": "得知我是中国人对方撤回了请立即离开",
       "onboard_time": 1728098239,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2256829,
-      "num": 2256829,
-      "word": "王楚钦梁靖崑逆转夺冠",
-      "onboard_time": 1728107838,
-      "rank": 0,
-      "category": "体育"
     },
     {
       "raw_hot": 2157671,
@@ -1843,6 +1843,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 653237,
+      "num": 653237,
+      "word": "王楚钦梁靖崑拥抱",
+      "onboard_time": 1728108857,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 648245,
       "num": 648245,
       "word": "孙颖莎 认真打的",
@@ -2227,7 +2235,7 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 588963,
+      "raw_hot": 590167,
       "num": 244953,
       "word": "月薪18000住家保姆的一天",
       "onboard_time": 1728108139,
@@ -2345,6 +2353,14 @@
       "onboard_time": 1728046339,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 574264,
+      "num": 527015,
+      "word": "徐州多人占铁轨拍照逼停火车头",
+      "onboard_time": 1728107719,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 571095,
@@ -3547,6 +3563,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 411578,
+      "num": 411578,
+      "word": "檀健次 你就拿这敷衍我",
+      "onboard_time": 1728108857,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 411245,
       "num": 264914,
       "word": "伊朗以色列军事力量对比",
@@ -4113,14 +4137,6 @@
       "onboard_time": 1727997795,
       "rank": 20,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 360376,
-      "num": 571647,
-      "word": "王楚钦梁靖崑拥抱",
-      "onboard_time": 1728108857,
-      "rank": 8,
-      "category": "体育"
     },
     {
       "raw_hot": 360158,
@@ -5096,14 +5112,6 @@
       "word": "年轻人假期整顿婚礼",
       "onboard_time": 1728059477,
       "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 294445,
-      "num": 294445,
-      "word": "徐州多人占铁轨拍照逼停火车头",
-      "onboard_time": 1728107719,
-      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -6307,12 +6315,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 243635,
-      "num": 243635,
-      "word": "檀健次 你就拿这敷衍我",
-      "onboard_time": 1728108857,
-      "rank": 23,
-      "category": "艺人"
+      "raw_hot": 243794,
+      "num": 243794,
+      "word": "王曼昱vs陈幸同",
+      "onboard_time": 1728109759,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 242729,
@@ -8915,6 +8923,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 186307,
+      "num": 186307,
+      "word": "石凯太湖湾音乐节",
+      "onboard_time": 1728109459,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
       "raw_hot": 186275,
       "num": 186275,
       "word": "网红二驴回归",
@@ -9665,6 +9681,14 @@
       "onboard_time": 1728037398,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 173500,
+      "num": 566939,
+      "word": "阿根廷总统米莱称将访华",
+      "onboard_time": 1728109699,
+      "rank": 29,
+      "category": "国内时政"
     },
     {
       "raw_hot": 173483,
@@ -11457,14 +11481,6 @@
       "onboard_time": 1728050300,
       "rank": 44,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 147651,
-      "num": 147651,
-      "word": "石凯太湖湾音乐节",
-      "onboard_time": 1728109459,
-      "rank": 43,
-      "category": "演出"
     },
     {
       "raw_hot": 147465,
@@ -14091,6 +14107,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 120333,
+      "num": 120333,
+      "word": "王楚钦神救球",
+      "onboard_time": 1728110238,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 120089,
       "num": 120089,
       "word": "2024中网",
@@ -15099,6 +15123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 110028,
+      "num": 110028,
+      "word": "G2喜迎LPL内战",
+      "onboard_time": 1728110238,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 109901,
       "num": 109901,
       "word": "第五人格赛事",
@@ -15835,6 +15867,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 101256,
+      "num": 101256,
+      "word": "男双决赛太激烈了",
+      "onboard_time": 1728110418,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 101225,
       "num": 101225,
       "word": "我爱你中国在这一刻具象了",
@@ -15921,14 +15961,6 @@
       "onboard_time": 1727939838,
       "rank": 41,
       "category": "科学科普,美食"
-    },
-    {
-      "raw_hot": 100552,
-      "num": 203353,
-      "word": "阿根廷总统米莱称将访华",
-      "onboard_time": 1728109699,
-      "rank": 29,
-      "category": "国内时政"
     },
     {
       "raw_hot": 100431,
@@ -16331,6 +16363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 95007,
+      "num": 485276,
+      "word": "89岁奶奶写了数十万字敦煌舞笔记",
+      "onboard_time": 1728108318,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 94781,
       "num": 94781,
       "word": "郑钦文比赛时间",
@@ -16409,14 +16449,6 @@
       "onboard_time": 1727939777,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 92806,
-      "num": 485276,
-      "word": "89岁奶奶写了数十万字敦煌舞笔记",
-      "onboard_time": 1728108318,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 92654,
@@ -18131,6 +18163,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 56526,
+      "num": 654842,
+      "word": "中国非遗有多惊艳",
+      "onboard_time": 1728106878,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 56496,
       "num": 157461,
       "word": "青海有害气体中毒家属发声",
@@ -18457,14 +18497,6 @@
       "onboard_time": 1727580199,
       "rank": 8,
       "category": "社会新闻,国内时政"
-    },
-    {
-      "raw_hot": 50113,
-      "num": 654842,
-      "word": "中国非遗有多惊艳",
-      "onboard_time": 1728106878,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 50087,
@@ -19467,6 +19499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 32184,
+      "num": 639592,
+      "word": "我国空间科学卫星从无到有闪耀太空",
+      "onboard_time": 1728105499,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 32117,
       "num": 303807,
       "word": "辛纳VS阿尔卡拉斯",
@@ -19553,14 +19593,6 @@
       "onboard_time": 1727601379,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 30923,
-      "num": 639592,
-      "word": "我国空间科学卫星从无到有闪耀太空",
-      "onboard_time": 1728105499,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 30700,
@@ -19745,6 +19777,14 @@
       "onboard_time": 1727553790,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 28028,
+      "num": 1039037,
+      "word": "奋斗中国的美丽剪影",
+      "onboard_time": 1728105919,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 27939,
@@ -19968,14 +20008,6 @@
       "word": "亲历者讲述从黎巴嫩撤离经过",
       "onboard_time": 1727931618,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 24396,
-      "num": 1039037,
-      "word": "奋斗中国的美丽剪影",
-      "onboard_time": 1728105919,
-      "rank": 2,
       "category": "社会新闻"
     },
     {

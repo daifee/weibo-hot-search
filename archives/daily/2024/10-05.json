@@ -1,7 +1,15 @@
 {
   "startTime": 1728059303809,
-  "endTime": 1728109764765,
+  "endTime": 1728110567504,
   "band_list": [
+    {
+      "raw_hot": 2363617,
+      "num": 2363617,
+      "word": "王楚钦梁靖崑逆转夺冠",
+      "onboard_time": 1728107838,
+      "rank": 0,
+      "category": "体育"
+    },
     {
       "raw_hot": 2341065,
       "num": 2341065,
@@ -9,14 +17,6 @@
       "onboard_time": 1728098239,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2256829,
-      "num": 2256829,
-      "word": "王楚钦梁靖崑逆转夺冠",
-      "onboard_time": 1728107838,
-      "rank": 0,
-      "category": "体育"
     },
     {
       "raw_hot": 1447002,
@@ -163,6 +163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 653237,
+      "num": 653237,
+      "word": "王楚钦梁靖崑拥抱",
+      "onboard_time": 1728108857,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 643369,
       "num": 275576,
       "word": "陈玘 不喜欢这些傲慢的白人",
@@ -195,12 +203,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 588963,
+      "raw_hot": 590167,
       "num": 244953,
       "word": "月薪18000住家保姆的一天",
       "onboard_time": 1728108139,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 574264,
+      "num": 527015,
+      "word": "徐州多人占铁轨拍照逼停火车头",
+      "onboard_time": 1728107719,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 559020,
@@ -243,6 +259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 411578,
+      "num": 411578,
+      "word": "檀健次 你就拿这敷衍我",
+      "onboard_time": 1728108857,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 392844,
       "num": 358285,
       "word": "BIGBANG完整体出演MAMA",
@@ -273,14 +297,6 @@
       "onboard_time": 1728055458,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 360376,
-      "num": 571647,
-      "word": "王楚钦梁靖崑拥抱",
-      "onboard_time": 1728108857,
-      "rank": 8,
-      "category": "体育"
     },
     {
       "raw_hot": 340927,
@@ -344,14 +360,6 @@
       "word": "年轻人假期整顿婚礼",
       "onboard_time": 1728059477,
       "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 294445,
-      "num": 294445,
-      "word": "徐州多人占铁轨拍照逼停火车头",
-      "onboard_time": 1728107719,
-      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -443,12 +451,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 243635,
-      "num": 243635,
-      "word": "檀健次 你就拿这敷衍我",
-      "onboard_time": 1728108857,
-      "rank": 23,
-      "category": "艺人"
+      "raw_hot": 243794,
+      "num": 243794,
+      "word": "王曼昱vs陈幸同",
+      "onboard_time": 1728109759,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 242663,
@@ -579,6 +587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 186307,
+      "num": 186307,
+      "word": "石凯太湖湾音乐节",
+      "onboard_time": 1728109459,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
       "raw_hot": 184982,
       "num": 180158,
       "word": "放久的奶茶到底有多脏",
@@ -625,6 +641,14 @@
       "onboard_time": 1728104298,
       "rank": 34,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 173500,
+      "num": 566939,
+      "word": "阿根廷总统米莱称将访华",
+      "onboard_time": 1728109699,
+      "rank": 29,
+      "category": "国内时政"
     },
     {
       "raw_hot": 173175,
@@ -849,14 +873,6 @@
       "onboard_time": 1728092718,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 147651,
-      "num": 147651,
-      "word": "石凯太湖湾音乐节",
-      "onboard_time": 1728109459,
-      "rank": 43,
-      "category": "演出"
     },
     {
       "raw_hot": 147158,
@@ -1091,6 +1107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 120333,
+      "num": 120333,
+      "word": "王楚钦神救球",
+      "onboard_time": 1728110238,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 119642,
       "num": 119642,
       "word": "何广智神仙导游",
@@ -1211,6 +1235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 110028,
+      "num": 110028,
+      "word": "G2喜迎LPL内战",
+      "onboard_time": 1728110238,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 109900,
       "num": 214156,
       "word": "中欧技术团队将继续关税谈判",
@@ -1283,12 +1315,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 100552,
-      "num": 203353,
-      "word": "阿根廷总统米莱称将访华",
-      "onboard_time": 1728109699,
-      "rank": 29,
-      "category": "国内时政"
+      "raw_hot": 101256,
+      "num": 101256,
+      "word": "男双决赛太激烈了",
+      "onboard_time": 1728110418,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 100639,
+      "num": 100639,
+      "word": "时代少年团演唱会官摄视频上线",
+      "onboard_time": 1728110537,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 100431,
@@ -1331,6 +1371,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 95007,
+      "num": 485276,
+      "word": "89岁奶奶写了数十万字敦煌舞笔记",
+      "onboard_time": 1728108318,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 94781,
       "num": 94781,
       "word": "郑钦文比赛时间",
@@ -1361,14 +1409,6 @@
       "onboard_time": 1728057618,
       "rank": 36,
       "category": "体育,演出"
-    },
-    {
-      "raw_hot": 92806,
-      "num": 485276,
-      "word": "89岁奶奶写了数十万字敦煌舞笔记",
-      "onboard_time": 1728108318,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 90324,
@@ -1619,6 +1659,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 56526,
+      "num": 654842,
+      "word": "中国非遗有多惊艳",
+      "onboard_time": 1728106878,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 56181,
       "num": 56181,
       "word": "腾讯考虑收购育碧",
@@ -1665,14 +1713,6 @@
       "onboard_time": 1728093798,
       "rank": 41,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 50113,
-      "num": 654842,
-      "word": "中国非遗有多惊艳",
-      "onboard_time": 1728106878,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 49987,
@@ -1803,7 +1843,7 @@
       "category": "演出"
     },
     {
-      "raw_hot": 30923,
+      "raw_hot": 32184,
       "num": 639592,
       "word": "我国空间科学卫星从无到有闪耀太空",
       "onboard_time": 1728105499,
@@ -1843,6 +1883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 28028,
+      "num": 1039037,
+      "word": "奋斗中国的美丽剪影",
+      "onboard_time": 1728105919,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 26821,
       "num": 245580,
       "word": "非遗真是凭实力圈粉",
@@ -1865,14 +1913,6 @@
       "onboard_time": 1728068292,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 24396,
-      "num": 1039037,
-      "word": "奋斗中国的美丽剪影",
-      "onboard_time": 1728105919,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 24034,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1728110567504,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2363617,
+        "num": 2363617,
+        "word": "王楚钦梁靖崑逆转夺冠",
+        "onboard_time": 1728107838,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 981028,
+        "num": 981028,
+        "word": "得知我是中国人对方撤回了请立即离开",
+        "onboard_time": 1728098239,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28028,
+        "num": 962813,
+        "word": "奋斗中国的美丽剪影",
+        "onboard_time": 1728105919,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 961196,
+        "num": 961196,
+        "word": "刘亦菲谈不进组的原因",
+        "onboard_time": 1728103518,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 653237,
+        "num": 653237,
+        "word": "王楚钦梁靖崑拥抱",
+        "onboard_time": 1728108857,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 56526,
+        "num": 637641,
+        "word": "中国非遗有多惊艳",
+        "onboard_time": 1728106878,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32184,
+        "num": 624129,
+        "word": "我国空间科学卫星从无到有闪耀太空",
+        "onboard_time": 1728105499,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258310,
+        "num": 578241,
+        "word": "你好星期六全员cos经典男主角",
+        "onboard_time": 1728096258,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173500,
+        "num": 566939,
+        "word": "阿根廷总统米莱称将访华",
+        "onboard_time": 1728109699,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 549289,
+        "num": 549289,
+        "word": "哀牢山堵车",
+        "onboard_time": 1728100038,
+        "rank": 9,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 574264,
+        "num": 527015,
+        "word": "徐州多人占铁轨拍照逼停火车头",
+        "onboard_time": 1728107719,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 411578,
+        "num": 411578,
+        "word": "檀健次 你就拿这敷衍我",
+        "onboard_time": 1728108857,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 392160,
+        "num": 392160,
+        "word": "许嵩 医美我确实还没体验过",
+        "onboard_time": 1728103578,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 377919,
+        "num": 377919,
+        "word": "哀牢山存在大地磁场强度异常的现象",
+        "onboard_time": 1728089658,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 313806,
+        "num": 313806,
+        "word": "黎巴嫩9岁女孩腿被炸断",
+        "onboard_time": 1728098118,
+        "rank": 14,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 243794,
+        "num": 243794,
+        "word": "王曼昱vs陈幸同",
+        "onboard_time": 1728109759,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 240512,
+        "num": 240512,
+        "word": "杨鸣 克里斯",
+        "onboard_time": 1728104358,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 217371,
+        "num": 217371,
+        "word": "郑钦文头号劲敌爆冷淘汰",
+        "onboard_time": 1728098899,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 211865,
+        "num": 211865,
+        "word": "Jasper中文名陈昊廷",
+        "onboard_time": 1728103216,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164187,
+        "num": 206337,
+        "word": "刘烨回应演技上热搜",
+        "onboard_time": 1728108018,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 788796,
+        "num": 206134,
+        "word": "全红婵国宴打包第一人",
+        "onboard_time": 1728107719,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 590167,
+        "num": 205720,
+        "word": "月薪18000住家保姆的一天",
+        "onboard_time": 1728108139,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 204120,
+        "num": 204120,
+        "word": "喜剧之王 虞书欣预告",
+        "onboard_time": 1728105798,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186307,
+        "num": 186307,
+        "word": "石凯太湖湾音乐节",
+        "onboard_time": 1728109459,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 193567,
+        "num": 179482,
+        "word": "付航吃法餐",
+        "onboard_time": 1728104718,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170550,
+        "num": 170550,
+        "word": "中东滑向全面战争",
+        "onboard_time": 1728105858,
+        "rank": 25,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 170424,
+        "num": 170424,
+        "word": "撑死的胖锦鲤并没有被保安带回家",
+        "onboard_time": 1728103338,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169395,
+        "num": 169395,
+        "word": "老公被隐形家务整崩溃想离家出走",
+        "onboard_time": 1728091278,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 165571,
+        "num": 165571,
+        "word": "工地小伙买万元三星手机充电时冒烟",
+        "onboard_time": 1728104418,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144820,
+        "num": 162520,
+        "word": "公主日记3",
+        "onboard_time": 1728100219,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 162301,
+        "num": 162301,
+        "word": "哀牢山危险不仅是野兽那么简单",
+        "onboard_time": 1728107177,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 403712,
+        "num": 160490,
+        "word": "小伙工地干活一年换一部手机",
+        "onboard_time": 1728102198,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149697,
+        "num": 149697,
+        "word": "王楚钦梁靖崑3比2林高远林诗栋",
+        "onboard_time": 1728108439,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 147394,
+        "num": 147394,
+        "word": "蒲熠星脱口秀首秀",
+        "onboard_time": 1728107538,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 95007,
+        "num": 139413,
+        "word": "89岁奶奶写了数十万字敦煌舞笔记",
+        "onboard_time": 1728108318,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138363,
+        "num": 138363,
+        "word": "趵突泉景区称水质好不需要人工投喂",
+        "onboard_time": 1728106217,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138146,
+        "num": 138146,
+        "word": "国庆假期第5天",
+        "onboard_time": 1728086236,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137763,
+        "num": 137763,
+        "word": "以后中国强大了一定要来看我",
+        "onboard_time": 1728096977,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 136437,
+        "num": 136437,
+        "word": "任嘉伦 三折叠怎么折都be",
+        "onboard_time": 1728089357,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130670,
+        "num": 130670,
+        "word": "她用舞蹈让敦煌壁画动起来了",
+        "onboard_time": 1728107778,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129216,
+        "num": 129216,
+        "word": "哀牢山",
+        "onboard_time": 1728091638,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120333,
+        "num": 120333,
+        "word": "王楚钦神救球",
+        "onboard_time": 1728110238,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 24523,
+        "num": 116730,
+        "word": "你永远可以相信檀健次的穿搭",
+        "onboard_time": 1728108559,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115813,
+        "num": 115813,
+        "word": "未来3天可能发生强地磁活动",
+        "onboard_time": 1728083834,
+        "rank": 43,
+        "category": "社会新闻,国内时政"
+      },
+      {
+        "raw_hot": 110028,
+        "num": 110028,
+        "word": "G2喜迎LPL内战",
+        "onboard_time": 1728110238,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 106692,
+        "num": 106692,
+        "word": "付航 如果必须高级我宁愿当猴",
+        "onboard_time": 1728107298,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103422,
+        "num": 103422,
+        "word": "男双决赛",
+        "onboard_time": 1728108498,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 101256,
+        "num": 101256,
+        "word": "男双决赛太激烈了",
+        "onboard_time": 1728110418,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100639,
+        "num": 100639,
+        "word": "时代少年团演唱会官摄视频上线",
+        "onboard_time": 1728110537,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 97859,
+        "num": 97859,
+        "word": "BIGBANG完整体出演MAMA",
+        "onboard_time": 1728098958,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#新时代的中国活力满满热气腾腾#"
+    }
+  }
+}
