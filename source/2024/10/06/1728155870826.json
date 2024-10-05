@@ -1,0 +1,410 @@
+{
+  "runTime": 1728155870826,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 305244,
+        "num": 305244,
+        "word": "假冒媒体杜撰网文被立案侦查",
+        "onboard_time": 1728150313,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 287384,
+        "num": 287384,
+        "word": "今晚可能发生强地磁暴",
+        "onboard_time": 1728143659,
+        "rank": 1,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 1471,
+        "num": 176999,
+        "word": "日记里的中国",
+        "onboard_time": 1728036080,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 83579,
+        "num": 83579,
+        "word": "为什么酒店里的被子睡完特别痒",
+        "onboard_time": 1728145879,
+        "rank": 3,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 61580,
+        "num": 61580,
+        "word": "哀牢山景区发布安全警示",
+        "onboard_time": 1728120618,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 57961,
+        "num": 57961,
+        "word": "李雯雯送孙颖莎马里奥",
+        "onboard_time": 1728141080,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 57447,
+        "num": 57447,
+        "word": "郑钦文说昨天做了错误决定",
+        "onboard_time": 1728136340,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 49215,
+        "num": 49215,
+        "word": "马龙4比0梁靖崑",
+        "onboard_time": 1728130041,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 43436,
+        "num": 49104,
+        "word": "马龙说自己实力不如梁靖崑",
+        "onboard_time": 1728134299,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 17525,
+        "num": 48947,
+        "word": "好六全员合唱梦回那个夏天",
+        "onboard_time": 1728138741,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115062,
+        "num": 48887,
+        "word": "张大大 你们是真的饿了",
+        "onboard_time": 1728145638,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 113584,
+        "num": 48691,
+        "word": "你好星期六没发下期预告",
+        "onboard_time": 1728134780,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112089,
+        "num": 48623,
+        "word": "情侣连续两次偷渡妄想去境外淘金",
+        "onboard_time": 1728143178,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 75274,
+        "num": 48386,
+        "word": "以色列多层导弹拦截系统疑似破防",
+        "onboard_time": 1728135019,
+        "rank": 13,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 71149,
+        "num": 48309,
+        "word": "刘烨疑似失去所有力气和手段",
+        "onboard_time": 1728142339,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 70730,
+        "num": 48157,
+        "word": "流星花园重播",
+        "onboard_time": 1728142458,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 59225,
+        "num": 47978,
+        "word": "专家解读为何哀牢山是禁区",
+        "onboard_time": 1728136459,
+        "rank": 16,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 47905,
+        "num": 47905,
+        "word": "哀牢山晚上会释放大量二氧化碳",
+        "onboard_time": 1728119658,
+        "rank": 17,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 47864,
+        "num": 47864,
+        "word": "声生不息港乐季2",
+        "onboard_time": 1728142818,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 39760,
+        "num": 47791,
+        "word": "游客因拍照起冲突在受气瓶前争吵",
+        "onboard_time": 1728154873,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38323,
+        "num": 47698,
+        "word": "檀健次真的唱了朝夕",
+        "onboard_time": 1728144499,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 35571,
+        "num": 47409,
+        "word": "立威廉一开口我的青春回来了",
+        "onboard_time": 1728139699,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 35418,
+        "num": 47334,
+        "word": "华晨宇演唱会 香水喷泉",
+        "onboard_time": 1728141380,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 34189,
+        "num": 47132,
+        "word": "DK现在笑不出来了吧",
+        "onboard_time": 1728140659,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 31544,
+        "num": 46941,
+        "word": "林诗栋坐王楚钦行李箱上看比赛",
+        "onboard_time": 1728141020,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 31449,
+        "num": 46748,
+        "word": "爱奇艺会员暂停后播放全屏广告",
+        "onboard_time": 1728114380,
+        "rank": 25,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 31411,
+        "num": 46725,
+        "word": "商场回应男厕玻璃磨砂女厕透明",
+        "onboard_time": 1728120739,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30534,
+        "num": 46461,
+        "word": "S14瑞士轮",
+        "onboard_time": 1728140180,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 30389,
+        "num": 46305,
+        "word": "WB零封AG",
+        "onboard_time": 1728140059,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 29055,
+        "num": 46233,
+        "word": "杨千嬅重庆演唱会",
+        "onboard_time": 1728145757,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 46085,
+        "num": 46085,
+        "word": "中东局势到了最危急时刻",
+        "onboard_time": 1728155112,
+        "rank": 30,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 30124,
+        "num": 46084,
+        "word": "那英澳门演唱会",
+        "onboard_time": 1728130399,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 30040,
+        "num": 46068,
+        "word": "钟丽丽 新疆人不是都会跳舞",
+        "onboard_time": 1728128359,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 18205,
+        "num": 46057,
+        "word": "流水迢迢",
+        "onboard_time": 1728154212,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 29195,
+        "num": 46032,
+        "word": "檀健次唱完干杯哭了",
+        "onboard_time": 1728141859,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 28948,
+        "num": 46023,
+        "word": "马龙vs梁靖崑",
+        "onboard_time": 1728124880,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 28614,
+        "num": 46012,
+        "word": "iPhone17Air相机功能或不如其他型号",
+        "onboard_time": 1728143119,
+        "rank": 36,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 27603,
+        "num": 45998,
+        "word": "749局是有点预言在的",
+        "onboard_time": 1728142038,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 26857,
+        "num": 45987,
+        "word": "郑钦文无缘中网决赛",
+        "onboard_time": 1728130041,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 26088,
+        "num": 45971,
+        "word": "于正身上痒就去洗澡",
+        "onboard_time": 1728136098,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25842,
+        "num": 45960,
+        "word": "李玉刚工作室发声明",
+        "onboard_time": 1728137660,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25571,
+        "num": 45943,
+        "word": "92岁抗美援朝女兵实弹打靶10发97环",
+        "onboard_time": 1728125059,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24940,
+        "num": 45937,
+        "word": "陈幸同钱天一3比1孙颖莎王艺迪",
+        "onboard_time": 1728132740,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 24831,
+        "num": 45917,
+        "word": "TFING训练记录片",
+        "onboard_time": 1728139459,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 23725,
+        "num": 45905,
+        "word": "LNG晋级S14八强",
+        "onboard_time": 1728136941,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 23360,
+        "num": 45894,
+        "word": "十个勤天巡演郑州站",
+        "onboard_time": 1728141680,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 22399,
+        "num": 45884,
+        "word": "陈幸同钱天一夺冠",
+        "onboard_time": 1728132740,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 21516,
+        "num": 45863,
+        "word": "广东潮汕猪脚饭有多好吃",
+        "onboard_time": 1728144918,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 21500,
+        "num": 45853,
+        "word": "夏之光按出道顺序念出R1SE所有人",
+        "onboard_time": 1728142818,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20868,
+        "num": 45838,
+        "word": "HLE对战GEN",
+        "onboard_time": 1728139459,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#新时代的中国活力满满热气腾腾#"
+    }
+  }
+}
