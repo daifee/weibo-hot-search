@@ -1,6 +1,6 @@
 {
   "startTime": 1728059303809,
-  "endTime": 1728092407393,
+  "endTime": 1728093433698,
   "band_list": [
     {
       "raw_hot": 1362409,
@@ -11,7 +11,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1050658,
+      "raw_hot": 1110357,
       "num": 202052,
       "word": "哀牢山存在大地磁场强度异常的现象",
       "onboard_time": 1728089658,
@@ -51,6 +51,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 678720,
+      "num": 197681,
+      "word": "任嘉伦 三折叠怎么折都be",
+      "onboard_time": 1728089357,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 662753,
       "num": 290412,
       "word": "机场回应多名大妈在休息厅开音响跳舞",
@@ -59,12 +67,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 657133,
-      "num": 197681,
-      "word": "任嘉伦 三折叠怎么折都be",
-      "onboard_time": 1728089357,
-      "rank": 13,
-      "category": "剧集"
+      "raw_hot": 647749,
+      "num": 187484,
+      "word": "哀牢山",
+      "onboard_time": 1728091638,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 643369,
@@ -75,8 +83,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 468170,
-      "num": 468170,
+      "raw_hot": 559020,
+      "num": 559020,
       "word": "又一条高铁要来了",
       "onboard_time": 1728090257,
       "rank": 1,
@@ -91,7 +99,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 397748,
+      "raw_hot": 415680,
       "num": 185698,
       "word": "国庆假期趵突泉鱼被撑死了",
       "onboard_time": 1728089597,
@@ -121,6 +129,14 @@
       "onboard_time": 1728054439,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 316478,
+      "num": 316478,
+      "word": "中方称欧洲支持征税就会失去投资",
+      "onboard_time": 1728090317,
+      "rank": 5,
+      "category": "国内时政"
     },
     {
       "raw_hot": 294476,
@@ -187,27 +203,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 236945,
-      "num": 236945,
-      "word": "中方称欧洲支持征税就会失去投资",
-      "onboard_time": 1728090317,
-      "rank": 5,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 232646,
       "num": 232646,
       "word": "老战士找到牺牲战友名字哭红了眼",
       "onboard_time": 1728086236,
       "rank": 6,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 210566,
-      "num": 180636,
-      "word": "哀牢山",
-      "onboard_time": 1728091638,
-      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -236,7 +236,7 @@
     },
     {
       "raw_hot": 185700,
-      "num": 185700,
+      "num": 204922,
       "word": "国庆假期第5天",
       "onboard_time": 1728086236,
       "rank": 15,
@@ -251,20 +251,20 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 181898,
+      "num": 180135,
+      "word": "钱塘江同志连续五年立大功",
+      "onboard_time": 1728088936,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 180992,
       "num": 180992,
       "word": "雅给向佐打电话的含金量还在上升",
       "onboard_time": 1728088399,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 180135,
-      "num": 180135,
-      "word": "钱塘江同志连续五年立大功",
-      "onboard_time": 1728088936,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 173175,
@@ -323,6 +323,54 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 155346,
+      "num": 197941,
+      "word": "误乘误降火车可免费换乘",
+      "onboard_time": 1728092238,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 154762,
+      "num": 154035,
+      "word": "期待肖战新一岁大银幕常见",
+      "onboard_time": 1728092478,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 153670,
+      "num": 153670,
+      "word": "学生被预录取后选择放弃符合规定",
+      "onboard_time": 1728089298,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 147742,
+      "num": 147742,
+      "word": "WTT",
+      "onboard_time": 1728092718,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 147614,
+      "num": 147614,
+      "word": "男子高速上开启自动驾驶撞上水马",
+      "onboard_time": 1728092778,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 147158,
+      "num": 147158,
+      "word": "华晨宇枪吻点燃烟花",
+      "onboard_time": 1728088758,
+      "rank": 29,
+      "category": "演出"
+    },
+    {
       "raw_hot": 146078,
       "num": 244612,
       "word": "伊藤美诚说想赢孙颖莎一分都很难",
@@ -337,14 +385,6 @@
       "onboard_time": 1728085335,
       "rank": 28,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 140868,
-      "num": 140868,
-      "word": "华晨宇枪吻点燃烟花",
-      "onboard_time": 1728088758,
-      "rank": 29,
-      "category": "演出"
     },
     {
       "raw_hot": 137482,
@@ -379,6 +419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 128521,
+      "num": 128521,
+      "word": "国内航线今起下调燃油附加费",
+      "onboard_time": 1728092478,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 127609,
       "num": 188374,
       "word": "中方必将采取一切措施维护中国企业利益",
@@ -393,6 +441,14 @@
       "onboard_time": 1728038418,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 126426,
+      "num": 142831,
+      "word": "王一博在沙漠做饼",
+      "onboard_time": 1728061635,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 124876,
@@ -411,14 +467,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 123102,
-      "num": 142831,
-      "word": "王一博在沙漠做饼",
-      "onboard_time": 1728061635,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 121674,
       "num": 243965,
       "word": "LNG战胜BLG",
@@ -432,14 +480,6 @@
       "word": "蚊子包下不去女生直接用针扎",
       "onboard_time": 1728044898,
       "rank": 27,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 117110,
-      "num": 117110,
-      "word": "学生被预录取后选择放弃符合规定",
-      "onboard_time": 1728089298,
-      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -457,6 +497,14 @@
       "onboard_time": 1728046220,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 112960,
+      "num": 112960,
+      "word": "他们反复与海浪搏斗救回2条命",
+      "onboard_time": 1728092597,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 112048,
@@ -491,20 +539,36 @@
       "category": "体育"
     },
     {
-      "raw_hot": 104785,
-      "num": 104785,
+      "raw_hot": 106671,
+      "num": 225332,
+      "word": "中方呼吁避免将北溪事件调查政治化",
+      "onboard_time": 1728091517,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 105813,
+      "num": 105813,
+      "word": "男子高速开车走神猛烈撞击一排水",
+      "onboard_time": 1728092478,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 105229,
+      "num": 105229,
       "word": "哀牢山部分区域已被开发成景区",
       "onboard_time": 1728085217,
       "rank": 36,
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 99735,
-      "num": 99735,
-      "word": "误乘误降火车可免费换乘",
-      "onboard_time": 1728092238,
-      "rank": 38,
-      "category": "社会新闻"
+      "raw_hot": 102443,
+      "num": 102443,
+      "word": "威少掘金首秀12分",
+      "onboard_time": 1728092478,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 96241,
@@ -601,6 +665,14 @@
       "onboard_time": 1728045679,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 82656,
+      "num": 82656,
+      "word": "郭碧婷信念感",
+      "onboard_time": 1728093138,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 82173,
@@ -777,14 +849,6 @@
       "onboard_time": 1728061035,
       "rank": 44,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 49156,
-      "num": 225332,
-      "word": "中方呼吁避免将北溪事件调查政治化",
-      "onboard_time": 1728091517,
-      "rank": 8,
-      "category": "国内时政"
     },
     {
       "raw_hot": 49129,
@@ -987,8 +1051,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 15309,
-      "num": 407394,
+      "raw_hot": 17418,
+      "num": 425514,
       "word": "国庆入境游增速将超过出境游",
       "onboard_time": 1728049940,
       "rank": 2,

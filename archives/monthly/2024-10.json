@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1728092407393,
+  "endTime": 1728093433698,
   "band_list": [
     {
       "raw_hot": 11925969,
@@ -403,6 +403,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1110357,
+      "num": 202052,
+      "word": "哀牢山存在大地磁场强度异常的现象",
+      "onboard_time": 1728089658,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1095624,
       "num": 485560,
       "word": "王楚钦回应单打失利",
@@ -440,14 +448,6 @@
       "word": "官方回应停车7小时被收费217.5元",
       "onboard_time": 1728008238,
       "rank": 11,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1050658,
-      "num": 202052,
-      "word": "哀牢山存在大地磁场强度异常的现象",
-      "onboard_time": 1728089658,
-      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -1083,6 +1083,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 678720,
+      "num": 197681,
+      "word": "任嘉伦 三折叠怎么折都be",
+      "onboard_time": 1728089357,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 678462,
       "num": 550113,
       "word": "赵丽颖的手差点没捂住张百乔的嘴",
@@ -1139,20 +1147,20 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 657133,
-      "num": 197681,
-      "word": "任嘉伦 三折叠怎么折都be",
-      "onboard_time": 1728089357,
-      "rank": 13,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 653812,
       "num": 367015,
       "word": "赵今麦刘浩存MIUMIU出图",
       "onboard_time": 1727775798,
       "rank": 12,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 647749,
+      "num": 244962,
+      "word": "哀牢山",
+      "onboard_time": 1727694079,
+      "rank": 14,
+      "category": "自然,网红"
     },
     {
       "raw_hot": 643369,
@@ -1345,14 +1353,6 @@
       "onboard_time": 1727879300,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 606402,
-      "num": 244962,
-      "word": "哀牢山",
-      "onboard_time": 1727694079,
-      "rank": 14,
-      "category": "自然,网红"
     },
     {
       "raw_hot": 603713,
@@ -1553,6 +1553,14 @@
       "onboard_time": 1727866218,
       "rank": 13,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 559020,
+      "num": 559020,
+      "word": "又一条高铁要来了",
+      "onboard_time": 1728090257,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 554003,
@@ -1963,14 +1971,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 468170,
-      "num": 468170,
-      "word": "又一条高铁要来了",
-      "onboard_time": 1728090257,
-      "rank": 1,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 465493,
       "num": 365145,
       "word": "offer6带教 香港首位内地女性大律师",
@@ -2251,6 +2251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 415680,
+      "num": 185698,
+      "word": "国庆假期趵突泉鱼被撑死了",
+      "onboard_time": 1728089597,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 413823,
       "num": 324481,
       "word": "英国偶遇孙怡",
@@ -2313,14 +2321,6 @@
       "onboard_time": 1727837658,
       "rank": 30,
       "category": "数码"
-    },
-    {
-      "raw_hot": 397748,
-      "num": 185698,
-      "word": "国庆假期趵突泉鱼被撑死了",
-      "onboard_time": 1728089597,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 396946,
@@ -2913,6 +2913,14 @@
       "onboard_time": 1728010277,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 316478,
+      "num": 316478,
+      "word": "中方称欧洲支持征税就会失去投资",
+      "onboard_time": 1728090317,
+      "rank": 5,
+      "category": "国内时政"
     },
     {
       "raw_hot": 315462,
@@ -4113,14 +4121,6 @@
       "onboard_time": 1728008238,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 236945,
-      "num": 236945,
-      "word": "中方称欧洲支持征税就会失去投资",
-      "onboard_time": 1728090317,
-      "rank": 5,
-      "category": "国内时政"
     },
     {
       "raw_hot": 236864,
@@ -5636,7 +5636,7 @@
     },
     {
       "raw_hot": 185700,
-      "num": 185700,
+      "num": 204922,
       "word": "国庆假期第5天",
       "onboard_time": 1728086236,
       "rank": 15,
@@ -5771,6 +5771,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 181898,
+      "num": 180135,
+      "word": "钱塘江同志连续五年立大功",
+      "onboard_time": 1728088936,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 181724,
       "num": 233051,
       "word": "4个表图分清楚医保个人自付和自费",
@@ -5849,14 +5857,6 @@
       "onboard_time": 1727755125,
       "rank": 19,
       "category": "电影"
-    },
-    {
-      "raw_hot": 180135,
-      "num": 180135,
-      "word": "钱塘江同志连续五年立大功",
-      "onboard_time": 1728088936,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 180053,
@@ -6851,12 +6851,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 155346,
+      "num": 197941,
+      "word": "误乘误降火车可免费换乘",
+      "onboard_time": 1728092238,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 154877,
       "num": 154877,
       "word": "毛利兰 天使角色第一",
       "onboard_time": 1728041299,
       "rank": 36,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 154762,
+      "num": 154035,
+      "word": "期待肖战新一岁大银幕常见",
+      "onboard_time": 1728092478,
+      "rank": 24,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 154547,
@@ -6897,6 +6913,14 @@
       "onboard_time": 1728037579,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 153670,
+      "num": 153670,
+      "word": "学生被预录取后选择放弃符合规定",
+      "onboard_time": 1728089298,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 153170,
@@ -7139,12 +7163,28 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 147614,
+      "num": 147614,
+      "word": "男子高速上开启自动驾驶撞上水马",
+      "onboard_time": 1728092778,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 147465,
       "num": 147465,
       "word": "郑钦文连追4局扳平",
       "onboard_time": 1728041598,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 147158,
+      "num": 147158,
+      "word": "华晨宇枪吻点燃烟花",
+      "onboard_time": 1728088758,
+      "rank": 29,
+      "category": "演出"
     },
     {
       "raw_hot": 147093,
@@ -7433,14 +7473,6 @@
       "onboard_time": 1727919437,
       "rank": 42,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 140868,
-      "num": 140868,
-      "word": "华晨宇枪吻点燃烟花",
-      "onboard_time": 1728088758,
-      "rank": 29,
-      "category": "演出"
     },
     {
       "raw_hot": 140713,
@@ -8267,6 +8299,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 128521,
+      "num": 128521,
+      "word": "国内航线今起下调燃油附加费",
+      "onboard_time": 1728092478,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 128396,
       "num": 128396,
       "word": "视觉模拟中国撤侨航线",
@@ -8385,6 +8425,14 @@
       "onboard_time": 1728017299,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 126426,
+      "num": 142831,
+      "word": "王一博在沙漠做饼",
+      "onboard_time": 1728061635,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 126397,
@@ -8529,14 +8577,6 @@
       "onboard_time": 1727955738,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 123102,
-      "num": 142831,
-      "word": "王一博在沙漠做饼",
-      "onboard_time": 1728061635,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 123052,
@@ -8915,14 +8955,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 117110,
-      "num": 117110,
-      "word": "学生被预录取后选择放弃符合规定",
-      "onboard_time": 1728089298,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 117046,
       "num": 117046,
       "word": "科创板50ETF暴涨超234%",
@@ -9113,6 +9145,14 @@
       "onboard_time": 1728039018,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 112960,
+      "num": 112960,
+      "word": "他们反复与海浪搏斗救回2条命",
+      "onboard_time": 1728092597,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 112943,
@@ -9531,6 +9571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 106671,
+      "num": 225332,
+      "word": "中方呼吁避免将北溪事件调查政治化",
+      "onboard_time": 1728091517,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 106554,
       "num": 106554,
       "word": "雨果3比1安宰贤",
@@ -9587,6 +9635,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 105813,
+      "num": 105813,
+      "word": "男子高速开车走神猛烈撞击一排水",
+      "onboard_time": 1728092478,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 105739,
       "num": 105739,
       "word": "刘浩存赵今麦比心",
@@ -9619,20 +9675,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 105229,
+      "num": 105229,
+      "word": "哀牢山部分区域已被开发成景区",
+      "onboard_time": 1728085217,
+      "rank": 36,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 104850,
       "num": 104850,
       "word": "许凯 腿在狂奔帽子在劈叉",
       "onboard_time": 1728045618,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 104785,
-      "num": 104785,
-      "word": "哀牢山部分区域已被开发成景区",
-      "onboard_time": 1728085217,
-      "rank": 36,
-      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 104641,
@@ -9771,6 +9827,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 102443,
+      "num": 102443,
+      "word": "威少掘金首秀12分",
+      "onboard_time": 1728092478,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 102127,
       "num": 102127,
       "word": "余景天烟台海边唱如愿",
@@ -9905,14 +9969,6 @@
       "onboard_time": 1727777118,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 99735,
-      "num": 99735,
-      "word": "误乘误降火车可免费换乘",
-      "onboard_time": 1728092238,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 99729,
@@ -10601,6 +10657,14 @@
       "onboard_time": 1728087917,
       "rank": 44,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 82656,
+      "num": 82656,
+      "word": "郭碧婷信念感",
+      "onboard_time": 1728093138,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 82526,
@@ -11713,14 +11777,6 @@
       "onboard_time": 1727905091,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 49156,
-      "num": 225332,
-      "word": "中方呼吁避免将北溪事件调查政治化",
-      "onboard_time": 1728091517,
-      "rank": 8,
-      "category": "国内时政"
     },
     {
       "raw_hot": 49129,
@@ -12963,6 +13019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 17418,
+      "num": 425514,
+      "word": "国庆入境游增速将超过出境游",
+      "onboard_time": 1728049940,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 17212,
       "num": 44034,
       "word": "警号004391重启",
@@ -13000,14 +13064,6 @@
       "word": "用爱心骑行的方式祝福祖国",
       "onboard_time": 1727756419,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 15309,
-      "num": 407394,
-      "word": "国庆入境游增速将超过出境游",
-      "onboard_time": 1728049940,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
