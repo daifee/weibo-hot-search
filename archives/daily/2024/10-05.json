@@ -1,6 +1,6 @@
 {
   "startTime": 1728059303809,
-  "endTime": 1728097264092,
+  "endTime": 1728098765831,
   "band_list": [
     {
       "raw_hot": 1447002,
@@ -19,20 +19,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1340761,
+      "num": 679345,
+      "word": "你好星期六全员cos经典男主角",
+      "onboard_time": 1728096258,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 927616,
       "num": 936074,
       "word": "太阳爆发7年来最强耀斑",
       "onboard_time": 1728055039,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 918228,
-      "num": 679345,
-      "word": "你好星期六全员cos经典男主角",
-      "onboard_time": 1728096258,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 909145,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 678720,
-      "num": 275925,
+      "num": 331444,
       "word": "任嘉伦 三折叠怎么折都be",
       "onboard_time": 1728089357,
       "rank": 13,
@@ -100,7 +100,7 @@
     },
     {
       "raw_hot": 592753,
-      "num": 276337,
+      "num": 337235,
       "word": "男子高速上开启自动驾驶撞上水马",
       "onboard_time": 1728092778,
       "rank": 28,
@@ -113,6 +113,22 @@
       "onboard_time": 1728090257,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 536476,
+      "num": 536476,
+      "word": "得知我是中国人对方撤回了请立即离开",
+      "onboard_time": 1728098239,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 491538,
+      "num": 357512,
+      "word": "成毅 伯希和",
+      "onboard_time": 1728095539,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 465619,
@@ -139,20 +155,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 379792,
+      "num": 379792,
+      "word": "以后中国强大了一定要来看我",
+      "onboard_time": 1728096977,
+      "rank": 39,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 372321,
+      "num": 211120,
+      "word": "35岁再考清华当事人将再考",
+      "onboard_time": 1728094697,
+      "rank": 22,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 362273,
       "num": 243038,
       "word": "入住酒店民宿这样排查隐藏摄像头",
       "onboard_time": 1728055458,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 358542,
-      "num": 237790,
-      "word": "成毅 伯希和",
-      "onboard_time": 1728095539,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 340927,
@@ -179,14 +203,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 302286,
-      "num": 211120,
-      "word": "35岁再考清华当事人将再考",
-      "onboard_time": 1728094697,
-      "rank": 22,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 294476,
       "num": 294476,
       "word": "年轻人假期整顿婚礼",
@@ -196,7 +212,7 @@
     },
     {
       "raw_hot": 282896,
-      "num": 282896,
+      "num": 377087,
       "word": "花少团出国了但没完全出",
       "onboard_time": 1728057018,
       "rank": 3,
@@ -244,10 +260,18 @@
     },
     {
       "raw_hot": 248510,
-      "num": 248510,
+      "num": 362659,
       "word": "国内航线今起下调燃油附加费",
       "onboard_time": 1728092478,
       "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 244288,
+      "num": 244288,
+      "word": "国庆假期第5天",
+      "onboard_time": 1728086236,
+      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -275,12 +299,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 231746,
-      "num": 231746,
-      "word": "国庆假期第5天",
-      "onboard_time": 1728086236,
-      "rank": 15,
-      "category": "社会新闻"
+      "raw_hot": 222274,
+      "num": 222274,
+      "word": "三折叠怎么折都有题",
+      "onboard_time": 1728094397,
+      "rank": 28,
+      "category": "幽默"
     },
     {
       "raw_hot": 207853,
@@ -371,6 +395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 170525,
+      "num": 170525,
+      "word": "前车突然掉头逆行货车轮胎刹到冒烟",
+      "onboard_time": 1728097338,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 168686,
       "num": 188575,
       "word": "伊朗以色列军事力量对比",
@@ -403,20 +435,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 160185,
-      "num": 160185,
-      "word": "三折叠怎么折都有题",
-      "onboard_time": 1728094397,
-      "rank": 28,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 156862,
       "num": 146189,
       "word": "S14瑞士轮第三轮抽签",
       "onboard_time": 1728083476,
       "rank": 15,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 155263,
+      "num": 155263,
+      "word": "胡塞武装称也门多地遭美英空袭",
+      "onboard_time": 1728097098,
+      "rank": 45,
+      "category": "国外时政"
     },
     {
       "raw_hot": 154762,
@@ -467,6 +499,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 140894,
+      "num": 140894,
+      "word": "黎巴嫩9岁女孩腿被炸断",
+      "onboard_time": 1728098118,
+      "rank": 28,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 137482,
       "num": 188537,
       "word": "梁靖崑说王楚钦又甜又凶",
@@ -499,6 +539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 131191,
+      "num": 131191,
+      "word": "假期最后3天怎么过",
+      "onboard_time": 1728098058,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 129949,
       "num": 244224,
       "word": "孙颖莎4比0胜伊藤美诚",
@@ -521,6 +569,14 @@
       "onboard_time": 1728067873,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 128821,
+      "num": 128821,
+      "word": "湖人vs森林狼",
+      "onboard_time": 1728098359,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 127609,
@@ -579,6 +635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 121037,
+      "num": 121037,
+      "word": "朴彩英将回归",
+      "onboard_time": 1728097578,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 120593,
       "num": 120593,
       "word": "郑钦文创造多项个人纪录",
@@ -587,12 +651,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 116330,
+      "num": 116330,
+      "word": "想你的风吹到了哀牢山",
+      "onboard_time": 1728097998,
+      "rank": 38,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 115809,
       "num": 243817,
       "word": "蒯曼林诗栋混双冠军",
       "onboard_time": 1728049340,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 114082,
+      "num": 114082,
+      "word": "为什么漫展从不缺显眼包",
+      "onboard_time": 1728095658,
+      "rank": 40,
+      "category": "动漫"
     },
     {
       "raw_hot": 113836,
@@ -619,20 +699,28 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 110251,
+      "num": 110251,
+      "word": "记者探访哀牢山刚下车就被蛰伤",
+      "onboard_time": 1728098538,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 109959,
+      "num": 109959,
+      "word": "黎巴嫩医务人员说在恐惧中工作很难",
+      "onboard_time": 1728098298,
+      "rank": 44,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 109900,
       "num": 214156,
       "word": "中欧技术团队将继续关税谈判",
       "onboard_time": 1728089118,
       "rank": 9,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 108514,
-      "num": 108514,
-      "word": "以后中国强大了一定要来看我",
-      "onboard_time": 1728096977,
-      "rank": 39,
-      "category": "国内时政"
     },
     {
       "raw_hot": 108486,
@@ -675,20 +763,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 104214,
-      "num": 104214,
-      "word": "为什么漫展从不缺显眼包",
-      "onboard_time": 1728095658,
-      "rank": 40,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 104000,
       "num": 104000,
       "word": "记者探访走红的哀牢山",
       "onboard_time": 1728094880,
       "rank": 42,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 103140,
+      "num": 103140,
+      "word": "邓为去了卢浮宫",
+      "onboard_time": 1728098599,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 102443,
@@ -713,14 +801,6 @@
       "onboard_time": 1728095419,
       "rank": 44,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 96680,
-      "num": 96680,
-      "word": "胡塞武装称也门多地遭美英空袭",
-      "onboard_time": 1728097098,
-      "rank": 45,
-      "category": "国外时政"
     },
     {
       "raw_hot": 96241,
@@ -1100,7 +1180,7 @@
     },
     {
       "raw_hot": 40971,
-      "num": 89696,
+      "num": 347387,
       "word": "和平精英品牌代言人田曦薇",
       "onboard_time": 1728097158,
       "rank": 47,

@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1728097264092,
+  "endTime": 1728098765831,
   "band_list": [
     {
       "raw_hot": 11925969,
@@ -241,6 +241,14 @@
       "onboard_time": 1728087738,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1340761,
+      "num": 679345,
+      "word": "你好星期六全员cos经典男主角",
+      "onboard_time": 1728096258,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 1323775,
@@ -601,14 +609,6 @@
       "onboard_time": 1728012258,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 918228,
-      "num": 679345,
-      "word": "你好星期六全员cos经典男主角",
-      "onboard_time": 1728096258,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 912976,
@@ -1100,7 +1100,7 @@
     },
     {
       "raw_hot": 678720,
-      "num": 275925,
+      "num": 331444,
       "word": "任嘉伦 三折叠怎么折都be",
       "onboard_time": 1728089357,
       "rank": 13,
@@ -1412,7 +1412,7 @@
     },
     {
       "raw_hot": 592753,
-      "num": 276337,
+      "num": 337235,
       "word": "男子高速上开启自动驾驶撞上水马",
       "onboard_time": 1728092778,
       "rank": 28,
@@ -1707,6 +1707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 536476,
+      "num": 536476,
+      "word": "得知我是中国人对方撤回了请立即离开",
+      "onboard_time": 1728098239,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 534705,
       "num": 333733,
       "word": "孙颖莎比赛多次被闪光灯干扰",
@@ -1929,6 +1937,14 @@
       "onboard_time": 1728016456,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 491538,
+      "num": 357512,
+      "word": "成毅 伯希和",
+      "onboard_time": 1728095539,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 485593,
@@ -2475,6 +2491,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 379792,
+      "num": 379792,
+      "word": "以后中国强大了一定要来看我",
+      "onboard_time": 1728096977,
+      "rank": 39,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 378422,
       "num": 228430,
       "word": "宋雨琦叶舒华唱了superstar",
@@ -2529,6 +2553,14 @@
       "onboard_time": 1727934138,
       "rank": 11,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 372321,
+      "num": 211120,
+      "word": "35岁再考清华当事人将再考",
+      "onboard_time": 1728094697,
+      "rank": 22,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 369496,
@@ -2633,14 +2665,6 @@
       "onboard_time": 1727752699,
       "rank": 45,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 358542,
-      "num": 237790,
-      "word": "成毅 伯希和",
-      "onboard_time": 1728095539,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 356935,
@@ -3107,14 +3131,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 302286,
-      "num": 211120,
-      "word": "35岁再考清华当事人将再考",
-      "onboard_time": 1728094697,
-      "rank": 22,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 301668,
       "num": 240615,
       "word": "何超莲睡衣造型是自己设计的",
@@ -3396,7 +3412,7 @@
     },
     {
       "raw_hot": 282896,
-      "num": 282896,
+      "num": 377087,
       "word": "花少团出国了但没完全出",
       "onboard_time": 1728057018,
       "rank": 3,
@@ -3956,7 +3972,7 @@
     },
     {
       "raw_hot": 248510,
-      "num": 248510,
+      "num": 362659,
       "word": "国内航线今起下调燃油附加费",
       "onboard_time": 1728092478,
       "rank": 30,
@@ -4056,6 +4072,14 @@
       "word": "北京下调个人住房贷款首付款比例",
       "onboard_time": 1727707881,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 244288,
+      "num": 244288,
+      "word": "国庆假期第5天",
+      "onboard_time": 1728086236,
+      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -4315,14 +4339,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 231746,
-      "num": 231746,
-      "word": "国庆假期第5天",
-      "onboard_time": 1728086236,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 231548,
       "num": 231548,
       "word": "Jennie全新粉发造型",
@@ -4521,6 +4537,14 @@
       "onboard_time": 1727789183,
       "rank": 32,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 222274,
+      "num": 222274,
+      "word": "三折叠怎么折都有题",
+      "onboard_time": 1728094397,
+      "rank": 28,
+      "category": "幽默"
     },
     {
       "raw_hot": 221959,
@@ -6307,6 +6331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 170525,
+      "num": 170525,
+      "word": "前车突然掉头逆行货车轮胎刹到冒烟",
+      "onboard_time": 1728097338,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 170501,
       "num": 170501,
       "word": "日本股市抢筹中国资产",
@@ -6667,14 +6699,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 160185,
-      "num": 160185,
-      "word": "三折叠怎么折都有题",
-      "onboard_time": 1728094397,
-      "rank": 28,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 160016,
       "num": 160016,
       "word": "赵今麦刘浩存张元英官方认领图",
@@ -6945,6 +6969,14 @@
       "onboard_time": 1727773820,
       "rank": 19,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 155263,
+      "num": 155263,
+      "word": "胡塞武装称也门多地遭美英空袭",
+      "onboard_time": 1728097098,
+      "rank": 45,
+      "category": "国外时政"
     },
     {
       "raw_hot": 154877,
@@ -7553,6 +7585,14 @@
       "onboard_time": 1727919437,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 140894,
+      "num": 140894,
+      "word": "黎巴嫩9岁女孩腿被炸断",
+      "onboard_time": 1728098118,
+      "rank": 28,
+      "category": "国外时政"
     },
     {
       "raw_hot": 140713,
@@ -8251,6 +8291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 131191,
+      "num": 131191,
+      "word": "假期最后3天怎么过",
+      "onboard_time": 1728098058,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 131102,
       "num": 131102,
       "word": "宋亚轩的抽象超乎我的想象",
@@ -8393,6 +8441,14 @@
       "onboard_time": 1728067873,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 128821,
+      "num": 128821,
+      "word": "湖人vs森林狼",
+      "onboard_time": 1728098359,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 128396,
@@ -8747,6 +8803,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 121037,
+      "num": 121037,
+      "word": "朴彩英将回归",
+      "onboard_time": 1728097578,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 120890,
       "num": 120890,
       "word": "斯瓦泰克退出武网",
@@ -9083,6 +9147,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 116330,
+      "num": 116330,
+      "word": "想你的风吹到了哀牢山",
+      "onboard_time": 1728097998,
+      "rank": 38,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 116091,
       "num": 116091,
       "word": "杭州萧山人开吃年夜饭了",
@@ -9209,6 +9281,14 @@
       "onboard_time": 1727879000,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 114082,
+      "num": 114082,
+      "word": "为什么漫展从不缺显眼包",
+      "onboard_time": 1728095658,
+      "rank": 40,
+      "category": "动漫"
     },
     {
       "raw_hot": 113678,
@@ -9411,12 +9491,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 110251,
+      "num": 110251,
+      "word": "记者探访哀牢山刚下车就被蛰伤",
+      "onboard_time": 1728098538,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 110150,
       "num": 110150,
       "word": "LNG世界赛两连胜",
       "onboard_time": 1728046641,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 109959,
+      "num": 109959,
+      "word": "黎巴嫩医务人员说在恐惧中工作很难",
+      "onboard_time": 1728098298,
+      "rank": 44,
+      "category": "国外时政"
     },
     {
       "raw_hot": 109958,
@@ -9529,14 +9625,6 @@
       "onboard_time": 1728003438,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 108514,
-      "num": 108514,
-      "word": "以后中国强大了一定要来看我",
-      "onboard_time": 1728096977,
-      "rank": 39,
-      "category": "国内时政"
     },
     {
       "raw_hot": 108482,
@@ -9827,14 +9915,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 104214,
-      "num": 104214,
-      "word": "为什么漫展从不缺显眼包",
-      "onboard_time": 1728095658,
-      "rank": 40,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 104140,
       "num": 104140,
       "word": "牙没长齐的小狗吃水果",
@@ -9905,6 +9985,14 @@
       "onboard_time": 1727940918,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 103140,
+      "num": 103140,
+      "word": "邓为去了卢浮宫",
+      "onboard_time": 1728098599,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 103075,
@@ -10249,14 +10337,6 @@
       "onboard_time": 1727746518,
       "rank": 22,
       "category": "电影"
-    },
-    {
-      "raw_hot": 96680,
-      "num": 96680,
-      "word": "胡塞武装称也门多地遭美英空袭",
-      "onboard_time": 1728097098,
-      "rank": 45,
-      "category": "国外时政"
     },
     {
       "raw_hot": 96607,
@@ -12220,7 +12300,7 @@
     },
     {
       "raw_hot": 40971,
-      "num": 89696,
+      "num": 347387,
       "word": "和平精英品牌代言人田曦薇",
       "onboard_time": 1728097158,
       "rank": 47,
