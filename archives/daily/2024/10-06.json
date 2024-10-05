@@ -1,6 +1,6 @@
 {
   "startTime": 1728145573126,
-  "endTime": 1728170451967,
+  "endTime": 1728171314073,
   "band_list": [
     {
       "raw_hot": 1023363,
@@ -83,12 +83,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 358040,
+      "num": 103570,
+      "word": "中东局势到了最危急时刻",
+      "onboard_time": 1728155112,
+      "rank": 30,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 355391,
       "num": 251551,
       "word": "立威廉一开口我的青春回来了",
       "onboard_time": 1728139699,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 351467,
+      "num": 103060,
+      "word": "游客因拍照起冲突在受气瓶前争吵",
+      "onboard_time": 1728154873,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 335821,
@@ -107,14 +123,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 300519,
-      "num": 67664,
-      "word": "中东局势到了最危急时刻",
-      "onboard_time": 1728155112,
-      "rank": 30,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 297193,
       "num": 297193,
       "word": "为什么酒店里的被子睡完特别痒",
@@ -131,14 +139,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 272349,
-      "num": 67653,
-      "word": "游客因拍照起冲突在受气瓶前争吵",
-      "onboard_time": 1728154873,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 268681,
       "num": 250782,
       "word": "马龙vs梁靖崑",
@@ -153,6 +153,14 @@
       "onboard_time": 1728136459,
       "rank": 21,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 262613,
+      "num": 102531,
+      "word": "游客自驾驶入罗布泊被困弃车徒步返回",
+      "onboard_time": 1728165552,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 253289,
@@ -179,14 +187,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 218998,
-      "num": 67602,
-      "word": "游客自驾驶入罗布泊被困弃车徒步返回",
-      "onboard_time": 1728165552,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 204724,
       "num": 194218,
       "word": "情侣连续两次偷渡妄想去境外淘金",
@@ -211,12 +211,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 188529,
+      "num": 97322,
+      "word": "甲状腺生病5个早期征兆",
+      "onboard_time": 1728170354,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 181988,
       "num": 181988,
       "word": "高瀚宇讲价 贫穷战胜了羞耻心",
       "onboard_time": 1728137300,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 168576,
+      "num": 99993,
+      "word": "肖战歌曲预热",
+      "onboard_time": 1728171014,
+      "rank": 16,
+      "category": "音乐"
     },
     {
       "raw_hot": 164472,
@@ -267,12 +283,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 127492,
-      "num": 67313,
-      "word": "甲状腺生病5个早期征兆",
-      "onboard_time": 1728170354,
-      "rank": 20,
-      "category": "健康医疗"
+      "raw_hot": 122050,
+      "num": 97283,
+      "word": "准女婿到女友家干活一干一个不吱声",
+      "onboard_time": 1728169994,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 114701,
@@ -356,7 +372,7 @@
     },
     {
       "raw_hot": 99802,
-      "num": 67188,
+      "num": 86362,
       "word": "大量民众从黎巴嫩进入叙利亚避难",
       "onboard_time": 1728157512,
       "rank": 22,
@@ -369,6 +385,14 @@
       "onboard_time": 1728131240,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 97980,
+      "num": 69373,
+      "word": "柳智敏遭偷拍生气变脸",
+      "onboard_time": 1728170835,
+      "rank": 30,
+      "category": "演出"
     },
     {
       "raw_hot": 97972,
@@ -401,6 +425,14 @@
       "onboard_time": 1728144019,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 90015,
+      "num": 90015,
+      "word": "这回景德镇受气瓶真受气了",
+      "onboard_time": 1728125059,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 84540,
@@ -459,20 +491,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 70047,
-      "num": 67074,
-      "word": "准女婿到女友家干活一干一个不吱声",
-      "onboard_time": 1728169994,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 67057,
-      "num": 67057,
-      "word": "这回景德镇受气瓶真受气了",
-      "onboard_time": 1728125059,
-      "rank": 27,
-      "category": "社会新闻"
+      "raw_hot": 72360,
+      "num": 72360,
+      "word": "王楚钦说我们下个赛场见",
+      "onboard_time": 1728170414,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 66764,
@@ -491,6 +515,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 60379,
+      "num": 60379,
+      "word": "这些粗粮实际是伪粗粮",
+      "onboard_time": 1728170174,
+      "rank": 33,
+      "category": "健康医疗,美食"
+    },
+    {
+      "raw_hot": 58522,
+      "num": 58522,
+      "word": "你嗜睡的锅地磁暴可不背",
+      "onboard_time": 1728159370,
+      "rank": 48,
+      "category": "科学科普,健康医疗"
+    },
+    {
       "raw_hot": 58135,
       "num": 75103,
       "word": "LNG晋级S14八强",
@@ -499,12 +539,36 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 52460,
+      "raw_hot": 57941,
       "num": 74961,
       "word": "S14瑞士轮",
       "onboard_time": 1728140180,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 57581,
+      "num": 57581,
+      "word": "伯远 EXO的e不发音",
+      "onboard_time": 1728170774,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 55658,
+      "num": 55658,
+      "word": "哀牢山本地人称进山要怀敬畏之心",
+      "onboard_time": 1728137420,
+      "rank": 42,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 55087,
+      "num": 55087,
+      "word": "郑钦文巨大商业潜力逐渐展现",
+      "onboard_time": 1728170414,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 50869,
@@ -523,28 +587,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 49145,
-      "num": 49145,
-      "word": "这些粗粮实际是伪粗粮",
-      "onboard_time": 1728170174,
-      "rank": 33,
-      "category": "健康医疗,美食"
-    },
-    {
       "raw_hot": 48956,
       "num": 48956,
       "word": "崔杋圭唱了永不失联的爱",
       "onboard_time": 1728149055,
       "rank": 42,
       "category": "电影"
-    },
-    {
-      "raw_hot": 47999,
-      "num": 47999,
-      "word": "哀牢山本地人称进山要怀敬畏之心",
-      "onboard_time": 1728137420,
-      "rank": 42,
-      "category": "旅游"
     },
     {
       "raw_hot": 47768,
@@ -555,6 +603,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 46916,
+      "num": 46916,
+      "word": "郑钦文距第7纳瓦罗98分",
+      "onboard_time": 1728170955,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 44986,
+      "num": 104053,
+      "word": "欧盟要加的不是关税而是战略自主",
+      "onboard_time": 1728170234,
+      "rank": 19,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 44823,
       "num": 44823,
       "word": "马龙为秦志戬送上生日祝福",
@@ -563,36 +627,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 43902,
-      "num": 43902,
-      "word": "你嗜睡的锅地磁暴可不背",
-      "onboard_time": 1728159370,
+      "raw_hot": 43068,
+      "num": 43068,
+      "word": "尔滨又来整活儿了",
+      "onboard_time": 1728170955,
       "rank": 48,
-      "category": "科学科普,健康医疗"
-    },
-    {
-      "raw_hot": 40125,
-      "num": 41299,
-      "word": "王楚钦说我们下个赛场见",
-      "onboard_time": 1728170414,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 39279,
-      "num": 67358,
-      "word": "欧盟要加的不是关税而是战略自主",
-      "onboard_time": 1728170234,
-      "rank": 19,
-      "category": "国外时政"
-    },
-    {
-      "raw_hot": 37778,
-      "num": 41294,
-      "word": "郑钦文巨大商业潜力逐渐展现",
-      "onboard_time": 1728170414,
-      "rank": 46,
-      "category": "体育"
+      "category": "旅游"
     },
     {
       "raw_hot": 35340,
@@ -659,7 +699,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2764,
+      "raw_hot": 3506,
       "num": 286629,
       "word": "日记里的中国",
       "onboard_time": 1728036080,
