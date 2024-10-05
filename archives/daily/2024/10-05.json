@@ -1,6 +1,6 @@
 {
   "startTime": 1728059303809,
-  "endTime": 1728103262549,
+  "endTime": 1728105646448,
   "band_list": [
     {
       "raw_hot": 2341065,
@@ -67,8 +67,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 828403,
+      "num": 304561,
+      "word": "小伙工地干活一年换一部手机",
+      "onboard_time": 1728102198,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 810094,
-      "num": 241584,
+      "num": 296063,
       "word": "老公被隐形家务整崩溃想离家出走",
       "onboard_time": 1728091278,
       "rank": 20,
@@ -115,6 +123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 666067,
+      "num": 296136,
+      "word": "许嵩 医美我确实还没体验过",
+      "onboard_time": 1728103578,
+      "rank": 11,
+      "category": "演出"
+    },
+    {
       "raw_hot": 662753,
       "num": 290412,
       "word": "机场回应多名大妈在休息厅开音响跳舞",
@@ -137,6 +153,14 @@
       "onboard_time": 1728100219,
       "rank": 5,
       "category": "电影"
+    },
+    {
+      "raw_hot": 615153,
+      "num": 296125,
+      "word": "Jasper中文名陈昊廷",
+      "onboard_time": 1728103216,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 592753,
@@ -177,6 +201,14 @@
       "onboard_time": 1728096977,
       "rank": 39,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 426340,
+      "num": 296103,
+      "word": "刘亦菲谈不进组的原因",
+      "onboard_time": 1728103518,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 415680,
@@ -251,11 +283,11 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 304561,
-      "num": 304561,
-      "word": "小伙工地干活一年换一部手机",
-      "onboard_time": 1728102198,
-      "rank": 34,
+      "raw_hot": 296059,
+      "num": 296059,
+      "word": "撑死的胖锦鲤并没有被保安带回家",
+      "onboard_time": 1728103338,
+      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -273,6 +305,14 @@
       "onboard_time": 1728057018,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 274009,
+      "num": 274009,
+      "word": "安妮海瑟薇回归公主日记3",
+      "onboard_time": 1728102797,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 272284,
@@ -315,6 +355,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 263054,
+      "num": 263054,
+      "word": "杨鸣 克里斯",
+      "onboard_time": 1728104358,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 260168,
       "num": 260168,
       "word": "文韬cos江直树",
@@ -355,14 +403,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 242459,
-      "num": 155913,
-      "word": "安妮海瑟薇回归公主日记3",
-      "onboard_time": 1728102797,
-      "rank": 30,
-      "category": "电影"
-    },
-    {
       "raw_hot": 241900,
       "num": 241900,
       "word": "第五人格黯",
@@ -387,14 +427,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 208192,
-      "num": 154690,
-      "word": "Jasper中文名陈昊廷",
-      "onboard_time": 1728103216,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 207853,
       "num": 207853,
       "word": "中国UP",
@@ -409,6 +441,22 @@
       "onboard_time": 1728080352,
       "rank": 34,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 199966,
+      "num": 199966,
+      "word": "工地小伙买万元三星手机充电时冒烟",
+      "onboard_time": 1728104418,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 197824,
+      "num": 197824,
+      "word": "医院回应幼童游乐场溺水沉底",
+      "onboard_time": 1728102618,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 191647,
@@ -465,6 +513,14 @@
       "onboard_time": 1728088399,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 176430,
+      "num": 176430,
+      "word": "美英联军对也门发动12次空袭",
+      "onboard_time": 1728104298,
+      "rank": 34,
+      "category": "国外时政"
     },
     {
       "raw_hot": 173175,
@@ -547,6 +603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 161570,
+      "num": 161570,
+      "word": "对视是人类的精神接吻",
+      "onboard_time": 1728103160,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 161537,
       "num": 215619,
       "word": "这两天的笑点是向佐给的",
@@ -601,6 +665,14 @@
       "onboard_time": 1728089298,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 153606,
+      "num": 296089,
+      "word": "付航吃法餐",
+      "onboard_time": 1728104718,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 153289,
@@ -755,12 +827,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 125290,
-      "num": 125290,
-      "word": "医院回应幼童游乐场溺水沉底",
-      "onboard_time": 1728102618,
-      "rank": 41,
-      "category": "社会新闻"
+      "raw_hot": 126421,
+      "num": 126421,
+      "word": "布朗尼大帽对手",
+      "onboard_time": 1728102078,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 125154,
@@ -784,6 +856,14 @@
       "word": "33岁中国男子涉嫌用热咖啡泼伤婴儿后出逃",
       "onboard_time": 1728041059,
       "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 122265,
+      "num": 122265,
+      "word": "年轻人疯抢的翡翠都是破烂边角料",
+      "onboard_time": 1728105258,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -827,12 +907,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 119124,
-      "num": 119124,
-      "word": "布朗尼大帽对手",
-      "onboard_time": 1728102078,
+      "raw_hot": 119881,
+      "num": 296069,
+      "word": "假期余额只剩3天",
+      "onboard_time": 1728104118,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 119642,
+      "num": 119642,
+      "word": "何广智神仙导游",
+      "onboard_time": 1728105258,
       "rank": 46,
-      "category": "体育"
+      "category": "综艺"
     },
     {
       "raw_hot": 117426,
@@ -849,6 +937,22 @@
       "onboard_time": 1728049340,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 115410,
+      "num": 296110,
+      "word": "林高远林诗栋vs王楚钦梁靖崑",
+      "onboard_time": 1728104598,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 114662,
+      "num": 114662,
+      "word": "太湖湾音乐节",
+      "onboard_time": 1728103998,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 114082,
@@ -905,14 +1009,6 @@
       "onboard_time": 1728098538,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 110114,
-      "num": 110114,
-      "word": "对视是人类的精神接吻",
-      "onboard_time": 1728103160,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 109900,
@@ -1003,12 +1099,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 97996,
+      "num": 296155,
+      "word": "浴火之路二刷",
+      "onboard_time": 1728105018,
+      "rank": 8,
+      "category": "电影"
+    },
+    {
       "raw_hot": 97808,
       "num": 97808,
       "word": "天刀光夜破次元同框",
       "onboard_time": 1728095419,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 96586,
+      "num": 266993,
+      "word": "河南5A级景区1元午餐游客狂赞",
+      "onboard_time": 1728104839,
+      "rank": 24,
+      "category": "旅游"
     },
     {
       "raw_hot": 96241,
@@ -1291,12 +1403,28 @@
       "category": "游戏,互联网"
     },
     {
+      "raw_hot": 54243,
+      "num": 296075,
+      "word": "Jasper英文介绍上海",
+      "onboard_time": 1728105379,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 52115,
       "num": 188132,
       "word": "下一战歌手",
       "onboard_time": 1728045920,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 51403,
+      "num": 147043,
+      "word": "志愿军战士用小家分离换来万家团圆",
+      "onboard_time": 1728104118,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 50702,
@@ -1417,6 +1545,14 @@
       "onboard_time": 1728062954,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 39103,
+      "num": 745219,
+      "word": "数据看国庆假期活力图景",
+      "onboard_time": 1728105139,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 39077,
@@ -1593,11 +1729,22 @@
       "onboard_time": 1728102739,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 8285,
+      "num": 296148,
+      "word": "我国空间科学卫星从无到有闪耀太空",
+      "onboard_time": 1728105499,
+      "rank": 9,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
     {
       "word": "#必须坚持人民至上#"
+    },
+    {
+      "word": "#新时代的中国活力满满热气腾腾#"
     }
   ]
 }

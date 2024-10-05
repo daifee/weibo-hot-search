@@ -1,0 +1,410 @@
+{
+  "runTime": 1728105646448,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1722489,
+        "num": 1722489,
+        "word": "得知我是中国人对方撤回了请立即离开",
+        "onboard_time": 1728098239,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1329556,
+        "num": 1329556,
+        "word": "哀牢山堵车",
+        "onboard_time": 1728100038,
+        "rank": 1,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 39103,
+        "num": 745219,
+        "word": "数据看国庆假期活力图景",
+        "onboard_time": 1728105139,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 622577,
+        "num": 622577,
+        "word": "哀牢山存在大地磁场强度异常的现象",
+        "onboard_time": 1728089658,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 528637,
+        "num": 528637,
+        "word": "你好星期六全员cos经典男主角",
+        "onboard_time": 1728096258,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 391968,
+        "num": 391968,
+        "word": "公主日记3",
+        "onboard_time": 1728100219,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 358573,
+        "num": 358573,
+        "word": "未来3天可能发生强地磁活动",
+        "onboard_time": 1728083834,
+        "rank": 6,
+        "category": "社会新闻,国内时政"
+      },
+      {
+        "raw_hot": 296160,
+        "num": 296160,
+        "word": "以后中国强大了一定要来看我",
+        "onboard_time": 1728096977,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 97996,
+        "num": 296155,
+        "word": "浴火之路二刷",
+        "onboard_time": 1728105018,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 8285,
+        "num": 296148,
+        "word": "我国空间科学卫星从无到有闪耀太空",
+        "onboard_time": 1728105499,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 828403,
+        "num": 296145,
+        "word": "小伙工地干活一年换一部手机",
+        "onboard_time": 1728102198,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 666067,
+        "num": 296136,
+        "word": "许嵩 医美我确实还没体验过",
+        "onboard_time": 1728103578,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 615153,
+        "num": 296125,
+        "word": "Jasper中文名陈昊廷",
+        "onboard_time": 1728103216,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 266073,
+        "num": 296124,
+        "word": "哀牢山",
+        "onboard_time": 1728091638,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115410,
+        "num": 296110,
+        "word": "林高远林诗栋vs王楚钦梁靖崑",
+        "onboard_time": 1728104598,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 426340,
+        "num": 296103,
+        "word": "刘亦菲谈不进组的原因",
+        "onboard_time": 1728103518,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 425704,
+        "num": 296103,
+        "word": "郑钦文头号劲敌爆冷淘汰",
+        "onboard_time": 1728098899,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153606,
+        "num": 296089,
+        "word": "付航吃法餐",
+        "onboard_time": 1728104718,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 396791,
+        "num": 296082,
+        "word": "黎巴嫩9岁女孩腿被炸断",
+        "onboard_time": 1728098118,
+        "rank": 18,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 54243,
+        "num": 296075,
+        "word": "Jasper英文介绍上海",
+        "onboard_time": 1728105379,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119881,
+        "num": 296069,
+        "word": "假期余额只剩3天",
+        "onboard_time": 1728104118,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 347403,
+        "num": 296063,
+        "word": "老公被隐形家务整崩溃想离家出走",
+        "onboard_time": 1728091278,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 296059,
+        "num": 296059,
+        "word": "撑死的胖锦鲤并没有被保安带回家",
+        "onboard_time": 1728103338,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274009,
+        "num": 274009,
+        "word": "安妮海瑟薇回归公主日记3",
+        "onboard_time": 1728102797,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 96586,
+        "num": 266993,
+        "word": "河南5A级景区1元午餐游客狂赞",
+        "onboard_time": 1728104839,
+        "rank": 24,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 175598,
+        "num": 264466,
+        "word": "国庆假期第5天",
+        "onboard_time": 1728086236,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 263054,
+        "num": 263054,
+        "word": "杨鸣 克里斯",
+        "onboard_time": 1728104358,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 251061,
+        "num": 251061,
+        "word": "BIGBANG完整体出演MAMA",
+        "onboard_time": 1728098958,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 204256,
+        "num": 204256,
+        "word": "文韬cos江直树",
+        "onboard_time": 1728100939,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203242,
+        "num": 203242,
+        "word": "任嘉伦 三折叠怎么折都be",
+        "onboard_time": 1728089357,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 199966,
+        "num": 199966,
+        "word": "工地小伙买万元三星手机充电时冒烟",
+        "onboard_time": 1728104418,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197824,
+        "num": 197824,
+        "word": "医院回应幼童游乐场溺水沉底",
+        "onboard_time": 1728102618,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181103,
+        "num": 181103,
+        "word": "35岁再考清华当事人将再考",
+        "onboard_time": 1728094697,
+        "rank": 32,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 129134,
+        "num": 177921,
+        "word": "他们坚定前行是为守护身后万千笑脸",
+        "onboard_time": 1728102918,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 176430,
+        "num": 176430,
+        "word": "美英联军对也门发动12次空袭",
+        "onboard_time": 1728104298,
+        "rank": 34,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 161570,
+        "num": 161570,
+        "word": "对视是人类的精神接吻",
+        "onboard_time": 1728103160,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149336,
+        "num": 149336,
+        "word": "成毅 伯希和",
+        "onboard_time": 1728095539,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 51403,
+        "num": 147043,
+        "word": "志愿军战士用小家分离换来万家团圆",
+        "onboard_time": 1728104118,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 146726,
+        "num": 146726,
+        "word": "又一条高铁要来了",
+        "onboard_time": 1728090257,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137177,
+        "num": 137177,
+        "word": "孙颖莎今天两场比赛",
+        "onboard_time": 1728101778,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136465,
+        "num": 136465,
+        "word": "凤凰传奇抢票",
+        "onboard_time": 1728102678,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 129240,
+        "num": 129240,
+        "word": "J人男友为出国女友写37页PPT攻略",
+        "onboard_time": 1728101358,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126421,
+        "num": 126421,
+        "word": "布朗尼大帽对手",
+        "onboard_time": 1728102078,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125615,
+        "num": 125615,
+        "word": "男子高速上开启自动驾驶撞上水马",
+        "onboard_time": 1728092778,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122265,
+        "num": 122265,
+        "word": "年轻人疯抢的翡翠都是破烂边角料",
+        "onboard_time": 1728105258,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119916,
+        "num": 119916,
+        "word": "国庆第一批宅家旅游者出现了",
+        "onboard_time": 1728095658,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119642,
+        "num": 119642,
+        "word": "何广智神仙导游",
+        "onboard_time": 1728105258,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114662,
+        "num": 114662,
+        "word": "太湖湾音乐节",
+        "onboard_time": 1728103998,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 108772,
+        "num": 108772,
+        "word": "国庆假期趵突泉鱼被撑死了",
+        "onboard_time": 1728089597,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103884,
+        "num": 108573,
+        "word": "锦绣安宁OST阵容",
+        "onboard_time": 1728101118,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#新时代的中国活力满满热气腾腾#"
+    }
+  }
+}
