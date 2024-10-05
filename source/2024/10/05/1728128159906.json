@@ -1,0 +1,410 @@
+{
+  "runTime": 1728128159906,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2007886,
+        "num": 2007886,
+        "word": "郑钦文摔倒",
+        "onboard_time": 1728125118,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1103009,
+        "num": 1103009,
+        "word": "郑钦文哭了",
+        "onboard_time": 1728126499,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 6845,
+        "num": 741961,
+        "word": "国庆文旅弘扬国韵花式翻新",
+        "onboard_time": 1728117799,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 683695,
+        "num": 683695,
+        "word": "郑钦文vs穆霍娃",
+        "onboard_time": 1728102739,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 622645,
+        "num": 622645,
+        "word": "哀牢山景区发布安全警示",
+        "onboard_time": 1728120618,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 575116,
+        "num": 575116,
+        "word": "92岁抗美援朝女兵实弹打靶10发97环",
+        "onboard_time": 1728125059,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156450,
+        "num": 547677,
+        "word": "你好星期六",
+        "onboard_time": 1728127459,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 528661,
+        "num": 528661,
+        "word": "马龙vs梁靖崑",
+        "onboard_time": 1728124880,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 163056,
+        "num": 518832,
+        "word": "海底打捞出的罐子惊艳了",
+        "onboard_time": 1728127159,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 86097,
+        "num": 506928,
+        "word": "志愿军人人有高光",
+        "onboard_time": 1728127399,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 965934,
+        "num": 479209,
+        "word": "哀牢山晚上会释放大量二氧化碳",
+        "onboard_time": 1728119658,
+        "rank": 10,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 693115,
+        "num": 476088,
+        "word": "谁把陈好眼睛的灯关了",
+        "onboard_time": 1728121458,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 657872,
+        "num": 458035,
+        "word": "林诗栋vs向鹏",
+        "onboard_time": 1728124880,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 441336,
+        "num": 441336,
+        "word": "脱口秀演员调侃王楚钦遭辞退",
+        "onboard_time": 1728113360,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 408571,
+        "num": 408571,
+        "word": "林诗栋4比2向鹏",
+        "onboard_time": 1728126799,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 396142,
+        "num": 396142,
+        "word": "伊拉克小伙刚来中国听到喇叭都害怕",
+        "onboard_time": 1728123379,
+        "rank": 15,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 384714,
+        "num": 384714,
+        "word": "王楚钦再次回应单打失利",
+        "onboard_time": 1728119240,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 375264,
+        "num": 375264,
+        "word": "爱奇艺会员暂停后播放全屏广告",
+        "onboard_time": 1728114380,
+        "rank": 17,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 325076,
+        "num": 367026,
+        "word": "没认出来张大大",
+        "onboard_time": 1728123858,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 296535,
+        "num": 362711,
+        "word": "檀健次南京演唱会",
+        "onboard_time": 1728126199,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 360160,
+        "num": 360160,
+        "word": "商场回应男厕玻璃磨砂女厕透明",
+        "onboard_time": 1728120739,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 335350,
+        "num": 335350,
+        "word": "哀牢山堵车",
+        "onboard_time": 1728100038,
+        "rank": 21,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 325679,
+        "num": 325679,
+        "word": "50岁孕妇4次试管顺利生下龙凤胎",
+        "onboard_time": 1728125059,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250798,
+        "num": 250798,
+        "word": "无畏狼队首秀",
+        "onboard_time": 1728126979,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 212048,
+        "num": 212048,
+        "word": "赵露思录卸妆视频",
+        "onboard_time": 1728121280,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209427,
+        "num": 209427,
+        "word": "得知我是中国人对方撤回了请立即离开",
+        "onboard_time": 1728098239,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197837,
+        "num": 197837,
+        "word": "这回景德镇受气瓶真受气了",
+        "onboard_time": 1728125059,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176795,
+        "num": 176795,
+        "word": "林诗栋中国大满贯进决赛",
+        "onboard_time": 1728127159,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 174412,
+        "num": 174412,
+        "word": "高铁无休纯学9小时好小众的词",
+        "onboard_time": 1728120439,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 174106,
+        "num": 174106,
+        "word": "假期返程大军已上路",
+        "onboard_time": 1728124638,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169797,
+        "num": 169797,
+        "word": "小雪 张百乔你离我丽颖远点",
+        "onboard_time": 1728116720,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 167847,
+        "num": 167847,
+        "word": "郑钦文医疗暂停",
+        "onboard_time": 1728125480,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153283,
+        "num": 153283,
+        "word": "刘亦菲谈不进组的原因",
+        "onboard_time": 1728103518,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149430,
+        "num": 149430,
+        "word": "杨超越自爆喜欢单眼皮骨相帅哥",
+        "onboard_time": 1728120680,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142131,
+        "num": 142131,
+        "word": "姜妍虞书欣友情",
+        "onboard_time": 1728124999,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140466,
+        "num": 140466,
+        "word": "77岁老人成为武汉最特别的游客",
+        "onboard_time": 1728121040,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137304,
+        "num": 137304,
+        "word": "月薪18000住家保姆的一天",
+        "onboard_time": 1728108139,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 131642,
+        "num": 131642,
+        "word": "王楚钦说目前的状态对不起自己",
+        "onboard_time": 1728120559,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 68176,
+        "num": 130351,
+        "word": "非遗火壶太惊艳了",
+        "onboard_time": 1728127040,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130084,
+        "num": 130084,
+        "word": "斗破苍穹",
+        "onboard_time": 1728125839,
+        "rank": 39,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 119108,
+        "num": 119108,
+        "word": "老狼为郑钦文挑边",
+        "onboard_time": 1728124159,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117202,
+        "num": 117202,
+        "word": "任嘉伦 be赛道",
+        "onboard_time": 1728127941,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113829,
+        "num": 113829,
+        "word": "戚薇李承铉电竞文男女主照进现实",
+        "onboard_time": 1728125418,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110199,
+        "num": 110199,
+        "word": "郑钦文带伤憾失首盘",
+        "onboard_time": 1728127040,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 92105,
+        "num": 109218,
+        "word": "流水迢迢 全员be",
+        "onboard_time": 1728126740,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20977,
+        "num": 108741,
+        "word": "被青绿配色文物硬控了",
+        "onboard_time": 1728118281,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108514,
+        "num": 108514,
+        "word": "林诗栋向鹏比赛太精彩了",
+        "onboard_time": 1728126680,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108324,
+        "num": 108324,
+        "word": "哀牢山地理环境极为复杂",
+        "onboard_time": 1728117980,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107233,
+        "num": 107233,
+        "word": "郑钦文摔倒时眼睛还盯着球",
+        "onboard_time": 1728126620,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 94369,
+        "num": 106846,
+        "word": "胡一天手绘8个emoji告别中餐厅",
+        "onboard_time": 1728127339,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#新时代的中国活力满满热气腾腾#"
+    }
+  }
+}

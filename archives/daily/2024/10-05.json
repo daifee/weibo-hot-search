@@ -1,6 +1,6 @@
 {
   "startTime": 1728059303809,
-  "endTime": 1728127133238,
+  "endTime": 1728128159906,
   "band_list": [
     {
       "raw_hot": 2363617,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 1519935,
-      "num": 328199,
+      "num": 375264,
       "word": "爱奇艺会员暂停后播放全屏广告",
       "onboard_time": 1728114380,
       "rank": 10,
@@ -91,8 +91,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1103009,
+      "num": 1103009,
+      "word": "郑钦文哭了",
+      "onboard_time": 1728126499,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1093474,
-      "num": 423638,
+      "num": 479209,
       "word": "哀牢山晚上会释放大量二氧化碳",
       "onboard_time": 1728119658,
       "rank": 30,
@@ -140,7 +148,7 @@
     },
     {
       "raw_hot": 906341,
-      "num": 327412,
+      "num": 441336,
       "word": "脱口秀演员调侃王楚钦遭辞退",
       "onboard_time": 1728113360,
       "rank": 15,
@@ -180,7 +188,7 @@
     },
     {
       "raw_hot": 783506,
-      "num": 263694,
+      "num": 360160,
       "word": "商场回应男厕玻璃磨砂女厕透明",
       "onboard_time": 1728120739,
       "rank": 27,
@@ -188,7 +196,7 @@
     },
     {
       "raw_hot": 778337,
-      "num": 274409,
+      "num": 476088,
       "word": "谁把陈好眼睛的灯关了",
       "onboard_time": 1728121458,
       "rank": 21,
@@ -224,6 +232,14 @@
       "word": "郑钦文头号劲敌爆冷淘汰",
       "onboard_time": 1728098899,
       "rank": 25,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 683695,
+      "num": 683695,
+      "word": "郑钦文vs穆霍娃",
+      "onboard_time": 1728102739,
+      "rank": 9,
       "category": "体育"
     },
     {
@@ -268,7 +284,7 @@
     },
     {
       "raw_hot": 647790,
-      "num": 272853,
+      "num": 384714,
       "word": "王楚钦再次回应单打失利",
       "onboard_time": 1728119240,
       "rank": 25,
@@ -297,14 +313,6 @@
       "onboard_time": 1728107719,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 629155,
-      "num": 629155,
-      "word": "郑钦文vs穆霍娃",
-      "onboard_time": 1728102739,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 615153,
@@ -337,6 +345,14 @@
       "onboard_time": 1728112280,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 575116,
+      "num": 575116,
+      "word": "92岁抗美援朝女兵实弹打靶10发97环",
+      "onboard_time": 1728125059,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 559020,
@@ -377,6 +393,14 @@
       "onboard_time": 1728123379,
       "rank": 14,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 528661,
+      "num": 528661,
+      "word": "马龙vs梁靖崑",
+      "onboard_time": 1728124880,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 492702,
@@ -435,6 +459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 408571,
+      "num": 408571,
+      "word": "林诗栋4比2向鹏",
+      "onboard_time": 1728126799,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 392844,
       "num": 358285,
       "word": "BIGBANG完整体出演MAMA",
@@ -448,14 +480,6 @@
       "word": "郑钦文打心底把张雨霏当朋友",
       "onboard_time": 1728054379,
       "rank": 12,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 377711,
-      "num": 267358,
-      "word": "马龙vs梁靖崑",
-      "onboard_time": 1728124880,
-      "rank": 17,
       "category": "体育"
     },
     {
@@ -547,6 +571,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 325679,
+      "num": 325679,
+      "word": "50岁孕妇4次试管顺利生下龙凤胎",
+      "onboard_time": 1728125059,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 325076,
+      "num": 367026,
+      "word": "没认出来张大大",
+      "onboard_time": 1728123858,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 320847,
       "num": 296059,
       "word": "撑死的胖锦鲤并没有被保安带回家",
@@ -571,12 +611,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 313873,
-      "num": 313873,
-      "word": "92岁抗美援朝女兵实弹打靶10发97环",
-      "onboard_time": 1728125059,
-      "rank": 6,
-      "category": "社会新闻"
+      "raw_hot": 296535,
+      "num": 362711,
+      "word": "檀健次南京演唱会",
+      "onboard_time": 1728126199,
+      "rank": 18,
+      "category": "演出"
     },
     {
       "raw_hot": 294476,
@@ -593,22 +633,6 @@
       "onboard_time": 1728109699,
       "rank": 29,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 289604,
-      "num": 289604,
-      "word": "林诗栋4比2向鹏",
-      "onboard_time": 1728126799,
-      "rank": 8,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 287771,
-      "num": 266416,
-      "word": "檀健次南京演唱会",
-      "onboard_time": 1728126199,
-      "rank": 18,
-      "category": "演出"
     },
     {
       "raw_hot": 286643,
@@ -691,14 +715,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 261697,
-      "num": 261697,
-      "word": "50岁孕妇4次试管顺利生下龙凤胎",
-      "onboard_time": 1728125059,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 261504,
       "num": 199616,
       "word": "王楚钦神救球",
@@ -729,6 +745,14 @@
       "onboard_time": 1728059057,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 250798,
+      "num": 250798,
+      "word": "无畏狼队首秀",
+      "onboard_time": 1728126979,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 250109,
@@ -979,14 +1003,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 183535,
-      "num": 183535,
-      "word": "郑钦文哭了",
-      "onboard_time": 1728126499,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 181898,
       "num": 276394,
       "word": "钱塘江同志连续五年立大功",
@@ -1001,14 +1017,6 @@
       "onboard_time": 1728088399,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 180228,
-      "num": 180228,
-      "word": "没认出来张大大",
-      "onboard_time": 1728123858,
-      "rank": 32,
-      "category": "演出"
     },
     {
       "raw_hot": 179209,
@@ -1033,6 +1041,14 @@
       "onboard_time": 1728105858,
       "rank": 18,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 176795,
+      "num": 176795,
+      "word": "林诗栋中国大满贯进决赛",
+      "onboard_time": 1728127159,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 176430,
@@ -1227,6 +1243,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 163056,
+      "num": 518832,
+      "word": "海底打捞出的罐子惊艳了",
+      "onboard_time": 1728127159,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 162829,
       "num": 162829,
       "word": "假期最后3天怎么过",
@@ -1273,6 +1297,14 @@
       "onboard_time": 1728098899,
       "rank": 27,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 156450,
+      "num": 547677,
+      "word": "你好星期六",
+      "onboard_time": 1728127459,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 155263,
@@ -1353,14 +1385,6 @@
       "onboard_time": 1728119480,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 147751,
-      "num": 147751,
-      "word": "无畏狼队首秀",
-      "onboard_time": 1728126979,
-      "rank": 39,
-      "category": "电竞"
     },
     {
       "raw_hot": 147742,
@@ -1803,6 +1827,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 117202,
+      "num": 117202,
+      "word": "任嘉伦 be赛道",
+      "onboard_time": 1728127941,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 115920,
       "num": 115920,
       "word": "白鹿一天配六场哭戏",
@@ -1921,6 +1953,14 @@
       "onboard_time": 1728098538,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 110199,
+      "num": 264292,
+      "word": "郑钦文带伤憾失首盘",
+      "onboard_time": 1728127040,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 110028,
@@ -2163,6 +2203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 94369,
+      "num": 106846,
+      "word": "胡一天手绘8个emoji告别中餐厅",
+      "onboard_time": 1728127339,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 94111,
       "num": 94111,
       "word": "2024年羽毛球世青赛",
@@ -2233,6 +2281,14 @@
       "onboard_time": 1728090617,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 86097,
+      "num": 506928,
+      "word": "志愿军人人有高光",
+      "onboard_time": 1728127399,
+      "rank": 9,
+      "category": "电影"
     },
     {
       "raw_hot": 86041,
@@ -2371,6 +2427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 68176,
+      "num": 244178,
+      "word": "非遗火壶太惊艳了",
+      "onboard_time": 1728127040,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 65318,
       "num": 65318,
       "word": "侯明昊卢昱晓吻戏路透",
@@ -2401,14 +2465,6 @@
       "onboard_time": 1728046581,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 62110,
-      "num": 244178,
-      "word": "非遗火壶太惊艳了",
-      "onboard_time": 1728127040,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 61982,
@@ -2689,14 +2745,6 @@
       "onboard_time": 1728105499,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 31842,
-      "num": 264292,
-      "word": "郑钦文带伤憾失首盘",
-      "onboard_time": 1728127040,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 30700,
