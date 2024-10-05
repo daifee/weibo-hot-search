@@ -1,6 +1,6 @@
 {
   "startTime": 1728145573126,
-  "endTime": 1728160536815,
+  "endTime": 1728163230644,
   "band_list": [
     {
       "raw_hot": 1023363,
@@ -435,6 +435,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 69800,
+      "num": 36506,
+      "word": "大量民众从黎巴嫩进入叙利亚避难",
+      "onboard_time": 1728157512,
+      "rank": 22,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 66764,
       "num": 66764,
       "word": "檀健次南京演唱会",
@@ -499,12 +507,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 35918,
-      "num": 36506,
-      "word": "大量民众从黎巴嫩进入叙利亚避难",
-      "onboard_time": 1728157512,
-      "rank": 22,
-      "category": "国外时政"
+      "raw_hot": 31648,
+      "num": 36120,
+      "word": "你嗜睡的锅地磁暴可不背",
+      "onboard_time": 1728159370,
+      "rank": 48,
+      "category": "科学科普,健康医疗"
     },
     {
       "raw_hot": 28244,
@@ -531,20 +539,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 17841,
-      "num": 36120,
-      "word": "你嗜睡的锅地磁暴可不背",
-      "onboard_time": 1728159370,
-      "rank": 48,
-      "category": "科学科普,健康医疗"
-    },
-    {
       "raw_hot": 10734,
       "num": 252624,
       "word": "一首MV见证新中国75年变迁",
       "onboard_time": 1728144738,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 9808,
+      "num": 19735,
+      "word": "张杰微博音乐盛典Vlog",
+      "onboard_time": 1728159132,
+      "rank": 47,
+      "category": "音乐"
     },
     {
       "raw_hot": 7404,
