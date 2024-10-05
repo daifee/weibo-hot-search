@@ -1,6 +1,6 @@
 {
   "startTime": 1728059303809,
-  "endTime": 1728141728693,
+  "endTime": 1728142570123,
   "band_list": [
     {
       "raw_hot": 2363617,
@@ -59,6 +59,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1490667,
+      "num": 218704,
+      "word": "李雯雯送孙颖莎马里奥",
+      "onboard_time": 1728141080,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1447002,
       "num": 1447002,
       "word": "哀牢山存在大地磁场强度异常的现象",
@@ -112,14 +120,6 @@
       "word": "全红婵国宴",
       "onboard_time": 1728107719,
       "rank": 20,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 1252867,
-      "num": 218704,
-      "word": "李雯雯送孙颖莎马里奥",
-      "onboard_time": 1728141080,
-      "rank": 10,
       "category": "体育"
     },
     {
@@ -635,6 +635,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 403286,
+      "num": 199395,
+      "word": "立威廉一开口我的青春回来了",
+      "onboard_time": 1728139699,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 393976,
+      "num": 198336,
+      "word": "林诗栋坐王楚钦行李箱上看比赛",
+      "onboard_time": 1728141020,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 392844,
       "num": 358285,
       "word": "BIGBANG完整体出演MAMA",
@@ -744,14 +760,6 @@
       "word": "付航吃法餐",
       "onboard_time": 1728104718,
       "rank": 17,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 330448,
-      "num": 198830,
-      "word": "立威廉一开口我的青春回来了",
-      "onboard_time": 1728139699,
-      "rank": 20,
       "category": "综艺"
     },
     {
@@ -897,14 +905,6 @@
       "onboard_time": 1728128178,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 274442,
-      "num": 196778,
-      "word": "林诗栋坐王楚钦行李箱上看比赛",
-      "onboard_time": 1728141020,
-      "rank": 21,
-      "category": "体育"
     },
     {
       "raw_hot": 274009,
@@ -1259,6 +1259,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 196781,
+      "num": 196781,
+      "word": "华晨宇演唱会 香水喷泉",
+      "onboard_time": 1728141380,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
       "raw_hot": 196515,
       "num": 196515,
       "word": "77岁老人成为武汉最特别的游客",
@@ -1299,6 +1307,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 193078,
+      "num": 193078,
+      "word": "檀健次唱完干杯哭了",
+      "onboard_time": 1728141859,
+      "rank": 24,
+      "category": "演出"
+    },
+    {
       "raw_hot": 192634,
       "num": 192634,
       "word": "TFING训练记录片",
@@ -1321,6 +1337,14 @@
       "onboard_time": 1728085217,
       "rank": 36,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 189493,
+      "num": 189493,
+      "word": "陈楚生音乐节直拍",
+      "onboard_time": 1728141438,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 189003,
@@ -1360,6 +1384,14 @@
       "word": "石凯太湖湾音乐节",
       "onboard_time": 1728109459,
       "rank": 43,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 185564,
+      "num": 185564,
+      "word": "十个勤天巡演郑州站",
+      "onboard_time": 1728141680,
+      "rank": 46,
       "category": "演出"
     },
     {
@@ -1827,6 +1859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 145046,
+      "num": 145046,
+      "word": "749局是有点预言在的",
+      "onboard_time": 1728142038,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 144865,
       "num": 144865,
       "word": "郑钦文说摔倒是因为太累了",
@@ -1873,14 +1913,6 @@
       "onboard_time": 1728085335,
       "rank": 28,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 142220,
-      "num": 142220,
-      "word": "陈楚生音乐节直拍",
-      "onboard_time": 1728141438,
-      "rank": 34,
-      "category": "演出"
     },
     {
       "raw_hot": 141809,
@@ -1995,12 +2027,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 136062,
-      "num": 136062,
-      "word": "华晨宇演唱会 香水喷泉",
-      "onboard_time": 1728141380,
-      "rank": 36,
-      "category": "演出"
+      "raw_hot": 135888,
+      "num": 135888,
+      "word": "阿森纳vs南安普顿",
+      "onboard_time": 1728141859,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 135618,
@@ -2339,6 +2371,22 @@
       "category": "国内时政,军事"
     },
     {
+      "raw_hot": 118728,
+      "num": 118728,
+      "word": "石凯的话只骗到了唐九洲",
+      "onboard_time": 1728142217,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 117858,
+      "num": 117858,
+      "word": "流星花园重播",
+      "onboard_time": 1728142458,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 117426,
       "num": 117426,
       "word": "年轻人爱上非洲游",
@@ -2371,14 +2419,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 115897,
-      "num": 115897,
-      "word": "十个勤天巡演郑州站",
-      "onboard_time": 1728141680,
-      "rank": 46,
-      "category": "演出"
-    },
-    {
       "raw_hot": 115809,
       "num": 243817,
       "word": "蒯曼林诗栋混双冠军",
@@ -2401,6 +2441,14 @@
       "onboard_time": 1728132681,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 115151,
+      "num": 115151,
+      "word": "Weiwei回应DK二段笑",
+      "onboard_time": 1728141438,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 115076,
@@ -2448,6 +2496,14 @@
       "word": "赵丽颖的手差点没捂住张百乔的嘴",
       "onboard_time": 1728046220,
       "rank": 30,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 113716,
+      "num": 113716,
+      "word": "刘烨疑似失去所有力气和手段",
+      "onboard_time": 1728142339,
+      "rank": 47,
       "category": "电影"
     },
     {
@@ -2513,6 +2569,14 @@
       "onboard_time": 1728127040,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 110144,
+      "num": 110144,
+      "word": "一阳拥抱",
+      "onboard_time": 1728142517,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 110028,
@@ -2889,6 +2953,14 @@
       "onboard_time": 1728053060,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 84107,
+      "num": 201667,
+      "word": "被鸣沙山上的特殊升旗仪式感动了",
+      "onboard_time": 1728141020,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 83432,
@@ -3451,6 +3523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 26712,
+      "num": 210792,
+      "word": "港股年内涨幅登顶全球主要市场",
+      "onboard_time": 1728141139,
+      "rank": 14,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 26207,
       "num": 32221,
       "word": "5日和6日可赏拍这幕星月童话",
@@ -3561,14 +3641,6 @@
       "onboard_time": 1728065112,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 17768,
-      "num": 210792,
-      "word": "港股年内涨幅登顶全球主要市场",
-      "onboard_time": 1728141139,
-      "rank": 14,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 14777,

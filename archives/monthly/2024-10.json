@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1728141728693,
+  "endTime": 1728142570123,
   "band_list": [
     {
       "raw_hot": 11925969,
@@ -235,6 +235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1490667,
+      "num": 218704,
+      "word": "李雯雯送孙颖莎马里奥",
+      "onboard_time": 1728141080,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1449026,
       "num": 1449026,
       "word": "国庆一人一句祝福新中国",
@@ -384,14 +392,6 @@
       "word": "莫雷加德vs张本智和",
       "onboard_time": 1727931979,
       "rank": 0,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 1252867,
-      "num": 218704,
-      "word": "李雯雯送孙颖莎马里奥",
-      "onboard_time": 1728141080,
-      "rank": 10,
       "category": "体育"
     },
     {
@@ -2827,6 +2827,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 403286,
+      "num": 199395,
+      "word": "立威廉一开口我的青春回来了",
+      "onboard_time": 1728139699,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 401925,
       "num": 401925,
       "word": "孙颖莎说马龙儿子太可爱了",
@@ -2889,6 +2897,14 @@
       "onboard_time": 1727827276,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 393976,
+      "num": 198336,
+      "word": "林诗栋坐王楚钦行李箱上看比赛",
+      "onboard_time": 1728141020,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 392844,
@@ -3417,14 +3433,6 @@
       "onboard_time": 1727952199,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 330448,
-      "num": 198830,
-      "word": "立威廉一开口我的青春回来了",
-      "onboard_time": 1728139699,
-      "rank": 20,
-      "category": "综艺"
     },
     {
       "raw_hot": 330340,
@@ -4225,14 +4233,6 @@
       "onboard_time": 1727884278,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 274442,
-      "num": 196778,
-      "word": "林诗栋坐王楚钦行李箱上看比赛",
-      "onboard_time": 1728141020,
-      "rank": 21,
-      "category": "体育"
     },
     {
       "raw_hot": 274289,
@@ -6139,6 +6139,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 196781,
+      "num": 196781,
+      "word": "华晨宇演唱会 香水喷泉",
+      "onboard_time": 1728141380,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
       "raw_hot": 196622,
       "num": 215038,
       "word": "半熟男女 想给男生擦眼泪那是母爱",
@@ -6395,6 +6403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 193078,
+      "num": 193078,
+      "word": "檀健次唱完干杯哭了",
+      "onboard_time": 1728141859,
+      "rank": 24,
+      "category": "演出"
+    },
+    {
       "raw_hot": 193053,
       "num": 193053,
       "word": "以军空袭黎巴嫩首都已致5死",
@@ -6577,6 +6593,14 @@
       "onboard_time": 1727937918,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 189493,
+      "num": 189493,
+      "word": "陈楚生音乐节直拍",
+      "onboard_time": 1728141438,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 189445,
@@ -6769,6 +6793,14 @@
       "onboard_time": 1727958859,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 185564,
+      "num": 185564,
+      "word": "十个勤天巡演郑州站",
+      "onboard_time": 1728141680,
+      "rank": 46,
+      "category": "演出"
     },
     {
       "raw_hot": 185537,
@@ -8739,6 +8771,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 145046,
+      "num": 145046,
+      "word": "749局是有点预言在的",
+      "onboard_time": 1728142038,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 144976,
       "num": 257438,
       "word": "张帅无缘中网四强",
@@ -8897,14 +8937,6 @@
       "onboard_time": 1727886797,
       "rank": 24,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 142220,
-      "num": 142220,
-      "word": "陈楚生音乐节直拍",
-      "onboard_time": 1728141438,
-      "rank": 34,
-      "category": "演出"
     },
     {
       "raw_hot": 142086,
@@ -9363,12 +9395,12 @@
       "category": "互联网,社会新闻"
     },
     {
-      "raw_hot": 136062,
-      "num": 136062,
-      "word": "华晨宇演唱会 香水喷泉",
-      "onboard_time": 1728141380,
-      "rank": 36,
-      "category": "演出"
+      "raw_hot": 135888,
+      "num": 135888,
+      "word": "阿森纳vs南安普顿",
+      "onboard_time": 1728141859,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 135866,
@@ -10643,6 +10675,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 118728,
+      "num": 118728,
+      "word": "石凯的话只骗到了唐九洲",
+      "onboard_time": 1728142217,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 118553,
       "num": 118553,
       "word": "双轨",
@@ -10689,6 +10729,14 @@
       "onboard_time": 1727747960,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 117858,
+      "num": 117858,
+      "word": "流星花园重播",
+      "onboard_time": 1728142458,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 117825,
@@ -10875,14 +10923,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 115897,
-      "num": 115897,
-      "word": "十个勤天巡演郑州站",
-      "onboard_time": 1728141680,
-      "rank": 46,
-      "category": "演出"
-    },
-    {
       "raw_hot": 115836,
       "num": 115836,
       "word": "国庆假期进度条过半",
@@ -10937,6 +10977,14 @@
       "onboard_time": 1727838078,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 115151,
+      "num": 115151,
+      "word": "Weiwei回应DK二段笑",
+      "onboard_time": 1728141438,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 115094,
@@ -11033,6 +11081,14 @@
       "onboard_time": 1728095658,
       "rank": 40,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 113716,
+      "num": 113716,
+      "word": "刘烨疑似失去所有力气和手段",
+      "onboard_time": 1728142339,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 113678,
@@ -11288,6 +11344,14 @@
       "word": "LNG世界赛两连胜",
       "onboard_time": 1728046641,
       "rank": 49,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 110144,
+      "num": 110144,
+      "word": "一阳拥抱",
+      "onboard_time": 1728142517,
+      "rank": 48,
       "category": "电竞"
     },
     {
@@ -12809,6 +12873,14 @@
       "onboard_time": 1728055698,
       "rank": 47,
       "category": "财经"
+    },
+    {
+      "raw_hot": 84107,
+      "num": 201667,
+      "word": "被鸣沙山上的特殊升旗仪式感动了",
+      "onboard_time": 1728141020,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 84034,
@@ -15035,6 +15107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 26712,
+      "num": 210792,
+      "word": "港股年内涨幅登顶全球主要市场",
+      "onboard_time": 1728141139,
+      "rank": 14,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 26458,
       "num": 26458,
       "word": "房产中介称市场有反弹但没有很夸张",
@@ -15481,14 +15561,6 @@
       "onboard_time": 1727975955,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 17768,
-      "num": 210792,
-      "word": "港股年内涨幅登顶全球主要市场",
-      "onboard_time": 1728141139,
-      "rank": 14,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 17212,
