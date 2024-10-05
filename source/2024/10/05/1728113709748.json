@@ -1,0 +1,410 @@
+{
+  "runTime": 1728113709748,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1124487,
+        "num": 1179918,
+        "word": "王楚钦梁靖崑逆转夺冠",
+        "onboard_time": 1728107838,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 783886,
+        "num": 783886,
+        "word": "得知我是中国人对方撤回了请立即离开",
+        "onboard_time": 1728098239,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 10059,
+        "num": 615886,
+        "word": "奋斗中国的美丽剪影",
+        "onboard_time": 1728105919,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 568714,
+        "num": 568714,
+        "word": "刘亦菲谈不进组的原因",
+        "onboard_time": 1728103518,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 479125,
+        "num": 479125,
+        "word": "王曼昱vs陈幸同",
+        "onboard_time": 1728109759,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 454400,
+        "num": 454400,
+        "word": "哀牢山堵车",
+        "onboard_time": 1728100038,
+        "rank": 5,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 313104,
+        "num": 313104,
+        "word": "哀牢山存在大地磁场强度异常的现象",
+        "onboard_time": 1728089658,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 299192,
+        "num": 299192,
+        "word": "王楚钦梁靖崑回应夺冠",
+        "onboard_time": 1728110959,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 186913,
+        "num": 299004,
+        "word": "你好星期六全员cos经典男主角",
+        "onboard_time": 1728096258,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 74590,
+        "num": 295651,
+        "word": "深圳万架无人机表演为祖国庆生",
+        "onboard_time": 1728113299,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1372629,
+        "num": 291154,
+        "word": "全红婵国宴打包第一人",
+        "onboard_time": 1728107719,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 586630,
+        "num": 288620,
+        "word": "王楚钦按下冠军手模",
+        "onboard_time": 1728112280,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 491335,
+        "num": 286607,
+        "word": "徐州多人占铁轨拍照逼停火车头",
+        "onboard_time": 1728107719,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 305566,
+        "num": 280914,
+        "word": "檀健次 你就拿这敷衍我",
+        "onboard_time": 1728108857,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 280663,
+        "num": 280663,
+        "word": "黎巴嫩9岁女孩腿被炸断",
+        "onboard_time": 1728098118,
+        "rank": 14,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 269963,
+        "num": 269963,
+        "word": "脱口秀演员调侃王楚钦遭辞退",
+        "onboard_time": 1728113360,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 263377,
+        "num": 263377,
+        "word": "王曼昱4比2陈幸同",
+        "onboard_time": 1728112817,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 238645,
+        "num": 238645,
+        "word": "阿根廷总统米莱称将访华",
+        "onboard_time": 1728109699,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 210177,
+        "num": 210177,
+        "word": "杨紫商务",
+        "onboard_time": 1728112938,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128178,
+        "num": 196197,
+        "word": "刘烨回应演技上热搜",
+        "onboard_time": 1728108018,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 440057,
+        "num": 196171,
+        "word": "月薪18000住家保姆的一天",
+        "onboard_time": 1728108139,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 233494,
+        "num": 195891,
+        "word": "王楚钦神救球",
+        "onboard_time": 1728110238,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 195248,
+        "num": 195248,
+        "word": "许嵩 医美我确实还没体验过",
+        "onboard_time": 1728103578,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 193141,
+        "num": 193141,
+        "word": "未来3天可能发生强地磁活动",
+        "onboard_time": 1728083834,
+        "rank": 23,
+        "category": "社会新闻,国内时政"
+      },
+      {
+        "raw_hot": 182499,
+        "num": 182499,
+        "word": "哀牢山危险不仅是野兽那么简单",
+        "onboard_time": 1728107177,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169988,
+        "num": 169988,
+        "word": "梁靖崑说这个冠军等了很久",
+        "onboard_time": 1728112579,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 162421,
+        "num": 162421,
+        "word": "撑死的胖锦鲤并没有被保安带回家",
+        "onboard_time": 1728103338,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159788,
+        "num": 159788,
+        "word": "王楚钦梁靖崑拥抱",
+        "onboard_time": 1728108857,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142846,
+        "num": 142846,
+        "word": "上海偶遇李秀满sunny",
+        "onboard_time": 1728110599,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139460,
+        "num": 139460,
+        "word": "趵突泉景区称水质好不需要人工投喂",
+        "onboard_time": 1728106217,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139916,
+        "num": 138587,
+        "word": "柠栀结婚啦",
+        "onboard_time": 1728112817,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 135928,
+        "num": 135928,
+        "word": "何与自爆喜欢搞笑女",
+        "onboard_time": 1728111559,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134334,
+        "num": 134334,
+        "word": "老公被隐形家务整崩溃想离家出走",
+        "onboard_time": 1728091278,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 40754,
+        "num": 133641,
+        "word": "中国非遗有多惊艳",
+        "onboard_time": 1728106878,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133375,
+        "num": 133375,
+        "word": "郑钦文头号劲敌爆冷淘汰",
+        "onboard_time": 1728098899,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129907,
+        "num": 129907,
+        "word": "喜剧之王 虞书欣预告",
+        "onboard_time": 1728105798,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129828,
+        "num": 129828,
+        "word": "八段锦超详细跟练教程",
+        "onboard_time": 1728112338,
+        "rank": 36,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 125826,
+        "num": 125826,
+        "word": "7天快速减肥运动课表",
+        "onboard_time": 1728112158,
+        "rank": 37,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 114955,
+        "num": 114955,
+        "word": "Jasper中文名陈昊廷",
+        "onboard_time": 1728103216,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110404,
+        "num": 110404,
+        "word": "中东滑向全面战争",
+        "onboard_time": 1728105858,
+        "rank": 39,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 110136,
+        "num": 110136,
+        "word": "以后中国强大了一定要来看我",
+        "onboard_time": 1728096977,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 108734,
+        "num": 108734,
+        "word": "专家解释地磁暴对人体影响",
+        "onboard_time": 1728111258,
+        "rank": 41,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 106721,
+        "num": 106721,
+        "word": "杨鸣 克里斯",
+        "onboard_time": 1728104358,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 106277,
+        "num": 106277,
+        "word": "蒲熠星脱口秀首秀",
+        "onboard_time": 1728107538,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106001,
+        "num": 106001,
+        "word": "工地小伙买万元三星手机充电时冒烟",
+        "onboard_time": 1728104418,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105288,
+        "num": 105288,
+        "word": "国庆假期第5天",
+        "onboard_time": 1728086236,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105131,
+        "num": 105131,
+        "word": "王楚钦说双打强调配合衔接",
+        "onboard_time": 1728113417,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 99830,
+        "num": 99830,
+        "word": "哀牢山",
+        "onboard_time": 1728091638,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 89013,
+        "num": 99817,
+        "word": "公主日记3",
+        "onboard_time": 1728100219,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 88570,
+        "num": 99485,
+        "word": "燃烧的月亮",
+        "onboard_time": 1728111019,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#新时代的中国活力满满热气腾腾#"
+    }
+  }
+}
