@@ -1,6 +1,6 @@
 {
   "startTime": 1728059303809,
-  "endTime": 1728139040791,
+  "endTime": 1728141728693,
   "band_list": [
     {
       "raw_hot": 2363617,
@@ -112,6 +112,14 @@
       "word": "全红婵国宴",
       "onboard_time": 1728107719,
       "rank": 20,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1252867,
+      "num": 218704,
+      "word": "李雯雯送孙颖莎马里奥",
+      "onboard_time": 1728141080,
+      "rank": 10,
       "category": "体育"
     },
     {
@@ -571,6 +579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 463637,
+      "num": 207684,
+      "word": "高瀚宇讲价 贫穷战胜了羞耻心",
+      "onboard_time": 1728137300,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 453798,
       "num": 453798,
       "word": "亚锦赛",
@@ -683,6 +699,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 346827,
+      "num": 200905,
+      "word": "WB零封AG",
+      "onboard_time": 1728140059,
+      "rank": 19,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 345680,
       "num": 345680,
       "word": "王楚钦梁靖崑回应夺冠",
@@ -720,6 +744,14 @@
       "word": "付航吃法餐",
       "onboard_time": 1728104718,
       "rank": 17,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 330448,
+      "num": 198830,
+      "word": "立威廉一开口我的青春回来了",
+      "onboard_time": 1728139699,
+      "rank": 20,
       "category": "综艺"
     },
     {
@@ -865,6 +897,14 @@
       "onboard_time": 1728128178,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 274442,
+      "num": 196778,
+      "word": "林诗栋坐王楚钦行李箱上看比赛",
+      "onboard_time": 1728141020,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 274009,
@@ -1259,6 +1299,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 192634,
+      "num": 192634,
+      "word": "TFING训练记录片",
+      "onboard_time": 1728139459,
+      "rank": 24,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 191647,
       "num": 191647,
       "word": "宋雨琦叶舒华唱了superstar",
@@ -1321,6 +1369,14 @@
       "onboard_time": 1728085696,
       "rank": 23,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 183491,
+      "num": 183491,
+      "word": "DK现在笑不出来了吧",
+      "onboard_time": 1728140659,
+      "rank": 26,
+      "category": "电竞"
     },
     {
       "raw_hot": 181898,
@@ -1547,6 +1603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 164941,
+      "num": 164941,
+      "word": "王楚钦梁靖崑躲采访失败",
+      "onboard_time": 1728140540,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 163831,
       "num": 175845,
       "word": "她用舞蹈让敦煌壁画动起来了",
@@ -1577,14 +1641,6 @@
       "onboard_time": 1728098058,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 161959,
-      "num": 161959,
-      "word": "高瀚宇讲价 贫穷战胜了羞耻心",
-      "onboard_time": 1728137300,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 161570,
@@ -1819,6 +1875,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 142220,
+      "num": 142220,
+      "word": "陈楚生音乐节直拍",
+      "onboard_time": 1728141438,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
       "raw_hot": 141809,
       "num": 141809,
       "word": "女子穿汉服探访神秘哀牢山",
@@ -1928,6 +1992,22 @@
       "word": "TL对战WBG",
       "onboard_time": 1728054739,
       "rank": 6,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 136062,
+      "num": 136062,
+      "word": "华晨宇演唱会 香水喷泉",
+      "onboard_time": 1728141380,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 135618,
+      "num": 135618,
+      "word": "S14瑞士轮",
+      "onboard_time": 1728140180,
+      "rank": 37,
       "category": "电竞"
     },
     {
@@ -2235,6 +2315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 119893,
+      "num": 221408,
+      "word": "清澈的爱只为中国",
+      "onboard_time": 1728141020,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 119642,
       "num": 119642,
       "word": "何广智神仙导游",
@@ -2283,6 +2371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 115897,
+      "num": 115897,
+      "word": "十个勤天巡演郑州站",
+      "onboard_time": 1728141680,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
       "raw_hot": 115809,
       "num": 243817,
       "word": "蒯曼林诗栋混双冠军",
@@ -2313,6 +2409,14 @@
       "onboard_time": 1728106699,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 114703,
+      "num": 114703,
+      "word": "HLE对战GEN",
+      "onboard_time": 1728139459,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 114662,
@@ -3457,6 +3561,14 @@
       "onboard_time": 1728065112,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 17768,
+      "num": 210792,
+      "word": "港股年内涨幅登顶全球主要市场",
+      "onboard_time": 1728141139,
+      "rank": 14,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 14777,
