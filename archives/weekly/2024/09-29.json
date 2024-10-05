@@ -1,6 +1,6 @@
 {
   "startTime": 1727540758074,
-  "endTime": 1728113709748,
+  "endTime": 1728116810876,
   "band_list": [
     {
       "raw_hot": 11925969,
@@ -273,6 +273,14 @@
       "onboard_time": 1727945839,
       "rank": 10,
       "category": "演出"
+    },
+    {
+      "raw_hot": 1519935,
+      "num": 271046,
+      "word": "爱奇艺会员暂停后播放全屏广告",
+      "onboard_time": 1728114380,
+      "rank": 10,
+      "category": "互联网"
     },
     {
       "raw_hot": 1515921,
@@ -585,6 +593,14 @@
       "onboard_time": 1727656042,
       "rank": 11,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1193072,
+      "num": 227887,
+      "word": "全红婵国宴",
+      "onboard_time": 1728107719,
+      "rank": 20,
+      "category": "体育"
     },
     {
       "raw_hot": 1178046,
@@ -939,6 +955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 963036,
+      "num": 1154085,
+      "word": "孙颖莎vs范思琦",
+      "onboard_time": 1728113839,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 953929,
       "num": 636610,
       "word": "CP30开票",
@@ -1025,6 +1049,14 @@
       "onboard_time": 1728083834,
       "rank": 32,
       "category": "社会新闻,国内时政"
+    },
+    {
+      "raw_hot": 906341,
+      "num": 269963,
+      "word": "脱口秀演员调侃王楚钦遭辞退",
+      "onboard_time": 1728113360,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 903887,
@@ -1593,6 +1625,14 @@
       "onboard_time": 1727679319,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 709556,
+      "num": 269208,
+      "word": "王楚钦和马琳儿子聊天",
+      "onboard_time": 1728113900,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 708407,
@@ -2512,6 +2552,14 @@
       "word": "马龙不希望轻易地不负责任地输球",
       "onboard_time": 1727914878,
       "rank": 10,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 547412,
+      "num": 547412,
+      "word": "孙颖莎4比0范思琦",
+      "onboard_time": 1728115760,
+      "rank": 3,
       "category": "体育"
     },
     {
@@ -4595,6 +4643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 327629,
+      "num": 266335,
+      "word": "杨紫商务",
+      "onboard_time": 1728112938,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 327212,
       "num": 327212,
       "word": "胡军包场",
@@ -5755,14 +5811,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 269963,
-      "num": 269963,
-      "word": "脱口秀演员调侃王楚钦遭辞退",
-      "onboard_time": 1728113360,
-      "rank": 15,
-      "category": "体育"
-    },
-    {
       "raw_hot": 269474,
       "num": 248711,
       "word": "张凌赫田曦薇平番",
@@ -5865,6 +5913,14 @@
       "onboard_time": 1727658740,
       "rank": 22,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 266012,
+      "num": 266012,
+      "word": "孙颖莎决赛对阵王曼昱",
+      "onboard_time": 1728115760,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 265831,
@@ -6000,6 +6056,14 @@
       "word": "郑钦文早就提醒裁判关顶棚",
       "onboard_time": 1727587520,
       "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 260835,
+      "num": 260835,
+      "word": "王曼昱说决赛要让观众看爽",
+      "onboard_time": 1728115159,
+      "rank": 18,
       "category": "体育"
     },
     {
@@ -7027,6 +7091,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 221443,
+      "num": 221443,
+      "word": "哀牢山危险不仅是野兽那么简单",
+      "onboard_time": 1728107177,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 221234,
       "num": 221234,
       "word": "王楚钦梁靖崑3比2林高远林诗栋",
@@ -7283,6 +7355,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 214193,
+      "num": 214193,
+      "word": "女子要求邻居安装的摄像头调整角度",
+      "onboard_time": 1728114979,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 214123,
       "num": 223539,
       "word": "刘烨回应演技上热搜",
@@ -7433,14 +7513,6 @@
       "onboard_time": 1727743398,
       "rank": 28,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 210177,
-      "num": 210177,
-      "word": "杨紫商务",
-      "onboard_time": 1728112938,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 209494,
@@ -7913,6 +7985,14 @@
       "onboard_time": 1727619201,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 199979,
+      "num": 199979,
+      "word": "白鹿配音白月梵星",
+      "onboard_time": 1728115939,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 199493,
@@ -9195,14 +9275,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 182499,
-      "num": 182499,
-      "word": "哀牢山危险不仅是野兽那么简单",
-      "onboard_time": 1728107177,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 182422,
       "num": 363369,
       "word": "江慈身世",
@@ -9873,6 +9945,14 @@
       "onboard_time": 1728088879,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 171912,
+      "num": 157295,
+      "word": "爱奇艺回应会员暂停后也全屏广告",
+      "onboard_time": 1728115880,
+      "rank": 30,
+      "category": "互联网"
     },
     {
       "raw_hot": 171871,
@@ -10699,6 +10779,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 159370,
+      "num": 159370,
+      "word": "柠栀结婚啦",
+      "onboard_time": 1728112817,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 159364,
       "num": 1027498,
       "word": "把清澈的爱唱给祖国听",
@@ -11176,6 +11264,14 @@
       "word": "他们长眠我们常念",
       "onboard_time": 1727657240,
       "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 153138,
+      "num": 153138,
+      "word": "萌兰也忍不住摸了摸自己的脸",
+      "onboard_time": 1728115338,
+      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -12123,14 +12219,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 139916,
-      "num": 138587,
-      "word": "柠栀结婚啦",
-      "onboard_time": 1728112817,
-      "rank": 46,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 139864,
       "num": 157587,
       "word": "苏州人从此不再羡慕湖南人",
@@ -12939,6 +13027,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 133030,
+      "num": 133030,
+      "word": "VOGUE时装周主题大片",
+      "onboard_time": 1728115939,
+      "rank": 34,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 132875,
       "num": 132875,
       "word": "林高远林诗栋3比2袁励岑向鹏",
@@ -13449,6 +13545,14 @@
       "onboard_time": 1727699599,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 128165,
+      "num": 128165,
+      "word": "追求小众是一件很大众的事情",
+      "onboard_time": 1728114259,
+      "rank": 36,
+      "category": "休闲"
     },
     {
       "raw_hot": 128130,
@@ -14659,6 +14763,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 116144,
+      "num": 116144,
+      "word": "小雪 张百乔你离我丽颖远点",
+      "onboard_time": 1728116720,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 116091,
       "num": 116091,
       "word": "杭州萧山人开吃年夜饭了",
@@ -14697,6 +14809,14 @@
       "onboard_time": 1728027737,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 115749,
+      "num": 115749,
+      "word": "王曼昱说最后靠一口气顶着",
+      "onboard_time": 1728114860,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 115694,
@@ -15025,6 +15145,14 @@
       "onboard_time": 1727875579,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 112451,
+      "num": 112451,
+      "word": "孙颖莎回应本场火力全开",
+      "onboard_time": 1728116538,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 112314,
@@ -15483,6 +15611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 107111,
+      "num": 107111,
+      "word": "孙颖莎正手狂轰",
+      "onboard_time": 1728116599,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 106840,
       "num": 106840,
       "word": "广角拍猫",
@@ -15809,6 +15945,14 @@
       "onboard_time": 1727603179,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 103336,
+      "num": 295651,
+      "word": "深圳万架无人机表演为祖国庆生",
+      "onboard_time": 1728113299,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 103176,
@@ -17531,14 +17675,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 74590,
-      "num": 295651,
-      "word": "深圳万架无人机表演为祖国庆生",
-      "onboard_time": 1728113299,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 74503,
       "num": 110254,
       "word": "77岁老太被野猪咬伤拿刀反杀",
@@ -17713,6 +17849,14 @@
       "onboard_time": 1727884998,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 70640,
+      "num": 230453,
+      "word": "郭麒麟太会总结付航了",
+      "onboard_time": 1728116239,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 70519,
@@ -18648,6 +18792,14 @@
       "word": "宁波两医生上演现实版好人有好报",
       "onboard_time": 1728101237,
       "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 49712,
+      "num": 119283,
+      "word": "447封援教申请书筑起知识的桥梁",
+      "onboard_time": 1728115219,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -19771,6 +19923,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 29835,
+      "num": 268200,
+      "word": "粗糙的旅行和不打卡的人生",
+      "onboard_time": 1728116000,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 29817,
       "num": 471054,
       "word": "大型纪录片为了新中国",
@@ -20747,6 +20907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 14300,
+      "num": 268869,
+      "word": "叶光富空间站喊话大家来成都耍",
+      "onboard_time": 1728116000,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 14162,
       "num": 26332,
       "word": "3D呈现武汉地标75年生长史",
@@ -20928,6 +21096,14 @@
       "word": "每一个女生都应该去骑行",
       "onboard_time": 1728041539,
       "rank": 49,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 6555,
+      "num": 118638,
+      "word": "这些骑行误区一定要避开",
+      "onboard_time": 1728116720,
+      "rank": 39,
       "category": "运动健身"
     }
   ],
