@@ -1,6 +1,6 @@
 {
   "startTime": 1728059303809,
-  "endTime": 1728124734772,
+  "endTime": 1728127133238,
   "band_list": [
     {
       "raw_hot": 2363617,
@@ -17,6 +17,14 @@
       "onboard_time": 1728098239,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2329767,
+      "num": 2329767,
+      "word": "郑钦文摔倒",
+      "onboard_time": 1728125118,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 1519935,
@@ -83,6 +91,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1093474,
+      "num": 423638,
+      "word": "哀牢山晚上会释放大量二氧化碳",
+      "onboard_time": 1728119658,
+      "rank": 30,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 1063172,
       "num": 1021873,
       "word": "刘亦菲谈不进组的原因",
@@ -91,20 +107,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1059321,
+      "num": 1059321,
+      "word": "林诗栋vs向鹏",
+      "onboard_time": 1728124880,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 963036,
       "num": 1154085,
       "word": "孙颖莎vs范思琦",
       "onboard_time": 1728113839,
       "rank": 0,
       "category": "体育"
-    },
-    {
-      "raw_hot": 951741,
-      "num": 423638,
-      "word": "哀牢山晚上会释放大量二氧化碳",
-      "onboard_time": 1728119658,
-      "rank": 30,
-      "category": "旅游"
     },
     {
       "raw_hot": 927616,
@@ -164,11 +180,19 @@
     },
     {
       "raw_hot": 783506,
-      "num": 202435,
+      "num": 263694,
       "word": "商场回应男厕玻璃磨砂女厕透明",
       "onboard_time": 1728120739,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 778337,
+      "num": 274409,
+      "word": "谁把陈好眼睛的灯关了",
+      "onboard_time": 1728121458,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 769920,
@@ -244,7 +268,7 @@
     },
     {
       "raw_hot": 647790,
-      "num": 212047,
+      "num": 272853,
       "word": "王楚钦再次回应单打失利",
       "onboard_time": 1728119240,
       "rank": 25,
@@ -273,6 +297,14 @@
       "onboard_time": 1728107719,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 629155,
+      "num": 629155,
+      "word": "郑钦文vs穆霍娃",
+      "onboard_time": 1728102739,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 615153,
@@ -337,6 +369,14 @@
       "onboard_time": 1728117679,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 532627,
+      "num": 532627,
+      "word": "伊拉克小伙刚来中国听到喇叭都害怕",
+      "onboard_time": 1728123379,
+      "rank": 14,
+      "category": "国外时政"
     },
     {
       "raw_hot": 492702,
@@ -411,11 +451,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 381175,
-      "num": 381175,
-      "word": "郑钦文vs穆霍娃",
-      "onboard_time": 1728102739,
-      "rank": 9,
+      "raw_hot": 377711,
+      "num": 267358,
+      "word": "马龙vs梁靖崑",
+      "onboard_time": 1728124880,
+      "rank": 17,
       "category": "体育"
     },
     {
@@ -451,14 +491,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 348963,
-      "num": 201499,
-      "word": "谁把陈好眼睛的灯关了",
-      "onboard_time": 1728121458,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 345680,
       "num": 345680,
       "word": "王楚钦梁靖崑回应夺冠",
@@ -484,7 +516,7 @@
     },
     {
       "raw_hot": 337558,
-      "num": 205858,
+      "num": 244568,
       "word": "赵露思录卸妆视频",
       "onboard_time": 1728121280,
       "rank": 17,
@@ -539,6 +571,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 313873,
+      "num": 313873,
+      "word": "92岁抗美援朝女兵实弹打靶10发97环",
+      "onboard_time": 1728125059,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 294476,
       "num": 294476,
       "word": "年轻人假期整顿婚礼",
@@ -555,6 +595,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 289604,
+      "num": 289604,
+      "word": "林诗栋4比2向鹏",
+      "onboard_time": 1728126799,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 287771,
+      "num": 266416,
+      "word": "檀健次南京演唱会",
+      "onboard_time": 1728126199,
+      "rank": 18,
+      "category": "演出"
+    },
+    {
       "raw_hot": 286643,
       "num": 234590,
       "word": "女子要求邻居安装的摄像头调整角度",
@@ -564,7 +620,7 @@
     },
     {
       "raw_hot": 282933,
-      "num": 198574,
+      "num": 207416,
       "word": "高铁无休纯学9小时好小众的词",
       "onboard_time": 1728120439,
       "rank": 32,
@@ -635,6 +691,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 261697,
+      "num": 261697,
+      "word": "50岁孕妇4次试管顺利生下龙凤胎",
+      "onboard_time": 1728125059,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 261504,
       "num": 199616,
       "word": "王楚钦神救球",
@@ -683,6 +747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 243961,
+      "num": 243961,
+      "word": "郑钦文医疗暂停",
+      "onboard_time": 1728125480,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 242663,
       "num": 242663,
       "word": "假冒媒体岂是儿戏",
@@ -707,14 +779,6 @@
       "category": "体育,网红"
     },
     {
-      "raw_hot": 235091,
-      "num": 235091,
-      "word": "伊拉克小伙刚来中国听到喇叭都害怕",
-      "onboard_time": 1728123379,
-      "rank": 14,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 232671,
       "num": 232671,
       "word": "哀牢山地理环境极为复杂",
@@ -728,6 +792,14 @@
       "word": "老战士找到牺牲战友名字哭红了眼",
       "onboard_time": 1728086236,
       "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 223005,
+      "num": 223005,
+      "word": "假期返程大军已上路",
+      "onboard_time": 1728124638,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -777,6 +849,14 @@
       "onboard_time": 1728108018,
       "rank": 24,
       "category": "电影"
+    },
+    {
+      "raw_hot": 210037,
+      "num": 210037,
+      "word": "这回景德镇受气瓶真受气了",
+      "onboard_time": 1728125059,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 207853,
@@ -899,6 +979,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 183535,
+      "num": 183535,
+      "word": "郑钦文哭了",
+      "onboard_time": 1728126499,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 181898,
       "num": 276394,
       "word": "钱塘江同志连续五年立大功",
@@ -913,6 +1001,14 @@
       "onboard_time": 1728088399,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 180228,
+      "num": 180228,
+      "word": "没认出来张大大",
+      "onboard_time": 1728123858,
+      "rank": 32,
+      "category": "演出"
     },
     {
       "raw_hot": 179209,
@@ -1011,6 +1107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 171243,
+      "num": 171243,
+      "word": "郑钦文摔倒时眼睛还盯着球",
+      "onboard_time": 1728126620,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 171107,
       "num": 245194,
       "word": "锦绣安宁OST阵容",
@@ -1067,6 +1171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 167290,
+      "num": 167290,
+      "word": "姜妍虞书欣友情",
+      "onboard_time": 1728124999,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 167122,
       "num": 203458,
       "word": "战至巅峰",
@@ -1081,6 +1193,14 @@
       "onboard_time": 1728101358,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 165165,
+      "num": 165165,
+      "word": "老狼为郑钦文挑边",
+      "onboard_time": 1728124159,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 163831,
@@ -1235,6 +1355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 147751,
+      "num": 147751,
+      "word": "无畏狼队首秀",
+      "onboard_time": 1728126979,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 147742,
       "num": 147742,
       "word": "WTT",
@@ -1251,6 +1379,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 146686,
+      "num": 146686,
+      "word": "斗破苍穹",
+      "onboard_time": 1728125839,
+      "rank": 41,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 146078,
       "num": 244612,
       "word": "伊藤美诚说想赢孙颖莎一分都很难",
@@ -1259,8 +1395,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 144699,
-      "num": 144699,
+      "raw_hot": 145470,
+      "num": 145470,
       "word": "王楚钦说目前的状态对不起自己",
       "onboard_time": 1728120559,
       "rank": 34,
@@ -1291,6 +1427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 142792,
+      "num": 142792,
+      "word": "5个小孩哥凑够25块钱过生日",
+      "onboard_time": 1728121158,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 142775,
       "num": 142775,
       "word": "哀牢山当地人称不敢贸然进深山",
@@ -1305,6 +1449,14 @@
       "onboard_time": 1728119959,
       "rank": 42,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 139347,
+      "num": 270568,
+      "word": "流水迢迢 全员be",
+      "onboard_time": 1728126740,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 139217,
@@ -1337,6 +1489,14 @@
       "onboard_time": 1728052220,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 137234,
+      "num": 137234,
+      "word": "戚薇李承铉电竞文男女主照进现实",
+      "onboard_time": 1728125418,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 136935,
@@ -1411,6 +1571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 133426,
+      "num": 133426,
+      "word": "李玉刚 新贵妃躲酒",
+      "onboard_time": 1728120018,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 133030,
       "num": 133030,
       "word": "VOGUE时装周主题大片",
@@ -1459,14 +1627,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 129139,
-      "num": 129139,
-      "word": "没认出来张大大",
-      "onboard_time": 1728123858,
-      "rank": 32,
-      "category": "演出"
-    },
-    {
       "raw_hot": 128913,
       "num": 128913,
       "word": "国庆入境游增速或将超出境游",
@@ -1489,6 +1649,14 @@
       "onboard_time": 1728114259,
       "rank": 36,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 127800,
+      "num": 127800,
+      "word": "林诗栋向鹏比赛太精彩了",
+      "onboard_time": 1728126680,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 127609,
@@ -1563,28 +1731,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 124086,
-      "num": 124086,
-      "word": "5个小孩哥凑够25块钱过生日",
-      "onboard_time": 1728121158,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 123628,
       "num": 188494,
       "word": "33岁中国男子涉嫌用热咖啡泼伤婴儿后出逃",
       "onboard_time": 1728041059,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 122424,
-      "num": 122424,
-      "word": "李玉刚 新贵妃躲酒",
-      "onboard_time": 1728120018,
-      "rank": 45,
-      "category": "演出"
     },
     {
       "raw_hot": 121751,
@@ -1891,14 +2043,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 101755,
-      "num": 101755,
-      "word": "老狼为郑钦文挑边",
-      "onboard_time": 1728124159,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
       "raw_hot": 101256,
       "num": 101256,
       "word": "男双决赛太激烈了",
@@ -2195,14 +2339,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 72580,
-      "num": 135057,
-      "word": "假期返程大军已上路",
-      "onboard_time": 1728124638,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 72174,
       "num": 745219,
       "word": "数据看国庆假期活力图景",
@@ -2265,6 +2401,14 @@
       "onboard_time": 1728046581,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 62110,
+      "num": 244178,
+      "word": "非遗火壶太惊艳了",
+      "onboard_time": 1728127040,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 61982,
@@ -2500,7 +2644,7 @@
     },
     {
       "raw_hot": 42259,
-      "num": 513307,
+      "num": 899677,
       "word": "国庆文旅弘扬国韵花式翻新",
       "onboard_time": 1728117799,
       "rank": 2,
@@ -2547,6 +2691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 31842,
+      "num": 264292,
+      "word": "郑钦文带伤憾失首盘",
+      "onboard_time": 1728127040,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 30700,
       "num": 227179,
       "word": "国庆的雪山上长满了累趴下的游客",
@@ -2588,7 +2740,7 @@
     },
     {
       "raw_hot": 27708,
-      "num": 214153,
+      "num": 296391,
       "word": "被青绿配色文物硬控了",
       "onboard_time": 1728118281,
       "rank": 19,
@@ -2617,6 +2769,14 @@
       "onboard_time": 1728072311,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 25399,
+      "num": 269835,
+      "word": "危机航线 中国超英爽片",
+      "onboard_time": 1728125899,
+      "rank": 15,
+      "category": "电影"
     },
     {
       "raw_hot": 25202,
