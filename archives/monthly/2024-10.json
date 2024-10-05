@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1728152852387,
+  "endTime": 1728153659177,
   "band_list": [
     {
       "raw_hot": 11925969,
@@ -15145,6 +15145,14 @@
       "onboard_time": 1728059957,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 28244,
+      "num": 46323,
+      "word": "粉丝音乐节现场为Henry庆生",
+      "onboard_time": 1728153493,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 28221,

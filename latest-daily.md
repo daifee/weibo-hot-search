@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/10/06 00:26:13 ~ 2024/10/06 02:27:32
+本榜单时间：2024/10/06 00:26:13 ~ 2024/10/06 02:40:59
 </p>
 </blockquote>
 <p>
@@ -371,6 +371,12 @@ S14瑞士轮（热度：52432）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%82%A3%E8%8B%B1%E6%BE%B3%E9%97%A8%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
 那英澳门演唱会（热度：47768）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%B2%89%E4%B8%9D%E9%9F%B3%E4%B9%90%E8%8A%82%E7%8E%B0%E5%9C%BA%E4%B8%BAHenry%E5%BA%86%E7%94%9F%23" target="weibo">
+粉丝音乐节现场为Henry庆生（热度：28244）
 </a>
 </li>
 
