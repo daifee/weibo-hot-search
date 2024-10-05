@@ -1,6 +1,6 @@
 {
   "startTime": 1727540758074,
-  "endTime": 1728131963942,
+  "endTime": 1728132905361,
   "band_list": [
     {
       "raw_hot": 11925969,
@@ -681,6 +681,14 @@
       "onboard_time": 1727942478,
       "rank": 10,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1155291,
+      "num": 1155291,
+      "word": "孙颖莎王艺迪vs陈幸同钱天一",
+      "onboard_time": 1728131240,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 1150396,
@@ -1444,7 +1452,7 @@
     },
     {
       "raw_hot": 778337,
-      "num": 579089,
+      "num": 601075,
       "word": "谁把陈好眼睛的灯关了",
       "onboard_time": 1728121458,
       "rank": 21,
@@ -3267,6 +3275,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 478316,
+      "num": 717777,
+      "word": "那英澳门演唱会",
+      "onboard_time": 1728130399,
+      "rank": 7,
+      "category": "演出"
+    },
+    {
       "raw_hot": 477356,
       "num": 477356,
       "word": "马龙4比0战胜雨果",
@@ -3995,6 +4011,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 393070,
+      "num": 393070,
+      "word": "陈幸同钱天一3比1孙颖莎王艺迪",
+      "onboard_time": 1728132740,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 392844,
       "num": 358285,
       "word": "BIGBANG完整体出演MAMA",
@@ -4073,14 +4097,6 @@
       "onboard_time": 1727670558,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 387583,
-      "num": 581017,
-      "word": "那英澳门演唱会",
-      "onboard_time": 1728130399,
-      "rank": 7,
-      "category": "演出"
     },
     {
       "raw_hot": 387295,
@@ -4979,14 +4995,6 @@
       "category": "美食,社会新闻"
     },
     {
-      "raw_hot": 322714,
-      "num": 322714,
-      "word": "孙颖莎王艺迪vs陈幸同钱天一",
-      "onboard_time": 1728131240,
-      "rank": 17,
-      "category": "体育"
-    },
-    {
       "raw_hot": 322601,
       "num": 230747,
       "word": "伊朗向以色列发动大规模导弹袭击",
@@ -5227,12 +5235,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 307336,
+      "num": 307336,
+      "word": "陈幸同钱天一夺冠",
+      "onboard_time": 1728132740,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 307280,
       "num": 264271,
       "word": "孙俪吴慷仁新剧开拍",
       "onboard_time": 1727593939,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 307108,
+      "num": 715669,
+      "word": "你好星期六",
+      "onboard_time": 1727948597,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 307022,
@@ -5777,6 +5801,14 @@
       "onboard_time": 1727793741,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 281659,
+      "num": 579163,
+      "word": "偷渡者自述国外挣大钱是个谎言",
+      "onboard_time": 1728130881,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 280858,
@@ -6995,14 +7027,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 235012,
-      "num": 579713,
-      "word": "你好星期六",
-      "onboard_time": 1727948597,
-      "rank": 29,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 234720,
       "num": 234720,
       "word": "单依纯巴黎看秀状态",
@@ -8219,6 +8243,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 202730,
+      "num": 202730,
+      "word": "猎毒",
+      "onboard_time": 1728131959,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 202697,
       "num": 202697,
       "word": "股民称主板涨停板才10%非常耽误事",
@@ -8329,6 +8361,14 @@
       "onboard_time": 1727685740,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 200149,
+      "num": 200149,
+      "word": "警方回应网传男子接亲被加要18万彩礼",
+      "onboard_time": 1728128539,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 200033,
@@ -8481,6 +8521,14 @@
       "onboard_time": 1727954599,
       "rank": 24,
       "category": "美食"
+    },
+    {
+      "raw_hot": 197748,
+      "num": 197748,
+      "word": "狼队战胜DRG",
+      "onboard_time": 1728132440,
+      "rank": 32,
+      "category": "电竞"
     },
     {
       "raw_hot": 197592,
@@ -8841,6 +8889,14 @@
       "onboard_time": 1727929338,
       "rank": 36,
       "category": "演出"
+    },
+    {
+      "raw_hot": 193356,
+      "num": 193356,
+      "word": "马龙说林诗栋能力达到世界最高水平",
+      "onboard_time": 1728132440,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 193306,
@@ -9464,14 +9520,6 @@
       "word": "多种水果降价",
       "onboard_time": 1727556492,
       "rank": 23,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 185755,
-      "num": 185755,
-      "word": "警方回应网传男子接亲被加要18万彩礼",
-      "onboard_time": 1728128539,
-      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -11705,6 +11753,14 @@
       "onboard_time": 1727968338,
       "rank": 38,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 153091,
+      "num": 153091,
+      "word": "兵马俑门口聚集大量游客维权",
+      "onboard_time": 1728131900,
+      "rank": 44,
+      "category": "旅游"
     },
     {
       "raw_hot": 152902,
@@ -14083,6 +14139,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 128347,
+      "num": 128347,
+      "word": "王一博用最原始的方式在沙漠里找路",
+      "onboard_time": 1728132620,
+      "rank": 49,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 128198,
       "num": 128198,
       "word": "杨紫张晚意秀场自拍",
@@ -14891,6 +14955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 120431,
+      "num": 141724,
+      "word": "刀郎演唱会",
+      "onboard_time": 1728132259,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
       "raw_hot": 120410,
       "num": 120410,
       "word": "刘烨演技",
@@ -15585,14 +15657,6 @@
       "onboard_time": 1727533581,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 114112,
-      "num": 114112,
-      "word": "兵马俑门口聚集大量游客维权",
-      "onboard_time": 1728131900,
-      "rank": 44,
-      "category": "旅游"
     },
     {
       "raw_hot": 114086,
@@ -18195,14 +18259,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 77617,
-      "num": 579163,
-      "word": "偷渡者自述国外挣大钱是个谎言",
-      "onboard_time": 1728130881,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 77071,
       "num": 1182325,
       "word": "国庆假期掀起文旅热",
@@ -18769,6 +18825,14 @@
       "onboard_time": 1727547312,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 65798,
+      "num": 693776,
+      "word": "沙漠里的这抹中国红太美了",
+      "onboard_time": 1728132081,
+      "rank": 7,
+      "category": "旅游"
     },
     {
       "raw_hot": 65554,
@@ -20411,6 +20475,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 34500,
+      "num": 1111494,
+      "word": "每一次升旗都是对祖国的深情告白",
+      "onboard_time": 1728117139,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 34497,
       "num": 298259,
       "word": "港股波动是正常的无需担心牛市结束",
@@ -20947,14 +21019,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 26213,
-      "num": 1111494,
-      "word": "每一次升旗都是对祖国的深情告白",
-      "onboard_time": 1728117139,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 26207,
       "num": 32221,
       "word": "5日和6日可赏拍这幕星月童话",
@@ -21084,7 +21148,7 @@
     },
     {
       "raw_hot": 24330,
-      "num": 337520,
+      "num": 1186471,
       "word": "日记里的中国",
       "onboard_time": 1728036080,
       "rank": 5,
@@ -21449,6 +21513,14 @@
       "onboard_time": 1727837058,
       "rank": 28,
       "category": "财经"
+    },
+    {
+      "raw_hot": 19107,
+      "num": 655575,
+      "word": "当地文旅局回应哀牢山走红",
+      "onboard_time": 1728132681,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 18811,
@@ -21867,12 +21939,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 8548,
+      "num": 331516,
+      "word": "郑钦文回应摔倒",
+      "onboard_time": 1728132800,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 8417,
       "num": 109140,
       "word": "每一个女生都应该去骑行",
       "onboard_time": 1728041539,
       "rank": 49,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 6151,
+      "num": 673968,
+      "word": "凝聚力是中国人骨子里的精神",
+      "onboard_time": 1728132861,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 4982,
+      "num": 331012,
+      "word": "100秒回顾大满贯影后章子怡的诞生",
+      "onboard_time": 1728132800,
+      "rank": 19,
+      "category": "作品衍生"
     }
   ],
   "hotgov_list": [
