@@ -1,6 +1,6 @@
 {
   "startTime": 1727540758074,
-  "endTime": 1728128159906,
+  "endTime": 1728131963942,
   "band_list": [
     {
       "raw_hot": 11925969,
@@ -95,6 +95,14 @@
       "num": 2329767,
       "word": "郑钦文摔倒",
       "onboard_time": 1728125118,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 2315459,
+      "num": 2315459,
+      "word": "郑钦文无缘中网决赛",
+      "onboard_time": 1728130041,
       "rank": 0,
       "category": "体育"
     },
@@ -377,6 +385,14 @@
       "onboard_time": 1727578817,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1392155,
+      "num": 1392155,
+      "word": "马龙4比0梁靖崑",
+      "onboard_time": 1728130041,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 1391758,
@@ -724,7 +740,7 @@
     },
     {
       "raw_hot": 1093474,
-      "num": 479209,
+      "num": 503236,
       "word": "哀牢山晚上会释放大量二氧化碳",
       "onboard_time": 1728119658,
       "rank": 30,
@@ -1419,8 +1435,16 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 779528,
+      "num": 779528,
+      "word": "马龙中国大满贯进决赛",
+      "onboard_time": 1728130041,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 778337,
-      "num": 476088,
+      "num": 579089,
       "word": "谁把陈好眼睛的灯关了",
       "onboard_time": 1728121458,
       "rank": 21,
@@ -1584,6 +1608,14 @@
       "word": "蒯曼林诗栋混双冠军",
       "onboard_time": 1728049340,
       "rank": 1,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 742709,
+      "num": 742709,
+      "word": "马龙 当打之年",
+      "onboard_time": 1728129441,
+      "rank": 5,
       "category": "体育"
     },
     {
@@ -2915,6 +2947,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 516376,
+      "num": 516376,
+      "word": "钟丽丽 新疆人不是都会跳舞",
+      "onboard_time": 1728128359,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 516314,
       "num": 315603,
       "word": "GEN对战WBG",
@@ -3523,6 +3563,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 442114,
+      "num": 442114,
+      "word": "宋佳一出场就是国泰民安",
+      "onboard_time": 1728129019,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 439282,
       "num": 439282,
       "word": "高铁晚点",
@@ -4025,6 +4073,14 @@
       "onboard_time": 1727670558,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 387583,
+      "num": 581017,
+      "word": "那英澳门演唱会",
+      "onboard_time": 1728130399,
+      "rank": 7,
+      "category": "演出"
     },
     {
       "raw_hot": 387295,
@@ -4923,6 +4979,14 @@
       "category": "美食,社会新闻"
     },
     {
+      "raw_hot": 322714,
+      "num": 322714,
+      "word": "孙颖莎王艺迪vs陈幸同钱天一",
+      "onboard_time": 1728131240,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 322601,
       "num": 230747,
       "word": "伊朗向以色列发动大规模导弹袭击",
@@ -5763,6 +5827,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 279701,
+      "num": 279701,
+      "word": "刘学义 我这个年龄能被选择就不错了",
+      "onboard_time": 1728128178,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 279598,
       "num": 279598,
       "word": "林诗栋这一球请全场起立",
@@ -6281,6 +6353,14 @@
       "onboard_time": 1727785879,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 258562,
+      "num": 258562,
+      "word": "郑钦文摔倒时眼睛还盯着球",
+      "onboard_time": 1728126620,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 258310,
@@ -6915,6 +6995,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 235012,
+      "num": 579713,
+      "word": "你好星期六",
+      "onboard_time": 1727948597,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 234720,
       "num": 234720,
       "word": "单依纯巴黎看秀状态",
@@ -6953,6 +7041,14 @@
       "onboard_time": 1727929697,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 233069,
+      "num": 518832,
+      "word": "海底打捞出的罐子惊艳了",
+      "onboard_time": 1728127159,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 232689,
@@ -8003,6 +8099,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 204773,
+      "num": 204773,
+      "word": "林诗栋中国大满贯进决赛",
+      "onboard_time": 1728127159,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 204747,
       "num": 204747,
       "word": "喻言自信的你怪美的",
@@ -8209,6 +8313,14 @@
       "onboard_time": 1727760678,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 200218,
+      "num": 200218,
+      "word": "烈士陵园树枝掰开都是五角星形状",
+      "onboard_time": 1728129500,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 200213,
@@ -8744,6 +8856,14 @@
       "word": "浴火之路 删减",
       "onboard_time": 1727943977,
       "rank": 41,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 193201,
+      "num": 193201,
+      "word": "杨紫猎毒定档",
+      "onboard_time": 1728129380,
+      "rank": 29,
       "category": "电影"
     },
     {
@@ -9347,6 +9467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 185755,
+      "num": 185755,
+      "word": "警方回应网传男子接亲被加要18万彩礼",
+      "onboard_time": 1728128539,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 185753,
       "num": 254253,
       "word": "内蒙古下暴雪331国道数百辆车被困",
@@ -9553,6 +9681,14 @@
       "onboard_time": 1728088936,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 181747,
+      "num": 181747,
+      "word": "男单决赛马龙vs林诗栋",
+      "onboard_time": 1728131058,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 181724,
@@ -9889,14 +10025,6 @@
       "onboard_time": 1727882778,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 176795,
-      "num": 176795,
-      "word": "林诗栋中国大满贯进决赛",
-      "onboard_time": 1728127159,
-      "rank": 27,
-      "category": "体育"
     },
     {
       "raw_hot": 176582,
@@ -10265,14 +10393,6 @@
       "onboard_time": 1727535681,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 171243,
-      "num": 171243,
-      "word": "郑钦文摔倒时眼睛还盯着球",
-      "onboard_time": 1728126620,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 171168,
@@ -10859,14 +10979,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 163056,
-      "num": 518832,
-      "word": "海底打捞出的罐子惊艳了",
-      "onboard_time": 1728127159,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 163002,
       "num": 157941,
       "word": "国庆朋友圈已经预制好了",
@@ -11081,14 +11193,6 @@
       "onboard_time": 1727852958,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 159528,
-      "num": 547677,
-      "word": "你好星期六",
-      "onboard_time": 1727948597,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 159521,
@@ -13113,6 +13217,14 @@
       "onboard_time": 1727965880,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 135271,
+      "num": 244178,
+      "word": "非遗火壶太惊艳了",
+      "onboard_time": 1728127040,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 135182,
@@ -15243,6 +15355,14 @@
       "category": "美食,社会新闻"
     },
     {
+      "raw_hot": 116067,
+      "num": 116067,
+      "word": "DK对战LNG",
+      "onboard_time": 1728129742,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 116042,
       "num": 279768,
       "word": "广州有楼盘1天成交达3.5亿元",
@@ -15465,6 +15585,14 @@
       "onboard_time": 1727533581,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 114112,
+      "num": 114112,
+      "word": "兵马俑门口聚集大量游客维权",
+      "onboard_time": 1728131900,
+      "rank": 44,
+      "category": "旅游"
     },
     {
       "raw_hot": 114086,
@@ -15979,6 +16107,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 108288,
+      "num": 108288,
+      "word": "卫昭复仇这段",
+      "onboard_time": 1728130640,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 108230,
       "num": 108230,
       "word": "打卡哀牢山带上消防员的安全攻略",
@@ -16073,6 +16209,14 @@
       "onboard_time": 1727941818,
       "rank": 39,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 107570,
+      "num": 107570,
+      "word": "QueenWen下个赛场见",
+      "onboard_time": 1728131300,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 107392,
@@ -16681,6 +16825,14 @@
       "onboard_time": 1727920158,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 100831,
+      "num": 100831,
+      "word": "邢菲 陈哲远是剧抛脸",
+      "onboard_time": 1728129922,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 100814,
@@ -18043,6 +18195,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 77617,
+      "num": 579163,
+      "word": "偷渡者自述国外挣大钱是个谎言",
+      "onboard_time": 1728130881,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 77071,
       "num": 1182325,
       "word": "国庆假期掀起文旅热",
@@ -18521,14 +18681,6 @@
       "onboard_time": 1727805793,
       "rank": 26,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 68176,
-      "num": 244178,
-      "word": "非遗火壶太惊艳了",
-      "onboard_time": 1728127040,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 68031,
@@ -20795,6 +20947,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 26213,
+      "num": 1111494,
+      "word": "每一次升旗都是对祖国的深情告白",
+      "onboard_time": 1728117139,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 26207,
       "num": 32221,
       "word": "5日和6日可赏拍这幕星月童话",
@@ -21392,14 +21552,6 @@
       "word": "警方辟谣沭阳一广场有人拐卖儿童",
       "onboard_time": 1727691019,
       "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 17328,
-      "num": 590389,
-      "word": "每一次升旗都是对祖国的深情告白",
-      "onboard_time": 1728117139,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
