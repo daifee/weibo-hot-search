@@ -1,6 +1,6 @@
 {
   "startTime": 1728059303809,
-  "endTime": 1728106719191,
+  "endTime": 1728109764765,
   "band_list": [
     {
       "raw_hot": 2341065,
@@ -9,6 +9,14 @@
       "onboard_time": 1728098239,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2256829,
+      "num": 2256829,
+      "word": "王楚钦梁靖崑逆转夺冠",
+      "onboard_time": 1728107838,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 1447002,
@@ -44,7 +52,7 @@
     },
     {
       "raw_hot": 1063172,
-      "num": 296103,
+      "num": 1021873,
       "word": "刘亦菲谈不进组的原因",
       "onboard_time": 1728103518,
       "rank": 15,
@@ -75,8 +83,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 834620,
+      "num": 245402,
+      "word": "全红婵国宴打包第一人",
+      "onboard_time": 1728107719,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 828403,
-      "num": 304561,
+      "num": 546583,
       "word": "小伙工地干活一年换一部手机",
       "onboard_time": 1728102198,
       "rank": 34,
@@ -132,7 +148,7 @@
     },
     {
       "raw_hot": 666067,
-      "num": 296136,
+      "num": 446061,
       "word": "许嵩 医美我确实还没体验过",
       "onboard_time": 1728103578,
       "rank": 11,
@@ -177,6 +193,14 @@
       "onboard_time": 1728092778,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 588963,
+      "num": 244953,
+      "word": "月薪18000住家保姆的一天",
+      "onboard_time": 1728108139,
+      "rank": 21,
+      "category": "幽默"
     },
     {
       "raw_hot": 559020,
@@ -251,6 +275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 360376,
+      "num": 571647,
+      "word": "王楚钦梁靖崑拥抱",
+      "onboard_time": 1728108857,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 340927,
       "num": 291258,
       "word": "郑钦文再获32.5万美元奖金",
@@ -300,7 +332,7 @@
     },
     {
       "raw_hot": 315242,
-      "num": 263054,
+      "num": 302060,
       "word": "杨鸣 克里斯",
       "onboard_time": 1728104358,
       "rank": 26,
@@ -312,6 +344,14 @@
       "word": "年轻人假期整顿婚礼",
       "onboard_time": 1728059477,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 294445,
+      "num": 294445,
+      "word": "徐州多人占铁轨拍照逼停火车头",
+      "onboard_time": 1728107719,
+      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -403,6 +443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 243635,
+      "num": 243635,
+      "word": "檀健次 你就拿这敷衍我",
+      "onboard_time": 1728108857,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 242663,
       "num": 242663,
       "word": "假冒媒体岂是儿戏",
@@ -427,12 +475,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 221535,
+      "num": 221535,
+      "word": "喜剧之王 虞书欣预告",
+      "onboard_time": 1728105798,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 221234,
+      "num": 221234,
+      "word": "王楚钦梁靖崑3比2林高远林诗栋",
+      "onboard_time": 1728108439,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 216962,
       "num": 216962,
       "word": "前车突然掉头逆行货车轮胎刹到冒烟",
       "onboard_time": 1728097338,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 214123,
+      "num": 223539,
+      "word": "刘烨回应演技上热搜",
+      "onboard_time": 1728108018,
+      "rank": 24,
+      "category": "电影"
     },
     {
       "raw_hot": 207853,
@@ -459,6 +531,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 198005,
+      "num": 198005,
+      "word": "蒲熠星脱口秀首秀",
+      "onboard_time": 1728107538,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 197824,
       "num": 197824,
       "word": "医院回应幼童游乐场溺水沉底",
@@ -481,14 +561,6 @@
       "onboard_time": 1728085217,
       "rank": 36,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 190562,
-      "num": 190562,
-      "word": "喜剧之王 虞书欣预告",
-      "onboard_time": 1728105798,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 189003,
@@ -529,6 +601,22 @@
       "onboard_time": 1728088399,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 179209,
+      "num": 179209,
+      "word": "男双决赛",
+      "onboard_time": 1728108498,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 178074,
+      "num": 227614,
+      "word": "中东滑向全面战争",
+      "onboard_time": 1728105858,
+      "rank": 18,
+      "category": "国外时政"
     },
     {
       "raw_hot": 176430,
@@ -619,12 +707,44 @@
       "category": "体育"
     },
     {
+      "raw_hot": 167122,
+      "num": 203458,
+      "word": "战至巅峰",
+      "onboard_time": 1728108679,
+      "rank": 28,
+      "category": "综艺,电竞"
+    },
+    {
       "raw_hot": 166810,
       "num": 166810,
       "word": "J人男友为出国女友写37页PPT攻略",
       "onboard_time": 1728101358,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 165656,
+      "num": 165656,
+      "word": "哀牢山危险不仅是野兽那么简单",
+      "onboard_time": 1728107177,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 163831,
+      "num": 175845,
+      "word": "她用舞蹈让敦煌壁画动起来了",
+      "onboard_time": 1728107778,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 163511,
+      "num": 171735,
+      "word": "国乒包揽男双冠亚军",
+      "onboard_time": 1728108318,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 162829,
@@ -731,6 +851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 147651,
+      "num": 147651,
+      "word": "石凯太湖湾音乐节",
+      "onboard_time": 1728109459,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
       "raw_hot": 147158,
       "num": 147158,
       "word": "华晨宇枪吻点燃烟花",
@@ -835,6 +963,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 133993,
+      "num": 133993,
+      "word": "付航 如果必须高级我宁愿当猴",
+      "onboard_time": 1728107298,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 129949,
       "num": 244224,
       "word": "孙颖莎4比0胜伊藤美诚",
@@ -849,6 +985,14 @@
       "onboard_time": 1728083653,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 129154,
+      "num": 129154,
+      "word": "王鹤棣hi6cos孙悟空",
+      "onboard_time": 1728108439,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 128913,
@@ -1139,6 +1283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 100552,
+      "num": 203353,
+      "word": "阿根廷总统米莱称将访华",
+      "onboard_time": 1728109699,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 100431,
       "num": 100431,
       "word": "贾一凡送汪苏泷奥运战拍",
@@ -1209,6 +1361,14 @@
       "onboard_time": 1728057618,
       "rank": 36,
       "category": "体育,演出"
+    },
+    {
+      "raw_hot": 92806,
+      "num": 485276,
+      "word": "89岁奶奶写了数十万字敦煌舞笔记",
+      "onboard_time": 1728108318,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 90324,
@@ -1339,14 +1499,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 74436,
-      "num": 227614,
-      "word": "中东滑向全面战争",
-      "onboard_time": 1728105858,
-      "rank": 18,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 73295,
       "num": 45460,
       "word": "周震南晚安大小姐",
@@ -1419,6 +1571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 61141,
+      "num": 255793,
+      "word": "小罗 天物我一个暴舔",
+      "onboard_time": 1728108799,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 61101,
       "num": 61101,
       "word": "HLE战胜G2",
@@ -1449,6 +1609,14 @@
       "onboard_time": 1728057679,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 56877,
+      "num": 553502,
+      "word": "志愿军李家三口战场团圆",
+      "onboard_time": 1728108439,
+      "rank": 9,
+      "category": "电影"
     },
     {
       "raw_hot": 56181,
@@ -1483,12 +1651,28 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 50435,
+      "num": 150289,
+      "word": "你永远可以相信檀健次的穿搭",
+      "onboard_time": 1728108559,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 50277,
       "num": 110735,
       "word": "陈楚生口哨版黄金时代",
       "onboard_time": 1728093798,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 50113,
+      "num": 654842,
+      "word": "中国非遗有多惊艳",
+      "onboard_time": 1728106878,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 49987,
@@ -1619,6 +1803,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 30923,
+      "num": 639592,
+      "word": "我国空间科学卫星从无到有闪耀太空",
+      "onboard_time": 1728105499,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 30700,
       "num": 227179,
       "word": "国庆的雪山上长满了累趴下的游客",
@@ -1667,14 +1859,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 25345,
-      "num": 296148,
-      "word": "我国空间科学卫星从无到有闪耀太空",
-      "onboard_time": 1728105499,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 25202,
       "num": 30595,
       "word": "下一战歌手第六期彩排直击",
@@ -1683,18 +1867,18 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 24034,
-      "num": 852353,
-      "word": "国庆入境游增速将超过出境游",
-      "onboard_time": 1728049940,
+      "raw_hot": 24396,
+      "num": 1039037,
+      "word": "奋斗中国的美丽剪影",
+      "onboard_time": 1728105919,
       "rank": 2,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 23688,
-      "num": 584352,
-      "word": "奋斗中国的美丽剪影",
-      "onboard_time": 1728105919,
+      "raw_hot": 24034,
+      "num": 852353,
+      "word": "国庆入境游增速将超过出境游",
+      "onboard_time": 1728049940,
       "rank": 2,
       "category": "社会新闻"
     },
