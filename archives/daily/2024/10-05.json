@@ -1,10 +1,10 @@
 {
   "startTime": 1728059303809,
-  "endTime": 1728096653331,
+  "endTime": 1728097264092,
   "band_list": [
     {
-      "raw_hot": 1402469,
-      "num": 1402469,
+      "raw_hot": 1447002,
+      "num": 1447002,
       "word": "哀牢山存在大地磁场强度异常的现象",
       "onboard_time": 1728089658,
       "rank": 12,
@@ -25,6 +25,14 @@
       "onboard_time": 1728055039,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 918228,
+      "num": 679345,
+      "word": "你好星期六全员cos经典男主角",
+      "onboard_time": 1728096258,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 909145,
@@ -51,8 +59,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 796593,
-      "num": 796593,
+      "raw_hot": 802190,
+      "num": 802190,
       "word": "哀牢山",
       "onboard_time": 1728091638,
       "rank": 21,
@@ -91,19 +99,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 592753,
+      "num": 276337,
+      "word": "男子高速上开启自动驾驶撞上水马",
+      "onboard_time": 1728092778,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 559020,
       "num": 559020,
       "word": "又一条高铁要来了",
       "onboard_time": 1728090257,
       "rank": 1,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 553341,
-      "num": 276337,
-      "word": "男子高速上开启自动驾驶撞上水马",
-      "onboard_time": 1728092778,
-      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -139,12 +147,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 358542,
+      "num": 237790,
+      "word": "成毅 伯希和",
+      "onboard_time": 1728095539,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 340927,
       "num": 291258,
       "word": "郑钦文再获32.5万美元奖金",
       "onboard_time": 1728054439,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 326715,
+      "num": 209806,
+      "word": "国庆第一批宅家旅游者出现了",
+      "onboard_time": 1728095658,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 316478,
@@ -169,22 +193,6 @@
       "onboard_time": 1728059477,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 293974,
-      "num": 209806,
-      "word": "国庆第一批宅家旅游者出现了",
-      "onboard_time": 1728095658,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 291427,
-      "num": 291427,
-      "word": "你好星期六全员cos经典男主角",
-      "onboard_time": 1728096258,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 282896,
@@ -235,8 +243,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 244828,
-      "num": 244828,
+      "raw_hot": 248510,
+      "num": 248510,
       "word": "国内航线今起下调燃油附加费",
       "onboard_time": 1728092478,
       "rank": 30,
@@ -267,20 +275,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 220318,
-      "num": 220318,
+      "raw_hot": 231746,
+      "num": 231746,
       "word": "国庆假期第5天",
       "onboard_time": 1728086236,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 208460,
-      "num": 208460,
-      "word": "成毅 伯希和",
-      "onboard_time": 1728095539,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 207853,
@@ -355,6 +355,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 172889,
+      "num": 225332,
+      "word": "中方呼吁避免将北溪事件调查政治化",
+      "onboard_time": 1728091517,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 171978,
       "num": 171978,
       "word": "跳海救人未果当事人发声",
@@ -395,20 +403,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 160185,
+      "num": 160185,
+      "word": "三折叠怎么折都有题",
+      "onboard_time": 1728094397,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 156862,
       "num": 146189,
       "word": "S14瑞士轮第三轮抽签",
       "onboard_time": 1728083476,
       "rank": 15,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 154919,
-      "num": 225332,
-      "word": "中方呼吁避免将北溪事件调查政治化",
-      "onboard_time": 1728091517,
-      "rank": 8,
-      "category": "国内时政"
     },
     {
       "raw_hot": 154762,
@@ -459,14 +467,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 140929,
-      "num": 140929,
-      "word": "三折叠怎么折都有题",
-      "onboard_time": 1728094397,
-      "rank": 28,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 137482,
       "num": 188537,
       "word": "梁靖崑说王楚钦又甜又凶",
@@ -515,6 +515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 128913,
+      "num": 128913,
+      "word": "国庆入境游增速或将超出境游",
+      "onboard_time": 1728067873,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 127609,
       "num": 188374,
       "word": "中方必将采取一切措施维护中国企业利益",
@@ -547,6 +555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 121751,
+      "num": 121751,
+      "word": "中餐厅收官",
+      "onboard_time": 1728096858,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 121674,
       "num": 243965,
       "word": "LNG战胜BLG",
@@ -561,6 +577,14 @@
       "onboard_time": 1728044898,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 120593,
+      "num": 120593,
+      "word": "郑钦文创造多项个人纪录",
+      "onboard_time": 1728093977,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 115809,
@@ -603,6 +627,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 108514,
+      "num": 108514,
+      "word": "以后中国强大了一定要来看我",
+      "onboard_time": 1728096977,
+      "rank": 39,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 108486,
       "num": 188401,
       "word": "2NE1演唱会",
@@ -635,12 +667,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 104463,
-      "num": 104463,
-      "word": "郑钦文创造多项个人纪录",
-      "onboard_time": 1728093977,
-      "rank": 39,
-      "category": "体育"
+      "raw_hot": 104449,
+      "num": 104449,
+      "word": "郭碧婷信念感",
+      "onboard_time": 1728093138,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 104214,
@@ -681,6 +713,14 @@
       "onboard_time": 1728095419,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 96680,
+      "num": 96680,
+      "word": "胡塞武装称也门多地遭美英空袭",
+      "onboard_time": 1728097098,
+      "rank": 45,
+      "category": "国外时政"
     },
     {
       "raw_hot": 96241,
@@ -755,28 +795,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 87007,
-      "num": 87007,
-      "word": "刘青松状态",
-      "onboard_time": 1728090617,
-      "rank": 42,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 86119,
-      "num": 86119,
+      "raw_hot": 89283,
+      "num": 89283,
       "word": "NBA季前赛",
       "onboard_time": 1728096559,
       "rank": 47,
       "category": "体育"
     },
     {
-      "raw_hot": 86099,
-      "num": 86099,
-      "word": "郭碧婷信念感",
-      "onboard_time": 1728093138,
-      "rank": 49,
-      "category": "剧集"
+      "raw_hot": 87007,
+      "num": 87007,
+      "word": "刘青松状态",
+      "onboard_time": 1728090617,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 84748,
@@ -892,7 +924,7 @@
     },
     {
       "raw_hot": 63939,
-      "num": 108108,
+      "num": 114026,
       "word": "贾一凡Vlog",
       "onboard_time": 1728086657,
       "rank": 37,
@@ -1067,6 +1099,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 40971,
+      "num": 89696,
+      "word": "和平精英品牌代言人田曦薇",
+      "onboard_time": 1728097158,
+      "rank": 47,
+      "category": "艺人,游戏"
+    },
+    {
       "raw_hot": 39077,
       "num": 42717,
       "word": "国庆人人人你人人人名场面",
@@ -1128,14 +1168,6 @@
       "word": "国庆入境游增速将超过出境游",
       "onboard_time": 1728049940,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 23794,
-      "num": 28810,
-      "word": "国庆入境游增速或将超出境游",
-      "onboard_time": 1728067873,
-      "rank": 40,
       "category": "社会新闻"
     },
     {
