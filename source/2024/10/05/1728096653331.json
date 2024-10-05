@@ -1,0 +1,410 @@
+{
+  "runTime": 1728096653331,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1402469,
+        "num": 1402469,
+        "word": "哀牢山存在大地磁场强度异常的现象",
+        "onboard_time": 1728089658,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 796593,
+        "num": 796593,
+        "word": "哀牢山",
+        "onboard_time": 1728091638,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24034,
+        "num": 701681,
+        "word": "国庆入境游增速将超过出境游",
+        "onboard_time": 1728049940,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 668751,
+        "num": 668751,
+        "word": "误乘误降火车可免费换乘",
+        "onboard_time": 1728092238,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 642212,
+        "num": 642212,
+        "word": "未来3天可能发生强地磁活动",
+        "onboard_time": 1728083834,
+        "rank": 4,
+        "category": "社会新闻,国内时政"
+      },
+      {
+        "raw_hot": 516921,
+        "num": 516921,
+        "word": "又一条高铁要来了",
+        "onboard_time": 1728090257,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 291427,
+        "num": 291427,
+        "word": "你好星期六全员cos经典男主角",
+        "onboard_time": 1728096258,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 276942,
+        "num": 276942,
+        "word": "中方称欧洲支持征税就会失去投资",
+        "onboard_time": 1728090317,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 181287,
+        "num": 276714,
+        "word": "花少团出国了但没完全出",
+        "onboard_time": 1728057018,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 97898,
+        "num": 276394,
+        "word": "钱塘江同志连续五年立大功",
+        "onboard_time": 1728088936,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 553341,
+        "num": 276337,
+        "word": "男子高速上开启自动驾驶撞上水马",
+        "onboard_time": 1728092778,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 518583,
+        "num": 275925,
+        "word": "任嘉伦 三折叠怎么折都be",
+        "onboard_time": 1728089357,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 462310,
+        "num": 275576,
+        "word": "陈玘 不喜欢这些傲慢的白人",
+        "onboard_time": 1728087016,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 275457,
+        "num": 275457,
+        "word": "国庆假期趵突泉鱼被撑死了",
+        "onboard_time": 1728089597,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244828,
+        "num": 244828,
+        "word": "国内航线今起下调燃油附加费",
+        "onboard_time": 1728092478,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241900,
+        "num": 241900,
+        "word": "第五人格黯",
+        "onboard_time": 1728095599,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 220318,
+        "num": 220318,
+        "word": "国庆假期第5天",
+        "onboard_time": 1728086236,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217575,
+        "num": 217575,
+        "word": "太阳爆发7年来最强耀斑",
+        "onboard_time": 1728055039,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171763,
+        "num": 217165,
+        "word": "雅给向佐打电话的含金量还在上升",
+        "onboard_time": 1728088399,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112199,
+        "num": 215619,
+        "word": "这两天的笑点是向佐给的",
+        "onboard_time": 1728053480,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 700185,
+        "num": 213041,
+        "word": "小伙出国读博每天洗4次头",
+        "onboard_time": 1728087738,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 570916,
+        "num": 212932,
+        "word": "老公被隐形家务整崩溃想离家出走",
+        "onboard_time": 1728091278,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 302286,
+        "num": 211120,
+        "word": "35岁再考清华当事人将再考",
+        "onboard_time": 1728094697,
+        "rank": 22,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 293974,
+        "num": 209806,
+        "word": "国庆第一批宅家旅游者出现了",
+        "onboard_time": 1728095658,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208460,
+        "num": 208460,
+        "word": "成毅 伯希和",
+        "onboard_time": 1728095539,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207853,
+        "num": 207853,
+        "word": "中国UP",
+        "onboard_time": 1728094697,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191001,
+        "num": 191001,
+        "word": "哀牢山部分区域已被开发成景区",
+        "onboard_time": 1728085335,
+        "rank": 26,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 154919,
+        "num": 154919,
+        "word": "中方呼吁避免将北溪事件调查政治化",
+        "onboard_time": 1728091517,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 140929,
+        "num": 140929,
+        "word": "三折叠怎么折都有题",
+        "onboard_time": 1728094397,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 138671,
+        "num": 138671,
+        "word": "放久的奶茶到底有多脏",
+        "onboard_time": 1728085696,
+        "rank": 29,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 136640,
+        "num": 136640,
+        "word": "表白祖国我是14亿分之一",
+        "onboard_time": 1728093619,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 134442,
+        "num": 134442,
+        "word": "王一博在沙漠做饼",
+        "onboard_time": 1728061635,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123808,
+        "num": 123808,
+        "word": "超15000台车违法占用应急车道",
+        "onboard_time": 1728086357,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121966,
+        "num": 121966,
+        "word": "老战士找到牺牲战友名字哭红了眼",
+        "onboard_time": 1728086236,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110579,
+        "num": 110579,
+        "word": "华晨宇枪吻点燃烟花",
+        "onboard_time": 1728088758,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 58222,
+        "num": 108108,
+        "word": "贾一凡Vlog",
+        "onboard_time": 1728086657,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 106010,
+        "num": 106010,
+        "word": "女子高速上40码龟速行驶被训",
+        "onboard_time": 1728053302,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105192,
+        "num": 105192,
+        "word": "跳海救人未果当事人发声",
+        "onboard_time": 1728088879,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104858,
+        "num": 104858,
+        "word": "黄晓明中餐厅收官文",
+        "onboard_time": 1728095599,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 104463,
+        "num": 104463,
+        "word": "郑钦文创造多项个人纪录",
+        "onboard_time": 1728093977,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104214,
+        "num": 104214,
+        "word": "为什么漫展从不缺显眼包",
+        "onboard_time": 1728095658,
+        "rank": 40,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 104167,
+        "num": 104167,
+        "word": "WTT",
+        "onboard_time": 1728092718,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104000,
+        "num": 104000,
+        "word": "记者探访走红的哀牢山",
+        "onboard_time": 1728094880,
+        "rank": 42,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 100431,
+        "num": 100431,
+        "word": "贾一凡送汪苏泷奥运战拍",
+        "onboard_time": 1728094998,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 97808,
+        "num": 97808,
+        "word": "天刀光夜破次元同框",
+        "onboard_time": 1728095419,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 95606,
+        "num": 95606,
+        "word": "S14瑞士轮第三轮抽签",
+        "onboard_time": 1728083476,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 89930,
+        "num": 89930,
+        "word": "他飞起来的瞬间好像浴火重生",
+        "onboard_time": 1728096018,
+        "rank": 46,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 86119,
+        "num": 86119,
+        "word": "NBA季前赛",
+        "onboard_time": 1728096559,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 86099,
+        "num": 86099,
+        "word": "郭碧婷信念感",
+        "onboard_time": 1728093138,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 85891,
+        "num": 85891,
+        "word": "景区回应多名游客被挂在半空",
+        "onboard_time": 1728059057,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#必须坚持人民至上#"
+    }
+  }
+}
