@@ -1,6 +1,6 @@
 {
   "startTime": 1728059303809,
-  "endTime": 1728137920434,
+  "endTime": 1728139040791,
   "band_list": [
     {
       "raw_hot": 2363617,
@@ -51,6 +51,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1512094,
+      "num": 256876,
+      "word": "你好星期六没发下期预告",
+      "onboard_time": 1728134780,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1447002,
       "num": 1447002,
       "word": "哀牢山存在大地磁场强度异常的现象",
@@ -96,14 +104,6 @@
       "word": "你好星期六全员cos经典男主角",
       "onboard_time": 1728096258,
       "rank": 6,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 1320277,
-      "num": 256876,
-      "word": "你好星期六没发下期预告",
-      "onboard_time": 1728134780,
-      "rank": 31,
       "category": "综艺"
     },
     {
@@ -168,6 +168,14 @@
       "word": "孙颖莎vs范思琦",
       "onboard_time": 1728113839,
       "rank": 0,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 950356,
+      "num": 256430,
+      "word": "郑钦文说昨天做了错误决定",
+      "onboard_time": 1728136340,
+      "rank": 15,
       "category": "体育"
     },
     {
@@ -392,14 +400,6 @@
       "word": "陈玘 不喜欢这些傲慢的白人",
       "onboard_time": 1728087016,
       "rank": 14,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 640750,
-      "num": 256430,
-      "word": "郑钦文说昨天做了错误决定",
-      "onboard_time": 1728136340,
-      "rank": 15,
       "category": "体育"
     },
     {
@@ -1043,6 +1043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 231716,
+      "num": 231716,
+      "word": "AG对战WB",
+      "onboard_time": 1728135019,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 228577,
       "num": 492814,
       "word": "刀郎演唱会",
@@ -1225,6 +1233,14 @@
       "onboard_time": 1728134901,
       "rank": 26,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 195593,
+      "num": 195593,
+      "word": "李玉刚工作室发声明",
+      "onboard_time": 1728137660,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 195036,
@@ -1563,6 +1579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 161959,
+      "num": 161959,
+      "word": "高瀚宇讲价 贫穷战胜了羞耻心",
+      "onboard_time": 1728137300,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 161570,
       "num": 161570,
       "word": "对视是人类的精神接吻",
@@ -1585,6 +1609,14 @@
       "onboard_time": 1728115338,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 157336,
+      "num": 157336,
+      "word": "夏之光喜欢杨超越的反面类型",
+      "onboard_time": 1728134480,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 156862,
@@ -1651,6 +1683,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 153360,
+      "num": 153360,
+      "word": "胡塞武装称将让美国付出沉重代价",
+      "onboard_time": 1728137180,
+      "rank": 47,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 153289,
       "num": 153289,
       "word": "湖人vs森林狼",
@@ -1689,14 +1729,6 @@
       "onboard_time": 1728119480,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 149037,
-      "num": 149037,
-      "word": "夏之光喜欢杨超越的反面类型",
-      "onboard_time": 1728134480,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 147742,
@@ -1787,20 +1819,20 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 142643,
-      "num": 142643,
-      "word": "李玉刚工作室发声明",
-      "onboard_time": 1728137660,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 141809,
       "num": 141809,
       "word": "女子穿汉服探访神秘哀牢山",
       "onboard_time": 1728119959,
       "rank": 42,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 139814,
+      "num": 231602,
+      "word": "好六全员合唱梦回那个夏天",
+      "onboard_time": 1728138741,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 139347,
@@ -1883,14 +1915,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 136884,
-      "num": 136884,
-      "word": "胡塞武装称将让美国付出沉重代价",
-      "onboard_time": 1728137180,
-      "rank": 47,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 136640,
       "num": 136640,
       "word": "表白祖国我是14亿分之一",
@@ -1913,14 +1937,6 @@
       "onboard_time": 1728127040,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 135180,
-      "num": 135180,
-      "word": "AG对战WB",
-      "onboard_time": 1728135019,
-      "rank": 44,
-      "category": "电竞"
     },
     {
       "raw_hot": 134895,
@@ -2067,6 +2083,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 127781,
+      "num": 127781,
+      "word": "哀牢山本地人称进山要怀敬畏之心",
+      "onboard_time": 1728137420,
+      "rank": 44,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 127609,
       "num": 188374,
       "word": "中方必将采取一切措施维护中国企业利益",
@@ -2185,6 +2209,14 @@
       "onboard_time": 1728097578,
       "rank": 37,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 120974,
+      "num": 120974,
+      "word": "彭昱畅为半裸戏锻炼",
+      "onboard_time": 1728138260,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 120593,
@@ -2931,6 +2963,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 61306,
+      "num": 256564,
+      "word": "不少投资者国庆假期赴港开户",
+      "onboard_time": 1728137719,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 61141,
       "num": 255793,
       "word": "小罗 天物我一个暴舔",
@@ -3163,6 +3203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 42181,
+      "num": 231515,
+      "word": "89岁院士见证中国AI从无到有",
+      "onboard_time": 1728138921,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 41169,
       "num": 397570,
       "word": "民警经历13天高强度抓捕蜷缩睡着",
@@ -3177,14 +3225,6 @@
       "onboard_time": 1728062954,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 40913,
-      "num": 256564,
-      "word": "不少投资者国庆假期赴港开户",
-      "onboard_time": 1728137719,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 39903,
@@ -3473,6 +3513,14 @@
       "onboard_time": 1728102739,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 11521,
+      "num": 156025,
+      "word": "骑行圈小白必备的的新手村攻略",
+      "onboard_time": 1728138680,
+      "rank": 39,
+      "category": "运动健身"
     },
     {
       "raw_hot": 4982,
