@@ -1,0 +1,410 @@
+{
+  "runTime": 1728124734772,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1135422,
+        "num": 1181667,
+        "word": "哀牢山景区发布安全警示",
+        "onboard_time": 1728120618,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 628052,
+        "num": 628052,
+        "word": "哀牢山堵车",
+        "onboard_time": 1728100038,
+        "rank": 1,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 15881,
+        "num": 513307,
+        "word": "国庆文旅弘扬国韵花式翻新",
+        "onboard_time": 1728117799,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 417271,
+        "num": 417271,
+        "word": "得知我是中国人对方撤回了请立即离开",
+        "onboard_time": 1728098239,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 381175,
+        "num": 381175,
+        "word": "郑钦文vs穆霍娃",
+        "onboard_time": 1728102739,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 235091,
+        "num": 235091,
+        "word": "伊拉克小伙刚来中国听到喇叭都害怕",
+        "onboard_time": 1728123379,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 951741,
+        "num": 228276,
+        "word": "哀牢山晚上会释放大量二氧化碳",
+        "onboard_time": 1728119658,
+        "rank": 6,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 24613,
+        "num": 196645,
+        "word": "被青绿配色文物硬控了",
+        "onboard_time": 1728118281,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196515,
+        "num": 196515,
+        "word": "77岁老人成为武汉最特别的游客",
+        "onboard_time": 1728121040,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95400,
+        "num": 196364,
+        "word": "郭麒麟太会总结付航了",
+        "onboard_time": 1728116239,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 643674,
+        "num": 195754,
+        "word": "王楚钦再次回应单打失利",
+        "onboard_time": 1728119240,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 557393,
+        "num": 195407,
+        "word": "爱奇艺会员暂停后播放全屏广告",
+        "onboard_time": 1728114380,
+        "rank": 11,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 432664,
+        "num": 195137,
+        "word": "脱口秀演员调侃王楚钦遭辞退",
+        "onboard_time": 1728113360,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 394499,
+        "num": 194623,
+        "word": "小雪 张百乔你离我丽颖远点",
+        "onboard_time": 1728116720,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 360799,
+        "num": 194232,
+        "word": "杨超越自爆喜欢单眼皮骨相帅哥",
+        "onboard_time": 1728120680,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 337558,
+        "num": 193715,
+        "word": "赵露思录卸妆视频",
+        "onboard_time": 1728121280,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 303406,
+        "num": 193224,
+        "word": "谁把陈好眼睛的灯关了",
+        "onboard_time": 1728121458,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193180,
+        "num": 193180,
+        "word": "哀牢山地理环境极为复杂",
+        "onboard_time": 1728117980,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261606,
+        "num": 189824,
+        "word": "王楚钦说非常渴望双打冠军",
+        "onboard_time": 1728117679,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 233923,
+        "num": 188065,
+        "word": "教育局回应学生举报补课被怼",
+        "onboard_time": 1728117198,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 783506,
+        "num": 183952,
+        "word": "商场回应男厕玻璃磨砂女厕透明",
+        "onboard_time": 1728120739,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 271685,
+        "num": 179364,
+        "word": "高铁无休纯学9小时好小众的词",
+        "onboard_time": 1728120439,
+        "rank": 21,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 194215,
+        "num": 174603,
+        "word": "刘亦菲谈不进组的原因",
+        "onboard_time": 1728103518,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171428,
+        "num": 171428,
+        "word": "许昕说想恢复一下看看啥水平",
+        "onboard_time": 1728123318,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 170650,
+        "num": 170650,
+        "word": "宝宝在警车里出生取名小景媛",
+        "onboard_time": 1728120079,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160417,
+        "num": 160417,
+        "word": "月薪18000住家保姆的一天",
+        "onboard_time": 1728108139,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 144060,
+        "num": 144060,
+        "word": "孙颖莎决赛对阵王曼昱",
+        "onboard_time": 1728115760,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 135788,
+        "num": 135788,
+        "word": "女子穿汉服探访神秘哀牢山",
+        "onboard_time": 1728119959,
+        "rank": 27,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 135405,
+        "num": 135405,
+        "word": "王楚钦说目前的状态对不起自己",
+        "onboard_time": 1728120559,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 72580,
+        "num": 135057,
+        "word": "假期返程大军已上路",
+        "onboard_time": 1728124638,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134840,
+        "num": 134840,
+        "word": "彭昱畅新片看得我一愣接一愣",
+        "onboard_time": 1728123499,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 134591,
+        "num": 134591,
+        "word": "许昕透露比赛安排",
+        "onboard_time": 1728123679,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129139,
+        "num": 129139,
+        "word": "没认出来张大大",
+        "onboard_time": 1728123858,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 126719,
+        "num": 126719,
+        "word": "孙颖莎vs范思琦",
+        "onboard_time": 1728113839,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125836,
+        "num": 125836,
+        "word": "扎克伯格成世界第二大富豪",
+        "onboard_time": 1728124099,
+        "rank": 34,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 125578,
+        "num": 125578,
+        "word": "兵马俑上夜班",
+        "onboard_time": 1728120317,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124086,
+        "num": 124086,
+        "word": "5个小孩哥凑够25块钱过生日",
+        "onboard_time": 1728121158,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123453,
+        "num": 123453,
+        "word": "苏州一夜市惊现券商摊位",
+        "onboard_time": 1728119480,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118122,
+        "num": 118122,
+        "word": "杨紫商务",
+        "onboard_time": 1728112938,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115920,
+        "num": 115920,
+        "word": "白鹿一天配六场哭戏",
+        "onboard_time": 1728123379,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112171,
+        "num": 112171,
+        "word": "我在哀牢山很想你",
+        "onboard_time": 1728117919,
+        "rank": 40,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 109678,
+        "num": 109678,
+        "word": "易烊千玺机场毛衣look",
+        "onboard_time": 1728122898,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 80908,
+        "num": 109323,
+        "word": "高芙晋级中网决赛",
+        "onboard_time": 1728121639,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 109203,
+        "num": 109203,
+        "word": "王楚钦和马琳儿子聊天",
+        "onboard_time": 1728113900,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108464,
+        "num": 108464,
+        "word": "时代少年团秀操作了",
+        "onboard_time": 1728120618,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106872,
+        "num": 106872,
+        "word": "李玉刚 新贵妃躲酒",
+        "onboard_time": 1728120018,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 101755,
+        "num": 101755,
+        "word": "老狼为郑钦文挑边",
+        "onboard_time": 1728124159,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 96910,
+        "num": 96910,
+        "word": "王楚钦梁靖崑逆转夺冠",
+        "onboard_time": 1728107838,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 95458,
+        "num": 95458,
+        "word": "你是一分没花吃个七七八八",
+        "onboard_time": 1728124699,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 95027,
+        "num": 95027,
+        "word": "无人机组成中国奥运健儿奖牌数字",
+        "onboard_time": 1728124579,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#新时代的中国活力满满热气腾腾#"
+    }
+  }
+}

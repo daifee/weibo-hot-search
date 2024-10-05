@@ -1,6 +1,6 @@
 {
   "startTime": 1728059303809,
-  "endTime": 1728123677097,
+  "endTime": 1728124734772,
   "band_list": [
     {
       "raw_hot": 2363617,
@@ -75,6 +75,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1135422,
+      "num": 1181667,
+      "word": "哀牢山景区发布安全警示",
+      "onboard_time": 1728120618,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1063172,
       "num": 1021873,
       "word": "刘亦菲谈不进组的原因",
@@ -89,6 +97,14 @@
       "onboard_time": 1728113839,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 951741,
+      "num": 423638,
+      "word": "哀牢山晚上会释放大量二氧化碳",
+      "onboard_time": 1728119658,
+      "rank": 30,
+      "category": "旅游"
     },
     {
       "raw_hot": 927616,
@@ -123,14 +139,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 838018,
-      "num": 423638,
-      "word": "哀牢山晚上会释放大量二氧化碳",
-      "onboard_time": 1728119658,
-      "rank": 30,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 828403,
       "num": 546583,
       "word": "小伙工地干活一年换一部手机",
@@ -155,6 +163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 783506,
+      "num": 202435,
+      "word": "商场回应男厕玻璃磨砂女厕透明",
+      "onboard_time": 1728120739,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 769920,
       "num": 368437,
       "word": "黎巴嫩9岁女孩腿被炸断",
@@ -169,14 +185,6 @@
       "onboard_time": 1728117919,
       "rank": 11,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 753747,
-      "num": 202435,
-      "word": "商场回应男厕玻璃磨砂女厕透明",
-      "onboard_time": 1728120739,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 709556,
@@ -371,14 +379,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 451129,
-      "num": 451129,
-      "word": "哀牢山景区发布安全警示",
-      "onboard_time": 1728120618,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 415680,
       "num": 275457,
       "word": "国庆假期趵突泉鱼被撑死了",
@@ -411,6 +411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 381175,
+      "num": 381175,
+      "word": "郑钦文vs穆霍娃",
+      "onboard_time": 1728102739,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 372321,
       "num": 231560,
       "word": "35岁再考清华当事人将再考",
@@ -425,6 +433,14 @@
       "onboard_time": 1728055458,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 360799,
+      "num": 207046,
+      "word": "杨超越自爆喜欢单眼皮骨相帅哥",
+      "onboard_time": 1728120680,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 350775,
@@ -465,6 +481,14 @@
       "onboard_time": 1728094397,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 337558,
+      "num": 205858,
+      "word": "赵露思录卸妆视频",
+      "onboard_time": 1728121280,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 335844,
@@ -515,14 +539,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 307222,
-      "num": 207046,
-      "word": "杨超越自爆喜欢单眼皮骨相帅哥",
-      "onboard_time": 1728120680,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 294476,
       "num": 294476,
       "word": "年轻人假期整顿婚礼",
@@ -537,14 +553,6 @@
       "onboard_time": 1728109699,
       "rank": 29,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 290926,
-      "num": 205858,
-      "word": "赵露思录卸妆视频",
-      "onboard_time": 1728121280,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 286643,
@@ -699,6 +707,14 @@
       "category": "体育,网红"
     },
     {
+      "raw_hot": 235091,
+      "num": 235091,
+      "word": "伊拉克小伙刚来中国听到喇叭都害怕",
+      "onboard_time": 1728123379,
+      "rank": 14,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 232671,
       "num": 232671,
       "word": "哀牢山地理环境极为复杂",
@@ -763,14 +779,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 214079,
-      "num": 214079,
-      "word": "郑钦文vs穆霍娃",
-      "onboard_time": 1728102739,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 207853,
       "num": 207853,
       "word": "中国UP",
@@ -816,6 +824,14 @@
       "word": "医院回应幼童游乐场溺水沉底",
       "onboard_time": 1728102618,
       "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 196515,
+      "num": 196515,
+      "word": "77岁老人成为武汉最特别的游客",
+      "onboard_time": 1728121040,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -985,6 +1001,14 @@
       "onboard_time": 1728115880,
       "rank": 30,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 171428,
+      "num": 171428,
+      "word": "许昕说想恢复一下看看啥水平",
+      "onboard_time": 1728123318,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 171107,
@@ -1275,28 +1299,12 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 142106,
-      "num": 142106,
-      "word": "77岁老人成为武汉最特别的游客",
-      "onboard_time": 1728121040,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 141809,
       "num": 141809,
       "word": "女子穿汉服探访神秘哀牢山",
       "onboard_time": 1728119959,
       "rank": 42,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 141134,
-      "num": 208624,
-      "word": "伊拉克小伙刚来中国听到喇叭都害怕",
-      "onboard_time": 1728123379,
-      "rank": 14,
-      "category": "国外时政"
     },
     {
       "raw_hot": 139217,
@@ -1363,12 +1371,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 134840,
+      "num": 134840,
+      "word": "彭昱畅新片看得我一愣接一愣",
+      "onboard_time": 1728123499,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 134594,
       "num": 134594,
       "word": "你好这有一只社恐大熊猫",
       "onboard_time": 1728102978,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 134591,
+      "num": 134591,
+      "word": "许昕透露比赛安排",
+      "onboard_time": 1728123679,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 134442,
@@ -1435,6 +1459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 129139,
+      "num": 129139,
+      "word": "没认出来张大大",
+      "onboard_time": 1728123858,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 128913,
       "num": 128913,
       "word": "国庆入境游增速或将超出境游",
@@ -1483,12 +1515,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 125836,
+      "num": 125836,
+      "word": "扎克伯格成世界第二大富豪",
+      "onboard_time": 1728124099,
+      "rank": 34,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 125826,
       "num": 125826,
       "word": "7天快速减肥运动课表",
       "onboard_time": 1728112158,
       "rank": 47,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 125578,
+      "num": 125578,
+      "word": "兵马俑上夜班",
+      "onboard_time": 1728120317,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 125154,
@@ -1515,12 +1563,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 123873,
-      "num": 123873,
-      "word": "彭昱畅新片看得我一愣接一愣",
-      "onboard_time": 1728123499,
-      "rank": 34,
-      "category": "电影"
+      "raw_hot": 124086,
+      "num": 124086,
+      "word": "5个小孩哥凑够25块钱过生日",
+      "onboard_time": 1728121158,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 123628,
@@ -1601,6 +1649,14 @@
       "onboard_time": 1728106398,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 115920,
+      "num": 115920,
+      "word": "白鹿一天配六场哭戏",
+      "onboard_time": 1728123379,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 115809,
@@ -1739,14 +1795,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 109276,
-      "num": 109276,
-      "word": "许昕说想恢复一下看看啥水平",
-      "onboard_time": 1728123318,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 108486,
       "num": 188401,
       "word": "2NE1演唱会",
@@ -1760,14 +1808,6 @@
       "word": "打卡哀牢山带上消防员的安全攻略",
       "onboard_time": 1728118937,
       "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 108041,
-      "num": 108041,
-      "word": "兵马俑上夜班",
-      "onboard_time": 1728120317,
-      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -1835,14 +1875,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 103102,
-      "num": 103102,
-      "word": "白鹿一天配六场哭戏",
-      "onboard_time": 1728123379,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 102863,
       "num": 102863,
       "word": "付航 懂的人都知道门道有多深",
@@ -1856,6 +1888,14 @@
       "word": "威少掘金首秀12分",
       "onboard_time": 1728092478,
       "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 101755,
+      "num": 101755,
+      "word": "老狼为郑钦文挑边",
+      "onboard_time": 1728124159,
+      "rank": 46,
       "category": "体育"
     },
     {
@@ -1884,7 +1924,7 @@
     },
     {
       "raw_hot": 99504,
-      "num": 99504,
+      "num": 109323,
       "word": "高芙晋级中网决赛",
       "onboard_time": 1728121639,
       "rank": 44,
@@ -1937,6 +1977,22 @@
       "onboard_time": 1728087437,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 95458,
+      "num": 95458,
+      "word": "你是一分没花吃个七七八八",
+      "onboard_time": 1728124699,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 95027,
+      "num": 95027,
+      "word": "无人机组成中国奥运健儿奖牌数字",
+      "onboard_time": 1728124579,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 95007,
@@ -2137,6 +2193,14 @@
       "onboard_time": 1728064693,
       "rank": 21,
       "category": "演出"
+    },
+    {
+      "raw_hot": 72580,
+      "num": 135057,
+      "word": "假期返程大军已上路",
+      "onboard_time": 1728124638,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 72174,
@@ -2436,7 +2500,7 @@
     },
     {
       "raw_hot": 42259,
-      "num": 426074,
+      "num": 513307,
       "word": "国庆文旅弘扬国韵花式翻新",
       "onboard_time": 1728117799,
       "rank": 2,
