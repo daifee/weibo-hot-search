@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1728110567504,
+  "endTime": 1728112893689,
   "band_list": [
     {
       "raw_hot": 11925969,
@@ -451,6 +451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1076669,
+      "num": 388219,
+      "word": "全红婵国宴打包第一人",
+      "onboard_time": 1728107719,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1069438,
       "num": 367795,
       "word": "谁在县城买几千万的豪宅",
@@ -777,14 +785,6 @@
       "onboard_time": 1728026478,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 834620,
-      "num": 245402,
-      "word": "全红婵国宴打包第一人",
-      "onboard_time": 1728107719,
-      "rank": 20,
-      "category": "体育"
     },
     {
       "raw_hot": 828403,
@@ -1347,6 +1347,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 632634,
+      "num": 527015,
+      "word": "徐州多人占铁轨拍照逼停火车头",
+      "onboard_time": 1728107719,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 632239,
       "num": 632239,
       "word": "梁靖崑vs林高远",
@@ -1451,6 +1459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 610458,
+      "num": 244953,
+      "word": "月薪18000住家保姆的一天",
+      "onboard_time": 1728108139,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 608309,
       "num": 478070,
       "word": "全红婵国庆节又回家带娃了",
@@ -1531,14 +1547,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 590167,
-      "num": 244953,
-      "word": "月薪18000住家保姆的一天",
-      "onboard_time": 1728108139,
-      "rank": 21,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 588542,
       "num": 318549,
       "word": "GEN战胜WBG",
@@ -1609,14 +1617,6 @@
       "onboard_time": 1728046339,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 574264,
-      "num": 527015,
-      "word": "徐州多人占铁轨拍照逼停火车头",
-      "onboard_time": 1728107719,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 571095,
@@ -2025,6 +2025,14 @@
       "onboard_time": 1727914097,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 492702,
+      "num": 492702,
+      "word": "王曼昱vs陈幸同",
+      "onboard_time": 1728109759,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 492168,
@@ -2867,6 +2875,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 345680,
+      "num": 345680,
+      "word": "王楚钦梁靖崑回应夺冠",
+      "onboard_time": 1728110959,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 342733,
       "num": 342733,
       "word": "用我的方式祝福祖国",
@@ -3393,6 +3409,14 @@
       "onboard_time": 1727808732,
       "rank": 12,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 292309,
+      "num": 566939,
+      "word": "阿根廷总统米莱称将访华",
+      "onboard_time": 1728109699,
+      "rank": 29,
+      "category": "国内时政"
     },
     {
       "raw_hot": 290987,
@@ -3979,6 +4003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 261504,
+      "num": 199616,
+      "word": "王楚钦神救球",
+      "onboard_time": 1728110238,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 261348,
       "num": 255122,
       "word": "杨超越 纪凌尘像被人偷了脑子",
@@ -4273,14 +4305,6 @@
       "onboard_time": 1727778200,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 243794,
-      "num": 243794,
-      "word": "王曼昱vs陈幸同",
-      "onboard_time": 1728109759,
-      "rank": 15,
-      "category": "体育"
     },
     {
       "raw_hot": 242729,
@@ -5523,6 +5547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 195487,
+      "num": 195487,
+      "word": "王楚钦按下冠军手模",
+      "onboard_time": 1728112280,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 195431,
       "num": 195431,
       "word": "告别所谓的朋友圈精致生活了",
@@ -5883,6 +5915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 188932,
+      "num": 188932,
+      "word": "何与自爆喜欢搞笑女",
+      "onboard_time": 1728111559,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 188776,
       "num": 171685,
       "word": "赵露思白色深v针织衫",
@@ -6219,6 +6259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 179849,
+      "num": 179849,
+      "word": "哀牢山危险不仅是野兽那么简单",
+      "onboard_time": 1728107177,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 179836,
       "num": 789933,
       "word": "亲爱的祖国生日快乐",
@@ -6387,6 +6435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 176108,
+      "num": 176108,
+      "word": "趵突泉景区称水质好不需要人工投喂",
+      "onboard_time": 1728106217,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 176059,
       "num": 176059,
       "word": "749局预测票房超9亿",
@@ -6505,14 +6561,6 @@
       "onboard_time": 1728037398,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 173500,
-      "num": 566939,
-      "word": "阿根廷总统米莱称将访华",
-      "onboard_time": 1728109699,
-      "rank": 29,
-      "category": "国内时政"
     },
     {
       "raw_hot": 173062,
@@ -6833,14 +6881,6 @@
       "onboard_time": 1727967919,
       "rank": 35,
       "category": "美食"
-    },
-    {
-      "raw_hot": 165656,
-      "num": 165656,
-      "word": "哀牢山危险不仅是野兽那么简单",
-      "onboard_time": 1728107177,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 165535,
@@ -7843,14 +7883,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 144741,
-      "num": 144741,
-      "word": "趵突泉景区称水质好不需要人工投喂",
-      "onboard_time": 1728106217,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 144605,
       "num": 144605,
       "word": "张雨霏看得全神贯注",
@@ -8033,6 +8065,14 @@
       "onboard_time": 1728023658,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 140340,
+      "num": 140340,
+      "word": "上海偶遇李秀满sunny",
+      "onboard_time": 1728110599,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 140247,
@@ -8627,6 +8667,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 132478,
+      "num": 434981,
+      "word": "专家解释地磁暴对人体影响",
+      "onboard_time": 1728111258,
+      "rank": 8,
+      "category": "自然"
+    },
+    {
       "raw_hot": 132469,
       "num": 237167,
       "word": "国庆假期他们坚守战位的样子真帅",
@@ -8899,6 +8947,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 128367,
+      "num": 147003,
+      "word": "燃烧的月亮",
+      "onboard_time": 1728111019,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 128349,
       "num": 128349,
       "word": "华晨宇首个大莲花四面台演唱会",
@@ -8993,6 +9049,14 @@
       "onboard_time": 1727778799,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 126540,
+      "num": 126540,
+      "word": "八段锦超详细跟练教程",
+      "onboard_time": 1728112338,
+      "rank": 34,
+      "category": "运动健身"
     },
     {
       "raw_hot": 126439,
@@ -9339,11 +9403,11 @@
       "category": "电影"
     },
     {
-      "raw_hot": 120333,
-      "num": 120333,
-      "word": "王楚钦神救球",
-      "onboard_time": 1728110238,
-      "rank": 41,
+      "raw_hot": 120086,
+      "num": 120086,
+      "word": "梁靖崑说这个冠军等了很久",
+      "onboard_time": 1728112579,
+      "rank": 36,
       "category": "体育"
     },
     {
@@ -9753,6 +9817,14 @@
       "onboard_time": 1728104839,
       "rank": 24,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 114536,
+      "num": 114536,
+      "word": "王曼昱4比2陈幸同",
+      "onboard_time": 1728112817,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 114434,
@@ -10603,6 +10675,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 101434,
+      "num": 101434,
+      "word": "柠栀结婚啦",
+      "onboard_time": 1728112817,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 101401,
       "num": 101401,
       "word": "旅行是关系的验金石吗",
@@ -10793,6 +10873,14 @@
       "onboard_time": 1727923037,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 98062,
+      "num": 98062,
+      "word": "7天快速减肥运动课表",
+      "onboard_time": 1728112158,
+      "rank": 47,
+      "category": "运动健身"
     },
     {
       "raw_hot": 97866,
@@ -11321,6 +11409,14 @@
       "onboard_time": 1728041360,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 86041,
+      "num": 94740,
+      "word": "林依轮发了披哥睡姿大赏",
+      "onboard_time": 1728111078,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 85583,
@@ -12912,6 +13008,14 @@
       "word": "亲亲的长街新新的模样",
       "onboard_time": 1727702842,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 41169,
+      "num": 397570,
+      "word": "民警经历13天高强度抓捕蜷缩睡着",
+      "onboard_time": 1728111618,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
