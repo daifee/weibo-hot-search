@@ -1,6 +1,6 @@
 {
   "startTime": 1727540758074,
-  "endTime": 1728102400833,
+  "endTime": 1728103262549,
   "band_list": [
     {
       "raw_hot": 11925969,
@@ -403,6 +403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1361811,
+      "num": 1361811,
+      "word": "哀牢山堵车",
+      "onboard_time": 1728100038,
+      "rank": 1,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 1361321,
       "num": 745002,
       "word": "马龙采访被儿子打断",
@@ -737,14 +745,6 @@
       "onboard_time": 1727794402,
       "rank": 15,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1048536,
-      "num": 1048536,
-      "word": "哀牢山堵车",
-      "onboard_time": 1728100038,
-      "rank": 1,
-      "category": "旅游"
     },
     {
       "raw_hot": 1044271,
@@ -1332,7 +1332,7 @@
     },
     {
       "raw_hot": 769920,
-      "num": 337024,
+      "num": 368437,
       "word": "黎巴嫩9岁女孩腿被炸断",
       "onboard_time": 1728098118,
       "rank": 28,
@@ -1668,7 +1668,7 @@
     },
     {
       "raw_hot": 687000,
-      "num": 332231,
+      "num": 361271,
       "word": "郑钦文头号劲敌爆冷淘汰",
       "onboard_time": 1728098899,
       "rank": 25,
@@ -3668,7 +3668,7 @@
     },
     {
       "raw_hot": 392844,
-      "num": 329061,
+      "num": 358285,
       "word": "BIGBANG完整体出演MAMA",
       "onboard_time": 1728098958,
       "rank": 14,
@@ -4841,6 +4841,14 @@
       "onboard_time": 1727658799,
       "rank": 17,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 304561,
+      "num": 304561,
+      "word": "小伙工地干活一年换一部手机",
+      "onboard_time": 1728102198,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 303634,
@@ -6219,6 +6227,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 242459,
+      "num": 155913,
+      "word": "安妮海瑟薇回归公主日记3",
+      "onboard_time": 1728102797,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 242110,
       "num": 242110,
       "word": "林高远6小时三战",
@@ -7313,6 +7329,14 @@
       "onboard_time": 1727700619,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 208192,
+      "num": 154690,
+      "word": "Jasper中文名陈昊廷",
+      "onboard_time": 1728103216,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 207853,
@@ -8587,6 +8611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 189003,
+      "num": 387054,
+      "word": "他们坚定前行是为守护身后万千笑脸",
+      "onboard_time": 1728102918,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 188776,
       "num": 171685,
       "word": "赵露思白色深v针织衫",
@@ -9811,6 +9843,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 167466,
+      "num": 167466,
+      "word": "孙颖莎今天两场比赛",
+      "onboard_time": 1728101778,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 167447,
       "num": 167447,
       "word": "祁煜 敦煌飞天",
@@ -10947,12 +10987,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 151170,
+      "num": 151170,
+      "word": "凤凰传奇抢票",
+      "onboard_time": 1728102678,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
       "raw_hot": 151137,
       "num": 151137,
       "word": "罗永浩 脱口秀悖论",
       "onboard_time": 1727785460,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 151137,
+      "num": 151137,
+      "word": "黎巴嫩医务人员说在恐惧中工作很难",
+      "onboard_time": 1728098298,
+      "rank": 44,
+      "category": "国外时政"
     },
     {
       "raw_hot": 151013,
@@ -11659,14 +11715,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 141001,
-      "num": 141001,
-      "word": "黎巴嫩医务人员说在恐惧中工作很难",
-      "onboard_time": 1728098298,
-      "rank": 44,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 140985,
       "num": 140985,
       "word": "A股大涨多个银行大额存单被转让",
@@ -12305,6 +12353,14 @@
       "onboard_time": 1728037157,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 134594,
+      "num": 134594,
+      "word": "你好这有一只社恐大熊猫",
+      "onboard_time": 1728102978,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 134517,
@@ -13283,6 +13339,22 @@
       "category": "演出,体育"
     },
     {
+      "raw_hot": 125290,
+      "num": 125290,
+      "word": "医院回应幼童游乐场溺水沉底",
+      "onboard_time": 1728102618,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 125154,
+      "num": 125154,
+      "word": "张艺兴费加罗封面",
+      "onboard_time": 1728102557,
+      "rank": 43,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 125038,
       "num": 125038,
       "word": "何广智挨骂的原因找到了",
@@ -13433,14 +13505,6 @@
       "onboard_time": 1728027499,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 123624,
-      "num": 123624,
-      "word": "小伙工地干活一年换一部手机",
-      "onboard_time": 1728102198,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 123585,
@@ -13641,14 +13705,6 @@
       "onboard_time": 1727701280,
       "rank": 49,
       "category": "财经"
-    },
-    {
-      "raw_hot": 121051,
-      "num": 121051,
-      "word": "孙颖莎今天两场比赛",
-      "onboard_time": 1728101778,
-      "rank": 37,
-      "category": "体育"
     },
     {
       "raw_hot": 121037,
@@ -13873,6 +13929,14 @@
       "onboard_time": 1727778438,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 119124,
+      "num": 119124,
+      "word": "布朗尼大帽对手",
+      "onboard_time": 1728102078,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 119080,
@@ -14739,6 +14803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 110114,
+      "num": 110114,
+      "word": "对视是人类的精神接吻",
+      "onboard_time": 1728103160,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 109901,
       "num": 109901,
       "word": "第五人格赛事",
@@ -15448,14 +15520,6 @@
       "word": "WTT中国大满贯今日决出首冠",
       "onboard_time": 1728023420,
       "rank": 47,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 101587,
-      "num": 101587,
-      "word": "布朗尼大帽对手",
-      "onboard_time": 1728102078,
-      "rank": 46,
       "category": "体育"
     },
     {
@@ -17459,6 +17523,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 63458,
+      "num": 303182,
+      "word": "掉入法律咨询服务圈套的人",
+      "onboard_time": 1728102258,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 62770,
       "num": 61455,
       "word": "LNG战胜TL",
@@ -18067,6 +18139,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 49987,
+      "num": 125164,
+      "word": "宁波两医生上演现实版好人有好报",
+      "onboard_time": 1728101237,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 49706,
       "num": 106098,
       "word": "尊崇热爱中华文明",
@@ -18409,14 +18489,6 @@
       "onboard_time": 1727948239,
       "rank": 29,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 43689,
-      "num": 121139,
-      "word": "宁波两医生上演现实版好人有好报",
-      "onboard_time": 1728101237,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 43345,
@@ -19131,6 +19203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 30700,
+      "num": 227179,
+      "word": "国庆的雪山上长满了累趴下的游客",
+      "onboard_time": 1728102439,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 30581,
       "num": 140032,
       "word": "北京大隐于市的秋日秘境",
@@ -19548,7 +19628,7 @@
     },
     {
       "raw_hot": 24034,
-      "num": 794224,
+      "num": 852353,
       "word": "国庆入境游增速将超过出境游",
       "onboard_time": 1728049940,
       "rank": 2,
@@ -19889,6 +19969,14 @@
       "onboard_time": 1727837058,
       "rank": 28,
       "category": "财经"
+    },
+    {
+      "raw_hot": 18811,
+      "num": 377059,
+      "word": "商竣程vs阿尔卡拉斯",
+      "onboard_time": 1728103098,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 18742,
@@ -20243,6 +20331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 11553,
+      "num": 156801,
+      "word": "户外团出行不能有脚就行",
+      "onboard_time": 1728102739,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 11188,
       "num": 32437,
       "word": "930向人民英雄敬献花篮仪式",
@@ -20273,14 +20369,6 @@
       "onboard_time": 1727878280,
       "rank": 18,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 9336,
-      "num": 281006,
-      "word": "掉入法律咨询服务圈套的人",
-      "onboard_time": 1728102258,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 9163,

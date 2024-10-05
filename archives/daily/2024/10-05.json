@@ -1,6 +1,6 @@
 {
   "startTime": 1728059303809,
-  "endTime": 1728102400833,
+  "endTime": 1728103262549,
   "band_list": [
     {
       "raw_hot": 2341065,
@@ -27,20 +27,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1361811,
+      "num": 1361811,
+      "word": "哀牢山堵车",
+      "onboard_time": 1728100038,
+      "rank": 1,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 1340761,
       "num": 782086,
       "word": "你好星期六全员cos经典男主角",
       "onboard_time": 1728096258,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1048536,
-      "num": 1048536,
-      "word": "哀牢山堵车",
-      "onboard_time": 1728100038,
-      "rank": 1,
-      "category": "旅游"
     },
     {
       "raw_hot": 927616,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 769920,
-      "num": 337024,
+      "num": 368437,
       "word": "黎巴嫩9岁女孩腿被炸断",
       "onboard_time": 1728098118,
       "rank": 28,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 687000,
-      "num": 332231,
+      "num": 361271,
       "word": "郑钦文头号劲敌爆冷淘汰",
       "onboard_time": 1728098899,
       "rank": 25,
@@ -188,7 +188,7 @@
     },
     {
       "raw_hot": 392844,
-      "num": 329061,
+      "num": 358285,
       "word": "BIGBANG完整体出演MAMA",
       "onboard_time": 1728098958,
       "rank": 14,
@@ -249,6 +249,14 @@
       "onboard_time": 1728090317,
       "rank": 5,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 304561,
+      "num": 304561,
+      "word": "小伙工地干活一年换一部手机",
+      "onboard_time": 1728102198,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 294476,
@@ -347,6 +355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 242459,
+      "num": 155913,
+      "word": "安妮海瑟薇回归公主日记3",
+      "onboard_time": 1728102797,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 241900,
       "num": 241900,
       "word": "第五人格黯",
@@ -369,6 +385,14 @@
       "onboard_time": 1728097338,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 208192,
+      "num": 154690,
+      "word": "Jasper中文名陈昊廷",
+      "onboard_time": 1728103216,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 207853,
@@ -401,6 +425,14 @@
       "onboard_time": 1728085217,
       "rank": 36,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 189003,
+      "num": 387054,
+      "word": "他们坚定前行是为守护身后万千笑脸",
+      "onboard_time": 1728102918,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 186364,
@@ -491,6 +523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 167466,
+      "num": 167466,
+      "word": "孙颖莎今天两场比赛",
+      "onboard_time": 1728101778,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 166810,
       "num": 166810,
       "word": "J人男友为出国女友写37页PPT攻略",
@@ -571,6 +611,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 151170,
+      "num": 151170,
+      "word": "凤凰传奇抢票",
+      "onboard_time": 1728102678,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 151137,
+      "num": 151137,
+      "word": "黎巴嫩医务人员说在恐惧中工作很难",
+      "onboard_time": 1728098298,
+      "rank": 44,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 147742,
       "num": 147742,
       "word": "WTT",
@@ -601,14 +657,6 @@
       "onboard_time": 1728085335,
       "rank": 28,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 141001,
-      "num": 141001,
-      "word": "黎巴嫩医务人员说在恐惧中工作很难",
-      "onboard_time": 1728098298,
-      "rank": 44,
-      "category": "国外时政"
     },
     {
       "raw_hot": 137696,
@@ -649,6 +697,14 @@
       "onboard_time": 1728098599,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 134594,
+      "num": 134594,
+      "word": "你好这有一只社恐大熊猫",
+      "onboard_time": 1728102978,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 134442,
@@ -699,6 +755,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 125290,
+      "num": 125290,
+      "word": "医院回应幼童游乐场溺水沉底",
+      "onboard_time": 1728102618,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 125154,
+      "num": 125154,
+      "word": "张艺兴费加罗封面",
+      "onboard_time": 1728102557,
+      "rank": 43,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 124876,
       "num": 188512,
       "word": "何洁叛逆被化妆师记了快20年",
@@ -712,14 +784,6 @@
       "word": "33岁中国男子涉嫌用热咖啡泼伤婴儿后出逃",
       "onboard_time": 1728041059,
       "rank": 25,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 123624,
-      "num": 123624,
-      "word": "小伙工地干活一年换一部手机",
-      "onboard_time": 1728102198,
-      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -747,14 +811,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 121051,
-      "num": 121051,
-      "word": "孙颖莎今天两场比赛",
-      "onboard_time": 1728101778,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 121037,
       "num": 121037,
       "word": "朴彩英将回归",
@@ -768,6 +824,14 @@
       "word": "郑钦文创造多项个人纪录",
       "onboard_time": 1728093977,
       "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 119124,
+      "num": 119124,
+      "word": "布朗尼大帽对手",
+      "onboard_time": 1728102078,
+      "rank": 46,
       "category": "体育"
     },
     {
@@ -843,6 +907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 110114,
+      "num": 110114,
+      "word": "对视是人类的精神接吻",
+      "onboard_time": 1728103160,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 109900,
       "num": 214156,
       "word": "中欧技术团队将继续关税谈判",
@@ -912,14 +984,6 @@
       "word": "威少掘金首秀12分",
       "onboard_time": 1728092478,
       "rank": 41,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 101587,
-      "num": 101587,
-      "word": "布朗尼大帽对手",
-      "onboard_time": 1728102078,
-      "rank": 46,
       "category": "体育"
     },
     {
@@ -1163,6 +1227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 63458,
+      "num": 303182,
+      "word": "掉入法律咨询服务圈套的人",
+      "onboard_time": 1728102258,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 62434,
       "num": 188169,
       "word": "郑钦文水杯亮了",
@@ -1241,6 +1313,14 @@
       "onboard_time": 1728093798,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 49987,
+      "num": 125164,
+      "word": "宁波两医生上演现实版好人有好报",
+      "onboard_time": 1728101237,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 49601,
@@ -1331,14 +1411,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 43689,
-      "num": 121139,
-      "word": "宁波两医生上演现实版好人有好报",
-      "onboard_time": 1728101237,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 41052,
       "num": 92215,
       "word": "宋亚轩低U透视内搭",
@@ -1361,6 +1433,14 @@
       "onboard_time": 1728063434,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 30700,
+      "num": 227179,
+      "word": "国庆的雪山上长满了累趴下的游客",
+      "onboard_time": 1728102439,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 29131,
@@ -1404,7 +1484,7 @@
     },
     {
       "raw_hot": 24034,
-      "num": 794224,
+      "num": 852353,
       "word": "国庆入境游增速将超过出境游",
       "onboard_time": 1728049940,
       "rank": 2,
@@ -1449,6 +1529,14 @@
       "onboard_time": 1728069911,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 18811,
+      "num": 377059,
+      "word": "商竣程vs阿尔卡拉斯",
+      "onboard_time": 1728103098,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 18095,
@@ -1499,11 +1587,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 9336,
-      "num": 281006,
-      "word": "掉入法律咨询服务圈套的人",
-      "onboard_time": 1728102258,
-      "rank": 14,
+      "raw_hot": 11553,
+      "num": 156801,
+      "word": "户外团出行不能有脚就行",
+      "onboard_time": 1728102739,
+      "rank": 29,
       "category": "社会新闻"
     }
   ],
