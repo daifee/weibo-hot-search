@@ -1,6 +1,6 @@
 {
   "startTime": 1728059303809,
-  "endTime": 1728117637921,
+  "endTime": 1728120266171,
   "band_list": [
     {
       "raw_hot": 2363617,
@@ -155,6 +155,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 756849,
+      "num": 208748,
+      "word": "我在哀牢山很想你",
+      "onboard_time": 1728117919,
+      "rank": 11,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 709556,
       "num": 324429,
       "word": "王楚钦和马琳儿子聊天",
@@ -275,6 +283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 555128,
+      "num": 319880,
+      "word": "小雪 张百乔你离我丽颖远点",
+      "onboard_time": 1728116720,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 547412,
       "num": 547412,
       "word": "孙颖莎4比0范思琦",
@@ -299,6 +315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 476259,
+      "num": 202796,
+      "word": "教育局回应学生举报补课被怼",
+      "onboard_time": 1728117198,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 465619,
       "num": 243329,
       "word": "穆婷婷白月光回国",
@@ -313,14 +337,6 @@
       "onboard_time": 1728096977,
       "rank": 39,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 452052,
-      "num": 319880,
-      "word": "小雪 张百乔你离我丽颖远点",
-      "onboard_time": 1728116720,
-      "rank": 44,
-      "category": "电影"
     },
     {
       "raw_hot": 415680,
@@ -355,6 +371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 384320,
+      "num": 201678,
+      "word": "王楚钦说非常渴望双打冠军",
+      "onboard_time": 1728117679,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 372321,
       "num": 231560,
       "word": "35岁再考清华当事人将再考",
@@ -369,6 +393,14 @@
       "onboard_time": 1728055458,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 350775,
+      "num": 350775,
+      "word": "孙颖莎决赛对阵王曼昱",
+      "onboard_time": 1728115760,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 345680,
@@ -393,14 +425,6 @@
       "onboard_time": 1728094397,
       "rank": 28,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 336151,
-      "num": 336151,
-      "word": "孙颖莎决赛对阵王曼昱",
-      "onboard_time": 1728115760,
-      "rank": 17,
-      "category": "体育"
     },
     {
       "raw_hot": 335844,
@@ -465,6 +489,14 @@
       "onboard_time": 1728109699,
       "rank": 29,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 286643,
+      "num": 234590,
+      "word": "女子要求邻居安装的摄像头调整角度",
+      "onboard_time": 1728114979,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 282896,
@@ -595,14 +627,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 234590,
-      "num": 234590,
-      "word": "女子要求邻居安装的摄像头调整角度",
-      "onboard_time": 1728114979,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 232646,
       "num": 232646,
       "word": "老战士找到牺牲战友名字哭红了眼",
@@ -641,6 +665,14 @@
       "onboard_time": 1728097338,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 216481,
+      "num": 216481,
+      "word": "郑钦文VOGUE封面",
+      "onboard_time": 1728117079,
+      "rank": 23,
+      "category": "体育,网红"
     },
     {
       "raw_hot": 214123,
@@ -699,14 +731,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 192908,
-      "num": 192908,
-      "word": "郑钦文VOGUE封面",
-      "onboard_time": 1728117079,
-      "rank": 23,
-      "category": "体育,网红"
-    },
-    {
       "raw_hot": 191647,
       "num": 191647,
       "word": "宋雨琦叶舒华唱了superstar",
@@ -745,6 +769,14 @@
       "onboard_time": 1728116599,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 186379,
+      "num": 186379,
+      "word": "王楚钦再次回应单打失利",
+      "onboard_time": 1728119240,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 186364,
@@ -987,14 +1019,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 160416,
-      "num": 160416,
-      "word": "教育局回应学生举报补课被怼",
-      "onboard_time": 1728117198,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 156862,
       "num": 146189,
       "word": "S14瑞士轮第三轮抽签",
@@ -1043,6 +1067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 153567,
+      "num": 230453,
+      "word": "郭麒麟太会总结付航了",
+      "onboard_time": 1728116239,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 153289,
       "num": 153289,
       "word": "湖人vs森林狼",
@@ -1052,7 +1084,7 @@
     },
     {
       "raw_hot": 153138,
-      "num": 153138,
+      "num": 212552,
       "word": "萌兰也忍不住摸了摸自己的脸",
       "onboard_time": 1728115338,
       "rank": 31,
@@ -1131,6 +1163,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 139085,
+      "num": 139085,
+      "word": "陈芋汐红秀封面",
+      "onboard_time": 1728117440,
+      "rank": 43,
+      "category": "体育,时尚"
+    },
+    {
       "raw_hot": 137696,
       "num": 137696,
       "word": "桂林超强嗦粉阵容官宣",
@@ -1177,6 +1217,14 @@
       "onboard_time": 1728098599,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 134603,
+      "num": 128293,
+      "word": "哀牢山晚上会释放大量二氧化碳",
+      "onboard_time": 1728119658,
+      "rank": 30,
+      "category": "旅游"
     },
     {
       "raw_hot": 134594,
@@ -1257,6 +1305,14 @@
       "onboard_time": 1728067873,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 128416,
+      "num": 128416,
+      "word": "孙颖莎四个字评价自己打的好球",
+      "onboard_time": 1728119240,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 128367,
@@ -1379,6 +1435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 118470,
+      "num": 118470,
+      "word": "苏州一夜市惊现券商摊位",
+      "onboard_time": 1728119480,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 117426,
       "num": 117426,
       "word": "年轻人爱上非洲游",
@@ -1409,6 +1473,14 @@
       "onboard_time": 1728114860,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 115520,
+      "num": 244238,
+      "word": "晚退两小时被收半天房费合理吗",
+      "onboard_time": 1728117079,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 115076,
@@ -1531,14 +1603,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 107204,
-      "num": 107204,
-      "word": "陈芋汐红秀封面",
-      "onboard_time": 1728117440,
-      "rank": 43,
-      "category": "体育,时尚"
-    },
-    {
       "raw_hot": 107013,
       "num": 188392,
       "word": "郑钦文坦言和张雨霏很有缘",
@@ -1587,6 +1651,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 104233,
+      "num": 104233,
+      "word": "女子穿汉服探访神秘哀牢山",
+      "onboard_time": 1728119959,
+      "rank": 42,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 103336,
       "num": 295651,
       "word": "深圳万架无人机表演为祖国庆生",
@@ -1601,6 +1673,14 @@
       "onboard_time": 1728099619,
       "rank": 49,
       "category": "网红"
+    },
+    {
+      "raw_hot": 102863,
+      "num": 102863,
+      "word": "付航 懂的人都知道门道有多深",
+      "onboard_time": 1728118638,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 102443,
@@ -1643,12 +1723,36 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 98020,
+      "num": 186452,
+      "word": "宝宝在警车里出生取名小景媛",
+      "onboard_time": 1728120079,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 97808,
       "num": 97808,
       "word": "天刀光夜破次元同框",
       "onboard_time": 1728095419,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 97646,
+      "num": 195960,
+      "word": "哀牢山地理环境极为复杂",
+      "onboard_time": 1728117980,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 97099,
+      "num": 97099,
+      "word": "李玉刚 新贵妃躲酒",
+      "onboard_time": 1728120018,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 96241,
@@ -1697,6 +1801,14 @@
       "onboard_time": 1728090379,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 94405,
+      "num": 94405,
+      "word": "打卡哀牢山带上消防员的安全攻略",
+      "onboard_time": 1728118937,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 93731,
@@ -1803,14 +1915,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 81775,
-      "num": 230453,
-      "word": "郭麒麟太会总结付航了",
-      "onboard_time": 1728116239,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 81230,
       "num": 188273,
       "word": "张雨霏差点被郑钦文的球砸中",
@@ -1889,6 +1993,14 @@
       "onboard_time": 1728045439,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 65912,
+      "num": 745219,
+      "word": "数据看国庆假期活力图景",
+      "onboard_time": 1728105139,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 65318,
@@ -2001,6 +2113,14 @@
       "onboard_time": 1728084374,
       "rank": 38,
       "category": "游戏,互联网"
+    },
+    {
+      "raw_hot": 54094,
+      "num": 112716,
+      "word": "刘宇 每一年都把东方美带出去",
+      "onboard_time": 1728118699,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 52115,
@@ -2163,14 +2283,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 39103,
-      "num": 745219,
-      "word": "数据看国庆假期活力图景",
-      "onboard_time": 1728105139,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 39077,
       "num": 42717,
       "word": "国庆人人人你人人人名场面",
@@ -2192,6 +2304,14 @@
       "word": "我国空间科学卫星从无到有闪耀太空",
       "onboard_time": 1728105499,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 31277,
+      "num": 385267,
+      "word": "国庆文旅弘扬国韵花式翻新",
+      "onboard_time": 1728117799,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -2232,6 +2352,14 @@
       "word": "奋斗中国的美丽剪影",
       "onboard_time": 1728105919,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 27708,
+      "num": 193993,
+      "word": "被青绿配色文物硬控了",
+      "onboard_time": 1728118281,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -2281,14 +2409,6 @@
       "onboard_time": 1728116720,
       "rank": 39,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 23054,
-      "num": 244238,
-      "word": "晚退两小时被收半天房费合理吗",
-      "onboard_time": 1728117079,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 22188,
