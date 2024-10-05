@@ -1,6 +1,6 @@
 {
   "startTime": 1728059303809,
-  "endTime": 1728105646448,
+  "endTime": 1728106719191,
   "band_list": [
     {
       "raw_hot": 2341065,
@@ -41,6 +41,14 @@
       "onboard_time": 1728096258,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1063172,
+      "num": 296103,
+      "word": "刘亦菲谈不进组的原因",
+      "onboard_time": 1728103518,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 927616,
@@ -203,14 +211,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 426340,
-      "num": 296103,
-      "word": "刘亦菲谈不进组的原因",
-      "onboard_time": 1728103518,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 415680,
       "num": 275457,
       "word": "国庆假期趵突泉鱼被撑死了",
@@ -267,11 +267,27 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 335844,
+      "num": 296089,
+      "word": "付航吃法餐",
+      "onboard_time": 1728104718,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 326715,
       "num": 220809,
       "word": "国庆第一批宅家旅游者出现了",
       "onboard_time": 1728095658,
       "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 320847,
+      "num": 296059,
+      "word": "撑死的胖锦鲤并没有被保安带回家",
+      "onboard_time": 1728103338,
+      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -283,12 +299,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 296059,
-      "num": 296059,
-      "word": "撑死的胖锦鲤并没有被保安带回家",
-      "onboard_time": 1728103338,
-      "rank": 22,
-      "category": "社会新闻"
+      "raw_hot": 315242,
+      "num": 263054,
+      "word": "杨鸣 克里斯",
+      "onboard_time": 1728104358,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 294476,
@@ -353,14 +369,6 @@
       "onboard_time": 1728094880,
       "rank": 42,
       "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 263054,
-      "num": 263054,
-      "word": "杨鸣 克里斯",
-      "onboard_time": 1728104358,
-      "rank": 26,
-      "category": "体育"
     },
     {
       "raw_hot": 260168,
@@ -435,20 +443,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 204813,
+      "num": 204813,
+      "word": "工地小伙买万元三星手机充电时冒烟",
+      "onboard_time": 1728104418,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 203739,
       "num": 203739,
       "word": "不计划不赶热闹不打卡的旅游太爽了",
       "onboard_time": 1728080352,
       "rank": 34,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 199966,
-      "num": 199966,
-      "word": "工地小伙买万元三星手机充电时冒烟",
-      "onboard_time": 1728104418,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 197824,
@@ -473,6 +481,14 @@
       "onboard_time": 1728085217,
       "rank": 36,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 190562,
+      "num": 190562,
+      "word": "喜剧之王 虞书欣预告",
+      "onboard_time": 1728105798,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 189003,
@@ -539,6 +555,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 172825,
+      "num": 296110,
+      "word": "林高远林诗栋vs王楚钦梁靖崑",
+      "onboard_time": 1728104598,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 171978,
       "num": 171978,
       "word": "跳海救人未果当事人发声",
@@ -553,6 +577,14 @@
       "onboard_time": 1728101118,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 170131,
+      "num": 170131,
+      "word": "趵突泉景区回应鲤鱼被撑死",
+      "onboard_time": 1728105798,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 168686,
@@ -667,14 +699,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 153606,
-      "num": 296089,
-      "word": "付航吃法餐",
-      "onboard_time": 1728104718,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 153289,
       "num": 153289,
       "word": "湖人vs森林狼",
@@ -723,6 +747,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 144741,
+      "num": 144741,
+      "word": "趵突泉景区称水质好不需要人工投喂",
+      "onboard_time": 1728106217,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 144460,
+      "num": 296069,
+      "word": "假期余额只剩3天",
+      "onboard_time": 1728104118,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 142775,
       "num": 142775,
       "word": "哀牢山当地人称不敢贸然进深山",
@@ -745,6 +785,14 @@
       "onboard_time": 1728052220,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 136935,
+      "num": 136935,
+      "word": "年轻人疯抢的翡翠都是破烂边角料",
+      "onboard_time": 1728105258,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 136640,
@@ -859,14 +907,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 122265,
-      "num": 122265,
-      "word": "年轻人疯抢的翡翠都是破烂边角料",
-      "onboard_time": 1728105258,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 121751,
       "num": 121751,
       "word": "中餐厅收官",
@@ -907,14 +947,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 119881,
-      "num": 296069,
-      "word": "假期余额只剩3天",
-      "onboard_time": 1728104118,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 119642,
       "num": 119642,
       "word": "何广智神仙导游",
@@ -931,6 +963,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 117343,
+      "num": 117343,
+      "word": "付辛博胡夏二选一得到早安",
+      "onboard_time": 1728106398,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 115809,
       "num": 243817,
       "word": "蒯曼林诗栋混双冠军",
@@ -939,12 +979,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 115410,
-      "num": 296110,
-      "word": "林高远林诗栋vs王楚钦梁靖崑",
-      "onboard_time": 1728104598,
-      "rank": 14,
-      "category": "体育"
+      "raw_hot": 115076,
+      "num": 115076,
+      "word": "七夜雪预约",
+      "onboard_time": 1728106699,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 114662,
@@ -953,6 +993,14 @@
       "onboard_time": 1728103998,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 114554,
+      "num": 297198,
+      "word": "河南5A级景区1元午餐游客狂赞",
+      "onboard_time": 1728104839,
+      "rank": 24,
+      "category": "旅游"
     },
     {
       "raw_hot": 114082,
@@ -1001,6 +1049,14 @@
       "onboard_time": 1728042499,
       "rank": 34,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 112028,
+      "num": 296155,
+      "word": "浴火之路二刷",
+      "onboard_time": 1728105018,
+      "rank": 8,
+      "category": "电影"
     },
     {
       "raw_hot": 110251,
@@ -1099,28 +1155,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 97996,
-      "num": 296155,
-      "word": "浴火之路二刷",
-      "onboard_time": 1728105018,
-      "rank": 8,
-      "category": "电影"
-    },
-    {
       "raw_hot": 97808,
       "num": 97808,
       "word": "天刀光夜破次元同框",
       "onboard_time": 1728095419,
       "rank": 44,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 96586,
-      "num": 266993,
-      "word": "河南5A级景区1元午餐游客狂赞",
-      "onboard_time": 1728104839,
-      "rank": 24,
-      "category": "旅游"
     },
     {
       "raw_hot": 96241,
@@ -1275,6 +1315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 79513,
+      "num": 296075,
+      "word": "Jasper英文介绍上海",
+      "onboard_time": 1728105379,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 79117,
       "num": 220320,
       "word": "WBG战胜TL",
@@ -1289,6 +1337,14 @@
       "onboard_time": 1728041839,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 74436,
+      "num": 227614,
+      "word": "中东滑向全面战争",
+      "onboard_time": 1728105858,
+      "rank": 18,
+      "category": "国外时政"
     },
     {
       "raw_hot": 73295,
@@ -1403,14 +1459,6 @@
       "category": "游戏,互联网"
     },
     {
-      "raw_hot": 54243,
-      "num": 296075,
-      "word": "Jasper英文介绍上海",
-      "onboard_time": 1728105379,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 52115,
       "num": 188132,
       "word": "下一战歌手",
@@ -1420,7 +1468,7 @@
     },
     {
       "raw_hot": 51403,
-      "num": 147043,
+      "num": 298169,
       "word": "志愿军战士用小家分离换来万家团圆",
       "onboard_time": 1728104118,
       "rank": 37,
@@ -1587,6 +1635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 28894,
+      "num": 123344,
+      "word": "一代代报国者的不辜负",
+      "onboard_time": 1728105858,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 28296,
       "num": 150622,
       "word": "自驾川西遇大量落石众人自发清理",
@@ -1611,6 +1667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 25345,
+      "num": 296148,
+      "word": "我国空间科学卫星从无到有闪耀太空",
+      "onboard_time": 1728105499,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 25202,
       "num": 30595,
       "word": "下一战歌手第六期彩排直击",
@@ -1623,6 +1687,14 @@
       "num": 852353,
       "word": "国庆入境游增速将超过出境游",
       "onboard_time": 1728049940,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 23688,
+      "num": 584352,
+      "word": "奋斗中国的美丽剪影",
+      "onboard_time": 1728105919,
       "rank": 2,
       "category": "社会新闻"
     },
@@ -1728,14 +1800,6 @@
       "word": "户外团出行不能有脚就行",
       "onboard_time": 1728102739,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 8285,
-      "num": 296148,
-      "word": "我国空间科学卫星从无到有闪耀太空",
-      "onboard_time": 1728105499,
-      "rank": 9,
       "category": "社会新闻"
     }
   ],

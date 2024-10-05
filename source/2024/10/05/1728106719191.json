@@ -1,0 +1,410 @@
+{
+  "runTime": 1728106719191,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1488103,
+        "num": 1488103,
+        "word": "得知我是中国人对方撤回了请立即离开",
+        "onboard_time": 1728098239,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1099286,
+        "num": 1099286,
+        "word": "哀牢山堵车",
+        "onboard_time": 1728100038,
+        "rank": 1,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 23688,
+        "num": 584352,
+        "word": "奋斗中国的美丽剪影",
+        "onboard_time": 1728105919,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 546024,
+        "num": 546024,
+        "word": "哀牢山存在大地磁场强度异常的现象",
+        "onboard_time": 1728089658,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 390931,
+        "num": 390931,
+        "word": "你好星期六全员cos经典男主角",
+        "onboard_time": 1728096258,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 321321,
+        "num": 321321,
+        "word": "未来3天可能发生强地磁活动",
+        "onboard_time": 1728083834,
+        "rank": 5,
+        "category": "社会新闻,国内时政"
+      },
+      {
+        "raw_hot": 307941,
+        "num": 307941,
+        "word": "公主日记3",
+        "onboard_time": 1728100219,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 36837,
+        "num": 298169,
+        "word": "志愿军战士用小家分离换来万家团圆",
+        "onboard_time": 1728104118,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 114554,
+        "num": 297198,
+        "word": "河南5A级景区1元午餐游客狂赞",
+        "onboard_time": 1728104839,
+        "rank": 8,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 25345,
+        "num": 284758,
+        "word": "我国空间科学卫星从无到有闪耀太空",
+        "onboard_time": 1728105499,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1063172,
+        "num": 268985,
+        "word": "刘亦菲谈不进组的原因",
+        "onboard_time": 1728103518,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 806893,
+        "num": 259786,
+        "word": "小伙工地干活一年换一部手机",
+        "onboard_time": 1728102198,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 646455,
+        "num": 252043,
+        "word": "许嵩 医美我确实还没体验过",
+        "onboard_time": 1728103578,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 247202,
+        "num": 247202,
+        "word": "以后中国强大了一定要来看我",
+        "onboard_time": 1728096977,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 510261,
+        "num": 246254,
+        "word": "Jasper中文名陈昊廷",
+        "onboard_time": 1728103216,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 404951,
+        "num": 241676,
+        "word": "黎巴嫩9岁女孩腿被炸断",
+        "onboard_time": 1728098118,
+        "rank": 15,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 359424,
+        "num": 235588,
+        "word": "郑钦文头号劲敌爆冷淘汰",
+        "onboard_time": 1728098899,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 335844,
+        "num": 230563,
+        "word": "付航吃法餐",
+        "onboard_time": 1728104718,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 74436,
+        "num": 227614,
+        "word": "中东滑向全面战争",
+        "onboard_time": 1728105858,
+        "rank": 18,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 315242,
+        "num": 223251,
+        "word": "杨鸣 克里斯",
+        "onboard_time": 1728104358,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 320847,
+        "num": 217679,
+        "word": "撑死的胖锦鲤并没有被保安带回家",
+        "onboard_time": 1728103338,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 312584,
+        "num": 212238,
+        "word": "老公被隐形家务整崩溃想离家出走",
+        "onboard_time": 1728091278,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 209783,
+        "num": 209783,
+        "word": "安妮海瑟薇回归公主日记3",
+        "onboard_time": 1728102797,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 207350,
+        "num": 207350,
+        "word": "哀牢山",
+        "onboard_time": 1728091638,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207062,
+        "num": 207062,
+        "word": "BIGBANG完整体出演MAMA",
+        "onboard_time": 1728098958,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 204813,
+        "num": 204813,
+        "word": "工地小伙买万元三星手机充电时冒烟",
+        "onboard_time": 1728104418,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190562,
+        "num": 190562,
+        "word": "喜剧之王 虞书欣预告",
+        "onboard_time": 1728105798,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188986,
+        "num": 188986,
+        "word": "医院回应幼童游乐场溺水沉底",
+        "onboard_time": 1728102618,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183027,
+        "num": 183027,
+        "word": "任嘉伦 三折叠怎么折都be",
+        "onboard_time": 1728089357,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172825,
+        "num": 172825,
+        "word": "林高远林诗栋vs王楚钦梁靖崑",
+        "onboard_time": 1728104598,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 170131,
+        "num": 170131,
+        "word": "趵突泉景区回应鲤鱼被撑死",
+        "onboard_time": 1728105798,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168302,
+        "num": 168302,
+        "word": "美英联军对也门发动12次空袭",
+        "onboard_time": 1728104298,
+        "rank": 31,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 163238,
+        "num": 163238,
+        "word": "35岁再考清华当事人将再考",
+        "onboard_time": 1728094697,
+        "rank": 32,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 112028,
+        "num": 157972,
+        "word": "浴火之路二刷",
+        "onboard_time": 1728105018,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 155750,
+        "num": 155750,
+        "word": "国庆假期第5天",
+        "onboard_time": 1728086236,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144741,
+        "num": 144741,
+        "word": "趵突泉景区称水质好不需要人工投喂",
+        "onboard_time": 1728106217,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 79513,
+        "num": 144502,
+        "word": "Jasper英文介绍上海",
+        "onboard_time": 1728105379,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144460,
+        "num": 144460,
+        "word": "假期余额只剩3天",
+        "onboard_time": 1728104118,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143253,
+        "num": 143253,
+        "word": "文韬cos江直树",
+        "onboard_time": 1728100939,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115249,
+        "num": 142811,
+        "word": "他们坚定前行是为守护身后万千笑脸",
+        "onboard_time": 1728102918,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 142555,
+        "num": 142555,
+        "word": "J人男友为出国女友写37页PPT攻略",
+        "onboard_time": 1728101358,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136935,
+        "num": 136935,
+        "word": "年轻人疯抢的翡翠都是破烂边角料",
+        "onboard_time": 1728105258,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134979,
+        "num": 134979,
+        "word": "对视是人类的精神接吻",
+        "onboard_time": 1728103160,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123882,
+        "num": 123882,
+        "word": "孙颖莎今天两场比赛",
+        "onboard_time": 1728101778,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 28894,
+        "num": 123344,
+        "word": "一代代报国者的不辜负",
+        "onboard_time": 1728105858,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123240,
+        "num": 123240,
+        "word": "又一条高铁要来了",
+        "onboard_time": 1728090257,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122703,
+        "num": 122703,
+        "word": "布朗尼大帽对手",
+        "onboard_time": 1728102078,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119578,
+        "num": 119578,
+        "word": "男子高速上开启自动驾驶撞上水马",
+        "onboard_time": 1728092778,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117343,
+        "num": 117343,
+        "word": "付辛博胡夏二选一得到早安",
+        "onboard_time": 1728106398,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115076,
+        "num": 115076,
+        "word": "七夜雪预约",
+        "onboard_time": 1728106699,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#新时代的中国活力满满热气腾腾#"
+    }
+  }
+}
