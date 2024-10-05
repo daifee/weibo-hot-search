@@ -1,6 +1,6 @@
 {
   "startTime": 1728145573126,
-  "endTime": 1728148800903,
+  "endTime": 1728149837130,
   "band_list": [
     {
       "raw_hot": 1023363,
@@ -411,6 +411,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 66764,
+      "num": 66764,
+      "word": "檀健次南京演唱会",
+      "onboard_time": 1728126199,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
       "raw_hot": 58135,
       "num": 75103,
       "word": "LNG晋级S14八强",
@@ -433,6 +441,30 @@
       "onboard_time": 1728134299,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 50077,
+      "num": 50077,
+      "word": "华晨宇和粉丝双向奔赴的浪漫",
+      "onboard_time": 1728149295,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 48956,
+      "num": 48956,
+      "word": "崔杋圭唱了永不失联的爱",
+      "onboard_time": 1728149055,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 47768,
+      "num": 47768,
+      "word": "那英澳门演唱会",
+      "onboard_time": 1728130399,
+      "rank": 44,
+      "category": "演出"
     },
     {
       "raw_hot": 47024,
