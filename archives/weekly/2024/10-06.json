@@ -1,6 +1,6 @@
 {
   "startTime": 1728145573126,
-  "endTime": 1728166835700,
+  "endTime": 1728167917516,
   "band_list": [
     {
       "raw_hot": 1023363,
@@ -219,6 +219,22 @@
       "category": "数码"
     },
     {
+      "raw_hot": 148315,
+      "num": 47469,
+      "word": "中东局势到了最危急时刻",
+      "onboard_time": 1728155112,
+      "rank": 30,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 141926,
+      "num": 49021,
+      "word": "游客因拍照起冲突在受气瓶前争吵",
+      "onboard_time": 1728154873,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 132249,
       "num": 132249,
       "word": "杨千嬅重庆演唱会",
@@ -241,14 +257,6 @@
       "onboard_time": 1728132740,
       "rank": 7,
       "category": "体育"
-    },
-    {
-      "raw_hot": 117516,
-      "num": 47469,
-      "word": "中东局势到了最危急时刻",
-      "onboard_time": 1728155112,
-      "rank": 30,
-      "category": "国外时政"
     },
     {
       "raw_hot": 114701,
@@ -363,14 +371,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 94428,
-      "num": 48265,
-      "word": "游客因拍照起冲突在受气瓶前争吵",
-      "onboard_time": 1728154873,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 93215,
       "num": 93215,
       "word": "央视新闻夜读",
@@ -435,8 +435,8 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 71212,
-      "num": 40210,
+      "raw_hot": 75370,
+      "num": 46183,
       "word": "大量民众从黎巴嫩进入叙利亚避难",
       "onboard_time": 1728157512,
       "rank": 22,
@@ -507,16 +507,24 @@
       "category": "演出"
     },
     {
+      "raw_hot": 42503,
+      "num": 42503,
+      "word": "游客自驾驶入罗布泊被困弃车徒步返回",
+      "onboard_time": 1728165552,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 32516,
-      "num": 36120,
+      "num": 37609,
       "word": "你嗜睡的锅地磁暴可不背",
       "onboard_time": 1728159370,
       "rank": 48,
       "category": "科学科普,健康医疗"
     },
     {
-      "raw_hot": 28649,
-      "num": 36211,
+      "raw_hot": 31518,
+      "num": 37617,
       "word": "哀牢山本地人称进山要怀敬畏之心",
       "onboard_time": 1728137420,
       "rank": 42,
@@ -531,12 +539,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 25293,
-      "num": 25293,
-      "word": "游客自驾驶入罗布泊被困弃车徒步返回",
-      "onboard_time": 1728165552,
-      "rank": 37,
-      "category": "社会新闻"
+      "raw_hot": 21929,
+      "num": 37579,
+      "word": "马龙为秦志戬送上生日祝福",
+      "onboard_time": 1728167112,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 18205,
@@ -579,7 +587,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1876,
+      "raw_hot": 1983,
       "num": 286629,
       "word": "日记里的中国",
       "onboard_time": 1728036080,
