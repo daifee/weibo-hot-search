@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1728135359638,
+  "endTime": 1728137920434,
   "band_list": [
     {
       "raw_hot": 11925969,
@@ -329,6 +329,14 @@
       "onboard_time": 1728039439,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1320277,
+      "num": 256876,
+      "word": "你好星期六没发下期预告",
+      "onboard_time": 1728134780,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 1312532,
@@ -1075,6 +1083,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 761988,
+      "num": 256969,
+      "word": "以色列多层导弹拦截系统疑似破防",
+      "onboard_time": 1728135019,
+      "rank": 32,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 758844,
       "num": 758844,
       "word": "中国坚定支持联合国秘书长工作",
@@ -1379,6 +1395,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 669437,
+      "num": 256726,
+      "word": "于正身上痒就去洗澡",
+      "onboard_time": 1728136098,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 668751,
       "num": 668751,
       "word": "误乘误降火车可免费换乘",
@@ -1465,6 +1489,14 @@
       "onboard_time": 1727772740,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 640750,
+      "num": 256430,
+      "word": "郑钦文说昨天做了错误决定",
+      "onboard_time": 1728136340,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 639876,
@@ -1672,6 +1704,14 @@
       "word": "马龙说或许这是最后一次国际赛",
       "onboard_time": 1727879300,
       "rank": 27,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 607250,
+      "num": 607250,
+      "word": "马龙说自己实力不如梁靖崑",
+      "onboard_time": 1728134299,
+      "rank": 26,
       "category": "体育"
     },
     {
@@ -2113,6 +2153,14 @@
       "onboard_time": 1727956280,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 523623,
+      "num": 256306,
+      "word": "LNG战胜DK",
+      "onboard_time": 1728136941,
+      "rank": 16,
+      "category": "电竞"
     },
     {
       "raw_hot": 522372,
@@ -2883,6 +2931,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 386314,
+      "num": 256011,
+      "word": "LNG晋级S14八强",
+      "onboard_time": 1728136941,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 385654,
       "num": 237594,
       "word": "上海有二手房涨价百万",
@@ -3131,6 +3187,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 353611,
+      "num": 197165,
+      "word": "肖凯文 祝贺头哥崑哥双打夺冠",
+      "onboard_time": 1728134361,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 353377,
       "num": 353377,
       "word": "男子触电被3轮救援抢回一命",
@@ -3177,14 +3241,6 @@
       "onboard_time": 1727953820,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 348474,
-      "num": 177204,
-      "word": "肖凯文 祝贺头哥崑哥双打夺冠",
-      "onboard_time": 1728134361,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 348376,
@@ -3529,6 +3585,14 @@
       "onboard_time": 1727774000,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 311674,
+      "num": 242657,
+      "word": "DK对战LNG",
+      "onboard_time": 1728129742,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 311102,
@@ -4443,14 +4507,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 260638,
-      "num": 218721,
-      "word": "马龙说自己实力不如梁靖崑",
-      "onboard_time": 1728134299,
-      "rank": 26,
-      "category": "体育"
-    },
-    {
       "raw_hot": 260168,
       "num": 260168,
       "word": "文韬cos江直树",
@@ -5081,6 +5137,14 @@
       "onboard_time": 1727781678,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 228577,
+      "num": 492814,
+      "word": "刀郎演唱会",
+      "onboard_time": 1728132259,
+      "rank": 44,
+      "category": "演出"
     },
     {
       "raw_hot": 228379,
@@ -5891,14 +5955,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 199859,
-      "num": 199859,
-      "word": "DK对战LNG",
-      "onboard_time": 1728129742,
-      "rank": 41,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 199300,
       "num": 199300,
       "word": "王俊凯祝大家国庆假期愉快",
@@ -6043,14 +6099,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 196583,
-      "num": 173320,
-      "word": "你好星期六没发下期预告",
-      "onboard_time": 1728134780,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 196515,
       "num": 196515,
       "word": "77岁老人成为武汉最特别的游客",
@@ -6161,6 +6209,14 @@
       "onboard_time": 1728038479,
       "rank": 48,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 195036,
+      "num": 195036,
+      "word": "Gala说哪怕输也要我们五个人输",
+      "onboard_time": 1728136340,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 194962,
@@ -6883,6 +6939,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 179588,
+      "num": 179588,
+      "word": "单依纯 随地大小睡",
+      "onboard_time": 1728134959,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 179209,
       "num": 179209,
       "word": "男双决赛",
@@ -7449,14 +7513,6 @@
       "onboard_time": 1728101778,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 167322,
-      "num": 167322,
-      "word": "以色列多层导弹拦截系统疑似破防",
-      "onboard_time": 1728135019,
-      "rank": 32,
-      "category": "国外时政"
     },
     {
       "raw_hot": 167290,
@@ -8363,14 +8419,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 149742,
-      "num": 492814,
-      "word": "刀郎演唱会",
-      "onboard_time": 1728132259,
-      "rank": 44,
-      "category": "演出"
-    },
-    {
       "raw_hot": 149603,
       "num": 449142,
       "word": "一份份清澈的爱汇聚成今日中国",
@@ -8419,8 +8467,8 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 148813,
-      "num": 148813,
+      "raw_hot": 149037,
+      "num": 149037,
       "word": "夏之光喜欢杨超越的反面类型",
       "onboard_time": 1728134480,
       "rank": 47,
@@ -8441,14 +8489,6 @@
       "onboard_time": 1727935878,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 147899,
-      "num": 147899,
-      "word": "单依纯 随地大小睡",
-      "onboard_time": 1728134959,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 147699,
@@ -8761,6 +8801,14 @@
       "onboard_time": 1728085335,
       "rank": 28,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 142643,
+      "num": 142643,
+      "word": "李玉刚工作室发声明",
+      "onboard_time": 1728137660,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 142547,
@@ -9195,6 +9243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 136884,
+      "num": 136884,
+      "word": "胡塞武装称将让美国付出沉重代价",
+      "onboard_time": 1728137180,
+      "rank": 47,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 136575,
       "num": 214459,
       "word": "国庆节值得重温的阅兵画面",
@@ -9273,6 +9329,14 @@
       "onboard_time": 1727962100,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 135180,
+      "num": 135180,
+      "word": "AG对战WB",
+      "onboard_time": 1728135019,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 134935,
@@ -9705,14 +9769,6 @@
       "onboard_time": 1727877619,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 130387,
-      "num": 130387,
-      "word": "AG对战WB",
-      "onboard_time": 1728135019,
-      "rank": 44,
-      "category": "电竞"
     },
     {
       "raw_hot": 130242,
@@ -14219,6 +14275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 40913,
+      "num": 256564,
+      "word": "不少投资者国庆假期赴港开户",
+      "onboard_time": 1728137719,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 40782,
       "num": 92796,
       "word": "战火无情国家有爱",
@@ -14601,6 +14665,14 @@
       "onboard_time": 1728012738,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 30977,
+      "num": 138373,
+      "word": "大国工程瞰变化",
+      "onboard_time": 1728136280,
+      "rank": 44,
+      "category": "国内时政"
     },
     {
       "raw_hot": 30700,
@@ -15051,6 +15123,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 22087,
+      "num": 137756,
+      "word": "边防军人笑了我却哭了",
+      "onboard_time": 1728137541,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 22063,
       "num": 124845,
       "word": "徐德智回应被联合国秘书长表扬",
@@ -15073,6 +15153,14 @@
       "onboard_time": 1727856858,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 21626,
+      "num": 149481,
+      "word": "普吉岛海滩的天边落日",
+      "onboard_time": 1728137240,
+      "rank": 39,
+      "category": "旅游"
     },
     {
       "raw_hot": 21385,
