@@ -1,6 +1,6 @@
 {
   "startTime": 1728145573126,
-  "endTime": 1728156911261,
+  "endTime": 1728159727078,
   "band_list": [
     {
       "raw_hot": 1023363,
@@ -379,6 +379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 82817,
+      "num": 48265,
+      "word": "游客因拍照起冲突在受气瓶前争吵",
+      "onboard_time": 1728154873,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 81450,
       "num": 81450,
       "word": "十个勤天巡演郑州站",
@@ -419,6 +427,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 72218,
+      "num": 47469,
+      "word": "中东局势到了最危急时刻",
+      "onboard_time": 1728155112,
+      "rank": 30,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 66764,
       "num": 66764,
       "word": "檀健次南京演唱会",
@@ -433,22 +449,6 @@
       "onboard_time": 1728128359,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 60333,
-      "num": 47469,
-      "word": "中东局势到了最危急时刻",
-      "onboard_time": 1728155112,
-      "rank": 30,
-      "category": "国外时政"
-    },
-    {
-      "raw_hot": 58583,
-      "num": 48265,
-      "word": "游客因拍照起冲突在受气瓶前争吵",
-      "onboard_time": 1728154873,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 58135,
@@ -499,6 +499,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 28466,
+      "num": 36506,
+      "word": "大量民众从黎巴嫩进入叙利亚避难",
+      "onboard_time": 1728157512,
+      "rank": 22,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 28244,
       "num": 46323,
       "word": "粉丝音乐节现场为Henry庆生",
@@ -507,12 +515,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 19328,
+      "num": 36211,
+      "word": "哀牢山本地人称进山要怀敬畏之心",
+      "onboard_time": 1728137420,
+      "rank": 42,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 18205,
       "num": 47442,
       "word": "流水迢迢",
       "onboard_time": 1728154212,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 16389,
+      "num": 36120,
+      "word": "你嗜睡的锅地磁暴可不背",
+      "onboard_time": 1728159370,
+      "rank": 48,
+      "category": "科学科普,健康医疗"
     },
     {
       "raw_hot": 10734,
