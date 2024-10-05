@@ -1,6 +1,6 @@
 {
   "startTime": 1728145573126,
-  "endTime": 1728149837130,
+  "endTime": 1728152852387,
   "band_list": [
     {
       "raw_hot": 1023363,
@@ -41,6 +41,14 @@
       "onboard_time": 1728142458,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 493276,
+      "num": 493276,
+      "word": "假冒媒体杜撰网文被立案侦查",
+      "onboard_time": 1728150313,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 399136,
@@ -419,6 +427,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 60381,
+      "num": 74767,
+      "word": "钟丽丽 新疆人不是都会跳舞",
+      "onboard_time": 1728128359,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 58135,
       "num": 75103,
       "word": "LNG晋级S14八强",
@@ -444,7 +460,7 @@
     },
     {
       "raw_hot": 50077,
-      "num": 50077,
+      "num": 58426,
       "word": "华晨宇和粉丝双向奔赴的浪漫",
       "onboard_time": 1728149295,
       "rank": 40,
@@ -460,19 +476,11 @@
     },
     {
       "raw_hot": 47768,
-      "num": 47768,
+      "num": 58579,
       "word": "那英澳门演唱会",
       "onboard_time": 1728130399,
       "rank": 44,
       "category": "演出"
-    },
-    {
-      "raw_hot": 47024,
-      "num": 74767,
-      "word": "钟丽丽 新疆人不是都会跳舞",
-      "onboard_time": 1728128359,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 10734,
