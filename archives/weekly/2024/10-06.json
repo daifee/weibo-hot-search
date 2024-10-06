@@ -1,6 +1,6 @@
 {
   "startTime": 1728145573126,
-  "endTime": 1728192036073,
+  "endTime": 1728193065543,
   "band_list": [
     {
       "raw_hot": 1902792,
@@ -11,7 +11,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1420316,
+      "raw_hot": 1692862,
       "num": 279025,
       "word": "当事人回应在哀牢山拍写真",
       "onboard_time": 1728187817,
@@ -75,6 +75,14 @@
       "category": "自然"
     },
     {
+      "raw_hot": 799402,
+      "num": 270923,
+      "word": "胡冰卿草莓发夹还是太全面了",
+      "onboard_time": 1728186739,
+      "rank": 20,
+      "category": "电影"
+    },
+    {
       "raw_hot": 786513,
       "num": 1125842,
       "word": "12306抢票",
@@ -108,7 +116,7 @@
     },
     {
       "raw_hot": 747886,
-      "num": 266910,
+      "num": 272573,
       "word": "尿不湿的年纪打出世界冠军的水准",
       "onboard_time": 1728189258,
       "rank": 29,
@@ -139,14 +147,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 712050,
-      "num": 270923,
-      "word": "胡冰卿草莓发夹还是太全面了",
-      "onboard_time": 1728186739,
-      "rank": 20,
-      "category": "电影"
-    },
-    {
       "raw_hot": 572617,
       "num": 284642,
       "word": "结婚当天新娘哥哥趴车头索要彩礼",
@@ -171,8 +171,16 @@
       "category": "财经"
     },
     {
-      "raw_hot": 508075,
-      "num": 231379,
+      "raw_hot": 522639,
+      "num": 249893,
+      "word": "大爷还没意识到他马上成为景点",
+      "onboard_time": 1728191719,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 519775,
+      "num": 249464,
       "word": "马龙 GOAT",
       "onboard_time": 1728189018,
       "rank": 32,
@@ -443,19 +451,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 277228,
-      "num": 184558,
-      "word": "大爷还没意识到他马上成为景点",
-      "onboard_time": 1728191719,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 272699,
-      "num": 218534,
+      "num": 224866,
       "word": "樊振东小时候和现在的相同之处",
       "onboard_time": 1728188658,
       "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 271024,
+      "num": 271024,
+      "word": "王楚钦出席球员见面会",
+      "onboard_time": 1728188837,
+      "rank": 30,
       "category": "体育"
     },
     {
@@ -489,14 +497,6 @@
       "onboard_time": 1728171615,
       "rank": 8,
       "category": "数码"
-    },
-    {
-      "raw_hot": 255618,
-      "num": 236253,
-      "word": "王楚钦出席球员见面会",
-      "onboard_time": 1728188837,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 253289,
@@ -587,12 +587,28 @@
       "category": "教育"
     },
     {
-      "raw_hot": 217846,
-      "num": 217846,
+      "raw_hot": 219301,
+      "num": 219301,
       "word": "足协因考虑舆情没给国足包机",
       "onboard_time": 1728190039,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 217196,
+      "num": 274587,
+      "word": "志愿军2口碑",
+      "onboard_time": 1728188479,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 207275,
+      "num": 207275,
+      "word": "立威廉 霸总祖师爷",
+      "onboard_time": 1728192019,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 206440,
@@ -640,6 +656,14 @@
       "word": "749局是有点预言在的",
       "onboard_time": 1728142038,
       "rank": 23,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 193003,
+      "num": 193003,
+      "word": "彭昱畅演技骗过微表情专家",
+      "onboard_time": 1728190159,
+      "rank": 31,
       "category": "电影"
     },
     {
@@ -691,12 +715,12 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 184249,
-      "num": 184249,
-      "word": "彭昱畅演技骗过微表情专家",
-      "onboard_time": 1728190159,
-      "rank": 31,
-      "category": "电影"
+      "raw_hot": 183362,
+      "num": 340668,
+      "word": "抠门打工人半年给演唱会氪金190亿",
+      "onboard_time": 1728188057,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 181988,
@@ -713,14 +737,6 @@
       "onboard_time": 1728188780,
       "rank": 38,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 179389,
-      "num": 340668,
-      "word": "抠门打工人半年给演唱会氪金190亿",
-      "onboard_time": 1728188057,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 174286,
@@ -755,20 +771,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 160896,
-      "num": 274587,
-      "word": "志愿军2口碑",
-      "onboard_time": 1728188479,
-      "rank": 19,
-      "category": "电影"
-    },
-    {
       "raw_hot": 160723,
       "num": 160723,
       "word": "泰语版柳舟记太好笑了",
       "onboard_time": 1728180140,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 159547,
+      "num": 159547,
+      "word": "车车车车高速车车车车",
+      "onboard_time": 1728191178,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 157728,
@@ -835,6 +851,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 148260,
+      "num": 224577,
+      "word": "霉霉净资产",
+      "onboard_time": 1728191178,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 148101,
       "num": 148101,
       "word": "忙忙碌碌寻宝藏",
@@ -875,14 +899,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 140782,
-      "num": 140782,
-      "word": "车车车车高速车车车车",
-      "onboard_time": 1728191178,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 140530,
       "num": 242060,
       "word": "中朝建交75周年",
@@ -915,12 +931,28 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 133006,
+      "num": 133006,
+      "word": "UFC",
+      "onboard_time": 1728192918,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 132993,
       "num": 132993,
       "word": "券商今日起部分岗位全面复工",
       "onboard_time": 1728189619,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 132616,
+      "num": 132616,
+      "word": "一夜之间七八万条鱼丧生在台风天",
+      "onboard_time": 1728192077,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 132249,
@@ -936,6 +968,14 @@
       "word": "宠物领养协议有效吗",
       "onboard_time": 1728184397,
       "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 130395,
+      "num": 130395,
+      "word": "假冒媒体杜撰网文要查背后利益链",
+      "onboard_time": 1728189681,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -1011,14 +1051,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 121639,
-      "num": 121639,
-      "word": "立威廉 霸总祖师爷",
-      "onboard_time": 1728192019,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 121358,
       "num": 121358,
       "word": "音乐缘计划今晚玩的就是心跳",
@@ -1035,12 +1067,36 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 119954,
+      "num": 261374,
+      "word": "小西天爆火让更多人认识了隰字",
+      "onboard_time": 1728192678,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 117953,
+      "num": 244629,
+      "word": "赵丽颖浴火之路片场碎片",
+      "onboard_time": 1728192499,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 114701,
       "num": 114701,
       "word": "肖凯文 祝贺头哥崑哥双打夺冠",
       "onboard_time": 1728134361,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 114668,
+      "num": 114668,
+      "word": "战至巅峰有自己的无限流",
+      "onboard_time": 1728192738,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 114554,
@@ -1113,6 +1169,14 @@
       "onboard_time": 1728140059,
       "rank": 33,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 107869,
+      "num": 107869,
+      "word": "JENNIE新单曲预告",
+      "onboard_time": 1728192798,
+      "rank": 48,
+      "category": "音乐"
     },
     {
       "raw_hot": 107689,
@@ -1433,14 +1497,6 @@
       "onboard_time": 1728170955,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 46764,
-      "num": 224577,
-      "word": "霉霉净资产",
-      "onboard_time": 1728191178,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 44986,
