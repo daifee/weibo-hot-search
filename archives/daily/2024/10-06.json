@@ -1,10 +1,10 @@
 {
   "startTime": 1728145573126,
-  "endTime": 1728218338407,
+  "endTime": 1728219309438,
   "band_list": [
     {
-      "raw_hot": 3480623,
-      "num": 3480623,
+      "raw_hot": 8274483,
+      "num": 8274483,
       "word": "马龙vs林诗栋",
       "onboard_time": 1728212541,
       "rank": 4,
@@ -33,6 +33,22 @@
       "onboard_time": 1728208399,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1922979,
+      "num": 1922979,
+      "word": "林诗栋男单冠军",
+      "onboard_time": 1728218785,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1906437,
+      "num": 1906437,
+      "word": "马龙更换球拍",
+      "onboard_time": 1728216561,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 1902792,
@@ -81,14 +97,6 @@
       "onboard_time": 1728195978,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1420974,
-      "num": 1420974,
-      "word": "马龙更换球拍",
-      "onboard_time": 1728216561,
-      "rank": 1,
-      "category": "体育"
     },
     {
       "raw_hot": 1375361,
@@ -187,19 +195,19 @@
       "category": "自然"
     },
     {
+      "raw_hot": 988232,
+      "num": 988232,
+      "word": "12306客服回应火车票买长乘短",
+      "onboard_time": 1728215120,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 961319,
       "num": 472566,
       "word": "当地回应新娘哥嫂临时加彩礼18万",
       "onboard_time": 1728208458,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 958100,
-      "num": 958100,
-      "word": "12306客服回应火车票买长乘短",
-      "onboard_time": 1728215120,
-      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -323,6 +331,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 721032,
+      "num": 721032,
+      "word": "马龙正手狂轰",
+      "onboard_time": 1728216800,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 715422,
       "num": 715422,
       "word": "小西天爆火让更多人认识了隰字",
@@ -337,6 +353,14 @@
       "onboard_time": 1728185118,
       "rank": 35,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 675546,
+      "num": 675546,
+      "word": "孙颖莎女单项目积分过万",
+      "onboard_time": 1728214762,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 655954,
@@ -379,16 +403,16 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 609548,
-      "num": 609548,
-      "word": "孙颖莎女单项目积分过万",
-      "onboard_time": 1728214762,
-      "rank": 5,
+      "raw_hot": 590546,
+      "num": 416106,
+      "word": "孙颖莎连赢10分",
+      "onboard_time": 1728214102,
+      "rank": 22,
       "category": "体育"
     },
     {
       "raw_hot": 581573,
-      "num": 385500,
+      "num": 390254,
       "word": "张元英中国粉丝的1分钟恋人",
       "onboard_time": 1728216199,
       "rank": 13,
@@ -467,14 +491,6 @@
       "category": "作品衍生,幽默"
     },
     {
-      "raw_hot": 495129,
-      "num": 416106,
-      "word": "孙颖莎连赢10分",
-      "onboard_time": 1728214102,
-      "rank": 22,
-      "category": "体育"
-    },
-    {
       "raw_hot": 488790,
       "num": 409108,
       "word": "王楚钦球员见面会",
@@ -497,6 +513,14 @@
       "onboard_time": 1728202518,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 470324,
+      "num": 377435,
+      "word": "刘国梁为孙颖莎颁奖",
+      "onboard_time": 1728215780,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 469469,
@@ -553,6 +577,14 @@
       "onboard_time": 1728208099,
       "rank": 16,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 422422,
+      "num": 363752,
+      "word": "入职几月怀孕拒绝调薪调岗被辞退",
+      "onboard_time": 1728217399,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 422281,
@@ -620,7 +652,7 @@
     },
     {
       "raw_hot": 384839,
-      "num": 308240,
+      "num": 356948,
       "word": "马龙一切尽在掌控",
       "onboard_time": 1728215479,
       "rank": 21,
@@ -640,14 +672,6 @@
       "word": "女子穿僵尸服回小区吓到遛狗大爷",
       "onboard_time": 1728200898,
       "rank": 21,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 378512,
-      "num": 302710,
-      "word": "入职几月怀孕拒绝调薪调岗被辞退",
-      "onboard_time": 1728217399,
-      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -691,20 +715,20 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 370725,
-      "num": 370725,
-      "word": "马龙正手狂轰",
-      "onboard_time": 1728216800,
-      "rank": 16,
-      "category": "体育"
-    },
-    {
       "raw_hot": 370609,
       "num": 246909,
       "word": "光与夜之恋 线条小狗",
       "onboard_time": 1728188299,
       "rank": 25,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 364520,
+      "num": 364520,
+      "word": "我们的歌",
+      "onboard_time": 1728184938,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 362323,
@@ -721,6 +745,14 @@
       "onboard_time": 1728188178,
       "rank": 24,
       "category": "演出"
+    },
+    {
+      "raw_hot": 360009,
+      "num": 360009,
+      "word": "林诗栋反手好强",
+      "onboard_time": 1728216080,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 355573,
@@ -787,11 +819,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 326684,
-      "num": 326684,
-      "word": "刘国梁为孙颖莎颁奖",
-      "onboard_time": 1728215780,
-      "rank": 18,
+      "raw_hot": 325618,
+      "num": 325618,
+      "word": "孙颖莎葛优躺",
+      "onboard_time": 1728219144,
+      "rank": 27,
       "category": "体育"
     },
     {
@@ -819,6 +851,14 @@
       "category": "社会新闻,游戏"
     },
     {
+      "raw_hot": 311694,
+      "num": 311694,
+      "word": "王曼昱头发被吹飞了",
+      "onboard_time": 1728216681,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 307001,
       "num": 230645,
       "word": "网传新郎接亲被临时加要18万彩礼",
@@ -843,6 +883,30 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 299862,
+      "num": 299862,
+      "word": "王楚钦梁靖崑观战男单决赛",
+      "onboard_time": 1728218601,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 298194,
+      "num": 298194,
+      "word": "王曼昱被闪光灯干扰",
+      "onboard_time": 1728215780,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 298086,
+      "num": 298086,
+      "word": "我们的歌直播",
+      "onboard_time": 1728218601,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 297193,
       "num": 297193,
       "word": "为什么酒店里的被子睡完特别痒",
@@ -857,14 +921,6 @@
       "onboard_time": 1728185057,
       "rank": 30,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 295600,
-      "num": 295600,
-      "word": "王曼昱被闪光灯干扰",
-      "onboard_time": 1728215780,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 291039,
@@ -899,6 +955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 273534,
+      "num": 273534,
+      "word": "颜料公司回应哀牢山取材视频爆火",
+      "onboard_time": 1728218180,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 272699,
       "num": 224866,
       "word": "樊振东小时候和现在的相同之处",
@@ -920,14 +984,6 @@
       "word": "马龙vs梁靖崑",
       "onboard_time": 1728124880,
       "rank": 19,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 266006,
-      "num": 266006,
-      "word": "王曼昱头发被吹飞了",
-      "onboard_time": 1728216681,
-      "rank": 28,
       "category": "体育"
     },
     {
@@ -953,14 +1009,6 @@
       "onboard_time": 1728165552,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 259307,
-      "num": 259307,
-      "word": "林诗栋反手好强",
-      "onboard_time": 1728216080,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 258521,
@@ -1017,6 +1065,14 @@
       "onboard_time": 1728174496,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 245650,
+      "num": 245650,
+      "word": "TES对战FNC",
+      "onboard_time": 1728218360,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 243146,
@@ -1123,6 +1179,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 216482,
+      "num": 216482,
+      "word": "孙颖莎说在北京留下了最美好的回忆",
+      "onboard_time": 1728214641,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 214806,
+      "num": 214806,
+      "word": "胡歌亚洲内容大赏视帝",
+      "onboard_time": 1728216320,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 214425,
       "num": 214425,
       "word": "1男1女骑电动车半挂有娃婴儿车",
@@ -1137,6 +1209,22 @@
       "onboard_time": 1728193759,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 210086,
+      "num": 210086,
+      "word": "张钧甯顶级高定",
+      "onboard_time": 1728218001,
+      "rank": 37,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 207477,
+      "num": 207477,
+      "word": "安居乐烨",
+      "onboard_time": 1728218542,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 207275,
@@ -1171,11 +1259,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 204302,
-      "num": 204302,
-      "word": "胡歌亚洲内容大赏视帝",
-      "onboard_time": 1728216320,
-      "rank": 31,
+      "raw_hot": 204131,
+      "num": 204131,
+      "word": "杨幂西班牙之行vlog",
+      "onboard_time": 1728218481,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 202508,
+      "num": 202508,
+      "word": "暗河传",
+      "onboard_time": 1728218121,
+      "rank": 36,
       "category": "剧集"
     },
     {
@@ -1185,6 +1281,14 @@
       "onboard_time": 1728215960,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 200551,
+      "num": 200551,
+      "word": "孙颖莎回应中国大满贯夺冠",
+      "onboard_time": 1728214161,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 198642,
@@ -1283,14 +1387,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 191334,
-      "num": 191334,
-      "word": "孙颖莎回应中国大满贯夺冠",
-      "onboard_time": 1728214161,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
       "raw_hot": 188529,
       "num": 148611,
       "word": "甲状腺生病5个早期征兆",
@@ -1313,14 +1409,6 @@
       "onboard_time": 1728185118,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 185621,
-      "num": 185621,
-      "word": "暗河传",
-      "onboard_time": 1728218121,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 185568,
@@ -1379,36 +1467,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 175458,
-      "num": 175458,
-      "word": "张钧甯顶级高定",
-      "onboard_time": 1728218001,
-      "rank": 37,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 175175,
       "num": 175175,
       "word": "小西天被喊差评后疯狂宠游客",
       "onboard_time": 1728210798,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 174286,
-      "num": 174286,
-      "word": "我们的歌",
-      "onboard_time": 1728184938,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 173769,
-      "num": 173769,
-      "word": "孙颖莎说在北京留下了最美好的回忆",
-      "onboard_time": 1728214641,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 172115,
@@ -1539,6 +1603,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 156227,
+      "num": 212343,
+      "word": "火车票买短乘长或被劝导下车",
+      "onboard_time": 1728217760,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 155767,
+      "num": 155767,
+      "word": "捡到有编制的猫了",
+      "onboard_time": 1728219263,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 155416,
       "num": 155416,
       "word": "地质工作者在哀牢山也有很大风险",
@@ -1563,6 +1643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 153674,
+      "num": 153674,
+      "word": "股民担忧A股开盘第一天买不到",
+      "onboard_time": 1728218241,
+      "rank": 48,
+      "category": "财经"
+    },
+    {
       "raw_hot": 152851,
       "num": 152851,
       "word": "王子奇路透",
@@ -1585,22 +1673,6 @@
       "onboard_time": 1728210019,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 152564,
-      "num": 152564,
-      "word": "火车票买短乘长或被劝导下车",
-      "onboard_time": 1728217760,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 152345,
-      "num": 152345,
-      "word": "颜料公司回应哀牢山取材视频爆火",
-      "onboard_time": 1728218180,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 152307,
@@ -1665,14 +1737,6 @@
       "onboard_time": 1728199879,
       "rank": 35,
       "category": "艺人,作品衍生"
-    },
-    {
-      "raw_hot": 146972,
-      "num": 146972,
-      "word": "股民担忧A股开盘第一天买不到",
-      "onboard_time": 1728218241,
-      "rank": 48,
-      "category": "财经"
     },
     {
       "raw_hot": 146310,
@@ -2827,6 +2891,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 18066,
+      "num": 429610,
+      "word": "收好这份返程行车安全锦囊",
+      "onboard_time": 1728218843,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 16004,
+      "num": 1909057,
+      "word": "每一次与国旗同框都倍感骄傲",
+      "onboard_time": 1728218903,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 10734,
       "num": 252624,
       "word": "一首MV见证新中国75年变迁",
@@ -2879,6 +2959,9 @@
     },
     {
       "word": "#习近平说艰苦奋斗精神永远不能丢#"
+    },
+    {
+      "word": "#推动文化和旅游融合发展#"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1728218338407,
+  "endTime": 1728219309438,
   "band_list": [
     {
       "raw_hot": 11925969,
@@ -8,6 +8,14 @@
       "word": "王楚钦止步中国大满贯32强",
       "onboard_time": 1727789425,
       "rank": 3,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 8274483,
+      "num": 8274483,
+      "word": "马龙vs林诗栋",
+      "onboard_time": 1728212541,
+      "rank": 4,
       "category": "体育"
     },
     {
@@ -24,14 +32,6 @@
       "word": "王楚钦1比3林德",
       "onboard_time": 1727789425,
       "rank": 13,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 3480623,
-      "num": 3480623,
-      "word": "马龙vs林诗栋",
-      "onboard_time": 1728212541,
-      "rank": 4,
       "category": "体育"
     },
     {
@@ -163,12 +163,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1922979,
+      "num": 1922979,
+      "word": "林诗栋男单冠军",
+      "onboard_time": 1728218785,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1907090,
       "num": 321632,
       "word": "出入平安撤档",
       "onboard_time": 1727962400,
       "rank": 25,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1906437,
+      "num": 1906437,
+      "word": "马龙更换球拍",
+      "onboard_time": 1728216561,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 1902792,
@@ -345,14 +361,6 @@
       "onboard_time": 1728089658,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1420974,
-      "num": 1420974,
-      "word": "马龙更换球拍",
-      "onboard_time": 1728216561,
-      "rank": 1,
-      "category": "体育"
     },
     {
       "raw_hot": 1392155,
@@ -891,6 +899,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 988232,
+      "num": 988232,
+      "word": "12306客服回应火车票买长乘短",
+      "onboard_time": 1728215120,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 977659,
       "num": 351549,
       "word": "差点没认出来林允",
@@ -920,14 +936,6 @@
       "word": "当地回应新娘哥嫂临时加彩礼18万",
       "onboard_time": 1728208458,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 958100,
-      "num": 958100,
-      "word": "12306客服回应火车票买长乘短",
-      "onboard_time": 1728215120,
-      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -1563,6 +1571,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 721032,
+      "num": 721032,
+      "word": "马龙正手狂轰",
+      "onboard_time": 1728216800,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 719481,
       "num": 1115116,
       "word": "马龙vs李尚洙",
@@ -1705,6 +1721,14 @@
       "onboard_time": 1728046220,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 675546,
+      "num": 675546,
+      "word": "孙颖莎女单项目积分过万",
+      "onboard_time": 1728214762,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 675249,
@@ -2059,14 +2083,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 609548,
-      "num": 609548,
-      "word": "孙颖莎女单项目积分过万",
-      "onboard_time": 1728214762,
-      "rank": 5,
-      "category": "体育"
-    },
-    {
       "raw_hot": 608309,
       "num": 478070,
       "word": "全红婵国庆节又回家带娃了",
@@ -2163,6 +2179,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 590546,
+      "num": 416106,
+      "word": "孙颖莎连赢10分",
+      "onboard_time": 1728214102,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 588542,
       "num": 318549,
       "word": "GEN战胜WBG",
@@ -2204,7 +2228,7 @@
     },
     {
       "raw_hot": 581573,
-      "num": 385500,
+      "num": 390254,
       "word": "张元英中国粉丝的1分钟恋人",
       "onboard_time": 1728216199,
       "rank": 13,
@@ -2763,14 +2787,6 @@
       "category": "作品衍生,幽默"
     },
     {
-      "raw_hot": 495129,
-      "num": 416106,
-      "word": "孙颖莎连赢10分",
-      "onboard_time": 1728214102,
-      "rank": 22,
-      "category": "体育"
-    },
-    {
       "raw_hot": 494528,
       "num": 1079124,
       "word": "国庆天安门升旗仪式这个彩蛋看哭了",
@@ -2928,6 +2944,14 @@
       "word": "张雨霏差点被郑钦文的球砸中",
       "onboard_time": 1728047660,
       "rank": 16,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 470324,
+      "num": 377435,
+      "word": "刘国梁为孙颖莎颁奖",
+      "onboard_time": 1728215780,
+      "rank": 18,
       "category": "体育"
     },
     {
@@ -3267,6 +3291,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 422422,
+      "num": 363752,
+      "word": "入职几月怀孕拒绝调薪调岗被辞退",
+      "onboard_time": 1728217399,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 422281,
       "num": 284333,
       "word": "樊振东小时候背书包去看王皓比赛",
@@ -3572,7 +3604,7 @@
     },
     {
       "raw_hot": 384839,
-      "num": 308240,
+      "num": 356948,
       "word": "马龙一切尽在掌控",
       "onboard_time": 1728215479,
       "rank": 21,
@@ -3624,14 +3656,6 @@
       "word": "女子穿僵尸服回小区吓到遛狗大爷",
       "onboard_time": 1728200898,
       "rank": 21,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 378512,
-      "num": 302710,
-      "word": "入职几月怀孕拒绝调薪调岗被辞退",
-      "onboard_time": 1728217399,
-      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -3723,14 +3747,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 370725,
-      "num": 370725,
-      "word": "马龙正手狂轰",
-      "onboard_time": 1728216800,
-      "rank": 16,
-      "category": "体育"
-    },
-    {
       "raw_hot": 370609,
       "num": 246909,
       "word": "光与夜之恋 线条小狗",
@@ -3795,6 +3811,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 364520,
+      "num": 364520,
+      "word": "我们的歌",
+      "onboard_time": 1728184938,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 363288,
       "num": 296654,
       "word": "伊藤美诚3比2金娜英",
@@ -3857,6 +3881,14 @@
       "onboard_time": 1727964981,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 360009,
+      "num": 360009,
+      "word": "林诗栋反手好强",
+      "onboard_time": 1728216080,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 359253,
@@ -4219,14 +4251,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 326684,
-      "num": 326684,
-      "word": "刘国梁为孙颖莎颁奖",
-      "onboard_time": 1728215780,
-      "rank": 18,
-      "category": "体育"
-    },
-    {
       "raw_hot": 326370,
       "num": 326370,
       "word": "王楚钦孙颖莎国庆节出战",
@@ -4249,6 +4273,14 @@
       "onboard_time": 1728125059,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 325618,
+      "num": 325618,
+      "word": "孙颖莎葛优躺",
+      "onboard_time": 1728219144,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 325216,
@@ -4377,6 +4409,14 @@
       "onboard_time": 1728200418,
       "rank": 6,
       "category": "社会新闻,游戏"
+    },
+    {
+      "raw_hot": 311694,
+      "num": 311694,
+      "word": "王曼昱头发被吹飞了",
+      "onboard_time": 1728216681,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 311674,
@@ -4563,6 +4603,30 @@
       "category": "体育"
     },
     {
+      "raw_hot": 299862,
+      "num": 299862,
+      "word": "王楚钦梁靖崑观战男单决赛",
+      "onboard_time": 1728218601,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 298194,
+      "num": 298194,
+      "word": "王曼昱被闪光灯干扰",
+      "onboard_time": 1728215780,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 298086,
+      "num": 298086,
+      "word": "我们的歌直播",
+      "onboard_time": 1728218601,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 297769,
       "num": 246148,
       "word": "退休英语老师的新赛道",
@@ -4633,14 +4697,6 @@
       "onboard_time": 1727911695,
       "rank": 15,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 295600,
-      "num": 295600,
-      "word": "王曼昱被闪光灯干扰",
-      "onboard_time": 1728215780,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 295149,
@@ -5099,6 +5155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 273534,
+      "num": 273534,
+      "word": "颜料公司回应哀牢山取材视频爆火",
+      "onboard_time": 1728218180,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 273500,
       "num": 246973,
       "word": "为啥街边烤鸭只要25块",
@@ -5267,14 +5331,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 266006,
-      "num": 266006,
-      "word": "王曼昱头发被吹飞了",
-      "onboard_time": 1728216681,
-      "rank": 28,
-      "category": "体育"
-    },
-    {
       "raw_hot": 265831,
       "num": 265831,
       "word": "记者探访走红的哀牢山",
@@ -5433,14 +5489,6 @@
       "onboard_time": 1727830578,
       "rank": 28,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 259307,
-      "num": 259307,
-      "word": "林诗栋反手好强",
-      "onboard_time": 1728216080,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 258925,
@@ -5721,6 +5769,14 @@
       "onboard_time": 1727939176,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 245650,
+      "num": 245650,
+      "word": "TES对战FNC",
+      "onboard_time": 1728218360,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 245553,
@@ -6555,6 +6611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 216482,
+      "num": 216482,
+      "word": "孙颖莎说在北京留下了最美好的回忆",
+      "onboard_time": 1728214641,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 216458,
       "num": 216458,
       "word": "郑钦文张雨霏拥抱",
@@ -6601,6 +6665,14 @@
       "onboard_time": 1727845637,
       "rank": 30,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 214806,
+      "num": 214806,
+      "word": "胡歌亚洲内容大赏视帝",
+      "onboard_time": 1728216320,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 214425,
@@ -6683,6 +6755,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 210086,
+      "num": 210086,
+      "word": "张钧甯顶级高定",
+      "onboard_time": 1728218001,
+      "rank": 37,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 210037,
       "num": 210037,
       "word": "这回景德镇受气瓶真受气了",
@@ -6736,6 +6816,14 @@
       "word": "温峥嵘演太好了",
       "onboard_time": 1727783479,
       "rank": 21,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 207477,
+      "num": 207477,
+      "word": "安居乐烨",
+      "onboard_time": 1728218542,
+      "rank": 41,
       "category": "剧集"
     },
     {
@@ -6923,12 +7011,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 204302,
-      "num": 204302,
-      "word": "胡歌亚洲内容大赏视帝",
-      "onboard_time": 1728216320,
-      "rank": 31,
-      "category": "剧集"
+      "raw_hot": 204131,
+      "num": 204131,
+      "word": "杨幂西班牙之行vlog",
+      "onboard_time": 1728218481,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 204114,
@@ -7011,6 +7099,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 202508,
+      "num": 202508,
+      "word": "暗河传",
+      "onboard_time": 1728218121,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 201612,
       "num": 164808,
       "word": "退伍军人跳海救人未果大喊我尽力了",
@@ -7057,6 +7153,14 @@
       "onboard_time": 1728215960,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 200551,
+      "num": 200551,
+      "word": "孙颖莎回应中国大满贯夺冠",
+      "onboard_time": 1728214161,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 200231,
@@ -7675,14 +7779,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 191334,
-      "num": 191334,
-      "word": "孙颖莎回应中国大满贯夺冠",
-      "onboard_time": 1728214161,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
       "raw_hot": 191329,
       "num": 191329,
       "word": "刘浩存深V衬衫造型",
@@ -8001,14 +8097,6 @@
       "onboard_time": 1727958859,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 185621,
-      "num": 185621,
-      "word": "暗河传",
-      "onboard_time": 1728218121,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 185568,
@@ -8507,14 +8595,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 175458,
-      "num": 175458,
-      "word": "张钧甯顶级高定",
-      "onboard_time": 1728218001,
-      "rank": 37,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 175333,
       "num": 175333,
       "word": "语言通货膨胀",
@@ -8595,14 +8675,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 174286,
-      "num": 174286,
-      "word": "我们的歌",
-      "onboard_time": 1728184938,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 174171,
       "num": 174171,
       "word": "WTT赛程",
@@ -8625,14 +8697,6 @@
       "onboard_time": 1727940678,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 173769,
-      "num": 173769,
-      "word": "孙颖莎说在北京留下了最美好的回忆",
-      "onboard_time": 1728214641,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 173632,
@@ -9603,6 +9667,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 156227,
+      "num": 212343,
+      "word": "火车票买短乘长或被劝导下车",
+      "onboard_time": 1728217760,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 156183,
       "num": 156183,
       "word": "福建舰官兵摆出巨型数字75",
@@ -9617,6 +9689,14 @@
       "onboard_time": 1727792721,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 155767,
+      "num": 155767,
+      "word": "捡到有编制的猫了",
+      "onboard_time": 1728219263,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 155740,
@@ -9739,6 +9819,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 153674,
+      "num": 153674,
+      "word": "股民担忧A股开盘第一天买不到",
+      "onboard_time": 1728218241,
+      "rank": 48,
+      "category": "财经"
+    },
+    {
       "raw_hot": 153670,
       "num": 153670,
       "word": "学生被预录取后选择放弃符合规定",
@@ -9827,14 +9915,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 152564,
-      "num": 152564,
-      "word": "火车票买短乘长或被劝导下车",
-      "onboard_time": 1728217760,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 152558,
       "num": 152558,
       "word": "孙颖莎和裁判用英文交流",
@@ -9857,14 +9937,6 @@
       "onboard_time": 1727767157,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 152345,
-      "num": 152345,
-      "word": "颜料公司回应哀牢山取材视频爆火",
-      "onboard_time": 1728218180,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 152307,
@@ -10161,14 +10233,6 @@
       "onboard_time": 1728199879,
       "rank": 35,
       "category": "艺人,作品衍生"
-    },
-    {
-      "raw_hot": 146972,
-      "num": 146972,
-      "word": "股民担忧A股开盘第一天买不到",
-      "onboard_time": 1728218241,
-      "rank": 48,
-      "category": "财经"
     },
     {
       "raw_hot": 146933,
@@ -17931,6 +17995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 18066,
+      "num": 429610,
+      "word": "收好这份返程行车安全锦囊",
+      "onboard_time": 1728218843,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 17935,
       "num": 252331,
       "word": "用美食看中国",
@@ -17977,6 +18049,14 @@
       "onboard_time": 1727812991,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 16004,
+      "num": 1909057,
+      "word": "每一次与国旗同框都倍感骄傲",
+      "onboard_time": 1728218903,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 15432,
@@ -18269,6 +18349,9 @@
     },
     {
       "word": "#习近平说艰苦奋斗精神永远不能丢#"
+    },
+    {
+      "word": "#推动文化和旅游融合发展#"
     }
   ]
 }
