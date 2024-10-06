@@ -1,0 +1,410 @@
+{
+  "runTime": 1728184026577,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 776770,
+        "num": 1124283,
+        "word": "12306抢票",
+        "onboard_time": 1728177078,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 500067,
+        "num": 500067,
+        "word": "假冒媒体杜撰网文被立案侦查",
+        "onboard_time": 1728150313,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 7064,
+        "num": 486255,
+        "word": "日记里的中国",
+        "onboard_time": 1728036080,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 956899,
+        "num": 483321,
+        "word": "液态大米",
+        "onboard_time": 1728176057,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 475889,
+        "num": 475889,
+        "word": "专家预测A股开盘即收盘",
+        "onboard_time": 1728182718,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 450887,
+        "num": 450887,
+        "word": "因狗结缘成为朋友因狗生病反目",
+        "onboard_time": 1728178758,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 426577,
+        "num": 426577,
+        "word": "孙颖莎出战女单决赛",
+        "onboard_time": 1728180560,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 233599,
+        "num": 398228,
+        "word": "志愿军2票房",
+        "onboard_time": 1728174496,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 391971,
+        "num": 391971,
+        "word": "阿勒泰的羊羊也太蓬了吧",
+        "onboard_time": 1728178998,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 57349,
+        "num": 388841,
+        "word": "浴火之路票房破3亿",
+        "onboard_time": 1728173957,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1469944,
+        "num": 386801,
+        "word": "哀牢山本地人发声",
+        "onboard_time": 1728172157,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1359211,
+        "num": 383049,
+        "word": "哀牢山人类禁区遭爆改人类景区",
+        "onboard_time": 1728179838,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 618309,
+        "num": 381248,
+        "word": "哀牢古国",
+        "onboard_time": 1728182057,
+        "rank": 12,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 470586,
+        "num": 375882,
+        "word": "刘烨疑似失去所有力气和手段",
+        "onboard_time": 1728142339,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 218856,
+        "num": 372381,
+        "word": "国庆假期倒数第2天",
+        "onboard_time": 1728177676,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 371732,
+        "num": 371732,
+        "word": "求中餐厅全员二搭花少教程",
+        "onboard_time": 1728179658,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 327792,
+        "num": 327792,
+        "word": "黎巴嫩人说饿死也不愿死在以军手中",
+        "onboard_time": 1728174977,
+        "rank": 16,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 314499,
+        "num": 314499,
+        "word": "柳智敏遭偷拍生气变脸",
+        "onboard_time": 1728170835,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 255773,
+        "num": 255773,
+        "word": "三四岁儿童背几个包裹逃离黎巴嫩",
+        "onboard_time": 1728171615,
+        "rank": 18,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 62606,
+        "num": 243888,
+        "word": "多给小西天一点时间",
+        "onboard_time": 1728181698,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 45909,
+        "num": 242060,
+        "word": "中朝建交75周年",
+        "onboard_time": 1728177558,
+        "rank": 20,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 572617,
+        "num": 242010,
+        "word": "结婚当天新娘哥哥趴车头索要彩礼",
+        "onboard_time": 1728180560,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241565,
+        "num": 241565,
+        "word": "为什么不吃米面体重很快会降",
+        "onboard_time": 1728173116,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 186795,
+        "num": 186795,
+        "word": "美联储亏损已破2000亿美元",
+        "onboard_time": 1728180858,
+        "rank": 23,
+        "category": "财经,国外时政"
+      },
+      {
+        "raw_hot": 36911,
+        "num": 181170,
+        "word": "假期返程天气地图",
+        "onboard_time": 1728179418,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176899,
+        "num": 176899,
+        "word": "肖战歌曲预热",
+        "onboard_time": 1728171014,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 170223,
+        "num": 170223,
+        "word": "今晚可能发生强地磁暴",
+        "onboard_time": 1728143659,
+        "rank": 26,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 166005,
+        "num": 166005,
+        "word": "中东局势到了最危急时刻",
+        "onboard_time": 1728155112,
+        "rank": 27,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 165745,
+        "num": 165745,
+        "word": "阴阳师",
+        "onboard_time": 1728183739,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 161517,
+        "num": 161517,
+        "word": "王楚钦调侃梁靖崑网速快",
+        "onboard_time": 1728181877,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169832,
+        "num": 161385,
+        "word": "以总理称法总统呼吁武器禁运可耻",
+        "onboard_time": 1728181998,
+        "rank": 30,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 157944,
+        "num": 157944,
+        "word": "准女婿到女友家干活一干一个不吱声",
+        "onboard_time": 1728169994,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149458,
+        "num": 149458,
+        "word": "泰语版柳舟记太好笑了",
+        "onboard_time": 1728180140,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147872,
+        "num": 147872,
+        "word": "十一被家庭旅游整崩溃了",
+        "onboard_time": 1728183857,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 140528,
+        "num": 140528,
+        "word": "进哀牢山走一段距离打一个路标",
+        "onboard_time": 1728182657,
+        "rank": 34,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 133863,
+        "num": 133863,
+        "word": "Henry唱全是爱",
+        "onboard_time": 1728181698,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 132625,
+        "num": 132625,
+        "word": "游客因拍照起冲突在受气瓶前争吵",
+        "onboard_time": 1728154873,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128440,
+        "num": 128440,
+        "word": "尚雯婕粉丝也是军训上了",
+        "onboard_time": 1728183437,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 125968,
+        "num": 125968,
+        "word": "800元能买到什么手机",
+        "onboard_time": 1728182477,
+        "rank": 38,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 124019,
+        "num": 124019,
+        "word": "伯远 EXO的e不发音",
+        "onboard_time": 1728170774,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118525,
+        "num": 118525,
+        "word": "中医建议入秋穿袜子睡觉",
+        "onboard_time": 1728176957,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 118222,
+        "num": 118222,
+        "word": "你好星期六没发下期预告",
+        "onboard_time": 1728134780,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117796,
+        "num": 117796,
+        "word": "勇士绝杀快船",
+        "onboard_time": 1728180560,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115914,
+        "num": 115914,
+        "word": "情侣连续两次偷渡妄想去境外淘金",
+        "onboard_time": 1728143178,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111777,
+        "num": 111777,
+        "word": "许昕呼吁给年轻运动员成长空间",
+        "onboard_time": 1728180677,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111335,
+        "num": 111335,
+        "word": "以总理称必将回应伊朗导弹袭击",
+        "onboard_time": 1728178518,
+        "rank": 45,
+        "category": "社会新闻,国外时政"
+      },
+      {
+        "raw_hot": 109081,
+        "num": 109081,
+        "word": "斯里兰卡警方介入中国母女酒店遇袭",
+        "onboard_time": 1728173837,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107589,
+        "num": 107589,
+        "word": "专家解读为何哀牢山是禁区",
+        "onboard_time": 1728136459,
+        "rank": 47,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 105666,
+        "num": 105666,
+        "word": "没过门姑爷就是好用",
+        "onboard_time": 1728183917,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 39734,
+        "num": 105660,
+        "word": "返程高峰高速交警给你划重点",
+        "onboard_time": 1728183739,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#新时代的中国活力满满热气腾腾#"
+    }
+  }
+}
