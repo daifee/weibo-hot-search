@@ -1,6 +1,6 @@
 {
   "startTime": 1728145573126,
-  "endTime": 1728232865599,
+  "endTime": 1728235172475,
   "band_list": [
     {
       "raw_hot": 8274483,
@@ -1083,6 +1083,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 302163,
+      "num": 165358,
+      "word": "田曦薇cos玛蒂尔达",
+      "onboard_time": 1728231497,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 302117,
       "num": 254415,
       "word": "光与夜之恋",
@@ -1195,14 +1203,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 268102,
-      "num": 165358,
-      "word": "田曦薇cos玛蒂尔达",
-      "onboard_time": 1728231497,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 264367,
       "num": 241491,
       "word": "专家解读为何哀牢山是禁区",
@@ -1241,6 +1241,14 @@
       "onboard_time": 1728198257,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 255252,
+      "num": 490857,
+      "word": "G2战胜WBG",
+      "onboard_time": 1728230781,
+      "rank": 14,
+      "category": "电竞"
     },
     {
       "raw_hot": 253289,
@@ -1793,14 +1801,6 @@
       "onboard_time": 1728210438,
       "rank": 34,
       "category": "演出"
-    },
-    {
-      "raw_hot": 177235,
-      "num": 236329,
-      "word": "G2战胜WBG",
-      "onboard_time": 1728230781,
-      "rank": 14,
-      "category": "电竞"
     },
     {
       "raw_hot": 175175,
@@ -2883,6 +2883,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 97440,
+      "num": 170470,
+      "word": "印拟向全球推广印度制造",
+      "onboard_time": 1728232398,
+      "rank": 14,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 96803,
       "num": 96803,
       "word": "爱奇艺会员暂停后播放全屏广告",
@@ -3099,6 +3107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 60423,
+      "num": 60423,
+      "word": "尚雯婕茜拉合唱默",
+      "onboard_time": 1728234975,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 60381,
       "num": 74767,
       "word": "钟丽丽 新疆人不是都会跳舞",
@@ -3147,6 +3163,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 57867,
+      "num": 57867,
+      "word": "任嘉伦佳偶天成新妆造",
+      "onboard_time": 1728233055,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 55658,
       "num": 55658,
       "word": "哀牢山本地人称进山要怀敬畏之心",
@@ -3167,6 +3191,14 @@
       "num": 429610,
       "word": "收好这份返程行车安全锦囊",
       "onboard_time": 1728218843,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 52838,
+      "num": 145812,
+      "word": "84岁院士圆了中国人看中国电视的梦",
+      "onboard_time": 1728233957,
       "rank": 9,
       "category": "社会新闻"
     },
@@ -3377,14 +3409,6 @@
       "onboard_time": 1728223220,
       "rank": 49,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 31745,
-      "num": 170470,
-      "word": "印拟向全球推广印度制造",
-      "onboard_time": 1728232398,
-      "rank": 14,
-      "category": "国外时政"
     },
     {
       "raw_hot": 30680,

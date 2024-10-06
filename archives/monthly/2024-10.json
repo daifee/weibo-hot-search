@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1728232865599,
+  "endTime": 1728235172475,
   "band_list": [
     {
       "raw_hot": 11925969,
@@ -4787,6 +4787,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 302163,
+      "num": 165358,
+      "word": "田曦薇cos玛蒂尔达",
+      "onboard_time": 1728231497,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 302117,
       "num": 254415,
       "word": "光与夜之恋",
@@ -5507,14 +5515,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 268102,
-      "num": 165358,
-      "word": "田曦薇cos玛蒂尔达",
-      "onboard_time": 1728231497,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 267856,
       "num": 190037,
       "word": "瞿一芃大溪地归来入赘豪门",
@@ -5809,6 +5809,14 @@
       "onboard_time": 1727762000,
       "rank": 30,
       "category": "美食"
+    },
+    {
+      "raw_hot": 255252,
+      "num": 490857,
+      "word": "G2战胜WBG",
+      "onboard_time": 1728230781,
+      "rank": 14,
+      "category": "电竞"
     },
     {
       "raw_hot": 254739,
@@ -8841,14 +8849,6 @@
       "onboard_time": 1727788880,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 177235,
-      "num": 236329,
-      "word": "G2战胜WBG",
-      "onboard_time": 1728230781,
-      "rank": 14,
-      "category": "电竞"
     },
     {
       "raw_hot": 176836,
@@ -14803,6 +14803,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 97440,
+      "num": 170470,
+      "word": "印拟向全球推广印度制造",
+      "onboard_time": 1728232398,
+      "rank": 14,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 97309,
       "num": 97309,
       "word": "黑神话悟空",
@@ -16427,6 +16435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 60423,
+      "num": 60423,
+      "word": "尚雯婕茜拉合唱默",
+      "onboard_time": 1728234975,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 60387,
       "num": 188563,
       "word": "75秒看新中国75年家电之变",
@@ -16569,6 +16585,14 @@
       "onboard_time": 1727947399,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 57867,
+      "num": 57867,
+      "word": "任嘉伦佳偶天成新妆造",
+      "onboard_time": 1728233055,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 57818,
@@ -16759,6 +16783,14 @@
       "num": 429610,
       "word": "收好这份返程行车安全锦囊",
       "onboard_time": 1728218843,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 52838,
+      "num": 145812,
+      "word": "84岁院士圆了中国人看中国电视的梦",
+      "onboard_time": 1728233957,
       "rank": 9,
       "category": "社会新闻"
     },
@@ -17769,14 +17801,6 @@
       "onboard_time": 1727879901,
       "rank": 29,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 31745,
-      "num": 170470,
-      "word": "印拟向全球推广印度制造",
-      "onboard_time": 1728232398,
-      "rank": 14,
-      "category": "国外时政"
     },
     {
       "raw_hot": 31600,
