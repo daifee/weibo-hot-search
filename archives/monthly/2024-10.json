@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1728189639735,
+  "endTime": 1728192036073,
   "band_list": [
     {
       "raw_hot": 11925969,
@@ -272,6 +272,14 @@
       "word": "哀牢山存在大地磁场强度异常的现象",
       "onboard_time": 1728089658,
       "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1420316,
+      "num": 279025,
+      "word": "当事人回应在哀牢山拍写真",
+      "onboard_time": 1728187817,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -1243,6 +1251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 747886,
+      "num": 266910,
+      "word": "尿不湿的年纪打出世界冠军的水准",
+      "onboard_time": 1728189258,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 747235,
       "num": 1119557,
       "word": "HPV疫苗已降到20多元1支",
@@ -1369,6 +1385,14 @@
       "onboard_time": 1728185118,
       "rank": 35,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 712050,
+      "num": 270923,
+      "word": "胡冰卿草莓发夹还是太全面了",
+      "onboard_time": 1728186739,
+      "rank": 20,
+      "category": "电影"
     },
     {
       "raw_hot": 709556,
@@ -2387,6 +2411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 508075,
+      "num": 231379,
+      "word": "马龙 GOAT",
+      "onboard_time": 1728189018,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 505192,
       "num": 759635,
       "word": "华春莹连发18组对比图展现中国变化",
@@ -2529,6 +2561,14 @@
       "onboard_time": 1727867900,
       "rank": 19,
       "category": "国内时政,军事"
+    },
+    {
+      "raw_hot": 481420,
+      "num": 1077027,
+      "word": "开始听反方向的钟了",
+      "onboard_time": 1728187037,
+      "rank": 1,
+      "category": "音乐,幽默"
     },
     {
       "raw_hot": 481327,
@@ -2787,14 +2827,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 440336,
-      "num": 440336,
-      "word": "开始听反方向的钟了",
-      "onboard_time": 1728187037,
-      "rank": 1,
-      "category": "音乐,幽默"
-    },
-    {
       "raw_hot": 439282,
       "num": 439282,
       "word": "高铁晚点",
@@ -2833,14 +2865,6 @@
       "onboard_time": 1727839398,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 432860,
-      "num": 270923,
-      "word": "胡冰卿草莓发夹还是太全面了",
-      "onboard_time": 1728186739,
-      "rank": 20,
-      "category": "电影"
     },
     {
       "raw_hot": 432147,
@@ -3307,6 +3331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 373107,
+      "num": 243262,
+      "word": "李泽锋 40岁的人了露二头肌合适吗",
+      "onboard_time": 1728188358,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 372574,
       "num": 289805,
       "word": "极氪车主高速上自动驾驶时盖被睡觉",
@@ -3329,6 +3361,14 @@
       "onboard_time": 1728171615,
       "rank": 6,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 370609,
+      "num": 246909,
+      "word": "光与夜之恋 线条小狗",
+      "onboard_time": 1728188299,
+      "rank": 25,
+      "category": "游戏"
     },
     {
       "raw_hot": 369496,
@@ -3585,14 +3625,6 @@
       "onboard_time": 1728094397,
       "rank": 28,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 339816,
-      "num": 243262,
-      "word": "李泽锋 40岁的人了露二头肌合适吗",
-      "onboard_time": 1728188358,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 338195,
@@ -4043,14 +4075,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 303767,
-      "num": 246909,
-      "word": "光与夜之恋 线条小狗",
-      "onboard_time": 1728188299,
-      "rank": 25,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 303634,
       "num": 211822,
       "word": "黎巴嫩首都机场附近爆炸火光一片",
@@ -4081,6 +4105,14 @@
       "onboard_time": 1728188239,
       "rank": 23,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 301849,
+      "num": 262189,
+      "word": "13岁小孩开颅堪比女娲补天",
+      "onboard_time": 1728187220,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 301668,
@@ -4499,14 +4531,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 280237,
-      "num": 262189,
-      "word": "13岁小孩开颅堪比女娲补天",
-      "onboard_time": 1728187220,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 279915,
       "num": 275074,
       "word": "周深因为手背青筋被暴击",
@@ -4545,6 +4569,14 @@
       "onboard_time": 1727999055,
       "rank": 14,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 277228,
+      "num": 184558,
+      "word": "大爷还没意识到他马上成为景点",
+      "onboard_time": 1728191719,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 276186,
@@ -4641,6 +4673,14 @@
       "onboard_time": 1728015619,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 272699,
+      "num": 218534,
+      "word": "樊振东小时候和现在的相同之处",
+      "onboard_time": 1728188658,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 272284,
@@ -5020,7 +5060,7 @@
     },
     {
       "raw_hot": 255618,
-      "num": 234501,
+      "num": 236253,
       "word": "王楚钦出席球员见面会",
       "onboard_time": 1728188837,
       "rank": 30,
@@ -5073,14 +5113,6 @@
       "onboard_time": 1727825775,
       "rank": 27,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 251376,
-      "num": 251376,
-      "word": "当事人回应在哀牢山拍写真",
-      "onboard_time": 1728187817,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 251233,
@@ -5579,14 +5611,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 231379,
-      "num": 231379,
-      "word": "马龙 GOAT",
-      "onboard_time": 1728189018,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
       "raw_hot": 231042,
       "num": 231042,
       "word": "同晒一缕阳光祝祖国生日快乐",
@@ -5979,6 +6003,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 217846,
+      "num": 217846,
+      "word": "足协因考虑舆情没给国足包机",
+      "onboard_time": 1728190039,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 217710,
       "num": 217710,
       "word": "今天是国庆长假第3天",
@@ -6265,6 +6297,14 @@
       "onboard_time": 1727915537,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 205653,
+      "num": 205653,
+      "word": "刘耀文正是憋不住笑的年纪",
+      "onboard_time": 1728190759,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 205556,
@@ -6747,14 +6787,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 195144,
-      "num": 195144,
-      "word": "樊振东小时候和现在的相同之处",
-      "onboard_time": 1728188658,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 195053,
       "num": 522216,
       "word": "时装周最热艺人前二十",
@@ -7195,14 +7227,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 188749,
-      "num": 235300,
-      "word": "尿不湿的年纪打出世界冠军的水准",
-      "onboard_time": 1728189258,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 188691,
       "num": 188691,
       "word": "郑钦文半决赛面对穆霍娃",
@@ -7419,6 +7443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 184249,
+      "num": 184249,
+      "word": "彭昱畅演技骗过微表情专家",
+      "onboard_time": 1728190159,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 184184,
       "num": 170368,
       "word": "张本智和说想进一次8强",
@@ -7617,6 +7649,14 @@
       "onboard_time": 1728134959,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 179389,
+      "num": 340668,
+      "word": "抠门打工人半年给演唱会氪金190亿",
+      "onboard_time": 1728188057,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 179209,
@@ -8284,7 +8324,7 @@
     },
     {
       "raw_hot": 166062,
-      "num": 188135,
+      "num": 234395,
       "word": "A股国庆休市期间发生了什么",
       "onboard_time": 1728188780,
       "rank": 35,
@@ -8515,6 +8555,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 160896,
+      "num": 274587,
+      "word": "志愿军2口碑",
+      "onboard_time": 1728188479,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
       "raw_hot": 160723,
       "num": 160723,
       "word": "泰语版柳舟记太好笑了",
@@ -8680,6 +8728,14 @@
       "word": "张雨霏 MY SHERO",
       "onboard_time": 1728053060,
       "rank": 26,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 157728,
+      "num": 157728,
+      "word": "孙颖莎收官之战",
+      "onboard_time": 1728189919,
+      "rank": 34,
       "category": "体育"
     },
     {
@@ -9251,6 +9307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 148101,
+      "num": 148101,
+      "word": "忙忙碌碌寻宝藏",
+      "onboard_time": 1728191416,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 147699,
       "num": 147699,
       "word": "故城和古城的区别",
@@ -9331,6 +9395,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 146310,
+      "num": 146310,
+      "word": "南京玄武湖的鸭子船都有班味了",
+      "onboard_time": 1728190639,
+      "rank": 37,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 146228,
       "num": 146228,
       "word": "S14瑞士轮",
@@ -9377,6 +9449,14 @@
       "onboard_time": 1728181698,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 145618,
+      "num": 145618,
+      "word": "半熟男女台词",
+      "onboard_time": 1728189919,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 145553,
@@ -9643,6 +9723,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 140782,
+      "num": 140782,
+      "word": "车车车车高速车车车车",
+      "onboard_time": 1728191178,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 140713,
       "num": 140713,
       "word": "浴火之路 狼兔CP",
@@ -9689,6 +9777,14 @@
       "onboard_time": 1728023658,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 140289,
+      "num": 140289,
+      "word": "原来林诗栋出生前马龙就在国家队了",
+      "onboard_time": 1728191480,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 140247,
@@ -10041,14 +10137,6 @@
       "onboard_time": 1728054739,
       "rank": 29,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 136435,
-      "num": 274587,
-      "word": "志愿军2口碑",
-      "onboard_time": 1728188479,
-      "rank": 19,
-      "category": "电影"
     },
     {
       "raw_hot": 136314,
@@ -11195,6 +11283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 121639,
+      "num": 121639,
+      "word": "立威廉 霸总祖师爷",
+      "onboard_time": 1728192019,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 121441,
       "num": 121441,
       "word": "郑钦文赛后复盘逆转获胜",
@@ -11795,6 +11891,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 114554,
+      "num": 114554,
+      "word": "干杯大屏是檀健次的前半生",
+      "onboard_time": 1728190699,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 114469,
       "num": 346061,
       "word": "多给小西天一点时间",
@@ -12113,14 +12217,6 @@
       "onboard_time": 1728127040,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 110189,
-      "num": 340668,
-      "word": "抠门打工人半年给演唱会氪金190亿",
-      "onboard_time": 1728188057,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 110150,
@@ -14203,6 +14299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 72830,
+      "num": 363391,
+      "word": "国庆文旅活动太全面了",
+      "onboard_time": 1728187220,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 72623,
       "num": 76844,
       "word": "波尔图3比3曼联",
@@ -14297,14 +14401,6 @@
       "onboard_time": 1727884998,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 70325,
-      "num": 363391,
-      "word": "国庆文旅活动太全面了",
-      "onboard_time": 1728187220,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 70236,
@@ -15195,6 +15291,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 46764,
+      "num": 224577,
+      "word": "霉霉净资产",
+      "onboard_time": 1728191178,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 46217,
       "num": 48395,
       "word": "陈梦闪现崂山为青岛上大分",
@@ -15761,6 +15865,14 @@
       "onboard_time": 1727781441,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 32893,
+      "num": 226873,
+      "word": "中餐厅群像",
+      "onboard_time": 1728184938,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 32459,

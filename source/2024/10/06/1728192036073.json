@@ -1,0 +1,410 @@
+{
+  "runTime": 1728192036073,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 481420,
+        "num": 1077027,
+        "word": "开始听反方向的钟了",
+        "onboard_time": 1728187037,
+        "rank": 0,
+        "category": "音乐,幽默"
+      },
+      {
+        "raw_hot": 301391,
+        "num": 301391,
+        "word": "专家预测A股开盘即收盘",
+        "onboard_time": 1728182718,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 72830,
+        "num": 299229,
+        "word": "国庆文旅活动太全面了",
+        "onboard_time": 1728187220,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1420316,
+        "num": 279025,
+        "word": "当事人回应在哀牢山拍写真",
+        "onboard_time": 1728187817,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 747886,
+        "num": 266910,
+        "word": "尿不湿的年纪打出世界冠军的水准",
+        "onboard_time": 1728189258,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 479632,
+        "num": 255631,
+        "word": "新西兰一艘5700吨军舰沉没",
+        "onboard_time": 1728185118,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 307005,
+        "num": 244523,
+        "word": "液态大米",
+        "onboard_time": 1728176057,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 236253,
+        "num": 236253,
+        "word": "王楚钦出席球员见面会",
+        "onboard_time": 1728188837,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 160896,
+        "num": 236237,
+        "word": "志愿军2口碑",
+        "onboard_time": 1728188479,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 130294,
+        "num": 234395,
+        "word": "A股国庆休市期间发生了什么",
+        "onboard_time": 1728188780,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 943813,
+        "num": 233903,
+        "word": "韩安冉老公宋浩然过度劳累入院",
+        "onboard_time": 1728186558,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 836127,
+        "num": 232830,
+        "word": "哀牢山本地人发声",
+        "onboard_time": 1728172157,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 712050,
+        "num": 231474,
+        "word": "胡冰卿草莓发夹还是太全面了",
+        "onboard_time": 1728186739,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 597849,
+        "num": 230345,
+        "word": "哀牢山人类禁区遭爆改人类景区",
+        "onboard_time": 1728179838,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 575824,
+        "num": 229801,
+        "word": "男子路过狗肉店发现金毛将其买下",
+        "onboard_time": 1728184877,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 529241,
+        "num": 228653,
+        "word": "十一被家庭旅游整崩溃了",
+        "onboard_time": 1728183857,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 508075,
+        "num": 227548,
+        "word": "马龙 GOAT",
+        "onboard_time": 1728189018,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 32893,
+        "num": 226873,
+        "word": "中餐厅群像",
+        "onboard_time": 1728184938,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 375618,
+        "num": 225781,
+        "word": "哀牢古国",
+        "onboard_time": 1728182057,
+        "rank": 18,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 46764,
+        "num": 224577,
+        "word": "霉霉净资产",
+        "onboard_time": 1728191178,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 373107,
+        "num": 223522,
+        "word": "李泽锋 40岁的人了露二头肌合适吗",
+        "onboard_time": 1728188358,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 370609,
+        "num": 222648,
+        "word": "光与夜之恋 线条小狗",
+        "onboard_time": 1728188299,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 362006,
+        "num": 221073,
+        "word": "朴山多拉41岁的状态",
+        "onboard_time": 1728188178,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 312874,
+        "num": 220513,
+        "word": "结婚当天新娘哥哥趴车头索要彩礼",
+        "onboard_time": 1728180560,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 301849,
+        "num": 219148,
+        "word": "13岁小孩开颅堪比女娲补天",
+        "onboard_time": 1728187220,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 272699,
+        "num": 218534,
+        "word": "樊振东小时候和现在的相同之处",
+        "onboard_time": 1728188658,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 217846,
+        "num": 217846,
+        "word": "足协因考虑舆情没给国足包机",
+        "onboard_time": 1728190039,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 207543,
+        "num": 207543,
+        "word": "光与夜之恋",
+        "onboard_time": 1728188239,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 205653,
+        "num": 205653,
+        "word": "刘耀文正是憋不住笑的年纪",
+        "onboard_time": 1728190759,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184655,
+        "num": 184655,
+        "word": "刘烨疑似失去所有力气和手段",
+        "onboard_time": 1728142339,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 277228,
+        "num": 184558,
+        "word": "大爷还没意识到他马上成为景点",
+        "onboard_time": 1728191719,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 184249,
+        "num": 184249,
+        "word": "彭昱畅演技骗过微表情专家",
+        "onboard_time": 1728190159,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 179389,
+        "num": 179389,
+        "word": "抠门打工人半年给演唱会氪金190亿",
+        "onboard_time": 1728188057,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170669,
+        "num": 170669,
+        "word": "孙颖莎出战女单决赛",
+        "onboard_time": 1728180560,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157728,
+        "num": 157728,
+        "word": "孙颖莎收官之战",
+        "onboard_time": 1728189919,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 151012,
+        "num": 151012,
+        "word": "第五人格",
+        "onboard_time": 1728185057,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 148101,
+        "num": 148101,
+        "word": "忙忙碌碌寻宝藏",
+        "onboard_time": 1728191416,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146310,
+        "num": 146310,
+        "word": "南京玄武湖的鸭子船都有班味了",
+        "onboard_time": 1728190639,
+        "rank": 37,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 145618,
+        "num": 145618,
+        "word": "半熟男女台词",
+        "onboard_time": 1728189919,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141608,
+        "num": 141608,
+        "word": "国庆假期倒数第2天",
+        "onboard_time": 1728177676,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140782,
+        "num": 140782,
+        "word": "车车车车高速车车车车",
+        "onboard_time": 1728191178,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140289,
+        "num": 140289,
+        "word": "原来林诗栋出生前马龙就在国家队了",
+        "onboard_time": 1728191480,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134718,
+        "num": 134718,
+        "word": "萧山机场确认昨晚CA4578航班返航",
+        "onboard_time": 1728185839,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134324,
+        "num": 134324,
+        "word": "自黎巴嫩撤离的台湾同胞谈感受",
+        "onboard_time": 1728189557,
+        "rank": 43,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 130555,
+        "num": 130555,
+        "word": "国庆提前返程的人又堵在路上了",
+        "onboard_time": 1728187580,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121639,
+        "num": 121639,
+        "word": "立威廉 霸总祖师爷",
+        "onboard_time": 1728192019,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119166,
+        "num": 119166,
+        "word": "黎巴嫩人说饿死也不愿死在以军手中",
+        "onboard_time": 1728174977,
+        "rank": 46,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 114554,
+        "num": 114554,
+        "word": "干杯大屏是檀健次的前半生",
+        "onboard_time": 1728190699,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 111261,
+        "num": 111261,
+        "word": "以总理称法总统呼吁武器禁运可耻",
+        "onboard_time": 1728181998,
+        "rank": 48,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 95595,
+        "num": 111261,
+        "word": "国庆档唯一反转赛道电影",
+        "onboard_time": 1728184217,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同金正恩互致贺电#"
+    }
+  }
+}
