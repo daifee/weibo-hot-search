@@ -1,6 +1,6 @@
 {
   "startTime": 1728145573126,
-  "endTime": 1728193065543,
+  "endTime": 1728196142313,
   "band_list": [
     {
       "raw_hot": 1902792,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1692862,
-      "num": 279025,
+      "num": 1028601,
       "word": "当事人回应在哀牢山拍写真",
       "onboard_time": 1728187817,
       "rank": 30,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 1355842,
-      "num": 339149,
+      "num": 371569,
       "word": "韩安冉老公宋浩然过度劳累入院",
       "onboard_time": 1728186558,
       "rank": 10,
@@ -43,12 +43,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1132835,
+      "num": 1181253,
+      "word": "哀牢山曾发生多起人员失联遇难",
+      "onboard_time": 1728194778,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1051166,
       "num": 1051166,
       "word": "房产销售的嗓子已经冒烟了",
       "onboard_time": 1728178457,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1048058,
+      "num": 1048058,
+      "word": "大爷还没意识到他马上成为景点",
+      "onboard_time": 1728191719,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 1045661,
@@ -75,8 +91,24 @@
       "category": "自然"
     },
     {
+      "raw_hot": 846741,
+      "num": 371978,
+      "word": "赵晓卉 当明星没有上班辛苦",
+      "onboard_time": 1728194778,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 814677,
+      "num": 371897,
+      "word": "霉霉净资产",
+      "onboard_time": 1728191178,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 799402,
-      "num": 270923,
+      "num": 371589,
       "word": "胡冰卿草莓发夹还是太全面了",
       "onboard_time": 1728186739,
       "rank": 20,
@@ -116,7 +148,7 @@
     },
     {
       "raw_hot": 747886,
-      "num": 272573,
+      "num": 372369,
       "word": "尿不湿的年纪打出世界冠军的水准",
       "onboard_time": 1728189258,
       "rank": 29,
@@ -140,11 +172,19 @@
     },
     {
       "raw_hot": 712625,
-      "num": 351195,
+      "num": 372258,
       "word": "新西兰一艘5700吨军舰沉没",
       "onboard_time": 1728185118,
       "rank": 35,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 679360,
+      "num": 679360,
+      "word": "小西天爆火让更多人认识了隰字",
+      "onboard_time": 1728192678,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 572617,
@@ -171,16 +211,16 @@
       "category": "财经"
     },
     {
-      "raw_hot": 522639,
-      "num": 249893,
-      "word": "大爷还没意识到他马上成为景点",
-      "onboard_time": 1728191719,
-      "rank": 30,
-      "category": "幽默"
+      "raw_hot": 531899,
+      "num": 531899,
+      "word": "怎么让全国人民都知道我瘦了30多斤",
+      "onboard_time": 1728193459,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 519775,
-      "num": 249464,
+      "num": 293137,
       "word": "马龙 GOAT",
       "onboard_time": 1728189018,
       "rank": 32,
@@ -201,6 +241,14 @@
       "onboard_time": 1728172936,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 496370,
+      "num": 371379,
+      "word": "谁能像何炅对黄磊那样对我",
+      "onboard_time": 1728193398,
+      "rank": 16,
+      "category": "作品衍生,幽默"
     },
     {
       "raw_hot": 481420,
@@ -427,6 +475,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 295333,
+      "num": 295333,
+      "word": "小西天爆火景区紧急开办导游培训班",
+      "onboard_time": 1728193699,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 291039,
       "num": 251026,
       "word": "林诗栋坐王楚钦行李箱上看比赛",
@@ -448,6 +504,14 @@
       "word": "售楼部成广州新景点",
       "onboard_time": 1728181339,
       "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 279412,
+      "num": 371711,
+      "word": "央视海采又有名场面",
+      "onboard_time": 1728194117,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -603,6 +667,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 212247,
+      "num": 212247,
+      "word": "田曦薇女推2上班路透",
+      "onboard_time": 1728193759,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 207275,
       "num": 207275,
       "word": "立威廉 霸总祖师爷",
@@ -617,6 +689,14 @@
       "onboard_time": 1728143178,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 206273,
+      "num": 371298,
+      "word": "向佐模仿自己摸鼻梁",
+      "onboard_time": 1728195318,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 205653,
@@ -747,8 +827,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 166234,
+      "num": 166234,
+      "word": "车车车车高速车车车车",
+      "onboard_time": 1728191178,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 166062,
-      "num": 234395,
+      "num": 372157,
       "word": "A股国庆休市期间发生了什么",
       "onboard_time": 1728188780,
       "rank": 35,
@@ -777,14 +865,6 @@
       "onboard_time": 1728180140,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 159547,
-      "num": 159547,
-      "word": "车车车车高速车车车车",
-      "onboard_time": 1728191178,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 157728,
@@ -819,6 +899,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 152850,
+      "num": 152850,
+      "word": "吴克群为读错沔阳道歉",
+      "onboard_time": 1728195258,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 152307,
       "num": 152307,
       "word": "伯远 EXO的e不发音",
@@ -849,14 +937,6 @@
       "onboard_time": 1728184037,
       "rank": 39,
       "category": "演出"
-    },
-    {
-      "raw_hot": 148260,
-      "num": 224577,
-      "word": "霉霉净资产",
-      "onboard_time": 1728191178,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 148101,
@@ -929,6 +1009,14 @@
       "onboard_time": 1728189557,
       "rank": 48,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 133506,
+      "num": 133506,
+      "word": "沈梦瑶被新人夸了三次",
+      "onboard_time": 1728195737,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 133006,
@@ -1011,6 +1099,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 127606,
+      "num": 127606,
+      "word": "三胞胎宝宝坐高铁买挂票",
+      "onboard_time": 1728195978,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 125968,
       "num": 125968,
       "word": "800元能买到什么手机",
@@ -1032,6 +1128,14 @@
       "word": "我们的歌金曲季收官",
       "onboard_time": 1728187458,
       "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 123682,
+      "num": 123682,
+      "word": "小罗 无糖可乐又叫肥宅安康水",
+      "onboard_time": 1728195499,
+      "rank": 38,
       "category": "综艺"
     },
     {
@@ -1067,20 +1171,20 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 119954,
-      "num": 261374,
-      "word": "小西天爆火让更多人认识了隰字",
-      "onboard_time": 1728192678,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 117953,
       "num": 244629,
       "word": "赵丽颖浴火之路片场碎片",
       "onboard_time": 1728192499,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 116403,
+      "num": 116403,
+      "word": "文在寅女儿文多惠涉嫌酒驾",
+      "onboard_time": 1728193159,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 114701,
@@ -1219,6 +1323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 102484,
+      "num": 102484,
+      "word": "陈奕迅 谢谢你们没退票",
+      "onboard_time": 1728196098,
+      "rank": 48,
+      "category": "演出"
+    },
+    {
       "raw_hot": 102124,
       "num": 102124,
       "word": "iPhone16物料成本约2900元",
@@ -1241,6 +1353,14 @@
       "onboard_time": 1728140659,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 100008,
+      "num": 100008,
+      "word": "鞠婧祎氛围感夜拍",
+      "onboard_time": 1728194418,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 99977,
@@ -1380,7 +1500,7 @@
     },
     {
       "raw_hot": 72830,
-      "num": 363391,
+      "num": 1037567,
       "word": "国庆文旅活动太全面了",
       "onboard_time": 1728187220,
       "rank": 2,
