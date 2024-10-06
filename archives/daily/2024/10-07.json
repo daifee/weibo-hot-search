@@ -1,6 +1,6 @@
 {
   "startTime": 1728231932217,
-  "endTime": 1728242305551,
+  "endTime": 1728243374128,
   "band_list": [
     {
       "raw_hot": 1367280,
@@ -467,6 +467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 39359,
+      "num": 42523,
+      "word": "南昌滕王阁保安小哥花式整活",
+      "onboard_time": 1728240133,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 38767,
       "num": 250015,
       "word": "人人人人景点人人人人",
@@ -499,20 +507,20 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 26032,
-      "num": 42523,
-      "word": "南昌滕王阁保安小哥花式整活",
-      "onboard_time": 1728240133,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 24526,
       "num": 26695,
       "word": "这些话句句都是爱国情",
       "onboard_time": 1728230300,
       "rank": 47,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 23548,
+      "num": 23548,
+      "word": "哀牢山村民称对自然要有敬畏之心",
+      "onboard_time": 1728242952,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 23309,
@@ -545,6 +553,14 @@
       "onboard_time": 1728236774,
       "rank": 19,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 17281,
+      "num": 42937,
+      "word": "游客十一逃离人潮反向涌进县城",
+      "onboard_time": 1728242471,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 16874,
