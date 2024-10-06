@@ -1,0 +1,410 @@
+{
+  "runTime": 1728214594156,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3185534,
+        "num": 3185534,
+        "word": "孙颖莎获女单冠军",
+        "onboard_time": 1728212961,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1284871,
+        "num": 1284871,
+        "word": "马龙vs林诗栋",
+        "onboard_time": 1728212541,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19801,
+        "num": 996188,
+        "word": "国庆文旅活动实力圈粉",
+        "onboard_time": 1728206178,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 765189,
+        "num": 765189,
+        "word": "WTT",
+        "onboard_time": 1728213682,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 762356,
+        "num": 762356,
+        "word": "孙颖莎4比2战胜王曼昱",
+        "onboard_time": 1728213682,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 608414,
+        "num": 608414,
+        "word": "许昕谈王楚钦等00后球员输球",
+        "onboard_time": 1728211398,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 531915,
+        "num": 531915,
+        "word": "男子抱光腿娃坐公交司机立刻报警",
+        "onboard_time": 1728199997,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 492959,
+        "num": 492959,
+        "word": "为什么越来越多奶茶咖啡不能去冰了",
+        "onboard_time": 1728201858,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 64950,
+        "num": 492782,
+        "word": "你会为了当地美食奔赴一座城吗",
+        "onboard_time": 1728203958,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 276607,
+        "num": 487652,
+        "word": "台湾小伙痴迷文物来大陆学考古",
+        "onboard_time": 1728213021,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1762022,
+        "num": 483827,
+        "word": "黄磊炖豆角",
+        "onboard_time": 1728208399,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1547159,
+        "num": 482539,
+        "word": "孙颖莎vs王曼昱",
+        "onboard_time": 1728207740,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 905990,
+        "num": 478048,
+        "word": "戚薇cos毛利兰",
+        "onboard_time": 1728210199,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 864953,
+        "num": 472566,
+        "word": "当地回应新娘哥嫂临时加彩礼18万",
+        "onboard_time": 1728208458,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 828687,
+        "num": 470611,
+        "word": "迪丽热巴给龚俊剧组买下午茶",
+        "onboard_time": 1728213202,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 733541,
+        "num": 465651,
+        "word": "Jennie权志龙去了2ne1演唱会",
+        "onboard_time": 1728212360,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 636345,
+        "num": 465269,
+        "word": "叙利亚已申请加入金砖国家",
+        "onboard_time": 1728211639,
+        "rank": 16,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 623065,
+        "num": 458816,
+        "word": "哀牢山曾发生多起人员失联遇难",
+        "onboard_time": 1728194778,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 619041,
+        "num": 456378,
+        "word": "李一桐cos黑寡妇",
+        "onboard_time": 1728213260,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 455380,
+        "num": 455380,
+        "word": "黄磊做饭",
+        "onboard_time": 1728205759,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 445983,
+        "num": 445983,
+        "word": "哀牢山本地人发声",
+        "onboard_time": 1728172157,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 429760,
+        "num": 429760,
+        "word": "三胞胎宝宝坐高铁买挂票",
+        "onboard_time": 1728195978,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 355794,
+        "num": 355794,
+        "word": "孙颖莎连赢10分",
+        "onboard_time": 1728214102,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 331272,
+        "num": 331272,
+        "word": "王曼昱亚军",
+        "onboard_time": 1728213682,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 264566,
+        "num": 264566,
+        "word": "哀牢山640米要走3小时以上",
+        "onboard_time": 1728208099,
+        "rank": 24,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 238216,
+        "num": 238216,
+        "word": "孙颖莎王曼昱相持好精彩",
+        "onboard_time": 1728213800,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 214425,
+        "num": 214425,
+        "word": "1男1女骑电动车半挂有娃婴儿车",
+        "onboard_time": 1728210919,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214174,
+        "num": 214174,
+        "word": "那英 你怎么不张嘴呢",
+        "onboard_time": 1728204017,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 245504,
+        "num": 210141,
+        "word": "王楚钦球员见面会",
+        "onboard_time": 1728209119,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 200712,
+        "num": 200712,
+        "word": "女子穿僵尸服回小区吓到遛狗大爷",
+        "onboard_time": 1728200898,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 287145,
+        "num": 197354,
+        "word": "猫 这个豪门我非进不可",
+        "onboard_time": 1728214220,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 191830,
+        "num": 191830,
+        "word": "王楚钦与粉丝大合影",
+        "onboard_time": 1728210858,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 191334,
+        "num": 191334,
+        "word": "孙颖莎回应中国大满贯夺冠",
+        "onboard_time": 1728214161,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 186153,
+        "num": 186153,
+        "word": "职工医保个人账户如何共济给家人",
+        "onboard_time": 1728204319,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184945,
+        "num": 184945,
+        "word": "崔秀彬唱了情歌",
+        "onboard_time": 1728213920,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 178461,
+        "num": 178461,
+        "word": "26岁研究员带宝剑护送2000多件文物",
+        "onboard_time": 1728206778,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170029,
+        "num": 170029,
+        "word": "小西天被喊差评后疯狂宠游客",
+        "onboard_time": 1728210798,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157981,
+        "num": 157981,
+        "word": "一男子在白宫附近自焚",
+        "onboard_time": 1728209719,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156895,
+        "num": 156895,
+        "word": "樊振东小时候背书包去看王皓比赛",
+        "onboard_time": 1728202219,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 154440,
+        "num": 154440,
+        "word": "林俊杰的钢琴",
+        "onboard_time": 1728210438,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 152601,
+        "num": 152601,
+        "word": "鞠婧祎曾舜晞 画皮",
+        "onboard_time": 1728199338,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146371,
+        "num": 146371,
+        "word": "谁敢动文物我就拿这把剑跟他拼了",
+        "onboard_time": 1728207079,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145821,
+        "num": 145821,
+        "word": "仙逆",
+        "onboard_time": 1728213621,
+        "rank": 42,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 141592,
+        "num": 141592,
+        "word": "彭昱畅你让我感到陌生",
+        "onboard_time": 1728213501,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 131832,
+        "num": 131832,
+        "word": "华晨宇谈抑郁症",
+        "onboard_time": 1728198618,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 130522,
+        "num": 130522,
+        "word": "赵晓卉 当明星没有上班辛苦",
+        "onboard_time": 1728194778,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126927,
+        "num": 126927,
+        "word": "上海不愧是大名鼎鼎的魔都",
+        "onboard_time": 1728210619,
+        "rank": 46,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 120150,
+        "num": 120150,
+        "word": "杨洋书生造型",
+        "onboard_time": 1728202759,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116881,
+        "num": 116881,
+        "word": "彭昱畅 剪头发就是一场豪赌",
+        "onboard_time": 1728214580,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 113417,
+        "num": 113417,
+        "word": "公安部提醒这些照片不要晒",
+        "onboard_time": 1728214521,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#文脉千秋江山入画#"
+    }
+  }
+}

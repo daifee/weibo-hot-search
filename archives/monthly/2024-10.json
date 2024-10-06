@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1728213508091,
+  "endTime": 1728214594156,
   "band_list": [
     {
       "raw_hot": 11925969,
@@ -27,6 +27,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 3185534,
+      "num": 3185534,
+      "word": "孙颖莎获女单冠军",
+      "onboard_time": 1728212961,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 3146611,
       "num": 3146611,
       "word": "孙颖莎vs王曼昱",
@@ -44,7 +52,7 @@
     },
     {
       "raw_hot": 2876940,
-      "num": 286597,
+      "num": 483827,
       "word": "黄磊炖豆角",
       "onboard_time": 1728208399,
       "rank": 10,
@@ -179,14 +187,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1858248,
-      "num": 1858248,
-      "word": "孙颖莎获女单冠军",
-      "onboard_time": 1728212961,
-      "rank": 1,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1761489,
       "num": 1015351,
       "word": "女生打顺风车已满座司机仍接单",
@@ -196,7 +196,7 @@
     },
     {
       "raw_hot": 1761190,
-      "num": 302813,
+      "num": 455380,
       "word": "黄磊做饭",
       "onboard_time": 1728205759,
       "rank": 15,
@@ -456,6 +456,14 @@
       "word": "郑钦文vs安德列娃",
       "onboard_time": 1728036439,
       "rank": 7,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1284871,
+      "num": 1284871,
+      "word": "马龙vs林诗栋",
+      "onboard_time": 1728212541,
+      "rank": 4,
       "category": "体育"
     },
     {
@@ -812,7 +820,7 @@
     },
     {
       "raw_hot": 1018525,
-      "num": 286103,
+      "num": 478048,
       "word": "戚薇cos毛利兰",
       "onboard_time": 1728210199,
       "rank": 11,
@@ -900,7 +908,7 @@
     },
     {
       "raw_hot": 961319,
-      "num": 284954,
+      "num": 472566,
       "word": "当地回应新娘哥嫂临时加彩礼18万",
       "onboard_time": 1728208458,
       "rank": 9,
@@ -1107,6 +1115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 828687,
+      "num": 470611,
+      "word": "迪丽热巴给龚俊剧组买下午茶",
+      "onboard_time": 1728213202,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 828403,
       "num": 546583,
       "word": "小伙工地干活一年换一部手机",
@@ -1292,7 +1308,7 @@
     },
     {
       "raw_hot": 766404,
-      "num": 283370,
+      "num": 465651,
       "word": "Jennie权志龙去了2ne1演唱会",
       "onboard_time": 1728212360,
       "rank": 15,
@@ -1300,7 +1316,7 @@
     },
     {
       "raw_hot": 765535,
-      "num": 282327,
+      "num": 608414,
       "word": "许昕谈王楚钦等00后球员输球",
       "onboard_time": 1728211398,
       "rank": 16,
@@ -1313,6 +1329,14 @@
       "onboard_time": 1727875038,
       "rank": 22,
       "category": "电影"
+    },
+    {
+      "raw_hot": 765189,
+      "num": 765189,
+      "word": "WTT",
+      "onboard_time": 1727830699,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 764733,
@@ -1329,6 +1353,14 @@
       "onboard_time": 1727704340,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 762356,
+      "num": 762356,
+      "word": "孙颖莎4比2战胜王曼昱",
+      "onboard_time": 1728213682,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 761988,
@@ -1819,6 +1851,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 636345,
+      "num": 465269,
+      "word": "叙利亚已申请加入金砖国家",
+      "onboard_time": 1728211639,
+      "rank": 20,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 635535,
       "num": 314892,
       "word": "王楚钦好帅的二次启动",
@@ -1953,6 +1993,14 @@
       "onboard_time": 1728199338,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 619041,
+      "num": 456378,
+      "word": "李一桐cos黑寡妇",
+      "onboard_time": 1728213260,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 617321,
@@ -2401,14 +2449,6 @@
       "onboard_time": 1727934738,
       "rank": 3,
       "category": "网红"
-    },
-    {
-      "raw_hot": 538804,
-      "num": 538804,
-      "word": "马龙vs林诗栋",
-      "onboard_time": 1728212541,
-      "rank": 4,
-      "category": "体育"
     },
     {
       "raw_hot": 536881,
@@ -2881,14 +2921,6 @@
       "onboard_time": 1727738235,
       "rank": 17,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 461069,
-      "num": 279596,
-      "word": "叙利亚已申请加入金砖国家",
-      "onboard_time": 1728211639,
-      "rank": 20,
-      "category": "国外时政"
     },
     {
       "raw_hot": 459767,
@@ -3787,6 +3819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 355794,
+      "num": 355794,
+      "word": "孙颖莎连赢10分",
+      "onboard_time": 1728214102,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 355239,
       "num": 164410,
       "word": "大同降雪迎亲队冒雪抬新娘行进",
@@ -3865,14 +3905,6 @@
       "onboard_time": 1727953820,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 348376,
-      "num": 348376,
-      "word": "WTT",
-      "onboard_time": 1727830699,
-      "rank": 8,
-      "category": "体育"
     },
     {
       "raw_hot": 346827,
@@ -4041,6 +4073,14 @@
       "onboard_time": 1728016456,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 331272,
+      "num": 331272,
+      "word": "王曼昱亚军",
+      "onboard_time": 1728213682,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 330635,
@@ -4683,6 +4723,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 287145,
+      "num": 197354,
+      "word": "猫 这个豪门我非进不可",
+      "onboard_time": 1728214220,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 286667,
       "num": 286667,
       "word": "光遇复刻",
@@ -4891,20 +4939,20 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 276607,
+      "num": 487652,
+      "word": "台湾小伙痴迷文物来大陆学考古",
+      "onboard_time": 1728213021,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 276186,
       "num": 222361,
       "word": "以军一机库被伊朗导弹炸出大洞",
       "onboard_time": 1727938458,
       "rank": 18,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 275417,
-      "num": 275417,
-      "word": "李一桐cos黑寡妇",
-      "onboard_time": 1728213260,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 275305,
@@ -5763,6 +5811,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 238216,
+      "num": 238216,
+      "word": "孙颖莎王曼昱相持好精彩",
+      "onboard_time": 1728213800,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 238089,
       "num": 238089,
       "word": "国庆第1天西湖人从众",
@@ -6459,6 +6515,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 214425,
+      "num": 214425,
+      "word": "1男1女骑电动车半挂有娃婴儿车",
+      "onboard_time": 1728210919,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 214123,
       "num": 223539,
       "word": "刘烨回应演技上热搜",
@@ -6473,14 +6537,6 @@
       "onboard_time": 1728025518,
       "rank": 35,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 213396,
-      "num": 195779,
-      "word": "迪丽热巴给龚俊剧组买下午茶",
-      "onboard_time": 1728213202,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 213041,
@@ -7491,11 +7547,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 191830,
+      "num": 191830,
+      "word": "王楚钦与粉丝大合影",
+      "onboard_time": 1728210858,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 191388,
       "num": 191388,
       "word": "柔佛新山vs上海申花",
       "onboard_time": 1727787079,
       "rank": 15,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 191334,
+      "num": 191334,
+      "word": "孙颖莎回应中国大满贯夺冠",
+      "onboard_time": 1728214161,
+      "rank": 32,
       "category": "体育"
     },
     {
@@ -7867,6 +7939,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 184945,
+      "num": 184945,
+      "word": "崔秀彬唱了情歌",
+      "onboard_time": 1728213920,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 184818,
       "num": 188917,
       "word": "为什么我们想回家但又不愿久留",
@@ -8227,14 +8307,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 177161,
-      "num": 177161,
-      "word": "王楚钦与粉丝大合影",
-      "onboard_time": 1728210858,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 176836,
       "num": 176836,
       "word": "王源太湖湾",
@@ -8401,14 +8473,6 @@
       "onboard_time": 1728184938,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 174222,
-      "num": 174222,
-      "word": "1男1女骑电动车半挂有娃婴儿车",
-      "onboard_time": 1728210919,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 174171,
@@ -10027,6 +10091,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 145821,
+      "num": 145821,
+      "word": "仙逆",
+      "onboard_time": 1728213621,
+      "rank": 42,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 145618,
       "num": 145618,
       "word": "半熟男女台词",
@@ -10289,6 +10361,14 @@
       "onboard_time": 1728202697,
       "rank": 45,
       "category": "财经"
+    },
+    {
+      "raw_hot": 141592,
+      "num": 141592,
+      "word": "彭昱畅你让我感到陌生",
+      "onboard_time": 1728213501,
+      "rank": 43,
+      "category": "电影"
     },
     {
       "raw_hot": 141509,
@@ -12411,6 +12491,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 116881,
+      "num": 116881,
+      "word": "彭昱畅 剪头发就是一场豪赌",
+      "onboard_time": 1728214580,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
       "raw_hot": 116715,
       "num": 116715,
       "word": "迪丽热巴陈飞宇慕胥辞情侣装",
@@ -12713,6 +12801,14 @@
       "onboard_time": 1728100819,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 113417,
+      "num": 113417,
+      "word": "公安部提醒这些照片不要晒",
+      "onboard_time": 1728214521,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 113400,
@@ -13769,14 +13865,6 @@
       "onboard_time": 1727920158,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 100833,
-      "num": 285217,
-      "word": "台湾小伙痴迷文物来大陆学考古",
-      "onboard_time": 1728213021,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 100831,
@@ -15435,8 +15523,8 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 64893,
-      "num": 314431,
+      "raw_hot": 64950,
+      "num": 492782,
       "word": "你会为了当地美食奔赴一座城吗",
       "onboard_time": 1728203958,
       "rank": 9,
@@ -16916,7 +17004,7 @@
     },
     {
       "raw_hot": 30680,
-      "num": 742449,
+      "num": 996188,
       "word": "国庆文旅活动实力圈粉",
       "onboard_time": 1728206178,
       "rank": 2,
