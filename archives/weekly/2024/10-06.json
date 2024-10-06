@@ -1,6 +1,6 @@
 {
   "startTime": 1728145573126,
-  "endTime": 1728185443943,
+  "endTime": 1728186209477,
   "band_list": [
     {
       "raw_hot": 1902792,
@@ -75,6 +75,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 744280,
+      "num": 381248,
+      "word": "哀牢古国",
+      "onboard_time": 1728182057,
+      "rank": 13,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 740214,
       "num": 740214,
       "word": "黎巴嫩人说饿死也不愿死在以军手中",
@@ -83,16 +91,8 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 675722,
-      "num": 381248,
-      "word": "哀牢古国",
-      "onboard_time": 1728182057,
-      "rank": 13,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 572617,
-      "num": 278528,
+      "num": 284642,
       "word": "结婚当天新娘哥哥趴车头索要彩礼",
       "onboard_time": 1728180560,
       "rank": 20,
@@ -107,12 +107,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 539503,
-      "num": 539503,
+      "raw_hot": 546035,
+      "num": 298280,
+      "word": "男子路过狗肉店发现金毛将其买下",
+      "onboard_time": 1728184877,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 544202,
+      "num": 544202,
       "word": "专家预测A股开盘即收盘",
       "onboard_time": 1728182718,
       "rank": 17,
       "category": "财经"
+    },
+    {
+      "raw_hot": 531822,
+      "num": 343548,
+      "word": "十一被家庭旅游整崩溃了",
+      "onboard_time": 1728183857,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 500067,
@@ -155,6 +171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 424744,
+      "num": 344992,
+      "word": "以总理称法总统呼吁武器禁运可耻",
+      "onboard_time": 1728181998,
+      "rank": 30,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 409414,
       "num": 271099,
       "word": "游客因拍照起冲突在受气瓶前争吵",
@@ -177,6 +201,14 @@
       "onboard_time": 1728145638,
       "rank": 36,
       "category": "演出"
+    },
+    {
+      "raw_hot": 394352,
+      "num": 275965,
+      "word": "国庆档唯一反转赛道电影",
+      "onboard_time": 1728184217,
+      "rank": 24,
+      "category": "电影"
     },
     {
       "raw_hot": 392345,
@@ -243,14 +275,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 343548,
-      "num": 343548,
-      "word": "十一被家庭旅游整崩溃了",
-      "onboard_time": 1728183857,
-      "rank": 33,
-      "category": "情感"
-    },
-    {
       "raw_hot": 338195,
       "num": 248520,
       "word": "黎巴嫩海边景点全是露宿者的帐篷",
@@ -275,6 +299,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 321727,
+      "num": 321727,
+      "word": "新西兰一艘5700吨军舰沉没",
+      "onboard_time": 1728185118,
+      "rank": 35,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 319248,
       "num": 261990,
       "word": "斯里兰卡警方介入中国母女酒店遇袭",
@@ -283,20 +315,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 306612,
-      "num": 344992,
-      "word": "以总理称法总统呼吁武器禁运可耻",
-      "onboard_time": 1728181998,
-      "rank": 30,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 297193,
       "num": 297193,
       "word": "为什么酒店里的被子睡完特别痒",
       "onboard_time": 1728145879,
       "rank": 7,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 297068,
+      "num": 297068,
+      "word": "第五人格",
+      "onboard_time": 1728185057,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 291039,
@@ -355,14 +387,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 254371,
-      "num": 254371,
-      "word": "国庆档唯一反转赛道电影",
-      "onboard_time": 1728184217,
-      "rank": 24,
-      "category": "电影"
-    },
-    {
       "raw_hot": 253289,
       "num": 253289,
       "word": "马龙说自己实力不如梁靖崑",
@@ -411,6 +435,22 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 230112,
+      "num": 230112,
+      "word": "WTT中国大满贯总票房近6000万",
+      "onboard_time": 1728184998,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 229061,
+      "num": 229061,
+      "word": "马克龙呼吁停止向以提供武器",
+      "onboard_time": 1728184877,
+      "rank": 36,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 228368,
       "num": 280397,
       "word": "你的家乡也有一条人民路吗",
@@ -427,14 +467,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 223941,
-      "num": 223941,
-      "word": "男子路过狗肉店发现金毛将其买下",
-      "onboard_time": 1728184877,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 206440,
       "num": 206440,
       "word": "情侣连续两次偷渡妄想去境外淘金",
@@ -449,14 +481,6 @@
       "onboard_time": 1728183917,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 198224,
-      "num": 198224,
-      "word": "第五人格",
-      "onboard_time": 1728185057,
-      "rank": 30,
-      "category": "游戏"
     },
     {
       "raw_hot": 194212,
@@ -507,6 +531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 187699,
+      "num": 187699,
+      "word": "WTT",
+      "onboard_time": 1728185478,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 186959,
       "num": 186959,
       "word": "用别样的方式打开人民路",
@@ -531,12 +563,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 180100,
-      "num": 180100,
-      "word": "WTT中国大满贯总票房近6000万",
-      "onboard_time": 1728184998,
-      "rank": 32,
-      "category": "体育"
+      "raw_hot": 174286,
+      "num": 174286,
+      "word": "我们的歌",
+      "onboard_time": 1728184938,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 165745,
@@ -547,20 +579,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 164903,
+      "num": 164903,
+      "word": "萧山机场确认昨晚CA4578航班返航",
+      "onboard_time": 1728185839,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 164472,
       "num": 253163,
       "word": "92岁抗美援朝女兵实弹打靶10发97环",
       "onboard_time": 1728125059,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 160766,
-      "num": 160766,
-      "word": "新西兰一艘5700吨军舰沉没",
-      "onboard_time": 1728185118,
-      "rank": 35,
-      "category": "国外时政"
     },
     {
       "raw_hot": 160723,
@@ -577,14 +609,6 @@
       "onboard_time": 1728142818,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 154069,
-      "num": 154069,
-      "word": "马克龙呼吁停止向以提供武器",
-      "onboard_time": 1728184877,
-      "rank": 36,
-      "category": "国外时政"
     },
     {
       "raw_hot": 152307,
@@ -659,14 +683,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 130380,
-      "num": 130380,
-      "word": "我们的歌",
-      "onboard_time": 1728184938,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 129799,
       "num": 129799,
       "word": "勇士绝杀快船",
@@ -707,6 +723,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 125845,
+      "num": 125845,
+      "word": "王一博探索新境收官",
+      "onboard_time": 1728185839,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 122086,
       "num": 122086,
       "word": "卡瓦哈尔重伤",
@@ -737,6 +761,14 @@
       "onboard_time": 1728134361,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 114469,
+      "num": 346061,
+      "word": "多给小西天一点时间",
+      "onboard_time": 1728181698,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 113958,
@@ -841,14 +873,6 @@
       "onboard_time": 1728178337,
       "rank": 45,
       "category": "数码"
-    },
-    {
-      "raw_hot": 101519,
-      "num": 346061,
-      "word": "多给小西天一点时间",
-      "onboard_time": 1728181698,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 101195,
