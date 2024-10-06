@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1728231932217,
+  "endTime": 1728232865599,
   "band_list": [
     {
       "raw_hot": 11925969,
@@ -1024,6 +1024,14 @@
       "word": "黄继光母亲曾立家规后代都要参军",
       "onboard_time": 1728012258,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 919183,
+      "num": 232862,
+      "word": "女博主独闯哀牢山深处2天后报平安",
+      "onboard_time": 1728229759,
+      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -2777,14 +2785,6 @@
       "onboard_time": 1728189018,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 518716,
-      "num": 232862,
-      "word": "女博主独闯哀牢山深处2天后报平安",
-      "onboard_time": 1728229759,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 518322,
@@ -5505,6 +5505,14 @@
       "onboard_time": 1727863579,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 268102,
+      "num": 165358,
+      "word": "田曦薇cos玛蒂尔达",
+      "onboard_time": 1728231497,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 267856,
@@ -8835,6 +8843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 177235,
+      "num": 236329,
+      "word": "G2战胜WBG",
+      "onboard_time": 1728230781,
+      "rank": 14,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 176836,
       "num": 176836,
       "word": "王源太湖湾",
@@ -9995,6 +10011,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 156680,
+      "num": 156680,
+      "word": "周深正是藏不住惊喜的年纪",
+      "onboard_time": 1728232098,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
       "raw_hot": 156660,
       "num": 156660,
       "word": "校方回应男生遭同学多次用板凳砸头",
@@ -10067,14 +10091,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 155747,
-      "num": 155747,
-      "word": "田曦薇cos玛蒂尔达",
-      "onboard_time": 1728231497,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 155740,
       "num": 155740,
       "word": "伊朗民众上街高呼反美反以口号",
@@ -10089,14 +10105,6 @@
       "onboard_time": 1727773820,
       "rank": 19,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 155584,
-      "num": 236329,
-      "word": "G2战胜WBG",
-      "onboard_time": 1728230781,
-      "rank": 14,
-      "category": "电竞"
     },
     {
       "raw_hot": 155428,
@@ -17659,6 +17667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 33410,
+      "num": 128935,
+      "word": "92岁书画鉴定家与文物相伴70多年",
+      "onboard_time": 1728231918,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 33224,
       "num": 218134,
       "word": "三代人接力合唱今天是你的生日",
@@ -17753,6 +17769,14 @@
       "onboard_time": 1727879901,
       "rank": 29,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 31745,
+      "num": 170470,
+      "word": "印拟向全球推广印度制造",
+      "onboard_time": 1728232398,
+      "rank": 14,
+      "category": "国外时政"
     },
     {
       "raw_hot": 31600,
