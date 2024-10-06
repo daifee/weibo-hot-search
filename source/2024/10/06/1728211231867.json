@@ -1,0 +1,410 @@
+{
+  "runTime": 1728211231867,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1405864,
+        "num": 1405864,
+        "word": "孙颖莎vs王曼昱",
+        "onboard_time": 1728207740,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 699347,
+        "num": 699347,
+        "word": "男子抱光腿娃坐公交司机立刻报警",
+        "onboard_time": 1728199997,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27680,
+        "num": 646026,
+        "word": "国庆文旅活动实力圈粉",
+        "onboard_time": 1728206178,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 603035,
+        "num": 603035,
+        "word": "三胞胎宝宝坐高铁买挂票",
+        "onboard_time": 1728195978,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 475102,
+        "num": 475102,
+        "word": "为什么越来越多奶茶咖啡不能去冰了",
+        "onboard_time": 1728201858,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 417655,
+        "num": 417655,
+        "word": "26岁研究员带宝剑护送2000多件文物",
+        "onboard_time": 1728206778,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 284245,
+        "num": 284245,
+        "word": "职工医保个人账户如何共济给家人",
+        "onboard_time": 1728204319,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 269707,
+        "num": 269707,
+        "word": "当地回应新娘哥嫂临时加彩礼18万",
+        "onboard_time": 1728208458,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 64893,
+        "num": 266098,
+        "word": "你会为了当地美食奔赴一座城吗",
+        "onboard_time": 1728203958,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 263284,
+        "num": 263284,
+        "word": "谁敢动文物我就拿这把剑跟他拼了",
+        "onboard_time": 1728207079,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2607170,
+        "num": 261977,
+        "word": "黄磊炖豆角",
+        "onboard_time": 1728208399,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 825928,
+        "num": 256787,
+        "word": "戚薇cos毛利兰",
+        "onboard_time": 1728210199,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 732221,
+        "num": 254447,
+        "word": "哀牢山曾发生多起人员失联遇难",
+        "onboard_time": 1728194778,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 555899,
+        "num": 251084,
+        "word": "哀牢山本地人发声",
+        "onboard_time": 1728172157,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 488790,
+        "num": 247023,
+        "word": "王楚钦球员见面会",
+        "onboard_time": 1728209119,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1061503,
+        "num": 241692,
+        "word": "黄磊做饭",
+        "onboard_time": 1728205759,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 419581,
+        "num": 239609,
+        "word": "哀牢山640米要走3小时以上",
+        "onboard_time": 1728208099,
+        "rank": 16,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 303273,
+        "num": 233390,
+        "word": "那英 你怎么不张嘴呢",
+        "onboard_time": 1728204017,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 268562,
+        "num": 229182,
+        "word": "樊振东小时候背书包去看王皓比赛",
+        "onboard_time": 1728202219,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 227811,
+        "num": 227811,
+        "word": "鞠婧祎曾舜晞 画皮",
+        "onboard_time": 1728199338,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 287568,
+        "num": 222779,
+        "word": "网传新郎接亲被临时加要18万彩礼",
+        "onboard_time": 1728204017,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241609,
+        "num": 216362,
+        "word": "女子穿僵尸服回小区吓到遛狗大爷",
+        "onboard_time": 1728200898,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206592,
+        "num": 206592,
+        "word": "外国小朋友在中国吃嗨了",
+        "onboard_time": 1728202518,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205796,
+        "num": 205796,
+        "word": "一男子在白宫附近自焚",
+        "onboard_time": 1728209719,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 82218,
+        "num": 197239,
+        "word": "盐田色彩斑斓如同打翻调色盘",
+        "onboard_time": 1728210740,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195924,
+        "num": 195924,
+        "word": "赵晓卉 当明星没有上班辛苦",
+        "onboard_time": 1728194778,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194762,
+        "num": 194762,
+        "word": "时装周最热艺人前十",
+        "onboard_time": 1728211039,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 191624,
+        "num": 191624,
+        "word": "华晨宇谈抑郁症",
+        "onboard_time": 1728198618,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 180660,
+        "num": 180660,
+        "word": "杨洋书生造型",
+        "onboard_time": 1728202759,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175624,
+        "num": 175624,
+        "word": "怎么让全国人民都知道我瘦了30多斤",
+        "onboard_time": 1728193459,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159638,
+        "num": 159638,
+        "word": "舍不得星星",
+        "onboard_time": 1728209238,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157332,
+        "num": 157332,
+        "word": "张凌赫有题是真做",
+        "onboard_time": 1728205638,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151683,
+        "num": 151683,
+        "word": "小西天爆火让更多人认识了隰字",
+        "onboard_time": 1728192678,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146034,
+        "num": 146034,
+        "word": "邓亚萍说马龙打成精了",
+        "onboard_time": 1728210019,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136024,
+        "num": 136024,
+        "word": "林俊杰的钢琴",
+        "onboard_time": 1728210438,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 131967,
+        "num": 131967,
+        "word": "霉霉净资产",
+        "onboard_time": 1728191178,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126509,
+        "num": 126509,
+        "word": "女子推理社",
+        "onboard_time": 1728196697,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124438,
+        "num": 124438,
+        "word": "Faker说小虎可以爱豆出道了",
+        "onboard_time": 1728206359,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 121457,
+        "num": 121457,
+        "word": "台湾海峡中部发生3.7级地震",
+        "onboard_time": 1728205340,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119136,
+        "num": 119136,
+        "word": "上海不愧是大名鼎鼎的魔都",
+        "onboard_time": 1728210619,
+        "rank": 39,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 116107,
+        "num": 116107,
+        "word": "欧豪被朱亚文夸红温了",
+        "onboard_time": 1728209598,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 115374,
+        "num": 115374,
+        "word": "车车车车高速车车车车",
+        "onboard_time": 1728191178,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115108,
+        "num": 115108,
+        "word": "小西天被喊差评后疯狂宠游客",
+        "onboard_time": 1728210798,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110574,
+        "num": 110574,
+        "word": "出国游儿子只想在酒店挖沙妈妈气炸",
+        "onboard_time": 1728205518,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107643,
+        "num": 107643,
+        "word": "2NE1首尔演唱会",
+        "onboard_time": 1728204198,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 106128,
+        "num": 106128,
+        "word": "王楚钦与粉丝大合影",
+        "onboard_time": 1728210858,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 103915,
+        "num": 103915,
+        "word": "1男1女骑电动车半挂有娃婴儿车",
+        "onboard_time": 1728210919,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102372,
+        "num": 102372,
+        "word": "看着小天才电话手表我轻轻的碎了",
+        "onboard_time": 1728209598,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 100379,
+        "num": 100379,
+        "word": "人口9万人小县城单日游客过万",
+        "onboard_time": 1728203958,
+        "rank": 48,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 99543,
+        "num": 99543,
+        "word": "檀健次 唱最嗨的歌蹦最野的迪",
+        "onboard_time": 1728211039,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#文脉千秋江山入画#"
+    }
+  }
+}
