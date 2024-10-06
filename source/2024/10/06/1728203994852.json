@@ -1,0 +1,410 @@
+{
+  "runTime": 1728203994852,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1751970,
+        "num": 1751970,
+        "word": "男子抱光腿娃坐公交司机立刻报警",
+        "onboard_time": 1728199997,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1182841,
+        "num": 1182841,
+        "word": "三胞胎宝宝坐高铁买挂票",
+        "onboard_time": 1728195978,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23600,
+        "num": 530806,
+        "word": "斑斓的画笔只为中国",
+        "onboard_time": 1728186919,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 478450,
+        "num": 478450,
+        "word": "怎么让全国人民都知道我瘦了30多斤",
+        "onboard_time": 1728193459,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 347635,
+        "num": 347635,
+        "word": "为什么越来越多奶茶咖啡不能去冰了",
+        "onboard_time": 1728201858,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 332452,
+        "num": 332452,
+        "word": "大爷还没意识到他马上成为景点",
+        "onboard_time": 1728191719,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 311795,
+        "num": 311795,
+        "word": "黑神话取景地灵岩寺现巨型悟空",
+        "onboard_time": 1728200418,
+        "rank": 6,
+        "category": "社会新闻,游戏"
+      },
+      {
+        "raw_hot": 160789,
+        "num": 311673,
+        "word": "开始听反方向的钟了",
+        "onboard_time": 1728187037,
+        "rank": 7,
+        "category": "音乐,幽默"
+      },
+      {
+        "raw_hot": 35565,
+        "num": 311636,
+        "word": "为何有推免生在临门一脚时反悔",
+        "onboard_time": 1728202098,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 12686,
+        "num": 311605,
+        "word": "你会为了当地美食奔赴一座城吗",
+        "onboard_time": 1728203958,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 311601,
+        "num": 311601,
+        "word": "小西天爆火让更多人认识了隰字",
+        "onboard_time": 1728192678,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 665144,
+        "num": 309087,
+        "word": "哀牢山曾发生多起人员失联遇难",
+        "onboard_time": 1728194778,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 617954,
+        "num": 306949,
+        "word": "鞠婧祎曾舜晞 画皮",
+        "onboard_time": 1728199338,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 565638,
+        "num": 301695,
+        "word": "哀牢山本地人发声",
+        "onboard_time": 1728172157,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21199,
+        "num": 298115,
+        "word": "山西隰县举全县之力做好服务",
+        "onboard_time": 1728203358,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 460993,
+        "num": 294512,
+        "word": "赵晓卉 当明星没有上班辛苦",
+        "onboard_time": 1728194778,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 386568,
+        "num": 290100,
+        "word": "李玉刚再回应被指划水",
+        "onboard_time": 1728197359,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 343819,
+        "num": 286114,
+        "word": "霉霉净资产",
+        "onboard_time": 1728191178,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 320750,
+        "num": 279833,
+        "word": "韩安冉老公宋浩然过度劳累入院",
+        "onboard_time": 1728186558,
+        "rank": 18,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 28660,
+        "num": 276178,
+        "word": "于正回应身上痒就去洗澡",
+        "onboard_time": 1728202937,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 429340,
+        "num": 272223,
+        "word": "华晨宇谈抑郁症",
+        "onboard_time": 1728198618,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 380523,
+        "num": 269385,
+        "word": "女子穿僵尸服回小区吓到遛狗大爷",
+        "onboard_time": 1728200898,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265555,
+        "num": 265555,
+        "word": "尿不湿的年纪打出世界冠军的水准",
+        "onboard_time": 1728189258,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 256123,
+        "num": 256123,
+        "word": "王楚钦回应近期表现引起争议",
+        "onboard_time": 1728198257,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 238638,
+        "num": 238638,
+        "word": "杨洋书生造型",
+        "onboard_time": 1728202759,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 230879,
+        "num": 230879,
+        "word": "胡冰卿草莓发夹还是太全面了",
+        "onboard_time": 1728186739,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 215719,
+        "num": 215719,
+        "word": "谁能像何炅对黄磊那样对我",
+        "onboard_time": 1728193398,
+        "rank": 26,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 210303,
+        "num": 210303,
+        "word": "陈奕迅 谢谢你们没退票",
+        "onboard_time": 1728196098,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 206410,
+        "num": 206410,
+        "word": "外国小朋友在中国吃嗨了",
+        "onboard_time": 1728202518,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183542,
+        "num": 183542,
+        "word": "当事人回应在哀牢山拍写真",
+        "onboard_time": 1728187817,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180762,
+        "num": 180762,
+        "word": "我的国庆作业终于写完了",
+        "onboard_time": 1728200658,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 180689,
+        "num": 180689,
+        "word": "樊振东小时候背书包去看王皓比赛",
+        "onboard_time": 1728202219,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 180479,
+        "num": 180479,
+        "word": "研究生毕业我在县城五星级酒店打工",
+        "onboard_time": 1728201499,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156183,
+        "num": 156183,
+        "word": "她不是尚雯婕吗",
+        "onboard_time": 1728197239,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 144014,
+        "num": 144014,
+        "word": "车车车车高速车车车车",
+        "onboard_time": 1728191178,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141668,
+        "num": 141668,
+        "word": "黄金回收每克提高150元",
+        "onboard_time": 1728202697,
+        "rank": 35,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 139898,
+        "num": 139898,
+        "word": "女子推理社",
+        "onboard_time": 1728196697,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139280,
+        "num": 139280,
+        "word": "缉妖录浑身是戏的猫妖",
+        "onboard_time": 1728203478,
+        "rank": 37,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 125169,
+        "num": 125169,
+        "word": "哀牢山人类禁区遭爆改人类景区",
+        "onboard_time": 1728179838,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123752,
+        "num": 123752,
+        "word": "檀健次奶奶粉 追星的意义",
+        "onboard_time": 1728203238,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 122868,
+        "num": 122868,
+        "word": "结婚当天新娘哥哥趴车头索要彩礼",
+        "onboard_time": 1728180560,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121944,
+        "num": 121944,
+        "word": "今年冬天会史上最冷吗",
+        "onboard_time": 1728202878,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119987,
+        "num": 119987,
+        "word": "县城五星级酒店迎来泼天流量",
+        "onboard_time": 1728199578,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115356,
+        "num": 115356,
+        "word": "男子路过狗肉店发现金毛将其买下",
+        "onboard_time": 1728184877,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113037,
+        "num": 113037,
+        "word": "小西天爆火景区紧急开办导游培训班",
+        "onboard_time": 1728193699,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106247,
+        "num": 106247,
+        "word": "徐冬冬尹子维英语课整上PPT了",
+        "onboard_time": 1728203419,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104804,
+        "num": 104804,
+        "word": "小西天核心景点仅能容纳40人",
+        "onboard_time": 1728203178,
+        "rank": 46,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 103804,
+        "num": 103804,
+        "word": "当地回应新娘哥哥趴车头索要彩礼",
+        "onboard_time": 1728203717,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101508,
+        "num": 101508,
+        "word": "央视海采又有名场面",
+        "onboard_time": 1728194117,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 75054,
+        "num": 101422,
+        "word": "人口9万人小县城单日游客过万",
+        "onboard_time": 1728203958,
+        "rank": 49,
+        "category": "旅游"
+      }
+    ],
+    "hotgov": {
+      "word": "#文脉千秋江山入画#"
+    }
+  }
+}
