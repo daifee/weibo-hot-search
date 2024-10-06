@@ -1,0 +1,410 @@
+{
+  "runTime": 1728188775456,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 485747,
+        "num": 1077719,
+        "word": "专家预测A股开盘即收盘",
+        "onboard_time": 1728182718,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 390205,
+        "num": 390205,
+        "word": "开始听反方向的钟了",
+        "onboard_time": 1728187037,
+        "rank": 1,
+        "category": "音乐,幽默"
+      },
+      {
+        "raw_hot": 54417,
+        "num": 344412,
+        "word": "国庆文旅活动太全面了",
+        "onboard_time": 1728187220,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 712625,
+        "num": 344260,
+        "word": "新西兰一艘5700吨军舰沉没",
+        "onboard_time": 1728185118,
+        "rank": 3,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 528227,
+        "num": 343373,
+        "word": "12306抢票",
+        "onboard_time": 1728177078,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 342280,
+        "num": 342280,
+        "word": "液态大米",
+        "onboard_time": 1728176057,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 204200,
+        "num": 341911,
+        "word": "志愿军2票房",
+        "onboard_time": 1728174496,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 40874,
+        "num": 341197,
+        "word": "国庆氛围感壁纸",
+        "onboard_time": 1728177918,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 81827,
+        "num": 340668,
+        "word": "抠门打工人半年给演唱会氪金190亿",
+        "onboard_time": 1728188057,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33084,
+        "num": 340242,
+        "word": "返程高峰自驾应注意啥",
+        "onboard_time": 1728187699,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1355842,
+        "num": 339149,
+        "word": "韩安冉老公宋浩然过度劳累入院",
+        "onboard_time": 1728186558,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1193085,
+        "num": 338793,
+        "word": "哀牢山本地人发声",
+        "onboard_time": 1728172157,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1045661,
+        "num": 338239,
+        "word": "男子路过狗肉店发现金毛将其买下",
+        "onboard_time": 1728184877,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 878907,
+        "num": 337628,
+        "word": "哀牢山人类禁区遭爆改人类景区",
+        "onboard_time": 1728179838,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 764733,
+        "num": 337033,
+        "word": "十一被家庭旅游整崩溃了",
+        "onboard_time": 1728183857,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 570990,
+        "num": 336010,
+        "word": "哀牢古国",
+        "onboard_time": 1728182057,
+        "rank": 15,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 335842,
+        "num": 335842,
+        "word": "孙颖莎出战女单决赛",
+        "onboard_time": 1728180560,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 319974,
+        "num": 319974,
+        "word": "刘烨疑似失去所有力气和手段",
+        "onboard_time": 1728142339,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 291494,
+        "num": 291494,
+        "word": "以总理称法总统呼吁武器禁运可耻",
+        "onboard_time": 1728181998,
+        "rank": 18,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 87469,
+        "num": 274587,
+        "word": "志愿军2口碑",
+        "onboard_time": 1728188479,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 432860,
+        "num": 270923,
+        "word": "胡冰卿草莓发夹还是太全面了",
+        "onboard_time": 1728186739,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 384127,
+        "num": 269204,
+        "word": "结婚当天新娘哥哥趴车头索要彩礼",
+        "onboard_time": 1728180560,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262189,
+        "num": 262189,
+        "word": "13岁小孩开颅堪比女娲补天",
+        "onboard_time": 1728187220,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 254415,
+        "num": 254415,
+        "word": "光与夜之恋",
+        "onboard_time": 1728188239,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 246998,
+        "num": 246998,
+        "word": "朴山多拉41岁的状态",
+        "onboard_time": 1728188178,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 248390,
+        "num": 246909,
+        "word": "光与夜之恋 线条小狗",
+        "onboard_time": 1728188299,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 246582,
+        "num": 246582,
+        "word": "国庆档唯一反转赛道电影",
+        "onboard_time": 1728184217,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 235615,
+        "num": 235615,
+        "word": "萧山机场确认昨晚CA4578航班返航",
+        "onboard_time": 1728185839,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226248,
+        "num": 226248,
+        "word": "假冒媒体杜撰网文被立案侦查",
+        "onboard_time": 1728150313,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196461,
+        "num": 196461,
+        "word": "国庆假期倒数第2天",
+        "onboard_time": 1728177676,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191790,
+        "num": 191790,
+        "word": "当事人回应在哀牢山拍写真",
+        "onboard_time": 1728187817,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190247,
+        "num": 190247,
+        "word": "没过门姑爷就是好用",
+        "onboard_time": 1728183917,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 189934,
+        "num": 189934,
+        "word": "WTT中国大满贯总票房近6000万",
+        "onboard_time": 1728184998,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 181762,
+        "num": 181762,
+        "word": "黎巴嫩人说饿死也不愿死在以军手中",
+        "onboard_time": 1728174977,
+        "rank": 33,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 179315,
+        "num": 179315,
+        "word": "求中餐厅全员二搭花少教程",
+        "onboard_time": 1728179658,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177190,
+        "num": 177190,
+        "word": "第五人格",
+        "onboard_time": 1728185057,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 162875,
+        "num": 162875,
+        "word": "马克龙呼吁停止向以提供武器",
+        "onboard_time": 1728184877,
+        "rank": 36,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 162571,
+        "num": 162571,
+        "word": "柳智敏遭偷拍生气变脸",
+        "onboard_time": 1728170835,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 160606,
+        "num": 160606,
+        "word": "因狗结缘成为朋友因狗生病反目",
+        "onboard_time": 1728178758,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159970,
+        "num": 159970,
+        "word": "阿勒泰的羊羊也太蓬了吧",
+        "onboard_time": 1728178998,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155174,
+        "num": 155174,
+        "word": "为什么不吃米面体重很快会降",
+        "onboard_time": 1728173116,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 147489,
+        "num": 147489,
+        "word": "国庆提前返程的人又堵在路上了",
+        "onboard_time": 1728187580,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138777,
+        "num": 138777,
+        "word": "李泽锋 40岁的人了露二头肌合适吗",
+        "onboard_time": 1728188358,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131501,
+        "num": 131501,
+        "word": "宠物领养协议有效吗",
+        "onboard_time": 1728184397,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130686,
+        "num": 130686,
+        "word": "肖战歌曲预热",
+        "onboard_time": 1728171014,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 126810,
+        "num": 126810,
+        "word": "美联储亏损已破2000亿美元",
+        "onboard_time": 1728180858,
+        "rank": 45,
+        "category": "财经,国外时政"
+      },
+      {
+        "raw_hot": 124362,
+        "num": 124362,
+        "word": "我们的歌金曲季收官",
+        "onboard_time": 1728187458,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123033,
+        "num": 123033,
+        "word": "樊振东小时候和现在的相同之处",
+        "onboard_time": 1728188658,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121358,
+        "num": 121358,
+        "word": "音乐缘计划今晚玩的就是心跳",
+        "onboard_time": 1728188117,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121183,
+        "num": 121183,
+        "word": "洛天依全息演唱会",
+        "onboard_time": 1728185357,
+        "rank": 49,
+        "category": "动漫"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同金正恩互致贺电#"
+    }
+  }
+}

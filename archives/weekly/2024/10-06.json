@@ -1,6 +1,6 @@
 {
   "startTime": 1728145573126,
-  "endTime": 1728186209477,
+  "endTime": 1728188775456,
   "band_list": [
     {
       "raw_hot": 1902792,
@@ -19,6 +19,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1355842,
+      "num": 339149,
+      "word": "韩安冉老公宋浩然过度劳累入院",
+      "onboard_time": 1728186558,
+      "rank": 10,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1192421,
       "num": 1192421,
       "word": "液态大米",
@@ -32,6 +40,14 @@
       "word": "房产销售的嗓子已经冒烟了",
       "onboard_time": 1728178457,
       "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1045661,
+      "num": 338239,
+      "word": "男子路过狗肉店发现金毛将其买下",
+      "onboard_time": 1728184877,
+      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -57,6 +73,14 @@
       "onboard_time": 1728177078,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 764733,
+      "num": 343548,
+      "word": "十一被家庭旅游整崩溃了",
+      "onboard_time": 1728183857,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 755865,
@@ -91,6 +115,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 712625,
+      "num": 344260,
+      "word": "新西兰一艘5700吨军舰沉没",
+      "onboard_time": 1728185118,
+      "rank": 35,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 572617,
       "num": 284642,
       "word": "结婚当天新娘哥哥趴车头索要彩礼",
@@ -107,28 +139,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 546035,
-      "num": 298280,
-      "word": "男子路过狗肉店发现金毛将其买下",
-      "onboard_time": 1728184877,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 544202,
-      "num": 544202,
+      "num": 1077719,
       "word": "专家预测A股开盘即收盘",
       "onboard_time": 1728182718,
       "rank": 17,
       "category": "财经"
-    },
-    {
-      "raw_hot": 531822,
-      "num": 343548,
-      "word": "十一被家庭旅游整崩溃了",
-      "onboard_time": 1728183857,
-      "rank": 33,
-      "category": "情感"
     },
     {
       "raw_hot": 500067,
@@ -161,6 +177,14 @@
       "onboard_time": 1728173116,
       "rank": 11,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 432860,
+      "num": 270923,
+      "word": "胡冰卿草莓发夹还是太全面了",
+      "onboard_time": 1728186739,
+      "rank": 20,
+      "category": "电影"
     },
     {
       "raw_hot": 427531,
@@ -225,6 +249,14 @@
       "onboard_time": 1728178998,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 390205,
+      "num": 390205,
+      "word": "开始听反方向的钟了",
+      "onboard_time": 1728187037,
+      "rank": 1,
+      "category": "音乐,幽默"
     },
     {
       "raw_hot": 380995,
@@ -299,14 +331,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 321727,
-      "num": 321727,
-      "word": "新西兰一艘5700吨军舰沉没",
-      "onboard_time": 1728185118,
-      "rank": 35,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 319248,
       "num": 261990,
       "word": "斯里兰卡警方介入中国母女酒店遇袭",
@@ -379,12 +403,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 262189,
+      "num": 262189,
+      "word": "13岁小孩开颅堪比女娲补天",
+      "onboard_time": 1728187220,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 258521,
       "num": 258521,
       "word": "iPhone16物料成本拆解出炉",
       "onboard_time": 1728171615,
       "rank": 8,
       "category": "数码"
+    },
+    {
+      "raw_hot": 254415,
+      "num": 254415,
+      "word": "光与夜之恋",
+      "onboard_time": 1728188239,
+      "rank": 23,
+      "category": "游戏"
     },
     {
       "raw_hot": 253289,
@@ -411,6 +451,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 248390,
+      "num": 246909,
+      "word": "光与夜之恋 线条小狗",
+      "onboard_time": 1728188299,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 246998,
+      "num": 246998,
+      "word": "朴山多拉41岁的状态",
+      "onboard_time": 1728188178,
+      "rank": 24,
+      "category": "演出"
+    },
+    {
       "raw_hot": 243146,
       "num": 243146,
       "word": "肖战歌曲预热",
@@ -433,6 +489,14 @@
       "onboard_time": 1728135019,
       "rank": 22,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 235615,
+      "num": 235615,
+      "word": "萧山机场确认昨晚CA4578航班返航",
+      "onboard_time": 1728185839,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 230112,
@@ -515,6 +579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 191790,
+      "num": 191790,
+      "word": "当事人回应在哀牢山拍写真",
+      "onboard_time": 1728187817,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 188529,
       "num": 148611,
       "word": "甲状腺生病5个早期征兆",
@@ -579,14 +651,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 164903,
-      "num": 164903,
-      "word": "萧山机场确认昨晚CA4578航班返航",
-      "onboard_time": 1728185839,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 164472,
       "num": 253163,
       "word": "92岁抗美援朝女兵实弹打靶10发97环",
@@ -643,6 +707,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 147489,
+      "num": 147489,
+      "word": "国庆提前返程的人又堵在路上了",
+      "onboard_time": 1728187580,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 145959,
       "num": 145959,
       "word": "Henry唱全是爱",
@@ -675,12 +747,28 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 138777,
+      "num": 138777,
+      "word": "李泽锋 40岁的人了露二头肌合适吗",
+      "onboard_time": 1728188358,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 132249,
       "num": 132249,
       "word": "杨千嬅重庆演唱会",
       "onboard_time": 1728145757,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 131501,
+      "num": 131501,
+      "word": "宠物领养协议有效吗",
+      "onboard_time": 1728184397,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 129799,
@@ -731,6 +819,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 124362,
+      "num": 124362,
+      "word": "我们的歌金曲季收官",
+      "onboard_time": 1728187458,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 123033,
+      "num": 123033,
+      "word": "樊振东小时候和现在的相同之处",
+      "onboard_time": 1728188658,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 122086,
       "num": 122086,
       "word": "卡瓦哈尔重伤",
@@ -747,8 +851,16 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 116708,
-      "num": 116708,
+      "raw_hot": 121358,
+      "num": 121358,
+      "word": "音乐缘计划今晚玩的就是心跳",
+      "onboard_time": 1728188117,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 121183,
+      "num": 121183,
       "word": "洛天依全息演唱会",
       "onboard_time": 1728185357,
       "rank": 46,
@@ -971,6 +1083,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 87469,
+      "num": 274587,
+      "word": "志愿军2口碑",
+      "onboard_time": 1728188479,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
       "raw_hot": 84540,
       "num": 84540,
       "word": "王鹤棣叫紫霞老婆",
@@ -984,6 +1104,14 @@
       "word": "被鸣沙山上的特殊升旗仪式感动了",
       "onboard_time": 1728141020,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 81827,
+      "num": 340668,
+      "word": "抠门打工人半年给演唱会氪金190亿",
+      "onboard_time": 1728188057,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -1099,6 +1227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 54417,
+      "num": 344412,
+      "word": "国庆文旅活动太全面了",
+      "onboard_time": 1728187220,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 50869,
       "num": 74904,
       "word": "亚锦赛",
@@ -1163,6 +1299,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 40874,
+      "num": 341197,
+      "word": "国庆氛围感壁纸",
+      "onboard_time": 1728177918,
+      "rank": 7,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 39734,
       "num": 105660,
       "word": "返程高峰高速交警给你划重点",
@@ -1185,6 +1329,14 @@
       "onboard_time": 1728168853,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 33084,
+      "num": 340242,
+      "word": "返程高峰自驾应注意啥",
+      "onboard_time": 1728187699,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 28244,
@@ -1254,6 +1406,9 @@
   "hotgov_list": [
     {
       "word": "#新时代的中国活力满满热气腾腾#"
+    },
+    {
+      "word": "#习近平同金正恩互致贺电#"
     }
   ]
 }
