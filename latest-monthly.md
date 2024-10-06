@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/10/01 00:28:17 ~ 2024/10/07 06:38:03
+本榜单时间：2024/10/01 00:28:17 ~ 2024/10/07 07:20:46
 </p>
 </blockquote>
 <p>
@@ -3081,6 +3081,12 @@ BLG下路（热度：374278）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A2%9C%E6%96%99%E5%85%AC%E5%8F%B8%E5%9B%9E%E5%BA%94%E5%93%80%E7%89%A2%E5%B1%B1%E5%8F%96%E6%9D%90%E8%A7%86%E9%A2%91%E7%88%86%E7%81%AB%23" target="weibo">
+颜料公司回应哀牢山取材视频爆火（热度：358004）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23749%E5%B1%80%E7%A5%A8%E6%88%BF%23" target="weibo">
 749局票房（热度：356935）
 </a>
@@ -4037,12 +4043,6 @@ DK对战LNG（热度：311674）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E5%BC%98%E5%87%A1%E7%9B%B4%E6%92%AD%23" target="weibo">
 黄子弘凡直播（热度：273754）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A2%9C%E6%96%99%E5%85%AC%E5%8F%B8%E5%9B%9E%E5%BA%94%E5%93%80%E7%89%A2%E5%B1%B1%E5%8F%96%E6%9D%90%E8%A7%86%E9%A2%91%E7%88%86%E7%81%AB%23" target="weibo">
-颜料公司回应哀牢山取材视频爆火（热度：273534）
 </a>
 </li>
 

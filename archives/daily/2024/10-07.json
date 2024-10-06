@@ -1,6 +1,6 @@
 {
   "startTime": 1728231932217,
-  "endTime": 1728254283083,
+  "endTime": 1728256846527,
   "band_list": [
     {
       "raw_hot": 1367280,
@@ -75,6 +75,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 358004,
+      "num": 92072,
+      "word": "颜料公司回应哀牢山取材视频爆火",
+      "onboard_time": 1728218180,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 350545,
       "num": 221122,
       "word": "哀牢山曾发生多起人员失联遇难",
@@ -124,7 +132,7 @@
     },
     {
       "raw_hot": 295837,
-      "num": 450027,
+      "num": 738739,
       "word": "男子抱光腿娃坐公交司机立刻报警",
       "onboard_time": 1728199997,
       "rank": 6,
@@ -179,12 +187,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 162099,
-      "num": 66529,
-      "word": "颜料公司回应哀牢山取材视频爆火",
-      "onboard_time": 1728218180,
-      "rank": 47,
-      "category": "社会新闻"
+      "raw_hot": 172760,
+      "num": 172760,
+      "word": "撤黎台湾同胞称祖国就是中国",
+      "onboard_time": 1728220760,
+      "rank": 34,
+      "category": "国内时政"
     },
     {
       "raw_hot": 161285,
@@ -267,14 +275,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 138718,
-      "num": 138718,
-      "word": "撤黎台湾同胞称祖国就是中国",
-      "onboard_time": 1728220760,
-      "rank": 34,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 138453,
       "num": 138453,
       "word": "BLG对战T1",
@@ -331,6 +331,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 126937,
+      "num": 89456,
+      "word": "伊朗全国机场暂停航班起降9小时",
+      "onboard_time": 1728256754,
+      "rank": 17,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 126130,
       "num": 126130,
       "word": "孙颖莎4比2战胜王曼昱",
@@ -361,6 +369,14 @@
       "onboard_time": 1728222681,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 124035,
+      "num": 170470,
+      "word": "印拟向全球推广印度制造",
+      "onboard_time": 1728232398,
+      "rank": 14,
+      "category": "国外时政"
     },
     {
       "raw_hot": 117077,
@@ -395,20 +411,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 105982,
+      "num": 105982,
+      "word": "他们在垃圾堆里淘宝式找出多件文物",
+      "onboard_time": 1728244212,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 104138,
-      "num": 84314,
+      "num": 89016,
       "word": "A股明天正式开盘",
       "onboard_time": 1728235935,
       "rank": 23,
       "category": "财经"
-    },
-    {
-      "raw_hot": 102609,
-      "num": 170470,
-      "word": "印拟向全球推广印度制造",
-      "onboard_time": 1728232398,
-      "rank": 14,
-      "category": "国外时政"
     },
     {
       "raw_hot": 100677,
@@ -419,12 +435,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 96176,
-      "num": 96176,
-      "word": "他们在垃圾堆里淘宝式找出多件文物",
-      "onboard_time": 1728244212,
-      "rank": 9,
-      "category": "社会新闻"
+      "raw_hot": 79484,
+      "num": 61269,
+      "word": "孙颖莎出发下一站",
+      "onboard_time": 1728256574,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 62622,
+      "num": 62622,
+      "word": "王一博独自攀登沙漠珠峰看日出",
+      "onboard_time": 1728252191,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 60423,
@@ -443,6 +467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 57704,
+      "num": 57704,
+      "word": "男子3次吃附子3次中毒被抢救",
+      "onboard_time": 1728249852,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 53047,
       "num": 53047,
       "word": "肖宇梁饰演光绪",
@@ -459,12 +491,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 48243,
-      "num": 41375,
+      "raw_hot": 51451,
+      "num": 51451,
       "word": "买到站票你会明白军训的意义",
       "onboard_time": 1728250151,
       "rank": 42,
       "category": "教育"
+    },
+    {
+      "raw_hot": 45823,
+      "num": 45823,
+      "word": "薛之谦 在那天回不去的路上",
+      "onboard_time": 1728226701,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 44447,
@@ -475,12 +515,36 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 41240,
-      "num": 41240,
-      "word": "男子3次吃附子3次中毒被抢救",
-      "onboard_time": 1728249852,
-      "rank": 46,
+      "raw_hot": 44362,
+      "num": 44362,
+      "word": "你现在开始穿长袖了吗",
+      "onboard_time": 1728240073,
+      "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 42959,
+      "num": 42959,
+      "word": "南昌滕王阁保安小哥花式整活",
+      "onboard_time": 1728240133,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 42723,
+      "num": 42723,
+      "word": "黑龙江数千亩蔓越莓上市啦",
+      "onboard_time": 1728245413,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 41702,
+      "num": 41702,
+      "word": "新一轮巴以冲突爆发一周年",
+      "onboard_time": 1728240614,
+      "rank": 37,
+      "category": "国外时政"
     },
     {
       "raw_hot": 39747,
@@ -491,23 +555,7 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 39533,
-      "num": 39533,
-      "word": "薛之谦 在那天回不去的路上",
-      "onboard_time": 1728226701,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 39359,
-      "num": 42523,
-      "word": "南昌滕王阁保安小哥花式整活",
-      "onboard_time": 1728240133,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 38767,
+      "raw_hot": 38779,
       "num": 250015,
       "word": "人人人人景点人人人人",
       "onboard_time": 1728230718,
@@ -539,20 +587,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 32873,
-      "num": 32873,
-      "word": "王一博独自攀登沙漠珠峰看日出",
-      "onboard_time": 1728252191,
-      "rank": 42,
-      "category": "艺人"
+      "raw_hot": 29724,
+      "num": 41609,
+      "word": "哀牢山村民称对自然要有敬畏之心",
+      "onboard_time": 1728242952,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
-      "raw_hot": 30535,
-      "num": 30535,
-      "word": "新一轮巴以冲突爆发一周年",
-      "onboard_time": 1728240614,
-      "rank": 37,
-      "category": "国外时政"
+      "raw_hot": 29620,
+      "num": 41545,
+      "word": "宝宝只对着妈妈一人唱歌",
+      "onboard_time": 1728256634,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 29549,
@@ -561,22 +609,6 @@
       "onboard_time": 1728230300,
       "rank": 47,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 29442,
-      "num": 29442,
-      "word": "哀牢山村民称对自然要有敬畏之心",
-      "onboard_time": 1728242952,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 28726,
-      "num": 30620,
-      "word": "黑龙江数千亩蔓越莓上市啦",
-      "onboard_time": 1728245413,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 28000,
@@ -603,14 +635,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 26055,
-      "num": 26055,
-      "word": "你现在开始穿长袖了吗",
-      "onboard_time": 1728240073,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 25881,
       "num": 29348,
       "word": "网红打卡地出片安全提示",
@@ -627,7 +651,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 18665,
+      "raw_hot": 22372,
       "num": 187725,
       "word": "每一次与国旗同框都倍感骄傲",
       "onboard_time": 1728218903,
