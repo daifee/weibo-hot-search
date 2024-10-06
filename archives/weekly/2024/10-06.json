@@ -1,6 +1,6 @@
 {
   "startTime": 1728145573126,
-  "endTime": 1728188775456,
+  "endTime": 1728189639735,
   "band_list": [
     {
       "raw_hot": 1902792,
@@ -116,7 +116,7 @@
     },
     {
       "raw_hot": 712625,
-      "num": 344260,
+      "num": 351195,
       "word": "新西兰一艘5700吨军舰沉没",
       "onboard_time": 1728185118,
       "rank": 35,
@@ -169,6 +169,14 @@
       "onboard_time": 1728178758,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 440336,
+      "num": 440336,
+      "word": "开始听反方向的钟了",
+      "onboard_time": 1728187037,
+      "rank": 1,
+      "category": "音乐,幽默"
     },
     {
       "raw_hot": 439253,
@@ -251,14 +259,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 390205,
-      "num": 390205,
-      "word": "开始听反方向的钟了",
-      "onboard_time": 1728187037,
-      "rank": 1,
-      "category": "音乐,幽默"
-    },
-    {
       "raw_hot": 380995,
       "num": 380995,
       "word": "中东局势到了最危急时刻",
@@ -299,12 +299,28 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 362024,
+      "num": 246998,
+      "word": "朴山多拉41岁的状态",
+      "onboard_time": 1728188178,
+      "rank": 24,
+      "category": "演出"
+    },
+    {
       "raw_hot": 355391,
       "num": 251551,
       "word": "立威廉一开口我的青春回来了",
       "onboard_time": 1728139699,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 339816,
+      "num": 243262,
+      "word": "李泽锋 40岁的人了露二头肌合适吗",
+      "onboard_time": 1728188358,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 338195,
@@ -339,6 +355,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 303767,
+      "num": 246909,
+      "word": "光与夜之恋 线条小狗",
+      "onboard_time": 1728188299,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 302117,
+      "num": 254415,
+      "word": "光与夜之恋",
+      "onboard_time": 1728188239,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 297193,
       "num": 297193,
       "word": "为什么酒店里的被子睡完特别痒",
@@ -369,6 +401,14 @@
       "onboard_time": 1728169994,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 280237,
+      "num": 262189,
+      "word": "13岁小孩开颅堪比女娲补天",
+      "onboard_time": 1728187220,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 279693,
@@ -403,14 +443,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 262189,
-      "num": 262189,
-      "word": "13岁小孩开颅堪比女娲补天",
-      "onboard_time": 1728187220,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 258521,
       "num": 258521,
       "word": "iPhone16物料成本拆解出炉",
@@ -419,12 +451,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 254415,
-      "num": 254415,
-      "word": "光与夜之恋",
-      "onboard_time": 1728188239,
-      "rank": 23,
-      "category": "游戏"
+      "raw_hot": 255618,
+      "num": 234501,
+      "word": "王楚钦出席球员见面会",
+      "onboard_time": 1728188837,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 253289,
@@ -433,6 +465,14 @@
       "onboard_time": 1728134299,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 251376,
+      "num": 251376,
+      "word": "当事人回应在哀牢山拍写真",
+      "onboard_time": 1728187817,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 250780,
@@ -449,22 +489,6 @@
       "onboard_time": 1728174496,
       "rank": 29,
       "category": "电影"
-    },
-    {
-      "raw_hot": 248390,
-      "num": 246909,
-      "word": "光与夜之恋 线条小狗",
-      "onboard_time": 1728188299,
-      "rank": 25,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 246998,
-      "num": 246998,
-      "word": "朴山多拉41岁的状态",
-      "onboard_time": 1728188178,
-      "rank": 24,
-      "category": "演出"
     },
     {
       "raw_hot": 243146,
@@ -497,6 +521,14 @@
       "onboard_time": 1728185839,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 231379,
+      "num": 231379,
+      "word": "马龙 GOAT",
+      "onboard_time": 1728189018,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 230112,
@@ -547,6 +579,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 195144,
+      "num": 195144,
+      "word": "樊振东小时候和现在的相同之处",
+      "onboard_time": 1728188658,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 194212,
       "num": 194212,
       "word": "王楚钦调侃梁靖崑网速快",
@@ -579,11 +619,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 191790,
-      "num": 191790,
-      "word": "当事人回应在哀牢山拍写真",
-      "onboard_time": 1728187817,
-      "rank": 30,
+      "raw_hot": 188749,
+      "num": 235300,
+      "word": "尿不湿的年纪打出世界冠军的水准",
+      "onboard_time": 1728189258,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -635,12 +675,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 181696,
+      "num": 181696,
+      "word": "第五人格昆虫学者",
+      "onboard_time": 1728188780,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 174286,
       "num": 174286,
       "word": "我们的歌",
       "onboard_time": 1728184938,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 166062,
+      "num": 188135,
+      "word": "A股国庆休市期间发生了什么",
+      "onboard_time": 1728188780,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 165745,
@@ -665,6 +721,22 @@
       "onboard_time": 1728180140,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 156989,
+      "num": 156989,
+      "word": "第五人格皮肤排期",
+      "onboard_time": 1728188898,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 154984,
+      "num": 154984,
+      "word": "国庆提前返程的人又堵在路上了",
+      "onboard_time": 1728187580,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 154709,
@@ -707,14 +779,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 147489,
-      "num": 147489,
-      "word": "国庆提前返程的人又堵在路上了",
-      "onboard_time": 1728187580,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 145959,
       "num": 145959,
       "word": "Henry唱全是爱",
@@ -747,12 +811,28 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 138777,
-      "num": 138777,
-      "word": "李泽锋 40岁的人了露二头肌合适吗",
-      "onboard_time": 1728188358,
-      "rank": 42,
-      "category": "艺人"
+      "raw_hot": 136435,
+      "num": 274587,
+      "word": "志愿军2口碑",
+      "onboard_time": 1728188479,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 136314,
+      "num": 136314,
+      "word": "自黎巴嫩撤离的台湾同胞谈感受",
+      "onboard_time": 1728189557,
+      "rank": 48,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 132993,
+      "num": 132993,
+      "word": "券商今日起部分岗位全面复工",
+      "onboard_time": 1728189619,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 132249,
@@ -825,14 +905,6 @@
       "onboard_time": 1728187458,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 123033,
-      "num": 123033,
-      "word": "樊振东小时候和现在的相同之处",
-      "onboard_time": 1728188658,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 122086,
@@ -913,6 +985,14 @@
       "onboard_time": 1728130041,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 110189,
+      "num": 340668,
+      "word": "抠门打工人半年给演唱会氪金190亿",
+      "onboard_time": 1728188057,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 110179,
@@ -1083,14 +1163,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 87469,
-      "num": 274587,
-      "word": "志愿军2口碑",
-      "onboard_time": 1728188479,
-      "rank": 19,
-      "category": "电影"
-    },
-    {
       "raw_hot": 84540,
       "num": 84540,
       "word": "王鹤棣叫紫霞老婆",
@@ -1104,14 +1176,6 @@
       "word": "被鸣沙山上的特殊升旗仪式感动了",
       "onboard_time": 1728141020,
       "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 81827,
-      "num": 340668,
-      "word": "抠门打工人半年给演唱会氪金190亿",
-      "onboard_time": 1728188057,
-      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -1153,6 +1217,14 @@
       "onboard_time": 1728142517,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 70325,
+      "num": 363391,
+      "word": "国庆文旅活动太全面了",
+      "onboard_time": 1728187220,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 69601,
@@ -1227,14 +1299,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 54417,
-      "num": 344412,
-      "word": "国庆文旅活动太全面了",
-      "onboard_time": 1728187220,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 50869,
       "num": 74904,
       "word": "亚锦赛",
@@ -1291,6 +1355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 43576,
+      "num": 341197,
+      "word": "国庆氛围感壁纸",
+      "onboard_time": 1728177918,
+      "rank": 7,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 43068,
       "num": 43068,
       "word": "尔滨又来整活儿了",
@@ -1299,12 +1371,12 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 40874,
-      "num": 341197,
-      "word": "国庆氛围感壁纸",
-      "onboard_time": 1728177918,
-      "rank": 7,
-      "category": "国内时政"
+      "raw_hot": 42234,
+      "num": 340242,
+      "word": "返程高峰自驾应注意啥",
+      "onboard_time": 1728187699,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 39734,
@@ -1331,20 +1403,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 33084,
-      "num": 340242,
-      "word": "返程高峰自驾应注意啥",
-      "onboard_time": 1728187699,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 28244,
       "num": 46323,
       "word": "粉丝音乐节现场为Henry庆生",
       "onboard_time": 1728153493,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 22644,
+      "num": 242901,
+      "word": "于正觉得卖萌是不分年纪",
+      "onboard_time": 1728189318,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 18205,
