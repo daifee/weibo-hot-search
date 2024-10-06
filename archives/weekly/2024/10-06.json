@@ -1,6 +1,6 @@
 {
   "startTime": 1728145573126,
-  "endTime": 1728199234854,
+  "endTime": 1728200094208,
   "band_list": [
     {
       "raw_hot": 1902792,
@@ -27,8 +27,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1653345,
-      "num": 1653345,
+      "raw_hot": 1666234,
+      "num": 1666234,
       "word": "三胞胎宝宝坐高铁买挂票",
       "onboard_time": 1728195978,
       "rank": 36,
@@ -275,6 +275,14 @@
       "category": "音乐,幽默"
     },
     {
+      "raw_hot": 469469,
+      "num": 354680,
+      "word": "李玉刚再回应被指划水",
+      "onboard_time": 1728197359,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 450887,
       "num": 450887,
       "word": "因狗结缘成为朋友因狗生病反目",
@@ -411,6 +419,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 368399,
+      "num": 230916,
+      "word": "华晨宇谈抑郁症",
+      "onboard_time": 1728198618,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 362323,
+      "num": 505491,
+      "word": "央视海采又有名场面",
+      "onboard_time": 1728194117,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 362024,
       "num": 246998,
       "word": "朴山多拉41岁的状态",
@@ -428,7 +452,7 @@
     },
     {
       "raw_hot": 345483,
-      "num": 291402,
+      "num": 314133,
       "word": "陈奕迅 谢谢你们没退票",
       "onboard_time": 1728196098,
       "rank": 48,
@@ -465,14 +489,6 @@
       "onboard_time": 1728119658,
       "rank": 17,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 319455,
-      "num": 505491,
-      "word": "央视海采又有名场面",
-      "onboard_time": 1728194117,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 319248,
@@ -537,14 +553,6 @@
       "onboard_time": 1728181339,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 277782,
-      "num": 277782,
-      "word": "李玉刚再回应被指划水",
-      "onboard_time": 1728197359,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 272699,
@@ -612,7 +620,7 @@
     },
     {
       "raw_hot": 250087,
-      "num": 217917,
+      "num": 227578,
       "word": "她不是尚雯婕吗",
       "onboard_time": 1728197239,
       "rank": 22,
@@ -715,6 +723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 208009,
+      "num": 208009,
+      "word": "鞠婧祎曾舜晞 画皮",
+      "onboard_time": 1728199338,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 207275,
       "num": 207275,
       "word": "立威廉 霸总祖师爷",
@@ -769,14 +785,6 @@
       "onboard_time": 1728180858,
       "rank": 26,
       "category": "财经,国外时政"
-    },
-    {
-      "raw_hot": 193069,
-      "num": 193069,
-      "word": "华晨宇谈抑郁症",
-      "onboard_time": 1728198618,
-      "rank": 25,
-      "category": "演出"
     },
     {
       "raw_hot": 193068,
@@ -883,8 +891,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 166234,
-      "num": 166234,
+      "raw_hot": 169375,
+      "num": 169375,
       "word": "车车车车高速车车车车",
       "onboard_time": 1728191178,
       "rank": 40,
@@ -915,6 +923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 161149,
+      "num": 319473,
+      "word": "女骑手女司机越来越多了",
+      "onboard_time": 1728197538,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 160723,
       "num": 160723,
       "word": "泰语版柳舟记太好笑了",
@@ -931,12 +947,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 157328,
+      "num": 157328,
+      "word": "咪咕信号中断",
+      "onboard_time": 1728199578,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 156989,
       "num": 156989,
       "word": "第五人格皮肤排期",
       "onboard_time": 1728188898,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 155416,
+      "num": 155416,
+      "word": "地质工作者在哀牢山也有很大风险",
+      "onboard_time": 1728198618,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 154984,
@@ -1019,6 +1051,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 146975,
+      "num": 146975,
+      "word": "杨紫巴黎假日碎片",
+      "onboard_time": 1728199879,
+      "rank": 35,
+      "category": "艺人,作品衍生"
+    },
+    {
       "raw_hot": 146310,
       "num": 146310,
       "word": "南京玄武湖的鸭子船都有班味了",
@@ -1065,6 +1105,14 @@
       "onboard_time": 1728182657,
       "rank": 38,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 140395,
+      "num": 140395,
+      "word": "恋与深空",
+      "onboard_time": 1728198798,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 140289,
@@ -1128,14 +1176,6 @@
       "word": "假冒媒体杜撰网文要查背后利益链",
       "onboard_time": 1728189681,
       "rank": 42,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 129976,
-      "num": 319473,
-      "word": "女骑手女司机越来越多了",
-      "onboard_time": 1728197538,
-      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -1217,14 +1257,6 @@
       "onboard_time": 1728178337,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 121945,
-      "num": 121945,
-      "word": "恋与深空",
-      "onboard_time": 1728198798,
-      "rank": 35,
-      "category": "游戏"
     },
     {
       "raw_hot": 121899,
@@ -1315,14 +1347,6 @@
       "category": "社会新闻,国外时政"
     },
     {
-      "raw_hot": 112680,
-      "num": 112680,
-      "word": "地质工作者在哀牢山也有很大风险",
-      "onboard_time": 1728198618,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 111796,
       "num": 111796,
       "word": "十个勤天切蛋糕",
@@ -1369,6 +1393,14 @@
       "onboard_time": 1728140059,
       "rank": 33,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 107940,
+      "num": 107940,
+      "word": "县城五星级酒店迎来泼天流量",
+      "onboard_time": 1728199578,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 107869,
@@ -1497,6 +1529,14 @@
       "onboard_time": 1728114380,
       "rank": 40,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 96105,
+      "num": 185248,
+      "word": "男子抱光腿娃坐公交司机立刻报警",
+      "onboard_time": 1728199997,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 94519,
@@ -1769,6 +1809,14 @@
       "onboard_time": 1728170955,
       "rank": 48,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 42731,
+      "num": 116298,
+      "word": "不少女性进入骑手网约车司机行业",
+      "onboard_time": 1728199940,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 42234,
