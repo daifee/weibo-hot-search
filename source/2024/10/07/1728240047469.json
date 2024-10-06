@@ -1,0 +1,410 @@
+{
+  "runTime": 1728240047469,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 152218,
+        "num": 152218,
+        "word": "马龙vs林诗栋",
+        "onboard_time": 1728212541,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132136,
+        "num": 132136,
+        "word": "男子抱光腿娃坐公交司机立刻报警",
+        "onboard_time": 1728199997,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 16311,
+        "num": 94901,
+        "word": "每一次与国旗同框都倍感骄傲",
+        "onboard_time": 1728218903,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 78736,
+        "num": 78736,
+        "word": "印拟向全球推广印度制造",
+        "onboard_time": 1728232398,
+        "rank": 3,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 68342,
+        "num": 68342,
+        "word": "人人人人返程人人人人",
+        "onboard_time": 1728221238,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 65969,
+        "num": 65969,
+        "word": "T1战胜BLG",
+        "onboard_time": 1728222500,
+        "rank": 5,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 64962,
+        "num": 64962,
+        "word": "G2战胜WBG",
+        "onboard_time": 1728230781,
+        "rank": 6,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 63829,
+        "num": 63829,
+        "word": "林诗栋请全场把掌声送给马龙",
+        "onboard_time": 1728223699,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 23984,
+        "num": 63814,
+        "word": "志愿军存亡之战进入2024票房榜前十",
+        "onboard_time": 1728229039,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 17837,
+        "num": 63740,
+        "word": "巨幅五星红旗飘扬在绿水青山间",
+        "onboard_time": 1728236774,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 275701,
+        "num": 63709,
+        "word": "女博主独闯哀牢山深处2天后报平安",
+        "onboard_time": 1728229759,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247725,
+        "num": 63685,
+        "word": "8人被终身禁入稻城亚丁景区",
+        "onboard_time": 1728226943,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215365,
+        "num": 63606,
+        "word": "黄磊炖豆角",
+        "onboard_time": 1728208399,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175705,
+        "num": 63603,
+        "word": "博主捡到中国小孩课本称不是剧本",
+        "onboard_time": 1728223881,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165232,
+        "num": 63524,
+        "word": "aespa",
+        "onboard_time": 1728229818,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 143787,
+        "num": 63499,
+        "word": "田曦薇cos玛蒂尔达",
+        "onboard_time": 1728231497,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114759,
+        "num": 63445,
+        "word": "周冬雨已经是nextlevel了",
+        "onboard_time": 1728220461,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 110839,
+        "num": 63410,
+        "word": "檀健次坐飞机迟到被点名",
+        "onboard_time": 1728228199,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 63378,
+        "num": 63378,
+        "word": "迪丽热巴给龚俊剧组买下午茶",
+        "onboard_time": 1728213202,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 56389,
+        "num": 56389,
+        "word": "孙颖莎说明天就要出发去亚锦赛",
+        "onboard_time": 1728226760,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127714,
+        "num": 55494,
+        "word": "哀牢山曾发生多起人员失联遇难",
+        "onboard_time": 1728194778,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 93427,
+        "num": 55160,
+        "word": "A股明天正式开盘",
+        "onboard_time": 1728235935,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 81803,
+        "num": 54857,
+        "word": "入职几月怀孕拒绝调薪调岗被辞退",
+        "onboard_time": 1728217399,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 54296,
+        "num": 54296,
+        "word": "林诗栋男单冠军",
+        "onboard_time": 1728218785,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 54284,
+        "num": 54284,
+        "word": "孙颖莎获女单冠军",
+        "onboard_time": 1728212961,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 54067,
+        "num": 54067,
+        "word": "刘亦菲阿布扎比观赛NBA",
+        "onboard_time": 1728228320,
+        "rank": 25,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 52332,
+        "num": 52332,
+        "word": "颜料公司回应哀牢山取材视频爆火",
+        "onboard_time": 1728218180,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 52245,
+        "num": 52245,
+        "word": "BLG",
+        "onboard_time": 1728222500,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 49689,
+        "num": 49689,
+        "word": "撤黎台湾同胞称祖国就是中国",
+        "onboard_time": 1728220760,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 49620,
+        "num": 49620,
+        "word": "马龙亚军",
+        "onboard_time": 1728219383,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 44860,
+        "num": 44860,
+        "word": "戚薇cos毛利兰",
+        "onboard_time": 1728210199,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 44401,
+        "num": 44401,
+        "word": "妈妈朋友的儿子大结局",
+        "onboard_time": 1728228918,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 43220,
+        "num": 43220,
+        "word": "BLG对战T1",
+        "onboard_time": 1728220880,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 41414,
+        "num": 41414,
+        "word": "马龙说这场比赛我也没有失败",
+        "onboard_time": 1728220400,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 41375,
+        "num": 41375,
+        "word": "张元英中国粉丝的1分钟恋人",
+        "onboard_time": 1728216199,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40342,
+        "num": 40342,
+        "word": "孙颖莎4比2战胜王曼昱",
+        "onboard_time": 1728213682,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 40304,
+        "num": 40304,
+        "word": "WBG对战G2",
+        "onboard_time": 1728228499,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 39968,
+        "num": 39968,
+        "word": "周深正是藏不住惊喜的年纪",
+        "onboard_time": 1728232098,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 39132,
+        "num": 39132,
+        "word": "Jennie权志龙去了2ne1演唱会",
+        "onboard_time": 1728212360,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 38225,
+        "num": 38225,
+        "word": "赵露思挂脖露背裙",
+        "onboard_time": 1728224120,
+        "rank": 39,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 37123,
+        "num": 37123,
+        "word": "薛之谦 在那天回不去的路上",
+        "onboard_time": 1728226701,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 36991,
+        "num": 36991,
+        "word": "黄金飙涨周大福们扛不住了吗",
+        "onboard_time": 1728227480,
+        "rank": 41,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 36567,
+        "num": 36567,
+        "word": "敖子逸马嘉祺同框 丁程鑫不在",
+        "onboard_time": 1728227720,
+        "rank": 42,
+        "category": "综艺,电竞"
+      },
+      {
+        "raw_hot": 36302,
+        "num": 36302,
+        "word": "道一声晚安",
+        "onboard_time": 1728231858,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33917,
+        "num": 36296,
+        "word": "三胞胎宝宝坐高铁买挂票",
+        "onboard_time": 1728195978,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33392,
+        "num": 36284,
+        "word": "Bin",
+        "onboard_time": 1728224419,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 31650,
+        "num": 36276,
+        "word": "张雨绮复刻MaggieQ红裙造型",
+        "onboard_time": 1728226760,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30600,
+        "num": 36265,
+        "word": "老院士年轻时从树上薅花椒嚼了提神",
+        "onboard_time": 1728235337,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29115,
+        "num": 36256,
+        "word": "李一桐cos黑寡妇",
+        "onboard_time": 1728213260,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 27552,
+        "num": 36251,
+        "word": "林诗栋三连冠",
+        "onboard_time": 1728222681,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动文化和旅游融合发展#"
+    }
+  }
+}
