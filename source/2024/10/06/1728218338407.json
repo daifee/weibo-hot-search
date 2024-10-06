@@ -1,0 +1,410 @@
+{
+  "runTime": 1728218338407,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3480623,
+        "num": 3480623,
+        "word": "马龙vs林诗栋",
+        "onboard_time": 1728212541,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1420974,
+        "num": 1420974,
+        "word": "马龙更换球拍",
+        "onboard_time": 1728216561,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 7886,
+        "num": 1100238,
+        "word": "国庆文旅活动实力圈粉",
+        "onboard_time": 1728206178,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 958100,
+        "num": 958100,
+        "word": "12306客服回应火车票买长乘短",
+        "onboard_time": 1728215120,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 786957,
+        "num": 786957,
+        "word": "孙颖莎获女单冠军",
+        "onboard_time": 1728212961,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 609548,
+        "num": 609548,
+        "word": "孙颖莎女单项目积分过万",
+        "onboard_time": 1728214762,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 560484,
+        "num": 560484,
+        "word": "叙利亚已申请加入金砖国家",
+        "onboard_time": 1728211639,
+        "rank": 6,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 418771,
+        "num": 418771,
+        "word": "男子抱光腿娃坐公交司机立刻报警",
+        "onboard_time": 1728199997,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 495129,
+        "num": 416106,
+        "word": "孙颖莎连赢10分",
+        "onboard_time": 1728214102,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 49928,
+        "num": 408428,
+        "word": "打工人把古镇盘活了吗",
+        "onboard_time": 1728216921,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1287471,
+        "num": 406303,
+        "word": "黄磊炖豆角",
+        "onboard_time": 1728208399,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 682061,
+        "num": 398468,
+        "word": "迪丽热巴给龚俊剧组买下午茶",
+        "onboard_time": 1728213202,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 593870,
+        "num": 392152,
+        "word": "李一桐cos黑寡妇",
+        "onboard_time": 1728213260,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 581573,
+        "num": 385500,
+        "word": "张元英中国粉丝的1分钟恋人",
+        "onboard_time": 1728216199,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 563196,
+        "num": 380291,
+        "word": "戚薇cos毛利兰",
+        "onboard_time": 1728210199,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 437625,
+        "num": 374642,
+        "word": "Jennie权志龙去了2ne1演唱会",
+        "onboard_time": 1728212360,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 370725,
+        "num": 370725,
+        "word": "马龙正手狂轰",
+        "onboard_time": 1728216800,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 347567,
+        "num": 347567,
+        "word": "三胞胎宝宝坐高铁买挂票",
+        "onboard_time": 1728195978,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 326684,
+        "num": 326684,
+        "word": "刘国梁为孙颖莎颁奖",
+        "onboard_time": 1728215780,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 39131,
+        "num": 321397,
+        "word": "以色列再遭袭当地华人回国称不想丢命",
+        "onboard_time": 1728217040,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 818391,
+        "num": 317988,
+        "word": "哀牢山曾发生多起人员失联遇难",
+        "onboard_time": 1728194778,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 384839,
+        "num": 308240,
+        "word": "马龙一切尽在掌控",
+        "onboard_time": 1728215479,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 378512,
+        "num": 302710,
+        "word": "入职几月怀孕拒绝调薪调岗被辞退",
+        "onboard_time": 1728217399,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 355573,
+        "num": 298605,
+        "word": "猫 这个豪门我非进不可",
+        "onboard_time": 1728214220,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 295600,
+        "num": 295600,
+        "word": "王曼昱被闪光灯干扰",
+        "onboard_time": 1728215780,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 292391,
+        "num": 292391,
+        "word": "许昕谈王楚钦等00后球员输球",
+        "onboard_time": 1728211398,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 282599,
+        "num": 282599,
+        "word": "为什么越来越多奶茶咖啡不能去冰了",
+        "onboard_time": 1728201858,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 276202,
+        "num": 276202,
+        "word": "孙颖莎4比2战胜王曼昱",
+        "onboard_time": 1728213682,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 266006,
+        "num": 266006,
+        "word": "王曼昱头发被吹飞了",
+        "onboard_time": 1728216681,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 259307,
+        "num": 259307,
+        "word": "林诗栋反手好强",
+        "onboard_time": 1728216080,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 211387,
+        "num": 211387,
+        "word": "黄磊做饭",
+        "onboard_time": 1728205759,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 204302,
+        "num": 204302,
+        "word": "胡歌亚洲内容大赏视帝",
+        "onboard_time": 1728216320,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 200879,
+        "num": 200879,
+        "word": "YG女团三世同堂",
+        "onboard_time": 1728215960,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199129,
+        "num": 199129,
+        "word": "那英 你怎么不张嘴呢",
+        "onboard_time": 1728204017,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 196011,
+        "num": 196011,
+        "word": "WTT",
+        "onboard_time": 1728213682,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 195200,
+        "num": 195200,
+        "word": "孙颖莎说在赛场上更轻松了",
+        "onboard_time": 1728217341,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 185621,
+        "num": 185621,
+        "word": "暗河传",
+        "onboard_time": 1728218121,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175458,
+        "num": 175458,
+        "word": "张钧甯顶级高定",
+        "onboard_time": 1728218001,
+        "rank": 37,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 34427,
+        "num": 174539,
+        "word": "武术比赛选手对打被质疑不激烈",
+        "onboard_time": 1728216260,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173769,
+        "num": 173769,
+        "word": "孙颖莎说在北京留下了最美好的回忆",
+        "onboard_time": 1728214641,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 171260,
+        "num": 171260,
+        "word": "女推2刚开录就玩上cosplay了",
+        "onboard_time": 1728216440,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168964,
+        "num": 168964,
+        "word": "孙颖莎回应中国大满贯夺冠",
+        "onboard_time": 1728214161,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 160925,
+        "num": 160925,
+        "word": "宋亚轩花式比耶",
+        "onboard_time": 1728217399,
+        "rank": 42,
+        "category": "综艺,电竞"
+      },
+      {
+        "raw_hot": 152564,
+        "num": 152564,
+        "word": "火车票买短乘长或被劝导下车",
+        "onboard_time": 1728217760,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152345,
+        "num": 152345,
+        "word": "颜料公司回应哀牢山取材视频爆火",
+        "onboard_time": 1728218180,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152083,
+        "num": 152083,
+        "word": "哀牢山本地人发声",
+        "onboard_time": 1728172157,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148668,
+        "num": 148668,
+        "word": "王子奇天津活动",
+        "onboard_time": 1728217880,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147338,
+        "num": 147338,
+        "word": "1男1女骑电动车半挂有娃婴儿车",
+        "onboard_time": 1728210919,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146972,
+        "num": 146972,
+        "word": "股民担忧A股开盘第一天买不到",
+        "onboard_time": 1728218241,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 25649,
+        "num": 146750,
+        "word": "玫瑰苹果养颜水",
+        "onboard_time": 1728217641,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#文脉千秋江山入画#"
+    }
+  }
+}

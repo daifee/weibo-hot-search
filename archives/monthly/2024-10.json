@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1728214594156,
+  "endTime": 1728218338407,
   "band_list": [
     {
       "raw_hot": 11925969,
@@ -24,6 +24,14 @@
       "word": "王楚钦1比3林德",
       "onboard_time": 1727789425,
       "rank": 13,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 3480623,
+      "num": 3480623,
+      "word": "马龙vs林诗栋",
+      "onboard_time": 1728212541,
+      "rank": 4,
       "category": "体育"
     },
     {
@@ -339,6 +347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1420974,
+      "num": 1420974,
+      "word": "马龙更换球拍",
+      "onboard_time": 1728216561,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1392155,
       "num": 1392155,
       "word": "马龙4比0梁靖崑",
@@ -456,14 +472,6 @@
       "word": "郑钦文vs安德列娃",
       "onboard_time": 1728036439,
       "rank": 7,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 1284871,
-      "num": 1284871,
-      "word": "马龙vs林诗栋",
-      "onboard_time": 1728212541,
-      "rank": 4,
       "category": "体育"
     },
     {
@@ -912,6 +920,14 @@
       "word": "当地回应新娘哥嫂临时加彩礼18万",
       "onboard_time": 1728208458,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 958100,
+      "num": 958100,
+      "word": "12306客服回应火车票买长乘短",
+      "onboard_time": 1728215120,
+      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -1852,7 +1868,7 @@
     },
     {
       "raw_hot": 636345,
-      "num": 465269,
+      "num": 560484,
       "word": "叙利亚已申请加入金砖国家",
       "onboard_time": 1728211639,
       "rank": 20,
@@ -2043,6 +2059,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 609548,
+      "num": 609548,
+      "word": "孙颖莎女单项目积分过万",
+      "onboard_time": 1728214762,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 608309,
       "num": 478070,
       "word": "全红婵国庆节又回家带娃了",
@@ -2177,6 +2201,14 @@
       "onboard_time": 1727776039,
       "rank": 1,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 581573,
+      "num": 385500,
+      "word": "张元英中国粉丝的1分钟恋人",
+      "onboard_time": 1728216199,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 579204,
@@ -2729,6 +2761,14 @@
       "onboard_time": 1728193398,
       "rank": 16,
       "category": "作品衍生,幽默"
+    },
+    {
+      "raw_hot": 495129,
+      "num": 416106,
+      "word": "孙颖莎连赢10分",
+      "onboard_time": 1728214102,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 494528,
@@ -3531,6 +3571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 384839,
+      "num": 308240,
+      "word": "马龙一切尽在掌控",
+      "onboard_time": 1728215479,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 384500,
       "num": 384500,
       "word": "孙颖莎王艺迪3比0郑怡静李昱谆",
@@ -3576,6 +3624,14 @@
       "word": "女子穿僵尸服回小区吓到遛狗大爷",
       "onboard_time": 1728200898,
       "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 378512,
+      "num": 302710,
+      "word": "入职几月怀孕拒绝调薪调岗被辞退",
+      "onboard_time": 1728217399,
+      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -3665,6 +3721,14 @@
       "onboard_time": 1728171615,
       "rank": 6,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 370725,
+      "num": 370725,
+      "word": "马龙正手狂轰",
+      "onboard_time": 1728216800,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 370609,
@@ -3819,12 +3883,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 355794,
-      "num": 355794,
-      "word": "孙颖莎连赢10分",
-      "onboard_time": 1728214102,
-      "rank": 22,
-      "category": "体育"
+      "raw_hot": 355573,
+      "num": 298605,
+      "word": "猫 这个豪门我非进不可",
+      "onboard_time": 1728214220,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 355239,
@@ -4153,6 +4217,14 @@
       "onboard_time": 1728095658,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 326684,
+      "num": 326684,
+      "word": "刘国梁为孙颖莎颁奖",
+      "onboard_time": 1728215780,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 326370,
@@ -4563,6 +4635,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 295600,
+      "num": 295600,
+      "word": "王曼昱被闪光灯干扰",
+      "onboard_time": 1728215780,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 295149,
       "num": 330760,
       "word": "林高远3比0格罗特",
@@ -4721,14 +4801,6 @@
       "onboard_time": 1727999537,
       "rank": 13,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 287145,
-      "num": 197354,
-      "word": "猫 这个豪门我非进不可",
-      "onboard_time": 1728214220,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 286667,
@@ -5195,6 +5267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 266006,
+      "num": 266006,
+      "word": "王曼昱头发被吹飞了",
+      "onboard_time": 1728216681,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 265831,
       "num": 265831,
       "word": "记者探访走红的哀牢山",
@@ -5353,6 +5433,14 @@
       "onboard_time": 1727830578,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 259307,
+      "num": 259307,
+      "word": "林诗栋反手好强",
+      "onboard_time": 1728216080,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 258925,
@@ -6835,6 +6923,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 204302,
+      "num": 204302,
+      "word": "胡歌亚洲内容大赏视帝",
+      "onboard_time": 1728216320,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 204114,
       "num": 204114,
       "word": "披哥们在林依轮家合唱我和我的祖国",
@@ -6953,6 +7049,14 @@
       "onboard_time": 1728048259,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 200879,
+      "num": 200879,
+      "word": "YG女团三世同堂",
+      "onboard_time": 1728215960,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 200231,
@@ -7257,6 +7361,14 @@
       "onboard_time": 1728007457,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 195200,
+      "num": 195200,
+      "word": "孙颖莎说在赛场上更轻松了",
+      "onboard_time": 1728217341,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 195053,
@@ -7891,6 +8003,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 185621,
+      "num": 185621,
+      "word": "暗河传",
+      "onboard_time": 1728218121,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 185568,
       "num": 185568,
       "word": "突然爆火的哀牢山到底是什么来头",
@@ -8387,6 +8507,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 175458,
+      "num": 175458,
+      "word": "张钧甯顶级高定",
+      "onboard_time": 1728218001,
+      "rank": 37,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 175333,
       "num": 175333,
       "word": "语言通货膨胀",
@@ -8499,6 +8627,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 173769,
+      "num": 173769,
+      "word": "孙颖莎说在北京留下了最美好的回忆",
+      "onboard_time": 1728214641,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 173632,
       "num": 173632,
       "word": "汪涵做化妆解说是专业的",
@@ -8609,6 +8745,14 @@
       "onboard_time": 1728008537,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 171260,
+      "num": 171260,
+      "word": "女推2刚开录就玩上cosplay了",
+      "onboard_time": 1728216440,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 171170,
@@ -9137,6 +9281,14 @@
       "onboard_time": 1728197538,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 160925,
+      "num": 160925,
+      "word": "宋亚轩花式比耶",
+      "onboard_time": 1728217399,
+      "rank": 42,
+      "category": "综艺,电竞"
     },
     {
       "raw_hot": 160723,
@@ -9675,6 +9827,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 152564,
+      "num": 152564,
+      "word": "火车票买短乘长或被劝导下车",
+      "onboard_time": 1728217760,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 152558,
       "num": 152558,
       "word": "孙颖莎和裁判用英文交流",
@@ -9697,6 +9857,14 @@
       "onboard_time": 1727767157,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 152345,
+      "num": 152345,
+      "word": "颜料公司回应哀牢山取材视频爆火",
+      "onboard_time": 1728218180,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 152307,
@@ -9923,6 +10091,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 148668,
+      "num": 148668,
+      "word": "王子奇天津活动",
+      "onboard_time": 1728217880,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 148534,
       "num": 242391,
       "word": "商务部回应加拿大对我国电动汽车加征关税",
@@ -9985,6 +10161,14 @@
       "onboard_time": 1728199879,
       "rank": 35,
       "category": "艺人,作品衍生"
+    },
+    {
+      "raw_hot": 146972,
+      "num": 146972,
+      "word": "股民担忧A股开盘第一天买不到",
+      "onboard_time": 1728218241,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 146933,
@@ -16131,6 +16315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 49928,
+      "num": 408428,
+      "word": "打工人把古镇盘活了吗",
+      "onboard_time": 1728216921,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 49712,
       "num": 119283,
       "word": "447封援教申请书筑起知识的桥梁",
@@ -16643,6 +16835,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 39131,
+      "num": 321397,
+      "word": "以色列再遭袭当地华人回国称不想丢命",
+      "onboard_time": 1728217040,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 39077,
       "num": 42717,
       "word": "国庆人人人你人人人名场面",
@@ -16843,6 +17043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 34427,
+      "num": 174539,
+      "word": "武术比赛选手对打被质疑不激烈",
+      "onboard_time": 1728216260,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 34235,
       "num": 99915,
       "word": "机票价格跳水可以买低退高吗",
@@ -17004,7 +17212,7 @@
     },
     {
       "raw_hot": 30680,
-      "num": 996188,
+      "num": 1100238,
       "word": "国庆文旅活动实力圈粉",
       "onboard_time": 1728206178,
       "rank": 2,
@@ -17313,6 +17521,14 @@
       "onboard_time": 1727937078,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 25649,
+      "num": 146750,
+      "word": "玫瑰苹果养颜水",
+      "onboard_time": 1728217641,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 25399,
