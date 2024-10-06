@@ -1,6 +1,6 @@
 {
   "startTime": 1728145573126,
-  "endTime": 1728203994852,
+  "endTime": 1728206537473,
   "band_list": [
     {
       "raw_hot": 1902792,
@@ -43,6 +43,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1375361,
+      "num": 274927,
+      "word": "台湾海峡中部发生3.7级地震",
+      "onboard_time": 1728205340,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1359211,
       "num": 383049,
       "word": "哀牢山人类禁区遭爆改人类景区",
@@ -57,6 +65,14 @@
       "onboard_time": 1728186558,
       "rank": 10,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1200713,
+      "num": 272484,
+      "word": "厦门震感",
+      "onboard_time": 1728204978,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1192421,
@@ -187,6 +203,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 716392,
+      "num": 262121,
+      "word": "山西2岁走失死亡女童妈妈再发声",
+      "onboard_time": 1728205279,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 715422,
       "num": 715422,
       "word": "小西天爆火让更多人认识了隰字",
@@ -201,6 +225,30 @@
       "onboard_time": 1728185118,
       "rank": 35,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 655954,
+      "num": 655954,
+      "word": "为什么越来越多奶茶咖啡不能去冰了",
+      "onboard_time": 1728201858,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 654788,
+      "num": 258967,
+      "word": "黄磊做饭",
+      "onboard_time": 1728205759,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 652539,
+      "num": 257741,
+      "word": "那英 你怎么不张嘴呢",
+      "onboard_time": 1728204017,
+      "rank": 16,
+      "category": "演出"
     },
     {
       "raw_hot": 620355,
@@ -289,6 +337,14 @@
       "onboard_time": 1728187037,
       "rank": 1,
       "category": "音乐,幽默"
+    },
+    {
+      "raw_hot": 479476,
+      "num": 479476,
+      "word": "外国小朋友在中国吃嗨了",
+      "onboard_time": 1728202518,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 469469,
@@ -467,20 +523,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 355544,
+      "num": 250278,
+      "word": "樊振东小时候背书包去看王皓比赛",
+      "onboard_time": 1728202219,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 355391,
       "num": 251551,
       "word": "立威廉一开口我的青春回来了",
       "onboard_time": 1728139699,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 347635,
-      "num": 347635,
-      "word": "为什么越来越多奶茶咖啡不能去冰了",
-      "onboard_time": 1728201858,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 345483,
@@ -635,6 +691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 259485,
+      "num": 259485,
+      "word": "职工医保个人账户如何共济给家人",
+      "onboard_time": 1728204319,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 258521,
       "num": 258521,
       "word": "iPhone16物料成本拆解出炉",
@@ -683,6 +747,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 246483,
+      "num": 246483,
+      "word": "杨洋书生造型",
+      "onboard_time": 1728202759,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 243146,
       "num": 243146,
       "word": "肖战歌曲预热",
@@ -697,14 +769,6 @@
       "onboard_time": 1728177676,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 238638,
-      "num": 238638,
-      "word": "杨洋书生造型",
-      "onboard_time": 1728202759,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 236667,
@@ -800,14 +864,6 @@
       "word": "情侣连续两次偷渡妄想去境外淘金",
       "onboard_time": 1728143178,
       "rank": 26,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 206410,
-      "num": 206410,
-      "word": "外国小朋友在中国吃嗨了",
-      "onboard_time": 1728202518,
-      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -923,6 +979,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 184607,
+      "num": 184607,
+      "word": "张凌赫有题是真做",
+      "onboard_time": 1728205638,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 183362,
       "num": 340668,
       "word": "抠门打工人半年给演唱会氪金190亿",
@@ -953,14 +1017,6 @@
       "onboard_time": 1728200658,
       "rank": 33,
       "category": "情感"
-    },
-    {
-      "raw_hot": 180689,
-      "num": 180689,
-      "word": "樊振东小时候背书包去看王皓比赛",
-      "onboard_time": 1728202219,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 174286,
@@ -1009,6 +1065,14 @@
       "onboard_time": 1728125059,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 162079,
+      "num": 162079,
+      "word": "徐冬冬尹子维英语课整上PPT了",
+      "onboard_time": 1728203419,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 161149,
@@ -1131,6 +1195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 147437,
+      "num": 147437,
+      "word": "舍不得星星13年好友结婚",
+      "onboard_time": 1728206178,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 146975,
       "num": 146975,
       "word": "杨紫巴黎假日碎片",
@@ -1171,6 +1243,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 142237,
+      "num": 142237,
+      "word": "LPL冲击瑞士轮第三轮全胜",
+      "onboard_time": 1728204678,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 141668,
       "num": 141668,
       "word": "黄金回收每克提高150元",
@@ -1209,6 +1289,14 @@
       "onboard_time": 1728191480,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 140106,
+      "num": 140106,
+      "word": "人口9万人小县城单日游客过万",
+      "onboard_time": 1728203958,
+      "rank": 49,
+      "category": "旅游"
     },
     {
       "raw_hot": 139280,
@@ -1257,6 +1345,22 @@
       "onboard_time": 1728192077,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 132402,
+      "num": 132402,
+      "word": "今年冬天会史上最冷吗",
+      "onboard_time": 1728202878,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 132382,
+      "num": 132382,
+      "word": "Faker说小虎可以爱豆出道了",
+      "onboard_time": 1728206359,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 132249,
@@ -1371,14 +1475,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 121944,
-      "num": 121944,
-      "word": "今年冬天会史上最冷吗",
-      "onboard_time": 1728202878,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 121899,
       "num": 121899,
       "word": "清澈的爱只为中国",
@@ -1401,6 +1497,14 @@
       "onboard_time": 1728185357,
       "rank": 46,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 120913,
+      "num": 120913,
+      "word": "网传新郎接亲被临时加要18万彩礼",
+      "onboard_time": 1728204017,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 117953,
@@ -1459,12 +1563,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 114297,
+      "num": 114297,
+      "word": "出国游儿子只想在酒店挖沙妈妈气炸",
+      "onboard_time": 1728205518,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 113958,
       "num": 250361,
       "word": "以总理称必将回应伊朗导弹袭击",
       "onboard_time": 1728178518,
       "rank": 14,
       "category": "社会新闻,国外时政"
+    },
+    {
+      "raw_hot": 111840,
+      "num": 111840,
+      "word": "一文读懂职工医保家庭共济要点",
+      "onboard_time": 1728206478,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 111796,
@@ -1536,14 +1656,6 @@
       "word": "宋茜路透",
       "onboard_time": 1728172036,
       "rank": 46,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 106247,
-      "num": 106247,
-      "word": "徐冬冬尹子维英语课整上PPT了",
-      "onboard_time": 1728203419,
-      "rank": 45,
       "category": "艺人"
     },
     {
@@ -1787,19 +1899,19 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 75054,
-      "num": 101422,
-      "word": "人口9万人小县城单日游客过万",
-      "onboard_time": 1728203958,
-      "rank": 49,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 72830,
       "num": 1037567,
       "word": "国庆文旅活动太全面了",
       "onboard_time": 1728187220,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 70385,
+      "num": 169542,
+      "word": "现制饮品不能去冰会成行业趋势吗",
+      "onboard_time": 1728205998,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -1825,6 +1937,14 @@
       "onboard_time": 1728194837,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 63702,
+      "num": 144055,
+      "word": "航天员在太空拍到祖国山川比的心",
+      "onboard_time": 1728204798,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 60381,
@@ -1865,6 +1985,14 @@
       "onboard_time": 1728140180,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 55921,
+      "num": 311605,
+      "word": "你会为了当地美食奔赴一座城吗",
+      "onboard_time": 1728203958,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 55658,
@@ -2043,6 +2171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 21509,
+      "num": 742449,
+      "word": "国庆文旅活动实力圈粉",
+      "onboard_time": 1728206178,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 21199,
       "num": 298115,
       "word": "山西隰县举全县之力做好服务",
@@ -2065,14 +2201,6 @@
       "onboard_time": 1728169753,
       "rank": 25,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 12686,
-      "num": 311605,
-      "word": "你会为了当地美食奔赴一座城吗",
-      "onboard_time": 1728203958,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 10734,
