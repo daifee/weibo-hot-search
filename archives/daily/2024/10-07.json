@@ -1,6 +1,6 @@
 {
   "startTime": 1728231932217,
-  "endTime": 1728250512299,
+  "endTime": 1728253217191,
   "band_list": [
     {
       "raw_hot": 1367280,
@@ -124,7 +124,7 @@
     },
     {
       "raw_hot": 295837,
-      "num": 295837,
+      "num": 352488,
       "word": "男子抱光腿娃坐公交司机立刻报警",
       "onboard_time": 1728199997,
       "rank": 6,
@@ -299,6 +299,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 133345,
+      "num": 66529,
+      "word": "颜料公司回应哀牢山取材视频爆火",
+      "onboard_time": 1728218180,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 130265,
       "num": 130265,
       "word": "李一桐cos黑寡妇",
@@ -411,11 +419,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 66529,
-      "num": 66529,
-      "word": "颜料公司回应哀牢山取材视频爆火",
-      "onboard_time": 1728218180,
-      "rank": 47,
+      "raw_hot": 69252,
+      "num": 69252,
+      "word": "他们在垃圾堆里淘宝式找出多件文物",
+      "onboard_time": 1728244212,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -433,14 +441,6 @@
       "onboard_time": 1728233055,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 55719,
-      "num": 55719,
-      "word": "他们在垃圾堆里淘宝式找出多件文物",
-      "onboard_time": 1728244212,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 53047,
@@ -465,6 +465,14 @@
       "onboard_time": 1728242471,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 41486,
+      "num": 37383,
+      "word": "买到站票你会明白军训的意义",
+      "onboard_time": 1728250151,
+      "rank": 42,
+      "category": "教育"
     },
     {
       "raw_hot": 39747,
@@ -523,6 +531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 30816,
+      "num": 30816,
+      "word": "男子3次吃附子3次中毒被抢救",
+      "onboard_time": 1728249852,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 30535,
       "num": 30535,
       "word": "新一轮巴以冲突爆发一周年",
@@ -536,6 +552,22 @@
       "word": "哀牢山村民称对自然要有敬畏之心",
       "onboard_time": 1728242952,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 28424,
+      "num": 28424,
+      "word": "这些话句句都是爱国情",
+      "onboard_time": 1728230300,
+      "rank": 47,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 28000,
+      "num": 28000,
+      "word": "出游要出片更要安全",
+      "onboard_time": 1728250391,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -555,12 +587,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 24630,
-      "num": 26695,
-      "word": "这些话句句都是爱国情",
-      "onboard_time": 1728230300,
-      "rank": 47,
-      "category": "国内时政"
+      "raw_hot": 23802,
+      "num": 30620,
+      "word": "黑龙江数千亩蔓越莓上市啦",
+      "onboard_time": 1728245413,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 23761,
+      "num": 23761,
+      "word": "王一博独自攀登沙漠珠峰看日出",
+      "onboard_time": 1728252191,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 23309,
@@ -579,22 +619,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 21194,
-      "num": 30620,
-      "word": "黑龙江数千亩蔓越莓上市啦",
-      "onboard_time": 1728245413,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 19373,
-      "num": 19373,
-      "word": "买到站票你会明白军训的意义",
-      "onboard_time": 1728250151,
-      "rank": 42,
-      "category": "教育"
-    },
-    {
       "raw_hot": 18665,
       "num": 187725,
       "word": "每一次与国旗同框都倍感骄傲",
@@ -609,14 +633,6 @@
       "onboard_time": 1728236774,
       "rank": 19,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 18356,
-      "num": 18356,
-      "word": "男子3次吃附子3次中毒被抢救",
-      "onboard_time": 1728249852,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 18185,
@@ -659,11 +675,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 11425,
-      "num": 22703,
-      "word": "出游要出片更要安全",
-      "onboard_time": 1728250391,
-      "rank": 34,
+      "raw_hot": 10271,
+      "num": 43026,
+      "word": "30秒看贵州村超国庆大型烟花秀",
+      "onboard_time": 1728252372,
+      "rank": 9,
       "category": "社会新闻"
     }
   ],
