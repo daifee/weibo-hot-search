@@ -1,10 +1,18 @@
 {
   "startTime": 1728145573126,
-  "endTime": 1728211231867,
+  "endTime": 1728213508091,
   "band_list": [
     {
+      "raw_hot": 3146611,
+      "num": 3146611,
+      "word": "孙颖莎vs王曼昱",
+      "onboard_time": 1728207740,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2876940,
-      "num": 271890,
+      "num": 286597,
       "word": "黄磊炖豆角",
       "onboard_time": 1728208399,
       "rank": 10,
@@ -17,6 +25,14 @@
       "onboard_time": 1728172157,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1858248,
+      "num": 1858248,
+      "word": "孙颖莎获女单冠军",
+      "onboard_time": 1728212961,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 1761190,
@@ -57,14 +73,6 @@
       "onboard_time": 1728195978,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1408044,
-      "num": 1408044,
-      "word": "孙颖莎vs王曼昱",
-      "onboard_time": 1728207740,
-      "rank": 0,
-      "category": "体育"
     },
     {
       "raw_hot": 1375361,
@@ -147,6 +155,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1018525,
+      "num": 286103,
+      "word": "戚薇cos毛利兰",
+      "onboard_time": 1728210199,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 996450,
       "num": 996450,
       "word": "今晚可能发生强地磁暴",
@@ -155,19 +171,19 @@
       "category": "自然"
     },
     {
+      "raw_hot": 961319,
+      "num": 284954,
+      "word": "当地回应新娘哥嫂临时加彩礼18万",
+      "onboard_time": 1728208458,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 846741,
       "num": 491437,
       "word": "赵晓卉 当明星没有上班辛苦",
       "onboard_time": 1728194778,
       "rank": 10,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 825928,
-      "num": 256787,
-      "word": "戚薇cos毛利兰",
-      "onboard_time": 1728210199,
-      "rank": 11,
       "category": "综艺"
     },
     {
@@ -193,6 +209,22 @@
       "onboard_time": 1728177078,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 766404,
+      "num": 283370,
+      "word": "Jennie权志龙去了2ne1演唱会",
+      "onboard_time": 1728212360,
+      "rank": 15,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 765535,
+      "num": 282327,
+      "word": "许昕谈王楚钦等00后球员输球",
+      "onboard_time": 1728211398,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 764733,
@@ -307,6 +339,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 538804,
+      "num": 538804,
+      "word": "马龙vs林诗栋",
+      "onboard_time": 1728212541,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 531899,
       "num": 531899,
       "word": "怎么让全国人民都知道我瘦了30多斤",
@@ -356,7 +396,7 @@
     },
     {
       "raw_hot": 488790,
-      "num": 271344,
+      "num": 409108,
       "word": "王楚钦球员见面会",
       "onboard_time": 1728209119,
       "rank": 17,
@@ -385,6 +425,14 @@
       "onboard_time": 1728197359,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 461069,
+      "num": 279596,
+      "word": "叙利亚已申请加入金砖国家",
+      "onboard_time": 1728211639,
+      "rank": 20,
+      "category": "国外时政"
     },
     {
       "raw_hot": 450887,
@@ -427,20 +475,20 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 422515,
+      "num": 279070,
+      "word": "哀牢山640米要走3小时以上",
+      "onboard_time": 1728208099,
+      "rank": 16,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 422281,
       "num": 284333,
       "word": "樊振东小时候背书包去看王皓比赛",
       "onboard_time": 1728202219,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 419581,
-      "num": 271356,
-      "word": "哀牢山640米要走3小时以上",
-      "onboard_time": 1728208099,
-      "rank": 16,
-      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 417655,
@@ -715,6 +763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 275417,
+      "num": 275417,
+      "word": "李一桐cos黑寡妇",
+      "onboard_time": 1728213260,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 272699,
       "num": 224866,
       "word": "樊振东小时候和现在的相同之处",
@@ -729,14 +785,6 @@
       "onboard_time": 1728188837,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 269707,
-      "num": 272008,
-      "word": "当地回应新娘哥嫂临时加彩礼18万",
-      "onboard_time": 1728208458,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 268681,
@@ -921,6 +969,14 @@
       "onboard_time": 1728188479,
       "rank": 19,
       "category": "电影"
+    },
+    {
+      "raw_hot": 213396,
+      "num": 195779,
+      "word": "迪丽热巴给龚俊剧组买下午茶",
+      "onboard_time": 1728213202,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 212247,
@@ -1115,12 +1171,44 @@
       "category": "情感"
     },
     {
+      "raw_hot": 179055,
+      "num": 179055,
+      "word": "林俊杰的钢琴",
+      "onboard_time": 1728210438,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 177161,
+      "num": 177161,
+      "word": "王楚钦与粉丝大合影",
+      "onboard_time": 1728210858,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 175175,
+      "num": 175175,
+      "word": "小西天被喊差评后疯狂宠游客",
+      "onboard_time": 1728210798,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 174286,
       "num": 174286,
       "word": "我们的歌",
       "onboard_time": 1728184938,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 174222,
+      "num": 174222,
+      "word": "1男1女骑电动车半挂有娃婴儿车",
+      "onboard_time": 1728210919,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 172115,
@@ -1275,12 +1363,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 152756,
+      "num": 152756,
+      "word": "邓亚萍说马龙打成精了",
+      "onboard_time": 1728210019,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 152307,
       "num": 152307,
       "word": "伯远 EXO的e不发音",
       "onboard_time": 1728170774,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 150967,
+      "num": 150967,
+      "word": "上海不愧是大名鼎鼎的魔都",
+      "onboard_time": 1728210619,
+      "rank": 39,
+      "category": "旅游"
     },
     {
       "raw_hot": 149934,
@@ -1329,14 +1433,6 @@
       "onboard_time": 1728190639,
       "rank": 37,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 146034,
-      "num": 146034,
-      "word": "邓亚萍说马龙打成精了",
-      "onboard_time": 1728210019,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 145959,
@@ -1435,14 +1531,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 136024,
-      "num": 136024,
-      "word": "林俊杰的钢琴",
-      "onboard_time": 1728210438,
-      "rank": 34,
-      "category": "演出"
-    },
-    {
       "raw_hot": 133006,
       "num": 133006,
       "word": "UFC",
@@ -1513,6 +1601,14 @@
       "onboard_time": 1728209598,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 129690,
+      "num": 129690,
+      "word": "张杰郑州三天高光回顾",
+      "onboard_time": 1728212720,
+      "rank": 43,
+      "category": "演出"
     },
     {
       "raw_hot": 129588,
@@ -1627,20 +1723,20 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 119136,
-      "num": 119136,
-      "word": "上海不愧是大名鼎鼎的魔都",
-      "onboard_time": 1728210619,
-      "rank": 39,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 119049,
       "num": 119049,
       "word": "出国游儿子只想在酒店挖沙妈妈气炸",
       "onboard_time": 1728205518,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 118138,
+      "num": 118138,
+      "word": "看着小天才电话手表我轻轻的碎了",
+      "onboard_time": 1728209598,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 117953,
@@ -1667,12 +1763,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 115108,
-      "num": 115108,
-      "word": "小西天被喊差评后疯狂宠游客",
-      "onboard_time": 1728210798,
-      "rank": 42,
-      "category": "社会新闻"
+      "raw_hot": 115267,
+      "num": 115267,
+      "word": "王楠观战女单决赛",
+      "onboard_time": 1728211280,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 114701,
@@ -1819,14 +1915,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 106128,
-      "num": 106128,
-      "word": "王楚钦与粉丝大合影",
-      "onboard_time": 1728210858,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 105356,
       "num": 105356,
       "word": "何广智给武艺一家带礼物",
@@ -1867,14 +1955,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 103915,
-      "num": 103915,
-      "word": "1男1女骑电动车半挂有娃婴儿车",
-      "onboard_time": 1728210919,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 103904,
       "num": 103904,
       "word": "哀牢山危险性",
@@ -1889,14 +1969,6 @@
       "onboard_time": 1728203717,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 102372,
-      "num": 102372,
-      "word": "看着小天才电话手表我轻轻的碎了",
-      "onboard_time": 1728209598,
-      "rank": 42,
-      "category": "幽默"
     },
     {
       "raw_hot": 102208,
@@ -1929,6 +2001,14 @@
       "onboard_time": 1728140659,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 100833,
+      "num": 285217,
+      "word": "台湾小伙痴迷文物来大陆学考古",
+      "onboard_time": 1728213021,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 100008,
@@ -2051,6 +2131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 85237,
+      "num": 196848,
+      "word": "文物专家从要扔的废纸里抢回国宝",
+      "onboard_time": 1728212301,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 84540,
       "num": 84540,
       "word": "王鹤棣叫紫霞老婆",
@@ -2131,6 +2219,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 66794,
+      "num": 280354,
+      "word": "林依轮现场观战女单决赛",
+      "onboard_time": 1728213021,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 66764,
       "num": 66764,
       "word": "檀健次南京演唱会",
@@ -2148,7 +2244,7 @@
     },
     {
       "raw_hot": 64893,
-      "num": 311605,
+      "num": 314431,
       "word": "你会为了当地美食奔赴一座城吗",
       "onboard_time": 1728203958,
       "rank": 9,
@@ -2347,6 +2443,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 35075,
+      "num": 195890,
+      "word": "哈马斯领导人辛瓦尔依然活着",
+      "onboard_time": 1728213021,
+      "rank": 29,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 32893,
       "num": 226873,
       "word": "中餐厅群像",
@@ -2468,6 +2572,9 @@
     },
     {
       "word": "#文脉千秋江山入画#"
+    },
+    {
+      "word": "#习近平说艰苦奋斗精神永远不能丢#"
     }
   ]
 }
