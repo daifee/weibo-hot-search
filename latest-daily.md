@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/10/06 00:26:13 ~ 2024/10/06 23:22:00
+本榜单时间：2024/10/06 00:26:13 ~ 2024/10/06 23:36:42
 </p>
 </blockquote>
 <p>
@@ -95,6 +95,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23T1%E6%88%98%E8%83%9CBLG%23" target="weibo">
 T1战胜BLG（热度：1444060）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%238%E4%BA%BA%E8%A2%AB%E7%BB%88%E8%BA%AB%E7%A6%81%E5%85%A5%E7%A8%BB%E5%9F%8E%E4%BA%9A%E4%B8%81%E6%99%AF%E5%8C%BA%23" target="weibo">
+8人被终身禁入稻城亚丁景区（热度：1417596）
 </a>
 </li>
 
@@ -369,12 +375,6 @@ BLG（热度：663891）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%238%E4%BA%BA%E8%A2%AB%E7%BB%88%E8%BA%AB%E7%A6%81%E5%85%A5%E7%A8%BB%E5%9F%8E%E4%BA%9A%E4%B8%81%E6%99%AF%E5%8C%BA%23" target="weibo">
-8人被终身禁入稻城亚丁景区（热度：628552）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23BLG%E5%AF%B9%E6%88%98T1%23" target="weibo">
 BLG对战T1（热度：625679）
 </a>
@@ -419,6 +419,12 @@ BLG对战T1（热度：625679）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BB%93%E5%A9%9A%E5%BD%93%E5%A4%A9%E6%96%B0%E5%A8%98%E5%93%A5%E5%93%A5%E8%B6%B4%E8%BD%A6%E5%A4%B4%E7%B4%A2%E8%A6%81%E5%BD%A9%E7%A4%BC%23" target="weibo">
 结婚当天新娘哥哥趴车头索要彩礼（热度：572617）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AA%80%E5%81%A5%E6%AC%A1%E5%9D%90%E9%A3%9E%E6%9C%BA%E8%BF%9F%E5%88%B0%E8%A2%AB%E7%82%B9%E5%90%8D%23" target="weibo">
+檀健次坐飞机迟到被点名（热度：570291）
 </a>
 </li>
 
@@ -759,6 +765,12 @@ BLG下路（热度：374278）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E9%98%BF%E5%B8%83%E6%89%8E%E6%AF%94%E8%A7%82%E8%B5%9BNBA%23" target="weibo">
+刘亦菲阿布扎比观赛NBA（热度：322735）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AE%B8%E5%B5%A9%E6%BC%94%E5%94%B1%E4%BC%9A%E5%98%89%E5%AE%BE%E6%98%AF%E8%B0%AD%E6%99%B6%23" target="weibo">
 许嵩演唱会嘉宾是谭晶（热度：319259）
 </a>
@@ -1083,6 +1095,12 @@ Bin（热度：224705）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%95%96%E5%AD%90%E9%80%B8%E9%A9%AC%E5%98%89%E7%A5%BA%E5%90%8C%E6%A1%86%20%E4%B8%81%E7%A8%8B%E9%91%AB%E4%B8%8D%E5%9C%A8%23" target="weibo">
+敖子逸马嘉祺同框 丁程鑫不在（热度：211115）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%92%A7%E7%94%AF%E9%A1%B6%E7%BA%A7%E9%AB%98%E5%AE%9A%23" target="weibo">
 张钧甯顶级高定（热度：210086）
 </a>
@@ -1311,12 +1329,6 @@ Faker说小虎可以爱豆出道了（热度：193491）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%95%96%E5%AD%90%E9%80%B8%E9%A9%AC%E5%98%89%E7%A5%BA%E5%90%8C%E6%A1%86%20%E4%B8%81%E7%A8%8B%E9%91%AB%E4%B8%8D%E5%9C%A8%23" target="weibo">
-敖子逸马嘉祺同框 丁程鑫不在（热度：179201）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E4%BF%8A%E6%9D%B0%E7%9A%84%E9%92%A2%E7%90%B4%23" target="weibo">
 林俊杰的钢琴（热度：179055）
 </a>
@@ -1371,6 +1383,12 @@ eStar战胜TES（热度：174324）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%9B%BC%E6%98%B1%E6%8E%A5%E5%8F%91%E7%90%83%E5%88%86%E6%9E%90%23" target="weibo">
+王曼昱接发球分析（热度：166155）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23A%E8%82%A1%E5%9B%BD%E5%BA%86%E4%BC%91%E5%B8%82%E6%9C%9F%E9%97%B4%E5%8F%91%E7%94%9F%E4%BA%86%E4%BB%80%E4%B9%88%23" target="weibo">
 A股国庆休市期间发生了什么（热度：166062）
 </a>
@@ -1389,14 +1407,14 @@ A股国庆休市期间发生了什么（热度：166062）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%9B%BC%E6%98%B1%E6%8E%A5%E5%8F%91%E7%90%83%E5%88%86%E6%9E%90%23" target="weibo">
-王曼昱接发球分析（热度：162589）
+<a href="https://s.weibo.com/weibo?q=%23%E5%BE%90%E5%86%AC%E5%86%AC%E5%B0%B9%E5%AD%90%E7%BB%B4%E8%8B%B1%E8%AF%AD%E8%AF%BE%E6%95%B4%E4%B8%8APPT%E4%BA%86%23" target="weibo">
+徐冬冬尹子维英语课整上PPT了（热度：162079）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BE%90%E5%86%AC%E5%86%AC%E5%B0%B9%E5%AD%90%E7%BB%B4%E8%8B%B1%E8%AF%AD%E8%AF%BE%E6%95%B4%E4%B8%8APPT%E4%BA%86%23" target="weibo">
-徐冬冬尹子维英语课整上PPT了（热度：162079）
+<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E9%A3%99%E6%B6%A8%E5%91%A8%E5%A4%A7%E7%A6%8F%E4%BB%AC%E6%89%9B%E4%B8%8D%E4%BD%8F%E4%BA%86%E5%90%97%23" target="weibo">
+黄金飙涨周大福们扛不住了吗（热度：161505）
 </a>
 </li>
 
@@ -1481,6 +1499,12 @@ A股国庆休市期间发生了什么（热度：166062）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%8F%E4%B9%8B%E5%85%89%E6%8C%89%E5%87%BA%E9%81%93%E9%A1%BA%E5%BA%8F%E5%BF%B5%E5%87%BAR1SE%E6%89%80%E6%9C%89%E4%BA%BA%23" target="weibo">
 夏之光按出道顺序念出R1SE所有人（热度：154709）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23WBG%E5%AF%B9%E6%88%98G2%23" target="weibo">
+WBG对战G2（热度：153752）
 </a>
 </li>
 
@@ -1571,12 +1595,6 @@ iPhone17Air相机功能或不如其他型号（热度：149934）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BF%99%E5%BF%99%E7%A2%8C%E7%A2%8C%E5%AF%BB%E5%AE%9D%E8%97%8F%23" target="weibo">
 忙忙碌碌寻宝藏（热度：148101）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E9%A3%99%E6%B6%A8%E5%91%A8%E5%A4%A7%E7%A6%8F%E4%BB%AC%E6%89%9B%E4%B8%8D%E4%BD%8F%E4%BA%86%E5%90%97%23" target="weibo">
-黄金飙涨周大福们扛不住了吗（热度：147474）
 </a>
 </li>
 
@@ -1677,6 +1695,12 @@ LPL冲击瑞士轮第三轮全胜（热度：142237）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E5%BC%98%E5%87%A1%E8%8B%8F%E9%86%92%E8%8C%9C%E6%8B%89%E5%92%8C%E5%A3%B0%23" target="weibo">
+黄子弘凡苏醒茜拉和声（热度：138540）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%87%AA%E9%BB%8E%E5%B7%B4%E5%AB%A9%E6%92%A4%E7%A6%BB%E7%9A%84%E5%8F%B0%E6%B9%BE%E5%90%8C%E8%83%9E%E8%B0%88%E6%84%9F%E5%8F%97%23" target="weibo">
 自黎巴嫩撤离的台湾同胞谈感受（热度：136314）
 </a>
@@ -1715,6 +1739,12 @@ UFC（热度：133006）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%A0%E7%89%A9%E9%A2%86%E5%85%BB%E5%8D%8F%E8%AE%AE%E6%9C%89%E6%95%88%E5%90%97%23" target="weibo">
 宠物领养协议有效吗（热度：131501）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E6%9C%8B%E5%8F%8B%E7%9A%84%E5%84%BF%E5%AD%90%E5%A4%A7%E7%BB%93%E5%B1%80%23" target="weibo">
+妈妈朋友的儿子大结局（热度：130771）
 </a>
 </li>
 
@@ -2271,6 +2301,12 @@ Weiwei回应DK二段笑（热度：78915）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E4%BA%BA%E4%BA%BA%E4%BA%BA%E4%BA%BA%E6%88%91%E4%BA%BA%E4%BA%BA%E4%BA%BA%E4%BA%BA%E4%BA%BA%23" target="weibo">
+人人人人人我人人人人人（热度：58925）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E5%97%9C%E7%9D%A1%E7%9A%84%E9%94%85%E5%9C%B0%E7%A3%81%E6%9A%B4%E5%8F%AF%E4%B8%8D%E8%83%8C%23" target="weibo">
 你嗜睡的锅地磁暴可不背（热度：58522）
 </a>
@@ -2373,12 +2409,6 @@ S14瑞士轮（热度：57941）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E4%BA%BA%E4%BA%BA%E4%BA%BA%E4%BA%BA%E6%88%91%E4%BA%BA%E4%BA%BA%E4%BA%BA%E4%BA%BA%E4%BA%BA%23" target="weibo">
-人人人人人我人人人人人（热度：42363）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%94%E7%A8%8B%E9%AB%98%E5%B3%B0%E8%87%AA%E9%A9%BE%E5%BA%94%E6%B3%A8%E6%84%8F%E5%95%A5%23" target="weibo">
 返程高峰自驾应注意啥（热度：42234）
 </a>
@@ -2387,6 +2417,12 @@ S14瑞士轮（热度：57941）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AF%8F%E4%B8%80%E6%AC%A1%E4%B8%8E%E5%9B%BD%E6%97%97%E5%90%8C%E6%A1%86%E9%83%BD%E5%80%8D%E6%84%9F%E9%AA%84%E5%82%B2%23" target="weibo">
 每一次与国旗同框都倍感骄傲（热度：40763）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8D%E5%BC%BA%E8%A1%8C%E8%B6%85%E8%BD%A6%E4%B8%8D%E5%BC%80%E6%96%97%E6%B0%94%E8%BD%A6%23" target="weibo">
+不强行超车不开斗气车（热度：40411）
 </a>
 </li>
 

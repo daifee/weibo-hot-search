@@ -1,6 +1,6 @@
 {
   "startTime": 1728145573126,
-  "endTime": 1728228120874,
+  "endTime": 1728229002156,
   "band_list": [
     {
       "raw_hot": 8274483,
@@ -113,6 +113,14 @@
       "onboard_time": 1728222500,
       "rank": 3,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 1417596,
+      "num": 297943,
+      "word": "8人被终身禁入稻城亚丁景区",
+      "onboard_time": 1728226943,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1375361,
@@ -475,14 +483,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 628552,
-      "num": 297943,
-      "word": "8人被终身禁入稻城亚丁景区",
-      "onboard_time": 1728226943,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 625679,
       "num": 415256,
       "word": "BLG对战T1",
@@ -545,6 +545,14 @@
       "onboard_time": 1728180560,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 570291,
+      "num": 263160,
+      "word": "檀健次坐飞机迟到被点名",
+      "onboard_time": 1728228199,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 559630,
@@ -995,6 +1003,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 322735,
+      "num": 259768,
+      "word": "刘亦菲阿布扎比观赛NBA",
+      "onboard_time": 1728228320,
+      "rank": 17,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 319259,
       "num": 319259,
       "word": "许嵩演唱会嘉宾是谭晶",
@@ -1427,6 +1443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 211115,
+      "num": 211115,
+      "word": "敖子逸马嘉祺同框 丁程鑫不在",
+      "onboard_time": 1728227720,
+      "rank": 35,
+      "category": "综艺,电竞"
+    },
+    {
       "raw_hot": 210086,
       "num": 210086,
       "word": "张钧甯顶级高定",
@@ -1731,14 +1755,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 179201,
-      "num": 179201,
-      "word": "敖子逸马嘉祺同框 丁程鑫不在",
-      "onboard_time": 1728227720,
-      "rank": 35,
-      "category": "综艺,电竞"
-    },
-    {
       "raw_hot": 179055,
       "num": 179055,
       "word": "林俊杰的钢琴",
@@ -1811,6 +1827,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 166155,
+      "num": 166155,
+      "word": "王曼昱接发球分析",
+      "onboard_time": 1728226878,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 166062,
       "num": 372157,
       "word": "A股国庆休市期间发生了什么",
@@ -1835,20 +1859,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 162589,
-      "num": 162589,
-      "word": "王曼昱接发球分析",
-      "onboard_time": 1728226878,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 162079,
       "num": 162079,
       "word": "徐冬冬尹子维英语课整上PPT了",
       "onboard_time": 1728203419,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 161505,
+      "num": 161505,
+      "word": "黄金飙涨周大福们扛不住了吗",
+      "onboard_time": 1728227480,
+      "rank": 45,
+      "category": "财经"
     },
     {
       "raw_hot": 161149,
@@ -1961,6 +1985,14 @@
       "onboard_time": 1728142818,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 153752,
+      "num": 153752,
+      "word": "WBG对战G2",
+      "onboard_time": 1728228499,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 153674,
@@ -2081,14 +2113,6 @@
       "onboard_time": 1728191416,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 147474,
-      "num": 147474,
-      "word": "黄金飙涨周大福们扛不住了吗",
-      "onboard_time": 1728227480,
-      "rank": 45,
-      "category": "财经"
     },
     {
       "raw_hot": 147348,
@@ -2219,6 +2243,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 138540,
+      "num": 138540,
+      "word": "黄子弘凡苏醒茜拉和声",
+      "onboard_time": 1728228800,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 136314,
       "num": 136314,
       "word": "自黎巴嫩撤离的台湾同胞谈感受",
@@ -2273,6 +2305,14 @@
       "onboard_time": 1728184397,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 130771,
+      "num": 130771,
+      "word": "妈妈朋友的儿子大结局",
+      "onboard_time": 1728228918,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 130395,
@@ -3011,6 +3051,14 @@
       "category": "健康医疗,美食"
     },
     {
+      "raw_hot": 58925,
+      "num": 300015,
+      "word": "人人人人人我人人人人人",
+      "onboard_time": 1728226581,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 58522,
       "num": 58522,
       "word": "你嗜睡的锅地磁暴可不背",
@@ -3147,14 +3195,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 42363,
-      "num": 300015,
-      "word": "人人人人人我人人人人人",
-      "onboard_time": 1728226581,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 42234,
       "num": 340242,
       "word": "返程高峰自驾应注意啥",
@@ -3168,6 +3208,14 @@
       "word": "每一次与国旗同框都倍感骄傲",
       "onboard_time": 1728218903,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 40411,
+      "num": 262230,
+      "word": "不强行超车不开斗气车",
+      "onboard_time": 1728228440,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
