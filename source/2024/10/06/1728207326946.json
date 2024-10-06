@@ -1,0 +1,410 @@
+{
+  "runTime": 1728207326946,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1231895,
+        "num": 1231895,
+        "word": "男子抱光腿娃坐公交司机立刻报警",
+        "onboard_time": 1728199997,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 755306,
+        "num": 755306,
+        "word": "三胞胎宝宝坐高铁买挂票",
+        "onboard_time": 1728195978,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18736,
+        "num": 649894,
+        "word": "国庆文旅活动实力圈粉",
+        "onboard_time": 1728206178,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 647743,
+        "num": 647743,
+        "word": "为什么越来越多奶茶咖啡不能去冰了",
+        "onboard_time": 1728201858,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 404146,
+        "num": 404146,
+        "word": "外国小朋友在中国吃嗨了",
+        "onboard_time": 1728202518,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 336717,
+        "num": 336717,
+        "word": "职工医保个人账户如何共济给家人",
+        "onboard_time": 1728204319,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 311380,
+        "num": 311380,
+        "word": "怎么让全国人民都知道我瘦了30多斤",
+        "onboard_time": 1728193459,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118195,
+        "num": 308833,
+        "word": "开始听反方向的钟了",
+        "onboard_time": 1728187037,
+        "rank": 7,
+        "category": "音乐,幽默"
+      },
+      {
+        "raw_hot": 58905,
+        "num": 307745,
+        "word": "你会为了当地美食奔赴一座城吗",
+        "onboard_time": 1728203958,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 68556,
+        "num": 305198,
+        "word": "现制饮品不能去冰会成行业趋势吗",
+        "onboard_time": 1728205998,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1761190,
+        "num": 302813,
+        "word": "黄磊做饭",
+        "onboard_time": 1728205759,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1170545,
+        "num": 298747,
+        "word": "山西2岁走失死亡女童妈妈再发声",
+        "onboard_time": 1728205279,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 804078,
+        "num": 296723,
+        "word": "哀牢山曾发生多起人员失联遇难",
+        "onboard_time": 1728194778,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 779593,
+        "num": 293259,
+        "word": "台湾海峡中部发生3.7级地震",
+        "onboard_time": 1728205340,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 769775,
+        "num": 290988,
+        "word": "厦门震感",
+        "onboard_time": 1728204978,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 597611,
+        "num": 288425,
+        "word": "那英 你怎么不张嘴呢",
+        "onboard_time": 1728204017,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 574134,
+        "num": 287229,
+        "word": "哀牢山本地人发声",
+        "onboard_time": 1728172157,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 422281,
+        "num": 284333,
+        "word": "樊振东小时候背书包去看王皓比赛",
+        "onboard_time": 1728202219,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 364468,
+        "num": 281292,
+        "word": "鞠婧祎曾舜晞 画皮",
+        "onboard_time": 1728199338,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 343830,
+        "num": 278545,
+        "word": "赵晓卉 当明星没有上班辛苦",
+        "onboard_time": 1728194778,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 320579,
+        "num": 276510,
+        "word": "女子穿僵尸服回小区吓到遛狗大爷",
+        "onboard_time": 1728200898,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274941,
+        "num": 274941,
+        "word": "小西天爆火让更多人认识了隰字",
+        "onboard_time": 1728192678,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262364,
+        "num": 262364,
+        "word": "霉霉净资产",
+        "onboard_time": 1728191178,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 250936,
+        "num": 250936,
+        "word": "杨洋书生造型",
+        "onboard_time": 1728202759,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 238301,
+        "num": 238301,
+        "word": "华晨宇谈抑郁症",
+        "onboard_time": 1728198618,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 231454,
+        "num": 231454,
+        "word": "张凌赫有题是真做",
+        "onboard_time": 1728205638,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208347,
+        "num": 208347,
+        "word": "黑神话取景地灵岩寺现巨型悟空",
+        "onboard_time": 1728200418,
+        "rank": 26,
+        "category": "社会新闻,游戏"
+      },
+      {
+        "raw_hot": 195890,
+        "num": 195890,
+        "word": "网传新郎接亲被临时加要18万彩礼",
+        "onboard_time": 1728204017,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193491,
+        "num": 193491,
+        "word": "Faker说小虎可以爱豆出道了",
+        "onboard_time": 1728206359,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 187690,
+        "num": 187690,
+        "word": "韩安冉老公宋浩然过度劳累入院",
+        "onboard_time": 1728186558,
+        "rank": 29,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 172115,
+        "num": 172115,
+        "word": "舍不得星星13年好友结婚",
+        "onboard_time": 1728206178,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169030,
+        "num": 169030,
+        "word": "我的国庆作业终于写完了",
+        "onboard_time": 1728200658,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 161187,
+        "num": 161187,
+        "word": "研究生毕业我在县城五星级酒店打工",
+        "onboard_time": 1728201499,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159655,
+        "num": 159655,
+        "word": "李玉刚再回应被指划水",
+        "onboard_time": 1728197359,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154887,
+        "num": 154887,
+        "word": "谁能像何炅对黄磊那样对我",
+        "onboard_time": 1728193398,
+        "rank": 34,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 146755,
+        "num": 146755,
+        "word": "徐冬冬尹子维英语课整上PPT了",
+        "onboard_time": 1728203419,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143161,
+        "num": 143161,
+        "word": "今年冬天会史上最冷吗",
+        "onboard_time": 1728202878,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138753,
+        "num": 138753,
+        "word": "胡冰卿草莓发夹还是太全面了",
+        "onboard_time": 1728186739,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 133843,
+        "num": 133843,
+        "word": "LPL冲击瑞士轮第三轮全胜",
+        "onboard_time": 1728204678,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 131502,
+        "num": 131502,
+        "word": "人口9万人小县城单日游客过万",
+        "onboard_time": 1728203958,
+        "rank": 39,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 129856,
+        "num": 129856,
+        "word": "女子推理社",
+        "onboard_time": 1728196697,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126071,
+        "num": 126071,
+        "word": "26岁研究员带宝剑护送2000多件文物",
+        "onboard_time": 1728206778,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122643,
+        "num": 122643,
+        "word": "谁敢动文物我就拿这把剑跟他拼了",
+        "onboard_time": 1728207079,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121362,
+        "num": 121362,
+        "word": "车车车车高速车车车车",
+        "onboard_time": 1728191178,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119049,
+        "num": 119049,
+        "word": "出国游儿子只想在酒店挖沙妈妈气炸",
+        "onboard_time": 1728205518,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111567,
+        "num": 111567,
+        "word": "王楚钦回应近期表现引起争议",
+        "onboard_time": 1728198257,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111063,
+        "num": 111063,
+        "word": "黄金回收每克提高150元",
+        "onboard_time": 1728202697,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 107733,
+        "num": 107733,
+        "word": "这只熊猫怎么狗里狗气的",
+        "onboard_time": 1728206719,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 103979,
+        "num": 103979,
+        "word": "宋紫薇已不在理想飞书通讯录中",
+        "onboard_time": 1728205998,
+        "rank": 48,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 100110,
+        "num": 100110,
+        "word": "一文读懂职工医保家庭共济要点",
+        "onboard_time": 1728206478,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#文脉千秋江山入画#"
+    }
+  }
+}
