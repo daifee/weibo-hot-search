@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1728221745903,
+  "endTime": 1728224316111,
   "band_list": [
     {
       "raw_hot": 11925969,
@@ -369,6 +369,14 @@
       "onboard_time": 1728089658,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1444060,
+      "num": 792422,
+      "word": "T1战胜BLG",
+      "onboard_time": 1728222500,
+      "rank": 3,
+      "category": "电竞"
     },
     {
       "raw_hot": 1392155,
@@ -841,6 +849,14 @@
       "onboard_time": 1728142339,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1021200,
+      "num": 1021200,
+      "word": "马龙说这场比赛我也没有失败",
+      "onboard_time": 1728220400,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 1018525,
@@ -1619,6 +1635,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 709694,
+      "num": 426336,
+      "word": "孙颖莎林诗栋冠军合影",
+      "onboard_time": 1728223699,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 709556,
       "num": 324429,
       "word": "王楚钦和马琳儿子聊天",
@@ -1740,7 +1764,7 @@
     },
     {
       "raw_hot": 675716,
-      "num": 363752,
+      "num": 368321,
       "word": "入职几月怀孕拒绝调薪调岗被辞退",
       "onboard_time": 1728217399,
       "rank": 22,
@@ -1811,6 +1835,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 663891,
+      "num": 422941,
+      "word": "BLG",
+      "onboard_time": 1728222500,
+      "rank": 12,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 663745,
       "num": 442114,
       "word": "宋佳一出场就是国泰民安",
@@ -1865,6 +1897,14 @@
       "onboard_time": 1728204017,
       "rank": 16,
       "category": "演出"
+    },
+    {
+      "raw_hot": 649327,
+      "num": 422137,
+      "word": "周冬雨已经是nextlevel了",
+      "onboard_time": 1728220461,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 647790,
@@ -2017,6 +2057,14 @@
       "onboard_time": 1727860277,
       "rank": 16,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 625679,
+      "num": 415256,
+      "word": "BLG对战T1",
+      "onboard_time": 1728220880,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 624618,
@@ -2755,14 +2803,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 500229,
-      "num": 322665,
-      "word": "马龙说这场比赛我也没有失败",
-      "onboard_time": 1728220400,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 500067,
       "num": 500067,
       "word": "假冒媒体杜撰网文被立案侦查",
@@ -3003,6 +3043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 468133,
+      "num": 412231,
+      "word": "林诗栋三连冠",
+      "onboard_time": 1728222681,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 465493,
       "num": 365145,
       "word": "offer6带教 香港首位内地女性大律师",
@@ -3209,6 +3257,14 @@
       "onboard_time": 1728173116,
       "rank": 11,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 437494,
+      "num": 437494,
+      "word": "人人人人返程人人人人",
+      "onboard_time": 1728221238,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 436734,
@@ -3731,6 +3787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 374278,
+      "num": 374278,
+      "word": "BLG下路",
+      "onboard_time": 1728222860,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 373737,
       "num": 371732,
       "word": "求中餐厅全员二搭花少教程",
@@ -3801,6 +3865,22 @@
       "onboard_time": 1727751559,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 369443,
+      "num": 369443,
+      "word": "林诗栋请全场把掌声送给马龙",
+      "onboard_time": 1728223699,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 367368,
+      "num": 367368,
+      "word": "撤黎台湾同胞称祖国就是中国",
+      "onboard_time": 1728220760,
+      "rank": 44,
+      "category": "国内时政"
     },
     {
       "raw_hot": 367137,
@@ -4091,14 +4171,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 340743,
-      "num": 319971,
-      "word": "周冬雨已经是nextlevel了",
-      "onboard_time": 1728220461,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 340580,
       "num": 340580,
       "word": "三折叠怎么折都有题",
@@ -4387,6 +4459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 319259,
+      "num": 319259,
+      "word": "许嵩演唱会嘉宾是谭晶",
+      "onboard_time": 1728222140,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
       "raw_hot": 319248,
       "num": 261990,
       "word": "斯里兰卡警方介入中国母女酒店遇袭",
@@ -4433,6 +4513,14 @@
       "onboard_time": 1728104358,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 315122,
+      "num": 315122,
+      "word": "博主捡到中国小孩课本称不是剧本",
+      "onboard_time": 1728223881,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 312926,
@@ -5641,14 +5729,6 @@
       "onboard_time": 1727762000,
       "rank": 30,
       "category": "美食"
-    },
-    {
-      "raw_hot": 254788,
-      "num": 254788,
-      "word": "BLG对战T1",
-      "onboard_time": 1728220880,
-      "rank": 42,
-      "category": "电竞"
     },
     {
       "raw_hot": 254739,
@@ -7691,6 +7771,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 193343,
+      "num": 193343,
+      "word": "吴易昺不敌阿尔卡拉斯",
+      "onboard_time": 1728223940,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 193217,
       "num": 193217,
       "word": "浴火之路 删减",
@@ -8121,14 +8209,6 @@
       "onboard_time": 1727845998,
       "rank": 14,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 187015,
-      "num": 320713,
-      "word": "人人人人返程人人人人",
-      "onboard_time": 1728221238,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 186959,
@@ -9371,6 +9451,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 162869,
+      "num": 162869,
+      "word": "孙颖莎头发被吹炸了",
+      "onboard_time": 1728223341,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 162829,
       "num": 162829,
       "word": "假期最后3天怎么过",
@@ -9537,14 +9625,6 @@
       "onboard_time": 1727954900,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 159078,
-      "num": 159078,
-      "word": "撤黎台湾同胞称祖国就是中国",
-      "onboard_time": 1728220760,
-      "rank": 44,
-      "category": "国内时政"
     },
     {
       "raw_hot": 159057,
@@ -10115,6 +10195,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 151202,
+      "num": 151202,
+      "word": "黎巴嫩撤侨航班上的催泪广播",
+      "onboard_time": 1728222919,
+      "rank": 46,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 151170,
       "num": 151170,
       "word": "凤凰传奇抢票",
@@ -10329,6 +10417,14 @@
       "onboard_time": 1728041598,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 147348,
+      "num": 147348,
+      "word": "刘畅直播",
+      "onboard_time": 1728222681,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 147158,
@@ -15635,6 +15731,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 72898,
+      "num": 436584,
+      "word": "在高速出事故牢记9个字",
+      "onboard_time": 1728223940,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 72833,
       "num": 1205568,
       "word": "航天员发回的国庆礼物太赞了",
@@ -16971,6 +17075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 40347,
+      "num": 1925266,
+      "word": "75秒看新中国75年农业之变",
+      "onboard_time": 1728220880,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 40169,
       "num": 67560,
       "word": "欧冠联赛",
@@ -17307,6 +17419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 32531,
+      "num": 146406,
+      "word": "大女主香水穿搭",
+      "onboard_time": 1728223220,
+      "rank": 49,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 32459,
       "num": 346232,
       "word": "大国重器是刻进中国人DNA的骄傲",
@@ -17513,14 +17633,6 @@
       "onboard_time": 1728047121,
       "rank": 42,
       "category": "电影"
-    },
-    {
-      "raw_hot": 29307,
-      "num": 1925266,
-      "word": "75秒看新中国75年农业之变",
-      "onboard_time": 1728220880,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 29131,

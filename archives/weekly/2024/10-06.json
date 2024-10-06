@@ -1,6 +1,6 @@
 {
   "startTime": 1728145573126,
-  "endTime": 1728221745903,
+  "endTime": 1728224316111,
   "band_list": [
     {
       "raw_hot": 8274483,
@@ -107,6 +107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1444060,
+      "num": 792422,
+      "word": "T1战胜BLG",
+      "onboard_time": 1728222500,
+      "rank": 3,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 1375361,
       "num": 293259,
       "word": "台湾海峡中部发生3.7级地震",
@@ -185,6 +193,14 @@
       "onboard_time": 1728142339,
       "rank": 10,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1021200,
+      "num": 1021200,
+      "word": "马龙说这场比赛我也没有失败",
+      "onboard_time": 1728220400,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 1018525,
@@ -371,8 +387,16 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 709694,
+      "num": 426336,
+      "word": "孙颖莎林诗栋冠军合影",
+      "onboard_time": 1728223699,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 675716,
-      "num": 363752,
+      "num": 368321,
       "word": "入职几月怀孕拒绝调薪调岗被辞退",
       "onboard_time": 1728217399,
       "rank": 22,
@@ -385,6 +409,14 @@
       "onboard_time": 1728214762,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 663891,
+      "num": 422941,
+      "word": "BLG",
+      "onboard_time": 1728222500,
+      "rank": 12,
+      "category": "电竞"
     },
     {
       "raw_hot": 655954,
@@ -403,12 +435,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 649327,
+      "num": 422137,
+      "word": "周冬雨已经是nextlevel了",
+      "onboard_time": 1728220461,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 636345,
       "num": 560484,
       "word": "叙利亚已申请加入金砖国家",
       "onboard_time": 1728211639,
       "rank": 20,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 625679,
+      "num": 415256,
+      "word": "BLG对战T1",
+      "onboard_time": 1728220880,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 620355,
@@ -491,14 +539,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 500229,
-      "num": 322665,
-      "word": "马龙说这场比赛我也没有失败",
-      "onboard_time": 1728220400,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 500067,
       "num": 500067,
       "word": "假冒媒体杜撰网文被立案侦查",
@@ -571,6 +611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 468133,
+      "num": 412231,
+      "word": "林诗栋三连冠",
+      "onboard_time": 1728222681,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 450887,
       "num": 450887,
       "word": "因狗结缘成为朋友因狗生病反目",
@@ -585,6 +633,14 @@
       "onboard_time": 1728173116,
       "rank": 11,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 437494,
+      "num": 437494,
+      "word": "人人人人返程人人人人",
+      "onboard_time": 1728221238,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 429340,
@@ -723,6 +779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 374278,
+      "num": 374278,
+      "word": "BLG下路",
+      "onboard_time": 1728222860,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 373737,
       "num": 371732,
       "word": "求中餐厅全员二搭花少教程",
@@ -761,6 +825,22 @@
       "onboard_time": 1728188299,
       "rank": 25,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 369443,
+      "num": 369443,
+      "word": "林诗栋请全场把掌声送给马龙",
+      "onboard_time": 1728223699,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 367368,
+      "num": 367368,
+      "word": "撤黎台湾同胞称祖国就是中国",
+      "onboard_time": 1728220760,
+      "rank": 44,
+      "category": "国内时政"
     },
     {
       "raw_hot": 364520,
@@ -835,14 +915,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 340743,
-      "num": 319971,
-      "word": "周冬雨已经是nextlevel了",
-      "onboard_time": 1728220461,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 338195,
       "num": 248520,
       "word": "黎巴嫩海边景点全是露宿者的帐篷",
@@ -883,11 +955,27 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 319259,
+      "num": 319259,
+      "word": "许嵩演唱会嘉宾是谭晶",
+      "onboard_time": 1728222140,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
       "raw_hot": 319248,
       "num": 261990,
       "word": "斯里兰卡警方介入中国母女酒店遇袭",
       "onboard_time": 1728173837,
       "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 315122,
+      "num": 315122,
+      "word": "博主捡到中国小孩课本称不是剧本",
+      "onboard_time": 1728223881,
+      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -1073,14 +1161,6 @@
       "onboard_time": 1728198257,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 254788,
-      "num": 254788,
-      "word": "BLG对战T1",
-      "onboard_time": 1728220880,
-      "rank": 42,
-      "category": "电竞"
     },
     {
       "raw_hot": 253289,
@@ -1427,6 +1507,14 @@
       "category": "财经,国外时政"
     },
     {
+      "raw_hot": 193343,
+      "num": 193343,
+      "word": "吴易昺不敌阿尔卡拉斯",
+      "onboard_time": 1728223940,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 193068,
       "num": 193068,
       "word": "749局是有点预言在的",
@@ -1488,14 +1576,6 @@
       "word": "曾有4名地质人员在哀牢山失联遇难",
       "onboard_time": 1728174377,
       "rank": 24,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 187015,
-      "num": 320713,
-      "word": "人人人人返程人人人人",
-      "onboard_time": 1728221238,
-      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -1643,6 +1723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 162869,
+      "num": 162869,
+      "word": "孙颖莎头发被吹炸了",
+      "onboard_time": 1728223341,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 162079,
       "num": 162079,
       "word": "徐冬冬尹子维英语课整上PPT了",
@@ -1681,14 +1769,6 @@
       "onboard_time": 1728209238,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 159078,
-      "num": 159078,
-      "word": "撤黎台湾同胞称祖国就是中国",
-      "onboard_time": 1728220760,
-      "rank": 44,
-      "category": "国内时政"
     },
     {
       "raw_hot": 157728,
@@ -1803,6 +1883,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 151202,
+      "num": 151202,
+      "word": "黎巴嫩撤侨航班上的催泪广播",
+      "onboard_time": 1728222919,
+      "rank": 46,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 150967,
       "num": 150967,
       "word": "上海不愧是大名鼎鼎的魔都",
@@ -1849,6 +1937,14 @@
       "onboard_time": 1728191416,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 147348,
+      "num": 147348,
+      "word": "刘畅直播",
+      "onboard_time": 1728222681,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 146975,
@@ -2675,6 +2771,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 72898,
+      "num": 436584,
+      "word": "在高速出事故牢记9个字",
+      "onboard_time": 1728223940,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 72830,
       "num": 1037567,
       "word": "国庆文旅活动太全面了",
@@ -2907,6 +3011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 40347,
+      "num": 1925266,
+      "word": "75秒看新中国75年农业之变",
+      "onboard_time": 1728220880,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 39734,
       "num": 105660,
       "word": "返程高峰高速交警给你划重点",
@@ -2971,18 +3083,18 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 32531,
+      "num": 146406,
+      "word": "大女主香水穿搭",
+      "onboard_time": 1728223220,
+      "rank": 49,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 30680,
       "num": 1100238,
       "word": "国庆文旅活动实力圈粉",
       "onboard_time": 1728206178,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 29307,
-      "num": 1925266,
-      "word": "75秒看新中国75年农业之变",
-      "onboard_time": 1728220880,
       "rank": 2,
       "category": "社会新闻"
     },

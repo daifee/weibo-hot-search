@@ -1,0 +1,410 @@
+{
+  "runTime": 1728224316111,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2469272,
+        "num": 2469272,
+        "word": "马龙vs林诗栋",
+        "onboard_time": 1728212541,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1021200,
+        "num": 1021200,
+        "word": "马龙说这场比赛我也没有失败",
+        "onboard_time": 1728220400,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 40347,
+        "num": 796372,
+        "word": "75秒看新中国75年农业之变",
+        "onboard_time": 1728220880,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1444060,
+        "num": 792422,
+        "word": "T1战胜BLG",
+        "onboard_time": 1728222500,
+        "rank": 3,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 782124,
+        "num": 782124,
+        "word": "林诗栋男单冠军",
+        "onboard_time": 1728218785,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 555506,
+        "num": 555506,
+        "word": "马龙亚军",
+        "onboard_time": 1728219383,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 478988,
+        "num": 478988,
+        "word": "孙颖莎葛优躺",
+        "onboard_time": 1728219144,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 448671,
+        "num": 448671,
+        "word": "孙颖莎获女单冠军",
+        "onboard_time": 1728212961,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 437494,
+        "num": 437494,
+        "word": "人人人人返程人人人人",
+        "onboard_time": 1728221238,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 72898,
+        "num": 436584,
+        "word": "在高速出事故牢记9个字",
+        "onboard_time": 1728223940,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 925486,
+        "num": 433028,
+        "word": "黄磊炖豆角",
+        "onboard_time": 1728208399,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 709694,
+        "num": 426336,
+        "word": "孙颖莎林诗栋冠军合影",
+        "onboard_time": 1728223699,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 663891,
+        "num": 422941,
+        "word": "BLG",
+        "onboard_time": 1728222500,
+        "rank": 12,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 649327,
+        "num": 422137,
+        "word": "周冬雨已经是nextlevel了",
+        "onboard_time": 1728220461,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 625679,
+        "num": 415256,
+        "word": "BLG对战T1",
+        "onboard_time": 1728220880,
+        "rank": 14,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 468133,
+        "num": 412231,
+        "word": "林诗栋三连冠",
+        "onboard_time": 1728222681,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 411123,
+        "num": 411123,
+        "word": "迪丽热巴给龚俊剧组买下午茶",
+        "onboard_time": 1728213202,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 396261,
+        "num": 396261,
+        "word": "三胞胎宝宝坐高铁买挂票",
+        "onboard_time": 1728195978,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 374278,
+        "num": 374278,
+        "word": "BLG下路",
+        "onboard_time": 1728222860,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 369443,
+        "num": 369443,
+        "word": "林诗栋请全场把掌声送给马龙",
+        "onboard_time": 1728223699,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 549675,
+        "num": 368746,
+        "word": "哀牢山曾发生多起人员失联遇难",
+        "onboard_time": 1728194778,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 460220,
+        "num": 368321,
+        "word": "入职几月怀孕拒绝调薪调岗被辞退",
+        "onboard_time": 1728217399,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 367368,
+        "num": 367368,
+        "word": "撤黎台湾同胞称祖国就是中国",
+        "onboard_time": 1728220760,
+        "rank": 22,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 319259,
+        "num": 319259,
+        "word": "许嵩演唱会嘉宾是谭晶",
+        "onboard_time": 1728222140,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 315122,
+        "num": 315122,
+        "word": "博主捡到中国小孩课本称不是剧本",
+        "onboard_time": 1728223881,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 314955,
+        "num": 314955,
+        "word": "男子抱光腿娃坐公交司机立刻报警",
+        "onboard_time": 1728199997,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 288650,
+        "num": 288650,
+        "word": "戚薇cos毛利兰",
+        "onboard_time": 1728210199,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 280293,
+        "num": 280293,
+        "word": "Jennie权志龙去了2ne1演唱会",
+        "onboard_time": 1728212360,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 258452,
+        "num": 258452,
+        "word": "张元英中国粉丝的1分钟恋人",
+        "onboard_time": 1728216199,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 234010,
+        "num": 234010,
+        "word": "李一桐cos黑寡妇",
+        "onboard_time": 1728213260,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 215977,
+        "num": 215977,
+        "word": "为什么越来越多奶茶咖啡不能去冰了",
+        "onboard_time": 1728201858,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204554,
+        "num": 204554,
+        "word": "孙颖莎4比2战胜王曼昱",
+        "onboard_time": 1728213682,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 202900,
+        "num": 202900,
+        "word": "那英 你怎么不张嘴呢",
+        "onboard_time": 1728204017,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 197144,
+        "num": 197144,
+        "word": "林诗栋黄牌",
+        "onboard_time": 1728219323,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 194674,
+        "num": 194674,
+        "word": "高芙夺得中网女单冠军",
+        "onboard_time": 1728219622,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 193343,
+        "num": 193343,
+        "word": "吴易昺不敌阿尔卡拉斯",
+        "onboard_time": 1728223940,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 193167,
+        "num": 193167,
+        "word": "林依晨亚洲内容大赏视后",
+        "onboard_time": 1728221000,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 188726,
+        "num": 188726,
+        "word": "颜料公司回应哀牢山取材视频爆火",
+        "onboard_time": 1728218180,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182808,
+        "num": 182808,
+        "word": "猫 这个豪门我非进不可",
+        "onboard_time": 1728214220,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 178431,
+        "num": 178431,
+        "word": "上交所延长接受指定交易申报指令时间",
+        "onboard_time": 1728221659,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 178319,
+        "num": 178319,
+        "word": "孙颖莎连赢10分",
+        "onboard_time": 1728214102,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 171985,
+        "num": 171985,
+        "word": "马龙更换球拍",
+        "onboard_time": 1728216561,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 170539,
+        "num": 170539,
+        "word": "黄磊做饭",
+        "onboard_time": 1728205759,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162869,
+        "num": 162869,
+        "word": "孙颖莎头发被吹炸了",
+        "onboard_time": 1728223341,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 162004,
+        "num": 162004,
+        "word": "孙颖莎女单项目积分过万",
+        "onboard_time": 1728214762,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 151496,
+        "num": 151496,
+        "word": "TES战胜FNC",
+        "onboard_time": 1728219921,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 151202,
+        "num": 151202,
+        "word": "黎巴嫩撤侨航班上的催泪广播",
+        "onboard_time": 1728222919,
+        "rank": 46,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 147481,
+        "num": 147481,
+        "word": "安居乐烨",
+        "onboard_time": 1728218542,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147348,
+        "num": 147348,
+        "word": "刘畅直播",
+        "onboard_time": 1728222681,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32531,
+        "num": 146406,
+        "word": "大女主香水穿搭",
+        "onboard_time": 1728223220,
+        "rank": 49,
+        "category": "美妆"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动文化和旅游融合发展#"
+    }
+  }
+}
