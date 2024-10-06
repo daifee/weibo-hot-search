@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1728184026577,
+  "endTime": 1728185443943,
   "band_list": [
     {
       "raw_hot": 11925969,
@@ -1451,6 +1451,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 675722,
+      "num": 381248,
+      "word": "哀牢古国",
+      "onboard_time": 1728182057,
+      "rank": 13,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 675249,
       "num": 675249,
       "word": "上海放宽应届生身份认定标准",
@@ -1723,14 +1731,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 618309,
-      "num": 381248,
-      "word": "哀牢古国",
-      "onboard_time": 1728182057,
-      "rank": 13,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 617321,
       "num": 617321,
       "word": "重庆断崖式降温后市民乱穿衣",
@@ -1956,7 +1956,7 @@
     },
     {
       "raw_hot": 572617,
-      "num": 250583,
+      "num": 278528,
       "word": "结婚当天新娘哥哥趴车头索要彩礼",
       "onboard_time": 1728180560,
       "rank": 20,
@@ -2169,6 +2169,14 @@
       "onboard_time": 1727934738,
       "rank": 3,
       "category": "网红"
+    },
+    {
+      "raw_hot": 539503,
+      "num": 539503,
+      "word": "专家预测A股开盘即收盘",
+      "onboard_time": 1728182718,
+      "rank": 17,
+      "category": "财经"
     },
     {
       "raw_hot": 536881,
@@ -2529,14 +2537,6 @@
       "onboard_time": 1728117198,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 475889,
-      "num": 475889,
-      "word": "专家预测A股开盘即收盘",
-      "onboard_time": 1728182718,
-      "rank": 17,
-      "category": "财经"
     },
     {
       "raw_hot": 474132,
@@ -3491,6 +3491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 343548,
+      "num": 343548,
+      "word": "十一被家庭旅游整崩溃了",
+      "onboard_time": 1728183857,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 342733,
       "num": 342733,
       "word": "用我的方式祝福祖国",
@@ -3945,6 +3953,14 @@
       "onboard_time": 1727948597,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 306612,
+      "num": 344992,
+      "word": "以总理称法总统呼吁武器禁运可耻",
+      "onboard_time": 1728181998,
+      "rank": 30,
+      "category": "国外时政"
     },
     {
       "raw_hot": 306086,
@@ -4923,6 +4939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 254371,
+      "num": 254371,
+      "word": "国庆档唯一反转赛道电影",
+      "onboard_time": 1728184217,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 254269,
       "num": 254269,
       "word": "以空军飞越1800公里空袭也门胡塞武装",
@@ -4993,6 +5017,14 @@
       "onboard_time": 1727772199,
       "rank": 49,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 249804,
+      "num": 398228,
+      "word": "志愿军2票房",
+      "onboard_time": 1728174496,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 248841,
@@ -5155,14 +5187,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 242420,
-      "num": 398228,
-      "word": "志愿军2票房",
-      "onboard_time": 1728174496,
-      "rank": 29,
-      "category": "电影"
-    },
-    {
       "raw_hot": 242110,
       "num": 242110,
       "word": "林高远6小时三战",
@@ -5185,6 +5209,14 @@
       "onboard_time": 1727774719,
       "rank": 6,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 241099,
+      "num": 372381,
+      "word": "国庆假期倒数第2天",
+      "onboard_time": 1728177676,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 239881,
@@ -5491,6 +5523,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 228368,
+      "num": 280397,
+      "word": "你的家乡也有一条人民路吗",
+      "onboard_time": 1728184697,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 228350,
       "num": 228350,
       "word": "郑钦文说穆霍娃赢萨巴伦卡出乎意料",
@@ -5571,12 +5611,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 225444,
-      "num": 161385,
-      "word": "以总理称法总统呼吁武器禁运可耻",
-      "onboard_time": 1728181998,
-      "rank": 30,
-      "category": "国外时政"
+      "raw_hot": 225433,
+      "num": 225433,
+      "word": "粉笔模考",
+      "onboard_time": 1728184517,
+      "rank": 26,
+      "category": "教育"
     },
     {
       "raw_hot": 225032,
@@ -5601,6 +5641,14 @@
       "onboard_time": 1728027799,
       "rank": 27,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 223941,
+      "num": 223941,
+      "word": "男子路过狗肉店发现金毛将其买下",
+      "onboard_time": 1728184877,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 223496,
@@ -5761,14 +5809,6 @@
       "onboard_time": 1727770158,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 218856,
-      "num": 372381,
-      "word": "国庆假期倒数第2天",
-      "onboard_time": 1728177676,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 218672,
@@ -6339,6 +6379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 198641,
+      "num": 198641,
+      "word": "没过门姑爷就是好用",
+      "onboard_time": 1728183917,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 198595,
       "num": 198595,
       "word": "多名大妈在机场休息厅开音响跳舞",
@@ -6353,6 +6401,14 @@
       "onboard_time": 1727792421,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 198224,
+      "num": 198224,
+      "word": "第五人格",
+      "onboard_time": 1727848218,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 198086,
@@ -7091,6 +7147,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 186959,
+      "num": 186959,
+      "word": "用别样的方式打开人民路",
+      "onboard_time": 1728185118,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 186896,
       "num": 186896,
       "word": "KPL",
@@ -7377,6 +7441,14 @@
       "onboard_time": 1727755125,
       "rank": 19,
       "category": "电影"
+    },
+    {
+      "raw_hot": 180100,
+      "num": 180100,
+      "word": "WTT中国大满贯总票房近6000万",
+      "onboard_time": 1728184998,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 180053,
@@ -8291,6 +8363,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 160766,
+      "num": 160766,
+      "word": "新西兰一艘5700吨军舰沉没",
+      "onboard_time": 1728185118,
+      "rank": 35,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 160723,
       "num": 160723,
       "word": "泰语版柳舟记太好笑了",
@@ -8691,6 +8771,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 154069,
+      "num": 154069,
+      "word": "马克龙呼吁停止向以提供武器",
+      "onboard_time": 1728184877,
+      "rank": 36,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 153670,
       "num": 153670,
       "word": "学生被预录取后选择放弃符合规定",
@@ -8987,6 +9075,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 148902,
+      "num": 148902,
+      "word": "周震南吓到全场找妈",
+      "onboard_time": 1728184037,
+      "rank": 39,
+      "category": "演出"
+    },
+    {
       "raw_hot": 148534,
       "num": 242391,
       "word": "商务部回应加拿大对我国电动汽车加征关税",
@@ -9001,14 +9097,6 @@
       "onboard_time": 1727935878,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 147872,
-      "num": 147872,
-      "word": "十一被家庭旅游整崩溃了",
-      "onboard_time": 1728183857,
-      "rank": 33,
-      "category": "情感"
     },
     {
       "raw_hot": 147699,
@@ -9601,14 +9689,6 @@
       "onboard_time": 1728135200,
       "rank": 41,
       "category": "演出"
-    },
-    {
-      "raw_hot": 138818,
-      "num": 138818,
-      "word": "第五人格",
-      "onboard_time": 1727848218,
-      "rank": 43,
-      "category": "游戏"
     },
     {
       "raw_hot": 138802,
@@ -10321,6 +10401,14 @@
       "onboard_time": 1727877619,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 130380,
+      "num": 130380,
+      "word": "我们的歌",
+      "onboard_time": 1728184938,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 130242,
@@ -11323,6 +11411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 116708,
+      "num": 116708,
+      "word": "洛天依全息演唱会",
+      "onboard_time": 1728185357,
+      "rank": 46,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 116677,
       "num": 127468,
       "word": "朱一龙演技",
@@ -12211,14 +12307,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 105666,
-      "num": 105666,
-      "word": "没过门姑爷就是好用",
-      "onboard_time": 1728183917,
-      "rank": 48,
-      "category": "情感"
-    },
-    {
       "raw_hot": 105462,
       "num": 105462,
       "word": "庆祝中华人民共和国成立75周年招待会",
@@ -12489,6 +12577,14 @@
       "onboard_time": 1728023420,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 101519,
+      "num": 346061,
+      "word": "多给小西天一点时间",
+      "onboard_time": 1728181698,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 101440,
@@ -13004,7 +13100,7 @@
     },
     {
       "raw_hot": 93752,
-      "num": 225786,
+      "num": 346500,
       "word": "危机航线真实原型",
       "onboard_time": 1728179598,
       "rank": 24,
@@ -14217,14 +14313,6 @@
       "onboard_time": 1727977095,
       "rank": 46,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 62606,
-      "num": 243888,
-      "word": "多给小西天一点时间",
-      "onboard_time": 1728181698,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 62308,

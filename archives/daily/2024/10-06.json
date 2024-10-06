@@ -1,6 +1,6 @@
 {
   "startTime": 1728145573126,
-  "endTime": 1728184026577,
+  "endTime": 1728185443943,
   "band_list": [
     {
       "raw_hot": 1902792,
@@ -83,7 +83,7 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 618309,
+      "raw_hot": 675722,
       "num": 381248,
       "word": "哀牢古国",
       "onboard_time": 1728182057,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 572617,
-      "num": 250583,
+      "num": 278528,
       "word": "结婚当天新娘哥哥趴车头索要彩礼",
       "onboard_time": 1728180560,
       "rank": 20,
@@ -105,6 +105,14 @@
       "onboard_time": 1728142458,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 539503,
+      "num": 539503,
+      "word": "专家预测A股开盘即收盘",
+      "onboard_time": 1728182718,
+      "rank": 17,
+      "category": "财经"
     },
     {
       "raw_hot": 500067,
@@ -121,14 +129,6 @@
       "onboard_time": 1728172936,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 475889,
-      "num": 475889,
-      "word": "专家预测A股开盘即收盘",
-      "onboard_time": 1728182718,
-      "rank": 17,
-      "category": "财经"
     },
     {
       "raw_hot": 450887,
@@ -243,6 +243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 343548,
+      "num": 343548,
+      "word": "十一被家庭旅游整崩溃了",
+      "onboard_time": 1728183857,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 338195,
       "num": 248520,
       "word": "黎巴嫩海边景点全是露宿者的帐篷",
@@ -273,6 +281,14 @@
       "onboard_time": 1728173837,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 306612,
+      "num": 344992,
+      "word": "以总理称法总统呼吁武器禁运可耻",
+      "onboard_time": 1728181998,
+      "rank": 30,
+      "category": "国外时政"
     },
     {
       "raw_hot": 297193,
@@ -339,6 +355,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 254371,
+      "num": 254371,
+      "word": "国庆档唯一反转赛道电影",
+      "onboard_time": 1728184217,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 253289,
       "num": 253289,
       "word": "马龙说自己实力不如梁靖崑",
@@ -355,6 +379,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 249804,
+      "num": 398228,
+      "word": "志愿军2票房",
+      "onboard_time": 1728174496,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 243146,
       "num": 243146,
       "word": "肖战歌曲预热",
@@ -363,12 +395,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 242420,
-      "num": 398228,
-      "word": "志愿军2票房",
-      "onboard_time": 1728174496,
-      "rank": 29,
-      "category": "电影"
+      "raw_hot": 241099,
+      "num": 372381,
+      "word": "国庆假期倒数第2天",
+      "onboard_time": 1728177676,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 236667,
@@ -379,19 +411,27 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 225444,
-      "num": 161385,
-      "word": "以总理称法总统呼吁武器禁运可耻",
-      "onboard_time": 1728181998,
-      "rank": 30,
-      "category": "国外时政"
+      "raw_hot": 228368,
+      "num": 280397,
+      "word": "你的家乡也有一条人民路吗",
+      "onboard_time": 1728184697,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
-      "raw_hot": 218856,
-      "num": 372381,
-      "word": "国庆假期倒数第2天",
-      "onboard_time": 1728177676,
-      "rank": 37,
+      "raw_hot": 225433,
+      "num": 225433,
+      "word": "粉笔模考",
+      "onboard_time": 1728184517,
+      "rank": 26,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 223941,
+      "num": 223941,
+      "word": "男子路过狗肉店发现金毛将其买下",
+      "onboard_time": 1728184877,
+      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -401,6 +441,22 @@
       "onboard_time": 1728143178,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 198641,
+      "num": 198641,
+      "word": "没过门姑爷就是好用",
+      "onboard_time": 1728183917,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 198224,
+      "num": 198224,
+      "word": "第五人格",
+      "onboard_time": 1728185057,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 194212,
@@ -451,6 +507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 186959,
+      "num": 186959,
+      "word": "用别样的方式打开人民路",
+      "onboard_time": 1728185118,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 185568,
       "num": 185568,
       "word": "突然爆火的哀牢山到底是什么来头",
@@ -465,6 +529,14 @@
       "onboard_time": 1728137300,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 180100,
+      "num": 180100,
+      "word": "WTT中国大满贯总票房近6000万",
+      "onboard_time": 1728184998,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 165745,
@@ -483,6 +555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 160766,
+      "num": 160766,
+      "word": "新西兰一艘5700吨军舰沉没",
+      "onboard_time": 1728185118,
+      "rank": 35,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 160723,
       "num": 160723,
       "word": "泰语版柳舟记太好笑了",
@@ -497,6 +577,14 @@
       "onboard_time": 1728142818,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 154069,
+      "num": 154069,
+      "word": "马克龙呼吁停止向以提供武器",
+      "onboard_time": 1728184877,
+      "rank": 36,
+      "category": "国外时政"
     },
     {
       "raw_hot": 152307,
@@ -523,12 +611,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 147872,
-      "num": 147872,
-      "word": "十一被家庭旅游整崩溃了",
-      "onboard_time": 1728183857,
-      "rank": 33,
-      "category": "情感"
+      "raw_hot": 148902,
+      "num": 148902,
+      "word": "周震南吓到全场找妈",
+      "onboard_time": 1728184037,
+      "rank": 39,
+      "category": "演出"
     },
     {
       "raw_hot": 145959,
@@ -569,6 +657,14 @@
       "onboard_time": 1728145757,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 130380,
+      "num": 130380,
+      "word": "我们的歌",
+      "onboard_time": 1728184938,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 129799,
@@ -625,6 +721,14 @@
       "onboard_time": 1728141020,
       "rank": 40,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 116708,
+      "num": 116708,
+      "word": "洛天依全息演唱会",
+      "onboard_time": 1728185357,
+      "rank": 46,
+      "category": "动漫"
     },
     {
       "raw_hot": 114701,
@@ -707,14 +811,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 105666,
-      "num": 105666,
-      "word": "没过门姑爷就是好用",
-      "onboard_time": 1728183917,
-      "rank": 48,
-      "category": "情感"
-    },
-    {
       "raw_hot": 105142,
       "num": 105142,
       "word": "王楚钦梁靖崑躲采访失败",
@@ -745,6 +841,14 @@
       "onboard_time": 1728178337,
       "rank": 45,
       "category": "数码"
+    },
+    {
+      "raw_hot": 101519,
+      "num": 346061,
+      "word": "多给小西天一点时间",
+      "onboard_time": 1728181698,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 101195,
@@ -812,7 +916,7 @@
     },
     {
       "raw_hot": 93752,
-      "num": 225786,
+      "num": 346500,
       "word": "危机航线真实原型",
       "onboard_time": 1728179598,
       "rank": 24,
@@ -913,14 +1017,6 @@
       "onboard_time": 1728126199,
       "rank": 25,
       "category": "演出"
-    },
-    {
-      "raw_hot": 62606,
-      "num": 243888,
-      "word": "多给小西天一点时间",
-      "onboard_time": 1728181698,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 60381,

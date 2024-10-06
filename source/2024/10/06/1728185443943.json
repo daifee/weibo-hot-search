@@ -1,0 +1,410 @@
+{
+  "runTime": 1728185443943,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 570573,
+        "num": 1091291,
+        "word": "12306抢票",
+        "onboard_time": 1728177078,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 539503,
+        "num": 539503,
+        "word": "专家预测A股开盘即收盘",
+        "onboard_time": 1728182718,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 5570,
+        "num": 469779,
+        "word": "日记里的中国",
+        "onboard_time": 1728036080,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 786506,
+        "num": 457674,
+        "word": "液态大米",
+        "onboard_time": 1728176057,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 412153,
+        "num": 412153,
+        "word": "假冒媒体杜撰网文被立案侦查",
+        "onboard_time": 1728150313,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 381863,
+        "num": 381863,
+        "word": "孙颖莎出战女单决赛",
+        "onboard_time": 1728180560,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 249804,
+        "num": 355979,
+        "word": "志愿军2票房",
+        "onboard_time": 1728174496,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 346851,
+        "num": 346851,
+        "word": "阿勒泰的羊羊也太蓬了吧",
+        "onboard_time": 1728178998,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23181,
+        "num": 346500,
+        "word": "危机航线真实原型",
+        "onboard_time": 1728179598,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 101519,
+        "num": 346061,
+        "word": "多给小西天一点时间",
+        "onboard_time": 1728181698,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1360868,
+        "num": 345925,
+        "word": "哀牢山本地人发声",
+        "onboard_time": 1728172157,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 56816,
+        "num": 345352,
+        "word": "浴火之路票房破3亿",
+        "onboard_time": 1728173957,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 306612,
+        "num": 344992,
+        "word": "以总理称法总统呼吁武器禁运可耻",
+        "onboard_time": 1728181998,
+        "rank": 12,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1270122,
+        "num": 344581,
+        "word": "哀牢山人类禁区遭爆改人类景区",
+        "onboard_time": 1728179838,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 675722,
+        "num": 344198,
+        "word": "哀牢古国",
+        "onboard_time": 1728182057,
+        "rank": 14,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 413762,
+        "num": 343714,
+        "word": "刘烨疑似失去所有力气和手段",
+        "onboard_time": 1728142339,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 343548,
+        "num": 343548,
+        "word": "十一被家庭旅游整崩溃了",
+        "onboard_time": 1728183857,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 340870,
+        "num": 340870,
+        "word": "因狗结缘成为朋友因狗生病反目",
+        "onboard_time": 1728178758,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 332705,
+        "num": 332705,
+        "word": "求中餐厅全员二搭花少教程",
+        "onboard_time": 1728179658,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 308296,
+        "num": 308296,
+        "word": "柳智敏遭偷拍生气变脸",
+        "onboard_time": 1728170835,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 228368,
+        "num": 280397,
+        "word": "你的家乡也有一条人民路吗",
+        "onboard_time": 1728184697,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 543033,
+        "num": 278528,
+        "word": "结婚当天新娘哥哥趴车头索要彩礼",
+        "onboard_time": 1728180560,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265076,
+        "num": 265076,
+        "word": "三四岁儿童背几个包裹逃离黎巴嫩",
+        "onboard_time": 1728171615,
+        "rank": 22,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 260930,
+        "num": 260930,
+        "word": "黎巴嫩人说饿死也不愿死在以军手中",
+        "onboard_time": 1728174977,
+        "rank": 23,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 254371,
+        "num": 254371,
+        "word": "国庆档唯一反转赛道电影",
+        "onboard_time": 1728184217,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 241099,
+        "num": 241099,
+        "word": "国庆假期倒数第2天",
+        "onboard_time": 1728177676,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225433,
+        "num": 225433,
+        "word": "粉笔模考",
+        "onboard_time": 1728184517,
+        "rank": 26,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 223941,
+        "num": 223941,
+        "word": "男子路过狗肉店发现金毛将其买下",
+        "onboard_time": 1728184877,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211901,
+        "num": 211901,
+        "word": "为什么不吃米面体重很快会降",
+        "onboard_time": 1728173116,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 198641,
+        "num": 198641,
+        "word": "没过门姑爷就是好用",
+        "onboard_time": 1728183917,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 198224,
+        "num": 198224,
+        "word": "第五人格",
+        "onboard_time": 1728185057,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 186959,
+        "num": 186959,
+        "word": "用别样的方式打开人民路",
+        "onboard_time": 1728185118,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180100,
+        "num": 180100,
+        "word": "WTT中国大满贯总票房近6000万",
+        "onboard_time": 1728184998,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 172792,
+        "num": 172792,
+        "word": "肖战歌曲预热",
+        "onboard_time": 1728171014,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 168654,
+        "num": 168654,
+        "word": "王楚钦调侃梁靖崑网速快",
+        "onboard_time": 1728181877,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 160766,
+        "num": 160766,
+        "word": "新西兰一艘5700吨军舰沉没",
+        "onboard_time": 1728185118,
+        "rank": 35,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 154069,
+        "num": 154069,
+        "word": "马克龙呼吁停止向以提供武器",
+        "onboard_time": 1728184877,
+        "rank": 36,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 153586,
+        "num": 153586,
+        "word": "美联储亏损已破2000亿美元",
+        "onboard_time": 1728180858,
+        "rank": 37,
+        "category": "财经,国外时政"
+      },
+      {
+        "raw_hot": 150686,
+        "num": 150686,
+        "word": "中东局势到了最危急时刻",
+        "onboard_time": 1728155112,
+        "rank": 38,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 148902,
+        "num": 148902,
+        "word": "周震南吓到全场找妈",
+        "onboard_time": 1728184037,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 139000,
+        "num": 139000,
+        "word": "阴阳师",
+        "onboard_time": 1728183739,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 138647,
+        "num": 138647,
+        "word": "泰语版柳舟记太好笑了",
+        "onboard_time": 1728180140,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130380,
+        "num": 130380,
+        "word": "我们的歌",
+        "onboard_time": 1728184938,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120344,
+        "num": 120344,
+        "word": "Henry唱全是爱",
+        "onboard_time": 1728181698,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 119165,
+        "num": 119165,
+        "word": "准女婿到女友家干活一干一个不吱声",
+        "onboard_time": 1728169994,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119113,
+        "num": 119113,
+        "word": "今晚可能发生强地磁暴",
+        "onboard_time": 1728143659,
+        "rank": 45,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 116708,
+        "num": 116708,
+        "word": "洛天依全息演唱会",
+        "onboard_time": 1728185357,
+        "rank": 46,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 115672,
+        "num": 115672,
+        "word": "进哀牢山走一段距离打一个路标",
+        "onboard_time": 1728182657,
+        "rank": 47,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 113517,
+        "num": 113517,
+        "word": "勇士绝杀快船",
+        "onboard_time": 1728180560,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111535,
+        "num": 111535,
+        "word": "伯远 EXO的e不发音",
+        "onboard_time": 1728170774,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#新时代的中国活力满满热气腾腾#"
+    }
+  }
+}
