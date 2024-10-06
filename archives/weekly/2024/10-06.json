@@ -1,6 +1,6 @@
 {
   "startTime": 1728145573126,
-  "endTime": 1728200094208,
+  "endTime": 1728203167002,
   "band_list": [
     {
       "raw_hot": 1902792,
@@ -32,6 +32,14 @@
       "word": "三胞胎宝宝坐高铁买挂票",
       "onboard_time": 1728195978,
       "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1439613,
+      "num": 1439613,
+      "word": "男子抱光腿娃坐公交司机立刻报警",
+      "onboard_time": 1728199997,
+      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -193,6 +201,14 @@
       "onboard_time": 1728185118,
       "rank": 35,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 620355,
+      "num": 265235,
+      "word": "鞠婧祎曾舜晞 画皮",
+      "onboard_time": 1728199338,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 572617,
@@ -363,6 +379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 390350,
+      "num": 230916,
+      "word": "华晨宇谈抑郁症",
+      "onboard_time": 1728198618,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
       "raw_hot": 380995,
       "num": 380995,
       "word": "中东局势到了最危急时刻",
@@ -419,14 +443,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 368399,
-      "num": 230916,
-      "word": "华晨宇谈抑郁症",
-      "onboard_time": 1728198618,
-      "rank": 25,
-      "category": "演出"
-    },
-    {
       "raw_hot": 362323,
       "num": 505491,
       "word": "央视海采又有名场面",
@@ -449,6 +465,14 @@
       "onboard_time": 1728139699,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 349453,
+      "num": 227410,
+      "word": "女子穿僵尸服回小区吓到遛狗大爷",
+      "onboard_time": 1728200898,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 345483,
@@ -529,6 +553,14 @@
       "onboard_time": 1728185057,
       "rank": 30,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 293748,
+      "num": 293748,
+      "word": "黑神话取景地灵岩寺现巨型悟空",
+      "onboard_time": 1728200418,
+      "rank": 6,
+      "category": "社会新闻,游戏"
     },
     {
       "raw_hot": 291039,
@@ -667,6 +699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 235124,
+      "num": 235124,
+      "word": "研究生毕业我在县城五星级酒店打工",
+      "onboard_time": 1728201499,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 230112,
       "num": 230112,
       "word": "WTT中国大满贯总票房近6000万",
@@ -715,20 +755,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 213561,
+      "num": 213561,
+      "word": "为什么越来越多奶茶咖啡不能去冰了",
+      "onboard_time": 1728201858,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 212247,
       "num": 212247,
       "word": "田曦薇女推2上班路透",
       "onboard_time": 1728193759,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 208009,
-      "num": 208009,
-      "word": "鞠婧祎曾舜晞 画皮",
-      "onboard_time": 1728199338,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 207275,
@@ -835,6 +875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 187923,
+      "num": 187923,
+      "word": "杨洋书生造型",
+      "onboard_time": 1728202759,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 187699,
       "num": 187699,
       "word": "WTT",
@@ -889,6 +937,14 @@
       "onboard_time": 1728184938,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 170443,
+      "num": 170443,
+      "word": "曾舜晞七夜雪预告",
+      "onboard_time": 1728201917,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 169375,
@@ -963,6 +1019,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 156650,
+      "num": 156650,
+      "word": "王楚钦回应近期表现引起争议",
+      "onboard_time": 1728198257,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 155416,
       "num": 155416,
       "word": "地质工作者在哀牢山也有很大风险",
@@ -985,14 +1049,6 @@
       "onboard_time": 1728142818,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 152980,
-      "num": 152980,
-      "word": "王楚钦回应近期表现引起争议",
-      "onboard_time": 1728198257,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 152851,
@@ -1131,6 +1187,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 134221,
+      "num": 134221,
+      "word": "我的国庆作业终于写完了",
+      "onboard_time": 1728200658,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 133006,
       "num": 133006,
       "word": "UFC",
@@ -1145,6 +1209,14 @@
       "onboard_time": 1728189619,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 132802,
+      "num": 216095,
+      "word": "县城五星级酒店迎来泼天流量",
+      "onboard_time": 1728199578,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 132616,
@@ -1168,6 +1240,14 @@
       "word": "宠物领养协议有效吗",
       "onboard_time": 1728184397,
       "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 131131,
+      "num": 131131,
+      "word": "外国小朋友在中国吃嗨了",
+      "onboard_time": 1728202518,
+      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -1379,6 +1459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 108751,
+      "num": 108751,
+      "word": "今年冬天会史上最冷吗",
+      "onboard_time": 1728202878,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 108633,
       "num": 108633,
       "word": "王楚钦说我们下个赛场见",
@@ -1387,20 +1475,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 108050,
+      "num": 108050,
+      "word": "黄金回收每克提高150元",
+      "onboard_time": 1728202697,
+      "rank": 45,
+      "category": "财经"
+    },
+    {
       "raw_hot": 107974,
       "num": 107974,
       "word": "WB零封AG",
       "onboard_time": 1728140059,
       "rank": 33,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 107940,
-      "num": 107940,
-      "word": "县城五星级酒店迎来泼天流量",
-      "onboard_time": 1728199578,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 107869,
@@ -1425,6 +1513,22 @@
       "onboard_time": 1728172036,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 106185,
+      "num": 106185,
+      "word": "樊振东小时候背书包去看王皓比赛",
+      "onboard_time": 1728202219,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 105356,
+      "num": 105356,
+      "word": "何广智给武艺一家带礼物",
+      "onboard_time": 1728201858,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 105142,
@@ -1529,14 +1633,6 @@
       "onboard_time": 1728114380,
       "rank": 40,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 96105,
-      "num": 185248,
-      "word": "男子抱光腿娃坐公交司机立刻报警",
-      "onboard_time": 1728199997,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 94519,
@@ -1859,6 +1955,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 29439,
+      "num": 270326,
+      "word": "为何有推免生在临门一脚时反悔",
+      "onboard_time": 1728202098,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 28244,
       "num": 46323,
       "word": "粉丝音乐节现场为Henry庆生",
@@ -1873,6 +1977,14 @@
       "onboard_time": 1728189318,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 22059,
+      "num": 654056,
+      "word": "斑斓的画笔只为中国",
+      "onboard_time": 1728186919,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 18205,
@@ -1921,6 +2033,14 @@
       "onboard_time": 1728133221,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 6737,
+      "num": 228306,
+      "word": "于正回应身上痒就去洗澡",
+      "onboard_time": 1728202937,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 5283,
