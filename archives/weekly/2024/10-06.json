@@ -1,6 +1,6 @@
 {
   "startTime": 1728145573126,
-  "endTime": 1728240047469,
+  "endTime": 1728242305551,
   "band_list": [
     {
       "raw_hot": 8274483,
@@ -3443,6 +3443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 30535,
+      "num": 30535,
+      "word": "新一轮巴以冲突爆发一周年",
+      "onboard_time": 1728240614,
+      "rank": 37,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 28660,
       "num": 276178,
       "word": "于正回应身上痒就去洗澡",
@@ -3459,12 +3467,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 26032,
+      "num": 42523,
+      "word": "南昌滕王阁保安小哥花式整活",
+      "onboard_time": 1728240133,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 25649,
       "num": 146750,
       "word": "玫瑰苹果养颜水",
       "onboard_time": 1728217641,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 24526,
+      "num": 26695,
+      "word": "这些话句句都是爱国情",
+      "onboard_time": 1728230300,
+      "rank": 47,
+      "category": "国内时政"
     },
     {
       "raw_hot": 23600,
@@ -3475,20 +3499,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 23309,
+      "num": 57418,
+      "word": "重庆火车站预计发送旅客31万人次",
+      "onboard_time": 1728236953,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 22644,
       "num": 242901,
       "word": "于正觉得卖萌是不分年纪",
       "onboard_time": 1728189318,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 21504,
-      "num": 57418,
-      "word": "重庆火车站预计发送旅客31万人次",
-      "onboard_time": 1728236953,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 21199,
@@ -3529,6 +3553,14 @@
       "onboard_time": 1728220819,
       "rank": 48,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 16874,
+      "num": 43192,
+      "word": "看见界碑的瞬间自豪感油然而生",
+      "onboard_time": 1728239772,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 10734,
