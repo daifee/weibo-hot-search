@@ -1,6 +1,6 @@
 {
   "startTime": 1728145573126,
-  "endTime": 1728224316111,
+  "endTime": 1728225462214,
   "band_list": [
     {
       "raw_hot": 8274483,
@@ -235,6 +235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 930101,
+      "num": 369443,
+      "word": "林诗栋请全场把掌声送给马龙",
+      "onboard_time": 1728223699,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 846741,
       "num": 491437,
       "word": "赵晓卉 当明星没有上班辛苦",
@@ -355,6 +363,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 738622,
+      "num": 426336,
+      "word": "孙颖莎林诗栋冠军合影",
+      "onboard_time": 1728223699,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 727594,
       "num": 727594,
       "word": "孙颖莎葛优躺",
@@ -387,14 +403,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 709694,
-      "num": 426336,
-      "word": "孙颖莎林诗栋冠军合影",
-      "onboard_time": 1728223699,
-      "rank": 11,
-      "category": "体育"
-    },
-    {
       "raw_hot": 675716,
       "num": 368321,
       "word": "入职几月怀孕拒绝调薪调岗被辞退",
@@ -409,6 +417,14 @@
       "onboard_time": 1728214762,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 674681,
+      "num": 422137,
+      "word": "周冬雨已经是nextlevel了",
+      "onboard_time": 1728220461,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 663891,
@@ -433,14 +449,6 @@
       "onboard_time": 1728204017,
       "rank": 16,
       "category": "演出"
-    },
-    {
-      "raw_hot": 649327,
-      "num": 422137,
-      "word": "周冬雨已经是nextlevel了",
-      "onboard_time": 1728220461,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 636345,
@@ -481,6 +489,14 @@
       "onboard_time": 1728214102,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 583436,
+      "num": 583436,
+      "word": "人人人人返程人人人人",
+      "onboard_time": 1728221238,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 581573,
@@ -595,6 +611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 475593,
+      "num": 367075,
+      "word": "博主捡到中国小孩课本称不是剧本",
+      "onboard_time": 1728223881,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 470324,
       "num": 377435,
       "word": "刘国梁为孙颖莎颁奖",
@@ -633,14 +657,6 @@
       "onboard_time": 1728173116,
       "rank": 11,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 437494,
-      "num": 437494,
-      "word": "人人人人返程人人人人",
-      "onboard_time": 1728221238,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 429340,
@@ -827,20 +843,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 369443,
-      "num": 369443,
-      "word": "林诗栋请全场把掌声送给马龙",
-      "onboard_time": 1728223699,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 367368,
-      "num": 367368,
+      "raw_hot": 369001,
+      "num": 369001,
       "word": "撤黎台湾同胞称祖国就是中国",
       "onboard_time": 1728220760,
       "rank": 44,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 366182,
+      "num": 366182,
+      "word": "孙颖莎头发被吹炸了",
+      "onboard_time": 1728223341,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 364520,
@@ -968,14 +984,6 @@
       "word": "斯里兰卡警方介入中国母女酒店遇袭",
       "onboard_time": 1728173837,
       "rank": 17,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 315122,
-      "num": 315122,
-      "word": "博主捡到中国小孩课本称不是剧本",
-      "onboard_time": 1728223881,
-      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -1307,6 +1315,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 224705,
+      "num": 224705,
+      "word": "Bin",
+      "onboard_time": 1728224419,
+      "rank": 28,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 219301,
       "num": 219301,
       "word": "足协因考虑舆情没给国足包机",
@@ -1363,12 +1379,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 212184,
+      "num": 212184,
+      "word": "林高远 冠军是目标不是桎梏",
+      "onboard_time": 1728224540,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 210086,
       "num": 210086,
       "word": "张钧甯顶级高定",
       "onboard_time": 1728218001,
       "rank": 37,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 208235,
+      "num": 208235,
+      "word": "肖宇梁饰演光绪",
+      "onboard_time": 1728224361,
+      "rank": 33,
+      "category": "演出"
     },
     {
       "raw_hot": 207477,
@@ -1465,6 +1497,14 @@
       "onboard_time": 1728183917,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 197717,
+      "num": 436584,
+      "word": "在高速出事故牢记9个字",
+      "onboard_time": 1728223940,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 195200,
@@ -1723,14 +1763,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 162869,
-      "num": 162869,
-      "word": "孙颖莎头发被吹炸了",
-      "onboard_time": 1728223341,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 162079,
       "num": 162079,
       "word": "徐冬冬尹子维英语课整上PPT了",
@@ -1753,6 +1785,14 @@
       "onboard_time": 1728217399,
       "rank": 42,
       "category": "综艺,电竞"
+    },
+    {
+      "raw_hot": 160728,
+      "num": 160728,
+      "word": "周冬雨给林依晨颁奖",
+      "onboard_time": 1728225201,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 160723,
@@ -1851,6 +1891,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 153528,
+      "num": 153528,
+      "word": "赵露思挂脖露背裙",
+      "onboard_time": 1728224120,
+      "rank": 42,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 152851,
       "num": 152851,
       "word": "王子奇路透",
@@ -1881,6 +1929,14 @@
       "onboard_time": 1728170774,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 152169,
+      "num": 152169,
+      "word": "李沁帮曾舜晞疗伤戏",
+      "onboard_time": 1728225201,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 151202,
@@ -2161,6 +2217,14 @@
       "onboard_time": 1728141859,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 129476,
+      "num": 129476,
+      "word": "音乐缘计划",
+      "onboard_time": 1728225260,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 128683,
@@ -2763,20 +2827,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 77002,
+      "num": 304668,
+      "word": "国庆假期第6天你在干什么",
+      "onboard_time": 1728225020,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 75472,
       "num": 75472,
       "word": "一阳拥抱",
       "onboard_time": 1728142517,
       "rank": 49,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 72898,
-      "num": 436584,
-      "word": "在高速出事故牢记9个字",
-      "onboard_time": 1728223940,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 72830,
