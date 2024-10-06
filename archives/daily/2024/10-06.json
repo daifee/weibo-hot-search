@@ -1,6 +1,6 @@
 {
   "startTime": 1728145573126,
-  "endTime": 1728225462214,
+  "endTime": 1728228120874,
   "band_list": [
     {
       "raw_hot": 8274483,
@@ -219,6 +219,14 @@
       "category": "自然"
     },
     {
+      "raw_hot": 990598,
+      "num": 367075,
+      "word": "博主捡到中国小孩课本称不是剧本",
+      "onboard_time": 1728223881,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 988232,
       "num": 988232,
       "word": "12306客服回应火车票买长乘短",
@@ -236,7 +244,7 @@
     },
     {
       "raw_hot": 930101,
-      "num": 369443,
+      "num": 1145465,
       "word": "林诗栋请全场把掌声送给马龙",
       "onboard_time": 1728223699,
       "rank": 19,
@@ -403,6 +411,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 681480,
+      "num": 366182,
+      "word": "孙颖莎头发被吹炸了",
+      "onboard_time": 1728223341,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 675716,
       "num": 368321,
       "word": "入职几月怀孕拒绝调薪调岗被辞退",
@@ -459,6 +475,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 628552,
+      "num": 297943,
+      "word": "8人被终身禁入稻城亚丁景区",
+      "onboard_time": 1728226943,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 625679,
       "num": 415256,
       "word": "BLG对战T1",
@@ -481,6 +505,14 @@
       "onboard_time": 1728213260,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 604325,
+      "num": 604325,
+      "word": "孙颖莎说明天就要出发去亚锦赛",
+      "onboard_time": 1728226760,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 590546,
@@ -608,14 +640,6 @@
       "word": "外国小朋友在中国吃嗨了",
       "onboard_time": 1728202518,
       "rank": 35,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 475593,
-      "num": 367075,
-      "word": "博主捡到中国小孩课本称不是剧本",
-      "onboard_time": 1728223881,
-      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -851,14 +875,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 366182,
-      "num": 366182,
-      "word": "孙颖莎头发被吹炸了",
-      "onboard_time": 1728223341,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 364520,
       "num": 364520,
       "word": "我们的歌",
@@ -953,6 +969,14 @@
       "onboard_time": 1728142818,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 334491,
+      "num": 296227,
+      "word": "林高远 冠军是目标不是桎梏",
+      "onboard_time": 1728224540,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 331272,
@@ -1323,12 +1347,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 221921,
+      "num": 221921,
+      "word": "林诗栋说马龙是神一般的存在",
+      "onboard_time": 1728225800,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 219301,
       "num": 219301,
       "word": "足协因考虑舆情没给国足包机",
       "onboard_time": 1728190039,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 218473,
+      "num": 304668,
+      "word": "国庆假期第6天你在干什么",
+      "onboard_time": 1728225020,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 217196,
@@ -1355,6 +1395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 215253,
+      "num": 215253,
+      "word": "张雨绮复刻MaggieQ红裙造型",
+      "onboard_time": 1728226760,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 214806,
       "num": 214806,
       "word": "胡歌亚洲内容大赏视帝",
@@ -1377,14 +1425,6 @@
       "onboard_time": 1728193759,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 212184,
-      "num": 212184,
-      "word": "林高远 冠军是目标不是桎梏",
-      "onboard_time": 1728224540,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 210086,
@@ -1451,6 +1491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 202927,
+      "num": 202927,
+      "word": "隰县文旅局回应举全县之力接待游客",
+      "onboard_time": 1728226341,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 202508,
       "num": 202508,
       "word": "暗河传",
@@ -1465,6 +1513,14 @@
       "onboard_time": 1728219921,
       "rank": 40,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 201018,
+      "num": 201018,
+      "word": "周冬雨给林依晨颁奖",
+      "onboard_time": 1728225201,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 200879,
@@ -1675,6 +1731,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 179201,
+      "num": 179201,
+      "word": "敖子逸马嘉祺同框 丁程鑫不在",
+      "onboard_time": 1728227720,
+      "rank": 35,
+      "category": "综艺,电竞"
+    },
+    {
       "raw_hot": 179055,
       "num": 179055,
       "word": "林俊杰的钢琴",
@@ -1739,6 +1803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 167730,
+      "num": 167730,
+      "word": "刘宇宁周传雄合唱青花",
+      "onboard_time": 1728227600,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 166062,
       "num": 372157,
       "word": "A股国庆休市期间发生了什么",
@@ -1761,6 +1833,14 @@
       "onboard_time": 1728125059,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 162589,
+      "num": 162589,
+      "word": "王曼昱接发球分析",
+      "onboard_time": 1728226878,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 162079,
@@ -1787,14 +1867,6 @@
       "category": "综艺,电竞"
     },
     {
-      "raw_hot": 160728,
-      "num": 160728,
-      "word": "周冬雨给林依晨颁奖",
-      "onboard_time": 1728225201,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 160723,
       "num": 160723,
       "word": "泰语版柳舟记太好笑了",
@@ -1809,6 +1881,14 @@
       "onboard_time": 1728209238,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 158550,
+      "num": 158550,
+      "word": "赵露思挂脖露背裙",
+      "onboard_time": 1728224120,
+      "rank": 42,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 157728,
@@ -1891,12 +1971,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 153528,
-      "num": 153528,
-      "word": "赵露思挂脖露背裙",
-      "onboard_time": 1728224120,
-      "rank": 42,
-      "category": "作品衍生,时尚"
+      "raw_hot": 152909,
+      "num": 152909,
+      "word": "薛之谦 在那天回不去的路上",
+      "onboard_time": 1728226701,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 152851,
@@ -1936,6 +2016,14 @@
       "word": "李沁帮曾舜晞疗伤戏",
       "onboard_time": 1728225201,
       "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 151499,
+      "num": 151499,
+      "word": "张新成拍的王玉雯",
+      "onboard_time": 1728226281,
+      "rank": 42,
       "category": "剧集"
     },
     {
@@ -1993,6 +2081,14 @@
       "onboard_time": 1728191416,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 147474,
+      "num": 147474,
+      "word": "黄金飙涨周大福们扛不住了吗",
+      "onboard_time": 1728227480,
+      "rank": 45,
+      "category": "财经"
     },
     {
       "raw_hot": 147348,
@@ -2827,14 +2923,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 77002,
-      "num": 304668,
-      "word": "国庆假期第6天你在干什么",
-      "onboard_time": 1728225020,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 75472,
       "num": 75472,
       "word": "一阳拥抱",
@@ -3056,6 +3144,14 @@
       "word": "不少女性进入骑手网约车司机行业",
       "onboard_time": 1728199940,
       "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 42363,
+      "num": 300015,
+      "word": "人人人人人我人人人人人",
+      "onboard_time": 1728226581,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
