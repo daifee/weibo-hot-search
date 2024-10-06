@@ -1,6 +1,6 @@
 {
   "startTime": 1728231932217,
-  "endTime": 1728256846527,
+  "endTime": 1728257822401,
   "band_list": [
     {
       "raw_hot": 1367280,
@@ -67,20 +67,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 421343,
+      "num": 102183,
+      "word": "颜料公司回应哀牢山取材视频爆火",
+      "onboard_time": 1728218180,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 394692,
       "num": 229227,
       "word": "周冬雨已经是nextlevel了",
       "onboard_time": 1728220461,
       "rank": 17,
       "category": "电影"
-    },
-    {
-      "raw_hot": 358004,
-      "num": 92072,
-      "word": "颜料公司回应哀牢山取材视频爆火",
-      "onboard_time": 1728218180,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 350545,
@@ -115,6 +115,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 324574,
+      "num": 861931,
+      "word": "男子抱光腿娃坐公交司机立刻报警",
+      "onboard_time": 1728199997,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 310348,
       "num": 310348,
       "word": "T1战胜BLG",
@@ -131,11 +139,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 295837,
-      "num": 738739,
-      "word": "男子抱光腿娃坐公交司机立刻报警",
-      "onboard_time": 1728199997,
-      "rank": 6,
+      "raw_hot": 280218,
+      "num": 280218,
+      "word": "人人人人返程人人人人",
+      "onboard_time": 1728221238,
+      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -163,12 +171,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 253950,
-      "num": 253950,
-      "word": "人人人人返程人人人人",
-      "onboard_time": 1728221238,
-      "rank": 7,
-      "category": "社会新闻"
+      "raw_hot": 219743,
+      "num": 98549,
+      "word": "伊朗全国机场暂停航班起降9小时",
+      "onboard_time": 1728256754,
+      "rank": 17,
+      "category": "国外时政"
     },
     {
       "raw_hot": 218133,
@@ -185,6 +193,14 @@
       "onboard_time": 1728195978,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 181744,
+      "num": 96812,
+      "word": "孙颖莎出发下一站",
+      "onboard_time": 1728256574,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 172760,
@@ -267,6 +283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 142048,
+      "num": 170470,
+      "word": "印拟向全球推广印度制造",
+      "onboard_time": 1728232398,
+      "rank": 14,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 139549,
       "num": 139549,
       "word": "孙颖莎头发被吹炸了",
@@ -331,14 +355,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 126937,
-      "num": 89456,
-      "word": "伊朗全国机场暂停航班起降9小时",
-      "onboard_time": 1728256754,
-      "rank": 17,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 126130,
       "num": 126130,
       "word": "孙颖莎4比2战胜王曼昱",
@@ -371,12 +387,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 124035,
-      "num": 170470,
-      "word": "印拟向全球推广印度制造",
-      "onboard_time": 1728232398,
-      "rank": 14,
-      "category": "国外时政"
+      "raw_hot": 119102,
+      "num": 119102,
+      "word": "他们在垃圾堆里淘宝式找出多件文物",
+      "onboard_time": 1728244212,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 117077,
@@ -403,19 +419,19 @@
       "category": "情感"
     },
     {
+      "raw_hot": 110567,
+      "num": 96496,
+      "word": "雇了两个男大陪爬泰山",
+      "onboard_time": 1728257417,
+      "rank": 19,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 107848,
       "num": 107848,
       "word": "国庆假期第6天你在干什么",
       "onboard_time": 1728225020,
       "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 105982,
-      "num": 105982,
-      "word": "他们在垃圾堆里淘宝式找出多件文物",
-      "onboard_time": 1728244212,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -435,20 +451,68 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 79484,
-      "num": 61269,
-      "word": "孙颖莎出发下一站",
-      "onboard_time": 1728256574,
+      "raw_hot": 92676,
+      "num": 92676,
+      "word": "TVB拍的名媛培训班",
+      "onboard_time": 1728256874,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 86322,
+      "num": 86322,
+      "word": "BLG与WBG同组",
+      "onboard_time": 1728257535,
+      "rank": 25,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 81782,
+      "num": 72450,
+      "word": "日本一动物园饲养员长期偷动物蔬果",
+      "onboard_time": 1728257417,
       "rank": 30,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 71966,
+      "num": 71966,
+      "word": "王楚钦和马琳儿子分享零食",
+      "onboard_time": 1728257535,
+      "rank": 31,
       "category": "体育"
     },
     {
-      "raw_hot": 62622,
-      "num": 62622,
+      "raw_hot": 71773,
+      "num": 71773,
+      "word": "KPL",
+      "onboard_time": 1728257655,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 71633,
+      "num": 71633,
+      "word": "男子3次吃附子3次中毒被抢救",
+      "onboard_time": 1728249852,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 66927,
+      "num": 66927,
       "word": "王一博独自攀登沙漠珠峰看日出",
       "onboard_time": 1728252191,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 64710,
+      "num": 64710,
+      "word": "马龙把花送给了小朋友",
+      "onboard_time": 1728257417,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 60423,
@@ -459,6 +523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 58322,
+      "num": 58322,
+      "word": "游客十一逃离人潮反向涌进县城",
+      "onboard_time": 1728242471,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 57867,
       "num": 57867,
       "word": "任嘉伦佳偶天成新妆造",
@@ -467,12 +539,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 57704,
-      "num": 57704,
-      "word": "男子3次吃附子3次中毒被抢救",
-      "onboard_time": 1728249852,
-      "rank": 46,
+      "raw_hot": 55917,
+      "num": 55917,
+      "word": "南昌滕王阁保安小哥花式整活",
+      "onboard_time": 1728240133,
+      "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 55478,
+      "num": 55478,
+      "word": "孙颖莎回应邀请李雯雯观赛",
+      "onboard_time": 1728256874,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 53047,
@@ -499,6 +579,38 @@
       "category": "教育"
     },
     {
+      "raw_hot": 51151,
+      "num": 51151,
+      "word": "新一轮巴以冲突爆发一周年",
+      "onboard_time": 1728240614,
+      "rank": 37,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 51112,
+      "num": 51112,
+      "word": "放弃型人格",
+      "onboard_time": 1728257417,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 51073,
+      "num": 51073,
+      "word": "宝宝只对着妈妈一人唱歌",
+      "onboard_time": 1728256634,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 50388,
+      "num": 50388,
+      "word": "黑龙江数千亩蔓越莓上市啦",
+      "onboard_time": 1728245413,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 45823,
       "num": 45823,
       "word": "薛之谦 在那天回不去的路上",
@@ -507,44 +619,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 44447,
-      "num": 44447,
-      "word": "游客十一逃离人潮反向涌进县城",
-      "onboard_time": 1728242471,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 44362,
       "num": 44362,
       "word": "你现在开始穿长袖了吗",
       "onboard_time": 1728240073,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 42959,
-      "num": 42959,
-      "word": "南昌滕王阁保安小哥花式整活",
-      "onboard_time": 1728240133,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 42723,
-      "num": 42723,
-      "word": "黑龙江数千亩蔓越莓上市啦",
-      "onboard_time": 1728245413,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 41702,
-      "num": 41702,
-      "word": "新一轮巴以冲突爆发一周年",
-      "onboard_time": 1728240614,
-      "rank": 37,
-      "category": "国外时政"
     },
     {
       "raw_hot": 39747,
@@ -595,14 +675,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 29620,
-      "num": 41545,
-      "word": "宝宝只对着妈妈一人唱歌",
-      "onboard_time": 1728256634,
-      "rank": 49,
-      "category": "情感"
-    },
-    {
       "raw_hot": 29549,
       "num": 29549,
       "word": "这些话句句都是爱国情",
@@ -643,18 +715,18 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 23155,
-      "num": 351296,
-      "word": "75秒看新中国75年农业之变",
-      "onboard_time": 1728220880,
+      "raw_hot": 24326,
+      "num": 224708,
+      "word": "每一次与国旗同框都倍感骄傲",
+      "onboard_time": 1728218903,
       "rank": 2,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 22372,
-      "num": 187725,
-      "word": "每一次与国旗同框都倍感骄傲",
-      "onboard_time": 1728218903,
+      "raw_hot": 23155,
+      "num": 351296,
+      "word": "75秒看新中国75年农业之变",
+      "onboard_time": 1728220880,
       "rank": 2,
       "category": "社会新闻"
     },
