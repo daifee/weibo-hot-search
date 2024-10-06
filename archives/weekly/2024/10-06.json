@@ -1,7 +1,15 @@
 {
   "startTime": 1728145573126,
-  "endTime": 1728207326946,
+  "endTime": 1728210109501,
   "band_list": [
+    {
+      "raw_hot": 2876940,
+      "num": 271890,
+      "word": "黄磊炖豆角",
+      "onboard_time": 1728208399,
+      "rank": 10,
+      "category": "艺人"
+    },
     {
       "raw_hot": 1902792,
       "num": 476196,
@@ -49,6 +57,14 @@
       "onboard_time": 1728195978,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1408044,
+      "num": 1408044,
+      "word": "孙颖莎vs王曼昱",
+      "onboard_time": 1728207740,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 1375361,
@@ -427,6 +443,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 398724,
+      "num": 398724,
+      "word": "26岁研究员带宝剑护送2000多件文物",
+      "onboard_time": 1728206778,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 394352,
       "num": 275965,
       "word": "国庆档唯一反转赛道电影",
@@ -539,6 +563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 352386,
+      "num": 352386,
+      "word": "职工医保个人账户如何共济给家人",
+      "onboard_time": 1728204319,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 345483,
       "num": 314133,
       "word": "陈奕迅 谢谢你们没退票",
@@ -561,14 +593,6 @@
       "onboard_time": 1728195318,
       "rank": 17,
       "category": "电影"
-    },
-    {
-      "raw_hot": 336717,
-      "num": 336717,
-      "word": "职工医保个人账户如何共济给家人",
-      "onboard_time": 1728204319,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 335821,
@@ -601,6 +625,14 @@
       "onboard_time": 1728200418,
       "rank": 6,
       "category": "社会新闻,游戏"
+    },
+    {
+      "raw_hot": 307001,
+      "num": 230645,
+      "word": "网传新郎接亲被临时加要18万彩礼",
+      "onboard_time": 1728204017,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 302117,
@@ -651,6 +683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 281689,
+      "num": 271356,
+      "word": "哀牢山640米要走3小时以上",
+      "onboard_time": 1728208099,
+      "rank": 16,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 279693,
       "num": 203338,
       "word": "售楼部成广州新景点",
@@ -664,6 +704,14 @@
       "word": "樊振东小时候和现在的相同之处",
       "onboard_time": 1728188658,
       "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 271344,
+      "num": 271344,
+      "word": "王楚钦球员见面会",
+      "onboard_time": 1728209119,
+      "rank": 17,
       "category": "体育"
     },
     {
@@ -763,6 +811,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 241118,
+      "num": 241118,
+      "word": "谁敢动文物我就拿这把剑跟他拼了",
+      "onboard_time": 1728207079,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 241099,
       "num": 372381,
       "word": "国庆假期倒数第2天",
@@ -835,6 +891,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 222823,
+      "num": 272008,
+      "word": "当地回应新娘哥嫂临时加彩礼18万",
+      "onboard_time": 1728208458,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 219301,
       "num": 219301,
       "word": "足协因考虑舆情没给国足包机",
@@ -897,14 +961,6 @@
       "onboard_time": 1728183917,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 195890,
-      "num": 195890,
-      "word": "网传新郎接亲被临时加要18万彩礼",
-      "onboard_time": 1728204017,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 194212,
@@ -1115,12 +1171,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 159920,
+      "num": 159920,
+      "word": "舍不得星星",
+      "onboard_time": 1728209238,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 157728,
       "num": 157728,
       "word": "孙颖莎收官之战",
       "onboard_time": 1728189919,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 157546,
+      "num": 157546,
+      "word": "人口9万人小县城单日游客过万",
+      "onboard_time": 1728203958,
+      "rank": 49,
+      "category": "旅游"
     },
     {
       "raw_hot": 157328,
@@ -1315,14 +1387,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 140106,
-      "num": 140106,
-      "word": "人口9万人小县城单日游客过万",
-      "onboard_time": 1728203958,
-      "rank": 49,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 139280,
       "num": 139280,
       "word": "缉妖录浑身是戏的猫妖",
@@ -1403,6 +1467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 129753,
+      "num": 129753,
+      "word": "欧豪被朱亚文夸红温了",
+      "onboard_time": 1728209598,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 129588,
       "num": 129588,
       "word": "檀健次唱完干杯哭了",
@@ -1419,20 +1491,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 128651,
+      "num": 128651,
+      "word": "TTG战胜EDGM",
+      "onboard_time": 1728209119,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 128440,
       "num": 128440,
       "word": "尚雯婕粉丝也是军训上了",
       "onboard_time": 1728183437,
       "rank": 47,
       "category": "演出"
-    },
-    {
-      "raw_hot": 126071,
-      "num": 126071,
-      "word": "26岁研究员带宝剑护送2000多件文物",
-      "onboard_time": 1728206778,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 125968,
@@ -1475,20 +1547,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 123675,
+      "num": 123675,
+      "word": "一男子在白宫附近自焚",
+      "onboard_time": 1728209719,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 123236,
       "num": 123236,
       "word": "闪闪的儿科医生",
       "onboard_time": 1728196459,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 122643,
-      "num": 122643,
-      "word": "谁敢动文物我就拿这把剑跟他拼了",
-      "onboard_time": 1728207079,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 122086,
@@ -1683,6 +1755,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 107396,
+      "num": 107396,
+      "word": "陈昊宇张口就来的乐感",
+      "onboard_time": 1728208818,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 105356,
       "num": 105356,
       "word": "何广智给武艺一家带礼物",
@@ -1755,6 +1835,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 101506,
+      "num": 101506,
+      "word": "看着小天才电话手表我轻轻的碎了",
+      "onboard_time": 1728209598,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 101195,
       "num": 101195,
       "word": "HLE对战GEN",
@@ -1795,6 +1883,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 98832,
+      "num": 305198,
+      "word": "现制饮品不能去冰会成行业趋势吗",
+      "onboard_time": 1728205998,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 98047,
       "num": 98047,
       "word": "孙颖莎王艺迪vs陈幸同钱天一",
@@ -1817,6 +1913,22 @@
       "onboard_time": 1728114380,
       "rank": 40,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 96760,
+      "num": 96760,
+      "word": "邓亚萍说马龙打成精了",
+      "onboard_time": 1728210019,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 96189,
+      "num": 96189,
+      "word": "2NE1首尔演唱会",
+      "onboard_time": 1728204198,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 94519,
@@ -1939,14 +2051,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 70385,
-      "num": 305198,
-      "word": "现制饮品不能去冰会成行业趋势吗",
-      "onboard_time": 1728205998,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 69601,
       "num": 388841,
       "word": "浴火之路票房破3亿",
@@ -1961,6 +2065,14 @@
       "onboard_time": 1728126199,
       "rank": 25,
       "category": "演出"
+    },
+    {
+      "raw_hot": 65619,
+      "num": 96345,
+      "word": "志愿军存亡之战",
+      "onboard_time": 1728207858,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 63834,
@@ -1979,6 +2091,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 63465,
+      "num": 311605,
+      "word": "你会为了当地美食奔赴一座城吗",
+      "onboard_time": 1728203958,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 60381,
       "num": 74767,
       "word": "钟丽丽 新疆人不是都会跳舞",
@@ -1993,14 +2113,6 @@
       "onboard_time": 1728170174,
       "rank": 33,
       "category": "健康医疗,美食"
-    },
-    {
-      "raw_hot": 58905,
-      "num": 311605,
-      "word": "你会为了当地美食奔赴一座城吗",
-      "onboard_time": 1728203958,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 58522,
@@ -2171,6 +2283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 30680,
+      "num": 742449,
+      "word": "国庆文旅活动实力圈粉",
+      "onboard_time": 1728206178,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 28660,
       "num": 276178,
       "word": "于正回应身上痒就去洗澡",
@@ -2201,14 +2321,6 @@
       "onboard_time": 1728189318,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 21509,
-      "num": 742449,
-      "word": "国庆文旅活动实力圈粉",
-      "onboard_time": 1728206178,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 21199,
