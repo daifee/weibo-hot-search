@@ -1,6 +1,6 @@
 {
   "startTime": 1728145573126,
-  "endTime": 1728180580237,
+  "endTime": 1728183469378,
   "band_list": [
     {
       "raw_hot": 1902792,
@@ -8,6 +8,14 @@
       "word": "哀牢山本地人发声",
       "onboard_time": 1728172157,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1216900,
+      "num": 210289,
+      "word": "哀牢山人类禁区遭爆改人类景区",
+      "onboard_time": 1728179838,
+      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -43,6 +51,14 @@
       "category": "自然"
     },
     {
+      "raw_hot": 786513,
+      "num": 1125842,
+      "word": "12306抢票",
+      "onboard_time": 1728177078,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 755865,
       "num": 923455,
       "word": "李雯雯送孙颖莎马里奥",
@@ -75,6 +91,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 540336,
+      "num": 250583,
+      "word": "结婚当天新娘哥哥趴车头索要彩礼",
+      "onboard_time": 1728180560,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 498780,
       "num": 498780,
       "word": "12306候补",
@@ -91,12 +115,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 448836,
+      "num": 448836,
+      "word": "因狗结缘成为朋友因狗生病反目",
+      "onboard_time": 1728178758,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 439253,
       "num": 311248,
       "word": "为什么不吃米面体重很快会降",
       "onboard_time": 1728173116,
       "rank": 11,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 428286,
+      "num": 208579,
+      "word": "哀牢古国",
+      "onboard_time": 1728182057,
+      "rank": 13,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 427531,
+      "num": 427531,
+      "word": "孙颖莎出战女单决赛",
+      "onboard_time": 1728180560,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 409414,
@@ -131,14 +179,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 383053,
-      "num": 250583,
-      "word": "结婚当天新娘哥哥趴车头索要彩礼",
-      "onboard_time": 1728180560,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 380995,
       "num": 380995,
       "word": "中东局势到了最危急时刻",
@@ -153,6 +193,14 @@
       "onboard_time": 1728120618,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 373737,
+      "num": 207107,
+      "word": "求中餐厅全员二搭花少教程",
+      "onboard_time": 1728179658,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 371542,
@@ -177,6 +225,22 @@
       "onboard_time": 1728139699,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 354586,
+      "num": 354586,
+      "word": "阿勒泰的羊羊也太蓬了吧",
+      "onboard_time": 1728178998,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 351954,
+      "num": 202934,
+      "word": "专家预测A股开盘即收盘",
+      "onboard_time": 1728182718,
+      "rank": 17,
+      "category": "财经"
     },
     {
       "raw_hot": 338195,
@@ -211,14 +275,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 309115,
-      "num": 309115,
-      "word": "12306抢票",
-      "onboard_time": 1728177078,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 297193,
       "num": 297193,
       "word": "为什么酒店里的被子睡完特别痒",
@@ -240,6 +296,14 @@
       "word": "准女婿到女友家干活一干一个不吱声",
       "onboard_time": 1728169994,
       "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 279693,
+      "num": 203338,
+      "word": "售楼部成广州新景点",
+      "onboard_time": 1728181339,
+      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -275,14 +339,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 257940,
-      "num": 257940,
-      "word": "因狗结缘成为朋友因狗生病反目",
-      "onboard_time": 1728178758,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 253289,
       "num": 253289,
       "word": "马龙说自己实力不如梁靖崑",
@@ -307,6 +363,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 242420,
+      "num": 324690,
+      "word": "志愿军2票房",
+      "onboard_time": 1728174496,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 236667,
       "num": 236667,
       "word": "以色列多层导弹拦截系统疑似破防",
@@ -315,11 +379,19 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 221130,
-      "num": 239397,
-      "word": "阿勒泰的羊羊也太蓬了吧",
-      "onboard_time": 1728178998,
-      "rank": 41,
+      "raw_hot": 225444,
+      "num": 151199,
+      "word": "以总理称法总统呼吁武器禁运可耻",
+      "onboard_time": 1728181998,
+      "rank": 30,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 214247,
+      "num": 321352,
+      "word": "国庆假期倒数第2天",
+      "onboard_time": 1728177676,
+      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -331,28 +403,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 202774,
-      "num": 202774,
-      "word": "哀牢山人类禁区遭爆改人类景区",
-      "onboard_time": 1728179838,
+      "raw_hot": 194212,
+      "num": 194212,
+      "word": "王楚钦调侃梁靖崑网速快",
+      "onboard_time": 1728181877,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 193400,
+      "num": 193400,
+      "word": "美联储亏损已破2000亿美元",
+      "onboard_time": 1728180858,
       "rank": 26,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 202439,
-      "num": 321352,
-      "word": "国庆假期倒数第2天",
-      "onboard_time": 1728177676,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 197953,
-      "num": 324690,
-      "word": "志愿军2票房",
-      "onboard_time": 1728174496,
-      "rank": 29,
-      "category": "电影"
+      "category": "财经,国外时政"
     },
     {
       "raw_hot": 193068,
@@ -403,14 +467,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 173830,
-      "num": 173830,
-      "word": "孙颖莎出战女单决赛",
-      "onboard_time": 1728180560,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 164472,
       "num": 253163,
       "word": "92岁抗美援朝女兵实弹打靶10发97环",
@@ -419,12 +475,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 156715,
-      "num": 156715,
-      "word": "求中餐厅全员二搭花少教程",
-      "onboard_time": 1728179658,
-      "rank": 33,
-      "category": "综艺"
+      "raw_hot": 160723,
+      "num": 160723,
+      "word": "泰语版柳舟记太好笑了",
+      "onboard_time": 1728180140,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 154709,
@@ -459,6 +515,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 145959,
+      "num": 145959,
+      "word": "Henry唱全是爱",
+      "onboard_time": 1728181698,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 142756,
       "num": 97782,
       "word": "柳智敏",
@@ -468,7 +532,7 @@
     },
     {
       "raw_hot": 140530,
-      "num": 140530,
+      "num": 214187,
       "word": "中朝建交75周年",
       "onboard_time": 1728177558,
       "rank": 34,
@@ -523,12 +587,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 120950,
+      "num": 120950,
+      "word": "进哀牢山走一段距离打一个路标",
+      "onboard_time": 1728182657,
+      "rank": 38,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 114701,
       "num": 114701,
       "word": "肖凯文 祝贺头哥崑哥双打夺冠",
       "onboard_time": 1728134361,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 113958,
+      "num": 250361,
+      "word": "以总理称必将回应伊朗导弹袭击",
+      "onboard_time": 1728178518,
+      "rank": 14,
+      "category": "社会新闻,国外时政"
     },
     {
       "raw_hot": 111796,
@@ -545,6 +625,14 @@
       "onboard_time": 1728130041,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 110831,
+      "num": 110831,
+      "word": "800元能买到什么手机",
+      "onboard_time": 1728182477,
+      "rank": 44,
+      "category": "数码"
     },
     {
       "raw_hot": 110179,
@@ -587,6 +675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 105302,
+      "num": 105302,
+      "word": "许昕呼吁给年轻运动员成长空间",
+      "onboard_time": 1728180677,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 105142,
       "num": 105142,
       "word": "王楚钦梁靖崑躲采访失败",
@@ -601,6 +697,14 @@
       "onboard_time": 1728131900,
       "rank": 35,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 104811,
+      "num": 104811,
+      "word": "尚雯婕粉丝也是军训上了",
+      "onboard_time": 1728183437,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 103904,
@@ -843,12 +947,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 54672,
-      "num": 250361,
-      "word": "以总理称必将回应伊朗导弹袭击",
-      "onboard_time": 1728178518,
-      "rank": 14,
-      "category": "社会新闻,国外时政"
+      "raw_hot": 51540,
+      "num": 199181,
+      "word": "多给小西天一点时间",
+      "onboard_time": 1728181698,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 50869,
@@ -963,6 +1067,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 8727,
+      "num": 893244,
+      "word": "日记里的中国",
+      "onboard_time": 1728036080,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 7404,
       "num": 416012,
       "word": "航天员发回的国庆礼物太赞了",
@@ -976,14 +1088,6 @@
       "word": "凝聚力是中国人骨子里的精神",
       "onboard_time": 1728132861,
       "rank": 11,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 5184,
-      "num": 893244,
-      "word": "日记里的中国",
-      "onboard_time": 1728036080,
-      "rank": 2,
       "category": "社会新闻"
     }
   ],
