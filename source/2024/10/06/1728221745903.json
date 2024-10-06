@@ -1,0 +1,410 @@
+{
+  "runTime": 1728221745903,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6574950,
+        "num": 6574950,
+        "word": "马龙vs林诗栋",
+        "onboard_time": 1728212541,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1893917,
+        "num": 1893917,
+        "word": "林诗栋男单冠军",
+        "onboard_time": 1728218785,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 29307,
+        "num": 1397984,
+        "word": "75秒看新中国75年农业之变",
+        "onboard_time": 1728220880,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1366769,
+        "num": 1366769,
+        "word": "马龙亚军",
+        "onboard_time": 1728219383,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 700483,
+        "num": 700483,
+        "word": "马龙更换球拍",
+        "onboard_time": 1728216561,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 621697,
+        "num": 621697,
+        "word": "孙颖莎葛优躺",
+        "onboard_time": 1728219144,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 578725,
+        "num": 578725,
+        "word": "孙颖莎获女单冠军",
+        "onboard_time": 1728212961,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 323398,
+        "num": 323398,
+        "word": "男子抱光腿娃坐公交司机立刻报警",
+        "onboard_time": 1728199997,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228345,
+        "num": 323348,
+        "word": "为什么越来越多奶茶咖啡不能去冰了",
+        "onboard_time": 1728201858,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221371,
+        "num": 323028,
+        "word": "三胞胎宝宝坐高铁买挂票",
+        "onboard_time": 1728195978,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1041087,
+        "num": 322799,
+        "word": "黄磊炖豆角",
+        "onboard_time": 1728208399,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 500229,
+        "num": 322665,
+        "word": "马龙说这场比赛我也没有失败",
+        "onboard_time": 1728220400,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 443745,
+        "num": 322373,
+        "word": "林诗栋黄牌",
+        "onboard_time": 1728219323,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 417704,
+        "num": 322171,
+        "word": "迪丽热巴给龚俊剧组买下午茶",
+        "onboard_time": 1728213202,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 78094,
+        "num": 321878,
+        "word": "民宿老板回应哀牢山爆火",
+        "onboard_time": 1728220102,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 427460,
+        "num": 321634,
+        "word": "孙颖莎连赢10分",
+        "onboard_time": 1728214102,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 400207,
+        "num": 321515,
+        "word": "戚薇cos毛利兰",
+        "onboard_time": 1728210199,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 361612,
+        "num": 321087,
+        "word": "马龙赛后采访",
+        "onboard_time": 1728220702,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 355227,
+        "num": 321003,
+        "word": "李一桐cos黑寡妇",
+        "onboard_time": 1728213260,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187015,
+        "num": 320713,
+        "word": "人人人人返程人人人人",
+        "onboard_time": 1728221238,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 955973,
+        "num": 320426,
+        "word": "哀牢山曾发生多起人员失联遇难",
+        "onboard_time": 1728194778,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 603110,
+        "num": 320260,
+        "word": "入职几月怀孕拒绝调薪调岗被辞退",
+        "onboard_time": 1728217399,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 340743,
+        "num": 319971,
+        "word": "周冬雨已经是nextlevel了",
+        "onboard_time": 1728220461,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 326134,
+        "num": 319722,
+        "word": "张元英中国粉丝的1分钟恋人",
+        "onboard_time": 1728216199,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 319682,
+        "num": 319682,
+        "word": "高芙夺得中网女单冠军",
+        "onboard_time": 1728219622,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 277407,
+        "num": 277407,
+        "word": "Jennie权志龙去了2ne1演唱会",
+        "onboard_time": 1728212360,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 277112,
+        "num": 277112,
+        "word": "孙颖莎女单项目积分过万",
+        "onboard_time": 1728214762,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 254788,
+        "num": 254788,
+        "word": "BLG对战T1",
+        "onboard_time": 1728220880,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 241811,
+        "num": 241811,
+        "word": "孙颖莎4比2战胜王曼昱",
+        "onboard_time": 1728213682,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 239636,
+        "num": 239636,
+        "word": "我们的歌直播",
+        "onboard_time": 1728218601,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 230499,
+        "num": 230499,
+        "word": "刘国梁为孙颖莎颁奖",
+        "onboard_time": 1728215780,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 170703,
+        "num": 222115,
+        "word": "火车票买短乘长或被劝导下车",
+        "onboard_time": 1728217760,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220691,
+        "num": 220691,
+        "word": "颜料公司回应哀牢山取材视频爆火",
+        "onboard_time": 1728218180,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 53073,
+        "num": 218586,
+        "word": "收好这份返程行车安全锦囊",
+        "onboard_time": 1728218843,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217749,
+        "num": 217749,
+        "word": "那英 你怎么不张嘴呢",
+        "onboard_time": 1728204017,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 217448,
+        "num": 217448,
+        "word": "王曼昱头发被吹飞了",
+        "onboard_time": 1728216681,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 217178,
+        "num": 217178,
+        "word": "林依晨亚洲内容大赏视后",
+        "onboard_time": 1728221000,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 205867,
+        "num": 205867,
+        "word": "王楚钦梁靖崑观战男单决赛",
+        "onboard_time": 1728218601,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 190385,
+        "num": 190385,
+        "word": "上交所延长接受指定交易申报指令时间",
+        "onboard_time": 1728221659,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 189403,
+        "num": 189403,
+        "word": "安居乐烨",
+        "onboard_time": 1728218542,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 188356,
+        "num": 188356,
+        "word": "马龙这一球赢得全场掌声",
+        "onboard_time": 1728219383,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 186684,
+        "num": 186684,
+        "word": "我们的歌",
+        "onboard_time": 1728218724,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173175,
+        "num": 173175,
+        "word": "猫 这个豪门我非进不可",
+        "onboard_time": 1728214220,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 163104,
+        "num": 163104,
+        "word": "叙利亚已申请加入金砖国家",
+        "onboard_time": 1728211639,
+        "rank": 43,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 159078,
+        "num": 159078,
+        "word": "撤黎台湾同胞称祖国就是中国",
+        "onboard_time": 1728220760,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 158216,
+        "num": 158216,
+        "word": "马龙正手狂轰",
+        "onboard_time": 1728216800,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157365,
+        "num": 157365,
+        "word": "花海韩信诠释英雄海",
+        "onboard_time": 1728221119,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 157079,
+        "num": 157079,
+        "word": "哀牢山本地人发声",
+        "onboard_time": 1728172157,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 17591,
+        "num": 154049,
+        "word": "贵州绝美肇兴侗寨",
+        "onboard_time": 1728220819,
+        "rank": 48,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 80578,
+        "num": 152805,
+        "word": "吴易昺vs阿尔卡拉斯",
+        "onboard_time": 1728220520,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动文化和旅游融合发展#"
+    }
+  }
+}

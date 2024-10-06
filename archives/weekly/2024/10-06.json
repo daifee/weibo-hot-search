@@ -1,6 +1,6 @@
 {
   "startTime": 1728145573126,
-  "endTime": 1728221059161,
+  "endTime": 1728221745903,
   "band_list": [
     {
       "raw_hot": 8274483,
@@ -468,7 +468,7 @@
     },
     {
       "raw_hot": 543152,
-      "num": 292067,
+      "num": 322373,
       "word": "林诗栋黄牌",
       "onboard_time": 1728219323,
       "rank": 11,
@@ -488,6 +488,14 @@
       "word": "马龙 GOAT",
       "onboard_time": 1728189018,
       "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 500229,
+      "num": 322665,
+      "word": "马龙说这场比赛我也没有失败",
+      "onboard_time": 1728220400,
+      "rank": 30,
       "category": "体育"
     },
     {
@@ -708,7 +716,7 @@
     },
     {
       "raw_hot": 374799,
-      "num": 290521,
+      "num": 319682,
       "word": "高芙夺得中网女单冠军",
       "onboard_time": 1728219622,
       "rank": 18,
@@ -779,6 +787,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 361612,
+      "num": 321087,
+      "word": "马龙赛后采访",
+      "onboard_time": 1728220702,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 360009,
       "num": 360009,
       "word": "林诗栋反手好强",
@@ -817,6 +833,14 @@
       "onboard_time": 1728196098,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 340743,
+      "num": 319971,
+      "word": "周冬雨已经是nextlevel了",
+      "onboard_time": 1728220461,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 338195,
@@ -888,14 +912,6 @@
       "word": "王曼昱头发被吹飞了",
       "onboard_time": 1728216681,
       "rank": 28,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 309845,
-      "num": 288837,
-      "word": "马龙赛后采访",
-      "onboard_time": 1728220702,
-      "rank": 26,
       "category": "体育"
     },
     {
@@ -1003,14 +1019,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 271176,
-      "num": 271176,
-      "word": "马龙说这场比赛我也没有失败",
-      "onboard_time": 1728220400,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 271024,
       "num": 271024,
       "word": "王楚钦出席球员见面会",
@@ -1065,6 +1073,14 @@
       "onboard_time": 1728198257,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 254788,
+      "num": 254788,
+      "word": "BLG对战T1",
+      "onboard_time": 1728220880,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 253289,
@@ -1211,14 +1227,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 222639,
-      "num": 222639,
-      "word": "周冬雨已经是nextlevel了",
-      "onboard_time": 1728220461,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 219301,
       "num": 219301,
       "word": "足协因考虑舆情没给国足包机",
@@ -1232,6 +1240,14 @@
       "word": "志愿军2口碑",
       "onboard_time": 1728188479,
       "rank": 19,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 217178,
+      "num": 217178,
+      "word": "林依晨亚洲内容大赏视后",
+      "onboard_time": 1728221000,
+      "rank": 47,
       "category": "电影"
     },
     {
@@ -1355,14 +1371,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 199112,
-      "num": 199112,
-      "word": "BLG对战T1",
-      "onboard_time": 1728220880,
-      "rank": 42,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 198642,
       "num": 198642,
       "word": "女子推理社",
@@ -1459,6 +1467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 190385,
+      "num": 190385,
+      "word": "上交所延长接受指定交易申报指令时间",
+      "onboard_time": 1728221659,
+      "rank": 38,
+      "category": "财经"
+    },
+    {
       "raw_hot": 188529,
       "num": 148611,
       "word": "甲状腺生病5个早期征兆",
@@ -1472,6 +1488,14 @@
       "word": "曾有4名地质人员在哀牢山失联遇难",
       "onboard_time": 1728174377,
       "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 187015,
+      "num": 320713,
+      "word": "人人人人返程人人人人",
+      "onboard_time": 1728221238,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -1539,14 +1563,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 176165,
-      "num": 176165,
-      "word": "林依晨亚洲内容大赏视后",
-      "onboard_time": 1728221000,
-      "rank": 47,
-      "category": "电影"
-    },
-    {
       "raw_hot": 175175,
       "num": 175175,
       "word": "小西天被喊差评后疯狂宠游客",
@@ -1577,6 +1593,14 @@
       "onboard_time": 1728216440,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 170703,
+      "num": 292530,
+      "word": "火车票买短乘长或被劝导下车",
+      "onboard_time": 1728217760,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 170443,
@@ -1659,6 +1683,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 159078,
+      "num": 159078,
+      "word": "撤黎台湾同胞称祖国就是中国",
+      "onboard_time": 1728220760,
+      "rank": 44,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 157728,
       "num": 157728,
       "word": "孙颖莎收官之战",
@@ -1675,6 +1707,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 157365,
+      "num": 157365,
+      "word": "花海韩信诠释英雄海",
+      "onboard_time": 1728221119,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 157328,
       "num": 157328,
       "word": "咪咕信号中断",
@@ -1689,14 +1729,6 @@
       "onboard_time": 1728188898,
       "rank": 42,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 156227,
-      "num": 292530,
-      "word": "火车票买短乘长或被劝导下车",
-      "onboard_time": 1728217760,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 155767,
@@ -2627,6 +2659,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 78094,
+      "num": 321878,
+      "word": "民宿老板回应哀牢山爆火",
+      "onboard_time": 1728220102,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 75472,
       "num": 75472,
       "word": "一阳拥抱",
@@ -2755,6 +2795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 53073,
+      "num": 429610,
+      "word": "收好这份返程行车安全锦囊",
+      "onboard_time": 1728218843,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 50869,
       "num": 74904,
       "word": "亚锦赛",
@@ -2793,14 +2841,6 @@
       "onboard_time": 1728130399,
       "rank": 44,
       "category": "演出"
-    },
-    {
-      "raw_hot": 47700,
-      "num": 291472,
-      "word": "民宿老板回应哀牢山爆火",
-      "onboard_time": 1728220102,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 46916,
@@ -2931,18 +2971,18 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 30926,
-      "num": 429610,
-      "word": "收好这份返程行车安全锦囊",
-      "onboard_time": 1728218843,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 30680,
       "num": 1100238,
       "word": "国庆文旅活动实力圈粉",
       "onboard_time": 1728206178,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 29307,
+      "num": 1925266,
+      "word": "75秒看新中国75年农业之变",
+      "onboard_time": 1728220880,
       "rank": 2,
       "category": "社会新闻"
     },
@@ -3011,6 +3051,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 17591,
+      "num": 174504,
+      "word": "贵州绝美肇兴侗寨",
+      "onboard_time": 1728220819,
+      "rank": 48,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 10734,
       "num": 252624,
       "word": "一首MV见证新中国75年变迁",
@@ -3033,22 +3081,6 @@
       "onboard_time": 1728036080,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 8365,
-      "num": 1925266,
-      "word": "75秒看新中国75年农业之变",
-      "onboard_time": 1728220880,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 8282,
-      "num": 174504,
-      "word": "贵州绝美肇兴侗寨",
-      "onboard_time": 1728220819,
-      "rank": 48,
-      "category": "旅游"
     },
     {
       "raw_hot": 7404,
