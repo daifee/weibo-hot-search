@@ -1,6 +1,6 @@
 {
   "startTime": 1728145573126,
-  "endTime": 1728219309438,
+  "endTime": 1728221059161,
   "band_list": [
     {
       "raw_hot": 8274483,
@@ -35,8 +35,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1922979,
-      "num": 1922979,
+      "raw_hot": 2395906,
+      "num": 2395906,
       "word": "林诗栋男单冠军",
       "onboard_time": 1728218785,
       "rank": 1,
@@ -97,6 +97,14 @@
       "onboard_time": 1728195978,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1604255,
+      "num": 1604255,
+      "word": "马龙亚军",
+      "onboard_time": 1728219383,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 1375361,
@@ -331,6 +339,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 727594,
+      "num": 727594,
+      "word": "孙颖莎葛优躺",
+      "onboard_time": 1728219144,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 721032,
       "num": 721032,
       "word": "马龙正手狂轰",
@@ -353,6 +369,14 @@
       "onboard_time": 1728185118,
       "rank": 35,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 675716,
+      "num": 363752,
+      "word": "入职几月怀孕拒绝调薪调岗被辞退",
+      "onboard_time": 1728217399,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 675546,
@@ -441,6 +465,14 @@
       "onboard_time": 1728182718,
       "rank": 17,
       "category": "财经"
+    },
+    {
+      "raw_hot": 543152,
+      "num": 292067,
+      "word": "林诗栋黄牌",
+      "onboard_time": 1728219323,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 531899,
@@ -579,14 +611,6 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 422422,
-      "num": 363752,
-      "word": "入职几月怀孕拒绝调薪调岗被辞退",
-      "onboard_time": 1728217399,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 422281,
       "num": 284333,
       "word": "樊振东小时候背书包去看王皓比赛",
@@ -681,6 +705,14 @@
       "onboard_time": 1728120618,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 374799,
+      "num": 290521,
+      "word": "高芙夺得中网女单冠军",
+      "onboard_time": 1728219622,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 373737,
@@ -819,14 +851,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 325618,
-      "num": 325618,
-      "word": "孙颖莎葛优躺",
-      "onboard_time": 1728219144,
-      "rank": 27,
-      "category": "体育"
-    },
-    {
       "raw_hot": 323251,
       "num": 251139,
       "word": "哀牢山晚上会释放大量二氧化碳",
@@ -843,6 +867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 312780,
+      "num": 298086,
+      "word": "我们的歌直播",
+      "onboard_time": 1728218601,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 311795,
       "num": 311795,
       "word": "黑神话取景地灵岩寺现巨型悟空",
@@ -856,6 +888,14 @@
       "word": "王曼昱头发被吹飞了",
       "onboard_time": 1728216681,
       "rank": 28,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 309845,
+      "num": 288837,
+      "word": "马龙赛后采访",
+      "onboard_time": 1728220702,
+      "rank": 26,
       "category": "体育"
     },
     {
@@ -897,14 +937,6 @@
       "onboard_time": 1728215780,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 298086,
-      "num": 298086,
-      "word": "我们的歌直播",
-      "onboard_time": 1728218601,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 297193,
@@ -968,6 +1000,14 @@
       "word": "樊振东小时候和现在的相同之处",
       "onboard_time": 1728188658,
       "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 271176,
+      "num": 271176,
+      "word": "马龙说这场比赛我也没有失败",
+      "onboard_time": 1728220400,
+      "rank": 30,
       "category": "体育"
     },
     {
@@ -1155,12 +1195,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 225471,
+      "num": 225471,
+      "word": "马龙这一球赢得全场掌声",
+      "onboard_time": 1728219383,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 225433,
       "num": 225433,
       "word": "粉笔模考",
       "onboard_time": 1728184517,
       "rank": 26,
       "category": "教育"
+    },
+    {
+      "raw_hot": 222639,
+      "num": 222639,
+      "word": "周冬雨已经是nextlevel了",
+      "onboard_time": 1728220461,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 219301,
@@ -1275,6 +1331,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 202235,
+      "num": 202235,
+      "word": "TES战胜FNC",
+      "onboard_time": 1728219921,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 200879,
       "num": 200879,
       "word": "YG女团三世同堂",
@@ -1289,6 +1353,14 @@
       "onboard_time": 1728214161,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 199112,
+      "num": 199112,
+      "word": "BLG对战T1",
+      "onboard_time": 1728220880,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 198642,
@@ -1467,12 +1539,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 176165,
+      "num": 176165,
+      "word": "林依晨亚洲内容大赏视后",
+      "onboard_time": 1728221000,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
       "raw_hot": 175175,
       "num": 175175,
       "word": "小西天被喊差评后疯狂宠游客",
       "onboard_time": 1728210798,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 174324,
+      "num": 174324,
+      "word": "eStar战胜TES",
+      "onboard_time": 1728220221,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 172115,
@@ -1604,7 +1692,7 @@
     },
     {
       "raw_hot": 156227,
-      "num": 212343,
+      "num": 292530,
       "word": "火车票买短乘长或被劝导下车",
       "onboard_time": 1728217760,
       "rank": 43,
@@ -2467,6 +2555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 87577,
+      "num": 290296,
+      "word": "吴易昺vs阿尔卡拉斯",
+      "onboard_time": 1728220520,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 85237,
       "num": 196848,
       "word": "文物专家从要扔的废纸里抢回国宝",
@@ -2699,6 +2795,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 47700,
+      "num": 291472,
+      "word": "民宿老板回应哀牢山爆火",
+      "onboard_time": 1728220102,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 46916,
       "num": 46916,
       "word": "郑钦文距第7纳瓦罗98分",
@@ -2752,6 +2856,14 @@
       "word": "返程高峰自驾应注意啥",
       "onboard_time": 1728187699,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 40763,
+      "num": 1909057,
+      "word": "每一次与国旗同框都倍感骄傲",
+      "onboard_time": 1728218903,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -2817,6 +2929,14 @@
       "onboard_time": 1728184938,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 30926,
+      "num": 429610,
+      "word": "收好这份返程行车安全锦囊",
+      "onboard_time": 1728218843,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 30680,
@@ -2891,22 +3011,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 18066,
-      "num": 429610,
-      "word": "收好这份返程行车安全锦囊",
-      "onboard_time": 1728218843,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 16004,
-      "num": 1909057,
-      "word": "每一次与国旗同框都倍感骄傲",
-      "onboard_time": 1728218903,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 10734,
       "num": 252624,
       "word": "一首MV见证新中国75年变迁",
@@ -2929,6 +3033,22 @@
       "onboard_time": 1728036080,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 8365,
+      "num": 1925266,
+      "word": "75秒看新中国75年农业之变",
+      "onboard_time": 1728220880,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 8282,
+      "num": 174504,
+      "word": "贵州绝美肇兴侗寨",
+      "onboard_time": 1728220819,
+      "rank": 48,
+      "category": "旅游"
     },
     {
       "raw_hot": 7404,
