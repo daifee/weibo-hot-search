@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1728229002156,
+  "endTime": 1728231932217,
   "band_list": [
     {
       "raw_hot": 11925969,
@@ -1179,6 +1179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 832836,
+      "num": 244518,
+      "word": "aespa",
+      "onboard_time": 1728229818,
+      "rank": 11,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 831740,
       "num": 831740,
       "word": "陈幸同钱天一3比1孙颖莎王艺迪",
@@ -1747,6 +1755,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 687029,
+      "num": 919924,
+      "word": "WBG对战G2",
+      "onboard_time": 1728228499,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 687000,
       "num": 361271,
       "word": "郑钦文头号劲敌爆冷淘汰",
@@ -1929,6 +1945,14 @@
       "onboard_time": 1728108857,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 652956,
+      "num": 263160,
+      "word": "檀健次坐飞机迟到被点名",
+      "onboard_time": 1728228199,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 652539,
@@ -2419,14 +2443,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 570291,
-      "num": 263160,
-      "word": "檀健次坐飞机迟到被点名",
-      "onboard_time": 1728228199,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 569018,
       "num": 245276,
       "word": "男子嫌小孩推车进电梯慢将车扔出",
@@ -2761,6 +2777,14 @@
       "onboard_time": 1728189018,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 518716,
+      "num": 232862,
+      "word": "女博主独闯哀牢山深处2天后报平安",
+      "onboard_time": 1728229759,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 518322,
@@ -4243,6 +4267,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 337160,
+      "num": 259768,
+      "word": "刘亦菲阿布扎比观赛NBA",
+      "onboard_time": 1728228320,
+      "rank": 17,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 336693,
       "num": 233886,
       "word": "樊振东与王皓儿子合照",
@@ -4473,14 +4505,6 @@
       "onboard_time": 1728006858,
       "rank": 30,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 322735,
-      "num": 259768,
-      "word": "刘亦菲阿布扎比观赛NBA",
-      "onboard_time": 1728228320,
-      "rank": 17,
-      "category": "体育,艺人"
     },
     {
       "raw_hot": 322601,
@@ -6787,6 +6811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 218133,
+      "num": 218133,
+      "word": "敖子逸马嘉祺同框 丁程鑫不在",
+      "onboard_time": 1728227720,
+      "rank": 35,
+      "category": "综艺,电竞"
+    },
+    {
       "raw_hot": 217940,
       "num": 230060,
       "word": "一群人走出一个人的声音",
@@ -6977,14 +7009,6 @@
       "onboard_time": 1727916136,
       "rank": 23,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 211115,
-      "num": 211115,
-      "word": "敖子逸马嘉祺同框 丁程鑫不在",
-      "onboard_time": 1728227720,
-      "rank": 35,
-      "category": "综艺,电竞"
     },
     {
       "raw_hot": 210515,
@@ -10043,6 +10067,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 155747,
+      "num": 155747,
+      "word": "田曦薇cos玛蒂尔达",
+      "onboard_time": 1728231497,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 155740,
       "num": 155740,
       "word": "伊朗民众上街高呼反美反以口号",
@@ -10057,6 +10089,14 @@
       "onboard_time": 1727773820,
       "rank": 19,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 155584,
+      "num": 236329,
+      "word": "G2战胜WBG",
+      "onboard_time": 1728230781,
+      "rank": 14,
+      "category": "电竞"
     },
     {
       "raw_hot": 155428,
@@ -10161,14 +10201,6 @@
       "onboard_time": 1728037579,
       "rank": 36,
       "category": "电影"
-    },
-    {
-      "raw_hot": 153752,
-      "num": 153752,
-      "word": "WBG对战G2",
-      "onboard_time": 1728228499,
-      "rank": 42,
-      "category": "电竞"
     },
     {
       "raw_hot": 153674,
@@ -10449,6 +10481,14 @@
       "onboard_time": 1727881160,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 150605,
+      "num": 150605,
+      "word": "妈妈朋友的儿子大结局",
+      "onboard_time": 1728228918,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 150429,
@@ -12011,14 +12051,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 130771,
-      "num": 130771,
-      "word": "妈妈朋友的儿子大结局",
-      "onboard_time": 1728228918,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 130662,
       "num": 130662,
       "word": "老外问为啥机器看到你会掉一瓶水",
@@ -12321,6 +12353,14 @@
       "onboard_time": 1727933419,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 127307,
+      "num": 253056,
+      "word": "志愿军存亡之战进入2024票房榜前十",
+      "onboard_time": 1728229039,
+      "rank": 8,
+      "category": "电影"
     },
     {
       "raw_hot": 126856,
@@ -13507,6 +13547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 112883,
+      "num": 112883,
+      "word": "以心换心方得真心",
+      "onboard_time": 1728231199,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 112829,
       "num": 112829,
       "word": "王曼昱说半决赛没压力放开打",
@@ -14545,6 +14593,14 @@
       "onboard_time": 1728031218,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 100677,
+      "num": 100677,
+      "word": "道一声晚安",
+      "onboard_time": 1728231858,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 100586,

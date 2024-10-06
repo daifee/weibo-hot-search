@@ -1,6 +1,6 @@
 {
   "startTime": 1728145573126,
-  "endTime": 1728229002156,
+  "endTime": 1728231932217,
   "band_list": [
     {
       "raw_hot": 8274483,
@@ -267,6 +267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 832836,
+      "num": 244518,
+      "word": "aespa",
+      "onboard_time": 1728229818,
+      "rank": 11,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 828687,
       "num": 470611,
       "word": "迪丽热巴给龚俊剧组买下午茶",
@@ -419,6 +427,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 687029,
+      "num": 919924,
+      "word": "WBG对战G2",
+      "onboard_time": 1728228499,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 681480,
       "num": 366182,
       "word": "孙颖莎头发被吹炸了",
@@ -465,6 +481,14 @@
       "onboard_time": 1728201858,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 652956,
+      "num": 263160,
+      "word": "檀健次坐飞机迟到被点名",
+      "onboard_time": 1728228199,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 652539,
@@ -547,14 +571,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 570291,
-      "num": 263160,
-      "word": "檀健次坐飞机迟到被点名",
-      "onboard_time": 1728228199,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 559630,
       "num": 251953,
       "word": "流星花园重播",
@@ -593,6 +609,14 @@
       "onboard_time": 1728189018,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 518716,
+      "num": 232862,
+      "word": "女博主独闯哀牢山深处2天后报平安",
+      "onboard_time": 1728229759,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 500067,
@@ -971,6 +995,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 337160,
+      "num": 259768,
+      "word": "刘亦菲阿布扎比观赛NBA",
+      "onboard_time": 1728228320,
+      "rank": 17,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 335821,
       "num": 251398,
       "word": "声生不息港乐季2",
@@ -1001,14 +1033,6 @@
       "onboard_time": 1728119658,
       "rank": 17,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 322735,
-      "num": 259768,
-      "word": "刘亦菲阿布扎比观赛NBA",
-      "onboard_time": 1728228320,
-      "rank": 17,
-      "category": "体育,艺人"
     },
     {
       "raw_hot": 319259,
@@ -1387,6 +1411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 218133,
+      "num": 218133,
+      "word": "敖子逸马嘉祺同框 丁程鑫不在",
+      "onboard_time": 1728227720,
+      "rank": 35,
+      "category": "综艺,电竞"
+    },
+    {
       "raw_hot": 217196,
       "num": 274587,
       "word": "志愿军2口碑",
@@ -1441,14 +1473,6 @@
       "onboard_time": 1728193759,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 211115,
-      "num": 211115,
-      "word": "敖子逸马嘉祺同框 丁程鑫不在",
-      "onboard_time": 1728227720,
-      "rank": 35,
-      "category": "综艺,电竞"
     },
     {
       "raw_hot": 210086,
@@ -1963,6 +1987,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 155747,
+      "num": 155747,
+      "word": "田曦薇cos玛蒂尔达",
+      "onboard_time": 1728231497,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 155584,
+      "num": 236329,
+      "word": "G2战胜WBG",
+      "onboard_time": 1728230781,
+      "rank": 14,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 155416,
       "num": 155416,
       "word": "地质工作者在哀牢山也有很大风险",
@@ -1985,14 +2025,6 @@
       "onboard_time": 1728142818,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 153752,
-      "num": 153752,
-      "word": "WBG对战G2",
-      "onboard_time": 1728228499,
-      "rank": 42,
-      "category": "电竞"
     },
     {
       "raw_hot": 153674,
@@ -2073,6 +2105,14 @@
       "onboard_time": 1728210619,
       "rank": 39,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 150605,
+      "num": 150605,
+      "word": "妈妈朋友的儿子大结局",
+      "onboard_time": 1728228918,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 149934,
@@ -2307,14 +2347,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 130771,
-      "num": 130771,
-      "word": "妈妈朋友的儿子大结局",
-      "onboard_time": 1728228918,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 130395,
       "num": 130395,
       "word": "假冒媒体杜撰网文要查背后利益链",
@@ -2385,6 +2417,14 @@
       "onboard_time": 1728183437,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 127307,
+      "num": 253056,
+      "word": "志愿军存亡之战进入2024票房榜前十",
+      "onboard_time": 1728229039,
+      "rank": 8,
+      "category": "电影"
     },
     {
       "raw_hot": 125968,
@@ -2569,6 +2609,14 @@
       "onboard_time": 1728214521,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 112883,
+      "num": 112883,
+      "word": "以心换心方得真心",
+      "onboard_time": 1728231199,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 111840,
@@ -2761,6 +2809,14 @@
       "onboard_time": 1728140659,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 100677,
+      "num": 100677,
+      "word": "道一声晚安",
+      "onboard_time": 1728231858,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 100008,
@@ -3240,6 +3296,14 @@
       "word": "以色列再遭袭当地华人回国称不想丢命",
       "onboard_time": 1728217040,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 38767,
+      "num": 250015,
+      "word": "人人人人景点人人人人",
+      "onboard_time": 1728230718,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
