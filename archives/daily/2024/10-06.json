@@ -1,6 +1,6 @@
 {
   "startTime": 1728145573126,
-  "endTime": 1728196973180,
+  "endTime": 1728199234854,
   "band_list": [
     {
       "raw_hot": 1902792,
@@ -24,6 +24,14 @@
       "word": "哀牢山曾发生多起人员失联遇难",
       "onboard_time": 1728194778,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1653345,
+      "num": 1653345,
+      "word": "三胞胎宝宝坐高铁买挂票",
+      "onboard_time": 1728195978,
+      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -203,14 +211,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 550985,
-      "num": 550985,
-      "word": "三胞胎宝宝坐高铁买挂票",
-      "onboard_time": 1728195978,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 544202,
       "num": 1077719,
       "word": "专家预测A股开盘即收盘",
@@ -248,6 +248,14 @@
       "word": "12306候补",
       "onboard_time": 1728172936,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 497880,
+      "num": 374634,
+      "word": "小西天爆火景区紧急开办导游培训班",
+      "onboard_time": 1728193699,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -363,14 +371,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 374634,
-      "num": 374634,
-      "word": "小西天爆火景区紧急开办导游培训班",
-      "onboard_time": 1728193699,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 373737,
       "num": 371732,
       "word": "求中餐厅全员二搭花少教程",
@@ -427,6 +427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 345483,
+      "num": 291402,
+      "word": "陈奕迅 谢谢你们没退票",
+      "onboard_time": 1728196098,
+      "rank": 48,
+      "category": "演出"
+    },
+    {
       "raw_hot": 338195,
       "num": 248520,
       "word": "黎巴嫩海边景点全是露宿者的帐篷",
@@ -457,6 +465,14 @@
       "onboard_time": 1728119658,
       "rank": 17,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 319455,
+      "num": 505491,
+      "word": "央视海采又有名场面",
+      "onboard_time": 1728194117,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 319248,
@@ -523,12 +539,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 279412,
-      "num": 505491,
-      "word": "央视海采又有名场面",
-      "onboard_time": 1728194117,
-      "rank": 13,
-      "category": "社会新闻"
+      "raw_hot": 277782,
+      "num": 277782,
+      "word": "李玉刚再回应被指划水",
+      "onboard_time": 1728197359,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 272699,
@@ -595,6 +611,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 250087,
+      "num": 217917,
+      "word": "她不是尚雯婕吗",
+      "onboard_time": 1728197239,
+      "rank": 22,
+      "category": "演出"
+    },
+    {
       "raw_hot": 249804,
       "num": 398228,
       "word": "志愿军2票房",
@@ -649,14 +673,6 @@
       "onboard_time": 1728184877,
       "rank": 36,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 229003,
-      "num": 229003,
-      "word": "陈奕迅 谢谢你们没退票",
-      "onboard_time": 1728196098,
-      "rank": 48,
-      "category": "演出"
     },
     {
       "raw_hot": 228368,
@@ -723,6 +739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 198642,
+      "num": 198642,
+      "word": "女子推理社",
+      "onboard_time": 1728196697,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 198641,
       "num": 198641,
       "word": "没过门姑爷就是好用",
@@ -747,6 +771,14 @@
       "category": "财经,国外时政"
     },
     {
+      "raw_hot": 193069,
+      "num": 193069,
+      "word": "华晨宇谈抑郁症",
+      "onboard_time": 1728198618,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
       "raw_hot": 193068,
       "num": 193068,
       "word": "749局是有点预言在的",
@@ -761,6 +793,14 @@
       "onboard_time": 1728190159,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 192752,
+      "num": 192752,
+      "word": "沈梦瑶被新人夸了三次",
+      "onboard_time": 1728195737,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 191884,
@@ -883,14 +923,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 159610,
-      "num": 159610,
-      "word": "沈梦瑶被新人夸了三次",
-      "onboard_time": 1728195737,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 157728,
       "num": 157728,
       "word": "孙颖莎收官之战",
@@ -921,6 +953,14 @@
       "onboard_time": 1728142818,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 152980,
+      "num": 152980,
+      "word": "王楚钦回应近期表现引起争议",
+      "onboard_time": 1728198257,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 152851,
@@ -1083,19 +1123,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 131405,
-      "num": 131405,
-      "word": "女子推理社",
-      "onboard_time": 1728196697,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 130395,
       "num": 130395,
       "word": "假冒媒体杜撰网文要查背后利益链",
       "onboard_time": 1728189681,
       "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 129976,
+      "num": 319473,
+      "word": "女骑手女司机越来越多了",
+      "onboard_time": 1728197538,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -1179,6 +1219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 121945,
+      "num": 121945,
+      "word": "恋与深空",
+      "onboard_time": 1728198798,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 121899,
       "num": 121899,
       "word": "清澈的爱只为中国",
@@ -1209,6 +1257,14 @@
       "onboard_time": 1728192499,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 117564,
+      "num": 117564,
+      "word": "95后小伙翻墙跳水救人一气呵成",
+      "onboard_time": 1728197598,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 116403,
@@ -1257,6 +1313,14 @@
       "onboard_time": 1728178518,
       "rank": 14,
       "category": "社会新闻,国外时政"
+    },
+    {
+      "raw_hot": 112680,
+      "num": 112680,
+      "word": "地质工作者在哀牢山也有很大风险",
+      "onboard_time": 1728198618,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 111796,
@@ -1353,6 +1417,14 @@
       "onboard_time": 1728179418,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 102208,
+      "num": 102208,
+      "word": "付航好好笑",
+      "onboard_time": 1728198198,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 102124,
@@ -1472,6 +1544,14 @@
       "word": "老祖宗留下这片海一寸也不能丢",
       "onboard_time": 1728178938,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 88031,
+      "num": 302898,
+      "word": "哀牢山擅闯保护区最高罚款5000元",
+      "onboard_time": 1728198257,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
