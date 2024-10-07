@@ -1,0 +1,410 @@
+{
+  "runTime": 1728265484135,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1155751,
+        "num": 1184920,
+        "word": "您已度过2024所有法定节假日",
+        "onboard_time": 1728262518,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 533584,
+        "num": 533584,
+        "word": "人人人人返程人人人人",
+        "onboard_time": 1728221238,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32937,
+        "num": 328096,
+        "word": "每一次与国旗同框都倍感骄傲",
+        "onboard_time": 1728218903,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 276290,
+        "num": 276290,
+        "word": "男子抱光腿娃坐公交司机立刻报警",
+        "onboard_time": 1728199997,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209908,
+        "num": 209908,
+        "word": "林诗栋请全场把掌声送给马龙",
+        "onboard_time": 1728223699,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 192859,
+        "num": 192859,
+        "word": "印拟向全球推广印度制造",
+        "onboard_time": 1728232398,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 184693,
+        "num": 184693,
+        "word": "撤黎台湾同胞称祖国就是中国",
+        "onboard_time": 1728220760,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 184222,
+        "num": 184222,
+        "word": "他们在垃圾堆里淘宝式找出多件文物",
+        "onboard_time": 1728244212,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 72448,
+        "num": 182018,
+        "word": "志愿军存亡之战进入2024票房榜前十",
+        "onboard_time": 1728229039,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 30729,
+        "num": 181734,
+        "word": "股民担忧A股开盘第一天买不到",
+        "onboard_time": 1728218241,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 603019,
+        "num": 181734,
+        "word": "8人被终身禁入稻城亚丁景区",
+        "onboard_time": 1728226943,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181686,
+        "num": 181686,
+        "word": "被撤侨机长这番话戳中了",
+        "onboard_time": 1728263536,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 437738,
+        "num": 181678,
+        "word": "雇了两个男大陪爬泰山",
+        "onboard_time": 1728257417,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 410102,
+        "num": 181599,
+        "word": "中企车队在巴遇袭致中方人员2死1伤",
+        "onboard_time": 1728258676,
+        "rank": 13,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 105945,
+        "num": 181503,
+        "word": "港股国庆期间暴涨",
+        "onboard_time": 1728264618,
+        "rank": 14,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 393631,
+        "num": 181368,
+        "word": "以色列",
+        "onboard_time": 1728258495,
+        "rank": 15,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 346427,
+        "num": 181266,
+        "word": "网传加18万彩礼的情况说明系假冒",
+        "onboard_time": 1728264318,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 341137,
+        "num": 181216,
+        "word": "以军48小时轰炸多处房屋学校安置中心",
+        "onboard_time": 1728263536,
+        "rank": 17,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 298925,
+        "num": 181115,
+        "word": "观众把彭昱畅叫成彭于晏",
+        "onboard_time": 1728261678,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 249223,
+        "num": 181011,
+        "word": "檀健次坐飞机迟到被点名",
+        "onboard_time": 1728228199,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 315425,
+        "num": 180990,
+        "word": "女博主独闯哀牢山深处2天后报平安",
+        "onboard_time": 1728229759,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258241,
+        "num": 180839,
+        "word": "入职几月怀孕拒绝调薪调岗被辞退",
+        "onboard_time": 1728217399,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201926,
+        "num": 180799,
+        "word": "易烊千玺朋友请听好后续",
+        "onboard_time": 1728265399,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186340,
+        "num": 180650,
+        "word": "日本一动物园饲养员长期偷动物蔬果",
+        "onboard_time": 1728257417,
+        "rank": 23,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 185244,
+        "num": 180600,
+        "word": "黄磊炖豆角",
+        "onboard_time": 1728208399,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180555,
+        "num": 180555,
+        "word": "黄仁俊恢复活动",
+        "onboard_time": 1728264258,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178359,
+        "num": 178359,
+        "word": "国乒有属于自己的梁王",
+        "onboard_time": 1728264258,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169716,
+        "num": 169716,
+        "word": "颜料公司回应哀牢山取材视频爆火",
+        "onboard_time": 1728218180,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153785,
+        "num": 153785,
+        "word": "周冬雨已经是nextlevel了",
+        "onboard_time": 1728220461,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 143090,
+        "num": 143090,
+        "word": "博主捡到中国小孩课本称不是剧本",
+        "onboard_time": 1728223881,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141582,
+        "num": 141582,
+        "word": "下次见面可能是2025年了",
+        "onboard_time": 1728264378,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 141291,
+        "num": 141291,
+        "word": "放弃型人格",
+        "onboard_time": 1728257417,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 134698,
+        "num": 134698,
+        "word": "本周狗屎运最旺的星座",
+        "onboard_time": 1728258075,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 130398,
+        "num": 130398,
+        "word": "江苏蟹黄面一吃一个不吱声",
+        "onboard_time": 1728256874,
+        "rank": 33,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 129163,
+        "num": 129163,
+        "word": "林诗栋孙颖莎首钢园拍摄冠军照",
+        "onboard_time": 1728264800,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124164,
+        "num": 124164,
+        "word": "TVB拍的名媛培训班",
+        "onboard_time": 1728256874,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121332,
+        "num": 121332,
+        "word": "黎巴嫩全国公立学校推迟开学",
+        "onboard_time": 1728262458,
+        "rank": 36,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 119312,
+        "num": 119312,
+        "word": "S14瑞士轮第四轮抽签",
+        "onboard_time": 1728258854,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 118136,
+        "num": 118136,
+        "word": "刘青松 MacT",
+        "onboard_time": 1728261856,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 117182,
+        "num": 117182,
+        "word": "马龙vs林诗栋",
+        "onboard_time": 1728212541,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114623,
+        "num": 114623,
+        "word": "尚雯婕茜拉10年后再合作",
+        "onboard_time": 1728264378,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 112768,
+        "num": 112768,
+        "word": "林诗栋男单冠军",
+        "onboard_time": 1728218785,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 112326,
+        "num": 112326,
+        "word": "王楚钦和马琳儿子分享零食",
+        "onboard_time": 1728257535,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 105782,
+        "num": 105782,
+        "word": "LPL",
+        "onboard_time": 1728262158,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 105631,
+        "num": 105631,
+        "word": "邓亚萍发博复盘女单决赛",
+        "onboard_time": 1728260717,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 103856,
+        "num": 103856,
+        "word": "BLG与WBG同组",
+        "onboard_time": 1728257535,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 99625,
+        "num": 99625,
+        "word": "伊朗全国机场暂停航班起降9小时",
+        "onboard_time": 1728256754,
+        "rank": 46,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 97750,
+        "num": 97750,
+        "word": "景区回应游客泡面开水收费5元",
+        "onboard_time": 1728261017,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94653,
+        "num": 94653,
+        "word": "伊朗",
+        "onboard_time": 1728258557,
+        "rank": 48,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 89911,
+        "num": 94532,
+        "word": "theboyz 原神",
+        "onboard_time": 1728259276,
+        "rank": 49,
+        "category": "艺人,游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动文化和旅游融合发展#"
+    }
+  }
+}

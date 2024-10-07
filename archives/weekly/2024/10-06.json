@@ -1,6 +1,6 @@
 {
   "startTime": 1728145573126,
-  "endTime": 1728257822401,
+  "endTime": 1728265484135,
   "band_list": [
     {
       "raw_hot": 8274483,
@@ -168,6 +168,14 @@
       "word": "山西2岁走失死亡女童妈妈再发声",
       "onboard_time": 1728205279,
       "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1155751,
+      "num": 1184920,
+      "word": "您已度过2024所有法定节假日",
+      "onboard_time": 1728262518,
+      "rank": 0,
       "category": "社会新闻"
     },
     {
@@ -715,6 +723,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 437738,
+      "num": 181678,
+      "word": "雇了两个男大陪爬泰山",
+      "onboard_time": 1728257417,
+      "rank": 19,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 429340,
       "num": 272223,
       "word": "华晨宇谈抑郁症",
@@ -771,6 +787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 410102,
+      "num": 181599,
+      "word": "中企车队在巴遇袭致中方人员2死1伤",
+      "onboard_time": 1728258676,
+      "rank": 13,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 409414,
       "num": 271099,
       "word": "游客因拍照起冲突在受气瓶前争吵",
@@ -801,6 +825,14 @@
       "onboard_time": 1728184217,
       "rank": 24,
       "category": "电影"
+    },
+    {
+      "raw_hot": 393631,
+      "num": 181368,
+      "word": "以色列",
+      "onboard_time": 1728258495,
+      "rank": 15,
+      "category": "国外时政"
     },
     {
       "raw_hot": 392345,
@@ -979,12 +1011,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 346427,
+      "num": 181266,
+      "word": "网传加18万彩礼的情况说明系假冒",
+      "onboard_time": 1728264318,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 345483,
       "num": 314133,
       "word": "陈奕迅 谢谢你们没退票",
       "onboard_time": 1728196098,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 341137,
+      "num": 181216,
+      "word": "以军48小时轰炸多处房屋学校安置中心",
+      "onboard_time": 1728263536,
+      "rank": 17,
+      "category": "国外时政"
     },
     {
       "raw_hot": 338195,
@@ -1121,6 +1169,14 @@
       "onboard_time": 1728218601,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 298925,
+      "num": 181115,
+      "word": "观众把彭昱畅叫成彭于晏",
+      "onboard_time": 1728261678,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 298194,
@@ -1412,7 +1468,7 @@
     },
     {
       "raw_hot": 219743,
-      "num": 98549,
+      "num": 99625,
       "word": "伊朗全国机场暂停航班起降9小时",
       "onboard_time": 1728256754,
       "rank": 17,
@@ -1587,6 +1643,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 201926,
+      "num": 180799,
+      "word": "易烊千玺朋友请听好后续",
+      "onboard_time": 1728265399,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 201018,
       "num": 201018,
       "word": "周冬雨给林依晨颁奖",
@@ -1699,6 +1763,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 192859,
+      "num": 192859,
+      "word": "印拟向全球推广印度制造",
+      "onboard_time": 1728232398,
+      "rank": 14,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 192752,
       "num": 192752,
       "word": "沈梦瑶被新人夸了三次",
@@ -1755,6 +1827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 186340,
+      "num": 180650,
+      "word": "日本一动物园饲养员长期偷动物蔬果",
+      "onboard_time": 1728257417,
+      "rank": 30,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 185568,
       "num": 185568,
       "word": "突然爆火的哀牢山到底是什么来头",
@@ -1769,6 +1849,14 @@
       "onboard_time": 1728213920,
       "rank": 34,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 184222,
+      "num": 184222,
+      "word": "他们在垃圾堆里淘宝式找出多件文物",
+      "onboard_time": 1728244212,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 183362,
@@ -1803,6 +1891,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 181686,
+      "num": 181686,
+      "word": "被撤侨机长这番话戳中了",
+      "onboard_time": 1728263536,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 180762,
       "num": 180762,
       "word": "我的国庆作业终于写完了",
@@ -1811,12 +1907,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 180555,
+      "num": 180555,
+      "word": "黄仁俊恢复活动",
+      "onboard_time": 1728264258,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 179055,
       "num": 179055,
       "word": "林俊杰的钢琴",
       "onboard_time": 1728210438,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 178359,
+      "num": 178359,
+      "word": "国乒有属于自己的梁王",
+      "onboard_time": 1728264258,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 175175,
@@ -2052,7 +2164,7 @@
     },
     {
       "raw_hot": 153674,
-      "num": 153674,
+      "num": 181734,
       "word": "股民担忧A股开盘第一天买不到",
       "onboard_time": 1728218241,
       "rank": 48,
@@ -2251,14 +2363,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 142048,
-      "num": 170470,
-      "word": "印拟向全球推广印度制造",
-      "onboard_time": 1728232398,
-      "rank": 14,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 141668,
       "num": 141668,
       "word": "黄金回收每克提高150元",
@@ -2273,6 +2377,22 @@
       "onboard_time": 1728213501,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 141582,
+      "num": 141582,
+      "word": "下次见面可能是2025年了",
+      "onboard_time": 1728264378,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 141291,
+      "num": 141291,
+      "word": "放弃型人格",
+      "onboard_time": 1728257417,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 140530,
@@ -2331,6 +2451,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 134698,
+      "num": 134698,
+      "word": "本周狗屎运最旺的星座",
+      "onboard_time": 1728258075,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 133006,
       "num": 133006,
       "word": "UFC",
@@ -2379,6 +2507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 130398,
+      "num": 130398,
+      "word": "江苏蟹黄面一吃一个不吱声",
+      "onboard_time": 1728256874,
+      "rank": 33,
+      "category": "美食"
+    },
+    {
       "raw_hot": 130395,
       "num": 130395,
       "word": "假冒媒体杜撰网文要查背后利益链",
@@ -2425,6 +2561,14 @@
       "onboard_time": 1728225260,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 129163,
+      "num": 129163,
+      "word": "林诗栋孙颖莎首钢园拍摄冠军照",
+      "onboard_time": 1728264800,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 128683,
@@ -2483,6 +2627,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 124164,
+      "num": 124164,
+      "word": "TVB拍的名媛培训班",
+      "onboard_time": 1728256874,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 123752,
       "num": 123752,
       "word": "檀健次奶奶粉 追星的意义",
@@ -2531,6 +2683,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 121332,
+      "num": 121332,
+      "word": "黎巴嫩全国公立学校推迟开学",
+      "onboard_time": 1728262458,
+      "rank": 36,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 121183,
       "num": 121183,
       "word": "洛天依全息演唱会",
@@ -2539,12 +2699,12 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 119102,
-      "num": 119102,
-      "word": "他们在垃圾堆里淘宝式找出多件文物",
-      "onboard_time": 1728244212,
-      "rank": 9,
-      "category": "社会新闻"
+      "raw_hot": 119312,
+      "num": 119312,
+      "word": "S14瑞士轮第四轮抽签",
+      "onboard_time": 1728258854,
+      "rank": 37,
+      "category": "电竞"
     },
     {
       "raw_hot": 119049,
@@ -2561,6 +2721,14 @@
       "onboard_time": 1728209598,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 118136,
+      "num": 118136,
+      "word": "刘青松 MacT",
+      "onboard_time": 1728261856,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 117953,
@@ -2619,6 +2787,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 114623,
+      "num": 114623,
+      "word": "尚雯婕茜拉10年后再合作",
+      "onboard_time": 1728264378,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 114554,
       "num": 114554,
       "word": "干杯大屏是檀健次的前半生",
@@ -2659,6 +2835,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 112326,
+      "num": 112326,
+      "word": "王楚钦和马琳儿子分享零食",
+      "onboard_time": 1728257535,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 111840,
       "num": 111840,
       "word": "一文读懂职工医保家庭共济要点",
@@ -2689,14 +2873,6 @@
       "onboard_time": 1728130041,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 110567,
-      "num": 96496,
-      "word": "雇了两个男大陪爬泰山",
-      "onboard_time": 1728257417,
-      "rank": 19,
-      "category": "幽默"
     },
     {
       "raw_hot": 110179,
@@ -2771,6 +2947,30 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 105945,
+      "num": 181503,
+      "word": "港股国庆期间暴涨",
+      "onboard_time": 1728264618,
+      "rank": 14,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 105782,
+      "num": 105782,
+      "word": "LPL",
+      "onboard_time": 1728262158,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 105631,
+      "num": 105631,
+      "word": "邓亚萍发博复盘女单决赛",
+      "onboard_time": 1728260717,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 105356,
       "num": 105356,
       "word": "何广智给武艺一家带礼物",
@@ -2825,6 +3025,14 @@
       "onboard_time": 1728179418,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 103856,
+      "num": 103856,
+      "word": "BLG与WBG同组",
+      "onboard_time": 1728257535,
+      "rank": 25,
+      "category": "电竞"
     },
     {
       "raw_hot": 103804,
@@ -2931,12 +3139,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 97750,
+      "num": 97750,
+      "word": "景区回应游客泡面开水收费5元",
+      "onboard_time": 1728261017,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 96803,
       "num": 96803,
       "word": "爱奇艺会员暂停后播放全屏广告",
       "onboard_time": 1728114380,
       "rank": 40,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 94653,
+      "num": 94653,
+      "word": "伊朗",
+      "onboard_time": 1728258557,
+      "rank": 48,
+      "category": "国外时政"
     },
     {
       "raw_hot": 94519,
@@ -2963,14 +3187,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 92676,
-      "num": 92676,
-      "word": "TVB拍的名媛培训班",
-      "onboard_time": 1728256874,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 92539,
       "num": 92539,
       "word": "国庆档新片总票房破17亿",
@@ -2985,6 +3201,14 @@
       "onboard_time": 1728125059,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 89911,
+      "num": 94532,
+      "word": "theboyz 原神",
+      "onboard_time": 1728259276,
+      "rank": 49,
+      "category": "艺人,游戏"
     },
     {
       "raw_hot": 89823,
@@ -3009,14 +3233,6 @@
       "onboard_time": 1728220520,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 86322,
-      "num": 86322,
-      "word": "BLG与WBG同组",
-      "onboard_time": 1728257535,
-      "rank": 25,
-      "category": "电竞"
     },
     {
       "raw_hot": 85237,
@@ -3049,14 +3265,6 @@
       "onboard_time": 1728210740,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 81782,
-      "num": 72450,
-      "word": "日本一动物园饲养员长期偷动物蔬果",
-      "onboard_time": 1728257417,
-      "rank": 30,
-      "category": "国外时政"
     },
     {
       "raw_hot": 81450,
@@ -3113,14 +3321,6 @@
       "onboard_time": 1728187220,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 71966,
-      "num": 71966,
-      "word": "王楚钦和马琳儿子分享零食",
-      "onboard_time": 1728257535,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 71773,
@@ -3345,14 +3545,6 @@
       "onboard_time": 1728240614,
       "rank": 37,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 51112,
-      "num": 51112,
-      "word": "放弃型人格",
-      "onboard_time": 1728257417,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 51073,
