@@ -1,0 +1,410 @@
+{
+  "runTime": 1728300061824,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1170831,
+        "num": 1870773,
+        "word": "王曼昱退赛因家庭原因",
+        "onboard_time": 1728294023,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 7463680,
+        "num": 1393129,
+        "word": "覃海洋工作室声明",
+        "onboard_time": 1728297262,
+        "rank": 1,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 12446,
+        "num": 455597,
+        "word": "全国秋收近四成",
+        "onboard_time": 1728288982,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 383229,
+        "num": 383229,
+        "word": "苹果或将放弃一年一更新模式",
+        "onboard_time": 1728290903,
+        "rank": 3,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 323682,
+        "num": 323682,
+        "word": "浙B3N922做完好事就悄悄离开了",
+        "onboard_time": 1728290722,
+        "rank": 4,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 299026,
+        "num": 299026,
+        "word": "西湖新女警是16年前走丢的那个孩子",
+        "onboard_time": 1728283338,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 287997,
+        "num": 287997,
+        "word": "诺贝尔",
+        "onboard_time": 1728295342,
+        "rank": 6,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 279140,
+        "num": 279140,
+        "word": "为什么假期一眨眼就结束了",
+        "onboard_time": 1728276858,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98813,
+        "num": 277980,
+        "word": "国庆档票房超20亿",
+        "onboard_time": 1728285200,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 95303,
+        "num": 266722,
+        "word": "已经开始盼元旦了",
+        "onboard_time": 1728296361,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 358852,
+        "num": 259967,
+        "word": "中东全面战争可能性存在但没有变得更高",
+        "onboard_time": 1728298585,
+        "rank": 10,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 300618,
+        "num": 257090,
+        "word": "翁青雅 我奉陪到底",
+        "onboard_time": 1728283518,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 250252,
+        "num": 250252,
+        "word": "大兴机场航站楼只用了17台空调",
+        "onboard_time": 1728286942,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247375,
+        "num": 247375,
+        "word": "王曼昱亚锦赛退赛",
+        "onboard_time": 1728290184,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 94652,
+        "num": 229191,
+        "word": "在奶茶店兼职后发现体力活并不治愈",
+        "onboard_time": 1728296903,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217804,
+        "num": 217804,
+        "word": "芒果新签的男艺人",
+        "onboard_time": 1728283879,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 215585,
+        "num": 215585,
+        "word": "何炅再度呼喊超女快女的名字",
+        "onboard_time": 1728294023,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 207068,
+        "num": 207068,
+        "word": "男大学生陪爬泰山情绪价值给满了",
+        "onboard_time": 1728279438,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198849,
+        "num": 198849,
+        "word": "姚晨问白宇吃面会不会挂胡子上",
+        "onboard_time": 1728297082,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21955,
+        "num": 189761,
+        "word": "电影志愿军英雄脸庞",
+        "onboard_time": 1728299781,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 322197,
+        "num": 188417,
+        "word": "男子连续4个月每天1箱饮料险失明",
+        "onboard_time": 1728290243,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187005,
+        "num": 187005,
+        "word": "新买的宾利送人就医座椅被血染红",
+        "onboard_time": 1728278598,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185201,
+        "num": 185201,
+        "word": "田曦薇把抓夹当快板打",
+        "onboard_time": 1728296722,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177763,
+        "num": 177763,
+        "word": "我国自主研制国之重器有新进展",
+        "onboard_time": 1728296061,
+        "rank": 23,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 167673,
+        "num": 167673,
+        "word": "A股走势",
+        "onboard_time": 1728277639,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163531,
+        "num": 163531,
+        "word": "荷兰老人送150多件中国文物回家",
+        "onboard_time": 1728287122,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162893,
+        "num": 162893,
+        "word": "鬼火少年集体炸街警方抓捕制止",
+        "onboard_time": 1728298882,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153618,
+        "num": 153618,
+        "word": "夏目友人帐",
+        "onboard_time": 1728299483,
+        "rank": 27,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 141147,
+        "num": 141147,
+        "word": "乒乓世界",
+        "onboard_time": 1728294982,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 138767,
+        "num": 138767,
+        "word": "谁说当老师就必须受气",
+        "onboard_time": 1728292162,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 251986,
+        "num": 136988,
+        "word": "有点理解校领导为什么爱看跑操了",
+        "onboard_time": 1728295342,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 156008,
+        "num": 136355,
+        "word": "何浩畅晒照",
+        "onboard_time": 1728299423,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129089,
+        "num": 129089,
+        "word": "那是你可怜 我家不用",
+        "onboard_time": 1728288563,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 129068,
+        "num": 129068,
+        "word": "国乒申请陈幸同参加亚锦赛",
+        "onboard_time": 1728299541,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127988,
+        "num": 127988,
+        "word": "胡烨韬面试泰创2",
+        "onboard_time": 1728299903,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126727,
+        "num": 126727,
+        "word": "杭州有人冷到半路钻进商场找外套",
+        "onboard_time": 1728297444,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123817,
+        "num": 123817,
+        "word": "唐一军被双开",
+        "onboard_time": 1728296423,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123513,
+        "num": 123513,
+        "word": "Zzr被骚扰",
+        "onboard_time": 1728286641,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 122092,
+        "num": 122092,
+        "word": "TES冲击LPL第二张八强门票",
+        "onboard_time": 1728293481,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 116167,
+        "num": 116167,
+        "word": "吴昕在上海穿上了羽绒服",
+        "onboard_time": 1728285800,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113372,
+        "num": 113372,
+        "word": "志愿军里杨三弟居然是李苗苗",
+        "onboard_time": 1728297444,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 107842,
+        "num": 107842,
+        "word": "花学",
+        "onboard_time": 1728277818,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103602,
+        "num": 103602,
+        "word": "熊猫宝宝假吃半天演戏过于认真",
+        "onboard_time": 1728298404,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101239,
+        "num": 101239,
+        "word": "流水迢迢",
+        "onboard_time": 1728299243,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100335,
+        "num": 100335,
+        "word": "Faker心目中的GOAT",
+        "onboard_time": 1728296123,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 99084,
+        "num": 99084,
+        "word": "井胧姐姐喜欢阿如那",
+        "onboard_time": 1728294141,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 92585,
+        "num": 92585,
+        "word": "我国自主研制重型燃气轮机点火成功",
+        "onboard_time": 1728295403,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 89745,
+        "num": 89745,
+        "word": "孙颖莎说和王曼昱是良性竞争",
+        "onboard_time": 1728283698,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 88642,
+        "num": 88642,
+        "word": "假期千万别长时间躺着刷手机",
+        "onboard_time": 1728294262,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 87511,
+        "num": 87511,
+        "word": "加沙冲突前后对比触目惊心",
+        "onboard_time": 1728299541,
+        "rank": 49,
+        "category": "国外时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#75秒看见人民共和国75年跨越#"
+    }
+  }
+}

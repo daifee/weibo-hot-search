@@ -1,9 +1,9 @@
 {
   "startTime": 1728231932217,
-  "endTime": 1728297766142,
+  "endTime": 1728300061824,
   "band_list": [
     {
-      "raw_hot": 5674451,
+      "raw_hot": 7463680,
       "num": 5674451,
       "word": "覃海洋工作室声明",
       "onboard_time": 1728297262,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1856955,
-      "num": 1856955,
+      "num": 1870773,
       "word": "王曼昱退赛因家庭原因",
       "onboard_time": 1728294023,
       "rank": 0,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 1104906,
-      "num": 255663,
+      "num": 257090,
       "word": "翁青雅 我奉陪到底",
       "onboard_time": 1728283518,
       "rank": 10,
@@ -236,7 +236,7 @@
     },
     {
       "raw_hot": 510387,
-      "num": 204859,
+      "num": 217804,
       "word": "芒果新签的男艺人",
       "onboard_time": 1728283879,
       "rank": 21,
@@ -371,6 +371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 358852,
+      "num": 259967,
+      "word": "中东全面战争可能性存在但没有变得更高",
+      "onboard_time": 1728298585,
+      "rank": 10,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 356525,
       "num": 227133,
       "word": "潘玮柏评论区",
@@ -475,6 +483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 323682,
+      "num": 323682,
+      "word": "浙B3N922做完好事就悄悄离开了",
+      "onboard_time": 1728290722,
+      "rank": 30,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 322007,
       "num": 223936,
       "word": "心动的信号",
@@ -553,6 +569,14 @@
       "onboard_time": 1728285680,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 287997,
+      "num": 287997,
+      "word": "诺贝尔",
+      "onboard_time": 1728295342,
+      "rank": 17,
+      "category": "科学科普"
     },
     {
       "raw_hot": 285294,
@@ -779,14 +803,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 206687,
-      "num": 246483,
-      "word": "诺贝尔",
-      "onboard_time": 1728295342,
-      "rank": 17,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 204527,
       "num": 203097,
       "word": "下次见面可能是2025年了",
@@ -801,6 +817,14 @@
       "onboard_time": 1728195978,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 198849,
+      "num": 198849,
+      "word": "姚晨问白宇吃面会不会挂胡子上",
+      "onboard_time": 1728297082,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 196022,
@@ -833,6 +857,14 @@
       "onboard_time": 1728257417,
       "rank": 30,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 185201,
+      "num": 185201,
+      "word": "田曦薇把抓夹当快板打",
+      "onboard_time": 1728296722,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 184693,
@@ -905,6 +937,14 @@
       "onboard_time": 1728292043,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 177763,
+      "num": 177907,
+      "word": "我国自主研制国之重器有新进展",
+      "onboard_time": 1728296061,
+      "rank": 36,
+      "category": "国内时政"
     },
     {
       "raw_hot": 176580,
@@ -987,6 +1027,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 162893,
+      "num": 162893,
+      "word": "鬼火少年集体炸街警方抓捕制止",
+      "onboard_time": 1728298882,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 162437,
       "num": 194193,
       "word": "A股测试",
@@ -1019,14 +1067,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 159541,
-      "num": 159541,
-      "word": "田曦薇把抓夹当快板打",
-      "onboard_time": 1728296722,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 159505,
       "num": 239828,
       "word": "隰县小西天发文致谢天命人",
@@ -1041,6 +1081,14 @@
       "onboard_time": 1728232098,
       "rank": 25,
       "category": "演出"
+    },
+    {
+      "raw_hot": 156008,
+      "num": 136355,
+      "word": "何浩畅晒照",
+      "onboard_time": 1728299423,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 155034,
@@ -1081,6 +1129,14 @@
       "onboard_time": 1728270077,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 153618,
+      "num": 153618,
+      "word": "夏目友人帐",
+      "onboard_time": 1728299483,
+      "rank": 27,
+      "category": "动漫"
     },
     {
       "raw_hot": 153313,
@@ -1171,14 +1227,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 145263,
-      "num": 145263,
-      "word": "浙B3N922做完好事就悄悄离开了",
-      "onboard_time": 1728290722,
-      "rank": 30,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 144835,
       "num": 132285,
       "word": "感觉好像看了一集日漫",
@@ -1249,14 +1297,6 @@
       "onboard_time": 1728223341,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 138908,
-      "num": 177907,
-      "word": "我国自主研制国之重器有新进展",
-      "onboard_time": 1728296061,
-      "rank": 36,
-      "category": "国内时政"
     },
     {
       "raw_hot": 138571,
@@ -1371,6 +1411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 129068,
+      "num": 129068,
+      "word": "国乒申请陈幸同参加亚锦赛",
+      "onboard_time": 1728299541,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 128953,
       "num": 128953,
       "word": "刘青松 MacT",
@@ -1395,12 +1443,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 127988,
+      "num": 127988,
+      "word": "胡烨韬面试泰创2",
+      "onboard_time": 1728299903,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 127307,
       "num": 284791,
       "word": "志愿军存亡之战进入2024票房榜前十",
       "onboard_time": 1728229039,
       "rank": 8,
       "category": "电影"
+    },
+    {
+      "raw_hot": 126727,
+      "num": 126727,
+      "word": "杭州有人冷到半路钻进商场找外套",
+      "onboard_time": 1728297444,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 126130,
@@ -1571,6 +1635,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 113372,
+      "num": 113372,
+      "word": "志愿军里杨三弟居然是李苗苗",
+      "onboard_time": 1728297444,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 112883,
       "num": 112883,
       "word": "以心换心方得真心",
@@ -1604,7 +1676,7 @@
     },
     {
       "raw_hot": 111489,
-      "num": 111489,
+      "num": 266722,
       "word": "已经开始盼元旦了",
       "onboard_time": 1728296361,
       "rank": 49,
@@ -1625,14 +1697,6 @@
       "onboard_time": 1728279919,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 109279,
-      "num": 109279,
-      "word": "志愿军里杨三弟居然是李苗苗",
-      "onboard_time": 1728297444,
-      "rank": 41,
-      "category": "电影"
     },
     {
       "raw_hot": 108876,
@@ -1723,12 +1787,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 103602,
+      "num": 103602,
+      "word": "熊猫宝宝假吃半天演戏过于认真",
+      "onboard_time": 1728298404,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 102725,
       "num": 102725,
       "word": "郑钦文回武汉的排面",
       "onboard_time": 1728291262,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 101239,
+      "num": 101239,
+      "word": "流水迢迢",
+      "onboard_time": 1728299243,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 100757,
@@ -1779,14 +1859,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 96823,
-      "num": 96823,
-      "word": "杭州有人冷到半路钻进商场找外套",
-      "onboard_time": 1728297444,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 96640,
       "num": 190190,
       "word": "专家建议普通投资者不要盲目追涨",
@@ -1801,14 +1873,6 @@
       "onboard_time": 1728288621,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 95769,
-      "num": 177844,
-      "word": "姚晨问白宇吃面会不会挂胡子上",
-      "onboard_time": 1728297082,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 95590,
@@ -1835,8 +1899,8 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 94475,
-      "num": 94475,
+      "raw_hot": 94652,
+      "num": 229191,
       "word": "在奶茶店兼职后发现体力活并不治愈",
       "onboard_time": 1728296903,
       "rank": 47,
@@ -1913,6 +1977,14 @@
       "onboard_time": 1728276619,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 87511,
+      "num": 87511,
+      "word": "加沙冲突前后对比触目惊心",
+      "onboard_time": 1728299541,
+      "rank": 49,
+      "category": "国外时政"
     },
     {
       "raw_hot": 87283,
@@ -2401,6 +2473,14 @@
       "onboard_time": 1728220880,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 21955,
+      "num": 189761,
+      "word": "电影志愿军英雄脸庞",
+      "onboard_time": 1728299781,
+      "rank": 19,
+      "category": "电影"
     },
     {
       "raw_hot": 18538,
