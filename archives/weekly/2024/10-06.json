@@ -1,6 +1,6 @@
 {
   "startTime": 1728145573126,
-  "endTime": 1728328675722,
+  "endTime": 1728329735028,
   "band_list": [
     {
       "raw_hot": 8274483,
@@ -5355,20 +5355,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 69223,
+      "num": 184396,
+      "word": "紧急提醒在巴中国公民做好安全防范",
+      "onboard_time": 1728321075,
+      "rank": 9,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 66927,
       "num": 66927,
       "word": "王一博独自攀登沙漠珠峰看日出",
       "onboard_time": 1728252191,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 66895,
-      "num": 184396,
-      "word": "紧急提醒在巴中国公民做好安全防范",
-      "onboard_time": 1728321075,
-      "rank": 9,
-      "category": "国外时政"
     },
     {
       "raw_hot": 66794,
@@ -6203,20 +6203,28 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 19286,
+      "num": 31735,
+      "word": "因设备故障京广高铁部分列车晚点",
+      "onboard_time": 1728326412,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 18775,
+      "num": 40278,
+      "word": "感受玫瑰花开视觉盛宴",
+      "onboard_time": 1728327911,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 18538,
       "num": 63740,
       "word": "巨幅五星红旗飘扬在绿水青山间",
       "onboard_time": 1728236774,
       "rank": 19,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 18453,
-      "num": 31735,
-      "word": "因设备故障京广高铁部分列车晚点",
-      "onboard_time": 1728326412,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 18185,
@@ -6275,19 +6283,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 14275,
+      "num": 19062,
+      "word": "大唐女琴师穿越后和现代人合奏",
+      "onboard_time": 1728327792,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 13475,
       "num": 31008,
       "word": "杭州有娃假期带着跳绳去旅游",
       "onboard_time": 1728249971,
       "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 13288,
-      "num": 40278,
-      "word": "感受玫瑰花开视觉盛宴",
-      "onboard_time": 1728327911,
-      "rank": 19,
       "category": "社会新闻"
     },
     {

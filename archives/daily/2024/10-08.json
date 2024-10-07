@@ -1,6 +1,6 @@
 {
   "startTime": 1728318463808,
-  "endTime": 1728328675722,
+  "endTime": 1728329735028,
   "band_list": [
     {
       "raw_hot": 745456,
@@ -371,7 +371,7 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 66895,
+      "raw_hot": 69223,
       "num": 184396,
       "word": "紧急提醒在巴中国公民做好安全防范",
       "onboard_time": 1728321075,
@@ -531,11 +531,19 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 18453,
+      "raw_hot": 19286,
       "num": 31735,
       "word": "因设备故障京广高铁部分列车晚点",
       "onboard_time": 1728326412,
       "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 18775,
+      "num": 40278,
+      "word": "感受玫瑰花开视觉盛宴",
+      "onboard_time": 1728327911,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -547,11 +555,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 13288,
-      "num": 40278,
-      "word": "感受玫瑰花开视觉盛宴",
-      "onboard_time": 1728327911,
-      "rank": 19,
+      "raw_hot": 14275,
+      "num": 19062,
+      "word": "大唐女琴师穿越后和现代人合奏",
+      "onboard_time": 1728327792,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
