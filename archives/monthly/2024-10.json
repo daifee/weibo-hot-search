@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1728293943063,
+  "endTime": 1728296704719,
   "band_list": [
     {
       "raw_hot": 11925969,
@@ -217,6 +217,14 @@
       "onboard_time": 1727928617,
       "rank": 10,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1856955,
+      "num": 1856955,
+      "word": "王曼昱退赛因家庭原因",
+      "onboard_time": 1728294023,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 1761489,
@@ -756,7 +764,7 @@
     },
     {
       "raw_hot": 1104906,
-      "num": 234959,
+      "num": 255663,
       "word": "翁青雅 我奉陪到底",
       "onboard_time": 1728283518,
       "rank": 10,
@@ -3179,6 +3187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 488513,
+      "num": 488513,
+      "word": "苹果或将放弃一年一更新模式",
+      "onboard_time": 1728290903,
+      "rank": 21,
+      "category": "数码"
+    },
+    {
       "raw_hot": 485593,
       "num": 366809,
       "word": "小白的心脏是两节五号电池",
@@ -3505,6 +3521,14 @@
       "onboard_time": 1727713638,
       "rank": 42,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 442963,
+      "num": 143348,
+      "word": "有点理解校领导为什么爱看跑操了",
+      "onboard_time": 1728295342,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 442668,
@@ -4684,7 +4708,7 @@
     },
     {
       "raw_hot": 329164,
-      "num": 221056,
+      "num": 252376,
       "word": "吴昕在上海穿上了羽绒服",
       "onboard_time": 1728285800,
       "rank": 23,
@@ -4969,6 +4993,14 @@
       "onboard_time": 1727836398,
       "rank": 24,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 310733,
+      "num": 256611,
+      "word": "何炅再度呼喊超女快女的名字",
+      "onboard_time": 1728294023,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 310377,
@@ -5369,6 +5401,14 @@
       "onboard_time": 1728045859,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 289355,
+      "num": 289355,
+      "word": "长沙南站停电",
+      "onboard_time": 1728292162,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 289252,
@@ -5913,14 +5953,6 @@
       "onboard_time": 1728273558,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 267722,
-      "num": 165673,
-      "word": "苹果或将放弃一年一更新模式",
-      "onboard_time": 1728290903,
-      "rank": 21,
-      "category": "数码"
     },
     {
       "raw_hot": 267175,
@@ -6651,6 +6683,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 237767,
+      "num": 237767,
+      "word": "诺贝尔生理学或医学奖揭晓",
+      "onboard_time": 1728294563,
+      "rank": 15,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 237239,
       "num": 360751,
       "word": "钟汉良与绝症孩子保持联系十几年",
@@ -6865,14 +6905,6 @@
       "onboard_time": 1727737335,
       "rank": 7,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 230301,
-      "num": 221050,
-      "word": "长沙南站停电",
-      "onboard_time": 1728292162,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 230252,
@@ -7392,6 +7424,14 @@
       "word": "郑钦文张雨霏拥抱",
       "onboard_time": 1728039739,
       "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 216455,
+      "num": 216455,
+      "word": "乒乓世界",
+      "onboard_time": 1728294982,
+      "rank": 16,
       "category": "体育"
     },
     {
@@ -8243,6 +8283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 196022,
+      "num": 185404,
+      "word": "谁说当老师就必须受气",
+      "onboard_time": 1728292162,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 195964,
       "num": 195964,
       "word": "出入平安",
@@ -8441,6 +8489,14 @@
       "onboard_time": 1728050480,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 193631,
+      "num": 193631,
+      "word": "诺贝尔",
+      "onboard_time": 1728295342,
+      "rank": 17,
+      "category": "科学科普"
     },
     {
       "raw_hot": 193491,
@@ -9065,6 +9121,14 @@
       "onboard_time": 1727832678,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 184240,
+      "num": 184240,
+      "word": "A股走势",
+      "onboard_time": 1728277639,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 184184,
@@ -9737,6 +9801,14 @@
       "onboard_time": 1727917997,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 172274,
+      "num": 172274,
+      "word": "跨时空展炫彩敦煌",
+      "onboard_time": 1728295583,
+      "rank": 25,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 172115,
@@ -10843,6 +10915,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 155034,
+      "num": 155034,
+      "word": "Faker心目中的GOAT",
+      "onboard_time": 1728296123,
+      "rank": 28,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 154984,
       "num": 154984,
       "word": "国庆提前返程的人又堵在路上了",
@@ -11707,6 +11787,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 143553,
+      "num": 143553,
+      "word": "2024年诺贝尔奖今起揭晓",
+      "onboard_time": 1728295523,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 143401,
       "num": 262727,
       "word": "被外国游客反向种草国内游了",
@@ -11859,6 +11947,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 141419,
+      "num": 141419,
+      "word": "井胧姐姐喜欢阿如那",
+      "onboard_time": 1728294141,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 141360,
       "num": 141360,
       "word": "哀牢山未开发区域",
@@ -11881,6 +11977,14 @@
       "onboard_time": 1728257417,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 141144,
+      "num": 141144,
+      "word": "TES冲击LPL第二张八强门票",
+      "onboard_time": 1728293481,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 141133,
@@ -12211,14 +12315,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 138079,
-      "num": 138079,
-      "word": "谁说当老师就必须受气",
-      "onboard_time": 1728292162,
-      "rank": 37,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 137996,
       "num": 137996,
       "word": "浙B3N922做完好事就悄悄离开了",
@@ -12513,6 +12609,14 @@
       "onboard_time": 1728123679,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 134511,
+      "num": 134511,
+      "word": "唐一军被双开",
+      "onboard_time": 1728296423,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 134461,
@@ -13435,6 +13539,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 125467,
+      "num": 309370,
+      "word": "国庆档票房超20亿",
+      "onboard_time": 1728285200,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
       "raw_hot": 125313,
       "num": 125313,
       "word": "观众说朱一龙身上有妈生正气",
@@ -13497,6 +13609,14 @@
       "onboard_time": 1728187458,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 124355,
+      "num": 124355,
+      "word": "我国自主研制国之重器有新进展",
+      "onboard_time": 1728296061,
+      "rank": 36,
+      "category": "国内时政"
     },
     {
       "raw_hot": 124300,
@@ -13665,14 +13785,6 @@
       "onboard_time": 1728141020,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 121876,
-      "num": 309370,
-      "word": "国庆档票房超20亿",
-      "onboard_time": 1728285200,
-      "rank": 19,
-      "category": "电影"
     },
     {
       "raw_hot": 121751,
@@ -14531,6 +14643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 113454,
+      "num": 113454,
+      "word": "专家建议股民三要三不要",
+      "onboard_time": 1728291144,
+      "rank": 46,
+      "category": "财经"
+    },
+    {
       "raw_hot": 113417,
       "num": 113417,
       "word": "公安部提醒这些照片不要晒",
@@ -14796,7 +14916,7 @@
     },
     {
       "raw_hot": 110296,
-      "num": 110296,
+      "num": 115035,
       "word": "张朝阳近5小时马拉松式数学推演",
       "onboard_time": 1728283338,
       "rank": 34,
@@ -15651,14 +15771,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 101761,
-      "num": 101761,
-      "word": "专家建议股民三要三不要",
-      "onboard_time": 1728291144,
-      "rank": 46,
-      "category": "财经"
-    },
-    {
       "raw_hot": 101737,
       "num": 101737,
       "word": "WTT中国大满贯今日决出首冠",
@@ -15721,6 +15833,14 @@
       "onboard_time": 1727954239,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 101080,
+      "num": 101080,
+      "word": "我国自主研制重型燃气轮机点火成功",
+      "onboard_time": 1728295403,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 101071,
@@ -16003,6 +16123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 97037,
+      "num": 97037,
+      "word": "黄龄新中式穿搭",
+      "onboard_time": 1728296183,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 97007,
       "num": 97007,
       "word": "为了中国人独有的浪漫他们365天坚守",
@@ -16177,6 +16305,14 @@
       "onboard_time": 1727708959,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 95268,
+      "num": 95268,
+      "word": "鱿鱼游戏2宣传活动",
+      "onboard_time": 1728294023,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 95200,
@@ -16403,11 +16539,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 91431,
-      "num": 91431,
-      "word": "A股走势",
-      "onboard_time": 1728277639,
-      "rank": 44,
+      "raw_hot": 91432,
+      "num": 91432,
+      "word": "已经开始盼元旦了",
+      "onboard_time": 1728296361,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -16417,14 +16553,6 @@
       "onboard_time": 1727841800,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 91161,
-      "num": 91161,
-      "word": "TES冲击LPL第二张八强门票",
-      "onboard_time": 1728293481,
-      "rank": 39,
-      "category": "电竞"
     },
     {
       "raw_hot": 91027,
@@ -19259,6 +19387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 33051,
+      "num": 116924,
+      "word": "打卡长沙宝藏骑行路线",
+      "onboard_time": 1728296123,
+      "rank": 38,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 32971,
       "num": 260098,
       "word": "他们在最具安全感的地方安然入睡",
@@ -19427,6 +19563,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 30560,
+      "num": 243939,
+      "word": "股民的假期人在景区心在股市",
+      "onboard_time": 1728295643,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 30510,
       "num": 138971,
       "word": "白化病女孩在漫展获温暖拥抱与合影",
@@ -19505,6 +19649,14 @@
       "onboard_time": 1727983813,
       "rank": 41,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 29692,
+      "num": 257967,
+      "word": "每年今天都难舍国庆",
+      "onboard_time": 1728295643,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 29549,
