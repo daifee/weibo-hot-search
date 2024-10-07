@@ -1,6 +1,6 @@
 {
   "startTime": 1728145573126,
-  "endTime": 1728275246761,
+  "endTime": 1728276109394,
   "band_list": [
     {
       "raw_hot": 8274483,
@@ -1131,6 +1131,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 340603,
+      "num": 222231,
+      "word": "读了明朝那些事突然就释怀了",
+      "onboard_time": 1728274219,
+      "rank": 20,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 338195,
       "num": 248520,
       "word": "黎巴嫩海边景点全是露宿者的帐篷",
@@ -1216,6 +1224,14 @@
       "word": "斯里兰卡警方介入中国母女酒店遇袭",
       "onboard_time": 1728173837,
       "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 314136,
+      "num": 222382,
+      "word": "多车返程高速上轮胎被扎钉子",
+      "onboard_time": 1728272718,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -1353,14 +1369,6 @@
       "onboard_time": 1728270257,
       "rank": 48,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 276947,
-      "num": 222231,
-      "word": "读了明朝那些事突然就释怀了",
-      "onboard_time": 1728274219,
-      "rank": 20,
-      "category": "读书作家"
     },
     {
       "raw_hot": 276607,
@@ -1521,14 +1529,6 @@
       "onboard_time": 1728171014,
       "rank": 16,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 241131,
-      "num": 222382,
-      "word": "多车返程高速上轮胎被扎钉子",
-      "onboard_time": 1728272718,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 241099,
@@ -2147,6 +2147,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 173099,
+      "num": 173099,
+      "word": "心动的信号",
+      "onboard_time": 1728275239,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 172939,
       "num": 172939,
       "word": "锦绣安宁预约",
@@ -2252,7 +2260,7 @@
     },
     {
       "raw_hot": 162437,
-      "num": 162437,
+      "num": 194193,
       "word": "A股测试",
       "onboard_time": 1728273319,
       "rank": 26,
@@ -2265,6 +2273,14 @@
       "onboard_time": 1728203419,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 161853,
+      "num": 161853,
+      "word": "广西螺蛳粉的辣会教育嘴硬的外地人",
+      "onboard_time": 1728272959,
+      "rank": 29,
+      "category": "美食"
     },
     {
       "raw_hot": 161505,
@@ -2779,14 +2795,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 134542,
-      "num": 134542,
-      "word": "广西螺蛳粉的辣会教育嘴硬的外地人",
-      "onboard_time": 1728272959,
-      "rank": 29,
-      "category": "美食"
-    },
-    {
       "raw_hot": 133006,
       "num": 133006,
       "word": "UFC",
@@ -3027,6 +3035,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 121201,
+      "num": 121201,
+      "word": "我使馆要求彻查恐袭严惩凶手",
+      "onboard_time": 1728275119,
+      "rank": 30,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 121183,
       "num": 121183,
       "word": "洛天依全息演唱会",
@@ -3203,6 +3219,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 112070,
+      "num": 112070,
+      "word": "一个动作缓解眼涩",
+      "onboard_time": 1728275719,
+      "rank": 33,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 111840,
       "num": 111840,
       "word": "一文读懂职工医保家庭共济要点",
@@ -3241,6 +3265,14 @@
       "onboard_time": 1728136098,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 109649,
+      "num": 109649,
+      "word": "加沙名胜古迹被彻底摧毁",
+      "onboard_time": 1728275599,
+      "rank": 36,
+      "category": "国外时政"
     },
     {
       "raw_hot": 108633,
@@ -3355,6 +3387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 105198,
+      "num": 105198,
+      "word": "假期结束剩奶奶独自在沙发打盹",
+      "onboard_time": 1728275899,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 105142,
       "num": 105142,
       "word": "王楚钦梁靖崑躲采访失败",
@@ -3369,6 +3409,14 @@
       "onboard_time": 1728131900,
       "rank": 35,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 104950,
+      "num": 104950,
+      "word": "马龙下个赛场见",
+      "onboard_time": 1728275779,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 104804,
@@ -3515,6 +3563,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 95590,
+      "num": 95590,
+      "word": "李大霄 我很担心8号开盘",
+      "onboard_time": 1728273379,
+      "rank": 46,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 94653,
       "num": 94653,
       "word": "伊朗",
@@ -3593,14 +3649,6 @@
       "onboard_time": 1728178938,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 89082,
-      "num": 89082,
-      "word": "李大霄 我很担心8号开盘",
-      "onboard_time": 1728273379,
-      "rank": 46,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 88031,
@@ -3721,6 +3769,14 @@
       "onboard_time": 1728142517,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 75135,
+      "num": 223398,
+      "word": "节后A股开市将怎么走",
+      "onboard_time": 1728274038,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 72830,
@@ -3923,6 +3979,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 55320,
+      "num": 224463,
+      "word": "国庆假期各大券商开户数创历史新高",
+      "onboard_time": 1728274219,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 55087,
       "num": 55087,
       "word": "郑钦文巨大商业潜力逐渐展现",
@@ -3961,14 +4025,6 @@
       "onboard_time": 1728240614,
       "rank": 37,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 51127,
-      "num": 224463,
-      "word": "国庆假期各大券商开户数创历史新高",
-      "onboard_time": 1728274219,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 51073,
@@ -4088,14 +4144,6 @@
       "word": "返程高峰自驾应注意啥",
       "onboard_time": 1728187699,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 41142,
-      "num": 223398,
-      "word": "节后A股开市将怎么走",
-      "onboard_time": 1728274038,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
