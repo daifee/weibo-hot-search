@@ -1,10 +1,10 @@
 {
   "startTime": 1728231932217,
-  "endTime": 1728269799304,
+  "endTime": 1728270352691,
   "band_list": [
     {
       "raw_hot": 1367280,
-      "num": 274826,
+      "num": 278672,
       "word": "8人被终身禁入稻城亚丁景区",
       "onboard_time": 1728226943,
       "rank": 10,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1324966,
-      "num": 276082,
+      "num": 281931,
       "word": "孙莉跳舞",
       "onboard_time": 1728266900,
       "rank": 10,
@@ -43,8 +43,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 910213,
-      "num": 275573,
+      "raw_hot": 913002,
+      "num": 280741,
       "word": "何炅情商",
       "onboard_time": 1728267139,
       "rank": 11,
@@ -59,20 +59,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 729414,
+      "num": 280395,
+      "word": "网传加18万彩礼事件双方已和解",
+      "onboard_time": 1728265758,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 687029,
       "num": 919924,
       "word": "WBG对战G2",
       "onboard_time": 1728228499,
       "rank": 0,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 665876,
-      "num": 275356,
-      "word": "网传加18万彩礼事件双方已和解",
-      "onboard_time": 1728265758,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 652956,
@@ -108,11 +108,19 @@
     },
     {
       "raw_hot": 503211,
-      "num": 274508,
+      "num": 275276,
       "word": "以军48小时轰炸多处房屋学校安置中心",
       "onboard_time": 1728263536,
       "rank": 17,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 463339,
+      "num": 278208,
+      "word": "男子买二手车回家后原车主远程锁车",
+      "onboard_time": 1728269298,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 456904,
@@ -139,8 +147,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 415554,
+      "num": 415554,
+      "word": "75年来中国人均预期寿命翻了一倍多",
+      "onboard_time": 1728266778,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 410102,
-      "num": 273907,
+      "num": 274838,
       "word": "中企车队在巴遇袭致中方人员2死1伤",
       "onboard_time": 1728258676,
       "rank": 13,
@@ -148,7 +164,7 @@
     },
     {
       "raw_hot": 397256,
-      "num": 273956,
+      "num": 277597,
       "word": "易烊千玺朋友请听好后续",
       "onboard_time": 1728265399,
       "rank": 22,
@@ -171,16 +187,8 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 379988,
-      "num": 379988,
-      "word": "75年来中国人均预期寿命翻了一倍多",
-      "onboard_time": 1728266778,
-      "rank": 1,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 375668,
-      "num": 375668,
+      "raw_hot": 389121,
+      "num": 389121,
       "word": "港股",
       "onboard_time": 1728265818,
       "rank": 3,
@@ -235,6 +243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 312699,
+      "num": 275923,
+      "word": "结婚彩礼该不该直接给新娘",
+      "onboard_time": 1728268937,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 310348,
       "num": 310348,
       "word": "T1战胜BLG",
@@ -259,11 +275,19 @@
       "category": "电影"
     },
     {
-      "raw_hot": 277014,
-      "num": 277014,
+      "raw_hot": 285294,
+      "num": 285294,
       "word": "国乒有属于自己的梁王",
       "onboard_time": 1728264258,
       "rank": 26,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 274725,
+      "num": 274725,
+      "word": "马龙国际比赛最后一舞",
+      "onboard_time": 1728269778,
+      "rank": 22,
       "category": "体育"
     },
     {
@@ -331,22 +355,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 217673,
-      "num": 217673,
-      "word": "男子买二手车回家后原车主远程锁车",
-      "onboard_time": 1728269298,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 214905,
-      "num": 214905,
-      "word": "结婚彩礼该不该直接给新娘",
-      "onboard_time": 1728268937,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 204527,
       "num": 203097,
       "word": "下次见面可能是2025年了",
@@ -361,14 +369,6 @@
       "onboard_time": 1728195978,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 200174,
-      "num": 200174,
-      "word": "马龙国际比赛最后一舞",
-      "onboard_time": 1728269778,
-      "rank": 22,
-      "category": "体育"
     },
     {
       "raw_hot": 192859,
@@ -411,6 +411,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 181658,
+      "num": 181658,
+      "word": "陈飞宇演技",
+      "onboard_time": 1728267678,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 180680,
+      "num": 276738,
+      "word": "国庆假期运输期间12306已卖出1.55亿张车票",
+      "onboard_time": 1728267199,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 180555,
       "num": 180555,
       "word": "黄仁俊恢复活动",
@@ -427,14 +443,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 170338,
-      "num": 170338,
-      "word": "陈飞宇演技",
-      "onboard_time": 1728267678,
-      "rank": 26,
-      "category": "电影"
-    },
-    {
       "raw_hot": 161285,
       "num": 161285,
       "word": "BLG",
@@ -443,20 +451,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 160870,
+      "num": 160870,
+      "word": "本轮牛市能持续多久",
+      "onboard_time": 1728267678,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 160324,
       "num": 160324,
       "word": "王曼昱接发球分析",
       "onboard_time": 1728226878,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 157898,
-      "num": 276738,
-      "word": "国庆假期运输期间12306已卖出1.55亿张车票",
-      "onboard_time": 1728267199,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 156680,
@@ -481,6 +489,14 @@
       "onboard_time": 1728212961,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 153665,
+      "num": 153665,
+      "word": "假期最后一天",
+      "onboard_time": 1728270077,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 152906,
@@ -539,12 +555,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 144226,
-      "num": 144226,
+      "raw_hot": 146800,
+      "num": 146800,
+      "word": "孙颖莎夺冠后说很开心很充实",
+      "onboard_time": 1728268458,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 146767,
+      "num": 146767,
       "word": "Keria说LCK比LPL更强",
       "onboard_time": 1728268338,
       "rank": 35,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 145970,
+      "num": 145970,
+      "word": "莎头出发亚锦赛",
+      "onboard_time": 1728270139,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 144027,
@@ -572,7 +604,7 @@
     },
     {
       "raw_hot": 139165,
-      "num": 182907,
+      "num": 283606,
       "word": "车车车车收费站车车车车",
       "onboard_time": 1728269118,
       "rank": 24,
@@ -635,12 +667,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 133018,
-      "num": 133018,
-      "word": "孙颖莎夺冠后说很开心很充实",
-      "onboard_time": 1728268458,
-      "rank": 40,
-      "category": "体育"
+      "raw_hot": 131743,
+      "num": 131743,
+      "word": "龚俊玩伞路透",
+      "onboard_time": 1728270018,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 130398,
@@ -676,7 +708,7 @@
     },
     {
       "raw_hot": 127307,
-      "num": 276618,
+      "num": 284791,
       "word": "志愿军存亡之战进入2024票房榜前十",
       "onboard_time": 1728229039,
       "rank": 8,
@@ -851,12 +883,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 101735,
-      "num": 148797,
-      "word": "本轮牛市能持续多久",
-      "onboard_time": 1728267678,
-      "rank": 33,
-      "category": "社会新闻"
+      "raw_hot": 103817,
+      "num": 103817,
+      "word": "Uzi谈BLG不敌T1",
+      "onboard_time": 1728270257,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 100677,
@@ -881,6 +913,14 @@
       "onboard_time": 1728259276,
       "rank": 49,
       "category": "艺人,游戏"
+    },
+    {
+      "raw_hot": 82827,
+      "num": 274951,
+      "word": "假期新开户的股民明天还不能交易",
+      "onboard_time": 1728268217,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 77218,
@@ -923,14 +963,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 62125,
-      "num": 274951,
-      "word": "假期新开户的股民明天还不能交易",
-      "onboard_time": 1728268217,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 60423,
       "num": 60423,
       "word": "尚雯婕茜拉合唱默",
@@ -964,7 +996,7 @@
     },
     {
       "raw_hot": 55568,
-      "num": 276288,
+      "num": 282781,
       "word": "中芯国际涨逾18%",
       "onboard_time": 1728267618,
       "rank": 9,
@@ -1084,7 +1116,7 @@
     },
     {
       "raw_hot": 32937,
-      "num": 376452,
+      "num": 404576,
       "word": "每一次与国旗同框都倍感骄傲",
       "onboard_time": 1728218903,
       "rank": 2,
