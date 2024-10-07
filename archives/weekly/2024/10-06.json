@@ -1,6 +1,6 @@
 {
   "startTime": 1728145573126,
-  "endTime": 1728308494639,
+  "endTime": 1728310888417,
   "band_list": [
     {
       "raw_hot": 8274483,
@@ -49,6 +49,14 @@
       "onboard_time": 1728218785,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 2123788,
+      "num": 252022,
+      "word": "权志龙疑似扔了郎朗的签名专辑",
+      "onboard_time": 1728308721,
+      "rank": 10,
+      "category": "音乐"
     },
     {
       "raw_hot": 2114558,
@@ -136,6 +144,14 @@
       "word": "三胞胎宝宝坐高铁买挂票",
       "onboard_time": 1728195978,
       "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1617774,
+      "num": 302052,
+      "word": "本科夫妻周末摆摊卖菜月入3000元",
+      "onboard_time": 1728307882,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -336,6 +352,14 @@
       "word": "戚薇cos毛利兰",
       "onboard_time": 1728210199,
       "rank": 11,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1014557,
+      "num": 251659,
+      "word": "恋综史上无法超越的一幕",
+      "onboard_time": 1728308962,
+      "rank": 13,
       "category": "综艺"
     },
     {
@@ -755,6 +779,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 612006,
+      "num": 1097921,
+      "word": "广州南站6天捡1000张身份证",
+      "onboard_time": 1728308543,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 609006,
       "num": 275923,
       "word": "结婚彩礼该不该直接给新娘",
@@ -856,6 +888,14 @@
       "word": "怎么让全国人民都知道我瘦了30多斤",
       "onboard_time": 1728193459,
       "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 525068,
+      "num": 300320,
+      "word": "博主擅闯哀牢山禁区已违法",
+      "onboard_time": 1728307222,
+      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -1475,19 +1515,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 328268,
-      "num": 302052,
-      "word": "本科夫妻周末摆摊卖菜月入3000元",
-      "onboard_time": 1728307882,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 324603,
       "num": 324603,
       "word": "美国特工掀起大规模离职潮",
       "onboard_time": 1728271398,
       "rank": 40,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 323438,
+      "num": 250645,
+      "word": "伊朗总统说与其死在床上不如当殉道者",
+      "onboard_time": 1728307281,
+      "rank": 30,
       "category": "国外时政"
     },
     {
@@ -1579,6 +1619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 303524,
+      "num": 303524,
+      "word": "今天24时前就近下高速",
+      "onboard_time": 1728308300,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 302163,
       "num": 165358,
       "word": "田曦薇cos玛蒂尔达",
@@ -1603,14 +1651,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 300320,
-      "num": 300320,
-      "word": "博主擅闯哀牢山禁区已违法",
-      "onboard_time": 1728307222,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 299862,
       "num": 299862,
       "word": "王楚钦梁靖崑观战男单决赛",
@@ -1625,14 +1665,6 @@
       "onboard_time": 1728261678,
       "rank": 18,
       "category": "电影"
-    },
-    {
-      "raw_hot": 298815,
-      "num": 211439,
-      "word": "伊朗总统说与其死在床上不如当殉道者",
-      "onboard_time": 1728307281,
-      "rank": 30,
-      "category": "国外时政"
     },
     {
       "raw_hot": 298238,
@@ -1963,6 +1995,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 245748,
+      "num": 245748,
+      "word": "成龙已经70岁了",
+      "onboard_time": 1728307882,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 245650,
       "num": 245650,
       "word": "TES对战FNC",
@@ -2099,6 +2139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 226428,
+      "num": 226428,
+      "word": "重庆八百八十八一份的毛血旺",
+      "onboard_time": 1728310402,
+      "rank": 27,
+      "category": "美食"
+    },
+    {
       "raw_hot": 226266,
       "num": 226266,
       "word": "以色列发生恐袭案19岁女警身亡",
@@ -2176,6 +2224,14 @@
       "word": "国庆假期第6天你在干什么",
       "onboard_time": 1728225020,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 218167,
+      "num": 273399,
+      "word": "机构称A股节后或集中上涨",
+      "onboard_time": 1728306442,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -2843,6 +2899,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 173585,
+      "num": 173585,
+      "word": "救护车鸣笛送病重婴儿遇小车不让路",
+      "onboard_time": 1728309082,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 172939,
       "num": 172939,
       "word": "锦绣安宁预约",
@@ -3099,6 +3163,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 158507,
+      "num": 158507,
+      "word": "还原8人被终身禁入亚丁景区始末",
+      "onboard_time": 1728309804,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 157728,
       "num": 157728,
       "word": "孙颖莎收官之战",
@@ -3153,14 +3225,6 @@
       "onboard_time": 1728232098,
       "rank": 25,
       "category": "演出"
-    },
-    {
-      "raw_hot": 156314,
-      "num": 273399,
-      "word": "机构称A股节后或集中上涨",
-      "onboard_time": 1728306442,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 155767,
@@ -3233,14 +3297,6 @@
       "onboard_time": 1728296423,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 153128,
-      "num": 153128,
-      "word": "成龙已经70岁了",
-      "onboard_time": 1728307882,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 152909,
@@ -3345,6 +3401,14 @@
       "onboard_time": 1728305122,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 150151,
+      "num": 150151,
+      "word": "人均花3万年轻人爱上非洲游",
+      "onboard_time": 1728310642,
+      "rank": 37,
+      "category": "旅游"
     },
     {
       "raw_hot": 149934,
@@ -3593,6 +3657,14 @@
       "onboard_time": 1728293481,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 140554,
+      "num": 140554,
+      "word": "哀牢山小西天接住了泼天富贵",
+      "onboard_time": 1728308241,
+      "rank": 39,
+      "category": "旅游"
     },
     {
       "raw_hot": 140530,
@@ -4011,6 +4083,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 121237,
+      "num": 121237,
+      "word": "任嘉伦 be赛道",
+      "onboard_time": 1728310823,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 121183,
       "num": 121183,
       "word": "洛天依全息演唱会",
@@ -4033,6 +4113,14 @@
       "onboard_time": 1728268878,
       "rank": 43,
       "category": "财经"
+    },
+    {
+      "raw_hot": 119398,
+      "num": 119398,
+      "word": "亚锦赛分区",
+      "onboard_time": 1728310343,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 119312,
@@ -4097,14 +4185,6 @@
       "onboard_time": 1728214580,
       "rank": 48,
       "category": "电影"
-    },
-    {
-      "raw_hot": 116874,
-      "num": 301674,
-      "word": "今天24时前就近下高速",
-      "onboard_time": 1728308300,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 116403,
@@ -5051,6 +5131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 76336,
+      "num": 252320,
+      "word": "志愿军存亡之战成国庆档票房冠军",
+      "onboard_time": 1728309862,
+      "rank": 8,
+      "category": "电影"
+    },
+    {
       "raw_hot": 75472,
       "num": 75472,
       "word": "一阳拥抱",
@@ -5488,6 +5576,14 @@
       "word": "不少女性进入骑手网约车司机行业",
       "onboard_time": 1728199940,
       "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 42281,
+      "num": 252218,
+      "word": "再过85天就又能过元旦了",
+      "onboard_time": 1728309502,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
