@@ -1,6 +1,6 @@
 {
   "startTime": 1728145573126,
-  "endTime": 1728266683294,
+  "endTime": 1728269799304,
   "band_list": [
     {
       "raw_hot": 8274483,
@@ -155,6 +155,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1324966,
+      "num": 276082,
+      "word": "孙莉跳舞",
+      "onboard_time": 1728266900,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1275221,
       "num": 184415,
       "word": "网传加18万彩礼的情况说明系假冒",
@@ -281,6 +289,14 @@
       "onboard_time": 1728229759,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 910213,
+      "num": 275573,
+      "word": "何炅情商",
+      "onboard_time": 1728267139,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 846741,
@@ -491,6 +507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 665876,
+      "num": 275356,
+      "word": "网传加18万彩礼事件双方已和解",
+      "onboard_time": 1728265758,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 663891,
       "num": 422941,
       "word": "BLG",
@@ -636,7 +660,7 @@
     },
     {
       "raw_hot": 503211,
-      "num": 183572,
+      "num": 274508,
       "word": "以军48小时轰炸多处房屋学校安置中心",
       "onboard_time": 1728263536,
       "rank": 17,
@@ -804,7 +828,7 @@
     },
     {
       "raw_hot": 410102,
-      "num": 182161,
+      "num": 273907,
       "word": "中企车队在巴遇袭致中方人员2死1伤",
       "onboard_time": 1728258676,
       "rank": 13,
@@ -836,7 +860,7 @@
     },
     {
       "raw_hot": 397256,
-      "num": 182981,
+      "num": 273956,
       "word": "易烊千玺朋友请听好后续",
       "onboard_time": 1728265399,
       "rank": 22,
@@ -899,12 +923,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 379988,
+      "num": 379988,
+      "word": "75年来中国人均预期寿命翻了一倍多",
+      "onboard_time": 1728266778,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 377860,
       "num": 377860,
       "word": "哀牢山景区发布安全警示",
       "onboard_time": 1728120618,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 375668,
+      "num": 375668,
+      "word": "港股",
+      "onboard_time": 1728265818,
+      "rank": 3,
+      "category": "财经"
     },
     {
       "raw_hot": 374799,
@@ -1025,6 +1065,14 @@
       "onboard_time": 1728139699,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 353807,
+      "num": 353807,
+      "word": "山西大同3.1级地震",
+      "onboard_time": 1728266419,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 352386,
@@ -1235,12 +1283,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 277014,
+      "num": 277014,
+      "word": "国乒有属于自己的梁王",
+      "onboard_time": 1728264258,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 276607,
       "num": 487652,
       "word": "台湾小伙痴迷文物来大陆学考古",
       "onboard_time": 1728213021,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 273633,
+      "num": 273633,
+      "word": "钱天一晒和马龙合影",
+      "onboard_time": 1728265758,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 272699,
@@ -1275,14 +1339,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 264847,
-      "num": 139936,
-      "word": "钱天一晒和马龙合影",
-      "onboard_time": 1728265758,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
       "raw_hot": 264367,
       "num": 241491,
       "word": "专家解读为何哀牢山是禁区",
@@ -1304,14 +1360,6 @@
       "word": "游客自驾驶入罗布泊被困弃车徒步返回",
       "onboard_time": 1728165552,
       "rank": 37,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 262563,
-      "num": 180868,
-      "word": "网传加18万彩礼事件双方已和解",
-      "onboard_time": 1728265758,
-      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -1377,14 +1425,6 @@
       "onboard_time": 1728174496,
       "rank": 29,
       "category": "电影"
-    },
-    {
-      "raw_hot": 249453,
-      "num": 249453,
-      "word": "港股",
-      "onboard_time": 1728265818,
-      "rank": 3,
-      "category": "财经"
     },
     {
       "raw_hot": 245650,
@@ -1547,6 +1587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 217673,
+      "num": 217673,
+      "word": "男子买二手车回家后原车主远程锁车",
+      "onboard_time": 1728269298,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 217196,
       "num": 274587,
       "word": "志愿军2口碑",
@@ -1563,14 +1611,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 216694,
-      "num": 216694,
-      "word": "山西大同3.1级地震",
-      "onboard_time": 1728266419,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 216482,
       "num": 216482,
       "word": "孙颖莎说在北京留下了最美好的回忆",
@@ -1585,6 +1625,14 @@
       "onboard_time": 1728226760,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 214905,
+      "num": 214905,
+      "word": "结婚彩礼该不该直接给新娘",
+      "onboard_time": 1728268937,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 214806,
@@ -1668,7 +1716,7 @@
     },
     {
       "raw_hot": 204527,
-      "num": 179106,
+      "num": 203097,
       "word": "下次见面可能是2025年了",
       "onboard_time": 1728264378,
       "rank": 30,
@@ -1728,6 +1776,14 @@
       "word": "孙颖莎回应中国大满贯夺冠",
       "onboard_time": 1728214161,
       "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 200174,
+      "num": 200174,
+      "word": "马龙国际比赛最后一舞",
+      "onboard_time": 1728269778,
+      "rank": 22,
       "category": "体育"
     },
     {
@@ -1971,14 +2027,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 178359,
-      "num": 178359,
-      "word": "国乒有属于自己的梁王",
-      "onboard_time": 1728264258,
-      "rank": 26,
-      "category": "体育"
-    },
-    {
       "raw_hot": 175175,
       "num": 175175,
       "word": "小西天被喊差评后疯狂宠游客",
@@ -2033,6 +2081,14 @@
       "onboard_time": 1728201917,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 170338,
+      "num": 170338,
+      "word": "陈飞宇演技",
+      "onboard_time": 1728267678,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 169375,
@@ -2137,6 +2193,14 @@
       "onboard_time": 1728224120,
       "rank": 42,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 157898,
+      "num": 276738,
+      "word": "国庆假期运输期间12306已卖出1.55亿张车票",
+      "onboard_time": 1728267199,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 157728,
@@ -2299,6 +2363,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 151159,
+      "num": 151159,
+      "word": "詹姆斯布朗尼同场竞技",
+      "onboard_time": 1728269718,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 150967,
       "num": 150967,
       "word": "上海不愧是大名鼎鼎的魔都",
@@ -2323,6 +2395,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 149317,
+      "num": 149317,
+      "word": "Coldplay抢票",
+      "onboard_time": 1728268279,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 149206,
       "num": 149206,
       "word": "中医建议入秋穿袜子睡觉",
@@ -2345,6 +2425,14 @@
       "onboard_time": 1728217880,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 148464,
+      "num": 148464,
+      "word": "家里装不进包外面掏不出猫",
+      "onboard_time": 1728267918,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 148101,
@@ -2401,6 +2489,14 @@
       "onboard_time": 1728189919,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 144226,
+      "num": 144226,
+      "word": "Keria说LCK比LPL更强",
+      "onboard_time": 1728268338,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 143161,
@@ -2491,12 +2587,28 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 139165,
+      "num": 182907,
+      "word": "车车车车收费站车车车车",
+      "onboard_time": 1728269118,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 138540,
       "num": 138540,
       "word": "黄子弘凡苏醒茜拉和声",
       "onboard_time": 1728228800,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 138236,
+      "num": 138236,
+      "word": "太阳vs湖人",
+      "onboard_time": 1728267497,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 136314,
@@ -2507,12 +2619,28 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 136006,
+      "num": 136006,
+      "word": "国庆返程高峰直播",
+      "onboard_time": 1728268458,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 134698,
       "num": 134698,
       "word": "本周狗屎运最旺的星座",
       "onboard_time": 1728258075,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 133018,
+      "num": 133018,
+      "word": "孙颖莎夺冠后说很开心很充实",
+      "onboard_time": 1728268458,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 133006,
@@ -2652,7 +2780,7 @@
     },
     {
       "raw_hot": 127307,
-      "num": 253056,
+      "num": 276618,
       "word": "志愿军存亡之战进入2024票房榜前十",
       "onboard_time": 1728229039,
       "rank": 8,
@@ -2747,6 +2875,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 119818,
+      "num": 119818,
+      "word": "高盛上调中国股市至超配",
+      "onboard_time": 1728268878,
+      "rank": 43,
+      "category": "财经"
+    },
+    {
       "raw_hot": 119312,
       "num": 119312,
       "word": "S14瑞士轮第四轮抽签",
@@ -2769,6 +2905,14 @@
       "onboard_time": 1728266658,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 118534,
+      "num": 118534,
+      "word": "张艺兴费加罗十月封面",
+      "onboard_time": 1728268158,
+      "rank": 44,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 118138,
@@ -3011,6 +3155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 106169,
+      "num": 106169,
+      "word": "券商和半导体股或成A股首选",
+      "onboard_time": 1728269657,
+      "rank": 48,
+      "category": "财经"
+    },
+    {
       "raw_hot": 105945,
       "num": 181503,
       "word": "港股国庆期间暴涨",
@@ -3105,6 +3257,14 @@
       "onboard_time": 1728178337,
       "rank": 45,
       "category": "数码"
+    },
+    {
+      "raw_hot": 101735,
+      "num": 148797,
+      "word": "本轮牛市能持续多久",
+      "onboard_time": 1728267678,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 101195,
@@ -3451,6 +3611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 62125,
+      "num": 274951,
+      "word": "假期新开户的股民明天还不能交易",
+      "onboard_time": 1728268217,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 60423,
       "num": 60423,
       "word": "尚雯婕茜拉合唱默",
@@ -3537,6 +3705,14 @@
       "onboard_time": 1728137420,
       "rank": 42,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 55568,
+      "num": 276288,
+      "word": "中芯国际涨逾18%",
+      "onboard_time": 1728267618,
+      "rank": 9,
+      "category": "财经"
     },
     {
       "raw_hot": 55478,

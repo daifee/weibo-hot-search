@@ -1,0 +1,410 @@
+{
+  "runTime": 1728269799304,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 877183,
+        "num": 1140349,
+        "word": "您已度过2024所有法定节假日",
+        "onboard_time": 1728262518,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 379988,
+        "num": 379988,
+        "word": "75年来中国人均预期寿命翻了一倍多",
+        "onboard_time": 1728266778,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21713,
+        "num": 376452,
+        "word": "每一次与国旗同框都倍感骄傲",
+        "onboard_time": 1728218903,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 375668,
+        "num": 375668,
+        "word": "港股",
+        "onboard_time": 1728265818,
+        "rank": 3,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 353938,
+        "num": 353938,
+        "word": "人人人人返程人人人人",
+        "onboard_time": 1728221238,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 353807,
+        "num": 353807,
+        "word": "山西大同3.1级地震",
+        "onboard_time": 1728266419,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 277014,
+        "num": 277014,
+        "word": "国乒有属于自己的梁王",
+        "onboard_time": 1728264258,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157898,
+        "num": 276738,
+        "word": "国庆假期运输期间12306已卖出1.55亿张车票",
+        "onboard_time": 1728267199,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 65265,
+        "num": 276618,
+        "word": "志愿军存亡之战进入2024票房榜前十",
+        "onboard_time": 1728229039,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 55568,
+        "num": 276288,
+        "word": "中芯国际涨逾18%",
+        "onboard_time": 1728267618,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1324966,
+        "num": 276082,
+        "word": "孙莉跳舞",
+        "onboard_time": 1728266900,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 910213,
+        "num": 275573,
+        "word": "何炅情商",
+        "onboard_time": 1728267139,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 665876,
+        "num": 275356,
+        "word": "网传加18万彩礼事件双方已和解",
+        "onboard_time": 1728265758,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 62125,
+        "num": 274951,
+        "word": "假期新开户的股民明天还不能交易",
+        "onboard_time": 1728268217,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 525814,
+        "num": 274826,
+        "word": "8人被终身禁入稻城亚丁景区",
+        "onboard_time": 1728226943,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 343973,
+        "num": 274508,
+        "word": "以军48小时轰炸多处房屋学校安置中心",
+        "onboard_time": 1728263536,
+        "rank": 15,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 331996,
+        "num": 273956,
+        "word": "易烊千玺朋友请听好后续",
+        "onboard_time": 1728265399,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 288752,
+        "num": 273907,
+        "word": "中企车队在巴遇袭致中方人员2死1伤",
+        "onboard_time": 1728258676,
+        "rank": 17,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 273633,
+        "num": 273633,
+        "word": "钱天一晒和马龙合影",
+        "onboard_time": 1728265758,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 217673,
+        "num": 217673,
+        "word": "男子买二手车回家后原车主远程锁车",
+        "onboard_time": 1728269298,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214905,
+        "num": 214905,
+        "word": "结婚彩礼该不该直接给新娘",
+        "onboard_time": 1728268937,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203097,
+        "num": 203097,
+        "word": "下次见面可能是2025年了",
+        "onboard_time": 1728264378,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 200174,
+        "num": 200174,
+        "word": "马龙国际比赛最后一舞",
+        "onboard_time": 1728269778,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 194157,
+        "num": 194157,
+        "word": "女博主独闯哀牢山深处2天后报平安",
+        "onboard_time": 1728229759,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139165,
+        "num": 182907,
+        "word": "车车车车收费站车车车车",
+        "onboard_time": 1728269118,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182066,
+        "num": 182066,
+        "word": "檀健次坐飞机迟到被点名",
+        "onboard_time": 1728228199,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170338,
+        "num": 170338,
+        "word": "陈飞宇演技",
+        "onboard_time": 1728267678,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 166356,
+        "num": 166356,
+        "word": "入职几月怀孕拒绝调薪调岗被辞退",
+        "onboard_time": 1728217399,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151433,
+        "num": 165001,
+        "word": "他们在垃圾堆里淘宝式找出多件文物",
+        "onboard_time": 1728244212,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164837,
+        "num": 164837,
+        "word": "雇了两个男大陪爬泰山",
+        "onboard_time": 1728257417,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 155299,
+        "num": 155299,
+        "word": "林诗栋孙颖莎首钢园拍摄冠军照",
+        "onboard_time": 1728264800,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 151159,
+        "num": 151159,
+        "word": "詹姆斯布朗尼同场竞技",
+        "onboard_time": 1728269718,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 149317,
+        "num": 149317,
+        "word": "Coldplay抢票",
+        "onboard_time": 1728268279,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 101735,
+        "num": 148797,
+        "word": "本轮牛市能持续多久",
+        "onboard_time": 1728267678,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148464,
+        "num": 148464,
+        "word": "家里装不进包外面掏不出猫",
+        "onboard_time": 1728267918,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 144226,
+        "num": 144226,
+        "word": "Keria说LCK比LPL更强",
+        "onboard_time": 1728268338,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 141390,
+        "num": 141390,
+        "word": "王楚钦和马琳儿子分享零食",
+        "onboard_time": 1728257535,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140045,
+        "num": 140045,
+        "word": "观众把彭昱畅叫成彭于晏",
+        "onboard_time": 1728261678,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 138236,
+        "num": 138236,
+        "word": "太阳vs湖人",
+        "onboard_time": 1728267497,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136006,
+        "num": 136006,
+        "word": "国庆返程高峰直播",
+        "onboard_time": 1728268458,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133018,
+        "num": 133018,
+        "word": "孙颖莎夺冠后说很开心很充实",
+        "onboard_time": 1728268458,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128229,
+        "num": 128229,
+        "word": "日本一动物园饲养员长期偷动物蔬果",
+        "onboard_time": 1728257417,
+        "rank": 41,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 120095,
+        "num": 120095,
+        "word": "放弃型人格",
+        "onboard_time": 1728257417,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 119818,
+        "num": 119818,
+        "word": "高盛上调中国股市至超配",
+        "onboard_time": 1728268878,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 118534,
+        "num": 118534,
+        "word": "张艺兴费加罗十月封面",
+        "onboard_time": 1728268158,
+        "rank": 44,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 111120,
+        "num": 111120,
+        "word": "S14瑞士轮第四轮抽签",
+        "onboard_time": 1728258854,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 108724,
+        "num": 108724,
+        "word": "江苏蟹黄面一吃一个不吱声",
+        "onboard_time": 1728256874,
+        "rank": 46,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 106762,
+        "num": 106762,
+        "word": "田曦薇cos玛蒂尔达",
+        "onboard_time": 1728231497,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106169,
+        "num": 106169,
+        "word": "券商和半导体股或成A股首选",
+        "onboard_time": 1728269657,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 101265,
+        "num": 101265,
+        "word": "林诗栋请全场把掌声送给马龙",
+        "onboard_time": 1728223699,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动文化和旅游融合发展#"
+    }
+  }
+}
