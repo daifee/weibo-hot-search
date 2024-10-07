@@ -1,0 +1,410 @@
+{
+  "runTime": 1728271787771,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 677340,
+        "num": 1108374,
+        "word": "您已度过2024所有法定节假日",
+        "onboard_time": 1728262518,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 406123,
+        "num": 406123,
+        "word": "75年来中国人均预期寿命翻了一倍多",
+        "onboard_time": 1728266778,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 15547,
+        "num": 375027,
+        "word": "每一次与国旗同框都倍感骄傲",
+        "onboard_time": 1728218903,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 546074,
+        "num": 367965,
+        "word": "马龙国际比赛最后一舞",
+        "onboard_time": 1728269778,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 355839,
+        "num": 355839,
+        "word": "港股",
+        "onboard_time": 1728265818,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 325336,
+        "num": 325336,
+        "word": "人人人人返程人人人人",
+        "onboard_time": 1728221238,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247132,
+        "num": 247132,
+        "word": "本轮牛市能持续多久",
+        "onboard_time": 1728267678,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 52703,
+        "num": 247010,
+        "word": "志愿军存亡之战进入2024票房榜前十",
+        "onboard_time": 1728229039,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 93883,
+        "num": 247000,
+        "word": "古代水壶自带喔喔喔音效",
+        "onboard_time": 1728271278,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 74336,
+        "num": 246810,
+        "word": "北上资金量成倍增长",
+        "onboard_time": 1728271638,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1180850,
+        "num": 246715,
+        "word": "孙莉跳舞",
+        "onboard_time": 1728266900,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 246607,
+        "num": 246607,
+        "word": "山西大同3.1级地震",
+        "onboard_time": 1728266419,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1112820,
+        "num": 246114,
+        "word": "男子买二手车回家后原车主远程锁车",
+        "onboard_time": 1728269298,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 938001,
+        "num": 244714,
+        "word": "何炅情商",
+        "onboard_time": 1728267139,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 702617,
+        "num": 243699,
+        "word": "网传加18万彩礼事件双方已和解",
+        "onboard_time": 1728265758,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 507048,
+        "num": 242984,
+        "word": "结婚彩礼该不该直接给新娘",
+        "onboard_time": 1728268937,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 484829,
+        "num": 241780,
+        "word": "8人被终身禁入稻城亚丁景区",
+        "onboard_time": 1728226943,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 439775,
+        "num": 240601,
+        "word": "莎头出发亚锦赛",
+        "onboard_time": 1728270139,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 313108,
+        "num": 239945,
+        "word": "易烊千玺朋友请听好后续",
+        "onboard_time": 1728265399,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 239094,
+        "num": 239094,
+        "word": "以军48小时轰炸多处房屋学校安置中心",
+        "onboard_time": 1728263536,
+        "rank": 19,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 220260,
+        "num": 220260,
+        "word": "中企车队在巴遇袭致中方人员2死1伤",
+        "onboard_time": 1728258676,
+        "rank": 20,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 216310,
+        "num": 216310,
+        "word": "詹姆斯布朗尼同场竞技",
+        "onboard_time": 1728269718,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 208924,
+        "num": 208924,
+        "word": "国乒有属于自己的梁王",
+        "onboard_time": 1728264258,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 185427,
+        "num": 185427,
+        "word": "下次见面可能是2025年了",
+        "onboard_time": 1728264378,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 180912,
+        "num": 180912,
+        "word": "檀健次坐飞机迟到被点名",
+        "onboard_time": 1728228199,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167161,
+        "num": 167161,
+        "word": "国庆假期运输期间12306已卖出1.55亿张车票",
+        "onboard_time": 1728267199,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164879,
+        "num": 164879,
+        "word": "车车车车收费站车车车车",
+        "onboard_time": 1728269118,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160056,
+        "num": 160056,
+        "word": "钱天一晒和马龙合影",
+        "onboard_time": 1728265758,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157400,
+        "num": 157400,
+        "word": "女博主独闯哀牢山深处2天后报平安",
+        "onboard_time": 1728229759,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148466,
+        "num": 148466,
+        "word": "陈飞宇演技",
+        "onboard_time": 1728267678,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 370186,
+        "num": 147090,
+        "word": "国际法院宣布以色列为非法国家",
+        "onboard_time": 1728270978,
+        "rank": 30,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 278083,
+        "num": 144394,
+        "word": "Uzi谈BLG不敌T1",
+        "onboard_time": 1728270257,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 216207,
+        "num": 142840,
+        "word": "以色列发生恐袭案19岁女警身亡",
+        "onboard_time": 1728270679,
+        "rank": 32,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 138571,
+        "num": 138571,
+        "word": "假期新开户的股民明天还不能交易",
+        "onboard_time": 1728268217,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136901,
+        "num": 136901,
+        "word": "国乒出征亚锦赛",
+        "onboard_time": 1728270378,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136399,
+        "num": 136399,
+        "word": "Keria说LCK比LPL更强",
+        "onboard_time": 1728268338,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 134260,
+        "num": 134260,
+        "word": "孙颖莎夺冠后说很开心很充实",
+        "onboard_time": 1728268458,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133198,
+        "num": 133198,
+        "word": "家里装不进包外面掏不出猫",
+        "onboard_time": 1728267918,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 130170,
+        "num": 130170,
+        "word": "放弃型人格",
+        "onboard_time": 1728257417,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 129797,
+        "num": 129797,
+        "word": "Coldplay抢票",
+        "onboard_time": 1728268279,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 129206,
+        "num": 129206,
+        "word": "美国特工掀起大规模离职潮",
+        "onboard_time": 1728271398,
+        "rank": 40,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 127110,
+        "num": 127110,
+        "word": "入职几月怀孕拒绝调薪调岗被辞退",
+        "onboard_time": 1728217399,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125876,
+        "num": 125876,
+        "word": "哀牢山未开发区域",
+        "onboard_time": 1728270737,
+        "rank": 42,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 124029,
+        "num": 124029,
+        "word": "观众把彭昱畅叫成彭于晏",
+        "onboard_time": 1728261678,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 121280,
+        "num": 121280,
+        "word": "aespa将发行个人单曲",
+        "onboard_time": 1728271757,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 111683,
+        "num": 111683,
+        "word": "日本一动物园饲养员长期偷动物蔬果",
+        "onboard_time": 1728257417,
+        "rank": 45,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 109809,
+        "num": 109809,
+        "word": "以色列",
+        "onboard_time": 1728258495,
+        "rank": 46,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 101111,
+        "num": 101111,
+        "word": "太阳vs湖人",
+        "onboard_time": 1728267497,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 101065,
+        "num": 101065,
+        "word": "雇了两个男大陪爬泰山",
+        "onboard_time": 1728257417,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 100514,
+        "num": 100514,
+        "word": "上交所宣布加时5分钟有何作用",
+        "onboard_time": 1728271697,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动文化和旅游融合发展#"
+    }
+  }
+}

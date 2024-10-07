@@ -1,6 +1,6 @@
 {
   "startTime": 1728145573126,
-  "endTime": 1728270352691,
+  "endTime": 1728271787771,
   "band_list": [
     {
       "raw_hot": 8274483,
@@ -195,6 +195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1112820,
+      "num": 278208,
+      "word": "男子买二手车回家后原车主远程锁车",
+      "onboard_time": 1728269298,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1051166,
       "num": 1051166,
       "word": "房产销售的嗓子已经冒烟了",
@@ -275,6 +283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 938001,
+      "num": 280741,
+      "word": "何炅情商",
+      "onboard_time": 1728267139,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 930101,
       "num": 1145465,
       "word": "林诗栋请全场把掌声送给马龙",
@@ -289,14 +305,6 @@
       "onboard_time": 1728229759,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 913002,
-      "num": 280741,
-      "word": "何炅情商",
-      "onboard_time": 1728267139,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 846741,
@@ -627,6 +635,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 546074,
+      "num": 367965,
+      "word": "马龙国际比赛最后一舞",
+      "onboard_time": 1728269778,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 544202,
       "num": 1077719,
       "word": "专家预测A股开盘即收盘",
@@ -657,6 +673,14 @@
       "onboard_time": 1728189018,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 507048,
+      "num": 275923,
+      "word": "结婚彩礼该不该直接给新娘",
+      "onboard_time": 1728268937,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 503211,
@@ -747,20 +771,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 463339,
-      "num": 278208,
-      "word": "男子买二手车回家后原车主远程锁车",
-      "onboard_time": 1728269298,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 450887,
       "num": 450887,
       "word": "因狗结缘成为朋友因狗生病反目",
       "onboard_time": 1728178758,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 439775,
+      "num": 240601,
+      "word": "莎头出发亚锦赛",
+      "onboard_time": 1728270139,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 439253,
@@ -1011,6 +1035,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 370186,
+      "num": 147090,
+      "word": "国际法院宣布以色列为非法国家",
+      "onboard_time": 1728270978,
+      "rank": 30,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 369001,
       "num": 369001,
       "word": "撤黎台湾同胞称祖国就是中国",
@@ -1179,14 +1211,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 312699,
-      "num": 275923,
-      "word": "结婚彩礼该不该直接给新娘",
-      "onboard_time": 1728268937,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 311795,
       "num": 311795,
       "word": "黑神话取景地灵岩寺现巨型悟空",
@@ -1307,20 +1331,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 278083,
+      "num": 144394,
+      "word": "Uzi谈BLG不敌T1",
+      "onboard_time": 1728270257,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 276607,
       "num": 487652,
       "word": "台湾小伙痴迷文物来大陆学考古",
       "onboard_time": 1728213021,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 274725,
-      "num": 274725,
-      "word": "马龙国际比赛最后一舞",
-      "onboard_time": 1728269778,
-      "rank": 22,
-      "category": "体育"
     },
     {
       "raw_hot": 273633,
@@ -1449,6 +1473,14 @@
       "onboard_time": 1728174496,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 247132,
+      "num": 247132,
+      "word": "本轮牛市能持续多久",
+      "onboard_time": 1728267678,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 245650,
@@ -1633,6 +1665,22 @@
       "onboard_time": 1728214641,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 216310,
+      "num": 216310,
+      "word": "詹姆斯布朗尼同场竞技",
+      "onboard_time": 1728269718,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 216207,
+      "num": 142840,
+      "word": "以色列发生恐袭案19岁女警身亡",
+      "onboard_time": 1728270679,
+      "rank": 32,
+      "category": "国外时政"
     },
     {
       "raw_hot": 215253,
@@ -2139,6 +2187,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 164879,
+      "num": 283606,
+      "word": "车车车车收费站车车车车",
+      "onboard_time": 1728269118,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 164472,
       "num": 253163,
       "word": "92岁抗美援朝女兵实弹打靶10发97环",
@@ -2177,14 +2233,6 @@
       "onboard_time": 1728217399,
       "rank": 42,
       "category": "综艺,电竞"
-    },
-    {
-      "raw_hot": 160870,
-      "num": 160870,
-      "word": "本轮牛市能持续多久",
-      "onboard_time": 1728267678,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 160723,
@@ -2379,14 +2427,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 151159,
-      "num": 151159,
-      "word": "詹姆斯布朗尼同场竞技",
-      "onboard_time": 1728269718,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 150967,
       "num": 150967,
       "word": "上海不愧是大名鼎鼎的魔都",
@@ -2497,14 +2537,6 @@
       "onboard_time": 1728190639,
       "rank": 37,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 145970,
-      "num": 145970,
-      "word": "莎头出发亚锦赛",
-      "onboard_time": 1728270139,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 145959,
@@ -2619,11 +2651,11 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 139165,
-      "num": 283606,
-      "word": "车车车车收费站车车车车",
-      "onboard_time": 1728269118,
-      "rank": 24,
+      "raw_hot": 138571,
+      "num": 274951,
+      "word": "假期新开户的股民明天还不能交易",
+      "onboard_time": 1728268217,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -2640,6 +2672,14 @@
       "word": "太阳vs湖人",
       "onboard_time": 1728267497,
       "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 136901,
+      "num": 136901,
+      "word": "国乒出征亚锦赛",
+      "onboard_time": 1728270378,
+      "rank": 34,
       "category": "体育"
     },
     {
@@ -2779,6 +2819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 129206,
+      "num": 129206,
+      "word": "美国特工掀起大规模离职潮",
+      "onboard_time": 1728271398,
+      "rank": 40,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 128953,
       "num": 128953,
       "word": "刘青松 MacT",
@@ -2825,6 +2873,14 @@
       "onboard_time": 1728182477,
       "rank": 44,
       "category": "数码"
+    },
+    {
+      "raw_hot": 125876,
+      "num": 125876,
+      "word": "哀牢山未开发区域",
+      "onboard_time": 1728270737,
+      "rank": 42,
+      "category": "旅游"
     },
     {
       "raw_hot": 125845,
@@ -2897,6 +2953,14 @@
       "onboard_time": 1728262458,
       "rank": 36,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 121280,
+      "num": 121280,
+      "word": "aespa将发行个人单曲",
+      "onboard_time": 1728271757,
+      "rank": 44,
+      "category": "音乐"
     },
     {
       "raw_hot": 121183,
@@ -3267,14 +3331,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 103817,
-      "num": 103817,
-      "word": "Uzi谈BLG不敌T1",
-      "onboard_time": 1728270257,
-      "rank": 48,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 103804,
       "num": 103804,
       "word": "当地回应新娘哥哥趴车头索要彩礼",
@@ -3319,6 +3375,14 @@
       "num": 100677,
       "word": "道一声晚安",
       "onboard_time": 1728231858,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 100514,
+      "num": 100514,
+      "word": "上交所宣布加时5分钟有何作用",
+      "onboard_time": 1728271697,
       "rank": 49,
       "category": "社会新闻"
     },
@@ -3401,6 +3465,14 @@
       "onboard_time": 1728137660,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 93883,
+      "num": 247000,
+      "word": "古代水壶自带喔喔喔音效",
+      "onboard_time": 1728271278,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 93752,
@@ -3491,14 +3563,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 82827,
-      "num": 274951,
-      "word": "假期新开户的股民明天还不能交易",
-      "onboard_time": 1728268217,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 82218,
       "num": 197239,
       "word": "盐田色彩斑斓如同打翻调色盘",
@@ -3553,6 +3617,14 @@
       "onboard_time": 1728142517,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 74336,
+      "num": 246810,
+      "word": "北上资金量成倍增长",
+      "onboard_time": 1728271638,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 72830,
