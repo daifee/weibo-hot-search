@@ -1,6 +1,6 @@
 {
   "startTime": 1728318463808,
-  "endTime": 1728326593255,
+  "endTime": 1728328675722,
   "band_list": [
     {
       "raw_hot": 745456,
@@ -507,11 +507,35 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 22596,
+      "num": 57908,
+      "word": "未来10天全国大部气温偏高",
+      "onboard_time": 1728324973,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 19392,
       "num": 135800,
       "word": "杭州这些场馆可免费寄存行李",
       "onboard_time": 1728322274,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 19361,
+      "num": 21896,
+      "word": "加沙城所到之处满目疮痍",
+      "onboard_time": 1728327672,
+      "rank": 48,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 18453,
+      "num": 31735,
+      "word": "因设备故障京广高铁部分列车晚点",
+      "onboard_time": 1728326412,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -523,19 +547,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 15549,
-      "num": 57908,
-      "word": "未来10天全国大部气温偏高",
-      "onboard_time": 1728324973,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 14453,
-      "num": 31735,
-      "word": "因设备故障京广高铁部分列车晚点",
-      "onboard_time": 1728326412,
-      "rank": 33,
+      "raw_hot": 13288,
+      "num": 40278,
+      "word": "感受玫瑰花开视觉盛宴",
+      "onboard_time": 1728327911,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
