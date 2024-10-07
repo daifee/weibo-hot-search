@@ -1,0 +1,410 @@
+{
+  "runTime": 1728318463808,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 351871,
+        "num": 843955,
+        "word": "广州南站6天捡1000张身份证",
+        "onboard_time": 1728308543,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166897,
+        "num": 839353,
+        "word": "苹果或将放弃一年一更新模式",
+        "onboard_time": 1728290903,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 3239,
+        "num": 832393,
+        "word": "文化中国行看绝壁上的博物馆",
+        "onboard_time": 1728305242,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157628,
+        "num": 821694,
+        "word": "高速免费通行结束",
+        "onboard_time": 1728308300,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150350,
+        "num": 808980,
+        "word": "贝聿铭的小女儿18岁啦",
+        "onboard_time": 1728303448,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143539,
+        "num": 795476,
+        "word": "再过85天就又能过元旦了",
+        "onboard_time": 1728309502,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134104,
+        "num": 778825,
+        "word": "亚锦赛分区",
+        "onboard_time": 1728310343,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 109702,
+        "num": 775155,
+        "word": "3岁男孩打乒乓球气势十足",
+        "onboard_time": 1728311363,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 58264,
+        "num": 763974,
+        "word": "志愿军存亡之战成国庆档票房冠军",
+        "onboard_time": 1728309862,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 58422,
+        "num": 750074,
+        "word": "国庆打卡地火出圈彰显满满文化自信",
+        "onboard_time": 1728316460,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 745456,
+        "num": 745456,
+        "word": "本科夫妻周末摆摊卖菜月入3000元",
+        "onboard_time": 1728307882,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 701635,
+        "num": 701635,
+        "word": "权志龙疑似扔了郎朗的签名专辑",
+        "onboard_time": 1728308721,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 583732,
+        "num": 583732,
+        "word": "李敏镐37岁的状态",
+        "onboard_time": 1728311363,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 566020,
+        "num": 566020,
+        "word": "恋综史上无法超越的一幕",
+        "onboard_time": 1728308962,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 507017,
+        "num": 507017,
+        "word": "博主擅闯哀牢山禁区已违法",
+        "onboard_time": 1728307222,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 477524,
+        "num": 477524,
+        "word": "aespa",
+        "onboard_time": 1728315558,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 465583,
+        "num": 465583,
+        "word": "许嵩 分手了没关系还有我",
+        "onboard_time": 1728302902,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 366905,
+        "num": 366905,
+        "word": "檀健次 求你们回头看看",
+        "onboard_time": 1728311962,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 284414,
+        "num": 284414,
+        "word": "女子深夜高速上突遇逆行车辆",
+        "onboard_time": 1728311843,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 283306,
+        "num": 283306,
+        "word": "还原8人被终身禁入亚丁景区始末",
+        "onboard_time": 1728309804,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 707249,
+        "num": 258205,
+        "word": "云南哀牢山连发三条公告",
+        "onboard_time": 1728300862,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177699,
+        "num": 177699,
+        "word": "成龙已经70岁了",
+        "onboard_time": 1728307882,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164546,
+        "num": 164546,
+        "word": "于适穿越北疆",
+        "onboard_time": 1728315020,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149476,
+        "num": 149476,
+        "word": "樊振东杂志",
+        "onboard_time": 1728305422,
+        "rank": 23,
+        "category": "体育,作品衍生"
+      },
+      {
+        "raw_hot": 149240,
+        "num": 149240,
+        "word": "伊朗总统说与其死在床上不如当殉道者",
+        "onboard_time": 1728307281,
+        "rank": 24,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 148240,
+        "num": 148240,
+        "word": "朱志鑫苏新皓双人练习花絮",
+        "onboard_time": 1728317299,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 132421,
+        "num": 132421,
+        "word": "王楚钦张本智和同处上半区",
+        "onboard_time": 1728311123,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 97724,
+        "num": 125414,
+        "word": "星空下科考队冲顶画面太燃了",
+        "onboard_time": 1728316519,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120076,
+        "num": 120076,
+        "word": "衢州发现传说中的四不像",
+        "onboard_time": 1728305303,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115793,
+        "num": 115793,
+        "word": "被爱着的人根本不需要积极表现",
+        "onboard_time": 1728312144,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 113444,
+        "num": 113444,
+        "word": "女生巧用保鲜膜快速包馄饨",
+        "onboard_time": 1728304224,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110253,
+        "num": 110253,
+        "word": "被婆家重视感觉真好",
+        "onboard_time": 1728315261,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 104319,
+        "num": 104319,
+        "word": "返校车厢里全是碎掉的大学生",
+        "onboard_time": 1728307160,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103709,
+        "num": 103709,
+        "word": "人均花3万年轻人爱上非洲游",
+        "onboard_time": 1728310642,
+        "rank": 33,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 100940,
+        "num": 100940,
+        "word": "夏目友人帐",
+        "onboard_time": 1728299483,
+        "rank": 34,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 96352,
+        "num": 96352,
+        "word": "男子连续4个月每天1箱饮料险失明",
+        "onboard_time": 1728290243,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 91421,
+        "num": 91421,
+        "word": "擅入哀牢山未开放区域最高罚款5000",
+        "onboard_time": 1728304523,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 87258,
+        "num": 87258,
+        "word": "救护车鸣笛送病重婴儿遇小车不让路",
+        "onboard_time": 1728309082,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 85723,
+        "num": 85723,
+        "word": "机构称A股节后或集中上涨",
+        "onboard_time": 1728306442,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 81434,
+        "num": 85722,
+        "word": "妈妈带着白化病女儿参加漫展",
+        "onboard_time": 1728300682,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 79123,
+        "num": 85719,
+        "word": "胡烨韬面试泰创2",
+        "onboard_time": 1728299903,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 75941,
+        "num": 85718,
+        "word": "武汉街头都是郑钦文照片",
+        "onboard_time": 1728315080,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 75489,
+        "num": 85718,
+        "word": "哀牢山小西天接住了泼天富贵",
+        "onboard_time": 1728308241,
+        "rank": 42,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 73846,
+        "num": 85714,
+        "word": "外交部回应中方车队在巴基斯坦遭恐袭",
+        "onboard_time": 1728302603,
+        "rank": 43,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 70034,
+        "num": 85712,
+        "word": "浙B3N922做完好事就悄悄离开了",
+        "onboard_time": 1728290722,
+        "rank": 44,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 65625,
+        "num": 85712,
+        "word": "芒果新签的男艺人",
+        "onboard_time": 1728283879,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 64976,
+        "num": 85709,
+        "word": "重庆八百八十八一份的毛血旺",
+        "onboard_time": 1728310402,
+        "rank": 46,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 62430,
+        "num": 85709,
+        "word": "韩国粉丝为张艺兴登报庆生",
+        "onboard_time": 1728302483,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 61267,
+        "num": 85705,
+        "word": "电影浴火之路国庆档亚军",
+        "onboard_time": 1728304283,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 58677,
+        "num": 85703,
+        "word": "何炅再度呼喊超女快女的名字",
+        "onboard_time": 1728294023,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#感悟总书记的传统文化情结#"
+    }
+  }
+}
