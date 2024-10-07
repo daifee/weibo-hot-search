@@ -1,0 +1,410 @@
+{
+  "runTime": 1728290622532,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1143743,
+        "num": 1182998,
+        "word": "王曼昱亚锦赛退赛",
+        "onboard_time": 1728290184,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 675388,
+        "num": 675388,
+        "word": "西湖新女警是16年前走丢的那个孩子",
+        "onboard_time": 1728283338,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 44111,
+        "num": 565252,
+        "word": "全国秋收近四成",
+        "onboard_time": 1728288982,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 550921,
+        "num": 550921,
+        "word": "大兴机场航站楼只用了17台空调",
+        "onboard_time": 1728286942,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 348645,
+        "num": 348645,
+        "word": "男大学生陪爬泰山情绪价值给满了",
+        "onboard_time": 1728279438,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97711,
+        "num": 309370,
+        "word": "国庆档票房超20亿",
+        "onboard_time": 1728285200,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 298246,
+        "num": 298246,
+        "word": "为什么假期一眨眼就结束了",
+        "onboard_time": 1728276858,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 273292,
+        "num": 273292,
+        "word": "我国首次截获黑脊红蚁",
+        "onboard_time": 1728281538,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244531,
+        "num": 244531,
+        "word": "荷兰老人送150多件中国文物回家",
+        "onboard_time": 1728287122,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133653,
+        "num": 239828,
+        "word": "隰县小西天发文致谢天命人",
+        "onboard_time": 1728281237,
+        "rank": 9,
+        "category": "社会新闻,游戏"
+      },
+      {
+        "raw_hot": 1080299,
+        "num": 234959,
+        "word": "翁青雅 我奉陪到底",
+        "onboard_time": 1728283518,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 608840,
+        "num": 227703,
+        "word": "Zzr被骚扰",
+        "onboard_time": 1728286641,
+        "rank": 11,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 356525,
+        "num": 227133,
+        "word": "潘玮柏评论区",
+        "onboard_time": 1728286160,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 259865,
+        "num": 221056,
+        "word": "吴昕在上海穿上了羽绒服",
+        "onboard_time": 1728285800,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 256809,
+        "num": 215449,
+        "word": "交警回应高速现钉子多车轮胎被扎",
+        "onboard_time": 1728285680,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209824,
+        "num": 209824,
+        "word": "男子连续4个月每天1箱饮料险失明",
+        "onboard_time": 1728290243,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207649,
+        "num": 207649,
+        "word": "假期结束剩奶奶独自在沙发打盹",
+        "onboard_time": 1728275899,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201205,
+        "num": 201205,
+        "word": "小车高速上倒车致多车追尾",
+        "onboard_time": 1728284479,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194004,
+        "num": 194004,
+        "word": "节后A股开市将怎么走",
+        "onboard_time": 1728274038,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 55954,
+        "num": 192967,
+        "word": "林依轮花式夸马龙",
+        "onboard_time": 1728290484,
+        "rank": 19,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 379349,
+        "num": 191325,
+        "word": "新买的宾利送人就医座椅被血染红",
+        "onboard_time": 1728278598,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 286553,
+        "num": 189519,
+        "word": "芒果新签的男艺人",
+        "onboard_time": 1728283879,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 265011,
+        "num": 188835,
+        "word": "孙颖莎说和王曼昱是良性竞争",
+        "onboard_time": 1728283698,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 234463,
+        "num": 186939,
+        "word": "河北美院的嘴可真严啊",
+        "onboard_time": 1728284420,
+        "rank": 23,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 185729,
+        "num": 185729,
+        "word": "苏新皓在大街上跳舞",
+        "onboard_time": 1728285560,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178636,
+        "num": 178636,
+        "word": "花学",
+        "onboard_time": 1728277818,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163776,
+        "num": 163776,
+        "word": "潘玮柏泡面",
+        "onboard_time": 1728287481,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160874,
+        "num": 160874,
+        "word": "结婚彩礼该不该直接给新娘",
+        "onboard_time": 1728268937,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159276,
+        "num": 159276,
+        "word": "男子买二手车回家后原车主远程锁车",
+        "onboard_time": 1728269298,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158763,
+        "num": 158763,
+        "word": "国庆返程堵和出发堵心情截然不同",
+        "onboard_time": 1728285742,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211246,
+        "num": 156320,
+        "word": "那是你可怜 我家不用",
+        "onboard_time": 1728288563,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 146380,
+        "num": 146380,
+        "word": "国庆假期就这么水灵灵结束了",
+        "onboard_time": 1728273558,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142316,
+        "num": 142316,
+        "word": "以大使称以色列对杀害平民毫无兴趣",
+        "onboard_time": 1728289222,
+        "rank": 32,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 140023,
+        "num": 140023,
+        "word": "我使馆要求彻查恐袭严惩凶手",
+        "onboard_time": 1728275119,
+        "rank": 33,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 127493,
+        "num": 127493,
+        "word": "张朝阳劝年轻人必须要自律",
+        "onboard_time": 1728279379,
+        "rank": 34,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 124306,
+        "num": 124306,
+        "word": "郑钦文奖金创生涯新高",
+        "onboard_time": 1728290484,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122793,
+        "num": 122793,
+        "word": "伊朗民众不担心爆发战争",
+        "onboard_time": 1728285861,
+        "rank": 36,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 118656,
+        "num": 118656,
+        "word": "雷军AI",
+        "onboard_time": 1728282258,
+        "rank": 37,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 117598,
+        "num": 117598,
+        "word": "00后也开户了",
+        "onboard_time": 1728287722,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 111051,
+        "num": 111051,
+        "word": "A股究竟是一波流还是牛市起点",
+        "onboard_time": 1728277639,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110974,
+        "num": 110974,
+        "word": "孙莉跳舞",
+        "onboard_time": 1728266900,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105683,
+        "num": 105683,
+        "word": "感觉好像看了一集日漫",
+        "onboard_time": 1728284059,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 101512,
+        "num": 101512,
+        "word": "彭高翁青雅一天约会两次",
+        "onboard_time": 1728287061,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98311,
+        "num": 98311,
+        "word": "周深演唱会谈PUA与内耗",
+        "onboard_time": 1728289703,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 96704,
+        "num": 96704,
+        "word": "舍不得星星报复性吻戏",
+        "onboard_time": 1728288322,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 93936,
+        "num": 93936,
+        "word": "盘前必看国庆利好消息",
+        "onboard_time": 1728290243,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23078,
+        "num": 86905,
+        "word": "节前7日重磅经济政策回顾",
+        "onboard_time": 1728288444,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 85846,
+        "num": 85846,
+        "word": "中秋国庆到过小西天可免费再游",
+        "onboard_time": 1728283338,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 85732,
+        "num": 85732,
+        "word": "本轮牛市能持续多久",
+        "onboard_time": 1728267678,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 84188,
+        "num": 84188,
+        "word": "国庆期间哀牢山共接待5万余游客",
+        "onboard_time": 1728282018,
+        "rank": 49,
+        "category": "旅游"
+      }
+    ],
+    "hotgov": {
+      "word": "#75秒看见人民共和国75年跨越#"
+    }
+  }
+}
