@@ -1,6 +1,6 @@
 {
   "startTime": 1728231932217,
-  "endTime": 1728278605376,
+  "endTime": 1728279636969,
   "band_list": [
     {
       "raw_hot": 1367280,
@@ -51,6 +51,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1062656,
+      "num": 1170025,
+      "word": "假期结束剩奶奶独自在沙发打盹",
+      "onboard_time": 1728275899,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 938001,
       "num": 280741,
       "word": "何炅情商",
@@ -64,14 +72,6 @@
       "word": "女博主独闯哀牢山深处2天后报平安",
       "onboard_time": 1728229759,
       "rank": 16,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 859443,
-      "num": 1137510,
-      "word": "假期结束剩奶奶独自在沙发打盹",
-      "onboard_time": 1728275899,
-      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -155,6 +155,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 470197,
+      "num": 223428,
+      "word": "加沙名胜古迹被彻底摧毁",
+      "onboard_time": 1728275599,
+      "rank": 36,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 456904,
       "num": 456904,
       "word": "林诗栋请全场把掌声送给马龙",
@@ -235,6 +243,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 375343,
+      "num": 223263,
+      "word": "花学",
+      "onboard_time": 1728277818,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 375078,
       "num": 224608,
       "word": "多车返程高速上轮胎被扎钉子",
@@ -265,6 +281,14 @@
       "onboard_time": 1728194778,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 349377,
+      "num": 349377,
+      "word": "我使馆要求彻查恐袭严惩凶手",
+      "onboard_time": 1728275119,
+      "rank": 30,
+      "category": "国外时政"
     },
     {
       "raw_hot": 348094,
@@ -339,14 +363,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 299863,
-      "num": 299863,
-      "word": "我使馆要求彻查恐袭严惩凶手",
-      "onboard_time": 1728275119,
-      "rank": 30,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 298925,
       "num": 222838,
       "word": "观众把彭昱畅叫成彭于晏",
@@ -379,20 +395,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 271016,
-      "num": 223428,
-      "word": "加沙名胜古迹被彻底摧毁",
-      "onboard_time": 1728275599,
-      "rank": 36,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 267872,
       "num": 181139,
       "word": "林诗栋孙颖莎首钢园拍摄冠军照",
       "onboard_time": 1728264800,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 267766,
+      "num": 267766,
+      "word": "国庆假期就这么水灵灵结束了",
+      "onboard_time": 1728273558,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 265368,
@@ -427,14 +443,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 244525,
-      "num": 244525,
-      "word": "国庆假期就这么水灵灵结束了",
-      "onboard_time": 1728273558,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 237812,
       "num": 237812,
       "word": "詹姆斯布朗尼同场竞技",
@@ -449,14 +457,6 @@
       "onboard_time": 1728270679,
       "rank": 32,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 223263,
-      "num": 223263,
-      "word": "花学",
-      "onboard_time": 1728277818,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 219743,
@@ -489,6 +489,14 @@
       "onboard_time": 1728264378,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 203137,
+      "num": 162127,
+      "word": "翁青雅彭高一起放烟花",
+      "onboard_time": 1728279318,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 200611,
@@ -595,12 +603,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 163459,
+      "num": 163459,
+      "word": "为什么假期一眨眼就结束了",
+      "onboard_time": 1728276858,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 162437,
       "num": 194193,
       "word": "A股测试",
       "onboard_time": 1728273319,
       "rank": 26,
       "category": "财经"
+    },
+    {
+      "raw_hot": 161969,
+      "num": 161969,
+      "word": "新买的宾利送人就医座椅被血染红",
+      "onboard_time": 1728278598,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 161853,
@@ -667,12 +691,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 151548,
+      "num": 151548,
+      "word": "马龙下个赛场见",
+      "onboard_time": 1728275779,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 150605,
       "num": 150605,
       "word": "妈妈朋友的儿子大结局",
       "onboard_time": 1728228918,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 149757,
+      "num": 149757,
+      "word": "张朝阳回应年轻人戒断手机",
+      "onboard_time": 1728279379,
+      "rank": 27,
+      "category": "互联网"
     },
     {
       "raw_hot": 149317,
@@ -739,6 +779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 142616,
+      "num": 223398,
+      "word": "节后A股开市将怎么走",
+      "onboard_time": 1728274038,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 141360,
       "num": 141360,
       "word": "哀牢山未开发区域",
@@ -753,14 +801,6 @@
       "onboard_time": 1728257417,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 140302,
-      "num": 140302,
-      "word": "为什么假期一眨眼就结束了",
-      "onboard_time": 1728276858,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 139549,
@@ -819,14 +859,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 134881,
-      "num": 134881,
-      "word": "马龙下个赛场见",
-      "onboard_time": 1728275779,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
       "raw_hot": 134698,
       "num": 134698,
       "word": "本周狗屎运最旺的星座",
@@ -857,6 +889,14 @@
       "onboard_time": 1728212360,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 134063,
+      "num": 134063,
+      "word": "张朝阳劝年轻人必须要自律",
+      "onboard_time": 1728279379,
+      "rank": 33,
+      "category": "互联网"
     },
     {
       "raw_hot": 131743,
@@ -899,6 +939,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 128280,
+      "num": 128280,
+      "word": "我国庆7天假期belike",
+      "onboard_time": 1728277759,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 128048,
       "num": 250532,
       "word": "上交所宣布加时5分钟有何作用",
@@ -921,6 +969,14 @@
       "onboard_time": 1728213682,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 125875,
+      "num": 125875,
+      "word": "网友冰岛偶遇沈梦辰",
+      "onboard_time": 1728279498,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 125185,
@@ -1035,20 +1091,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 112545,
+      "num": 301995,
+      "word": "大数据看国庆假期消费活力",
+      "onboard_time": 1728276619,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 112070,
       "num": 112070,
       "word": "一个动作缓解眼涩",
       "onboard_time": 1728275719,
       "rank": 33,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 108521,
-      "num": 223398,
-      "word": "节后A股开市将怎么走",
-      "onboard_time": 1728274038,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 108004,
@@ -1147,14 +1203,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 92706,
-      "num": 92706,
-      "word": "我国庆7天假期belike",
-      "onboard_time": 1728277759,
-      "rank": 42,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 92571,
       "num": 252662,
       "word": "北上资金量成倍增长",
@@ -1171,8 +1219,16 @@
       "category": "艺人,游戏"
     },
     {
+      "raw_hot": 89703,
+      "num": 89703,
+      "word": "男大学生陪爬泰山情绪价值给满了",
+      "onboard_time": 1728279438,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 88200,
-      "num": 88200,
+      "num": 190190,
       "word": "专家建议普通投资者不要盲目追涨",
       "onboard_time": 1728278298,
       "rank": 43,
@@ -1201,14 +1257,6 @@
       "onboard_time": 1728272959,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 84029,
-      "num": 301995,
-      "word": "大数据看国庆假期消费活力",
-      "onboard_time": 1728276619,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 83932,
@@ -1259,6 +1307,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 75044,
+      "num": 224304,
+      "word": "人到中年生病都得安排在假期",
+      "onboard_time": 1728276798,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 71773,
       "num": 71773,
       "word": "KPL",
@@ -1272,6 +1328,14 @@
       "word": "男子3次吃附子3次中毒被抢救",
       "onboard_time": 1728249852,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 70281,
+      "num": 225066,
+      "word": "A股究竟是一波流还是牛市起点",
+      "onboard_time": 1728277639,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -1395,14 +1459,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 49214,
-      "num": 224304,
-      "word": "人到中年生病都得安排在假期",
-      "onboard_time": 1728276798,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 45823,
       "num": 45823,
       "word": "薛之谦 在那天回不去的路上",
@@ -1416,14 +1472,6 @@
       "word": "你现在开始穿长袖了吗",
       "onboard_time": 1728240073,
       "rank": 32,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 42143,
-      "num": 225066,
-      "word": "A股究竟是一波流还是牛市起点",
-      "onboard_time": 1728277639,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -1459,6 +1507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 34392,
+      "num": 149479,
+      "word": "陈哲远告别暗夜与黎明",
+      "onboard_time": 1728279618,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 33410,
       "num": 128935,
       "word": "92岁书画鉴定家与文物相伴70多年",
@@ -1472,6 +1528,22 @@
       "word": "每一次与国旗同框都倍感骄傲",
       "onboard_time": 1728218903,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 30944,
+      "num": 245151,
+      "word": "国庆假期看美丽中国宛如画卷",
+      "onboard_time": 1728276379,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 30284,
+      "num": 149357,
+      "word": "加沙战火为何蔓延至大半个中东",
+      "onboard_time": 1728279258,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -1489,14 +1561,6 @@
       "onboard_time": 1728230300,
       "rank": 47,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 29120,
-      "num": 245151,
-      "word": "国庆假期看美丽中国宛如画卷",
-      "onboard_time": 1728276379,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 28000,
@@ -1553,6 +1617,14 @@
       "onboard_time": 1728246851,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 17903,
+      "num": 162375,
+      "word": "749局武汉路演",
+      "onboard_time": 1728279140,
+      "rank": 21,
+      "category": "电影"
     },
     {
       "raw_hot": 16938,
