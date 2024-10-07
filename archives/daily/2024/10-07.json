@@ -1,6 +1,6 @@
 {
   "startTime": 1728231932217,
-  "endTime": 1728283525232,
+  "endTime": 1728285720067,
   "band_list": [
     {
       "raw_hot": 1367280,
@@ -131,6 +131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 643838,
+      "num": 213374,
+      "word": "翁青雅 我奉陪到底",
+      "onboard_time": 1728283518,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 622695,
       "num": 367965,
       "word": "马龙国际比赛最后一舞",
@@ -171,6 +179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 510387,
+      "num": 166878,
+      "word": "芒果新签的男艺人",
+      "onboard_time": 1728283879,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 503211,
       "num": 275276,
       "word": "以军48小时轰炸多处房屋学校安置中心",
@@ -193,6 +209,14 @@
       "onboard_time": 1728223699,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 454922,
+      "num": 454922,
+      "word": "男大学生陪爬泰山情绪价值给满了",
+      "onboard_time": 1728279438,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 447861,
@@ -371,14 +395,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 305368,
-      "num": 305368,
-      "word": "男大学生陪爬泰山情绪价值给满了",
-      "onboard_time": 1728279438,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 302163,
       "num": 165358,
       "word": "田曦薇cos玛蒂尔达",
@@ -491,6 +507,30 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 248029,
+      "num": 248029,
+      "word": "西湖新女警是16年前走丢的那个孩子",
+      "onboard_time": 1728283338,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 242985,
+      "num": 242985,
+      "word": "中秋国庆到过小西天可免费再游",
+      "onboard_time": 1728283338,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 239361,
+      "num": 266826,
+      "word": "节后A股开市将怎么走",
+      "onboard_time": 1728274038,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 237812,
       "num": 237812,
       "word": "詹姆斯布朗尼同场竞技",
@@ -555,20 +595,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 210841,
+      "num": 166045,
+      "word": "孙颖莎说和王曼昱是良性竞争",
+      "onboard_time": 1728283698,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 204676,
+      "num": 204676,
+      "word": "我国首次截获黑脊红蚁",
+      "onboard_time": 1728281538,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 204527,
       "num": 203097,
       "word": "下次见面可能是2025年了",
       "onboard_time": 1728264378,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 203636,
-      "num": 266826,
-      "word": "节后A股开市将怎么走",
-      "onboard_time": 1728274038,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 200611,
@@ -601,14 +649,6 @@
       "onboard_time": 1728220760,
       "rank": 34,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 183151,
-      "num": 183151,
-      "word": "我国首次截获黑脊红蚁",
-      "onboard_time": 1728281538,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 181744,
@@ -681,6 +721,14 @@
       "onboard_time": 1728281297,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 164980,
+      "num": 164980,
+      "word": "小车高速上倒车致多车追尾",
+      "onboard_time": 1728284479,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 164879,
@@ -851,6 +899,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 144835,
+      "num": 132150,
+      "word": "感觉好像看了一集日漫",
+      "onboard_time": 1728284059,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 144027,
       "num": 144027,
       "word": "马龙亚军",
@@ -971,6 +1027,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 131835,
+      "num": 131835,
+      "word": "苏新皓在大街上跳舞",
+      "onboard_time": 1728285560,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 131743,
       "num": 131743,
       "word": "龚俊玩伞路透",
@@ -1025,6 +1089,14 @@
       "onboard_time": 1728229039,
       "rank": 8,
       "category": "电影"
+    },
+    {
+      "raw_hot": 126684,
+      "num": 126684,
+      "word": "河北美院的嘴可真严啊",
+      "onboard_time": 1728284420,
+      "rank": 33,
+      "category": "旅游"
     },
     {
       "raw_hot": 126130,
@@ -1156,7 +1228,7 @@
     },
     {
       "raw_hot": 112545,
-      "num": 320857,
+      "num": 341024,
       "word": "大数据看国庆假期消费活力",
       "onboard_time": 1728276619,
       "rank": 2,
@@ -1195,11 +1267,27 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 107995,
+      "num": 107995,
+      "word": "高盛称资金从印度流向中国",
+      "onboard_time": 1728285502,
+      "rank": 35,
+      "category": "财经"
+    },
+    {
       "raw_hot": 107848,
       "num": 107848,
       "word": "国庆假期第6天你在干什么",
       "onboard_time": 1728225020,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 107346,
+      "num": 215762,
+      "word": "被滥用的减肥神药",
+      "onboard_time": 1728279919,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -1259,6 +1347,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 101430,
+      "num": 101430,
+      "word": "国庆期间哀牢山共接待5万余游客",
+      "onboard_time": 1728282018,
+      "rank": 48,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 100677,
       "num": 100677,
       "word": "道一声晚安",
@@ -1281,6 +1377,14 @@
       "onboard_time": 1728278298,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 96544,
+      "num": 96544,
+      "word": "詹姆斯儿子挖坑老子填",
+      "onboard_time": 1728285020,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 95590,
@@ -1307,11 +1411,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 92729,
-      "num": 215762,
-      "word": "被滥用的减肥神药",
-      "onboard_time": 1728279919,
-      "rank": 19,
+      "raw_hot": 92584,
+      "num": 248068,
+      "word": "机构称市场行情将迎来大拐点",
+      "onboard_time": 1728281237,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -1323,12 +1427,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 90832,
-      "num": 248068,
-      "word": "机构称市场行情将迎来大拐点",
-      "onboard_time": 1728281237,
-      "rank": 8,
-      "category": "社会新闻"
+      "raw_hot": 90694,
+      "num": 168366,
+      "word": "国庆档票房超20亿",
+      "onboard_time": 1728285200,
+      "rank": 19,
+      "category": "电影"
     },
     {
       "raw_hot": 89911,
@@ -1355,12 +1459,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 84452,
-      "num": 84452,
-      "word": "西湖新女警是16年前走丢的那个孩子",
-      "onboard_time": 1728283338,
+      "raw_hot": 86660,
+      "num": 86660,
+      "word": "交警回应高速现钉子多车轮胎被扎",
+      "onboard_time": 1728285680,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 86102,
+      "num": 151355,
+      "word": "浴火之路彩蛋",
+      "onboard_time": 1728283398,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 84425,
@@ -1417,14 +1529,6 @@
       "onboard_time": 1728218241,
       "rank": 9,
       "category": "财经"
-    },
-    {
-      "raw_hot": 76132,
-      "num": 76132,
-      "word": "国庆期间哀牢山共接待5万余游客",
-      "onboard_time": 1728282018,
-      "rank": 48,
-      "category": "旅游"
     },
     {
       "raw_hot": 73266,
@@ -1489,14 +1593,6 @@
       "onboard_time": 1728233055,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 56487,
-      "num": 151355,
-      "word": "浴火之路彩蛋",
-      "onboard_time": 1728283398,
-      "rank": 29,
-      "category": "电影"
     },
     {
       "raw_hot": 55917,
@@ -1579,14 +1675,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 48243,
-      "num": 182933,
-      "word": "中秋国庆到过小西天可免费再游",
-      "onboard_time": 1728283338,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 45823,
       "num": 45823,
       "word": "薛之谦 在那天回不去的路上",
@@ -1624,6 +1712,14 @@
       "word": "人人人人景点人人人人",
       "onboard_time": 1728230718,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 38146,
+      "num": 212931,
+      "word": "心存敬畏别把禁区当景区",
+      "onboard_time": 1728285081,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -1736,6 +1832,14 @@
       "word": "网红打卡地出片安全提示",
       "onboard_time": 1728248291,
       "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 24475,
+      "num": 213545,
+      "word": "专家称A股决胜或在12月初",
+      "onboard_time": 1728284842,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
