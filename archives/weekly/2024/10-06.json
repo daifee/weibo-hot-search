@@ -1,6 +1,6 @@
 {
   "startTime": 1728145573126,
-  "endTime": 1728271787771,
+  "endTime": 1728272646243,
   "band_list": [
     {
       "raw_hot": 8274483,
@@ -193,6 +193,14 @@
       "onboard_time": 1728205279,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1130236,
+      "num": 251617,
+      "word": "国际法院宣布以色列为非法国家",
+      "onboard_time": 1728270978,
+      "rank": 30,
+      "category": "国外时政"
     },
     {
       "raw_hot": 1112820,
@@ -571,6 +579,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 622695,
+      "num": 367965,
+      "word": "马龙国际比赛最后一舞",
+      "onboard_time": 1728269778,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 620355,
       "num": 306949,
       "word": "鞠婧祎曾舜晞 画皮",
@@ -585,6 +601,14 @@
       "onboard_time": 1728213260,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 609006,
+      "num": 275923,
+      "word": "结婚彩礼该不该直接给新娘",
+      "onboard_time": 1728268937,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 604325,
@@ -635,14 +659,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 546074,
-      "num": 367965,
-      "word": "马龙国际比赛最后一舞",
-      "onboard_time": 1728269778,
-      "rank": 22,
-      "category": "体育"
-    },
-    {
       "raw_hot": 544202,
       "num": 1077719,
       "word": "专家预测A股开盘即收盘",
@@ -673,14 +689,6 @@
       "onboard_time": 1728189018,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 507048,
-      "num": 275923,
-      "word": "结婚彩礼该不该直接给新娘",
-      "onboard_time": 1728268937,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 503211,
@@ -779,8 +787,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 439775,
-      "num": 240601,
+      "raw_hot": 447861,
+      "num": 447861,
       "word": "莎头出发亚锦赛",
       "onboard_time": 1728270139,
       "rank": 32,
@@ -1035,14 +1043,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 370186,
-      "num": 147090,
-      "word": "国际法院宣布以色列为非法国家",
-      "onboard_time": 1728270978,
-      "rank": 30,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 369001,
       "num": 369001,
       "word": "撤黎台湾同胞称祖国就是中国",
@@ -1177,6 +1177,14 @@
       "onboard_time": 1728213682,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 328814,
+      "num": 328814,
+      "word": "本轮牛市能持续多久",
+      "onboard_time": 1728267678,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 323251,
@@ -1332,7 +1340,7 @@
     },
     {
       "raw_hot": 278083,
-      "num": 144394,
+      "num": 247964,
       "word": "Uzi谈BLG不敌T1",
       "onboard_time": 1728270257,
       "rank": 48,
@@ -1443,6 +1451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 253120,
+      "num": 253120,
+      "word": "美国特工掀起大规模离职潮",
+      "onboard_time": 1728271398,
+      "rank": 40,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 250936,
       "num": 250936,
       "word": "杨洋书生造型",
@@ -1475,20 +1491,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 247132,
-      "num": 247132,
-      "word": "本轮牛市能持续多久",
-      "onboard_time": 1728267678,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 245650,
       "num": 245650,
       "word": "TES对战FNC",
       "onboard_time": 1728218360,
       "rank": 35,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 245360,
+      "num": 245360,
+      "word": "aespa将发行个人单曲",
+      "onboard_time": 1728271757,
+      "rank": 44,
+      "category": "音乐"
     },
     {
       "raw_hot": 243146,
@@ -1569,6 +1585,14 @@
       "onboard_time": 1728184697,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 226266,
+      "num": 226266,
+      "word": "以色列发生恐袭案19岁女警身亡",
+      "onboard_time": 1728270679,
+      "rank": 32,
+      "category": "国外时政"
     },
     {
       "raw_hot": 225471,
@@ -1673,14 +1697,6 @@
       "onboard_time": 1728269718,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 216207,
-      "num": 142840,
-      "word": "以色列发生恐袭案19岁女警身亡",
-      "onboard_time": 1728270679,
-      "rank": 32,
-      "category": "国外时政"
     },
     {
       "raw_hot": 215253,
@@ -2105,6 +2121,14 @@
       "onboard_time": 1728220221,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 172939,
+      "num": 172939,
+      "word": "锦绣安宁预约",
+      "onboard_time": 1728271819,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 172760,
@@ -2603,6 +2627,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 141360,
+      "num": 141360,
+      "word": "哀牢山未开发区域",
+      "onboard_time": 1728270737,
+      "rank": 42,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 141291,
       "num": 141291,
       "word": "放弃型人格",
@@ -2819,14 +2851,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 129206,
-      "num": 129206,
-      "word": "美国特工掀起大规模离职潮",
-      "onboard_time": 1728271398,
-      "rank": 40,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 128953,
       "num": 128953,
       "word": "刘青松 MacT",
@@ -2873,14 +2897,6 @@
       "onboard_time": 1728182477,
       "rank": 44,
       "category": "数码"
-    },
-    {
-      "raw_hot": 125876,
-      "num": 125876,
-      "word": "哀牢山未开发区域",
-      "onboard_time": 1728270737,
-      "rank": 42,
-      "category": "旅游"
     },
     {
       "raw_hot": 125845,
@@ -2953,14 +2969,6 @@
       "onboard_time": 1728262458,
       "rank": 36,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 121280,
-      "num": 121280,
-      "word": "aespa将发行个人单曲",
-      "onboard_time": 1728271757,
-      "rank": 44,
-      "category": "音乐"
     },
     {
       "raw_hot": 121183,
@@ -3057,6 +3065,14 @@
       "onboard_time": 1728211280,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 114727,
+      "num": 114727,
+      "word": "Zeus夸赞Bin",
+      "onboard_time": 1728272418,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 114701,
@@ -3380,7 +3396,7 @@
     },
     {
       "raw_hot": 100514,
-      "num": 100514,
+      "num": 250532,
       "word": "上交所宣布加时5分钟有何作用",
       "onboard_time": 1728271697,
       "rank": 49,
@@ -3523,6 +3539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 88409,
+      "num": 252662,
+      "word": "北上资金量成倍增长",
+      "onboard_time": 1728271638,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 88031,
       "num": 302898,
       "word": "哀牢山擅闯保护区最高罚款5000元",
@@ -3617,14 +3641,6 @@
       "onboard_time": 1728142517,
       "rank": 49,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 74336,
-      "num": 246810,
-      "word": "北上资金量成倍增长",
-      "onboard_time": 1728271638,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 72830,

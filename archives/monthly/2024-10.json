@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1728271787771,
+  "endTime": 1728272646243,
   "band_list": [
     {
       "raw_hot": 11925969,
@@ -713,6 +713,14 @@
       "onboard_time": 1727836216,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1130236,
+      "num": 251617,
+      "word": "国际法院宣布以色列为非法国家",
+      "onboard_time": 1728270978,
+      "rank": 30,
+      "category": "国外时政"
     },
     {
       "raw_hot": 1130069,
@@ -2195,6 +2203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 622695,
+      "num": 367965,
+      "word": "马龙国际比赛最后一舞",
+      "onboard_time": 1728269778,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 622675,
       "num": 622675,
       "word": "当下买股票还是买房子",
@@ -2265,6 +2281,14 @@
       "onboard_time": 1728108139,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 609006,
+      "num": 275923,
+      "word": "结婚彩礼该不该直接给新娘",
+      "onboard_time": 1728268937,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 608309,
@@ -2643,14 +2667,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 546074,
-      "num": 367965,
-      "word": "马龙国际比赛最后一舞",
-      "onboard_time": 1728269778,
-      "rank": 22,
-      "category": "体育"
-    },
-    {
       "raw_hot": 545839,
       "num": 1087334,
       "word": "专家称期待已久的楼市银十回来了",
@@ -2912,14 +2928,6 @@
       "word": "这个中国女团太美太飒",
       "onboard_time": 1728010396,
       "rank": 34,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 507048,
-      "num": 275923,
-      "word": "结婚彩礼该不该直接给新娘",
-      "onboard_time": 1728268937,
-      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -3363,6 +3371,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 447861,
+      "num": 447861,
+      "word": "莎头出发亚锦赛",
+      "onboard_time": 1728270139,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 447677,
       "num": 399850,
       "word": "继业 既生专何生本",
@@ -3393,14 +3409,6 @@
       "onboard_time": 1728047539,
       "rank": 8,
       "category": "电影"
-    },
-    {
-      "raw_hot": 439775,
-      "num": 240601,
-      "word": "莎头出发亚锦赛",
-      "onboard_time": 1728270139,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 439282,
@@ -4051,14 +4059,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 370186,
-      "num": 147090,
-      "word": "国际法院宣布以色列为非法国家",
-      "onboard_time": 1728270978,
-      "rank": 30,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 369496,
       "num": 360281,
       "word": "赵露思10月行程图",
@@ -4545,6 +4545,14 @@
       "onboard_time": 1727826076,
       "rank": 21,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 328814,
+      "num": 328814,
+      "word": "本轮牛市能持续多久",
+      "onboard_time": 1728267678,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 328709,
@@ -5436,7 +5444,7 @@
     },
     {
       "raw_hot": 278083,
-      "num": 144394,
+      "num": 247964,
       "word": "Uzi谈BLG不敌T1",
       "onboard_time": 1728270257,
       "rank": 48,
@@ -6011,6 +6019,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 253120,
+      "num": 253120,
+      "word": "美国特工掀起大规模离职潮",
+      "onboard_time": 1728271398,
+      "rank": 40,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 252419,
       "num": 404726,
       "word": "马龙晋级男单16强",
@@ -6139,14 +6155,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 247132,
-      "num": 247132,
-      "word": "本轮牛市能持续多久",
-      "onboard_time": 1728267678,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 246689,
       "num": 208278,
       "word": "何卓佳11比1",
@@ -6193,6 +6201,14 @@
       "onboard_time": 1727708121,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 245360,
+      "num": 245360,
+      "word": "aespa将发行个人单曲",
+      "onboard_time": 1728271757,
+      "rank": 44,
+      "category": "音乐"
     },
     {
       "raw_hot": 245289,
@@ -6715,6 +6731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 226266,
+      "num": 226266,
+      "word": "以色列发生恐袭案19岁女警身亡",
+      "onboard_time": 1728270679,
+      "rank": 32,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 225800,
       "num": 225800,
       "word": "马龙再现东方魔法",
@@ -7105,14 +7129,6 @@
       "onboard_time": 1727792540,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 216207,
-      "num": 142840,
-      "word": "以色列发生恐袭案19岁女警身亡",
-      "onboard_time": 1728270679,
-      "rank": 32,
-      "category": "国外时政"
     },
     {
       "raw_hot": 216182,
@@ -9339,6 +9355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 172939,
+      "num": 172939,
+      "word": "锦绣安宁预约",
+      "onboard_time": 1728271819,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 172920,
       "num": 172920,
       "word": "真主党领导人身亡前同意停火",
@@ -11403,6 +11427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 141360,
+      "num": 141360,
+      "word": "哀牢山未开发区域",
+      "onboard_time": 1728270737,
+      "rank": 42,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 141353,
       "num": 141353,
       "word": "先天法医圣体的小朋友",
@@ -12595,14 +12627,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 129206,
-      "num": 129206,
-      "word": "美国特工掀起大规模离职潮",
-      "onboard_time": 1728271398,
-      "rank": 40,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 129154,
       "num": 129154,
       "word": "王鹤棣hi6cos孙悟空",
@@ -12897,14 +12921,6 @@
       "onboard_time": 1727860938,
       "rank": 46,
       "category": "电影"
-    },
-    {
-      "raw_hot": 125876,
-      "num": 125876,
-      "word": "哀牢山未开发区域",
-      "onboard_time": 1728270737,
-      "rank": 42,
-      "category": "旅游"
     },
     {
       "raw_hot": 125845,
@@ -13209,14 +13225,6 @@
       "onboard_time": 1728262458,
       "rank": 36,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 121280,
-      "num": 121280,
-      "word": "aespa将发行个人单曲",
-      "onboard_time": 1728271757,
-      "rank": 44,
-      "category": "音乐"
     },
     {
       "raw_hot": 121183,
@@ -13849,6 +13857,14 @@
       "onboard_time": 1727789485,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 114727,
+      "num": 114727,
+      "word": "Zeus夸赞Bin",
+      "onboard_time": 1728272418,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 114723,
@@ -15156,7 +15172,7 @@
     },
     {
       "raw_hot": 100514,
-      "num": 100514,
+      "num": 250532,
       "word": "上交所宣布加时5分钟有何作用",
       "onboard_time": 1728271697,
       "rank": 49,
@@ -15875,6 +15891,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 88409,
+      "num": 252662,
+      "word": "北上资金量成倍增长",
+      "onboard_time": 1728271638,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 88033,
       "num": 88033,
       "word": "分手后爸爸给我写了一封信",
@@ -16488,14 +16512,6 @@
       "word": "爱祖国刻在中国人DNA里了",
       "onboard_time": 1727799138,
       "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 74336,
-      "num": 246810,
-      "word": "北上资金量成倍增长",
-      "onboard_time": 1728271638,
-      "rank": 9,
       "category": "社会新闻"
     },
     {

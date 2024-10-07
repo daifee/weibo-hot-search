@@ -1,6 +1,6 @@
 {
   "startTime": 1728231932217,
-  "endTime": 1728271787771,
+  "endTime": 1728272646243,
   "band_list": [
     {
       "raw_hot": 1367280,
@@ -33,6 +33,14 @@
       "onboard_time": 1728264318,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1130236,
+      "num": 251617,
+      "word": "国际法院宣布以色列为非法国家",
+      "onboard_time": 1728270978,
+      "rank": 30,
+      "category": "国外时政"
     },
     {
       "raw_hot": 1112820,
@@ -91,12 +99,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 622695,
+      "num": 367965,
+      "word": "马龙国际比赛最后一舞",
+      "onboard_time": 1728269778,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 622342,
       "num": 238738,
       "word": "黄磊炖豆角",
       "onboard_time": 1728208399,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 609006,
+      "num": 275923,
+      "word": "结婚彩礼该不该直接给新娘",
+      "onboard_time": 1728268937,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 556928,
@@ -107,27 +131,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 546074,
-      "num": 367965,
-      "word": "马龙国际比赛最后一舞",
-      "onboard_time": 1728269778,
-      "rank": 22,
-      "category": "体育"
-    },
-    {
       "raw_hot": 533584,
       "num": 533584,
       "word": "人人人人返程人人人人",
       "onboard_time": 1728221238,
       "rank": 7,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 507048,
-      "num": 275923,
-      "word": "结婚彩礼该不该直接给新娘",
-      "onboard_time": 1728268937,
-      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -147,8 +155,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 439775,
-      "num": 240601,
+      "raw_hot": 447861,
+      "num": 447861,
       "word": "莎头出发亚锦赛",
       "onboard_time": 1728270139,
       "rank": 32,
@@ -219,14 +227,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 370186,
-      "num": 147090,
-      "word": "国际法院宣布以色列为非法国家",
-      "onboard_time": 1728270978,
-      "rank": 30,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 353807,
       "num": 353807,
       "word": "山西大同3.1级地震",
@@ -265,6 +265,14 @@
       "onboard_time": 1728228320,
       "rank": 18,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 328814,
+      "num": 328814,
+      "word": "本轮牛市能持续多久",
+      "onboard_time": 1728267678,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 324574,
@@ -308,7 +316,7 @@
     },
     {
       "raw_hot": 278083,
-      "num": 144394,
+      "num": 247964,
       "word": "Uzi谈BLG不敌T1",
       "onboard_time": 1728270257,
       "rank": 48,
@@ -355,12 +363,28 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 247132,
-      "num": 247132,
-      "word": "本轮牛市能持续多久",
-      "onboard_time": 1728267678,
-      "rank": 33,
-      "category": "社会新闻"
+      "raw_hot": 253120,
+      "num": 253120,
+      "word": "美国特工掀起大规模离职潮",
+      "onboard_time": 1728271398,
+      "rank": 40,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 245360,
+      "num": 245360,
+      "word": "aespa将发行个人单曲",
+      "onboard_time": 1728271757,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 226266,
+      "num": 226266,
+      "word": "以色列发生恐袭案19岁女警身亡",
+      "onboard_time": 1728270679,
+      "rank": 32,
+      "category": "国外时政"
     },
     {
       "raw_hot": 219743,
@@ -393,14 +417,6 @@
       "onboard_time": 1728269718,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 216207,
-      "num": 142840,
-      "word": "以色列发生恐袭案19岁女警身亡",
-      "onboard_time": 1728270679,
-      "rank": 32,
-      "category": "国外时政"
     },
     {
       "raw_hot": 204527,
@@ -481,6 +497,14 @@
       "onboard_time": 1728264258,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 172939,
+      "num": 172939,
+      "word": "锦绣安宁预约",
+      "onboard_time": 1728271819,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 172760,
@@ -619,6 +643,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 141360,
+      "num": 141360,
+      "word": "哀牢山未开发区域",
+      "onboard_time": 1728270737,
+      "rank": 42,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 141291,
       "num": 141291,
       "word": "放弃型人格",
@@ -731,14 +763,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 129206,
-      "num": 129206,
-      "word": "美国特工掀起大规模离职潮",
-      "onboard_time": 1728271398,
-      "rank": 40,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 128953,
       "num": 128953,
       "word": "刘青松 MacT",
@@ -771,14 +795,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 125876,
-      "num": 125876,
-      "word": "哀牢山未开发区域",
-      "onboard_time": 1728270737,
-      "rank": 42,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 125185,
       "num": 125185,
       "word": "赵露思挂脖露背裙",
@@ -809,14 +825,6 @@
       "onboard_time": 1728262458,
       "rank": 36,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 121280,
-      "num": 121280,
-      "word": "aespa将发行个人单曲",
-      "onboard_time": 1728271757,
-      "rank": 44,
-      "category": "音乐"
     },
     {
       "raw_hot": 119818,
@@ -856,6 +864,14 @@
       "word": "Bin",
       "onboard_time": 1728224419,
       "rank": 45,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 114727,
+      "num": 114727,
+      "word": "Zeus夸赞Bin",
+      "onboard_time": 1728272418,
+      "rank": 44,
       "category": "电竞"
     },
     {
@@ -956,7 +972,7 @@
     },
     {
       "raw_hot": 100514,
-      "num": 100514,
+      "num": 250532,
       "word": "上交所宣布加时5分钟有何作用",
       "onboard_time": 1728271697,
       "rank": 49,
@@ -987,20 +1003,20 @@
       "category": "艺人,游戏"
     },
     {
+      "raw_hot": 88409,
+      "num": 252662,
+      "word": "北上资金量成倍增长",
+      "onboard_time": 1728271638,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 77218,
       "num": 181734,
       "word": "股民担忧A股开盘第一天买不到",
       "onboard_time": 1728218241,
       "rank": 9,
       "category": "财经"
-    },
-    {
-      "raw_hot": 74336,
-      "num": 246810,
-      "word": "北上资金量成倍增长",
-      "onboard_time": 1728271638,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 71773,
@@ -1188,7 +1204,7 @@
     },
     {
       "raw_hot": 32937,
-      "num": 404576,
+      "num": 417176,
       "word": "每一次与国旗同框都倍感骄傲",
       "onboard_time": 1728218903,
       "rank": 2,
