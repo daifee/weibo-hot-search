@@ -1,6 +1,6 @@
 {
   "startTime": 1728145573126,
-  "endTime": 1728300061824,
+  "endTime": 1728300962120,
   "band_list": [
     {
       "raw_hot": 8274483,
@@ -788,7 +788,7 @@
     },
     {
       "raw_hot": 510387,
-      "num": 217804,
+      "num": 224076,
       "word": "芒果新签的男艺人",
       "onboard_time": 1728283879,
       "rank": 21,
@@ -843,11 +843,27 @@
       "category": "作品衍生,幽默"
     },
     {
+      "raw_hot": 496258,
+      "num": 496258,
+      "word": "浙B3N922做完好事就悄悄离开了",
+      "onboard_time": 1728290722,
+      "rank": 30,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 488790,
       "num": 409108,
       "word": "王楚钦球员见面会",
       "onboard_time": 1728209119,
       "rank": 17,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 481953,
+      "num": 157511,
+      "word": "邱贻可 下一站已出发",
+      "onboard_time": 1728300202,
+      "rank": 30,
       "category": "体育"
     },
     {
@@ -924,7 +940,7 @@
     },
     {
       "raw_hot": 442963,
-      "num": 143348,
+      "num": 184627,
       "word": "有点理解校领导为什么爱看跑操了",
       "onboard_time": 1728295342,
       "rank": 30,
@@ -1387,14 +1403,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 323682,
-      "num": 323682,
-      "word": "浙B3N922做完好事就悄悄离开了",
-      "onboard_time": 1728290722,
-      "rank": 30,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 323251,
       "num": 251139,
       "word": "哀牢山晚上会释放大量二氧化碳",
@@ -1497,6 +1505,14 @@
       "onboard_time": 1728218601,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 299564,
+      "num": 185803,
+      "word": "胡烨韬面试泰创2",
+      "onboard_time": 1728299903,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 298925,
@@ -1947,6 +1963,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 225632,
+      "num": 153537,
+      "word": "何浩畅晒照",
+      "onboard_time": 1728299423,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 225471,
       "num": 225471,
       "word": "马龙这一球赢得全场掌声",
@@ -2059,6 +2083,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 215920,
+      "num": 215920,
+      "word": "夏目友人帐",
+      "onboard_time": 1728299483,
+      "rank": 27,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 215253,
       "num": 215253,
       "word": "张雨绮复刻MaggieQ红裙造型",
@@ -2155,6 +2187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 205911,
+      "num": 205911,
+      "word": "鬼火少年集体炸街警方抓捕制止",
+      "onboard_time": 1728298882,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 205796,
       "num": 205796,
       "word": "一男子在白宫附近自焚",
@@ -2177,6 +2217,22 @@
       "onboard_time": 1728264378,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 204389,
+      "num": 266722,
+      "word": "已经开始盼元旦了",
+      "onboard_time": 1728296361,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 204159,
+      "num": 151199,
+      "word": "国乒申请陈幸同参加亚锦赛",
+      "onboard_time": 1728299541,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 204131,
@@ -2731,14 +2787,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 162893,
-      "num": 162893,
-      "word": "鬼火少年集体炸街警方抓捕制止",
-      "onboard_time": 1728298882,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 162437,
       "num": 194193,
       "word": "A股测试",
@@ -2793,6 +2841,22 @@
       "onboard_time": 1728180140,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 160290,
+      "num": 146605,
+      "word": "郑钦文返汉爸爸跟在身后为她背包",
+      "onboard_time": 1728300202,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 160242,
+      "num": 160242,
+      "word": "云南哀牢山连发三条公告",
+      "onboard_time": 1728300862,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 159920,
@@ -2867,14 +2931,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 156008,
-      "num": 136355,
-      "word": "何浩畅晒照",
-      "onboard_time": 1728299423,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 155767,
       "num": 155767,
       "word": "捡到有编制的猫了",
@@ -2939,14 +2995,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 153618,
-      "num": 153618,
-      "word": "夏目友人帐",
-      "onboard_time": 1728299483,
-      "rank": 27,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 153313,
       "num": 153313,
       "word": "唐一军被双开",
@@ -2985,6 +3033,14 @@
       "onboard_time": 1728195258,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 152769,
+      "num": 146004,
+      "word": "妈妈带着白化病女儿参加漫展",
+      "onboard_time": 1728300682,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 152756,
@@ -3411,6 +3467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 132540,
+      "num": 218193,
+      "word": "杭州有人冷到半路钻进商场找外套",
+      "onboard_time": 1728297444,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 132249,
       "num": 132249,
       "word": "杨千嬅重庆演唱会",
@@ -3499,14 +3563,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 129068,
-      "num": 129068,
-      "word": "国乒申请陈幸同参加亚锦赛",
-      "onboard_time": 1728299541,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
       "raw_hot": 128953,
       "num": 128953,
       "word": "刘青松 MacT",
@@ -3547,28 +3603,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 127988,
-      "num": 127988,
-      "word": "胡烨韬面试泰创2",
-      "onboard_time": 1728299903,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 127307,
       "num": 284791,
       "word": "志愿军存亡之战进入2024票房榜前十",
       "onboard_time": 1728229039,
       "rank": 8,
       "category": "电影"
-    },
-    {
-      "raw_hot": 126727,
-      "num": 126727,
-      "word": "杭州有人冷到半路钻进商场找外套",
-      "onboard_time": 1728297444,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 125968,
@@ -3580,7 +3620,7 @@
     },
     {
       "raw_hot": 125956,
-      "num": 125956,
+      "num": 158754,
       "word": "我国自主研制重型燃气轮机点火成功",
       "onboard_time": 1728295403,
       "rank": 44,
@@ -3601,6 +3641,14 @@
       "onboard_time": 1728285200,
       "rank": 19,
       "category": "电影"
+    },
+    {
+      "raw_hot": 125151,
+      "num": 125151,
+      "word": "王一博蓝金色碎影照",
+      "onboard_time": 1728300862,
+      "rank": 38,
+      "category": "作品衍生,艺人"
     },
     {
       "raw_hot": 124362,
@@ -3939,14 +3987,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 111489,
-      "num": 266722,
-      "word": "已经开始盼元旦了",
-      "onboard_time": 1728296361,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 111245,
       "num": 111245,
       "word": "郑钦文无缘中网决赛",
@@ -4049,6 +4089,14 @@
       "onboard_time": 1728204198,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 107597,
+      "num": 107597,
+      "word": "七夜雪好小众的报恩方式",
+      "onboard_time": 1728300443,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 107491,
@@ -4155,6 +4203,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 104047,
+      "num": 104047,
+      "word": "熊猫宝宝假吃半天演戏过于认真",
+      "onboard_time": 1728298404,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 103979,
       "num": 103979,
       "word": "宋紫薇已不在理想飞书通讯录中",
@@ -4176,14 +4232,6 @@
       "word": "当地回应新娘哥哥趴车头索要彩礼",
       "onboard_time": 1728203717,
       "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 103602,
-      "num": 103602,
-      "word": "熊猫宝宝假吃半天演戏过于认真",
-      "onboard_time": 1728298404,
-      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -4323,6 +4371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 97117,
+      "num": 229191,
+      "word": "在奶茶店兼职后发现体力活并不治愈",
+      "onboard_time": 1728296903,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 97037,
       "num": 97037,
       "word": "黄龄新中式穿搭",
@@ -4337,6 +4393,14 @@
       "onboard_time": 1728294262,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 96866,
+      "num": 96866,
+      "word": "加沙冲突前后对比触目惊心",
+      "onboard_time": 1728299541,
+      "rank": 49,
+      "category": "国外时政"
     },
     {
       "raw_hot": 96803,
@@ -4385,14 +4449,6 @@
       "onboard_time": 1728258557,
       "rank": 48,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 94652,
-      "num": 229191,
-      "word": "在奶茶店兼职后发现体力活并不治愈",
-      "onboard_time": 1728296903,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 94519,
@@ -4529,14 +4585,6 @@
       "onboard_time": 1728220520,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 87511,
-      "num": 87511,
-      "word": "加沙冲突前后对比触目惊心",
-      "onboard_time": 1728299541,
-      "rank": 49,
-      "category": "国外时政"
     },
     {
       "raw_hot": 87283,
@@ -5435,20 +5483,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 23058,
+      "num": 243775,
+      "word": "电影志愿军英雄脸庞",
+      "onboard_time": 1728299781,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
       "raw_hot": 22644,
       "num": 242901,
       "word": "于正觉得卖萌是不分年纪",
       "onboard_time": 1728189318,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 21955,
-      "num": 189761,
-      "word": "电影志愿军英雄脸庞",
-      "onboard_time": 1728299781,
-      "rank": 19,
-      "category": "电影"
     },
     {
       "raw_hot": 21199,
