@@ -1,6 +1,6 @@
 {
   "startTime": 1728231932217,
-  "endTime": 1728265484135,
+  "endTime": 1728266683294,
   "band_list": [
     {
       "raw_hot": 1367280,
@@ -11,11 +11,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1155751,
-      "num": 1184920,
+      "raw_hot": 1356322,
+      "num": 1356322,
       "word": "您已度过2024所有法定节假日",
       "onboard_time": 1728262518,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1275221,
+      "num": 184415,
+      "word": "网传加18万彩礼的情况说明系假冒",
+      "onboard_time": 1728264318,
+      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -75,6 +83,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 503211,
+      "num": 183572,
+      "word": "以军48小时轰炸多处房屋学校安置中心",
+      "onboard_time": 1728263536,
+      "rank": 17,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 456904,
       "num": 456904,
       "word": "林诗栋请全场把掌声送给马龙",
@@ -84,7 +100,7 @@
     },
     {
       "raw_hot": 437738,
-      "num": 181678,
+      "num": 182510,
       "word": "雇了两个男大陪爬泰山",
       "onboard_time": 1728257417,
       "rank": 19,
@@ -100,11 +116,19 @@
     },
     {
       "raw_hot": 410102,
-      "num": 181599,
+      "num": 182161,
       "word": "中企车队在巴遇袭致中方人员2死1伤",
       "onboard_time": 1728258676,
       "rank": 13,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 397256,
+      "num": 182981,
+      "word": "易烊千玺朋友请听好后续",
+      "onboard_time": 1728265399,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 394692,
@@ -139,28 +163,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 346427,
-      "num": 181266,
-      "word": "网传加18万彩礼的情况说明系假冒",
-      "onboard_time": 1728264318,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 342084,
       "num": 391097,
       "word": "马龙vs林诗栋",
       "onboard_time": 1728212541,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 341137,
-      "num": 181216,
-      "word": "以军48小时轰炸多处房屋学校安置中心",
-      "onboard_time": 1728263536,
-      "rank": 17,
-      "category": "国外时政"
     },
     {
       "raw_hot": 337160,
@@ -196,11 +204,43 @@
     },
     {
       "raw_hot": 298925,
-      "num": 181115,
+      "num": 181678,
       "word": "观众把彭昱畅叫成彭于晏",
       "onboard_time": 1728261678,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 267872,
+      "num": 181139,
+      "word": "林诗栋孙颖莎首钢园拍摄冠军照",
+      "onboard_time": 1728264800,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 265368,
+      "num": 219292,
+      "word": "入职几月怀孕拒绝调薪调岗被辞退",
+      "onboard_time": 1728217399,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 264847,
+      "num": 139936,
+      "word": "钱天一晒和马龙合影",
+      "onboard_time": 1728265758,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 262563,
+      "num": 180868,
+      "word": "网传加18万彩礼事件双方已和解",
+      "onboard_time": 1728265758,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 261964,
@@ -211,20 +251,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 260525,
-      "num": 219292,
-      "word": "入职几月怀孕拒绝调薪调岗被辞退",
-      "onboard_time": 1728217399,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 255252,
       "num": 490857,
       "word": "G2战胜WBG",
       "onboard_time": 1728230781,
       "rank": 14,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 249453,
+      "num": 249453,
+      "word": "港股",
+      "onboard_time": 1728265818,
+      "rank": 3,
+      "category": "财经"
     },
     {
       "raw_hot": 219743,
@@ -243,12 +283,28 @@
       "category": "综艺,电竞"
     },
     {
-      "raw_hot": 201926,
-      "num": 180799,
-      "word": "易烊千玺朋友请听好后续",
-      "onboard_time": 1728265399,
-      "rank": 22,
-      "category": "综艺"
+      "raw_hot": 217698,
+      "num": 217698,
+      "word": "他们在垃圾堆里淘宝式找出多件文物",
+      "onboard_time": 1728244212,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 216694,
+      "num": 216694,
+      "word": "山西大同3.1级地震",
+      "onboard_time": 1728266419,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 204527,
+      "num": 179106,
+      "word": "下次见面可能是2025年了",
+      "onboard_time": 1728264378,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 200611,
@@ -283,14 +339,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 184222,
-      "num": 184222,
-      "word": "他们在垃圾堆里淘宝式找出多件文物",
-      "onboard_time": 1728244212,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 181744,
       "num": 96812,
       "word": "孙颖莎出发下一站",
@@ -320,6 +368,14 @@
       "word": "国乒有属于自己的梁王",
       "onboard_time": 1728264258,
       "rank": 26,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 172760,
+      "num": 172760,
+      "word": "王楚钦和马琳儿子分享零食",
+      "onboard_time": 1728257535,
+      "rank": 31,
       "category": "体育"
     },
     {
@@ -363,6 +419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 152906,
+      "num": 152906,
+      "word": "TVB拍的名媛培训班",
+      "onboard_time": 1728256874,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 150605,
       "num": 150605,
       "word": "妈妈朋友的儿子大结局",
@@ -393,14 +457,6 @@
       "onboard_time": 1728219383,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 141582,
-      "num": 141582,
-      "word": "下次见面可能是2025年了",
-      "onboard_time": 1728264378,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 141291,
@@ -475,12 +531,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 129163,
-      "num": 129163,
-      "word": "林诗栋孙颖莎首钢园拍摄冠军照",
-      "onboard_time": 1728264800,
-      "rank": 34,
-      "category": "体育"
+      "raw_hot": 128953,
+      "num": 128953,
+      "word": "刘青松 MacT",
+      "onboard_time": 1728261856,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 128819,
@@ -531,14 +587,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 124164,
-      "num": 124164,
-      "word": "TVB拍的名媛培训班",
-      "onboard_time": 1728256874,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 121332,
       "num": 121332,
       "word": "黎巴嫩全国公立学校推迟开学",
@@ -555,12 +603,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 118136,
-      "num": 118136,
-      "word": "刘青松 MacT",
-      "onboard_time": 1728261856,
-      "rank": 38,
-      "category": "电竞"
+      "raw_hot": 118568,
+      "num": 118568,
+      "word": "2岁女童甜甜离家时爷爷奶奶都在忙",
+      "onboard_time": 1728266658,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 117077,
@@ -587,6 +635,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 114288,
+      "num": 114288,
+      "word": "邓亚萍发博复盘女单决赛",
+      "onboard_time": 1728260717,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 112883,
       "num": 112883,
       "word": "以心换心方得真心",
@@ -595,12 +651,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 112326,
-      "num": 112326,
-      "word": "王楚钦和马琳儿子分享零食",
+      "raw_hot": 108004,
+      "num": 108004,
+      "word": "BLG与WBG同组",
       "onboard_time": 1728257535,
-      "rank": 31,
-      "category": "体育"
+      "rank": 25,
+      "category": "电竞"
     },
     {
       "raw_hot": 107848,
@@ -608,6 +664,14 @@
       "word": "国庆假期第6天你在干什么",
       "onboard_time": 1728225020,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 106724,
+      "num": 106724,
+      "word": "景区回应游客泡面开水收费5元",
+      "onboard_time": 1728261017,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -627,14 +691,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 105631,
-      "num": 105631,
-      "word": "邓亚萍发博复盘女单决赛",
-      "onboard_time": 1728260717,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 104138,
       "num": 89016,
       "word": "A股明天正式开盘",
@@ -643,27 +699,11 @@
       "category": "财经"
     },
     {
-      "raw_hot": 103856,
-      "num": 103856,
-      "word": "BLG与WBG同组",
-      "onboard_time": 1728257535,
-      "rank": 25,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 100677,
       "num": 100677,
       "word": "道一声晚安",
       "onboard_time": 1728231858,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 97750,
-      "num": 97750,
-      "word": "景区回应游客泡面开水收费5元",
-      "onboard_time": 1728261017,
-      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -681,6 +721,14 @@
       "onboard_time": 1728259276,
       "rank": 49,
       "category": "艺人,游戏"
+    },
+    {
+      "raw_hot": 77218,
+      "num": 181734,
+      "word": "股民担忧A股开盘第一天买不到",
+      "onboard_time": 1728218241,
+      "rank": 9,
+      "category": "财经"
     },
     {
       "raw_hot": 71773,
@@ -860,19 +908,11 @@
     },
     {
       "raw_hot": 32937,
-      "num": 328096,
+      "num": 328329,
       "word": "每一次与国旗同框都倍感骄傲",
       "onboard_time": 1728218903,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 30729,
-      "num": 181734,
-      "word": "股民担忧A股开盘第一天买不到",
-      "onboard_time": 1728218241,
-      "rank": 9,
-      "category": "财经"
     },
     {
       "raw_hot": 29724,

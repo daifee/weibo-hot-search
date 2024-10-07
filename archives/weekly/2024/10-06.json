@@ -1,6 +1,6 @@
 {
   "startTime": 1728145573126,
-  "endTime": 1728265484135,
+  "endTime": 1728266683294,
   "band_list": [
     {
       "raw_hot": 8274483,
@@ -139,12 +139,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1356322,
+      "num": 1356322,
+      "word": "您已度过2024所有法定节假日",
+      "onboard_time": 1728262518,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1355842,
       "num": 466081,
       "word": "韩安冉老公宋浩然过度劳累入院",
       "onboard_time": 1728186558,
       "rank": 10,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1275221,
+      "num": 184415,
+      "word": "网传加18万彩礼的情况说明系假冒",
+      "onboard_time": 1728264318,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1200713,
@@ -168,14 +184,6 @@
       "word": "山西2岁走失死亡女童妈妈再发声",
       "onboard_time": 1728205279,
       "rank": 13,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1155751,
-      "num": 1184920,
-      "word": "您已度过2024所有法定节假日",
-      "onboard_time": 1728262518,
-      "rank": 0,
       "category": "社会新闻"
     },
     {
@@ -627,6 +635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 503211,
+      "num": 183572,
+      "word": "以军48小时轰炸多处房屋学校安置中心",
+      "onboard_time": 1728263536,
+      "rank": 17,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 500067,
       "num": 500067,
       "word": "假冒媒体杜撰网文被立案侦查",
@@ -724,7 +740,7 @@
     },
     {
       "raw_hot": 437738,
-      "num": 181678,
+      "num": 182510,
       "word": "雇了两个男大陪爬泰山",
       "onboard_time": 1728257417,
       "rank": 19,
@@ -788,7 +804,7 @@
     },
     {
       "raw_hot": 410102,
-      "num": 181599,
+      "num": 182161,
       "word": "中企车队在巴遇袭致中方人员2死1伤",
       "onboard_time": 1728258676,
       "rank": 13,
@@ -817,6 +833,14 @@
       "onboard_time": 1728145638,
       "rank": 36,
       "category": "演出"
+    },
+    {
+      "raw_hot": 397256,
+      "num": 182981,
+      "word": "易烊千玺朋友请听好后续",
+      "onboard_time": 1728265399,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 394352,
@@ -1011,28 +1035,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 346427,
-      "num": 181266,
-      "word": "网传加18万彩礼的情况说明系假冒",
-      "onboard_time": 1728264318,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 345483,
       "num": 314133,
       "word": "陈奕迅 谢谢你们没退票",
       "onboard_time": 1728196098,
       "rank": 48,
       "category": "演出"
-    },
-    {
-      "raw_hot": 341137,
-      "num": 181216,
-      "word": "以军48小时轰炸多处房屋学校安置中心",
-      "onboard_time": 1728263536,
-      "rank": 17,
-      "category": "国外时政"
     },
     {
       "raw_hot": 338195,
@@ -1172,7 +1180,7 @@
     },
     {
       "raw_hot": 298925,
-      "num": 181115,
+      "num": 181678,
       "word": "观众把彭昱畅叫成彭于晏",
       "onboard_time": 1728261678,
       "rank": 18,
@@ -1259,6 +1267,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 267872,
+      "num": 181139,
+      "word": "林诗栋孙颖莎首钢园拍摄冠军照",
+      "onboard_time": 1728264800,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 264847,
+      "num": 139936,
+      "word": "钱天一晒和马龙合影",
+      "onboard_time": 1728265758,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 264367,
       "num": 241491,
       "word": "专家解读为何哀牢山是禁区",
@@ -1280,6 +1304,14 @@
       "word": "游客自驾驶入罗布泊被困弃车徒步返回",
       "onboard_time": 1728165552,
       "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 262563,
+      "num": 180868,
+      "word": "网传加18万彩礼事件双方已和解",
+      "onboard_time": 1728265758,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -1345,6 +1377,14 @@
       "onboard_time": 1728174496,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 249453,
+      "num": 249453,
+      "word": "港股",
+      "onboard_time": 1728265818,
+      "rank": 3,
+      "category": "财经"
     },
     {
       "raw_hot": 245650,
@@ -1499,6 +1539,14 @@
       "category": "综艺,电竞"
     },
     {
+      "raw_hot": 217698,
+      "num": 217698,
+      "word": "他们在垃圾堆里淘宝式找出多件文物",
+      "onboard_time": 1728244212,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 217196,
       "num": 274587,
       "word": "志愿军2口碑",
@@ -1513,6 +1561,14 @@
       "onboard_time": 1728221000,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 216694,
+      "num": 216694,
+      "word": "山西大同3.1级地震",
+      "onboard_time": 1728266419,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 216482,
@@ -1611,6 +1667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 204527,
+      "num": 179106,
+      "word": "下次见面可能是2025年了",
+      "onboard_time": 1728264378,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 204131,
       "num": 204131,
       "word": "杨幂西班牙之行vlog",
@@ -1641,14 +1705,6 @@
       "onboard_time": 1728219921,
       "rank": 40,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 201926,
-      "num": 180799,
-      "word": "易烊千玺朋友请听好后续",
-      "onboard_time": 1728265399,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 201018,
@@ -1851,14 +1907,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 184222,
-      "num": 184222,
-      "word": "他们在垃圾堆里淘宝式找出多件文物",
-      "onboard_time": 1728244212,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 183362,
       "num": 340668,
       "word": "抠门打工人半年给演唱会氪金190亿",
@@ -1945,6 +1993,14 @@
       "onboard_time": 1728220221,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 172760,
+      "num": 172760,
+      "word": "王楚钦和马琳儿子分享零食",
+      "onboard_time": 1728257535,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 172115,
@@ -2179,6 +2235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 152906,
+      "num": 152906,
+      "word": "TVB拍的名媛培训班",
+      "onboard_time": 1728256874,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 152851,
       "num": 152851,
       "word": "王子奇路透",
@@ -2379,14 +2443,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 141582,
-      "num": 141582,
-      "word": "下次见面可能是2025年了",
-      "onboard_time": 1728264378,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 141291,
       "num": 141291,
       "word": "放弃型人格",
@@ -2563,12 +2619,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 129163,
-      "num": 129163,
-      "word": "林诗栋孙颖莎首钢园拍摄冠军照",
-      "onboard_time": 1728264800,
-      "rank": 34,
-      "category": "体育"
+      "raw_hot": 128953,
+      "num": 128953,
+      "word": "刘青松 MacT",
+      "onboard_time": 1728261856,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 128683,
@@ -2625,14 +2681,6 @@
       "onboard_time": 1728187458,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 124164,
-      "num": 124164,
-      "word": "TVB拍的名媛培训班",
-      "onboard_time": 1728256874,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 123752,
@@ -2715,20 +2763,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 118568,
+      "num": 118568,
+      "word": "2岁女童甜甜离家时爷爷奶奶都在忙",
+      "onboard_time": 1728266658,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 118138,
       "num": 118138,
       "word": "看着小天才电话手表我轻轻的碎了",
       "onboard_time": 1728209598,
       "rank": 42,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 118136,
-      "num": 118136,
-      "word": "刘青松 MacT",
-      "onboard_time": 1728261856,
-      "rank": 38,
-      "category": "电竞"
     },
     {
       "raw_hot": 117953,
@@ -2811,6 +2859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 114288,
+      "num": 114288,
+      "word": "邓亚萍发博复盘女单决赛",
+      "onboard_time": 1728260717,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 113958,
       "num": 250361,
       "word": "以总理称必将回应伊朗导弹袭击",
@@ -2833,14 +2889,6 @@
       "onboard_time": 1728231199,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 112326,
-      "num": 112326,
-      "word": "王楚钦和马琳儿子分享零食",
-      "onboard_time": 1728257535,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 111840,
@@ -2889,6 +2937,14 @@
       "onboard_time": 1728170414,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 108004,
+      "num": 108004,
+      "word": "BLG与WBG同组",
+      "onboard_time": 1728257535,
+      "rank": 25,
+      "category": "电竞"
     },
     {
       "raw_hot": 107974,
@@ -2947,6 +3003,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 106724,
+      "num": 106724,
+      "word": "景区回应游客泡面开水收费5元",
+      "onboard_time": 1728261017,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 105945,
       "num": 181503,
       "word": "港股国庆期间暴涨",
@@ -2961,14 +3025,6 @@
       "onboard_time": 1728262158,
       "rank": 43,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 105631,
-      "num": 105631,
-      "word": "邓亚萍发博复盘女单决赛",
-      "onboard_time": 1728260717,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 105356,
@@ -3025,14 +3081,6 @@
       "onboard_time": 1728179418,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 103856,
-      "num": 103856,
-      "word": "BLG与WBG同组",
-      "onboard_time": 1728257535,
-      "rank": 25,
-      "category": "电竞"
     },
     {
       "raw_hot": 103804,
@@ -3137,14 +3185,6 @@
       "onboard_time": 1728132740,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 97750,
-      "num": 97750,
-      "word": "景区回应游客泡面开水收费5元",
-      "onboard_time": 1728261017,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 96803,
