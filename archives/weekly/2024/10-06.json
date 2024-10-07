@@ -1,6 +1,6 @@
 {
   "startTime": 1728145573126,
-  "endTime": 1728314646876,
+  "endTime": 1728315512801,
   "band_list": [
     {
       "raw_hot": 8274483,
@@ -395,6 +395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 941566,
+      "num": 268031,
+      "word": "李敏镐37岁的状态",
+      "onboard_time": 1728311363,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 938001,
       "num": 280741,
       "word": "何炅情商",
@@ -417,14 +425,6 @@
       "onboard_time": 1728229759,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 916831,
-      "num": 268031,
-      "word": "李敏镐37岁的状态",
-      "onboard_time": 1728311363,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 910988,
@@ -795,6 +795,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 615820,
+      "num": 250339,
+      "word": "檀健次 求你们回头看看",
+      "onboard_time": 1728311962,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 613292,
       "num": 353042,
       "word": "博主擅闯哀牢山禁区已违法",
@@ -825,14 +833,6 @@
       "onboard_time": 1728226760,
       "rank": 3,
       "category": "体育"
-    },
-    {
-      "raw_hot": 604317,
-      "num": 250339,
-      "word": "檀健次 求你们回头看看",
-      "onboard_time": 1728311962,
-      "rank": 45,
-      "category": "演出"
     },
     {
       "raw_hot": 590546,
@@ -1587,6 +1587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 319726,
+      "num": 319726,
+      "word": "亚锦赛分区",
+      "onboard_time": 1728310343,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 319259,
       "num": 319259,
       "word": "许嵩演唱会嘉宾是谭晶",
@@ -1633,14 +1641,6 @@
       "onboard_time": 1728305902,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 310475,
-      "num": 310475,
-      "word": "亚锦赛分区",
-      "onboard_time": 1728310343,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 308427,
@@ -2187,7 +2187,7 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 229008,
+      "raw_hot": 229051,
       "num": 229008,
       "word": "还原8人被终身禁入亚丁景区始末",
       "onboard_time": 1728309804,
@@ -2443,6 +2443,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 208211,
+      "num": 208211,
+      "word": "人均花3万年轻人爱上非洲游",
+      "onboard_time": 1728310642,
+      "rank": 37,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 207477,
       "num": 207477,
       "word": "安居乐烨",
@@ -2457,6 +2465,14 @@
       "onboard_time": 1728192019,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 206605,
+      "num": 206605,
+      "word": "女子深夜高速上突遇逆行车辆",
+      "onboard_time": 1728311843,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 206440,
@@ -2547,6 +2563,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 201184,
+      "num": 201184,
+      "word": "于适穿越北疆",
+      "onboard_time": 1728315020,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 201018,
       "num": 201018,
       "word": "周冬雨给林依晨颁奖",
@@ -2569,14 +2593,6 @@
       "onboard_time": 1728214161,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 200081,
-      "num": 200081,
-      "word": "人均花3万年轻人爱上非洲游",
-      "onboard_time": 1728310642,
-      "rank": 37,
-      "category": "旅游"
     },
     {
       "raw_hot": 198849,
@@ -2961,14 +2977,6 @@
       "onboard_time": 1728308241,
       "rank": 39,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 175606,
-      "num": 175606,
-      "word": "女子深夜高速上突遇逆行车辆",
-      "onboard_time": 1728311843,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 175175,
@@ -3707,6 +3715,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 141756,
+      "num": 354621,
+      "word": "志愿军存亡之战成国庆档票房冠军",
+      "onboard_time": 1728309862,
+      "rank": 8,
+      "category": "电影"
+    },
+    {
       "raw_hot": 141668,
       "num": 141668,
       "word": "黄金回收每克提高150元",
@@ -4163,14 +4179,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 121615,
-      "num": 354621,
-      "word": "志愿军存亡之战成国庆档票房冠军",
-      "onboard_time": 1728309862,
-      "rank": 8,
-      "category": "电影"
-    },
-    {
       "raw_hot": 121358,
       "num": 121358,
       "word": "音乐缘计划今晚玩的就是心跳",
@@ -4201,6 +4209,14 @@
       "onboard_time": 1728282018,
       "rank": 48,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 120089,
+      "num": 120089,
+      "word": "郑钦文是武网5号种子",
+      "onboard_time": 1728312502,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 119818,
@@ -4795,12 +4811,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 98953,
+      "num": 98953,
+      "word": "被婆家重视感觉真好",
+      "onboard_time": 1728315261,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 98832,
       "num": 305198,
       "word": "现制饮品不能去冰会成行业趋势吗",
       "onboard_time": 1728205998,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 98430,
+      "num": 98430,
+      "word": "武汉街头都是郑钦文照片",
+      "onboard_time": 1728315080,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 98385,
@@ -4953,14 +4985,6 @@
       "onboard_time": 1728144019,
       "rank": 42,
       "category": "情感"
-    },
-    {
-      "raw_hot": 92959,
-      "num": 92959,
-      "word": "郑钦文是武网5号种子",
-      "onboard_time": 1728312502,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 92584,
@@ -5395,6 +5419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 58900,
+      "num": 252127,
+      "word": "杭州义乌成老外入境游热门目的地",
+      "onboard_time": 1728314063,
+      "rank": 14,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 58522,
       "num": 58522,
       "word": "你嗜睡的锅地磁暴可不背",
@@ -5721,14 +5753,6 @@
       "onboard_time": 1728217040,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 39119,
-      "num": 252127,
-      "word": "杭州义乌成老外入境游热门目的地",
-      "onboard_time": 1728314063,
-      "rank": 14,
-      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 38956,
