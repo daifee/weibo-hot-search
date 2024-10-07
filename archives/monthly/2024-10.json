@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1728319448005,
+  "endTime": 1728321639004,
   "band_list": [
     {
       "raw_hot": 11925969,
@@ -5305,6 +5305,14 @@
       "onboard_time": 1728204017,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 306186,
+      "num": 493434,
+      "word": "假期结束当晚焦虑会到达顶峰",
+      "onboard_time": 1728319276,
+      "rank": 38,
+      "category": "社会负面"
     },
     {
       "raw_hot": 306086,
@@ -12371,6 +12379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 143811,
+      "num": 143811,
+      "word": "周深 往事流zuan在li眼眸",
+      "onboard_time": 1728320836,
+      "rank": 19,
+      "category": "演出"
+    },
+    {
       "raw_hot": 143555,
       "num": 143555,
       "word": "LPL世界赛首战",
@@ -18651,6 +18667,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 61585,
+      "num": 61585,
+      "word": "张翰公司新人面试泰创",
+      "onboard_time": 1728320475,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 61583,
       "num": 420977,
       "word": "贝莱德上调中国股票评级",
@@ -19579,6 +19603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 44133,
+      "num": 61330,
+      "word": "李红樱你俩这什么死动静",
+      "onboard_time": 1728319816,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 43959,
       "num": 419948,
       "word": "山西文旅如何接住黑神话流量",
@@ -19699,6 +19731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 41576,
+      "num": 61320,
+      "word": "余华英拐走12个家庭的17个孩子",
+      "onboard_time": 1728320177,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 41412,
       "num": 100757,
       "word": "俄总理抵达伊朗",
@@ -19739,14 +19779,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 40997,
-      "num": 76419,
-      "word": "假期结束当晚焦虑会到达顶峰",
-      "onboard_time": 1728319276,
-      "rank": 38,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 40968,
       "num": 40968,
       "word": "绿皮车到动车都能听到她的声音",
@@ -19785,6 +19817,14 @@
       "onboard_time": 1728220880,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 40278,
+      "num": 61298,
+      "word": "张艺兴生日张家界热度飙升",
+      "onboard_time": 1728320115,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 40169,
@@ -19857,6 +19897,14 @@
       "onboard_time": 1727931618,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 39507,
+      "num": 630974,
+      "word": "坚决挫败一切破坏中巴关系图谋",
+      "onboard_time": 1728316340,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 39477,
@@ -20161,14 +20209,6 @@
       "onboard_time": 1727775320,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 33519,
-      "num": 630974,
-      "word": "坚决挫败一切破坏中巴关系图谋",
-      "onboard_time": 1728316340,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 33410,
@@ -20633,6 +20673,14 @@
       "onboard_time": 1727802376,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 27668,
+      "num": 184396,
+      "word": "紧急提醒在巴中国公民做好安全防范",
+      "onboard_time": 1728321075,
+      "rank": 9,
+      "category": "国外时政"
     },
     {
       "raw_hot": 27649,
@@ -21248,6 +21296,14 @@
       "word": "中国工匠雕玉石一眼惊艳",
       "onboard_time": 1727811013,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 16661,
+      "num": 185383,
+      "word": "10招缓解节后综合征",
+      "onboard_time": 1728305183,
+      "rank": 2,
       "category": "社会新闻"
     },
     {

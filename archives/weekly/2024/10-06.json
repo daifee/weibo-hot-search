@@ -1,6 +1,6 @@
 {
   "startTime": 1728145573126,
-  "endTime": 1728319448005,
+  "endTime": 1728321639004,
   "band_list": [
     {
       "raw_hot": 8274483,
@@ -1657,6 +1657,14 @@
       "onboard_time": 1728204017,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 306186,
+      "num": 493434,
+      "word": "假期结束当晚焦虑会到达顶峰",
+      "onboard_time": 1728319276,
+      "rank": 38,
+      "category": "社会负面"
     },
     {
       "raw_hot": 302163,
@@ -3699,6 +3707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 143811,
+      "num": 143811,
+      "word": "周深 往事流zuan在li眼眸",
+      "onboard_time": 1728320836,
+      "rank": 19,
+      "category": "演出"
+    },
+    {
       "raw_hot": 143553,
       "num": 143553,
       "word": "2024年诺贝尔奖今起揭晓",
@@ -5411,6 +5427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 61585,
+      "num": 61585,
+      "word": "张翰公司新人面试泰创",
+      "onboard_time": 1728320475,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 60423,
       "num": 60423,
       "word": "尚雯婕茜拉合唱默",
@@ -5715,6 +5739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 44133,
+      "num": 61330,
+      "word": "李红樱你俩这什么死动静",
+      "onboard_time": 1728319816,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 43576,
       "num": 341197,
       "word": "国庆氛围感壁纸",
@@ -5747,12 +5779,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 40997,
-      "num": 76419,
-      "word": "假期结束当晚焦虑会到达顶峰",
-      "onboard_time": 1728319276,
-      "rank": 38,
-      "category": "社会负面"
+      "raw_hot": 41576,
+      "num": 61320,
+      "word": "余华英拐走12个家庭的17个孩子",
+      "onboard_time": 1728320177,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 40763,
@@ -5779,6 +5811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 40278,
+      "num": 61298,
+      "word": "张艺兴生日张家界热度飙升",
+      "onboard_time": 1728320115,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 39747,
       "num": 39747,
       "word": "TF四代危险的关系大结局",
@@ -5793,6 +5833,14 @@
       "onboard_time": 1728183739,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 39507,
+      "num": 630974,
+      "word": "坚决挫败一切破坏中巴关系图谋",
+      "onboard_time": 1728316340,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 39131,
@@ -5905,14 +5953,6 @@
       "onboard_time": 1728279618,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 33519,
-      "num": 630974,
-      "word": "坚决挫败一切破坏中巴关系图谋",
-      "onboard_time": 1728316340,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 33410,
@@ -6059,6 +6099,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 27668,
+      "num": 184396,
+      "word": "紧急提醒在巴中国公民做好安全防范",
+      "onboard_time": 1728321075,
+      "rank": 9,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 26439,
       "num": 57418,
       "word": "重庆火车站预计发送旅客31万人次",
@@ -6160,6 +6208,14 @@
       "word": "看见界碑的瞬间自豪感油然而生",
       "onboard_time": 1728239772,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 16661,
+      "num": 185383,
+      "word": "10招缓解节后综合征",
+      "onboard_time": 1728305183,
+      "rank": 2,
       "category": "社会新闻"
     },
     {

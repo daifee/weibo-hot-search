@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/10/06 00:26:13 ~ 2024/10/08 00:44:08
+本榜单时间：2024/10/06 00:26:13 ~ 2024/10/08 01:20:39
 </p>
 </blockquote>
 <p>
@@ -1253,6 +1253,12 @@ BLG下路（热度：374278）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E6%96%B0%E9%83%8E%E6%8E%A5%E4%BA%B2%E8%A2%AB%E4%B8%B4%E6%97%B6%E5%8A%A0%E8%A6%8118%E4%B8%87%E5%BD%A9%E7%A4%BC%23" target="weibo">
 网传新郎接亲被临时加要18万彩礼（热度：307001）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%81%87%E6%9C%9F%E7%BB%93%E6%9D%9F%E5%BD%93%E6%99%9A%E7%84%A6%E8%99%91%E4%BC%9A%E5%88%B0%E8%BE%BE%E9%A1%B6%E5%B3%B0%23" target="weibo">
+假期结束当晚焦虑会到达顶峰（热度：306186）
 </a>
 </li>
 
@@ -2787,6 +2793,12 @@ Henry唱全是爱（热度：145959）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%20%E5%BE%80%E4%BA%8B%E6%B5%81zuan%E5%9C%A8li%E7%9C%BC%E7%9C%B8%23" target="weibo">
+周深 往事流zuan在li眼眸（热度：143811）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%232024%E5%B9%B4%E8%AF%BA%E8%B4%9D%E5%B0%94%E5%A5%96%E4%BB%8A%E8%B5%B7%E6%8F%AD%E6%99%93%23" target="weibo">
 2024年诺贝尔奖今起揭晓（热度：143553）
 </a>
@@ -4071,6 +4083,12 @@ KPL（热度：71773）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%BF%B0%E5%85%AC%E5%8F%B8%E6%96%B0%E4%BA%BA%E9%9D%A2%E8%AF%95%E6%B3%B0%E5%88%9B%23" target="weibo">
+张翰公司新人面试泰创（热度：61585）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%9A%E9%9B%AF%E5%A9%95%E8%8C%9C%E6%8B%89%E5%90%88%E5%94%B1%E9%BB%98%23" target="weibo">
 尚雯婕茜拉合唱默（热度：60423）
 </a>
@@ -4299,6 +4317,12 @@ S14瑞士轮（热度：57941）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%BA%A2%E6%A8%B1%E4%BD%A0%E4%BF%A9%E8%BF%99%E4%BB%80%E4%B9%88%E6%AD%BB%E5%8A%A8%E9%9D%99%23" target="weibo">
+李红樱你俩这什么死动静（热度：44133）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%BA%86%E6%B0%9B%E5%9B%B4%E6%84%9F%E5%A3%81%E7%BA%B8%23" target="weibo">
 国庆氛围感壁纸（热度：43576）
 </a>
@@ -4323,8 +4347,8 @@ S14瑞士轮（热度：57941）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%81%87%E6%9C%9F%E7%BB%93%E6%9D%9F%E5%BD%93%E6%99%9A%E7%84%A6%E8%99%91%E4%BC%9A%E5%88%B0%E8%BE%BE%E9%A1%B6%E5%B3%B0%23" target="weibo">
-假期结束当晚焦虑会到达顶峰（热度：40997）
+<a href="https://s.weibo.com/weibo?q=%23%E4%BD%99%E5%8D%8E%E8%8B%B1%E6%8B%90%E8%B5%B012%E4%B8%AA%E5%AE%B6%E5%BA%AD%E7%9A%8417%E4%B8%AA%E5%AD%A9%E5%AD%90%23" target="weibo">
+余华英拐走12个家庭的17个孩子（热度：41576）
 </a>
 </li>
 
@@ -4347,6 +4371,12 @@ S14瑞士轮（热度：57941）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E7%94%9F%E6%97%A5%E5%BC%A0%E5%AE%B6%E7%95%8C%E7%83%AD%E5%BA%A6%E9%A3%99%E5%8D%87%23" target="weibo">
+张艺兴生日张家界热度飙升（热度：40278）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23TF%E5%9B%9B%E4%BB%A3%E5%8D%B1%E9%99%A9%E7%9A%84%E5%85%B3%E7%B3%BB%E5%A4%A7%E7%BB%93%E5%B1%80%23" target="weibo">
 TF四代危险的关系大结局（热度：39747）
 </a>
@@ -4355,6 +4385,12 @@ TF四代危险的关系大结局（热度：39747）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%94%E7%A8%8B%E9%AB%98%E5%B3%B0%E9%AB%98%E9%80%9F%E4%BA%A4%E8%AD%A6%E7%BB%99%E4%BD%A0%E5%88%92%E9%87%8D%E7%82%B9%23" target="weibo">
 返程高峰高速交警给你划重点（热度：39734）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9D%9A%E5%86%B3%E6%8C%AB%E8%B4%A5%E4%B8%80%E5%88%87%E7%A0%B4%E5%9D%8F%E4%B8%AD%E5%B7%B4%E5%85%B3%E7%B3%BB%E5%9B%BE%E8%B0%8B%23" target="weibo">
+坚决挫败一切破坏中巴关系图谋（热度：39507）
 </a>
 </li>
 
@@ -4439,12 +4475,6 @@ TF四代危险的关系大结局（热度：39747）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%93%B2%E8%BF%9C%E5%91%8A%E5%88%AB%E6%9A%97%E5%A4%9C%E4%B8%8E%E9%BB%8E%E6%98%8E%23" target="weibo">
 陈哲远告别暗夜与黎明（热度：34392）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%9D%9A%E5%86%B3%E6%8C%AB%E8%B4%A5%E4%B8%80%E5%88%87%E7%A0%B4%E5%9D%8F%E4%B8%AD%E5%B7%B4%E5%85%B3%E7%B3%BB%E5%9B%BE%E8%B0%8B%23" target="weibo">
-坚决挫败一切破坏中巴关系图谋（热度：33519）
 </a>
 </li>
 
@@ -4557,6 +4587,12 @@ TF四代危险的关系大结局（热度：39747）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%B4%A7%E6%80%A5%E6%8F%90%E9%86%92%E5%9C%A8%E5%B7%B4%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E5%81%9A%E5%A5%BD%E5%AE%89%E5%85%A8%E9%98%B2%E8%8C%83%23" target="weibo">
+紧急提醒在巴中国公民做好安全防范（热度：27668）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E7%81%AB%E8%BD%A6%E7%AB%99%E9%A2%84%E8%AE%A1%E5%8F%91%E9%80%81%E6%97%85%E5%AE%A231%E4%B8%87%E4%BA%BA%E6%AC%A1%23" target="weibo">
 重庆火车站预计发送旅客31万人次（热度：26439）
 </a>
@@ -4631,6 +4667,12 @@ TF四代危险的关系大结局（热度：39747）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9C%8B%E8%A7%81%E7%95%8C%E7%A2%91%E7%9A%84%E7%9E%AC%E9%97%B4%E8%87%AA%E8%B1%AA%E6%84%9F%E6%B2%B9%E7%84%B6%E8%80%8C%E7%94%9F%23" target="weibo">
 看见界碑的瞬间自豪感油然而生（热度：16874）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%2310%E6%8B%9B%E7%BC%93%E8%A7%A3%E8%8A%82%E5%90%8E%E7%BB%BC%E5%90%88%E5%BE%81%23" target="weibo">
+10招缓解节后综合征（热度：16661）
 </a>
 </li>
 
