@@ -1,0 +1,410 @@
+{
+  "runTime": 1728275246761,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 523186,
+        "num": 1083709,
+        "word": "您已度过2024所有法定节假日",
+        "onboard_time": 1728262518,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 440024,
+        "num": 440024,
+        "word": "莎头出发亚锦赛",
+        "onboard_time": 1728270139,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 8853,
+        "num": 329677,
+        "word": "每一次与国旗同框都倍感骄傲",
+        "onboard_time": 1728218903,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 324603,
+        "num": 324603,
+        "word": "美国特工掀起大规模离职潮",
+        "onboard_time": 1728271398,
+        "rank": 3,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 260104,
+        "num": 260104,
+        "word": "本轮牛市能持续多久",
+        "onboard_time": 1728267678,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248300,
+        "num": 248300,
+        "word": "人人人人返程人人人人",
+        "onboard_time": 1728221238,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237812,
+        "num": 237812,
+        "word": "詹姆斯布朗尼同场竞技",
+        "onboard_time": 1728269718,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 224831,
+        "num": 224831,
+        "word": "75年来中国人均预期寿命翻了一倍多",
+        "onboard_time": 1728266778,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 51624,
+        "num": 224717,
+        "word": "志愿军存亡之战进入2024票房榜前十",
+        "onboard_time": 1728229039,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 51127,
+        "num": 224463,
+        "word": "国庆假期各大券商开户数创历史新高",
+        "onboard_time": 1728274219,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1184772,
+        "num": 224257,
+        "word": "国际法院宣布以色列为非法国家",
+        "onboard_time": 1728270978,
+        "rank": 10,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 709681,
+        "num": 224108,
+        "word": "男子买二手车回家后原车主远程锁车",
+        "onboard_time": 1728269298,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 706812,
+        "num": 223849,
+        "word": "孙莉跳舞",
+        "onboard_time": 1728266900,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 542072,
+        "num": 223672,
+        "word": "何炅情商",
+        "onboard_time": 1728267139,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 41142,
+        "num": 223398,
+        "word": "节后A股开市将怎么走",
+        "onboard_time": 1728274038,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 434235,
+        "num": 223200,
+        "word": "结婚彩礼该不该直接给新娘",
+        "onboard_time": 1728268937,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 379780,
+        "num": 222989,
+        "word": "8人被终身禁入稻城亚丁景区",
+        "onboard_time": 1728226943,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 47598,
+        "num": 222838,
+        "word": "观众把彭昱畅叫成彭于晏",
+        "onboard_time": 1728261678,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 260834,
+        "num": 222549,
+        "word": "aespa将发行个人单曲",
+        "onboard_time": 1728271757,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 241131,
+        "num": 222382,
+        "word": "多车返程高速上轮胎被扎钉子",
+        "onboard_time": 1728272718,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 276947,
+        "num": 222231,
+        "word": "读了明朝那些事突然就释怀了",
+        "onboard_time": 1728274219,
+        "rank": 20,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 233972,
+        "num": 221856,
+        "word": "易烊千玺朋友请听好后续",
+        "onboard_time": 1728265399,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 221805,
+        "num": 221805,
+        "word": "国庆假期就这么水灵灵结束了",
+        "onboard_time": 1728273558,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206666,
+        "num": 206666,
+        "word": "以色列发生恐袭案19岁女警身亡",
+        "onboard_time": 1728270679,
+        "rank": 23,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 195030,
+        "num": 195030,
+        "word": "Uzi谈BLG不敌T1",
+        "onboard_time": 1728270257,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 175070,
+        "num": 175070,
+        "word": "港股",
+        "onboard_time": 1728265818,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 162437,
+        "num": 162437,
+        "word": "A股测试",
+        "onboard_time": 1728273319,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 154421,
+        "num": 154421,
+        "word": "下次见面可能是2025年了",
+        "onboard_time": 1728264378,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 142182,
+        "num": 142182,
+        "word": "以军48小时轰炸多处房屋学校安置中心",
+        "onboard_time": 1728263536,
+        "rank": 28,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 134542,
+        "num": 134542,
+        "word": "广西螺蛳粉的辣会教育嘴硬的外地人",
+        "onboard_time": 1728272959,
+        "rank": 29,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 143985,
+        "num": 134423,
+        "word": "淮滨通报男子接亲被加要18万彩礼",
+        "onboard_time": 1728274458,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134034,
+        "num": 134034,
+        "word": "中企车队在巴遇袭致中方人员2死1伤",
+        "onboard_time": 1728258676,
+        "rank": 31,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 128048,
+        "num": 128048,
+        "word": "上交所宣布加时5分钟有何作用",
+        "onboard_time": 1728271697,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123782,
+        "num": 123782,
+        "word": "车车车车收费站车车车车",
+        "onboard_time": 1728269118,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121482,
+        "num": 121482,
+        "word": "国乒出征亚锦赛",
+        "onboard_time": 1728270378,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115145,
+        "num": 115145,
+        "word": "山西大同3.1级地震",
+        "onboard_time": 1728266419,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112830,
+        "num": 112830,
+        "word": "檀健次坐飞机迟到被点名",
+        "onboard_time": 1728228199,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109150,
+        "num": 109150,
+        "word": "女博主独闯哀牢山深处2天后报平安",
+        "onboard_time": 1728229759,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106642,
+        "num": 106642,
+        "word": "以色列",
+        "onboard_time": 1728258495,
+        "rank": 38,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 78774,
+        "num": 106533,
+        "word": "整个冰糖烤雪梨",
+        "onboard_time": 1728274819,
+        "rank": 39,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 106458,
+        "num": 106458,
+        "word": "Zeus夸赞Bin",
+        "onboard_time": 1728272418,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 105464,
+        "num": 105464,
+        "word": "陈飞宇演技",
+        "onboard_time": 1728267678,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 97034,
+        "num": 97034,
+        "word": "国乒有属于自己的梁王",
+        "onboard_time": 1728264258,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 93226,
+        "num": 93226,
+        "word": "哀牢山未开发区域",
+        "onboard_time": 1728270737,
+        "rank": 43,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 92571,
+        "num": 92571,
+        "word": "北上资金量成倍增长",
+        "onboard_time": 1728271638,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 89896,
+        "num": 89896,
+        "word": "假期新开户的股民明天还不能交易",
+        "onboard_time": 1728268217,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 89082,
+        "num": 89082,
+        "word": "李大霄 我很担心8号开盘",
+        "onboard_time": 1728273379,
+        "rank": 46,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 84425,
+        "num": 84425,
+        "word": "中网票房总收入超8000万",
+        "onboard_time": 1728272959,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 79829,
+        "num": 79829,
+        "word": "Keria说LCK比LPL更强",
+        "onboard_time": 1728268338,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 79433,
+        "num": 79433,
+        "word": "央行黄金储备连续5个月保持不变",
+        "onboard_time": 1728274578,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动文化和旅游融合发展#"
+    }
+  }
+}
