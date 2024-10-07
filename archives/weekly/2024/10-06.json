@@ -1,6 +1,6 @@
 {
   "startTime": 1728145573126,
-  "endTime": 1728300962120,
+  "endTime": 1728305015350,
   "band_list": [
     {
       "raw_hot": 8274483,
@@ -57,6 +57,14 @@
       "onboard_time": 1728290184,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 2033956,
+      "num": 217024,
+      "word": "云南哀牢山连发三条公告",
+      "onboard_time": 1728300862,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1906437,
@@ -131,6 +139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1577838,
+      "num": 227181,
+      "word": "许嵩 分手了没关系还有我",
+      "onboard_time": 1728302902,
+      "rank": 10,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1444060,
       "num": 792422,
       "word": "T1战胜BLG",
@@ -203,12 +219,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1198659,
+      "num": 252376,
+      "word": "吴昕在上海穿上了羽绒服",
+      "onboard_time": 1728285800,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1192421,
       "num": 1192421,
       "word": "液态大米",
       "onboard_time": 1728176057,
       "rank": 0,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1186744,
+      "num": 224098,
+      "word": "芒果新签的男艺人",
+      "onboard_time": 1728283879,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 1184772,
@@ -235,20 +267,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1142152,
+      "num": 257090,
+      "word": "翁青雅 我奉陪到底",
+      "onboard_time": 1728283518,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1112820,
       "num": 278208,
       "word": "男子买二手车回家后原车主远程锁车",
       "onboard_time": 1728269298,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1104906,
-      "num": 257090,
-      "word": "翁青雅 我奉陪到底",
-      "onboard_time": 1728283518,
-      "rank": 10,
-      "category": "综艺"
     },
     {
       "raw_hot": 1062656,
@@ -368,6 +400,14 @@
       "word": "花学",
       "onboard_time": 1728277818,
       "rank": 21,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 867764,
+      "num": 256611,
+      "word": "何炅再度呼喊超女快女的名字",
+      "onboard_time": 1728294023,
+      "rank": 10,
       "category": "综艺"
     },
     {
@@ -603,6 +643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 665681,
+      "num": 220748,
+      "word": "邱贻可 下一站已出发",
+      "onboard_time": 1728300202,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 663891,
       "num": 422941,
       "word": "BLG",
@@ -673,6 +721,14 @@
       "onboard_time": 1728213260,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 609351,
+      "num": 609351,
+      "word": "浙B3N922做完好事就悄悄离开了",
+      "onboard_time": 1728290722,
+      "rank": 30,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 609006,
@@ -780,19 +836,11 @@
     },
     {
       "raw_hot": 518787,
-      "num": 209824,
+      "num": 214826,
       "word": "男子连续4个月每天1箱饮料险失明",
       "onboard_time": 1728290243,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 510387,
-      "num": 224076,
-      "word": "芒果新签的男艺人",
-      "onboard_time": 1728283879,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 503211,
@@ -801,6 +849,14 @@
       "onboard_time": 1728263536,
       "rank": 17,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 502758,
+      "num": 219453,
+      "word": "妈妈带着白化病女儿参加漫展",
+      "onboard_time": 1728300682,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 500067,
@@ -843,27 +899,11 @@
       "category": "作品衍生,幽默"
     },
     {
-      "raw_hot": 496258,
-      "num": 496258,
-      "word": "浙B3N922做完好事就悄悄离开了",
-      "onboard_time": 1728290722,
-      "rank": 30,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 488790,
       "num": 409108,
       "word": "王楚钦球员见面会",
       "onboard_time": 1728209119,
       "rank": 17,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 481953,
-      "num": 157511,
-      "word": "邱贻可 下一站已出发",
-      "onboard_time": 1728300202,
-      "rank": 30,
       "category": "体育"
     },
     {
@@ -881,6 +921,14 @@
       "onboard_time": 1728202518,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 473782,
+      "num": 473782,
+      "word": "外交部回应中方车队在巴基斯坦遭恐袭",
+      "onboard_time": 1728302603,
+      "rank": 3,
+      "category": "国外时政"
     },
     {
       "raw_hot": 470324,
@@ -969,6 +1017,14 @@
       "onboard_time": 1728198618,
       "rank": 25,
       "category": "演出"
+    },
+    {
+      "raw_hot": 428688,
+      "num": 219165,
+      "word": "胡烨韬面试泰创2",
+      "onboard_time": 1728299903,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 427531,
@@ -1267,6 +1323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 355876,
+      "num": 215393,
+      "word": "弟弟背姐姐出嫁还没出门就遭翻车",
+      "onboard_time": 1728301762,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 355573,
       "num": 298605,
       "word": "猫 这个豪门我非进不可",
@@ -1371,14 +1435,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 329164,
-      "num": 252376,
-      "word": "吴昕在上海穿上了羽绒服",
-      "onboard_time": 1728285800,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 328814,
       "num": 328814,
       "word": "本轮牛市能持续多久",
@@ -1393,14 +1449,6 @@
       "onboard_time": 1728271398,
       "rank": 40,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 324279,
-      "num": 256611,
-      "word": "何炅再度呼喊超女快女的名字",
-      "onboard_time": 1728294023,
-      "rank": 10,
-      "category": "综艺"
     },
     {
       "raw_hot": 323251,
@@ -1467,6 +1515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 308427,
+      "num": 217669,
+      "word": "鬼火少年集体炸街警方抓捕制止",
+      "onboard_time": 1728298882,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 307001,
       "num": 230645,
       "word": "网传新郎接亲被临时加要18万彩礼",
@@ -1505,14 +1561,6 @@
       "onboard_time": 1728218601,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 299564,
-      "num": 185803,
-      "word": "胡烨韬面试泰创2",
-      "onboard_time": 1728299903,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 298925,
@@ -1601,6 +1649,14 @@
       "onboard_time": 1728295342,
       "rank": 17,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 287927,
+      "num": 212651,
+      "word": "韩国粉丝为张艺兴登报庆生",
+      "onboard_time": 1728302483,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 285294,
@@ -1769,6 +1825,14 @@
       "onboard_time": 1728230781,
       "rank": 14,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 255056,
+      "num": 255056,
+      "word": "杭州有人冷到半路钻进商场找外套",
+      "onboard_time": 1728297444,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 253289,
@@ -1955,6 +2019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 227981,
+      "num": 227981,
+      "word": "贝聿铭的小女儿18岁啦",
+      "onboard_time": 1728303448,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 226266,
       "num": 226266,
       "word": "以色列发生恐袭案19岁女警身亡",
@@ -1964,7 +2036,7 @@
     },
     {
       "raw_hot": 225632,
-      "num": 153537,
+      "num": 209099,
       "word": "何浩畅晒照",
       "onboard_time": 1728299423,
       "rank": 31,
@@ -2155,6 +2227,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 209510,
+      "num": 209510,
+      "word": "BeliftLab要求Hanni道歉",
+      "onboard_time": 1728304104,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 208235,
       "num": 208235,
       "word": "肖宇梁饰演光绪",
@@ -2187,11 +2267,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 205911,
-      "num": 205911,
-      "word": "鬼火少年集体炸街警方抓捕制止",
-      "onboard_time": 1728298882,
-      "rank": 26,
+      "raw_hot": 206074,
+      "num": 266722,
+      "word": "已经开始盼元旦了",
+      "onboard_time": 1728296361,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -2217,14 +2297,6 @@
       "onboard_time": 1728264378,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 204389,
-      "num": 266722,
-      "word": "已经开始盼元旦了",
-      "onboard_time": 1728296361,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 204159,
@@ -2369,6 +2441,14 @@
       "onboard_time": 1728206359,
       "rank": 40,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 193408,
+      "num": 193408,
+      "word": "电影浴火之路国庆档亚军",
+      "onboard_time": 1728304283,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 193400,
@@ -2563,6 +2643,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 181400,
+      "num": 181400,
+      "word": "甄子丹徒弟 泰创",
+      "onboard_time": 1728303023,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 180762,
       "num": 180762,
       "word": "我的国庆作业终于写完了",
@@ -2619,6 +2707,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 176329,
+      "num": 176329,
+      "word": "卫昭 三拜吾妻",
+      "onboard_time": 1728304224,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 175175,
       "num": 175175,
       "word": "小西天被喊差评后疯狂宠游客",
@@ -2648,6 +2744,14 @@
       "word": "王楚钦和马琳儿子分享零食",
       "onboard_time": 1728257535,
       "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 172710,
+      "num": 172710,
+      "word": "孙颖莎邱贻可出发下个赛场",
+      "onboard_time": 1728303924,
+      "rank": 33,
       "category": "体育"
     },
     {
@@ -2689,6 +2793,14 @@
       "onboard_time": 1728201917,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 169514,
+      "num": 169514,
+      "word": "美国一世界拳王家门口被枪杀",
+      "onboard_time": 1728301344,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 169375,
@@ -2771,6 +2883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 163835,
+      "num": 163835,
+      "word": "TF三代登陆计划完结",
+      "onboard_time": 1728303628,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 163776,
       "num": 163776,
       "word": "潘玮柏泡面",
@@ -2843,20 +2963,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 160295,
+      "num": 160295,
+      "word": "擅入哀牢山未开放区域最高罚款5000",
+      "onboard_time": 1728304523,
+      "rank": 36,
+      "category": "社会新闻,国内时政"
+    },
+    {
       "raw_hot": 160290,
       "num": 146605,
       "word": "郑钦文返汉爸爸跟在身后为她背包",
       "onboard_time": 1728300202,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 160242,
-      "num": 160242,
-      "word": "云南哀牢山连发三条公告",
-      "onboard_time": 1728300862,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 159920,
@@ -2899,6 +3019,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 157419,
+      "num": 157419,
+      "word": "他用3年为国家挽回1亿多美元损失",
+      "onboard_time": 1728302361,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 157365,
       "num": 157365,
       "word": "花海韩信诠释英雄海",
@@ -2929,6 +3057,14 @@
       "onboard_time": 1728232098,
       "rank": 25,
       "category": "演出"
+    },
+    {
+      "raw_hot": 155887,
+      "num": 155887,
+      "word": "央视新闻对话749局导演陆川",
+      "onboard_time": 1728303746,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 155767,
@@ -3033,14 +3169,6 @@
       "onboard_time": 1728195258,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 152769,
-      "num": 146004,
-      "word": "妈妈带着白化病女儿参加漫展",
-      "onboard_time": 1728300682,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 152756,
@@ -3203,6 +3331,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 146316,
+      "num": 146316,
+      "word": "流水迢迢热度逆跌",
+      "onboard_time": 1728304764,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 146310,
       "num": 146310,
       "word": "南京玄武湖的鸭子船都有班味了",
@@ -3225,6 +3361,14 @@
       "onboard_time": 1728213621,
       "rank": 42,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 145799,
+      "num": 145799,
+      "word": "原神恰斯卡",
+      "onboard_time": 1728302541,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 145618,
@@ -3329,6 +3473,14 @@
       "onboard_time": 1728293481,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 140873,
+      "num": 140873,
+      "word": "谁懂曾舜晞抬头这一下",
+      "onboard_time": 1728304764,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 140530,
@@ -3451,6 +3603,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 132818,
+      "num": 132818,
+      "word": "彩礼没有礼爱情何来爱",
+      "onboard_time": 1728301402,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 132802,
       "num": 216095,
       "word": "县城五星级酒店迎来泼天流量",
@@ -3467,14 +3627,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 132540,
-      "num": 218193,
-      "word": "杭州有人冷到半路钻进商场找外套",
-      "onboard_time": 1728297444,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 132249,
       "num": 132249,
       "word": "杨千嬅重庆演唱会",
@@ -3489,6 +3641,14 @@
       "onboard_time": 1728292221,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 131810,
+      "num": 131810,
+      "word": "无畏想给JDG拿冠军",
+      "onboard_time": 1728303984,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 131743,
@@ -3620,7 +3780,7 @@
     },
     {
       "raw_hot": 125956,
-      "num": 158754,
+      "num": 228213,
       "word": "我国自主研制重型燃气轮机点火成功",
       "onboard_time": 1728295403,
       "rank": 44,
@@ -3665,6 +3825,14 @@
       "onboard_time": 1728203238,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 123719,
+      "num": 123719,
+      "word": "女生巧用保鲜膜快速包馄饨",
+      "onboard_time": 1728304224,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 123682,
@@ -5267,6 +5435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 36374,
+      "num": 213215,
+      "word": "在海拔最高国门合唱国歌太燃了",
+      "onboard_time": 1728288861,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 35601,
       "num": 30536,
       "word": "周深荒芜之地爆改青草地",
@@ -5568,6 +5744,14 @@
       "word": "杭州有娃假期带着跳绳去旅游",
       "onboard_time": 1728249971,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 10917,
+      "num": 525868,
+      "word": "国庆文旅图景尽显活力中国",
+      "onboard_time": 1728304823,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
