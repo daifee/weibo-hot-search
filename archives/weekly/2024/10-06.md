@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/10/06 00:26:13 ~ 2024/10/08 03:35:35
+本榜单时间：2024/10/06 00:26:13 ~ 2024/10/08 04:25:23
 </p>
 </blockquote>
 <p>
@@ -3435,6 +3435,12 @@ Zeus夸赞Bin（热度：114727）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%B4%A7%E6%80%A5%E6%8F%90%E9%86%92%E5%9C%A8%E5%B7%B4%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E5%81%9A%E5%A5%BD%E5%AE%89%E5%85%A8%E9%98%B2%E8%8C%83%23" target="weibo">
+紧急提醒在巴中国公民做好安全防范（热度：108050）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23BLG%E4%B8%8EWBG%E5%90%8C%E7%BB%84%23" target="weibo">
 BLG与WBG同组（热度：108004）
 </a>
@@ -4029,12 +4035,6 @@ KPL（热度：71773）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%B4%A7%E6%80%A5%E6%8F%90%E9%86%92%E5%9C%A8%E5%B7%B4%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E5%81%9A%E5%A5%BD%E5%AE%89%E5%85%A8%E9%98%B2%E8%8C%83%23" target="weibo">
-紧急提醒在巴中国公民做好安全防范（热度：69223）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E7%8B%AC%E8%87%AA%E6%94%80%E7%99%BB%E6%B2%99%E6%BC%A0%E7%8F%A0%E5%B3%B0%E7%9C%8B%E6%97%A5%E5%87%BA%23" target="weibo">
 王一博独自攀登沙漠珠峰看日出（热度：66927）
 </a>
@@ -4605,6 +4605,12 @@ TF四代危险的关系大结局（热度：39747）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%233%E4%BA%BA%E8%BA%B2%E8%BF%87%E4%BA%9A%E4%B8%81%E6%99%AF%E5%8C%BA%E6%B8%85%E5%B1%B1%E8%BF%98%E6%92%AC%E9%97%A8%E6%8B%94%E7%9B%91%E6%8E%A7%23" target="weibo">
+3人躲过亚丁景区清山还撬门拔监控（热度：27483）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E7%81%AB%E8%BD%A6%E7%AB%99%E9%A2%84%E8%AE%A1%E5%8F%91%E9%80%81%E6%97%85%E5%AE%A231%E4%B8%87%E4%BA%BA%E6%AC%A1%23" target="weibo">
 重庆火车站预计发送旅客31万人次（热度：26439）
 </a>
@@ -4647,6 +4653,12 @@ TF四代危险的关系大结局（热度：39747）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E6%96%B0%E6%88%BF%E8%AE%A4%E8%B4%AD%E9%87%8F%E6%8F%90%E9%AB%982%E5%80%8D%23" target="weibo">
+北京新房认购量提高2倍（热度：22015）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E8%A5%BF%E9%9A%B0%E5%8E%BF%E4%B8%BE%E5%85%A8%E5%8E%BF%E4%B9%8B%E5%8A%9B%E5%81%9A%E5%A5%BD%E6%9C%8D%E5%8A%A1%23" target="weibo">
 山西隰县举全县之力做好服务（热度：21199）
 </a>
@@ -4683,6 +4695,12 @@ TF四代危险的关系大结局（热度：39747）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BB%8E%E5%B7%B4%E5%AB%A9%E7%BE%8E%E4%B8%BD%E6%B5%B7%E6%BB%A8%E4%BD%8F%E6%BB%A1%E6%B5%81%E7%A6%BB%E5%A4%B1%E6%89%80%E7%9A%84%E4%BA%BA%23" target="weibo">
+黎巴嫩美丽海滨住满流离失所的人（热度：18342）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%81%E4%B8%80%E5%81%87%E6%9C%9F%E8%BF%94%E7%A8%8B%E9%AB%98%E5%B3%B0%E5%AE%89%E5%85%A8%E6%8F%90%E9%86%92%23" target="weibo">
 十一假期返程高峰安全提醒（热度：18185）
 </a>
@@ -4691,6 +4709,18 @@ TF四代危险的关系大结局（热度：39747）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%AA%E7%A9%BA%E8%A7%86%E8%A7%92%E7%9C%8B%E7%BE%8E%E4%B8%BD%E7%9A%84%E8%A5%BF%E6%B2%99%23" target="weibo">
 太空视角看美丽的西沙（热度：18148）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%94%90%E5%A5%B3%E7%90%B4%E5%B8%88%E7%A9%BF%E8%B6%8A%E5%90%8E%E5%92%8C%E7%8E%B0%E4%BB%A3%E4%BA%BA%E5%90%88%E5%A5%8F%23" target="weibo">
+大唐女琴师穿越后和现代人合奏（热度：17711）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8A%A0%E6%B2%99%E5%BA%9F%E5%A2%9F%E5%8F%AF%E5%A0%86%E6%BB%A111%E4%B8%AA%E5%9F%83%E5%8F%8A%E9%87%91%E5%AD%97%E5%A1%94%23" target="weibo">
+加沙废墟可堆满11个埃及金字塔（热度：17618）
 </a>
 </li>
 
@@ -4725,14 +4755,14 @@ TF四代危险的关系大结局（热度：39747）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%94%90%E5%A5%B3%E7%90%B4%E5%B8%88%E7%A9%BF%E8%B6%8A%E5%90%8E%E5%92%8C%E7%8E%B0%E4%BB%A3%E4%BA%BA%E5%90%88%E5%A5%8F%23" target="weibo">
-大唐女琴师穿越后和现代人合奏（热度：14275）
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E6%9C%89%E5%A8%83%E5%81%87%E6%9C%9F%E5%B8%A6%E7%9D%80%E8%B7%B3%E7%BB%B3%E5%8E%BB%E6%97%85%E6%B8%B8%23" target="weibo">
+杭州有娃假期带着跳绳去旅游（热度：13475）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E6%9C%89%E5%A8%83%E5%81%87%E6%9C%9F%E5%B8%A6%E7%9D%80%E8%B7%B3%E7%BB%B3%E5%8E%BB%E6%97%85%E6%B8%B8%23" target="weibo">
-杭州有娃假期带着跳绳去旅游（热度：13475）
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%B9%B3%E5%8F%B0%E6%98%BE%E7%A4%BA%E5%9B%BD%E5%BA%86%E5%87%BA%E5%A2%83%E6%B8%B8%E8%AE%A2%E5%8D%95%E9%87%8F%E8%B6%852019%E5%B9%B4%23" target="weibo">
+多平台显示国庆出境游订单量超2019年（热度：11983）
 </a>
 </li>
 
