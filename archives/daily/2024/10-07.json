@@ -1,7 +1,15 @@
 {
   "startTime": 1728231932217,
-  "endTime": 1728290622532,
+  "endTime": 1728293119462,
   "band_list": [
+    {
+      "raw_hot": 2102830,
+      "num": 2102830,
+      "word": "王曼昱亚锦赛退赛",
+      "onboard_time": 1728290184,
+      "rank": 0,
+      "category": "体育"
+    },
     {
       "raw_hot": 1367280,
       "num": 278672,
@@ -49,14 +57,6 @@
       "onboard_time": 1728278598,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1143743,
-      "num": 1182998,
-      "word": "王曼昱亚锦赛退赛",
-      "onboard_time": 1728290184,
-      "rank": 0,
-      "category": "体育"
     },
     {
       "raw_hot": 1112820,
@@ -208,6 +208,14 @@
       "word": "人人人人返程人人人人",
       "onboard_time": 1728221238,
       "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 518787,
+      "num": 209824,
+      "word": "男子连续4个月每天1箱饮料险失明",
+      "onboard_time": 1728290243,
+      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -531,6 +539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 270249,
+      "num": 270249,
+      "word": "荷兰老人送150多件中国文物回家",
+      "onboard_time": 1728287122,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 267872,
       "num": 181139,
       "word": "林诗栋孙颖莎首钢园拍摄冠军照",
@@ -545,6 +561,14 @@
       "onboard_time": 1728273558,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 267722,
+      "num": 165673,
+      "word": "苹果或将放弃一年一更新模式",
+      "onboard_time": 1728290903,
+      "rank": 21,
+      "category": "数码"
     },
     {
       "raw_hot": 265368,
@@ -601,14 +625,6 @@
       "onboard_time": 1728285560,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 244531,
-      "num": 244531,
-      "word": "荷兰老人送150多件中国文物回家",
-      "onboard_time": 1728287122,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 242985,
@@ -684,7 +700,7 @@
     },
     {
       "raw_hot": 211246,
-      "num": 156320,
+      "num": 162763,
       "word": "那是你可怜 我家不用",
       "onboard_time": 1728288563,
       "rank": 30,
@@ -697,14 +713,6 @@
       "onboard_time": 1728279498,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 209824,
-      "num": 209824,
-      "word": "男子连续4个月每天1箱饮料险失明",
-      "onboard_time": 1728290243,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 204527,
@@ -747,6 +755,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 182779,
+      "num": 182779,
+      "word": "以大使称以色列对杀害平民毫无兴趣",
+      "onboard_time": 1728289222,
+      "rank": 39,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 181744,
       "num": 96812,
       "word": "孙颖莎出发下一站",
@@ -787,6 +803,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 180401,
+      "num": 161368,
+      "word": "苏新皓E人的极限在哪里",
+      "onboard_time": 1728292043,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 176580,
       "num": 176580,
       "word": "亚锦赛观众免费入场",
@@ -809,6 +833,14 @@
       "onboard_time": 1728257535,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 169507,
+      "num": 169507,
+      "word": "长沙南站停电",
+      "onboard_time": 1728292162,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 168407,
@@ -1043,12 +1075,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 142316,
-      "num": 142316,
-      "word": "以大使称以色列对杀害平民毫无兴趣",
-      "onboard_time": 1728289222,
-      "rank": 39,
-      "category": "国外时政"
+      "raw_hot": 142848,
+      "num": 142848,
+      "word": "郑钦文奖金创生涯新高",
+      "onboard_time": 1728290484,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 141360,
@@ -1097,6 +1129,14 @@
       "onboard_time": 1728267497,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 137996,
+      "num": 137996,
+      "word": "浙B3N922做完好事就悄悄离开了",
+      "onboard_time": 1728290722,
+      "rank": 30,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 137545,
@@ -1152,6 +1192,14 @@
       "word": "Jennie权志龙去了2ne1演唱会",
       "onboard_time": 1728212360,
       "rank": 38,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 132170,
+      "num": 132170,
+      "word": "许嵩苏州站",
+      "onboard_time": 1728292221,
+      "rank": 33,
       "category": "演出"
     },
     {
@@ -1243,14 +1291,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 124306,
-      "num": 124306,
-      "word": "郑钦文奖金创生涯新高",
-      "onboard_time": 1728290484,
-      "rank": 35,
-      "category": "体育"
-    },
-    {
       "raw_hot": 121907,
       "num": 121907,
       "word": "00后也开户了",
@@ -1321,6 +1361,14 @@
       "onboard_time": 1728224419,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 116326,
+      "num": 116326,
+      "word": "恋与制作人许墨 掌中之弈",
+      "onboard_time": 1728291682,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 115892,
@@ -1491,12 +1539,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 105749,
+      "num": 105749,
+      "word": "谁说当老师就必须受气",
+      "onboard_time": 1728292162,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 104138,
       "num": 89016,
       "word": "A股明天正式开盘",
       "onboard_time": 1728235935,
       "rank": 23,
       "category": "财经"
+    },
+    {
+      "raw_hot": 102725,
+      "num": 102725,
+      "word": "郑钦文回武汉的排面",
+      "onboard_time": 1728291262,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 100757,
@@ -1564,7 +1628,7 @@
     },
     {
       "raw_hot": 93936,
-      "num": 93936,
+      "num": 220312,
       "word": "盘前必看国庆利好消息",
       "onboard_time": 1728290243,
       "rank": 45,
@@ -1603,12 +1667,36 @@
       "category": "艺人,游戏"
     },
     {
+      "raw_hot": 89445,
+      "num": 89445,
+      "word": "得闲谨制部分演员杀青",
+      "onboard_time": 1728291443,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 88106,
+      "num": 88106,
+      "word": "A股走势",
+      "onboard_time": 1728277639,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 87692,
       "num": 87692,
       "word": "汪苏泷演唱会鞠躬",
       "onboard_time": 1728276619,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 87499,
+      "num": 87499,
+      "word": "专家建议股民三要三不要",
+      "onboard_time": 1728291144,
+      "rank": 46,
+      "category": "财经"
     },
     {
       "raw_hot": 87283,
@@ -1859,6 +1947,30 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 48709,
+      "num": 218561,
+      "word": "港股收盘创2022年2月以来新高",
+      "onboard_time": 1728292522,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 48678,
+      "num": 196884,
+      "word": "清晖园景区的锦鲤已胖若两鱼",
+      "onboard_time": 1728292462,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 48247,
+      "num": 565252,
+      "word": "全国秋收近四成",
+      "onboard_time": 1728288982,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 45823,
       "num": 45823,
       "word": "薛之谦 在那天回不去的路上",
@@ -1872,14 +1984,6 @@
       "word": "你现在开始穿长袖了吗",
       "onboard_time": 1728240073,
       "rank": 32,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 44111,
-      "num": 565252,
-      "word": "全国秋收近四成",
-      "onboard_time": 1728288982,
-      "rank": 2,
       "category": "社会新闻"
     },
     {

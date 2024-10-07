@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1728290622532,
+  "endTime": 1728293119462,
   "band_list": [
     {
       "raw_hot": 11925969,
@@ -137,6 +137,14 @@
       "onboard_time": 1727741359,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2102830,
+      "num": 2102830,
+      "word": "王曼昱亚锦赛退赛",
+      "onboard_time": 1728290184,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 2075112,
@@ -704,14 +712,6 @@
       "word": "马龙vs曾蓓勋",
       "onboard_time": 1727873058,
       "rank": 1,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 1143743,
-      "num": 1182998,
-      "word": "王曼昱亚锦赛退赛",
-      "onboard_time": 1728290184,
-      "rank": 0,
       "category": "体育"
     },
     {
@@ -2929,6 +2929,14 @@
       "onboard_time": 1728189018,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 518787,
+      "num": 209824,
+      "word": "男子连续4个月每天1箱饮料险失明",
+      "onboard_time": 1728290243,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 518322,
@@ -5835,6 +5843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 270249,
+      "num": 270249,
+      "word": "荷兰老人送150多件中国文物回家",
+      "onboard_time": 1728287122,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 269474,
       "num": 248711,
       "word": "张凌赫田曦薇平番",
@@ -5897,6 +5913,14 @@
       "onboard_time": 1728273558,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 267722,
+      "num": 165673,
+      "word": "苹果或将放弃一年一更新模式",
+      "onboard_time": 1728290903,
+      "rank": 21,
+      "category": "数码"
     },
     {
       "raw_hot": 267175,
@@ -6441,14 +6465,6 @@
       "onboard_time": 1727970738,
       "rank": 3,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 244531,
-      "num": 244531,
-      "word": "荷兰老人送150多件中国文物回家",
-      "onboard_time": 1728287122,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 244304,
@@ -7508,7 +7524,7 @@
     },
     {
       "raw_hot": 211246,
-      "num": 156320,
+      "num": 162763,
       "word": "那是你可怜 我家不用",
       "onboard_time": 1728288563,
       "rank": 30,
@@ -7544,14 +7560,6 @@
       "word": "这回景德镇受气瓶真受气了",
       "onboard_time": 1728125059,
       "rank": 28,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 209824,
-      "num": 209824,
-      "word": "男子连续4个月每天1箱饮料险失明",
-      "onboard_time": 1728290243,
-      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -9099,6 +9107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 182779,
+      "num": 182779,
+      "word": "以大使称以色列对杀害平民毫无兴趣",
+      "onboard_time": 1728289222,
+      "rank": 39,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 182026,
       "num": 182026,
       "word": "男子向多名同事借钱后人消失了",
@@ -9247,6 +9263,14 @@
       "num": 180555,
       "word": "黄仁俊恢复活动",
       "onboard_time": 1728264258,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 180401,
+      "num": 161368,
+      "word": "苏新皓E人的极限在哪里",
+      "onboard_time": 1728292043,
       "rank": 25,
       "category": "艺人"
     },
@@ -9841,6 +9865,14 @@
       "onboard_time": 1727953638,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 169507,
+      "num": 169507,
+      "word": "长沙南站停电",
+      "onboard_time": 1728292162,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 169375,
@@ -11715,6 +11747,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 142848,
+      "num": 142848,
+      "word": "郑钦文奖金创生涯新高",
+      "onboard_time": 1728290484,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 142846,
       "num": 142846,
       "word": "上海偶遇李秀满sunny",
@@ -11760,14 +11800,6 @@
       "word": "黎巴嫩侨胞说看到五星国旗安心了",
       "onboard_time": 1727886797,
       "rank": 24,
-      "category": "国外时政"
-    },
-    {
-      "raw_hot": 142316,
-      "num": 142316,
-      "word": "以大使称以色列对杀害平民毫无兴趣",
-      "onboard_time": 1728289222,
-      "rank": 39,
       "category": "国外时政"
     },
     {
@@ -12177,6 +12209,14 @@
       "onboard_time": 1728267497,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 137996,
+      "num": 137996,
+      "word": "浙B3N922做完好事就悄悄离开了",
+      "onboard_time": 1728290722,
+      "rank": 30,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 137848,
@@ -12769,6 +12809,14 @@
       "onboard_time": 1727855657,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 132170,
+      "num": 132170,
+      "word": "许嵩苏州站",
+      "onboard_time": 1728292221,
+      "rank": 33,
+      "category": "演出"
     },
     {
       "raw_hot": 132161,
@@ -13441,14 +13489,6 @@
       "onboard_time": 1728187458,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 124306,
-      "num": 124306,
-      "word": "郑钦文奖金创生涯新高",
-      "onboard_time": 1728290484,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 124300,
@@ -14169,6 +14209,14 @@
       "onboard_time": 1728193159,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 116326,
+      "num": 116326,
+      "word": "恋与制作人许墨 掌中之弈",
+      "onboard_time": 1728291682,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 116091,
@@ -15267,6 +15315,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 105749,
+      "num": 105749,
+      "word": "谁说当老师就必须受气",
+      "onboard_time": 1728292162,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 105739,
       "num": 105739,
       "word": "刘浩存赵今麦比心",
@@ -15513,6 +15569,14 @@
       "onboard_time": 1728118638,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 102725,
+      "num": 102725,
+      "word": "郑钦文回武汉的排面",
+      "onboard_time": 1728291262,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 102724,
@@ -16196,7 +16260,7 @@
     },
     {
       "raw_hot": 93936,
-      "num": 93936,
+      "num": 220312,
       "word": "盘前必看国庆利好消息",
       "onboard_time": 1728290243,
       "rank": 45,
@@ -16451,6 +16515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 89445,
+      "num": 89445,
+      "word": "得闲谨制部分演员杀青",
+      "onboard_time": 1728291443,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 89411,
       "num": 104028,
       "word": "华伦天奴 设计",
@@ -16481,6 +16553,14 @@
       "onboard_time": 1727918897,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 88106,
+      "num": 88106,
+      "word": "A股走势",
+      "onboard_time": 1728277639,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 88033,
@@ -16521,6 +16601,14 @@
       "onboard_time": 1728220520,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 87499,
+      "num": 87499,
+      "word": "专家建议股民三要三不要",
+      "onboard_time": 1728291144,
+      "rank": 46,
+      "category": "财经"
     },
     {
       "raw_hot": 87481,
@@ -18355,12 +18443,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 48709,
+      "num": 218561,
+      "word": "港股收盘创2022年2月以来新高",
+      "onboard_time": 1728292522,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 48685,
       "num": 48685,
       "word": "任嘉伦说卫昭没有陆绎狠",
       "onboard_time": 1727975895,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 48678,
+      "num": 196884,
+      "word": "清晖园景区的锦鲤已胖若两鱼",
+      "onboard_time": 1728292462,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 48647,
@@ -18384,6 +18488,14 @@
       "word": "有种反向旅游叫捡秋",
       "onboard_time": 1728062654,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 48247,
+      "num": 565252,
+      "word": "全国秋收近四成",
+      "onboard_time": 1728288982,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -18561,14 +18673,6 @@
       "onboard_time": 1727760440,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 44111,
-      "num": 565252,
-      "word": "全国秋收近四成",
-      "onboard_time": 1728288982,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 43959,
