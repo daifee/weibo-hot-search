@@ -1,6 +1,6 @@
 {
   "startTime": 1728145573126,
-  "endTime": 1728306001524,
+  "endTime": 1728307807253,
   "band_list": [
     {
       "raw_hot": 8274483,
@@ -627,6 +627,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 677542,
+      "num": 677542,
+      "word": "贝聿铭的小女儿18岁啦",
+      "onboard_time": 1728303448,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 675716,
       "num": 368321,
       "word": "入职几月怀孕拒绝调薪调岗被辞退",
@@ -713,6 +721,14 @@
       "onboard_time": 1728300682,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 623094,
+      "num": 363426,
+      "word": "樊振东杂志",
+      "onboard_time": 1728305422,
+      "rank": 21,
+      "category": "体育,作品衍生"
     },
     {
       "raw_hot": 622695,
@@ -1115,28 +1131,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 397795,
-      "num": 363426,
-      "word": "樊振东杂志",
-      "onboard_time": 1728305422,
-      "rank": 21,
-      "category": "体育,作品衍生"
-    },
-    {
       "raw_hot": 397256,
       "num": 277597,
       "word": "易烊千玺朋友请听好后续",
       "onboard_time": 1728265399,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 395668,
-      "num": 395668,
-      "word": "贝聿铭的小女儿18岁啦",
-      "onboard_time": 1728303448,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 394352,
@@ -1283,20 +1283,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 368864,
+      "num": 363425,
+      "word": "韩国粉丝为张艺兴登报庆生",
+      "onboard_time": 1728302483,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 364520,
       "num": 364520,
       "word": "我们的歌",
       "onboard_time": 1728184938,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 363425,
-      "num": 363425,
-      "word": "韩国粉丝为张艺兴登报庆生",
-      "onboard_time": 1728302483,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 362323,
@@ -1392,6 +1392,14 @@
       "word": "职工医保个人账户如何共济给家人",
       "onboard_time": 1728204319,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 348286,
+      "num": 253146,
+      "word": "衢州发现传说中的四不像",
+      "onboard_time": 1728305303,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -1715,6 +1723,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 277743,
+      "num": 363532,
+      "word": "杭州有人冷到半路钻进商场找外套",
+      "onboard_time": 1728297444,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 276607,
       "num": 487652,
       "word": "台湾小伙痴迷文物来大陆学考古",
@@ -1761,14 +1777,6 @@
       "onboard_time": 1728124880,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 268168,
-      "num": 363532,
-      "word": "杭州有人冷到半路钻进商场找外套",
-      "onboard_time": 1728297444,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 267872,
@@ -1987,6 +1995,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 236093,
+      "num": 236093,
+      "word": "女生巧用保鲜膜快速包馄饨",
+      "onboard_time": 1728304224,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 235615,
       "num": 235615,
       "word": "萧山机场确认昨晚CA4578航班返航",
@@ -2081,6 +2097,14 @@
       "onboard_time": 1728224419,
       "rank": 28,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 224137,
+      "num": 224137,
+      "word": "当92岁奶奶开始展示业务能力",
+      "onboard_time": 1728305902,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 222536,
@@ -2491,6 +2515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 193083,
+      "num": 189432,
+      "word": "伊朗总统说与其死在床上不如当殉道者",
+      "onboard_time": 1728307281,
+      "rank": 30,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 193068,
       "num": 193068,
       "word": "749局是有点预言在的",
@@ -2715,6 +2747,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 179510,
+      "num": 179510,
+      "word": "孙颖莎邱贻可出发下个赛场",
+      "onboard_time": 1728303924,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 179055,
       "num": 179055,
       "word": "林俊杰的钢琴",
@@ -2745,6 +2785,14 @@
       "onboard_time": 1728304224,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 176108,
+      "num": 176108,
+      "word": "赵露思假期吃喝vlog",
+      "onboard_time": 1728306862,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 175830,
@@ -2779,14 +2827,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 172882,
-      "num": 172882,
-      "word": "女生巧用保鲜膜快速包馄饨",
-      "onboard_time": 1728304224,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 172760,
       "num": 172760,
       "word": "王楚钦和马琳儿子分享零食",
@@ -2795,12 +2835,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 172710,
-      "num": 172710,
-      "word": "孙颖莎邱贻可出发下个赛场",
-      "onboard_time": 1728303924,
+      "raw_hot": 172481,
+      "num": 172481,
+      "word": "返校车厢里全是碎掉的大学生",
+      "onboard_time": 1728307160,
       "rank": 33,
-      "category": "体育"
+      "category": "社会新闻"
     },
     {
       "raw_hot": 172274,
@@ -2841,6 +2881,14 @@
       "onboard_time": 1728201917,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 169702,
+      "num": 169702,
+      "word": "博主擅闯哀牢山禁区已违法",
+      "onboard_time": 1728307222,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 169375,
@@ -2920,14 +2968,6 @@
       "word": "国庆返程堵和出发堵心情截然不同",
       "onboard_time": 1728285742,
       "rank": 8,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 163856,
-      "num": 163856,
-      "word": "衢州发现传说中的四不像",
-      "onboard_time": 1728305303,
-      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -3299,6 +3339,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 149582,
+      "num": 149582,
+      "word": "你帮狗找家 狗帮你找家",
+      "onboard_time": 1728306920,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 149317,
       "num": 149317,
       "word": "Coldplay抢票",
@@ -3603,6 +3651,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 136156,
+      "num": 136156,
+      "word": "彩礼没有礼爱情何来爱",
+      "onboard_time": 1728301402,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 136006,
       "num": 136006,
       "word": "国庆返程高峰直播",
@@ -3657,14 +3713,6 @@
       "onboard_time": 1728189619,
       "rank": 49,
       "category": "财经"
-    },
-    {
-      "raw_hot": 132818,
-      "num": 132818,
-      "word": "彩礼没有礼爱情何来爱",
-      "onboard_time": 1728301402,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 132802,
@@ -3809,6 +3857,14 @@
       "onboard_time": 1728271697,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 127386,
+      "num": 127386,
+      "word": "严浩翔换红发记录",
+      "onboard_time": 1728306442,
+      "rank": 49,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 127307,
@@ -4723,14 +4779,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 92499,
-      "num": 173532,
-      "word": "当92岁奶奶开始展示业务能力",
-      "onboard_time": 1728305902,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 90146,
       "num": 90146,
       "word": "小伙返程堵车老妈后备箱放一锅饭菜",
@@ -4769,6 +4817,14 @@
       "onboard_time": 1728291443,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 89350,
+      "num": 273399,
+      "word": "机构称A股节后或集中上涨",
+      "onboard_time": 1728306442,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 88031,
@@ -5000,6 +5056,14 @@
       "word": "男子3次吃附子3次中毒被抢救",
       "onboard_time": 1728249852,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 71557,
+      "num": 274926,
+      "word": "武警新郎迎娶火箭军新娘",
+      "onboard_time": 1728306383,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -5403,6 +5467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 41343,
+      "num": 678805,
+      "word": "文化中国行看绝壁上的博物馆",
+      "onboard_time": 1728305242,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 40763,
       "num": 1909057,
       "word": "每一次与国旗同框都倍感骄傲",
@@ -5689,14 +5761,6 @@
       "onboard_time": 1728253332,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 27692,
-      "num": 513503,
-      "word": "文化中国行看绝壁上的博物馆",
-      "onboard_time": 1728305242,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 26439,
