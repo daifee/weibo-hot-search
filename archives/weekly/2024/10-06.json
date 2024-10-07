@@ -1,6 +1,6 @@
 {
   "startTime": 1728145573126,
-  "endTime": 1728286507066,
+  "endTime": 1728289743781,
   "band_list": [
     {
       "raw_hot": 8274483,
@@ -219,6 +219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1104906,
+      "num": 225025,
+      "word": "翁青雅 我奉陪到底",
+      "onboard_time": 1728283518,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1062656,
       "num": 1170025,
       "word": "假期结束剩奶奶独自在沙发打盹",
@@ -363,14 +371,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 821210,
-      "num": 225025,
-      "word": "翁青雅 我奉陪到底",
-      "onboard_time": 1728283518,
-      "rank": 10,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 814677,
       "num": 484145,
       "word": "霉霉净资产",
@@ -449,6 +449,14 @@
       "onboard_time": 1728134780,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 748799,
+      "num": 1119807,
+      "word": "西湖新女警是16年前走丢的那个孩子",
+      "onboard_time": 1728283338,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 747886,
@@ -691,12 +699,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 567971,
+      "num": 567971,
+      "word": "大兴机场航站楼只用了17台空调",
+      "onboard_time": 1728286942,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 559630,
       "num": 251953,
       "word": "流星花园重播",
       "onboard_time": 1728142458,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 557440,
+      "num": 212643,
+      "word": "Zzr被骚扰",
+      "onboard_time": 1728286641,
+      "rank": 11,
+      "category": "电竞"
     },
     {
       "raw_hot": 544202,
@@ -732,7 +756,7 @@
     },
     {
       "raw_hot": 510387,
-      "num": 182374,
+      "num": 204859,
       "word": "芒果新签的男艺人",
       "onboard_time": 1728283879,
       "rank": 21,
@@ -873,14 +897,6 @@
       "onboard_time": 1728257417,
       "rank": 19,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 431681,
-      "num": 431681,
-      "word": "西湖新女警是16年前走丢的那个孩子",
-      "onboard_time": 1728283338,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 429340,
@@ -1211,6 +1227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 350425,
+      "num": 212591,
+      "word": "潘玮柏评论区",
+      "onboard_time": 1728286160,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 345483,
       "num": 314133,
       "word": "陈奕迅 谢谢你们没退票",
@@ -1273,6 +1297,14 @@
       "onboard_time": 1728213682,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 329164,
+      "num": 211166,
+      "word": "吴昕在上海穿上了羽绒服",
+      "onboard_time": 1728285800,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 328814,
@@ -1443,12 +1475,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 293268,
+      "num": 203061,
+      "word": "孙颖莎说和王曼昱是良性竞争",
+      "onboard_time": 1728283698,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 291039,
       "num": 251026,
       "word": "林诗栋坐王楚钦行李箱上看比赛",
       "onboard_time": 1728141020,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 289252,
+      "num": 210039,
+      "word": "交警回应高速现钉子多车轮胎被扎",
+      "onboard_time": 1728285680,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 285294,
@@ -1587,6 +1635,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 256195,
+      "num": 201901,
+      "word": "河北美院的嘴可真严啊",
+      "onboard_time": 1728284420,
+      "rank": 33,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 256123,
       "num": 256123,
       "word": "王楚钦回应近期表现引起争议",
@@ -1627,6 +1683,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 250555,
+      "num": 209147,
+      "word": "小车高速上倒车致多车追尾",
+      "onboard_time": 1728284479,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 250087,
       "num": 227578,
       "word": "她不是尚雯婕吗",
@@ -1641,6 +1705,14 @@
       "onboard_time": 1728174496,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 246730,
+      "num": 210099,
+      "word": "苏新皓在大街上跳舞",
+      "onboard_time": 1728285560,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 245650,
@@ -1891,20 +1963,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 212894,
-      "num": 177392,
-      "word": "孙颖莎说和王曼昱是良性竞争",
-      "onboard_time": 1728283698,
-      "rank": 22,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 212891,
-      "num": 176236,
-      "word": "吴昕在上海穿上了羽绒服",
-      "onboard_time": 1728285800,
-      "rank": 23,
-      "category": "艺人"
+      "raw_hot": 214075,
+      "num": 214075,
+      "word": "荷兰老人送150多件中国文物回家",
+      "onboard_time": 1728287122,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 212775,
@@ -1928,14 +1992,6 @@
       "word": "网友冰岛偶遇沈梦辰",
       "onboard_time": 1728279498,
       "rank": 36,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 210099,
-      "num": 210099,
-      "word": "苏新皓在大街上跳舞",
-      "onboard_time": 1728285560,
-      "rank": 31,
       "category": "艺人"
     },
     {
@@ -2203,6 +2259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 186968,
+      "num": 142921,
+      "word": "那是你可怜 我家不用",
+      "onboard_time": 1728288563,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 186959,
       "num": 186959,
       "word": "用别样的方式打开人民路",
@@ -2443,14 +2507,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 164980,
-      "num": 164980,
-      "word": "小车高速上倒车致多车追尾",
-      "onboard_time": 1728284479,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 164879,
       "num": 283606,
       "word": "车车车车收费站车车车车",
@@ -2467,12 +2523,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 164211,
-      "num": 164211,
-      "word": "河北美院的嘴可真严啊",
-      "onboard_time": 1728284420,
-      "rank": 33,
-      "category": "旅游"
+      "raw_hot": 164156,
+      "num": 225991,
+      "word": "国庆返程堵和出发堵心情截然不同",
+      "onboard_time": 1728285742,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 163272,
@@ -2641,6 +2697,14 @@
       "onboard_time": 1728142818,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 153836,
+      "num": 144216,
+      "word": "伊朗民众不担心爆发战争",
+      "onboard_time": 1728285861,
+      "rank": 41,
+      "category": "国外时政"
     },
     {
       "raw_hot": 153674,
@@ -2867,14 +2931,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 145894,
-      "num": 145894,
-      "word": "交警回应高速现钉子多车轮胎被扎",
-      "onboard_time": 1728285680,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 145821,
       "num": 145821,
       "word": "仙逆",
@@ -2892,7 +2948,7 @@
     },
     {
       "raw_hot": 144835,
-      "num": 132150,
+      "num": 132285,
       "word": "感觉好像看了一集日漫",
       "onboard_time": 1728284059,
       "rank": 30,
@@ -2921,14 +2977,6 @@
       "onboard_time": 1728176478,
       "rank": 47,
       "category": "演出"
-    },
-    {
-      "raw_hot": 142613,
-      "num": 142613,
-      "word": "潘玮柏评论区",
-      "onboard_time": 1728286160,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 142237,
@@ -3131,6 +3179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 130538,
+      "num": 130538,
+      "word": "潘玮柏泡面",
+      "onboard_time": 1728287481,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 130398,
       "num": 130398,
       "word": "江苏蟹黄面一吃一个不吱声",
@@ -3291,12 +3347,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 121907,
+      "num": 121907,
+      "word": "00后也开户了",
+      "onboard_time": 1728287722,
+      "rank": 38,
+      "category": "财经"
+    },
+    {
       "raw_hot": 121899,
       "num": 121899,
       "word": "清澈的爱只为中国",
       "onboard_time": 1728141020,
       "rank": 40,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 121876,
+      "num": 260324,
+      "word": "国庆档票房超20亿",
+      "onboard_time": 1728285200,
+      "rank": 19,
+      "category": "电影"
     },
     {
       "raw_hot": 121358,
@@ -3329,6 +3401,14 @@
       "onboard_time": 1728282018,
       "rank": 48,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 120925,
+      "num": 120925,
+      "word": "以大使称以色列对杀害平民毫无兴趣",
+      "onboard_time": 1728289222,
+      "rank": 39,
+      "category": "国外时政"
     },
     {
       "raw_hot": 119818,
@@ -3409,6 +3489,14 @@
       "onboard_time": 1728193159,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 115892,
+      "num": 115892,
+      "word": "彭高翁青雅一天约会两次",
+      "onboard_time": 1728287061,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 115267,
@@ -3497,6 +3585,14 @@
       "onboard_time": 1728231199,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 112790,
+      "num": 112790,
+      "word": "舍不得星星报复性吻戏",
+      "onboard_time": 1728288322,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 112545,
@@ -3771,14 +3867,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 102780,
-      "num": 194219,
-      "word": "国庆档票房超20亿",
-      "onboard_time": 1728285200,
-      "rank": 19,
-      "category": "电影"
-    },
-    {
       "raw_hot": 102208,
       "num": 102208,
       "word": "付航好好笑",
@@ -3795,14 +3883,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 101629,
-      "num": 101629,
-      "word": "伊朗民众不担心爆发战争",
-      "onboard_time": 1728285861,
-      "rank": 41,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 101195,
       "num": 101195,
       "word": "HLE对战GEN",
@@ -3817,6 +3897,14 @@
       "onboard_time": 1728140659,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 100757,
+      "num": 100757,
+      "word": "詹姆斯儿子挖坑老子填",
+      "onboard_time": 1728285020,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 100677,
@@ -3907,11 +3995,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 96544,
-      "num": 96544,
-      "word": "詹姆斯儿子挖坑老子填",
-      "onboard_time": 1728285020,
-      "rank": 42,
+      "raw_hot": 96556,
+      "num": 96556,
+      "word": "萨巴伦卡回应被中国球迷叫虎妞",
+      "onboard_time": 1728288621,
+      "rank": 44,
       "category": "体育"
     },
     {
@@ -3985,6 +4073,14 @@
       "onboard_time": 1728196398,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 92226,
+      "num": 92226,
+      "word": "周深演唱会谈PUA与内耗",
+      "onboard_time": 1728289703,
+      "rank": 46,
+      "category": "演出"
     },
     {
       "raw_hot": 90015,
@@ -4129,6 +4225,22 @@
       "onboard_time": 1728139459,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 80789,
+      "num": 80789,
+      "word": "掘金vs凯尔特人",
+      "onboard_time": 1728288803,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 80504,
+      "num": 80504,
+      "word": "在青岛不仅能赶海还能上山采蘑菇",
+      "onboard_time": 1728289522,
+      "rank": 49,
+      "category": "旅游"
     },
     {
       "raw_hot": 79433,
@@ -4312,14 +4424,6 @@
       "word": "人人人人人我人人人人人",
       "onboard_time": 1728226581,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 58743,
-      "num": 225991,
-      "word": "国庆返程堵和出发堵心情截然不同",
-      "onboard_time": 1728285742,
-      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -4755,6 +4859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 29999,
+      "num": 210539,
+      "word": "节前7日重磅经济政策回顾",
+      "onboard_time": 1728288444,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 29724,
       "num": 41609,
       "word": "哀牢山村民称对自然要有敬畏之心",
@@ -4769,6 +4881,14 @@
       "onboard_time": 1728230300,
       "rank": 47,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 29175,
+      "num": 208191,
+      "word": "王一博公益站帮助25名儿童",
+      "onboard_time": 1728288982,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 28660,
@@ -4809,6 +4929,14 @@
       "onboard_time": 1728253332,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 26770,
+      "num": 440264,
+      "word": "全国秋收近四成",
+      "onboard_time": 1728288982,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 26439,
@@ -4997,6 +5125,9 @@
     },
     {
       "word": "#感悟总书记的传统文化情结#"
+    },
+    {
+      "word": "#75秒看见人民共和国75年跨越#"
     }
   ]
 }
