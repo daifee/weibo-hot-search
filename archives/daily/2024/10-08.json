@@ -1,6 +1,6 @@
 {
   "startTime": 1728318463808,
-  "endTime": 1728336969292,
+  "endTime": 1728339721850,
   "band_list": [
     {
       "raw_hot": 745456,
@@ -131,6 +131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 169980,
+      "num": 372353,
+      "word": "紧急提醒在巴中国公民做好安全防范",
+      "onboard_time": 1728321075,
+      "rank": 9,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 166897,
       "num": 839353,
       "word": "苹果或将放弃一年一更新模式",
@@ -249,14 +257,6 @@
       "onboard_time": 1728311363,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 108050,
-      "num": 184396,
-      "word": "紧急提醒在巴中国公民做好安全防范",
-      "onboard_time": 1728321075,
-      "rank": 9,
-      "category": "国外时政"
     },
     {
       "raw_hot": 104319,
@@ -411,6 +411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 62373,
+      "num": 61362,
+      "word": "吴昕在上海穿上了羽绒服",
+      "onboard_time": 1728285800,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 61267,
       "num": 85705,
       "word": "电影浴火之路国庆档亚军",
@@ -451,12 +459,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 49060,
-      "num": 61362,
-      "word": "吴昕在上海穿上了羽绒服",
-      "onboard_time": 1728285800,
-      "rank": 38,
-      "category": "艺人"
+      "raw_hot": 45393,
+      "num": 45393,
+      "word": "3人躲过亚丁景区清山还撬门拔监控",
+      "onboard_time": 1728329771,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 44133,
@@ -467,12 +475,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 43613,
+      "num": 56550,
+      "word": "北京新房认购量提高2倍",
+      "onboard_time": 1728330670,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 40278,
       "num": 126233,
       "word": "张艺兴生日张家界热度飙升",
       "onboard_time": 1728320115,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 40247,
+      "num": 126182,
+      "word": "中东全面战争可能性存在但没有变得更高",
+      "onboard_time": 1728298585,
+      "rank": 45,
+      "category": "国外时政"
     },
     {
       "raw_hot": 39507,
@@ -491,14 +515,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 37034,
-      "num": 126182,
-      "word": "中东全面战争可能性存在但没有变得更高",
-      "onboard_time": 1728298585,
-      "rank": 45,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 30320,
       "num": 42472,
       "word": "隰县副县长变身导游实力宠粉",
@@ -507,39 +523,23 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 29315,
-      "num": 27483,
-      "word": "3人躲过亚丁景区清山还撬门拔监控",
-      "onboard_time": 1728329771,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 29281,
-      "num": 29281,
-      "word": "北京新房认购量提高2倍",
-      "onboard_time": 1728330670,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 26665,
-      "num": 26665,
-      "word": "黎巴嫩美丽海滨住满流离失所的人",
-      "onboard_time": 1728331571,
-      "rank": 43,
-      "category": "国外时政"
-    },
-    {
-      "raw_hot": 25296,
-      "num": 25296,
+      "raw_hot": 29592,
+      "num": 29592,
       "word": "中东局势多点升级",
       "onboard_time": 1728332891,
       "rank": 42,
       "category": "国外时政"
     },
     {
-      "raw_hot": 22596,
+      "raw_hot": 29524,
+      "num": 29524,
+      "word": "黎巴嫩美丽海滨住满流离失所的人",
+      "onboard_time": 1728331571,
+      "rank": 43,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 25253,
       "num": 57908,
       "word": "未来10天全国大部气温偏高",
       "onboard_time": 1728324973,
@@ -547,11 +547,35 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 21313,
+      "raw_hot": 23536,
+      "num": 24770,
+      "word": "加沙废墟可堆满11个埃及金字塔",
+      "onboard_time": 1728331511,
+      "rank": 47,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 23273,
       "num": 26290,
       "word": "广州部分楼盘日到访量暴增200%",
       "onboard_time": 1728332771,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 21617,
+      "num": 24746,
+      "word": "徐正溪赶上假期的末班车",
+      "onboard_time": 1728339194,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 20907,
+      "num": 28882,
+      "word": "多平台显示国庆出境游订单量超2019年",
+      "onboard_time": 1728331691,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -564,7 +588,7 @@
     },
     {
       "raw_hot": 19361,
-      "num": 21896,
+      "num": 24728,
       "word": "加沙城所到之处满目疮痍",
       "onboard_time": 1728327672,
       "rank": 48,
@@ -579,27 +603,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 18858,
-      "num": 18858,
-      "word": "加沙废墟可堆满11个埃及金字塔",
-      "onboard_time": 1728331511,
-      "rank": 47,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 18775,
       "num": 40278,
       "word": "感受玫瑰花开视觉盛宴",
       "onboard_time": 1728327911,
       "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 18717,
-      "num": 28882,
-      "word": "多平台显示国庆出境游订单量超2019年",
-      "onboard_time": 1728331691,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
