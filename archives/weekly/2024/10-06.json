@@ -1,6 +1,6 @@
 {
   "startTime": 1728145573126,
-  "endTime": 1728312048200,
+  "endTime": 1728314646876,
   "band_list": [
     {
       "raw_hot": 8274483,
@@ -419,6 +419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 916831,
+      "num": 268031,
+      "word": "李敏镐37岁的状态",
+      "onboard_time": 1728311363,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 910988,
       "num": 261816,
       "word": "花学",
@@ -787,6 +795,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 613292,
+      "num": 353042,
+      "word": "博主擅闯哀牢山禁区已违法",
+      "onboard_time": 1728307222,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 609006,
       "num": 275923,
       "word": "结婚彩礼该不该直接给新娘",
@@ -809,6 +825,14 @@
       "onboard_time": 1728226760,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 604317,
+      "num": 250339,
+      "word": "檀健次 求你们回头看看",
+      "onboard_time": 1728311962,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 590546,
@@ -873,14 +897,6 @@
       "onboard_time": 1728219323,
       "rank": 11,
       "category": "体育"
-    },
-    {
-      "raw_hot": 536925,
-      "num": 353042,
-      "word": "博主擅闯哀牢山禁区已违法",
-      "onboard_time": 1728307222,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 534786,
@@ -1075,6 +1091,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 431178,
+      "num": 431178,
+      "word": "今天24时前就近下高速",
+      "onboard_time": 1728308300,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 429340,
       "num": 272223,
       "word": "华晨宇谈抑郁症",
@@ -1129,14 +1153,6 @@
       "onboard_time": 1728218180,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 421204,
-      "num": 268031,
-      "word": "李敏镐37岁的状态",
-      "onboard_time": 1728311363,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 417655,
@@ -1411,14 +1427,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 355632,
-      "num": 355632,
-      "word": "今天24时前就近下高速",
-      "onboard_time": 1728308300,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 355573,
       "num": 298605,
       "word": "猫 这个豪门我非进不可",
@@ -1571,6 +1579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 320016,
+      "num": 257912,
+      "word": "王楚钦张本智和同处上半区",
+      "onboard_time": 1728311123,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 319259,
       "num": 319259,
       "word": "许嵩演唱会嘉宾是谭晶",
@@ -1617,6 +1633,14 @@
       "onboard_time": 1728305902,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 310475,
+      "num": 310475,
+      "word": "亚锦赛分区",
+      "onboard_time": 1728310343,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 308427,
@@ -1891,6 +1915,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 263504,
+      "num": 354484,
+      "word": "3岁男孩打乒乓球气势十足",
+      "onboard_time": 1728311363,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 263284,
       "num": 263284,
       "word": "谁敢动文物我就拿这把剑跟他拼了",
@@ -1923,20 +1955,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 258542,
+      "num": 258542,
+      "word": "再过85天就又能过元旦了",
+      "onboard_time": 1728309502,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 258521,
       "num": 258521,
       "word": "iPhone16物料成本拆解出炉",
       "onboard_time": 1728171615,
       "rank": 8,
       "category": "数码"
-    },
-    {
-      "raw_hot": 257912,
-      "num": 257912,
-      "word": "王楚钦张本智和同处上半区",
-      "onboard_time": 1728311123,
-      "rank": 26,
-      "category": "体育"
     },
     {
       "raw_hot": 256195,
@@ -2065,14 +2097,6 @@
       "onboard_time": 1728274038,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 239142,
-      "num": 278742,
-      "word": "亚锦赛分区",
-      "onboard_time": 1728310343,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 238216,
@@ -2249,6 +2273,14 @@
       "onboard_time": 1728190039,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 218780,
+      "num": 218780,
+      "word": "救护车鸣笛送病重婴儿遇小车不让路",
+      "onboard_time": 1728309082,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 218473,
@@ -2539,6 +2571,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 200081,
+      "num": 200081,
+      "word": "人均花3万年轻人爱上非洲游",
+      "onboard_time": 1728310642,
+      "rank": 37,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 198849,
       "num": 198849,
       "word": "姚晨问白宇吃面会不会挂胡子上",
@@ -2689,14 +2729,6 @@
       "onboard_time": 1728221659,
       "rank": 38,
       "category": "财经"
-    },
-    {
-      "raw_hot": 189727,
-      "num": 189727,
-      "word": "救护车鸣笛送病重婴儿遇小车不让路",
-      "onboard_time": 1728309082,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 188529,
@@ -2931,6 +2963,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 175606,
+      "num": 175606,
+      "word": "女子深夜高速上突遇逆行车辆",
+      "onboard_time": 1728311843,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 175175,
       "num": 175175,
       "word": "小西天被喊差评后疯狂宠游客",
@@ -3041,6 +3081,14 @@
       "onboard_time": 1728227600,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 166168,
+      "num": 166168,
+      "word": "看完流水迢迢走不出来",
+      "onboard_time": 1728313343,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 166155,
@@ -3281,14 +3329,6 @@
       "onboard_time": 1728198618,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 155095,
-      "num": 155095,
-      "word": "人均花3万年轻人爱上非洲游",
-      "onboard_time": 1728310642,
-      "rank": 37,
-      "category": "旅游"
     },
     {
       "raw_hot": 155034,
@@ -3571,6 +3611,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 146731,
+      "num": 146731,
+      "word": "周深演唱会",
+      "onboard_time": 1728313640,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
       "raw_hot": 146310,
       "num": 146310,
       "word": "南京玄武湖的鸭子船都有班味了",
@@ -3745,14 +3793,6 @@
       "onboard_time": 1728203478,
       "rank": 37,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 138575,
-      "num": 252218,
-      "word": "再过85天就又能过元旦了",
-      "onboard_time": 1728309502,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 138571,
@@ -4003,6 +4043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 127441,
+      "num": 127441,
+      "word": "被爱着的人根本不需要积极表现",
+      "onboard_time": 1728312144,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 127386,
       "num": 127386,
       "word": "严浩翔换红发记录",
@@ -4113,14 +4161,6 @@
       "onboard_time": 1728141020,
       "rank": 40,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 121845,
-      "num": 121845,
-      "word": "檀健次 求你们回头看看",
-      "onboard_time": 1728311962,
-      "rank": 45,
-      "category": "演出"
     },
     {
       "raw_hot": 121615,
@@ -4915,6 +4955,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 92959,
+      "num": 92959,
+      "word": "郑钦文是武网5号种子",
+      "onboard_time": 1728312502,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 92584,
       "num": 248068,
       "word": "机构称市场行情将迎来大拐点",
@@ -5065,14 +5113,6 @@
       "onboard_time": 1728277999,
       "rank": 46,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 83643,
-      "num": 354484,
-      "word": "3岁男孩打乒乓球气势十足",
-      "onboard_time": 1728311363,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 83040,
@@ -5683,6 +5723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 39119,
+      "num": 252127,
+      "word": "杭州义乌成老外入境游热门目的地",
+      "onboard_time": 1728314063,
+      "rank": 14,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 38956,
       "num": 101456,
       "word": "假期预约开户80后90后成主力军",
@@ -5809,6 +5857,14 @@
       "onboard_time": 1728184938,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 32683,
+      "num": 115202,
+      "word": "12岁汉服女孩与杜甫丝滑对诗280秒",
+      "onboard_time": 1728313821,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 32531,
