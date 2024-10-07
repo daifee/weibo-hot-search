@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/10/01 00:28:17 ~ 2024/10/08 06:22:01
+本榜单时间：2024/10/01 00:28:17 ~ 2024/10/08 06:39:59
 </p>
 </blockquote>
 <p>
@@ -4839,6 +4839,12 @@ aespa将发行个人单曲（热度：260834）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BD%99%E5%8D%8E%E8%8B%B1%E6%8B%90%E8%B5%B012%E4%B8%AA%E5%AE%B6%E5%BA%AD%E7%9A%8417%E4%B8%AA%E5%AD%A9%E5%AD%90%23" target="weibo">
+余华英拐走12个家庭的17个孩子（热度：259353）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%81%87%E6%9C%9F%E7%AC%AC%E4%B8%80%E4%B8%AA7%E5%88%86%E4%B9%8B1%E4%BD%A0%E5%81%9A%E4%BA%86%E5%95%A5%23" target="weibo">
 假期第一个7分之1你做了啥（热度：258925）
 </a>
@@ -5171,6 +5177,12 @@ TES对战FNC（热度：245650）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%BA%94%E4%BA%BA%E6%A0%BC%E9%BB%AF%23" target="weibo">
 第五人格黯（热度：241900）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%B4%A7%E6%80%A5%E6%8F%90%E9%86%92%E5%9C%A8%E5%B7%B4%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E5%81%9A%E5%A5%BD%E5%AE%89%E5%85%A8%E9%98%B2%E8%8C%83%23" target="weibo">
+紧急提醒在巴中国公民做好安全防范（热度：241823）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ WTT混双决赛（热度：220949）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23BeliftLab%E8%A6%81%E6%B1%82Hanni%E9%81%93%E6%AD%89%23" target="weibo">
 BeliftLab要求Hanni道歉（热度：209510）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B5%E5%88%80%23" target="weibo">
-电刀（热度：209254）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%9B%BC%E6%98%B1%E8%A2%AB%E9%97%AA%E5%85%89%E7%81%AF%E5%BD%B1%E5%93%8D%23" target="weibo">
-王曼昱被闪光灯影响（热度：209158）
 </a>
 </li>
 

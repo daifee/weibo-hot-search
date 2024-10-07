@@ -1,6 +1,6 @@
 {
   "startTime": 1728318463808,
-  "endTime": 1728339721850,
+  "endTime": 1728340799942,
   "band_list": [
     {
       "raw_hot": 745456,
@@ -107,6 +107,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 259353,
+      "num": 127402,
+      "word": "余华英拐走12个家庭的17个孩子",
+      "onboard_time": 1728320177,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 241823,
+      "num": 477597,
+      "word": "紧急提醒在巴中国公民做好安全防范",
+      "onboard_time": 1728321075,
+      "rank": 9,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 217671,
       "num": 143811,
       "word": "周深 往事流zuan在li眼眸",
@@ -115,28 +131,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 209234,
+      "num": 149240,
+      "word": "伊朗总统说与其死在床上不如当殉道者",
+      "onboard_time": 1728307281,
+      "rank": 24,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 177699,
       "num": 177699,
       "word": "成龙已经70岁了",
       "onboard_time": 1728307882,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 171150,
-      "num": 127402,
-      "word": "余华英拐走12个家庭的17个孩子",
-      "onboard_time": 1728320177,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 169980,
-      "num": 372353,
-      "word": "紧急提醒在巴中国公民做好安全防范",
-      "onboard_time": 1728321075,
-      "rank": 9,
-      "category": "国外时政"
     },
     {
       "raw_hot": 166897,
@@ -163,6 +171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 154545,
+      "num": 127363,
+      "word": "衢州发现传说中的四不像",
+      "onboard_time": 1728305303,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 150350,
       "num": 808980,
       "word": "贝聿铭的小女儿18岁啦",
@@ -177,14 +193,6 @@
       "onboard_time": 1728305422,
       "rank": 23,
       "category": "体育,作品衍生"
-    },
-    {
-      "raw_hot": 149240,
-      "num": 149240,
-      "word": "伊朗总统说与其死在床上不如当殉道者",
-      "onboard_time": 1728307281,
-      "rank": 24,
-      "category": "国外时政"
     },
     {
       "raw_hot": 148240,
@@ -217,14 +225,6 @@
       "onboard_time": 1728311123,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 120076,
-      "num": 127363,
-      "word": "衢州发现传说中的四不像",
-      "onboard_time": 1728305303,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 115793,
@@ -355,20 +355,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 76204,
+      "num": 126352,
+      "word": "外交部回应中方车队在巴基斯坦遭恐袭",
+      "onboard_time": 1728302603,
+      "rank": 43,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 75489,
       "num": 126004,
       "word": "哀牢山小西天接住了泼天富贵",
       "onboard_time": 1728308241,
       "rank": 42,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 73846,
-      "num": 126352,
-      "word": "外交部回应中方车队在巴基斯坦遭恐袭",
-      "onboard_time": 1728302603,
-      "rank": 43,
-      "category": "国外时政"
     },
     {
       "raw_hot": 70034,
@@ -435,6 +435,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 60246,
+      "num": 60246,
+      "word": "北京新房认购量提高2倍",
+      "onboard_time": 1728330670,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 59891,
+      "num": 52755,
+      "word": "3人躲过亚丁景区清山还撬门拔监控",
+      "onboard_time": 1728329771,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 58677,
       "num": 85703,
       "word": "何炅再度呼喊超女快女的名字",
@@ -459,12 +475,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 45393,
-      "num": 45393,
-      "word": "3人躲过亚丁景区清山还撬门拔监控",
-      "onboard_time": 1728329771,
-      "rank": 22,
-      "category": "社会新闻"
+      "raw_hot": 52250,
+      "num": 126182,
+      "word": "中东全面战争可能性存在但没有变得更高",
+      "onboard_time": 1728298585,
+      "rank": 45,
+      "category": "国外时政"
     },
     {
       "raw_hot": 44133,
@@ -475,12 +491,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 43613,
-      "num": 56550,
-      "word": "北京新房认购量提高2倍",
-      "onboard_time": 1728330670,
-      "rank": 29,
-      "category": "社会新闻"
+      "raw_hot": 42576,
+      "num": 42576,
+      "word": "徐正溪赶上假期的末班车",
+      "onboard_time": 1728339194,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 40278,
@@ -489,14 +505,6 @@
       "onboard_time": 1728320115,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 40247,
-      "num": 126182,
-      "word": "中东全面战争可能性存在但没有变得更高",
-      "onboard_time": 1728298585,
-      "rank": 45,
-      "category": "国外时政"
     },
     {
       "raw_hot": 39507,
@@ -515,6 +523,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 32304,
+      "num": 33692,
+      "word": "黎巴嫩美丽海滨住满流离失所的人",
+      "onboard_time": 1728331571,
+      "rank": 43,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 31526,
+      "num": 33688,
+      "word": "中东局势多点升级",
+      "onboard_time": 1728332891,
+      "rank": 42,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 30320,
       "num": 42472,
       "word": "隰县副县长变身导游实力宠粉",
@@ -523,23 +547,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 29592,
-      "num": 29592,
-      "word": "中东局势多点升级",
-      "onboard_time": 1728332891,
-      "rank": 42,
-      "category": "国外时政"
-    },
-    {
-      "raw_hot": 29524,
-      "num": 29524,
-      "word": "黎巴嫩美丽海滨住满流离失所的人",
-      "onboard_time": 1728331571,
-      "rank": 43,
-      "category": "国外时政"
-    },
-    {
-      "raw_hot": 25253,
+      "raw_hot": 30134,
       "num": 57908,
       "word": "未来10天全国大部气温偏高",
       "onboard_time": 1728324973,
@@ -547,32 +555,24 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 23536,
-      "num": 24770,
+      "raw_hot": 26369,
+      "num": 33675,
       "word": "加沙废墟可堆满11个埃及金字塔",
       "onboard_time": 1728331511,
       "rank": 47,
       "category": "国外时政"
     },
     {
-      "raw_hot": 23273,
-      "num": 26290,
+      "raw_hot": 23416,
+      "num": 33664,
       "word": "广州部分楼盘日到访量暴增200%",
       "onboard_time": 1728332771,
       "rank": 19,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 21617,
-      "num": 24746,
-      "word": "徐正溪赶上假期的末班车",
-      "onboard_time": 1728339194,
-      "rank": 47,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 20907,
-      "num": 28882,
+      "raw_hot": 22537,
+      "num": 33656,
       "word": "多平台显示国庆出境游订单量超2019年",
       "onboard_time": 1728331691,
       "rank": 9,
