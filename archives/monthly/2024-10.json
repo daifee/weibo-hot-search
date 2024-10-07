@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1728343278375,
+  "endTime": 1728344131489,
   "band_list": [
     {
       "raw_hot": 11925969,
@@ -2083,6 +2083,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 672854,
+      "num": 143164,
+      "word": "上海套内32平米的家",
+      "onboard_time": 1728342737,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 671053,
       "num": 363426,
       "word": "樊振东杂志",
@@ -3675,6 +3683,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 443688,
+      "num": 141501,
+      "word": "余华英拐走12个家庭的17个孩子",
+      "onboard_time": 1728320177,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 442963,
       "num": 184627,
       "word": "有点理解校领导为什么爱看跑操了",
@@ -3867,14 +3883,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 418237,
-      "num": 127402,
-      "word": "余华英拐走12个家庭的17个孩子",
-      "onboard_time": 1728320177,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 417655,
       "num": 417655,
       "word": "26岁研究员带宝剑护送2000多件文物",
@@ -3891,8 +3899,16 @@
       "category": "网红"
     },
     {
+      "raw_hot": 417260,
+      "num": 261948,
+      "word": "伊朗总统说与其死在床上不如当殉道者",
+      "onboard_time": 1728307281,
+      "rank": 30,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 416999,
-      "num": 761164,
+      "num": 863164,
       "word": "紧急提醒在巴中国公民做好安全防范",
       "onboard_time": 1728321075,
       "rank": 9,
@@ -4016,14 +4032,6 @@
       "word": "伊朗袭击以色列美军舰参与拦截",
       "onboard_time": 1727945839,
       "rank": 22,
-      "category": "国外时政"
-    },
-    {
-      "raw_hot": 404182,
-      "num": 261948,
-      "word": "伊朗总统说与其死在床上不如当殉道者",
-      "onboard_time": 1728307281,
-      "rank": 30,
       "category": "国外时政"
     },
     {
@@ -4259,6 +4267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 382673,
+      "num": 283306,
+      "word": "还原8人被终身禁入亚丁景区始末",
+      "onboard_time": 1728309804,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 381256,
       "num": 332808,
       "word": "向佐 鼻梁中有老婆",
@@ -4305,14 +4321,6 @@
       "onboard_time": 1727880320,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 376547,
-      "num": 283306,
-      "word": "还原8人被终身禁入亚丁景区始末",
-      "onboard_time": 1728309804,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 376391,
@@ -4624,6 +4632,14 @@
       "word": "大同降雪迎亲队冒雪抬新娘行进",
       "onboard_time": 1727818031,
       "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 354816,
+      "num": 284414,
+      "word": "女子深夜高速上突遇逆行车辆",
+      "onboard_time": 1728311843,
+      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -5731,14 +5747,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 286178,
-      "num": 121855,
-      "word": "上海套内32平米的家",
-      "onboard_time": 1728342737,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 286162,
       "num": 286162,
       "word": "749局会征服每一个小孩哥",
@@ -5792,14 +5800,6 @@
       "word": "股民连夜找回密码重启账户",
       "onboard_time": 1727893273,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 284414,
-      "num": 284414,
-      "word": "女子深夜高速上突遇逆行车辆",
-      "onboard_time": 1728311843,
-      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -7451,6 +7451,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 224820,
+      "num": 224820,
+      "word": "节后上班",
+      "onboard_time": 1728343516,
+      "rank": 3,
+      "category": "情感"
+    },
+    {
       "raw_hot": 224705,
       "num": 224705,
       "word": "Bin",
@@ -7921,6 +7929,14 @@
       "onboard_time": 1727827398,
       "rank": 31,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 212940,
+      "num": 212940,
+      "word": "今日寒露",
+      "onboard_time": 1728342676,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 212775,
@@ -10113,14 +10129,6 @@
       "onboard_time": 1728308241,
       "rank": 39,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 175712,
-      "num": 175712,
-      "word": "今日寒露",
-      "onboard_time": 1728342676,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 175470,
@@ -12363,6 +12371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 144799,
+      "num": 144799,
+      "word": "s14抽签",
+      "onboard_time": 1728342977,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 144771,
       "num": 144771,
       "word": "龚俊公主抱彭小苒",
@@ -12923,6 +12939,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 138403,
+      "num": 138403,
+      "word": "为啥高铁开到山东突然变慢了",
+      "onboard_time": 1728343577,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 138388,
       "num": 138388,
       "word": "香港金紫荆广场升五星红旗",
@@ -13153,6 +13177,14 @@
       "onboard_time": 1727842938,
       "rank": 26,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 135834,
+      "num": 135834,
+      "word": "小车占应急车道拒让救护车被罚",
+      "onboard_time": 1728341113,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 135750,
@@ -13713,6 +13745,14 @@
       "onboard_time": 1727790323,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 130531,
+      "num": 119937,
+      "word": "一场预谋已久的婚礼转场视频",
+      "onboard_time": 1728342737,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 130399,
@@ -14292,7 +14332,7 @@
     },
     {
       "raw_hot": 124381,
-      "num": 124381,
+      "num": 143988,
       "word": "北京新房认购量提高2倍",
       "onboard_time": 1728330670,
       "rank": 29,
@@ -14369,6 +14409,14 @@
       "onboard_time": 1727745378,
       "rank": 8,
       "category": "电影"
+    },
+    {
+      "raw_hot": 123428,
+      "num": 144695,
+      "word": "柳智敏宁艺卓预告照",
+      "onboard_time": 1728342557,
+      "rank": 8,
+      "category": "音乐,艺人"
     },
     {
       "raw_hot": 123257,
@@ -14457,6 +14505,14 @@
       "onboard_time": 1728178337,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 122045,
+      "num": 122045,
+      "word": "徐正溪赶上假期的末班车",
+      "onboard_time": 1728339194,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 121907,
@@ -15795,6 +15851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 108651,
+      "num": 108651,
+      "word": "小米SU7假期锁单超6000辆",
+      "onboard_time": 1728343157,
+      "rank": 45,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 108633,
       "num": 108633,
       "word": "王楚钦说我们下个赛场见",
@@ -16587,14 +16651,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 100822,
-      "num": 100822,
-      "word": "徐正溪赶上假期的末班车",
-      "onboard_time": 1728339194,
-      "rank": 47,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 100814,
       "num": 100814,
       "word": "赵丽颖新片命数感应",
@@ -16659,14 +16715,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 100190,
-      "num": 100190,
-      "word": "小车占应急车道拒让救护车被罚",
-      "onboard_time": 1728341113,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 100008,
       "num": 100008,
       "word": "鞠婧祎氛围感夜拍",
@@ -16697,6 +16745,14 @@
       "onboard_time": 1727948477,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 99582,
+      "num": 99582,
+      "word": "TES将对战DK",
+      "onboard_time": 1728343516,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 99543,
@@ -16945,6 +17001,14 @@
       "onboard_time": 1728278298,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 96631,
+      "num": 96631,
+      "word": "BLG疑似轮换打野",
+      "onboard_time": 1728343157,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 96607,
@@ -17305,6 +17369,14 @@
       "onboard_time": 1728047300,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 91485,
+      "num": 123129,
+      "word": "张艺兴早期太抽象了",
+      "onboard_time": 1728342436,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 91463,
@@ -17755,6 +17827,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 83969,
+      "num": 83969,
+      "word": "WBG和BLG需连赢两场",
+      "onboard_time": 1728343516,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 83941,
       "num": 103952,
       "word": "成都混团世界杯名单",
@@ -17769,6 +17849,14 @@
       "onboard_time": 1728277999,
       "rank": 46,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 83637,
+      "num": 83637,
+      "word": "被河南小吃的物价震惊了",
+      "onboard_time": 1728343577,
+      "rank": 39,
+      "category": "美食"
     },
     {
       "raw_hot": 83577,
@@ -17969,14 +18057,6 @@
       "onboard_time": 1728000137,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 79559,
-      "num": 124315,
-      "word": "柳智敏宁艺卓预告照",
-      "onboard_time": 1728342557,
-      "rank": 8,
-      "category": "音乐,艺人"
     },
     {
       "raw_hot": 79513,
@@ -18265,6 +18345,14 @@
       "onboard_time": 1727703800,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 73477,
+      "num": 136512,
+      "word": "时代少年团新歌将上线",
+      "onboard_time": 1728343637,
+      "rank": 24,
+      "category": "音乐"
     },
     {
       "raw_hot": 73402,
@@ -18579,14 +18667,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 65470,
-      "num": 103595,
-      "word": "张艺兴早期太抽象了",
-      "onboard_time": 1728342436,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 65450,
       "num": 346515,
       "word": "6岁警娃国庆节跟爸爸巡边3小时累到哭",
@@ -18699,6 +18779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 63644,
+      "num": 63644,
+      "word": "土象星座在感情里真的是非常作的",
+      "onboard_time": 1728342676,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 63493,
       "num": 127007,
       "word": "中俄巴伊四国外长联合声明",
@@ -18737,6 +18825,14 @@
       "onboard_time": 1728320475,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 62321,
+      "num": 62321,
+      "word": "鬼魂式分手",
+      "onboard_time": 1728342977,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 62308,
@@ -18793,14 +18889,6 @@
       "onboard_time": 1728116000,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 60599,
-      "num": 60599,
-      "word": "BLG疑似轮换打野",
-      "onboard_time": 1728343157,
-      "rank": 41,
-      "category": "电竞"
     },
     {
       "raw_hot": 60423,
@@ -18963,28 +19051,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 57926,
-      "num": 57926,
-      "word": "s14抽签",
-      "onboard_time": 1728342977,
-      "rank": 42,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 57917,
       "num": 473835,
       "word": "孙颖莎一天双赛",
       "onboard_time": 1727947399,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 57905,
-      "num": 57905,
-      "word": "土象星座在感情里真的是非常作的",
-      "onboard_time": 1728342676,
-      "rank": 43,
-      "category": "情感"
     },
     {
       "raw_hot": 57867,
@@ -19155,14 +19227,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 55357,
-      "num": 55357,
-      "word": "小米SU7假期锁单超6000辆",
-      "onboard_time": 1728343157,
-      "rank": 45,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 55320,
       "num": 224463,
       "word": "国庆假期各大券商开户数创历史新高",
@@ -19273,14 +19337,6 @@
       "onboard_time": 1727939717,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 52495,
-      "num": 52495,
-      "word": "一场预谋已久的婚礼转场视频",
-      "onboard_time": 1728342737,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 52219,
@@ -21523,19 +21579,19 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 15652,
+      "num": 525868,
+      "word": "国庆文旅图景尽显活力中国",
+      "onboard_time": 1728304823,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 15432,
       "num": 225608,
       "word": "用爱心骑行的方式祝福祖国",
       "onboard_time": 1727756419,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 15049,
-      "num": 525868,
-      "word": "国庆文旅图景尽显活力中国",
-      "onboard_time": 1728304823,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
