@@ -1,6 +1,6 @@
 {
   "startTime": 1728145573126,
-  "endTime": 1728285720067,
+  "endTime": 1728286507066,
   "band_list": [
     {
       "raw_hot": 8274483,
@@ -363,6 +363,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 821210,
+      "num": 225025,
+      "word": "翁青雅 我奉陪到底",
+      "onboard_time": 1728283518,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 814677,
       "num": 484145,
       "word": "霉霉净资产",
@@ -595,14 +603,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 643838,
-      "num": 213374,
-      "word": "翁青雅 我奉陪到底",
-      "onboard_time": 1728283518,
-      "rank": 10,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 636345,
       "num": 560484,
       "word": "叙利亚已申请加入金砖国家",
@@ -732,7 +732,7 @@
     },
     {
       "raw_hot": 510387,
-      "num": 166878,
+      "num": 182374,
       "word": "芒果新签的男艺人",
       "onboard_time": 1728283879,
       "rank": 21,
@@ -835,8 +835,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 454922,
-      "num": 454922,
+      "raw_hot": 465270,
+      "num": 465270,
       "word": "男大学生陪爬泰山情绪价值给满了",
       "onboard_time": 1728279438,
       "rank": 46,
@@ -873,6 +873,14 @@
       "onboard_time": 1728257417,
       "rank": 19,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 431681,
+      "num": 431681,
+      "word": "西湖新女警是16年前走丢的那个孩子",
+      "onboard_time": 1728283338,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 429340,
@@ -1299,6 +1307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 321823,
+      "num": 321823,
+      "word": "我国首次截获黑脊红蚁",
+      "onboard_time": 1728281538,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 319259,
       "num": 319259,
       "word": "许嵩演唱会嘉宾是谭晶",
@@ -1627,14 +1643,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 248029,
-      "num": 248029,
-      "word": "西湖新女警是16年前走丢的那个孩子",
-      "onboard_time": 1728283338,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 245650,
       "num": 245650,
       "word": "TES对战FNC",
@@ -1883,6 +1891,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 212894,
+      "num": 177392,
+      "word": "孙颖莎说和王曼昱是良性竞争",
+      "onboard_time": 1728283698,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 212891,
+      "num": 176236,
+      "word": "吴昕在上海穿上了羽绒服",
+      "onboard_time": 1728285800,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 212775,
       "num": 212775,
       "word": "我国庆7天假期belike",
@@ -1907,12 +1931,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 210841,
-      "num": 166045,
-      "word": "孙颖莎说和王曼昱是良性竞争",
-      "onboard_time": 1728283698,
-      "rank": 22,
-      "category": "体育"
+      "raw_hot": 210099,
+      "num": 210099,
+      "word": "苏新皓在大街上跳舞",
+      "onboard_time": 1728285560,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 210086,
@@ -1969,14 +1993,6 @@
       "onboard_time": 1728190759,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 204676,
-      "num": 204676,
-      "word": "我国首次截获黑脊红蚁",
-      "onboard_time": 1728281538,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 204527,
@@ -2419,6 +2435,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 165067,
+      "num": 165067,
+      "word": "雷军AI",
+      "onboard_time": 1728282258,
+      "rank": 45,
+      "category": "数码"
+    },
+    {
       "raw_hot": 164980,
       "num": 164980,
       "word": "小车高速上倒车致多车追尾",
@@ -2441,6 +2465,14 @@
       "onboard_time": 1728125059,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 164211,
+      "num": 164211,
+      "word": "河北美院的嘴可真严啊",
+      "onboard_time": 1728284420,
+      "rank": 33,
+      "category": "旅游"
     },
     {
       "raw_hot": 163272,
@@ -2513,6 +2545,14 @@
       "onboard_time": 1728209238,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 159505,
+      "num": 159505,
+      "word": "隰县小西天发文致谢天命人",
+      "onboard_time": 1728281237,
+      "rank": 36,
+      "category": "社会新闻,游戏"
     },
     {
       "raw_hot": 158550,
@@ -2601,14 +2641,6 @@
       "onboard_time": 1728142818,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 154311,
-      "num": 154311,
-      "word": "雷军AI",
-      "onboard_time": 1728282258,
-      "rank": 45,
-      "category": "数码"
     },
     {
       "raw_hot": 153674,
@@ -2835,6 +2867,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 145894,
+      "num": 145894,
+      "word": "交警回应高速现钉子多车轮胎被扎",
+      "onboard_time": 1728285680,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 145821,
       "num": 145821,
       "word": "仙逆",
@@ -2881,6 +2921,14 @@
       "onboard_time": 1728176478,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 142613,
+      "num": 142613,
+      "word": "潘玮柏评论区",
+      "onboard_time": 1728286160,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 142237,
@@ -3067,14 +3115,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 131835,
-      "num": 131835,
-      "word": "苏新皓在大街上跳舞",
-      "onboard_time": 1728285560,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 131743,
       "num": 131743,
       "word": "龚俊玩伞路透",
@@ -3195,14 +3235,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 126684,
-      "num": 126684,
-      "word": "河北美院的嘴可真严啊",
-      "onboard_time": 1728284420,
-      "rank": 33,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 125968,
       "num": 125968,
       "word": "800元能买到什么手机",
@@ -3289,6 +3321,14 @@
       "onboard_time": 1728185357,
       "rank": 46,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 121052,
+      "num": 121052,
+      "word": "国庆期间哀牢山共接待5万余游客",
+      "onboard_time": 1728282018,
+      "rank": 48,
+      "category": "旅游"
     },
     {
       "raw_hot": 119818,
@@ -3379,14 +3419,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 115242,
-      "num": 115242,
-      "word": "隰县小西天发文致谢天命人",
-      "onboard_time": 1728281237,
-      "rank": 36,
-      "category": "社会新闻,游戏"
-    },
-    {
       "raw_hot": 114727,
       "num": 114727,
       "word": "Zeus夸赞Bin",
@@ -3468,7 +3500,7 @@
     },
     {
       "raw_hot": 112545,
-      "num": 341024,
+      "num": 432471,
       "word": "大数据看国庆假期消费活力",
       "onboard_time": 1728276619,
       "rank": 2,
@@ -3529,6 +3561,14 @@
       "onboard_time": 1728136098,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 109711,
+      "num": 215762,
+      "word": "被滥用的减肥神药",
+      "onboard_time": 1728279919,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 108876,
@@ -3617,14 +3657,6 @@
       "onboard_time": 1728208818,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 107346,
-      "num": 215762,
-      "word": "被滥用的减肥神药",
-      "onboard_time": 1728279919,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 106724,
@@ -3739,6 +3771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 102780,
+      "num": 194219,
+      "word": "国庆档票房超20亿",
+      "onboard_time": 1728285200,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
       "raw_hot": 102208,
       "num": 102208,
       "word": "付航好好笑",
@@ -3755,12 +3795,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 101430,
-      "num": 101430,
-      "word": "国庆期间哀牢山共接待5万余游客",
-      "onboard_time": 1728282018,
-      "rank": 48,
-      "category": "旅游"
+      "raw_hot": 101629,
+      "num": 101629,
+      "word": "伊朗民众不担心爆发战争",
+      "onboard_time": 1728285861,
+      "rank": 41,
+      "category": "国外时政"
     },
     {
       "raw_hot": 101195,
@@ -3947,14 +3987,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 90694,
-      "num": 168366,
-      "word": "国庆档票房超20亿",
-      "onboard_time": 1728285200,
-      "rank": 19,
-      "category": "电影"
-    },
-    {
       "raw_hot": 90015,
       "num": 90015,
       "word": "这回景德镇受气瓶真受气了",
@@ -4009,14 +4041,6 @@
       "onboard_time": 1728277939,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 86660,
-      "num": 86660,
-      "word": "交警回应高速现钉子多车轮胎被扎",
-      "onboard_time": 1728285680,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 86102,
@@ -4291,6 +4315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 58743,
+      "num": 225991,
+      "word": "国庆返程堵和出发堵心情截然不同",
+      "onboard_time": 1728285742,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 58522,
       "num": 58522,
       "word": "你嗜睡的锅地磁暴可不背",
@@ -4451,6 +4483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 49428,
+      "num": 217468,
+      "word": "心存敬畏别把禁区当景区",
+      "onboard_time": 1728285081,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 48956,
       "num": 48956,
       "word": "崔杋圭唱了永不失联的爱",
@@ -4592,14 +4632,6 @@
       "word": "人人人人景点人人人人",
       "onboard_time": 1728230718,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 38146,
-      "num": 212931,
-      "word": "心存敬畏别把禁区当景区",
-      "onboard_time": 1728285081,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -4747,6 +4779,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 28582,
+      "num": 225032,
+      "word": "专家称A股决胜或在12月初",
+      "onboard_time": 1728284842,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 28244,
       "num": 46323,
       "word": "粉丝音乐节现场为Henry庆生",
@@ -4793,14 +4833,6 @@
       "onboard_time": 1728217641,
       "rank": 49,
       "category": "美食"
-    },
-    {
-      "raw_hot": 24475,
-      "num": 213545,
-      "word": "专家称A股决胜或在12月初",
-      "onboard_time": 1728284842,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 23600,
