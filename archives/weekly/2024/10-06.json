@@ -1,6 +1,6 @@
 {
   "startTime": 1728145573126,
-  "endTime": 1728276109394,
+  "endTime": 1728278605376,
   "band_list": [
     {
       "raw_hot": 8274483,
@@ -312,6 +312,14 @@
       "word": "女博主独闯哀牢山深处2天后报平安",
       "onboard_time": 1728229759,
       "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 859443,
+      "num": 1137510,
+      "word": "假期结束剩奶奶独自在沙发打盹",
+      "onboard_time": 1728275899,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -987,6 +995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 375078,
+      "num": 224608,
+      "word": "多车返程高速上轮胎被扎钉子",
+      "onboard_time": 1728272718,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 374799,
       "num": 319682,
       "word": "高芙夺得中网女单冠军",
@@ -1107,6 +1123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 354716,
+      "num": 223286,
+      "word": "读了明朝那些事突然就释怀了",
+      "onboard_time": 1728274219,
+      "rank": 20,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 353807,
       "num": 353807,
       "word": "山西大同3.1级地震",
@@ -1129,14 +1153,6 @@
       "onboard_time": 1728196098,
       "rank": 48,
       "category": "演出"
-    },
-    {
-      "raw_hot": 340603,
-      "num": 222231,
-      "word": "读了明朝那些事突然就释怀了",
-      "onboard_time": 1728274219,
-      "rank": 20,
-      "category": "读书作家"
     },
     {
       "raw_hot": 338195,
@@ -1211,6 +1227,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 322007,
+      "num": 223936,
+      "word": "心动的信号",
+      "onboard_time": 1728275239,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 319259,
       "num": 319259,
       "word": "许嵩演唱会嘉宾是谭晶",
@@ -1224,14 +1248,6 @@
       "word": "斯里兰卡警方介入中国母女酒店遇袭",
       "onboard_time": 1728173837,
       "rank": 17,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 314136,
-      "num": 222382,
-      "word": "多车返程高速上轮胎被扎钉子",
-      "onboard_time": 1728272718,
-      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -1289,6 +1305,14 @@
       "onboard_time": 1728187220,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 299863,
+      "num": 299863,
+      "word": "我使馆要求彻查恐袭严惩凶手",
+      "onboard_time": 1728275119,
+      "rank": 30,
+      "category": "国外时政"
     },
     {
       "raw_hot": 299862,
@@ -1401,6 +1425,14 @@
       "onboard_time": 1728188837,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 271016,
+      "num": 223428,
+      "word": "加沙名胜古迹被彻底摧毁",
+      "onboard_time": 1728275599,
+      "rank": 36,
+      "category": "国外时政"
     },
     {
       "raw_hot": 268681,
@@ -1523,6 +1555,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 244525,
+      "num": 244525,
+      "word": "国庆假期就这么水灵灵结束了",
+      "onboard_time": 1728273558,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 243146,
       "num": 243146,
       "word": "肖战歌曲预热",
@@ -1643,20 +1683,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 223263,
+      "num": 223263,
+      "word": "花学",
+      "onboard_time": 1728277818,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 221921,
       "num": 221921,
       "word": "林诗栋说马龙是神一般的存在",
       "onboard_time": 1728225800,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 221805,
-      "num": 221805,
-      "word": "国庆假期就这么水灵灵结束了",
-      "onboard_time": 1728273558,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 219743,
@@ -2131,6 +2171,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 176580,
+      "num": 176580,
+      "word": "亚锦赛观众免费入场",
+      "onboard_time": 1728277039,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 175175,
       "num": 175175,
       "word": "小西天被喊差评后疯狂宠游客",
@@ -2145,14 +2193,6 @@
       "onboard_time": 1728220221,
       "rank": 49,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 173099,
-      "num": 173099,
-      "word": "心动的信号",
-      "onboard_time": 1728275239,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 172939,
@@ -2723,6 +2763,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 140302,
+      "num": 140302,
+      "word": "为什么假期一眨眼就结束了",
+      "onboard_time": 1728276858,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 140289,
       "num": 140289,
       "word": "原来林诗栋出生前马龙就在国家队了",
@@ -2787,12 +2835,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 134881,
+      "num": 134881,
+      "word": "马龙下个赛场见",
+      "onboard_time": 1728275779,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 134698,
       "num": 134698,
       "word": "本周狗屎运最旺的星座",
       "onboard_time": 1728258075,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 134378,
+      "num": 134378,
+      "word": "TF四代全员新歌落日只会道别",
+      "onboard_time": 1728277759,
+      "rank": 30,
+      "category": "音乐"
     },
     {
       "raw_hot": 133006,
@@ -3035,14 +3099,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 121201,
-      "num": 121201,
-      "word": "我使馆要求彻查恐袭严惩凶手",
-      "onboard_time": 1728275119,
-      "rank": 30,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 121183,
       "num": 121183,
       "word": "洛天依全息演唱会",
@@ -3267,20 +3323,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 109649,
-      "num": 109649,
-      "word": "加沙名胜古迹被彻底摧毁",
-      "onboard_time": 1728275599,
-      "rank": 36,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 108633,
       "num": 108633,
       "word": "王楚钦说我们下个赛场见",
       "onboard_time": 1728170414,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 108521,
+      "num": 223398,
+      "word": "节后A股开市将怎么走",
+      "onboard_time": 1728274038,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 108004,
@@ -3355,6 +3411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 106705,
+      "num": 106705,
+      "word": "詹姆斯真的39岁了吗",
+      "onboard_time": 1728275478,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 106169,
       "num": 106169,
       "word": "券商和半导体股或成A股首选",
@@ -3387,14 +3451,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 105198,
-      "num": 105198,
-      "word": "假期结束剩奶奶独自在沙发打盹",
-      "onboard_time": 1728275899,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 105142,
       "num": 105142,
       "word": "王楚钦梁靖崑躲采访失败",
@@ -3409,14 +3465,6 @@
       "onboard_time": 1728131900,
       "rank": 35,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 104950,
-      "num": 104950,
-      "word": "马龙下个赛场见",
-      "onboard_time": 1728275779,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 104804,
@@ -3611,6 +3659,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 92706,
+      "num": 92706,
+      "word": "我国庆7天假期belike",
+      "onboard_time": 1728277759,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 92571,
       "num": 252662,
       "word": "北上资金量成倍增长",
@@ -3651,6 +3707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 88200,
+      "num": 88200,
+      "word": "专家建议普通投资者不要盲目追涨",
+      "onboard_time": 1728278298,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 88031,
       "num": 302898,
       "word": "哀牢山擅闯保护区最高罚款5000元",
@@ -3659,12 +3723,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 87692,
+      "num": 87692,
+      "word": "汪苏泷演唱会鞠躬",
+      "onboard_time": 1728276619,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 87577,
       "num": 290296,
       "word": "吴易昺vs阿尔卡拉斯",
       "onboard_time": 1728220520,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 87283,
+      "num": 223830,
+      "word": "刘宇宁周传雄合唱",
+      "onboard_time": 1728277939,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 85237,
@@ -3699,6 +3779,30 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 84029,
+      "num": 301995,
+      "word": "大数据看国庆假期消费活力",
+      "onboard_time": 1728276619,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 83932,
+      "num": 83932,
+      "word": "加沙民众赶驴车逃难",
+      "onboard_time": 1728277999,
+      "rank": 46,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 83040,
+      "num": 83040,
+      "word": "互呛后马克龙与内塔尼亚胡通话",
+      "onboard_time": 1728278238,
+      "rank": 47,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 82218,
       "num": 197239,
       "word": "盐田色彩斑斓如同打翻调色盘",
@@ -3713,6 +3817,14 @@
       "onboard_time": 1728141680,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 81221,
+      "num": 81221,
+      "word": "詹姆斯19分",
+      "onboard_time": 1728275719,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 80998,
@@ -3769,14 +3881,6 @@
       "onboard_time": 1728142517,
       "rank": 49,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 75135,
-      "num": 223398,
-      "word": "节后A股开市将怎么走",
-      "onboard_time": 1728274038,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 72830,
@@ -4067,6 +4171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 49214,
+      "num": 224304,
+      "word": "人到中年生病都得安排在假期",
+      "onboard_time": 1728276798,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 48956,
       "num": 48956,
       "word": "崔杋圭唱了永不失联的爱",
@@ -4143,6 +4255,14 @@
       "num": 340242,
       "word": "返程高峰自驾应注意啥",
       "onboard_time": 1728187699,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 42143,
+      "num": 225066,
+      "word": "A股究竟是一波流还是牛市起点",
+      "onboard_time": 1728277639,
       "rank": 9,
       "category": "社会新闻"
     },
@@ -4305,6 +4425,14 @@
       "onboard_time": 1728230300,
       "rank": 47,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 29120,
+      "num": 245151,
+      "word": "国庆假期看美丽中国宛如画卷",
+      "onboard_time": 1728276379,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 28660,
@@ -4522,6 +4650,9 @@
     },
     {
       "word": "#推动文化和旅游融合发展#"
+    },
+    {
+      "word": "#感悟总书记的传统文化情结#"
     }
   ]
 }
