@@ -1,6 +1,6 @@
 {
   "startTime": 1728231932217,
-  "endTime": 1728293119462,
+  "endTime": 1728293943063,
   "band_list": [
     {
       "raw_hot": 2102830,
@@ -492,7 +492,7 @@
     },
     {
       "raw_hot": 293268,
-      "num": 203061,
+      "num": 224668,
       "word": "孙颖莎说和王曼昱是良性竞争",
       "onboard_time": 1728283698,
       "rank": 22,
@@ -513,6 +513,14 @@
       "onboard_time": 1728264258,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 282208,
+      "num": 282208,
+      "word": "荷兰老人送150多件中国文物回家",
+      "onboard_time": 1728287122,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 278083,
@@ -537,14 +545,6 @@
       "onboard_time": 1728265758,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 270249,
-      "num": 270249,
-      "word": "荷兰老人送150多件中国文物回家",
-      "onboard_time": 1728287122,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 267872,
@@ -651,6 +651,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 230301,
+      "num": 221050,
+      "word": "长沙南站停电",
+      "onboard_time": 1728292162,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 226266,
       "num": 226266,
       "word": "以色列发生恐袭案19岁女警身亡",
@@ -691,20 +699,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 214871,
+      "num": 162763,
+      "word": "那是你可怜 我家不用",
+      "onboard_time": 1728288563,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 212775,
       "num": 212775,
       "word": "我国庆7天假期belike",
       "onboard_time": 1728277759,
       "rank": 42,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 211246,
-      "num": 162763,
-      "word": "那是你可怜 我家不用",
-      "onboard_time": 1728288563,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 211006,
@@ -729,6 +737,14 @@
       "onboard_time": 1728195978,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 195845,
+      "num": 195845,
+      "word": "郑钦文奖金创生涯新高",
+      "onboard_time": 1728290484,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 192859,
@@ -833,14 +849,6 @@
       "onboard_time": 1728257535,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 169507,
-      "num": 169507,
-      "word": "长沙南站停电",
-      "onboard_time": 1728292162,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 168407,
@@ -1075,14 +1083,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 142848,
-      "num": 142848,
-      "word": "郑钦文奖金创生涯新高",
-      "onboard_time": 1728290484,
-      "rank": 35,
-      "category": "体育"
-    },
-    {
       "raw_hot": 141360,
       "num": 141360,
       "word": "哀牢山未开发区域",
@@ -1129,6 +1129,14 @@
       "onboard_time": 1728267497,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 138079,
+      "num": 138079,
+      "word": "谁说当老师就必须受气",
+      "onboard_time": 1728292162,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 137996,
@@ -1539,14 +1547,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 105749,
-      "num": 105749,
-      "word": "谁说当老师就必须受气",
-      "onboard_time": 1728292162,
-      "rank": 37,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 104138,
       "num": 89016,
       "word": "A股明天正式开盘",
@@ -1561,6 +1561,14 @@
       "onboard_time": 1728291262,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 101761,
+      "num": 101761,
+      "word": "专家建议股民三要三不要",
+      "onboard_time": 1728291144,
+      "rank": 46,
+      "category": "财经"
     },
     {
       "raw_hot": 100757,
@@ -1659,6 +1667,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 91431,
+      "num": 91431,
+      "word": "A股走势",
+      "onboard_time": 1728277639,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 91161,
+      "num": 91161,
+      "word": "TES冲击LPL第二张八强门票",
+      "onboard_time": 1728293481,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 89911,
       "num": 94532,
       "word": "theboyz 原神",
@@ -1675,28 +1699,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 88106,
-      "num": 88106,
-      "word": "A股走势",
-      "onboard_time": 1728277639,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 87692,
       "num": 87692,
       "word": "汪苏泷演唱会鞠躬",
       "onboard_time": 1728276619,
       "rank": 45,
       "category": "演出"
-    },
-    {
-      "raw_hot": 87499,
-      "num": 87499,
-      "word": "专家建议股民三要三不要",
-      "onboard_time": 1728291144,
-      "rank": 46,
-      "category": "财经"
     },
     {
       "raw_hot": 87283,
@@ -1819,6 +1827,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 66630,
+      "num": 196884,
+      "word": "清晖园景区的锦鲤已胖若两鱼",
+      "onboard_time": 1728292462,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 64710,
       "num": 64710,
       "word": "马龙把花送给了小朋友",
@@ -1835,6 +1851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 59718,
+      "num": 222621,
+      "word": "港股收盘创2022年2月以来新高",
+      "onboard_time": 1728292522,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 58322,
       "num": 58322,
       "word": "游客十一逃离人潮反向涌进县城",
@@ -1849,6 +1873,14 @@
       "onboard_time": 1728233055,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 57263,
+      "num": 565252,
+      "word": "全国秋收近四成",
+      "onboard_time": 1728288982,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 55954,
@@ -1947,30 +1979,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 48709,
-      "num": 218561,
-      "word": "港股收盘创2022年2月以来新高",
-      "onboard_time": 1728292522,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 48678,
-      "num": 196884,
-      "word": "清晖园景区的锦鲤已胖若两鱼",
-      "onboard_time": 1728292462,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 48247,
-      "num": 565252,
-      "word": "全国秋收近四成",
-      "onboard_time": 1728288982,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 45823,
       "num": 45823,
       "word": "薛之谦 在那天回不去的路上",
@@ -2064,6 +2072,14 @@
       "word": "国庆假期看美丽中国宛如画卷",
       "onboard_time": 1728276379,
       "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 30510,
+      "num": 138971,
+      "word": "白化病女孩在漫展获温暖拥抱与合影",
+      "onboard_time": 1728293182,
+      "rank": 24,
       "category": "社会新闻"
     },
     {

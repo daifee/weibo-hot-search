@@ -1,0 +1,410 @@
+{
+  "runTime": 1728293943063,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1703501,
+        "num": 1703501,
+        "word": "王曼昱亚锦赛退赛",
+        "onboard_time": 1728290184,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 438987,
+        "num": 438987,
+        "word": "西湖新女警是16年前走丢的那个孩子",
+        "onboard_time": 1728283338,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 57263,
+        "num": 299544,
+        "word": "全国秋收近四成",
+        "onboard_time": 1728288982,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 288841,
+        "num": 288841,
+        "word": "大兴机场航站楼只用了17台空调",
+        "onboard_time": 1728286942,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 282208,
+        "num": 282208,
+        "word": "荷兰老人送150多件中国文物回家",
+        "onboard_time": 1728287122,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241674,
+        "num": 241674,
+        "word": "男大学生陪爬泰山情绪价值给满了",
+        "onboard_time": 1728279438,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224689,
+        "num": 224689,
+        "word": "为什么假期一眨眼就结束了",
+        "onboard_time": 1728276858,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193794,
+        "num": 224668,
+        "word": "孙颖莎说和王曼昱是良性竞争",
+        "onboard_time": 1728283698,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111266,
+        "num": 223118,
+        "word": "国庆档票房超20亿",
+        "onboard_time": 1728285200,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 59718,
+        "num": 222621,
+        "word": "港股收盘创2022年2月以来新高",
+        "onboard_time": 1728292522,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 473716,
+        "num": 221742,
+        "word": "翁青雅 我奉陪到底",
+        "onboard_time": 1728283518,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 230301,
+        "num": 221050,
+        "word": "长沙南站停电",
+        "onboard_time": 1728292162,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220587,
+        "num": 220587,
+        "word": "Zzr被骚扰",
+        "onboard_time": 1728286641,
+        "rank": 12,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 205120,
+        "num": 205120,
+        "word": "吴昕在上海穿上了羽绒服",
+        "onboard_time": 1728285800,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195845,
+        "num": 195845,
+        "word": "郑钦文奖金创生涯新高",
+        "onboard_time": 1728290484,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 170270,
+        "num": 170270,
+        "word": "交警回应高速现钉子多车轮胎被扎",
+        "onboard_time": 1728285680,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169089,
+        "num": 169089,
+        "word": "国庆假期就这么水灵灵结束了",
+        "onboard_time": 1728273558,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158993,
+        "num": 158993,
+        "word": "以大使称以色列对杀害平民毫无兴趣",
+        "onboard_time": 1728289222,
+        "rank": 17,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 141204,
+        "num": 141204,
+        "word": "潘玮柏评论区",
+        "onboard_time": 1728286160,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139910,
+        "num": 139910,
+        "word": "节后A股开市将怎么走",
+        "onboard_time": 1728274038,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 35525,
+        "num": 139885,
+        "word": "盘前必看国庆利好消息",
+        "onboard_time": 1728290243,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 472794,
+        "num": 139505,
+        "word": "男子连续4个月每天1箱饮料险失明",
+        "onboard_time": 1728290243,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267030,
+        "num": 139243,
+        "word": "苹果或将放弃一年一更新模式",
+        "onboard_time": 1728290903,
+        "rank": 22,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 233643,
+        "num": 139160,
+        "word": "新买的宾利送人就医座椅被血染红",
+        "onboard_time": 1728278598,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30510,
+        "num": 138971,
+        "word": "白化病女孩在漫展获温暖拥抱与合影",
+        "onboard_time": 1728293182,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218647,
+        "num": 138576,
+        "word": "芒果新签的男艺人",
+        "onboard_time": 1728283879,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 66630,
+        "num": 138484,
+        "word": "清晖园景区的锦鲤已胖若两鱼",
+        "onboard_time": 1728292462,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214871,
+        "num": 138167,
+        "word": "那是你可怜 我家不用",
+        "onboard_time": 1728288563,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 138079,
+        "num": 138079,
+        "word": "谁说当老师就必须受气",
+        "onboard_time": 1728292162,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 130065,
+        "num": 130065,
+        "word": "结婚彩礼该不该直接给新娘",
+        "onboard_time": 1728268937,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123259,
+        "num": 123259,
+        "word": "浙B3N922做完好事就悄悄离开了",
+        "onboard_time": 1728290722,
+        "rank": 30,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 119389,
+        "num": 119389,
+        "word": "花学",
+        "onboard_time": 1728277818,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116355,
+        "num": 116355,
+        "word": "河北美院的嘴可真严啊",
+        "onboard_time": 1728284420,
+        "rank": 32,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 113390,
+        "num": 113390,
+        "word": "隰县小西天发文致谢天命人",
+        "onboard_time": 1728281237,
+        "rank": 33,
+        "category": "社会新闻,游戏"
+      },
+      {
+        "raw_hot": 104054,
+        "num": 104054,
+        "word": "我国首次截获黑脊红蚁",
+        "onboard_time": 1728281538,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101761,
+        "num": 101761,
+        "word": "专家建议股民三要三不要",
+        "onboard_time": 1728291144,
+        "rank": 35,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 93059,
+        "num": 93059,
+        "word": "张朝阳劝年轻人必须要自律",
+        "onboard_time": 1728279379,
+        "rank": 36,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 91431,
+        "num": 91431,
+        "word": "A股走势",
+        "onboard_time": 1728277639,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 91210,
+        "num": 91210,
+        "word": "恋与制作人许墨 掌中之弈",
+        "onboard_time": 1728291682,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 91161,
+        "num": 91161,
+        "word": "TES冲击LPL第二张八强门票",
+        "onboard_time": 1728293481,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 90987,
+        "num": 90987,
+        "word": "许嵩苏州站",
+        "onboard_time": 1728292221,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 88070,
+        "num": 88070,
+        "word": "国庆返程堵和出发堵心情截然不同",
+        "onboard_time": 1728285742,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 86947,
+        "num": 86947,
+        "word": "得闲谨制部分演员杀青",
+        "onboard_time": 1728291443,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 84338,
+        "num": 84338,
+        "word": "潘玮柏泡面",
+        "onboard_time": 1728287481,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81901,
+        "num": 81901,
+        "word": "苏新皓E人的极限在哪里",
+        "onboard_time": 1728292043,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80990,
+        "num": 80990,
+        "word": "彭高翁青雅一天约会两次",
+        "onboard_time": 1728287061,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100511,
+        "num": 80960,
+        "word": "郑钦文回武汉的排面",
+        "onboard_time": 1728291262,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 79899,
+        "num": 79899,
+        "word": "中秋国庆到过小西天可免费再游",
+        "onboard_time": 1728283338,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 79706,
+        "num": 79706,
+        "word": "00后也开户了",
+        "onboard_time": 1728287722,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 76134,
+        "num": 76134,
+        "word": "小车高速上倒车致多车追尾",
+        "onboard_time": 1728284479,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#75秒看见人民共和国75年跨越#"
+    }
+  }
+}

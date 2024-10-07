@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1728293119462,
+  "endTime": 1728293943063,
   "band_list": [
     {
       "raw_hot": 11925969,
@@ -5276,7 +5276,7 @@
     },
     {
       "raw_hot": 293268,
-      "num": 203061,
+      "num": 224668,
       "word": "孙颖莎说和王曼昱是良性竞争",
       "onboard_time": 1728283698,
       "rank": 22,
@@ -5537,6 +5537,14 @@
       "onboard_time": 1727837058,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 282208,
+      "num": 282208,
+      "word": "荷兰老人送150多件中国文物回家",
+      "onboard_time": 1728287122,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 281865,
@@ -5841,14 +5849,6 @@
       "onboard_time": 1728188837,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 270249,
-      "num": 270249,
-      "word": "荷兰老人送150多件中国文物回家",
-      "onboard_time": 1728287122,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 269474,
@@ -6867,6 +6867,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 230301,
+      "num": 221050,
+      "word": "长沙南站停电",
+      "onboard_time": 1728292162,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 230252,
       "num": 230252,
       "word": "中国记者徐德智战绩可查",
@@ -7435,6 +7443,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 214871,
+      "num": 162763,
+      "word": "那是你可怜 我家不用",
+      "onboard_time": 1728288563,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 214806,
       "num": 214806,
       "word": "胡歌亚洲内容大赏视帝",
@@ -7521,14 +7537,6 @@
       "onboard_time": 1727916136,
       "rank": 23,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 211246,
-      "num": 162763,
-      "word": "那是你可怜 我家不用",
-      "onboard_time": 1728288563,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 211006,
@@ -8241,6 +8249,14 @@
       "onboard_time": 1727962578,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 195845,
+      "num": 195845,
+      "word": "郑钦文奖金创生涯新高",
+      "onboard_time": 1728290484,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 195838,
@@ -9865,14 +9881,6 @@
       "onboard_time": 1727953638,
       "rank": 42,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 169507,
-      "num": 169507,
-      "word": "长沙南站停电",
-      "onboard_time": 1728292162,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 169375,
@@ -11747,14 +11755,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 142848,
-      "num": 142848,
-      "word": "郑钦文奖金创生涯新高",
-      "onboard_time": 1728290484,
-      "rank": 35,
-      "category": "体育"
-    },
-    {
       "raw_hot": 142846,
       "num": 142846,
       "word": "上海偶遇李秀满sunny",
@@ -12209,6 +12209,14 @@
       "onboard_time": 1728267497,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 138079,
+      "num": 138079,
+      "word": "谁说当老师就必须受气",
+      "onboard_time": 1728292162,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 137996,
@@ -15315,14 +15323,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 105749,
-      "num": 105749,
-      "word": "谁说当老师就必须受气",
-      "onboard_time": 1728292162,
-      "rank": 37,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 105739,
       "num": 105739,
       "word": "刘浩存赵今麦比心",
@@ -15649,6 +15649,14 @@
       "onboard_time": 1727920517,
       "rank": 44,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 101761,
+      "num": 101761,
+      "word": "专家建议股民三要三不要",
+      "onboard_time": 1728291144,
+      "rank": 46,
+      "category": "财经"
     },
     {
       "raw_hot": 101737,
@@ -16395,12 +16403,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 91431,
+      "num": 91431,
+      "word": "A股走势",
+      "onboard_time": 1728277639,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 91378,
       "num": 187266,
       "word": "国庆第一天九寨沟飘起鹅毛大雪",
       "onboard_time": 1727841800,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 91161,
+      "num": 91161,
+      "word": "TES冲击LPL第二张八强门票",
+      "onboard_time": 1728293481,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 91027,
@@ -16555,14 +16579,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 88106,
-      "num": 88106,
-      "word": "A股走势",
-      "onboard_time": 1728277639,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 88033,
       "num": 88033,
       "word": "分手后爸爸给我写了一封信",
@@ -16601,14 +16617,6 @@
       "onboard_time": 1728220520,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 87499,
-      "num": 87499,
-      "word": "专家建议股民三要三不要",
-      "onboard_time": 1728291144,
-      "rank": 46,
-      "category": "财经"
     },
     {
       "raw_hot": 87481,
@@ -17603,6 +17611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 66630,
+      "num": 196884,
+      "word": "清晖园景区的锦鲤已胖若两鱼",
+      "onboard_time": 1728292462,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 65798,
       "num": 693776,
       "word": "沙漠里的这抹中国红太美了",
@@ -17843,6 +17859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 59718,
+      "num": 222621,
+      "word": "港股收盘创2022年2月以来新高",
+      "onboard_time": 1728292522,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 59666,
       "num": 152677,
       "word": "已故真主党领导人女婿在空袭中丧生",
@@ -17984,6 +18008,14 @@
       "word": "国庆假期最受瞩目的小孩出现了",
       "onboard_time": 1728026297,
       "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 57263,
+      "num": 565252,
+      "word": "全国秋收近四成",
+      "onboard_time": 1728288982,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -18443,28 +18475,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 48709,
-      "num": 218561,
-      "word": "港股收盘创2022年2月以来新高",
-      "onboard_time": 1728292522,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 48685,
       "num": 48685,
       "word": "任嘉伦说卫昭没有陆绎狠",
       "onboard_time": 1727975895,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 48678,
-      "num": 196884,
-      "word": "清晖园景区的锦鲤已胖若两鱼",
-      "onboard_time": 1728292462,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 48647,
@@ -18488,14 +18504,6 @@
       "word": "有种反向旅游叫捡秋",
       "onboard_time": 1728062654,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 48247,
-      "num": 565252,
-      "word": "全国秋收近四成",
-      "onboard_time": 1728288982,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -19417,6 +19425,14 @@
       "onboard_time": 1727875640,
       "rank": 39,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 30510,
+      "num": 138971,
+      "word": "白化病女孩在漫展获温暖拥抱与合影",
+      "onboard_time": 1728293182,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 30289,
