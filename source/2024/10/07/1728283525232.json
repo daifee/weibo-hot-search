@@ -1,0 +1,410 @@
+{
+  "runTime": 1728283525232,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 675612,
+        "num": 1108097,
+        "word": "我使馆要求彻查恐袭严惩凶手",
+        "onboard_time": 1728275119,
+        "rank": 0,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 338556,
+        "num": 338556,
+        "word": "为什么假期一眨眼就结束了",
+        "onboard_time": 1728276858,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 86399,
+        "num": 320857,
+        "word": "大数据看国庆假期消费活力",
+        "onboard_time": 1728276619,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 365633,
+        "num": 314208,
+        "word": "假期结束剩奶奶独自在沙发打盹",
+        "onboard_time": 1728275899,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 305368,
+        "num": 305368,
+        "word": "男大学生陪爬泰山情绪价值给满了",
+        "onboard_time": 1728279438,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 276199,
+        "num": 276199,
+        "word": "A股究竟是一波流还是牛市起点",
+        "onboard_time": 1728277639,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215223,
+        "num": 274057,
+        "word": "国庆假期就这么水灵灵结束了",
+        "onboard_time": 1728273558,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204210,
+        "num": 269934,
+        "word": "本轮牛市能持续多久",
+        "onboard_time": 1728267678,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195622,
+        "num": 266826,
+        "word": "节后A股开市将怎么走",
+        "onboard_time": 1728274038,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167851,
+        "num": 264373,
+        "word": "您已度过2024所有法定节假日",
+        "onboard_time": 1728262518,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 844955,
+        "num": 261816,
+        "word": "花学",
+        "onboard_time": 1728277818,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 342582,
+        "num": 258905,
+        "word": "男子买二手车回家后原车主远程锁车",
+        "onboard_time": 1728269298,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 299042,
+        "num": 256153,
+        "word": "孙莉跳舞",
+        "onboard_time": 1728266900,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 298238,
+        "num": 253164,
+        "word": "翁青雅彭高一起放烟花",
+        "onboard_time": 1728279318,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 291800,
+        "num": 248333,
+        "word": "8人被终身禁入稻城亚丁景区",
+        "onboard_time": 1728226943,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247163,
+        "num": 247163,
+        "word": "加沙名胜古迹被彻底摧毁",
+        "onboard_time": 1728275599,
+        "rank": 15,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 222536,
+        "num": 222536,
+        "word": "张远说爱情需要反证",
+        "onboard_time": 1728281898,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 211364,
+        "num": 211364,
+        "word": "结婚彩礼该不该直接给新娘",
+        "onboard_time": 1728268937,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201011,
+        "num": 201011,
+        "word": "网友冰岛偶遇沈梦辰",
+        "onboard_time": 1728279498,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194013,
+        "num": 194013,
+        "word": "我国庆7天假期belike",
+        "onboard_time": 1728277759,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1161910,
+        "num": 193998,
+        "word": "新买的宾利送人就医座椅被血染红",
+        "onboard_time": 1728278598,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 293363,
+        "num": 193849,
+        "word": "张朝阳劝年轻人必须要自律",
+        "onboard_time": 1728279379,
+        "rank": 21,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 193503,
+        "num": 193503,
+        "word": "多车返程高速上轮胎被扎钉子",
+        "onboard_time": 1728272718,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183151,
+        "num": 183151,
+        "word": "我国首次截获黑脊红蚁",
+        "onboard_time": 1728281538,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 48243,
+        "num": 182933,
+        "word": "中秋国庆到过小西天可免费再游",
+        "onboard_time": 1728283338,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98385,
+        "num": 182817,
+        "word": "修复师从永乐大典切了7万条目录",
+        "onboard_time": 1728281478,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182790,
+        "num": 182790,
+        "word": "读了明朝那些事突然就释怀了",
+        "onboard_time": 1728274219,
+        "rank": 26,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 165274,
+        "num": 165274,
+        "word": "何炅情商",
+        "onboard_time": 1728267139,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154311,
+        "num": 154311,
+        "word": "雷军AI",
+        "onboard_time": 1728282258,
+        "rank": 28,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 56487,
+        "num": 151355,
+        "word": "浴火之路彩蛋",
+        "onboard_time": 1728283398,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 150645,
+        "num": 150645,
+        "word": "任嘉伦微表情",
+        "onboard_time": 1728281297,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 37554,
+        "num": 142417,
+        "word": "749局武汉路演",
+        "onboard_time": 1728279140,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 135504,
+        "num": 135504,
+        "word": "女子推理社全员合照",
+        "onboard_time": 1728280817,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121759,
+        "num": 121759,
+        "word": "以色列发生恐袭案19岁女警身亡",
+        "onboard_time": 1728270679,
+        "rank": 33,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 110296,
+        "num": 110296,
+        "word": "张朝阳近5小时马拉松式数学推演",
+        "onboard_time": 1728283338,
+        "rank": 34,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 109021,
+        "num": 109021,
+        "word": "隰县小西天发文致谢天命人",
+        "onboard_time": 1728281237,
+        "rank": 35,
+        "category": "社会新闻,游戏"
+      },
+      {
+        "raw_hot": 103678,
+        "num": 103678,
+        "word": "下次见面可能是2025年了",
+        "onboard_time": 1728264378,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 102725,
+        "num": 102725,
+        "word": "aespa将发行个人单曲",
+        "onboard_time": 1728271757,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 102360,
+        "num": 102360,
+        "word": "莎头出发亚锦赛",
+        "onboard_time": 1728270139,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 99707,
+        "num": 99707,
+        "word": "亚锦赛观众免费入场",
+        "onboard_time": 1728277039,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 99351,
+        "num": 99351,
+        "word": "原神",
+        "onboard_time": 1728279678,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 96906,
+        "num": 96906,
+        "word": "易烊千玺朋友请听好后续",
+        "onboard_time": 1728265399,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 96587,
+        "num": 96587,
+        "word": "人人人人返程人人人人",
+        "onboard_time": 1728221238,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92729,
+        "num": 92729,
+        "word": "被滥用的减肥神药",
+        "onboard_time": 1728279919,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 90832,
+        "num": 90832,
+        "word": "机构称市场行情将迎来大拐点",
+        "onboard_time": 1728281237,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 91345,
+        "num": 88558,
+        "word": "马龙下个赛场见",
+        "onboard_time": 1728275779,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 84681,
+        "num": 84681,
+        "word": "人到中年生病都得安排在假期",
+        "onboard_time": 1728276798,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 84471,
+        "num": 84471,
+        "word": "Uzi谈BLG不敌T1",
+        "onboard_time": 1728270257,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 84452,
+        "num": 84452,
+        "word": "西湖新女警是16年前走丢的那个孩子",
+        "onboard_time": 1728283338,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 82352,
+        "num": 82352,
+        "word": "张朝阳回应年轻人戒断手机",
+        "onboard_time": 1728279379,
+        "rank": 49,
+        "category": "互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#感悟总书记的传统文化情结#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1728231932217,
-  "endTime": 1728282711346,
+  "endTime": 1728283525232,
   "band_list": [
     {
       "raw_hot": 1367280,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 910988,
-      "num": 247027,
+      "num": 261816,
       "word": "花学",
       "onboard_time": 1728277818,
       "rank": 21,
@@ -180,7 +180,7 @@
     },
     {
       "raw_hot": 470197,
-      "num": 244262,
+      "num": 247163,
       "word": "加沙名胜古迹被彻底摧毁",
       "onboard_time": 1728275599,
       "rank": 36,
@@ -371,6 +371,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 305368,
+      "num": 305368,
+      "word": "男大学生陪爬泰山情绪价值给满了",
+      "onboard_time": 1728279438,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 302163,
       "num": 165358,
       "word": "田曦薇cos玛蒂尔达",
@@ -387,20 +395,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 298238,
+      "num": 253164,
+      "word": "翁青雅彭高一起放烟花",
+      "onboard_time": 1728279318,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 293363,
+      "num": 214343,
+      "word": "张朝阳劝年轻人必须要自律",
+      "onboard_time": 1728279379,
+      "rank": 33,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 285294,
       "num": 285294,
       "word": "国乒有属于自己的梁王",
       "onboard_time": 1728264258,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 281032,
-      "num": 244690,
-      "word": "翁青雅彭高一起放烟花",
-      "onboard_time": 1728279318,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 278083,
@@ -411,20 +427,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 276199,
+      "num": 276199,
+      "word": "A股究竟是一波流还是牛市起点",
+      "onboard_time": 1728277639,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 273633,
       "num": 273633,
       "word": "钱天一晒和马龙合影",
       "onboard_time": 1728265758,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 272368,
-      "num": 214343,
-      "word": "张朝阳劝年轻人必须要自律",
-      "onboard_time": 1728279379,
-      "rank": 33,
-      "category": "互联网"
     },
     {
       "raw_hot": 267872,
@@ -436,7 +452,7 @@
     },
     {
       "raw_hot": 267766,
-      "num": 267766,
+      "num": 274057,
       "word": "国庆假期就这么水灵灵结束了",
       "onboard_time": 1728273558,
       "rank": 22,
@@ -475,14 +491,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 250093,
-      "num": 250093,
-      "word": "A股究竟是一波流还是牛市起点",
-      "onboard_time": 1728277639,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 237812,
       "num": 237812,
       "word": "詹姆斯布朗尼同场竞技",
@@ -497,6 +505,14 @@
       "onboard_time": 1728270679,
       "rank": 32,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 222536,
+      "num": 230227,
+      "word": "张远说爱情需要反证",
+      "onboard_time": 1728281898,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 219743,
@@ -548,18 +564,10 @@
     },
     {
       "raw_hot": 203636,
-      "num": 249268,
+      "num": 266826,
       "word": "节后A股开市将怎么走",
       "onboard_time": 1728274038,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 202718,
-      "num": 248825,
-      "word": "男大学生陪爬泰山情绪价值给满了",
-      "onboard_time": 1728279438,
-      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -593,6 +601,14 @@
       "onboard_time": 1728220760,
       "rank": 34,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 183151,
+      "num": 183151,
+      "word": "我国首次截获黑脊红蚁",
+      "onboard_time": 1728281538,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 181744,
@@ -739,6 +755,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 154311,
+      "num": 154311,
+      "word": "雷军AI",
+      "onboard_time": 1728282258,
+      "rank": 45,
+      "category": "数码"
+    },
+    {
       "raw_hot": 153665,
       "num": 153665,
       "word": "假期最后一天",
@@ -761,14 +785,6 @@
       "onboard_time": 1728275779,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 150882,
-      "num": 150882,
-      "word": "我国首次截获黑脊红蚁",
-      "onboard_time": 1728281538,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 150605,
@@ -921,14 +937,6 @@
       "onboard_time": 1728268458,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 135804,
-      "num": 230227,
-      "word": "张远说爱情需要反证",
-      "onboard_time": 1728281898,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 134698,
@@ -1148,7 +1156,7 @@
     },
     {
       "raw_hot": 112545,
-      "num": 301995,
+      "num": 320857,
       "word": "大数据看国庆假期消费活力",
       "onboard_time": 1728276619,
       "rank": 2,
@@ -1161,6 +1169,14 @@
       "onboard_time": 1728275719,
       "rank": 33,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 110296,
+      "num": 110296,
+      "word": "张朝阳近5小时马拉松式数学推演",
+      "onboard_time": 1728283338,
+      "rank": 34,
+      "category": "互联网"
     },
     {
       "raw_hot": 108876,
@@ -1251,6 +1267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 98385,
+      "num": 211504,
+      "word": "修复师从永乐大典切了7万条目录",
+      "onboard_time": 1728281478,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 96640,
       "num": 190190,
       "word": "专家建议普通投资者不要盲目追涨",
@@ -1283,6 +1307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 92729,
+      "num": 215762,
+      "word": "被滥用的减肥神药",
+      "onboard_time": 1728279919,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 92571,
       "num": 252662,
       "word": "北上资金量成倍增长",
@@ -1291,12 +1323,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 90345,
-      "num": 90345,
-      "word": "雷军AI",
-      "onboard_time": 1728282258,
-      "rank": 45,
-      "category": "数码"
+      "raw_hot": 90832,
+      "num": 248068,
+      "word": "机构称市场行情将迎来大拐点",
+      "onboard_time": 1728281237,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 89911,
@@ -1305,14 +1337,6 @@
       "onboard_time": 1728259276,
       "rank": 49,
       "category": "艺人,游戏"
-    },
-    {
-      "raw_hot": 88187,
-      "num": 211504,
-      "word": "修复师从永乐大典切了7万条目录",
-      "onboard_time": 1728281478,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 87692,
@@ -1329,6 +1353,14 @@
       "onboard_time": 1728277939,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 84452,
+      "num": 84452,
+      "word": "西湖新女警是16年前走丢的那个孩子",
+      "onboard_time": 1728283338,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 84425,
@@ -1419,14 +1451,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 69137,
-      "num": 248068,
-      "word": "机构称市场行情将迎来大拐点",
-      "onboard_time": 1728281237,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 66927,
       "num": 66927,
       "word": "王一博独自攀登沙漠珠峰看日出",
@@ -1467,12 +1491,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 57723,
-      "num": 215762,
-      "word": "被滥用的减肥神药",
-      "onboard_time": 1728279919,
-      "rank": 19,
-      "category": "社会新闻"
+      "raw_hot": 56487,
+      "num": 151355,
+      "word": "浴火之路彩蛋",
+      "onboard_time": 1728283398,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 55917,
@@ -1555,6 +1579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 48243,
+      "num": 182933,
+      "word": "中秋国庆到过小西天可免费再游",
+      "onboard_time": 1728283338,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 45823,
       "num": 45823,
       "word": "薛之谦 在那天回不去的路上",
@@ -1593,6 +1625,14 @@
       "onboard_time": 1728230718,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 37554,
+      "num": 162375,
+      "word": "749局武汉路演",
+      "onboard_time": 1728279140,
+      "rank": 21,
+      "category": "电影"
     },
     {
       "raw_hot": 37505,
@@ -1721,14 +1761,6 @@
       "onboard_time": 1728246851,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 17903,
-      "num": 162375,
-      "word": "749局武汉路演",
-      "onboard_time": 1728279140,
-      "rank": 21,
-      "category": "电影"
     },
     {
       "raw_hot": 16938,
