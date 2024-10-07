@@ -1,0 +1,410 @@
+{
+  "runTime": 1728308494639,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 844347,
+        "num": 1135095,
+        "word": "王曼昱退赛因家庭原因",
+        "onboard_time": 1728294023,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 717039,
+        "num": 717039,
+        "word": "贝聿铭的小女儿18岁啦",
+        "onboard_time": 1728303448,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 47441,
+        "num": 627488,
+        "word": "文化中国行看绝壁上的博物馆",
+        "onboard_time": 1728305242,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 618069,
+        "num": 618069,
+        "word": "浙B3N922做完好事就悄悄离开了",
+        "onboard_time": 1728290722,
+        "rank": 3,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 366974,
+        "num": 366974,
+        "word": "外交部回应中方车队在巴基斯坦遭恐袭",
+        "onboard_time": 1728302603,
+        "rank": 4,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 310856,
+        "num": 310856,
+        "word": "当92岁奶奶开始展示业务能力",
+        "onboard_time": 1728305902,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 307395,
+        "num": 307395,
+        "word": "苹果或将放弃一年一更新模式",
+        "onboard_time": 1728290903,
+        "rank": 6,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 56462,
+        "num": 307245,
+        "word": "我国自主研制重型燃气轮机点火成功",
+        "onboard_time": 1728295403,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 247810,
+        "num": 306454,
+        "word": "杭州有人冷到半路钻进商场找外套",
+        "onboard_time": 1728297444,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176126,
+        "num": 306266,
+        "word": "为什么假期一眨眼就结束了",
+        "onboard_time": 1728276858,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1390100,
+        "num": 305646,
+        "word": "许嵩 分手了没关系还有我",
+        "onboard_time": 1728302902,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 671053,
+        "num": 305066,
+        "word": "樊振东杂志",
+        "onboard_time": 1728305422,
+        "rank": 11,
+        "category": "体育,作品衍生"
+      },
+      {
+        "raw_hot": 534786,
+        "num": 304631,
+        "word": "衢州发现传说中的四不像",
+        "onboard_time": 1728305303,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 500182,
+        "num": 304329,
+        "word": "吴昕在上海穿上了羽绒服",
+        "onboard_time": 1728285800,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 484353,
+        "num": 303907,
+        "word": "妈妈带着白化病女儿参加漫展",
+        "onboard_time": 1728300682,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 406011,
+        "num": 303184,
+        "word": "韩国粉丝为张艺兴登报庆生",
+        "onboard_time": 1728302483,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 360830,
+        "num": 303099,
+        "word": "芒果新签的男艺人",
+        "onboard_time": 1728283879,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 345947,
+        "num": 302428,
+        "word": "翁青雅 我奉陪到底",
+        "onboard_time": 1728283518,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 328268,
+        "num": 302052,
+        "word": "本科夫妻周末摆摊卖菜月入3000元",
+        "onboard_time": 1728307882,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116874,
+        "num": 301674,
+        "word": "今天24时前就近下高速",
+        "onboard_time": 1728308300,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1636758,
+        "num": 301230,
+        "word": "云南哀牢山连发三条公告",
+        "onboard_time": 1728300862,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 313439,
+        "num": 300778,
+        "word": "男子连续4个月每天1箱饮料险失明",
+        "onboard_time": 1728290243,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 300320,
+        "num": 300320,
+        "word": "博主擅闯哀牢山禁区已违法",
+        "onboard_time": 1728307222,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 279158,
+        "num": 279158,
+        "word": "返校车厢里全是碎掉的大学生",
+        "onboard_time": 1728307160,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233946,
+        "num": 233946,
+        "word": "弟弟背姐姐出嫁还没出门就遭翻车",
+        "onboard_time": 1728301762,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 78878,
+        "num": 232781,
+        "word": "武警新郎迎娶火箭军新娘",
+        "onboard_time": 1728306383,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232161,
+        "num": 232161,
+        "word": "何炅再度呼喊超女快女的名字",
+        "onboard_time": 1728294023,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 225902,
+        "num": 225902,
+        "word": "女生巧用保鲜膜快速包馄饨",
+        "onboard_time": 1728304224,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212372,
+        "num": 212372,
+        "word": "电影浴火之路国庆档亚军",
+        "onboard_time": 1728304283,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 212071,
+        "num": 212071,
+        "word": "流水迢迢热度逆跌",
+        "onboard_time": 1728304764,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 298815,
+        "num": 211439,
+        "word": "伊朗总统说与其死在床上不如当殉道者",
+        "onboard_time": 1728307281,
+        "rank": 30,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 205941,
+        "num": 205941,
+        "word": "胡烨韬面试泰创2",
+        "onboard_time": 1728299903,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177477,
+        "num": 177477,
+        "word": "邱贻可 下一站已出发",
+        "onboard_time": 1728300202,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 170333,
+        "num": 170333,
+        "word": "擅入哀牢山未开放区域最高罚款5000",
+        "onboard_time": 1728304523,
+        "rank": 33,
+        "category": "社会新闻,国内时政"
+      },
+      {
+        "raw_hot": 168361,
+        "num": 168361,
+        "word": "中东全面战争可能性存在但没有变得更高",
+        "onboard_time": 1728298585,
+        "rank": 34,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 156314,
+        "num": 165206,
+        "word": "机构称A股节后或集中上涨",
+        "onboard_time": 1728306442,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164336,
+        "num": 164336,
+        "word": "鬼火少年集体炸街警方抓捕制止",
+        "onboard_time": 1728298882,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158014,
+        "num": 158014,
+        "word": "赵露思假期吃喝vlog",
+        "onboard_time": 1728306862,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157897,
+        "num": 157897,
+        "word": "央视新闻对话749局导演陆川",
+        "onboard_time": 1728303746,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 156102,
+        "num": 156102,
+        "word": "谁懂曾舜晞抬头这一下",
+        "onboard_time": 1728304764,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153128,
+        "num": 153128,
+        "word": "成龙已经70岁了",
+        "onboard_time": 1728307882,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144051,
+        "num": 144051,
+        "word": "BeliftLab要求Hanni道歉",
+        "onboard_time": 1728304104,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142392,
+        "num": 142392,
+        "word": "卫昭 三拜吾妻",
+        "onboard_time": 1728304224,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140796,
+        "num": 140796,
+        "word": "你帮狗找家 狗帮你找家",
+        "onboard_time": 1728306920,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 132502,
+        "num": 132502,
+        "word": "何浩畅晒照",
+        "onboard_time": 1728299423,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131647,
+        "num": 131647,
+        "word": "夏目友人帐",
+        "onboard_time": 1728299483,
+        "rank": 45,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 120653,
+        "num": 120653,
+        "word": "美国一世界拳王家门口被枪杀",
+        "onboard_time": 1728301344,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116322,
+        "num": 116322,
+        "word": "孙颖莎邱贻可出发下个赛场",
+        "onboard_time": 1728303924,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 116044,
+        "num": 116044,
+        "word": "我国自主研制国之重器有新进展",
+        "onboard_time": 1728296061,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 114932,
+        "num": 114932,
+        "word": "彩礼没有礼爱情何来爱",
+        "onboard_time": 1728301402,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#75秒看见人民共和国75年跨越#"
+    }
+  }
+}
