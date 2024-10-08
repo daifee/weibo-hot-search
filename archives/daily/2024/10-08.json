@@ -1,6 +1,6 @@
 {
   "startTime": 1728318463808,
-  "endTime": 1728387366033,
+  "endTime": 1728391237139,
   "band_list": [
     {
       "raw_hot": 12210422,
@@ -84,11 +84,19 @@
     },
     {
       "raw_hot": 2085777,
-      "num": 320329,
+      "num": 387322,
       "word": "黄晓明带叶珂参加陈浩民生日会",
       "onboard_time": 1728382882,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2065583,
+      "num": 390961,
+      "word": "山取颜料师被要求返还矿石",
+      "onboard_time": 1728386420,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1735759,
@@ -97,6 +105,14 @@
       "onboard_time": 1728355820,
       "rank": 34,
       "category": "财经"
+    },
+    {
+      "raw_hot": 1630590,
+      "num": 389983,
+      "word": "周扬青聊名媛班",
+      "onboard_time": 1728389299,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 1522405,
@@ -315,6 +331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 877309,
+      "num": 877309,
+      "word": "孙颖莎vs金琴英",
+      "onboard_time": 1728388760,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 874322,
       "num": 553155,
       "word": "东北雨姐拍摄基地人去房空",
@@ -339,11 +363,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 845317,
-      "num": 319807,
-      "word": "山取颜料师被要求返还矿石",
-      "onboard_time": 1728386420,
-      "rank": 43,
+      "raw_hot": 854851,
+      "num": 854851,
+      "word": "租房8年被收损耗费租客觉得伤感情",
+      "onboard_time": 1728388521,
+      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -371,8 +395,16 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 810828,
+      "num": 382853,
+      "word": "k总",
+      "onboard_time": 1728390560,
+      "rank": 15,
+      "category": "网红"
+    },
+    {
       "raw_hot": 804103,
-      "num": 319382,
+      "num": 379599,
       "word": "下次不准再P了",
       "onboard_time": 1728383422,
       "rank": 37,
@@ -449,6 +481,14 @@
       "onboard_time": 1728368782,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 683325,
+      "num": 382381,
+      "word": "00后入市父母给10万元当学费",
+      "onboard_time": 1728386359,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 672854,
@@ -540,7 +580,7 @@
     },
     {
       "raw_hot": 565878,
-      "num": 318502,
+      "num": 377694,
       "word": "周冬雨在韩国的人气",
       "onboard_time": 1728383662,
       "rank": 31,
@@ -556,7 +596,7 @@
     },
     {
       "raw_hot": 562235,
-      "num": 318125,
+      "num": 343896,
       "word": "国家医保局通报无锡虹桥医院调查情况",
       "onboard_time": 1728384560,
       "rank": 12,
@@ -659,12 +699,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 471720,
+      "num": 471720,
+      "word": "印度女团3比2韩国",
+      "onboard_time": 1728387321,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 465583,
       "num": 465583,
       "word": "许嵩 分手了没关系还有我",
       "onboard_time": 1728302902,
       "rank": 16,
       "category": "演出"
+    },
+    {
+      "raw_hot": 462945,
+      "num": 377952,
+      "word": "哀牢山父子守山人巡山经常遇见熊",
+      "onboard_time": 1728384982,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 457561,
@@ -700,7 +756,7 @@
     },
     {
       "raw_hot": 422718,
-      "num": 317499,
+      "num": 347878,
       "word": "女子当街脚踩头殴打外卖小哥",
       "onboard_time": 1728383181,
       "rank": 25,
@@ -745,6 +801,14 @@
       "onboard_time": 1728371661,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 394822,
+      "num": 394822,
+      "word": "国乒女团vs朝鲜",
+      "onboard_time": 1728387800,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 392329,
@@ -907,14 +971,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 346798,
-      "num": 303730,
-      "word": "哀牢山父子守山人巡山经常遇见熊",
-      "onboard_time": 1728384982,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 344310,
       "num": 765771,
       "word": "国庆档新片票房TOP3",
@@ -1003,6 +1059,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 308928,
+      "num": 308928,
+      "word": "医院为骗医保拉人免费吃住",
+      "onboard_time": 1728387979,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 308083,
       "num": 317546,
       "word": "黄晓明官宣2024美好奇妙夜",
@@ -1041,6 +1105,14 @@
       "onboard_time": 1728360922,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 293345,
+      "num": 293345,
+      "word": "复旦大学推荐了王一博纪录片",
+      "onboard_time": 1728390319,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 293286,
@@ -1233,6 +1305,14 @@
       "onboard_time": 1728361821,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 244173,
+      "num": 244173,
+      "word": "哀牢山最危险的不是猛兽",
+      "onboard_time": 1728388281,
+      "rank": 26,
+      "category": "旅游"
     },
     {
       "raw_hot": 243808,
@@ -1467,14 +1547,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 203150,
-      "num": 320791,
-      "word": "00后入市父母给10万元当学费",
-      "onboard_time": 1728386359,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 201227,
       "num": 201227,
       "word": "尚雯婕还原18年前霹雳舞",
@@ -1521,6 +1593,14 @@
       "onboard_time": 1728359061,
       "rank": 45,
       "category": "财经"
+    },
+    {
+      "raw_hot": 198863,
+      "num": 198863,
+      "word": "又是见证A股历史的一天",
+      "onboard_time": 1728388581,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 198320,
@@ -1635,20 +1715,20 @@
       "category": "财经"
     },
     {
+      "raw_hot": 184889,
+      "num": 393345,
+      "word": "中餐厅考古",
+      "onboard_time": 1728386240,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 184854,
       "num": 184854,
       "word": "易烊千玺开工花絮",
       "onboard_time": 1728376222,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 184766,
-      "num": 321096,
-      "word": "中餐厅考古",
-      "onboard_time": 1728386240,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 184704,
@@ -1955,6 +2035,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 159033,
+      "num": 159033,
+      "word": "黄子韬公司艺人泰创面试",
+      "onboard_time": 1728391100,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 158855,
       "num": 158855,
       "word": "同花顺崩了",
@@ -1969,6 +2057,14 @@
       "onboard_time": 1728385100,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 158498,
+      "num": 158498,
+      "word": "陈浚铭换头像",
+      "onboard_time": 1728388640,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 158273,
@@ -2147,20 +2243,36 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 140275,
-      "num": 140275,
-      "word": "印度女团3比2韩国",
-      "onboard_time": 1728387321,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
       "raw_hot": 138913,
       "num": 138913,
       "word": "国乒男团晋级亚锦赛4强",
       "onboard_time": 1728373941,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 138485,
+      "num": 391894,
+      "word": "38城平均招聘月薪10058元",
+      "onboard_time": 1728388281,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 136112,
+      "num": 136112,
+      "word": "吹牛老爹",
+      "onboard_time": 1728387200,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 135840,
+      "num": 135840,
+      "word": "警方回应女子踩踹外卖小哥面部",
+      "onboard_time": 1728389901,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 135834,
@@ -2243,6 +2355,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 125118,
+      "num": 125118,
+      "word": "日本女团3比0新加坡",
+      "onboard_time": 1728390442,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 124381,
       "num": 143988,
       "word": "北京新房认购量提高2倍",
@@ -2259,12 +2379,36 @@
       "category": "音乐,艺人"
     },
     {
+      "raw_hot": 123250,
+      "num": 123250,
+      "word": "黄阿丽 40岁是离婚的黄金年龄",
+      "onboard_time": 1728391160,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 122045,
       "num": 122045,
       "word": "徐正溪赶上假期的末班车",
       "onboard_time": 1728339194,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 121880,
+      "num": 121880,
+      "word": "数说本轮A股疯牛究竟有多疯",
+      "onboard_time": 1728389241,
+      "rank": 48,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 121051,
+      "num": 121051,
+      "word": "肯德基回应双堡桶被指玩文字游戏",
+      "onboard_time": 1728391039,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 118832,
@@ -2996,10 +3140,18 @@
     },
     {
       "raw_hot": 16622,
-      "num": 259090,
+      "num": 857961,
       "word": "中国饭碗端得稳端得牢",
       "onboard_time": 1728362541,
       "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 14775,
+      "num": 384803,
+      "word": "回顾本轮巴以冲突一年间重要事件",
+      "onboard_time": 1728389539,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
