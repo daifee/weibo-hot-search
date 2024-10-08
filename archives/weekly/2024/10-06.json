@@ -1,6 +1,6 @@
 {
   "startTime": 1728145573126,
-  "endTime": 1728412960495,
+  "endTime": 1728414960055,
   "band_list": [
     {
       "raw_hot": 12210422,
@@ -9147,6 +9147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 32641,
+      "num": 32641,
+      "word": "邓佳鑫乡村plog",
+      "onboard_time": 1728414311,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 32531,
       "num": 146406,
       "word": "大女主香水穿搭",
@@ -9185,6 +9193,14 @@
       "onboard_time": 1728276379,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 30817,
+      "num": 60820,
+      "word": "韩政府计划明年冻结军人伙食费标准",
+      "onboard_time": 1728411612,
+      "rank": 29,
+      "category": "国外时政"
     },
     {
       "raw_hot": 30680,
@@ -9307,6 +9323,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 26950,
+      "num": 29972,
+      "word": "海警回应菲律宾2船侵闯黄岩岛海域",
+      "onboard_time": 1728410112,
+      "rank": 35,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 26787,
+      "num": 26787,
+      "word": "秦昊 付辛博很多年前是厉害的组合",
+      "onboard_time": 1728414551,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 26739,
       "num": 26739,
       "word": "赵牧辰到底喜欢谁",
@@ -9345,14 +9377,6 @@
       "onboard_time": 1728217641,
       "rank": 49,
       "category": "美食"
-    },
-    {
-      "raw_hot": 25563,
-      "num": 60820,
-      "word": "韩政府计划明年冻结军人伙食费标准",
-      "onboard_time": 1728411612,
-      "rank": 29,
-      "category": "国外时政"
     },
     {
       "raw_hot": 23600,
@@ -9513,6 +9537,14 @@
       "onboard_time": 1728305183,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 16993,
+      "num": 52156,
+      "word": "美发言人称哈马斯或应出钱重建加沙",
+      "onboard_time": 1728413832,
+      "rank": 9,
+      "category": "国外时政"
     },
     {
       "raw_hot": 16938,
