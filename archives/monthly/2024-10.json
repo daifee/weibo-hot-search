@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1728344131489,
+  "endTime": 1728351717381,
   "band_list": [
     {
       "raw_hot": 11925969,
@@ -41,6 +41,14 @@
       "onboard_time": 1727789425,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 3580252,
+      "num": 3580252,
+      "word": "A股",
+      "onboard_time": 1728346401,
+      "rank": 0,
+      "category": "财经"
     },
     {
       "raw_hot": 3185534,
@@ -779,6 +787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1142673,
+      "num": 286968,
+      "word": "鹿晗关晓彤官宣恋情七周年",
+      "onboard_time": 1728345920,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1142152,
       "num": 363466,
       "word": "翁青雅 我奉陪到底",
@@ -849,6 +865,14 @@
       "onboard_time": 1728119658,
       "rank": 30,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 1069679,
+      "num": 1069679,
+      "word": "股市",
+      "onboard_time": 1728347481,
+      "rank": 1,
+      "category": "财经"
     },
     {
       "raw_hot": 1069438,
@@ -971,6 +995,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1025405,
+      "num": 1025405,
+      "word": "孙颖莎10800分世排断层第一",
+      "onboard_time": 1728350178,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1024556,
       "num": 415961,
       "word": "张元英赫本造型",
@@ -1001,6 +1033,22 @@
       "onboard_time": 1728220400,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1019415,
+      "num": 336820,
+      "word": "股价大涨上市公司股东扎堆减持",
+      "onboard_time": 1728347481,
+      "rank": 10,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 1019348,
+      "num": 330855,
+      "word": "曝侃爷分手",
+      "onboard_time": 1728347542,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 1018525,
@@ -1643,6 +1691,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 757951,
+      "num": 757951,
+      "word": "A股涨停",
+      "onboard_time": 1728351019,
+      "rank": 4,
+      "category": "财经"
+    },
+    {
       "raw_hot": 757470,
       "num": 757470,
       "word": "向鹏18比20",
@@ -2084,7 +2140,7 @@
     },
     {
       "raw_hot": 672854,
-      "num": 143164,
+      "num": 316918,
       "word": "上海套内32平米的家",
       "onboard_time": 1728342737,
       "rank": 21,
@@ -3307,6 +3363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 492809,
+      "num": 492809,
+      "word": "节后上班",
+      "onboard_time": 1728343516,
+      "rank": 3,
+      "category": "情感"
+    },
+    {
       "raw_hot": 492702,
       "num": 492702,
       "word": "王曼昱vs陈幸同",
@@ -3684,7 +3748,7 @@
     },
     {
       "raw_hot": 443688,
-      "num": 141501,
+      "num": 196242,
       "word": "余华英拐走12个家庭的17个孩子",
       "onboard_time": 1728320177,
       "rank": 45,
@@ -3881,6 +3945,14 @@
       "onboard_time": 1728218180,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 418965,
+      "num": 284388,
+      "word": "9种食物几乎没有保质期",
+      "onboard_time": 1728346102,
+      "rank": 21,
+      "category": "社会新闻,健康医疗"
     },
     {
       "raw_hot": 417655,
@@ -4571,6 +4643,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 359569,
+      "num": 359569,
+      "word": "为啥高铁开到山东突然变慢了",
+      "onboard_time": 1728343577,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 359253,
       "num": 711523,
       "word": "中华人民共和国成立75周年",
@@ -5035,6 +5115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 325436,
+      "num": 325436,
+      "word": "今日寒露",
+      "onboard_time": 1728342676,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 325216,
       "num": 280739,
       "word": "国庆档两部影片撤档",
@@ -5201,6 +5289,14 @@
       "onboard_time": 1728218601,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 312642,
+      "num": 312642,
+      "word": "监控16小时记录哀牢山里究竟有什么",
+      "onboard_time": 1728350419,
+      "rank": 17,
+      "category": "旅游"
     },
     {
       "raw_hot": 312482,
@@ -5963,6 +6059,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 279445,
+      "num": 279445,
+      "word": "24节气第一个带寒的节气",
+      "onboard_time": 1728347902,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 279158,
       "num": 279158,
       "word": "返校车厢里全是碎掉的大学生",
@@ -6201,6 +6305,14 @@
       "onboard_time": 1728040397,
       "rank": 28,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 269167,
+      "num": 269167,
+      "word": "陈雨菲重返世界第一",
+      "onboard_time": 1728349940,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 268993,
@@ -7083,6 +7195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 235731,
+      "num": 352992,
+      "word": "朱亚文将张颂文的演技教给小演员",
+      "onboard_time": 1728344898,
+      "rank": 7,
+      "category": "电影"
+    },
+    {
       "raw_hot": 235615,
       "num": 235615,
       "word": "萧山机场确认昨晚CA4578航班返航",
@@ -7275,6 +7395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 229332,
+      "num": 229332,
+      "word": "国羽五单项排名全部世界第一",
+      "onboard_time": 1728350000,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 229061,
       "num": 229061,
       "word": "马克龙呼吁停止向以提供武器",
@@ -7449,14 +7577,6 @@
       "onboard_time": 1727780300,
       "rank": 26,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 224820,
-      "num": 224820,
-      "word": "节后上班",
-      "onboard_time": 1728343516,
-      "rank": 3,
-      "category": "情感"
     },
     {
       "raw_hot": 224705,
@@ -7929,14 +8049,6 @@
       "onboard_time": 1727827398,
       "rank": 31,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 212940,
-      "num": 212940,
-      "word": "今日寒露",
-      "onboard_time": 1728342676,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 212775,
@@ -8489,6 +8601,14 @@
       "onboard_time": 1728215960,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 200764,
+      "num": 200764,
+      "word": "一觉醒来寒露来了",
+      "onboard_time": 1728349220,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 200551,
@@ -9179,6 +9299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 191174,
+      "num": 191174,
+      "word": "乒乓球亚锦赛国乒首秀",
+      "onboard_time": 1728350538,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 191017,
       "num": 195765,
       "word": "郑钦文4连胜",
@@ -9633,6 +9761,14 @@
       "onboard_time": 1728140659,
       "rank": 26,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 183404,
+      "num": 347626,
+      "word": "大冰直播",
+      "onboard_time": 1728345559,
+      "rank": 8,
+      "category": "网红"
     },
     {
       "raw_hot": 183397,
@@ -10435,6 +10571,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 170783,
+      "num": 289490,
+      "word": "于适游玩阿勒泰vlog",
+      "onboard_time": 1728345078,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 170703,
       "num": 292530,
       "word": "火车票买短乘长或被劝导下车",
@@ -10819,6 +10963,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 164463,
+      "num": 164463,
+      "word": "鸿蒙NEXT公测",
+      "onboard_time": 1728350901,
+      "rank": 36,
+      "category": "数码"
+    },
+    {
       "raw_hot": 164214,
       "num": 164214,
       "word": "鱿鱼游戏2最新预告",
@@ -10905,6 +11057,14 @@
       "onboard_time": 1728287481,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 163668,
+      "num": 163668,
+      "word": "小米SU7假期锁单超6000辆",
+      "onboard_time": 1728343157,
+      "rank": 45,
+      "category": "汽车"
     },
     {
       "raw_hot": 163547,
@@ -11617,6 +11777,14 @@
       "onboard_time": 1728116239,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 153431,
+      "num": 153431,
+      "word": "文化中国行看寒露节气",
+      "onboard_time": 1728344657,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 153360,
@@ -12419,6 +12587,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 144305,
+      "num": 144305,
+      "word": "假期戒断反应",
+      "onboard_time": 1728351140,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 143985,
       "num": 134423,
       "word": "淮滨通报男子接亲被加要18万彩礼",
@@ -12939,14 +13115,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 138403,
-      "num": 138403,
-      "word": "为啥高铁开到山东突然变慢了",
-      "onboard_time": 1728343577,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 138388,
       "num": 138388,
       "word": "香港金紫荆广场升五星红旗",
@@ -13393,6 +13561,14 @@
       "onboard_time": 1728005657,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 133730,
+      "num": 133730,
+      "word": "哀牢山旅行是否安全",
+      "onboard_time": 1728350419,
+      "rank": 43,
+      "category": "旅游"
     },
     {
       "raw_hot": 133724,
@@ -13859,6 +14035,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 129579,
+      "num": 129579,
+      "word": "4000点女分析师谭珺怒怼但斌",
+      "onboard_time": 1728347779,
+      "rank": 44,
+      "category": "财经"
+    },
+    {
       "raw_hot": 129548,
       "num": 105964,
       "word": "王皓 许昕进城2.0",
@@ -13936,6 +14120,14 @@
       "word": "国庆入境游增速或将超出境游",
       "onboard_time": 1728067873,
       "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 128890,
+      "num": 128890,
+      "word": "全国铁路单日运力投放创历史新高",
+      "onboard_time": 1728344898,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -14412,7 +14604,7 @@
     },
     {
       "raw_hot": 123428,
-      "num": 144695,
+      "num": 170258,
       "word": "柳智敏宁艺卓预告照",
       "onboard_time": 1728342557,
       "rank": 8,
@@ -14827,6 +15019,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 118832,
+      "num": 118832,
+      "word": "上海地铁",
+      "onboard_time": 1728344237,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 118728,
       "num": 118728,
       "word": "石凯的话只骗到了唐九洲",
@@ -14915,12 +15115,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 117942,
+      "num": 340888,
+      "word": "寒露节气不再适合秋冻",
+      "onboard_time": 1728351140,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 117825,
       "num": 117825,
       "word": "脱口秀和Ta的朋友们",
       "onboard_time": 1727782039,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 117806,
+      "num": 117806,
+      "word": "专家称A股将迎大涨大波动大分化",
+      "onboard_time": 1728351679,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 117775,
@@ -15129,6 +15345,14 @@
       "onboard_time": 1728287061,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 115872,
+      "num": 166583,
+      "word": "律师谈高速掉落图钉致多辆车被扎",
+      "onboard_time": 1728349101,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 115836,
@@ -15851,14 +16075,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 108651,
-      "num": 108651,
-      "word": "小米SU7假期锁单超6000辆",
-      "onboard_time": 1728343157,
-      "rank": 45,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 108633,
       "num": 108633,
       "word": "王楚钦说我们下个赛场见",
@@ -16265,6 +16481,14 @@
       "onboard_time": 1727782340,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 105204,
+      "num": 204510,
+      "word": "张艺兴早期太抽象了",
+      "onboard_time": 1728342436,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 105131,
@@ -17147,6 +17371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 95366,
+      "num": 202214,
+      "word": "权志龙参与制作宝怪新专",
+      "onboard_time": 1728345377,
+      "rank": 29,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 95268,
       "num": 95268,
       "word": "鱿鱼游戏2宣传活动",
@@ -17369,14 +17601,6 @@
       "onboard_time": 1728047300,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 91485,
-      "num": 123129,
-      "word": "张艺兴早期太抽象了",
-      "onboard_time": 1728342436,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 91463,
@@ -19587,6 +19811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 48619,
+      "num": 117429,
+      "word": "月黑风高最好的下手时机",
+      "onboard_time": 1728351679,
+      "rank": 49,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 48378,
       "num": 155780,
       "word": "有种反向旅游叫捡秋",
@@ -21339,6 +21571,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 19971,
+      "num": 1047061,
+      "word": "国庆文旅图景尽显活力中国",
+      "onboard_time": 1728304823,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 19969,
       "num": 140018,
       "word": "移民管理警察为界碑一笔一划描红",
@@ -21577,14 +21817,6 @@
       "onboard_time": 1727812991,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 15652,
-      "num": 525868,
-      "word": "国庆文旅图景尽显活力中国",
-      "onboard_time": 1728304823,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 15432,
