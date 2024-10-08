@@ -1,6 +1,6 @@
 {
   "startTime": 1728404919019,
-  "endTime": 1728416105248,
+  "endTime": 1728418787458,
   "band_list": [
     {
       "raw_hot": 2648229,
@@ -475,6 +475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 52504,
+      "num": 52504,
+      "word": "美发言人称哈马斯或应出钱重建加沙",
+      "onboard_time": 1728413832,
+      "rank": 9,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 45255,
       "num": 90864,
       "word": "朴山多拉晒YG家族合照",
@@ -483,12 +491,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 41792,
-      "num": 52156,
-      "word": "美发言人称哈马斯或应出钱重建加沙",
-      "onboard_time": 1728413832,
-      "rank": 9,
-      "category": "国外时政"
+      "raw_hot": 45227,
+      "num": 31407,
+      "word": "秦昊 付辛博很多年前是厉害的组合",
+      "onboard_time": 1728414551,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 41271,
@@ -513,14 +521,6 @@
       "onboard_time": 1728411131,
       "rank": 41,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 35215,
-      "num": 31407,
-      "word": "秦昊 付辛博很多年前是厉害的组合",
-      "onboard_time": 1728414551,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 34316,
@@ -571,7 +571,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 14908,
+      "raw_hot": 18975,
       "num": 31407,
       "word": "外交部谈中国游升温",
       "onboard_time": 1728416051,
@@ -593,6 +593,14 @@
       "onboard_time": 1728401000,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 11762,
+      "num": 34387,
+      "word": "日本前首相菅直人宣布退出政坛",
+      "onboard_time": 1728417910,
+      "rank": 9,
+      "category": "国外时政"
     }
   ],
   "hotgov_list": [
