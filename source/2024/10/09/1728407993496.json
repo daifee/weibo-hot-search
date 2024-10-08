@@ -1,0 +1,410 @@
+{
+  "runTime": 1728407993496,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 94589,
+        "num": 471349,
+        "word": "吴邦国同志逝世",
+        "onboard_time": 1728381801,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 810216,
+        "num": 457658,
+        "word": "孙颖莎1比3金琴英",
+        "onboard_time": 1728397823,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 16262,
+        "num": 348792,
+        "word": "十一长假全国揽投快递近63亿件",
+        "onboard_time": 1728401541,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 774788,
+        "num": 313598,
+        "word": "国乒女团3比1战胜朝鲜女团",
+        "onboard_time": 1728402979,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 660889,
+        "num": 252658,
+        "word": "孙颖莎vs边松景",
+        "onboard_time": 1728403219,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 188069,
+        "num": 188069,
+        "word": "张家界回应被指拆成20个景区收费",
+        "onboard_time": 1728395298,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153206,
+        "num": 153206,
+        "word": "游客偶遇秦岭野生大熊猫直呼没白来",
+        "onboard_time": 1728405916,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136977,
+        "num": 136977,
+        "word": "红斑狼疮治疗在杭州实现全球重大突破",
+        "onboard_time": 1728403878,
+        "rank": 7,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 125851,
+        "num": 125851,
+        "word": "以军或攻占黎巴嫩三分之一国土",
+        "onboard_time": 1728403518,
+        "rank": 8,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 46581,
+        "num": 125782,
+        "word": "中餐厅考古",
+        "onboard_time": 1728386240,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 447211,
+        "num": 124900,
+        "word": "k总",
+        "onboard_time": 1728390560,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 434050,
+        "num": 124018,
+        "word": "山取颜料师被要求返还矿石",
+        "onboard_time": 1728386420,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 416014,
+        "num": 123047,
+        "word": "于正报警",
+        "onboard_time": 1728399802,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 265757,
+        "num": 121607,
+        "word": "k总 抑郁",
+        "onboard_time": 1728395181,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 255812,
+        "num": 121176,
+        "word": "黄晓明带叶珂参加陈浩民生日会",
+        "onboard_time": 1728382882,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31816,
+        "num": 119834,
+        "word": "主播石英岩冒充翡翠非法获利近30万",
+        "onboard_time": 1728406277,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239023,
+        "num": 119097,
+        "word": "周扬青聊名媛班",
+        "onboard_time": 1728389299,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 230143,
+        "num": 118572,
+        "word": "对王楚钦别捧杀也别棒杀",
+        "onboard_time": 1728397401,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 228000,
+        "num": 117695,
+        "word": "刘烨竟然是勋鹿群管理员",
+        "onboard_time": 1728391280,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189085,
+        "num": 116969,
+        "word": "男子称花2个月工资追女生反被拉黑",
+        "onboard_time": 1728400880,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166836,
+        "num": 115222,
+        "word": "李定豪 阮小咪",
+        "onboard_time": 1728401840,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111901,
+        "num": 115002,
+        "word": "国乒女团vs朝鲜",
+        "onboard_time": 1728387800,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 147006,
+        "num": 114104,
+        "word": "戚薇李承铉敢说 我不敢听",
+        "onboard_time": 1728395720,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113447,
+        "num": 113447,
+        "word": "朴智妍离婚后首次公开活动",
+        "onboard_time": 1728401601,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112152,
+        "num": 112152,
+        "word": "亚锦赛赛程",
+        "onboard_time": 1728388040,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 106598,
+        "num": 106598,
+        "word": "调查东北雨姐监管部门应及时出手",
+        "onboard_time": 1728407594,
+        "rank": 25,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 101534,
+        "num": 101534,
+        "word": "天蝎座为什么总是不开心",
+        "onboard_time": 1728400281,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 98675,
+        "num": 98675,
+        "word": "朴山多拉晒YG家族合照没有Jennie",
+        "onboard_time": 1728394341,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 45255,
+        "num": 90864,
+        "word": "朴山多拉晒YG家族合照",
+        "onboard_time": 1728406096,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27963,
+        "num": 87981,
+        "word": "团伙在陕西盗掘3.5吨古生物化石",
+        "onboard_time": 1728407534,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 87160,
+        "num": 87160,
+        "word": "租房8年被收损耗费租客觉得伤感情",
+        "onboard_time": 1728388521,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 86991,
+        "num": 86991,
+        "word": "国乒女团晋级亚锦赛4强",
+        "onboard_time": 1728405318,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 86865,
+        "num": 86865,
+        "word": "专家提醒月经不规则不可掉以轻心",
+        "onboard_time": 1728391641,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 86096,
+        "num": 86096,
+        "word": "第五人格入殓师废稿",
+        "onboard_time": 1728392421,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 82936,
+        "num": 82936,
+        "word": "网恋12年英国男友竟是闺蜜假扮",
+        "onboard_time": 1728395362,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 77864,
+        "num": 77864,
+        "word": "王楚钦2比3本雅明",
+        "onboard_time": 1728366802,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 75050,
+        "num": 75050,
+        "word": "警方回应女子踩踹外卖小哥面部",
+        "onboard_time": 1728389901,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 73215,
+        "num": 73215,
+        "word": "李兰迪骨相美",
+        "onboard_time": 1728400401,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 68628,
+        "num": 68628,
+        "word": "父子殴打一家3口后开车撞人",
+        "onboard_time": 1728393441,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 67824,
+        "num": 67824,
+        "word": "哀牢山最危险的不是猛兽",
+        "onboard_time": 1728388281,
+        "rank": 39,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 66465,
+        "num": 66465,
+        "word": "女子吐槽景区已购门票仍收过桥费",
+        "onboard_time": 1728397161,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 64197,
+        "num": 64197,
+        "word": "贾冰做饭有多好吃",
+        "onboard_time": 1728407053,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 58845,
+        "num": 58845,
+        "word": "什么是长胶打法",
+        "onboard_time": 1728401479,
+        "rank": 42,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 56225,
+        "num": 56225,
+        "word": "中国香港女团晋级4强",
+        "onboard_time": 1728405675,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 55520,
+        "num": 55520,
+        "word": "你坐过宝鸡到重庆双层火车吗",
+        "onboard_time": 1728402080,
+        "rank": 44,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 53728,
+        "num": 53728,
+        "word": "医院回应垃圾桶里发现带脐带女婴",
+        "onboard_time": 1728394761,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 52082,
+        "num": 52082,
+        "word": "周冬雨在韩国的人气",
+        "onboard_time": 1728383662,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 47812,
+        "num": 47812,
+        "word": "林草局回应颜料师进哀牢山取材",
+        "onboard_time": 1728395961,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46786,
+        "num": 46786,
+        "word": "金珉奎wvs更新",
+        "onboard_time": 1728401180,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 45669,
+        "num": 45669,
+        "word": "石洵瑶3比2车秀英",
+        "onboard_time": 1728402859,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#学习习近平文化思想#"
+    }
+  }
+}
