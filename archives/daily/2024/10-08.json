@@ -1,7 +1,15 @@
 {
   "startTime": 1728318463808,
-  "endTime": 1728383024214,
+  "endTime": 1728384088793,
   "band_list": [
+    {
+      "raw_hot": 12210422,
+      "num": 13334184,
+      "word": "吴邦国同志逝世",
+      "onboard_time": 1728381801,
+      "rank": 0,
+      "category": "国内时政"
+    },
     {
       "raw_hot": 10133581,
       "num": 10133581,
@@ -9,14 +17,6 @@
       "onboard_time": 1728366802,
       "rank": 0,
       "category": "体育"
-    },
-    {
-      "raw_hot": 7728946,
-      "num": 8978946,
-      "word": "吴邦国同志逝世",
-      "onboard_time": 1728381801,
-      "rank": 0,
-      "category": "国内时政"
     },
     {
       "raw_hot": 3580252,
@@ -128,6 +128,14 @@
       "word": "陈赫说黄磊做饭好吃",
       "onboard_time": 1728364340,
       "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1325758,
+      "num": 275010,
+      "word": "黄晓明带叶珂参加陈浩民生日会",
+      "onboard_time": 1728382882,
+      "rank": 30,
       "category": "艺人"
     },
     {
@@ -451,6 +459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 656265,
+      "num": 656265,
+      "word": "2024年诺贝尔物理学奖揭晓",
+      "onboard_time": 1728382401,
+      "rank": 9,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 655837,
       "num": 655837,
       "word": "提高学生资助补助标准",
@@ -763,6 +779,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 360376,
+      "num": 302922,
+      "word": "赵丽颖新片孕妇装",
+      "onboard_time": 1728381920,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 360159,
       "num": 343295,
       "word": "孙乐言 恋爱脑",
@@ -939,14 +963,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 302922,
-      "num": 302922,
-      "word": "赵丽颖新片孕妇装",
-      "onboard_time": 1728381920,
-      "rank": 18,
-      "category": "电影"
-    },
-    {
       "raw_hot": 296593,
       "num": 296593,
       "word": "崩坏星穹铁道",
@@ -993,6 +1009,14 @@
       "onboard_time": 1728353539,
       "rank": 27,
       "category": "财经"
+    },
+    {
+      "raw_hot": 284915,
+      "num": 362958,
+      "word": "周冬雨的14年在两张封面上具象化了",
+      "onboard_time": 1728381859,
+      "rank": 7,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 284823,
@@ -1187,6 +1211,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 231441,
+      "num": 231441,
+      "word": "女子当街脚踩头殴打外卖小哥",
+      "onboard_time": 1728383181,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 231323,
       "num": 324999,
       "word": "艰难上岸后的辅导员每天都想辞职",
@@ -1201,6 +1233,14 @@
       "onboard_time": 1728350000,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 225368,
+      "num": 225368,
+      "word": "周冬雨在韩国的人气",
+      "onboard_time": 1728383662,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 223411,
@@ -1235,20 +1275,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 216186,
-      "num": 216186,
-      "word": "黄晓明带叶珂参加陈浩民生日会",
-      "onboard_time": 1728382882,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 215403,
       "num": 215403,
       "word": "韩安冉回应宋浩然过度劳累入院",
       "onboard_time": 1728368121,
       "rank": 34,
       "category": "网红"
+    },
+    {
+      "raw_hot": 213905,
+      "num": 213905,
+      "word": "张朝阳读书效率为何那么高",
+      "onboard_time": 1728382762,
+      "rank": 35,
+      "category": "互联网"
     },
     {
       "raw_hot": 210703,
@@ -1291,11 +1331,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 206611,
-      "num": 361133,
-      "word": "2024年诺贝尔物理学奖揭晓",
-      "onboard_time": 1728382401,
-      "rank": 9,
+      "raw_hot": 208007,
+      "num": 208007,
+      "word": "诺贝尔物理学奖 计算机",
+      "onboard_time": 1728383662,
+      "rank": 34,
       "category": "科学科普"
     },
     {
@@ -1305,6 +1345,14 @@
       "onboard_time": 1728380239,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 206289,
+      "num": 278873,
+      "word": "柯基警犬福仔转正了",
+      "onboard_time": 1728381560,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 206259,
@@ -1427,14 +1475,6 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 194409,
-      "num": 362958,
-      "word": "周冬雨的14年在两张封面上具象化了",
-      "onboard_time": 1728381859,
-      "rank": 7,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 193419,
       "num": 193419,
       "word": "半导体",
@@ -1483,20 +1523,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 188068,
-      "num": 188068,
-      "word": "张朝阳读书效率为何那么高",
-      "onboard_time": 1728382762,
-      "rank": 35,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 187982,
       "num": 398148,
       "word": "四川警方通报女子称被强奸未遂",
       "onboard_time": 1728379220,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 186325,
+      "num": 186325,
+      "word": "下次不准再P了",
+      "onboard_time": 1728383422,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 186193,
@@ -1747,6 +1787,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 163596,
+      "num": 362535,
+      "word": "江苏省公布2024年度社会保险缴费基数",
+      "onboard_time": 1728377719,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 161866,
       "num": 161866,
       "word": "无缝球和有缝球的区别",
@@ -1811,14 +1859,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 158064,
-      "num": 158064,
-      "word": "柯基警犬福仔转正了",
-      "onboard_time": 1728381560,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 157707,
       "num": 157707,
       "word": "A股大涨你回本了吗",
@@ -1860,7 +1900,7 @@
     },
     {
       "raw_hot": 153431,
-      "num": 922159,
+      "num": 1000463,
       "word": "文化中国行看寒露节气",
       "onboard_time": 1728344657,
       "rank": 38,
@@ -1921,6 +1961,14 @@
       "onboard_time": 1728356960,
       "rank": 47,
       "category": "财经"
+    },
+    {
+      "raw_hot": 145095,
+      "num": 145095,
+      "word": "网传宁波有人因炒股在商场坠楼不实",
+      "onboard_time": 1728383543,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 144903,
@@ -2049,14 +2097,6 @@
       "onboard_time": 1728379698,
       "rank": 13,
       "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 125519,
-      "num": 362535,
-      "word": "江苏省公布2024年度社会保险缴费基数",
-      "onboard_time": 1728377719,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 124381,
@@ -2537,6 +2577,14 @@
       "onboard_time": 1728375381,
       "rank": 34,
       "category": "数码"
+    },
+    {
+      "raw_hot": 51499,
+      "num": 265922,
+      "word": "A股与港股的跷跷板效应是为何",
+      "onboard_time": 1728383062,
+      "rank": 14,
+      "category": "财经"
     },
     {
       "raw_hot": 50043,
