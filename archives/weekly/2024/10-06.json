@@ -1,10 +1,10 @@
 {
   "startTime": 1728145573126,
-  "endTime": 1728369078877,
+  "endTime": 1728369892215,
   "band_list": [
     {
-      "raw_hot": 10015057,
-      "num": 10015057,
+      "raw_hot": 10133581,
+      "num": 10133581,
       "word": "王楚钦2比3本雅明",
       "onboard_time": 1728366802,
       "rank": 0,
@@ -80,6 +80,14 @@
       "word": "林诗栋男单冠军",
       "onboard_time": 1728218785,
       "rank": 1,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 2210049,
+      "num": 2210049,
+      "word": "林诗栋vs阿拉米扬",
+      "onboard_time": 1728368901,
+      "rank": 16,
       "category": "体育"
     },
     {
@@ -268,7 +276,7 @@
     },
     {
       "raw_hot": 1368921,
-      "num": 337941,
+      "num": 402601,
       "word": "王楚钦状态",
       "onboard_time": 1728367282,
       "rank": 10,
@@ -337,6 +345,14 @@
       "onboard_time": 1728360981,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1221596,
+      "num": 402961,
+      "word": "汪建民去世",
+      "onboard_time": 1728368421,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 1200713,
@@ -891,6 +907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 699183,
+      "num": 699183,
+      "word": "无缝球",
+      "onboard_time": 1728365420,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 687029,
       "num": 919924,
       "word": "WBG对战G2",
@@ -913,14 +937,6 @@
       "onboard_time": 1728275119,
       "rank": 30,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 677007,
-      "num": 677007,
-      "word": "无缝球",
-      "onboard_time": 1728365420,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 675716,
@@ -1107,11 +1123,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 612952,
-      "num": 334842,
-      "word": "汪建民去世",
-      "onboard_time": 1728368421,
-      "rank": 12,
+      "raw_hot": 610981,
+      "num": 610981,
+      "word": "于正 欢娱影视多了一名花旦",
+      "onboard_time": 1728368782,
+      "rank": 28,
       "category": "艺人"
     },
     {
@@ -1404,7 +1420,7 @@
     },
     {
       "raw_hot": 452090,
-      "num": 328781,
+      "num": 404122,
       "word": "东北雨姐删除了道歉视频",
       "onboard_time": 1728367520,
       "rank": 15,
@@ -1441,14 +1457,6 @@
       "onboard_time": 1728295342,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 442711,
-      "num": 328705,
-      "word": "林诗栋vs阿拉米扬",
-      "onboard_time": 1728368901,
-      "rank": 16,
-      "category": "体育"
     },
     {
       "raw_hot": 439253,
@@ -1656,6 +1664,14 @@
       "word": "郑钦文说昨天做了错误决定",
       "onboard_time": 1728136340,
       "rank": 14,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 392329,
+      "num": 392329,
+      "word": "伊朗男团 擦网",
+      "onboard_time": 1728369022,
+      "rank": 44,
       "category": "体育"
     },
     {
@@ -2308,7 +2324,7 @@
     },
     {
       "raw_hot": 294868,
-      "num": 232879,
+      "num": 265824,
       "word": "A股 过山车",
       "onboard_time": 1728361761,
       "rank": 46,
@@ -2523,6 +2539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 273603,
+      "num": 273603,
+      "word": "国乒男队vs伊朗阵容",
+      "onboard_time": 1728365060,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 272699,
       "num": 224866,
       "word": "樊振东小时候和现在的相同之处",
@@ -2656,14 +2680,6 @@
       "word": "王楚钦回应近期表现引起争议",
       "onboard_time": 1728198257,
       "rank": 31,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 255522,
-      "num": 227070,
-      "word": "国乒男队vs伊朗阵容",
-      "onboard_time": 1728365060,
-      "rank": 32,
       "category": "体育"
     },
     {
@@ -2819,14 +2835,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 238621,
-      "num": 238621,
-      "word": "于正 欢娱影视多了一名花旦",
-      "onboard_time": 1728368782,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 238216,
       "num": 238216,
       "word": "孙颖莎王曼昱相持好精彩",
@@ -2913,6 +2921,14 @@
       "onboard_time": 1728343157,
       "rank": 45,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 232101,
+      "num": 232101,
+      "word": "林诗栋对手摔拍",
+      "onboard_time": 1728369861,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 231454,
@@ -3235,6 +3251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 209438,
+      "num": 209438,
+      "word": "国乒男团0比1伊朗",
+      "onboard_time": 1728368901,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 208376,
       "num": 208376,
       "word": "亚锦赛",
@@ -3411,6 +3435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 201053,
+      "num": 265811,
+      "word": "Jennie和NewJeans同框",
+      "onboard_time": 1728369441,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 201018,
       "num": 201018,
       "word": "周冬雨给林依晨颁奖",
@@ -3441,6 +3473,14 @@
       "onboard_time": 1728214161,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 200379,
+      "num": 332544,
+      "word": "外交部和驻巴基斯坦使领馆发出提醒",
+      "onboard_time": 1728368240,
+      "rank": 13,
+      "category": "国外时政"
     },
     {
       "raw_hot": 198972,
@@ -3505,6 +3545,14 @@
       "onboard_time": 1728223940,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 197141,
+      "num": 197141,
+      "word": "王楚钦主动指出擦网重发",
+      "onboard_time": 1728368960,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 196022,
@@ -3619,6 +3667,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 192235,
+      "num": 192235,
+      "word": "能生成人裸照的性犯罪从韩国开始泛滥",
+      "onboard_time": 1728369501,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 191884,
       "num": 191884,
       "word": "檀健次真的唱了朝夕",
@@ -3699,28 +3755,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 186292,
-      "num": 332544,
-      "word": "外交部和驻巴基斯坦使领馆发出提醒",
-      "onboard_time": 1728368240,
-      "rank": 13,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 186193,
       "num": 186193,
       "word": "00后积极入市现象不容忽视",
       "onboard_time": 1728356719,
       "rank": 47,
       "category": "财经"
-    },
-    {
-      "raw_hot": 186141,
-      "num": 186141,
-      "word": "国乒男团0比1伊朗",
-      "onboard_time": 1728368901,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 185568,
@@ -3753,14 +3793,6 @@
       "onboard_time": 1728352520,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 184354,
-      "num": 184354,
-      "word": "王楚钦主动指出擦网重发",
-      "onboard_time": 1728368960,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 184240,
@@ -3988,7 +4020,7 @@
     },
     {
       "raw_hot": 175388,
-      "num": 237870,
+      "num": 298751,
       "word": "驻巴基斯坦使领馆再发提醒",
       "onboard_time": 1728367702,
       "rank": 29,
@@ -4139,12 +4171,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 168571,
-      "num": 168571,
-      "word": "伊朗男团 擦网",
-      "onboard_time": 1728369022,
-      "rank": 44,
-      "category": "体育"
+      "raw_hot": 169368,
+      "num": 169368,
+      "word": "张杰抢票",
+      "onboard_time": 1728368661,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 168407,
@@ -4505,14 +4537,6 @@
       "onboard_time": 1728187580,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 154762,
-      "num": 154762,
-      "word": "张杰抢票",
-      "onboard_time": 1728368661,
-      "rank": 48,
-      "category": "演出"
     },
     {
       "raw_hot": 154709,
@@ -6524,7 +6548,7 @@
     },
     {
       "raw_hot": 82642,
-      "num": 1288302,
+      "num": 1826757,
       "word": "古人笔下的浪漫秋意",
       "onboard_time": 1728362721,
       "rank": 2,
@@ -7123,6 +7147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 45571,
+      "num": 265761,
+      "word": "疑加沙男子痛失11名兄弟后再听噩耗",
+      "onboard_time": 1728369802,
+      "rank": 29,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 45159,
       "num": 303974,
       "word": "男子住民宿凌晨2点遭陌生人闯门",
@@ -7675,6 +7707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 20829,
+      "num": 394486,
+      "word": "将研究部分税费支持失业保险",
+      "onboard_time": 1728369320,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 19974,
       "num": 391837,
       "word": "刘亦菲NBA比赛观后感",
@@ -7785,6 +7825,14 @@
       "onboard_time": 1728239772,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 14740,
+      "num": 168423,
+      "word": "建议成毅把冲锋衣焊身上",
+      "onboard_time": 1728369320,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 14489,
