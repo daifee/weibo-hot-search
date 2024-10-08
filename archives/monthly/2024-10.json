@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1728372963469,
+  "endTime": 1728376145632,
   "band_list": [
     {
       "raw_hot": 11925969,
@@ -900,7 +900,7 @@
     },
     {
       "raw_hot": 1160288,
-      "num": 1056000,
+      "num": 1117476,
       "word": "林诗栋对手摔拍",
       "onboard_time": 1728369861,
       "rank": 33,
@@ -1475,6 +1475,14 @@
       "category": "社会新闻,国内时政"
     },
     {
+      "raw_hot": 908452,
+      "num": 908452,
+      "word": "赛螃蟹",
+      "onboard_time": 1728374181,
+      "rank": 3,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 906341,
       "num": 441336,
       "word": "脱口秀演员调侃王楚钦遭辞退",
@@ -1523,12 +1531,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 896576,
+      "num": 896576,
+      "word": "张禹珍3比2张本智和",
+      "onboard_time": 1728374301,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 884225,
       "num": 327423,
       "word": "博物馆昆虫被2孩子偷走",
       "onboard_time": 1727937317,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 869925,
+      "num": 869925,
+      "word": "国乒男团3比1伊朗",
+      "onboard_time": 1728373341,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 867926,
@@ -2779,6 +2803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 617343,
+      "num": 617343,
+      "word": "王楚钦3比1阿拉米扬",
+      "onboard_time": 1728373701,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 617321,
       "num": 617321,
       "word": "重庆断崖式降温后市民乱穿衣",
@@ -3131,6 +3163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 565371,
+      "num": 307952,
+      "word": "女子实名举报被四川一中学纪委书记强暴",
+      "onboard_time": 1728371841,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 564621,
       "num": 564621,
       "word": "人人人人人广州人人人人人",
@@ -3329,6 +3369,14 @@
       "onboard_time": 1727934738,
       "rank": 3,
       "category": "网红"
+    },
+    {
+      "raw_hot": 538525,
+      "num": 427948,
+      "word": "A股遭遇背刺",
+      "onboard_time": 1728373222,
+      "rank": 11,
+      "category": "财经"
     },
     {
       "raw_hot": 536881,
@@ -3793,6 +3841,14 @@
       "onboard_time": 1728202518,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 479236,
+      "num": 417591,
+      "word": "以色列一日内遭三方导弹袭击",
+      "onboard_time": 1728372982,
+      "rank": 12,
+      "category": "国外时政"
     },
     {
       "raw_hot": 478316,
@@ -4443,6 +4499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 408231,
+      "num": 408231,
+      "word": "东北雨姐拍摄基地人去房空",
+      "onboard_time": 1728372021,
+      "rank": 33,
+      "category": "网红"
+    },
+    {
       "raw_hot": 406651,
       "num": 274982,
       "word": "国庆档电影豆瓣开分",
@@ -4907,6 +4971,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 367699,
+      "num": 314652,
+      "word": "从他的27岁走到她的27岁",
+      "onboard_time": 1728372439,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 367662,
+      "num": 310032,
+      "word": "余额宝资金转出提示股票火爆",
+      "onboard_time": 1728375079,
+      "rank": 23,
+      "category": "财经"
+    },
+    {
       "raw_hot": 367137,
       "num": 330325,
       "word": "赵丽颖完成了演员与角色之间的交汇",
@@ -5243,14 +5323,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 347786,
-      "num": 347786,
-      "word": "东北雨姐拍摄基地人去房空",
-      "onboard_time": 1728372021,
-      "rank": 33,
-      "category": "网红"
-    },
-    {
       "raw_hot": 346827,
       "num": 200905,
       "word": "WB零封AG",
@@ -5545,6 +5617,14 @@
       "onboard_time": 1728112938,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 327344,
+      "num": 327344,
+      "word": "这可是你们杭州的女婿",
+      "onboard_time": 1728372921,
+      "rank": 45,
+      "category": "动漫"
     },
     {
       "raw_hot": 327212,
@@ -5979,6 +6059,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 305743,
+      "num": 305743,
+      "word": "来福士",
+      "onboard_time": 1728375561,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 305283,
       "num": 434337,
       "word": "印度空军航展发生踩踏致百人死伤",
@@ -6115,6 +6203,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 296909,
+      "num": 444769,
+      "word": "国庆假期国内出游7.65亿人次",
+      "onboard_time": 1728372560,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 296593,
       "num": 296593,
       "word": "崩坏星穹铁道",
@@ -6241,14 +6337,6 @@
       "onboard_time": 1728109699,
       "rank": 29,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 292111,
-      "num": 292111,
-      "word": "从他的27岁走到她的27岁",
-      "onboard_time": 1728372439,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 291319,
@@ -6499,6 +6587,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 283452,
+      "num": 283452,
+      "word": "马龙许昕同框",
+      "onboard_time": 1728375200,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 283260,
       "num": 204278,
       "word": "王一博 石猴出世",
@@ -6657,14 +6753,6 @@
       "onboard_time": 1727999055,
       "rank": 14,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 279346,
-      "num": 279346,
-      "word": "女子实名举报被四川一中学纪委书记强暴",
-      "onboard_time": 1728371841,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 279158,
@@ -7241,6 +7329,14 @@
       "onboard_time": 1728171615,
       "rank": 8,
       "category": "数码"
+    },
+    {
+      "raw_hot": 258057,
+      "num": 258057,
+      "word": "外媒曝乌克兰闭门讨论出让部分领土",
+      "onboard_time": 1728373283,
+      "rank": 28,
+      "category": "国外时政"
     },
     {
       "raw_hot": 257417,
@@ -8163,14 +8259,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 228241,
-      "num": 228241,
-      "word": "国庆假期国内出游7.65亿人次",
-      "onboard_time": 1728372560,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 228060,
       "num": 256928,
       "word": "12306没有任何额外收费",
@@ -8433,6 +8521,14 @@
       "onboard_time": 1727917997,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 220477,
+      "num": 332220,
+      "word": "张石头",
+      "onboard_time": 1728372501,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 220308,
@@ -8841,6 +8937,14 @@
       "onboard_time": 1727743398,
       "rank": 28,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 210149,
+      "num": 317347,
+      "word": "杨紫出发南京",
+      "onboard_time": 1728375799,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 210086,
@@ -9513,6 +9617,14 @@
       "onboard_time": 1727792421,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 198320,
+      "num": 198320,
+      "word": "韩国男团3比1日本男团",
+      "onboard_time": 1728374841,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 198306,
@@ -11403,6 +11515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 172813,
+      "num": 172813,
+      "word": "专家称今天的行情不太正常",
+      "onboard_time": 1728373522,
+      "rank": 39,
+      "category": "财经"
+    },
+    {
       "raw_hot": 172760,
       "num": 172760,
       "word": "王楚钦和马琳儿子分享零食",
@@ -11432,6 +11552,14 @@
       "word": "郑钦文打到对手摔拍子",
       "onboard_time": 1727917997,
       "rank": 25,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 172297,
+      "num": 172297,
+      "word": "世界乒联恭喜孙颖莎积分过万",
+      "onboard_time": 1728375741,
+      "rank": 41,
       "category": "体育"
     },
     {
@@ -12003,6 +12131,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 163891,
+      "num": 163891,
+      "word": "小女孩景区走失抱紧武警大腿求救",
+      "onboard_time": 1728375680,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 163868,
       "num": 324130,
       "word": "郑钦文晋级获得130万奖金",
@@ -12393,14 +12529,6 @@
       "onboard_time": 1728224120,
       "rank": 42,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 158460,
-      "num": 332220,
-      "word": "张石头",
-      "onboard_time": 1728372501,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 158446,
@@ -12801,6 +12929,14 @@
       "onboard_time": 1728037579,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 154152,
+      "num": 154152,
+      "word": "已安排215位我国公民撤出黎巴嫩",
+      "onboard_time": 1728375859,
+      "rank": 47,
+      "category": "国内时政"
     },
     {
       "raw_hot": 153836,
@@ -13585,14 +13721,6 @@
       "onboard_time": 1727825775,
       "rank": 47,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 145151,
-      "num": 145151,
-      "word": "这可是你们杭州的女婿",
-      "onboard_time": 1728372921,
-      "rank": 45,
-      "category": "动漫"
     },
     {
       "raw_hot": 145068,
@@ -19691,6 +19819,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 73774,
+      "num": 322830,
+      "word": "男子因土地纠纷砍杀邻居祖孙三人",
+      "onboard_time": 1728374959,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 73745,
       "num": 103583,
       "word": "马龙3比0皮切福德",
@@ -20715,6 +20851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 52810,
+      "num": 186682,
+      "word": "vivo为何领跑国产手机销量市场",
+      "onboard_time": 1728375381,
+      "rank": 34,
+      "category": "数码"
+    },
+    {
       "raw_hot": 52737,
       "num": 170317,
       "word": "堵车后众人在隧道开起了演唱会",
@@ -21297,6 +21441,14 @@
       "onboard_time": 1727888473,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 42009,
+      "num": 326280,
+      "word": "郑业成我不是戏神cos",
+      "onboard_time": 1728376040,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 41999,
