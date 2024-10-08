@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1728362460979,
+  "endTime": 1728364887216,
   "band_list": [
     {
       "raw_hot": 11925969,
@@ -1393,6 +1393,14 @@
       "onboard_time": 1728113360,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 905439,
+      "num": 433887,
+      "word": "一早涨停买入的已经开始亏钱",
+      "onboard_time": 1728361881,
+      "rank": 39,
+      "category": "财经"
     },
     {
       "raw_hot": 903887,
@@ -3323,6 +3331,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 520772,
+      "num": 505721,
+      "word": "Jennie逆应援",
+      "onboard_time": 1728362960,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 519775,
       "num": 293137,
       "word": "马龙 GOAT",
@@ -3761,6 +3777,14 @@
       "onboard_time": 1728137300,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 463058,
+      "num": 433240,
+      "word": "陈赫说黄磊做饭好吃",
+      "onboard_time": 1728364340,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 462172,
@@ -5123,6 +5147,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 337738,
+      "num": 337738,
+      "word": "李敏镐郭碧婷合作过",
+      "onboard_time": 1728360260,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 337558,
       "num": 244568,
       "word": "赵露思录卸妆视频",
@@ -5539,6 +5571,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 315184,
+      "num": 432564,
+      "word": "郑素敏否认与丁海寅恋爱",
+      "onboard_time": 1728363201,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 312926,
       "num": 331516,
       "word": "郑钦文回应摔倒",
@@ -5585,6 +5625,14 @@
       "onboard_time": 1728129742,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 311151,
+      "num": 311151,
+      "word": "陈晓 我的内娱古装细糠",
+      "onboard_time": 1728364040,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 311102,
@@ -5673,6 +5721,14 @@
       "onboard_time": 1728040159,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 308083,
+      "num": 308083,
+      "word": "黄晓明官宣2024美好奇妙夜",
+      "onboard_time": 1728364101,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 308026,
@@ -6025,6 +6081,14 @@
       "onboard_time": 1728013338,
       "rank": 18,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 290315,
+      "num": 290315,
+      "word": "港剧女性角色已经是nextlevel",
+      "onboard_time": 1728362721,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 290260,
@@ -6611,6 +6675,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 270311,
+      "num": 505991,
+      "word": "至上励合马雪阳也结婚了",
+      "onboard_time": 1728361881,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 269474,
       "num": 248711,
       "word": "张凌赫田曦薇平番",
@@ -6683,6 +6755,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 267025,
+      "num": 267025,
+      "word": "田柾国超级碗邀约被Hybe拒绝",
+      "onboard_time": 1728363560,
+      "rank": 38,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 266758,
       "num": 184723,
       "word": "超15000台车违法占用应急车道",
@@ -6721,6 +6801,14 @@
       "onboard_time": 1727944758,
       "rank": 23,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 264622,
+      "num": 264622,
+      "word": "这七天比一节45分钟的课还快",
+      "onboard_time": 1728362241,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 264383,
@@ -7267,6 +7355,22 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 244859,
+      "num": 244859,
+      "word": "张晚意古偶三连播",
+      "onboard_time": 1728361821,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 244583,
+      "num": 244583,
+      "word": "橘朵 刘浩存",
+      "onboard_time": 1728364520,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 244304,
       "num": 245198,
       "word": "北京下调个人住房贷款首付款比例",
@@ -7667,14 +7771,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 232116,
-      "num": 232116,
-      "word": "张晚意古偶三连播",
-      "onboard_time": 1728361821,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 232011,
       "num": 260012,
       "word": "李斯丹妮快女13年后首个常驻音综",
@@ -8025,14 +8121,6 @@
       "onboard_time": 1728012378,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 221959,
-      "num": 221959,
-      "word": "一早涨停买入的已经开始亏钱",
-      "onboard_time": 1728361881,
-      "rank": 39,
-      "category": "财经"
     },
     {
       "raw_hot": 221921,
@@ -8881,6 +8969,14 @@
       "onboard_time": 1727843117,
       "rank": 24,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 203359,
+      "num": 203359,
+      "word": "沪指回调300点",
+      "onboard_time": 1728364279,
+      "rank": 47,
+      "category": "财经"
     },
     {
       "raw_hot": 203278,
@@ -9803,6 +9899,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 190719,
+      "num": 433715,
+      "word": "A股港股冰火两重天",
+      "onboard_time": 1728363321,
+      "rank": 13,
+      "category": "财经"
+    },
+    {
       "raw_hot": 190559,
       "num": 653189,
       "word": "假期第2天你准备做什么",
@@ -9857,6 +9961,14 @@
       "onboard_time": 1727937918,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 189526,
+      "num": 189526,
+      "word": "2024PEL秋决",
+      "onboard_time": 1728364699,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 189493,
@@ -10049,6 +10161,14 @@
       "onboard_time": 1728029538,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 186682,
+      "num": 446197,
+      "word": "国乒男团vs伊朗",
+      "onboard_time": 1728363261,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 186364,
@@ -11843,6 +11963,14 @@
       "category": "社会新闻,游戏"
     },
     {
+      "raw_hot": 159481,
+      "num": 191656,
+      "word": "要督查罚没收入增长异常的地方",
+      "onboard_time": 1728362662,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 159364,
       "num": 1027498,
       "word": "把清澈的爱唱给祖国听",
@@ -12201,6 +12329,14 @@
       "onboard_time": 1727842877,
       "rank": 49,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 155691,
+      "num": 308753,
+      "word": "王楚钦vs本雅明",
+      "onboard_time": 1728363560,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 155673,
@@ -18715,14 +18851,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 83510,
-      "num": 269443,
-      "word": "李敏镐郭碧婷合作过",
-      "onboard_time": 1728360260,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 83432,
       "num": 83432,
       "word": "戚薇入围巴黎时装周最佳街拍",
@@ -18739,6 +18867,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 82642,
+      "num": 568417,
+      "word": "古人笔下的浪漫秋意",
+      "onboard_time": 1728362721,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 82526,
       "num": 82526,
       "word": "CP30",
@@ -18753,6 +18889,14 @@
       "onboard_time": 1727926218,
       "rank": 9,
       "category": "国内时政,军事"
+    },
+    {
+      "raw_hot": 82230,
+      "num": 432300,
+      "word": "超80只基金发布溢价风险提示",
+      "onboard_time": 1728363021,
+      "rank": 18,
+      "category": "财经"
     },
     {
       "raw_hot": 82218,
@@ -19235,6 +19379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 73107,
+      "num": 434337,
+      "word": "印度空军航展发生踩踏致百人死伤",
+      "onboard_time": 1728364460,
+      "rank": 10,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 72949,
       "num": 339330,
       "word": "国庆假期文物展有多丰盛",
@@ -19313,6 +19465,14 @@
       "onboard_time": 1728105139,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 71897,
+      "num": 432986,
+      "word": "vivo冲击连续四年国产销量第一",
+      "onboard_time": 1728363800,
+      "rank": 16,
+      "category": "数码"
     },
     {
       "raw_hot": 71722,
@@ -20563,14 +20723,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 45570,
-      "num": 505991,
-      "word": "至上励合马雪阳也结婚了",
-      "onboard_time": 1728361881,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 45516,
       "num": 262285,
       "word": "危机航线1比1复刻空中巨无霸A380",
@@ -20656,6 +20808,14 @@
       "word": "李红樱你俩这什么死动静",
       "onboard_time": 1728319816,
       "rank": 43,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 43963,
+      "num": 431302,
+      "word": "倪妮哭戏的感染力",
+      "onboard_time": 1728363861,
+      "rank": 22,
       "category": "电影"
     },
     {
@@ -21000,6 +21160,14 @@
       "word": "我这样为祖国庆生",
       "onboard_time": 1727850558,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 38641,
+      "num": 300850,
+      "word": "他为国家航空工业发展一生改行三次",
+      "onboard_time": 1728364759,
+      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -21483,6 +21651,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 30553,
+      "num": 432156,
+      "word": "老板成立差评团队狙击员工跳槽公司",
+      "onboard_time": 1728364040,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 30510,
       "num": 138971,
       "word": "白化病女孩在漫展获温暖拥抱与合影",
@@ -21543,6 +21719,14 @@
       "num": 210539,
       "word": "节前7日重磅经济政策回顾",
       "onboard_time": 1728288444,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 29909,
+      "num": 433421,
+      "word": "揭秘考研辅导行业无序竞争乱象",
+      "onboard_time": 1728364040,
       "rank": 14,
       "category": "社会新闻"
     },

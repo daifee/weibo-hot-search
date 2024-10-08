@@ -1,0 +1,410 @@
+{
+  "runTime": 1728364887216,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1169936,
+        "num": 1187189,
+        "word": "王俊凯黄晓明无效沟通",
+        "onboard_time": 1728360981,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 836314,
+        "num": 836314,
+        "word": "A股",
+        "onboard_time": 1728346401,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 82642,
+        "num": 568417,
+        "word": "古人笔下的浪漫秋意",
+        "onboard_time": 1728362721,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1068089,
+        "num": 554865,
+        "word": "卢昱晓工作室声明",
+        "onboard_time": 1728359360,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 914193,
+        "num": 535179,
+        "word": "揭秘擅闯哀牢山博主背后公司",
+        "onboard_time": 1728360681,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 508721,
+        "num": 508721,
+        "word": "儿子参与鬼火少年炸街被父亲暴揍",
+        "onboard_time": 1728353179,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 520772,
+        "num": 505721,
+        "word": "Jennie逆应援",
+        "onboard_time": 1728362960,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 464009,
+        "num": 464009,
+        "word": "发改委介绍一揽子增量政策有关情况",
+        "onboard_time": 1728353419,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 186682,
+        "num": 446197,
+        "word": "国乒男团vs伊朗",
+        "onboard_time": 1728363261,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 434532,
+        "num": 434532,
+        "word": "国新办新闻发布会",
+        "onboard_time": 1728353360,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 73107,
+        "num": 434337,
+        "word": "印度空军航展发生踩踏致百人死伤",
+        "onboard_time": 1728364460,
+        "rank": 10,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 923054,
+        "num": 434248,
+        "word": "高开低走",
+        "onboard_time": 1728356239,
+        "rank": 11,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 905439,
+        "num": 433887,
+        "word": "一早涨停买入的已经开始亏钱",
+        "onboard_time": 1728361881,
+        "rank": 12,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 190719,
+        "num": 433715,
+        "word": "A股港股冰火两重天",
+        "onboard_time": 1728363321,
+        "rank": 13,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 29909,
+        "num": 433421,
+        "word": "揭秘考研辅导行业无序竞争乱象",
+        "onboard_time": 1728364040,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 463058,
+        "num": 433240,
+        "word": "陈赫说黄磊做饭好吃",
+        "onboard_time": 1728364340,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 71897,
+        "num": 432986,
+        "word": "vivo冲击连续四年国产销量第一",
+        "onboard_time": 1728363800,
+        "rank": 16,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 315184,
+        "num": 432564,
+        "word": "郑素敏否认与丁海寅恋爱",
+        "onboard_time": 1728363201,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82230,
+        "num": 432300,
+        "word": "超80只基金发布溢价风险提示",
+        "onboard_time": 1728363021,
+        "rank": 18,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 30553,
+        "num": 432156,
+        "word": "老板成立差评团队狙击员工跳槽公司",
+        "onboard_time": 1728364040,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 901762,
+        "num": 431910,
+        "word": "花100万买到300平的老破大",
+        "onboard_time": 1728359179,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 556176,
+        "num": 431540,
+        "word": "鹿晗关晓彤官宣恋情七周年",
+        "onboard_time": 1728345920,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 43963,
+        "num": 431302,
+        "word": "倪妮哭戏的感染力",
+        "onboard_time": 1728363861,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 451805,
+        "num": 431075,
+        "word": "王楚钦积分7825世排第一",
+        "onboard_time": 1728352579,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 430924,
+        "num": 430924,
+        "word": "曝侃爷分手",
+        "onboard_time": 1728347542,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 410181,
+        "num": 410181,
+        "word": "孙颖莎10800分世排断层第一",
+        "onboard_time": 1728350178,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 383277,
+        "num": 383277,
+        "word": "大冰 西梅",
+        "onboard_time": 1728360081,
+        "rank": 26,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 337738,
+        "num": 337738,
+        "word": "李敏镐郭碧婷合作过",
+        "onboard_time": 1728360260,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 311151,
+        "num": 311151,
+        "word": "陈晓 我的内娱古装细糠",
+        "onboard_time": 1728364040,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155691,
+        "num": 308753,
+        "word": "王楚钦vs本雅明",
+        "onboard_time": 1728363560,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 308083,
+        "num": 308083,
+        "word": "黄晓明官宣2024美好奇妙夜",
+        "onboard_time": 1728364101,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 398097,
+        "num": 304151,
+        "word": "A股大幅高开后回落",
+        "onboard_time": 1728356000,
+        "rank": 31,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 38641,
+        "num": 300850,
+        "word": "他为国家航空工业发展一生改行三次",
+        "onboard_time": 1728364759,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 371847,
+        "num": 299944,
+        "word": "马龙排名",
+        "onboard_time": 1728355940,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 298748,
+        "num": 298748,
+        "word": "地震预警",
+        "onboard_time": 1728355400,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290315,
+        "num": 290315,
+        "word": "港剧女性角色已经是nextlevel",
+        "onboard_time": 1728362721,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 272118,
+        "num": 272118,
+        "word": "怎么看待10点这场国新办发布会",
+        "onboard_time": 1728354078,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 270311,
+        "num": 270311,
+        "word": "至上励合马雪阳也结婚了",
+        "onboard_time": 1728361881,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 267025,
+        "num": 267025,
+        "word": "田柾国超级碗邀约被Hybe拒绝",
+        "onboard_time": 1728363560,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 264622,
+        "num": 264622,
+        "word": "这七天比一节45分钟的课还快",
+        "onboard_time": 1728362241,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 256370,
+        "num": 256370,
+        "word": "提高学生资助补助标准",
+        "onboard_time": 1728358161,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244859,
+        "num": 244859,
+        "word": "张晚意古偶三连播",
+        "onboard_time": 1728361821,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 244583,
+        "num": 244583,
+        "word": "橘朵 刘浩存",
+        "onboard_time": 1728364520,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 233375,
+        "num": 233375,
+        "word": "监控16小时记录哀牢山里究竟有什么",
+        "onboard_time": 1728350419,
+        "rank": 43,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 221085,
+        "num": 221085,
+        "word": "张家界治愈了韩国人的精神内耗",
+        "onboard_time": 1728361821,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207933,
+        "num": 207933,
+        "word": "鹅厂IP集体复工",
+        "onboard_time": 1728360861,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205948,
+        "num": 205948,
+        "word": "沪指3674点跌到3374点",
+        "onboard_time": 1728360260,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 203359,
+        "num": 203359,
+        "word": "沪指回调300点",
+        "onboard_time": 1728364279,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 159481,
+        "num": 191656,
+        "word": "要督查罚没收入增长异常的地方",
+        "onboard_time": 1728362662,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189526,
+        "num": 189526,
+        "word": "2024PEL秋决",
+        "onboard_time": 1728364699,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#感悟总书记的传统文化情结#"
+    }
+  }
+}
