@@ -1,7 +1,15 @@
 {
   "startTime": 1728318463808,
-  "endTime": 1728365954842,
+  "endTime": 1728369078877,
   "band_list": [
+    {
+      "raw_hot": 10015057,
+      "num": 10015057,
+      "word": "王楚钦2比3本雅明",
+      "onboard_time": 1728366802,
+      "rank": 0,
+      "category": "体育"
+    },
     {
       "raw_hot": 3580252,
       "num": 3580252,
@@ -25,6 +33,14 @@
       "onboard_time": 1728352340,
       "rank": 5,
       "category": "财经"
+    },
+    {
+      "raw_hot": 2142424,
+      "num": 2142424,
+      "word": "王楚钦对手本雅明14岁",
+      "onboard_time": 1728366500,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 2096595,
@@ -67,6 +83,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1368921,
+      "num": 337941,
+      "word": "王楚钦状态",
+      "onboard_time": 1728367282,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1349764,
       "num": 1349764,
       "word": "陈赫说黄磊做饭好吃",
@@ -97,6 +121,14 @@
       "onboard_time": 1728345920,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1138348,
+      "num": 1039119,
+      "word": "王楚钦vs本雅明",
+      "onboard_time": 1728363560,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 1069679,
@@ -235,6 +267,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 677007,
+      "num": 677007,
+      "word": "无缝球",
+      "onboard_time": 1728365420,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 672854,
       "num": 316918,
       "word": "上海套内32平米的家",
@@ -249,6 +289,14 @@
       "onboard_time": 1728352401,
       "rank": 8,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 659884,
+      "num": 659884,
+      "word": "国乒男团vs伊朗",
+      "onboard_time": 1728363261,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 655837,
@@ -275,6 +323,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 612952,
+      "num": 334842,
+      "word": "汪建民去世",
+      "onboard_time": 1728368421,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 592981,
       "num": 566020,
       "word": "恋综史上无法超越的一幕",
@@ -284,7 +340,7 @@
     },
     {
       "raw_hot": 583762,
-      "num": 460112,
+      "num": 487481,
       "word": "橘朵 刘浩存",
       "onboard_time": 1728364520,
       "rank": 42,
@@ -363,12 +419,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 452090,
+      "num": 328781,
+      "word": "东北雨姐删除了道歉视频",
+      "onboard_time": 1728367520,
+      "rank": 15,
+      "category": "网红"
+    },
+    {
       "raw_hot": 443688,
       "num": 196242,
       "word": "余华英拐走12个家庭的17个孩子",
       "onboard_time": 1728320177,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 442711,
+      "num": 328705,
+      "word": "林诗栋vs阿拉米扬",
+      "onboard_time": 1728368901,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 431485,
@@ -507,6 +579,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 338485,
+      "num": 338485,
+      "word": "亚锦赛直播",
+      "onboard_time": 1728366623,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 337738,
       "num": 337738,
       "word": "李敏镐郭碧婷合作过",
@@ -539,6 +619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 324797,
+      "num": 324797,
+      "word": "家中智能锁凌晨3点自动开门",
+      "onboard_time": 1728365301,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 321536,
       "num": 405452,
       "word": "权志龙10月25日回归",
@@ -563,28 +651,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 308301,
-      "num": 461924,
-      "word": "国乒男团vs伊朗",
-      "onboard_time": 1728363261,
-      "rank": 8,
-      "category": "体育"
-    },
-    {
       "raw_hot": 308083,
       "num": 317546,
       "word": "黄晓明官宣2024美好奇妙夜",
       "onboard_time": 1728364101,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 307424,
-      "num": 462092,
-      "word": "王楚钦vs本雅明",
-      "onboard_time": 1728363560,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 305283,
@@ -601,6 +673,14 @@
       "onboard_time": 1728360922,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 294868,
+      "num": 232879,
+      "word": "A股 过山车",
+      "onboard_time": 1728361761,
+      "rank": 46,
+      "category": "财经"
     },
     {
       "raw_hot": 293286,
@@ -667,7 +747,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 270311,
+      "raw_hot": 276363,
       "num": 505991,
       "word": "至上励合马雪阳也结婚了",
       "onboard_time": 1728361881,
@@ -689,6 +769,14 @@
       "onboard_time": 1728362241,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 255522,
+      "num": 227070,
+      "word": "国乒男队vs伊朗阵容",
+      "onboard_time": 1728365060,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 254405,
@@ -729,6 +817,14 @@
       "onboard_time": 1728363321,
       "rank": 13,
       "category": "财经"
+    },
+    {
+      "raw_hot": 238621,
+      "num": 238621,
+      "word": "于正 欢娱影视多了一名花旦",
+      "onboard_time": 1728368782,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 237310,
@@ -779,20 +875,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 228553,
-      "num": 228553,
-      "word": "家中智能锁凌晨3点自动开门",
-      "onboard_time": 1728365301,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 217671,
       "num": 143811,
       "word": "周深 往事流zuan在li眼眸",
       "onboard_time": 1728320836,
       "rank": 19,
       "category": "演出"
+    },
+    {
+      "raw_hot": 215403,
+      "num": 215403,
+      "word": "韩安冉回应宋浩然过度劳累入院",
+      "onboard_time": 1728368121,
+      "rank": 34,
+      "category": "网红"
     },
     {
       "raw_hot": 210703,
@@ -899,28 +995,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 195097,
-      "num": 195097,
-      "word": "无缝球",
-      "onboard_time": 1728365420,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 193684,
-      "num": 193684,
-      "word": "A股 过山车",
-      "onboard_time": 1728361761,
-      "rank": 46,
-      "category": "财经"
-    },
-    {
       "raw_hot": 193419,
       "num": 193419,
       "word": "半导体",
       "onboard_time": 1728356358,
       "rank": 42,
       "category": "财经"
+    },
+    {
+      "raw_hot": 192661,
+      "num": 192661,
+      "word": "心动的信号7五对双箭头",
+      "onboard_time": 1728366200,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 191174,
@@ -947,6 +1035,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 186292,
+      "num": 332544,
+      "word": "外交部和驻巴基斯坦使领馆发出提醒",
+      "onboard_time": 1728368240,
+      "rank": 13,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 186193,
       "num": 186193,
       "word": "00后积极入市现象不容忽视",
@@ -955,12 +1051,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 186141,
+      "num": 186141,
+      "word": "国乒男团0比1伊朗",
+      "onboard_time": 1728368901,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 184704,
       "num": 184704,
       "word": "女子转卖父母处方药被判贩毒罪",
       "onboard_time": 1728352520,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 184354,
+      "num": 184354,
+      "word": "王楚钦主动指出擦网重发",
+      "onboard_time": 1728368960,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 183404,
@@ -1003,12 +1115,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 179526,
+      "num": 179526,
+      "word": "赵丽颖短发公主切",
+      "onboard_time": 1728366079,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 177699,
       "num": 177699,
       "word": "成龙已经70岁了",
       "onboard_time": 1728307882,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 175388,
+      "num": 237870,
+      "word": "驻巴基斯坦使领馆再发提醒",
+      "onboard_time": 1728367702,
+      "rank": 29,
+      "category": "国外时政"
     },
     {
       "raw_hot": 175303,
@@ -1035,6 +1163,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 172141,
+      "num": 172141,
+      "word": "节后短时间内不宜超负荷工作",
+      "onboard_time": 1728366500,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 170580,
       "num": 170580,
       "word": "金融管理部门已进行窗口指导",
@@ -1051,12 +1187,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 168571,
+      "num": 168571,
+      "word": "伊朗男团 擦网",
+      "onboard_time": 1728369022,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 166897,
       "num": 839353,
       "word": "苹果或将放弃一年一更新模式",
       "onboard_time": 1728290903,
       "rank": 1,
       "category": "数码"
+    },
+    {
+      "raw_hot": 166543,
+      "num": 166543,
+      "word": "亚锦赛转播画质",
+      "onboard_time": 1728366742,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 164546,
@@ -1137,6 +1289,14 @@
       "onboard_time": 1728352161,
       "rank": 9,
       "category": "财经"
+    },
+    {
+      "raw_hot": 154762,
+      "num": 154762,
+      "word": "张杰抢票",
+      "onboard_time": 1728368661,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 153431,
@@ -1443,6 +1603,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 93835,
+      "num": 460825,
+      "word": "vivo冲击连续四年国产销量第一",
+      "onboard_time": 1728363800,
+      "rank": 16,
+      "category": "数码"
+    },
+    {
       "raw_hot": 93462,
       "num": 660276,
       "word": "中国航天68岁生日快乐",
@@ -1492,7 +1660,7 @@
     },
     {
       "raw_hot": 82642,
-      "num": 725840,
+      "num": 1288302,
       "word": "古人笔下的浪漫秋意",
       "onboard_time": 1728362721,
       "rank": 2,
@@ -1561,14 +1729,6 @@
       "onboard_time": 1728351679,
       "rank": 49,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 71897,
-      "num": 460825,
-      "word": "vivo冲击连续四年国产销量第一",
-      "onboard_time": 1728363800,
-      "rank": 16,
-      "category": "数码"
     },
     {
       "raw_hot": 70034,
@@ -1707,6 +1867,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 48987,
+      "num": 461169,
+      "word": "倪妮哭戏的感染力",
+      "onboard_time": 1728363861,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
       "raw_hot": 45159,
       "num": 303974,
       "word": "男子住民宿凌晨2点遭陌生人闯门",
@@ -1720,14 +1888,6 @@
       "word": "李红樱你俩这什么死动静",
       "onboard_time": 1728319816,
       "rank": 43,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 43963,
-      "num": 461169,
-      "word": "倪妮哭戏的感染力",
-      "onboard_time": 1728363861,
-      "rank": 22,
       "category": "电影"
     },
     {
@@ -1832,6 +1992,14 @@
       "word": "未来10天全国大部气温偏高",
       "onboard_time": 1728324973,
       "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 26986,
+      "num": 331740,
+      "word": "广州多家房企超前完成10月销售目标",
+      "onboard_time": 1728367400,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
