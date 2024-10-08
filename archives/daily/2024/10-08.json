@@ -1,6 +1,6 @@
 {
   "startTime": 1728318463808,
-  "endTime": 1728376998938,
+  "endTime": 1728379430625,
   "band_list": [
     {
       "raw_hot": 10133581,
@@ -107,6 +107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1350459,
+      "num": 1350459,
+      "word": "王楚钦回应失利本雅明",
+      "onboard_time": 1728378020,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1349764,
       "num": 1349764,
       "word": "陈赫说黄磊做饭好吃",
@@ -137,6 +145,14 @@
       "onboard_time": 1728368421,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1189399,
+      "num": 908452,
+      "word": "赛螃蟹",
+      "onboard_time": 1728374181,
+      "rank": 3,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1160288,
@@ -219,20 +235,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 998421,
+      "num": 443759,
+      "word": "A股遭遇背刺",
+      "onboard_time": 1728373222,
+      "rank": 11,
+      "category": "财经"
+    },
+    {
       "raw_hot": 988385,
       "num": 988385,
       "word": "揭秘擅闯哀牢山博主背后公司",
       "onboard_time": 1728360681,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 980745,
-      "num": 908452,
-      "word": "赛螃蟹",
-      "onboard_time": 1728374181,
-      "rank": 3,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 977734,
@@ -283,6 +299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 820173,
+      "num": 443434,
+      "word": "来福士",
+      "onboard_time": 1728375561,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 817992,
       "num": 817992,
       "word": "国新办新闻发布会",
@@ -291,12 +315,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 799722,
+      "num": 400446,
+      "word": "同时拥有迈巴赫和自卑",
+      "onboard_time": 1728376399,
+      "rank": 33,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 792410,
       "num": 439044,
       "word": "监控16小时记录哀牢山里究竟有什么",
       "onboard_time": 1728350419,
       "rank": 17,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 732470,
+      "num": 440244,
+      "word": "以色列一日内遭三方导弹袭击",
+      "onboard_time": 1728372982,
+      "rank": 12,
+      "category": "国外时政"
     },
     {
       "raw_hot": 724282,
@@ -379,6 +419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 647149,
+      "num": 647149,
+      "word": "王楚钦3比1阿拉米扬",
+      "onboard_time": 1728373701,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 623244,
       "num": 661149,
       "word": "张婧仪Burberry品牌大使",
@@ -395,36 +443,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 617343,
-      "num": 617343,
-      "word": "王楚钦3比1阿拉米扬",
-      "onboard_time": 1728373701,
-      "rank": 6,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 611309,
-      "num": 443759,
-      "word": "A股遭遇背刺",
-      "onboard_time": 1728373222,
-      "rank": 11,
-      "category": "财经"
-    },
-    {
       "raw_hot": 592981,
       "num": 566020,
       "word": "恋综史上无法超越的一幕",
       "onboard_time": 1728308962,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 587283,
-      "num": 443434,
-      "word": "来福士",
-      "onboard_time": 1728375561,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 583762,
@@ -467,20 +491,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 524655,
+      "num": 310032,
+      "word": "余额宝资金转出提示股票火爆",
+      "onboard_time": 1728375079,
+      "rank": 23,
+      "category": "财经"
+    },
+    {
       "raw_hot": 520772,
       "num": 505721,
       "word": "Jennie逆应援",
       "onboard_time": 1728362960,
       "rank": 6,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 518064,
-      "num": 310032,
-      "word": "余额宝资金转出提示股票火爆",
-      "onboard_time": 1728375079,
-      "rank": 23,
-      "category": "财经"
     },
     {
       "raw_hot": 507017,
@@ -523,12 +547,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 479236,
-      "num": 440244,
-      "word": "以色列一日内遭三方导弹袭击",
-      "onboard_time": 1728372982,
-      "rank": 12,
-      "category": "国外时政"
+      "raw_hot": 479570,
+      "num": 479570,
+      "word": "这可是你们杭州的女婿",
+      "onboard_time": 1728372921,
+      "rank": 45,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 478786,
+      "num": 478786,
+      "word": "东北雨姐拍摄基地人去房空",
+      "onboard_time": 1728372021,
+      "rank": 33,
+      "category": "网红"
     },
     {
       "raw_hot": 477524,
@@ -553,6 +585,14 @@
       "onboard_time": 1728367520,
       "rank": 15,
       "category": "网红"
+    },
+    {
+      "raw_hot": 452683,
+      "num": 452683,
+      "word": "小女孩景区走失抱紧武警大腿求救",
+      "onboard_time": 1728375680,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 443688,
@@ -603,14 +643,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 408231,
-      "num": 408231,
-      "word": "东北雨姐拍摄基地人去房空",
-      "onboard_time": 1728372021,
-      "rank": 33,
-      "category": "网红"
-    },
-    {
       "raw_hot": 400289,
       "num": 616381,
       "word": "纪委回应女子举报被中学纪委书记强暴",
@@ -641,6 +673,14 @@
       "onboard_time": 1728319276,
       "rank": 38,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 382821,
+      "num": 452920,
+      "word": "国庆假期国内出游7.65亿人次",
+      "onboard_time": 1728372560,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 382673,
@@ -691,6 +731,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 360159,
+      "num": 282933,
+      "word": "孙乐言 恋爱脑",
+      "onboard_time": 1728378440,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 359973,
       "num": 304236,
       "word": "男子捉奸收补偿被控敲诈案改判无罪",
@@ -737,14 +785,6 @@
       "onboard_time": 1728305303,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 352993,
-      "num": 352993,
-      "word": "这可是你们杭州的女婿",
-      "onboard_time": 1728372921,
-      "rank": 45,
-      "category": "动漫"
     },
     {
       "raw_hot": 351871,
@@ -859,14 +899,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 296909,
-      "num": 452920,
-      "word": "国庆假期国内出游7.65亿人次",
-      "onboard_time": 1728372560,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 296593,
       "num": 296593,
       "word": "崩坏星穹铁道",
@@ -939,6 +971,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 280041,
+      "num": 280041,
+      "word": "感谢碧昂斯",
+      "onboard_time": 1728377541,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 279725,
       "num": 279725,
       "word": "加沙死者三分之一是儿童",
@@ -963,11 +1003,35 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 275436,
+      "num": 275436,
+      "word": "被举报涉强奸中学纪委书记已被抓",
+      "onboard_time": 1728377780,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 273603,
       "num": 273603,
       "word": "国乒男队vs伊朗阵容",
       "onboard_time": 1728365060,
       "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 271242,
+      "num": 271242,
+      "word": "刚工作的00后准备了3万块炒股",
+      "onboard_time": 1728378319,
+      "rank": 27,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 267614,
+      "num": 267614,
+      "word": "王楚钦赛后复盘",
+      "onboard_time": 1728377541,
+      "rank": 28,
       "category": "体育"
     },
     {
@@ -1099,6 +1163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 218880,
+      "num": 218880,
+      "word": "申裕斌2比3穆克吉",
+      "onboard_time": 1728378199,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 217671,
       "num": 143811,
       "word": "周深 往事流zuan在li眼眸",
@@ -1107,28 +1179,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 215515,
-      "num": 215515,
-      "word": "小女孩景区走失抱紧武警大腿求救",
-      "onboard_time": 1728375680,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 215403,
       "num": 215403,
       "word": "韩安冉回应宋浩然过度劳累入院",
       "onboard_time": 1728368121,
       "rank": 34,
       "category": "网红"
-    },
-    {
-      "raw_hot": 212438,
-      "num": 212438,
-      "word": "同时拥有迈巴赫和自卑",
-      "onboard_time": 1728376399,
-      "rank": 33,
-      "category": "汽车"
     },
     {
       "raw_hot": 210703,
@@ -1523,6 +1579,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 165903,
+      "num": 165903,
+      "word": "颜料师未进入哀牢山核心区",
+      "onboard_time": 1728378979,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 164546,
       "num": 164546,
       "word": "于适穿越北疆",
@@ -1545,6 +1609,14 @@
       "onboard_time": 1728352278,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 162236,
+      "num": 162236,
+      "word": "王楚钦说输球原因在于自己",
+      "onboard_time": 1728378319,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 161866,
@@ -1593,6 +1665,14 @@
       "onboard_time": 1728353720,
       "rank": 47,
       "category": "财经"
+    },
+    {
+      "raw_hot": 158561,
+      "num": 158561,
+      "word": "日本男团止步亚锦赛八强",
+      "onboard_time": 1728378801,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 158273,
@@ -1644,7 +1724,7 @@
     },
     {
       "raw_hot": 153431,
-      "num": 783705,
+      "num": 866087,
       "word": "文化中国行看寒露节气",
       "onboard_time": 1728344657,
       "rank": 38,
@@ -1665,6 +1745,14 @@
       "onboard_time": 1728302603,
       "rank": 43,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 150684,
+      "num": 150684,
+      "word": "河南文旅赢麻了",
+      "onboard_time": 1728378199,
+      "rank": 45,
+      "category": "旅游"
     },
     {
       "raw_hot": 150350,
@@ -1747,6 +1835,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 137597,
+      "num": 420333,
+      "word": "红色极光北斗七星同框浪漫加倍",
+      "onboard_time": 1728378379,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 135834,
       "num": 135834,
       "word": "小车占应急车道拒让救护车被罚",
@@ -1771,12 +1867,28 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 132501,
+      "num": 132501,
+      "word": "看完749开始怀疑自己的宠物",
+      "onboard_time": 1728379039,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
       "raw_hot": 132421,
       "num": 132421,
       "word": "王楚钦张本智和同处上半区",
       "onboard_time": 1728311123,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 130722,
+      "num": 130722,
+      "word": "芒果新剧片单",
+      "onboard_time": 1728378739,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 130531,
@@ -1800,6 +1912,22 @@
       "word": "全国铁路单日运力投放创历史新高",
       "onboard_time": 1728344898,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 127696,
+      "num": 127696,
+      "word": "迈巴赫漏水",
+      "onboard_time": 1728377121,
+      "rank": 49,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 125519,
+      "num": 162978,
+      "word": "江苏省公布2024年度社会保险缴费基数",
+      "onboard_time": 1728377719,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -2115,6 +2243,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 73387,
+      "num": 195521,
+      "word": "杨紫展示Chinesegongfu",
+      "onboard_time": 1728378079,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 72432,
       "num": 391326,
       "word": "月黑风高最好的下手时机",
@@ -2252,11 +2388,19 @@
     },
     {
       "raw_hot": 52810,
-      "num": 280345,
+      "num": 291572,
       "word": "vivo为何领跑国产手机销量市场",
       "onboard_time": 1728375381,
       "rank": 34,
       "category": "数码"
+    },
+    {
+      "raw_hot": 51303,
+      "num": 398148,
+      "word": "四川警方通报女子称被强奸未遂",
+      "onboard_time": 1728379220,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 50043,
