@@ -1,6 +1,6 @@
 {
   "startTime": 1728318463808,
-  "endTime": 1728359023661,
+  "endTime": 1728361600273,
   "band_list": [
     {
       "raw_hot": 3580252,
@@ -41,6 +41,22 @@
       "onboard_time": 1728355820,
       "rank": 34,
       "category": "财经"
+    },
+    {
+      "raw_hot": 1522405,
+      "num": 495062,
+      "word": "高开低走",
+      "onboard_time": 1728356239,
+      "rank": 38,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 1453629,
+      "num": 647312,
+      "word": "卢昱晓工作室声明",
+      "onboard_time": 1728359360,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 1398043,
@@ -113,6 +129,14 @@
       "onboard_time": 1728355400,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 922563,
+      "num": 486679,
+      "word": "花100万买到300平的老破大",
+      "onboard_time": 1728359179,
+      "rank": 11,
+      "category": "情感"
     },
     {
       "raw_hot": 900041,
@@ -195,6 +219,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 655837,
+      "num": 655837,
+      "word": "提高学生资助补助标准",
+      "onboard_time": 1728358161,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 623244,
       "num": 661149,
       "word": "张婧仪Burberry品牌大使",
@@ -243,6 +275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 506000,
+      "num": 506000,
+      "word": "王俊凯黄晓明无效沟通",
+      "onboard_time": 1728360981,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 492809,
       "num": 492809,
       "word": "节后上班",
@@ -275,14 +315,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 472642,
-      "num": 394473,
-      "word": "高开低走",
-      "onboard_time": 1728356239,
-      "rank": 38,
-      "category": "财经"
-    },
-    {
       "raw_hot": 465583,
       "num": 465583,
       "word": "许嵩 分手了没关系还有我",
@@ -305,6 +337,22 @@
       "onboard_time": 1728354078,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 423066,
+      "num": 319103,
+      "word": "揭秘擅闯哀牢山博主背后公司",
+      "onboard_time": 1728360681,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 419736,
+      "num": 292601,
+      "word": "沪指3674点跌到3374点",
+      "onboard_time": 1728360260,
+      "rank": 30,
+      "category": "财经"
     },
     {
       "raw_hot": 418965,
@@ -345,6 +393,14 @@
       "onboard_time": 1728309804,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 372546,
+      "num": 301426,
+      "word": "鹅厂IP集体复工",
+      "onboard_time": 1728360861,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 368390,
@@ -403,6 +459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 351571,
+      "num": 351571,
+      "word": "大冰 西梅",
+      "onboard_time": 1728360081,
+      "rank": 17,
+      "category": "网红"
+    },
+    {
       "raw_hot": 344310,
       "num": 765771,
       "word": "国庆档新片票房TOP3",
@@ -459,12 +523,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 291247,
+      "num": 291247,
+      "word": "恋与深空",
+      "onboard_time": 1728360681,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 285683,
       "num": 285683,
       "word": "仅20分钟A股成交额突破1万亿",
       "onboard_time": 1728353539,
       "rank": 27,
       "category": "财经"
+    },
+    {
+      "raw_hot": 284823,
+      "num": 284823,
+      "word": "崩坏星穹铁道 星期日",
+      "onboard_time": 1728359300,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 279725,
@@ -481,6 +561,22 @@
       "onboard_time": 1728349940,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 254405,
+      "num": 254405,
+      "word": "国庆假期9个值得珍藏的记忆",
+      "onboard_time": 1728359539,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 253062,
+      "num": 253062,
+      "word": "崩坏星穹铁道",
+      "onboard_time": 1728360922,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 249578,
@@ -555,6 +651,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 206259,
+      "num": 206259,
+      "word": "我给十几年前看过的小说写歌了",
+      "onboard_time": 1728359000,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 203812,
       "num": 471239,
       "word": "于适游玩阿勒泰vlog",
@@ -571,20 +675,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 200793,
-      "num": 464972,
-      "word": "提高学生资助补助标准",
-      "onboard_time": 1728358161,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 200764,
       "num": 200764,
       "word": "一觉醒来寒露来了",
       "onboard_time": 1728349220,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 198972,
+      "num": 198972,
+      "word": "港股大幅跳水",
+      "onboard_time": 1728359061,
+      "rank": 45,
+      "category": "财经"
     },
     {
       "raw_hot": 198040,
@@ -675,6 +779,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 180463,
+      "num": 180463,
+      "word": "券商称潜在交易资金是个天文数字",
+      "onboard_time": 1728360562,
+      "rank": 48,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 178968,
+      "num": 178968,
+      "word": "尚雯婕还原18年前霹雳舞",
+      "onboard_time": 1728361402,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 177699,
       "num": 177699,
       "word": "成龙已经70岁了",
@@ -763,6 +883,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 159046,
+      "num": 501874,
+      "word": "不能乱罚款乱检查乱查封",
+      "onboard_time": 1728360201,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 158855,
       "num": 158855,
       "word": "同花顺崩了",
@@ -803,12 +931,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 154336,
+      "num": 324999,
+      "word": "艰难上岸后的辅导员每天都想辞职",
+      "onboard_time": 1728360320,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 153431,
       "num": 153431,
       "word": "文化中国行看寒露节气",
       "onboard_time": 1728344657,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 152000,
+      "num": 470848,
+      "word": "网友晒图开盘盈利2791收盘亏418",
+      "onboard_time": 1728359179,
+      "rank": 13,
+      "category": "财经"
     },
     {
       "raw_hot": 150778,
@@ -857,14 +1001,6 @@
       "onboard_time": 1728356960,
       "rank": 47,
       "category": "财经"
-    },
-    {
-      "raw_hot": 144817,
-      "num": 144817,
-      "word": "我给十几年前看过的小说写歌了",
-      "onboard_time": 1728359000,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 144799,
@@ -1147,6 +1283,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 83510,
+      "num": 269443,
+      "word": "李敏镐郭碧婷合作过",
+      "onboard_time": 1728360260,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 81434,
       "num": 85722,
       "word": "妈妈带着白化病女儿参加漫展",
@@ -1313,6 +1457,14 @@
       "onboard_time": 1728309862,
       "rank": 8,
       "category": "电影"
+    },
+    {
+      "raw_hot": 55827,
+      "num": 462976,
+      "word": "工地搬砖小伙花6年拿到世界冠军",
+      "onboard_time": 1728360201,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 53761,

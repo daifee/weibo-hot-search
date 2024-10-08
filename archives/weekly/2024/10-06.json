@@ -1,6 +1,6 @@
 {
   "startTime": 1728145573126,
-  "endTime": 1728359023661,
+  "endTime": 1728361600273,
   "band_list": [
     {
       "raw_hot": 8274483,
@@ -201,6 +201,22 @@
       "onboard_time": 1728219383,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1522405,
+      "num": 495062,
+      "word": "高开低走",
+      "onboard_time": 1728356239,
+      "rank": 38,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 1453629,
+      "num": 647312,
+      "word": "卢昱晓工作室声明",
+      "onboard_time": 1728359360,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 1444060,
@@ -529,6 +545,14 @@
       "onboard_time": 1728223699,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 922563,
+      "num": 486679,
+      "word": "花100万买到300平的老破大",
+      "onboard_time": 1728359179,
+      "rank": 11,
+      "category": "情感"
     },
     {
       "raw_hot": 919183,
@@ -899,6 +923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 655837,
+      "num": 655837,
+      "word": "提高学生资助补助标准",
+      "onboard_time": 1728358161,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 652956,
       "num": 263160,
       "word": "檀健次坐飞机迟到被点名",
@@ -1123,6 +1155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 506000,
+      "num": 506000,
+      "word": "王俊凯黄晓明无效沟通",
+      "onboard_time": 1728360981,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 503211,
       "num": 275276,
       "word": "以军48小时轰炸多处房屋学校安置中心",
@@ -1225,14 +1265,6 @@
       "onboard_time": 1728302603,
       "rank": 3,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 472642,
-      "num": 394473,
-      "word": "高开低走",
-      "onboard_time": 1728356239,
-      "rank": 38,
-      "category": "财经"
     },
     {
       "raw_hot": 470324,
@@ -1371,6 +1403,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 423066,
+      "num": 319103,
+      "word": "揭秘擅闯哀牢山博主背后公司",
+      "onboard_time": 1728360681,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 422515,
       "num": 279070,
       "word": "哀牢山640米要走3小时以上",
@@ -1393,6 +1433,14 @@
       "onboard_time": 1728218180,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 419736,
+      "num": 292601,
+      "word": "沪指3674点跌到3374点",
+      "onboard_time": 1728360260,
+      "rank": 30,
+      "category": "财经"
     },
     {
       "raw_hot": 418965,
@@ -1611,6 +1659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 372546,
+      "num": 301426,
+      "word": "鹅厂IP集体复工",
+      "onboard_time": 1728360861,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 371542,
       "num": 371542,
       "word": "马龙4比0梁靖崑",
@@ -1777,6 +1833,14 @@
       "onboard_time": 1728204319,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 351571,
+      "num": 351571,
+      "word": "大冰 西梅",
+      "onboard_time": 1728360081,
+      "rank": 17,
+      "category": "网红"
     },
     {
       "raw_hot": 345483,
@@ -2107,6 +2171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 291247,
+      "num": 291247,
+      "word": "恋与深空",
+      "onboard_time": 1728198798,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 291039,
       "num": 251026,
       "word": "林诗栋坐王楚钦行李箱上看比赛",
@@ -2153,6 +2225,14 @@
       "onboard_time": 1728264258,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 284823,
+      "num": 284823,
+      "word": "崩坏星穹铁道 星期日",
+      "onboard_time": 1728359300,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 284681,
@@ -2379,12 +2459,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 254405,
+      "num": 254405,
+      "word": "国庆假期9个值得珍藏的记忆",
+      "onboard_time": 1728359539,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 253289,
       "num": 253289,
       "word": "马龙说自己实力不如梁靖崑",
       "onboard_time": 1728134299,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 253062,
+      "num": 253062,
+      "word": "崩坏星穹铁道",
+      "onboard_time": 1728360922,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 250936,
@@ -2923,6 +3019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 206259,
+      "num": 206259,
+      "word": "我给十几年前看过的小说写歌了",
+      "onboard_time": 1728359000,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 206202,
       "num": 206202,
       "word": "谁懂曾舜晞抬头这一下",
@@ -3043,14 +3147,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 200793,
-      "num": 464972,
-      "word": "提高学生资助补助标准",
-      "onboard_time": 1728358161,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 200764,
       "num": 200764,
       "word": "一觉醒来寒露来了",
@@ -3065,6 +3161,14 @@
       "onboard_time": 1728214161,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 198972,
+      "num": 198972,
+      "word": "港股大幅跳水",
+      "onboard_time": 1728359061,
+      "rank": 45,
+      "category": "财经"
     },
     {
       "raw_hot": 198849,
@@ -3467,6 +3571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 180463,
+      "num": 180463,
+      "word": "券商称潜在交易资金是个天文数字",
+      "onboard_time": 1728360562,
+      "rank": 48,
+      "category": "财经"
+    },
+    {
       "raw_hot": 180401,
       "num": 161368,
       "word": "苏新皓E人的极限在哪里",
@@ -3489,6 +3601,14 @@
       "onboard_time": 1728210438,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 178968,
+      "num": 178968,
+      "word": "尚雯婕还原18年前霹雳舞",
+      "onboard_time": 1728361402,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 177763,
@@ -3883,6 +4003,14 @@
       "category": "社会新闻,游戏"
     },
     {
+      "raw_hot": 159046,
+      "num": 501874,
+      "word": "不能乱罚款乱检查乱查封",
+      "onboard_time": 1728360201,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 158855,
       "num": 158855,
       "word": "同花顺崩了",
@@ -4027,6 +4155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 154336,
+      "num": 324999,
+      "word": "艰难上岸后的辅导员每天都想辞职",
+      "onboard_time": 1728360320,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 153836,
       "num": 144216,
       "word": "伊朗民众不担心爆发战争",
@@ -4121,6 +4257,14 @@
       "onboard_time": 1728225201,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 152000,
+      "num": 470848,
+      "word": "网友晒图开盘盈利2791收盘亏418",
+      "onboard_time": 1728359179,
+      "rank": 13,
+      "category": "财经"
     },
     {
       "raw_hot": 151548,
@@ -4371,14 +4515,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 144817,
-      "num": 144817,
-      "word": "我给十几年前看过的小说写歌了",
-      "onboard_time": 1728359000,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 144799,
       "num": 144799,
       "word": "s14抽签",
@@ -4505,14 +4641,6 @@
       "onboard_time": 1728182657,
       "rank": 38,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 140395,
-      "num": 140395,
-      "word": "恋与深空",
-      "onboard_time": 1728198798,
-      "rank": 35,
-      "category": "游戏"
     },
     {
       "raw_hot": 140289,
@@ -6011,6 +6139,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 83510,
+      "num": 269443,
+      "word": "李敏镐郭碧婷合作过",
+      "onboard_time": 1728360260,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 83040,
       "num": 83040,
       "word": "互呛后马克龙与内塔尼亚胡通话",
@@ -6424,6 +6560,14 @@
       "word": "南昌滕王阁保安小哥花式整活",
       "onboard_time": 1728240133,
       "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 55827,
+      "num": 462976,
+      "word": "工地搬砖小伙花6年拿到世界冠军",
+      "onboard_time": 1728360201,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
