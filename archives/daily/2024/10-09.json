@@ -1,6 +1,6 @@
 {
   "startTime": 1728404919019,
-  "endTime": 1728426095935,
+  "endTime": 1728427163226,
   "band_list": [
     {
       "raw_hot": 2648229,
@@ -131,6 +131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 303021,
+      "num": 110178,
+      "word": "调查东北雨姐监管部门应及时出手",
+      "onboard_time": 1728407594,
+      "rank": 25,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 281073,
       "num": 281073,
       "word": "对王楚钦别捧杀也别棒杀",
@@ -171,12 +179,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 213729,
-      "num": 106598,
-      "word": "调查东北雨姐监管部门应及时出手",
-      "onboard_time": 1728407594,
-      "rank": 25,
-      "category": "社会新闻,网红"
+      "raw_hot": 208115,
+      "num": 111538,
+      "word": "父子殴打一家3口后开车撞人",
+      "onboard_time": 1728393441,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 205342,
@@ -193,6 +201,14 @@
       "onboard_time": 1728388040,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 183156,
+      "num": 110962,
+      "word": "哀牢山最危险的不是猛兽",
+      "onboard_time": 1728388281,
+      "rank": 39,
+      "category": "旅游"
     },
     {
       "raw_hot": 180619,
@@ -251,11 +267,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 149017,
-      "num": 111538,
-      "word": "父子殴打一家3口后开车撞人",
-      "onboard_time": 1728393441,
-      "rank": 37,
+      "raw_hot": 145953,
+      "num": 145953,
+      "word": "网恋12年英国男友竟是闺蜜假扮",
+      "onboard_time": 1728395362,
+      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -265,14 +281,6 @@
       "onboard_time": 1728400401,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 130923,
-      "num": 110962,
-      "word": "哀牢山最危险的不是猛兽",
-      "onboard_time": 1728388281,
-      "rank": 39,
-      "category": "旅游"
     },
     {
       "raw_hot": 128657,
@@ -289,14 +297,6 @@
       "onboard_time": 1728405318,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 125105,
-      "num": 125105,
-      "word": "网恋12年英国男友竟是闺蜜假扮",
-      "onboard_time": 1728395362,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 124603,
@@ -371,6 +371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 96276,
+      "num": 96276,
+      "word": "美发言人称哈马斯或应出钱重建加沙",
+      "onboard_time": 1728413832,
+      "rank": 9,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 95342,
       "num": 95342,
       "word": "金珉奎wvs更新",
@@ -443,19 +451,19 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 77890,
-      "num": 77890,
-      "word": "美发言人称哈马斯或应出钱重建加沙",
-      "onboard_time": 1728413832,
-      "rank": 9,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 73947,
       "num": 73947,
       "word": "下次不准再P了",
       "onboard_time": 1728383422,
       "rank": 47,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 73835,
+      "num": 73835,
+      "word": "秦昊 付辛博很多年前是厉害的组合",
+      "onboard_time": 1728414551,
+      "rank": 39,
       "category": "综艺"
     },
     {
@@ -483,12 +491,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 50343,
-      "num": 50343,
-      "word": "秦昊 付辛博很多年前是厉害的组合",
-      "onboard_time": 1728414551,
-      "rank": 39,
-      "category": "综艺"
+      "raw_hot": 46092,
+      "num": 75018,
+      "word": "文旅局称游客活动范围要在规定之内",
+      "onboard_time": 1728424752,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 45255,
@@ -547,6 +555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 32981,
+      "num": 32981,
+      "word": "伊朗外长将访问沙特",
+      "onboard_time": 1728421632,
+      "rank": 41,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 32641,
       "num": 32641,
       "word": "邓佳鑫乡村plog",
@@ -563,11 +579,11 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 30019,
-      "num": 30019,
-      "word": "伊朗外长将访问沙特",
-      "onboard_time": 1728421632,
-      "rank": 41,
+      "raw_hot": 30580,
+      "num": 34387,
+      "word": "日本前首相菅直人宣布退出政坛",
+      "onboard_time": 1728417910,
+      "rank": 9,
       "category": "国外时政"
     },
     {
@@ -595,14 +611,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 25610,
-      "num": 34387,
-      "word": "日本前首相菅直人宣布退出政坛",
-      "onboard_time": 1728417910,
-      "rank": 9,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 22914,
       "num": 31414,
       "word": "官方回应双层列车为节假日限定",
@@ -617,14 +625,6 @@
       "onboard_time": 1728416051,
       "rank": 29,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 16573,
-      "num": 75018,
-      "word": "文旅局称游客活动范围要在规定之内",
-      "onboard_time": 1728424752,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 14492,
@@ -651,8 +651,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 13515,
+      "num": 111061,
+      "word": "定都阁被明月钩起来了",
+      "onboard_time": 1728426673,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 12450,
-      "num": 248362,
+      "num": 347992,
       "word": "这是航天员拍摄的锦绣山河",
       "onboard_time": 1728401000,
       "rank": 2,
