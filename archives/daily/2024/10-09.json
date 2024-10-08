@@ -1,6 +1,6 @@
 {
   "startTime": 1728404919019,
-  "endTime": 1728429766278,
+  "endTime": 1728430594649,
   "band_list": [
     {
       "raw_hot": 2648229,
@@ -59,6 +59,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 689195,
+      "num": 180217,
+      "word": "调查东北雨姐监管部门应及时出手",
+      "onboard_time": 1728407594,
+      "rank": 25,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 688932,
       "num": 287105,
       "word": "山取颜料师被要求返还矿石",
@@ -67,15 +75,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 631948,
-      "num": 180217,
-      "word": "调查东北雨姐监管部门应及时出手",
-      "onboard_time": 1728407594,
-      "rank": 25,
-      "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 498538,
+      "raw_hot": 574078,
       "num": 231842,
       "word": "男子称花2个月工资追女生反被拉黑",
       "onboard_time": 1728400880,
@@ -83,12 +83,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 455608,
-      "num": 455608,
+      "raw_hot": 515589,
+      "num": 515589,
       "word": "张家界回应被指拆成20个景区收费",
       "onboard_time": 1728395298,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 458778,
+      "num": 192348,
+      "word": "哀牢山最危险的不是猛兽",
+      "onboard_time": 1728388281,
+      "rank": 39,
+      "category": "旅游"
     },
     {
       "raw_hot": 441730,
@@ -97,14 +105,6 @@
       "onboard_time": 1728395181,
       "rank": 14,
       "category": "网红"
-    },
-    {
-      "raw_hot": 441336,
-      "num": 173382,
-      "word": "哀牢山最危险的不是猛兽",
-      "onboard_time": 1728388281,
-      "rank": 39,
-      "category": "旅游"
     },
     {
       "raw_hot": 440342,
@@ -116,7 +116,7 @@
     },
     {
       "raw_hot": 421398,
-      "num": 155314,
+      "num": 160138,
       "word": "父子殴打一家3口后开车撞人",
       "onboard_time": 1728393441,
       "rank": 37,
@@ -147,6 +147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 358451,
+      "num": 358451,
+      "word": "网恋12年英国男友竟是闺蜜假扮",
+      "onboard_time": 1728395362,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 351326,
       "num": 351326,
       "word": "石洵瑶vs车秀英",
@@ -161,14 +169,6 @@
       "onboard_time": 1728391280,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 328415,
-      "num": 328415,
-      "word": "网恋12年英国男友竟是闺蜜假扮",
-      "onboard_time": 1728395362,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 281073,
@@ -235,12 +235,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 190502,
-      "num": 190502,
+      "raw_hot": 193354,
+      "num": 193354,
       "word": "美发言人称哈马斯或应出钱重建加沙",
       "onboard_time": 1728413832,
       "rank": 9,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 191520,
+      "num": 191520,
+      "word": "秦昊 付辛博很多年前是厉害的组合",
+      "onboard_time": 1728414551,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 175950,
+      "num": 160061,
+      "word": "亚锦赛身兼三项莎莎辛苦了",
+      "onboard_time": 1728428895,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 170516,
@@ -267,14 +283,6 @@
       "category": "社会新闻,旅游"
     },
     {
-      "raw_hot": 165658,
-      "num": 165658,
-      "word": "秦昊 付辛博很多年前是厉害的组合",
-      "onboard_time": 1728414551,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 163216,
       "num": 163216,
       "word": "专家提醒月经不规则不可掉以轻心",
@@ -283,19 +291,35 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 160257,
+      "num": 160257,
+      "word": "孙颖莎3比2边松景",
+      "onboard_time": 1728429616,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 159753,
+      "num": 159753,
+      "word": "肯德基双堡桶被指玩文字游戏",
+      "onboard_time": 1728392240,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 158808,
+      "num": 159770,
+      "word": "微信文字讨好症",
+      "onboard_time": 1728429857,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 153206,
       "num": 153206,
       "word": "游客偶遇秦岭野生大熊猫直呼没白来",
       "onboard_time": 1728405916,
       "rank": 6,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 149333,
-      "num": 149333,
-      "word": "肯德基双堡桶被指玩文字游戏",
-      "onboard_time": 1728392240,
-      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -307,12 +331,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 139198,
-      "num": 139198,
-      "word": "亚锦赛身兼三项莎莎辛苦了",
-      "onboard_time": 1728428895,
-      "rank": 26,
-      "category": "体育"
+      "raw_hot": 140128,
+      "num": 140128,
+      "word": "舍不得星星 好超前的结婚方式",
+      "onboard_time": 1728427334,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 128657,
@@ -363,6 +387,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 114502,
+      "num": 193320,
+      "word": "新生儿呛奶父亲跪地求助送医",
+      "onboard_time": 1728429016,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 113502,
       "num": 113502,
       "word": "警方回应女子踩踹外卖小哥面部",
@@ -385,14 +417,6 @@
       "onboard_time": 1728395961,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 103106,
-      "num": 103106,
-      "word": "舍不得星星 好超前的结婚方式",
-      "onboard_time": 1728427334,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 102792,
@@ -427,11 +451,27 @@
       "category": "电影"
     },
     {
+      "raw_hot": 92922,
+      "num": 92922,
+      "word": "景区回应扮野人团队已满员",
+      "onboard_time": 1728428414,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 92380,
       "num": 92380,
       "word": "日本一火山一天喷发3次",
       "onboard_time": 1728398122,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 89395,
+      "num": 89395,
+      "word": "哀牢山爆火是打卡视频惹的祸吗",
+      "onboard_time": 1728427154,
+      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -467,12 +507,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 79011,
+      "num": 79011,
+      "word": "真主党称以军将联合国部队作为人盾",
+      "onboard_time": 1728411131,
+      "rank": 41,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 78530,
       "num": 78530,
       "word": "荒野大镖客救赎PC版",
       "onboard_time": 1728401780,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 76158,
+      "num": 76158,
+      "word": "秒杀没开始团伙已经抢到商品",
+      "onboard_time": 1728410353,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 73947,
@@ -483,38 +539,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 73549,
-      "num": 73549,
-      "word": "哀牢山爆火是打卡视频惹的祸吗",
-      "onboard_time": 1728427154,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 73475,
-      "num": 73475,
-      "word": "景区回应扮野人团队已满员",
-      "onboard_time": 1728428414,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 71558,
-      "num": 71558,
-      "word": "真主党称以军将联合国部队作为人盾",
-      "onboard_time": 1728411131,
-      "rank": 41,
-      "category": "国外时政"
-    },
-    {
-      "raw_hot": 68411,
-      "num": 68411,
-      "word": "秒杀没开始团伙已经抢到商品",
-      "onboard_time": 1728410353,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 66353,
       "num": 66353,
       "word": "贾冰做饭有多好吃",
@@ -523,12 +547,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 66075,
-      "num": 66075,
-      "word": "孙颖莎3比2边松景",
-      "onboard_time": 1728429616,
-      "rank": 44,
-      "category": "体育"
+      "raw_hot": 60348,
+      "num": 63863,
+      "word": "山取",
+      "onboard_time": 1728391821,
+      "rank": 48,
+      "category": "网红"
     },
     {
       "raw_hot": 54016,
@@ -539,12 +563,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 47036,
-      "num": 155647,
-      "word": "新生儿呛奶父亲跪地求助送医",
-      "onboard_time": 1728429016,
-      "rank": 19,
-      "category": "社会新闻"
+      "raw_hot": 47160,
+      "num": 159994,
+      "word": "向佐打戏",
+      "onboard_time": 1728408674,
+      "rank": 24,
+      "category": "电影"
     },
     {
       "raw_hot": 46303,
@@ -564,19 +588,11 @@
     },
     {
       "raw_hot": 45255,
-      "num": 149357,
+      "num": 159909,
       "word": "朴山多拉晒YG家族合照",
       "onboard_time": 1728406096,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 41371,
-      "num": 149392,
-      "word": "向佐打戏",
-      "onboard_time": 1728408674,
-      "rank": 24,
-      "category": "电影"
     },
     {
       "raw_hot": 37351,
@@ -708,7 +724,7 @@
     },
     {
       "raw_hot": 12450,
-      "num": 556279,
+      "num": 741695,
       "word": "这是航天员拍摄的锦绣山河",
       "onboard_time": 1728401000,
       "rank": 2,
