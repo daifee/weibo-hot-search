@@ -1,6 +1,6 @@
 {
   "startTime": 1728318463808,
-  "endTime": 1728369892215,
+  "endTime": 1728372132256,
   "band_list": [
     {
       "raw_hot": 10133581,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 1368921,
-      "num": 402601,
+      "num": 569876,
       "word": "王楚钦状态",
       "onboard_time": 1728367282,
       "rank": 10,
@@ -131,6 +131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1160288,
+      "num": 777811,
+      "word": "林诗栋对手摔拍",
+      "onboard_time": 1728369861,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1142673,
       "num": 498553,
       "word": "鹿晗关晓彤官宣恋情七周年",
@@ -144,6 +152,14 @@
       "word": "王楚钦vs本雅明",
       "onboard_time": 1728363560,
       "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1104267,
+      "num": 1104267,
+      "word": "梁靖崑vs塔希尔",
+      "onboard_time": 1728370820,
+      "rank": 3,
       "category": "体育"
     },
     {
@@ -204,11 +220,19 @@
     },
     {
       "raw_hot": 977734,
-      "num": 461423,
+      "num": 483193,
       "word": "一早涨停买入的已经开始亏钱",
       "onboard_time": 1728361881,
       "rank": 39,
       "category": "财经"
+    },
+    {
+      "raw_hot": 969992,
+      "num": 969992,
+      "word": "王楚钦vs阿拉米扬",
+      "onboard_time": 1728371481,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 936547,
@@ -291,6 +315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 683931,
+      "num": 954917,
+      "word": "于正 欢娱影视多了一名花旦",
+      "onboard_time": 1728368782,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 672854,
       "num": 316918,
       "word": "上海套内32平米的家",
@@ -339,14 +371,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 610981,
-      "num": 610981,
-      "word": "于正 欢娱影视多了一名花旦",
-      "onboard_time": 1728368782,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 592981,
       "num": 566020,
       "word": "恋综史上无法超越的一幕",
@@ -377,6 +401,14 @@
       "onboard_time": 1728354078,
       "rank": 22,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 549605,
+      "num": 430762,
+      "word": "王楚钦主动指出擦网重发",
+      "onboard_time": 1728368960,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 520772,
@@ -436,11 +468,19 @@
     },
     {
       "raw_hot": 452090,
-      "num": 404122,
+      "num": 424907,
       "word": "东北雨姐删除了道歉视频",
       "onboard_time": 1728367520,
       "rank": 15,
       "category": "网红"
+    },
+    {
+      "raw_hot": 449436,
+      "num": 902164,
+      "word": "于正签的新人是张石头",
+      "onboard_time": 1728371182,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 443688,
@@ -539,12 +579,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 367059,
+      "num": 597971,
+      "word": "林诗栋3比2阿拉米扬",
+      "onboard_time": 1728370343,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 366905,
       "num": 366905,
       "word": "檀健次 求你们回头看看",
       "onboard_time": 1728311962,
       "rank": 17,
       "category": "演出"
+    },
+    {
+      "raw_hot": 359864,
+      "num": 359864,
+      "word": "A股 过山车",
+      "onboard_time": 1728361761,
+      "rank": 46,
+      "category": "财经"
     },
     {
       "raw_hot": 359569,
@@ -593,6 +649,14 @@
       "onboard_time": 1728354560,
       "rank": 8,
       "category": "电影"
+    },
+    {
+      "raw_hot": 340944,
+      "num": 304236,
+      "word": "男子捉奸收补偿被控敲诈案改判无罪",
+      "onboard_time": 1728370223,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 338485,
@@ -675,6 +739,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 307967,
+      "num": 307967,
+      "word": "梁靖崑3比0塔希尔",
+      "onboard_time": 1728371182,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 305283,
       "num": 434337,
       "word": "印度空军航展发生踩踏致百人死伤",
@@ -689,14 +761,6 @@
       "onboard_time": 1728360922,
       "rank": 39,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 294868,
-      "num": 265824,
-      "word": "A股 过山车",
-      "onboard_time": 1728361761,
-      "rank": 46,
-      "category": "财经"
     },
     {
       "raw_hot": 293286,
@@ -777,6 +841,14 @@
       "onboard_time": 1728365060,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 272880,
+      "num": 272880,
+      "word": "纪委回应女子举报被中学纪委书记强暴",
+      "onboard_time": 1728371661,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 267025,
@@ -867,14 +939,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 232101,
-      "num": 232101,
-      "word": "林诗栋对手摔拍",
-      "onboard_time": 1728369861,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
       "raw_hot": 231323,
       "num": 324999,
       "word": "艰难上岸后的辅导员每天都想辞职",
@@ -889,6 +953,14 @@
       "onboard_time": 1728350000,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 219977,
+      "num": 219977,
+      "word": "东北雨姐拍摄基地人去房空",
+      "onboard_time": 1728372021,
+      "rank": 33,
+      "category": "网红"
     },
     {
       "raw_hot": 217671,
@@ -980,7 +1052,7 @@
     },
     {
       "raw_hot": 201053,
-      "num": 265811,
+      "num": 473232,
       "word": "Jennie和NewJeans同框",
       "onboard_time": 1728369441,
       "rank": 26,
@@ -1001,6 +1073,14 @@
       "onboard_time": 1728368240,
       "rank": 13,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 200274,
+      "num": 348871,
+      "word": "心动7一块蛋糕引发的大乌龙",
+      "onboard_time": 1728371420,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 198972,
@@ -1035,14 +1115,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 197141,
-      "num": 197141,
-      "word": "王楚钦主动指出擦网重发",
-      "onboard_time": 1728368960,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 193419,
       "num": 193419,
       "word": "半导体",
@@ -1060,7 +1132,7 @@
     },
     {
       "raw_hot": 192235,
-      "num": 192235,
+      "num": 862303,
       "word": "能生成人裸照的性犯罪从韩国开始泛滥",
       "onboard_time": 1728369501,
       "rank": 38,
@@ -1187,6 +1259,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 173371,
+      "num": 173371,
+      "word": "本雅明世排210",
+      "onboard_time": 1728371602,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 173168,
       "num": 173168,
       "word": "沪指涨超10%",
@@ -1220,7 +1300,7 @@
     },
     {
       "raw_hot": 169368,
-      "num": 169368,
+      "num": 348870,
       "word": "张杰抢票",
       "onboard_time": 1728368661,
       "rank": 48,
@@ -1259,12 +1339,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 163971,
+      "num": 163971,
+      "word": "女子实名举报被四川一中学纪委书记强暴",
+      "onboard_time": 1728371841,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 163683,
       "num": 163683,
       "word": "国庆离开的第一天想他",
       "onboard_time": 1728352278,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 161866,
+      "num": 161866,
+      "word": "无缝球和有缝球的区别",
+      "onboard_time": 1728370883,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 159612,
@@ -1425,6 +1521,14 @@
       "onboard_time": 1728341113,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 134656,
+      "num": 134656,
+      "word": "沪指收涨4.59%",
+      "onboard_time": 1728372080,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 134104,
@@ -1683,6 +1787,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 83434,
+      "num": 813107,
+      "word": "沪深京三市成交额突破3万亿",
+      "onboard_time": 1728370521,
+      "rank": 9,
+      "category": "财经"
+    },
+    {
       "raw_hot": 82642,
       "num": 1826757,
       "word": "古人笔下的浪漫秋意",
@@ -1923,6 +2035,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 44053,
+      "num": 450857,
+      "word": "为什么说哀牢山是神秘又危险的禁区",
+      "onboard_time": 1728371661,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 41410,
       "num": 702914,
       "word": "港股",
@@ -1984,6 +2104,22 @@
       "word": "成毅奔赴自然",
       "onboard_time": 1728356540,
       "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 33865,
+      "num": 168423,
+      "word": "建议成毅把冲锋衣焊身上",
+      "onboard_time": 1728369320,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 32949,
+      "num": 469642,
+      "word": "付林逝世",
+      "onboard_time": 1728371661,
+      "rank": 18,
       "category": "艺人"
     },
     {
@@ -2129,14 +2265,6 @@
       "onboard_time": 1728305183,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 14740,
-      "num": 168423,
-      "word": "建议成毅把冲锋衣焊身上",
-      "onboard_time": 1728369320,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 14489,
