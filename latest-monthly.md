@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/10/01 00:28:17 ~ 2024/10/08 09:41:57
+本榜单时间：2024/10/01 00:28:17 ~ 2024/10/08 10:04:18
 </p>
 </blockquote>
 <p>
@@ -59,6 +59,12 @@ A股（热度：3580252）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8Evs%E7%8E%8B%E6%9B%BC%E6%98%B1%23" target="weibo">
 孙颖莎vs王曼昱（热度：3146611）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23A%E8%82%A1%E6%B6%A8%E5%81%9C%23" target="weibo">
+A股涨停（热度：2966593）
 </a>
 </li>
 
@@ -347,6 +353,12 @@ T1战胜BLG（热度：1444060）
 <li>
 <a href="https://s.weibo.com/weibo?q=%238%E4%BA%BA%E8%A2%AB%E7%BB%88%E8%BA%AB%E7%A6%81%E5%85%A5%E7%A8%BB%E5%9F%8E%E4%BA%9A%E4%B8%81%E6%99%AF%E5%8C%BA%23" target="weibo">
 8人被终身禁入稻城亚丁景区（热度：1417596）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E10800%E5%88%86%E4%B8%96%E6%8E%92%E6%96%AD%E5%B1%82%E7%AC%AC%E4%B8%80%23" target="weibo">
+孙颖莎10800分世排断层第一（热度：1398043）
 </a>
 </li>
 
@@ -759,12 +771,6 @@ A股彻底爆了现在进场还来得及吗（热度：1030303）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E10800%E5%88%86%E4%B8%96%E6%8E%92%E6%96%AD%E5%B1%82%E7%AC%AC%E4%B8%80%23" target="weibo">
-孙颖莎10800分世排断层第一（热度：1025405）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%85%83%E8%8B%B1%E8%B5%AB%E6%9C%AC%E9%80%A0%E5%9E%8B%23" target="weibo">
 张元英赫本造型（热度：1024556）
 </a>
@@ -1167,6 +1173,12 @@ aespa（热度：832836）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%9B%91%E6%8E%A716%E5%B0%8F%E6%97%B6%E8%AE%B0%E5%BD%95%E5%93%80%E7%89%A2%E5%B1%B1%E9%87%8C%E7%A9%B6%E7%AB%9F%E6%9C%89%E4%BB%80%E4%B9%88%23" target="weibo">
+监控16小时记录哀牢山里究竟有什么（热度：792410）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%2312306%E6%8A%A2%E7%A5%A8%23" target="weibo">
 12306抢票（热度：786513）
 </a>
@@ -1277,12 +1289,6 @@ WTT（热度：765189）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%9D%9A%E5%AE%9A%E6%94%AF%E6%8C%81%E8%81%94%E5%90%88%E5%9B%BD%E7%A7%98%E4%B9%A6%E9%95%BF%E5%B7%A5%E4%BD%9C%23" target="weibo">
 中国坚定支持联合国秘书长工作（热度：758844）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23A%E8%82%A1%E6%B6%A8%E5%81%9C%23" target="weibo">
-A股涨停（热度：757951）
 </a>
 </li>
 
@@ -2643,6 +2649,12 @@ GEN对战WBG（热度：516314）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%80%E7%9B%98%E5%8D%B3%E4%B8%8B%E7%8F%AD%23" target="weibo">
+开盘即下班（热度：472373）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%A8%E9%9C%8F%E5%B7%AE%E7%82%B9%E8%A2%AB%E9%83%91%E9%92%A6%E6%96%87%E7%9A%84%E7%90%83%E7%A0%B8%E4%B8%AD%23" target="weibo">
 张雨霏差点被郑钦文的球砸中（热度：471099）
 </a>
@@ -3441,6 +3453,12 @@ BLG下路（热度：374278）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0A%E8%82%A1%E5%B0%86%E8%BF%8E%E5%A4%A7%E6%B6%A8%E5%A4%A7%E6%B3%A2%E5%8A%A8%E5%A4%A7%E5%88%86%E5%8C%96%23" target="weibo">
+专家称A股将迎大涨大波动大分化（热度：363285）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%9B%BD%E5%8F%8D%E5%AF%B9%E4%BB%A5%E8%89%B2%E5%88%97%E7%A6%81%E6%AD%A2%E5%8F%A4%E7%89%B9%E9%9B%B7%E6%96%AF%E5%85%A5%E5%A2%83%23" target="weibo">
 多国反对以色列禁止古特雷斯入境（热度：362801）
 </a>
@@ -3981,12 +3999,6 @@ LNG空签（热度：323793）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%9B%91%E6%8E%A716%E5%B0%8F%E6%97%B6%E8%AE%B0%E5%BD%95%E5%93%80%E7%89%A2%E5%B1%B1%E9%87%8C%E7%A9%B6%E7%AB%9F%E6%9C%89%E4%BB%80%E4%B9%88%23" target="weibo">
-监控16小时记录哀牢山里究竟有什么（热度：312642）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E6%8B%9F%E4%BB%8E%E4%B8%AD%E5%9B%BD%E8%BF%9B%E5%8F%A31100%E5%90%A8%E5%A4%A7%E7%99%BD%E8%8F%9C%23" target="weibo">
 韩国拟从中国进口1100吨大白菜（热度：312482）
 </a>
@@ -4259,6 +4271,12 @@ DK对战LNG（热度：311674）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9C%9D%E9%98%B3%E5%8A%9D%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%BF%85%E9%A1%BB%E8%A6%81%E8%87%AA%E5%BE%8B%23" target="weibo">
 张朝阳劝年轻人必须要自律（热度：293363）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%2324%E8%8A%82%E6%B0%94%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%B8%A6%E5%AF%92%E7%9A%84%E8%8A%82%E6%B0%94%23" target="weibo">
+24节气第一个带寒的节气（热度：293286）
 </a>
 </li>
 
@@ -4557,14 +4575,14 @@ DK对战LNG（热度：311674）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%2324%E8%8A%82%E6%B0%94%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%B8%A6%E5%AF%92%E7%9A%84%E8%8A%82%E6%B0%94%23" target="weibo">
-24节气第一个带寒的节气（热度：279445）
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%94%E6%A0%A1%E8%BD%A6%E5%8E%A2%E9%87%8C%E5%85%A8%E6%98%AF%E7%A2%8E%E6%8E%89%E7%9A%84%E5%A4%A7%E5%AD%A6%E7%94%9F%23" target="weibo">
+返校车厢里全是碎掉的大学生（热度：279158）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%94%E6%A0%A1%E8%BD%A6%E5%8E%A2%E9%87%8C%E5%85%A8%E6%98%AF%E7%A2%8E%E6%8E%89%E7%9A%84%E5%A4%A7%E5%AD%A6%E7%94%9F%23" target="weibo">
-返校车厢里全是碎掉的大学生（热度：279158）
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E9%9B%A8%E8%8F%B2%E9%87%8D%E8%BF%94%E4%B8%96%E7%95%8C%E7%AC%AC%E4%B8%80%23" target="weibo">
+陈雨菲重返世界第一（热度：278662）
 </a>
 </li>
 
@@ -4731,6 +4749,12 @@ A股究竟是一波流还是牛市起点（热度：276199）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E7%A7%AF%E5%88%867825%E4%B8%96%E6%8E%92%E7%AC%AC%E4%B8%80%23" target="weibo">
+王楚钦积分7825世排第一（热度：270162）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%87%8C%E8%B5%AB%E7%94%B0%E6%9B%A6%E8%96%87%E5%B9%B3%E7%95%AA%23" target="weibo">
 张凌赫田曦薇平番（热度：269474）
 </a>
@@ -4739,12 +4763,6 @@ A股究竟是一波流还是牛市起点（热度：276199）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AC%A7%E7%9B%9F%E5%AF%B9%E5%8D%8E%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A6%E5%BE%81%E6%94%B6%E5%8F%8D%E8%A1%A5%E8%B4%B4%E7%A8%8E%E6%8F%90%E8%AE%AE%E9%80%9A%E8%BF%87%23" target="weibo">
 欧盟对华电动汽车征收反补贴税提议通过（热度：269357）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E9%9B%A8%E8%8F%B2%E9%87%8D%E8%BF%94%E4%B8%96%E7%95%8C%E7%AC%AC%E4%B8%80%23" target="weibo">
-陈雨菲重返世界第一（热度：269167）
 </a>
 </li>
 
@@ -5715,6 +5733,12 @@ Bin（热度：224705）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8A%A0%E6%B2%99%E5%A5%B3%E7%AB%A5%E8%AF%B4%E6%88%91%E4%BB%AC%E5%8F%AA%E6%98%AF%E5%9C%A8%E7%AD%89%E6%AD%BB%23" target="weibo">
+加沙女童说我们只是在等死（热度：223398）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E5%8D%9A%E4%B8%BB%E6%8C%91%E6%88%98%E4%B8%AD%E5%9B%BD%E6%B3%B0%E5%B1%B1%23" target="weibo">
 韩国博主挑战中国泰山（热度：223318）
 </a>
@@ -5987,30 +6011,6 @@ WTT混双决赛（热度：220949）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%8F%E7%9B%AE%E5%8F%8B%E4%BA%BA%E5%B8%90%23" target="weibo">
 夏目友人帐（热度：215920）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%A9%BB%E4%BC%8A%E6%9C%97%E5%A4%A7%E4%BD%BF%E9%A6%86%E5%8F%91%E5%AE%89%E5%85%A8%E6%8F%90%E9%86%92%23" target="weibo">
-中国驻伊朗大使馆发安全提醒（热度：215450）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%A8%E7%BB%AE%E5%A4%8D%E5%88%BBMaggieQ%E7%BA%A2%E8%A3%99%E9%80%A0%E5%9E%8B%23" target="weibo">
-张雨绮复刻MaggieQ红裙造型（热度：215253）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B0%81%E6%87%82%E5%88%98%E4%BA%A6%E8%8F%B2%E8%B5%B0%E7%9A%84%E8%BF%99%E5%87%A0%E6%AD%A5%23" target="weibo">
-谁懂刘亦菲走的这几步（热度：214915）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%82%A3%E6%98%AF%E4%BD%A0%E5%8F%AF%E6%80%9C%20%E6%88%91%E5%AE%B6%E4%B8%8D%E7%94%A8%23" target="weibo">
-那是你可怜 我家不用（热度：214871）
 </a>
 </li>
 

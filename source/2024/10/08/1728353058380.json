@@ -1,0 +1,410 @@
+{
+  "runTime": 1728353058380,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2966593,
+        "num": 2966593,
+        "word": "A股涨停",
+        "onboard_time": 1728351019,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 2899813,
+        "num": 2899813,
+        "word": "A股",
+        "onboard_time": 1728346401,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 15885,
+        "num": 2148124,
+        "word": "国庆文旅图景尽显活力中国",
+        "onboard_time": 1728304823,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1398043,
+        "num": 1398043,
+        "word": "孙颖莎10800分世排断层第一",
+        "onboard_time": 1728350178,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 661221,
+        "num": 661221,
+        "word": "股市",
+        "onboard_time": 1728347481,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 472373,
+        "num": 472373,
+        "word": "开盘即下班",
+        "onboard_time": 1728352340,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 203812,
+        "num": 471239,
+        "word": "于适游玩阿勒泰vlog",
+        "onboard_time": 1728345078,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190156,
+        "num": 463711,
+        "word": "朱亚文将张颂文的演技教给小演员",
+        "onboard_time": 1728344898,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 223398,
+        "num": 459919,
+        "word": "加沙女童说我们只是在等死",
+        "onboard_time": 1728352401,
+        "rank": 8,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 155164,
+        "num": 457213,
+        "word": "创业板指涨超18%",
+        "onboard_time": 1728352161,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 866499,
+        "num": 449866,
+        "word": "股价大涨上市公司股东扎堆减持",
+        "onboard_time": 1728347481,
+        "rank": 10,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 825425,
+        "num": 446317,
+        "word": "曝侃爷分手",
+        "onboard_time": 1728347542,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 792410,
+        "num": 439044,
+        "word": "监控16小时记录哀牢山里究竟有什么",
+        "onboard_time": 1728350419,
+        "rank": 12,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 508985,
+        "num": 438956,
+        "word": "权志龙疑似扔了郎朗的签名专辑",
+        "onboard_time": 1728308721,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 434227,
+        "num": 434227,
+        "word": "本科夫妻周末摆摊卖菜月入3000元",
+        "onboard_time": 1728307882,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 57836,
+        "num": 391326,
+        "word": "月黑风高最好的下手时机",
+        "onboard_time": 1728351679,
+        "rank": 15,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 363285,
+        "num": 363285,
+        "word": "专家称A股将迎大涨大波动大分化",
+        "onboard_time": 1728351679,
+        "rank": 16,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 338705,
+        "num": 338705,
+        "word": "为啥高铁开到山东突然变慢了",
+        "onboard_time": 1728343577,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 301994,
+        "num": 301994,
+        "word": "恋综史上无法超越的一幕",
+        "onboard_time": 1728308962,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 293286,
+        "num": 293286,
+        "word": "24节气第一个带寒的节气",
+        "onboard_time": 1728347902,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 889634,
+        "num": 293160,
+        "word": "鹿晗关晓彤官宣恋情七周年",
+        "onboard_time": 1728345920,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 406209,
+        "num": 292728,
+        "word": "博主擅闯哀牢山禁区已违法",
+        "onboard_time": 1728307222,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 360809,
+        "num": 289401,
+        "word": "9种食物几乎没有保质期",
+        "onboard_time": 1728346102,
+        "rank": 22,
+        "category": "社会新闻,健康医疗"
+      },
+      {
+        "raw_hot": 280331,
+        "num": 280331,
+        "word": "节后上班",
+        "onboard_time": 1728343516,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 285720,
+        "num": 280116,
+        "word": "云南哀牢山连发三条公告",
+        "onboard_time": 1728300862,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 278662,
+        "num": 278662,
+        "word": "陈雨菲重返世界第一",
+        "onboard_time": 1728349940,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 270162,
+        "num": 270162,
+        "word": "王楚钦积分7825世排第一",
+        "onboard_time": 1728352579,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131289,
+        "num": 265776,
+        "word": "大冰直播",
+        "onboard_time": 1728345559,
+        "rank": 27,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 108783,
+        "num": 263001,
+        "word": "张艺兴早期太抽象了",
+        "onboard_time": 1728342436,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94223,
+        "num": 262944,
+        "word": "权志龙参与制作宝怪新专",
+        "onboard_time": 1728345377,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 262918,
+        "num": 262918,
+        "word": "李敏镐37岁的状态",
+        "onboard_time": 1728311363,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 215457,
+        "num": 215457,
+        "word": "林诗栋世界排名上升至第3",
+        "onboard_time": 1728352699,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 210567,
+        "num": 210567,
+        "word": "鸿蒙NEXT公测",
+        "onboard_time": 1728350901,
+        "rank": 32,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 208376,
+        "num": 208376,
+        "word": "亚锦赛",
+        "onboard_time": 1728352098,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 197997,
+        "num": 197997,
+        "word": "沪指高开10.13%",
+        "onboard_time": 1728351920,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 187352,
+        "num": 187352,
+        "word": "上海套内32平米的家",
+        "onboard_time": 1728342737,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184704,
+        "num": 184704,
+        "word": "女子转卖父母处方药被判贩毒罪",
+        "onboard_time": 1728352520,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180623,
+        "num": 180623,
+        "word": "许嵩 分手了没关系还有我",
+        "onboard_time": 1728302902,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 174171,
+        "num": 174171,
+        "word": "A股三大指数集体高开",
+        "onboard_time": 1728352220,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 173168,
+        "num": 173168,
+        "word": "沪指涨超10%",
+        "onboard_time": 1728352699,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 170597,
+        "num": 170597,
+        "word": "加沙死者三分之一是儿童",
+        "onboard_time": 1728352161,
+        "rank": 40,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 163683,
+        "num": 163683,
+        "word": "国庆离开的第一天想他",
+        "onboard_time": 1728352278,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 78680,
+        "num": 160154,
+        "word": "柳智敏宁艺卓预告照",
+        "onboard_time": 1728342557,
+        "rank": 42,
+        "category": "音乐,艺人"
+      },
+      {
+        "raw_hot": 158273,
+        "num": 158273,
+        "word": "A股强势归来",
+        "onboard_time": 1728352161,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 152829,
+        "num": 152829,
+        "word": "今日寒露",
+        "onboard_time": 1728342676,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152806,
+        "num": 152806,
+        "word": "檀健次 求你们回头看看",
+        "onboard_time": 1728311962,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 152247,
+        "num": 152247,
+        "word": "一觉醒来寒露来了",
+        "onboard_time": 1728349220,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150224,
+        "num": 150224,
+        "word": "还原8人被终身禁入亚丁景区始末",
+        "onboard_time": 1728309804,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144679,
+        "num": 144679,
+        "word": "文化中国行看寒露节气",
+        "onboard_time": 1728344657,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144178,
+        "num": 144178,
+        "word": "乒乓球亚锦赛国乒首秀",
+        "onboard_time": 1728350538,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#75秒看见人民共和国75年跨越#"
+    }
+  }
+}
