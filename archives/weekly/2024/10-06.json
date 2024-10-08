@@ -1,6 +1,6 @@
 {
   "startTime": 1728145573126,
-  "endTime": 1728394821081,
+  "endTime": 1728397411043,
   "band_list": [
     {
       "raw_hot": 12210422,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 2611084,
-      "num": 473849,
+      "num": 546168,
       "word": "k总",
       "onboard_time": 1728390560,
       "rank": 15,
@@ -164,7 +164,7 @@
     },
     {
       "raw_hot": 2085777,
-      "num": 469635,
+      "num": 496824,
       "word": "黄晓明带叶珂参加陈浩民生日会",
       "onboard_time": 1728382882,
       "rank": 30,
@@ -172,7 +172,7 @@
     },
     {
       "raw_hot": 2065583,
-      "num": 472752,
+      "num": 521722,
       "word": "山取颜料师被要求返还矿石",
       "onboard_time": 1728386420,
       "rank": 43,
@@ -260,7 +260,7 @@
     },
     {
       "raw_hot": 1630590,
-      "num": 472282,
+      "num": 520523,
       "word": "周扬青聊名媛班",
       "onboard_time": 1728389299,
       "rank": 11,
@@ -289,6 +289,14 @@
       "onboard_time": 1728356239,
       "rank": 38,
       "category": "财经"
+    },
+    {
+      "raw_hot": 1492695,
+      "num": 1492695,
+      "word": "孙颖莎vs金琴英",
+      "onboard_time": 1728388760,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 1453629,
@@ -707,12 +715,36 @@
       "category": "财经"
     },
     {
+      "raw_hot": 971155,
+      "num": 362350,
+      "word": "父子殴打一家3口后开车撞人",
+      "onboard_time": 1728393441,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 961319,
       "num": 472566,
       "word": "当地回应新娘哥嫂临时加彩礼18万",
       "onboard_time": 1728208458,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 956580,
+      "num": 956580,
+      "word": "肯德基双堡桶被指玩文字游戏",
+      "onboard_time": 1728392240,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 954145,
+      "num": 504388,
+      "word": "刘烨竟然是勋鹿群管理员",
+      "onboard_time": 1728391280,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 941566,
@@ -784,22 +816,6 @@
       "word": "张禹珍3比2张本智和",
       "onboard_time": 1728374301,
       "rank": 4,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 892705,
-      "num": 468366,
-      "word": "刘烨竟然是勋鹿群管理员",
-      "onboard_time": 1728391280,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 877309,
-      "num": 877309,
-      "word": "孙颖莎vs金琴英",
-      "onboard_time": 1728388760,
-      "rank": 1,
       "category": "体育"
     },
     {
@@ -1267,6 +1283,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 649919,
+      "num": 649919,
+      "word": "国乒女团vs朝鲜",
+      "onboard_time": 1728387800,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 647149,
       "num": 647149,
       "word": "王楚钦3比1阿拉米扬",
@@ -1361,6 +1385,14 @@
       "onboard_time": 1728307222,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 612558,
+      "num": 487768,
+      "word": "k总 抑郁",
+      "onboard_time": 1728395181,
+      "rank": 16,
+      "category": "网红"
     },
     {
       "raw_hot": 609006,
@@ -1627,6 +1659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 486841,
+      "num": 486841,
+      "word": "朴山多拉晒YG家族合照没有Jennie",
+      "onboard_time": 1728394341,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 485265,
       "num": 485265,
       "word": "专家称A股将迎大涨大波动大分化",
@@ -1737,6 +1777,14 @@
       "onboard_time": 1728384982,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 459017,
+      "num": 382377,
+      "word": "专家提醒月经不规则不可掉以轻心",
+      "onboard_time": 1728391641,
+      "rank": 41,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 457561,
@@ -1931,14 +1979,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 411704,
-      "num": 382377,
-      "word": "专家提醒月经不规则不可掉以轻心",
-      "onboard_time": 1728391641,
-      "rank": 41,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 410102,
       "num": 274838,
       "word": "中企车队在巴遇袭致中方人员2死1伤",
@@ -1963,14 +2003,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 403473,
-      "num": 475231,
-      "word": "肯德基双堡桶被指玩文字游戏",
-      "onboard_time": 1728392240,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 400289,
       "num": 616381,
       "word": "纪委回应女子举报被中学纪委书记强暴",
@@ -1987,6 +2019,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 399231,
+      "num": 399231,
+      "word": "价值10万自行车被小孩碰倒后续",
+      "onboard_time": 1728393502,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 399136,
       "num": 250645,
       "word": "张大大 你们是真的饿了",
@@ -2001,14 +2041,6 @@
       "onboard_time": 1728265399,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 394822,
-      "num": 394822,
-      "word": "国乒女团vs朝鲜",
-      "onboard_time": 1728387800,
-      "rank": 7,
-      "category": "体育"
     },
     {
       "raw_hot": 394352,
@@ -2299,6 +2331,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 360352,
+      "num": 360352,
+      "word": "戚薇李承铉敢说 我不敢听",
+      "onboard_time": 1728395720,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 360159,
       "num": 343295,
       "word": "孙乐言 恋爱脑",
@@ -2401,6 +2441,14 @@
       "onboard_time": 1728274219,
       "rank": 20,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 353822,
+      "num": 353822,
+      "word": "山取",
+      "onboard_time": 1728391821,
+      "rank": 34,
+      "category": "网红"
     },
     {
       "raw_hot": 353807,
@@ -2691,14 +2739,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 308613,
-      "num": 308613,
-      "word": "父子殴打一家3口后开车撞人",
-      "onboard_time": 1728393441,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 308427,
       "num": 245942,
       "word": "鬼火少年集体炸街警方抓捕制止",
@@ -2729,14 +2769,6 @@
       "onboard_time": 1728204017,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 305811,
-      "num": 297133,
-      "word": "朴山多拉晒YG家族合照没有Jennie",
-      "onboard_time": 1728394341,
-      "rank": 26,
-      "category": "音乐"
     },
     {
       "raw_hot": 305283,
@@ -2835,6 +2867,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 294109,
+      "num": 294109,
+      "word": "张曼玉看秀生图",
+      "onboard_time": 1728396080,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 293363,
       "num": 214343,
       "word": "张朝阳劝年轻人必须要自律",
@@ -2913,6 +2953,14 @@
       "onboard_time": 1728295342,
       "rank": 17,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 287099,
+      "num": 287099,
+      "word": "林草局回应颜料师进哀牢山取材",
+      "onboard_time": 1728395961,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 285683,
@@ -3059,6 +3107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 273846,
+      "num": 273846,
+      "word": "张家界回应被指拆成20个景区收费",
+      "onboard_time": 1728395298,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 273633,
       "num": 273633,
       "word": "钱天一晒和马龙合影",
@@ -3091,12 +3147,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 270685,
-      "num": 270685,
-      "word": "山取",
-      "onboard_time": 1728391821,
-      "rank": 34,
-      "category": "网红"
+      "raw_hot": 270261,
+      "num": 270261,
+      "word": "国乒女团亚锦赛亮相",
+      "onboard_time": 1728396620,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 268681,
@@ -3321,6 +3377,14 @@
       "onboard_time": 1728197239,
       "rank": 22,
       "category": "演出"
+    },
+    {
+      "raw_hot": 250065,
+      "num": 250065,
+      "word": "医院回应垃圾桶里发现带脐带女婴",
+      "onboard_time": 1728394761,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 249804,
@@ -3737,6 +3801,14 @@
       "onboard_time": 1728320836,
       "rank": 19,
       "category": "演出"
+    },
+    {
+      "raw_hot": 217315,
+      "num": 217315,
+      "word": "00后已经当上班主任",
+      "onboard_time": 1728394521,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 217231,
@@ -4275,14 +4347,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 195920,
-      "num": 195920,
-      "word": "价值10万自行车被小孩碰倒后续",
-      "onboard_time": 1728393502,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 195845,
       "num": 195845,
       "word": "郑钦文奖金创生涯新高",
@@ -4355,6 +4419,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 193013,
+      "num": 193013,
+      "word": "微信上线搜索直达功能",
+      "onboard_time": 1728392540,
+      "rank": 41,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 193003,
       "num": 193003,
       "word": "彭昱畅演技骗过微表情专家",
@@ -4425,6 +4497,14 @@
       "onboard_time": 1728354918,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 190589,
+      "num": 190589,
+      "word": "张远直播",
+      "onboard_time": 1728396440,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 190385,
@@ -4524,7 +4604,7 @@
     },
     {
       "raw_hot": 184889,
-      "num": 476135,
+      "num": 557477,
       "word": "中餐厅考古",
       "onboard_time": 1728386240,
       "rank": 47,
@@ -4755,6 +4835,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 177231,
+      "num": 234460,
+      "word": "网恋12年英国男友竟是闺蜜假扮",
+      "onboard_time": 1728395362,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 176580,
       "num": 176580,
       "word": "亚锦赛观众免费入场",
@@ -4833,6 +4921,14 @@
       "onboard_time": 1728352220,
       "rank": 38,
       "category": "财经"
+    },
+    {
+      "raw_hot": 173479,
+      "num": 173479,
+      "word": "女子吐槽景区已购门票仍收过桥费",
+      "onboard_time": 1728397161,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 173371,
@@ -5283,14 +5379,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 159127,
-      "num": 159127,
-      "word": "微信上线搜索直达功能",
-      "onboard_time": 1728392540,
-      "rank": 41,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 158855,
       "num": 158855,
       "word": "同花顺崩了",
@@ -5361,6 +5449,14 @@
       "onboard_time": 1728203958,
       "rank": 49,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 157473,
+      "num": 157473,
+      "word": "谁懂主题曲里周深两个字的含金量",
+      "onboard_time": 1728396321,
+      "rank": 46,
+      "category": "音乐"
     },
     {
       "raw_hot": 157419,
@@ -5697,14 +5793,6 @@
       "onboard_time": 1728184037,
       "rank": 39,
       "category": "演出"
-    },
-    {
-      "raw_hot": 148825,
-      "num": 148825,
-      "word": "00后已经当上班主任",
-      "onboard_time": 1728394521,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 148668,
@@ -6224,14 +6312,6 @@
       "word": "宠物领养协议有效吗",
       "onboard_time": 1728184397,
       "rank": 43,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 131070,
-      "num": 131070,
-      "word": "医院回应垃圾桶里发现带脐带女婴",
-      "onboard_time": 1728394761,
-      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -7363,6 +7443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 95910,
+      "num": 532197,
+      "word": "霸总为郑钦文庆生",
+      "onboard_time": 1728394221,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 95590,
       "num": 95590,
       "word": "李大霄 我很担心8号开盘",
@@ -8075,6 +8163,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 57897,
+      "num": 549746,
+      "word": "国庆楼市火爆有房企7天卖了148亿",
+      "onboard_time": 1728396561,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 57867,
       "num": 57867,
       "word": "任嘉伦佳偶天成新妆造",
@@ -8169,14 +8265,6 @@
       "onboard_time": 1728319276,
       "rank": 49,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 53221,
-      "num": 170770,
-      "word": "霸总为郑钦文庆生",
-      "onboard_time": 1728394221,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 53073,
@@ -9036,7 +9124,7 @@
     },
     {
       "raw_hot": 16622,
-      "num": 912893,
+      "num": 1200505,
       "word": "中国饭碗端得稳端得牢",
       "onboard_time": 1728362541,
       "rank": 25,
