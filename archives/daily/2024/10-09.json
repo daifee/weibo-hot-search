@@ -1,6 +1,6 @@
 {
   "startTime": 1728404919019,
-  "endTime": 1728407993496,
+  "endTime": 1728409060657,
   "band_list": [
     {
       "raw_hot": 2648229,
@@ -451,10 +451,18 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 64197,
-      "num": 64197,
+      "raw_hot": 66353,
+      "num": 66353,
       "word": "贾冰做饭有多好吃",
       "onboard_time": 1728407053,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 54016,
+      "num": 54016,
+      "word": "王晶谈张颂文走红",
+      "onboard_time": 1728408313,
       "rank": 41,
       "category": "综艺"
     },
@@ -467,6 +475,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 41271,
+      "num": 81164,
+      "word": "向佐打戏",
+      "onboard_time": 1728408674,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 34316,
+      "num": 119834,
+      "word": "主播石英岩冒充翡翠非法获利近30万",
+      "onboard_time": 1728406277,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 33725,
       "num": 1143212,
       "word": "十一长假全国揽投快递近63亿件",
@@ -475,16 +499,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 31816,
-      "num": 119834,
-      "word": "主播石英岩冒充翡翠非法获利近30万",
-      "onboard_time": 1728406277,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 27963,
-      "num": 87981,
+      "raw_hot": 32258,
+      "num": 107287,
       "word": "团伙在陕西盗掘3.5吨古生物化石",
       "onboard_time": 1728407534,
       "rank": 29,
