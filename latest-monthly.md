@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/10/01 00:28:17 ~ 2024/10/08 19:20:44
+本榜单时间：2024/10/01 00:28:17 ~ 2024/10/08 19:36:06
 </p>
 </blockquote>
 <p>
@@ -1275,6 +1275,12 @@ LNG战胜BLG（热度：897693）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E5%8F%96%E9%A2%9C%E6%96%99%E5%B8%88%E8%A2%AB%E8%A6%81%E6%B1%82%E8%BF%94%E8%BF%98%E7%9F%BF%E7%9F%B3%23" target="weibo">
+山取颜料师被要求返还矿石（热度：845317）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23Jennie%E5%B0%8F%E6%9D%BE%E8%8F%9C%E5%A5%88%E5%90%8C%E6%A1%86%23" target="weibo">
 Jennie小松菜奈同框（热度：844521）
 </a>
@@ -1355,6 +1361,12 @@ aespa（热度：832836）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E7%96%86%E5%B0%8F%E5%AD%A9%E5%93%A5%E9%87%87%E8%AE%BF%E4%B8%AD%E6%83%8A%E5%87%BA%E8%A1%A8%E6%83%85%E5%8C%85%23" target="weibo">
 新疆小孩哥采访中惊出表情包（热度：806381）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8B%E6%AC%A1%E4%B8%8D%E5%87%86%E5%86%8DP%E4%BA%86%23" target="weibo">
+下次不准再P了（热度：804103）
 </a>
 </li>
 
@@ -1673,12 +1685,6 @@ HPV疫苗已降到20多元1支（热度：747235）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2333%E5%B2%81%E4%B8%AD%E5%9B%BD%E7%94%B7%E5%AD%90%E6%B6%89%E5%AB%8C%E7%94%A8%E7%83%AD%E5%92%96%E5%95%A1%E6%B3%BC%E4%BC%A4%E5%A9%B4%E5%84%BF%E5%90%8E%E5%87%BA%E9%80%83%23" target="weibo">
 33岁中国男子涉嫌用热咖啡泼伤婴儿后出逃（热度：727075）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8B%E6%AC%A1%E4%B8%8D%E5%87%86%E5%86%8DP%E4%BA%86%23" target="weibo">
-下次不准再P了（热度：727040）
 </a>
 </li>
 
@@ -2463,6 +2469,12 @@ GEN战胜WBG（热度：588542）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E5%86%AC%E9%9B%A8%E5%9C%A8%E9%9F%A9%E5%9B%BD%E7%9A%84%E4%BA%BA%E6%B0%94%23" target="weibo">
+周冬雨在韩国的人气（热度：565878）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%AE%9E%E5%90%8D%E4%B8%BE%E6%8A%A5%E8%A2%AB%E5%9B%9B%E5%B7%9D%E4%B8%80%E4%B8%AD%E5%AD%A6%E7%BA%AA%E5%A7%94%E4%B9%A6%E8%AE%B0%E5%BC%BA%E6%9A%B4%23" target="weibo">
 女子实名举报被四川一中学纪委书记强暴（热度：565371）
 </a>
@@ -2597,12 +2609,6 @@ GEN战胜WBG（热度：588542）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%8F%8D%E5%AF%B9%E4%BB%A5%E5%AF%B9%E8%81%94%E5%90%88%E5%9B%BD%E7%A7%98%E4%B9%A6%E9%95%BF%E6%97%A0%E7%AB%AF%E6%8C%87%E8%B4%A3%23" target="weibo">
 中方反对以对联合国秘书长无端指责（热度：542320）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E5%86%AC%E9%9B%A8%E5%9C%A8%E9%9F%A9%E5%9B%BD%E7%9A%84%E4%BA%BA%E6%B0%94%23" target="weibo">
-周冬雨在韩国的人气（热度：542257）
 </a>
 </li>
 
@@ -3009,6 +3015,12 @@ GEN对战WBG（热度：516314）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9F%AF%E5%9F%BA%E8%AD%A6%E7%8A%AC%E7%A6%8F%E4%BB%94%E8%BD%AC%E6%AD%A3%E4%BA%86%23" target="weibo">
+柯基警犬福仔转正了（热度：474658）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B5%B4%E7%81%AB%E4%B9%8B%E8%B7%AF%E7%A5%A8%E6%88%BF%23" target="weibo">
 浴火之路票房（热度：474132）
 </a>
@@ -3357,6 +3369,12 @@ offer6带教 香港首位内地女性大律师（热度：465493）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%BD%93%E8%A1%97%E8%84%9A%E8%B8%A9%E5%A4%B4%E6%AE%B4%E6%89%93%E5%A4%96%E5%8D%96%E5%B0%8F%E5%93%A5%23" target="weibo">
+女子当街脚踩头殴打外卖小哥（热度：422718）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%93%80%E7%89%A2%E5%B1%B1640%E7%B1%B3%E8%A6%81%E8%B5%B03%E5%B0%8F%E6%97%B6%E4%BB%A5%E4%B8%8A%23" target="weibo">
 哀牢山640米要走3小时以上（热度：422515）
 </a>
@@ -3425,12 +3443,6 @@ offer6带教 香港首位内地女性大律师（热度：465493）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E7%B1%8D%E7%94%B7%E5%AD%90%E5%B0%86%E6%97%A5%E6%9C%AC%E8%80%81%E4%BA%BA%E6%8E%A8%E5%80%92%E8%87%B4%E6%AD%BB%23" target="weibo">
 外籍男子将日本老人推倒致死（热度：415837）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9F%AF%E5%9F%BA%E8%AD%A6%E7%8A%AC%E7%A6%8F%E4%BB%94%E8%BD%AC%E6%AD%A3%E4%BA%86%23" target="weibo">
-柯基警犬福仔转正了（热度：415694）
 </a>
 </li>
 
@@ -3677,6 +3689,12 @@ LNG晋级S14八强（热度：386314）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E9%BE%99%E4%B8%80%E5%88%87%E5%B0%BD%E5%9C%A8%E6%8E%8C%E6%8E%A7%23" target="weibo">
 马龙一切尽在掌控（热度：384839）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A0%E9%94%A1%E8%99%B9%E6%A1%A5%E5%8C%BB%E9%99%A2%E5%85%A8%E9%93%BE%E6%9D%A1%E9%80%A0%E5%81%87%E9%AA%97%E4%BF%9D%23" target="weibo">
+无锡虹桥医院全链条造假骗保（热度：384560）
 </a>
 </li>
 
@@ -4613,12 +4631,6 @@ DK对战LNG（热度：311674）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AC%BC%E7%81%AB%E5%B0%91%E5%B9%B4%E9%9B%86%E4%BD%93%E7%82%B8%E8%A1%97%E8%AD%A6%E6%96%B9%E6%8A%93%E6%8D%95%E5%88%B6%E6%AD%A2%23" target="weibo">
 鬼火少年集体炸街警方抓捕制止（热度：308427）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%BD%93%E8%A1%97%E8%84%9A%E8%B8%A9%E5%A4%B4%E6%AE%B4%E6%89%93%E5%A4%96%E5%8D%96%E5%B0%8F%E5%93%A5%23" target="weibo">
-女子当街脚踩头殴打外卖小哥（热度：308340）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ A股港股冰火两重天（热度：243808）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%BA%94%E4%BA%BA%E6%A0%BC%E9%BB%AF%23" target="weibo">
 第五人格黯（热度：241900）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%9B%9B%E4%B8%96%E4%B8%AD%E5%8D%8E%E5%90%BE%E8%BE%88%E6%9C%89%E5%B9%B8%23" target="weibo">
-盛世中华吾辈有幸（热度：241657）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%BA%86%E5%81%87%E6%9C%9F%E5%80%92%E6%95%B0%E7%AC%AC2%E5%A4%A9%23" target="weibo">
-国庆假期倒数第2天（热度：241099）
 </a>
 </li>
 

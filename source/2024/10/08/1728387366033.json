@@ -1,0 +1,410 @@
+{
+  "runTime": 1728387366033,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6526973,
+        "num": 6526973,
+        "word": "吴邦国同志逝世",
+        "onboard_time": 1728381801,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 860294,
+        "num": 860294,
+        "word": "王楚钦回应失利本雅明",
+        "onboard_time": 1728378020,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 5772,
+        "num": 617764,
+        "word": "文化中国行看寒露节气",
+        "onboard_time": 1728344657,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 489904,
+        "num": 489904,
+        "word": "王楚钦2比3本雅明",
+        "onboard_time": 1728366802,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 474658,
+        "num": 474658,
+        "word": "柯基警犬福仔转正了",
+        "onboard_time": 1728381560,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 384560,
+        "num": 384560,
+        "word": "无锡虹桥医院全链条造假骗保",
+        "onboard_time": 1728385161,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 374435,
+        "num": 374435,
+        "word": "2024年诺贝尔物理学奖揭晓",
+        "onboard_time": 1728382401,
+        "rank": 6,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 321243,
+        "num": 321243,
+        "word": "王楚钦对手本雅明14岁",
+        "onboard_time": 1728366500,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 184766,
+        "num": 321096,
+        "word": "中餐厅考古",
+        "onboard_time": 1728386240,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203150,
+        "num": 320791,
+        "word": "00后入市父母给10万元当学费",
+        "onboard_time": 1728386359,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1927349,
+        "num": 320329,
+        "word": "黄晓明带叶珂参加陈浩民生日会",
+        "onboard_time": 1728382882,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 845317,
+        "num": 319807,
+        "word": "山取颜料师被要求返还矿石",
+        "onboard_time": 1728386420,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 804103,
+        "num": 319382,
+        "word": "下次不准再P了",
+        "onboard_time": 1728383422,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 578535,
+        "num": 319064,
+        "word": "刚工作的00后准备了3万块炒股",
+        "onboard_time": 1728378319,
+        "rank": 13,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 197321,
+        "num": 318709,
+        "word": "林诗栋对手摔拍",
+        "onboard_time": 1728369861,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 565878,
+        "num": 318502,
+        "word": "周冬雨在韩国的人气",
+        "onboard_time": 1728383662,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 508466,
+        "num": 318125,
+        "word": "国家医保局通报无锡虹桥医院调查情况",
+        "onboard_time": 1728384560,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 422718,
+        "num": 317499,
+        "word": "女子当街脚踩头殴打外卖小哥",
+        "onboard_time": 1728383181,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 410369,
+        "num": 317297,
+        "word": "被举报涉强奸中学纪委书记已被抓",
+        "onboard_time": 1728377780,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231843,
+        "num": 316887,
+        "word": "赛螃蟹",
+        "onboard_time": 1728374181,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 368922,
+        "num": 316434,
+        "word": "颜料师未进入哀牢山核心区",
+        "onboard_time": 1728378979,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 316363,
+        "num": 316363,
+        "word": "A股遭遇背刺",
+        "onboard_time": 1728373222,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 314572,
+        "num": 314572,
+        "word": "东北雨姐拍摄基地人去房空",
+        "onboard_time": 1728372021,
+        "rank": 22,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 303730,
+        "num": 303730,
+        "word": "哀牢山父子守山人巡山经常遇见熊",
+        "onboard_time": 1728384982,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 288634,
+        "num": 288634,
+        "word": "网传宁波有人因炒股在商场坠楼不实",
+        "onboard_time": 1728383543,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274220,
+        "num": 274220,
+        "word": "于正 欢娱影视多了一名花旦",
+        "onboard_time": 1728368782,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196956,
+        "num": 220085,
+        "word": "王楚钦3比1阿拉米扬",
+        "onboard_time": 1728373701,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 219137,
+        "num": 219137,
+        "word": "森林进化论2官宣",
+        "onboard_time": 1728384922,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167428,
+        "num": 213382,
+        "word": "从他的27岁走到她的27岁",
+        "onboard_time": 1728372439,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118903,
+        "num": 212957,
+        "word": "高雅cp",
+        "onboard_time": 1728375079,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 212938,
+        "num": 212938,
+        "word": "孙颖莎赛前训练松弛感十足",
+        "onboard_time": 1728385641,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 202165,
+        "num": 202165,
+        "word": "以色列一日内遭三方导弹袭击",
+        "onboard_time": 1728372982,
+        "rank": 31,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 200254,
+        "num": 200254,
+        "word": "田志希2比3巴特拉",
+        "onboard_time": 1728381500,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 198983,
+        "num": 198983,
+        "word": "赵丽颖新片孕妇装",
+        "onboard_time": 1728381920,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 187644,
+        "num": 187644,
+        "word": "时代少年团驻楼剪彩仪式",
+        "onboard_time": 1728387321,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184212,
+        "num": 184212,
+        "word": "伊涅斯塔退役",
+        "onboard_time": 1728386719,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 182134,
+        "num": 182134,
+        "word": "余额宝资金转出提示股票火爆",
+        "onboard_time": 1728375079,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 181511,
+        "num": 181511,
+        "word": "寻儿31年认亲现场父母赠儿百万房产",
+        "onboard_time": 1728385881,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172317,
+        "num": 172317,
+        "word": "我恋6嘉宾返场来了19个人",
+        "onboard_time": 1728386601,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171930,
+        "num": 171930,
+        "word": "这可是你们杭州的女婿",
+        "onboard_time": 1728372921,
+        "rank": 39,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 161372,
+        "num": 161372,
+        "word": "陈赫说黄磊做饭好吃",
+        "onboard_time": 1728364340,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158327,
+        "num": 158327,
+        "word": "申裕斌2比3穆克吉",
+        "onboard_time": 1728378199,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153987,
+        "num": 153987,
+        "word": "森林进化论2",
+        "onboard_time": 1728387080,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146159,
+        "num": 146159,
+        "word": "节后上班第1天",
+        "onboard_time": 1728380120,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144818,
+        "num": 144818,
+        "word": "无锡虹桥医院骗医保基金1179.2万元",
+        "onboard_time": 1728385820,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141184,
+        "num": 141184,
+        "word": "A股",
+        "onboard_time": 1728346401,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 140275,
+        "num": 140275,
+        "word": "印度女团3比2韩国",
+        "onboard_time": 1728387321,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134326,
+        "num": 138992,
+        "word": "诺贝尔物理学奖 计算机",
+        "onboard_time": 1728383662,
+        "rank": 47,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 137917,
+        "num": 137917,
+        "word": "感谢碧昂斯",
+        "onboard_time": 1728377541,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 135034,
+        "num": 135034,
+        "word": "数学史上最难方程究竟有多难",
+        "onboard_time": 1728386301,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#纵横万里固根脉#"
+    }
+  }
+}
