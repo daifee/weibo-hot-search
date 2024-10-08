@@ -1,6 +1,6 @@
 {
   "startTime": 1728404919019,
-  "endTime": 1728418787458,
+  "endTime": 1728419774858,
   "band_list": [
     {
       "raw_hot": 2648229,
@@ -571,12 +571,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 18975,
+      "raw_hot": 19056,
       "num": 31407,
       "word": "外交部谈中国游升温",
       "onboard_time": 1728416051,
       "rank": 29,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 18104,
+      "num": 34387,
+      "word": "日本前首相菅直人宣布退出政坛",
+      "onboard_time": 1728417910,
+      "rank": 9,
+      "category": "国外时政"
     },
     {
       "raw_hot": 14440,
@@ -595,12 +603,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 11762,
-      "num": 34387,
-      "word": "日本前首相菅直人宣布退出政坛",
-      "onboard_time": 1728417910,
-      "rank": 9,
-      "category": "国外时政"
+      "raw_hot": 12075,
+      "num": 31414,
+      "word": "官方回应双层列车为节假日限定",
+      "onboard_time": 1728418813,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 11593,
+      "num": 26509,
+      "word": "纵横万里固根脉",
+      "onboard_time": 1728419711,
+      "rank": 29,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
