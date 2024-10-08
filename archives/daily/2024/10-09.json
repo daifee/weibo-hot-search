@@ -1,6 +1,6 @@
 {
   "startTime": 1728404919019,
-  "endTime": 1728414960055,
+  "endTime": 1728416105248,
   "band_list": [
     {
       "raw_hot": 2648229,
@@ -483,6 +483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 41792,
+      "num": 52156,
+      "word": "美发言人称哈马斯或应出钱重建加沙",
+      "onboard_time": 1728413832,
+      "rank": 9,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 41271,
       "num": 81164,
       "word": "向佐打戏",
@@ -505,6 +513,14 @@
       "onboard_time": 1728411131,
       "rank": 41,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 35215,
+      "num": 31407,
+      "word": "秦昊 付辛博很多年前是厉害的组合",
+      "onboard_time": 1728414551,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 34316,
@@ -547,14 +563,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 26787,
-      "num": 26787,
-      "word": "秦昊 付辛博很多年前是厉害的组合",
-      "onboard_time": 1728414551,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 26739,
       "num": 26739,
       "word": "赵牧辰到底喜欢谁",
@@ -563,12 +571,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 16993,
-      "num": 52156,
-      "word": "美发言人称哈马斯或应出钱重建加沙",
-      "onboard_time": 1728413832,
-      "rank": 9,
-      "category": "国外时政"
+      "raw_hot": 14908,
+      "num": 31407,
+      "word": "外交部谈中国游升温",
+      "onboard_time": 1728416051,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 14440,
+      "num": 39642,
+      "word": "团伙跨省盗取共享单车拆解贩卖",
+      "onboard_time": 1728415332,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 12450,
+      "num": 58171,
+      "word": "这是航天员拍摄的锦绣山河",
+      "onboard_time": 1728401000,
+      "rank": 2,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
