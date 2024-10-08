@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/10/08 17:38:09
+本榜单时间：2024/01/01 00:21:05 ~ 2024/10/08 18:23:44
 </p>
 </blockquote>
 <p>
@@ -1761,6 +1761,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E9%82%A6%E5%9B%BD%E5%90%8C%E5%BF%97%E9%80%9D%E4%B8%96%23" target="weibo">
+吴邦国同志逝世（热度：7728946）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E4%B8%BD%E9%9B%B7%E4%BD%B3%E9%9F%B3%E8%82%96%E6%88%98%20%E8%BA%B2C%E4%BD%8D%23" target="weibo">
 马丽雷佳音肖战 躲C位（热度：7712771）
 </a>
@@ -1805,12 +1811,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%B5%B7%E6%B5%B7%E5%9F%9F4.4%E7%BA%A7%E5%9C%B0%E9%9C%87%23" target="weibo">
 黄海海域4.4级地震（热度：7624726）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%20%E4%B9%94%E6%AC%A3%23" target="weibo">
-白敬亭 乔欣（热度：7597988）
 </a>
 </li>
 

@@ -1,0 +1,410 @@
+{
+  "runTime": 1728383024214,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7728946,
+        "num": 8978946,
+        "word": "吴邦国同志逝世",
+        "onboard_time": 1728381801,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1727698,
+        "num": 1727698,
+        "word": "王楚钦回应失利本雅明",
+        "onboard_time": 1728378020,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 8160,
+        "num": 922159,
+        "word": "文化中国行看寒露节气",
+        "onboard_time": 1728344657,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 763089,
+        "num": 763089,
+        "word": "刚工作的00后准备了3万块炒股",
+        "onboard_time": 1728378319,
+        "rank": 3,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 761883,
+        "num": 761883,
+        "word": "王楚钦2比3本雅明",
+        "onboard_time": 1728366802,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 364984,
+        "num": 364984,
+        "word": "林诗栋对手摔拍",
+        "onboard_time": 1728369861,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 238182,
+        "num": 364702,
+        "word": "朴宰范宁艺卓新歌上线",
+        "onboard_time": 1728380839,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 194409,
+        "num": 362958,
+        "word": "周冬雨的14年在两张封面上具象化了",
+        "onboard_time": 1728381859,
+        "rank": 7,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 108217,
+        "num": 362535,
+        "word": "江苏省公布2024年度社会保险缴费基数",
+        "onboard_time": 1728377719,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206611,
+        "num": 361133,
+        "word": "2024年诺贝尔物理学奖揭晓",
+        "onboard_time": 1728382401,
+        "rank": 9,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 1176662,
+        "num": 359706,
+        "word": "颜料师未进入哀牢山核心区",
+        "onboard_time": 1728378979,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 861519,
+        "num": 358336,
+        "word": "被举报涉强奸中学纪委书记已被抓",
+        "onboard_time": 1728377780,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 573537,
+        "num": 356873,
+        "word": "A股遭遇背刺",
+        "onboard_time": 1728373222,
+        "rank": 12,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 542004,
+        "num": 355488,
+        "word": "于正 欢娱影视多了一名花旦",
+        "onboard_time": 1728368782,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 400134,
+        "num": 354600,
+        "word": "这可是你们杭州的女婿",
+        "onboard_time": 1728372921,
+        "rank": 14,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 354059,
+        "num": 354059,
+        "word": "以色列一日内遭三方导弹袭击",
+        "onboard_time": 1728372982,
+        "rank": 15,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 339033,
+        "num": 339033,
+        "word": "来福士",
+        "onboard_time": 1728375561,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 330159,
+        "num": 330159,
+        "word": "小女孩景区走失抱紧武警大腿求救",
+        "onboard_time": 1728375680,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 302922,
+        "num": 302922,
+        "word": "赵丽颖新片孕妇装",
+        "onboard_time": 1728381920,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 295477,
+        "num": 295477,
+        "word": "赛螃蟹",
+        "onboard_time": 1728374181,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 874322,
+        "num": 284059,
+        "word": "东北雨姐拍摄基地人去房空",
+        "onboard_time": 1728372021,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 383170,
+        "num": 278604,
+        "word": "陈赫说黄磊做饭好吃",
+        "onboard_time": 1728364340,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 313882,
+        "num": 276682,
+        "word": "余额宝资金转出提示股票火爆",
+        "onboard_time": 1728375079,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 268375,
+        "num": 268375,
+        "word": "王楚钦3比1阿拉米扬",
+        "onboard_time": 1728373701,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 267932,
+        "num": 267932,
+        "word": "节后上班第1天",
+        "onboard_time": 1728380120,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 259389,
+        "num": 259389,
+        "word": "感谢碧昂斯",
+        "onboard_time": 1728377541,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 256537,
+        "num": 256537,
+        "word": "孙乐言 恋爱脑",
+        "onboard_time": 1728378440,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 255152,
+        "num": 255152,
+        "word": "王楚钦对手本雅明14岁",
+        "onboard_time": 1728366500,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 234870,
+        "num": 234870,
+        "word": "从他的27岁走到她的27岁",
+        "onboard_time": 1728372439,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 223425,
+        "num": 223425,
+        "word": "王楚钦说输球原因在于自己",
+        "onboard_time": 1728378319,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 216186,
+        "num": 216186,
+        "word": "黄晓明带叶珂参加陈浩民生日会",
+        "onboard_time": 1728382882,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212589,
+        "num": 212589,
+        "word": "A股",
+        "onboard_time": 1728346401,
+        "rank": 31,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 206554,
+        "num": 206554,
+        "word": "王楚钦喊出来了",
+        "onboard_time": 1728380239,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 187396,
+        "num": 204474,
+        "word": "于正签的新人是张石头",
+        "onboard_time": 1728371182,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204093,
+        "num": 204093,
+        "word": "张石头是大学老师",
+        "onboard_time": 1728379760,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188068,
+        "num": 188068,
+        "word": "张朝阳读书效率为何那么高",
+        "onboard_time": 1728382762,
+        "rank": 35,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 187982,
+        "num": 187982,
+        "word": "四川警方通报女子称被强奸未遂",
+        "onboard_time": 1728379220,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182710,
+        "num": 182710,
+        "word": "申裕斌2比3穆克吉",
+        "onboard_time": 1728378199,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 179854,
+        "num": 179854,
+        "word": "日本男团止步亚锦赛八强",
+        "onboard_time": 1728378801,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 179074,
+        "num": 179074,
+        "word": "田志希2比3巴特拉",
+        "onboard_time": 1728381500,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 178559,
+        "num": 178559,
+        "word": "看完749开始怀疑自己的宠物",
+        "onboard_time": 1728379039,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 161041,
+        "num": 161041,
+        "word": "国庆假期国内出游7.65亿人次",
+        "onboard_time": 1728372560,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159945,
+        "num": 159945,
+        "word": "鹿晗关晓彤官宣恋情七周年",
+        "onboard_time": 1728345920,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107870,
+        "num": 158782,
+        "word": "大熊猫一不小心生了个mini版的自己",
+        "onboard_time": 1728382821,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158522,
+        "num": 158522,
+        "word": "张石头",
+        "onboard_time": 1728372501,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158064,
+        "num": 158064,
+        "word": "柯基警犬福仔转正了",
+        "onboard_time": 1728381560,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150092,
+        "num": 150092,
+        "word": "今天A股创造了这些历史",
+        "onboard_time": 1728378801,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 144903,
+        "num": 144903,
+        "word": "李恩惠3比0阿库拉",
+        "onboard_time": 1728382943,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 138204,
+        "num": 138204,
+        "word": "外媒曝乌克兰闭门讨论出让部分领土",
+        "onboard_time": 1728373283,
+        "rank": 48,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 135360,
+        "num": 135360,
+        "word": "男子捉奸收补偿被控敲诈案改判无罪",
+        "onboard_time": 1728370223,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#纵横万里固根脉#"
+    }
+  }
+}

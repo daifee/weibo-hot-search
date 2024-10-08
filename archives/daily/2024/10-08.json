@@ -1,6 +1,6 @@
 {
   "startTime": 1728318463808,
-  "endTime": 1728380289994,
+  "endTime": 1728383024214,
   "band_list": [
     {
       "raw_hot": 10133581,
@@ -9,6 +9,14 @@
       "onboard_time": 1728366802,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 7728946,
+      "num": 8978946,
+      "word": "吴邦国同志逝世",
+      "onboard_time": 1728381801,
+      "rank": 0,
+      "category": "国内时政"
     },
     {
       "raw_hot": 3580252,
@@ -163,6 +171,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1176662,
+      "num": 359706,
+      "word": "颜料师未进入哀牢山核心区",
+      "onboard_time": 1728378979,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1160288,
       "num": 1117476,
       "word": "林诗栋对手摔拍",
@@ -291,12 +307,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 874322,
+      "num": 553155,
+      "word": "东北雨姐拍摄基地人去房空",
+      "onboard_time": 1728372021,
+      "rank": 33,
+      "category": "网红"
+    },
+    {
       "raw_hot": 869925,
       "num": 869925,
       "word": "国乒男团3比1伊朗",
       "onboard_time": 1728373341,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 861519,
+      "num": 358336,
+      "word": "被举报涉强奸中学纪委书记已被抓",
+      "onboard_time": 1728377780,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 821569,
@@ -329,6 +361,14 @@
       "onboard_time": 1728350419,
       "rank": 17,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 763089,
+      "num": 763089,
+      "word": "刚工作的00后准备了3万块炒股",
+      "onboard_time": 1728378319,
+      "rank": 27,
+      "category": "财经"
     },
     {
       "raw_hot": 732470,
@@ -483,14 +523,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 553155,
-      "num": 553155,
-      "word": "东北雨姐拍摄基地人去房空",
-      "onboard_time": 1728372021,
-      "rank": 33,
-      "category": "网红"
-    },
-    {
       "raw_hot": 549605,
       "num": 430762,
       "word": "王楚钦主动指出擦网重发",
@@ -537,14 +569,6 @@
       "onboard_time": 1728343516,
       "rank": 3,
       "category": "情感"
-    },
-    {
-      "raw_hot": 489434,
-      "num": 347941,
-      "word": "被举报涉强奸中学纪委书记已被抓",
-      "onboard_time": 1728377780,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 485265,
@@ -827,14 +851,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 330146,
-      "num": 330146,
-      "word": "刚工作的00后准备了3万块炒股",
-      "onboard_time": 1728378319,
-      "rank": 27,
-      "category": "财经"
-    },
-    {
       "raw_hot": 328672,
       "num": 410631,
       "word": "文泰一事件受害者是外国女性",
@@ -849,14 +865,6 @@
       "onboard_time": 1728377541,
       "rank": 25,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 327245,
-      "num": 327245,
-      "word": "颜料师未进入哀牢山核心区",
-      "onboard_time": 1728378979,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 325678,
@@ -929,6 +937,14 @@
       "onboard_time": 1728364460,
       "rank": 10,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 302922,
+      "num": 302922,
+      "word": "赵丽颖新片孕妇装",
+      "onboard_time": 1728381920,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 296593,
@@ -1035,6 +1051,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 267932,
+      "num": 267932,
+      "word": "节后上班第1天",
+      "onboard_time": 1728380120,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 267614,
       "num": 267614,
       "word": "王楚钦赛后复盘",
@@ -1123,6 +1147,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 238182,
+      "num": 364702,
+      "word": "朴宰范宁艺卓新歌上线",
+      "onboard_time": 1728380839,
+      "rank": 6,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 237310,
       "num": 237310,
       "word": "王曼昱世界排名上升至第2",
@@ -1203,6 +1235,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 216186,
+      "num": 216186,
+      "word": "黄晓明带叶珂参加陈浩民生日会",
+      "onboard_time": 1728382882,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 215403,
       "num": 215403,
       "word": "韩安冉回应宋浩然过度劳累入院",
@@ -1251,12 +1291,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 206611,
+      "num": 361133,
+      "word": "2024年诺贝尔物理学奖揭晓",
+      "onboard_time": 1728382401,
+      "rank": 9,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 206554,
+      "num": 206554,
+      "word": "王楚钦喊出来了",
+      "onboard_time": 1728380239,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 206259,
       "num": 206259,
       "word": "我给十几年前看过的小说写歌了",
       "onboard_time": 1728359000,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 204093,
+      "num": 204093,
+      "word": "张石头是大学老师",
+      "onboard_time": 1728379760,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 203812,
@@ -1363,6 +1427,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 194409,
+      "num": 362958,
+      "word": "周冬雨的14年在两张封面上具象化了",
+      "onboard_time": 1728381859,
+      "rank": 7,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 193419,
       "num": 193419,
       "word": "半导体",
@@ -1409,6 +1481,22 @@
       "onboard_time": 1728364699,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 188068,
+      "num": 188068,
+      "word": "张朝阳读书效率为何那么高",
+      "onboard_time": 1728382762,
+      "rank": 35,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 187982,
+      "num": 398148,
+      "word": "四川警方通报女子称被强奸未遂",
+      "onboard_time": 1728379220,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 186193,
@@ -1491,6 +1579,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 179074,
+      "num": 179074,
+      "word": "田志希2比3巴特拉",
+      "onboard_time": 1728381500,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 177699,
       "num": 177699,
       "word": "成龙已经70岁了",
@@ -1553,14 +1649,6 @@
       "onboard_time": 1728366500,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 171097,
-      "num": 171097,
-      "word": "张石头是大学老师",
-      "onboard_time": 1728379760,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 170580,
@@ -1723,6 +1811,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 158064,
+      "num": 158064,
+      "word": "柯基警犬福仔转正了",
+      "onboard_time": 1728381560,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 157707,
       "num": 157707,
       "word": "A股大涨你回本了吗",
@@ -1764,7 +1860,7 @@
     },
     {
       "raw_hot": 153431,
-      "num": 866087,
+      "num": 922159,
       "word": "文化中国行看寒露节气",
       "onboard_time": 1728344657,
       "rank": 38,
@@ -1827,11 +1923,11 @@
       "category": "财经"
     },
     {
-      "raw_hot": 145378,
-      "num": 145378,
-      "word": "王楚钦喊出来了",
-      "onboard_time": 1728380239,
-      "rank": 46,
+      "raw_hot": 144903,
+      "num": 144903,
+      "word": "李恩惠3比0阿库拉",
+      "onboard_time": 1728382943,
+      "rank": 47,
       "category": "体育"
     },
     {
@@ -1956,7 +2052,7 @@
     },
     {
       "raw_hot": 125519,
-      "num": 162978,
+      "num": 362535,
       "word": "江苏省公布2024年度社会保险缴费基数",
       "onboard_time": 1728377719,
       "rank": 41,
@@ -2059,6 +2155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 107870,
+      "num": 158782,
+      "word": "大熊猫一不小心生了个mini版的自己",
+      "onboard_time": 1728382821,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 104319,
       "num": 126954,
       "word": "返校车厢里全是碎掉的大学生",
@@ -2096,14 +2200,6 @@
       "word": "星空下科考队冲顶画面太燃了",
       "onboard_time": 1728316519,
       "rank": 27,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 96873,
-      "num": 196927,
-      "word": "节后上班第1天",
-      "onboard_time": 1728380120,
-      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -2329,14 +2425,6 @@
       "onboard_time": 1728298585,
       "rank": 45,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 66588,
-      "num": 398148,
-      "word": "四川警方通报女子称被强奸未遂",
-      "onboard_time": 1728379220,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 65625,
