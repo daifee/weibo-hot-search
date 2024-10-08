@@ -1,6 +1,6 @@
 {
   "startTime": 1728145573126,
-  "endTime": 1728356177501,
+  "endTime": 1728356717860,
   "band_list": [
     {
       "raw_hot": 8274483,
@@ -97,6 +97,14 @@
       "onboard_time": 1728290184,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 2096595,
+      "num": 2096595,
+      "word": "A股成交再创历史最快万亿纪录",
+      "onboard_time": 1728352340,
+      "rank": 0,
+      "category": "财经"
     },
     {
       "raw_hot": 1906437,
@@ -316,7 +324,7 @@
     },
     {
       "raw_hot": 1142673,
-      "num": 377629,
+      "num": 397117,
       "word": "鹿晗关晓彤官宣恋情七周年",
       "onboard_time": 1728345920,
       "rank": 20,
@@ -345,6 +353,14 @@
       "onboard_time": 1728347481,
       "rank": 1,
       "category": "财经"
+    },
+    {
+      "raw_hot": 1064781,
+      "num": 710715,
+      "word": "王楚钦积分7825世排第一",
+      "onboard_time": 1728352579,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 1062656,
@@ -379,14 +395,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1037628,
-      "num": 710715,
-      "word": "王楚钦积分7825世排第一",
-      "onboard_time": 1728352579,
-      "rank": 26,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1023363,
       "num": 375882,
       "word": "刘烨疑似失去所有力气和手段",
@@ -412,7 +420,7 @@
     },
     {
       "raw_hot": 1019348,
-      "num": 639713,
+      "num": 641902,
       "word": "曝侃爷分手",
       "onboard_time": 1728347542,
       "rank": 11,
@@ -456,6 +464,14 @@
       "word": "12306客服回应火车票买长乘短",
       "onboard_time": 1728215120,
       "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 981891,
+      "num": 981891,
+      "word": "儿子参与鬼火少年炸街被父亲暴揍",
+      "onboard_time": 1728353179,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -507,6 +523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 900041,
+      "num": 900041,
+      "word": "发改委介绍一揽子增量政策有关情况",
+      "onboard_time": 1728353419,
+      "rank": 5,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 867764,
       "num": 363451,
       "word": "何炅再度呼喊超女快女的名字",
@@ -521,14 +545,6 @@
       "onboard_time": 1728194778,
       "rank": 10,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 838770,
-      "num": 838770,
-      "word": "儿子参与鬼火少年炸街被父亲暴揍",
-      "onboard_time": 1728353179,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 832836,
@@ -547,11 +563,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 826378,
-      "num": 826378,
-      "word": "发改委介绍一揽子增量政策有关情况",
-      "onboard_time": 1728353419,
-      "rank": 5,
+      "raw_hot": 817992,
+      "num": 817992,
+      "word": "国新办新闻发布会",
+      "onboard_time": 1728353360,
+      "rank": 6,
       "category": "国内时政"
     },
     {
@@ -569,14 +585,6 @@
       "onboard_time": 1728186739,
       "rank": 20,
       "category": "电影"
-    },
-    {
-      "raw_hot": 798996,
-      "num": 798996,
-      "word": "国新办新闻发布会",
-      "onboard_time": 1728353360,
-      "rank": 6,
-      "category": "国内时政"
     },
     {
       "raw_hot": 792410,
@@ -1020,7 +1028,7 @@
     },
     {
       "raw_hot": 554365,
-      "num": 371161,
+      "num": 385099,
       "word": "怎么看待10点这场国新办发布会",
       "onboard_time": 1728354078,
       "rank": 22,
@@ -1139,6 +1147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 485265,
+      "num": 485265,
+      "word": "专家称A股将迎大涨大波动大分化",
+      "onboard_time": 1728351679,
+      "rank": 48,
+      "category": "财经"
+    },
+    {
       "raw_hot": 481420,
       "num": 1077027,
       "word": "开始听反方向的钟了",
@@ -1152,6 +1168,14 @@
       "word": "外国小朋友在中国吃嗨了",
       "onboard_time": 1728202518,
       "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 478646,
+      "num": 478646,
+      "word": "地震预警",
+      "onboard_time": 1728355400,
+      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -1203,6 +1227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 461038,
+      "num": 461038,
+      "word": "A股大幅高开后回落",
+      "onboard_time": 1728356000,
+      "rank": 33,
+      "category": "财经"
+    },
+    {
       "raw_hot": 450887,
       "num": 450887,
       "word": "因狗结缘成为朋友因狗生病反目",
@@ -1249,6 +1281,14 @@
       "onboard_time": 1728257417,
       "rank": 19,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 431485,
+      "num": 797437,
+      "word": "锦绣安宁定档",
+      "onboard_time": 1728354078,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 431178,
@@ -1307,14 +1347,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 421899,
-      "num": 797437,
-      "word": "锦绣安宁定档",
-      "onboard_time": 1728354078,
-      "rank": 7,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 421343,
       "num": 273534,
       "word": "颜料公司回应哀牢山取材视频爆火",
@@ -1324,7 +1356,7 @@
     },
     {
       "raw_hot": 418965,
-      "num": 294313,
+      "num": 297830,
       "word": "9种食物几乎没有保质期",
       "onboard_time": 1728346102,
       "rank": 21,
@@ -1435,14 +1467,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 392142,
-      "num": 392142,
-      "word": "专家称A股将迎大涨大波动大分化",
-      "onboard_time": 1728351679,
-      "rank": 48,
-      "category": "财经"
-    },
-    {
       "raw_hot": 391971,
       "num": 391971,
       "word": "阿勒泰的羊羊也太蓬了吧",
@@ -1452,7 +1476,7 @@
     },
     {
       "raw_hot": 389121,
-      "num": 389121,
+      "num": 702914,
       "word": "港股",
       "onboard_time": 1728265818,
       "rank": 3,
@@ -1723,14 +1747,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 339679,
-      "num": 339679,
-      "word": "地震预警",
-      "onboard_time": 1728355400,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 339467,
       "num": 363487,
       "word": "为什么假期一眨眼就结束了",
@@ -1793,6 +1809,14 @@
       "onboard_time": 1728267678,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 328672,
+      "num": 410631,
+      "word": "文泰一事件受害者是外国女性",
+      "onboard_time": 1728354320,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 325436,
@@ -1865,6 +1889,14 @@
       "onboard_time": 1728173837,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 314329,
+      "num": 314329,
+      "word": "跳水",
+      "onboard_time": 1728355820,
+      "rank": 34,
+      "category": "财经"
     },
     {
       "raw_hot": 312780,
@@ -2003,20 +2035,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 293284,
-      "num": 390466,
-      "word": "文泰一事件受害者是外国女性",
-      "onboard_time": 1728354320,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 293268,
       "num": 224668,
       "word": "孙颖莎说和王曼昱是良性竞争",
       "onboard_time": 1728283698,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 291319,
+      "num": 291319,
+      "word": "青川地震",
+      "onboard_time": 1728355279,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 291039,
@@ -2089,6 +2121,22 @@
       "onboard_time": 1728307882,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 279889,
+      "num": 279889,
+      "word": "马龙排名",
+      "onboard_time": 1728355940,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 279725,
+      "num": 279725,
+      "word": "加沙死者三分之一是儿童",
+      "onboard_time": 1728352161,
+      "rank": 40,
+      "category": "国外时政"
     },
     {
       "raw_hot": 279693,
@@ -2243,14 +2291,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 260238,
-      "num": 260238,
-      "word": "青川地震",
-      "onboard_time": 1728355279,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 258542,
       "num": 795476,
       "word": "再过85天就又能过元旦了",
@@ -2355,14 +2395,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 246591,
-      "num": 246591,
-      "word": "加沙死者三分之一是儿童",
-      "onboard_time": 1728352161,
-      "rank": 40,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 245650,
       "num": 245650,
       "word": "TES对战FNC",
@@ -2403,6 +2435,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 238509,
+      "num": 238509,
+      "word": "无限暖暖",
+      "onboard_time": 1728356000,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 238349,
+      "num": 238349,
+      "word": "张婧仪Burberry品牌大使",
+      "onboard_time": 1728356659,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 238216,
       "num": 238216,
       "word": "孙颖莎王曼昱相持好精彩",
@@ -2425,6 +2473,14 @@
       "onboard_time": 1728294563,
       "rank": 15,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 237310,
+      "num": 237310,
+      "word": "王曼昱世界排名上升至第2",
+      "onboard_time": 1728355820,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 236667,
@@ -2555,6 +2611,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 224173,
+      "num": 405452,
+      "word": "权志龙10月25日回归",
+      "onboard_time": 1728355879,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 222536,
       "num": 230227,
       "word": "张远说爱情需要反证",
@@ -2675,14 +2739,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 215830,
-      "num": 215830,
-      "word": "马龙排名",
-      "onboard_time": 1728355940,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
       "raw_hot": 215253,
       "num": 215253,
       "word": "张雨绮复刻MaggieQ红裙造型",
@@ -2713,14 +2769,6 @@
       "onboard_time": 1728210919,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 214365,
-      "num": 214365,
-      "word": "A股大幅高开后回落",
-      "onboard_time": 1728356000,
-      "rank": 33,
-      "category": "财经"
     },
     {
       "raw_hot": 214172,
@@ -2769,14 +2817,6 @@
       "onboard_time": 1728218001,
       "rank": 37,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 209703,
-      "num": 209703,
-      "word": "跳水",
-      "onboard_time": 1728355820,
-      "rank": 34,
-      "category": "财经"
     },
     {
       "raw_hot": 209510,
@@ -2899,6 +2939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 203377,
+      "num": 203377,
+      "word": "高开低走",
+      "onboard_time": 1728356239,
+      "rank": 38,
+      "category": "财经"
+    },
+    {
       "raw_hot": 202927,
       "num": 202927,
       "word": "隰县文旅局回应举全县之力接待游客",
@@ -2987,6 +3035,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 198040,
+      "num": 198040,
+      "word": "全市场仅5只个股下跌",
+      "onboard_time": 1728356540,
+      "rank": 39,
+      "category": "财经"
+    },
+    {
       "raw_hot": 197997,
       "num": 197997,
       "word": "沪指高开10.13%",
@@ -3051,6 +3107,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 193419,
+      "num": 193419,
+      "word": "半导体",
+      "onboard_time": 1728356358,
+      "rank": 42,
+      "category": "财经"
+    },
+    {
       "raw_hot": 193400,
       "num": 193400,
       "word": "美联储亏损已破2000亿美元",
@@ -3099,22 +3163,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 192401,
-      "num": 192401,
-      "word": "无限暖暖",
-      "onboard_time": 1728356000,
-      "rank": 36,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 191943,
-      "num": 342830,
-      "word": "权志龙10月25日回归",
-      "onboard_time": 1728355879,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 191884,
       "num": 191884,
       "word": "檀健次真的唱了朝夕",
@@ -3153,14 +3201,6 @@
       "onboard_time": 1728221659,
       "rank": 38,
       "category": "财经"
-    },
-    {
-      "raw_hot": 189756,
-      "num": 189756,
-      "word": "王曼昱世界排名上升至第2",
-      "onboard_time": 1728355820,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 188529,
@@ -3355,6 +3395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 179123,
+      "num": 179123,
+      "word": "骁龙",
+      "onboard_time": 1728356120,
+      "rank": 49,
+      "category": "数码"
+    },
+    {
       "raw_hot": 179055,
       "num": 179055,
       "word": "林俊杰的钢琴",
@@ -3409,6 +3457,14 @@
       "onboard_time": 1728308241,
       "rank": 39,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 175303,
+      "num": 175303,
+      "word": "恒生科技指数跌幅扩大至超7%",
+      "onboard_time": 1728356177,
+      "rank": 45,
+      "category": "财经"
     },
     {
       "raw_hot": 175175,
@@ -3497,6 +3553,14 @@
       "onboard_time": 1728217760,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 170580,
+      "num": 170580,
+      "word": "金融管理部门已进行窗口指导",
+      "onboard_time": 1728356177,
+      "rank": 46,
+      "category": "财经"
     },
     {
       "raw_hot": 170443,
@@ -3819,14 +3883,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 156691,
-      "num": 156691,
-      "word": "骁龙",
-      "onboard_time": 1728356120,
-      "rank": 49,
-      "category": "数码"
-    },
-    {
       "raw_hot": 156680,
       "num": 156680,
       "word": "周深正是藏不住惊喜的年纪",
@@ -3961,6 +4017,14 @@
       "onboard_time": 1728210019,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 152586,
+      "num": 738666,
+      "word": "寒露节气不再适合秋冻",
+      "onboard_time": 1728351140,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 152307,
@@ -4233,6 +4297,14 @@
       "onboard_time": 1728274458,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 143809,
+      "num": 404649,
+      "word": "中国将紧急向黎巴嫩提供医疗物资",
+      "onboard_time": 1728356540,
+      "rank": 19,
+      "category": "国外时政"
     },
     {
       "raw_hot": 143553,
@@ -4897,14 +4969,6 @@
       "onboard_time": 1728192499,
       "rank": 17,
       "category": "电影"
-    },
-    {
-      "raw_hot": 117942,
-      "num": 738666,
-      "word": "寒露节气不再适合秋冻",
-      "onboard_time": 1728351140,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 117564,
@@ -5665,6 +5729,14 @@
       "onboard_time": 1728179598,
       "rank": 24,
       "category": "电影"
+    },
+    {
+      "raw_hot": 93462,
+      "num": 193692,
+      "word": "中国航天68岁生日快乐",
+      "onboard_time": 1728355701,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 93215,
@@ -6585,6 +6657,14 @@
       "onboard_time": 1728235337,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 36987,
+      "num": 193468,
+      "word": "成毅奔赴自然",
+      "onboard_time": 1728356540,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 36911,

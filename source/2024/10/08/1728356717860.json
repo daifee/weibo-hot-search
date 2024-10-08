@@ -1,0 +1,410 @@
+{
+  "runTime": 1728356717860,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2096595,
+        "num": 2096595,
+        "word": "A股成交再创历史最快万亿纪录",
+        "onboard_time": 1728352340,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1692238,
+        "num": 1692238,
+        "word": "A股",
+        "onboard_time": 1728346401,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 12529,
+        "num": 1095797,
+        "word": "国庆文旅图景尽显活力中国",
+        "onboard_time": 1728304823,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 981891,
+        "num": 981891,
+        "word": "儿子参与鬼火少年炸街被父亲暴揍",
+        "onboard_time": 1728353179,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 900041,
+        "num": 900041,
+        "word": "发改委介绍一揽子增量政策有关情况",
+        "onboard_time": 1728353419,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 832200,
+        "num": 832200,
+        "word": "孙颖莎10800分世排断层第一",
+        "onboard_time": 1728350178,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 817992,
+        "num": 817992,
+        "word": "国新办新闻发布会",
+        "onboard_time": 1728353360,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 431485,
+        "num": 795360,
+        "word": "锦绣安宁定档",
+        "onboard_time": 1728354078,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 336507,
+        "num": 756882,
+        "word": "国庆档新片票房TOP3",
+        "onboard_time": 1728354560,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 41410,
+        "num": 702914,
+        "word": "港股",
+        "onboard_time": 1728265818,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1064781,
+        "num": 689424,
+        "word": "王楚钦积分7825世排第一",
+        "onboard_time": 1728352579,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 654961,
+        "num": 654961,
+        "word": "基金",
+        "onboard_time": 1728353479,
+        "rank": 11,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 641902,
+        "num": 641902,
+        "word": "曝侃爷分手",
+        "onboard_time": 1728347542,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 569392,
+        "num": 569392,
+        "word": "加沙女童说我们只是在等死",
+        "onboard_time": 1728352401,
+        "rank": 13,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 485265,
+        "num": 485265,
+        "word": "专家称A股将迎大涨大波动大分化",
+        "onboard_time": 1728351679,
+        "rank": 14,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 478646,
+        "num": 478646,
+        "word": "地震预警",
+        "onboard_time": 1728355400,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 461038,
+        "num": 461038,
+        "word": "A股大幅高开后回落",
+        "onboard_time": 1728356000,
+        "rank": 16,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 328672,
+        "num": 410631,
+        "word": "文泰一事件受害者是外国女性",
+        "onboard_time": 1728354320,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 224173,
+        "num": 405452,
+        "word": "权志龙10月25日回归",
+        "onboard_time": 1728355879,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143809,
+        "num": 404649,
+        "word": "中国将紧急向黎巴嫩提供医疗物资",
+        "onboard_time": 1728356540,
+        "rank": 19,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 404312,
+        "num": 404312,
+        "word": "A股逼近涨停开盘",
+        "onboard_time": 1728351019,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 712772,
+        "num": 397117,
+        "word": "鹿晗关晓彤官宣恋情七周年",
+        "onboard_time": 1728345920,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 619426,
+        "num": 387259,
+        "word": "监控16小时记录哀牢山里究竟有什么",
+        "onboard_time": 1728350419,
+        "rank": 22,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 538669,
+        "num": 385099,
+        "word": "怎么看待10点这场国新办发布会",
+        "onboard_time": 1728354078,
+        "rank": 23,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 360953,
+        "num": 360953,
+        "word": "权志龙疑似扔了郎朗的签名专辑",
+        "onboard_time": 1728308721,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 324116,
+        "num": 324116,
+        "word": "林诗栋世界排名上升至第3",
+        "onboard_time": 1728352699,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 322449,
+        "num": 322449,
+        "word": "股价大涨上市公司股东扎堆减持",
+        "onboard_time": 1728347481,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 314329,
+        "num": 314329,
+        "word": "跳水",
+        "onboard_time": 1728355820,
+        "rank": 27,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 297830,
+        "num": 297830,
+        "word": "9种食物几乎没有保质期",
+        "onboard_time": 1728346102,
+        "rank": 28,
+        "category": "社会新闻,健康医疗"
+      },
+      {
+        "raw_hot": 143863,
+        "num": 292455,
+        "word": "张晚意任敏锦绣安宁定档海报",
+        "onboard_time": 1728354918,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 291319,
+        "num": 291319,
+        "word": "青川地震",
+        "onboard_time": 1728355279,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 279889,
+        "num": 279889,
+        "word": "马龙排名",
+        "onboard_time": 1728355940,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 279725,
+        "num": 279725,
+        "word": "加沙死者三分之一是儿童",
+        "onboard_time": 1728352161,
+        "rank": 32,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 256708,
+        "num": 256708,
+        "word": "股市",
+        "onboard_time": 1728347481,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 238509,
+        "num": 238509,
+        "word": "无限暖暖",
+        "onboard_time": 1728356000,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 152586,
+        "num": 238410,
+        "word": "寒露节气不再适合秋冻",
+        "onboard_time": 1728351140,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238349,
+        "num": 238349,
+        "word": "张婧仪Burberry品牌大使",
+        "onboard_time": 1728356659,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 237310,
+        "num": 237310,
+        "word": "王曼昱世界排名上升至第2",
+        "onboard_time": 1728355820,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 203377,
+        "num": 203377,
+        "word": "高开低走",
+        "onboard_time": 1728356239,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 198040,
+        "num": 198040,
+        "word": "全市场仅5只个股下跌",
+        "onboard_time": 1728356540,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 93462,
+        "num": 193692,
+        "word": "中国航天68岁生日快乐",
+        "onboard_time": 1728355701,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36987,
+        "num": 193468,
+        "word": "成毅奔赴自然",
+        "onboard_time": 1728356540,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193419,
+        "num": 193419,
+        "word": "半导体",
+        "onboard_time": 1728356358,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 189401,
+        "num": 189401,
+        "word": "仅20分钟A股成交额突破1万亿",
+        "onboard_time": 1728353539,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 179123,
+        "num": 179123,
+        "word": "骁龙",
+        "onboard_time": 1728356120,
+        "rank": 44,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 175303,
+        "num": 175303,
+        "word": "恒生科技指数跌幅扩大至超7%",
+        "onboard_time": 1728356177,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 170580,
+        "num": 170580,
+        "word": "金融管理部门已进行窗口指导",
+        "onboard_time": 1728356177,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 106404,
+        "num": 170266,
+        "word": "于适游玩阿勒泰vlog",
+        "onboard_time": 1728345078,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170134,
+        "num": 170134,
+        "word": "24节气第一个带寒的节气",
+        "onboard_time": 1728347902,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162789,
+        "num": 162789,
+        "word": "李敏镐37岁的状态",
+        "onboard_time": 1728311363,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#75秒看见人民共和国75年跨越#"
+    }
+  }
+}

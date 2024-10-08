@@ -1,6 +1,6 @@
 {
   "startTime": 1728318463808,
-  "endTime": 1728356177501,
+  "endTime": 1728356717860,
   "band_list": [
     {
       "raw_hot": 3580252,
@@ -27,6 +27,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 2096595,
+      "num": 2096595,
+      "word": "A股成交再创历史最快万亿纪录",
+      "onboard_time": 1728352340,
+      "rank": 0,
+      "category": "财经"
+    },
+    {
       "raw_hot": 1398043,
       "num": 1398043,
       "word": "孙颖莎10800分世排断层第一",
@@ -36,7 +44,7 @@
     },
     {
       "raw_hot": 1142673,
-      "num": 377629,
+      "num": 397117,
       "word": "鹿晗关晓彤官宣恋情七周年",
       "onboard_time": 1728345920,
       "rank": 20,
@@ -51,7 +59,7 @@
       "category": "财经"
     },
     {
-      "raw_hot": 1037628,
+      "raw_hot": 1064781,
       "num": 710715,
       "word": "王楚钦积分7825世排第一",
       "onboard_time": 1728352579,
@@ -68,23 +76,23 @@
     },
     {
       "raw_hot": 1019348,
-      "num": 639713,
+      "num": 641902,
       "word": "曝侃爷分手",
       "onboard_time": 1728347542,
       "rank": 11,
       "category": "艺人"
     },
     {
-      "raw_hot": 838770,
-      "num": 838770,
+      "raw_hot": 981891,
+      "num": 981891,
       "word": "儿子参与鬼火少年炸街被父亲暴揍",
       "onboard_time": 1728353179,
       "rank": 4,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 826378,
-      "num": 826378,
+      "raw_hot": 900041,
+      "num": 900041,
       "word": "发改委介绍一揽子增量政策有关情况",
       "onboard_time": 1728353419,
       "rank": 5,
@@ -99,8 +107,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 798996,
-      "num": 798996,
+      "raw_hot": 817992,
+      "num": 817992,
       "word": "国新办新闻发布会",
       "onboard_time": 1728353360,
       "rank": 6,
@@ -180,7 +188,7 @@
     },
     {
       "raw_hot": 554365,
-      "num": 371161,
+      "num": 385099,
       "word": "怎么看待10点这场国新办发布会",
       "onboard_time": 1728354078,
       "rank": 22,
@@ -203,6 +211,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 485265,
+      "num": 485265,
+      "word": "专家称A股将迎大涨大波动大分化",
+      "onboard_time": 1728351679,
+      "rank": 48,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 478646,
+      "num": 478646,
+      "word": "地震预警",
+      "onboard_time": 1728355400,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 477524,
       "num": 477524,
       "word": "aespa",
@@ -219,6 +243,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 461038,
+      "num": 461038,
+      "word": "A股大幅高开后回落",
+      "onboard_time": 1728356000,
+      "rank": 33,
+      "category": "财经"
+    },
+    {
       "raw_hot": 443688,
       "num": 196242,
       "word": "余华英拐走12个家庭的17个孩子",
@@ -227,7 +259,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 421899,
+      "raw_hot": 431485,
       "num": 797437,
       "word": "锦绣安宁定档",
       "onboard_time": 1728354078,
@@ -236,7 +268,7 @@
     },
     {
       "raw_hot": 418965,
-      "num": 294313,
+      "num": 297830,
       "word": "9种食物几乎没有保质期",
       "onboard_time": 1728346102,
       "rank": 21,
@@ -257,14 +289,6 @@
       "onboard_time": 1728321075,
       "rank": 9,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 392142,
-      "num": 392142,
-      "word": "专家称A股将迎大涨大波动大分化",
-      "onboard_time": 1728351679,
-      "rank": 48,
-      "category": "财经"
     },
     {
       "raw_hot": 387253,
@@ -339,12 +363,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 339679,
-      "num": 339679,
-      "word": "地震预警",
-      "onboard_time": 1728355400,
-      "rank": 25,
-      "category": "社会新闻"
+      "raw_hot": 328672,
+      "num": 410631,
+      "word": "文泰一事件受害者是外国女性",
+      "onboard_time": 1728354320,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 325436,
@@ -355,6 +379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 314329,
+      "num": 314329,
+      "word": "跳水",
+      "onboard_time": 1728355820,
+      "rank": 34,
+      "category": "财经"
+    },
+    {
       "raw_hot": 293286,
       "num": 293286,
       "word": "24节气第一个带寒的节气",
@@ -363,12 +395,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 293284,
-      "num": 390466,
-      "word": "文泰一事件受害者是外国女性",
-      "onboard_time": 1728354320,
-      "rank": 17,
-      "category": "艺人"
+      "raw_hot": 291319,
+      "num": 291319,
+      "word": "青川地震",
+      "onboard_time": 1728355279,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 285683,
@@ -379,6 +411,22 @@
       "category": "财经"
     },
     {
+      "raw_hot": 279889,
+      "num": 279889,
+      "word": "马龙排名",
+      "onboard_time": 1728355940,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 279725,
+      "num": 279725,
+      "word": "加沙死者三分之一是儿童",
+      "onboard_time": 1728352161,
+      "rank": 40,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 278662,
       "num": 278662,
       "word": "陈雨菲重返世界第一",
@@ -387,20 +435,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 260238,
-      "num": 260238,
-      "word": "青川地震",
-      "onboard_time": 1728355279,
-      "rank": 28,
-      "category": "社会新闻"
+      "raw_hot": 238509,
+      "num": 238509,
+      "word": "无限暖暖",
+      "onboard_time": 1728356000,
+      "rank": 36,
+      "category": "游戏"
     },
     {
-      "raw_hot": 246591,
-      "num": 246591,
-      "word": "加沙死者三分之一是儿童",
-      "onboard_time": 1728352161,
-      "rank": 40,
-      "category": "国外时政"
+      "raw_hot": 238349,
+      "num": 238349,
+      "word": "张婧仪Burberry品牌大使",
+      "onboard_time": 1728356659,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 237310,
+      "num": 237310,
+      "word": "王曼昱世界排名上升至第2",
+      "onboard_time": 1728355820,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 235731,
@@ -419,6 +475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 224173,
+      "num": 405452,
+      "word": "权志龙10月25日回归",
+      "onboard_time": 1728355879,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 217671,
       "num": 143811,
       "word": "周深 往事流zuan在li眼眸",
@@ -427,36 +491,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 215830,
-      "num": 215830,
-      "word": "马龙排名",
-      "onboard_time": 1728355940,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 214365,
-      "num": 214365,
-      "word": "A股大幅高开后回落",
-      "onboard_time": 1728356000,
-      "rank": 33,
-      "category": "财经"
-    },
-    {
       "raw_hot": 210567,
       "num": 210567,
       "word": "鸿蒙NEXT公测",
       "onboard_time": 1728350901,
       "rank": 36,
       "category": "数码"
-    },
-    {
-      "raw_hot": 209703,
-      "num": 209703,
-      "word": "跳水",
-      "onboard_time": 1728355820,
-      "rank": 34,
-      "category": "财经"
     },
     {
       "raw_hot": 208376,
@@ -475,12 +515,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 203377,
+      "num": 203377,
+      "word": "高开低走",
+      "onboard_time": 1728356239,
+      "rank": 38,
+      "category": "财经"
+    },
+    {
       "raw_hot": 200764,
       "num": 200764,
       "word": "一觉醒来寒露来了",
       "onboard_time": 1728349220,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 198040,
+      "num": 198040,
+      "word": "全市场仅5只个股下跌",
+      "onboard_time": 1728356540,
+      "rank": 39,
+      "category": "财经"
     },
     {
       "raw_hot": 197997,
@@ -491,20 +547,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 192401,
-      "num": 192401,
-      "word": "无限暖暖",
-      "onboard_time": 1728356000,
-      "rank": 36,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 191943,
-      "num": 342830,
-      "word": "权志龙10月25日回归",
-      "onboard_time": 1728355879,
-      "rank": 24,
-      "category": "艺人"
+      "raw_hot": 193419,
+      "num": 193419,
+      "word": "半导体",
+      "onboard_time": 1728356358,
+      "rank": 42,
+      "category": "财经"
     },
     {
       "raw_hot": 191174,
@@ -523,14 +571,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 189756,
-      "num": 189756,
-      "word": "王曼昱世界排名上升至第2",
-      "onboard_time": 1728355820,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 184704,
       "num": 184704,
       "word": "女子转卖父母处方药被判贩毒罪",
@@ -547,12 +587,28 @@
       "category": "网红"
     },
     {
+      "raw_hot": 179123,
+      "num": 179123,
+      "word": "骁龙",
+      "onboard_time": 1728356120,
+      "rank": 49,
+      "category": "数码"
+    },
+    {
       "raw_hot": 177699,
       "num": 177699,
       "word": "成龙已经70岁了",
       "onboard_time": 1728307882,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 175303,
+      "num": 175303,
+      "word": "恒生科技指数跌幅扩大至超7%",
+      "onboard_time": 1728356177,
+      "rank": 45,
+      "category": "财经"
     },
     {
       "raw_hot": 174171,
@@ -568,6 +624,14 @@
       "word": "沪指涨超10%",
       "onboard_time": 1728352699,
       "rank": 39,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 170580,
+      "num": 170580,
+      "word": "金融管理部门已进行窗口指导",
+      "onboard_time": 1728356177,
+      "rank": 46,
       "category": "财经"
     },
     {
@@ -643,14 +707,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 156691,
-      "num": 156691,
-      "word": "骁龙",
-      "onboard_time": 1728356120,
-      "rank": 49,
-      "category": "数码"
-    },
-    {
       "raw_hot": 155164,
       "num": 457213,
       "word": "创业板指涨超18%",
@@ -664,6 +720,14 @@
       "word": "文化中国行看寒露节气",
       "onboard_time": 1728344657,
       "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 152586,
+      "num": 738666,
+      "word": "寒露节气不再适合秋冻",
+      "onboard_time": 1728351140,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -713,6 +777,14 @@
       "onboard_time": 1728351140,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 143809,
+      "num": 404649,
+      "word": "中国将紧急向黎巴嫩提供医疗物资",
+      "onboard_time": 1728356540,
+      "rank": 19,
+      "category": "国外时政"
     },
     {
       "raw_hot": 143539,
@@ -808,14 +880,6 @@
       "word": "上海地铁",
       "onboard_time": 1728344237,
       "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 117942,
-      "num": 738666,
-      "word": "寒露节气不再适合秋冻",
-      "onboard_time": 1728351140,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -937,6 +1001,14 @@
       "onboard_time": 1728345377,
       "rank": 29,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 93462,
+      "num": 193692,
+      "word": "中国航天68岁生日快乐",
+      "onboard_time": 1728355701,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 91421,
@@ -1163,6 +1235,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 41410,
+      "num": 702914,
+      "word": "港股",
+      "onboard_time": 1728265818,
+      "rank": 9,
+      "category": "财经"
+    },
+    {
       "raw_hot": 40278,
       "num": 126233,
       "word": "张艺兴生日张家界热度飙升",
@@ -1185,6 +1265,14 @@
       "onboard_time": 1728324672,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 36987,
+      "num": 193468,
+      "word": "成毅奔赴自然",
+      "onboard_time": 1728356540,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 32304,
