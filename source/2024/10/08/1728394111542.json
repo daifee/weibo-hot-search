@@ -1,0 +1,410 @@
+{
+  "runTime": 1728394111542,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2004980,
+        "num": 2004980,
+        "word": "吴邦国同志逝世",
+        "onboard_time": 1728381801,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 976509,
+        "num": 976509,
+        "word": "租房8年被收损耗费租客觉得伤感情",
+        "onboard_time": 1728388521,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 8460,
+        "num": 912893,
+        "word": "中国饭碗端得稳端得牢",
+        "onboard_time": 1728362541,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 903148,
+        "num": 903148,
+        "word": "肯德基回应双堡桶被指玩文字游戏",
+        "onboard_time": 1728391039,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 688080,
+        "num": 688080,
+        "word": "孙颖莎vs金琴英",
+        "onboard_time": 1728388760,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 521382,
+        "num": 521382,
+        "word": "医院为骗医保拉人免费吃住",
+        "onboard_time": 1728387979,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 476225,
+        "num": 476225,
+        "word": "王楚钦2比3本雅明",
+        "onboard_time": 1728366802,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130261,
+        "num": 476135,
+        "word": "中餐厅考古",
+        "onboard_time": 1728386240,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 343655,
+        "num": 475231,
+        "word": "肯德基双堡桶被指玩文字游戏",
+        "onboard_time": 1728392240,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 48648,
+        "num": 474644,
+        "word": "专家解读A股节后开门红",
+        "onboard_time": 1728392901,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2380994,
+        "num": 473849,
+        "word": "k总",
+        "onboard_time": 1728390560,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1496453,
+        "num": 472752,
+        "word": "山取颜料师被要求返还矿石",
+        "onboard_time": 1728386420,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1273741,
+        "num": 472282,
+        "word": "周扬青聊名媛班",
+        "onboard_time": 1728389299,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 334330,
+        "num": 471196,
+        "word": "无锡100家定点医药机构将被全面排查",
+        "onboard_time": 1728388821,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 16285,
+        "num": 470192,
+        "word": "申请山寨奖项费用398至1998元",
+        "onboard_time": 1728392720,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 996857,
+        "num": 469635,
+        "word": "黄晓明带叶珂参加陈浩民生日会",
+        "onboard_time": 1728382882,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 510998,
+        "num": 468796,
+        "word": "警方回应女子踩踹外卖小哥面部",
+        "onboard_time": 1728389901,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 468366,
+        "num": 468366,
+        "word": "刘烨竟然是勋鹿群管理员",
+        "onboard_time": 1728391280,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 52254,
+        "num": 435962,
+        "word": "比安卡回应与侃爷分手",
+        "onboard_time": 1728393081,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33165,
+        "num": 426502,
+        "word": "为了合群难以拒绝职场的奶茶社交",
+        "onboard_time": 1728392840,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 423722,
+        "num": 423722,
+        "word": "女子当街脚踩头殴打外卖小哥",
+        "onboard_time": 1728383181,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 394263,
+        "num": 394263,
+        "word": "晓卉 我跟房价顶峰相见了",
+        "onboard_time": 1728391520,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 382377,
+        "num": 382377,
+        "word": "专家提醒月经不规则不可掉以轻心",
+        "onboard_time": 1728391641,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 337944,
+        "num": 337944,
+        "word": "00后入市父母给10万元当学费",
+        "onboard_time": 1728386359,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 328090,
+        "num": 328090,
+        "word": "哀牢山最危险的不是猛兽",
+        "onboard_time": 1728388281,
+        "rank": 24,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 299067,
+        "num": 299067,
+        "word": "复旦大学推荐了王一博纪录片",
+        "onboard_time": 1728390319,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 298961,
+        "num": 298961,
+        "word": "下次不准再P了",
+        "onboard_time": 1728383422,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 291405,
+        "num": 291405,
+        "word": "第五人格入殓师废稿",
+        "onboard_time": 1728392421,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 280970,
+        "num": 280970,
+        "word": "柯基警犬福仔转正了",
+        "onboard_time": 1728381560,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270685,
+        "num": 270685,
+        "word": "山取",
+        "onboard_time": 1728391821,
+        "rank": 29,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 267830,
+        "num": 267830,
+        "word": "王楚钦回应失利本雅明",
+        "onboard_time": 1728378020,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 265444,
+        "num": 265444,
+        "word": "黄子韬公司艺人泰创面试",
+        "onboard_time": 1728391100,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 262670,
+        "num": 262670,
+        "word": "国乒女团vs朝鲜",
+        "onboard_time": 1728387800,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 247871,
+        "num": 247871,
+        "word": "周冬雨在韩国的人气",
+        "onboard_time": 1728383662,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 223769,
+        "num": 223769,
+        "word": "印度女团3比2韩国",
+        "onboard_time": 1728387321,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 203866,
+        "num": 203866,
+        "word": "国家医保局通报无锡虹桥医院调查情况",
+        "onboard_time": 1728384560,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198183,
+        "num": 198183,
+        "word": "父子殴打一家3口后开车撞人",
+        "onboard_time": 1728393441,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196026,
+        "num": 196026,
+        "word": "又是见证A股历史的一天",
+        "onboard_time": 1728388581,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192262,
+        "num": 192262,
+        "word": "38城平均招聘月薪10058元",
+        "onboard_time": 1728388281,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190043,
+        "num": 190043,
+        "word": "章泽天和华真合影",
+        "onboard_time": 1728391520,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159605,
+        "num": 159605,
+        "word": "价值10万自行车被小孩碰倒后续",
+        "onboard_time": 1728393502,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154785,
+        "num": 154785,
+        "word": "微信上线搜索直达功能",
+        "onboard_time": 1728392540,
+        "rank": 41,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 149818,
+        "num": 149818,
+        "word": "哀牢山父子守山人巡山经常遇见熊",
+        "onboard_time": 1728384982,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149098,
+        "num": 149098,
+        "word": "颜料师未进入哀牢山核心区",
+        "onboard_time": 1728378979,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145843,
+        "num": 145843,
+        "word": "无锡虹桥医院全链条造假骗保",
+        "onboard_time": 1728385161,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140508,
+        "num": 140508,
+        "word": "郑钦文生日会",
+        "onboard_time": 1728393021,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137785,
+        "num": 137785,
+        "word": "秋天的第一根大肠",
+        "onboard_time": 1728393140,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132712,
+        "num": 132712,
+        "word": "赵丽颖新片孕妇装",
+        "onboard_time": 1728381920,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 129401,
+        "num": 129401,
+        "word": "亚锦赛赛程",
+        "onboard_time": 1728388040,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 106675,
+        "num": 124593,
+        "word": "赛螃蟹",
+        "onboard_time": 1728374181,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#纵横万里固根脉#"
+    }
+  }
+}
