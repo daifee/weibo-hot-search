@@ -1,6 +1,6 @@
 {
   "startTime": 1728145573126,
-  "endTime": 1728398479321,
+  "endTime": 1728401064347,
   "band_list": [
     {
       "raw_hot": 12210422,
@@ -19,6 +19,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 8665261,
+      "num": 4118515,
+      "word": "孙颖莎1比3金琴英",
+      "onboard_time": 1728397823,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 8274483,
       "num": 8274483,
       "word": "马龙vs林诗栋",
@@ -33,14 +41,6 @@
       "onboard_time": 1728297262,
       "rank": 0,
       "category": "体育,网红"
-    },
-    {
-      "raw_hot": 4118515,
-      "num": 4118515,
-      "word": "孙颖莎1比3金琴英",
-      "onboard_time": 1728397823,
-      "rank": 0,
-      "category": "体育"
     },
     {
       "raw_hot": 3580252,
@@ -515,6 +515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1153436,
+      "num": 1153436,
+      "word": "王艺迪vs边松景",
+      "onboard_time": 1728398722,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1142673,
       "num": 498553,
       "word": "鹿晗关晓彤官宣恋情七周年",
@@ -713,6 +721,14 @@
       "onboard_time": 1728215120,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 982231,
+      "num": 315539,
+      "word": "于正报警",
+      "onboard_time": 1728399802,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 977734,
@@ -1920,6 +1936,14 @@
       "word": "孙颖莎出战女单决赛",
       "onboard_time": 1728180560,
       "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 426450,
+      "num": 302220,
+      "word": "石洵瑶vs车秀英",
+      "onboard_time": 1728400401,
+      "rank": 24,
       "category": "体育"
     },
     {
@@ -3139,6 +3163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 273881,
+      "num": 273881,
+      "word": "天蝎座为什么总是不开心",
+      "onboard_time": 1728400281,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 273633,
       "num": 273633,
       "word": "钱天一晒和马龙合影",
@@ -3497,6 +3529,14 @@
       "onboard_time": 1728283338,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 242108,
+      "num": 242108,
+      "word": "国乒女团1比1朝鲜",
+      "onboard_time": 1728400401,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 241659,
@@ -4059,6 +4099,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 207298,
+      "num": 320443,
+      "word": "王艺迪3比1边松景",
+      "onboard_time": 1728399923,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 207275,
       "num": 207275,
       "word": "立威廉 霸总祖师爷",
@@ -4257,6 +4305,14 @@
       "onboard_time": 1728349220,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 200705,
+      "num": 200705,
+      "word": "我的会员报告",
+      "onboard_time": 1728400521,
+      "rank": 33,
+      "category": "互联网"
     },
     {
       "raw_hot": 200551,
@@ -5587,6 +5643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 154334,
+      "num": 154334,
+      "word": "李兰迪骨相美",
+      "onboard_time": 1728400401,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 154152,
       "num": 154152,
       "word": "已安排215位我国公民撤出黎巴嫩",
@@ -5843,6 +5907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 148622,
+      "num": 148622,
+      "word": "05后股民称后悔没早点开户",
+      "onboard_time": 1728400162,
+      "rank": 44,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 148464,
       "num": 148464,
       "word": "家里装不进包外面掏不出猫",
@@ -6051,12 +6123,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 142120,
+      "num": 142120,
+      "word": "男子称花2个月工资追女生反被拉黑",
+      "onboard_time": 1728400880,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 141756,
       "num": 763974,
       "word": "志愿军存亡之战成国庆档票房冠军",
       "onboard_time": 1728309862,
       "rank": 8,
       "category": "电影"
+    },
+    {
+      "raw_hot": 141704,
+      "num": 141704,
+      "word": "王艺迪主动示意对手擦边",
+      "onboard_time": 1728400880,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 141668,
@@ -6401,6 +6489,14 @@
       "onboard_time": 1728189681,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 130089,
+      "num": 130089,
+      "word": "05后大学生股民跑步进场交易被套",
+      "onboard_time": 1728400461,
+      "rank": 49,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 129799,
@@ -7731,6 +7827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 84140,
+      "num": 319425,
+      "word": "05后大学生股民跑步进场",
+      "onboard_time": 1728398842,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 84109,
       "num": 84109,
       "word": "被鸣沙山上的特殊升旗仪式感动了",
@@ -8065,6 +8169,14 @@
       "onboard_time": 1728207858,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 65038,
+      "num": 317571,
+      "word": "小学生数学障碍患病率为8.97%",
+      "onboard_time": 1728399203,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 64950,
@@ -8441,6 +8553,14 @@
       "onboard_time": 1728130399,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 47679,
+      "num": 325553,
+      "word": "国庆各地人们最爱自驾去哪里",
+      "onboard_time": 1728399502,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 47441,
@@ -9255,6 +9375,14 @@
       "num": 416012,
       "word": "航天员发回的国庆礼物太赞了",
       "onboard_time": 1728133221,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 6100,
+      "num": 1207141,
+      "word": "这是航天员拍摄的锦绣山河",
+      "onboard_time": 1728401000,
       "rank": 2,
       "category": "社会新闻"
     },
