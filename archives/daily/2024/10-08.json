@@ -1,6 +1,6 @@
 {
   "startTime": 1728318463808,
-  "endTime": 1728358179067,
+  "endTime": 1728359023661,
   "band_list": [
     {
       "raw_hot": 3580252,
@@ -83,6 +83,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1035558,
+      "num": 797882,
+      "word": "A股大幅高开后回落",
+      "onboard_time": 1728356000,
+      "rank": 33,
+      "category": "财经"
+    },
+    {
       "raw_hot": 1019415,
       "num": 449866,
       "word": "股价大涨上市公司股东扎堆减持",
@@ -131,20 +139,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 797882,
-      "num": 797882,
-      "word": "A股大幅高开后回落",
-      "onboard_time": 1728356000,
-      "rank": 33,
-      "category": "财经"
-    },
-    {
       "raw_hot": 792410,
       "num": 439044,
       "word": "监控16小时记录哀牢山里究竟有什么",
       "onboard_time": 1728350419,
       "rank": 17,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 724282,
+      "num": 656906,
+      "word": "马龙排名",
+      "onboard_time": 1728355940,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 707249,
@@ -185,14 +193,6 @@
       "onboard_time": 1728352401,
       "rank": 8,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 656906,
-      "num": 656906,
-      "word": "马龙排名",
-      "onboard_time": 1728355940,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 623244,
@@ -259,12 +259,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 479603,
+      "num": 479603,
+      "word": "电影乔妍的心事妹妹版预告",
+      "onboard_time": 1728357083,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 477524,
       "num": 477524,
       "word": "aespa",
       "onboard_time": 1728315558,
       "rank": 15,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 472642,
+      "num": 394473,
+      "word": "高开低走",
+      "onboard_time": 1728356239,
+      "rank": 38,
+      "category": "财经"
     },
     {
       "raw_hot": 465583,
@@ -355,6 +371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 355638,
+      "num": 355638,
+      "word": "贾冰配音毒液",
+      "onboard_time": 1728357739,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 354816,
       "num": 284414,
       "word": "女子深夜高速上突遇逆行车辆",
@@ -411,23 +435,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 315682,
-      "num": 315682,
-      "word": "高开低走",
-      "onboard_time": 1728356239,
-      "rank": 38,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 300022,
-      "num": 320210,
-      "word": "电影乔妍的心事妹妹版预告",
-      "onboard_time": 1728357083,
-      "rank": 26,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 297139,
+      "raw_hot": 309433,
       "num": 404649,
       "word": "中国将紧急向黎巴嫩提供医疗物资",
       "onboard_time": 1728356540,
@@ -475,12 +483,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 277350,
-      "num": 317389,
-      "word": "贾冰配音毒液",
-      "onboard_time": 1728357739,
-      "rank": 28,
-      "category": "电影"
+      "raw_hot": 249578,
+      "num": 249578,
+      "word": "A股回调",
+      "onboard_time": 1728358402,
+      "rank": 33,
+      "category": "财经"
     },
     {
       "raw_hot": 245255,
@@ -523,6 +531,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 210703,
+      "num": 210703,
+      "word": "微信鸿蒙原生版邀请内测",
+      "onboard_time": 1728357559,
+      "rank": 45,
+      "category": "数码"
+    },
+    {
       "raw_hot": 210567,
       "num": 210567,
       "word": "鸿蒙NEXT公测",
@@ -545,6 +561,22 @@
       "onboard_time": 1728345078,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 203419,
+      "num": 316700,
+      "word": "那英演唱会",
+      "onboard_time": 1728357500,
+      "rank": 29,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 200793,
+      "num": 464972,
+      "word": "提高学生资助补助标准",
+      "onboard_time": 1728358161,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 200764,
@@ -571,14 +603,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 196724,
-      "num": 196724,
-      "word": "提高学生资助补助标准",
-      "onboard_time": 1728358161,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 193419,
       "num": 193419,
       "word": "半导体",
@@ -603,6 +627,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 186193,
+      "num": 186193,
+      "word": "00后积极入市现象不容忽视",
+      "onboard_time": 1728356719,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
       "raw_hot": 184704,
       "num": 184704,
       "word": "女子转卖父母处方药被判贩毒罪",
@@ -625,6 +657,14 @@
       "onboard_time": 1728356120,
       "rank": 49,
       "category": "数码"
+    },
+    {
+      "raw_hot": 182269,
+      "num": 182269,
+      "word": "进击的巨人 凤凰传奇",
+      "onboard_time": 1728358640,
+      "rank": 38,
+      "category": "动漫"
     },
     {
       "raw_hot": 180563,
@@ -675,14 +715,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 167863,
-      "num": 316700,
-      "word": "那英演唱会",
-      "onboard_time": 1728357500,
-      "rank": 29,
-      "category": "演出"
-    },
-    {
       "raw_hot": 166897,
       "num": 839353,
       "word": "苹果或将放弃一年一更新模式",
@@ -721,14 +753,6 @@
       "onboard_time": 1728343157,
       "rank": 45,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 161543,
-      "num": 161543,
-      "word": "微信鸿蒙原生版邀请内测",
-      "onboard_time": 1728357559,
-      "rank": 45,
-      "category": "数码"
     },
     {
       "raw_hot": 159612,
@@ -771,14 +795,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 156186,
-      "num": 156186,
-      "word": "00后积极入市现象不容忽视",
-      "onboard_time": 1728356719,
-      "rank": 47,
-      "category": "财经"
-    },
-    {
       "raw_hot": 155164,
       "num": 457213,
       "word": "创业板指涨超18%",
@@ -811,6 +827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 149600,
+      "num": 149600,
+      "word": "高盛十大理由看涨中国股市",
+      "onboard_time": 1728358821,
+      "rank": 45,
+      "category": "财经"
+    },
+    {
       "raw_hot": 149476,
       "num": 149476,
       "word": "樊振东杂志",
@@ -825,6 +849,22 @@
       "onboard_time": 1728317299,
       "rank": 25,
       "category": "演出"
+    },
+    {
+      "raw_hot": 146840,
+      "num": 146840,
+      "word": "银行信贷资金严禁违规进入股市",
+      "onboard_time": 1728356960,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 144817,
+      "num": 144817,
+      "word": "我给十几年前看过的小说写歌了",
+      "onboard_time": 1728359000,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 144799,
@@ -1385,6 +1425,14 @@
       "onboard_time": 1728331691,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 19974,
+      "num": 391837,
+      "word": "刘亦菲NBA比赛观后感",
+      "onboard_time": 1728358220,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 19971,

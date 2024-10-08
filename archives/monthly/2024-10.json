@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1728358179067,
+  "endTime": 1728359023661,
   "band_list": [
     {
       "raw_hot": 11925969,
@@ -1027,6 +1027,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1035558,
+      "num": 797882,
+      "word": "A股大幅高开后回落",
+      "onboard_time": 1728356000,
+      "rank": 33,
+      "category": "财经"
+    },
+    {
       "raw_hot": 1030303,
       "num": 757290,
       "word": "A股彻底爆了现在进场还来得及吗",
@@ -1587,14 +1595,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 797882,
-      "num": 797882,
-      "word": "A股大幅高开后回落",
-      "onboard_time": 1728356000,
-      "rank": 33,
-      "category": "财经"
-    },
-    {
       "raw_hot": 794963,
       "num": 528661,
       "word": "马龙vs梁靖崑",
@@ -1987,6 +1987,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 724282,
+      "num": 656906,
+      "word": "马龙排名",
+      "onboard_time": 1728355940,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 721032,
       "num": 721032,
       "word": "马龙正手狂轰",
@@ -2329,14 +2337,6 @@
       "onboard_time": 1727945358,
       "rank": 12,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 656906,
-      "num": 656906,
-      "word": "马龙排名",
-      "onboard_time": 1728355940,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 655954,
@@ -3587,6 +3587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 479603,
+      "num": 479603,
+      "word": "电影乔妍的心事妹妹版预告",
+      "onboard_time": 1728357083,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 479476,
       "num": 479476,
       "word": "外国小朋友在中国吃嗨了",
@@ -3641,6 +3649,14 @@
       "onboard_time": 1727871740,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 472642,
+      "num": 394473,
+      "word": "高开低走",
+      "onboard_time": 1728356239,
+      "rank": 38,
+      "category": "财经"
     },
     {
       "raw_hot": 471099,
@@ -4851,6 +4867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 355638,
+      "num": 355638,
+      "word": "贾冰配音毒液",
+      "onboard_time": 1728357739,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 355573,
       "num": 298605,
       "word": "猫 这个豪门我非进不可",
@@ -5435,14 +5459,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 315682,
-      "num": 315682,
-      "word": "高开低走",
-      "onboard_time": 1728356239,
-      "rank": 38,
-      "category": "财经"
-    },
-    {
       "raw_hot": 315462,
       "num": 315462,
       "word": "伊藤美诚3比0倪夏莲",
@@ -5561,6 +5577,14 @@
       "onboard_time": 1727975895,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 309433,
+      "num": 404649,
+      "word": "中国将紧急向黎巴嫩提供医疗物资",
+      "onboard_time": 1728356540,
+      "rank": 19,
+      "category": "国外时政"
     },
     {
       "raw_hot": 308699,
@@ -5699,14 +5723,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 300022,
-      "num": 320210,
-      "word": "电影乔妍的心事妹妹版预告",
-      "onboard_time": 1728357083,
-      "rank": 26,
-      "category": "电影"
-    },
-    {
       "raw_hot": 299862,
       "num": 299862,
       "word": "王楚钦梁靖崑观战男单决赛",
@@ -5761,14 +5777,6 @@
       "onboard_time": 1728145879,
       "rank": 7,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 297139,
-      "num": 404649,
-      "word": "中国将紧急向黎巴嫩提供医疗物资",
-      "onboard_time": 1728356540,
-      "rank": 19,
-      "category": "国外时政"
     },
     {
       "raw_hot": 297068,
@@ -6313,14 +6321,6 @@
       "onboard_time": 1728297444,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 277350,
-      "num": 317389,
-      "word": "贾冰配音毒液",
-      "onboard_time": 1728357739,
-      "rank": 28,
-      "category": "电影"
     },
     {
       "raw_hot": 276607,
@@ -7033,6 +7033,14 @@
       "onboard_time": 1728174496,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 249578,
+      "num": 249578,
+      "word": "A股回调",
+      "onboard_time": 1728358402,
+      "rank": 33,
+      "category": "财经"
     },
     {
       "raw_hot": 248841,
@@ -8339,6 +8347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 210703,
+      "num": 210703,
+      "word": "微信鸿蒙原生版邀请内测",
+      "onboard_time": 1728357559,
+      "rank": 45,
+      "category": "数码"
+    },
+    {
       "raw_hot": 210567,
       "num": 210567,
       "word": "鸿蒙NEXT公测",
@@ -8715,6 +8731,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 203419,
+      "num": 316700,
+      "word": "那英演唱会",
+      "onboard_time": 1728357500,
+      "rank": 29,
+      "category": "演出"
+    },
+    {
       "raw_hot": 203368,
       "num": 499982,
       "word": "中国海警舰艇首次进入北冰洋海域",
@@ -8849,6 +8873,14 @@
       "onboard_time": 1728215960,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 200793,
+      "num": 464972,
+      "word": "提高学生资助补助标准",
+      "onboard_time": 1728358161,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 200764,
@@ -9081,14 +9113,6 @@
       "onboard_time": 1727751138,
       "rank": 29,
       "category": "电影"
-    },
-    {
-      "raw_hot": 196724,
-      "num": 196724,
-      "word": "提高学生资助补助标准",
-      "onboard_time": 1728358161,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 196622,
@@ -9899,6 +9923,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 186193,
+      "num": 186193,
+      "word": "00后积极入市现象不容忽视",
+      "onboard_time": 1728356719,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
       "raw_hot": 185651,
       "num": 185651,
       "word": "2024KPL年度总决赛",
@@ -10105,6 +10137,14 @@
       "onboard_time": 1728301344,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 182269,
+      "num": 182269,
+      "word": "进击的巨人 凤凰传奇",
+      "onboard_time": 1728358640,
+      "rank": 38,
+      "category": "动漫"
     },
     {
       "raw_hot": 182026,
@@ -11051,14 +11091,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 167863,
-      "num": 316700,
-      "word": "那英演唱会",
-      "onboard_time": 1728357500,
-      "rank": 29,
-      "category": "演出"
-    },
-    {
       "raw_hot": 167730,
       "num": 167730,
       "word": "刘宇宁周传雄合唱青花",
@@ -11515,14 +11547,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 161543,
-      "num": 161543,
-      "word": "微信鸿蒙原生版邀请内测",
-      "onboard_time": 1728357559,
-      "rank": 45,
-      "category": "数码"
-    },
-    {
       "raw_hot": 161505,
       "num": 161505,
       "word": "黄金飙涨周大福们扛不住了吗",
@@ -11977,14 +12001,6 @@
       "onboard_time": 1727861837,
       "rank": 47,
       "category": "电影"
-    },
-    {
-      "raw_hot": 156186,
-      "num": 156186,
-      "word": "00后积极入市现象不容忽视",
-      "onboard_time": 1728356719,
-      "rank": 47,
-      "category": "财经"
     },
     {
       "raw_hot": 156183,
@@ -12547,6 +12563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 149600,
+      "num": 149600,
+      "word": "高盛十大理由看涨中国股市",
+      "onboard_time": 1728358821,
+      "rank": 45,
+      "category": "财经"
+    },
+    {
       "raw_hot": 149582,
       "num": 149582,
       "word": "你帮狗找家 狗帮你找家",
@@ -12737,6 +12761,14 @@
       "onboard_time": 1727856617,
       "rank": 35,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 146840,
+      "num": 146840,
+      "word": "银行信贷资金严禁违规进入股市",
+      "onboard_time": 1728356960,
+      "rank": 47,
+      "category": "财经"
     },
     {
       "raw_hot": 146800,
@@ -12945,6 +12977,14 @@
       "onboard_time": 1727949559,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 144817,
+      "num": 144817,
+      "word": "我给十几年前看过的小说写歌了",
+      "onboard_time": 1728359000,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 144799,
@@ -21977,6 +22017,14 @@
       "onboard_time": 1727773700,
       "rank": 9,
       "category": "电影"
+    },
+    {
+      "raw_hot": 19974,
+      "num": 391837,
+      "word": "刘亦菲NBA比赛观后感",
+      "onboard_time": 1728358220,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 19971,
