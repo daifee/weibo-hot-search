@@ -1,6 +1,6 @@
 {
   "startTime": 1728404919019,
-  "endTime": 1728423384875,
+  "endTime": 1728426095935,
   "band_list": [
     {
       "raw_hot": 2648229,
@@ -171,6 +171,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 213729,
+      "num": 106598,
+      "word": "调查东北雨姐监管部门应及时出手",
+      "onboard_time": 1728407594,
+      "rank": 25,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 205342,
       "num": 288016,
       "word": "王楚钦2比3本雅明",
@@ -193,14 +201,6 @@
       "onboard_time": 1728403878,
       "rank": 9,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 175794,
-      "num": 106598,
-      "word": "调查东北雨姐监管部门应及时出手",
-      "onboard_time": 1728407594,
-      "rank": 25,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 170516,
@@ -251,12 +251,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 149017,
+      "num": 111538,
+      "word": "父子殴打一家3口后开车撞人",
+      "onboard_time": 1728393441,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 140925,
       "num": 140925,
       "word": "李兰迪骨相美",
       "onboard_time": 1728400401,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 130923,
+      "num": 110962,
+      "word": "哀牢山最危险的不是猛兽",
+      "onboard_time": 1728388281,
+      "rank": 39,
+      "category": "旅游"
     },
     {
       "raw_hot": 128657,
@@ -329,22 +345,6 @@
       "onboard_time": 1728392421,
       "rank": 36,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 111538,
-      "num": 111538,
-      "word": "父子殴打一家3口后开车撞人",
-      "onboard_time": 1728393441,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 110962,
-      "num": 110962,
-      "word": "哀牢山最危险的不是猛兽",
-      "onboard_time": 1728388281,
-      "rank": 39,
-      "category": "旅游"
     },
     {
       "raw_hot": 107203,
@@ -443,6 +443,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 77890,
+      "num": 77890,
+      "word": "美发言人称哈马斯或应出钱重建加沙",
+      "onboard_time": 1728413832,
+      "rank": 9,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 73947,
       "num": 73947,
       "word": "下次不准再P了",
@@ -475,12 +483,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 52504,
-      "num": 52504,
-      "word": "美发言人称哈马斯或应出钱重建加沙",
-      "onboard_time": 1728413832,
-      "rank": 9,
-      "category": "国外时政"
+      "raw_hot": 50343,
+      "num": 50343,
+      "word": "秦昊 付辛博很多年前是厉害的组合",
+      "onboard_time": 1728414551,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 45255,
@@ -491,20 +499,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 45227,
-      "num": 33573,
-      "word": "秦昊 付辛博很多年前是厉害的组合",
-      "onboard_time": 1728414551,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 41271,
       "num": 81164,
       "word": "向佐打戏",
       "onboard_time": 1728408674,
       "rank": 24,
       "category": "电影"
+    },
+    {
+      "raw_hot": 38397,
+      "num": 38397,
+      "word": "伊朗称如遭袭将予以强有力回应",
+      "onboard_time": 1728420430,
+      "rank": 47,
+      "category": "国外时政"
     },
     {
       "raw_hot": 37351,
@@ -555,6 +563,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 30019,
+      "num": 30019,
+      "word": "伊朗外长将访问沙特",
+      "onboard_time": 1728421632,
+      "rank": 41,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 26950,
       "num": 29972,
       "word": "海警回应菲律宾2船侵闯黄岩岛海域",
@@ -579,6 +595,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 25610,
+      "num": 34387,
+      "word": "日本前首相菅直人宣布退出政坛",
+      "onboard_time": 1728417910,
+      "rank": 9,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 22914,
       "num": 31414,
       "word": "官方回应双层列车为节假日限定",
@@ -587,28 +611,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 22583,
-      "num": 22583,
-      "word": "伊朗称如遭袭将予以强有力回应",
-      "onboard_time": 1728420430,
-      "rank": 47,
-      "category": "国外时政"
-    },
-    {
-      "raw_hot": 21329,
-      "num": 34387,
-      "word": "日本前首相菅直人宣布退出政坛",
-      "onboard_time": 1728417910,
-      "rank": 9,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 19056,
       "num": 31407,
       "word": "外交部谈中国游升温",
       "onboard_time": 1728416051,
       "rank": 29,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 16573,
+      "num": 75018,
+      "word": "文旅局称游客活动范围要在规定之内",
+      "onboard_time": 1728424752,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 14492,
@@ -636,7 +652,7 @@
     },
     {
       "raw_hot": 12450,
-      "num": 114110,
+      "num": 248362,
       "word": "这是航天员拍摄的锦绣山河",
       "onboard_time": 1728401000,
       "rank": 2,
