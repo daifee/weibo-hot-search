@@ -1,6 +1,6 @@
 {
   "startTime": 1728318463808,
-  "endTime": 1728356717860,
+  "endTime": 1728358179067,
   "band_list": [
     {
       "raw_hot": 3580252,
@@ -35,12 +35,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 1735759,
+      "num": 659251,
+      "word": "跳水",
+      "onboard_time": 1728355820,
+      "rank": 34,
+      "category": "财经"
+    },
+    {
       "raw_hot": 1398043,
       "num": 1398043,
       "word": "孙颖莎10800分世排断层第一",
       "onboard_time": 1728350178,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1253548,
+      "num": 981891,
+      "word": "儿子参与鬼火少年炸街被父亲暴揍",
+      "onboard_time": 1728353179,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1142673,
@@ -83,11 +99,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 981891,
-      "num": 981891,
-      "word": "儿子参与鬼火少年炸街被父亲暴揍",
-      "onboard_time": 1728353179,
-      "rank": 4,
+      "raw_hot": 936547,
+      "num": 657749,
+      "word": "地震预警",
+      "onboard_time": 1728355400,
+      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -113,6 +129,14 @@
       "onboard_time": 1728353360,
       "rank": 6,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 797882,
+      "num": 797882,
+      "word": "A股大幅高开后回落",
+      "onboard_time": 1728356000,
+      "rank": 33,
+      "category": "财经"
     },
     {
       "raw_hot": 792410,
@@ -161,6 +185,22 @@
       "onboard_time": 1728352401,
       "rank": 8,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 656906,
+      "num": 656906,
+      "word": "马龙排名",
+      "onboard_time": 1728355940,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 623244,
+      "num": 661149,
+      "word": "张婧仪Burberry品牌大使",
+      "onboard_time": 1728356659,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 621552,
@@ -219,14 +259,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 478646,
-      "num": 478646,
-      "word": "地震预警",
-      "onboard_time": 1728355400,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 477524,
       "num": 477524,
       "word": "aespa",
@@ -241,14 +273,6 @@
       "onboard_time": 1728302902,
       "rank": 16,
       "category": "演出"
-    },
-    {
-      "raw_hot": 461038,
-      "num": 461038,
-      "word": "A股大幅高开后回落",
-      "onboard_time": 1728356000,
-      "rank": 33,
-      "category": "财经"
     },
     {
       "raw_hot": 443688,
@@ -268,7 +292,7 @@
     },
     {
       "raw_hot": 418965,
-      "num": 297830,
+      "num": 302070,
       "word": "9种食物几乎没有保质期",
       "onboard_time": 1728346102,
       "rank": 21,
@@ -379,12 +403,36 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 314329,
-      "num": 314329,
-      "word": "跳水",
-      "onboard_time": 1728355820,
-      "rank": 34,
+      "raw_hot": 321536,
+      "num": 405452,
+      "word": "权志龙10月25日回归",
+      "onboard_time": 1728355879,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 315682,
+      "num": 315682,
+      "word": "高开低走",
+      "onboard_time": 1728356239,
+      "rank": 38,
       "category": "财经"
+    },
+    {
+      "raw_hot": 300022,
+      "num": 320210,
+      "word": "电影乔妍的心事妹妹版预告",
+      "onboard_time": 1728357083,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 297139,
+      "num": 404649,
+      "word": "中国将紧急向黎巴嫩提供医疗物资",
+      "onboard_time": 1728356540,
+      "rank": 19,
+      "category": "国外时政"
     },
     {
       "raw_hot": 293286,
@@ -411,14 +459,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 279889,
-      "num": 279889,
-      "word": "马龙排名",
-      "onboard_time": 1728355940,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
       "raw_hot": 279725,
       "num": 279725,
       "word": "加沙死者三分之一是儿童",
@@ -435,20 +475,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 238509,
-      "num": 238509,
+      "raw_hot": 277350,
+      "num": 317389,
+      "word": "贾冰配音毒液",
+      "onboard_time": 1728357739,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 245255,
+      "num": 245255,
       "word": "无限暖暖",
       "onboard_time": 1728356000,
       "rank": 36,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 238349,
-      "num": 238349,
-      "word": "张婧仪Burberry品牌大使",
-      "onboard_time": 1728356659,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 237310,
@@ -473,14 +513,6 @@
       "onboard_time": 1728350000,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 224173,
-      "num": 405452,
-      "word": "权志龙10月25日回归",
-      "onboard_time": 1728355879,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 217671,
@@ -515,14 +547,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 203377,
-      "num": 203377,
-      "word": "高开低走",
-      "onboard_time": 1728356239,
-      "rank": 38,
-      "category": "财经"
-    },
-    {
       "raw_hot": 200764,
       "num": 200764,
       "word": "一觉醒来寒露来了",
@@ -545,6 +569,14 @@
       "onboard_time": 1728351920,
       "rank": 34,
       "category": "财经"
+    },
+    {
+      "raw_hot": 196724,
+      "num": 196724,
+      "word": "提高学生资助补助标准",
+      "onboard_time": 1728358161,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 193419,
@@ -587,12 +619,20 @@
       "category": "网红"
     },
     {
-      "raw_hot": 179123,
-      "num": 179123,
+      "raw_hot": 182429,
+      "num": 182429,
       "word": "骁龙",
       "onboard_time": 1728356120,
       "rank": 49,
       "category": "数码"
+    },
+    {
+      "raw_hot": 180563,
+      "num": 738666,
+      "word": "寒露节气不再适合秋冻",
+      "onboard_time": 1728351140,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 177699,
@@ -635,6 +675,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 167863,
+      "num": 316700,
+      "word": "那英演唱会",
+      "onboard_time": 1728357500,
+      "rank": 29,
+      "category": "演出"
+    },
+    {
       "raw_hot": 166897,
       "num": 839353,
       "word": "苹果或将放弃一年一更新模式",
@@ -651,6 +699,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 164432,
+      "num": 164432,
+      "word": "恒生指数",
+      "onboard_time": 1728358040,
+      "rank": 43,
+      "category": "财经"
+    },
+    {
       "raw_hot": 163683,
       "num": 163683,
       "word": "国庆离开的第一天想他",
@@ -665,6 +721,14 @@
       "onboard_time": 1728343157,
       "rank": 45,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 161543,
+      "num": 161543,
+      "word": "微信鸿蒙原生版邀请内测",
+      "onboard_time": 1728357559,
+      "rank": 45,
+      "category": "数码"
     },
     {
       "raw_hot": 159612,
@@ -707,6 +771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 156186,
+      "num": 156186,
+      "word": "00后积极入市现象不容忽视",
+      "onboard_time": 1728356719,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
       "raw_hot": 155164,
       "num": 457213,
       "word": "创业板指涨超18%",
@@ -720,14 +792,6 @@
       "word": "文化中国行看寒露节气",
       "onboard_time": 1728344657,
       "rank": 38,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 152586,
-      "num": 738666,
-      "word": "寒露节气不再适合秋冻",
-      "onboard_time": 1728351140,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -777,14 +841,6 @@
       "onboard_time": 1728351140,
       "rank": 40,
       "category": "情感"
-    },
-    {
-      "raw_hot": 143809,
-      "num": 404649,
-      "word": "中国将紧急向黎巴嫩提供医疗物资",
-      "onboard_time": 1728356540,
-      "rank": 19,
-      "category": "国外时政"
     },
     {
       "raw_hot": 143539,
@@ -1004,7 +1060,7 @@
     },
     {
       "raw_hot": 93462,
-      "num": 193692,
+      "num": 660276,
       "word": "中国航天68岁生日快乐",
       "onboard_time": 1728355701,
       "rank": 40,
@@ -1268,7 +1324,7 @@
     },
     {
       "raw_hot": 36987,
-      "num": 193468,
+      "num": 658703,
       "word": "成毅奔赴自然",
       "onboard_time": 1728356540,
       "rank": 41,
