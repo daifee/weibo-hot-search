@@ -1,6 +1,6 @@
 {
   "startTime": 1728318463808,
-  "endTime": 1728361600273,
+  "endTime": 1728362460979,
   "band_list": [
     {
       "raw_hot": 3580252,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 1522405,
-      "num": 495062,
+      "num": 539248,
       "word": "高开低走",
       "onboard_time": 1728356239,
       "rank": 38,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 1453629,
-      "num": 647312,
+      "num": 1026949,
       "word": "卢昱晓工作室声明",
       "onboard_time": 1728359360,
       "rank": 3,
@@ -75,8 +75,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1240197,
+      "num": 1240197,
+      "word": "王俊凯黄晓明无效沟通",
+      "onboard_time": 1728360981,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1142673,
-      "num": 397117,
+      "num": 498553,
       "word": "鹿晗关晓彤官宣恋情七周年",
       "onboard_time": 1728345920,
       "rank": 20,
@@ -99,8 +107,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1060199,
+      "num": 530398,
+      "word": "花100万买到300平的老破大",
+      "onboard_time": 1728359179,
+      "rank": 11,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1035558,
-      "num": 797882,
+      "num": 880491,
       "word": "A股大幅高开后回落",
       "onboard_time": 1728356000,
       "rank": 33,
@@ -123,20 +139,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 988385,
+      "num": 988385,
+      "word": "揭秘擅闯哀牢山博主背后公司",
+      "onboard_time": 1728360681,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 936547,
       "num": 657749,
       "word": "地震预警",
       "onboard_time": 1728355400,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 922563,
-      "num": 486679,
-      "word": "花100万买到300平的老破大",
-      "onboard_time": 1728359179,
-      "rank": 11,
-      "category": "情感"
     },
     {
       "raw_hot": 900041,
@@ -275,14 +291,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 506000,
-      "num": 506000,
-      "word": "王俊凯黄晓明无效沟通",
-      "onboard_time": 1728360981,
-      "rank": 8,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 492809,
       "num": 492809,
       "word": "节后上班",
@@ -300,7 +308,7 @@
     },
     {
       "raw_hot": 479603,
-      "num": 479603,
+      "num": 515090,
       "word": "电影乔妍的心事妹妹版预告",
       "onboard_time": 1728357083,
       "rank": 26,
@@ -339,16 +347,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 423066,
-      "num": 319103,
-      "word": "揭秘擅闯哀牢山博主背后公司",
-      "onboard_time": 1728360681,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 419736,
-      "num": 292601,
+      "num": 346619,
       "word": "沪指3674点跌到3374点",
       "onboard_time": 1728360260,
       "rank": 30,
@@ -379,6 +379,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 392135,
+      "num": 520402,
+      "word": "大冰 西梅",
+      "onboard_time": 1728360081,
+      "rank": 17,
+      "category": "网红"
+    },
+    {
       "raw_hot": 387253,
       "num": 493434,
       "word": "假期结束当晚焦虑会到达顶峰",
@@ -395,8 +403,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 372546,
-      "num": 301426,
+      "raw_hot": 377753,
+      "num": 377753,
       "word": "鹅厂IP集体复工",
       "onboard_time": 1728360861,
       "rank": 27,
@@ -459,14 +467,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 351571,
-      "num": 351571,
-      "word": "大冰 西梅",
-      "onboard_time": 1728360081,
-      "rank": 17,
-      "category": "网红"
-    },
-    {
       "raw_hot": 344310,
       "num": 765771,
       "word": "国庆档新片票房TOP3",
@@ -505,6 +505,14 @@
       "onboard_time": 1728356540,
       "rank": 19,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 296593,
+      "num": 296593,
+      "word": "崩坏星穹铁道",
+      "onboard_time": 1728360922,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 293286,
@@ -571,14 +579,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 253062,
-      "num": 253062,
-      "word": "崩坏星穹铁道",
-      "onboard_time": 1728360922,
-      "rank": 39,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 249578,
       "num": 249578,
       "word": "A股回调",
@@ -611,12 +611,52 @@
       "category": "电影"
     },
     {
+      "raw_hot": 233695,
+      "num": 233695,
+      "word": "张家界治愈了韩国人的精神内耗",
+      "onboard_time": 1728361821,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 233571,
+      "num": 233571,
+      "word": "小米SU7假期锁单超6000辆",
+      "onboard_time": 1728343157,
+      "rank": 45,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 232116,
+      "num": 232116,
+      "word": "张晚意古偶三连播",
+      "onboard_time": 1728361821,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 231323,
+      "num": 324999,
+      "word": "艰难上岸后的辅导员每天都想辞职",
+      "onboard_time": 1728360320,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 229332,
       "num": 229332,
       "word": "国羽五单项排名全部世界第一",
       "onboard_time": 1728350000,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 221959,
+      "num": 221959,
+      "word": "一早涨停买入的已经开始亏钱",
+      "onboard_time": 1728361881,
+      "rank": 39,
+      "category": "财经"
     },
     {
       "raw_hot": 217671,
@@ -675,6 +715,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 201227,
+      "num": 201227,
+      "word": "尚雯婕还原18年前霹雳舞",
+      "onboard_time": 1728361402,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 200764,
       "num": 200764,
       "word": "一觉醒来寒露来了",
@@ -704,6 +752,14 @@
       "word": "沪指高开10.13%",
       "onboard_time": 1728351920,
       "rank": 34,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 193684,
+      "num": 193684,
+      "word": "A股 过山车",
+      "onboard_time": 1728361761,
+      "rank": 46,
       "category": "财经"
     },
     {
@@ -787,14 +843,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 178968,
-      "num": 178968,
-      "word": "尚雯婕还原18年前霹雳舞",
-      "onboard_time": 1728361402,
-      "rank": 49,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 177699,
       "num": 177699,
       "word": "成龙已经70岁了",
@@ -809,6 +857,14 @@
       "onboard_time": 1728356177,
       "rank": 45,
       "category": "财经"
+    },
+    {
+      "raw_hot": 174480,
+      "num": 174480,
+      "word": "考研预报名",
+      "onboard_time": 1728362361,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 174171,
@@ -833,6 +889,14 @@
       "onboard_time": 1728356177,
       "rank": 46,
       "category": "财经"
+    },
+    {
+      "raw_hot": 170437,
+      "num": 501874,
+      "word": "不能乱罚款乱检查乱查封",
+      "onboard_time": 1728360201,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 166897,
@@ -867,28 +931,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 163668,
-      "num": 163668,
-      "word": "小米SU7假期锁单超6000辆",
-      "onboard_time": 1728343157,
-      "rank": 45,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 159612,
       "num": 159612,
       "word": "上证指数",
       "onboard_time": 1728354560,
       "rank": 46,
       "category": "财经"
-    },
-    {
-      "raw_hot": 159046,
-      "num": 501874,
-      "word": "不能乱罚款乱检查乱查封",
-      "onboard_time": 1728360201,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 158855,
@@ -929,14 +977,6 @@
       "onboard_time": 1728352161,
       "rank": 9,
       "category": "财经"
-    },
-    {
-      "raw_hot": 154336,
-      "num": 324999,
-      "word": "艰难上岸后的辅导员每天都想辞职",
-      "onboard_time": 1728360320,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 153431,
@@ -1017,6 +1057,14 @@
       "onboard_time": 1728351140,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 143925,
+      "num": 542865,
+      "word": "把政策重点更多放在惠民生促消费",
+      "onboard_time": 1728359300,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 143539,
@@ -1473,6 +1521,14 @@
       "onboard_time": 1728319276,
       "rank": 49,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 45570,
+      "num": 505991,
+      "word": "至上励合马雪阳也结婚了",
+      "onboard_time": 1728361881,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 44133,

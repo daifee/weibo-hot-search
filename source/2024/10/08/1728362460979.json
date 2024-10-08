@@ -1,0 +1,410 @@
+{
+  "runTime": 1728362460979,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1302420,
+        "num": 1302420,
+        "word": "A股",
+        "onboard_time": 1728346401,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1240197,
+        "num": 1240197,
+        "word": "王俊凯黄晓明无效沟通",
+        "onboard_time": 1728360981,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 9256,
+        "num": 1052206,
+        "word": "国庆文旅图景尽显活力中国",
+        "onboard_time": 1728304823,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1411693,
+        "num": 1026949,
+        "word": "卢昱晓工作室声明",
+        "onboard_time": 1728359360,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 988385,
+        "num": 988385,
+        "word": "揭秘擅闯哀牢山博主背后公司",
+        "onboard_time": 1728360681,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 924111,
+        "num": 924111,
+        "word": "儿子参与鬼火少年炸街被父亲暴揍",
+        "onboard_time": 1728353179,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 880491,
+        "num": 880491,
+        "word": "A股大幅高开后回落",
+        "onboard_time": 1728356000,
+        "rank": 6,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 597866,
+        "num": 597866,
+        "word": "发改委介绍一揽子增量政策有关情况",
+        "onboard_time": 1728353419,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 547256,
+        "num": 547256,
+        "word": "国新办新闻发布会",
+        "onboard_time": 1728353360,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 143925,
+        "num": 542865,
+        "word": "把政策重点更多放在惠民生促消费",
+        "onboard_time": 1728359300,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1424897,
+        "num": 539248,
+        "word": "高开低走",
+        "onboard_time": 1728356239,
+        "rank": 10,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1060199,
+        "num": 530398,
+        "word": "花100万买到300平的老破大",
+        "onboard_time": 1728359179,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 689563,
+        "num": 526165,
+        "word": "马龙排名",
+        "onboard_time": 1728355940,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 524759,
+        "num": 524759,
+        "word": "提高学生资助补助标准",
+        "onboard_time": 1728358161,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 552801,
+        "num": 521275,
+        "word": "曝侃爷分手",
+        "onboard_time": 1728347542,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 392135,
+        "num": 520402,
+        "word": "大冰 西梅",
+        "onboard_time": 1728360081,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 351242,
+        "num": 515090,
+        "word": "电影乔妍的心事妹妹版预告",
+        "onboard_time": 1728357083,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 282256,
+        "num": 510673,
+        "word": "锦绣安宁定档",
+        "onboard_time": 1728354078,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 45570,
+        "num": 505991,
+        "word": "至上励合马雪阳也结婚了",
+        "onboard_time": 1728361881,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 549658,
+        "num": 505238,
+        "word": "王楚钦积分7825世排第一",
+        "onboard_time": 1728352579,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 629381,
+        "num": 498553,
+        "word": "鹿晗关晓彤官宣恋情七周年",
+        "onboard_time": 1728345920,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 534108,
+        "num": 497738,
+        "word": "跳水",
+        "onboard_time": 1728355820,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 494279,
+        "num": 494279,
+        "word": "地震预警",
+        "onboard_time": 1728355400,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 492614,
+        "num": 492614,
+        "word": "孙颖莎10800分世排断层第一",
+        "onboard_time": 1728350178,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 382182,
+        "num": 382182,
+        "word": "监控16小时记录哀牢山里究竟有什么",
+        "onboard_time": 1728350419,
+        "rank": 24,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 377753,
+        "num": 377753,
+        "word": "鹅厂IP集体复工",
+        "onboard_time": 1728360861,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 346619,
+        "num": 346619,
+        "word": "沪指3674点跌到3374点",
+        "onboard_time": 1728360260,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 296593,
+        "num": 296593,
+        "word": "崩坏星穹铁道",
+        "onboard_time": 1728360922,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 290552,
+        "num": 290552,
+        "word": "9种食物几乎没有保质期",
+        "onboard_time": 1728346102,
+        "rank": 28,
+        "category": "社会新闻,健康医疗"
+      },
+      {
+        "raw_hot": 279570,
+        "num": 279570,
+        "word": "恋与深空",
+        "onboard_time": 1728360681,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 249578,
+        "num": 249578,
+        "word": "权志龙疑似扔了郎朗的签名专辑",
+        "onboard_time": 1728308721,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 235125,
+        "num": 235125,
+        "word": "中国将紧急向黎巴嫩提供医疗物资",
+        "onboard_time": 1728356540,
+        "rank": 31,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 233695,
+        "num": 233695,
+        "word": "张家界治愈了韩国人的精神内耗",
+        "onboard_time": 1728361821,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225110,
+        "num": 233585,
+        "word": "权志龙10月25日回归",
+        "onboard_time": 1728355879,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 233571,
+        "num": 233571,
+        "word": "小米SU7假期锁单超6000辆",
+        "onboard_time": 1728343157,
+        "rank": 34,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 232116,
+        "num": 232116,
+        "word": "张晚意古偶三连播",
+        "onboard_time": 1728361821,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 224683,
+        "num": 224683,
+        "word": "怎么看待10点这场国新办发布会",
+        "onboard_time": 1728354078,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 225623,
+        "num": 223939,
+        "word": "加沙女童说我们只是在等死",
+        "onboard_time": 1728352401,
+        "rank": 37,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 231323,
+        "num": 223671,
+        "word": "艰难上岸后的辅导员每天都想辞职",
+        "onboard_time": 1728360320,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221959,
+        "num": 221959,
+        "word": "一早涨停买入的已经开始亏钱",
+        "onboard_time": 1728361881,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 212048,
+        "num": 212048,
+        "word": "文泰一事件受害者是外国女性",
+        "onboard_time": 1728354320,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205274,
+        "num": 205274,
+        "word": "A股回调",
+        "onboard_time": 1728358402,
+        "rank": 41,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 170437,
+        "num": 201468,
+        "word": "不能乱罚款乱检查乱查封",
+        "onboard_time": 1728360201,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149298,
+        "num": 201250,
+        "word": "网友晒图开盘盈利2791收盘亏418",
+        "onboard_time": 1728359179,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 201227,
+        "num": 201227,
+        "word": "尚雯婕还原18年前霹雳舞",
+        "onboard_time": 1728361402,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200397,
+        "num": 200397,
+        "word": "基金",
+        "onboard_time": 1728353479,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 193684,
+        "num": 193684,
+        "word": "A股 过山车",
+        "onboard_time": 1728361761,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 186676,
+        "num": 186676,
+        "word": "贾冰配音毒液",
+        "onboard_time": 1728357739,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 174576,
+        "num": 174576,
+        "word": "国庆假期9个值得珍藏的记忆",
+        "onboard_time": 1728359539,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174480,
+        "num": 174480,
+        "word": "考研预报名",
+        "onboard_time": 1728362361,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#感悟总书记的传统文化情结#"
+    }
+  }
+}
