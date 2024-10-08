@@ -1,6 +1,6 @@
 {
   "startTime": 1728145573126,
-  "endTime": 1728422518953,
+  "endTime": 1728423384875,
   "band_list": [
     {
       "raw_hot": 12210422,
@@ -9443,12 +9443,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 22583,
+      "num": 22583,
+      "word": "伊朗称如遭袭将予以强有力回应",
+      "onboard_time": 1728420430,
+      "rank": 47,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 22537,
       "num": 33656,
       "word": "多平台显示国庆出境游订单量超2019年",
       "onboard_time": 1728331691,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 21329,
+      "num": 34387,
+      "word": "日本前首相菅直人宣布退出政坛",
+      "onboard_time": 1728417910,
+      "rank": 9,
+      "category": "国外时政"
     },
     {
       "raw_hot": 21199,
@@ -9465,22 +9481,6 @@
       "onboard_time": 1728369320,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 20741,
-      "num": 20741,
-      "word": "伊朗称如遭袭将予以强有力回应",
-      "onboard_time": 1728420430,
-      "rank": 47,
-      "category": "国外时政"
-    },
-    {
-      "raw_hot": 20484,
-      "num": 34387,
-      "word": "日本前首相菅直人宣布退出政坛",
-      "onboard_time": 1728417910,
-      "rank": 9,
-      "category": "国外时政"
     },
     {
       "raw_hot": 19974,
@@ -9619,11 +9619,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 14492,
+      "num": 41502,
+      "word": "纵横万里固根脉",
+      "onboard_time": 1728419711,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 14489,
       "num": 27287,
       "word": "晨曦下马踏水花氛围感绝了",
       "onboard_time": 1728334210,
       "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 14483,
+      "num": 44832,
+      "word": "国庆期间1309.8万人次出入境",
+      "onboard_time": 1728422171,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -9656,22 +9672,6 @@
       "word": "杭州有娃假期带着跳绳去旅游",
       "onboard_time": 1728249971,
       "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 11703,
-      "num": 22179,
-      "word": "国庆期间1309.8万人次出入境",
-      "onboard_time": 1728422171,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 11593,
-      "num": 41502,
-      "word": "纵横万里固根脉",
-      "onboard_time": 1728419711,
-      "rank": 29,
       "category": "社会新闻"
     },
     {
