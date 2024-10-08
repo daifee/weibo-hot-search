@@ -1,0 +1,410 @@
+{
+  "runTime": 1728372963469,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 8178926,
+        "num": 8178926,
+        "word": "王楚钦2比3本雅明",
+        "onboard_time": 1728366802,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2156778,
+        "num": 2156778,
+        "word": "王楚钦vs阿拉米扬",
+        "onboard_time": 1728371481,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 46554,
+        "num": 1497984,
+        "word": "古人笔下的浪漫秋意",
+        "onboard_time": 1728362721,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1409332,
+        "num": 1409332,
+        "word": "林诗栋vs阿拉米扬",
+        "onboard_time": 1728368901,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1056000,
+        "num": 1056000,
+        "word": "林诗栋对手摔拍",
+        "onboard_time": 1728369861,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 928788,
+        "num": 928788,
+        "word": "梁靖崑vs塔希尔",
+        "onboard_time": 1728370820,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 827938,
+        "num": 827938,
+        "word": "王楚钦对手本雅明14岁",
+        "onboard_time": 1728366500,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 655225,
+        "num": 655225,
+        "word": "于正 欢娱影视多了一名花旦",
+        "onboard_time": 1728368782,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 494537,
+        "num": 628239,
+        "word": "于正签的新人是张石头",
+        "onboard_time": 1728371182,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 400289,
+        "num": 616381,
+        "word": "纪委回应女子举报被中学纪委书记强暴",
+        "onboard_time": 1728371661,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 613007,
+        "num": 613007,
+        "word": "A股",
+        "onboard_time": 1728346401,
+        "rank": 10,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 430017,
+        "num": 430017,
+        "word": "王楚钦状态",
+        "onboard_time": 1728367282,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 424634,
+        "num": 424634,
+        "word": "王楚钦vs本雅明",
+        "onboard_time": 1728363560,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 372028,
+        "num": 372028,
+        "word": "一早涨停买入的已经开始亏钱",
+        "onboard_time": 1728361881,
+        "rank": 13,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 78055,
+        "num": 350157,
+        "word": "港股一度跌近10%发生了什么",
+        "onboard_time": 1728372921,
+        "rank": 14,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 347786,
+        "num": 347786,
+        "word": "东北雨姐拍摄基地人去房空",
+        "onboard_time": 1728372021,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 183875,
+        "num": 346089,
+        "word": "至上励合马雪阳也结婚了",
+        "onboard_time": 1728361881,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170962,
+        "num": 339906,
+        "word": "Jennie和NewJeans同框",
+        "onboard_time": 1728369441,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158460,
+        "num": 332220,
+        "word": "张石头",
+        "onboard_time": 1728372501,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98315,
+        "num": 323171,
+        "word": "为什么说哀牢山是神秘又危险的禁区",
+        "onboard_time": 1728371661,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168760,
+        "num": 319886,
+        "word": "能生成人裸照的性犯罪从韩国开始泛滥",
+        "onboard_time": 1728369501,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 805748,
+        "num": 315091,
+        "word": "陈赫说黄磊做饭好吃",
+        "onboard_time": 1728364340,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 457561,
+        "num": 310574,
+        "word": "东北雨姐删除了道歉视频",
+        "onboard_time": 1728367520,
+        "rank": 22,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 419519,
+        "num": 303916,
+        "word": "王楚钦主动指出擦网重发",
+        "onboard_time": 1728368960,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 359973,
+        "num": 295672,
+        "word": "男子捉奸收补偿被控敲诈案改判无罪",
+        "onboard_time": 1728370223,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 292111,
+        "num": 292111,
+        "word": "从他的27岁走到她的27岁",
+        "onboard_time": 1728372439,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 259063,
+        "num": 289820,
+        "word": "心动7一块蛋糕引发的大乌龙",
+        "onboard_time": 1728371420,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 220866,
+        "num": 289580,
+        "word": "国新办新闻发布会",
+        "onboard_time": 1728353360,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 353202,
+        "num": 289498,
+        "word": "A股 过山车",
+        "onboard_time": 1728361761,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 289403,
+        "num": 289403,
+        "word": "梁靖崑3比0塔希尔",
+        "onboard_time": 1728371182,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 279373,
+        "num": 279373,
+        "word": "无缝球",
+        "onboard_time": 1728365420,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 279346,
+        "num": 279346,
+        "word": "女子实名举报被四川一中学纪委书记强暴",
+        "onboard_time": 1728371841,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258892,
+        "num": 258892,
+        "word": "林诗栋3比2阿拉米扬",
+        "onboard_time": 1728370343,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 254667,
+        "num": 254667,
+        "word": "鹿晗关晓彤官宣恋情七周年",
+        "onboard_time": 1728345920,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 248910,
+        "num": 248910,
+        "word": "国乒男团vs伊朗",
+        "onboard_time": 1728363261,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 228241,
+        "num": 228241,
+        "word": "国庆假期国内出游7.65亿人次",
+        "onboard_time": 1728372560,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210065,
+        "num": 210065,
+        "word": "马龙排名",
+        "onboard_time": 1728355940,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 203472,
+        "num": 203472,
+        "word": "发改委介绍一揽子增量政策有关情况",
+        "onboard_time": 1728353419,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 194495,
+        "num": 194495,
+        "word": "亚锦赛直播",
+        "onboard_time": 1728366623,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 189839,
+        "num": 189839,
+        "word": "花100万买到300平的老破大",
+        "onboard_time": 1728359179,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 177070,
+        "num": 177070,
+        "word": "家中智能锁凌晨3点自动开门",
+        "onboard_time": 1728365301,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176615,
+        "num": 176615,
+        "word": "揭秘擅闯哀牢山博主背后公司",
+        "onboard_time": 1728360681,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175718,
+        "num": 175718,
+        "word": "伊朗男团 擦网",
+        "onboard_time": 1728369022,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167059,
+        "num": 167059,
+        "word": "沪指收涨4.59%",
+        "onboard_time": 1728372080,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 155586,
+        "num": 155586,
+        "word": "本雅明世排210",
+        "onboard_time": 1728371602,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 145151,
+        "num": 145151,
+        "word": "这可是你们杭州的女婿",
+        "onboard_time": 1728372921,
+        "rank": 45,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 143391,
+        "num": 143391,
+        "word": "亚锦赛",
+        "onboard_time": 1728352098,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140867,
+        "num": 140867,
+        "word": "基金",
+        "onboard_time": 1728353479,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 133206,
+        "num": 133206,
+        "word": "王俊凯黄晓明无效沟通",
+        "onboard_time": 1728360981,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 36872,
+        "num": 132096,
+        "word": "建议成毅把冲锋衣焊身上",
+        "onboard_time": 1728369320,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#感悟总书记的传统文化情结#"
+    }
+  }
+}

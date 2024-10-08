@@ -1,6 +1,6 @@
 {
   "startTime": 1728145573126,
-  "endTime": 1728372132256,
+  "endTime": 1728372963469,
   "band_list": [
     {
       "raw_hot": 10133581,
@@ -88,6 +88,14 @@
       "word": "林诗栋vs阿拉米扬",
       "onboard_time": 1728368901,
       "rank": 16,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 2156778,
+      "num": 2156778,
+      "word": "王楚钦vs阿拉米扬",
+      "onboard_time": 1728371481,
+      "rank": 5,
       "category": "体育"
     },
     {
@@ -412,7 +420,7 @@
     },
     {
       "raw_hot": 1160288,
-      "num": 777811,
+      "num": 1056000,
       "word": "林诗栋对手摔拍",
       "onboard_time": 1728369861,
       "rank": 33,
@@ -609,14 +617,6 @@
       "onboard_time": 1728361881,
       "rank": 39,
       "category": "财经"
-    },
-    {
-      "raw_hot": 969992,
-      "num": 969992,
-      "word": "王楚钦vs阿拉米扬",
-      "onboard_time": 1728371481,
-      "rank": 5,
-      "category": "体育"
     },
     {
       "raw_hot": 961319,
@@ -1355,6 +1355,14 @@
       "category": "作品衍生,幽默"
     },
     {
+      "raw_hot": 494537,
+      "num": 902164,
+      "word": "于正签的新人是张石头",
+      "onboard_time": 1728371182,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 492809,
       "num": 492809,
       "word": "节后上班",
@@ -1451,7 +1459,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 452090,
+      "raw_hot": 457561,
       "num": 424907,
       "word": "东北雨姐删除了道歉视频",
       "onboard_time": 1728367520,
@@ -1465,14 +1473,6 @@
       "onboard_time": 1728178758,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 449436,
-      "num": 902164,
-      "word": "于正签的新人是张石头",
-      "onboard_time": 1728371182,
-      "rank": 7,
-      "category": "艺人"
     },
     {
       "raw_hot": 447861,
@@ -1657,6 +1657,14 @@
       "onboard_time": 1728302483,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 400289,
+      "num": 616381,
+      "word": "纪委回应女子举报被中学纪委书记强暴",
+      "onboard_time": 1728371661,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 399286,
@@ -1923,6 +1931,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 359973,
+      "num": 304236,
+      "word": "男子捉奸收补偿被控敲诈案改判无罪",
+      "onboard_time": 1728370223,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 359864,
       "num": 359864,
       "word": "A股 过山车",
@@ -2019,6 +2035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 347786,
+      "num": 347786,
+      "word": "东北雨姐拍摄基地人去房空",
+      "onboard_time": 1728372021,
+      "rank": 33,
+      "category": "网红"
+    },
+    {
       "raw_hot": 345483,
       "num": 314133,
       "word": "陈奕迅 谢谢你们没退票",
@@ -2033,14 +2057,6 @@
       "onboard_time": 1728354560,
       "rank": 8,
       "category": "电影"
-    },
-    {
-      "raw_hot": 340944,
-      "num": 304236,
-      "word": "男子捉奸收补偿被控敲诈案改判无罪",
-      "onboard_time": 1728370223,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 339467,
@@ -2419,6 +2435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 292111,
+      "num": 292111,
+      "word": "从他的27岁走到她的27岁",
+      "onboard_time": 1728372439,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 291319,
       "num": 291319,
       "word": "青川地震",
@@ -2539,6 +2563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 279346,
+      "num": 279346,
+      "word": "女子实名举报被四川一中学纪委书记强暴",
+      "onboard_time": 1728371841,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 279158,
       "num": 279158,
       "word": "返校车厢里全是碎掉的大学生",
@@ -2609,14 +2641,6 @@
       "onboard_time": 1728365060,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 272880,
-      "num": 272880,
-      "word": "纪委回应女子举报被中学纪委书记强暴",
-      "onboard_time": 1728371661,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 272699,
@@ -2721,6 +2745,14 @@
       "onboard_time": 1728271757,
       "rank": 44,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 259063,
+      "num": 348871,
+      "word": "心动7一块蛋糕引发的大乌龙",
+      "onboard_time": 1728371420,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 258542,
@@ -3051,6 +3083,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 228241,
+      "num": 228241,
+      "word": "国庆假期国内出游7.65亿人次",
+      "onboard_time": 1728372560,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 226266,
       "num": 226266,
       "word": "以色列发生恐袭案19岁女警身亡",
@@ -3105,14 +3145,6 @@
       "onboard_time": 1728225800,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 219977,
-      "num": 219977,
-      "word": "东北雨姐拍摄基地人去房空",
-      "onboard_time": 1728372021,
-      "rank": 33,
-      "category": "网红"
     },
     {
       "raw_hot": 219743,
@@ -3553,14 +3585,6 @@
       "onboard_time": 1728368240,
       "rank": 13,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 200274,
-      "num": 348871,
-      "word": "心动7一块蛋糕引发的大乌龙",
-      "onboard_time": 1728371420,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 198972,
@@ -4275,6 +4299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 167059,
+      "num": 167059,
+      "word": "沪指收涨4.59%",
+      "onboard_time": 1728372080,
+      "rank": 49,
+      "category": "财经"
+    },
+    {
       "raw_hot": 166543,
       "num": 166543,
       "word": "亚锦赛转播画质",
@@ -4352,14 +4384,6 @@
       "word": "国庆返程堵和出发堵心情截然不同",
       "onboard_time": 1728285742,
       "rank": 8,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 163971,
-      "num": 163971,
-      "word": "女子实名举报被四川一中学纪委书记强暴",
-      "onboard_time": 1728371841,
-      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -4513,6 +4537,14 @@
       "onboard_time": 1728224120,
       "rank": 42,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 158460,
+      "num": 332220,
+      "word": "张石头",
+      "onboard_time": 1728372501,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 158273,
@@ -4987,6 +5019,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 145151,
+      "num": 145151,
+      "word": "这可是你们杭州的女婿",
+      "onboard_time": 1728372921,
+      "rank": 45,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 144835,
       "num": 132285,
       "word": "感觉好像看了一集日漫",
@@ -5233,14 +5273,6 @@
       "onboard_time": 1728258075,
       "rank": 32,
       "category": "情感"
-    },
-    {
-      "raw_hot": 134656,
-      "num": 134656,
-      "word": "沪指收涨4.59%",
-      "onboard_time": 1728372080,
-      "rank": 49,
-      "category": "财经"
     },
     {
       "raw_hot": 134378,
@@ -6291,6 +6323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 98315,
+      "num": 450857,
+      "word": "为什么说哀牢山是神秘又危险的禁区",
+      "onboard_time": 1728371661,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 98311,
       "num": 98311,
       "word": "周深演唱会谈PUA与内耗",
@@ -6785,6 +6825,14 @@
       "onboard_time": 1728220102,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 78055,
+      "num": 350157,
+      "word": "港股一度跌近10%发生了什么",
+      "onboard_time": 1728372921,
+      "rank": 14,
+      "category": "财经"
     },
     {
       "raw_hot": 75472,
@@ -7307,14 +7355,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 44053,
-      "num": 450857,
-      "word": "为什么说哀牢山是神秘又危险的禁区",
-      "onboard_time": 1728371661,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 43576,
       "num": 341197,
       "word": "国庆氛围感壁纸",
@@ -7499,6 +7539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 36872,
+      "num": 168423,
+      "word": "建议成毅把冲锋衣焊身上",
+      "onboard_time": 1728369320,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 36374,
       "num": 213215,
       "word": "在海拔最高国门合唱国歌太燃了",
@@ -7553,14 +7601,6 @@
       "onboard_time": 1728279618,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 33865,
-      "num": 168423,
-      "word": "建议成毅把冲锋衣焊身上",
-      "onboard_time": 1728369320,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 33410,

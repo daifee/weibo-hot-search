@@ -1,6 +1,6 @@
 {
   "startTime": 1728318463808,
-  "endTime": 1728372132256,
+  "endTime": 1728372963469,
   "band_list": [
     {
       "raw_hot": 10133581,
@@ -40,6 +40,14 @@
       "word": "林诗栋vs阿拉米扬",
       "onboard_time": 1728368901,
       "rank": 16,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 2156778,
+      "num": 2156778,
+      "word": "王楚钦vs阿拉米扬",
+      "onboard_time": 1728371481,
+      "rank": 5,
       "category": "体育"
     },
     {
@@ -132,7 +140,7 @@
     },
     {
       "raw_hot": 1160288,
-      "num": 777811,
+      "num": 1056000,
       "word": "林诗栋对手摔拍",
       "onboard_time": 1728369861,
       "rank": 33,
@@ -225,14 +233,6 @@
       "onboard_time": 1728361881,
       "rank": 39,
       "category": "财经"
-    },
-    {
-      "raw_hot": 969992,
-      "num": 969992,
-      "word": "王楚钦vs阿拉米扬",
-      "onboard_time": 1728371481,
-      "rank": 5,
-      "category": "体育"
     },
     {
       "raw_hot": 936547,
@@ -427,6 +427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 494537,
+      "num": 902164,
+      "word": "于正签的新人是张石头",
+      "onboard_time": 1728371182,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 492809,
       "num": 492809,
       "word": "节后上班",
@@ -467,20 +475,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 452090,
+      "raw_hot": 457561,
       "num": 424907,
       "word": "东北雨姐删除了道歉视频",
       "onboard_time": 1728367520,
       "rank": 15,
       "category": "网红"
-    },
-    {
-      "raw_hot": 449436,
-      "num": 902164,
-      "word": "于正签的新人是张石头",
-      "onboard_time": 1728371182,
-      "rank": 7,
-      "category": "艺人"
     },
     {
       "raw_hot": 443688,
@@ -529,6 +529,14 @@
       "onboard_time": 1728321075,
       "rank": 9,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 400289,
+      "num": 616381,
+      "word": "纪委回应女子举报被中学纪委书记强暴",
+      "onboard_time": 1728371661,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 392329,
@@ -595,6 +603,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 359973,
+      "num": 304236,
+      "word": "男子捉奸收补偿被控敲诈案改判无罪",
+      "onboard_time": 1728370223,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 359864,
       "num": 359864,
       "word": "A股 过山车",
@@ -643,20 +659,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 347786,
+      "num": 347786,
+      "word": "东北雨姐拍摄基地人去房空",
+      "onboard_time": 1728372021,
+      "rank": 33,
+      "category": "网红"
+    },
+    {
       "raw_hot": 344310,
       "num": 765771,
       "word": "国庆档新片票房TOP3",
       "onboard_time": 1728354560,
       "rank": 8,
       "category": "电影"
-    },
-    {
-      "raw_hot": 340944,
-      "num": 304236,
-      "word": "男子捉奸收补偿被控敲诈案改判无罪",
-      "onboard_time": 1728370223,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 338485,
@@ -771,6 +787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 292111,
+      "num": 292111,
+      "word": "从他的27岁走到她的27岁",
+      "onboard_time": 1728372439,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 291319,
       "num": 291319,
       "word": "青川地震",
@@ -819,6 +843,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 279346,
+      "num": 279346,
+      "word": "女子实名举报被四川一中学纪委书记强暴",
+      "onboard_time": 1728371841,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 278662,
       "num": 278662,
       "word": "陈雨菲重返世界第一",
@@ -843,14 +875,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 272880,
-      "num": 272880,
-      "word": "纪委回应女子举报被中学纪委书记强暴",
-      "onboard_time": 1728371661,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 267025,
       "num": 267025,
       "word": "田柾国超级碗邀约被Hybe拒绝",
@@ -865,6 +889,14 @@
       "onboard_time": 1728362241,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 259063,
+      "num": 348871,
+      "word": "心动7一块蛋糕引发的大乌龙",
+      "onboard_time": 1728371420,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 254405,
@@ -955,12 +987,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 219977,
-      "num": 219977,
-      "word": "东北雨姐拍摄基地人去房空",
-      "onboard_time": 1728372021,
-      "rank": 33,
-      "category": "网红"
+      "raw_hot": 228241,
+      "num": 228241,
+      "word": "国庆假期国内出游7.65亿人次",
+      "onboard_time": 1728372560,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 217671,
@@ -1073,14 +1105,6 @@
       "onboard_time": 1728368240,
       "rank": 13,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 200274,
-      "num": 348871,
-      "word": "心动7一块蛋糕引发的大乌龙",
-      "onboard_time": 1728371420,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 198972,
@@ -1307,6 +1331,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 167059,
+      "num": 167059,
+      "word": "沪指收涨4.59%",
+      "onboard_time": 1728372080,
+      "rank": 49,
+      "category": "财经"
+    },
+    {
       "raw_hot": 166897,
       "num": 839353,
       "word": "苹果或将放弃一年一更新模式",
@@ -1337,14 +1369,6 @@
       "onboard_time": 1728358040,
       "rank": 43,
       "category": "财经"
-    },
-    {
-      "raw_hot": 163971,
-      "num": 163971,
-      "word": "女子实名举报被四川一中学纪委书记强暴",
-      "onboard_time": 1728371841,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 163683,
@@ -1385,6 +1409,14 @@
       "onboard_time": 1728353720,
       "rank": 47,
       "category": "财经"
+    },
+    {
+      "raw_hot": 158460,
+      "num": 332220,
+      "word": "张石头",
+      "onboard_time": 1728372501,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 158273,
@@ -1483,6 +1515,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 145151,
+      "num": 145151,
+      "word": "这可是你们杭州的女婿",
+      "onboard_time": 1728372921,
+      "rank": 45,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 144799,
       "num": 144799,
       "word": "s14抽签",
@@ -1521,14 +1561,6 @@
       "onboard_time": 1728341113,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 134656,
-      "num": 134656,
-      "word": "沪指收涨4.59%",
-      "onboard_time": 1728372080,
-      "rank": 49,
-      "category": "财经"
     },
     {
       "raw_hot": 134104,
@@ -1699,6 +1731,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 98315,
+      "num": 450857,
+      "word": "为什么说哀牢山是神秘又危险的禁区",
+      "onboard_time": 1728371661,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 97724,
       "num": 559315,
       "word": "星空下科考队冲顶画面太燃了",
@@ -1833,6 +1873,14 @@
       "onboard_time": 1728299903,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 78055,
+      "num": 350157,
+      "word": "港股一度跌近10%发生了什么",
+      "onboard_time": 1728372921,
+      "rank": 14,
+      "category": "财经"
     },
     {
       "raw_hot": 76474,
@@ -2035,14 +2083,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 44053,
-      "num": 450857,
-      "word": "为什么说哀牢山是神秘又危险的禁区",
-      "onboard_time": 1728371661,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 41410,
       "num": 702914,
       "word": "港股",
@@ -2107,7 +2147,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 33865,
+      "raw_hot": 36872,
       "num": 168423,
       "word": "建议成毅把冲锋衣焊身上",
       "onboard_time": 1728369320,
