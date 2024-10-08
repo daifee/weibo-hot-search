@@ -1,6 +1,6 @@
 {
   "startTime": 1728145573126,
-  "endTime": 1728397411043,
+  "endTime": 1728398479321,
   "band_list": [
     {
       "raw_hot": 12210422,
@@ -35,12 +35,28 @@
       "category": "体育,网红"
     },
     {
+      "raw_hot": 4118515,
+      "num": 4118515,
+      "word": "孙颖莎1比3金琴英",
+      "onboard_time": 1728397823,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 3580252,
       "num": 3580252,
       "word": "A股",
       "onboard_time": 1728346401,
       "rank": 0,
       "category": "财经"
+    },
+    {
+      "raw_hot": 3470476,
+      "num": 3470476,
+      "word": "孙颖莎vs金琴英",
+      "onboard_time": 1728388760,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 3185534,
@@ -289,14 +305,6 @@
       "onboard_time": 1728356239,
       "rank": 38,
       "category": "财经"
-    },
-    {
-      "raw_hot": 1492695,
-      "num": 1492695,
-      "word": "孙颖莎vs金琴英",
-      "onboard_time": 1728388760,
-      "rank": 1,
-      "category": "体育"
     },
     {
       "raw_hot": 1453629,
@@ -715,8 +723,16 @@
       "category": "财经"
     },
     {
+      "raw_hot": 974236,
+      "num": 411554,
+      "word": "对王楚钦别捧杀也别棒杀",
+      "onboard_time": 1728397401,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 971155,
-      "num": 362350,
+      "num": 389870,
       "word": "父子殴打一家3口后开车撞人",
       "onboard_time": 1728393441,
       "rank": 36,
@@ -745,6 +761,14 @@
       "onboard_time": 1728391280,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 947978,
+      "num": 947978,
+      "word": "国乒女团vs朝鲜",
+      "onboard_time": 1728387800,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 941566,
@@ -915,6 +939,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 798327,
+      "num": 405885,
+      "word": "价值10万自行车被小孩碰倒后续",
+      "onboard_time": 1728393502,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 792410,
       "num": 439044,
       "word": "监控16小时记录哀牢山里究竟有什么",
@@ -945,6 +977,14 @@
       "onboard_time": 1728211398,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 765416,
+      "num": 487768,
+      "word": "k总 抑郁",
+      "onboard_time": 1728395181,
+      "rank": 16,
+      "category": "网红"
     },
     {
       "raw_hot": 765189,
@@ -1283,14 +1323,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 649919,
-      "num": 649919,
-      "word": "国乒女团vs朝鲜",
-      "onboard_time": 1728387800,
-      "rank": 7,
-      "category": "体育"
-    },
-    {
       "raw_hot": 647149,
       "num": 647149,
       "word": "王楚钦3比1阿拉米扬",
@@ -1387,14 +1419,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 612558,
-      "num": 487768,
-      "word": "k总 抑郁",
-      "onboard_time": 1728395181,
-      "rank": 16,
-      "category": "网红"
-    },
-    {
       "raw_hot": 609006,
       "num": 275923,
       "word": "结婚彩礼该不该直接给新娘",
@@ -1449,6 +1473,14 @@
       "onboard_time": 1728216199,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 581112,
+      "num": 383226,
+      "word": "戚薇李承铉敢说 我不敢听",
+      "onboard_time": 1728395720,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 572617,
@@ -2019,14 +2051,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 399231,
-      "num": 399231,
-      "word": "价值10万自行车被小孩碰倒后续",
-      "onboard_time": 1728393502,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 399136,
       "num": 250645,
       "word": "张大大 你们是真的饿了",
@@ -2211,6 +2235,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 373900,
+      "num": 373900,
+      "word": "张家界回应被指拆成20个景区收费",
+      "onboard_time": 1728395298,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 373737,
       "num": 371732,
       "word": "求中餐厅全员二搭花少教程",
@@ -2329,14 +2361,6 @@
       "onboard_time": 1728381920,
       "rank": 18,
       "category": "电影"
-    },
-    {
-      "raw_hot": 360352,
-      "num": 360352,
-      "word": "戚薇李承铉敢说 我不敢听",
-      "onboard_time": 1728395720,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 360159,
@@ -2465,6 +2489,14 @@
       "onboard_time": 1728204319,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 350904,
+      "num": 350904,
+      "word": "国乒女团亚锦赛亮相",
+      "onboard_time": 1728396620,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 345483,
@@ -2956,7 +2988,7 @@
     },
     {
       "raw_hot": 287099,
-      "num": 287099,
+      "num": 374508,
       "word": "林草局回应颜料师进哀牢山取材",
       "onboard_time": 1728395961,
       "rank": 27,
@@ -3107,14 +3139,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 273846,
-      "num": 273846,
-      "word": "张家界回应被指拆成20个景区收费",
-      "onboard_time": 1728395298,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 273633,
       "num": 273633,
       "word": "钱天一晒和马龙合影",
@@ -3144,14 +3168,6 @@
       "word": "王楚钦出席球员见面会",
       "onboard_time": 1728188837,
       "rank": 30,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 270261,
-      "num": 270261,
-      "word": "国乒女团亚锦赛亮相",
-      "onboard_time": 1728396620,
-      "rank": 29,
       "category": "体育"
     },
     {
@@ -3939,6 +3955,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 211610,
+      "num": 234460,
+      "word": "网恋12年英国男友竟是闺蜜假扮",
+      "onboard_time": 1728395362,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 211006,
       "num": 211006,
       "word": "网友冰岛偶遇沈梦辰",
@@ -4339,6 +4363,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 196105,
+      "num": 196105,
+      "word": "女子吐槽景区已购门票仍收过桥费",
+      "onboard_time": 1728397161,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 196022,
       "num": 185404,
       "word": "谁说当老师就必须受气",
@@ -4521,6 +4553,14 @@
       "onboard_time": 1728364699,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 189238,
+      "num": 189238,
+      "word": "国乒女团0比1朝鲜",
+      "onboard_time": 1728398302,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 188529,
@@ -4835,14 +4875,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 177231,
-      "num": 234460,
-      "word": "网恋12年英国男友竟是闺蜜假扮",
-      "onboard_time": 1728395362,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 176580,
       "num": 176580,
       "word": "亚锦赛观众免费入场",
@@ -4921,14 +4953,6 @@
       "onboard_time": 1728352220,
       "rank": 38,
       "category": "财经"
-    },
-    {
-      "raw_hot": 173479,
-      "num": 173479,
-      "word": "女子吐槽景区已购门票仍收过桥费",
-      "onboard_time": 1728397161,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 173371,
@@ -5659,6 +5683,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 152629,
+      "num": 152629,
+      "word": "A股天量成交额传递了哪些信号",
+      "onboard_time": 1728395001,
+      "rank": 43,
+      "category": "财经"
+    },
+    {
       "raw_hot": 152307,
       "num": 152307,
       "word": "伯远 EXO的e不发音",
@@ -5801,6 +5833,14 @@
       "onboard_time": 1728217880,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 148665,
+      "num": 148665,
+      "word": "日本一火山一天喷发3次",
+      "onboard_time": 1728398122,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 148464,
@@ -6035,6 +6075,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 141518,
+      "num": 532197,
+      "word": "霸总为郑钦文庆生",
+      "onboard_time": 1728394221,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 141419,
       "num": 141419,
       "word": "井胧姐姐喜欢阿如那",
@@ -6105,6 +6153,14 @@
       "onboard_time": 1728203478,
       "rank": 37,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 139109,
+      "num": 139109,
+      "word": "亚锦赛赛程",
+      "onboard_time": 1728388040,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 138913,
@@ -6393,14 +6449,6 @@
       "onboard_time": 1728225260,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 129401,
-      "num": 129401,
-      "word": "亚锦赛赛程",
-      "onboard_time": 1728388040,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 128953,
@@ -7443,14 +7491,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 95910,
-      "num": 532197,
-      "word": "霸总为郑钦文庆生",
-      "onboard_time": 1728394221,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 95590,
       "num": 95590,
       "word": "李大霄 我很担心8号开盘",
@@ -7744,6 +7784,14 @@
       "word": "古人笔下的浪漫秋意",
       "onboard_time": 1728362721,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 82411,
+      "num": 549746,
+      "word": "国庆楼市火爆有房企7天卖了148亿",
+      "onboard_time": 1728396561,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -8163,14 +8211,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 57897,
-      "num": 549746,
-      "word": "国庆楼市火爆有房企7天卖了148亿",
-      "onboard_time": 1728396561,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 57867,
       "num": 57867,
       "word": "任嘉伦佳偶天成新妆造",
@@ -8425,6 +8465,14 @@
       "onboard_time": 1728369802,
       "rank": 29,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 45381,
+      "num": 392977,
+      "word": "贾耗 男女思维差异",
+      "onboard_time": 1728397703,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 45159,
@@ -9124,7 +9172,7 @@
     },
     {
       "raw_hot": 16622,
-      "num": 1200505,
+      "num": 2002714,
       "word": "中国饭碗端得稳端得牢",
       "onboard_time": 1728362541,
       "rank": 25,
