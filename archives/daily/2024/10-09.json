@@ -1,6 +1,6 @@
 {
   "startTime": 1728404919019,
-  "endTime": 1728481283970,
+  "endTime": 1728483677746,
   "band_list": [
     {
       "raw_hot": 3282482,
@@ -124,7 +124,7 @@
     },
     {
       "raw_hot": 1292556,
-      "num": 353987,
+      "num": 359485,
       "word": "陈浩民老婆回应叶珂参加生日会",
       "onboard_time": 1728474858,
       "rank": 10,
@@ -340,11 +340,19 @@
     },
     {
       "raw_hot": 872466,
-      "num": 342858,
+      "num": 353759,
       "word": "K总回应恋情",
       "onboard_time": 1728473480,
       "rank": 32,
       "category": "网红"
+    },
+    {
+      "raw_hot": 863826,
+      "num": 1138212,
+      "word": "陈梦送出自己的奥运夺冠球衣",
+      "onboard_time": 1728478399,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 854643,
@@ -483,14 +491,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 654787,
-      "num": 654787,
-      "word": "陈梦送出自己的奥运夺冠球衣",
-      "onboard_time": 1728478399,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 639467,
       "num": 406925,
       "word": "张新成王玉雯被父母撮合过",
@@ -571,12 +571,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 585692,
+      "num": 585692,
+      "word": "国乒女团vs日本",
+      "onboard_time": 1728482660,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 574078,
       "num": 357111,
       "word": "男子称花2个月工资追女生反被拉黑",
       "onboard_time": 1728400880,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 569764,
+      "num": 569764,
+      "word": "林高远王艺迪去握手教练睡着了",
+      "onboard_time": 1728481161,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 565160,
@@ -891,6 +907,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 364598,
+      "num": 364598,
+      "word": "全锦赛",
+      "onboard_time": 1728479899,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 362661,
       "num": 523170,
       "word": "密逃这期有杨幂黄明昊",
@@ -908,7 +932,7 @@
     },
     {
       "raw_hot": 359709,
-      "num": 359709,
+      "num": 366231,
       "word": "李沁古装",
       "onboard_time": 1728475459,
       "rank": 5,
@@ -985,14 +1009,6 @@
       "onboard_time": 1728475638,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 319325,
-      "num": 319325,
-      "word": "全锦赛",
-      "onboard_time": 1728479899,
-      "rank": 26,
-      "category": "体育"
     },
     {
       "raw_hot": 316992,
@@ -1073,6 +1089,14 @@
       "onboard_time": 1728455060,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 288141,
+      "num": 310120,
+      "word": "郑钦文幽默回应冠军积分升至第7",
+      "onboard_time": 1728480980,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 287286,
@@ -1241,6 +1265,14 @@
       "onboard_time": 1728456317,
       "rank": 49,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 251920,
+      "num": 292305,
+      "word": "男子连续2天高速逆行被记24分",
+      "onboard_time": 1728476960,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 250998,
@@ -1467,6 +1499,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 217416,
+      "num": 263065,
+      "word": "杨洋雨霖铃头套",
+      "onboard_time": 1728483561,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 216803,
       "num": 406705,
       "word": "七夜雪开播",
@@ -1515,6 +1555,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 209211,
+      "num": 302163,
+      "word": "七夜雪 抠图",
+      "onboard_time": 1728481761,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 207130,
       "num": 447678,
       "word": "霉霉成全球最富女歌手",
@@ -1555,12 +1603,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 204510,
+      "num": 204510,
+      "word": "亚锦赛",
+      "onboard_time": 1728482840,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 203944,
       "num": 203944,
       "word": "游客飞无人机拍摄吓到花花",
       "onboard_time": 1728437176,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 203811,
+      "num": 203811,
+      "word": "钱锟川西自驾旅行",
+      "onboard_time": 1728482540,
+      "rank": 39,
+      "category": "旅游"
     },
     {
       "raw_hot": 203536,
@@ -1595,12 +1659,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 199646,
-      "num": 292305,
-      "word": "男子连续2天高速逆行被记24分",
-      "onboard_time": 1728476960,
-      "rank": 41,
-      "category": "社会新闻"
+      "raw_hot": 199441,
+      "num": 296295,
+      "word": "步惊云淘汰",
+      "onboard_time": 1728478340,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 199381,
@@ -1715,14 +1779,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 191770,
-      "num": 296295,
-      "word": "步惊云淘汰",
-      "onboard_time": 1728478340,
-      "rank": 29,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 191520,
       "num": 191520,
       "word": "秦昊 付辛博很多年前是厉害的组合",
@@ -1737,6 +1793,22 @@
       "onboard_time": 1728465799,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 190435,
+      "num": 190435,
+      "word": "河北警方回应2名裸体男童遭虐打",
+      "onboard_time": 1728482961,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 190292,
+      "num": 252179,
+      "word": "东北雨哥回应蹭流量",
+      "onboard_time": 1728481520,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 189599,
@@ -1832,6 +1904,14 @@
       "word": "新股民纠结是否入场",
       "onboard_time": 1728451099,
       "rank": 42,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 178365,
+      "num": 364131,
+      "word": "40亿元存款中超35%已流入股市",
+      "onboard_time": 1728480019,
+      "rank": 45,
       "category": "财经"
     },
     {
@@ -1939,14 +2019,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 171715,
-      "num": 171715,
-      "word": "林高远王艺迪去握手教练睡着了",
-      "onboard_time": 1728481161,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
       "raw_hot": 171380,
       "num": 171380,
       "word": "柠季就柯南联名争议致歉",
@@ -1977,14 +2049,6 @@
       "onboard_time": 1728465979,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 167988,
-      "num": 167988,
-      "word": "40亿元存款中超35%已流入股市",
-      "onboard_time": 1728480019,
-      "rank": 45,
-      "category": "财经"
     },
     {
       "raw_hot": 167955,
@@ -2027,6 +2091,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 165281,
+      "num": 325042,
+      "word": "花一个月工资在海上漂一周值吗",
+      "onboard_time": 1728479300,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 164593,
       "num": 413835,
       "word": "王艺迪vs朱成竹",
@@ -2041,6 +2113,14 @@
       "onboard_time": 1728449000,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 163535,
+      "num": 287283,
+      "word": "白鹿云包场曾舜晞新剧",
+      "onboard_time": 1728481882,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 163216,
@@ -2163,6 +2243,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 151785,
+      "num": 151785,
+      "word": "哀牢山野游",
+      "onboard_time": 1728483140,
+      "rank": 48,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 151559,
       "num": 151559,
       "word": "第五人格",
@@ -2185,6 +2273,14 @@
       "onboard_time": 1728451278,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 150538,
+      "num": 150538,
+      "word": "东京食尸鬼 第一季最终话",
+      "onboard_time": 1728482660,
+      "rank": 49,
+      "category": "动漫"
     },
     {
       "raw_hot": 149708,
@@ -2257,6 +2353,14 @@
       "onboard_time": 1728400401,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 140841,
+      "num": 347276,
+      "word": "吉利星愿价格6.98万元起",
+      "onboard_time": 1728479660,
+      "rank": 21,
+      "category": "汽车"
     },
     {
       "raw_hot": 140128,
@@ -2651,6 +2755,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 83540,
+      "num": 287001,
+      "word": "越来越多打工人爱上邮轮旅行",
+      "onboard_time": 1728483621,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 82530,
       "num": 329456,
       "word": "张晚意任敏新剧cp感",
@@ -2673,6 +2785,14 @@
       "onboard_time": 1728411131,
       "rank": 41,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 78588,
+      "num": 337244,
+      "word": "女子5年花光50万积蓄追发财梦",
+      "onboard_time": 1728482660,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 78530,
@@ -2715,14 +2835,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 73625,
-      "num": 319321,
-      "word": "吉利星愿价格6.98万元起",
-      "onboard_time": 1728479660,
-      "rank": 21,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 72958,
       "num": 458976,
       "word": "以空袭叙首都居民楼致7死11伤",
@@ -2739,6 +2851,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 69404,
+      "num": 323696,
+      "word": "王艺迪vs张本美和",
+      "onboard_time": 1728483321,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 68951,
       "num": 329407,
       "word": "呼兰 16年就开始备战脱口秀奥运会",
@@ -2752,14 +2872,6 @@
       "word": "市监局回应外卖肉夹馍中吃到针头",
       "onboard_time": 1728440659,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 67865,
-      "num": 325042,
-      "word": "花一个月工资在海上漂一周值吗",
-      "onboard_time": 1728479300,
-      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -2801,6 +2913,14 @@
       "onboard_time": 1728391821,
       "rank": 48,
       "category": "网红"
+    },
+    {
+      "raw_hot": 58260,
+      "num": 314382,
+      "word": "没有抽象的爸哪来泼辣的妈",
+      "onboard_time": 1728482480,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 58196,
@@ -2904,6 +3024,14 @@
       "word": "苗疆陈朵朵或将面临罚款",
       "onboard_time": 1728467840,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 44242,
+      "num": 660199,
+      "word": "今年全国新开国际货运航线超120条",
+      "onboard_time": 1728481100,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -3051,14 +3179,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 29579,
-      "num": 310120,
-      "word": "郑钦文幽默回应冠军积分升至第7",
-      "onboard_time": 1728480980,
-      "rank": 13,
-      "category": "体育"
-    },
-    {
       "raw_hot": 26950,
       "num": 29972,
       "word": "海警回应菲律宾2船侵闯黄岩岛海域",
@@ -3095,6 +3215,14 @@
       "num": 403108,
       "word": "警方对掏挖丹霞土壤当事人批评教育",
       "onboard_time": 1728464479,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 23368,
+      "num": 311713,
+      "word": "中国造霸总短剧硬控海外主妇",
+      "onboard_time": 1728482720,
       "rank": 19,
       "category": "社会新闻"
     },
@@ -3192,14 +3320,6 @@
       "word": "定都阁被明月钩起来了",
       "onboard_time": 1728426673,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 7978,
-      "num": 640666,
-      "word": "今年全国新开国际货运航线超120条",
-      "onboard_time": 1728481100,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
