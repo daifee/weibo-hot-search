@@ -1,6 +1,6 @@
 {
   "startTime": 1728404919019,
-  "endTime": 1728447973813,
+  "endTime": 1728448860203,
   "band_list": [
     {
       "raw_hot": 3282482,
@@ -59,6 +59,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 1254258,
+      "num": 1254258,
+      "word": "17年的玩具我24年开了眼界",
+      "onboard_time": 1728438619,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1242137,
       "num": 582151,
       "word": "A股开盘近5000只个股下跌",
@@ -67,12 +75,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 1184046,
-      "num": 1056639,
-      "word": "17年的玩具我24年开了眼界",
-      "onboard_time": 1728438619,
-      "rank": 30,
-      "category": "幽默"
+      "raw_hot": 1161598,
+      "num": 1161598,
+      "word": "车停正规停车位上被交警无故拖走",
+      "onboard_time": 1728446600,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1130566,
@@ -211,6 +219,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 599687,
+      "num": 599687,
+      "word": "业内提醒散户有问题的公司不要碰",
+      "onboard_time": 1728442459,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 596811,
+      "num": 456936,
+      "word": "朝鲜永久切断并封锁与韩国交界南部国境",
+      "onboard_time": 1728446240,
+      "rank": 17,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 592361,
       "num": 458156,
       "word": "A股低开",
@@ -275,6 +299,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 490663,
+      "num": 490663,
+      "word": "文泰一被警方立案第二天生日直播",
+      "onboard_time": 1728447080,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 486547,
       "num": 486547,
       "word": "孙颖莎两项赛事档期无缝衔接",
@@ -283,28 +315,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 467828,
-      "num": 467828,
-      "word": "车停正规停车位上被交警无故拖走",
-      "onboard_time": 1728446600,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 466919,
-      "num": 466919,
-      "word": "业内提醒散户有问题的公司不要碰",
-      "onboard_time": 1728442459,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 459714,
-      "num": 467292,
-      "word": "文泰一被警方立案第二天生日直播",
-      "onboard_time": 1728447080,
-      "rank": 8,
-      "category": "艺人"
+      "raw_hot": 465333,
+      "num": 414173,
+      "word": "洪小草小奶尼分手",
+      "onboard_time": 1728445278,
+      "rank": 48,
+      "category": "网红"
     },
     {
       "raw_hot": 458778,
@@ -313,14 +329,6 @@
       "onboard_time": 1728388281,
       "rank": 39,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 456936,
-      "num": 456936,
-      "word": "朝鲜永久切断并封锁与韩国交界南部国境",
-      "onboard_time": 1728446240,
-      "rank": 17,
-      "category": "国外时政"
     },
     {
       "raw_hot": 455160,
@@ -377,14 +385,6 @@
       "onboard_time": 1728389299,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 414173,
-      "num": 414173,
-      "word": "洪小草小奶尼分手",
-      "onboard_time": 1728445278,
-      "rank": 48,
-      "category": "网红"
     },
     {
       "raw_hot": 410672,
@@ -459,6 +459,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 291211,
+      "num": 291211,
+      "word": "上海爷叔为何能成为最火股民",
+      "onboard_time": 1728446720,
+      "rank": 35,
+      "category": "财经"
+    },
+    {
       "raw_hot": 283317,
       "num": 283317,
       "word": "胡歌林依晨聚餐合照",
@@ -499,6 +507,30 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 276308,
+      "num": 276308,
+      "word": "苗疆陈朵朵道歉",
+      "onboard_time": 1728448281,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 276305,
+      "num": 455405,
+      "word": "交警回应正规停放的车辆被拖走",
+      "onboard_time": 1728447141,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 270521,
+      "num": 485094,
+      "word": "恩利欧阳娜娜姐妹合照",
+      "onboard_time": 1728444919,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 269357,
       "num": 269357,
       "word": "租房8年被收损耗费租客觉得伤感情",
@@ -523,12 +555,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 258361,
-      "num": 258361,
-      "word": "交警回应正规停放的车辆被拖走",
-      "onboard_time": 1728447141,
-      "rank": 32,
-      "category": "社会新闻"
+      "raw_hot": 265126,
+      "num": 265126,
+      "word": "沈星回生日pv",
+      "onboard_time": 1728447560,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 256764,
@@ -539,20 +571,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 256441,
-      "num": 485094,
-      "word": "恩利欧阳娜娜姐妹合照",
-      "onboard_time": 1728444919,
-      "rank": 18,
+      "raw_hot": 250998,
+      "num": 250998,
+      "word": "丁程鑫你比付航像猴子",
+      "onboard_time": 1728446960,
+      "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 250836,
-      "num": 250836,
-      "word": "上海爷叔为何能成为最火股民",
-      "onboard_time": 1728446720,
-      "rank": 35,
-      "category": "财经"
     },
     {
       "raw_hot": 247004,
@@ -563,6 +587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 243223,
+      "num": 243223,
+      "word": "恋与深空 第三视角",
+      "onboard_time": 1728447801,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 238720,
       "num": 238720,
       "word": "恋与制作人",
@@ -571,20 +603,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 237077,
-      "num": 237077,
-      "word": "沈星回生日pv",
-      "onboard_time": 1728447560,
-      "rank": 37,
+      "raw_hot": 228894,
+      "num": 228894,
+      "word": "闪耀暖暖",
+      "onboard_time": 1728448521,
+      "rank": 41,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 229959,
-      "num": 229959,
-      "word": "丁程鑫你比付航像猴子",
-      "onboard_time": 1728446960,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 228721,
@@ -609,6 +633,22 @@
       "onboard_time": 1728395720,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 226654,
+      "num": 382323,
+      "word": "张新成王玉雯谈竹马变恋人可能性",
+      "onboard_time": 1728446000,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 225340,
+      "num": 225340,
+      "word": "学信网",
+      "onboard_time": 1728444860,
+      "rank": 38,
+      "category": "教育"
     },
     {
       "raw_hot": 224577,
@@ -643,19 +683,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 218698,
+      "num": 371831,
+      "word": "腾讯视频9号开放日",
+      "onboard_time": 1728447921,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 216803,
       "num": 406705,
       "word": "七夜雪开播",
       "onboard_time": 1728440119,
       "rank": 29,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 214380,
-      "num": 350190,
-      "word": "张新成王玉雯谈竹马变恋人可能性",
-      "onboard_time": 1728446000,
-      "rank": 27,
       "category": "剧集"
     },
     {
@@ -673,6 +713,14 @@
       "onboard_time": 1728437718,
       "rank": 31,
       "category": "教育"
+    },
+    {
+      "raw_hot": 207130,
+      "num": 447678,
+      "word": "霉霉成全球最富女歌手",
+      "onboard_time": 1728443359,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 205342,
@@ -699,12 +747,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 200573,
-      "num": 200573,
-      "word": "学信网",
-      "onboard_time": 1728444860,
-      "rank": 38,
-      "category": "教育"
+      "raw_hot": 199381,
+      "num": 199381,
+      "word": "五大券商致信新股民",
+      "onboard_time": 1728447921,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 198550,
@@ -721,6 +769,14 @@
       "onboard_time": 1728442700,
       "rank": 48,
       "category": "财经"
+    },
+    {
+      "raw_hot": 195335,
+      "num": 195335,
+      "word": "老累 香菇",
+      "onboard_time": 1728448342,
+      "rank": 47,
+      "category": "动漫"
     },
     {
       "raw_hot": 193417,
@@ -771,14 +827,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 179723,
-      "num": 179723,
-      "word": "恋与深空 第三视角",
-      "onboard_time": 1728447801,
-      "rank": 45,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 176873,
       "num": 176873,
       "word": "明日方舟 ask",
@@ -819,14 +867,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 173558,
-      "num": 173558,
-      "word": "腾讯视频9号开放日",
-      "onboard_time": 1728447921,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 173361,
       "num": 173361,
       "word": "以总理称已打死黎真主党领导人继任者",
@@ -843,14 +883,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 169780,
-      "num": 447678,
-      "word": "霉霉成全球最富女歌手",
-      "onboard_time": 1728443359,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 168111,
       "num": 168111,
       "word": "朴山多拉晒YG家族合照没有Jennie",
@@ -865,14 +897,6 @@
       "onboard_time": 1728402080,
       "rank": 26,
       "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 167145,
-      "num": 167145,
-      "word": "五大券商致信新股民",
-      "onboard_time": 1728447921,
-      "rank": 49,
-      "category": "财经"
     },
     {
       "raw_hot": 163216,
@@ -1219,6 +1243,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 75171,
+      "num": 459563,
+      "word": "vivo全球首发天玑9400",
+      "onboard_time": 1728445278,
+      "rank": 47,
+      "category": "数码"
+    },
+    {
       "raw_hot": 73947,
       "num": 73947,
       "word": "下次不准再P了",
@@ -1259,14 +1291,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 61945,
-      "num": 459563,
-      "word": "vivo全球首发天玑9400",
-      "onboard_time": 1728445278,
-      "rank": 47,
-      "category": "数码"
-    },
-    {
       "raw_hot": 60348,
       "num": 63863,
       "word": "山取",
@@ -1275,20 +1299,20 @@
       "category": "网红"
     },
     {
+      "raw_hot": 55322,
+      "num": 1079161,
+      "word": "我国加力推出增量政策重点在五方面",
+      "onboard_time": 1728444799,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 54016,
       "num": 54016,
       "word": "王晶谈张颂文走红",
       "onboard_time": 1728408313,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 52198,
-      "num": 1060201,
-      "word": "我国加力推出增量政策重点在五方面",
-      "onboard_time": 1728444799,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 47160,
@@ -1308,7 +1332,7 @@
     },
     {
       "raw_hot": 46126,
-      "num": 309883,
+      "num": 438754,
       "word": "刘亦菲一个镜头六种愉悦情绪",
       "onboard_time": 1728447080,
       "rank": 29,
@@ -1353,6 +1377,14 @@
       "onboard_time": 1728356358,
       "rank": 13,
       "category": "财经"
+    },
+    {
+      "raw_hot": 35679,
+      "num": 460152,
+      "word": "国庆北京上海新房认购量超9月全月",
+      "onboard_time": 1728446720,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 34316,
@@ -1427,14 +1459,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 23376,
-      "num": 460152,
-      "word": "国庆北京上海新房认购量超9月全月",
-      "onboard_time": 1728446720,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 22914,
       "num": 31414,
       "word": "官方回应双层列车为节假日限定",
@@ -1465,6 +1489,14 @@
       "onboard_time": 1728401000,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 15442,
+      "num": 446242,
+      "word": "国乒女团vs中国香港",
+      "onboard_time": 1728430878,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 14492,

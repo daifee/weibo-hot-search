@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1728447973813,
+  "endTime": 1728448860203,
   "band_list": [
     {
       "raw_hot": 12210422,
@@ -835,6 +835,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1254258,
+      "num": 1254258,
+      "word": "17年的玩具我24年开了眼界",
+      "onboard_time": 1728438619,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1253548,
       "num": 981891,
       "word": "儿子参与鬼火少年炸街被父亲暴揍",
@@ -971,14 +979,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 1184046,
-      "num": 1056639,
-      "word": "17年的玩具我24年开了眼界",
-      "onboard_time": 1728438619,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 1178046,
       "num": 538570,
       "word": "林德回应战胜王楚钦",
@@ -1048,6 +1048,14 @@
       "word": "新买的宾利送人就医座椅被血染红",
       "onboard_time": 1728278598,
       "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1161598,
+      "num": 1161598,
+      "word": "车停正规停车位上被交警无故拖走",
+      "onboard_time": 1728446600,
+      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -3339,12 +3347,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 599687,
+      "num": 599687,
+      "word": "业内提醒散户有问题的公司不要碰",
+      "onboard_time": 1728442459,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 596916,
       "num": 433679,
       "word": "刘烨 三金影帝的实力",
       "onboard_time": 1727859498,
       "rank": 11,
       "category": "电影"
+    },
+    {
+      "raw_hot": 596811,
+      "num": 456936,
+      "word": "朝鲜永久切断并封锁与韩国交界南部国境",
+      "onboard_time": 1728446240,
+      "rank": 17,
+      "category": "国外时政"
     },
     {
       "raw_hot": 596347,
@@ -4275,6 +4299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 490663,
+      "num": 490663,
+      "word": "文泰一被警方立案第二天生日直播",
+      "onboard_time": 1728447080,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 488790,
       "num": 409108,
       "word": "王楚钦球员见面会",
@@ -4475,28 +4507,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 467828,
-      "num": 467828,
-      "word": "车停正规停车位上被交警无故拖走",
-      "onboard_time": 1728446600,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 466919,
-      "num": 466919,
-      "word": "业内提醒散户有问题的公司不要碰",
-      "onboard_time": 1728442459,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 465493,
       "num": 365145,
       "word": "offer6带教 香港首位内地女性大律师",
       "onboard_time": 1727932218,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 465333,
+      "num": 414173,
+      "word": "洪小草小奶尼分手",
+      "onboard_time": 1728445278,
+      "rank": 48,
+      "category": "网红"
     },
     {
       "raw_hot": 465270,
@@ -4539,14 +4563,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 459714,
-      "num": 467292,
-      "word": "文泰一被警方立案第二天生日直播",
-      "onboard_time": 1728447080,
-      "rank": 8,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 459017,
       "num": 382377,
       "word": "专家提醒月经不规则不可掉以轻心",
@@ -4585,14 +4601,6 @@
       "onboard_time": 1727930478,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 456936,
-      "num": 456936,
-      "word": "朝鲜永久切断并封锁与韩国交界南部国境",
-      "onboard_time": 1728446240,
-      "rank": 17,
-      "category": "国外时政"
     },
     {
       "raw_hot": 456873,
@@ -5065,14 +5073,6 @@
       "onboard_time": 1728266778,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 414173,
-      "num": 414173,
-      "word": "洪小草小奶尼分手",
-      "onboard_time": 1728445278,
-      "rank": 48,
-      "category": "网红"
     },
     {
       "raw_hot": 413823,
@@ -7107,6 +7107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 291211,
+      "num": 291211,
+      "word": "上海爷叔为何能成为最火股民",
+      "onboard_time": 1728446720,
+      "rank": 35,
+      "category": "财经"
+    },
+    {
       "raw_hot": 290987,
       "num": 290987,
       "word": "国庆假期还剩6天",
@@ -7611,6 +7619,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 276308,
+      "num": 276308,
+      "word": "苗疆陈朵朵道歉",
+      "onboard_time": 1728448281,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 276305,
+      "num": 455405,
+      "word": "交警回应正规停放的车辆被拖走",
+      "onboard_time": 1728447141,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 276199,
       "num": 276199,
       "word": "A股究竟是一波流还是牛市起点",
@@ -7811,6 +7835,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 270521,
+      "num": 485094,
+      "word": "恩利欧阳娜娜姐妹合照",
+      "onboard_time": 1728444919,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 269474,
       "num": 248711,
       "word": "张凌赫田曦薇平番",
@@ -7961,6 +7993,14 @@
       "onboard_time": 1728391100,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 265126,
+      "num": 265126,
+      "word": "沈星回生日pv",
+      "onboard_time": 1728447560,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 264671,
@@ -8179,14 +8219,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 258361,
-      "num": 258361,
-      "word": "交警回应正规停放的车辆被拖走",
-      "onboard_time": 1728447141,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 257625,
       "num": 246315,
       "word": "王楚钦说输球原因在于自己",
@@ -8233,14 +8265,6 @@
       "onboard_time": 1727835678,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 256441,
-      "num": 485094,
-      "word": "恩利欧阳娜娜姐妹合照",
-      "onboard_time": 1728444919,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 256386,
@@ -8371,20 +8395,20 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 250998,
+      "num": 250998,
+      "word": "丁程鑫你比付航像猴子",
+      "onboard_time": 1728446960,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 250936,
       "num": 250936,
       "word": "杨洋书生造型",
       "onboard_time": 1728202759,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 250836,
-      "num": 250836,
-      "word": "上海爷叔为何能成为最火股民",
-      "onboard_time": 1728446720,
-      "rank": 35,
-      "category": "财经"
     },
     {
       "raw_hot": 250798,
@@ -8659,6 +8683,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 243223,
+      "num": 243223,
+      "word": "恋与深空 第三视角",
+      "onboard_time": 1728447801,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 243146,
       "num": 243146,
       "word": "肖战歌曲预热",
@@ -8865,14 +8897,6 @@
       "onboard_time": 1727955799,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 237077,
-      "num": 237077,
-      "word": "沈星回生日pv",
-      "onboard_time": 1728447560,
-      "rank": 37,
-      "category": "游戏"
     },
     {
       "raw_hot": 237065,
@@ -9147,14 +9171,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 229959,
-      "num": 229959,
-      "word": "丁程鑫你比付航像猴子",
-      "onboard_time": 1728446960,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 229688,
       "num": 229688,
       "word": "流水迢迢热度逆跌",
@@ -9177,6 +9193,14 @@
       "onboard_time": 1728184877,
       "rank": 36,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 228894,
+      "num": 228894,
+      "word": "闪耀暖暖",
+      "onboard_time": 1728448521,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 228745,
@@ -9283,6 +9307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 226654,
+      "num": 382323,
+      "word": "张新成王玉雯谈竹马变恋人可能性",
+      "onboard_time": 1728446000,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 226266,
       "num": 226266,
       "word": "以色列发生恐袭案19岁女警身亡",
@@ -9336,6 +9368,14 @@
       "word": "粉笔模考",
       "onboard_time": 1728184517,
       "rank": 26,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 225340,
+      "num": 225340,
+      "word": "学信网",
+      "onboard_time": 1728444860,
+      "rank": 38,
       "category": "教育"
     },
     {
@@ -9603,6 +9643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 218698,
+      "num": 371831,
+      "word": "腾讯视频9号开放日",
+      "onboard_time": 1728447921,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 218672,
       "num": 218672,
       "word": "三年了爸妈3个账户都回本了",
@@ -9857,14 +9905,6 @@
       "onboard_time": 1728210919,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 214380,
-      "num": 350190,
-      "word": "张新成王玉雯谈竹马变恋人可能性",
-      "onboard_time": 1728446000,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 214172,
@@ -10161,6 +10201,14 @@
       "onboard_time": 1727747058,
       "rank": 30,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 207130,
+      "num": 447678,
+      "word": "霉霉成全球最富女歌手",
+      "onboard_time": 1728443359,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 207070,
@@ -10635,14 +10683,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 200573,
-      "num": 200573,
-      "word": "学信网",
-      "onboard_time": 1728444860,
-      "rank": 38,
-      "category": "教育"
-    },
-    {
       "raw_hot": 200551,
       "num": 200551,
       "word": "孙颖莎回应中国大满贯夺冠",
@@ -10697,6 +10737,14 @@
       "onboard_time": 1728115939,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 199381,
+      "num": 199381,
+      "word": "五大券商致信新股民",
+      "onboard_time": 1728447921,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 199300,
@@ -11073,6 +11121,14 @@
       "onboard_time": 1728007457,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 195335,
+      "num": 195335,
+      "word": "老累 香菇",
+      "onboard_time": 1728448342,
+      "rank": 47,
+      "category": "动漫"
     },
     {
       "raw_hot": 195200,
@@ -12355,14 +12411,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 179723,
-      "num": 179723,
-      "word": "恋与深空 第三视角",
-      "onboard_time": 1728447801,
-      "rank": 45,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 179681,
       "num": 179681,
       "word": "许凯陈哲远互摸腹肌",
@@ -12827,14 +12875,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 173558,
-      "num": 173558,
-      "word": "腾讯视频9号开放日",
-      "onboard_time": 1728447921,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 173371,
       "num": 173371,
       "word": "本雅明世排210",
@@ -13147,14 +13187,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 169780,
-      "num": 447678,
-      "word": "霉霉成全球最富女歌手",
-      "onboard_time": 1728443359,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 169375,
       "num": 169375,
       "word": "车车车车高速车车车车",
@@ -13321,14 +13353,6 @@
       "onboard_time": 1728124999,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 167145,
-      "num": 167145,
-      "word": "五大券商致信新股民",
-      "onboard_time": 1728447921,
-      "rank": 49,
-      "category": "财经"
     },
     {
       "raw_hot": 167122,
@@ -21723,6 +21747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 75171,
+      "num": 459563,
+      "word": "vivo全球首发天玑9400",
+      "onboard_time": 1728445278,
+      "rank": 47,
+      "category": "数码"
+    },
+    {
       "raw_hot": 75074,
       "num": 310286,
       "word": "爱祖国刻在中国人DNA里了",
@@ -22331,14 +22363,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 61945,
-      "num": 459563,
-      "word": "vivo全球首发天玑9400",
-      "onboard_time": 1728445278,
-      "rank": 47,
-      "category": "数码"
-    },
-    {
       "raw_hot": 61583,
       "num": 420977,
       "word": "贝莱德上调中国股票评级",
@@ -22723,6 +22747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 55322,
+      "num": 1079161,
+      "word": "我国加力推出增量政策重点在五方面",
+      "onboard_time": 1728444799,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 55320,
       "num": 224463,
       "word": "国庆假期各大券商开户数创历史新高",
@@ -22865,14 +22897,6 @@
       "onboard_time": 1727804174,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 52198,
-      "num": 1060201,
-      "word": "我国加力推出增量政策重点在五方面",
-      "onboard_time": 1728444799,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 52020,
@@ -23268,7 +23292,7 @@
     },
     {
       "raw_hot": 46126,
-      "num": 309883,
+      "num": 438754,
       "word": "刘亦菲一个镜头六种愉悦情绪",
       "onboard_time": 1728447080,
       "rank": 29,
@@ -23976,6 +24000,14 @@
       "word": "五星红旗与壮美山川同框",
       "onboard_time": 1727854217,
       "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 35679,
+      "num": 460152,
+      "word": "国庆北京上海新房认购量超9月全月",
+      "onboard_time": 1728446720,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -24923,14 +24955,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 23376,
-      "num": 460152,
-      "word": "国庆北京上海新房认购量超9月全月",
-      "onboard_time": 1728446720,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 23150,
       "num": 30693,
       "word": "75岁骑行老人国庆重游武汉",
@@ -25441,6 +25465,14 @@
       "onboard_time": 1728362541,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 15442,
+      "num": 446242,
+      "word": "国乒女团vs中国香港",
+      "onboard_time": 1728430878,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 15432,

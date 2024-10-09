@@ -1,0 +1,410 @@
+{
+  "runTime": 1728448860203,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1254258,
+        "num": 1254258,
+        "word": "17年的玩具我24年开了眼界",
+        "onboard_time": 1728438619,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1161598,
+        "num": 1161598,
+        "word": "车停正规停车位上被交警无故拖走",
+        "onboard_time": 1728446600,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 55322,
+        "num": 1079161,
+        "word": "我国加力推出增量政策重点在五方面",
+        "onboard_time": 1728444799,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1031866,
+        "num": 1031866,
+        "word": "和秦昊吵架后伊能静把两人鞋带绑一起",
+        "onboard_time": 1728444020,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 678177,
+        "num": 678177,
+        "word": "三人行必有我师焉其实缺了一个字",
+        "onboard_time": 1728438798,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 599687,
+        "num": 599687,
+        "word": "业内提醒散户有问题的公司不要碰",
+        "onboard_time": 1728442459,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 513255,
+        "num": 513255,
+        "word": "A股天量成交股民留还是走",
+        "onboard_time": 1728439640,
+        "rank": 6,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 490663,
+        "num": 490663,
+        "word": "文泰一被警方立案第二天生日直播",
+        "onboard_time": 1728447080,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 455998,
+        "num": 455998,
+        "word": "我国正编纂一套字数超10亿的书",
+        "onboard_time": 1728435800,
+        "rank": 8,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 276305,
+        "num": 455405,
+        "word": "交警回应正规停放的车辆被拖走",
+        "onboard_time": 1728447141,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2806603,
+        "num": 451796,
+        "word": "女子怀孕工资从6000降到3000",
+        "onboard_time": 1728445701,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 15442,
+        "num": 446242,
+        "word": "国乒女团vs中国香港",
+        "onboard_time": 1728430878,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 75171,
+        "num": 439689,
+        "word": "vivo全球首发天玑9400",
+        "onboard_time": 1728445278,
+        "rank": 12,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 25183,
+        "num": 438754,
+        "word": "刘亦菲一个镜头六种愉悦情绪",
+        "onboard_time": 1728447080,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1097265,
+        "num": 433953,
+        "word": "朝鲜宣布完全切断与韩国连接铁路公路",
+        "onboard_time": 1728439880,
+        "rank": 14,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1090371,
+        "num": 430367,
+        "word": "女子腱鞘炎看医生挤出透明胶状物",
+        "onboard_time": 1728440899,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 942868,
+        "num": 425263,
+        "word": "顾客未买淀粉肠摊主刮下调料舔掉",
+        "onboard_time": 1728444320,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 841658,
+        "num": 422963,
+        "word": "A股开盘近5000只个股下跌",
+        "onboard_time": 1728438557,
+        "rank": 17,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 655195,
+        "num": 417706,
+        "word": "陈乔恩婚后被问生小孩吗",
+        "onboard_time": 1728441799,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 596811,
+        "num": 413923,
+        "word": "朝鲜永久切断并封锁与韩国交界南部国境",
+        "onboard_time": 1728446240,
+        "rank": 19,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 860574,
+        "num": 410491,
+        "word": "女博主露营哀牢山2天1夜将被调查",
+        "onboard_time": 1728433099,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 524775,
+        "num": 405680,
+        "word": "弟弟回应远嫁姐姐半年看父亲被指不孝",
+        "onboard_time": 1728437176,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 486133,
+        "num": 400090,
+        "word": "k总",
+        "onboard_time": 1728390560,
+        "rank": 22,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 465333,
+        "num": 394711,
+        "word": "洪小草小奶尼分手",
+        "onboard_time": 1728445278,
+        "rank": 23,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 394667,
+        "num": 394667,
+        "word": "A股",
+        "onboard_time": 1728434000,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 393973,
+        "num": 393973,
+        "word": "专家称A股调整已经到位",
+        "onboard_time": 1728445040,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 241662,
+        "num": 389763,
+        "word": "胡歌刘诗诗一起录综艺了",
+        "onboard_time": 1728434840,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 226654,
+        "num": 382323,
+        "word": "张新成王玉雯谈竹马变恋人可能性",
+        "onboard_time": 1728446000,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 218698,
+        "num": 371831,
+        "word": "腾讯视频9号开放日",
+        "onboard_time": 1728447921,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 207130,
+        "num": 365078,
+        "word": "霉霉成全球最富女歌手",
+        "onboard_time": 1728443359,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 364371,
+        "num": 364371,
+        "word": "孩子被冤枉偷东西家长直接报警",
+        "onboard_time": 1728444438,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 325526,
+        "num": 325526,
+        "word": "恋与深空",
+        "onboard_time": 1728443118,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 291211,
+        "num": 291211,
+        "word": "上海爷叔为何能成为最火股民",
+        "onboard_time": 1728446720,
+        "rank": 32,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 276308,
+        "num": 276308,
+        "word": "苗疆陈朵朵道歉",
+        "onboard_time": 1728448281,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270521,
+        "num": 270521,
+        "word": "恩利欧阳娜娜姐妹合照",
+        "onboard_time": 1728444919,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 265126,
+        "num": 265126,
+        "word": "沈星回生日pv",
+        "onboard_time": 1728447560,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 254406,
+        "num": 254406,
+        "word": "假期开户投资者今天开始交易",
+        "onboard_time": 1728434121,
+        "rank": 36,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 250998,
+        "num": 250998,
+        "word": "丁程鑫你比付航像猴子",
+        "onboard_time": 1728446960,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 247904,
+        "num": 247904,
+        "word": "入职几月怀孕拒绝调薪调岗被辞退",
+        "onboard_time": 1728433038,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243223,
+        "num": 243223,
+        "word": "恋与深空 第三视角",
+        "onboard_time": 1728447801,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 232754,
+        "num": 232754,
+        "word": "崔永熙NBA首秀",
+        "onboard_time": 1728443240,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 228894,
+        "num": 228894,
+        "word": "闪耀暖暖",
+        "onboard_time": 1728448521,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 227994,
+        "num": 227994,
+        "word": "孙颖莎两项赛事档期无缝衔接",
+        "onboard_time": 1728433939,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 225340,
+        "num": 225340,
+        "word": "学信网",
+        "onboard_time": 1728444860,
+        "rank": 43,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 224295,
+        "num": 224295,
+        "word": "沪指跌超5%失守3300点",
+        "onboard_time": 1728444919,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 199381,
+        "num": 199381,
+        "word": "五大券商致信新股民",
+        "onboard_time": 1728447921,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 35679,
+        "num": 195670,
+        "word": "国庆北京上海新房认购量超9月全月",
+        "onboard_time": 1728446720,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195335,
+        "num": 195335,
+        "word": "老累 香菇",
+        "onboard_time": 1728448342,
+        "rank": 47,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 177654,
+        "num": 194379,
+        "word": "宋茜cue迪丽热巴新疆舞",
+        "onboard_time": 1728436098,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132494,
+        "num": 193640,
+        "word": "网传虞书欣丁禹兮新剧10月底播",
+        "onboard_time": 1728446840,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#感悟总书记的传统文化情结#"
+    }
+  }
+}
