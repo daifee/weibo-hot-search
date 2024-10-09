@@ -1,6 +1,6 @@
 {
   "startTime": 1728404919019,
-  "endTime": 1728463373159,
+  "endTime": 1728465884128,
   "band_list": [
     {
       "raw_hot": 3282482,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 2870834,
-      "num": 316889,
+      "num": 467862,
       "word": "女子怀孕3个月连吃6只螃蟹后流产",
       "onboard_time": 1728460520,
       "rank": 10,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 1874398,
-      "num": 312729,
+      "num": 465257,
       "word": "江歌妈妈",
       "onboard_time": 1728458899,
       "rank": 39,
@@ -83,20 +83,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1629008,
+      "num": 466805,
+      "word": "李静从160斤瘦到了105斤",
+      "onboard_time": 1728461840,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1530019,
       "num": 979898,
       "word": "A股",
       "onboard_time": 1728434000,
       "rank": 3,
       "category": "财经"
-    },
-    {
-      "raw_hot": 1433745,
-      "num": 302421,
-      "word": "李静从160斤瘦到了105斤",
-      "onboard_time": 1728461840,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 1413983,
@@ -179,6 +179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1030536,
+      "num": 1164885,
+      "word": "哀牢山调查人员回应苗疆陈朵朵道歉",
+      "onboard_time": 1728460219,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1029236,
       "num": 474093,
       "word": "入职几月怀孕拒绝调薪调岗被辞退",
@@ -209,6 +217,22 @@
       "onboard_time": 1728438798,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 926892,
+      "num": 926892,
+      "word": "韩国回应朝鲜永久切断朝韩道路连接",
+      "onboard_time": 1728463579,
+      "rank": 1,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 912642,
+      "num": 912642,
+      "word": "黄油小熊咖啡",
+      "onboard_time": 1728461659,
+      "rank": 6,
+      "category": "美食"
     },
     {
       "raw_hot": 854643,
@@ -259,14 +283,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 769830,
-      "num": 427721,
-      "word": "黄油小熊咖啡",
-      "onboard_time": 1728461659,
-      "rank": 6,
-      "category": "美食"
-    },
-    {
       "raw_hot": 752176,
       "num": 752176,
       "word": "A股天量成交股民留还是走",
@@ -289,6 +305,14 @@
       "onboard_time": 1728455838,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 710495,
+      "num": 710495,
+      "word": "影视飓风",
+      "onboard_time": 1728462979,
+      "rank": 40,
+      "category": "互联网"
     },
     {
       "raw_hot": 704577,
@@ -324,7 +348,7 @@
     },
     {
       "raw_hot": 639467,
-      "num": 369016,
+      "num": 406925,
       "word": "张新成王玉雯被父母撮合过",
       "onboard_time": 1728457218,
       "rank": 17,
@@ -356,7 +380,7 @@
     },
     {
       "raw_hot": 595538,
-      "num": 275002,
+      "num": 345245,
       "word": "张远给马雪阳88888.88红包",
       "onboard_time": 1728458179,
       "rank": 39,
@@ -467,6 +491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 501123,
+      "num": 501123,
+      "word": "雷军澄清近期雷军AI配音",
+      "onboard_time": 1728462379,
+      "rank": 38,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 498000,
       "num": 352763,
       "word": "韦雪新男友颜值",
@@ -515,12 +547,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 471807,
+      "num": 471807,
+      "word": "刺痛减肥",
+      "onboard_time": 1728464120,
+      "rank": 7,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 465333,
       "num": 414173,
       "word": "洪小草小奶尼分手",
       "onboard_time": 1728445278,
       "rank": 48,
       "category": "网红"
+    },
+    {
+      "raw_hot": 459927,
+      "num": 459927,
+      "word": "赵丽颖 金鹰奖",
+      "onboard_time": 1728465380,
+      "rank": 16,
+      "category": "电影"
     },
     {
       "raw_hot": 459437,
@@ -603,6 +651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 398703,
+      "num": 470705,
+      "word": "再见爱人 黄圣依",
+      "onboard_time": 1728462740,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 392158,
       "num": 392158,
       "word": "第五人格 皮套",
@@ -651,14 +707,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 348332,
-      "num": 348332,
-      "word": "雷军澄清近期雷军AI配音",
-      "onboard_time": 1728462379,
-      "rank": 38,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 345640,
       "num": 281920,
       "word": "刘烨竟然是勋鹿群管理员",
@@ -691,12 +739,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 325143,
-      "num": 325143,
-      "word": "哀牢山调查人员回应苗疆陈朵朵道歉",
-      "onboard_time": 1728460219,
-      "rank": 9,
-      "category": "社会新闻"
+      "raw_hot": 322176,
+      "num": 463153,
+      "word": "王俊凯有这忍耐力做什么都会成功的",
+      "onboard_time": 1728463519,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 316992,
@@ -713,6 +761,14 @@
       "onboard_time": 1728451519,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 300434,
+      "num": 300434,
+      "word": "韩娱四大墙头",
+      "onboard_time": 1728460699,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 299299,
@@ -851,14 +907,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 260055,
-      "num": 324049,
-      "word": "再见爱人 黄圣依",
-      "onboard_time": 1728462740,
-      "rank": 8,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 256764,
       "num": 256764,
       "word": "陈乔恩回应被催生",
@@ -873,6 +921,14 @@
       "onboard_time": 1728457759,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 254009,
+      "num": 254009,
+      "word": "花十块钱知道自己姓什么",
+      "onboard_time": 1728464479,
+      "rank": 28,
+      "category": "幽默"
     },
     {
       "raw_hot": 251945,
@@ -915,6 +971,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 243065,
+      "num": 243065,
+      "word": "两个月后日本找到伤害中国游客凶手",
+      "onboard_time": 1728465020,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 241570,
       "num": 241570,
       "word": "老累 藿香菇",
@@ -955,12 +1019,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 232078,
-      "num": 232078,
-      "word": "韩娱四大墙头",
-      "onboard_time": 1728460699,
-      "rank": 39,
-      "category": "艺人"
+      "raw_hot": 233545,
+      "num": 233545,
+      "word": "影视飓风下架视频变糊科普视频",
+      "onboard_time": 1728463700,
+      "rank": 32,
+      "category": "互联网"
     },
     {
       "raw_hot": 231337,
@@ -969,6 +1033,14 @@
       "onboard_time": 1728462319,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 229311,
+      "num": 229311,
+      "word": "第五人格回应皮套问题",
+      "onboard_time": 1728464360,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 228894,
@@ -1001,6 +1073,14 @@
       "onboard_time": 1728395720,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 227043,
+      "num": 469938,
+      "word": "很多校园霸凌是从欺负开始的",
+      "onboard_time": 1728464838,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 226654,
@@ -1139,6 +1219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 203536,
+      "num": 203536,
+      "word": "杨紫黑白拼色连衣裙",
+      "onboard_time": 1728463700,
+      "rank": 37,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 203255,
       "num": 319444,
       "word": "网传虞书欣丁禹兮新剧10月底播",
@@ -1193,6 +1281,14 @@
       "onboard_time": 1728442700,
       "rank": 48,
       "category": "财经"
+    },
+    {
+      "raw_hot": 195401,
+      "num": 195401,
+      "word": "小伙想找女友花40万打赏陪聊",
+      "onboard_time": 1728463579,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 195335,
@@ -1291,6 +1387,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 177280,
+      "num": 177280,
+      "word": "第五人格昆虫学者",
+      "onboard_time": 1728465739,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 176873,
       "num": 176873,
       "word": "明日方舟 ask",
@@ -1363,14 +1467,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 169040,
-      "num": 169040,
-      "word": "影视飓风",
-      "onboard_time": 1728462979,
-      "rank": 40,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 168111,
       "num": 168111,
       "word": "朴山多拉晒YG家族合照没有Jennie",
@@ -1385,6 +1481,14 @@
       "onboard_time": 1728402080,
       "rank": 26,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 166475,
+      "num": 181193,
+      "word": "芒果新生班飞行嘉宾阵容",
+      "onboard_time": 1728465799,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 166336,
@@ -1441,6 +1545,14 @@
       "onboard_time": 1728441919,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 155149,
+      "num": 155149,
+      "word": "纳瓦罗止步武网次轮",
+      "onboard_time": 1728465559,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 153206,
@@ -1577,6 +1689,14 @@
       "onboard_time": 1728451519,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 136599,
+      "num": 250396,
+      "word": "高雅 般配",
+      "onboard_time": 1728465259,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 136287,
@@ -1771,6 +1891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 98570,
+      "num": 177511,
+      "word": "AI获诺贝尔物理学奖这合理吗",
+      "onboard_time": 1728464419,
+      "rank": 42,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 97463,
       "num": 97463,
       "word": "小学生数学障碍患病率为8.97%",
@@ -1955,6 +2083,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 58196,
+      "num": 917504,
+      "word": "文化中国行看候鸟天堂",
+      "onboard_time": 1728464180,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 55322,
       "num": 1095955,
       "word": "我国加力推出增量政策重点在五方面",
@@ -2028,7 +2164,7 @@
     },
     {
       "raw_hot": 38281,
-      "num": 128154,
+      "num": 383794,
       "word": "刘浩存灵感妆",
       "onboard_time": 1728463098,
       "rank": 49,
@@ -2169,6 +2305,22 @@
       "onboard_time": 1728419831,
       "rank": 30,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 23456,
+      "num": 403108,
+      "word": "警方对掏挖丹霞土壤当事人批评教育",
+      "onboard_time": 1728464479,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 22963,
+      "num": 462239,
+      "word": "多个黑燕窝销售账号被清理",
+      "onboard_time": 1728464239,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 22914,
