@@ -1,7 +1,15 @@
 {
   "startTime": 1728404919019,
-  "endTime": 1728430594649,
+  "endTime": 1728438072041,
   "band_list": [
+    {
+      "raw_hot": 2800136,
+      "num": 967044,
+      "word": "女博主露营哀牢山2天1夜将被调查",
+      "onboard_time": 1728433099,
+      "rank": 1,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 2648229,
       "num": 1164490,
@@ -19,12 +27,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1451267,
+      "num": 758210,
+      "word": "A股",
+      "onboard_time": 1728434000,
+      "rank": 3,
+      "category": "财经"
+    },
+    {
       "raw_hot": 1130566,
       "num": 1130566,
       "word": "国乒女团3比1战胜朝鲜女团",
       "onboard_time": 1728402979,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1125096,
+      "num": 673338,
+      "word": "我国正编纂一套字数超10亿的书",
+      "onboard_time": 1728435800,
+      "rank": 4,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 1029236,
+      "num": 429962,
+      "word": "入职几月怀孕拒绝调薪调岗被辞退",
+      "onboard_time": 1728433038,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 854643,
@@ -36,7 +68,7 @@
     },
     {
       "raw_hot": 821660,
-      "num": 289498,
+      "num": 391552,
       "word": "k总",
       "onboard_time": 1728390560,
       "rank": 11,
@@ -60,7 +92,7 @@
     },
     {
       "raw_hot": 689195,
-      "num": 180217,
+      "num": 345018,
       "word": "调查东北雨姐监管部门应及时出手",
       "onboard_time": 1728407594,
       "rank": 25,
@@ -68,7 +100,7 @@
     },
     {
       "raw_hot": 688932,
-      "num": 287105,
+      "num": 383935,
       "word": "山取颜料师被要求返还矿石",
       "onboard_time": 1728386420,
       "rank": 13,
@@ -76,11 +108,27 @@
     },
     {
       "raw_hot": 574078,
-      "num": 231842,
+      "num": 357111,
       "word": "男子称花2个月工资追女生反被拉黑",
       "onboard_time": 1728400880,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 546621,
+      "num": 546621,
+      "word": "胡歌刘诗诗一起录综艺了",
+      "onboard_time": 1728434840,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 544706,
+      "num": 422582,
+      "word": "刘烨张彤大学作业演出",
+      "onboard_time": 1728436039,
+      "rank": 11,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 515589,
@@ -91,8 +139,32 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 512891,
+      "num": 512891,
+      "word": "网恋12年英国男友竟是闺蜜假扮",
+      "onboard_time": 1728395362,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 486547,
+      "num": 486547,
+      "word": "孙颖莎两项赛事档期无缝衔接",
+      "onboard_time": 1728433939,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 478617,
+      "num": 345708,
+      "word": "弟弟回应远嫁姐姐半年看父亲被指不孝",
+      "onboard_time": 1728437176,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 458778,
-      "num": 192348,
+      "num": 323807,
       "word": "哀牢山最危险的不是猛兽",
       "onboard_time": 1728388281,
       "rank": 39,
@@ -139,20 +211,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 363949,
+      "num": 474435,
+      "word": "宋茜cue迪丽热巴新疆舞",
+      "onboard_time": 1728436098,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 360867,
       "num": 282510,
       "word": "李定豪 阮小咪",
       "onboard_time": 1728401840,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 358451,
-      "num": 358451,
-      "word": "网恋12年英国男友竟是闺蜜假扮",
-      "onboard_time": 1728395362,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 351326,
@@ -163,12 +235,44 @@
       "category": "体育"
     },
     {
+      "raw_hot": 350722,
+      "num": 350722,
+      "word": "假期开户投资者今天开始交易",
+      "onboard_time": 1728434121,
+      "rank": 18,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 345640,
       "num": 281920,
       "word": "刘烨竟然是勋鹿群管理员",
       "onboard_time": 1728391280,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 337577,
+      "num": 337577,
+      "word": "把卫生间租给恐怖片剧组吧",
+      "onboard_time": 1728434421,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 336377,
+      "num": 346191,
+      "word": "研招网 进不去",
+      "onboard_time": 1728437419,
+      "rank": 19,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 335864,
+      "num": 300726,
+      "word": "姐妹把婚鞋藏进面包里",
+      "onboard_time": 1728434421,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 281073,
@@ -195,6 +299,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 256258,
+      "num": 256258,
+      "word": "胡歌林依晨聚餐合照",
+      "onboard_time": 1728434121,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 228063,
+      "num": 228063,
+      "word": "新生儿呛奶父亲跪地求助送医",
+      "onboard_time": 1728429016,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 227536,
       "num": 227536,
       "word": "戚薇李承铉敢说 我不敢听",
@@ -217,6 +337,30 @@
       "onboard_time": 1728400281,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 218778,
+      "num": 218778,
+      "word": "已有2000多万学生享受国家助学贷款",
+      "onboard_time": 1728433939,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 213167,
+      "num": 213167,
+      "word": "微信文字讨好症",
+      "onboard_time": 1728429857,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 211546,
+      "num": 211546,
+      "word": "今起2025考研预报名",
+      "onboard_time": 1728437718,
+      "rank": 31,
+      "category": "教育"
     },
     {
       "raw_hot": 205342,
@@ -251,12 +395,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 184563,
+      "num": 184563,
+      "word": "股市",
+      "onboard_time": 1728437960,
+      "rank": 33,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 182695,
+      "num": 182695,
+      "word": "哀牢山",
+      "onboard_time": 1728435860,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 175950,
       "num": 160061,
       "word": "亚锦赛身兼三项莎莎辛苦了",
       "onboard_time": 1728428895,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 175331,
+      "num": 175331,
+      "word": "阴阳师",
+      "onboard_time": 1728436697,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 170516,
@@ -291,6 +459,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 161829,
+      "num": 450795,
+      "word": "东北雨姐客服否认跑路",
+      "onboard_time": 1728436160,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 160257,
       "num": 160257,
       "word": "孙颖莎3比2边松景",
@@ -307,20 +483,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 158808,
-      "num": 159770,
-      "word": "微信文字讨好症",
-      "onboard_time": 1728429857,
-      "rank": 25,
-      "category": "情感"
-    },
-    {
       "raw_hot": 153206,
       "num": 153206,
       "word": "游客偶遇秦岭野生大熊猫直呼没白来",
       "onboard_time": 1728405916,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 147049,
+      "num": 147049,
+      "word": "长途副驾的情绪价值有多重要",
+      "onboard_time": 1728436760,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 140925,
@@ -331,6 +507,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 140245,
+      "num": 140245,
+      "word": "游客飞无人机拍摄吓到花花",
+      "onboard_time": 1728437176,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 140128,
       "num": 140128,
       "word": "舍不得星星 好超前的结婚方式",
@@ -339,12 +523,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 131565,
+      "num": 131565,
+      "word": "中方正研究提高进口大排量燃油车关税",
+      "onboard_time": 1728432622,
+      "rank": 41,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 128657,
       "num": 197713,
       "word": "以军或攻占黎巴嫩三分之一国土",
       "onboard_time": 1728403518,
       "rank": 30,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 126002,
+      "num": 126002,
+      "word": "刘亦菲披肩配白裙",
+      "onboard_time": 1728437599,
+      "rank": 43,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 125424,
@@ -371,6 +571,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 119565,
+      "num": 119565,
+      "word": "秒杀没开始团伙已经抢到商品",
+      "onboard_time": 1728410353,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 118268,
       "num": 118268,
       "word": "王艺迪vs边松景",
@@ -379,20 +587,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 117944,
+      "num": 117944,
+      "word": "原神",
+      "onboard_time": 1728435559,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 116091,
       "num": 116091,
       "word": "张晚意一次走通两种赛道",
       "onboard_time": 1728401420,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 114502,
-      "num": 193320,
-      "word": "新生儿呛奶父亲跪地求助送医",
-      "onboard_time": 1728429016,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 113502,
@@ -409,6 +617,14 @@
       "onboard_time": 1728392421,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 111569,
+      "num": 111569,
+      "word": "多家房企涨价或全面收回折扣",
+      "onboard_time": 1728437599,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 107203,
@@ -523,20 +739,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 76158,
-      "num": 76158,
-      "word": "秒杀没开始团伙已经抢到商品",
-      "onboard_time": 1728410353,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 73947,
       "num": 73947,
       "word": "下次不准再P了",
       "onboard_time": 1728383422,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 72958,
+      "num": 383939,
+      "word": "以空袭叙首都居民楼致7死11伤",
+      "onboard_time": 1728433879,
+      "rank": 14,
+      "category": "国外时政"
     },
     {
       "raw_hot": 66353,
@@ -691,6 +907,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 16922,
+      "num": 821585,
+      "word": "这是航天员拍摄的锦绣山河",
+      "onboard_time": 1728401000,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 14492,
       "num": 41502,
       "word": "纵横万里固根脉",
@@ -720,14 +944,6 @@
       "word": "定都阁被明月钩起来了",
       "onboard_time": 1728426673,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 12450,
-      "num": 741695,
-      "word": "这是航天员拍摄的锦绣山河",
-      "onboard_time": 1728401000,
-      "rank": 2,
       "category": "社会新闻"
     }
   ],
