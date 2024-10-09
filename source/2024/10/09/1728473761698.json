@@ -1,0 +1,410 @@
+{
+  "runTime": 1728473761698,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 962598,
+        "num": 1154015,
+        "word": "王楚钦从鞋里掏出一颗球",
+        "onboard_time": 1728472819,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 513126,
+        "num": 513126,
+        "word": "韩国回应朝鲜永久切断朝韩道路连接",
+        "onboard_time": 1728463579,
+        "rank": 1,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 8082,
+        "num": 478319,
+        "word": "文化中国行看候鸟天堂",
+        "onboard_time": 1728464180,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 455762,
+        "num": 455762,
+        "word": "2024年诺贝尔化学奖揭晓",
+        "onboard_time": 1728468319,
+        "rank": 3,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 369154,
+        "num": 369154,
+        "word": "A股后续将迎第二波上涨行情",
+        "onboard_time": 1728458720,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 334513,
+        "num": 334513,
+        "word": "影视飓风",
+        "onboard_time": 1728462979,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 315539,
+        "num": 315539,
+        "word": "隐翅虫要赶走不能拍死",
+        "onboard_time": 1728465979,
+        "rank": 6,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 294238,
+        "num": 294238,
+        "word": "长期吃辣的人都怎么样了",
+        "onboard_time": 1728471740,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264905,
+        "num": 264905,
+        "word": "七夜雪",
+        "onboard_time": 1728473059,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 202408,
+        "num": 264695,
+        "word": "再见爱人 黄圣依",
+        "onboard_time": 1728462740,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1201873,
+        "num": 264478,
+        "word": "江歌妈妈",
+        "onboard_time": 1728458899,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1082851,
+        "num": 264135,
+        "word": "18岁学生拿暑假赚的5千元入场炒股",
+        "onboard_time": 1728469819,
+        "rank": 11,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 760175,
+        "num": 263641,
+        "word": "李静从160斤瘦到了105斤",
+        "onboard_time": 1728461840,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 685327,
+        "num": 263307,
+        "word": "赵丽颖 金鹰奖",
+        "onboard_time": 1728465380,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 25605,
+        "num": 262889,
+        "word": "苗疆陈朵朵社交账号已搜索不到",
+        "onboard_time": 1728473300,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 589687,
+        "num": 262770,
+        "word": "菲律宾绑匪收到赎金后释放中国女子",
+        "onboard_time": 1728467481,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 541603,
+        "num": 262285,
+        "word": "9岁女童溺亡案嫌疑人系同村男孩",
+        "onboard_time": 1728468740,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 501562,
+        "num": 262007,
+        "word": "刺痛减肥",
+        "onboard_time": 1728464120,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 437904,
+        "num": 261546,
+        "word": "申裕斌2比3边松景",
+        "onboard_time": 1728470540,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 76828,
+        "num": 261326,
+        "word": "杭州最低首付款比例统一为15%",
+        "onboard_time": 1728473600,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 882414,
+        "num": 261050,
+        "word": "26岁女子以为痛经检查发现临盆了",
+        "onboard_time": 1728467180,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 707581,
+        "num": 260452,
+        "word": "女子怀孕3个月连吃6只螃蟹后流产",
+        "onboard_time": 1728460520,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260381,
+        "num": 260381,
+        "word": "黄油小熊咖啡",
+        "onboard_time": 1728461659,
+        "rank": 22,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 516256,
+        "num": 256589,
+        "word": "哀牢山调查人员回应苗疆陈朵朵道歉",
+        "onboard_time": 1728460219,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 492233,
+        "num": 253888,
+        "word": "偶遇张予曦妈妈和弟弟",
+        "onboard_time": 1728471439,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 352582,
+        "num": 250867,
+        "word": "至上励合",
+        "onboard_time": 1728466038,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 347671,
+        "num": 247323,
+        "word": "两个月后日本找到伤害中国游客凶手",
+        "onboard_time": 1728465020,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 339517,
+        "num": 241725,
+        "word": "鼻子手术多次后畸形医生不愿接单",
+        "onboard_time": 1728466279,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 91176,
+        "num": 236862,
+        "word": "杭州取消新建商品房限价",
+        "onboard_time": 1728473239,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156884,
+        "num": 231927,
+        "word": "家业",
+        "onboard_time": 1728473359,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 314604,
+        "num": 228326,
+        "word": "张远给马雪阳88888.88红包",
+        "onboard_time": 1728458179,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 286970,
+        "num": 222737,
+        "word": "江歌妈妈名下关联2家企业",
+        "onboard_time": 1728470238,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 283845,
+        "num": 220852,
+        "word": "K总回应恋情",
+        "onboard_time": 1728473480,
+        "rank": 32,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 217644,
+        "num": 217644,
+        "word": "郑钦文vs克里斯蒂安",
+        "onboard_time": 1728471200,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 210167,
+        "num": 210167,
+        "word": "张新成王玉雯被父母撮合过",
+        "onboard_time": 1728457218,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 206199,
+        "num": 206199,
+        "word": "幼童在幼儿园坠楼排除被人为推下",
+        "onboard_time": 1728472340,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205968,
+        "num": 205968,
+        "word": "aespa成员solo曲上线",
+        "onboard_time": 1728466100,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 201195,
+        "num": 201195,
+        "word": "杨紫月底安徽进组家业",
+        "onboard_time": 1728470960,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 29532,
+        "num": 200209,
+        "word": "想和刘亦菲一样愉悦",
+        "onboard_time": 1728468500,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 199510,
+        "num": 199510,
+        "word": "学历贬值下卷研究生还有意义吗",
+        "onboard_time": 1728457277,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196175,
+        "num": 196175,
+        "word": "日本政府不想首相露肚子而P图",
+        "onboard_time": 1728469158,
+        "rank": 40,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 192186,
+        "num": 192186,
+        "word": "女子怀孕工资从6000降到3000",
+        "onboard_time": 1728445701,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164265,
+        "num": 164265,
+        "word": "苗疆陈朵朵道歉",
+        "onboard_time": 1728448281,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 84518,
+        "num": 155438,
+        "word": "杭州优化调整房地产相关政策措施",
+        "onboard_time": 1728472878,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154509,
+        "num": 154509,
+        "word": "郑钦文称萨巴伦卡不是高山",
+        "onboard_time": 1728473359,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 152805,
+        "num": 152805,
+        "word": "张石头被于正签约9月已从高校离职",
+        "onboard_time": 1728467420,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149246,
+        "num": 149246,
+        "word": "男孩拍打隐翅虫后用错药物全身溃烂",
+        "onboard_time": 1728452478,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145009,
+        "num": 145009,
+        "word": "雷军澄清近期雷军AI配音",
+        "onboard_time": 1728462379,
+        "rank": 47,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 144115,
+        "num": 144115,
+        "word": "A股最难熬的时候已过去",
+        "onboard_time": 1728469158,
+        "rank": 48,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 128026,
+        "num": 144075,
+        "word": "七夜雪OST阵容",
+        "onboard_time": 1728472638,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#感悟总书记的传统文化情结#"
+    }
+  }
+}

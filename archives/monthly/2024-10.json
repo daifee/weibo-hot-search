@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1728472776898,
+  "endTime": 1728473761698,
   "band_list": [
     {
       "raw_hot": 12210422,
@@ -1267,6 +1267,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 1082851,
+      "num": 317765,
+      "word": "18岁学生拿暑假赚的5千元入场炒股",
+      "onboard_time": 1728469819,
+      "rank": 9,
+      "category": "财经"
+    },
+    {
       "raw_hot": 1078807,
       "num": 689883,
       "word": "刺痛减肥",
@@ -1555,14 +1563,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1010670,
-      "num": 317765,
-      "word": "18岁学生拿暑假赚的5千元入场炒股",
-      "onboard_time": 1728469819,
-      "rank": 9,
-      "category": "财经"
-    },
-    {
       "raw_hot": 1010561,
       "num": 254886,
       "word": "女子拔插头被电伤截肢",
@@ -1719,6 +1719,14 @@
       "num": 1154085,
       "word": "孙颖莎vs范思琦",
       "onboard_time": 1728113839,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 962598,
+      "num": 1154015,
+      "word": "王楚钦从鞋里掏出一颗球",
+      "onboard_time": 1728472819,
       "rank": 0,
       "category": "体育"
     },
@@ -3659,6 +3667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 589687,
+      "num": 312285,
+      "word": "菲律宾绑匪收到赎金后释放中国女子",
+      "onboard_time": 1728467481,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 588542,
       "num": 318549,
       "word": "GEN战胜WBG",
@@ -4571,6 +4587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 492233,
+      "num": 309607,
+      "word": "偶遇张予曦妈妈和弟弟",
+      "onboard_time": 1728471439,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 492168,
       "num": 492168,
       "word": "哑舍动画",
@@ -4809,14 +4833,6 @@
       "onboard_time": 1728197359,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 468498,
-      "num": 312285,
-      "word": "菲律宾绑匪收到赎金后释放中国女子",
-      "onboard_time": 1728467481,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 468133,
@@ -5137,6 +5153,14 @@
       "onboard_time": 1728173116,
       "rank": 11,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 437904,
+      "num": 310490,
+      "word": "申裕斌2比3边松景",
+      "onboard_time": 1728470540,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 437738,
@@ -5472,14 +5496,6 @@
       "word": "林诗栋4比2向鹏",
       "onboard_time": 1728126799,
       "rank": 8,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 406885,
-      "num": 310490,
-      "word": "申裕斌2比3边松景",
-      "onboard_time": 1728470540,
-      "rank": 25,
       "category": "体育"
     },
     {
@@ -6449,14 +6465,6 @@
       "onboard_time": 1728354560,
       "rank": 8,
       "category": "电影"
-    },
-    {
-      "raw_hot": 343791,
-      "num": 309607,
-      "word": "偶遇张予曦妈妈和弟弟",
-      "onboard_time": 1728471439,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 343644,
@@ -7483,6 +7491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 294238,
+      "num": 316701,
+      "word": "长期吃辣的人都怎么样了",
+      "onboard_time": 1728471740,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 294109,
       "num": 294109,
       "word": "张曼玉看秀生图",
@@ -7715,6 +7731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 286970,
+      "num": 259791,
+      "word": "江歌妈妈名下关联2家企业",
+      "onboard_time": 1728470238,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 286667,
       "num": 286667,
       "word": "光遇复刻",
@@ -7833,6 +7857,14 @@
       "onboard_time": 1728455960,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 283845,
+      "num": 220852,
+      "word": "K总回应恋情",
+      "onboard_time": 1728473480,
+      "rank": 32,
+      "category": "网红"
     },
     {
       "raw_hot": 283764,
@@ -8475,6 +8507,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 264905,
+      "num": 264905,
+      "word": "七夜雪",
+      "onboard_time": 1728442219,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 264671,
       "num": 1020894,
       "word": "日本首相石破茂因政治资金问题被检举",
@@ -8649,14 +8689,6 @@
       "onboard_time": 1727830578,
       "rank": 28,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 259791,
-      "num": 259791,
-      "word": "江歌妈妈名下关联2家企业",
-      "onboard_time": 1728470238,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 259063,
@@ -10867,6 +10899,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 206199,
+      "num": 206199,
+      "word": "幼童在幼儿园坠楼排除被人为推下",
+      "onboard_time": 1728472340,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 206074,
       "num": 266722,
       "word": "已经开始盼元旦了",
@@ -11929,14 +11969,6 @@
       "onboard_time": 1728356358,
       "rank": 42,
       "category": "财经"
-    },
-    {
-      "raw_hot": 193417,
-      "num": 206756,
-      "word": "七夜雪",
-      "onboard_time": 1728442219,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 193400,
@@ -14539,14 +14571,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 162623,
-      "num": 316701,
-      "word": "长期吃辣的人都怎么样了",
-      "onboard_time": 1728471740,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 162437,
       "num": 194193,
       "word": "A股测试",
@@ -14819,14 +14843,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 158824,
-      "num": 158824,
-      "word": "幼童在幼儿园坠楼排除被人为推下",
-      "onboard_time": 1728472340,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 158809,
       "num": 339199,
       "word": "祖国永远在我心上",
@@ -15067,6 +15083,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 156884,
+      "num": 231927,
+      "word": "家业",
+      "onboard_time": 1728473359,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 156862,
       "num": 146189,
       "word": "S14瑞士轮第三轮抽签",
@@ -15297,6 +15321,14 @@
       "onboard_time": 1728054501,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 154509,
+      "num": 154509,
+      "word": "郑钦文称萨巴伦卡不是高山",
+      "onboard_time": 1728473359,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 154422,
@@ -18187,6 +18219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 128026,
+      "num": 144075,
+      "word": "七夜雪OST阵容",
+      "onboard_time": 1728472638,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 127965,
       "num": 127965,
       "word": "谁懂巴掌扇不进屏幕里的痛苦",
@@ -18953,14 +18993,6 @@
       "onboard_time": 1727955200,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 119665,
-      "num": 140988,
-      "word": "七夜雪OST阵容",
-      "onboard_time": 1728472638,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 119642,
@@ -21763,6 +21795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 91176,
+      "num": 236862,
+      "word": "杭州取消新建商品房限价",
+      "onboard_time": 1728473239,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 91027,
       "num": 91027,
       "word": "林诗栋谈下轮对阵林德",
@@ -22145,6 +22185,14 @@
       "onboard_time": 1728144320,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 84518,
+      "num": 155438,
+      "word": "杭州优化调整房地产相关政策措施",
+      "onboard_time": 1728472878,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 84425,
@@ -22665,6 +22713,14 @@
       "onboard_time": 1727846358,
       "rank": 24,
       "category": "电影"
+    },
+    {
+      "raw_hot": 76828,
+      "num": 261326,
+      "word": "杭州最低首付款比例统一为15%",
+      "onboard_time": 1728473600,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 76585,
@@ -25977,6 +26033,14 @@
       "onboard_time": 1728217641,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 25605,
+      "num": 262889,
+      "word": "苗疆陈朵朵社交账号已搜索不到",
+      "onboard_time": 1728473300,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 25399,
