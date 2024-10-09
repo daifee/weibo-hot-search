@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1728477748401,
+  "endTime": 1728478721301,
   "band_list": [
     {
       "raw_hot": 12210422,
@@ -1500,7 +1500,7 @@
     },
     {
       "raw_hot": 1024788,
-      "num": 467850,
+      "num": 537795,
       "word": "梁伟铿 再不起来吃就冷了",
       "onboard_time": 1728474980,
       "rank": 3,
@@ -2008,6 +2008,14 @@
       "word": "博物馆昆虫被2孩子偷走",
       "onboard_time": 1727937317,
       "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 875253,
+      "num": 252550,
+      "word": "东北雨哥回应模仿东北雨姐",
+      "onboard_time": 1728476899,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -4779,12 +4787,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 477869,
+      "num": 477869,
+      "word": "朝鲜女团3比0韩国女团",
+      "onboard_time": 1728474559,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 477356,
       "num": 477356,
       "word": "马龙4比0战胜雨果",
       "onboard_time": 1728018858,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 476884,
+      "num": 255589,
+      "word": "林心如穿泳装",
+      "onboard_time": 1728476059,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 476259,
@@ -4833,6 +4857,14 @@
       "onboard_time": 1728445040,
       "rank": 9,
       "category": "财经"
+    },
+    {
+      "raw_hot": 472135,
+      "num": 265452,
+      "word": "女子投放死虫6次敲诈海底捞",
+      "onboard_time": 1728475879,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 471720,
@@ -5195,14 +5227,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 438612,
-      "num": 280830,
-      "word": "朝鲜女团3比0韩国女团",
-      "onboard_time": 1728474559,
-      "rank": 14,
-      "category": "体育"
-    },
-    {
       "raw_hot": 437904,
       "num": 310490,
       "word": "申裕斌2比3边松景",
@@ -5265,14 +5289,6 @@
       "onboard_time": 1728308300,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 429459,
-      "num": 255589,
-      "word": "林心如穿泳装",
-      "onboard_time": 1728476059,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 429340,
@@ -6563,6 +6579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 338506,
+      "num": 338506,
+      "word": "七夜雪 BE",
+      "onboard_time": 1728477439,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 338485,
       "num": 338485,
       "word": "亚锦赛直播",
@@ -6609,6 +6633,14 @@
       "onboard_time": 1728195318,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 337168,
+      "num": 337168,
+      "word": "李沁古装",
+      "onboard_time": 1728475459,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 337160,
@@ -7137,14 +7169,6 @@
       "onboard_time": 1728129742,
       "rank": 41,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 311161,
-      "num": 311161,
-      "word": "李沁古装",
-      "onboard_time": 1728475459,
-      "rank": 5,
-      "category": "剧集"
     },
     {
       "raw_hot": 311102,
@@ -9523,6 +9547,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 237523,
+      "num": 237523,
+      "word": "孙颖莎说下风球逆风盘总会想再坚持下",
+      "onboard_time": 1728477620,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 237310,
       "num": 237310,
       "word": "王曼昱世界排名上升至第2",
@@ -9561,14 +9593,6 @@
       "onboard_time": 1727756661,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 236431,
-      "num": 265452,
-      "word": "女子投放死虫6次敲诈海底捞",
-      "onboard_time": 1728475879,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 236093,
@@ -10801,6 +10825,14 @@
       "onboard_time": 1728304104,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 209474,
+      "num": 188202,
+      "word": "詹青云 亲密关系的意义是什么",
+      "onboard_time": 1728478399,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 209438,
@@ -12731,14 +12763,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 186689,
-      "num": 186689,
-      "word": "孙颖莎说下风球逆风盘总会想再坚持下",
-      "onboard_time": 1728477620,
-      "rank": 35,
-      "category": "体育"
-    },
-    {
       "raw_hot": 186656,
       "num": 186656,
       "word": "A股最难熬的时候已过去",
@@ -12888,6 +12912,14 @@
       "word": "女子转卖父母处方药被判贩毒罪",
       "onboard_time": 1728352520,
       "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 184639,
+      "num": 184639,
+      "word": "男子连续2天高速逆行被记24分",
+      "onboard_time": 1728476960,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -14227,6 +14259,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 167852,
+      "num": 167852,
+      "word": "杨紫南京plog",
+      "onboard_time": 1728478281,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 167798,
       "num": 167798,
       "word": "黑神话开发成本超3亿",
@@ -14803,12 +14843,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 161285,
-      "num": 202538,
-      "word": "七夜雪 BE",
-      "onboard_time": 1728477439,
-      "rank": 28,
-      "category": "剧集"
+      "raw_hot": 161227,
+      "num": 188306,
+      "word": "步惊云淘汰",
+      "onboard_time": 1728478340,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 161198,
@@ -15001,6 +15041,14 @@
       "onboard_time": 1727743518,
       "rank": 32,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 158772,
+      "num": 158772,
+      "word": "露营哀牢山女博主遇到了熊",
+      "onboard_time": 1728477680,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 158725,
@@ -15689,14 +15737,6 @@
       "onboard_time": 1728210019,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 152682,
-      "num": 152682,
-      "word": "男子连续2天高速逆行被记24分",
-      "onboard_time": 1728476960,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 152655,
@@ -16507,6 +16547,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 144793,
+      "num": 144793,
+      "word": "陈梦送出自己的奥运夺冠球衣",
+      "onboard_time": 1728478399,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 144771,
       "num": 144771,
       "word": "龚俊公主抱彭小苒",
@@ -16585,6 +16633,14 @@
       "onboard_time": 1728359300,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 143727,
+      "num": 143727,
+      "word": "郑钦文登场点燃全场",
+      "onboard_time": 1728477799,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 143555,
@@ -16955,6 +17011,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 139810,
+      "num": 202131,
+      "word": "宁艺卓solo曲bored",
+      "onboard_time": 1728474259,
+      "rank": 29,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 139707,
       "num": 139707,
       "word": "马龙半决赛对阵梁靖崑",
@@ -17185,14 +17249,6 @@
       "onboard_time": 1727757559,
       "rank": 48,
       "category": "数码"
-    },
-    {
-      "raw_hot": 138237,
-      "num": 202131,
-      "word": "宁艺卓solo曲bored",
-      "onboard_time": 1728474259,
-      "rank": 29,
-      "category": "音乐"
     },
     {
       "raw_hot": 138236,
@@ -17467,6 +17523,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 135390,
+      "num": 473353,
+      "word": "网信部门通报涉未成年人乱象典型案例",
+      "onboard_time": 1728470179,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 135357,
       "num": 189545,
       "word": "票房",
@@ -17649,6 +17713,14 @@
       "onboard_time": 1727880620,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 133936,
+      "num": 253736,
+      "word": "官方回应文物展只有照片没有实物",
+      "onboard_time": 1728477740,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 133822,
@@ -18913,14 +18985,6 @@
       "onboard_time": 1728005778,
       "rank": 39,
       "category": "演出"
-    },
-    {
-      "raw_hot": 122177,
-      "num": 122177,
-      "word": "露营哀牢山女博主遇到了熊",
-      "onboard_time": 1728477680,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 122132,
@@ -21449,14 +21513,6 @@
       "onboard_time": 1727778858,
       "rank": 48,
       "category": "电影"
-    },
-    {
-      "raw_hot": 97337,
-      "num": 473353,
-      "word": "网信部门通报涉未成年人乱象典型案例",
-      "onboard_time": 1728470179,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 97309,
@@ -24499,6 +24555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 47965,
+      "num": 243386,
+      "word": "姚晨晒和万妮达合照",
+      "onboard_time": 1728477980,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 47916,
       "num": 47916,
       "word": "父母天安门广场见证儿子升国旗",
@@ -26563,6 +26627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 21022,
+      "num": 150725,
+      "word": "大数据看国庆假期活力中国",
+      "onboard_time": 1728463759,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 20858,
       "num": 38002,
       "word": "自黎撤离中国公民一路上都很放心",
@@ -26920,6 +26992,14 @@
       "word": "回顾本轮巴以冲突一年间重要事件",
       "onboard_time": 1728389539,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 14761,
+      "num": 559884,
+      "word": "文博热非遗热持续升温",
+      "onboard_time": 1728478340,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
