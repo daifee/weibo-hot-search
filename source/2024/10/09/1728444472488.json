@@ -1,0 +1,410 @@
+{
+  "runTime": 1728444472488,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3282482,
+        "num": 3282482,
+        "word": "女子腱鞘炎看医生挤出透明胶状物",
+        "onboard_time": 1728440899,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1605166,
+        "num": 1605166,
+        "word": "朝鲜宣布完全切断与韩国连接铁路公路",
+        "onboard_time": 1728439880,
+        "rank": 1,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 11539,
+        "num": 1029479,
+        "word": "这是航天员拍摄的锦绣山河",
+        "onboard_time": 1728401000,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 936519,
+        "num": 936519,
+        "word": "三人行必有我师焉其实缺了一个字",
+        "onboard_time": 1728438798,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 675267,
+        "num": 675267,
+        "word": "股市",
+        "onboard_time": 1728437960,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 672833,
+        "num": 672833,
+        "word": "A股天量成交股民留还是走",
+        "onboard_time": 1728439640,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 616064,
+        "num": 616064,
+        "word": "恋与深空",
+        "onboard_time": 1728443118,
+        "rank": 6,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 307940,
+        "num": 595722,
+        "word": "宋茜cue迪丽热巴新疆舞",
+        "onboard_time": 1728436098,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 243100,
+        "num": 594524,
+        "word": "胡歌刘诗诗一起录综艺了",
+        "onboard_time": 1728434840,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 87595,
+        "num": 593895,
+        "word": "为何哀牢山和稻城亚丁拒绝野游",
+        "onboard_time": 1728443179,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 593363,
+        "num": 593363,
+        "word": "我国正编纂一套字数超10亿的书",
+        "onboard_time": 1728435800,
+        "rank": 10,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1106945,
+        "num": 578135,
+        "word": "17年的玩具我24年开了眼界",
+        "onboard_time": 1728438619,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1070778,
+        "num": 560472,
+        "word": "A股开盘近5000只个股下跌",
+        "onboard_time": 1728438557,
+        "rank": 12,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 25289,
+        "num": 541066,
+        "word": "半导体",
+        "onboard_time": 1728356358,
+        "rank": 13,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 743366,
+        "num": 505366,
+        "word": "A股",
+        "onboard_time": 1728434000,
+        "rank": 14,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 673460,
+        "num": 474566,
+        "word": "陈乔恩婚后被问生小孩吗",
+        "onboard_time": 1728441799,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 467738,
+        "num": 467738,
+        "word": "k总",
+        "onboard_time": 1728390560,
+        "rank": 16,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 455160,
+        "num": 455160,
+        "word": "A股半小时成交破万亿",
+        "onboard_time": 1728441379,
+        "rank": 17,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 60172,
+        "num": 447678,
+        "word": "霉霉成全球最富女歌手",
+        "onboard_time": 1728443359,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37734,
+        "num": 444618,
+        "word": "揭秘品酒师证报考乱象",
+        "onboard_time": 1728444259,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 63410,
+        "num": 431224,
+        "word": "性别差异会影响免疫功能吗",
+        "onboard_time": 1728442638,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 841151,
+        "num": 423347,
+        "word": "女博主露营哀牢山2天1夜将被调查",
+        "onboard_time": 1728433099,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 587073,
+        "num": 415462,
+        "word": "弟弟回应远嫁姐姐半年看父亲被指不孝",
+        "onboard_time": 1728437176,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 415095,
+        "num": 415095,
+        "word": "顾客未买淀粉肠摊主刮下调料舔掉",
+        "onboard_time": 1728444320,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 393985,
+        "num": 393985,
+        "word": "假期开户投资者今天开始交易",
+        "onboard_time": 1728434121,
+        "rank": 24,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 285144,
+        "num": 285144,
+        "word": "2NE1与Jennie合照",
+        "onboard_time": 1728439579,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 268149,
+        "num": 268149,
+        "word": "他救人拦下的救护车救了自己",
+        "onboard_time": 1728438438,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260561,
+        "num": 260561,
+        "word": "入职几月怀孕拒绝调薪调岗被辞退",
+        "onboard_time": 1728433038,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257035,
+        "num": 257035,
+        "word": "沈星回星辰有信",
+        "onboard_time": 1728444320,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 207893,
+        "num": 251145,
+        "word": "七夜雪开播",
+        "onboard_time": 1728440119,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 306936,
+        "num": 250912,
+        "word": "和秦昊吵架后伊能静把两人鞋带绑一起",
+        "onboard_time": 1728444020,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 247004,
+        "num": 247004,
+        "word": "崔永熙NBA首秀",
+        "onboard_time": 1728443240,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 217680,
+        "num": 217680,
+        "word": "孙颖莎两项赛事档期无缝衔接",
+        "onboard_time": 1728433939,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 211014,
+        "num": 211014,
+        "word": "于正报警",
+        "onboard_time": 1728399802,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196313,
+        "num": 196313,
+        "word": "A股缩量",
+        "onboard_time": 1728443839,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 196183,
+        "num": 196183,
+        "word": "专家称调整或基本到位",
+        "onboard_time": 1728442700,
+        "rank": 35,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 191098,
+        "num": 191098,
+        "word": "腾讯视频Q4预排播剧目",
+        "onboard_time": 1728441138,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185038,
+        "num": 185038,
+        "word": "网恋12年英国男友竟是闺蜜假扮",
+        "onboard_time": 1728395362,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182558,
+        "num": 182558,
+        "word": "行情来了人人都是股神",
+        "onboard_time": 1728443660,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 181553,
+        "num": 181553,
+        "word": "联发科天玑9400芯片发布",
+        "onboard_time": 1728443060,
+        "rank": 39,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 176347,
+        "num": 176347,
+        "word": "男子称花2个月工资追女生反被拉黑",
+        "onboard_time": 1728400880,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173361,
+        "num": 173361,
+        "word": "以总理称已打死黎真主党领导人继任者",
+        "onboard_time": 1728439939,
+        "rank": 41,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 159221,
+        "num": 159221,
+        "word": "孙颖莎1比3金琴英",
+        "onboard_time": 1728397823,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158607,
+        "num": 158607,
+        "word": "微信文字讨好症",
+        "onboard_time": 1728429857,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 158147,
+        "num": 158147,
+        "word": "A股低开",
+        "onboard_time": 1728438380,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 153677,
+        "num": 153677,
+        "word": "游客飞无人机拍摄吓到花花",
+        "onboard_time": 1728437176,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157337,
+        "num": 152913,
+        "word": "业内提醒散户有问题的公司不要碰",
+        "onboard_time": 1728442459,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142306,
+        "num": 142306,
+        "word": "孩子被冤枉偷东西家长直接报警",
+        "onboard_time": 1728444438,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151791,
+        "num": 142190,
+        "word": "股票",
+        "onboard_time": 1728438318,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 141998,
+        "num": 141998,
+        "word": "男子为泄私愤驾车冲撞大排挡",
+        "onboard_time": 1728441319,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记关心的世界文化遗产#"
+    }
+  }
+}

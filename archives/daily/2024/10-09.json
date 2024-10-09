@@ -1,10 +1,10 @@
 {
   "startTime": 1728404919019,
-  "endTime": 1728442959123,
+  "endTime": 1728444472488,
   "band_list": [
     {
-      "raw_hot": 3195485,
-      "num": 3195485,
+      "raw_hot": 3282482,
+      "num": 3282482,
       "word": "女子腱鞘炎看医生挤出透明胶状物",
       "onboard_time": 1728440899,
       "rank": 1,
@@ -91,8 +91,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 921263,
-      "num": 921263,
+      "raw_hot": 936519,
+      "num": 936519,
       "word": "三人行必有我师焉其实缺了一个字",
       "onboard_time": 1728438798,
       "rank": 43,
@@ -108,7 +108,7 @@
     },
     {
       "raw_hot": 833939,
-      "num": 345708,
+      "num": 415462,
       "word": "弟弟回应远嫁姐姐半年看父亲被指不孝",
       "onboard_time": 1728437176,
       "rank": 20,
@@ -155,12 +155,36 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 623047,
-      "num": 623047,
+      "raw_hot": 675267,
+      "num": 675267,
       "word": "股市",
       "onboard_time": 1728437960,
       "rank": 33,
       "category": "财经"
+    },
+    {
+      "raw_hot": 673460,
+      "num": 474566,
+      "word": "陈乔恩婚后被问生小孩吗",
+      "onboard_time": 1728441799,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 672833,
+      "num": 672833,
+      "word": "A股天量成交股民留还是走",
+      "onboard_time": 1728439640,
+      "rank": 17,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 616064,
+      "num": 616064,
+      "word": "恋与深空",
+      "onboard_time": 1728443118,
+      "rank": 6,
+      "category": "游戏"
     },
     {
       "raw_hot": 592361,
@@ -235,20 +259,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 481247,
-      "num": 481247,
-      "word": "A股天量成交股民留还是走",
-      "onboard_time": 1728439640,
-      "rank": 17,
-      "category": "财经"
-    },
-    {
       "raw_hot": 458778,
       "num": 323807,
       "word": "哀牢山最危险的不是猛兽",
       "onboard_time": 1728388281,
       "rank": 39,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 455160,
+      "num": 608672,
+      "word": "A股半小时成交破万亿",
+      "onboard_time": 1728441379,
+      "rank": 8,
+      "category": "财经"
     },
     {
       "raw_hot": 441730,
@@ -291,20 +315,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 415095,
+      "num": 415095,
+      "word": "顾客未买淀粉肠摊主刮下调料舔掉",
+      "onboard_time": 1728444320,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 410672,
       "num": 622394,
       "word": "宋茜cue迪丽热巴新疆舞",
       "onboard_time": 1728436098,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 406411,
-      "num": 608672,
-      "word": "A股半小时成交破万亿",
-      "onboard_time": 1728441379,
-      "rank": 8,
-      "category": "财经"
     },
     {
       "raw_hot": 360867,
@@ -355,12 +379,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 316870,
-      "num": 316870,
-      "word": "陈乔恩婚后被问生小孩吗",
-      "onboard_time": 1728441799,
-      "rank": 35,
-      "category": "艺人"
+      "raw_hot": 306936,
+      "num": 250912,
+      "word": "和秦昊吵架后伊能静把两人鞋带绑一起",
+      "onboard_time": 1728444020,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 283317,
@@ -403,6 +427,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 268149,
+      "num": 599208,
+      "word": "他救人拦下的救护车救了自己",
+      "onboard_time": 1728438438,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 257035,
+      "num": 257035,
+      "word": "沈星回星辰有信",
+      "onboard_time": 1728444320,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 256764,
       "num": 256764,
       "word": "陈乔恩回应被催生",
@@ -411,12 +451,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 249983,
-      "num": 599208,
-      "word": "他救人拦下的救护车救了自己",
-      "onboard_time": 1728438438,
-      "rank": 33,
-      "category": "社会新闻"
+      "raw_hot": 247004,
+      "num": 247004,
+      "word": "崔永熙NBA首秀",
+      "onboard_time": 1728443240,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 228721,
@@ -523,6 +563,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 196313,
+      "num": 196313,
+      "word": "A股缩量",
+      "onboard_time": 1728443839,
+      "rank": 34,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 196183,
+      "num": 196183,
+      "word": "专家称调整或基本到位",
+      "onboard_time": 1728442700,
+      "rank": 48,
+      "category": "财经"
+    },
+    {
       "raw_hot": 193417,
       "num": 206756,
       "word": "七夜雪",
@@ -545,6 +601,22 @@
       "onboard_time": 1728414551,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 182558,
+      "num": 182558,
+      "word": "行情来了人人都是股神",
+      "onboard_time": 1728443660,
+      "rank": 38,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 181553,
+      "num": 181553,
+      "word": "联发科天玑9400芯片发布",
+      "onboard_time": 1728443060,
+      "rank": 39,
+      "category": "数码"
     },
     {
       "raw_hot": 175950,
@@ -571,8 +643,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 170553,
-      "num": 170553,
+      "raw_hot": 173361,
+      "num": 173361,
       "word": "以总理称已打死黎真主党领导人继任者",
       "onboard_time": 1728439939,
       "rank": 39,
@@ -627,6 +699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 157337,
+      "num": 152913,
+      "word": "业内提醒散户有问题的公司不要碰",
+      "onboard_time": 1728442459,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 156415,
       "num": 156415,
       "word": "火锅店老板栾留伟上榜见义勇为榜",
@@ -667,6 +747,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 142306,
+      "num": 142306,
+      "word": "孩子被冤枉偷东西家长直接报警",
+      "onboard_time": 1728444438,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 141998,
+      "num": 381069,
+      "word": "男子为泄私愤驾车冲撞大排挡",
+      "onboard_time": 1728441319,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 140925,
       "num": 140925,
       "word": "李兰迪骨相美",
@@ -681,14 +777,6 @@
       "onboard_time": 1728427334,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 139984,
-      "num": 139984,
-      "word": "业内提醒散户有问题的公司不要碰",
-      "onboard_time": 1728442459,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 138513,
@@ -753,14 +841,6 @@
       "onboard_time": 1728403518,
       "rank": 30,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 127687,
-      "num": 127687,
-      "word": "专家称调整或基本到位",
-      "onboard_time": 1728442700,
-      "rank": 48,
-      "category": "财经"
     },
     {
       "raw_hot": 126002,
@@ -923,6 +1003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 87595,
+      "num": 593895,
+      "word": "为何哀牢山和稻城亚丁拒绝野游",
+      "onboard_time": 1728443179,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 86182,
       "num": 293104,
       "word": "中餐厅考古",
@@ -937,14 +1025,6 @@
       "onboard_time": 1728402619,
       "rank": 43,
       "category": "情感"
-    },
-    {
-      "raw_hot": 80512,
-      "num": 381069,
-      "word": "男子为泄私愤驾车冲撞大排挡",
-      "onboard_time": 1728441319,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 80006,
@@ -1003,12 +1083,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 63410,
+      "num": 506271,
+      "word": "性别差异会影响免疫功能吗",
+      "onboard_time": 1728442638,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 60348,
       "num": 63863,
       "word": "山取",
       "onboard_time": 1728391821,
       "rank": 48,
       "category": "网红"
+    },
+    {
+      "raw_hot": 60172,
+      "num": 447678,
+      "word": "霉霉成全球最富女歌手",
+      "onboard_time": 1728443359,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 54016,
@@ -1051,19 +1147,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 37734,
+      "num": 444618,
+      "word": "揭秘品酒师证报考乱象",
+      "onboard_time": 1728444259,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 37351,
       "num": 107287,
       "word": "团伙在陕西盗掘3.5吨古生物化石",
       "onboard_time": 1728407534,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 36499,
-      "num": 506271,
-      "word": "性别差异会影响免疫功能吗",
-      "onboard_time": 1728442638,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -1139,6 +1235,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 25289,
+      "num": 541066,
+      "word": "半导体",
+      "onboard_time": 1728356358,
+      "rank": 13,
+      "category": "财经"
+    },
+    {
       "raw_hot": 22914,
       "num": 31414,
       "word": "官方回应双层列车为节假日限定",
@@ -1198,6 +1302,9 @@
   "hotgov_list": [
     {
       "word": "#学习习近平文化思想#"
+    },
+    {
+      "word": "#总书记关心的世界文化遗产#"
     }
   ]
 }
