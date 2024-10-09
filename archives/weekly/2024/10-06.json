@@ -1,6 +1,6 @@
 {
   "startTime": 1728145573126,
-  "endTime": 1728442391462,
+  "endTime": 1728442959123,
   "band_list": [
     {
       "raw_hot": 12210422,
@@ -57,6 +57,14 @@
       "onboard_time": 1728388760,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 3195485,
+      "num": 3195485,
+      "word": "女子腱鞘炎看医生挤出透明胶状物",
+      "onboard_time": 1728440899,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 3185534,
@@ -116,7 +124,7 @@
     },
     {
       "raw_hot": 2611084,
-      "num": 546168,
+      "num": 581574,
       "word": "k总",
       "onboard_time": 1728390560,
       "rank": 15,
@@ -177,14 +185,6 @@
       "onboard_time": 1728308721,
       "rank": 10,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 2117787,
-      "num": 2117787,
-      "word": "女子腱鞘炎看医生挤出透明胶状物",
-      "onboard_time": 1728440899,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2114558,
@@ -444,7 +444,7 @@
     },
     {
       "raw_hot": 1242137,
-      "num": 368307,
+      "num": 582151,
       "word": "A股开盘近5000只个股下跌",
       "onboard_time": 1728438557,
       "rank": 28,
@@ -531,6 +531,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1184046,
+      "num": 594114,
+      "word": "17年的玩具我24年开了眼界",
+      "onboard_time": 1728438619,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1176662,
       "num": 359706,
       "word": "颜料师未进入哀牢山核心区",
@@ -545,14 +553,6 @@
       "onboard_time": 1728205279,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1164444,
-      "num": 364719,
-      "word": "17年的玩具我24年开了眼界",
-      "onboard_time": 1728438619,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 1162161,
@@ -899,6 +899,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 921263,
+      "num": 921263,
+      "word": "三人行必有我师焉其实缺了一个字",
+      "onboard_time": 1728438798,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 919183,
       "num": 232862,
       "word": "女博主独闯哀牢山深处2天后报平安",
@@ -937,14 +945,6 @@
       "onboard_time": 1728374301,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 891228,
-      "num": 891228,
-      "word": "三人行必有我师焉其实缺了一个字",
-      "onboard_time": 1728438798,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 874322,
@@ -1684,7 +1684,7 @@
     },
     {
       "raw_hot": 546621,
-      "num": 546621,
+      "num": 611997,
       "word": "胡歌刘诗诗一起录综艺了",
       "onboard_time": 1728434840,
       "rank": 5,
@@ -1913,6 +1913,14 @@
       "onboard_time": 1728187037,
       "rank": 1,
       "category": "音乐,幽默"
+    },
+    {
+      "raw_hot": 481247,
+      "num": 481247,
+      "word": "A股天量成交股民留还是走",
+      "onboard_time": 1728439640,
+      "rank": 17,
+      "category": "财经"
     },
     {
       "raw_hot": 479603,
@@ -2228,7 +2236,7 @@
     },
     {
       "raw_hot": 410672,
-      "num": 479367,
+      "num": 622394,
       "word": "宋茜cue迪丽热巴新疆舞",
       "onboard_time": 1728436098,
       "rank": 8,
@@ -2249,6 +2257,14 @@
       "onboard_time": 1728154873,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 406411,
+      "num": 608672,
+      "word": "A股半小时成交破万亿",
+      "onboard_time": 1728441379,
+      "rank": 8,
+      "category": "财经"
     },
     {
       "raw_hot": 406011,
@@ -2651,14 +2667,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 355843,
-      "num": 355843,
-      "word": "A股天量成交股民留还是走",
-      "onboard_time": 1728439640,
-      "rank": 17,
-      "category": "财经"
-    },
-    {
       "raw_hot": 355638,
       "num": 355638,
       "word": "贾冰配音毒液",
@@ -2961,6 +2969,14 @@
       "onboard_time": 1728173837,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 316870,
+      "num": 316870,
+      "word": "陈乔恩婚后被问生小孩吗",
+      "onboard_time": 1728441799,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 315184,
@@ -3443,14 +3459,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 269876,
-      "num": 373586,
-      "word": "A股半小时成交破万亿",
-      "onboard_time": 1728441379,
-      "rank": 8,
-      "category": "财经"
-    },
-    {
       "raw_hot": 268681,
       "num": 250782,
       "word": "马龙vs梁靖崑",
@@ -3692,7 +3700,7 @@
     },
     {
       "raw_hot": 249983,
-      "num": 249983,
+      "num": 599208,
       "word": "他救人拦下的救护车救了自己",
       "onboard_time": 1728438438,
       "rank": 33,
@@ -4187,6 +4195,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 216803,
+      "num": 406705,
+      "word": "七夜雪开播",
+      "onboard_time": 1728440119,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 216482,
       "num": 216482,
       "word": "孙颖莎说在北京留下了最美好的回忆",
@@ -4507,6 +4523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 203944,
+      "num": 203944,
+      "word": "游客飞无人机拍摄吓到花花",
+      "onboard_time": 1728437176,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 203812,
       "num": 471239,
       "word": "于适游玩阿勒泰vlog",
@@ -4579,14 +4603,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 201128,
-      "num": 201128,
-      "word": "陈乔恩婚后被问生小孩吗",
-      "onboard_time": 1728441799,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 201053,
       "num": 473232,
       "word": "Jennie和NewJeans同框",
@@ -4649,14 +4665,6 @@
       "onboard_time": 1728381500,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 199246,
-      "num": 199246,
-      "word": "游客飞无人机拍摄吓到花花",
-      "onboard_time": 1728437176,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 198972,
@@ -4819,6 +4827,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 193417,
+      "num": 206756,
+      "word": "七夜雪",
+      "onboard_time": 1728442219,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 193400,
       "num": 193400,
       "word": "美联储亏损已破2000亿美元",
@@ -4969,14 +4985,6 @@
       "onboard_time": 1728364699,
       "rank": 49,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 189343,
-      "num": 227452,
-      "word": "七夜雪开播",
-      "onboard_time": 1728440119,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 189238,
@@ -5875,14 +5883,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 159066,
-      "num": 202007,
-      "word": "七夜雪",
-      "onboard_time": 1728442219,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 158855,
       "num": 158855,
       "word": "同花顺崩了",
@@ -6241,6 +6241,14 @@
       "onboard_time": 1728222919,
       "rank": 46,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 151051,
+      "num": 368125,
+      "word": "当地管护局回应女博主露营哀牢山",
+      "onboard_time": 1728435559,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 150967,
@@ -6691,6 +6699,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 139984,
+      "num": 139984,
+      "word": "业内提醒散户有问题的公司不要碰",
+      "onboard_time": 1728442459,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 139280,
       "num": 139280,
       "word": "缉妖录浑身是戏的猫妖",
@@ -6721,6 +6737,14 @@
       "onboard_time": 1728228800,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 138513,
+      "num": 134538,
+      "word": "A股踏空后如何上车",
+      "onboard_time": 1728442340,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 138236,
@@ -6947,6 +6971,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 131343,
+      "num": 131343,
+      "word": "东北人说的新鲜和南方人真的不一样",
+      "onboard_time": 1728439459,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 130722,
       "num": 130722,
       "word": "芒果新剧片单",
@@ -7099,20 +7131,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 127990,
-      "num": 127990,
-      "word": "A股踏空后如何上车",
-      "onboard_time": 1728442340,
-      "rank": 49,
-      "category": "财经"
-    },
-    {
       "raw_hot": 127696,
       "num": 127696,
       "word": "迈巴赫漏水",
       "onboard_time": 1728377121,
       "rank": 49,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 127687,
+      "num": 127687,
+      "word": "专家称调整或基本到位",
+      "onboard_time": 1728442700,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 127441,
@@ -7265,14 +7297,6 @@
       "onboard_time": 1728401780,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 122402,
-      "num": 368125,
-      "word": "当地管护局回应女博主露营哀牢山",
-      "onboard_time": 1728435559,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 122086,
@@ -8547,6 +8571,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 80512,
+      "num": 381069,
+      "word": "男子为泄私愤驾车冲撞大排挡",
+      "onboard_time": 1728441319,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 80504,
       "num": 80504,
       "word": "在青岛不仅能赶海还能上山采蘑菇",
@@ -8761,14 +8793,6 @@
       "onboard_time": 1728252191,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 66804,
-      "num": 323312,
-      "word": "男子为泄私愤驾车冲撞大排挡",
-      "onboard_time": 1728441319,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 66794,
@@ -9507,8 +9531,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 36499,
+      "num": 506271,
+      "word": "性别差异会影响免疫功能吗",
+      "onboard_time": 1728442638,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 36487,
-      "num": 1207141,
+      "num": 1545925,
       "word": "这是航天员拍摄的锦绣山河",
       "onboard_time": 1728401000,
       "rank": 2,
