@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1728452434784,
+  "endTime": 1728455512662,
   "band_list": [
     {
       "raw_hot": 12210422,
@@ -641,6 +641,14 @@
       "onboard_time": 1728226943,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1413983,
+      "num": 1413983,
+      "word": "金晨 我是来自中国的演员",
+      "onboard_time": 1728453258,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 1398043,
@@ -2115,6 +2123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 795824,
+      "num": 795824,
+      "word": "哀牢山拍写真当事人回应质疑",
+      "onboard_time": 1728453078,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 794963,
       "num": 528661,
       "word": "马龙vs梁靖崑",
@@ -3147,6 +3163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 627192,
+      "num": 344228,
+      "word": "男孩拍打隐翅虫后用错药物全身溃烂",
+      "onboard_time": 1728452478,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 626154,
       "num": 558759,
       "word": "特朗普就伊朗空袭以色列发声",
@@ -3443,12 +3467,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 590649,
+      "num": 590649,
+      "word": "男解说 苹果香",
+      "onboard_time": 1728451997,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 590546,
       "num": 416106,
       "word": "孙颖莎连赢10分",
       "onboard_time": 1728214102,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 590078,
+      "num": 590078,
+      "word": "警方通报昆明长水机场出境被坑钱",
+      "onboard_time": 1728451157,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 588542,
@@ -4147,6 +4187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 506153,
+      "num": 353547,
+      "word": "理记 江歌妈妈",
+      "onboard_time": 1728454578,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 505192,
       "num": 759635,
       "word": "华春莹连发18组对比图展现中国变化",
@@ -4201,6 +4249,14 @@
       "onboard_time": 1728172936,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 498000,
+      "num": 352763,
+      "word": "韦雪新男友颜值",
+      "onboard_time": 1728452598,
+      "rank": 12,
+      "category": "网红"
     },
     {
       "raw_hot": 497880,
@@ -4433,6 +4489,14 @@
       "onboard_time": 1728202518,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 478391,
+      "num": 406735,
+      "word": "名媛 污名化",
+      "onboard_time": 1728451278,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 478316,
@@ -5195,14 +5259,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 406735,
-      "num": 406735,
-      "word": "名媛 污名化",
-      "onboard_time": 1728451278,
-      "rank": 45,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 406651,
       "num": 274982,
       "word": "国庆档电影豆瓣开分",
@@ -5801,6 +5857,14 @@
       "onboard_time": 1727924837,
       "rank": 44,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 362661,
+      "num": 420205,
+      "word": "密逃这期有杨幂黄明昊",
+      "onboard_time": 1728451399,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 362323,
@@ -6787,6 +6851,22 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 309404,
+      "num": 414916,
+      "word": "陈幸同vs吴咏琳",
+      "onboard_time": 1728451519,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 308969,
+      "num": 308969,
+      "word": "央行与财政部首次召开工作会",
+      "onboard_time": 1728454400,
+      "rank": 32,
+      "category": "财经"
+    },
+    {
       "raw_hot": 308699,
       "num": 206302,
       "word": "杨鸣骂人用脸消音",
@@ -7657,6 +7737,14 @@
       "onboard_time": 1728297444,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 276905,
+      "num": 347792,
+      "word": "张新成王玉雯回应大大方方最好嗑",
+      "onboard_time": 1728454459,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 276607,
@@ -8587,6 +8675,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 246750,
+      "num": 331317,
+      "word": "孙颖莎3比0杜凯琹",
+      "onboard_time": 1728451699,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 246730,
       "num": 210099,
       "word": "苏新皓在大街上跳舞",
@@ -8835,6 +8931,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 239677,
+      "num": 239677,
+      "word": "河南景区1元午餐实收多了913元",
+      "onboard_time": 1728454578,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 239624,
       "num": 251793,
       "word": "国庆假期第2天你在哪里过的",
@@ -8849,14 +8953,6 @@
       "onboard_time": 1728274038,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 238951,
-      "num": 420205,
-      "word": "密逃这期有杨幂黄明昊",
-      "onboard_time": 1728451399,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 238720,
@@ -9987,14 +10083,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 213671,
-      "num": 331317,
-      "word": "孙颖莎3比0杜凯琹",
-      "onboard_time": 1728451699,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 213613,
       "num": 200080,
       "word": "黎巴嫩机场附近爆炸前还有飞机滑行",
@@ -10915,6 +11003,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 198220,
+      "num": 198220,
+      "word": "虞书欣撤回一个虞书欣",
+      "onboard_time": 1728453499,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 198086,
       "num": 198086,
       "word": "缉妖录金角银角的恨比爱长久",
@@ -11681,14 +11777,6 @@
       "onboard_time": 1727850259,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 190511,
-      "num": 190511,
-      "word": "男解说 苹果香",
-      "onboard_time": 1728451997,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 190487,
@@ -12627,14 +12715,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 177622,
-      "num": 419706,
-      "word": "警方通报昆明长水机场出境被坑钱",
-      "onboard_time": 1728451157,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 177538,
       "num": 177538,
       "word": "牛吃草为什么突然停顿一下",
@@ -12931,6 +13011,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 174206,
+      "num": 174206,
+      "word": "张颂文 原来是热量炸弹",
+      "onboard_time": 1728455060,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 174171,
       "num": 174171,
       "word": "WTT赛程",
@@ -13056,6 +13144,14 @@
       "word": "专家称今天的行情不太正常",
       "onboard_time": 1728373522,
       "rank": 39,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 172775,
+      "num": 172775,
+      "word": "专家称好股票行情尚未结束",
+      "onboard_time": 1728454699,
+      "rank": 44,
       "category": "财经"
     },
     {
@@ -13665,6 +13761,14 @@
       "onboard_time": 1728022338,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 164593,
+      "num": 413835,
+      "word": "王艺迪vs朱成竹",
+      "onboard_time": 1728451519,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 164581,
@@ -15097,6 +15201,14 @@
       "onboard_time": 1727767699,
       "rank": 37,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 149537,
+      "num": 149537,
+      "word": "男子称自己病重妻子不签字",
+      "onboard_time": 1728454219,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 149502,
@@ -19067,14 +19179,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 111509,
-      "num": 413835,
-      "word": "王艺迪vs朱成竹",
-      "onboard_time": 1728451519,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 111427,
       "num": 111427,
       "word": "华晨宇鸟巢演唱会全纪录",
@@ -20475,6 +20579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 96802,
+      "num": 347724,
+      "word": "国乒女团晋级亚锦赛决赛",
+      "onboard_time": 1728455119,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 96710,
       "num": 219403,
       "word": "国庆档新片票房已破3亿",
@@ -21065,6 +21177,14 @@
       "onboard_time": 1728427154,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 89240,
+      "num": 346593,
+      "word": "梁伟铿王昶vs刘广珩杨博涵",
+      "onboard_time": 1728454040,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 89227,
@@ -22547,6 +22667,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 61315,
+      "num": 355751,
+      "word": "多家房企官宣涨价或全面收回折扣",
+      "onboard_time": 1728453978,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 61306,
       "num": 256564,
       "word": "不少投资者国庆假期赴港开户",
@@ -22601,14 +22729,6 @@
       "onboard_time": 1728170174,
       "rank": 33,
       "category": "健康医疗,美食"
-    },
-    {
-      "raw_hot": 60061,
-      "num": 414916,
-      "word": "陈幸同vs吴咏琳",
-      "onboard_time": 1728451519,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 59855,
@@ -22969,6 +23089,14 @@
       "onboard_time": 1727854699,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 54558,
+      "num": 325926,
+      "word": "于正晒张石头立案告知书",
+      "onboard_time": 1728455119,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 54534,
@@ -24163,6 +24291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 36700,
+      "num": 351470,
+      "word": "巴以冲突为什么愈演愈烈",
+      "onboard_time": 1728453739,
+      "rank": 14,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 36487,
       "num": 1545925,
       "word": "这是航天员拍摄的锦绣山河",
@@ -24561,6 +24697,14 @@
       "onboard_time": 1728102439,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 30700,
+      "num": 326464,
+      "word": "陈幸同3比1吴咏琳",
+      "onboard_time": 1728455420,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 30680,

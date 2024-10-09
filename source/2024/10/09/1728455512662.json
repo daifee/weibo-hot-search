@@ -1,0 +1,410 @@
+{
+  "runTime": 1728455512662,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1516612,
+        "num": 1516612,
+        "word": "苗疆陈朵朵道歉",
+        "onboard_time": 1728448281,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1413983,
+        "num": 1413983,
+        "word": "金晨 我是来自中国的演员",
+        "onboard_time": 1728453258,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 17679,
+        "num": 1038746,
+        "word": "我国加力推出增量政策重点在五方面",
+        "onboard_time": 1728444799,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 795824,
+        "num": 795824,
+        "word": "哀牢山拍写真当事人回应质疑",
+        "onboard_time": 1728453078,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 611786,
+        "num": 611786,
+        "word": "孙颖莎vs杜凯琹",
+        "onboard_time": 1728449420,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 590649,
+        "num": 590649,
+        "word": "男解说 苹果香",
+        "onboard_time": 1728451997,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 590078,
+        "num": 590078,
+        "word": "警方通报昆明长水机场出境被坑钱",
+        "onboard_time": 1728451157,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 362661,
+        "num": 362661,
+        "word": "密逃这期有杨幂黄明昊",
+        "onboard_time": 1728451399,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 356271,
+        "num": 356271,
+        "word": "朝鲜永久切断并封锁与韩国交界南部国境",
+        "onboard_time": 1728446240,
+        "rank": 8,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 61315,
+        "num": 355751,
+        "word": "多家房企官宣涨价或全面收回折扣",
+        "onboard_time": 1728453978,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 652122,
+        "num": 354610,
+        "word": "交警回应正规停放的车辆被拖走",
+        "onboard_time": 1728447141,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 506153,
+        "num": 353547,
+        "word": "理记 江歌妈妈",
+        "onboard_time": 1728454578,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 498000,
+        "num": 352763,
+        "word": "韦雪新男友颜值",
+        "onboard_time": 1728452598,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 478391,
+        "num": 351670,
+        "word": "名媛 污名化",
+        "onboard_time": 1728451278,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 36700,
+        "num": 351470,
+        "word": "巴以冲突为什么愈演愈烈",
+        "onboard_time": 1728453739,
+        "rank": 14,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 477440,
+        "num": 349901,
+        "word": "A股开盘近5000只个股下跌",
+        "onboard_time": 1728438557,
+        "rank": 15,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 431570,
+        "num": 349250,
+        "word": "和秦昊吵架后伊能静把两人鞋带绑一起",
+        "onboard_time": 1728444020,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 276905,
+        "num": 347792,
+        "word": "张新成王玉雯回应大大方方最好嗑",
+        "onboard_time": 1728454459,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96802,
+        "num": 347724,
+        "word": "国乒女团晋级亚锦赛决赛",
+        "onboard_time": 1728455119,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 89240,
+        "num": 346593,
+        "word": "梁伟铿王昶vs刘广珩杨博涵",
+        "onboard_time": 1728454040,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 730016,
+        "num": 345431,
+        "word": "女子怀孕工资从6000降到3000",
+        "onboard_time": 1728445701,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 627192,
+        "num": 344228,
+        "word": "男孩拍打隐翅虫后用错药物全身溃烂",
+        "onboard_time": 1728452478,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 609908,
+        "num": 343081,
+        "word": "女子腱鞘炎看医生挤出透明胶状物",
+        "onboard_time": 1728440899,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 407727,
+        "num": 342327,
+        "word": "顾客未买淀粉肠摊主刮下调料舔掉",
+        "onboard_time": 1728444320,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 342051,
+        "num": 342051,
+        "word": "伊能静被我恋6男嘉宾气到疯狂输出",
+        "onboard_time": 1728450619,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 327100,
+        "num": 327100,
+        "word": "17年的玩具我24年开了眼界",
+        "onboard_time": 1728438619,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 205230,
+        "num": 326956,
+        "word": "三人行必有我师焉其实缺了一个字",
+        "onboard_time": 1728438798,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111514,
+        "num": 326661,
+        "word": "文泰一被警方立案第二天生日直播",
+        "onboard_time": 1728447080,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30700,
+        "num": 326464,
+        "word": "陈幸同3比1吴咏琳",
+        "onboard_time": 1728455420,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 54558,
+        "num": 325926,
+        "word": "于正晒张石头立案告知书",
+        "onboard_time": 1728455119,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 325884,
+        "num": 325884,
+        "word": "A股",
+        "onboard_time": 1728434000,
+        "rank": 30,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 309404,
+        "num": 309404,
+        "word": "陈幸同vs吴咏琳",
+        "onboard_time": 1728451519,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 308969,
+        "num": 308969,
+        "word": "央行与财政部首次召开工作会",
+        "onboard_time": 1728454400,
+        "rank": 32,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 308369,
+        "num": 308369,
+        "word": "A股巨震三大原因找到了",
+        "onboard_time": 1728449661,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 269028,
+        "num": 269028,
+        "word": "上海爷叔为何能成为最火股民",
+        "onboard_time": 1728446720,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 246750,
+        "num": 246750,
+        "word": "孙颖莎3比0杜凯琹",
+        "onboard_time": 1728451699,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 239677,
+        "num": 239677,
+        "word": "河南景区1元午餐实收多了913元",
+        "onboard_time": 1728454578,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229970,
+        "num": 229970,
+        "word": "弟弟回应远嫁姐姐半年看父亲被指不孝",
+        "onboard_time": 1728437176,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210434,
+        "num": 210434,
+        "word": "金晨在巴黎跳傣族舞",
+        "onboard_time": 1728449360,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198220,
+        "num": 198220,
+        "word": "虞书欣撤回一个虞书欣",
+        "onboard_time": 1728453499,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192242,
+        "num": 192242,
+        "word": "陈乔恩婚后被问生小孩吗",
+        "onboard_time": 1728441799,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181012,
+        "num": 181012,
+        "word": "女博主露营哀牢山2天1夜将被调查",
+        "onboard_time": 1728433099,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177795,
+        "num": 177795,
+        "word": "老累 藿香菇",
+        "onboard_time": 1728448342,
+        "rank": 42,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 174206,
+        "num": 174206,
+        "word": "张颂文 原来是热量炸弹",
+        "onboard_time": 1728455060,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172775,
+        "num": 172775,
+        "word": "专家称好股票行情尚未结束",
+        "onboard_time": 1728454699,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 166658,
+        "num": 166658,
+        "word": "我国正编纂一套字数超10亿的书",
+        "onboard_time": 1728435800,
+        "rank": 45,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 164593,
+        "num": 164593,
+        "word": "王艺迪vs朱成竹",
+        "onboard_time": 1728451519,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 161158,
+        "num": 161158,
+        "word": "朝鲜宣布完全切断与韩国连接铁路公路",
+        "onboard_time": 1728439880,
+        "rank": 47,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 149537,
+        "num": 149537,
+        "word": "男子称自己病重妻子不签字",
+        "onboard_time": 1728454219,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103593,
+        "num": 146253,
+        "word": "森林进化论2定档",
+        "onboard_time": 1728450200,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记关心的世界文化遗产#"
+    }
+  }
+}
