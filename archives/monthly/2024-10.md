@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/10/01 00:28:17 ~ 2024/10/09 18:42:26
+本榜单时间：2024/10/01 00:28:17 ~ 2024/10/09 19:19:36
 </p>
 </blockquote>
 <p>
@@ -1179,6 +1179,12 @@ A股彻底爆了现在进场还来得及吗（热度：1030303）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2318%E5%B2%81%E5%AD%A6%E7%94%9F%E6%8B%BF%E6%9A%91%E5%81%87%E8%B5%9A%E7%9A%845%E5%8D%83%E5%85%83%E5%85%A5%E5%9C%BA%E7%82%92%E8%82%A1%23" target="weibo">
+18岁学生拿暑假赚的5千元入场炒股（热度：1010670）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%8B%94%E6%8F%92%E5%A4%B4%E8%A2%AB%E7%94%B5%E4%BC%A4%E6%88%AA%E8%82%A2%23" target="weibo">
 女子拔插头被电伤截肢（热度：1010561）
 </a>
@@ -2165,6 +2171,12 @@ WBG对战G2（热度：687029）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%83%91%E9%92%A6%E6%96%87%E5%A4%B4%E5%8F%B7%E5%8A%B2%E6%95%8C%E7%88%86%E5%86%B7%E6%B7%98%E6%B1%B0%23" target="weibo">
 郑钦文头号劲敌爆冷淘汰（热度：687000）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%239%E5%B2%81%E5%A5%B3%E7%AB%A5%E6%BA%BA%E4%BA%A1%E6%A1%88%E5%AB%8C%E7%96%91%E4%BA%BA%E7%B3%BB%E5%90%8C%E6%9D%91%E7%94%B7%E5%AD%A9%23" target="weibo">
+9岁女童溺亡案嫌疑人系同村男孩（热度：686681）
 </a>
 </li>
 
@@ -3609,6 +3621,12 @@ GEN对战WBG（热度：516314）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8F%B2%E5%BE%8B%E5%AE%BE%E7%BB%91%E5%8C%AA%E6%94%B6%E5%88%B0%E8%B5%8E%E9%87%91%E5%90%8E%E9%87%8A%E6%94%BE%E4%B8%AD%E5%9B%BD%E5%A5%B3%E5%AD%90%23" target="weibo">
+菲律宾绑匪收到赎金后释放中国女子（热度：468498）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E8%AF%97%E6%A0%8B%E4%B8%89%E8%BF%9E%E5%86%A0%23" target="weibo">
 林诗栋三连冠（热度：468133）
 </a>
@@ -3957,12 +3975,6 @@ A股半小时成交破万亿（热度：455160）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%239%E5%B2%81%E5%A5%B3%E7%AB%A5%E6%BA%BA%E4%BA%A1%E6%A1%88%E5%AB%8C%E7%96%91%E4%BA%BA%E7%B3%BB%E5%90%8C%E6%9D%91%E7%94%B7%E5%AD%A9%23" target="weibo">
-9岁女童溺亡案嫌疑人系同村男孩（热度：424443）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%BD%93%E8%A1%97%E8%84%9A%E8%B8%A9%E5%A4%B4%E6%AE%B4%E6%89%93%E5%A4%96%E5%8D%96%E5%B0%8F%E5%93%A5%23" target="weibo">
 女子当街脚踩头殴打外卖小哥（热度：423722）
 </a>
@@ -4103,6 +4115,12 @@ A股半小时成交破万亿（热度：455160）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E8%AF%97%E6%A0%8B4%E6%AF%942%E5%90%91%E9%B9%8F%23" target="weibo">
 林诗栋4比2向鹏（热度：408571）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B3%E8%A3%95%E6%96%8C2%E6%AF%943%E8%BE%B9%E6%9D%BE%E6%99%AF%23" target="weibo">
+申裕斌2比3边松景（热度：406885）
 </a>
 </li>
 
@@ -4833,6 +4851,12 @@ WB零封AG（热度：346827）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%81%B6%E9%81%87%E5%BC%A0%E4%BA%88%E6%9B%A6%E5%A6%88%E5%A6%88%E5%92%8C%E5%BC%9F%E5%BC%9F%23" target="weibo">
+偶遇张予曦妈妈和弟弟（热度：343791）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E6%9C%89%E8%BF%99%E5%BF%8D%E8%80%90%E5%8A%9B%E5%81%9A%E4%BB%80%E4%B9%88%E9%83%BD%E4%BC%9A%E6%88%90%E5%8A%9F%E7%9A%84%23" target="weibo">
 王俊凯有这忍耐力做什么都会成功的（热度：343644）
 </a>
@@ -5169,6 +5193,12 @@ LNG空签（热度：323793）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9A%90%E7%BF%85%E8%99%AB%E8%A6%81%E8%B5%B6%E8%B5%B0%E4%B8%8D%E8%83%BD%E6%8B%8D%E6%AD%BB%23" target="weibo">
+隐翅虫要赶走不能拍死（热度：320664）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C%E5%90%8C%E5%A4%84%E4%B8%8A%E5%8D%8A%E5%8C%BA%23" target="weibo">
 王楚钦张本智和同处上半区（热度：320016）
 </a>
@@ -5333,6 +5363,12 @@ DK对战LNG（热度：311674）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%B9%B8%E5%90%8Cvs%E5%90%B4%E5%92%8F%E7%90%B3%23" target="weibo">
 陈幸同vs吴咏琳（热度：309404）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E6%9C%88%E5%BA%95%E5%AE%89%E5%BE%BD%E8%BF%9B%E7%BB%84%E5%AE%B6%E4%B8%9A%23" target="weibo">
+杨紫月底安徽进组家业（热度：309354）
 </a>
 </li>
 
@@ -5975,42 +6011,6 @@ A股缩量（热度：283052）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E5%9B%A0%E4%B8%BA%E6%89%8B%E8%83%8C%E9%9D%92%E7%AD%8B%E8%A2%AB%E6%9A%B4%E5%87%BB%23" target="weibo">
 周深因为手背青筋被暴击（热度：279915）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9C%B4%E6%99%BA%E5%A6%8D%E7%A6%BB%E5%A9%9A%E5%90%8E%E9%A6%96%E6%AC%A1%E5%85%AC%E5%BC%80%E6%B4%BB%E5%8A%A8%23" target="weibo">
-朴智妍离婚后首次公开活动（热度：279912）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8A%A0%E6%B2%99%E6%AD%BB%E8%80%85%E4%B8%89%E5%88%86%E4%B9%8B%E4%B8%80%E6%98%AF%E5%84%BF%E7%AB%A5%23" target="weibo">
-加沙死者三分之一是儿童（热度：279725）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AD%A6%E4%B9%89%20%E6%88%91%E8%BF%99%E4%B8%AA%E5%B9%B4%E9%BE%84%E8%83%BD%E8%A2%AB%E9%80%89%E6%8B%A9%E5%B0%B1%E4%B8%8D%E9%94%99%E4%BA%86%23" target="weibo">
-刘学义 我这个年龄能被选择就不错了（热度：279701）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%94%AE%E6%A5%BC%E9%83%A8%E6%88%90%E5%B9%BF%E5%B7%9E%E6%96%B0%E6%99%AF%E7%82%B9%23" target="weibo">
-售楼部成广州新景点（热度：279693）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E8%AF%97%E6%A0%8B%E8%BF%99%E4%B8%80%E7%90%83%E8%AF%B7%E5%85%A8%E5%9C%BA%E8%B5%B7%E7%AB%8B%23" target="weibo">
-林诗栋这一球请全场起立（热度：279598）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%96%B0%E5%A4%96%E7%9B%B8%E5%9B%9E%E5%BA%94%E7%9F%B3%E7%A0%B4%E8%8C%82%E5%86%85%E9%98%81%E4%BA%B2%E4%B8%AD%E4%BA%B2%E9%9F%A9%23" target="weibo">
-日本新外相回应石破茂内阁亲中亲韩（热度：279450）
 </a>
 </li>
 

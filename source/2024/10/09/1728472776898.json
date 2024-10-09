@@ -1,0 +1,410 @@
+{
+  "runTime": 1728472776898,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 576316,
+        "num": 1092210,
+        "word": "韩国回应朝鲜永久切断朝韩道路连接",
+        "onboard_time": 1728463579,
+        "rank": 0,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 402328,
+        "num": 402328,
+        "word": "A股后续将迎第二波上涨行情",
+        "onboard_time": 1728458720,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 11590,
+        "num": 380877,
+        "word": "文化中国行看候鸟天堂",
+        "onboard_time": 1728464180,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 499351,
+        "num": 380040,
+        "word": "2024年诺贝尔化学奖揭晓",
+        "onboard_time": 1728468319,
+        "rank": 3,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 372640,
+        "num": 372640,
+        "word": "影视飓风",
+        "onboard_time": 1728462979,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 320664,
+        "num": 320664,
+        "word": "隐翅虫要赶走不能拍死",
+        "onboard_time": 1728465979,
+        "rank": 5,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 253010,
+        "num": 320617,
+        "word": "黄油小熊咖啡",
+        "onboard_time": 1728461659,
+        "rank": 6,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 222687,
+        "num": 320076,
+        "word": "再见爱人 黄圣依",
+        "onboard_time": 1728462740,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 74629,
+        "num": 319365,
+        "word": "网信部门通报涉未成年人乱象典型案例",
+        "onboard_time": 1728470179,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219332,
+        "num": 318957,
+        "word": "郑钦文vs克里斯蒂安",
+        "onboard_time": 1728471200,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1175327,
+        "num": 318593,
+        "word": "江歌妈妈",
+        "onboard_time": 1728458899,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1010670,
+        "num": 317765,
+        "word": "18岁学生拿暑假赚的5千元入场炒股",
+        "onboard_time": 1728469819,
+        "rank": 11,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 764671,
+        "num": 317499,
+        "word": "李静从160斤瘦到了105斤",
+        "onboard_time": 1728461840,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162623,
+        "num": 316701,
+        "word": "长期吃辣的人都怎么样了",
+        "onboard_time": 1728471740,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 711751,
+        "num": 316076,
+        "word": "赵丽颖 金鹰奖",
+        "onboard_time": 1728465380,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 33329,
+        "num": 315665,
+        "word": "想和刘亦菲一样愉悦",
+        "onboard_time": 1728468500,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 496659,
+        "num": 315129,
+        "word": "哀牢山调查人员回应苗疆陈朵朵道歉",
+        "onboard_time": 1728460219,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 686681,
+        "num": 314790,
+        "word": "9岁女童溺亡案嫌疑人系同村男孩",
+        "onboard_time": 1728468740,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 646726,
+        "num": 314186,
+        "word": "刺痛减肥",
+        "onboard_time": 1728464120,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 572846,
+        "num": 313679,
+        "word": "两个月后日本找到伤害中国游客凶手",
+        "onboard_time": 1728465020,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 922270,
+        "num": 312973,
+        "word": "26岁女子以为痛经检查发现临盆了",
+        "onboard_time": 1728467180,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 679184,
+        "num": 312530,
+        "word": "女子怀孕3个月连吃6只螃蟹后流产",
+        "onboard_time": 1728460520,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 468498,
+        "num": 312285,
+        "word": "菲律宾绑匪收到赎金后释放中国女子",
+        "onboard_time": 1728467481,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 452661,
+        "num": 311784,
+        "word": "鼻子手术多次后畸形医生不愿接单",
+        "onboard_time": 1728466279,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 438971,
+        "num": 311010,
+        "word": "至上励合",
+        "onboard_time": 1728466038,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 406885,
+        "num": 310490,
+        "word": "申裕斌2比3边松景",
+        "onboard_time": 1728470540,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 365492,
+        "num": 310112,
+        "word": "张远给马雪阳88888.88红包",
+        "onboard_time": 1728458179,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 343791,
+        "num": 309607,
+        "word": "偶遇张予曦妈妈和弟弟",
+        "onboard_time": 1728471439,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 309354,
+        "num": 309354,
+        "word": "杨紫月底安徽进组家业",
+        "onboard_time": 1728470960,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138689,
+        "num": 275439,
+        "word": "周雨彤 入行十年从没有目标",
+        "onboard_time": 1728467061,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 259791,
+        "num": 259791,
+        "word": "江歌妈妈名下关联2家企业",
+        "onboard_time": 1728470238,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247735,
+        "num": 247735,
+        "word": "aespa成员solo曲上线",
+        "onboard_time": 1728466100,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 226242,
+        "num": 226242,
+        "word": "学历贬值下卷研究生还有意义吗",
+        "onboard_time": 1728457277,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206747,
+        "num": 206747,
+        "word": "女子怀孕工资从6000降到3000",
+        "onboard_time": 1728445701,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197868,
+        "num": 197868,
+        "word": "张新成王玉雯被父母撮合过",
+        "onboard_time": 1728457218,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195951,
+        "num": 195951,
+        "word": "日本政府不想首相露肚子而P图",
+        "onboard_time": 1728469158,
+        "rank": 35,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 184904,
+        "num": 184904,
+        "word": "苗疆陈朵朵道歉",
+        "onboard_time": 1728448281,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183394,
+        "num": 183394,
+        "word": "很多校园霸凌是从欺负开始的",
+        "onboard_time": 1728464838,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179074,
+        "num": 179074,
+        "word": "柳智敏UP Melon曲线",
+        "onboard_time": 1728466639,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 171380,
+        "num": 171380,
+        "word": "柠季就柯南联名争议致歉",
+        "onboard_time": 1728470899,
+        "rank": 39,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 170518,
+        "num": 170518,
+        "word": "张石头被于正签约9月已从高校离职",
+        "onboard_time": 1728467420,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169853,
+        "num": 169853,
+        "word": "A股最难熬的时候已过去",
+        "onboard_time": 1728469158,
+        "rank": 41,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 162912,
+        "num": 162912,
+        "word": "男孩拍打隐翅虫后用错药物全身溃烂",
+        "onboard_time": 1728452478,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161357,
+        "num": 161357,
+        "word": "我的宝藏家乡",
+        "onboard_time": 1728459858,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161235,
+        "num": 161235,
+        "word": "雷军澄清近期雷军AI配音",
+        "onboard_time": 1728462379,
+        "rank": 44,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 158824,
+        "num": 158824,
+        "word": "幼童在幼儿园坠楼排除被人为推下",
+        "onboard_time": 1728472340,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157411,
+        "num": 157411,
+        "word": "朴山多拉发了与Jennie合照",
+        "onboard_time": 1728467299,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 147497,
+        "num": 147497,
+        "word": "杨幂早期有多灵气",
+        "onboard_time": 1728465979,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119665,
+        "num": 140988,
+        "word": "七夜雪OST阵容",
+        "onboard_time": 1728472638,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135055,
+        "num": 135055,
+        "word": "视频码率",
+        "onboard_time": 1728471439,
+        "rank": 49,
+        "category": "互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#感悟总书记的传统文化情结#"
+    }
+  }
+}
