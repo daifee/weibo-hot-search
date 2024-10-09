@@ -1,0 +1,410 @@
+{
+  "runTime": 1728516171541,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1879382,
+        "num": 1879382,
+        "word": "国乒女团1比3日本",
+        "onboard_time": 1728486381,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1596688,
+        "num": 1596688,
+        "word": "孙颖莎2比3张本美和",
+        "onboard_time": 1728493938,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 3866,
+        "num": 815243,
+        "word": "文博热非遗热持续升温",
+        "onboard_time": 1728478340,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 352544,
+        "num": 352544,
+        "word": "77岁教授不用洗发水省下钱就买书",
+        "onboard_time": 1728488598,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 296095,
+        "num": 296095,
+        "word": "记者深入哀牢山突遇浓雾",
+        "onboard_time": 1728485121,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 289672,
+        "num": 289672,
+        "word": "中方表态朝韩最新动态",
+        "onboard_time": 1728489918,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 224181,
+        "num": 224181,
+        "word": "四川宜宾4.5级地震",
+        "onboard_time": 1728515296,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 84787,
+        "num": 223604,
+        "word": "李沁古装",
+        "onboard_time": 1728475459,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 81184,
+        "num": 223135,
+        "word": "黄磊是跟海清学的赛螃蟹吧",
+        "onboard_time": 1728475638,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133502,
+        "num": 222704,
+        "word": "跑步入场的00后3天赚了3万",
+        "onboard_time": 1728515296,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217812,
+        "num": 221450,
+        "word": "国乒女团亚锦赛亚军",
+        "onboard_time": 1728493998,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1193665,
+        "num": 220870,
+        "word": "戴LV丝巾受访的女局长被查",
+        "onboard_time": 1728493336,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 412165,
+        "num": 220251,
+        "word": "女子5年花光50万积蓄追发财梦",
+        "onboard_time": 1728482660,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 403136,
+        "num": 219625,
+        "word": "陈浩民老婆回应叶珂参加生日会",
+        "onboard_time": 1728474858,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 231665,
+        "num": 218947,
+        "word": "理记发文质疑江歌妈妈骗捐",
+        "onboard_time": 1728486800,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218675,
+        "num": 218675,
+        "word": "陈梦送出自己的奥运夺冠球衣",
+        "onboard_time": 1728478399,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 204348,
+        "num": 204348,
+        "word": "江苏警方抓获杀人逃亡32年嫌犯",
+        "onboard_time": 1728500952,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199474,
+        "num": 199474,
+        "word": "江歌妈妈",
+        "onboard_time": 1728458899,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186982,
+        "num": 186982,
+        "word": "河北警方回应2名裸体男童遭虐打",
+        "onboard_time": 1728482961,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131405,
+        "num": 131405,
+        "word": "李静从160斤瘦到了105斤",
+        "onboard_time": 1728461840,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 320421,
+        "num": 128904,
+        "word": "女子怀孕3个月连吃6只螃蟹后流产",
+        "onboard_time": 1728460520,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223742,
+        "num": 127471,
+        "word": "独子出走30年父母离世后现身继承遗产",
+        "onboard_time": 1728489678,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152271,
+        "num": 126690,
+        "word": "河南高校回应女教师被于正签约",
+        "onboard_time": 1728483920,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124001,
+        "num": 124001,
+        "word": "东北雨哥回应模仿东北雨姐",
+        "onboard_time": 1728476899,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109453,
+        "num": 109453,
+        "word": "成都又多一只巨巨巨大的熊猫",
+        "onboard_time": 1728514815,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100456,
+        "num": 100456,
+        "word": "露营哀牢山女博主遇到了熊",
+        "onboard_time": 1728477680,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98807,
+        "num": 98807,
+        "word": "稍等您的外卖小哥在看杨紫",
+        "onboard_time": 1728490819,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 89395,
+        "num": 89395,
+        "word": "偶遇张予曦妈妈和弟弟",
+        "onboard_time": 1728471439,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80992,
+        "num": 80992,
+        "word": "摩根大通减持中国平安2868万股H股",
+        "onboard_time": 1728490218,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 64965,
+        "num": 80415,
+        "word": "杨洋雨霖铃头套",
+        "onboard_time": 1728483561,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103632,
+        "num": 80322,
+        "word": "林熙蕾女儿将担任萧敬腾婚礼花童",
+        "onboard_time": 1728513493,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80217,
+        "num": 80217,
+        "word": "日本首相为何早早解散议会提前大选",
+        "onboard_time": 1728511213,
+        "rank": 31,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 80023,
+        "num": 80023,
+        "word": "孙颖莎vs伊藤美诚",
+        "onboard_time": 1728486020,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 78306,
+        "num": 78306,
+        "word": "虞书欣 北极巨兔",
+        "onboard_time": 1728491358,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 76881,
+        "num": 76881,
+        "word": "女子投放死虫6次敲诈海底捞",
+        "onboard_time": 1728475879,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 76827,
+        "num": 76827,
+        "word": "时代少年团 台州",
+        "onboard_time": 1728483803,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 76660,
+        "num": 76660,
+        "word": "K总回应恋情",
+        "onboard_time": 1728473480,
+        "rank": 36,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 73420,
+        "num": 73420,
+        "word": "孙颖莎说下风球逆风盘总会想再坚持下",
+        "onboard_time": 1728477620,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 68061,
+        "num": 68061,
+        "word": "李宇春粉丝好神秘",
+        "onboard_time": 1728494415,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 67566,
+        "num": 67566,
+        "word": "不要模糊哀牢山禁区与景区的边界",
+        "onboard_time": 1728513674,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 67288,
+        "num": 67288,
+        "word": "陈幸同vs平野美宇",
+        "onboard_time": 1728488119,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 65804,
+        "num": 65804,
+        "word": "老教授爬房40年整理上万件古建图纸",
+        "onboard_time": 1728492736,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 63084,
+        "num": 63084,
+        "word": "面对泼天流量哀牢山为何开启劝退模式",
+        "onboard_time": 1728488240,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 52920,
+        "num": 52920,
+        "word": "陈幸同1比3平野美宇",
+        "onboard_time": 1728490878,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 52778,
+        "num": 52778,
+        "word": "孙颖莎VS张本美和",
+        "onboard_time": 1728491237,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 52372,
+        "num": 52372,
+        "word": "禁区不是景区切勿为流量盲目跟风",
+        "onboard_time": 1728493636,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 52116,
+        "num": 52116,
+        "word": "国乒女团vs日本",
+        "onboard_time": 1728482660,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 41610,
+        "num": 50708,
+        "word": "七夜雪",
+        "onboard_time": 1728473059,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 50417,
+        "num": 50417,
+        "word": "亚锦赛",
+        "onboard_time": 1728482840,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 37328,
+        "num": 49234,
+        "word": "赵今麦张凌赫海边拉手路透",
+        "onboard_time": 1728488420,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#聚焦高质量发展提高人道服务能力#"
+    }
+  }
+}
