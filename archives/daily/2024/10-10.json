@@ -1,6 +1,6 @@
 {
   "startTime": 1728491244792,
-  "endTime": 1728502553732,
+  "endTime": 1728505458842,
   "band_list": [
     {
       "raw_hot": 3405029,
@@ -435,6 +435,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 89625,
+      "num": 89625,
+      "word": "江苏警方抓获杀人逃亡32年嫌犯",
+      "onboard_time": 1728500952,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 88501,
       "num": 88501,
       "word": "持续深耕自己才能厚积薄发",
@@ -539,12 +547,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 32334,
-      "num": 41866,
-      "word": "江苏警方抓获杀人逃亡32年嫌犯",
-      "onboard_time": 1728500952,
-      "rank": 19,
-      "category": "社会新闻"
+      "raw_hot": 27098,
+      "num": 31126,
+      "word": "西班牙喊话欧盟要尽一切可能谈判",
+      "onboard_time": 1728502511,
+      "rank": 29,
+      "category": "国外时政"
     },
     {
       "raw_hot": 25142,
@@ -571,20 +579,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 19677,
+      "num": 19677,
+      "word": "街溜子天鹅疑似失去所有力气和手段",
+      "onboard_time": 1728503592,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 16231,
+      "num": 37033,
+      "word": "一件文物的名字集齐了金银铜",
+      "onboard_time": 1728503290,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 14213,
+      "num": 25633,
+      "word": "司机突发疾病未松油门白车将其逼停",
+      "onboard_time": 1728502691,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 12931,
       "num": 1129826,
       "word": "文博热非遗热持续升温",
       "onboard_time": 1728478340,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 12515,
-      "num": 31126,
-      "word": "西班牙喊话欧盟要尽一切可能谈判",
-      "onboard_time": 1728502511,
-      "rank": 29,
-      "category": "国外时政"
     },
     {
       "raw_hot": 6174,
