@@ -1,6 +1,6 @@
 {
   "startTime": 1728404919019,
-  "endTime": 1728456329600,
+  "endTime": 1728458504291,
   "band_list": [
     {
       "raw_hot": 3282482,
@@ -59,6 +59,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1649418,
+      "num": 510618,
+      "word": "理记 江歌妈妈",
+      "onboard_time": 1728454578,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1530019,
       "num": 979898,
       "word": "A股",
@@ -81,14 +89,6 @@
       "onboard_time": 1728438619,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1262561,
-      "num": 473295,
-      "word": "理记 江歌妈妈",
-      "onboard_time": 1728454578,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1242137,
@@ -195,6 +195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 832380,
+      "num": 832380,
+      "word": "哀牢山拍写真当事人回应质疑",
+      "onboard_time": 1728453078,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 821660,
       "num": 581574,
       "word": "k总",
@@ -211,14 +219,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 795824,
-      "num": 795824,
-      "word": "哀牢山拍写真当事人回应质疑",
-      "onboard_time": 1728453078,
-      "rank": 3,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 777932,
       "num": 550623,
       "word": "陈乔恩婚后被问生小孩吗",
@@ -232,6 +232,22 @@
       "word": "A股天量成交股民留还是走",
       "onboard_time": 1728439640,
       "rank": 17,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 743050,
+      "num": 743050,
+      "word": "四川户籍和身份证业务暂停办理",
+      "onboard_time": 1728455838,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 708750,
+      "num": 708750,
+      "word": "A股巨震三大原因找到了",
+      "onboard_time": 1728449661,
+      "rank": 33,
       "category": "财经"
     },
     {
@@ -347,6 +363,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 524683,
+      "num": 524683,
+      "word": "国乒女团晋级亚锦赛决赛",
+      "onboard_time": 1728455119,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 515790,
       "num": 407055,
       "word": "伊能静被我恋6男嘉宾气到疯狂输出",
@@ -385,6 +409,14 @@
       "onboard_time": 1728434121,
       "rank": 18,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 496450,
+      "num": 496450,
+      "word": "学历贬值下卷研究生还有意义吗",
+      "onboard_time": 1728457277,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 490663,
@@ -516,7 +548,7 @@
     },
     {
       "raw_hot": 362661,
-      "num": 474084,
+      "num": 523170,
       "word": "密逃这期有杨幂黄明昊",
       "onboard_time": 1728451399,
       "rank": 8,
@@ -563,20 +595,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 333818,
+      "num": 506106,
+      "word": "梁伟铿王昶vs刘广珩杨博涵",
+      "onboard_time": 1728454040,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 326622,
       "num": 326622,
       "word": "2NE1与Jennie合照",
       "onboard_time": 1728439579,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 323425,
-      "num": 323425,
-      "word": "A股巨震三大原因找到了",
-      "onboard_time": 1728449661,
-      "rank": 33,
-      "category": "财经"
     },
     {
       "raw_hot": 316992,
@@ -595,12 +627,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 308093,
+      "num": 308093,
+      "word": "张新成王玉雯被父母撮合过",
+      "onboard_time": 1728457218,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 299299,
       "num": 299299,
       "word": "沈星回星辰有信",
       "onboard_time": 1728444320,
       "rank": 28,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 295000,
+      "num": 295000,
+      "word": "李茂托刘洲成给马雪阳份子钱",
+      "onboard_time": 1728456019,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 294955,
@@ -611,12 +659,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 291007,
-      "num": 473549,
-      "word": "国乒女团晋级亚锦赛决赛",
-      "onboard_time": 1728455119,
-      "rank": 18,
-      "category": "体育"
+      "raw_hot": 293980,
+      "num": 293980,
+      "word": "张颂文 原来是热量炸弹",
+      "onboard_time": 1728455060,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 283317,
@@ -705,6 +753,14 @@
       "onboard_time": 1728440537,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 251945,
+      "num": 251945,
+      "word": "黎巴嫩90多名中高层领导人遇袭",
+      "onboard_time": 1728456317,
+      "rank": 49,
+      "category": "国外时政"
     },
     {
       "raw_hot": 250998,
@@ -835,14 +891,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 219293,
-      "num": 473870,
-      "word": "四川户籍和身份证业务暂停办理",
-      "onboard_time": 1728455838,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 218778,
       "num": 218778,
       "word": "已有2000多万学生享受国家助学贷款",
@@ -907,6 +955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 203797,
+      "num": 203797,
+      "word": "蔡徐坤旅游拍照姿势难度",
+      "onboard_time": 1728458360,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 203255,
       "num": 319444,
       "word": "网传虞书欣丁禹兮新剧10月底播",
@@ -915,12 +971,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 202952,
-      "num": 275415,
-      "word": "张颂文 原来是热量炸弹",
-      "onboard_time": 1728455060,
-      "rank": 43,
-      "category": "剧集"
+      "raw_hot": 202937,
+      "num": 202937,
+      "word": "理记",
+      "onboard_time": 1728458360,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 200554,
@@ -929,6 +985,14 @@
       "onboard_time": 1728450200,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 199667,
+      "num": 199667,
+      "word": "潘展乐说接下来会发展副项",
+      "onboard_time": 1728456138,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 199381,
@@ -1051,6 +1115,22 @@
       "category": "财经"
     },
     {
+      "raw_hot": 177750,
+      "num": 259503,
+      "word": "校园欺凌是不少抑郁孩子的病因之一",
+      "onboard_time": 1728455960,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 177717,
+      "num": 177717,
+      "word": "张远给马雪阳88888.88红包",
+      "onboard_time": 1728458179,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 176873,
       "num": 176873,
       "word": "明日方舟 ask",
@@ -1137,14 +1217,6 @@
       "onboard_time": 1728451519,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 164252,
-      "num": 164252,
-      "word": "李茂托刘洲成给马雪阳份子钱",
-      "onboard_time": 1728456019,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 164134,
@@ -1251,12 +1323,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 147670,
-      "num": 147670,
-      "word": "潘展乐说接下来会发展副项",
-      "onboard_time": 1728456138,
+      "raw_hot": 147318,
+      "num": 147318,
+      "word": "on世界赛期间玩沙威玛",
+      "onboard_time": 1728457400,
       "rank": 45,
-      "category": "体育"
+      "category": "电竞"
     },
     {
       "raw_hot": 147049,
@@ -1265,22 +1337,6 @@
       "onboard_time": 1728436760,
       "rank": 37,
       "category": "情感"
-    },
-    {
-      "raw_hot": 143144,
-      "num": 143144,
-      "word": "校园欺凌是不少抑郁孩子的病因之一",
-      "onboard_time": 1728455960,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 141610,
-      "num": 141610,
-      "word": "黎巴嫩90多名中高层领导人遇袭",
-      "onboard_time": 1728456317,
-      "rank": 49,
-      "category": "国外时政"
     },
     {
       "raw_hot": 140925,
@@ -1297,6 +1353,14 @@
       "onboard_time": 1728427334,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 138900,
+      "num": 138900,
+      "word": "第五人格 皮套",
+      "onboard_time": 1728458479,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 138513,
@@ -1323,12 +1387,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 134541,
+      "num": 134541,
+      "word": "心动的信号",
+      "onboard_time": 1728457759,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 132174,
       "num": 132174,
       "word": "A股创业板指盘初跌幅迅速扩大至7%",
       "onboard_time": 1728440299,
       "rank": 46,
       "category": "财经"
+    },
+    {
+      "raw_hot": 131899,
+      "num": 133967,
+      "word": "森林进化论2全员有话说",
+      "onboard_time": 1728457039,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 131565,
@@ -1523,14 +1603,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 91213,
-      "num": 346593,
-      "word": "梁伟铿王昶vs刘广珩杨博涵",
-      "onboard_time": 1728454040,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 89395,
       "num": 89395,
       "word": "哀牢山爆火是打卡视频惹的祸吗",
@@ -1545,6 +1617,14 @@
       "onboard_time": 1728394761,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 86242,
+      "num": 520509,
+      "word": "北极赛梁王组合进16强",
+      "onboard_time": 1728457159,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 86182,
@@ -1675,6 +1755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 54802,
+      "num": 259244,
+      "word": "张婉莹回应",
+      "onboard_time": 1728457519,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 54558,
       "num": 325926,
       "word": "于正晒张石头立案告知书",
@@ -1788,7 +1876,7 @@
     },
     {
       "raw_hot": 33875,
-      "num": 143188,
+      "num": 283853,
       "word": "辛芷蕾pick的AI芯片",
       "onboard_time": 1728455898,
       "rank": 46,
@@ -1881,6 +1969,14 @@
       "onboard_time": 1728416051,
       "rank": 29,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 17823,
+      "num": 513621,
+      "word": "专家谈新一轮巴以冲突一周年",
+      "onboard_time": 1728457878,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 16922,
