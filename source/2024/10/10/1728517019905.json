@@ -1,0 +1,410 @@
+{
+  "runTime": 1728517019905,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2203113,
+        "num": 2203113,
+        "word": "国乒女团1比3日本",
+        "onboard_time": 1728486381,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1527166,
+        "num": 1527166,
+        "word": "孙颖莎2比3张本美和",
+        "onboard_time": 1728493938,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 4555,
+        "num": 879642,
+        "word": "文博热非遗热持续升温",
+        "onboard_time": 1728478340,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 419313,
+        "num": 419313,
+        "word": "77岁教授不用洗发水省下钱就买书",
+        "onboard_time": 1728488598,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 346583,
+        "num": 346583,
+        "word": "记者深入哀牢山突遇浓雾",
+        "onboard_time": 1728485121,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 294505,
+        "num": 294505,
+        "word": "跑步入场的00后3天赚了3万",
+        "onboard_time": 1728515296,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 272234,
+        "num": 272234,
+        "word": "陈梦送出自己的奥运夺冠球衣",
+        "onboard_time": 1728478399,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 270658,
+        "num": 270658,
+        "word": "四川宜宾4.5级地震",
+        "onboard_time": 1728515296,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96275,
+        "num": 269603,
+        "word": "李沁古装",
+        "onboard_time": 1728475459,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 90176,
+        "num": 268972,
+        "word": "黄磊是跟海清学的赛螃蟹吧",
+        "onboard_time": 1728475638,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1237463,
+        "num": 267510,
+        "word": "戴LV丝巾受访的女局长被查",
+        "onboard_time": 1728493336,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 450690,
+        "num": 266430,
+        "word": "陈浩民老婆回应叶珂参加生日会",
+        "onboard_time": 1728474858,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 385247,
+        "num": 265868,
+        "word": "女子5年花光50万积蓄追发财梦",
+        "onboard_time": 1728482660,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265362,
+        "num": 265362,
+        "word": "中方表态朝韩最新动态",
+        "onboard_time": 1728489918,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 17504,
+        "num": 265278,
+        "word": "卖气球大叔主动蹲下配合小姐姐拍照",
+        "onboard_time": 1728513074,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265248,
+        "num": 265248,
+        "word": "理记发文质疑江歌妈妈骗捐",
+        "onboard_time": 1728486800,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232950,
+        "num": 232950,
+        "word": "江苏警方抓获杀人逃亡32年嫌犯",
+        "onboard_time": 1728500952,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220341,
+        "num": 220341,
+        "word": "江歌妈妈",
+        "onboard_time": 1728458899,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197806,
+        "num": 197806,
+        "word": "河北警方回应2名裸体男童遭虐打",
+        "onboard_time": 1728482961,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155862,
+        "num": 155862,
+        "word": "国乒女团亚锦赛亚军",
+        "onboard_time": 1728493998,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 374601,
+        "num": 155803,
+        "word": "女子怀孕3个月连吃6只螃蟹后流产",
+        "onboard_time": 1728460520,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 351320,
+        "num": 155752,
+        "word": "孙颖莎大口喘气",
+        "onboard_time": 1728516377,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 202888,
+        "num": 155567,
+        "word": "独子出走30年父母离世后现身继承遗产",
+        "onboard_time": 1728489678,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155282,
+        "num": 155282,
+        "word": "河南高校回应女教师被于正签约",
+        "onboard_time": 1728483920,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150507,
+        "num": 150507,
+        "word": "成都又多一只巨巨巨大的熊猫",
+        "onboard_time": 1728514815,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129082,
+        "num": 129082,
+        "word": "李静从160斤瘦到了105斤",
+        "onboard_time": 1728461840,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121987,
+        "num": 121987,
+        "word": "露营哀牢山女博主遇到了熊",
+        "onboard_time": 1728477680,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117490,
+        "num": 117490,
+        "word": "东北雨哥回应模仿东北雨姐",
+        "onboard_time": 1728476899,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113460,
+        "num": 113460,
+        "word": "一时不知道是柚子太大还是宝宝太小",
+        "onboard_time": 1728516377,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 20800,
+        "num": 109809,
+        "word": "父子联手非法藏匿出售笑气",
+        "onboard_time": 1728516978,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107892,
+        "num": 107892,
+        "word": "Wei爆料BLG训练赛一人一半",
+        "onboard_time": 1728516377,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 106146,
+        "num": 106146,
+        "word": "林熙蕾女儿将担任萧敬腾婚礼花童",
+        "onboard_time": 1728513493,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99429,
+        "num": 99429,
+        "word": "偶遇张予曦妈妈和弟弟",
+        "onboard_time": 1728471439,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95550,
+        "num": 95550,
+        "word": "稍等您的外卖小哥在看杨紫",
+        "onboard_time": 1728490819,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 93848,
+        "num": 93848,
+        "word": "K总回应恋情",
+        "onboard_time": 1728473480,
+        "rank": 34,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 93733,
+        "num": 93733,
+        "word": "miwa好强",
+        "onboard_time": 1728516437,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 93156,
+        "num": 93156,
+        "word": "女子投放死虫6次敲诈海底捞",
+        "onboard_time": 1728475879,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 91140,
+        "num": 91140,
+        "word": "时代少年团 台州",
+        "onboard_time": 1728483803,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 89099,
+        "num": 89099,
+        "word": "孙颖莎vs伊藤美诚",
+        "onboard_time": 1728486020,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 74650,
+        "num": 86205,
+        "word": "杨洋雨霖铃头套",
+        "onboard_time": 1728483561,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 85319,
+        "num": 85319,
+        "word": "孙颖莎说下风球逆风盘总会想再坚持下",
+        "onboard_time": 1728477620,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 82155,
+        "num": 82155,
+        "word": "日本首相为何早早解散议会提前大选",
+        "onboard_time": 1728511213,
+        "rank": 41,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 81331,
+        "num": 81331,
+        "word": "李宇春粉丝好神秘",
+        "onboard_time": 1728494415,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 78733,
+        "num": 78733,
+        "word": "虞书欣 北极巨兔",
+        "onboard_time": 1728491358,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 78656,
+        "num": 78656,
+        "word": "天秤座要学会放过自己",
+        "onboard_time": 1728516377,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 76332,
+        "num": 76332,
+        "word": "摩根大通减持中国平安2868万股H股",
+        "onboard_time": 1728490218,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 76154,
+        "num": 76154,
+        "word": "1岁女童土方退烧双手双脚扎满针眼",
+        "onboard_time": 1728516917,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 73598,
+        "num": 73598,
+        "word": "老教授爬房40年整理上万件古建图纸",
+        "onboard_time": 1728492736,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50220,
+        "num": 73466,
+        "word": "七夜雪",
+        "onboard_time": 1728473059,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 45882,
+        "num": 73274,
+        "word": "赵今麦张凌赫海边拉手路透",
+        "onboard_time": 1728488420,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平致信中国红十字会第十二次全国会员代表大会#"
+    }
+  }
+}
