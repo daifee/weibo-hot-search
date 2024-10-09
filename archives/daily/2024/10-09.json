@@ -1,6 +1,6 @@
 {
   "startTime": 1728404919019,
-  "endTime": 1728439091745,
+  "endTime": 1728442391462,
   "band_list": [
     {
       "raw_hot": 2800136,
@@ -19,6 +19,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2611856,
+      "num": 2611856,
+      "word": "朝鲜宣布完全切断与韩国连接铁路公路",
+      "onboard_time": 1728439880,
+      "rank": 0,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 2117787,
+      "num": 2117787,
+      "word": "女子腱鞘炎看医生挤出透明胶状物",
+      "onboard_time": 1728440899,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1832830,
       "num": 1142647,
       "word": "孙颖莎1比3金琴英",
@@ -33,6 +49,22 @@
       "onboard_time": 1728434000,
       "rank": 3,
       "category": "财经"
+    },
+    {
+      "raw_hot": 1242137,
+      "num": 368307,
+      "word": "A股开盘近5000只个股下跌",
+      "onboard_time": 1728438557,
+      "rank": 28,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 1164444,
+      "num": 364719,
+      "word": "17年的玩具我24年开了眼界",
+      "onboard_time": 1728438619,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 1130566,
@@ -56,6 +88,14 @@
       "word": "入职几月怀孕拒绝调薪调岗被辞退",
       "onboard_time": 1728433038,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 891228,
+      "num": 891228,
+      "word": "三人行必有我师焉其实缺了一个字",
+      "onboard_time": 1728438798,
+      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -113,6 +153,14 @@
       "onboard_time": 1728386420,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 592361,
+      "num": 458156,
+      "word": "A股低开",
+      "onboard_time": 1728438380,
+      "rank": 15,
+      "category": "财经"
     },
     {
       "raw_hot": 574078,
@@ -195,14 +243,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 458156,
-      "num": 458156,
-      "word": "A股低开",
-      "onboard_time": 1728438380,
-      "rank": 15,
-      "category": "财经"
-    },
-    {
       "raw_hot": 441730,
       "num": 285883,
       "word": "k总 抑郁",
@@ -259,6 +299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 355843,
+      "num": 355843,
+      "word": "A股天量成交股民留还是走",
+      "onboard_time": 1728439640,
+      "rank": 17,
+      "category": "财经"
+    },
+    {
       "raw_hot": 351326,
       "num": 351326,
       "word": "石洵瑶vs车秀英",
@@ -289,6 +337,14 @@
       "onboard_time": 1728434421,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 326622,
+      "num": 326622,
+      "word": "2NE1与Jennie合照",
+      "onboard_time": 1728439579,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 283317,
@@ -323,11 +379,43 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 269876,
+      "num": 373586,
+      "word": "A股半小时成交破万亿",
+      "onboard_time": 1728441379,
+      "rank": 8,
+      "category": "财经"
+    },
+    {
       "raw_hot": 269357,
       "num": 269357,
       "word": "租房8年被收损耗费租客觉得伤感情",
       "onboard_time": 1728388521,
       "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 256764,
+      "num": 256764,
+      "word": "陈乔恩回应被催生",
+      "onboard_time": 1728440537,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 249983,
+      "num": 249983,
+      "word": "他救人拦下的救护车救了自己",
+      "onboard_time": 1728438438,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 228721,
+      "num": 228721,
+      "word": "哀牢山",
+      "onboard_time": 1728435860,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -355,6 +443,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 221821,
+      "num": 221821,
+      "word": "腾讯视频Q4预排播剧目",
+      "onboard_time": 1728441138,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 220874,
       "num": 220874,
       "word": "天蝎座为什么总是不开心",
@@ -371,28 +467,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 214934,
-      "num": 214934,
-      "word": "A股开盘近5000只个股下跌",
-      "onboard_time": 1728438557,
-      "rank": 28,
-      "category": "财经"
-    },
-    {
       "raw_hot": 213167,
       "num": 213167,
       "word": "微信文字讨好症",
       "onboard_time": 1728429857,
       "rank": 25,
       "category": "情感"
-    },
-    {
-      "raw_hot": 211625,
-      "num": 209323,
-      "word": "17年的玩具我24年开了眼界",
-      "onboard_time": 1728438619,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 211546,
@@ -403,20 +483,28 @@
       "category": "教育"
     },
     {
-      "raw_hot": 206028,
-      "num": 206028,
-      "word": "哀牢山",
-      "onboard_time": 1728435860,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 205342,
       "num": 288016,
       "word": "王楚钦2比3本雅明",
       "onboard_time": 1728366802,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 201128,
+      "num": 201128,
+      "word": "陈乔恩婚后被问生小孩吗",
+      "onboard_time": 1728441799,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 199246,
+      "num": 199246,
+      "word": "游客飞无人机拍摄吓到花花",
+      "onboard_time": 1728437176,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 198550,
@@ -443,12 +531,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 182448,
-      "num": 182448,
-      "word": "他救人拦下的救护车救了自己",
-      "onboard_time": 1728438438,
-      "rank": 33,
-      "category": "社会新闻"
+      "raw_hot": 189343,
+      "num": 227452,
+      "word": "七夜雪开播",
+      "onboard_time": 1728440119,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 175950,
@@ -475,20 +563,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 170553,
+      "num": 170553,
+      "word": "以总理称已打死黎真主党领导人继任者",
+      "onboard_time": 1728439939,
+      "rank": 39,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 170516,
       "num": 170516,
       "word": "石洵瑶3比2车秀英",
       "onboard_time": 1728402859,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 170323,
-      "num": 170323,
-      "word": "游客飞无人机拍摄吓到花花",
-      "onboard_time": 1728437176,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 168111,
@@ -531,6 +619,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 159066,
+      "num": 202007,
+      "word": "七夜雪",
+      "onboard_time": 1728442219,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 156415,
+      "num": 156415,
+      "word": "火锅店老板栾留伟上榜见义勇为榜",
+      "onboard_time": 1728441919,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 153206,
       "num": 153206,
       "word": "游客偶遇秦岭野生大熊猫直呼没白来",
@@ -544,14 +648,6 @@
       "word": "乘着大巴看中国",
       "onboard_time": 1728438499,
       "rank": 42,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 147287,
-      "num": 147287,
-      "word": "三人行必有我师焉其实缺了一个字",
-      "onboard_time": 1728438798,
-      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -579,6 +675,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 136287,
+      "num": 136287,
+      "word": "原神5.1版本",
+      "onboard_time": 1728440719,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 132174,
+      "num": 132174,
+      "word": "A股创业板指盘初跌幅迅速扩大至7%",
+      "onboard_time": 1728440299,
+      "rank": 46,
+      "category": "财经"
+    },
+    {
       "raw_hot": 131565,
       "num": 475659,
       "word": "中方正研究提高进口大排量燃油车关税",
@@ -587,12 +699,36 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 131418,
+      "num": 131418,
+      "word": "明日方舟",
+      "onboard_time": 1728442340,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 128878,
+      "num": 128878,
+      "word": "NBA季前赛",
+      "onboard_time": 1728441738,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 128657,
       "num": 197713,
       "word": "以军或攻占黎巴嫩三分之一国土",
       "onboard_time": 1728403518,
       "rank": 30,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 127990,
+      "num": 127990,
+      "word": "A股踏空后如何上车",
+      "onboard_time": 1728442340,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 126002,
@@ -617,6 +753,14 @@
       "onboard_time": 1728400880,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 122402,
+      "num": 368125,
+      "word": "当地管护局回应女博主露营哀牢山",
+      "onboard_time": 1728435559,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 122039,
@@ -811,6 +955,22 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 68057,
+      "num": 361533,
+      "word": "市监局回应外卖肉夹馍中吃到针头",
+      "onboard_time": 1728440659,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 66804,
+      "num": 323312,
+      "word": "男子为泄私愤驾车冲撞大排挡",
+      "onboard_time": 1728441319,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 66353,
       "num": 66353,
       "word": "贾冰做饭有多好吃",
@@ -964,7 +1124,7 @@
     },
     {
       "raw_hot": 16922,
-      "num": 821585,
+      "num": 1043647,
       "word": "这是航天员拍摄的锦绣山河",
       "onboard_time": 1728401000,
       "rank": 2,
