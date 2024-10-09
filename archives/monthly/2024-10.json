@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1728492232270,
+  "endTime": 1728494471382,
   "band_list": [
     {
       "raw_hot": 12210422,
@@ -80,6 +80,14 @@
       "word": "孙颖莎vs金琴英",
       "onboard_time": 1728388760,
       "rank": 1,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 3405029,
+      "num": 3405029,
+      "word": "孙颖莎VS张本美和",
+      "onboard_time": 1728491237,
+      "rank": 12,
       "category": "体育"
     },
     {
@@ -295,6 +303,14 @@
       "num": 2142424,
       "word": "王楚钦对手本雅明14岁",
       "onboard_time": 1728366500,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 2131766,
+      "num": 2131766,
+      "word": "国乒女团1比3日本",
+      "onboard_time": 1728486381,
       "rank": 1,
       "category": "体育"
     },
@@ -561,6 +577,14 @@
       "onboard_time": 1728461840,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1624795,
+      "num": 1624795,
+      "word": "国乒女团vs日本",
+      "onboard_time": 1728482660,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 1617774,
@@ -977,14 +1001,6 @@
       "onboard_time": 1728360981,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1232384,
-      "num": 1232384,
-      "word": "国乒女团vs日本",
-      "onboard_time": 1728482660,
-      "rank": 3,
-      "category": "体育"
     },
     {
       "raw_hot": 1223265,
@@ -4675,6 +4691,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 496388,
+      "num": 496388,
+      "word": "中方表态朝韩最新动态",
+      "onboard_time": 1728489918,
+      "rank": 26,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 496386,
       "num": 839353,
       "word": "苹果或将放弃一年一更新模式",
@@ -6227,6 +6251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 369419,
+      "num": 369419,
+      "word": "孙颖莎3比0速胜伊藤美诚",
+      "onboard_time": 1728489558,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 369001,
       "num": 369001,
       "word": "撤黎台湾同胞称祖国就是中国",
@@ -7217,14 +7249,6 @@
       "onboard_time": 1727927178,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 319648,
-      "num": 319648,
-      "word": "孙颖莎VS张本美和",
-      "onboard_time": 1728491237,
-      "rank": 12,
-      "category": "体育"
     },
     {
       "raw_hot": 319259,
@@ -10251,6 +10275,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 226024,
+      "num": 211513,
+      "word": "虞书欣 北极巨兔",
+      "onboard_time": 1728491358,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 225800,
       "num": 225800,
       "word": "马龙再现东方魔法",
@@ -10361,6 +10393,14 @@
       "onboard_time": 1728027799,
       "rank": 27,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 224351,
+      "num": 122115,
+      "word": "戴LV丝巾受访的女局长被查",
+      "onboard_time": 1728493336,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 223496,
@@ -11633,14 +11673,6 @@
       "onboard_time": 1728219921,
       "rank": 40,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 201900,
-      "num": 201900,
-      "word": "虞书欣 北极巨兔",
-      "onboard_time": 1728491358,
-      "rank": 25,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 201612,
@@ -14443,6 +14475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 169999,
+      "num": 388971,
+      "word": "国乒女团亚锦赛亚军",
+      "onboard_time": 1728493998,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 169998,
       "num": 420333,
       "word": "红色极光北斗七星同框浪漫加倍",
@@ -14497,6 +14537,14 @@
       "onboard_time": 1727762718,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 168918,
+      "num": 214324,
+      "word": "陈幸同1比3平野美宇",
+      "onboard_time": 1728490878,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 168893,
@@ -14995,14 +15043,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 163818,
-      "num": 214324,
-      "word": "陈幸同1比3平野美宇",
-      "onboard_time": 1728490878,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 163798,
       "num": 414194,
       "word": "阿尔卡拉斯首夺中网冠军",
@@ -15169,14 +15209,6 @@
       "onboard_time": 1727967499,
       "rank": 36,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 161407,
-      "num": 161407,
-      "word": "孙颖莎3比0速胜伊藤美诚",
-      "onboard_time": 1728489558,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 161292,
@@ -15369,6 +15401,14 @@
       "onboard_time": 1727870418,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 158859,
+      "num": 264470,
+      "word": "孙颖莎2比3张本美和",
+      "onboard_time": 1728493938,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 158855,
@@ -15569,14 +15609,6 @@
       "onboard_time": 1728396321,
       "rank": 46,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 157431,
-      "num": 478670,
-      "word": "中方表态朝韩最新动态",
-      "onboard_time": 1728489918,
-      "rank": 26,
-      "category": "国内时政"
     },
     {
       "raw_hot": 157419,
@@ -23811,6 +23843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 71281,
+      "num": 71281,
+      "word": "老教授爬房40年整理上万件古建图纸",
+      "onboard_time": 1728492736,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 71023,
       "num": 103454,
       "word": "高鹏 有钱就变坏",
@@ -24233,6 +24273,14 @@
       "onboard_time": 1727839339,
       "rank": 12,
       "category": "财经"
+    },
+    {
+      "raw_hot": 61506,
+      "num": 61506,
+      "word": "稍等您的外卖小哥在看杨紫",
+      "onboard_time": 1728490819,
+      "rank": 46,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 61315,
@@ -24753,6 +24801,14 @@
       "onboard_time": 1728430878,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 53260,
+      "num": 53260,
+      "word": "李宇春粉丝好神秘",
+      "onboard_time": 1728494415,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 53073,
@@ -25348,7 +25404,7 @@
     },
     {
       "raw_hot": 44242,
-      "num": 883023,
+      "num": 1666628,
       "word": "今年全国新开国际货运航线超120条",
       "onboard_time": 1728481100,
       "rank": 2,
@@ -25576,6 +25632,14 @@
       "word": "每一次与国旗同框都倍感骄傲",
       "onboard_time": 1728218903,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 40441,
+      "num": 393982,
+      "word": "禁区不是景区切勿为流量盲目跟风",
+      "onboard_time": 1728493636,
+      "rank": 8,
       "category": "社会新闻"
     },
     {

@@ -1,7 +1,23 @@
 {
   "startTime": 1728491244792,
-  "endTime": 1728492232270,
+  "endTime": 1728494471382,
   "band_list": [
+    {
+      "raw_hot": 3405029,
+      "num": 3405029,
+      "word": "孙颖莎VS张本美和",
+      "onboard_time": 1728491237,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 2131766,
+      "num": 2131766,
+      "word": "国乒女团1比3日本",
+      "onboard_time": 1728486381,
+      "rank": 1,
+      "category": "体育"
+    },
     {
       "raw_hot": 2006127,
       "num": 2006127,
@@ -16,6 +32,14 @@
       "word": "国乒女团1比2日本队",
       "onboard_time": 1728486381,
       "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1624795,
+      "num": 1624795,
+      "word": "国乒女团vs日本",
+      "onboard_time": 1728482660,
+      "rank": 5,
       "category": "体育"
     },
     {
@@ -43,20 +67,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 563788,
-      "num": 563788,
-      "word": "国乒女团vs日本",
-      "onboard_time": 1728482660,
-      "rank": 5,
-      "category": "体育"
-    },
-    {
       "raw_hot": 501486,
       "num": 428692,
       "word": "陈浩民老婆回应叶珂参加生日会",
       "onboard_time": 1728474858,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 496388,
+      "num": 496388,
+      "word": "中方表态朝韩最新动态",
+      "onboard_time": 1728489918,
+      "rank": 26,
+      "category": "国内时政"
     },
     {
       "raw_hot": 432250,
@@ -99,6 +123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 369419,
+      "num": 369419,
+      "word": "孙颖莎3比0速胜伊藤美诚",
+      "onboard_time": 1728489558,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 361971,
       "num": 361971,
       "word": "河北警方回应2名裸体男童遭虐打",
@@ -113,14 +145,6 @@
       "onboard_time": 1728485001,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 319648,
-      "num": 319648,
-      "word": "孙颖莎VS张本美和",
-      "onboard_time": 1728491237,
-      "rank": 12,
-      "category": "体育"
     },
     {
       "raw_hot": 294888,
@@ -155,12 +179,44 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 226024,
+      "num": 211513,
+      "word": "虞书欣 北极巨兔",
+      "onboard_time": 1728491358,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 224351,
+      "num": 122115,
+      "word": "戴LV丝巾受访的女局长被查",
+      "onboard_time": 1728493336,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 220916,
       "num": 220916,
       "word": "这是中法文化的双向奔赴",
       "onboard_time": 1728483738,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 219029,
+      "num": 219029,
+      "word": "亚锦赛",
+      "onboard_time": 1728482840,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 215192,
+      "num": 215192,
+      "word": "王艺迪vs张本美和",
+      "onboard_time": 1728483321,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 202670,
@@ -171,15 +227,15 @@
       "category": "体育"
     },
     {
-      "raw_hot": 201900,
-      "num": 201900,
-      "word": "虞书欣 北极巨兔",
-      "onboard_time": 1728491358,
-      "rank": 25,
-      "category": "作品衍生"
+      "raw_hot": 169999,
+      "num": 388971,
+      "word": "国乒女团亚锦赛亚军",
+      "onboard_time": 1728493998,
+      "rank": 9,
+      "category": "体育"
     },
     {
-      "raw_hot": 163818,
+      "raw_hot": 168918,
       "num": 214324,
       "word": "陈幸同1比3平野美宇",
       "onboard_time": 1728490878,
@@ -195,20 +251,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 161407,
-      "num": 161407,
-      "word": "孙颖莎3比0速胜伊藤美诚",
-      "onboard_time": 1728489558,
-      "rank": 31,
+      "raw_hot": 158859,
+      "num": 264470,
+      "word": "孙颖莎2比3张本美和",
+      "onboard_time": 1728493938,
+      "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 157431,
-      "num": 478670,
-      "word": "中方表态朝韩最新动态",
-      "onboard_time": 1728489918,
-      "rank": 26,
-      "category": "国内时政"
     },
     {
       "raw_hot": 146841,
@@ -355,16 +403,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 101170,
-      "num": 101170,
-      "word": "亚锦赛",
-      "onboard_time": 1728482840,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 97233,
-      "num": 146052,
+      "num": 213921,
       "word": "七夜雪",
       "onboard_time": 1728473059,
       "rank": 29,
@@ -411,16 +451,48 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 82384,
-      "num": 82384,
-      "word": "王艺迪vs张本美和",
-      "onboard_time": 1728483321,
-      "rank": 42,
-      "category": "体育"
+      "raw_hot": 71281,
+      "num": 71281,
+      "word": "老教授爬房40年整理上万件古建图纸",
+      "onboard_time": 1728492736,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 67724,
+      "num": 67724,
+      "word": "林心如穿泳装",
+      "onboard_time": 1728476059,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 61506,
+      "num": 61506,
+      "word": "稍等您的外卖小哥在看杨紫",
+      "onboard_time": 1728490819,
+      "rank": 46,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 53260,
+      "num": 53260,
+      "word": "李宇春粉丝好神秘",
+      "onboard_time": 1728494415,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 40441,
+      "num": 393982,
+      "word": "禁区不是景区切勿为流量盲目跟风",
+      "onboard_time": 1728493636,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 6174,
-      "num": 740160,
+      "num": 1666628,
       "word": "今年全国新开国际货运航线超120条",
       "onboard_time": 1728481100,
       "rank": 2,
