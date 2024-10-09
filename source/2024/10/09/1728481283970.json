@@ -1,0 +1,410 @@
+{
+  "runTime": 1728481283970,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 845444,
+        "num": 1135271,
+        "word": "孙颖莎人民日报追光演讲",
+        "onboard_time": 1728475218,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 654787,
+        "num": 654787,
+        "word": "陈梦送出自己的奥运夺冠球衣",
+        "onboard_time": 1728478399,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 7978,
+        "num": 640666,
+        "word": "今年全国新开国际货运航线超120条",
+        "onboard_time": 1728481100,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 670602,
+        "num": 640643,
+        "word": "梁伟铿 再不起来吃就冷了",
+        "onboard_time": 1728474980,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 635675,
+        "num": 635675,
+        "word": "游客称120元门票只看到文物照片",
+        "onboard_time": 1728475580,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 486482,
+        "num": 486482,
+        "word": "七夜雪 BE",
+        "onboard_time": 1728477439,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 376957,
+        "num": 376957,
+        "word": "朝鲜女团3比0韩国女团",
+        "onboard_time": 1728474559,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 356756,
+        "num": 356756,
+        "word": "官方回应文物展只有照片没有实物",
+        "onboard_time": 1728477740,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 346985,
+        "num": 346985,
+        "word": "李沁古装",
+        "onboard_time": 1728475459,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 319325,
+        "num": 319325,
+        "word": "全锦赛",
+        "onboard_time": 1728479899,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1413368,
+        "num": 317387,
+        "word": "福建省医保局局长林圣魁坠楼身亡",
+        "onboard_time": 1728480080,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1038715,
+        "num": 314436,
+        "word": "陈浩民老婆回应叶珂参加生日会",
+        "onboard_time": 1728474858,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1007836,
+        "num": 312462,
+        "word": "女子投放死虫6次敲诈海底捞",
+        "onboard_time": 1728475879,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29579,
+        "num": 310120,
+        "word": "郑钦文幽默回应冠军积分升至第7",
+        "onboard_time": 1728480980,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 39653,
+        "num": 307930,
+        "word": "揭秘3000年前神秘哀牢古国",
+        "onboard_time": 1728480801,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 61604,
+        "num": 304332,
+        "word": "吉利星愿价格6.98万元起",
+        "onboard_time": 1728479660,
+        "rank": 15,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 872466,
+        "num": 302956,
+        "word": "K总回应恋情",
+        "onboard_time": 1728473480,
+        "rank": 16,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 734929,
+        "num": 299948,
+        "word": "东北雨哥回应模仿东北雨姐",
+        "onboard_time": 1728476899,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186283,
+        "num": 296295,
+        "word": "步惊云淘汰",
+        "onboard_time": 1728478340,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188650,
+        "num": 292305,
+        "word": "男子连续2天高速逆行被记24分",
+        "onboard_time": 1728476960,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 48088,
+        "num": 290378,
+        "word": "文博热非遗热持续升温",
+        "onboard_time": 1728478340,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 706123,
+        "num": 288478,
+        "word": "江歌妈妈",
+        "onboard_time": 1728458899,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 664426,
+        "num": 286099,
+        "word": "26岁女子以为痛经检查发现临盆了",
+        "onboard_time": 1728467180,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 608049,
+        "num": 282570,
+        "word": "女子怀孕3个月连吃6只螃蟹后流产",
+        "onboard_time": 1728460520,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 62128,
+        "num": 279504,
+        "word": "律师谈博主山取进哀牢山采矿",
+        "onboard_time": 1728479240,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 478133,
+        "num": 276814,
+        "word": "李静从160斤瘦到了105斤",
+        "onboard_time": 1728461840,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 421750,
+        "num": 275663,
+        "word": "赵丽颖 金鹰奖",
+        "onboard_time": 1728465380,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 410059,
+        "num": 270796,
+        "word": "林心如穿泳装",
+        "onboard_time": 1728476059,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170480,
+        "num": 269397,
+        "word": "七夜雪",
+        "onboard_time": 1728473059,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166151,
+        "num": 267209,
+        "word": "黄磊是跟海清学的赛螃蟹吧",
+        "onboard_time": 1728475638,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 264831,
+        "num": 264831,
+        "word": "詹青云 亲密关系的意义是什么",
+        "onboard_time": 1728478399,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 257016,
+        "num": 257016,
+        "word": "长期吃辣的人都怎么样了",
+        "onboard_time": 1728471740,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211286,
+        "num": 211286,
+        "word": "郑钦文2比0胜克里斯蒂安",
+        "onboard_time": 1728480019,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 196559,
+        "num": 196559,
+        "word": "18岁学生拿暑假赚的5千元入场炒股",
+        "onboard_time": 1728469819,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 67865,
+        "num": 196141,
+        "word": "花一个月工资在海上漂一周值吗",
+        "onboard_time": 1728479300,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196062,
+        "num": 196062,
+        "word": "京城大师赛",
+        "onboard_time": 1728481040,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 196050,
+        "num": 196050,
+        "word": "刺痛减肥",
+        "onboard_time": 1728464120,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 193071,
+        "num": 193071,
+        "word": "A股后续将迎第二波上涨行情",
+        "onboard_time": 1728458720,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 183843,
+        "num": 183843,
+        "word": "林高远王艺迪3比0沙赫法瓦德",
+        "onboard_time": 1728480259,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 178319,
+        "num": 178319,
+        "word": "逆水寒手游新时装进一步调整方案",
+        "onboard_time": 1728481040,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 173369,
+        "num": 173369,
+        "word": "露营哀牢山女博主遇到了熊",
+        "onboard_time": 1728477680,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171715,
+        "num": 171715,
+        "word": "林高远王艺迪去握手教练睡着了",
+        "onboard_time": 1728481161,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169565,
+        "num": 169565,
+        "word": "鼻子手术多次后畸形医生不愿接单",
+        "onboard_time": 1728466279,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167988,
+        "num": 167988,
+        "word": "40亿元存款中超35%已流入股市",
+        "onboard_time": 1728480019,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 167287,
+        "num": 167287,
+        "word": "杨紫南京plog",
+        "onboard_time": 1728478281,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162682,
+        "num": 162682,
+        "word": "孙颖莎说下风球逆风盘总会想再坚持下",
+        "onboard_time": 1728477620,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 161199,
+        "num": 161199,
+        "word": "隐翅虫要赶走不能拍死",
+        "onboard_time": 1728465979,
+        "rank": 46,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 160947,
+        "num": 160947,
+        "word": "郑钦文武网女单开门红",
+        "onboard_time": 1728478879,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 105912,
+        "num": 159361,
+        "word": "七夜雪包场 暗夜与黎明",
+        "onboard_time": 1728473899,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158451,
+        "num": 158451,
+        "word": "TTG对战TES",
+        "onboard_time": 1728480801,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#聚焦高质量发展提高人道服务能力#"
+    }
+  }
+}
