@@ -1,6 +1,6 @@
 {
   "startTime": 1728404919019,
-  "endTime": 1728483677746,
+  "endTime": 1728484807293,
   "band_list": [
     {
       "raw_hot": 3282482,
@@ -145,6 +145,14 @@
       "onboard_time": 1728438557,
       "rank": 28,
       "category": "财经"
+    },
+    {
+      "raw_hot": 1232384,
+      "num": 1232384,
+      "word": "国乒女团vs日本",
+      "onboard_time": 1728482660,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 1161598,
@@ -571,14 +579,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 585692,
-      "num": 585692,
-      "word": "国乒女团vs日本",
-      "onboard_time": 1728482660,
-      "rank": 3,
-      "category": "体育"
-    },
-    {
       "raw_hot": 574078,
       "num": 357111,
       "word": "男子称花2个月工资追女生反被拉黑",
@@ -625,6 +625,14 @@
       "onboard_time": 1728436039,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 528869,
+      "num": 528869,
+      "word": "王艺迪vs张本美和",
+      "onboard_time": 1728483321,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 524683,
@@ -947,12 +955,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 346670,
+      "num": 259572,
+      "word": "河南高校回应女教师被于正签约",
+      "onboard_time": 1728483920,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 345640,
       "num": 281920,
       "word": "刘烨竟然是勋鹿群管理员",
       "onboard_time": 1728391280,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 344613,
+      "num": 344613,
+      "word": "杨洋雨霖铃头套",
+      "onboard_time": 1728483561,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 343644,
@@ -1091,6 +1115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 289766,
+      "num": 259282,
+      "word": "时代少年团 台州",
+      "onboard_time": 1728483803,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 288141,
       "num": 310120,
       "word": "郑钦文幽默回应冠军积分升至第7",
@@ -1211,6 +1243,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 266320,
+      "num": 302163,
+      "word": "七夜雪 抠图",
+      "onboard_time": 1728481761,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 265410,
       "num": 265410,
       "word": "理记",
@@ -1233,6 +1273,14 @@
       "onboard_time": 1728442219,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 258713,
+      "num": 258713,
+      "word": "河北警方回应2名裸体男童遭虐打",
+      "onboard_time": 1728482961,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 256764,
@@ -1499,14 +1547,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 217416,
-      "num": 263065,
-      "word": "杨洋雨霖铃头套",
-      "onboard_time": 1728483561,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 216803,
       "num": 406705,
       "word": "七夜雪开播",
@@ -1555,14 +1595,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 209211,
-      "num": 302163,
-      "word": "七夜雪 抠图",
-      "onboard_time": 1728481761,
-      "rank": 21,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 207130,
       "num": 447678,
       "word": "霉霉成全球最富女歌手",
@@ -1609,6 +1641,14 @@
       "onboard_time": 1728482840,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 204494,
+      "num": 364131,
+      "word": "40亿元存款中超35%已流入股市",
+      "onboard_time": 1728480019,
+      "rank": 45,
+      "category": "财经"
     },
     {
       "raw_hot": 203944,
@@ -1795,14 +1835,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 190435,
-      "num": 190435,
-      "word": "河北警方回应2名裸体男童遭虐打",
-      "onboard_time": 1728482961,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 190292,
       "num": 252179,
       "word": "东北雨哥回应蹭流量",
@@ -1904,14 +1936,6 @@
       "word": "新股民纠结是否入场",
       "onboard_time": 1728451099,
       "rank": 42,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 178365,
-      "num": 364131,
-      "word": "40亿元存款中超35%已流入股市",
-      "onboard_time": 1728480019,
-      "rank": 45,
       "category": "财经"
     },
     {
@@ -2089,6 +2113,14 @@
       "onboard_time": 1728462619,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 165797,
+      "num": 165797,
+      "word": "东京食尸鬼 第一季最终话",
+      "onboard_time": 1728482660,
+      "rank": 49,
+      "category": "动漫"
     },
     {
       "raw_hot": 165281,
@@ -2275,14 +2307,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 150538,
-      "num": 150538,
-      "word": "东京食尸鬼 第一季最终话",
-      "onboard_time": 1728482660,
-      "rank": 49,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 149708,
       "num": 149708,
       "word": "乘着大巴看中国",
@@ -2329,6 +2353,14 @@
       "onboard_time": 1728436760,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 145332,
+      "num": 145332,
+      "word": "朱志鑫Dance拍摄over",
+      "onboard_time": 1728484580,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 143727,
@@ -2387,6 +2419,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 139809,
+      "num": 139809,
+      "word": "萤火虫漫展展期确定",
+      "onboard_time": 1728484760,
+      "rank": 44,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 138513,
       "num": 134538,
       "word": "A股踏空后如何上车",
@@ -2433,6 +2473,14 @@
       "onboard_time": 1728471439,
       "rank": 49,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 134182,
+      "num": 134182,
+      "word": "天气冷适合在家做蒸菜",
+      "onboard_time": 1728484160,
+      "rank": 45,
+      "category": "美食"
     },
     {
       "raw_hot": 132174,
@@ -2507,6 +2555,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 128571,
+      "num": 265907,
+      "word": "这是中法文化的双向奔赴",
+      "onboard_time": 1728483738,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 128026,
       "num": 144075,
       "word": "七夜雪OST阵容",
@@ -2575,6 +2631,14 @@
       "num": 119565,
       "word": "秒杀没开始团伙已经抢到商品",
       "onboard_time": 1728410353,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 118571,
+      "num": 337244,
+      "word": "女子5年花光50万积蓄追发财梦",
+      "onboard_time": 1728482660,
       "rank": 14,
       "category": "社会新闻"
     },
@@ -2707,6 +2771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 89634,
+      "num": 261749,
+      "word": "鹅产剧集体开麦",
+      "onboard_time": 1728484281,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 89395,
       "num": 89395,
       "word": "哀牢山爆火是打卡视频惹的祸吗",
@@ -2787,14 +2859,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 78588,
-      "num": 337244,
-      "word": "女子5年花光50万积蓄追发财梦",
-      "onboard_time": 1728482660,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 78530,
       "num": 78530,
       "word": "荒野大镖客救赎PC版",
@@ -2849,14 +2913,6 @@
       "onboard_time": 1728468979,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 69404,
-      "num": 323696,
-      "word": "王艺迪vs张本美和",
-      "onboard_time": 1728483321,
-      "rank": 17,
-      "category": "体育"
     },
     {
       "raw_hot": 68951,
@@ -3028,7 +3084,7 @@
     },
     {
       "raw_hot": 44242,
-      "num": 660199,
+      "num": 701662,
       "word": "今年全国新开国际货运航线超120条",
       "onboard_time": 1728481100,
       "rank": 2,
@@ -3041,6 +3097,14 @@
       "onboard_time": 1728463098,
       "rank": 49,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 41824,
+      "num": 311713,
+      "word": "中国造霸总短剧硬控海外主妇",
+      "onboard_time": 1728482720,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 39653,
@@ -3215,14 +3279,6 @@
       "num": 403108,
       "word": "警方对掏挖丹霞土壤当事人批评教育",
       "onboard_time": 1728464479,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 23368,
-      "num": 311713,
-      "word": "中国造霸总短剧硬控海外主妇",
-      "onboard_time": 1728482720,
       "rank": 19,
       "category": "社会新闻"
     },

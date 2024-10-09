@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1728483677746,
+  "endTime": 1728484807293,
   "band_list": [
     {
       "raw_hot": 12210422,
@@ -953,6 +953,14 @@
       "onboard_time": 1728360981,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1232384,
+      "num": 1232384,
+      "word": "国乒女团vs日本",
+      "onboard_time": 1728482660,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 1223265,
@@ -3779,14 +3787,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 585692,
-      "num": 585692,
-      "word": "国乒女团vs日本",
-      "onboard_time": 1728482660,
-      "rank": 3,
-      "category": "体育"
-    },
-    {
       "raw_hot": 585453,
       "num": 392812,
       "word": "伊藤美诚说想赢孙颖莎一分都很难",
@@ -4281,6 +4281,14 @@
       "onboard_time": 1727715915,
       "rank": 15,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 528869,
+      "num": 528869,
+      "word": "王艺迪vs张本美和",
+      "onboard_time": 1728483321,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 526930,
@@ -6579,6 +6587,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 346670,
+      "num": 259572,
+      "word": "河南高校回应女教师被于正签约",
+      "onboard_time": 1728483920,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 345680,
       "num": 345680,
       "word": "王楚钦梁靖崑回应夺冠",
@@ -6593,6 +6609,14 @@
       "onboard_time": 1728196098,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 344613,
+      "num": 344613,
+      "word": "杨洋雨霖铃头套",
+      "onboard_time": 1728483561,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 344310,
@@ -7803,6 +7827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 289766,
+      "num": 259282,
+      "word": "时代少年团 台州",
+      "onboard_time": 1728483803,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 289629,
       "num": 289629,
       "word": "鹿 你一边去吧该我了",
@@ -8627,6 +8659,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 266320,
+      "num": 302163,
+      "word": "七夜雪 抠图",
+      "onboard_time": 1728481761,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 265831,
       "num": 265831,
       "word": "记者探访走红的哀牢山",
@@ -8864,6 +8904,14 @@
       "word": "假期第一个7分之1你做了啥",
       "onboard_time": 1727785879,
       "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 258713,
+      "num": 258713,
+      "word": "河北警方回应2名裸体男童遭虐打",
+      "onboard_time": 1728482961,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -10539,14 +10587,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 217416,
-      "num": 263065,
-      "word": "杨洋雨霖铃头套",
-      "onboard_time": 1728483561,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 217315,
       "num": 217315,
       "word": "00后已经当上班主任",
@@ -10931,14 +10971,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 209211,
-      "num": 302163,
-      "word": "七夜雪 抠图",
-      "onboard_time": 1728481761,
-      "rank": 21,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 209158,
       "num": 209158,
       "word": "王曼昱被闪光灯影响",
@@ -11249,6 +11281,14 @@
       "onboard_time": 1728264378,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 204494,
+      "num": 364131,
+      "word": "40亿元存款中超35%已流入股市",
+      "onboard_time": 1728480019,
+      "rank": 45,
+      "category": "财经"
     },
     {
       "raw_hot": 204451,
@@ -12579,14 +12619,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 190435,
-      "num": 190435,
-      "word": "河北警方回应2名裸体男童遭虐打",
-      "onboard_time": 1728482961,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 190385,
       "num": 190385,
       "word": "上交所延长接受指定交易申报指令时间",
@@ -13537,14 +13569,6 @@
       "onboard_time": 1728116538,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 178365,
-      "num": 364131,
-      "word": "40亿元存款中超35%已流入股市",
-      "onboard_time": 1728480019,
-      "rank": 45,
-      "category": "财经"
     },
     {
       "raw_hot": 178319,
@@ -14633,6 +14657,14 @@
       "onboard_time": 1728188780,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 165797,
+      "num": 165797,
+      "word": "东京食尸鬼 第一季最终话",
+      "onboard_time": 1728482660,
+      "rank": 49,
+      "category": "动漫"
     },
     {
       "raw_hot": 165535,
@@ -16147,14 +16179,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 150538,
-      "num": 150538,
-      "word": "东京食尸鬼 第一季最终话",
-      "onboard_time": 1728482660,
-      "rank": 49,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 150429,
       "num": 150429,
       "word": "伊朗称90%导弹成功击中目标",
@@ -16649,6 +16673,14 @@
       "onboard_time": 1728120559,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 145332,
+      "num": 145332,
+      "word": "朱志鑫Dance拍摄over",
+      "onboard_time": 1728484580,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 145327,
@@ -17193,6 +17225,14 @@
       "onboard_time": 1728474259,
       "rank": 29,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 139809,
+      "num": 139809,
+      "word": "萤火虫漫展展期确定",
+      "onboard_time": 1728484760,
+      "rank": 44,
+      "category": "动漫"
     },
     {
       "raw_hot": 139707,
@@ -17857,6 +17897,14 @@
       "onboard_time": 1727929639,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 134182,
+      "num": 134182,
+      "word": "天气冷适合在家做蒸菜",
+      "onboard_time": 1728484160,
+      "rank": 45,
+      "category": "美食"
     },
     {
       "raw_hot": 134179,
@@ -18569,6 +18617,14 @@
       "onboard_time": 1728209119,
       "rank": 35,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 128571,
+      "num": 265907,
+      "word": "这是中法文化的双向奔赴",
+      "onboard_time": 1728483738,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 128440,
@@ -19561,6 +19617,14 @@
       "onboard_time": 1728142217,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 118571,
+      "num": 337244,
+      "word": "女子5年花光50万积蓄追发财梦",
+      "onboard_time": 1728482660,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 118568,
@@ -22339,6 +22403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 89634,
+      "num": 261749,
+      "word": "鹅产剧集体开麦",
+      "onboard_time": 1728484281,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 89619,
       "num": 106136,
       "word": "王曼昱做好被小球员冲击准备",
@@ -23043,14 +23115,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 78588,
-      "num": 337244,
-      "word": "女子5年花光50万积蓄追发财梦",
-      "onboard_time": 1728482660,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 78430,
       "num": 398980,
       "word": "看志愿军夜袭不敢呼吸",
@@ -23569,14 +23633,6 @@
       "onboard_time": 1728097158,
       "rank": 47,
       "category": "艺人,游戏"
-    },
-    {
-      "raw_hot": 69404,
-      "num": 323696,
-      "word": "王艺迪vs张本美和",
-      "onboard_time": 1728483321,
-      "rank": 17,
-      "category": "体育"
     },
     {
       "raw_hot": 69338,
@@ -25044,7 +25100,7 @@
     },
     {
       "raw_hot": 44242,
-      "num": 660199,
+      "num": 701662,
       "word": "今年全国新开国际货运航线超120条",
       "onboard_time": 1728481100,
       "rank": 2,
@@ -25185,6 +25241,14 @@
       "onboard_time": 1727718254,
       "rank": 31,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 41824,
+      "num": 311713,
+      "word": "中国造霸总短剧硬控海外主妇",
+      "onboard_time": 1728482720,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 41659,
@@ -26663,14 +26727,6 @@
       "num": 33664,
       "word": "广州部分楼盘日到访量暴增200%",
       "onboard_time": 1728332771,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 23368,
-      "num": 311713,
-      "word": "中国造霸总短剧硬控海外主妇",
-      "onboard_time": 1728482720,
       "rank": 19,
       "category": "社会新闻"
     },
