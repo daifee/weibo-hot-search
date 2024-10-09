@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/10/01 00:28:17 ~ 2024/10/09 18:24:20
+本榜单时间：2024/10/01 00:28:17 ~ 2024/10/09 18:42:26
 </p>
 </blockquote>
 <p>
@@ -1475,6 +1475,12 @@ LNG战胜BLG（热度：897693）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%A6%B9%E7%8F%8D3%E6%AF%942%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C%23" target="weibo">
 张禹珍3比2张本智和（热度：896576）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%232024%E5%B9%B4%E8%AF%BA%E8%B4%9D%E5%B0%94%E5%8C%96%E5%AD%A6%E5%A5%96%E6%8F%AD%E6%99%93%23" target="weibo">
+2024年诺贝尔化学奖揭晓（热度：894359）
 </a>
 </li>
 
@@ -3885,12 +3891,6 @@ A股半小时成交破万亿（热度：455160）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%232024%E5%B9%B4%E8%AF%BA%E8%B4%9D%E5%B0%94%E5%8C%96%E5%AD%A6%E5%A5%96%E6%8F%AD%E6%99%93%23" target="weibo">
-2024年诺贝尔化学奖揭晓（热度：429451）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E8%B0%88%E6%8A%91%E9%83%81%E7%97%87%23" target="weibo">
 华晨宇谈抑郁症（热度：429340）
 </a>
@@ -3953,6 +3953,12 @@ A股半小时成交破万亿（热度：455160）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%A5%E6%80%BB%E7%90%86%E7%A7%B0%E6%B3%95%E6%80%BB%E7%BB%9F%E5%91%BC%E5%90%81%E6%AD%A6%E5%99%A8%E7%A6%81%E8%BF%90%E5%8F%AF%E8%80%BB%23" target="weibo">
 以总理称法总统呼吁武器禁运可耻（热度：424744）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%239%E5%B2%81%E5%A5%B3%E7%AB%A5%E6%BA%BA%E4%BA%A1%E6%A1%88%E5%AB%8C%E7%96%91%E4%BA%BA%E7%B3%BB%E5%90%8C%E6%9D%91%E7%94%B7%E5%AD%A9%23" target="weibo">
+9岁女童溺亡案嫌疑人系同村男孩（热度：424443）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ A股缩量（热度：283052）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%96%B0%E5%A4%96%E7%9B%B8%E5%9B%9E%E5%BA%94%E7%9F%B3%E7%A0%B4%E8%8C%82%E5%86%85%E9%98%81%E4%BA%B2%E4%B8%AD%E4%BA%B2%E9%9F%A9%23" target="weibo">
 日本新外相回应石破茂内阁亲中亲韩（热度：279450）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%94%E6%A0%A1%E8%BD%A6%E5%8E%A2%E9%87%8C%E5%85%A8%E6%98%AF%E7%A2%8E%E6%8E%89%E7%9A%84%E5%A4%A7%E5%AD%A6%E7%94%9F%23" target="weibo">
-返校车厢里全是碎掉的大学生（热度：279158）
 </a>
 </li>
 
