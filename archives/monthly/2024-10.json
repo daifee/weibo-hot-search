@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1728458504291,
+  "endTime": 1728459345159,
   "band_list": [
     {
       "raw_hot": 12210422,
@@ -2395,6 +2395,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 750634,
+      "num": 750634,
+      "word": "A股巨震三大原因找到了",
+      "onboard_time": 1728449661,
+      "rank": 33,
+      "category": "财经"
+    },
+    {
       "raw_hot": 748799,
       "num": 1119807,
       "word": "西湖新女警是16年前走丢的那个孩子",
@@ -2443,8 +2451,8 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 743050,
-      "num": 743050,
+      "raw_hot": 743279,
+      "num": 743279,
       "word": "四川户籍和身份证业务暂停办理",
       "onboard_time": 1728455838,
       "rank": 8,
@@ -2633,14 +2641,6 @@
       "onboard_time": 1728113900,
       "rank": 12,
       "category": "体育"
-    },
-    {
-      "raw_hot": 708750,
-      "num": 708750,
-      "word": "A股巨震三大原因找到了",
-      "onboard_time": 1728449661,
-      "rank": 33,
-      "category": "财经"
     },
     {
       "raw_hot": 708407,
@@ -3065,6 +3065,14 @@
       "onboard_time": 1727925617,
       "rank": 35,
       "category": "财经"
+    },
+    {
+      "raw_hot": 639467,
+      "num": 369016,
+      "word": "张新成王玉雯被父母撮合过",
+      "onboard_time": 1728457218,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 639196,
@@ -3537,6 +3545,14 @@
       "onboard_time": 1728112280,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 586339,
+      "num": 496450,
+      "word": "学历贬值下卷研究生还有意义吗",
+      "onboard_time": 1728457277,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 585453,
@@ -4321,14 +4337,6 @@
       "onboard_time": 1728434121,
       "rank": 18,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 496450,
-      "num": 496450,
-      "word": "学历贬值下卷研究生还有意义吗",
-      "onboard_time": 1728457277,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 496386,
@@ -5635,6 +5643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 379000,
+      "num": 239157,
+      "word": "张远给马雪阳88888.88红包",
+      "onboard_time": 1728458179,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 378450,
       "num": 378450,
       "word": "孩子被冤枉偷东西家长直接报警",
@@ -5681,6 +5697,14 @@
       "onboard_time": 1727934560,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 375936,
+      "num": 506106,
+      "word": "梁伟铿王昶vs刘广珩杨博涵",
+      "onboard_time": 1728454040,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 375078,
@@ -6395,14 +6419,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 333818,
-      "num": 506106,
-      "word": "梁伟铿王昶vs刘广珩杨博涵",
-      "onboard_time": 1728454040,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 333604,
       "num": 221939,
       "word": "梁靖崑说王楚钦又甜又凶",
@@ -6827,6 +6843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 311034,
+      "num": 311034,
+      "word": "A股后续将迎第二波上涨行情",
+      "onboard_time": 1728458720,
+      "rank": 17,
+      "category": "财经"
+    },
+    {
       "raw_hot": 310872,
       "num": 310872,
       "word": "第五人格入殓师废稿",
@@ -6921,14 +6945,6 @@
       "onboard_time": 1728040159,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 308093,
-      "num": 308093,
-      "word": "张新成王玉雯被父母撮合过",
-      "onboard_time": 1728457218,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 308083,
@@ -7244,7 +7260,7 @@
     },
     {
       "raw_hot": 293980,
-      "num": 293980,
+      "num": 310792,
       "word": "张颂文 原来是热量炸弹",
       "onboard_time": 1728455060,
       "rank": 43,
@@ -8179,6 +8195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 265410,
+      "num": 265410,
+      "word": "理记",
+      "onboard_time": 1728458360,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 265126,
       "num": 265126,
       "word": "沈星回生日pv",
@@ -8449,6 +8473,14 @@
       "onboard_time": 1727835678,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 256653,
+      "num": 349313,
+      "word": "第五人格 皮套",
+      "onboard_time": 1728458479,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 256386,
@@ -9009,6 +9041,14 @@
       "onboard_time": 1727838199,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 239576,
+      "num": 239576,
+      "word": "潘展乐说接下来会发展副项",
+      "onboard_time": 1728456138,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 239361,
@@ -9593,6 +9633,14 @@
       "onboard_time": 1728444860,
       "rank": 38,
       "category": "教育"
+    },
+    {
+      "raw_hot": 225063,
+      "num": 383273,
+      "word": "再见爱人4到底有谁在",
+      "onboard_time": 1728458840,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 225032,
@@ -10475,6 +10523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 206339,
+      "num": 309390,
+      "word": "校园欺凌是不少抑郁孩子的病因之一",
+      "onboard_time": 1728455960,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 206259,
       "num": 206259,
       "word": "我给十几年前看过的小说写歌了",
@@ -10560,6 +10616,14 @@
       "word": "苏新皓声乐考核第一",
       "onboard_time": 1727785639,
       "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 205403,
+      "num": 205403,
+      "word": "蔡徐坤旅游拍照姿势难度",
+      "onboard_time": 1728458360,
+      "rank": 34,
       "category": "艺人"
     },
     {
@@ -10675,14 +10739,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 203797,
-      "num": 203797,
-      "word": "蔡徐坤旅游拍照姿势难度",
-      "onboard_time": 1728458360,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 203770,
       "num": 203770,
       "word": "以色列特拉维夫枪击事件致6死",
@@ -10760,14 +10816,6 @@
       "word": "女子拎50万现金出庭归还债主",
       "onboard_time": 1727728751,
       "rank": 18,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 202937,
-      "num": 202937,
-      "word": "理记",
-      "onboard_time": 1728458360,
-      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -10977,14 +11025,6 @@
       "onboard_time": 1728115939,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 199667,
-      "num": 199667,
-      "word": "潘展乐说接下来会发展副项",
-      "onboard_time": 1728456138,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 199381,
@@ -11675,6 +11715,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 192833,
+      "num": 192833,
+      "word": "江歌妈妈",
+      "onboard_time": 1728458899,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 192752,
       "num": 192752,
       "word": "沈梦瑶被新人夸了三次",
@@ -11801,6 +11849,14 @@
       "onboard_time": 1727780779,
       "rank": 33,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 191283,
+      "num": 191283,
+      "word": "拜登宣布未来10年将更换铅管",
+      "onboard_time": 1728459318,
+      "rank": 40,
+      "category": "国外时政"
     },
     {
       "raw_hot": 191254,
@@ -12809,22 +12865,6 @@
       "onboard_time": 1728296061,
       "rank": 36,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 177750,
-      "num": 259503,
-      "word": "校园欺凌是不少抑郁孩子的病因之一",
-      "onboard_time": 1728455960,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 177717,
-      "num": 177717,
-      "word": "张远给马雪阳88888.88红包",
-      "onboard_time": 1728458179,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 177538,
@@ -15083,6 +15123,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 151975,
+      "num": 151975,
+      "word": "新股民迎当头一棒",
+      "onboard_time": 1728457999,
+      "rank": 46,
+      "category": "财经"
+    },
+    {
       "raw_hot": 151673,
       "num": 151673,
       "word": "斩神",
@@ -16321,14 +16369,6 @@
       "onboard_time": 1728373941,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 138900,
-      "num": 138900,
-      "word": "第五人格 皮套",
-      "onboard_time": 1728458479,
-      "rank": 47,
-      "category": "游戏"
     },
     {
       "raw_hot": 138895,
@@ -24259,6 +24299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 38521,
+      "num": 185865,
+      "word": "谁是中国第一个吃螃蟹的人",
+      "onboard_time": 1728459141,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 38434,
       "num": 297491,
       "word": "黎巴嫩战乱亲历者发声",
@@ -24588,7 +24636,7 @@
     },
     {
       "raw_hot": 33875,
-      "num": 283853,
+      "num": 308952,
       "word": "辛芷蕾pick的AI芯片",
       "onboard_time": 1728455898,
       "rank": 46,
@@ -25859,19 +25907,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 17866,
+      "num": 513621,
+      "word": "专家谈新一轮巴以冲突一周年",
+      "onboard_time": 1728457878,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 17835,
       "num": 84435,
       "word": "红军长征时留下布满弹孔的旗帜",
       "onboard_time": 1727975955,
       "rank": 24,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 17823,
-      "num": 513621,
-      "word": "专家谈新一轮巴以冲突一周年",
-      "onboard_time": 1728457878,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -26257,6 +26305,14 @@
       "onboard_time": 1728132800,
       "rank": 19,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 4756,
+      "num": 310177,
+      "word": "张元英式说话",
+      "onboard_time": 1728459318,
+      "rank": 19,
+      "category": "艺人"
     }
   ],
   "hotgov_list": [
