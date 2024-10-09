@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1728465884128,
+  "endTime": 1728466676944,
   "band_list": [
     {
       "raw_hot": 12210422,
@@ -132,7 +132,7 @@
     },
     {
       "raw_hot": 2870834,
-      "num": 467862,
+      "num": 573225,
       "word": "女子怀孕3个月连吃6只螃蟹后流产",
       "onboard_time": 1728460520,
       "rank": 10,
@@ -404,7 +404,7 @@
     },
     {
       "raw_hot": 1874398,
-      "num": 465257,
+      "num": 498131,
       "word": "江歌妈妈",
       "onboard_time": 1728458899,
       "rank": 39,
@@ -532,7 +532,7 @@
     },
     {
       "raw_hot": 1629008,
-      "num": 466805,
+      "num": 516877,
       "word": "李静从160斤瘦到了105斤",
       "onboard_time": 1728461840,
       "rank": 15,
@@ -1233,6 +1233,14 @@
       "onboard_time": 1728126499,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1099436,
+      "num": 459927,
+      "word": "赵丽颖 金鹰奖",
+      "onboard_time": 1728465380,
+      "rank": 16,
+      "category": "电影"
     },
     {
       "raw_hot": 1095624,
@@ -2363,6 +2371,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 764670,
+      "num": 764670,
+      "word": "影视飓风",
+      "onboard_time": 1728462979,
+      "rank": 40,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 763089,
       "num": 763089,
       "word": "刚工作的00后准备了3万块炒股",
@@ -2691,14 +2707,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 710495,
-      "num": 710495,
-      "word": "影视飓风",
-      "onboard_time": 1728462979,
-      "rank": 40,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 709556,
       "num": 324429,
       "word": "王楚钦和马琳儿子聊天",
@@ -2801,6 +2809,14 @@
       "onboard_time": 1728048259,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 689883,
+      "num": 689883,
+      "word": "刺痛减肥",
+      "onboard_time": 1728464120,
+      "rank": 7,
+      "category": "电竞"
     },
     {
       "raw_hot": 689195,
@@ -4691,14 +4707,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 471807,
-      "num": 471807,
-      "word": "刺痛减肥",
-      "onboard_time": 1728464120,
-      "rank": 7,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 471720,
       "num": 471720,
       "word": "印度女团3比2韩国",
@@ -4793,14 +4801,6 @@
       "onboard_time": 1727738235,
       "rank": 17,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 459927,
-      "num": 459927,
-      "word": "赵丽颖 金鹰奖",
-      "onboard_time": 1728465380,
-      "rank": 16,
-      "category": "电影"
     },
     {
       "raw_hot": 459767,
@@ -5049,6 +5049,14 @@
       "onboard_time": 1728047539,
       "rank": 8,
       "category": "电影"
+    },
+    {
+      "raw_hot": 441378,
+      "num": 469938,
+      "word": "很多校园霸凌是从欺负开始的",
+      "onboard_time": 1728464838,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 439282,
@@ -5484,7 +5492,7 @@
     },
     {
       "raw_hot": 398703,
-      "num": 470705,
+      "num": 666987,
       "word": "再见爱人 黄圣依",
       "onboard_time": 1728462740,
       "rank": 8,
@@ -6363,6 +6371,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 343644,
+      "num": 644522,
+      "word": "王俊凯有这忍耐力做什么都会成功的",
+      "onboard_time": 1728463519,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 342733,
       "num": 342733,
       "word": "用我的方式祝福祖国",
@@ -6761,14 +6777,6 @@
       "onboard_time": 1727802615,
       "rank": 14,
       "category": "国外时政,军事"
-    },
-    {
-      "raw_hot": 322176,
-      "num": 463153,
-      "word": "王俊凯有这忍耐力做什么都会成功的",
-      "onboard_time": 1728463519,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 322007,
@@ -7515,6 +7523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 289809,
+      "num": 605626,
+      "word": "两个月后日本找到伤害中国游客凶手",
+      "onboard_time": 1728465020,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 289629,
       "num": 289629,
       "word": "鹿 你一边去吧该我了",
@@ -7657,6 +7673,14 @@
       "onboard_time": 1728381859,
       "rank": 7,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 284829,
+      "num": 284829,
+      "word": "花十块钱知道自己姓什么",
+      "onboard_time": 1728464479,
+      "rank": 28,
+      "category": "幽默"
     },
     {
       "raw_hot": 284823,
@@ -8715,14 +8739,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 254009,
-      "num": 254009,
-      "word": "花十块钱知道自己姓什么",
-      "onboard_time": 1728464479,
-      "rank": 28,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 252419,
       "num": 404726,
       "word": "马龙晋级男单16强",
@@ -8843,6 +8859,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 249192,
+      "num": 249192,
+      "word": "至上励合",
+      "onboard_time": 1728466038,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 248841,
       "num": 248841,
       "word": "半熟男女大结局",
@@ -8865,6 +8889,14 @@
       "onboard_time": 1728092478,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 248164,
+      "num": 240046,
+      "word": "aespa成员solo曲上线",
+      "onboard_time": 1728466100,
+      "rank": 27,
+      "category": "音乐"
     },
     {
       "raw_hot": 247997,
@@ -9065,14 +9097,6 @@
       "onboard_time": 1728171014,
       "rank": 16,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 243065,
-      "num": 243065,
-      "word": "两个月后日本找到伤害中国游客凶手",
-      "onboard_time": 1728465020,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 242985,
@@ -9721,14 +9745,6 @@
       "onboard_time": 1727751978,
       "rank": 33,
       "category": "电影"
-    },
-    {
-      "raw_hot": 227043,
-      "num": 469938,
-      "word": "很多校园霸凌是从欺负开始的",
-      "onboard_time": 1728464838,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 226959,
@@ -10539,6 +10555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 209889,
+      "num": 209889,
+      "word": "第五人格昆虫学者",
+      "onboard_time": 1728188780,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 209510,
       "num": 209510,
       "word": "BeliftLab要求Hanni道歉",
@@ -11235,6 +11259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 198980,
+      "num": 198980,
+      "word": "鼻子手术多次后畸形医生不愿接单",
+      "onboard_time": 1728466279,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 198972,
       "num": 198972,
       "word": "港股大幅跳水",
@@ -11521,6 +11553,14 @@
       "onboard_time": 1727911274,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 196083,
+      "num": 196083,
+      "word": "HYBE回应田柾国超级碗表演告吹",
+      "onboard_time": 1728466398,
+      "rank": 37,
+      "category": "演出"
     },
     {
       "raw_hot": 196030,
@@ -12035,6 +12075,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 191343,
+      "num": 230348,
+      "word": "芒果新生班飞行嘉宾阵容",
+      "onboard_time": 1728465799,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 191329,
       "num": 191329,
       "word": "刘浩存深V衬衫造型",
@@ -12297,6 +12345,14 @@
       "onboard_time": 1728170354,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 188427,
+      "num": 188427,
+      "word": "严打隔空猥亵等网上恶性违法犯罪行为",
+      "onboard_time": 1728466100,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 188313,
@@ -12753,14 +12809,6 @@
       "onboard_time": 1727876240,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 181696,
-      "num": 181696,
-      "word": "第五人格昆虫学者",
-      "onboard_time": 1728188780,
-      "rank": 38,
-      "category": "游戏"
     },
     {
       "raw_hot": 181686,
@@ -13851,6 +13899,22 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 167798,
+      "num": 167798,
+      "word": "黑神话开发成本超3亿",
+      "onboard_time": 1728466459,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 167768,
+      "num": 167768,
+      "word": "郑钦文有望升至世界第7",
+      "onboard_time": 1728466459,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 167730,
       "num": 167730,
       "word": "刘宇宁周传雄合唱青花",
@@ -13977,14 +14041,6 @@
       "onboard_time": 1728366742,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 166475,
-      "num": 181193,
-      "word": "芒果新生班飞行嘉宾阵容",
-      "onboard_time": 1728465799,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 166422,
@@ -14409,6 +14465,14 @@
       "onboard_time": 1728031640,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 161210,
+      "num": 161210,
+      "word": "柳智敏UP Melon曲线",
+      "onboard_time": 1728466639,
+      "rank": 46,
+      "category": "音乐"
     },
     {
       "raw_hot": 161198,
@@ -24243,6 +24307,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 43493,
+      "num": 383794,
+      "word": "刘浩存灵感妆",
+      "onboard_time": 1728463098,
+      "rank": 49,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 43345,
       "num": 516216,
       "word": "国庆仪式感让清澈的爱具象化了",
@@ -24523,6 +24595,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 39181,
+      "num": 290869,
+      "word": "杨幂早期有多灵气",
+      "onboard_time": 1728465979,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 39131,
       "num": 321397,
       "word": "以色列再遭袭当地华人回国称不想丢命",
@@ -24609,14 +24689,6 @@
       "onboard_time": 1727906832,
       "rank": 13,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 38281,
-      "num": 383794,
-      "word": "刘浩存灵感妆",
-      "onboard_time": 1728463098,
-      "rank": 49,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 38271,
