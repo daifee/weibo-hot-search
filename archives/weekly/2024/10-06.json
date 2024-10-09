@@ -1,6 +1,6 @@
 {
   "startTime": 1728145573126,
-  "endTime": 1728451379820,
+  "endTime": 1728452434784,
   "band_list": [
     {
       "raw_hot": 12210422,
@@ -251,20 +251,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1857508,
+      "num": 1857508,
+      "word": "苗疆陈朵朵道歉",
+      "onboard_time": 1728448281,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1856955,
       "num": 1870773,
       "word": "王曼昱退赛因家庭原因",
       "onboard_time": 1728294023,
       "rank": 0,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1852976,
-      "num": 1852976,
-      "word": "苗疆陈朵朵道歉",
-      "onboard_time": 1728448281,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1761190,
@@ -739,6 +739,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1037178,
+      "num": 470527,
+      "word": "交警回应正规停放的车辆被拖走",
+      "onboard_time": 1728447141,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1035558,
       "num": 880491,
       "word": "A股大幅高开后回落",
@@ -825,6 +833,14 @@
       "onboard_time": 1728143659,
       "rank": 1,
       "category": "自然"
+    },
+    {
+      "raw_hot": 991377,
+      "num": 991377,
+      "word": "孙颖莎vs杜凯琹",
+      "onboard_time": 1728449420,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 990598,
@@ -1299,14 +1315,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 723298,
-      "num": 470527,
-      "word": "交警回应正规停放的车辆被拖走",
-      "onboard_time": 1728447141,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 721032,
       "num": 721032,
       "word": "马龙正手狂轰",
@@ -1763,14 +1771,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 551896,
-      "num": 551896,
-      "word": "孙颖莎vs杜凯琹",
-      "onboard_time": 1728449420,
-      "rank": 4,
-      "category": "体育"
-    },
-    {
       "raw_hot": 549605,
       "num": 430762,
       "word": "王楚钦主动指出擦网重发",
@@ -1873,6 +1873,14 @@
       "onboard_time": 1728290243,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 515790,
+      "num": 407055,
+      "word": "伊能静被我恋6男嘉宾气到疯狂输出",
+      "onboard_time": 1728450619,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 515589,
@@ -2393,6 +2401,14 @@
       "onboard_time": 1728154873,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 406735,
+      "num": 406735,
+      "word": "名媛 污名化",
+      "onboard_time": 1728451278,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 406011,
@@ -3043,6 +3059,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 323425,
+      "num": 323425,
+      "word": "A股巨震三大原因找到了",
+      "onboard_time": 1728449661,
+      "rank": 33,
+      "category": "财经"
+    },
+    {
       "raw_hot": 323251,
       "num": 251139,
       "word": "哀牢山晚上会释放大量二氧化碳",
@@ -3305,14 +3329,6 @@
       "onboard_time": 1728396080,
       "rank": 26,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 293497,
-      "num": 293497,
-      "word": "A股巨震三大原因找到了",
-      "onboard_time": 1728449661,
-      "rank": 33,
-      "category": "财经"
     },
     {
       "raw_hot": 293363,
@@ -4003,6 +4019,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 241570,
+      "num": 241570,
+      "word": "老累 藿香菇",
+      "onboard_time": 1728448342,
+      "rank": 37,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 241099,
       "num": 372381,
       "word": "国庆假期倒数第2天",
@@ -4025,6 +4049,14 @@
       "onboard_time": 1728274038,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 238951,
+      "num": 420205,
+      "word": "密逃这期有杨幂黄明昊",
+      "onboard_time": 1728451399,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 238720,
@@ -4145,14 +4177,6 @@
       "onboard_time": 1728360320,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 230889,
-      "num": 230889,
-      "word": "伊能静被我恋6男嘉宾气到疯狂输出",
-      "onboard_time": 1728450619,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 230112,
@@ -4313,14 +4337,6 @@
       "onboard_time": 1728441138,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 221497,
-      "num": 221497,
-      "word": "老累 藿香菇",
-      "onboard_time": 1728448342,
-      "rank": 37,
-      "category": "动漫"
     },
     {
       "raw_hot": 220477,
@@ -4529,6 +4545,14 @@
       "onboard_time": 1728382762,
       "rank": 35,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 213671,
+      "num": 331317,
+      "word": "孙颖莎3比0杜凯琹",
+      "onboard_time": 1728451699,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 213167,
@@ -5267,6 +5291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 190511,
+      "num": 190511,
+      "word": "男解说 苹果香",
+      "onboard_time": 1728451997,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 190385,
       "num": 190385,
       "word": "上交所延长接受指定交易申报指令时间",
@@ -5441,6 +5473,14 @@
       "onboard_time": 1728188057,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 183049,
+      "num": 342245,
+      "word": "李昀锐徐若晗新剧 破镜重圆",
+      "onboard_time": 1728451760,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 182779,
@@ -5641,6 +5681,14 @@
       "onboard_time": 1728296061,
       "rank": 36,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 177622,
+      "num": 419706,
+      "word": "警方通报昆明长水机场出境被坑钱",
+      "onboard_time": 1728451157,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 176873,
@@ -6049,14 +6097,6 @@
       "onboard_time": 1728358040,
       "rank": 43,
       "category": "财经"
-    },
-    {
-      "raw_hot": 164408,
-      "num": 164408,
-      "word": "名媛 污名化",
-      "onboard_time": 1728451278,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 164156,
@@ -6515,6 +6555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 153052,
+      "num": 153052,
+      "word": "专家称要善用金字塔加仓和减仓法",
+      "onboard_time": 1728452179,
+      "rank": 46,
+      "category": "财经"
+    },
+    {
       "raw_hot": 152909,
       "num": 152909,
       "word": "薛之谦 在那天回不去的路上",
@@ -6723,6 +6771,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 148864,
+      "num": 148864,
+      "word": "崔永熙两罚变失误",
+      "onboard_time": 1728452299,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 148668,
       "num": 148668,
       "word": "王子奇天津活动",
@@ -6769,6 +6825,14 @@
       "onboard_time": 1728191416,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 147815,
+      "num": 336995,
+      "word": "黑色月光",
+      "onboard_time": 1728452118,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 147348,
@@ -7115,6 +7179,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 138400,
+      "num": 240153,
+      "word": "电影根本停不下来定档",
+      "onboard_time": 1728451519,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 138236,
       "num": 138236,
       "word": "太阳vs湖人",
@@ -7145,14 +7217,6 @@
       "onboard_time": 1728270378,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 136421,
-      "num": 313942,
-      "word": "警方通报昆明长水机场出境被坑钱",
-      "onboard_time": 1728451157,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 136314,
@@ -8033,6 +8097,14 @@
       "onboard_time": 1728437599,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 111509,
+      "num": 413835,
+      "word": "王艺迪vs朱成竹",
+      "onboard_time": 1728451519,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 111344,
@@ -9305,6 +9377,14 @@
       "onboard_time": 1728170174,
       "rank": 33,
       "category": "健康医疗,美食"
+    },
+    {
+      "raw_hot": 60061,
+      "num": 414916,
+      "word": "陈幸同vs吴咏琳",
+      "onboard_time": 1728451519,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 59718,

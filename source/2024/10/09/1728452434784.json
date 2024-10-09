@@ -1,0 +1,410 @@
+{
+  "runTime": 1728452434784,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1857508,
+        "num": 1857508,
+        "word": "苗疆陈朵朵道歉",
+        "onboard_time": 1728448281,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 991377,
+        "num": 991377,
+        "word": "孙颖莎vs杜凯琹",
+        "onboard_time": 1728449420,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 30276,
+        "num": 930237,
+        "word": "我国加力推出增量政策重点在五方面",
+        "onboard_time": 1728444799,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 910840,
+        "num": 910840,
+        "word": "17年的玩具我24年开了眼界",
+        "onboard_time": 1728438619,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 818224,
+        "num": 818224,
+        "word": "朝鲜永久切断并封锁与韩国交界南部国境",
+        "onboard_time": 1728446240,
+        "rank": 4,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 476351,
+        "num": 476351,
+        "word": "三人行必有我师焉其实缺了一个字",
+        "onboard_time": 1728438798,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 420868,
+        "num": 420868,
+        "word": "上海爷叔为何能成为最火股民",
+        "onboard_time": 1728446720,
+        "rank": 6,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 293739,
+        "num": 420706,
+        "word": "文泰一被警方立案第二天生日直播",
+        "onboard_time": 1728447080,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 238951,
+        "num": 420205,
+        "word": "密逃这期有杨幂黄明昊",
+        "onboard_time": 1728451399,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177622,
+        "num": 419706,
+        "word": "警方通报昆明长水机场出境被坑钱",
+        "onboard_time": 1728451157,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1828816,
+        "num": 419365,
+        "word": "女子怀孕工资从6000降到3000",
+        "onboard_time": 1728445701,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 388921,
+        "num": 419107,
+        "word": "专家称A股调整已经到位",
+        "onboard_time": 1728445040,
+        "rank": 11,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1037178,
+        "num": 418530,
+        "word": "交警回应正规停放的车辆被拖走",
+        "onboard_time": 1728447141,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 696251,
+        "num": 418523,
+        "word": "车停正规停车位上被交警无故拖走",
+        "onboard_time": 1728446600,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 591145,
+        "num": 417754,
+        "word": "和秦昊吵架后伊能静把两人鞋带绑一起",
+        "onboard_time": 1728444020,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 542838,
+        "num": 417637,
+        "word": "顾客未买淀粉肠摊主刮下调料舔掉",
+        "onboard_time": 1728444320,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 527686,
+        "num": 417117,
+        "word": "A股开盘近5000只个股下跌",
+        "onboard_time": 1728438557,
+        "rank": 16,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 416960,
+        "num": 416960,
+        "word": "金晨在巴黎跳傣族舞",
+        "onboard_time": 1728449360,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 60061,
+        "num": 414916,
+        "word": "陈幸同vs吴咏琳",
+        "onboard_time": 1728451519,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111509,
+        "num": 413835,
+        "word": "王艺迪vs朱成竹",
+        "onboard_time": 1728451519,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 761316,
+        "num": 410756,
+        "word": "女子腱鞘炎看医生挤出透明胶状物",
+        "onboard_time": 1728440899,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 515790,
+        "num": 407055,
+        "word": "伊能静被我恋6男嘉宾气到疯狂输出",
+        "onboard_time": 1728450619,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 406735,
+        "num": 406735,
+        "word": "名媛 污名化",
+        "onboard_time": 1728451278,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 388037,
+        "num": 388037,
+        "word": "陈乔恩婚后被问生小孩吗",
+        "onboard_time": 1728441799,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 376716,
+        "num": 376716,
+        "word": "女博主露营哀牢山2天1夜将被调查",
+        "onboard_time": 1728433099,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 343721,
+        "num": 343721,
+        "word": "弟弟回应远嫁姐姐半年看父亲被指不孝",
+        "onboard_time": 1728437176,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183049,
+        "num": 342245,
+        "word": "李昀锐徐若晗新剧 破镜重圆",
+        "onboard_time": 1728451760,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147815,
+        "num": 336995,
+        "word": "黑色月光",
+        "onboard_time": 1728452118,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145934,
+        "num": 335211,
+        "word": "森林进化论2定档",
+        "onboard_time": 1728450200,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 213671,
+        "num": 331317,
+        "word": "孙颖莎3比0杜凯琹",
+        "onboard_time": 1728451699,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19700,
+        "num": 323898,
+        "word": "刘亦菲一个镜头六种愉悦情绪",
+        "onboard_time": 1728447080,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 323425,
+        "num": 323425,
+        "word": "A股巨震三大原因找到了",
+        "onboard_time": 1728449661,
+        "rank": 31,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 265077,
+        "num": 265077,
+        "word": "朝鲜宣布完全切断与韩国连接铁路公路",
+        "onboard_time": 1728439880,
+        "rank": 32,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 291684,
+        "num": 260863,
+        "word": "A股",
+        "onboard_time": 1728434000,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 241570,
+        "num": 241570,
+        "word": "老累 藿香菇",
+        "onboard_time": 1728448342,
+        "rank": 34,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 138400,
+        "num": 240153,
+        "word": "电影根本停不下来定档",
+        "onboard_time": 1728451519,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 239299,
+        "num": 239299,
+        "word": "洪小草小奶尼分手",
+        "onboard_time": 1728445278,
+        "rank": 36,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 211258,
+        "num": 211258,
+        "word": "我国正编纂一套字数超10亿的书",
+        "onboard_time": 1728435800,
+        "rank": 37,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 209440,
+        "num": 209440,
+        "word": "崔永熙NBA首秀",
+        "onboard_time": 1728443240,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 202199,
+        "num": 202199,
+        "word": "k总",
+        "onboard_time": 1728390560,
+        "rank": 39,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 201865,
+        "num": 201865,
+        "word": "恩利欧阳娜娜姐妹合照",
+        "onboard_time": 1728444919,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190511,
+        "num": 190511,
+        "word": "男解说 苹果香",
+        "onboard_time": 1728451997,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 177006,
+        "num": 177006,
+        "word": "孩子被冤枉偷东西家长直接报警",
+        "onboard_time": 1728444438,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157277,
+        "num": 157277,
+        "word": "碎花裙女生大勺哥获评见义勇为勇士",
+        "onboard_time": 1728449900,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155763,
+        "num": 155763,
+        "word": "TheShy看小钰cos泽丽",
+        "onboard_time": 1728449000,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 154057,
+        "num": 154057,
+        "word": "恋与深空",
+        "onboard_time": 1728443118,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 153052,
+        "num": 153052,
+        "word": "专家称要善用金字塔加仓和减仓法",
+        "onboard_time": 1728452179,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 148864,
+        "num": 148864,
+        "word": "崔永熙两罚变失误",
+        "onboard_time": 1728452299,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144555,
+        "num": 144555,
+        "word": "入职几月怀孕拒绝调薪调岗被辞退",
+        "onboard_time": 1728433038,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124443,
+        "num": 140762,
+        "word": "张新成王玉雯谈竹马变恋人可能性",
+        "onboard_time": 1728446000,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#感悟总书记的传统文化情结#"
+    }
+  }
+}
