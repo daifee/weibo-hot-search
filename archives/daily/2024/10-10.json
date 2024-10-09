@@ -1,6 +1,6 @@
 {
   "startTime": 1728491244792,
-  "endTime": 1728508861722,
+  "endTime": 1728509762191,
   "band_list": [
     {
       "raw_hot": 3405029,
@@ -555,12 +555,28 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 26695,
+      "num": 50447,
+      "word": "杭州不再区分首套二套房",
+      "onboard_time": 1728506831,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 25142,
       "num": 52046,
       "word": "李沁古装",
       "onboard_time": 1728475459,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 24308,
+      "num": 24308,
+      "word": "街溜子天鹅疑似失去所有力气和手段",
+      "onboard_time": 1728503592,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 22734,
@@ -571,26 +587,10 @@
       "category": "演出"
     },
     {
-      "raw_hot": 22671,
-      "num": 22671,
-      "word": "街溜子天鹅疑似失去所有力气和手段",
-      "onboard_time": 1728503592,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 22091,
       "num": 212294,
       "word": "严防违规冒险进入野景区及网红打卡点",
       "onboard_time": 1728495193,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 18123,
-      "num": 50447,
-      "word": "杭州不再区分首套二套房",
-      "onboard_time": 1728506831,
       "rank": 9,
       "category": "社会新闻"
     },
@@ -624,6 +624,14 @@
       "word": "文博热非遗热持续升温",
       "onboard_time": 1728478340,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 12231,
+      "num": 53191,
+      "word": "一文梳理东北雨姐红薯粉条事件",
+      "onboard_time": 1728508211,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
