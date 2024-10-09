@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1728466676944,
+  "endTime": 1728469460962,
   "band_list": [
     {
       "raw_hot": 12210422,
@@ -819,6 +819,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1324677,
+      "num": 244189,
+      "word": "26岁女子以为痛经检查发现临盆了",
+      "onboard_time": 1728467180,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1323775,
       "num": 509561,
       "word": "假冒媒体岂是儿戏",
@@ -1259,6 +1267,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 1078807,
+      "num": 689883,
+      "word": "刺痛减肥",
+      "onboard_time": 1728464120,
+      "rank": 7,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 1069679,
       "num": 1069679,
       "word": "股市",
@@ -1555,6 +1571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 999594,
+      "num": 605626,
+      "word": "两个月后日本找到伤害中国游客凶手",
+      "onboard_time": 1728465020,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 998421,
       "num": 443759,
       "word": "A股遭遇背刺",
@@ -1788,7 +1812,7 @@
     },
     {
       "raw_hot": 926892,
-      "num": 926892,
+      "num": 1123108,
       "word": "韩国回应朝鲜永久切断朝韩道路连接",
       "onboard_time": 1728463579,
       "rank": 1,
@@ -2017,6 +2041,14 @@
       "onboard_time": 1727792360,
       "rank": 46,
       "category": "电影"
+    },
+    {
+      "raw_hot": 847895,
+      "num": 244116,
+      "word": "鼻子手术多次后畸形医生不愿接单",
+      "onboard_time": 1728466279,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 846741,
@@ -2809,14 +2841,6 @@
       "onboard_time": 1728048259,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 689883,
-      "num": 689883,
-      "word": "刺痛减肥",
-      "onboard_time": 1728464120,
-      "rank": 7,
-      "category": "电竞"
     },
     {
       "raw_hot": 689195,
@@ -3819,6 +3843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 565160,
+      "num": 249192,
+      "word": "至上励合",
+      "onboard_time": 1728466038,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 564621,
       "num": 564621,
       "word": "人人人人人广州人人人人人",
@@ -4161,6 +4193,14 @@
       "onboard_time": 1728375079,
       "rank": 23,
       "category": "财经"
+    },
+    {
+      "raw_hot": 524286,
+      "num": 469938,
+      "word": "很多校园霸凌是从欺负开始的",
+      "onboard_time": 1728464838,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 523623,
@@ -5051,14 +5091,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 441378,
-      "num": 469938,
-      "word": "很多校园霸凌是从欺负开始的",
-      "onboard_time": 1728464838,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 439282,
       "num": 439282,
       "word": "高铁晚点",
@@ -5129,6 +5161,14 @@
       "onboard_time": 1728308300,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 429451,
+      "num": 429451,
+      "word": "2024年诺贝尔化学奖揭晓",
+      "onboard_time": 1728468319,
+      "rank": 5,
+      "category": "科学科普"
     },
     {
       "raw_hot": 429340,
@@ -5713,6 +5753,14 @@
       "onboard_time": 1728013039,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 384367,
+      "num": 244016,
+      "word": "aespa成员solo曲上线",
+      "onboard_time": 1728466100,
+      "rank": 27,
+      "category": "音乐"
     },
     {
       "raw_hot": 383982,
@@ -7523,14 +7571,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 289809,
-      "num": 605626,
-      "word": "两个月后日本找到伤害中国游客凶手",
-      "onboard_time": 1728465020,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 289629,
       "num": 289629,
       "word": "鹿 你一边去吧该我了",
@@ -7593,6 +7633,14 @@
       "onboard_time": 1727855178,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 287286,
+      "num": 243879,
+      "word": "柳智敏UP Melon曲线",
+      "onboard_time": 1728466639,
+      "rank": 46,
+      "category": "音乐"
     },
     {
       "raw_hot": 287154,
@@ -8707,6 +8755,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 255106,
+      "num": 243740,
+      "word": "张石头被于正签约9月已从高校离职",
+      "onboard_time": 1728467420,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 254739,
       "num": 254739,
       "word": "蚊子包下不去女生直接用针扎",
@@ -8859,14 +8915,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 249192,
-      "num": 249192,
-      "word": "至上励合",
-      "onboard_time": 1728466038,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 248841,
       "num": 248841,
       "word": "半熟男女大结局",
@@ -8889,14 +8937,6 @@
       "onboard_time": 1728092478,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 248164,
-      "num": 240046,
-      "word": "aespa成员solo曲上线",
-      "onboard_time": 1728466100,
-      "rank": 27,
-      "category": "音乐"
     },
     {
       "raw_hot": 247997,
@@ -9073,6 +9113,14 @@
       "onboard_time": 1728363321,
       "rank": 13,
       "category": "财经"
+    },
+    {
+      "raw_hot": 243698,
+      "num": 243698,
+      "word": "9岁女童溺亡案嫌疑人系同村男孩",
+      "onboard_time": 1728468740,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 243689,
@@ -11259,14 +11307,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 198980,
-      "num": 198980,
-      "word": "鼻子手术多次后畸形医生不愿接单",
-      "onboard_time": 1728466279,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 198972,
       "num": 198972,
       "word": "港股大幅跳水",
@@ -11945,6 +11985,14 @@
       "onboard_time": 1728190159,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 193003,
+      "num": 193003,
+      "word": "朴山多拉发了与Jennie合照",
+      "onboard_time": 1728467299,
+      "rank": 37,
+      "category": "演出"
     },
     {
       "raw_hot": 192859,
@@ -13115,6 +13163,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 177741,
+      "num": 177741,
+      "word": "为什么牛市是散户亏钱主要原因",
+      "onboard_time": 1728467539,
+      "rank": 39,
+      "category": "财经"
+    },
+    {
       "raw_hot": 177538,
       "num": 177538,
       "word": "牛吃草为什么突然停顿一下",
@@ -13465,6 +13521,14 @@
       "onboard_time": 1728120618,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 173427,
+      "num": 173427,
+      "word": "A股最难熬的时候已过去",
+      "onboard_time": 1728469158,
+      "rank": 40,
+      "category": "互联网"
     },
     {
       "raw_hot": 173371,
@@ -13937,6 +14001,22 @@
       "onboard_time": 1727956640,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 167548,
+      "num": 167548,
+      "word": "日本女团3比1印度女团",
+      "onboard_time": 1728467420,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 167539,
+      "num": 244212,
+      "word": "菲律宾绑匪收到赎金后释放中国女子",
+      "onboard_time": 1728467481,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 167524,
@@ -14467,14 +14547,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 161210,
-      "num": 161210,
-      "word": "柳智敏UP Melon曲线",
-      "onboard_time": 1728466639,
-      "rank": 46,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 161198,
       "num": 161198,
       "word": "我爱你中国千千万万遍",
@@ -14617,6 +14689,14 @@
       "onboard_time": 1727954900,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 159093,
+      "num": 159093,
+      "word": "第五人格设计思路",
+      "onboard_time": 1728467539,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 159057,
@@ -14769,6 +14849,14 @@
       "onboard_time": 1728355701,
       "rank": 48,
       "category": "财经"
+    },
+    {
+      "raw_hot": 157706,
+      "num": 157706,
+      "word": "日本政府不想首相露肚子而P图",
+      "onboard_time": 1728469158,
+      "rank": 45,
+      "category": "国外时政"
     },
     {
       "raw_hot": 157628,
@@ -15107,6 +15195,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 154506,
+      "num": 243849,
+      "word": "周雨彤 入行十年从没有目标",
+      "onboard_time": 1728467061,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 154422,
       "num": 154422,
       "word": "朱一龙主演电影票房破110亿",
@@ -15289,6 +15385,14 @@
       "onboard_time": 1727871259,
       "rank": 41,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 152863,
+      "num": 152863,
+      "word": "日本女团晋级亚锦赛决赛",
+      "onboard_time": 1728468858,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 152851,
@@ -24067,6 +24171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 47321,
+      "num": 244250,
+      "word": "李静分享减脂指南",
+      "onboard_time": 1728468979,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 47264,
       "num": 47264,
       "word": "莫雷加德希望再来北京比赛",
@@ -24224,6 +24336,14 @@
       "word": "男子住民宿凌晨2点遭陌生人闯门",
       "onboard_time": 1728365120,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 45048,
+      "num": 244584,
+      "word": "苗疆陈朵朵或将面临罚款",
+      "onboard_time": 1728467840,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -25203,6 +25323,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 31370,
+      "num": 244393,
+      "word": "想你的风不能随意吹到哀牢山",
+      "onboard_time": 1728468200,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 31257,
       "num": 169347,
       "word": "阿云嘎说出入平安拍得特别压抑",
@@ -26169,6 +26297,14 @@
       "onboard_time": 1727898312,
       "rank": 47,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 19350,
+      "num": 244370,
+      "word": "想和刘亦菲一样愉悦",
+      "onboard_time": 1728468500,
+      "rank": 15,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 19286,
