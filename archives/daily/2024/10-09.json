@@ -1,6 +1,6 @@
 {
   "startTime": 1728404919019,
-  "endTime": 1728459345159,
+  "endTime": 1728462529957,
   "band_list": [
     {
       "raw_hot": 3282482,
@@ -8,6 +8,14 @@
       "word": "女子腱鞘炎看医生挤出透明胶状物",
       "onboard_time": 1728440899,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2870834,
+      "num": 244153,
+      "word": "女子怀孕3个月连吃6只螃蟹后流产",
+      "onboard_time": 1728460520,
+      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -41,6 +49,14 @@
       "onboard_time": 1728439880,
       "rank": 0,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 1874398,
+      "num": 243793,
+      "word": "江歌妈妈",
+      "onboard_time": 1728458899,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1857508,
@@ -171,6 +187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 964810,
+      "num": 1154369,
+      "word": "A股后续将迎第二波上涨行情",
+      "onboard_time": 1728458720,
+      "rank": 17,
+      "category": "财经"
+    },
+    {
       "raw_hot": 936519,
       "num": 936519,
       "word": "三人行必有我师焉其实缺了一个字",
@@ -251,6 +275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 715035,
+      "num": 243151,
+      "word": "李静从160斤瘦到了105斤",
+      "onboard_time": 1728461840,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 704577,
       "num": 704577,
       "word": "国乒女团vs朝鲜",
@@ -313,6 +345,14 @@
       "onboard_time": 1728442459,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 595538,
+      "num": 242153,
+      "word": "张远给马雪阳88888.88红包",
+      "onboard_time": 1728458179,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 592361,
@@ -409,6 +449,14 @@
       "onboard_time": 1728395362,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 498666,
+      "num": 498666,
+      "word": "孙颖莎谈逆转战胜朝鲜队",
+      "onboard_time": 1728459618,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 498000,
@@ -547,12 +595,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 379000,
-      "num": 239157,
-      "word": "张远给马雪阳88888.88红包",
-      "onboard_time": 1728458179,
-      "rank": 39,
-      "category": "艺人"
+      "raw_hot": 392158,
+      "num": 392158,
+      "word": "第五人格 皮套",
+      "onboard_time": 1728458479,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 378450,
@@ -635,14 +683,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 311034,
-      "num": 311034,
-      "word": "A股后续将迎第二波上涨行情",
-      "onboard_time": 1728458720,
-      "rank": 17,
-      "category": "财经"
-    },
-    {
       "raw_hot": 309404,
       "num": 414916,
       "word": "陈幸同vs吴咏琳",
@@ -683,6 +723,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 289596,
+      "num": 289596,
+      "word": "黄油小熊咖啡",
+      "onboard_time": 1728461659,
+      "rank": 6,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 283954,
+      "num": 309390,
+      "word": "校园欺凌是不少抑郁孩子的病因之一",
+      "onboard_time": 1728455960,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 283317,
       "num": 283317,
       "word": "胡歌林依晨聚餐合照",
@@ -705,6 +761,14 @@
       "onboard_time": 1728438318,
       "rank": 23,
       "category": "财经"
+    },
+    {
+      "raw_hot": 281811,
+      "num": 259244,
+      "word": "张婉莹回应",
+      "onboard_time": 1728457519,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 281073,
@@ -779,12 +843,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 256653,
-      "num": 349313,
-      "word": "第五人格 皮套",
-      "onboard_time": 1728458479,
-      "rank": 47,
-      "category": "游戏"
+      "raw_hot": 254211,
+      "num": 254211,
+      "word": "心动的信号",
+      "onboard_time": 1728457759,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 251945,
@@ -817,6 +881,14 @@
       "onboard_time": 1728451699,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 244169,
+      "num": 244169,
+      "word": "哀牢山调查人员回应苗疆陈朵朵道歉",
+      "onboard_time": 1728460219,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 243223,
@@ -915,6 +987,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 224886,
+      "num": 224886,
+      "word": "拜登宣布未来10年将更换铅管",
+      "onboard_time": 1728459318,
+      "rank": 40,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 224577,
       "num": 291798,
       "word": "红斑狼疮治疗在杭州实现全球重大突破",
@@ -963,6 +1043,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 213487,
+      "num": 213487,
+      "word": "我的宝藏家乡",
+      "onboard_time": 1728459858,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 213167,
       "num": 213167,
       "word": "微信文字讨好症",
@@ -987,12 +1075,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 206339,
-      "num": 309390,
-      "word": "校园欺凌是不少抑郁孩子的病因之一",
-      "onboard_time": 1728455960,
-      "rank": 47,
-      "category": "社会新闻"
+      "raw_hot": 207104,
+      "num": 207104,
+      "word": "A股倒车接人还是反弹结束",
+      "onboard_time": 1728461960,
+      "rank": 33,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 205403,
@@ -1027,6 +1115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 200925,
+      "num": 200925,
+      "word": "雷军澄清近期雷军AI配音",
+      "onboard_time": 1728462379,
+      "rank": 38,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 200554,
       "num": 426326,
       "word": "森林进化论2定档",
@@ -1049,6 +1145,14 @@
       "onboard_time": 1728388040,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 198256,
+      "num": 198256,
+      "word": "韩娱四大墙头",
+      "onboard_time": 1728460699,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 198220,
@@ -1107,14 +1211,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 192833,
-      "num": 192833,
-      "word": "江歌妈妈",
-      "onboard_time": 1728458899,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 191520,
       "num": 191520,
       "word": "秦昊 付辛博很多年前是厉害的组合",
@@ -1123,12 +1219,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 191283,
-      "num": 191283,
-      "word": "拜登宣布未来10年将更换铅管",
-      "onboard_time": 1728459318,
+      "raw_hot": 187643,
+      "num": 187643,
+      "word": "桂林嗦粉小队龙脊梯田集结",
+      "onboard_time": 1728461960,
       "rank": 40,
-      "category": "国外时政"
+      "category": "美食"
     },
     {
       "raw_hot": 184471,
@@ -1227,6 +1323,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 171987,
+      "num": 227149,
+      "word": "再见爱人4",
+      "onboard_time": 1728460938,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 170516,
       "num": 170516,
       "word": "石洵瑶3比2车秀英",
@@ -1291,6 +1395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 157340,
+      "num": 242597,
+      "word": "秦昊 八份作业",
+      "onboard_time": 1728462080,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 156415,
       "num": 156415,
       "word": "火锅店老板栾留伟上榜见义勇为榜",
@@ -1323,6 +1435,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 151559,
+      "num": 151559,
+      "word": "第五人格",
+      "onboard_time": 1728434480,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 151051,
       "num": 368125,
       "word": "当地管护局回应女博主露营哀牢山",
@@ -1337,6 +1457,14 @@
       "onboard_time": 1728451278,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 149870,
+      "num": 149870,
+      "word": "哈妮克孜 中式梦核美人图",
+      "onboard_time": 1728462319,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 149708,
@@ -1387,12 +1515,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 141555,
-      "num": 149999,
-      "word": "心动的信号",
-      "onboard_time": 1728457759,
-      "rank": 48,
-      "category": "综艺"
+      "raw_hot": 142704,
+      "num": 203758,
+      "word": "七夜雪中式留白美学",
+      "onboard_time": 1728461299,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 140925,
@@ -1611,6 +1739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 97226,
+      "num": 243985,
+      "word": "谁是中国第一个吃螃蟹的人",
+      "onboard_time": 1728459141,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 95342,
       "num": 95342,
       "word": "金珉奎wvs更新",
@@ -1795,14 +1931,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 54802,
-      "num": 259244,
-      "word": "张婉莹回应",
-      "onboard_time": 1728457519,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 54558,
       "num": 325926,
       "word": "于正晒张石头立案告知书",
@@ -1867,11 +1995,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 38521,
-      "num": 185865,
-      "word": "谁是中国第一个吃螃蟹的人",
-      "onboard_time": 1728459141,
-      "rank": 41,
+      "raw_hot": 38094,
+      "num": 242384,
+      "word": "哀牢山景区可赏禁区当敬",
+      "onboard_time": 1728462379,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -1969,6 +2097,14 @@
       "onboard_time": 1728417910,
       "rank": 9,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 30098,
+      "num": 243373,
+      "word": "专业人士曾称哀牢山救援难度全国第一",
+      "onboard_time": 1728461539,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 26950,

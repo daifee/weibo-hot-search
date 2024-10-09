@@ -1,6 +1,6 @@
 {
   "startTime": 1728145573126,
-  "endTime": 1728459345159,
+  "endTime": 1728462529957,
   "band_list": [
     {
       "raw_hot": 12210422,
@@ -97,6 +97,14 @@
       "onboard_time": 1728208399,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2870834,
+      "num": 244153,
+      "word": "女子怀孕3个月连吃6只螃蟹后流产",
+      "onboard_time": 1728460520,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2832606,
@@ -248,6 +256,14 @@
       "word": "哀牢山本地人发声",
       "onboard_time": 1728172157,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1874398,
+      "num": 243793,
+      "word": "江歌妈妈",
+      "onboard_time": 1728458899,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -915,6 +931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 964810,
+      "num": 1154369,
+      "word": "A股后续将迎第二波上涨行情",
+      "onboard_time": 1728458720,
+      "rank": 17,
+      "category": "财经"
+    },
+    {
       "raw_hot": 961319,
       "num": 472566,
       "word": "当地回应新娘哥嫂临时加彩礼18万",
@@ -1379,6 +1403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 715035,
+      "num": 243151,
+      "word": "李静从160斤瘦到了105斤",
+      "onboard_time": 1728461840,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 712625,
       "num": 509672,
       "word": "新西兰一艘5700吨军舰沉没",
@@ -1715,6 +1747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 595538,
+      "num": 242153,
+      "word": "张远给马雪阳88888.88红包",
+      "onboard_time": 1728458179,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 592361,
       "num": 458156,
       "word": "A股低开",
@@ -2017,6 +2057,14 @@
       "onboard_time": 1728172936,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 498666,
+      "num": 498666,
+      "word": "孙颖莎谈逆转战胜朝鲜队",
+      "onboard_time": 1728459618,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 498000,
@@ -2587,6 +2635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 392158,
+      "num": 392158,
+      "word": "第五人格 皮套",
+      "onboard_time": 1728458479,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 392135,
       "num": 520402,
       "word": "大冰 西梅",
@@ -2673,14 +2729,6 @@
       "onboard_time": 1728200898,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 379000,
-      "num": 239157,
-      "word": "张远给马雪阳88888.88红包",
-      "onboard_time": 1728458179,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 378450,
@@ -3188,7 +3236,7 @@
     },
     {
       "raw_hot": 322007,
-      "num": 223936,
+      "num": 254211,
       "word": "心动的信号",
       "onboard_time": 1728275239,
       "rank": 24,
@@ -3281,14 +3329,6 @@
       "onboard_time": 1728216681,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 311034,
-      "num": 311034,
-      "word": "A股后续将迎第二波上涨行情",
-      "onboard_time": 1728458720,
-      "rank": 17,
-      "category": "财经"
     },
     {
       "raw_hot": 310872,
@@ -3539,6 +3579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 289596,
+      "num": 289596,
+      "word": "黄油小熊咖啡",
+      "onboard_time": 1728461659,
+      "rank": 6,
+      "category": "美食"
+    },
+    {
       "raw_hot": 289355,
       "num": 289355,
       "word": "长沙南站停电",
@@ -3611,6 +3659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 283954,
+      "num": 309390,
+      "word": "校园欺凌是不少抑郁孩子的病因之一",
+      "onboard_time": 1728455960,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 283764,
       "num": 283764,
       "word": "外媒曝乌克兰闭门讨论出让部分领土",
@@ -3657,6 +3713,14 @@
       "onboard_time": 1728287122,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 281811,
+      "num": 259244,
+      "word": "张婉莹回应",
+      "onboard_time": 1728457519,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 281499,
@@ -3971,14 +4035,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 256653,
-      "num": 349313,
-      "word": "第五人格 皮套",
-      "onboard_time": 1728458479,
-      "rank": 47,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 256386,
       "num": 391894,
       "word": "38城平均招聘月薪10058元",
@@ -4161,6 +4217,14 @@
       "onboard_time": 1728361821,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 244169,
+      "num": 244169,
+      "word": "哀牢山调查人员回应苗疆陈朵朵道歉",
+      "onboard_time": 1728460219,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 243808,
@@ -4499,6 +4563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 224886,
+      "num": 224886,
+      "word": "拜登宣布未来10年将更换铅管",
+      "onboard_time": 1728459318,
+      "rank": 40,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 224705,
       "num": 224705,
       "word": "Bin",
@@ -4755,6 +4827,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 213487,
+      "num": 213487,
+      "word": "我的宝藏家乡",
+      "onboard_time": 1728459858,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 213167,
       "num": 213167,
       "word": "微信文字讨好症",
@@ -4915,6 +4995,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 207104,
+      "num": 207104,
+      "word": "A股倒车接人还是反弹结束",
+      "onboard_time": 1728461960,
+      "rank": 33,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 206554,
       "num": 206554,
       "word": "王楚钦喊出来了",
@@ -4928,14 +5016,6 @@
       "word": "情侣连续两次偷渡妄想去境外淘金",
       "onboard_time": 1728143178,
       "rank": 26,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 206339,
-      "num": 309390,
-      "word": "校园欺凌是不少抑郁孩子的病因之一",
-      "onboard_time": 1728455960,
-      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -5123,6 +5203,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 200925,
+      "num": 200925,
+      "word": "雷军澄清近期雷军AI配音",
+      "onboard_time": 1728462379,
+      "rank": 38,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 200879,
       "num": 200879,
       "word": "YG女团三世同堂",
@@ -5241,6 +5329,14 @@
       "onboard_time": 1728362361,
       "rank": 49,
       "category": "教育"
+    },
+    {
+      "raw_hot": 198256,
+      "num": 198256,
+      "word": "韩娱四大墙头",
+      "onboard_time": 1728460699,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 198220,
@@ -5451,14 +5547,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 192833,
-      "num": 192833,
-      "word": "江歌妈妈",
-      "onboard_time": 1728458899,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 192752,
       "num": 192752,
       "word": "沈梦瑶被新人夸了三次",
@@ -5505,14 +5593,6 @@
       "onboard_time": 1728414551,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 191283,
-      "num": 191283,
-      "word": "拜登宣布未来10年将更换铅管",
-      "onboard_time": 1728459318,
-      "rank": 40,
-      "category": "国外时政"
     },
     {
       "raw_hot": 191174,
@@ -5601,6 +5681,14 @@
       "onboard_time": 1728387321,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 187643,
+      "num": 187643,
+      "word": "桂林嗦粉小队龙脊梯田集结",
+      "onboard_time": 1728461960,
+      "rank": 40,
+      "category": "美食"
     },
     {
       "raw_hot": 186959,
@@ -6139,6 +6227,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 171987,
+      "num": 227149,
+      "word": "再见爱人4",
+      "onboard_time": 1728460938,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 171260,
       "num": 171260,
       "word": "女推2刚开录就玩上cosplay了",
@@ -6635,6 +6731,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 157340,
+      "num": 242597,
+      "word": "秦昊 八份作业",
+      "onboard_time": 1728462080,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 157328,
       "num": 157328,
       "word": "咪咕信号中断",
@@ -6961,6 +7065,14 @@
       "onboard_time": 1728143119,
       "rank": 28,
       "category": "数码"
+    },
+    {
+      "raw_hot": 149870,
+      "num": 149870,
+      "word": "哈妮克孜 中式梦核美人图",
+      "onboard_time": 1728462319,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 149757,
@@ -7297,6 +7409,14 @@
       "onboard_time": 1728176478,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 142704,
+      "num": 203758,
+      "word": "七夜雪中式留白美学",
+      "onboard_time": 1728461299,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 142237,
@@ -8835,6 +8955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 97226,
+      "num": 243985,
+      "word": "谁是中国第一个吃螃蟹的人",
+      "onboard_time": 1728459141,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 97117,
       "num": 229191,
       "word": "在奶茶店兼职后发现体力活并不治愈",
@@ -9835,14 +9963,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 54802,
-      "num": 259244,
-      "word": "张婉莹回应",
-      "onboard_time": 1728457519,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 54558,
       "num": 325926,
       "word": "于正晒张石头立案告知书",
@@ -10251,11 +10371,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 38521,
-      "num": 185865,
-      "word": "谁是中国第一个吃螃蟹的人",
-      "onboard_time": 1728459141,
-      "rank": 41,
+      "raw_hot": 38094,
+      "num": 242384,
+      "word": "哀牢山景区可赏禁区当敬",
+      "onboard_time": 1728462379,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -10600,6 +10720,14 @@
       "word": "未来10天全国大部气温偏高",
       "onboard_time": 1728324973,
       "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 30098,
+      "num": 243373,
+      "word": "专业人士曾称哀牢山救援难度全国第一",
+      "onboard_time": 1728461539,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
