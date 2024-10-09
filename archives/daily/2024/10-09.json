@@ -1,6 +1,6 @@
 {
   "startTime": 1728404919019,
-  "endTime": 1728484807293,
+  "endTime": 1728487455636,
   "band_list": [
     {
       "raw_hot": 3282482,
@@ -97,6 +97,14 @@
       "onboard_time": 1728434000,
       "rank": 3,
       "category": "财经"
+    },
+    {
+      "raw_hot": 1439042,
+      "num": 1439042,
+      "word": "孙颖莎vs伊藤美诚",
+      "onboard_time": 1728486020,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 1413983,
@@ -272,6 +280,14 @@
       "word": "女子投放死虫6次敲诈海底捞",
       "onboard_time": 1728475879,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1015686,
+      "num": 337366,
+      "word": "女子5年花光50万积蓄追发财梦",
+      "onboard_time": 1728482660,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -523,6 +539,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 606426,
+      "num": 606426,
+      "word": "王艺迪vs张本美和",
+      "onboard_time": 1728483321,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 599687,
       "num": 599687,
       "word": "业内提醒散户有问题的公司不要碰",
@@ -603,6 +627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 558221,
+      "num": 558221,
+      "word": "王艺迪2比3张本美和",
+      "onboard_time": 1728486020,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 546621,
       "num": 611997,
       "word": "胡歌刘诗诗一起录综艺了",
@@ -625,14 +657,6 @@
       "onboard_time": 1728436039,
       "rank": 11,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 528869,
-      "num": 528869,
-      "word": "王艺迪vs张本美和",
-      "onboard_time": 1728483321,
-      "rank": 17,
-      "category": "体育"
     },
     {
       "raw_hot": 524683,
@@ -859,6 +883,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 412860,
+      "num": 293403,
+      "word": "河南高校回应女教师被于正签约",
+      "onboard_time": 1728483920,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 410672,
       "num": 622394,
       "word": "宋茜cue迪丽热巴新疆舞",
@@ -915,6 +947,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 371151,
+      "num": 334829,
+      "word": "国乒女团0比1日本",
+      "onboard_time": 1728486381,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 364598,
       "num": 364598,
       "word": "全锦赛",
@@ -953,14 +993,6 @@
       "onboard_time": 1728400401,
       "rank": 6,
       "category": "体育"
-    },
-    {
-      "raw_hot": 346670,
-      "num": 259572,
-      "word": "河南高校回应女教师被于正签约",
-      "onboard_time": 1728483920,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 345640,
@@ -1011,6 +1043,14 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 328769,
+      "num": 328769,
+      "word": "这是中法文化的双向奔赴",
+      "onboard_time": 1728483738,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 328005,
       "num": 316701,
       "word": "长期吃辣的人都怎么样了",
@@ -1024,6 +1064,14 @@
       "word": "2NE1与Jennie合照",
       "onboard_time": 1728439579,
       "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 322517,
+      "num": 322517,
+      "word": "时代少年团 台州",
+      "onboard_time": 1728483803,
+      "rank": 24,
       "category": "艺人"
     },
     {
@@ -1115,14 +1163,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 289766,
-      "num": 259282,
-      "word": "时代少年团 台州",
-      "onboard_time": 1728483803,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 288141,
       "num": 310120,
       "word": "郑钦文幽默回应冠军积分升至第7",
@@ -1211,6 +1251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 279277,
+      "num": 338459,
+      "word": "七夜雪 抠图",
+      "onboard_time": 1728481761,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 270521,
       "num": 485094,
       "word": "恩利欧阳娜娜姐妹合照",
@@ -1243,14 +1291,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 266320,
-      "num": 302163,
-      "word": "七夜雪 抠图",
-      "onboard_time": 1728481761,
-      "rank": 21,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 265410,
       "num": 265410,
       "word": "理记",
@@ -1273,6 +1313,14 @@
       "onboard_time": 1728442219,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 261410,
+      "num": 337654,
+      "word": "中国文化的风早已吹到了法国",
+      "onboard_time": 1728485001,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 258713,
@@ -1475,6 +1523,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 225436,
+      "num": 225436,
+      "word": "记者深入哀牢山突遇浓雾",
+      "onboard_time": 1728485121,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 225340,
       "num": 225340,
       "word": "学信网",
@@ -1595,6 +1651,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 208787,
+      "num": 208787,
+      "word": "最能坚持的减肥运动找到了",
+      "onboard_time": 1728485661,
+      "rank": 32,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 207130,
       "num": 447678,
       "word": "霉霉成全球最富女歌手",
@@ -1617,6 +1681,14 @@
       "onboard_time": 1728472340,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 205584,
+      "num": 205584,
+      "word": "刺痛健身vlog",
+      "onboard_time": 1728486201,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 205403,
@@ -1763,6 +1835,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 195885,
+      "num": 195885,
+      "word": "朱婷加盟科内利亚诺",
+      "onboard_time": 1728485060,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 195401,
       "num": 195401,
       "word": "小伙想找女友花40万打赏陪聊",
@@ -1817,6 +1897,14 @@
       "onboard_time": 1728467299,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 191649,
+      "num": 321755,
+      "word": "GiselleSolo曲歌词",
+      "onboard_time": 1728486499,
+      "rank": 19,
+      "category": "音乐"
     },
     {
       "raw_hot": 191520,
@@ -2355,12 +2443,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 145895,
+      "num": 145895,
+      "word": "记者探访哀牢山遭遇浓雾",
+      "onboard_time": 1728486920,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 145332,
       "num": 145332,
       "word": "朱志鑫Dance拍摄over",
       "onboard_time": 1728484580,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 144908,
+      "num": 225128,
+      "word": "边伯贤翻唱BIGBANG谎言",
+      "onboard_time": 1728485661,
+      "rank": 26,
+      "category": "音乐"
     },
     {
       "raw_hot": 143727,
@@ -2483,6 +2587,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 132476,
+      "num": 132476,
+      "word": "2024乒乓球全锦赛名单",
+      "onboard_time": 1728486201,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 132174,
       "num": 132174,
       "word": "A股创业板指盘初跌幅迅速扩大至7%",
@@ -2555,11 +2667,11 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 128571,
-      "num": 265907,
-      "word": "这是中法文化的双向奔赴",
-      "onboard_time": 1728483738,
-      "rank": 9,
+      "raw_hot": 128384,
+      "num": 128384,
+      "word": "镇政府回应男子杀害3名亲戚",
+      "onboard_time": 1728486619,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -2631,14 +2743,6 @@
       "num": 119565,
       "word": "秒杀没开始团伙已经抢到商品",
       "onboard_time": 1728410353,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 118571,
-      "num": 337244,
-      "word": "女子5年花光50万积蓄追发财梦",
-      "onboard_time": 1728482660,
       "rank": 14,
       "category": "社会新闻"
     },
@@ -3257,6 +3361,14 @@
       "onboard_time": 1728412811,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 26046,
+      "num": 335116,
+      "word": "校外培训机构无办学资质仍正常营业",
+      "onboard_time": 1728486441,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 25741,

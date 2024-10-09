@@ -1,6 +1,6 @@
 {
   "startTime": 1728145573126,
-  "endTime": 1728484807293,
+  "endTime": 1728487455636,
   "band_list": [
     {
       "raw_hot": 12210422,
@@ -401,6 +401,14 @@
       "onboard_time": 1728222500,
       "rank": 3,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 1439042,
+      "num": 1439042,
+      "word": "孙颖莎vs伊藤美诚",
+      "onboard_time": 1728486020,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 1417596,
@@ -936,6 +944,14 @@
       "word": "女子投放死虫6次敲诈海底捞",
       "onboard_time": 1728475879,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1015686,
+      "num": 337366,
+      "word": "女子5年花光50万积蓄追发财梦",
+      "onboard_time": 1728482660,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -1915,6 +1931,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 606426,
+      "num": 606426,
+      "word": "王艺迪vs张本美和",
+      "onboard_time": 1728483321,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 604325,
       "num": 604325,
       "word": "孙颖莎说明天就要出发去亚锦赛",
@@ -2091,6 +2115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 558221,
+      "num": 558221,
+      "word": "王艺迪2比3张本美和",
+      "onboard_time": 1728486020,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 554365,
       "num": 385099,
       "word": "怎么看待10点这场国新办发布会",
@@ -2161,14 +2193,6 @@
       "onboard_time": 1728193459,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 528869,
-      "num": 528869,
-      "word": "王艺迪vs张本美和",
-      "onboard_time": 1728483321,
-      "rank": 17,
-      "category": "体育"
     },
     {
       "raw_hot": 524683,
@@ -2795,6 +2819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 412860,
+      "num": 293403,
+      "word": "河南高校回应女教师被于正签约",
+      "onboard_time": 1728483920,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 411659,
       "num": 278377,
       "word": "天蝎座为什么总是不开心",
@@ -3107,6 +3139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 371151,
+      "num": 334829,
+      "word": "国乒女团0比1日本",
+      "onboard_time": 1728486381,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 370935,
       "num": 370935,
       "word": "三四岁儿童背几个包裹逃离黎巴嫩",
@@ -3371,14 +3411,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 346670,
-      "num": 259572,
-      "word": "河南高校回应女教师被于正签约",
-      "onboard_time": 1728483920,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 345483,
       "num": 314133,
       "word": "陈奕迅 谢谢你们没退票",
@@ -3515,6 +3547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 328769,
+      "num": 328769,
+      "word": "这是中法文化的双向奔赴",
+      "onboard_time": 1728483738,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 328672,
       "num": 410631,
       "word": "文泰一事件受害者是外国女性",
@@ -3585,6 +3625,14 @@
       "onboard_time": 1728119658,
       "rank": 17,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 322517,
+      "num": 322517,
+      "word": "时代少年团 台州",
+      "onboard_time": 1728483803,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 322424,
@@ -3971,14 +4019,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 289766,
-      "num": 259282,
-      "word": "时代少年团 台州",
-      "onboard_time": 1728483803,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 289355,
       "num": 289355,
       "word": "长沙南站停电",
@@ -4179,6 +4219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 279277,
+      "num": 338459,
+      "word": "七夜雪 抠图",
+      "onboard_time": 1728481761,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 279158,
       "num": 279158,
       "word": "返校车厢里全是碎掉的大学生",
@@ -4339,14 +4387,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 266320,
-      "num": 302163,
-      "word": "七夜雪 抠图",
-      "onboard_time": 1728481761,
-      "rank": 21,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 265444,
       "num": 265444,
       "word": "黄子韬公司艺人泰创面试",
@@ -4425,6 +4465,14 @@
       "onboard_time": 1728310402,
       "rank": 27,
       "category": "美食"
+    },
+    {
+      "raw_hot": 261410,
+      "num": 337654,
+      "word": "中国文化的风早已吹到了法国",
+      "onboard_time": 1728485001,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 260834,
@@ -5043,6 +5091,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 225436,
+      "num": 225436,
+      "word": "记者深入哀牢山突遇浓雾",
+      "onboard_time": 1728485121,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 225433,
       "num": 225433,
       "word": "粉笔模考",
@@ -5459,6 +5515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 208787,
+      "num": 208787,
+      "word": "最能坚持的减肥运动找到了",
+      "onboard_time": 1728485661,
+      "rank": 32,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 208376,
       "num": 208376,
       "word": "亚锦赛",
@@ -5593,6 +5657,14 @@
       "onboard_time": 1728190759,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 205584,
+      "num": 205584,
+      "word": "刺痛健身vlog",
+      "onboard_time": 1728486201,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 205403,
@@ -5987,6 +6059,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 195885,
+      "num": 195885,
+      "word": "朱婷加盟科内利亚诺",
+      "onboard_time": 1728485060,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 195845,
       "num": 195845,
       "word": "郑钦文奖金创生涯新高",
@@ -6185,6 +6265,14 @@
       "onboard_time": 1728210858,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 191649,
+      "num": 321755,
+      "word": "GiselleSolo曲歌词",
+      "onboard_time": 1728486499,
+      "rank": 19,
+      "category": "音乐"
     },
     {
       "raw_hot": 191520,
@@ -8123,6 +8211,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 145895,
+      "num": 145895,
+      "word": "记者探访哀牢山遭遇浓雾",
+      "onboard_time": 1728486920,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 145821,
       "num": 145821,
       "word": "仙逆",
@@ -8153,6 +8249,14 @@
       "onboard_time": 1728484580,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 144908,
+      "num": 225128,
+      "word": "边伯贤翻唱BIGBANG谎言",
+      "onboard_time": 1728485661,
+      "rank": 26,
+      "category": "音乐"
     },
     {
       "raw_hot": 144903,
@@ -8651,6 +8755,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 132476,
+      "num": 132476,
+      "word": "2024乒乓球全锦赛名单",
+      "onboard_time": 1728486201,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 132249,
       "num": 132249,
       "word": "杨千嬅重庆演唱会",
@@ -8875,20 +8987,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 128571,
-      "num": 265907,
-      "word": "这是中法文化的双向奔赴",
-      "onboard_time": 1728483738,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 128440,
       "num": 128440,
       "word": "尚雯婕粉丝也是军训上了",
       "onboard_time": 1728183437,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 128384,
+      "num": 128384,
+      "word": "镇政府回应男子杀害3名亲戚",
+      "onboard_time": 1728486619,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 128048,
@@ -9208,14 +9320,6 @@
       "word": "上海地铁",
       "onboard_time": 1728344237,
       "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 118571,
-      "num": 337244,
-      "word": "女子5年花光50万积蓄追发财梦",
-      "onboard_time": 1728482660,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -11961,6 +12065,14 @@
       "onboard_time": 1728331511,
       "rank": 47,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 26046,
+      "num": 335116,
+      "word": "校外培训机构无办学资质仍正常营业",
+      "onboard_time": 1728486441,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 25881,
