@@ -1,0 +1,410 @@
+{
+  "runTime": 1728463373159,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 935837,
+        "num": 1149734,
+        "word": "A股后续将迎第二波上涨行情",
+        "onboard_time": 1728458720,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 504839,
+        "num": 504839,
+        "word": "孙颖莎谈逆转战胜朝鲜队",
+        "onboard_time": 1728459618,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 7131,
+        "num": 428163,
+        "word": "我国加力推出增量政策重点在五方面",
+        "onboard_time": 1728444799,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 769830,
+        "num": 427721,
+        "word": "黄油小熊咖啡",
+        "onboard_time": 1728461659,
+        "rank": 3,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 412743,
+        "num": 412743,
+        "word": "金晨 我是来自中国的演员",
+        "onboard_time": 1728453258,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 356903,
+        "num": 356903,
+        "word": "第五人格 皮套",
+        "onboard_time": 1728458479,
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 348332,
+        "num": 348332,
+        "word": "雷军澄清近期雷军AI配音",
+        "onboard_time": 1728462379,
+        "rank": 6,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 325143,
+        "num": 325143,
+        "word": "哀牢山调查人员回应苗疆陈朵朵道歉",
+        "onboard_time": 1728460219,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260055,
+        "num": 324049,
+        "word": "再见爱人 黄圣依",
+        "onboard_time": 1728462740,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 247743,
+        "num": 321232,
+        "word": "校园欺凌是不少抑郁孩子的病因之一",
+        "onboard_time": 1728455960,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2606000,
+        "num": 316889,
+        "word": "女子怀孕3个月连吃6只螃蟹后流产",
+        "onboard_time": 1728460520,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126573,
+        "num": 315857,
+        "word": "谁是中国第一个吃螃蟹的人",
+        "onboard_time": 1728459141,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 313044,
+        "num": 313044,
+        "word": "四川户籍和身份证业务暂停办理",
+        "onboard_time": 1728455838,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1559787,
+        "num": 312729,
+        "word": "江歌妈妈",
+        "onboard_time": 1728458899,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1433745,
+        "num": 302421,
+        "word": "李静从160斤瘦到了105斤",
+        "onboard_time": 1728461840,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 508922,
+        "num": 298239,
+        "word": "张新成王玉雯被父母撮合过",
+        "onboard_time": 1728457218,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 507028,
+        "num": 291888,
+        "word": "理记 江歌妈妈",
+        "onboard_time": 1728454578,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 461597,
+        "num": 285394,
+        "word": "学历贬值下卷研究生还有意义吗",
+        "onboard_time": 1728457277,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 281616,
+        "num": 281616,
+        "word": "交警回应正规停放的车辆被拖走",
+        "onboard_time": 1728447141,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20032,
+        "num": 281117,
+        "word": "哀牢山景区可赏禁区当敬",
+        "onboard_time": 1728462379,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34951,
+        "num": 278450,
+        "word": "专业人士曾称哀牢山救援难度全国第一",
+        "onboard_time": 1728461539,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 892988,
+        "num": 276661,
+        "word": "苗疆陈朵朵道歉",
+        "onboard_time": 1728448281,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 523815,
+        "num": 275002,
+        "word": "张远给马雪阳88888.88红包",
+        "onboard_time": 1728458179,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 395473,
+        "num": 273653,
+        "word": "哀牢山拍写真当事人回应质疑",
+        "onboard_time": 1728453078,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220564,
+        "num": 270709,
+        "word": "心动的信号",
+        "onboard_time": 1728457759,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 327200,
+        "num": 269027,
+        "word": "男孩拍打隐翅虫后用错药物全身溃烂",
+        "onboard_time": 1728452478,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 311725,
+        "num": 267235,
+        "word": "女子怀孕工资从6000降到3000",
+        "onboard_time": 1728445701,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265777,
+        "num": 265777,
+        "word": "李茂托刘洲成给马雪阳份子钱",
+        "onboard_time": 1728456019,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166336,
+        "num": 258077,
+        "word": "花儿与少年第六季观后感",
+        "onboard_time": 1728462619,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151042,
+        "num": 250467,
+        "word": "再见爱人4",
+        "onboard_time": 1728460938,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 250397,
+        "num": 250397,
+        "word": "女子腱鞘炎看医生挤出透明胶状物",
+        "onboard_time": 1728440899,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240457,
+        "num": 240457,
+        "word": "A股倒车接人还是反弹结束",
+        "onboard_time": 1728461960,
+        "rank": 31,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 232078,
+        "num": 232078,
+        "word": "韩娱四大墙头",
+        "onboard_time": 1728460699,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 231337,
+        "num": 231337,
+        "word": "哈妮克孜 中式梦核美人图",
+        "onboard_time": 1728462319,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202124,
+        "num": 202124,
+        "word": "理记",
+        "onboard_time": 1728458360,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189599,
+        "num": 197963,
+        "word": "秦昊 八份作业",
+        "onboard_time": 1728462080,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196704,
+        "num": 196704,
+        "word": "拜登宣布未来10年将更换铅管",
+        "onboard_time": 1728459318,
+        "rank": 36,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 179715,
+        "num": 179715,
+        "word": "河南景区1元午餐实收多了913元",
+        "onboard_time": 1728454578,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175131,
+        "num": 175131,
+        "word": "我的宝藏家乡",
+        "onboard_time": 1728459858,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169620,
+        "num": 169620,
+        "word": "A股",
+        "onboard_time": 1728434000,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 169040,
+        "num": 169040,
+        "word": "影视飓风",
+        "onboard_time": 1728462979,
+        "rank": 40,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 150451,
+        "num": 150451,
+        "word": "A股巨震三大原因找到了",
+        "onboard_time": 1728449661,
+        "rank": 41,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 146690,
+        "num": 146690,
+        "word": "虞书欣撤回一个虞书欣",
+        "onboard_time": 1728453499,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139926,
+        "num": 139926,
+        "word": "警方通报昆明长水机场出境被坑钱",
+        "onboard_time": 1728451157,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138891,
+        "num": 138891,
+        "word": "A股开盘近5000只个股下跌",
+        "onboard_time": 1728438557,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 134628,
+        "num": 134628,
+        "word": "朝鲜宣布完全切断与韩国连接铁路公路",
+        "onboard_time": 1728439880,
+        "rank": 45,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 133448,
+        "num": 133448,
+        "word": "第五人格",
+        "onboard_time": 1728434480,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 130097,
+        "num": 130097,
+        "word": "任泽平",
+        "onboard_time": 1728463219,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 129790,
+        "num": 129790,
+        "word": "桂林嗦粉小队龙脊梯田集结",
+        "onboard_time": 1728461960,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 38281,
+        "num": 128154,
+        "word": "刘浩存灵感妆",
+        "onboard_time": 1728463098,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记关心的世界文化遗产#"
+    }
+  }
+}
