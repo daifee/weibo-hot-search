@@ -1,6 +1,6 @@
 {
   "startTime": 1728404919019,
-  "endTime": 1728445345509,
+  "endTime": 1728447973813,
   "band_list": [
     {
       "raw_hot": 3282482,
@@ -8,6 +8,14 @@
       "word": "女子腱鞘炎看医生挤出透明胶状物",
       "onboard_time": 1728440899,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2832606,
+      "num": 2832606,
+      "word": "女子怀孕工资从6000降到3000",
+      "onboard_time": 1728445701,
+      "rank": 0,
       "category": "社会新闻"
     },
     {
@@ -60,7 +68,7 @@
     },
     {
       "raw_hot": 1184046,
-      "num": 1040235,
+      "num": 1056639,
       "word": "17年的玩具我24年开了眼界",
       "onboard_time": 1728438619,
       "rank": 30,
@@ -83,6 +91,22 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 1069057,
+      "num": 548165,
+      "word": "顾客未买淀粉肠摊主刮下调料舔掉",
+      "onboard_time": 1728444320,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1051087,
+      "num": 1051087,
+      "word": "和秦昊吵架后伊能静把两人鞋带绑一起",
+      "onboard_time": 1728444020,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1029236,
       "num": 474093,
       "word": "入职几月怀孕拒绝调薪调岗被辞退",
@@ -97,14 +121,6 @@
       "onboard_time": 1728438798,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 858535,
-      "num": 551030,
-      "word": "和秦昊吵架后伊能静把两人鞋带绑一起",
-      "onboard_time": 1728444020,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 854643,
@@ -176,14 +192,6 @@
       "word": "山取颜料师被要求返还矿石",
       "onboard_time": 1728386420,
       "rank": 13,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 681787,
-      "num": 548165,
-      "word": "顾客未买淀粉肠摊主刮下调料舔掉",
-      "onboard_time": 1728444320,
-      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -275,12 +283,44 @@
       "category": "体育"
     },
     {
+      "raw_hot": 467828,
+      "num": 467828,
+      "word": "车停正规停车位上被交警无故拖走",
+      "onboard_time": 1728446600,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 466919,
+      "num": 466919,
+      "word": "业内提醒散户有问题的公司不要碰",
+      "onboard_time": 1728442459,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 459714,
+      "num": 467292,
+      "word": "文泰一被警方立案第二天生日直播",
+      "onboard_time": 1728447080,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 458778,
       "num": 323807,
       "word": "哀牢山最危险的不是猛兽",
       "onboard_time": 1728388281,
       "rank": 39,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 456936,
+      "num": 456936,
+      "word": "朝鲜永久切断并封锁与韩国交界南部国境",
+      "onboard_time": 1728446240,
+      "rank": 17,
+      "category": "国外时政"
     },
     {
       "raw_hot": 455160,
@@ -315,6 +355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 418763,
+      "num": 556192,
+      "word": "专家称A股调整已经到位",
+      "onboard_time": 1728445040,
+      "rank": 9,
+      "category": "财经"
+    },
+    {
       "raw_hot": 418381,
       "num": 285198,
       "word": "黄晓明带叶珂参加陈浩民生日会",
@@ -331,12 +379,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 414173,
+      "num": 414173,
+      "word": "洪小草小奶尼分手",
+      "onboard_time": 1728445278,
+      "rank": 48,
+      "category": "网红"
+    },
+    {
       "raw_hot": 410672,
       "num": 622394,
       "word": "宋茜cue迪丽热巴新疆舞",
       "onboard_time": 1728436098,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 378450,
+      "num": 378450,
+      "word": "孩子被冤枉偷东西家长直接报警",
+      "onboard_time": 1728444438,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 360867,
@@ -451,12 +515,44 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 266849,
+      "num": 266849,
+      "word": "沪指跌超5%失守3300点",
+      "onboard_time": 1728444919,
+      "rank": 42,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 258361,
+      "num": 258361,
+      "word": "交警回应正规停放的车辆被拖走",
+      "onboard_time": 1728447141,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 256764,
       "num": 256764,
       "word": "陈乔恩回应被催生",
       "onboard_time": 1728440537,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 256441,
+      "num": 485094,
+      "word": "恩利欧阳娜娜姐妹合照",
+      "onboard_time": 1728444919,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 250836,
+      "num": 250836,
+      "word": "上海爷叔为何能成为最火股民",
+      "onboard_time": 1728446720,
+      "rank": 35,
+      "category": "财经"
     },
     {
       "raw_hot": 247004,
@@ -473,6 +569,22 @@
       "onboard_time": 1728445220,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 237077,
+      "num": 237077,
+      "word": "沈星回生日pv",
+      "onboard_time": 1728447560,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 229959,
+      "num": 229959,
+      "word": "丁程鑫你比付航像猴子",
+      "onboard_time": 1728446960,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 228721,
@@ -523,14 +635,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 219879,
-      "num": 219879,
-      "word": "孩子被冤枉偷东西家长直接报警",
-      "onboard_time": 1728444438,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 218778,
       "num": 218778,
       "word": "已有2000多万学生享受国家助学贷款",
@@ -544,6 +648,14 @@
       "word": "七夜雪开播",
       "onboard_time": 1728440119,
       "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 214380,
+      "num": 350190,
+      "word": "张新成王玉雯谈竹马变恋人可能性",
+      "onboard_time": 1728446000,
+      "rank": 27,
       "category": "剧集"
     },
     {
@@ -579,6 +691,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 203255,
+      "num": 319444,
+      "word": "网传虞书欣丁禹兮新剧10月底播",
+      "onboard_time": 1728446840,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 200573,
+      "num": 200573,
+      "word": "学信网",
+      "onboard_time": 1728444860,
+      "rank": 38,
+      "category": "教育"
+    },
+    {
       "raw_hot": 198550,
       "num": 198550,
       "word": "亚锦赛赛程",
@@ -603,6 +731,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 193385,
+      "num": 593895,
+      "word": "为何哀牢山和稻城亚丁拒绝野游",
+      "onboard_time": 1728443179,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 193354,
       "num": 193354,
       "word": "美发言人称哈马斯或应出钱重建加沙",
@@ -619,14 +755,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 190958,
-      "num": 190958,
-      "word": "学信网",
-      "onboard_time": 1728444860,
-      "rank": 38,
-      "category": "教育"
-    },
-    {
       "raw_hot": 182558,
       "num": 182558,
       "word": "行情来了人人都是股神",
@@ -641,6 +769,22 @@
       "onboard_time": 1728443060,
       "rank": 39,
       "category": "数码"
+    },
+    {
+      "raw_hot": 179723,
+      "num": 179723,
+      "word": "恋与深空 第三视角",
+      "onboard_time": 1728447801,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 176873,
+      "num": 176873,
+      "word": "明日方舟 ask",
+      "onboard_time": 1728447261,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 175950,
@@ -675,6 +819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 173558,
+      "num": 173558,
+      "word": "腾讯视频9号开放日",
+      "onboard_time": 1728447921,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 173361,
       "num": 173361,
       "word": "以总理称已打死黎真主党领导人继任者",
@@ -691,12 +843,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 169183,
-      "num": 169183,
-      "word": "沪指跌超5%失守3300点",
-      "onboard_time": 1728444919,
-      "rank": 42,
-      "category": "财经"
+      "raw_hot": 169780,
+      "num": 447678,
+      "word": "霉霉成全球最富女歌手",
+      "onboard_time": 1728443359,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 168111,
@@ -713,6 +865,14 @@
       "onboard_time": 1728402080,
       "rank": 26,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 167145,
+      "num": 167145,
+      "word": "五大券商致信新股民",
+      "onboard_time": 1728447921,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 163216,
@@ -739,14 +899,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 157337,
-      "num": 375891,
-      "word": "业内提醒散户有问题的公司不要碰",
-      "onboard_time": 1728442459,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 156415,
       "num": 156415,
       "word": "火锅店老板栾留伟上榜见义勇为榜",
@@ -761,14 +913,6 @@
       "onboard_time": 1728405916,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 152413,
-      "num": 152413,
-      "word": "洪小草小奶尼分手",
-      "onboard_time": 1728445278,
-      "rank": 48,
-      "category": "网红"
     },
     {
       "raw_hot": 151051,
@@ -793,14 +937,6 @@
       "onboard_time": 1728436760,
       "rank": 37,
       "category": "情感"
-    },
-    {
-      "raw_hot": 143051,
-      "num": 593895,
-      "word": "为何哀牢山和稻城亚丁拒绝野游",
-      "onboard_time": 1728443179,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 140925,
@@ -1019,14 +1155,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 92705,
-      "num": 556192,
-      "word": "专家称A股调整已经到位",
-      "onboard_time": 1728445040,
-      "rank": 9,
-      "category": "财经"
-    },
-    {
       "raw_hot": 92380,
       "num": 92380,
       "word": "日本一火山一天喷发3次",
@@ -1131,6 +1259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 61945,
+      "num": 459563,
+      "word": "vivo全球首发天玑9400",
+      "onboard_time": 1728445278,
+      "rank": 47,
+      "category": "数码"
+    },
+    {
       "raw_hot": 60348,
       "num": 63863,
       "word": "山取",
@@ -1139,36 +1275,20 @@
       "category": "网红"
     },
     {
-      "raw_hot": 60172,
-      "num": 447678,
-      "word": "霉霉成全球最富女歌手",
-      "onboard_time": 1728443359,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 59891,
-      "num": 152639,
-      "word": "vivo全球首发天玑9400",
-      "onboard_time": 1728445278,
-      "rank": 47,
-      "category": "数码"
-    },
-    {
-      "raw_hot": 58480,
-      "num": 485094,
-      "word": "恩利欧阳娜娜姐妹合照",
-      "onboard_time": 1728444919,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 54016,
       "num": 54016,
       "word": "王晶谈张颂文走红",
       "onboard_time": 1728408313,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 52198,
+      "num": 1060201,
+      "word": "我国加力推出增量政策重点在五方面",
+      "onboard_time": 1728444799,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 47160,
@@ -1185,6 +1305,14 @@
       "onboard_time": 1728420430,
       "rank": 47,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 46126,
+      "num": 309883,
+      "word": "刘亦菲一个镜头六种愉悦情绪",
+      "onboard_time": 1728447080,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 46092,
@@ -1259,14 +1387,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 32639,
-      "num": 1060201,
-      "word": "我国加力推出增量政策重点在五方面",
-      "onboard_time": 1728444799,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 30817,
       "num": 60820,
       "word": "韩政府计划明年冻结军人伙食费标准",
@@ -1305,6 +1425,14 @@
       "onboard_time": 1728419831,
       "rank": 30,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 23376,
+      "num": 460152,
+      "word": "国庆北京上海新房认购量超9月全月",
+      "onboard_time": 1728446720,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 22914,
@@ -1377,6 +1505,9 @@
     },
     {
       "word": "#总书记关心的世界文化遗产#"
+    },
+    {
+      "word": "#感悟总书记的传统文化情结#"
     }
   ]
 }
