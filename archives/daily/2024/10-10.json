@@ -1,6 +1,6 @@
 {
   "startTime": 1728491244792,
-  "endTime": 1728512452134,
+  "endTime": 1728513554603,
   "band_list": [
     {
       "raw_hot": 3405029,
@@ -43,6 +43,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1137901,
+      "num": 1137901,
+      "word": "孙颖莎2比3张本美和",
+      "onboard_time": 1728493938,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1067664,
       "num": 1067664,
       "word": "孙颖莎vs伊藤美诚",
@@ -59,19 +67,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 757510,
-      "num": 757510,
-      "word": "孙颖莎2比3张本美和",
-      "onboard_time": 1728493938,
-      "rank": 14,
-      "category": "体育"
-    },
-    {
       "raw_hot": 672375,
       "num": 672375,
       "word": "记者深入哀牢山突遇浓雾",
       "onboard_time": 1728485121,
       "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 574925,
+      "num": 144916,
+      "word": "戴LV丝巾受访的女局长被查",
+      "onboard_time": 1728493336,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -112,14 +120,6 @@
       "word": "女子怀孕3个月连吃6只螃蟹后流产",
       "onboard_time": 1728460520,
       "rank": 20,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 425939,
-      "num": 122115,
-      "word": "戴LV丝巾受访的女局长被查",
-      "onboard_time": 1728493336,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -243,6 +243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 185858,
+      "num": 185858,
+      "word": "江苏警方抓获杀人逃亡32年嫌犯",
+      "onboard_time": 1728500952,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 168918,
       "num": 214324,
       "word": "陈幸同1比3平野美宇",
@@ -257,14 +265,6 @@
       "onboard_time": 1728486499,
       "rank": 7,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 150394,
-      "num": 150394,
-      "word": "江苏警方抓获杀人逃亡32年嫌犯",
-      "onboard_time": 1728500952,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 146841,
@@ -499,6 +499,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 57690,
+      "num": 102579,
+      "word": "日本首相为何早早解散议会提前大选",
+      "onboard_time": 1728511213,
+      "rank": 9,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 55608,
       "num": 212348,
       "word": "花儿与少年",
@@ -513,6 +521,14 @@
       "onboard_time": 1728498913,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 44637,
+      "num": 157282,
+      "word": "李沁古装",
+      "onboard_time": 1728475459,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 42299,
@@ -539,20 +555,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 35451,
+      "num": 35451,
+      "word": "街溜子天鹅疑似失去所有力气和手段",
+      "onboard_time": 1728503592,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 35442,
       "num": 70029,
       "word": "哀牢山护林员说迷路很常见",
       "onboard_time": 1728497651,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 35363,
-      "num": 55583,
-      "word": "李沁古装",
-      "onboard_time": 1728475459,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 32849,
@@ -563,28 +579,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 30423,
-      "num": 30423,
-      "word": "街溜子天鹅疑似失去所有力气和手段",
-      "onboard_time": 1728503592,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 30019,
-      "num": 31126,
+      "raw_hot": 32620,
+      "num": 32620,
       "word": "西班牙喊话欧盟要尽一切可能谈判",
       "onboard_time": 1728502511,
       "rank": 29,
       "category": "国外时政"
     },
     {
-      "raw_hot": 27668,
-      "num": 102579,
-      "word": "日本首相为何早早解散议会提前大选",
-      "onboard_time": 1728511213,
-      "rank": 9,
-      "category": "国外时政"
+      "raw_hot": 30591,
+      "num": 30591,
+      "word": "林熙蕾女儿将担任萧敬腾婚礼花童",
+      "onboard_time": 1728513493,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 26695,
@@ -609,6 +617,14 @@
       "onboard_time": 1728495193,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 17149,
+      "num": 150876,
+      "word": "中欧将继续就电动汽车反补贴案磋商",
+      "onboard_time": 1728511033,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 16240,
