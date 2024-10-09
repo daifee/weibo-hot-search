@@ -1,6 +1,6 @@
 {
   "startTime": 1728491244792,
-  "endTime": 1728494471382,
+  "endTime": 1728495589246,
   "band_list": [
     {
       "raw_hot": 3405029,
@@ -51,6 +51,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 865401,
+      "num": 865401,
+      "word": "国乒女团亚锦赛亚军",
+      "onboard_time": 1728493998,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 672375,
       "num": 672375,
       "word": "记者深入哀牢山突遇浓雾",
@@ -65,6 +73,14 @@
       "onboard_time": 1728488598,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 521297,
+      "num": 521297,
+      "word": "孙颖莎2比3张本美和",
+      "onboard_time": 1728493938,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 501486,
@@ -96,6 +112,14 @@
       "word": "女子怀孕3个月连吃6只螃蟹后流产",
       "onboard_time": 1728460520,
       "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 425939,
+      "num": 122115,
+      "word": "戴LV丝巾受访的女局长被查",
+      "onboard_time": 1728493336,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -187,14 +211,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 224351,
-      "num": 122115,
-      "word": "戴LV丝巾受访的女局长被查",
-      "onboard_time": 1728493336,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 220916,
       "num": 220916,
       "word": "这是中法文化的双向奔赴",
@@ -227,14 +243,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 169999,
-      "num": 388971,
-      "word": "国乒女团亚锦赛亚军",
-      "onboard_time": 1728493998,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 168918,
       "num": 214324,
       "word": "陈幸同1比3平野美宇",
@@ -249,14 +257,6 @@
       "onboard_time": 1728486499,
       "rank": 7,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 158859,
-      "num": 264470,
-      "word": "孙颖莎2比3张本美和",
-      "onboard_time": 1728493938,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 146841,
@@ -451,6 +451,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 79698,
+      "num": 79698,
+      "word": "孙颖莎说下风球逆风盘总会想再坚持下",
+      "onboard_time": 1728477620,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 75651,
+      "num": 75651,
+      "word": "李宇春粉丝好神秘",
+      "onboard_time": 1728494415,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 71281,
       "num": 71281,
       "word": "老教授爬房40年整理上万件古建图纸",
@@ -475,19 +491,35 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 53260,
-      "num": 53260,
-      "word": "李宇春粉丝好神秘",
-      "onboard_time": 1728494415,
-      "rank": 48,
-      "category": "艺人"
+      "raw_hot": 55608,
+      "num": 212348,
+      "word": "花儿与少年",
+      "onboard_time": 1728494236,
+      "rank": 8,
+      "category": "综艺"
     },
     {
-      "raw_hot": 40441,
+      "raw_hot": 42299,
       "num": 393982,
       "word": "禁区不是景区切勿为流量盲目跟风",
       "onboard_time": 1728493636,
       "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 22091,
+      "num": 212294,
+      "word": "严防违规冒险进入野景区及网红打卡点",
+      "onboard_time": 1728495193,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 12931,
+      "num": 1129826,
+      "word": "文博热非遗热持续升温",
+      "onboard_time": 1728478340,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -502,6 +534,9 @@
   "hotgov_list": [
     {
       "word": "#习近平致信中国红十字会第十二次全国会员代表大会#"
+    },
+    {
+      "word": "#聚焦高质量发展提高人道服务能力#"
     }
   ]
 }
