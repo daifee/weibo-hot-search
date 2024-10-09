@@ -1,6 +1,6 @@
 {
   "startTime": 1728404919019,
-  "endTime": 1728438072041,
+  "endTime": 1728439091745,
   "band_list": [
     {
       "raw_hot": 2800136,
@@ -27,8 +27,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1451267,
-      "num": 758210,
+      "raw_hot": 1530019,
+      "num": 979898,
       "word": "A股",
       "onboard_time": 1728434000,
       "rank": 3,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 1125096,
-      "num": 673338,
+      "num": 736509,
       "word": "我国正编纂一套字数超10亿的书",
       "onboard_time": 1728435800,
       "rank": 4,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 1029236,
-      "num": 429962,
+      "num": 474093,
       "word": "入职几月怀孕拒绝调薪调岗被辞退",
       "onboard_time": 1728433038,
       "rank": 10,
@@ -67,8 +67,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 833939,
+      "num": 345708,
+      "word": "弟弟回应远嫁姐姐半年看父亲被指不孝",
+      "onboard_time": 1728437176,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 821660,
-      "num": 391552,
+      "num": 470639,
       "word": "k总",
       "onboard_time": 1728390560,
       "rank": 11,
@@ -115,6 +123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 570962,
+      "num": 570962,
+      "word": "股市",
+      "onboard_time": 1728437960,
+      "rank": 33,
+      "category": "财经"
+    },
+    {
       "raw_hot": 546621,
       "num": 546621,
       "word": "胡歌刘诗诗一起录综艺了",
@@ -123,8 +139,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 546594,
+      "num": 346191,
+      "word": "研招网 进不去",
+      "onboard_time": 1728437419,
+      "rank": 19,
+      "category": "教育"
+    },
+    {
       "raw_hot": 544706,
-      "num": 422582,
+      "num": 463137,
       "word": "刘烨张彤大学作业演出",
       "onboard_time": 1728436039,
       "rank": 11,
@@ -147,6 +171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 496971,
+      "num": 496971,
+      "word": "假期开户投资者今天开始交易",
+      "onboard_time": 1728434121,
+      "rank": 18,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 486547,
       "num": 486547,
       "word": "孙颖莎两项赛事档期无缝衔接",
@@ -155,20 +187,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 478617,
-      "num": 345708,
-      "word": "弟弟回应远嫁姐姐半年看父亲被指不孝",
-      "onboard_time": 1728437176,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 458778,
       "num": 323807,
       "word": "哀牢山最危险的不是猛兽",
       "onboard_time": 1728388281,
       "rank": 39,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 458156,
+      "num": 458156,
+      "word": "A股低开",
+      "onboard_time": 1728438380,
+      "rank": 15,
+      "category": "财经"
     },
     {
       "raw_hot": 441730,
@@ -211,8 +243,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 363949,
-      "num": 474435,
+      "raw_hot": 410672,
+      "num": 479367,
       "word": "宋茜cue迪丽热巴新疆舞",
       "onboard_time": 1728436098,
       "rank": 8,
@@ -235,14 +267,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 350722,
-      "num": 350722,
-      "word": "假期开户投资者今天开始交易",
-      "onboard_time": 1728434121,
-      "rank": 18,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 345640,
       "num": 281920,
       "word": "刘烨竟然是勋鹿群管理员",
@@ -259,20 +283,28 @@
       "category": "情感"
     },
     {
-      "raw_hot": 336377,
-      "num": 346191,
-      "word": "研招网 进不去",
-      "onboard_time": 1728437419,
-      "rank": 19,
-      "category": "教育"
-    },
-    {
       "raw_hot": 335864,
       "num": 300726,
       "word": "姐妹把婚鞋藏进面包里",
       "onboard_time": 1728434421,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 283317,
+      "num": 283317,
+      "word": "胡歌林依晨聚餐合照",
+      "onboard_time": 1728434121,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 282432,
+      "num": 282432,
+      "word": "股票",
+      "onboard_time": 1728438318,
+      "rank": 23,
+      "category": "财经"
     },
     {
       "raw_hot": 281073,
@@ -297,14 +329,6 @@
       "onboard_time": 1728388521,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 256258,
-      "num": 256258,
-      "word": "胡歌林依晨聚餐合照",
-      "onboard_time": 1728434121,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 228063,
@@ -347,6 +371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 214934,
+      "num": 214934,
+      "word": "A股开盘近5000只个股下跌",
+      "onboard_time": 1728438557,
+      "rank": 28,
+      "category": "财经"
+    },
+    {
       "raw_hot": 213167,
       "num": 213167,
       "word": "微信文字讨好症",
@@ -355,12 +387,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 211625,
+      "num": 209323,
+      "word": "17年的玩具我24年开了眼界",
+      "onboard_time": 1728438619,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 211546,
       "num": 211546,
       "word": "今起2025考研预报名",
       "onboard_time": 1728437718,
       "rank": 31,
       "category": "教育"
+    },
+    {
+      "raw_hot": 206028,
+      "num": 206028,
+      "word": "哀牢山",
+      "onboard_time": 1728435860,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 205342,
@@ -395,19 +443,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 184563,
-      "num": 184563,
-      "word": "股市",
-      "onboard_time": 1728437960,
+      "raw_hot": 182448,
+      "num": 182448,
+      "word": "他救人拦下的救护车救了自己",
+      "onboard_time": 1728438438,
       "rank": 33,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 182695,
-      "num": 182695,
-      "word": "哀牢山",
-      "onboard_time": 1728435860,
-      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -427,12 +467,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 173976,
+      "num": 450795,
+      "word": "东北雨姐客服否认跑路",
+      "onboard_time": 1728436160,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 170516,
       "num": 170516,
       "word": "石洵瑶3比2车秀英",
       "onboard_time": 1728402859,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 170323,
+      "num": 170323,
+      "word": "游客飞无人机拍摄吓到花花",
+      "onboard_time": 1728437176,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 168111,
@@ -459,14 +515,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 161829,
-      "num": 450795,
-      "word": "东北雨姐客服否认跑路",
-      "onboard_time": 1728436160,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 160257,
       "num": 160257,
       "word": "孙颖莎3比2边松景",
@@ -491,6 +539,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 149708,
+      "num": 149708,
+      "word": "乘着大巴看中国",
+      "onboard_time": 1728438499,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 147287,
+      "num": 147287,
+      "word": "三人行必有我师焉其实缺了一个字",
+      "onboard_time": 1728438798,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 147049,
       "num": 147049,
       "word": "长途副驾的情绪价值有多重要",
@@ -507,14 +571,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 140245,
-      "num": 140245,
-      "word": "游客飞无人机拍摄吓到花花",
-      "onboard_time": 1728437176,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 140128,
       "num": 140128,
       "word": "舍不得星星 好超前的结婚方式",
@@ -524,7 +580,7 @@
     },
     {
       "raw_hot": 131565,
-      "num": 131565,
+      "num": 475659,
       "word": "中方正研究提高进口大排量燃油车关税",
       "onboard_time": 1728432622,
       "rank": 41,
@@ -571,6 +627,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 120290,
+      "num": 120290,
+      "word": "原神",
+      "onboard_time": 1728435559,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 119565,
       "num": 119565,
       "word": "秒杀没开始团伙已经抢到商品",
@@ -585,14 +649,6 @@
       "onboard_time": 1728398722,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 117944,
-      "num": 117944,
-      "word": "原神",
-      "onboard_time": 1728435559,
-      "rank": 48,
-      "category": "游戏"
     },
     {
       "raw_hot": 116091,
@@ -748,7 +804,7 @@
     },
     {
       "raw_hot": 72958,
-      "num": 383939,
+      "num": 458976,
       "word": "以空袭叙首都居民楼致7死11伤",
       "onboard_time": 1728433879,
       "rank": 14,

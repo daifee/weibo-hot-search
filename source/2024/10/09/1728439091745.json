@@ -1,0 +1,410 @@
+{
+  "runTime": 1728439091745,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 47284,
+        "num": 1007565,
+        "word": "吴邦国同志逝世",
+        "onboard_time": 1728381801,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1530019,
+        "num": 979898,
+        "word": "A股",
+        "onboard_time": 1728434000,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 15901,
+        "num": 770556,
+        "word": "这是航天员拍摄的锦绣山河",
+        "onboard_time": 1728401000,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1015794,
+        "num": 736509,
+        "word": "我国正编纂一套字数超10亿的书",
+        "onboard_time": 1728435800,
+        "rank": 3,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 570962,
+        "num": 570962,
+        "word": "股市",
+        "onboard_time": 1728437960,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 496971,
+        "num": 496971,
+        "word": "假期开户投资者今天开始交易",
+        "onboard_time": 1728434121,
+        "rank": 5,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 482834,
+        "num": 482834,
+        "word": "孙颖莎两项赛事档期无缝衔接",
+        "onboard_time": 1728433939,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 481913,
+        "num": 481913,
+        "word": "胡歌刘诗诗一起录综艺了",
+        "onboard_time": 1728434840,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 410672,
+        "num": 479367,
+        "word": "宋茜cue迪丽热巴新疆舞",
+        "onboard_time": 1728436098,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 95010,
+        "num": 475659,
+        "word": "中方正研究提高进口大排量燃油车关税",
+        "onboard_time": 1728432622,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 875280,
+        "num": 474093,
+        "word": "入职几月怀孕拒绝调薪调岗被辞退",
+        "onboard_time": 1728433038,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 551373,
+        "num": 470639,
+        "word": "k总",
+        "onboard_time": 1728390560,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 448034,
+        "num": 465686,
+        "word": "网恋12年英国男友竟是闺蜜假扮",
+        "onboard_time": 1728395362,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 513058,
+        "num": 463137,
+        "word": "刘烨张彤大学作业演出",
+        "onboard_time": 1728436039,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 37610,
+        "num": 458976,
+        "word": "以空袭叙首都居民楼致7死11伤",
+        "onboard_time": 1728433879,
+        "rank": 14,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 458156,
+        "num": 458156,
+        "word": "A股低开",
+        "onboard_time": 1728438380,
+        "rank": 15,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 322525,
+        "num": 322525,
+        "word": "孙颖莎1比3金琴英",
+        "onboard_time": 1728397823,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 303025,
+        "num": 303025,
+        "word": "山取颜料师被要求返还矿石",
+        "onboard_time": 1728386420,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 287360,
+        "num": 287360,
+        "word": "男子称花2个月工资追女生反被拉黑",
+        "onboard_time": 1728400880,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 283317,
+        "num": 283317,
+        "word": "胡歌林依晨聚餐合照",
+        "onboard_time": 1728434121,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2265194,
+        "num": 283142,
+        "word": "女博主露营哀牢山2天1夜将被调查",
+        "onboard_time": 1728433099,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 833939,
+        "num": 282929,
+        "word": "弟弟回应远嫁姐姐半年看父亲被指不孝",
+        "onboard_time": 1728437176,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 308654,
+        "num": 282708,
+        "word": "姐妹把婚鞋藏进面包里",
+        "onboard_time": 1728434421,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 282432,
+        "num": 282432,
+        "word": "股票",
+        "onboard_time": 1728438318,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 278204,
+        "num": 278204,
+        "word": "张家界回应被指拆成20个景区收费",
+        "onboard_time": 1728395298,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235907,
+        "num": 235907,
+        "word": "哀牢山最危险的不是猛兽",
+        "onboard_time": 1728388281,
+        "rank": 25,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 235254,
+        "num": 235254,
+        "word": "调查东北雨姐监管部门应及时出手",
+        "onboard_time": 1728407594,
+        "rank": 26,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 226384,
+        "num": 226384,
+        "word": "于正报警",
+        "onboard_time": 1728399802,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 214934,
+        "num": 214934,
+        "word": "A股开盘近5000只个股下跌",
+        "onboard_time": 1728438557,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 210310,
+        "num": 210310,
+        "word": "把卫生间租给恐怖片剧组吧",
+        "onboard_time": 1728434421,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 211625,
+        "num": 209323,
+        "word": "17年的玩具我24年开了眼界",
+        "onboard_time": 1728438619,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 206028,
+        "num": 206028,
+        "word": "哀牢山",
+        "onboard_time": 1728435860,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198693,
+        "num": 198693,
+        "word": "刘烨竟然是勋鹿群管理员",
+        "onboard_time": 1728391280,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182448,
+        "num": 182448,
+        "word": "他救人拦下的救护车救了自己",
+        "onboard_time": 1728438438,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173976,
+        "num": 173976,
+        "word": "东北雨姐客服否认跑路",
+        "onboard_time": 1728436160,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172013,
+        "num": 172013,
+        "word": "新生儿呛奶父亲跪地求助送医",
+        "onboard_time": 1728429016,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170323,
+        "num": 170323,
+        "word": "游客飞无人机拍摄吓到花花",
+        "onboard_time": 1728437176,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169371,
+        "num": 169371,
+        "word": "今起2025考研预报名",
+        "onboard_time": 1728437718,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 169351,
+        "num": 169351,
+        "word": "已有2000多万学生享受国家助学贷款",
+        "onboard_time": 1728433939,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157885,
+        "num": 157885,
+        "word": "微信文字讨好症",
+        "onboard_time": 1728429857,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 546594,
+        "num": 157751,
+        "word": "研招网 进不去",
+        "onboard_time": 1728437419,
+        "rank": 40,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 156578,
+        "num": 156578,
+        "word": "国乒女团3比1战胜朝鲜女团",
+        "onboard_time": 1728402979,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 149708,
+        "num": 149708,
+        "word": "乘着大巴看中国",
+        "onboard_time": 1728438499,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147287,
+        "num": 147287,
+        "word": "三人行必有我师焉其实缺了一个字",
+        "onboard_time": 1728438798,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138061,
+        "num": 138061,
+        "word": "k总 抑郁",
+        "onboard_time": 1728395181,
+        "rank": 44,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 133785,
+        "num": 133785,
+        "word": "周扬青聊名媛班",
+        "onboard_time": 1728389299,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129420,
+        "num": 129420,
+        "word": "长途副驾的情绪价值有多重要",
+        "onboard_time": 1728436760,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 128610,
+        "num": 128610,
+        "word": "阴阳师",
+        "onboard_time": 1728436697,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 122035,
+        "num": 122035,
+        "word": "刘亦菲披肩配白裙",
+        "onboard_time": 1728437599,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 120290,
+        "num": 120290,
+        "word": "原神",
+        "onboard_time": 1728435559,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#学习习近平文化思想#"
+    }
+  }
+}
