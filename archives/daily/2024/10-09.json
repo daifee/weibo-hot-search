@@ -1,6 +1,6 @@
 {
   "startTime": 1728404919019,
-  "endTime": 1728444472488,
+  "endTime": 1728445345509,
   "band_list": [
     {
       "raw_hot": 3282482,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 1184046,
-      "num": 594114,
+      "num": 1040235,
       "word": "17年的玩具我24年开了眼界",
       "onboard_time": 1728438619,
       "rank": 30,
@@ -99,6 +99,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 858535,
+      "num": 551030,
+      "word": "和秦昊吵架后伊能静把两人鞋带绑一起",
+      "onboard_time": 1728444020,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 854643,
       "num": 290782,
       "word": "于正报警",
@@ -108,7 +116,7 @@
     },
     {
       "raw_hot": 833939,
-      "num": 415462,
+      "num": 440706,
       "word": "弟弟回应远嫁姐姐半年看父亲被指不孝",
       "onboard_time": 1728437176,
       "rank": 20,
@@ -129,6 +137,22 @@
       "onboard_time": 1728402979,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 777932,
+      "num": 550623,
+      "word": "陈乔恩婚后被问生小孩吗",
+      "onboard_time": 1728441799,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 752176,
+      "num": 752176,
+      "word": "A股天量成交股民留还是走",
+      "onboard_time": 1728439640,
+      "rank": 17,
+      "category": "财经"
     },
     {
       "raw_hot": 704577,
@@ -155,27 +179,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 681787,
+      "num": 548165,
+      "word": "顾客未买淀粉肠摊主刮下调料舔掉",
+      "onboard_time": 1728444320,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 675267,
       "num": 675267,
       "word": "股市",
       "onboard_time": 1728437960,
       "rank": 33,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 673460,
-      "num": 474566,
-      "word": "陈乔恩婚后被问生小孩吗",
-      "onboard_time": 1728441799,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 672833,
-      "num": 672833,
-      "word": "A股天量成交股民留还是走",
-      "onboard_time": 1728439640,
-      "rank": 17,
       "category": "财经"
     },
     {
@@ -315,14 +331,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 415095,
-      "num": 415095,
-      "word": "顾客未买淀粉肠摊主刮下调料舔掉",
-      "onboard_time": 1728444320,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 410672,
       "num": 622394,
       "word": "宋茜cue迪丽热巴新疆舞",
@@ -379,12 +387,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 306936,
-      "num": 250912,
-      "word": "和秦昊吵架后伊能静把两人鞋带绑一起",
-      "onboard_time": 1728444020,
-      "rank": 30,
-      "category": "综艺"
+      "raw_hot": 299299,
+      "num": 299299,
+      "word": "沈星回星辰有信",
+      "onboard_time": 1728444320,
+      "rank": 28,
+      "category": "游戏"
     },
     {
       "raw_hot": 283317,
@@ -393,6 +401,14 @@
       "onboard_time": 1728434121,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 283052,
+      "num": 283052,
+      "word": "A股缩量",
+      "onboard_time": 1728443839,
+      "rank": 34,
+      "category": "财经"
     },
     {
       "raw_hot": 282432,
@@ -435,14 +451,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 257035,
-      "num": 257035,
-      "word": "沈星回星辰有信",
-      "onboard_time": 1728444320,
-      "rank": 28,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 256764,
       "num": 256764,
       "word": "陈乔恩回应被催生",
@@ -457,6 +465,14 @@
       "onboard_time": 1728443240,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 238720,
+      "num": 238720,
+      "word": "恋与制作人",
+      "onboard_time": 1728445220,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 228721,
@@ -505,6 +521,14 @@
       "onboard_time": 1728400281,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 219879,
+      "num": 219879,
+      "word": "孩子被冤枉偷东西家长直接报警",
+      "onboard_time": 1728444438,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 218778,
@@ -563,14 +587,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 196313,
-      "num": 196313,
-      "word": "A股缩量",
-      "onboard_time": 1728443839,
-      "rank": 34,
-      "category": "财经"
-    },
-    {
       "raw_hot": 196183,
       "num": 196183,
       "word": "专家称调整或基本到位",
@@ -601,6 +617,14 @@
       "onboard_time": 1728414551,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 190958,
+      "num": 190958,
+      "word": "学信网",
+      "onboard_time": 1728444860,
+      "rank": 38,
+      "category": "教育"
     },
     {
       "raw_hot": 182558,
@@ -635,6 +659,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 175192,
+      "num": 381069,
+      "word": "男子为泄私愤驾车冲撞大排挡",
+      "onboard_time": 1728441319,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 173976,
       "num": 450795,
       "word": "东北雨姐客服否认跑路",
@@ -657,6 +689,14 @@
       "onboard_time": 1728402859,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 169183,
+      "num": 169183,
+      "word": "沪指跌超5%失守3300点",
+      "onboard_time": 1728444919,
+      "rank": 42,
+      "category": "财经"
     },
     {
       "raw_hot": 168111,
@@ -700,7 +740,7 @@
     },
     {
       "raw_hot": 157337,
-      "num": 152913,
+      "num": 375891,
       "word": "业内提醒散户有问题的公司不要碰",
       "onboard_time": 1728442459,
       "rank": 43,
@@ -721,6 +761,14 @@
       "onboard_time": 1728405916,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 152413,
+      "num": 152413,
+      "word": "洪小草小奶尼分手",
+      "onboard_time": 1728445278,
+      "rank": 48,
+      "category": "网红"
     },
     {
       "raw_hot": 151051,
@@ -747,19 +795,11 @@
       "category": "情感"
     },
     {
-      "raw_hot": 142306,
-      "num": 142306,
-      "word": "孩子被冤枉偷东西家长直接报警",
-      "onboard_time": 1728444438,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 141998,
-      "num": 381069,
-      "word": "男子为泄私愤驾车冲撞大排挡",
-      "onboard_time": 1728441319,
-      "rank": 19,
+      "raw_hot": 143051,
+      "num": 593895,
+      "word": "为何哀牢山和稻城亚丁拒绝野游",
+      "onboard_time": 1728443179,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -979,6 +1019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 92705,
+      "num": 556192,
+      "word": "专家称A股调整已经到位",
+      "onboard_time": 1728445040,
+      "rank": 9,
+      "category": "财经"
+    },
+    {
       "raw_hot": 92380,
       "num": 92380,
       "word": "日本一火山一天喷发3次",
@@ -1000,14 +1048,6 @@
       "word": "医院回应垃圾桶里发现带脐带女婴",
       "onboard_time": 1728394761,
       "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 87595,
-      "num": 593895,
-      "word": "为何哀牢山和稻城亚丁拒绝野游",
-      "onboard_time": 1728443179,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -1107,6 +1147,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 59891,
+      "num": 152639,
+      "word": "vivo全球首发天玑9400",
+      "onboard_time": 1728445278,
+      "rank": 47,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 58480,
+      "num": 485094,
+      "word": "恩利欧阳娜娜姐妹合照",
+      "onboard_time": 1728444919,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 54016,
       "num": 54016,
       "word": "王晶谈张颂文走红",
@@ -1148,7 +1204,7 @@
     },
     {
       "raw_hot": 37734,
-      "num": 444618,
+      "num": 471327,
       "word": "揭秘品酒师证报考乱象",
       "onboard_time": 1728444259,
       "rank": 19,
@@ -1161,6 +1217,14 @@
       "onboard_time": 1728407534,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 36440,
+      "num": 541066,
+      "word": "半导体",
+      "onboard_time": 1728356358,
+      "rank": 13,
+      "category": "财经"
     },
     {
       "raw_hot": 34316,
@@ -1193,6 +1257,14 @@
       "onboard_time": 1728414311,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 32639,
+      "num": 1060201,
+      "word": "我国加力推出增量政策重点在五方面",
+      "onboard_time": 1728444799,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 30817,
@@ -1235,19 +1307,19 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 25289,
-      "num": 541066,
-      "word": "半导体",
-      "onboard_time": 1728356358,
-      "rank": 13,
-      "category": "财经"
-    },
-    {
       "raw_hot": 22914,
       "num": 31414,
       "word": "官方回应双层列车为节假日限定",
       "onboard_time": 1728418813,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 20070,
+      "num": 461920,
+      "word": "我国有40项世界文化遗产",
+      "onboard_time": 1728444979,
+      "rank": 20,
       "category": "社会新闻"
     },
     {
