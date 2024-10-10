@@ -1,6 +1,6 @@
 {
   "startTime": 1728491244792,
-  "endTime": 1728537712230,
+  "endTime": 1728538785651,
   "band_list": [
     {
       "raw_hot": 3438094,
@@ -107,12 +107,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1585369,
+      "num": 1585369,
+      "word": "东北雨姐",
+      "onboard_time": 1728537260,
+      "rank": 5,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1232533,
       "num": 1232533,
       "word": "董宇辉回应直播翻车",
       "onboard_time": 1728532278,
       "rank": 3,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 1137398,
+      "num": 1137398,
+      "word": "王楚钦vs吴晙诚",
+      "onboard_time": 1728536899,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 1067664,
@@ -163,20 +179,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 897284,
+      "num": 509148,
+      "word": "夫妻吵架把孩子放23楼空调外机上",
+      "onboard_time": 1728533541,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 865401,
       "num": 865401,
       "word": "国乒女团亚锦赛亚军",
       "onboard_time": 1728493998,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 860365,
-      "num": 509148,
-      "word": "夫妻吵架把孩子放23楼空调外机上",
-      "onboard_time": 1728533541,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 853137,
@@ -233,14 +249,6 @@
       "onboard_time": 1728519259,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 597704,
-      "num": 597704,
-      "word": "东北雨姐",
-      "onboard_time": 1728537260,
-      "rank": 5,
-      "category": "网红"
     },
     {
       "raw_hot": 570457,
@@ -339,6 +347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 414308,
+      "num": 414308,
+      "word": "纪凌尘怎么敢抢向佐风头的",
+      "onboard_time": 1728537439,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 409067,
       "num": 381554,
       "word": "K总回应恋情",
@@ -355,6 +371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 401387,
+      "num": 401387,
+      "word": "5岁女孩天生爆炸头发量惊人",
+      "onboard_time": 1728536419,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 396510,
       "num": 396510,
       "word": "向佐跳操",
@@ -369,6 +393,14 @@
       "onboard_time": 1728458899,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 376892,
+      "num": 376892,
+      "word": "无缘亚锦赛冠军为女乒敲响警钟",
+      "onboard_time": 1728537260,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 372418,
@@ -427,14 +459,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 345059,
-      "num": 345059,
-      "word": "王楚钦vs吴晙诚",
-      "onboard_time": 1728536899,
-      "rank": 21,
-      "category": "体育"
-    },
-    {
       "raw_hot": 343782,
       "num": 343782,
       "word": "中国文化的风早已吹到了法国",
@@ -443,20 +467,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 342294,
+      "num": 342294,
+      "word": "恋与深空新谷",
+      "onboard_time": 1728536899,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 332518,
       "num": 332518,
       "word": "熊 你举手了吗你就吃",
       "onboard_time": 1728533780,
       "rank": 41,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 328063,
-      "num": 328063,
-      "word": "5岁女孩天生爆炸头发量惊人",
-      "onboard_time": 1728536419,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 321139,
@@ -480,6 +504,14 @@
       "word": "原神超话",
       "onboard_time": 1728529278,
       "rank": 27,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 307484,
+      "num": 307484,
+      "word": "叠纸心意",
+      "onboard_time": 1728537679,
+      "rank": 39,
       "category": "游戏"
     },
     {
@@ -556,7 +588,7 @@
     },
     {
       "raw_hot": 260952,
-      "num": 367512,
+      "num": 414138,
       "word": "密室大逃脱",
       "onboard_time": 1728535820,
       "rank": 16,
@@ -603,16 +635,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 236091,
-      "num": 236091,
-      "word": "恋与深空新谷",
-      "onboard_time": 1728536899,
-      "rank": 31,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 234484,
-      "num": 234484,
+      "num": 473768,
       "word": "老师捡手机归还失主送全班汉堡",
       "onboard_time": 1728528258,
       "rank": 39,
@@ -763,20 +787,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 205908,
+      "num": 205908,
+      "word": "杀妻案嫌疑人儿子说不想父亲死",
+      "onboard_time": 1728537080,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 202097,
-      "num": 363313,
+      "num": 375043,
       "word": "黄子弘凡专辑",
       "onboard_time": 1728536540,
       "rank": 17,
       "category": "音乐,艺人"
-    },
-    {
-      "raw_hot": 201141,
-      "num": 201141,
-      "word": "无缘亚锦赛冠军为女乒敲响警钟",
-      "onboard_time": 1728537260,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 201039,
@@ -801,6 +825,14 @@
       "onboard_time": 1728530599,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 187893,
+      "num": 413708,
+      "word": "凤凰传奇抢票",
+      "onboard_time": 1728537799,
+      "rank": 18,
+      "category": "演出"
     },
     {
       "raw_hot": 185769,
@@ -891,14 +923,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 161507,
-      "num": 161507,
-      "word": "叠纸心意",
-      "onboard_time": 1728537679,
-      "rank": 39,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 159908,
       "num": 159908,
       "word": "教授爬房40年整理上万件古建图纸",
@@ -915,12 +939,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 157301,
-      "num": 157301,
-      "word": "纪凌尘怎么敢抢向佐风头的",
-      "onboard_time": 1728537439,
-      "rank": 41,
-      "category": "电影"
+      "raw_hot": 156790,
+      "num": 156790,
+      "word": "解密哀牢山",
+      "onboard_time": 1728538700,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 153476,
@@ -945,14 +969,6 @@
       "onboard_time": 1728533659,
       "rank": 44,
       "category": "财经"
-    },
-    {
-      "raw_hot": 151006,
-      "num": 151006,
-      "word": "杀妻案嫌疑人儿子说不想父亲死",
-      "onboard_time": 1728537080,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 150480,
@@ -1003,6 +1019,22 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 135642,
+      "num": 485036,
+      "word": "徐霞客劝大家安全为首勿涉险地",
+      "onboard_time": 1728537920,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 134301,
+      "num": 134301,
+      "word": "何猷君谈和电竞的缘分",
+      "onboard_time": 1728538639,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 132010,
       "num": 132010,
       "word": "霍思燕演这部剧的时候很爽吧",
@@ -1033,6 +1065,14 @@
       "onboard_time": 1728534080,
       "rank": 8,
       "category": "财经"
+    },
+    {
+      "raw_hot": 129826,
+      "num": 129826,
+      "word": "孙颖莎看向奖杯的眼神让人心疼",
+      "onboard_time": 1728538759,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 129291,
@@ -1163,6 +1203,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 113632,
+      "num": 481404,
+      "word": "陈朵朵再发视频回应露营哀牢山",
+      "onboard_time": 1728538098,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 113460,
       "num": 113460,
       "word": "一时不知道是柚子太大还是宝宝太小",
@@ -1193,6 +1241,14 @@
       "onboard_time": 1728475218,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 110125,
+      "num": 373297,
+      "word": "黄奕一生追求出片的女人",
+      "onboard_time": 1728538519,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 107259,
@@ -1435,6 +1491,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 61285,
+      "num": 413949,
+      "word": "无限暖暖你藏得好深",
+      "onboard_time": 1728537319,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 60305,
       "num": 701948,
       "word": "儿童智能手表引发儿童社交攀比",
@@ -1483,6 +1547,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 48486,
+      "num": 516767,
+      "word": "起底山寨期刊亿元论文生意",
+      "onboard_time": 1728536540,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 47633,
+      "num": 403020,
+      "word": "要厘清互殴与正当防卫的界限",
+      "onboard_time": 1728536779,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 46281,
       "num": 628488,
       "word": "男子好心劝架致人受伤被诉",
@@ -1499,12 +1579,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 37789,
-      "num": 166201,
-      "word": "无限暖暖你藏得好深",
-      "onboard_time": 1728537319,
-      "rank": 38,
-      "category": "游戏"
+      "raw_hot": 44853,
+      "num": 413478,
+      "word": "惠英红全包眼线",
+      "onboard_time": 1728538579,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 36881,
@@ -1579,27 +1659,11 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 32492,
-      "num": 516767,
-      "word": "起底山寨期刊亿元论文生意",
-      "onboard_time": 1728536540,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 26695,
       "num": 50447,
       "word": "杭州不再区分首套二套房",
       "onboard_time": 1728506831,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 26348,
-      "num": 403020,
-      "word": "要厘清互殴与正当防卫的界限",
-      "onboard_time": 1728536779,
-      "rank": 13,
       "category": "社会新闻"
     },
     {
