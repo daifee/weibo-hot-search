@@ -1,6 +1,6 @@
 {
   "startTime": 1728491244792,
-  "endTime": 1728535270791,
+  "endTime": 1728537712230,
   "band_list": [
     {
       "raw_hot": 3438094,
@@ -171,20 +171,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 860365,
+      "num": 509148,
+      "word": "夫妻吵架把孩子放23楼空调外机上",
+      "onboard_time": 1728533541,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 853137,
       "num": 853137,
       "word": "央行",
       "onboard_time": 1728522678,
       "rank": 5,
       "category": "财经"
-    },
-    {
-      "raw_hot": 812462,
-      "num": 509148,
-      "word": "夫妻吵架把孩子放23楼空调外机上",
-      "onboard_time": 1728533541,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 800059,
@@ -235,6 +235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 597704,
+      "num": 597704,
+      "word": "东北雨姐",
+      "onboard_time": 1728537260,
+      "rank": 5,
+      "category": "网红"
+    },
+    {
       "raw_hot": 570457,
       "num": 570457,
       "word": "基金",
@@ -259,6 +267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 544239,
+      "num": 544239,
+      "word": "被网友给孙颖莎的留言暖到了",
+      "onboard_time": 1728532759,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 530950,
       "num": 366216,
       "word": "缺觉4天引发全身炎症风暴",
@@ -273,14 +289,6 @@
       "onboard_time": 1728514815,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 512272,
-      "num": 512272,
-      "word": "被网友给孙颖莎的留言暖到了",
-      "onboard_time": 1728532759,
-      "rank": 26,
-      "category": "体育"
     },
     {
       "raw_hot": 507501,
@@ -371,6 +379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 371149,
+      "num": 371149,
+      "word": "国乒男团vs韩国",
+      "onboard_time": 1728535461,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 369419,
       "num": 369419,
       "word": "孙颖莎3比0速胜伊藤美诚",
@@ -411,11 +427,35 @@
       "category": "体育"
     },
     {
+      "raw_hot": 345059,
+      "num": 345059,
+      "word": "王楚钦vs吴晙诚",
+      "onboard_time": 1728536899,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 343782,
       "num": 343782,
       "word": "中国文化的风早已吹到了法国",
       "onboard_time": 1728485001,
       "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 332518,
+      "num": 332518,
+      "word": "熊 你举手了吗你就吃",
+      "onboard_time": 1728533780,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 328063,
+      "num": 328063,
+      "word": "5岁女孩天生爆炸头发量惊人",
+      "onboard_time": 1728536419,
+      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -451,20 +491,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 294348,
+      "num": 559778,
+      "word": "浙江13天婚假正式通过",
+      "onboard_time": 1728530900,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 290276,
       "num": 431631,
       "word": "朝鲜为什么永久切断并封锁南部国境",
       "onboard_time": 1728530719,
       "rank": 43,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 286425,
-      "num": 286425,
-      "word": "熊 你举手了吗你就吃",
-      "onboard_time": 1728533780,
-      "rank": 41,
-      "category": "幽默"
     },
     {
       "raw_hot": 272234,
@@ -515,6 +555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 260952,
+      "num": 367512,
+      "word": "密室大逃脱",
+      "onboard_time": 1728535820,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 258549,
       "num": 555804,
       "word": "央行决定创设SFISF",
@@ -553,6 +601,14 @@
       "onboard_time": 1728529158,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 236091,
+      "num": 236091,
+      "word": "恋与深空新谷",
+      "onboard_time": 1728536899,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 234484,
@@ -611,6 +667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 220920,
+      "num": 220920,
+      "word": "孙颖莎辛苦了",
+      "onboard_time": 1728536419,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 220916,
       "num": 220916,
       "word": "这是中法文化的双向奔赴",
@@ -643,12 +707,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 215486,
+      "num": 215486,
+      "word": "国乒女团惜败体能和心理成拦路虎",
+      "onboard_time": 1728535281,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 215192,
       "num": 215192,
       "word": "王艺迪vs张本美和",
       "onboard_time": 1728483321,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 214370,
+      "num": 214370,
+      "word": "男子高速上开90码被女友嫌慢丢路上",
+      "onboard_time": 1728533600,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 214090,
@@ -683,12 +763,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 202404,
-      "num": 202404,
-      "word": "男子高速上开90码被女友嫌慢丢路上",
-      "onboard_time": 1728533600,
-      "rank": 46,
-      "category": "社会新闻"
+      "raw_hot": 202097,
+      "num": 363313,
+      "word": "黄子弘凡专辑",
+      "onboard_time": 1728536540,
+      "rank": 17,
+      "category": "音乐,艺人"
+    },
+    {
+      "raw_hot": 201141,
+      "num": 201141,
+      "word": "无缘亚锦赛冠军为女乒敲响警钟",
+      "onboard_time": 1728537260,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 201039,
@@ -705,14 +793,6 @@
       "onboard_time": 1728534622,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 189017,
-      "num": 559778,
-      "word": "浙江13天婚假正式通过",
-      "onboard_time": 1728530900,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 188506,
@@ -763,6 +843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 171313,
+      "num": 681758,
+      "word": "抓娃娃反诈版",
+      "onboard_time": 1728534080,
+      "rank": 16,
+      "category": "电影"
+    },
+    {
       "raw_hot": 168918,
       "num": 214324,
       "word": "陈幸同1比3平野美宇",
@@ -803,6 +891,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 161507,
+      "num": 161507,
+      "word": "叠纸心意",
+      "onboard_time": 1728537679,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 159908,
       "num": 159908,
       "word": "教授爬房40年整理上万件古建图纸",
@@ -817,6 +913,14 @@
       "onboard_time": 1728523518,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 157301,
+      "num": 157301,
+      "word": "纪凌尘怎么敢抢向佐风头的",
+      "onboard_time": 1728537439,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 153476,
@@ -841,6 +945,14 @@
       "onboard_time": 1728533659,
       "rank": 44,
       "category": "财经"
+    },
+    {
+      "raw_hot": 151006,
+      "num": 151006,
+      "word": "杀妻案嫌疑人儿子说不想父亲死",
+      "onboard_time": 1728537080,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 150480,
@@ -1017,14 +1129,6 @@
       "onboard_time": 1728485661,
       "rank": 34,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 119072,
-      "num": 681758,
-      "word": "抓娃娃反诈版",
-      "onboard_time": 1728534080,
-      "rank": 16,
-      "category": "电影"
     },
     {
       "raw_hot": 117269,
@@ -1339,6 +1443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 60040,
+      "num": 404708,
+      "word": "蚂蚁保是会选代言人的",
+      "onboard_time": 1728533360,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 55678,
       "num": 346258,
       "word": "京东双十一14号晚8现货开卖",
@@ -1353,14 +1465,6 @@
       "onboard_time": 1728494236,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 55122,
-      "num": 404708,
-      "word": "蚂蚁保是会选代言人的",
-      "onboard_time": 1728533360,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 53729,
@@ -1393,6 +1497,14 @@
       "onboard_time": 1728498913,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 37789,
+      "num": 166201,
+      "word": "无限暖暖你藏得好深",
+      "onboard_time": 1728537319,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 36881,
@@ -1467,11 +1579,27 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 32492,
+      "num": 516767,
+      "word": "起底山寨期刊亿元论文生意",
+      "onboard_time": 1728536540,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 26695,
       "num": 50447,
       "word": "杭州不再区分首套二套房",
       "onboard_time": 1728506831,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 26348,
+      "num": 403020,
+      "word": "要厘清互殴与正当防卫的界限",
+      "onboard_time": 1728536779,
+      "rank": 13,
       "category": "社会新闻"
     },
     {

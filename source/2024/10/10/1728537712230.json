@@ -1,0 +1,410 @@
+{
+  "runTime": 1728537712230,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1065701,
+        "num": 1170512,
+        "word": "董宇辉回应直播翻车",
+        "onboard_time": 1728532278,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 733673,
+        "num": 733673,
+        "word": "15元外卖与照片不符起诉获赔500元",
+        "onboard_time": 1728531078,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30860,
+        "num": 675006,
+        "word": "打卡秋天里的美丽中国",
+        "onboard_time": 1728532219,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 647615,
+        "num": 647615,
+        "word": "哀牢山原始森林摸一把叶子都是湿的",
+        "onboard_time": 1728531260,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 639091,
+        "num": 639091,
+        "word": "徐霞客曾在哀牢山迷路",
+        "onboard_time": 1728526699,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 597704,
+        "num": 597704,
+        "word": "东北雨姐",
+        "onboard_time": 1728537260,
+        "rank": 5,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 592743,
+        "num": 592743,
+        "word": "爱情公寓还是太超前了",
+        "onboard_time": 1728529038,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 544239,
+        "num": 544239,
+        "word": "被网友给孙颖莎的留言暖到了",
+        "onboard_time": 1728532759,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 523972,
+        "num": 523972,
+        "word": "戴LV丝巾受访的女局长被查",
+        "onboard_time": 1728493336,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32492,
+        "num": 516767,
+        "word": "起底山寨期刊亿元论文生意",
+        "onboard_time": 1728536540,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2332670,
+        "num": 492817,
+        "word": "杀妻男林友21年后被捕",
+        "onboard_time": 1728533418,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1467696,
+        "num": 451504,
+        "word": "孙颖莎强忍眼泪",
+        "onboard_time": 1728533481,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1153600,
+        "num": 441983,
+        "word": "郭碧婷都忍不住了",
+        "onboard_time": 1728529579,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 26348,
+        "num": 403020,
+        "word": "要厘清互殴与正当防卫的界限",
+        "onboard_time": 1728536779,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 569890,
+        "num": 381489,
+        "word": "唯一一个能让高铁商务座亏钱的人",
+        "onboard_time": 1728529337,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 371149,
+        "num": 371149,
+        "word": "国乒男团vs韩国",
+        "onboard_time": 1728535461,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 260952,
+        "num": 367512,
+        "word": "密室大逃脱",
+        "onboard_time": 1728535820,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202097,
+        "num": 363313,
+        "word": "黄子弘凡专辑",
+        "onboard_time": 1728536540,
+        "rank": 17,
+        "category": "音乐,艺人"
+      },
+      {
+        "raw_hot": 171313,
+        "num": 357349,
+        "word": "抓娃娃反诈版",
+        "onboard_time": 1728534080,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 137240,
+        "num": 354417,
+        "word": "富察傅恒保护富茶博恒",
+        "onboard_time": 1728530539,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 860365,
+        "num": 349063,
+        "word": "夫妻吵架把孩子放23楼空调外机上",
+        "onboard_time": 1728533541,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 345059,
+        "num": 345059,
+        "word": "王楚钦vs吴晙诚",
+        "onboard_time": 1728536899,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 334687,
+        "num": 334687,
+        "word": "疯狂筹钱进股市的人已经亏麻了",
+        "onboard_time": 1728530239,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 332518,
+        "num": 332518,
+        "word": "熊 你举手了吗你就吃",
+        "onboard_time": 1728533780,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 328063,
+        "num": 328063,
+        "word": "5岁女孩天生爆炸头发量惊人",
+        "onboard_time": 1728536419,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 60040,
+        "num": 321708,
+        "word": "蚂蚁保是会选代言人的",
+        "onboard_time": 1728533360,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 316254,
+        "num": 316254,
+        "word": "越来越多人开始追求健康式喝咖啡",
+        "onboard_time": 1728531260,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 294348,
+        "num": 294348,
+        "word": "浙江13天婚假正式通过",
+        "onboard_time": 1728530900,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280814,
+        "num": 280814,
+        "word": "缺觉4天引发全身炎症风暴",
+        "onboard_time": 1728525017,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 174446,
+        "num": 253562,
+        "word": "谢娜去脱口秀了",
+        "onboard_time": 1728532759,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 245145,
+        "num": 245145,
+        "word": "股市",
+        "onboard_time": 1728524057,
+        "rank": 30,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 236091,
+        "num": 236091,
+        "word": "恋与深空新谷",
+        "onboard_time": 1728536899,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 220920,
+        "num": 220920,
+        "word": "孙颖莎辛苦了",
+        "onboard_time": 1728536419,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 215486,
+        "num": 215486,
+        "word": "国乒女团惜败体能和心理成拦路虎",
+        "onboard_time": 1728535281,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 214370,
+        "num": 214370,
+        "word": "男子高速上开90码被女友嫌慢丢路上",
+        "onboard_time": 1728533600,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201141,
+        "num": 201141,
+        "word": "无缘亚锦赛冠军为女乒敲响警钟",
+        "onboard_time": 1728537260,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 186307,
+        "num": 186307,
+        "word": "朝鲜为什么永久切断并封锁南部国境",
+        "onboard_time": 1728530719,
+        "rank": 36,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 173322,
+        "num": 173322,
+        "word": "国乒女团决赛为何不敌日本队",
+        "onboard_time": 1728518959,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 37789,
+        "num": 166201,
+        "word": "无限暖暖你藏得好深",
+        "onboard_time": 1728537319,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 161507,
+        "num": 161507,
+        "word": "叠纸心意",
+        "onboard_time": 1728537679,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 161053,
+        "num": 161053,
+        "word": "国乒女团负日本队后网友喊话辛苦了",
+        "onboard_time": 1728529337,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157301,
+        "num": 157301,
+        "word": "纪凌尘怎么敢抢向佐风头的",
+        "onboard_time": 1728537439,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 152524,
+        "num": 152524,
+        "word": "莎莎连夜奔波赶赴亚锦赛",
+        "onboard_time": 1728530539,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 151006,
+        "num": 151006,
+        "word": "杀妻案嫌疑人儿子说不想父亲死",
+        "onboard_time": 1728537080,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149574,
+        "num": 149574,
+        "word": "孙颖莎不到三个月时间里打了29场比赛",
+        "onboard_time": 1728522438,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144249,
+        "num": 144249,
+        "word": "A股巨震之后股民怎么办",
+        "onboard_time": 1728531140,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 136456,
+        "num": 136456,
+        "word": "基金",
+        "onboard_time": 1728527538,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 134326,
+        "num": 134326,
+        "word": "老师捡手机归还失主送全班汉堡",
+        "onboard_time": 1728528258,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132079,
+        "num": 132079,
+        "word": "倪妮周游西班牙海滩大片",
+        "onboard_time": 1728533060,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 130581,
+        "num": 130581,
+        "word": "Hanni决定出席国会监查",
+        "onboard_time": 1728527598,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#加快建设社会主义文化强国#"
+    }
+  }
+}
