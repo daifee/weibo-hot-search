@@ -1,0 +1,410 @@
+{
+  "runTime": 1728548912767,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1443646,
+        "num": 1443646,
+        "word": "王楚钦vs安宰贤",
+        "onboard_time": 1728543019,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1186718,
+        "num": 1186718,
+        "word": "加沙已是人间炼狱",
+        "onboard_time": 1728542239,
+        "rank": 1,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 42613,
+        "num": 1162464,
+        "word": "明日重阳",
+        "onboard_time": 1728546799,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1140358,
+        "num": 1140358,
+        "word": "王楚钦独得两分",
+        "onboard_time": 1728545120,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 710178,
+        "num": 710178,
+        "word": "12306回应24元坐商务座送55元饭食",
+        "onboard_time": 1728539419,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 637842,
+        "num": 637842,
+        "word": "国乒男团亚锦赛晋级决赛",
+        "onboard_time": 1728545120,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 466898,
+        "num": 466898,
+        "word": "芒果文案",
+        "onboard_time": 1728545360,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 391595,
+        "num": 466414,
+        "word": "东北雨姐可能会构成犯罪",
+        "onboard_time": 1728545841,
+        "rank": 7,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 466186,
+        "num": 466186,
+        "word": "郑钦文破发",
+        "onboard_time": 1728546921,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 437270,
+        "num": 437270,
+        "word": "迈巴赫漏水车主用三色雨布封顶",
+        "onboard_time": 1728547339,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 939421,
+        "num": 411040,
+        "word": "四川一餐厅致多人腹泻1人身亡",
+        "onboard_time": 1728545779,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 792000,
+        "num": 397384,
+        "word": "重庆涉代孕医院被罚4.5万元",
+        "onboard_time": 1728544819,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 380103,
+        "num": 380103,
+        "word": "哀牢山原始森林摸一把叶子都是湿的",
+        "onboard_time": 1728531260,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 379622,
+        "num": 379622,
+        "word": "王楚钦3比1安宰贤",
+        "onboard_time": 1728548059,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 360683,
+        "num": 360683,
+        "word": "孙颖莎看向奖杯的眼神让人心疼",
+        "onboard_time": 1728538759,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 326299,
+        "num": 326299,
+        "word": "炉石传说补偿",
+        "onboard_time": 1728547699,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 285140,
+        "num": 325525,
+        "word": "电影射雕英雄传侠之大者",
+        "onboard_time": 1728548600,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 230213,
+        "num": 323595,
+        "word": "爱情公寓还是太超前了",
+        "onboard_time": 1728529038,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 25456,
+        "num": 319534,
+        "word": "VOGUE盛典出发图主题",
+        "onboard_time": 1728548479,
+        "rank": 18,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 66856,
+        "num": 317770,
+        "word": "女子毛巾藏针半年勒索9家酒店",
+        "onboard_time": 1728547819,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 259212,
+        "num": 315708,
+        "word": "民营经济促进法公开征求意见",
+        "onboard_time": 1728548479,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1836314,
+        "num": 314374,
+        "word": "东北雨姐售卖的粉条检测结果已出",
+        "onboard_time": 1728541040,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 440438,
+        "num": 311216,
+        "word": "女孩被猩猩亲手背偷偷擦手",
+        "onboard_time": 1728546020,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 410089,
+        "num": 308681,
+        "word": "夫妻吵架把孩子放23楼空调外机上",
+        "onboard_time": 1728533541,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232120,
+        "num": 307711,
+        "word": "温如也禁言",
+        "onboard_time": 1728548299,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 352785,
+        "num": 305166,
+        "word": "王楚钦和裁判交涉",
+        "onboard_time": 1728543800,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 303220,
+        "num": 303220,
+        "word": "孟子义张予曦合体上综艺",
+        "onboard_time": 1728544040,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 690347,
+        "num": 299078,
+        "word": "男子炒股8年60万元剩300多元",
+        "onboard_time": 1728544520,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 61013,
+        "num": 293684,
+        "word": "网购货不对板还被索要千元运费",
+        "onboard_time": 1728547399,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189714,
+        "num": 293265,
+        "word": "何运晨科普什么情况能给罪犯求情",
+        "onboard_time": 1728547940,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 293164,
+        "num": 293164,
+        "word": "广东人的彩礼观有多实际",
+        "onboard_time": 1728541938,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280360,
+        "num": 280360,
+        "word": "山取画材公司登记地址人去楼空",
+        "onboard_time": 1728540379,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260325,
+        "num": 260325,
+        "word": "今年最值得期待的彗星要来了",
+        "onboard_time": 1728543079,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252514,
+        "num": 252514,
+        "word": "民营经济促进法草案来了",
+        "onboard_time": 1728548479,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251384,
+        "num": 251384,
+        "word": "郭碧婷都忍不住了",
+        "onboard_time": 1728529579,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 241527,
+        "num": 241527,
+        "word": "杀妻男林友21年后被捕",
+        "onboard_time": 1728533418,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232780,
+        "num": 232780,
+        "word": "王楚钦这一分好精彩",
+        "onboard_time": 1728548000,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 230348,
+        "num": 230348,
+        "word": "无缘亚锦赛冠军为女乒敲响警钟",
+        "onboard_time": 1728537260,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 218135,
+        "num": 218135,
+        "word": "5岁女孩天生爆炸头发量惊人",
+        "onboard_time": 1728536419,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202686,
+        "num": 202686,
+        "word": "湖南作家残雪今日冲击诺贝尔文学奖",
+        "onboard_time": 1728547758,
+        "rank": 39,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 199140,
+        "num": 199140,
+        "word": "孙楠瘦了好多",
+        "onboard_time": 1728541519,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 53839,
+        "num": 195526,
+        "word": "当视障女孩看见落日群山",
+        "onboard_time": 1728548420,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192564,
+        "num": 192564,
+        "word": "股票",
+        "onboard_time": 1728548000,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 184297,
+        "num": 184297,
+        "word": "骚扰电话为什么屡禁难止",
+        "onboard_time": 1728543860,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175130,
+        "num": 175130,
+        "word": "东北雨姐红薯粉条涉嫌标签虚假标注",
+        "onboard_time": 1728538819,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169176,
+        "num": 169176,
+        "word": "郑钦文VS费尔南德斯",
+        "onboard_time": 1728544520,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125564,
+        "num": 155621,
+        "word": "互相嫁互相娶",
+        "onboard_time": 1728540258,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 154805,
+        "num": 154805,
+        "word": "部分直播间让未成年人暖场变相出镜",
+        "onboard_time": 1728542839,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150292,
+        "num": 150292,
+        "word": "有这些表现说明你欠了睡眠债",
+        "onboard_time": 1728543979,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 146830,
+        "num": 146830,
+        "word": "国足vs澳大利亚首发",
+        "onboard_time": 1728546559,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平回信勉励银龄行动老年志愿者代表#"
+    }
+  }
+}
