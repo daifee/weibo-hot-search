@@ -1,0 +1,410 @@
+{
+  "runTime": 1728528794001,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1353860,
+        "num": 1353860,
+        "word": "戴LV丝巾受访的女局长被查",
+        "onboard_time": 1728493336,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1275394,
+        "num": 1275394,
+        "word": "股市",
+        "onboard_time": 1728524057,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 9194,
+        "num": 1057471,
+        "word": "文博热非遗热持续升温",
+        "onboard_time": 1728478340,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 855891,
+        "num": 855891,
+        "word": "徐霞客曾在哀牢山迷路",
+        "onboard_time": 1728526699,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 765442,
+        "num": 765442,
+        "word": "特斯拉将请求中国等批准FSD监督版",
+        "onboard_time": 1728524057,
+        "rank": 4,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 507501,
+        "num": 507501,
+        "word": "韩国政府每周进口200吨中国大白菜",
+        "onboard_time": 1728524597,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 471234,
+        "num": 471234,
+        "word": "央行",
+        "onboard_time": 1728522678,
+        "rank": 6,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 371296,
+        "num": 460612,
+        "word": "李沁重生之我在各个年代当医生",
+        "onboard_time": 1728525140,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 247770,
+        "num": 452127,
+        "word": "Hanni将出席国会",
+        "onboard_time": 1728527598,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163332,
+        "num": 435597,
+        "word": "世界精神卫生日",
+        "onboard_time": 1728525379,
+        "rank": 9,
+        "category": "社会新闻,健康医疗"
+      },
+      {
+        "raw_hot": 617844,
+        "num": 431827,
+        "word": "国乒女团决赛为何不敌日本队",
+        "onboard_time": 1728518959,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 421735,
+        "num": 421735,
+        "word": "国乒女团1比3日本",
+        "onboard_time": 1728486381,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 387341,
+        "num": 387341,
+        "word": "跑步入场的00后3天赚了3万",
+        "onboard_time": 1728515296,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 377763,
+        "num": 377763,
+        "word": "基金",
+        "onboard_time": 1728527538,
+        "rank": 13,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 366002,
+        "num": 366002,
+        "word": "A股",
+        "onboard_time": 1728527538,
+        "rank": 14,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 91439,
+        "num": 343348,
+        "word": "洗脸用的绵柔巾竟然不含棉",
+        "onboard_time": 1728525919,
+        "rank": 15,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 321139,
+        "num": 321139,
+        "word": "迪丽热巴最佳街拍",
+        "onboard_time": 1728527657,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 313825,
+        "num": 313825,
+        "word": "成都又多一只巨巨巨大的熊猫",
+        "onboard_time": 1728514815,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150278,
+        "num": 300784,
+        "word": "陈哲远 古言男主",
+        "onboard_time": 1728519500,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132462,
+        "num": 296892,
+        "word": "TVB有自己的御用床宝",
+        "onboard_time": 1728523458,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 820190,
+        "num": 268888,
+        "word": "孙颖莎不到三个月时间里打了29场比赛",
+        "onboard_time": 1728522438,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 530950,
+        "num": 254685,
+        "word": "缺觉4天引发全身炎症风暴",
+        "onboard_time": 1728525017,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 253679,
+        "num": 253679,
+        "word": "上海学习困难门诊一开诊就爆满",
+        "onboard_time": 1728519259,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237136,
+        "num": 237136,
+        "word": "向佐跳操",
+        "onboard_time": 1728518600,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 219448,
+        "num": 219448,
+        "word": "记者深入哀牢山突遇浓雾",
+        "onboard_time": 1728485121,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217226,
+        "num": 217226,
+        "word": "小猫 总有一种不详的感觉",
+        "onboard_time": 1728523578,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 196854,
+        "num": 196854,
+        "word": "四川宜宾4.5级地震",
+        "onboard_time": 1728515296,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187205,
+        "num": 187205,
+        "word": "孙颖莎大口喘气",
+        "onboard_time": 1728516377,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 96114,
+        "num": 180225,
+        "word": "侯明昊卢昱晓怎么忍住不笑的",
+        "onboard_time": 1728518179,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 55678,
+        "num": 179059,
+        "word": "京东双十一14号晚8现货开卖",
+        "onboard_time": 1728527838,
+        "rank": 29,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 178700,
+        "num": 178700,
+        "word": "1岁女童土方退烧双手双脚扎满针眼",
+        "onboard_time": 1728516917,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170323,
+        "num": 170323,
+        "word": "虞书欣 北极巨兔",
+        "onboard_time": 1728491358,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 155077,
+        "num": 155077,
+        "word": "女子5年花光50万积蓄追发财梦",
+        "onboard_time": 1728482660,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145139,
+        "num": 145139,
+        "word": "陈梦回青岛与球迷切磋球技",
+        "onboard_time": 1728520221,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143529,
+        "num": 143529,
+        "word": "小时候翻到地石榴是一件了不起的事",
+        "onboard_time": 1728525017,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 141291,
+        "num": 141291,
+        "word": "女子将死虫放进调料碗敲诈海底捞",
+        "onboard_time": 1728523518,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132552,
+        "num": 132552,
+        "word": "独子出走30年父母离世后现身继承遗产",
+        "onboard_time": 1728489678,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130880,
+        "num": 130880,
+        "word": "文化中国行看重阳之美",
+        "onboard_time": 1728523698,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130263,
+        "num": 130263,
+        "word": "孙颖莎2比3张本美和",
+        "onboard_time": 1728493938,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126116,
+        "num": 126116,
+        "word": "老师捡手机归还失主送全班汉堡",
+        "onboard_time": 1728528258,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123639,
+        "num": 123639,
+        "word": "美媒称美以通话讨论对伊打击计划",
+        "onboard_time": 1728525858,
+        "rank": 40,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 116552,
+        "num": 116552,
+        "word": "A股三大股指高开",
+        "onboard_time": 1728525799,
+        "rank": 41,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 115205,
+        "num": 115205,
+        "word": "人生的意义就是体验",
+        "onboard_time": 1728525078,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 110933,
+        "num": 110933,
+        "word": "拜登内塔尼亚胡打了半小时电话",
+        "onboard_time": 1728528198,
+        "rank": 43,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 110307,
+        "num": 110307,
+        "word": "诺贝尔化学奖得主现身杭州学军中学",
+        "onboard_time": 1728516737,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107913,
+        "num": 107913,
+        "word": "理记发文质疑江歌妈妈骗捐",
+        "onboard_time": 1728486800,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106767,
+        "num": 106767,
+        "word": "氢氟酸沾了小半个手指就有严重后果",
+        "onboard_time": 1728525140,
+        "rank": 46,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 106744,
+        "num": 106744,
+        "word": "揭开哀牢山神秘面纱",
+        "onboard_time": 1728528499,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103234,
+        "num": 103234,
+        "word": "最高法披露AI生成他人声音侵权案例",
+        "onboard_time": 1728525499,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98236,
+        "num": 103135,
+        "word": "残雪位列诺贝尔文学奖赔率榜首",
+        "onboard_time": 1728520340,
+        "rank": 49,
+        "category": "读书作家"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平致信中国红十字会第十二次全国会员代表大会#"
+    }
+  }
+}
