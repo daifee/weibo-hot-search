@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1728529364556,
+  "endTime": 1728530856473,
   "band_list": [
     {
       "raw_hot": 12210422,
@@ -523,6 +523,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 1728043,
+      "num": 1728043,
+      "word": "徐霞客曾在哀牢山迷路",
+      "onboard_time": 1728526699,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1718715,
       "num": 465583,
       "word": "许嵩 分手了没关系还有我",
@@ -656,14 +664,6 @@
       "word": "中介劝房东不要情绪波动",
       "onboard_time": 1728008477,
       "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1538903,
-      "num": 1538903,
-      "word": "徐霞客曾在哀牢山迷路",
-      "onboard_time": 1728526699,
-      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -1187,6 +1187,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1168189,
+      "num": 1168189,
+      "word": "郭碧婷都忍不住了",
+      "onboard_time": 1728529579,
+      "rank": 1,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1164353,
       "num": 665894,
       "word": "成毅吊威亚摔在了台阶上",
@@ -1449,6 +1457,14 @@
       "onboard_time": 1728124880,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1055935,
+      "num": 333904,
+      "word": "唯一一个能让高铁商务座亏钱的人",
+      "onboard_time": 1728529337,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 1055508,
@@ -2329,6 +2345,14 @@
       "onboard_time": 1728102198,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 823656,
+      "num": 823656,
+      "word": "爱情公寓还是太超前了",
+      "onboard_time": 1728529038,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 820854,
@@ -3249,14 +3273,6 @@
       "onboard_time": 1728103578,
       "rank": 11,
       "category": "演出"
-    },
-    {
-      "raw_hot": 665798,
-      "num": 219633,
-      "word": "唯一一个能让高铁商务座亏钱的人",
-      "onboard_time": 1728529337,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 665681,
@@ -6659,6 +6675,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 357881,
+      "num": 371188,
+      "word": "Hanni决定出席国会监查",
+      "onboard_time": 1728527598,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 356935,
       "num": 356935,
       "word": "749局票房",
@@ -7033,6 +7057,14 @@
       "onboard_time": 1728036737,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 335290,
+      "num": 335290,
+      "word": "国乒女团负日本队后网友喊话辛苦了",
+      "onboard_time": 1728529337,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 334491,
@@ -7651,6 +7683,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 308086,
+      "num": 308086,
+      "word": "原神超话",
+      "onboard_time": 1728529278,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 308083,
       "num": 317546,
       "word": "黄晓明官宣2024美好奇妙夜",
@@ -8185,14 +8225,6 @@
       "onboard_time": 1727855178,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 287490,
-      "num": 371188,
-      "word": "Hanni决定出席国会监查",
-      "onboard_time": 1728527598,
-      "rank": 8,
-      "category": "艺人"
     },
     {
       "raw_hot": 287286,
@@ -9417,14 +9449,6 @@
       "onboard_time": 1727875280,
       "rank": 13,
       "category": "体育"
-    },
-    {
-      "raw_hot": 252074,
-      "num": 252074,
-      "word": "原神超话",
-      "onboard_time": 1728529278,
-      "rank": 27,
-      "category": "游戏"
     },
     {
       "raw_hot": 251945,
@@ -11507,6 +11531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 207087,
+      "num": 207087,
+      "word": "黑色月光公关战",
+      "onboard_time": 1728529998,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 207070,
       "num": 207070,
       "word": "马龙一家四口同框",
@@ -11705,6 +11737,14 @@
       "onboard_time": 1728047539,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 204685,
+      "num": 204685,
+      "word": "老师捡手机归还失主送全班汉堡",
+      "onboard_time": 1728528258,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 204527,
@@ -12104,14 +12144,6 @@
       "word": "白鹿配音白月梵星",
       "onboard_time": 1728115939,
       "rank": 24,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 199685,
-      "num": 199685,
-      "word": "爱情公寓还是太超前了",
-      "onboard_time": 1728529038,
-      "rank": 34,
       "category": "剧集"
     },
     {
@@ -13339,6 +13371,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 187531,
+      "num": 167179,
+      "word": "周深说刘宇宁腿长到打结",
+      "onboard_time": 1728530059,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 187295,
       "num": 234069,
       "word": "伊朗首次使用高超音速导弹",
@@ -14009,14 +14049,6 @@
       "onboard_time": 1727955619,
       "rank": 30,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 178641,
-      "num": 178641,
-      "word": "国乒女团负日本队后网友喊话辛苦了",
-      "onboard_time": 1728529337,
-      "rank": 37,
-      "category": "体育"
     },
     {
       "raw_hot": 178570,
@@ -15371,6 +15403,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 163613,
+      "num": 163613,
+      "word": "拜登内塔尼亚胡打了半小时电话",
+      "onboard_time": 1728528198,
+      "rank": 43,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 163596,
       "num": 362535,
       "word": "江苏省公布2024年度社会保险缴费基数",
@@ -15433,6 +15473,14 @@
       "onboard_time": 1727882720,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 162475,
+      "num": 162475,
+      "word": "疯狂筹钱进股市的人已经亏麻了",
+      "onboard_time": 1728530239,
+      "rank": 34,
+      "category": "财经"
     },
     {
       "raw_hot": 162437,
@@ -16171,6 +16219,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 155125,
+      "num": 155125,
+      "word": "莎莎连夜奔波赶赴亚锦赛",
+      "onboard_time": 1728530539,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 155034,
       "num": 155034,
       "word": "Faker心目中的GOAT",
@@ -16225,6 +16281,14 @@
       "onboard_time": 1728473359,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 154468,
+      "num": 167232,
+      "word": "富察傅恒保护富茶博恒",
+      "onboard_time": 1728530539,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 154422,
@@ -17347,6 +17411,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 144180,
+      "num": 144180,
+      "word": "七夜雪锦绣安宁互祝开播大吉",
+      "onboard_time": 1728530599,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 144162,
       "num": 144162,
       "word": "什么是长胶打法",
@@ -17627,6 +17699,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 141234,
+      "num": 141234,
+      "word": "朝鲜为什么永久切断并封锁南部国境",
+      "onboard_time": 1728530719,
+      "rank": 43,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 141144,
       "num": 141144,
       "word": "TES冲击LPL第二张八强门票",
@@ -17649,6 +17729,14 @@
       "onboard_time": 1727919437,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 141101,
+      "num": 141101,
+      "word": "地质工作者称哀牢山并无特殊之处",
+      "onboard_time": 1728530359,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 140841,
@@ -17843,14 +17931,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 139256,
-      "num": 139256,
-      "word": "老师捡手机归还失主送全班汉堡",
-      "onboard_time": 1728528258,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 139240,
       "num": 139240,
       "word": "75所高校同升国旗表白祖国",
@@ -17985,14 +18065,6 @@
       "onboard_time": 1727777479,
       "rank": 41,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 138444,
-      "num": 138444,
-      "word": "拜登内塔尼亚胡打了半小时电话",
-      "onboard_time": 1728528198,
-      "rank": 43,
-      "category": "国外时政"
     },
     {
       "raw_hot": 138442,
@@ -18137,6 +18209,14 @@
       "onboard_time": 1728030257,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 137362,
+      "num": 362581,
+      "word": "洗脸用的绵柔巾竟然不含棉",
+      "onboard_time": 1728525919,
+      "rank": 15,
+      "category": "科学科普"
     },
     {
       "raw_hot": 137357,
@@ -19395,20 +19475,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 127332,
-      "num": 362581,
-      "word": "洗脸用的绵柔巾竟然不含棉",
-      "onboard_time": 1728525919,
-      "rank": 15,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 127307,
       "num": 284791,
       "word": "志愿军存亡之战进入2024票房榜前十",
       "onboard_time": 1728229039,
       "rank": 8,
       "category": "电影"
+    },
+    {
+      "raw_hot": 127305,
+      "num": 366447,
+      "word": "揭开哀牢山神秘面纱",
+      "onboard_time": 1728528499,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 127238,
@@ -21619,14 +21699,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 106744,
-      "num": 366447,
-      "word": "揭开哀牢山神秘面纱",
-      "onboard_time": 1728528499,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 106724,
       "num": 106724,
       "word": "景区回应游客泡面开水收费5元",
@@ -23035,6 +23107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 91167,
+      "num": 369829,
+      "word": "短视频带货培训陷阱再升级",
+      "onboard_time": 1728529038,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 91027,
       "num": 91027,
       "word": "林诗栋谈下轮对阵林德",
@@ -23089,6 +23169,14 @@
       "onboard_time": 1727919377,
       "rank": 46,
       "category": "财经"
+    },
+    {
+      "raw_hot": 90495,
+      "num": 348949,
+      "word": "4人大量购买罂粟壳解馋被罚",
+      "onboard_time": 1728529158,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 90352,
@@ -25267,6 +25355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 54265,
+      "num": 332706,
+      "word": "vivo全新系统OriginOS5",
+      "onboard_time": 1728529457,
+      "rank": 12,
+      "category": "数码"
+    },
+    {
       "raw_hot": 54205,
       "num": 293809,
       "word": "归龙潮烛T0级烫门",
@@ -25297,6 +25393,14 @@
       "onboard_time": 1728319276,
       "rank": 49,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 53729,
+      "num": 352670,
+      "word": "揭秘网络色情陷阱",
+      "onboard_time": 1728529098,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 53718,
@@ -27395,6 +27499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 26469,
+      "num": 275091,
+      "word": "于正说自己有牺牲和奉献精神",
+      "onboard_time": 1728530478,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 26458,
       "num": 26458,
       "word": "房产中介称市场有反弹但没有很夸张",
@@ -28187,14 +28299,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 16823,
-      "num": 369829,
-      "word": "短视频带货培训陷阱再升级",
-      "onboard_time": 1728529038,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 16796,
       "num": 19727,
       "word": "中国工匠雕玉石一眼惊艳",
@@ -28360,14 +28464,6 @@
       "word": "熊猫基地通报游客私放无人机",
       "onboard_time": 1728504371,
       "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 13647,
-      "num": 352670,
-      "word": "揭秘网络色情陷阱",
-      "onboard_time": 1728529098,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -28537,14 +28633,6 @@
       "onboard_time": 1728159132,
       "rank": 47,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 9884,
-      "num": 348949,
-      "word": "4人大量购买罂粟壳解馋被罚",
-      "onboard_time": 1728529158,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 9599,

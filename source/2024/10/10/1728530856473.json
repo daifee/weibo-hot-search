@@ -1,0 +1,410 @@
+{
+  "runTime": 1728530856473,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1728043,
+        "num": 1728043,
+        "word": "徐霞客曾在哀牢山迷路",
+        "onboard_time": 1728526699,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1168189,
+        "num": 1168189,
+        "word": "郭碧婷都忍不住了",
+        "onboard_time": 1728529579,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 9219,
+        "num": 1018621,
+        "word": "文博热非遗热持续升温",
+        "onboard_time": 1728478340,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 974621,
+        "num": 974621,
+        "word": "戴LV丝巾受访的女局长被查",
+        "onboard_time": 1728493336,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 823656,
+        "num": 823656,
+        "word": "爱情公寓还是太超前了",
+        "onboard_time": 1728529038,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 663716,
+        "num": 663716,
+        "word": "股市",
+        "onboard_time": 1728524057,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 450172,
+        "num": 450172,
+        "word": "特斯拉将请求中国等批准FSD监督版",
+        "onboard_time": 1728524057,
+        "rank": 6,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 357881,
+        "num": 357881,
+        "word": "Hanni决定出席国会监查",
+        "onboard_time": 1728527598,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 341744,
+        "num": 341744,
+        "word": "基金",
+        "onboard_time": 1728527538,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 335290,
+        "num": 335290,
+        "word": "国乒女团负日本队后网友喊话辛苦了",
+        "onboard_time": 1728529337,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1055935,
+        "num": 333904,
+        "word": "唯一一个能让高铁商务座亏钱的人",
+        "onboard_time": 1728529337,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 436505,
+        "num": 333637,
+        "word": "国乒女团决赛为何不敌日本队",
+        "onboard_time": 1728518959,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 54265,
+        "num": 332706,
+        "word": "vivo全新系统OriginOS5",
+        "onboard_time": 1728529457,
+        "rank": 12,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 332226,
+        "num": 332226,
+        "word": "韩国政府每周进口200吨中国大白菜",
+        "onboard_time": 1728524597,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 53729,
+        "num": 323364,
+        "word": "揭秘网络色情陷阱",
+        "onboard_time": 1728529098,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 319948,
+        "num": 319948,
+        "word": "跑步入场的00后3天赚了3万",
+        "onboard_time": 1728515296,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 308086,
+        "num": 308086,
+        "word": "原神超话",
+        "onboard_time": 1728529278,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 293852,
+        "num": 293852,
+        "word": "李沁重生之我在各个年代当医生",
+        "onboard_time": 1728525140,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 90495,
+        "num": 282655,
+        "word": "4人大量购买罂粟壳解馋被罚",
+        "onboard_time": 1728529158,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26469,
+        "num": 275091,
+        "word": "于正说自己有牺牲和奉献精神",
+        "onboard_time": 1728530478,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 52695,
+        "num": 261346,
+        "word": "京东双十一14号晚8现货开卖",
+        "onboard_time": 1728527838,
+        "rank": 20,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 296076,
+        "num": 246870,
+        "word": "A股",
+        "onboard_time": 1728527538,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 561243,
+        "num": 239609,
+        "word": "孙颖莎不到三个月时间里打了29场比赛",
+        "onboard_time": 1728522438,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 452543,
+        "num": 228240,
+        "word": "缺觉4天引发全身炎症风暴",
+        "onboard_time": 1728525017,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 221779,
+        "num": 221779,
+        "word": "迪丽热巴最佳街拍",
+        "onboard_time": 1728527657,
+        "rank": 24,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 207087,
+        "num": 207087,
+        "word": "黑色月光公关战",
+        "onboard_time": 1728529998,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 204685,
+        "num": 204685,
+        "word": "老师捡手机归还失主送全班汉堡",
+        "onboard_time": 1728528258,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200211,
+        "num": 200211,
+        "word": "国乒女团1比3日本",
+        "onboard_time": 1728486381,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 180867,
+        "num": 180867,
+        "word": "世界精神卫生日",
+        "onboard_time": 1728525379,
+        "rank": 28,
+        "category": "社会新闻,健康医疗"
+      },
+      {
+        "raw_hot": 154468,
+        "num": 167232,
+        "word": "富察傅恒保护富茶博恒",
+        "onboard_time": 1728530539,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137362,
+        "num": 167192,
+        "word": "洗脸用的绵柔巾竟然不含棉",
+        "onboard_time": 1728525919,
+        "rank": 30,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 187531,
+        "num": 167179,
+        "word": "周深说刘宇宁腿长到打结",
+        "onboard_time": 1728530059,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167155,
+        "num": 167155,
+        "word": "成都又多一只巨巨巨大的熊猫",
+        "onboard_time": 1728514815,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163613,
+        "num": 163613,
+        "word": "拜登内塔尼亚胡打了半小时电话",
+        "onboard_time": 1728528198,
+        "rank": 33,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 162475,
+        "num": 162475,
+        "word": "疯狂筹钱进股市的人已经亏麻了",
+        "onboard_time": 1728530239,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 91167,
+        "num": 158957,
+        "word": "短视频带货培训陷阱再升级",
+        "onboard_time": 1728529038,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158904,
+        "num": 158904,
+        "word": "上海学习困难门诊一开诊就爆满",
+        "onboard_time": 1728519259,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155166,
+        "num": 155166,
+        "word": "四川宜宾4.5级地震",
+        "onboard_time": 1728515296,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155125,
+        "num": 155125,
+        "word": "莎莎连夜奔波赶赴亚锦赛",
+        "onboard_time": 1728530539,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 154681,
+        "num": 154681,
+        "word": "1岁女童土方退烧双手双脚扎满针眼",
+        "onboard_time": 1728516917,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151771,
+        "num": 151771,
+        "word": "孙颖莎大口喘气",
+        "onboard_time": 1728516377,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 147674,
+        "num": 147674,
+        "word": "向佐跳操",
+        "onboard_time": 1728518600,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144180,
+        "num": 144180,
+        "word": "七夜雪锦绣安宁互祝开播大吉",
+        "onboard_time": 1728530599,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141234,
+        "num": 141234,
+        "word": "朝鲜为什么永久切断并封锁南部国境",
+        "onboard_time": 1728530719,
+        "rank": 43,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 141101,
+        "num": 141101,
+        "word": "地质工作者称哀牢山并无特殊之处",
+        "onboard_time": 1728530359,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138593,
+        "num": 138593,
+        "word": "陈梦回青岛与球迷切磋球技",
+        "onboard_time": 1728520221,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137610,
+        "num": 137610,
+        "word": "小猫 总有一种不详的感觉",
+        "onboard_time": 1728523578,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 134254,
+        "num": 134254,
+        "word": "央行",
+        "onboard_time": 1728522678,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 107952,
+        "num": 127752,
+        "word": "陈哲远 古言男主",
+        "onboard_time": 1728519500,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127305,
+        "num": 127305,
+        "word": "揭开哀牢山神秘面纱",
+        "onboard_time": 1728528499,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#聚焦高质量发展提高人道服务能力#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1728491244792,
-  "endTime": 1728529364556,
+  "endTime": 1728530856473,
   "band_list": [
     {
       "raw_hot": 3405029,
@@ -43,6 +43,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1728043,
+      "num": 1728043,
+      "word": "徐霞客曾在哀牢山迷路",
+      "onboard_time": 1728526699,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1681559,
       "num": 1681559,
       "word": "国乒女团1比2日本队",
@@ -75,12 +83,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1538903,
-      "num": 1538903,
-      "word": "徐霞客曾在哀牢山迷路",
-      "onboard_time": 1728526699,
-      "rank": 3,
-      "category": "社会新闻"
+      "raw_hot": 1168189,
+      "num": 1168189,
+      "word": "郭碧婷都忍不住了",
+      "onboard_time": 1728529579,
+      "rank": 1,
+      "category": "电影"
     },
     {
       "raw_hot": 1067664,
@@ -89,6 +97,14 @@
       "onboard_time": 1728486020,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1055935,
+      "num": 333904,
+      "word": "唯一一个能让高铁商务座亏钱的人",
+      "onboard_time": 1728529337,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 1013741,
@@ -123,6 +139,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 823656,
+      "num": 823656,
+      "word": "爱情公寓还是太超前了",
+      "onboard_time": 1728529038,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 765442,
       "num": 765442,
       "word": "特斯拉将请求中国等批准FSD监督版",
@@ -137,14 +161,6 @@
       "onboard_time": 1728485121,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 665798,
-      "num": 219633,
-      "word": "唯一一个能让高铁商务座亏钱的人",
-      "onboard_time": 1728529337,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 622271,
@@ -299,6 +315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 357881,
+      "num": 371188,
+      "word": "Hanni决定出席国会监查",
+      "onboard_time": 1728527598,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 351320,
       "num": 258323,
       "word": "孙颖莎大口喘气",
@@ -313,6 +337,14 @@
       "onboard_time": 1728485001,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 335290,
+      "num": 335290,
+      "word": "国乒女团负日本队后网友喊话辛苦了",
+      "onboard_time": 1728529337,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 321139,
@@ -331,20 +363,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 308086,
+      "num": 308086,
+      "word": "原神超话",
+      "onboard_time": 1728529278,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 294888,
       "num": 222592,
       "word": "26岁女子以为痛经检查发现临盆了",
       "onboard_time": 1728467180,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 287490,
-      "num": 371188,
-      "word": "Hanni决定出席国会监查",
-      "onboard_time": 1728527598,
-      "rank": 8,
-      "category": "艺人"
     },
     {
       "raw_hot": 272234,
@@ -393,14 +425,6 @@
       "onboard_time": 1728521600,
       "rank": 9,
       "category": "财经"
-    },
-    {
-      "raw_hot": 252074,
-      "num": 252074,
-      "word": "原神超话",
-      "onboard_time": 1728529278,
-      "rank": 27,
-      "category": "游戏"
     },
     {
       "raw_hot": 251274,
@@ -515,6 +539,22 @@
       "category": "社会新闻,健康医疗"
     },
     {
+      "raw_hot": 207087,
+      "num": 207087,
+      "word": "黑色月光公关战",
+      "onboard_time": 1728529998,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 204685,
+      "num": 204685,
+      "word": "老师捡手机归还失主送全班汉堡",
+      "onboard_time": 1728528258,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 201039,
       "num": 559667,
       "word": "文化中国行看重阳之美",
@@ -523,12 +563,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 199685,
-      "num": 199685,
-      "word": "爱情公寓还是太超前了",
-      "onboard_time": 1728529038,
-      "rank": 34,
-      "category": "剧集"
+      "raw_hot": 187531,
+      "num": 167179,
+      "word": "周深说刘宇宁腿长到打结",
+      "onboard_time": 1728530059,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 179011,
@@ -537,14 +577,6 @@
       "onboard_time": 1728523458,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 178641,
-      "num": 178641,
-      "word": "国乒女团负日本队后网友喊话辛苦了",
-      "onboard_time": 1728529337,
-      "rank": 37,
-      "category": "体育"
     },
     {
       "raw_hot": 178124,
@@ -579,6 +611,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 163613,
+      "num": 163613,
+      "word": "拜登内塔尼亚胡打了半小时电话",
+      "onboard_time": 1728528198,
+      "rank": 43,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 162475,
+      "num": 162475,
+      "word": "疯狂筹钱进股市的人已经亏麻了",
+      "onboard_time": 1728530239,
+      "rank": 34,
+      "category": "财经"
+    },
+    {
       "raw_hot": 159908,
       "num": 159908,
       "word": "教授爬房40年整理上万件古建图纸",
@@ -593,6 +641,22 @@
       "onboard_time": 1728523518,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 155125,
+      "num": 155125,
+      "word": "莎莎连夜奔波赶赴亚锦赛",
+      "onboard_time": 1728530539,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 154468,
+      "num": 167232,
+      "word": "富察傅恒保护富茶博恒",
+      "onboard_time": 1728530539,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 153188,
@@ -627,6 +691,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 144180,
+      "num": 144180,
+      "word": "七夜雪锦绣安宁互祝开播大吉",
+      "onboard_time": 1728530599,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 143762,
       "num": 143762,
       "word": "氢氟酸沾了小半个手指就有严重后果",
@@ -635,20 +707,28 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 139256,
-      "num": 139256,
-      "word": "老师捡手机归还失主送全班汉堡",
-      "onboard_time": 1728528258,
-      "rank": 39,
+      "raw_hot": 141234,
+      "num": 141234,
+      "word": "朝鲜为什么永久切断并封锁南部国境",
+      "onboard_time": 1728530719,
+      "rank": 43,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 141101,
+      "num": 141101,
+      "word": "地质工作者称哀牢山并无特殊之处",
+      "onboard_time": 1728530359,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 138444,
-      "num": 138444,
-      "word": "拜登内塔尼亚胡打了半小时电话",
-      "onboard_time": 1728528198,
-      "rank": 43,
-      "category": "国外时政"
+      "raw_hot": 137362,
+      "num": 362581,
+      "word": "洗脸用的绵柔巾竟然不含棉",
+      "onboard_time": 1728525919,
+      "rank": 15,
+      "category": "科学科普"
     },
     {
       "raw_hot": 131405,
@@ -691,12 +771,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 127332,
-      "num": 362581,
-      "word": "洗脸用的绵柔巾竟然不含棉",
-      "onboard_time": 1728525919,
-      "rank": 15,
-      "category": "科学科普"
+      "raw_hot": 127305,
+      "num": 366447,
+      "word": "揭开哀牢山神秘面纱",
+      "onboard_time": 1728528499,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 126887,
@@ -835,14 +915,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 106744,
-      "num": 366447,
-      "word": "揭开哀牢山神秘面纱",
-      "onboard_time": 1728528499,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 106146,
       "num": 106146,
       "word": "林熙蕾女儿将担任萧敬腾婚礼花童",
@@ -945,6 +1017,22 @@
       "onboard_time": 1728516437,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 91167,
+      "num": 369829,
+      "word": "短视频带货培训陷阱再升级",
+      "onboard_time": 1728529038,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 90495,
+      "num": 348949,
+      "word": "4人大量购买罂粟壳解馋被罚",
+      "onboard_time": 1728529158,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 89997,
@@ -1051,6 +1139,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 54265,
+      "num": 332706,
+      "word": "vivo全新系统OriginOS5",
+      "onboard_time": 1728529457,
+      "rank": 12,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 53729,
+      "num": 352670,
+      "word": "揭秘网络色情陷阱",
+      "onboard_time": 1728529098,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 52372,
       "num": 393982,
       "word": "禁区不是景区切勿为流量盲目跟风",
@@ -1131,6 +1235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 26469,
+      "num": 275091,
+      "word": "于正说自己有牺牲和奉献精神",
+      "onboard_time": 1728530478,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 22734,
       "num": 29252,
       "word": "华晨宇演唱会舞美",
@@ -1171,14 +1283,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 16823,
-      "num": 369829,
-      "word": "短视频带货培训陷阱再升级",
-      "onboard_time": 1728529038,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 16240,
       "num": 34784,
       "word": "司机突发疾病未松油门白车将其逼停",
@@ -1200,14 +1304,6 @@
       "word": "熊猫基地通报游客私放无人机",
       "onboard_time": 1728504371,
       "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 13647,
-      "num": 352670,
-      "word": "揭秘网络色情陷阱",
-      "onboard_time": 1728529098,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -1233,14 +1329,6 @@
       "onboard_time": 1728529337,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 9884,
-      "num": 348949,
-      "word": "4人大量购买罂粟壳解馋被罚",
-      "onboard_time": 1728529158,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 6174,
