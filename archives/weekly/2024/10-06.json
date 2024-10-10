@@ -1,6 +1,6 @@
 {
   "startTime": 1728145573126,
-  "endTime": 1728571178182,
+  "endTime": 1728573833164,
   "band_list": [
     {
       "raw_hot": 13027302,
@@ -65,6 +65,14 @@
       "onboard_time": 1728388760,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 3458826,
+      "num": 3458826,
+      "word": "石凯回应",
+      "onboard_time": 1728572241,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 3438094,
@@ -441,6 +449,14 @@
       "onboard_time": 1728302902,
       "rank": 10,
       "category": "演出"
+    },
+    {
+      "raw_hot": 1717115,
+      "num": 583413,
+      "word": "听泉鉴宝宣布短暂停播",
+      "onboard_time": 1728572060,
+      "rank": 3,
+      "category": "网红"
     },
     {
       "raw_hot": 1700091,
@@ -2571,6 +2587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 589601,
+      "num": 421874,
+      "word": "赵露思直播间状态",
+      "onboard_time": 1728569003,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 586339,
       "num": 496450,
       "word": "学历贬值下卷研究生还有意义吗",
@@ -2769,14 +2793,6 @@
       "onboard_time": 1728368960,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 548135,
-      "num": 421874,
-      "word": "赵露思直播间状态",
-      "onboard_time": 1728569003,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 546621,
@@ -2979,6 +2995,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 504356,
+      "num": 504356,
+      "word": "考上师范学校却被人冒名顶替了",
+      "onboard_time": 1728571042,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 503211,
       "num": 275276,
       "word": "以军48小时轰炸多处房屋学校安置中心",
@@ -3097,6 +3121,14 @@
       "onboard_time": 1728447080,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 489237,
+      "num": 489237,
+      "word": "梁靖崑vs黄彦诚",
+      "onboard_time": 1728571701,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 488790,
@@ -5363,6 +5395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 281802,
+      "num": 281802,
+      "word": "湖北一卫生院看病花29.78元收30元",
+      "onboard_time": 1728571940,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 281499,
       "num": 281499,
       "word": "成龙已经70岁了",
@@ -5753,6 +5793,14 @@
       "onboard_time": 1728543079,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 259412,
+      "num": 259412,
+      "word": "亚锦赛男团决赛",
+      "onboard_time": 1728568581,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 259212,
@@ -6491,14 +6539,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 225805,
-      "num": 225805,
-      "word": "亚锦赛男团决赛",
-      "onboard_time": 1728568581,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
       "raw_hot": 225632,
       "num": 209099,
       "word": "何浩畅晒照",
@@ -6601,6 +6641,14 @@
       "onboard_time": 1728441138,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 221440,
+      "num": 270256,
+      "word": "王祖蓝祝奔跑吧十周年快乐",
+      "onboard_time": 1728572540,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 220920,
@@ -6803,6 +6851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 216281,
+      "num": 216281,
+      "word": "网传炒股断更作者复更了",
+      "onboard_time": 1728573140,
+      "rank": 27,
+      "category": "财经"
+    },
+    {
       "raw_hot": 215920,
       "num": 215920,
       "word": "夏目友人帐",
@@ -6816,6 +6872,14 @@
       "word": "国乒女团惜败体能和心理成拦路虎",
       "onboard_time": 1728535281,
       "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 215444,
+      "num": 215444,
+      "word": "林诗栋3比1林昀儒",
+      "onboard_time": 1728572781,
+      "rank": 30,
       "category": "体育"
     },
     {
@@ -7051,6 +7115,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 208339,
+      "num": 215592,
+      "word": "张晚意一次走通两种赛道",
+      "onboard_time": 1728401420,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 208235,
       "num": 208235,
       "word": "肖宇梁饰演光绪",
@@ -7185,6 +7257,14 @@
       "onboard_time": 1728296361,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 206054,
+      "num": 215461,
+      "word": "奔跑吧十周年",
+      "onboard_time": 1728573021,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 205908,
@@ -7465,6 +7545,14 @@
       "onboard_time": 1728400521,
       "rank": 33,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 200680,
+      "num": 200680,
+      "word": "浮夸直播间",
+      "onboard_time": 1728572721,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 200554,
@@ -8667,6 +8755,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 173983,
+      "num": 173983,
+      "word": "新疆阿勒泰一条河现双色奇观",
+      "onboard_time": 1728573081,
+      "rank": 39,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 173976,
       "num": 450795,
       "word": "东北雨姐客服否认跑路",
@@ -9579,14 +9675,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 157423,
-      "num": 157423,
-      "word": "考上师范学校却被人冒名顶替了",
-      "onboard_time": 1728571042,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 157419,
       "num": 157419,
       "word": "他用3年为国家挽回1亿多美元损失",
@@ -10267,6 +10355,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 147034,
+      "num": 147034,
+      "word": "密室大逃脱大神版",
+      "onboard_time": 1728572540,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 146975,
       "num": 146975,
       "word": "杨紫巴黎假日碎片",
@@ -10385,6 +10481,22 @@
       "onboard_time": 1728484580,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 145068,
+      "num": 145068,
+      "word": "国乒男团2比0中国台北",
+      "onboard_time": 1728573081,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 145058,
+      "num": 145058,
+      "word": "TES巴黎见",
+      "onboard_time": 1728572300,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 144908,
@@ -10961,14 +11073,6 @@
       "onboard_time": 1728350419,
       "rank": 43,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 133130,
-      "num": 133130,
-      "word": "张晚意一次走通两种赛道",
-      "onboard_time": 1728401420,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 133006,
@@ -14619,6 +14723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 35647,
+      "num": 216838,
+      "word": "假上海爷叔建群骗取会员费",
+      "onboard_time": 1728572300,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 35601,
       "num": 30536,
       "word": "周深荒芜之地爆改青草地",
@@ -15337,6 +15449,14 @@
       "onboard_time": 1728327672,
       "rank": 48,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 19360,
+      "num": 308796,
+      "word": "直面差评何尝不是直面天命",
+      "onboard_time": 1728572661,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 19286,
