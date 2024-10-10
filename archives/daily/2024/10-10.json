@@ -1,6 +1,6 @@
 {
   "startTime": 1728491244792,
-  "endTime": 1728542710980,
+  "endTime": 1728544872626,
   "band_list": [
     {
       "raw_hot": 3438094,
@@ -41,6 +41,14 @@
       "onboard_time": 1728488119,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1997542,
+      "num": 1997542,
+      "word": "东北雨姐售卖的粉条检测结果已出",
+      "onboard_time": 1728541040,
+      "rank": 7,
+      "category": "网红"
     },
     {
       "raw_hot": 1983356,
@@ -123,8 +131,16 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1504318,
+      "num": 1504318,
+      "word": "加沙已是人间炼狱",
+      "onboard_time": 1728542239,
+      "rank": 15,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 1362299,
-      "num": 453419,
+      "num": 1214389,
       "word": "12306回应24元坐商务座送55元饭食",
       "onboard_time": 1728539419,
       "rank": 10,
@@ -137,14 +153,6 @@
       "onboard_time": 1728532278,
       "rank": 3,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 1204419,
-      "num": 1204419,
-      "word": "东北雨姐售卖的粉条检测结果已出",
-      "onboard_time": 1728541040,
-      "rank": 7,
-      "category": "网红"
     },
     {
       "raw_hot": 1137398,
@@ -187,6 +195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 985665,
+      "num": 693291,
+      "word": "王楚钦vs安宰贤",
+      "onboard_time": 1728543019,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 959743,
       "num": 548868,
       "word": "警方通报两赤裸男孩遭虐打",
@@ -216,6 +232,14 @@
       "word": "国乒女团亚锦赛亚军",
       "onboard_time": 1728493998,
       "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 857537,
+      "num": 486133,
+      "word": "王楚钦和裁判交涉",
+      "onboard_time": 1728543800,
+      "rank": 10,
       "category": "体育"
     },
     {
@@ -275,12 +299,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 641143,
+      "num": 454090,
+      "word": "国乒男团2比1韩国",
+      "onboard_time": 1728543559,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 622271,
       "num": 622271,
       "word": "上海学习困难门诊一开诊就爆满",
       "onboard_time": 1728519259,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 616424,
+      "num": 616424,
+      "word": "山取画材公司登记地址人去楼空",
+      "onboard_time": 1728540379,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 579320,
+      "num": 438341,
+      "word": "孙楠瘦了好多",
+      "onboard_time": 1728541519,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 570457,
@@ -331,6 +379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 511213,
+      "num": 511213,
+      "word": "孙颖莎看向奖杯的眼神让人心疼",
+      "onboard_time": 1728538759,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 507501,
       "num": 507501,
       "word": "韩国政府每周进口200吨中国大白菜",
@@ -369,30 +425,6 @@
       "onboard_time": 1728530239,
       "rank": 34,
       "category": "财经"
-    },
-    {
-      "raw_hot": 455736,
-      "num": 455736,
-      "word": "孙颖莎看向奖杯的眼神让人心疼",
-      "onboard_time": 1728538759,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 452269,
-      "num": 452269,
-      "word": "加沙已是人间炼狱",
-      "onboard_time": 1728542239,
-      "rank": 15,
-      "category": "国外时政"
-    },
-    {
-      "raw_hot": 448001,
-      "num": 455230,
-      "word": "山取画材公司登记地址人去楼空",
-      "onboard_time": 1728540379,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 441914,
@@ -465,14 +497,6 @@
       "onboard_time": 1728486020,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 401363,
-      "num": 401363,
-      "word": "孙楠瘦了好多",
-      "onboard_time": 1728541519,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 396510,
@@ -635,6 +659,22 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 289347,
+      "num": 289347,
+      "word": "广东人的彩礼观有多实际",
+      "onboard_time": 1728541938,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 275550,
+      "num": 275550,
+      "word": "部分直播间让未成年人暖场变相出镜",
+      "onboard_time": 1728542839,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 272234,
       "num": 272234,
       "word": "陈梦送出自己的奥运夺冠球衣",
@@ -688,6 +728,14 @@
       "word": "密室大逃脱",
       "onboard_time": 1728535820,
       "rank": 16,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 260382,
+      "num": 271602,
+      "word": "孟子义张予曦合体上综艺",
+      "onboard_time": 1728544040,
+      "rank": 27,
       "category": "综艺"
     },
     {
@@ -883,20 +931,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 212140,
+      "num": 212140,
+      "word": "王欣瑜晋级武网八强",
+      "onboard_time": 1728544098,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 211578,
       "num": 435597,
       "word": "世界精神卫生日",
       "onboard_time": 1728525379,
       "rank": 34,
       "category": "社会新闻,健康医疗"
-    },
-    {
-      "raw_hot": 208119,
-      "num": 208119,
-      "word": "广东人的彩礼观有多实际",
-      "onboard_time": 1728541938,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 207087,
@@ -953,6 +1001,14 @@
       "onboard_time": 1728539300,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 192941,
+      "num": 192941,
+      "word": "男子炒股8年60万元剩300多元",
+      "onboard_time": 1728544520,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 188506,
@@ -1075,6 +1131,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 163837,
+      "num": 265164,
+      "word": "辛巴直播解封",
+      "onboard_time": 1728543380,
+      "rank": 29,
+      "category": "网红"
+    },
+    {
       "raw_hot": 163672,
       "num": 481631,
       "word": "GiselleSolo曲歌词",
@@ -1097,6 +1161,14 @@
       "onboard_time": 1728538098,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 161027,
+      "num": 454716,
+      "word": "林诗栋3比0林钟勋",
+      "onboard_time": 1728542540,
+      "rank": 10,
+      "category": "体育"
     },
     {
       "raw_hot": 160116,
@@ -1187,6 +1259,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 150111,
+      "num": 150111,
+      "word": "有这些表现说明你欠了睡眠债",
+      "onboard_time": 1728543979,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 146841,
       "num": 146841,
       "word": "女子投放死虫6次敲诈海底捞",
@@ -1209,6 +1289,14 @@
       "onboard_time": 1728525140,
       "rank": 42,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 143170,
+      "num": 143170,
+      "word": "重庆涉代孕医院被罚4.5万元",
+      "onboard_time": 1728544819,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 139742,
@@ -1483,6 +1571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 101167,
+      "num": 507050,
+      "word": "骚扰电话为什么屡禁难止",
+      "onboard_time": 1728543860,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 99429,
       "num": 99429,
       "word": "偶遇张予曦妈妈和弟弟",
@@ -1603,6 +1699,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 82782,
+      "num": 378404,
+      "word": "蚂蚁保居然请了刘亦菲",
+      "onboard_time": 1728540498,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 82155,
       "num": 102579,
       "word": "日本首相为何早早解散议会提前大选",
@@ -1636,7 +1740,7 @@
     },
     {
       "raw_hot": 75448,
-      "num": 1258562,
+      "num": 1563518,
       "word": "打卡秋天里的美丽中国",
       "onboard_time": 1728532219,
       "rank": 2,
@@ -1723,12 +1827,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 53412,
-      "num": 378404,
-      "word": "蚂蚁保居然请了刘亦菲",
-      "onboard_time": 1728540498,
-      "rank": 21,
-      "category": "艺人"
+      "raw_hot": 52715,
+      "num": 468669,
+      "word": "X200真机实拍提前曝光",
+      "onboard_time": 1728541219,
+      "rank": 31,
+      "category": "数码"
     },
     {
       "raw_hot": 52372,
@@ -1755,14 +1859,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 47091,
-      "num": 454310,
-      "word": "X200真机实拍提前曝光",
-      "onboard_time": 1728541219,
-      "rank": 31,
-      "category": "数码"
-    },
-    {
       "raw_hot": 46281,
       "num": 628488,
       "word": "男子好心劝架致人受伤被诉",
@@ -1785,6 +1881,22 @@
       "onboard_time": 1728538579,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 43766,
+      "num": 416445,
+      "word": "员工按假领导指示转账被骗895万",
+      "onboard_time": 1728543860,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 37465,
+      "num": 376899,
+      "word": "郑钦文VS费尔南德斯",
+      "onboard_time": 1728544520,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 36881,
@@ -1859,14 +1971,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 30188,
-      "num": 454716,
-      "word": "林诗栋3比0林钟勋",
-      "onboard_time": 1728542540,
-      "rank": 10,
-      "category": "体育"
-    },
-    {
       "raw_hot": 26695,
       "num": 50447,
       "word": "杭州不再区分首套二套房",
@@ -1897,6 +2001,14 @@
       "onboard_time": 1728516978,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 20445,
+      "num": 353662,
+      "word": "HYBE周边中国元素",
+      "onboard_time": 1728544040,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 17504,
