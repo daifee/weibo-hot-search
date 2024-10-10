@@ -1,6 +1,6 @@
 {
   "startTime": 1728577667934,
-  "endTime": 1728600009975,
+  "endTime": 1728602500658,
   "band_list": [
     {
       "raw_hot": 6465280,
@@ -19,8 +19,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1686828,
-      "num": 1686828,
+      "raw_hot": 1886804,
+      "num": 1886804,
       "word": "王楚钦",
       "onboard_time": 1728577460,
       "rank": 9,
@@ -41,6 +41,14 @@
       "onboard_time": 1728572060,
       "rank": 4,
       "category": "网红"
+    },
+    {
+      "raw_hot": 998221,
+      "num": 998221,
+      "word": "这种高仿板栗有毒千万别吃",
+      "onboard_time": 1728580274,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 946505,
@@ -91,6 +99,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 530160,
+      "num": 530160,
+      "word": "未来三天可能发生大地磁暴",
+      "onboard_time": 1728560780,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 515671,
       "num": 483993,
       "word": "梁王光速下班",
@@ -104,14 +120,6 @@
       "word": "湖北一卫生院看病花29.78元收30元",
       "onboard_time": 1728571940,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 344855,
-      "num": 344855,
-      "word": "未来三天可能发生大地磁暴",
-      "onboard_time": 1728560780,
-      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -131,20 +139,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 323321,
+      "num": 323321,
+      "word": "网友举报过期大米销往乡村学校",
+      "onboard_time": 1728598692,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 304271,
+      "num": 304271,
+      "word": "网络女主播摆拍约架还用上了血胶囊",
+      "onboard_time": 1728590471,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 303704,
+      "num": 303704,
+      "word": "考上师范学校却被人冒名顶替了",
+      "onboard_time": 1728571042,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 299217,
       "num": 299217,
       "word": "梁靖崑2比3黄彦诚",
       "onboard_time": 1728574580,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 292061,
-      "num": 292061,
-      "word": "考上师范学校却被人冒名顶替了",
-      "onboard_time": 1728571042,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 286754,
@@ -155,6 +179,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 278220,
+      "num": 278220,
+      "word": "花215万买奔驰漏水折损近80万",
+      "onboard_time": 1728600554,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 264991,
       "num": 264991,
       "word": "原来很多人的洗澡顺序错了",
@@ -163,20 +195,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 246735,
-      "num": 137736,
-      "word": "网络女主播摆拍约架还用上了血胶囊",
-      "onboard_time": 1728590471,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 242860,
-      "num": 242860,
-      "word": "这种高仿板栗有毒千万别吃",
-      "onboard_time": 1728580274,
-      "rank": 9,
-      "category": "社会新闻"
+      "raw_hot": 261711,
+      "num": 222473,
+      "word": "东北雨姐售卖的粉条检测结果已出",
+      "onboard_time": 1728541040,
+      "rank": 23,
+      "category": "网红"
     },
     {
       "raw_hot": 237926,
@@ -187,12 +211,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 222473,
-      "num": 222473,
-      "word": "东北雨姐售卖的粉条检测结果已出",
-      "onboard_time": 1728541040,
-      "rank": 23,
-      "category": "网红"
+      "raw_hot": 234776,
+      "num": 234776,
+      "word": "苗疆陈朵朵再回应露营哀牢山",
+      "onboard_time": 1728585733,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 218267,
@@ -235,8 +259,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 182543,
-      "num": 182543,
+      "raw_hot": 188733,
+      "num": 188733,
       "word": "以色列",
       "onboard_time": 1728576140,
       "rank": 33,
@@ -316,7 +340,7 @@
     },
     {
       "raw_hot": 144224,
-      "num": 213850,
+      "num": 308747,
       "word": "明年春节档电影阵容",
       "onboard_time": 1728577340,
       "rank": 29,
@@ -363,12 +387,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 121138,
-      "num": 121138,
-      "word": "苗疆陈朵朵再回应露营哀牢山",
-      "onboard_time": 1728585733,
-      "rank": 24,
-      "category": "社会新闻"
+      "raw_hot": 126605,
+      "num": 187892,
+      "word": "张晚意一次走通两种赛道",
+      "onboard_time": 1728571281,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 120870,
@@ -419,20 +443,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 113067,
-      "num": 113067,
-      "word": "张晚意一次走通两种赛道",
-      "onboard_time": 1728571281,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 112651,
       "num": 112651,
       "word": "国乒男团2比0中国台北",
       "onboard_time": 1728573081,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 109879,
+      "num": 109879,
+      "word": "孩子得精神病是在替家庭生病吗",
+      "onboard_time": 1728582314,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 107905,
@@ -451,6 +475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 105592,
+      "num": 105592,
+      "word": "215万迈巴赫漏水4S店称将负责到底",
+      "onboard_time": 1728583213,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 94989,
       "num": 111234,
       "word": "任敏好灵",
@@ -459,12 +491,36 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 82375,
-      "num": 82375,
-      "word": "孩子得精神病是在替家庭生病吗",
-      "onboard_time": 1728582314,
-      "rank": 30,
-      "category": "情感"
+      "raw_hot": 88385,
+      "num": 88385,
+      "word": "研究院回应研究员有多个博士学位",
+      "onboard_time": 1728587532,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 88042,
+      "num": 88042,
+      "word": "对抗抑郁最好的运动方式",
+      "onboard_time": 1728594071,
+      "rank": 47,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 82806,
+      "num": 82806,
+      "word": "王楚钦逆转太牛了",
+      "onboard_time": 1728602117,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 80500,
+      "num": 80500,
+      "word": "东北雨姐所售粉条不标木薯属虚假宣传",
+      "onboard_time": 1728563961,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 80453,
@@ -475,14 +531,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 78703,
-      "num": 84141,
-      "word": "215万迈巴赫漏水4S店称将负责到底",
-      "onboard_time": 1728583213,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 78514,
       "num": 78514,
       "word": "新迈巴赫漏水被4S店大规模拆解",
@@ -491,20 +539,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 60632,
-      "num": 60632,
+      "raw_hot": 76409,
+      "num": 76409,
       "word": "台湾从来不是也绝不可能成为一个国家",
       "onboard_time": 1728555019,
       "rank": 44,
       "category": "国内时政"
     },
     {
-      "raw_hot": 59350,
-      "num": 54385,
-      "word": "对抗抑郁最好的运动方式",
-      "onboard_time": 1728594071,
-      "rank": 47,
-      "category": "健康医疗"
+      "raw_hot": 73876,
+      "num": 73876,
+      "word": "秒杀没开始团伙已经抢到商品",
+      "onboard_time": 1728597551,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 64466,
+      "num": 64466,
+      "word": "王楚钦决赛拿两分",
+      "onboard_time": 1728602236,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 58156,
@@ -524,19 +580,19 @@
     },
     {
       "raw_hot": 55546,
-      "num": 55546,
+      "num": 64414,
       "word": "国足1比3澳大利亚",
       "onboard_time": 1728552979,
       "rank": 46,
       "category": "体育"
     },
     {
-      "raw_hot": 48005,
-      "num": 48005,
-      "word": "秒杀没开始团伙已经抢到商品",
-      "onboard_time": 1728597551,
-      "rank": 31,
-      "category": "社会新闻"
+      "raw_hot": 53348,
+      "num": 64443,
+      "word": "王楚钦林昀儒神仙对拉",
+      "onboard_time": 1728601636,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 47235,
@@ -555,20 +611,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 36925,
+      "num": 304640,
+      "word": "车主回应215万买到漏水迈巴赫",
+      "onboard_time": 1728601936,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 32140,
       "num": 99707,
       "word": "用车身抵住失控黑车的白车侠发声",
       "onboard_time": 1728580215,
       "rank": 19,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 31323,
-      "num": 112738,
-      "word": "网友举报过期大米销往乡村学校",
-      "onboard_time": 1728598692,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 28922,
@@ -585,14 +641,6 @@
       "onboard_time": 1728582792,
       "rank": 49,
       "category": "演出,体育"
-    },
-    {
-      "raw_hot": 22847,
-      "num": 57593,
-      "word": "研究院回应研究员有多个博士学位",
-      "onboard_time": 1728587532,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 22269,
@@ -667,8 +715,8 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 10341,
-      "num": 336810,
+      "raw_hot": 13759,
+      "num": 822650,
       "word": "候鸟环球迁徙记",
       "onboard_time": 1728565160,
       "rank": 2,
