@@ -1,6 +1,6 @@
 {
   "startTime": 1728491244792,
-  "endTime": 1728564137985,
+  "endTime": 1728565117753,
   "band_list": [
     {
       "raw_hot": 13027302,
@@ -331,6 +331,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 972423,
+      "num": 972423,
+      "word": "世界乒联说孙颖莎好好休息",
+      "onboard_time": 1728562521,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 959743,
       "num": 548868,
       "word": "警方通报两赤裸男孩遭虐打",
@@ -347,20 +355,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 915716,
+      "num": 915716,
+      "word": "倪妮杂志封面是真蛇",
+      "onboard_time": 1728563419,
+      "rank": 4,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 897284,
       "num": 509148,
       "word": "夫妻吵架把孩子放23楼空调外机上",
       "onboard_time": 1728533541,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 894256,
-      "num": 391764,
-      "word": "世界乒联说孙颖莎好好休息",
-      "onboard_time": 1728562521,
-      "rank": 10,
-      "category": "体育"
     },
     {
       "raw_hot": 865401,
@@ -683,14 +691,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 474538,
-      "num": 474538,
-      "word": "倪妮杂志封面是真蛇",
-      "onboard_time": 1728563419,
-      "rank": 4,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 469740,
       "num": 469740,
       "word": "疯狂筹钱进股市的人已经亏麻了",
@@ -801,6 +801,14 @@
       "onboard_time": 1728537260,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 424723,
+      "num": 424723,
+      "word": "迪丽热巴红衣花海路透",
+      "onboard_time": 1728563841,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 416068,
@@ -955,6 +963,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 353013,
+      "num": 325811,
+      "word": "原来很多人的洗澡顺序错了",
+      "onboard_time": 1728560902,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 351320,
       "num": 258323,
       "word": "孙颖莎大口喘气",
@@ -1009,14 +1025,6 @@
       "onboard_time": 1728547699,
       "rank": 15,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 325811,
-      "num": 325811,
-      "word": "原来很多人的洗澡顺序错了",
-      "onboard_time": 1728560902,
-      "rank": 22,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 321139,
@@ -1115,6 +1123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 277742,
+      "num": 277742,
+      "word": "林高远王艺迪1比3林钟勋申裕斌",
+      "onboard_time": 1728564499,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 277329,
       "num": 277329,
       "word": "赵露思给粉丝补偿礼物",
@@ -1140,7 +1156,7 @@
     },
     {
       "raw_hot": 272110,
-      "num": 395209,
+      "num": 445335,
       "word": "再见爱人4夫妻嘉宾官宣",
       "onboard_time": 1728560002,
       "rank": 39,
@@ -1499,6 +1515,14 @@
       "category": "社会新闻,健康医疗"
     },
     {
+      "raw_hot": 208599,
+      "num": 208599,
+      "word": "CPI",
+      "onboard_time": 1728564381,
+      "rank": 27,
+      "category": "财经"
+    },
+    {
       "raw_hot": 207087,
       "num": 207087,
       "word": "黑色月光公关战",
@@ -1579,12 +1603,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 193640,
-      "num": 193640,
-      "word": "迪丽热巴红衣花海路透",
-      "onboard_time": 1728563841,
-      "rank": 26,
-      "category": "剧集"
+      "raw_hot": 191361,
+      "num": 439639,
+      "word": "TES对战DK",
+      "onboard_time": 1728559162,
+      "rank": 29,
+      "category": "电竞"
     },
     {
       "raw_hot": 189714,
@@ -1675,6 +1699,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 181352,
+      "num": 436882,
+      "word": "未来三天可能发生大地磁暴",
+      "onboard_time": 1728560780,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 181163,
       "num": 181163,
       "word": "中方反制3家美国军工企业",
@@ -1689,6 +1721,22 @@
       "onboard_time": 1728523458,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 178443,
+      "num": 178443,
+      "word": "PEL秋决倒计时1天",
+      "onboard_time": 1728564260,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 178310,
+      "num": 178310,
+      "word": "女孩翻阳台离家被白车接走失联七天",
+      "onboard_time": 1728564021,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 178162,
@@ -1811,20 +1859,20 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 165960,
+      "num": 165960,
+      "word": "国足丢球数居18强赛球队首位",
+      "onboard_time": 1728564260,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 164915,
       "num": 288406,
       "word": "芒果男艺人在街头发传单",
       "onboard_time": 1728559581,
       "rank": 28,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 163846,
-      "num": 163846,
-      "word": "未来三天可能发生大地磁暴",
-      "onboard_time": 1728560780,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 163837,
@@ -2083,6 +2131,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 140606,
+      "num": 140606,
+      "word": "慕胥辞路透",
+      "onboard_time": 1728564921,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 139742,
       "num": 366447,
       "word": "揭开哀牢山神秘面纱",
@@ -2099,6 +2155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 137918,
+      "num": 137918,
+      "word": "惊现巨型海鸥偷吃人类薯条",
+      "onboard_time": 1728564499,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 137362,
       "num": 362581,
       "word": "洗脸用的绵柔巾竟然不含棉",
@@ -2107,11 +2171,19 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 134361,
-      "num": 134361,
-      "word": "女孩翻阳台离家被白车接走失联七天",
-      "onboard_time": 1728564021,
-      "rank": 46,
+      "raw_hot": 137048,
+      "num": 137048,
+      "word": "好幸福的狗狗",
+      "onboard_time": 1728564561,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 136462,
+      "num": 164396,
+      "word": "科研机构95后研究员简历引关注",
+      "onboard_time": 1728561980,
+      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -2435,14 +2507,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 99497,
-      "num": 164396,
-      "word": "科研机构95后研究员简历引关注",
-      "onboard_time": 1728561980,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 99429,
       "num": 99429,
       "word": "偶遇张予曦妈妈和弟弟",
@@ -2553,14 +2617,6 @@
       "onboard_time": 1728519979,
       "rank": 29,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 87238,
-      "num": 286810,
-      "word": "TES对战DK",
-      "onboard_time": 1728559162,
-      "rank": 29,
-      "category": "电竞"
     },
     {
       "raw_hot": 86608,
@@ -2721,6 +2777,14 @@
       "onboard_time": 1728547399,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 60966,
+      "num": 386076,
+      "word": "多家银行发布存量房贷利率下调公告",
+      "onboard_time": 1728563541,
+      "rank": 13,
+      "category": "财经"
     },
     {
       "raw_hot": 60305,
@@ -2931,14 +2995,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 34550,
-      "num": 385420,
-      "word": "多家银行发布存量房贷利率下调公告",
-      "onboard_time": 1728563541,
-      "rank": 13,
-      "category": "财经"
-    },
-    {
       "raw_hot": 34169,
       "num": 319534,
       "word": "VOGUE盛典出发图主题",
@@ -2961,6 +3017,14 @@
       "onboard_time": 1728502511,
       "rank": 29,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 29238,
+      "num": 380936,
+      "word": "对熊孩子施暴不是管教是违法",
+      "onboard_time": 1728564141,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 28791,
@@ -2995,8 +3059,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 24262,
-      "num": 388275,
+      "raw_hot": 24280,
+      "num": 428372,
       "word": "热浪之外",
       "onboard_time": 1728560721,
       "rank": 12,
@@ -3025,6 +3089,14 @@
       "onboard_time": 1728516978,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 19251,
+      "num": 136635,
+      "word": "王羲之也逃不过谐音梗",
+      "onboard_time": 1728564321,
+      "rank": 42,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 17504,
