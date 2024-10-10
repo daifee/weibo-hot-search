@@ -1,0 +1,410 @@
+{
+  "runTime": 1728534381825,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1741199,
+        "num": 1741199,
+        "word": "郭碧婷都忍不住了",
+        "onboard_time": 1728529579,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 2608133,
+        "num": 1566952,
+        "word": "杀妻男林友21年后被捕",
+        "onboard_time": 1728533418,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 75448,
+        "num": 1257761,
+        "word": "打卡秋天里的美丽中国",
+        "onboard_time": 1728532219,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1232533,
+        "num": 1232533,
+        "word": "董宇辉回应直播翻车",
+        "onboard_time": 1728532278,
+        "rank": 3,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1172448,
+        "num": 1172448,
+        "word": "徐霞客曾在哀牢山迷路",
+        "onboard_time": 1728526699,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 928166,
+        "num": 928166,
+        "word": "15元外卖与照片不符起诉获赔500元",
+        "onboard_time": 1728531078,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 783782,
+        "num": 783782,
+        "word": "哀牢山原始森林摸一把叶子都是湿的",
+        "onboard_time": 1728531260,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 665975,
+        "num": 783644,
+        "word": "爱情公寓还是太超前了",
+        "onboard_time": 1728529038,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 50620,
+        "num": 758541,
+        "word": "A股中字头板块上演涨停潮",
+        "onboard_time": 1728534080,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 26840,
+        "num": 756853,
+        "word": "多城开启声势浩大的商品房促销",
+        "onboard_time": 1728533060,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 874169,
+        "num": 734074,
+        "word": "孙颖莎强忍眼泪",
+        "onboard_time": 1728533481,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 65172,
+        "num": 723161,
+        "word": "刘亦菲蚂蚁保",
+        "onboard_time": 1728532040,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 717576,
+        "num": 717576,
+        "word": "国乒女团负日本队后网友喊话辛苦了",
+        "onboard_time": 1728529337,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 226309,
+        "num": 711667,
+        "word": "Hanni决定出席国会监查",
+        "onboard_time": 1728527598,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 60305,
+        "num": 701948,
+        "word": "儿童智能手表引发儿童社交攀比",
+        "onboard_time": 1728532939,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214090,
+        "num": 694523,
+        "word": "富察傅恒保护富茶博恒",
+        "onboard_time": 1728530539,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 47724,
+        "num": 681758,
+        "word": "抓娃娃反诈版",
+        "onboard_time": 1728534080,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 681164,
+        "num": 681164,
+        "word": "越来越多人开始追求健康式喝咖啡",
+        "onboard_time": 1728531260,
+        "rank": 17,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 46281,
+        "num": 628488,
+        "word": "男子好心劝架致人受伤被诉",
+        "onboard_time": 1728532999,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 65835,
+        "num": 625482,
+        "word": "vivo全新系统OriginOS5",
+        "onboard_time": 1728529457,
+        "rank": 19,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 625201,
+        "num": 625201,
+        "word": "戴LV丝巾受访的女局长被查",
+        "onboard_time": 1728493336,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 64370,
+        "num": 603082,
+        "word": "原来果茶不加糖更好喝",
+        "onboard_time": 1728533360,
+        "rank": 21,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 594331,
+        "num": 594331,
+        "word": "唯一一个能让高铁商务座亏钱的人",
+        "onboard_time": 1728529337,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 591197,
+        "num": 591197,
+        "word": "股市",
+        "onboard_time": 1728524057,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 469740,
+        "num": 469740,
+        "word": "疯狂筹钱进股市的人已经亏麻了",
+        "onboard_time": 1728530239,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 469392,
+        "num": 469392,
+        "word": "夫妻吵架把孩子放23楼空调外机上",
+        "onboard_time": 1728533541,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 461573,
+        "num": 461573,
+        "word": "被网友给孙颖莎的留言暖到了",
+        "onboard_time": 1728532759,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 55122,
+        "num": 404708,
+        "word": "蚂蚁保是会选代言人的",
+        "onboard_time": 1728533360,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 243752,
+        "num": 397003,
+        "word": "谢娜去脱口秀了",
+        "onboard_time": 1728532759,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156091,
+        "num": 394285,
+        "word": "李沁重生之我在各个年代当医生",
+        "onboard_time": 1728525140,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 391624,
+        "num": 391624,
+        "word": "国乒女团决赛为何不敌日本队",
+        "onboard_time": 1728518959,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 380910,
+        "num": 380910,
+        "word": "特斯拉将请求中国等批准FSD监督版",
+        "onboard_time": 1728524057,
+        "rank": 31,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 366216,
+        "num": 366216,
+        "word": "缺觉4天引发全身炎症风暴",
+        "onboard_time": 1728525017,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 322088,
+        "num": 322088,
+        "word": "孙颖莎不到三个月时间里打了29场比赛",
+        "onboard_time": 1728522438,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 273112,
+        "num": 273112,
+        "word": "朝鲜为什么永久切断并封锁南部国境",
+        "onboard_time": 1728530719,
+        "rank": 34,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 272614,
+        "num": 272614,
+        "word": "基金",
+        "onboard_time": 1728527538,
+        "rank": 35,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 257030,
+        "num": 257030,
+        "word": "莎莎连夜奔波赶赴亚锦赛",
+        "onboard_time": 1728530539,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 217486,
+        "num": 217486,
+        "word": "4人大量购买罂粟壳解馋被罚",
+        "onboard_time": 1728529158,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213777,
+        "num": 213777,
+        "word": "周深说刘宇宁腿长到打结",
+        "onboard_time": 1728530059,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197337,
+        "num": 197337,
+        "word": "跑步入场的00后3天赚了3万",
+        "onboard_time": 1728515296,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193168,
+        "num": 193168,
+        "word": "老师捡手机归还失主送全班汉堡",
+        "onboard_time": 1728528258,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192241,
+        "num": 192241,
+        "word": "熊 你举手了吗你就吃",
+        "onboard_time": 1728533780,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 185769,
+        "num": 185769,
+        "word": "沪指开盘涨0.58%",
+        "onboard_time": 1728534020,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 182322,
+        "num": 182322,
+        "word": "浙江13天婚假正式通过",
+        "onboard_time": 1728530900,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170791,
+        "num": 170791,
+        "word": "韩国政府每周进口200吨中国大白菜",
+        "onboard_time": 1728524597,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131120,
+        "num": 170757,
+        "word": "白鹿临江仙单人片花",
+        "onboard_time": 1728532880,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170724,
+        "num": 170724,
+        "word": "男子高速上开90码被女友嫌慢丢路上",
+        "onboard_time": 1728533600,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154304,
+        "num": 154304,
+        "word": "A股巨震之后股民怎么办",
+        "onboard_time": 1728531140,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 153650,
+        "num": 153650,
+        "word": "世界精神卫生日",
+        "onboard_time": 1728525379,
+        "rank": 48,
+        "category": "社会新闻,健康医疗"
+      },
+      {
+        "raw_hot": 152723,
+        "num": 152723,
+        "word": "拜登内塔尼亚胡打了半小时电话",
+        "onboard_time": 1728528198,
+        "rank": 49,
+        "category": "国外时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平致电祝贺赛义德当选连任突尼斯总统#"
+    }
+  }
+}
