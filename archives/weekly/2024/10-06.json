@@ -1,6 +1,6 @@
 {
   "startTime": 1728145573126,
-  "endTime": 1728538785651,
+  "endTime": 1728541892676,
   "band_list": [
     {
       "raw_hot": 12210422,
@@ -648,6 +648,14 @@
       "word": "儿子参与鬼火少年炸街被父亲暴揍",
       "onboard_time": 1728353179,
       "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1250975,
+      "num": 444034,
+      "word": "12306回应24元坐商务座送55元饭食",
+      "onboard_time": 1728539419,
+      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -1459,6 +1467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 843747,
+      "num": 843747,
+      "word": "梁靖崑vs安宰贤",
+      "onboard_time": 1728539899,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 833939,
       "num": 440706,
       "word": "弟弟回应远嫁姐姐半年看父亲被指不孝",
@@ -1577,6 +1593,14 @@
       "onboard_time": 1728441799,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 770015,
+      "num": 477120,
+      "word": "梁靖崑0比3安宰贤",
+      "onboard_time": 1728540979,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 766404,
@@ -2675,6 +2699,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 491316,
+      "num": 491316,
+      "word": "东北雨姐红薯粉条涉嫌标签虚假标注",
+      "onboard_time": 1728538819,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 490663,
       "num": 490663,
       "word": "文泰一被警方立案第二天生日直播",
@@ -2721,6 +2753,14 @@
       "onboard_time": 1728351679,
       "rank": 48,
       "category": "财经"
+    },
+    {
+      "raw_hot": 481436,
+      "num": 481436,
+      "word": "东北雨姐售卖的粉条检测结果已出",
+      "onboard_time": 1728541040,
+      "rank": 7,
+      "category": "网红"
     },
     {
       "raw_hot": 481420,
@@ -2963,6 +3003,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 441914,
+      "num": 401387,
+      "word": "5岁女孩天生爆炸头发量惊人",
+      "onboard_time": 1728536419,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 439253,
       "num": 311248,
       "word": "为什么不吃米面体重很快会降",
@@ -3024,6 +3072,14 @@
       "word": "孙颖莎出战女单决赛",
       "onboard_time": 1728180560,
       "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 426496,
+      "num": 376892,
+      "word": "无缘亚锦赛冠军为女乒敲响警钟",
+      "onboard_time": 1728537260,
+      "rank": 35,
       "category": "体育"
     },
     {
@@ -3107,12 +3163,28 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 416068,
+      "num": 416068,
+      "word": "互相嫁互相娶",
+      "onboard_time": 1728540258,
+      "rank": 12,
+      "category": "电影"
+    },
+    {
       "raw_hot": 415554,
       "num": 415554,
       "word": "75年来中国人均预期寿命翻了一倍多",
       "onboard_time": 1728266778,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 415228,
+      "num": 415228,
+      "word": "李沁 观音杨柳手",
+      "onboard_time": 1728539178,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 414308,
@@ -3169,14 +3241,6 @@
       "onboard_time": 1728302483,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 401387,
-      "num": 401387,
-      "word": "5岁女孩天生爆炸头发量惊人",
-      "onboard_time": 1728536419,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 400289,
@@ -3363,6 +3427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 381270,
+      "num": 381270,
+      "word": "国乒男团vs韩国",
+      "onboard_time": 1728535461,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 380995,
       "num": 380995,
       "word": "中东局势到了最危急时刻",
@@ -3401,14 +3473,6 @@
       "onboard_time": 1728360861,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 376892,
-      "num": 376892,
-      "word": "无缘亚锦赛冠军为女乒敲响警钟",
-      "onboard_time": 1728537260,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 375936,
@@ -3479,14 +3543,6 @@
       "num": 334829,
       "word": "国乒女团0比1日本",
       "onboard_time": 1728486381,
-      "rank": 15,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 371149,
-      "num": 371149,
-      "word": "国乒男团vs韩国",
-      "onboard_time": 1728535461,
       "rank": 15,
       "category": "体育"
     },
@@ -3787,6 +3843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 350055,
+      "num": 350055,
+      "word": "孙颖莎看向奖杯的眼神让人心疼",
+      "onboard_time": 1728538759,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 345483,
       "num": 314133,
       "word": "陈奕迅 谢谢你们没退票",
@@ -3857,6 +3921,14 @@
       "onboard_time": 1728174377,
       "rank": 16,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 338101,
+      "num": 379822,
+      "word": "山取画材公司登记地址人去楼空",
+      "onboard_time": 1728540379,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 337738,
@@ -5345,6 +5417,14 @@
       "onboard_time": 1728274038,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 238752,
+      "num": 373519,
+      "word": "孙楠瘦了好多",
+      "onboard_time": 1728541519,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 238720,
@@ -7227,6 +7307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 183065,
+      "num": 360821,
+      "word": "庞博宣了一天球都没摸到",
+      "onboard_time": 1728541159,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 183049,
       "num": 342245,
       "word": "李昀锐徐若晗新剧 破镜重圆",
@@ -7641,6 +7729,14 @@
       "onboard_time": 1728439939,
       "rank": 39,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 173306,
+      "num": 485036,
+      "word": "徐霞客劝大家安全为首勿涉险地",
+      "onboard_time": 1728537920,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 173168,
@@ -8171,6 +8267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 161114,
+      "num": 481404,
+      "word": "陈朵朵再发视频回应露营哀牢山",
+      "onboard_time": 1728538098,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 160947,
       "num": 160947,
       "word": "郑钦文武网女单开门红",
@@ -8193,6 +8297,14 @@
       "onboard_time": 1728180140,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 160603,
+      "num": 160603,
+      "word": "沈星回生日谷",
+      "onboard_time": 1728541578,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 160290,
@@ -8289,6 +8401,14 @@
       "onboard_time": 1728353720,
       "rank": 47,
       "category": "财经"
+    },
+    {
+      "raw_hot": 158587,
+      "num": 158587,
+      "word": "向佐手势 周星驰",
+      "onboard_time": 1728541880,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 158550,
@@ -8537,6 +8657,22 @@
       "onboard_time": 1728375859,
       "rank": 47,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 154143,
+      "num": 352870,
+      "word": "80元一个的汉堡为什么卖不动了",
+      "onboard_time": 1728540018,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 154056,
+      "num": 154056,
+      "word": "何猷君谈和电竞的缘分",
+      "onboard_time": 1728538639,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 153987,
@@ -9011,6 +9147,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 146646,
+      "num": 146646,
+      "word": "王楚钦3比1吴晙诚",
+      "onboard_time": 1728539300,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 146310,
       "num": 146310,
       "word": "南京玄武湖的鸭子船都有班味了",
@@ -9201,6 +9345,14 @@
       "onboard_time": 1728204678,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 142135,
+      "num": 388896,
+      "word": "4S店回应迈巴赫漏水用雨布封顶",
+      "onboard_time": 1728540498,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 141756,
@@ -9507,14 +9659,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 135642,
-      "num": 485036,
-      "word": "徐霞客劝大家安全为首勿涉险地",
-      "onboard_time": 1728537920,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 135390,
       "num": 473353,
       "word": "网信部门通报涉未成年人乱象典型案例",
@@ -9561,14 +9705,6 @@
       "onboard_time": 1728277759,
       "rank": 30,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 134301,
-      "num": 134301,
-      "word": "何猷君谈和电竞的缘分",
-      "onboard_time": 1728538639,
-      "rank": 47,
-      "category": "电竞"
     },
     {
       "raw_hot": 134182,
@@ -9777,14 +9913,6 @@
       "onboard_time": 1728534080,
       "rank": 8,
       "category": "财经"
-    },
-    {
-      "raw_hot": 129826,
-      "num": 129826,
-      "word": "孙颖莎看向奖杯的眼神让人心疼",
-      "onboard_time": 1728538759,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 129799,
@@ -10059,11 +10187,27 @@
       "category": "作品衍生,艺人"
     },
     {
+      "raw_hot": 125145,
+      "num": 376235,
+      "word": "官方回应河南一农村小孩疑似吃土",
+      "onboard_time": 1728540138,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 125118,
       "num": 125118,
       "word": "日本女团3比0新加坡",
       "onboard_time": 1728390442,
       "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 125029,
+      "num": 355077,
+      "word": "林诗栋vs林钟勋",
+      "onboard_time": 1728541219,
+      "rank": 29,
       "category": "体育"
     },
     {
@@ -10441,14 +10585,6 @@
       "onboard_time": 1728178518,
       "rank": 14,
       "category": "社会新闻,国外时政"
-    },
-    {
-      "raw_hot": 113632,
-      "num": 481404,
-      "word": "陈朵朵再发视频回应露营哀牢山",
-      "onboard_time": 1728538098,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 113460,
@@ -11851,6 +11987,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 72981,
+      "num": 461365,
+      "word": "贷款炒股行不行",
+      "onboard_time": 1728540379,
+      "rank": 9,
+      "category": "财经"
+    },
+    {
       "raw_hot": 72958,
       "num": 458976,
       "word": "以空袭叙首都居民楼致7死11伤",
@@ -12563,6 +12707,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 47091,
+      "num": 351372,
+      "word": "X200真机实拍提前曝光",
+      "onboard_time": 1728541219,
+      "rank": 31,
+      "category": "数码"
+    },
+    {
       "raw_hot": 46916,
       "num": 46916,
       "word": "郑钦文距第7纳瓦罗98分",
@@ -12609,6 +12761,14 @@
       "onboard_time": 1728498913,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 45912,
+      "num": 370326,
+      "word": "蚂蚁保居然请了刘亦菲",
+      "onboard_time": 1728540498,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 45571,
