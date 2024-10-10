@@ -1,6 +1,6 @@
 {
   "startTime": 1728491244792,
-  "endTime": 1728573833164,
+  "endTime": 1728574717278,
   "band_list": [
     {
       "raw_hot": 13027302,
@@ -132,7 +132,7 @@
     },
     {
       "raw_hot": 1717115,
-      "num": 583413,
+      "num": 1106936,
       "word": "听泉鉴宝宣布短暂停播",
       "onboard_time": 1728572060,
       "rank": 3,
@@ -296,6 +296,14 @@
       "word": "孙颖莎vs伊藤美诚",
       "onboard_time": 1728486020,
       "rank": 1,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1063471,
+      "num": 1063471,
+      "word": "梁靖崑vs黄彦诚",
+      "onboard_time": 1728571701,
+      "rank": 8,
       "category": "体育"
     },
     {
@@ -571,6 +579,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 630997,
+      "num": 630997,
+      "word": "考上师范学校却被人冒名顶替了",
+      "onboard_time": 1728571042,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 628851,
       "num": 628851,
       "word": "澳大利亚领先",
@@ -604,7 +620,7 @@
     },
     {
       "raw_hot": 589601,
-      "num": 421874,
+      "num": 464217,
       "word": "赵露思直播间状态",
       "onboard_time": 1728569003,
       "rank": 27,
@@ -675,6 +691,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 561341,
+      "num": 479578,
+      "word": "梁靖崑11比1",
+      "onboard_time": 1728574100,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 553308,
       "num": 553308,
       "word": "跑步入场的00后3天赚了3万",
@@ -731,14 +755,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 504356,
-      "num": 504356,
-      "word": "考上师范学校却被人冒名顶替了",
-      "onboard_time": 1728571042,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 501486,
       "num": 428692,
       "word": "陈浩民老婆回应叶珂参加生日会",
@@ -761,14 +777,6 @@
       "onboard_time": 1728538819,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 489237,
-      "num": 489237,
-      "word": "梁靖崑vs黄彦诚",
-      "onboard_time": 1728571701,
-      "rank": 8,
-      "category": "体育"
     },
     {
       "raw_hot": 474653,
@@ -948,11 +956,19 @@
     },
     {
       "raw_hot": 410948,
-      "num": 432785,
+      "num": 494908,
       "word": "迪丽热巴陈飞宇花海吻戏",
       "onboard_time": 1728567080,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 410576,
+      "num": 500684,
+      "word": "王楚钦vs林昀儒",
+      "onboard_time": 1728574160,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 409067,
@@ -1179,6 +1195,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 324027,
+      "num": 461896,
+      "word": "湖北一卫生院看病花29.78元收30元",
+      "onboard_time": 1728571940,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 321139,
       "num": 321139,
       "word": "迪丽热巴最佳街拍",
@@ -1299,14 +1323,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 281802,
-      "num": 281802,
-      "word": "湖北一卫生院看病花29.78元收30元",
-      "onboard_time": 1728571940,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 277329,
       "num": 277329,
       "word": "赵露思给粉丝补偿礼物",
@@ -1377,6 +1393,14 @@
       "onboard_time": 1728555077,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 268571,
+      "num": 268571,
+      "word": "网传炒股断更作者复更了",
+      "onboard_time": 1728573140,
+      "rank": 27,
+      "category": "财经"
     },
     {
       "raw_hot": 265248,
@@ -1465,6 +1489,14 @@
       "onboard_time": 1728569060,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 256779,
+      "num": 432778,
+      "word": "王祖蓝祝奔跑吧十周年快乐",
+      "onboard_time": 1728572540,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 252732,
@@ -1603,14 +1635,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 221440,
-      "num": 270256,
-      "word": "王祖蓝祝奔跑吧十周年快乐",
-      "onboard_time": 1728572540,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 220920,
       "num": 220920,
       "word": "孙颖莎辛苦了",
@@ -1665,14 +1689,6 @@
       "onboard_time": 1728540138,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 216281,
-      "num": 216281,
-      "word": "网传炒股断更作者复更了",
-      "onboard_time": 1728573140,
-      "rank": 27,
-      "category": "财经"
     },
     {
       "raw_hot": 215486,
@@ -1748,7 +1764,7 @@
     },
     {
       "raw_hot": 208339,
-      "num": 215592,
+      "num": 243333,
       "word": "张晚意一次走通两种赛道",
       "onboard_time": 1728571281,
       "rank": 28,
@@ -1763,20 +1779,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 206855,
+      "num": 406447,
+      "word": "奔跑吧十周年",
+      "onboard_time": 1728573021,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 206520,
       "num": 353662,
       "word": "HYBE周边中国元素",
       "onboard_time": 1728544040,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 206054,
-      "num": 215461,
-      "word": "奔跑吧十周年",
-      "onboard_time": 1728573021,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 205908,
@@ -1809,6 +1825,14 @@
       "onboard_time": 1728547758,
       "rank": 39,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 202593,
+      "num": 202593,
+      "word": "鸿蒙版微信",
+      "onboard_time": 1728574160,
+      "rank": 31,
+      "category": "互联网"
     },
     {
       "raw_hot": 202097,
@@ -1857,6 +1881,14 @@
       "onboard_time": 1728534622,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 197221,
+      "num": 449200,
+      "word": "广西人在美国卖螺蛳粉生意爆火",
+      "onboard_time": 1728573919,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 189714,
@@ -1971,6 +2003,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 179641,
+      "num": 179641,
+      "word": "国乒男团2比0中国台北",
+      "onboard_time": 1728573081,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 179011,
       "num": 349777,
       "word": "TVB有自己的御用床宝",
@@ -2025,6 +2065,14 @@
       "onboard_time": 1728554779,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 175943,
+      "num": 175943,
+      "word": "男子莫名多出8张信用卡欠款百余万",
+      "onboard_time": 1728574041,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 175693,
@@ -2123,6 +2171,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 167254,
+      "num": 242690,
+      "word": "我国成功发射卫星互联网高轨卫星",
+      "onboard_time": 1728574640,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 166725,
       "num": 166725,
       "word": "中粮资本涨停跌停涨停",
@@ -2211,6 +2267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 161038,
+      "num": 161038,
+      "word": "梁靖崑2比3黄彦诚",
+      "onboard_time": 1728574580,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 161027,
       "num": 454716,
       "word": "林诗栋3比0林钟勋",
@@ -2249,6 +2313,14 @@
       "onboard_time": 1728568281,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 158606,
+      "num": 158606,
+      "word": "国乒男团2比1中国台北",
+      "onboard_time": 1728574640,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 157674,
@@ -2433,14 +2505,6 @@
       "onboard_time": 1728483803,
       "rank": 30,
       "category": "演出"
-    },
-    {
-      "raw_hot": 145068,
-      "num": 145068,
-      "word": "国乒男团2比0中国台北",
-      "onboard_time": 1728573081,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 145058,
@@ -2971,6 +3035,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 91599,
+      "num": 409453,
+      "word": "梁伟铿王昶vs林秉纬苏敬恒",
+      "onboard_time": 1728573862,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 91510,
       "num": 428004,
       "word": "专家称快涨急跌是牛市特征",
@@ -3451,6 +3523,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 31290,
+      "num": 308796,
+      "word": "直面差评何尝不是直面天命",
+      "onboard_time": 1728572661,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 29238,
       "num": 380936,
       "word": "对熊孩子施暴不是管教是违法",
@@ -3552,14 +3632,6 @@
       "word": "父子联手非法藏匿出售笑气",
       "onboard_time": 1728516978,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 19360,
-      "num": 308796,
-      "word": "直面差评何尝不是直面天命",
-      "onboard_time": 1728572661,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
