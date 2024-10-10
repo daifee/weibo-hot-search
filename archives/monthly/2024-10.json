@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1728584995706,
+  "endTime": 1728585839808,
   "band_list": [
     {
       "raw_hot": 13027302,
@@ -27443,6 +27443,14 @@
       "category": "游戏,互联网"
     },
     {
+      "raw_hot": 56008,
+      "num": 56008,
+      "word": "央视揭秘货运骗局",
+      "onboard_time": 1728583093,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 55954,
       "num": 192967,
       "word": "林依轮花式夸马龙",
@@ -27593,14 +27601,6 @@
       "onboard_time": 1728003257,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 54501,
-      "num": 54501,
-      "word": "央视揭秘货运骗局",
-      "onboard_time": 1728583093,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 54449,
@@ -28275,6 +28275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 45266,
+      "num": 84141,
+      "word": "215万迈巴赫漏水4S店称将负责到底",
+      "onboard_time": 1728583213,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 45255,
       "num": 159909,
       "word": "朴山多拉晒YG家族合照",
@@ -28625,14 +28633,6 @@
       "onboard_time": 1728320115,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 40223,
-      "num": 84141,
-      "word": "215万迈巴赫漏水4S店称将负责到底",
-      "onboard_time": 1728583213,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 40169,
@@ -30779,6 +30779,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 17086,
+      "num": 42430,
+      "word": "苗疆陈朵朵再回应露营哀牢山",
+      "onboard_time": 1728585733,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 16938,
       "num": 26827,
       "word": "这场面看得人热泪盈眶",
@@ -30865,6 +30873,14 @@
       "onboard_time": 1728389539,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 14730,
+      "num": 41198,
+      "word": "边防战士徒手拆车救4人",
+      "onboard_time": 1728585492,
+      "rank": 26,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 14501,

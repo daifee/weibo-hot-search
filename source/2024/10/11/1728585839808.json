@@ -1,0 +1,410 @@
+{
+  "runTime": 1728585839808,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 568989,
+        "num": 568989,
+        "word": "王楚钦",
+        "onboard_time": 1728577460,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 202831,
+        "num": 202831,
+        "word": "听泉鉴宝宣布短暂停播",
+        "onboard_time": 1728572060,
+        "rank": 1,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 4041,
+        "num": 176566,
+        "word": "被宝藏爷爷奶奶惊艳到了",
+        "onboard_time": 1728565340,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170877,
+        "num": 170877,
+        "word": "亚锦赛国乒男团冠军",
+        "onboard_time": 1728576921,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 164122,
+        "num": 164122,
+        "word": "这种高仿板栗有毒千万别吃",
+        "onboard_time": 1728580274,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132266,
+        "num": 132266,
+        "word": "鸿蒙版微信",
+        "onboard_time": 1728574160,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 120969,
+        "num": 120969,
+        "word": "鄂LD06335死死顶住失控车辆",
+        "onboard_time": 1728559342,
+        "rank": 6,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 94954,
+        "num": 94954,
+        "word": "王楚钦vs林昀儒",
+        "onboard_time": 1728574160,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 63817,
+        "num": 63817,
+        "word": "广水卫健局让卫生院退回多收的0.22元",
+        "onboard_time": 1728575899,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 54545,
+        "num": 57870,
+        "word": "倪妮杂志封面是真蛇",
+        "onboard_time": 1728563419,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 144383,
+        "num": 57615,
+        "word": "孙颖莎退出亚锦赛",
+        "onboard_time": 1728558680,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 56735,
+        "num": 56735,
+        "word": "浮夸直播间",
+        "onboard_time": 1728572721,
+        "rank": 11,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 56008,
+        "num": 56008,
+        "word": "央视揭秘货运骗局",
+        "onboard_time": 1728583093,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 55855,
+        "num": 55855,
+        "word": "孙颖莎比赛时一直捏手臂",
+        "onboard_time": 1728575838,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 49891,
+        "num": 49891,
+        "word": "刘耀文摸宋亚轩头",
+        "onboard_time": 1728576318,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 48596,
+        "num": 48596,
+        "word": "明年春节档电影阵容",
+        "onboard_time": 1728577340,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 48319,
+        "num": 48319,
+        "word": "梁靖崑11比1",
+        "onboard_time": 1728574100,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 47137,
+        "num": 47137,
+        "word": "未来三天可能发生大地磁暴",
+        "onboard_time": 1728560780,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 40542,
+        "num": 46799,
+        "word": "奔跑吧十周年",
+        "onboard_time": 1728573021,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 33138,
+        "num": 46448,
+        "word": "张晚意一次走通两种赛道",
+        "onboard_time": 1728571281,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 76502,
+        "num": 46122,
+        "word": "东北雨姐售卖的粉条检测结果已出",
+        "onboard_time": 1728541040,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 60595,
+        "num": 45608,
+        "word": "原来很多人的洗澡顺序错了",
+        "onboard_time": 1728560902,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 45266,
+        "num": 45266,
+        "word": "215万迈巴赫漏水4S店称将负责到底",
+        "onboard_time": 1728583213,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 42998,
+        "num": 42998,
+        "word": "江秋莲回应骗捐质疑",
+        "onboard_time": 1728566240,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 17086,
+        "num": 42430,
+        "word": "苗疆陈朵朵再回应露营哀牢山",
+        "onboard_time": 1728585733,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 42401,
+        "num": 42401,
+        "word": "赵露思直播间状态",
+        "onboard_time": 1728569003,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14730,
+        "num": 41198,
+        "word": "边防战士徒手拆车救4人",
+        "onboard_time": 1728585492,
+        "rank": 26,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 40330,
+        "num": 40330,
+        "word": "听泉鉴宝30天涨粉近千万",
+        "onboard_time": 1728575541,
+        "rank": 27,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 39054,
+        "num": 39054,
+        "word": "孩子得精神病是在替家庭生病吗",
+        "onboard_time": 1728582314,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 33778,
+        "num": 38056,
+        "word": "于适被赠予德艺传承丹卷",
+        "onboard_time": 1728576861,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37851,
+        "num": 37851,
+        "word": "考上师范学校却被人冒名顶替了",
+        "onboard_time": 1728571042,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37050,
+        "num": 37050,
+        "word": "台湾从来不是也绝不可能成为一个国家",
+        "onboard_time": 1728555019,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 36555,
+        "num": 36555,
+        "word": "梁王光速下班",
+        "onboard_time": 1728575779,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 36494,
+        "num": 36494,
+        "word": "国乒男团亚锦赛夺金",
+        "onboard_time": 1728577340,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 30590,
+        "num": 35277,
+        "word": "迪丽热巴陈飞宇花海吻戏",
+        "onboard_time": 1728567080,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 34482,
+        "num": 34482,
+        "word": "第五人格",
+        "onboard_time": 1728573560,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 32370,
+        "num": 32370,
+        "word": "张馨予玄学灵验",
+        "onboard_time": 1728559522,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 32076,
+        "num": 32076,
+        "word": "男子莫名多出8张信用卡欠款百余万",
+        "onboard_time": 1728574041,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31675,
+        "num": 31675,
+        "word": "我国成功发射卫星互联网高轨卫星",
+        "onboard_time": 1728574640,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 31062,
+        "num": 31062,
+        "word": "TES晋级S14八强",
+        "onboard_time": 1728569121,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 29572,
+        "num": 29572,
+        "word": "网传炒股断更作者复更了",
+        "onboard_time": 1728573140,
+        "rank": 40,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 29359,
+        "num": 29359,
+        "word": "新迈巴赫漏水被4S店大规模拆解",
+        "onboard_time": 1728579194,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29336,
+        "num": 29336,
+        "word": "湖北一卫生院看病花29.78元收30元",
+        "onboard_time": 1728571940,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29074,
+        "num": 29074,
+        "word": "王楚钦3比0拿下首盘",
+        "onboard_time": 1728576921,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 28588,
+        "num": 28588,
+        "word": "以色列",
+        "onboard_time": 1728576140,
+        "rank": 44,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 28286,
+        "num": 28286,
+        "word": "广西人在美国卖螺蛳粉生意爆火",
+        "onboard_time": 1728573919,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27963,
+        "num": 27963,
+        "word": "国乒男团3比1中国台北",
+        "onboard_time": 1728574640,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 27758,
+        "num": 27758,
+        "word": "国足1比3澳大利亚",
+        "onboard_time": 1728552979,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 18170,
+        "num": 27623,
+        "word": "HLE对战FLY",
+        "onboard_time": 1728570381,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 22265,
+        "num": 27598,
+        "word": "任敏好灵",
+        "onboard_time": 1728565400,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向全国的老年人致以诚挚问候#"
+    }
+  }
+}
