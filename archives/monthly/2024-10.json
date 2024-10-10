@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1728577667934,
+  "endTime": 1728578549572,
   "band_list": [
     {
       "raw_hot": 13027302,
@@ -193,6 +193,14 @@
       "onboard_time": 1728433099,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2732721,
+      "num": 2732721,
+      "word": "亚锦赛国乒男团冠军",
+      "onboard_time": 1728576921,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 2648229,
@@ -459,14 +467,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 2043340,
-      "num": 2043340,
-      "word": "亚锦赛国乒男团冠军",
-      "onboard_time": 1728576921,
-      "rank": 1,
-      "category": "体育"
-    },
-    {
       "raw_hot": 2006127,
       "num": 2006127,
       "word": "陈幸同vs平野美宇",
@@ -657,6 +657,14 @@
       "onboard_time": 1728187817,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1686828,
+      "num": 1686828,
+      "word": "王楚钦",
+      "onboard_time": 1728577460,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 1685238,
@@ -4811,14 +4819,6 @@
       "category": "社会新闻,汽车"
     },
     {
-      "raw_hot": 551066,
-      "num": 551066,
-      "word": "王楚钦",
-      "onboard_time": 1728577460,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 549605,
       "num": 430762,
       "word": "王楚钦主动指出擦网重发",
@@ -5212,7 +5212,7 @@
     },
     {
       "raw_hot": 515671,
-      "num": 358541,
+      "num": 483993,
       "word": "梁王光速下班",
       "onboard_time": 1728575779,
       "rank": 15,
@@ -11187,6 +11187,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 237926,
+      "num": 237926,
+      "word": "刘耀文摸宋亚轩头",
+      "onboard_time": 1728576318,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 237812,
       "num": 237812,
       "word": "詹姆斯布朗尼同场竞技",
@@ -12051,14 +12059,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 220042,
-      "num": 220042,
-      "word": "刘耀文摸宋亚轩头",
-      "onboard_time": 1728576318,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 219743,
       "num": 99625,
       "word": "伊朗全国机场暂停航班起降9小时",
@@ -12595,6 +12595,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 211025,
+      "num": 211025,
+      "word": "听泉鉴宝30天涨粉近千万",
+      "onboard_time": 1728575541,
+      "rank": 27,
+      "category": "网红"
+    },
+    {
       "raw_hot": 211006,
       "num": 211006,
       "word": "网友冰岛偶遇沈梦辰",
@@ -12649,6 +12657,14 @@
       "onboard_time": 1728125059,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 209943,
+      "num": 209943,
+      "word": "国乒男团亚锦赛夺金",
+      "onboard_time": 1728577340,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 209889,
@@ -14827,14 +14843,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 186945,
-      "num": 186945,
-      "word": "听泉鉴宝30天涨粉近千万",
-      "onboard_time": 1728575541,
-      "rank": 27,
-      "category": "网红"
-    },
-    {
       "raw_hot": 186896,
       "num": 186896,
       "word": "KPL",
@@ -15635,6 +15643,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 177946,
+      "num": 425507,
+      "word": "广水卫健局让卫生院退回多收的0.22元",
+      "onboard_time": 1728575899,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 177779,
       "num": 177779,
       "word": "AG对战EDGM",
@@ -15657,14 +15673,6 @@
       "onboard_time": 1728467539,
       "rank": 39,
       "category": "财经"
-    },
-    {
-      "raw_hot": 177599,
-      "num": 177599,
-      "word": "国乒男团亚锦赛夺金",
-      "onboard_time": 1728577340,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 177538,
@@ -16449,14 +16457,6 @@
       "onboard_time": 1727953638,
       "rank": 42,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 169500,
-      "num": 425507,
-      "word": "广水卫健局让卫生院退回多收的0.22元",
-      "onboard_time": 1728575899,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 169375,
@@ -19300,7 +19300,7 @@
     },
     {
       "raw_hot": 144224,
-      "num": 177956,
+      "num": 213850,
       "word": "明年春节档电影阵容",
       "onboard_time": 1728577340,
       "rank": 29,
@@ -22392,6 +22392,14 @@
       "word": "布云朝克特无缘中网男单决赛",
       "onboard_time": 1727792181,
       "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 118431,
+      "num": 118431,
+      "word": "北极赛梁王组合进8强",
+      "onboard_time": 1728574941,
+      "rank": 38,
       "category": "体育"
     },
     {
@@ -25953,6 +25961,14 @@
       "onboard_time": 1728289522,
       "rank": 49,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 80453,
+      "num": 333305,
+      "word": "HLE对战FLY",
+      "onboard_time": 1728570381,
+      "rank": 17,
+      "category": "电竞"
     },
     {
       "raw_hot": 80243,
@@ -29643,14 +29659,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 29187,
-      "num": 333305,
-      "word": "HLE对战FLY",
-      "onboard_time": 1728570381,
-      "rank": 17,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 29175,
       "num": 208191,
       "word": "王一博公益站帮助25名儿童",
@@ -29673,6 +29681,14 @@
       "onboard_time": 1727803335,
       "rank": 10,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 28922,
+      "num": 1984337,
+      "word": "被宝藏爷爷奶奶惊艳到了",
+      "onboard_time": 1728565340,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 28894,
@@ -30329,14 +30345,6 @@
       "onboard_time": 1728137240,
       "rank": 39,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 21451,
-      "num": 1539584,
-      "word": "被宝藏爷爷奶奶惊艳到了",
-      "onboard_time": 1728565340,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 21385,
