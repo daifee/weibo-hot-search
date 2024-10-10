@@ -1,6 +1,6 @@
 {
   "startTime": 1728491244792,
-  "endTime": 1728567669209,
+  "endTime": 1728570069534,
   "band_list": [
     {
       "raw_hot": 13027302,
@@ -201,6 +201,14 @@
       "onboard_time": 1728539419,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1346347,
+      "num": 1346347,
+      "word": "王楚钦vs高承睿",
+      "onboard_time": 1728567680,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 1338257,
@@ -475,12 +483,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 746730,
+      "num": 746730,
+      "word": "国乒男团vs中国台北",
+      "onboard_time": 1728566780,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 717576,
       "num": 717576,
       "word": "国乒女团负日本队后网友喊话辛苦了",
       "onboard_time": 1728529337,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 714362,
+      "num": 429957,
+      "word": "江秋莲回应骗捐质疑",
+      "onboard_time": 1728566240,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 707299,
@@ -552,6 +576,14 @@
       "word": "山取画材公司登记地址人去楼空",
       "onboard_time": 1728540379,
       "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 606350,
+      "num": 606350,
+      "word": "教育局回应小学教室翻新要家长掏钱",
+      "onboard_time": 1728565281,
+      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -739,14 +771,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 462519,
-      "num": 322854,
-      "word": "江秋莲回应骗捐质疑",
-      "onboard_time": 1728566240,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 459982,
       "num": 328598,
       "word": "林诗栋蒯曼vs鲜于成边松景",
@@ -812,11 +836,19 @@
     },
     {
       "raw_hot": 436659,
-      "num": 325811,
+      "num": 411298,
       "word": "原来很多人的洗澡顺序错了",
       "onboard_time": 1728560902,
       "rank": 22,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 433192,
+      "num": 433192,
+      "word": "任敏好灵",
+      "onboard_time": 1728565400,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 432250,
@@ -865,6 +897,14 @@
       "onboard_time": 1728537439,
       "rank": 41,
       "category": "电影"
+    },
+    {
+      "raw_hot": 411505,
+      "num": 439639,
+      "word": "TES对战DK",
+      "onboard_time": 1728559162,
+      "rank": 29,
+      "category": "电竞"
     },
     {
       "raw_hot": 409067,
@@ -979,6 +1019,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 362581,
+      "num": 362581,
+      "word": "TES晋级S14八强",
+      "onboard_time": 1728569121,
+      "rank": 25,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 361971,
       "num": 361971,
       "word": "河北警方回应2名裸体男童遭虐打",
@@ -992,6 +1040,14 @@
       "word": "Hanni决定出席国会监查",
       "onboard_time": 1728527598,
       "rank": 8,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 352353,
+      "num": 352353,
+      "word": "赵露思直播间状态",
+      "onboard_time": 1728569003,
+      "rank": 27,
       "category": "艺人"
     },
     {
@@ -1027,11 +1083,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 339368,
-      "num": 340101,
-      "word": "任敏好灵",
-      "onboard_time": 1728565400,
-      "rank": 8,
+      "raw_hot": 340486,
+      "num": 419857,
+      "word": "迪丽热巴陈飞宇花海吻戏",
+      "onboard_time": 1728567080,
+      "rank": 28,
       "category": "剧集"
     },
     {
@@ -1083,6 +1139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 309507,
+      "num": 429557,
+      "word": "TES战胜DK",
+      "onboard_time": 1728568341,
+      "rank": 11,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 308086,
       "num": 308086,
       "word": "原神超话",
@@ -1105,6 +1169,14 @@
       "onboard_time": 1728537679,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 306949,
+      "num": 306949,
+      "word": "369今天是999",
+      "onboard_time": 1728569601,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 300301,
@@ -1355,6 +1427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 239206,
+      "num": 337708,
+      "word": "女孩翻阳台离家被白车接走失联七天",
+      "onboard_time": 1728564021,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 234484,
       "num": 473768,
       "word": "老师捡手机归还失主送全班汉堡",
@@ -1427,6 +1507,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 225805,
+      "num": 225805,
+      "word": "亚锦赛男团决赛",
+      "onboard_time": 1728568581,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 224770,
+      "num": 426860,
+      "word": "王楚钦3比0高承睿",
+      "onboard_time": 1728569121,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 223931,
       "num": 223931,
       "word": "叶珂证明说话没夹",
@@ -1489,14 +1585,6 @@
       "onboard_time": 1728540138,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 216777,
-      "num": 328246,
-      "word": "国乒男团vs中国台北",
-      "onboard_time": 1728566780,
-      "rank": 12,
-      "category": "体育"
     },
     {
       "raw_hot": 215486,
@@ -1595,6 +1683,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 203480,
+      "num": 431837,
+      "word": "号贩子200部手机同时开外挂抢号倒卖",
+      "onboard_time": 1728567800,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 202934,
       "num": 388896,
       "word": "4S店回应迈巴赫漏水用雨布封顶",
@@ -1651,22 +1747,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 197039,
-      "num": 197039,
-      "word": "迪丽热巴陈飞宇花海吻戏",
-      "onboard_time": 1728567080,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 191361,
-      "num": 439639,
-      "word": "TES对战DK",
-      "onboard_time": 1728559162,
-      "rank": 29,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 189714,
       "num": 293265,
       "word": "何运晨科普什么情况能给罪犯求情",
@@ -1713,6 +1793,14 @@
       "onboard_time": 1728555738,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 186649,
+      "num": 186649,
+      "word": "S14",
+      "onboard_time": 1728569301,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 185769,
@@ -1779,14 +1867,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 178310,
-      "num": 337708,
-      "word": "女孩翻阳台离家被白车接走失联七天",
-      "onboard_time": 1728564021,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 178262,
       "num": 178262,
       "word": "亚锦赛赛程",
@@ -1835,14 +1915,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 174236,
-      "num": 174236,
-      "word": "教育局回应小学教室翻新要家长掏钱",
-      "onboard_time": 1728565281,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 173306,
       "num": 485036,
       "word": "徐霞客劝大家安全为首勿涉险地",
@@ -1881,6 +1953,14 @@
       "onboard_time": 1728566360,
       "rank": 32,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 170433,
+      "num": 196272,
+      "word": "杭州4.3亿元消费券来了",
+      "onboard_time": 1728568401,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 169229,
@@ -1937,6 +2017,14 @@
       "onboard_time": 1728543979,
       "rank": 48,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 166209,
+      "num": 166209,
+      "word": "国乒男团1比0中国台北",
+      "onboard_time": 1728569841,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 165960,
@@ -2155,6 +2243,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 148014,
+      "num": 148014,
+      "word": "95后研究员有4个博士2个博后",
+      "onboard_time": 1728567621,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 146841,
       "num": 146841,
       "word": "女子投放死虫6次敲诈海底捞",
@@ -2195,6 +2291,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 145429,
+      "num": 145429,
+      "word": "郑钦文回应赛中与对手争议",
+      "onboard_time": 1728569541,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 144389,
       "num": 144389,
       "word": "诺奖得主韩江笔下的韩国文学样貌",
@@ -2209,6 +2313,14 @@
       "onboard_time": 1728525140,
       "rank": 42,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 143568,
+      "num": 143568,
+      "word": "孙颖莎评论区被祝福刷屏",
+      "onboard_time": 1728569961,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 143114,
@@ -2265,6 +2377,14 @@
       "onboard_time": 1728564499,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 137658,
+      "num": 417278,
+      "word": "林诗栋vs林昀儒",
+      "onboard_time": 1728569060,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 137362,
@@ -2395,14 +2515,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 126281,
-      "num": 126281,
-      "word": "95后研究员有4个博士2个博后",
-      "onboard_time": 1728567621,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 125614,
       "num": 125614,
       "word": "难怪狗子能睡单人沙发",
@@ -2481,6 +2593,14 @@
       "onboard_time": 1728485661,
       "rank": 34,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 119284,
+      "num": 196288,
+      "word": "白鹿白月梵星番外婚服路透",
+      "onboard_time": 1728567859,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 117269,
@@ -2707,6 +2827,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 93749,
+      "num": 425375,
+      "word": "东北雨姐清空橱窗",
+      "onboard_time": 1728568281,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 93733,
       "num": 93733,
       "word": "miwa好强",
@@ -2889,6 +3017,14 @@
       "onboard_time": 1728529457,
       "rank": 12,
       "category": "数码"
+    },
+    {
+      "raw_hot": 65103,
+      "num": 415187,
+      "word": "科研机构回应95后研究员简历引热议",
+      "onboard_time": 1728568101,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 63368,
@@ -3225,6 +3361,14 @@
       "onboard_time": 1728560721,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 23820,
+      "num": 423802,
+      "word": "万元定制人脸面具可通过门禁识别",
+      "onboard_time": 1728569242,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 22734,
