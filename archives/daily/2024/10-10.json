@@ -1,7 +1,15 @@
 {
   "startTime": 1728491244792,
-  "endTime": 1728556896458,
+  "endTime": 1728559187240,
   "band_list": [
+    {
+      "raw_hot": 5532337,
+      "num": 5532337,
+      "word": "孙颖莎退出亚锦赛",
+      "onboard_time": 1728558680,
+      "rank": 0,
+      "category": "体育"
+    },
     {
       "raw_hot": 3438094,
       "num": 1566952,
@@ -156,7 +164,7 @@
     },
     {
       "raw_hot": 1393529,
-      "num": 452350,
+      "num": 595139,
       "word": "12306回应女子高铁车厢吃螺蛳粉",
       "onboard_time": 1728551539,
       "rank": 32,
@@ -177,6 +185,22 @@
       "onboard_time": 1728539419,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1338257,
+      "num": 1338257,
+      "word": "台湾从来不是也绝不可能成为一个国家",
+      "onboard_time": 1728555019,
+      "rank": 23,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 1294678,
+      "num": 618519,
+      "word": "诺贝尔文学奖",
+      "onboard_time": 1728551359,
+      "rank": 31,
+      "category": "读书作家"
     },
     {
       "raw_hot": 1289184,
@@ -315,6 +339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 853434,
+      "num": 593385,
+      "word": "残雪 诺贝尔文学奖提名",
+      "onboard_time": 1728552559,
+      "rank": 42,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 853137,
       "num": 853137,
       "word": "央行",
@@ -339,12 +371,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 841147,
-      "num": 618519,
-      "word": "诺贝尔文学奖",
-      "onboard_time": 1728551359,
-      "rank": 31,
-      "category": "读书作家"
+      "raw_hot": 840459,
+      "num": 584658,
+      "word": "贵女 恐怖氛围",
+      "onboard_time": 1728553698,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 839950,
+      "num": 560007,
+      "word": "宝宝从45cm高的床上掉下瘫痪",
+      "onboard_time": 1728552799,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 800059,
@@ -353,6 +393,14 @@
       "onboard_time": 1728531260,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 799970,
+      "num": 799970,
+      "word": "国足进球了",
+      "onboard_time": 1728553100,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 792000,
@@ -379,28 +427,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 752596,
-      "num": 752596,
-      "word": "国足进球了",
-      "onboard_time": 1728553100,
-      "rank": 4,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 747222,
-      "num": 449355,
-      "word": "宝宝从45cm高的床上掉下瘫痪",
-      "onboard_time": 1728552799,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 717576,
       "num": 717576,
       "word": "国乒女团负日本队后网友喊话辛苦了",
       "onboard_time": 1728529337,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 707299,
+      "num": 581364,
+      "word": "成都一小店卖烤红薯60一个",
+      "onboard_time": 1728552799,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 690347,
@@ -425,6 +465,14 @@
       "onboard_time": 1728485121,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 647722,
+      "num": 647722,
+      "word": "国足1比3澳大利亚",
+      "onboard_time": 1728552979,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 637842,
@@ -467,14 +515,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 605745,
-      "num": 447483,
-      "word": "残雪 诺贝尔文学奖提名",
-      "onboard_time": 1728552559,
-      "rank": 42,
-      "category": "读书作家"
-    },
-    {
       "raw_hot": 580217,
       "num": 580217,
       "word": "郑钦文晋级八强",
@@ -491,14 +531,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 578802,
-      "num": 418390,
-      "word": "成都一小店卖烤红薯60一个",
-      "onboard_time": 1728552799,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 573933,
       "num": 466186,
       "word": "郑钦文破发",
@@ -513,6 +545,14 @@
       "onboard_time": 1728527538,
       "rank": 13,
       "category": "财经"
+    },
+    {
+      "raw_hot": 568924,
+      "num": 568924,
+      "word": "国足半场1比1澳大利亚",
+      "onboard_time": 1728555077,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 564149,
@@ -563,12 +603,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 522692,
-      "num": 522692,
-      "word": "台湾从来不是也绝不可能成为一个国家",
-      "onboard_time": 1728555019,
+      "raw_hot": 514293,
+      "num": 514293,
+      "word": "韩国作家韩江获2024年诺贝尔文学奖",
+      "onboard_time": 1728558981,
       "rank": 23,
-      "category": "国内时政"
+      "category": "读书作家"
+    },
+    {
+      "raw_hot": 513853,
+      "num": 591276,
+      "word": "奔驰客服回应215万的迈巴赫漏水",
+      "onboard_time": 1728550819,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 507501,
@@ -603,14 +651,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 484990,
-      "num": 454278,
-      "word": "贵女 恐怖氛围",
-      "onboard_time": 1728553698,
-      "rank": 9,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 474653,
       "num": 474653,
       "word": "国足领先澳大利亚",
@@ -633,6 +673,14 @@
       "onboard_time": 1728545360,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 453167,
+      "num": 608393,
+      "word": "贵女",
+      "onboard_time": 1728555499,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 447444,
@@ -739,14 +787,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 399703,
-      "num": 399703,
-      "word": "国足半场1比1澳大利亚",
-      "onboard_time": 1728555077,
-      "rank": 22,
-      "category": "体育"
-    },
-    {
       "raw_hot": 396510,
       "num": 396510,
       "word": "向佐跳操",
@@ -812,7 +852,7 @@
     },
     {
       "raw_hot": 368634,
-      "num": 532777,
+      "num": 606626,
       "word": "创造营亚洲 名单",
       "onboard_time": 1728554119,
       "rank": 8,
@@ -851,6 +891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 351677,
+      "num": 351677,
+      "word": "樊振东陈奕迅对打网球",
+      "onboard_time": 1728558200,
+      "rank": 26,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 351320,
       "num": 258323,
       "word": "孙颖莎大口喘气",
@@ -876,7 +924,7 @@
     },
     {
       "raw_hot": 340933,
-      "num": 416715,
+      "num": 573127,
       "word": "再见爱人 李行亮麦琳",
       "onboard_time": 1728555019,
       "rank": 31,
@@ -953,14 +1001,6 @@
       "onboard_time": 1728551359,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 296084,
-      "num": 524639,
-      "word": "贵女",
-      "onboard_time": 1728555499,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 294888,
@@ -1051,11 +1091,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 269296,
+      "num": 320350,
+      "word": "杨紫帮忙选的张晚意外套",
+      "onboard_time": 1728555077,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 265248,
       "num": 265248,
       "word": "理记发文质疑江歌妈妈骗捐",
       "onboard_time": 1728486800,
       "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 263805,
+      "num": 417366,
+      "word": "店家回应日本进口烤红薯60一个",
+      "onboard_time": 1728556038,
+      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -1092,7 +1148,7 @@
     },
     {
       "raw_hot": 259212,
-      "num": 446653,
+      "num": 1644468,
       "word": "民营经济促进法公开征求意见",
       "onboard_time": 1728548479,
       "rank": 20,
@@ -1113,6 +1169,14 @@
       "onboard_time": 1728521600,
       "rank": 9,
       "category": "财经"
+    },
+    {
+      "raw_hot": 256847,
+      "num": 604619,
+      "word": "央行原副行长范一飞被判处死缓",
+      "onboard_time": 1728554659,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 252732,
@@ -1137,14 +1201,6 @@
       "onboard_time": 1728527598,
       "rank": 8,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 245505,
-      "num": 349175,
-      "word": "奔驰客服回应215万的迈巴赫漏水",
-      "onboard_time": 1728550819,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 243752,
@@ -1395,14 +1451,6 @@
       "category": "音乐,艺人"
     },
     {
-      "raw_hot": 202089,
-      "num": 202089,
-      "word": "央行原副行长范一飞被判处死缓",
-      "onboard_time": 1728554659,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 202005,
       "num": 202005,
       "word": "王楚钦3比1吴晙诚",
@@ -1433,6 +1481,14 @@
       "onboard_time": 1728534622,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 196013,
+      "num": 196013,
+      "word": "央视依然不转播国足比赛",
+      "onboard_time": 1728558922,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 189714,
@@ -1489,6 +1545,14 @@
       "onboard_time": 1728534020,
       "rank": 42,
       "category": "财经"
+    },
+    {
+      "raw_hot": 184459,
+      "num": 184459,
+      "word": "古德温世界波",
+      "onboard_time": 1728558200,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 184297,
@@ -1601,14 +1665,6 @@
       "onboard_time": 1728490878,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 168517,
-      "num": 417366,
-      "word": "店家回应日本进口烤红薯60一个",
-      "onboard_time": 1728556038,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 168253,
@@ -1803,6 +1859,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 148656,
+      "num": 148656,
+      "word": "多家银行发布存量房利率调整公告",
+      "onboard_time": 1728558861,
+      "rank": 45,
+      "category": "财经"
+    },
+    {
       "raw_hot": 146841,
       "num": 146841,
       "word": "女子投放死虫6次敲诈海底捞",
@@ -1843,6 +1907,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 143114,
+      "num": 143114,
+      "word": "杨幂密室独自开朗",
+      "onboard_time": 1728556399,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 139742,
       "num": 366447,
       "word": "揭开哀牢山神秘面纱",
@@ -1867,6 +1939,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 135942,
+      "num": 135942,
+      "word": "辅警查处飙车炸街摩托被撞倒",
+      "onboard_time": 1728558621,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 132010,
       "num": 132010,
       "word": "霍思燕演这部剧的时候很爽吧",
@@ -1889,6 +1969,14 @@
       "onboard_time": 1728532880,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 130056,
+      "num": 198444,
+      "word": "外交部回应赖清德重弹互不隶属论调",
+      "onboard_time": 1728557539,
+      "rank": 38,
+      "category": "国内时政"
     },
     {
       "raw_hot": 130024,
@@ -2057,6 +2145,14 @@
       "onboard_time": 1728490819,
       "rank": 46,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 110565,
+      "num": 286604,
+      "word": "锦绣安宁",
+      "onboard_time": 1728557419,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 110228,
@@ -2347,6 +2443,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 69005,
+      "num": 576443,
+      "word": "杨妞花改回本名后激动落泪",
+      "onboard_time": 1728557899,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 67724,
       "num": 67724,
       "word": "林心如穿泳装",
@@ -2457,14 +2561,6 @@
       "onboard_time": 1728493636,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 51670,
-      "num": 320350,
-      "word": "杨紫帮忙选的张晚意外套",
-      "onboard_time": 1728555077,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 50499,
@@ -2651,6 +2747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 24907,
+      "num": 142253,
+      "word": "螃蟹配黄酒是全国统一的吗",
+      "onboard_time": 1728556281,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 22734,
       "num": 29252,
       "word": "华晨宇演唱会舞美",
@@ -2731,6 +2835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 12810,
+      "num": 588022,
+      "word": "国足18强赛三连败",
+      "onboard_time": 1728559042,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 12596,
       "num": 307486,
       "word": "谢文能破门",
@@ -2747,19 +2859,27 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 12015,
-      "num": 142253,
-      "word": "螃蟹配黄酒是全国统一的吗",
-      "onboard_time": 1728556281,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 11061,
       "num": 221381,
       "word": "国足vs澳大利亚23人名单",
       "onboard_time": 1728529337,
       "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 8523,
+      "num": 282898,
+      "word": "TES对战DK",
+      "onboard_time": 1728559162,
+      "rank": 29,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 7993,
+      "num": 569036,
+      "word": "国足积0分小组垫底",
+      "onboard_time": 1728559042,
+      "rank": 19,
       "category": "体育"
     },
     {
