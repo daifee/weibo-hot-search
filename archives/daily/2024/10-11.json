@@ -1,6 +1,6 @@
 {
   "startTime": 1728577667934,
-  "endTime": 1728595324673,
+  "endTime": 1728596169109,
   "band_list": [
     {
       "raw_hot": 6465280,
@@ -435,6 +435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 88298,
+      "num": 46525,
+      "word": "网络女主播摆拍约架还用上了血胶囊",
+      "onboard_time": 1728590471,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 80453,
       "num": 120222,
       "word": "HLE对战FLY",
@@ -499,14 +507,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 50785,
-      "num": 46525,
-      "word": "网络女主播摆拍约架还用上了血胶囊",
-      "onboard_time": 1728590471,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 47235,
       "num": 47235,
       "word": "第五人格",
@@ -523,7 +523,7 @@
       "category": "情感"
     },
     {
-      "raw_hot": 31820,
+      "raw_hot": 32140,
       "num": 99707,
       "word": "用车身抵住失控黑车的白车侠发声",
       "onboard_time": 1728580215,
@@ -579,6 +579,38 @@
       "category": "体育"
     },
     {
+      "raw_hot": 19955,
+      "num": 21140,
+      "word": "对抗抑郁最好的运动方式",
+      "onboard_time": 1728594071,
+      "rank": 47,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 19789,
+      "num": 45145,
+      "word": "见过放羊的没见过放狼的",
+      "onboard_time": 1728594971,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 18823,
+      "num": 29929,
+      "word": "余华英拐卖案将开庭重审",
+      "onboard_time": 1728594671,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 18634,
+      "num": 21126,
+      "word": "多地阿斯利康药代曾频繁改基因报告",
+      "onboard_time": 1728592691,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 18451,
       "num": 21730,
       "word": "李宇春聚星名人赛压轴表演",
@@ -587,36 +619,12 @@
       "category": "演出,体育"
     },
     {
-      "raw_hot": 18262,
-      "num": 20554,
-      "word": "多地阿斯利康药代曾频繁改基因报告",
-      "onboard_time": 1728592691,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 17772,
       "num": 32467,
       "word": "鄂LD06335车主找到了",
       "onboard_time": 1728582972,
       "rank": 24,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 17531,
-      "num": 29929,
-      "word": "余华英拐卖案将开庭重审",
-      "onboard_time": 1728594671,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 15909,
-      "num": 39837,
-      "word": "见过放羊的没见过放狼的",
-      "onboard_time": 1728594971,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 15398,
