@@ -1,6 +1,6 @@
 {
   "startTime": 1728145573126,
-  "endTime": 1728585839808,
+  "endTime": 1728587877139,
   "band_list": [
     {
       "raw_hot": 13027302,
@@ -13595,6 +13595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 75970,
+      "num": 75970,
+      "word": "苗疆陈朵朵再回应露营哀牢山",
+      "onboard_time": 1728585733,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 75772,
       "num": 200112,
       "word": "国泰君安海通证券双双涨停",
@@ -14009,6 +14017,14 @@
       "onboard_time": 1728533360,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 60019,
+      "num": 84141,
+      "word": "215万迈巴赫漏水4S店称将负责到底",
+      "onboard_time": 1728583213,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 59718,
@@ -14537,14 +14553,6 @@
       "onboard_time": 1728397703,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 45266,
-      "num": 84141,
-      "word": "215万迈巴赫漏水4S店称将负责到底",
-      "onboard_time": 1728583213,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 45255,
@@ -15803,20 +15811,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 17086,
-      "num": 42430,
-      "word": "苗疆陈朵朵再回应露营哀牢山",
-      "onboard_time": 1728585733,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 16938,
       "num": 26827,
       "word": "这场面看得人热泪盈眶",
       "onboard_time": 1728246912,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 16919,
+      "num": 32467,
+      "word": "鄂LD06335车主找到了",
+      "onboard_time": 1728582972,
+      "rank": 24,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 16874,
@@ -15848,6 +15856,14 @@
       "word": "一件文物的名字集齐了金银铜",
       "onboard_time": 1728503290,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 15929,
+      "num": 28853,
+      "word": "研究院回应研究员有多个博士学位",
+      "onboard_time": 1728587532,
+      "rank": 34,
       "category": "社会新闻"
     },
     {

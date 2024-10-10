@@ -1,6 +1,6 @@
 {
   "startTime": 1728577667934,
-  "endTime": 1728585839808,
+  "endTime": 1728587877139,
   "band_list": [
     {
       "raw_hot": 6465280,
@@ -451,12 +451,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 75970,
+      "num": 75970,
+      "word": "苗疆陈朵朵再回应露营哀牢山",
+      "onboard_time": 1728585733,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 60632,
       "num": 60632,
       "word": "台湾从来不是也绝不可能成为一个国家",
       "onboard_time": 1728555019,
       "rank": 44,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 60019,
+      "num": 84141,
+      "word": "215万迈巴赫漏水4S店称将负责到底",
+      "onboard_time": 1728583213,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 58156,
@@ -491,14 +507,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 45266,
-      "num": 84141,
-      "word": "215万迈巴赫漏水4S店称将负责到底",
-      "onboard_time": 1728583213,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 43165,
       "num": 43165,
       "word": "孩子得精神病是在替家庭生病吗",
@@ -523,11 +531,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 17086,
-      "num": 42430,
-      "word": "苗疆陈朵朵再回应露营哀牢山",
-      "onboard_time": 1728585733,
+      "raw_hot": 16919,
+      "num": 32467,
+      "word": "鄂LD06335车主找到了",
+      "onboard_time": 1728582972,
       "rank": 24,
+      "category": "社会正能量"
+    },
+    {
+      "raw_hot": 15929,
+      "num": 28853,
+      "word": "研究院回应研究员有多个博士学位",
+      "onboard_time": 1728587532,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
