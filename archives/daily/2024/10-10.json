@@ -1,6 +1,6 @@
 {
   "startTime": 1728491244792,
-  "endTime": 1728566975107,
+  "endTime": 1728567669209,
   "band_list": [
     {
       "raw_hot": 13027302,
@@ -427,8 +427,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 821458,
-      "num": 821458,
+      "raw_hot": 828781,
+      "num": 828781,
       "word": "林高远王艺迪1比3林钟勋申裕斌",
       "onboard_time": 1728564499,
       "rank": 19,
@@ -595,6 +595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 566320,
+      "num": 424723,
+      "word": "迪丽热巴红衣花海路透",
+      "onboard_time": 1728563841,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 564149,
       "num": 564149,
       "word": "77岁教授不用洗发水省下钱就买书",
@@ -609,14 +617,6 @@
       "onboard_time": 1728558200,
       "rank": 26,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 554593,
-      "num": 424723,
-      "word": "迪丽热巴红衣花海路透",
-      "onboard_time": 1728563841,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 553308,
@@ -737,6 +737,14 @@
       "onboard_time": 1728559522,
       "rank": 33,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 462519,
+      "num": 322854,
+      "word": "江秋莲回应骗捐质疑",
+      "onboard_time": 1728566240,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 459982,
@@ -1019,6 +1027,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 339368,
+      "num": 340101,
+      "word": "任敏好灵",
+      "onboard_time": 1728565400,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 332518,
       "num": 332518,
       "word": "熊 你举手了吗你就吃",
@@ -1049,14 +1065,6 @@
       "onboard_time": 1728527657,
       "rank": 16,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 314591,
-      "num": 314591,
-      "word": "江秋莲回应骗捐质疑",
-      "onboard_time": 1728566240,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 312439,
@@ -1097,14 +1105,6 @@
       "onboard_time": 1728537679,
       "rank": 39,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 305797,
-      "num": 340101,
-      "word": "任敏好灵",
-      "onboard_time": 1728565400,
-      "rank": 8,
-      "category": "剧集"
     },
     {
       "raw_hot": 300301,
@@ -1491,6 +1491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 216777,
+      "num": 328246,
+      "word": "国乒男团vs中国台北",
+      "onboard_time": 1728566780,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 215486,
       "num": 215486,
       "word": "国乒女团惜败体能和心理成拦路虎",
@@ -1579,6 +1587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 204140,
+      "num": 204140,
+      "word": "左航做饭",
+      "onboard_time": 1728566841,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 202934,
       "num": 388896,
       "word": "4S店回应迈巴赫漏水用雨布封顶",
@@ -1632,6 +1648,14 @@
       "word": "这一刻感受到浓颜的冲击力",
       "onboard_time": 1728534622,
       "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 197039,
+      "num": 197039,
+      "word": "迪丽热巴陈飞宇花海吻戏",
+      "onboard_time": 1728567080,
+      "rank": 28,
       "category": "剧集"
     },
     {
@@ -1761,6 +1785,14 @@
       "onboard_time": 1728564021,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 178262,
+      "num": 178262,
+      "word": "亚锦赛赛程",
+      "onboard_time": 1728566479,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 178162,
@@ -2035,14 +2067,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 156022,
-      "num": 156022,
-      "word": "亚锦赛赛程",
-      "onboard_time": 1728566479,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 154143,
       "num": 352870,
       "word": "80元一个的汉堡为什么卖不动了",
@@ -2113,6 +2137,14 @@
       "onboard_time": 1728524057,
       "rank": 41,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 149139,
+      "num": 149139,
+      "word": "国足已被推到悬崖边",
+      "onboard_time": 1728567080,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 148656,
@@ -2259,12 +2291,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 133667,
-      "num": 165748,
-      "word": "左航做饭",
-      "onboard_time": 1728566841,
-      "rank": 34,
-      "category": "作品衍生"
+      "raw_hot": 132975,
+      "num": 132975,
+      "word": "中法文化金秋盛宴",
+      "onboard_time": 1728567020,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 132295,
@@ -2297,6 +2329,14 @@
       "onboard_time": 1728532880,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 130410,
+      "num": 130410,
+      "word": "郑钦文谈纳达尔退役",
+      "onboard_time": 1728567141,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 130056,
@@ -2355,6 +2395,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 126281,
+      "num": 126281,
+      "word": "95后研究员有4个博士2个博后",
+      "onboard_time": 1728567621,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 125614,
       "num": 125614,
       "word": "难怪狗子能睡单人沙发",
@@ -2411,8 +2459,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 120010,
-      "num": 120010,
+      "raw_hot": 121904,
+      "num": 121904,
       "word": "阿尔卡拉斯无缘上海赛四强",
       "onboard_time": 1728565759,
       "rank": 48,
@@ -2939,14 +2987,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 50511,
-      "num": 328246,
-      "word": "国乒男团vs中国台北",
-      "onboard_time": 1728566780,
-      "rank": 12,
-      "category": "体育"
-    },
-    {
       "raw_hot": 50499,
       "num": 489338,
       "word": "美联储会暂停降息吗",
@@ -3059,6 +3099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 35678,
+      "num": 323880,
+      "word": "上万元肺癌神药牵出持续4年骗保案",
+      "onboard_time": 1728565759,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 35570,
       "num": 347882,
       "word": "多家银行提示严禁贷款炒股",
@@ -3131,14 +3179,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 28378,
-      "num": 323880,
-      "word": "上万元肺癌神药牵出持续4年骗保案",
-      "onboard_time": 1728565759,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 26928,
       "num": 224567,
       "word": "超6成盗版视频来自网盘",
@@ -3153,6 +3193,22 @@
       "onboard_time": 1728506831,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 26230,
+      "num": 313351,
+      "word": "浙江丽水一工地施工时挖出炮弹",
+      "onboard_time": 1728567260,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 25323,
+      "num": 154548,
+      "word": "王羲之也逃不过谐音梗",
+      "onboard_time": 1728564321,
+      "rank": 42,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 24907,
@@ -3171,20 +3227,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 23986,
-      "num": 154548,
-      "word": "王羲之也逃不过谐音梗",
-      "onboard_time": 1728564321,
-      "rank": 42,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 22734,
       "num": 29252,
       "word": "华晨宇演唱会舞美",
       "onboard_time": 1728496212,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 22391,
+      "num": 314600,
+      "word": "YG申请2NE1商标权",
+      "onboard_time": 1728566780,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 22091,
@@ -3201,14 +3257,6 @@
       "onboard_time": 1728516978,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 20047,
-      "num": 314600,
-      "word": "YG申请2NE1商标权",
-      "onboard_time": 1728566780,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 17504,
