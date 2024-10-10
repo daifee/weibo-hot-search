@@ -1,6 +1,6 @@
 {
   "startTime": 1728491244792,
-  "endTime": 1728549751691,
+  "endTime": 1728552274368,
   "band_list": [
     {
       "raw_hot": 3438094,
@@ -211,8 +211,16 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1052356,
+      "num": 1168377,
+      "word": "迈巴赫漏水车主用三色雨布封顶",
+      "onboard_time": 1728547339,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1027360,
-      "num": 443611,
+      "num": 444052,
       "word": "四川一餐厅致多人腹泻1人身亡",
       "onboard_time": 1728545779,
       "rank": 10,
@@ -315,6 +323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 731618,
+      "num": 731618,
+      "word": "人民网评哀牢山这盆冷水泼得好",
+      "onboard_time": 1728549918,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 717576,
       "num": 717576,
       "word": "国乒女团负日本队后网友喊话辛苦了",
@@ -355,6 +371,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 631604,
+      "num": 466414,
+      "word": "东北雨姐可能会构成犯罪",
+      "onboard_time": 1728545841,
+      "rank": 7,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 628888,
+      "num": 428189,
+      "word": "韩退役军官建议男女兵混住提高生育率",
+      "onboard_time": 1728550579,
+      "rank": 12,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 622271,
       "num": 622271,
       "word": "上海学习困难门诊一开诊就爆满",
@@ -371,20 +403,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 593516,
+      "num": 593516,
+      "word": "国足vs澳大利亚",
+      "onboard_time": 1728549378,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 579320,
       "num": 438341,
       "word": "孙楠瘦了好多",
       "onboard_time": 1728541519,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 574361,
-      "num": 574361,
-      "word": "迈巴赫漏水车主用三色雨布封顶",
-      "onboard_time": 1728547339,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 573933,
@@ -500,7 +532,7 @@
     },
     {
       "raw_hot": 447444,
-      "num": 447444,
+      "num": 540879,
       "word": "电影射雕英雄传侠之大者",
       "onboard_time": 1728548600,
       "rank": 16,
@@ -521,14 +553,6 @@
       "onboard_time": 1728546020,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 436248,
-      "num": 466414,
-      "word": "东北雨姐可能会构成犯罪",
-      "onboard_time": 1728545841,
-      "rank": 7,
-      "category": "网红"
     },
     {
       "raw_hot": 432250,
@@ -740,7 +764,7 @@
     },
     {
       "raw_hot": 310395,
-      "num": 310395,
+      "num": 424040,
       "word": "民营经济促进法草案来了",
       "onboard_time": 1728548479,
       "rank": 33,
@@ -771,6 +795,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 300301,
+      "num": 273060,
+      "word": "妈妈一只鸡换七个儿子",
+      "onboard_time": 1728551359,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 294888,
       "num": 222592,
       "word": "26岁女子以为痛经检查发现临盆了",
@@ -795,6 +827,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 285001,
+      "num": 285001,
+      "word": "张本美和未来会是国乒女队最大对手吗",
+      "onboard_time": 1728550519,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 275550,
       "num": 275550,
       "word": "部分直播间让未成年人暖场变相出镜",
@@ -809,6 +849,14 @@
       "onboard_time": 1728478399,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 271610,
+      "num": 271610,
+      "word": "诺贝尔文学奖",
+      "onboard_time": 1728551359,
+      "rank": 31,
+      "category": "读书作家"
     },
     {
       "raw_hot": 271061,
@@ -835,6 +883,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 265982,
+      "num": 265982,
+      "word": "12306回应女子高铁车厢吃螺蛳粉",
+      "onboard_time": 1728551539,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 265248,
       "num": 265248,
       "word": "理记发文质疑江歌妈妈骗捐",
@@ -849,6 +905,14 @@
       "onboard_time": 1728483920,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 262362,
+      "num": 256568,
+      "word": "孙颖莎说球跟之前确实不一样",
+      "onboard_time": 1728551177,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 260952,
@@ -883,6 +947,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 255631,
+      "num": 255631,
+      "word": "赵露思给粉丝补偿礼物",
+      "onboard_time": 1728550639,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 252732,
       "num": 252732,
       "word": "向佐手势 周星驰",
@@ -899,12 +971,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 248299,
+      "num": 376899,
+      "word": "郑钦文VS费尔南德斯",
+      "onboard_time": 1728544520,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 247770,
       "num": 452127,
       "word": "Hanni将出席国会",
       "onboard_time": 1728527598,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 245505,
+      "num": 245505,
+      "word": "奔驰客服回应215万的迈巴赫漏水",
+      "onboard_time": 1728550819,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 243752,
@@ -920,6 +1008,14 @@
       "word": "4人大量购买罂粟壳解馋被罚",
       "onboard_time": 1728529158,
       "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 235862,
+      "num": 278625,
+      "word": "男子买迈巴赫10天折损80万",
+      "onboard_time": 1728551418,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -971,6 +1067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 226818,
+      "num": 226818,
+      "word": "王楚钦安宰贤赛后拥抱",
+      "onboard_time": 1728550039,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 226078,
       "num": 226078,
       "word": "诺贝尔化学奖得主现身杭州学军中学",
@@ -993,14 +1097,6 @@
       "onboard_time": 1728517457,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 223150,
-      "num": 376899,
-      "word": "郑钦文VS费尔南德斯",
-      "onboard_time": 1728544520,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 220920,
@@ -1115,12 +1211,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 206520,
+      "num": 353662,
+      "word": "HYBE周边中国元素",
+      "onboard_time": 1728544040,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 205908,
       "num": 205908,
       "word": "杀妻案嫌疑人儿子说不想父亲死",
       "onboard_time": 1728537080,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 203280,
+      "num": 390765,
+      "word": "金莎古装",
+      "onboard_time": 1728551539,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 202934,
@@ -1163,12 +1275,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 199337,
+      "num": 282772,
+      "word": "骆鑫 offer6大魔王",
+      "onboard_time": 1728550099,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 197420,
       "num": 197420,
       "word": "这一刻感受到浓颜的冲击力",
       "onboard_time": 1728534622,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 194576,
+      "num": 280256,
+      "word": "黄圣依杨子参加再见爱人",
+      "onboard_time": 1728552020,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 189714,
@@ -1193,14 +1321,6 @@
       "onboard_time": 1728537799,
       "rank": 18,
       "category": "演出"
-    },
-    {
-      "raw_hot": 187360,
-      "num": 353662,
-      "word": "HYBE周边中国元素",
-      "onboard_time": 1728544040,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 185769,
@@ -1251,11 +1371,11 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 177123,
-      "num": 177123,
-      "word": "国足vs澳大利亚",
-      "onboard_time": 1728549378,
-      "rank": 44,
+      "raw_hot": 175693,
+      "num": 175693,
+      "word": "郑钦文0比1费尔南德斯",
+      "onboard_time": 1728550998,
+      "rank": 45,
       "category": "体育"
     },
     {
@@ -1401,6 +1521,14 @@
       "onboard_time": 1728523518,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 157674,
+      "num": 157674,
+      "word": "日本女乒50年来首次战胜中国队",
+      "onboard_time": 1728551840,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 156790,
@@ -1601,6 +1729,14 @@
       "onboard_time": 1728525858,
       "rank": 40,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 122726,
+      "num": 403856,
+      "word": "小鹏P7+能装下33个行李箱",
+      "onboard_time": 1728548960,
+      "rank": 31,
+      "category": "汽车"
     },
     {
       "raw_hot": 122548,
@@ -1963,14 +2099,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 67768,
-      "num": 223407,
-      "word": "小鹏P7+能装下33个行李箱",
-      "onboard_time": 1728548960,
-      "rank": 31,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 67724,
       "num": 67724,
       "word": "林心如穿泳装",
@@ -2052,7 +2180,7 @@
     },
     {
       "raw_hot": 53839,
-      "num": 234827,
+      "num": 286904,
       "word": "当视障女孩看见落日群山",
       "onboard_time": 1728548420,
       "rank": 41,
@@ -2088,6 +2216,14 @@
       "word": "要厘清互殴与正当防卫的界限",
       "onboard_time": 1728536779,
       "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 46334,
+      "num": 381410,
+      "word": "湖北一小学教室翻新疑要家长掏钱",
+      "onboard_time": 1728550998,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -2193,6 +2329,14 @@
       "onboard_time": 1728548479,
       "rank": 18,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 33017,
+      "num": 415790,
+      "word": "刺激消费建议直接发钱",
+      "onboard_time": 1728551779,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 32849,
@@ -2313,6 +2457,14 @@
       "onboard_time": 1728481100,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 5976,
+      "num": 276667,
+      "word": "郑钦文1比1费尔南德斯",
+      "onboard_time": 1728552259,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 4965,
