@@ -1,7 +1,15 @@
 {
   "startTime": 1728491244792,
-  "endTime": 1728534381825,
+  "endTime": 1728535270791,
   "band_list": [
+    {
+      "raw_hot": 3438094,
+      "num": 1566952,
+      "word": "杀妻男林友21年后被捕",
+      "onboard_time": 1728533418,
+      "rank": 1,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 3405029,
       "num": 3405029,
@@ -11,19 +19,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 2608133,
-      "num": 1566952,
-      "word": "杀妻男林友21年后被捕",
-      "onboard_time": 1728533418,
-      "rank": 1,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 2203113,
       "num": 2203113,
       "word": "国乒女团1比3日本",
       "onboard_time": 1728486381,
       "rank": 1,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 2089155,
+      "num": 734074,
+      "word": "孙颖莎强忍眼泪",
+      "onboard_time": 1728533481,
+      "rank": 10,
       "category": "体育"
     },
     {
@@ -155,14 +163,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 874169,
-      "num": 734074,
-      "word": "孙颖莎强忍眼泪",
-      "onboard_time": 1728533481,
-      "rank": 10,
-      "category": "体育"
-    },
-    {
       "raw_hot": 865401,
       "num": 865401,
       "word": "国乒女团亚锦赛亚军",
@@ -179,8 +179,16 @@
       "category": "财经"
     },
     {
-      "raw_hot": 783782,
-      "num": 783782,
+      "raw_hot": 812462,
+      "num": 509148,
+      "word": "夫妻吵架把孩子放23楼空调外机上",
+      "onboard_time": 1728533541,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 800059,
+      "num": 800059,
       "word": "哀牢山原始森林摸一把叶子都是湿的",
       "onboard_time": 1728531260,
       "rank": 9,
@@ -267,6 +275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 512272,
+      "num": 512272,
+      "word": "被网友给孙颖莎的留言暖到了",
+      "onboard_time": 1728532759,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 507501,
       "num": 507501,
       "word": "韩国政府每周进口200吨中国大白菜",
@@ -297,22 +313,6 @@
       "onboard_time": 1728530239,
       "rank": 34,
       "category": "财经"
-    },
-    {
-      "raw_hot": 469392,
-      "num": 469392,
-      "word": "夫妻吵架把孩子放23楼空调外机上",
-      "onboard_time": 1728533541,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 461573,
-      "num": 461573,
-      "word": "被网友给孙颖莎的留言暖到了",
-      "onboard_time": 1728532759,
-      "rank": 26,
-      "category": "体育"
     },
     {
       "raw_hot": 432250,
@@ -451,12 +451,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 273112,
+      "raw_hot": 290276,
       "num": 431631,
       "word": "朝鲜为什么永久切断并封锁南部国境",
       "onboard_time": 1728530719,
       "rank": 43,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 286425,
+      "num": 286425,
+      "word": "熊 你举手了吗你就吃",
+      "onboard_time": 1728533780,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 272234,
@@ -483,6 +491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 270479,
+      "num": 270479,
+      "word": "莎莎连夜奔波赶赴亚锦赛",
+      "onboard_time": 1728530539,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 265248,
       "num": 265248,
       "word": "理记发文质疑江歌妈妈骗捐",
@@ -507,14 +523,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 257030,
-      "num": 257030,
-      "word": "莎莎连夜奔波赶赴亚锦赛",
-      "onboard_time": 1728530539,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 251274,
       "num": 559792,
       "word": "陈哲远 古言男主",
@@ -537,6 +545,14 @@
       "onboard_time": 1728532759,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 241245,
+      "num": 348949,
+      "word": "4人大量购买罂粟壳解馋被罚",
+      "onboard_time": 1728529158,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 234484,
@@ -627,14 +643,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 217486,
-      "num": 348949,
-      "word": "4人大量购买罂粟壳解馋被罚",
-      "onboard_time": 1728529158,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 215192,
       "num": 215192,
       "word": "王艺迪vs张本美和",
@@ -675,6 +683,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 202404,
+      "num": 202404,
+      "word": "男子高速上开90码被女友嫌慢丢路上",
+      "onboard_time": 1728533600,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 201039,
       "num": 559667,
       "word": "文化中国行看重阳之美",
@@ -683,16 +699,16 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 192241,
-      "num": 192241,
-      "word": "熊 你举手了吗你就吃",
-      "onboard_time": 1728533780,
-      "rank": 41,
-      "category": "幽默"
+      "raw_hot": 197420,
+      "num": 197420,
+      "word": "这一刻感受到浓颜的冲击力",
+      "onboard_time": 1728534622,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 189017,
-      "num": 189017,
+      "num": 559778,
       "word": "浙江13天婚假正式通过",
       "onboard_time": 1728530900,
       "rank": 32,
@@ -747,14 +763,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 170724,
-      "num": 170724,
-      "word": "男子高速上开90码被女友嫌慢丢路上",
-      "onboard_time": 1728533600,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 168918,
       "num": 214324,
       "word": "陈幸同1比3平野美宇",
@@ -771,12 +779,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 166725,
+      "num": 166725,
+      "word": "中粮资本涨停跌停涨停",
+      "onboard_time": 1728533121,
+      "rank": 38,
+      "category": "财经"
+    },
+    {
       "raw_hot": 163672,
       "num": 481631,
       "word": "GiselleSolo曲歌词",
       "onboard_time": 1728486499,
       "rank": 7,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 162500,
+      "num": 431572,
+      "word": "A股巨震之后股民怎么办",
+      "onboard_time": 1728531140,
+      "rank": 14,
+      "category": "财经"
     },
     {
       "raw_hot": 159908,
@@ -795,12 +819,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 154304,
-      "num": 431572,
-      "word": "A股巨震之后股民怎么办",
-      "onboard_time": 1728531140,
-      "rank": 14,
-      "category": "财经"
+      "raw_hot": 153476,
+      "num": 153476,
+      "word": "倪妮周游西班牙海滩大片",
+      "onboard_time": 1728533060,
+      "rank": 43,
+      "category": "电影"
     },
     {
       "raw_hot": 153188,
@@ -809,6 +833,14 @@
       "onboard_time": 1728525078,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 152665,
+      "num": 152665,
+      "word": "A股重新站上3300点",
+      "onboard_time": 1728533659,
+      "rank": 44,
+      "category": "财经"
     },
     {
       "raw_hot": 150480,
@@ -859,6 +891,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 132010,
+      "num": 132010,
+      "word": "霍思燕演这部剧的时候很爽吧",
+      "onboard_time": 1728534622,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 131405,
       "num": 131405,
       "word": "李静从160斤瘦到了105斤",
@@ -873,6 +913,14 @@
       "onboard_time": 1728532880,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 130024,
+      "num": 758541,
+      "word": "A股中字头板块上演涨停潮",
+      "onboard_time": 1728534080,
+      "rank": 8,
+      "category": "财经"
     },
     {
       "raw_hot": 129291,
@@ -971,6 +1019,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 119072,
+      "num": 681758,
+      "word": "抓娃娃反诈版",
+      "onboard_time": 1728534080,
+      "rank": 16,
+      "category": "电影"
+    },
+    {
       "raw_hot": 117269,
       "num": 117269,
       "word": "苏州文旅放大招了",
@@ -1051,6 +1107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 104937,
+      "num": 603082,
+      "word": "原来果茶不加糖更好喝",
+      "onboard_time": 1728533360,
+      "rank": 21,
+      "category": "美食"
+    },
+    {
       "raw_hot": 104035,
       "num": 104035,
       "word": "贷款人突增多家银行提示",
@@ -1129,6 +1193,14 @@
       "onboard_time": 1728475459,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 95934,
+      "num": 723161,
+      "word": "刘亦菲蚂蚁保",
+      "onboard_time": 1728532040,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 95690,
@@ -1259,22 +1331,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 65172,
-      "num": 723161,
-      "word": "刘亦菲蚂蚁保",
-      "onboard_time": 1728532040,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 64370,
-      "num": 603082,
-      "word": "原来果茶不加糖更好喝",
-      "onboard_time": 1728533360,
-      "rank": 21,
-      "category": "美食"
-    },
-    {
       "raw_hot": 60305,
       "num": 701948,
       "word": "儿童智能手表引发儿童社交攀比",
@@ -1321,22 +1377,6 @@
       "onboard_time": 1728493636,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 50620,
-      "num": 758541,
-      "word": "A股中字头板块上演涨停潮",
-      "onboard_time": 1728534080,
-      "rank": 8,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 47724,
-      "num": 681758,
-      "word": "抓娃娃反诈版",
-      "onboard_time": 1728534080,
-      "rank": 16,
-      "category": "电影"
     },
     {
       "raw_hot": 46281,
@@ -1403,6 +1443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 34887,
+      "num": 756853,
+      "word": "多城开启声势浩大的商品房促销",
+      "onboard_time": 1728533060,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 32849,
       "num": 32849,
       "word": "私放无人机游客被终身禁入熊猫基地",
@@ -1417,14 +1465,6 @@
       "onboard_time": 1728502511,
       "rank": 29,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 26840,
-      "num": 756853,
-      "word": "多城开启声势浩大的商品房促销",
-      "onboard_time": 1728533060,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 26695,
@@ -1540,6 +1580,9 @@
     },
     {
       "word": "#习近平致电祝贺赛义德当选连任突尼斯总统#"
+    },
+    {
+      "word": "#加快建设社会主义文化强国#"
     }
   ]
 }

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/10/01 00:28:17 ~ 2024/10/10 12:26:21
+本榜单时间：2024/10/01 00:28:17 ~ 2024/10/10 12:41:10
 </p>
 </blockquote>
 <p>
@@ -71,6 +71,12 @@ A股（热度：3580252）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8Evs%E9%87%91%E7%90%B4%E8%8B%B1%23" target="weibo">
 孙颖莎vs金琴英（热度：3470476）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%80%E5%A6%BB%E7%94%B7%E6%9E%97%E5%8F%8B21%E5%B9%B4%E5%90%8E%E8%A2%AB%E6%8D%95%23" target="weibo">
+杀妻男林友21年后被捕（热度：3438094）
 </a>
 </li>
 
@@ -155,12 +161,6 @@ k总（热度：2611084）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E4%BB%98%E5%AE%8C6%E5%85%83%E9%A4%90%E5%85%B7%E8%B4%B9%E5%90%8E%E6%89%93%E5%8C%85%E5%B8%A6%E8%B5%B0%E7%A2%97%E7%AD%B7%23" target="weibo">
 女生付完6元餐具费后打包带走碗筷（热度：2609208）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%80%E5%A6%BB%E7%94%B7%E6%9E%97%E5%8F%8B21%E5%B9%B4%E5%90%8E%E8%A2%AB%E6%8D%95%23" target="weibo">
-杀妻男林友21年后被捕（热度：2608133）
 </a>
 </li>
 
@@ -275,6 +275,12 @@ k总（热度：2611084）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23A%E8%82%A1%E6%88%90%E4%BA%A4%E5%86%8D%E5%88%9B%E5%8E%86%E5%8F%B2%E6%9C%80%E5%BF%AB%E4%B8%87%E4%BA%BF%E7%BA%AA%E5%BD%95%23" target="weibo">
 A股成交再创历史最快万亿纪录（热度：2096595）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E5%BC%BA%E5%BF%8D%E7%9C%BC%E6%B3%AA%23" target="weibo">
+孙颖莎强忍眼泪（热度：2089155）
 </a>
 </li>
 
@@ -1659,12 +1665,6 @@ LNG战胜BLG（热度：897693）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E5%BC%BA%E5%BF%8D%E7%9C%BC%E6%B3%AA%23" target="weibo">
-孙颖莎强忍眼泪（热度：874169）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23K%E6%80%BB%E5%9B%9E%E5%BA%94%E6%81%8B%E6%83%85%23" target="weibo">
 K总回应恋情（热度：872466）
 </a>
@@ -1839,6 +1839,12 @@ aespa（热度：832836）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%AB%E5%A6%BB%E5%90%B5%E6%9E%B6%E6%8A%8A%E5%AD%A9%E5%AD%90%E6%94%BE23%E6%A5%BC%E7%A9%BA%E8%B0%83%E5%A4%96%E6%9C%BA%E4%B8%8A%23" target="weibo">
+夫妻吵架把孩子放23楼空调外机上（热度：812462）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E5%85%AC%E8%A2%AB%E9%9A%90%E5%BD%A2%E5%AE%B6%E5%8A%A1%E6%95%B4%E5%B4%A9%E6%BA%83%E6%83%B3%E7%A6%BB%E5%AE%B6%E5%87%BA%E8%B5%B0%23" target="weibo">
 老公被隐形家务整崩溃想离家出走（热度：810094）
 </a>
@@ -1871,6 +1877,12 @@ aespa（热度：832836）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%93%80%E7%89%A2%E5%B1%B1%23" target="weibo">
 哀牢山（热度：802190）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%93%80%E7%89%A2%E5%B1%B1%E5%8E%9F%E5%A7%8B%E6%A3%AE%E6%9E%97%E6%91%B8%E4%B8%80%E6%8A%8A%E5%8F%B6%E5%AD%90%E9%83%BD%E6%98%AF%E6%B9%BF%E7%9A%84%23" target="weibo">
+哀牢山原始森林摸一把叶子都是湿的（热度：800059）
 </a>
 </li>
 
@@ -1919,12 +1931,6 @@ aespa（热度：832836）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E8%87%AA%E8%B4%A1%E7%9C%9F%E6%8D%85%E4%BA%86%E9%BE%99%E7%AA%9D%E4%BA%86%23" target="weibo">
 四川自贡真捅了龙窝了（热度：785414）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%93%80%E7%89%A2%E5%B1%B1%E5%8E%9F%E5%A7%8B%E6%A3%AE%E6%9E%97%E6%91%B8%E4%B8%80%E6%8A%8A%E5%8F%B6%E5%AD%90%E9%83%BD%E6%98%AF%E6%B9%BF%E7%9A%84%23" target="weibo">
-哀牢山原始森林摸一把叶子都是湿的（热度：783782）
 </a>
 </li>
 
@@ -3555,6 +3561,12 @@ GEN对战WBG（热度：516314）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E7%BD%91%E5%8F%8B%E7%BB%99%E5%AD%99%E9%A2%96%E8%8E%8E%E7%9A%84%E7%95%99%E8%A8%80%E6%9A%96%E5%88%B0%E4%BA%86%23" target="weibo">
+被网友给孙颖莎的留言暖到了（热度：512272）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%B9%92%E5%A5%B3%E5%9B%A21%E6%AF%941%E6%9C%9D%E9%B2%9C%23" target="weibo">
 国乒女团1比1朝鲜（热度：511216）
 </a>
@@ -3939,12 +3951,6 @@ GEN对战WBG（热度：516314）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%AB%E5%A6%BB%E5%90%B5%E6%9E%B6%E6%8A%8A%E5%AD%A9%E5%AD%90%E6%94%BE23%E6%A5%BC%E7%A9%BA%E8%B0%83%E5%A4%96%E6%9C%BA%E4%B8%8A%23" target="weibo">
-夫妻吵架把孩子放23楼空调外机上（热度：469392）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E8%AF%97%E6%A0%8B%E4%B8%89%E8%BF%9E%E5%86%A0%23" target="weibo">
 林诗栋三连冠（热度：468133）
 </a>
@@ -3983,12 +3989,6 @@ offer6带教 香港首位内地女性大律师（热度：465493）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%BA%86%E5%A4%A9%E5%AE%89%E9%97%A8%E5%B9%BF%E5%9C%BA%E5%8D%87%E5%9B%BD%E6%97%97%E5%AE%8C%E6%95%B4%E8%A7%86%E9%A2%91%23" target="weibo">
 国庆天安门广场升国旗完整视频（热度：462172）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E7%BD%91%E5%8F%8B%E7%BB%99%E5%AD%99%E9%A2%96%E8%8E%8E%E7%9A%84%E7%95%99%E8%A8%80%E6%9A%96%E5%88%B0%E4%BA%86%23" target="weibo">
-被网友给孙颖莎的留言暖到了（热度：461573）
 </a>
 </li>
 
@@ -6197,6 +6197,12 @@ DK对战LNG（热度：311674）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%87%B4%E7%94%B5%E7%A5%9D%E8%B4%BA%E8%B5%9B%E4%B9%89%E5%BE%B7%E5%BD%93%E9%80%89%E8%BF%9E%E4%BB%BB%E7%AA%81%E5%B0%BC%E6%96%AF%E6%80%BB%E7%BB%9F%23%23" target="weibo">
 #习近平致电祝贺赛义德当选连任突尼斯总统#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E5%8A%A0%E5%BF%AB%E5%BB%BA%E8%AE%BE%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E6%96%87%E5%8C%96%E5%BC%BA%E5%9B%BD%23%23" target="weibo">
+#加快建设社会主义文化强国#
 </a>
 </li>
 
