@@ -1,0 +1,410 @@
+{
+  "runTime": 1728542710980,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1983356,
+        "num": 1983356,
+        "word": "梁靖崑0比3安宰贤",
+        "onboard_time": 1728540979,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1342350,
+        "num": 1342350,
+        "word": "东北雨姐",
+        "onboard_time": 1728537260,
+        "rank": 1,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 22483,
+        "num": 1258562,
+        "word": "打卡秋天里的美丽中国",
+        "onboard_time": 1728532219,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1204419,
+        "num": 1204419,
+        "word": "东北雨姐售卖的粉条检测结果已出",
+        "onboard_time": 1728541040,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 784274,
+        "num": 784274,
+        "word": "王楚钦vs吴晙诚",
+        "onboard_time": 1728536899,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 514492,
+        "num": 514492,
+        "word": "梁靖崑vs安宰贤",
+        "onboard_time": 1728539899,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 497722,
+        "num": 497722,
+        "word": "董宇辉回应直播翻车",
+        "onboard_time": 1728532278,
+        "rank": 6,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 464598,
+        "num": 464598,
+        "word": "哀牢山原始森林摸一把叶子都是湿的",
+        "onboard_time": 1728531260,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 455736,
+        "num": 455736,
+        "word": "孙颖莎看向奖杯的眼神让人心疼",
+        "onboard_time": 1728538759,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 448001,
+        "num": 455230,
+        "word": "山取画材公司登记地址人去楼空",
+        "onboard_time": 1728540379,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30188,
+        "num": 454716,
+        "word": "林诗栋3比0林钟勋",
+        "onboard_time": 1728542540,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 42240,
+        "num": 454310,
+        "word": "X200真机实拍提前曝光",
+        "onboard_time": 1728541219,
+        "rank": 11,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 442308,
+        "num": 453886,
+        "word": "东北雨姐红薯粉条涉嫌标签虚假标注",
+        "onboard_time": 1728538819,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1362299,
+        "num": 453419,
+        "word": "12306回应24元坐商务座送55元饭食",
+        "onboard_time": 1728539419,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 546708,
+        "num": 452453,
+        "word": "杀妻男林友21年后被捕",
+        "onboard_time": 1728533418,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 452269,
+        "num": 452269,
+        "word": "加沙已是人间炼狱",
+        "onboard_time": 1728542239,
+        "rank": 15,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 401363,
+        "num": 401363,
+        "word": "孙楠瘦了好多",
+        "onboard_time": 1728541519,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 365110,
+        "num": 387159,
+        "word": "互相嫁互相娶",
+        "onboard_time": 1728540258,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 295086,
+        "num": 380410,
+        "word": "爱情公寓还是太超前了",
+        "onboard_time": 1728529038,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 378661,
+        "num": 378661,
+        "word": "林诗栋vs林钟勋",
+        "onboard_time": 1728541219,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 53412,
+        "num": 378404,
+        "word": "蚂蚁保居然请了刘亦菲",
+        "onboard_time": 1728540498,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 551420,
+        "num": 378151,
+        "word": "郭碧婷都忍不住了",
+        "onboard_time": 1728529579,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 530271,
+        "num": 377801,
+        "word": "夫妻吵架把孩子放23楼空调外机上",
+        "onboard_time": 1728533541,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 376001,
+        "num": 377382,
+        "word": "李沁 观音杨柳手",
+        "onboard_time": 1728539178,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 399701,
+        "num": 377072,
+        "word": "无缘亚锦赛冠军为女乒敲响警钟",
+        "onboard_time": 1728537260,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 378787,
+        "num": 376689,
+        "word": "5岁女孩天生爆炸头发量惊人",
+        "onboard_time": 1728536419,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 376612,
+        "num": 376612,
+        "word": "国乒男团vs韩国",
+        "onboard_time": 1728535461,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 276749,
+        "num": 276749,
+        "word": "徐霞客曾在哀牢山迷路",
+        "onboard_time": 1728526699,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274007,
+        "num": 274007,
+        "word": "15元外卖与照片不符起诉获赔500元",
+        "onboard_time": 1728531078,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140040,
+        "num": 262366,
+        "word": "凤凰传奇抢票",
+        "onboard_time": 1728537799,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 252732,
+        "num": 252732,
+        "word": "向佐手势 周星驰",
+        "onboard_time": 1728541880,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 227383,
+        "num": 227383,
+        "word": "疯狂筹钱进股市的人已经亏麻了",
+        "onboard_time": 1728530239,
+        "rank": 31,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 218410,
+        "num": 218410,
+        "word": "缺觉4天引发全身炎症风暴",
+        "onboard_time": 1728525017,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 218144,
+        "num": 218144,
+        "word": "官方回应河南一农村小孩疑似吃土",
+        "onboard_time": 1728540138,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168253,
+        "num": 215590,
+        "word": "山花烂漫时豆瓣涨至9.4",
+        "onboard_time": 1728542540,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 234437,
+        "num": 215532,
+        "word": "纪凌尘怎么敢抢向佐风头的",
+        "onboard_time": 1728537439,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 215377,
+        "num": 215377,
+        "word": "被网友给孙颖莎的留言暖到了",
+        "onboard_time": 1728532759,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 214109,
+        "num": 214109,
+        "word": "戴LV丝巾受访的女局长被查",
+        "onboard_time": 1728493336,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125076,
+        "num": 209672,
+        "word": "庞博宣了一天球都没摸到",
+        "onboard_time": 1728541159,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208119,
+        "num": 208119,
+        "word": "广东人的彩礼观有多实际",
+        "onboard_time": 1728541938,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202934,
+        "num": 202934,
+        "word": "4S店回应迈巴赫漏水用雨布封顶",
+        "onboard_time": 1728540498,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199945,
+        "num": 199945,
+        "word": "股市",
+        "onboard_time": 1728524057,
+        "rank": 41,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 194803,
+        "num": 194803,
+        "word": "王楚钦3比1吴晙诚",
+        "onboard_time": 1728539300,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 184719,
+        "num": 184719,
+        "word": "唯一一个能让高铁商务座亏钱的人",
+        "onboard_time": 1728529337,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 117762,
+        "num": 172583,
+        "word": "密室大逃脱",
+        "onboard_time": 1728535820,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169835,
+        "num": 169835,
+        "word": "越来越多人开始追求健康式喝咖啡",
+        "onboard_time": 1728531260,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 169229,
+        "num": 169229,
+        "word": "沈星回生日谷",
+        "onboard_time": 1728541578,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 160116,
+        "num": 160116,
+        "word": "国庆回来工位被一只猫占了",
+        "onboard_time": 1728539000,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 154281,
+        "num": 154281,
+        "word": "徐霞客劝大家安全为首勿涉险地",
+        "onboard_time": 1728537920,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152031,
+        "num": 152031,
+        "word": "国乒男团半决赛出场",
+        "onboard_time": 1728539599,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#加快建设社会主义文化强国#"
+    }
+  }
+}
