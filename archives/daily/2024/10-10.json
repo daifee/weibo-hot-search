@@ -1,6 +1,6 @@
 {
   "startTime": 1728491244792,
-  "endTime": 1728553095675,
+  "endTime": 1728555827454,
   "band_list": [
     {
       "raw_hot": 3438094,
@@ -24,6 +24,14 @@
       "word": "王楚钦vs安宰贤",
       "onboard_time": 1728543019,
       "rank": 6,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 2456828,
+      "num": 2456828,
+      "word": "国足vs澳大利亚",
+      "onboard_time": 1728549378,
+      "rank": 44,
       "category": "体育"
     },
     {
@@ -147,6 +155,22 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1393529,
+      "num": 452350,
+      "word": "12306回应女子高铁车厢吃螺蛳粉",
+      "onboard_time": 1728551539,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1380367,
+      "num": 1380367,
+      "word": "澳大利亚扳平",
+      "onboard_time": 1728552979,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1362299,
       "num": 1214389,
       "word": "12306回应24元坐商务座送55元饭食",
@@ -217,14 +241,6 @@
       "onboard_time": 1728547339,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1033929,
-      "num": 1165428,
-      "word": "国足vs澳大利亚",
-      "onboard_time": 1728549378,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 1027360,
@@ -315,6 +331,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 841917,
+      "num": 841917,
+      "word": "纳达尔退役",
+      "onboard_time": 1728553339,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 841147,
+      "num": 618519,
+      "word": "诺贝尔文学奖",
+      "onboard_time": 1728551359,
+      "rank": 31,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 800059,
       "num": 800059,
       "word": "哀牢山原始森林摸一把叶子都是湿的",
@@ -347,6 +379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 752596,
+      "num": 752596,
+      "word": "国足进球了",
+      "onboard_time": 1728553100,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 717576,
       "num": 717576,
       "word": "国乒女团负日本队后网友喊话辛苦了",
@@ -359,6 +399,14 @@
       "num": 390617,
       "word": "男子炒股8年60万元剩300多元",
       "onboard_time": 1728544520,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 686184,
+      "num": 449355,
+      "word": "宝宝从45cm高的床上掉下瘫痪",
+      "onboard_time": 1728552799,
       "rank": 41,
       "category": "社会新闻"
     },
@@ -403,20 +451,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 618519,
-      "num": 618519,
-      "word": "诺贝尔文学奖",
-      "onboard_time": 1728551359,
-      "rank": 31,
-      "category": "读书作家"
-    },
-    {
       "raw_hot": 616424,
       "num": 616424,
       "word": "山取画材公司登记地址人去楼空",
       "onboard_time": 1728540379,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 605745,
+      "num": 447483,
+      "word": "残雪 诺贝尔文学奖提名",
+      "onboard_time": 1728552559,
+      "rank": 42,
+      "category": "读书作家"
+    },
+    {
+      "raw_hot": 580217,
+      "num": 580217,
+      "word": "郑钦文晋级八强",
+      "onboard_time": 1728553758,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 579320,
@@ -595,6 +651,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 418390,
+      "num": 418390,
+      "word": "成都一小店卖烤红薯60一个",
+      "onboard_time": 1728552799,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 416068,
       "num": 470016,
       "word": "互相嫁互相娶",
@@ -643,20 +707,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 402871,
+      "num": 494260,
+      "word": "黄圣依杨子参加再见爱人",
+      "onboard_time": 1728552020,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 396510,
       "num": 396510,
       "word": "向佐跳操",
       "onboard_time": 1728518600,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 384831,
-      "num": 494260,
-      "word": "黄圣依杨子参加再见爱人",
-      "onboard_time": 1728552020,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 381270,
@@ -699,14 +763,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 372767,
-      "num": 372767,
-      "word": "12306回应女子高铁车厢吃螺蛳粉",
-      "onboard_time": 1728551539,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 372418,
       "num": 460612,
       "word": "李沁重生之我在各个年代当医生",
@@ -721,6 +777,14 @@
       "onboard_time": 1728489558,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 368634,
+      "num": 455341,
+      "word": "创造营亚洲 名单",
+      "onboard_time": 1728554119,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 366002,
@@ -745,6 +809,14 @@
       "onboard_time": 1728482961,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 360544,
+      "num": 454278,
+      "word": "贵女 恐怖氛围",
+      "onboard_time": 1728553698,
+      "rank": 9,
+      "category": "剧集"
     },
     {
       "raw_hot": 357881,
@@ -851,6 +923,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 299720,
+      "num": 299720,
+      "word": "国足半场1比1澳大利亚",
+      "onboard_time": 1728555077,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 294888,
       "num": 222592,
       "word": "26岁女子以为痛经检查发现临盆了",
@@ -873,6 +953,22 @@
       "onboard_time": 1728530719,
       "rank": 43,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 288278,
+      "num": 277650,
+      "word": "再见爱人 李行亮麦琳",
+      "onboard_time": 1728555019,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 287311,
+      "num": 287311,
+      "word": "台湾从来不是也绝不可能成为一个国家",
+      "onboard_time": 1728555019,
+      "rank": 23,
+      "category": "国内时政"
     },
     {
       "raw_hot": 285001,
@@ -1028,7 +1124,7 @@
     },
     {
       "raw_hot": 245505,
-      "num": 245505,
+      "num": 349175,
       "word": "奔驰客服回应215万的迈巴赫漏水",
       "onboard_time": 1728550819,
       "rank": 37,
@@ -1129,14 +1225,6 @@
       "onboard_time": 1728517457,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 221681,
-      "num": 221681,
-      "word": "宝宝从45cm高的床上掉下瘫痪",
-      "onboard_time": 1728552799,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 220920,
@@ -1283,14 +1371,6 @@
       "category": "读书作家"
     },
     {
-      "raw_hot": 202466,
-      "num": 202466,
-      "word": "残雪 诺贝尔文学奖提名",
-      "onboard_time": 1728552559,
-      "rank": 42,
-      "category": "读书作家"
-    },
-    {
       "raw_hot": 202097,
       "num": 375043,
       "word": "黄子弘凡专辑",
@@ -1331,6 +1411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 197057,
+      "num": 197057,
+      "word": "央行原副行长范一飞被判处死缓",
+      "onboard_time": 1728554659,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 189714,
       "num": 293265,
       "word": "何运晨科普什么情况能给罪犯求情",
@@ -1339,12 +1427,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 189078,
+      "num": 189078,
+      "word": "A股上演深V反弹",
+      "onboard_time": 1728554419,
+      "rank": 40,
+      "category": "财经"
+    },
+    {
       "raw_hot": 188506,
       "num": 210694,
       "word": "七夜雪锦绣安宁互祝开播大吉",
       "onboard_time": 1728530599,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 188267,
+      "num": 286825,
+      "word": "王俊凯重阳百花敬老节活动",
+      "onboard_time": 1728555019,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 187893,
@@ -1379,6 +1483,30 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 182633,
+      "num": 182633,
+      "word": "王欣瑜首次击败世界前三",
+      "onboard_time": 1728555319,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 181706,
+      "num": 286173,
+      "word": "贵女",
+      "onboard_time": 1728555499,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 181163,
+      "num": 181163,
+      "word": "中方反制3家美国军工企业",
+      "onboard_time": 1728553459,
+      "rank": 42,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 179011,
       "num": 349777,
       "word": "TVB有自己的御用床宝",
@@ -1403,20 +1531,20 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 176203,
+      "num": 285390,
+      "word": "陈铭回应坠落的审判北大首映",
+      "onboard_time": 1728554779,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 175693,
       "num": 175693,
       "word": "郑钦文0比1费尔南德斯",
       "onboard_time": 1728550998,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 174033,
-      "num": 174033,
-      "word": "成都一小店卖烤红薯60一个",
-      "onboard_time": 1728552799,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 173306,
@@ -1635,6 +1763,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 146659,
+      "num": 146659,
+      "word": "谢天谢地谢文能",
+      "onboard_time": 1728553758,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 146203,
+      "num": 146203,
+      "word": "退钱哥谈国足对阵澳大利亚",
+      "onboard_time": 1728554958,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 145910,
       "num": 145910,
       "word": "时代少年团 台州",
@@ -1651,11 +1795,27 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 142088,
+      "num": 142088,
+      "word": "停云立绘",
+      "onboard_time": 1728555738,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 139742,
       "num": 366447,
       "word": "揭开哀牢山神秘面纱",
       "onboard_time": 1728528499,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 137436,
+      "num": 137436,
+      "word": "油价今晚要上调",
+      "onboard_time": 1728555619,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -1921,6 +2081,14 @@
       "onboard_time": 1728519740,
       "rank": 45,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 103056,
+      "num": 283489,
+      "word": "锦绣安宁金莎古装",
+      "onboard_time": 1728551539,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 102039,
@@ -2249,6 +2417,14 @@
       "onboard_time": 1728493636,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 51670,
+      "num": 320350,
+      "word": "杨紫帮忙选的张晚意外套",
+      "onboard_time": 1728555077,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 50499,
