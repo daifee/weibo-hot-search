@@ -1,6 +1,6 @@
 {
   "startTime": 1728577667934,
-  "endTime": 1728578549572,
+  "endTime": 1728580841252,
   "band_list": [
     {
       "raw_hot": 6465280,
@@ -275,6 +275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 153119,
+      "num": 110374,
+      "word": "王楚钦正手火力全开",
+      "onboard_time": 1728580274,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 145354,
       "num": 145354,
       "word": "江秋莲回应骗捐质疑",
@@ -403,6 +411,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 105246,
+      "num": 194071,
+      "word": "这种高仿板栗有毒千万别吃",
+      "onboard_time": 1728580274,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 102075,
       "num": 102075,
       "word": "未来三天可能发生大地磁暴",
@@ -425,6 +441,38 @@
       "onboard_time": 1728570381,
       "rank": 37,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 78514,
+      "num": 78514,
+      "word": "新迈巴赫漏水被4S店大规模拆解",
+      "onboard_time": 1728579194,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 60632,
+      "num": 60632,
+      "word": "台湾从来不是也绝不可能成为一个国家",
+      "onboard_time": 1728555019,
+      "rank": 44,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 58156,
+      "num": 58156,
+      "word": "世界乒联说孙颖莎好好休息",
+      "onboard_time": 1728562521,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 55546,
+      "num": 55546,
+      "word": "国足1比3澳大利亚",
+      "onboard_time": 1728552979,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 28922,
