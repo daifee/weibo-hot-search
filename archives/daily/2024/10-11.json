@@ -1,6 +1,6 @@
 {
   "startTime": 1728577667934,
-  "endTime": 1728598891128,
+  "endTime": 1728600009975,
   "band_list": [
     {
       "raw_hot": 6465280,
@@ -107,6 +107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 344855,
+      "num": 344855,
+      "word": "未来三天可能发生大地磁暴",
+      "onboard_time": 1728560780,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 332605,
       "num": 332605,
       "word": "梁伟铿王昶vs林秉纬苏敬恒",
@@ -155,6 +163,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 246735,
+      "num": 137736,
+      "word": "网络女主播摆拍约架还用上了血胶囊",
+      "onboard_time": 1728590471,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 242860,
+      "num": 242860,
+      "word": "这种高仿板栗有毒千万别吃",
+      "onboard_time": 1728580274,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 237926,
       "num": 237926,
       "word": "刘耀文摸宋亚轩头",
@@ -163,28 +187,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 236835,
-      "num": 236835,
-      "word": "未来三天可能发生大地磁暴",
-      "onboard_time": 1728560780,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 222473,
       "num": 222473,
       "word": "东北雨姐售卖的粉条检测结果已出",
       "onboard_time": 1728541040,
       "rank": 23,
       "category": "网红"
-    },
-    {
-      "raw_hot": 220108,
-      "num": 220108,
-      "word": "这种高仿板栗有毒千万别吃",
-      "onboard_time": 1728580274,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 218267,
@@ -264,14 +272,6 @@
       "word": "广西人在美国卖螺蛳粉生意爆火",
       "onboard_time": 1728573919,
       "rank": 32,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 164963,
-      "num": 99218,
-      "word": "网络女主播摆拍约架还用上了血胶囊",
-      "onboard_time": 1728590471,
-      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -363,6 +363,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 121138,
+      "num": 121138,
+      "word": "苗疆陈朵朵再回应露营哀牢山",
+      "onboard_time": 1728585733,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 120870,
       "num": 120870,
       "word": "林诗栋vs林昀儒",
@@ -435,8 +443,8 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 99209,
-      "num": 99209,
+      "raw_hot": 107904,
+      "num": 107904,
       "word": "哀牢山发出的警告得听",
       "onboard_time": 1728594551,
       "rank": 12,
@@ -451,12 +459,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 83257,
-      "num": 83257,
-      "word": "苗疆陈朵朵再回应露营哀牢山",
-      "onboard_time": 1728585733,
-      "rank": 24,
-      "category": "社会新闻"
+      "raw_hot": 82375,
+      "num": 82375,
+      "word": "孩子得精神病是在替家庭生病吗",
+      "onboard_time": 1728582314,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 80453,
@@ -465,6 +473,14 @@
       "onboard_time": 1728570381,
       "rank": 37,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 78703,
+      "num": 84141,
+      "word": "215万迈巴赫漏水4S店称将负责到底",
+      "onboard_time": 1728583213,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 78514,
@@ -483,12 +499,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 60019,
-      "num": 84141,
-      "word": "215万迈巴赫漏水4S店称将负责到底",
-      "onboard_time": 1728583213,
-      "rank": 9,
-      "category": "社会新闻"
+      "raw_hot": 59350,
+      "num": 54385,
+      "word": "对抗抑郁最好的运动方式",
+      "onboard_time": 1728594071,
+      "rank": 47,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 58156,
@@ -515,12 +531,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 52813,
-      "num": 52813,
-      "word": "孩子得精神病是在替家庭生病吗",
-      "onboard_time": 1728582314,
-      "rank": 30,
-      "category": "情感"
+      "raw_hot": 48005,
+      "num": 48005,
+      "word": "秒杀没开始团伙已经抢到商品",
+      "onboard_time": 1728597551,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 47235,
@@ -531,20 +547,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 36184,
+      "raw_hot": 41772,
       "num": 45145,
       "word": "见过放羊的没见过放狼的",
       "onboard_time": 1728594971,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 33399,
-      "num": 33399,
-      "word": "对抗抑郁最好的运动方式",
-      "onboard_time": 1728594071,
-      "rank": 47,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 32140,
@@ -555,6 +563,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 31323,
+      "num": 112738,
+      "word": "网友举报过期大米销往乡村学校",
+      "onboard_time": 1728598692,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 28922,
       "num": 1984337,
       "word": "被宝藏爷爷奶奶惊艳到了",
@@ -563,20 +579,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 27983,
+      "num": 34822,
+      "word": "李宇春聚星名人赛压轴表演",
+      "onboard_time": 1728582792,
+      "rank": 49,
+      "category": "演出,体育"
+    },
+    {
       "raw_hot": 22847,
       "num": 57593,
       "word": "研究院回应研究员有多个博士学位",
       "onboard_time": 1728587532,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 22741,
-      "num": 27726,
-      "word": "李宇春聚星名人赛压轴表演",
-      "onboard_time": 1728582792,
-      "rank": 49,
-      "category": "演出,体育"
     },
     {
       "raw_hot": 22269,
@@ -611,14 +627,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 19719,
-      "num": 45600,
-      "word": "秒杀没开始团伙已经抢到商品",
-      "onboard_time": 1728597551,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 18823,
       "num": 29929,
       "word": "余华英拐卖案将开庭重审",
@@ -643,14 +651,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 15791,
-      "num": 62016,
-      "word": "网友举报过期大米销往乡村学校",
-      "onboard_time": 1728598692,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 15398,
       "num": 24145,
       "word": "12岁男孩离世捐献器官助5人新生",
@@ -667,8 +667,8 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 9347,
-      "num": 224226,
+      "raw_hot": 10341,
+      "num": 336810,
       "word": "候鸟环球迁徙记",
       "onboard_time": 1728565160,
       "rank": 2,
