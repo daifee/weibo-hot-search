@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1728560123191,
+  "endTime": 1728564137985,
   "band_list": [
     {
       "raw_hot": 13027302,
@@ -209,6 +209,14 @@
       "onboard_time": 1727870601,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2596713,
+      "num": 2596713,
+      "word": "鄂LD06335死死顶住失控车辆",
+      "onboard_time": 1728559342,
+      "rank": 16,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 2508132,
@@ -2361,6 +2369,14 @@
       "onboard_time": 1728468319,
       "rank": 5,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 894256,
+      "num": 391764,
+      "word": "世界乒联说孙颖莎好好休息",
+      "onboard_time": 1728562521,
+      "rank": 10,
+      "category": "体育"
     },
     {
       "raw_hot": 884225,
@@ -5411,14 +5427,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 483644,
-      "num": 483644,
-      "word": "鄂LD06335死死顶住失控车辆",
-      "onboard_time": 1728559342,
-      "rank": 16,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 483196,
       "num": 483196,
       "word": "中国飞机炮火中逆行至黎巴嫩撤侨",
@@ -5539,6 +5547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 474538,
+      "num": 474538,
+      "word": "倪妮杂志封面是真蛇",
+      "onboard_time": 1728563419,
+      "rank": 4,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 474132,
       "num": 643572,
       "word": "浴火之路票房",
@@ -5619,6 +5635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 468734,
+      "num": 361434,
+      "word": "央视依然不转播国足比赛",
+      "onboard_time": 1728558922,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 468133,
       "num": 412231,
       "word": "林诗栋三连冠",
@@ -5665,6 +5689,14 @@
       "onboard_time": 1728137300,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 463049,
+      "num": 379857,
+      "word": "张馨予玄学灵验",
+      "onboard_time": 1728559522,
+      "rank": 33,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 462945,
@@ -7179,14 +7211,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 361434,
-      "num": 361434,
-      "word": "央视依然不转播国足比赛",
-      "onboard_time": 1728558922,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 360867,
       "num": 282510,
       "word": "李定豪 阮小咪",
@@ -7851,6 +7875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 327863,
+      "num": 327863,
+      "word": "杨紫王俊凯 明学优秀毕业生",
+      "onboard_time": 1728560123,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 327629,
       "num": 299041,
       "word": "杨紫商务",
@@ -7905,6 +7937,14 @@
       "onboard_time": 1727738657,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 325811,
+      "num": 325811,
+      "word": "原来很多人的洗澡顺序错了",
+      "onboard_time": 1728560902,
+      "rank": 22,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 325679,
@@ -9497,6 +9537,14 @@
       "onboard_time": 1728086236,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 272110,
+      "num": 395209,
+      "word": "再见爱人4夫妻嘉宾官宣",
+      "onboard_time": 1728560002,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 272073,
@@ -11523,14 +11571,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 223270,
-      "num": 223270,
-      "word": "张馨予玄学灵验",
-      "onboard_time": 1728559522,
-      "rank": 33,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 223155,
       "num": 209162,
       "word": "徐冬冬谈和赵丽颖合作感受",
@@ -11699,12 +11739,28 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 219737,
+      "num": 219737,
+      "word": "偶遇太阳闵孝琳一家三口",
+      "onboard_time": 1728561322,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 219556,
       "num": 207677,
       "word": "许昕赢了赚输了算",
       "onboard_time": 1728021798,
       "rank": 42,
       "category": "综艺,体育"
+    },
+    {
+      "raw_hot": 219390,
+      "num": 219390,
+      "word": "5类人喝黑咖啡会格外受益",
+      "onboard_time": 1728561260,
+      "rank": 25,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 219332,
@@ -13691,6 +13747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 193640,
+      "num": 193640,
+      "word": "迪丽热巴红衣花海路透",
+      "onboard_time": 1728563841,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 193491,
       "num": 193491,
       "word": "Faker说小虎可以爱豆出道了",
@@ -15123,6 +15187,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 178162,
+      "num": 178162,
+      "word": "孙颖莎说擦干眼泪赢回来",
+      "onboard_time": 1728560360,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 178124,
       "num": 178124,
       "word": "陈梦回青岛与球迷切磋球技",
@@ -15713,6 +15785,14 @@
       "onboard_time": 1728206178,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 171995,
+      "num": 171995,
+      "word": "村上春树陪跑",
+      "onboard_time": 1728563000,
+      "rank": 34,
+      "category": "读书作家"
     },
     {
       "raw_hot": 171987,
@@ -16481,6 +16561,14 @@
       "onboard_time": 1727872639,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 163846,
+      "num": 163846,
+      "word": "未来三天可能发生大地磁暴",
+      "onboard_time": 1728560780,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 163837,
@@ -17520,6 +17608,14 @@
       "word": "80元一个的汉堡为什么卖不动了",
       "onboard_time": 1728540018,
       "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 154122,
+      "num": 392435,
+      "word": "辅警查处飙车炸街摩托被撞倒",
+      "onboard_time": 1728558621,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -18643,6 +18739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 144389,
+      "num": 144389,
+      "word": "诺奖得主韩江笔下的韩国文学样貌",
+      "onboard_time": 1728562400,
+      "rank": 43,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 144346,
       "num": 144346,
       "word": "Bin想成为Faker接班人",
@@ -18761,6 +18865,14 @@
       "onboard_time": 1728556399,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 143057,
+      "num": 143057,
+      "word": "鲁豫精准认出eStarPro全体队员",
+      "onboard_time": 1728563720,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 142931,
@@ -19595,14 +19707,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 135942,
-      "num": 135942,
-      "word": "辅警查处飙车炸街摩托被撞倒",
-      "onboard_time": 1728558621,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 135916,
       "num": 135916,
       "word": "郑钦文参与武网亮灯仪式",
@@ -19681,14 +19785,6 @@
       "onboard_time": 1728127040,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 135218,
-      "num": 189699,
-      "word": "再见爱人4夫妻嘉宾官宣",
-      "onboard_time": 1728560002,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 135202,
@@ -19825,6 +19921,14 @@
       "onboard_time": 1727929639,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 134361,
+      "num": 134361,
+      "word": "女孩翻阳台离家被白车接走失联七天",
+      "onboard_time": 1728564021,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 134182,
@@ -20657,6 +20761,14 @@
       "onboard_time": 1727791103,
       "rank": 39,
       "category": "电影"
+    },
+    {
+      "raw_hot": 128127,
+      "num": 128127,
+      "word": "东北雨姐所售粉条不标木薯属虚假宣传",
+      "onboard_time": 1728563961,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 128048,
@@ -23035,6 +23147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 106590,
+      "num": 337668,
+      "word": "于适重阳百花敬老节活动",
+      "onboard_time": 1728563121,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 106554,
       "num": 106554,
       "word": "雨果3比1安宰贤",
@@ -23737,6 +23857,14 @@
       "onboard_time": 1728121639,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 99497,
+      "num": 164396,
+      "word": "科研机构95后研究员简历引关注",
+      "onboard_time": 1728561980,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 99383,
@@ -28347,6 +28475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 34550,
+      "num": 385420,
+      "word": "多家银行发布存量房贷利率下调公告",
+      "onboard_time": 1728563541,
+      "rank": 13,
+      "category": "财经"
+    },
+    {
       "raw_hot": 34522,
       "num": 257165,
       "word": "伊朗本次袭击对地区局势有何影响",
@@ -28899,6 +29035,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 28791,
+      "num": 145783,
+      "word": "大学生依法较真维权值得点赞",
+      "onboard_time": 1728562101,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 28660,
       "num": 276178,
       "word": "于正回应身上痒就去洗澡",
@@ -29257,6 +29401,14 @@
       "onboard_time": 1728036080,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 24262,
+      "num": 388275,
+      "word": "热浪之外",
+      "onboard_time": 1728560721,
+      "rank": 12,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 24034,

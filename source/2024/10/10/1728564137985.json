@@ -1,0 +1,410 @@
+{
+  "runTime": 1728564137985,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 8193667,
+        "num": 8193667,
+        "word": "孙颖莎退出亚锦赛",
+        "onboard_time": 1728558680,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2596713,
+        "num": 2596713,
+        "word": "鄂LD06335死死顶住失控车辆",
+        "onboard_time": 1728559342,
+        "rank": 1,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 19523,
+        "num": 1551833,
+        "word": "民营经济促进法公开征求意见",
+        "onboard_time": 1728548479,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 687215,
+        "num": 687215,
+        "word": "国足1比3澳大利亚",
+        "onboard_time": 1728552979,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 474538,
+        "num": 474538,
+        "word": "倪妮杂志封面是真蛇",
+        "onboard_time": 1728563419,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 455975,
+        "num": 455975,
+        "word": "樊振东陈奕迅对打网球",
+        "onboard_time": 1728558200,
+        "rank": 5,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 409832,
+        "num": 409832,
+        "word": "台湾从来不是也绝不可能成为一个国家",
+        "onboard_time": 1728555019,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 395759,
+        "num": 395759,
+        "word": "人民网评哀牢山这盆冷水泼得好",
+        "onboard_time": 1728549918,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 272110,
+        "num": 395209,
+        "word": "再见爱人4夫妻嘉宾官宣",
+        "onboard_time": 1728560002,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154122,
+        "num": 392435,
+        "word": "辅警查处飙车炸街摩托被撞倒",
+        "onboard_time": 1728558621,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 894256,
+        "num": 391764,
+        "word": "世界乒联说孙颖莎好好休息",
+        "onboard_time": 1728562521,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 863940,
+        "num": 390137,
+        "word": "韩国作家韩江获2024年诺贝尔文学奖",
+        "onboard_time": 1728558981,
+        "rank": 11,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 24262,
+        "num": 388275,
+        "word": "热浪之外",
+        "onboard_time": 1728560721,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 34550,
+        "num": 385420,
+        "word": "多家银行发布存量房贷利率下调公告",
+        "onboard_time": 1728563541,
+        "rank": 13,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 202909,
+        "num": 384760,
+        "word": "奔驰客服回应215万的迈巴赫漏水",
+        "onboard_time": 1728550819,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 526570,
+        "num": 381286,
+        "word": "贵女 恐怖氛围",
+        "onboard_time": 1728553698,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 463049,
+        "num": 379857,
+        "word": "张馨予玄学灵验",
+        "onboard_time": 1728559522,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 379336,
+        "num": 379336,
+        "word": "12306回应女子高铁车厢吃螺蛳粉",
+        "onboard_time": 1728551539,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106590,
+        "num": 337668,
+        "word": "于适重阳百花敬老节活动",
+        "onboard_time": 1728563121,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 327863,
+        "num": 327863,
+        "word": "杨紫王俊凯 明学优秀毕业生",
+        "onboard_time": 1728560123,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 552459,
+        "num": 327562,
+        "word": "东北雨姐售卖的粉条检测结果已出",
+        "onboard_time": 1728541040,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 468734,
+        "num": 327471,
+        "word": "央视依然不转播国足比赛",
+        "onboard_time": 1728558922,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 325811,
+        "num": 325811,
+        "word": "原来很多人的洗澡顺序错了",
+        "onboard_time": 1728560902,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 277318,
+        "num": 277318,
+        "word": "宝宝从45cm高的床上掉下瘫痪",
+        "onboard_time": 1728552799,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219737,
+        "num": 219737,
+        "word": "偶遇太阳闵孝琳一家三口",
+        "onboard_time": 1728561322,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 219390,
+        "num": 219390,
+        "word": "5类人喝黑咖啡会格外受益",
+        "onboard_time": 1728561260,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 193640,
+        "num": 193640,
+        "word": "迪丽热巴红衣花海路透",
+        "onboard_time": 1728563841,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 212907,
+        "num": 191455,
+        "word": "韩江",
+        "onboard_time": 1728559342,
+        "rank": 27,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 186326,
+        "num": 186326,
+        "word": "韩退役军官建议男女兵混住提高生育率",
+        "onboard_time": 1728550579,
+        "rank": 28,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 139474,
+        "num": 182433,
+        "word": "再见爱人 李行亮麦琳",
+        "onboard_time": 1728555019,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182228,
+        "num": 182228,
+        "word": "国足vs澳大利亚",
+        "onboard_time": 1728549378,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 179309,
+        "num": 179309,
+        "word": "成都一小店卖烤红薯60一个",
+        "onboard_time": 1728552799,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178162,
+        "num": 178162,
+        "word": "孙颖莎说擦干眼泪赢回来",
+        "onboard_time": 1728560360,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 174916,
+        "num": 174916,
+        "word": "国足18强赛三连败",
+        "onboard_time": 1728559042,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 171995,
+        "num": 171995,
+        "word": "村上春树陪跑",
+        "onboard_time": 1728563000,
+        "rank": 34,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 167633,
+        "num": 167633,
+        "word": "纳达尔退役",
+        "onboard_time": 1728553339,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 99497,
+        "num": 164396,
+        "word": "科研机构95后研究员简历引关注",
+        "onboard_time": 1728561980,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163846,
+        "num": 163846,
+        "word": "未来三天可能发生大地磁暴",
+        "onboard_time": 1728560780,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153711,
+        "num": 153711,
+        "word": "创造营亚洲 名单",
+        "onboard_time": 1728554119,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151107,
+        "num": 151107,
+        "word": "王楚钦独得两分",
+        "onboard_time": 1728545120,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148649,
+        "num": 148649,
+        "word": "亚锦赛",
+        "onboard_time": 1728560662,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 147917,
+        "num": 147917,
+        "word": "贵女",
+        "onboard_time": 1728555499,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 28791,
+        "num": 145783,
+        "word": "大学生依法较真维权值得点赞",
+        "onboard_time": 1728562101,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144389,
+        "num": 144389,
+        "word": "诺奖得主韩江笔下的韩国文学样貌",
+        "onboard_time": 1728562400,
+        "rank": 43,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 143057,
+        "num": 143057,
+        "word": "鲁豫精准认出eStarPro全体队员",
+        "onboard_time": 1728563720,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 140783,
+        "num": 140783,
+        "word": "以后再也不说白菜价了",
+        "onboard_time": 1728559941,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134361,
+        "num": 134361,
+        "word": "女孩翻阳台离家被白车接走失联七天",
+        "onboard_time": 1728564021,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133304,
+        "num": 133304,
+        "word": "孙颖莎说球跟之前确实不一样",
+        "onboard_time": 1728551177,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128159,
+        "num": 128159,
+        "word": "国足进球了",
+        "onboard_time": 1728553100,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128127,
+        "num": 128127,
+        "word": "东北雨姐所售粉条不标木薯属虚假宣传",
+        "onboard_time": 1728563961,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平回信勉励银龄行动老年志愿者代表#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1728491244792,
-  "endTime": 1728560123191,
+  "endTime": 1728564137985,
   "band_list": [
     {
       "raw_hot": 13027302,
@@ -25,6 +25,14 @@
       "onboard_time": 1728491237,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 2596713,
+      "num": 2596713,
+      "word": "鄂LD06335死死顶住失控车辆",
+      "onboard_time": 1728559342,
+      "rank": 16,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 2505461,
@@ -347,6 +355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 894256,
+      "num": 391764,
+      "word": "世界乒联说孙颖莎好好休息",
+      "onboard_time": 1728562521,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 865401,
       "num": 865401,
       "word": "国乒女团亚锦赛亚军",
@@ -659,20 +675,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 483644,
-      "num": 483644,
-      "word": "鄂LD06335死死顶住失控车辆",
-      "onboard_time": 1728559342,
-      "rank": 16,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 474653,
       "num": 474653,
       "word": "国足领先澳大利亚",
       "onboard_time": 1728552979,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 474538,
+      "num": 474538,
+      "word": "倪妮杂志封面是真蛇",
+      "onboard_time": 1728563419,
+      "rank": 4,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 469740,
@@ -683,12 +699,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 468734,
+      "num": 361434,
+      "word": "央视依然不转播国足比赛",
+      "onboard_time": 1728558922,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 466898,
       "num": 466898,
       "word": "芒果文案",
       "onboard_time": 1728545360,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 463049,
+      "num": 379857,
+      "word": "张馨予玄学灵验",
+      "onboard_time": 1728559522,
+      "rank": 33,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 455680,
@@ -915,14 +947,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 361434,
-      "num": 361434,
-      "word": "央视依然不转播国足比赛",
-      "onboard_time": 1728558922,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 357881,
       "num": 711667,
       "word": "Hanni决定出席国会监查",
@@ -971,12 +995,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 327863,
+      "num": 327863,
+      "word": "杨紫王俊凯 明学优秀毕业生",
+      "onboard_time": 1728560123,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 326299,
       "num": 326299,
       "word": "炉石传说补偿",
       "onboard_time": 1728547699,
       "rank": 15,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 325811,
+      "num": 325811,
+      "word": "原来很多人的洗澡顺序错了",
+      "onboard_time": 1728560902,
+      "rank": 22,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 321139,
@@ -1097,6 +1137,14 @@
       "onboard_time": 1728478399,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 272110,
+      "num": 395209,
+      "word": "再见爱人4夫妻嘉宾官宣",
+      "onboard_time": 1728560002,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 271879,
@@ -1331,14 +1379,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 223270,
-      "num": 223270,
-      "word": "张馨予玄学灵验",
-      "onboard_time": 1728559522,
-      "rank": 33,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 220920,
       "num": 220920,
       "word": "孙颖莎辛苦了",
@@ -1353,6 +1393,22 @@
       "onboard_time": 1728483738,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 219737,
+      "num": 219737,
+      "word": "偶遇太阳闵孝琳一家三口",
+      "onboard_time": 1728561322,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 219390,
+      "num": 219390,
+      "word": "5类人喝黑咖啡会格外受益",
+      "onboard_time": 1728561260,
+      "rank": 25,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 219029,
@@ -1523,6 +1579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 193640,
+      "num": 193640,
+      "word": "迪丽热巴红衣花海路透",
+      "onboard_time": 1728563841,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 189714,
       "num": 293265,
       "word": "何运晨科普什么情况能给罪犯求情",
@@ -1627,6 +1691,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 178162,
+      "num": 178162,
+      "word": "孙颖莎说擦干眼泪赢回来",
+      "onboard_time": 1728560360,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 178124,
       "num": 178124,
       "word": "陈梦回青岛与球迷切磋球技",
@@ -1665,6 +1737,14 @@
       "onboard_time": 1728537920,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 171995,
+      "num": 171995,
+      "word": "村上春树陪跑",
+      "onboard_time": 1728563000,
+      "rank": 34,
+      "category": "读书作家"
     },
     {
       "raw_hot": 171338,
@@ -1737,6 +1817,14 @@
       "onboard_time": 1728559581,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 163846,
+      "num": 163846,
+      "word": "未来三天可能发生大地磁暴",
+      "onboard_time": 1728560780,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 163837,
@@ -1851,6 +1939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 154122,
+      "num": 392435,
+      "word": "辅警查处飙车炸街摩托被撞倒",
+      "onboard_time": 1728558621,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 154056,
       "num": 154056,
       "word": "何猷君谈和电竞的缘分",
@@ -1955,6 +2051,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 144389,
+      "num": 144389,
+      "word": "诺奖得主韩江笔下的韩国文学样貌",
+      "onboard_time": 1728562400,
+      "rank": 43,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 143762,
       "num": 143762,
       "word": "氢氟酸沾了小半个手指就有严重后果",
@@ -1969,6 +2073,14 @@
       "onboard_time": 1728556399,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 143057,
+      "num": 143057,
+      "word": "鲁豫精准认出eStarPro全体队员",
+      "onboard_time": 1728563720,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 139742,
@@ -1995,20 +2107,12 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 135942,
-      "num": 135942,
-      "word": "辅警查处飙车炸街摩托被撞倒",
-      "onboard_time": 1728558621,
-      "rank": 48,
+      "raw_hot": 134361,
+      "num": 134361,
+      "word": "女孩翻阳台离家被白车接走失联七天",
+      "onboard_time": 1728564021,
+      "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 135218,
-      "num": 189699,
-      "word": "再见爱人4夫妻嘉宾官宣",
-      "onboard_time": 1728560002,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 132010,
@@ -2072,6 +2176,14 @@
       "word": "最高法披露AI生成他人声音侵权案例",
       "onboard_time": 1728525499,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 128127,
+      "num": 128127,
+      "word": "东北雨姐所售粉条不标木薯属虚假宣传",
+      "onboard_time": 1728563961,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -2251,6 +2363,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 106590,
+      "num": 337668,
+      "word": "于适重阳百花敬老节活动",
+      "onboard_time": 1728563121,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 106146,
       "num": 106146,
       "word": "林熙蕾女儿将担任萧敬腾婚礼花童",
@@ -2312,6 +2432,14 @@
       "word": "女子毛巾藏针半年勒索9家酒店",
       "onboard_time": 1728547819,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 99497,
+      "num": 164396,
+      "word": "科研机构95后研究员简历引关注",
+      "onboard_time": 1728561980,
+      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -2803,6 +2931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 34550,
+      "num": 385420,
+      "word": "多家银行发布存量房贷利率下调公告",
+      "onboard_time": 1728563541,
+      "rank": 13,
+      "category": "财经"
+    },
+    {
       "raw_hot": 34169,
       "num": 319534,
       "word": "VOGUE盛典出发图主题",
@@ -2827,6 +2963,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 28791,
+      "num": 145783,
+      "word": "大学生依法较真维权值得点赞",
+      "onboard_time": 1728562101,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 26928,
       "num": 224567,
       "word": "超6成盗版视频来自网盘",
@@ -2849,6 +2993,14 @@
       "onboard_time": 1728556281,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 24262,
+      "num": 388275,
+      "word": "热浪之外",
+      "onboard_time": 1728560721,
+      "rank": 12,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 22734,
