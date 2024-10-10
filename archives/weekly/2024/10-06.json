@@ -1,6 +1,6 @@
 {
   "startTime": 1728145573126,
-  "endTime": 1728544872626,
+  "endTime": 1728545725287,
   "band_list": [
     {
       "raw_hot": 12210422,
@@ -171,6 +171,22 @@
       "category": "财经"
     },
     {
+      "raw_hot": 2505461,
+      "num": 2505461,
+      "word": "王楚钦vs安宰贤",
+      "onboard_time": 1728543019,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 2456248,
+      "num": 1997542,
+      "word": "东北雨姐售卖的粉条检测结果已出",
+      "onboard_time": 1728541040,
+      "rank": 7,
+      "category": "网红"
+    },
+    {
       "raw_hot": 2395906,
       "num": 2395906,
       "word": "林诗栋男单冠军",
@@ -289,14 +305,6 @@
       "onboard_time": 1728488119,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1997542,
-      "num": 1997542,
-      "word": "东北雨姐售卖的粉条检测结果已出",
-      "onboard_time": 1728541040,
-      "rank": 7,
-      "category": "网红"
     },
     {
       "raw_hot": 1983356,
@@ -659,6 +667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1289184,
+      "num": 1289184,
+      "word": "王楚钦和裁判交涉",
+      "onboard_time": 1728543800,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1275221,
       "num": 184415,
       "word": "网传加18万彩礼的情况说明系假冒",
@@ -681,6 +697,14 @@
       "onboard_time": 1728353179,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1244231,
+      "num": 454090,
+      "word": "国乒男团2比1韩国",
+      "onboard_time": 1728543559,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 1242137,
@@ -1195,14 +1219,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 985665,
-      "num": 693291,
-      "word": "王楚钦vs安宰贤",
-      "onboard_time": 1728543019,
-      "rank": 6,
-      "category": "体育"
-    },
-    {
       "raw_hot": 977734,
       "num": 483193,
       "word": "一早涨停买入的已经开始亏钱",
@@ -1473,14 +1489,6 @@
       "onboard_time": 1728377780,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 857537,
-      "num": 486133,
-      "word": "王楚钦和裁判交涉",
-      "onboard_time": 1728543800,
-      "rank": 10,
-      "category": "体育"
     },
     {
       "raw_hot": 853137,
@@ -2083,14 +2091,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 641143,
-      "num": 454090,
-      "word": "国乒男团2比1韩国",
-      "onboard_time": 1728543559,
-      "rank": 12,
-      "category": "体育"
-    },
-    {
       "raw_hot": 639467,
       "num": 406925,
       "word": "张新成王玉雯被父母撮合过",
@@ -2539,6 +2539,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 529466,
+      "num": 529466,
+      "word": "孙颖莎看向奖杯的眼神让人心疼",
+      "onboard_time": 1728538759,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 529400,
       "num": 529400,
       "word": "成都又多一只巨巨巨大的熊猫",
@@ -2632,14 +2640,6 @@
       "word": "国乒女团1比1朝鲜",
       "onboard_time": 1728400401,
       "rank": 30,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 511213,
-      "num": 511213,
-      "word": "孙颖莎看向奖杯的眼神让人心疼",
-      "onboard_time": 1728538759,
-      "rank": 48,
       "category": "体育"
     },
     {
@@ -2897,6 +2897,14 @@
       "onboard_time": 1728445040,
       "rank": 9,
       "category": "财经"
+    },
+    {
+      "raw_hot": 472286,
+      "num": 472286,
+      "word": "国乒男团亚锦赛晋级决赛",
+      "onboard_time": 1728545120,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 471720,
@@ -3220,7 +3228,7 @@
     },
     {
       "raw_hot": 416068,
-      "num": 416068,
+      "num": 470016,
       "word": "互相嫁互相娶",
       "onboard_time": 1728540258,
       "rank": 12,
@@ -3297,6 +3305,14 @@
       "onboard_time": 1728302483,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 405116,
+      "num": 405116,
+      "word": "广东人的彩礼观有多实际",
+      "onboard_time": 1728541938,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 400289,
@@ -3425,6 +3441,14 @@
       "onboard_time": 1728390319,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 390617,
+      "num": 390617,
+      "word": "男子炒股8年60万元剩300多元",
+      "onboard_time": 1728544520,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 389121,
@@ -4355,6 +4379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 307597,
+      "num": 307597,
+      "word": "孟子义张予曦合体上综艺",
+      "onboard_time": 1728544040,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 307484,
       "num": 307484,
       "word": "叠纸心意",
@@ -4595,19 +4627,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 289347,
-      "num": 289347,
-      "word": "广东人的彩礼观有多实际",
-      "onboard_time": 1728541938,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 289252,
       "num": 215449,
       "word": "交警回应高速现钉子多车轮胎被扎",
       "onboard_time": 1728285680,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 289088,
+      "num": 289088,
+      "word": "重庆涉代孕医院被罚4.5万元",
+      "onboard_time": 1728544819,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -5097,14 +5129,6 @@
       "onboard_time": 1728271757,
       "rank": 44,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 260382,
-      "num": 271602,
-      "word": "孟子义张予曦合体上综艺",
-      "onboard_time": 1728544040,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 259063,
@@ -6443,6 +6467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 206150,
+      "num": 333385,
+      "word": "芒果文案",
+      "onboard_time": 1728545360,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 206074,
       "num": 266722,
       "word": "已经开始盼元旦了",
@@ -6641,6 +6673,14 @@
       "onboard_time": 1728536540,
       "rank": 17,
       "category": "音乐,艺人"
+    },
+    {
+      "raw_hot": 202005,
+      "num": 202005,
+      "word": "王楚钦3比1吴晙诚",
+      "onboard_time": 1728539300,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 201227,
@@ -6947,14 +6987,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 194803,
-      "num": 194803,
-      "word": "王楚钦3比1吴晙诚",
-      "onboard_time": 1728539300,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 194762,
       "num": 194762,
       "word": "时装周最热艺人前十",
@@ -7073,14 +7105,6 @@
       "onboard_time": 1728467299,
       "rank": 37,
       "category": "演出"
-    },
-    {
-      "raw_hot": 192941,
-      "num": 192941,
-      "word": "男子炒股8年60万元剩300多元",
-      "onboard_time": 1728544520,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 192859,
@@ -7611,6 +7635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 179346,
+      "num": 328324,
+      "word": "今年最值得期待的彗星要来了",
+      "onboard_time": 1728543079,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 179055,
       "num": 179055,
       "word": "林俊杰的钢琴",
@@ -7769,6 +7801,14 @@
       "onboard_time": 1728441319,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 175185,
+      "num": 207414,
+      "word": "王楚钦独得两分",
+      "onboard_time": 1728545120,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 175175,
@@ -8179,6 +8219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 166493,
+      "num": 166493,
+      "word": "有这些表现说明你欠了睡眠债",
+      "onboard_time": 1728543979,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 166336,
       "num": 258077,
       "word": "花儿与少年第六季观后感",
@@ -8297,6 +8345,14 @@
       "onboard_time": 1728303628,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 163791,
+      "num": 507050,
+      "word": "骚扰电话为什么屡禁难止",
+      "onboard_time": 1728543860,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 163776,
@@ -9075,14 +9131,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 150111,
-      "num": 150111,
-      "word": "有这些表现说明你欠了睡眠债",
-      "onboard_time": 1728543979,
-      "rank": 48,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 149934,
       "num": 149934,
       "word": "iPhone17Air相机功能或不如其他型号",
@@ -9456,14 +9504,6 @@
       "word": "2024年诺贝尔奖今起揭晓",
       "onboard_time": 1728295523,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 143170,
-      "num": 143170,
-      "word": "重庆涉代孕医院被罚4.5万元",
-      "onboard_time": 1728544819,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -10475,6 +10515,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 120817,
+      "num": 376899,
+      "word": "郑钦文VS费尔南德斯",
+      "onboard_time": 1728544520,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 120290,
       "num": 120290,
       "word": "原神",
@@ -11217,14 +11265,6 @@
       "onboard_time": 1728140659,
       "rank": 36,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 101167,
-      "num": 507050,
-      "word": "骚扰电话为什么屡禁难止",
-      "onboard_time": 1728543860,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 100757,
@@ -12019,6 +12059,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 78730,
+      "num": 416445,
+      "word": "员工按假领导指示转账被骗895万",
+      "onboard_time": 1728543860,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 78656,
       "num": 78656,
       "word": "天秤座要学会放过自己",
@@ -12571,6 +12619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 55596,
+      "num": 468669,
+      "word": "X200真机实拍提前曝光",
+      "onboard_time": 1728541219,
+      "rank": 31,
+      "category": "数码"
+    },
+    {
       "raw_hot": 55568,
       "num": 282781,
       "word": "中芯国际涨逾18%",
@@ -12672,14 +12728,6 @@
       "word": "vivo为何领跑国产手机销量市场",
       "onboard_time": 1728375381,
       "rank": 34,
-      "category": "数码"
-    },
-    {
-      "raw_hot": 52715,
-      "num": 468669,
-      "word": "X200真机实拍提前曝光",
-      "onboard_time": 1728541219,
-      "rank": 31,
       "category": "数码"
     },
     {
@@ -12995,14 +13043,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 43766,
-      "num": 416445,
-      "word": "员工按假领导指示转账被骗895万",
-      "onboard_time": 1728543860,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 43576,
       "num": 341197,
       "word": "国庆氛围感壁纸",
@@ -13131,6 +13171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 38891,
+      "num": 414094,
+      "word": "余华英案再审被拐者带父母照片听庭",
+      "onboard_time": 1728545600,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 38779,
       "num": 250015,
       "word": "人人人人景点人人人人",
@@ -13201,14 +13249,6 @@
       "onboard_time": 1728235337,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 37465,
-      "num": 376899,
-      "word": "郑钦文VS费尔南德斯",
-      "onboard_time": 1728544520,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 37351,
@@ -14225,6 +14265,14 @@
       "onboard_time": 1728132861,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 4965,
+      "num": 360289,
+      "word": "陈紫函全员美人中的美人",
+      "onboard_time": 1728545660,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 4756,
