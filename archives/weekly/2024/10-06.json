@@ -1,6 +1,6 @@
 {
   "startTime": 1728145573126,
-  "endTime": 1728570069534,
+  "endTime": 1728571178182,
   "band_list": [
     {
       "raw_hot": 13027302,
@@ -2771,6 +2771,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 548135,
+      "num": 421874,
+      "word": "赵露思直播间状态",
+      "onboard_time": 1728569003,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 546621,
       "num": 611997,
       "word": "胡歌刘诗诗一起录综艺了",
@@ -3419,6 +3427,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 446906,
+      "num": 411298,
+      "word": "原来很多人的洗澡顺序错了",
+      "onboard_time": 1728560902,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 446398,
       "num": 446398,
       "word": "韩江",
@@ -3489,14 +3505,6 @@
       "onboard_time": 1728257417,
       "rank": 19,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 436659,
-      "num": 411298,
-      "word": "原来很多人的洗澡顺序错了",
-      "onboard_time": 1728560902,
-      "rank": 22,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 433192,
@@ -3691,6 +3699,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 410948,
+      "num": 432785,
+      "word": "迪丽热巴陈飞宇花海吻戏",
+      "onboard_time": 1728567080,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 410672,
       "num": 622394,
       "word": "宋茜cue迪丽热巴新疆舞",
@@ -3875,6 +3891,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 385064,
+      "num": 431837,
+      "word": "号贩子200部手机同时开外挂抢号倒卖",
+      "onboard_time": 1728567800,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 384839,
       "num": 356948,
       "word": "马龙一切尽在掌控",
@@ -3921,6 +3945,14 @@
       "onboard_time": 1728535461,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 381105,
+      "num": 381105,
+      "word": "369今天是999",
+      "onboard_time": 1728569601,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 380995,
@@ -4363,14 +4395,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 352353,
-      "num": 352353,
-      "word": "赵露思直播间状态",
-      "onboard_time": 1728569003,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 351320,
       "num": 258323,
       "word": "孙颖莎大口喘气",
@@ -4443,12 +4467,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 340486,
-      "num": 419857,
-      "word": "迪丽热巴陈飞宇花海吻戏",
-      "onboard_time": 1728567080,
-      "rank": 28,
-      "category": "剧集"
+      "raw_hot": 340252,
+      "num": 297647,
+      "word": "孙颖莎评论区被祝福刷屏",
+      "onboard_time": 1728569961,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 339467,
@@ -4545,6 +4569,14 @@
       "onboard_time": 1728465979,
       "rank": 5,
       "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 331644,
+      "num": 331644,
+      "word": "杭州4.3亿元消费券来了",
+      "onboard_time": 1728568401,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 331272,
@@ -4907,14 +4939,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 306949,
-      "num": 306949,
-      "word": "369今天是999",
-      "onboard_time": 1728569601,
-      "rank": 30,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 305283,
       "num": 434337,
       "word": "印度空军航展发生踩踏致百人死伤",
@@ -5008,6 +5032,14 @@
       "word": "王曼昱被闪光灯干扰",
       "onboard_time": 1728215780,
       "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 297570,
+      "num": 426860,
+      "word": "王楚钦3比0高承睿",
+      "onboard_time": 1728569121,
+      "rank": 12,
       "category": "体育"
     },
     {
@@ -5779,6 +5811,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 256878,
+      "num": 417278,
+      "word": "林诗栋vs林昀儒",
+      "onboard_time": 1728569060,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 256764,
       "num": 256764,
       "word": "陈乔恩回应被催生",
@@ -6505,14 +6545,6 @@
       "onboard_time": 1728459318,
       "rank": 40,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 224770,
-      "num": 426860,
-      "word": "王楚钦3比0高承睿",
-      "onboard_time": 1728569121,
-      "rank": 12,
-      "category": "体育"
     },
     {
       "raw_hot": 224705,
@@ -7281,14 +7313,6 @@
       "onboard_time": 1728463700,
       "rank": 37,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 203480,
-      "num": 431837,
-      "word": "号贩子200部手机同时开外挂抢号倒卖",
-      "onboard_time": 1728567800,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 203419,
@@ -8065,6 +8089,14 @@
       "onboard_time": 1728569301,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 186514,
+      "num": 186514,
+      "word": "95后研究员有4个博士2个博后",
+      "onboard_time": 1728567621,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 186340,
@@ -8859,14 +8891,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 170433,
-      "num": 196272,
-      "word": "杭州4.3亿元消费券来了",
-      "onboard_time": 1728568401,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 170333,
       "num": 170333,
       "word": "擅入哀牢山未开放区域最高罚款5000",
@@ -9459,6 +9483,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 158622,
+      "num": 425375,
+      "word": "东北雨姐清空橱窗",
+      "onboard_time": 1728568281,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 158550,
       "num": 158550,
       "word": "赵露思挂脖露背裙",
@@ -9547,6 +9579,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 157423,
+      "num": 157423,
+      "word": "考上师范学校却被人冒名顶替了",
+      "onboard_time": 1728571042,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 157419,
       "num": 157419,
       "word": "他用3年为国家挽回1亿多美元损失",
@@ -9632,6 +9672,14 @@
       "word": "林高远王艺迪止步八强",
       "onboard_time": 1728566419,
       "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 156221,
+      "num": 156221,
+      "word": "郑钦文回应赛中与对手争议",
+      "onboard_time": 1728569541,
+      "rank": 47,
       "category": "体育"
     },
     {
@@ -10179,14 +10227,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 148014,
-      "num": 148014,
-      "word": "95后研究员有4个博士2个博后",
-      "onboard_time": 1728567621,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 147815,
       "num": 336995,
       "word": "黑色月光",
@@ -10339,14 +10379,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 145429,
-      "num": 145429,
-      "word": "郑钦文回应赛中与对手争议",
-      "onboard_time": 1728569541,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 145332,
       "num": 145332,
       "word": "朱志鑫Dance拍摄over",
@@ -10456,14 +10488,6 @@
       "word": "郑钦文登场点燃全场",
       "onboard_time": 1728477799,
       "rank": 44,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 143568,
-      "num": 143568,
-      "word": "孙颖莎评论区被祝福刷屏",
-      "onboard_time": 1728569961,
-      "rank": 48,
       "category": "体育"
     },
     {
@@ -10769,14 +10793,6 @@
       "onboard_time": 1728393140,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 137658,
-      "num": 417278,
-      "word": "林诗栋vs林昀儒",
-      "onboard_time": 1728569060,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 137641,
@@ -12697,14 +12713,6 @@
       "onboard_time": 1728179598,
       "rank": 24,
       "category": "电影"
-    },
-    {
-      "raw_hot": 93749,
-      "num": 425375,
-      "word": "东北雨姐清空橱窗",
-      "onboard_time": 1728568281,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 93733,
@@ -14723,6 +14731,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 33892,
+      "num": 423802,
+      "word": "万元定制人脸面具可通过门禁识别",
+      "onboard_time": 1728569242,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 33875,
       "num": 308952,
       "word": "辛芷蕾pick的AI芯片",
@@ -14753,6 +14769,14 @@
       "onboard_time": 1728468500,
       "rank": 15,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 33118,
+      "num": 430564,
+      "word": "券商人员绩效考核不得与开户数挂钩",
+      "onboard_time": 1728570800,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 33051,
@@ -14955,6 +14979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 29187,
+      "num": 333305,
+      "word": "HLE对战FLY",
+      "onboard_time": 1728570381,
+      "rank": 17,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 29175,
       "num": 208191,
       "word": "王一博公益站帮助25名儿童",
@@ -15129,14 +15161,6 @@
       "onboard_time": 1728560721,
       "rank": 12,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 23820,
-      "num": 423802,
-      "word": "万元定制人脸面具可通过门禁识别",
-      "onboard_time": 1728569242,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 23600,
