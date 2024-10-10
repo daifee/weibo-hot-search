@@ -1,6 +1,6 @@
 {
   "startTime": 1728577667934,
-  "endTime": 1728602500658,
+  "endTime": 1728603341206,
   "band_list": [
     {
       "raw_hot": 6465280,
@@ -35,20 +35,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1145859,
+      "num": 1145859,
+      "word": "这种高仿板栗有毒千万别吃",
+      "onboard_time": 1728580274,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1058013,
       "num": 1058013,
       "word": "听泉鉴宝宣布短暂停播",
       "onboard_time": 1728572060,
       "rank": 4,
       "category": "网红"
-    },
-    {
-      "raw_hot": 998221,
-      "num": 998221,
-      "word": "这种高仿板栗有毒千万别吃",
-      "onboard_time": 1728580274,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 946505,
@@ -99,8 +99,8 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 530160,
-      "num": 530160,
+      "raw_hot": 564464,
+      "num": 564464,
       "word": "未来三天可能发生大地磁暴",
       "onboard_time": 1728560780,
       "rank": 43,
@@ -113,6 +113,22 @@
       "onboard_time": 1728575779,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 484757,
+      "num": 306863,
+      "word": "王楚钦将捧花扔向了观众席",
+      "onboard_time": 1728603078,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 424262,
+      "num": 424262,
+      "word": "网友举报过期大米销往乡村学校",
+      "onboard_time": 1728598692,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 364673,
@@ -139,28 +155,36 @@
       "category": "体育"
     },
     {
-      "raw_hot": 323321,
-      "num": 323321,
-      "word": "网友举报过期大米销往乡村学校",
-      "onboard_time": 1728598692,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 304271,
-      "num": 304271,
+      "raw_hot": 317684,
+      "num": 305702,
       "word": "网络女主播摆拍约架还用上了血胶囊",
       "onboard_time": 1728590471,
       "rank": 35,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 303704,
-      "num": 303704,
+      "raw_hot": 307570,
+      "num": 307570,
       "word": "考上师范学校却被人冒名顶替了",
       "onboard_time": 1728571042,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 305629,
+      "num": 305629,
+      "word": "花215万买奔驰漏水折损近80万",
+      "onboard_time": 1728600554,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 304524,
+      "num": 304524,
+      "word": "王楚钦庆祝手势",
+      "onboard_time": 1728603017,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 299217,
@@ -171,6 +195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 297803,
+      "num": 256505,
+      "word": "东北雨姐售卖的粉条检测结果已出",
+      "onboard_time": 1728541040,
+      "rank": 23,
+      "category": "网红"
+    },
+    {
       "raw_hot": 286754,
       "num": 555034,
       "word": "倪妮杂志封面是真蛇",
@@ -179,12 +211,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 278220,
-      "num": 278220,
-      "word": "花215万买奔驰漏水折损近80万",
-      "onboard_time": 1728600554,
-      "rank": 14,
-      "category": "社会新闻"
+      "raw_hot": 276437,
+      "num": 276437,
+      "word": "肖指导是真的心疼孙颖莎",
+      "onboard_time": 1728603078,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 264991,
@@ -195,12 +227,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 261711,
-      "num": 222473,
-      "word": "东北雨姐售卖的粉条检测结果已出",
-      "onboard_time": 1728541040,
-      "rank": 23,
-      "category": "网红"
+      "raw_hot": 242691,
+      "num": 242691,
+      "word": "苗疆陈朵朵再回应露营哀牢山",
+      "onboard_time": 1728585733,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 237926,
@@ -211,12 +243,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 234776,
-      "num": 234776,
-      "word": "苗疆陈朵朵再回应露营哀牢山",
-      "onboard_time": 1728585733,
-      "rank": 24,
-      "category": "社会新闻"
+      "raw_hot": 221138,
+      "num": 221138,
+      "word": "王楚钦逆转太牛了",
+      "onboard_time": 1728602117,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 218267,
@@ -243,12 +275,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 208164,
+      "num": 304640,
+      "word": "车主回应215万买到漏水迈巴赫",
+      "onboard_time": 1728601936,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 199564,
       "num": 199564,
       "word": "王楚钦3比0拿下首盘",
       "onboard_time": 1728576921,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 196299,
+      "num": 196299,
+      "word": "存了三个月朋友圈一次性发出后",
+      "onboard_time": 1728603137,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 195362,
@@ -289,6 +337,14 @@
       "onboard_time": 1728573021,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 171075,
+      "num": 171075,
+      "word": "重阳节",
+      "onboard_time": 1728603017,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 170695,
@@ -372,11 +428,19 @@
     },
     {
       "raw_hot": 138401,
-      "num": 138401,
+      "num": 155970,
       "word": "于适被赠予德艺传承丹卷",
       "onboard_time": 1728576861,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 136793,
+      "num": 271122,
+      "word": "张晚意一次走通两种赛道",
+      "onboard_time": 1728571281,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 136067,
@@ -387,12 +451,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 126605,
-      "num": 187892,
-      "word": "张晚意一次走通两种赛道",
-      "onboard_time": 1728571281,
-      "rank": 47,
-      "category": "剧集"
+      "raw_hot": 133631,
+      "num": 133631,
+      "word": "孩子得精神病是在替家庭生病吗",
+      "onboard_time": 1728582314,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 120870,
@@ -451,14 +515,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 109879,
-      "num": 109879,
-      "word": "孩子得精神病是在替家庭生病吗",
-      "onboard_time": 1728582314,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 107905,
       "num": 107905,
       "word": "TES晋级S14八强",
@@ -472,6 +528,14 @@
       "word": "哀牢山发出的警告得听",
       "onboard_time": 1728594551,
       "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 107744,
+      "num": 107744,
+      "word": "研究院回应研究员有多个博士学位",
+      "onboard_time": 1728587532,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -491,28 +555,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 88385,
-      "num": 88385,
-      "word": "研究院回应研究员有多个博士学位",
-      "onboard_time": 1728587532,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 88042,
       "num": 88042,
       "word": "对抗抑郁最好的运动方式",
       "onboard_time": 1728594071,
       "rank": 47,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 82806,
-      "num": 82806,
-      "word": "王楚钦逆转太牛了",
-      "onboard_time": 1728602117,
-      "rank": 37,
-      "category": "体育"
     },
     {
       "raw_hot": 80500,
@@ -555,11 +603,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 64466,
-      "num": 64466,
+      "raw_hot": 70149,
+      "num": 70149,
       "word": "王楚钦决赛拿两分",
       "onboard_time": 1728602236,
       "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 70052,
+      "num": 70052,
+      "word": "王楚钦林昀儒神仙对拉",
+      "onboard_time": 1728601636,
+      "rank": 46,
       "category": "体育"
     },
     {
@@ -587,14 +643,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 53348,
-      "num": 64443,
-      "word": "王楚钦林昀儒神仙对拉",
-      "onboard_time": 1728601636,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
       "raw_hot": 47235,
       "num": 47235,
       "word": "第五人格",
@@ -608,14 +656,6 @@
       "word": "见过放羊的没见过放狼的",
       "onboard_time": 1728594971,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 36925,
-      "num": 304640,
-      "word": "车主回应215万买到漏水迈巴赫",
-      "onboard_time": 1728601936,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -641,6 +681,14 @@
       "onboard_time": 1728582792,
       "rank": 49,
       "category": "演出,体育"
+    },
+    {
+      "raw_hot": 27545,
+      "num": 305011,
+      "word": "为中国航天点赞",
+      "onboard_time": 1728600975,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 22269,
@@ -699,6 +747,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 15737,
+      "num": 923401,
+      "word": "候鸟环球迁徙记",
+      "onboard_time": 1728565160,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 15398,
       "num": 24145,
       "word": "12岁男孩离世捐献器官助5人新生",
@@ -713,14 +769,6 @@
       "onboard_time": 1728585492,
       "rank": 26,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 13759,
-      "num": 822650,
-      "word": "候鸟环球迁徙记",
-      "onboard_time": 1728565160,
-      "rank": 2,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
