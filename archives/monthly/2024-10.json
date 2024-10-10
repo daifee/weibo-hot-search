@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1728524486758,
+  "endTime": 1728525531398,
   "band_list": [
     {
       "raw_hot": 12210422,
@@ -467,6 +467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1782106,
+      "num": 1782106,
+      "word": "股市",
+      "onboard_time": 1728347481,
+      "rank": 1,
+      "category": "财经"
+    },
+    {
       "raw_hot": 1761489,
       "num": 1015351,
       "word": "女生打顺风车已满座司机仍接单",
@@ -481,6 +489,14 @@
       "onboard_time": 1728205759,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1758066,
+      "num": 1758066,
+      "word": "戴LV丝巾受访的女局长被查",
+      "onboard_time": 1728493336,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1751970,
@@ -513,14 +529,6 @@
       "onboard_time": 1728302902,
       "rank": 10,
       "category": "演出"
-    },
-    {
-      "raw_hot": 1710130,
-      "num": 1710130,
-      "word": "戴LV丝巾受访的女局长被查",
-      "onboard_time": 1728493336,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1692862,
@@ -1363,14 +1371,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 1069679,
-      "num": 1069679,
-      "word": "股市",
-      "onboard_time": 1728347481,
-      "rank": 1,
-      "category": "财经"
-    },
-    {
       "raw_hot": 1069438,
       "num": 367795,
       "word": "谁在县城买几千万的豪宅",
@@ -1681,6 +1681,14 @@
       "onboard_time": 1727711179,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1013741,
+      "num": 1013741,
+      "word": "孙颖莎不到三个月时间里打了29场比赛",
+      "onboard_time": 1728522438,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 1010561,
@@ -2211,6 +2219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 853137,
+      "num": 853137,
+      "word": "央行",
+      "onboard_time": 1728522678,
+      "rank": 5,
+      "category": "财经"
+    },
+    {
       "raw_hot": 848222,
       "num": 1135715,
       "word": "孙颖莎vs刘炜珊",
@@ -2481,14 +2497,6 @@
       "onboard_time": 1727922496,
       "rank": 3,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 782812,
-      "num": 782812,
-      "word": "孙颖莎不到三个月时间里打了29场比赛",
-      "onboard_time": 1728522438,
-      "rank": 3,
-      "category": "体育"
     },
     {
       "raw_hot": 779528,
@@ -4073,14 +4081,6 @@
       "onboard_time": 1727959279,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 566269,
-      "num": 566269,
-      "word": "央行",
-      "onboard_time": 1728522678,
-      "rank": 5,
-      "category": "财经"
     },
     {
       "raw_hot": 565878,
@@ -7243,6 +7243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 324743,
+      "num": 324743,
+      "word": "特斯拉将请求中国等批准FSD监督版",
+      "onboard_time": 1728524057,
+      "rank": 27,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 324603,
       "num": 324603,
       "word": "美国特工掀起大规模离职潮",
@@ -8555,6 +8563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 276350,
+      "num": 276350,
+      "word": "缺觉4天引发全身炎症风暴",
+      "onboard_time": 1728525017,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 276199,
       "num": 276199,
       "word": "A股究竟是一波流还是牛市起点",
@@ -8764,7 +8780,7 @@
     },
     {
       "raw_hot": 270658,
-      "num": 270658,
+      "num": 277067,
       "word": "四川宜宾4.5级地震",
       "onboard_time": 1728515296,
       "rank": 6,
@@ -10227,6 +10243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 230347,
+      "num": 230347,
+      "word": "1岁女童土方退烧双手双脚扎满针眼",
+      "onboard_time": 1728516917,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 230252,
       "num": 230252,
       "word": "中国记者徐德智战绩可查",
@@ -10817,6 +10841,14 @@
       "onboard_time": 1728225020,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 218465,
+      "num": 218465,
+      "word": "小猫 总有一种不详的感觉",
+      "onboard_time": 1728523578,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 218440,
@@ -11897,6 +11929,14 @@
       "onboard_time": 1728369441,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 201039,
+      "num": 559667,
+      "word": "文化中国行看重阳之美",
+      "onboard_time": 1728523698,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 201018,
@@ -13227,14 +13267,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 187278,
-      "num": 559667,
-      "word": "文化中国行看重阳之美",
-      "onboard_time": 1728523698,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 186959,
       "num": 186959,
       "word": "用别样的方式打开人民路",
@@ -13723,14 +13755,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 180928,
-      "num": 180928,
-      "word": "特斯拉将请求中国等批准FSD监督版",
-      "onboard_time": 1728524057,
-      "rank": 27,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 180805,
       "num": 180805,
       "word": "股市大起落新股民称心情像坐过山车",
@@ -13884,7 +13908,7 @@
     },
     {
       "raw_hot": 179011,
-      "num": 273483,
+      "num": 276537,
       "word": "TVB有自己的御用床宝",
       "onboard_time": 1728523458,
       "rank": 19,
@@ -14275,14 +14299,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 174326,
-      "num": 174326,
-      "word": "1岁女童土方退烧双手双脚扎满针眼",
-      "onboard_time": 1728516917,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 174324,
       "num": 174324,
       "word": "eStar战胜TES",
@@ -14377,6 +14393,14 @@
       "onboard_time": 1728439939,
       "rank": 39,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 173261,
+      "num": 173261,
+      "word": "世界精神卫生日",
+      "onboard_time": 1728525379,
+      "rank": 34,
+      "category": "社会新闻,健康医疗"
     },
     {
       "raw_hot": 173168,
@@ -14699,6 +14723,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 169591,
+      "num": 184363,
+      "word": "韩国政府每周进口200吨中国大白菜",
+      "onboard_time": 1728524597,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 169375,
       "num": 169375,
       "word": "车车车车高速车车车车",
@@ -14881,6 +14913,14 @@
       "onboard_time": 1728033198,
       "rank": 32,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 167472,
+      "num": 167472,
+      "word": "小时候翻到地石榴是一件了不起的事",
+      "onboard_time": 1728525017,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 167466,
@@ -16243,6 +16283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 153188,
+      "num": 153188,
+      "word": "人生的意义就是体验",
+      "onboard_time": 1728525078,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 153170,
       "num": 245330,
       "word": "749局2024国庆档预售票房冠军",
@@ -16569,6 +16617,14 @@
       "onboard_time": 1728228918,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 150480,
+      "num": 150480,
+      "word": "特斯拉无人出租车曝光",
+      "onboard_time": 1728524057,
+      "rank": 41,
+      "category": "汽车"
     },
     {
       "raw_hot": 150429,
@@ -16923,14 +16979,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 146757,
-      "num": 146757,
-      "word": "小猫 总有一种不详的感觉",
-      "onboard_time": 1728523578,
-      "rank": 33,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 146731,
       "num": 146731,
       "word": "周深演唱会",
@@ -17257,6 +17305,14 @@
       "onboard_time": 1728359300,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 143762,
+      "num": 143762,
+      "word": "氢氟酸沾了小半个手指就有严重后果",
+      "onboard_time": 1728525140,
+      "rank": 42,
+      "category": "科学科普"
     },
     {
       "raw_hot": 143727,
@@ -19067,6 +19123,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 128534,
+      "num": 128534,
+      "word": "最高法披露AI生成他人声音侵权案例",
+      "onboard_time": 1728525499,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 128440,
       "num": 128440,
       "word": "尚雯婕粉丝也是军训上了",
@@ -19459,6 +19523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 125361,
+      "num": 125361,
+      "word": "任天堂闹钟Alarmo",
+      "onboard_time": 1728524238,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 125313,
       "num": 125313,
       "word": "观众说朱一龙身上有妈生正气",
@@ -19649,6 +19721,14 @@
       "onboard_time": 1727969959,
       "rank": 33,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 122933,
+      "num": 200459,
+      "word": "李沁重生之我在各个年代当医生",
+      "onboard_time": 1728525140,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 122900,
@@ -20827,14 +20907,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 112061,
-      "num": 112061,
-      "word": "特斯拉无人出租车曝光",
-      "onboard_time": 1728524057,
-      "rank": 41,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 112028,
       "num": 296155,
       "word": "浴火之路二刷",
@@ -21393,14 +21465,6 @@
       "onboard_time": 1727953218,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 107322,
-      "num": 107322,
-      "word": "任天堂闹钟Alarmo",
-      "onboard_time": 1728524238,
-      "rank": 43,
-      "category": "游戏"
     },
     {
       "raw_hot": 107317,
@@ -23889,6 +23953,14 @@
       "onboard_time": 1727706562,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 75772,
+      "num": 200112,
+      "word": "国泰君安海通证券双双涨停",
+      "onboard_time": 1728525017,
+      "rank": 29,
+      "category": "财经"
     },
     {
       "raw_hot": 75674,
