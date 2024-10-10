@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/10/10 19:19:47
+本榜单时间：2024/01/01 00:21:05 ~ 2024/10/10 19:35:23
 </p>
 </blockquote>
 <p>
@@ -509,6 +509,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E4%B8%80%E5%8D%95%23" target="weibo">
 孙颖莎一单（热度：13033333）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E9%80%80%E5%87%BA%E4%BA%9A%E9%94%A6%E8%B5%9B%23" target="weibo">
+孙颖莎退出亚锦赛（热度：13027302）
 </a>
 </li>
 
@@ -1805,12 +1811,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6vs%E6%B1%AA%E6%B4%8B%23" target="weibo">
 王楚钦vs汪洋（热度：7647185）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%B6%B3%E6%99%8B%E7%BA%A718%E5%BC%BA%E8%B5%9B%23" target="weibo">
-国足晋级18强赛（热度：7628595）
 </a>
 </li>
 

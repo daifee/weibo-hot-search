@@ -1,10 +1,10 @@
 {
   "startTime": 1728491244792,
-  "endTime": 1728559187240,
+  "endTime": 1728560123191,
   "band_list": [
     {
-      "raw_hot": 5532337,
-      "num": 5532337,
+      "raw_hot": 13027302,
+      "num": 13027302,
       "word": "孙颖莎退出亚锦赛",
       "onboard_time": 1728558680,
       "rank": 0,
@@ -113,6 +113,14 @@
       "onboard_time": 1728529579,
       "rank": 1,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1700091,
+      "num": 1700091,
+      "word": "国足1比3澳大利亚",
+      "onboard_time": 1728552979,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 1681559,
@@ -241,6 +249,14 @@
       "onboard_time": 1728536899,
       "rank": 21,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1114891,
+      "num": 585398,
+      "word": "韩国作家韩江获2024年诺贝尔文学奖",
+      "onboard_time": 1728558981,
+      "rank": 23,
+      "category": "读书作家"
     },
     {
       "raw_hot": 1067664,
@@ -372,7 +388,7 @@
     },
     {
       "raw_hot": 840459,
-      "num": 584658,
+      "num": 585121,
       "word": "贵女 恐怖氛围",
       "onboard_time": 1728553698,
       "rank": 9,
@@ -467,14 +483,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 647722,
-      "num": 647722,
-      "word": "国足1比3澳大利亚",
-      "onboard_time": 1728552979,
-      "rank": 5,
-      "category": "体育"
-    },
-    {
       "raw_hot": 637842,
       "num": 637842,
       "word": "国乒男团亚锦赛晋级决赛",
@@ -563,6 +571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 563843,
+      "num": 563843,
+      "word": "樊振东陈奕迅对打网球",
+      "onboard_time": 1728558200,
+      "rank": 26,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 553308,
       "num": 553308,
       "word": "跑步入场的00后3天赚了3万",
@@ -601,14 +617,6 @@
       "onboard_time": 1728514815,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 514293,
-      "num": 514293,
-      "word": "韩国作家韩江获2024年诺贝尔文学奖",
-      "onboard_time": 1728558981,
-      "rank": 23,
-      "category": "读书作家"
     },
     {
       "raw_hot": 513853,
@@ -651,6 +659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 483644,
+      "num": 483644,
+      "word": "鄂LD06335死死顶住失控车辆",
+      "onboard_time": 1728559342,
+      "rank": 16,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 474653,
       "num": 474653,
       "word": "国足领先澳大利亚",
@@ -675,6 +691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 455680,
+      "num": 588022,
+      "word": "国足18强赛三连败",
+      "onboard_time": 1728559042,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 453167,
       "num": 608393,
       "word": "贵女",
@@ -689,6 +713,14 @@
       "onboard_time": 1728548600,
       "rank": 16,
       "category": "电影"
+    },
+    {
+      "raw_hot": 446398,
+      "num": 446398,
+      "word": "韩江",
+      "onboard_time": 1728559342,
+      "rank": 22,
+      "category": "读书作家"
     },
     {
       "raw_hot": 441914,
@@ -883,20 +915,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 361434,
+      "num": 361434,
+      "word": "央视依然不转播国足比赛",
+      "onboard_time": 1728558922,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 357881,
       "num": 711667,
       "word": "Hanni决定出席国会监查",
       "onboard_time": 1728527598,
       "rank": 8,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 351677,
-      "num": 351677,
-      "word": "樊振东陈奕迅对打网球",
-      "onboard_time": 1728558200,
-      "rank": 26,
-      "category": "体育,艺人"
     },
     {
       "raw_hot": 351320,
@@ -1035,6 +1067,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 283091,
+      "num": 604619,
+      "word": "央行原副行长范一飞被判处死缓",
+      "onboard_time": 1728554659,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 277329,
       "num": 277329,
       "word": "赵露思给粉丝补偿礼物",
@@ -1171,14 +1211,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 256847,
-      "num": 604619,
-      "word": "央行原副行长范一飞被判处死缓",
-      "onboard_time": 1728554659,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 252732,
       "num": 252732,
       "word": "向佐手势 周星驰",
@@ -1297,6 +1329,14 @@
       "onboard_time": 1728517457,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 223270,
+      "num": 223270,
+      "word": "张馨予玄学灵验",
+      "onboard_time": 1728559522,
+      "rank": 33,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 220920,
@@ -1481,14 +1521,6 @@
       "onboard_time": 1728534622,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 196013,
-      "num": 196013,
-      "word": "央视依然不转播国足比赛",
-      "onboard_time": 1728558922,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 189714,
@@ -1699,6 +1731,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 164915,
+      "num": 288406,
+      "word": "芒果男艺人在街头发传单",
+      "onboard_time": 1728559581,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 163837,
       "num": 265164,
       "word": "辛巴直播解封",
@@ -1723,8 +1763,16 @@
       "category": "财经"
     },
     {
+      "raw_hot": 161530,
+      "num": 161530,
+      "word": "狼队对战EDGM",
+      "onboard_time": 1728559941,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 161333,
-      "num": 212979,
+      "num": 220668,
       "word": "赵露思中法环境月宣传大使",
       "onboard_time": 1728556640,
       "rank": 32,
@@ -1875,6 +1923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 146787,
+      "num": 146787,
+      "word": "以后再也不说白菜价了",
+      "onboard_time": 1728559941,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 146659,
       "num": 146659,
       "word": "谢天谢地谢文能",
@@ -1945,6 +2001,14 @@
       "onboard_time": 1728558621,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 135218,
+      "num": 189699,
+      "word": "再见爱人4夫妻嘉宾官宣",
+      "onboard_time": 1728560002,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 132010,
@@ -2025,6 +2089,14 @@
       "onboard_time": 1728490218,
       "rank": 33,
       "category": "财经"
+    },
+    {
+      "raw_hot": 125614,
+      "num": 125614,
+      "word": "难怪狗子能睡单人沙发",
+      "onboard_time": 1728560062,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 125361,
@@ -2139,20 +2211,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 112367,
+      "num": 286604,
+      "word": "锦绣安宁",
+      "onboard_time": 1728557419,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 111335,
       "num": 111335,
       "word": "稍等您的外卖小哥在看杨紫",
       "onboard_time": 1728490819,
       "rank": 46,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 110565,
-      "num": 286604,
-      "word": "锦绣安宁",
-      "onboard_time": 1728557419,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 110228,
@@ -2355,6 +2427,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 87238,
+      "num": 286810,
+      "word": "TES对战DK",
+      "onboard_time": 1728559162,
+      "rank": 29,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 86608,
       "num": 86608,
       "word": "边伯贤翻唱BIGBANG谎言",
@@ -2435,6 +2515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 75400,
+      "num": 569036,
+      "word": "国足积0分小组垫底",
+      "onboard_time": 1728559042,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 72981,
       "num": 461365,
       "word": "贷款炒股行不行",
@@ -2456,6 +2544,14 @@
       "word": "林心如穿泳装",
       "onboard_time": 1728476059,
       "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 67631,
+      "num": 471893,
+      "word": "王俊凯唱生日歌祝福老艺术家们",
+      "onboard_time": 1728559401,
+      "rank": 18,
       "category": "艺人"
     },
     {
@@ -2835,14 +2931,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 12810,
-      "num": 588022,
-      "word": "国足18强赛三连败",
-      "onboard_time": 1728559042,
-      "rank": 14,
-      "category": "体育"
-    },
-    {
       "raw_hot": 12596,
       "num": 307486,
       "word": "谢文能破门",
@@ -2864,22 +2952,6 @@
       "word": "国足vs澳大利亚23人名单",
       "onboard_time": 1728529337,
       "rank": 29,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 8523,
-      "num": 282898,
-      "word": "TES对战DK",
-      "onboard_time": 1728559162,
-      "rank": 29,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 7993,
-      "num": 569036,
-      "word": "国足积0分小组垫底",
-      "onboard_time": 1728559042,
-      "rank": 19,
       "category": "体育"
     },
     {
