@@ -1,6 +1,6 @@
 {
   "startTime": 1728145573126,
-  "endTime": 1728618109311,
+  "endTime": 1728620811626,
   "band_list": [
     {
       "raw_hot": 13027302,
@@ -179,6 +179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2647728,
+      "num": 2647728,
+      "word": "余华英卖的第1个孩子是自己儿子",
+      "onboard_time": 1728617119,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2611856,
       "num": 2611856,
       "word": "朝鲜宣布完全切断与韩国连接铁路公路",
@@ -241,6 +249,14 @@
       "onboard_time": 1728218785,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 2372605,
+      "num": 2372605,
+      "word": "特斯拉发布会",
+      "onboard_time": 1728612859,
+      "rank": 0,
+      "category": "汽车"
     },
     {
       "raw_hot": 2293650,
@@ -425,14 +441,6 @@
       "onboard_time": 1728294023,
       "rank": 0,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1826394,
-      "num": 1826394,
-      "word": "特斯拉发布会",
-      "onboard_time": 1728612859,
-      "rank": 0,
-      "category": "汽车"
     },
     {
       "raw_hot": 1782106,
@@ -1259,6 +1267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1025665,
+      "num": 914136,
+      "word": "听泉鉴宝",
+      "onboard_time": 1728607400,
+      "rank": 7,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1024788,
       "num": 640643,
       "word": "梁伟铿 再不起来吃就冷了",
@@ -1321,14 +1337,6 @@
       "onboard_time": 1728210199,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1016276,
-      "num": 914136,
-      "word": "听泉鉴宝",
-      "onboard_time": 1728607400,
-      "rank": 7,
-      "category": "网红"
     },
     {
       "raw_hot": 1016026,
@@ -2361,14 +2369,6 @@
       "onboard_time": 1728275119,
       "rank": 30,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 676468,
-      "num": 676468,
-      "word": "余华英卖的第1个孩子是自己儿子",
-      "onboard_time": 1728617119,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 675546,
@@ -3483,6 +3483,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 471828,
+      "num": 471828,
+      "word": "王皓谈做樊振东教练的感受",
+      "onboard_time": 1728615799,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 471720,
       "num": 471720,
       "word": "印度女团3比2韩国",
@@ -3563,6 +3571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 463437,
+      "num": 463437,
+      "word": "中方要求调查追责以军袭击联黎部队阵地",
+      "onboard_time": 1728618379,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 463049,
       "num": 379857,
       "word": "张馨予玄学灵验",
@@ -3617,14 +3633,6 @@
       "onboard_time": 1728367520,
       "rank": 15,
       "category": "网红"
-    },
-    {
-      "raw_hot": 457522,
-      "num": 390260,
-      "word": "王皓谈做樊振东教练的感受",
-      "onboard_time": 1728615799,
-      "rank": 21,
-      "category": "体育"
     },
     {
       "raw_hot": 456274,
@@ -4275,6 +4283,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 383778,
+      "num": 383778,
+      "word": "投喂浣熊35年后自家被百余只包围",
+      "onboard_time": 1728618318,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 382821,
       "num": 452920,
       "word": "国庆假期国内出游7.65亿人次",
@@ -4819,6 +4835,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 342126,
+      "num": 269639,
+      "word": "女生胳膊长巨型疖肿到医院切开",
+      "onboard_time": 1728617360,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 340933,
       "num": 573127,
       "word": "再见爱人 李行亮麦琳",
@@ -5000,6 +5024,14 @@
       "word": "杨紫王俊凯 明学优秀毕业生",
       "onboard_time": 1728560123,
       "rank": 19,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 327531,
+      "num": 398728,
+      "word": "央视重阳晚会阵容官宣",
+      "onboard_time": 1728618678,
+      "rank": 7,
       "category": "综艺"
     },
     {
@@ -6075,6 +6107,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 266763,
+      "num": 266763,
+      "word": "特斯拉人形机器人",
+      "onboard_time": 1728619039,
+      "rank": 21,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 265444,
       "num": 265444,
       "word": "黄子韬公司艺人泰创面试",
@@ -6515,6 +6555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 246699,
+      "num": 203609,
+      "word": "买基金亏170万起诉银行获赔159万",
+      "onboard_time": 1728620720,
+      "rank": 30,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 245650,
       "num": 245650,
       "word": "TES对战FNC",
@@ -6761,14 +6809,6 @@
       "onboard_time": 1728135019,
       "rank": 22,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 236221,
-      "num": 236221,
-      "word": "女生胳膊长巨型疖肿到医院切开",
-      "onboard_time": 1728617360,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 236093,
@@ -7113,6 +7153,14 @@
       "onboard_time": 1728375741,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 223331,
+      "num": 223331,
+      "word": "kimi崩了",
+      "onboard_time": 1728619519,
+      "rank": 24,
+      "category": "互联网"
     },
     {
       "raw_hot": 222536,
@@ -7771,6 +7819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 206055,
+      "num": 206055,
+      "word": "SM说RIIZE7名成员更有意义",
+      "onboard_time": 1728620360,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 205908,
       "num": 205908,
       "word": "杀妻案嫌疑人儿子说不想父亲死",
@@ -7905,6 +7961,14 @@
       "onboard_time": 1728463700,
       "rank": 37,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 203432,
+      "num": 203432,
+      "word": "A股三市下跌个股近4700只",
+      "onboard_time": 1728620240,
+      "rank": 31,
+      "category": "财经"
     },
     {
       "raw_hot": 203419,
@@ -8097,6 +8161,14 @@
       "onboard_time": 1728381500,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 199995,
+      "num": 206044,
+      "word": "喜剧之王单口季",
+      "onboard_time": 1728619998,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 199564,
@@ -8355,6 +8427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 194133,
+      "num": 272803,
+      "word": "曾舜晞 怎么不看看我",
+      "onboard_time": 1728619879,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 193989,
       "num": 193989,
       "word": "Melody胜诉",
@@ -8539,6 +8619,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 190912,
+      "num": 204499,
+      "word": "凤凰传奇咸阳抢票",
+      "onboard_time": 1728620180,
+      "rank": 29,
+      "category": "演出"
+    },
+    {
       "raw_hot": 190589,
       "num": 190589,
       "word": "张远直播",
@@ -8561,6 +8649,14 @@
       "onboard_time": 1728481520,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 190124,
+      "num": 190124,
+      "word": "第一批炒股赚钱的人开始买黄金古玩",
+      "onboard_time": 1728618318,
+      "rank": 35,
+      "category": "财经"
     },
     {
       "raw_hot": 189865,
@@ -9003,6 +9099,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 181117,
+      "num": 181117,
+      "word": "恋与深空第二批",
+      "onboard_time": 1728620541,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 180805,
       "num": 180805,
       "word": "股市大起落新股民称心情像坐过山车",
@@ -9265,6 +9369,14 @@
       "onboard_time": 1728550998,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 175500,
+      "num": 175500,
+      "word": "摩羯真的太容易陷入内耗了",
+      "onboard_time": 1728619819,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 175388,
@@ -9827,6 +9939,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 165513,
+      "num": 165513,
+      "word": "黄子弘凡专辑链接",
+      "onboard_time": 1728619398,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 165281,
       "num": 325042,
       "word": "花一个月工资在海上漂一周值吗",
@@ -10035,6 +10155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 161333,
+      "num": 161333,
+      "word": "宝妈第一次蒸馒头意外收获蘑菇",
+      "onboard_time": 1728620420,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 161149,
       "num": 319473,
       "word": "女骑手女司机越来越多了",
@@ -10185,6 +10313,14 @@
       "onboard_time": 1728378801,
       "rank": 43,
       "category": "财经"
+    },
+    {
+      "raw_hot": 159334,
+      "num": 159334,
+      "word": "369喊话T1",
+      "onboard_time": 1728620120,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 159093,
@@ -10739,6 +10875,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 151653,
+      "num": 151653,
+      "word": "人贩子名字她从5岁记到30多岁",
+      "onboard_time": 1728620780,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 151548,
       "num": 151548,
       "word": "马龙下个赛场见",
@@ -11281,6 +11425,14 @@
       "onboard_time": 1728477799,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 143642,
+      "num": 143642,
+      "word": "特斯拉推出Robovan货运车",
+      "onboard_time": 1728619879,
+      "rank": 49,
+      "category": "汽车"
     },
     {
       "raw_hot": 143553,
@@ -15107,6 +15259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 49165,
+      "num": 204962,
+      "word": "小鹏P7+实现前后排二郎腿自由",
+      "onboard_time": 1728617779,
+      "rank": 39,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 48987,
       "num": 461169,
       "word": "倪妮哭戏的感染力",
@@ -15177,6 +15337,14 @@
       "onboard_time": 1728305242,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 47402,
+      "num": 354323,
+      "word": "刘亦菲说给自己买保险很有想法",
+      "onboard_time": 1728617839,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 47160,
@@ -15449,6 +15617,14 @@
       "onboard_time": 1728320115,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 40165,
+      "num": 1381941,
+      "word": "愿时光不老岁月静好",
+      "onboard_time": 1728618919,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 39747,
@@ -16059,14 +16235,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 30087,
-      "num": 187287,
-      "word": "刘亦菲说给自己买保险很有想法",
-      "onboard_time": 1728617839,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 29999,
       "num": 210539,
       "word": "节前7日重磅经济政策回顾",
@@ -16177,14 +16345,6 @@
       "onboard_time": 1728600975,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 27379,
-      "num": 191675,
-      "word": "小鹏P7+实现前后排二郎腿自由",
-      "onboard_time": 1728617779,
-      "rank": 39,
-      "category": "汽车"
     },
     {
       "raw_hot": 26986,
@@ -16947,6 +17107,9 @@
     },
     {
       "word": "#习近平向全国的老年人致以诚挚问候#"
+    },
+    {
+      "word": "#要把尊老敬老作为一种社会风尚#"
     }
   ]
 }
