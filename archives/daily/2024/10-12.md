@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/10/12 00:27:47 ~ 2024/10/12 07:21:18
+本榜单时间：2024/10/12 00:27:47 ~ 2024/10/12 07:35:34
 </p>
 </blockquote>
 <p>
@@ -21,8 +21,14 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E5%85%8D%E8%B4%B9%E6%B3%A8%E5%B0%84%E5%B9%B2%E7%BB%86%E8%83%9E%E9%AA%97%E5%B1%80%23" target="weibo">
+央视曝光免费注射干细胞骗局（热度：865299）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%98%E9%B9%8F%E7%A7%B0%E7%8E%B0%E5%9C%A8%E5%AF%B9%E4%BA%8E%E5%B1%85%E6%B0%91%E9%83%A8%E9%97%A8%E5%B0%B1%E5%B9%B2%E4%B8%89%E4%BB%B6%E4%BA%8B%23" target="weibo">
-付鹏称现在对于居民部门就干三件事（热度：736782）
+付鹏称现在对于居民部门就干三件事（热度：744484）
 </a>
 </li>
 
@@ -33,8 +39,14 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E5%85%8D%E8%B4%B9%E6%B3%A8%E5%B0%84%E5%B9%B2%E7%BB%86%E8%83%9E%E9%AA%97%E5%B1%80%23" target="weibo">
-央视曝光免费注射干细胞骗局（热度：625299）
+<a href="https://s.weibo.com/weibo?q=%23%E6%AA%80%E5%81%A5%E6%AC%A1%E7%BB%8F%E7%BA%AA%E4%BA%BA%23" target="weibo">
+檀健次经纪人（热度：625400）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E8%AF%B4%E8%BE%93%E7%BB%99%E8%B4%B9%E5%BE%B7%E5%8B%92%E4%B8%8D%E4%B8%A2%E4%BA%BA%23" target="weibo">
+樊振东说输给费德勒不丢人（热度：583418）
 </a>
 </li>
 
@@ -57,12 +69,6 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E8%AF%B4%E8%BE%93%E7%BB%99%E8%B4%B9%E5%BE%B7%E5%8B%92%E4%B8%8D%E4%B8%A2%E4%BA%BA%23" target="weibo">
-樊振东说输给费德勒不丢人（热度：509170）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%80%83%E5%85%AC%E7%9A%84%E5%B0%BD%E5%A4%B4%E5%88%B0%E5%BA%95%E6%98%AF%E4%BB%80%E4%B9%88%23" target="weibo">
 考公的尽头到底是什么（热度：472611）
 </a>
@@ -76,7 +82,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%99%E5%8D%8E%E8%8B%B1%E5%B0%86%E7%BD%AA%E8%B4%A3%E9%83%BD%E6%8E%A8%E5%88%B0%E4%B8%88%E5%A4%AB%E5%92%8C%E6%83%85%E5%A4%AB%E8%BA%AB%E4%B8%8A%23" target="weibo">
-余华英将罪责都推到丈夫和情夫身上（热度：362630）
+余华英将罪责都推到丈夫和情夫身上（热度：364868）
 </a>
 </li>
 
@@ -129,6 +135,12 @@ BLG战胜PSG（热度：262456）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23102%E5%B2%81%E5%A5%B6%E5%A5%B6%E7%BD%91%E9%BE%8410%E5%B9%B4%E7%8E%A9%E6%89%8B%E6%9C%BA%E5%BE%97%E5%BF%83%E5%BA%94%E6%89%8B%23" target="weibo">
+102岁奶奶网龄10年玩手机得心应手（热度：238195）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%A2%A6%E7%AD%BE%E7%BA%A6%E4%B9%90%E5%8D%8E%E5%A8%B1%E4%B9%90%23" target="weibo">
 李梦签约乐华娱乐（热度：235119）
 </a>
@@ -159,14 +171,14 @@ ON在干嘛（热度：204413）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%234%E5%8D%9A%E5%A3%AB2%E5%8D%9A%E5%A3%AB%E5%90%8E%E7%9A%84%E6%B5%AE%E5%A4%B8%E5%AD%A6%E5%8E%86%E6%80%8E%E4%B9%88%E8%AF%9E%E7%94%9F%E7%9A%84%23" target="weibo">
-4博士2博士后的浮夸学历怎么诞生的（热度：186097）
+<a href="https://s.weibo.com/weibo?q=%23%E4%BD%99%E5%8D%8E%E8%8B%B1%E7%94%A8%E4%B8%80%E6%A0%B9%E5%86%B0%E6%A3%92%E9%AA%97%E8%B5%B05%E5%B2%81%E7%94%B7%E5%AD%A9%23" target="weibo">
+余华英用一根冰棒骗走5岁男孩（热度：191058）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BD%99%E5%8D%8E%E8%8B%B1%E7%94%A8%E4%B8%80%E6%A0%B9%E5%86%B0%E6%A3%92%E9%AA%97%E8%B5%B05%E5%B2%81%E7%94%B7%E5%AD%A9%23" target="weibo">
-余华英用一根冰棒骗走5岁男孩（热度：180621）
+<a href="https://s.weibo.com/weibo?q=%234%E5%8D%9A%E5%A3%AB2%E5%8D%9A%E5%A3%AB%E5%90%8E%E7%9A%84%E6%B5%AE%E5%A4%B8%E5%AD%A6%E5%8E%86%E6%80%8E%E4%B9%88%E8%AF%9E%E7%94%9F%E7%9A%84%23" target="weibo">
+4博士2博士后的浮夸学历怎么诞生的（热度：186097）
 </a>
 </li>
 
@@ -195,14 +207,32 @@ ON在干嘛（热度：204413）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BB%88%E4%BA%8E%E7%9F%A5%E9%81%93%E5%90%91%E4%BD%90%E5%9C%A8%E6%A8%A1%E4%BB%BF%E8%B0%81%E4%BA%86%23" target="weibo">
+终于知道向佐在模仿谁了（热度：161118）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8A%AD%E8%8E%8E%E7%94%B7%E5%A3%AB%E4%B8%BB%E7%BC%96%E5%96%8A%E8%AF%9D%E6%AA%80%E5%81%A5%E6%AC%A1%23" target="weibo">
+芭莎男士主编喊话檀健次（热度：159235）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8C%BB%E9%99%A2%E7%A7%B0%E5%8C%BB%E7%94%9F%E7%B4%A2%E8%A6%813000%E5%85%83%E4%B8%93%E5%AE%B6%E8%B4%B9%E6%98%AF%E8%AF%AF%E4%BC%9A%23" target="weibo">
 医院称医生索要3000元专家费是误会（热度：158709）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23102%E5%B2%81%E5%A5%B6%E5%A5%B6%E7%BD%91%E9%BE%8410%E5%B9%B4%E7%8E%A9%E6%89%8B%E6%9C%BA%E5%BE%97%E5%BF%83%E5%BA%94%E6%89%8B%23" target="weibo">
-102岁奶奶网龄10年玩手机得心应手（热度：154236）
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%AB%E5%A6%BB%E8%B0%83%E7%9B%91%E6%8E%A7%E6%89%BE%E5%A9%9A%E6%88%92%E5%8F%91%E7%8E%B0%E8%A2%AB%E9%85%92%E5%BA%97%E5%91%98%E5%B7%A5%E5%81%B7%E7%AA%A5%23" target="weibo">
+夫妻调监控找婚戒发现被酒店员工偷窥（热度：155308）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%81%94%E9%BB%8E%E9%83%A8%E9%98%9F%E6%89%B9%E4%BB%A5%E8%89%B2%E5%88%97%E4%B8%A5%E9%87%8D%E8%BF%9D%E5%8F%8D%E5%9B%BD%E9%99%85%E6%B3%95%23" target="weibo">
+联黎部队批以色列严重违反国际法（热度：145265）
 </a>
 </li>
 
@@ -213,26 +243,14 @@ ON在干嘛（热度：204413）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%AB%E5%A6%BB%E8%B0%83%E7%9B%91%E6%8E%A7%E6%89%BE%E5%A9%9A%E6%88%92%E5%8F%91%E7%8E%B0%E8%A2%AB%E9%85%92%E5%BA%97%E5%91%98%E5%B7%A5%E5%81%B7%E7%AA%A5%23" target="weibo">
-夫妻调监控找婚戒发现被酒店员工偷窥（热度：143114）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AB%A0%E6%B3%BD%E5%A4%A9%E9%80%A0%E5%9E%8B%E5%B8%88%E5%9B%9E%E5%BA%94%E8%83%B8%E9%92%88%E4%BC%A0%E8%A8%80%23" target="weibo">
-章泽天造型师回应胸针传言（热度：141580）
+章泽天造型师回应胸针传言（热度：144869）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BB%88%E4%BA%8E%E7%9F%A5%E9%81%93%E5%90%91%E4%BD%90%E5%9C%A8%E6%A8%A1%E4%BB%BF%E8%B0%81%E4%BA%86%23" target="weibo">
-终于知道向佐在模仿谁了（热度：131428）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AA%80%E5%81%A5%E6%AC%A1%E7%BB%8F%E7%BA%AA%E4%BA%BA%23" target="weibo">
-檀健次经纪人（热度：119807）
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%BC%E5%8A%A0%E6%8B%89%E7%93%9C%E5%AE%A3%E5%B8%83%E4%B8%8E%E4%BB%A5%E8%89%B2%E5%88%97%E6%96%AD%E4%BA%A4%23" target="weibo">
+尼加拉瓜宣布与以色列断交（热度：129498）
 </a>
 </li>
 
@@ -304,19 +322,13 @@ BLG对战PSG（热度：101392）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%8C%E6%88%BF%E4%B8%9C%E6%B6%A8%E7%A7%9F%E9%81%AD%E6%8B%92%E5%90%8E%E8%BF%9E%E5%A4%9C%E6%B8%85%E7%A9%BA%E5%BA%97%E9%93%BA%23" target="weibo">
-二房东涨租遭拒后连夜清空店铺（热度：97016）
+二房东涨租遭拒后连夜清空店铺（热度：98469）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%B7%A5%E4%BD%9C%E7%94%B5%E8%84%91%E8%97%8F64G%E8%89%B2%E6%83%85%E8%A7%86%E9%A2%91%E8%A2%AB%E5%BC%80%E9%99%A4%23" target="weibo">
 男子工作电脑藏64G色情视频被开除（热度：93643）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8A%AD%E8%8E%8E%E7%94%B7%E5%A3%AB%E4%B8%BB%E7%BC%96%E5%96%8A%E8%AF%9D%E6%AA%80%E5%81%A5%E6%AC%A1%23" target="weibo">
-芭莎男士主编喊话檀健次（热度：92698）
 </a>
 </li>
 
@@ -335,6 +347,12 @@ BLG对战PSG（热度：101392）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%B6%E5%85%89%E9%9F%B3%E4%B9%90%E4%BC%9A%23" target="weibo">
 时光音乐会（热度：85903）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%9C%8B%E6%A8%8A%E6%8C%AF%E4%B8%9C%E5%8F%91%E7%90%83%E7%9C%8B%E5%87%BA%E4%BA%86%E4%B8%89%E7%A7%8D%E7%90%83%E7%9A%84%E5%BD%B1%E5%AD%90%23" target="weibo">
+看樊振东发球看出了三种球的影子（热度：83919）
 </a>
 </li>
 
@@ -369,12 +387,6 @@ BLG对战PSG（热度：101392）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%9C%8B%E6%A8%8A%E6%8C%AF%E4%B8%9C%E5%8F%91%E7%90%83%E7%9C%8B%E5%87%BA%E4%BA%86%E4%B8%89%E7%A7%8D%E7%90%83%E7%9A%84%E5%BD%B1%E5%AD%90%23" target="weibo">
-看樊振东发球看出了三种球的影子（热度：75806）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BC%AF%E8%BF%9C%E5%9B%BD%E9%A3%8E%E5%94%B1%E8%B7%B3%E5%88%80%E5%89%91%E5%A6%82%E6%A2%A6%23" target="weibo">
 伯远国风唱跳刀剑如梦（热度：73434）
 </a>
@@ -393,14 +405,14 @@ BLG对战PSG（热度：101392）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%81%94%E9%BB%8E%E9%83%A8%E9%98%9F%E6%89%B9%E4%BB%A5%E8%89%B2%E5%88%97%E4%B8%A5%E9%87%8D%E8%BF%9D%E5%8F%8D%E5%9B%BD%E9%99%85%E6%B3%95%23" target="weibo">
-联黎部队批以色列严重违反国际法（热度：63498）
+<a href="https://s.weibo.com/weibo?q=%23%E7%88%B1%E5%AD%90%E7%A6%BB%E4%B8%96%E5%90%8E%E7%88%B6%E4%BA%B2%E5%8F%91%E7%8E%B0%E4%BA%86%E9%85%B7%E4%BC%BC%E4%BB%96%E7%9A%84%E8%AD%A6%E5%AF%9F%23" target="weibo">
+爱子离世后父亲发现了酷似他的警察（热度：58815）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%BC%E5%8A%A0%E6%8B%89%E7%93%9C%E5%AE%A3%E5%B8%83%E4%B8%8E%E4%BB%A5%E8%89%B2%E5%88%97%E6%96%AD%E4%BA%A4%23" target="weibo">
-尼加拉瓜宣布与以色列断交（热度：61281）
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%89%E6%AC%A1%E9%AB%98%E8%80%83%E5%A4%B1%E5%88%A9%E9%9D%A0%E5%89%AA%E7%BA%B8%E6%8B%BF%E4%B8%8B%E6%AD%A3%E6%95%99%E6%8E%88%23" target="weibo">
+三次高考失利靠剪纸拿下正教授（热度：58568）
 </a>
 </li>
 
@@ -447,6 +459,12 @@ Jennie新歌空降Melon6位（热度：45599）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%AB%E6%AE%B5%E9%94%A6%E7%9A%84%E9%A3%8E%E8%BF%98%E6%98%AF%E5%90%B9%E5%88%B0%E4%BA%86%E8%A1%97%E8%88%9E%23" target="weibo">
+八段锦的风还是吹到了街舞（热度：39029）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%A6%9E%E8%8A%B1%E7%A7%B0%E9%9D%A0%E8%AE%B0%E5%BF%86%E4%B8%AD%E7%88%B6%E6%AF%8D%E7%9A%84%E7%88%B1%E8%B5%B0%E5%88%B0%E4%BB%8A%E5%A4%A9%23" target="weibo">
 杨妞花称靠记忆中父母的爱走到今天（热度：36436）
 </a>
@@ -461,12 +479,6 @@ Jennie新歌空降Melon6位（热度：45599）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8A%A8%E7%94%BB%E8%BF%98%E5%8E%9F%E6%9D%A8%E5%A6%9E%E8%8A%B1%E8%A2%AB%E6%8B%90%E6%A1%88%23" target="weibo">
 动画还原杨妞花被拐案（热度：30551）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%85%AB%E6%AE%B5%E9%94%A6%E7%9A%84%E9%A3%8E%E8%BF%98%E6%98%AF%E5%90%B9%E5%88%B0%E4%BA%86%E8%A1%97%E8%88%9E%23" target="weibo">
-八段锦的风还是吹到了街舞（热度：30530）
 </a>
 </li>
 
