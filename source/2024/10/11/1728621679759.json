@@ -1,0 +1,410 @@
+{
+  "runTime": 1728621679759,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2559295,
+        "num": 2559295,
+        "word": "余华英卖的第1个孩子是自己儿子",
+        "onboard_time": 1728617119,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2037876,
+        "num": 2037876,
+        "word": "特斯拉发布会",
+        "onboard_time": 1728612859,
+        "rank": 1,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 38064,
+        "num": 995939,
+        "word": "愿时光不老岁月静好",
+        "onboard_time": 1728618919,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 993847,
+        "num": 993847,
+        "word": "被拐女孩梦到妈妈喊自己而记住名字",
+        "onboard_time": 1728616097,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 488001,
+        "num": 488001,
+        "word": "中方要求调查追责以军袭击联黎部队阵地",
+        "onboard_time": 1728618379,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 460738,
+        "num": 460738,
+        "word": "王皓谈做樊振东教练的感受",
+        "onboard_time": 1728615799,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 342730,
+        "num": 456305,
+        "word": "央视重阳晚会阵容官宣",
+        "onboard_time": 1728618678,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 283545,
+        "num": 455703,
+        "word": "SM确认洪承汉不退团",
+        "onboard_time": 1728609978,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 243252,
+        "num": 455611,
+        "word": "余华英被控拐卖儿童人数增至17人",
+        "onboard_time": 1728621021,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 455598,
+        "num": 455598,
+        "word": "投喂浣熊35年后自家被百余只包围",
+        "onboard_time": 1728618318,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 895131,
+        "num": 434093,
+        "word": "10岁女儿患抑郁症后鸡娃妈妈觉醒了",
+        "onboard_time": 1728613157,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 842962,
+        "num": 427626,
+        "word": "听泉鉴宝",
+        "onboard_time": 1728607400,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 408258,
+        "num": 408258,
+        "word": "特斯拉Cybercab没有方向盘和踏板",
+        "onboard_time": 1728616160,
+        "rank": 12,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 62287,
+        "num": 360571,
+        "word": "刘亦菲说给自己买保险很有想法",
+        "onboard_time": 1728617839,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 358267,
+        "num": 358267,
+        "word": "人贩子名字她从5岁记到30多岁",
+        "onboard_time": 1728620780,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 326562,
+        "num": 326562,
+        "word": "周五遇上重阳节",
+        "onboard_time": 1728616759,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 303452,
+        "num": 303452,
+        "word": "巴代表问你们已经习惯于我们的死亡了吗",
+        "onboard_time": 1728615918,
+        "rank": 16,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 208203,
+        "num": 279396,
+        "word": "奔跑吧对你来说意味着什么",
+        "onboard_time": 1728621080,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 22951,
+        "num": 274327,
+        "word": "林志颖将在生日去意大利赛车",
+        "onboard_time": 1728621080,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 270497,
+        "num": 270497,
+        "word": "恋与深空",
+        "onboard_time": 1728620600,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 536744,
+        "num": 269836,
+        "word": "买基金亏170万起诉银行获赔159万",
+        "onboard_time": 1728620720,
+        "rank": 20,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 268055,
+        "num": 268055,
+        "word": "颁奖时王皓笑得合不拢嘴",
+        "onboard_time": 1728610819,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 266222,
+        "num": 266222,
+        "word": "韦雪模仿叶珂",
+        "onboard_time": 1728613818,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 261631,
+        "num": 261631,
+        "word": "恋与深空第二批",
+        "onboard_time": 1728620541,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 249961,
+        "num": 249961,
+        "word": "男子网售野生发菜获刑",
+        "onboard_time": 1728612558,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246983,
+        "num": 246983,
+        "word": "宝妈第一次蒸馒头意外收获蘑菇",
+        "onboard_time": 1728620420,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219054,
+        "num": 246126,
+        "word": "曾舜晞 怎么不看看我",
+        "onboard_time": 1728619879,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187111,
+        "num": 245699,
+        "word": "Jennie新歌",
+        "onboard_time": 1728606141,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 65874,
+        "num": 244338,
+        "word": "小鹏P7+实现前后排二郎腿自由",
+        "onboard_time": 1728617779,
+        "rank": 28,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 162718,
+        "num": 243536,
+        "word": "SM说RIIZE7名成员更有意义",
+        "onboard_time": 1728620360,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 243450,
+        "num": 243450,
+        "word": "特斯拉 科幻",
+        "onboard_time": 1728618078,
+        "rank": 30,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 238432,
+        "num": 238432,
+        "word": "特斯拉人形机器人",
+        "onboard_time": 1728619039,
+        "rank": 31,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 224227,
+        "num": 224227,
+        "word": "A股三市下跌个股近4700只",
+        "onboard_time": 1728620240,
+        "rank": 32,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 223940,
+        "num": 223940,
+        "word": "kimi崩了",
+        "onboard_time": 1728619519,
+        "rank": 33,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 163322,
+        "num": 210210,
+        "word": "黄景瑜除八害",
+        "onboard_time": 1728615560,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 370431,
+        "num": 208165,
+        "word": "女生胳膊长巨型疖肿到医院切开",
+        "onboard_time": 1728617360,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205256,
+        "num": 205256,
+        "word": "穿正装但没说是什么正装",
+        "onboard_time": 1728613339,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 197067,
+        "num": 197067,
+        "word": "摩羯真的太容易陷入内耗了",
+        "onboard_time": 1728619819,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 196546,
+        "num": 196546,
+        "word": "娜扎央视镜头",
+        "onboard_time": 1728605120,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 161933,
+        "num": 194613,
+        "word": "凤凰传奇咸阳抢票",
+        "onboard_time": 1728620180,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 194589,
+        "num": 194589,
+        "word": "存了三个月朋友圈一次性发出后",
+        "onboard_time": 1728603137,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 192147,
+        "num": 192147,
+        "word": "男子称母亲躺手术室医生讨要3000红包",
+        "onboard_time": 1728607879,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180524,
+        "num": 180524,
+        "word": "第一批炒股赚钱的人开始买黄金古玩",
+        "onboard_time": 1728618318,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 176097,
+        "num": 176097,
+        "word": "王楚钦盛赞林诗栋",
+        "onboard_time": 1728615019,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 173534,
+        "num": 173534,
+        "word": "王楚钦将捧花扔向了观众席",
+        "onboard_time": 1728603078,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159040,
+        "num": 159040,
+        "word": "369喊话T1",
+        "onboard_time": 1728620120,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 156788,
+        "num": 156788,
+        "word": "今日重阳愿您安康",
+        "onboard_time": 1728609199,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155783,
+        "num": 155783,
+        "word": "喜剧之王单口季",
+        "onboard_time": 1728619998,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152994,
+        "num": 152994,
+        "word": "芒果男艺人回应长得人山人海",
+        "onboard_time": 1728621261,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136484,
+        "num": 136484,
+        "word": "朴彩英首支OST",
+        "onboard_time": 1728615498,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#要把尊老敬老作为一种社会风尚#"
+    }
+  }
+}

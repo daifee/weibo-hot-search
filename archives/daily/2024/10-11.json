@@ -1,6 +1,6 @@
 {
   "startTime": 1728577667934,
-  "endTime": 1728620811626,
+  "endTime": 1728621679759,
   "band_list": [
     {
       "raw_hot": 6465280,
@@ -235,6 +235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 536744,
+      "num": 269836,
+      "word": "买基金亏170万起诉银行获赔159万",
+      "onboard_time": 1728620720,
+      "rank": 30,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 519015,
       "num": 497321,
       "word": "韦雪模仿叶珂",
@@ -259,6 +267,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 488001,
+      "num": 488001,
+      "word": "中方要求调查追责以军袭击联黎部队阵地",
+      "onboard_time": 1728618379,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 479991,
       "num": 479991,
       "word": "特斯拉Cybercab没有方向盘和踏板",
@@ -275,20 +291,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 463437,
-      "num": 463437,
-      "word": "中方要求调查追责以军袭击联黎部队阵地",
-      "onboard_time": 1728618379,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 456274,
       "num": 456274,
       "word": "宁静拍短剧",
       "onboard_time": 1728606320,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 455598,
+      "num": 455598,
+      "word": "投喂浣熊35年后自家被百余只包围",
+      "onboard_time": 1728618318,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 452300,
@@ -371,11 +387,11 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 383778,
-      "num": 383778,
-      "word": "投喂浣熊35年后自家被百余只包围",
-      "onboard_time": 1728618318,
-      "rank": 9,
+      "raw_hot": 370431,
+      "num": 269639,
+      "word": "女生胳膊长巨型疖肿到医院切开",
+      "onboard_time": 1728617360,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -387,6 +403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 358267,
+      "num": 358267,
+      "word": "人贩子名字她从5岁记到30多岁",
+      "onboard_time": 1728620780,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 345307,
       "num": 345307,
       "word": "考上师范学校却被人冒名顶替了",
@@ -395,12 +419,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 342126,
-      "num": 269639,
-      "word": "女生胳膊长巨型疖肿到医院切开",
-      "onboard_time": 1728617360,
-      "rank": 33,
-      "category": "社会新闻"
+      "raw_hot": 342730,
+      "num": 456305,
+      "word": "央视重阳晚会阵容官宣",
+      "onboard_time": 1728618678,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 332605,
@@ -417,14 +441,6 @@
       "onboard_time": 1728567680,
       "rank": 20,
       "category": "体育"
-    },
-    {
-      "raw_hot": 327531,
-      "num": 398728,
-      "word": "央视重阳晚会阵容官宣",
-      "onboard_time": 1728618678,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 325670,
@@ -523,6 +539,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 270497,
+      "num": 270497,
+      "word": "恋与深空",
+      "onboard_time": 1728620600,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 266763,
       "num": 266763,
       "word": "特斯拉人形机器人",
@@ -537,6 +561,14 @@
       "onboard_time": 1728560902,
       "rank": 22,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 261631,
+      "num": 261631,
+      "word": "恋与深空第二批",
+      "onboard_time": 1728620541,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 260475,
@@ -563,12 +595,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 246699,
-      "num": 203609,
-      "word": "买基金亏170万起诉银行获赔159万",
-      "onboard_time": 1728620720,
-      "rank": 30,
-      "category": "财经,社会新闻"
+      "raw_hot": 246983,
+      "num": 246983,
+      "word": "宝妈第一次蒸馒头意外收获蘑菇",
+      "onboard_time": 1728620420,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 244976,
@@ -577,6 +609,14 @@
       "onboard_time": 1728608959,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 243252,
+      "num": 455611,
+      "word": "余华英被控拐卖儿童人数增至17人",
+      "onboard_time": 1728621021,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 242691,
@@ -619,8 +659,16 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 223331,
-      "num": 223331,
+      "raw_hot": 224227,
+      "num": 224227,
+      "word": "A股三市下跌个股近4700只",
+      "onboard_time": 1728620240,
+      "rank": 31,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 223940,
+      "num": 223940,
       "word": "kimi崩了",
       "onboard_time": 1728619519,
       "rank": 24,
@@ -633,6 +681,14 @@
       "onboard_time": 1728602117,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 219054,
+      "num": 272803,
+      "word": "曾舜晞 怎么不看看我",
+      "onboard_time": 1728619879,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 218267,
@@ -659,8 +715,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 208203,
+      "num": 279396,
+      "word": "奔跑吧对你来说意味着什么",
+      "onboard_time": 1728621080,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 206055,
-      "num": 206055,
+      "num": 243536,
       "word": "SM说RIIZE7名成员更有意义",
       "onboard_time": 1728620360,
       "rank": 26,
@@ -673,14 +737,6 @@
       "onboard_time": 1728617599,
       "rank": 38,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 203432,
-      "num": 203432,
-      "word": "A股三市下跌个股近4700只",
-      "onboard_time": 1728620240,
-      "rank": 31,
-      "category": "财经"
     },
     {
       "raw_hot": 199995,
@@ -699,20 +755,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 197067,
+      "num": 197067,
+      "word": "摩羯真的太容易陷入内耗了",
+      "onboard_time": 1728619819,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 195362,
       "num": 177823,
       "word": "赵露思直播间状态",
       "onboard_time": 1728569003,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 194133,
-      "num": 272803,
-      "word": "曾舜晞 怎么不看看我",
-      "onboard_time": 1728619879,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 191332,
@@ -763,14 +819,6 @@
       "category": "自然"
     },
     {
-      "raw_hot": 181117,
-      "num": 181117,
-      "word": "恋与深空第二批",
-      "onboard_time": 1728620541,
-      "rank": 38,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 178444,
       "num": 294108,
       "word": "迪丽热巴陈飞宇花海吻戏",
@@ -785,22 +833,6 @@
       "onboard_time": 1728575899,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 175500,
-      "num": 175500,
-      "word": "摩羯真的太容易陷入内耗了",
-      "onboard_time": 1728619819,
-      "rank": 39,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 174737,
-      "num": 174737,
-      "word": "恋与深空",
-      "onboard_time": 1728620600,
-      "rank": 40,
-      "category": "游戏"
     },
     {
       "raw_hot": 174156,
@@ -859,14 +891,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 161333,
-      "num": 161333,
-      "word": "宝妈第一次蒸馒头意外收获蘑菇",
-      "onboard_time": 1728620420,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 159932,
       "num": 159932,
       "word": "奔跑吧兄弟",
@@ -923,19 +947,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 152994,
+      "num": 152994,
+      "word": "芒果男艺人回应长得人山人海",
+      "onboard_time": 1728621261,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 152986,
       "num": 325751,
       "word": "余华英从5户人家各拐走2个孩子",
       "onboard_time": 1728613279,
       "rank": 18,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 151653,
-      "num": 151653,
-      "word": "人贩子名字她从5岁记到30多岁",
-      "onboard_time": 1728620780,
-      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -1355,6 +1379,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 65874,
+      "num": 244338,
+      "word": "小鹏P7+实现前后排二郎腿自由",
+      "onboard_time": 1728617779,
+      "rank": 39,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 62287,
+      "num": 360571,
+      "word": "刘亦菲说给自己买保险很有想法",
+      "onboard_time": 1728617839,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 58156,
       "num": 58156,
       "word": "世界乒联说孙颖莎好好休息",
@@ -1377,22 +1417,6 @@
       "onboard_time": 1728552979,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 49165,
-      "num": 204962,
-      "word": "小鹏P7+实现前后排二郎腿自由",
-      "onboard_time": 1728617779,
-      "rank": 39,
-      "category": "汽车"
-    },
-    {
-      "raw_hot": 47402,
-      "num": 354323,
-      "word": "刘亦菲说给自己买保险很有想法",
-      "onboard_time": 1728617839,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 47235,
@@ -1513,6 +1537,14 @@
       "onboard_time": 1728617719,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 22951,
+      "num": 274327,
+      "word": "林志颖将在生日去意大利赛车",
+      "onboard_time": 1728621080,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 22853,

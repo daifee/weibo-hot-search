@@ -1,6 +1,6 @@
 {
   "startTime": 1728145573126,
-  "endTime": 1728620811626,
+  "endTime": 1728621679759,
   "band_list": [
     {
       "raw_hot": 13027302,
@@ -3051,6 +3051,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 536744,
+      "num": 269836,
+      "word": "买基金亏170万起诉银行获赔159万",
+      "onboard_time": 1728620720,
+      "rank": 30,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 534786,
       "num": 352632,
       "word": "衢州发现传说中的四不像",
@@ -3355,6 +3363,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 488001,
+      "num": 488001,
+      "word": "中方要求调查追责以军袭击联黎部队阵地",
+      "onboard_time": 1728618379,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 486841,
       "num": 486841,
       "word": "朴山多拉晒YG家族合照没有Jennie",
@@ -3571,14 +3587,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 463437,
-      "num": 463437,
-      "word": "中方要求调查追责以军袭击联黎部队阵地",
-      "onboard_time": 1728618379,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 463049,
       "num": 379857,
       "word": "张馨予玄学灵验",
@@ -3649,6 +3657,14 @@
       "onboard_time": 1728559042,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 455598,
+      "num": 455598,
+      "word": "投喂浣熊35年后自家被百余只包围",
+      "onboard_time": 1728618318,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 455160,
@@ -4283,14 +4299,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 383778,
-      "num": 383778,
-      "word": "投喂浣熊35年后自家被百余只包围",
-      "onboard_time": 1728618318,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 382821,
       "num": 452920,
       "word": "国庆假期国内出游7.65亿人次",
@@ -4481,6 +4489,14 @@
       "onboard_time": 1728188299,
       "rank": 25,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 370431,
+      "num": 269639,
+      "word": "女生胳膊长巨型疖肿到医院切开",
+      "onboard_time": 1728617360,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 369419,
@@ -4683,6 +4699,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 358267,
+      "num": 358267,
+      "word": "人贩子名字她从5岁记到30多岁",
+      "onboard_time": 1728620780,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 357881,
       "num": 711667,
       "word": "Hanni决定出席国会监查",
@@ -4827,20 +4851,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 342730,
+      "num": 456305,
+      "word": "央视重阳晚会阵容官宣",
+      "onboard_time": 1728618678,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 342294,
       "num": 342294,
       "word": "恋与深空新谷",
       "onboard_time": 1728536899,
       "rank": 31,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 342126,
-      "num": 269639,
-      "word": "女生胳膊长巨型疖肿到医院切开",
-      "onboard_time": 1728617360,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 340933,
@@ -5024,14 +5048,6 @@
       "word": "杨紫王俊凯 明学优秀毕业生",
       "onboard_time": 1728560123,
       "rank": 19,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 327531,
-      "num": 398728,
-      "word": "央视重阳晚会阵容官宣",
-      "onboard_time": 1728618678,
-      "rank": 7,
       "category": "综艺"
     },
     {
@@ -6219,6 +6235,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 261631,
+      "num": 261631,
+      "word": "恋与深空第二批",
+      "onboard_time": 1728620541,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 260952,
       "num": 414138,
       "word": "密室大逃脱",
@@ -6539,6 +6563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 246983,
+      "num": 246983,
+      "word": "宝妈第一次蒸馒头意外收获蘑菇",
+      "onboard_time": 1728620420,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 246750,
       "num": 331317,
       "word": "孙颖莎3比0杜凯琹",
@@ -6553,14 +6585,6 @@
       "onboard_time": 1728285560,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 246699,
-      "num": 203609,
-      "word": "买基金亏170万起诉银行获赔159万",
-      "onboard_time": 1728620720,
-      "rank": 30,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 245650,
@@ -6625,6 +6649,14 @@
       "onboard_time": 1728384922,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 243252,
+      "num": 455611,
+      "word": "余华英被控拐卖儿童人数增至17人",
+      "onboard_time": 1728621021,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 243223,
@@ -7139,6 +7171,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 224227,
+      "num": 224227,
+      "word": "A股三市下跌个股近4700只",
+      "onboard_time": 1728620240,
+      "rank": 31,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 223940,
+      "num": 223940,
+      "word": "kimi崩了",
+      "onboard_time": 1728619519,
+      "rank": 24,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 223931,
       "num": 223931,
       "word": "叶珂证明说话没夹",
@@ -7153,14 +7201,6 @@
       "onboard_time": 1728375741,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 223331,
-      "num": 223331,
-      "word": "kimi崩了",
-      "onboard_time": 1728619519,
-      "rank": 24,
-      "category": "互联网"
     },
     {
       "raw_hot": 222536,
@@ -7241,6 +7281,14 @@
       "onboard_time": 1728190039,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 219054,
+      "num": 272803,
+      "word": "曾舜晞 怎么不看看我",
+      "onboard_time": 1728619879,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 219029,
@@ -7691,6 +7739,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 208203,
+      "num": 279396,
+      "word": "奔跑吧对你来说意味着什么",
+      "onboard_time": 1728621080,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 208007,
       "num": 208007,
       "word": "诺贝尔物理学奖 计算机",
@@ -7820,7 +7876,7 @@
     },
     {
       "raw_hot": 206055,
-      "num": 206055,
+      "num": 243536,
       "word": "SM说RIIZE7名成员更有意义",
       "onboard_time": 1728620360,
       "rank": 26,
@@ -7961,14 +8017,6 @@
       "onboard_time": 1728463700,
       "rank": 37,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 203432,
-      "num": 203432,
-      "word": "A股三市下跌个股近4700只",
-      "onboard_time": 1728620240,
-      "rank": 31,
-      "category": "财经"
     },
     {
       "raw_hot": 203419,
@@ -8307,6 +8355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 197067,
+      "num": 197067,
+      "word": "摩羯真的太容易陷入内耗了",
+      "onboard_time": 1728619819,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 196795,
       "num": 196795,
       "word": "国乒女团3比0战胜中国香港",
@@ -8425,14 +8481,6 @@
       "onboard_time": 1728181877,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 194133,
-      "num": 272803,
-      "word": "曾舜晞 怎么不看看我",
-      "onboard_time": 1728619879,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 193989,
@@ -9099,14 +9147,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 181117,
-      "num": 181117,
-      "word": "恋与深空第二批",
-      "onboard_time": 1728620541,
-      "rank": 38,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 180805,
       "num": 180805,
       "word": "股市大起落新股民称心情像坐过山车",
@@ -9369,14 +9409,6 @@
       "onboard_time": 1728550998,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 175500,
-      "num": 175500,
-      "word": "摩羯真的太容易陷入内耗了",
-      "onboard_time": 1728619819,
-      "rank": 39,
-      "category": "情感"
     },
     {
       "raw_hot": 175388,
@@ -10155,14 +10187,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 161333,
-      "num": 161333,
-      "word": "宝妈第一次蒸馒头意外收获蘑菇",
-      "onboard_time": 1728620420,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 161149,
       "num": 319473,
       "word": "女骑手女司机越来越多了",
@@ -10755,6 +10779,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 152994,
+      "num": 152994,
+      "word": "芒果男艺人回应长得人山人海",
+      "onboard_time": 1728621261,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 152986,
       "num": 325751,
       "word": "余华英从5户人家各拐走2个孩子",
@@ -10873,14 +10905,6 @@
       "onboard_time": 1728483140,
       "rank": 48,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 151653,
-      "num": 151653,
-      "word": "人贩子名字她从5岁记到30多岁",
-      "onboard_time": 1728620780,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 151548,
@@ -14691,6 +14715,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 65874,
+      "num": 244338,
+      "word": "小鹏P7+实现前后排二郎腿自由",
+      "onboard_time": 1728617779,
+      "rank": 39,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 65835,
       "num": 625482,
       "word": "vivo全新系统OriginOS5",
@@ -14793,6 +14825,14 @@
       "onboard_time": 1728342977,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 62287,
+      "num": 360571,
+      "word": "刘亦菲说给自己买保险很有想法",
+      "onboard_time": 1728617839,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 62128,
@@ -15259,14 +15299,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 49165,
-      "num": 204962,
-      "word": "小鹏P7+实现前后排二郎腿自由",
-      "onboard_time": 1728617779,
-      "rank": 39,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 48987,
       "num": 461169,
       "word": "倪妮哭戏的感染力",
@@ -15337,14 +15369,6 @@
       "onboard_time": 1728305242,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 47402,
-      "num": 354323,
-      "word": "刘亦菲说给自己买保险很有想法",
-      "onboard_time": 1728617839,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 47160,
@@ -16537,6 +16561,14 @@
       "onboard_time": 1728464239,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 22951,
+      "num": 274327,
+      "word": "林志颖将在生日去意大利赛车",
+      "onboard_time": 1728621080,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 22914,
