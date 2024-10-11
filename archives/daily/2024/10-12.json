@@ -1,6 +1,6 @@
 {
   "startTime": 1728664067735,
-  "endTime": 1728664067735,
+  "endTime": 1728665000028,
   "band_list": [
     {
       "raw_hot": 1319783,
@@ -52,11 +52,19 @@
     },
     {
       "raw_hot": 458293,
-      "num": 180167,
+      "num": 751244,
       "word": "樊振东说输给费德勒不丢人",
       "onboard_time": 1728660800,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 356491,
+      "num": 356491,
+      "word": "付鹏称现在对于居民部门就干三件事",
+      "onboard_time": 1728662478,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 344037,
@@ -99,6 +107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 268258,
+      "num": 268258,
+      "word": "男童骑行摔倒被碾案司机已取保候审",
+      "onboard_time": 1728661281,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 262456,
       "num": 262456,
       "word": "BLG战胜PSG",
@@ -121,14 +137,6 @@
       "onboard_time": 1728650480,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 227362,
-      "num": 227362,
-      "word": "男童骑行摔倒被碾案司机已取保候审",
-      "onboard_time": 1728661281,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 227068,
@@ -235,6 +243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 105561,
+      "num": 161339,
+      "word": "周雨彤发文告别韩苏",
+      "onboard_time": 1728656840,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 104454,
       "num": 104454,
       "word": "余华英拿滚烫的水浇到5岁女孩头上",
@@ -275,6 +291,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 100701,
+      "num": 161109,
+      "word": "家属回应男孩骑行被碾案司机获取保",
+      "onboard_time": 1728662238,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 98847,
       "num": 98847,
       "word": "杨妞花微博发声",
@@ -288,22 +312,6 @@
       "word": "二房东涨租遭拒后连夜清空店铺",
       "onboard_time": 1728645080,
       "rank": 41,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 95022,
-      "num": 161339,
-      "word": "周雨彤发文告别韩苏",
-      "onboard_time": 1728656840,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 94719,
-      "num": 180212,
-      "word": "付鹏称现在对于居民部门就干三件事",
-      "onboard_time": 1728662478,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -331,8 +339,16 @@
       "category": "综艺,电竞"
     },
     {
+      "raw_hot": 85903,
+      "num": 134957,
+      "word": "时光音乐会",
+      "onboard_time": 1728663917,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 83413,
-      "num": 83413,
+      "num": 137571,
       "word": "斩断互联网上伸向未成年人的黑手",
       "onboard_time": 1728662718,
       "rank": 44,
@@ -387,16 +403,24 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 62982,
-      "num": 161109,
-      "word": "家属回应男孩骑行被碾案司机获取保",
-      "onboard_time": 1728662238,
-      "rank": 20,
+      "raw_hot": 67568,
+      "num": 67568,
+      "word": "郑钦文晋级武网四强",
+      "onboard_time": 1728653300,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 24798,
+      "num": 132003,
+      "word": "被拐女孩说相信会有好的结果",
+      "onboard_time": 1728660560,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
       "raw_hot": 4838,
-      "num": 246584,
+      "num": 374850,
       "word": "首届中国广播电视精品创作大会",
       "onboard_time": 1728613458,
       "rank": 2,
