@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1728628275116,
+  "endTime": 1728629074629,
   "band_list": [
     {
       "raw_hot": 13027302,
@@ -3051,6 +3051,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 776324,
+      "num": 267705,
+      "word": "沙溢瘦回白展堂",
+      "onboard_time": 1728623841,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 775576,
       "num": 486442,
       "word": "以军称伊朗向以色列发射超180枚导弹",
@@ -3521,14 +3529,6 @@
       "onboard_time": 1728566240,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 713410,
-      "num": 267705,
-      "word": "沙溢瘦回白展堂",
-      "onboard_time": 1728623841,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 712625,
@@ -8091,6 +8091,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 348148,
+      "num": 224237,
+      "word": "睡觉时为什么会突然抖一下",
+      "onboard_time": 1728626780,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 346827,
       "num": 200905,
       "word": "WB零封AG",
@@ -8209,14 +8217,6 @@
       "onboard_time": 1728276858,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 338609,
-      "num": 224237,
-      "word": "睡觉时为什么会突然抖一下",
-      "onboard_time": 1728626780,
-      "rank": 21,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 338485,
@@ -8457,6 +8457,14 @@
       "onboard_time": 1728625639,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 328976,
+      "num": 220915,
+      "word": "何炅也有藏不住事的时候",
+      "onboard_time": 1728628338,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 328814,
@@ -11939,6 +11947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 234356,
+      "num": 234356,
+      "word": "杨笠 最难听的话都对自己说过",
+      "onboard_time": 1728626060,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 233695,
       "num": 233695,
       "word": "张家界治愈了韩国人的精神内耗",
@@ -12329,14 +12345,6 @@
       "onboard_time": 1728623183,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 226675,
-      "num": 226675,
-      "word": "杨笠 最难听的话都对自己说过",
-      "onboard_time": 1728626060,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 226654,
@@ -12753,6 +12761,14 @@
       "onboard_time": 1727770158,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 219234,
+      "num": 226514,
+      "word": "陶昕然演李清照",
+      "onboard_time": 1728626179,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 219054,
@@ -14171,6 +14187,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 200278,
+      "num": 200278,
+      "word": "金莎任敏演母女",
+      "onboard_time": 1728627738,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 200254,
       "num": 200254,
       "word": "田志希2比3巴特拉",
@@ -14897,14 +14921,6 @@
       "onboard_time": 1728443179,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 193378,
-      "num": 226514,
-      "word": "陶昕然演李清照",
-      "onboard_time": 1728626179,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 193354,
@@ -17979,6 +17995,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 162832,
+      "num": 162832,
+      "word": "酒店回应员工蹲新婚夫妻房外偷听",
+      "onboard_time": 1728627680,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 162829,
       "num": 162829,
       "word": "假期最后3天怎么过",
@@ -17993,6 +18017,14 @@
       "onboard_time": 1727882720,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 162726,
+      "num": 222078,
+      "word": "刘忻cos伽罗",
+      "onboard_time": 1728626362,
+      "rank": 24,
+      "category": "综艺,电竞"
     },
     {
       "raw_hot": 162500,
@@ -18761,14 +18793,6 @@
       "onboard_time": 1727913378,
       "rank": 24,
       "category": "国内时政,军事"
-    },
-    {
-      "raw_hot": 155927,
-      "num": 222078,
-      "word": "刘忻cos伽罗",
-      "onboard_time": 1728626362,
-      "rank": 24,
-      "category": "综艺,电竞"
     },
     {
       "raw_hot": 155916,
@@ -19761,14 +19785,6 @@
       "onboard_time": 1728191416,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 147991,
-      "num": 177747,
-      "word": "金莎任敏演母女",
-      "onboard_time": 1728627738,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 147815,
@@ -21259,6 +21275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 136155,
+      "num": 268039,
+      "word": "余华英拐卖儿童数从11名增至17名",
+      "onboard_time": 1728626297,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 136112,
       "num": 136112,
       "word": "吹牛老爹",
@@ -22003,6 +22027,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 130989,
+      "num": 216396,
+      "word": "中国赴黎维和部队目前安全",
+      "onboard_time": 1728628099,
+      "rank": 44,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 130924,
       "num": 275426,
       "word": "国乒锁定中国大满贯混双冠军",
@@ -22209,14 +22241,6 @@
       "onboard_time": 1728225260,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 129439,
-      "num": 129439,
-      "word": "酒店回应员工蹲新婚夫妻房外偷听",
-      "onboard_time": 1728627680,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 129248,
@@ -22881,14 +22905,6 @@
       "onboard_time": 1728024137,
       "rank": 44,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 123980,
-      "num": 123980,
-      "word": "中国赴黎维和部队目前安全",
-      "onboard_time": 1728628099,
-      "rank": 44,
-      "category": "国内时政"
     },
     {
       "raw_hot": 123752,
@@ -24188,7 +24204,7 @@
     },
     {
       "raw_hot": 112434,
-      "num": 112434,
+      "num": 179505,
       "word": "女孩半岁失聪靠读唇语逆袭为博士后",
       "onboard_time": 1728626000,
       "rank": 48,
@@ -24691,6 +24707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 107888,
+      "num": 107888,
+      "word": "中方要求调查追责联黎部队遭袭",
+      "onboard_time": 1728618379,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 107870,
       "num": 158782,
       "word": "大熊猫一不小心生了个mini版的自己",
@@ -24793,6 +24817,14 @@
       "onboard_time": 1728204198,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 107616,
+      "num": 107616,
+      "word": "玉石美甲",
+      "onboard_time": 1728625341,
+      "rank": 47,
+      "category": "美妆"
     },
     {
       "raw_hot": 107597,
@@ -26435,14 +26467,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 90327,
-      "num": 268039,
-      "word": "余华英拐卖儿童数从11名增至17名",
-      "onboard_time": 1728626297,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 90146,
       "num": 90146,
       "word": "小伙返程堵车老妈后备箱放一锅饭菜",
@@ -27369,6 +27393,14 @@
       "onboard_time": 1727921117,
       "rank": 48,
       "category": "财经"
+    },
+    {
+      "raw_hot": 77520,
+      "num": 212470,
+      "word": "小鹿 爱自己成为了财富密码",
+      "onboard_time": 1728628519,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 77274,
