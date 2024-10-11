@@ -1,6 +1,6 @@
 {
   "startTime": 1728664067735,
-  "endTime": 1728685243301,
+  "endTime": 1728686452617,
   "band_list": [
     {
       "raw_hot": 1319783,
@@ -139,6 +139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 238615,
+      "num": 238615,
+      "word": "余华英将罪责都推到丈夫和情夫身上",
+      "onboard_time": 1728656781,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 235119,
       "num": 235119,
       "word": "李梦签约乐华娱乐",
@@ -219,12 +227,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 114047,
-      "num": 114047,
-      "word": "余华英将罪责都推到丈夫和情夫身上",
-      "onboard_time": 1728656781,
-      "rank": 32,
-      "category": "社会新闻"
+      "raw_hot": 113621,
+      "num": 113621,
+      "word": "4博士2博士后的浮夸学历怎么诞生的",
+      "onboard_time": 1728665355,
+      "rank": 38,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 113076,
@@ -283,6 +291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 101562,
+      "num": 101562,
+      "word": "打着免费注射神药的旗号敛财1亿多",
+      "onboard_time": 1728682513,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 101505,
       "num": 101505,
       "word": "男子不爱社交长期不说话致语言退化",
@@ -323,6 +339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 94825,
+      "num": 94825,
+      "word": "余华英用一根冰棒骗走5岁男孩",
+      "onboard_time": 1728668714,
+      "rank": 14,
+      "category": "社会新闻,读书作家"
+    },
+    {
       "raw_hot": 93643,
       "num": 93643,
       "word": "男子工作电脑藏64G色情视频被开除",
@@ -355,14 +379,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 84012,
-      "num": 84012,
-      "word": "余华英用一根冰棒骗走5岁男孩",
-      "onboard_time": 1728668714,
-      "rank": 14,
-      "category": "社会新闻,读书作家"
-    },
-    {
       "raw_hot": 83413,
       "num": 137571,
       "word": "斩断互联网上伸向未成年人的黑手",
@@ -377,6 +393,22 @@
       "onboard_time": 1728656181,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 80583,
+      "num": 80583,
+      "word": "章泽天造型师回应胸针传言",
+      "onboard_time": 1728647121,
+      "rank": 43,
+      "category": "艺人,作品衍生"
+    },
+    {
+      "raw_hot": 78970,
+      "num": 65722,
+      "word": "夫妻调监控找婚戒发现被酒店员工偷窥",
+      "onboard_time": 1728667633,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 78259,
@@ -403,14 +435,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 73632,
-      "num": 81869,
-      "word": "4博士2博士后的浮夸学历怎么诞生的",
-      "onboard_time": 1728665355,
-      "rank": 38,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 73434,
       "num": 73434,
       "word": "伯远国风唱跳刀剑如梦",
@@ -435,24 +459,16 @@
       "category": "体育"
     },
     {
-      "raw_hot": 67184,
-      "num": 50031,
-      "word": "夫妻调监控找婚戒发现被酒店员工偷窥",
-      "onboard_time": 1728667633,
-      "rank": 40,
-      "category": "社会新闻"
+      "raw_hot": 52890,
+      "num": 52890,
+      "word": "终于知道向佐在模仿谁了",
+      "onboard_time": 1728684971,
+      "rank": 27,
+      "category": "电影"
     },
     {
-      "raw_hot": 52873,
-      "num": 52873,
-      "word": "章泽天造型师回应胸针传言",
-      "onboard_time": 1728647121,
-      "rank": 43,
-      "category": "艺人,作品衍生"
-    },
-    {
-      "raw_hot": 47042,
-      "num": 47042,
+      "raw_hot": 50399,
+      "num": 50399,
       "word": "今明2天多地极光将上线",
       "onboard_time": 1728682813,
       "rank": 17,
@@ -467,20 +483,28 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 42656,
-      "num": 42656,
-      "word": "打着免费注射神药的旗号敛财1亿多",
-      "onboard_time": 1728682513,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 42028,
       "num": 98477,
       "word": "余华英拐卖儿童长达11年",
       "onboard_time": 1728667394,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 41998,
+      "num": 41998,
+      "word": "普京与伊朗总统举行会谈",
+      "onboard_time": 1728681191,
+      "rank": 23,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 41131,
+      "num": 41131,
+      "word": "双11开放麦",
+      "onboard_time": 1728675372,
+      "rank": 15,
+      "category": "互联网"
     },
     {
       "raw_hot": 40975,
@@ -491,28 +515,12 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 40039,
-      "num": 40039,
-      "word": "双11开放麦",
-      "onboard_time": 1728675372,
-      "rank": 15,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 38840,
       "num": 71295,
       "word": "刘力扬回应于公于私于情于理",
       "onboard_time": 1728670692,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 38599,
-      "num": 40341,
-      "word": "普京与伊朗总统举行会谈",
-      "onboard_time": 1728681191,
-      "rank": 23,
-      "category": "国外时政"
     },
     {
       "raw_hot": 36436,
@@ -547,6 +555,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 29440,
+      "num": 34289,
+      "word": "一定要让父母知道的5种养老骗局",
+      "onboard_time": 1728679090,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 27471,
+      "num": 73620,
+      "word": "央视曝光免费注射干细胞骗局",
+      "onboard_time": 1728685152,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 26973,
       "num": 80420,
       "word": "赵子健被暂停聘任",
@@ -559,14 +583,6 @@
       "num": 132003,
       "word": "被拐女孩说相信会有好的结果",
       "onboard_time": 1728660560,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 23819,
-      "num": 31106,
-      "word": "一定要让父母知道的5种养老骗局",
-      "onboard_time": 1728679090,
       "rank": 29,
       "category": "社会新闻"
     },
@@ -603,20 +619,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 18167,
-      "num": 41973,
-      "word": "央视曝光免费注射干细胞骗局",
-      "onboard_time": 1728685152,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 17923,
       "num": 38764,
       "word": "杨妞花称余华英将责任都推给情夫",
       "onboard_time": 1728677531,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 17489,
+      "num": 64731,
+      "word": "八段锦的风还是吹到了街舞",
+      "onboard_time": 1728686355,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 15109,

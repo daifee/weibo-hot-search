@@ -1,0 +1,410 @@
+{
+  "runTime": 1728686452617,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 341611,
+        "num": 499102,
+        "word": "付鹏称现在对于居民部门就干三件事",
+        "onboard_time": 1728662478,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 308346,
+        "num": 308346,
+        "word": "樊振东说输给费德勒不丢人",
+        "onboard_time": 1728660800,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2353,
+        "num": 269548,
+        "word": "首届中国广播电视精品创作大会",
+        "onboard_time": 1728613458,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238615,
+        "num": 238615,
+        "word": "余华英将罪责都推到丈夫和情夫身上",
+        "onboard_time": 1728656781,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225206,
+        "num": 225206,
+        "word": "家属回应男孩骑行被碾案司机获取保",
+        "onboard_time": 1728662238,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175049,
+        "num": 175049,
+        "word": "王楚钦vs林兆恒",
+        "onboard_time": 1728661998,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113621,
+        "num": 113621,
+        "word": "4博士2博士后的浮夸学历怎么诞生的",
+        "onboard_time": 1728665355,
+        "rank": 6,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 101562,
+        "num": 101562,
+        "word": "打着免费注射神药的旗号敛财1亿多",
+        "onboard_time": 1728682513,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 53933,
+        "num": 101456,
+        "word": "李梦签约乐华娱乐",
+        "onboard_time": 1728650480,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34669,
+        "num": 98987,
+        "word": "心动7女嘉宾女团既视感",
+        "onboard_time": 1728659182,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 276485,
+        "num": 98702,
+        "word": "女儿被拐后妈妈疯了爸爸自杀了",
+        "onboard_time": 1728653120,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227266,
+        "num": 96388,
+        "word": "男孩骑行被碾压案司机已重获自由",
+        "onboard_time": 1728657741,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135833,
+        "num": 95715,
+        "word": "听泉鉴宝最恐怖的一集",
+        "onboard_time": 1728647900,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 94825,
+        "num": 94825,
+        "word": "余华英用一根冰棒骗走5岁男孩",
+        "onboard_time": 1728668714,
+        "rank": 13,
+        "category": "社会新闻,读书作家"
+      },
+      {
+        "raw_hot": 86741,
+        "num": 86741,
+        "word": "理记回应实名举报江秋莲骗捐8年",
+        "onboard_time": 1728649460,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 80583,
+        "num": 80583,
+        "word": "章泽天造型师回应胸针传言",
+        "onboard_time": 1728647121,
+        "rank": 15,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 74274,
+        "num": 74274,
+        "word": "哀牢山没有蟒蛇但有毒蛇",
+        "onboard_time": 1728653720,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27471,
+        "num": 73620,
+        "word": "央视曝光免费注射干细胞骗局",
+        "onboard_time": 1728685152,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 73404,
+        "num": 73404,
+        "word": "花19.8万可获95后研究员同款博士后",
+        "onboard_time": 1728665416,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38071,
+        "num": 72635,
+        "word": "周雨彤发文告别韩苏",
+        "onboard_time": 1728656840,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 254706,
+        "num": 70947,
+        "word": "内蒙古发现一具女尸手脚被捆绑",
+        "onboard_time": 1728640460,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110652,
+        "num": 68752,
+        "word": "女子睡觉碰到宠物狗被扑上身撕咬",
+        "onboard_time": 1728660021,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 90883,
+        "num": 67148,
+        "word": "4天大新生儿医院照蓝光期间死亡",
+        "onboard_time": 1728648740,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 78970,
+        "num": 65722,
+        "word": "夫妻调监控找婚戒发现被酒店员工偷窥",
+        "onboard_time": 1728667633,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 17489,
+        "num": 64731,
+        "word": "八段锦的风还是吹到了街舞",
+        "onboard_time": 1728686355,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 63902,
+        "num": 63902,
+        "word": "医院称医生索要3000元专家费是误会",
+        "onboard_time": 1728658882,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 57818,
+        "num": 57818,
+        "word": "林诗栋决胜局17比15",
+        "onboard_time": 1728658521,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 52890,
+        "num": 52890,
+        "word": "终于知道向佐在模仿谁了",
+        "onboard_time": 1728684971,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 29645,
+        "num": 52622,
+        "word": "武艺的画 干垃圾",
+        "onboard_time": 1728660981,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28251,
+        "num": 52603,
+        "word": "刘力扬回应于公于私于情于理",
+        "onboard_time": 1728670692,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 52596,
+        "num": 52596,
+        "word": "BLG战胜PSG",
+        "onboard_time": 1728660921,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 50399,
+        "num": 50399,
+        "word": "今明2天多地极光将上线",
+        "onboard_time": 1728682813,
+        "rank": 31,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 47496,
+        "num": 47496,
+        "word": "二房东涨租遭拒后连夜清空店铺",
+        "onboard_time": 1728645080,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 47019,
+        "num": 47019,
+        "word": "男子爱吃火锅双膝病变无法行走",
+        "onboard_time": 1728648499,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46402,
+        "num": 46402,
+        "word": "男童骑行摔倒被碾案司机已取保候审",
+        "onboard_time": 1728661281,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 42812,
+        "num": 42812,
+        "word": "考公的尽头到底是什么",
+        "onboard_time": 1728657801,
+        "rank": 35,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 42198,
+        "num": 42198,
+        "word": "ON在干嘛",
+        "onboard_time": 1728658701,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 20307,
+        "num": 42032,
+        "word": "周柯宇直播",
+        "onboard_time": 1728659958,
+        "rank": 37,
+        "category": "综艺,电竞"
+      },
+      {
+        "raw_hot": 41998,
+        "num": 41998,
+        "word": "普京与伊朗总统举行会谈",
+        "onboard_time": 1728681191,
+        "rank": 38,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 41298,
+        "num": 41298,
+        "word": "樊振东 ACE",
+        "onboard_time": 1728657441,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 41131,
+        "num": 41131,
+        "word": "双11开放麦",
+        "onboard_time": 1728675372,
+        "rank": 40,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 40824,
+        "num": 40824,
+        "word": "男子不爱社交长期不说话致语言退化",
+        "onboard_time": 1728641420,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38041,
+        "num": 38041,
+        "word": "费德勒陈奕迅vs樊振东张之臻",
+        "onboard_time": 1728651741,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 36607,
+        "num": 36607,
+        "word": "霍思燕携10只狗8只鸡拍封面",
+        "onboard_time": 1728635901,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35475,
+        "num": 35475,
+        "word": "猫的反应是猫的七倍",
+        "onboard_time": 1728662478,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 34306,
+        "num": 34306,
+        "word": "名校留学生开始扎堆做留学中介",
+        "onboard_time": 1728675311,
+        "rank": 45,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 32284,
+        "num": 34305,
+        "word": "杨妞花说余华英庭审现场态度恶劣",
+        "onboard_time": 1728655522,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32068,
+        "num": 34299,
+        "word": "杨妞花微博发声",
+        "onboard_time": 1728658041,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31371,
+        "num": 34294,
+        "word": "张若昀唐艺昕带娃逛故宫",
+        "onboard_time": 1728648921,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 29440,
+        "num": 34289,
+        "word": "一定要让父母知道的5种养老骗局",
+        "onboard_time": 1728679090,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#一定要让老年人有一个幸福的晚年#"
+    }
+  }
+}
