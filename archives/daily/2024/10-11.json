@@ -1,6 +1,6 @@
 {
   "startTime": 1728577667934,
-  "endTime": 1728642191892,
+  "endTime": 1728643250729,
   "band_list": [
     {
       "raw_hot": 6465280,
@@ -185,6 +185,14 @@
       "onboard_time": 1728610819,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 810129,
+      "num": 359595,
+      "word": "医护被拖欠8个月工资聚门口讨薪",
+      "onboard_time": 1728640880,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 790636,
@@ -411,6 +419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 482282,
+      "num": 312191,
+      "word": "余华英",
+      "onboard_time": 1728623061,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 479991,
       "num": 479991,
       "word": "特斯拉Cybercab没有方向盘和踏板",
@@ -443,14 +459,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 463864,
-      "num": 359595,
-      "word": "医护被拖欠8个月工资聚门口讨薪",
-      "onboard_time": 1728640880,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 456274,
       "num": 456274,
       "word": "宁静拍短剧",
@@ -480,14 +488,6 @@
       "word": "房贷利率下调后一个月能省多少钱",
       "onboard_time": 1728610518,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 429761,
-      "num": 312191,
-      "word": "余华英",
-      "onboard_time": 1728623061,
-      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -603,6 +603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 377260,
+      "num": 312928,
+      "word": "我是娱乐圈普普通通小美女",
+      "onboard_time": 1728638478,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 373320,
       "num": 423638,
       "word": "虞书欣自嘲玩梗夹子音",
@@ -641,6 +649,14 @@
       "onboard_time": 1728571940,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 357065,
+      "num": 265134,
+      "word": "猿辅导回应大学生涌入平台pk小学生",
+      "onboard_time": 1728639979,
+      "rank": 30,
+      "category": "互联网,教育"
     },
     {
       "raw_hot": 354807,
@@ -745,14 +761,6 @@
       "onboard_time": 1728630920,
       "rank": 36,
       "category": "财经"
-    },
-    {
-      "raw_hot": 309546,
-      "num": 309546,
-      "word": "我是娱乐圈普普通通小美女",
-      "onboard_time": 1728638478,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 305629,
@@ -923,12 +931,12 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 265134,
-      "num": 265134,
-      "word": "猿辅导回应大学生涌入平台pk小学生",
-      "onboard_time": 1728639979,
-      "rank": 30,
-      "category": "互联网,教育"
+      "raw_hot": 265633,
+      "num": 265633,
+      "word": "男子不爱社交长期不说话致语言退化",
+      "onboard_time": 1728641420,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 264991,
@@ -980,7 +988,7 @@
     },
     {
       "raw_hot": 249316,
-      "num": 249316,
+      "num": 261560,
       "word": "杨妞花",
       "onboard_time": 1728639859,
       "rank": 31,
@@ -1129,14 +1137,6 @@
       "onboard_time": 1728624619,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 212091,
-      "num": 212091,
-      "word": "男子不爱社交长期不说话致语言退化",
-      "onboard_time": 1728641420,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 211025,
@@ -1292,7 +1292,7 @@
     },
     {
       "raw_hot": 191546,
-      "num": 195336,
+      "num": 254743,
       "word": "郭晓婷说着霍建华想着胡歌",
       "onboard_time": 1728636860,
       "rank": 26,
@@ -1345,6 +1345,14 @@
       "onboard_time": 1728616580,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 188870,
+      "num": 188870,
+      "word": "王鹤棣闪回到夏天",
+      "onboard_time": 1728643040,
+      "rank": 33,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 188733,
@@ -1419,6 +1427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 175262,
+      "num": 175262,
+      "word": "柳州一块钱五个的螺蛳粉臭豆腐",
+      "onboard_time": 1728641360,
+      "rank": 40,
+      "category": "美食"
+    },
+    {
       "raw_hot": 174565,
       "num": 174565,
       "word": "星穹铁道忘归人",
@@ -1433,14 +1449,6 @@
       "onboard_time": 1728573021,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 171143,
-      "num": 171143,
-      "word": "柳州一块钱五个的螺蛳粉臭豆腐",
-      "onboard_time": 1728641360,
-      "rank": 40,
-      "category": "美食"
     },
     {
       "raw_hot": 170695,
@@ -1545,6 +1553,14 @@
       "onboard_time": 1728620120,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 157129,
+      "num": 261516,
+      "word": "刘宇宁直播",
+      "onboard_time": 1728642859,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 156166,
@@ -1779,20 +1795,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 136634,
+      "num": 136634,
+      "word": "全国乒乓球锦标赛",
+      "onboard_time": 1728641781,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 136155,
       "num": 268039,
       "word": "余华英拐卖儿童数从11名增至17名",
       "onboard_time": 1728626297,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 136146,
-      "num": 136146,
-      "word": "全国乒乓球锦标赛",
-      "onboard_time": 1728641781,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 136067,
@@ -1865,6 +1881,14 @@
       "onboard_time": 1728642020,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 127599,
+      "num": 195228,
+      "word": "这一轮牛市只是昙花一现吗",
+      "onboard_time": 1728639379,
+      "rank": 29,
+      "category": "财经"
     },
     {
       "raw_hot": 127296,
@@ -1947,6 +1971,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 118994,
+      "num": 118994,
+      "word": "特斯拉无人车售价不超过3万美元",
+      "onboard_time": 1728642320,
+      "rank": 48,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 118824,
       "num": 118824,
       "word": "浮夸直播间",
@@ -1977,6 +2009,22 @@
       "onboard_time": 1728615378,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 116935,
+      "num": 304047,
+      "word": "偶遇丁程鑫刘耀文北电吃饭",
+      "onboard_time": 1728641960,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 116570,
+      "num": 116570,
+      "word": "早餐店老板拿出50万给顾客退卡中余额",
+      "onboard_time": 1728643219,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 116001,
@@ -2131,6 +2179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 96152,
+      "num": 261497,
+      "word": "郑钦文VS保利尼",
+      "onboard_time": 1728642740,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 94989,
       "num": 111234,
       "word": "任敏好灵",
@@ -2267,6 +2323,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 65861,
+      "num": 299866,
+      "word": "我给我妈租了个儿子",
+      "onboard_time": 1728641120,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 62451,
       "num": 231014,
       "word": "向佐向右向前看",
@@ -2304,14 +2368,6 @@
       "word": "央视揭秘货运骗局",
       "onboard_time": 1728583093,
       "rank": 17,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 55661,
-      "num": 299866,
-      "word": "我给我妈租了个儿子",
-      "onboard_time": 1728641120,
-      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -2371,14 +2427,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 45034,
-      "num": 195228,
-      "word": "这一轮牛市只是昙花一现吗",
-      "onboard_time": 1728639379,
-      "rank": 29,
-      "category": "财经"
-    },
-    {
       "raw_hot": 45006,
       "num": 492507,
       "word": "像打击电诈一样打击坑老骗局",
@@ -2401,6 +2449,14 @@
       "onboard_time": 1728630080,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 42285,
+      "num": 310961,
+      "word": "当地回应网曝城管穿便衣暴力执法",
+      "onboard_time": 1728641479,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 41772,
@@ -2555,14 +2611,6 @@
       "category": "演出,体育"
     },
     {
-      "raw_hot": 27633,
-      "num": 310961,
-      "word": "当地回应网曝城管穿便衣暴力执法",
-      "onboard_time": 1728641479,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 27545,
       "num": 305011,
       "word": "为中国航天点赞",
@@ -2577,6 +2625,14 @@
       "onboard_time": 1728627439,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 26954,
+      "num": 310779,
+      "word": "60岁以上人群爱上买数码产品",
+      "onboard_time": 1728641420,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 25877,
@@ -2611,14 +2667,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 22730,
-      "num": 304047,
-      "word": "偶遇丁程鑫刘耀文北电吃饭",
-      "onboard_time": 1728641960,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 22269,
       "num": 26917,
       "word": "你叫余华英我记了26年",
@@ -2649,14 +2697,6 @@
       "onboard_time": 1728560662,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 20937,
-      "num": 310779,
-      "word": "60岁以上人群爱上买数码产品",
-      "onboard_time": 1728641420,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 19626,
