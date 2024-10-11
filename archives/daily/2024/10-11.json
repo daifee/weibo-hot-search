@@ -1,6 +1,6 @@
 {
   "startTime": 1728577667934,
-  "endTime": 1728621679759,
+  "endTime": 1728624086618,
   "band_list": [
     {
       "raw_hot": 6465280,
@@ -51,6 +51,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1406677,
+      "num": 1099691,
+      "word": "王源公开TFBOYS十周年朋友圈",
+      "onboard_time": 1728622402,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1400085,
+      "num": 1400085,
+      "word": "人贩子名字她从5岁记到30多岁",
+      "onboard_time": 1728620780,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1357417,
       "num": 1357417,
       "word": "95后研究员被暂停聘任关系",
@@ -73,6 +89,14 @@
       "onboard_time": 1728574640,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1292599,
+      "num": 410199,
+      "word": "张雨绮男友首个综艺官宣",
+      "onboard_time": 1728622223,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 1145859,
@@ -227,20 +251,20 @@
       "category": "财经"
     },
     {
+      "raw_hot": 581656,
+      "num": 269836,
+      "word": "买基金亏170万起诉银行获赔159万",
+      "onboard_time": 1728620720,
+      "rank": 30,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 564464,
       "num": 564464,
       "word": "未来三天可能发生大地磁暴",
       "onboard_time": 1728560780,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 536744,
-      "num": 269836,
-      "word": "买基金亏170万起诉银行获赔159万",
-      "onboard_time": 1728620720,
-      "rank": 30,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 519015,
@@ -283,6 +307,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 472309,
+      "num": 257016,
+      "word": "陶昕然新片尺度好大",
+      "onboard_time": 1728622643,
+      "rank": 21,
+      "category": "电影"
+    },
+    {
       "raw_hot": 471828,
       "num": 471828,
       "word": "王皓谈做樊振东教练的感受",
@@ -320,6 +352,14 @@
       "word": "房贷利率下调后一个月能省多少钱",
       "onboard_time": 1728610518,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 426090,
+      "num": 455611,
+      "word": "余华英被控拐卖儿童人数增至17人",
+      "onboard_time": 1728621021,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -387,6 +427,22 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 373320,
+      "num": 423638,
+      "word": "虞书欣自嘲玩梗夹子音",
+      "onboard_time": 1728622101,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 371210,
+      "num": 371210,
+      "word": "官方称人才库没有95后研究员这个人",
+      "onboard_time": 1728622462,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 370431,
       "num": 269639,
       "word": "女生胳膊长巨型疖肿到医院切开",
@@ -395,19 +451,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 366605,
+      "num": 252872,
+      "word": "外婆搬我朋友圈图发朋友圈",
+      "onboard_time": 1728623002,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 364673,
       "num": 364673,
       "word": "湖北一卫生院看病花29.78元收30元",
       "onboard_time": 1728571940,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 358267,
-      "num": 358267,
-      "word": "人贩子名字她从5岁记到30多岁",
-      "onboard_time": 1728620780,
-      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -515,6 +571,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 277303,
+      "num": 277303,
+      "word": "唐嫣走秀像汪小姐创业成功",
+      "onboard_time": 1728622943,
+      "rank": 15,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 276437,
       "num": 276437,
       "word": "肖指导是真的心疼孙颖莎",
@@ -537,6 +601,22 @@
       "onboard_time": 1728609679,
       "rank": 21,
       "category": "电影"
+    },
+    {
+      "raw_hot": 272627,
+      "num": 279396,
+      "word": "奔跑吧对你来说意味着什么",
+      "onboard_time": 1728621080,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 270641,
+      "num": 248748,
+      "word": "肖战张婧仪藏海传草地路透",
+      "onboard_time": 1728622402,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 270497,
@@ -587,6 +667,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 258166,
+      "num": 246983,
+      "word": "宝妈第一次蒸馒头意外收获蘑菇",
+      "onboard_time": 1728620420,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 252823,
       "num": 252823,
       "word": "穿正装但没说是什么正装",
@@ -595,28 +683,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 246983,
-      "num": 246983,
-      "word": "宝妈第一次蒸馒头意外收获蘑菇",
-      "onboard_time": 1728620420,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 244976,
       "num": 244976,
       "word": "请查收重阳节的仪式感",
       "onboard_time": 1728608959,
       "rank": 23,
       "category": "情感"
-    },
-    {
-      "raw_hot": 243252,
-      "num": 455611,
-      "word": "余华英被控拐卖儿童人数增至17人",
-      "onboard_time": 1728621021,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 242691,
@@ -659,6 +731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 226795,
+      "num": 226795,
+      "word": "七夜雪直播 曾舜晞对着李沁撒娇",
+      "onboard_time": 1728623183,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 224227,
       "num": 224227,
       "word": "A股三市下跌个股近4700只",
@@ -699,6 +779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 211854,
+      "num": 211854,
+      "word": "哆啦A梦声优去世",
+      "onboard_time": 1728623660,
+      "rank": 30,
+      "category": "动漫,艺人"
+    },
+    {
       "raw_hot": 211025,
       "num": 211025,
       "word": "听泉鉴宝30天涨粉近千万",
@@ -715,20 +803,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 208203,
-      "num": 279396,
-      "word": "奔跑吧对你来说意味着什么",
-      "onboard_time": 1728621080,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 206055,
       "num": 243536,
       "word": "SM说RIIZE7名成员更有意义",
       "onboard_time": 1728620360,
       "rank": 26,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 206050,
+      "num": 206050,
+      "word": "余华英",
+      "onboard_time": 1728623061,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 205143,
@@ -811,6 +899,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 188633,
+      "num": 188633,
+      "word": "魏家凉皮被指预制菜",
+      "onboard_time": 1728623183,
+      "rank": 35,
+      "category": "美食"
+    },
+    {
       "raw_hot": 186154,
       "num": 186154,
       "word": "极光",
@@ -825,6 +921,14 @@
       "onboard_time": 1728567080,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 178264,
+      "num": 178264,
+      "word": "哈利波特排片",
+      "onboard_time": 1728622223,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 177946,
@@ -913,6 +1017,14 @@
       "onboard_time": 1728620120,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 156825,
+      "num": 417187,
+      "word": "69岁爷爷靠二次元爆改走红",
+      "onboard_time": 1728623061,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 156166,
@@ -1067,6 +1179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 138370,
+      "num": 138370,
+      "word": "男子开车转弯撞到姑娘后疯狂搭讪",
+      "onboard_time": 1728623481,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 136793,
       "num": 271122,
       "word": "张晚意一次走通两种赛道",
@@ -1083,8 +1203,16 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 136041,
+      "num": 136041,
+      "word": "王皓再谈三次奥运亚军",
+      "onboard_time": 1728624019,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 133966,
-      "num": 133966,
+      "num": 263460,
       "word": "王鹤棣也是闯进文旅赛道了",
       "onboard_time": 1728606740,
       "rank": 41,
@@ -1419,6 +1547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 48871,
+      "num": 189434,
+      "word": "券商致信新股民称投资是一场马拉松",
+      "onboard_time": 1728622042,
+      "rank": 34,
+      "category": "财经"
+    },
+    {
       "raw_hot": 47235,
       "num": 47235,
       "word": "第五人格",
@@ -1483,6 +1619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 32587,
+      "num": 257281,
+      "word": "沙溢瘦回白展堂",
+      "onboard_time": 1728623841,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 32140,
       "num": 99707,
       "word": "用车身抵住失控黑车的白车侠发声",
@@ -1495,6 +1639,14 @@
       "num": 1984337,
       "word": "被宝藏爷爷奶奶惊艳到了",
       "onboard_time": 1728565340,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 28710,
+      "num": 1119807,
+      "word": "首届中国广播电视精品创作大会",
+      "onboard_time": 1728613458,
       "rank": 2,
       "category": "社会新闻"
     },
@@ -1520,14 +1672,6 @@
       "word": "药企回应氢化可的松片供应难",
       "onboard_time": 1728617719,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 24960,
-      "num": 970249,
-      "word": "首届中国广播电视精品创作大会",
-      "onboard_time": 1728613458,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
