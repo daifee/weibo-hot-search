@@ -1,6 +1,6 @@
 {
   "startTime": 1728577667934,
-  "endTime": 1728611887223,
+  "endTime": 1728615140404,
   "band_list": [
     {
       "raw_hot": 6465280,
@@ -17,6 +17,14 @@
       "onboard_time": 1728576921,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1892342,
+      "num": 475800,
+      "word": "10岁女儿患抑郁症后鸡娃妈妈觉醒了",
+      "onboard_time": 1728613157,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1886804,
@@ -59,12 +67,44 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1052521,
+      "num": 1168403,
+      "word": "特斯拉发布会",
+      "onboard_time": 1728612859,
+      "rank": 0,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 946505,
       "num": 522243,
       "word": "孙颖莎退出亚锦赛",
       "onboard_time": 1728558680,
       "rank": 10,
       "category": "体育"
+    },
+    {
+      "raw_hot": 914136,
+      "num": 914136,
+      "word": "听泉鉴宝",
+      "onboard_time": 1728607400,
+      "rank": 7,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 815775,
+      "num": 815775,
+      "word": "颁奖时王皓笑得合不拢嘴",
+      "onboard_time": 1728610819,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 788138,
+      "num": 523852,
+      "word": "男子称母亲躺手术室医生讨要3000红包",
+      "onboard_time": 1728607879,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 785181,
@@ -91,15 +131,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 731732,
-      "num": 555095,
-      "word": "听泉鉴宝",
-      "onboard_time": 1728607400,
-      "rank": 7,
-      "category": "网红"
-    },
-    {
-      "raw_hot": 728820,
+      "raw_hot": 746064,
       "num": 556063,
       "word": "娜扎央视镜头",
       "onboard_time": 1728605120,
@@ -108,7 +140,7 @@
     },
     {
       "raw_hot": 728564,
-      "num": 547746,
+      "num": 563606,
       "word": "SM确认洪承汉不退团",
       "onboard_time": 1728609978,
       "rank": 16,
@@ -155,6 +187,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 566146,
+      "num": 566146,
+      "word": "A股",
+      "onboard_time": 1728612859,
+      "rank": 4,
+      "category": "财经"
+    },
+    {
       "raw_hot": 564464,
       "num": 564464,
       "word": "未来三天可能发生大地磁暴",
@@ -163,11 +203,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 523852,
-      "num": 523852,
-      "word": "男子称母亲躺手术室医生讨要3000红包",
-      "onboard_time": 1728607879,
-      "rank": 9,
+      "raw_hot": 526218,
+      "num": 526218,
+      "word": "男子网售野生发菜获刑",
+      "onboard_time": 1728612558,
+      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -180,7 +220,7 @@
     },
     {
       "raw_hot": 488407,
-      "num": 259886,
+      "num": 284044,
       "word": "存了三个月朋友圈一次性发出后",
       "onboard_time": 1728603137,
       "rank": 25,
@@ -201,6 +241,14 @@
       "onboard_time": 1728603618,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 437962,
+      "num": 437962,
+      "word": "房贷利率下调后一个月能省多少钱",
+      "onboard_time": 1728610518,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 424262,
@@ -228,11 +276,19 @@
     },
     {
       "raw_hot": 390890,
-      "num": 246741,
+      "num": 321235,
       "word": "狗狗生理期也需要被精心照顾",
       "onboard_time": 1728610217,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 388197,
+      "num": 388197,
+      "word": "韦雪模仿叶珂",
+      "onboard_time": 1728613818,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 364673,
@@ -267,6 +323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 325670,
+      "num": 325670,
+      "word": "A股今日低开",
+      "onboard_time": 1728610879,
+      "rank": 25,
+      "category": "财经"
+    },
+    {
       "raw_hot": 317684,
       "num": 305702,
       "word": "网络女主播摆拍约架还用上了血胶囊",
@@ -288,14 +352,6 @@
       "word": "王楚钦庆祝手势",
       "onboard_time": 1728603017,
       "rank": 15,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 301311,
-      "num": 301311,
-      "word": "颁奖时王皓笑得合不拢嘴",
-      "onboard_time": 1728610819,
-      "rank": 47,
       "category": "体育"
     },
     {
@@ -355,6 +411,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 262339,
+      "num": 252417,
+      "word": "A股进入震荡模式",
+      "onboard_time": 1728613818,
+      "rank": 30,
+      "category": "财经"
+    },
+    {
       "raw_hot": 260475,
       "num": 260475,
       "word": "重阳节",
@@ -363,12 +427,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 259613,
-      "num": 431818,
-      "word": "房贷利率下调后一个月能省多少钱",
-      "onboard_time": 1728610518,
-      "rank": 29,
-      "category": "社会新闻"
+      "raw_hot": 252134,
+      "num": 252134,
+      "word": "穿正装但没说是什么正装",
+      "onboard_time": 1728613339,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 244976,
@@ -433,14 +497,6 @@
       "onboard_time": 1728577340,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 209168,
-      "num": 209168,
-      "word": "A股今日低开",
-      "onboard_time": 1728610879,
-      "rank": 25,
-      "category": "财经"
     },
     {
       "raw_hot": 199564,
@@ -531,6 +587,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 163863,
+      "num": 163863,
+      "word": "一路繁花",
+      "onboard_time": 1728611479,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 159932,
       "num": 159932,
       "word": "奔跑吧兄弟",
@@ -545,14 +609,6 @@
       "onboard_time": 1728605540,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 157690,
-      "num": 157690,
-      "word": "一路繁花",
-      "onboard_time": 1728611479,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 156166,
@@ -675,6 +731,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 129381,
+      "num": 129381,
+      "word": "王楚钦盛赞林诗栋",
+      "onboard_time": 1728615019,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 129127,
       "num": 129127,
       "word": "男子用虎头蜂泡酒失手现场",
@@ -689,6 +753,22 @@
       "onboard_time": 1728608120,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 123026,
+      "num": 123026,
+      "word": "年轻人借网贷炒股苗头值得警惕",
+      "onboard_time": 1728612739,
+      "rank": 46,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 122364,
+      "num": 122364,
+      "word": "余华英拐卖案将开庭重审",
+      "onboard_time": 1728594671,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 120870,
@@ -763,6 +843,14 @@
       "category": "国外时政,军事"
     },
     {
+      "raw_hot": 110805,
+      "num": 502186,
+      "word": "广州交警通报2人深夜飙车严重超速",
+      "onboard_time": 1728614657,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 109389,
       "num": 109389,
       "word": "mantra",
@@ -827,12 +915,28 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 91212,
+      "num": 844512,
+      "word": "重阳节为爸妈做7件事儿",
+      "onboard_time": 1728614418,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 88042,
       "num": 88042,
       "word": "对抗抑郁最好的运动方式",
       "onboard_time": 1728594071,
       "rank": 47,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 86246,
+      "num": 325751,
+      "word": "余华英从5户人家各拐走2个孩子",
+      "onboard_time": 1728613279,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 80500,
@@ -915,6 +1019,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 50835,
+      "num": 461715,
+      "word": "特斯拉发布会 推迟",
+      "onboard_time": 1728614657,
+      "rank": 12,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 47235,
       "num": 47235,
       "word": "第五人格",
@@ -923,11 +1035,35 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 45006,
+      "num": 492507,
+      "word": "像打击电诈一样打击坑老骗局",
+      "onboard_time": 1728613759,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 41772,
       "num": 45145,
       "word": "见过放羊的没见过放狼的",
       "onboard_time": 1728594971,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 34707,
+      "num": 253110,
+      "word": "人贩余华英再次受审",
+      "onboard_time": 1728613578,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 32312,
+      "num": 442593,
+      "word": "可喜安门店员工称床垫能给鸡蛋排毒",
+      "onboard_time": 1728614057,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -993,14 +1129,6 @@
       "onboard_time": 1728560662,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 18823,
-      "num": 29929,
-      "word": "余华英拐卖案将开庭重审",
-      "onboard_time": 1728594671,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 18634,

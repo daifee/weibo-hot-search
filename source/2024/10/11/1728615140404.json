@@ -1,0 +1,410 @@
+{
+  "runTime": 1728615140404,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1052521,
+        "num": 1168403,
+        "word": "特斯拉发布会",
+        "onboard_time": 1728612859,
+        "rank": 0,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 914136,
+        "num": 914136,
+        "word": "听泉鉴宝",
+        "onboard_time": 1728607400,
+        "rank": 1,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 91212,
+        "num": 844512,
+        "word": "重阳节为爸妈做7件事儿",
+        "onboard_time": 1728614418,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 815775,
+        "num": 815775,
+        "word": "颁奖时王皓笑得合不拢嘴",
+        "onboard_time": 1728610819,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 566146,
+        "num": 566146,
+        "word": "A股",
+        "onboard_time": 1728612859,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 563606,
+        "num": 563606,
+        "word": "SM确认洪承汉不退团",
+        "onboard_time": 1728609978,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 526218,
+        "num": 526218,
+        "word": "男子网售野生发菜获刑",
+        "onboard_time": 1728612558,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 357508,
+        "num": 524508,
+        "word": "鄂LD06335死死顶住失控车辆",
+        "onboard_time": 1728559342,
+        "rank": 7,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 110805,
+        "num": 502186,
+        "word": "广州交警通报2人深夜飙车严重超速",
+        "onboard_time": 1728614657,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 45006,
+        "num": 492507,
+        "word": "像打击电诈一样打击坑老骗局",
+        "onboard_time": 1728613759,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1892342,
+        "num": 475800,
+        "word": "10岁女儿患抑郁症后鸡娃妈妈觉醒了",
+        "onboard_time": 1728613157,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 788138,
+        "num": 474971,
+        "word": "男子称母亲躺手术室医生讨要3000红包",
+        "onboard_time": 1728607879,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50835,
+        "num": 461715,
+        "word": "特斯拉发布会 推迟",
+        "onboard_time": 1728614657,
+        "rank": 12,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 32312,
+        "num": 442593,
+        "word": "可喜安门店员工称床垫能给鸡蛋排毒",
+        "onboard_time": 1728614057,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 437962,
+        "num": 437962,
+        "word": "房贷利率下调后一个月能省多少钱",
+        "onboard_time": 1728610518,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 388197,
+        "num": 388197,
+        "word": "韦雪模仿叶珂",
+        "onboard_time": 1728613818,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 336338,
+        "num": 336338,
+        "word": "王楚钦将捧花扔向了观众席",
+        "onboard_time": 1728603078,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 326280,
+        "num": 326280,
+        "word": "听泉鉴宝宣布短暂停播",
+        "onboard_time": 1728572060,
+        "rank": 17,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 86246,
+        "num": 325751,
+        "word": "余华英从5户人家各拐走2个孩子",
+        "onboard_time": 1728613279,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 268306,
+        "num": 325699,
+        "word": "洪承汉将11月回归RIIZE",
+        "onboard_time": 1728609978,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 746064,
+        "num": 325688,
+        "word": "娜扎央视镜头",
+        "onboard_time": 1728605120,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 325670,
+        "num": 325670,
+        "word": "A股今日低开",
+        "onboard_time": 1728610879,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 378143,
+        "num": 321235,
+        "word": "狗狗生理期也需要被精心照顾",
+        "onboard_time": 1728610217,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 307356,
+        "num": 307356,
+        "word": "张兰怼一路繁花节目组",
+        "onboard_time": 1728608180,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 284044,
+        "num": 284044,
+        "word": "存了三个月朋友圈一次性发出后",
+        "onboard_time": 1728603137,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 255264,
+        "num": 255264,
+        "word": "Jennie新歌",
+        "onboard_time": 1728606141,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 192842,
+        "num": 254706,
+        "word": "韩剧造后者用重庆冒充首尔",
+        "onboard_time": 1728603618,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139935,
+        "num": 254408,
+        "word": "哈利波特全八部今起内地重映",
+        "onboard_time": 1728609679,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 131203,
+        "num": 253528,
+        "word": "宁静拍短剧",
+        "onboard_time": 1728606320,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 34707,
+        "num": 253110,
+        "word": "人贩余华英再次受审",
+        "onboard_time": 1728613578,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262339,
+        "num": 252417,
+        "word": "A股进入震荡模式",
+        "onboard_time": 1728613818,
+        "rank": 30,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 252134,
+        "num": 252134,
+        "word": "穿正装但没说是什么正装",
+        "onboard_time": 1728613339,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 193848,
+        "num": 193848,
+        "word": "这种高仿板栗有毒千万别吃",
+        "onboard_time": 1728580274,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167808,
+        "num": 167808,
+        "word": "重阳节",
+        "onboard_time": 1728603017,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163863,
+        "num": 163863,
+        "word": "一路繁花",
+        "onboard_time": 1728611479,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162486,
+        "num": 162486,
+        "word": "孙颖莎退出亚锦赛",
+        "onboard_time": 1728558680,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 160241,
+        "num": 160241,
+        "word": "车主回应215万买到漏水迈巴赫",
+        "onboard_time": 1728601936,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138243,
+        "num": 138243,
+        "word": "今日重阳愿您安康",
+        "onboard_time": 1728609199,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136682,
+        "num": 136682,
+        "word": "请查收重阳节的仪式感",
+        "onboard_time": 1728608959,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 133993,
+        "num": 133993,
+        "word": "关爱老人不止在重阳节这一天",
+        "onboard_time": 1728603859,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131804,
+        "num": 131804,
+        "word": "考上师范学校却被人冒名顶替了",
+        "onboard_time": 1728571042,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131723,
+        "num": 131723,
+        "word": "7人分工斗殴搞直播被行拘",
+        "onboard_time": 1728609140,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129381,
+        "num": 129381,
+        "word": "王楚钦盛赞林诗栋",
+        "onboard_time": 1728615019,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128843,
+        "num": 128843,
+        "word": "亚锦赛国乒男团冠军",
+        "onboard_time": 1728576921,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128067,
+        "num": 128067,
+        "word": "这竟然是翻糖做的",
+        "onboard_time": 1728611118,
+        "rank": 44,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 126185,
+        "num": 126185,
+        "word": "鸿蒙版微信",
+        "onboard_time": 1728574160,
+        "rank": 45,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 123026,
+        "num": 123026,
+        "word": "年轻人借网贷炒股苗头值得警惕",
+        "onboard_time": 1728612739,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 122364,
+        "num": 122364,
+        "word": "余华英拐卖案将开庭重审",
+        "onboard_time": 1728594671,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97256,
+        "num": 121719,
+        "word": "奔跑吧兄弟",
+        "onboard_time": 1728607521,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 84300,
+        "num": 121202,
+        "word": "王鹤棣也是闯进文旅赛道了",
+        "onboard_time": 1728606740,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向全国的老年人致以诚挚问候#"
+    }
+  }
+}
