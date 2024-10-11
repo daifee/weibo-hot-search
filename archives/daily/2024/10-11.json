@@ -1,6 +1,6 @@
 {
   "startTime": 1728577667934,
-  "endTime": 1728636121122,
+  "endTime": 1728638629808,
   "band_list": [
     {
       "raw_hot": 6465280,
@@ -99,6 +99,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1285635,
+      "num": 218913,
+      "word": "迈巴赫车主说如果能退车费用全部捐",
+      "onboard_time": 1728635540,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1145859,
       "num": 1145859,
       "word": "这种高仿板栗有毒千万别吃",
@@ -113,6 +121,14 @@
       "onboard_time": 1728572060,
       "rank": 4,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1046522,
+      "num": 583377,
+      "word": "霍思燕携10只狗8只鸡拍封面",
+      "onboard_time": 1728635901,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 1025665,
@@ -193,6 +209,14 @@
       "onboard_time": 1728574100,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 740277,
+      "num": 740277,
+      "word": "虞书欣 他又缺了吧",
+      "onboard_time": 1728636441,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 728564,
@@ -307,6 +331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 538686,
+      "num": 304822,
+      "word": "6岁女童被高年级同学泼开水烫伤",
+      "onboard_time": 1728635601,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 521487,
       "num": 521487,
       "word": "海关回应60一个日本红薯不合规",
@@ -361,6 +393,14 @@
       "onboard_time": 1728616160,
       "rank": 14,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 474339,
+      "num": 467162,
+      "word": "余华英拿滚烫的水浇到5岁女孩头上",
+      "onboard_time": 1728635301,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 472419,
@@ -448,6 +488,14 @@
       "word": "广州交警通报2人深夜飙车严重超速",
       "onboard_time": 1728614657,
       "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 409486,
+      "num": 409486,
+      "word": "妹妹5岁被拐姐姐11岁也成了孤儿",
+      "onboard_time": 1728633861,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -595,14 +643,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 332184,
-      "num": 332184,
-      "word": "霍思燕携10只狗8只鸡拍封面",
-      "onboard_time": 1728635901,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 331362,
       "num": 331362,
       "word": "Jennie新歌致敬成龙电影",
@@ -643,12 +683,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 311166,
-      "num": 370335,
-      "word": "妹妹5岁被拐姐姐11岁也成了孤儿",
-      "onboard_time": 1728633861,
-      "rank": 9,
-      "category": "社会新闻"
+      "raw_hot": 314827,
+      "num": 314827,
+      "word": "奥巴马登场为哈里斯拉票并批特朗普",
+      "onboard_time": 1728637040,
+      "rank": 8,
+      "category": "国外时政"
     },
     {
       "raw_hot": 310907,
@@ -979,14 +1019,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 218913,
-      "num": 218913,
-      "word": "迈巴赫车主说如果能退车费用全部捐",
-      "onboard_time": 1728635540,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 218267,
       "num": 218267,
       "word": "亚锦赛男团决赛",
@@ -1121,6 +1153,14 @@
       "onboard_time": 1728569003,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 191546,
+      "num": 191546,
+      "word": "郭晓婷说着霍建华想着胡歌",
+      "onboard_time": 1728636860,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 191332,
@@ -1427,14 +1467,6 @@
       "category": "母婴育儿"
     },
     {
-      "raw_hot": 147482,
-      "num": 147482,
-      "word": "6岁女童被高年级同学泼开水烫伤",
-      "onboard_time": 1728635601,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 145354,
       "num": 145354,
       "word": "江秋莲回应骗捐质疑",
@@ -1465,14 +1497,6 @@
       "onboard_time": 1728619879,
       "rank": 49,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 143495,
-      "num": 467162,
-      "word": "余华英拿滚烫的水浇到5岁女孩头上",
-      "onboard_time": 1728635301,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 142996,
@@ -1529,6 +1553,14 @@
       "onboard_time": 1728559522,
       "rank": 39,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 140056,
+      "num": 140056,
+      "word": "专项行动整治编造网络黑话烂梗",
+      "onboard_time": 1728637341,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 138821,
@@ -1619,11 +1651,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 130741,
+      "num": 130741,
+      "word": "大蓝曾被人民网点名批评割韭菜",
+      "onboard_time": 1728637400,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 129127,
       "num": 129127,
       "word": "男子用虎头蜂泡酒失手现场",
       "onboard_time": 1728603558,
       "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 127974,
+      "num": 127974,
+      "word": "50多岁男子公交上猥亵8岁女童",
+      "onboard_time": 1728637881,
+      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -1635,11 +1683,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 127336,
+      "num": 127336,
+      "word": "下一战歌手第七期是团战",
+      "onboard_time": 1728638599,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 125584,
       "num": 375921,
       "word": "律师解读进口日本红薯或涉违法",
       "onboard_time": 1728630980,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 125353,
+      "num": 310695,
+      "word": "四川康定一车辆坠河6人失联",
+      "onboard_time": 1728634041,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -1681,6 +1745,14 @@
       "onboard_time": 1728569060,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 120638,
+      "num": 120638,
+      "word": "听泉鉴宝回应停播",
+      "onboard_time": 1728636019,
+      "rank": 47,
+      "category": "网红"
     },
     {
       "raw_hot": 118824,
@@ -1779,12 +1851,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 110570,
-      "num": 110570,
-      "word": "听泉鉴宝回应停播",
-      "onboard_time": 1728636019,
-      "rank": 47,
-      "category": "网红"
+      "raw_hot": 111499,
+      "num": 270810,
+      "word": "被拐女孩坟前哭了一夜发誓讨回公道",
+      "onboard_time": 1728638000,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 110843,
+      "num": 110843,
+      "word": "我是娱乐圈普普通通小美女",
+      "onboard_time": 1728638478,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 110574,
+      "num": 110574,
+      "word": "马嘉祺说时团的优势是在一块待久了",
+      "onboard_time": 1728636082,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 109389,
@@ -1833,14 +1921,6 @@
       "onboard_time": 1728625341,
       "rank": 47,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 107200,
-      "num": 107200,
-      "word": "马嘉祺说时团的优势是在一块待久了",
-      "onboard_time": 1728636082,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 105592,
@@ -2003,14 +2083,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 58223,
-      "num": 310695,
-      "word": "四川康定一车辆坠河6人失联",
-      "onboard_time": 1728634041,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 58156,
       "num": 58156,
       "word": "世界乒联说孙颖莎好好休息",
@@ -2107,6 +2179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 40671,
+      "num": 208878,
+      "word": "苏见信女儿T台首秀",
+      "onboard_time": 1728637640,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 40284,
       "num": 442593,
       "word": "可喜安门店员工称床垫能给鸡蛋排毒",
@@ -2128,6 +2208,14 @@
       "word": "愿时光不老岁月静好",
       "onboard_time": 1728618919,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 39945,
+      "num": 306102,
+      "word": "粮食公司以次充好必须一查到底",
+      "onboard_time": 1728637341,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -2160,6 +2248,14 @@
       "word": "人贩余华英再次受审",
       "onboard_time": 1728613578,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 34674,
+      "num": 205631,
+      "word": "多家电商平台依然有烟卡在售",
+      "onboard_time": 1728636801,
+      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -2297,6 +2393,14 @@
       "onboard_time": 1728560662,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 20484,
+      "num": 280564,
+      "word": "余华英被指庭审现场态度恶劣",
+      "onboard_time": 1728638421,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 19626,
