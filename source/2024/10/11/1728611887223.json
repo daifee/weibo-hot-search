@@ -1,0 +1,410 @@
+{
+  "runTime": 1728611887223,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1270943,
+        "num": 1270943,
+        "word": "95后研究员被暂停聘任关系",
+        "onboard_time": 1728605300,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 785181,
+        "num": 785181,
+        "word": "洪承汉将11月回归RIIZE",
+        "onboard_time": 1728609978,
+        "rank": 1,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 8490,
+        "num": 753369,
+        "word": "候鸟环球迁徙记",
+        "onboard_time": 1728565160,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 733935,
+        "num": 733935,
+        "word": "听泉鉴宝宣布短暂停播",
+        "onboard_time": 1728572060,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 591147,
+        "num": 591147,
+        "word": "鄂LD06335死死顶住失控车辆",
+        "onboard_time": 1728559342,
+        "rank": 4,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 559384,
+        "num": 559384,
+        "word": "王楚钦将捧花扔向了观众席",
+        "onboard_time": 1728603078,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 731732,
+        "num": 555095,
+        "word": "听泉鉴宝",
+        "onboard_time": 1728607400,
+        "rank": 6,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 728564,
+        "num": 547746,
+        "word": "SM确认洪承汉不退团",
+        "onboard_time": 1728609978,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 523852,
+        "num": 523852,
+        "word": "男子称母亲躺手术室医生讨要3000红包",
+        "onboard_time": 1728607879,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 259613,
+        "num": 431818,
+        "word": "房贷利率下调后一个月能省多少钱",
+        "onboard_time": 1728610518,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 681150,
+        "num": 411428,
+        "word": "娜扎央视镜头",
+        "onboard_time": 1728605120,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 616171,
+        "num": 404300,
+        "word": "张兰怼一路繁花节目组",
+        "onboard_time": 1728608180,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 385900,
+        "num": 385900,
+        "word": "宁静拍短剧",
+        "onboard_time": 1728606320,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 383670,
+        "num": 383670,
+        "word": "Jennie新歌",
+        "onboard_time": 1728606141,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 327284,
+        "num": 327284,
+        "word": "这种高仿板栗有毒千万别吃",
+        "onboard_time": 1728580274,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 341203,
+        "num": 317073,
+        "word": "韩剧造后者用重庆冒充首尔",
+        "onboard_time": 1728603618,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 301311,
+        "num": 301311,
+        "word": "颁奖时王皓笑得合不拢嘴",
+        "onboard_time": 1728610819,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 300154,
+        "num": 300154,
+        "word": "车主回应215万买到漏水迈巴赫",
+        "onboard_time": 1728601936,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270231,
+        "num": 270231,
+        "word": "考上师范学校却被人冒名顶替了",
+        "onboard_time": 1728571042,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250380,
+        "num": 250380,
+        "word": "重阳节",
+        "onboard_time": 1728603017,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 416034,
+        "num": 248254,
+        "word": "存了三个月朋友圈一次性发出后",
+        "onboard_time": 1728603137,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 390890,
+        "num": 246741,
+        "word": "狗狗生理期也需要被精心照顾",
+        "onboard_time": 1728610217,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 267139,
+        "num": 246207,
+        "word": "哈利波特全八部今起内地重映",
+        "onboard_time": 1728609679,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 241457,
+        "num": 241457,
+        "word": "孙颖莎退出亚锦赛",
+        "onboard_time": 1728558680,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 215814,
+        "num": 215814,
+        "word": "7人分工斗殴搞直播被行拘",
+        "onboard_time": 1728609140,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209168,
+        "num": 209168,
+        "word": "A股今日低开",
+        "onboard_time": 1728610879,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 197701,
+        "num": 197701,
+        "word": "鸿蒙版微信",
+        "onboard_time": 1728574160,
+        "rank": 26,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 196469,
+        "num": 196469,
+        "word": "肖指导是真的心疼孙颖莎",
+        "onboard_time": 1728603078,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 189854,
+        "num": 189854,
+        "word": "请查收重阳节的仪式感",
+        "onboard_time": 1728608959,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 174731,
+        "num": 174731,
+        "word": "今日重阳愿您安康",
+        "onboard_time": 1728609199,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165873,
+        "num": 165873,
+        "word": "未来三天可能发生大地磁暴",
+        "onboard_time": 1728560780,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161459,
+        "num": 161459,
+        "word": "极光",
+        "onboard_time": 1728610518,
+        "rank": 31,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 157690,
+        "num": 157690,
+        "word": "一路繁花",
+        "onboard_time": 1728611479,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151219,
+        "num": 151219,
+        "word": "男子莫名多出8张信用卡欠款百余万",
+        "onboard_time": 1728574041,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151162,
+        "num": 151162,
+        "word": "这竟然是翻糖做的",
+        "onboard_time": 1728611118,
+        "rank": 34,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 145973,
+        "num": 145973,
+        "word": "王楚钦总结男团夺冠",
+        "onboard_time": 1728605540,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143637,
+        "num": 143637,
+        "word": "现在的黑板已进化成这样了",
+        "onboard_time": 1728603798,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 142095,
+        "num": 142095,
+        "word": "王楚钦逆转太牛了",
+        "onboard_time": 1728602117,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131830,
+        "num": 131830,
+        "word": "王鹤棣也是闯进文旅赛道了",
+        "onboard_time": 1728606740,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131618,
+        "num": 131618,
+        "word": "苗疆陈朵朵再回应露营哀牢山",
+        "onboard_time": 1728585733,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130804,
+        "num": 130804,
+        "word": "奔跑吧兄弟",
+        "onboard_time": 1728607521,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130256,
+        "num": 130256,
+        "word": "网络女主播摆拍约架还用上了血胶囊",
+        "onboard_time": 1728590471,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129451,
+        "num": 129451,
+        "word": "关爱老人不止在重阳节这一天",
+        "onboard_time": 1728603859,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124439,
+        "num": 124439,
+        "word": "亚锦赛国乒男团冠军",
+        "onboard_time": 1728576921,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114993,
+        "num": 114993,
+        "word": "王楚钦庆祝手势",
+        "onboard_time": 1728603017,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 109389,
+        "num": 109389,
+        "word": "mantra",
+        "onboard_time": 1728607099,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 105781,
+        "num": 105781,
+        "word": "黎巴嫩首都遭袭击22死117伤",
+        "onboard_time": 1728603678,
+        "rank": 46,
+        "category": "国外时政,军事"
+      },
+      {
+        "raw_hot": 102493,
+        "num": 102493,
+        "word": "重阳节发条微博祝福长辈",
+        "onboard_time": 1728604820,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 101880,
+        "num": 101880,
+        "word": "王楚钦倒地爆冲回来了",
+        "onboard_time": 1728603859,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 101311,
+        "num": 101311,
+        "word": "陈芋汐时尚表现力",
+        "onboard_time": 1728605840,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向全国的老年人致以诚挚问候#"
+    }
+  }
+}

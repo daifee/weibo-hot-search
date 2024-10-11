@@ -1,6 +1,6 @@
 {
   "startTime": 1728577667934,
-  "endTime": 1728610881416,
+  "endTime": 1728611887223,
   "band_list": [
     {
       "raw_hot": 6465280,
@@ -67,6 +67,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 785181,
+      "num": 785181,
+      "word": "洪承汉将11月回归RIIZE",
+      "onboard_time": 1728609978,
+      "rank": 3,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 756959,
       "num": 756959,
       "word": "鸿蒙版微信",
@@ -83,12 +91,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 745276,
-      "num": 745276,
-      "word": "洪承汉将11月回归RIIZE",
-      "onboard_time": 1728609978,
-      "rank": 3,
-      "category": "音乐"
+      "raw_hot": 731732,
+      "num": 555095,
+      "word": "听泉鉴宝",
+      "onboard_time": 1728607400,
+      "rank": 7,
+      "category": "网红"
     },
     {
       "raw_hot": 728820,
@@ -97,6 +105,14 @@
       "onboard_time": 1728605120,
       "rank": 6,
       "category": "电影"
+    },
+    {
+      "raw_hot": 728564,
+      "num": 547746,
+      "word": "SM确认洪承汉不退团",
+      "onboard_time": 1728609978,
+      "rank": 16,
+      "category": "音乐"
     },
     {
       "raw_hot": 671506,
@@ -115,20 +131,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 650010,
-      "num": 528623,
-      "word": "听泉鉴宝",
-      "onboard_time": 1728607400,
-      "rank": 7,
-      "category": "网红"
-    },
-    {
       "raw_hot": 636830,
       "num": 377766,
       "word": "孙颖莎比赛时一直捏手臂",
       "onboard_time": 1728575838,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 616171,
+      "num": 441139,
+      "word": "张兰怼一路繁花节目组",
+      "onboard_time": 1728608180,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 607775,
@@ -139,19 +155,19 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 582244,
-      "num": 441139,
-      "word": "张兰怼一路繁花节目组",
-      "onboard_time": 1728608180,
-      "rank": 10,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 564464,
       "num": 564464,
       "word": "未来三天可能发生大地磁暴",
       "onboard_time": 1728560780,
       "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 523852,
+      "num": 523852,
+      "word": "男子称母亲躺手术室医生讨要3000红包",
+      "onboard_time": 1728607879,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -187,14 +203,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 445236,
-      "num": 445236,
-      "word": "男子称母亲躺手术室医生讨要3000红包",
-      "onboard_time": 1728607879,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 424262,
       "num": 424262,
       "word": "网友举报过期大米销往乡村学校",
@@ -219,6 +227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 390890,
+      "num": 246741,
+      "word": "狗狗生理期也需要被精心照顾",
+      "onboard_time": 1728610217,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 364673,
       "num": 364673,
       "word": "湖北一卫生院看病花29.78元收30元",
@@ -233,14 +249,6 @@
       "onboard_time": 1728571042,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 339784,
-      "num": 339784,
-      "word": "SM确认洪承汉不退团",
-      "onboard_time": 1728609978,
-      "rank": 16,
-      "category": "音乐"
     },
     {
       "raw_hot": 332605,
@@ -280,6 +288,14 @@
       "word": "王楚钦庆祝手势",
       "onboard_time": 1728603017,
       "rank": 15,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 301311,
+      "num": 301311,
+      "word": "颁奖时王皓笑得合不拢嘴",
+      "onboard_time": 1728610819,
+      "rank": 47,
       "category": "体育"
     },
     {
@@ -347,6 +363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 259613,
+      "num": 431818,
+      "word": "房贷利率下调后一个月能省多少钱",
+      "onboard_time": 1728610518,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 244976,
       "num": 244976,
       "word": "请查收重阳节的仪式感",
@@ -411,6 +435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 209168,
+      "num": 209168,
+      "word": "A股今日低开",
+      "onboard_time": 1728610879,
+      "rank": 25,
+      "category": "财经"
+    },
+    {
       "raw_hot": 199564,
       "num": 199564,
       "word": "王楚钦3比0拿下首盘",
@@ -449,14 +481,6 @@
       "onboard_time": 1728567080,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 178030,
-      "num": 178030,
-      "word": "狗狗生理期也需要被精心照顾",
-      "onboard_time": 1728610217,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 177946,
@@ -523,6 +547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 157690,
+      "num": 157690,
+      "word": "一路繁花",
+      "onboard_time": 1728611479,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 156166,
       "num": 156166,
       "word": "网传炒股断更作者复更了",
@@ -547,12 +579,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 146293,
-      "num": 178781,
-      "word": "房贷利率下调后一个月能省多少钱",
-      "onboard_time": 1728610518,
-      "rank": 29,
-      "category": "社会新闻"
+      "raw_hot": 151162,
+      "num": 151162,
+      "word": "这竟然是翻糖做的",
+      "onboard_time": 1728611118,
+      "rank": 34,
+      "category": "休闲"
     },
     {
       "raw_hot": 145354,
@@ -691,14 +723,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 116309,
-      "num": 116309,
-      "word": "颁奖时王皓笑得合不拢嘴",
-      "onboard_time": 1728610819,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 116001,
       "num": 116001,
       "word": "梁靖崑vs黄彦诚",
@@ -739,6 +763,14 @@
       "category": "国外时政,军事"
     },
     {
+      "raw_hot": 109389,
+      "num": 109389,
+      "word": "mantra",
+      "onboard_time": 1728607099,
+      "rank": 45,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 107905,
       "num": 107905,
       "word": "TES晋级S14八强",
@@ -769,6 +801,14 @@
       "onboard_time": 1728583213,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 102493,
+      "num": 102493,
+      "word": "重阳节发条微博祝福长辈",
+      "onboard_time": 1728604820,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 94989,

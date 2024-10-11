@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/10/01 00:28:17 ~ 2024/10/11 09:41:21
+本榜单时间：2024/10/01 00:28:17 ~ 2024/10/11 09:58:07
 </p>
 </blockquote>
 <p>
@@ -2193,6 +2193,12 @@ aespa（热度：832836）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B4%AA%E6%89%BF%E6%B1%89%E5%B0%8611%E6%9C%88%E5%9B%9E%E5%BD%92RIIZE%23" target="weibo">
+洪承汉将11月回归RIIZE（热度：785181）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%95%86%E5%9C%BA%E5%9B%9E%E5%BA%94%E7%94%B7%E5%8E%95%E7%8E%BB%E7%92%83%E7%A3%A8%E7%A0%82%E5%A5%B3%E5%8E%95%E9%80%8F%E6%98%8E%23" target="weibo">
 商场回应男厕玻璃磨砂女厕透明（热度：783506）
 </a>
@@ -2427,12 +2433,6 @@ HPV疫苗已降到20多元1支（热度：747235）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B4%AA%E6%89%BF%E6%B1%89%E5%B0%8611%E6%9C%88%E5%9B%9E%E5%BD%92RIIZE%23" target="weibo">
-洪承汉将11月回归RIIZE（热度：745276）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%93%80%E7%89%A2%E5%8F%A4%E5%9B%BD%23" target="weibo">
 哀牢古国（热度：744280）
 </a>
@@ -2505,6 +2505,12 @@ HPV疫苗已降到20多元1支（热度：747235）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%AC%E6%B3%89%E9%89%B4%E5%AE%9D%23" target="weibo">
+听泉鉴宝（热度：731732）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E9%97%B2%E9%80%9B%E6%97%B6%E8%A2%AB%E4%BC%8A%E6%9C%97%E5%AF%BC%E5%BC%B9%E7%A2%8E%E7%89%87%E7%A0%B8%E6%AD%BB%23" target="weibo">
 男子闲逛时被伊朗导弹碎片砸死（热度：730969）
 </a>
@@ -2525,6 +2531,12 @@ HPV疫苗已降到20多元1支（热度：747235）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A8%9C%E6%89%8E%E5%A4%AE%E8%A7%86%E9%95%9C%E5%A4%B4%23" target="weibo">
 娜扎央视镜头（热度：728820）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23SM%E7%A1%AE%E8%AE%A4%E6%B4%AA%E6%89%BF%E6%B1%89%E4%B8%8D%E9%80%80%E5%9B%A2%23" target="weibo">
+SM确认洪承汉不退团（热度：728564）
 </a>
 </li>
 
@@ -2925,12 +2937,6 @@ BLG（热度：663891）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%90%AC%E6%B3%89%E9%89%B4%E5%AE%9D%23" target="weibo">
-听泉鉴宝（热度：650010）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%86%8D%E6%AC%A1%E5%9B%9E%E5%BA%94%E5%8D%95%E6%89%93%E5%A4%B1%E5%88%A9%23" target="weibo">
 王楚钦再次回应单打失利（热度：647790）
 </a>
@@ -3189,6 +3195,12 @@ Minnie走秀（热度：616890）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%85%B0%E6%80%BC%E4%B8%80%E8%B7%AF%E7%B9%81%E8%8A%B1%E8%8A%82%E7%9B%AE%E7%BB%84%23" target="weibo">
+张兰怼一路繁花节目组（热度：616171）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%81%8B%E4%B8%8E%E6%B7%B1%E7%A9%BA%23" target="weibo">
 恋与深空（热度：616064）
 </a>
@@ -3419,12 +3431,6 @@ GEN战胜WBG（热度：588542）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E4%BA%BA%E4%BA%BA%E4%BA%BA%E8%BF%94%E7%A8%8B%E4%BA%BA%E4%BA%BA%E4%BA%BA%E4%BA%BA%23" target="weibo">
 人人人人返程人人人人（热度：583436）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%85%B0%E6%80%BC%E4%B8%80%E8%B7%AF%E7%B9%81%E8%8A%B1%E8%8A%82%E7%9B%AE%E7%BB%84%23" target="weibo">
-张兰怼一路繁花节目组（热度：582244）
 </a>
 </li>
 
@@ -3893,6 +3899,12 @@ GEN战胜WBG（热度：588542）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BE%88%E5%A4%9A%E6%A0%A1%E5%9B%AD%E9%9C%B8%E5%87%8C%E6%98%AF%E4%BB%8E%E6%AC%BA%E8%B4%9F%E5%BC%80%E5%A7%8B%E7%9A%84%23" target="weibo">
 很多校园霸凌是从欺负开始的（热度：524286）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%A7%B0%E6%AF%8D%E4%BA%B2%E8%BA%BA%E6%89%8B%E6%9C%AF%E5%AE%A4%E5%8C%BB%E7%94%9F%E8%AE%A8%E8%A6%813000%E7%BA%A2%E5%8C%85%23" target="weibo">
+男子称母亲躺手术室医生讨要3000红包（热度：523852）
 </a>
 </li>
 
@@ -4671,12 +4683,6 @@ A股半小时成交破万亿（热度：455160）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%A7%B0%E6%AF%8D%E4%BA%B2%E8%BA%BA%E6%89%8B%E6%9C%AF%E5%AE%A4%E5%8C%BB%E7%94%9F%E8%AE%A8%E8%A6%813000%E7%BA%A2%E5%8C%85%23" target="weibo">
-男子称母亲躺手术室医生讨要3000红包（热度：445236）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%232NE1%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
 2NE1演唱会（热度：444822）
 </a>
@@ -5237,6 +5243,12 @@ BIGBANG完整体出演MAMA（热度：392844）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%8D%E6%97%A6%E5%A4%A7%E5%AD%A6%E6%8E%A8%E8%8D%90%E4%BA%86%E7%8E%8B%E4%B8%80%E5%8D%9A%E7%BA%AA%E5%BD%95%E7%89%87%23" target="weibo">
 复旦大学推荐了王一博纪录片（热度：390991）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8B%97%E7%8B%97%E7%94%9F%E7%90%86%E6%9C%9F%E4%B9%9F%E9%9C%80%E8%A6%81%E8%A2%AB%E7%B2%BE%E5%BF%83%E7%85%A7%E9%A1%BE%23" target="weibo">
+狗狗生理期也需要被精心照顾（热度：390890）
 </a>
 </li>
 
@@ -5967,12 +5979,6 @@ WB零封AG（热度：346827）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23SM%E7%A1%AE%E8%AE%A4%E6%B4%AA%E6%89%BF%E6%B1%89%E4%B8%8D%E9%80%80%E5%9B%A2%23" target="weibo">
-SM确认洪承汉不退团（热度：339784）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%81%87%E6%9C%9F%E4%B8%80%E7%9C%A8%E7%9C%BC%E5%B0%B1%E7%BB%93%E6%9D%9F%E4%BA%86%23" target="weibo">
 为什么假期一眨眼就结束了（热度：339467）
 </a>
@@ -6005,12 +6011,6 @@ SM确认洪承汉不退团（热度：339784）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E5%BD%95%E5%8D%B8%E5%A6%86%E8%A7%86%E9%A2%91%23" target="weibo">
 赵露思录卸妆视频（热度：337558）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%90%91%E4%BD%90%E6%A8%A1%E4%BB%BF%E8%87%AA%E5%B7%B1%E6%91%B8%E9%BC%BB%E6%A2%81%23" target="weibo">
-向佐模仿自己摸鼻梁（热度：337363）
 </a>
 </li>
 
