@@ -1,0 +1,410 @@
+{
+  "runTime": 1728628275116,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1634027,
+        "num": 1634027,
+        "word": "余华英卖的第1个孩子是自己儿子",
+        "onboard_time": 1728617119,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 932782,
+        "num": 932782,
+        "word": "人贩子名字她从5岁记到30多岁",
+        "onboard_time": 1728620780,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22484,
+        "num": 675976,
+        "word": "首届中国广播电视精品创作大会",
+        "onboard_time": 1728613458,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 674429,
+        "num": 674429,
+        "word": "王源公开TFBOYS十周年朋友圈",
+        "onboard_time": 1728622402,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 487163,
+        "num": 487163,
+        "word": "被拐女孩梦到妈妈喊自己而记住名字",
+        "onboard_time": 1728616097,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 478643,
+        "num": 478643,
+        "word": "特斯拉发布会",
+        "onboard_time": 1728612859,
+        "rank": 5,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 462272,
+        "num": 462272,
+        "word": "A股",
+        "onboard_time": 1728612859,
+        "rank": 6,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 302006,
+        "num": 302006,
+        "word": "官方称人才库没有95后研究员这个人",
+        "onboard_time": 1728622462,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 271566,
+        "num": 271566,
+        "word": "闵熙珍公开ILLIT抄袭证据",
+        "onboard_time": 1728626119,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90327,
+        "num": 268039,
+        "word": "余华英拐卖儿童数从11名增至17名",
+        "onboard_time": 1728626297,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 713410,
+        "num": 267705,
+        "word": "沙溢瘦回白展堂",
+        "onboard_time": 1728623841,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 696104,
+        "num": 267572,
+        "word": "张雨绮男友首个综艺官宣",
+        "onboard_time": 1728622223,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 267297,
+        "num": 267297,
+        "word": "余华英被控拐卖儿童人数增至17人",
+        "onboard_time": 1728621021,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 440245,
+        "num": 254823,
+        "word": "10岁女儿患抑郁症后鸡娃妈妈觉醒了",
+        "onboard_time": 1728613157,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 327884,
+        "num": 254132,
+        "word": "听泉鉴宝",
+        "onboard_time": 1728607400,
+        "rank": 14,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 240092,
+        "num": 240092,
+        "word": "受害儿童和家属希望法院严惩余华英",
+        "onboard_time": 1728625700,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235115,
+        "num": 235115,
+        "word": "田志希关心孙颖莎状况",
+        "onboard_time": 1728626539,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 226675,
+        "num": 226675,
+        "word": "杨笠 最难听的话都对自己说过",
+        "onboard_time": 1728626060,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193378,
+        "num": 226514,
+        "word": "陶昕然演李清照",
+        "onboard_time": 1728626179,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156432,
+        "num": 225641,
+        "word": "虞书欣自嘲玩梗夹子音",
+        "onboard_time": 1728622101,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 418341,
+        "num": 225194,
+        "word": "8岁小孩姐给外公买300万迈巴赫",
+        "onboard_time": 1728624619,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 338609,
+        "num": 224237,
+        "word": "睡觉时为什么会突然抖一下",
+        "onboard_time": 1728626780,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 53659,
+        "num": 223309,
+        "word": "七夜雪直播 曾舜晞对着李沁撒娇",
+        "onboard_time": 1728623183,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 329106,
+        "num": 223084,
+        "word": "恋爱5年分手男子想要回每月工资",
+        "onboard_time": 1728625639,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155927,
+        "num": 222078,
+        "word": "刘忻cos伽罗",
+        "onboard_time": 1728626362,
+        "rank": 24,
+        "category": "综艺,电竞"
+      },
+      {
+        "raw_hot": 301545,
+        "num": 221263,
+        "word": "外婆搬我朋友圈图发朋友圈",
+        "onboard_time": 1728623002,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 298733,
+        "num": 221103,
+        "word": "买基金亏170万起诉银行获赔159万",
+        "onboard_time": 1728620720,
+        "rank": 26,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 176738,
+        "num": 220215,
+        "word": "肖战张婧仪藏海传草地路透",
+        "onboard_time": 1728622402,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142996,
+        "num": 219620,
+        "word": "于正说白鹿选了下一部剧",
+        "onboard_time": 1728626060,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27086,
+        "num": 219061,
+        "word": "林高远林诗栋3比0沙凡穆萨",
+        "onboard_time": 1728627439,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 218464,
+        "num": 218464,
+        "word": "哆啦A梦声优去世",
+        "onboard_time": 1728623660,
+        "rank": 30,
+        "category": "动漫,艺人"
+      },
+      {
+        "raw_hot": 198738,
+        "num": 198738,
+        "word": "王楚钦人在凳上坐球从天上来",
+        "onboard_time": 1728624501,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 185035,
+        "num": 185035,
+        "word": "A股三市下跌个股近4700只",
+        "onboard_time": 1728620240,
+        "rank": 32,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 182826,
+        "num": 182826,
+        "word": "余华英拐卖儿童案将依法择期宣判",
+        "onboard_time": 1728624200,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147991,
+        "num": 177747,
+        "word": "金莎任敏演母女",
+        "onboard_time": 1728627738,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175891,
+        "num": 175891,
+        "word": "周五遇上重阳节",
+        "onboard_time": 1728616759,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174565,
+        "num": 174565,
+        "word": "星穹铁道忘归人",
+        "onboard_time": 1728626420,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 173707,
+        "num": 173707,
+        "word": "kimi崩了",
+        "onboard_time": 1728619519,
+        "rank": 37,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 169666,
+        "num": 169666,
+        "word": "魏家凉皮被指预制菜",
+        "onboard_time": 1728623183,
+        "rank": 38,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 143222,
+        "num": 143222,
+        "word": "王皓谈做樊振东教练的感受",
+        "onboard_time": 1728615799,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 139877,
+        "num": 139877,
+        "word": "中方要求调查追责以军袭击联黎部队阵地",
+        "onboard_time": 1728618379,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137023,
+        "num": 137023,
+        "word": "宝妈第一次蒸馒头意外收获蘑菇",
+        "onboard_time": 1728620420,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129439,
+        "num": 129439,
+        "word": "酒店回应员工蹲新婚夫妻房外偷听",
+        "onboard_time": 1728627680,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125462,
+        "num": 125462,
+        "word": "唐嫣走秀像汪小姐创业成功",
+        "onboard_time": 1728622943,
+        "rank": 43,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 123980,
+        "num": 123980,
+        "word": "中国赴黎维和部队目前安全",
+        "onboard_time": 1728628099,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 117245,
+        "num": 117245,
+        "word": "原来糖炒栗子要买不开口的",
+        "onboard_time": 1728627499,
+        "rank": 45,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 114428,
+        "num": 114428,
+        "word": "王皓再谈三次奥运亚军",
+        "onboard_time": 1728624019,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113630,
+        "num": 113630,
+        "word": "男子称母亲躺手术室医生讨要3000红包",
+        "onboard_time": 1728607879,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112434,
+        "num": 112434,
+        "word": "女孩半岁失聪靠读唇语逆袭为博士后",
+        "onboard_time": 1728626000,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110609,
+        "num": 110609,
+        "word": "69岁爷爷靠二次元爆改走红",
+        "onboard_time": 1728623061,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#在新的起点上继续推动文化繁荣#"
+    }
+  }
+}

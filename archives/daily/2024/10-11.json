@@ -1,6 +1,6 @@
 {
   "startTime": 1728577667934,
-  "endTime": 1728625164093,
+  "endTime": 1728628275116,
   "band_list": [
     {
       "raw_hot": 6465280,
@@ -185,6 +185,14 @@
       "onboard_time": 1728609978,
       "rank": 16,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 713410,
+      "num": 267705,
+      "word": "沙溢瘦回白展堂",
+      "onboard_time": 1728623841,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 703774,
@@ -387,6 +395,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 418341,
+      "num": 225194,
+      "word": "8岁小孩姐给外公买300万迈巴赫",
+      "onboard_time": 1728624619,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 416789,
       "num": 502186,
       "word": "广州交警通报2人深夜飙车严重超速",
@@ -491,6 +507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 338609,
+      "num": 224237,
+      "word": "睡觉时为什么会突然抖一下",
+      "onboard_time": 1728626780,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 332605,
       "num": 332605,
       "word": "梁伟铿王昶vs林秉纬苏敬恒",
@@ -505,6 +529,14 @@
       "onboard_time": 1728567680,
       "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 329106,
+      "num": 223084,
+      "word": "恋爱5年分手男子想要回每月工资",
+      "onboard_time": 1728625639,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 325670,
@@ -627,6 +659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 271566,
+      "num": 271566,
+      "word": "闵熙珍公开ILLIT抄袭证据",
+      "onboard_time": 1728626119,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 270497,
       "num": 270497,
       "word": "恋与深空",
@@ -707,12 +747,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 240092,
+      "num": 240092,
+      "word": "受害儿童和家属希望法院严惩余华英",
+      "onboard_time": 1728625700,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 237926,
       "num": 237926,
       "word": "刘耀文摸宋亚轩头",
       "onboard_time": 1728576318,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 235115,
+      "num": 235115,
+      "word": "田志希关心孙颖莎状况",
+      "onboard_time": 1728626539,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 233051,
@@ -745,6 +801,14 @@
       "onboard_time": 1728623183,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 226675,
+      "num": 226675,
+      "word": "杨笠 最难听的话都对自己说过",
+      "onboard_time": 1728626060,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 224227,
@@ -803,14 +867,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 212073,
-      "num": 212073,
-      "word": "8岁小孩姐给外公买300万迈巴赫",
-      "onboard_time": 1728624619,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 211025,
       "num": 211025,
       "word": "听泉鉴宝30天涨粉近千万",
@@ -867,6 +923,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 198738,
+      "num": 198738,
+      "word": "王楚钦人在凳上坐球从天上来",
+      "onboard_time": 1728624501,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 197067,
       "num": 197067,
       "word": "摩羯真的太容易陷入内耗了",
@@ -881,6 +945,14 @@
       "onboard_time": 1728569003,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 193378,
+      "num": 226514,
+      "word": "陶昕然演李清照",
+      "onboard_time": 1728626179,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 191332,
@@ -939,12 +1011,12 @@
       "category": "自然"
     },
     {
-      "raw_hot": 185123,
-      "num": 185123,
-      "word": "王楚钦人在凳上坐球从天上来",
-      "onboard_time": 1728624501,
-      "rank": 34,
-      "category": "体育"
+      "raw_hot": 182826,
+      "num": 346867,
+      "word": "余华英拐卖儿童案将依法择期宣判",
+      "onboard_time": 1728624200,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 178444,
@@ -969,6 +1041,14 @@
       "onboard_time": 1728575899,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 174565,
+      "num": 174565,
+      "word": "星穹铁道忘归人",
+      "onboard_time": 1728626420,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 174156,
@@ -1059,6 +1139,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 155927,
+      "num": 222078,
+      "word": "刘忻cos伽罗",
+      "onboard_time": 1728626362,
+      "rank": 24,
+      "category": "综艺,电竞"
+    },
+    {
       "raw_hot": 154395,
       "num": 154395,
       "word": "马斯克回应特斯拉发布会推迟",
@@ -1131,20 +1219,20 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 147991,
+      "num": 177747,
+      "word": "金莎任敏演母女",
+      "onboard_time": 1728627738,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 145354,
       "num": 145354,
       "word": "江秋莲回应骗捐质疑",
       "onboard_time": 1728566240,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 144402,
-      "num": 257281,
-      "word": "沙溢瘦回白展堂",
-      "onboard_time": 1728623841,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 144258,
@@ -1169,6 +1257,14 @@
       "onboard_time": 1728619879,
       "rank": 49,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 142996,
+      "num": 219620,
+      "word": "于正说白鹿选了下一部剧",
+      "onboard_time": 1728626060,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 142364,
@@ -1275,6 +1371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 129439,
+      "num": 129439,
+      "word": "酒店回应员工蹲新婚夫妻房外偷听",
+      "onboard_time": 1728627680,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 129127,
       "num": 129127,
       "word": "男子用虎头蜂泡酒失手现场",
@@ -1297,6 +1401,14 @@
       "onboard_time": 1728615139,
       "rank": 42,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 123980,
+      "num": 123980,
+      "word": "中国赴黎维和部队目前安全",
+      "onboard_time": 1728628099,
+      "rank": 44,
+      "category": "国内时政"
     },
     {
       "raw_hot": 123026,
@@ -1355,6 +1467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 117245,
+      "num": 117245,
+      "word": "原来糖炒栗子要买不开口的",
+      "onboard_time": 1728627499,
+      "rank": 45,
+      "category": "美食"
+    },
+    {
       "raw_hot": 116001,
       "num": 116001,
       "word": "梁靖崑vs黄彦诚",
@@ -1401,6 +1521,14 @@
       "onboard_time": 1728603678,
       "rank": 35,
       "category": "国外时政,军事"
+    },
+    {
+      "raw_hot": 112434,
+      "num": 112434,
+      "word": "女孩半岁失聪靠读唇语逆袭为博士后",
+      "onboard_time": 1728626000,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 109389,
@@ -1467,6 +1595,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 90327,
+      "num": 268039,
+      "word": "余华英拐卖儿童数从11名增至17名",
+      "onboard_time": 1728626297,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 88099,
       "num": 480192,
       "word": "2024微博视界大会官宣",
@@ -1505,14 +1641,6 @@
       "onboard_time": 1728570381,
       "rank": 37,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 78774,
-      "num": 346867,
-      "word": "余华英拐卖儿童案将依法择期宣判",
-      "onboard_time": 1728624200,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 78514,
@@ -1723,6 +1851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 27086,
+      "num": 219061,
+      "word": "林高远林诗栋3比0沙凡穆萨",
+      "onboard_time": 1728627439,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 25877,
       "num": 492479,
       "word": "药企回应氢化可的松片供应难",
@@ -1833,6 +1969,9 @@
     },
     {
       "word": "#要把尊老敬老作为一种社会风尚#"
+    },
+    {
+      "word": "#在新的起点上继续推动文化繁荣#"
     }
   ]
 }
