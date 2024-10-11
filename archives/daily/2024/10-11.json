@@ -1,6 +1,6 @@
 {
   "startTime": 1728577667934,
-  "endTime": 1728615140404,
+  "endTime": 1728615718650,
   "band_list": [
     {
       "raw_hot": 6465280,
@@ -59,20 +59,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1096477,
+      "num": 1175436,
+      "word": "特斯拉发布会",
+      "onboard_time": 1728612859,
+      "rank": 0,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 1058013,
       "num": 1058013,
       "word": "听泉鉴宝宣布短暂停播",
       "onboard_time": 1728572060,
       "rank": 4,
       "category": "网红"
-    },
-    {
-      "raw_hot": 1052521,
-      "num": 1168403,
-      "word": "特斯拉发布会",
-      "onboard_time": 1728612859,
-      "rank": 0,
-      "category": "汽车"
     },
     {
       "raw_hot": 946505,
@@ -97,6 +97,14 @@
       "onboard_time": 1728610819,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 789940,
+      "num": 556063,
+      "word": "娜扎央视镜头",
+      "onboard_time": 1728605120,
+      "rank": 6,
+      "category": "电影"
     },
     {
       "raw_hot": 788138,
@@ -129,14 +137,6 @@
       "onboard_time": 1728574100,
       "rank": 11,
       "category": "体育"
-    },
-    {
-      "raw_hot": 746064,
-      "num": 556063,
-      "word": "娜扎央视镜头",
-      "onboard_time": 1728605120,
-      "rank": 6,
-      "category": "电影"
     },
     {
       "raw_hot": 728564,
@@ -187,8 +187,8 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 566146,
-      "num": 566146,
+      "raw_hot": 604143,
+      "num": 604143,
       "word": "A股",
       "onboard_time": 1728612859,
       "rank": 4,
@@ -217,6 +217,14 @@
       "onboard_time": 1728575779,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 511223,
+      "num": 388197,
+      "word": "韦雪模仿叶珂",
+      "onboard_time": 1728613818,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 488407,
@@ -281,14 +289,6 @@
       "onboard_time": 1728610217,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 388197,
-      "num": 388197,
-      "word": "韦雪模仿叶珂",
-      "onboard_time": 1728613818,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 364673,
@@ -387,6 +387,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 281300,
+      "num": 281300,
+      "word": "A股进入震荡模式",
+      "onboard_time": 1728613818,
+      "rank": 30,
+      "category": "财经"
+    },
+    {
       "raw_hot": 276437,
       "num": 276437,
       "word": "肖指导是真的心疼孙颖莎",
@@ -411,14 +419,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 262339,
-      "num": 252417,
-      "word": "A股进入震荡模式",
-      "onboard_time": 1728613818,
-      "rank": 30,
-      "category": "财经"
-    },
-    {
       "raw_hot": 260475,
       "num": 260475,
       "word": "重阳节",
@@ -427,8 +427,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 252134,
-      "num": 252134,
+      "raw_hot": 252823,
+      "num": 252823,
       "word": "穿正装但没说是什么正装",
       "onboard_time": 1728613339,
       "rank": 31,
@@ -457,6 +457,14 @@
       "onboard_time": 1728576318,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 237242,
+      "num": 177729,
+      "word": "王楚钦盛赞林诗栋",
+      "onboard_time": 1728615019,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 228531,
@@ -523,6 +531,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 188355,
+      "num": 502186,
+      "word": "广州交警通报2人深夜飙车严重超速",
+      "onboard_time": 1728614657,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 186154,
       "num": 186154,
       "word": "极光",
@@ -553,6 +569,14 @@
       "onboard_time": 1728573021,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 172169,
+      "num": 172169,
+      "word": "朴彩英首支OST",
+      "onboard_time": 1728615498,
+      "rank": 32,
+      "category": "音乐"
     },
     {
       "raw_hot": 170695,
@@ -635,12 +659,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 152986,
+      "num": 325751,
+      "word": "余华英从5户人家各拐走2个孩子",
+      "onboard_time": 1728613279,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 151358,
+      "num": 178160,
+      "word": "披荆斩棘",
+      "onboard_time": 1728615438,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 151162,
       "num": 151162,
       "word": "这竟然是翻糖做的",
       "onboard_time": 1728611118,
       "rank": 34,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 148786,
+      "num": 148786,
+      "word": "柠檬宝宝母亲谈孩子成长每天像偷来的",
+      "onboard_time": 1728615618,
+      "rank": 36,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 145354,
@@ -731,14 +779,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 129381,
-      "num": 129381,
-      "word": "王楚钦盛赞林诗栋",
-      "onboard_time": 1728615019,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 129127,
       "num": 129127,
       "word": "男子用虎头蜂泡酒失手现场",
@@ -755,6 +795,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 124958,
+      "num": 124958,
+      "word": "特斯拉发布会 还没开始",
+      "onboard_time": 1728615139,
+      "rank": 42,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 123026,
       "num": 123026,
       "word": "年轻人借网贷炒股苗头值得警惕",
@@ -769,6 +817,14 @@
       "onboard_time": 1728594671,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 121896,
+      "num": 121896,
+      "word": "黄景瑜除八害",
+      "onboard_time": 1728615560,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 120870,
@@ -803,6 +859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 118314,
+      "num": 118314,
+      "word": "湖人vs雄鹿",
+      "onboard_time": 1728615378,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 116001,
       "num": 116001,
       "word": "梁靖崑vs黄彦诚",
@@ -817,6 +881,14 @@
       "onboard_time": 1728605840,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 113946,
+      "num": 844512,
+      "word": "重阳节为爸妈做7件事儿",
+      "onboard_time": 1728614418,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 113472,
@@ -841,14 +913,6 @@
       "onboard_time": 1728603678,
       "rank": 35,
       "category": "国外时政,军事"
-    },
-    {
-      "raw_hot": 110805,
-      "num": 502186,
-      "word": "广州交警通报2人深夜飙车严重超速",
-      "onboard_time": 1728614657,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 109389,
@@ -915,14 +979,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 91212,
-      "num": 844512,
-      "word": "重阳节为爸妈做7件事儿",
-      "onboard_time": 1728614418,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 88042,
       "num": 88042,
       "word": "对抗抑郁最好的运动方式",
@@ -931,12 +987,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 86246,
-      "num": 325751,
-      "word": "余华英从5户人家各拐走2个孩子",
-      "onboard_time": 1728613279,
-      "rank": 18,
-      "category": "社会新闻"
+      "raw_hot": 83989,
+      "num": 461715,
+      "word": "特斯拉发布会 推迟",
+      "onboard_time": 1728614657,
+      "rank": 12,
+      "category": "汽车"
     },
     {
       "raw_hot": 80500,
@@ -1019,14 +1075,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 50835,
-      "num": 461715,
-      "word": "特斯拉发布会 推迟",
-      "onboard_time": 1728614657,
-      "rank": 12,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 47235,
       "num": 47235,
       "word": "第五人格",
@@ -1051,19 +1099,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 40284,
+      "num": 442593,
+      "word": "可喜安门店员工称床垫能给鸡蛋排毒",
+      "onboard_time": 1728614057,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 34707,
       "num": 253110,
       "word": "人贩余华英再次受审",
       "onboard_time": 1728613578,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 32312,
-      "num": 442593,
-      "word": "可喜安门店员工称床垫能给鸡蛋排毒",
-      "onboard_time": 1728614057,
-      "rank": 13,
       "category": "社会新闻"
     },
     {
