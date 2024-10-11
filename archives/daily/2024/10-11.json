@@ -1,6 +1,6 @@
 {
   "startTime": 1728577667934,
-  "endTime": 1728603341206,
+  "endTime": 1728610881416,
   "band_list": [
     {
       "raw_hot": 6465280,
@@ -25,6 +25,14 @@
       "onboard_time": 1728577460,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1357417,
+      "num": 1357417,
+      "word": "95后研究员被暂停聘任关系",
+      "onboard_time": 1728605300,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1312860,
@@ -75,12 +83,44 @@
       "category": "体育"
     },
     {
+      "raw_hot": 745276,
+      "num": 745276,
+      "word": "洪承汉将11月回归RIIZE",
+      "onboard_time": 1728609978,
+      "rank": 3,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 728820,
+      "num": 556063,
+      "word": "娜扎央视镜头",
+      "onboard_time": 1728605120,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
       "raw_hot": 671506,
       "num": 671506,
       "word": "国乒男团vs中国台北",
       "onboard_time": 1728566780,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 662177,
+      "num": 662177,
+      "word": "王楚钦将捧花扔向了观众席",
+      "onboard_time": 1728603078,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 650010,
+      "num": 528623,
+      "word": "听泉鉴宝",
+      "onboard_time": 1728607400,
+      "rank": 7,
+      "category": "网红"
     },
     {
       "raw_hot": 636830,
@@ -91,12 +131,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 568752,
-      "num": 568752,
+      "raw_hot": 607775,
+      "num": 607775,
       "word": "鄂LD06335死死顶住失控车辆",
       "onboard_time": 1728559342,
       "rank": 7,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 582244,
+      "num": 441139,
+      "word": "张兰怼一路繁花节目组",
+      "onboard_time": 1728608180,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 564464,
@@ -115,12 +163,36 @@
       "category": "体育"
     },
     {
-      "raw_hot": 484757,
-      "num": 306863,
-      "word": "王楚钦将捧花扔向了观众席",
-      "onboard_time": 1728603078,
-      "rank": 10,
-      "category": "体育"
+      "raw_hot": 488407,
+      "num": 259886,
+      "word": "存了三个月朋友圈一次性发出后",
+      "onboard_time": 1728603137,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 456274,
+      "num": 456274,
+      "word": "宁静拍短剧",
+      "onboard_time": 1728606320,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 452300,
+      "num": 433341,
+      "word": "韩剧造后者用重庆冒充首尔",
+      "onboard_time": 1728603618,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 445236,
+      "num": 445236,
+      "word": "男子称母亲躺手术室医生讨要3000红包",
+      "onboard_time": 1728607879,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 424262,
@@ -131,12 +203,44 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 418632,
+      "num": 418632,
+      "word": "Jennie新歌",
+      "onboard_time": 1728606141,
+      "rank": 12,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 401545,
+      "num": 401545,
+      "word": "车主回应215万买到漏水迈巴赫",
+      "onboard_time": 1728601936,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 364673,
       "num": 364673,
       "word": "湖北一卫生院看病花29.78元收30元",
       "onboard_time": 1728571940,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 345307,
+      "num": 345307,
+      "word": "考上师范学校却被人冒名顶替了",
+      "onboard_time": 1728571042,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 339784,
+      "num": 339784,
+      "word": "SM确认洪承汉不退团",
+      "onboard_time": 1728609978,
+      "rank": 16,
+      "category": "音乐"
     },
     {
       "raw_hot": 332605,
@@ -160,14 +264,6 @@
       "word": "网络女主播摆拍约架还用上了血胶囊",
       "onboard_time": 1728590471,
       "rank": 35,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 307570,
-      "num": 307570,
-      "word": "考上师范学校却被人冒名顶替了",
-      "onboard_time": 1728571042,
-      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -203,6 +299,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 296464,
+      "num": 296464,
+      "word": "今日重阳愿您安康",
+      "onboard_time": 1728609199,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 286754,
       "num": 555034,
       "word": "倪妮杂志封面是真蛇",
@@ -219,12 +323,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 273558,
+      "num": 259667,
+      "word": "哈利波特全八部今起内地重映",
+      "onboard_time": 1728609679,
+      "rank": 21,
+      "category": "电影"
+    },
+    {
       "raw_hot": 264991,
       "num": 264991,
       "word": "原来很多人的洗澡顺序错了",
       "onboard_time": 1728560902,
       "rank": 22,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 260475,
+      "num": 260475,
+      "word": "重阳节",
+      "onboard_time": 1728603017,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 244976,
+      "num": 244976,
+      "word": "请查收重阳节的仪式感",
+      "onboard_time": 1728608959,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 242691,
@@ -241,6 +369,14 @@
       "onboard_time": 1728576318,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 228531,
+      "num": 228531,
+      "word": "7人分工斗殴搞直播被行拘",
+      "onboard_time": 1728609140,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 221138,
@@ -275,28 +411,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 208164,
-      "num": 304640,
-      "word": "车主回应215万买到漏水迈巴赫",
-      "onboard_time": 1728601936,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 199564,
       "num": 199564,
       "word": "王楚钦3比0拿下首盘",
       "onboard_time": 1728576921,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 196299,
-      "num": 196299,
-      "word": "存了三个月朋友圈一次性发出后",
-      "onboard_time": 1728603137,
-      "rank": 25,
-      "category": "情感"
     },
     {
       "raw_hot": 195362,
@@ -315,12 +435,28 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 186154,
+      "num": 186154,
+      "word": "极光",
+      "onboard_time": 1728610518,
+      "rank": 28,
+      "category": "自然"
+    },
+    {
       "raw_hot": 178444,
       "num": 294108,
       "word": "迪丽热巴陈飞宇花海吻戏",
       "onboard_time": 1728567080,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 178030,
+      "num": 178030,
+      "word": "狗狗生理期也需要被精心照顾",
+      "onboard_time": 1728610217,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 177946,
@@ -339,14 +475,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 171075,
-      "num": 171075,
-      "word": "重阳节",
-      "onboard_time": 1728603017,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 170695,
       "num": 178142,
       "word": "广西人在美国卖螺蛳粉生意爆火",
@@ -355,12 +483,44 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 161185,
-      "num": 161185,
+      "raw_hot": 168219,
+      "num": 168219,
+      "word": "王楚钦倒地爆冲回来了",
+      "onboard_time": 1728603859,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 165983,
+      "num": 165983,
       "word": "男子莫名多出8张信用卡欠款百余万",
       "onboard_time": 1728574041,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 165897,
+      "num": 165897,
+      "word": "现在的黑板已进化成这样了",
+      "onboard_time": 1728603798,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 159932,
+      "num": 159932,
+      "word": "奔跑吧兄弟",
+      "onboard_time": 1728607521,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 159645,
+      "num": 159645,
+      "word": "王楚钦总结男团夺冠",
+      "onboard_time": 1728605540,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 156166,
@@ -387,6 +547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 146293,
+      "num": 178781,
+      "word": "房贷利率下调后一个月能省多少钱",
+      "onboard_time": 1728610518,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 145354,
       "num": 145354,
       "word": "江秋莲回应骗捐质疑",
@@ -409,6 +577,14 @@
       "onboard_time": 1728577637,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 141538,
+      "num": 141538,
+      "word": "关爱老人不止在重阳节这一天",
+      "onboard_time": 1728603859,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 141315,
@@ -451,12 +627,36 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 133966,
+      "num": 133966,
+      "word": "王鹤棣也是闯进文旅赛道了",
+      "onboard_time": 1728606740,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 133631,
       "num": 133631,
       "word": "孩子得精神病是在替家庭生病吗",
       "onboard_time": 1728582314,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 129127,
+      "num": 129127,
+      "word": "男子用虎头蜂泡酒失手现场",
+      "onboard_time": 1728603558,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 125164,
+      "num": 125164,
+      "word": "炉石传说",
+      "onboard_time": 1728608120,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 120870,
@@ -491,11 +691,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 116309,
+      "num": 116309,
+      "word": "颁奖时王皓笑得合不拢嘴",
+      "onboard_time": 1728610819,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 116001,
       "num": 116001,
       "word": "梁靖崑vs黄彦诚",
       "onboard_time": 1728571701,
       "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 115558,
+      "num": 115558,
+      "word": "陈芋汐时尚表现力",
+      "onboard_time": 1728605840,
+      "rank": 48,
       "category": "体育"
     },
     {
@@ -513,6 +729,14 @@
       "onboard_time": 1728573081,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 112591,
+      "num": 161233,
+      "word": "黎巴嫩首都遭袭击22死117伤",
+      "onboard_time": 1728603678,
+      "rank": 35,
+      "category": "国外时政,军事"
     },
     {
       "raw_hot": 107905,
@@ -553,6 +777,14 @@
       "onboard_time": 1728565400,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 93203,
+      "num": 118152,
+      "word": "黎首都市区一晚遭以军2次袭击",
+      "onboard_time": 1728609140,
+      "rank": 45,
+      "category": "国外时政"
     },
     {
       "raw_hot": 88042,

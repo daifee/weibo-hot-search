@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1728603341206,
+  "endTime": 1728610881416,
   "band_list": [
     {
       "raw_hot": 13027302,
@@ -1032,6 +1032,14 @@
       "word": "哀牢山人类禁区遭爆改人类景区",
       "onboard_time": 1728179838,
       "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1357417,
+      "num": 1357417,
+      "word": "95后研究员被暂停聘任关系",
+      "onboard_time": 1728605300,
+      "rank": 0,
       "category": "社会新闻"
     },
     {
@@ -3211,6 +3219,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 745276,
+      "num": 745276,
+      "word": "洪承汉将11月回归RIIZE",
+      "onboard_time": 1728609978,
+      "rank": 3,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 744280,
       "num": 381248,
       "word": "哀牢古国",
@@ -3329,6 +3345,14 @@
       "onboard_time": 1727852177,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 728820,
+      "num": 556063,
+      "word": "娜扎央视镜头",
+      "onboard_time": 1728605120,
+      "rank": 6,
+      "category": "电影"
     },
     {
       "raw_hot": 727594,
@@ -3779,6 +3803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 662177,
+      "num": 662177,
+      "word": "王楚钦将捧花扔向了观众席",
+      "onboard_time": 1728603078,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 660090,
       "num": 314036,
       "word": "黑神话取景地小西天被喊差评",
@@ -3849,6 +3881,14 @@
       "onboard_time": 1728204017,
       "rank": 16,
       "category": "演出"
+    },
+    {
+      "raw_hot": 650010,
+      "num": 528623,
+      "word": "听泉鉴宝",
+      "onboard_time": 1728607400,
+      "rank": 7,
+      "category": "网红"
     },
     {
       "raw_hot": 647790,
@@ -4505,6 +4545,14 @@
       "onboard_time": 1728221238,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 582244,
+      "num": 441139,
+      "word": "张兰怼一路繁花节目组",
+      "onboard_time": 1728608180,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 581573,
@@ -5563,6 +5611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 488407,
+      "num": 259886,
+      "word": "存了三个月朋友圈一次性发出后",
+      "onboard_time": 1728603137,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 486841,
       "num": 486841,
       "word": "朴山多拉晒YG家族合照没有Jennie",
@@ -5601,14 +5657,6 @@
       "onboard_time": 1728351679,
       "rank": 48,
       "category": "财经"
-    },
-    {
-      "raw_hot": 484757,
-      "num": 306863,
-      "word": "王楚钦将捧花扔向了观众席",
-      "onboard_time": 1728603078,
-      "rank": 10,
-      "category": "体育"
     },
     {
       "raw_hot": 483196,
@@ -5971,6 +6019,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 456274,
+      "num": 456274,
+      "word": "宁静拍短剧",
+      "onboard_time": 1728606320,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 456169,
       "num": 276471,
       "word": "景区缆车门被大风吹开致游客坠落",
@@ -6041,6 +6097,14 @@
       "onboard_time": 1728096977,
       "rank": 39,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 452300,
+      "num": 433341,
+      "word": "韩剧造后者用重庆冒充首尔",
+      "onboard_time": 1728603618,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 451287,
@@ -6145,6 +6209,14 @@
       "onboard_time": 1728559342,
       "rank": 22,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 445236,
+      "num": 445236,
+      "word": "男子称母亲躺手术室医生讨要3000红包",
+      "onboard_time": 1728607879,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 444822,
@@ -6451,6 +6523,14 @@
       "category": "社会新闻,健康医疗"
     },
     {
+      "raw_hot": 418632,
+      "num": 418632,
+      "word": "Jennie新歌",
+      "onboard_time": 1728606141,
+      "rank": 12,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 417655,
       "num": 417655,
       "word": "26岁研究员带宝剑护送2000多件文物",
@@ -6696,6 +6776,14 @@
       "word": "南昌烟花",
       "onboard_time": 1727785639,
       "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 401545,
+      "num": 401545,
+      "word": "车主回应215万买到漏水迈巴赫",
+      "onboard_time": 1728601936,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -7851,6 +7939,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 339784,
+      "num": 339784,
+      "word": "SM确认洪承汉不退团",
+      "onboard_time": 1728609978,
+      "rank": 16,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 339467,
       "num": 363487,
       "word": "为什么假期一眨眼就结束了",
@@ -8955,6 +9051,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 296464,
+      "num": 296464,
+      "word": "今日重阳愿您安康",
+      "onboard_time": 1728609199,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 296297,
       "num": 296297,
       "word": "马龙采访被儿子打断",
@@ -9835,6 +9939,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 273558,
+      "num": 259667,
+      "word": "哈利波特全八部今起内地重映",
+      "onboard_time": 1728609679,
+      "rank": 21,
+      "category": "电影"
+    },
+    {
       "raw_hot": 273500,
       "num": 246973,
       "word": "为啥街边烤鸭只要25块",
@@ -10361,6 +10473,14 @@
       "onboard_time": 1728271757,
       "rank": 44,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 260475,
+      "num": 260475,
+      "word": "重阳节",
+      "onboard_time": 1728603017,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 260325,
@@ -10945,6 +11065,14 @@
       "onboard_time": 1728378199,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 244976,
+      "num": 244976,
+      "word": "请查收重阳节的仪式感",
+      "onboard_time": 1728608959,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 244859,
@@ -11689,6 +11817,14 @@
       "onboard_time": 1728132259,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 228531,
+      "num": 228531,
+      "word": "7人分工斗殴搞直播被行拘",
+      "onboard_time": 1728609140,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 228379,
@@ -12835,14 +12971,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 208164,
-      "num": 304640,
-      "word": "车主回应215万买到漏水迈巴赫",
-      "onboard_time": 1728601936,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 208007,
       "num": 208007,
       "word": "诺贝尔物理学奖 计算机",
@@ -13913,14 +14041,6 @@
       "onboard_time": 1727781798,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 196299,
-      "num": 196299,
-      "word": "存了三个月朋友圈一次性发出后",
-      "onboard_time": 1728603137,
-      "rank": 25,
-      "category": "情感"
     },
     {
       "raw_hot": 196266,
@@ -15011,6 +15131,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 186154,
+      "num": 186154,
+      "word": "极光",
+      "onboard_time": 1728610518,
+      "rank": 28,
+      "category": "自然"
+    },
+    {
       "raw_hot": 185769,
       "num": 185769,
       "word": "沪指开盘涨0.58%",
@@ -15731,6 +15859,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 178030,
+      "num": 178030,
+      "word": "狗狗生理期也需要被精心照顾",
+      "onboard_time": 1728610217,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 177946,
       "num": 425507,
       "word": "广水卫健局让卫生院退回多收的0.22元",
@@ -16435,14 +16571,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 171075,
-      "num": 171075,
-      "word": "重阳节",
-      "onboard_time": 1728603017,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 171010,
       "num": 199646,
       "word": "港股飘红",
@@ -16657,6 +16785,14 @@
       "onboard_time": 1728542540,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 168219,
+      "num": 168219,
+      "word": "王楚钦倒地爆冲回来了",
+      "onboard_time": 1728603859,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 168172,
@@ -16969,6 +17105,14 @@
       "onboard_time": 1728564260,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 165897,
+      "num": 165897,
+      "word": "现在的黑板已进化成这样了",
+      "onboard_time": 1728603798,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 165797,
@@ -17491,6 +17635,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 159932,
+      "num": 159932,
+      "word": "奔跑吧兄弟",
+      "onboard_time": 1728607521,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 159908,
       "num": 159908,
       "word": "教授爬房40年整理上万件古建图纸",
@@ -17513,6 +17665,14 @@
       "onboard_time": 1727931677,
       "rank": 34,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 159645,
+      "num": 159645,
+      "word": "王楚钦总结男团夺冠",
+      "onboard_time": 1728605540,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 159612,
@@ -19139,6 +19299,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 146293,
+      "num": 178781,
+      "word": "房贷利率下调后一个月能省多少钱",
+      "onboard_time": 1728610518,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 146228,
       "num": 146228,
       "word": "S14瑞士轮",
@@ -19665,6 +19833,14 @@
       "onboard_time": 1728213501,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 141538,
+      "num": 141538,
+      "word": "关爱老人不止在重阳节这一天",
+      "onboard_time": 1728603859,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 141518,
@@ -20667,6 +20843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 133966,
+      "num": 133966,
+      "word": "王鹤棣也是闯进文旅赛道了",
+      "onboard_time": 1728606740,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 133822,
       "num": 133822,
       "word": "尤长靖队长综合排名第一",
@@ -21331,6 +21515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 129127,
+      "num": 129127,
+      "word": "男子用虎头蜂泡酒失手现场",
+      "onboard_time": 1728603558,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 129096,
       "num": 129096,
       "word": "谢可寅音乐节新歌首唱",
@@ -21833,6 +22025,14 @@
       "onboard_time": 1727794103,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 125164,
+      "num": 227129,
+      "word": "炉石传说",
+      "onboard_time": 1727804174,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 125154,
@@ -22747,6 +22947,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 116309,
+      "num": 116309,
+      "word": "颁奖时王皓笑得合不拢嘴",
+      "onboard_time": 1728610819,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 116091,
       "num": 116091,
       "word": "杭州萧山人开吃年夜饭了",
@@ -22825,6 +23033,14 @@
       "onboard_time": 1728132681,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 115558,
+      "num": 115558,
+      "word": "陈芋汐时尚表现力",
+      "onboard_time": 1728605840,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 115494,
@@ -23161,6 +23377,14 @@
       "onboard_time": 1728051080,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 112591,
+      "num": 161233,
+      "word": "黎巴嫩首都遭袭击22死117伤",
+      "onboard_time": 1728603678,
+      "rank": 35,
+      "category": "国外时政,军事"
     },
     {
       "raw_hot": 112560,
@@ -25201,6 +25425,14 @@
       "onboard_time": 1728144019,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 93203,
+      "num": 118152,
+      "word": "黎首都市区一晚遭以军2次袭击",
+      "onboard_time": 1728609140,
+      "rank": 45,
+      "category": "国外时政"
     },
     {
       "raw_hot": 93202,
@@ -27873,14 +28105,6 @@
       "onboard_time": 1728393081,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 52219,
-      "num": 227129,
-      "word": "炉石传说",
-      "onboard_time": 1727804174,
-      "rank": 47,
-      "category": "游戏"
     },
     {
       "raw_hot": 52020,
