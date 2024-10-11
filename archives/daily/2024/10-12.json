@@ -1,6 +1,6 @@
 {
   "startTime": 1728664067735,
-  "endTime": 1728679130431,
+  "endTime": 1728681860243,
   "band_list": [
     {
       "raw_hot": 1319783,
@@ -467,6 +467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 40975,
+      "num": 40975,
+      "word": "名校留学生开始扎堆做留学中介",
+      "onboard_time": 1728675311,
+      "rank": 29,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 38404,
       "num": 38404,
       "word": "双11开放麦",
@@ -515,14 +523,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 29340,
-      "num": 29340,
-      "word": "名校留学生开始扎堆做留学中介",
-      "onboard_time": 1728675311,
-      "rank": 29,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 26973,
       "num": 80420,
       "word": "赵子健被暂停聘任",
@@ -563,7 +563,31 @@
       "category": "体育"
     },
     {
-      "raw_hot": 15970,
+      "raw_hot": 19592,
+      "num": 19592,
+      "word": "孩子走失立即报警不用等24小时",
+      "onboard_time": 1728679270,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 18931,
+      "num": 30178,
+      "word": "普京与伊朗总统举行会谈",
+      "onboard_time": 1728681191,
+      "rank": 23,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 18600,
+      "num": 31106,
+      "word": "一定要让父母知道的5种养老骗局",
+      "onboard_time": 1728679090,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 17923,
       "num": 38764,
       "word": "杨妞花称余华英将责任都推给情夫",
       "onboard_time": 1728677531,
@@ -585,14 +609,6 @@
       "onboard_time": 1728674532,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 14970,
-      "num": 25177,
-      "word": "一定要让父母知道的5种养老骗局",
-      "onboard_time": 1728679090,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 4838,
