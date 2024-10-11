@@ -1,6 +1,6 @@
 {
   "startTime": 1728664067735,
-  "endTime": 1728665000028,
+  "endTime": 1728667177691,
   "band_list": [
     {
       "raw_hot": 1319783,
@@ -43,6 +43,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 505270,
+      "num": 530860,
+      "word": "付鹏称现在对于居民部门就干三件事",
+      "onboard_time": 1728662478,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 472611,
       "num": 160493,
       "word": "考公的尽头到底是什么",
@@ -59,16 +67,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 356491,
-      "num": 356491,
-      "word": "付鹏称现在对于居民部门就干三件事",
-      "onboard_time": 1728662478,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 344037,
-      "num": 180153,
+      "num": 225342,
       "word": "王楚钦vs林兆恒",
       "onboard_time": 1728661998,
       "rank": 14,
@@ -80,6 +80,14 @@
       "word": "女子睡觉碰到宠物狗被扑上身撕咬",
       "onboard_time": 1728660021,
       "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 325330,
+      "num": 325330,
+      "word": "男童骑行摔倒被碾案司机已取保候审",
+      "onboard_time": 1728661281,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -105,14 +113,6 @@
       "onboard_time": 1728658521,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 268258,
-      "num": 268258,
-      "word": "男童骑行摔倒被碾案司机已取保候审",
-      "onboard_time": 1728661281,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 262456,
@@ -259,6 +259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 104025,
+      "num": 161109,
+      "word": "家属回应男孩骑行被碾案司机获取保",
+      "onboard_time": 1728662238,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 101770,
       "num": 101770,
       "word": "唐艺昕染粉发了",
@@ -289,14 +297,6 @@
       "onboard_time": 1728660319,
       "rank": 39,
       "category": "财经"
-    },
-    {
-      "raw_hot": 100701,
-      "num": 161109,
-      "word": "家属回应男孩骑行被碾案司机获取保",
-      "onboard_time": 1728662238,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 98847,
@@ -355,6 +355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 82628,
+      "num": 82628,
+      "word": "花19.8万可获95后研究员同款博士后",
+      "onboard_time": 1728665416,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 81161,
       "num": 158935,
       "word": "苏醒参加快男的原因找到了",
@@ -409,6 +417,30 @@
       "onboard_time": 1728653300,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 49199,
+      "num": 50662,
+      "word": "章泽天造型师回应胸针传言",
+      "onboard_time": 1728647121,
+      "rank": 43,
+      "category": "艺人,作品衍生"
+    },
+    {
+      "raw_hot": 45599,
+      "num": 50655,
+      "word": "Jennie新歌空降Melon6位",
+      "onboard_time": 1728666494,
+      "rank": 45,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 27419,
+      "num": 112323,
+      "word": "杨妞花称靠记忆中父母的爱走到今天",
+      "onboard_time": 1728665956,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 24798,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/10/06 00:26:13 ~ 2024/10/12 00:43:20
+本榜单时间：2024/10/06 00:26:13 ~ 2024/10/12 01:19:37
 </p>
 </blockquote>
 <p>
@@ -2661,6 +2661,12 @@ Jennie逆应援（热度：520772）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BB%98%E9%B9%8F%E7%A7%B0%E7%8E%B0%E5%9C%A8%E5%AF%B9%E4%BA%8E%E5%B1%85%E6%B0%91%E9%83%A8%E9%97%A8%E5%B0%B1%E5%B9%B2%E4%B8%89%E4%BB%B6%E4%BA%8B%23" target="weibo">
+付鹏称现在对于居民部门就干三件事（热度：505270）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E8%B0%88%E9%80%86%E8%BD%AC%E6%88%98%E8%83%9C%E6%9C%9D%E9%B2%9C%E9%98%9F%23" target="weibo">
 孙颖莎谈逆转战胜朝鲜队（热度：504839）
 </a>
@@ -3909,12 +3915,6 @@ Hanni决定出席国会监查（热度：357881）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BB%98%E9%B9%8F%E7%A7%B0%E7%8E%B0%E5%9C%A8%E5%AF%B9%E4%BA%8E%E5%B1%85%E6%B0%91%E9%83%A8%E9%97%A8%E5%B0%B1%E5%B9%B2%E4%B8%89%E4%BB%B6%E4%BA%8B%23" target="weibo">
-付鹏称现在对于居民部门就干三件事（热度：356491）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%9F%E5%BC%9F%E8%83%8C%E5%A7%90%E5%A7%90%E5%87%BA%E5%AB%81%E8%BF%98%E6%B2%A1%E5%87%BA%E9%97%A8%E5%B0%B1%E9%81%AD%E7%BF%BB%E8%BD%A6%23" target="weibo">
 弟弟背姐姐出嫁还没出门就遭翻车（热度：355876）
 </a>
@@ -4247,6 +4247,12 @@ A股今日低开（热度：325670）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%8A%E6%97%A5%E5%AF%92%E9%9C%B2%23" target="weibo">
 今日寒露（热度：325436）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%AB%A5%E9%AA%91%E8%A1%8C%E6%91%94%E5%80%92%E8%A2%AB%E7%A2%BE%E6%A1%88%E5%8F%B8%E6%9C%BA%E5%B7%B2%E5%8F%96%E4%BF%9D%E5%80%99%E5%AE%A1%23" target="weibo">
+男童骑行摔倒被碾案司机已取保候审（热度：325330）
 </a>
 </li>
 
@@ -5093,12 +5099,6 @@ A股究竟是一波流还是牛市起点（热度：276199）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E7%82%92%E8%82%A1%E6%96%AD%E6%9B%B4%E4%BD%9C%E8%80%85%E5%A4%8D%E6%9B%B4%E4%BA%86%23" target="weibo">
 网传炒股断更作者复更了（热度：268571）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%AB%A5%E9%AA%91%E8%A1%8C%E6%91%94%E5%80%92%E8%A2%AB%E7%A2%BE%E6%A1%88%E5%8F%B8%E6%9C%BA%E5%B7%B2%E5%8F%96%E4%BF%9D%E5%80%99%E5%AE%A1%23" target="weibo">
-男童骑行摔倒被碾案司机已取保候审（热度：268258）
 </a>
 </li>
 
@@ -11415,6 +11415,12 @@ A股明天正式开盘（热度：104138）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%B6%E5%B1%9E%E5%9B%9E%E5%BA%94%E7%94%B7%E5%AD%A9%E9%AA%91%E8%A1%8C%E8%A2%AB%E7%A2%BE%E6%A1%88%E5%8F%B8%E6%9C%BA%E8%8E%B7%E5%8F%96%E4%BF%9D%23" target="weibo">
+家属回应男孩骑行被碾案司机获取保（热度：104025）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E7%B4%AB%E8%96%87%E5%B7%B2%E4%B8%8D%E5%9C%A8%E7%90%86%E6%83%B3%E9%A3%9E%E4%B9%A6%E9%80%9A%E8%AE%AF%E5%BD%95%E4%B8%AD%23" target="weibo">
 宋紫薇已不在理想飞书通讯录中（热度：103979）
 </a>
@@ -11501,12 +11507,6 @@ DK现在笑不出来了吧（热度：101186）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A9%B9%E5%A7%86%E6%96%AF%E5%84%BF%E5%AD%90%E6%8C%96%E5%9D%91%E8%80%81%E5%AD%90%E5%A1%AB%23" target="weibo">
 詹姆斯儿子挖坑老子填（热度：100757）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%B6%E5%B1%9E%E5%9B%9E%E5%BA%94%E7%94%B7%E5%AD%A9%E9%AA%91%E8%A1%8C%E8%A2%AB%E7%A2%BE%E6%A1%88%E5%8F%B8%E6%9C%BA%E8%8E%B7%E5%8F%96%E4%BF%9D%23" target="weibo">
-家属回应男孩骑行被碾案司机获取保（热度：100701）
 </a>
 </li>
 
@@ -12071,6 +12071,12 @@ WBG和BLG需连赢两场（热度：83969）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%A4%E4%BA%BA%E7%AC%94%E4%B8%8B%E7%9A%84%E6%B5%AA%E6%BC%AB%E7%A7%8B%E6%84%8F%23" target="weibo">
 古人笔下的浪漫秋意（热度：82642）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8A%B119.8%E4%B8%87%E5%8F%AF%E8%8E%B795%E5%90%8E%E7%A0%94%E7%A9%B6%E5%91%98%E5%90%8C%E6%AC%BE%E5%8D%9A%E5%A3%AB%E5%90%8E%23" target="weibo">
+花19.8万可获95后研究员同款博士后（热度：82628）
 </a>
 </li>
 
@@ -13059,6 +13065,12 @@ A股与港股的跷跷板效应是为何（热度：51499）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23Jennie%E6%96%B0%E6%AD%8C%E7%A9%BA%E9%99%8DMelon6%E4%BD%8D%23" target="weibo">
+Jennie新歌空降Melon6位（热度：45599）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%96%91%E5%8A%A0%E6%B2%99%E7%94%B7%E5%AD%90%E7%97%9B%E5%A4%B111%E5%90%8D%E5%85%84%E5%BC%9F%E5%90%8E%E5%86%8D%E5%90%AC%E5%99%A9%E8%80%97%23" target="weibo">
 疑加沙男子痛失11名兄弟后再听噩耗（热度：45571）
 </a>
@@ -13889,6 +13901,12 @@ UA引领fitcheck运动混搭新趋势（热度：28064）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E7%82%B9%E8%B5%9E%23" target="weibo">
 为中国航天点赞（热度：27545）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%A6%9E%E8%8A%B1%E7%A7%B0%E9%9D%A0%E8%AE%B0%E5%BF%86%E4%B8%AD%E7%88%B6%E6%AF%8D%E7%9A%84%E7%88%B1%E8%B5%B0%E5%88%B0%E4%BB%8A%E5%A4%A9%23" target="weibo">
+杨妞花称靠记忆中父母的爱走到今天（热度：27419）
 </a>
 </li>
 
