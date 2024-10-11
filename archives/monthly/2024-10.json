@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1728678201210,
+  "endTime": 1728679130431,
   "band_list": [
     {
       "raw_hot": 13027302,
@@ -34185,6 +34185,14 @@
       "onboard_time": 1728674532,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 14970,
+      "num": 25177,
+      "word": "一定要让父母知道的5种养老骗局",
+      "onboard_time": 1728679090,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 14939,
