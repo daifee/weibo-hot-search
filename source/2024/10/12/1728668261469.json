@@ -1,0 +1,410 @@
+{
+  "runTime": 1728668261469,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 509170,
+        "num": 509170,
+        "word": "樊振东说输给费德勒不丢人",
+        "onboard_time": 1728660800,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 397815,
+        "num": 397815,
+        "word": "付鹏称现在对于居民部门就干三件事",
+        "onboard_time": 1728662478,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2789,
+        "num": 290577,
+        "word": "首届中国广播电视精品创作大会",
+        "onboard_time": 1728613458,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 287277,
+        "num": 287277,
+        "word": "家属回应男孩骑行被碾案司机获取保",
+        "onboard_time": 1728662238,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228582,
+        "num": 228582,
+        "word": "男童骑行摔倒被碾案司机已取保候审",
+        "onboard_time": 1728661281,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178796,
+        "num": 178796,
+        "word": "王楚钦vs林兆恒",
+        "onboard_time": 1728661998,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 101109,
+        "num": 101109,
+        "word": "李梦签约乐华娱乐",
+        "onboard_time": 1728650480,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99330,
+        "num": 99330,
+        "word": "哀牢山没有蟒蛇但有毒蛇",
+        "onboard_time": 1728653720,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 70070,
+        "num": 98835,
+        "word": "伯远又输给了喻言",
+        "onboard_time": 1728659661,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 40150,
+        "num": 98477,
+        "word": "余华英拐卖儿童长达11年",
+        "onboard_time": 1728667394,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142468,
+        "num": 97101,
+        "word": "费德勒陈奕迅vs樊振东张之臻",
+        "onboard_time": 1728651741,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 304770,
+        "num": 96901,
+        "word": "女儿被拐后妈妈疯了爸爸自杀了",
+        "onboard_time": 1728653120,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 279506,
+        "num": 95977,
+        "word": "男孩骑行被碾压案司机已重获自由",
+        "onboard_time": 1728657741,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254643,
+        "num": 95205,
+        "word": "听泉鉴宝最恐怖的一集",
+        "onboard_time": 1728647900,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 130310,
+        "num": 94527,
+        "word": "理记回应实名举报江秋莲骗捐8年",
+        "onboard_time": 1728649460,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 93882,
+        "num": 93882,
+        "word": "BLG战胜PSG",
+        "onboard_time": 1728660921,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 82245,
+        "num": 82245,
+        "word": "花19.8万可获95后研究员同款博士后",
+        "onboard_time": 1728665416,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 67062,
+        "num": 81174,
+        "word": "周柯宇直播",
+        "onboard_time": 1728659958,
+        "rank": 17,
+        "category": "综艺,电竞"
+      },
+      {
+        "raw_hot": 61182,
+        "num": 80681,
+        "word": "周雨彤发文告别韩苏",
+        "onboard_time": 1728656840,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 58726,
+        "num": 80647,
+        "word": "心动7女嘉宾女团既视感",
+        "onboard_time": 1728659182,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 80613,
+        "num": 80613,
+        "word": "张若昀唐艺昕带娃逛故宫",
+        "onboard_time": 1728648921,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 272243,
+        "num": 79118,
+        "word": "内蒙古发现一具女尸手脚被捆绑",
+        "onboard_time": 1728640460,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124306,
+        "num": 76372,
+        "word": "考公的尽头到底是什么",
+        "onboard_time": 1728657801,
+        "rank": 22,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 111920,
+        "num": 75928,
+        "word": "女子睡觉碰到宠物狗被扑上身撕咬",
+        "onboard_time": 1728660021,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108734,
+        "num": 72894,
+        "word": "猫的反应是猫的七倍",
+        "onboard_time": 1728662478,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 86817,
+        "num": 70058,
+        "word": "4天大新生儿医院照蓝光期间死亡",
+        "onboard_time": 1728648740,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 69680,
+        "num": 69680,
+        "word": "林诗栋决胜局17比15",
+        "onboard_time": 1728658521,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 69027,
+        "num": 69027,
+        "word": "ON在干嘛",
+        "onboard_time": 1728658701,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 66939,
+        "num": 66939,
+        "word": "樊振东 ACE",
+        "onboard_time": 1728657441,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 52508,
+        "num": 65854,
+        "word": "杨妞花说余华英庭审现场态度恶劣",
+        "onboard_time": 1728655522,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 65581,
+        "num": 65581,
+        "word": "男子爱吃火锅双膝病变无法行走",
+        "onboard_time": 1728648499,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 62145,
+        "num": 62145,
+        "word": "医院称医生索要3000元专家费是误会",
+        "onboard_time": 1728658882,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 62134,
+        "num": 62134,
+        "word": "霍思燕携10只狗8只鸡拍封面",
+        "onboard_time": 1728635901,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 46873,
+        "num": 54730,
+        "word": "武艺的画 干垃圾",
+        "onboard_time": 1728660981,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 53958,
+        "num": 53958,
+        "word": "余华英将罪责都推到丈夫和情夫身上",
+        "onboard_time": 1728656781,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36436,
+        "num": 53651,
+        "word": "杨妞花称靠记忆中父母的爱走到今天",
+        "onboard_time": 1728665956,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 53571,
+        "num": 53571,
+        "word": "唐艺昕染粉发了",
+        "onboard_time": 1728652160,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 52451,
+        "num": 52451,
+        "word": "郑钦文晋级武网四强",
+        "onboard_time": 1728653300,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 51941,
+        "num": 51941,
+        "word": "男子不爱社交长期不说话致语言退化",
+        "onboard_time": 1728641420,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50257,
+        "num": 50257,
+        "word": "二房东涨租遭拒后连夜清空店铺",
+        "onboard_time": 1728645080,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50031,
+        "num": 50031,
+        "word": "夫妻调监控找婚戒发现被酒店员工偷窥",
+        "onboard_time": 1728667633,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 48896,
+        "num": 48896,
+        "word": "男子工作电脑藏64G色情视频被开除",
+        "onboard_time": 1728639081,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46895,
+        "num": 46895,
+        "word": "章泽天造型师回应胸针传言",
+        "onboard_time": 1728647121,
+        "rank": 42,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 44184,
+        "num": 46892,
+        "word": "余华英拿滚烫的水浇到5岁女孩头上",
+        "onboard_time": 1728635301,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41882,
+        "num": 46888,
+        "word": "BLG对战PSG",
+        "onboard_time": 1728656302,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 41632,
+        "num": 46886,
+        "word": "魏大勋给孟宴臣庆生",
+        "onboard_time": 1728652640,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 41405,
+        "num": 46880,
+        "word": "Jennie新歌空降Melon6位",
+        "onboard_time": 1728666494,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 38375,
+        "num": 46874,
+        "word": "中金公司被证监会立案",
+        "onboard_time": 1728660319,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 38206,
+        "num": 46870,
+        "word": "杨妞花微博发声",
+        "onboard_time": 1728658041,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37769,
+        "num": 46863,
+        "word": "时光音乐会",
+        "onboard_time": 1728663917,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#重阳节重温总书记敬老爱老暖心话#"
+    }
+  }
+}
