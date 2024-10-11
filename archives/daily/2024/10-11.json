@@ -1,6 +1,6 @@
 {
   "startTime": 1728577667934,
-  "endTime": 1728653259173,
+  "endTime": 1728654031463,
   "band_list": [
     {
       "raw_hot": 6465280,
@@ -59,8 +59,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1603669,
-      "num": 369813,
+      "raw_hot": 1704036,
+      "num": 377392,
       "word": "江西景德镇一家三口被撞身亡",
       "onboard_time": 1728650782,
       "rank": 14,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 1369067,
-      "num": 369062,
+      "num": 376713,
       "word": "听泉鉴宝最恐怖的一集",
       "onboard_time": 1728647900,
       "rank": 10,
@@ -139,8 +139,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1158954,
-      "num": 1185432,
+      "raw_hot": 1217741,
+      "num": 1217741,
       "word": "李梦签约乐华娱乐",
       "onboard_time": 1728650480,
       "rank": 49,
@@ -153,6 +153,14 @@
       "onboard_time": 1728580274,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1139057,
+      "num": 1139057,
+      "word": "王楚钦3比0胜塔希尔",
+      "onboard_time": 1728651921,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 1058013,
@@ -185,14 +193,6 @@
       "onboard_time": 1728607400,
       "rank": 7,
       "category": "网红"
-    },
-    {
-      "raw_hot": 993833,
-      "num": 993833,
-      "word": "王楚钦3比0胜塔希尔",
-      "onboard_time": 1728651921,
-      "rank": 1,
-      "category": "体育"
     },
     {
       "raw_hot": 946505,
@@ -228,7 +228,7 @@
     },
     {
       "raw_hot": 825647,
-      "num": 367735,
+      "num": 374743,
       "word": "4天大新生儿医院照蓝光期间死亡",
       "onboard_time": 1728648740,
       "rank": 12,
@@ -316,7 +316,7 @@
     },
     {
       "raw_hot": 716573,
-      "num": 367448,
+      "num": 368929,
       "word": "张若昀唐艺昕带娃逛故宫",
       "onboard_time": 1728648921,
       "rank": 11,
@@ -329,6 +329,22 @@
       "onboard_time": 1728622462,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 692193,
+      "num": 692193,
+      "word": "郑钦文VS保利尼",
+      "onboard_time": 1728642740,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 686964,
+      "num": 686964,
+      "word": "郑钦文晋级武网四强",
+      "onboard_time": 1728653300,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 686018,
@@ -465,6 +481,14 @@
       "onboard_time": 1728647121,
       "rank": 15,
       "category": "艺人,作品衍生"
+    },
+    {
+      "raw_hot": 522773,
+      "num": 522773,
+      "word": "费德勒陈奕迅vs樊振东张之臻",
+      "onboard_time": 1728651741,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 521487,
@@ -667,6 +691,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 403365,
+      "num": 403365,
+      "word": "春花焰定档",
+      "onboard_time": 1728652281,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 401545,
       "num": 401545,
       "word": "车主回应215万买到漏水迈巴赫",
@@ -705,14 +737,6 @@
       "onboard_time": 1728610217,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 389392,
-      "num": 389392,
-      "word": "费德勒陈奕迅vs樊振东张之臻",
-      "onboard_time": 1728651741,
-      "rank": 7,
-      "category": "体育"
     },
     {
       "raw_hot": 388912,
@@ -777,14 +801,6 @@
       "onboard_time": 1728623002,
       "rank": 23,
       "category": "情感"
-    },
-    {
-      "raw_hot": 366819,
-      "num": 366819,
-      "word": "郑钦文VS保利尼",
-      "onboard_time": 1728642740,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 364673,
@@ -875,14 +891,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 324843,
-      "num": 374187,
-      "word": "春花焰定档",
-      "onboard_time": 1728652281,
-      "rank": 8,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 320694,
       "num": 320694,
       "word": "刘亦菲送张靓颖蝴蝶戒指",
@@ -915,6 +923,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 309857,
+      "num": 309857,
+      "word": "唐艺昕染粉发了",
+      "onboard_time": 1728652160,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 305629,
       "num": 305629,
       "word": "花215万买奔驰漏水折损近80万",
@@ -937,14 +953,6 @@
       "onboard_time": 1728637881,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 302623,
-      "num": 302623,
-      "word": "唐艺昕染粉发了",
-      "onboard_time": 1728652160,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 302067,
@@ -1075,6 +1083,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 268792,
+      "num": 268792,
+      "word": "男子爱吃火锅双膝病变无法行走",
+      "onboard_time": 1728648499,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 266763,
       "num": 266763,
       "word": "特斯拉人形机器人",
@@ -1091,8 +1107,8 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 263035,
-      "num": 263035,
+      "raw_hot": 264644,
+      "num": 264644,
       "word": "理记回应实名举报江秋莲骗捐8年",
       "onboard_time": 1728649460,
       "rank": 19,
@@ -1195,6 +1211,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 235883,
+      "num": 275661,
+      "word": "魏大勋给孟宴臣庆生",
+      "onboard_time": 1728652640,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 235115,
       "num": 235115,
       "word": "田志希关心孙颖莎状况",
@@ -1225,14 +1249,6 @@
       "onboard_time": 1728615498,
       "rank": 32,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 230424,
-      "num": 230424,
-      "word": "男子爱吃火锅双膝病变无法行走",
-      "onboard_time": 1728648499,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 228531,
@@ -1363,6 +1379,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 204966,
+      "num": 204966,
+      "word": "AG对战WE",
+      "onboard_time": 1728653720,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 204171,
       "num": 204171,
       "word": "余华英作案时用年幼女儿当拐卖幌子",
@@ -1443,14 +1467,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 199557,
-      "num": 252230,
-      "word": "魏大勋给孟宴臣庆生",
-      "onboard_time": 1728652640,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 198738,
       "num": 198738,
       "word": "王楚钦人在凳上坐球从天上来",
@@ -1523,12 +1539,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 194780,
+      "num": 194780,
+      "word": "王楚钦晋级亚锦赛男单32强",
+      "onboard_time": 1728653241,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 194226,
       "num": 406157,
       "word": "于适出战聚星名人赛",
       "onboard_time": 1728644299,
       "rank": 16,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 193930,
+      "num": 193930,
+      "word": "哀牢山没有蟒蛇但有毒蛇",
+      "onboard_time": 1728653720,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 191546,
@@ -1587,6 +1619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 189125,
+      "num": 265393,
+      "word": "尚雯婕回应法语姐姐怎么讲",
+      "onboard_time": 1728652582,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 188870,
       "num": 188870,
       "word": "王鹤棣闪回到夏天",
@@ -1609,6 +1649,14 @@
       "onboard_time": 1728646220,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 187000,
+      "num": 264777,
+      "word": "半熟男女根本不够看",
+      "onboard_time": 1728653002,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 186866,
@@ -1649,14 +1697,6 @@
       "onboard_time": 1728649580,
       "rank": 29,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 183639,
-      "num": 251177,
-      "word": "尚雯婕回应法语姐姐怎么讲",
-      "onboard_time": 1728652582,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 182826,
@@ -1745,6 +1785,14 @@
       "onboard_time": 1728573919,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 168932,
+      "num": 168932,
+      "word": "KPL",
+      "onboard_time": 1728652761,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 168219,
@@ -1836,7 +1884,7 @@
     },
     {
       "raw_hot": 161430,
-      "num": 161430,
+      "num": 269896,
       "word": "大学生涌入小猿口算平台pk小学生",
       "onboard_time": 1728653181,
       "rank": 42,
@@ -1896,6 +1944,14 @@
       "word": "网传炒股断更作者复更了",
       "onboard_time": 1728573140,
       "rank": 35,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 155971,
+      "num": 155971,
+      "word": "A股连续8天成交额破万亿",
+      "onboard_time": 1728651381,
+      "rank": 48,
       "category": "财经"
     },
     {
@@ -2099,6 +2155,22 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 141813,
+      "num": 141813,
+      "word": "杨妞花讲述余华英拐卖案重审细节",
+      "onboard_time": 1728639859,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 141711,
+      "num": 373685,
+      "word": "女儿被拐后妈妈疯了爸爸自杀了",
+      "onboard_time": 1728653120,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 141538,
       "num": 141538,
       "word": "关爱老人不止在重阳节这一天",
@@ -2123,14 +2195,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 140031,
-      "num": 140031,
-      "word": "半熟男女根本不够看",
-      "onboard_time": 1728653002,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 138821,
       "num": 138821,
       "word": "8银行因贷款资金入股市被罚",
@@ -2145,6 +2209,14 @@
       "onboard_time": 1728576861,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 138166,
+      "num": 138166,
+      "word": "A股下跌你敢抄底吗",
+      "onboard_time": 1728651321,
+      "rank": 47,
+      "category": "财经"
     },
     {
       "raw_hot": 138075,
@@ -2185,14 +2257,6 @@
       "onboard_time": 1728574640,
       "rank": 41,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 135132,
-      "num": 135132,
-      "word": "A股连续8天成交额破万亿",
-      "onboard_time": 1728651381,
-      "rank": 48,
-      "category": "财经"
     },
     {
       "raw_hot": 133966,
@@ -2353,14 +2417,6 @@
       "onboard_time": 1728640820,
       "rank": 49,
       "category": "情感,休闲"
-    },
-    {
-      "raw_hot": 123623,
-      "num": 123623,
-      "word": "王楚钦晋级亚锦赛男单32强",
-      "onboard_time": 1728653241,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 123026,
@@ -2875,11 +2931,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 43942,
-      "num": 368551,
-      "word": "女儿被拐后妈妈疯了爸爸自杀了",
-      "onboard_time": 1728653120,
-      "rank": 13,
+      "raw_hot": 43953,
+      "num": 370151,
+      "word": "杨妞花讲述余华英庭审细节",
+      "onboard_time": 1728652042,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -2911,6 +2967,14 @@
       "num": 45145,
       "word": "见过放羊的没见过放狼的",
       "onboard_time": 1728594971,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 41287,
+      "num": 372638,
+      "word": "95后研究员部分社会职务花钱就有",
+      "onboard_time": 1728652281,
       "rank": 14,
       "category": "社会新闻"
     },
@@ -3000,22 +3064,6 @@
       "word": "多家电商平台依然有烟卡在售",
       "onboard_time": 1728636801,
       "rank": 20,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 34503,
-      "num": 368066,
-      "word": "95后研究员部分社会职务花钱就有",
-      "onboard_time": 1728652281,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 34398,
-      "num": 370151,
-      "word": "杨妞花讲述余华英庭审细节",
-      "onboard_time": 1728652042,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -3147,6 +3195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 25723,
+      "num": 368414,
+      "word": "严屹宽 偶像剧的脸喜剧的肢体",
+      "onboard_time": 1728653120,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 23274,
       "num": 550078,
       "word": "直击余华英拐卖儿童案",
@@ -3249,14 +3305,6 @@
       "onboard_time": 1728585492,
       "rank": 26,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 11513,
-      "num": 366887,
-      "word": "严屹宽 偶像剧的脸喜剧的肢体",
-      "onboard_time": 1728653120,
-      "rank": 17,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [
@@ -3274,6 +3322,9 @@
     },
     {
       "word": "#重阳节重温总书记敬老爱老暖心话#"
+    },
+    {
+      "word": "#一定要让老年人有一个幸福的晚年#"
     }
   ]
 }

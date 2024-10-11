@@ -1,0 +1,410 @@
+{
+  "runTime": 1728654031463,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1217741,
+        "num": 1217741,
+        "word": "李梦签约乐华娱乐",
+        "onboard_time": 1728650480,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1139057,
+        "num": 1139057,
+        "word": "王楚钦3比0胜塔希尔",
+        "onboard_time": 1728651921,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 11748,
+        "num": 787614,
+        "word": "首届中国广播电视精品创作大会",
+        "onboard_time": 1728613458,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 692193,
+        "num": 692193,
+        "word": "郑钦文VS保利尼",
+        "onboard_time": 1728642740,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 686964,
+        "num": 686964,
+        "word": "郑钦文晋级武网四强",
+        "onboard_time": 1728653300,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 682182,
+        "num": 682182,
+        "word": "樊振东网球首秀",
+        "onboard_time": 1728643279,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 529376,
+        "num": 529376,
+        "word": "余华英拿滚烫的水浇到5岁女孩头上",
+        "onboard_time": 1728635301,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 522773,
+        "num": 522773,
+        "word": "费德勒陈奕迅vs樊振东张之臻",
+        "onboard_time": 1728651741,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 403365,
+        "num": 403365,
+        "word": "春花焰定档",
+        "onboard_time": 1728652281,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 378519,
+        "num": 378519,
+        "word": "余华英卖的第1个孩子是自己儿子",
+        "onboard_time": 1728617119,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1704036,
+        "num": 377392,
+        "word": "江西景德镇一家三口被撞身亡",
+        "onboard_time": 1728650782,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1111150,
+        "num": 376713,
+        "word": "听泉鉴宝最恐怖的一集",
+        "onboard_time": 1728647900,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 756117,
+        "num": 374743,
+        "word": "4天大新生儿医院照蓝光期间死亡",
+        "onboard_time": 1728648740,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141711,
+        "num": 373685,
+        "word": "女儿被拐后妈妈疯了爸爸自杀了",
+        "onboard_time": 1728653120,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41287,
+        "num": 372638,
+        "word": "95后研究员部分社会职务花钱就有",
+        "onboard_time": 1728652281,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 367232,
+        "num": 370960,
+        "word": "王楚钦vs塔希尔",
+        "onboard_time": 1728647780,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 589997,
+        "num": 368929,
+        "word": "张若昀唐艺昕带娃逛故宫",
+        "onboard_time": 1728648921,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25723,
+        "num": 368414,
+        "word": "严屹宽 偶像剧的脸喜剧的肢体",
+        "onboard_time": 1728653120,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 367537,
+        "num": 367537,
+        "word": "早餐店老板拿出50万给顾客退卡中余额",
+        "onboard_time": 1728643219,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22064,
+        "num": 336968,
+        "word": "过期大米卖给学校五大疑问需解答",
+        "onboard_time": 1728653002,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 43953,
+        "num": 323240,
+        "word": "杨妞花讲述余华英庭审细节",
+        "onboard_time": 1728652042,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 978247,
+        "num": 317742,
+        "word": "内蒙古发现一具女尸手脚被捆绑",
+        "onboard_time": 1728640460,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 309857,
+        "num": 309857,
+        "word": "唐艺昕染粉发了",
+        "onboard_time": 1728652160,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 235883,
+        "num": 275661,
+        "word": "魏大勋给孟宴臣庆生",
+        "onboard_time": 1728652640,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136421,
+        "num": 269896,
+        "word": "大学生涌入小猿口算平台pk小学生",
+        "onboard_time": 1728653181,
+        "rank": 24,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 268792,
+        "num": 268792,
+        "word": "男子爱吃火锅双膝病变无法行走",
+        "onboard_time": 1728648499,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 266575,
+        "num": 266575,
+        "word": "二房东涨租遭拒后连夜清空店铺",
+        "onboard_time": 1728645080,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189125,
+        "num": 265393,
+        "word": "尚雯婕回应法语姐姐怎么讲",
+        "onboard_time": 1728652582,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187000,
+        "num": 264777,
+        "word": "半熟男女根本不够看",
+        "onboard_time": 1728653002,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154917,
+        "num": 264704,
+        "word": "春花焰",
+        "onboard_time": 1728650360,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 264644,
+        "num": 264644,
+        "word": "理记回应实名举报江秋莲骗捐8年",
+        "onboard_time": 1728649460,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243092,
+        "num": 243092,
+        "word": "男子工作电脑藏64G色情视频被开除",
+        "onboard_time": 1728639081,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227969,
+        "num": 227969,
+        "word": "章泽天造型师回应胸针传言",
+        "onboard_time": 1728647121,
+        "rank": 32,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 212971,
+        "num": 212971,
+        "word": "男子不爱社交长期不说话致语言退化",
+        "onboard_time": 1728641420,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135693,
+        "num": 208615,
+        "word": "哈利波特",
+        "onboard_time": 1728644482,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 204966,
+        "num": 204966,
+        "word": "AG对战WE",
+        "onboard_time": 1728653720,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 194780,
+        "num": 194780,
+        "word": "王楚钦晋级亚锦赛男单32强",
+        "onboard_time": 1728653241,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 193930,
+        "num": 193930,
+        "word": "哀牢山没有蟒蛇但有毒蛇",
+        "onboard_time": 1728653720,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185133,
+        "num": 185133,
+        "word": "霍思燕携10只狗8只鸡拍封面",
+        "onboard_time": 1728635901,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168932,
+        "num": 168932,
+        "word": "KPL",
+        "onboard_time": 1728652761,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 168783,
+        "num": 168783,
+        "word": "50多岁男子公交上猥亵8岁女童",
+        "onboard_time": 1728637881,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155971,
+        "num": 155971,
+        "word": "A股连续8天成交额破万亿",
+        "onboard_time": 1728651381,
+        "rank": 41,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 155745,
+        "num": 155745,
+        "word": "独库公路为何冬季要封闭",
+        "onboard_time": 1728650299,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148457,
+        "num": 148457,
+        "word": "G2对战T1",
+        "onboard_time": 1728648318,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 207642,
+        "num": 147671,
+        "word": "余华英",
+        "onboard_time": 1728623061,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141813,
+        "num": 141813,
+        "word": "杨妞花讲述余华英拐卖案重审细节",
+        "onboard_time": 1728639859,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140683,
+        "num": 140683,
+        "word": "女程序员上班积极下班忧郁确诊抑郁",
+        "onboard_time": 1728646220,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138166,
+        "num": 138166,
+        "word": "A股下跌你敢抄底吗",
+        "onboard_time": 1728651321,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 113951,
+        "num": 137328,
+        "word": "央视重阳晚会",
+        "onboard_time": 1728652342,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137085,
+        "num": 137085,
+        "word": "花牛果好小众的水果",
+        "onboard_time": 1728651981,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#一定要让老年人有一个幸福的晚年#"
+    }
+  }
+}
