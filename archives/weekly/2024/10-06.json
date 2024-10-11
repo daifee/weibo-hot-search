@@ -1,6 +1,6 @@
 {
   "startTime": 1728145573126,
-  "endTime": 1728643250729,
+  "endTime": 1728645562354,
   "band_list": [
     {
       "raw_hot": 13027302,
@@ -1016,6 +1016,14 @@
       "word": "山西2岁走失死亡女童妈妈再发声",
       "onboard_time": 1728205279,
       "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1166751,
+      "num": 1186680,
+      "word": "男子不爱社交长期不说话致语言退化",
+      "onboard_time": 1728641420,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -2243,6 +2251,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 743896,
+      "num": 743896,
+      "word": "樊振东网球首秀",
+      "onboard_time": 1728643279,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 743279,
       "num": 743279,
       "word": "四川户籍和身份证业务暂停办理",
@@ -3395,6 +3411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 498112,
+      "num": 498112,
+      "word": "猿辅导回应大学生涌入平台pk小学生",
+      "onboard_time": 1728639979,
+      "rank": 30,
+      "category": "互联网,教育"
+    },
+    {
       "raw_hot": 498000,
       "num": 352763,
       "word": "韦雪新男友颜值",
@@ -3552,6 +3576,14 @@
       "word": "余华英",
       "onboard_time": 1728623061,
       "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 481811,
+      "num": 481811,
+      "word": "杨妞花",
+      "onboard_time": 1728639859,
+      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -4939,6 +4971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 358868,
+      "num": 358868,
+      "word": "海康威视大规模裁员",
+      "onboard_time": 1728641180,
+      "rank": 24,
+      "category": "数码"
+    },
+    {
       "raw_hot": 358852,
       "num": 259967,
       "word": "中东全面战争可能性存在但没有变得更高",
@@ -4953,14 +4993,6 @@
       "onboard_time": 1728527598,
       "rank": 8,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 357065,
-      "num": 265134,
-      "word": "猿辅导回应大学生涌入平台pk小学生",
-      "onboard_time": 1728639979,
-      "rank": 30,
-      "category": "互联网,教育"
     },
     {
       "raw_hot": 356525,
@@ -5233,6 +5265,14 @@
       "onboard_time": 1728224540,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 334317,
+      "num": 304047,
+      "word": "偶遇丁程鑫刘耀文北电吃饭",
+      "onboard_time": 1728641960,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 332605,
@@ -5915,6 +5955,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 293623,
+      "num": 293623,
+      "word": "早餐店老板拿出50万给顾客退卡中余额",
+      "onboard_time": 1728643219,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 293363,
       "num": 214343,
       "word": "张朝阳劝年轻人必须要自律",
@@ -6017,14 +6065,6 @@
       "onboard_time": 1728629240,
       "rank": 24,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 288615,
-      "num": 288615,
-      "word": "海康威视大规模裁员",
-      "onboard_time": 1728641180,
-      "rank": 24,
-      "category": "数码"
     },
     {
       "raw_hot": 288141,
@@ -6507,14 +6547,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 265633,
-      "num": 265633,
-      "word": "男子不爱社交长期不说话致语言退化",
-      "onboard_time": 1728641420,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 265444,
       "num": 265444,
       "word": "黄子韬公司艺人泰创面试",
@@ -6931,14 +6963,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 249316,
-      "num": 261560,
-      "word": "杨妞花",
-      "onboard_time": 1728639859,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 248643,
       "num": 248643,
       "word": "崔永熙NBA首秀",
@@ -6985,6 +7009,14 @@
       "onboard_time": 1728218360,
       "rank": 35,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 245330,
+      "num": 245330,
+      "word": "向佐回应鼻梁动作出圈",
+      "onboard_time": 1728643699,
+      "rank": 24,
+      "category": "电影"
     },
     {
       "raw_hot": 245255,
@@ -8467,6 +8499,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 203454,
+      "num": 244171,
+      "word": "哈利波特",
+      "onboard_time": 1728644482,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 203419,
       "num": 316700,
       "word": "那英演唱会",
@@ -8995,6 +9035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 194226,
+      "num": 271062,
+      "word": "于适出战聚星名人赛",
+      "onboard_time": 1728644299,
+      "rank": 16,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 194212,
       "num": 194212,
       "word": "王楚钦调侃梁靖崑网速快",
@@ -9105,6 +9153,14 @@
       "onboard_time": 1728232398,
       "rank": 14,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 192809,
+      "num": 192809,
+      "word": "网友电梯偶遇王楚钦",
+      "onboard_time": 1728644482,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 192752,
@@ -9425,6 +9481,14 @@
       "onboard_time": 1728569301,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 186631,
+      "num": 186631,
+      "word": "柳州一块钱五个的螺蛳粉臭豆腐",
+      "onboard_time": 1728641360,
+      "rank": 40,
+      "category": "美食"
     },
     {
       "raw_hot": 186514,
@@ -10025,14 +10089,6 @@
       "onboard_time": 1728356177,
       "rank": 45,
       "category": "财经"
-    },
-    {
-      "raw_hot": 175262,
-      "num": 175262,
-      "word": "柳州一块钱五个的螺蛳粉臭豆腐",
-      "onboard_time": 1728641360,
-      "rank": 40,
-      "category": "美食"
     },
     {
       "raw_hot": 175192,
@@ -11299,6 +11355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 154598,
+      "num": 154598,
+      "word": "上海警方通报出租车车祸致1死2伤",
+      "onboard_time": 1728643400,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 154509,
       "num": 154509,
       "word": "郑钦文称萨巴伦卡不是高山",
@@ -11409,6 +11473,14 @@
       "onboard_time": 1728296423,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 153280,
+      "num": 281450,
+      "word": "郑钦文VS保利尼",
+      "onboard_time": 1728642740,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 153206,
@@ -11625,6 +11697,14 @@
       "onboard_time": 1728210619,
       "rank": 39,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 150856,
+      "num": 150856,
+      "word": "王者荣耀周年庆",
+      "onboard_time": 1728644600,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 150840,
@@ -12675,6 +12755,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 134573,
+      "num": 134573,
+      "word": "二房东涨租遭拒后连夜清空店铺",
+      "onboard_time": 1728645080,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 134482,
       "num": 134482,
       "word": "奥数班创办者力促取消了奥数班",
@@ -13080,6 +13168,14 @@
       "word": "最高法披露AI生成他人声音侵权案例",
       "onboard_time": 1728525499,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 128475,
+      "num": 128475,
+      "word": "卫健委回应众人聚医院门口讨薪",
+      "onboard_time": 1728643520,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -13651,28 +13747,12 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 116935,
-      "num": 304047,
-      "word": "偶遇丁程鑫刘耀文北电吃饭",
-      "onboard_time": 1728641960,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 116881,
       "num": 116881,
       "word": "彭昱畅 剪头发就是一场豪赌",
       "onboard_time": 1728214580,
       "rank": 48,
       "category": "电影"
-    },
-    {
-      "raw_hot": 116570,
-      "num": 116570,
-      "word": "早餐店老板拿出50万给顾客退卡中余额",
-      "onboard_time": 1728643219,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 116552,
@@ -14009,6 +14089,14 @@
       "onboard_time": 1728283338,
       "rank": 34,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 110276,
+      "num": 291887,
+      "word": "美声rap版夕阳红",
+      "onboard_time": 1728645139,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 110179,
@@ -14499,12 +14587,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 99333,
+      "num": 242447,
+      "word": "北京竟然能拍到极光",
+      "onboard_time": 1728645440,
+      "rank": 29,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 99274,
       "num": 99274,
       "word": "森林进化论2有淘汰",
       "onboard_time": 1728635060,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 98867,
+      "num": 299866,
+      "word": "我给我妈租了个儿子",
+      "onboard_time": 1728641120,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 98832,
@@ -14656,14 +14760,6 @@
       "word": "萨巴伦卡回应被中国球迷叫虎妞",
       "onboard_time": 1728288621,
       "rank": 44,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 96152,
-      "num": 261497,
-      "word": "郑钦文VS保利尼",
-      "onboard_time": 1728642740,
-      "rank": 18,
       "category": "体育"
     },
     {
@@ -15659,14 +15755,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 65861,
-      "num": 299866,
-      "word": "我给我妈租了个儿子",
-      "onboard_time": 1728641120,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 65835,
       "num": 625482,
       "word": "vivo全新系统OriginOS5",
@@ -16153,6 +16241,14 @@
       "onboard_time": 1728375381,
       "rank": 34,
       "category": "数码"
+    },
+    {
+      "raw_hot": 52694,
+      "num": 262910,
+      "word": "蓝盈莹救助的小狗去世",
+      "onboard_time": 1728645319,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 52372,
@@ -17235,6 +17331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 32407,
+      "num": 276270,
+      "word": "被害人家属称余华英否认其他漏罪",
+      "onboard_time": 1728644780,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 32304,
       "num": 33692,
       "word": "黎巴嫩美丽海滨住满流离失所的人",
@@ -17363,6 +17467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 29868,
+      "num": 251898,
+      "word": "李现怼脸状态",
+      "onboard_time": 1728643940,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 29724,
       "num": 41609,
       "word": "哀牢山村民称对自然要有敬畏之心",
@@ -17408,6 +17520,14 @@
       "word": "大学生依法较真维权值得点赞",
       "onboard_time": 1728562101,
       "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 28674,
+      "num": 259368,
+      "word": "浮夸学历背后的灰色利益链条应查清",
+      "onboard_time": 1728644660,
+      "rank": 19,
       "category": "社会新闻"
     },
     {

@@ -1,6 +1,6 @@
 {
   "startTime": 1728577667934,
-  "endTime": 1728643250729,
+  "endTime": 1728645562354,
   "band_list": [
     {
       "raw_hot": 6465280,
@@ -112,6 +112,14 @@
       "word": "迈巴赫车主说如果能退车费用全部捐",
       "onboard_time": 1728635540,
       "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1166751,
+      "num": 1186680,
+      "word": "男子不爱社交长期不说话致语言退化",
+      "onboard_time": 1728641420,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -248,6 +256,14 @@
       "word": "梁靖崑11比1",
       "onboard_time": 1728574100,
       "rank": 11,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 743896,
+      "num": 743896,
+      "word": "樊振东网球首秀",
+      "onboard_time": 1728643279,
+      "rank": 1,
       "category": "体育"
     },
     {
@@ -395,6 +411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 498112,
+      "num": 498112,
+      "word": "猿辅导回应大学生涌入平台pk小学生",
+      "onboard_time": 1728639979,
+      "rank": 30,
+      "category": "互联网,教育"
+    },
+    {
       "raw_hot": 488407,
       "num": 284044,
       "word": "存了三个月朋友圈一次性发出后",
@@ -424,6 +448,14 @@
       "word": "余华英",
       "onboard_time": 1728623061,
       "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 481811,
+      "num": 481811,
+      "word": "杨妞花",
+      "onboard_time": 1728639859,
+      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -651,12 +683,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 357065,
-      "num": 265134,
-      "word": "猿辅导回应大学生涌入平台pk小学生",
-      "onboard_time": 1728639979,
-      "rank": 30,
-      "category": "互联网,教育"
+      "raw_hot": 358868,
+      "num": 358868,
+      "word": "海康威视大规模裁员",
+      "onboard_time": 1728641180,
+      "rank": 24,
+      "category": "数码"
     },
     {
       "raw_hot": 354807,
@@ -697,6 +729,14 @@
       "onboard_time": 1728618678,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 334317,
+      "num": 304047,
+      "word": "偶遇丁程鑫刘耀文北电吃饭",
+      "onboard_time": 1728641960,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 332605,
@@ -835,6 +875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 293623,
+      "num": 293623,
+      "word": "早餐店老板拿出50万给顾客退卡中余额",
+      "onboard_time": 1728643219,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 292585,
       "num": 292585,
       "word": "王者荣耀",
@@ -865,14 +913,6 @@
       "onboard_time": 1728629240,
       "rank": 24,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 288615,
-      "num": 288615,
-      "word": "海康威视大规模裁员",
-      "onboard_time": 1728641180,
-      "rank": 24,
-      "category": "数码"
     },
     {
       "raw_hot": 286754,
@@ -931,14 +971,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 265633,
-      "num": 265633,
-      "word": "男子不爱社交长期不说话致语言退化",
-      "onboard_time": 1728641420,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 264991,
       "num": 264991,
       "word": "原来很多人的洗澡顺序错了",
@@ -987,12 +1019,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 249316,
-      "num": 261560,
-      "word": "杨妞花",
-      "onboard_time": 1728639859,
-      "rank": 31,
-      "category": "社会新闻"
+      "raw_hot": 245330,
+      "num": 245330,
+      "word": "向佐回应鼻梁动作出圈",
+      "onboard_time": 1728643699,
+      "rank": 24,
+      "category": "电影"
     },
     {
       "raw_hot": 244976,
@@ -1187,6 +1219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 203454,
+      "num": 244171,
+      "word": "哈利波特",
+      "onboard_time": 1728644482,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 202343,
       "num": 270810,
       "word": "被拐女孩坟前哭了一夜发誓讨回公道",
@@ -1291,6 +1331,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 194226,
+      "num": 271062,
+      "word": "于适出战聚星名人赛",
+      "onboard_time": 1728644299,
+      "rank": 16,
+      "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 192809,
+      "num": 192809,
+      "word": "网友电梯偶遇王楚钦",
+      "onboard_time": 1728644482,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 191546,
       "num": 254743,
       "word": "郭晓婷说着霍建华想着胡歌",
@@ -1371,6 +1427,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 186631,
+      "num": 186631,
+      "word": "柳州一块钱五个的螺蛳粉臭豆腐",
+      "onboard_time": 1728641360,
+      "rank": 40,
+      "category": "美食"
+    },
+    {
       "raw_hot": 186154,
       "num": 186154,
       "word": "极光",
@@ -1425,14 +1489,6 @@
       "onboard_time": 1728575899,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 175262,
-      "num": 175262,
-      "word": "柳州一块钱五个的螺蛳粉臭豆腐",
-      "onboard_time": 1728641360,
-      "rank": 40,
-      "category": "美食"
     },
     {
       "raw_hot": 174565,
@@ -1587,6 +1643,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 154598,
+      "num": 154598,
+      "word": "上海警方通报出租车车祸致1死2伤",
+      "onboard_time": 1728643400,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 154395,
       "num": 154395,
       "word": "马斯克回应特斯拉发布会推迟",
@@ -1601,6 +1665,14 @@
       "onboard_time": 1728572540,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 153280,
+      "num": 281450,
+      "word": "郑钦文VS保利尼",
+      "onboard_time": 1728642740,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 153119,
@@ -1641,6 +1713,14 @@
       "onboard_time": 1728611118,
       "rank": 34,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 150856,
+      "num": 150856,
+      "word": "王者荣耀周年庆",
+      "onboard_time": 1728644600,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 150716,
@@ -1819,6 +1899,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 134573,
+      "num": 134573,
+      "word": "二房东涨租遭拒后连夜清空店铺",
+      "onboard_time": 1728645080,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 133966,
       "num": 263460,
       "word": "王鹤棣也是闯进文旅赛道了",
@@ -1864,6 +1952,14 @@
       "word": "男子用虎头蜂泡酒失手现场",
       "onboard_time": 1728603558,
       "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 128475,
+      "num": 128475,
+      "word": "卫健委回应众人聚医院门口讨薪",
+      "onboard_time": 1728643520,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -2011,22 +2107,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 116935,
-      "num": 304047,
-      "word": "偶遇丁程鑫刘耀文北电吃饭",
-      "onboard_time": 1728641960,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 116570,
-      "num": 116570,
-      "word": "早餐店老板拿出50万给顾客退卡中余额",
-      "onboard_time": 1728643219,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 116001,
       "num": 116001,
       "word": "梁靖崑vs黄彦诚",
@@ -2107,6 +2187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 110276,
+      "num": 291887,
+      "word": "美声rap版夕阳红",
+      "onboard_time": 1728645139,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 109389,
       "num": 109389,
       "word": "mantra",
@@ -2171,6 +2259,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 99333,
+      "num": 242447,
+      "word": "北京竟然能拍到极光",
+      "onboard_time": 1728645440,
+      "rank": 29,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 99274,
       "num": 99274,
       "word": "森林进化论2有淘汰",
@@ -2179,12 +2275,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 96152,
-      "num": 261497,
-      "word": "郑钦文VS保利尼",
-      "onboard_time": 1728642740,
-      "rank": 18,
-      "category": "体育"
+      "raw_hot": 98867,
+      "num": 299866,
+      "word": "我给我妈租了个儿子",
+      "onboard_time": 1728641120,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 94989,
@@ -2323,14 +2419,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 65861,
-      "num": 299866,
-      "word": "我给我妈租了个儿子",
-      "onboard_time": 1728641120,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 62451,
       "num": 231014,
       "word": "向佐向右向前看",
@@ -2385,6 +2473,14 @@
       "onboard_time": 1728632540,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 52694,
+      "num": 262910,
+      "word": "蓝盈莹救助的小狗去世",
+      "onboard_time": 1728645319,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 50391,
@@ -2571,6 +2667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 32407,
+      "num": 276270,
+      "word": "被害人家属称余华英否认其他漏罪",
+      "onboard_time": 1728644780,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 32140,
       "num": 99707,
       "word": "用车身抵住失控黑车的白车侠发声",
@@ -2587,11 +2691,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 29868,
+      "num": 251898,
+      "word": "李现怼脸状态",
+      "onboard_time": 1728643940,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 28922,
       "num": 1984337,
       "word": "被宝藏爷爷奶奶惊艳到了",
       "onboard_time": 1728565340,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 28674,
+      "num": 259368,
+      "word": "浮夸学历背后的灰色利益链条应查清",
+      "onboard_time": 1728644660,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
