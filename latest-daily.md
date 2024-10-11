@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/10/12 00:27:47 ~ 2024/10/12 02:43:15
+本榜单时间：2024/10/12 00:27:47 ~ 2024/10/12 03:18:31
 </p>
 </blockquote>
 <p>
@@ -357,8 +357,20 @@ Jennie新歌空降Melon6位（热度：45599）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%234%E5%8D%9A%E5%A3%AB2%E5%8D%9A%E5%A3%AB%E5%90%8E%E7%9A%84%E6%B5%AE%E5%A4%B8%E5%AD%A6%E5%8E%86%E6%80%8E%E4%B9%88%E8%AF%9E%E7%94%9F%E7%9A%84%23" target="weibo">
+4博士2博士后的浮夸学历怎么诞生的（热度：40271）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%A6%9E%E8%8A%B1%E7%A7%B0%E9%9D%A0%E8%AE%B0%E5%BF%86%E4%B8%AD%E7%88%B6%E6%AF%8D%E7%9A%84%E7%88%B1%E8%B5%B0%E5%88%B0%E4%BB%8A%E5%A4%A9%23" target="weibo">
 杨妞花称靠记忆中父母的爱走到今天（热度：36436）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8A%A8%E7%94%BB%E8%BF%98%E5%8E%9F%E6%9D%A8%E5%A6%9E%E8%8A%B1%E8%A2%AB%E6%8B%90%E6%A1%88%23" target="weibo">
+动画还原杨妞花被拐案（热度：30551）
 </a>
 </li>
 
@@ -376,13 +388,7 @@ Jennie新歌空降Melon6位（热度：45599）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%8A%9B%E6%89%AC%E5%9B%9E%E5%BA%94%E4%BA%8E%E5%85%AC%E4%BA%8E%E7%A7%81%E4%BA%8E%E6%83%85%E4%BA%8E%E7%90%86%23" target="weibo">
-刘力扬回应于公于私于情于理（热度：25758）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%234%E5%8D%9A%E5%A3%AB2%E5%8D%9A%E5%A3%AB%E5%90%8E%E7%9A%84%E6%B5%AE%E5%A4%B8%E5%AD%A6%E5%8E%86%E6%80%8E%E4%B9%88%E8%AF%9E%E7%94%9F%E7%9A%84%23" target="weibo">
-4博士2博士后的浮夸学历怎么诞生的（热度：24819）
+刘力扬回应于公于私于情于理（热度：25871）
 </a>
 </li>
 
@@ -395,6 +401,12 @@ Jennie新歌空降Melon6位（热度：45599）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E6%B2%99%E6%BC%A0%E6%BB%91%E7%BF%94%E4%BC%9E%E4%B8%BA%E4%BB%80%E4%B9%88%E6%B2%89%E4%BA%86%23" target="weibo">
 王一博沙漠滑翔伞为什么沉了（热度：21324）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%83%9F%E5%8D%A1%E6%AD%A3%E5%A8%81%E8%83%81%E5%AD%A9%E5%AD%90%E5%81%A5%E5%BA%B7%23" target="weibo">
+烟卡正威胁孩子健康（热度：18591）
 </a>
 </li>
 

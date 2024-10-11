@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/10/06 00:26:13 ~ 2024/10/12 02:43:15
+本榜单时间：2024/10/06 00:26:13 ~ 2024/10/12 03:18:31
 </p>
 </blockquote>
 <p>
@@ -13293,6 +13293,12 @@ Jennie新歌空降Melon6位（热度：45599）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%234%E5%8D%9A%E5%A3%AB2%E5%8D%9A%E5%A3%AB%E5%90%8E%E7%9A%84%E6%B5%AE%E5%A4%B8%E5%AD%A6%E5%8E%86%E6%80%8E%E4%B9%88%E8%AF%9E%E7%94%9F%E7%9A%84%23" target="weibo">
+4博士2博士后的浮夸学历怎么诞生的（热度：40271）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%84%BF%E6%97%B6%E5%85%89%E4%B8%8D%E8%80%81%E5%B2%81%E6%9C%88%E9%9D%99%E5%A5%BD%23" target="weibo">
 愿时光不老岁月静好（热度：40165）
 </a>
@@ -13815,6 +13821,12 @@ VOGUE盛典出发图主题（热度：34169）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8A%A8%E7%94%BB%E8%BF%98%E5%8E%9F%E6%9D%A8%E5%A6%9E%E8%8A%B1%E8%A2%AB%E6%8B%90%E6%A1%88%23" target="weibo">
+动画还原杨妞花被拐案（热度：30551）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E5%8C%96%E7%97%85%E5%A5%B3%E5%AD%A9%E5%9C%A8%E6%BC%AB%E5%B1%95%E8%8E%B7%E6%B8%A9%E6%9A%96%E6%8B%A5%E6%8A%B1%E4%B8%8E%E5%90%88%E5%BD%B1%23" target="weibo">
 白化病女孩在漫展获温暖拥抱与合影（热度：30510）
 </a>
@@ -14020,7 +14032,7 @@ UA引领fitcheck运动混搭新趋势（热度：28064）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%8A%9B%E6%89%AC%E5%9B%9E%E5%BA%94%E4%BA%8E%E5%85%AC%E4%BA%8E%E7%A7%81%E4%BA%8E%E6%83%85%E4%BA%8E%E7%90%86%23" target="weibo">
-刘力扬回应于公于私于情于理（热度：25758）
+刘力扬回应于公于私于情于理（热度：25871）
 </a>
 </li>
 
@@ -14057,12 +14069,6 @@ UA引领fitcheck运动混搭新趋势（热度：28064）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%9E%83%E8%9F%B9%E9%85%8D%E9%BB%84%E9%85%92%E6%98%AF%E5%85%A8%E5%9B%BD%E7%BB%9F%E4%B8%80%E7%9A%84%E5%90%97%23" target="weibo">
 螃蟹配黄酒是全国统一的吗（热度：24907）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%234%E5%8D%9A%E5%A3%AB2%E5%8D%9A%E5%A3%AB%E5%90%8E%E7%9A%84%E6%B5%AE%E5%A4%B8%E5%AD%A6%E5%8E%86%E6%80%8E%E4%B9%88%E8%AF%9E%E7%94%9F%E7%9A%84%23" target="weibo">
-4博士2博士后的浮夸学历怎么诞生的（热度：24819）
 </a>
 </li>
 
@@ -14273,6 +14279,12 @@ YG申请2NE1商标权（热度：22391）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%9C%B0%E9%98%BF%E6%96%AF%E5%88%A9%E5%BA%B7%E8%8D%AF%E4%BB%A3%E6%9B%BE%E9%A2%91%E7%B9%81%E6%94%B9%E5%9F%BA%E5%9B%A0%E6%8A%A5%E5%91%8A%23" target="weibo">
 多地阿斯利康药代曾频繁改基因报告（热度：18634）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%83%9F%E5%8D%A1%E6%AD%A3%E5%A8%81%E8%83%81%E5%AD%A9%E5%AD%90%E5%81%A5%E5%BA%B7%23" target="weibo">
+烟卡正威胁孩子健康（热度：18591）
 </a>
 </li>
 

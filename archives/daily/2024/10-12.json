@@ -1,6 +1,6 @@
 {
   "startTime": 1728664067735,
-  "endTime": 1728672195094,
+  "endTime": 1728674311222,
   "band_list": [
     {
       "raw_hot": 1319783,
@@ -459,11 +459,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 40271,
+      "num": 81869,
+      "word": "4博士2博士后的浮夸学历怎么诞生的",
+      "onboard_time": 1728665355,
+      "rank": 38,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 36436,
       "num": 112323,
       "word": "杨妞花称靠记忆中父母的爱走到今天",
       "onboard_time": 1728665956,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 30551,
+      "num": 30551,
+      "word": "动画还原杨妞花被拐案",
+      "onboard_time": 1728672672,
+      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -483,20 +499,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 25758,
-      "num": 37004,
+      "raw_hot": 25871,
+      "num": 42654,
       "word": "刘力扬回应于公于私于情于理",
       "onboard_time": 1728670692,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 24819,
-      "num": 81869,
-      "word": "4博士2博士后的浮夸学历怎么诞生的",
-      "onboard_time": 1728665355,
-      "rank": 38,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 24798,
@@ -513,6 +521,14 @@
       "onboard_time": 1728669373,
       "rank": 49,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 18591,
+      "num": 41160,
+      "word": "烟卡正威胁孩子健康",
+      "onboard_time": 1728673152,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 4838,
