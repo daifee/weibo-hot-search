@@ -1,0 +1,410 @@
+{
+  "runTime": 1728639468818,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1007357,
+        "num": 1161177,
+        "word": "余华英卖的第1个孩子是自己儿子",
+        "onboard_time": 1728617119,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 790636,
+        "num": 790636,
+        "word": "虞书欣 他又缺了吧",
+        "onboard_time": 1728636441,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 11450,
+        "num": 779700,
+        "word": "愿时光不老岁月静好",
+        "onboard_time": 1728618919,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 981726,
+        "num": 779685,
+        "word": "霍思燕携10只狗8只鸡拍封面",
+        "onboard_time": 1728635901,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 779592,
+        "num": 779592,
+        "word": "余华英拿滚烫的水浇到5岁女孩头上",
+        "onboard_time": 1728635301,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 481836,
+        "num": 481836,
+        "word": "孙颖莎启程回国",
+        "onboard_time": 1728634699,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 454449,
+        "num": 454449,
+        "word": "人贩子名字她从5岁记到30多岁",
+        "onboard_time": 1728620780,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 415316,
+        "num": 415316,
+        "word": "妹妹5岁被拐姐姐11岁也成了孤儿",
+        "onboard_time": 1728633861,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 398257,
+        "num": 398257,
+        "word": "奥巴马登场为哈里斯拉票并批特朗普",
+        "onboard_time": 1728637040,
+        "rank": 8,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 290235,
+        "num": 290235,
+        "word": "北京极光大爆发",
+        "onboard_time": 1728631040,
+        "rank": 9,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 554781,
+        "num": 286500,
+        "word": "6岁女童被高年级同学泼开水烫伤",
+        "onboard_time": 1728635601,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 368588,
+        "num": 275367,
+        "word": "沙溢瘦回白展堂",
+        "onboard_time": 1728623841,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 83733,
+        "num": 259217,
+        "word": "余华英被指庭审现场态度恶劣",
+        "onboard_time": 1728638421,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250533,
+        "num": 250533,
+        "word": "王源公开TFBOYS十周年朋友圈",
+        "onboard_time": 1728622402,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 69125,
+        "num": 244735,
+        "word": "4博士2博后浮夸简历凸显学历乱象",
+        "onboard_time": 1728638780,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195352,
+        "num": 230225,
+        "word": "首颗可重复使用返回式技术试验卫星回收成功",
+        "onboard_time": 1728639020,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 198724,
+        "num": 225585,
+        "word": "Jennie新歌致敬成龙电影",
+        "onboard_time": 1728633861,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 194613,
+        "num": 213696,
+        "word": "刘亦菲送张靓颖蝴蝶戒指",
+        "onboard_time": 1728635301,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208285,
+        "num": 208285,
+        "word": "专项行动整治编造网络黑话烂梗",
+        "onboard_time": 1728637341,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179816,
+        "num": 202775,
+        "word": "邓为为母校中戏捐款",
+        "onboard_time": 1728639020,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 261768,
+        "num": 202588,
+        "word": "50多岁男子公交上猥亵8岁女童",
+        "onboard_time": 1728637881,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254154,
+        "num": 202473,
+        "word": "外婆搬我朋友圈图发朋友圈",
+        "onboard_time": 1728623002,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 202343,
+        "num": 202343,
+        "word": "被拐女孩坟前哭了一夜发誓讨回公道",
+        "onboard_time": 1728638000,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189512,
+        "num": 197404,
+        "word": "下一战歌手第七期是团战",
+        "onboard_time": 1728638599,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 212405,
+        "num": 197040,
+        "word": "睡觉时为什么会突然抖一下",
+        "onboard_time": 1728626780,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 28792,
+        "num": 196247,
+        "word": "你会给自己买保险么",
+        "onboard_time": 1728635420,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196076,
+        "num": 196076,
+        "word": "大蓝曾被人民网点名批评割韭菜",
+        "onboard_time": 1728637400,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181406,
+        "num": 195536,
+        "word": "我是娱乐圈普普通通小美女",
+        "onboard_time": 1728638478,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166392,
+        "num": 195336,
+        "word": "郭晓婷说着霍建华想着胡歌",
+        "onboard_time": 1728636860,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 45034,
+        "num": 195228,
+        "word": "这一轮牛市只是昙花一现吗",
+        "onboard_time": 1728639379,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 195158,
+        "num": 195158,
+        "word": "海关回应60一个日本红薯不合规",
+        "onboard_time": 1728632120,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196073,
+        "num": 195001,
+        "word": "四川康定一车辆坠河6人失联",
+        "onboard_time": 1728634041,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191363,
+        "num": 191363,
+        "word": "男子工作电脑藏64G色情视频被开除",
+        "onboard_time": 1728639081,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168253,
+        "num": 168253,
+        "word": "余华英拐卖儿童案",
+        "onboard_time": 1728639259,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165844,
+        "num": 165844,
+        "word": "特斯拉发布会",
+        "onboard_time": 1728612859,
+        "rank": 34,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 159091,
+        "num": 159091,
+        "word": "王欣瑜晋级武网4强",
+        "onboard_time": 1728633200,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 155068,
+        "num": 155068,
+        "word": "外交部回应以军袭击联黎部队",
+        "onboard_time": 1728638960,
+        "rank": 36,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 139182,
+        "num": 139182,
+        "word": "余华英被控拐卖儿童人数增至17人",
+        "onboard_time": 1728621021,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133989,
+        "num": 133989,
+        "word": "周五遇上重阳节",
+        "onboard_time": 1728616759,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133411,
+        "num": 133411,
+        "word": "多国抗议以色列袭击联黎部队营地",
+        "onboard_time": 1728629240,
+        "rank": 39,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 131707,
+        "num": 131707,
+        "word": "被拐女孩梦到妈妈喊自己而记住名字",
+        "onboard_time": 1728616097,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 68455,
+        "num": 131629,
+        "word": "粮食公司以次充好必须一查到底",
+        "onboard_time": 1728637341,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131599,
+        "num": 131599,
+        "word": "买基金亏170万起诉银行获赔159万",
+        "onboard_time": 1728620720,
+        "rank": 42,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 127296,
+        "num": 127296,
+        "word": "孩子被余华英拐走父母受打击双亡",
+        "onboard_time": 1728638960,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124069,
+        "num": 124069,
+        "word": "何炅也有藏不住事的时候",
+        "onboard_time": 1728628338,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119466,
+        "num": 119466,
+        "word": "年轻人搞起钱来有自己的想法",
+        "onboard_time": 1728632901,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 113916,
+        "num": 113916,
+        "word": "听泉鉴宝回应停播",
+        "onboard_time": 1728636019,
+        "rank": 46,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 113049,
+        "num": 113049,
+        "word": "黄奕 任嘉伦像暖宝宝一样给我捂热了",
+        "onboard_time": 1728638721,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111562,
+        "num": 111562,
+        "word": "有人重仓地产股1天赚1200万",
+        "onboard_time": 1728630320,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 25571,
+        "num": 110445,
+        "word": "给骑行新手的3点重要建议",
+        "onboard_time": 1728631101,
+        "rank": 49,
+        "category": "运动健身"
+      }
+    ],
+    "hotgov": {
+      "word": "#要把尊老敬老作为一种社会风尚#"
+    }
+  }
+}
