@@ -1,6 +1,6 @@
 {
   "startTime": 1728577667934,
-  "endTime": 1728624086618,
+  "endTime": 1728625164093,
   "band_list": [
     {
       "raw_hot": 6465280,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 1406677,
-      "num": 1099691,
+      "num": 1242926,
       "word": "王源公开TFBOYS十周年朋友圈",
       "onboard_time": 1728622402,
       "rank": 3,
@@ -185,6 +185,14 @@
       "onboard_time": 1728609978,
       "rank": 16,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 703774,
+      "num": 703774,
+      "word": "官方称人才库没有95后研究员这个人",
+      "onboard_time": 1728622462,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 672423,
@@ -395,6 +403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 391365,
+      "num": 391365,
+      "word": "哆啦A梦声优去世",
+      "onboard_time": 1728623660,
+      "rank": 30,
+      "category": "动漫,艺人"
+    },
+    {
       "raw_hot": 391240,
       "num": 391240,
       "word": "巴代表问你们已经习惯于我们的死亡了吗",
@@ -435,14 +451,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 371210,
-      "num": 371210,
-      "word": "官方称人才库没有95后研究员这个人",
-      "onboard_time": 1728622462,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 370431,
       "num": 269639,
       "word": "女生胳膊长巨型疖肿到医院切开",
@@ -451,7 +459,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 366605,
+      "raw_hot": 368762,
       "num": 252872,
       "word": "外婆搬我朋友圈图发朋友圈",
       "onboard_time": 1728623002,
@@ -563,20 +571,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 289679,
+      "num": 248748,
+      "word": "肖战张婧仪藏海传草地路透",
+      "onboard_time": 1728622402,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 289212,
+      "num": 315841,
+      "word": "唐嫣走秀像汪小姐创业成功",
+      "onboard_time": 1728622943,
+      "rank": 15,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 286754,
       "num": 555034,
       "word": "倪妮杂志封面是真蛇",
       "onboard_time": 1728563419,
       "rank": 8,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 277303,
-      "num": 277303,
-      "word": "唐嫣走秀像汪小姐创业成功",
-      "onboard_time": 1728622943,
-      "rank": 15,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 276437,
@@ -609,14 +625,6 @@
       "onboard_time": 1728621080,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 270641,
-      "num": 248748,
-      "word": "肖战张婧仪藏海传草地路透",
-      "onboard_time": 1728622402,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 270497,
@@ -763,6 +771,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 220978,
+      "num": 220978,
+      "word": "魏家凉皮被指预制菜",
+      "onboard_time": 1728623183,
+      "rank": 35,
+      "category": "美食"
+    },
+    {
       "raw_hot": 219054,
       "num": 272803,
       "word": "曾舜晞 怎么不看看我",
@@ -779,12 +795,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 211854,
-      "num": 211854,
-      "word": "哆啦A梦声优去世",
-      "onboard_time": 1728623660,
-      "rank": 30,
-      "category": "动漫,艺人"
+      "raw_hot": 212565,
+      "num": 222292,
+      "word": "鹿晗工作室",
+      "onboard_time": 1728624619,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 212073,
+      "num": 212073,
+      "word": "8岁小孩姐给外公买300万迈巴赫",
+      "onboard_time": 1728624619,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 211025,
@@ -875,6 +899,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 190383,
+      "num": 417187,
+      "word": "69岁爷爷靠二次元爆改走红",
+      "onboard_time": 1728623061,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 190124,
       "num": 190124,
       "word": "第一批炒股赚钱的人开始买黄金古玩",
@@ -899,20 +931,20 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 188633,
-      "num": 188633,
-      "word": "魏家凉皮被指预制菜",
-      "onboard_time": 1728623183,
-      "rank": 35,
-      "category": "美食"
-    },
-    {
       "raw_hot": 186154,
       "num": 186154,
       "word": "极光",
       "onboard_time": 1728610518,
       "rank": 28,
       "category": "自然"
+    },
+    {
+      "raw_hot": 185123,
+      "num": 185123,
+      "word": "王楚钦人在凳上坐球从天上来",
+      "onboard_time": 1728624501,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 178444,
@@ -1019,14 +1051,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 156825,
-      "num": 417187,
-      "word": "69岁爷爷靠二次元爆改走红",
-      "onboard_time": 1728623061,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 156166,
       "num": 156166,
       "word": "网传炒股断更作者复更了",
@@ -1091,6 +1115,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 149873,
+      "num": 149873,
+      "word": "男子开车转弯撞到姑娘后疯狂搭讪",
+      "onboard_time": 1728623481,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 148786,
       "num": 148786,
       "word": "柠檬宝宝母亲谈孩子成长每天像偷来的",
@@ -1105,6 +1137,22 @@
       "onboard_time": 1728566240,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 144402,
+      "num": 257281,
+      "word": "沙溢瘦回白展堂",
+      "onboard_time": 1728623841,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 144258,
+      "num": 144258,
+      "word": "王皓再谈三次奥运亚军",
+      "onboard_time": 1728624019,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 144224,
@@ -1179,12 +1227,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 138370,
-      "num": 138370,
-      "word": "男子开车转弯撞到姑娘后疯狂搭讪",
-      "onboard_time": 1728623481,
-      "rank": 47,
-      "category": "社会新闻"
+      "raw_hot": 138075,
+      "num": 138075,
+      "word": "徐海乔 石凯的未来我奉陪到底",
+      "onboard_time": 1728624919,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 136793,
@@ -1201,14 +1249,6 @@
       "onboard_time": 1728574640,
       "rank": 41,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 136041,
-      "num": 136041,
-      "word": "王皓再谈三次奥运亚军",
-      "onboard_time": 1728624019,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 133966,
@@ -1467,6 +1507,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 78774,
+      "num": 346867,
+      "word": "余华英拐卖儿童案将依法择期宣判",
+      "onboard_time": 1728624200,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 78514,
       "num": 78514,
       "word": "新迈巴赫漏水被4S店大规模拆解",
@@ -1515,6 +1563,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 62451,
+      "num": 231014,
+      "word": "向佐向右向前看",
+      "onboard_time": 1728624200,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 62287,
       "num": 360571,
       "word": "刘亦菲说给自己买保险很有想法",
@@ -1545,6 +1601,14 @@
       "onboard_time": 1728552979,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 50391,
+      "num": 229249,
+      "word": "五届超女快女主题曲大合唱",
+      "onboard_time": 1728624860,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 48871,
@@ -1619,14 +1683,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 32587,
-      "num": 257281,
-      "word": "沙溢瘦回白展堂",
-      "onboard_time": 1728623841,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 32140,
       "num": 99707,
       "word": "用车身抵住失控黑车的白车侠发声",
@@ -1635,18 +1691,18 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 28922,
-      "num": 1984337,
-      "word": "被宝藏爷爷奶奶惊艳到了",
-      "onboard_time": 1728565340,
+      "raw_hot": 31385,
+      "num": 1300700,
+      "word": "首届中国广播电视精品创作大会",
+      "onboard_time": 1728613458,
       "rank": 2,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 28710,
-      "num": 1119807,
-      "word": "首届中国广播电视精品创作大会",
-      "onboard_time": 1728613458,
+      "raw_hot": 28922,
+      "num": 1984337,
+      "word": "被宝藏爷爷奶奶惊艳到了",
+      "onboard_time": 1728565340,
       "rank": 2,
       "category": "社会新闻"
     },

@@ -1,0 +1,410 @@
+{
+  "runTime": 1728625164093,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2190441,
+        "num": 2190441,
+        "word": "余华英卖的第1个孩子是自己儿子",
+        "onboard_time": 1728617119,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1372069,
+        "num": 1372069,
+        "word": "人贩子名字她从5岁记到30多岁",
+        "onboard_time": 1728620780,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31385,
+        "num": 1300700,
+        "word": "首届中国广播电视精品创作大会",
+        "onboard_time": 1728613458,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1242926,
+        "num": 1242926,
+        "word": "王源公开TFBOYS十周年朋友圈",
+        "onboard_time": 1728622402,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 789559,
+        "num": 789559,
+        "word": "特斯拉发布会",
+        "onboard_time": 1728612859,
+        "rank": 4,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 703774,
+        "num": 703774,
+        "word": "官方称人才库没有95后研究员这个人",
+        "onboard_time": 1728622462,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 701181,
+        "num": 701181,
+        "word": "被拐女孩梦到妈妈喊自己而记住名字",
+        "onboard_time": 1728616097,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 391365,
+        "num": 391365,
+        "word": "哆啦A梦声优去世",
+        "onboard_time": 1728623660,
+        "rank": 7,
+        "category": "动漫,艺人"
+      },
+      {
+        "raw_hot": 351702,
+        "num": 351702,
+        "word": "虞书欣自嘲玩梗夹子音",
+        "onboard_time": 1728622101,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 78774,
+        "num": 346867,
+        "word": "余华英拐卖儿童案将依法择期宣判",
+        "onboard_time": 1728624200,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1246950,
+        "num": 343523,
+        "word": "张雨绮男友首个综艺官宣",
+        "onboard_time": 1728622223,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 629696,
+        "num": 333172,
+        "word": "10岁女儿患抑郁症后鸡娃妈妈觉醒了",
+        "onboard_time": 1728613157,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 466950,
+        "num": 327833,
+        "word": "听泉鉴宝",
+        "onboard_time": 1728607400,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 325107,
+        "num": 325107,
+        "word": "中方要求调查追责以军袭击联黎部队阵地",
+        "onboard_time": 1728618379,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 323161,
+        "num": 323161,
+        "word": "余华英被控拐卖儿童人数增至17人",
+        "onboard_time": 1728621021,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 289212,
+        "num": 315841,
+        "word": "唐嫣走秀像汪小姐创业成功",
+        "onboard_time": 1728622943,
+        "rank": 15,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 315108,
+        "num": 315108,
+        "word": "王皓谈做樊振东教练的感受",
+        "onboard_time": 1728615799,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 62451,
+        "num": 231014,
+        "word": "向佐向右向前看",
+        "onboard_time": 1728624200,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 229404,
+        "num": 229404,
+        "word": "周五遇上重阳节",
+        "onboard_time": 1728616759,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50391,
+        "num": 229249,
+        "word": "五届超女快女主题曲大合唱",
+        "onboard_time": 1728624860,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209086,
+        "num": 227327,
+        "word": "奔跑吧对你来说意味着什么",
+        "onboard_time": 1728621080,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 420458,
+        "num": 226800,
+        "word": "买基金亏170万起诉银行获赔159万",
+        "onboard_time": 1728620720,
+        "rank": 21,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 383898,
+        "num": 224777,
+        "word": "陶昕然新片尺度好大",
+        "onboard_time": 1728622643,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 368762,
+        "num": 223798,
+        "word": "外婆搬我朋友圈图发朋友圈",
+        "onboard_time": 1728623002,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 212565,
+        "num": 222292,
+        "word": "鹿晗工作室",
+        "onboard_time": 1728624619,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 289679,
+        "num": 221865,
+        "word": "肖战张婧仪藏海传草地路透",
+        "onboard_time": 1728622402,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 220978,
+        "num": 220978,
+        "word": "魏家凉皮被指预制菜",
+        "onboard_time": 1728623183,
+        "rank": 26,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 219615,
+        "num": 219615,
+        "word": "宝妈第一次蒸馒头意外收获蘑菇",
+        "onboard_time": 1728620420,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212073,
+        "num": 212073,
+        "word": "8岁小孩姐给外公买300万迈巴赫",
+        "onboard_time": 1728624619,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201393,
+        "num": 201393,
+        "word": "kimi崩了",
+        "onboard_time": 1728619519,
+        "rank": 29,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 199319,
+        "num": 199319,
+        "word": "男子称母亲躺手术室医生讨要3000红包",
+        "onboard_time": 1728607879,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196220,
+        "num": 196220,
+        "word": "A股三市下跌个股近4700只",
+        "onboard_time": 1728620240,
+        "rank": 31,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 190383,
+        "num": 190383,
+        "word": "69岁爷爷靠二次元爆改走红",
+        "onboard_time": 1728623061,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188428,
+        "num": 188428,
+        "word": "特斯拉Cybercab没有方向盘和踏板",
+        "onboard_time": 1728616160,
+        "rank": 33,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 185123,
+        "num": 185123,
+        "word": "王楚钦人在凳上坐球从天上来",
+        "onboard_time": 1728624501,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 172678,
+        "num": 172678,
+        "word": "SM确认洪承汉不退团",
+        "onboard_time": 1728609978,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 167227,
+        "num": 167227,
+        "word": "哈利波特排片",
+        "onboard_time": 1728622223,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 162722,
+        "num": 162722,
+        "word": "投喂浣熊35年后自家被百余只包围",
+        "onboard_time": 1728618318,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162712,
+        "num": 162712,
+        "word": "特斯拉人形机器人",
+        "onboard_time": 1728619039,
+        "rank": 38,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 151969,
+        "num": 151969,
+        "word": "A股",
+        "onboard_time": 1728612859,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 149873,
+        "num": 149873,
+        "word": "男子开车转弯撞到姑娘后疯狂搭讪",
+        "onboard_time": 1728623481,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146295,
+        "num": 146295,
+        "word": "巴代表问你们已经习惯于我们的死亡了吗",
+        "onboard_time": 1728615918,
+        "rank": 41,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 145651,
+        "num": 145651,
+        "word": "今日重阳愿您安康",
+        "onboard_time": 1728609199,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144402,
+        "num": 144402,
+        "word": "沙溢瘦回白展堂",
+        "onboard_time": 1728623841,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144258,
+        "num": 144258,
+        "word": "王皓再谈三次奥运亚军",
+        "onboard_time": 1728624019,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142612,
+        "num": 142612,
+        "word": "恋与深空第二批",
+        "onboard_time": 1728620541,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 140732,
+        "num": 140732,
+        "word": "韦雪模仿叶珂",
+        "onboard_time": 1728613818,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139132,
+        "num": 139132,
+        "word": "穿正装但没说是什么正装",
+        "onboard_time": 1728613339,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 138075,
+        "num": 138075,
+        "word": "徐海乔 石凯的未来我奉陪到底",
+        "onboard_time": 1728624919,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131014,
+        "num": 131014,
+        "word": "特斯拉 科幻",
+        "onboard_time": 1728618078,
+        "rank": 49,
+        "category": "汽车"
+      }
+    ],
+    "hotgov": {
+      "word": "#要把尊老敬老作为一种社会风尚#"
+    }
+  }
+}
