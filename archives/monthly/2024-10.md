@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/10/01 00:28:17 ~ 2024/10/12 06:40:52
+本榜单时间：2024/10/01 00:28:17 ~ 2024/10/12 07:21:18
 </p>
 </blockquote>
 <p>
@@ -2691,6 +2691,12 @@ HPV疫苗已降到20多元1支（热度：747235）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BB%98%E9%B9%8F%E7%A7%B0%E7%8E%B0%E5%9C%A8%E5%AF%B9%E4%BA%8E%E5%B1%85%E6%B0%91%E9%83%A8%E9%97%A8%E5%B0%B1%E5%B9%B2%E4%B8%89%E4%BB%B6%E4%BA%8B%23" target="weibo">
+付鹏称现在对于居民部门就干三件事（热度：736782）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8Evs%E8%92%AF%E6%9B%BC%23" target="weibo">
 孙颖莎vs蒯曼（热度：735355）
 </a>
@@ -3347,6 +3353,12 @@ BLG（热度：663891）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23BLG%E5%AF%B9%E6%88%98T1%23" target="weibo">
 BLG对战T1（热度：625679）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E5%85%8D%E8%B4%B9%E6%B3%A8%E5%B0%84%E5%B9%B2%E7%BB%86%E8%83%9E%E9%AA%97%E5%B1%80%23" target="weibo">
+央视曝光免费注射干细胞骗局（热度：625299）
 </a>
 </li>
 
@@ -4337,12 +4349,6 @@ GEN对战WBG（热度：516314）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E6%94%BF%E5%BA%9C%E6%AF%8F%E5%91%A8%E8%BF%9B%E5%8F%A3200%E5%90%A8%E4%B8%AD%E5%9B%BD%E5%A4%A7%E7%99%BD%E8%8F%9C%23" target="weibo">
 韩国政府每周进口200吨中国大白菜（热度：507501）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BB%98%E9%B9%8F%E7%A7%B0%E7%8E%B0%E5%9C%A8%E5%AF%B9%E4%BA%8E%E5%B1%85%E6%B0%91%E9%83%A8%E9%97%A8%E5%B0%B1%E5%B9%B2%E4%B8%89%E4%BB%B6%E4%BA%8B%23" target="weibo">
-付鹏称现在对于居民部门就干三件事（热度：505270）
 </a>
 </li>
 
@@ -5889,6 +5895,12 @@ aespa成员solo曲上线（热度：384367）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%B6%E5%B1%9E%E5%9B%9E%E5%BA%94%E7%94%B7%E5%AD%A9%E9%AA%91%E8%A1%8C%E8%A2%AB%E7%A2%BE%E6%A1%88%E5%8F%B8%E6%9C%BA%E8%8E%B7%E5%8F%96%E4%BF%9D%23" target="weibo">
+家属回应男孩骑行被碾案司机获取保（热度：376111）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A2%81%E4%BC%9F%E9%93%BF%E7%8E%8B%E6%98%B6vs%E5%88%98%E5%B9%BF%E7%8F%A9%E6%9D%A8%E5%8D%9A%E6%B6%B5%23" target="weibo">
 梁伟铿王昶vs刘广珩杨博涵（热度：375936）
 </a>
@@ -5999,18 +6011,6 @@ BLG下路（热度：374278）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E8%83%B3%E8%86%8A%E9%95%BF%E5%B7%A8%E5%9E%8B%E7%96%96%E8%82%BF%E5%88%B0%E5%8C%BB%E9%99%A2%E5%88%87%E5%BC%80%23" target="weibo">
 女生胳膊长巨型疖肿到医院切开（热度：370431）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D10%E6%9C%88%E8%A1%8C%E7%A8%8B%E5%9B%BE%23" target="weibo">
-赵露思10月行程图（热度：369496）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E3%E6%AF%940%E9%80%9F%E8%83%9C%E4%BC%8A%E8%97%A4%E7%BE%8E%E8%AF%9A%23" target="weibo">
-孙颖莎3比0速胜伊藤美诚（热度：369419）
 </a>
 </li>
 
