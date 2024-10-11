@@ -1,6 +1,6 @@
 {
   "startTime": 1728577667934,
-  "endTime": 1728629074629,
+  "endTime": 1728631279442,
   "band_list": [
     {
       "raw_hot": 6465280,
@@ -131,6 +131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 843602,
+      "num": 375691,
+      "word": "沙溢瘦回白展堂",
+      "onboard_time": 1728623841,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 815775,
       "num": 815775,
       "word": "颁奖时王皓笑得合不拢嘴",
@@ -161,14 +169,6 @@
       "onboard_time": 1728609978,
       "rank": 3,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 776324,
-      "num": 267705,
-      "word": "沙溢瘦回白展堂",
-      "onboard_time": 1728623841,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 756959,
@@ -268,11 +268,19 @@
     },
     {
       "raw_hot": 581656,
-      "num": 269836,
+      "num": 304153,
       "word": "买基金亏170万起诉银行获赔159万",
       "onboard_time": 1728620720,
       "rank": 30,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 566643,
+      "num": 566643,
+      "word": "网红大蓝账号被封",
+      "onboard_time": 1728629129,
+      "rank": 3,
+      "category": "财经"
     },
     {
       "raw_hot": 564464,
@@ -355,6 +363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 455221,
+      "num": 455221,
+      "word": "何炅也有藏不住事的时候",
+      "onboard_time": 1728628338,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 452300,
       "num": 433341,
       "word": "韩剧造后者用重庆冒充首尔",
@@ -396,7 +412,7 @@
     },
     {
       "raw_hot": 418341,
-      "num": 225194,
+      "num": 292756,
       "word": "8岁小孩姐给外公买300万迈巴赫",
       "onboard_time": 1728624619,
       "rank": 28,
@@ -491,8 +507,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 354807,
+      "num": 294193,
+      "word": "恋爱5年分手男子想要回每月工资",
+      "onboard_time": 1728625639,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 348148,
-      "num": 224237,
+      "num": 291211,
       "word": "睡觉时为什么会突然抖一下",
       "onboard_time": 1728626780,
       "rank": 21,
@@ -529,22 +553,6 @@
       "onboard_time": 1728567680,
       "rank": 20,
       "category": "体育"
-    },
-    {
-      "raw_hot": 329106,
-      "num": 223084,
-      "word": "恋爱5年分手男子想要回每月工资",
-      "onboard_time": 1728625639,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 328976,
-      "num": 220915,
-      "word": "何炅也有藏不住事的时候",
-      "onboard_time": 1728628338,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 325670,
@@ -587,6 +595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 302067,
+      "num": 302067,
+      "word": "闵熙珍公开ILLIT抄袭证据",
+      "onboard_time": 1728626119,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 299217,
       "num": 299217,
       "word": "梁靖崑2比3黄彦诚",
@@ -601,6 +617,14 @@
       "onboard_time": 1728541040,
       "rank": 23,
       "category": "网红"
+    },
+    {
+      "raw_hot": 297698,
+      "num": 297698,
+      "word": "杨笠 最难听的话都对自己说过",
+      "onboard_time": 1728626060,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 296464,
@@ -627,6 +651,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 288817,
+      "num": 288817,
+      "word": "多国抗议以色列袭击联黎部队营地",
+      "onboard_time": 1728629240,
+      "rank": 24,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 286754,
       "num": 555034,
       "word": "倪妮杂志封面是真蛇",
@@ -651,6 +683,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 275220,
+      "num": 290144,
+      "word": "黄晓明陈梦参加央视重阳晚会",
+      "onboard_time": 1728630500,
+      "rank": 23,
+      "category": "综艺,体育"
+    },
+    {
       "raw_hot": 273558,
       "num": 259667,
       "word": "哈利波特全八部今起内地重映",
@@ -665,14 +705,6 @@
       "onboard_time": 1728621080,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 271566,
-      "num": 271566,
-      "word": "闵熙珍公开ILLIT抄袭证据",
-      "onboard_time": 1728626119,
-      "rank": 8,
-      "category": "艺人"
     },
     {
       "raw_hot": 270497,
@@ -755,6 +787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 240818,
+      "num": 240818,
+      "word": "余华英案庭外挤满蹭镜头的寻子父母",
+      "onboard_time": 1728630619,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 240092,
       "num": 240092,
       "word": "受害儿童和家属希望法院严惩余华英",
@@ -777,14 +817,6 @@
       "onboard_time": 1728626539,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 234356,
-      "num": 234356,
-      "word": "杨笠 最难听的话都对自己说过",
-      "onboard_time": 1728626060,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 233051,
@@ -923,8 +955,24 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 204171,
+      "num": 204171,
+      "word": "余华英作案时用年幼女儿当拐卖幌子",
+      "onboard_time": 1728629240,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 201146,
+      "num": 216396,
+      "word": "中国赴黎维和部队目前安全",
+      "onboard_time": 1728628099,
+      "rank": 44,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 200278,
-      "num": 200278,
+      "num": 210860,
       "word": "金莎任敏演母女",
       "onboard_time": 1728627738,
       "rank": 34,
@@ -953,6 +1001,14 @@
       "onboard_time": 1728624501,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 198718,
+      "num": 198718,
+      "word": "陪伴了我25年的火影回来了",
+      "onboard_time": 1728630560,
+      "rank": 32,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 197067,
@@ -1075,6 +1131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 171464,
+      "num": 171464,
+      "word": "沪指午后跌破3200点",
+      "onboard_time": 1728630920,
+      "rank": 36,
+      "category": "财经"
+    },
+    {
       "raw_hot": 170695,
       "num": 178142,
       "word": "广西人在美国卖螺蛳粉生意爆火",
@@ -1113,6 +1177,14 @@
       "onboard_time": 1728619398,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 164601,
+      "num": 164601,
+      "word": "有人重仓地产股1天赚1200万",
+      "onboard_time": 1728630320,
+      "rank": 37,
+      "category": "财经"
     },
     {
       "raw_hot": 163863,
@@ -1187,6 +1259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 153281,
+      "num": 153281,
+      "word": "原来糖炒栗子要买不开口的",
+      "onboard_time": 1728627499,
+      "rank": 45,
+      "category": "美食"
+    },
+    {
       "raw_hot": 153119,
       "num": 110374,
       "word": "王楚钦正手火力全开",
@@ -1225,6 +1305,14 @@
       "onboard_time": 1728611118,
       "rank": 34,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 150716,
+      "num": 150716,
+      "word": "中国人民对外友好协会成立70周年",
+      "onboard_time": 1728630500,
+      "rank": 39,
+      "category": "国内时政"
     },
     {
       "raw_hot": 149873,
@@ -1299,6 +1387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 142125,
+      "num": 142125,
+      "word": "王欣瑜晋级武网8强",
+      "onboard_time": 1728630199,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 142071,
       "num": 142071,
       "word": "特斯拉发布会现场有人突发疾病",
@@ -1329,6 +1425,14 @@
       "onboard_time": 1728559522,
       "rank": 39,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 138821,
+      "num": 138821,
+      "word": "8银行因贷款资金入股市被罚",
+      "onboard_time": 1728630199,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 138401,
@@ -1393,14 +1497,6 @@
       "onboard_time": 1728616639,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 130989,
-      "num": 216396,
-      "word": "中国赴黎维和部队目前安全",
-      "onboard_time": 1728628099,
-      "rank": 44,
-      "category": "国内时政"
     },
     {
       "raw_hot": 129127,
@@ -1483,14 +1579,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 117245,
-      "num": 117245,
-      "word": "原来糖炒栗子要买不开口的",
-      "onboard_time": 1728627499,
-      "rank": 45,
-      "category": "美食"
-    },
-    {
       "raw_hot": 116001,
       "num": 116001,
       "word": "梁靖崑vs黄彦诚",
@@ -1545,6 +1633,14 @@
       "onboard_time": 1728626000,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 112199,
+      "num": 112199,
+      "word": "北京极光大爆发",
+      "onboard_time": 1728631040,
+      "rank": 48,
+      "category": "自然"
     },
     {
       "raw_hot": 109389,
@@ -1787,12 +1883,36 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 46529,
+      "num": 375921,
+      "word": "律师解读进口日本红薯或涉违法",
+      "onboard_time": 1728630980,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 45006,
       "num": 492507,
       "word": "像打击电诈一样打击坑老骗局",
       "onboard_time": 1728613759,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 43397,
+      "num": 295458,
+      "word": "倪妮动物封面",
+      "onboard_time": 1728630080,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 42086,
+      "num": 296738,
+      "word": "尤长靖早安作为怪物",
+      "onboard_time": 1728631221,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 41772,
@@ -1993,6 +2113,14 @@
       "onboard_time": 1728585492,
       "rank": 26,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 7357,
+      "num": 111688,
+      "word": "给骑行新手的3点重要建议",
+      "onboard_time": 1728631101,
+      "rank": 49,
+      "category": "运动健身"
     }
   ],
   "hotgov_list": [
