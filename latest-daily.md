@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/10/12 00:27:47 ~ 2024/10/12 05:37:17
+本榜单时间：2024/10/12 00:27:47 ~ 2024/10/12 06:20:43
 </p>
 </blockquote>
 <p>
@@ -315,6 +315,12 @@ BLG对战PSG（热度：101392）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%234%E5%8D%9A%E5%A3%AB2%E5%8D%9A%E5%A3%AB%E5%90%8E%E7%9A%84%E6%B5%AE%E5%A4%B8%E5%AD%A6%E5%8E%86%E6%80%8E%E4%B9%88%E8%AF%9E%E7%94%9F%E7%9A%84%23" target="weibo">
+4博士2博士后的浮夸学历怎么诞生的（热度：73632）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BC%AF%E8%BF%9C%E5%9B%BD%E9%A3%8E%E5%94%B1%E8%B7%B3%E5%88%80%E5%89%91%E5%A6%82%E6%A2%A6%23" target="weibo">
 伯远国风唱跳刀剑如梦（热度：73434）
 </a>
@@ -340,19 +346,25 @@ BLG对战PSG（热度：101392）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AB%A0%E6%B3%BD%E5%A4%A9%E9%80%A0%E5%9E%8B%E5%B8%88%E5%9B%9E%E5%BA%94%E8%83%B8%E9%92%88%E4%BC%A0%E8%A8%80%23" target="weibo">
-章泽天造型师回应胸针传言（热度：49199）
+章泽天造型师回应胸针传言（热度：52873）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%234%E5%8D%9A%E5%A3%AB2%E5%8D%9A%E5%A3%AB%E5%90%8E%E7%9A%84%E6%B5%AE%E5%A4%B8%E5%AD%A6%E5%8E%86%E6%80%8E%E4%B9%88%E8%AF%9E%E7%94%9F%E7%9A%84%23" target="weibo">
-4博士2博士后的浮夸学历怎么诞生的（热度：46615）
+<a href="https://s.weibo.com/weibo?q=%23%E4%BB%8A%E6%98%8E2%E5%A4%A9%E5%A4%9A%E5%9C%B0%E6%9E%81%E5%85%89%E5%B0%86%E4%B8%8A%E7%BA%BF%23" target="weibo">
+今明2天多地极光将上线（热度：47042）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23Jennie%E6%96%B0%E6%AD%8C%E7%A9%BA%E9%99%8DMelon6%E4%BD%8D%23" target="weibo">
 Jennie新歌空降Melon6位（热度：45599）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%89%93%E7%9D%80%E5%85%8D%E8%B4%B9%E6%B3%A8%E5%B0%84%E7%A5%9E%E8%8D%AF%E7%9A%84%E6%97%97%E5%8F%B7%E6%95%9B%E8%B4%A21%E4%BA%BF%E5%A4%9A%23" target="weibo">
+打着免费注射神药的旗号敛财1亿多（热度：42656）
 </a>
 </li>
 
@@ -370,7 +382,19 @@ Jennie新歌空降Melon6位（热度：45599）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%8C11%E5%BC%80%E6%94%BE%E9%BA%A6%23" target="weibo">
-双11开放麦（热度：38404）
+双11开放麦（热度：40039）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%8A%9B%E6%89%AC%E5%9B%9E%E5%BA%94%E4%BA%8E%E5%85%AC%E4%BA%8E%E7%A7%81%E4%BA%8E%E6%83%85%E4%BA%8E%E7%90%86%23" target="weibo">
+刘力扬回应于公于私于情于理（热度：38840）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E4%B8%8E%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%E4%B8%BE%E8%A1%8C%E4%BC%9A%E8%B0%88%23" target="weibo">
+普京与伊朗总统举行会谈（热度：38599）
 </a>
 </li>
 
@@ -383,12 +407,6 @@ Jennie新歌空降Melon6位（热度：45599）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%83%9F%E5%8D%A1%E6%AD%A3%E5%A8%81%E8%83%81%E5%AD%A9%E5%AD%90%E5%81%A5%E5%BA%B7%23" target="weibo">
 烟卡正威胁孩子健康（热度：35300）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%8A%9B%E6%89%AC%E5%9B%9E%E5%BA%94%E4%BA%8E%E5%85%AC%E4%BA%8E%E7%A7%81%E4%BA%8E%E6%83%85%E4%BA%8E%E7%90%86%23" target="weibo">
-刘力扬回应于公于私于情于理（热度：30707）
 </a>
 </li>
 
@@ -417,14 +435,14 @@ Jennie新歌空降Melon6位（热度：45599）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E6%B2%99%E6%BC%A0%E6%BB%91%E7%BF%94%E4%BC%9E%E4%B8%BA%E4%BB%80%E4%B9%88%E6%B2%89%E4%BA%86%23" target="weibo">
-王一博沙漠滑翔伞为什么沉了（热度：21324）
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%AE%9A%E8%A6%81%E8%AE%A9%E7%88%B6%E6%AF%8D%E7%9F%A5%E9%81%93%E7%9A%845%E7%A7%8D%E5%85%BB%E8%80%81%E9%AA%97%E5%B1%80%23" target="weibo">
+一定要让父母知道的5种养老骗局（热度：23819）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%AE%9A%E8%A6%81%E8%AE%A9%E7%88%B6%E6%AF%8D%E7%9F%A5%E9%81%93%E7%9A%845%E7%A7%8D%E5%85%BB%E8%80%81%E9%AA%97%E5%B1%80%23" target="weibo">
-一定要让父母知道的5种养老骗局（热度：21030）
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E6%B2%99%E6%BC%A0%E6%BB%91%E7%BF%94%E4%BC%9E%E4%B8%BA%E4%BB%80%E4%B9%88%E6%B2%89%E4%BA%86%23" target="weibo">
+王一博沙漠滑翔伞为什么沉了（热度：21324）
 </a>
 </li>
 
@@ -447,8 +465,8 @@ Jennie新歌空降Melon6位（热度：45599）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E4%B8%8E%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%E4%B8%BE%E8%A1%8C%E4%BC%9A%E8%B0%88%23" target="weibo">
-普京与伊朗总统举行会谈（热度：18931）
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E5%85%8D%E8%B4%B9%E6%B3%A8%E5%B0%84%E5%B9%B2%E7%BB%86%E8%83%9E%E9%AA%97%E5%B1%80%23" target="weibo">
+央视曝光免费注射干细胞骗局（热度：18167）
 </a>
 </li>
 
@@ -467,12 +485,6 @@ Jennie新歌空降Melon6位（热度：45599）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%9A%E9%9B%AF%E5%A9%95%E5%88%98%E5%8A%9B%E6%89%AC%E5%90%88%E5%94%B1%E5%A6%82%E6%9E%9C%E6%B2%A1%E6%9C%89%E4%BD%A0%23" target="weibo">
 尚雯婕刘力扬合唱如果没有你（热度：15026）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%89%93%E7%9D%80%E5%85%8D%E8%B4%B9%E6%B3%A8%E5%B0%84%E7%A5%9E%E8%8D%AF%E7%9A%84%E6%97%97%E5%8F%B7%E6%95%9B%E8%B4%A21%E4%BA%BF%E5%A4%9A%23" target="weibo">
-打着免费注射神药的旗号敛财1亿多（热度：14944）
 </a>
 </li>
 

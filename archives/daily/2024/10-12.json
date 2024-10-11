@@ -1,6 +1,6 @@
 {
   "startTime": 1728664067735,
-  "endTime": 1728682637925,
+  "endTime": 1728685243301,
   "band_list": [
     {
       "raw_hot": 1319783,
@@ -403,6 +403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 73632,
+      "num": 81869,
+      "word": "4博士2博士后的浮夸学历怎么诞生的",
+      "onboard_time": 1728665355,
+      "rank": 38,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 73434,
       "num": 73434,
       "word": "伯远国风唱跳刀剑如梦",
@@ -435,20 +443,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 49199,
-      "num": 50662,
+      "raw_hot": 52873,
+      "num": 52873,
       "word": "章泽天造型师回应胸针传言",
       "onboard_time": 1728647121,
       "rank": 43,
       "category": "艺人,作品衍生"
     },
     {
-      "raw_hot": 46615,
-      "num": 81869,
-      "word": "4博士2博士后的浮夸学历怎么诞生的",
-      "onboard_time": 1728665355,
-      "rank": 38,
-      "category": "社会新闻,教育"
+      "raw_hot": 47042,
+      "num": 47042,
+      "word": "今明2天多地极光将上线",
+      "onboard_time": 1728682813,
+      "rank": 17,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 45599,
@@ -457,6 +465,14 @@
       "onboard_time": 1728666494,
       "rank": 45,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 42656,
+      "num": 42656,
+      "word": "打着免费注射神药的旗号敛财1亿多",
+      "onboard_time": 1728682513,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 42028,
@@ -475,12 +491,28 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 38404,
-      "num": 38404,
+      "raw_hot": 40039,
+      "num": 40039,
       "word": "双11开放麦",
       "onboard_time": 1728675372,
       "rank": 15,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 38840,
+      "num": 71295,
+      "word": "刘力扬回应于公于私于情于理",
+      "onboard_time": 1728670692,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 38599,
+      "num": 40341,
+      "word": "普京与伊朗总统举行会谈",
+      "onboard_time": 1728681191,
+      "rank": 23,
+      "category": "国外时政"
     },
     {
       "raw_hot": 36436,
@@ -497,14 +529,6 @@
       "onboard_time": 1728673152,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 30707,
-      "num": 42654,
-      "word": "刘力扬回应于公于私于情于理",
-      "onboard_time": 1728670692,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 30551,
@@ -539,20 +563,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 23819,
+      "num": 31106,
+      "word": "一定要让父母知道的5种养老骗局",
+      "onboard_time": 1728679090,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 21324,
       "num": 36975,
       "word": "王一博沙漠滑翔伞为什么沉了",
       "onboard_time": 1728669373,
       "rank": 49,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 21030,
-      "num": 31106,
-      "word": "一定要让父母知道的5种养老骗局",
-      "onboard_time": 1728679090,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 20105,
@@ -579,12 +603,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 18931,
-      "num": 40341,
-      "word": "普京与伊朗总统举行会谈",
-      "onboard_time": 1728681191,
-      "rank": 23,
-      "category": "国外时政"
+      "raw_hot": 18167,
+      "num": 41973,
+      "word": "央视曝光免费注射干细胞骗局",
+      "onboard_time": 1728685152,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 17923,
@@ -609,14 +633,6 @@
       "onboard_time": 1728674532,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 14944,
-      "num": 26719,
-      "word": "打着免费注射神药的旗号敛财1亿多",
-      "onboard_time": 1728682513,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 4838,

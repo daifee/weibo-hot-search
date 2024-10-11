@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/10/06 00:26:13 ~ 2024/10/12 05:37:17
+本榜单时间：2024/10/06 00:26:13 ~ 2024/10/12 06:20:43
 </p>
 </blockquote>
 <p>
@@ -12315,6 +12315,12 @@ vivo全球首发天玑9400（热度：75171）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%234%E5%8D%9A%E5%A3%AB2%E5%8D%9A%E5%A3%AB%E5%90%8E%E7%9A%84%E6%B5%AE%E5%A4%B8%E5%AD%A6%E5%8E%86%E6%80%8E%E4%B9%88%E8%AF%9E%E7%94%9F%E7%9A%84%23" target="weibo">
+4博士2博士后的浮夸学历怎么诞生的（热度：73632）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E6%96%B0%E6%AD%8C%E5%B0%86%E4%B8%8A%E7%BA%BF%23" target="weibo">
 时代少年团新歌将上线（热度：73477）
 </a>
@@ -13035,14 +13041,14 @@ A股与港股的跷跷板效应是为何（热度：51499）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%83%91%E9%92%A6%E6%96%87%E8%B7%9D%E7%AC%AC7%E7%BA%B3%E7%93%A6%E7%BD%9798%E5%88%86%23" target="weibo">
-郑钦文距第7纳瓦罗98分（热度：46916）
+<a href="https://s.weibo.com/weibo?q=%23%E4%BB%8A%E6%98%8E2%E5%A4%A9%E5%A4%9A%E5%9C%B0%E6%9E%81%E5%85%89%E5%B0%86%E4%B8%8A%E7%BA%BF%23" target="weibo">
+今明2天多地极光将上线（热度：47042）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%234%E5%8D%9A%E5%A3%AB2%E5%8D%9A%E5%A3%AB%E5%90%8E%E7%9A%84%E6%B5%AE%E5%A4%B8%E5%AD%A6%E5%8E%86%E6%80%8E%E4%B9%88%E8%AF%9E%E7%94%9F%E7%9A%84%23" target="weibo">
-4博士2博士后的浮夸学历怎么诞生的（热度：46615）
+<a href="https://s.weibo.com/weibo?q=%23%E9%83%91%E9%92%A6%E6%96%87%E8%B7%9D%E7%AC%AC7%E7%BA%B3%E7%93%A6%E7%BD%9798%E5%88%86%23" target="weibo">
+郑钦文距第7纳瓦罗98分（热度：46916）
 </a>
 </li>
 
@@ -13209,6 +13215,12 @@ Jennie新歌空降Melon6位（热度：45599）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%89%93%E7%9D%80%E5%85%8D%E8%B4%B9%E6%B3%A8%E5%B0%84%E7%A5%9E%E8%8D%AF%E7%9A%84%E6%97%97%E5%8F%B7%E6%95%9B%E8%B4%A21%E4%BA%BF%E5%A4%9A%23" target="weibo">
+打着免费注射神药的旗号敛财1亿多（热度：42656）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%98%8E%E6%97%A5%E9%87%8D%E9%98%B3%23" target="weibo">
 明日重阳（热度：42613）
 </a>
@@ -13311,6 +13323,12 @@ Jennie新歌空降Melon6位（热度：45599）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%8C11%E5%BC%80%E6%94%BE%E9%BA%A6%23" target="weibo">
+双11开放麦（热度：40039）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%83%8A%E8%89%B3%E4%BA%86%E7%A7%8B%E5%A4%A9%E7%9A%84%E5%A4%9A%E5%BD%A9%E4%B8%B0%E6%94%B6%23" target="weibo">
 惊艳了秋天的多彩丰收（热度：39938）
 </a>
@@ -13359,6 +13377,12 @@ TF四代危险的关系大结局（热度：39747）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%8A%9B%E6%89%AC%E5%9B%9E%E5%BA%94%E4%BA%8E%E5%85%AC%E4%BA%8E%E7%A7%81%E4%BA%8E%E6%83%85%E4%BA%8E%E7%90%86%23" target="weibo">
+刘力扬回应于公于私于情于理（热度：38840）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E4%BA%BA%E4%BA%BA%E4%BA%BA%E6%99%AF%E7%82%B9%E4%BA%BA%E4%BA%BA%E4%BA%BA%E4%BA%BA%23" target="weibo">
 人人人人景点人人人人（热度：38779）
 </a>
@@ -13371,8 +13395,8 @@ TF四代危险的关系大结局（热度：39747）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8F%8C11%E5%BC%80%E6%94%BE%E9%BA%A6%23" target="weibo">
-双11开放麦（热度：38404）
+<a href="https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E4%B8%8E%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%E4%B8%BE%E8%A1%8C%E4%BC%9A%E8%B0%88%23" target="weibo">
+普京与伊朗总统举行会谈（热度：38599）
 </a>
 </li>
 
@@ -13827,12 +13851,6 @@ VOGUE盛典出发图主题（热度：34169）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%8A%9B%E6%89%AC%E5%9B%9E%E5%BA%94%E4%BA%8E%E5%85%AC%E4%BA%8E%E7%A7%81%E4%BA%8E%E6%83%85%E4%BA%8E%E7%90%86%23" target="weibo">
-刘力扬回应于公于私于情于理（热度：30707）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%BA%86%E6%96%87%E6%97%85%E6%B4%BB%E5%8A%A8%E5%AE%9E%E5%8A%9B%E5%9C%88%E7%B2%89%23" target="weibo">
 国庆文旅活动实力圈粉（热度：30680）
 </a>
@@ -14097,6 +14115,12 @@ UA引领fitcheck运动混搭新趋势（热度：28064）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%AE%9A%E8%A6%81%E8%AE%A9%E7%88%B6%E6%AF%8D%E7%9F%A5%E9%81%93%E7%9A%845%E7%A7%8D%E5%85%BB%E8%80%81%E9%AA%97%E5%B1%80%23" target="weibo">
+一定要让父母知道的5种养老骗局（热度：23819）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%91%E6%96%93%E7%9A%84%E7%94%BB%E7%AC%94%E5%8F%AA%E4%B8%BA%E4%B8%AD%E5%9B%BD%23" target="weibo">
 斑斓的画笔只为中国（热度：23600）
 </a>
@@ -14223,12 +14247,6 @@ YG申请2NE1商标权（热度：22391）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%AE%9A%E8%A6%81%E8%AE%A9%E7%88%B6%E6%AF%8D%E7%9F%A5%E9%81%93%E7%9A%845%E7%A7%8D%E5%85%BB%E8%80%81%E9%AA%97%E5%B1%80%23" target="weibo">
-一定要让父母知道的5种养老骗局（热度：21030）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E6%95%B0%E6%8D%AE%E7%9C%8B%E5%9B%BD%E5%BA%86%E5%81%87%E6%9C%9F%E6%B4%BB%E5%8A%9B%E4%B8%AD%E5%9B%BD%23" target="weibo">
 大数据看国庆假期活力中国（热度：21022）
 </a>
@@ -14313,12 +14331,6 @@ YG申请2NE1商标权（热度：22391）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E4%B8%8E%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%E4%B8%BE%E8%A1%8C%E4%BC%9A%E8%B0%88%23" target="weibo">
-普京与伊朗总统举行会谈（热度：18931）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%84%9F%E5%8F%97%E7%8E%AB%E7%91%B0%E8%8A%B1%E5%BC%80%E8%A7%86%E8%A7%89%E7%9B%9B%E5%AE%B4%23" target="weibo">
 感受玫瑰花开视觉盛宴（热度：18775）
 </a>
@@ -14339,6 +14351,12 @@ YG申请2NE1商标权（热度：22391）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%81%E4%B8%80%E5%81%87%E6%9C%9F%E8%BF%94%E7%A8%8B%E9%AB%98%E5%B3%B0%E5%AE%89%E5%85%A8%E6%8F%90%E9%86%92%23" target="weibo">
 十一假期返程高峰安全提醒（热度：18185）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E5%85%8D%E8%B4%B9%E6%B3%A8%E5%B0%84%E5%B9%B2%E7%BB%86%E8%83%9E%E9%AA%97%E5%B1%80%23" target="weibo">
+央视曝光免费注射干细胞骗局（热度：18167）
 </a>
 </li>
 
@@ -14447,12 +14465,6 @@ YG申请2NE1商标权（热度：22391）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%9A%E9%9B%AF%E5%A9%95%E5%88%98%E5%8A%9B%E6%89%AC%E5%90%88%E5%94%B1%E5%A6%82%E6%9E%9C%E6%B2%A1%E6%9C%89%E4%BD%A0%23" target="weibo">
 尚雯婕刘力扬合唱如果没有你（热度：15026）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%89%93%E7%9D%80%E5%85%8D%E8%B4%B9%E6%B3%A8%E5%B0%84%E7%A5%9E%E8%8D%AF%E7%9A%84%E6%97%97%E5%8F%B7%E6%95%9B%E8%B4%A21%E4%BA%BF%E5%A4%9A%23" target="weibo">
-打着免费注射神药的旗号敛财1亿多（热度：14944）
 </a>
 </li>
 
