@@ -1,0 +1,410 @@
+{
+  "runTime": 1728617219982,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1572281,
+        "num": 1572281,
+        "word": "特斯拉发布会",
+        "onboard_time": 1728612859,
+        "rank": 0,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 672423,
+        "num": 672423,
+        "word": "男子网售野生发菜获刑",
+        "onboard_time": 1728612558,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24960,
+        "num": 597458,
+        "word": "首届中国广播电视精品创作大会",
+        "onboard_time": 1728613458,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 530127,
+        "num": 530127,
+        "word": "被拐女孩梦到妈妈喊自己而记住名字",
+        "onboard_time": 1728616097,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 433780,
+        "num": 433780,
+        "word": "SM确认洪承汉不退团",
+        "onboard_time": 1728609978,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 386964,
+        "num": 386964,
+        "word": "广州交警通报2人深夜飙车严重超速",
+        "onboard_time": 1728614657,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 349621,
+        "num": 349621,
+        "word": "A股",
+        "onboard_time": 1728612859,
+        "rank": 6,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 231287,
+        "num": 348171,
+        "word": "朴彩英首支OST",
+        "onboard_time": 1728615498,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 220412,
+        "num": 347135,
+        "word": "特斯拉 无人驾驶",
+        "onboard_time": 1728616276,
+        "rank": 8,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 28150,
+        "num": 343817,
+        "word": "有券商透露开户数已超2015年",
+        "onboard_time": 1728616580,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 56333,
+        "num": 342844,
+        "word": "重阳节为爸妈做7件事儿",
+        "onboard_time": 1728614418,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1455063,
+        "num": 339611,
+        "word": "10岁女儿患抑郁症后鸡娃妈妈觉醒了",
+        "onboard_time": 1728613157,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 922667,
+        "num": 339038,
+        "word": "听泉鉴宝",
+        "onboard_time": 1728607400,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 538782,
+        "num": 335598,
+        "word": "颁奖时王皓笑得合不拢嘴",
+        "onboard_time": 1728610819,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 237882,
+        "num": 334246,
+        "word": "特斯拉Cybercab没有方向盘和踏板",
+        "onboard_time": 1728616160,
+        "rank": 14,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 519015,
+        "num": 331373,
+        "word": "韦雪模仿叶珂",
+        "onboard_time": 1728613818,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 426132,
+        "num": 328983,
+        "word": "全智贤成为LV品牌大使",
+        "onboard_time": 1728616519,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 382844,
+        "num": 327254,
+        "word": "男子称母亲躺手术室医生讨要3000红包",
+        "onboard_time": 1728607879,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 326711,
+        "num": 326711,
+        "word": "巴代表问你们已经习惯于我们的死亡了吗",
+        "onboard_time": 1728615918,
+        "rank": 18,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 214741,
+        "num": 316843,
+        "word": "Jennie新歌",
+        "onboard_time": 1728606141,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 527957,
+        "num": 316586,
+        "word": "娜扎央视镜头",
+        "onboard_time": 1728605120,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 316246,
+        "num": 316246,
+        "word": "王皓谈做樊振东教练的感受",
+        "onboard_time": 1728615799,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 310907,
+        "num": 310907,
+        "word": "A股进入震荡模式",
+        "onboard_time": 1728613818,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 290288,
+        "num": 290288,
+        "word": "房贷利率下调后一个月能省多少钱",
+        "onboard_time": 1728610518,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194524,
+        "num": 278770,
+        "word": "黄景瑜除八害",
+        "onboard_time": 1728615560,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191332,
+        "num": 273158,
+        "word": "洪承汉手写信道歉",
+        "onboard_time": 1728616219,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 272886,
+        "num": 272886,
+        "word": "王楚钦将捧花扔向了观众席",
+        "onboard_time": 1728603078,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 259447,
+        "num": 259447,
+        "word": "王楚钦盛赞林诗栋",
+        "onboard_time": 1728615019,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 254502,
+        "num": 254502,
+        "word": "周五遇上重阳节",
+        "onboard_time": 1728616759,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163378,
+        "num": 250690,
+        "word": "韩剧造后者用重庆冒充首尔",
+        "onboard_time": 1728603618,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 249082,
+        "num": 249082,
+        "word": "鄂LD06335死死顶住失控车辆",
+        "onboard_time": 1728559342,
+        "rank": 30,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 236877,
+        "num": 236877,
+        "word": "存了三个月朋友圈一次性发出后",
+        "onboard_time": 1728603137,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 204104,
+        "num": 204104,
+        "word": "听泉鉴宝宣布短暂停播",
+        "onboard_time": 1728572060,
+        "rank": 32,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 195764,
+        "num": 195764,
+        "word": "穿正装但没说是什么正装",
+        "onboard_time": 1728613339,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 189490,
+        "num": 189490,
+        "word": "年轻人这样过重阳节",
+        "onboard_time": 1728616580,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181276,
+        "num": 181276,
+        "word": "狗狗生理期也需要被精心照顾",
+        "onboard_time": 1728610217,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 158574,
+        "num": 158574,
+        "word": "张兰怼一路繁花节目组",
+        "onboard_time": 1728608180,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154691,
+        "num": 154691,
+        "word": "洪承汉将11月回归RIIZE",
+        "onboard_time": 1728609978,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 154395,
+        "num": 154395,
+        "word": "马斯克回应特斯拉发布会推迟",
+        "onboard_time": 1728615799,
+        "rank": 38,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 150137,
+        "num": 150137,
+        "word": "这种高仿板栗有毒千万别吃",
+        "onboard_time": 1728580274,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146443,
+        "num": 146443,
+        "word": "重阳节",
+        "onboard_time": 1728603017,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142071,
+        "num": 142071,
+        "word": "特斯拉发布会现场有人突发疾病",
+        "onboard_time": 1728616039,
+        "rank": 41,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 139859,
+        "num": 139859,
+        "word": "余华英卖的第1个孩子是自己儿子",
+        "onboard_time": 1728617119,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135669,
+        "num": 135669,
+        "word": "今日重阳愿您安康",
+        "onboard_time": 1728609199,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131854,
+        "num": 131854,
+        "word": "孙颖莎退出亚锦赛",
+        "onboard_time": 1728558680,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131299,
+        "num": 131299,
+        "word": "湖人17比0雄鹿",
+        "onboard_time": 1728616639,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129666,
+        "num": 129666,
+        "word": "关爱老人不止在重阳节这一天",
+        "onboard_time": 1728603859,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128904,
+        "num": 128904,
+        "word": "余华英从5户人家各拐走2个孩子",
+        "onboard_time": 1728613279,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128234,
+        "num": 128234,
+        "word": "请查收重阳节的仪式感",
+        "onboard_time": 1728608959,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 114103,
+        "num": 126064,
+        "word": "披荆斩棘",
+        "onboard_time": 1728615438,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向全国的老年人致以诚挚问候#"
+    }
+  }
+}

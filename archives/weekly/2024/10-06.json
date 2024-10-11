@@ -1,6 +1,6 @@
 {
   "startTime": 1728145573126,
-  "endTime": 1728615718650,
+  "endTime": 1728617219982,
   "band_list": [
     {
       "raw_hot": 13027302,
@@ -603,6 +603,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1572281,
+      "num": 1572281,
+      "word": "特斯拉发布会",
+      "onboard_time": 1728612859,
+      "rank": 0,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 1522405,
       "num": 539248,
       "word": "高开低走",
@@ -1081,14 +1089,6 @@
       "onboard_time": 1728465380,
       "rank": 16,
       "category": "电影"
-    },
-    {
-      "raw_hot": 1096477,
-      "num": 1175436,
-      "word": "特斯拉发布会",
-      "onboard_time": 1728612859,
-      "rank": 0,
-      "category": "汽车"
     },
     {
       "raw_hot": 1082851,
@@ -1579,6 +1579,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 922667,
+      "num": 914136,
+      "word": "听泉鉴宝",
+      "onboard_time": 1728607400,
+      "rank": 7,
+      "category": "网红"
+    },
+    {
       "raw_hot": 919183,
       "num": 232862,
       "word": "女博主独闯哀牢山深处2天后报平安",
@@ -1593,14 +1601,6 @@
       "onboard_time": 1728563419,
       "rank": 4,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 914136,
-      "num": 914136,
-      "word": "听泉鉴宝",
-      "onboard_time": 1728607400,
-      "rank": 7,
-      "category": "网红"
     },
     {
       "raw_hot": 912642,
@@ -2379,6 +2379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 672423,
+      "num": 672423,
+      "word": "男子网售野生发菜获刑",
+      "onboard_time": 1728612558,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 672375,
       "num": 672375,
       "word": "记者深入哀牢山突遇浓雾",
@@ -3043,6 +3051,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 530127,
+      "num": 530127,
+      "word": "被拐女孩梦到妈妈喊自己而记住名字",
+      "onboard_time": 1728616097,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 529466,
       "num": 529466,
       "word": "孙颖莎看向奖杯的眼神让人心疼",
@@ -3056,14 +3072,6 @@
       "word": "成都又多一只巨巨巨大的熊猫",
       "onboard_time": 1728514815,
       "rank": 24,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 526218,
-      "num": 526218,
-      "word": "男子网售野生发菜获刑",
-      "onboard_time": 1728612558,
-      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -3115,6 +3123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 519015,
+      "num": 388197,
+      "word": "韦雪模仿叶珂",
+      "onboard_time": 1728613818,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 518787,
       "num": 336652,
       "word": "男子连续4个月每天1箱饮料险失明",
@@ -3161,14 +3177,6 @@
       "onboard_time": 1728395362,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 511223,
-      "num": 388197,
-      "word": "韦雪模仿叶珂",
-      "onboard_time": 1728613818,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 511216,
@@ -3811,6 +3819,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 426132,
+      "num": 328983,
+      "word": "全智贤成为LV品牌大使",
+      "onboard_time": 1728616519,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 424744,
       "num": 344992,
       "word": "以总理称法总统呼吁武器禁运可耻",
@@ -4169,6 +4185,14 @@
       "onboard_time": 1728319276,
       "rank": 38,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 386964,
+      "num": 502186,
+      "word": "广州交警通报2人深夜飙车严重超速",
+      "onboard_time": 1728614657,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 385064,
@@ -4931,6 +4955,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 326711,
+      "num": 326711,
+      "word": "巴代表问你们已经习惯于我们的死亡了吗",
+      "onboard_time": 1728615918,
+      "rank": 18,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 326622,
       "num": 326622,
       "word": "2NE1与Jennie合照",
@@ -5091,6 +5123,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 316246,
+      "num": 316246,
+      "word": "王皓谈做樊振东教练的感受",
+      "onboard_time": 1728615799,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 315184,
       "num": 432564,
       "word": "郑素敏否认与丁海寅恋爱",
@@ -5137,6 +5177,14 @@
       "onboard_time": 1728478399,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 310907,
+      "num": 310907,
+      "word": "A股进入震荡模式",
+      "onboard_time": 1728613818,
+      "rank": 30,
+      "category": "财经"
     },
     {
       "raw_hot": 310872,
@@ -5707,14 +5755,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 281300,
-      "num": 281300,
-      "word": "A股进入震荡模式",
-      "onboard_time": 1728613818,
-      "rank": 30,
-      "category": "财经"
-    },
-    {
       "raw_hot": 279912,
       "num": 279912,
       "word": "朴智妍离婚后首次公开活动",
@@ -6131,6 +6171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 259447,
+      "num": 259447,
+      "word": "王楚钦盛赞林诗栋",
+      "onboard_time": 1728615019,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 259412,
       "num": 259412,
       "word": "亚锦赛男团决赛",
@@ -6257,6 +6305,14 @@
       "onboard_time": 1728467420,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 254502,
+      "num": 254502,
+      "word": "周五遇上重阳节",
+      "onboard_time": 1728616759,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 254405,
@@ -6635,6 +6691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 237882,
+      "num": 334246,
+      "word": "特斯拉Cybercab没有方向盘和踏板",
+      "onboard_time": 1728616160,
+      "rank": 14,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 237812,
       "num": 237812,
       "word": "詹姆斯布朗尼同场竞技",
@@ -6664,14 +6728,6 @@
       "word": "王曼昱世界排名上升至第2",
       "onboard_time": 1728355820,
       "rank": 38,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 237242,
-      "num": 177729,
-      "word": "王楚钦盛赞林诗栋",
-      "onboard_time": 1728615019,
-      "rank": 42,
       "category": "体育"
     },
     {
@@ -6785,6 +6841,14 @@
       "onboard_time": 1728360320,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 231287,
+      "num": 348171,
+      "word": "朴彩英首支OST",
+      "onboard_time": 1728615498,
+      "rank": 32,
+      "category": "音乐"
     },
     {
       "raw_hot": 230565,
@@ -7057,6 +7121,14 @@
       "onboard_time": 1728372501,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 220412,
+      "num": 347135,
+      "word": "特斯拉 无人驾驶",
+      "onboard_time": 1728616276,
+      "rank": 8,
+      "category": "汽车"
     },
     {
       "raw_hot": 219743,
@@ -8227,6 +8299,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 194524,
+      "num": 278770,
+      "word": "黄景瑜除八害",
+      "onboard_time": 1728615560,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 194270,
       "num": 194270,
       "word": "央视三农直播",
@@ -8403,6 +8483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 191332,
+      "num": 273158,
+      "word": "洪承汉手写信道歉",
+      "onboard_time": 1728616219,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 191174,
       "num": 191174,
       "word": "乒乓球亚锦赛国乒首秀",
@@ -8475,6 +8563,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 189490,
+      "num": 189490,
+      "word": "年轻人这样过重阳节",
+      "onboard_time": 1728616580,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 189238,
       "num": 189238,
       "word": "国乒女团0比1朝鲜",
@@ -8512,14 +8608,6 @@
       "word": "严打隔空猥亵等网上恶性违法犯罪行为",
       "onboard_time": 1728466100,
       "rank": 40,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 188355,
-      "num": 502186,
-      "word": "广州交警通报2人深夜飙车严重超速",
-      "onboard_time": 1728614657,
-      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -9329,14 +9417,6 @@
       "onboard_time": 1728295583,
       "rank": 25,
       "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 172169,
-      "num": 172169,
-      "word": "朴彩英首支OST",
-      "onboard_time": 1728615498,
-      "rank": 32,
-      "category": "音乐"
     },
     {
       "raw_hot": 172141,
@@ -10371,6 +10451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 154395,
+      "num": 154395,
+      "word": "马斯克回应特斯拉发布会推迟",
+      "onboard_time": 1728615799,
+      "rank": 38,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 154334,
       "num": 154334,
       "word": "李兰迪骨相美",
@@ -11227,6 +11315,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 142071,
+      "num": 142071,
+      "word": "特斯拉发布会现场有人突发疾病",
+      "onboard_time": 1728616039,
+      "rank": 41,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 141756,
       "num": 763974,
       "word": "志愿军存亡之战成国庆档票房冠军",
@@ -11369,6 +11465,14 @@
       "onboard_time": 1728477259,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 139859,
+      "num": 139859,
+      "word": "余华英卖的第1个孩子是自己儿子",
+      "onboard_time": 1728617119,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 139810,
@@ -11809,6 +11913,14 @@
       "onboard_time": 1728479720,
       "rank": 48,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 131299,
+      "num": 131299,
+      "word": "湖人17比0雄鹿",
+      "onboard_time": 1728616639,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 131120,
@@ -12329,14 +12441,6 @@
       "onboard_time": 1728141020,
       "rank": 40,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 121896,
-      "num": 121896,
-      "word": "黄景瑜除八害",
-      "onboard_time": 1728615560,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 121880,
@@ -15979,6 +16083,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 28150,
+      "num": 343817,
+      "word": "有券商透露开户数已超2015年",
+      "onboard_time": 1728616580,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 28000,
       "num": 28000,
       "word": "出游要出片更要安全",
@@ -16113,6 +16225,14 @@
       "onboard_time": 1728564321,
       "rank": 42,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 24960,
+      "num": 597458,
+      "word": "首届中国广播电视精品创作大会",
+      "onboard_time": 1728613458,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 24907,
