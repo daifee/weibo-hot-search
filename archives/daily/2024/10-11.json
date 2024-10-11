@@ -1,6 +1,6 @@
 {
   "startTime": 1728577667934,
-  "endTime": 1728639468818,
+  "endTime": 1728642191892,
   "band_list": [
     {
       "raw_hot": 6465280,
@@ -9,6 +9,14 @@
       "onboard_time": 1728574160,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 2972503,
+      "num": 294965,
+      "word": "内蒙古发现一具女尸手脚被捆绑",
+      "onboard_time": 1728640460,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2732721,
@@ -145,6 +153,14 @@
       "onboard_time": 1728558680,
       "rank": 10,
       "category": "体育"
+    },
+    {
+      "raw_hot": 936197,
+      "num": 291148,
+      "word": "男子工作电脑藏64G色情视频被开除",
+      "onboard_time": 1728639081,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 843602,
@@ -340,7 +356,7 @@
     },
     {
       "raw_hot": 554781,
-      "num": 304822,
+      "num": 310124,
       "word": "6岁女童被高年级同学泼开水烫伤",
       "onboard_time": 1728635601,
       "rank": 38,
@@ -427,6 +443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 463864,
+      "num": 359595,
+      "word": "医护被拖欠8个月工资聚门口讨薪",
+      "onboard_time": 1728640880,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 456274,
       "num": 456274,
       "word": "宁静拍短剧",
@@ -456,6 +480,14 @@
       "word": "房贷利率下调后一个月能省多少钱",
       "onboard_time": 1728610518,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 429761,
+      "num": 312191,
+      "word": "余华英",
+      "onboard_time": 1728623061,
+      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -619,6 +651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 354011,
+      "num": 354011,
+      "word": "余华英拐卖儿童案",
+      "onboard_time": 1728639259,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 348148,
       "num": 320415,
       "word": "睡觉时为什么会突然抖一下",
@@ -707,6 +747,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 309546,
+      "num": 309546,
+      "word": "我是娱乐圈普普通通小美女",
+      "onboard_time": 1728638478,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 305629,
       "num": 305629,
       "word": "花215万买奔驰漏水折损近80万",
@@ -721,6 +769,14 @@
       "onboard_time": 1728603017,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 303860,
+      "num": 289932,
+      "word": "50多岁男子公交上猥亵8岁女童",
+      "onboard_time": 1728637881,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 302067,
@@ -771,6 +827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 292585,
+      "num": 292585,
+      "word": "王者荣耀",
+      "onboard_time": 1728640641,
+      "rank": 21,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 289679,
       "num": 248748,
       "word": "肖战张婧仪藏海传草地路透",
@@ -793,6 +857,14 @@
       "onboard_time": 1728629240,
       "rank": 24,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 288615,
+      "num": 288615,
+      "word": "海康威视大规模裁员",
+      "onboard_time": 1728641180,
+      "rank": 24,
+      "category": "数码"
     },
     {
       "raw_hot": 286754,
@@ -851,20 +923,20 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 265134,
+      "num": 265134,
+      "word": "猿辅导回应大学生涌入平台pk小学生",
+      "onboard_time": 1728639979,
+      "rank": 30,
+      "category": "互联网,教育"
+    },
+    {
       "raw_hot": 264991,
       "num": 264991,
       "word": "原来很多人的洗澡顺序错了",
       "onboard_time": 1728560902,
       "rank": 22,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 261768,
-      "num": 202588,
-      "word": "50多岁男子公交上猥亵8岁女童",
-      "onboard_time": 1728637881,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 261631,
@@ -907,6 +979,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 249316,
+      "num": 249316,
+      "word": "杨妞花",
+      "onboard_time": 1728639859,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 244976,
       "num": 244976,
       "word": "请查收重阳节的仪式感",
@@ -937,6 +1017,14 @@
       "onboard_time": 1728576318,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 236578,
+      "num": 236578,
+      "word": "00后用买房钱炒股被上了股市第一课",
+      "onboard_time": 1728640820,
+      "rank": 32,
+      "category": "财经"
     },
     {
       "raw_hot": 235115,
@@ -1043,6 +1131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 212091,
+      "num": 212091,
+      "word": "男子不爱社交长期不说话致语言退化",
+      "onboard_time": 1728641420,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 211025,
       "num": 211025,
       "word": "听泉鉴宝30天涨粉近千万",
@@ -1073,14 +1169,6 @@
       "onboard_time": 1728620360,
       "rank": 26,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 206050,
-      "num": 206050,
-      "word": "余华英",
-      "onboard_time": 1728623061,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 205143,
@@ -1211,14 +1299,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 191363,
-      "num": 191363,
-      "word": "男子工作电脑藏64G色情视频被开除",
-      "onboard_time": 1728639081,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 191332,
       "num": 273158,
       "word": "洪承汉手写信道歉",
@@ -1299,16 +1379,16 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 181406,
-      "num": 195536,
-      "word": "我是娱乐圈普普通通小美女",
-      "onboard_time": 1728638478,
-      "rank": 46,
-      "category": "综艺"
+      "raw_hot": 180490,
+      "num": 180490,
+      "word": "王楚钦说找到了求生欲和求胜欲",
+      "onboard_time": 1728639558,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 179816,
-      "num": 202775,
+      "num": 278135,
       "word": "邓为为母校中戏捐款",
       "onboard_time": 1728639020,
       "rank": 19,
@@ -1355,19 +1435,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 171143,
+      "num": 171143,
+      "word": "柳州一块钱五个的螺蛳粉臭豆腐",
+      "onboard_time": 1728641360,
+      "rank": 40,
+      "category": "美食"
+    },
+    {
       "raw_hot": 170695,
       "num": 178142,
       "word": "广西人在美国卖螺蛳粉生意爆火",
       "onboard_time": 1728573919,
       "rank": 32,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 168253,
-      "num": 168253,
-      "word": "余华英拐卖儿童案",
-      "onboard_time": 1728639259,
-      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -1425,6 +1505,14 @@
       "onboard_time": 1728626362,
       "rank": 24,
       "category": "综艺,电竞"
+    },
+    {
+      "raw_hot": 161731,
+      "num": 285329,
+      "word": "XG新歌IYKYK",
+      "onboard_time": 1728641120,
+      "rank": 25,
+      "category": "音乐"
     },
     {
       "raw_hot": 161313,
@@ -1571,6 +1659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 145162,
+      "num": 273491,
+      "word": "黑色月光女主连拿两血",
+      "onboard_time": 1728641719,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 144258,
       "num": 144258,
       "word": "王皓再谈三次奥运亚军",
@@ -1691,6 +1787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 136146,
+      "num": 136146,
+      "word": "全国乒乓球锦标赛",
+      "onboard_time": 1728641781,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 136067,
       "num": 178370,
       "word": "我国成功发射卫星互联网高轨卫星",
@@ -1755,11 +1859,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 127625,
+      "num": 127625,
+      "word": "TTG对战DRG",
+      "onboard_time": 1728642020,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 127296,
       "num": 127296,
       "word": "孩子被余华英拐走父母受打击双亡",
       "onboard_time": 1728638960,
       "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 126769,
+      "num": 126769,
+      "word": "平顶山地震",
+      "onboard_time": 1728639800,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -1785,6 +1905,14 @@
       "onboard_time": 1728615139,
       "rank": 42,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 123698,
+      "num": 123698,
+      "word": "对的人 兜兜转转还是会相遇",
+      "onboard_time": 1728640820,
+      "rank": 49,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 123026,
@@ -2179,6 +2307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 55661,
+      "num": 299866,
+      "word": "我给我妈租了个儿子",
+      "onboard_time": 1728641120,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 55546,
       "num": 64414,
       "word": "国足1比3澳大利亚",
@@ -2251,6 +2387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 43477,
+      "num": 313856,
+      "word": "重审余华英每一笔罪恶都不能被放过",
+      "onboard_time": 1728641000,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 43397,
       "num": 295458,
       "word": "倪妮动物封面",
@@ -2295,6 +2439,14 @@
       "num": 1381941,
       "word": "愿时光不老岁月静好",
       "onboard_time": 1728618919,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 39938,
+      "num": 405560,
+      "word": "惊艳了秋天的多彩丰收",
+      "onboard_time": 1728640880,
       "rank": 2,
       "category": "社会新闻"
     },
@@ -2387,12 +2539,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 28064,
+      "num": 199880,
+      "word": "UA引领fitcheck运动混搭新趋势",
+      "onboard_time": 1728639558,
+      "rank": 36,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 27983,
       "num": 34822,
       "word": "李宇春聚星名人赛压轴表演",
       "onboard_time": 1728582792,
       "rank": 49,
       "category": "演出,体育"
+    },
+    {
+      "raw_hot": 27633,
+      "num": 310961,
+      "word": "当地回应网曝城管穿便衣暴力执法",
+      "onboard_time": 1728641479,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 27545,
@@ -2443,6 +2611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 22730,
+      "num": 304047,
+      "word": "偶遇丁程鑫刘耀文北电吃饭",
+      "onboard_time": 1728641960,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 22269,
       "num": 26917,
       "word": "你叫余华英我记了26年",
@@ -2473,6 +2649,14 @@
       "onboard_time": 1728560662,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 20937,
+      "num": 310779,
+      "word": "60岁以上人群爱上买数码产品",
+      "onboard_time": 1728641420,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 19626,
@@ -2532,6 +2716,9 @@
     },
     {
       "word": "#在新的起点上继续推动文化繁荣#"
+    },
+    {
+      "word": "#老年人是党和国家的宝贵财富#"
     }
   ]
 }
