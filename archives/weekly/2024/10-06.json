@@ -1,6 +1,6 @@
 {
   "startTime": 1728145573126,
-  "endTime": 1728656470830,
+  "endTime": 1728657574840,
   "band_list": [
     {
       "raw_hot": 13027302,
@@ -1091,6 +1091,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1146049,
+      "num": 1183367,
+      "word": "哀牢山没有蟒蛇但有毒蛇",
+      "onboard_time": 1728653720,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1145859,
       "num": 1145859,
       "word": "这种高仿板栗有毒千万别吃",
@@ -1201,14 +1209,6 @@
       "onboard_time": 1728464120,
       "rank": 7,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 1075389,
-      "num": 1172062,
-      "word": "哀牢山没有蟒蛇但有毒蛇",
-      "onboard_time": 1728653720,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1069057,
@@ -1659,6 +1659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 942248,
+      "num": 942248,
+      "word": "费德勒陈奕迅vs樊振东张之臻",
+      "onboard_time": 1728651741,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 941566,
       "num": 583732,
       "word": "李敏镐37岁的状态",
@@ -1793,6 +1801,14 @@
       "onboard_time": 1728468319,
       "rank": 5,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 880996,
+      "num": 880996,
+      "word": "林诗栋3比2本雅明",
+      "onboard_time": 1728655101,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 875253,
@@ -2075,14 +2091,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 796827,
-      "num": 796827,
-      "word": "费德勒陈奕迅vs樊振东张之臻",
-      "onboard_time": 1728651741,
-      "rank": 7,
-      "category": "体育"
-    },
-    {
       "raw_hot": 792410,
       "num": 439044,
       "word": "监控16小时记录哀牢山里究竟有什么",
@@ -2129,14 +2137,6 @@
       "onboard_time": 1728177078,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 785200,
-      "num": 785200,
-      "word": "林诗栋3比2本雅明",
-      "onboard_time": 1728655101,
-      "rank": 5,
-      "category": "体育"
     },
     {
       "raw_hot": 785181,
@@ -3368,6 +3368,14 @@
       "word": "成都又多一只巨巨巨大的熊猫",
       "onboard_time": 1728514815,
       "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 528900,
+      "num": 528900,
+      "word": "女儿被拐后妈妈疯了爸爸自杀了",
+      "onboard_time": 1728653120,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -5139,14 +5147,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 357303,
-      "num": 373685,
-      "word": "女儿被拐后妈妈疯了爸爸自杀了",
-      "onboard_time": 1728653120,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 356525,
       "num": 227133,
       "word": "潘玮柏评论区",
@@ -5409,6 +5409,14 @@
       "onboard_time": 1728228320,
       "rank": 17,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 336505,
+      "num": 309857,
+      "word": "唐艺昕染粉发了",
+      "onboard_time": 1728652160,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 335864,
@@ -5787,14 +5795,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 309857,
-      "num": 309857,
-      "word": "唐艺昕染粉发了",
-      "onboard_time": 1728652160,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 309507,
       "num": 429557,
       "word": "TES战胜DK",
@@ -6003,6 +6003,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 299269,
+      "num": 299269,
+      "word": "费德勒樊振东切磋乒乓",
+      "onboard_time": 1728654922,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 299217,
       "num": 299217,
       "word": "梁靖崑2比3黄彦诚",
@@ -6177,14 +6185,6 @@
       "onboard_time": 1728355279,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 291044,
-      "num": 291044,
-      "word": "费德勒樊振东切磋乒乓",
-      "onboard_time": 1728654922,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 291039,
@@ -6387,6 +6387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 283266,
+      "num": 283266,
+      "word": "苏醒参加快男的原因找到了",
+      "onboard_time": 1728656181,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 283091,
       "num": 604619,
       "word": "央行原副行长范一飞被判处死缓",
@@ -6472,6 +6480,14 @@
       "word": "返校车厢里全是碎掉的大学生",
       "onboard_time": 1728307160,
       "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 279107,
+      "num": 279107,
+      "word": "理记回应实名举报江秋莲骗捐8年",
+      "onboard_time": 1728649460,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -6787,14 +6803,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 264644,
-      "num": 264644,
-      "word": "理记回应实名举报江秋莲骗捐8年",
-      "onboard_time": 1728649460,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 264622,
       "num": 264622,
       "word": "这七天比一节45分钟的课还快",
@@ -7041,6 +7049,14 @@
       "onboard_time": 1728467420,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 254866,
+      "num": 254866,
+      "word": "BLG对战PSG",
+      "onboard_time": 1728656302,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 254405,
@@ -8635,6 +8651,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 205539,
+      "num": 205539,
+      "word": "聚星名人赛宋雨琦中场秀",
+      "onboard_time": 1728656660,
+      "rank": 34,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 205403,
       "num": 205403,
       "word": "蔡徐坤旅游拍照姿势难度",
@@ -9003,6 +9027,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 200317,
+      "num": 200317,
+      "word": "AG战胜WE",
+      "onboard_time": 1728656660,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 200278,
       "num": 210860,
       "word": "金莎任敏演母女",
@@ -9177,6 +9209,14 @@
       "onboard_time": 1728351920,
       "rank": 34,
       "category": "财经"
+    },
+    {
+      "raw_hot": 197950,
+      "num": 197950,
+      "word": "杨妞花说余华英庭审现场态度恶劣",
+      "onboard_time": 1728655522,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 197717,
@@ -10179,14 +10219,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 180406,
-      "num": 180406,
-      "word": "杨妞花说余华英庭审现场态度恶劣",
-      "onboard_time": 1728655522,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 180401,
       "num": 161368,
       "word": "苏新皓E人的极限在哪里",
@@ -10755,6 +10787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 169841,
+      "num": 260728,
+      "word": "苏新皓唱跳INeedAGirl",
+      "onboard_time": 1728656240,
+      "rank": 46,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 169375,
       "num": 169375,
       "word": "车车车车高速车车车车",
@@ -11035,12 +11075,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 165249,
-      "num": 165249,
-      "word": "BLG对战PSG",
-      "onboard_time": 1728656302,
-      "rank": 43,
-      "category": "电竞"
+      "raw_hot": 165272,
+      "num": 165272,
+      "word": "上海劳力士大师赛",
+      "onboard_time": 1728654200,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 165212,
@@ -11073,6 +11113,14 @@
       "onboard_time": 1728269118,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 164755,
+      "num": 258657,
+      "word": "周雨彤发文告别韩苏",
+      "onboard_time": 1728656840,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 164593,
@@ -11113,6 +11161,14 @@
       "onboard_time": 1728449000,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 163865,
+      "num": 163865,
+      "word": "樊振东 ACE",
+      "onboard_time": 1728657441,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 163863,
@@ -11177,6 +11233,14 @@
       "onboard_time": 1728280817,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 163193,
+      "num": 163193,
+      "word": "梁靖崑3比0萨利赫",
+      "onboard_time": 1728657261,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 162909,
@@ -11643,6 +11707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 156741,
+      "num": 156741,
+      "word": "男子遭裁员后孤身走进哀牢山",
+      "onboard_time": 1728655642,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 156735,
       "num": 156735,
       "word": "油价",
@@ -11689,14 +11761,6 @@
       "onboard_time": 1728569541,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 156103,
-      "num": 244890,
-      "word": "苏醒参加快男的原因找到了",
-      "onboard_time": 1728656181,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 155971,
@@ -12425,14 +12489,6 @@
       "onboard_time": 1728199879,
       "rank": 35,
       "category": "艺人,作品衍生"
-    },
-    {
-      "raw_hot": 146874,
-      "num": 146874,
-      "word": "苏新皓唱跳INeedAGirl",
-      "onboard_time": 1728656240,
-      "rank": 46,
-      "category": "音乐"
     },
     {
       "raw_hot": 146840,
@@ -15531,6 +15587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 89379,
+      "num": 570978,
+      "word": "杨妞花称余华英的量刑建议仍是死刑",
+      "onboard_time": 1728656002,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 88501,
       "num": 88501,
       "word": "持续深耕自己才能厚积薄发",
@@ -15617,6 +15681,14 @@
       "onboard_time": 1728283398,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 85631,
+      "num": 375980,
+      "word": "余华英将罪责都推到丈夫和情夫身上",
+      "onboard_time": 1728656781,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 85438,
@@ -16121,14 +16193,6 @@
       "onboard_time": 1728351679,
       "rank": 49,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 72396,
-      "num": 570978,
-      "word": "杨妞花称余华英的量刑建议仍是死刑",
-      "onboard_time": 1728656002,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 72075,
@@ -16795,6 +16859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 52122,
+      "num": 548262,
+      "word": "95后研究员帽子炸裂谁之过",
+      "onboard_time": 1728655581,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 51660,
       "num": 426502,
       "word": "为了合群难以拒绝职场的奶茶社交",
@@ -17411,14 +17483,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 38492,
-      "num": 548262,
-      "word": "95后研究员帽子炸裂谁之过",
-      "onboard_time": 1728655581,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 38094,
       "num": 281117,
       "word": "哀牢山景区可赏禁区当敬",
@@ -17769,6 +17833,14 @@
       "onboard_time": 1728455898,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 33738,
+      "num": 331275,
+      "word": "周扬青说不会再找艺人谈恋爱",
+      "onboard_time": 1728656421,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 33725,
@@ -18593,14 +18665,6 @@
       "onboard_time": 1728236774,
       "rank": 19,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 18443,
-      "num": 331275,
-      "word": "周扬青说不会再找艺人谈恋爱",
-      "onboard_time": 1728656421,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 18185,
