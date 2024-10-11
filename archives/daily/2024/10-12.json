@@ -1,6 +1,6 @@
 {
   "startTime": 1728664067735,
-  "endTime": 1728674311222,
+  "endTime": 1728675336276,
   "band_list": [
     {
       "raw_hot": 1319783,
@@ -443,6 +443,14 @@
       "category": "艺人,作品衍生"
     },
     {
+      "raw_hot": 46615,
+      "num": 81869,
+      "word": "4博士2博士后的浮夸学历怎么诞生的",
+      "onboard_time": 1728665355,
+      "rank": 38,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 45599,
       "num": 50655,
       "word": "Jennie新歌空降Melon6位",
@@ -459,20 +467,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 40271,
-      "num": 81869,
-      "word": "4博士2博士后的浮夸学历怎么诞生的",
-      "onboard_time": 1728665355,
-      "rank": 38,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 36436,
       "num": 112323,
       "word": "杨妞花称靠记忆中父母的爱走到今天",
       "onboard_time": 1728665956,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 30707,
+      "num": 42654,
+      "word": "刘力扬回应于公于私于情于理",
+      "onboard_time": 1728670692,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 30551,
@@ -499,14 +507,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 25871,
-      "num": 42654,
-      "word": "刘力扬回应于公于私于情于理",
-      "onboard_time": 1728670692,
-      "rank": 48,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 24798,
       "num": 132003,
       "word": "被拐女孩说相信会有好的结果",
@@ -523,12 +523,36 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 18591,
+      "raw_hot": 20714,
       "num": 41160,
       "word": "烟卡正威胁孩子健康",
       "onboard_time": 1728673152,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 19861,
+      "num": 22681,
+      "word": "费德勒超级挚友之夜",
+      "onboard_time": 1728674832,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 17611,
+      "num": 28846,
+      "word": "名校留学生开始扎堆做留学中介",
+      "onboard_time": 1728675311,
+      "rank": 29,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 15026,
+      "num": 22689,
+      "word": "尚雯婕刘力扬合唱如果没有你",
+      "onboard_time": 1728674532,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 4838,
