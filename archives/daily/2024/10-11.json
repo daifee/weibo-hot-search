@@ -1,6 +1,6 @@
 {
   "startTime": 1728577667934,
-  "endTime": 1728650503145,
+  "endTime": 1728651473414,
   "band_list": [
     {
       "raw_hot": 6465280,
@@ -75,6 +75,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1369067,
+      "num": 276979,
+      "word": "听泉鉴宝最恐怖的一集",
+      "onboard_time": 1728647900,
+      "rank": 10,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1357417,
       "num": 1357417,
       "word": "95后研究员被暂停聘任关系",
@@ -97,14 +105,6 @@
       "onboard_time": 1728574640,
       "rank": 3,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1301490,
-      "num": 258998,
-      "word": "听泉鉴宝最恐怖的一集",
-      "onboard_time": 1728647900,
-      "rank": 10,
-      "category": "网红"
     },
     {
       "raw_hot": 1292599,
@@ -147,6 +147,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1053135,
+      "num": 1168501,
+      "word": "樊振东网球首秀",
+      "onboard_time": 1728643279,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1046522,
       "num": 779685,
       "word": "霍思燕携10只狗8只鸡拍封面",
@@ -179,14 +187,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 900489,
-      "num": 1144078,
-      "word": "樊振东网球首秀",
-      "onboard_time": 1728643279,
-      "rank": 1,
-      "category": "体育"
-    },
-    {
       "raw_hot": 843602,
       "num": 453680,
       "word": "沙溢瘦回白展堂",
@@ -201,6 +201,14 @@
       "onboard_time": 1728634699,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 825647,
+      "num": 276494,
+      "word": "4天大新生儿医院照蓝光期间死亡",
+      "onboard_time": 1728648740,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 815775,
@@ -283,6 +291,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 716573,
+      "num": 275454,
+      "word": "张若昀唐艺昕带娃逛故宫",
+      "onboard_time": 1728648921,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 703774,
       "num": 703774,
       "word": "官方称人才库没有95后研究员这个人",
@@ -297,14 +313,6 @@
       "onboard_time": 1728631040,
       "rank": 48,
       "category": "自然"
-    },
-    {
-      "raw_hot": 674555,
-      "num": 256602,
-      "word": "张若昀唐艺昕带娃逛故宫",
-      "onboard_time": 1728648921,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 672423,
@@ -347,14 +355,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 635837,
-      "num": 249112,
-      "word": "4天大新生儿医院照蓝光期间死亡",
-      "onboard_time": 1728648740,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 616171,
       "num": 441139,
       "word": "张兰怼一路繁花节目组",
@@ -388,7 +388,7 @@
     },
     {
       "raw_hot": 579376,
-      "num": 272081,
+      "num": 273658,
       "word": "二房东涨租遭拒后连夜清空店铺",
       "onboard_time": 1728645080,
       "rank": 45,
@@ -411,6 +411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 559066,
+      "num": 274985,
+      "word": "李梦签约乐华娱乐",
+      "onboard_time": 1728650480,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 554781,
       "num": 310124,
       "word": "6岁女童被高年级同学泼开水烫伤",
@@ -428,7 +436,7 @@
     },
     {
       "raw_hot": 532319,
-      "num": 237547,
+      "num": 272713,
       "word": "章泽天造型师回应胸针传言",
       "onboard_time": 1728647121,
       "rank": 15,
@@ -459,6 +467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 507836,
+      "num": 507836,
+      "word": "王楚钦vs塔希尔",
+      "onboard_time": 1728647780,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 498112,
       "num": 498112,
       "word": "猿辅导回应大学生涌入平台pk小学生",
@@ -480,6 +496,14 @@
       "word": "中方要求调查追责以军袭击联黎部队阵地",
       "onboard_time": 1728618379,
       "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 487343,
+      "num": 274538,
+      "word": "江西景德镇一家三口被撞身亡",
+      "onboard_time": 1728650782,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -673,14 +697,6 @@
       "onboard_time": 1728610217,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 389636,
-      "num": 389636,
-      "word": "王楚钦vs塔希尔",
-      "onboard_time": 1728647780,
-      "rank": 5,
-      "category": "体育"
     },
     {
       "raw_hot": 388912,
@@ -1035,6 +1051,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 263035,
+      "num": 263035,
+      "word": "理记回应实名举报江秋莲骗捐8年",
+      "onboard_time": 1728649460,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 261631,
       "num": 261631,
       "word": "恋与深空第二批",
@@ -1105,6 +1129,14 @@
       "onboard_time": 1728625700,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 239655,
+      "num": 277865,
+      "word": "春花焰",
+      "onboard_time": 1728650360,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 237926,
@@ -1259,14 +1291,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 208562,
-      "num": 208562,
-      "word": "理记回应实名举报江秋莲骗捐8年",
-      "onboard_time": 1728649460,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 208285,
       "num": 208285,
       "word": "专项行动整治编造网络黑话烂梗",
@@ -1289,6 +1313,14 @@
       "onboard_time": 1728617599,
       "rank": 38,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 204871,
+      "num": 360882,
+      "word": "郑钦文VS保利尼",
+      "onboard_time": 1728642740,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 204171,
@@ -1379,6 +1411,14 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 198225,
+      "num": 262008,
+      "word": "周深苏州抢票",
+      "onboard_time": 1728650602,
+      "rank": 19,
+      "category": "演出"
+    },
+    {
       "raw_hot": 197067,
       "num": 197067,
       "word": "摩羯真的太容易陷入内耗了",
@@ -1425,14 +1465,6 @@
       "onboard_time": 1728644299,
       "rank": 16,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 191682,
-      "num": 360882,
-      "word": "郑钦文VS保利尼",
-      "onboard_time": 1728642740,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 191546,
@@ -1539,6 +1571,14 @@
       "category": "自然"
     },
     {
+      "raw_hot": 185875,
+      "num": 185875,
+      "word": "G2对战T1",
+      "onboard_time": 1728648318,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 183802,
       "num": 183802,
       "word": "2024重阳奇妙游直播",
@@ -1561,6 +1601,14 @@
       "onboard_time": 1728639558,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 179833,
+      "num": 257201,
+      "word": "独库公路为何冬季要封闭",
+      "onboard_time": 1728650299,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 179816,
@@ -1739,14 +1787,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 159271,
-      "num": 173256,
-      "word": "春花焰",
-      "onboard_time": 1728650360,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 157129,
       "num": 261516,
       "word": "刘宇宁直播",
@@ -1897,6 +1937,14 @@
       "onboard_time": 1728615618,
       "rank": 36,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 147132,
+      "num": 147132,
+      "word": "陈梦重阳教爷爷奶奶打乒乓球",
+      "onboard_time": 1728649100,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 145354,
@@ -2091,14 +2139,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 130050,
-      "num": 130050,
-      "word": "陈梦重阳教爷爷奶奶打乒乓球",
-      "onboard_time": 1728649100,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 130016,
       "num": 130016,
       "word": "张极 时间胶囊Vlog",
@@ -2171,6 +2211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 126362,
+      "num": 246156,
+      "word": "友谊可是件大事",
+      "onboard_time": 1728651260,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 125584,
       "num": 375921,
       "word": "律师解读进口日本红薯或涉违法",
@@ -2193,14 +2241,6 @@
       "onboard_time": 1728615139,
       "rank": 42,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 123862,
-      "num": 123862,
-      "word": "李梦签约乐华娱乐",
-      "onboard_time": 1728650480,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 123698,
@@ -2227,6 +2267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 121052,
+      "num": 121052,
+      "word": "当地回应新生儿医院照蓝光期间死亡",
+      "onboard_time": 1728651139,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 120870,
       "num": 120870,
       "word": "林诗栋vs林昀儒",
@@ -2241,6 +2289,22 @@
       "onboard_time": 1728636019,
       "rank": 47,
       "category": "网红"
+    },
+    {
+      "raw_hot": 120363,
+      "num": 120363,
+      "word": "男子爱吃火锅双膝病变无法行走",
+      "onboard_time": 1728648499,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 119129,
+      "num": 119129,
+      "word": "A股连续8天成交额破万亿",
+      "onboard_time": 1728651381,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 118994,
@@ -2568,14 +2632,6 @@
       "word": "秒杀没开始团伙已经抢到商品",
       "onboard_time": 1728597551,
       "rank": 31,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 73358,
-      "num": 130021,
-      "word": "独库公路为何冬季要封闭",
-      "onboard_time": 1728650299,
-      "rank": 46,
       "category": "社会新闻"
     },
     {

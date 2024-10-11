@@ -1,6 +1,6 @@
 {
   "startTime": 1728145573126,
-  "endTime": 1728650503145,
+  "endTime": 1728651473414,
   "band_list": [
     {
       "raw_hot": 13027302,
@@ -731,6 +731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1369067,
+      "num": 276979,
+      "word": "听泉鉴宝最恐怖的一集",
+      "onboard_time": 1728647900,
+      "rank": 10,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1368921,
       "num": 569876,
       "word": "王楚钦状态",
@@ -833,14 +841,6 @@
       "onboard_time": 1728574640,
       "rank": 3,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1301490,
-      "num": 258998,
-      "word": "听泉鉴宝最恐怖的一集",
-      "onboard_time": 1728647900,
-      "rank": 10,
-      "category": "网红"
     },
     {
       "raw_hot": 1294678,
@@ -1225,6 +1225,14 @@
       "onboard_time": 1728529337,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1053135,
+      "num": 1168501,
+      "word": "樊振东网球首秀",
+      "onboard_time": 1728643279,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 1052356,
@@ -1715,14 +1723,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 900489,
-      "num": 1144078,
-      "word": "樊振东网球首秀",
-      "onboard_time": 1728643279,
-      "rank": 1,
-      "category": "体育"
-    },
-    {
       "raw_hot": 900041,
       "num": 900041,
       "word": "发改委介绍一揽子增量政策有关情况",
@@ -1937,6 +1937,14 @@
       "onboard_time": 1728213202,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 825647,
+      "num": 276494,
+      "word": "4天大新生儿医院照蓝光期间死亡",
+      "onboard_time": 1728648740,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 820173,
@@ -2363,6 +2371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 716573,
+      "num": 275454,
+      "word": "张若昀唐艺昕带娃逛故宫",
+      "onboard_time": 1728648921,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 715422,
       "num": 715422,
       "word": "小西天爆火让更多人认识了隰字",
@@ -2520,14 +2536,6 @@
       "word": "周冬雨已经是nextlevel了",
       "onboard_time": 1728220461,
       "rank": 38,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 674555,
-      "num": 256602,
-      "word": "张若昀唐艺昕带娃逛故宫",
-      "onboard_time": 1728648921,
-      "rank": 11,
       "category": "艺人"
     },
     {
@@ -2689,14 +2697,6 @@
       "onboard_time": 1728211639,
       "rank": 20,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 635837,
-      "num": 249112,
-      "word": "4天大新生儿医院照蓝光期间死亡",
-      "onboard_time": 1728648740,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 631604,
@@ -3004,7 +3004,7 @@
     },
     {
       "raw_hot": 579376,
-      "num": 272081,
+      "num": 273658,
       "word": "二房东涨租遭拒后连夜清空店铺",
       "onboard_time": 1728645080,
       "rank": 45,
@@ -3147,6 +3147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 559066,
+      "num": 274985,
+      "word": "李梦签约乐华娱乐",
+      "onboard_time": 1728650480,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 558221,
       "num": 558221,
       "word": "王艺迪2比3张本美和",
@@ -3252,7 +3260,7 @@
     },
     {
       "raw_hot": 532319,
-      "num": 237547,
+      "num": 272713,
       "word": "章泽天造型师回应胸针传言",
       "onboard_time": 1728647121,
       "rank": 15,
@@ -3408,6 +3416,14 @@
       "word": "国乒女团1比1朝鲜",
       "onboard_time": 1728400401,
       "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 507836,
+      "num": 507836,
+      "word": "王楚钦vs塔希尔",
+      "onboard_time": 1728647780,
+      "rank": 5,
       "category": "体育"
     },
     {
@@ -3576,6 +3592,14 @@
       "word": "中方要求调查追责以军袭击联黎部队阵地",
       "onboard_time": 1728618379,
       "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 487343,
+      "num": 274538,
+      "word": "江西景德镇一家三口被撞身亡",
+      "onboard_time": 1728650782,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -4537,14 +4561,6 @@
       "onboard_time": 1728610217,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 389636,
-      "num": 389636,
-      "word": "王楚钦vs塔希尔",
-      "onboard_time": 1728647780,
-      "rank": 5,
-      "category": "体育"
     },
     {
       "raw_hot": 389121,
@@ -6683,6 +6699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 263035,
+      "num": 263035,
+      "word": "理记回应实名举报江秋莲骗捐8年",
+      "onboard_time": 1728649460,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 262613,
       "num": 102531,
       "word": "游客自驾驶入罗布泊被困弃车徒步返回",
@@ -7225,6 +7249,14 @@
       "onboard_time": 1728454578,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 239655,
+      "num": 277865,
+      "word": "春花焰",
+      "onboard_time": 1728650360,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 239576,
@@ -8259,14 +8291,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 208562,
-      "num": 208562,
-      "word": "理记回应实名举报江秋莲骗捐8年",
-      "onboard_time": 1728649460,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 208339,
       "num": 271122,
       "word": "张晚意一次走通两种赛道",
@@ -8481,6 +8505,14 @@
       "onboard_time": 1728617599,
       "rank": 38,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 204871,
+      "num": 360882,
+      "word": "郑钦文VS保利尼",
+      "onboard_time": 1728642740,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 204527,
@@ -8931,6 +8963,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 198225,
+      "num": 262008,
+      "word": "周深苏州抢票",
+      "onboard_time": 1728650602,
+      "rank": 19,
+      "category": "演出"
+    },
+    {
       "raw_hot": 198220,
       "num": 198220,
       "word": "虞书欣撤回一个虞书欣",
@@ -9283,14 +9323,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 191682,
-      "num": 360882,
-      "word": "郑钦文VS保利尼",
-      "onboard_time": 1728642740,
-      "rank": 18,
-      "category": "体育"
-    },
-    {
       "raw_hot": 191546,
       "num": 254743,
       "word": "郭晓婷说着霍建华想着胡歌",
@@ -9617,6 +9649,14 @@
       "onboard_time": 1728610518,
       "rank": 28,
       "category": "自然"
+    },
+    {
+      "raw_hot": 185875,
+      "num": 185875,
+      "word": "G2对战T1",
+      "onboard_time": 1728648318,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 185769,
@@ -9953,6 +9993,14 @@
       "onboard_time": 1728379039,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 179833,
+      "num": 257201,
+      "word": "独库公路为何冬季要封闭",
+      "onboard_time": 1728650299,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 179816,
@@ -11171,14 +11219,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 159271,
-      "num": 173256,
-      "word": "春花焰",
-      "onboard_time": 1728650360,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 159093,
       "num": 159093,
       "word": "第五人格设计思路",
@@ -12105,6 +12145,14 @@
       "onboard_time": 1728305721,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 147132,
+      "num": 147132,
+      "word": "陈梦重阳教爷爷奶奶打乒乓球",
+      "onboard_time": 1728649100,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 147049,
@@ -13187,14 +13235,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 130050,
-      "num": 130050,
-      "word": "陈梦重阳教爷爷奶奶打乒乓球",
-      "onboard_time": 1728649100,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 130024,
       "num": 758541,
       "word": "A股中字头板块上演涨停潮",
@@ -13483,6 +13523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 126362,
+      "num": 246156,
+      "word": "友谊可是件大事",
+      "onboard_time": 1728651260,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 126002,
       "num": 126002,
       "word": "刘亦菲披肩配白裙",
@@ -13609,14 +13657,6 @@
       "onboard_time": 1728187458,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 123862,
-      "num": 123862,
-      "word": "李梦签约乐华娱乐",
-      "onboard_time": 1728650480,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 123752,
@@ -13771,12 +13811,28 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 121052,
+      "num": 121052,
+      "word": "当地回应新生儿医院照蓝光期间死亡",
+      "onboard_time": 1728651139,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 120638,
       "num": 120638,
       "word": "听泉鉴宝回应停播",
       "onboard_time": 1728636019,
       "rank": 47,
       "category": "网红"
+    },
+    {
+      "raw_hot": 120363,
+      "num": 120363,
+      "word": "男子爱吃火锅双膝病变无法行走",
+      "onboard_time": 1728648499,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 120290,
@@ -13833,6 +13889,14 @@
       "onboard_time": 1728567859,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 119129,
+      "num": 119129,
+      "word": "A股连续8天成交额破万亿",
+      "onboard_time": 1728651381,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 119049,
@@ -15737,14 +15801,6 @@
       "onboard_time": 1728378079,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 73358,
-      "num": 130021,
-      "word": "独库公路为何冬季要封闭",
-      "onboard_time": 1728650299,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 73266,
