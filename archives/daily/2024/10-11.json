@@ -1,6 +1,6 @@
 {
   "startTime": 1728577667934,
-  "endTime": 1728617219982,
+  "endTime": 1728618109311,
   "band_list": [
     {
       "raw_hot": 6465280,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1892342,
-      "num": 475800,
+      "num": 519473,
       "word": "10岁女儿患抑郁症后鸡娃妈妈觉醒了",
       "onboard_time": 1728613157,
       "rank": 10,
@@ -35,8 +35,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1572281,
-      "num": 1572281,
+      "raw_hot": 1826394,
+      "num": 1826394,
       "word": "特斯拉发布会",
       "onboard_time": 1728612859,
       "rank": 0,
@@ -48,6 +48,14 @@
       "word": "95后研究员被暂停聘任关系",
       "onboard_time": 1728605300,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1322595,
+      "num": 1322595,
+      "word": "被拐女孩梦到妈妈喊自己而记住名字",
+      "onboard_time": 1728616097,
+      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -75,20 +83,20 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1016276,
+      "num": 914136,
+      "word": "听泉鉴宝",
+      "onboard_time": 1728607400,
+      "rank": 7,
+      "category": "网红"
+    },
+    {
       "raw_hot": 946505,
       "num": 522243,
       "word": "孙颖莎退出亚锦赛",
       "onboard_time": 1728558680,
       "rank": 10,
       "category": "体育"
-    },
-    {
-      "raw_hot": 922667,
-      "num": 914136,
-      "word": "听泉鉴宝",
-      "onboard_time": 1728607400,
-      "rank": 7,
-      "category": "网红"
     },
     {
       "raw_hot": 815775,
@@ -147,6 +155,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 676468,
+      "num": 676468,
+      "word": "余华英卖的第1个孩子是自己儿子",
+      "onboard_time": 1728617119,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 672423,
       "num": 672423,
       "word": "男子网售野生发菜获刑",
@@ -169,6 +185,14 @@
       "onboard_time": 1728603078,
       "rank": 10,
       "category": "体育"
+    },
+    {
+      "raw_hot": 660453,
+      "num": 660453,
+      "word": "全智贤成为LV品牌大使",
+      "onboard_time": 1728616519,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 636830,
@@ -211,16 +235,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 530127,
-      "num": 530127,
-      "word": "被拐女孩梦到妈妈喊自己而记住名字",
-      "onboard_time": 1728616097,
-      "rank": 3,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 519015,
-      "num": 388197,
+      "num": 497321,
       "word": "韦雪模仿叶珂",
       "onboard_time": 1728613818,
       "rank": 15,
@@ -241,6 +257,22 @@
       "onboard_time": 1728603137,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 479991,
+      "num": 479991,
+      "word": "特斯拉Cybercab没有方向盘和踏板",
+      "onboard_time": 1728616160,
+      "rank": 14,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 457522,
+      "num": 390260,
+      "word": "王皓谈做樊振东教练的感受",
+      "onboard_time": 1728615799,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 456274,
@@ -267,14 +299,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 426132,
-      "num": 328983,
-      "word": "全智贤成为LV品牌大使",
-      "onboard_time": 1728616519,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 424262,
       "num": 424262,
       "word": "网友举报过期大米销往乡村学校",
@@ -284,11 +308,19 @@
     },
     {
       "raw_hot": 418632,
-      "num": 418632,
+      "num": 491583,
       "word": "Jennie新歌",
       "onboard_time": 1728606141,
       "rank": 12,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 416789,
+      "num": 502186,
+      "word": "广州交警通报2人深夜飙车严重超速",
+      "onboard_time": 1728614657,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 401545,
@@ -299,6 +331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 391240,
+      "num": 391240,
+      "word": "巴代表问你们已经习惯于我们的死亡了吗",
+      "onboard_time": 1728615918,
+      "rank": 18,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 390890,
       "num": 321235,
       "word": "狗狗生理期也需要被精心照顾",
@@ -307,12 +347,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 386964,
-      "num": 502186,
-      "word": "广州交警通报2人深夜飙车严重超速",
-      "onboard_time": 1728614657,
-      "rank": 8,
+      "raw_hot": 388912,
+      "num": 388912,
+      "word": "周五遇上重阳节",
+      "onboard_time": 1728616759,
+      "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 385612,
+      "num": 486096,
+      "word": "特斯拉 无人驾驶",
+      "onboard_time": 1728616276,
+      "rank": 8,
+      "category": "汽车"
     },
     {
       "raw_hot": 364673,
@@ -347,14 +395,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 326711,
-      "num": 326711,
-      "word": "巴代表问你们已经习惯于我们的死亡了吗",
-      "onboard_time": 1728615918,
-      "rank": 18,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 325670,
       "num": 325670,
       "word": "A股今日低开",
@@ -369,14 +409,6 @@
       "onboard_time": 1728590471,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 316246,
-      "num": 316246,
-      "word": "王皓谈做樊振东教练的感受",
-      "onboard_time": 1728615799,
-      "rank": 21,
-      "category": "体育"
     },
     {
       "raw_hot": 310907,
@@ -443,6 +475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 275512,
+      "num": 275512,
+      "word": "特斯拉 科幻",
+      "onboard_time": 1728618078,
+      "rank": 30,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 273558,
       "num": 259667,
       "word": "哈利波特全八部今起内地重映",
@@ -473,14 +513,6 @@
       "onboard_time": 1728615019,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 254502,
-      "num": 254502,
-      "word": "周五遇上重阳节",
-      "onboard_time": 1728616759,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 252823,
@@ -515,16 +547,24 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 237882,
-      "num": 334246,
-      "word": "特斯拉Cybercab没有方向盘和踏板",
-      "onboard_time": 1728616160,
-      "rank": 14,
-      "category": "汽车"
+      "raw_hot": 236221,
+      "num": 236221,
+      "word": "女生胳膊长巨型疖肿到医院切开",
+      "onboard_time": 1728617360,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 233051,
+      "num": 543045,
+      "word": "黄景瑜除八害",
+      "onboard_time": 1728615560,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 231287,
-      "num": 348171,
+      "num": 489250,
       "word": "朴彩英首支OST",
       "onboard_time": 1728615498,
       "rank": 32,
@@ -545,14 +585,6 @@
       "onboard_time": 1728602117,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 220412,
-      "num": 347135,
-      "word": "特斯拉 无人驾驶",
-      "onboard_time": 1728616276,
-      "rank": 8,
-      "category": "汽车"
     },
     {
       "raw_hot": 218267,
@@ -579,6 +611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 205143,
+      "num": 205143,
+      "word": "特斯拉Robovan货运车",
+      "onboard_time": 1728617599,
+      "rank": 38,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 199564,
       "num": 199564,
       "word": "王楚钦3比0拿下首盘",
@@ -592,14 +632,6 @@
       "word": "赵露思直播间状态",
       "onboard_time": 1728569003,
       "rank": 30,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 194524,
-      "num": 278770,
-      "word": "黄景瑜除八害",
-      "onboard_time": 1728615560,
-      "rank": 44,
       "category": "艺人"
     },
     {
@@ -795,6 +827,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 142364,
+      "num": 142364,
+      "word": "特斯拉Robotaxi成本或低于3万美元",
+      "onboard_time": 1728617959,
+      "rank": 46,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 142356,
       "num": 142356,
       "word": "又是梦幻开局失败收场",
@@ -833,14 +873,6 @@
       "onboard_time": 1728559522,
       "rank": 39,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 139859,
-      "num": 139859,
-      "word": "余华英卖的第1个孩子是自己儿子",
-      "onboard_time": 1728617119,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 138401,
@@ -1083,6 +1115,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 88099,
+      "num": 480192,
+      "word": "2024微博视界大会官宣",
+      "onboard_time": 1728617599,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 88042,
       "num": 88042,
       "word": "对抗抑郁最好的运动方式",
@@ -1211,11 +1251,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 36958,
+      "num": 523704,
+      "word": "有券商透露开户数已超2015年",
+      "onboard_time": 1728616580,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 34707,
       "num": 253110,
       "word": "人贩余华英再次受审",
       "onboard_time": 1728613578,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 34243,
+      "num": 483489,
+      "word": "余华英以熟人作案方式拐走多名儿童",
+      "onboard_time": 1728617839,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -1227,19 +1283,19 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 30087,
+      "num": 187287,
+      "word": "刘亦菲说给自己买保险很有想法",
+      "onboard_time": 1728617839,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 28922,
       "num": 1984337,
       "word": "被宝藏爷爷奶奶惊艳到了",
       "onboard_time": 1728565340,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 28150,
-      "num": 343817,
-      "word": "有券商透露开户数已超2015年",
-      "onboard_time": 1728616580,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -1259,11 +1315,43 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 27379,
+      "num": 191675,
+      "word": "小鹏P7+实现前后排二郎腿自由",
+      "onboard_time": 1728617779,
+      "rank": 39,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 25877,
+      "num": 492479,
+      "word": "药企回应氢化可的松片供应难",
+      "onboard_time": 1728617719,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 24960,
-      "num": 597458,
+      "num": 970249,
       "word": "首届中国广播电视精品创作大会",
       "onboard_time": 1728613458,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 23274,
+      "num": 550078,
+      "word": "直击余华英拐卖儿童案",
+      "onboard_time": 1728617719,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 22853,
+      "num": 495821,
+      "word": "一图读懂余华英拐卖儿童案",
+      "onboard_time": 1728618078,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
