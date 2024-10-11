@@ -1,6 +1,6 @@
 {
   "startTime": 1728664067735,
-  "endTime": 1728675336276,
+  "endTime": 1728678201210,
   "band_list": [
     {
       "raw_hot": 1319783,
@@ -467,11 +467,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 38404,
+      "num": 38404,
+      "word": "双11开放麦",
+      "onboard_time": 1728675372,
+      "rank": 15,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 36436,
       "num": 112323,
       "word": "杨妞花称靠记忆中父母的爱走到今天",
       "onboard_time": 1728665956,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 35300,
+      "num": 41160,
+      "word": "烟卡正威胁孩子健康",
+      "onboard_time": 1728673152,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -499,6 +515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 29340,
+      "num": 29340,
+      "word": "名校留学生开始扎堆做留学中介",
+      "onboard_time": 1728675311,
+      "rank": 29,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 26973,
       "num": 80420,
       "word": "赵子健被暂停聘任",
@@ -523,12 +547,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 20714,
-      "num": 41160,
-      "word": "烟卡正威胁孩子健康",
-      "onboard_time": 1728673152,
-      "rank": 14,
-      "category": "社会新闻"
+      "raw_hot": 20105,
+      "num": 20105,
+      "word": "老年人是党和国家的宝贵财富",
+      "onboard_time": 1728674591,
+      "rank": 44,
+      "category": "国内时政"
     },
     {
       "raw_hot": 19861,
@@ -539,12 +563,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 17611,
-      "num": 28846,
-      "word": "名校留学生开始扎堆做留学中介",
-      "onboard_time": 1728675311,
-      "rank": 29,
-      "category": "社会新闻,教育"
+      "raw_hot": 15970,
+      "num": 38764,
+      "word": "杨妞花称余华英将责任都推给情夫",
+      "onboard_time": 1728677531,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 15109,
+      "num": 23857,
+      "word": "央美女生把父亲的运煤车改装成泳池",
+      "onboard_time": 1728678071,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 15026,
