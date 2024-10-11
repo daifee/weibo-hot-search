@@ -1,6 +1,6 @@
 {
   "startTime": 1728577667934,
-  "endTime": 1728632188757,
+  "endTime": 1728635300873,
   "band_list": [
     {
       "raw_hot": 6465280,
@@ -139,6 +139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 841633,
+      "num": 718014,
+      "word": "孙颖莎启程回国",
+      "onboard_time": 1728634699,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 815775,
       "num": 815775,
       "word": "颁奖时王皓笑得合不拢嘴",
@@ -201,6 +209,14 @@
       "onboard_time": 1728622462,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 686018,
+      "num": 686018,
+      "word": "北京极光大爆发",
+      "onboard_time": 1728631040,
+      "rank": 48,
+      "category": "自然"
     },
     {
       "raw_hot": 672423,
@@ -291,6 +307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 521487,
+      "num": 521487,
+      "word": "海关回应60一个日本红薯不合规",
+      "onboard_time": 1728632120,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 519015,
       "num": 497321,
       "word": "韦雪模仿叶珂",
@@ -337,6 +361,14 @@
       "onboard_time": 1728616160,
       "rank": 14,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 472419,
+      "num": 358115,
+      "word": "8岁小孩姐给外公买300万迈巴赫",
+      "onboard_time": 1728624619,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 472309,
@@ -411,20 +443,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 418341,
-      "num": 358115,
-      "word": "8岁小孩姐给外公买300万迈巴赫",
-      "onboard_time": 1728624619,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 416789,
       "num": 502186,
       "word": "广州交警通报2人深夜飙车严重超速",
       "onboard_time": 1728614657,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 404910,
+      "num": 404910,
+      "word": "王欣瑜晋级武网4强",
+      "onboard_time": 1728633200,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 401545,
@@ -491,6 +523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 372886,
+      "num": 372886,
+      "word": "黄晓明陈梦参加央视重阳晚会",
+      "onboard_time": 1728630500,
+      "rank": 23,
+      "category": "综艺,体育"
+    },
+    {
       "raw_hot": 370431,
       "num": 269639,
       "word": "女生胳膊长巨型疖肿到医院切开",
@@ -500,19 +540,11 @@
     },
     {
       "raw_hot": 368762,
-      "num": 252872,
+      "num": 293092,
       "word": "外婆搬我朋友圈图发朋友圈",
       "onboard_time": 1728623002,
       "rank": 23,
       "category": "情感"
-    },
-    {
-      "raw_hot": 368416,
-      "num": 354846,
-      "word": "黄晓明陈梦参加央视重阳晚会",
-      "onboard_time": 1728630500,
-      "rank": 23,
-      "category": "综艺,体育"
     },
     {
       "raw_hot": 364673,
@@ -563,6 +595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 331362,
+      "num": 331362,
+      "word": "Jennie新歌致敬成龙电影",
+      "onboard_time": 1728633861,
+      "rank": 17,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 329796,
       "num": 292386,
       "word": "王楚钦vs高承睿",
@@ -592,6 +632,14 @@
       "word": "A股进入震荡模式",
       "onboard_time": 1728613818,
       "rank": 30,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 309864,
+      "num": 309864,
+      "word": "沪指午后跌破3200点",
+      "onboard_time": 1728630920,
+      "rank": 36,
       "category": "财经"
     },
     {
@@ -648,6 +696,14 @@
       "word": "今日重阳愿您安康",
       "onboard_time": 1728609199,
       "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 295472,
+      "num": 295472,
+      "word": "余华英案庭外挤满求关注的寻子父母",
+      "onboard_time": 1728630619,
+      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -825,14 +881,6 @@
       "onboard_time": 1728615560,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 232010,
-      "num": 232010,
-      "word": "沪指午后跌破3200点",
-      "onboard_time": 1728630920,
-      "rank": 36,
-      "category": "财经"
     },
     {
       "raw_hot": 231287,
@@ -1339,6 +1387,22 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 148628,
+      "num": 148628,
+      "word": "年轻人搞起钱来有自己的想法",
+      "onboard_time": 1728632901,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 147133,
+      "num": 370335,
+      "word": "妹妹5岁被拐姐姐11岁也成了孤儿",
+      "onboard_time": 1728633861,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 145354,
       "num": 145354,
       "word": "江秋莲回应骗捐质疑",
@@ -1491,6 +1555,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 132365,
+      "num": 132365,
+      "word": "罗云熙说以后多参加音乐节",
+      "onboard_time": 1728634880,
+      "rank": 39,
+      "category": "演出"
+    },
+    {
       "raw_hot": 131299,
       "num": 131299,
       "word": "湖人17比0雄鹿",
@@ -1499,11 +1571,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 131283,
+      "num": 194949,
+      "word": "舍不得星星婚礼吻",
+      "onboard_time": 1728634340,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 129127,
       "num": 129127,
       "word": "男子用虎头蜂泡酒失手现场",
       "onboard_time": 1728603558,
       "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 127659,
+      "num": 127659,
+      "word": "央视披露余华英案庭审更多细节",
+      "onboard_time": 1728633861,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -1521,14 +1609,6 @@
       "onboard_time": 1728615139,
       "rank": 42,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 123142,
-      "num": 123142,
-      "word": "北京极光大爆发",
-      "onboard_time": 1728631040,
-      "rank": 48,
-      "category": "自然"
     },
     {
       "raw_hot": 123026,
@@ -1553,6 +1633,14 @@
       "onboard_time": 1728569060,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 119992,
+      "num": 375921,
+      "word": "律师解读进口日本红薯或涉违法",
+      "onboard_time": 1728630980,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 118824,
@@ -1651,14 +1739,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 111241,
-      "num": 111241,
-      "word": "海关回应60一个日本红薯不合规",
-      "onboard_time": 1728632120,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 109389,
       "num": 109389,
       "word": "mantra",
@@ -1721,6 +1801,14 @@
       "onboard_time": 1728604820,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 99274,
+      "num": 99274,
+      "word": "森林进化论2有淘汰",
+      "onboard_time": 1728635060,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 94989,
@@ -1851,11 +1939,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 61913,
-      "num": 375921,
-      "word": "律师解读进口日本红薯或涉违法",
-      "onboard_time": 1728630980,
-      "rank": 9,
+      "raw_hot": 58223,
+      "num": 310695,
+      "word": "四川康定一车辆坠河6人失联",
+      "onboard_time": 1728634041,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -1881,6 +1969,14 @@
       "onboard_time": 1728552979,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 51358,
+      "num": 348215,
+      "word": "刘亦菲的雨伞哲学",
+      "onboard_time": 1728632540,
+      "rank": 12,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 50391,
@@ -1939,6 +2035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 41191,
+      "num": 311860,
+      "word": "沙溢说没皮没脸的白大哥又回来",
+      "onboard_time": 1728634699,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 40284,
       "num": 442593,
       "word": "可喜安门店员工称床垫能给鸡蛋排毒",
@@ -1971,6 +2075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 34756,
+      "num": 335912,
+      "word": "游客称云南跟团拒绝消费被导游威胁",
+      "onboard_time": 1728635182,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 34707,
       "num": 253110,
       "word": "人贩余华英再次受审",
@@ -1993,6 +2105,14 @@
       "onboard_time": 1728580215,
       "rank": 19,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 31496,
+      "num": 345239,
+      "word": "记者调查速成学历乱象",
+      "onboard_time": 1728634880,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 31385,
@@ -2025,6 +2145,14 @@
       "onboard_time": 1728600975,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 27346,
+      "num": 111688,
+      "word": "给骑行新手的3点重要建议",
+      "onboard_time": 1728631101,
+      "rank": 49,
+      "category": "运动健身"
     },
     {
       "raw_hot": 27086,
@@ -2097,14 +2225,6 @@
       "onboard_time": 1728560662,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 19653,
-      "num": 111688,
-      "word": "给骑行新手的3点重要建议",
-      "onboard_time": 1728631101,
-      "rank": 49,
-      "category": "运动健身"
     },
     {
       "raw_hot": 19626,

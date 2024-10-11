@@ -1,0 +1,410 @@
+{
+  "runTime": 1728635300873,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1291159,
+        "num": 1291159,
+        "word": "余华英卖的第1个孩子是自己儿子",
+        "onboard_time": 1728617119,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 792822,
+        "num": 792822,
+        "word": "人贩子名字她从5岁记到30多岁",
+        "onboard_time": 1728620780,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24105,
+        "num": 734509,
+        "word": "愿时光不老岁月静好",
+        "onboard_time": 1728618919,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 841633,
+        "num": 718014,
+        "word": "孙颖莎启程回国",
+        "onboard_time": 1728634699,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 686018,
+        "num": 686018,
+        "word": "北京极光大爆发",
+        "onboard_time": 1728631040,
+        "rank": 4,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 521487,
+        "num": 521487,
+        "word": "海关回应60一个日本红薯不合规",
+        "onboard_time": 1728632120,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 404910,
+        "num": 404910,
+        "word": "王欣瑜晋级武网4强",
+        "onboard_time": 1728633200,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 394013,
+        "num": 394013,
+        "word": "王源公开TFBOYS十周年朋友圈",
+        "onboard_time": 1728622402,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 372886,
+        "num": 372886,
+        "word": "黄晓明陈梦参加央视重阳晚会",
+        "onboard_time": 1728630500,
+        "rank": 8,
+        "category": "综艺,体育"
+      },
+      {
+        "raw_hot": 147133,
+        "num": 370335,
+        "word": "妹妹5岁被拐姐姐11岁也成了孤儿",
+        "onboard_time": 1728633861,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 540586,
+        "num": 364995,
+        "word": "沙溢瘦回白展堂",
+        "onboard_time": 1728623841,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 472419,
+        "num": 353559,
+        "word": "8岁小孩姐给外公买300万迈巴赫",
+        "onboard_time": 1728624619,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 51358,
+        "num": 348215,
+        "word": "刘亦菲的雨伞哲学",
+        "onboard_time": 1728632540,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 31496,
+        "num": 345239,
+        "word": "记者调查速成学历乱象",
+        "onboard_time": 1728634880,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34756,
+        "num": 335912,
+        "word": "游客称云南跟团拒绝消费被导游威胁",
+        "onboard_time": 1728635182,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 333314,
+        "num": 333314,
+        "word": "何炅也有藏不住事的时候",
+        "onboard_time": 1728628338,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 332485,
+        "num": 332485,
+        "word": "被拐女孩梦到妈妈喊自己而记住名字",
+        "onboard_time": 1728616097,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 331362,
+        "num": 331362,
+        "word": "Jennie新歌致敬成龙电影",
+        "onboard_time": 1728633861,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 41191,
+        "num": 311860,
+        "word": "沙溢说没皮没脸的白大哥又回来",
+        "onboard_time": 1728634699,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 58223,
+        "num": 310695,
+        "word": "四川康定一车辆坠河6人失联",
+        "onboard_time": 1728634041,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 309864,
+        "num": 309864,
+        "word": "沪指午后跌破3200点",
+        "onboard_time": 1728630920,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 295472,
+        "num": 295472,
+        "word": "余华英案庭外挤满求关注的寻子父母",
+        "onboard_time": 1728630619,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 293092,
+        "num": 293092,
+        "word": "外婆搬我朋友圈图发朋友圈",
+        "onboard_time": 1728623002,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 291292,
+        "num": 291292,
+        "word": "网红大蓝账号被封",
+        "onboard_time": 1728629129,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 269982,
+        "num": 269982,
+        "word": "特斯拉发布会",
+        "onboard_time": 1728612859,
+        "rank": 24,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 260033,
+        "num": 260033,
+        "word": "睡觉时为什么会突然抖一下",
+        "onboard_time": 1728626780,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 238450,
+        "num": 238450,
+        "word": "余华英被控拐卖儿童人数增至17人",
+        "onboard_time": 1728621021,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217635,
+        "num": 217635,
+        "word": "买基金亏170万起诉银行获赔159万",
+        "onboard_time": 1728620720,
+        "rank": 27,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 201103,
+        "num": 201103,
+        "word": "10岁女儿患抑郁症后鸡娃妈妈觉醒了",
+        "onboard_time": 1728613157,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131283,
+        "num": 194949,
+        "word": "舍不得星星婚礼吻",
+        "onboard_time": 1728634340,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190202,
+        "num": 190202,
+        "word": "多国抗议以色列袭击联黎部队营地",
+        "onboard_time": 1728629240,
+        "rank": 30,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 186506,
+        "num": 186506,
+        "word": "张雨绮男友首个综艺官宣",
+        "onboard_time": 1728622223,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181465,
+        "num": 181465,
+        "word": "听泉鉴宝",
+        "onboard_time": 1728607400,
+        "rank": 32,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 125316,
+        "num": 175691,
+        "word": "闵熙珍公开ILLIT抄袭证据",
+        "onboard_time": 1728626119,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175565,
+        "num": 175565,
+        "word": "恋爱5年分手男子想要回每月工资",
+        "onboard_time": 1728625639,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171516,
+        "num": 171516,
+        "word": "周五遇上重阳节",
+        "onboard_time": 1728616759,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148628,
+        "num": 148628,
+        "word": "年轻人搞起钱来有自己的想法",
+        "onboard_time": 1728632901,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 146609,
+        "num": 146609,
+        "word": "有人重仓地产股1天赚1200万",
+        "onboard_time": 1728630320,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 143238,
+        "num": 143238,
+        "word": "余华英作案时用年幼女儿当拐卖幌子",
+        "onboard_time": 1728629240,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132365,
+        "num": 132365,
+        "word": "罗云熙说以后多参加音乐节",
+        "onboard_time": 1728634880,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 132184,
+        "num": 132184,
+        "word": "宝妈第一次蒸馒头意外收获蘑菇",
+        "onboard_time": 1728620420,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127659,
+        "num": 127659,
+        "word": "央视披露余华英案庭审更多细节",
+        "onboard_time": 1728633861,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125883,
+        "num": 125883,
+        "word": "原来糖炒栗子要买不开口的",
+        "onboard_time": 1728627499,
+        "rank": 42,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 119992,
+        "num": 119992,
+        "word": "律师解读进口日本红薯或涉违法",
+        "onboard_time": 1728630980,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116904,
+        "num": 116904,
+        "word": "杨笠 最难听的话都对自己说过",
+        "onboard_time": 1728626060,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109633,
+        "num": 109633,
+        "word": "酒店回应员工蹲新婚夫妻房外偷听",
+        "onboard_time": 1728627680,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102241,
+        "num": 102241,
+        "word": "中国赴黎维和部队目前安全",
+        "onboard_time": 1728628099,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 100526,
+        "num": 100526,
+        "word": "肖战张婧仪藏海传草地路透",
+        "onboard_time": 1728622402,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99274,
+        "num": 99274,
+        "word": "森林进化论2有淘汰",
+        "onboard_time": 1728635060,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 27346,
+        "num": 98565,
+        "word": "给骑行新手的3点重要建议",
+        "onboard_time": 1728631101,
+        "rank": 49,
+        "category": "运动健身"
+      }
+    ],
+    "hotgov": {
+      "word": "#在新的起点上继续推动文化繁荣#"
+    }
+  }
+}
