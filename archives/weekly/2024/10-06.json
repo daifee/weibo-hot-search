@@ -1,6 +1,6 @@
 {
   "startTime": 1728145573126,
-  "endTime": 1728646550272,
+  "endTime": 1728650503145,
   "band_list": [
     {
       "raw_hot": 13027302,
@@ -833,6 +833,14 @@
       "onboard_time": 1728574640,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1301490,
+      "num": 258998,
+      "word": "听泉鉴宝最恐怖的一集",
+      "onboard_time": 1728647900,
+      "rank": 10,
+      "category": "网红"
     },
     {
       "raw_hot": 1294678,
@@ -2515,6 +2523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 674555,
+      "num": 256602,
+      "word": "张若昀唐艺昕带娃逛故宫",
+      "onboard_time": 1728648921,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 672854,
       "num": 316918,
       "word": "上海套内32平米的家",
@@ -2673,6 +2689,14 @@
       "onboard_time": 1728211639,
       "rank": 20,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 635837,
+      "num": 249112,
+      "word": "4天大新生儿医院照蓝光期间死亡",
+      "onboard_time": 1728648740,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 631604,
@@ -2979,6 +3003,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 579376,
+      "num": 272081,
+      "word": "二房东涨租遭拒后连夜清空店铺",
+      "onboard_time": 1728645080,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 579320,
       "num": 438341,
       "word": "孙楠瘦了好多",
@@ -3217,6 +3249,14 @@
       "onboard_time": 1728305303,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 532319,
+      "num": 237547,
+      "word": "章泽天造型师回应胸针传言",
+      "onboard_time": 1728647121,
+      "rank": 15,
+      "category": "艺人,作品衍生"
     },
     {
       "raw_hot": 531899,
@@ -4497,6 +4537,14 @@
       "onboard_time": 1728610217,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 389636,
+      "num": 389636,
+      "word": "王楚钦vs塔希尔",
+      "onboard_time": 1728647780,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 389121,
@@ -6419,14 +6467,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 272081,
-      "num": 272081,
-      "word": "二房东涨租遭拒后连夜清空店铺",
-      "onboard_time": 1728645080,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 271879,
       "num": 271879,
       "word": "国足vs澳大利亚首发",
@@ -7331,6 +7371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 234969,
+      "num": 234969,
+      "word": "孙红雷探班张艺兴受到召唤敦煌",
+      "onboard_time": 1728649519,
+      "rank": 16,
+      "category": "演出"
+    },
+    {
       "raw_hot": 234484,
       "num": 473768,
       "word": "老师捡手机归还失主送全班汉堡",
@@ -8211,6 +8259,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 208562,
+      "num": 208562,
+      "word": "理记回应实名举报江秋莲骗捐8年",
+      "onboard_time": 1728649460,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 208339,
       "num": 271122,
       "word": "张晚意一次走通两种赛道",
@@ -8619,6 +8675,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 201743,
+      "num": 201743,
+      "word": "海康威视",
+      "onboard_time": 1728646040,
+      "rank": 34,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 201227,
       "num": 201227,
       "word": "尚雯婕还原18年前霹雳舞",
@@ -8665,6 +8729,14 @@
       "onboard_time": 1728225201,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 201005,
+      "num": 201005,
+      "word": "独库公路封闭关门时两侧人员握手再见",
+      "onboard_time": 1728645621,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 200879,
@@ -9211,6 +9283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 191682,
+      "num": 360882,
+      "word": "郑钦文VS保利尼",
+      "onboard_time": 1728642740,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 191546,
       "num": 254743,
       "word": "郭晓婷说着霍建华想着胡歌",
@@ -9451,6 +9531,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 187345,
+      "num": 187345,
+      "word": "女程序员上班积极下班忧郁确诊抑郁",
+      "onboard_time": 1728646220,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 187244,
       "num": 187244,
       "word": "停云立绘",
@@ -9633,6 +9721,14 @@
       "onboard_time": 1728480259,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 183802,
+      "num": 183802,
+      "word": "2024重阳奇妙游直播",
+      "onboard_time": 1728649580,
+      "rank": 29,
+      "category": "旅游"
     },
     {
       "raw_hot": 183404,
@@ -9857,14 +9953,6 @@
       "onboard_time": 1728379039,
       "rank": 47,
       "category": "电影"
-    },
-    {
-      "raw_hot": 180009,
-      "num": 180009,
-      "word": "海康威视",
-      "onboard_time": 1728646040,
-      "rank": 34,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 179816,
@@ -10123,14 +10211,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 175065,
-      "num": 360882,
-      "word": "郑钦文VS保利尼",
-      "onboard_time": 1728642740,
-      "rank": 18,
-      "category": "体育"
-    },
-    {
       "raw_hot": 174565,
       "num": 174565,
       "word": "星穹铁道忘归人",
@@ -10225,6 +10305,14 @@
       "onboard_time": 1728352699,
       "rank": 39,
       "category": "财经"
+    },
+    {
+      "raw_hot": 173158,
+      "num": 173158,
+      "word": "星穹铁道2.6版本前瞻",
+      "onboard_time": 1728650002,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 172939,
@@ -10675,6 +10763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 165212,
+      "num": 165212,
+      "word": "醉汉半夜闯入13岁女孩房间找厕所",
+      "onboard_time": 1728647360,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 165067,
       "num": 165067,
       "word": "雷军AI",
@@ -11075,6 +11171,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 159271,
+      "num": 173256,
+      "word": "春花焰",
+      "onboard_time": 1728650360,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 159093,
       "num": 159093,
       "word": "第五人格设计思路",
@@ -11225,6 +11329,14 @@
       "onboard_time": 1728642859,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 157056,
+      "num": 157056,
+      "word": "上海一出租车撞石墩司机身亡",
+      "onboard_time": 1728645980,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 156989,
@@ -11563,6 +11675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 152947,
+      "num": 152947,
+      "word": "刘耀文旅行转场",
+      "onboard_time": 1728649700,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 152909,
       "num": 152909,
       "word": "薛之谦 在那天回不去的路上",
@@ -11689,6 +11809,14 @@
       "onboard_time": 1728226281,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 151419,
+      "num": 151419,
+      "word": "一网民恶意诋毁奥运冠军被罚",
+      "onboard_time": 1728647660,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 151358,
@@ -11953,14 +12081,6 @@
       "onboard_time": 1728452118,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 147436,
-      "num": 147436,
-      "word": "上海一出租车撞石墩司机身亡",
-      "onboard_time": 1728645980,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 147348,
@@ -12619,14 +12739,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 137997,
-      "num": 137997,
-      "word": "女程序员上班积极下班忧郁确诊抑郁",
-      "onboard_time": 1728646220,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 137918,
       "num": 137918,
       "word": "惊现巨型海鸥偷吃人类薯条",
@@ -13075,12 +13187,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 130050,
+      "num": 130050,
+      "word": "陈梦重阳教爷爷奶奶打乒乓球",
+      "onboard_time": 1728649100,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 130024,
       "num": 758541,
       "word": "A股中字头板块上演涨停潮",
       "onboard_time": 1728534080,
       "rank": 8,
       "category": "财经"
+    },
+    {
+      "raw_hot": 130016,
+      "num": 130016,
+      "word": "张极 时间胶囊Vlog",
+      "onboard_time": 1728649820,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 129799,
@@ -13129,14 +13257,6 @@
       "onboard_time": 1728225260,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 129189,
-      "num": 129189,
-      "word": "独库公路封闭关门时两侧人员握手再见",
-      "onboard_time": 1728645621,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 129127,
@@ -13200,6 +13320,14 @@
       "word": "TTG战胜EDGM",
       "onboard_time": 1728209119,
       "rank": 35,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 128610,
+      "num": 128610,
+      "word": "DRG战胜TTG",
+      "onboard_time": 1728647180,
+      "rank": 48,
       "category": "电竞"
     },
     {
@@ -13481,6 +13609,14 @@
       "onboard_time": 1728187458,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 123862,
+      "num": 123862,
+      "word": "李梦签约乐华娱乐",
+      "onboard_time": 1728650480,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 123752,
@@ -15499,6 +15635,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 78053,
+      "num": 264795,
+      "word": "重阳节是一个象征尊老和团圆的节日",
+      "onboard_time": 1728647840,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 77950,
       "num": 326280,
       "word": "郑业成我不是戏神cos",
@@ -15593,6 +15737,14 @@
       "onboard_time": 1728378079,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 73358,
+      "num": 130021,
+      "word": "独库公路为何冬季要封闭",
+      "onboard_time": 1728650299,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 73266,
@@ -18436,6 +18588,9 @@
     },
     {
       "word": "#老年人是党和国家的宝贵财富#"
+    },
+    {
+      "word": "#重阳节重温总书记敬老爱老暖心话#"
     }
   ]
 }
