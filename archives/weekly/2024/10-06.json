@@ -1,6 +1,6 @@
 {
   "startTime": 1728145573126,
-  "endTime": 1728651473414,
+  "endTime": 1728653259173,
   "band_list": [
     {
       "raw_hot": 13027302,
@@ -124,7 +124,7 @@
     },
     {
       "raw_hot": 2972503,
-      "num": 294965,
+      "num": 356466,
       "word": "内蒙古发现一具女尸手脚被捆绑",
       "onboard_time": 1728640460,
       "rank": 20,
@@ -611,6 +611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1603669,
+      "num": 369813,
+      "word": "江西景德镇一家三口被撞身亡",
+      "onboard_time": 1728650782,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1596688,
       "num": 1596688,
       "word": "孙颖莎2比3张本美和",
@@ -732,7 +740,7 @@
     },
     {
       "raw_hot": 1369067,
-      "num": 276979,
+      "num": 369062,
       "word": "听泉鉴宝最恐怖的一集",
       "onboard_time": 1728647900,
       "rank": 10,
@@ -1057,6 +1065,14 @@
       "onboard_time": 1728369861,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1158954,
+      "num": 1185432,
+      "word": "李梦签约乐华娱乐",
+      "onboard_time": 1728650480,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 1154751,
@@ -1473,6 +1489,14 @@
       "onboard_time": 1728143659,
       "rank": 1,
       "category": "自然"
+    },
+    {
+      "raw_hot": 993833,
+      "num": 993833,
+      "word": "王楚钦3比0胜塔希尔",
+      "onboard_time": 1728651921,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 992982,
@@ -1940,7 +1964,7 @@
     },
     {
       "raw_hot": 825647,
-      "num": 276494,
+      "num": 367735,
       "word": "4天大新生儿医院照蓝光期间死亡",
       "onboard_time": 1728648740,
       "rank": 12,
@@ -2372,7 +2396,7 @@
     },
     {
       "raw_hot": 716573,
-      "num": 275454,
+      "num": 367448,
       "word": "张若昀唐艺昕带娃逛故宫",
       "onboard_time": 1728648921,
       "rank": 11,
@@ -2673,6 +2697,14 @@
       "onboard_time": 1728457218,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 637848,
+      "num": 637848,
+      "word": "王楚钦vs塔希尔",
+      "onboard_time": 1728647780,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 637842,
@@ -3004,7 +3036,7 @@
     },
     {
       "raw_hot": 579376,
-      "num": 273658,
+      "num": 325313,
       "word": "二房东涨租遭拒后连夜清空店铺",
       "onboard_time": 1728645080,
       "rank": 45,
@@ -3145,14 +3177,6 @@
       "onboard_time": 1728142458,
       "rank": 13,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 559066,
-      "num": 274985,
-      "word": "李梦签约乐华娱乐",
-      "onboard_time": 1728650480,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 558221,
@@ -3419,14 +3443,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 507836,
-      "num": 507836,
-      "word": "王楚钦vs塔希尔",
-      "onboard_time": 1728647780,
-      "rank": 5,
-      "category": "体育"
-    },
-    {
       "raw_hot": 507501,
       "num": 507501,
       "word": "韩国政府每周进口200吨中国大白菜",
@@ -3592,14 +3608,6 @@
       "word": "中方要求调查追责以军袭击联黎部队阵地",
       "onboard_time": 1728618379,
       "rank": 6,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 487343,
-      "num": 274538,
-      "word": "江西景德镇一家三口被撞身亡",
-      "onboard_time": 1728650782,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -4563,6 +4571,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 389392,
+      "num": 389392,
+      "word": "费德勒陈奕迅vs樊振东张之臻",
+      "onboard_time": 1728651741,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 389121,
       "num": 702914,
       "word": "港股",
@@ -4912,6 +4928,14 @@
       "word": "林诗栋3比2阿拉米扬",
       "onboard_time": 1728370343,
       "rank": 12,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 366819,
+      "num": 366819,
+      "word": "郑钦文VS保利尼",
+      "onboard_time": 1728642740,
+      "rank": 18,
       "category": "体育"
     },
     {
@@ -5491,6 +5515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 324843,
+      "num": 374187,
+      "word": "春花焰定档",
+      "onboard_time": 1728652281,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 324797,
       "num": 324797,
       "word": "家中智能锁凌晨3点自动开门",
@@ -5833,6 +5865,14 @@
       "onboard_time": 1728637881,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 302623,
+      "num": 302623,
+      "word": "唐艺昕染粉发了",
+      "onboard_time": 1728652160,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 302163,
@@ -7507,6 +7547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 230424,
+      "num": 230424,
+      "word": "男子爱吃火锅双膝病变无法行走",
+      "onboard_time": 1728648499,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 230347,
       "num": 230347,
       "word": "1岁女童土方退烧双手双脚扎满针眼",
@@ -8507,14 +8555,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 204871,
-      "num": 360882,
-      "word": "郑钦文VS保利尼",
-      "onboard_time": 1728642740,
-      "rank": 18,
-      "category": "体育"
-    },
-    {
       "raw_hot": 204527,
       "num": 203097,
       "word": "下次见面可能是2025年了",
@@ -8755,6 +8795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 201039,
+      "num": 252720,
+      "word": "央视重阳晚会",
+      "onboard_time": 1728652342,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 201018,
       "num": 201018,
       "word": "周冬雨给林依晨颁奖",
@@ -8865,6 +8913,14 @@
       "onboard_time": 1728576921,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 199557,
+      "num": 252230,
+      "word": "魏大勋给孟宴臣庆生",
+      "onboard_time": 1728652640,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 199441,
@@ -8985,6 +9041,14 @@
       "onboard_time": 1728356540,
       "rank": 39,
       "category": "财经"
+    },
+    {
+      "raw_hot": 198023,
+      "num": 257201,
+      "word": "独库公路为何冬季要封闭",
+      "onboard_time": 1728650299,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 197997,
@@ -9771,6 +9835,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 183639,
+      "num": 251177,
+      "word": "尚雯婕回应法语姐姐怎么讲",
+      "onboard_time": 1728652582,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 183404,
       "num": 347626,
       "word": "大冰直播",
@@ -9993,14 +10065,6 @@
       "onboard_time": 1728379039,
       "rank": 47,
       "category": "电影"
-    },
-    {
-      "raw_hot": 179833,
-      "num": 257201,
-      "word": "独库公路为何冬季要封闭",
-      "onboard_time": 1728650299,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 179816,
@@ -10433,6 +10497,14 @@
       "onboard_time": 1728206178,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 172099,
+      "num": 172099,
+      "word": "花牛果好小众的水果",
+      "onboard_time": 1728651981,
+      "rank": 38,
+      "category": "美食"
     },
     {
       "raw_hot": 171995,
@@ -11041,6 +11113,22 @@
       "onboard_time": 1728227480,
       "rank": 45,
       "category": "财经"
+    },
+    {
+      "raw_hot": 161478,
+      "num": 161478,
+      "word": "一网民恶意诋毁奥运冠军被罚",
+      "onboard_time": 1728647660,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 161430,
+      "num": 161430,
+      "word": "大学生涌入小猿口算平台pk小学生",
+      "onboard_time": 1728653181,
+      "rank": 42,
+      "category": "社会新闻,互联网"
     },
     {
       "raw_hot": 161333,
@@ -11851,14 +11939,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 151419,
-      "num": 151419,
-      "word": "一网民恶意诋毁奥运冠军被罚",
-      "onboard_time": 1728647660,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
       "raw_hot": 151358,
       "num": 178160,
       "word": "披荆斩棘",
@@ -12667,6 +12747,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 140031,
+      "num": 140031,
+      "word": "半熟男女根本不够看",
+      "onboard_time": 1728653002,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 139810,
       "num": 202131,
       "word": "宁艺卓solo曲bored",
@@ -12937,6 +13025,14 @@
       "onboard_time": 1728303984,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 135132,
+      "num": 135132,
+      "word": "A股连续8天成交额破万亿",
+      "onboard_time": 1728651381,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 135055,
@@ -13296,6 +13392,14 @@
       "word": "音乐缘计划",
       "onboard_time": 1728225260,
       "rank": 48,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 129211,
+      "num": 173710,
+      "word": "下一战歌手",
+      "onboard_time": 1728651681,
+      "rank": 37,
       "category": "综艺"
     },
     {
@@ -13691,6 +13795,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 123623,
+      "num": 123623,
+      "word": "王楚钦晋级亚锦赛男单32强",
+      "onboard_time": 1728653241,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 123428,
       "num": 170258,
       "word": "柳智敏宁艺卓预告照",
@@ -13827,14 +13939,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 120363,
-      "num": 120363,
-      "word": "男子爱吃火锅双膝病变无法行走",
-      "onboard_time": 1728648499,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 120290,
       "num": 120290,
       "word": "原神",
@@ -13889,14 +13993,6 @@
       "onboard_time": 1728567859,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 119129,
-      "num": 119129,
-      "word": "A股连续8天成交额破万亿",
-      "onboard_time": 1728651381,
-      "rank": 48,
-      "category": "财经"
     },
     {
       "raw_hot": 119049,
@@ -16875,6 +16971,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 43942,
+      "num": 368551,
+      "word": "女儿被拐后妈妈疯了爸爸自杀了",
+      "onboard_time": 1728653120,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 43576,
       "num": 341197,
       "word": "国庆氛围感壁纸",
@@ -17411,11 +17515,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 34503,
+      "num": 368066,
+      "word": "95后研究员部分社会职务花钱就有",
+      "onboard_time": 1728652281,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 34427,
       "num": 174539,
       "word": "武术比赛选手对打被质疑不激烈",
       "onboard_time": 1728216260,
       "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 34398,
+      "num": 370151,
+      "word": "杨妞花讲述余华英庭审细节",
+      "onboard_time": 1728652042,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -17857,6 +17977,14 @@
       "onboard_time": 1728627439,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 27041,
+      "num": 356813,
+      "word": "过期大米卖给学校五大疑问需解答",
+      "onboard_time": 1728653002,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 26986,
@@ -18505,6 +18633,14 @@
       "onboard_time": 1728508211,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 11513,
+      "num": 366887,
+      "word": "严屹宽 偶像剧的脸喜剧的肢体",
+      "onboard_time": 1728653120,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 11061,
