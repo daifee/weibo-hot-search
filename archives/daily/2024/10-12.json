@@ -1,6 +1,6 @@
 {
   "startTime": 1728664067735,
-  "endTime": 1728740162958,
+  "endTime": 1728742726132,
   "band_list": [
     {
       "raw_hot": 9645892,
@@ -25,6 +25,14 @@
       "onboard_time": 1728736580,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 2639501,
+      "num": 2639501,
+      "word": "东北雨姐发文道歉",
+      "onboard_time": 1728740844,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2253143,
@@ -435,6 +443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 662721,
+      "num": 513723,
+      "word": "王俊凯 环球影城",
+      "onboard_time": 1728740304,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 661491,
       "num": 661491,
       "word": "春花焰定档了",
@@ -515,20 +531,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 604976,
+      "num": 701579,
+      "word": "赵露思说目前没有拍电影的打算",
+      "onboard_time": 1728737482,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 589885,
+      "num": 589885,
+      "word": "财政部同意销毁28款即开型彩票",
+      "onboard_time": 1728739942,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 583418,
       "num": 751244,
       "word": "樊振东说输给费德勒不丢人",
       "onboard_time": 1728660800,
       "rank": 13,
       "category": "体育"
-    },
-    {
-      "raw_hot": 581055,
-      "num": 701579,
-      "word": "赵露思说目前没有拍电影的打算",
-      "onboard_time": 1728737482,
-      "rank": 30,
-      "category": "电影"
     },
     {
       "raw_hot": 579135,
@@ -643,6 +667,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 513799,
+      "num": 513799,
+      "word": "张本智和3比1林昀儒",
+      "onboard_time": 1728740243,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 513522,
       "num": 425148,
       "word": "2024年国家奖学金奖励名额将翻倍",
@@ -656,6 +688,14 @@
       "word": "樊振东搭档许昕出战男团比赛",
       "onboard_time": 1728708142,
       "rank": 22,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 505195,
+      "num": 505195,
+      "word": "林诗栋晋级亚锦赛四强",
+      "onboard_time": 1728739823,
+      "rank": 38,
       "category": "体育"
     },
     {
@@ -697,6 +737,14 @@
       "onboard_time": 1728733580,
       "rank": 17,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 476793,
+      "num": 476793,
+      "word": "22岁冠心病女生不想做支架狂炫中药",
+      "onboard_time": 1728741563,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 473502,
@@ -745,6 +793,14 @@
       "onboard_time": 1728693981,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 459925,
+      "num": 382540,
+      "word": "一家三口被撞身亡司机想帮养老换谅解",
+      "onboard_time": 1728740363,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 458666,
@@ -808,6 +864,14 @@
       "word": "骑行男孩遭碾压案新进展",
       "onboard_time": 1728733819,
       "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 409869,
+      "num": 409869,
+      "word": "2人走私2.7吨活体蛇被刑拘",
+      "onboard_time": 1728739583,
+      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -1011,12 +1075,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 315261,
+      "num": 382549,
+      "word": "听泉鉴宝学校信息已更改",
+      "onboard_time": 1728740963,
+      "rank": 19,
+      "category": "网红"
+    },
+    {
       "raw_hot": 314512,
       "num": 160751,
       "word": "陕西一消防车发生事故致5死1伤",
       "onboard_time": 1728658221,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 312651,
+      "num": 312651,
+      "word": "王楚钦一天三赛",
+      "onboard_time": 1728740124,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 311873,
@@ -1201,6 +1281,14 @@
       "onboard_time": 1728699680,
       "rank": 28,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 270390,
+      "num": 270390,
+      "word": "混双",
+      "onboard_time": 1728740483,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 270155,
@@ -1435,14 +1523,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 232257,
-      "num": 231656,
-      "word": "2人走私2.7吨活体蛇被刑拘",
-      "onboard_time": 1728739583,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 231924,
       "num": 231924,
       "word": "我选择不去参加十年闺蜜的婚礼",
@@ -1457,6 +1537,14 @@
       "onboard_time": 1728697399,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 230813,
+      "num": 230813,
+      "word": "关晓彤探班张艺兴音乐话剧",
+      "onboard_time": 1728742703,
+      "rank": 25,
+      "category": "演出"
     },
     {
       "raw_hot": 230415,
@@ -1635,14 +1723,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 212436,
-      "num": 212436,
-      "word": "林诗栋晋级亚锦赛四强",
-      "onboard_time": 1728739823,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 211778,
       "num": 211778,
       "word": "A股今天休市",
@@ -1697,14 +1777,6 @@
       "onboard_time": 1728710660,
       "rank": 34,
       "category": "财经"
-    },
-    {
-      "raw_hot": 206186,
-      "num": 246912,
-      "word": "财政部同意销毁28款即开型彩票",
-      "onboard_time": 1728739942,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 205336,
@@ -1801,6 +1873,14 @@
       "onboard_time": 1728731780,
       "rank": 41,
       "category": "演出"
+    },
+    {
+      "raw_hot": 199044,
+      "num": 199044,
+      "word": "李一桐生图直出",
+      "onboard_time": 1728741983,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 198552,
@@ -2003,6 +2083,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 181526,
+      "num": 181526,
+      "word": "内蒙古大草原太太太治愈了",
+      "onboard_time": 1728741622,
+      "rank": 34,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 180223,
       "num": 180223,
       "word": "伯远又输给了喻言",
@@ -2041,14 +2129,6 @@
       "onboard_time": 1728710001,
       "rank": 43,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 178788,
-      "num": 178788,
-      "word": "王楚钦一天三赛",
-      "onboard_time": 1728740124,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 176970,
@@ -2139,6 +2219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 169045,
+      "num": 169045,
+      "word": "小巷人家",
+      "onboard_time": 1728742461,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 169028,
       "num": 169028,
       "word": "中国410名赴黎维和官兵报平安",
@@ -2195,6 +2283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 166455,
+      "num": 168855,
+      "word": "无畏指挥",
+      "onboard_time": 1728741323,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 165219,
       "num": 303600,
       "word": "尼加拉瓜宣布与以色列断交",
@@ -2209,6 +2305,30 @@
       "onboard_time": 1728734840,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 164312,
+      "num": 164312,
+      "word": "汪苏泷说在大莲花打车都要20",
+      "onboard_time": 1728740304,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 163984,
+      "num": 168873,
+      "word": "表白墙捞人结果捞到了老师",
+      "onboard_time": 1728742161,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 163247,
+      "num": 201419,
+      "word": "郑钦文决赛将再战萨巴伦卡",
+      "onboard_time": 1728741202,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 163066,
@@ -3099,6 +3219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 36123,
+      "num": 513750,
+      "word": "北方供暖季将至空置房该不该交暖气费",
+      "onboard_time": 1728741801,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 35662,
       "num": 850608,
       "word": "透过成绩单看国家公园建设成效",
@@ -3137,6 +3265,14 @@
       "onboard_time": 1728716719,
       "rank": 14,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 30723,
+      "num": 486458,
+      "word": "囤货脑有多可怕",
+      "onboard_time": 1728742222,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 30551,
@@ -3217,6 +3353,14 @@
       "onboard_time": 1728739583,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 25362,
+      "num": 1888019,
+      "word": "2024两个博览会在苏州盛大开幕",
+      "onboard_time": 1728735739,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 25210,
@@ -3307,14 +3451,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 18270,
-      "num": 1888019,
-      "word": "2024两个博览会在苏州盛大开幕",
-      "onboard_time": 1728735739,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 17923,
       "num": 38764,
       "word": "杨妞花称余华英将责任都推给情夫",
@@ -3329,6 +3465,14 @@
       "onboard_time": 1728729319,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 15795,
+      "num": 382656,
+      "word": "张晚意回应被叫张爱妹",
+      "onboard_time": 1728742342,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 15109,
