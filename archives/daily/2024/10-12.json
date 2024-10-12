@@ -1,6 +1,6 @@
 {
   "startTime": 1728664067735,
-  "endTime": 1728707164801,
+  "endTime": 1728708053796,
   "band_list": [
     {
       "raw_hot": 4273020,
@@ -33,6 +33,14 @@
       "onboard_time": 1728703220,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1574590,
+      "num": 481941,
+      "word": "听泉鉴宝 盗墓",
+      "onboard_time": 1728706519,
+      "rank": 16,
+      "category": "网红"
     },
     {
       "raw_hot": 1319783,
@@ -75,6 +83,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 868978,
+      "num": 487001,
+      "word": "一家三口被撞身亡车祸细节披露",
+      "onboard_time": 1728703939,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 865299,
       "num": 1134061,
       "word": "央视曝光免费注射干细胞骗局",
@@ -96,14 +112,6 @@
       "word": "宝妈10分钟超快顺产自己走出产房",
       "onboard_time": 1728697999,
       "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 754423,
-      "num": 487001,
-      "word": "一家三口被撞身亡车祸细节披露",
-      "onboard_time": 1728703939,
-      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -153,14 +161,6 @@
       "onboard_time": 1728702380,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 644841,
-      "num": 481941,
-      "word": "听泉鉴宝 盗墓",
-      "onboard_time": 1728706519,
-      "rank": 16,
-      "category": "网红"
     },
     {
       "raw_hot": 642305,
@@ -219,12 +219,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 570054,
+      "num": 570054,
+      "word": "广东省教育厅声明",
+      "onboard_time": 1728702980,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 567397,
       "num": 878439,
       "word": "樊振东 ACE",
       "onboard_time": 1728657441,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 567203,
+      "num": 338446,
+      "word": "郑钦文VOGUE 不输超模",
+      "onboard_time": 1728707000,
+      "rank": 40,
+      "category": "体育,作品衍生"
     },
     {
       "raw_hot": 556908,
@@ -235,20 +251,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 547428,
+      "num": 547428,
+      "word": "发行1万亿元超长期特别国债",
+      "onboard_time": 1728704661,
+      "rank": 4,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 534292,
       "num": 214306,
       "word": "内蒙古发现一具女尸手脚被捆绑",
       "onboard_time": 1728640460,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 531332,
-      "num": 531332,
-      "word": "发行1万亿元超长期特别国债",
-      "onboard_time": 1728704661,
-      "rank": 4,
-      "category": "国内时政"
     },
     {
       "raw_hot": 527064,
@@ -259,20 +275,20 @@
       "category": "网红"
     },
     {
-      "raw_hot": 523187,
-      "num": 523187,
-      "word": "广东省教育厅声明",
-      "onboard_time": 1728702980,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 516198,
       "num": 444566,
       "word": "大胖媳妇对老人惯孩子的绝地反击",
       "onboard_time": 1728697580,
       "rank": 35,
       "category": "网红"
+    },
+    {
+      "raw_hot": 513522,
+      "num": 425148,
+      "word": "2024年国家奖学金奖励名额将翻倍",
+      "onboard_time": 1728704179,
+      "rank": 40,
+      "category": "国内时政"
     },
     {
       "raw_hot": 472611,
@@ -323,14 +339,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 425148,
-      "num": 425148,
-      "word": "2024年国家奖学金奖励名额将翻倍",
-      "onboard_time": 1728704179,
-      "rank": 40,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 398920,
       "num": 398920,
       "word": "美国吹牛老爹名单",
@@ -344,6 +352,14 @@
       "word": "家属回应男孩骑行被碾案司机获取保",
       "onboard_time": 1728662238,
       "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 373951,
+      "num": 344890,
+      "word": "公诉机关建议判余华英死刑",
+      "onboard_time": 1728705141,
+      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -361,6 +377,14 @@
       "onboard_time": 1728687017,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 348527,
+      "num": 348527,
+      "word": "何猷君谈赌王儿子身份标签",
+      "onboard_time": 1728704781,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 344037,
@@ -411,12 +435,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 314093,
-      "num": 314093,
-      "word": "公诉机关建议判余华英死刑",
-      "onboard_time": 1728705141,
-      "rank": 26,
-      "category": "社会新闻"
+      "raw_hot": 304252,
+      "num": 304252,
+      "word": "鞠婧祎出席王者荣耀共创之夜",
+      "onboard_time": 1728706583,
+      "rank": 36,
+      "category": "游戏,艺人"
     },
     {
       "raw_hot": 300563,
@@ -539,14 +563,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 257623,
-      "num": 257623,
-      "word": "鞠婧祎出席王者荣耀共创之夜",
-      "onboard_time": 1728706583,
-      "rank": 36,
-      "category": "游戏,艺人"
-    },
-    {
       "raw_hot": 257522,
       "num": 281595,
       "word": "近年支持化债力度最大的措施将出台",
@@ -561,6 +577,14 @@
       "onboard_time": 1728701119,
       "rank": 37,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 254594,
+      "num": 313239,
+      "word": "给毕雯珺带抹额的人简直是天才",
+      "onboard_time": 1728706641,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 250709,
@@ -619,12 +643,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 233382,
-      "num": 233382,
-      "word": "郑钦文VOGUE 不输超模",
-      "onboard_time": 1728707000,
-      "rank": 40,
-      "category": "体育,作品衍生"
+      "raw_hot": 231924,
+      "num": 231924,
+      "word": "我选择不去参加十年闺蜜的婚礼",
+      "onboard_time": 1728706641,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 230851,
@@ -665,6 +689,14 @@
       "onboard_time": 1728689957,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 216854,
+      "num": 304972,
+      "word": "毛晓彤大拌菜",
+      "onboard_time": 1728707061,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 214663,
@@ -739,28 +771,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 202495,
-      "num": 313239,
-      "word": "给毕雯珺带抹额的人简直是天才",
-      "onboard_time": 1728706641,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 201289,
       "num": 201289,
       "word": "财政部近期将推出一揽子增量政策",
       "onboard_time": 1728701540,
       "rank": 33,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 200630,
-      "num": 312973,
-      "word": "何猷君谈赌王儿子身份标签",
-      "onboard_time": 1728704781,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 198229,
@@ -843,22 +859,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 184909,
-      "num": 184909,
-      "word": "我选择不去参加十年闺蜜的婚礼",
-      "onboard_time": 1728706641,
-      "rank": 45,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 183822,
-      "num": 233435,
-      "word": "毛晓彤大拌菜",
-      "onboard_time": 1728707061,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 180223,
       "num": 180223,
       "word": "伯远又输给了喻言",
@@ -907,6 +907,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 173536,
+      "num": 254784,
+      "word": "披荆斩棘4五公",
+      "onboard_time": 1728707901,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 169404,
       "num": 472370,
       "word": "曾黎妈妈32年前的家书",
@@ -937,6 +945,14 @@
       "onboard_time": 1728697099,
       "rank": 46,
       "category": "作品衍生,艺人"
+    },
+    {
+      "raw_hot": 166582,
+      "num": 166582,
+      "word": "第五人格",
+      "onboard_time": 1728706941,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 165219,
@@ -1027,6 +1043,14 @@
       "category": "艺人,作品衍生"
     },
     {
+      "raw_hot": 141814,
+      "num": 492069,
+      "word": "天猫双11将于10月14日晚8点开启",
+      "onboard_time": 1728705621,
+      "rank": 14,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 135363,
       "num": 135363,
       "word": "来个南方人告诉我这是不是真的",
@@ -1075,14 +1099,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 108572,
-      "num": 492069,
-      "word": "天猫双11将于10月14日晚8点开启",
-      "onboard_time": 1728705621,
-      "rank": 14,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 107436,
       "num": 107436,
       "word": "霍思燕携10只狗8只鸡拍封面",
@@ -1115,7 +1131,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 101842,
+      "raw_hot": 102461,
       "num": 494810,
       "word": "车圈下一个恒大是谁",
       "onboard_time": 1728703401,
@@ -1411,6 +1427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 33601,
+      "num": 344014,
+      "word": "照顾失能失智老人属养老收费最高档位",
+      "onboard_time": 1728707722,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 30551,
       "num": 30551,
       "word": "动画还原杨妞花被拐案",
@@ -1515,6 +1539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 5941,
+      "num": 555973,
+      "word": "中国广播电视精品创作盛典",
+      "onboard_time": 1728708020,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 4838,
       "num": 598808,
       "word": "首届中国广播电视精品创作大会",
@@ -1532,6 +1564,9 @@
     },
     {
       "word": "#人民友好是国际关系行稳致远的基础#"
+    },
+    {
+      "word": "#共抓大保护不搞大开发#"
     }
   ]
 }

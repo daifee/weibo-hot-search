@@ -1,0 +1,410 @@
+{
+  "runTime": 1728708053796,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1834268,
+        "num": 1834268,
+        "word": "中央财政已下达就业补助667亿元",
+        "onboard_time": 1728703040,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 570054,
+        "num": 570054,
+        "word": "广东省教育厅声明",
+        "onboard_time": 1728702980,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 5941,
+        "num": 555973,
+        "word": "中国广播电视精品创作盛典",
+        "onboard_time": 1728708020,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3014495,
+        "num": 555674,
+        "word": "日本梅毒",
+        "onboard_time": 1728702619,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 552889,
+        "num": 552889,
+        "word": "不法分子入侵广东省教育厅短信平台",
+        "onboard_time": 1728701119,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 547428,
+        "num": 547428,
+        "word": "发行1万亿元超长期特别国债",
+        "onboard_time": 1728704661,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 389648,
+        "num": 389648,
+        "word": "财政部部长蓝佛安答记者问",
+        "onboard_time": 1728701540,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 348527,
+        "num": 348527,
+        "word": "何猷君谈赌王儿子身份标签",
+        "onboard_time": 1728704781,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 302766,
+        "num": 347752,
+        "word": "春花焰定档了",
+        "onboard_time": 1728699199,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 243337,
+        "num": 346986,
+        "word": "本专科生国家助学金升至每年3700元",
+        "onboard_time": 1728705141,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 59560,
+        "num": 346749,
+        "word": "打卡秋天里的美丽中国",
+        "onboard_time": 1728706040,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1574590,
+        "num": 345823,
+        "word": "听泉鉴宝 盗墓",
+        "onboard_time": 1728706519,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 373951,
+        "num": 344890,
+        "word": "公诉机关建议判余华英死刑",
+        "onboard_time": 1728705141,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33601,
+        "num": 344014,
+        "word": "照顾失能失智老人属养老收费最高档位",
+        "onboard_time": 1728707722,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141814,
+        "num": 343556,
+        "word": "天猫双11将于10月14日晚8点开启",
+        "onboard_time": 1728705621,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1506682,
+        "num": 342809,
+        "word": "金星解释复婚",
+        "onboard_time": 1728703220,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 868978,
+        "num": 341769,
+        "word": "一家三口被撞身亡车祸细节披露",
+        "onboard_time": 1728703939,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 60017,
+        "num": 341046,
+        "word": "这默契度不是兄妹就是夫妻",
+        "onboard_time": 1728702079,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102461,
+        "num": 339772,
+        "word": "车圈下一个恒大是谁",
+        "onboard_time": 1728703401,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 812308,
+        "num": 339116,
+        "word": "31岁男子闪婚5天后自杀身亡",
+        "onboard_time": 1728694461,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 567203,
+        "num": 338446,
+        "word": "郑钦文VOGUE 不输超模",
+        "onboard_time": 1728707000,
+        "rank": 20,
+        "category": "体育,作品衍生"
+      },
+      {
+        "raw_hot": 513522,
+        "num": 337585,
+        "word": "2024年国家奖学金奖励名额将翻倍",
+        "onboard_time": 1728704179,
+        "rank": 21,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 443845,
+        "num": 336547,
+        "word": "男生食堂买饭遭阿姨多次无视并赶走",
+        "onboard_time": 1728690078,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 411356,
+        "num": 336117,
+        "word": "檀健次经纪人",
+        "onboard_time": 1728688336,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 384261,
+        "num": 335001,
+        "word": "Jessi发文道歉",
+        "onboard_time": 1728702380,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 334802,
+        "num": 334802,
+        "word": "美国吹牛老爹名单",
+        "onboard_time": 1728705141,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 313250,
+        "num": 313250,
+        "word": "财政部介绍加大逆周期调节力度",
+        "onboard_time": 1728698539,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254594,
+        "num": 308550,
+        "word": "给毕雯珺带抹额的人简直是天才",
+        "onboard_time": 1728706641,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 217078,
+        "num": 306158,
+        "word": "春花厌改名",
+        "onboard_time": 1728701960,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 216854,
+        "num": 304972,
+        "word": "毛晓彤大拌菜",
+        "onboard_time": 1728707061,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 304252,
+        "num": 304252,
+        "word": "鞠婧祎出席王者荣耀共创之夜",
+        "onboard_time": 1728706583,
+        "rank": 30,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 284122,
+        "num": 284122,
+        "word": "存量房贷利率10月25日起调整",
+        "onboard_time": 1728697640,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 279287,
+        "num": 279287,
+        "word": "女孩凌晨5点被突然下车的壮汉吓到",
+        "onboard_time": 1728696738,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 268038,
+        "num": 268038,
+        "word": "男子内裤里藏339颗珍珠入境被查",
+        "onboard_time": 1728690078,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173536,
+        "num": 254784,
+        "word": "披荆斩棘4五公",
+        "onboard_time": 1728707901,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 253641,
+        "num": 253641,
+        "word": "二线城市30年贷款100万每月可省170元",
+        "onboard_time": 1728698539,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248561,
+        "num": 248561,
+        "word": "才意识到朋友圈不完全属于自己",
+        "onboard_time": 1728693981,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 246407,
+        "num": 246407,
+        "word": "拿800万元托人炒股损失267万元",
+        "onboard_time": 1728695540,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 240753,
+        "num": 240753,
+        "word": "宝妈10分钟超快顺产自己走出产房",
+        "onboard_time": 1728697999,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233468,
+        "num": 233468,
+        "word": "向佐 猫系",
+        "onboard_time": 1728703102,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 231924,
+        "num": 231924,
+        "word": "我选择不去参加十年闺蜜的婚礼",
+        "onboard_time": 1728706641,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 225624,
+        "num": 225624,
+        "word": "李发彬的鞋子能承受14个成年人重量",
+        "onboard_time": 1728704361,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 220772,
+        "num": 220772,
+        "word": "武艺 因为我是快男",
+        "onboard_time": 1728705801,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200335,
+        "num": 200335,
+        "word": "乒乓球赛程 密集",
+        "onboard_time": 1728706340,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 190834,
+        "num": 190834,
+        "word": "以色列巴勒斯坦冲突",
+        "onboard_time": 1728699739,
+        "rank": 44,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 184494,
+        "num": 184494,
+        "word": "唐氏孩子说要打5份工养爸爸妈妈",
+        "onboard_time": 1728698359,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180041,
+        "num": 180041,
+        "word": "ON大乱斗",
+        "onboard_time": 1728706401,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 167777,
+        "num": 167777,
+        "word": "Jennie生图",
+        "onboard_time": 1728692059,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 128247,
+        "num": 166695,
+        "word": "曾黎妈妈32年前的家书",
+        "onboard_time": 1728706583,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166582,
+        "num": 166582,
+        "word": "第五人格",
+        "onboard_time": 1728706941,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#共抓大保护不搞大开发#"
+    }
+  }
+}
