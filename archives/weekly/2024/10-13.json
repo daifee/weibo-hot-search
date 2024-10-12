@@ -1,6 +1,6 @@
 {
   "startTime": 1728750414717,
-  "endTime": 1728751391053,
+  "endTime": 1728753496187,
   "band_list": [
     {
       "raw_hot": 1419674,
@@ -131,6 +131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 296940,
+      "num": 296940,
+      "word": "受教育的意义在这一刻发光了",
+      "onboard_time": 1728749600,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 266011,
       "num": 266011,
       "word": "上海菜为什么偏甜",
@@ -163,10 +171,10 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 211821,
-      "num": 296428,
-      "word": "受教育的意义在这一刻发光了",
-      "onboard_time": 1728749600,
+      "raw_hot": 203184,
+      "num": 211147,
+      "word": "死死顶住失控车辆的他获赠新车",
+      "onboard_time": 1728750797,
       "rank": 9,
       "category": "社会新闻"
     },
@@ -187,7 +195,7 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 160795,
+      "raw_hot": 163746,
       "num": 269149,
       "word": "听泉鉴宝",
       "onboard_time": 1728739283,
@@ -283,6 +291,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 117614,
+      "num": 117614,
+      "word": "S14",
+      "onboard_time": 1728744922,
+      "rank": 23,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 112878,
       "num": 119695,
       "word": "听泉鉴宝 盗墓",
@@ -323,6 +339,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 99338,
+      "num": 99338,
+      "word": "我的宝藏家乡",
+      "onboard_time": 1728727159,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 95409,
       "num": 119519,
       "word": "郑钦文晋级武网决赛",
@@ -337,6 +361,14 @@
       "onboard_time": 1728745042,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 93507,
+      "num": 166839,
+      "word": "孩子走失可用十人四追法寻人",
+      "onboard_time": 1728751996,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 90658,
@@ -395,12 +427,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 72529,
-      "num": 211147,
-      "word": "死死顶住失控车辆的他获赠新车",
-      "onboard_time": 1728750797,
-      "rank": 9,
-      "category": "社会新闻"
+      "raw_hot": 70686,
+      "num": 70686,
+      "word": "檀健次三部剧入围视界大会",
+      "onboard_time": 1728752237,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 66748,
@@ -417,6 +449,30 @@
       "onboard_time": 1728744801,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 61886,
+      "num": 61886,
+      "word": "王楚钦一天三赛",
+      "onboard_time": 1728740124,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 56613,
+      "num": 56613,
+      "word": "WBG对战FNC",
+      "onboard_time": 1728736220,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 11519,
+      "num": 429025,
+      "word": "秋日林场景色如画",
+      "onboard_time": 1728735860,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 9077,
