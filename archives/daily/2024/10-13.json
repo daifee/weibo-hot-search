@@ -1,6 +1,6 @@
 {
   "startTime": 1728750414717,
-  "endTime": 1728764552000,
+  "endTime": 1728765352074,
   "band_list": [
     {
       "raw_hot": 1419674,
@@ -451,6 +451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 69003,
+      "num": 69003,
+      "word": "迈巴赫经销商承诺漏水负责到底",
+      "onboard_time": 1728762252,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 66748,
       "num": 119440,
       "word": "WBG战胜FNC",
@@ -481,14 +489,6 @@
       "onboard_time": 1728736220,
       "rank": 47,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 49959,
-      "num": 49959,
-      "word": "迈巴赫经销商承诺漏水负责到底",
-      "onboard_time": 1728762252,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 44882,
@@ -595,8 +595,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 15566,
-      "num": 43102,
+      "raw_hot": 16824,
+      "num": 49363,
       "word": "我驻黎维和官兵完成紧急应急演练",
       "onboard_time": 1728763331,
       "rank": 14,
