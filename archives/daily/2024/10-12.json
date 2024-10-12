@@ -1,6 +1,6 @@
 {
   "startTime": 1728664067735,
-  "endTime": 1728732911981,
+  "endTime": 1728736747738,
   "band_list": [
     {
       "raw_hot": 4273020,
@@ -163,6 +163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 998705,
+      "num": 485770,
+      "word": "北大校友否认听泉鉴宝学历",
+      "onboard_time": 1728735560,
+      "rank": 10,
+      "category": "网红"
+    },
+    {
       "raw_hot": 981986,
       "num": 454165,
       "word": "SEVENTEEN演唱会着火",
@@ -177,6 +185,22 @@
       "onboard_time": 1728715281,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 950123,
+      "num": 484091,
+      "word": "女生掏耳朵被男友撞到戳破耳膜",
+      "onboard_time": 1728734780,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 919082,
+      "num": 919082,
+      "word": "陈幸同vs张本美和",
+      "onboard_time": 1728733699,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 896461,
@@ -259,6 +283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 766465,
+      "num": 626855,
+      "word": "收到同事救命信息赶去救下一命",
+      "onboard_time": 1728729620,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 760522,
       "num": 587740,
       "word": "宝妈10分钟超快顺产自己走出产房",
@@ -288,6 +320,14 @@
       "word": "女儿被拐后妈妈疯了爸爸自杀了",
       "onboard_time": 1728653120,
       "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 719186,
+      "num": 464623,
+      "word": "骑行男孩身亡案司机赔偿后获谅解",
+      "onboard_time": 1728731719,
+      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -363,6 +403,14 @@
       "category": "财经,汽车"
     },
     {
+      "raw_hot": 628352,
+      "num": 628352,
+      "word": "梁王组合无缘北极赛决赛",
+      "onboard_time": 1728734121,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 621543,
       "num": 621543,
       "word": "不法分子入侵广东省教育厅短信平台",
@@ -376,6 +424,14 @@
       "word": "男生食堂买饭遭阿姨多次无视并赶走",
       "onboard_time": 1728690078,
       "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 616413,
+      "num": 561676,
+      "word": "你的房贷还完了吗",
+      "onboard_time": 1728732920,
+      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -523,6 +579,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 498260,
+      "num": 498260,
+      "word": "你好星期六",
+      "onboard_time": 1728733398,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 494675,
       "num": 383678,
       "word": "闵塔鲨审美",
@@ -537,6 +601,14 @@
       "onboard_time": 1728728359,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 478990,
+      "num": 447480,
+      "word": "王亚飞发迪丽热巴",
+      "onboard_time": 1728733580,
+      "rank": 17,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 473502,
@@ -635,20 +707,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 411511,
+      "num": 411511,
+      "word": "郑钦文vs王欣瑜",
+      "onboard_time": 1728731420,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 409631,
       "num": 314386,
       "word": "杜华哭了",
       "onboard_time": 1728715281,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 408466,
-      "num": 408466,
-      "word": "郑钦文vs王欣瑜",
-      "onboard_time": 1728731420,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 404910,
@@ -721,6 +793,14 @@
       "onboard_time": 1728726199,
       "rank": 22,
       "category": "演出"
+    },
+    {
+      "raw_hot": 375279,
+      "num": 375279,
+      "word": "骑行男孩遭碾压案新进展",
+      "onboard_time": 1728733819,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 371861,
@@ -827,14 +907,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 320299,
-      "num": 320299,
-      "word": "骑行男孩身亡案司机赔偿后获谅解",
-      "onboard_time": 1728731719,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 314512,
       "num": 160751,
       "word": "陕西一消防车发生事故致5死1伤",
@@ -864,6 +936,14 @@
       "word": "难怪电脑代码不能用中文",
       "onboard_time": 1728711860,
       "rank": 35,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 305703,
+      "num": 305703,
+      "word": "小狗突然亲了你一下",
+      "onboard_time": 1728734959,
+      "rank": 26,
       "category": "幽默"
     },
     {
@@ -1185,14 +1265,6 @@
       "onboard_time": 1728691640,
       "rank": 24,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 240168,
-      "num": 240168,
-      "word": "收到同事救命信息赶去救下一命",
-      "onboard_time": 1728729620,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 238624,
@@ -1627,6 +1699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 192499,
+      "num": 192499,
+      "word": "WBG对战FNC",
+      "onboard_time": 1728736220,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 191809,
       "num": 191809,
       "word": "将置换地方政府存量隐性债务",
@@ -1891,6 +1971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 166143,
+      "num": 166143,
+      "word": "李娜现身武网",
+      "onboard_time": 1728736161,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 165219,
       "num": 303600,
       "word": "尼加拉瓜宣布与以色列断交",
@@ -1971,6 +2059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 157167,
+      "num": 157167,
+      "word": "王楚钦林诗栋分别晋级男单8强",
+      "onboard_time": 1728735800,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 157143,
       "num": 157143,
       "word": "李帝努开球",
@@ -2009,6 +2105,22 @@
       "onboard_time": 1728727159,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 151487,
+      "num": 151487,
+      "word": "尹净汉车银优同框",
+      "onboard_time": 1728733939,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 148048,
+      "num": 148048,
+      "word": "伊藤美诚3比1徐孝元",
+      "onboard_time": 1728736580,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 147659,
@@ -2097,6 +2209,14 @@
       "onboard_time": 1728723260,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 137295,
+      "num": 137295,
+      "word": "虞书欣 不要你夸我不怕你骂我",
+      "onboard_time": 1728736161,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 136335,
@@ -2331,6 +2451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 92533,
+      "num": 308675,
+      "word": "老年人沉迷霸总短剧不容忽视",
+      "onboard_time": 1728734840,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 90772,
       "num": 90772,
       "word": "付鹏称当前市场预期有点高了",
@@ -2345,6 +2473,14 @@
       "onboard_time": 1728659958,
       "rank": 28,
       "category": "综艺,电竞"
+    },
+    {
+      "raw_hot": 88053,
+      "num": 148276,
+      "word": "当一对中年夫妻被迫卖房",
+      "onboard_time": 1728734720,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 85903,
@@ -2667,6 +2803,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 40491,
+      "num": 473991,
+      "word": "迪丽热巴鼓励女生大胆突破",
+      "onboard_time": 1728734720,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 40198,
       "num": 252018,
       "word": "警方正在调查教育厅短信平台遭入侵",
@@ -2689,6 +2833,14 @@
       "onboard_time": 1728686355,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 38903,
+      "num": 491817,
+      "word": "化油为水清洁剂诱导老人大量购买",
+      "onboard_time": 1728734899,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 38160,
@@ -2827,6 +2979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 26327,
+      "num": 467985,
+      "word": "48公里国道通行超3小时补景区门票",
+      "onboard_time": 1728735080,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 25210,
       "num": 363917,
       "word": "哈利波特给你的青春留下了什么",
@@ -2849,6 +3009,14 @@
       "onboard_time": 1728731239,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 22817,
+      "num": 215481,
+      "word": "王楚钦vs吴晙诚",
+      "onboard_time": 1728736580,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 21324,
@@ -2883,6 +3051,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 19677,
+      "num": 426243,
+      "word": "锦绣安宁抓大鹅抱团好甜",
+      "onboard_time": 1728735919,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 19592,
       "num": 19592,
       "word": "孩子走失立即报警不用等24小时",
@@ -2896,6 +3072,14 @@
       "word": "杨妞花称余华英将责任都推给情夫",
       "onboard_time": 1728677531,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 17518,
+      "num": 747883,
+      "word": "2024年全国数字乡村创新大赛",
+      "onboard_time": 1728735319,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -2937,6 +3121,14 @@
       "onboard_time": 1728711321,
       "rank": 49,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 6580,
+      "num": 232763,
+      "word": "国乒女单无缘亚锦赛四强",
+      "onboard_time": 1728736700,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 5941,
@@ -2981,6 +3173,9 @@
     },
     {
       "word": "#一个友谊的世界才可能是和平的世界#"
+    },
+    {
+      "word": "#习近平向埃塞俄比亚新任总统塔耶致贺电#"
     }
   ]
 }

@@ -1,0 +1,410 @@
+{
+  "runTime": 1728736747738,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 17879,
+        "num": 1002860,
+        "word": "吴邦国同志遗体10月14日火化",
+        "onboard_time": 1728711500,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 919082,
+        "num": 919082,
+        "word": "陈幸同vs张本美和",
+        "onboard_time": 1728733699,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 17518,
+        "num": 747883,
+        "word": "2024年全国数字乡村创新大赛",
+        "onboard_time": 1728735319,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1241793,
+        "num": 696208,
+        "word": "财政部长请大家放心",
+        "onboard_time": 1728730279,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 628352,
+        "num": 628352,
+        "word": "梁王组合无缘北极赛决赛",
+        "onboard_time": 1728734121,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 766465,
+        "num": 626855,
+        "word": "收到同事救命信息赶去救下一命",
+        "onboard_time": 1728729620,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 610856,
+        "num": 610856,
+        "word": "亚锦赛女单",
+        "onboard_time": 1728730640,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 616413,
+        "num": 561676,
+        "word": "你的房贷还完了吗",
+        "onboard_time": 1728732920,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 498260,
+        "num": 498260,
+        "word": "你好星期六",
+        "onboard_time": 1728733398,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 38903,
+        "num": 491817,
+        "word": "化油为水清洁剂诱导老人大量购买",
+        "onboard_time": 1728734899,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 998705,
+        "num": 485770,
+        "word": "北大校友否认听泉鉴宝学历",
+        "onboard_time": 1728735560,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 950123,
+        "num": 484091,
+        "word": "女生掏耳朵被男友撞到戳破耳膜",
+        "onboard_time": 1728734780,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 40491,
+        "num": 473991,
+        "word": "迪丽热巴鼓励女生大胆突破",
+        "onboard_time": 1728734720,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26327,
+        "num": 467985,
+        "word": "48公里国道通行超3小时补景区门票",
+        "onboard_time": 1728735080,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 719186,
+        "num": 464623,
+        "word": "骑行男孩身亡案司机赔偿后获谅解",
+        "onboard_time": 1728731719,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 693756,
+        "num": 455723,
+        "word": "日本梅毒",
+        "onboard_time": 1728702619,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 453080,
+        "num": 453080,
+        "word": "听泉鉴宝 盗墓",
+        "onboard_time": 1728706519,
+        "rank": 16,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 478990,
+        "num": 447480,
+        "word": "王亚飞发迪丽热巴",
+        "onboard_time": 1728733580,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 19677,
+        "num": 426243,
+        "word": "锦绣安宁抓大鹅抱团好甜",
+        "onboard_time": 1728735919,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 411511,
+        "num": 411511,
+        "word": "郑钦文vs王欣瑜",
+        "onboard_time": 1728731420,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 375279,
+        "num": 375279,
+        "word": "骑行男孩遭碾压案新进展",
+        "onboard_time": 1728733819,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 355537,
+        "num": 355537,
+        "word": "时代峰峻噪声超标被罚1.25万",
+        "onboard_time": 1728729979,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 351021,
+        "num": 351021,
+        "word": "SEVENTEEN演唱会着火",
+        "onboard_time": 1728729859,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 344373,
+        "num": 344373,
+        "word": "檀健次经纪人聊天记录",
+        "onboard_time": 1728714199,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 315799,
+        "num": 315799,
+        "word": "中华田园犬大战2米毒蛇保护110",
+        "onboard_time": 1728728420,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92533,
+        "num": 308675,
+        "word": "老年人沉迷霸总短剧不容忽视",
+        "onboard_time": 1728734840,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 305703,
+        "num": 305703,
+        "word": "小狗突然亲了你一下",
+        "onboard_time": 1728734959,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 287527,
+        "num": 287527,
+        "word": "女子头戴鲨鱼夹摔倒后成植物人",
+        "onboard_time": 1728712040,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 6580,
+        "num": 232763,
+        "word": "国乒女单无缘亚锦赛四强",
+        "onboard_time": 1728736700,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 22817,
+        "num": 215481,
+        "word": "王楚钦vs吴晙诚",
+        "onboard_time": 1728736580,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 213689,
+        "num": 213689,
+        "word": "女子颈椎病被医生舌下扎针治好",
+        "onboard_time": 1728718519,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210541,
+        "num": 210541,
+        "word": "王楚钦战胜日本选手进8强",
+        "onboard_time": 1728732499,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 198536,
+        "num": 198536,
+        "word": "周杰伦林俊杰钢琴合唱",
+        "onboard_time": 1728728720,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 197245,
+        "num": 197245,
+        "word": "东北雨姐被罚165万",
+        "onboard_time": 1728711739,
+        "rank": 33,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 192499,
+        "num": 192499,
+        "word": "WBG对战FNC",
+        "onboard_time": 1728736220,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 190779,
+        "num": 190779,
+        "word": "虞书欣粉百合美人",
+        "onboard_time": 1728729560,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 188633,
+        "num": 188633,
+        "word": "蔡徐坤 支持我戴",
+        "onboard_time": 1728714560,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 177634,
+        "num": 177634,
+        "word": "王艺迪0比3金琴英",
+        "onboard_time": 1728725960,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169278,
+        "num": 169278,
+        "word": "报告指认以色列欲摧毁加沙卫生系统",
+        "onboard_time": 1728721159,
+        "rank": 38,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 167345,
+        "num": 167345,
+        "word": "儿子因病离世父亲一夜白头",
+        "onboard_time": 1728720918,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166143,
+        "num": 166143,
+        "word": "李娜现身武网",
+        "onboard_time": 1728736161,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158772,
+        "num": 158772,
+        "word": "白鹿公式照",
+        "onboard_time": 1728730580,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157167,
+        "num": 157167,
+        "word": "王楚钦林诗栋分别晋级男单8强",
+        "onboard_time": 1728735800,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 155677,
+        "num": 155677,
+        "word": "闵塔鲨审美",
+        "onboard_time": 1728723379,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 151487,
+        "num": 151487,
+        "word": "尹净汉车银优同框",
+        "onboard_time": 1728733939,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 88053,
+        "num": 148276,
+        "word": "当一对中年夫妻被迫卖房",
+        "onboard_time": 1728734720,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148048,
+        "num": 148048,
+        "word": "伊藤美诚3比1徐孝元",
+        "onboard_time": 1728736580,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 147500,
+        "num": 147500,
+        "word": "34岁男子被裁后去哀牢山被困",
+        "onboard_time": 1728731660,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137295,
+        "num": 137295,
+        "word": "虞书欣 不要你夸我不怕你骂我",
+        "onboard_time": 1728736161,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127922,
+        "num": 127922,
+        "word": "鸿蒙版微信正式上架",
+        "onboard_time": 1728725360,
+        "rank": 49,
+        "category": "互联网,数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向埃塞俄比亚新任总统塔耶致贺电#"
+    }
+  }
+}
