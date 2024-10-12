@@ -1,7 +1,15 @@
 {
   "startTime": 1728664067735,
-  "endTime": 1728737687257,
+  "endTime": 1728739450362,
   "band_list": [
+    {
+      "raw_hot": 6398187,
+      "num": 6398187,
+      "word": "王楚钦止步亚锦赛8强",
+      "onboard_time": 1728738325,
+      "rank": 0,
+      "category": "体育"
+    },
     {
       "raw_hot": 4273020,
       "num": 649217,
@@ -9,6 +17,14 @@
       "onboard_time": 1728702619,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2887715,
+      "num": 2887715,
+      "word": "王楚钦vs吴晙诚",
+      "onboard_time": 1728736580,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 2253143,
@@ -28,7 +44,7 @@
     },
     {
       "raw_hot": 1856615,
-      "num": 484091,
+      "num": 706858,
       "word": "女生掏耳朵被男友撞到戳破耳膜",
       "onboard_time": 1728734780,
       "rank": 11,
@@ -67,6 +83,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1613275,
+      "num": 1613275,
+      "word": "国乒女单无缘亚锦赛四强",
+      "onboard_time": 1728736700,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1591854,
       "num": 504681,
       "word": "金星解释复婚",
@@ -76,7 +100,7 @@
     },
     {
       "raw_hot": 1563074,
-      "num": 997252,
+      "num": 1021625,
       "word": "陈幸同vs张本美和",
       "onboard_time": 1728733699,
       "rank": 1,
@@ -84,7 +108,7 @@
     },
     {
       "raw_hot": 1439285,
-      "num": 485770,
+      "num": 1253463,
       "word": "北大校友否认听泉鉴宝学历",
       "onboard_time": 1728735560,
       "rank": 10,
@@ -105,6 +129,14 @@
       "onboard_time": 1728657741,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1280002,
+      "num": 1280002,
+      "word": "王楚钦1比3吴晙诚",
+      "onboard_time": 1728738325,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 1265893,
@@ -339,6 +371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 712804,
+      "num": 712804,
+      "word": "郑钦文晋级武网决赛",
+      "onboard_time": 1728738802,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 691722,
       "num": 691722,
       "word": "拿800万元托人炒股损失267万元",
@@ -360,6 +400,14 @@
       "word": "中华田园犬大战2米毒蛇保护110",
       "onboard_time": 1728728420,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 683352,
+      "num": 683352,
+      "word": "大四学生失联数月家属称其挂科8门",
+      "onboard_time": 1728736940,
+      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -403,6 +451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 649327,
+      "num": 649327,
+      "word": "B太回应曾夸东北雨姐真实",
+      "onboard_time": 1728736760,
+      "rank": 28,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 648292,
       "num": 266466,
       "word": "中老年抖音",
@@ -417,6 +473,14 @@
       "onboard_time": 1728693562,
       "rank": 1,
       "category": "财经,汽车"
+    },
+    {
+      "raw_hot": 640470,
+      "num": 640470,
+      "word": "郑钦文vs王欣瑜",
+      "onboard_time": 1728731420,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 628352,
@@ -523,6 +587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 558894,
+      "num": 701579,
+      "word": "赵露思说目前没有拍电影的打算",
+      "onboard_time": 1728737482,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 556908,
       "num": 556908,
       "word": "存量房贷利率10月25日起调整",
@@ -587,6 +659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 500493,
+      "num": 500493,
+      "word": "亚锦赛男单",
+      "onboard_time": 1728738445,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 498260,
       "num": 498260,
       "word": "你好星期六",
@@ -617,14 +697,6 @@
       "onboard_time": 1728733580,
       "rank": 17,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 476069,
-      "num": 476069,
-      "word": "郑钦文vs王欣瑜",
-      "onboard_time": 1728731420,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 473502,
@@ -787,14 +859,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 382370,
-      "num": 382370,
-      "word": "王楚钦vs吴晙诚",
-      "onboard_time": 1728736580,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 381445,
       "num": 344890,
       "word": "公诉机关建议判余华英死刑",
@@ -848,14 +912,6 @@
       "word": "余华英将罪责都推到丈夫和情夫身上",
       "onboard_time": 1728656781,
       "rank": 32,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 363886,
-      "num": 473350,
-      "word": "大四学生失联数月家属称其挂科8门",
-      "onboard_time": 1728736940,
-      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -995,6 +1051,14 @@
       "category": "游戏,艺人"
     },
     {
+      "raw_hot": 303193,
+      "num": 303193,
+      "word": "罗宜宁嫡千金变私生女",
+      "onboard_time": 1728737421,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 299520,
       "num": 512720,
       "word": "春花厌改名",
@@ -1049,14 +1113,6 @@
       "onboard_time": 1728691099,
       "rank": 18,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 287967,
-      "num": 287967,
-      "word": "B太回应曾夸东北雨姐真实",
-      "onboard_time": 1728736760,
-      "rank": 28,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 286820,
@@ -1161,14 +1217,6 @@
       "onboard_time": 1728719181,
       "rank": 32,
       "category": "教育"
-    },
-    {
-      "raw_hot": 265007,
-      "num": 265007,
-      "word": "赵露思说目前没有拍电影的打算",
-      "onboard_time": 1728737482,
-      "rank": 30,
-      "category": "电影"
     },
     {
       "raw_hot": 263587,
@@ -1467,11 +1515,27 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 219913,
+      "num": 219913,
+      "word": "唐香玉 男人我都懒得挑",
+      "onboard_time": 1728738021,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 219885,
       "num": 219885,
       "word": "樊振东下意识的趴下和吹球",
       "onboard_time": 1728689957,
       "rank": 26,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 219872,
+      "num": 219872,
+      "word": "亚锦赛女双",
+      "onboard_time": 1728738744,
+      "rank": 44,
       "category": "体育"
     },
     {
@@ -1491,6 +1555,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 215579,
+      "num": 215579,
+      "word": "陈幸同好冷静",
+      "onboard_time": 1728737901,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 215387,
+      "num": 305862,
+      "word": "王楚钦林诗栋分别晋级男单8强",
+      "onboard_time": 1728735800,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 215343,
       "num": 215343,
       "word": "郑钦文说在美网被陪练水平气到",
@@ -1507,12 +1587,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 214460,
+      "num": 214460,
+      "word": "虞书欣 不要你夸我不怕你骂我",
+      "onboard_time": 1728736161,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 214212,
       "num": 322637,
       "word": "年轻人开始养黏菌当宠物",
       "onboard_time": 1728724099,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 212837,
+      "num": 212837,
+      "word": "李娜现身武网",
+      "onboard_time": 1728736161,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 212596,
@@ -1659,20 +1755,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 200232,
+      "num": 217663,
+      "word": "听泉鉴宝",
+      "onboard_time": 1728739283,
+      "rank": 45,
+      "category": "网红"
+    },
+    {
       "raw_hot": 199825,
       "num": 199825,
       "word": "SEVENTEEN water",
       "onboard_time": 1728731780,
       "rank": 41,
       "category": "演出"
-    },
-    {
-      "raw_hot": 199063,
-      "num": 232763,
-      "word": "国乒女单无缘亚锦赛四强",
-      "onboard_time": 1728736700,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 198552,
@@ -1963,14 +2059,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 171729,
-      "num": 169525,
-      "word": "虞书欣 不要你夸我不怕你骂我",
-      "onboard_time": 1728736161,
-      "rank": 48,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 169621,
       "num": 169621,
       "word": "许昕4比2罗铮",
@@ -1993,14 +2081,6 @@
       "onboard_time": 1728707120,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 169235,
-      "num": 169235,
-      "word": "罗宜宁嫡千金变私生女",
-      "onboard_time": 1728737421,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 169028,
@@ -2057,14 +2137,6 @@
       "onboard_time": 1728727339,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 166143,
-      "num": 166143,
-      "word": "李娜现身武网",
-      "onboard_time": 1728736161,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 165219,
@@ -2153,14 +2225,6 @@
       "onboard_time": 1728724999,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 157167,
-      "num": 157167,
-      "word": "王楚钦林诗栋分别晋级男单8强",
-      "onboard_time": 1728735800,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 157143,
@@ -2723,6 +2787,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 62504,
+      "num": 693418,
+      "word": "迪丽热巴鼓励女生大胆突破",
+      "onboard_time": 1728734720,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 59541,
       "num": 378840,
       "word": "CBA30年祝福有我",
@@ -2761,6 +2833,14 @@
       "onboard_time": 1728717800,
       "rank": 18,
       "category": "网红"
+    },
+    {
+      "raw_hot": 56253,
+      "num": 710619,
+      "word": "Jellycat玩偶爆火黄牛溢价超3倍",
+      "onboard_time": 1728738263,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 56233,
@@ -2827,12 +2907,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 45037,
-      "num": 474132,
-      "word": "迪丽热巴鼓励女生大胆突破",
-      "onboard_time": 1728734720,
-      "rank": 12,
-      "category": "艺人"
+      "raw_hot": 44508,
+      "num": 413948,
+      "word": "阿姨说找总监按摩听到咔嚓声后骨折",
+      "onboard_time": 1728737482,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 44229,
@@ -2892,7 +2972,7 @@
     },
     {
       "raw_hot": 40312,
-      "num": 269179,
+      "num": 304326,
       "word": "全网双11优惠向天猫看齐",
       "onboard_time": 1728736940,
       "rank": 29,
@@ -2952,6 +3032,14 @@
       "word": "杨妞花称靠记忆中父母的爱走到今天",
       "onboard_time": 1728665956,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 36278,
+      "num": 686231,
+      "word": "原来黑巧克力能平稳血压",
+      "onboard_time": 1728739102,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -3040,14 +3128,6 @@
       "word": "一定要让父母知道的5种养老骗局",
       "onboard_time": 1728679090,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 29218,
-      "num": 413948,
-      "word": "阿姨说找总监按摩听到咔嚓声后骨折",
-      "onboard_time": 1728737482,
-      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -3171,11 +3251,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 17178,
+      "num": 690405,
+      "word": "郑州对3家天价床垫门店责令停业",
+      "onboard_time": 1728738325,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 16570,
       "num": 381175,
       "word": "相关部门证实颜料师皮划艇视频为水库",
       "onboard_time": 1728729319,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 15558,
+      "num": 1888019,
+      "word": "2024两个博览会在苏州盛大开幕",
+      "onboard_time": 1728735739,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
