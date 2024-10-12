@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1728739450362,
+  "endTime": 1728740162958,
   "band_list": [
     {
       "raw_hot": 13027302,
@@ -31,6 +31,14 @@
       "num": 10133581,
       "word": "王楚钦2比3本雅明",
       "onboard_time": 1728366802,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 9645892,
+      "num": 9645892,
+      "word": "王楚钦止步亚锦赛8强",
+      "onboard_time": 1728738325,
       "rank": 0,
       "category": "体育"
     },
@@ -72,14 +80,6 @@
       "word": "王楚钦vs林昀儒",
       "onboard_time": 1728574160,
       "rank": 8,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 6398187,
-      "num": 6398187,
-      "word": "王楚钦止步亚锦赛8强",
-      "onboard_time": 1728738325,
-      "rank": 0,
       "category": "体育"
     },
     {
@@ -659,6 +659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1841069,
+      "num": 1841069,
+      "word": "国乒女单无缘亚锦赛四强",
+      "onboard_time": 1728736700,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1798923,
       "num": 481941,
       "word": "听泉鉴宝 盗墓",
@@ -873,14 +881,6 @@
       "onboard_time": 1728711500,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1613275,
-      "num": 1613275,
-      "word": "国乒女单无缘亚锦赛四强",
-      "onboard_time": 1728736700,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 1604255,
@@ -4003,6 +4003,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 720478,
+      "num": 720478,
+      "word": "郑钦文晋级武网决赛",
+      "onboard_time": 1728738802,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 719481,
       "num": 1115116,
       "word": "马龙vs李尚洙",
@@ -4057,14 +4065,6 @@
       "onboard_time": 1728566240,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 712804,
-      "num": 712804,
-      "word": "郑钦文晋级武网决赛",
-      "onboard_time": 1728738802,
-      "rank": 8,
-      "category": "体育"
     },
     {
       "raw_hot": 712625,
@@ -5411,6 +5411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 581055,
+      "num": 701579,
+      "word": "赵露思说目前没有拍电影的打算",
+      "onboard_time": 1728737482,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 580217,
       "num": 580217,
       "word": "郑钦文晋级八强",
@@ -5745,14 +5753,6 @@
       "onboard_time": 1728090257,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 558894,
-      "num": 701579,
-      "word": "赵露思说目前没有拍电影的打算",
-      "onboard_time": 1728737482,
-      "rank": 30,
-      "category": "电影"
     },
     {
       "raw_hot": 558221,
@@ -12171,6 +12171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 267790,
+      "num": 305862,
+      "word": "王楚钦林诗栋分别晋级男单8强",
+      "onboard_time": 1728735800,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 267766,
       "num": 274057,
       "word": "国庆假期就这么水灵灵结束了",
@@ -13963,6 +13971,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 232257,
+      "num": 231656,
+      "word": "2人走私2.7吨活体蛇被刑拘",
+      "onboard_time": 1728739583,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 232011,
       "num": 260012,
       "word": "李斯丹妮快女13年后首个常驻音综",
@@ -15107,14 +15123,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 215387,
-      "num": 305862,
-      "word": "王楚钦林诗栋分别晋级男单8强",
-      "onboard_time": 1728735800,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 215343,
       "num": 215343,
       "word": "郑钦文说在美网被陪练水平气到",
@@ -15313,6 +15321,14 @@
       "onboard_time": 1728624619,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 212436,
+      "num": 212436,
+      "word": "林诗栋晋级亚锦赛四强",
+      "onboard_time": 1728739823,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 212320,
@@ -15792,6 +15808,14 @@
       "word": "幼童在幼儿园坠楼排除被人为推下",
       "onboard_time": 1728472340,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 206186,
+      "num": 246912,
+      "word": "财政部同意销毁28款即开型彩票",
+      "onboard_time": 1728739942,
+      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -19123,6 +19147,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 178788,
+      "num": 178788,
+      "word": "王楚钦一天三赛",
+      "onboard_time": 1728740124,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 178570,
       "num": 177111,
       "word": "新股民纠结是否入场",
@@ -19713,6 +19745,14 @@
       "onboard_time": 1728537920,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 173264,
+      "num": 336995,
+      "word": "黑色月光",
+      "onboard_time": 1728452118,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 173168,
@@ -22969,14 +23009,6 @@
       "onboard_time": 1728191416,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 147815,
-      "num": 336995,
-      "word": "黑色月光",
-      "onboard_time": 1728452118,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 147699,
@@ -31811,6 +31843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 66361,
+      "num": 710619,
+      "word": "Jellycat玩偶爆火黄牛溢价超3倍",
+      "onboard_time": 1728738263,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 66355,
       "num": 367609,
       "word": "刘诗诗高级感的神",
@@ -32545,14 +32585,6 @@
       "onboard_time": 1728009138,
       "rank": 40,
       "category": "财经"
-    },
-    {
-      "raw_hot": 56253,
-      "num": 710619,
-      "word": "Jellycat玩偶爆火黄牛溢价超3倍",
-      "onboard_time": 1728738263,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 56233,
@@ -33401,6 +33433,14 @@
       "onboard_time": 1727973917,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 46170,
+      "num": 686231,
+      "word": "原来黑巧克力能平稳血压",
+      "onboard_time": 1728739102,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 46129,
@@ -34473,14 +34513,6 @@
       "onboard_time": 1728530478,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 36278,
-      "num": 686231,
-      "word": "原来黑巧克力能平稳血压",
-      "onboard_time": 1728739102,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 36271,
@@ -35819,6 +35851,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 25661,
+      "num": 378413,
+      "word": "王源 古希腊捡东西的神",
+      "onboard_time": 1728739583,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 25649,
       "num": 146750,
       "word": "玫瑰苹果养颜水",
@@ -36547,6 +36587,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 18513,
+      "num": 690405,
+      "word": "郑州对3家天价床垫门店责令停业",
+      "onboard_time": 1728738325,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 18397,
       "num": 289456,
       "word": "子弟兵含泪看完志愿军存亡之战",
@@ -36561,6 +36609,14 @@
       "onboard_time": 1727810892,
       "rank": 25,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 18270,
+      "num": 1888019,
+      "word": "2024两个博览会在苏州盛大开幕",
+      "onboard_time": 1728735739,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 18185,
@@ -36675,14 +36731,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 17178,
-      "num": 690405,
-      "word": "郑州对3家天价床垫门店责令停业",
-      "onboard_time": 1728738325,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 17149,
       "num": 150876,
       "word": "中欧将继续就电动汽车反补贴案磋商",
@@ -36759,14 +36807,6 @@
       "num": 923401,
       "word": "候鸟环球迁徙记",
       "onboard_time": 1728565160,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 15558,
-      "num": 1888019,
-      "word": "2024两个博览会在苏州盛大开幕",
-      "onboard_time": 1728735739,
       "rank": 2,
       "category": "社会新闻"
     },

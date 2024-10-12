@@ -1,10 +1,10 @@
 {
   "startTime": 1728664067735,
-  "endTime": 1728739450362,
+  "endTime": 1728740162958,
   "band_list": [
     {
-      "raw_hot": 6398187,
-      "num": 6398187,
+      "raw_hot": 9645892,
+      "num": 9645892,
       "word": "王楚钦止步亚锦赛8强",
       "onboard_time": 1728738325,
       "rank": 0,
@@ -51,6 +51,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1841069,
+      "num": 1841069,
+      "word": "国乒女单无缘亚锦赛四强",
+      "onboard_time": 1728736700,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1798923,
       "num": 481941,
       "word": "听泉鉴宝 盗墓",
@@ -81,14 +89,6 @@
       "onboard_time": 1728711500,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1613275,
-      "num": 1613275,
-      "word": "国乒女单无缘亚锦赛四强",
-      "onboard_time": 1728736700,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 1591854,
@@ -363,20 +363,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 720478,
+      "num": 720478,
+      "word": "郑钦文晋级武网决赛",
+      "onboard_time": 1728738802,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 719186,
       "num": 467794,
       "word": "骑行男孩身亡案司机赔偿后获谅解",
       "onboard_time": 1728731719,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 712804,
-      "num": 712804,
-      "word": "郑钦文晋级武网决赛",
-      "onboard_time": 1728738802,
-      "rank": 8,
-      "category": "体育"
     },
     {
       "raw_hot": 691722,
@@ -523,6 +523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 581055,
+      "num": 701579,
+      "word": "赵露思说目前没有拍电影的打算",
+      "onboard_time": 1728737482,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 579135,
       "num": 483059,
       "word": "蒯曼1比3申裕斌",
@@ -585,14 +593,6 @@
       "onboard_time": 1728722660,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 558894,
-      "num": 701579,
-      "word": "赵露思说目前没有拍电影的打算",
-      "onboard_time": 1728737482,
-      "rank": 30,
-      "category": "电影"
     },
     {
       "raw_hot": 556908,
@@ -849,6 +849,14 @@
       "onboard_time": 1728710360,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 393510,
+      "num": 393510,
+      "word": "亚锦赛",
+      "onboard_time": 1728722479,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 391229,
@@ -1211,6 +1219,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 267790,
+      "num": 305862,
+      "word": "王楚钦林诗栋分别晋级男单8强",
+      "onboard_time": 1728735800,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 267330,
       "num": 267330,
       "word": "一图速览国家奖学金新规",
@@ -1419,6 +1435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 232257,
+      "num": 231656,
+      "word": "2人走私2.7吨活体蛇被刑拘",
+      "onboard_time": 1728739583,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 231924,
       "num": 231924,
       "word": "我选择不去参加十年闺蜜的婚礼",
@@ -1563,14 +1587,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 215387,
-      "num": 305862,
-      "word": "王楚钦林诗栋分别晋级男单8强",
-      "onboard_time": 1728735800,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 215343,
       "num": 215343,
       "word": "郑钦文说在美网被陪练水平气到",
@@ -1617,6 +1633,14 @@
       "onboard_time": 1728691640,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 212436,
+      "num": 212436,
+      "word": "林诗栋晋级亚锦赛四强",
+      "onboard_time": 1728739823,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 211778,
@@ -1673,6 +1697,14 @@
       "onboard_time": 1728710660,
       "rank": 34,
       "category": "财经"
+    },
+    {
+      "raw_hot": 206186,
+      "num": 246912,
+      "word": "财政部同意销毁28款即开型彩票",
+      "onboard_time": 1728739942,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 205336,
@@ -2011,6 +2043,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 178788,
+      "num": 178788,
+      "word": "王楚钦一天三赛",
+      "onboard_time": 1728740124,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 176970,
       "num": 176970,
       "word": "WBG抽签",
@@ -2057,6 +2097,22 @@
       "onboard_time": 1728707901,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 173264,
+      "num": 173264,
+      "word": "黑色月光",
+      "onboard_time": 1728740124,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 172965,
+      "num": 172965,
+      "word": "WTT",
+      "onboard_time": 1728740124,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 169621,
@@ -2368,14 +2424,6 @@
       "word": "梁靖崑徐瑛彬无缘男双4强",
       "onboard_time": 1728723260,
       "rank": 47,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 136335,
-      "num": 136335,
-      "word": "亚锦赛",
-      "onboard_time": 1728722479,
-      "rank": 48,
       "category": "体育"
     },
     {
@@ -2747,6 +2795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 66361,
+      "num": 710619,
+      "word": "Jellycat玩偶爆火黄牛溢价超3倍",
+      "onboard_time": 1728738263,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 66355,
       "num": 367609,
       "word": "刘诗诗高级感的神",
@@ -2835,14 +2891,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 56253,
-      "num": 710619,
-      "word": "Jellycat玩偶爆火黄牛溢价超3倍",
-      "onboard_time": 1728738263,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 56233,
       "num": 214927,
       "word": "绑架游戏有几个反转",
@@ -2897,6 +2945,14 @@
       "onboard_time": 1728709462,
       "rank": 18,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 46170,
+      "num": 686231,
+      "word": "原来黑巧克力能平稳血压",
+      "onboard_time": 1728739102,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 45599,
@@ -3035,14 +3091,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 36278,
-      "num": 686231,
-      "word": "原来黑巧克力能平稳血压",
-      "onboard_time": 1728739102,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 36271,
       "num": 336702,
       "word": "嗨放派嗨进视界大会了",
@@ -3163,6 +3211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 25661,
+      "num": 378413,
+      "word": "王源 古希腊捡东西的神",
+      "onboard_time": 1728739583,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 25210,
       "num": 363917,
       "word": "哈利波特给你的青春留下了什么",
@@ -3243,6 +3299,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 18513,
+      "num": 690405,
+      "word": "郑州对3家天价床垫门店责令停业",
+      "onboard_time": 1728738325,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 18270,
+      "num": 1888019,
+      "word": "2024两个博览会在苏州盛大开幕",
+      "onboard_time": 1728735739,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 17923,
       "num": 38764,
       "word": "杨妞花称余华英将责任都推给情夫",
@@ -3251,27 +3323,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 17178,
-      "num": 690405,
-      "word": "郑州对3家天价床垫门店责令停业",
-      "onboard_time": 1728738325,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 16570,
       "num": 381175,
       "word": "相关部门证实颜料师皮划艇视频为水库",
       "onboard_time": 1728729319,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 15558,
-      "num": 1888019,
-      "word": "2024两个博览会在苏州盛大开幕",
-      "onboard_time": 1728735739,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
