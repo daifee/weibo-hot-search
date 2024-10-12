@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/10/01 00:28:17 ~ 2024/10/13 07:20:43
+本榜单时间：2024/10/01 00:28:17 ~ 2024/10/13 07:36:00
 </p>
 </blockquote>
 <p>
@@ -2991,6 +2991,12 @@ HPV疫苗已降到20多元1支（热度：747235）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AD%BB%E6%AD%BB%E9%A1%B6%E4%BD%8F%E5%A4%B1%E6%8E%A7%E8%BD%A6%E8%BE%86%E7%9A%84%E4%BB%96%E8%8E%B7%E8%B5%A0%E6%96%B0%E8%BD%A6%23" target="weibo">
+死死顶住失控车辆的他获赠新车（热度：736098）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8Evs%E8%92%AF%E6%9B%BC%23" target="weibo">
 孙颖莎vs蒯曼（热度：735355）
 </a>
@@ -3179,12 +3185,6 @@ SM确认洪承汉不退团（热度：728564）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B0%E6%9B%A6%E8%96%87%E6%96%B9%E5%9B%9E%E5%BA%94%E6%97%A0%E7%89%8C%E8%BD%A6%E8%BF%9D%E8%A7%84%E9%97%AE%E9%A2%98%23" target="weibo">
 田曦薇方回应无牌车违规问题（热度：695494）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AD%BB%E6%AD%BB%E9%A1%B6%E4%BD%8F%E5%A4%B1%E6%8E%A7%E8%BD%A6%E8%BE%86%E7%9A%84%E4%BB%96%E8%8E%B7%E8%B5%A0%E6%96%B0%E8%BD%A6%23" target="weibo">
-死死顶住失控车辆的他获赠新车（热度：694563）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1728750414717,
-  "endTime": 1728775243959,
+  "endTime": 1728776160689,
   "band_list": [
     {
       "raw_hot": 1419674,
@@ -51,8 +51,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 694563,
-      "num": 805574,
+      "raw_hot": 736098,
+      "num": 920293,
       "word": "死死顶住失控车辆的他获赠新车",
       "onboard_time": 1728750797,
       "rank": 9,
@@ -115,7 +115,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 412235,
+      "raw_hot": 438734,
       "num": 273934,
       "word": "B太回应曾夸东北雨姐真实",
       "onboard_time": 1728736760,
@@ -131,8 +131,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 300030,
-      "num": 300030,
+      "raw_hot": 332463,
+      "num": 332463,
       "word": "孩子走失可用十人四追法寻人",
       "onboard_time": 1728751996,
       "rank": 9,
@@ -211,8 +211,8 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 175421,
-      "num": 175421,
+      "raw_hot": 177383,
+      "num": 177383,
       "word": "迈巴赫经销商承诺漏水负责到底",
       "onboard_time": 1728762252,
       "rank": 8,
@@ -275,6 +275,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 129849,
+      "num": 196754,
+      "word": "拜登要求以色列停止袭击联黎部队",
+      "onboard_time": 1728743662,
+      "rank": 35,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 127657,
       "num": 127657,
       "word": "万圣节cos 向佐叶珂",
@@ -292,7 +300,7 @@
     },
     {
       "raw_hot": 121825,
-      "num": 138371,
+      "num": 178636,
       "word": "听泉鉴宝学校信息已更改",
       "onboard_time": 1728740963,
       "rank": 29,
@@ -305,14 +313,6 @@
       "onboard_time": 1728729859,
       "rank": 34,
       "category": "演出"
-    },
-    {
-      "raw_hot": 118558,
-      "num": 174120,
-      "word": "拜登要求以色列停止袭击联黎部队",
-      "onboard_time": 1728743662,
-      "rank": 35,
-      "category": "国外时政"
     },
     {
       "raw_hot": 112878,
@@ -435,6 +435,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 85981,
+      "num": 95384,
+      "word": "大选临近特朗普要求军事安保",
+      "onboard_time": 1728771313,
+      "rank": 9,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 80134,
       "num": 119386,
       "word": "林诗栋晋级亚锦赛四强",
@@ -451,12 +459,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 71751,
-      "num": 95384,
-      "word": "大选临近特朗普要求军事安保",
-      "onboard_time": 1728771313,
-      "rank": 9,
-      "category": "国外时政"
+      "raw_hot": 78210,
+      "num": 78210,
+      "word": "律师谈景德镇一家三口被撞身亡",
+      "onboard_time": 1728759912,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 70686,
@@ -467,20 +475,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 69441,
+      "num": 69441,
+      "word": "东北人扒开了家中20年老火炕",
+      "onboard_time": 1728761230,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 66748,
       "num": 119440,
       "word": "WBG战胜FNC",
       "onboard_time": 1728743542,
       "rank": 46,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 66509,
-      "num": 66509,
-      "word": "律师谈景德镇一家三口被撞身亡",
-      "onboard_time": 1728759912,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 63487,
@@ -499,12 +507,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 59044,
+      "num": 59044,
+      "word": "直播间一眼假的名家字画谁在买",
+      "onboard_time": 1728760812,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 58676,
+      "num": 84531,
+      "word": "警察办案被曝收当事人3000元差旅费",
+      "onboard_time": 1728756913,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 56613,
       "num": 57252,
       "word": "WBG对战FNC",
       "onboard_time": 1728736220,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 55690,
+      "num": 55690,
+      "word": "余华英多次作案带上女儿作饵",
+      "onboard_time": 1728760451,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 55218,
@@ -515,63 +547,39 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 52399,
-      "num": 84531,
-      "word": "警察办案被曝收当事人3000元差旅费",
-      "onboard_time": 1728756913,
-      "rank": 15,
-      "category": "社会新闻"
+      "raw_hot": 53339,
+      "num": 78447,
+      "word": "苏新皓首个推荐值破100w的剧综人物",
+      "onboard_time": 1728775755,
+      "rank": 29,
+      "category": "剧集"
     },
     {
-      "raw_hot": 52290,
-      "num": 52290,
-      "word": "直播间一眼假的名家字画谁在买",
-      "onboard_time": 1728760812,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 45804,
-      "num": 45804,
+      "raw_hot": 52246,
+      "num": 55684,
       "word": "11天没有任何食品援助进入加沙",
       "onboard_time": 1728762552,
       "rank": 37,
       "category": "国外时政"
     },
     {
-      "raw_hot": 45782,
-      "num": 45782,
+      "raw_hot": 47842,
+      "num": 55665,
       "word": "女子陷刷单返利式诈骗险被骗6万",
       "onboard_time": 1728772031,
       "rank": 42,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 45423,
-      "num": 45423,
-      "word": "东北人扒开了家中20年老火炕",
-      "onboard_time": 1728761230,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 44336,
-      "num": 52376,
-      "word": "余华英多次作案带上女儿作饵",
-      "onboard_time": 1728760451,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 41555,
-      "num": 41555,
+      "raw_hot": 44351,
+      "num": 55646,
       "word": "河南一中学通报高三学生晕倒猝死",
       "onboard_time": 1728757933,
       "rank": 46,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 40081,
+      "raw_hot": 41285,
       "num": 57587,
       "word": "这条隧道通车后过江仅需5分钟",
       "onboard_time": 1728771972,
@@ -587,20 +595,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 35924,
+      "num": 55615,
+      "word": "于正签约陈腾跃",
+      "onboard_time": 1728775875,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 35314,
+      "num": 55601,
+      "word": "中国赴黎巴嫩维和部队平安",
+      "onboard_time": 1728757693,
+      "rank": 25,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 35168,
       "num": 105679,
       "word": "老人摔倒路中间大学生出手了",
       "onboard_time": 1728752056,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 33317,
-      "num": 42087,
-      "word": "中国赴黎巴嫩维和部队平安",
-      "onboard_time": 1728757693,
-      "rank": 25,
-      "category": "国内时政"
     },
     {
       "raw_hot": 29886,
@@ -651,20 +667,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 18901,
+      "num": 195678,
+      "word": "游客吐槽扎尕那景区拦断国道收费",
+      "onboard_time": 1728775035,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 18792,
       "num": 36967,
       "word": "微博视界大会年度推荐",
       "onboard_time": 1728754815,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 12888,
-      "num": 168380,
-      "word": "游客吐槽扎尕那景区拦断国道收费",
-      "onboard_time": 1728775035,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 12597,
@@ -692,7 +708,7 @@
     },
     {
       "raw_hot": 4335,
-      "num": 295351,
+      "num": 343452,
       "word": "2024两个博览会在苏州盛大开幕",
       "onboard_time": 1728735739,
       "rank": 2,

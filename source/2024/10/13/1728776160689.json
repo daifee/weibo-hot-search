@@ -1,0 +1,410 @@
+{
+  "runTime": 1728776160689,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 736098,
+        "num": 920293,
+        "word": "死死顶住失控车辆的他获赠新车",
+        "onboard_time": 1728750797,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 376571,
+        "num": 376571,
+        "word": "财政部同意销毁28款即开型彩票",
+        "onboard_time": 1728739942,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2064,
+        "num": 343452,
+        "word": "2024两个博览会在苏州盛大开幕",
+        "onboard_time": 1728735739,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 338889,
+        "num": 338889,
+        "word": "北大校友否认听泉鉴宝学历",
+        "onboard_time": 1728735560,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 332463,
+        "num": 332463,
+        "word": "孩子走失可用十人四追法寻人",
+        "onboard_time": 1728751996,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 281306,
+        "num": 281306,
+        "word": "王楚钦止步亚锦赛8强",
+        "onboard_time": 1728738325,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 199286,
+        "num": 199286,
+        "word": "林诗栋蒯曼亚锦赛夺冠",
+        "onboard_time": 1728747921,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133902,
+        "num": 198126,
+        "word": "听泉鉴宝",
+        "onboard_time": 1728739283,
+        "rank": 7,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 129849,
+        "num": 196754,
+        "word": "拜登要求以色列停止袭击联黎部队",
+        "onboard_time": 1728743662,
+        "rank": 8,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 18901,
+        "num": 195678,
+        "word": "游客吐槽扎尕那景区拦断国道收费",
+        "onboard_time": 1728775035,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 641944,
+        "num": 194116,
+        "word": "东北雨姐启动退一赔三",
+        "onboard_time": 1728747621,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 553803,
+        "num": 192262,
+        "word": "22岁冠心病女生不想做支架狂炫中药",
+        "onboard_time": 1728741563,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 492714,
+        "num": 190133,
+        "word": "一家三口被撞身亡司机想帮养老换谅解",
+        "onboard_time": 1728740363,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 474108,
+        "num": 188536,
+        "word": "东北雨姐发文道歉",
+        "onboard_time": 1728740844,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 438734,
+        "num": 188205,
+        "word": "B太回应曾夸东北雨姐真实",
+        "onboard_time": 1728736760,
+        "rank": 14,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 431314,
+        "num": 186099,
+        "word": "河南一高三学生晕倒猝死",
+        "onboard_time": 1728747201,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 353536,
+        "num": 184419,
+        "word": "2人走私2.7吨活体蛇被刑拘",
+        "onboard_time": 1728739583,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183758,
+        "num": 183758,
+        "word": "财政部长请大家放心",
+        "onboard_time": 1728730279,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 68109,
+        "num": 180522,
+        "word": "赵露思说目前没有拍电影的打算",
+        "onboard_time": 1728737482,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 60715,
+        "num": 178636,
+        "word": "听泉鉴宝学校信息已更改",
+        "onboard_time": 1728740963,
+        "rank": 19,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 177383,
+        "num": 177383,
+        "word": "迈巴赫经销商承诺漏水负责到底",
+        "onboard_time": 1728762252,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159144,
+        "num": 159144,
+        "word": "王俊凯 环球影城",
+        "onboard_time": 1728740304,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125267,
+        "num": 125267,
+        "word": "受教育的意义在这一刻发光了",
+        "onboard_time": 1728749600,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101571,
+        "num": 101571,
+        "word": "张本美和vs金琴英",
+        "onboard_time": 1728746481,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 94533,
+        "num": 94533,
+        "word": "国乒女单无缘亚锦赛四强",
+        "onboard_time": 1728736700,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 90581,
+        "num": 90581,
+        "word": "难听",
+        "onboard_time": 1728743363,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 89335,
+        "num": 89335,
+        "word": "你的房贷还完了吗",
+        "onboard_time": 1728732920,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 85981,
+        "num": 85981,
+        "word": "大选临近特朗普要求军事安保",
+        "onboard_time": 1728771313,
+        "rank": 27,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 62422,
+        "num": 78798,
+        "word": "关晓彤探班张艺兴音乐话剧",
+        "onboard_time": 1728742703,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 53339,
+        "num": 78447,
+        "word": "苏新皓首个推荐值破100w的剧综人物",
+        "onboard_time": 1728775755,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 78210,
+        "num": 78210,
+        "word": "律师谈景德镇一家三口被撞身亡",
+        "onboard_time": 1728759912,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 69441,
+        "num": 69441,
+        "word": "东北人扒开了家中20年老火炕",
+        "onboard_time": 1728761230,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 66205,
+        "num": 66205,
+        "word": "大四学生失联数月家属称其挂科8门",
+        "onboard_time": 1728736940,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 64267,
+        "num": 64267,
+        "word": "万圣节cos 向佐叶珂",
+        "onboard_time": 1728745462,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 61018,
+        "num": 61018,
+        "word": "法意西三国发表联合声明谴责以色列",
+        "onboard_time": 1728754394,
+        "rank": 34,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 59044,
+        "num": 59044,
+        "word": "直播间一眼假的名家字画谁在买",
+        "onboard_time": 1728760812,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 58676,
+        "num": 58676,
+        "word": "警察办案被曝收当事人3000元差旅费",
+        "onboard_time": 1728756913,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 56492,
+        "num": 56492,
+        "word": "俄意法等多国谴责以色列",
+        "onboard_time": 1728755652,
+        "rank": 37,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 55690,
+        "num": 55690,
+        "word": "余华英多次作案带上女儿作饵",
+        "onboard_time": 1728760451,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 52246,
+        "num": 55684,
+        "word": "11天没有任何食品援助进入加沙",
+        "onboard_time": 1728762552,
+        "rank": 39,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 49708,
+        "num": 55681,
+        "word": "亚锦赛",
+        "onboard_time": 1728739522,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 48655,
+        "num": 55673,
+        "word": "郑钦文谈战胜王欣瑜",
+        "onboard_time": 1728746243,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 47842,
+        "num": 55665,
+        "word": "女子陷刷单返利式诈骗险被骗6万",
+        "onboard_time": 1728772031,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 47658,
+        "num": 55649,
+        "word": "S14",
+        "onboard_time": 1728744922,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 44351,
+        "num": 55646,
+        "word": "河南一中学通报高三学生晕倒猝死",
+        "onboard_time": 1728757933,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 44155,
+        "num": 55635,
+        "word": "表白墙捞人结果捞到了老师",
+        "onboard_time": 1728742161,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 42883,
+        "num": 55629,
+        "word": "乔妍的烟被P掉了",
+        "onboard_time": 1728744622,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 41285,
+        "num": 55617,
+        "word": "这条隧道通车后过江仅需5分钟",
+        "onboard_time": 1728771972,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 35924,
+        "num": 55615,
+        "word": "于正签约陈腾跃",
+        "onboard_time": 1728775875,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35314,
+        "num": 55601,
+        "word": "中国赴黎巴嫩维和部队平安",
+        "onboard_time": 1728757693,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向埃塞俄比亚新任总统塔耶致贺电#"
+    }
+  }
+}
