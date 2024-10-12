@@ -1,6 +1,6 @@
 {
   "startTime": 1728664067735,
-  "endTime": 1728721560244,
+  "endTime": 1728722395177,
   "band_list": [
     {
       "raw_hot": 4273020,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 1331357,
-      "num": 329596,
+      "num": 364733,
       "word": "女子头戴鲨鱼夹摔倒后成植物人",
       "onboard_time": 1728712040,
       "rank": 12,
@@ -115,6 +115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1046128,
+      "num": 360659,
+      "word": "蔡徐坤 支持我戴",
+      "onboard_time": 1728714560,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1031478,
       "num": 1000823,
       "word": "林高远林诗栋11比0",
@@ -131,16 +139,8 @@
       "category": "财经"
     },
     {
-      "raw_hot": 992509,
-      "num": 327296,
-      "word": "蔡徐坤 支持我戴",
-      "onboard_time": 1728714560,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 954492,
-      "num": 324165,
+      "num": 344992,
       "word": "消防车5死1伤事故伤亡者均为消防员",
       "onboard_time": 1728715281,
       "rank": 45,
@@ -172,7 +172,7 @@
     },
     {
       "raw_hot": 861104,
-      "num": 322151,
+      "num": 342234,
       "word": "檀健次经纪人聊天记录",
       "onboard_time": 1728714199,
       "rank": 26,
@@ -233,6 +233,14 @@
       "onboard_time": 1728695540,
       "rank": 27,
       "category": "财经"
+    },
+    {
+      "raw_hot": 687814,
+      "num": 687814,
+      "word": "男双",
+      "onboard_time": 1728720021,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 672843,
@@ -344,14 +352,6 @@
       "word": "樊振东 ACE",
       "onboard_time": 1728657441,
       "rank": 0,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 558945,
-      "num": 558945,
-      "word": "男双",
-      "onboard_time": 1728720021,
-      "rank": 4,
       "category": "体育"
     },
     {
@@ -483,6 +483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 439377,
+      "num": 439377,
+      "word": "东北雨姐粉条调查结果",
+      "onboard_time": 1728716960,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 431268,
       "num": 365853,
       "word": "男子内裤里藏339颗珍珠入境被查",
@@ -515,6 +523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 397796,
+      "num": 315057,
+      "word": "女子颈椎病被医生舌下扎针治好",
+      "onboard_time": 1728718519,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 396073,
       "num": 396073,
       "word": "杜海涛李佳琦淘汰",
@@ -539,19 +555,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 380522,
+      "num": 380522,
+      "word": "财政部重磅发声14条干货极简版",
+      "onboard_time": 1728718219,
+      "rank": 29,
+      "category": "财经"
+    },
+    {
       "raw_hot": 376111,
       "num": 376111,
       "word": "家属回应男孩骑行被碾案司机获取保",
       "onboard_time": 1728662238,
       "rank": 20,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 374067,
-      "num": 315057,
-      "word": "女子颈椎病被医生舌下扎针治好",
-      "onboard_time": 1728718519,
-      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -577,6 +593,14 @@
       "onboard_time": 1728710841,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 359248,
+      "num": 297660,
+      "word": "儿子因病离世父亲一夜白头",
+      "onboard_time": 1728720918,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 356722,
@@ -619,14 +643,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 333880,
-      "num": 333880,
-      "word": "东北雨姐粉条调查结果",
-      "onboard_time": 1728716960,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 325330,
       "num": 325330,
       "word": "男童骑行摔倒被碾案司机已取保候审",
@@ -651,19 +667,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 316590,
-      "num": 316590,
-      "word": "财政部重磅发声14条干货极简版",
-      "onboard_time": 1728718219,
-      "rank": 29,
-      "category": "财经"
-    },
-    {
       "raw_hot": 314512,
       "num": 160751,
       "word": "陕西一消防车发生事故致5死1伤",
       "onboard_time": 1728658221,
       "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 311873,
+      "num": 311873,
+      "word": "雨姐所售粉条厂家停产停业",
+      "onboard_time": 1728721579,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -707,20 +723,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 296610,
+      "num": 296610,
+      "word": "迪丽热巴护舒宝活动",
+      "onboard_time": 1728720021,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 296608,
       "num": 296608,
       "word": "以色列巴勒斯坦冲突",
       "onboard_time": 1728699739,
       "rank": 24,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 296234,
-      "num": 296234,
-      "word": "迪丽热巴护舒宝活动",
-      "onboard_time": 1728720021,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 289758,
@@ -737,6 +753,14 @@
       "onboard_time": 1728691099,
       "rank": 18,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 286820,
+      "num": 286820,
+      "word": "马龙陈梦缺席乒乓全锦赛",
+      "onboard_time": 1728721460,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 285210,
@@ -761,14 +785,6 @@
       "onboard_time": 1728714919,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 276552,
-      "num": 276552,
-      "word": "儿子因病离世父亲一夜白头",
-      "onboard_time": 1728720918,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 274248,
@@ -803,12 +819,36 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 268562,
+      "num": 268562,
+      "word": "迈巴赫经销商回应新车漏水",
+      "onboard_time": 1728720982,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 267330,
       "num": 267330,
       "word": "一图速览国家奖学金新规",
       "onboard_time": 1728719181,
       "rank": 32,
       "category": "教育"
+    },
+    {
+      "raw_hot": 263585,
+      "num": 310377,
+      "word": "周震南给周柯宇从A班降到F班",
+      "onboard_time": 1728721460,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 262776,
+      "num": 262776,
+      "word": "Vernon评论",
+      "onboard_time": 1728721279,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 262456,
@@ -1019,6 +1059,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 219036,
+      "num": 219036,
+      "word": "报告指认以色列欲摧毁加沙卫生系统",
+      "onboard_time": 1728721159,
+      "rank": 41,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 218488,
       "num": 218488,
       "word": "王楚钦进男单16强",
@@ -1051,20 +1099,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 211890,
+      "num": 211890,
+      "word": "东北雨姐曾说有问题倾家荡产都赔",
+      "onboard_time": 1728720141,
+      "rank": 45,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 211778,
       "num": 211778,
       "word": "A股今天休市",
       "onboard_time": 1728699379,
       "rank": 30,
       "category": "财经"
-    },
-    {
-      "raw_hot": 211510,
-      "num": 211510,
-      "word": "Vernon评论",
-      "onboard_time": 1728721279,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 211211,
@@ -1155,6 +1203,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 200704,
+      "num": 200704,
+      "word": "尤长靖排名",
+      "onboard_time": 1728720258,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 198229,
       "num": 266229,
       "word": "战至巅峰",
@@ -1177,14 +1233,6 @@
       "onboard_time": 1728713479,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 196522,
-      "num": 196522,
-      "word": "报告指认以色列欲摧毁加沙卫生系统",
-      "onboard_time": 1728721159,
-      "rank": 41,
-      "category": "国外时政"
     },
     {
       "raw_hot": 196082,
@@ -1211,27 +1259,27 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 193678,
-      "num": 278169,
-      "word": "高敏感的小孩有多辛苦",
-      "onboard_time": 1728703340,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 193426,
-      "num": 193426,
+      "raw_hot": 194713,
+      "num": 194713,
       "word": "宋亚轩的英雄池",
       "onboard_time": 1728721340,
       "rank": 43,
       "category": "综艺"
     },
     {
-      "raw_hot": 192053,
-      "num": 192053,
-      "word": "尤长靖排名",
-      "onboard_time": 1728720258,
-      "rank": 44,
+      "raw_hot": 194199,
+      "num": 194199,
+      "word": "东北雨姐所售粉条厂家被罚671.76万",
+      "onboard_time": 1728721760,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 193678,
+      "num": 278169,
+      "word": "高敏感的小孩有多辛苦",
+      "onboard_time": 1728703340,
+      "rank": 34,
       "category": "综艺"
     },
     {
@@ -1243,12 +1291,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 191383,
-      "num": 191383,
-      "word": "东北雨姐曾说有问题倾家荡产都赔",
-      "onboard_time": 1728720141,
-      "rank": 45,
-      "category": "社会新闻,网红"
+      "raw_hot": 191169,
+      "num": 191169,
+      "word": "山东高密公布市委书记等领导手机号",
+      "onboard_time": 1728722179,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 191058,
@@ -1265,6 +1313,14 @@
       "onboard_time": 1728712760,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 189632,
+      "num": 378135,
+      "word": "雨姐所售粉条厂家被罚671.76万元",
+      "onboard_time": 1728721640,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 188608,
@@ -1323,11 +1379,11 @@
       "category": "电影"
     },
     {
-      "raw_hot": 184128,
-      "num": 184128,
-      "word": "马龙陈梦缺席乒乓全锦赛",
-      "onboard_time": 1728721460,
-      "rank": 46,
+      "raw_hot": 184472,
+      "num": 302564,
+      "word": "许昕3比2刘家良",
+      "onboard_time": 1728721039,
+      "rank": 29,
       "category": "体育"
     },
     {
@@ -1371,14 +1427,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 178849,
-      "num": 178849,
-      "word": "迈巴赫经销商回应新车漏水",
-      "onboard_time": 1728720982,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 176970,
       "num": 176970,
       "word": "WBG抽签",
@@ -1387,12 +1435,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 176286,
-      "num": 176286,
-      "word": "周震南给周柯宇从A班降到F班",
-      "onboard_time": 1728721460,
-      "rank": 49,
-      "category": "综艺"
+      "raw_hot": 176162,
+      "num": 176162,
+      "word": "全锦赛",
+      "onboard_time": 1728718939,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 176077,
@@ -1675,6 +1723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 132634,
+      "num": 333498,
+      "word": "儿子用父亲的旧手机消费了十多万",
+      "onboard_time": 1728720741,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 128671,
       "num": 478367,
       "word": "这默契度不是兄妹就是夫妻",
@@ -1843,14 +1899,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 97843,
-      "num": 318937,
-      "word": "儿子用父亲的旧手机消费了十多万",
-      "onboard_time": 1728720741,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 95939,
       "num": 201874,
       "word": "Jennie打破今年kpop女solo一位纪录",
@@ -1912,6 +1960,14 @@
       "word": "斩断互联网上伸向未成年人的黑手",
       "onboard_time": 1728662718,
       "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 81906,
+      "num": 333723,
+      "word": "余华英受害者哭诉找孩子30年干遍各行",
+      "onboard_time": 1728720258,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -1987,6 +2043,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 66355,
+      "num": 367609,
+      "word": "刘诗诗高级感的神",
+      "onboard_time": 1728717800,
+      "rank": 19,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 63833,
       "num": 343987,
       "word": "重庆通报过期大米重新包装销售事件",
@@ -2009,22 +2073,6 @@
       "onboard_time": 1728716478,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 61907,
-      "num": 302564,
-      "word": "许昕3比2刘家良",
-      "onboard_time": 1728721039,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 60454,
-      "num": 329413,
-      "word": "刘诗诗高级感的神",
-      "onboard_time": 1728717800,
-      "rank": 19,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 58815,
@@ -2072,14 +2120,6 @@
       "word": "多地酒店称预订成功后不可取消",
       "onboard_time": 1728703581,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 51856,
-      "num": 333723,
-      "word": "余华英受害者哭诉找孩子30年干遍各行",
-      "onboard_time": 1728720258,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -2156,7 +2196,7 @@
     },
     {
       "raw_hot": 41600,
-      "num": 326657,
+      "num": 357288,
       "word": "国新办发布会十大要点",
       "onboard_time": 1728720800,
       "rank": 14,
@@ -2203,6 +2243,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 36271,
+      "num": 336702,
+      "word": "嗨放派嗨进视界大会了",
+      "onboard_time": 1728721820,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 35662,
+      "num": 793200,
+      "word": "透过成绩单看国家公园建设成效",
+      "onboard_time": 1728720800,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 35300,
       "num": 41160,
       "word": "烟卡正威胁孩子健康",
@@ -2243,6 +2299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 30228,
+      "num": 330573,
+      "word": "探索新境入围微博视界大会",
+      "onboard_time": 1728719001,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 30085,
       "num": 1336034,
       "word": "最新赏秋地秋日浓度播报来了",
@@ -2264,14 +2328,6 @@
       "word": "一定要让父母知道的5种养老骗局",
       "onboard_time": 1728679090,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 29115,
-      "num": 785502,
-      "word": "透过成绩单看国家公园建设成效",
-      "onboard_time": 1728720800,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -2297,14 +2353,6 @@
       "onboard_time": 1728713899,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 24851,
-      "num": 317405,
-      "word": "探索新境入围微博视界大会",
-      "onboard_time": 1728719001,
-      "rank": 20,
-      "category": "综艺"
     },
     {
       "raw_hot": 24798,

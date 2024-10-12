@@ -1,0 +1,410 @@
+{
+  "runTime": 1728722395177,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 82549,
+        "num": 1013207,
+        "word": "吴邦国同志遗体10月14日火化",
+        "onboard_time": 1728711500,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1026194,
+        "num": 943046,
+        "word": "林高远林诗栋11比0",
+        "onboard_time": 1728719240,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 35662,
+        "num": 793200,
+        "word": "透过成绩单看国家公园建设成效",
+        "onboard_time": 1728720800,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 728272,
+        "num": 728272,
+        "word": "东北雨姐被罚165万",
+        "onboard_time": 1728711739,
+        "rank": 3,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 687814,
+        "num": 687814,
+        "word": "男双",
+        "onboard_time": 1728720021,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 439377,
+        "num": 439377,
+        "word": "东北雨姐粉条调查结果",
+        "onboard_time": 1728716960,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 415882,
+        "num": 415882,
+        "word": "梁靖崑0比3阿拉米扬",
+        "onboard_time": 1728715519,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 411098,
+        "num": 411098,
+        "word": "国家奖学金",
+        "onboard_time": 1728712641,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 380522,
+        "num": 380522,
+        "word": "财政部重磅发声14条干货极简版",
+        "onboard_time": 1728718219,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 189632,
+        "num": 378135,
+        "word": "雨姐所售粉条厂家被罚671.76万元",
+        "onboard_time": 1728721640,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1258080,
+        "num": 374943,
+        "word": "日本梅毒",
+        "onboard_time": 1728702619,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 66355,
+        "num": 367609,
+        "word": "刘诗诗高级感的神",
+        "onboard_time": 1728717800,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 1221292,
+        "num": 364733,
+        "word": "女子头戴鲨鱼夹摔倒后成植物人",
+        "onboard_time": 1728712040,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1046128,
+        "num": 360659,
+        "word": "蔡徐坤 支持我戴",
+        "onboard_time": 1728714560,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 38782,
+        "num": 357288,
+        "word": "国新办发布会十大要点",
+        "onboard_time": 1728720800,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 864466,
+        "num": 351267,
+        "word": "听泉鉴宝 盗墓",
+        "onboard_time": 1728706519,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 719729,
+        "num": 344992,
+        "word": "消防车5死1伤事故伤亡者均为消防员",
+        "onboard_time": 1728715281,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 694024,
+        "num": 342234,
+        "word": "檀健次经纪人聊天记录",
+        "onboard_time": 1728714199,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 36271,
+        "num": 336702,
+        "word": "嗨放派嗨进视界大会了",
+        "onboard_time": 1728721820,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132634,
+        "num": 333498,
+        "word": "儿子用父亲的旧手机消费了十多万",
+        "onboard_time": 1728720741,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30228,
+        "num": 330573,
+        "word": "探索新境入围微博视界大会",
+        "onboard_time": 1728719001,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 326847,
+        "num": 326847,
+        "word": "中央财政已下达就业补助667亿元",
+        "onboard_time": 1728703040,
+        "rank": 21,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 506893,
+        "num": 321895,
+        "word": "一家三口被撞身亡车祸细节披露",
+        "onboard_time": 1728703939,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 311873,
+        "num": 311873,
+        "word": "雨姐所售粉条厂家停产停业",
+        "onboard_time": 1728721579,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 263585,
+        "num": 310377,
+        "word": "周震南给周柯宇从A班降到F班",
+        "onboard_time": 1728721460,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 422734,
+        "num": 309642,
+        "word": "何猷君因为融资难和母亲产生共鸣",
+        "onboard_time": 1728713660,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 398093,
+        "num": 307756,
+        "word": "雷军 小米SU7Ultra原型车",
+        "onboard_time": 1728717918,
+        "rank": 26,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 390072,
+        "num": 305703,
+        "word": "陈都灵金鱼姬",
+        "onboard_time": 1728719418,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 286496,
+        "num": 303390,
+        "word": "B太曾做客东北雨姐拍摄基地",
+        "onboard_time": 1728713781,
+        "rank": 28,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 241037,
+        "num": 301445,
+        "word": "杜华哭了",
+        "onboard_time": 1728715281,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 397796,
+        "num": 299925,
+        "word": "女子颈椎病被医生舌下扎针治好",
+        "onboard_time": 1728718519,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 359248,
+        "num": 297660,
+        "word": "儿子因病离世父亲一夜白头",
+        "onboard_time": 1728720918,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 296610,
+        "num": 296610,
+        "word": "迪丽热巴护舒宝活动",
+        "onboard_time": 1728720021,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 286820,
+        "num": 286820,
+        "word": "马龙陈梦缺席乒乓全锦赛",
+        "onboard_time": 1728721460,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 268562,
+        "num": 268562,
+        "word": "迈巴赫经销商回应新车漏水",
+        "onboard_time": 1728720982,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 81906,
+        "num": 264775,
+        "word": "余华英受害者哭诉找孩子30年干遍各行",
+        "onboard_time": 1728720258,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262776,
+        "num": 262776,
+        "word": "Vernon评论",
+        "onboard_time": 1728721279,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 252100,
+        "num": 252100,
+        "word": "林高远林诗栋无缘男双4强",
+        "onboard_time": 1728719301,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 237847,
+        "num": 237847,
+        "word": "一图速览国家奖学金新规",
+        "onboard_time": 1728719181,
+        "rank": 38,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 219036,
+        "num": 219036,
+        "word": "报告指认以色列欲摧毁加沙卫生系统",
+        "onboard_time": 1728721159,
+        "rank": 39,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 211890,
+        "num": 211890,
+        "word": "东北雨姐曾说有问题倾家荡产都赔",
+        "onboard_time": 1728720141,
+        "rank": 40,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 200704,
+        "num": 200704,
+        "word": "尤长靖排名",
+        "onboard_time": 1728720258,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194713,
+        "num": 194713,
+        "word": "宋亚轩的英雄池",
+        "onboard_time": 1728721340,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194199,
+        "num": 194199,
+        "word": "东北雨姐所售粉条厂家被罚671.76万",
+        "onboard_time": 1728721760,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191169,
+        "num": 191169,
+        "word": "山东高密公布市委书记等领导手机号",
+        "onboard_time": 1728722179,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188615,
+        "num": 188615,
+        "word": "金星解释复婚",
+        "onboard_time": 1728703220,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186351,
+        "num": 186351,
+        "word": "本专科生国家助学金升至每年3700元",
+        "onboard_time": 1728705141,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 184472,
+        "num": 184472,
+        "word": "许昕3比2刘家良",
+        "onboard_time": 1728721039,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 176162,
+        "num": 176162,
+        "word": "全锦赛",
+        "onboard_time": 1728718939,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 175478,
+        "num": 175478,
+        "word": "景德镇车祸家属称现场惨烈常做噩梦",
+        "onboard_time": 1728712100,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#人民友好是国际关系行稳致远的基础#"
+    }
+  }
+}
