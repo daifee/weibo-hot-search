@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1728750414717,
+  "endTime": 1728751391053,
   "band_list": [
     {
       "raw_hot": 13027302,
@@ -1425,6 +1425,14 @@
       "onboard_time": 1728738325,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1279882,
+      "num": 1279882,
+      "word": "东北雨姐启动退一赔三",
+      "onboard_time": 1728747621,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1278527,
@@ -3248,14 +3256,6 @@
       "word": "迈巴赫经销商回应新车漏水",
       "onboard_time": 1728720982,
       "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 826074,
-      "num": 826074,
-      "word": "东北雨姐启动退一赔三",
-      "onboard_time": 1728747621,
-      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -5651,6 +5651,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 569452,
+      "num": 279325,
+      "word": "河南一高三学生晕倒猝死",
+      "onboard_time": 1728747201,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 569018,
       "num": 245276,
       "word": "男子嫌小孩推车进电梯慢将车扔出",
@@ -6065,14 +6073,6 @@
       "onboard_time": 1727934738,
       "rank": 3,
       "category": "网红"
-    },
-    {
-      "raw_hot": 536964,
-      "num": 279325,
-      "word": "河南一高三学生晕倒猝死",
-      "onboard_time": 1728747201,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 536881,
@@ -15537,6 +15537,14 @@
       "onboard_time": 1728544098,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 211821,
+      "num": 296428,
+      "word": "受教育的意义在这一刻发光了",
+      "onboard_time": 1728749600,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 211778,
@@ -28804,7 +28812,7 @@
     },
     {
       "raw_hot": 107204,
-      "num": 107204,
+      "num": 119438,
       "word": "名侦探学院",
       "onboard_time": 1728749660,
       "rank": 38,
@@ -29401,14 +29409,6 @@
       "onboard_time": 1728023420,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 101668,
-      "num": 296428,
-      "word": "受教育的意义在这一刻发光了",
-      "onboard_time": 1728749600,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 101440,
@@ -31865,6 +31865,14 @@
       "onboard_time": 1727911335,
       "rank": 37,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 72529,
+      "num": 211147,
+      "word": "死死顶住失控车辆的他获赠新车",
+      "onboard_time": 1728750797,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 72527,
