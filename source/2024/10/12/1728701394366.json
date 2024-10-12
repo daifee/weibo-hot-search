@@ -1,0 +1,410 @@
+{
+  "runTime": 1728701394366,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1010080,
+        "num": 1161612,
+        "word": "国新办举行新闻发布会",
+        "onboard_time": 1728696500,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 691722,
+        "num": 691722,
+        "word": "拿800万元托人炒股损失267万元",
+        "onboard_time": 1728695540,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 5624,
+        "num": 665738,
+        "word": "文化中国行看曼德拉山岩画",
+        "onboard_time": 1728650960,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 661491,
+        "num": 661491,
+        "word": "春花焰定档了",
+        "onboard_time": 1728699199,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 574955,
+        "num": 574955,
+        "word": "樊振东让陈奕迅下次演唱会邀请自己",
+        "onboard_time": 1728693859,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 542297,
+        "num": 542297,
+        "word": "央视曝光免费注射干细胞骗局",
+        "onboard_time": 1728685152,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 541471,
+        "num": 541471,
+        "word": "存量房贷利率10月25日起调整",
+        "onboard_time": 1728697640,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 429696,
+        "num": 429696,
+        "word": "财政部介绍加大逆周期调节力度",
+        "onboard_time": 1728698539,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264713,
+        "num": 429366,
+        "word": "参演过热辣滚烫的都瘦了",
+        "onboard_time": 1728690799,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 364757,
+        "num": 427984,
+        "word": "宝妈10分钟超快顺产自己走出产房",
+        "onboard_time": 1728697999,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1385881,
+        "num": 426632,
+        "word": "31岁男子闪婚5天后自杀身亡",
+        "onboard_time": 1728694461,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 913230,
+        "num": 425776,
+        "word": "女孩凌晨5点被突然下车的壮汉吓到",
+        "onboard_time": 1728696738,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 725945,
+        "num": 424041,
+        "word": "檀健次经纪人",
+        "onboard_time": 1728688336,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 516198,
+        "num": 422418,
+        "word": "大胖媳妇对老人惯孩子的绝地反击",
+        "onboard_time": 1728697580,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 47919,
+        "num": 421891,
+        "word": "如何整治网红经济乱象",
+        "onboard_time": 1728700399,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 421068,
+        "num": 421068,
+        "word": "男生食堂买饭遭阿姨多次无视并赶走",
+        "onboard_time": 1728690078,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 396226,
+        "num": 396226,
+        "word": "二线城市30年贷款100万每月可省170元",
+        "onboard_time": 1728698539,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 363272,
+        "num": 363272,
+        "word": "特斯拉市值一夜蒸发超4700亿",
+        "onboard_time": 1728693562,
+        "rank": 17,
+        "category": "财经,汽车"
+      },
+      {
+        "raw_hot": 32149,
+        "num": 324617,
+        "word": "jessi发文道歉",
+        "onboard_time": 1728701179,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 231471,
+        "num": 320788,
+        "word": "幸运咖 王俊凯",
+        "onboard_time": 1728700939,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 431268,
+        "num": 320569,
+        "word": "男子内裤里藏339颗珍珠入境被查",
+        "onboard_time": 1728690078,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 319112,
+        "num": 319112,
+        "word": "才意识到朋友圈不完全属于自己",
+        "onboard_time": 1728693981,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 311756,
+        "num": 311756,
+        "word": "蒯曼",
+        "onboard_time": 1728693081,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 297265,
+        "num": 297265,
+        "word": "江秋莲",
+        "onboard_time": 1728690980,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 296608,
+        "num": 296608,
+        "word": "以色列巴勒斯坦冲突",
+        "onboard_time": 1728699739,
+        "rank": 24,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 236710,
+        "num": 236710,
+        "word": "Jennie生图",
+        "onboard_time": 1728692059,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 230309,
+        "num": 230309,
+        "word": "骑行男孩身亡案司机已回家",
+        "onboard_time": 1728697399,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214663,
+        "num": 214663,
+        "word": "男子急着炒股在高速应急道突然停车",
+        "onboard_time": 1728696378,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182605,
+        "num": 212158,
+        "word": "十个勤天彩胶",
+        "onboard_time": 1728699680,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 167983,
+        "num": 211925,
+        "word": "李霄云 快女",
+        "onboard_time": 1728692419,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 211778,
+        "num": 211778,
+        "word": "A股今天休市",
+        "onboard_time": 1728699379,
+        "rank": 30,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 204768,
+        "num": 211344,
+        "word": "打着免费注射神药的旗号敛财1亿多",
+        "onboard_time": 1728682513,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211211,
+        "num": 211211,
+        "word": "杨幂黑粉未致歉被公告",
+        "onboard_time": 1728699438,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206342,
+        "num": 206342,
+        "word": "不法分子入侵广东省教育厅短信平台",
+        "onboard_time": 1728701119,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205336,
+        "num": 205336,
+        "word": "周杰伦新加坡",
+        "onboard_time": 1728695421,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 196082,
+        "num": 196082,
+        "word": "地方债务风险整体缓释",
+        "onboard_time": 1728700999,
+        "rank": 35,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 189210,
+        "num": 189210,
+        "word": "听泉鉴宝最恐怖的一集",
+        "onboard_time": 1728647900,
+        "rank": 36,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 181725,
+        "num": 181725,
+        "word": "中央财政还有较大的举债空间",
+        "onboard_time": 1728701119,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 181416,
+        "num": 181416,
+        "word": "女儿被拐后妈妈疯了爸爸自杀了",
+        "onboard_time": 1728653120,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177713,
+        "num": 177713,
+        "word": "樊振东说输给费德勒不丢人",
+        "onboard_time": 1728660800,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 170464,
+        "num": 170464,
+        "word": "樊振东下意识的趴下和吹球",
+        "onboard_time": 1728689957,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 165132,
+        "num": 165132,
+        "word": "唐氏孩子说要打5份工养爸爸妈妈",
+        "onboard_time": 1728698359,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164075,
+        "num": 164075,
+        "word": "芭莎男士杨威",
+        "onboard_time": 1728693801,
+        "rank": 42,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 147869,
+        "num": 147869,
+        "word": "一加13",
+        "onboard_time": 1728699800,
+        "rank": 43,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 145947,
+        "num": 145947,
+        "word": "原来养猫有这么多讲究",
+        "onboard_time": 1728699319,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 138781,
+        "num": 138781,
+        "word": "因放弃卖贵价商品获好评列车员被停工",
+        "onboard_time": 1728691640,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134837,
+        "num": 134837,
+        "word": "美力城代言人",
+        "onboard_time": 1728701359,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131832,
+        "num": 131832,
+        "word": "中国410名赴黎维和官兵报平安",
+        "onboard_time": 1728700879,
+        "rank": 47,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 126929,
+        "num": 126929,
+        "word": "现在就出发",
+        "onboard_time": 1728699019,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103735,
+        "num": 126452,
+        "word": "张学友称呼倪夏莲为倪妹妹",
+        "onboard_time": 1728691099,
+        "rank": 49,
+        "category": "演出,体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#一定要让老年人有一个幸福的晚年#"
+    }
+  }
+}

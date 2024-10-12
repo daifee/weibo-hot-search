@@ -1,10 +1,10 @@
 {
   "startTime": 1728664067735,
-  "endTime": 1728698158751,
+  "endTime": 1728701394366,
   "band_list": [
     {
       "raw_hot": 1696810,
-      "num": 303150,
+      "num": 426632,
       "word": "31岁男子闪婚5天后自杀身亡",
       "onboard_time": 1728694461,
       "rank": 10,
@@ -27,8 +27,24 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1010080,
+      "num": 1161612,
+      "word": "国新办举行新闻发布会",
+      "onboard_time": 1728696500,
+      "rank": 41,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 913230,
+      "num": 425776,
+      "word": "女孩凌晨5点被突然下车的壮汉吓到",
+      "onboard_time": 1728696738,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 889245,
-      "num": 298736,
+      "num": 424041,
       "word": "檀健次经纪人",
       "onboard_time": 1728688336,
       "rank": 19,
@@ -59,12 +75,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 691722,
+      "num": 691722,
+      "word": "拿800万元托人炒股损失267万元",
+      "onboard_time": 1728695540,
+      "rank": 27,
+      "category": "财经"
+    },
+    {
       "raw_hot": 672843,
       "num": 297778,
       "word": "江秋莲",
       "onboard_time": 1728690980,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 661491,
+      "num": 661491,
+      "word": "春花焰定档了",
+      "onboard_time": 1728699199,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 642305,
@@ -91,6 +123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 574955,
+      "num": 574955,
+      "word": "樊振东让陈奕迅下次演唱会邀请自己",
+      "onboard_time": 1728693859,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 567397,
       "num": 878439,
       "word": "樊振东 ACE",
@@ -100,10 +140,18 @@
     },
     {
       "raw_hot": 565855,
-      "num": 292623,
+      "num": 421068,
       "word": "男生食堂买饭遭阿姨多次无视并赶走",
       "onboard_time": 1728690078,
       "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 541471,
+      "num": 541471,
+      "word": "存量房贷利率10月25日起调整",
+      "onboard_time": 1728697640,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -123,6 +171,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 516198,
+      "num": 422418,
+      "word": "大胖媳妇对老人惯孩子的绝地反击",
+      "onboard_time": 1728697580,
+      "rank": 35,
+      "category": "网红"
+    },
+    {
       "raw_hot": 472611,
       "num": 160493,
       "word": "考公的尽头到底是什么",
@@ -132,7 +188,7 @@
     },
     {
       "raw_hot": 463330,
-      "num": 271919,
+      "num": 319112,
       "word": "才意识到朋友圈不完全属于自己",
       "onboard_time": 1728693981,
       "rank": 21,
@@ -147,11 +203,27 @@
       "category": "电影"
     },
     {
-      "raw_hot": 381871,
-      "num": 270906,
+      "raw_hot": 431268,
+      "num": 320569,
       "word": "男子内裤里藏339颗珍珠入境被查",
       "onboard_time": 1728690078,
       "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 429696,
+      "num": 429696,
+      "word": "财政部介绍加大逆周期调节力度",
+      "onboard_time": 1728698539,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 396226,
+      "num": 396226,
+      "word": "二线城市30年贷款100万每月可省170元",
+      "onboard_time": 1728698539,
+      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -168,6 +240,14 @@
       "word": "余华英将罪责都推到丈夫和情夫身上",
       "onboard_time": 1728656781,
       "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 364757,
+      "num": 427984,
+      "word": "宝妈10分钟超快顺产自己走出产房",
+      "onboard_time": 1728697999,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -235,20 +315,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 296608,
+      "num": 296608,
+      "word": "以色列巴勒斯坦冲突",
+      "onboard_time": 1728699739,
+      "rank": 24,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 289758,
       "num": 265627,
       "word": "Jennie生图",
       "onboard_time": 1728692059,
       "rank": 22,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 289479,
-      "num": 274395,
-      "word": "樊振东让陈奕迅下次演唱会邀请自己",
-      "onboard_time": 1728693859,
-      "rank": 23,
-      "category": "体育"
     },
     {
       "raw_hot": 288879,
@@ -307,6 +387,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 231471,
+      "num": 320788,
+      "word": "幸运咖 王俊凯",
+      "onboard_time": 1728700939,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 230309,
+      "num": 230309,
+      "word": "骑行男孩身亡案司机已回家",
+      "onboard_time": 1728697399,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 227068,
       "num": 227068,
       "word": "哀牢山没有蟒蛇但有毒蛇",
@@ -331,12 +427,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 218628,
-      "num": 218628,
-      "word": "拿800万元托人炒股损失267万元",
-      "onboard_time": 1728695540,
-      "rank": 27,
-      "category": "财经"
+      "raw_hot": 214663,
+      "num": 214663,
+      "word": "男子急着炒股在高速应急道突然停车",
+      "onboard_time": 1728696378,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 212596,
@@ -345,6 +441,38 @@
       "onboard_time": 1728691640,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 211778,
+      "num": 211778,
+      "word": "A股今天休市",
+      "onboard_time": 1728699379,
+      "rank": 30,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 211211,
+      "num": 211211,
+      "word": "杨幂黑粉未致歉被公告",
+      "onboard_time": 1728699438,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 206342,
+      "num": 206342,
+      "word": "不法分子入侵广东省教育厅短信平台",
+      "onboard_time": 1728701119,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 205336,
+      "num": 205336,
+      "word": "周杰伦新加坡",
+      "onboard_time": 1728695421,
+      "rank": 39,
+      "category": "演出"
     },
     {
       "raw_hot": 204413,
@@ -371,6 +499,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 196082,
+      "num": 196082,
+      "word": "地方债务风险整体缓释",
+      "onboard_time": 1728700999,
+      "rank": 35,
+      "category": "财经"
+    },
+    {
       "raw_hot": 191058,
       "num": 191058,
       "word": "余华英用一根冰棒骗走5岁男孩",
@@ -384,14 +520,6 @@
       "word": "胖东来爆改版超市开业全是人",
       "onboard_time": 1728693382,
       "rank": 35,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 187347,
-      "num": 280723,
-      "word": "存量房贷利率10月25日起调整",
-      "onboard_time": 1728697640,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -419,6 +547,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 182605,
+      "num": 212158,
+      "word": "十个勤天彩胶",
+      "onboard_time": 1728699680,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 181725,
+      "num": 181725,
+      "word": "中央财政还有较大的举债空间",
+      "onboard_time": 1728701119,
+      "rank": 37,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 180223,
       "num": 180223,
       "word": "伯远又输给了喻言",
@@ -433,30 +577,6 @@
       "onboard_time": 1728648921,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 179560,
-      "num": 179560,
-      "word": "周杰伦新加坡",
-      "onboard_time": 1728695421,
-      "rank": 39,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 178613,
-      "num": 178613,
-      "word": "女孩凌晨5点被突然下车的壮汉吓到",
-      "onboard_time": 1728696738,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 177979,
-      "num": 177979,
-      "word": "大胖媳妇对老人惯孩子的绝地反击",
-      "onboard_time": 1728697580,
-      "rank": 35,
-      "category": "网红"
     },
     {
       "raw_hot": 176970,
@@ -491,14 +611,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 172261,
-      "num": 172261,
-      "word": "国新办举行新闻发布会",
-      "onboard_time": 1728696500,
-      "rank": 41,
-      "category": "财经"
-    },
-    {
       "raw_hot": 168537,
       "num": 168537,
       "word": "杨紫杂志",
@@ -513,6 +625,14 @@
       "onboard_time": 1728688757,
       "rank": 46,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 165132,
+      "num": 165132,
+      "word": "唐氏孩子说要打5份工养爸爸妈妈",
+      "onboard_time": 1728698359,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 161549,
@@ -547,12 +667,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 146842,
-      "num": 146842,
-      "word": "骑行男孩身亡案司机已回家",
-      "onboard_time": 1728697399,
-      "rank": 47,
-      "category": "社会新闻"
+      "raw_hot": 147869,
+      "num": 147869,
+      "word": "一加13",
+      "onboard_time": 1728699800,
+      "rank": 43,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 145947,
+      "num": 145947,
+      "word": "原来养猫有这么多讲究",
+      "onboard_time": 1728699319,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 145265,
@@ -579,14 +707,6 @@
       "category": "艺人,作品衍生"
     },
     {
-      "raw_hot": 135994,
-      "num": 135994,
-      "word": "宝妈10分钟超快顺产自己走出产房",
-      "onboard_time": 1728697999,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 135363,
       "num": 135363,
       "word": "来个南方人告诉我这是不是真的",
@@ -595,12 +715,28 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 119328,
-      "num": 119328,
-      "word": "男子急着炒股在高速应急道突然停车",
-      "onboard_time": 1728696378,
+      "raw_hot": 134837,
+      "num": 134837,
+      "word": "美力城代言人",
+      "onboard_time": 1728701359,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 131832,
+      "num": 131832,
+      "word": "中国410名赴黎维和官兵报平安",
+      "onboard_time": 1728700879,
       "rank": 47,
-      "category": "社会新闻"
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 126929,
+      "num": 126929,
+      "word": "现在就出发",
+      "onboard_time": 1728699019,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 116949,
@@ -843,6 +979,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 47919,
+      "num": 421891,
+      "word": "如何整治网红经济乱象",
+      "onboard_time": 1728700399,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 45599,
       "num": 50655,
       "word": "Jennie新歌空降Melon6位",
@@ -905,6 +1049,14 @@
       "onboard_time": 1728673152,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 32149,
+      "num": 324617,
+      "word": "jessi发文道歉",
+      "onboard_time": 1728701179,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 30551,
@@ -1004,7 +1156,7 @@
     },
     {
       "raw_hot": 14797,
-      "num": 591687,
+      "num": 665738,
       "word": "文化中国行看曼德拉山岩画",
       "onboard_time": 1728650960,
       "rank": 2,
