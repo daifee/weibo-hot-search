@@ -1,0 +1,410 @@
+{
+  "runTime": 1728701997206,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1026070,
+        "num": 1164171,
+        "word": "国新办举行新闻发布会",
+        "onboard_time": 1728696500,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 789005,
+        "num": 789005,
+        "word": "财政部介绍加大逆周期调节力度",
+        "onboard_time": 1728698539,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 4963,
+        "num": 650119,
+        "word": "文化中国行看曼德拉山岩画",
+        "onboard_time": 1728650960,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 641250,
+        "num": 641250,
+        "word": "拿800万元托人炒股损失267万元",
+        "onboard_time": 1728695540,
+        "rank": 3,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 600053,
+        "num": 600053,
+        "word": "春花焰定档了",
+        "onboard_time": 1728699199,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 587740,
+        "num": 587740,
+        "word": "宝妈10分钟超快顺产自己走出产房",
+        "onboard_time": 1728697999,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 556908,
+        "num": 556908,
+        "word": "存量房贷利率10月25日起调整",
+        "onboard_time": 1728697640,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 529326,
+        "num": 529326,
+        "word": "央视曝光免费注射干细胞骗局",
+        "onboard_time": 1728685152,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 443121,
+        "num": 525150,
+        "word": "幸运咖 王俊凯",
+        "onboard_time": 1728700939,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 216751,
+        "num": 521873,
+        "word": "中央财政还有较大的举债空间",
+        "onboard_time": 1728701119,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1308876,
+        "num": 514181,
+        "word": "31岁男子闪婚5天后自杀身亡",
+        "onboard_time": 1728694461,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 715380,
+        "num": 511062,
+        "word": "檀健次经纪人",
+        "onboard_time": 1728688336,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1102905,
+        "num": 504548,
+        "word": "女孩凌晨5点被突然下车的壮汉吓到",
+        "onboard_time": 1728696738,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 503986,
+        "num": 503986,
+        "word": "樊振东让陈奕迅下次演唱会邀请自己",
+        "onboard_time": 1728693859,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 48269,
+        "num": 467246,
+        "word": "如何整治网红经济乱象",
+        "onboard_time": 1728700399,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 458666,
+        "num": 458666,
+        "word": "二线城市30年贷款100万每月可省170元",
+        "onboard_time": 1728698539,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 444566,
+        "num": 444566,
+        "word": "大胖媳妇对老人惯孩子的绝地反击",
+        "onboard_time": 1728697580,
+        "rank": 16,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 368311,
+        "num": 368311,
+        "word": "男生食堂买饭遭阿姨多次无视并赶走",
+        "onboard_time": 1728690078,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 63297,
+        "num": 332866,
+        "word": "jessi发文道歉",
+        "onboard_time": 1728701179,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 251582,
+        "num": 320018,
+        "word": "参演过热辣滚烫的都瘦了",
+        "onboard_time": 1728690799,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 418593,
+        "num": 318527,
+        "word": "男子内裤里藏339颗珍珠入境被查",
+        "onboard_time": 1728690078,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 313822,
+        "num": 313822,
+        "word": "才意识到朋友圈不完全属于自己",
+        "onboard_time": 1728693981,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 308532,
+        "num": 308532,
+        "word": "不法分子入侵广东省教育厅短信平台",
+        "onboard_time": 1728701119,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 297493,
+        "num": 297493,
+        "word": "江秋莲",
+        "onboard_time": 1728690980,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 289662,
+        "num": 289662,
+        "word": "财政部部长蓝佛安答记者问",
+        "onboard_time": 1728701540,
+        "rank": 24,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 272653,
+        "num": 272653,
+        "word": "以色列巴勒斯坦冲突",
+        "onboard_time": 1728699739,
+        "rank": 25,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 258996,
+        "num": 258996,
+        "word": "特斯拉市值一夜蒸发超4700亿",
+        "onboard_time": 1728693562,
+        "rank": 26,
+        "category": "财经,汽车"
+      },
+      {
+        "raw_hot": 250545,
+        "num": 250545,
+        "word": "蒯曼",
+        "onboard_time": 1728693081,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 183029,
+        "num": 244373,
+        "word": "十个勤天彩胶",
+        "onboard_time": 1728699680,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 163066,
+        "num": 240143,
+        "word": "美力城代言人",
+        "onboard_time": 1728701359,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 239399,
+        "num": 239399,
+        "word": "Jennie生图",
+        "onboard_time": 1728692059,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 230851,
+        "num": 230851,
+        "word": "骑行男孩身亡案司机已回家",
+        "onboard_time": 1728697399,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205600,
+        "num": 205600,
+        "word": "唐氏孩子说要打5份工养爸爸妈妈",
+        "onboard_time": 1728698359,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198261,
+        "num": 198261,
+        "word": "财政部近期将推出一揽子增量政策",
+        "onboard_time": 1728701540,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 195497,
+        "num": 195497,
+        "word": "男子急着炒股在高速应急道突然停车",
+        "onboard_time": 1728696378,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188624,
+        "num": 188624,
+        "word": "地方债务风险整体缓释",
+        "onboard_time": 1728700999,
+        "rank": 35,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 175799,
+        "num": 175799,
+        "word": "A股今天休市",
+        "onboard_time": 1728699379,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 174798,
+        "num": 174798,
+        "word": "杨幂黑粉未致歉被公告",
+        "onboard_time": 1728699438,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172027,
+        "num": 172027,
+        "word": "听泉鉴宝最恐怖的一集",
+        "onboard_time": 1728647900,
+        "rank": 38,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 170644,
+        "num": 170644,
+        "word": "王者荣耀共创之夜",
+        "onboard_time": 1728701839,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 166871,
+        "num": 166871,
+        "word": "打着免费注射神药的旗号敛财1亿多",
+        "onboard_time": 1728682513,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163551,
+        "num": 163551,
+        "word": "樊振东下意识的趴下和吹球",
+        "onboard_time": 1728689957,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 161850,
+        "num": 161850,
+        "word": "周杰伦新加坡",
+        "onboard_time": 1728695421,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 160160,
+        "num": 160160,
+        "word": "春花厌改名",
+        "onboard_time": 1728701960,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156402,
+        "num": 156402,
+        "word": "一加13",
+        "onboard_time": 1728699800,
+        "rank": 44,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 153744,
+        "num": 153744,
+        "word": "女儿被拐后妈妈疯了爸爸自杀了",
+        "onboard_time": 1728653120,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149132,
+        "num": 149132,
+        "word": "樊振东说输给费德勒不丢人",
+        "onboard_time": 1728660800,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 147928,
+        "num": 147928,
+        "word": "发布会财政部一正三副负责人到场",
+        "onboard_time": 1728701599,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 147865,
+        "num": 147865,
+        "word": "芭莎男士杨威",
+        "onboard_time": 1728693801,
+        "rank": 48,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 143462,
+        "num": 143462,
+        "word": "李霄云 快女",
+        "onboard_time": 1728692419,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#重阳节重温总书记敬老爱老暖心话#"
+    }
+  }
+}

@@ -1,10 +1,10 @@
 {
   "startTime": 1728664067735,
-  "endTime": 1728701394366,
+  "endTime": 1728701997206,
   "band_list": [
     {
       "raw_hot": 1696810,
-      "num": 426632,
+      "num": 514181,
       "word": "31岁男子闪婚5天后自杀身亡",
       "onboard_time": 1728694461,
       "rank": 10,
@@ -27,24 +27,24 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1010080,
-      "num": 1161612,
-      "word": "国新办举行新闻发布会",
-      "onboard_time": 1728696500,
-      "rank": 41,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 913230,
-      "num": 425776,
+      "raw_hot": 1102905,
+      "num": 504548,
       "word": "女孩凌晨5点被突然下车的壮汉吓到",
       "onboard_time": 1728696738,
       "rank": 45,
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1026070,
+      "num": 1164171,
+      "word": "国新办举行新闻发布会",
+      "onboard_time": 1728696500,
+      "rank": 41,
+      "category": "财经"
+    },
+    {
       "raw_hot": 889245,
-      "num": 424041,
+      "num": 511062,
       "word": "檀健次经纪人",
       "onboard_time": 1728688336,
       "rank": 19,
@@ -56,6 +56,14 @@
       "word": "央视曝光免费注射干细胞骗局",
       "onboard_time": 1728685152,
       "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 789005,
+      "num": 789005,
+      "word": "财政部介绍加大逆周期调节力度",
+      "onboard_time": 1728698539,
+      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -107,6 +115,14 @@
       "category": "财经,汽车"
     },
     {
+      "raw_hot": 587740,
+      "num": 587740,
+      "word": "宝妈10分钟超快顺产自己走出产房",
+      "onboard_time": 1728697999,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 583418,
       "num": 751244,
       "word": "樊振东说输给费德勒不丢人",
@@ -147,8 +163,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 541471,
-      "num": 541471,
+      "raw_hot": 556908,
+      "num": 556908,
       "word": "存量房贷利率10月25日起调整",
       "onboard_time": 1728697640,
       "rank": 9,
@@ -172,7 +188,7 @@
     },
     {
       "raw_hot": 516198,
-      "num": 422418,
+      "num": 444566,
       "word": "大胖媳妇对老人惯孩子的绝地反击",
       "onboard_time": 1728697580,
       "rank": 35,
@@ -195,6 +211,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 458666,
+      "num": 458666,
+      "word": "二线城市30年贷款100万每月可省170元",
+      "onboard_time": 1728698539,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 458232,
       "num": 458232,
       "word": "参演过热辣滚烫的都瘦了",
@@ -203,27 +227,19 @@
       "category": "电影"
     },
     {
+      "raw_hot": 443121,
+      "num": 525150,
+      "word": "幸运咖 王俊凯",
+      "onboard_time": 1728700939,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 431268,
       "num": 320569,
       "word": "男子内裤里藏339颗珍珠入境被查",
       "onboard_time": 1728690078,
       "rank": 20,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 429696,
-      "num": 429696,
-      "word": "财政部介绍加大逆周期调节力度",
-      "onboard_time": 1728698539,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 396226,
-      "num": 396226,
-      "word": "二线城市30年贷款100万每月可省170元",
-      "onboard_time": 1728698539,
-      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -240,14 +256,6 @@
       "word": "余华英将罪责都推到丈夫和情夫身上",
       "onboard_time": 1728656781,
       "rank": 32,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 364757,
-      "num": 427984,
-      "word": "宝妈10分钟超快顺产自己走出产房",
-      "onboard_time": 1728697999,
-      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -307,6 +315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 308532,
+      "num": 308532,
+      "word": "不法分子入侵广东省教育厅短信平台",
+      "onboard_time": 1728701119,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 299463,
       "num": 180146,
       "word": "理记回应实名举报江秋莲骗捐8年",
@@ -329,6 +345,14 @@
       "onboard_time": 1728692059,
       "rank": 22,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 289662,
+      "num": 289662,
+      "word": "财政部部长蓝佛安答记者问",
+      "onboard_time": 1728701540,
+      "rank": 24,
+      "category": "国内时政"
     },
     {
       "raw_hot": 288879,
@@ -387,16 +411,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 231471,
-      "num": 320788,
-      "word": "幸运咖 王俊凯",
-      "onboard_time": 1728700939,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 230309,
-      "num": 230309,
+      "raw_hot": 230851,
+      "num": 230851,
       "word": "骑行男孩身亡案司机已回家",
       "onboard_time": 1728697399,
       "rank": 47,
@@ -425,6 +441,14 @@
       "onboard_time": 1728689957,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 216751,
+      "num": 521873,
+      "word": "中央财政还有较大的举债空间",
+      "onboard_time": 1728701119,
+      "rank": 37,
+      "category": "国内时政"
     },
     {
       "raw_hot": 214663,
@@ -459,11 +483,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 206342,
-      "num": 206342,
-      "word": "不法分子入侵广东省教育厅短信平台",
-      "onboard_time": 1728701119,
-      "rank": 33,
+      "raw_hot": 205600,
+      "num": 205600,
+      "word": "唐氏孩子说要打5份工养爸爸妈妈",
+      "onboard_time": 1728698359,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -489,6 +513,14 @@
       "onboard_time": 1728690678,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 198261,
+      "num": 198261,
+      "word": "财政部近期将推出一揽子增量政策",
+      "onboard_time": 1728701540,
+      "rank": 33,
+      "category": "国内时政"
     },
     {
       "raw_hot": 197679,
@@ -547,20 +579,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 182605,
-      "num": 212158,
+      "raw_hot": 183029,
+      "num": 244373,
       "word": "十个勤天彩胶",
       "onboard_time": 1728699680,
       "rank": 28,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 181725,
-      "num": 181725,
-      "word": "中央财政还有较大的举债空间",
-      "onboard_time": 1728701119,
-      "rank": 37,
-      "category": "国内时政"
     },
     {
       "raw_hot": 180223,
@@ -611,6 +635,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 170644,
+      "num": 170644,
+      "word": "王者荣耀共创之夜",
+      "onboard_time": 1728701839,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 168537,
       "num": 168537,
       "word": "杨紫杂志",
@@ -627,12 +659,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 165132,
-      "num": 165132,
-      "word": "唐氏孩子说要打5份工养爸爸妈妈",
-      "onboard_time": 1728698359,
-      "rank": 41,
-      "category": "社会新闻"
+      "raw_hot": 163066,
+      "num": 240143,
+      "word": "美力城代言人",
+      "onboard_time": 1728701359,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 161549,
@@ -641,6 +673,14 @@
       "onboard_time": 1728659182,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 160160,
+      "num": 160160,
+      "word": "春花厌改名",
+      "onboard_time": 1728701960,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 159235,
@@ -659,6 +699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 156402,
+      "num": 156402,
+      "word": "一加13",
+      "onboard_time": 1728699800,
+      "rank": 43,
+      "category": "数码"
+    },
+    {
       "raw_hot": 155308,
       "num": 142366,
       "word": "夫妻调监控找婚戒发现被酒店员工偷窥",
@@ -667,12 +715,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 147869,
-      "num": 147869,
-      "word": "一加13",
-      "onboard_time": 1728699800,
-      "rank": 43,
-      "category": "数码"
+      "raw_hot": 147928,
+      "num": 147928,
+      "word": "发布会财政部一正三副负责人到场",
+      "onboard_time": 1728701599,
+      "rank": 47,
+      "category": "国内时政"
     },
     {
       "raw_hot": 145947,
@@ -713,14 +761,6 @@
       "onboard_time": 1728697339,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 134837,
-      "num": 134837,
-      "word": "美力城代言人",
-      "onboard_time": 1728701359,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 131832,
@@ -947,6 +987,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 63297,
+      "num": 332866,
+      "word": "jessi发文道歉",
+      "onboard_time": 1728701179,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 58815,
       "num": 133170,
       "word": "爱子离世后父亲发现了酷似他的警察",
@@ -979,8 +1027,8 @@
       "category": "社会新闻,旅游"
     },
     {
-      "raw_hot": 47919,
-      "num": 421891,
+      "raw_hot": 48269,
+      "num": 467246,
       "word": "如何整治网红经济乱象",
       "onboard_time": 1728700399,
       "rank": 14,
@@ -1049,14 +1097,6 @@
       "onboard_time": 1728673152,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 32149,
-      "num": 324617,
-      "word": "jessi发文道歉",
-      "onboard_time": 1728701179,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 30551,
