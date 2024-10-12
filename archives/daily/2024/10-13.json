@@ -1,6 +1,6 @@
 {
   "startTime": 1728750414717,
-  "endTime": 1728753496187,
+  "endTime": 1728754552487,
   "band_list": [
     {
       "raw_hot": 1419674,
@@ -123,6 +123,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 305166,
+      "num": 305166,
+      "word": "死死顶住失控车辆的他获赠新车",
+      "onboard_time": 1728750797,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 300030,
+      "num": 300030,
+      "word": "孩子走失可用十人四追法寻人",
+      "onboard_time": 1728751996,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 299280,
       "num": 299280,
       "word": "混双",
@@ -171,14 +187,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 203184,
-      "num": 211147,
-      "word": "死死顶住失控车辆的他获赠新车",
-      "onboard_time": 1728750797,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 198364,
       "num": 198364,
       "word": "张本智和亚锦赛晋级4强",
@@ -193,6 +201,14 @@
       "onboard_time": 1728730279,
       "rank": 24,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 187029,
+      "num": 187029,
+      "word": "S14",
+      "onboard_time": 1728744922,
+      "rank": 23,
+      "category": "电竞"
     },
     {
       "raw_hot": 163746,
@@ -291,14 +307,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 117614,
-      "num": 117614,
-      "word": "S14",
-      "onboard_time": 1728744922,
-      "rank": 23,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 112878,
       "num": 119695,
       "word": "听泉鉴宝 盗墓",
@@ -361,14 +369,6 @@
       "onboard_time": 1728745042,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 93507,
-      "num": 166839,
-      "word": "孩子走失可用十人四追法寻人",
-      "onboard_time": 1728751996,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 90658,
@@ -460,11 +460,27 @@
     },
     {
       "raw_hot": 56613,
-      "num": 56613,
+      "num": 57252,
       "word": "WBG对战FNC",
       "onboard_time": 1728736220,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 35168,
+      "num": 105679,
+      "word": "老人摔倒路中间大学生出手了",
+      "onboard_time": 1728752056,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 27155,
+      "num": 130595,
+      "word": "法意西三国发表联合声明谴责以色列",
+      "onboard_time": 1728754394,
+      "rank": 19,
+      "category": "国外时政"
     },
     {
       "raw_hot": 11519,
