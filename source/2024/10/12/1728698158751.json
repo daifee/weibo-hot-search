@@ -1,0 +1,410 @@
+{
+  "runTime": 1728698158751,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 758029,
+        "num": 1121284,
+        "word": "央视曝光免费注射干细胞骗局",
+        "onboard_time": 1728685152,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 642305,
+        "num": 642305,
+        "word": "特斯拉市值一夜蒸发超4700亿",
+        "onboard_time": 1728693562,
+        "rank": 1,
+        "category": "财经,汽车"
+      },
+      {
+        "raw_hot": 14320,
+        "num": 591687,
+        "word": "文化中国行看曼德拉山岩画",
+        "onboard_time": 1728650960,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 578620,
+        "num": 578620,
+        "word": "蒯曼",
+        "onboard_time": 1728693081,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 423562,
+        "num": 423562,
+        "word": "参演过热辣滚烫的都瘦了",
+        "onboard_time": 1728690799,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 323722,
+        "num": 323722,
+        "word": "樊振东说输给费德勒不丢人",
+        "onboard_time": 1728660800,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 322019,
+        "num": 322019,
+        "word": "打着免费注射神药的旗号敛财1亿多",
+        "onboard_time": 1728682513,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 303078,
+        "num": 303078,
+        "word": "李霄云 快女",
+        "onboard_time": 1728692419,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 281387,
+        "num": 281387,
+        "word": "102岁奶奶网龄10年玩手机得心应手",
+        "onboard_time": 1728687017,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187347,
+        "num": 280723,
+        "word": "存量房贷利率10月25日起调整",
+        "onboard_time": 1728697640,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1696810,
+        "num": 280118,
+        "word": "31岁男子闪婚5天后自杀身亡",
+        "onboard_time": 1728694461,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 897359,
+        "num": 279086,
+        "word": "一家三口被撞身亡肇事者疑泄愤",
+        "onboard_time": 1728690078,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 871741,
+        "num": 278475,
+        "word": "檀健次经纪人",
+        "onboard_time": 1728688336,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 631454,
+        "num": 277697,
+        "word": "江秋莲",
+        "onboard_time": 1728690980,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 565855,
+        "num": 276773,
+        "word": "男生食堂买饭遭阿姨多次无视并赶走",
+        "onboard_time": 1728690078,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 475016,
+        "num": 276260,
+        "word": "男孩骑行被碾压案司机已重获自由",
+        "onboard_time": 1728657741,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 312509,
+        "num": 275077,
+        "word": "女儿被拐后妈妈疯了爸爸自杀了",
+        "onboard_time": 1728653120,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 289479,
+        "num": 274395,
+        "word": "樊振东让陈奕迅下次演唱会邀请自己",
+        "onboard_time": 1728693859,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 244647,
+        "num": 273792,
+        "word": "段林希回应冠军争议",
+        "onboard_time": 1728691939,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 211415,
+        "num": 272882,
+        "word": "张学友称呼倪夏莲为倪妹妹",
+        "onboard_time": 1728691099,
+        "rank": 19,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 463330,
+        "num": 271919,
+        "word": "才意识到朋友圈不完全属于自己",
+        "onboard_time": 1728693981,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 339720,
+        "num": 270906,
+        "word": "男子内裤里藏339颗珍珠入境被查",
+        "onboard_time": 1728690078,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270681,
+        "num": 270681,
+        "word": "听泉鉴宝最恐怖的一集",
+        "onboard_time": 1728647900,
+        "rank": 22,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 265627,
+        "num": 265627,
+        "word": "Jennie生图",
+        "onboard_time": 1728692059,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 218628,
+        "num": 218628,
+        "word": "拿800万元托人炒股损失267万元",
+        "onboard_time": 1728695540,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 212596,
+        "num": 212596,
+        "word": "因放弃卖贵价商品获好评列车员被停工",
+        "onboard_time": 1728691640,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204248,
+        "num": 204248,
+        "word": "公司趁我不在工位点开我微信",
+        "onboard_time": 1728691640,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 197679,
+        "num": 197679,
+        "word": "芭莎男士杨威",
+        "onboard_time": 1728693801,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 194271,
+        "num": 194271,
+        "word": "樊振东下意识的趴下和吹球",
+        "onboard_time": 1728689957,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 176037,
+        "num": 189943,
+        "word": "大娘子一巴掌过去我乳腺畅通了",
+        "onboard_time": 1728690678,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 188081,
+        "num": 188081,
+        "word": "胖东来爆改版超市开业全是人",
+        "onboard_time": 1728693382,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182508,
+        "num": 182508,
+        "word": "余华英将罪责都推到丈夫和情夫身上",
+        "onboard_time": 1728656781,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182153,
+        "num": 182153,
+        "word": "哀牢山没有蟒蛇但有毒蛇",
+        "onboard_time": 1728653720,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179560,
+        "num": 179560,
+        "word": "周杰伦新加坡",
+        "onboard_time": 1728695421,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 178613,
+        "num": 178613,
+        "word": "女孩凌晨5点被突然下车的壮汉吓到",
+        "onboard_time": 1728696738,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177979,
+        "num": 177979,
+        "word": "大胖媳妇对老人惯孩子的绝地反击",
+        "onboard_time": 1728697580,
+        "rank": 35,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 176077,
+        "num": 176077,
+        "word": "樊振东奥运后首战",
+        "onboard_time": 1728694521,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 172261,
+        "num": 172261,
+        "word": "国新办举行新闻发布会",
+        "onboard_time": 1728696500,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 168537,
+        "num": 168537,
+        "word": "杨紫杂志",
+        "onboard_time": 1728697099,
+        "rank": 38,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 165219,
+        "num": 165219,
+        "word": "尼加拉瓜宣布与以色列断交",
+        "onboard_time": 1728688757,
+        "rank": 39,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 164014,
+        "num": 164014,
+        "word": "女子睡觉碰到宠物狗被扑上身撕咬",
+        "onboard_time": 1728660021,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160300,
+        "num": 160300,
+        "word": "考公的尽头到底是什么",
+        "onboard_time": 1728657801,
+        "rank": 41,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 160252,
+        "num": 160252,
+        "word": "内蒙古发现一具女尸手脚被捆绑",
+        "onboard_time": 1728640460,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159826,
+        "num": 159826,
+        "word": "WBG抽签",
+        "onboard_time": 1728694221,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 159373,
+        "num": 159373,
+        "word": "亲戚想拿我终身大事去还她的人情",
+        "onboard_time": 1728690019,
+        "rank": 44,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 149703,
+        "num": 149703,
+        "word": "存量房贷利率批量调整",
+        "onboard_time": 1728695599,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 148145,
+        "num": 148145,
+        "word": "终于知道向佐在模仿谁了",
+        "onboard_time": 1728684971,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 146842,
+        "num": 146842,
+        "word": "骑行男孩身亡案司机已回家",
+        "onboard_time": 1728697399,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135994,
+        "num": 135994,
+        "word": "宝妈10分钟超快顺产自己走出产房",
+        "onboard_time": 1728697999,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135363,
+        "num": 135363,
+        "word": "来个南方人告诉我这是不是真的",
+        "onboard_time": 1728697339,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#一定要让老年人有一个幸福的晚年#"
+    }
+  }
+}

@@ -1,20 +1,20 @@
 {
   "startTime": 1728664067735,
-  "endTime": 1728697137701,
+  "endTime": 1728698158751,
   "band_list": [
+    {
+      "raw_hot": 1696810,
+      "num": 303150,
+      "word": "31岁男子闪婚5天后自杀身亡",
+      "onboard_time": 1728694461,
+      "rank": 10,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 1319783,
       "num": 295153,
       "word": "男孩骑行被碾压案司机已重获自由",
       "onboard_time": 1728657741,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1232014,
-      "num": 303150,
-      "word": "31岁男子闪婚5天后自杀身亡",
-      "onboard_time": 1728694461,
       "rank": 10,
       "category": "社会新闻"
     },
@@ -67,8 +67,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 599518,
-      "num": 599518,
+      "raw_hot": 642305,
+      "num": 642305,
       "word": "特斯拉市值一夜蒸发超4700亿",
       "onboard_time": 1728693562,
       "rank": 1,
@@ -83,12 +83,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 578620,
+      "num": 578620,
+      "word": "蒯曼",
+      "onboard_time": 1728693081,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 567397,
       "num": 878439,
       "word": "樊振东 ACE",
       "onboard_time": 1728657441,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 565855,
+      "num": 292623,
+      "word": "男生食堂买饭遭阿姨多次无视并赶走",
+      "onboard_time": 1728690078,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 534292,
@@ -107,20 +123,20 @@
       "category": "网红"
     },
     {
-      "raw_hot": 509920,
-      "num": 509920,
-      "word": "蒯曼",
-      "onboard_time": 1728693081,
-      "rank": 3,
-      "category": "体育"
-    },
-    {
       "raw_hot": 472611,
       "num": 160493,
       "word": "考公的尽头到底是什么",
       "onboard_time": 1728657801,
       "rank": 23,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 463330,
+      "num": 271919,
+      "word": "才意识到朋友圈不完全属于自己",
+      "onboard_time": 1728693981,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 458232,
@@ -131,16 +147,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 446697,
-      "num": 292623,
-      "word": "男生食堂买饭遭阿姨多次无视并赶走",
-      "onboard_time": 1728690078,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 381871,
-      "num": 250381,
+      "num": 270906,
       "word": "男子内裤里藏339颗珍珠入境被查",
       "onboard_time": 1728690078,
       "rank": 20,
@@ -169,14 +177,6 @@
       "onboard_time": 1728687017,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 346183,
-      "num": 246257,
-      "word": "才意识到朋友圈不完全属于自己",
-      "onboard_time": 1728693981,
-      "rank": 21,
-      "category": "情感"
     },
     {
       "raw_hot": 344037,
@@ -211,19 +211,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 322019,
+      "num": 322019,
+      "word": "打着免费注射神药的旗号敛财1亿多",
+      "onboard_time": 1728682513,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 314512,
       "num": 160751,
       "word": "陕西一消防车发生事故致5死1伤",
       "onboard_time": 1728658221,
       "rank": 22,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 305150,
-      "num": 305150,
-      "word": "打着免费注射神药的旗号敛财1亿多",
-      "onboard_time": 1728682513,
-      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -236,11 +236,19 @@
     },
     {
       "raw_hot": 289758,
-      "num": 245076,
+      "num": 265627,
       "word": "Jennie生图",
       "onboard_time": 1728692059,
       "rank": 22,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 289479,
+      "num": 274395,
+      "word": "樊振东让陈奕迅下次演唱会邀请自己",
+      "onboard_time": 1728693859,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 288879,
@@ -259,14 +267,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 265026,
-      "num": 241565,
-      "word": "樊振东让陈奕迅下次演唱会邀请自己",
-      "onboard_time": 1728693859,
-      "rank": 23,
-      "category": "体育"
-    },
-    {
       "raw_hot": 262456,
       "num": 262456,
       "word": "BLG战胜PSG",
@@ -276,7 +276,7 @@
     },
     {
       "raw_hot": 250709,
-      "num": 250709,
+      "num": 273792,
       "word": "段林希回应冠军争议",
       "onboard_time": 1728691939,
       "rank": 19,
@@ -331,12 +331,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 214666,
-      "num": 214666,
+      "raw_hot": 218628,
+      "num": 218628,
       "word": "拿800万元托人炒股损失267万元",
       "onboard_time": 1728695540,
       "rank": 27,
       "category": "财经"
+    },
+    {
+      "raw_hot": 212596,
+      "num": 212596,
+      "word": "因放弃卖贵价商品获好评列车员被停工",
+      "onboard_time": 1728691640,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 204413,
@@ -355,12 +363,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 197679,
+      "num": 197679,
+      "word": "芭莎男士杨威",
+      "onboard_time": 1728693801,
+      "rank": 33,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 191058,
       "num": 191058,
       "word": "余华英用一根冰棒骗走5岁男孩",
       "onboard_time": 1728668714,
       "rank": 14,
       "category": "社会新闻,读书作家"
+    },
+    {
+      "raw_hot": 188081,
+      "num": 188081,
+      "word": "胖东来爆改版超市开业全是人",
+      "onboard_time": 1728693382,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 187347,
+      "num": 280723,
+      "word": "存量房贷利率10月25日起调整",
+      "onboard_time": 1728697640,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 186097,
@@ -387,14 +419,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 184308,
-      "num": 184308,
-      "word": "芭莎男士杨威",
-      "onboard_time": 1728693801,
-      "rank": 33,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 180223,
       "num": 180223,
       "word": "伯远又输给了喻言",
@@ -411,6 +435,30 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 179560,
+      "num": 179560,
+      "word": "周杰伦新加坡",
+      "onboard_time": 1728695421,
+      "rank": 39,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 178613,
+      "num": 178613,
+      "word": "女孩凌晨5点被突然下车的壮汉吓到",
+      "onboard_time": 1728696738,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 177979,
+      "num": 177979,
+      "word": "大胖媳妇对老人惯孩子的绝地反击",
+      "onboard_time": 1728697580,
+      "rank": 35,
+      "category": "网红"
+    },
+    {
       "raw_hot": 176970,
       "num": 176970,
       "word": "WBG抽签",
@@ -419,12 +467,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 176719,
-      "num": 176719,
-      "word": "胖东来爆改版超市开业全是人",
-      "onboard_time": 1728693382,
-      "rank": 35,
-      "category": "社会新闻"
+      "raw_hot": 176077,
+      "num": 176077,
+      "word": "樊振东奥运后首战",
+      "onboard_time": 1728694521,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 175635,
@@ -443,28 +491,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 173968,
-      "num": 173968,
-      "word": "因放弃卖贵价商品获好评列车员被停工",
-      "onboard_time": 1728691640,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 173137,
-      "num": 173137,
-      "word": "周杰伦新加坡",
-      "onboard_time": 1728695421,
-      "rank": 39,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 168933,
-      "num": 168933,
+      "raw_hot": 172261,
+      "num": 172261,
       "word": "国新办举行新闻发布会",
       "onboard_time": 1728696500,
       "rank": 41,
       "category": "财经"
+    },
+    {
+      "raw_hot": 168537,
+      "num": 168537,
+      "word": "杨紫杂志",
+      "onboard_time": 1728697099,
+      "rank": 46,
+      "category": "作品衍生,艺人"
+    },
+    {
+      "raw_hot": 165219,
+      "num": 303600,
+      "word": "尼加拉瓜宣布与以色列断交",
+      "onboard_time": 1728688757,
+      "rank": 46,
+      "category": "国外时政"
     },
     {
       "raw_hot": 161549,
@@ -499,6 +547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 146842,
+      "num": 146842,
+      "word": "骑行男孩身亡案司机已回家",
+      "onboard_time": 1728697399,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 145265,
       "num": 190875,
       "word": "联黎部队批以色列严重违反国际法",
@@ -523,36 +579,20 @@
       "category": "艺人,作品衍生"
     },
     {
-      "raw_hot": 140999,
-      "num": 140999,
-      "word": "樊振东奥运后首战",
-      "onboard_time": 1728694521,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 136939,
-      "num": 136939,
-      "word": "女孩凌晨5点被突然下车的壮汉吓到",
-      "onboard_time": 1728696738,
-      "rank": 45,
+      "raw_hot": 135994,
+      "num": 135994,
+      "word": "宝妈10分钟超快顺产自己走出产房",
+      "onboard_time": 1728697999,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 129498,
-      "num": 303600,
-      "word": "尼加拉瓜宣布与以色列断交",
-      "onboard_time": 1728688757,
-      "rank": 46,
-      "category": "国外时政"
-    },
-    {
-      "raw_hot": 119592,
-      "num": 119592,
-      "word": "杨紫杂志",
-      "onboard_time": 1728697099,
-      "rank": 46,
-      "category": "作品衍生,艺人"
+      "raw_hot": 135363,
+      "num": 135363,
+      "word": "来个南方人告诉我这是不是真的",
+      "onboard_time": 1728697339,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 119328,
@@ -964,7 +1004,7 @@
     },
     {
       "raw_hot": 14797,
-      "num": 544549,
+      "num": 591687,
       "word": "文化中国行看曼德拉山岩画",
       "onboard_time": 1728650960,
       "rank": 2,
