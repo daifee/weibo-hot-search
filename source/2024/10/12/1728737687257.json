@@ -1,0 +1,410 @@
+{
+  "runTime": 1728737687257,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 16990,
+        "num": 1002718,
+        "word": "吴邦国同志遗体10月14日火化",
+        "onboard_time": 1728711500,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1563074,
+        "num": 997252,
+        "word": "陈幸同vs张本美和",
+        "onboard_time": 1728733699,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 21095,
+        "num": 936654,
+        "word": "2024年全国数字乡村创新大赛",
+        "onboard_time": 1728735319,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 920278,
+        "num": 920278,
+        "word": "财政部长请大家放心",
+        "onboard_time": 1728730279,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 884325,
+        "num": 884325,
+        "word": "陈幸同1比3张本美和",
+        "onboard_time": 1728736822,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 684564,
+        "num": 684564,
+        "word": "亚锦赛女单",
+        "onboard_time": 1728730640,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 675598,
+        "num": 675598,
+        "word": "你的房贷还完了吗",
+        "onboard_time": 1728732920,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 505497,
+        "num": 505497,
+        "word": "梁王组合无缘北极赛决赛",
+        "onboard_time": 1728734121,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 630124,
+        "num": 501012,
+        "word": "收到同事救命信息赶去救下一命",
+        "onboard_time": 1728729620,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 476069,
+        "num": 476069,
+        "word": "郑钦文vs王欣瑜",
+        "onboard_time": 1728731420,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1856615,
+        "num": 475954,
+        "word": "女生掏耳朵被男友撞到戳破耳膜",
+        "onboard_time": 1728734780,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 45037,
+        "num": 474132,
+        "word": "迪丽热巴鼓励女生大胆突破",
+        "onboard_time": 1728734720,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 363886,
+        "num": 473350,
+        "word": "大四学生失联数月家属称其挂科8门",
+        "onboard_time": 1728736940,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 405000,
+        "num": 472149,
+        "word": "你好星期六",
+        "onboard_time": 1728733398,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1439285,
+        "num": 470843,
+        "word": "北大校友否认听泉鉴宝学历",
+        "onboard_time": 1728735560,
+        "rank": 14,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 677275,
+        "num": 469498,
+        "word": "日本梅毒",
+        "onboard_time": 1728702619,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 549620,
+        "num": 467794,
+        "word": "骑行男孩身亡案司机赔偿后获谅解",
+        "onboard_time": 1728731719,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 467302,
+        "num": 467302,
+        "word": "WBG对战FNC",
+        "onboard_time": 1728736220,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 426572,
+        "num": 426572,
+        "word": "骑行男孩遭碾压案新进展",
+        "onboard_time": 1728733819,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29218,
+        "num": 413948,
+        "word": "阿姨说找总监按摩听到咔嚓声后骨折",
+        "onboard_time": 1728737482,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 403419,
+        "num": 403419,
+        "word": "听泉鉴宝 盗墓",
+        "onboard_time": 1728706519,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 382370,
+        "num": 382370,
+        "word": "王楚钦vs吴晙诚",
+        "onboard_time": 1728736580,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 379585,
+        "num": 379585,
+        "word": "王亚飞发迪丽热巴",
+        "onboard_time": 1728733580,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 357487,
+        "num": 357487,
+        "word": "孙颖莎和小莫互动",
+        "onboard_time": 1728736880,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 333721,
+        "num": 333721,
+        "word": "檀健次经纪人聊天记录",
+        "onboard_time": 1728714199,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 312387,
+        "num": 312387,
+        "word": "SEVENTEEN演唱会着火",
+        "onboard_time": 1728729859,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 301081,
+        "num": 301081,
+        "word": "小狗突然亲了你一下",
+        "onboard_time": 1728734959,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 297342,
+        "num": 297342,
+        "word": "时代峰峻噪声超标被罚1.25万",
+        "onboard_time": 1728729979,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 287967,
+        "num": 287967,
+        "word": "B太回应曾夸东北雨姐真实",
+        "onboard_time": 1728736760,
+        "rank": 28,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 40312,
+        "num": 269179,
+        "word": "全网双11优惠向天猫看齐",
+        "onboard_time": 1728736940,
+        "rank": 29,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 265007,
+        "num": 265007,
+        "word": "赵露思说目前没有拍电影的打算",
+        "onboard_time": 1728737482,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 242542,
+        "num": 242542,
+        "word": "中华田园犬大战2米毒蛇保护110",
+        "onboard_time": 1728728420,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208538,
+        "num": 208538,
+        "word": "女子头戴鲨鱼夹摔倒后成植物人",
+        "onboard_time": 1728712040,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206583,
+        "num": 206583,
+        "word": "东北雨姐被罚165万",
+        "onboard_time": 1728711739,
+        "rank": 33,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 201094,
+        "num": 201094,
+        "word": "女子颈椎病被医生舌下扎针治好",
+        "onboard_time": 1728718519,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199063,
+        "num": 199063,
+        "word": "国乒女单无缘亚锦赛四强",
+        "onboard_time": 1728736700,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 195118,
+        "num": 195118,
+        "word": "伊藤美诚3比1徐孝元",
+        "onboard_time": 1728736580,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 190448,
+        "num": 190448,
+        "word": "虞书欣粉百合美人",
+        "onboard_time": 1728729560,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 188886,
+        "num": 188886,
+        "word": "报告指认以色列欲摧毁加沙卫生系统",
+        "onboard_time": 1728721159,
+        "rank": 38,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 187072,
+        "num": 187072,
+        "word": "王楚钦战胜日本选手进8强",
+        "onboard_time": 1728732499,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 177639,
+        "num": 177639,
+        "word": "周杰伦林俊杰钢琴合唱",
+        "onboard_time": 1728728720,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 169621,
+        "num": 169621,
+        "word": "许昕4比2罗铮",
+        "onboard_time": 1728737361,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 171729,
+        "num": 169525,
+        "word": "虞书欣 不要你夸我不怕你骂我",
+        "onboard_time": 1728736161,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169235,
+        "num": 169235,
+        "word": "罗宜宁嫡千金变私生女",
+        "onboard_time": 1728737421,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164711,
+        "num": 164711,
+        "word": "老年人沉迷霸总短剧不容忽视",
+        "onboard_time": 1728734840,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164138,
+        "num": 164138,
+        "word": "蔡徐坤 支持我戴",
+        "onboard_time": 1728714560,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163842,
+        "num": 163842,
+        "word": "李娜现身武网",
+        "onboard_time": 1728736161,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 163699,
+        "num": 163699,
+        "word": "儿子因病离世父亲一夜白头",
+        "onboard_time": 1728720918,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150737,
+        "num": 150737,
+        "word": "欣文联播",
+        "onboard_time": 1728734959,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148794,
+        "num": 148794,
+        "word": "王艺迪0比3金琴英",
+        "onboard_time": 1728725960,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向埃塞俄比亚新任总统塔耶致贺电#"
+    }
+  }
+}

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/10/01 00:28:17 ~ 2024/10/12 20:39:07
+本榜单时间：2024/10/01 00:28:17 ~ 2024/10/12 20:54:47
 </p>
 </blockquote>
 <p>
@@ -489,6 +489,12 @@ A股成交再创历史最快万亿纪录（热度：2096595）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E6%8E%8F%E8%80%B3%E6%9C%B5%E8%A2%AB%E7%94%B7%E5%8F%8B%E6%92%9E%E5%88%B0%E6%88%B3%E7%A0%B4%E8%80%B3%E8%86%9C%23" target="weibo">
+女生掏耳朵被男友撞到戳破耳膜（热度：1856615）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%AC%E6%B3%89%E9%89%B4%E5%AE%9D%20%E7%9B%97%E5%A2%93%23" target="weibo">
 听泉鉴宝 盗墓（热度：1798923）
 </a>
@@ -693,6 +699,12 @@ A股成交再创历史最快万亿纪录（热度：2096595）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%B9%B8%E5%90%8Cvs%E5%BC%A0%E6%9C%AC%E7%BE%8E%E5%92%8C%23" target="weibo">
+陈幸同vs张本美和（热度：1563074）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E4%BB%8B%E5%8A%9D%E6%88%BF%E4%B8%9C%E4%B8%8D%E8%A6%81%E6%83%85%E7%BB%AA%E6%B3%A2%E5%8A%A8%23" target="weibo">
 中介劝房东不要情绪波动（热度：1545445）
 </a>
@@ -767,6 +779,12 @@ TES战胜T1（热度：1515921）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23T1%E6%88%98%E8%83%9CBLG%23" target="weibo">
 T1战胜BLG（热度：1444060）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E5%A4%A7%E6%A0%A1%E5%8F%8B%E5%90%A6%E8%AE%A4%E5%90%AC%E6%B3%89%E9%89%B4%E5%AE%9D%E5%AD%A6%E5%8E%86%23" target="weibo">
+北大校友否认听泉鉴宝学历（热度：1439285）
 </a>
 </li>
 
@@ -1761,12 +1779,6 @@ A股彻底爆了现在进场还来得及吗（热度：1030303）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E5%A4%A7%E6%A0%A1%E5%8F%8B%E5%90%A6%E8%AE%A4%E5%90%AC%E6%B3%89%E9%89%B4%E5%AE%9D%E5%AD%A6%E5%8E%86%23" target="weibo">
-北大校友否认听泉鉴宝学历（热度：998705）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23A%E8%82%A1%E9%81%AD%E9%81%87%E8%83%8C%E5%88%BA%23" target="weibo">
 A股遭遇背刺（热度：998421）
 </a>
@@ -1935,12 +1947,6 @@ A股后续将迎第二波上涨行情（热度：964810）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E6%8E%8F%E8%80%B3%E6%9C%B5%E8%A2%AB%E7%94%B7%E5%8F%8B%E6%92%9E%E5%88%B0%E6%88%B3%E7%A0%B4%E8%80%B3%E8%86%9C%23" target="weibo">
-女生掏耳朵被男友撞到戳破耳膜（热度：950123）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%B9%92%E5%A5%B3%E5%9B%A2vs%E6%9C%9D%E9%B2%9C%23" target="weibo">
 国乒女团vs朝鲜（热度：947978）
 </a>
@@ -2033,12 +2039,6 @@ A股后续将迎第二波上涨行情（热度：964810）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%8D%9A%E4%B8%BB%E7%8B%AC%E9%97%AF%E5%93%80%E7%89%A2%E5%B1%B1%E6%B7%B1%E5%A4%842%E5%A4%A9%E5%90%8E%E6%8A%A5%E5%B9%B3%E5%AE%89%23" target="weibo">
 女博主独闯哀牢山深处2天后报平安（热度：919183）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%B9%B8%E5%90%8Cvs%E5%BC%A0%E6%9C%AC%E7%BE%8E%E5%92%8C%23" target="weibo">
-陈幸同vs张本美和（热度：919082）
 </a>
 </li>
 
@@ -2153,6 +2153,12 @@ LNG战胜BLG（热度：897693）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AA%80%E5%81%A5%E6%AC%A1%E7%BB%8F%E7%BA%AA%E4%BA%BA%23" target="weibo">
 檀健次经纪人（热度：889245）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%B9%B8%E5%90%8C1%E6%AF%943%E5%BC%A0%E6%9C%AC%E7%BE%8E%E5%92%8C%23" target="weibo">
+陈幸同1比3张本美和（热度：884325）
 </a>
 </li>
 
@@ -3249,6 +3255,12 @@ WBG对战G2（热度：687029）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E7%9A%84%E6%88%BF%E8%B4%B7%E8%BF%98%E5%AE%8C%E4%BA%86%E5%90%97%23" target="weibo">
+你的房贷还完了吗（热度：675598）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E5%A5%B3%E5%8D%95%E9%A1%B9%E7%9B%AE%E7%A7%AF%E5%88%86%E8%BF%87%E4%B8%87%23" target="weibo">
 孙颖莎女单项目积分过万（热度：675546）
 </a>
@@ -3737,12 +3749,6 @@ Minnie走秀（热度：616890）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E5%8F%96%E7%94%BB%E6%9D%90%E5%85%AC%E5%8F%B8%E7%99%BB%E8%AE%B0%E5%9C%B0%E5%9D%80%E4%BA%BA%E5%8E%BB%E6%A5%BC%E7%A9%BA%23" target="weibo">
 山取画材公司登记地址人去楼空（热度：616424）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E7%9A%84%E6%88%BF%E8%B4%B7%E8%BF%98%E5%AE%8C%E4%BA%86%E5%90%97%23" target="weibo">
-你的房贷还完了吗（热度：616413）
 </a>
 </li>
 
@@ -5097,6 +5103,12 @@ GEN对战WBG（热度：516314）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%83%91%E9%92%A6%E6%96%87vs%E7%8E%8B%E6%AC%A3%E7%91%9C%23" target="weibo">
+郑钦文vs王欣瑜（热度：476069）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9F%AF%E5%9F%BA%E8%AD%A6%E7%8A%AC%E7%A6%8F%E4%BB%94%E8%BD%AC%E6%AD%A3%E4%BA%86%23" target="weibo">
 柯基警犬福仔转正了（热度：474658）
 </a>
@@ -5207,6 +5219,12 @@ GEN对战WBG（热度：516314）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E8%AF%97%E6%A0%8B%E4%B8%89%E8%BF%9E%E5%86%A0%23" target="weibo">
 林诗栋三连冠（热度：468133）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23WBG%E5%AF%B9%E6%88%98FNC%23" target="weibo">
+WBG对战FNC（热度：467302）
 </a>
 </li>
 
@@ -5697,6 +5715,12 @@ A股半小时成交破万亿（热度：455160）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AA%91%E8%A1%8C%E7%94%B7%E5%AD%A9%E9%81%AD%E7%A2%BE%E5%8E%8B%E6%A1%88%E6%96%B0%E8%BF%9B%E5%B1%95%23" target="weibo">
+骑行男孩遭碾压案新进展（热度：426572）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A0%E7%BC%98%E4%BA%9A%E9%94%A6%E8%B5%9B%E5%86%A0%E5%86%9B%E4%B8%BA%E5%A5%B3%E4%B9%92%E6%95%B2%E5%93%8D%E8%AD%A6%E9%92%9F%23" target="weibo">
 无缘亚锦赛冠军为女乒敲响警钟（热度：426496）
 </a>
@@ -5889,12 +5913,6 @@ Jennie新歌（热度：418632）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%83%91%E9%92%A6%E6%96%87vs%E7%8E%8B%E6%AC%A3%E7%91%9C%23" target="weibo">
-郑钦文vs王欣瑜（热度：411511）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23TES%E5%AF%B9%E6%88%98DK%23" target="weibo">
 TES对战DK（热度：411505）
 </a>
@@ -5993,24 +6011,6 @@ TES对战DK（热度：411505）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AB%8B%E5%A8%81%E5%BB%89%E4%B8%80%E5%BC%80%E5%8F%A3%E6%88%91%E7%9A%84%E9%9D%92%E6%98%A5%E5%9B%9E%E6%9D%A5%E4%BA%86%23" target="weibo">
 立威廉一开口我的青春回来了（热度：403286）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E8%AF%B4%E9%A9%AC%E9%BE%99%E5%84%BF%E5%AD%90%E5%A4%AA%E5%8F%AF%E7%88%B1%E4%BA%86%23" target="weibo">
-孙颖莎说马龙儿子太可爱了（热度：401925）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E6%98%8C%E7%83%9F%E8%8A%B1%23" target="weibo">
-南昌烟花（热度：401668）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BD%A6%E4%B8%BB%E5%9B%9E%E5%BA%94215%E4%B8%87%E4%B9%B0%E5%88%B0%E6%BC%8F%E6%B0%B4%E8%BF%88%E5%B7%B4%E8%B5%AB%23" target="weibo">
-车主回应215万买到漏水迈巴赫（热度：401545）
 </a>
 </li>
 

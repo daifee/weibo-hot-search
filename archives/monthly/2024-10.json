@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1728736747738,
+  "endTime": 1728737687257,
   "band_list": [
     {
       "raw_hot": 13027302,
@@ -635,6 +635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1856615,
+      "num": 484091,
+      "word": "女生掏耳朵被男友撞到戳破耳膜",
+      "onboard_time": 1728734780,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1798923,
       "num": 481941,
       "word": "听泉鉴宝 盗墓",
@@ -907,6 +915,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1563074,
+      "num": 997252,
+      "word": "陈幸同vs张本美和",
+      "onboard_time": 1728733699,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1545445,
       "num": 372810,
       "word": "中介劝房东不要情绪波动",
@@ -1009,6 +1025,14 @@
       "onboard_time": 1728222500,
       "rank": 3,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 1439285,
+      "num": 485770,
+      "word": "北大校友否认听泉鉴宝学历",
+      "onboard_time": 1728735560,
+      "rank": 10,
+      "category": "网红"
     },
     {
       "raw_hot": 1417596,
@@ -2331,14 +2355,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 998705,
-      "num": 485770,
-      "word": "北大校友否认听泉鉴宝学历",
-      "onboard_time": 1728735560,
-      "rank": 10,
-      "category": "网红"
-    },
-    {
       "raw_hot": 998421,
       "num": 443759,
       "word": "A股遭遇背刺",
@@ -2563,14 +2579,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 950123,
-      "num": 484091,
-      "word": "女生掏耳朵被男友撞到戳破耳膜",
-      "onboard_time": 1728734780,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 947978,
       "num": 947978,
       "word": "国乒女团vs朝鲜",
@@ -2697,14 +2705,6 @@
       "onboard_time": 1728229759,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 919082,
-      "num": 919082,
-      "word": "陈幸同vs张本美和",
-      "onboard_time": 1728733699,
-      "rank": 1,
-      "category": "体育"
     },
     {
       "raw_hot": 915716,
@@ -2857,6 +2857,14 @@
       "onboard_time": 1728688336,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 884325,
+      "num": 884325,
+      "word": "陈幸同1比3张本美和",
+      "onboard_time": 1728736822,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 884225,
@@ -3980,7 +3988,7 @@
     },
     {
       "raw_hot": 719186,
-      "num": 464623,
+      "num": 467794,
       "word": "骑行男孩身亡案司机赔偿后获谅解",
       "onboard_time": 1728731719,
       "rank": 43,
@@ -4313,6 +4321,14 @@
       "onboard_time": 1728046220,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 675598,
+      "num": 675598,
+      "word": "你的房贷还完了吗",
+      "onboard_time": 1728732920,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 675546,
@@ -4968,14 +4984,6 @@
       "word": "山取画材公司登记地址人去楼空",
       "onboard_time": 1728540379,
       "rank": 16,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 616413,
-      "num": 561676,
-      "word": "你的房贷还完了吗",
-      "onboard_time": 1728732920,
-      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -6779,6 +6787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 476069,
+      "num": 476069,
+      "word": "郑钦文vs王欣瑜",
+      "onboard_time": 1728731420,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 474658,
       "num": 474658,
       "word": "柯基警犬福仔转正了",
@@ -6929,6 +6945,14 @@
       "onboard_time": 1728222681,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 467302,
+      "num": 467302,
+      "word": "WBG对战FNC",
+      "onboard_time": 1728736220,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 466898,
@@ -7579,6 +7603,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 426572,
+      "num": 426572,
+      "word": "骑行男孩遭碾压案新进展",
+      "onboard_time": 1728733819,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 426496,
       "num": 377072,
       "word": "无缘亚锦赛冠军为女乒敲响警钟",
@@ -7833,14 +7865,6 @@
       "onboard_time": 1728108857,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 411511,
-      "num": 411511,
-      "word": "郑钦文vs王欣瑜",
-      "onboard_time": 1728731420,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 411505,
@@ -8571,14 +8595,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 375279,
-      "num": 375279,
-      "word": "骑行男孩遭碾压案新进展",
-      "onboard_time": 1728733819,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 375078,
       "num": 224608,
       "word": "多车返程高速上轮胎被扎钉子",
@@ -8875,6 +8891,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 363886,
+      "num": 473350,
+      "word": "大四学生失联数月家属称其挂科8门",
+      "onboard_time": 1728736940,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 363785,
       "num": 482158,
       "word": "金莎古装",
@@ -9073,6 +9097,14 @@
       "onboard_time": 1728527598,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 357487,
+      "num": 357487,
+      "word": "孙颖莎和小莫互动",
+      "onboard_time": 1728736880,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 356935,
@@ -11123,6 +11155,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 287967,
+      "num": 287967,
+      "word": "B太回应曾夸东北雨姐真实",
+      "onboard_time": 1728736760,
+      "rank": 28,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 287941,
       "num": 372095,
       "word": "王楚钦梁靖崑晋级男双四强",
@@ -12201,6 +12241,14 @@
       "onboard_time": 1728658701,
       "rank": 22,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 265007,
+      "num": 265007,
+      "word": "赵露思说目前没有拍电影的打算",
+      "onboard_time": 1728737482,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 264905,
@@ -16499,6 +16547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 199063,
+      "num": 232763,
+      "word": "国乒女单无缘亚锦赛四强",
+      "onboard_time": 1728736700,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 198972,
       "num": 198972,
       "word": "港股大幅跳水",
@@ -17075,6 +17131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 195118,
+      "num": 195118,
+      "word": "伊藤美诚3比1徐孝元",
+      "onboard_time": 1728736580,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 195053,
       "num": 522216,
       "word": "时装周最热艺人前二十",
@@ -17441,14 +17505,6 @@
       "onboard_time": 1727770459,
       "rank": 28,
       "category": "电影"
-    },
-    {
-      "raw_hot": 192499,
-      "num": 192499,
-      "word": "WBG对战FNC",
-      "onboard_time": 1728736220,
-      "rank": 34,
-      "category": "电竞"
     },
     {
       "raw_hot": 192235,
@@ -19747,6 +19803,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 171729,
+      "num": 169525,
+      "word": "虞书欣 不要你夸我不怕你骂我",
+      "onboard_time": 1728736161,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 171622,
       "num": 171622,
       "word": "王楚钦蓄势待发",
@@ -19947,6 +20011,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 169621,
+      "num": 169621,
+      "word": "许昕4比2罗铮",
+      "onboard_time": 1728737361,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 169404,
       "num": 472370,
       "word": "曾黎妈妈32年前的家书",
@@ -19985,6 +20057,14 @@
       "onboard_time": 1728707120,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 169235,
+      "num": 169235,
+      "word": "罗宜宁嫡千金变私生女",
+      "onboard_time": 1728737421,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 169229,
@@ -20577,6 +20657,14 @@
       "onboard_time": 1728656840,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 164711,
+      "num": 308675,
+      "word": "老年人沉迷霸总短剧不容忽视",
+      "onboard_time": 1728734840,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 164630,
@@ -22515,6 +22603,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 150737,
+      "num": 150737,
+      "word": "欣文联播",
+      "onboard_time": 1728734959,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 150716,
       "num": 150716,
       "word": "中国人民对外友好协会成立70周年",
@@ -22817,14 +22913,6 @@
       "onboard_time": 1728191416,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 148048,
-      "num": 148048,
-      "word": "伊藤美诚3比1徐孝元",
-      "onboard_time": 1728736580,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 147815,
@@ -24353,14 +24441,6 @@
       "onboard_time": 1728723260,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 137295,
-      "num": 137295,
-      "word": "虞书欣 不要你夸我不怕你骂我",
-      "onboard_time": 1728736161,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 137234,
@@ -29835,14 +29915,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 92533,
-      "num": 308675,
-      "word": "老年人沉迷霸总短剧不容忽视",
-      "onboard_time": 1728734840,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 92393,
       "num": 92393,
       "word": "ENHYPEN巡演",
@@ -33395,6 +33467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 45037,
+      "num": 474132,
+      "word": "迪丽热巴鼓励女生大胆突破",
+      "onboard_time": 1728734720,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 45006,
       "num": 492507,
       "word": "像打击电诈一样打击坑老骗局",
@@ -33803,14 +33883,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 40491,
-      "num": 473991,
-      "word": "迪丽热巴鼓励女生大胆突破",
-      "onboard_time": 1728734720,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 40411,
       "num": 262230,
       "word": "不强行超车不开斗气车",
@@ -33825,6 +33897,14 @@
       "onboard_time": 1728220880,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 40312,
+      "num": 269179,
+      "word": "全网双11优惠向天猫看齐",
+      "onboard_time": 1728736940,
+      "rank": 29,
+      "category": "互联网"
     },
     {
       "raw_hot": 40284,
@@ -35211,6 +35291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 29218,
+      "num": 413948,
+      "word": "阿姨说找总监按摩听到咔嚓声后骨折",
+      "onboard_time": 1728737482,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 29175,
       "num": 208191,
       "word": "王一博公益站帮助25名儿童",
@@ -36115,6 +36203,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 21095,
+      "num": 936654,
+      "word": "2024年全国数字乡村创新大赛",
+      "onboard_time": 1728735319,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 21043,
       "num": 32026,
       "word": "这份独属于中国人的仪式感",
@@ -36473,14 +36569,6 @@
       "onboard_time": 1728220819,
       "rank": 48,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 17518,
-      "num": 747883,
-      "word": "2024年全国数字乡村创新大赛",
-      "onboard_time": 1728735319,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 17504,
@@ -36976,14 +37064,6 @@
       "word": "郑钦文今晚开启武网首战",
       "onboard_time": 1728470418,
       "rank": 14,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 6580,
-      "num": 232763,
-      "word": "国乒女单无缘亚锦赛四强",
-      "onboard_time": 1728736700,
-      "rank": 28,
       "category": "体育"
     },
     {
