@@ -1,6 +1,6 @@
 {
   "startTime": 1728664067735,
-  "endTime": 1728711515937,
+  "endTime": 1728714526444,
   "band_list": [
     {
       "raw_hot": 4273020,
@@ -35,12 +35,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1641714,
+      "num": 1641714,
+      "word": "东北雨姐被罚165万",
+      "onboard_time": 1728711739,
+      "rank": 0,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 1591854,
       "num": 504681,
       "word": "金星解释复婚",
       "onboard_time": 1728703220,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1512597,
+      "num": 1512597,
+      "word": "吴邦国同志遗体10月14日火化",
+      "onboard_time": 1728711500,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1319783,
@@ -83,6 +99,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 989478,
+      "num": 989478,
+      "word": "国家奖学金",
+      "onboard_time": 1728712641,
+      "rank": 3,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 896461,
       "num": 317183,
       "word": "门前勿停车 杨幂也不行",
@@ -120,6 +144,14 @@
       "word": "财政部介绍加大逆周期调节力度",
       "onboard_time": 1728698539,
       "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 776359,
+      "num": 264847,
+      "word": "女子头戴鲨鱼夹摔倒后成植物人",
+      "onboard_time": 1728712040,
+      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -323,6 +355,14 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 468379,
+      "num": 241559,
+      "word": "景德镇车祸家属称现场惨烈常做噩梦",
+      "onboard_time": 1728712100,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 463330,
       "num": 319112,
       "word": "才意识到朋友圈不完全属于自己",
@@ -361,6 +401,22 @@
       "onboard_time": 1728690078,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 424169,
+      "num": 235040,
+      "word": "中老年抖音",
+      "onboard_time": 1728713781,
+      "rank": 30,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 404910,
+      "num": 241220,
+      "word": "东北雨姐",
+      "onboard_time": 1728711200,
+      "rank": 38,
+      "category": "网红"
     },
     {
       "raw_hot": 398920,
@@ -403,6 +459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 373949,
+      "num": 254587,
+      "word": "B太曾做客东北雨姐拍摄基地",
+      "onboard_time": 1728713781,
+      "rank": 13,
+      "category": "网红"
+    },
+    {
       "raw_hot": 371861,
       "num": 371861,
       "word": "何猷君谈赌王儿子身份标签",
@@ -419,12 +483,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 361211,
+      "num": 361211,
+      "word": "王楚钦3比0林兆恒",
+      "onboard_time": 1728710841,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 356722,
       "num": 356722,
       "word": "102岁奶奶网龄10年玩手机得心应手",
       "onboard_time": 1728687017,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 349136,
+      "num": 232430,
+      "word": "向鹏0比3林昀儒",
+      "onboard_time": 1728713120,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 344132,
@@ -481,6 +561,22 @@
       "onboard_time": 1728658221,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 310979,
+      "num": 310979,
+      "word": "王楚钦光速下班",
+      "onboard_time": 1728711860,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 307904,
+      "num": 227089,
+      "word": "难怪电脑代码不能用中文",
+      "onboard_time": 1728711860,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 304252,
@@ -627,6 +723,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 252267,
+      "num": 224639,
+      "word": "坐在大狗肚子下面的小狗狗",
+      "onboard_time": 1728710660,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 250709,
       "num": 273792,
       "word": "段林希回应冠军争议",
@@ -659,19 +763,27 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 242724,
+      "num": 242724,
+      "word": "庞博 脱口秀正式迈入双一流时代",
+      "onboard_time": 1728713242,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 241002,
+      "num": 241002,
+      "word": "檀健次经纪人聊天记录",
+      "onboard_time": 1728714199,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 240550,
       "num": 240550,
       "word": "公司趁我不在工位点开我微信",
       "onboard_time": 1728691640,
       "rank": 24,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 236954,
-      "num": 224236,
-      "word": "坐在大狗肚子下面的小狗狗",
-      "onboard_time": 1728710660,
-      "rank": 30,
       "category": "幽默"
     },
     {
@@ -747,6 +859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 218488,
+      "num": 218488,
+      "word": "王楚钦进男单16强",
+      "onboard_time": 1728713719,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 215343,
       "num": 215343,
       "word": "郑钦文说在美网被陪练水平气到",
@@ -801,14 +921,6 @@
       "onboard_time": 1728706401,
       "rank": 43,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 207070,
-      "num": 276646,
-      "word": "王楚钦3比0林兆恒",
-      "onboard_time": 1728710841,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 206456,
@@ -867,6 +979,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 196911,
+      "num": 242647,
+      "word": "种地吧",
+      "onboard_time": 1728713479,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 196082,
       "num": 196082,
       "word": "地方债务风险整体缓释",
@@ -884,7 +1004,7 @@
     },
     {
       "raw_hot": 195155,
-      "num": 238363,
+      "num": 239414,
       "word": "刘宇宁直播说没有活了",
       "onboard_time": 1728710119,
       "rank": 29,
@@ -907,28 +1027,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 191543,
-      "num": 191543,
-      "word": "吴邦国同志遗体10月14日火化",
-      "onboard_time": 1728711500,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 191391,
-      "num": 191391,
-      "word": "东北雨姐",
-      "onboard_time": 1728711200,
-      "rank": 38,
-      "category": "网红"
-    },
-    {
       "raw_hot": 191058,
       "num": 191058,
       "word": "余华英用一根冰棒骗走5岁男孩",
       "onboard_time": 1728668714,
       "rank": 14,
       "category": "社会新闻,读书作家"
+    },
+    {
+      "raw_hot": 190486,
+      "num": 190486,
+      "word": "JYP模仿眼泪女王金秀贤",
+      "onboard_time": 1728712760,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 188081,
@@ -1035,6 +1147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 169804,
+      "num": 220702,
+      "word": "五公个喜排名",
+      "onboard_time": 1728714079,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 169404,
       "num": 472370,
       "word": "曾黎妈妈32年前的家书",
@@ -1065,6 +1185,22 @@
       "onboard_time": 1728697099,
       "rank": 46,
       "category": "作品衍生,艺人"
+    },
+    {
+      "raw_hot": 167771,
+      "num": 177770,
+      "word": "过期大米虚标保质期卖向学校4万多斤",
+      "onboard_time": 1728712819,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 167463,
+      "num": 230620,
+      "word": "唐香玉 我不光要吃饱还要吃好",
+      "onboard_time": 1728712578,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 166582,
@@ -1131,12 +1267,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 158534,
+      "num": 158534,
+      "word": "TheShy力挺on",
+      "onboard_time": 1728712280,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 156402,
       "num": 156402,
       "word": "一加13",
       "onboard_time": 1728699800,
       "rank": 43,
       "category": "数码"
+    },
+    {
+      "raw_hot": 155996,
+      "num": 155996,
+      "word": "王者荣耀周年庆明星嘉宾",
+      "onboard_time": 1728711860,
+      "rank": 49,
+      "category": "游戏,艺人"
     },
     {
       "raw_hot": 155308,
@@ -1411,6 +1563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 75477,
+      "num": 294688,
+      "word": "存量房贷利率调整可省多少利息",
+      "onboard_time": 1728713300,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 73434,
       "num": 73434,
       "word": "伯远国风唱跳刀剑如梦",
@@ -1432,6 +1592,14 @@
       "word": "周扬青说不会再找艺人谈恋爱",
       "onboard_time": 1728656421,
       "rank": 49,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 69919,
+      "num": 242379,
+      "word": "何猷君因为融资难和母亲产生共鸣",
+      "onboard_time": 1728713660,
+      "rank": 18,
       "category": "艺人"
     },
     {
@@ -1483,6 +1651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 54661,
+      "num": 242510,
+      "word": "林诗栋3比0黄镇廷",
+      "onboard_time": 1728714379,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 51883,
       "num": 474950,
       "word": "多地酒店称预订成功后不可取消",
@@ -1531,6 +1707,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 44229,
+      "num": 303138,
+      "word": "财政政策今年打出组合拳",
+      "onboard_time": 1728713242,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 42028,
       "num": 98477,
       "word": "余华英拐卖儿童长达11年",
@@ -1571,6 +1755,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 37610,
+      "num": 252018,
+      "word": "警方正在调查教育厅短信平台遭入侵",
+      "onboard_time": 1728714139,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 36436,
       "num": 112323,
       "word": "杨妞花称靠记忆中父母的爱走到今天",
@@ -1604,7 +1796,7 @@
     },
     {
       "raw_hot": 30085,
-      "num": 670833,
+      "num": 1035303,
       "word": "最新赏秋地秋日浓度播报来了",
       "onboard_time": 1728705561,
       "rank": 2,
@@ -1651,6 +1843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 23294,
+      "num": 242079,
+      "word": "手术红包之争背后是谁的锅",
+      "onboard_time": 1728713899,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 21324,
       "num": 36975,
       "word": "王一博沙漠滑翔伞为什么沉了",
@@ -1689,6 +1889,14 @@
       "onboard_time": 1728677531,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 15448,
+      "num": 236383,
+      "word": "中东战场迎来最安静时刻",
+      "onboard_time": 1728714379,
+      "rank": 29,
+      "category": "国外时政"
     },
     {
       "raw_hot": 15109,

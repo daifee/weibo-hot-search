@@ -1,0 +1,410 @@
+{
+  "runTime": 1728714526444,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1641714,
+        "num": 1641714,
+        "word": "东北雨姐被罚165万",
+        "onboard_time": 1728711739,
+        "rank": 0,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 1512597,
+        "num": 1512597,
+        "word": "吴邦国同志遗体10月14日火化",
+        "onboard_time": 1728711500,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28039,
+        "num": 1035303,
+        "word": "最新赏秋地秋日浓度播报来了",
+        "onboard_time": 1728705561,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 989478,
+        "num": 989478,
+        "word": "国家奖学金",
+        "onboard_time": 1728712641,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 639480,
+        "num": 639480,
+        "word": "中央财政已下达就业补助667亿元",
+        "onboard_time": 1728703040,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 361211,
+        "num": 361211,
+        "word": "王楚钦3比0林兆恒",
+        "onboard_time": 1728710841,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 346171,
+        "num": 346171,
+        "word": "本专科生国家助学金升至每年3700元",
+        "onboard_time": 1728705141,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 310979,
+        "num": 310979,
+        "word": "王楚钦光速下班",
+        "onboard_time": 1728711860,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 44229,
+        "num": 303138,
+        "word": "财政政策今年打出组合拳",
+        "onboard_time": 1728713242,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 75477,
+        "num": 294688,
+        "word": "存量房贷利率调整可省多少利息",
+        "onboard_time": 1728713300,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1606401,
+        "num": 288140,
+        "word": "日本梅毒",
+        "onboard_time": 1728702619,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 958905,
+        "num": 274249,
+        "word": "听泉鉴宝 盗墓",
+        "onboard_time": 1728706519,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 776359,
+        "num": 264847,
+        "word": "女子头戴鲨鱼夹摔倒后成植物人",
+        "onboard_time": 1728712040,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 373949,
+        "num": 254587,
+        "word": "B太曾做客东北雨姐拍摄基地",
+        "onboard_time": 1728713781,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 37610,
+        "num": 252018,
+        "word": "警方正在调查教育厅短信平台遭入侵",
+        "onboard_time": 1728714139,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242724,
+        "num": 242724,
+        "word": "庞博 脱口秀正式迈入双一流时代",
+        "onboard_time": 1728713242,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196911,
+        "num": 242647,
+        "word": "种地吧",
+        "onboard_time": 1728713479,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 54661,
+        "num": 242510,
+        "word": "林诗栋3比0黄镇廷",
+        "onboard_time": 1728714379,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 69919,
+        "num": 242379,
+        "word": "何猷君因为融资难和母亲产生共鸣",
+        "onboard_time": 1728713660,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23294,
+        "num": 242079,
+        "word": "手术红包之争背后是谁的锅",
+        "onboard_time": 1728713899,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 539514,
+        "num": 241912,
+        "word": "金星解释复婚",
+        "onboard_time": 1728703220,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 478713,
+        "num": 241764,
+        "word": "一家三口被撞身亡车祸细节披露",
+        "onboard_time": 1728703939,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 468379,
+        "num": 241559,
+        "word": "景德镇车祸家属称现场惨烈常做噩梦",
+        "onboard_time": 1728712100,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 415754,
+        "num": 241519,
+        "word": "门前勿停车 杨幂也不行",
+        "onboard_time": 1728709161,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 404910,
+        "num": 241220,
+        "word": "东北雨姐",
+        "onboard_time": 1728711200,
+        "rank": 24,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 374247,
+        "num": 241066,
+        "word": "杜海涛李佳琦淘汰",
+        "onboard_time": 1728710360,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 241002,
+        "num": 241002,
+        "word": "檀健次经纪人聊天记录",
+        "onboard_time": 1728714199,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182720,
+        "num": 239414,
+        "word": "刘宇宁直播说没有活了",
+        "onboard_time": 1728710119,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174367,
+        "num": 238493,
+        "word": "赵丽颖棕色毛呢大衣",
+        "onboard_time": 1728711021,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 15448,
+        "num": 236383,
+        "word": "中东战场迎来最安静时刻",
+        "onboard_time": 1728714379,
+        "rank": 29,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 424169,
+        "num": 235040,
+        "word": "中老年抖音",
+        "onboard_time": 1728713781,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 355243,
+        "num": 232821,
+        "word": "31岁男子闪婚5天后自杀身亡",
+        "onboard_time": 1728694461,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 349136,
+        "num": 232430,
+        "word": "向鹏0比3林昀儒",
+        "onboard_time": 1728713120,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167463,
+        "num": 230620,
+        "word": "唐香玉 我不光要吃饱还要吃好",
+        "onboard_time": 1728712578,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 340997,
+        "num": 228620,
+        "word": "危机航线 尺度",
+        "onboard_time": 1728709403,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 307904,
+        "num": 227089,
+        "word": "难怪电脑代码不能用中文",
+        "onboard_time": 1728711860,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 252267,
+        "num": 224639,
+        "word": "坐在大狗肚子下面的小狗狗",
+        "onboard_time": 1728710660,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 224320,
+        "num": 224320,
+        "word": "不法分子入侵广东省教育厅短信平台",
+        "onboard_time": 1728701119,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169804,
+        "num": 220702,
+        "word": "五公个喜排名",
+        "onboard_time": 1728714079,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 218488,
+        "num": 218488,
+        "word": "王楚钦进男单16强",
+        "onboard_time": 1728713719,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 211057,
+        "num": 211057,
+        "word": "郑钦文VOGUE 不输超模",
+        "onboard_time": 1728707000,
+        "rank": 40,
+        "category": "体育,作品衍生"
+      },
+      {
+        "raw_hot": 200045,
+        "num": 200045,
+        "word": "发行1万亿元超长期特别国债",
+        "onboard_time": 1728704661,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 197048,
+        "num": 197048,
+        "word": "樊振东搭档许昕出战男团比赛",
+        "onboard_time": 1728708142,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 190486,
+        "num": 190486,
+        "word": "JYP模仿眼泪女王金秀贤",
+        "onboard_time": 1728712760,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 14810,
+        "num": 181551,
+        "word": "被买药秒送治好了等药焦虑",
+        "onboard_time": 1728709462,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 167771,
+        "num": 177770,
+        "word": "过期大米虚标保质期卖向学校4万多斤",
+        "onboard_time": 1728712819,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174473,
+        "num": 174473,
+        "word": "广东省教育厅声明",
+        "onboard_time": 1728702980,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167661,
+        "num": 167661,
+        "word": "宝妈10分钟超快顺产自己走出产房",
+        "onboard_time": 1728697999,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158534,
+        "num": 158534,
+        "word": "TheShy力挺on",
+        "onboard_time": 1728712280,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 155996,
+        "num": 155996,
+        "word": "王者荣耀周年庆明星嘉宾",
+        "onboard_time": 1728711860,
+        "rank": 49,
+        "category": "游戏,艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#人民友好是国际关系行稳致远的基础#"
+    }
+  }
+}
