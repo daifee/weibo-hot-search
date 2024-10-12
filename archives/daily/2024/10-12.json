@@ -1,6 +1,6 @@
 {
   "startTime": 1728664067735,
-  "endTime": 1728704401876,
+  "endTime": 1728707164801,
   "band_list": [
     {
       "raw_hot": 4273020,
@@ -11,12 +11,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2104271,
+      "num": 2104271,
+      "word": "中央财政已下达就业补助667亿元",
+      "onboard_time": 1728703040,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1696810,
       "num": 514181,
       "word": "31岁男子闪婚5天后自杀身亡",
       "onboard_time": 1728694461,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1591854,
+      "num": 504681,
+      "word": "金星解释复婚",
+      "onboard_time": 1728703220,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 1319783,
@@ -83,6 +99,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 754423,
+      "num": 487001,
+      "word": "一家三口被撞身亡车祸细节披露",
+      "onboard_time": 1728703939,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 744484,
       "num": 812329,
       "word": "付鹏称现在对于居民部门就干三件事",
@@ -131,6 +155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 644841,
+      "num": 481941,
+      "word": "听泉鉴宝 盗墓",
+      "onboard_time": 1728706519,
+      "rank": 16,
+      "category": "网红"
+    },
+    {
       "raw_hot": 642305,
       "num": 642305,
       "word": "特斯拉市值一夜蒸发超4700亿",
@@ -139,19 +171,19 @@
       "category": "财经,汽车"
     },
     {
-      "raw_hot": 629693,
-      "num": 629693,
-      "word": "中央财政已下达就业补助667亿元",
-      "onboard_time": 1728703040,
-      "rank": 30,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 621543,
       "num": 621543,
       "word": "不法分子入侵广东省教育厅短信平台",
       "onboard_time": 1728701119,
       "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 620876,
+      "num": 476783,
+      "word": "男生食堂买饭遭阿姨多次无视并赶走",
+      "onboard_time": 1728690078,
+      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -195,14 +227,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 565855,
-      "num": 470807,
-      "word": "男生食堂买饭遭阿姨多次无视并赶走",
-      "onboard_time": 1728690078,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 556908,
       "num": 556908,
       "word": "存量房贷利率10月25日起调整",
@@ -219,12 +243,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 531332,
+      "num": 531332,
+      "word": "发行1万亿元超长期特别国债",
+      "onboard_time": 1728704661,
+      "rank": 4,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 527064,
       "num": 289067,
       "word": "听泉鉴宝最恐怖的一集",
       "onboard_time": 1728647900,
       "rank": 12,
       "category": "网红"
+    },
+    {
+      "raw_hot": 523187,
+      "num": 523187,
+      "word": "广东省教育厅声明",
+      "onboard_time": 1728702980,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 516198,
@@ -281,6 +321,22 @@
       "onboard_time": 1728690078,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 425148,
+      "num": 425148,
+      "word": "2024年国家奖学金奖励名额将翻倍",
+      "onboard_time": 1728704179,
+      "rank": 40,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 398920,
+      "num": 398920,
+      "word": "美国吹牛老爹名单",
+      "onboard_time": 1728705141,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 376111,
@@ -355,8 +411,24 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 314093,
+      "num": 314093,
+      "word": "公诉机关建议判余华英死刑",
+      "onboard_time": 1728705141,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 300563,
+      "num": 506844,
+      "word": "本专科生国家助学金升至每年3700元",
+      "onboard_time": 1728705141,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 299520,
-      "num": 503268,
+      "num": 512720,
       "word": "春花厌改名",
       "onboard_time": 1728701960,
       "rank": 43,
@@ -451,12 +523,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 261539,
+      "num": 261539,
+      "word": "武艺 因为我是快男",
+      "onboard_time": 1728705801,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 260416,
       "num": 260416,
       "word": "KATO代言人",
       "onboard_time": 1728702920,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 257623,
+      "num": 257623,
+      "word": "鞠婧祎出席王者荣耀共创之夜",
+      "onboard_time": 1728706583,
+      "rank": 36,
+      "category": "游戏,艺人"
     },
     {
       "raw_hot": 257522,
@@ -491,6 +579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 246355,
+      "num": 246355,
+      "word": "向佐 猫系",
+      "onboard_time": 1728703102,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 245840,
       "num": 245840,
       "word": "王者荣耀共创之夜嘉宾官宣",
@@ -505,14 +601,6 @@
       "onboard_time": 1728691640,
       "rank": 24,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 237594,
-      "num": 319102,
-      "word": "广东省教育厅声明",
-      "onboard_time": 1728702980,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 236915,
@@ -531,12 +619,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 233382,
+      "num": 233382,
+      "word": "郑钦文VOGUE 不输超模",
+      "onboard_time": 1728707000,
+      "rank": 40,
+      "category": "体育,作品衍生"
+    },
+    {
       "raw_hot": 230851,
       "num": 230851,
       "word": "骑行男孩身亡案司机已回家",
       "onboard_time": 1728697399,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 230415,
+      "num": 230415,
+      "word": "李发彬的鞋子能承受14个成年人重量",
+      "onboard_time": 1728704361,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 227068,
@@ -553,14 +657,6 @@
       "onboard_time": 1728651741,
       "rank": 6,
       "category": "体育"
-    },
-    {
-      "raw_hot": 220359,
-      "num": 220359,
-      "word": "向佐 猫系",
-      "onboard_time": 1728703102,
-      "rank": 42,
-      "category": "电影"
     },
     {
       "raw_hot": 219885,
@@ -603,6 +699,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 209984,
+      "num": 209984,
+      "word": "乒乓球赛程 密集",
+      "onboard_time": 1728706340,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 208141,
+      "num": 208141,
+      "word": "ON大乱斗",
+      "onboard_time": 1728706401,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 205336,
       "num": 205336,
       "word": "周杰伦新加坡",
@@ -627,12 +739,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 202495,
+      "num": 313239,
+      "word": "给毕雯珺带抹额的人简直是天才",
+      "onboard_time": 1728706641,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 201289,
       "num": 201289,
       "word": "财政部近期将推出一揽子增量政策",
       "onboard_time": 1728701540,
       "rank": 33,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 200630,
+      "num": 312973,
+      "word": "何猷君谈赌王儿子身份标签",
+      "onboard_time": 1728704781,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 198229,
@@ -657,14 +785,6 @@
       "onboard_time": 1728700999,
       "rank": 35,
       "category": "财经"
-    },
-    {
-      "raw_hot": 195945,
-      "num": 195945,
-      "word": "2024年国家奖学金奖励名额将翻倍",
-      "onboard_time": 1728704179,
-      "rank": 40,
-      "category": "国内时政"
     },
     {
       "raw_hot": 193678,
@@ -723,6 +843,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 184909,
+      "num": 184909,
+      "word": "我选择不去参加十年闺蜜的婚礼",
+      "onboard_time": 1728706641,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 183822,
+      "num": 233435,
+      "word": "毛晓彤大拌菜",
+      "onboard_time": 1728707061,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 180223,
       "num": 180223,
       "word": "伯远又输给了喻言",
@@ -771,6 +907,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 169404,
+      "num": 472370,
+      "word": "曾黎妈妈32年前的家书",
+      "onboard_time": 1728706583,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 169284,
+      "num": 169284,
+      "word": "李斯丹妮看完这段哭晕在厕所",
+      "onboard_time": 1728707120,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 169028,
       "num": 169028,
       "word": "中国410名赴黎维和官兵报平安",
@@ -793,14 +945,6 @@
       "onboard_time": 1728688757,
       "rank": 46,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 163680,
-      "num": 163680,
-      "word": "一家三口被撞身亡车祸细节披露",
-      "onboard_time": 1728703939,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 163066,
@@ -833,14 +977,6 @@
       "onboard_time": 1728658882,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 157422,
-      "num": 157422,
-      "word": "李发彬的鞋子能承受14个成年人重量",
-      "onboard_time": 1728704361,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 156402,
@@ -899,16 +1035,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 133015,
-      "num": 420264,
-      "word": "金星解释复婚",
-      "onboard_time": 1728703220,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 128671,
-      "num": 257208,
+      "num": 478367,
       "word": "这默契度不是兄妹就是夫妻",
       "onboard_time": 1728702079,
       "rank": 49,
@@ -947,6 +1075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 108572,
+      "num": 492069,
+      "word": "天猫双11将于10月14日晚8点开启",
+      "onboard_time": 1728705621,
+      "rank": 14,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 107436,
       "num": 107436,
       "word": "霍思燕携10只狗8只鸡拍封面",
@@ -977,6 +1113,14 @@
       "onboard_time": 1728635301,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 101842,
+      "num": 494810,
+      "word": "车圈下一个恒大是谁",
+      "onboard_time": 1728703401,
+      "rank": 44,
+      "category": "汽车"
     },
     {
       "raw_hot": 101770,
@@ -1115,6 +1259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 72906,
+      "num": 533541,
+      "word": "打卡秋天里的美丽中国",
+      "onboard_time": 1728706040,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 71964,
       "num": 71964,
       "word": "周扬青说不会再找艺人谈恋爱",
@@ -1185,14 +1337,6 @@
       "onboard_time": 1728682813,
       "rank": 17,
       "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 48352,
-      "num": 433030,
-      "word": "车圈下一个恒大是谁",
-      "onboard_time": 1728703401,
-      "rank": 44,
-      "category": "汽车"
     },
     {
       "raw_hot": 48269,
@@ -1385,6 +1529,9 @@
     },
     {
       "word": "#重阳节重温总书记敬老爱老暖心话#"
+    },
+    {
+      "word": "#人民友好是国际关系行稳致远的基础#"
     }
   ]
 }
