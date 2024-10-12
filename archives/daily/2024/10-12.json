@@ -1,10 +1,10 @@
 {
   "startTime": 1728664067735,
-  "endTime": 1728708053796,
+  "endTime": 1728710457970,
   "band_list": [
     {
       "raw_hot": 4273020,
-      "num": 623370,
+      "num": 649217,
       "word": "日本梅毒",
       "onboard_time": 1728702619,
       "rank": 3,
@@ -17,6 +17,14 @@
       "onboard_time": 1728703040,
       "rank": 30,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1798923,
+      "num": 481941,
+      "word": "听泉鉴宝 盗墓",
+      "onboard_time": 1728706519,
+      "rank": 16,
+      "category": "网红"
     },
     {
       "raw_hot": 1696810,
@@ -35,19 +43,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1574590,
-      "num": 481941,
-      "word": "听泉鉴宝 盗墓",
-      "onboard_time": 1728706519,
-      "rank": 16,
-      "category": "网红"
-    },
-    {
       "raw_hot": 1319783,
       "num": 295153,
       "word": "男孩骑行被碾压案司机已重获自由",
       "onboard_time": 1728657741,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1190064,
+      "num": 487001,
+      "word": "一家三口被撞身亡车祸细节披露",
+      "onboard_time": 1728703939,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -83,20 +91,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 868978,
-      "num": 487001,
-      "word": "一家三口被撞身亡车祸细节披露",
-      "onboard_time": 1728703939,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 865299,
       "num": 1134061,
       "word": "央视曝光免费注射干细胞骗局",
       "onboard_time": 1728685152,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 829667,
+      "num": 829667,
+      "word": "本专科生国家助学金升至每年3700元",
+      "onboard_time": 1728705141,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 789005,
@@ -113,6 +121,14 @@
       "onboard_time": 1728697999,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 754715,
+      "num": 338446,
+      "word": "郑钦文VOGUE 不输超模",
+      "onboard_time": 1728707000,
+      "rank": 40,
+      "category": "体育,作品衍生"
     },
     {
       "raw_hot": 744484,
@@ -160,6 +176,14 @@
       "word": "Jessi发文道歉",
       "onboard_time": 1728702380,
       "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 643459,
+      "num": 317183,
+      "word": "门前勿停车 杨幂也不行",
+      "onboard_time": 1728709161,
+      "rank": 20,
       "category": "艺人"
     },
     {
@@ -233,14 +257,6 @@
       "onboard_time": 1728657441,
       "rank": 0,
       "category": "体育"
-    },
-    {
-      "raw_hot": 567203,
-      "num": 338446,
-      "word": "郑钦文VOGUE 不输超模",
-      "onboard_time": 1728707000,
-      "rank": 40,
-      "category": "体育,作品衍生"
     },
     {
       "raw_hot": 556908,
@@ -347,6 +363,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 395960,
+      "num": 311429,
+      "word": "樊振东搭档许昕出战男团比赛",
+      "onboard_time": 1728708142,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 381445,
+      "num": 344890,
+      "word": "公诉机关建议判余华英死刑",
+      "onboard_time": 1728705141,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 376111,
       "num": 376111,
       "word": "家属回应男孩骑行被碾案司机获取保",
@@ -355,12 +387,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 373951,
-      "num": 344890,
-      "word": "公诉机关建议判余华英死刑",
-      "onboard_time": 1728705141,
-      "rank": 26,
-      "category": "社会新闻"
+      "raw_hot": 371861,
+      "num": 371861,
+      "word": "何猷君谈赌王儿子身份标签",
+      "onboard_time": 1728704781,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 364868,
@@ -379,16 +411,16 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 348527,
-      "num": 348527,
-      "word": "何猷君谈赌王儿子身份标签",
-      "onboard_time": 1728704781,
-      "rank": 28,
-      "category": "艺人"
+      "raw_hot": 344132,
+      "num": 344132,
+      "word": "毛晓彤大拌菜",
+      "onboard_time": 1728707061,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 344037,
-      "num": 225342,
+      "num": 331235,
       "word": "王楚钦vs林兆恒",
       "onboard_time": 1728661998,
       "rank": 14,
@@ -441,14 +473,6 @@
       "onboard_time": 1728706583,
       "rank": 36,
       "category": "游戏,艺人"
-    },
-    {
-      "raw_hot": 300563,
-      "num": 506844,
-      "word": "本专科生国家助学金升至每年3700元",
-      "onboard_time": 1728705141,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 299520,
@@ -691,12 +715,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 216854,
-      "num": 304972,
-      "word": "毛晓彤大拌菜",
-      "onboard_time": 1728707061,
-      "rank": 39,
+      "raw_hot": 218352,
+      "num": 218352,
+      "word": "杜海涛李佳琦淘汰",
+      "onboard_time": 1728710360,
+      "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 215343,
+      "num": 215343,
+      "word": "郑钦文说在美网被陪练水平气到",
+      "onboard_time": 1728709102,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 214663,
@@ -843,6 +875,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 185493,
+      "num": 325101,
+      "word": "危机航线 尺度",
+      "onboard_time": 1728709403,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 185457,
       "num": 185457,
       "word": "存量房贷利率批量调整",
@@ -873,6 +913,22 @@
       "onboard_time": 1728648921,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 179473,
+      "num": 179473,
+      "word": "成毅 采果果",
+      "onboard_time": 1728708920,
+      "rank": 42,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 179358,
+      "num": 179358,
+      "word": "RIIZE",
+      "onboard_time": 1728710001,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 176970,
@@ -947,6 +1003,14 @@
       "category": "作品衍生,艺人"
     },
     {
+      "raw_hot": 168070,
+      "num": 168070,
+      "word": "王励勤回应樊振东新周期计划",
+      "onboard_time": 1728710001,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 166582,
       "num": 166582,
       "word": "第五人格",
@@ -969,6 +1033,14 @@
       "onboard_time": 1728701359,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 163034,
+      "num": 163034,
+      "word": "褚会长愿原价回收漏水迈巴赫",
+      "onboard_time": 1728708682,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 161549,
@@ -1043,12 +1115,28 @@
       "category": "艺人,作品衍生"
     },
     {
+      "raw_hot": 144762,
+      "num": 243951,
+      "word": "时代少年团战至巅峰奇袭战队",
+      "onboard_time": 1728709643,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 141814,
       "num": 492069,
       "word": "天猫双11将于10月14日晚8点开启",
       "onboard_time": 1728705621,
       "rank": 14,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 140462,
+      "num": 238363,
+      "word": "刘宇宁直播说没有活了",
+      "onboard_time": 1728710119,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 135363,
@@ -1363,6 +1451,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 47919,
+      "num": 343987,
+      "word": "重庆通报过期大米重新包装销售事件",
+      "onboard_time": 1728709700,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 47917,
+      "num": 321211,
+      "word": "被买药秒送治好了等药焦虑",
+      "onboard_time": 1728709462,
+      "rank": 18,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 45599,
       "num": 50655,
       "word": "Jennie新歌空降Melon6位",
@@ -1459,6 +1563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 28461,
+      "num": 670833,
+      "word": "最新赏秋地秋日浓度播报来了",
+      "onboard_time": 1728705561,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 26973,
       "num": 80420,
       "word": "赵子健被暂停聘任",
@@ -1472,6 +1584,14 @@
       "word": "被拐女孩说相信会有好的结果",
       "onboard_time": 1728660560,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 21634,
+      "num": 320085,
+      "word": "学习困难门诊一号难求",
+      "onboard_time": 1728710241,
+      "rank": 19,
       "category": "社会新闻"
     },
     {

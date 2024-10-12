@@ -1,0 +1,410 @@
+{
+  "runTime": 1728710457970,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1135630,
+        "num": 1181700,
+        "word": "中央财政已下达就业补助667亿元",
+        "onboard_time": 1728703040,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 829667,
+        "num": 829667,
+        "word": "本专科生国家助学金升至每年3700元",
+        "onboard_time": 1728705141,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 28461,
+        "num": 670833,
+        "word": "最新赏秋地秋日浓度播报来了",
+        "onboard_time": 1728705561,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2526815,
+        "num": 649217,
+        "word": "日本梅毒",
+        "onboard_time": 1728702619,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 524724,
+        "num": 524724,
+        "word": "发行1万亿元超长期特别国债",
+        "onboard_time": 1728704661,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 390754,
+        "num": 390754,
+        "word": "不法分子入侵广东省教育厅短信平台",
+        "onboard_time": 1728701119,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 387242,
+        "num": 387242,
+        "word": "广东省教育厅声明",
+        "onboard_time": 1728702980,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 371861,
+        "num": 371861,
+        "word": "何猷君谈赌王儿子身份标签",
+        "onboard_time": 1728704781,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 344132,
+        "num": 344132,
+        "word": "毛晓彤大拌菜",
+        "onboard_time": 1728707061,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 47919,
+        "num": 343987,
+        "word": "重庆通报过期大米重新包装销售事件",
+        "onboard_time": 1728709700,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1798923,
+        "num": 340521,
+        "word": "听泉鉴宝 盗墓",
+        "onboard_time": 1728706519,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1262055,
+        "num": 337721,
+        "word": "金星解释复婚",
+        "onboard_time": 1728703220,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1190064,
+        "num": 335448,
+        "word": "一家三口被撞身亡车祸细节披露",
+        "onboard_time": 1728703939,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 754715,
+        "num": 334516,
+        "word": "郑钦文VOGUE 不输超模",
+        "onboard_time": 1728707000,
+        "rank": 13,
+        "category": "体育,作品衍生"
+      },
+      {
+        "raw_hot": 28150,
+        "num": 331235,
+        "word": "王楚钦vs林兆恒",
+        "onboard_time": 1728661998,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 381445,
+        "num": 328775,
+        "word": "公诉机关建议判余华英死刑",
+        "onboard_time": 1728705141,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 648511,
+        "num": 326066,
+        "word": "31岁男子闪婚5天后自杀身亡",
+        "onboard_time": 1728694461,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185493,
+        "num": 325101,
+        "word": "危机航线 尺度",
+        "onboard_time": 1728709403,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 47917,
+        "num": 321211,
+        "word": "被买药秒送治好了等药焦虑",
+        "onboard_time": 1728709462,
+        "rank": 18,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 21634,
+        "num": 320085,
+        "word": "学习困难门诊一号难求",
+        "onboard_time": 1728710241,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 643459,
+        "num": 317183,
+        "word": "门前勿停车 杨幂也不行",
+        "onboard_time": 1728709161,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 459831,
+        "num": 314176,
+        "word": "2024年国家奖学金奖励名额将翻倍",
+        "onboard_time": 1728704179,
+        "rank": 21,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 395960,
+        "num": 311429,
+        "word": "樊振东搭档许昕出战男团比赛",
+        "onboard_time": 1728708142,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 311177,
+        "num": 311177,
+        "word": "檀健次经纪人",
+        "onboard_time": 1728688336,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 283044,
+        "num": 283044,
+        "word": "Jessi发文道歉",
+        "onboard_time": 1728702380,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 266183,
+        "num": 266183,
+        "word": "宝妈10分钟超快顺产自己走出产房",
+        "onboard_time": 1728697999,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184422,
+        "num": 257196,
+        "word": "给毕雯珺带抹额的人简直是天才",
+        "onboard_time": 1728706641,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145656,
+        "num": 250574,
+        "word": "春花焰定档了",
+        "onboard_time": 1728699199,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144762,
+        "num": 243951,
+        "word": "时代少年团战至巅峰奇袭战队",
+        "onboard_time": 1728709643,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140462,
+        "num": 238363,
+        "word": "刘宇宁直播说没有活了",
+        "onboard_time": 1728710119,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 229615,
+        "num": 229615,
+        "word": "男生食堂买饭遭阿姨多次无视并赶走",
+        "onboard_time": 1728690078,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231747,
+        "num": 227665,
+        "word": "男子内裤里藏339颗珍珠入境被查",
+        "onboard_time": 1728690078,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225511,
+        "num": 225511,
+        "word": "财政部部长蓝佛安答记者问",
+        "onboard_time": 1728701540,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 222857,
+        "num": 222857,
+        "word": "存量房贷利率10月25日起调整",
+        "onboard_time": 1728697640,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218352,
+        "num": 218352,
+        "word": "杜海涛李佳琦淘汰",
+        "onboard_time": 1728710360,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 215492,
+        "num": 215492,
+        "word": "二线城市30年贷款100万每月可省170元",
+        "onboard_time": 1728698539,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215343,
+        "num": 215343,
+        "word": "郑钦文说在美网被陪练水平气到",
+        "onboard_time": 1728709102,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 209373,
+        "num": 209373,
+        "word": "我选择不去参加十年闺蜜的婚礼",
+        "onboard_time": 1728706641,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 205985,
+        "num": 205985,
+        "word": "美国吹牛老爹名单",
+        "onboard_time": 1728705141,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202081,
+        "num": 202081,
+        "word": "才意识到朋友圈不完全属于自己",
+        "onboard_time": 1728693981,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 194287,
+        "num": 194287,
+        "word": "以色列巴勒斯坦冲突",
+        "onboard_time": 1728699739,
+        "rank": 40,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 184211,
+        "num": 184211,
+        "word": "李发彬的鞋子能承受14个成年人重量",
+        "onboard_time": 1728704361,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 179473,
+        "num": 179473,
+        "word": "成毅 采果果",
+        "onboard_time": 1728708920,
+        "rank": 42,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 179358,
+        "num": 179358,
+        "word": "RIIZE",
+        "onboard_time": 1728710001,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 176124,
+        "num": 176124,
+        "word": "财政部介绍加大逆周期调节力度",
+        "onboard_time": 1728698539,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175637,
+        "num": 175637,
+        "word": "女孩凌晨5点被突然下车的壮汉吓到",
+        "onboard_time": 1728696738,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168070,
+        "num": 168070,
+        "word": "王励勤回应樊振东新周期计划",
+        "onboard_time": 1728710001,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 163034,
+        "num": 163034,
+        "word": "褚会长愿原价回收漏水迈巴赫",
+        "onboard_time": 1728708682,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158992,
+        "num": 158992,
+        "word": "唐氏孩子说要打5份工养爸爸妈妈",
+        "onboard_time": 1728698359,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138450,
+        "num": 158429,
+        "word": "披荆斩棘4五公",
+        "onboard_time": 1728707901,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#人民友好是国际关系行稳致远的基础#"
+    }
+  }
+}

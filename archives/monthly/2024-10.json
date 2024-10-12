@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1728708053796,
+  "endTime": 1728710457970,
   "band_list": [
     {
       "raw_hot": 13027302,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 4273020,
-      "num": 623370,
+      "num": 649217,
       "word": "日本梅毒",
       "onboard_time": 1728702619,
       "rank": 3,
@@ -627,6 +627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1798923,
+      "num": 481941,
+      "word": "听泉鉴宝 盗墓",
+      "onboard_time": 1728706519,
+      "rank": 16,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1782106,
       "num": 1782106,
       "word": "股市",
@@ -864,14 +872,6 @@
       "word": "东北雨姐",
       "onboard_time": 1728537260,
       "rank": 5,
-      "category": "网红"
-    },
-    {
-      "raw_hot": 1574590,
-      "num": 481941,
-      "word": "听泉鉴宝 盗墓",
-      "onboard_time": 1728706519,
-      "rank": 16,
       "category": "网红"
     },
     {
@@ -1497,6 +1497,14 @@
       "onboard_time": 1728176057,
       "rank": 0,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1190064,
+      "num": 487001,
+      "word": "一家三口被撞身亡车祸细节披露",
+      "onboard_time": 1728703939,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1189399,
@@ -2771,14 +2779,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 868978,
-      "num": 487001,
-      "word": "一家三口被撞身亡车祸细节披露",
-      "onboard_time": 1728703939,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 867926,
       "num": 408899,
       "word": "高速堵车 无人机叫醒",
@@ -2993,6 +2993,14 @@
       "onboard_time": 1728132740,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 829667,
+      "num": 829667,
+      "word": "本专科生国家助学金升至每年3700元",
+      "onboard_time": 1728705141,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 828781,
@@ -3513,6 +3521,14 @@
       "onboard_time": 1727769078,
       "rank": 9,
       "category": "电影"
+    },
+    {
+      "raw_hot": 754715,
+      "num": 338446,
+      "word": "郑钦文VOGUE 不输超模",
+      "onboard_time": 1728707000,
+      "rank": 40,
+      "category": "体育,作品衍生"
     },
     {
       "raw_hot": 754412,
@@ -4369,6 +4385,14 @@
       "onboard_time": 1728373701,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 643459,
+      "num": 317183,
+      "word": "门前勿停车 杨幂也不行",
+      "onboard_time": 1728709161,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 643369,
@@ -5265,14 +5289,6 @@
       "onboard_time": 1728286942,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 567203,
-      "num": 338446,
-      "word": "郑钦文VOGUE 不输超模",
-      "onboard_time": 1728707000,
-      "rank": 40,
-      "category": "体育,作品衍生"
     },
     {
       "raw_hot": 566779,
@@ -7723,6 +7739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 395960,
+      "num": 311429,
+      "word": "樊振东搭档许昕出战男团比赛",
+      "onboard_time": 1728708142,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 394582,
       "num": 119908,
       "word": "黎巴嫩遭以色列空袭超15万人逃离",
@@ -8003,6 +8027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 381445,
+      "num": 344890,
+      "word": "公诉机关建议判余华英死刑",
+      "onboard_time": 1728705141,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 381270,
       "num": 381270,
       "word": "国乒男团vs韩国",
@@ -8163,14 +8195,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 373951,
-      "num": 344890,
-      "word": "公诉机关建议判余华英死刑",
-      "onboard_time": 1728705141,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 373737,
       "num": 371732,
       "word": "求中餐厅全员二搭花少教程",
@@ -8241,6 +8265,14 @@
       "onboard_time": 1728094697,
       "rank": 22,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 371861,
+      "num": 371861,
+      "word": "何猷君谈赌王儿子身份标签",
+      "onboard_time": 1728704781,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 371151,
@@ -8827,14 +8859,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 348527,
-      "num": 348527,
-      "word": "何猷君谈赌王儿子身份标签",
-      "onboard_time": 1728704781,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 348148,
       "num": 320415,
       "word": "睡觉时为什么会突然抖一下",
@@ -8883,8 +8907,16 @@
       "category": "电影"
     },
     {
+      "raw_hot": 344132,
+      "num": 344132,
+      "word": "毛晓彤大拌菜",
+      "onboard_time": 1728707061,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 344037,
-      "num": 225342,
+      "num": 331235,
       "word": "王楚钦vs林兆恒",
       "onboard_time": 1728661998,
       "rank": 14,
@@ -10081,14 +10113,6 @@
       "onboard_time": 1728020479,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 300563,
-      "num": 506844,
-      "word": "本专科生国家助学金升至每年3700元",
-      "onboard_time": 1728705141,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 300434,
@@ -14043,6 +14067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 218352,
+      "num": 218352,
+      "word": "杜海涛李佳琦淘汰",
+      "onboard_time": 1728710360,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 218233,
       "num": 218233,
       "word": "徐若晗校服",
@@ -14155,14 +14187,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 216854,
-      "num": 304972,
-      "word": "毛晓彤大拌菜",
-      "onboard_time": 1728707061,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 216803,
       "num": 406705,
       "word": "七夜雪开播",
@@ -14265,6 +14289,14 @@
       "onboard_time": 1728368121,
       "rank": 34,
       "category": "网红"
+    },
+    {
+      "raw_hot": 215343,
+      "num": 215343,
+      "word": "郑钦文说在美网被陪练水平气到",
+      "onboard_time": 1728709102,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 215253,
@@ -17371,6 +17403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 185493,
+      "num": 325101,
+      "word": "危机航线 尺度",
+      "onboard_time": 1728709403,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 185457,
       "num": 185457,
       "word": "存量房贷利率批量调整",
@@ -17969,6 +18009,22 @@
       "onboard_time": 1728303924,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 179473,
+      "num": 179473,
+      "word": "成毅 采果果",
+      "onboard_time": 1728708920,
+      "rank": 42,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 179358,
+      "num": 179358,
+      "word": "RIIZE",
+      "onboard_time": 1728710001,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 179209,
@@ -19155,6 +19211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 168070,
+      "num": 168070,
+      "word": "王励勤回应樊振东新周期计划",
+      "onboard_time": 1728710001,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 168021,
       "num": 165207,
       "word": "TL对战LNG",
@@ -19793,6 +19857,14 @@
       "onboard_time": 1728701359,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 163034,
+      "num": 163034,
+      "word": "褚会长愿原价回收漏水迈巴赫",
+      "onboard_time": 1728708682,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 162909,
@@ -22203,6 +22275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 144762,
+      "num": 243951,
+      "word": "时代少年团战至巅峰奇袭战队",
+      "onboard_time": 1728709643,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 144605,
       "num": 144605,
       "word": "张雨霏看得全神贯注",
@@ -22737,6 +22817,14 @@
       "onboard_time": 1728023658,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 140462,
+      "num": 238363,
+      "word": "刘宇宁直播说没有活了",
+      "onboard_time": 1728710119,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 140289,
@@ -31803,6 +31891,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 47919,
+      "num": 343987,
+      "word": "重庆通报过期大米重新包装销售事件",
+      "onboard_time": 1728709700,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 47917,
+      "num": 321211,
+      "word": "被买药秒送治好了等药焦虑",
+      "onboard_time": 1728709462,
+      "rank": 18,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 47916,
       "num": 47916,
       "word": "父母天安门广场见证儿子升国旗",
@@ -33843,6 +33947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 28461,
+      "num": 670833,
+      "word": "最新赏秋地秋日浓度播报来了",
+      "onboard_time": 1728705561,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 28296,
       "num": 150622,
       "word": "自驾川西遇大量落石众人自发清理",
@@ -34544,6 +34656,14 @@
       "word": "在祖国海岸线搜集1000次日落日出",
       "onboard_time": 1728037220,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 21634,
+      "num": 320085,
+      "word": "学习困难门诊一号难求",
+      "onboard_time": 1728710241,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
