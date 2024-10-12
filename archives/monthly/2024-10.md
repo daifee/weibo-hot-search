@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/10/01 00:28:17 ~ 2024/10/12 17:22:47
+本榜单时间：2024/10/01 00:28:17 ~ 2024/10/12 17:36:05
 </p>
 </blockquote>
 <p>
@@ -2355,6 +2355,12 @@ aespa（热度：832836）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%88%E5%B7%B4%E8%B5%AB%E7%BB%8F%E9%94%80%E5%95%86%E5%9B%9E%E5%BA%94%E6%96%B0%E8%BD%A6%E6%BC%8F%E6%B0%B4%23" target="weibo">
+迈巴赫经销商回应新车漏水（热度：827681）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%234%E5%A4%A9%E5%A4%A7%E6%96%B0%E7%94%9F%E5%84%BF%E5%8C%BB%E9%99%A2%E7%85%A7%E8%93%9D%E5%85%89%E6%9C%9F%E9%97%B4%E6%AD%BB%E4%BA%A1%23" target="weibo">
 4天大新生儿医院照蓝光期间死亡（热度：825647）
 </a>
@@ -3087,6 +3093,12 @@ SM确认洪承汉不退团（热度：728564）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%84%BF%E5%AD%90%E7%94%A8%E7%88%B6%E4%BA%B2%E7%9A%84%E6%97%A7%E6%89%8B%E6%9C%BA%E6%B6%88%E8%B4%B9%E4%BA%86%E5%8D%81%E5%A4%9A%E4%B8%87%23" target="weibo">
+儿子用父亲的旧手机消费了十多万（热度：688154）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%8F%8C%23" target="weibo">
 男双（热度：687814）
 </a>
@@ -3635,12 +3647,6 @@ A股逼近涨停开盘（热度：621552）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%B8%80%E6%A1%90cos%E9%BB%91%E5%AF%A1%E5%A6%87%23" target="weibo">
 李一桐cos黑寡妇（热度：619041）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%88%E5%B7%B4%E8%B5%AB%E7%BB%8F%E9%94%80%E5%95%86%E5%9B%9E%E5%BA%94%E6%96%B0%E8%BD%A6%E6%BC%8F%E6%B0%B4%23" target="weibo">
-迈巴赫经销商回应新车漏水（热度：617909）
 </a>
 </li>
 
@@ -4743,6 +4749,12 @@ GEN对战WBG（热度：516314）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%97%B5%E5%A1%94%E9%B2%A8%E5%AE%A1%E7%BE%8E%23" target="weibo">
+闵塔鲨审美（热度：494675）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%8E%E6%AD%A3%E7%AD%BE%E7%9A%84%E6%96%B0%E4%BA%BA%E6%98%AF%E5%BC%A0%E7%9F%B3%E5%A4%B4%23" target="weibo">
 于正签的新人是张石头（热度：494537）
 </a>
@@ -4961,12 +4973,6 @@ GEN对战WBG（热度：516314）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94%E5%AD%A6%E7%94%9F%E4%B8%BE%E6%8A%A5%E8%A1%A5%E8%AF%BE%E8%A2%AB%E6%80%BC%23" target="weibo">
 教育局回应学生举报补课被怼（热度：476259）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%97%B5%E5%A1%94%E9%B2%A8%E5%AE%A1%E7%BE%8E%23" target="weibo">
-闵塔鲨审美（热度：476193）
 </a>
 </li>
 
@@ -5375,12 +5381,6 @@ A股半小时成交破万亿（热度：455160）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A5%96%E5%9B%BD%E4%B8%87%E5%B2%81%23" target="weibo">
 祖国万岁（热度：444533）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%84%BF%E5%AD%90%E7%94%A8%E7%88%B6%E4%BA%B2%E7%9A%84%E6%97%A7%E6%89%8B%E6%9C%BA%E6%B6%88%E8%B4%B9%E4%BA%86%E5%8D%81%E5%A4%9A%E4%B8%87%23" target="weibo">
-儿子用父亲的旧手机消费了十多万（热度：443994）
 </a>
 </li>
 

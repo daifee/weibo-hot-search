@@ -1,6 +1,6 @@
 {
   "startTime": 1728145573126,
-  "endTime": 1728724967750,
+  "endTime": 1728725765306,
   "band_list": [
     {
       "raw_hot": 13027302,
@@ -2203,6 +2203,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 827681,
+      "num": 320483,
+      "word": "迈巴赫经销商回应新车漏水",
+      "onboard_time": 1728720982,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 825647,
       "num": 522271,
       "word": "4天大新生儿医院照蓝光期间死亡",
@@ -2779,6 +2787,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 688154,
+      "num": 333498,
+      "word": "儿子用父亲的旧手机消费了十多万",
+      "onboard_time": 1728720741,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 687814,
       "num": 687814,
       "word": "男双",
@@ -3201,14 +3217,6 @@
       "onboard_time": 1728213260,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 617909,
-      "num": 320483,
-      "word": "迈巴赫经销商回应新车漏水",
-      "onboard_time": 1728720982,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 616424,
@@ -4019,6 +4027,14 @@
       "category": "作品衍生,幽默"
     },
     {
+      "raw_hot": 494675,
+      "num": 317144,
+      "word": "闵塔鲨审美",
+      "onboard_time": 1728723379,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 494537,
       "num": 902164,
       "word": "于正签的新人是张石头",
@@ -4201,14 +4217,6 @@
       "onboard_time": 1728476059,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 476193,
-      "num": 317144,
-      "word": "闵塔鲨审美",
-      "onboard_time": 1728723379,
-      "rank": 21,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 474658,
@@ -4553,14 +4561,6 @@
       "onboard_time": 1728559342,
       "rank": 22,
       "category": "读书作家"
-    },
-    {
-      "raw_hot": 443994,
-      "num": 333498,
-      "word": "儿子用父亲的旧手机消费了十多万",
-      "onboard_time": 1728720741,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 443688,
@@ -5971,6 +5971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 342310,
+      "num": 310377,
+      "word": "周震南给周柯宇从A班降到F班",
+      "onboard_time": 1728721460,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 342294,
       "num": 342294,
       "word": "恋与深空新谷",
@@ -6057,6 +6065,14 @@
       "onboard_time": 1728195318,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 337239,
+      "num": 337239,
+      "word": "4S店称迈巴赫漏水已锁定具体问题点",
+      "onboard_time": 1728722660,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 337160,
@@ -6547,14 +6563,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 308990,
-      "num": 310377,
-      "word": "周震南给周柯宇从A班降到F班",
-      "onboard_time": 1728721460,
-      "rank": 49,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 308427,
       "num": 245942,
       "word": "鬼火少年集体炸街警方抓捕制止",
@@ -6945,6 +6953,14 @@
       "onboard_time": 1728640641,
       "rank": 21,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 292290,
+      "num": 274053,
+      "word": "张元英百美第一",
+      "onboard_time": 1728724400,
+      "rank": 30,
+      "category": "音乐"
     },
     {
       "raw_hot": 291319,
@@ -7379,14 +7395,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 274053,
-      "num": 274053,
-      "word": "张元英百美第一",
-      "onboard_time": 1728724400,
-      "rank": 30,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 273633,
       "num": 273633,
       "word": "钱天一晒和马龙合影",
@@ -7800,6 +7808,14 @@
       "word": "今年最值得期待的彗星要来了",
       "onboard_time": 1728543079,
       "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 260311,
+      "num": 260311,
+      "word": "男子滞留哀牢山2天1夜获救",
+      "onboard_time": 1728722959,
+      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -8408,14 +8424,6 @@
       "word": "节后A股开市将怎么走",
       "onboard_time": 1728274038,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 239302,
-      "num": 239302,
-      "word": "男子滞留哀牢山2天1夜获救",
-      "onboard_time": 1728722959,
-      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -9145,6 +9153,14 @@
       "onboard_time": 1728522618,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 218204,
+      "num": 218204,
+      "word": "Faker正在接受治疗",
+      "onboard_time": 1728725299,
+      "rank": 37,
+      "category": "电竞"
     },
     {
       "raw_hot": 218167,
@@ -10811,6 +10827,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 192308,
+      "num": 192308,
+      "word": "彗星",
+      "onboard_time": 1728723920,
+      "rank": 41,
+      "category": "自然"
+    },
+    {
       "raw_hot": 192235,
       "num": 862303,
       "word": "能生成人裸照的性犯罪从韩国开始泛滥",
@@ -11079,6 +11103,14 @@
       "num": 221794,
       "word": "严打隔空猥亵等网上恶性违法犯罪行为",
       "onboard_time": 1728466100,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 188411,
+      "num": 288846,
+      "word": "理记举报江秋莲诈骗濒死五保户财产",
+      "onboard_time": 1728724279,
       "rank": 40,
       "category": "社会新闻"
     },
@@ -11553,14 +11585,6 @@
       "onboard_time": 1728553459,
       "rank": 42,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 180894,
-      "num": 180894,
-      "word": "理记举报江秋莲诈骗濒死五保户财产",
-      "onboard_time": 1728724279,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 180805,
@@ -12195,14 +12219,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 170731,
-      "num": 170731,
-      "word": "彗星",
-      "onboard_time": 1728723920,
-      "rank": 41,
-      "category": "自然"
-    },
-    {
       "raw_hot": 170703,
       "num": 292530,
       "word": "火车票买短乘长或被劝导下车",
@@ -12811,6 +12827,14 @@
       "category": "综艺,电竞"
     },
     {
+      "raw_hot": 162596,
+      "num": 162596,
+      "word": "SEVENTEEN演唱会",
+      "onboard_time": 1728725659,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 162500,
       "num": 431572,
       "word": "A股巨震之后股民怎么办",
@@ -12849,6 +12873,14 @@
       "onboard_time": 1728272959,
       "rank": 29,
       "category": "美食"
+    },
+    {
+      "raw_hot": 161848,
+      "num": 161848,
+      "word": "鸿蒙版微信正式上架",
+      "onboard_time": 1728725360,
+      "rank": 48,
+      "category": "互联网,数码"
     },
     {
       "raw_hot": 161789,
@@ -14451,14 +14483,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 143129,
-      "num": 327328,
-      "word": "4S店称迈巴赫漏水已锁定具体问题点",
-      "onboard_time": 1728722660,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 143114,
       "num": 143114,
       "word": "杨幂密室独自开朗",
@@ -15041,6 +15065,14 @@
       "onboard_time": 1728258075,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 134686,
+      "num": 298579,
+      "word": "漏水迈巴赫经销商发声明",
+      "onboard_time": 1728724999,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 134482,
@@ -16401,6 +16433,14 @@
       "onboard_time": 1728275719,
       "rank": 33,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 111862,
+      "num": 192898,
+      "word": "电影绑架游戏",
+      "onboard_time": 1728724999,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 111840,
@@ -17915,6 +17955,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 78546,
+      "num": 321910,
+      "word": "徐志胜卖羽绒服一定是销冠",
+      "onboard_time": 1728722719,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 78514,
       "num": 78514,
       "word": "新迈巴赫漏水被4S店大规模拆解",
@@ -18081,6 +18129,14 @@
       "onboard_time": 1728433879,
       "rank": 14,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 72940,
+      "num": 322637,
+      "word": "年轻人开始养黏菌当宠物",
+      "onboard_time": 1728724099,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 72830,
@@ -18339,6 +18395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 63824,
+      "num": 319737,
+      "word": "锦绣安宁微博追剧团",
+      "onboard_time": 1728724639,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 63702,
       "num": 144055,
       "word": "航天员在太空拍到祖国山川比的心",
@@ -18385,14 +18449,6 @@
       "onboard_time": 1728716478,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 62944,
-      "num": 321910,
-      "word": "徐志胜卖羽绒服一定是销冠",
-      "onboard_time": 1728722719,
-      "rank": 15,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 62940,
@@ -18601,6 +18657,14 @@
       "onboard_time": 1728136941,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 57950,
+      "num": 305444,
+      "word": "未经批准复制馆藏文物违法",
+      "onboard_time": 1728725178,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 57941,
@@ -18819,14 +18883,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 53191,
-      "num": 322637,
-      "word": "年轻人开始养黏菌当宠物",
-      "onboard_time": 1728724099,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 53073,
       "num": 429610,
       "word": "收好这份返程行车安全锦囊",
@@ -18889,14 +18945,6 @@
       "onboard_time": 1728392840,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 51569,
-      "num": 319737,
-      "word": "锦绣安宁微博追剧团",
-      "onboard_time": 1728724639,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 51499,
@@ -19803,6 +19851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 36175,
+      "num": 280249,
+      "word": "何小鹏称P7+全系标配改变买车习惯",
+      "onboard_time": 1728724639,
+      "rank": 35,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 35809,
       "num": 210139,
       "word": "你会给自己买保险么",
@@ -20363,14 +20419,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 29673,
-      "num": 225431,
-      "word": "何小鹏称P7+全系标配改变买车习惯",
-      "onboard_time": 1728724639,
-      "rank": 35,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 29549,
       "num": 29549,
       "word": "这些话句句都是爱国情",
@@ -20401,6 +20449,14 @@
       "onboard_time": 1728288982,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 29074,
+      "num": 271403,
+      "word": "萨巴伦卡vs高芙",
+      "onboard_time": 1728725539,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 28922,
