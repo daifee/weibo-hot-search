@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/10/13 00:26:54 ~ 2024/10/13 02:27:41
+本榜单时间：2024/10/13 00:26:54 ~ 2024/10/13 02:41:16
 </p>
 </blockquote>
 <p>
@@ -381,20 +381,32 @@ WBG对战FNC（热度：56613）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E5%AF%9F%E5%8A%9E%E6%A1%88%E8%A2%AB%E6%9B%9D%E6%94%B6%E5%BD%93%E4%BA%8B%E4%BA%BA3000%E5%85%83%E5%B7%AE%E6%97%85%E8%B4%B9%23" target="weibo">
+警察办案被曝收当事人3000元差旅费（热度：32009）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%B8%AA%E7%9C%9F%E8%99%8E%E4%B8%80%E4%B8%AA%E7%9C%9F%E6%98%AF%E8%99%8E%23" target="weibo">
 一个真虎一个真是虎（热度：29886）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%2311%E4%B8%AA%E6%9C%88%E5%A4%A7%E5%A4%B1%E8%81%AA%E5%AE%9D%E5%AE%9D%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%90%AC%E5%88%B0%E5%A3%B0%E9%9F%B3%23" target="weibo">
-11个月大失聪宝宝第一次听到声音（热度：20395）
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%80%E9%83%8E%20%E5%8D%97%E4%BA%AC%23" target="weibo">
+刀郎 南京（热度：27342）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E5%AF%9F%E5%8A%9E%E6%A1%88%E8%A2%AB%E6%9B%9D%E6%94%B6%E5%BD%93%E4%BA%8B%E4%BA%BA3000%E5%85%83%E5%B7%AE%E6%97%85%E8%B4%B9%23" target="weibo">
-警察办案被曝收当事人3000元差旅费（热度：18686）
+<a href="https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E4%B8%80%E4%B8%AD%E5%AD%A6%E9%80%9A%E6%8A%A5%E9%AB%98%E4%B8%89%E5%AD%A6%E7%94%9F%E6%99%95%E5%80%92%E7%8C%9D%E6%AD%BB%23" target="weibo">
+河南一中学通报高三学生晕倒猝死（热度：25292）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%2311%E4%B8%AA%E6%9C%88%E5%A4%A7%E5%A4%B1%E8%81%AA%E5%AE%9D%E5%AE%9D%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%90%AC%E5%88%B0%E5%A3%B0%E9%9F%B3%23" target="weibo">
+11个月大失聪宝宝第一次听到声音（热度：24667）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1728750414717,
-  "endTime": 1728757661660,
+  "endTime": 1728758476689,
   "band_list": [
     {
       "raw_hot": 1419674,
@@ -491,6 +491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 32009,
+      "num": 84531,
+      "word": "警察办案被曝收当事人3000元差旅费",
+      "onboard_time": 1728756913,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 29886,
       "num": 40991,
       "word": "一个真虎一个真是虎",
@@ -499,19 +507,27 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 20395,
+      "raw_hot": 27342,
+      "num": 37124,
+      "word": "刀郎 南京",
+      "onboard_time": 1728756672,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 25292,
+      "num": 37100,
+      "word": "河南一中学通报高三学生晕倒猝死",
+      "onboard_time": 1728757933,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 24667,
       "num": 52460,
       "word": "11个月大失聪宝宝第一次听到声音",
       "onboard_time": 1728756373,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 18686,
-      "num": 81260,
-      "word": "警察办案被曝收当事人3000元差旅费",
-      "onboard_time": 1728756913,
-      "rank": 15,
       "category": "社会新闻"
     },
     {
