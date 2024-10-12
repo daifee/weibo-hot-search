@@ -1,7 +1,15 @@
 {
   "startTime": 1728664067735,
-  "endTime": 1728701997206,
+  "endTime": 1728703529185,
   "band_list": [
+    {
+      "raw_hot": 3808258,
+      "num": 535600,
+      "word": "日本梅毒",
+      "onboard_time": 1728702619,
+      "rank": 3,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 1696810,
       "num": 514181,
@@ -67,6 +75,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 760522,
+      "num": 587740,
+      "word": "宝妈10分钟超快顺产自己走出产房",
+      "onboard_time": 1728697999,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 744484,
       "num": 812329,
       "word": "付鹏称现在对于居民部门就干三件事",
@@ -113,14 +129,6 @@
       "onboard_time": 1728693562,
       "rank": 1,
       "category": "财经,汽车"
-    },
-    {
-      "raw_hot": 587740,
-      "num": 587740,
-      "word": "宝妈10分钟超快顺产自己走出产房",
-      "onboard_time": 1728697999,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 583418,
@@ -187,12 +195,28 @@
       "category": "网红"
     },
     {
+      "raw_hot": 517781,
+      "num": 517781,
+      "word": "财政部部长蓝佛安答记者问",
+      "onboard_time": 1728701540,
+      "rank": 24,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 516198,
       "num": 444566,
       "word": "大胖媳妇对老人惯孩子的绝地反击",
       "onboard_time": 1728697580,
       "rank": 35,
       "category": "网红"
+    },
+    {
+      "raw_hot": 506398,
+      "num": 506398,
+      "word": "不法分子入侵广东省教育厅短信平台",
+      "onboard_time": 1728701119,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 472611,
@@ -225,6 +249,14 @@
       "onboard_time": 1728690799,
       "rank": 4,
       "category": "电影"
+    },
+    {
+      "raw_hot": 450557,
+      "num": 418065,
+      "word": "Jessi发文道歉",
+      "onboard_time": 1728702380,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 443121,
@@ -315,14 +347,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 308532,
-      "num": 308532,
-      "word": "不法分子入侵广东省教育厅短信平台",
-      "onboard_time": 1728701119,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 299463,
       "num": 180146,
       "word": "理记回应实名举报江秋莲骗捐8年",
@@ -347,14 +371,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 289662,
-      "num": 289662,
-      "word": "财政部部长蓝佛安答记者问",
-      "onboard_time": 1728701540,
-      "rank": 24,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 288879,
       "num": 288879,
       "word": "张学友称呼倪夏莲为倪妹妹",
@@ -369,6 +385,30 @@
       "onboard_time": 1728658521,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 273480,
+      "num": 273480,
+      "word": "发布会财政部一正三副负责人到场",
+      "onboard_time": 1728701599,
+      "rank": 47,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 268574,
+      "num": 268574,
+      "word": "王者荣耀共创之夜",
+      "onboard_time": 1728701839,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 264061,
+      "num": 264061,
+      "word": "中央财政已下达就业补助667亿元",
+      "onboard_time": 1728703040,
+      "rank": 30,
+      "category": "国内时政"
     },
     {
       "raw_hot": 262456,
@@ -387,11 +427,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 248196,
+      "num": 312587,
+      "word": "春花厌改名",
+      "onboard_time": 1728701960,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 248188,
       "num": 159824,
       "word": "4天大新生儿医院照蓝光期间死亡",
       "onboard_time": 1728648740,
       "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 243332,
+      "num": 243332,
+      "word": "唐氏孩子说要打5份工养爸爸妈妈",
+      "onboard_time": 1728698359,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -401,6 +457,14 @@
       "onboard_time": 1728691640,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 236915,
+      "num": 236915,
+      "word": "支持推动房地产止跌回稳",
+      "onboard_time": 1728702739,
+      "rank": 33,
+      "category": "财经"
     },
     {
       "raw_hot": 235119,
@@ -435,6 +499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 222559,
+      "num": 281595,
+      "word": "近年支持化债力度最大的措施将出台",
+      "onboard_time": 1728702980,
+      "rank": 23,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 219885,
       "num": 219885,
       "word": "樊振东下意识的趴下和吹球",
@@ -443,7 +515,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 216751,
+      "raw_hot": 218309,
       "num": 521873,
       "word": "中央财政还有较大的举债空间",
       "onboard_time": 1728701119,
@@ -467,6 +539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 212452,
+      "num": 456484,
+      "word": "十个勤天彩胶",
+      "onboard_time": 1728699680,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 211778,
       "num": 211778,
       "word": "A股今天休市",
@@ -481,14 +561,6 @@
       "onboard_time": 1728699438,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 205600,
-      "num": 205600,
-      "word": "唐氏孩子说要打5份工养爸爸妈妈",
-      "onboard_time": 1728698359,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 205336,
@@ -515,12 +587,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 198261,
-      "num": 198261,
+      "raw_hot": 202002,
+      "num": 202002,
+      "word": "广东省教育厅声明",
+      "onboard_time": 1728702980,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 201289,
+      "num": 201289,
       "word": "财政部近期将推出一揽子增量政策",
       "onboard_time": 1728701540,
       "rank": 33,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 198229,
+      "num": 266229,
+      "word": "战至巅峰",
+      "onboard_time": 1728702619,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 197679,
@@ -537,6 +625,14 @@
       "onboard_time": 1728700999,
       "rank": 35,
       "category": "财经"
+    },
+    {
+      "raw_hot": 194295,
+      "num": 194295,
+      "word": "KATO代言人",
+      "onboard_time": 1728702920,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 191058,
@@ -577,14 +673,6 @@
       "onboard_time": 1728684971,
       "rank": 27,
       "category": "电影"
-    },
-    {
-      "raw_hot": 183029,
-      "num": 244373,
-      "word": "十个勤天彩胶",
-      "onboard_time": 1728699680,
-      "rank": 28,
-      "category": "音乐"
     },
     {
       "raw_hot": 180223,
@@ -635,14 +723,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 170644,
-      "num": 170644,
-      "word": "王者荣耀共创之夜",
-      "onboard_time": 1728701839,
-      "rank": 39,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 168537,
       "num": 168537,
       "word": "杨紫杂志",
@@ -673,14 +753,6 @@
       "onboard_time": 1728659182,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 160160,
-      "num": 160160,
-      "word": "春花厌改名",
-      "onboard_time": 1728701960,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 159235,
@@ -715,12 +787,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 147928,
-      "num": 147928,
-      "word": "发布会财政部一正三副负责人到场",
-      "onboard_time": 1728701599,
+      "raw_hot": 150780,
+      "num": 150780,
+      "word": "向佐 猫系",
+      "onboard_time": 1728703102,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 150510,
+      "num": 150510,
+      "word": "中国410名赴黎维和官兵报平安",
+      "onboard_time": 1728700879,
       "rank": 47,
-      "category": "国内时政"
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 149804,
+      "num": 220882,
+      "word": "高敏感的小孩有多辛苦",
+      "onboard_time": 1728703340,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 145947,
@@ -763,20 +851,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 131832,
-      "num": 131832,
-      "word": "中国410名赴黎维和官兵报平安",
-      "onboard_time": 1728700879,
-      "rank": 47,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 126929,
       "num": 126929,
       "word": "现在就出发",
       "onboard_time": 1728699019,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 120663,
+      "num": 133056,
+      "word": "这默契度不是兄妹就是夫妻",
+      "onboard_time": 1728702079,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 116949,
@@ -1011,6 +1099,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 55799,
+      "num": 306046,
+      "word": "一所重点中学的心理自救",
+      "onboard_time": 1728702259,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 51016,
       "num": 137233,
       "word": "刘力扬回应于公于私于情于理",
@@ -1099,6 +1195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 34672,
+      "num": 149504,
+      "word": "车圈下一个恒大是谁",
+      "onboard_time": 1728703401,
+      "rank": 44,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 30551,
       "num": 30551,
       "word": "动画还原杨妞花被拐案",
@@ -1177,6 +1281,14 @@
       "onboard_time": 1728677531,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 17075,
+      "num": 306729,
+      "word": "金星解释复婚",
+      "onboard_time": 1728703220,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 15109,

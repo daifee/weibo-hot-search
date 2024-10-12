@@ -1,0 +1,410 @@
+{
+  "runTime": 1728703529185,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 661656,
+        "num": 1121849,
+        "word": "国新办举行新闻发布会",
+        "onboard_time": 1728696500,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 615818,
+        "num": 615818,
+        "word": "财政部介绍加大逆周期调节力度",
+        "onboard_time": 1728698539,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 5730,
+        "num": 537490,
+        "word": "文化中国行看曼德拉山岩画",
+        "onboard_time": 1728650960,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3808258,
+        "num": 535600,
+        "word": "日本梅毒",
+        "onboard_time": 1728702619,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 517781,
+        "num": 517781,
+        "word": "财政部部长蓝佛安答记者问",
+        "onboard_time": 1728701540,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 506398,
+        "num": 506398,
+        "word": "不法分子入侵广东省教育厅短信平台",
+        "onboard_time": 1728701119,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 502103,
+        "num": 502103,
+        "word": "春花焰定档了",
+        "onboard_time": 1728699199,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 501157,
+        "num": 501157,
+        "word": "存量房贷利率10月25日起调整",
+        "onboard_time": 1728697640,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 456828,
+        "num": 456828,
+        "word": "央视曝光免费注射干细胞骗局",
+        "onboard_time": 1728685152,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212452,
+        "num": 456484,
+        "word": "十个勤天彩胶",
+        "onboard_time": 1728699680,
+        "rank": 9,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1091678,
+        "num": 442862,
+        "word": "31岁男子闪婚5天后自杀身亡",
+        "onboard_time": 1728694461,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 651547,
+        "num": 426834,
+        "word": "檀健次经纪人",
+        "onboard_time": 1728688336,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 450557,
+        "num": 418065,
+        "word": "Jessi发文道歉",
+        "onboard_time": 1728702380,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 546141,
+        "num": 401221,
+        "word": "拿800万元托人炒股损失267万元",
+        "onboard_time": 1728695540,
+        "rank": 13,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 466498,
+        "num": 397333,
+        "word": "男生食堂买饭遭阿姨多次无视并赶走",
+        "onboard_time": 1728690078,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 389666,
+        "num": 389666,
+        "word": "二线城市30年贷款100万每月可省170元",
+        "onboard_time": 1728698539,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 316635,
+        "num": 316635,
+        "word": "大胖媳妇对老人惯孩子的绝地反击",
+        "onboard_time": 1728697580,
+        "rank": 16,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 248196,
+        "num": 312587,
+        "word": "春花厌改名",
+        "onboard_time": 1728701960,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17075,
+        "num": 306729,
+        "word": "金星解释复婚",
+        "onboard_time": 1728703220,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 55799,
+        "num": 306046,
+        "word": "一所重点中学的心理自救",
+        "onboard_time": 1728702259,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 760522,
+        "num": 300146,
+        "word": "宝妈10分钟超快顺产自己走出产房",
+        "onboard_time": 1728697999,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218309,
+        "num": 293561,
+        "word": "中央财政还有较大的举债空间",
+        "onboard_time": 1728701119,
+        "rank": 21,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 752915,
+        "num": 286864,
+        "word": "女孩凌晨5点被突然下车的壮汉吓到",
+        "onboard_time": 1728696738,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222559,
+        "num": 281595,
+        "word": "近年支持化债力度最大的措施将出台",
+        "onboard_time": 1728702980,
+        "rank": 23,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 360719,
+        "num": 280501,
+        "word": "男子内裤里藏339颗珍珠入境被查",
+        "onboard_time": 1728690078,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 275827,
+        "num": 275827,
+        "word": "才意识到朋友圈不完全属于自己",
+        "onboard_time": 1728693981,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 204192,
+        "num": 273519,
+        "word": "参演过热辣滚烫的都瘦了",
+        "onboard_time": 1728690799,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 273480,
+        "num": 273480,
+        "word": "发布会财政部一正三副负责人到场",
+        "onboard_time": 1728701599,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 268574,
+        "num": 268574,
+        "word": "王者荣耀共创之夜",
+        "onboard_time": 1728701839,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 198229,
+        "num": 266229,
+        "word": "战至巅峰",
+        "onboard_time": 1728702619,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 264061,
+        "num": 264061,
+        "word": "中央财政已下达就业补助667亿元",
+        "onboard_time": 1728703040,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 258230,
+        "num": 258230,
+        "word": "以色列巴勒斯坦冲突",
+        "onboard_time": 1728699739,
+        "rank": 31,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 243332,
+        "num": 243332,
+        "word": "唐氏孩子说要打5份工养爸爸妈妈",
+        "onboard_time": 1728698359,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236915,
+        "num": 236915,
+        "word": "支持推动房地产止跌回稳",
+        "onboard_time": 1728702739,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 149804,
+        "num": 220882,
+        "word": "高敏感的小孩有多辛苦",
+        "onboard_time": 1728703340,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 220729,
+        "num": 220729,
+        "word": "Jennie生图",
+        "onboard_time": 1728692059,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 211444,
+        "num": 211444,
+        "word": "骑行男孩身亡案司机已回家",
+        "onboard_time": 1728697399,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202002,
+        "num": 202002,
+        "word": "广东省教育厅声明",
+        "onboard_time": 1728702980,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201289,
+        "num": 201289,
+        "word": "财政部近期将推出一揽子增量政策",
+        "onboard_time": 1728701540,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 194295,
+        "num": 194295,
+        "word": "KATO代言人",
+        "onboard_time": 1728702920,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188080,
+        "num": 188080,
+        "word": "江秋莲",
+        "onboard_time": 1728690980,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160264,
+        "num": 160264,
+        "word": "蒯曼",
+        "onboard_time": 1728693081,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 150780,
+        "num": 150780,
+        "word": "向佐 猫系",
+        "onboard_time": 1728703102,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 150510,
+        "num": 150510,
+        "word": "中国410名赴黎维和官兵报平安",
+        "onboard_time": 1728700879,
+        "rank": 43,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 34672,
+        "num": 149504,
+        "word": "车圈下一个恒大是谁",
+        "onboard_time": 1728703401,
+        "rank": 44,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 149437,
+        "num": 149437,
+        "word": "樊振东下意识的趴下和吹球",
+        "onboard_time": 1728689957,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 147999,
+        "num": 147999,
+        "word": "A股今天休市",
+        "onboard_time": 1728699379,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 143842,
+        "num": 143842,
+        "word": "特斯拉市值一夜蒸发超4700亿",
+        "onboard_time": 1728693562,
+        "rank": 47,
+        "category": "财经,汽车"
+      },
+      {
+        "raw_hot": 133977,
+        "num": 133977,
+        "word": "打着免费注射神药的旗号敛财1亿多",
+        "onboard_time": 1728682513,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120663,
+        "num": 133056,
+        "word": "这默契度不是兄妹就是夫妻",
+        "onboard_time": 1728702079,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#重阳节重温总书记敬老爱老暖心话#"
+    }
+  }
+}

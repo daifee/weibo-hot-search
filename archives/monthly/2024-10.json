@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1728701997206,
+  "endTime": 1728703529185,
   "band_list": [
     {
       "raw_hot": 13027302,
@@ -81,6 +81,14 @@
       "onboard_time": 1727789425,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 3808258,
+      "num": 535600,
+      "word": "日本梅毒",
+      "onboard_time": 1728702619,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 3580252,
@@ -3403,6 +3411,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 760522,
+      "num": 587740,
+      "word": "宝妈10分钟超快顺产自己走出产房",
+      "onboard_time": 1728697999,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 758844,
       "num": 758844,
       "word": "中国坚定支持联合国秘书长工作",
@@ -4923,14 +4939,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 587740,
-      "num": 587740,
-      "word": "宝妈10分钟超快顺产自己走出产房",
-      "onboard_time": 1728697999,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 587183,
       "num": 244768,
       "word": "姜潮承诺为麦迪娜补办婚礼",
@@ -5787,6 +5795,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 517781,
+      "num": 517781,
+      "word": "财政部部长蓝佛安答记者问",
+      "onboard_time": 1728701540,
+      "rank": 24,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 517504,
       "num": 439956,
       "word": "伊朗袭击以色列前检查导弹画面首公开",
@@ -5912,6 +5928,14 @@
       "word": "韩国政府每周进口200吨中国大白菜",
       "onboard_time": 1728524597,
       "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 506398,
+      "num": 506398,
+      "word": "不法分子入侵广东省教育厅短信平台",
+      "onboard_time": 1728701119,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -6801,6 +6825,14 @@
       "onboard_time": 1728178758,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 450557,
+      "num": 418065,
+      "word": "Jessi发文道歉",
+      "onboard_time": 1728702380,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 450377,
@@ -9739,14 +9771,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 308532,
-      "num": 308532,
-      "word": "不法分子入侵广东省教育厅短信平台",
-      "onboard_time": 1728701119,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 308427,
       "num": 245942,
       "word": "鬼火少年集体炸街警方抓捕制止",
@@ -10401,14 +10425,6 @@
       "onboard_time": 1728622402,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 289662,
-      "num": 289662,
-      "word": "财政部部长蓝佛安答记者问",
-      "onboard_time": 1728701540,
-      "rank": 24,
-      "category": "国内时政"
     },
     {
       "raw_hot": 289629,
@@ -11115,6 +11131,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 273480,
+      "num": 273480,
+      "word": "发布会财政部一正三副负责人到场",
+      "onboard_time": 1728701599,
+      "rank": 47,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 273320,
       "num": 273320,
       "word": "女子取消预订酒店被扣1000多元",
@@ -11297,6 +11321,14 @@
       "onboard_time": 1728648499,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 268574,
+      "num": 268574,
+      "word": "王者荣耀共创之夜",
+      "onboard_time": 1728701839,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 268571,
@@ -11513,6 +11545,14 @@
       "onboard_time": 1728136459,
       "rank": 21,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 264061,
+      "num": 264061,
+      "word": "中央财政已下达就业补助667亿元",
+      "onboard_time": 1728703040,
+      "rank": 30,
+      "category": "国内时政"
     },
     {
       "raw_hot": 264055,
@@ -12187,6 +12227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 248196,
+      "num": 312587,
+      "word": "春花厌改名",
+      "onboard_time": 1728701960,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 247997,
       "num": 247997,
       "word": "BLG对战LNG",
@@ -12401,6 +12449,14 @@
       "onboard_time": 1728384922,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 243332,
+      "num": 243332,
+      "word": "唐氏孩子说要打5份工养爸爸妈妈",
+      "onboard_time": 1728698359,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 243223,
@@ -12729,6 +12785,14 @@
       "onboard_time": 1728008238,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 236915,
+      "num": 236915,
+      "word": "支持推动房地产止跌回稳",
+      "onboard_time": 1728702739,
+      "rank": 33,
+      "category": "财经"
     },
     {
       "raw_hot": 236864,
@@ -13499,6 +13563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 222559,
+      "num": 281595,
+      "word": "近年支持化债力度最大的措施将出台",
+      "onboard_time": 1728702980,
+      "rank": 23,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 222536,
       "num": 230227,
       "word": "张远说爱情需要反证",
@@ -13795,6 +13867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 218309,
+      "num": 521873,
+      "word": "中央财政还有较大的举债空间",
+      "onboard_time": 1728701119,
+      "rank": 37,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 218233,
       "num": 218233,
       "word": "徐若晗校服",
@@ -13913,14 +13993,6 @@
       "onboard_time": 1728440119,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 216751,
-      "num": 521873,
-      "word": "中央财政还有较大的举债空间",
-      "onboard_time": 1728701119,
-      "rank": 37,
-      "category": "国内时政"
     },
     {
       "raw_hot": 216640,
@@ -14185,6 +14257,14 @@
       "onboard_time": 1728624619,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 212452,
+      "num": 456484,
+      "word": "十个勤天彩胶",
+      "onboard_time": 1728699680,
+      "rank": 28,
+      "category": "音乐"
     },
     {
       "raw_hot": 212320,
@@ -14707,14 +14787,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 205600,
-      "num": 205600,
-      "word": "唐氏孩子说要打5份工养爸爸妈妈",
-      "onboard_time": 1728698359,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 205584,
       "num": 205584,
       "word": "刺痛健身vlog",
@@ -15115,6 +15187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 202002,
+      "num": 202002,
+      "word": "广东省教育厅声明",
+      "onboard_time": 1728702980,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 201743,
       "num": 201743,
       "word": "海康威视",
@@ -15169,6 +15249,14 @@
       "onboard_time": 1728048259,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 201289,
+      "num": 201289,
+      "word": "财政部近期将推出一揽子增量政策",
+      "onboard_time": 1728701540,
+      "rank": 33,
+      "category": "国内时政"
     },
     {
       "raw_hot": 201227,
@@ -15523,12 +15611,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 198261,
-      "num": 198261,
-      "word": "财政部近期将推出一揽子增量政策",
-      "onboard_time": 1728701540,
-      "rank": 33,
-      "category": "国内时政"
+      "raw_hot": 198229,
+      "num": 266229,
+      "word": "战至巅峰",
+      "onboard_time": 1728108679,
+      "rank": 28,
+      "category": "综艺,电竞"
     },
     {
       "raw_hot": 198225,
@@ -16009,6 +16097,14 @@
       "onboard_time": 1727776219,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 194295,
+      "num": 194295,
+      "word": "KATO代言人",
+      "onboard_time": 1728702920,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 194270,
@@ -17331,14 +17427,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 183029,
-      "num": 244373,
-      "word": "十个勤天彩胶",
-      "onboard_time": 1728699680,
-      "rank": 28,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 182826,
       "num": 346867,
       "word": "余华英拐卖儿童案将依法择期宣判",
@@ -18611,14 +18699,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 170644,
-      "num": 170644,
-      "word": "王者荣耀共创之夜",
-      "onboard_time": 1728701839,
-      "rank": 39,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 170634,
       "num": 170634,
       "word": "孙颖莎说去冲击洛杉矶奥运会",
@@ -18985,14 +19065,6 @@
       "onboard_time": 1728574640,
       "rank": 29,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 167122,
-      "num": 203458,
-      "word": "战至巅峰",
-      "onboard_time": 1728108679,
-      "rank": 28,
-      "category": "综艺,电竞"
     },
     {
       "raw_hot": 167059,
@@ -19793,14 +19865,6 @@
       "onboard_time": 1728429616,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 160160,
-      "num": 160160,
-      "word": "春花厌改名",
-      "onboard_time": 1728701960,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 160116,
@@ -21163,6 +21227,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 150780,
+      "num": 150780,
+      "word": "向佐 猫系",
+      "onboard_time": 1728703102,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 150716,
       "num": 150716,
       "word": "中国人民对外友好协会成立70周年",
@@ -21193,6 +21265,14 @@
       "onboard_time": 1728228918,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 150510,
+      "num": 150510,
+      "word": "中国410名赴黎维和官兵报平安",
+      "onboard_time": 1728700879,
+      "rank": 47,
+      "category": "国外时政"
     },
     {
       "raw_hot": 150480,
@@ -21257,6 +21337,14 @@
       "onboard_time": 1728623481,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 149804,
+      "num": 220882,
+      "word": "高敏感的小孩有多辛苦",
+      "onboard_time": 1728703340,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 149757,
@@ -21465,14 +21553,6 @@
       "onboard_time": 1728191416,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 147928,
-      "num": 147928,
-      "word": "发布会财政部一正三副负责人到场",
-      "onboard_time": 1728701599,
-      "rank": 47,
-      "category": "国内时政"
     },
     {
       "raw_hot": 147815,
@@ -23715,14 +23795,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 131832,
-      "num": 131832,
-      "word": "中国410名赴黎维和官兵报平安",
-      "onboard_time": 1728700879,
-      "rank": 47,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 131773,
       "num": 498120,
       "word": "国庆假期预计近20亿人次跨区域出行",
@@ -25137,6 +25209,14 @@
       "onboard_time": 1728020359,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 120663,
+      "num": 133056,
+      "word": "这默契度不是兄妹就是夫妻",
+      "onboard_time": 1728702079,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 120638,
@@ -30867,6 +30947,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 55799,
+      "num": 306046,
+      "word": "一所重点中学的心理自救",
+      "onboard_time": 1728702259,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 55703,
       "num": 232007,
       "word": "抓娃娃",
@@ -32795,6 +32883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 34672,
+      "num": 149504,
+      "word": "车圈下一个恒大是谁",
+      "onboard_time": 1728703401,
+      "rank": 44,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 34610,
       "num": 335116,
       "word": "校外培训机构无办学资质仍正常营业",
@@ -34697,6 +34793,14 @@
       "onboard_time": 1728511033,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 17075,
+      "num": 306729,
+      "word": "金星解释复婚",
+      "onboard_time": 1728703220,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 16938,
