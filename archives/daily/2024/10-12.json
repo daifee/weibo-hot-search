@@ -1,18 +1,42 @@
 {
   "startTime": 1728664067735,
-  "endTime": 1728689734861,
+  "endTime": 1728697137701,
   "band_list": [
     {
       "raw_hot": 1319783,
-      "num": 187674,
+      "num": 295153,
       "word": "男孩骑行被碾压案司机已重获自由",
       "onboard_time": 1728657741,
       "rank": 10,
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1232014,
+      "num": 303150,
+      "word": "31岁男子闪婚5天后自杀身亡",
+      "onboard_time": 1728694461,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1131023,
+      "num": 300629,
+      "word": "一家三口被撞身亡肇事者疑泄愤",
+      "onboard_time": 1728690078,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 889245,
+      "num": 298736,
+      "word": "檀健次经纪人",
+      "onboard_time": 1728688336,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 865299,
-      "num": 940965,
+      "num": 1134061,
       "word": "央视曝光免费注射干细胞骗局",
       "onboard_time": 1728685152,
       "rank": 24,
@@ -28,19 +52,27 @@
     },
     {
       "raw_hot": 725787,
-      "num": 189298,
+      "num": 291978,
       "word": "女儿被拐后妈妈疯了爸爸自杀了",
       "onboard_time": 1728653120,
       "rank": 11,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 625400,
-      "num": 183001,
-      "word": "檀健次经纪人",
-      "onboard_time": 1728688336,
-      "rank": 19,
-      "category": "艺人"
+      "raw_hot": 672843,
+      "num": 297778,
+      "word": "江秋莲",
+      "onboard_time": 1728690980,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 599518,
+      "num": 599518,
+      "word": "特斯拉市值一夜蒸发超4700亿",
+      "onboard_time": 1728693562,
+      "rank": 1,
+      "category": "财经,汽车"
     },
     {
       "raw_hot": 583418,
@@ -60,7 +92,7 @@
     },
     {
       "raw_hot": 534292,
-      "num": 160891,
+      "num": 214306,
       "word": "内蒙古发现一具女尸手脚被捆绑",
       "onboard_time": 1728640460,
       "rank": 21,
@@ -68,11 +100,19 @@
     },
     {
       "raw_hot": 527064,
-      "num": 187167,
+      "num": 289067,
       "word": "听泉鉴宝最恐怖的一集",
       "onboard_time": 1728647900,
       "rank": 12,
       "category": "网红"
+    },
+    {
+      "raw_hot": 509920,
+      "num": 509920,
+      "word": "蒯曼",
+      "onboard_time": 1728693081,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 472611,
@@ -81,6 +121,30 @@
       "onboard_time": 1728657801,
       "rank": 23,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 458232,
+      "num": 458232,
+      "word": "参演过热辣滚烫的都瘦了",
+      "onboard_time": 1728690799,
+      "rank": 4,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 446697,
+      "num": 292623,
+      "word": "男生食堂买饭遭阿姨多次无视并赶走",
+      "onboard_time": 1728690078,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 381871,
+      "num": 250381,
+      "word": "男子内裤里藏339颗珍珠入境被查",
+      "onboard_time": 1728690078,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 376111,
@@ -99,6 +163,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 356722,
+      "num": 356722,
+      "word": "102岁奶奶网龄10年玩手机得心应手",
+      "onboard_time": 1728687017,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 346183,
+      "num": 246257,
+      "word": "才意识到朋友圈不完全属于自己",
+      "onboard_time": 1728693981,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 344037,
       "num": 225342,
       "word": "王楚钦vs林兆恒",
@@ -108,7 +188,7 @@
     },
     {
       "raw_hot": 336041,
-      "num": 160203,
+      "num": 170145,
       "word": "女子睡觉碰到宠物狗被扑上身撕咬",
       "onboard_time": 1728660021,
       "rank": 24,
@@ -123,11 +203,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 323885,
+      "num": 323885,
+      "word": "李霄云 快女",
+      "onboard_time": 1728692419,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 314512,
       "num": 160751,
       "word": "陕西一消防车发生事故致5死1伤",
       "onboard_time": 1728658221,
       "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 305150,
+      "num": 305150,
+      "word": "打着免费注射神药的旗号敛财1亿多",
+      "onboard_time": 1728682513,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -139,11 +235,35 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 289758,
+      "num": 245076,
+      "word": "Jennie生图",
+      "onboard_time": 1728692059,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 288879,
+      "num": 288879,
+      "word": "张学友称呼倪夏莲为倪妹妹",
+      "onboard_time": 1728691099,
+      "rank": 18,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 285210,
       "num": 180126,
       "word": "林诗栋决胜局17比15",
       "onboard_time": 1728658521,
       "rank": 16,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 265026,
+      "num": 241565,
+      "word": "樊振东让陈奕迅下次演唱会邀请自己",
+      "onboard_time": 1728693859,
+      "rank": 23,
       "category": "体育"
     },
     {
@@ -155,6 +275,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 250709,
+      "num": 250709,
+      "word": "段林希回应冠军争议",
+      "onboard_time": 1728691939,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 248188,
       "num": 159824,
       "word": "4天大新生儿医院照蓝光期间死亡",
@@ -163,12 +291,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 238195,
-      "num": 238195,
-      "word": "102岁奶奶网龄10年玩手机得心应手",
-      "onboard_time": 1728687017,
-      "rank": 15,
-      "category": "社会新闻"
+      "raw_hot": 240550,
+      "num": 240550,
+      "word": "公司趁我不在工位点开我微信",
+      "onboard_time": 1728691640,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 235119,
@@ -195,6 +323,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 219885,
+      "num": 219885,
+      "word": "樊振东下意识的趴下和吹球",
+      "onboard_time": 1728689957,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 214666,
+      "num": 214666,
+      "word": "拿800万元托人炒股损失267万元",
+      "onboard_time": 1728695540,
+      "rank": 27,
+      "category": "财经"
+    },
+    {
       "raw_hot": 204413,
       "num": 204413,
       "word": "ON在干嘛",
@@ -203,12 +347,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 195087,
-      "num": 195087,
-      "word": "打着免费注射神药的旗号敛财1亿多",
-      "onboard_time": 1728682513,
-      "rank": 33,
-      "category": "社会新闻"
+      "raw_hot": 203654,
+      "num": 203654,
+      "word": "大娘子一巴掌过去我乳腺畅通了",
+      "onboard_time": 1728690678,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 191058,
@@ -227,6 +371,30 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 185457,
+      "num": 185457,
+      "word": "存量房贷利率批量调整",
+      "onboard_time": 1728695599,
+      "rank": 31,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 185256,
+      "num": 185256,
+      "word": "终于知道向佐在模仿谁了",
+      "onboard_time": 1728684971,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 184308,
+      "num": 184308,
+      "word": "芭莎男士杨威",
+      "onboard_time": 1728693801,
+      "rank": 33,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 180223,
       "num": 180223,
       "word": "伯远又输给了喻言",
@@ -243,6 +411,30 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 176970,
+      "num": 176970,
+      "word": "WBG抽签",
+      "onboard_time": 1728694221,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 176719,
+      "num": 176719,
+      "word": "胖东来爆改版超市开业全是人",
+      "onboard_time": 1728693382,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 175635,
+      "num": 175635,
+      "word": "亲戚想拿我终身大事去还她的人情",
+      "onboard_time": 1728690019,
+      "rank": 37,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 174412,
       "num": 159539,
       "word": "武艺的画 干垃圾",
@@ -251,20 +443,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 173968,
+      "num": 173968,
+      "word": "因放弃卖贵价商品获好评列车员被停工",
+      "onboard_time": 1728691640,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 173137,
+      "num": 173137,
+      "word": "周杰伦新加坡",
+      "onboard_time": 1728695421,
+      "rank": 39,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 168933,
+      "num": 168933,
+      "word": "国新办举行新闻发布会",
+      "onboard_time": 1728696500,
+      "rank": 41,
+      "category": "财经"
+    },
+    {
       "raw_hot": 161549,
       "num": 193095,
       "word": "心动7女嘉宾女团既视感",
       "onboard_time": 1728659182,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 161118,
-      "num": 161118,
-      "word": "终于知道向佐在模仿谁了",
-      "onboard_time": 1728684971,
-      "rank": 27,
-      "category": "电影"
     },
     {
       "raw_hot": 159235,
@@ -315,12 +523,52 @@
       "category": "艺人,作品衍生"
     },
     {
+      "raw_hot": 140999,
+      "num": 140999,
+      "word": "樊振东奥运后首战",
+      "onboard_time": 1728694521,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 136939,
+      "num": 136939,
+      "word": "女孩凌晨5点被突然下车的壮汉吓到",
+      "onboard_time": 1728696738,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 129498,
-      "num": 129498,
+      "num": 303600,
       "word": "尼加拉瓜宣布与以色列断交",
       "onboard_time": 1728688757,
       "rank": 46,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 119592,
+      "num": 119592,
+      "word": "杨紫杂志",
+      "onboard_time": 1728697099,
+      "rank": 46,
+      "category": "作品衍生,艺人"
+    },
+    {
+      "raw_hot": 119328,
+      "num": 119328,
+      "word": "男子急着炒股在高速应急道突然停车",
+      "onboard_time": 1728696378,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 116949,
+      "num": 116949,
+      "word": "男孩骑行被碾案司机称会好好生活",
+      "onboard_time": 1728697099,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 113076,
@@ -713,6 +961,14 @@
       "onboard_time": 1728674532,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 14797,
+      "num": 544549,
+      "word": "文化中国行看曼德拉山岩画",
+      "onboard_time": 1728650960,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 4838,
