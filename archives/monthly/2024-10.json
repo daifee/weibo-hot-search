@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1728717575548,
+  "endTime": 1728718503351,
   "band_list": [
     {
       "raw_hot": 13027302,
@@ -1225,6 +1225,14 @@
       "onboard_time": 1728555019,
       "rank": 23,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1331357,
+      "num": 264847,
+      "word": "女子头戴鲨鱼夹摔倒后成植物人",
+      "onboard_time": 1728712040,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1324966,
@@ -2539,14 +2547,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 939676,
-      "num": 264847,
-      "word": "女子头戴鲨鱼夹摔倒后成植物人",
-      "onboard_time": 1728712040,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 938001,
       "num": 280741,
       "word": "何炅情商",
@@ -2891,6 +2891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 861104,
+      "num": 247655,
+      "word": "檀健次经纪人聊天记录",
+      "onboard_time": 1728714199,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 857470,
       "num": 502676,
       "word": "男子与女友分手称我骗她钱她骗我色",
@@ -2937,14 +2945,6 @@
       "onboard_time": 1727792360,
       "rank": 46,
       "category": "电影"
-    },
-    {
-      "raw_hot": 847996,
-      "num": 247655,
-      "word": "檀健次经纪人聊天记录",
-      "onboard_time": 1728714199,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 847895,
@@ -10915,6 +10915,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 284843,
+      "num": 242379,
+      "word": "何猷君因为融资难和母亲产生共鸣",
+      "onboard_time": 1728713660,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 284829,
       "num": 284829,
       "word": "花十块钱知道自己姓什么",
@@ -11171,6 +11179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 279876,
+      "num": 279876,
+      "word": "郭晶晶说爱让家不断加分",
+      "onboard_time": 1728714919,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 279725,
       "num": 279725,
       "word": "加沙死者三分之一是儿童",
@@ -11257,14 +11273,6 @@
       "onboard_time": 1728550639,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 277047,
-      "num": 277047,
-      "word": "郭晶晶说爱让家不断加分",
-      "onboard_time": 1728714919,
-      "rank": 8,
-      "category": "体育"
     },
     {
       "raw_hot": 276607,
@@ -13531,6 +13539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 230330,
+      "num": 230330,
+      "word": "蒲熠星上了红黑双榜",
+      "onboard_time": 1728716180,
+      "rank": 28,
+      "category": "综艺,电竞"
+    },
+    {
       "raw_hot": 230252,
       "num": 230252,
       "word": "中国记者徐德智战绩可查",
@@ -14147,14 +14163,6 @@
       "category": "综艺,体育"
     },
     {
-      "raw_hot": 219487,
-      "num": 219487,
-      "word": "蒲熠星上了红黑双榜",
-      "onboard_time": 1728716180,
-      "rank": 28,
-      "category": "综艺,电竞"
-    },
-    {
       "raw_hot": 219332,
       "num": 318957,
       "word": "郑钦文vs克里斯蒂安",
@@ -14385,14 +14393,6 @@
       "onboard_time": 1728097338,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 216947,
-      "num": 242379,
-      "word": "何猷君因为融资难和母亲产生共鸣",
-      "onboard_time": 1728713660,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 216803,
@@ -15955,6 +15955,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 199124,
+      "num": 220312,
+      "word": "财政部重磅发声14条干货极简版",
+      "onboard_time": 1728718219,
+      "rank": 29,
+      "category": "财经"
+    },
+    {
       "raw_hot": 198972,
       "num": 198972,
       "word": "港股大幅跳水",
@@ -16433,6 +16441,14 @@
       "onboard_time": 1728046879,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 195646,
+      "num": 195646,
+      "word": "雷军 小米SU7Ultra原型车",
+      "onboard_time": 1728717918,
+      "rank": 34,
+      "category": "汽车"
     },
     {
       "raw_hot": 195616,
@@ -17339,6 +17355,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 188608,
+      "num": 206906,
+      "word": "李佳琦发文回应淘汰",
+      "onboard_time": 1728715281,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 188529,
       "num": 148611,
       "word": "甲状腺生病5个早期征兆",
@@ -17353,14 +17377,6 @@
       "onboard_time": 1728530599,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 188494,
-      "num": 206906,
-      "word": "李佳琦发文回应淘汰",
-      "onboard_time": 1728715281,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 188427,
@@ -18233,6 +18249,14 @@
       "onboard_time": 1728379039,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 180095,
+      "num": 180095,
+      "word": "任嘉伦高情商",
+      "onboard_time": 1728718042,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 180053,
@@ -22163,6 +22187,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 147649,
+      "num": 147649,
+      "word": "柳智敏日冠",
+      "onboard_time": 1728718279,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 147465,
       "num": 147465,
       "word": "郑钦文连追4局扳平",
@@ -22625,6 +22657,14 @@
       "onboard_time": 1728117079,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 144561,
+      "num": 144561,
+      "word": "陈幸同蒯曼3比1申裕斌田志希",
+      "onboard_time": 1728718042,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 144460,
@@ -24971,6 +25011,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 128121,
+      "num": 128121,
+      "word": "苏新皓推荐值破10万剧综人物",
+      "onboard_time": 1728717679,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 128048,
       "num": 250532,
       "word": "上交所宣布加时5分钟有何作用",
@@ -25297,6 +25345,14 @@
       "onboard_time": 1727860938,
       "rank": 46,
       "category": "电影"
+    },
+    {
+      "raw_hot": 125871,
+      "num": 247750,
+      "word": "天猫发双11史上最大补贴消费券",
+      "onboard_time": 1728714980,
+      "rank": 43,
+      "category": "互联网"
     },
     {
       "raw_hot": 125845,
@@ -29107,6 +29163,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 92135,
+      "num": 130496,
+      "word": "Jennie打破今年kpop女solo一位纪录",
+      "onboard_time": 1728711800,
+      "rank": 45,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 92041,
       "num": 92041,
       "word": "朴彩英正规一辑Rosie",
@@ -29369,14 +29433,6 @@
       "onboard_time": 1728198257,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 88024,
-      "num": 247750,
-      "word": "天猫发双11史上最大补贴消费券",
-      "onboard_time": 1728714980,
-      "rank": 43,
-      "category": "互联网"
     },
     {
       "raw_hot": 87895,
@@ -29803,6 +29859,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 82968,
+      "num": 247987,
+      "word": "东北雨姐粉条调查结果",
+      "onboard_time": 1728716960,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 82782,
       "num": 378404,
       "word": "蚂蚁保居然请了刘亦菲",
@@ -30097,14 +30161,6 @@
       "onboard_time": 1728274819,
       "rank": 39,
       "category": "休闲"
-    },
-    {
-      "raw_hot": 78752,
-      "num": 247987,
-      "word": "东北雨姐粉条调查结果",
-      "onboard_time": 1728716960,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 78730,
@@ -31529,6 +31585,14 @@
       "onboard_time": 1728288982,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 57146,
+      "num": 230361,
+      "word": "雨姐传媒暂停经营",
+      "onboard_time": 1728717800,
+      "rank": 18,
+      "category": "网红"
     },
     {
       "raw_hot": 57091,
@@ -33129,6 +33193,14 @@
       "onboard_time": 1728018678,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 39405,
+      "num": 230354,
+      "word": "刘诗诗高级感的神",
+      "onboard_time": 1728717800,
+      "rank": 19,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 39360,

@@ -1,6 +1,6 @@
 {
   "startTime": 1728664067735,
-  "endTime": 1728717575548,
+  "endTime": 1728718503351,
   "band_list": [
     {
       "raw_hot": 4273020,
@@ -57,6 +57,14 @@
       "onboard_time": 1728703220,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1331357,
+      "num": 264847,
+      "word": "女子头戴鲨鱼夹摔倒后成植物人",
+      "onboard_time": 1728712040,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1319783,
@@ -123,14 +131,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 939676,
-      "num": 264847,
-      "word": "女子头戴鲨鱼夹摔倒后成植物人",
-      "onboard_time": 1728712040,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 896461,
       "num": 317183,
       "word": "门前勿停车 杨幂也不行",
@@ -155,7 +155,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 847996,
+      "raw_hot": 861104,
       "num": 247655,
       "word": "檀健次经纪人聊天记录",
       "onboard_time": 1728714199,
@@ -675,6 +675,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 284843,
+      "num": 242379,
+      "word": "何猷君因为融资难和母亲产生共鸣",
+      "onboard_time": 1728713660,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 283994,
       "num": 283994,
       "word": "樊振东陈奕迅打网球互动",
@@ -683,8 +691,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 277047,
-      "num": 277047,
+      "raw_hot": 279876,
+      "num": 279876,
       "word": "郭晶晶说爱让家不断加分",
       "onboard_time": 1728714919,
       "rank": 8,
@@ -883,6 +891,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 230330,
+      "num": 230330,
+      "word": "蒲熠星上了红黑双榜",
+      "onboard_time": 1728716180,
+      "rank": 28,
+      "category": "综艺,电竞"
+    },
+    {
       "raw_hot": 227068,
       "num": 227068,
       "word": "哀牢山没有蟒蛇但有毒蛇",
@@ -915,28 +931,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 219487,
-      "num": 219487,
-      "word": "蒲熠星上了红黑双榜",
-      "onboard_time": 1728716180,
-      "rank": 28,
-      "category": "综艺,电竞"
-    },
-    {
       "raw_hot": 218488,
       "num": 218488,
       "word": "王楚钦进男单16强",
       "onboard_time": 1728713719,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 216947,
-      "num": 242379,
-      "word": "何猷君因为融资难和母亲产生共鸣",
-      "onboard_time": 1728713660,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 215343,
@@ -1059,6 +1059,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 199124,
+      "num": 220312,
+      "word": "财政部重磅发声14条干货极简版",
+      "onboard_time": 1728718219,
+      "rank": 29,
+      "category": "财经"
+    },
+    {
       "raw_hot": 198229,
       "num": 266229,
       "word": "战至巅峰",
@@ -1089,6 +1097,14 @@
       "onboard_time": 1728700999,
       "rank": 35,
       "category": "财经"
+    },
+    {
+      "raw_hot": 195646,
+      "num": 195646,
+      "word": "雷军 小米SU7Ultra原型车",
+      "onboard_time": 1728717918,
+      "rank": 34,
+      "category": "汽车"
     },
     {
       "raw_hot": 195261,
@@ -1139,7 +1155,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 188494,
+      "raw_hot": 188608,
       "num": 206906,
       "word": "李佳琦发文回应淘汰",
       "onboard_time": 1728715281,
@@ -1209,6 +1225,14 @@
       "onboard_time": 1728648921,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 180095,
+      "num": 180095,
+      "word": "任嘉伦高情商",
+      "onboard_time": 1728718042,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 179358,
@@ -1419,6 +1443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 147649,
+      "num": 147649,
+      "word": "柳智敏日冠",
+      "onboard_time": 1728718279,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 145947,
       "num": 145947,
       "word": "原来养猫有这么多讲究",
@@ -1457,6 +1489,14 @@
       "onboard_time": 1728709643,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 144561,
+      "num": 144561,
+      "word": "陈幸同蒯曼3比1申裕斌田志希",
+      "onboard_time": 1728718042,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 141814,
@@ -1499,12 +1539,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 128121,
+      "num": 128121,
+      "word": "苏新皓推荐值破10万剧综人物",
+      "onboard_time": 1728717679,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 126929,
       "num": 126929,
       "word": "现在就出发",
       "onboard_time": 1728699019,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 125871,
+      "num": 247750,
+      "word": "天猫发双11史上最大补贴消费券",
+      "onboard_time": 1728714980,
+      "rank": 43,
+      "category": "互联网"
     },
     {
       "raw_hot": 118433,
@@ -1659,6 +1715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 92135,
+      "num": 130496,
+      "word": "Jennie打破今年kpop女solo一位纪录",
+      "onboard_time": 1728711800,
+      "rank": 45,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 90772,
       "num": 90772,
       "word": "付鹏称当前市场预期有点高了",
@@ -1673,14 +1737,6 @@
       "onboard_time": 1728659958,
       "rank": 28,
       "category": "综艺,电竞"
-    },
-    {
-      "raw_hot": 88024,
-      "num": 247750,
-      "word": "天猫发双11史上最大补贴消费券",
-      "onboard_time": 1728714980,
-      "rank": 43,
-      "category": "互联网"
     },
     {
       "raw_hot": 85903,
@@ -1707,20 +1763,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 82968,
+      "num": 247987,
+      "word": "东北雨姐粉条调查结果",
+      "onboard_time": 1728716960,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 81161,
       "num": 158935,
       "word": "苏醒参加快男的原因找到了",
       "onboard_time": 1728656181,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 78752,
-      "num": 247987,
-      "word": "东北雨姐粉条调查结果",
-      "onboard_time": 1728716960,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 78259,
@@ -1817,6 +1873,14 @@
       "onboard_time": 1728688514,
       "rank": 18,
       "category": "教育"
+    },
+    {
+      "raw_hot": 57146,
+      "num": 230361,
+      "word": "雨姐传媒暂停经营",
+      "onboard_time": 1728717800,
+      "rank": 18,
+      "category": "网红"
     },
     {
       "raw_hot": 56233,
@@ -1937,6 +2001,14 @@
       "onboard_time": 1728714139,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 39405,
+      "num": 230354,
+      "word": "刘诗诗高级感的神",
+      "onboard_time": 1728717800,
+      "rank": 19,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 39029,

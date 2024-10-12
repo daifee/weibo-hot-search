@@ -1,0 +1,410 @@
+{
+  "runTime": 1728718503351,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 697833,
+        "num": 1111653,
+        "word": "吴邦国同志遗体10月14日火化",
+        "onboard_time": 1728711500,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1094153,
+        "num": 1094153,
+        "word": "东北雨姐被罚165万",
+        "onboard_time": 1728711739,
+        "rank": 1,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 25125,
+        "num": 1025879,
+        "word": "最新赏秋地秋日浓度播报来了",
+        "onboard_time": 1728705561,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1016527,
+        "num": 1016527,
+        "word": "梁靖崑0比3阿拉米扬",
+        "onboard_time": 1728715519,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 775070,
+        "num": 775070,
+        "word": "国家奖学金",
+        "onboard_time": 1728712641,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 371162,
+        "num": 371162,
+        "word": "中央财政已下达就业补助667亿元",
+        "onboard_time": 1728703040,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 279876,
+        "num": 279876,
+        "word": "郭晶晶说爱让家不断加分",
+        "onboard_time": 1728714919,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 230396,
+        "num": 230396,
+        "word": "王楚钦光速下班",
+        "onboard_time": 1728711860,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 215070,
+        "num": 230395,
+        "word": "本专科生国家助学金升至每年3700元",
+        "onboard_time": 1728705141,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 82968,
+        "num": 230389,
+        "word": "东北雨姐粉条调查结果",
+        "onboard_time": 1728716960,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1331357,
+        "num": 230388,
+        "word": "女子头戴鲨鱼夹摔倒后成植物人",
+        "onboard_time": 1728712040,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 861104,
+        "num": 230384,
+        "word": "檀健次经纪人聊天记录",
+        "onboard_time": 1728714199,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 671317,
+        "num": 230381,
+        "word": "蔡徐坤 支持我戴",
+        "onboard_time": 1728714560,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125871,
+        "num": 230375,
+        "word": "天猫发双11史上最大补贴消费券",
+        "onboard_time": 1728714980,
+        "rank": 13,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 30368,
+        "num": 230374,
+        "word": "东北雨姐掉粉超180万",
+        "onboard_time": 1728716719,
+        "rank": 14,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 551536,
+        "num": 230368,
+        "word": "B太曾做客东北雨姐拍摄基地",
+        "onboard_time": 1728713781,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 395340,
+        "num": 230368,
+        "word": "杜华哭了",
+        "onboard_time": 1728715281,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1274117,
+        "num": 230361,
+        "word": "日本梅毒",
+        "onboard_time": 1728702619,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 57146,
+        "num": 230361,
+        "word": "雨姐传媒暂停经营",
+        "onboard_time": 1728717800,
+        "rank": 18,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 39405,
+        "num": 230354,
+        "word": "刘诗诗高级感的神",
+        "onboard_time": 1728717800,
+        "rank": 19,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 972522,
+        "num": 230351,
+        "word": "听泉鉴宝 盗墓",
+        "onboard_time": 1728706519,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 884464,
+        "num": 230349,
+        "word": "消防车5死1伤事故伤亡者均为消防员",
+        "onboard_time": 1728715281,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 366203,
+        "num": 230346,
+        "word": "景德镇车祸家属称现场惨烈常做噩梦",
+        "onboard_time": 1728712100,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 316437,
+        "num": 230342,
+        "word": "一家三口被撞身亡车祸细节披露",
+        "onboard_time": 1728703939,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 284843,
+        "num": 230337,
+        "word": "何猷君因为融资难和母亲产生共鸣",
+        "onboard_time": 1728713660,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 278686,
+        "num": 230336,
+        "word": "金星解释复婚",
+        "onboard_time": 1728703220,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 254847,
+        "num": 230333,
+        "word": "31岁男子闪婚5天后自杀身亡",
+        "onboard_time": 1728694461,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230330,
+        "num": 230330,
+        "word": "蒲熠星上了红黑双榜",
+        "onboard_time": 1728716180,
+        "rank": 27,
+        "category": "综艺,电竞"
+      },
+      {
+        "raw_hot": 224435,
+        "num": 224435,
+        "word": "梁靖崑无缘亚锦赛16强",
+        "onboard_time": 1728716119,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 199124,
+        "num": 220312,
+        "word": "财政部重磅发声14条干货极简版",
+        "onboard_time": 1728718219,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 612251,
+        "num": 220188,
+        "word": "中老年抖音",
+        "onboard_time": 1728713781,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 219685,
+        "num": 219685,
+        "word": "坐在大狗肚子下面的小狗狗",
+        "onboard_time": 1728710660,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 215831,
+        "num": 215831,
+        "word": "杜海涛李佳琦淘汰",
+        "onboard_time": 1728710360,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197572,
+        "num": 197572,
+        "word": "官方通报沈阳一洗浴中心火灾",
+        "onboard_time": 1728715819,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195646,
+        "num": 195646,
+        "word": "雷军 小米SU7Ultra原型车",
+        "onboard_time": 1728717918,
+        "rank": 34,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 188608,
+        "num": 188608,
+        "word": "李佳琦发文回应淘汰",
+        "onboard_time": 1728715281,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184049,
+        "num": 184049,
+        "word": "门前勿停车 杨幂也不行",
+        "onboard_time": 1728709161,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180095,
+        "num": 180095,
+        "word": "任嘉伦高情商",
+        "onboard_time": 1728718042,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171936,
+        "num": 171936,
+        "word": "五公个喜排名",
+        "onboard_time": 1728714079,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166842,
+        "num": 166842,
+        "word": "天安门等地将下半旗志哀",
+        "onboard_time": 1728717380,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111336,
+        "num": 158098,
+        "word": "种地吧",
+        "onboard_time": 1728713479,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156055,
+        "num": 156055,
+        "word": "向鹏0比3林昀儒",
+        "onboard_time": 1728713120,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 147649,
+        "num": 147649,
+        "word": "柳智敏日冠",
+        "onboard_time": 1728718279,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 144561,
+        "num": 144561,
+        "word": "陈幸同蒯曼3比1申裕斌田志希",
+        "onboard_time": 1728718042,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134482,
+        "num": 134482,
+        "word": "财政部部长蓝佛安答记者问",
+        "onboard_time": 1728701540,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 92135,
+        "num": 130496,
+        "word": "Jennie打破今年kpop女solo一位纪录",
+        "onboard_time": 1728711800,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 128398,
+        "num": 128398,
+        "word": "干饭哥阿条姐出战世界杯总决赛",
+        "onboard_time": 1728717140,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128121,
+        "num": 128121,
+        "word": "苏新皓推荐值破10万剧综人物",
+        "onboard_time": 1728717679,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118914,
+        "num": 118914,
+        "word": "李帝努开球",
+        "onboard_time": 1728717380,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117100,
+        "num": 117100,
+        "word": "发布会财政部一正三副负责人到场",
+        "onboard_time": 1728701599,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#共抓大保护不搞大开发#"
+    }
+  }
+}
