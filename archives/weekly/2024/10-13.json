@@ -1,0 +1,411 @@
+{
+  "startTime": 1728750414717,
+  "endTime": 1728750414717,
+  "band_list": [
+    {
+      "raw_hot": 1419674,
+      "num": 294101,
+      "word": "东北雨姐发文道歉",
+      "onboard_time": 1728740844,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1094018,
+      "num": 1094018,
+      "word": "王楚钦止步亚锦赛8强",
+      "onboard_time": 1728738325,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 932306,
+      "num": 291394,
+      "word": "难听",
+      "onboard_time": 1728743363,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 826074,
+      "num": 826074,
+      "word": "东北雨姐启动退一赔三",
+      "onboard_time": 1728747621,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 822478,
+      "num": 822478,
+      "word": "林诗栋蒯曼亚锦赛夺冠",
+      "onboard_time": 1728747921,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 786958,
+      "num": 287790,
+      "word": "一家三口被撞身亡司机想帮养老换谅解",
+      "onboard_time": 1728740363,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 635282,
+      "num": 635282,
+      "word": "北大校友否认听泉鉴宝学历",
+      "onboard_time": 1728735560,
+      "rank": 4,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 609535,
+      "num": 284723,
+      "word": "王俊凯 环球影城",
+      "onboard_time": 1728740304,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 594190,
+      "num": 282485,
+      "word": "22岁冠心病女生不想做支架狂炫中药",
+      "onboard_time": 1728741563,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 558932,
+      "num": 558932,
+      "word": "财政部同意销毁28款即开型彩票",
+      "onboard_time": 1728739942,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 536964,
+      "num": 279325,
+      "word": "河南一高三学生晕倒猝死",
+      "onboard_time": 1728747201,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 509782,
+      "num": 509782,
+      "word": "张本美和vs金琴英",
+      "onboard_time": 1728746481,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 507284,
+      "num": 277138,
+      "word": "2人走私2.7吨活体蛇被刑拘",
+      "onboard_time": 1728739583,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 378383,
+      "num": 273934,
+      "word": "B太回应曾夸东北雨姐真实",
+      "onboard_time": 1728736760,
+      "rank": 17,
+      "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 349584,
+      "num": 266314,
+      "word": "国乒女单无缘亚锦赛四强",
+      "onboard_time": 1728736700,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 299280,
+      "num": 299280,
+      "word": "混双",
+      "onboard_time": 1728740483,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 266011,
+      "num": 266011,
+      "word": "上海菜为什么偏甜",
+      "onboard_time": 1728748520,
+      "rank": 21,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 237782,
+      "num": 296916,
+      "word": "你好星期六全员穿越80年代",
+      "onboard_time": 1728745343,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 228389,
+      "num": 271963,
+      "word": "赵露思说目前没有拍电影的打算",
+      "onboard_time": 1728737482,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 228371,
+      "num": 228371,
+      "word": "被65岁大爷相亲简历潮到了",
+      "onboard_time": 1728745762,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 198364,
+      "num": 198364,
+      "word": "张本智和亚锦赛晋级4强",
+      "onboard_time": 1728747020,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 193023,
+      "num": 193023,
+      "word": "财政部长请大家放心",
+      "onboard_time": 1728730279,
+      "rank": 24,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 159887,
+      "num": 159887,
+      "word": "王嘉尔老公变老板",
+      "onboard_time": 1728745882,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 153554,
+      "num": 153554,
+      "word": "表白墙捞人结果捞到了老师",
+      "onboard_time": 1728742161,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 150348,
+      "num": 150348,
+      "word": "你的房贷还完了吗",
+      "onboard_time": 1728732920,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 145871,
+      "num": 137706,
+      "word": "郑钦文谈战胜王欣瑜",
+      "onboard_time": 1728746243,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 141462,
+      "num": 141462,
+      "word": "关晓彤探班张艺兴音乐话剧",
+      "onboard_time": 1728742703,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 136318,
+      "num": 269149,
+      "word": "听泉鉴宝",
+      "onboard_time": 1728739283,
+      "rank": 19,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 136250,
+      "num": 136250,
+      "word": "乔妍的烟被P掉了",
+      "onboard_time": 1728744622,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 127657,
+      "num": 127657,
+      "word": "万圣节cos 向佐叶珂",
+      "onboard_time": 1728745462,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 127331,
+      "num": 127331,
+      "word": "无聊的帅哥其实最有魅力",
+      "onboard_time": 1728744742,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 121825,
+      "num": 138371,
+      "word": "听泉鉴宝学校信息已更改",
+      "onboard_time": 1728740963,
+      "rank": 29,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 120347,
+      "num": 120347,
+      "word": "SEVENTEEN演唱会着火",
+      "onboard_time": 1728729859,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 118558,
+      "num": 118558,
+      "word": "拜登要求以色列停止袭击联黎部队",
+      "onboard_time": 1728743662,
+      "rank": 35,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 112878,
+      "num": 112878,
+      "word": "听泉鉴宝 盗墓",
+      "onboard_time": 1728706519,
+      "rank": 36,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 108260,
+      "num": 108260,
+      "word": "李一桐生图直出",
+      "onboard_time": 1728741983,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 107204,
+      "num": 107204,
+      "word": "名侦探学院",
+      "onboard_time": 1728749660,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 105813,
+      "num": 105813,
+      "word": "大四学生失联数月家属称其挂科8门",
+      "onboard_time": 1728736940,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 101793,
+      "num": 101793,
+      "word": "虞书欣粉百合美人",
+      "onboard_time": 1728729560,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 101668,
+      "num": 296428,
+      "word": "受教育的意义在这一刻发光了",
+      "onboard_time": 1728749600,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 95409,
+      "num": 95409,
+      "word": "郑钦文晋级武网决赛",
+      "onboard_time": 1728738802,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 94187,
+      "num": 94187,
+      "word": "林诗栋蒯曼vs李正植金琴英",
+      "onboard_time": 1728745042,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 90658,
+      "num": 90658,
+      "word": "李荣浩演唱会",
+      "onboard_time": 1728744801,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 90216,
+      "num": 90216,
+      "word": "人民日报夜读",
+      "onboard_time": 1728748642,
+      "rank": 44,
+      "category": "读书作家"
+    },
+    {
+      "raw_hot": 89326,
+      "num": 89326,
+      "word": "亚锦赛",
+      "onboard_time": 1728739522,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 88719,
+      "num": 88719,
+      "word": "教养就藏在这些细节中",
+      "onboard_time": 1728748520,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 88205,
+      "num": 88205,
+      "word": "王亚飞发迪丽热巴",
+      "onboard_time": 1728733580,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 80134,
+      "num": 88201,
+      "word": "林诗栋晋级亚锦赛四强",
+      "onboard_time": 1728739823,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 79868,
+      "num": 88187,
+      "word": "不能让杨妞花一个人战斗",
+      "onboard_time": 1728744801,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 9077,
+      "num": 822593,
+      "word": "2024年全国数字乡村创新大赛",
+      "onboard_time": 1728735319,
+      "rank": 2,
+      "category": "社会新闻"
+    }
+  ],
+  "hotgov_list": [
+    {
+      "word": "#习近平向埃塞俄比亚新任总统塔耶致贺电#"
+    }
+  ]
+}
