@@ -1,6 +1,6 @@
 {
   "startTime": 1728664067735,
-  "endTime": 1728742726132,
+  "endTime": 1728743833997,
   "band_list": [
     {
       "raw_hot": 9645892,
@@ -27,8 +27,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 2639501,
-      "num": 2639501,
+      "raw_hot": 2765493,
+      "num": 2765493,
       "word": "东北雨姐发文道歉",
       "onboard_time": 1728740844,
       "rank": 1,
@@ -219,6 +219,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 1005787,
+      "num": 525733,
+      "word": "22岁冠心病女生不想做支架狂炫中药",
+      "onboard_time": 1728741563,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1001896,
       "num": 396836,
       "word": "儿子用父亲的旧手机消费了十多万",
@@ -355,6 +363,14 @@
       "category": "体育,作品衍生"
     },
     {
+      "raw_hot": 752490,
+      "num": 513723,
+      "word": "王俊凯 环球影城",
+      "onboard_time": 1728740304,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 744484,
       "num": 812329,
       "word": "付鹏称现在对于居民部门就干三件事",
@@ -384,6 +400,14 @@
       "word": "骑行男孩身亡案司机赔偿后获谅解",
       "onboard_time": 1728731719,
       "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 717190,
+      "num": 717190,
+      "word": "财政部同意销毁28款即开型彩票",
+      "onboard_time": 1728739942,
+      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -441,14 +465,6 @@
       "onboard_time": 1728690980,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 662721,
-      "num": 513723,
-      "word": "王俊凯 环球影城",
-      "onboard_time": 1728740304,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 661491,
@@ -537,14 +553,6 @@
       "onboard_time": 1728737482,
       "rank": 30,
       "category": "电影"
-    },
-    {
-      "raw_hot": 589885,
-      "num": 589885,
-      "word": "财政部同意销毁28款即开型彩票",
-      "onboard_time": 1728739942,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 583418,
@@ -723,6 +731,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 493014,
+      "num": 382540,
+      "word": "一家三口被撞身亡司机想帮养老换谅解",
+      "onboard_time": 1728740363,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 480337,
       "num": 480337,
       "word": "王楚钦3比1吉村真晴",
@@ -737,14 +753,6 @@
       "onboard_time": 1728733580,
       "rank": 17,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 476793,
-      "num": 476793,
-      "word": "22岁冠心病女生不想做支架狂炫中药",
-      "onboard_time": 1728741563,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 473502,
@@ -795,11 +803,11 @@
       "category": "情感"
     },
     {
-      "raw_hot": 459925,
-      "num": 382540,
-      "word": "一家三口被撞身亡司机想帮养老换谅解",
-      "onboard_time": 1728740363,
-      "rank": 20,
+      "raw_hot": 459013,
+      "num": 409869,
+      "word": "2人走私2.7吨活体蛇被刑拘",
+      "onboard_time": 1728739583,
+      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -864,14 +872,6 @@
       "word": "骑行男孩遭碾压案新进展",
       "onboard_time": 1728733819,
       "rank": 20,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 409869,
-      "num": 409869,
-      "word": "2人走私2.7吨活体蛇被刑拘",
-      "onboard_time": 1728739583,
-      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -1035,6 +1035,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 343843,
+      "num": 382549,
+      "word": "听泉鉴宝学校信息已更改",
+      "onboard_time": 1728740963,
+      "rank": 19,
+      "category": "网红"
+    },
+    {
       "raw_hot": 342310,
       "num": 310377,
       "word": "周震南给周柯宇从A班降到F班",
@@ -1073,14 +1081,6 @@
       "onboard_time": 1728682513,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 315261,
-      "num": 382549,
-      "word": "听泉鉴宝学校信息已更改",
-      "onboard_time": 1728740963,
-      "rank": 19,
-      "category": "网红"
     },
     {
       "raw_hot": 314512,
@@ -1161,6 +1161,14 @@
       "onboard_time": 1728649460,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 298857,
+      "num": 298857,
+      "word": "关晓彤探班张艺兴音乐话剧",
+      "onboard_time": 1728742703,
+      "rank": 25,
+      "category": "演出"
     },
     {
       "raw_hot": 296610,
@@ -1283,8 +1291,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 270390,
-      "num": 270390,
+      "raw_hot": 271774,
+      "num": 271774,
       "word": "混双",
       "onboard_time": 1728740483,
       "rank": 24,
@@ -1385,6 +1393,22 @@
       "onboard_time": 1728728720,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 259576,
+      "num": 259576,
+      "word": "难听",
+      "onboard_time": 1728743363,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 259233,
+      "num": 259233,
+      "word": "李一桐生图直出",
+      "onboard_time": 1728741983,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 257522,
@@ -1539,14 +1563,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 230813,
-      "num": 230813,
-      "word": "关晓彤探班张艺兴音乐话剧",
-      "onboard_time": 1728742703,
-      "rank": 25,
-      "category": "演出"
-    },
-    {
       "raw_hot": 230415,
       "num": 230415,
       "word": "李发彬的鞋子能承受14个成年人重量",
@@ -1665,6 +1681,14 @@
       "onboard_time": 1728725299,
       "rank": 37,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 217577,
+      "num": 217577,
+      "word": "表白墙捞人结果捞到了老师",
+      "onboard_time": 1728742161,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 215579,
@@ -1827,6 +1851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 202143,
+      "num": 372840,
+      "word": "听泉鉴宝",
+      "onboard_time": 1728739283,
+      "rank": 45,
+      "category": "网红"
+    },
+    {
       "raw_hot": 201530,
       "num": 194334,
       "word": "王艺迪止步女单16强",
@@ -1859,28 +1891,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 200232,
-      "num": 217663,
-      "word": "听泉鉴宝",
-      "onboard_time": 1728739283,
-      "rank": 45,
-      "category": "网红"
-    },
-    {
       "raw_hot": 199825,
       "num": 199825,
       "word": "SEVENTEEN water",
       "onboard_time": 1728731780,
       "rank": 41,
       "category": "演出"
-    },
-    {
-      "raw_hot": 199044,
-      "num": 199044,
-      "word": "李一桐生图直出",
-      "onboard_time": 1728741983,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 198552,
@@ -1979,6 +1995,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 191826,
+      "num": 201419,
+      "word": "郑钦文决赛将再战萨巴伦卡",
+      "onboard_time": 1728741202,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 191809,
       "num": 191809,
       "word": "将置换地方政府存量隐性债务",
@@ -2025,6 +2049,14 @@
       "onboard_time": 1728721640,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 189361,
+      "num": 189361,
+      "word": "亚锦赛赛程",
+      "onboard_time": 1728743002,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 188608,
@@ -2195,6 +2227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 170637,
+      "num": 259394,
+      "word": "小巷人家",
+      "onboard_time": 1728742461,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 169621,
       "num": 169621,
       "word": "许昕4比2罗铮",
@@ -2217,14 +2257,6 @@
       "onboard_time": 1728707120,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 169045,
-      "num": 169045,
-      "word": "小巷人家",
-      "onboard_time": 1728742461,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 169028,
@@ -2313,22 +2345,6 @@
       "onboard_time": 1728740304,
       "rank": 42,
       "category": "演出"
-    },
-    {
-      "raw_hot": 163984,
-      "num": 168873,
-      "word": "表白墙捞人结果捞到了老师",
-      "onboard_time": 1728742161,
-      "rank": 38,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 163247,
-      "num": 201419,
-      "word": "郑钦文决赛将再战萨巴伦卡",
-      "onboard_time": 1728741202,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 163066,
@@ -2523,6 +2539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 144109,
+      "num": 144109,
+      "word": "阿斯塔纳亚锦赛",
+      "onboard_time": 1728740722,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 141814,
       "num": 492069,
       "word": "天猫双11将于10月14日晚8点开启",
@@ -2569,6 +2593,14 @@
       "onboard_time": 1728717140,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 133376,
+      "num": 372157,
+      "word": "拜登要求以色列停止袭击联黎部队",
+      "onboard_time": 1728743662,
+      "rank": 17,
+      "category": "国外时政"
     },
     {
       "raw_hot": 128671,
@@ -2681,6 +2713,14 @@
       "onboard_time": 1728635301,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 103301,
+      "num": 370058,
+      "word": "WBG战胜FNC",
+      "onboard_time": 1728743542,
+      "rank": 18,
+      "category": "电竞"
     },
     {
       "raw_hot": 102461,
@@ -2915,6 +2955,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 67464,
+      "num": 513750,
+      "word": "北方供暖季将至空置房该不该交暖气费",
+      "onboard_time": 1728741801,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 66361,
       "num": 710619,
       "word": "Jellycat玩偶爆火黄牛溢价超3倍",
@@ -3055,6 +3103,14 @@
       "num": 467246,
       "word": "如何整治网红经济乱象",
       "onboard_time": 1728700399,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 47976,
+      "num": 486458,
+      "word": "囤货脑有多可怕",
+      "onboard_time": 1728742222,
       "rank": 14,
       "category": "社会新闻"
     },
@@ -3219,14 +3275,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 36123,
-      "num": 513750,
-      "word": "北方供暖季将至空置房该不该交暖气费",
-      "onboard_time": 1728741801,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 35662,
       "num": 850608,
       "word": "透过成绩单看国家公园建设成效",
@@ -3265,14 +3313,6 @@
       "onboard_time": 1728716719,
       "rank": 14,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 30723,
-      "num": 486458,
-      "word": "囤货脑有多可怕",
-      "onboard_time": 1728742222,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 30551,
@@ -3384,6 +3424,14 @@
       "word": "遏制水博要祛除学历崇拜的病根",
       "onboard_time": 1728731239,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 21602,
+      "num": 367952,
+      "word": "如何同时保证飞刀医生和患者的利益",
+      "onboard_time": 1728742762,
+      "rank": 19,
       "category": "社会新闻"
     },
     {

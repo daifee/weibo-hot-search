@@ -1,0 +1,410 @@
+{
+  "runTime": 1728743833997,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7452335,
+        "num": 7452335,
+        "word": "王楚钦止步亚锦赛8强",
+        "onboard_time": 1728738325,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2765493,
+        "num": 2765493,
+        "word": "东北雨姐发文道歉",
+        "onboard_time": 1728740844,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21085,
+        "num": 1759895,
+        "word": "2024两个博览会在苏州盛大开幕",
+        "onboard_time": 1728735739,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1491914,
+        "num": 1491914,
+        "word": "国乒女单无缘亚锦赛四强",
+        "onboard_time": 1728736700,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 785558,
+        "num": 785558,
+        "word": "北大校友否认听泉鉴宝学历",
+        "onboard_time": 1728735560,
+        "rank": 4,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 717190,
+        "num": 717190,
+        "word": "财政部同意销毁28款即开型彩票",
+        "onboard_time": 1728739942,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 550161,
+        "num": 550161,
+        "word": "赵露思说目前没有拍电影的打算",
+        "onboard_time": 1728737482,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1005787,
+        "num": 525733,
+        "word": "22岁冠心病女生不想做支架狂炫中药",
+        "onboard_time": 1728741563,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 436287,
+        "num": 436287,
+        "word": "林诗栋晋级亚锦赛四强",
+        "onboard_time": 1728739823,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 386774,
+        "num": 386774,
+        "word": "郑钦文晋级武网决赛",
+        "onboard_time": 1728738802,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 752490,
+        "num": 385521,
+        "word": "王俊凯 环球影城",
+        "onboard_time": 1728740304,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 512271,
+        "num": 382756,
+        "word": "B太回应曾夸东北雨姐真实",
+        "onboard_time": 1728736760,
+        "rank": 11,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 459013,
+        "num": 381119,
+        "word": "2人走私2.7吨活体蛇被刑拘",
+        "onboard_time": 1728739583,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 438294,
+        "num": 379930,
+        "word": "大四学生失联数月家属称其挂科8门",
+        "onboard_time": 1728736940,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 47976,
+        "num": 378063,
+        "word": "囤货脑有多可怕",
+        "onboard_time": 1728742222,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 343843,
+        "num": 376387,
+        "word": "听泉鉴宝学校信息已更改",
+        "onboard_time": 1728740963,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 202143,
+        "num": 372840,
+        "word": "听泉鉴宝",
+        "onboard_time": 1728739283,
+        "rank": 16,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 133376,
+        "num": 372157,
+        "word": "拜登要求以色列停止袭击联黎部队",
+        "onboard_time": 1728743662,
+        "rank": 17,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 103301,
+        "num": 370058,
+        "word": "WBG战胜FNC",
+        "onboard_time": 1728743542,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 21602,
+        "num": 367952,
+        "word": "如何同时保证飞刀医生和患者的利益",
+        "onboard_time": 1728742762,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 366275,
+        "num": 366275,
+        "word": "日本梅毒",
+        "onboard_time": 1728702619,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 493014,
+        "num": 364245,
+        "word": "一家三口被撞身亡司机想帮养老换谅解",
+        "onboard_time": 1728740363,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 362072,
+        "num": 362072,
+        "word": "WBG对战FNC",
+        "onboard_time": 1728736220,
+        "rank": 22,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 334273,
+        "num": 334273,
+        "word": "张本智和3比1林昀儒",
+        "onboard_time": 1728740243,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 67464,
+        "num": 325110,
+        "word": "北方供暖季将至空置房该不该交暖气费",
+        "onboard_time": 1728741801,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 317078,
+        "num": 317078,
+        "word": "财政部长请大家放心",
+        "onboard_time": 1728730279,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 298857,
+        "num": 298857,
+        "word": "关晓彤探班张艺兴音乐话剧",
+        "onboard_time": 1728742703,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 287267,
+        "num": 287267,
+        "word": "你的房贷还完了吗",
+        "onboard_time": 1728732920,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 273141,
+        "num": 273141,
+        "word": "王楚钦一天三赛",
+        "onboard_time": 1728740124,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 271774,
+        "num": 271774,
+        "word": "混双",
+        "onboard_time": 1728740483,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 259576,
+        "num": 259576,
+        "word": "难听",
+        "onboard_time": 1728743363,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170637,
+        "num": 259394,
+        "word": "小巷人家",
+        "onboard_time": 1728742461,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 259233,
+        "num": 259233,
+        "word": "李一桐生图直出",
+        "onboard_time": 1728741983,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 217577,
+        "num": 217577,
+        "word": "表白墙捞人结果捞到了老师",
+        "onboard_time": 1728742161,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 191826,
+        "num": 191826,
+        "word": "郑钦文决赛将再战萨巴伦卡",
+        "onboard_time": 1728741202,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 189361,
+        "num": 189361,
+        "word": "亚锦赛赛程",
+        "onboard_time": 1728743002,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 185491,
+        "num": 185491,
+        "word": "听泉鉴宝 盗墓",
+        "onboard_time": 1728706519,
+        "rank": 36,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 182609,
+        "num": 182609,
+        "word": "SEVENTEEN演唱会着火",
+        "onboard_time": 1728729859,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 173512,
+        "num": 173512,
+        "word": "王亚飞发迪丽热巴",
+        "onboard_time": 1728733580,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 162306,
+        "num": 162306,
+        "word": "亚锦赛",
+        "onboard_time": 1728739522,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159745,
+        "num": 159745,
+        "word": "蔡徐坤 支持我戴",
+        "onboard_time": 1728714560,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155972,
+        "num": 155972,
+        "word": "罗宜宁嫡千金变私生女",
+        "onboard_time": 1728737421,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153132,
+        "num": 153132,
+        "word": "报告指认以色列欲摧毁加沙卫生系统",
+        "onboard_time": 1728721159,
+        "rank": 42,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 150589,
+        "num": 150589,
+        "word": "虞书欣粉百合美人",
+        "onboard_time": 1728729560,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 147253,
+        "num": 147253,
+        "word": "你好星期六",
+        "onboard_time": 1728733398,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144254,
+        "num": 144254,
+        "word": "陈幸同好冷静",
+        "onboard_time": 1728737901,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144109,
+        "num": 144109,
+        "word": "阿斯塔纳亚锦赛",
+        "onboard_time": 1728740722,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142103,
+        "num": 142103,
+        "word": "檀健次经纪人聊天记录",
+        "onboard_time": 1728714199,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132859,
+        "num": 132859,
+        "word": "汪苏泷说在大莲花打车都要20",
+        "onboard_time": 1728740304,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 130446,
+        "num": 130446,
+        "word": "梁王组合无缘北极赛决赛",
+        "onboard_time": 1728734121,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向埃塞俄比亚新任总统塔耶致贺电#"
+    }
+  }
+}
