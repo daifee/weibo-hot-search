@@ -1,0 +1,410 @@
+{
+  "runTime": 1728768142222,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 125442,
+        "num": 133977,
+        "word": "死死顶住失控车辆的他获赠新车",
+        "onboard_time": 1728750797,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 82698,
+        "num": 82698,
+        "word": "王楚钦止步亚锦赛8强",
+        "onboard_time": 1728738325,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1538,
+        "num": 71623,
+        "word": "秋日林场景色如画",
+        "onboard_time": 1728735860,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 69393,
+        "num": 69393,
+        "word": "财政部同意销毁28款即开型彩票",
+        "onboard_time": 1728739942,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 68822,
+        "num": 68822,
+        "word": "北大校友否认听泉鉴宝学历",
+        "onboard_time": 1728735560,
+        "rank": 4,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 61353,
+        "num": 61353,
+        "word": "孩子走失可用十人四追法寻人",
+        "onboard_time": 1728751996,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 57994,
+        "num": 57994,
+        "word": "迈巴赫经销商承诺漏水负责到底",
+        "onboard_time": 1728762252,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 52953,
+        "num": 52953,
+        "word": "林诗栋蒯曼亚锦赛夺冠",
+        "onboard_time": 1728747921,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 35849,
+        "num": 35849,
+        "word": "财政部长请大家放心",
+        "onboard_time": 1728730279,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 34642,
+        "num": 34642,
+        "word": "听泉鉴宝",
+        "onboard_time": 1728739283,
+        "rank": 9,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 148535,
+        "num": 34626,
+        "word": "东北雨姐启动退一赔三",
+        "onboard_time": 1728747621,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123993,
+        "num": 34489,
+        "word": "东北雨姐发文道歉",
+        "onboard_time": 1728740844,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108591,
+        "num": 34339,
+        "word": "22岁冠心病女生不想做支架狂炫中药",
+        "onboard_time": 1728741563,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92582,
+        "num": 34257,
+        "word": "B太回应曾夸东北雨姐真实",
+        "onboard_time": 1728736760,
+        "rank": 13,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 89288,
+        "num": 34137,
+        "word": "一家三口被撞身亡司机想帮养老换谅解",
+        "onboard_time": 1728740363,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 66423,
+        "num": 34050,
+        "word": "2人走私2.7吨活体蛇被刑拘",
+        "onboard_time": 1728739583,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 55057,
+        "num": 33953,
+        "word": "河南一高三学生晕倒猝死",
+        "onboard_time": 1728747201,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 40289,
+        "num": 33843,
+        "word": "王俊凯 环球影城",
+        "onboard_time": 1728740304,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25059,
+        "num": 33826,
+        "word": "赵露思说目前没有拍电影的打算",
+        "onboard_time": 1728737482,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 14223,
+        "num": 33677,
+        "word": "姜杰一审被判死缓",
+        "onboard_time": 1728765852,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36676,
+        "num": 33597,
+        "word": "难听",
+        "onboard_time": 1728743363,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 33524,
+        "num": 33524,
+        "word": "受教育的意义在这一刻发光了",
+        "onboard_time": 1728749600,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31149,
+        "num": 31149,
+        "word": "国乒女单无缘亚锦赛四强",
+        "onboard_time": 1728736700,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 30279,
+        "num": 30279,
+        "word": "张本美和vs金琴英",
+        "onboard_time": 1728746481,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 28839,
+        "num": 28839,
+        "word": "表白墙捞人结果捞到了老师",
+        "onboard_time": 1728742161,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 25455,
+        "num": 26875,
+        "word": "46名老人买神药被骗仅1人报警",
+        "onboard_time": 1728766091,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26861,
+        "num": 26861,
+        "word": "拜登要求以色列停止袭击联黎部队",
+        "onboard_time": 1728743662,
+        "rank": 26,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 17996,
+        "num": 26522,
+        "word": "关晓彤探班张艺兴音乐话剧",
+        "onboard_time": 1728742703,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 17664,
+        "num": 26501,
+        "word": "听泉鉴宝学校信息已更改",
+        "onboard_time": 1728740963,
+        "rank": 28,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 15838,
+        "num": 26497,
+        "word": "微博视界大会年度推荐",
+        "onboard_time": 1728754815,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 26494,
+        "num": 26494,
+        "word": "法意西三国发表联合声明谴责以色列",
+        "onboard_time": 1728754394,
+        "rank": 30,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 26274,
+        "num": 26274,
+        "word": "大四学生失联数月家属称其挂科8门",
+        "onboard_time": 1728736940,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26103,
+        "num": 26103,
+        "word": "东北人扒开了家中20年老火炕",
+        "onboard_time": 1728761230,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25847,
+        "num": 25847,
+        "word": "11天没有任何食品援助进入加沙",
+        "onboard_time": 1728762552,
+        "rank": 33,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 25256,
+        "num": 25256,
+        "word": "亚锦赛",
+        "onboard_time": 1728739522,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 24605,
+        "num": 24605,
+        "word": "律师谈景德镇一家三口被撞身亡",
+        "onboard_time": 1728759912,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24358,
+        "num": 24358,
+        "word": "S14",
+        "onboard_time": 1728744922,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 24214,
+        "num": 24214,
+        "word": "直播间一眼假的名家字画谁在买",
+        "onboard_time": 1728760812,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23915,
+        "num": 23915,
+        "word": "中国赴黎巴嫩维和部队平安",
+        "onboard_time": 1728757693,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 23749,
+        "num": 23749,
+        "word": "河南一中学通报高三学生晕倒猝死",
+        "onboard_time": 1728757933,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23576,
+        "num": 23576,
+        "word": "在新疆的湖州蟹一只能卖100元",
+        "onboard_time": 1728764832,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23197,
+        "num": 23197,
+        "word": "俄意法等多国谴责以色列",
+        "onboard_time": 1728755652,
+        "rank": 41,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 22103,
+        "num": 22103,
+        "word": "你的房贷还完了吗",
+        "onboard_time": 1728732920,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21609,
+        "num": 21609,
+        "word": "警察办案被曝收当事人3000元差旅费",
+        "onboard_time": 1728756913,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20362,
+        "num": 20362,
+        "word": "余华英多次作案带上女儿作饵",
+        "onboard_time": 1728760451,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20149,
+        "num": 20149,
+        "word": "11个月大失聪宝宝第一次听到声音",
+        "onboard_time": 1728756373,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19760,
+        "num": 19760,
+        "word": "SEVENTEEN演唱会着火",
+        "onboard_time": 1728729859,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 19693,
+        "num": 19693,
+        "word": "乔妍的烟被P掉了",
+        "onboard_time": 1728744622,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 19283,
+        "num": 19693,
+        "word": "我驻黎维和官兵完成紧急应急演练",
+        "onboard_time": 1728763331,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 19022,
+        "num": 19693,
+        "word": "刀郎 南京",
+        "onboard_time": 1728756672,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向埃塞俄比亚新任总统塔耶致贺电#"
+    }
+  }
+}
