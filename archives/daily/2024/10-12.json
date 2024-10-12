@@ -1,6 +1,6 @@
 {
   "startTime": 1728664067735,
-  "endTime": 1728725765306,
+  "endTime": 1728728484923,
   "band_list": [
     {
       "raw_hot": 4273020,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 1331357,
-      "num": 364733,
+      "num": 385138,
       "word": "女子头戴鲨鱼夹摔倒后成植物人",
       "onboard_time": 1728712040,
       "rank": 12,
@@ -116,7 +116,7 @@
     },
     {
       "raw_hot": 1046128,
-      "num": 360659,
+      "num": 384731,
       "word": "蔡徐坤 支持我戴",
       "onboard_time": 1728714560,
       "rank": 24,
@@ -137,6 +137,22 @@
       "onboard_time": 1728696500,
       "rank": 41,
       "category": "财经"
+    },
+    {
+      "raw_hot": 1001896,
+      "num": 385749,
+      "word": "儿子用父亲的旧手机消费了十多万",
+      "onboard_time": 1728720741,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 996009,
+      "num": 996009,
+      "word": "王艺迪0比3金琴英",
+      "onboard_time": 1728725960,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 954492,
@@ -180,7 +196,7 @@
     },
     {
       "raw_hot": 861104,
-      "num": 342234,
+      "num": 384436,
       "word": "檀健次经纪人聊天记录",
       "onboard_time": 1728714199,
       "rank": 26,
@@ -204,7 +220,7 @@
     },
     {
       "raw_hot": 827681,
-      "num": 320483,
+      "num": 342392,
       "word": "迈巴赫经销商回应新车漏水",
       "onboard_time": 1728720982,
       "rank": 48,
@@ -257,14 +273,6 @@
       "onboard_time": 1728695540,
       "rank": 27,
       "category": "财经"
-    },
-    {
-      "raw_hot": 688154,
-      "num": 333498,
-      "word": "儿子用父亲的旧手机消费了十多万",
-      "onboard_time": 1728720741,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 687814,
@@ -363,6 +371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 573473,
+      "num": 573473,
+      "word": "王楚钦vs吉村真晴",
+      "onboard_time": 1728726680,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 572110,
       "num": 314418,
       "word": "B太曾做客东北雨姐拍摄基地",
@@ -385,6 +401,14 @@
       "onboard_time": 1728657441,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 565190,
+      "num": 383813,
+      "word": "4S店称迈巴赫漏水已锁定具体问题点",
+      "onboard_time": 1728722660,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 556908,
@@ -444,7 +468,7 @@
     },
     {
       "raw_hot": 494675,
-      "num": 317144,
+      "num": 383678,
       "word": "闵塔鲨审美",
       "onboard_time": 1728723379,
       "rank": 21,
@@ -587,6 +611,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 387478,
+      "num": 387478,
+      "word": "彗星",
+      "onboard_time": 1728723920,
+      "rank": 41,
+      "category": "自然"
+    },
+    {
       "raw_hot": 381445,
       "num": 344890,
       "word": "公诉机关建议判余华英死刑",
@@ -609,6 +641,14 @@
       "onboard_time": 1728662238,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 375792,
+      "num": 375792,
+      "word": "尹净汉现场",
+      "onboard_time": 1728726199,
+      "rank": 22,
+      "category": "演出"
     },
     {
       "raw_hot": 371861,
@@ -681,14 +721,6 @@
       "onboard_time": 1728721460,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 337239,
-      "num": 337239,
-      "word": "4S店称迈巴赫漏水已锁定具体问题点",
-      "onboard_time": 1728722660,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 336041,
@@ -835,6 +867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 284494,
+      "num": 284494,
+      "word": "芒果新人学历",
+      "onboard_time": 1728726559,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 283994,
       "num": 283994,
       "word": "樊振东陈奕迅打网球互动",
@@ -849,6 +889,14 @@
       "onboard_time": 1728714919,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 278540,
+      "num": 288846,
+      "word": "理记举报江秋莲诈骗濒死五保户财产",
+      "onboard_time": 1728724279,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 274248,
@@ -891,6 +939,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 263587,
+      "num": 263587,
+      "word": "男子滞留哀牢山2天1夜获救",
+      "onboard_time": 1728722959,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 262776,
       "num": 262776,
       "word": "Vernon评论",
@@ -929,14 +985,6 @@
       "onboard_time": 1728702920,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 260311,
-      "num": 260311,
-      "word": "男子滞留哀牢山2天1夜获救",
-      "onboard_time": 1728722959,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 257522,
@@ -1091,6 +1139,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 227101,
+      "num": 227101,
+      "word": "景德镇车祸家属称对方曾想花钱私了",
+      "onboard_time": 1728725779,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 227068,
       "num": 227068,
       "word": "哀牢山没有蟒蛇但有毒蛇",
@@ -1115,12 +1171,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 220992,
-      "num": 220992,
+      "raw_hot": 222900,
+      "num": 222900,
       "word": "报告指认以色列欲摧毁加沙卫生系统",
       "onboard_time": 1728721159,
       "rank": 41,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 221145,
+      "num": 221145,
+      "word": "蒯曼1比3申裕斌",
+      "onboard_time": 1728728058,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 219885,
@@ -1163,6 +1227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 212735,
+      "num": 386052,
+      "word": "鸿蒙版微信正式上架",
+      "onboard_time": 1728725360,
+      "rank": 48,
+      "category": "互联网,数码"
+    },
+    {
       "raw_hot": 212596,
       "num": 212596,
       "word": "因放弃卖贵价商品获好评列车员被停工",
@@ -1193,6 +1265,14 @@
       "onboard_time": 1728706340,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 209210,
+      "num": 322637,
+      "word": "年轻人开始养黏菌当宠物",
+      "onboard_time": 1728724099,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 208141,
@@ -1249,6 +1329,14 @@
       "onboard_time": 1728715819,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 201530,
+      "num": 194334,
+      "word": "王艺迪止步女单16强",
+      "onboard_time": 1728727639,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 201289,
@@ -1347,14 +1435,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 192308,
-      "num": 192308,
-      "word": "彗星",
-      "onboard_time": 1728723920,
-      "rank": 41,
-      "category": "自然"
-    },
-    {
       "raw_hot": 191809,
       "num": 191809,
       "word": "将置换地方政府存量隐性债务",
@@ -1387,20 +1467,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 188988,
+      "num": 271403,
+      "word": "萨巴伦卡vs高芙",
+      "onboard_time": 1728725539,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 188608,
       "num": 206906,
       "word": "李佳琦发文回应淘汰",
       "onboard_time": 1728715281,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 188411,
-      "num": 288846,
-      "word": "理记举报江秋莲诈骗濒死五保户财产",
-      "onboard_time": 1728724279,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 188081,
@@ -1603,6 +1683,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 166542,
+      "num": 283704,
+      "word": "乐华艺人也要内部竞争",
+      "onboard_time": 1728727339,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 165219,
       "num": 303600,
       "word": "尼加拉瓜宣布与以色列断交",
@@ -1633,14 +1721,6 @@
       "onboard_time": 1728725659,
       "rank": 47,
       "category": "演出"
-    },
-    {
-      "raw_hot": 161848,
-      "num": 161848,
-      "word": "鸿蒙版微信正式上架",
-      "onboard_time": 1728725360,
-      "rank": 48,
-      "category": "互联网,数码"
     },
     {
       "raw_hot": 161549,
@@ -1683,6 +1763,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 157948,
+      "num": 298579,
+      "word": "漏水迈巴赫经销商发声明",
+      "onboard_time": 1728724999,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 157143,
       "num": 157143,
       "word": "李帝努开球",
@@ -1705,6 +1793,14 @@
       "onboard_time": 1728711860,
       "rank": 49,
       "category": "游戏,艺人"
+    },
+    {
+      "raw_hot": 155537,
+      "num": 155537,
+      "word": "中华田园犬大战2米毒蛇保护110",
+      "onboard_time": 1728728420,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 155308,
@@ -1817,14 +1913,6 @@
       "onboard_time": 1728697339,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 134686,
-      "num": 298579,
-      "word": "漏水迈巴赫经销商发声明",
-      "onboard_time": 1728724999,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 133675,
@@ -2059,6 +2147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 84212,
+      "num": 279637,
+      "word": "迈巴赫漏水车主贴雨布维权最新进展",
+      "onboard_time": 1728728420,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 83919,
       "num": 83919,
       "word": "看樊振东发球看出了三种球的影子",
@@ -2107,6 +2203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 77339,
+      "num": 385428,
+      "word": "我的宝藏家乡",
+      "onboard_time": 1728727159,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 76456,
       "num": 76456,
       "word": "魏大勋给孟宴臣庆生",
@@ -2129,14 +2233,6 @@
       "onboard_time": 1728663617,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 72940,
-      "num": 322637,
-      "word": "年轻人开始养黏菌当宠物",
-      "onboard_time": 1728724099,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 72906,
@@ -2379,6 +2475,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 38160,
+      "num": 384991,
+      "word": "律师称饭店强制收取餐具费涉违法",
+      "onboard_time": 1728727280,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 38072,
+      "num": 281288,
+      "word": "何小鹏称P7+全系标配改变买车习惯",
+      "onboard_time": 1728724639,
+      "rank": 35,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 36436,
       "num": 112323,
       "word": "杨妞花称靠记忆中父母的爱走到今天",
@@ -2393,14 +2505,6 @@
       "onboard_time": 1728721820,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 36175,
-      "num": 280249,
-      "word": "何小鹏称P7+全系标配改变买车习惯",
-      "onboard_time": 1728724639,
-      "rank": 35,
-      "category": "汽车"
     },
     {
       "raw_hot": 35662,
@@ -2483,14 +2587,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 29074,
-      "num": 271403,
-      "word": "萨巴伦卡vs高芙",
-      "onboard_time": 1728725539,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 27835,
       "num": 320085,
       "word": "学习困难门诊一号难求",
@@ -2547,6 +2643,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 19691,
+      "num": 384022,
+      "word": "披荆斩棘4舞到微博视界大会",
+      "onboard_time": 1728727940,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 19592,
       "num": 19592,
       "word": "孩子走失立即报警不用等24小时",
@@ -2585,6 +2689,14 @@
       "onboard_time": 1728650960,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 14626,
+      "num": 384282,
+      "word": "王楚钦3比1吉村真晴",
+      "onboard_time": 1728728359,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 12228,

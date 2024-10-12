@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/10/01 00:28:17 ~ 2024/10/12 17:36:05
+本榜单时间：2024/10/01 00:28:17 ~ 2024/10/12 18:21:24
 </p>
 </blockquote>
 <p>
@@ -1737,6 +1737,12 @@ A股彻底爆了现在进场还来得及吗（热度：1030303）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%84%BF%E5%AD%90%E7%94%A8%E7%88%B6%E4%BA%B2%E7%9A%84%E6%97%A7%E6%89%8B%E6%9C%BA%E6%B6%88%E8%B4%B9%E4%BA%86%E5%8D%81%E5%A4%9A%E4%B8%87%23" target="weibo">
+儿子用父亲的旧手机消费了十多万（热度：1001896）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%A4%E4%B8%AA%E6%9C%88%E5%90%8E%E6%97%A5%E6%9C%AC%E6%89%BE%E5%88%B0%E4%BC%A4%E5%AE%B3%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E5%87%B6%E6%89%8B%23" target="weibo">
 两个月后日本找到伤害中国游客凶手（热度：999594）
 </a>
@@ -1751,6 +1757,12 @@ A股遭遇背刺（热度：998421）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%8A%E6%99%9A%E5%8F%AF%E8%83%BD%E5%8F%91%E7%94%9F%E5%BC%BA%E5%9C%B0%E7%A3%81%E6%9A%B4%23" target="weibo">
 今晚可能发生强地磁暴（热度：996450）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%89%BA%E8%BF%AA0%E6%AF%943%E9%87%91%E7%90%B4%E8%8B%B1%23" target="weibo">
+王艺迪0比3金琴英（热度：996009）
 </a>
 </li>
 
@@ -3093,12 +3105,6 @@ SM确认洪承汉不退团（热度：728564）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%84%BF%E5%AD%90%E7%94%A8%E7%88%B6%E4%BA%B2%E7%9A%84%E6%97%A7%E6%89%8B%E6%9C%BA%E6%B6%88%E8%B4%B9%E4%BA%86%E5%8D%81%E5%A4%9A%E4%B8%87%23" target="weibo">
-儿子用父亲的旧手机消费了十多万（热度：688154）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%8F%8C%23" target="weibo">
 男双（热度：687814）
 </a>
@@ -4023,6 +4029,12 @@ GEN战胜WBG（热度：588542）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6vs%E5%90%89%E6%9D%91%E7%9C%9F%E6%99%B4%23" target="weibo">
+王楚钦vs吉村真晴（热度：573473）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BB%93%E5%A9%9A%E5%BD%93%E5%A4%A9%E6%96%B0%E5%A8%98%E5%93%A5%E5%93%A5%E8%B6%B4%E8%BD%A6%E5%A4%B4%E7%B4%A2%E8%A6%81%E5%BD%A9%E7%A4%BC%23" target="weibo">
 结婚当天新娘哥哥趴车头索要彩礼（热度：572617）
 </a>
@@ -4109,6 +4121,12 @@ B太曾做客东北雨姐拍摄基地（热度：572110）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%AE%9E%E5%90%8D%E4%B8%BE%E6%8A%A5%E8%A2%AB%E5%9B%9B%E5%B7%9D%E4%B8%80%E4%B8%AD%E5%AD%A6%E7%BA%AA%E5%A7%94%E4%B9%A6%E8%AE%B0%E5%BC%BA%E6%9A%B4%23" target="weibo">
 女子实名举报被四川一中学纪委书记强暴（热度：565371）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%234S%E5%BA%97%E7%A7%B0%E8%BF%88%E5%B7%B4%E8%B5%AB%E6%BC%8F%E6%B0%B4%E5%B7%B2%E9%94%81%E5%AE%9A%E5%85%B7%E4%BD%93%E9%97%AE%E9%A2%98%E7%82%B9%23" target="weibo">
+4S店称迈巴赫漏水已锁定具体问题点（热度：565190）
 </a>
 </li>
 
@@ -5993,24 +6011,6 @@ iPhone16遭苹果砍单（热度：399576）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%99%93%E5%8D%89%20%E6%88%91%E8%B7%9F%E6%88%BF%E4%BB%B7%E9%A1%B6%E5%B3%B0%E7%9B%B8%E8%A7%81%E4%BA%86%23" target="weibo">
 晓卉 我跟房价顶峰相见了（热度：394263）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E8%AF%97%E6%A0%8B%E5%9D%90%E7%8E%8B%E6%A5%9A%E9%92%A6%E8%A1%8C%E6%9D%8E%E7%AE%B1%E4%B8%8A%E7%9C%8B%E6%AF%94%E8%B5%9B%23" target="weibo">
-林诗栋坐王楚钦行李箱上看比赛（热度：393976）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23BIGBANG%E5%AE%8C%E6%95%B4%E4%BD%93%E5%87%BA%E6%BC%94MAMA%23" target="weibo">
-BIGBANG完整体出演MAMA（热度：392844）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E7%94%B7%E5%9B%A2%20%E6%93%A6%E7%BD%91%23" target="weibo">
-伊朗男团 擦网（热度：392329）
 </a>
 </li>
 

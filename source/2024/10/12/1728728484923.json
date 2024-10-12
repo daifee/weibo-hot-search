@@ -1,0 +1,410 @@
+{
+  "runTime": 1728728484923,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 20722,
+        "num": 1003315,
+        "word": "吴邦国同志遗体10月14日火化",
+        "onboard_time": 1728711500,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 996009,
+        "num": 996009,
+        "word": "王艺迪0比3金琴英",
+        "onboard_time": 1728725960,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 20445,
+        "num": 599119,
+        "word": "透过成绩单看国家公园建设成效",
+        "onboard_time": 1728720800,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 592937,
+        "num": 592937,
+        "word": "山东高密公布市委书记等领导手机号",
+        "onboard_time": 1728722179,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 573473,
+        "num": 573473,
+        "word": "王楚钦vs吉村真晴",
+        "onboard_time": 1728726680,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 533643,
+        "num": 533643,
+        "word": "东北雨姐被罚165万",
+        "onboard_time": 1728711739,
+        "rank": 5,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 517138,
+        "num": 517138,
+        "word": "林高远林诗栋11比0",
+        "onboard_time": 1728719240,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 387478,
+        "num": 387478,
+        "word": "彗星",
+        "onboard_time": 1728723920,
+        "rank": 7,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 386136,
+        "num": 386136,
+        "word": "许昕3比2刘家良",
+        "onboard_time": 1728721039,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 212735,
+        "num": 386052,
+        "word": "鸿蒙版微信正式上架",
+        "onboard_time": 1728725360,
+        "rank": 9,
+        "category": "互联网,数码"
+      },
+      {
+        "raw_hot": 1001896,
+        "num": 385749,
+        "word": "儿子用父亲的旧手机消费了十多万",
+        "onboard_time": 1728720741,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 999379,
+        "num": 385582,
+        "word": "日本梅毒",
+        "onboard_time": 1728702619,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 77339,
+        "num": 385428,
+        "word": "我的宝藏家乡",
+        "onboard_time": 1728727159,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 736746,
+        "num": 385138,
+        "word": "女子头戴鲨鱼夹摔倒后成植物人",
+        "onboard_time": 1728712040,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38160,
+        "num": 384991,
+        "word": "律师称饭店强制收取餐具费涉违法",
+        "onboard_time": 1728727280,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 719498,
+        "num": 384731,
+        "word": "蔡徐坤 支持我戴",
+        "onboard_time": 1728714560,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 642652,
+        "num": 384527,
+        "word": "听泉鉴宝 盗墓",
+        "onboard_time": 1728706519,
+        "rank": 16,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 599620,
+        "num": 384436,
+        "word": "檀健次经纪人聊天记录",
+        "onboard_time": 1728714199,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14626,
+        "num": 384282,
+        "word": "王楚钦3比1吉村真晴",
+        "onboard_time": 1728728359,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19691,
+        "num": 384022,
+        "word": "披荆斩棘4舞到微博视界大会",
+        "onboard_time": 1728727940,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 565190,
+        "num": 383813,
+        "word": "4S店称迈巴赫漏水已锁定具体问题点",
+        "onboard_time": 1728722660,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 383678,
+        "num": 383678,
+        "word": "闵塔鲨审美",
+        "onboard_time": 1728723379,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 375792,
+        "num": 375792,
+        "word": "尹净汉现场",
+        "onboard_time": 1728726199,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 342392,
+        "num": 342392,
+        "word": "迈巴赫经销商回应新车漏水",
+        "onboard_time": 1728720982,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 284494,
+        "num": 284494,
+        "word": "芒果新人学历",
+        "onboard_time": 1728726559,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166542,
+        "num": 283704,
+        "word": "乐华艺人也要内部竞争",
+        "onboard_time": 1728727339,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157154,
+        "num": 282875,
+        "word": "B太曾做客东北雨姐拍摄基地",
+        "onboard_time": 1728713781,
+        "rank": 26,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 38072,
+        "num": 281288,
+        "word": "何小鹏称P7+全系标配改变买车习惯",
+        "onboard_time": 1728724639,
+        "rank": 27,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 151682,
+        "num": 280088,
+        "word": "陈都灵金鱼姬",
+        "onboard_time": 1728719418,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 84212,
+        "num": 279637,
+        "word": "迈巴赫漏水车主贴雨布维权最新进展",
+        "onboard_time": 1728728420,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 278540,
+        "num": 278540,
+        "word": "理记举报江秋莲诈骗濒死五保户财产",
+        "onboard_time": 1728724279,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 263587,
+        "num": 263587,
+        "word": "男子滞留哀牢山2天1夜获救",
+        "onboard_time": 1728722959,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238563,
+        "num": 238563,
+        "word": "周震南给周柯宇从A班降到F班",
+        "onboard_time": 1728721460,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 227101,
+        "num": 227101,
+        "word": "景德镇车祸家属称对方曾想花钱私了",
+        "onboard_time": 1728725779,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222900,
+        "num": 222900,
+        "word": "报告指认以色列欲摧毁加沙卫生系统",
+        "onboard_time": 1728721159,
+        "rank": 34,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 221145,
+        "num": 221145,
+        "word": "蒯曼1比3申裕斌",
+        "onboard_time": 1728728058,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 213803,
+        "num": 213803,
+        "word": "女子颈椎病被医生舌下扎针治好",
+        "onboard_time": 1728718519,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203542,
+        "num": 203542,
+        "word": "张元英百美第一",
+        "onboard_time": 1728724400,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 209210,
+        "num": 203420,
+        "word": "年轻人开始养黏菌当宠物",
+        "onboard_time": 1728724099,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 77137,
+        "num": 200924,
+        "word": "Jennie打破今年kpop女solo一位纪录",
+        "onboard_time": 1728711800,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 199112,
+        "num": 199112,
+        "word": "男双",
+        "onboard_time": 1728720021,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 201530,
+        "num": 194334,
+        "word": "王艺迪止步女单16强",
+        "onboard_time": 1728727639,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 188988,
+        "num": 188988,
+        "word": "萨巴伦卡vs高芙",
+        "onboard_time": 1728725539,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 175225,
+        "num": 175225,
+        "word": "儿子因病离世父亲一夜白头",
+        "onboard_time": 1728720918,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174252,
+        "num": 174252,
+        "word": "一家三口被撞身亡车祸细节披露",
+        "onboard_time": 1728703939,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160889,
+        "num": 160889,
+        "word": "Faker正在接受治疗",
+        "onboard_time": 1728725299,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 157948,
+        "num": 157948,
+        "word": "漏水迈巴赫经销商发声明",
+        "onboard_time": 1728724999,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156765,
+        "num": 156765,
+        "word": "东北雨姐粉条调查结果",
+        "onboard_time": 1728716960,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155537,
+        "num": 155537,
+        "word": "中华田园犬大战2米毒蛇保护110",
+        "onboard_time": 1728728420,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155011,
+        "num": 155011,
+        "word": "国家奖学金",
+        "onboard_time": 1728712641,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#感悟总书记的传统文化情结#"
+    }
+  }
+}
