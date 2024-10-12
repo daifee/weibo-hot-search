@@ -1,6 +1,6 @@
 {
   "startTime": 1728664067735,
-  "endTime": 1728731948780,
+  "endTime": 1728732911981,
   "band_list": [
     {
       "raw_hot": 4273020,
@@ -9,6 +9,14 @@
       "onboard_time": 1728702619,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2253143,
+      "num": 971805,
+      "word": "财政部长请大家放心",
+      "onboard_time": 1728730279,
+      "rank": 1,
+      "category": "国内时政"
     },
     {
       "raw_hot": 2104271,
@@ -97,14 +105,6 @@
       "onboard_time": 1728703939,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1152376,
-      "num": 971805,
-      "word": "财政部长请大家放心",
-      "onboard_time": 1728730279,
-      "rank": 1,
-      "category": "国内时政"
     },
     {
       "raw_hot": 1131023,
@@ -200,6 +200,14 @@
       "word": "许昕3比2刘家良",
       "onboard_time": 1728721039,
       "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 874290,
+      "num": 874290,
+      "word": "亚锦赛女单",
+      "onboard_time": 1728730640,
+      "rank": 8,
       "category": "体育"
     },
     {
@@ -299,6 +307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 686805,
+      "num": 686805,
+      "word": "中华田园犬大战2米毒蛇保护110",
+      "onboard_time": 1728728420,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 675406,
       "num": 675406,
       "word": "王楚钦vs吉村真晴",
@@ -321,14 +337,6 @@
       "onboard_time": 1728699199,
       "rank": 3,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 659784,
-      "num": 659784,
-      "word": "中华田园犬大战2米毒蛇保护110",
-      "onboard_time": 1728728420,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 656438,
@@ -369,6 +377,14 @@
       "onboard_time": 1728690078,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 610921,
+      "num": 450009,
+      "word": "时代峰峻噪声超标被罚1.25万",
+      "onboard_time": 1728729979,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 583418,
@@ -433,14 +449,6 @@
       "onboard_time": 1728657441,
       "rank": 0,
       "category": "体育"
-    },
-    {
-      "raw_hot": 565786,
-      "num": 450009,
-      "word": "时代峰峻噪声超标被罚1.25万",
-      "onboard_time": 1728729979,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 565190,
@@ -571,14 +579,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 462775,
-      "num": 462775,
-      "word": "亚锦赛女单",
-      "onboard_time": 1728730640,
-      "rank": 8,
-      "category": "体育"
-    },
-    {
       "raw_hot": 458666,
       "num": 458666,
       "word": "二线城市30年贷款100万每月可省170元",
@@ -641,6 +641,14 @@
       "onboard_time": 1728715281,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 408466,
+      "num": 408466,
+      "word": "郑钦文vs王欣瑜",
+      "onboard_time": 1728731420,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 404910,
@@ -816,6 +824,14 @@
       "word": "打着免费注射神药的旗号敛财1亿多",
       "onboard_time": 1728682513,
       "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 320299,
+      "num": 320299,
+      "word": "骑行男孩身亡案司机赔偿后获谅解",
+      "onboard_time": 1728731719,
+      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -995,6 +1011,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 270155,
+      "num": 270155,
+      "word": "虞书欣粉百合美人",
+      "onboard_time": 1728729560,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 268574,
       "num": 268574,
       "word": "王者荣耀共创之夜",
@@ -1035,14 +1059,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 262078,
-      "num": 262078,
-      "word": "虞书欣粉百合美人",
-      "onboard_time": 1728729560,
-      "rank": 25,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 262008,
       "num": 262008,
       "word": "景德镇车祸家属称对方曾想花钱私了",
@@ -1075,20 +1091,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 260167,
+      "num": 260167,
+      "word": "周杰伦林俊杰钢琴合唱",
+      "onboard_time": 1728728720,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 257522,
       "num": 281595,
       "word": "近年支持化债力度最大的措施将出台",
       "onboard_time": 1728702980,
       "rank": 23,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 256657,
-      "num": 256657,
-      "word": "周杰伦林俊杰钢琴合唱",
-      "onboard_time": 1728728720,
-      "rank": 30,
-      "category": "演出"
     },
     {
       "raw_hot": 254698,
@@ -1171,12 +1187,36 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 240168,
+      "num": 240168,
+      "word": "收到同事救命信息赶去救下一命",
+      "onboard_time": 1728729620,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 238624,
+      "num": 238624,
+      "word": "34岁男子被裁后去哀牢山被困",
+      "onboard_time": 1728731660,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 236915,
       "num": 236915,
       "word": "支持推动房地产止跌回稳",
       "onboard_time": 1728702739,
       "rank": 33,
       "category": "财经"
+    },
+    {
+      "raw_hot": 235886,
+      "num": 235886,
+      "word": "王楚钦战胜日本选手进8强",
+      "onboard_time": 1728732499,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 235599,
@@ -1193,6 +1233,14 @@
       "onboard_time": 1728650480,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 235065,
+      "num": 456321,
+      "word": "日本政府宣布加强对色情行业监管",
+      "onboard_time": 1728731478,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 231924,
@@ -1315,14 +1363,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 217401,
-      "num": 217401,
-      "word": "郑钦文vs王欣瑜",
-      "onboard_time": 1728731420,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 215343,
       "num": 215343,
       "word": "郑钦文说在美网被陪练水平气到",
@@ -1395,6 +1435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 208027,
+      "num": 208027,
+      "word": "萨巴伦卡晋级武网决赛",
+      "onboard_time": 1728732139,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 206456,
       "num": 206456,
       "word": "但斌任泽平吵架",
@@ -1433,6 +1481,14 @@
       "onboard_time": 1728730459,
       "rank": 33,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 203314,
+      "num": 203314,
+      "word": "武网",
+      "onboard_time": 1728732439,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 202793,
@@ -1475,12 +1531,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 200568,
-      "num": 200568,
-      "word": "收到同事救命信息赶去救下一命",
-      "onboard_time": 1728729620,
-      "rank": 34,
-      "category": "社会新闻"
+      "raw_hot": 199825,
+      "num": 199825,
+      "word": "SEVENTEEN water",
+      "onboard_time": 1728731780,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 198552,
@@ -1763,22 +1819,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 173117,
-      "num": 173117,
-      "word": "SEVENTEEN water",
-      "onboard_time": 1728731780,
-      "rank": 41,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 169603,
-      "num": 169603,
-      "word": "骑行男孩身亡案司机赔偿后获谅解",
-      "onboard_time": 1728731719,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 169404,
       "num": 472370,
       "word": "曾黎妈妈32年前的家书",
@@ -1835,14 +1875,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 166737,
-      "num": 166737,
-      "word": "34岁男子被裁后去哀牢山被困",
-      "onboard_time": 1728731660,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 166582,
       "num": 166582,
       "word": "第五人格",
@@ -1852,7 +1884,7 @@
     },
     {
       "raw_hot": 166542,
-      "num": 283704,
+      "num": 295039,
       "word": "乐华艺人也要内部竞争",
       "onboard_time": 1728727339,
       "rank": 25,
@@ -1905,6 +1937,14 @@
       "onboard_time": 1728688095,
       "rank": 34,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 158944,
+      "num": 158944,
+      "word": "亚锦赛国乒男双全军覆没",
+      "onboard_time": 1728732800,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 158709,
@@ -1968,6 +2008,14 @@
       "word": "我的宝藏家乡",
       "onboard_time": 1728727159,
       "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 147659,
+      "num": 151981,
+      "word": "一起打卡秋天里的中国",
+      "onboard_time": 1728731959,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -2363,14 +2411,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 77632,
-      "num": 456321,
-      "word": "日本政府宣布加强对色情行业监管",
-      "onboard_time": 1728731478,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 76456,
       "num": 76456,
       "word": "魏大勋给孟宴臣庆生",
@@ -2465,6 +2505,14 @@
       "onboard_time": 1728716478,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 59541,
+      "num": 378840,
+      "word": "CBA30年祝福有我",
+      "onboard_time": 1728732319,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 58815,
@@ -2627,6 +2675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 39063,
+      "num": 295195,
+      "word": "王一博的人生充满passion",
+      "onboard_time": 1728728901,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 39029,
       "num": 135886,
       "word": "八段锦的风还是吹到了街舞",
@@ -2681,14 +2737,6 @@
       "onboard_time": 1728673152,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 34386,
-      "num": 265359,
-      "word": "王一博的人生充满passion",
-      "onboard_time": 1728728901,
-      "rank": 32,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 33601,
@@ -2779,6 +2827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 25210,
+      "num": 363917,
+      "word": "哈利波特给你的青春留下了什么",
+      "onboard_time": 1728732319,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
       "raw_hot": 24798,
       "num": 132003,
       "word": "被拐女孩说相信会有好的结果",
@@ -2787,7 +2843,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 21861,
+      "raw_hot": 22832,
       "num": 442749,
       "word": "遏制水博要祛除学历崇拜的病根",
       "onboard_time": 1728731239,

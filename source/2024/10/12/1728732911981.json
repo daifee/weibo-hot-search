@@ -1,0 +1,410 @@
+{
+  "runTime": 1728732911981,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 19882,
+        "num": 1003181,
+        "word": "吴邦国同志遗体10月14日火化",
+        "onboard_time": 1728711500,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 874290,
+        "num": 874290,
+        "word": "亚锦赛女单",
+        "onboard_time": 1728730640,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 5512,
+        "num": 772142,
+        "word": "透过成绩单看国家公园建设成效",
+        "onboard_time": 1728720800,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2253143,
+        "num": 751764,
+        "word": "财政部长请大家放心",
+        "onboard_time": 1728730279,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 686805,
+        "num": 686805,
+        "word": "中华田园犬大战2米毒蛇保护110",
+        "onboard_time": 1728728420,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 605431,
+        "num": 605431,
+        "word": "王艺迪0比3金琴英",
+        "onboard_time": 1728725960,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 440882,
+        "num": 440882,
+        "word": "鸿蒙版微信正式上架",
+        "onboard_time": 1728725360,
+        "rank": 6,
+        "category": "互联网,数码"
+      },
+      {
+        "raw_hot": 408466,
+        "num": 408466,
+        "word": "郑钦文vs王欣瑜",
+        "onboard_time": 1728731420,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 392306,
+        "num": 392306,
+        "word": "王楚钦3比1吉村真晴",
+        "onboard_time": 1728728359,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 235065,
+        "num": 390963,
+        "word": "日本政府宣布加强对色情行业监管",
+        "onboard_time": 1728731478,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 888798,
+        "num": 387708,
+        "word": "SEVENTEEN演唱会着火",
+        "onboard_time": 1728729859,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 874984,
+        "num": 384746,
+        "word": "日本梅毒",
+        "onboard_time": 1728702619,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 610921,
+        "num": 383930,
+        "word": "时代峰峻噪声超标被罚1.25万",
+        "onboard_time": 1728729979,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22832,
+        "num": 381643,
+        "word": "遏制水博要祛除学历崇拜的病根",
+        "onboard_time": 1728731239,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 59541,
+        "num": 378840,
+        "word": "CBA30年祝福有我",
+        "onboard_time": 1728732319,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 533468,
+        "num": 374561,
+        "word": "听泉鉴宝 盗墓",
+        "onboard_time": 1728706519,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 509614,
+        "num": 372159,
+        "word": "檀健次经纪人聊天记录",
+        "onboard_time": 1728714199,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 490323,
+        "num": 369176,
+        "word": "女子头戴鲨鱼夹摔倒后成植物人",
+        "onboard_time": 1728712040,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 418161,
+        "num": 368599,
+        "word": "蔡徐坤 支持我戴",
+        "onboard_time": 1728714560,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 25210,
+        "num": 363917,
+        "word": "哈利波特给你的青春留下了什么",
+        "onboard_time": 1728732319,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 363558,
+        "num": 363558,
+        "word": "东北雨姐被罚165万",
+        "onboard_time": 1728711739,
+        "rank": 20,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 352495,
+        "num": 352495,
+        "word": "蒯曼1比3申裕斌",
+        "onboard_time": 1728728058,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 320299,
+        "num": 320299,
+        "word": "骑行男孩身亡案司机赔偿后获谅解",
+        "onboard_time": 1728731719,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 39063,
+        "num": 295195,
+        "word": "王一博的人生充满passion",
+        "onboard_time": 1728728901,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 115118,
+        "num": 295039,
+        "word": "乐华艺人也要内部竞争",
+        "onboard_time": 1728727339,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 294952,
+        "num": 294952,
+        "word": "女子颈椎病被医生舌下扎针治好",
+        "onboard_time": 1728718519,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 279072,
+        "num": 279072,
+        "word": "儿子用父亲的旧手机消费了十多万",
+        "onboard_time": 1728720741,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270155,
+        "num": 270155,
+        "word": "虞书欣粉百合美人",
+        "onboard_time": 1728729560,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 260167,
+        "num": 260167,
+        "word": "周杰伦林俊杰钢琴合唱",
+        "onboard_time": 1728728720,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 240168,
+        "num": 240168,
+        "word": "收到同事救命信息赶去救下一命",
+        "onboard_time": 1728729620,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238624,
+        "num": 238624,
+        "word": "34岁男子被裁后去哀牢山被困",
+        "onboard_time": 1728731660,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235886,
+        "num": 235886,
+        "word": "王楚钦战胜日本选手进8强",
+        "onboard_time": 1728732499,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 226707,
+        "num": 226707,
+        "word": "林高远林诗栋11比0",
+        "onboard_time": 1728719240,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 213979,
+        "num": 213979,
+        "word": "张晚意给任敏系了个蝴蝶结",
+        "onboard_time": 1728730939,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 212958,
+        "num": 212958,
+        "word": "报告指认以色列欲摧毁加沙卫生系统",
+        "onboard_time": 1728721159,
+        "rank": 34,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 208027,
+        "num": 208027,
+        "word": "萨巴伦卡晋级武网决赛",
+        "onboard_time": 1728732139,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 205311,
+        "num": 205311,
+        "word": "闵塔鲨审美",
+        "onboard_time": 1728723379,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 203314,
+        "num": 203314,
+        "word": "武网",
+        "onboard_time": 1728732439,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 199825,
+        "num": 199825,
+        "word": "SEVENTEEN water",
+        "onboard_time": 1728731780,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 197528,
+        "num": 197528,
+        "word": "白鹿公式照",
+        "onboard_time": 1728730580,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177220,
+        "num": 177220,
+        "word": "儿子因病离世父亲一夜白头",
+        "onboard_time": 1728720918,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174205,
+        "num": 174205,
+        "word": "驴奶皂",
+        "onboard_time": 1728728901,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 172822,
+        "num": 172822,
+        "word": "景德镇车祸家属称对方曾想花钱私了",
+        "onboard_time": 1728725779,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170166,
+        "num": 170166,
+        "word": "樊振东给陈奕迅撕乒乓球拍膜",
+        "onboard_time": 1728730459,
+        "rank": 43,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 162001,
+        "num": 162001,
+        "word": "徐瑛彬0比3张本智和",
+        "onboard_time": 1728729080,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 161568,
+        "num": 161568,
+        "word": "萨巴伦卡vs高芙",
+        "onboard_time": 1728725539,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158944,
+        "num": 158944,
+        "word": "亚锦赛国乒男双全军覆没",
+        "onboard_time": 1728732800,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 156010,
+        "num": 156010,
+        "word": "男双",
+        "onboard_time": 1728720021,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 155469,
+        "num": 155469,
+        "word": "东北雨姐账号所属mcn叫诚信",
+        "onboard_time": 1728726680,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147659,
+        "num": 151981,
+        "word": "一起打卡秋天里的中国",
+        "onboard_time": 1728731959,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#感悟总书记的传统文化情结#"
+    }
+  }
+}
