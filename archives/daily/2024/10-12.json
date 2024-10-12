@@ -1,6 +1,6 @@
 {
   "startTime": 1728664067735,
-  "endTime": 1728743833997,
+  "endTime": 1728746518305,
   "band_list": [
     {
       "raw_hot": 9645892,
@@ -49,6 +49,14 @@
       "onboard_time": 1728703040,
       "rank": 30,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1900186,
+      "num": 525733,
+      "word": "22岁冠心病女生不想做支架狂炫中药",
+      "onboard_time": 1728741563,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1856615,
@@ -105,6 +113,14 @@
       "onboard_time": 1728703220,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1579904,
+      "num": 288096,
+      "word": "难听",
+      "onboard_time": 1728743363,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 1563074,
@@ -219,14 +235,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 1005787,
-      "num": 525733,
-      "word": "22岁冠心病女生不想做支架狂炫中药",
-      "onboard_time": 1728741563,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1001896,
       "num": 396836,
       "word": "儿子用父亲的旧手机消费了十多万",
@@ -331,6 +339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 820289,
+      "num": 513723,
+      "word": "王俊凯 环球影城",
+      "onboard_time": 1728740304,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 789005,
       "num": 789005,
       "word": "财政部介绍加大逆周期调节力度",
@@ -363,19 +379,19 @@
       "category": "体育,作品衍生"
     },
     {
-      "raw_hot": 752490,
-      "num": 513723,
-      "word": "王俊凯 环球影城",
-      "onboard_time": 1728740304,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 744484,
       "num": 812329,
       "word": "付鹏称现在对于居民部门就干三件事",
       "onboard_time": 1728662478,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 742683,
+      "num": 742683,
+      "word": "财政部同意销毁28款即开型彩票",
+      "onboard_time": 1728739942,
+      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -400,14 +416,6 @@
       "word": "骑行男孩身亡案司机赔偿后获谅解",
       "onboard_time": 1728731719,
       "rank": 43,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 717190,
-      "num": 717190,
-      "word": "财政部同意销毁28款即开型彩票",
-      "onboard_time": 1728739942,
-      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -521,6 +529,14 @@
       "onboard_time": 1728734121,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 623911,
+      "num": 409869,
+      "word": "2人走私2.7吨活体蛇被刑拘",
+      "onboard_time": 1728739583,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 621543,
@@ -801,14 +817,6 @@
       "onboard_time": 1728693981,
       "rank": 21,
       "category": "情感"
-    },
-    {
-      "raw_hot": 459013,
-      "num": 409869,
-      "word": "2人走私2.7吨活体蛇被刑拘",
-      "onboard_time": 1728739583,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 458666,
@@ -1227,6 +1235,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 285190,
+      "num": 285190,
+      "word": "李一桐生图直出",
+      "onboard_time": 1728741983,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 284494,
       "num": 284494,
       "word": "芒果新人学历",
@@ -1264,6 +1280,14 @@
       "word": "理记举报江秋莲诈骗濒死五保户财产",
       "onboard_time": 1728724279,
       "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 275397,
+      "num": 288720,
+      "word": "被65岁大爷相亲简历潮到了",
+      "onboard_time": 1728745762,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -1331,6 +1355,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 266250,
+      "num": 217591,
+      "word": "张本美和vs金琴英",
+      "onboard_time": 1728746481,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 263587,
       "num": 263587,
       "word": "男子滞留哀牢山2天1夜获救",
@@ -1387,28 +1419,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 260263,
+      "num": 260263,
+      "word": "乔妍的烟被P掉了",
+      "onboard_time": 1728744622,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 260167,
       "num": 260167,
       "word": "周杰伦林俊杰钢琴合唱",
       "onboard_time": 1728728720,
       "rank": 30,
       "category": "演出"
-    },
-    {
-      "raw_hot": 259576,
-      "num": 259576,
-      "word": "难听",
-      "onboard_time": 1728743363,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 259233,
-      "num": 259233,
-      "word": "李一桐生图直出",
-      "onboard_time": 1728741983,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 257522,
@@ -1627,6 +1651,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 224097,
+      "num": 224097,
+      "word": "表白墙捞人结果捞到了老师",
+      "onboard_time": 1728742161,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 224089,
       "num": 224089,
       "word": "王励勤回应樊振东新周期计划",
@@ -1683,14 +1715,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 217577,
-      "num": 217577,
-      "word": "表白墙捞人结果捞到了老师",
-      "onboard_time": 1728742161,
-      "rank": 38,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 215579,
       "num": 215579,
       "word": "陈幸同好冷静",
@@ -1729,6 +1753,14 @@
       "onboard_time": 1728724099,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 213582,
+      "num": 372840,
+      "word": "听泉鉴宝",
+      "onboard_time": 1728739283,
+      "rank": 45,
+      "category": "网红"
     },
     {
       "raw_hot": 212837,
@@ -1795,6 +1827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 207237,
+      "num": 207237,
+      "word": "狼队战胜TES",
+      "onboard_time": 1728745942,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 206456,
       "num": 206456,
       "word": "但斌任泽平吵架",
@@ -1817,6 +1857,14 @@
       "onboard_time": 1728658701,
       "rank": 7,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 204145,
+      "num": 223217,
+      "word": "李荣浩演唱会",
+      "onboard_time": 1728744801,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 203654,
@@ -1849,14 +1897,6 @@
       "onboard_time": 1728715819,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 202143,
-      "num": 372840,
-      "word": "听泉鉴宝",
-      "onboard_time": 1728739283,
-      "rank": 45,
-      "category": "网红"
     },
     {
       "raw_hot": 201530,
@@ -1907,6 +1947,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 198371,
+      "num": 372157,
+      "word": "拜登要求以色列停止袭击联黎部队",
+      "onboard_time": 1728743662,
+      "rank": 17,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 198229,
       "num": 266229,
       "word": "战至巅峰",
@@ -1923,6 +1971,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 197497,
+      "num": 221329,
+      "word": "你好星期六全员穿越80年代",
+      "onboard_time": 1728745343,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 196970,
       "num": 196970,
       "word": "驴奶皂",
@@ -1936,6 +1992,14 @@
       "word": "种地吧",
       "onboard_time": 1728713479,
       "rank": 16,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 196734,
+      "num": 221079,
+      "word": "关晓彤看小时候的自己",
+      "onboard_time": 1728744801,
+      "rank": 29,
       "category": "综艺"
     },
     {
@@ -2083,6 +2147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 186885,
+      "num": 186885,
+      "word": "林诗栋蒯曼vs李正植金琴英",
+      "onboard_time": 1728745042,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 186097,
       "num": 186097,
       "word": "4博士2博士后的浮夸学历怎么诞生的",
@@ -2113,6 +2185,14 @@
       "onboard_time": 1728711021,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 183846,
+      "num": 183846,
+      "word": "王嘉尔老公变老板",
+      "onboard_time": 1728745882,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 181526,
@@ -2161,6 +2241,14 @@
       "onboard_time": 1728710001,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 179020,
+      "num": 179020,
+      "word": "万圣节cos 向佐叶珂",
+      "onboard_time": 1728745462,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 176970,
@@ -2297,6 +2385,14 @@
       "onboard_time": 1728712578,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 166719,
+      "num": 370058,
+      "word": "WBG战胜FNC",
+      "onboard_time": 1728743542,
+      "rank": 18,
+      "category": "电竞"
     },
     {
       "raw_hot": 166582,
@@ -2441,6 +2537,14 @@
       "onboard_time": 1728711860,
       "rank": 49,
       "category": "游戏,艺人"
+    },
+    {
+      "raw_hot": 155865,
+      "num": 155865,
+      "word": "郑钦文谈战胜王欣瑜",
+      "onboard_time": 1728746243,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 155308,
@@ -2595,12 +2699,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 133376,
-      "num": 372157,
-      "word": "拜登要求以色列停止袭击联黎部队",
-      "onboard_time": 1728743662,
-      "rank": 17,
-      "category": "国外时政"
+      "raw_hot": 131714,
+      "num": 289662,
+      "word": "不能让杨妞花一个人战斗",
+      "onboard_time": 1728744801,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 128671,
@@ -2715,12 +2819,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 103301,
-      "num": 370058,
-      "word": "WBG战胜FNC",
-      "onboard_time": 1728743542,
-      "rank": 18,
-      "category": "电竞"
+      "raw_hot": 103467,
+      "num": 219855,
+      "word": "杨怡现场还原moon姐金句",
+      "onboard_time": 1728745284,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 102461,
@@ -3059,6 +3163,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 56649,
+      "num": 287548,
+      "word": "余华英拐骗儿童四大惯用手段",
+      "onboard_time": 1728745641,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 56233,
       "num": 214927,
       "word": "绑架游戏有几个反转",
@@ -3219,6 +3331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 39103,
+      "num": 289168,
+      "word": "起底东北雨姐带货红薯粉条工厂",
+      "onboard_time": 1728745042,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 39063,
       "num": 295195,
       "word": "王一博的人生充满passion",
@@ -3339,6 +3459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 30085,
+      "num": 287884,
+      "word": "红薯粉条事件消费者该如何索赔",
+      "onboard_time": 1728745522,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 29850,
       "num": 37057,
       "word": "这张纸币印着中国的杂交水稻",
@@ -3385,6 +3513,14 @@
       "onboard_time": 1728735080,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 25754,
+      "num": 185049,
+      "word": "实拍紫金山彗星划过天际",
+      "onboard_time": 1728745762,
+      "rank": 39,
+      "category": "科学科普"
     },
     {
       "raw_hot": 25661,
@@ -3444,7 +3580,7 @@
     },
     {
       "raw_hot": 21095,
-      "num": 936654,
+      "num": 1155393,
       "word": "2024年全国数字乡村创新大赛",
       "onboard_time": 1728735319,
       "rank": 2,
