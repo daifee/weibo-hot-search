@@ -1,6 +1,6 @@
 {
   "startTime": 1728664067735,
-  "endTime": 1728746518305,
+  "endTime": 1728747370380,
   "band_list": [
     {
       "raw_hot": 9645892,
@@ -115,7 +115,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1579904,
+      "raw_hot": 1584202,
       "num": 288096,
       "word": "难听",
       "onboard_time": 1728743363,
@@ -563,6 +563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 609881,
+      "num": 382540,
+      "word": "一家三口被撞身亡司机想帮养老换谅解",
+      "onboard_time": 1728740363,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 604976,
       "num": 701579,
       "word": "赵露思说目前没有拍电影的打算",
@@ -649,6 +657,14 @@
       "onboard_time": 1728697640,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 551357,
+      "num": 273908,
+      "word": "张本美和vs金琴英",
+      "onboard_time": 1728746481,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 547428,
@@ -745,14 +761,6 @@
       "onboard_time": 1728723379,
       "rank": 21,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 493014,
-      "num": 382540,
-      "word": "一家三口被撞身亡司机想帮养老换谅解",
-      "onboard_time": 1728740363,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 480337,
@@ -1016,6 +1024,14 @@
       "word": "102岁奶奶网龄10年玩手机得心应手",
       "onboard_time": 1728687017,
       "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 350380,
+      "num": 350380,
+      "word": "被65岁大爷相亲简历潮到了",
+      "onboard_time": 1728745762,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -1283,14 +1299,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 275397,
-      "num": 288720,
-      "word": "被65岁大爷相亲简历潮到了",
-      "onboard_time": 1728745762,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 274248,
       "num": 274248,
       "word": "唐氏孩子说要打5份工养爸爸妈妈",
@@ -1355,12 +1363,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 266250,
-      "num": 217591,
-      "word": "张本美和vs金琴英",
-      "onboard_time": 1728746481,
-      "rank": 31,
-      "category": "体育"
+      "raw_hot": 266974,
+      "num": 266974,
+      "word": "乔妍的烟被P掉了",
+      "onboard_time": 1728744622,
+      "rank": 23,
+      "category": "电影"
     },
     {
       "raw_hot": 263587,
@@ -1417,14 +1425,6 @@
       "onboard_time": 1728702920,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 260263,
-      "num": 260263,
-      "word": "乔妍的烟被P掉了",
-      "onboard_time": 1728744622,
-      "rank": 23,
-      "category": "电影"
     },
     {
       "raw_hot": 260167,
@@ -1507,6 +1507,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 243058,
+      "num": 269202,
+      "word": "你好星期六全员穿越80年代",
+      "onboard_time": 1728745343,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 242724,
       "num": 242724,
       "word": "庞博 脱口秀正式迈入双一流时代",
@@ -1569,6 +1577,14 @@
       "onboard_time": 1728731478,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 233492,
+      "num": 233492,
+      "word": "表白墙捞人结果捞到了老师",
+      "onboard_time": 1728742161,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 231924,
@@ -1651,14 +1667,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 224097,
-      "num": 224097,
-      "word": "表白墙捞人结果捞到了老师",
-      "onboard_time": 1728742161,
-      "rank": 38,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 224089,
       "num": 224089,
       "word": "王励勤回应樊振东新周期计划",
@@ -1673,6 +1681,14 @@
       "onboard_time": 1728721159,
       "rank": 41,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 222206,
+      "num": 222206,
+      "word": "林诗栋蒯曼vs李正植金琴英",
+      "onboard_time": 1728745042,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 219913,
@@ -1971,14 +1987,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 197497,
-      "num": 221329,
-      "word": "你好星期六全员穿越80年代",
-      "onboard_time": 1728745343,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 196970,
       "num": 196970,
       "word": "驴奶皂",
@@ -2059,6 +2067,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 193570,
+      "num": 193570,
+      "word": "王嘉尔老公变老板",
+      "onboard_time": 1728745882,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 191826,
       "num": 201419,
       "word": "郑钦文决赛将再战萨巴伦卡",
@@ -2131,6 +2147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 188557,
+      "num": 282623,
+      "word": "非遗里的中国",
+      "onboard_time": 1728746781,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 188081,
       "num": 188081,
       "word": "胖东来爆改版超市开业全是人",
@@ -2145,14 +2169,6 @@
       "onboard_time": 1728714079,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 186885,
-      "num": 186885,
-      "word": "林诗栋蒯曼vs李正植金琴英",
-      "onboard_time": 1728745042,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 186097,
@@ -2185,14 +2201,6 @@
       "onboard_time": 1728711021,
       "rank": 17,
       "category": "电影"
-    },
-    {
-      "raw_hot": 183846,
-      "num": 183846,
-      "word": "王嘉尔老公变老板",
-      "onboard_time": 1728745882,
-      "rank": 40,
-      "category": "演出"
     },
     {
       "raw_hot": 181526,
@@ -2499,6 +2507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 158652,
+      "num": 289662,
+      "word": "不能让杨妞花一个人战斗",
+      "onboard_time": 1728744801,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 158534,
       "num": 158534,
       "word": "TheShy力挺on",
@@ -2611,6 +2627,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 145185,
+      "num": 145185,
+      "word": "河南一高三学生晕倒猝死",
+      "onboard_time": 1728747201,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 144948,
       "num": 144948,
       "word": "猫的反应是猫的七倍",
@@ -2651,6 +2675,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 143145,
+      "num": 143145,
+      "word": "金琴英3比0杜凯琹",
+      "onboard_time": 1728746842,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 141814,
       "num": 492069,
       "word": "天猫双11将于10月14日晚8点开启",
@@ -2665,6 +2697,14 @@
       "onboard_time": 1728716841,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 139081,
+      "num": 139081,
+      "word": "张本智和亚锦赛晋级4强",
+      "onboard_time": 1728747020,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 137308,
@@ -2697,14 +2737,6 @@
       "onboard_time": 1728717140,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 131714,
-      "num": 289662,
-      "word": "不能让杨妞花一个人战斗",
-      "onboard_time": 1728744801,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 128671,
@@ -3067,6 +3099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 66628,
+      "num": 289168,
+      "word": "起底东北雨姐带货红薯粉条工厂",
+      "onboard_time": 1728745042,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 66361,
       "num": 710619,
       "word": "Jellycat玩偶爆火黄牛溢价超3倍",
@@ -3331,14 +3371,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 39103,
-      "num": 289168,
-      "word": "起底东北雨姐带货红薯粉条工厂",
-      "onboard_time": 1728745042,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 39063,
       "num": 295195,
       "word": "王一博的人生充满passion",
@@ -3377,6 +3409,14 @@
       "onboard_time": 1728724639,
       "rank": 35,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 37639,
+      "num": 287884,
+      "word": "红薯粉条事件消费者该如何索赔",
+      "onboard_time": 1728745522,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 36436,
@@ -3456,14 +3496,6 @@
       "word": "最新赏秋地秋日浓度播报来了",
       "onboard_time": 1728705561,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 30085,
-      "num": 287884,
-      "word": "红薯粉条事件消费者该如何索赔",
-      "onboard_time": 1728745522,
-      "rank": 13,
       "category": "社会新闻"
     },
     {
