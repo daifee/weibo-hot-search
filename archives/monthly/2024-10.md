@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/10/01 00:28:17 ~ 2024/10/13 06:38:37
+本榜单时间：2024/10/01 00:28:17 ~ 2024/10/13 07:20:43
 </p>
 </blockquote>
 <p>
@@ -3183,6 +3183,12 @@ SM确认洪承汉不退团（热度：728564）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AD%BB%E6%AD%BB%E9%A1%B6%E4%BD%8F%E5%A4%B1%E6%8E%A7%E8%BD%A6%E8%BE%86%E7%9A%84%E4%BB%96%E8%8E%B7%E8%B5%A0%E6%96%B0%E8%BD%A6%23" target="weibo">
+死死顶住失控车辆的他获赠新车（热度：694563）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8F%90%E9%86%92%E6%88%91%E5%85%AC%E6%B0%91%E6%9A%82%E5%8B%BF%E5%89%8D%E5%BE%80%E4%BB%A5%E8%89%B2%E5%88%97%23" target="weibo">
 提醒我公民暂勿前往以色列（热度：694003）
 </a>
@@ -6005,12 +6011,6 @@ Jennie新歌（热度：418632）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%B2%81%20%E8%A7%82%E9%9F%B3%E6%9D%A8%E6%9F%B3%E6%89%8B%23" target="weibo">
 李沁 观音杨柳手（热度：415228）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BA%AA%E5%87%8C%E5%B0%98%E6%80%8E%E4%B9%88%E6%95%A2%E6%8A%A2%E5%90%91%E4%BD%90%E9%A3%8E%E5%A4%B4%E7%9A%84%23" target="weibo">
-纪凌尘怎么敢抢向佐风头的（热度：414308）
 </a>
 </li>
 

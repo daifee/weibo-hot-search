@@ -1,6 +1,6 @@
 {
   "startTime": 1728750414717,
-  "endTime": 1728772717222,
+  "endTime": 1728775243959,
   "band_list": [
     {
       "raw_hot": 1419674,
@@ -48,6 +48,14 @@
       "word": "一家三口被撞身亡司机想帮养老换谅解",
       "onboard_time": 1728740363,
       "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 694563,
+      "num": 805574,
+      "word": "死死顶住失控车辆的他获赠新车",
+      "onboard_time": 1728750797,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -107,20 +115,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 378383,
+      "raw_hot": 412235,
       "num": 273934,
       "word": "B太回应曾夸东北雨姐真实",
       "onboard_time": 1728736760,
       "rank": 17,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 372603,
-      "num": 493019,
-      "word": "死死顶住失控车辆的他获赠新车",
-      "onboard_time": 1728750797,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 349584,
@@ -209,6 +209,14 @@
       "onboard_time": 1728744922,
       "rank": 23,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 175421,
+      "num": 175421,
+      "word": "迈巴赫经销商承诺漏水负责到底",
+      "onboard_time": 1728762252,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 163746,
@@ -300,7 +308,7 @@
     },
     {
       "raw_hot": 118558,
-      "num": 119724,
+      "num": 174120,
       "word": "拜登要求以色列停止袭击联黎部队",
       "onboard_time": 1728743662,
       "rank": 35,
@@ -443,12 +451,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 74958,
-      "num": 74958,
-      "word": "迈巴赫经销商承诺漏水负责到底",
-      "onboard_time": 1728762252,
-      "rank": 8,
-      "category": "社会新闻"
+      "raw_hot": 71751,
+      "num": 95384,
+      "word": "大选临近特朗普要求军事安保",
+      "onboard_time": 1728771313,
+      "rank": 9,
+      "category": "国外时政"
     },
     {
       "raw_hot": 70686,
@@ -465,6 +473,14 @@
       "onboard_time": 1728743542,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 66509,
+      "num": 66509,
+      "word": "律师谈景德镇一家三口被撞身亡",
+      "onboard_time": 1728759912,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 63487,
@@ -491,7 +507,15 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 44882,
+      "raw_hot": 55218,
+      "num": 55218,
+      "word": "11个月大失聪宝宝第一次听到声音",
+      "onboard_time": 1728756373,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 52399,
       "num": 84531,
       "word": "警察办案被曝收当事人3000元差旅费",
       "onboard_time": 1728756913,
@@ -499,43 +523,67 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 42451,
-      "num": 52460,
-      "word": "11个月大失聪宝宝第一次听到声音",
-      "onboard_time": 1728756373,
-      "rank": 29,
+      "raw_hot": 52290,
+      "num": 52290,
+      "word": "直播间一眼假的名家字画谁在买",
+      "onboard_time": 1728760812,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 41107,
-      "num": 35405,
+      "raw_hot": 45804,
+      "num": 45804,
+      "word": "11天没有任何食品援助进入加沙",
+      "onboard_time": 1728762552,
+      "rank": 37,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 45782,
+      "num": 45782,
+      "word": "女子陷刷单返利式诈骗险被骗6万",
+      "onboard_time": 1728772031,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 45423,
+      "num": 45423,
       "word": "东北人扒开了家中20年老火炕",
       "onboard_time": 1728761230,
       "rank": 48,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 40878,
-      "num": 95384,
-      "word": "大选临近特朗普要求军事安保",
-      "onboard_time": 1728771313,
-      "rank": 9,
-      "category": "国外时政"
-    },
-    {
-      "raw_hot": 37793,
-      "num": 37793,
-      "word": "律师谈景德镇一家三口被撞身亡",
-      "onboard_time": 1728759912,
-      "rank": 45,
+      "raw_hot": 44336,
+      "num": 52376,
+      "word": "余华英多次作案带上女儿作饵",
+      "onboard_time": 1728760451,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 36239,
-      "num": 36239,
-      "word": "直播间一眼假的名家字画谁在买",
-      "onboard_time": 1728760812,
-      "rank": 23,
+      "raw_hot": 41555,
+      "num": 41555,
+      "word": "河南一中学通报高三学生晕倒猝死",
+      "onboard_time": 1728757933,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 40081,
+      "num": 57587,
+      "word": "这条隧道通车后过江仅需5分钟",
+      "onboard_time": 1728771972,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 37489,
+      "num": 41527,
+      "word": "四地证监局重拳打击违规减持现象",
+      "onboard_time": 1728769271,
+      "rank": 40,
       "category": "社会新闻"
     },
     {
@@ -555,44 +603,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 32201,
-      "num": 37100,
-      "word": "河南一中学通报高三学生晕倒猝死",
-      "onboard_time": 1728757933,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 29886,
       "num": 40991,
       "word": "一个真虎一个真是虎",
       "onboard_time": 1728756613,
       "rank": 44,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 29251,
-      "num": 52376,
-      "word": "余华英多次作案带上女儿作饵",
-      "onboard_time": 1728760451,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 28721,
-      "num": 28721,
-      "word": "四地证监局重拳打击违规减持现象",
-      "onboard_time": 1728769271,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 28510,
-      "num": 28710,
-      "word": "11天没有任何食品援助进入加沙",
-      "onboard_time": 1728762552,
-      "rank": 37,
-      "category": "国外时政"
     },
     {
       "raw_hot": 28287,
@@ -643,6 +659,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 12888,
+      "num": 168380,
+      "word": "游客吐槽扎尕那景区拦断国道收费",
+      "onboard_time": 1728775035,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 12597,
       "num": 25896,
       "word": "长江上再添一条过江通道",
@@ -668,7 +692,7 @@
     },
     {
       "raw_hot": 4335,
-      "num": 152787,
+      "num": 295351,
       "word": "2024两个博览会在苏州盛大开幕",
       "onboard_time": 1728735739,
       "rank": 2,
