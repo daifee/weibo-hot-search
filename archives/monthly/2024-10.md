@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/10/01 00:28:17 ~ 2024/10/12 16:39:55
+本榜单时间：2024/10/01 00:28:17 ~ 2024/10/12 17:22:47
 </p>
 </blockquote>
 <p>
@@ -2127,6 +2127,12 @@ LNG战胜BLG（热度：897693）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AE%B8%E6%98%953%E6%AF%942%E5%88%98%E5%AE%B6%E8%89%AF%23" target="weibo">
+许昕3比2刘家良（热度：879384）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%9C%E5%8C%97%E9%9B%A8%E5%93%A5%E5%9B%9E%E5%BA%94%E6%A8%A1%E4%BB%BF%E4%B8%9C%E5%8C%97%E9%9B%A8%E5%A7%90%23" target="weibo">
 东北雨哥回应模仿东北雨姐（热度：875253）
 </a>
@@ -2297,6 +2303,12 @@ Jennie小松菜奈同框（热度：844521）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%9F%E5%BC%9F%E5%9B%9E%E5%BA%94%E8%BF%9C%E5%AB%81%E5%A7%90%E5%A7%90%E5%8D%8A%E5%B9%B4%E7%9C%8B%E7%88%B6%E4%BA%B2%E8%A2%AB%E6%8C%87%E4%B8%8D%E5%AD%9D%23" target="weibo">
 弟弟回应远嫁姐姐半年看父亲被指不孝（热度：833939）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E9%AB%98%E5%AF%86%E5%85%AC%E5%B8%83%E5%B8%82%E5%A7%94%E4%B9%A6%E8%AE%B0%E7%AD%89%E9%A2%86%E5%AF%BC%E6%89%8B%E6%9C%BA%E5%8F%B7%23" target="weibo">
+山东高密公布市委书记等领导手机号（热度：833221）
 </a>
 </li>
 
@@ -3627,6 +3639,12 @@ A股逼近涨停开盘（热度：621552）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%88%E5%B7%B4%E8%B5%AB%E7%BB%8F%E9%94%80%E5%95%86%E5%9B%9E%E5%BA%94%E6%96%B0%E8%BD%A6%E6%BC%8F%E6%B0%B4%23" target="weibo">
+迈巴赫经销商回应新车漏水（热度：617909）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E6%96%AD%E5%B4%96%E5%BC%8F%E9%99%8D%E6%B8%A9%E5%90%8E%E5%B8%82%E6%B0%91%E4%B9%B1%E7%A9%BF%E8%A1%A3%23" target="weibo">
 重庆断崖式降温后市民乱穿衣（热度：617321）
 </a>
@@ -4947,6 +4965,12 @@ GEN对战WBG（热度：516314）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%97%B5%E5%A1%94%E9%B2%A8%E5%AE%A1%E7%BE%8E%23" target="weibo">
+闵塔鲨审美（热度：476193）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9F%AF%E5%9F%BA%E8%AD%A6%E7%8A%AC%E7%A6%8F%E4%BB%94%E8%BD%AC%E6%AD%A3%E4%BA%86%23" target="weibo">
 柯基警犬福仔转正了（热度：474658）
 </a>
@@ -5351,6 +5375,12 @@ A股半小时成交破万亿（热度：455160）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A5%96%E5%9B%BD%E4%B8%87%E5%B2%81%23" target="weibo">
 祖国万岁（热度：444533）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%84%BF%E5%AD%90%E7%94%A8%E7%88%B6%E4%BA%B2%E7%9A%84%E6%97%A7%E6%89%8B%E6%9C%BA%E6%B6%88%E8%B4%B9%E4%BA%86%E5%8D%81%E5%A4%9A%E4%B8%87%23" target="weibo">
+儿子用父亲的旧手机消费了十多万（热度：443994）
 </a>
 </li>
 
@@ -5984,36 +6014,6 @@ BIGBANG完整体出演MAMA（热度：392844）
 </a>
 </li>
 
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%83%91%E9%92%A6%E6%96%87%E6%89%93%E5%BF%83%E5%BA%95%E6%8A%8A%E5%BC%A0%E9%9B%A8%E9%9C%8F%E5%BD%93%E6%9C%8B%E5%8F%8B%23" target="weibo">
-郑钦文打心底把张雨霏当朋友（热度：392275）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%BA%94%E4%BA%BA%E6%A0%BC%20%E7%9A%AE%E5%A5%97%23" target="weibo">
-第五人格 皮套（热度：392158）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%86%B0%20%E8%A5%BF%E6%A2%85%23" target="weibo">
-大冰 西梅（热度：392135）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%98%BF%E5%8B%92%E6%B3%B0%E7%9A%84%E7%BE%8A%E7%BE%8A%E4%B9%9F%E5%A4%AA%E8%93%AC%E4%BA%86%E5%90%A7%23" target="weibo">
-阿勒泰的羊羊也太蓬了吧（热度：391971）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%93%86%E5%95%A6A%E6%A2%A6%E5%A3%B0%E4%BC%98%E5%8E%BB%E4%B8%96%23" target="weibo">
-哆啦A梦声优去世（热度：391365）
-</a>
-</li>
-
 </ol>
 <h2>
 正能量
@@ -6257,6 +6257,12 @@ BIGBANG完整体出演MAMA（热度：392844）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E5%85%B1%E6%8A%93%E5%A4%A7%E4%BF%9D%E6%8A%A4%E4%B8%8D%E6%90%9E%E5%A4%A7%E5%BC%80%E5%8F%91%23%23" target="weibo">
 #共抓大保护不搞大开发#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E4%B8%80%E4%B8%AA%E5%8F%8B%E8%B0%8A%E7%9A%84%E4%B8%96%E7%95%8C%E6%89%8D%E5%8F%AF%E8%83%BD%E6%98%AF%E5%92%8C%E5%B9%B3%E7%9A%84%E4%B8%96%E7%95%8C%23%23" target="weibo">
+#一个友谊的世界才可能是和平的世界#
 </a>
 </li>
 
