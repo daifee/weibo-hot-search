@@ -1,6 +1,6 @@
 {
   "startTime": 1728664067735,
-  "endTime": 1728710457970,
+  "endTime": 1728711515937,
   "band_list": [
     {
       "raw_hot": 4273020,
@@ -51,7 +51,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1190064,
+      "raw_hot": 1208811,
       "num": 487001,
       "word": "一家三口被撞身亡车祸细节披露",
       "onboard_time": 1728703939,
@@ -81,6 +81,14 @@
       "onboard_time": 1728696500,
       "rank": 41,
       "category": "财经"
+    },
+    {
+      "raw_hot": 896461,
+      "num": 317183,
+      "word": "门前勿停车 杨幂也不行",
+      "onboard_time": 1728709161,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 889245,
@@ -176,14 +184,6 @@
       "word": "Jessi发文道歉",
       "onboard_time": 1728702380,
       "rank": 12,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 643459,
-      "num": 317183,
-      "word": "门前勿停车 杨幂也不行",
-      "onboard_time": 1728709161,
-      "rank": 20,
       "category": "艺人"
     },
     {
@@ -307,6 +307,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 511272,
+      "num": 311429,
+      "word": "樊振东搭档许昕出战男团比赛",
+      "onboard_time": 1728708142,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 472611,
       "num": 160493,
       "word": "考公的尽头到底是什么",
@@ -363,12 +371,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 395960,
-      "num": 311429,
-      "word": "樊振东搭档许昕出战男团比赛",
-      "onboard_time": 1728708142,
-      "rank": 22,
-      "category": "体育"
+      "raw_hot": 396073,
+      "num": 396073,
+      "word": "杜海涛李佳琦淘汰",
+      "onboard_time": 1728710360,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 391229,
+      "num": 391229,
+      "word": "危机航线 尺度",
+      "onboard_time": 1728709403,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 381445,
@@ -651,6 +667,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 236954,
+      "num": 224236,
+      "word": "坐在大狗肚子下面的小狗狗",
+      "onboard_time": 1728710660,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 236915,
       "num": 236915,
       "word": "支持推动房地产止跌回稳",
@@ -707,20 +731,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 224089,
+      "num": 224089,
+      "word": "王励勤回应樊振东新周期计划",
+      "onboard_time": 1728710001,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 219885,
       "num": 219885,
       "word": "樊振东下意识的趴下和吹球",
       "onboard_time": 1728689957,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 218352,
-      "num": 218352,
-      "word": "杜海涛李佳琦淘汰",
-      "onboard_time": 1728710360,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 215343,
@@ -779,6 +803,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 207070,
+      "num": 276646,
+      "word": "王楚钦3比0林兆恒",
+      "onboard_time": 1728710841,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 206456,
+      "num": 206456,
+      "word": "但斌任泽平吵架",
+      "onboard_time": 1728710660,
+      "rank": 34,
+      "category": "财经"
+    },
+    {
       "raw_hot": 205336,
       "num": 205336,
       "word": "周杰伦新加坡",
@@ -835,6 +875,22 @@
       "category": "财经"
     },
     {
+      "raw_hot": 195261,
+      "num": 195261,
+      "word": "成毅 采果果",
+      "onboard_time": 1728708920,
+      "rank": 42,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 195155,
+      "num": 238363,
+      "word": "刘宇宁直播说没有活了",
+      "onboard_time": 1728710119,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 193678,
       "num": 278169,
       "word": "高敏感的小孩有多辛苦",
@@ -849,6 +905,22 @@
       "onboard_time": 1728704298,
       "rank": 41,
       "category": "财经"
+    },
+    {
+      "raw_hot": 191543,
+      "num": 191543,
+      "word": "吴邦国同志遗体10月14日火化",
+      "onboard_time": 1728711500,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 191391,
+      "num": 191391,
+      "word": "东北雨姐",
+      "onboard_time": 1728711200,
+      "rank": 38,
+      "category": "网红"
     },
     {
       "raw_hot": 191058,
@@ -875,14 +947,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 185493,
-      "num": 325101,
-      "word": "危机航线 尺度",
-      "onboard_time": 1728709403,
-      "rank": 17,
-      "category": "电影"
-    },
-    {
       "raw_hot": 185457,
       "num": 185457,
       "word": "存量房贷利率批量调整",
@@ -896,6 +960,14 @@
       "word": "终于知道向佐在模仿谁了",
       "onboard_time": 1728684971,
       "rank": 27,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 184539,
+      "num": 269554,
+      "word": "赵丽颖棕色毛呢大衣",
+      "onboard_time": 1728711021,
+      "rank": 17,
       "category": "电影"
     },
     {
@@ -913,14 +985,6 @@
       "onboard_time": 1728648921,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 179473,
-      "num": 179473,
-      "word": "成毅 采果果",
-      "onboard_time": 1728708920,
-      "rank": 42,
-      "category": "动漫"
     },
     {
       "raw_hot": 179358,
@@ -1003,14 +1067,6 @@
       "category": "作品衍生,艺人"
     },
     {
-      "raw_hot": 168070,
-      "num": 168070,
-      "word": "王励勤回应樊振东新周期计划",
-      "onboard_time": 1728710001,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
       "raw_hot": 166582,
       "num": 166582,
       "word": "第五人格",
@@ -1049,6 +1105,14 @@
       "onboard_time": 1728659182,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 159656,
+      "num": 159656,
+      "word": "狸花 这个江湖追杀令我接了",
+      "onboard_time": 1728711380,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 159235,
@@ -1129,14 +1193,6 @@
       "onboard_time": 1728705621,
       "rank": 14,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 140462,
-      "num": 238363,
-      "word": "刘宇宁直播说没有活了",
-      "onboard_time": 1728710119,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 135363,
@@ -1387,6 +1443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 63833,
+      "num": 343987,
+      "word": "重庆通报过期大米重新包装销售事件",
+      "onboard_time": 1728709700,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 63297,
       "num": 332866,
       "word": "jessi发文道歉",
@@ -1448,14 +1512,6 @@
       "word": "如何整治网红经济乱象",
       "onboard_time": 1728700399,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 47919,
-      "num": 343987,
-      "word": "重庆通报过期大米重新包装销售事件",
-      "onboard_time": 1728709700,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -1547,6 +1603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 30085,
+      "num": 670833,
+      "word": "最新赏秋地秋日浓度播报来了",
+      "onboard_time": 1728705561,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 29850,
       "num": 37057,
       "word": "这张纸币印着中国的杂交水稻",
@@ -1563,11 +1627,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 28461,
-      "num": 670833,
-      "word": "最新赏秋地秋日浓度播报来了",
-      "onboard_time": 1728705561,
-      "rank": 2,
+      "raw_hot": 27835,
+      "num": 320085,
+      "word": "学习困难门诊一号难求",
+      "onboard_time": 1728710241,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -1584,14 +1648,6 @@
       "word": "被拐女孩说相信会有好的结果",
       "onboard_time": 1728660560,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 21634,
-      "num": 320085,
-      "word": "学习困难门诊一号难求",
-      "onboard_time": 1728710241,
-      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -1657,6 +1713,14 @@
       "onboard_time": 1728650960,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 12228,
+      "num": 152121,
+      "word": "适合新手的cityride路线",
+      "onboard_time": 1728711321,
+      "rank": 49,
+      "category": "运动健身"
     },
     {
       "raw_hot": 5941,

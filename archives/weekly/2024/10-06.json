@@ -1,6 +1,6 @@
 {
   "startTime": 1728145573126,
-  "endTime": 1728710457970,
+  "endTime": 1728711515937,
   "band_list": [
     {
       "raw_hot": 13027302,
@@ -1027,6 +1027,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1208811,
+      "num": 487001,
+      "word": "一家三口被撞身亡车祸细节披露",
+      "onboard_time": 1728703939,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1204690,
       "num": 400446,
       "word": "同时拥有迈巴赫和自卑",
@@ -1065,14 +1073,6 @@
       "onboard_time": 1728176057,
       "rank": 0,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1190064,
-      "num": 487001,
-      "word": "一家三口被撞身亡车祸细节披露",
-      "onboard_time": 1728703939,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1189399,
@@ -1881,6 +1881,14 @@
       "onboard_time": 1728374301,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 896461,
+      "num": 317183,
+      "word": "门前勿停车 杨幂也不行",
+      "onboard_time": 1728709161,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 894359,
@@ -2923,14 +2931,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 643459,
-      "num": 317183,
-      "word": "门前勿停车 杨幂也不行",
-      "onboard_time": 1728709161,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 642305,
       "num": 642305,
       "word": "特斯拉市值一夜蒸发超4700亿",
@@ -3777,6 +3777,14 @@
       "onboard_time": 1728395362,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 511272,
+      "num": 311429,
+      "word": "樊振东搭档许昕出战男团比赛",
+      "onboard_time": 1728708142,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 511216,
@@ -4883,12 +4891,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 395960,
-      "num": 311429,
-      "word": "樊振东搭档许昕出战男团比赛",
-      "onboard_time": 1728708142,
-      "rank": 22,
-      "category": "体育"
+      "raw_hot": 396073,
+      "num": 396073,
+      "word": "杜海涛李佳琦淘汰",
+      "onboard_time": 1728710360,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 394352,
@@ -4969,6 +4977,14 @@
       "onboard_time": 1728615918,
       "rank": 18,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 391229,
+      "num": 391229,
+      "word": "危机航线 尺度",
+      "onboard_time": 1728709403,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 390991,
@@ -8131,6 +8147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 236954,
+      "num": 224236,
+      "word": "坐在大狗肚子下面的小狗狗",
+      "onboard_time": 1728710660,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 236915,
       "num": 236915,
       "word": "支持推动房地产止跌回稳",
@@ -8547,6 +8571,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 224089,
+      "num": 224089,
+      "word": "王励勤回应樊振东新周期计划",
+      "onboard_time": 1728710001,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 223940,
       "num": 223940,
       "word": "kimi崩了",
@@ -8729,14 +8761,6 @@
       "onboard_time": 1728523578,
       "rank": 33,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 218352,
-      "num": 218352,
-      "word": "杜海涛李佳琦淘汰",
-      "onboard_time": 1728710360,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 218233,
@@ -9283,6 +9307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 207070,
+      "num": 276646,
+      "word": "王楚钦3比0林兆恒",
+      "onboard_time": 1728710841,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 206855,
       "num": 406447,
       "word": "奔跑吧十周年",
@@ -9313,6 +9345,14 @@
       "onboard_time": 1728544040,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 206456,
+      "num": 206456,
+      "word": "但斌任泽平吵架",
+      "onboard_time": 1728710660,
+      "rank": 34,
+      "category": "财经"
     },
     {
       "raw_hot": 206440,
@@ -10155,12 +10195,28 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 195261,
+      "num": 195261,
+      "word": "成毅 采果果",
+      "onboard_time": 1728708920,
+      "rank": 42,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 195200,
       "num": 195200,
       "word": "孙颖莎说在赛场上更轻松了",
       "onboard_time": 1728217341,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 195155,
+      "num": 238363,
+      "word": "刘宇宁直播说没有活了",
+      "onboard_time": 1728710119,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 194926,
@@ -10369,6 +10425,14 @@
       "onboard_time": 1728636860,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 191543,
+      "num": 191543,
+      "word": "吴邦国同志遗体10月14日火化",
+      "onboard_time": 1728711500,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 191520,
@@ -10771,14 +10835,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 185493,
-      "num": 325101,
-      "word": "危机航线 尺度",
-      "onboard_time": 1728709403,
-      "rank": 17,
-      "category": "电影"
-    },
-    {
       "raw_hot": 185457,
       "num": 185457,
       "word": "存量房贷利率批量调整",
@@ -10833,6 +10889,14 @@
       "onboard_time": 1728352520,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 184539,
+      "num": 269554,
+      "word": "赵丽颖棕色毛呢大衣",
+      "onboard_time": 1728711021,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 184471,
@@ -11145,14 +11209,6 @@
       "onboard_time": 1728303924,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 179473,
-      "num": 179473,
-      "word": "成毅 采果果",
-      "onboard_time": 1728708920,
-      "rank": 42,
-      "category": "动漫"
     },
     {
       "raw_hot": 179358,
@@ -11859,14 +11915,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 168070,
-      "num": 168070,
-      "word": "王励勤回应樊振东新周期计划",
-      "onboard_time": 1728710001,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
       "raw_hot": 167979,
       "num": 167979,
       "word": "武汉网球公开赛",
@@ -12481,6 +12529,14 @@
       "onboard_time": 1728523518,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 159656,
+      "num": 159656,
+      "word": "狸花 这个江湖追杀令我接了",
+      "onboard_time": 1728711380,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 159645,
@@ -14065,14 +14121,6 @@
       "onboard_time": 1728393021,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 140462,
-      "num": 238363,
-      "word": "刘宇宁直播说没有活了",
-      "onboard_time": 1728710119,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 140289,
@@ -17619,6 +17667,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 63833,
+      "num": 343987,
+      "word": "重庆通报过期大米重新包装销售事件",
+      "onboard_time": 1728709700,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 63702,
       "num": 144055,
       "word": "航天员在太空拍到祖国山川比的心",
@@ -18312,14 +18368,6 @@
       "word": "记者调查速成学历乱象",
       "onboard_time": 1728634880,
       "rank": 13,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 47919,
-      "num": 343987,
-      "word": "重庆通报过期大米重新包装销售事件",
-      "onboard_time": 1728709700,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -19499,6 +19547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 30085,
+      "num": 670833,
+      "word": "最新赏秋地秋日浓度播报来了",
+      "onboard_time": 1728705561,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 29999,
       "num": 210539,
       "word": "节前7日重磅经济政策回顾",
@@ -19587,14 +19643,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 28461,
-      "num": 670833,
-      "word": "最新赏秋地秋日浓度播报来了",
-      "onboard_time": 1728705561,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 28244,
       "num": 46323,
       "word": "粉丝音乐节现场为Henry庆生",
@@ -19633,6 +19681,14 @@
       "onboard_time": 1728582792,
       "rank": 49,
       "category": "演出,体育"
+    },
+    {
+      "raw_hot": 27835,
+      "num": 320085,
+      "word": "学习困难门诊一号难求",
+      "onboard_time": 1728710241,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 27545,
@@ -19945,14 +20001,6 @@
       "onboard_time": 1728588731,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 21634,
-      "num": 320085,
-      "word": "学习困难门诊一号难求",
-      "onboard_time": 1728710241,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 21359,
@@ -20393,6 +20441,14 @@
       "onboard_time": 1728508211,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 12228,
+      "num": 152121,
+      "word": "适合新手的cityride路线",
+      "onboard_time": 1728711321,
+      "rank": 49,
+      "category": "运动健身"
     },
     {
       "raw_hot": 11061,
