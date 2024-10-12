@@ -1,0 +1,410 @@
+{
+  "runTime": 1728715347068,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1613661,
+        "num": 1613661,
+        "word": "吴邦国同志遗体10月14日火化",
+        "onboard_time": 1728711500,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1493426,
+        "num": 1493426,
+        "word": "东北雨姐被罚165万",
+        "onboard_time": 1728711739,
+        "rank": 1,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 25846,
+        "num": 1336034,
+        "word": "最新赏秋地秋日浓度播报来了",
+        "onboard_time": 1728705561,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1265893,
+        "num": 1265893,
+        "word": "国家奖学金",
+        "onboard_time": 1728712641,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 540739,
+        "num": 540739,
+        "word": "中央财政已下达就业补助667亿元",
+        "onboard_time": 1728703040,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 320878,
+        "num": 320878,
+        "word": "本专科生国家助学金升至每年3700元",
+        "onboard_time": 1728705141,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 291876,
+        "num": 291876,
+        "word": "王楚钦3比0林兆恒",
+        "onboard_time": 1728710841,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 259154,
+        "num": 259154,
+        "word": "王楚钦光速下班",
+        "onboard_time": 1728711860,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 225639,
+        "num": 225639,
+        "word": "郭晶晶说爱让家不断加分",
+        "onboard_time": 1728714919,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 31362,
+        "num": 224597,
+        "word": "三方面研究出台有利于房地产发展措施",
+        "onboard_time": 1728714799,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1461123,
+        "num": 223754,
+        "word": "日本梅毒",
+        "onboard_time": 1728702619,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 938903,
+        "num": 222604,
+        "word": "听泉鉴宝 盗墓",
+        "onboard_time": 1728706519,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 804078,
+        "num": 221806,
+        "word": "女子头戴鲨鱼夹摔倒后成植物人",
+        "onboard_time": 1728712040,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 572110,
+        "num": 220446,
+        "word": "B太曾做客东北雨姐拍摄基地",
+        "onboard_time": 1728713781,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 40198,
+        "num": 219742,
+        "word": "警方正在调查教育厅短信平台遭入侵",
+        "onboard_time": 1728714139,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 446019,
+        "num": 218932,
+        "word": "檀健次经纪人聊天记录",
+        "onboard_time": 1728714199,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187951,
+        "num": 217028,
+        "word": "五公个喜排名",
+        "onboard_time": 1728714079,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100589,
+        "num": 216182,
+        "word": "林诗栋3比0黄镇廷",
+        "onboard_time": 1728714379,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 56233,
+        "num": 214927,
+        "word": "绑架游戏有几个反转",
+        "onboard_time": 1728714980,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 26696,
+        "num": 213675,
+        "word": "手术红包之争背后是谁的锅",
+        "onboard_time": 1728713899,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121183,
+        "num": 212778,
+        "word": "种地吧",
+        "onboard_time": 1728713479,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 473502,
+        "num": 211446,
+        "word": "景德镇车祸家属称现场惨烈常做噩梦",
+        "onboard_time": 1728712100,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 443551,
+        "num": 210337,
+        "word": "金星解释复婚",
+        "onboard_time": 1728703220,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 418450,
+        "num": 209922,
+        "word": "一家三口被撞身亡车祸细节披露",
+        "onboard_time": 1728703939,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 286791,
+        "num": 208758,
+        "word": "蔡徐坤 支持我戴",
+        "onboard_time": 1728714560,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 208031,
+        "num": 208031,
+        "word": "龚俊老同学",
+        "onboard_time": 1728714980,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197541,
+        "num": 207637,
+        "word": "庞博 脱口秀正式迈入双一流时代",
+        "onboard_time": 1728713242,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 358699,
+        "num": 207153,
+        "word": "门前勿停车 杨幂也不行",
+        "onboard_time": 1728709161,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120758,
+        "num": 206906,
+        "word": "李佳琦发文回应淘汰",
+        "onboard_time": 1728715281,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 43419,
+        "num": 206617,
+        "word": "中东战场迎来最安静时刻",
+        "onboard_time": 1728714379,
+        "rank": 29,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 363838,
+        "num": 205993,
+        "word": "杜海涛李佳琦淘汰",
+        "onboard_time": 1728710360,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 324913,
+        "num": 205356,
+        "word": "31岁男子闪婚5天后自杀身亡",
+        "onboard_time": 1728694461,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 318077,
+        "num": 204886,
+        "word": "向鹏0比3林昀儒",
+        "onboard_time": 1728713120,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 648292,
+        "num": 204649,
+        "word": "中老年抖音",
+        "onboard_time": 1728713781,
+        "rank": 33,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 308077,
+        "num": 204112,
+        "word": "难怪电脑代码不能用中文",
+        "onboard_time": 1728711860,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 303403,
+        "num": 203577,
+        "word": "东北雨姐",
+        "onboard_time": 1728711200,
+        "rank": 35,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 278166,
+        "num": 202903,
+        "word": "危机航线 尺度",
+        "onboard_time": 1728709403,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 253928,
+        "num": 202828,
+        "word": "坐在大狗肚子下面的小狗狗",
+        "onboard_time": 1728710660,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 202414,
+        "num": 202414,
+        "word": "王楚钦进男单16强",
+        "onboard_time": 1728713719,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 189140,
+        "num": 189140,
+        "word": "不法分子入侵广东省教育厅短信平台",
+        "onboard_time": 1728701119,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183125,
+        "num": 183125,
+        "word": "财政部部长蓝佛安答记者问",
+        "onboard_time": 1728701540,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 118316,
+        "num": 176902,
+        "word": "存量房贷利率调整可省多少利息",
+        "onboard_time": 1728713300,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176772,
+        "num": 176772,
+        "word": "刘宇宁直播说没有活了",
+        "onboard_time": 1728710119,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 44468,
+        "num": 170864,
+        "word": "天猫发双11史上最大补贴消费券",
+        "onboard_time": 1728714980,
+        "rank": 43,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 170771,
+        "num": 170771,
+        "word": "发布会财政部一正三副负责人到场",
+        "onboard_time": 1728701599,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 170707,
+        "num": 170707,
+        "word": "消防车5死1伤事故伤亡者均为消防员",
+        "onboard_time": 1728715281,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170201,
+        "num": 170201,
+        "word": "JYP模仿眼泪女王金秀贤",
+        "onboard_time": 1728712760,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168953,
+        "num": 168953,
+        "word": "林诗栋vs黄镇廷",
+        "onboard_time": 1728713600,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 165763,
+        "num": 165763,
+        "word": "杜华哭了",
+        "onboard_time": 1728715281,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162216,
+        "num": 162216,
+        "word": "过期大米虚标保质期卖向学校4万多斤",
+        "onboard_time": 1728712819,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#人民友好是国际关系行稳致远的基础#"
+    }
+  }
+}

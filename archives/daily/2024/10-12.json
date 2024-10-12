@@ -1,6 +1,6 @@
 {
   "startTime": 1728664067735,
-  "endTime": 1728714526444,
+  "endTime": 1728715347068,
   "band_list": [
     {
       "raw_hot": 4273020,
@@ -43,6 +43,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 1613661,
+      "num": 1613661,
+      "word": "吴邦国同志遗体10月14日火化",
+      "onboard_time": 1728711500,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1591854,
       "num": 504681,
       "word": "金星解释复婚",
@@ -51,20 +59,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1512597,
-      "num": 1512597,
-      "word": "吴邦国同志遗体10月14日火化",
-      "onboard_time": 1728711500,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1319783,
       "num": 295153,
       "word": "男孩骑行被碾压案司机已重获自由",
       "onboard_time": 1728657741,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1265893,
+      "num": 1265893,
+      "word": "国家奖学金",
+      "onboard_time": 1728712641,
+      "rank": 3,
+      "category": "国内时政"
     },
     {
       "raw_hot": 1208811,
@@ -99,14 +107,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 989478,
-      "num": 989478,
-      "word": "国家奖学金",
-      "onboard_time": 1728712641,
-      "rank": 3,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 896461,
       "num": 317183,
       "word": "门前勿停车 杨幂也不行",
@@ -139,19 +139,19 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 804078,
+      "num": 264847,
+      "word": "女子头戴鲨鱼夹摔倒后成植物人",
+      "onboard_time": 1728712040,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 789005,
       "num": 789005,
       "word": "财政部介绍加大逆周期调节力度",
       "onboard_time": 1728698539,
       "rank": 7,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 776359,
-      "num": 264847,
-      "word": "女子头戴鲨鱼夹摔倒后成植物人",
-      "onboard_time": 1728712040,
-      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -219,6 +219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 648292,
+      "num": 235040,
+      "word": "中老年抖音",
+      "onboard_time": 1728713781,
+      "rank": 30,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 642305,
       "num": 642305,
       "word": "特斯拉市值一夜蒸发超4700亿",
@@ -273,6 +281,14 @@
       "onboard_time": 1728693859,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 572110,
+      "num": 254587,
+      "word": "B太曾做客东北雨姐拍摄基地",
+      "onboard_time": 1728713781,
+      "rank": 13,
+      "category": "网红"
     },
     {
       "raw_hot": 570054,
@@ -347,20 +363,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 473502,
+      "num": 241559,
+      "word": "景德镇车祸家属称现场惨烈常做噩梦",
+      "onboard_time": 1728712100,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 472611,
       "num": 160493,
       "word": "考公的尽头到底是什么",
       "onboard_time": 1728657801,
       "rank": 23,
       "category": "社会议题"
-    },
-    {
-      "raw_hot": 468379,
-      "num": 241559,
-      "word": "景德镇车祸家属称现场惨烈常做噩梦",
-      "onboard_time": 1728712100,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 463330,
@@ -387,6 +403,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 446019,
+      "num": 241002,
+      "word": "檀健次经纪人聊天记录",
+      "onboard_time": 1728714199,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 443121,
       "num": 525150,
       "word": "幸运咖 王俊凯",
@@ -401,14 +425,6 @@
       "onboard_time": 1728690078,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 424169,
-      "num": 235040,
-      "word": "中老年抖音",
-      "onboard_time": 1728713781,
-      "rank": 30,
-      "category": "互联网"
     },
     {
       "raw_hot": 404910,
@@ -457,14 +473,6 @@
       "onboard_time": 1728662238,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 373949,
-      "num": 254587,
-      "word": "B太曾做客东北雨姐拍摄基地",
-      "onboard_time": 1728713781,
-      "rank": 13,
-      "category": "网红"
     },
     {
       "raw_hot": 371861,
@@ -571,7 +579,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 307904,
+      "raw_hot": 308077,
       "num": 227089,
       "word": "难怪电脑代码不能用中文",
       "onboard_time": 1728711860,
@@ -625,6 +633,14 @@
       "onboard_time": 1728691099,
       "rank": 18,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 286791,
+      "num": 208758,
+      "word": "蔡徐坤 支持我戴",
+      "onboard_time": 1728714560,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 285210,
@@ -723,7 +739,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 252267,
+      "raw_hot": 253928,
       "num": 224639,
       "word": "坐在大狗肚子下面的小狗狗",
       "onboard_time": 1728710660,
@@ -769,14 +785,6 @@
       "onboard_time": 1728713242,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 241002,
-      "num": 241002,
-      "word": "檀健次经纪人聊天记录",
-      "onboard_time": 1728714199,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 240550,
@@ -840,6 +848,14 @@
       "word": "费德勒陈奕迅vs樊振东张之臻",
       "onboard_time": 1728651741,
       "rank": 6,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 225639,
+      "num": 225639,
+      "word": "郭晶晶说爱让家不断加分",
+      "onboard_time": 1728714919,
+      "rank": 8,
       "category": "体育"
     },
     {
@@ -921,6 +937,14 @@
       "onboard_time": 1728706401,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 208031,
+      "num": 208031,
+      "word": "龚俊老同学",
+      "onboard_time": 1728714980,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 206456,
@@ -1051,6 +1075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 187951,
+      "num": 220702,
+      "word": "五公个喜排名",
+      "onboard_time": 1728714079,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 186097,
       "num": 186097,
       "word": "4博士2博士后的浮夸学历怎么诞生的",
@@ -1147,12 +1179,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 169804,
-      "num": 220702,
-      "word": "五公个喜排名",
-      "onboard_time": 1728714079,
-      "rank": 38,
-      "category": "综艺"
+      "raw_hot": 170707,
+      "num": 170707,
+      "word": "消防车5死1伤事故伤亡者均为消防员",
+      "onboard_time": 1728715281,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 169404,
@@ -1177,6 +1209,14 @@
       "onboard_time": 1728700879,
       "rank": 47,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 168953,
+      "num": 168953,
+      "word": "林诗栋vs黄镇廷",
+      "onboard_time": 1728713600,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 168537,
@@ -1209,6 +1249,14 @@
       "onboard_time": 1728706941,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 165763,
+      "num": 165763,
+      "word": "杜华哭了",
+      "onboard_time": 1728715281,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 165219,
@@ -1371,6 +1419,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 120758,
+      "num": 206906,
+      "word": "李佳琦发文回应淘汰",
+      "onboard_time": 1728715281,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 118316,
+      "num": 294688,
+      "word": "存量房贷利率调整可省多少利息",
+      "onboard_time": 1728713300,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 116949,
       "num": 116949,
       "word": "男孩骑行被碾案司机称会好好生活",
@@ -1465,6 +1529,14 @@
       "onboard_time": 1728660319,
       "rank": 39,
       "category": "财经"
+    },
+    {
+      "raw_hot": 100589,
+      "num": 242510,
+      "word": "林诗栋3比0黄镇廷",
+      "onboard_time": 1728714379,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 98847,
@@ -1563,14 +1635,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 75477,
-      "num": 294688,
-      "word": "存量房贷利率调整可省多少利息",
-      "onboard_time": 1728713300,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 73434,
       "num": 73434,
       "word": "伯远国风唱跳刀剑如梦",
@@ -1643,20 +1707,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 56233,
+      "num": 214927,
+      "word": "绑架游戏有几个反转",
+      "onboard_time": 1728714980,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 55799,
       "num": 306046,
       "word": "一所重点中学的心理自救",
       "onboard_time": 1728702259,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 54661,
-      "num": 242510,
-      "word": "林诗栋3比0黄镇廷",
-      "onboard_time": 1728714379,
-      "rank": 17,
-      "category": "体育"
     },
     {
       "raw_hot": 51883,
@@ -1707,12 +1771,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 44468,
+      "num": 170864,
+      "word": "天猫发双11史上最大补贴消费券",
+      "onboard_time": 1728714980,
+      "rank": 43,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 44229,
       "num": 303138,
       "word": "财政政策今年打出组合拳",
       "onboard_time": 1728713242,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 43419,
+      "num": 236383,
+      "word": "中东战场迎来最安静时刻",
+      "onboard_time": 1728714379,
+      "rank": 29,
+      "category": "国外时政"
     },
     {
       "raw_hot": 42028,
@@ -1747,20 +1827,20 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 40198,
+      "num": 252018,
+      "word": "警方正在调查教育厅短信平台遭入侵",
+      "onboard_time": 1728714139,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 39029,
       "num": 135886,
       "word": "八段锦的风还是吹到了街舞",
       "onboard_time": 1728686355,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 37610,
-      "num": 252018,
-      "word": "警方正在调查教育厅短信平台遭入侵",
-      "onboard_time": 1728714139,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 36436,
@@ -1787,6 +1867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 31362,
+      "num": 224597,
+      "word": "三方面研究出台有利于房地产发展措施",
+      "onboard_time": 1728714799,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 30551,
       "num": 30551,
       "word": "动画还原杨妞花被拐案",
@@ -1796,7 +1884,7 @@
     },
     {
       "raw_hot": 30085,
-      "num": 1035303,
+      "num": 1336034,
       "word": "最新赏秋地秋日浓度播报来了",
       "onboard_time": 1728705561,
       "rank": 2,
@@ -1835,19 +1923,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 26696,
+      "num": 242079,
+      "word": "手术红包之争背后是谁的锅",
+      "onboard_time": 1728713899,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 24798,
       "num": 132003,
       "word": "被拐女孩说相信会有好的结果",
       "onboard_time": 1728660560,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 23294,
-      "num": 242079,
-      "word": "手术红包之争背后是谁的锅",
-      "onboard_time": 1728713899,
-      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -1889,14 +1977,6 @@
       "onboard_time": 1728677531,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 15448,
-      "num": 236383,
-      "word": "中东战场迎来最安静时刻",
-      "onboard_time": 1728714379,
-      "rank": 29,
-      "category": "国外时政"
     },
     {
       "raw_hot": 15109,
