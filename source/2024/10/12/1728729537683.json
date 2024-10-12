@@ -1,0 +1,410 @@
+{
+  "runTime": 1728729537683,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 20077,
+        "num": 1003212,
+        "word": "吴邦国同志遗体10月14日火化",
+        "onboard_time": 1728711500,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1038543,
+        "num": 863140,
+        "word": "王艺迪0比3金琴英",
+        "onboard_time": 1728725960,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 18093,
+        "num": 695478,
+        "word": "透过成绩单看国家公园建设成效",
+        "onboard_time": 1728720800,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 675406,
+        "num": 675406,
+        "word": "王楚钦vs吉村真晴",
+        "onboard_time": 1728726680,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 501362,
+        "num": 501362,
+        "word": "东北雨姐被罚165万",
+        "onboard_time": 1728711739,
+        "rank": 4,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 489784,
+        "num": 489784,
+        "word": "鸿蒙版微信正式上架",
+        "onboard_time": 1728725360,
+        "rank": 5,
+        "category": "互联网,数码"
+      },
+      {
+        "raw_hot": 466143,
+        "num": 466143,
+        "word": "彗星",
+        "onboard_time": 1728723920,
+        "rank": 6,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 462608,
+        "num": 462608,
+        "word": "林高远林诗栋11比0",
+        "onboard_time": 1728719240,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 413027,
+        "num": 413027,
+        "word": "山东高密公布市委书记等领导手机号",
+        "onboard_time": 1728722179,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 266155,
+        "num": 407584,
+        "word": "中华田园犬大战2米毒蛇保护110",
+        "onboard_time": 1728728420,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 966267,
+        "num": 405595,
+        "word": "日本梅毒",
+        "onboard_time": 1728702619,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 735106,
+        "num": 396836,
+        "word": "儿子用父亲的旧手机消费了十多万",
+        "onboard_time": 1728720741,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 663639,
+        "num": 395624,
+        "word": "蔡徐坤 支持我戴",
+        "onboard_time": 1728714560,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 628618,
+        "num": 388924,
+        "word": "女子头戴鲨鱼夹摔倒后成植物人",
+        "onboard_time": 1728712040,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 16570,
+        "num": 381175,
+        "word": "相关部门证实颜料师皮划艇视频为水库",
+        "onboard_time": 1728729319,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 609631,
+        "num": 377176,
+        "word": "听泉鉴宝 盗墓",
+        "onboard_time": 1728706519,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 579135,
+        "num": 371591,
+        "word": "蒯曼1比3申裕斌",
+        "onboard_time": 1728728058,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 578560,
+        "num": 366753,
+        "word": "檀健次经纪人聊天记录",
+        "onboard_time": 1728714199,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 362177,
+        "num": 362177,
+        "word": "尹净汉现场",
+        "onboard_time": 1728726199,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 4901,
+        "num": 355494,
+        "word": "张凌赫微博视界大会入围作品",
+        "onboard_time": 1728729500,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 351642,
+        "num": 351642,
+        "word": "4S店称迈巴赫漏水已锁定具体问题点",
+        "onboard_time": 1728722660,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 347791,
+        "num": 347791,
+        "word": "王楚钦3比1吉村真晴",
+        "onboard_time": 1728728359,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 342322,
+        "num": 342322,
+        "word": "女子颈椎病被医生舌下扎针治好",
+        "onboard_time": 1728718519,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 325198,
+        "num": 325198,
+        "word": "闵塔鲨审美",
+        "onboard_time": 1728723379,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 281602,
+        "num": 281602,
+        "word": "SEVENTEEN演唱会",
+        "onboard_time": 1728725659,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 276533,
+        "num": 276533,
+        "word": "许昕3比2刘家良",
+        "onboard_time": 1728721039,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 262008,
+        "num": 262008,
+        "word": "景德镇车祸家属称对方曾想花钱私了",
+        "onboard_time": 1728725779,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148387,
+        "num": 259319,
+        "word": "乐华艺人也要内部竞争",
+        "onboard_time": 1728727339,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147319,
+        "num": 257735,
+        "word": "B太曾做客东北雨姐拍摄基地",
+        "onboard_time": 1728713781,
+        "rank": 28,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 167264,
+        "num": 257063,
+        "word": "徐瑛彬0比3张本智和",
+        "onboard_time": 1728729080,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 256657,
+        "num": 256657,
+        "word": "周杰伦林俊杰钢琴合唱",
+        "onboard_time": 1728728720,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 239805,
+        "num": 239805,
+        "word": "芒果新人学历",
+        "onboard_time": 1728726559,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 34386,
+        "num": 236534,
+        "word": "王一博的人生充满passion",
+        "onboard_time": 1728728901,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 236371,
+        "num": 236371,
+        "word": "理记举报江秋莲诈骗濒死五保户财产",
+        "onboard_time": 1728724279,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235667,
+        "num": 235667,
+        "word": "儿子因病离世父亲一夜白头",
+        "onboard_time": 1728720918,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 234899,
+        "num": 234899,
+        "word": "国家奖学金",
+        "onboard_time": 1728712641,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 228442,
+        "num": 228442,
+        "word": "迈巴赫经销商回应新车漏水",
+        "onboard_time": 1728720982,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214212,
+        "num": 214212,
+        "word": "年轻人开始养黏菌当宠物",
+        "onboard_time": 1728724099,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212646,
+        "num": 212646,
+        "word": "男子滞留哀牢山2天1夜获救",
+        "onboard_time": 1728722959,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 74162,
+        "num": 200352,
+        "word": "Jennie打破今年kpop女solo一位纪录",
+        "onboard_time": 1728711800,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 196970,
+        "num": 196970,
+        "word": "驴奶皂",
+        "onboard_time": 1728728901,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 194873,
+        "num": 194873,
+        "word": "周震南给周柯宇从A班降到F班",
+        "onboard_time": 1728721460,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194182,
+        "num": 194182,
+        "word": "报告指认以色列欲摧毁加沙卫生系统",
+        "onboard_time": 1728721159,
+        "rank": 42,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 192425,
+        "num": 192425,
+        "word": "萨巴伦卡vs高芙",
+        "onboard_time": 1728725539,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 190923,
+        "num": 190923,
+        "word": "东北雨姐账号所属mcn叫诚信",
+        "onboard_time": 1728726680,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190721,
+        "num": 190721,
+        "word": "男双",
+        "onboard_time": 1728720021,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 183526,
+        "num": 183526,
+        "word": "张元英百美第一",
+        "onboard_time": 1728724400,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 166292,
+        "num": 166292,
+        "word": "一家三口被撞身亡车祸细节披露",
+        "onboard_time": 1728703939,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161897,
+        "num": 161897,
+        "word": "王艺迪止步女单16强",
+        "onboard_time": 1728727639,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 151162,
+        "num": 151162,
+        "word": "我的宝藏家乡",
+        "onboard_time": 1728727159,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#人民友好是国际关系行稳致远的基础#"
+    }
+  }
+}

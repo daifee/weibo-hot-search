@@ -1,6 +1,6 @@
 {
   "startTime": 1728664067735,
-  "endTime": 1728728484923,
+  "endTime": 1728729537683,
   "band_list": [
     {
       "raw_hot": 4273020,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 1331357,
-      "num": 385138,
+      "num": 388924,
       "word": "女子头戴鲨鱼夹摔倒后成植物人",
       "onboard_time": 1728712040,
       "rank": 12,
@@ -116,11 +116,19 @@
     },
     {
       "raw_hot": 1046128,
-      "num": 384731,
+      "num": 395624,
       "word": "蔡徐坤 支持我戴",
       "onboard_time": 1728714560,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1038543,
+      "num": 996009,
+      "word": "王艺迪0比3金琴英",
+      "onboard_time": 1728725960,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 1031478,
@@ -140,19 +148,11 @@
     },
     {
       "raw_hot": 1001896,
-      "num": 385749,
+      "num": 396836,
       "word": "儿子用父亲的旧手机消费了十多万",
       "onboard_time": 1728720741,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 996009,
-      "num": 996009,
-      "word": "王艺迪0比3金琴英",
-      "onboard_time": 1728725960,
-      "rank": 1,
-      "category": "体育"
     },
     {
       "raw_hot": 954492,
@@ -283,6 +283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 675406,
+      "num": 675406,
+      "word": "王楚钦vs吉村真晴",
+      "onboard_time": 1728726680,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 672843,
       "num": 297778,
       "word": "江秋莲",
@@ -347,6 +355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 579135,
+      "num": 371591,
+      "word": "蒯曼1比3申裕斌",
+      "onboard_time": 1728728058,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 578620,
       "num": 578620,
       "word": "蒯曼",
@@ -368,14 +384,6 @@
       "word": "樊振东让陈奕迅下次演唱会邀请自己",
       "onboard_time": 1728693859,
       "rank": 23,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 573473,
-      "num": 573473,
-      "word": "王楚钦vs吉村真晴",
-      "onboard_time": 1728726680,
-      "rank": 4,
       "category": "体育"
     },
     {
@@ -475,6 +483,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 489784,
+      "num": 489784,
+      "word": "鸿蒙版微信正式上架",
+      "onboard_time": 1728725360,
+      "rank": 48,
+      "category": "互联网,数码"
+    },
+    {
       "raw_hot": 473502,
       "num": 247341,
       "word": "景德镇车祸家属称现场惨烈常做噩梦",
@@ -497,6 +513,14 @@
       "onboard_time": 1728717918,
       "rank": 34,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 466143,
+      "num": 466143,
+      "word": "彗星",
+      "onboard_time": 1728723920,
+      "rank": 41,
+      "category": "自然"
     },
     {
       "raw_hot": 463330,
@@ -588,7 +612,7 @@
     },
     {
       "raw_hot": 397796,
-      "num": 315057,
+      "num": 342322,
       "word": "女子颈椎病被医生舌下扎针治好",
       "onboard_time": 1728718519,
       "rank": 26,
@@ -609,14 +633,6 @@
       "onboard_time": 1728709403,
       "rank": 17,
       "category": "电影"
-    },
-    {
-      "raw_hot": 387478,
-      "num": 387478,
-      "word": "彗星",
-      "onboard_time": 1728723920,
-      "rank": 41,
-      "category": "自然"
     },
     {
       "raw_hot": 381445,
@@ -696,6 +712,14 @@
       "word": "向鹏0比3林昀儒",
       "onboard_time": 1728713120,
       "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 347791,
+      "num": 384282,
+      "word": "王楚钦3比1吉村真晴",
+      "onboard_time": 1728728359,
+      "rank": 18,
       "category": "体育"
     },
     {
@@ -883,6 +907,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 281602,
+      "num": 281602,
+      "word": "SEVENTEEN演唱会",
+      "onboard_time": 1728725659,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 279876,
       "num": 279876,
       "word": "郭晶晶说爱让家不断加分",
@@ -939,6 +971,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 266155,
+      "num": 407584,
+      "word": "中华田园犬大战2米毒蛇保护110",
+      "onboard_time": 1728728420,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 263587,
       "num": 263587,
       "word": "男子滞留哀牢山2天1夜获救",
@@ -961,6 +1001,14 @@
       "onboard_time": 1728660921,
       "rank": 1,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 262008,
+      "num": 262008,
+      "word": "景德镇车祸家属称对方曾想花钱私了",
+      "onboard_time": 1728725779,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 261539,
@@ -993,6 +1041,14 @@
       "onboard_time": 1728702980,
       "rank": 23,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 256657,
+      "num": 256657,
+      "word": "周杰伦林俊杰钢琴合唱",
+      "onboard_time": 1728728720,
+      "rank": 30,
+      "category": "演出"
     },
     {
       "raw_hot": 254698,
@@ -1139,14 +1195,6 @@
       "category": "社会新闻,网红"
     },
     {
-      "raw_hot": 227101,
-      "num": 227101,
-      "word": "景德镇车祸家属称对方曾想花钱私了",
-      "onboard_time": 1728725779,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 227068,
       "num": 227068,
       "word": "哀牢山没有蟒蛇但有毒蛇",
@@ -1177,14 +1225,6 @@
       "onboard_time": 1728721159,
       "rank": 41,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 221145,
-      "num": 221145,
-      "word": "蒯曼1比3申裕斌",
-      "onboard_time": 1728728058,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 219885,
@@ -1227,12 +1267,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 212735,
-      "num": 386052,
-      "word": "鸿蒙版微信正式上架",
-      "onboard_time": 1728725360,
-      "rank": 48,
-      "category": "互联网,数码"
+      "raw_hot": 214212,
+      "num": 322637,
+      "word": "年轻人开始养黏菌当宠物",
+      "onboard_time": 1728724099,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 212596,
@@ -1265,14 +1305,6 @@
       "onboard_time": 1728706340,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 209210,
-      "num": 322637,
-      "word": "年轻人开始养黏菌当宠物",
-      "onboard_time": 1728724099,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 208141,
@@ -1379,6 +1411,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 196970,
+      "num": 196970,
+      "word": "驴奶皂",
+      "onboard_time": 1728728901,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 196911,
       "num": 242647,
       "word": "种地吧",
@@ -1435,6 +1475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 192425,
+      "num": 271403,
+      "word": "萨巴伦卡vs高芙",
+      "onboard_time": 1728725539,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 191809,
       "num": 191809,
       "word": "将置换地方政府存量隐性债务",
@@ -1451,6 +1499,14 @@
       "category": "社会新闻,读书作家"
     },
     {
+      "raw_hot": 190923,
+      "num": 190923,
+      "word": "东北雨姐账号所属mcn叫诚信",
+      "onboard_time": 1728726680,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 190486,
       "num": 190486,
       "word": "JYP模仿眼泪女王金秀贤",
@@ -1465,14 +1521,6 @@
       "onboard_time": 1728721640,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 188988,
-      "num": 271403,
-      "word": "萨巴伦卡vs高芙",
-      "onboard_time": 1728725539,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 188608,
@@ -1675,6 +1723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 167264,
+      "num": 257063,
+      "word": "徐瑛彬0比3张本智和",
+      "onboard_time": 1728729080,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 166582,
       "num": 166582,
       "word": "第五人格",
@@ -1713,14 +1769,6 @@
       "onboard_time": 1728708682,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 162596,
-      "num": 162596,
-      "word": "SEVENTEEN演唱会",
-      "onboard_time": 1728725659,
-      "rank": 47,
-      "category": "演出"
     },
     {
       "raw_hot": 161549,
@@ -1795,19 +1843,19 @@
       "category": "游戏,艺人"
     },
     {
-      "raw_hot": 155537,
-      "num": 155537,
-      "word": "中华田园犬大战2米毒蛇保护110",
-      "onboard_time": 1728728420,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 155308,
       "num": 142366,
       "word": "夫妻调监控找婚戒发现被酒店员工偷窥",
       "onboard_time": 1728667633,
       "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 151162,
+      "num": 385428,
+      "word": "我的宝藏家乡",
+      "onboard_time": 1728727159,
+      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -2203,14 +2251,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 77339,
-      "num": 385428,
-      "word": "我的宝藏家乡",
-      "onboard_time": 1728727159,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 76456,
       "num": 76456,
       "word": "魏大勋给孟宴臣庆生",
@@ -2523,6 +2563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 34386,
+      "num": 236534,
+      "word": "王一博的人生充满passion",
+      "onboard_time": 1728728901,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 33601,
       "num": 344014,
       "word": "照顾失能失智老人属养老收费最高档位",
@@ -2667,6 +2715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 16570,
+      "num": 381175,
+      "word": "相关部门证实颜料师皮划艇视频为水库",
+      "onboard_time": 1728729319,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 15109,
       "num": 23857,
       "word": "央美女生把父亲的运煤车改装成泳池",
@@ -2691,14 +2747,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 14626,
-      "num": 384282,
-      "word": "王楚钦3比1吉村真晴",
-      "onboard_time": 1728728359,
-      "rank": 18,
-      "category": "体育"
-    },
-    {
       "raw_hot": 12228,
       "num": 152121,
       "word": "适合新手的cityride路线",
@@ -2713,6 +2761,14 @@
       "onboard_time": 1728708020,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 4901,
+      "num": 355494,
+      "word": "张凌赫微博视界大会入围作品",
+      "onboard_time": 1728729500,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 4838,
