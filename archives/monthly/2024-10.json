@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1728830235279,
+  "endTime": 1728832945500,
   "band_list": [
     {
       "raw_hot": 17915004,
@@ -209,6 +209,14 @@
       "onboard_time": 1728351019,
       "rank": 4,
       "category": "财经"
+    },
+    {
+      "raw_hot": 2965185,
+      "num": 353162,
+      "word": "洪承汉退队",
+      "onboard_time": 1728831324,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 2889500,
@@ -571,6 +579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2082819,
+      "num": 1071064,
+      "word": "听泉鉴宝被指塌房四大疑问待解",
+      "onboard_time": 1728825742,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2075112,
       "num": 2075112,
       "word": "向鹏vs莫雷加德",
@@ -760,6 +776,14 @@
       "word": "国乒女单无缘亚锦赛四强",
       "onboard_time": 1728736700,
       "rank": 28,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1801738,
+      "num": 350062,
+      "word": "国乒怎么了",
+      "onboard_time": 1728830004,
+      "rank": 39,
       "category": "体育"
     },
     {
@@ -2051,6 +2075,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 1124273,
+      "num": 348969,
+      "word": "朝军8个炮兵旅团转为射击待命",
+      "onboard_time": 1728832042,
+      "rank": 14,
+      "category": "社会新闻,国外时政"
+    },
+    {
       "raw_hot": 1123078,
       "num": 465250,
       "word": "张本智和模仿樊振东模仿姆巴佩",
@@ -2152,14 +2184,6 @@
       "word": "景德镇车祸家属说太崩溃了",
       "onboard_time": 1728779537,
       "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1071064,
-      "num": 1071064,
-      "word": "听泉鉴宝被指塌房四大疑问待解",
-      "onboard_time": 1728825742,
-      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -2361,6 +2385,14 @@
       "onboard_time": 1728446240,
       "rank": 17,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 1043016,
+      "num": 429145,
+      "word": "吴晙诚没有领奖",
+      "onboard_time": 1728829522,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 1041112,
@@ -3515,6 +3547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 829875,
+      "num": 829875,
+      "word": "哀牢山发现全球仅千只的鸟",
+      "onboard_time": 1728830062,
+      "rank": 42,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 829667,
       "num": 829667,
       "word": "本专科生国家助学金升至每年3700元",
@@ -3553,6 +3593,14 @@
       "onboard_time": 1728720982,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 827093,
+      "num": 344739,
+      "word": "王以太当爸爸了",
+      "onboard_time": 1728830123,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 825647,
@@ -4828,7 +4876,7 @@
     },
     {
       "raw_hot": 676608,
-      "num": 312586,
+      "num": 340912,
       "word": "年轻人下班后开始搞副业了",
       "onboard_time": 1728828623,
       "rank": 21,
@@ -5665,6 +5713,14 @@
       "onboard_time": 1727879300,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 607646,
+      "num": 607646,
+      "word": "WBG晋级S14八强",
+      "onboard_time": 1728831083,
+      "rank": 3,
+      "category": "电竞"
     },
     {
       "raw_hot": 607250,
@@ -6579,6 +6635,22 @@
       "category": "网红"
     },
     {
+      "raw_hot": 537858,
+      "num": 342763,
+      "word": "RIIZE",
+      "onboard_time": 1728710001,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 537506,
+      "num": 537506,
+      "word": "DK对战WBG",
+      "onboard_time": 1728822199,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 536881,
       "num": 277270,
       "word": "以驻联合国代表谴责伊朗导弹袭击",
@@ -7185,6 +7257,14 @@
       "onboard_time": 1727935757,
       "rank": 8,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 493889,
+      "num": 493889,
+      "word": "俄罗斯车臣首府发生爆炸致4死",
+      "onboard_time": 1728826821,
+      "rank": 29,
+      "category": "国外时政"
     },
     {
       "raw_hot": 493670,
@@ -8320,14 +8400,6 @@
       "word": "周启豪3比2奥恰洛夫",
       "onboard_time": 1727870478,
       "rank": 1,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 429145,
-      "num": 429145,
-      "word": "吴晙诚没有领奖",
-      "onboard_time": 1728829522,
-      "rank": 4,
       "category": "体育"
     },
     {
@@ -9923,6 +9995,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 357645,
+      "num": 469835,
+      "word": "房地产税收新政将出台",
+      "onboard_time": 1728827904,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 357487,
       "num": 357487,
       "word": "孙颖莎和小莫互动",
@@ -10025,14 +10105,6 @@
       "onboard_time": 1728274219,
       "rank": 20,
       "category": "读书作家"
-    },
-    {
-      "raw_hot": 354503,
-      "num": 354503,
-      "word": "俄罗斯车臣首府发生爆炸致4死",
-      "onboard_time": 1728826821,
-      "rank": 29,
-      "category": "国外时政"
     },
     {
       "raw_hot": 354484,
@@ -10451,14 +10523,6 @@
       "category": "体育,艺人"
     },
     {
-      "raw_hot": 336978,
-      "num": 336978,
-      "word": "DK对战WBG",
-      "onboard_time": 1728822199,
-      "rank": 35,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 336693,
       "num": 233886,
       "word": "樊振东与王皓儿子合照",
@@ -10769,6 +10833,14 @@
       "onboard_time": 1727788880,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 326318,
+      "num": 326318,
+      "word": "吴镇宇晒费曼王嘉尔合照",
+      "onboard_time": 1728831743,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 326299,
@@ -11947,6 +12019,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 292787,
+      "num": 292787,
+      "word": "WBG战胜DK",
+      "onboard_time": 1728831083,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 292771,
       "num": 326840,
       "word": "今天祖国的第一缕阳光",
@@ -13091,6 +13171,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 270145,
+      "num": 270145,
+      "word": "想辞职去浙江农村过低欲望的生活",
+      "onboard_time": 1728827662,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 269474,
       "num": 248711,
       "word": "张凌赫田曦薇平番",
@@ -13409,14 +13497,6 @@
       "onboard_time": 1728136459,
       "rank": 21,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 264274,
-      "num": 469835,
-      "word": "房地产税收新政将出台",
-      "onboard_time": 1728827904,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 264055,
@@ -14595,6 +14675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 241085,
+      "num": 333086,
+      "word": "他一搂我就知道跑不了了",
+      "onboard_time": 1728832281,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 240550,
       "num": 240550,
       "word": "公司趁我不在工位点开我微信",
@@ -15195,6 +15283,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 231153,
+      "num": 231153,
+      "word": "股东套现3000万被责令购回并上缴价差",
+      "onboard_time": 1728832281,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 231042,
       "num": 231042,
       "word": "同晒一缕阳光祝祖国生日快乐",
@@ -15593,6 +15689,14 @@
       "onboard_time": 1728444860,
       "rank": 38,
       "category": "教育"
+    },
+    {
+      "raw_hot": 225174,
+      "num": 331809,
+      "word": "芒果台有一半都去了黄绮珊演唱会",
+      "onboard_time": 1728832461,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 225162,
@@ -16249,6 +16353,14 @@
       "onboard_time": 1728188479,
       "rank": 19,
       "category": "电影"
+    },
+    {
+      "raw_hot": 217187,
+      "num": 330974,
+      "word": "徐艺真上综艺",
+      "onboard_time": 1728831683,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 217178,
@@ -17179,6 +17291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 205790,
+      "num": 335526,
+      "word": "杨紫李现国色芳华开始招商",
+      "onboard_time": 1728832222,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 205771,
       "num": 440503,
       "word": "美国石英小镇暂停采矿全球芯慌",
@@ -18057,14 +18177,6 @@
       "onboard_time": 1728018439,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 199162,
-      "num": 199162,
-      "word": "想辞职去浙江农村过低欲望的生活",
-      "onboard_time": 1728827662,
-      "rank": 41,
-      "category": "情感"
     },
     {
       "raw_hot": 198972,
@@ -19083,6 +19195,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 192946,
+      "num": 192946,
+      "word": "G2对战BLG",
+      "onboard_time": 1728831144,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 192859,
       "num": 192859,
       "word": "印拟向全球推广印度制造",
@@ -19899,6 +20019,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 187248,
+      "num": 187248,
+      "word": "PCL",
+      "onboard_time": 1728831743,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 187244,
       "num": 187244,
       "word": "停云立绘",
@@ -19921,14 +20049,6 @@
       "onboard_time": 1728569301,
       "rank": 41,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 187003,
-      "num": 187003,
-      "word": "国乒怎么了",
-      "onboard_time": 1728830004,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 187000,
@@ -20057,6 +20177,14 @@
       "onboard_time": 1728665355,
       "rank": 38,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 185791,
+      "num": 185791,
+      "word": "童家堡秋季赛总冠军",
+      "onboard_time": 1728831683,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 185769,
@@ -20289,6 +20417,14 @@
       "onboard_time": 1727767217,
       "rank": 43,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 184067,
+      "num": 185804,
+      "word": "Tarzan莫甘娜打野",
+      "onboard_time": 1728831982,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 184039,
@@ -20787,14 +20923,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 179358,
-      "num": 179358,
-      "word": "RIIZE",
-      "onboard_time": 1728710001,
-      "rank": 43,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 179209,
       "num": 179209,
       "word": "男双决赛",
@@ -21283,6 +21411,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 174837,
+      "num": 174837,
+      "word": "AG对战DRG",
+      "onboard_time": 1728830422,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 174824,
       "num": 174824,
       "word": "孙颖莎半决赛对阵范思琦",
@@ -21513,14 +21649,6 @@
       "onboard_time": 1728271819,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 172923,
-      "num": 172923,
-      "word": "王以太当爸爸了",
-      "onboard_time": 1728830123,
-      "rank": 41,
-      "category": "演出"
     },
     {
       "raw_hot": 172920,
@@ -22457,14 +22585,6 @@
       "onboard_time": 1728603798,
       "rank": 33,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 165894,
-      "num": 165894,
-      "word": "哀牢山发现全球仅千只的鸟",
-      "onboard_time": 1728830062,
-      "rank": 42,
-      "category": "旅游"
     },
     {
       "raw_hot": 165797,
@@ -24268,7 +24388,7 @@
     },
     {
       "raw_hot": 153650,
-      "num": 303796,
+      "num": 329135,
       "word": "我赴黎维和官兵在地下掩体报平安",
       "onboard_time": 1728824060,
       "rank": 39,
@@ -33555,6 +33675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 82194,
+      "num": 328311,
+      "word": "萧敬腾在婚礼上泪流满面",
+      "onboard_time": 1728831743,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 82173,
       "num": 82173,
       "word": "罗永浩吐槽视频暂停弹广告",
@@ -36187,6 +36315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 48110,
+      "num": 171972,
+      "word": "一起体验夏威夷海边度假屋",
+      "onboard_time": 1728832342,
+      "rank": 49,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 48088,
       "num": 1200076,
       "word": "文博热非遗热持续升温",
@@ -37639,6 +37775,14 @@
       "num": 70029,
       "word": "哀牢山护林员说迷路很常见",
       "onboard_time": 1728497651,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 35391,
+      "num": 356159,
+      "word": "中证A系列指数再扩容",
+      "onboard_time": 1728831263,
       "rank": 9,
       "category": "社会新闻"
     },

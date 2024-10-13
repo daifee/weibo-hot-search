@@ -1,6 +1,6 @@
 {
   "startTime": 1728750414717,
-  "endTime": 1728830235279,
+  "endTime": 1728832945500,
   "band_list": [
     {
       "raw_hot": 17915004,
@@ -32,6 +32,14 @@
       "word": "龚琳娜离婚",
       "onboard_time": 1728815239,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2965185,
+      "num": 353162,
+      "word": "洪承汉退队",
+      "onboard_time": 1728831324,
+      "rank": 11,
       "category": "艺人"
     },
     {
@@ -67,6 +75,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2082819,
+      "num": 1071064,
+      "word": "听泉鉴宝被指塌房四大疑问待解",
+      "onboard_time": 1728825742,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2066250,
       "num": 2066250,
       "word": "金琴英3比1张本美和",
@@ -80,6 +96,14 @@
       "word": "郑钦文武网亚军",
       "onboard_time": 1728820521,
       "rank": 1,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1801738,
+      "num": 350062,
+      "word": "国乒怎么了",
+      "onboard_time": 1728830004,
+      "rank": 39,
       "category": "体育"
     },
     {
@@ -187,6 +211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1124273,
+      "num": 348969,
+      "word": "朝军8个炮兵旅团转为射击待命",
+      "onboard_time": 1728832042,
+      "rank": 14,
+      "category": "社会新闻,国外时政"
+    },
+    {
       "raw_hot": 1123078,
       "num": 465250,
       "word": "张本智和模仿樊振东模仿姆巴佩",
@@ -219,14 +251,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1071064,
-      "num": 1071064,
-      "word": "听泉鉴宝被指塌房四大疑问待解",
-      "onboard_time": 1728825742,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1065108,
       "num": 471830,
       "word": "90后小伙炒股4天亏损32万",
@@ -240,6 +264,14 @@
       "word": "国乒一天之内输了十场",
       "onboard_time": 1728792918,
       "rank": 20,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1043016,
+      "num": 429145,
+      "word": "吴晙诚没有领奖",
+      "onboard_time": 1728829522,
+      "rank": 4,
       "category": "体育"
     },
     {
@@ -329,6 +361,22 @@
       "onboard_time": 1728827243,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 829875,
+      "num": 829875,
+      "word": "哀牢山发现全球仅千只的鸟",
+      "onboard_time": 1728830062,
+      "rank": 42,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 827093,
+      "num": 344739,
+      "word": "王以太当爸爸了",
+      "onboard_time": 1728830123,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 822478,
@@ -452,7 +500,7 @@
     },
     {
       "raw_hot": 676608,
-      "num": 312586,
+      "num": 340912,
       "word": "年轻人下班后开始搞副业了",
       "onboard_time": 1728828623,
       "rank": 21,
@@ -521,6 +569,14 @@
       "onboard_time": 1728740304,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 607646,
+      "num": 607646,
+      "word": "WBG晋级S14八强",
+      "onboard_time": 1728831083,
+      "rank": 3,
+      "category": "电竞"
     },
     {
       "raw_hot": 595686,
@@ -603,6 +659,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 537858,
+      "num": 342763,
+      "word": "RIIZE",
+      "onboard_time": 1728832103,
+      "rank": 19,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 537506,
+      "num": 537506,
+      "word": "DK对战WBG",
+      "onboard_time": 1728822199,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 525364,
       "num": 471087,
       "word": "比伯yummy mv",
@@ -633,6 +705,14 @@
       "onboard_time": 1728739583,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 493889,
+      "num": 493889,
+      "word": "俄罗斯车臣首府发生爆炸致4死",
+      "onboard_time": 1728826821,
+      "rank": 29,
+      "category": "国外时政"
     },
     {
       "raw_hot": 492749,
@@ -723,14 +803,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 429145,
-      "num": 429145,
-      "word": "吴晙诚没有领奖",
-      "onboard_time": 1728829522,
-      "rank": 4,
-      "category": "体育"
-    },
-    {
       "raw_hot": 424072,
       "num": 362502,
       "word": "吹牛老爹",
@@ -787,20 +859,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 357645,
+      "num": 469835,
+      "word": "房地产税收新政将出台",
+      "onboard_time": 1728827904,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 354763,
       "num": 294665,
       "word": "资助了5年的女孩悄悄给我转钱",
       "onboard_time": 1728808219,
       "rank": 42,
       "category": "情感"
-    },
-    {
-      "raw_hot": 354503,
-      "num": 354503,
-      "word": "俄罗斯车臣首府发生爆炸致4死",
-      "onboard_time": 1728826821,
-      "rank": 29,
-      "category": "国外时政"
     },
     {
       "raw_hot": 353764,
@@ -859,12 +931,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 336978,
-      "num": 336978,
-      "word": "DK对战WBG",
-      "onboard_time": 1728822199,
-      "rank": 35,
-      "category": "电竞"
+      "raw_hot": 326318,
+      "num": 326318,
+      "word": "吴镇宇晒费曼王嘉尔合照",
+      "onboard_time": 1728831743,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 320496,
@@ -939,6 +1011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 292787,
+      "num": 292787,
+      "word": "WBG战胜DK",
+      "onboard_time": 1728831083,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 289674,
       "num": 289674,
       "word": "朴元彬发长文",
@@ -1011,6 +1091,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 270145,
+      "num": 270145,
+      "word": "想辞职去浙江农村过低欲望的生活",
+      "onboard_time": 1728827662,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 266011,
       "num": 266011,
       "word": "上海菜为什么偏甜",
@@ -1040,14 +1128,6 @@
       "word": "在哀牢山中遇到危险该如何自救",
       "onboard_time": 1728793998,
       "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 264274,
-      "num": 469835,
-      "word": "房地产税收新政将出台",
-      "onboard_time": 1728827904,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -1107,6 +1187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 241085,
+      "num": 333086,
+      "word": "他一搂我就知道跑不了了",
+      "onboard_time": 1728832281,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 237782,
       "num": 296916,
       "word": "你好星期六全员穿越80年代",
@@ -1129,6 +1217,14 @@
       "onboard_time": 1728778277,
       "rank": 18,
       "category": "演出"
+    },
+    {
+      "raw_hot": 231153,
+      "num": 231153,
+      "word": "股东套现3000万被责令购回并上缴价差",
+      "onboard_time": 1728832281,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 230692,
@@ -1169,6 +1265,14 @@
       "onboard_time": 1728796579,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 225174,
+      "num": 331809,
+      "word": "芒果台有一半都去了黄绮珊演唱会",
+      "onboard_time": 1728832461,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 225162,
@@ -1251,6 +1355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 217187,
+      "num": 330974,
+      "word": "徐艺真上综艺",
+      "onboard_time": 1728831683,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 215811,
       "num": 215811,
       "word": "联合国维和部队拒绝以色列撤离要求",
@@ -1297,6 +1409,14 @@
       "onboard_time": 1728796819,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 205790,
+      "num": 335526,
+      "word": "杨紫李现国色芳华开始招商",
+      "onboard_time": 1728832222,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 204592,
@@ -1385,14 +1505,6 @@
       "onboard_time": 1728815180,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 199162,
-      "num": 199162,
-      "word": "想辞职去浙江农村过低欲望的生活",
-      "onboard_time": 1728827662,
-      "rank": 41,
-      "category": "情感"
     },
     {
       "raw_hot": 198649,
@@ -1499,6 +1611,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 192946,
+      "num": 192946,
+      "word": "G2对战BLG",
+      "onboard_time": 1728831144,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 192324,
       "num": 192324,
       "word": "官方通报小男孩凌晨捡瓶子被偶遇",
@@ -1603,20 +1723,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 187248,
+      "num": 187248,
+      "word": "PCL",
+      "onboard_time": 1728831743,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 187029,
       "num": 187029,
       "word": "S14",
       "onboard_time": 1728744922,
       "rank": 23,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 187003,
-      "num": 187003,
-      "word": "国乒怎么了",
-      "onboard_time": 1728830004,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 186516,
@@ -1627,12 +1747,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 185791,
+      "num": 185791,
+      "word": "童家堡秋季赛总冠军",
+      "onboard_time": 1728831683,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 185431,
       "num": 185431,
       "word": "严浩翔拒绝毒奶",
       "onboard_time": 1728800359,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 184067,
+      "num": 185804,
+      "word": "Tarzan莫甘娜打野",
+      "onboard_time": 1728831982,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 184039,
@@ -1683,6 +1819,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 174837,
+      "num": 174837,
+      "word": "AG对战DRG",
+      "onboard_time": 1728830422,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 174802,
       "num": 174802,
       "word": "准大学生火车遇带娃妈妈让座被婉拒",
@@ -1697,14 +1841,6 @@
       "onboard_time": 1728781819,
       "rank": 22,
       "category": "情感"
-    },
-    {
-      "raw_hot": 172923,
-      "num": 172923,
-      "word": "王以太当爸爸了",
-      "onboard_time": 1728830123,
-      "rank": 41,
-      "category": "演出"
     },
     {
       "raw_hot": 171430,
@@ -1769,14 +1905,6 @@
       "onboard_time": 1728809060,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 165894,
-      "num": 165894,
-      "word": "哀牢山发现全球仅千只的鸟",
-      "onboard_time": 1728830062,
-      "rank": 42,
-      "category": "旅游"
     },
     {
       "raw_hot": 165510,
@@ -1956,7 +2084,7 @@
     },
     {
       "raw_hot": 153650,
-      "num": 303796,
+      "num": 329135,
       "word": "我赴黎维和官兵在地下掩体报平安",
       "onboard_time": 1728824060,
       "rank": 39,
@@ -2891,6 +3019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 82194,
+      "num": 328311,
+      "word": "萧敬腾在婚礼上泪流满面",
+      "onboard_time": 1728831743,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 80134,
       "num": 119386,
       "word": "林诗栋晋级亚锦赛四强",
@@ -3067,6 +3203,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 48110,
+      "num": 171972,
+      "word": "一起体验夏威夷海边度假屋",
+      "onboard_time": 1728832342,
+      "rank": 49,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 47842,
       "num": 55665,
       "word": "女子陷刷单返利式诈骗险被骗6万",
@@ -3153,6 +3297,14 @@
       "onboard_time": 1728775875,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 35391,
+      "num": 356159,
+      "word": "中证A系列指数再扩容",
+      "onboard_time": 1728831263,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 35314,

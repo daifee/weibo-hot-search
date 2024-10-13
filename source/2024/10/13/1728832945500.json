@@ -1,0 +1,410 @@
+{
+  "runTime": 1728832945500,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1064947,
+        "num": 1170391,
+        "word": "林诗栋vs张本智和",
+        "onboard_time": 1728819621,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 829875,
+        "num": 829875,
+        "word": "哀牢山发现全球仅千只的鸟",
+        "onboard_time": 1728830062,
+        "rank": 1,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 46388,
+        "num": 696348,
+        "word": "全国秋收已近六成",
+        "onboard_time": 1728825861,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 607646,
+        "num": 607646,
+        "word": "WBG晋级S14八强",
+        "onboard_time": 1728831083,
+        "rank": 3,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 537506,
+        "num": 537506,
+        "word": "DK对战WBG",
+        "onboard_time": 1728822199,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 5760744,
+        "num": 527923,
+        "word": "朝鲜已向前线部队下达准备射击指示",
+        "onboard_time": 1728826102,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 493889,
+        "num": 493889,
+        "word": "俄罗斯车臣首府发生爆炸致4死",
+        "onboard_time": 1728826821,
+        "rank": 6,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 357645,
+        "num": 357645,
+        "word": "房地产税收新政将出台",
+        "onboard_time": 1728827904,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 295710,
+        "num": 356516,
+        "word": "短剧综艺",
+        "onboard_time": 1728826701,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 35391,
+        "num": 356159,
+        "word": "中证A系列指数再扩容",
+        "onboard_time": 1728831263,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2971526,
+        "num": 354815,
+        "word": "韩国防部回应朝鲜警告",
+        "onboard_time": 1728826461,
+        "rank": 10,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 2965185,
+        "num": 353162,
+        "word": "洪承汉退队",
+        "onboard_time": 1728831324,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2082819,
+        "num": 352015,
+        "word": "听泉鉴宝被指塌房四大疑问待解",
+        "onboard_time": 1728825742,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1801738,
+        "num": 350062,
+        "word": "国乒怎么了",
+        "onboard_time": 1728830004,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1124273,
+        "num": 348969,
+        "word": "朝军8个炮兵旅团转为射击待命",
+        "onboard_time": 1728832042,
+        "rank": 14,
+        "category": "社会新闻,国外时政"
+      },
+      {
+        "raw_hot": 1043016,
+        "num": 347942,
+        "word": "吴晙诚没有领奖",
+        "onboard_time": 1728829522,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 894371,
+        "num": 346424,
+        "word": "龚琳娜离婚",
+        "onboard_time": 1728815239,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 827093,
+        "num": 344739,
+        "word": "王以太当爸爸了",
+        "onboard_time": 1728830123,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 651952,
+        "num": 343629,
+        "word": "张本智和模仿樊振东模仿姆巴佩",
+        "onboard_time": 1728827423,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 537858,
+        "num": 342763,
+        "word": "RIIZE",
+        "onboard_time": 1728832103,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 533351,
+        "num": 340912,
+        "word": "年轻人下班后开始搞副业了",
+        "onboard_time": 1728828623,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 507483,
+        "num": 340588,
+        "word": "国乒梯队建设",
+        "onboard_time": 1728827243,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 493160,
+        "num": 338863,
+        "word": "奥利 背刺",
+        "onboard_time": 1728818420,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 471171,
+        "num": 336954,
+        "word": "阿娇复胖",
+        "onboard_time": 1728824120,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 205790,
+        "num": 335526,
+        "word": "杨紫李现国色芳华开始招商",
+        "onboard_time": 1728832222,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 469212,
+        "num": 334623,
+        "word": "文章模仿向佐动作",
+        "onboard_time": 1728821841,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 241085,
+        "num": 333086,
+        "word": "他一搂我就知道跑不了了",
+        "onboard_time": 1728832281,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 225174,
+        "num": 331809,
+        "word": "芒果台有一半都去了黄绮珊演唱会",
+        "onboard_time": 1728832461,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 217187,
+        "num": 330974,
+        "word": "徐艺真上综艺",
+        "onboard_time": 1728831683,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137747,
+        "num": 329135,
+        "word": "我赴黎维和官兵在地下掩体报平安",
+        "onboard_time": 1728824060,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 82194,
+        "num": 328311,
+        "word": "萧敬腾在婚礼上泪流满面",
+        "onboard_time": 1728831743,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 438874,
+        "num": 327144,
+        "word": "白百何晒与大儿子合照",
+        "onboard_time": 1728821599,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 326318,
+        "num": 326318,
+        "word": "吴镇宇晒费曼王嘉尔合照",
+        "onboard_time": 1728831743,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167247,
+        "num": 311660,
+        "word": "任嘉伦 澳门往事",
+        "onboard_time": 1728827122,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 300274,
+        "num": 300274,
+        "word": "SpaceX首次回收星舰成功",
+        "onboard_time": 1728824423,
+        "rank": 34,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 292787,
+        "num": 292787,
+        "word": "WBG战胜DK",
+        "onboard_time": 1728831083,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 270145,
+        "num": 270145,
+        "word": "想辞职去浙江农村过低欲望的生活",
+        "onboard_time": 1728827662,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 231153,
+        "num": 231153,
+        "word": "股东套现3000万被责令购回并上缴价差",
+        "onboard_time": 1728832281,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226052,
+        "num": 226052,
+        "word": "林诗栋1比3张本智和",
+        "onboard_time": 1728824483,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 208340,
+        "num": 208340,
+        "word": "K总女友颜值",
+        "onboard_time": 1728820400,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 192946,
+        "num": 192946,
+        "word": "G2对战BLG",
+        "onboard_time": 1728831144,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 191275,
+        "num": 191275,
+        "word": "郑钦文武网亚军",
+        "onboard_time": 1728820521,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 188467,
+        "num": 188467,
+        "word": "河南一县城周边发现近2000头野猪",
+        "onboard_time": 1728822739,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187248,
+        "num": 187248,
+        "word": "PCL",
+        "onboard_time": 1728831743,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 185844,
+        "num": 185844,
+        "word": "年轻人开始抛弃优衣库",
+        "onboard_time": 1728820882,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184067,
+        "num": 185804,
+        "word": "Tarzan莫甘娜打野",
+        "onboard_time": 1728831982,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 185791,
+        "num": 185791,
+        "word": "童家堡秋季赛总冠军",
+        "onboard_time": 1728831683,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 184925,
+        "num": 184925,
+        "word": "情侣捡到老人手机用免密支付买黄金",
+        "onboard_time": 1728810859,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174837,
+        "num": 174837,
+        "word": "AG对战DRG",
+        "onboard_time": 1728830422,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 48110,
+        "num": 171972,
+        "word": "一起体验夏威夷海边度假屋",
+        "onboard_time": 1728832342,
+        "rank": 49,
+        "category": "旅游"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国人民的好朋友为了友谊跨越山海#"
+    }
+  }
+}
