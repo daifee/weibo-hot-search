@@ -1,6 +1,6 @@
 {
   "startTime": 1728750414717,
-  "endTime": 1728815946824,
+  "endTime": 1728818243469,
   "band_list": [
     {
       "raw_hot": 3708701,
@@ -25,6 +25,14 @@
       "onboard_time": 1728805579,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2066250,
+      "num": 2066250,
+      "word": "金琴英3比1张本美和",
+      "onboard_time": 1728816799,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 1727739,
@@ -99,6 +107,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1211764,
+      "num": 1211764,
+      "word": "郑钦文vs萨巴伦卡",
+      "onboard_time": 1728810439,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1094018,
       "num": 1094018,
       "word": "王楚钦止步亚锦赛8强",
@@ -171,14 +187,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 910360,
-      "num": 1145657,
-      "word": "郑钦文vs萨巴伦卡",
-      "onboard_time": 1728810439,
-      "rank": 14,
-      "category": "体育"
-    },
-    {
       "raw_hot": 908357,
       "num": 908357,
       "word": "何炅喝黄磊做的辣味米稀",
@@ -241,6 +249,14 @@
       "onboard_time": 1728740363,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 783302,
+      "num": 783302,
+      "word": "郑钦文破发",
+      "onboard_time": 1728814280,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 777677,
@@ -315,6 +331,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 653059,
+      "num": 653059,
+      "word": "为什么金价狂飙却不香了",
+      "onboard_time": 1728812419,
+      "rank": 15,
+      "category": "财经"
+    },
+    {
       "raw_hot": 638140,
       "num": 638140,
       "word": "刘学义谈给妈妈换肾",
@@ -353,14 +377,6 @@
       "onboard_time": 1728741563,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 585979,
-      "num": 585979,
-      "word": "为什么金价狂飙却不香了",
-      "onboard_time": 1728812419,
-      "rank": 15,
-      "category": "财经"
     },
     {
       "raw_hot": 576928,
@@ -427,6 +443,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 520333,
+      "num": 352232,
+      "word": "听到姑父去世女孩从淡定到泪崩",
+      "onboard_time": 1728817042,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 516039,
       "num": 234991,
       "word": "东北雨姐及团队绝大部分非当地村民",
@@ -465,14 +489,6 @@
       "onboard_time": 1728797120,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 453012,
-      "num": 453012,
-      "word": "郑钦文破发",
-      "onboard_time": 1728814280,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 452421,
@@ -547,12 +563,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 389915,
+      "num": 389915,
+      "word": "朝鲜选手金琴英亚锦赛夺冠",
+      "onboard_time": 1728816620,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 384388,
       "num": 384388,
       "word": "迪丽热巴美得像洋娃娃",
       "onboard_time": 1728789918,
       "rank": 38,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 379903,
+      "num": 347887,
+      "word": "赵露思工作室更新",
+      "onboard_time": 1728815301,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 370260,
+      "num": 370260,
+      "word": "韩方回应若构成威胁朝鲜政权将终结",
+      "onboard_time": 1728811640,
+      "rank": 49,
+      "category": "国外时政"
     },
     {
       "raw_hot": 354763,
@@ -835,14 +875,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 225015,
-      "num": 225015,
-      "word": "赵露思工作室更新",
-      "onboard_time": 1728815301,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 223812,
       "num": 223812,
       "word": "91岁母亲看望病重儿子后儿子离世",
@@ -907,6 +939,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 216985,
+      "num": 213888,
+      "word": "陈都灵赫本风",
+      "onboard_time": 1728816920,
+      "rank": 24,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 214654,
+      "num": 214654,
+      "word": "郑钦文二度破发",
+      "onboard_time": 1728816440,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 213511,
       "num": 213511,
       "word": "林诗栋挺进决赛",
@@ -931,12 +979,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 209401,
-      "num": 242398,
-      "word": "韩方回应若构成威胁朝鲜政权将终结",
-      "onboard_time": 1728811640,
-      "rank": 49,
-      "category": "国外时政"
+      "raw_hot": 203356,
+      "num": 213701,
+      "word": "王安宇拍戏瘦了7公斤",
+      "onboard_time": 1728816201,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 202904,
@@ -969,6 +1017,14 @@
       "onboard_time": 1728794058,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 202061,
+      "num": 370146,
+      "word": "有人月供将减近1900元",
+      "onboard_time": 1728817042,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 200777,
@@ -1227,12 +1283,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 166997,
+      "num": 166997,
+      "word": "郑钦文1比1萨巴伦卡",
+      "onboard_time": 1728816860,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 165510,
       "num": 231364,
       "word": "女子诈骗150万后整容潜逃泰国被抓",
       "onboard_time": 1728810260,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 165414,
+      "num": 165414,
+      "word": "GW对战WBG",
+      "onboard_time": 1728817881,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 165190,
@@ -1363,6 +1435,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 151978,
+      "num": 214116,
+      "word": "侯明昊白发红色挑染造型",
+      "onboard_time": 1728817819,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 151802,
       "num": 151802,
       "word": "花傲天OB秋决",
@@ -1393,6 +1473,22 @@
       "onboard_time": 1728787098,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 149437,
+      "num": 210508,
+      "word": "郑钦文决赛前说把心态放稳",
+      "onboard_time": 1728810559,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 149139,
+      "num": 149139,
+      "word": "东北雨姐道歉网友为何不买账",
+      "onboard_time": 1728813920,
+      "rank": 38,
+      "category": "网红"
     },
     {
       "raw_hot": 148112,
@@ -1441,14 +1537,6 @@
       "onboard_time": 1728815120,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 144417,
-      "num": 144417,
-      "word": "东北雨姐道歉网友为何不买账",
-      "onboard_time": 1728813920,
-      "rank": 38,
-      "category": "网红"
     },
     {
       "raw_hot": 144177,
@@ -1523,11 +1611,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 139420,
-      "num": 139420,
-      "word": "郑钦文决赛前说把心态放稳",
-      "onboard_time": 1728810559,
-      "rank": 36,
+      "raw_hot": 139961,
+      "num": 139961,
+      "word": "辛纳首夺上海赛冠军",
+      "onboard_time": 1728816381,
+      "rank": 41,
       "category": "体育"
     },
     {
@@ -1659,6 +1747,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 124925,
+      "num": 124925,
+      "word": "清融 伴生皮永远的白月光",
+      "onboard_time": 1728817881,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 123030,
       "num": 123030,
       "word": "张真源心比人早一步上场",
@@ -1747,6 +1843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 116695,
+      "num": 116695,
+      "word": "宠物罐头已经比人吃的还贵了",
+      "onboard_time": 1728816381,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 116183,
       "num": 116183,
       "word": "萨巴伦卡说要努力做郑钦文面前的山",
@@ -1817,6 +1921,14 @@
       "onboard_time": 1728815841,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 113119,
+      "num": 113119,
+      "word": "海姆立克急救法又救下一个孩子",
+      "onboard_time": 1728817400,
+      "rank": 47,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 112878,
@@ -2513,6 +2625,14 @@
       "onboard_time": 1728765852,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 19406,
+      "num": 117875,
+      "word": "终于轮到我给庞博爆灯了",
+      "onboard_time": 1728817460,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 19372,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/10/01 00:28:17 ~ 2024/10/13 18:39:06
+本榜单时间：2024/10/01 00:28:17 ~ 2024/10/13 19:17:23
 </p>
 </blockquote>
 <p>
@@ -419,6 +419,12 @@ A股成交再创历史最快万亿纪录（热度：2096595）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E7%9A%93%E8%A1%A8%E6%83%85%23" target="weibo">
 王皓表情（热度：2074167）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E7%90%B4%E8%8B%B13%E6%AF%941%E5%BC%A0%E6%9C%AC%E7%BE%8E%E5%92%8C%23" target="weibo">
+金琴英3比1张本美和（热度：2066250）
 </a>
 </li>
 
@@ -1265,6 +1271,12 @@ A股开盘近5000只个股下跌（热度：1242137）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23Angelababy%E5%B8%A6%E5%B0%8F%E6%B5%B7%E7%BB%B5%E5%81%9A%E7%88%B1%E5%BF%83%E9%A4%90%23" target="weibo">
 Angelababy带小海绵做爱心餐（热度：1214498）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%83%91%E9%92%A6%E6%96%87vs%E8%90%A8%E5%B7%B4%E4%BC%A6%E5%8D%A1%23" target="weibo">
+郑钦文vs萨巴伦卡（热度：1211764）
 </a>
 </li>
 
@@ -2211,12 +2223,6 @@ A股后续将迎第二波上涨行情（热度：964810）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%83%91%E9%92%A6%E6%96%87vs%E8%90%A8%E5%B7%B4%E4%BC%A6%E5%8D%A1%23" target="weibo">
-郑钦文vs萨巴伦卡（热度：910360）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23749%E5%B1%80%E7%89%B9%E6%95%88%23" target="weibo">
 749局特效（热度：909872）
 </a>
@@ -2807,6 +2813,12 @@ aespa（热度：832836）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%95%86%E5%9C%BA%E5%9B%9E%E5%BA%94%E7%94%B7%E5%8E%95%E7%8E%BB%E7%92%83%E7%A3%A8%E7%A0%82%E5%A5%B3%E5%8E%95%E9%80%8F%E6%98%8E%23" target="weibo">
 商场回应男厕玻璃磨砂女厕透明（热度：783506）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%83%91%E9%92%A6%E6%96%87%E7%A0%B4%E5%8F%91%23" target="weibo">
+郑钦文破发（热度：783302）
 </a>
 </li>
 
@@ -3723,6 +3735,12 @@ Jessi发文道歉（热度：656438）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E9%87%91%E4%BB%B7%E7%8B%82%E9%A3%99%E5%8D%B4%E4%B8%8D%E9%A6%99%E4%BA%86%23" target="weibo">
+为什么金价狂飙却不香了（热度：653059）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AA%80%E5%81%A5%E6%AC%A1%E5%9D%90%E9%A3%9E%E6%9C%BA%E8%BF%9F%E5%88%B0%E8%A2%AB%E7%82%B9%E5%90%8D%23" target="weibo">
 檀健次坐飞机迟到被点名（热度：652956）
 </a>
@@ -4287,12 +4305,6 @@ GEN战胜WBG（热度：588542）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E9%87%91%E4%BB%B7%E7%8B%82%E9%A3%99%E5%8D%B4%E4%B8%8D%E9%A6%99%E4%BA%86%23" target="weibo">
-为什么金价狂飙却不香了（热度：585979）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E8%97%A4%E7%BE%8E%E8%AF%9A%E8%AF%B4%E6%83%B3%E8%B5%A2%E5%AD%99%E9%A2%96%E8%8E%8E%E4%B8%80%E5%88%86%E9%83%BD%E5%BE%88%E9%9A%BE%23" target="weibo">
 伊藤美诚说想赢孙颖莎一分都很难（热度：585453）
 </a>
@@ -4433,12 +4445,6 @@ GEN战胜WBG（热度：588542）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%A7%B0%E8%8A%B12%E4%B8%AA%E6%9C%88%E5%B7%A5%E8%B5%84%E8%BF%BD%E5%A5%B3%E7%94%9F%E5%8F%8D%E8%A2%AB%E6%8B%89%E9%BB%91%23" target="weibo">
 男子称花2个月工资追女生反被拉黑（热度：574078）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%83%91%E9%92%A6%E6%96%87%E7%A0%B4%E5%8F%91%23" target="weibo">
-郑钦文破发（热度：573933）
 </a>
 </li>
 
@@ -4967,6 +4973,12 @@ LNG战胜DK（热度：523623）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23Jennie%E9%80%86%E5%BA%94%E6%8F%B4%23" target="weibo">
 Jennie逆应援（热度：520772）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%AC%E5%88%B0%E5%A7%91%E7%88%B6%E5%8E%BB%E4%B8%96%E5%A5%B3%E5%AD%A9%E4%BB%8E%E6%B7%A1%E5%AE%9A%E5%88%B0%E6%B3%AA%E5%B4%A9%23" target="weibo">
+听到姑父去世女孩从淡定到泪崩（热度：520333）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ A股半小时成交破万亿（热度：455160）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E4%B8%80%E7%87%83%E6%B2%B9%E8%BD%A6%E5%9C%A8%E7%A9%BA%E5%9C%B0%E4%B8%8A%E7%87%83%E7%88%86%23" target="weibo">
 成都一燃油车在空地上燃爆（热度：439255）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E5%90%83%E7%B1%B3%E9%9D%A2%E4%BD%93%E9%87%8D%E5%BE%88%E5%BF%AB%E4%BC%9A%E9%99%8D%23" target="weibo">
-为什么不吃米面体重很快会降（热度：439253）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%88%BF%E8%B4%B7%E5%88%A9%E7%8E%87%E4%B8%8B%E8%B0%83%E5%90%8E%E4%B8%80%E4%B8%AA%E6%9C%88%E8%83%BD%E7%9C%81%E5%A4%9A%E5%B0%91%E9%92%B1%23" target="weibo">
-房贷利率下调后一个月能省多少钱（热度：437962）
 </a>
 </li>
 
