@@ -1,10 +1,10 @@
 {
   "startTime": 1728836764624,
-  "endTime": 1728861873929,
+  "endTime": 1728862727085,
   "band_list": [
     {
-      "raw_hot": 2175559,
-      "num": 2175559,
+      "raw_hot": 2390658,
+      "num": 2390658,
       "word": "解放军抵近台岛演习夺取综合制权",
       "onboard_time": 1728859935,
       "rank": 0,
@@ -107,6 +107,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 512218,
+      "num": 278196,
+      "word": "律师称雨姐带货油污净或赔偿过亿",
+      "onboard_time": 1728856271,
+      "rank": 21,
+      "category": "网红"
+    },
+    {
       "raw_hot": 478990,
       "num": 478990,
       "word": "G2",
@@ -115,12 +123,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 472786,
-      "num": 213004,
-      "word": "律师称雨姐带货油污净或赔偿过亿",
-      "onboard_time": 1728856271,
-      "rank": 21,
-      "category": "网红"
+      "raw_hot": 465849,
+      "num": 465849,
+      "word": "小伙捡到疑似手雷赶紧上交",
+      "onboard_time": 1728844392,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 463833,
@@ -171,14 +179,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 359888,
-      "num": 359888,
-      "word": "小伙捡到疑似手雷赶紧上交",
-      "onboard_time": 1728844392,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 340009,
       "num": 290269,
       "word": "王以太当爸爸了",
@@ -195,12 +195,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 308507,
+      "raw_hot": 322141,
+      "num": 229276,
+      "word": "吴镇宇晒费曼王嘉尔合照",
+      "onboard_time": 1728831743,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 310458,
       "num": 297518,
       "word": "年轻人下班后开始搞副业了",
       "onboard_time": 1728828623,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 301344,
+      "num": 301344,
+      "word": "联合利剑2024B演习开始了",
+      "onboard_time": 1728859935,
+      "rank": 8,
+      "category": "国内时政,国外时政"
     },
     {
       "raw_hot": 296398,
@@ -219,14 +235,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 278047,
-      "num": 206888,
-      "word": "吴镇宇晒费曼王嘉尔合照",
-      "onboard_time": 1728831743,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 275985,
       "num": 213384,
       "word": "吴晙诚没有领奖",
@@ -241,14 +249,6 @@
       "onboard_time": 1728831683,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 215637,
-      "num": 215637,
-      "word": "联合利剑2024B演习开始了",
-      "onboard_time": 1728859935,
-      "rank": 8,
-      "category": "国内时政,国外时政"
     },
     {
       "raw_hot": 212876,
@@ -281,6 +281,14 @@
       "onboard_time": 1728824423,
       "rank": 31,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 195383,
+      "num": 711182,
+      "word": "东部战区开展联合利剑2024B演习",
+      "onboard_time": 1728861917,
+      "rank": 2,
+      "category": "军事"
     },
     {
       "raw_hot": 191148,
@@ -339,6 +347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 155039,
+      "num": 300024,
+      "word": "杨紫李现国色芳华开始招商",
+      "onboard_time": 1728832222,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 154811,
       "num": 213019,
       "word": "代高政 短剧",
@@ -395,16 +411,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 127901,
-      "num": 214970,
-      "word": "杨紫李现国色芳华开始招商",
-      "onboard_time": 1728832222,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 124408,
-      "num": 124408,
+      "raw_hot": 125040,
+      "num": 125040,
       "word": "萧敬腾在婚礼上泪流满面",
       "onboard_time": 1728831743,
       "rank": 43,
@@ -451,6 +459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 116583,
+      "num": 116583,
+      "word": "金与正就无人机事件谴责韩军方",
+      "onboard_time": 1728831023,
+      "rank": 29,
+      "category": "国外时政,军事"
+    },
+    {
       "raw_hot": 115396,
       "num": 115396,
       "word": "郑钦文武网亚军",
@@ -467,12 +483,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 109995,
+      "num": 109995,
+      "word": "龚琳娜回应与老锣音乐将继续",
+      "onboard_time": 1728859515,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 107946,
       "num": 107946,
       "word": "短剧综艺",
       "onboard_time": 1728826701,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 106601,
+      "num": 106601,
+      "word": "骑行男孩身亡案司机取保后被传唤",
+      "onboard_time": 1728862098,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 105429,
@@ -491,28 +523,36 @@
       "category": "体育"
     },
     {
-      "raw_hot": 99502,
-      "num": 99502,
-      "word": "金与正就无人机事件谴责韩军方",
-      "onboard_time": 1728831023,
-      "rank": 29,
-      "category": "国外时政,军事"
-    },
-    {
-      "raw_hot": 79486,
-      "num": 79486,
+      "raw_hot": 80996,
+      "num": 80996,
       "word": "强力震慑台独分裂势力谋独行径",
       "onboard_time": 1728859935,
       "rank": 34,
       "category": "国内时政"
     },
     {
-      "raw_hot": 77232,
-      "num": 77232,
-      "word": "龚琳娜回应与老锣音乐将继续",
-      "onboard_time": 1728859515,
-      "rank": 35,
-      "category": "艺人"
+      "raw_hot": 79749,
+      "num": 79749,
+      "word": "小孩姐戴三道杠走路的气质好帅呀",
+      "onboard_time": 1728831023,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 69615,
+      "num": 69615,
+      "word": "林诗栋3比0林钟勋",
+      "onboard_time": 1728825561,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 63747,
+      "num": 63747,
+      "word": "中国空间站将迎来神舟十九号乘组",
+      "onboard_time": 1728854712,
+      "rank": 36,
+      "category": "国内时政"
     },
     {
       "raw_hot": 62194,
@@ -523,24 +563,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 61899,
-      "num": 61899,
-      "word": "中国空间站将迎来神舟十九号乘组",
-      "onboard_time": 1728854712,
-      "rank": 36,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 53363,
-      "num": 76418,
-      "word": "小孩姐戴三道杠走路的气质好帅呀",
-      "onboard_time": 1728831023,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 52632,
-      "num": 56502,
+      "num": 58938,
       "word": "许嵩西安演唱会",
       "onboard_time": 1728831202,
       "rank": 48,
