@@ -1,6 +1,6 @@
 {
   "startTime": 1728750414717,
-  "endTime": 1728794520252,
+  "endTime": 1728796925366,
   "band_list": [
     {
       "raw_hot": 2725617,
@@ -17,6 +17,14 @@
       "onboard_time": 1728740844,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1287431,
+      "num": 747012,
+      "word": "杨紫鲨鱼裤穿搭",
+      "onboard_time": 1728794358,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1279882,
@@ -68,7 +76,7 @@
     },
     {
       "raw_hot": 938525,
-      "num": 314780,
+      "num": 328995,
       "word": "爸爸跑步留老大照顾老二结果都丢了",
       "onboard_time": 1728787819,
       "rank": 18,
@@ -91,6 +99,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 883619,
+      "num": 329945,
+      "word": "男子路边佯装撸猫突然将其摔死",
+      "onboard_time": 1728792319,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 822478,
       "num": 822478,
       "word": "林诗栋蒯曼亚锦赛夺冠",
@@ -100,7 +116,7 @@
     },
     {
       "raw_hot": 806476,
-      "num": 314194,
+      "num": 317128,
       "word": "东北雨姐明知红薯粉成分问题",
       "onboard_time": 1728780557,
       "rank": 11,
@@ -139,6 +155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 676154,
+      "num": 536545,
+      "word": "丁真提出的增殖放流获得全票通过",
+      "onboard_time": 1728792618,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 670820,
       "num": 670820,
       "word": "东部战区发布最新战训视频",
@@ -161,14 +185,6 @@
       "onboard_time": 1728735560,
       "rank": 4,
       "category": "网红"
-    },
-    {
-      "raw_hot": 624335,
-      "num": 305697,
-      "word": "男子路边佯装撸猫突然将其摔死",
-      "onboard_time": 1728792319,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 609535,
@@ -219,6 +235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 524167,
+      "num": 323993,
+      "word": "萧敬腾林有慧婚礼",
+      "onboard_time": 1728795260,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 516039,
       "num": 234991,
       "word": "东北雨姐及团队绝大部分非当地村民",
@@ -243,14 +267,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 490322,
-      "num": 490322,
-      "word": "丁真提出的增殖放流获得全票通过",
-      "onboard_time": 1728792618,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 438734,
       "num": 273934,
       "word": "B太回应曾夸东北雨姐真实",
@@ -267,12 +283,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 408879,
+      "num": 408879,
+      "word": "徐锦江拍过最辛苦的戏是西游记",
+      "onboard_time": 1728794659,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 384388,
       "num": 384388,
       "word": "迪丽热巴美得像洋娃娃",
       "onboard_time": 1728789918,
       "rank": 38,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 360020,
+      "num": 213838,
+      "word": "许昕1天2战左臂出现反应",
+      "onboard_time": 1728796039,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 353764,
@@ -292,11 +324,19 @@
     },
     {
       "raw_hot": 337910,
-      "num": 250039,
+      "num": 259427,
       "word": "狗主人甚至还提了水果来赎身",
       "onboard_time": 1728792380,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 305715,
+      "num": 305715,
+      "word": "东部战区随时能战",
+      "onboard_time": 1728795979,
+      "rank": 16,
+      "category": "军事"
     },
     {
       "raw_hot": 305623,
@@ -355,6 +395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 275543,
+      "num": 275543,
+      "word": "原神",
+      "onboard_time": 1728794478,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 266011,
       "num": 266011,
       "word": "上海菜为什么偏甜",
@@ -368,6 +416,22 @@
       "word": "迈巴赫经销商承诺漏水负责到底",
       "onboard_time": 1728762252,
       "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 258444,
+      "num": 258444,
+      "word": "光与夜之恋",
+      "onboard_time": 1728794478,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 238171,
+      "num": 238171,
+      "word": "在哀牢山中遇到危险该如何自救",
+      "onboard_time": 1728793998,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -411,6 +475,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 225162,
+      "num": 225162,
+      "word": "中国人的绝对色感惊艳了",
+      "onboard_time": 1728796579,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 220463,
+      "num": 209926,
+      "word": "许昕回应带伤出征全锦赛",
+      "onboard_time": 1728795619,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 220430,
       "num": 220430,
       "word": "心动的信号7官宣黄子弘凡",
@@ -425,6 +505,22 @@
       "onboard_time": 1728786197,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 212165,
+      "num": 251739,
+      "word": "内娱古偶换乘恋爱图",
+      "onboard_time": 1728794419,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 202874,
+      "num": 215209,
+      "word": "肖战全黑套装",
+      "onboard_time": 1728795139,
+      "rank": 29,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 202851,
@@ -475,6 +571,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 194467,
+      "num": 194467,
+      "word": "网易第五人格",
+      "onboard_time": 1728794719,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 193152,
+      "num": 193152,
+      "word": "微博视界大会",
+      "onboard_time": 1728795740,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 193023,
       "num": 193023,
       "word": "财政部长请大家放心",
@@ -499,8 +611,16 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 189106,
+      "num": 189106,
+      "word": "官方通报小男孩凌晨捡瓶子被偶遇",
+      "onboard_time": 1728795558,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 188423,
-      "num": 188423,
+      "num": 338591,
       "word": "伊朗议长驾机在以军空袭中访黎",
       "onboard_time": 1728787159,
       "rank": 27,
@@ -555,6 +675,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 164654,
+      "num": 164654,
+      "word": "周雨彤 摧毁自己再重建自己",
+      "onboard_time": 1728793818,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 164614,
       "num": 269149,
       "word": "听泉鉴宝",
@@ -577,14 +705,6 @@
       "onboard_time": 1728788299,
       "rank": 39,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 160286,
-      "num": 160286,
-      "word": "周雨彤 摧毁自己再重建自己",
-      "onboard_time": 1728793818,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 159887,
@@ -651,14 +771,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 147779,
-      "num": 147779,
-      "word": "光与夜之恋",
-      "onboard_time": 1728794478,
-      "rank": 34,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 145946,
       "num": 145946,
       "word": "律师谈景德镇一家三口被撞身亡",
@@ -691,12 +803,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 143764,
+      "num": 143764,
+      "word": "晚宴上的虞书欣",
+      "onboard_time": 1728796699,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 143473,
       "num": 187373,
       "word": "罗慎远眼神拉丝",
       "onboard_time": 1728789199,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 143332,
+      "num": 143332,
+      "word": "光与夜之恋 夏鸣星",
+      "onboard_time": 1728796819,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 143171,
@@ -731,12 +859,20 @@
       "category": "教育"
     },
     {
-      "raw_hot": 138301,
-      "num": 138301,
-      "word": "杨紫鲨鱼裤穿搭",
-      "onboard_time": 1728794358,
-      "rank": 38,
-      "category": "作品衍生"
+      "raw_hot": 140040,
+      "num": 140040,
+      "word": "希林娜依高不说话比说话还累",
+      "onboard_time": 1728796340,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 138325,
+      "num": 138325,
+      "word": "鲜菜价格上涨22.9%",
+      "onboard_time": 1728794178,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 136629,
@@ -753,6 +889,14 @@
       "onboard_time": 1728744622,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 136199,
+      "num": 136199,
+      "word": "徐菲向节目组投诉徐锦江",
+      "onboard_time": 1728796579,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 133450,
@@ -819,12 +963,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 123689,
-      "num": 123689,
-      "word": "鲜菜价格上涨22.9%",
-      "onboard_time": 1728794178,
-      "rank": 42,
-      "category": "社会新闻"
+      "raw_hot": 126138,
+      "num": 126138,
+      "word": "芙宁娜司颂巡回",
+      "onboard_time": 1728796640,
+      "rank": 49,
+      "category": "动漫"
     },
     {
       "raw_hot": 122641,
@@ -851,14 +995,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 119144,
-      "num": 119144,
-      "word": "原神",
-      "onboard_time": 1728794478,
-      "rank": 44,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 117718,
       "num": 117718,
       "word": "迪丽热巴回眸宿命感",
@@ -867,20 +1003,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 116784,
+      "num": 314874,
+      "word": "陈幸同蒯曼VS大藤沙月横井呋樱",
+      "onboard_time": 1728796219,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 115662,
       "num": 115662,
       "word": "土松犬 中国人自己的萨摩耶",
       "onboard_time": 1728781998,
       "rank": 38,
       "category": "情感"
-    },
-    {
-      "raw_hot": 115477,
-      "num": 115477,
-      "word": "在哀牢山中遇到危险该如何自救",
-      "onboard_time": 1728793998,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 115386,
@@ -1083,6 +1219,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 90279,
+      "num": 208953,
+      "word": "任敏原声台词",
+      "onboard_time": 1728794358,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 90216,
       "num": 90216,
       "word": "人民日报夜读",
@@ -1195,14 +1339,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 63591,
-      "num": 185942,
-      "word": "内娱古偶换乘恋爱图",
-      "onboard_time": 1728794419,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 63487,
       "num": 119399,
       "word": "关晓彤看小时候的自己",
@@ -1217,6 +1353,14 @@
       "onboard_time": 1728740124,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 60938,
+      "num": 260499,
+      "word": "刘学义挥鞭这一下",
+      "onboard_time": 1728796759,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 60784,
@@ -1273,14 +1417,6 @@
       "onboard_time": 1728762552,
       "rank": 37,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 50749,
-      "num": 124445,
-      "word": "任敏原声台词",
-      "onboard_time": 1728794358,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 48880,
