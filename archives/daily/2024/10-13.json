@@ -1,7 +1,15 @@
 {
   "startTime": 1728750414717,
-  "endTime": 1728826646961,
+  "endTime": 1728829127546,
   "band_list": [
+    {
+      "raw_hot": 17915004,
+      "num": 17915004,
+      "word": "朝鲜已向前线部队下达准备射击指示",
+      "onboard_time": 1728826102,
+      "rank": 1,
+      "category": "国外时政"
+    },
     {
       "raw_hot": 8398300,
       "num": 8398300,
@@ -11,20 +19,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 4018384,
-      "num": 4018384,
-      "word": "朝鲜已向前线部队下达准备射击指示",
-      "onboard_time": 1728826102,
-      "rank": 1,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 3708701,
       "num": 616795,
       "word": "龚琳娜离婚",
       "onboard_time": 1728815239,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 3688588,
+      "num": 3688588,
+      "word": "韩国防部回应朝鲜警告",
+      "onboard_time": 1728826461,
+      "rank": 3,
+      "category": "国外时政"
     },
     {
       "raw_hot": 2725617,
@@ -65,14 +73,6 @@
       "onboard_time": 1728816799,
       "rank": 0,
       "category": "体育"
-    },
-    {
-      "raw_hot": 2057096,
-      "num": 2057096,
-      "word": "韩国防部回应朝鲜警告",
-      "onboard_time": 1728826461,
-      "rank": 3,
-      "category": "国外时政"
     },
     {
       "raw_hot": 2029776,
@@ -187,6 +187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1123078,
+      "num": 465250,
+      "word": "张本智和模仿樊振东模仿姆巴佩",
+      "onboard_time": 1728827423,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1094018,
       "num": 1094018,
       "word": "王楚钦止步亚锦赛8强",
@@ -288,6 +296,14 @@
       "word": "百万网红脑溢血后多人骗粉丝募捐",
       "onboard_time": 1728802878,
       "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 892195,
+      "num": 892195,
+      "word": "听泉鉴宝被指塌房四大疑问待解",
+      "onboard_time": 1728825742,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -395,20 +411,20 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 769153,
-      "num": 769153,
-      "word": "听泉鉴宝被指塌房四大疑问待解",
-      "onboard_time": 1728825742,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 754272,
       "num": 754272,
       "word": "乐华首次公开艺人KPI业绩",
       "onboard_time": 1728813619,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 752344,
+      "num": 457166,
+      "word": "国乒梯队建设",
+      "onboard_time": 1728827243,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 736981,
@@ -611,12 +627,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 499303,
+      "num": 312586,
+      "word": "年轻人下班后开始搞副业了",
+      "onboard_time": 1728828623,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 492749,
       "num": 318298,
       "word": "情侣捡到老人手机用免密支付买黄金",
       "onboard_time": 1728810859,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 476834,
+      "num": 476834,
+      "word": "国乒亚锦赛两冠收官",
+      "onboard_time": 1728825802,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 473128,
@@ -739,6 +771,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 363524,
+      "num": 476472,
+      "word": "短剧综艺",
+      "onboard_time": 1728826701,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 354763,
       "num": 294665,
       "word": "资助了5年的女孩悄悄给我转钱",
@@ -811,14 +851,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 323140,
-      "num": 323140,
-      "word": "国乒亚锦赛两冠收官",
-      "onboard_time": 1728825802,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 320496,
       "num": 320496,
       "word": "张本智和vs吴晙诚",
@@ -833,6 +865,14 @@
       "onboard_time": 1728804017,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 311105,
+      "num": 311105,
+      "word": "海贼王动画停播",
+      "onboard_time": 1728827122,
+      "rank": 24,
+      "category": "动漫"
     },
     {
       "raw_hot": 305623,
@@ -1179,6 +1219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 215559,
+      "num": 215559,
+      "word": "张萌来选短剧演员了",
+      "onboard_time": 1728828623,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 214654,
       "num": 214654,
       "word": "郑钦文二度破发",
@@ -1193,6 +1241,14 @@
       "onboard_time": 1728805760,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 212251,
+      "num": 212251,
+      "word": "联合国维和部队拒绝以色列撤离要求",
+      "onboard_time": 1728825681,
+      "rank": 48,
+      "category": "国外时政"
     },
     {
       "raw_hot": 212165,
@@ -1281,6 +1337,14 @@
       "onboard_time": 1728800539,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 200330,
+      "num": 213044,
+      "word": "俄罗斯车臣首府发生爆炸致4死",
+      "onboard_time": 1728826821,
+      "rank": 29,
+      "category": "国外时政"
     },
     {
       "raw_hot": 199893,
@@ -1385,6 +1449,14 @@
       "onboard_time": 1728794719,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 193571,
+      "num": 471305,
+      "word": "任嘉伦 澳门往事",
+      "onboard_time": 1728827122,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 193152,
@@ -1523,6 +1595,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 184991,
+      "num": 312975,
+      "word": "沈月辣目洋子去了汪苏泷演唱会",
+      "onboard_time": 1728826341,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 181671,
+      "num": 333146,
+      "word": "幼教老师吐槽每天都有开不完的会",
+      "onboard_time": 1728823341,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 181443,
       "num": 181443,
       "word": "催更曹雪芹",
@@ -1547,20 +1635,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 177164,
-      "num": 333146,
-      "word": "幼教老师吐槽每天都有开不完的会",
-      "onboard_time": 1728823341,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 175015,
-      "num": 175015,
-      "word": "联合国维和部队拒绝以色列撤离要求",
-      "onboard_time": 1728825681,
-      "rank": 48,
-      "category": "国外时政"
+      "raw_hot": 175900,
+      "num": 175900,
+      "word": "成都GG对战MRC",
+      "onboard_time": 1728828024,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 174802,
@@ -1641,14 +1721,6 @@
       "onboard_time": 1728809060,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 166555,
-      "num": 276091,
-      "word": "沈月辣目洋子去了汪苏泷演唱会",
-      "onboard_time": 1728826341,
-      "rank": 28,
-      "category": "演出"
     },
     {
       "raw_hot": 165510,
@@ -1755,6 +1827,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 158664,
+      "num": 158664,
+      "word": "想辞职去浙江农村过低欲望的生活",
+      "onboard_time": 1728827662,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 158426,
       "num": 158426,
       "word": "东北雨姐道歉网友为何不买账",
@@ -1785,6 +1865,14 @@
       "onboard_time": 1728780377,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 155640,
+      "num": 469835,
+      "word": "房地产税收新政将出台",
+      "onboard_time": 1728827904,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 155150,
@@ -1825,6 +1913,14 @@
       "onboard_time": 1728797420,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 153650,
+      "num": 297024,
+      "word": "我赴黎维和官兵在地下掩体报平安",
+      "onboard_time": 1728824060,
+      "rank": 39,
+      "category": "国内时政"
     },
     {
       "raw_hot": 153554,
@@ -2113,14 +2209,6 @@
       "onboard_time": 1728743662,
       "rank": 35,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 129604,
-      "num": 297024,
-      "word": "我赴黎维和官兵在地下掩体报平安",
-      "onboard_time": 1728824060,
-      "rank": 39,
-      "category": "国内时政"
     },
     {
       "raw_hot": 128507,
@@ -2795,6 +2883,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 65785,
+      "num": 312801,
+      "word": "律师解读南昌大学在教室装摄像头",
+      "onboard_time": 1728828803,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 64014,
       "num": 367964,
       "word": "花千元找一日男友的年轻人开始维权",
@@ -2857,6 +2953,14 @@
       "onboard_time": 1728736220,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 55704,
+      "num": 4477771,
+      "word": "全国秋收已近六成",
+      "onboard_time": 1728825861,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 55690,
@@ -3039,14 +3143,6 @@
       "num": 966413,
       "word": "神十九10月下旬发射",
       "onboard_time": 1728807258,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 30598,
-      "num": 2610716,
-      "word": "全国秋收已近六成",
-      "onboard_time": 1728825861,
       "rank": 2,
       "category": "社会新闻"
     },
