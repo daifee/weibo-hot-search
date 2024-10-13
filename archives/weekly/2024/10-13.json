@@ -1,6 +1,6 @@
 {
   "startTime": 1728750414717,
-  "endTime": 1728833930515,
+  "endTime": 1728836764624,
   "band_list": [
     {
       "raw_hot": 17915004,
@@ -395,6 +395,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 817350,
+      "num": 817350,
+      "word": "上海爷叔现身被大量股民围观",
+      "onboard_time": 1728834261,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 806476,
       "num": 317128,
       "word": "东北雨姐明知红薯粉成分问题",
@@ -473,6 +481,14 @@
       "onboard_time": 1728813619,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 742339,
+      "num": 742339,
+      "word": "听泉鉴宝喊话别再神话我了",
+      "onboard_time": 1728834501,
+      "rank": 3,
+      "category": "网红"
     },
     {
       "raw_hot": 736981,
@@ -763,6 +779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 438795,
+      "num": 214438,
+      "word": "女童被压车底路人98秒抬车救人",
+      "onboard_time": 1728833002,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 438734,
       "num": 273934,
       "word": "B太回应曾夸东北雨姐真实",
@@ -793,6 +817,14 @@
       "onboard_time": 1728824241,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 431095,
+      "num": 431095,
+      "word": "股东套现3000万被责令购回并上缴价差",
+      "onboard_time": 1728832281,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 429309,
@@ -1235,14 +1267,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 231153,
-      "num": 231153,
-      "word": "股东套现3000万被责令购回并上缴价差",
-      "onboard_time": 1728832281,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 230692,
       "num": 249486,
       "word": "生物科技公司气体中毒事故致7死4伤",
@@ -1387,6 +1411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 215027,
+      "num": 215027,
+      "word": "G2对战BLG",
+      "onboard_time": 1728831144,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 214654,
       "num": 214654,
       "word": "郑钦文二度破发",
@@ -1401,6 +1433,14 @@
       "onboard_time": 1728805760,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 212482,
+      "num": 216704,
+      "word": "薛之谦霸王别姬弹唱",
+      "onboard_time": 1728835700,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 212165,
@@ -1627,14 +1667,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 192946,
-      "num": 192946,
-      "word": "G2对战BLG",
-      "onboard_time": 1728831144,
-      "rank": 40,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 192324,
       "num": 192324,
       "word": "官方通报小男孩凌晨捡瓶子被偶遇",
@@ -1811,6 +1843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 181556,
+      "num": 181556,
+      "word": "AG对战DRG",
+      "onboard_time": 1728830422,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 181443,
       "num": 181443,
       "word": "催更曹雪芹",
@@ -1848,14 +1888,6 @@
       "word": "成都GG对战MRC",
       "onboard_time": 1728828024,
       "rank": 36,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 174837,
-      "num": 174837,
-      "word": "AG对战DRG",
-      "onboard_time": 1728830422,
-      "rank": 48,
       "category": "电竞"
     },
     {
@@ -2057,6 +2089,14 @@
       "onboard_time": 1728782058,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 158996,
+      "num": 224486,
+      "word": "教育局称女童被泼开水系恶作剧",
+      "onboard_time": 1728835878,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 158426,
@@ -2379,6 +2419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 139740,
+      "num": 139740,
+      "word": "莽小五上树",
+      "onboard_time": 1728835580,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 138325,
       "num": 138325,
       "word": "鲜菜价格上涨22.9%",
@@ -2601,6 +2649,14 @@
       "onboard_time": 1728814520,
       "rank": 43,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 118031,
+      "num": 175709,
+      "word": "林诗栋蒯曼冠军",
+      "onboard_time": 1728835219,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 117933,

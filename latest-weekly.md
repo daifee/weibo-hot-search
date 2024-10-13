@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/10/13 00:26:54 ~ 2024/10/13 23:38:50
+本榜单时间：2024/10/13 00:26:54 ~ 2024/10/14 00:26:04
 </p>
 </blockquote>
 <p>
@@ -309,6 +309,12 @@ K总女友颜值（热度：997545）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E7%88%B7%E5%8F%94%E7%8E%B0%E8%BA%AB%E8%A2%AB%E5%A4%A7%E9%87%8F%E8%82%A1%E6%B0%91%E5%9B%B4%E8%A7%82%23" target="weibo">
+上海爷叔现身被大量股民围观（热度：817350）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%9C%E5%8C%97%E9%9B%A8%E5%A7%90%E6%98%8E%E7%9F%A5%E7%BA%A2%E8%96%AF%E7%B2%89%E6%88%90%E5%88%86%E9%97%AE%E9%A2%98%23" target="weibo">
 东北雨姐明知红薯粉成分问题（热度：806476）
 </a>
@@ -365,6 +371,12 @@ SpaceX星舰进行第五次试飞（热度：769541）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B9%90%E5%8D%8E%E9%A6%96%E6%AC%A1%E5%85%AC%E5%BC%80%E8%89%BA%E4%BA%BAKPI%E4%B8%9A%E7%BB%A9%23" target="weibo">
 乐华首次公开艺人KPI业绩（热度：754272）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%AC%E6%B3%89%E9%89%B4%E5%AE%9D%E5%96%8A%E8%AF%9D%E5%88%AB%E5%86%8D%E7%A5%9E%E8%AF%9D%E6%88%91%E4%BA%86%23" target="weibo">
+听泉鉴宝喊话别再神话我了（热度：742339）
 </a>
 </li>
 
@@ -585,6 +597,12 @@ DK对战WBG（热度：537506）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%AB%A5%E8%A2%AB%E5%8E%8B%E8%BD%A6%E5%BA%95%E8%B7%AF%E4%BA%BA98%E7%A7%92%E6%8A%AC%E8%BD%A6%E6%95%91%E4%BA%BA%23" target="weibo">
+女童被压车底路人98秒抬车救人（热度：438795）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23B%E5%A4%AA%E5%9B%9E%E5%BA%94%E6%9B%BE%E5%A4%B8%E4%B8%9C%E5%8C%97%E9%9B%A8%E5%A7%90%E7%9C%9F%E5%AE%9E%23" target="weibo">
 B太回应曾夸东北雨姐真实（热度：438734）
 </a>
@@ -605,6 +623,12 @@ B太回应曾夸东北雨姐真实（热度：438734）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%9A%E9%94%A6%E8%B5%9B%E5%9C%B0%E8%83%B6%23" target="weibo">
 亚锦赛地胶（热度：432748）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%82%A1%E4%B8%9C%E5%A5%97%E7%8E%B03000%E4%B8%87%E8%A2%AB%E8%B4%A3%E4%BB%A4%E8%B4%AD%E5%9B%9E%E5%B9%B6%E4%B8%8A%E7%BC%B4%E4%BB%B7%E5%B7%AE%23" target="weibo">
+股东套现3000万被责令购回并上缴价差（热度：431095）
 </a>
 </li>
 
@@ -939,12 +963,6 @@ WBG战胜DK（热度：292787）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%82%A1%E4%B8%9C%E5%A5%97%E7%8E%B03000%E4%B8%87%E8%A2%AB%E8%B4%A3%E4%BB%A4%E8%B4%AD%E5%9B%9E%E5%B9%B6%E4%B8%8A%E7%BC%B4%E4%BB%B7%E5%B7%AE%23" target="weibo">
-股东套现3000万被责令购回并上缴价差（热度：231153）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%9F%E7%89%A9%E7%A7%91%E6%8A%80%E5%85%AC%E5%8F%B8%E6%B0%94%E4%BD%93%E4%B8%AD%E6%AF%92%E4%BA%8B%E6%95%85%E8%87%B47%E6%AD%BB4%E4%BC%A4%23" target="weibo">
 生物科技公司气体中毒事故致7死4伤（热度：230692）
 </a>
@@ -1053,6 +1071,12 @@ WBG战胜DK（热度：292787）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23G2%E5%AF%B9%E6%88%98BLG%23" target="weibo">
+G2对战BLG（热度：215027）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%83%91%E9%92%A6%E6%96%87%E4%BA%8C%E5%BA%A6%E7%A0%B4%E5%8F%91%23" target="weibo">
 郑钦文二度破发（热度：214654）
 </a>
@@ -1061,6 +1085,12 @@ WBG战胜DK（热度：292787）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E8%AF%97%E6%A0%8B%E6%8C%BA%E8%BF%9B%E5%86%B3%E8%B5%9B%23" target="weibo">
 林诗栋挺进决赛（热度：213511）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E9%9C%B8%E7%8E%8B%E5%88%AB%E5%A7%AC%E5%BC%B9%E5%94%B1%23" target="weibo">
+薛之谦霸王别姬弹唱（热度：212482）
 </a>
 </li>
 
@@ -1233,12 +1263,6 @@ G2喊话BLG（热度：196792）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23G2%E5%AF%B9%E6%88%98BLG%23" target="weibo">
-G2对战BLG（热度：192946）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E5%B0%8F%E7%94%B7%E5%AD%A9%E5%87%8C%E6%99%A8%E6%8D%A1%E7%93%B6%E5%AD%90%E8%A2%AB%E5%81%B6%E9%81%87%23" target="weibo">
 官方通报小男孩凌晨捡瓶子被偶遇（热度：192324）
 </a>
@@ -1371,6 +1395,12 @@ Tarzan莫甘娜打野（热度：184067）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23AG%E5%AF%B9%E6%88%98DRG%23" target="weibo">
+AG对战DRG（热度：181556）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%82%AC%E6%9B%B4%E6%9B%B9%E9%9B%AA%E8%8A%B9%23" target="weibo">
 催更曹雪芹（热度：181443）
 </a>
@@ -1397,12 +1427,6 @@ Tarzan莫甘娜打野（热度：184067）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BDGG%E5%AF%B9%E6%88%98MRC%23" target="weibo">
 成都GG对战MRC（热度：175900）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23AG%E5%AF%B9%E6%88%98DRG%23" target="weibo">
-AG对战DRG（热度：174837）
 </a>
 </li>
 
@@ -1553,6 +1577,12 @@ GW对战WBG（热度：165414）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B1%AA%E8%8B%8F%E6%B3%B7%E5%B8%A6%E7%9D%804%E4%B8%87%E4%BA%BA%E4%B8%80%E8%B5%B7%E8%B9%A6%E8%BF%AA%23" target="weibo">
 汪苏泷带着4万人一起蹦迪（热度：159242）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E5%B1%80%E7%A7%B0%E5%A5%B3%E7%AB%A5%E8%A2%AB%E6%B3%BC%E5%BC%80%E6%B0%B4%E7%B3%BB%E6%81%B6%E4%BD%9C%E5%89%A7%23" target="weibo">
+教育局称女童被泼开水系恶作剧（热度：158996）
 </a>
 </li>
 
@@ -1797,6 +1827,12 @@ justsu直拍（热度：143171）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8E%BD%E5%B0%8F%E4%BA%94%E4%B8%8A%E6%A0%91%23" target="weibo">
+莽小五上树（热度：139740）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%B2%9C%E8%8F%9C%E4%BB%B7%E6%A0%BC%E4%B8%8A%E6%B6%A822.9%25%23" target="weibo">
 鲜菜价格上涨22.9%（热度：138325）
 </a>
@@ -1961,6 +1997,12 @@ SEVENTEEN演唱会着火（热度：120347）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%92%92%E5%93%88%E6%8B%89%E6%B2%99%E6%BC%A0%E5%8F%91%E6%B4%AA%E6%B0%B4%23" target="weibo">
 撒哈拉沙漠发洪水（热度：119104）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E8%AF%97%E6%A0%8B%E8%92%AF%E6%9B%BC%E5%86%A0%E5%86%9B%23" target="weibo">
+林诗栋蒯曼冠军（热度：118031）
 </a>
 </li>
 

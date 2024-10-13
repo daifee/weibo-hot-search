@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/10/01 00:28:17 ~ 2024/10/13 23:38:50
+本榜单时间：2024/10/01 00:28:17 ~ 2024/10/14 00:26:04
 </p>
 </blockquote>
 <p>
@@ -2757,6 +2757,12 @@ aespa（热度：832836）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E7%88%B7%E5%8F%94%E7%8E%B0%E8%BA%AB%E8%A2%AB%E5%A4%A7%E9%87%8F%E8%82%A1%E6%B0%91%E5%9B%B4%E8%A7%82%23" target="weibo">
+上海爷叔现身被大量股民围观（热度：817350）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A2%81%E5%A5%96%E6%97%B6%E7%8E%8B%E7%9A%93%E7%AC%91%E5%BE%97%E5%90%88%E4%B8%8D%E6%8B%A2%E5%98%B4%23" target="weibo">
 颁奖时王皓笑得合不拢嘴（热度：815775）
 </a>
@@ -3269,6 +3275,12 @@ HPV疫苗已降到20多元1支（热度：747235）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B4%A2%E6%94%BF%E9%83%A8%E5%90%8C%E6%84%8F%E9%94%80%E6%AF%8128%E6%AC%BE%E5%8D%B3%E5%BC%80%E5%9E%8B%E5%BD%A9%E7%A5%A8%23" target="weibo">
 财政部同意销毁28款即开型彩票（热度：742683）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%AC%E6%B3%89%E9%89%B4%E5%AE%9D%E5%96%8A%E8%AF%9D%E5%88%AB%E5%86%8D%E7%A5%9E%E8%AF%9D%E6%88%91%E4%BA%86%23" target="weibo">
+听泉鉴宝喊话别再神话我了（热度：742339）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ A股半小时成交破万亿（热度：455160）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%9A%E9%94%A6%E8%B5%9B%23" target="weibo">
 亚锦赛（热度：453798）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B4%B5%E5%A5%B3%23" target="weibo">
-贵女（热度：453167）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%90%91%E9%B9%8F3%E6%AF%941F%E5%8B%92%E5%B8%83%E4%BC%A6%23" target="weibo">
-向鹏3比1F勒布伦（热度：452848）
 </a>
 </li>
 
