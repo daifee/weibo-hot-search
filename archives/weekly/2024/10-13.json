@@ -1,6 +1,6 @@
 {
   "startTime": 1728750414717,
-  "endTime": 1728803959901,
+  "endTime": 1728804968298,
   "band_list": [
     {
       "raw_hot": 2725617,
@@ -9,6 +9,14 @@
       "onboard_time": 1728788958,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1596892,
+      "num": 1596892,
+      "word": "原来冰墩墩原型是奥组委疯狂暗示的",
+      "onboard_time": 1728802939,
+      "rank": 10,
+      "category": "体育"
     },
     {
       "raw_hot": 1419674,
@@ -57,14 +65,6 @@
       "onboard_time": 1728786258,
       "rank": 3,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 1153028,
-      "num": 384188,
-      "word": "原来冰墩墩原型是奥组委疯狂暗示的",
-      "onboard_time": 1728802939,
-      "rank": 10,
-      "category": "体育"
     },
     {
       "raw_hot": 1094018,
@@ -121,6 +121,14 @@
       "onboard_time": 1728787399,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 895958,
+      "num": 376514,
+      "word": "百万网红脑溢血后多人骗粉丝募捐",
+      "onboard_time": 1728802878,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 883619,
@@ -323,12 +331,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 441649,
-      "num": 441649,
+      "raw_hot": 452421,
+      "num": 452421,
       "word": "林诗栋冲击三冠王",
       "onboard_time": 1728800479,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 447142,
+      "num": 371369,
+      "word": "吹牛老爹 贾斯汀比伯",
+      "onboard_time": 1728802640,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 438734,
@@ -371,6 +387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 391122,
+      "num": 391122,
+      "word": "林诗栋vs篠塚大登",
+      "onboard_time": 1728802398,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 384388,
       "num": 384388,
       "word": "迪丽热巴美得像洋娃娃",
@@ -379,11 +403,11 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 365884,
-      "num": 365884,
-      "word": "百万网红脑溢血后多人骗粉丝募捐",
-      "onboard_time": 1728802878,
-      "rank": 15,
+      "raw_hot": 354158,
+      "num": 354158,
+      "word": "90后小伙炒股4天亏损32万",
+      "onboard_time": 1728803958,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -419,12 +443,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 312508,
-      "num": 312508,
-      "word": "吹牛老爹 贾斯汀比伯",
-      "onboard_time": 1728802640,
-      "rank": 21,
-      "category": "艺人"
+      "raw_hot": 316667,
+      "num": 316667,
+      "word": "张本智和3比1吴晙诚",
+      "onboard_time": 1728804017,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 305623,
@@ -497,14 +521,6 @@
       "onboard_time": 1728799939,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 267070,
-      "num": 372129,
-      "word": "林诗栋vs篠塚大登",
-      "onboard_time": 1728802398,
-      "rank": 13,
-      "category": "体育"
     },
     {
       "raw_hot": 266011,
@@ -915,6 +931,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 162878,
+      "num": 162878,
+      "word": "日本组合包揽女双冠亚军",
+      "onboard_time": 1728804017,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 162190,
       "num": 162190,
       "word": "韩安冉学名媛",
@@ -1219,6 +1243,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 123030,
+      "num": 123030,
+      "word": "张真源心比人早一步上场",
+      "onboard_time": 1728803899,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 122641,
       "num": 171676,
       "word": "丞磊去看了付航演出",
@@ -1249,6 +1281,14 @@
       "onboard_time": 1728780258,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 115801,
+      "num": 303285,
+      "word": "向佐说张大大是郭碧婷闺蜜",
+      "onboard_time": 1728799820,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 115748,
@@ -1289,6 +1329,14 @@
       "onboard_time": 1728801380,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 114567,
+      "num": 114567,
+      "word": "健身达人肚子里跟普通人有什么不同",
+      "onboard_time": 1728804017,
+      "rank": 42,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 114453,
@@ -1361,14 +1409,6 @@
       "onboard_time": 1728796759,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 106026,
-      "num": 303285,
-      "word": "向佐说张大大是郭碧婷闺蜜",
-      "onboard_time": 1728799820,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 105813,
@@ -1467,11 +1507,11 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 95646,
-      "num": 95646,
-      "word": "张真源心比人早一步上场",
-      "onboard_time": 1728803899,
-      "rank": 49,
+      "raw_hot": 96934,
+      "num": 96934,
+      "word": "石凯黑白艺术家演技张力",
+      "onboard_time": 1728804619,
+      "rank": 47,
       "category": "综艺"
     },
     {
@@ -1635,6 +1675,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 64014,
+      "num": 367964,
+      "word": "花千元找一日男友的年轻人开始维权",
+      "onboard_time": 1728803358,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 63487,
       "num": 119399,
       "word": "关晓彤看小时候的自己",
@@ -1707,14 +1755,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 52929,
-      "num": 367964,
-      "word": "花千元找一日男友的年轻人开始维权",
-      "onboard_time": 1728803358,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 52246,
       "num": 55684,
       "word": "11天没有任何食品援助进入加沙",
@@ -1736,6 +1776,14 @@
       "word": "女子陷刷单返利式诈骗险被骗6万",
       "onboard_time": 1728772031,
       "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 45682,
+      "num": 389029,
+      "word": "消费者如何辨别粉条是不是纯红薯粉",
+      "onboard_time": 1728803598,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -1761,14 +1809,6 @@
       "onboard_time": 1728784518,
       "rank": 13,
       "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 41688,
-      "num": 385284,
-      "word": "消费者如何辨别粉条是不是纯红薯粉",
-      "onboard_time": 1728803598,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 41285,
@@ -1851,6 +1891,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 27162,
+      "num": 673256,
+      "word": "中国少年先锋队建队75周年",
+      "onboard_time": 1728790038,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 23576,
       "num": 23576,
       "word": "在新疆的湖州蟹一只能卖100元",
@@ -1889,6 +1937,14 @@
       "onboard_time": 1728775035,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 16477,
+      "num": 92417,
+      "word": "敏感肌如何有效美白",
+      "onboard_time": 1728804919,
+      "rank": 49,
+      "category": "美妆"
     },
     {
       "raw_hot": 12597,
