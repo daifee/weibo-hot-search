@@ -1,6 +1,6 @@
 {
   "startTime": 1728750414717,
-  "endTime": 1728784043500,
+  "endTime": 1728785355943,
   "band_list": [
     {
       "raw_hot": 1419674,
@@ -51,19 +51,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 806476,
+      "num": 235851,
+      "word": "东北雨姐明知红薯粉成分问题",
+      "onboard_time": 1728780557,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 786958,
       "num": 287790,
       "word": "一家三口被撞身亡司机想帮养老换谅解",
       "onboard_time": 1728740363,
       "rank": 12,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 786853,
-      "num": 235851,
-      "word": "东北雨姐明知红薯粉成分问题",
-      "onboard_time": 1728780557,
-      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -115,6 +115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 516039,
+      "num": 233054,
+      "word": "东北雨姐及团队绝大部分非当地村民",
+      "onboard_time": 1728781819,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 509782,
       "num": 509782,
       "word": "张本美和vs金琴英",
@@ -153,14 +161,6 @@
       "onboard_time": 1728736700,
       "rank": 20,
       "category": "体育"
-    },
-    {
-      "raw_hot": 307264,
-      "num": 233054,
-      "word": "东北雨姐及团队绝大部分非当地村民",
-      "onboard_time": 1728781819,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 299280,
@@ -251,6 +251,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 191496,
+      "num": 181728,
+      "word": "江西一小区发生刑案致2人死亡",
+      "onboard_time": 1728783137,
+      "rank": 30,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 187029,
       "num": 187029,
       "word": "S14",
@@ -259,12 +267,36 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 174802,
+      "num": 174802,
+      "word": "准大学生火车遇带娃妈妈让座被婉拒",
+      "onboard_time": 1728780498,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 173070,
-      "num": 173070,
+      "num": 177184,
       "word": "年轻人真的在整顿婚礼",
       "onboard_time": 1728781819,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 166712,
+      "num": 185319,
+      "word": "虞书欣这段话背了多久",
+      "onboard_time": 1728784638,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 166367,
+      "num": 166367,
+      "word": "村子只是东北雨姐拍短视频的基地",
+      "onboard_time": 1728783618,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 164614,
@@ -273,14 +305,6 @@
       "onboard_time": 1728739283,
       "rank": 19,
       "category": "网红"
-    },
-    {
-      "raw_hot": 162777,
-      "num": 162777,
-      "word": "准大学生火车遇带娃妈妈让座被婉拒",
-      "onboard_time": 1728780498,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 159887,
@@ -299,6 +323,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 155150,
+      "num": 155150,
+      "word": "本专科生国家励志奖学金奖励提至6000元",
+      "onboard_time": 1728782177,
+      "rank": 37,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 154870,
+      "num": 154870,
+      "word": "为什么说女性更要多吃绿叶菜",
+      "onboard_time": 1728781579,
+      "rank": 27,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 153554,
       "num": 153554,
       "word": "表白墙捞人结果捞到了老师",
@@ -312,6 +352,14 @@
       "word": "你的房贷还完了吗",
       "onboard_time": 1728732920,
       "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 145946,
+      "num": 145946,
+      "word": "律师谈景德镇一家三口被撞身亡",
+      "onboard_time": 1728759912,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -331,14 +379,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 144442,
-      "num": 133470,
-      "word": "江西一小区发生刑案致2人死亡",
-      "onboard_time": 1728783137,
-      "rank": 30,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 141462,
       "num": 141462,
       "word": "关晓彤探班张艺兴音乐话剧",
@@ -347,20 +387,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 139923,
-      "num": 139923,
-      "word": "律师谈景德镇一家三口被撞身亡",
-      "onboard_time": 1728759912,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 138635,
-      "num": 138635,
-      "word": "为什么说女性更要多吃绿叶菜",
-      "onboard_time": 1728781579,
-      "rank": 27,
-      "category": "健康医疗"
+      "raw_hot": 141161,
+      "num": 172818,
+      "word": "汪苏泷带着4万人一起蹦迪",
+      "onboard_time": 1728782058,
+      "rank": 28,
+      "category": "演出"
     },
     {
       "raw_hot": 136250,
@@ -419,6 +451,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 122641,
+      "num": 171676,
+      "word": "丞磊去看了付航演出",
+      "onboard_time": 1728784039,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 121825,
       "num": 178636,
       "word": "听泉鉴宝学校信息已更改",
@@ -435,12 +475,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 119776,
-      "num": 133996,
-      "word": "汪苏泷带着4万人一起蹦迪",
-      "onboard_time": 1728782058,
-      "rank": 28,
-      "category": "演出"
+      "raw_hot": 117970,
+      "num": 117970,
+      "word": "东北雨姐说的假一赔万能兑现吗",
+      "onboard_time": 1728782777,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 117718,
@@ -459,12 +499,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 109942,
-      "num": 109942,
-      "word": "本专科生国家励志奖学金奖励提至6000元",
-      "onboard_time": 1728782177,
-      "rank": 37,
-      "category": "教育"
+      "raw_hot": 108926,
+      "num": 108926,
+      "word": "李沁好细腻的一段感情戏",
+      "onboard_time": 1728784218,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 108425,
@@ -483,20 +523,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 107507,
+      "num": 107507,
+      "word": "檀健次2024有效播剧",
+      "onboard_time": 1728784458,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 107204,
       "num": 119438,
       "word": "名侦探学院",
       "onboard_time": 1728749660,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 106622,
-      "num": 106622,
-      "word": "东北雨姐说的假一赔万能兑现吗",
-      "onboard_time": 1728782777,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 105813,
@@ -507,20 +547,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 104254,
+      "num": 104254,
+      "word": "S14瑞士轮第五轮抽签仪式",
+      "onboard_time": 1728783198,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 101793,
       "num": 119668,
       "word": "虞书欣粉百合美人",
       "onboard_time": 1728729560,
       "rank": 40,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 101584,
-      "num": 101584,
-      "word": "S14瑞士轮第五轮抽签仪式",
-      "onboard_time": 1728783198,
-      "rank": 40,
-      "category": "电竞"
     },
     {
       "raw_hot": 100008,
@@ -537,14 +577,6 @@
       "onboard_time": 1728755652,
       "rank": 8,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 99390,
-      "num": 99390,
-      "word": "村子只是东北雨姐拍短视频的基地",
-      "onboard_time": 1728783618,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 99338,
@@ -611,6 +643,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 89669,
+      "num": 89669,
+      "word": "银行房贷问题咨询量飙升",
+      "onboard_time": 1728781819,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
       "raw_hot": 89326,
       "num": 119551,
       "word": "亚锦赛",
@@ -667,6 +707,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 85501,
+      "num": 237053,
+      "word": "浙江一村子十年给村民发1300万",
+      "onboard_time": 1728783318,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 80134,
       "num": 119386,
       "word": "林诗栋晋级亚锦赛四强",
@@ -697,6 +745,14 @@
       "onboard_time": 1728743542,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 66338,
+      "num": 184092,
+      "word": "史上便宜最多的京东11.11来啦",
+      "onboard_time": 1728783738,
+      "rank": 34,
+      "category": "互联网"
     },
     {
       "raw_hot": 63487,
@@ -771,14 +827,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 46956,
-      "num": 237053,
-      "word": "浙江一村子十年给村民发1300万",
-      "onboard_time": 1728783318,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 44351,
       "num": 55646,
       "word": "河南一中学通报高三学生晕倒猝死",
@@ -787,12 +835,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 42317,
-      "num": 119726,
-      "word": "史上便宜最多的京东11.11来啦",
-      "onboard_time": 1728783738,
-      "rank": 34,
-      "category": "互联网"
+      "raw_hot": 44163,
+      "num": 188911,
+      "word": "杭州满觉陇长满了人",
+      "onboard_time": 1728784518,
+      "rank": 13,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 41285,
@@ -883,6 +931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 19372,
+      "num": 171271,
+      "word": "邱少云生前部队官兵千里奔赴来渝祭拜",
+      "onboard_time": 1728783198,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 18901,
       "num": 195678,
       "word": "游客吐槽扎尕那景区拦断国道收费",
@@ -921,6 +977,14 @@
       "onboard_time": 1728735319,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 6156,
+      "num": 184859,
+      "word": "马国明汤洛雯同游济州岛",
+      "onboard_time": 1728785298,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 4335,

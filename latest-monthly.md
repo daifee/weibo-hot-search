@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/10/01 00:28:17 ~ 2024/10/13 09:47:23
+本榜单时间：2024/10/01 00:28:17 ~ 2024/10/13 10:09:15
 </p>
 </blockquote>
 <p>
@@ -2541,6 +2541,12 @@ aespa（热度：832836）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%9C%E5%8C%97%E9%9B%A8%E5%A7%90%E6%98%8E%E7%9F%A5%E7%BA%A2%E8%96%AF%E7%B2%89%E6%88%90%E5%88%86%E9%97%AE%E9%A2%98%23" target="weibo">
+东北雨姐明知红薯粉成分问题（热度：806476）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E7%96%86%E5%B0%8F%E5%AD%A9%E5%93%A5%E9%87%87%E8%AE%BF%E4%B8%AD%E6%83%8A%E5%87%BA%E8%A1%A8%E6%83%85%E5%8C%85%23" target="weibo">
 新疆小孩哥采访中惊出表情包（热度：806381）
 </a>
@@ -2645,12 +2651,6 @@ aespa（热度：832836）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%AE%B6%E4%B8%89%E5%8F%A3%E8%A2%AB%E6%92%9E%E8%BA%AB%E4%BA%A1%E5%8F%B8%E6%9C%BA%E6%83%B3%E5%B8%AE%E5%85%BB%E8%80%81%E6%8D%A2%E8%B0%85%E8%A7%A3%23" target="weibo">
 一家三口被撞身亡司机想帮养老换谅解（热度：786958）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%9C%E5%8C%97%E9%9B%A8%E5%A7%90%E6%98%8E%E7%9F%A5%E7%BA%A2%E8%96%AF%E7%B2%89%E6%88%90%E5%88%86%E9%97%AE%E9%A2%98%23" target="weibo">
-东北雨姐明知红薯粉成分问题（热度：786853）
 </a>
 </li>
 
@@ -4791,6 +4791,12 @@ GEN对战WBG（热度：516314）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%9C%E5%8C%97%E9%9B%A8%E5%A7%90%E5%8F%8A%E5%9B%A2%E9%98%9F%E7%BB%9D%E5%A4%A7%E9%83%A8%E5%88%86%E9%9D%9E%E5%BD%93%E5%9C%B0%E6%9D%91%E6%B0%91%23" target="weibo">
+东北雨姐及团队绝大部分非当地村民（热度：516039）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E8%83%BD%E9%9D%99%E8%A2%AB%E6%88%91%E6%81%8B6%E7%94%B7%E5%98%89%E5%AE%BE%E6%B0%94%E5%88%B0%E7%96%AF%E7%8B%82%E8%BE%93%E5%87%BA%23" target="weibo">
 伊能静被我恋6男嘉宾气到疯狂输出（热度：515790）
 </a>
@@ -6005,12 +6011,6 @@ Jennie新歌（热度：418632）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E7%B1%8D%E7%94%B7%E5%AD%90%E5%B0%86%E6%97%A5%E6%9C%AC%E8%80%81%E4%BA%BA%E6%8E%A8%E5%80%92%E8%87%B4%E6%AD%BB%23" target="weibo">
 外籍男子将日本老人推倒致死（热度：415837）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%BA%86%E5%81%87%E6%9C%9F%E8%B6%B5%E7%AA%81%E6%B3%89%E9%B1%BC%E8%A2%AB%E6%92%91%E6%AD%BB%E4%BA%86%23" target="weibo">
-国庆假期趵突泉鱼被撑死了（热度：415680）
 </a>
 </li>
 

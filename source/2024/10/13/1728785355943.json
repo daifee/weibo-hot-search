@@ -1,0 +1,410 @@
+{
+  "runTime": 1728785355943,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 735578,
+        "num": 1117692,
+        "word": "死死顶住失控车辆的他获赠新车",
+        "onboard_time": 1728750797,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 423915,
+        "num": 423915,
+        "word": "财政部同意销毁28款即开型彩票",
+        "onboard_time": 1728739942,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3523,
+        "num": 391720,
+        "word": "2024年全国数字乡村创新大赛",
+        "onboard_time": 1728735319,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 371480,
+        "num": 371480,
+        "word": "北大校友否认听泉鉴宝学历",
+        "onboard_time": 1728735560,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 317827,
+        "num": 317827,
+        "word": "王楚钦止步亚锦赛8强",
+        "onboard_time": 1728738325,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 311276,
+        "num": 311276,
+        "word": "孩子走失可用十人四追法寻人",
+        "onboard_time": 1728751996,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 259435,
+        "num": 259435,
+        "word": "朴元彬发长文",
+        "onboard_time": 1728782058,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 243306,
+        "num": 243306,
+        "word": "迈巴赫经销商承诺漏水负责到底",
+        "onboard_time": 1728762252,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211780,
+        "num": 211780,
+        "word": "林诗栋蒯曼亚锦赛夺冠",
+        "onboard_time": 1728747921,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 191138,
+        "num": 191138,
+        "word": "五月天上海演唱会开11场",
+        "onboard_time": 1728778277,
+        "rank": 9,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 979791,
+        "num": 190809,
+        "word": "景德镇车祸家属说太崩溃了",
+        "onboard_time": 1728779537,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 806476,
+        "num": 189897,
+        "word": "东北雨姐明知红薯粉成分问题",
+        "onboard_time": 1728780557,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 516039,
+        "num": 189244,
+        "word": "东北雨姐及团队绝大部分非当地村民",
+        "onboard_time": 1728781819,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 44163,
+        "num": 188911,
+        "word": "杭州满觉陇长满了人",
+        "onboard_time": 1728784518,
+        "rank": 13,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 364961,
+        "num": 187578,
+        "word": "一家三口被撞身亡司机想帮养老换谅解",
+        "onboard_time": 1728740363,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 346700,
+        "num": 187087,
+        "word": "东北雨姐发文道歉",
+        "onboard_time": 1728740844,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 287303,
+        "num": 186055,
+        "word": "东北雨姐启动退一赔三",
+        "onboard_time": 1728747621,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166712,
+        "num": 185319,
+        "word": "虞书欣这段话背了多久",
+        "onboard_time": 1728784638,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 6156,
+        "num": 184859,
+        "word": "马国明汤洛雯同游济州岛",
+        "onboard_time": 1728785298,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 66338,
+        "num": 184092,
+        "word": "史上便宜最多的京东11.11来啦",
+        "onboard_time": 1728783738,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 275775,
+        "num": 183577,
+        "word": "22岁冠心病女生不想做支架狂炫中药",
+        "onboard_time": 1728741563,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227647,
+        "num": 182504,
+        "word": "河南一高三学生晕倒猝死",
+        "onboard_time": 1728747201,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191496,
+        "num": 181728,
+        "word": "江西一小区发生刑案致2人死亡",
+        "onboard_time": 1728783137,
+        "rank": 22,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 151632,
+        "num": 180812,
+        "word": "听泉鉴宝",
+        "onboard_time": 1728739283,
+        "rank": 23,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 180773,
+        "num": 180773,
+        "word": "B太回应曾夸东北雨姐真实",
+        "onboard_time": 1728736760,
+        "rank": 24,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 163918,
+        "num": 177184,
+        "word": "年轻人真的在整顿婚礼",
+        "onboard_time": 1728781819,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 174802,
+        "num": 174802,
+        "word": "准大学生火车遇带娃妈妈让座被婉拒",
+        "onboard_time": 1728780498,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141161,
+        "num": 172818,
+        "word": "汪苏泷带着4万人一起蹦迪",
+        "onboard_time": 1728782058,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 122641,
+        "num": 171676,
+        "word": "丞磊去看了付航演出",
+        "onboard_time": 1728784039,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 19372,
+        "num": 171271,
+        "word": "邱少云生前部队官兵千里奔赴来渝祭拜",
+        "onboard_time": 1728783198,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171196,
+        "num": 171196,
+        "word": "王俊凯 环球影城",
+        "onboard_time": 1728740304,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166367,
+        "num": 166367,
+        "word": "村子只是东北雨姐拍短视频的基地",
+        "onboard_time": 1728783618,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155150,
+        "num": 155150,
+        "word": "本专科生国家励志奖学金奖励提至6000元",
+        "onboard_time": 1728782177,
+        "rank": 32,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 154870,
+        "num": 154870,
+        "word": "为什么说女性更要多吃绿叶菜",
+        "onboard_time": 1728781579,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 145946,
+        "num": 145946,
+        "word": "律师谈景德镇一家三口被撞身亡",
+        "onboard_time": 1728759912,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139616,
+        "num": 139616,
+        "word": "王楚钦辛苦了下个赛场见",
+        "onboard_time": 1728780377,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126564,
+        "num": 126564,
+        "word": "东北人扒开了家中20年老火炕",
+        "onboard_time": 1728761230,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117970,
+        "num": 117970,
+        "word": "东北雨姐说的假一赔万能兑现吗",
+        "onboard_time": 1728782777,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113906,
+        "num": 113906,
+        "word": "难听",
+        "onboard_time": 1728743363,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112833,
+        "num": 112833,
+        "word": "迪丽热巴回眸宿命感",
+        "onboard_time": 1728780258,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108926,
+        "num": 108926,
+        "word": "李沁好细腻的一段感情戏",
+        "onboard_time": 1728784218,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107736,
+        "num": 107736,
+        "word": "土松犬 中国人自己的萨摩耶",
+        "onboard_time": 1728781998,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 107507,
+        "num": 107507,
+        "word": "檀健次2024有效播剧",
+        "onboard_time": 1728784458,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104254,
+        "num": 104254,
+        "word": "S14瑞士轮第五轮抽签仪式",
+        "onboard_time": 1728783198,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 103507,
+        "num": 103507,
+        "word": "黑神话制作人做游戏要愿给自己娃玩",
+        "onboard_time": 1728779657,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 96453,
+        "num": 96453,
+        "word": "吴谨言再回复仇赛道",
+        "onboard_time": 1728778996,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 90580,
+        "num": 90580,
+        "word": "赵露思说目前没有拍电影的打算",
+        "onboard_time": 1728737482,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 89669,
+        "num": 89669,
+        "word": "银行房贷问题咨询量飙升",
+        "onboard_time": 1728781819,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 87193,
+        "num": 87193,
+        "word": "DK将对战WBG",
+        "onboard_time": 1728782478,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 85501,
+        "num": 85501,
+        "word": "浙江一村子十年给村民发1300万",
+        "onboard_time": 1728783318,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向埃塞俄比亚新任总统塔耶致贺电#"
+    }
+  }
+}
