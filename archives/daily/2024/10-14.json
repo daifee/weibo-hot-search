@@ -1,7 +1,15 @@
 {
   "startTime": 1728836764624,
-  "endTime": 1728859087531,
+  "endTime": 1728861873929,
   "band_list": [
+    {
+      "raw_hot": 2175559,
+      "num": 2175559,
+      "word": "解放军抵近台岛演习夺取综合制权",
+      "onboard_time": 1728859935,
+      "rank": 0,
+      "category": "国内时政"
+    },
     {
       "raw_hot": 1525577,
       "num": 658814,
@@ -107,6 +115,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 472786,
+      "num": 213004,
+      "word": "律师称雨姐带货油污净或赔偿过亿",
+      "onboard_time": 1728856271,
+      "rank": 21,
+      "category": "网红"
+    },
+    {
       "raw_hot": 463833,
       "num": 430157,
       "word": "林诗栋vs张本智和",
@@ -155,6 +171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 359888,
+      "num": 359888,
+      "word": "小伙捡到疑似手雷赶紧上交",
+      "onboard_time": 1728844392,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 340009,
       "num": 290269,
       "word": "王以太当爸爸了",
@@ -195,6 +219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 278047,
+      "num": 206888,
+      "word": "吴镇宇晒费曼王嘉尔合照",
+      "onboard_time": 1728831743,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 275985,
       "num": 213384,
       "word": "吴晙诚没有领奖",
@@ -209,6 +241,14 @@
       "onboard_time": 1728831683,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 215637,
+      "num": 215637,
+      "word": "联合利剑2024B演习开始了",
+      "onboard_time": 1728859935,
+      "rank": 8,
+      "category": "国内时政,国外时政"
     },
     {
       "raw_hot": 212876,
@@ -227,20 +267,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 206834,
+      "num": 206834,
+      "word": "LPL全员晋级S14八强",
+      "onboard_time": 1728842532,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 204523,
       "num": 204523,
       "word": "SpaceX首次回收星舰成功",
       "onboard_time": 1728824423,
       "rank": 31,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 196268,
-      "num": 153104,
-      "word": "律师称雨姐带货油污净或赔偿过亿",
-      "onboard_time": 1728856271,
-      "rank": 21,
-      "category": "网红"
     },
     {
       "raw_hot": 191148,
@@ -259,28 +299,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 184448,
-      "num": 184448,
-      "word": "LPL全员晋级S14八强",
-      "onboard_time": 1728842532,
-      "rank": 14,
-      "category": "体育"
-    },
-    {
       "raw_hot": 181556,
       "num": 181556,
       "word": "AG对战DRG",
       "onboard_time": 1728830422,
       "rank": 33,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 172869,
-      "num": 172869,
-      "word": "吴镇宇晒费曼王嘉尔合照",
-      "onboard_time": 1728831743,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 167958,
@@ -305,14 +329,6 @@
       "onboard_time": 1728833060,
       "rank": 38,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 160174,
-      "num": 160174,
-      "word": "小伙捡到疑似手雷赶紧上交",
-      "onboard_time": 1728844392,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 156841,
@@ -371,20 +387,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 127901,
-      "num": 153628,
-      "word": "杨紫李现国色芳华开始招商",
-      "onboard_time": 1728832222,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 126265,
+      "raw_hot": 129652,
       "num": 477455,
       "word": "旅美大熊猫一家今晚抵达成都",
       "onboard_time": 1728837077,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 127901,
+      "num": 214970,
+      "word": "杨紫李现国色芳华开始招商",
+      "onboard_time": 1728832222,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 124408,
@@ -475,12 +491,52 @@
       "category": "体育"
     },
     {
+      "raw_hot": 99502,
+      "num": 99502,
+      "word": "金与正就无人机事件谴责韩军方",
+      "onboard_time": 1728831023,
+      "rank": 29,
+      "category": "国外时政,军事"
+    },
+    {
+      "raw_hot": 79486,
+      "num": 79486,
+      "word": "强力震慑台独分裂势力谋独行径",
+      "onboard_time": 1728859935,
+      "rank": 34,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 77232,
+      "num": 77232,
+      "word": "龚琳娜回应与老锣音乐将继续",
+      "onboard_time": 1728859515,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 62194,
       "num": 62194,
       "word": "郑钦文身体欠佳已尽全力",
       "onboard_time": 1728841155,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 61899,
+      "num": 61899,
+      "word": "中国空间站将迎来神舟十九号乘组",
+      "onboard_time": 1728854712,
+      "rank": 36,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 53363,
+      "num": 76418,
+      "word": "小孩姐戴三道杠走路的气质好帅呀",
+      "onboard_time": 1728831023,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 52632,
@@ -505,14 +561,6 @@
       "onboard_time": 1728831083,
       "rank": 36,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 44930,
-      "num": 44930,
-      "word": "中国空间站将迎来神舟十九号乘组",
-      "onboard_time": 1728854712,
-      "rank": 36,
-      "category": "国内时政"
     },
     {
       "raw_hot": 42454,
@@ -659,8 +707,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 10294,
+      "num": 76638,
+      "word": "沉迷网赌明知会输仍继续参赌",
+      "onboard_time": 1728861617,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 9642,
-      "num": 545833,
+      "num": 805757,
       "word": "神十八乘组这周在忙些什么",
       "onboard_time": 1728825621,
       "rank": 2,

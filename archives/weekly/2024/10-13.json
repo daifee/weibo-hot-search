@@ -1,6 +1,6 @@
 {
   "startTime": 1728750414717,
-  "endTime": 1728859087531,
+  "endTime": 1728861873929,
   "band_list": [
     {
       "raw_hot": 17915004,
@@ -73,6 +73,14 @@
       "onboard_time": 1728819021,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 2175559,
+      "num": 2175559,
+      "word": "解放军抵近台岛演习夺取综合制权",
+      "onboard_time": 1728859935,
+      "rank": 0,
+      "category": "国内时政"
     },
     {
       "raw_hot": 2082819,
@@ -779,6 +787,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 472786,
+      "num": 213004,
+      "word": "律师称雨姐带货油污净或赔偿过亿",
+      "onboard_time": 1728856271,
+      "rank": 21,
+      "category": "网红"
+    },
+    {
       "raw_hot": 459722,
       "num": 327163,
       "word": "陈乔恩夫妇参加萧敬腾婚礼",
@@ -929,6 +945,14 @@
       "onboard_time": 1728826701,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 359888,
+      "num": 359888,
+      "word": "小伙捡到疑似手雷赶紧上交",
+      "onboard_time": 1728844392,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 354763,
@@ -1435,6 +1459,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 215637,
+      "num": 215637,
+      "word": "联合利剑2024B演习开始了",
+      "onboard_time": 1728859935,
+      "rank": 8,
+      "category": "国内时政,国外时政"
+    },
+    {
       "raw_hot": 215559,
       "num": 252392,
       "word": "张萌来选短剧演员了",
@@ -1489,6 +1521,14 @@
       "onboard_time": 1728833060,
       "rank": 36,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 206834,
+      "num": 206834,
+      "word": "LPL全员晋级S14八强",
+      "onboard_time": 1728842532,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 205790,
@@ -1665,14 +1705,6 @@
       "onboard_time": 1728793099,
       "rank": 26,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 196268,
-      "num": 153104,
-      "word": "律师称雨姐带货油污净或赔偿过亿",
-      "onboard_time": 1728856271,
-      "rank": 21,
-      "category": "网红"
     },
     {
       "raw_hot": 194467,
@@ -1857,14 +1889,6 @@
       "onboard_time": 1728800359,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 184448,
-      "num": 184448,
-      "word": "LPL全员晋级S14八强",
-      "onboard_time": 1728842532,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 184067,
@@ -2105,14 +2129,6 @@
       "onboard_time": 1728819080,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 160174,
-      "num": 160174,
-      "word": "小伙捡到疑似手雷赶紧上交",
-      "onboard_time": 1728844392,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 159887,
@@ -2539,6 +2555,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 129652,
+      "num": 477455,
+      "word": "旅美大熊猫一家今晚抵达成都",
+      "onboard_time": 1728837077,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 128507,
       "num": 128507,
       "word": "范丞丞卢昱晓hi6花絮好甜",
@@ -2585,14 +2609,6 @@
       "onboard_time": 1728744742,
       "rank": 33,
       "category": "情感"
-    },
-    {
-      "raw_hot": 126265,
-      "num": 477455,
-      "word": "旅美大熊猫一家今晚抵达成都",
-      "onboard_time": 1728837077,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 126138,
@@ -3035,6 +3051,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 99502,
+      "num": 99502,
+      "word": "金与正就无人机事件谴责韩军方",
+      "onboard_time": 1728831023,
+      "rank": 29,
+      "category": "国外时政,军事"
+    },
+    {
       "raw_hot": 99338,
       "num": 99338,
       "word": "我的宝藏家乡",
@@ -3227,6 +3251,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 79486,
+      "num": 79486,
+      "word": "强力震慑台独分裂势力谋独行径",
+      "onboard_time": 1728859935,
+      "rank": 34,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 77232,
+      "num": 77232,
+      "word": "龚琳娜回应与老锣音乐将继续",
+      "onboard_time": 1728859515,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 74055,
       "num": 146865,
       "word": "东部战区战训画面太燃了",
@@ -3281,6 +3321,14 @@
       "onboard_time": 1728841155,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 61899,
+      "num": 61899,
+      "word": "中国空间站将迎来神舟十九号乘组",
+      "onboard_time": 1728854712,
+      "rank": 36,
+      "category": "国内时政"
     },
     {
       "raw_hot": 61886,
@@ -3352,6 +3400,14 @@
       "word": "11个月大失聪宝宝第一次听到声音",
       "onboard_time": 1728756373,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 53363,
+      "num": 76418,
+      "word": "小孩姐戴三道杠走路的气质好帅呀",
+      "onboard_time": 1728831023,
+      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -3433,14 +3489,6 @@
       "onboard_time": 1728803598,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 44930,
-      "num": 44930,
-      "word": "中国空间站将迎来神舟十九号乘组",
-      "onboard_time": 1728854712,
-      "rank": 36,
-      "category": "国内时政"
     },
     {
       "raw_hot": 44385,
@@ -3692,7 +3740,7 @@
     },
     {
       "raw_hot": 23586,
-      "num": 545833,
+      "num": 805757,
       "word": "神十八乘组这周在忙些什么",
       "onboard_time": 1728825621,
       "rank": 6,
@@ -3841,6 +3889,14 @@
       "onboard_time": 1728808640,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 10294,
+      "num": 76638,
+      "word": "沉迷网赌明知会输仍继续参赌",
+      "onboard_time": 1728861617,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 9077,
