@@ -1,6 +1,6 @@
 {
   "startTime": 1728836764624,
-  "endTime": 1728847169740,
+  "endTime": 1728848108199,
   "band_list": [
     {
       "raw_hot": 1525577,
@@ -459,7 +459,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 77576,
+      "raw_hot": 82103,
       "num": 144718,
       "word": "小伙捡到疑似手雷赶紧上交",
       "onboard_time": 1728844392,
@@ -539,19 +539,27 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 29560,
-      "num": 29560,
+      "raw_hot": 30725,
+      "num": 30725,
       "word": "大冰连线",
       "onboard_time": 1728845293,
       "rank": 41,
       "category": "艺人"
     },
     {
-      "raw_hot": 15766,
+      "raw_hot": 23299,
       "num": 76836,
       "word": "贵州王乃山发生山火燃烧猛烈",
       "onboard_time": 1728846373,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 14165,
+      "num": 35144,
+      "word": "官方回应贵州王乃山突发山火",
+      "onboard_time": 1728847451,
+      "rank": 29,
       "category": "社会新闻"
     },
     {

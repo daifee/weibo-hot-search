@@ -1,6 +1,6 @@
 {
   "startTime": 1728750414717,
-  "endTime": 1728847169740,
+  "endTime": 1728848108199,
   "band_list": [
     {
       "raw_hot": 17915004,
@@ -3195,6 +3195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 82103,
+      "num": 144718,
+      "word": "小伙捡到疑似手雷赶紧上交",
+      "onboard_time": 1728844392,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 80134,
       "num": 119386,
       "word": "林诗栋晋级亚锦赛四强",
@@ -3208,14 +3216,6 @@
       "word": "不能让杨妞花一个人战斗",
       "onboard_time": 1728744801,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 77576,
-      "num": 144718,
-      "word": "小伙捡到疑似手雷赶紧上交",
-      "onboard_time": 1728844392,
-      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -3579,20 +3579,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 30725,
+      "num": 30725,
+      "word": "大冰连线",
+      "onboard_time": 1728845293,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 29886,
       "num": 40991,
       "word": "一个真虎一个真是虎",
       "onboard_time": 1728756613,
       "rank": 44,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 29560,
-      "num": 29560,
-      "word": "大冰连线",
-      "onboard_time": 1728845293,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 28287,
@@ -3640,6 +3640,14 @@
       "word": "在新疆的湖州蟹一只能卖100元",
       "onboard_time": 1728764832,
       "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 23299,
+      "num": 76836,
+      "word": "贵州王乃山发生山火燃烧猛烈",
+      "onboard_time": 1728846373,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -3707,11 +3715,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 15766,
-      "num": 76836,
-      "word": "贵州王乃山发生山火燃烧猛烈",
-      "onboard_time": 1728846373,
-      "rank": 9,
+      "raw_hot": 14165,
+      "num": 35144,
+      "word": "官方回应贵州王乃山突发山火",
+      "onboard_time": 1728847451,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
