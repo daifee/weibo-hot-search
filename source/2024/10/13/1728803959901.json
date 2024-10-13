@@ -1,0 +1,410 @@
+{
+  "runTime": 1728803959901,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1122746,
+        "num": 1179639,
+        "word": "预制风还是吹到了婚礼圈",
+        "onboard_time": 1728788958,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 638140,
+        "num": 638140,
+        "word": "刘学义谈给妈妈换肾",
+        "onboard_time": 1728800840,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25748,
+        "num": 530296,
+        "word": "首届中国广播电视精品创作大会",
+        "onboard_time": 1728790098,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 525629,
+        "num": 525629,
+        "word": "赖美云淘汰",
+        "onboard_time": 1728799998,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 508830,
+        "num": 508830,
+        "word": "东部战区随时能战",
+        "onboard_time": 1728795979,
+        "rank": 4,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 441649,
+        "num": 441649,
+        "word": "林诗栋冲击三冠王",
+        "onboard_time": 1728800479,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 409962,
+        "num": 409962,
+        "word": "杨紫鲨鱼裤穿搭",
+        "onboard_time": 1728794358,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 402453,
+        "num": 402453,
+        "word": "许昕1天2战左臂出现反应",
+        "onboard_time": 1728796039,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 388015,
+        "num": 388015,
+        "word": "我们的孩子死了家被炸毁了",
+        "onboard_time": 1728786258,
+        "rank": 8,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 41688,
+        "num": 385284,
+        "word": "消费者如何辨别粉条是不是纯红薯粉",
+        "onboard_time": 1728803598,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1153028,
+        "num": 384188,
+        "word": "原来冰墩墩原型是奥组委疯狂暗示的",
+        "onboard_time": 1728802939,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 458982,
+        "num": 380484,
+        "word": "男子路边佯装撸猫突然将其摔死",
+        "onboard_time": 1728792319,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 391423,
+        "num": 374542,
+        "word": "萧敬腾林有慧婚礼",
+        "onboard_time": 1728795260,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 267070,
+        "num": 372129,
+        "word": "林诗栋vs篠塚大登",
+        "onboard_time": 1728802398,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 52929,
+        "num": 367964,
+        "word": "花千元找一日男友的年轻人开始维权",
+        "onboard_time": 1728803358,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 365884,
+        "num": 365884,
+        "word": "百万网红脑溢血后多人骗粉丝募捐",
+        "onboard_time": 1728802878,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 359209,
+        "num": 359209,
+        "word": "吹牛老爹",
+        "onboard_time": 1728798198,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 353171,
+        "num": 353171,
+        "word": "于正说和赵丽颖杨幂都有联系",
+        "onboard_time": 1728797120,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 329063,
+        "num": 329063,
+        "word": "爸爸跑步留老大照顾老二结果都丢了",
+        "onboard_time": 1728787819,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36683,
+        "num": 315539,
+        "word": "独居社畜用下厨来去班味",
+        "onboard_time": 1728803539,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 367722,
+        "num": 314821,
+        "word": "国乒一天之内输了十场",
+        "onboard_time": 1728792918,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 312508,
+        "num": 312508,
+        "word": "吹牛老爹 贾斯汀比伯",
+        "onboard_time": 1728802640,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 273870,
+        "num": 273870,
+        "word": "何炅喝黄磊做的辣味米稀",
+        "onboard_time": 1728787399,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 245631,
+        "num": 245631,
+        "word": "景德镇车祸肇事方提出养老换谅解",
+        "onboard_time": 1728779057,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238502,
+        "num": 238502,
+        "word": "张本智和vs吴晙诚",
+        "onboard_time": 1728798139,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 222249,
+        "num": 222249,
+        "word": "游客在浙江出海幸运拍下海豚群跃出海面",
+        "onboard_time": 1728802339,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212100,
+        "num": 212100,
+        "word": "丁真提出的增殖放流获得全票通过",
+        "onboard_time": 1728792618,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196156,
+        "num": 196156,
+        "word": "东部战区发布最新战训视频",
+        "onboard_time": 1728791299,
+        "rank": 27,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 189045,
+        "num": 189045,
+        "word": "陈丽君和法国歌手机场合唱越剧选段",
+        "onboard_time": 1728802939,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151520,
+        "num": 187872,
+        "word": "杜华14个连环提问太窒息了",
+        "onboard_time": 1728801858,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187539,
+        "num": 187539,
+        "word": "黄磊孙莉逛环球影城",
+        "onboard_time": 1728800779,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178296,
+        "num": 178296,
+        "word": "陈幸同蒯曼0比3大藤沙月横井咲樱",
+        "onboard_time": 1728798739,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 171135,
+        "num": 171135,
+        "word": "所有人都无视他 只有她叫他三哥",
+        "onboard_time": 1728803899,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166559,
+        "num": 166559,
+        "word": "中国人的绝对色感惊艳了",
+        "onboard_time": 1728796579,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148933,
+        "num": 148933,
+        "word": "韩安冉学名媛",
+        "onboard_time": 1728801320,
+        "rank": 34,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 137936,
+        "num": 137936,
+        "word": "东北雨姐明知红薯粉成分问题",
+        "onboard_time": 1728780557,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134754,
+        "num": 134754,
+        "word": "32岁网红下播后突发脑出血进ICU",
+        "onboard_time": 1728786378,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130752,
+        "num": 130752,
+        "word": "原来100天真能做成一件伟大的事",
+        "onboard_time": 1728800539,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122393,
+        "num": 122393,
+        "word": "浙江一公办幼儿园开出乳儿班",
+        "onboard_time": 1728789739,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121230,
+        "num": 121230,
+        "word": "陈幸同蒯曼VS大藤沙月横井呋樱",
+        "onboard_time": 1728796219,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 116385,
+        "num": 116385,
+        "word": "甄芙传",
+        "onboard_time": 1728797719,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113906,
+        "num": 113906,
+        "word": "肖战全黑套装",
+        "onboard_time": 1728795139,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 107987,
+        "num": 107987,
+        "word": "宋亚轩强到对手背后蛐蛐",
+        "onboard_time": 1728800539,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106176,
+        "num": 106176,
+        "word": "光与夜之恋校园卡",
+        "onboard_time": 1728801380,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 106026,
+        "num": 106026,
+        "word": "向佐说张大大是郭碧婷闺蜜",
+        "onboard_time": 1728799820,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101844,
+        "num": 101844,
+        "word": "马嘉祺好像混入后台的观众",
+        "onboard_time": 1728800061,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100422,
+        "num": 100422,
+        "word": "王爷 美人要跟别人成亲了",
+        "onboard_time": 1728799939,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100105,
+        "num": 100105,
+        "word": "官方通报小男孩凌晨捡瓶子被偶遇",
+        "onboard_time": 1728795558,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100104,
+        "num": 100104,
+        "word": "霍展白到底欠了多少诊金",
+        "onboard_time": 1728801919,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 95646,
+        "num": 95646,
+        "word": "张真源心比人早一步上场",
+        "onboard_time": 1728803899,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#感悟总书记的传统文化情结#"
+    }
+  }
+}
