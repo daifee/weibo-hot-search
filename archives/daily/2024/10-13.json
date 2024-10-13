@@ -1,6 +1,6 @@
 {
   "startTime": 1728750414717,
-  "endTime": 1728812129078,
+  "endTime": 1728814890930,
   "band_list": [
     {
       "raw_hot": 2725617,
@@ -65,6 +65,14 @@
       "onboard_time": 1728798739,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1265752,
+      "num": 1265752,
+      "word": "李佳琦红包",
+      "onboard_time": 1728812839,
+      "rank": 0,
+      "category": "网红"
     },
     {
       "raw_hot": 1255845,
@@ -243,6 +251,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 722152,
+      "num": 404334,
+      "word": "向佐回复费曼",
+      "onboard_time": 1728811519,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 698422,
+      "num": 698422,
+      "word": "郑钦文vs萨巴伦卡",
+      "onboard_time": 1728810439,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 693223,
       "num": 693223,
       "word": "林诗栋张本智和争冠",
@@ -275,6 +299,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 654469,
+      "num": 654469,
+      "word": "乐华首次公开艺人KPI业绩",
+      "onboard_time": 1728813619,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 638140,
       "num": 638140,
       "word": "刘学义谈给妈妈换肾",
@@ -297,14 +329,6 @@
       "onboard_time": 1728740304,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 608062,
-      "num": 608062,
-      "word": "郑钦文vs萨巴伦卡",
-      "onboard_time": 1728810439,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 595686,
@@ -344,6 +368,14 @@
       "word": "河南一高三学生晕倒猝死",
       "onboard_time": 1728747201,
       "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 564073,
+      "num": 564073,
+      "word": "家属哭诉6岁孙女住院输液时去世",
+      "onboard_time": 1728813080,
+      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -400,6 +432,14 @@
       "word": "2人走私2.7吨活体蛇被刑拘",
       "onboard_time": 1728739583,
       "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 492749,
+      "num": 296583,
+      "word": "情侣捡到老人手机用免密支付买黄金",
+      "onboard_time": 1728810859,
+      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -475,14 +515,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 393266,
-      "num": 348705,
-      "word": "向佐回复费曼",
-      "onboard_time": 1728811519,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 391122,
       "num": 391122,
       "word": "林诗栋vs篠塚大登",
@@ -497,14 +529,6 @@
       "onboard_time": 1728789918,
       "rank": 38,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 363590,
-      "num": 296583,
-      "word": "情侣捡到老人手机用免密支付买黄金",
-      "onboard_time": 1728810859,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 354763,
@@ -553,6 +577,14 @@
       "onboard_time": 1728792380,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 336309,
+      "num": 336309,
+      "word": "为什么金价狂飙却不香了",
+      "onboard_time": 1728812419,
+      "rank": 15,
+      "category": "财经"
     },
     {
       "raw_hot": 320496,
@@ -689,6 +721,14 @@
       "onboard_time": 1728810319,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 245874,
+      "num": 245874,
+      "word": "陈都灵丞磊生图",
+      "onboard_time": 1728814159,
+      "rank": 17,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 244812,
@@ -851,6 +891,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 210075,
+      "num": 210075,
+      "word": "91岁母亲看望病重儿子后儿子离世",
+      "onboard_time": 1728812359,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 202904,
       "num": 330723,
       "word": "TOP登陆少年爆改",
@@ -889,6 +937,14 @@
       "onboard_time": 1728800539,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 200394,
+      "num": 200394,
+      "word": "郑钦文0比1落后萨巴伦卡",
+      "onboard_time": 1728814040,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 198364,
@@ -947,6 +1003,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 193320,
+      "num": 208374,
+      "word": "韩方回应若构成威胁朝鲜政权将终结",
+      "onboard_time": 1728811640,
+      "rank": 49,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 193152,
       "num": 313034,
       "word": "微博视界大会",
@@ -977,6 +1041,14 @@
       "onboard_time": 1728797359,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 192043,
+      "num": 235857,
+      "word": "郑钦文破发",
+      "onboard_time": 1728814280,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 191518,
@@ -1107,6 +1179,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 168543,
+      "num": 208981,
+      "word": "进口的阿奇霉素去哪了",
+      "onboard_time": 1728809839,
+      "rank": 38,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 167735,
+      "num": 167735,
+      "word": "两民警均索要差旅费",
+      "onboard_time": 1728809060,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 165190,
       "num": 165190,
       "word": "我海警在我钓鱼岛领海巡航",
@@ -1184,14 +1272,6 @@
       "word": "最萌身高差老夫妻雨后牵手散步",
       "onboard_time": 1728806959,
       "rank": 41,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 158011,
-      "num": 158011,
-      "word": "两民警均索要差旅费",
-      "onboard_time": 1728809060,
-      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -1273,14 +1353,6 @@
       "onboard_time": 1728732920,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 150248,
-      "num": 150248,
-      "word": "进口的阿奇霉素去哪了",
-      "onboard_time": 1728809839,
-      "rank": 38,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 149676,
@@ -1417,6 +1489,14 @@
       "onboard_time": 1728794178,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 137900,
+      "num": 137900,
+      "word": "东北雨姐道歉网友为何不买账",
+      "onboard_time": 1728813920,
+      "rank": 38,
+      "category": "网红"
     },
     {
       "raw_hot": 137823,
@@ -1595,6 +1675,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 119104,
+      "num": 119104,
+      "word": "撒哈拉沙漠发洪水",
+      "onboard_time": 1728814520,
+      "rank": 43,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 117718,
       "num": 117718,
       "word": "迪丽热巴回眸宿命感",
@@ -1707,14 +1795,6 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 110316,
-      "num": 110316,
-      "word": "韩方回应若构成威胁朝鲜政权将终结",
-      "onboard_time": 1728811640,
-      "rank": 49,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 108926,
       "num": 108926,
       "word": "李沁好细腻的一段感情戏",
@@ -1761,6 +1841,14 @@
       "onboard_time": 1728749660,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 106528,
+      "num": 106528,
+      "word": "红薯和木薯到底有啥区别",
+      "onboard_time": 1728814760,
+      "rank": 47,
+      "category": "科学科普"
     },
     {
       "raw_hot": 106496,
@@ -1865,6 +1953,14 @@
       "onboard_time": 1728781998,
       "rank": 42,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 98397,
+      "num": 98397,
+      "word": "武磊打了两针封闭",
+      "onboard_time": 1728814819,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 96934,

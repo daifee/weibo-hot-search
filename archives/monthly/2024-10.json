@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1728812129078,
+  "endTime": 1728814890930,
   "band_list": [
     {
       "raw_hot": 13027302,
@@ -1529,6 +1529,14 @@
       "onboard_time": 1728438619,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1265752,
+      "num": 1265752,
+      "word": "李佳琦红包",
+      "onboard_time": 1728812839,
+      "rank": 0,
+      "category": "网红"
     },
     {
       "raw_hot": 1255845,
@@ -4251,6 +4259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 722152,
+      "num": 404334,
+      "word": "向佐回复费曼",
+      "onboard_time": 1728811519,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 721032,
       "num": 721032,
       "word": "马龙正手狂轰",
@@ -4408,6 +4424,14 @@
       "word": "无缝球",
       "onboard_time": 1728365420,
       "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 698422,
+      "num": 698422,
+      "word": "郑钦文vs萨巴伦卡",
+      "onboard_time": 1728810439,
+      "rank": 14,
       "category": "体育"
     },
     {
@@ -4889,6 +4913,14 @@
       "onboard_time": 1728358161,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 654469,
+      "num": 654469,
+      "word": "乐华首次公开艺人KPI业绩",
+      "onboard_time": 1728813619,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 653812,
@@ -5432,14 +5464,6 @@
       "word": "全红婵国庆节又回家带娃了",
       "onboard_time": 1727914216,
       "rank": 4,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 608062,
-      "num": 608062,
-      "word": "郑钦文vs萨巴伦卡",
-      "onboard_time": 1728810439,
-      "rank": 14,
       "category": "体育"
     },
     {
@@ -6040,6 +6064,14 @@
       "word": "77岁教授不用洗发水省下钱就买书",
       "onboard_time": 1728488598,
       "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 564073,
+      "num": 564073,
+      "word": "家属哭诉6岁孙女住院输液时去世",
+      "onboard_time": 1728813080,
+      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -6985,6 +7017,14 @@
       "onboard_time": 1728343516,
       "rank": 3,
       "category": "情感"
+    },
+    {
+      "raw_hot": 492749,
+      "num": 296583,
+      "word": "情侣捡到老人手机用免密支付买黄金",
+      "onboard_time": 1728810859,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 492702,
@@ -8715,14 +8755,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 393266,
-      "num": 348705,
-      "word": "向佐回复费曼",
-      "onboard_time": 1728811519,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 392844,
       "num": 358285,
       "word": "BIGBANG完整体出演MAMA",
@@ -9451,14 +9483,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 363590,
-      "num": 296583,
-      "word": "情侣捡到老人手机用免密支付买黄金",
-      "onboard_time": 1728810859,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 363288,
       "num": 296654,
       "word": "伊藤美诚3比2金娜英",
@@ -10177,6 +10201,14 @@
       "onboard_time": 1728652160,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 336309,
+      "num": 336309,
+      "word": "为什么金价狂飙却不香了",
+      "onboard_time": 1728812419,
+      "rank": 15,
+      "category": "财经"
     },
     {
       "raw_hot": 336253,
@@ -13915,6 +13947,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 245874,
+      "num": 245874,
+      "word": "陈都灵丞磊生图",
+      "onboard_time": 1728814159,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 245840,
       "num": 245840,
       "word": "王者荣耀共创之夜嘉宾官宣",
@@ -16323,6 +16363,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 210075,
+      "num": 210075,
+      "word": "91岁母亲看望病重儿子后儿子离世",
+      "onboard_time": 1728812359,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 210037,
       "num": 210037,
       "word": "这回景德镇受气瓶真受气了",
@@ -17435,6 +17483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 200394,
+      "num": 200394,
+      "word": "郑钦文0比1落后萨巴伦卡",
+      "onboard_time": 1728814040,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 200379,
       "num": 332544,
       "word": "外交部和驻巴基斯坦使领馆发出提醒",
@@ -18465,6 +18521,14 @@
       "onboard_time": 1728223940,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 193320,
+      "num": 208374,
+      "word": "韩方回应若构成威胁朝鲜政权将终结",
+      "onboard_time": 1728811640,
+      "rank": 49,
+      "category": "国外时政"
     },
     {
       "raw_hot": 193217,
@@ -21395,6 +21459,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 168543,
+      "num": 208981,
+      "word": "进口的阿奇霉素去哪了",
+      "onboard_time": 1728809839,
+      "rank": 38,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 168537,
       "num": 168537,
       "word": "杨紫杂志",
@@ -21521,6 +21593,14 @@
       "onboard_time": 1728466459,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 167735,
+      "num": 167735,
+      "word": "两民警均索要差旅费",
+      "onboard_time": 1728809060,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 167730,
@@ -22867,14 +22947,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 158011,
-      "num": 158011,
-      "word": "两民警均索要差旅费",
-      "onboard_time": 1728809060,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 157948,
       "num": 298579,
       "word": "漏水迈巴赫经销商发声明",
@@ -24105,14 +24177,6 @@
       "onboard_time": 1728305122,
       "rank": 42,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 150248,
-      "num": 150248,
-      "word": "进口的阿奇霉素去哪了",
-      "onboard_time": 1728809839,
-      "rank": 38,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 150062,
@@ -25897,6 +25961,14 @@
       "onboard_time": 1728564499,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 137900,
+      "num": 137900,
+      "word": "东北雨姐道歉网友为何不买账",
+      "onboard_time": 1728813920,
+      "rank": 38,
+      "category": "网红"
     },
     {
       "raw_hot": 137848,
@@ -28507,6 +28579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 119104,
+      "num": 119104,
+      "word": "撒哈拉沙漠发洪水",
+      "onboard_time": 1728814520,
+      "rank": 43,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 119074,
       "num": 236043,
       "word": "以色列或将打开无休止战争之门",
@@ -29715,14 +29795,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 110316,
-      "num": 110316,
-      "word": "韩方回应若构成威胁朝鲜政权将终结",
-      "onboard_time": 1728811640,
-      "rank": 49,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 110296,
       "num": 115035,
       "word": "张朝阳近5小时马拉松式数学推演",
@@ -30281,6 +30353,14 @@
       "onboard_time": 1727850259,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 106528,
+      "num": 106528,
+      "word": "红薯和木薯到底有啥区别",
+      "onboard_time": 1728814760,
+      "rank": 47,
+      "category": "科学科普"
     },
     {
       "raw_hot": 106496,
@@ -31216,6 +31296,14 @@
       "word": "哥伦布机员2比3迈阿密国际",
       "onboard_time": 1727923037,
       "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 98397,
+      "num": 98397,
+      "word": "武磊打了两针封闭",
+      "onboard_time": 1728814819,
+      "rank": 49,
       "category": "体育"
     },
     {

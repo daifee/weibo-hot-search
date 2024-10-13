@@ -1,0 +1,410 @@
+{
+  "runTime": 1728814890930,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1265752,
+        "num": 1265752,
+        "word": "李佳琦红包",
+        "onboard_time": 1728812839,
+        "rank": 0,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 698422,
+        "num": 698422,
+        "word": "郑钦文vs萨巴伦卡",
+        "onboard_time": 1728810439,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 23082,
+        "num": 676540,
+        "word": "神十九10月下旬发射",
+        "onboard_time": 1728807258,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 667555,
+        "num": 667555,
+        "word": "许昕因伤退赛",
+        "onboard_time": 1728807018,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 654469,
+        "num": 654469,
+        "word": "乐华首次公开艺人KPI业绩",
+        "onboard_time": 1728813619,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 605967,
+        "num": 605967,
+        "word": "快递员寄出3万黄金后警觉报警",
+        "onboard_time": 1728809360,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 585340,
+        "num": 585340,
+        "word": "陈梦谈最近国外乒乓小将崛起",
+        "onboard_time": 1728808099,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 564073,
+        "num": 564073,
+        "word": "家属哭诉6岁孙女住院输液时去世",
+        "onboard_time": 1728813080,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 508157,
+        "num": 508157,
+        "word": "原来冰墩墩原型是奥组委疯狂暗示的",
+        "onboard_time": 1728802939,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 421335,
+        "num": 421335,
+        "word": "预制风还是吹到了婚礼圈",
+        "onboard_time": 1728788958,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 809789,
+        "num": 415079,
+        "word": "饭圈大粉诈骗粉丝300余万元",
+        "onboard_time": 1728805579,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 722152,
+        "num": 404334,
+        "word": "向佐回复费曼",
+        "onboard_time": 1728811519,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 492852,
+        "num": 388593,
+        "word": "90后小伙炒股4天亏损32万",
+        "onboard_time": 1728803958,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 465694,
+        "num": 358508,
+        "word": "比伯yummy mv",
+        "onboard_time": 1728810439,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 357352,
+        "num": 357352,
+        "word": "林诗栋张本智和争冠",
+        "onboard_time": 1728805460,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 336309,
+        "num": 336309,
+        "word": "为什么金价狂飙却不香了",
+        "onboard_time": 1728812419,
+        "rank": 15,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 291131,
+        "num": 291131,
+        "word": "费曼模仿向佐",
+        "onboard_time": 1728805760,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 245874,
+        "num": 245874,
+        "word": "陈都灵丞磊生图",
+        "onboard_time": 1728814159,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 237529,
+        "num": 237529,
+        "word": "刘雯重返维密秀",
+        "onboard_time": 1728807501,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192043,
+        "num": 235857,
+        "word": "郑钦文破发",
+        "onboard_time": 1728814280,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 492749,
+        "num": 229539,
+        "word": "情侣捡到老人手机用免密支付买黄金",
+        "onboard_time": 1728810859,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 284067,
+        "num": 219919,
+        "word": "吹牛老爹 贾斯汀比伯",
+        "onboard_time": 1728802640,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 244464,
+        "num": 211734,
+        "word": "资助了5年的女孩悄悄给我转钱",
+        "onboard_time": 1728808219,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 210075,
+        "num": 210075,
+        "word": "91岁母亲看望病重儿子后儿子离世",
+        "onboard_time": 1728812359,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209523,
+        "num": 209523,
+        "word": "萧敬腾林有慧婚礼",
+        "onboard_time": 1728795260,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168543,
+        "num": 208981,
+        "word": "进口的阿奇霉素去哪了",
+        "onboard_time": 1728809839,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 193320,
+        "num": 208374,
+        "word": "韩方回应若构成威胁朝鲜政权将终结",
+        "onboard_time": 1728811640,
+        "rank": 26,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 165113,
+        "num": 206851,
+        "word": "杨紫鲨鱼裤穿搭",
+        "onboard_time": 1728794358,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 146754,
+        "num": 206230,
+        "word": "刘学义谈给妈妈换肾",
+        "onboard_time": 1728800840,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127637,
+        "num": 205549,
+        "word": "年轻的战场有王一博",
+        "onboard_time": 1728808039,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 204925,
+        "num": 204925,
+        "word": "百万网红脑溢血后多人骗粉丝募捐",
+        "onboard_time": 1728802878,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200394,
+        "num": 200394,
+        "word": "郑钦文0比1落后萨巴伦卡",
+        "onboard_time": 1728814040,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 174651,
+        "num": 174651,
+        "word": "成都一燃油车在空地上燃爆",
+        "onboard_time": 1728808099,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172037,
+        "num": 172037,
+        "word": "隔夜水出现了透明螺旋物",
+        "onboard_time": 1728805818,
+        "rank": 33,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 167735,
+        "num": 167735,
+        "word": "两民警均索要差旅费",
+        "onboard_time": 1728809060,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166838,
+        "num": 166838,
+        "word": "男子路边佯装撸猫突然将其摔死",
+        "onboard_time": 1728792319,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166707,
+        "num": 166707,
+        "word": "东部战区随时能战",
+        "onboard_time": 1728795979,
+        "rank": 36,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 142650,
+        "num": 142650,
+        "word": "欧豪染了奶奶灰",
+        "onboard_time": 1728810319,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137900,
+        "num": 137900,
+        "word": "东北雨姐道歉网友为何不买账",
+        "onboard_time": 1728813920,
+        "rank": 38,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 135130,
+        "num": 135130,
+        "word": "女子诈骗150万后整容潜逃泰国被抓",
+        "onboard_time": 1728810260,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133541,
+        "num": 133541,
+        "word": "听孙颖莎导航完后主打一个自己翻地图",
+        "onboard_time": 1728808999,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127768,
+        "num": 127768,
+        "word": "生物科技公司气体中毒事故致7死4伤",
+        "onboard_time": 1728809958,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124685,
+        "num": 124685,
+        "word": "何炅喝黄磊做的辣味米稀",
+        "onboard_time": 1728787399,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119104,
+        "num": 119104,
+        "word": "撒哈拉沙漠发洪水",
+        "onboard_time": 1728814520,
+        "rank": 43,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 117139,
+        "num": 117139,
+        "word": "林诗栋18比16篠塚大登",
+        "onboard_time": 1728805939,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115055,
+        "num": 115055,
+        "word": "金色画卷在阿勒泰铺展开了",
+        "onboard_time": 1728811940,
+        "rank": 45,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 111117,
+        "num": 111117,
+        "word": "eStar对战WE",
+        "onboard_time": 1728811940,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 106528,
+        "num": 106528,
+        "word": "红薯和木薯到底有啥区别",
+        "onboard_time": 1728814760,
+        "rank": 47,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 99939,
+        "num": 99939,
+        "word": "郑钦文决赛前说把心态放稳",
+        "onboard_time": 1728810559,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 98397,
+        "num": 98397,
+        "word": "武磊打了两针封闭",
+        "onboard_time": 1728814819,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#感悟总书记的传统文化情结#"
+    }
+  }
+}
