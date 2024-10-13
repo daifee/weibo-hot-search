@@ -1,7 +1,15 @@
 {
   "startTime": 1728750414717,
-  "endTime": 1728814890930,
+  "endTime": 1728815946824,
   "band_list": [
+    {
+      "raw_hot": 3708701,
+      "num": 430438,
+      "word": "龚琳娜离婚",
+      "onboard_time": 1728815239,
+      "rank": 10,
+      "category": "艺人"
+    },
     {
       "raw_hot": 2725617,
       "num": 2725617,
@@ -163,6 +171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 910360,
+      "num": 1145657,
+      "word": "郑钦文vs萨巴伦卡",
+      "onboard_time": 1728810439,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 908357,
       "num": 908357,
       "word": "何炅喝黄磊做的辣味米稀",
@@ -243,6 +259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 754272,
+      "num": 754272,
+      "word": "乐华首次公开艺人KPI业绩",
+      "onboard_time": 1728813619,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 736981,
       "num": 472665,
       "word": "费曼模仿向佐",
@@ -257,14 +281,6 @@
       "onboard_time": 1728811519,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 698422,
-      "num": 698422,
-      "word": "郑钦文vs萨巴伦卡",
-      "onboard_time": 1728810439,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 693223,
@@ -297,14 +313,6 @@
       "onboard_time": 1728784638,
       "rank": 17,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 654469,
-      "num": 654469,
-      "word": "乐华首次公开艺人KPI业绩",
-      "onboard_time": 1728813619,
-      "rank": 4,
-      "category": "综艺"
     },
     {
       "raw_hot": 638140,
@@ -345,6 +353,14 @@
       "onboard_time": 1728741563,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 585979,
+      "num": 585979,
+      "word": "为什么金价狂飙却不香了",
+      "onboard_time": 1728812419,
+      "rank": 15,
+      "category": "财经"
     },
     {
       "raw_hot": 576928,
@@ -449,6 +465,14 @@
       "onboard_time": 1728797120,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 453012,
+      "num": 453012,
+      "word": "郑钦文破发",
+      "onboard_time": 1728814280,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 452421,
@@ -579,14 +603,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 336309,
-      "num": 336309,
-      "word": "为什么金价狂飙却不香了",
-      "onboard_time": 1728812419,
-      "rank": 15,
-      "category": "财经"
-    },
-    {
       "raw_hot": 320496,
       "num": 320496,
       "word": "张本智和vs吴晙诚",
@@ -707,6 +723,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 254685,
+      "num": 440198,
+      "word": "陈都灵丞磊生图",
+      "onboard_time": 1728814159,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 252868,
       "num": 252868,
       "word": "黄磊孙莉逛环球影城",
@@ -721,14 +745,6 @@
       "onboard_time": 1728810319,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 245874,
-      "num": 245874,
-      "word": "陈都灵丞磊生图",
-      "onboard_time": 1728814159,
-      "rank": 17,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 244812,
@@ -779,6 +795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 229145,
+      "num": 229145,
+      "word": "郑钦文0比1落后萨巴伦卡",
+      "onboard_time": 1728814040,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 228389,
       "num": 271963,
       "word": "赵露思说目前没有拍电影的打算",
@@ -808,6 +832,22 @@
       "word": "中国人的绝对色感惊艳了",
       "onboard_time": 1728796579,
       "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 225015,
+      "num": 225015,
+      "word": "赵露思工作室更新",
+      "onboard_time": 1728815301,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 223812,
+      "num": 223812,
+      "word": "91岁母亲看望病重儿子后儿子离世",
+      "onboard_time": 1728812359,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -891,12 +931,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 210075,
-      "num": 210075,
-      "word": "91岁母亲看望病重儿子后儿子离世",
-      "onboard_time": 1728812359,
-      "rank": 23,
-      "category": "社会新闻"
+      "raw_hot": 209401,
+      "num": 242398,
+      "word": "韩方回应若构成威胁朝鲜政权将终结",
+      "onboard_time": 1728811640,
+      "rank": 49,
+      "category": "国外时政"
     },
     {
       "raw_hot": 202904,
@@ -939,12 +979,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 200394,
-      "num": 200394,
-      "word": "郑钦文0比1落后萨巴伦卡",
-      "onboard_time": 1728814040,
-      "rank": 31,
-      "category": "体育"
+      "raw_hot": 199893,
+      "num": 199893,
+      "word": "檀健次手臂肌肉线条",
+      "onboard_time": 1728815180,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 198364,
@@ -1003,14 +1043,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 193320,
-      "num": 208374,
-      "word": "韩方回应若构成威胁朝鲜政权将终结",
-      "onboard_time": 1728811640,
-      "rank": 49,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 193152,
       "num": 313034,
       "word": "微博视界大会",
@@ -1041,14 +1073,6 @@
       "onboard_time": 1728797359,
       "rank": 28,
       "category": "演出"
-    },
-    {
-      "raw_hot": 192043,
-      "num": 235857,
-      "word": "郑钦文破发",
-      "onboard_time": 1728814280,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 191518,
@@ -1123,6 +1147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 181443,
+      "num": 181443,
+      "word": "催更曹雪芹",
+      "onboard_time": 1728815180,
+      "rank": 35,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 181329,
       "num": 181329,
       "word": "山西警方通报陌生女子当街抢孩子",
@@ -1180,7 +1212,7 @@
     },
     {
       "raw_hot": 168543,
-      "num": 208981,
+      "num": 224929,
       "word": "进口的阿奇霉素去哪了",
       "onboard_time": 1728809839,
       "rank": 38,
@@ -1192,6 +1224,14 @@
       "word": "两民警均索要差旅费",
       "onboard_time": 1728809060,
       "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 165510,
+      "num": 231364,
+      "word": "女子诈骗150万后整容潜逃泰国被抓",
+      "onboard_time": 1728810260,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -1217,14 +1257,6 @@
       "onboard_time": 1728739283,
       "rank": 19,
       "category": "网红"
-    },
-    {
-      "raw_hot": 163374,
-      "num": 163374,
-      "word": "女子诈骗150万后整容潜逃泰国被抓",
-      "onboard_time": 1728810260,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 163116,
@@ -1403,6 +1435,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 144488,
+      "num": 144488,
+      "word": "萨巴伦卡破发",
+      "onboard_time": 1728815120,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 144417,
+      "num": 144417,
+      "word": "东北雨姐道歉网友为何不买账",
+      "onboard_time": 1728813920,
+      "rank": 38,
+      "category": "网红"
+    },
+    {
       "raw_hot": 144177,
       "num": 144177,
       "word": "曹宝儿婚礼",
@@ -1489,14 +1537,6 @@
       "onboard_time": 1728794178,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 137900,
-      "num": 137900,
-      "word": "东北雨姐道歉网友为何不买账",
-      "onboard_time": 1728813920,
-      "rank": 38,
-      "category": "网红"
     },
     {
       "raw_hot": 137823,
@@ -1683,12 +1723,28 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 117933,
+      "num": 117933,
+      "word": "全网呼吁腾讯鸿蒙版微信放量",
+      "onboard_time": 1728815480,
+      "rank": 47,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 117718,
       "num": 117718,
       "word": "迪丽热巴回眸宿命感",
       "onboard_time": 1728780258,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 117640,
+      "num": 117640,
+      "word": "许昕赛前称力争取胜除非真坚持不了",
+      "onboard_time": 1728815720,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 116183,
@@ -1753,6 +1809,14 @@
       "onboard_time": 1728792319,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 113876,
+      "num": 113876,
+      "word": "SEVENTEEN高阳演唱会",
+      "onboard_time": 1728815841,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 112878,
@@ -1993,6 +2057,14 @@
       "onboard_time": 1728756913,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 92311,
+      "num": 204910,
+      "word": "郑钦文状态",
+      "onboard_time": 1728814939,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 91720,
@@ -2241,6 +2313,14 @@
       "onboard_time": 1728806238,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 48910,
+      "num": 184764,
+      "word": "北极赛凤凰组合混双冠军",
+      "onboard_time": 1728815059,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 48880,
