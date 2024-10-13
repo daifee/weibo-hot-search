@@ -1,6 +1,6 @@
 {
   "startTime": 1728836764624,
-  "endTime": 1728855312202,
+  "endTime": 1728858003422,
   "band_list": [
     {
       "raw_hot": 1525577,
@@ -435,6 +435,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 108521,
+      "num": 144718,
+      "word": "小伙捡到疑似手雷赶紧上交",
+      "onboard_time": 1728844392,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 107946,
       "num": 107946,
       "word": "短剧综艺",
@@ -459,12 +467,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 82103,
-      "num": 144718,
-      "word": "小伙捡到疑似手雷赶紧上交",
-      "onboard_time": 1728844392,
-      "rank": 10,
-      "category": "社会新闻"
+      "raw_hot": 64774,
+      "num": 64774,
+      "word": "律师称雨姐带货油污净或赔偿过亿",
+      "onboard_time": 1728856271,
+      "rank": 21,
+      "category": "网红"
     },
     {
       "raw_hot": 62194,
@@ -539,6 +547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 35387,
+      "num": 35387,
+      "word": "中国空间站将迎来神舟十九号乘组",
+      "onboard_time": 1728854712,
+      "rank": 36,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 33958,
       "num": 43946,
       "word": "成都通报一燃油车发生燃爆",
@@ -555,7 +571,15 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 26641,
+      "raw_hot": 29399,
+      "num": 38714,
+      "word": "神十八乘组精心照料太空菜园",
+      "onboard_time": 1728854591,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 28273,
       "num": 57780,
       "word": "独库公路为何1年封闭8个月",
       "onboard_time": 1728850391,
@@ -563,8 +587,16 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 24811,
-      "num": 24811,
+      "raw_hot": 28090,
+      "num": 44690,
+      "word": "过期大米换装再卖追责一个都不能少",
+      "onboard_time": 1728853871,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 26135,
+      "num": 26135,
       "word": "韩方回应若构成威胁朝鲜政权将终结",
       "onboard_time": 1728811640,
       "rank": 44,
@@ -595,27 +627,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 19398,
-      "num": 44260,
-      "word": "过期大米换装再卖追责一个都不能少",
-      "onboard_time": 1728853871,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 18136,
-      "num": 38714,
-      "word": "神十八乘组精心照料太空菜园",
-      "onboard_time": 1728854591,
-      "rank": 19,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 14165,
       "num": 35144,
       "word": "官方回应贵州王乃山突发山火",
       "onboard_time": 1728847451,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 11685,
+      "num": 73508,
+      "word": "文化中国行文博日历",
+      "onboard_time": 1728857772,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
