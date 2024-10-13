@@ -1,6 +1,6 @@
 {
   "startTime": 1728750414717,
-  "endTime": 1728808819452,
+  "endTime": 1728811334419,
   "band_list": [
     {
       "raw_hot": 2725617,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 2399223,
-      "num": 370814,
+      "num": 468753,
       "word": "饭圈大粉诈骗粉丝300余万元",
       "onboard_time": 1728805579,
       "rank": 10,
@@ -100,7 +100,7 @@
     },
     {
       "raw_hot": 1065108,
-      "num": 369632,
+      "num": 452633,
       "word": "90后小伙炒股4天亏损32万",
       "onboard_time": 1728803958,
       "rank": 13,
@@ -112,6 +112,14 @@
       "word": "国乒一天之内输了十场",
       "onboard_time": 1728792918,
       "rank": 20,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 956396,
+      "num": 956396,
+      "word": "陈梦谈最近国外乒乓小将崛起",
+      "onboard_time": 1728808099,
+      "rank": 15,
       "category": "体育"
     },
     {
@@ -219,8 +227,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 707638,
-      "num": 368852,
+      "raw_hot": 736981,
+      "num": 459176,
       "word": "费曼模仿向佐",
       "onboard_time": 1728805760,
       "rank": 12,
@@ -332,7 +340,7 @@
     },
     {
       "raw_hot": 554149,
-      "num": 371369,
+      "num": 432878,
       "word": "吹牛老爹 贾斯汀比伯",
       "onboard_time": 1728802640,
       "rank": 21,
@@ -387,12 +395,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 439255,
+      "num": 439255,
+      "word": "成都一燃油车在空地上燃爆",
+      "onboard_time": 1728808099,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 438734,
       "num": 273934,
       "word": "B太回应曾夸东北雨姐真实",
       "onboard_time": 1728736760,
       "rank": 17,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 438175,
+      "num": 438175,
+      "word": "郑钦文vs萨巴伦卡",
+      "onboard_time": 1728810439,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 434997,
@@ -435,6 +459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 404325,
+      "num": 486839,
+      "word": "快递员寄出3万黄金后警觉报警",
+      "onboard_time": 1728809360,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 391122,
       "num": 391122,
       "word": "林诗栋vs篠塚大登",
@@ -449,14 +481,6 @@
       "onboard_time": 1728789918,
       "rank": 38,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 380478,
-      "num": 365947,
-      "word": "陈梦谈最近国外乒乓小将崛起",
-      "onboard_time": 1728808099,
-      "rank": 15,
-      "category": "体育"
     },
     {
       "raw_hot": 353764,
@@ -489,6 +513,14 @@
       "onboard_time": 1728736700,
       "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 344120,
+      "num": 294665,
+      "word": "资助了5年的女孩悄悄给我转钱",
+      "onboard_time": 1728808219,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 337910,
@@ -627,6 +659,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 242056,
+      "num": 498923,
+      "word": "年轻的战场有王一博",
+      "onboard_time": 1728808039,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 238042,
+      "num": 188818,
+      "word": "比伯yummy mv",
+      "onboard_time": 1728810439,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 237782,
       "num": 296916,
       "word": "你好星期六全员穿越80年代",
@@ -673,6 +721,14 @@
       "onboard_time": 1728796579,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 225299,
+      "num": 225299,
+      "word": "欧豪染了奶奶灰",
+      "onboard_time": 1728810319,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 225162,
@@ -763,6 +819,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 202953,
+      "num": 314736,
+      "word": "刘雯重返维密秀",
+      "onboard_time": 1728807501,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 202904,
       "num": 330723,
       "word": "TOP登陆少年爆改",
@@ -800,14 +864,6 @@
       "word": "宋亚轩强到对手背后蛐蛐",
       "onboard_time": 1728800539,
       "rank": 31,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 199264,
-      "num": 330669,
-      "word": "年轻的战场有王一博",
-      "onboard_time": 1728808039,
-      "rank": 19,
       "category": "综艺"
     },
     {
@@ -907,6 +963,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 191416,
+      "num": 191416,
+      "word": "情侣捡到老人手机用免密支付买黄金",
+      "onboard_time": 1728810859,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 189776,
       "num": 189776,
       "word": "甄芙传",
@@ -929,6 +993,14 @@
       "onboard_time": 1728805277,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 188709,
+      "num": 188709,
+      "word": "听孙颖莎导航完后主打一个自己翻地图",
+      "onboard_time": 1728808999,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 188423,
@@ -1043,6 +1115,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 163374,
+      "num": 163374,
+      "word": "女子诈骗150万后整容潜逃泰国被抓",
+      "onboard_time": 1728810260,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 163116,
       "num": 182443,
       "word": "徐若晗钓系永远的姐",
@@ -1147,6 +1227,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 152908,
+      "num": 152908,
+      "word": "两民警均索要差旅费",
+      "onboard_time": 1728809060,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 151802,
       "num": 151802,
       "word": "花傲天OB秋决",
@@ -1219,14 +1307,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 144482,
-      "num": 144482,
-      "word": "资助了5年的女孩悄悄给我转钱",
-      "onboard_time": 1728808219,
-      "rank": 42,
-      "category": "情感"
-    },
-    {
       "raw_hot": 143473,
       "num": 187373,
       "word": "罗慎远眼神拉丝",
@@ -1283,6 +1363,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 140204,
+      "num": 140204,
+      "word": "曹宝儿婚礼",
+      "onboard_time": 1728810800,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 139420,
+      "num": 139420,
+      "word": "郑钦文决赛前说把心态放稳",
+      "onboard_time": 1728810559,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 138325,
       "num": 138325,
       "word": "鲜菜价格上涨22.9%",
@@ -1313,6 +1409,14 @@
       "onboard_time": 1728744622,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 133999,
+      "num": 133999,
+      "word": "进口的阿奇霉素去哪了",
+      "onboard_time": 1728809839,
+      "rank": 38,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 133450,
@@ -1435,20 +1539,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 120458,
-      "num": 371920,
-      "word": "成都一燃油车在空地上燃爆",
-      "onboard_time": 1728808099,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 120347,
       "num": 120347,
       "word": "SEVENTEEN演唱会着火",
       "onboard_time": 1728729859,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 119244,
+      "num": 119244,
+      "word": "万妮达陈昊宇看到1.6的反应",
+      "onboard_time": 1728809419,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 117718,
@@ -1465,6 +1569,14 @@
       "onboard_time": 1728807618,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 116072,
+      "num": 116072,
+      "word": "生物科技公司气体中毒事故致7死4伤",
+      "onboard_time": 1728809958,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 115801,
@@ -1561,6 +1673,14 @@
       "onboard_time": 1728784218,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 108834,
+      "num": 108834,
+      "word": "绑架游戏全员妍珍",
+      "onboard_time": 1728810619,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 108260,
@@ -1907,14 +2027,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 59403,
-      "num": 314736,
-      "word": "刘雯重返维密秀",
-      "onboard_time": 1728807501,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 59044,
       "num": 59044,
       "word": "直播间一眼假的名家字画谁在买",
@@ -2083,6 +2195,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 31728,
+      "num": 122826,
+      "word": "攻略还没做双11就来了",
+      "onboard_time": 1728810379,
+      "rank": 42,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 31579,
+      "num": 935112,
+      "word": "神十九10月下旬发射",
+      "onboard_time": 1728807258,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 29886,
       "num": 40991,
       "word": "一个真虎一个真是虎",
@@ -2096,14 +2224,6 @@
       "word": "46名老人买神药被骗仅1人报警",
       "onboard_time": 1728766091,
       "rank": 25,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 27978,
-      "num": 935112,
-      "word": "神十九10月下旬发射",
-      "onboard_time": 1728807258,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -2161,6 +2281,14 @@
       "onboard_time": 1728783198,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 19278,
+      "num": 295359,
+      "word": "Hiro山本舞香结婚",
+      "onboard_time": 1728810919,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 18901,

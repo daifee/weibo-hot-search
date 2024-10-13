@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1728808819452,
+  "endTime": 1728811334419,
   "band_list": [
     {
       "raw_hot": 13027302,
@@ -340,7 +340,7 @@
     },
     {
       "raw_hot": 2399223,
-      "num": 370814,
+      "num": 468753,
       "word": "饭圈大粉诈骗粉丝300余万元",
       "onboard_time": 1728805579,
       "rank": 10,
@@ -2052,7 +2052,7 @@
     },
     {
       "raw_hot": 1065108,
-      "num": 369632,
+      "num": 452633,
       "word": "90后小伙炒股4天亏损32万",
       "onboard_time": 1728803958,
       "rank": 13,
@@ -2697,6 +2697,14 @@
       "onboard_time": 1728392240,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 956396,
+      "num": 956396,
+      "word": "陈梦谈最近国外乒乓小将崛起",
+      "onboard_time": 1728808099,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 954492,
@@ -4131,6 +4139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 736981,
+      "num": 459176,
+      "word": "费曼模仿向佐",
+      "onboard_time": 1728805760,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 736882,
       "num": 736882,
       "word": "浙B3N922做完好事就悄悄离开了",
@@ -4329,14 +4345,6 @@
       "onboard_time": 1727844858,
       "rank": 25,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 707638,
-      "num": 368852,
-      "word": "费曼模仿向佐",
-      "onboard_time": 1728805760,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 707299,
@@ -6116,7 +6124,7 @@
     },
     {
       "raw_hot": 554149,
-      "num": 371369,
+      "num": 432878,
       "word": "吹牛老爹 贾斯汀比伯",
       "onboard_time": 1728802640,
       "rank": 21,
@@ -7891,12 +7899,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 439255,
+      "num": 439255,
+      "word": "成都一燃油车在空地上燃爆",
+      "onboard_time": 1728808099,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 439253,
       "num": 311248,
       "word": "为什么不吃米面体重很快会降",
       "onboard_time": 1728173116,
       "rank": 11,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 438175,
+      "num": 438175,
+      "word": "郑钦文vs萨巴伦卡",
+      "onboard_time": 1728810439,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 437962,
@@ -8475,6 +8499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 404325,
+      "num": 486839,
+      "word": "快递员寄出3万黄金后警觉报警",
+      "onboard_time": 1728809360,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 403365,
       "num": 403365,
       "word": "春花焰定档",
@@ -8993,14 +9025,6 @@
       "onboard_time": 1728718219,
       "rank": 29,
       "category": "财经"
-    },
-    {
-      "raw_hot": 380478,
-      "num": 365947,
-      "word": "陈梦谈最近国外乒乓小将崛起",
-      "onboard_time": 1728808099,
-      "rank": 15,
-      "category": "体育"
     },
     {
       "raw_hot": 379622,
@@ -9913,6 +9937,14 @@
       "onboard_time": 1728707061,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 344120,
+      "num": 294665,
+      "word": "资助了5年的女孩悄悄给我转钱",
+      "onboard_time": 1728808219,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 344037,
@@ -14075,6 +14107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 242056,
+      "num": 498923,
+      "word": "年轻的战场有王一博",
+      "onboard_time": 1728808039,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 241900,
       "num": 241900,
       "word": "第五人格黯",
@@ -14289,6 +14329,14 @@
       "onboard_time": 1727778560,
       "rank": 22,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 238042,
+      "num": 188818,
+      "word": "比伯yummy mv",
+      "onboard_time": 1728810439,
+      "rank": 30,
+      "category": "音乐"
     },
     {
       "raw_hot": 237926,
@@ -15105,6 +15153,14 @@
       "onboard_time": 1728444860,
       "rank": 38,
       "category": "教育"
+    },
+    {
+      "raw_hot": 225299,
+      "num": 225299,
+      "word": "欧豪染了奶奶灰",
+      "onboard_time": 1728810319,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 225162,
@@ -16995,6 +17051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 202953,
+      "num": 314736,
+      "word": "刘雯重返维密秀",
+      "onboard_time": 1728807501,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 202934,
       "num": 388896,
       "word": "4S店回应迈巴赫漏水用雨布封顶",
@@ -17481,14 +17545,6 @@
       "onboard_time": 1728018439,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 199264,
-      "num": 330669,
-      "word": "年轻的战场有王一博",
-      "onboard_time": 1728808039,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 198972,
@@ -18651,6 +18707,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 191416,
+      "num": 191416,
+      "word": "情侣捡到老人手机用免密支付买黄金",
+      "onboard_time": 1728810859,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 191388,
       "num": 191388,
       "word": "柔佛新山vs上海申花",
@@ -19065,6 +19129,14 @@
       "onboard_time": 1727750658,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 188709,
+      "num": 188709,
+      "word": "听孙颖莎导航完后主打一个自己翻地图",
+      "onboard_time": 1728808999,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 188691,
@@ -22067,6 +22139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 163374,
+      "num": 163374,
+      "word": "女子诈骗150万后整容潜逃泰国被抓",
+      "onboard_time": 1728810260,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 163272,
       "num": 163272,
       "word": "女子推理社全员合照",
@@ -23603,6 +23683,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 152908,
+      "num": 152908,
+      "word": "两民警均索要差旅费",
+      "onboard_time": 1728809060,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 152906,
       "num": 152906,
       "word": "TVB拍的名媛培训班",
@@ -24771,14 +24859,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 144482,
-      "num": 144482,
-      "word": "资助了5年的女孩悄悄给我转钱",
-      "onboard_time": 1728808219,
-      "rank": 42,
-      "category": "情感"
-    },
-    {
       "raw_hot": 144460,
       "num": 296069,
       "word": "假期余额只剩3天",
@@ -25379,6 +25459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 140204,
+      "num": 140204,
+      "word": "曹宝儿婚礼",
+      "onboard_time": 1728810800,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 140163,
       "num": 140163,
       "word": "花少 宋茜导游",
@@ -25472,6 +25560,14 @@
       "word": "郑钦文逆转太精彩了",
       "onboard_time": 1728555978,
       "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 139420,
+      "num": 139420,
+      "word": "郑钦文决赛前说把心态放稳",
+      "onboard_time": 1728810559,
+      "rank": 36,
       "category": "体育"
     },
     {
@@ -26281,6 +26377,14 @@
       "onboard_time": 1727786240,
       "rank": 13,
       "category": "电影"
+    },
+    {
+      "raw_hot": 133999,
+      "num": 133999,
+      "word": "进口的阿奇霉素去哪了",
+      "onboard_time": 1728809839,
+      "rank": 38,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 133993,
@@ -28219,14 +28323,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 120458,
-      "num": 371920,
-      "word": "成都一燃油车在空地上燃爆",
-      "onboard_time": 1728808099,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 120410,
       "num": 120410,
       "word": "刘烨演技",
@@ -28353,6 +28449,14 @@
       "onboard_time": 1728567859,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 119244,
+      "num": 119244,
+      "word": "万妮达陈昊宇看到1.6的反应",
+      "onboard_time": 1728809419,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 119144,
@@ -28753,6 +28857,14 @@
       "onboard_time": 1727941997,
       "rank": 34,
       "category": "美食,社会新闻"
+    },
+    {
+      "raw_hot": 116072,
+      "num": 116072,
+      "word": "生物科技公司气体中毒事故致7死4伤",
+      "onboard_time": 1728809958,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 116042,
@@ -29753,6 +29865,14 @@
       "onboard_time": 1728276798,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 108834,
+      "num": 108834,
+      "word": "绑架游戏全员妍珍",
+      "onboard_time": 1728810619,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 108783,
@@ -34123,14 +34243,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 59403,
-      "num": 314736,
-      "word": "刘雯重返维密秀",
-      "onboard_time": 1728807501,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 59320,
       "num": 188584,
       "word": "87岁院士仍活跃在数学教研一线",
@@ -37027,12 +37139,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 31728,
+      "num": 122826,
+      "word": "攻略还没做双11就来了",
+      "onboard_time": 1728810379,
+      "rank": 42,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 31600,
       "num": 961637,
       "word": "太空视角看日新月异的中国",
       "onboard_time": 1727793621,
       "rank": 8,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 31579,
+      "num": 935112,
+      "word": "神十九10月下旬发射",
+      "onboard_time": 1728807258,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 31526,
@@ -37537,14 +37665,6 @@
       "onboard_time": 1728582792,
       "rank": 49,
       "category": "演出,体育"
-    },
-    {
-      "raw_hot": 27978,
-      "num": 935112,
-      "word": "神十九10月下旬发射",
-      "onboard_time": 1728807258,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 27939,
@@ -38601,6 +38721,14 @@
       "onboard_time": 1728326412,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 19278,
+      "num": 295359,
+      "word": "Hiro山本舞香结婚",
+      "onboard_time": 1728810919,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 19251,

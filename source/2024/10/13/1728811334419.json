@@ -1,0 +1,410 @@
+{
+  "runTime": 1728811334419,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1296214,
+        "num": 1296214,
+        "word": "许昕因伤退赛",
+        "onboard_time": 1728807018,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 956396,
+        "num": 956396,
+        "word": "陈梦谈最近国外乒乓小将崛起",
+        "onboard_time": 1728808099,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 31579,
+        "num": 907340,
+        "word": "神十九10月下旬发射",
+        "onboard_time": 1728807258,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 906214,
+        "num": 906214,
+        "word": "原来冰墩墩原型是奥组委疯狂暗示的",
+        "onboard_time": 1728802939,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 596079,
+        "num": 596079,
+        "word": "林诗栋张本智和争冠",
+        "onboard_time": 1728805460,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 542472,
+        "num": 542472,
+        "word": "预制风还是吹到了婚礼圈",
+        "onboard_time": 1728788958,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 525238,
+        "num": 525238,
+        "word": "百万网红脑溢血后多人骗粉丝募捐",
+        "onboard_time": 1728802878,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 326465,
+        "num": 524883,
+        "word": "杨紫鲨鱼裤穿搭",
+        "onboard_time": 1728794358,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 242056,
+        "num": 498923,
+        "word": "年轻的战场有王一博",
+        "onboard_time": 1728808039,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 404325,
+        "num": 486839,
+        "word": "快递员寄出3万黄金后警觉报警",
+        "onboard_time": 1728809360,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2048645,
+        "num": 468753,
+        "word": "饭圈大粉诈骗粉丝300余万元",
+        "onboard_time": 1728805579,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 736981,
+        "num": 459176,
+        "word": "费曼模仿向佐",
+        "onboard_time": 1728805760,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 719966,
+        "num": 452633,
+        "word": "90后小伙炒股4天亏损32万",
+        "onboard_time": 1728803958,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 439255,
+        "num": 439255,
+        "word": "成都一燃油车在空地上燃爆",
+        "onboard_time": 1728808099,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 438175,
+        "num": 438175,
+        "word": "郑钦文vs萨巴伦卡",
+        "onboard_time": 1728810439,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 432878,
+        "num": 432878,
+        "word": "吹牛老爹 贾斯汀比伯",
+        "onboard_time": 1728802640,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 354442,
+        "num": 354442,
+        "word": "男子路边佯装撸猫突然将其摔死",
+        "onboard_time": 1728792319,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 314800,
+        "num": 314800,
+        "word": "萧敬腾林有慧婚礼",
+        "onboard_time": 1728795260,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 241545,
+        "num": 298445,
+        "word": "刘学义谈给妈妈换肾",
+        "onboard_time": 1728800840,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19278,
+        "num": 295359,
+        "word": "Hiro山本舞香结婚",
+        "onboard_time": 1728810919,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 344120,
+        "num": 294665,
+        "word": "资助了5年的女孩悄悄给我转钱",
+        "onboard_time": 1728808219,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 292341,
+        "num": 292341,
+        "word": "隔夜水出现了透明螺旋物",
+        "onboard_time": 1728805818,
+        "rank": 21,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 282454,
+        "num": 282454,
+        "word": "东部战区随时能战",
+        "onboard_time": 1728795979,
+        "rank": 22,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 225634,
+        "num": 225634,
+        "word": "被胡冰卿一抬眼吓到了",
+        "onboard_time": 1728806540,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 202953,
+        "num": 225439,
+        "word": "刘雯重返维密秀",
+        "onboard_time": 1728807501,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 225299,
+        "num": 225299,
+        "word": "欧豪染了奶奶灰",
+        "onboard_time": 1728810319,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209710,
+        "num": 209710,
+        "word": "林诗栋18比16篠塚大登",
+        "onboard_time": 1728805939,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 191416,
+        "num": 191416,
+        "word": "情侣捡到老人手机用免密支付买黄金",
+        "onboard_time": 1728810859,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163898,
+        "num": 189079,
+        "word": "赖美云淘汰",
+        "onboard_time": 1728799998,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134710,
+        "num": 188843,
+        "word": "范丞丞卢昱晓歪头杀",
+        "onboard_time": 1728806059,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 238042,
+        "num": 188818,
+        "word": "比伯yummy mv",
+        "onboard_time": 1728810439,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 188709,
+        "num": 188709,
+        "word": "听孙颖莎导航完后主打一个自己翻地图",
+        "onboard_time": 1728808999,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 186987,
+        "num": 186987,
+        "word": "于正说和赵丽颖杨幂都有联系",
+        "onboard_time": 1728797120,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163374,
+        "num": 163374,
+        "word": "女子诈骗150万后整容潜逃泰国被抓",
+        "onboard_time": 1728810260,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152908,
+        "num": 152908,
+        "word": "两民警均索要差旅费",
+        "onboard_time": 1728809060,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140204,
+        "num": 140204,
+        "word": "曹宝儿婚礼",
+        "onboard_time": 1728810800,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139420,
+        "num": 139420,
+        "word": "郑钦文决赛前说把心态放稳",
+        "onboard_time": 1728810559,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136488,
+        "num": 136488,
+        "word": "日本组合包揽女双冠亚军",
+        "onboard_time": 1728804017,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133999,
+        "num": 133999,
+        "word": "进口的阿奇霉素去哪了",
+        "onboard_time": 1728809839,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 131463,
+        "num": 131463,
+        "word": "TOP登陆少年爆改",
+        "onboard_time": 1728807918,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 125344,
+        "num": 125344,
+        "word": "爸爸跑步留老大照顾老二结果都丢了",
+        "onboard_time": 1728787819,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123869,
+        "num": 123869,
+        "word": "我们的孩子死了家被炸毁了",
+        "onboard_time": 1728786258,
+        "rank": 41,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 31728,
+        "num": 122826,
+        "word": "攻略还没做双11就来了",
+        "onboard_time": 1728810379,
+        "rank": 42,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 122736,
+        "num": 122736,
+        "word": "肖战全黑套装",
+        "onboard_time": 1728795139,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 119244,
+        "num": 119244,
+        "word": "万妮达陈昊宇看到1.6的反应",
+        "onboard_time": 1728809419,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116503,
+        "num": 116503,
+        "word": "山西警方通报陌生女子当街抢孩子",
+        "onboard_time": 1728806418,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116454,
+        "num": 116454,
+        "word": "健身达人肚子里跟普通人有什么不同",
+        "onboard_time": 1728804017,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 116072,
+        "num": 116072,
+        "word": "生物科技公司气体中毒事故致7死4伤",
+        "onboard_time": 1728809958,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108834,
+        "num": 108834,
+        "word": "绑架游戏全员妍珍",
+        "onboard_time": 1728810619,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 111977,
+        "num": 108366,
+        "word": "最萌身高差老夫妻雨后牵手散步",
+        "onboard_time": 1728806959,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#感悟总书记的传统文化情结#"
+    }
+  }
+}
