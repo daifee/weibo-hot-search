@@ -1,0 +1,410 @@
+{
+  "runTime": 1728801785039,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1272778,
+        "num": 1272778,
+        "word": "预制风还是吹到了婚礼圈",
+        "onboard_time": 1728788958,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 732494,
+        "num": 732494,
+        "word": "东部战区随时能战",
+        "onboard_time": 1728795979,
+        "rank": 1,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 32752,
+        "num": 611649,
+        "word": "首届中国广播电视精品创作大会",
+        "onboard_time": 1728790098,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 606036,
+        "num": 606036,
+        "word": "许昕1天2战左臂出现反应",
+        "onboard_time": 1728796039,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 544372,
+        "num": 544372,
+        "word": "赖美云淘汰",
+        "onboard_time": 1728799998,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 503412,
+        "num": 503412,
+        "word": "杨紫鲨鱼裤穿搭",
+        "onboard_time": 1728794358,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 494892,
+        "num": 494892,
+        "word": "我们的孩子死了家被炸毁了",
+        "onboard_time": 1728786258,
+        "rank": 6,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 371230,
+        "num": 371230,
+        "word": "陈幸同蒯曼VS大藤沙月横井呋樱",
+        "onboard_time": 1728796219,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 332630,
+        "num": 370641,
+        "word": "何炅喝黄磊做的辣味米稀",
+        "onboard_time": 1728787399,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109419,
+        "num": 369122,
+        "word": "小孩卡喉退伍军人停车飞奔救人",
+        "onboard_time": 1728799459,
+        "rank": 9,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 524353,
+        "num": 368249,
+        "word": "男子路边佯装撸猫突然将其摔死",
+        "onboard_time": 1728792319,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 520988,
+        "num": 365667,
+        "word": "萧敬腾林有慧婚礼",
+        "onboard_time": 1728795260,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 473128,
+        "num": 365304,
+        "word": "于正说和赵丽颖杨幂都有联系",
+        "onboard_time": 1728797120,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 387472,
+        "num": 363021,
+        "word": "爸爸跑步留老大照顾老二结果都丢了",
+        "onboard_time": 1728787819,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 362502,
+        "num": 362502,
+        "word": "吹牛老爹",
+        "onboard_time": 1728798198,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 356454,
+        "num": 356454,
+        "word": "刘学义谈给妈妈换肾",
+        "onboard_time": 1728800840,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 313038,
+        "num": 313038,
+        "word": "丁真提出的增殖放流获得全票通过",
+        "onboard_time": 1728792618,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 80951,
+        "num": 313034,
+        "word": "微博视界大会",
+        "onboard_time": 1728795740,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 355473,
+        "num": 311844,
+        "word": "景德镇车祸肇事方提出养老换谅解",
+        "onboard_time": 1728779057,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 56891,
+        "num": 311211,
+        "word": "秦晓鸥 出走的决心",
+        "onboard_time": 1728801439,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1269312,
+        "num": 310604,
+        "word": "小巷贱人",
+        "onboard_time": 1728798739,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 602327,
+        "num": 309656,
+        "word": "国乒一天之内输了十场",
+        "onboard_time": 1728792918,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 309329,
+        "num": 309329,
+        "word": "林诗栋冲击三冠王",
+        "onboard_time": 1728800479,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 272948,
+        "num": 272948,
+        "word": "王爷 美人要跟别人成亲了",
+        "onboard_time": 1728799939,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 263421,
+        "num": 263421,
+        "word": "东部战区发布最新战训视频",
+        "onboard_time": 1728791299,
+        "rank": 24,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 252868,
+        "num": 252868,
+        "word": "黄磊孙莉逛环球影城",
+        "onboard_time": 1728800779,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 241726,
+        "num": 241726,
+        "word": "张本智和vs吴晙诚",
+        "onboard_time": 1728798139,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 217677,
+        "num": 217677,
+        "word": "原来100天真能做成一件伟大的事",
+        "onboard_time": 1728800539,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203021,
+        "num": 203021,
+        "word": "东北雨姐明知红薯粉成分问题",
+        "onboard_time": 1728780557,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201766,
+        "num": 201766,
+        "word": "中国人的绝对色感惊艳了",
+        "onboard_time": 1728796579,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200777,
+        "num": 200777,
+        "word": "宋亚轩强到对手背后蛐蛐",
+        "onboard_time": 1728800539,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169713,
+        "num": 169713,
+        "word": "陈幸同蒯曼无缘女双决赛",
+        "onboard_time": 1728798080,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 163610,
+        "num": 163610,
+        "word": "浙江一公办幼儿园开出乳儿班",
+        "onboard_time": 1728789739,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162190,
+        "num": 162190,
+        "word": "韩安冉学名媛",
+        "onboard_time": 1728801320,
+        "rank": 33,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 159867,
+        "num": 159867,
+        "word": "甄芙传",
+        "onboard_time": 1728797719,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156330,
+        "num": 156330,
+        "word": "狗主人甚至还提了水果来赎身",
+        "onboard_time": 1728792380,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 152444,
+        "num": 152444,
+        "word": "徐菲向节目组投诉徐锦江",
+        "onboard_time": 1728796579,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149480,
+        "num": 149480,
+        "word": "官方通报小男孩凌晨捡瓶子被偶遇",
+        "onboard_time": 1728795558,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142884,
+        "num": 142884,
+        "word": "严浩翔拒绝毒奶",
+        "onboard_time": 1728800359,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137645,
+        "num": 137645,
+        "word": "章昊费加罗清冷少年高定封面",
+        "onboard_time": 1728801259,
+        "rank": 39,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 137633,
+        "num": 137633,
+        "word": "晚宴上的虞书欣",
+        "onboard_time": 1728796699,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134827,
+        "num": 134827,
+        "word": "肖战全黑套装",
+        "onboard_time": 1728795139,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 131587,
+        "num": 131587,
+        "word": "陈幸同蒯曼0比3大藤沙月横井咲樱",
+        "onboard_time": 1728798739,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127134,
+        "num": 127134,
+        "word": "32岁网红下播后突发脑出血进ICU",
+        "onboard_time": 1728786378,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122490,
+        "num": 122490,
+        "word": "马嘉祺好像混入后台的观众",
+        "onboard_time": 1728800061,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114857,
+        "num": 114857,
+        "word": "光与夜之恋校园卡",
+        "onboard_time": 1728801380,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 113319,
+        "num": 113319,
+        "word": "迪丽热巴美得像洋娃娃",
+        "onboard_time": 1728789918,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 112885,
+        "num": 112885,
+        "word": "于正说张婉莹长得像李若彤",
+        "onboard_time": 1728798198,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106351,
+        "num": 106351,
+        "word": "东北雨姐说的假一赔万能兑现吗",
+        "onboard_time": 1728782777,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 91759,
+        "num": 91759,
+        "word": "心动的信号7官宣黄子弘凡",
+        "onboard_time": 1728793279,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#感悟总书记的传统文化情结#"
+    }
+  }
+}

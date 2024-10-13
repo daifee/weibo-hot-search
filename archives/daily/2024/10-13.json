@@ -1,6 +1,6 @@
 {
   "startTime": 1728750414717,
-  "endTime": 1728800983813,
+  "endTime": 1728801785039,
   "band_list": [
     {
       "raw_hot": 2725617,
@@ -35,6 +35,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1269312,
+      "num": 323731,
+      "word": "小巷贱人",
+      "onboard_time": 1728798739,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1255845,
       "num": 314729,
       "word": "村子只是东北雨姐拍短视频的基地",
@@ -49,14 +57,6 @@
       "onboard_time": 1728786258,
       "rank": 3,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 1200223,
-      "num": 323731,
-      "word": "小巷贱人",
-      "onboard_time": 1728798739,
-      "rank": 11,
-      "category": "剧集"
     },
     {
       "raw_hot": 1094018,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 1047915,
-      "num": 301290,
+      "num": 309656,
       "word": "国乒一天之内输了十场",
       "onboard_time": 1728792918,
       "rank": 20,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 951025,
-      "num": 326792,
+      "num": 606036,
       "word": "许昕1天2战左臂出现反应",
       "onboard_time": 1728796039,
       "rank": 30,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 938525,
-      "num": 328995,
+      "num": 363021,
       "word": "爸爸跑步留老大照顾老二结果都丢了",
       "onboard_time": 1728787819,
       "rank": 18,
@@ -116,7 +116,7 @@
     },
     {
       "raw_hot": 883619,
-      "num": 329945,
+      "num": 368249,
       "word": "男子路边佯装撸猫突然将其摔死",
       "onboard_time": 1728792319,
       "rank": 13,
@@ -220,7 +220,7 @@
     },
     {
       "raw_hot": 595686,
-      "num": 323993,
+      "num": 365667,
       "word": "萧敬腾林有慧婚礼",
       "onboard_time": 1728795260,
       "rank": 12,
@@ -267,6 +267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 544372,
+      "num": 544372,
+      "word": "赖美云淘汰",
+      "onboard_time": 1728799998,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 516039,
       "num": 234991,
       "word": "东北雨姐及团队绝大部分非当地村民",
@@ -289,6 +297,14 @@
       "onboard_time": 1728739583,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 473128,
+      "num": 365304,
+      "word": "于正说和赵丽颖杨幂都有联系",
+      "onboard_time": 1728797120,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 438734,
@@ -316,18 +332,10 @@
     },
     {
       "raw_hot": 424072,
-      "num": 311743,
+      "num": 362502,
       "word": "吹牛老爹",
       "onboard_time": 1728798198,
       "rank": 16,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 419340,
-      "num": 305204,
-      "word": "于正说和赵丽颖杨幂都有联系",
-      "onboard_time": 1728797120,
-      "rank": 19,
       "category": "艺人"
     },
     {
@@ -347,6 +355,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 356454,
+      "num": 356454,
+      "word": "刘学义谈给妈妈换肾",
+      "onboard_time": 1728800840,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 353764,
       "num": 251069,
       "word": "许昕4比0战胜尹孟泽",
@@ -363,14 +379,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 339754,
-      "num": 339754,
-      "word": "赖美云淘汰",
-      "onboard_time": 1728799998,
-      "rank": 8,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 337910,
       "num": 259427,
       "word": "狗主人甚至还提了水果来赎身",
@@ -384,6 +392,14 @@
       "word": "张本智和vs吴晙诚",
       "onboard_time": 1728798139,
       "rank": 12,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 309329,
+      "num": 309329,
+      "word": "林诗栋冲击三冠王",
+      "onboard_time": 1728800479,
+      "rank": 30,
       "category": "体育"
     },
     {
@@ -451,6 +467,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 272948,
+      "num": 308635,
+      "word": "王爷 美人要跟别人成亲了",
+      "onboard_time": 1728799939,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 266011,
       "num": 266011,
       "word": "上海菜为什么偏甜",
@@ -481,6 +505,14 @@
       "onboard_time": 1728794478,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 252868,
+      "num": 252868,
+      "word": "黄磊孙莉逛环球影城",
+      "onboard_time": 1728800779,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 237782,
@@ -571,6 +603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 217677,
+      "num": 217677,
+      "word": "原来100天真能做成一件伟大的事",
+      "onboard_time": 1728800539,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 212165,
       "num": 251739,
       "word": "内娱古偶换乘恋爱图",
@@ -585,14 +625,6 @@
       "onboard_time": 1728796819,
       "rank": 41,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 206932,
-      "num": 206932,
-      "word": "黄磊孙莉逛环球影城",
-      "onboard_time": 1728800779,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 202874,
@@ -611,20 +643,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 202116,
-      "num": 192145,
-      "word": "林诗栋冲击三冠王",
-      "onboard_time": 1728800479,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 202080,
       "num": 184341,
       "word": "余宇涵出发北京路透",
       "onboard_time": 1728794058,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 200777,
+      "num": 200777,
+      "word": "宋亚轩强到对手背后蛐蛐",
+      "onboard_time": 1728800539,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 198364,
@@ -667,14 +699,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 196307,
-      "num": 308635,
-      "word": "王爷 美人要跟别人成亲了",
-      "onboard_time": 1728799939,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 194467,
       "num": 194467,
       "word": "网易第五人格",
@@ -684,7 +708,7 @@
     },
     {
       "raw_hot": 193152,
-      "num": 193152,
+      "num": 313034,
       "word": "微博视界大会",
       "onboard_time": 1728795740,
       "rank": 35,
@@ -705,14 +729,6 @@
       "onboard_time": 1728795558,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 192230,
-      "num": 192230,
-      "word": "原来100天真能做成一件伟大的事",
-      "onboard_time": 1728800539,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 192190,
@@ -737,14 +753,6 @@
       "onboard_time": 1728783137,
       "rank": 30,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 190426,
-      "num": 190426,
-      "word": "宋亚轩强到对手背后蛐蛐",
-      "onboard_time": 1728800539,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 189776,
@@ -843,6 +851,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 162190,
+      "num": 162190,
+      "word": "韩安冉学名媛",
+      "onboard_time": 1728801320,
+      "rank": 33,
+      "category": "网红"
+    },
+    {
       "raw_hot": 161457,
       "num": 161457,
       "word": "迈巴赫漏水车主回应经销商",
@@ -913,14 +929,6 @@
       "onboard_time": 1728742161,
       "rank": 26,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 152937,
-      "num": 152937,
-      "word": "刘学义谈给妈妈换肾",
-      "onboard_time": 1728800840,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 151802,
@@ -1043,6 +1051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 137645,
+      "num": 137645,
+      "word": "章昊费加罗清冷少年高定封面",
+      "onboard_time": 1728801259,
+      "rank": 39,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 136629,
       "num": 136629,
       "word": "春花焰",
@@ -1081,6 +1097,14 @@
       "onboard_time": 1728779657,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 131587,
+      "num": 131587,
+      "word": "陈幸同蒯曼0比3大藤沙月横井咲樱",
+      "onboard_time": 1728798739,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 129849,
@@ -1164,7 +1188,7 @@
     },
     {
       "raw_hot": 115748,
-      "num": 115748,
+      "num": 369122,
       "word": "小孩卡喉退伍军人停车飞奔救人",
       "onboard_time": 1728799459,
       "rank": 43,
@@ -1193,6 +1217,14 @@
       "onboard_time": 1728789439,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 114857,
+      "num": 114857,
+      "word": "光与夜之恋校园卡",
+      "onboard_time": 1728801380,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 114453,
@@ -1545,6 +1577,14 @@
       "onboard_time": 1728760812,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 56891,
+      "num": 311211,
+      "word": "秦晓鸥 出走的决心",
+      "onboard_time": 1728801439,
+      "rank": 19,
+      "category": "电影"
     },
     {
       "raw_hot": 56613,
