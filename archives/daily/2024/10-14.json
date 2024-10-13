@@ -1,6 +1,6 @@
 {
   "startTime": 1728836764624,
-  "endTime": 1728837721020,
+  "endTime": 1728839920689,
   "band_list": [
     {
       "raw_hot": 1525577,
@@ -219,6 +219,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 201709,
+      "num": 201709,
+      "word": "BLG",
+      "onboard_time": 1728839474,
+      "rank": 8,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 191148,
       "num": 191148,
       "word": "郑钦文决赛前吃了退烧药",
@@ -339,6 +347,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 126265,
+      "num": 477455,
+      "word": "旅美大熊猫一家今晚抵达成都",
+      "onboard_time": 1728837077,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 124408,
       "num": 124408,
       "word": "萧敬腾在婚礼上泪流满面",
@@ -419,20 +435,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 57055,
-      "num": 477455,
-      "word": "旅美大熊猫一家今晚抵达成都",
-      "onboard_time": 1728837077,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 35484,
       "num": 900378,
       "word": "全国秋收已近六成",
       "onboard_time": 1728825861,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 24733,
+      "num": 201342,
+      "word": "直击南部战区快艇编队实战化演练",
+      "onboard_time": 1728839474,
+      "rank": 9,
+      "category": "国内时政"
     }
   ],
   "hotgov_list": [
