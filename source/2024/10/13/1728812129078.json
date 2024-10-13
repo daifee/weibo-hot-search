@@ -1,0 +1,410 @@
+{
+  "runTime": 1728812129078,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1127471,
+        "num": 1180395,
+        "word": "许昕因伤退赛",
+        "onboard_time": 1728807018,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1075316,
+        "num": 1075316,
+        "word": "快递员寄出3万黄金后警觉报警",
+        "onboard_time": 1728809360,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26454,
+        "num": 966413,
+        "word": "神十九10月下旬发射",
+        "onboard_time": 1728807258,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 949475,
+        "num": 949475,
+        "word": "陈梦谈最近国外乒乓小将崛起",
+        "onboard_time": 1728808099,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 797427,
+        "num": 797427,
+        "word": "原来冰墩墩原型是奥组委疯狂暗示的",
+        "onboard_time": 1728802939,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 608062,
+        "num": 608062,
+        "word": "郑钦文vs萨巴伦卡",
+        "onboard_time": 1728810439,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 514442,
+        "num": 514442,
+        "word": "预制风还是吹到了婚礼圈",
+        "onboard_time": 1728788958,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 475458,
+        "num": 475458,
+        "word": "百万网红脑溢血后多人骗粉丝募捐",
+        "onboard_time": 1728802878,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265190,
+        "num": 474807,
+        "word": "杨紫鲨鱼裤穿搭",
+        "onboard_time": 1728794358,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 244812,
+        "num": 474399,
+        "word": "刘雯重返维密秀",
+        "onboard_time": 1728807501,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1634999,
+        "num": 473778,
+        "word": "饭圈大粉诈骗粉丝300余万元",
+        "onboard_time": 1728805579,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 681670,
+        "num": 472665,
+        "word": "费曼模仿向佐",
+        "onboard_time": 1728805760,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 631367,
+        "num": 471830,
+        "word": "90后小伙炒股4天亏损32万",
+        "onboard_time": 1728803958,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 525364,
+        "num": 471087,
+        "word": "比伯yummy mv",
+        "onboard_time": 1728810439,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 470820,
+        "num": 470820,
+        "word": "林诗栋张本智和争冠",
+        "onboard_time": 1728805460,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 352193,
+        "num": 352193,
+        "word": "成都一燃油车在空地上燃爆",
+        "onboard_time": 1728808099,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 393266,
+        "num": 348705,
+        "word": "向佐回复费曼",
+        "onboard_time": 1728811519,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 313129,
+        "num": 313129,
+        "word": "男子路边佯装撸猫突然将其摔死",
+        "onboard_time": 1728792319,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 454358,
+        "num": 311438,
+        "word": "吹牛老爹 贾斯汀比伯",
+        "onboard_time": 1728802640,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21736,
+        "num": 305438,
+        "word": "Hiro山本舞香结婚",
+        "onboard_time": 1728810919,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 363590,
+        "num": 296583,
+        "word": "情侣捡到老人手机用免密支付买黄金",
+        "onboard_time": 1728810859,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 354763,
+        "num": 290888,
+        "word": "资助了5年的女孩悄悄给我转钱",
+        "onboard_time": 1728808219,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 288120,
+        "num": 288120,
+        "word": "萧敬腾林有慧婚礼",
+        "onboard_time": 1728795260,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212290,
+        "num": 282842,
+        "word": "刘学义谈给妈妈换肾",
+        "onboard_time": 1728800840,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209074,
+        "num": 281848,
+        "word": "年轻的战场有王一博",
+        "onboard_time": 1728808039,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158523,
+        "num": 275842,
+        "word": "被胡冰卿一抬眼吓到了",
+        "onboard_time": 1728806540,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 143486,
+        "num": 270115,
+        "word": "赖美云淘汰",
+        "onboard_time": 1728799998,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128882,
+        "num": 263975,
+        "word": "TOP登陆少年爆改",
+        "onboard_time": 1728807918,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 137823,
+        "num": 260194,
+        "word": "金色画卷在阿勒泰铺展开了",
+        "onboard_time": 1728811940,
+        "rank": 28,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 230692,
+        "num": 249486,
+        "word": "生物科技公司气体中毒事故致7死4伤",
+        "onboard_time": 1728809958,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 249362,
+        "num": 249362,
+        "word": "欧豪染了奶奶灰",
+        "onboard_time": 1728810319,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 247411,
+        "num": 247411,
+        "word": "隔夜水出现了透明螺旋物",
+        "onboard_time": 1728805818,
+        "rank": 31,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 209573,
+        "num": 209573,
+        "word": "东部战区随时能战",
+        "onboard_time": 1728795979,
+        "rank": 32,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 196928,
+        "num": 196928,
+        "word": "听孙颖莎导航完后主打一个自己翻地图",
+        "onboard_time": 1728808999,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 190183,
+        "num": 190183,
+        "word": "林诗栋18比16篠塚大登",
+        "onboard_time": 1728805939,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158011,
+        "num": 158011,
+        "word": "两民警均索要差旅费",
+        "onboard_time": 1728809060,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153329,
+        "num": 153329,
+        "word": "于正说和赵丽颖杨幂都有联系",
+        "onboard_time": 1728797120,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152435,
+        "num": 152435,
+        "word": "女子诈骗150万后整容潜逃泰国被抓",
+        "onboard_time": 1728810260,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150248,
+        "num": 150248,
+        "word": "进口的阿奇霉素去哪了",
+        "onboard_time": 1728809839,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 74055,
+        "num": 146865,
+        "word": "东部战区战训画面太燃了",
+        "onboard_time": 1728811940,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 144177,
+        "num": 144177,
+        "word": "曹宝儿婚礼",
+        "onboard_time": 1728810800,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143527,
+        "num": 143527,
+        "word": "FPX.ZQ获胜",
+        "onboard_time": 1728811700,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 34782,
+        "num": 134510,
+        "word": "攻略还没做双11就来了",
+        "onboard_time": 1728810379,
+        "rank": 42,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 127272,
+        "num": 127272,
+        "word": "郑钦文决赛前说把心态放稳",
+        "onboard_time": 1728810559,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125948,
+        "num": 125948,
+        "word": "eStar对战WE",
+        "onboard_time": 1728811940,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 124808,
+        "num": 124808,
+        "word": "范丞丞卢昱晓歪头杀",
+        "onboard_time": 1728806059,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118842,
+        "num": 118842,
+        "word": "日本组合包揽女双冠亚军",
+        "onboard_time": 1728804017,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 112757,
+        "num": 112757,
+        "word": "大冰直播切片",
+        "onboard_time": 1728812058,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111711,
+        "num": 111711,
+        "word": "我们的孩子死了家被炸毁了",
+        "onboard_time": 1728786258,
+        "rank": 48,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 110316,
+        "num": 110316,
+        "word": "韩方回应若构成威胁朝鲜政权将终结",
+        "onboard_time": 1728811640,
+        "rank": 49,
+        "category": "国外时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#感悟总书记的传统文化情结#"
+    }
+  }
+}
