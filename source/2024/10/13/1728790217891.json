@@ -1,0 +1,410 @@
+{
+  "runTime": 1728790217891,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1585721,
+        "num": 1585721,
+        "word": "预制风还是吹到了婚礼圈",
+        "onboard_time": 1728788958,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1215081,
+        "num": 1215081,
+        "word": "我们的孩子死了家被炸毁了",
+        "onboard_time": 1728786258,
+        "rank": 1,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 9251,
+        "num": 1004594,
+        "word": "首届中国广播电视精品创作大会",
+        "onboard_time": 1728790098,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 800362,
+        "num": 800362,
+        "word": "东北雨姐说的假一赔万能兑现吗",
+        "onboard_time": 1728782777,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 769842,
+        "num": 769842,
+        "word": "何炅喝黄磊做的辣味米稀",
+        "onboard_time": 1728787399,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 576928,
+        "num": 576928,
+        "word": "32岁网红下播后突发脑出血进ICU",
+        "onboard_time": 1728786378,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 481424,
+        "num": 481424,
+        "word": "虞书欣这段话背了多久",
+        "onboard_time": 1728784638,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 405768,
+        "num": 405768,
+        "word": "死死顶住失控车辆的他获赠新车",
+        "onboard_time": 1728750797,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 344436,
+        "num": 344436,
+        "word": "北大校友否认听泉鉴宝学历",
+        "onboard_time": 1728735560,
+        "rank": 8,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 54504,
+        "num": 318493,
+        "word": "央视揭秘增高产品骗局",
+        "onboard_time": 1728788838,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 938525,
+        "num": 313978,
+        "word": "爸爸跑步留老大照顾老二结果都丢了",
+        "onboard_time": 1728787819,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 858919,
+        "num": 311273,
+        "word": "村子只是东北雨姐拍短视频的基地",
+        "onboard_time": 1728783618,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 304738,
+        "num": 304738,
+        "word": "东北雨姐明知红薯粉成分问题",
+        "onboard_time": 1728780557,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 278985,
+        "num": 278985,
+        "word": "郭麒麟打假德云社太子妃",
+        "onboard_time": 1728786197,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 55482,
+        "num": 239957,
+        "word": "河南一高校饭点关闭临近小吃街校门",
+        "onboard_time": 1728788899,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 5535,
+        "num": 239521,
+        "word": "2024年全国数字乡村创新大赛",
+        "onboard_time": 1728735319,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239420,
+        "num": 239420,
+        "word": "财政部同意销毁28款即开型彩票",
+        "onboard_time": 1728739942,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196769,
+        "num": 219255,
+        "word": "成毅李沉舟大佬出场路透",
+        "onboard_time": 1728788958,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182807,
+        "num": 217788,
+        "word": "刘学义吴谨言浴池吻戏",
+        "onboard_time": 1728786137,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 57353,
+        "num": 217295,
+        "word": "当地教育局回应学生因恶作剧被烫伤",
+        "onboard_time": 1728789439,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217163,
+        "num": 217163,
+        "word": "女子质问为何造谣拆家男子出轨自己",
+        "onboard_time": 1728786197,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210913,
+        "num": 210913,
+        "word": "东北雨姐及团队绝大部分非当地村民",
+        "onboard_time": 1728781819,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209411,
+        "num": 209411,
+        "word": "景德镇车祸肇事方提出养老换谅解",
+        "onboard_time": 1728779057,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191518,
+        "num": 191518,
+        "word": "柿柿如意点缀秋天",
+        "onboard_time": 1728787997,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189755,
+        "num": 189755,
+        "word": "韩国乒乓球亚锦赛男双夺冠",
+        "onboard_time": 1728787700,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 189663,
+        "num": 189663,
+        "word": "东北雨姐发文道歉",
+        "onboard_time": 1728740844,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189352,
+        "num": 189352,
+        "word": "G2喊话BLG",
+        "onboard_time": 1728786679,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 78518,
+        "num": 188215,
+        "word": "金秀贤参加曹宝儿婚礼",
+        "onboard_time": 1728788899,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149509,
+        "num": 187483,
+        "word": "林俊杰妈妈去看了周杰伦演唱会",
+        "onboard_time": 1728787098,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 143473,
+        "num": 187373,
+        "word": "罗慎远眼神拉丝",
+        "onboard_time": 1728789199,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187360,
+        "num": 187360,
+        "word": "伊朗议长驾机在以军空袭中访黎",
+        "onboard_time": 1728787159,
+        "rank": 30,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 186802,
+        "num": 186802,
+        "word": "王楚钦止步亚锦赛8强",
+        "onboard_time": 1728738325,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 184543,
+        "num": 184543,
+        "word": "22岁冠心病女生不想做支架狂炫中药",
+        "onboard_time": 1728741563,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159892,
+        "num": 159892,
+        "word": "孩子走失可用十人四追法寻人",
+        "onboard_time": 1728751996,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159021,
+        "num": 159021,
+        "word": "迈巴赫经销商承诺漏水负责到底",
+        "onboard_time": 1728762252,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158195,
+        "num": 158195,
+        "word": "朴元彬发长文",
+        "onboard_time": 1728782058,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145758,
+        "num": 145758,
+        "word": "黄镇廷发文说解脱了",
+        "onboard_time": 1728787159,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 141489,
+        "num": 141489,
+        "word": "浙江一公办幼儿园开出乳儿班",
+        "onboard_time": 1728789739,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134289,
+        "num": 134289,
+        "word": "迪丽热巴美得像洋娃娃",
+        "onboard_time": 1728789918,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 132067,
+        "num": 132067,
+        "word": "我海警在我钓鱼岛领海巡航",
+        "onboard_time": 1728786799,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 127984,
+        "num": 127984,
+        "word": "东北雨姐假一赔万承诺恐难获得支持",
+        "onboard_time": 1728788060,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125582,
+        "num": 125582,
+        "word": "王俊凯 环球影城",
+        "onboard_time": 1728740304,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116792,
+        "num": 116792,
+        "word": "迈巴赫漏水车主回应经销商",
+        "onboard_time": 1728788299,
+        "rank": 42,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 115163,
+        "num": 115163,
+        "word": "东北雨姐的农村生活为啥受欢迎",
+        "onboard_time": 1728789439,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113412,
+        "num": 113412,
+        "word": "汪苏泷带着4万人一起蹦迪",
+        "onboard_time": 1728782058,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 113295,
+        "num": 113295,
+        "word": "河南一高三学生晕倒猝死",
+        "onboard_time": 1728747201,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111539,
+        "num": 111539,
+        "word": "四川一落马干部曾把几口袋现金埋在地下",
+        "onboard_time": 1728789859,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105572,
+        "num": 105572,
+        "word": "记者调查东北雨姐事件始末",
+        "onboard_time": 1728782718,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104001,
+        "num": 104001,
+        "word": "年轻人真的在整顿婚礼",
+        "onboard_time": 1728781819,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 97052,
+        "num": 97052,
+        "word": "五月天上海演唱会开11场",
+        "onboard_time": 1728778277,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#感悟总书记的传统文化情结#"
+    }
+  }
+}
