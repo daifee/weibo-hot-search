@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/10/01 00:28:17 ~ 2024/10/13 07:36:00
+本榜单时间：2024/10/01 00:28:17 ~ 2024/10/13 09:47:23
 </p>
 </blockquote>
 <p>
@@ -1485,6 +1485,12 @@ Angelababy带小海绵做爱心餐（热度：1214498）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%99%AF%E5%BE%B7%E9%95%87%E8%BD%A6%E7%A5%B8%E5%AE%B6%E5%B1%9E%E8%AF%B4%E5%A4%AA%E5%B4%A9%E6%BA%83%E4%BA%86%23" target="weibo">
+景德镇车祸家属说太崩溃了（热度：1074417）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B0%81%E5%9C%A8%E5%8E%BF%E5%9F%8E%E4%B9%B0%E5%87%A0%E5%8D%83%E4%B8%87%E7%9A%84%E8%B1%AA%E5%AE%85%23" target="weibo">
 谁在县城买几千万的豪宅（热度：1069438）
 </a>
@@ -2643,6 +2649,12 @@ aespa（热度：832836）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%9C%E5%8C%97%E9%9B%A8%E5%A7%90%E6%98%8E%E7%9F%A5%E7%BA%A2%E8%96%AF%E7%B2%89%E6%88%90%E5%88%86%E9%97%AE%E9%A2%98%23" target="weibo">
+东北雨姐明知红薯粉成分问题（热度：786853）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%2312306%E6%8A%A2%E7%A5%A8%23" target="weibo">
 12306抢票（热度：786513）
 </a>
@@ -2705,6 +2717,12 @@ aespa（热度：832836）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%A5%E5%86%9B%E7%A7%B0%E4%BC%8A%E6%9C%97%E5%90%91%E4%BB%A5%E8%89%B2%E5%88%97%E5%8F%91%E5%B0%84%E8%B6%85180%E6%9E%9A%E5%AF%BC%E5%BC%B9%23" target="weibo">
 以军称伊朗向以色列发射超180枚导弹（热度：775576）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AD%BB%E6%AD%BB%E9%A1%B6%E4%BD%8F%E5%A4%B1%E6%8E%A7%E8%BD%A6%E8%BE%86%E7%9A%84%E4%BB%96%E8%8E%B7%E8%B5%A0%E6%96%B0%E8%BD%A6%23" target="weibo">
+死死顶住失控车辆的他获赠新车（热度：773924）
 </a>
 </li>
 
@@ -2987,12 +3005,6 @@ HPV疫苗已降到20多元1支（热度：747235）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B5%99B3N922%E5%81%9A%E5%AE%8C%E5%A5%BD%E4%BA%8B%E5%B0%B1%E6%82%84%E6%82%84%E7%A6%BB%E5%BC%80%E4%BA%86%23" target="weibo">
 浙B3N922做完好事就悄悄离开了（热度：736882）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AD%BB%E6%AD%BB%E9%A1%B6%E4%BD%8F%E5%A4%B1%E6%8E%A7%E8%BD%A6%E8%BE%86%E7%9A%84%E4%BB%96%E8%8E%B7%E8%B5%A0%E6%96%B0%E8%BD%A6%23" target="weibo">
-死死顶住失控车辆的他获赠新车（热度：736098）
 </a>
 </li>
 
@@ -5805,6 +5817,12 @@ A股半小时成交破万亿（热度：455160）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%A9%E5%AD%90%E8%B5%B0%E5%A4%B1%E5%8F%AF%E7%94%A8%E5%8D%81%E4%BA%BA%E5%9B%9B%E8%BF%BD%E6%B3%95%E5%AF%BB%E4%BA%BA%23" target="weibo">
+孩子走失可用十人四追法寻人（热度：429309）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E5%90%AF%E8%B1%AA3%E6%AF%942%E5%A5%A5%E6%81%B0%E6%B4%9B%E5%A4%AB%23" target="weibo">
 周启豪3比2奥恰洛夫（热度：429215）
 </a>
@@ -5993,24 +6011,6 @@ Jennie新歌（热度：418632）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%BA%86%E5%81%87%E6%9C%9F%E8%B6%B5%E7%AA%81%E6%B3%89%E9%B1%BC%E8%A2%AB%E6%92%91%E6%AD%BB%E4%BA%86%23" target="weibo">
 国庆假期趵突泉鱼被撑死了（热度：415680）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%2375%E5%B9%B4%E6%9D%A5%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%9D%87%E9%A2%84%E6%9C%9F%E5%AF%BF%E5%91%BD%E7%BF%BB%E4%BA%86%E4%B8%80%E5%80%8D%E5%A4%9A%23" target="weibo">
-75年来中国人均预期寿命翻了一倍多（热度：415554）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A6%B9%E5%A6%B95%E5%B2%81%E8%A2%AB%E6%8B%90%E5%A7%90%E5%A7%9011%E5%B2%81%E4%B9%9F%E6%88%90%E4%BA%86%E5%AD%A4%E5%84%BF%23" target="weibo">
-妹妹5岁被拐姐姐11岁也成了孤儿（热度：415316）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%B2%81%20%E8%A7%82%E9%9F%B3%E6%9D%A8%E6%9F%B3%E6%89%8B%23" target="weibo">
-李沁 观音杨柳手（热度：415228）
 </a>
 </li>
 
