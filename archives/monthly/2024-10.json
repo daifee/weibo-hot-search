@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1728819321454,
+  "endTime": 1728823156922,
   "band_list": [
     {
       "raw_hot": 13027302,
@@ -299,6 +299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2599305,
+      "num": 2599305,
+      "word": "林诗栋vs张本智和",
+      "onboard_time": 1728819621,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2596713,
       "num": 2596713,
       "word": "鄂LD06335死死顶住失控车辆",
@@ -408,6 +416,14 @@
       "word": "孙颖莎vs伊藤美诚",
       "onboard_time": 1728037938,
       "rank": 8,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 2260736,
+      "num": 301428,
+      "word": "中国女乒50年来亚锦赛首次0冠",
+      "onboard_time": 1728819021,
+      "rank": 45,
       "category": "体育"
     },
     {
@@ -577,6 +593,14 @@
       "onboard_time": 1728657741,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2029776,
+      "num": 2029776,
+      "word": "郑钦文武网亚军",
+      "onboard_time": 1728820521,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 2006127,
@@ -1747,6 +1771,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1189609,
+      "num": 610269,
+      "word": "奥利 背刺",
+      "onboard_time": 1728818420,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1189399,
       "num": 908452,
       "word": "赛螃蟹",
@@ -2555,6 +2587,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 997545,
+      "num": 298445,
+      "word": "K总女友颜值",
+      "onboard_time": 1728820400,
+      "rank": 13,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 996450,
       "num": 996450,
       "word": "今晚可能发生强地磁暴",
@@ -3091,6 +3131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 886702,
+      "num": 297241,
+      "word": "白百何晒与大儿子合照",
+      "onboard_time": 1728821599,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 884325,
       "num": 884325,
       "word": "陈幸同1比3张本美和",
@@ -3489,6 +3537,14 @@
       "onboard_time": 1728795979,
       "rank": 16,
       "category": "军事"
+    },
+    {
+      "raw_hot": 818512,
+      "num": 296541,
+      "word": "文章模仿向佐动作",
+      "onboard_time": 1728821841,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 817992,
@@ -5489,14 +5545,6 @@
       "onboard_time": 1728108139,
       "rank": 21,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 610269,
-      "num": 610269,
-      "word": "奥利 背刺",
-      "onboard_time": 1728818420,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 609006,
@@ -7611,6 +7659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 459722,
+      "num": 295441,
+      "word": "陈乔恩夫妇参加萧敬腾婚礼",
+      "onboard_time": 1728821239,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 459437,
       "num": 459437,
       "word": "金晨在巴黎跳傣族舞",
@@ -9611,6 +9667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 361661,
+      "num": 361661,
+      "word": "SpaceX星舰进行第五次试飞",
+      "onboard_time": 1728822801,
+      "rank": 7,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 361612,
       "num": 321087,
       "word": "马龙赛后采访",
@@ -11064,6 +11128,14 @@
       "word": "长沙坡子街派出所成热门打卡地",
       "onboard_time": 1727975895,
       "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 309519,
+      "num": 309519,
+      "word": "年轻人开始抛弃优衣库",
+      "onboard_time": 1728820882,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -12675,6 +12747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 273089,
+      "num": 299898,
+      "word": "黎巴嫩将从中国进口手机等电子产品",
+      "onboard_time": 1728820038,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 272948,
       "num": 308635,
       "word": "王爷 美人要跟别人成亲了",
@@ -12824,6 +12904,14 @@
       "word": "莎莎连夜奔波赶赴亚锦赛",
       "onboard_time": 1728530539,
       "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 270242,
+      "num": 270242,
+      "word": "萨巴伦卡武网三连冠",
+      "onboard_time": 1728820701,
+      "rank": 25,
       "category": "体育"
     },
     {
@@ -13321,6 +13409,14 @@
       "onboard_time": 1727878400,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 261252,
+      "num": 370146,
+      "word": "有人月供将减近1900元",
+      "onboard_time": 1728817042,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 260952,
@@ -13881,14 +13977,6 @@
       "onboard_time": 1728174496,
       "rank": 29,
       "category": "电影"
-    },
-    {
-      "raw_hot": 249792,
-      "num": 370146,
-      "word": "有人月供将减近1900元",
-      "onboard_time": 1728817042,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 249786,
@@ -17196,7 +17284,7 @@
     },
     {
       "raw_hot": 203356,
-      "num": 213701,
+      "num": 225175,
       "word": "王安宇拍戏瘦了7公斤",
       "onboard_time": 1728816201,
       "rank": 25,
@@ -18035,6 +18123,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 197048,
+      "num": 197048,
+      "word": "檀健次十点零五克钻戒",
+      "onboard_time": 1728822920,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 197030,
       "num": 197030,
       "word": "李现观战郑钦文比赛",
@@ -18281,6 +18377,14 @@
       "onboard_time": 1727798899,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 195811,
+      "num": 195811,
+      "word": "DK对战WBG",
+      "onboard_time": 1728822199,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 195805,
@@ -21347,6 +21451,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 170987,
+      "num": 170987,
+      "word": "罕见降雨致撒哈拉沙漠出现洪水",
+      "onboard_time": 1728820400,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 170767,
       "num": 170767,
       "word": "Meiko世界赛700助攻",
@@ -21697,6 +21809,14 @@
       "onboard_time": 1728466459,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 167785,
+      "num": 167785,
+      "word": "童家堡秋决吃鸡",
+      "onboard_time": 1728821900,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 167771,
@@ -23748,6 +23868,14 @@
     },
     {
       "raw_hot": 153987,
+      "num": 289186,
+      "word": "音乐缘计划",
+      "onboard_time": 1728225260,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 153987,
       "num": 153987,
       "word": "森林进化论2",
       "onboard_time": 1728387080,
@@ -24435,6 +24563,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 149493,
+      "num": 199354,
+      "word": "七夜雪打戏",
+      "onboard_time": 1728822980,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 149317,
       "num": 149317,
       "word": "Coldplay抢票",
@@ -24481,6 +24617,14 @@
       "onboard_time": 1728567080,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 148907,
+      "num": 148907,
+      "word": "桃晚安道歉",
+      "onboard_time": 1728820583,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 148902,
@@ -24987,6 +25131,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 145034,
+      "num": 145034,
+      "word": "司线",
+      "onboard_time": 1728821659,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 144976,
       "num": 257438,
       "word": "张帅无缘中网四强",
@@ -25403,6 +25555,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 142731,
+      "num": 142731,
+      "word": "英雄联盟",
+      "onboard_time": 1728822260,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 142704,
       "num": 203758,
       "word": "七夜雪中式留白美学",
@@ -25593,6 +25753,14 @@
       "onboard_time": 1728257417,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 141254,
+      "num": 141254,
+      "word": "河南一县城周边发现近2000头野猪",
+      "onboard_time": 1728822739,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 141144,
@@ -26385,14 +26553,6 @@
       "onboard_time": 1728268458,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 135940,
-      "num": 135940,
-      "word": "中国女乒50年来亚锦赛首次0冠",
-      "onboard_time": 1728819021,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 135916,
@@ -27385,14 +27545,6 @@
       "onboard_time": 1727759419,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 129476,
-      "num": 129476,
-      "word": "音乐缘计划",
-      "onboard_time": 1728225260,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 129248,
@@ -28601,6 +28753,14 @@
       "onboard_time": 1728093977,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 120592,
+      "num": 224183,
+      "word": "我赴黎维和部队工作生活情况公开",
+      "onboard_time": 1728819681,
+      "rank": 29,
+      "category": "国内时政"
     },
     {
       "raw_hot": 120585,
@@ -30763,6 +30923,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 104913,
+      "num": 158727,
+      "word": "七夜雪 剧情节奏",
+      "onboard_time": 1728820641,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 104858,
       "num": 104858,
       "word": "黄晓明中餐厅收官文",
@@ -32297,6 +32465,14 @@
       "onboard_time": 1727919377,
       "rank": 46,
       "category": "财经"
+    },
+    {
+      "raw_hot": 90435,
+      "num": 292180,
+      "word": "湖南8个县因焚烧秸秆被约谈",
+      "onboard_time": 1728821540,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 90352,
@@ -36179,6 +36355,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 43043,
+      "num": 279179,
+      "word": "从爆火到平静哀牢山的冷热15天",
+      "onboard_time": 1728821239,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 42963,
       "num": 505529,
       "word": "国庆打卡祖国大好河山",
@@ -38457,6 +38641,14 @@
       "onboard_time": 1728068292,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 24940,
+      "num": 1193593,
+      "word": "哪些民生领域这次被国家钱袋子眷顾",
+      "onboard_time": 1728807078,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 24907,
