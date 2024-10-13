@@ -1,6 +1,6 @@
 {
   "startTime": 1728750414717,
-  "endTime": 1728832945500,
+  "endTime": 1728833930515,
   "band_list": [
     {
       "raw_hot": 17915004,
@@ -99,7 +99,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1801738,
+      "raw_hot": 1947210,
       "num": 350062,
       "word": "国乒怎么了",
       "onboard_time": 1728830004,
@@ -113,6 +113,14 @@
       "onboard_time": 1728807018,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1647629,
+      "num": 348969,
+      "word": "朝军8个炮兵旅团转为射击待命",
+      "onboard_time": 1728832042,
+      "rank": 14,
+      "category": "社会新闻,国外时政"
     },
     {
       "raw_hot": 1607454,
@@ -211,14 +219,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1124273,
-      "num": 348969,
-      "word": "朝军8个炮兵旅团转为射击待命",
-      "onboard_time": 1728832042,
-      "rank": 14,
-      "category": "社会新闻,国外时政"
-    },
-    {
       "raw_hot": 1123078,
       "num": 465250,
       "word": "张本智和模仿樊振东模仿姆巴佩",
@@ -257,6 +257,14 @@
       "onboard_time": 1728803958,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1058275,
+      "num": 1169324,
+      "word": "哀牢山发现全球仅千只的鸟",
+      "onboard_time": 1728830062,
+      "rank": 42,
+      "category": "旅游"
     },
     {
       "raw_hot": 1047915,
@@ -361,14 +369,6 @@
       "onboard_time": 1728827243,
       "rank": 13,
       "category": "体育"
-    },
-    {
-      "raw_hot": 829875,
-      "num": 829875,
-      "word": "哀牢山发现全球仅千只的鸟",
-      "onboard_time": 1728830062,
-      "rank": 42,
-      "category": "旅游"
     },
     {
       "raw_hot": 827093,
@@ -835,6 +835,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 381566,
+      "num": 469835,
+      "word": "房地产税收新政将出台",
+      "onboard_time": 1728827904,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 379903,
       "num": 347887,
       "word": "赵露思工作室更新",
@@ -857,14 +865,6 @@
       "onboard_time": 1728826701,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 357645,
-      "num": 469835,
-      "word": "房地产税收新政将出台",
-      "onboard_time": 1728827904,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 354763,
@@ -1001,6 +1001,14 @@
       "onboard_time": 1728823700,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 295004,
+      "num": 222357,
+      "word": "SM 炒作",
+      "onboard_time": 1728832942,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 294112,
@@ -1211,6 +1219,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 232435,
+      "num": 330974,
+      "word": "徐艺真上综艺",
+      "onboard_time": 1728831683,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 231284,
       "num": 231284,
       "word": "五月天上海演唱会开11场",
@@ -1355,14 +1371,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 217187,
-      "num": 330974,
-      "word": "徐艺真上综艺",
-      "onboard_time": 1728831683,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 215811,
       "num": 215811,
       "word": "联合国维和部队拒绝以色列撤离要求",
@@ -1409,6 +1417,14 @@
       "onboard_time": 1728796819,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 209285,
+      "num": 209285,
+      "word": "韩军试射金牛座巡航导弹",
+      "onboard_time": 1728833060,
+      "rank": 36,
+      "category": "国外时政"
     },
     {
       "raw_hot": 205790,
@@ -1675,6 +1691,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 190652,
+      "num": 190652,
+      "word": "花花FMVP",
+      "onboard_time": 1728833181,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 189776,
       "num": 189776,
       "word": "甄芙传",
@@ -1801,6 +1825,14 @@
       "onboard_time": 1728806418,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 179196,
+      "num": 179196,
+      "word": "小石头已经很棒了",
+      "onboard_time": 1728833361,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 178296,
@@ -1963,6 +1995,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 162755,
+      "num": 222528,
+      "word": "5岁女童在小区马路被卷入车底",
+      "onboard_time": 1728833002,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 162190,
       "num": 162190,
       "word": "韩安冉学名媛",
@@ -1984,6 +2024,14 @@
       "word": "上海大师赛",
       "onboard_time": 1728819080,
       "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 160336,
+      "num": 160336,
+      "word": "郑钦文决赛前吃了退烧药",
+      "onboard_time": 1728833900,
+      "rank": 44,
       "category": "体育"
     },
     {
@@ -2017,6 +2065,14 @@
       "onboard_time": 1728813920,
       "rank": 38,
       "category": "网红"
+    },
+    {
+      "raw_hot": 158356,
+      "num": 222498,
+      "word": "代高政 短剧",
+      "onboard_time": 1728833481,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 158170,
@@ -2169,6 +2225,14 @@
       "onboard_time": 1728796340,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 146075,
+      "num": 146075,
+      "word": "周震南说张真源的镜太猛了",
+      "onboard_time": 1728833720,
+      "rank": 48,
+      "category": "综艺,电竞"
     },
     {
       "raw_hot": 145946,

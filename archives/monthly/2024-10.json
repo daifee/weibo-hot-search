@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1728832945500,
+  "endTime": 1728833930515,
   "band_list": [
     {
       "raw_hot": 17915004,
@@ -659,6 +659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1947210,
+      "num": 350062,
+      "word": "国乒怎么了",
+      "onboard_time": 1728830004,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1941298,
       "num": 1941298,
       "word": "郑钦文晋级半决赛",
@@ -776,14 +784,6 @@
       "word": "国乒女单无缘亚锦赛四强",
       "onboard_time": 1728736700,
       "rank": 28,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 1801738,
-      "num": 350062,
-      "word": "国乒怎么了",
-      "onboard_time": 1728830004,
-      "rank": 39,
       "category": "体育"
     },
     {
@@ -961,6 +961,14 @@
       "onboard_time": 1728454578,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1647629,
+      "num": 348969,
+      "word": "朝军8个炮兵旅团转为射击待命",
+      "onboard_time": 1728832042,
+      "rank": 14,
+      "category": "社会新闻,国外时政"
     },
     {
       "raw_hot": 1641714,
@@ -2075,14 +2083,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 1124273,
-      "num": 348969,
-      "word": "朝军8个炮兵旅团转为射击待命",
-      "onboard_time": 1728832042,
-      "rank": 14,
-      "category": "社会新闻,国外时政"
-    },
-    {
       "raw_hot": 1123078,
       "num": 465250,
       "word": "张本智和模仿樊振东模仿姆巴佩",
@@ -2273,6 +2273,14 @@
       "onboard_time": 1728124880,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1058275,
+      "num": 1169324,
+      "word": "哀牢山发现全球仅千只的鸟",
+      "onboard_time": 1728830062,
+      "rank": 42,
+      "category": "旅游"
     },
     {
       "raw_hot": 1055935,
@@ -3545,14 +3553,6 @@
       "onboard_time": 1728132740,
       "rank": 15,
       "category": "体育"
-    },
-    {
-      "raw_hot": 829875,
-      "num": 829875,
-      "word": "哀牢山发现全球仅千只的鸟",
-      "onboard_time": 1728830062,
-      "rank": 42,
-      "category": "旅游"
     },
     {
       "raw_hot": 829667,
@@ -9315,6 +9315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 381566,
+      "num": 469835,
+      "word": "房地产税收新政将出台",
+      "onboard_time": 1728827904,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 381445,
       "num": 344890,
       "word": "公诉机关建议判余华英死刑",
@@ -9993,14 +10001,6 @@
       "onboard_time": 1728527598,
       "rank": 8,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 357645,
-      "num": 469835,
-      "word": "房地产税收新政将出台",
-      "onboard_time": 1728827904,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 357487,
@@ -11921,6 +11921,14 @@
       "onboard_time": 1727961860,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 295004,
+      "num": 222357,
+      "word": "SM 炒作",
+      "onboard_time": 1728832942,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 295000,
@@ -15203,6 +15211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 232435,
+      "num": 330974,
+      "word": "徐艺真上综艺",
+      "onboard_time": 1728831683,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 232011,
       "num": 260012,
       "word": "李斯丹妮快女13年后首个常驻音综",
@@ -16355,14 +16371,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 217187,
-      "num": 330974,
-      "word": "徐艺真上综艺",
-      "onboard_time": 1728831683,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 217178,
       "num": 217178,
       "word": "林依晨亚洲内容大赏视后",
@@ -16921,6 +16929,14 @@
       "onboard_time": 1728368901,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 209285,
+      "num": 209285,
+      "word": "韩军试射金牛座巡航导弹",
+      "onboard_time": 1728833060,
+      "rank": 36,
+      "category": "国外时政"
     },
     {
       "raw_hot": 209254,
@@ -19515,6 +19531,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 190652,
+      "num": 190652,
+      "word": "花花FMVP",
+      "onboard_time": 1728833181,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 190589,
       "num": 190589,
       "word": "张远直播",
@@ -20928,6 +20952,14 @@
       "word": "男双决赛",
       "onboard_time": 1728108498,
       "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 179196,
+      "num": 179196,
+      "word": "小石头已经很棒了",
+      "onboard_time": 1728833361,
+      "rank": 40,
       "category": "体育"
     },
     {
@@ -23035,6 +23067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 162755,
+      "num": 222528,
+      "word": "5岁女童在小区马路被卷入车底",
+      "onboard_time": 1728833002,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 162726,
       "num": 222078,
       "word": "刘忻cos伽罗",
@@ -23289,6 +23329,14 @@
       "onboard_time": 1727740458,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 160336,
+      "num": 160336,
+      "word": "郑钦文决赛前吃了退烧药",
+      "onboard_time": 1728833900,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 160290,
@@ -23625,6 +23673,14 @@
       "onboard_time": 1728813920,
       "rank": 38,
       "category": "网红"
+    },
+    {
+      "raw_hot": 158356,
+      "num": 222498,
+      "word": "代高政 短剧",
+      "onboard_time": 1728833481,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 158305,
@@ -25449,6 +25505,14 @@
       "onboard_time": 1727775918,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 146075,
+      "num": 146075,
+      "word": "周震南说张真源的镜太猛了",
+      "onboard_time": 1728833720,
+      "rank": 48,
+      "category": "综艺,电竞"
     },
     {
       "raw_hot": 146073,
