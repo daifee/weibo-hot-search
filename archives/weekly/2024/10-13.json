@@ -1,6 +1,6 @@
 {
   "startTime": 1728750414717,
-  "endTime": 1728844076211,
+  "endTime": 1728844883997,
   "band_list": [
     {
       "raw_hot": 17915004,
@@ -1851,6 +1851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 184448,
+      "num": 184448,
+      "word": "LPL全员晋级S14八强",
+      "onboard_time": 1728842532,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 184067,
       "num": 185804,
       "word": "Tarzan莫甘娜打野",
@@ -1953,14 +1961,6 @@
       "onboard_time": 1728803899,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 171060,
-      "num": 171060,
-      "word": "LPL全员晋级S14八强",
-      "onboard_time": 1728842532,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 170987,
@@ -3348,7 +3348,7 @@
     },
     {
       "raw_hot": 52632,
-      "num": 52632,
+      "num": 56502,
       "word": "许嵩西安演唱会",
       "onboard_time": 1728831202,
       "rank": 48,
@@ -3448,6 +3448,14 @@
       "word": "从爆火到平静哀牢山的冷热15天",
       "onboard_time": 1728821239,
       "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 42454,
+      "num": 200510,
+      "word": "广西发现新物种阳朔风筝果",
+      "onboard_time": 1728842053,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -3659,14 +3667,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 17797,
-      "num": 200510,
-      "word": "广西发现新物种阳朔风筝果",
-      "onboard_time": 1728842053,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 17041,
       "num": 364683,
       "word": "郑钦文 追梦的路没有终点",
@@ -3680,6 +3680,22 @@
       "word": "要以投资心态入市",
       "onboard_time": 1728806660,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 15509,
+      "num": 144718,
+      "word": "小伙捡到疑似手雷赶紧上交",
+      "onboard_time": 1728844392,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 13988,
+      "num": 43946,
+      "word": "成都通报一燃油车发生燃爆",
+      "onboard_time": 1728844813,
+      "rank": 35,
       "category": "社会新闻"
     },
     {
