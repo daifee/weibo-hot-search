@@ -1,6 +1,6 @@
 {
   "startTime": 1728750414717,
-  "endTime": 1728788258634,
+  "endTime": 1728788793445,
   "band_list": [
     {
       "raw_hot": 1419674,
@@ -19,7 +19,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1201441,
+      "raw_hot": 1255845,
       "num": 248143,
       "word": "村子只是东北雨姐拍短视频的基地",
       "onboard_time": 1728783618,
@@ -83,7 +83,15 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 644236,
+      "raw_hot": 748549,
+      "num": 1119767,
+      "word": "我们的孩子死了家被炸毁了",
+      "onboard_time": 1728786258,
+      "rank": 3,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 670602,
       "num": 1103077,
       "word": "虞书欣这段话背了多久",
       "onboard_time": 1728784638,
@@ -97,6 +105,14 @@
       "onboard_time": 1728735560,
       "rank": 4,
       "category": "网红"
+    },
+    {
+      "raw_hot": 619247,
+      "num": 619247,
+      "word": "东北雨姐说的假一赔万能兑现吗",
+      "onboard_time": 1728782777,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 609535,
@@ -123,6 +139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 558938,
+      "num": 558938,
+      "word": "32岁网红下播后突发脑出血进ICU",
+      "onboard_time": 1728786378,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 558932,
       "num": 558932,
       "word": "财政部同意销毁28款即开型彩票",
@@ -131,16 +155,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 553461,
-      "num": 553461,
-      "word": "我们的孩子死了家被炸毁了",
-      "onboard_time": 1728786258,
-      "rank": 3,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 516039,
-      "num": 233054,
+      "num": 234991,
       "word": "东北雨姐及团队绝大部分非当地村民",
       "onboard_time": 1728781819,
       "rank": 15,
@@ -163,22 +179,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 467016,
-      "num": 467016,
-      "word": "东北雨姐说的假一赔万能兑现吗",
-      "onboard_time": 1728782777,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 459482,
-      "num": 459482,
-      "word": "32岁网红下播后突发脑出血进ICU",
-      "onboard_time": 1728786378,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 438734,
       "num": 273934,
       "word": "B太回应曾夸东北雨姐真实",
@@ -195,6 +195,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 421153,
+      "num": 421153,
+      "word": "何炅喝黄磊做的辣味米稀",
+      "onboard_time": 1728787399,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 417130,
+      "num": 235081,
+      "word": "爸爸跑步留老大照顾老二结果都丢了",
+      "onboard_time": 1728787819,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 349584,
       "num": 266314,
       "word": "国乒女单无缘亚锦赛四强",
@@ -203,11 +219,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 301199,
-      "num": 229490,
-      "word": "何炅喝黄磊做的辣味米稀",
-      "onboard_time": 1728787399,
-      "rank": 13,
+      "raw_hot": 305623,
+      "num": 234372,
+      "word": "郭麒麟打假德云社太子妃",
+      "onboard_time": 1728786197,
+      "rank": 14,
       "category": "综艺"
     },
     {
@@ -235,14 +251,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 274438,
-      "num": 219315,
-      "word": "郭麒麟打假德云社太子妃",
-      "onboard_time": 1728786197,
-      "rank": 14,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 266011,
       "num": 266011,
       "word": "上海菜为什么偏甜",
@@ -265,6 +273,14 @@
       "onboard_time": 1728745343,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 233993,
+      "num": 233993,
+      "word": "刘学义吴谨言浴池吻戏",
+      "onboard_time": 1728786137,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 231284,
@@ -292,7 +308,7 @@
     },
     {
       "raw_hot": 220033,
-      "num": 190700,
+      "num": 215216,
       "word": "女子质问为何造谣拆家男子出轨自己",
       "onboard_time": 1728786197,
       "rank": 22,
@@ -308,7 +324,7 @@
     },
     {
       "raw_hot": 196792,
-      "num": 144863,
+      "num": 217205,
       "word": "G2喊话BLG",
       "onboard_time": 1728786679,
       "rank": 30,
@@ -331,22 +347,6 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 190946,
-      "num": 190946,
-      "word": "刘学义吴谨言浴池吻戏",
-      "onboard_time": 1728786137,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 190936,
-      "num": 190936,
-      "word": "爸爸跑步留老大照顾老二结果都丢了",
-      "onboard_time": 1728787819,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 187029,
       "num": 187029,
       "word": "S14",
@@ -363,12 +363,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 174645,
+      "num": 174645,
+      "word": "景德镇车祸肇事方提出养老换谅解",
+      "onboard_time": 1728779057,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 173070,
       "num": 177184,
       "word": "年轻人真的在整顿婚礼",
       "onboard_time": 1728781819,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 168615,
+      "num": 215475,
+      "word": "柿柿如意点缀秋天",
+      "onboard_time": 1728787997,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 165190,
@@ -403,12 +419,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 159226,
-      "num": 159226,
-      "word": "景德镇车祸肇事方提出养老换谅解",
-      "onboard_time": 1728779057,
-      "rank": 26,
-      "category": "社会新闻"
+      "raw_hot": 157984,
+      "num": 157984,
+      "word": "韩国乒乓球亚锦赛男双夺冠",
+      "onboard_time": 1728787700,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 156595,
@@ -483,14 +499,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 143946,
-      "num": 143946,
-      "word": "柿柿如意点缀秋天",
-      "onboard_time": 1728787997,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 141462,
       "num": 141462,
       "word": "关晓彤探班张艺兴音乐话剧",
@@ -523,6 +531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 132521,
+      "num": 150420,
+      "word": "林俊杰妈妈去看了周杰伦演唱会",
+      "onboard_time": 1728787098,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 131787,
       "num": 131787,
       "word": "黑神话制作人做游戏要愿给自己娃玩",
@@ -537,6 +553,14 @@
       "onboard_time": 1728743662,
       "rank": 35,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 128381,
+      "num": 128381,
+      "word": "记者调查东北雨姐事件始末",
+      "onboard_time": 1728782718,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 127657,
@@ -571,14 +595,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 121595,
-      "num": 145958,
-      "word": "林俊杰妈妈去看了周杰伦演唱会",
-      "onboard_time": 1728787098,
-      "rank": 28,
-      "category": "演出"
-    },
-    {
       "raw_hot": 120347,
       "num": 120347,
       "word": "SEVENTEEN演唱会着火",
@@ -603,14 +619,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 115560,
-      "num": 115560,
-      "word": "记者调查东北雨姐事件始末",
-      "onboard_time": 1728782718,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 115386,
       "num": 190735,
       "word": "史上便宜最多的京东11.11来啦",
@@ -619,20 +627,20 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 114922,
-      "num": 114922,
-      "word": "韩国乒乓球亚锦赛男双夺冠",
-      "onboard_time": 1728787700,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
       "raw_hot": 112878,
       "num": 119695,
       "word": "听泉鉴宝 盗墓",
       "onboard_time": 1728706519,
       "rank": 36,
       "category": "网红"
+    },
+    {
+      "raw_hot": 110640,
+      "num": 110640,
+      "word": "江西一刑案嫌疑人畏罪自杀",
+      "onboard_time": 1728787399,
+      "rank": 43,
+      "category": "社会负面"
     },
     {
       "raw_hot": 108926,
@@ -675,6 +683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 105026,
+      "num": 105026,
+      "word": "迈巴赫漏水车主回应经销商",
+      "onboard_time": 1728788299,
+      "rank": 39,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 104254,
       "num": 104254,
       "word": "S14瑞士轮第五轮抽签仪式",
@@ -683,12 +699,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 102980,
-      "num": 102980,
-      "word": "江西一刑案嫌疑人畏罪自杀",
-      "onboard_time": 1728787399,
-      "rank": 43,
-      "category": "社会负面"
+      "raw_hot": 102601,
+      "num": 102601,
+      "word": "王欣瑜再现猫咪狩猎",
+      "onboard_time": 1728787700,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 102097,
+      "num": 102097,
+      "word": "黄镇廷发文说解脱了",
+      "onboard_time": 1728787159,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 102067,
@@ -705,14 +729,6 @@
       "onboard_time": 1728729560,
       "rank": 40,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 101686,
-      "num": 101686,
-      "word": "王欣瑜再现猫咪狩猎",
-      "onboard_time": 1728787700,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 100008,
@@ -747,14 +763,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 98311,
-      "num": 98311,
-      "word": "黄镇廷发文说解脱了",
-      "onboard_time": 1728787159,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 95409,
       "num": 119519,
       "word": "郑钦文晋级武网决赛",
@@ -785,6 +793,14 @@
       "onboard_time": 1728744801,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 90407,
+      "num": 90407,
+      "word": "加沙民众称已被迫转移至少20次",
+      "onboard_time": 1728780318,
+      "rank": 49,
+      "category": "国外时政"
     },
     {
       "raw_hot": 90216,
@@ -883,6 +899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 76466,
+      "num": 234601,
+      "word": "东北雨姐假一赔万承诺恐难获得支持",
+      "onboard_time": 1728788060,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 70686,
       "num": 70686,
       "word": "檀健次三部剧入围视界大会",
@@ -913,14 +937,6 @@
       "onboard_time": 1728740124,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 61886,
-      "num": 190872,
-      "word": "东北雨姐假一赔万承诺恐难获得支持",
-      "onboard_time": 1728788060,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 59044,
