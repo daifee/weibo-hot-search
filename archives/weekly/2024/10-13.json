@@ -1,6 +1,6 @@
 {
   "startTime": 1728750414717,
-  "endTime": 1728829127546,
+  "endTime": 1728830235279,
   "band_list": [
     {
       "raw_hot": 17915004,
@@ -19,20 +19,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 4347022,
+      "num": 3688588,
+      "word": "韩国防部回应朝鲜警告",
+      "onboard_time": 1728826461,
+      "rank": 3,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 3708701,
       "num": 616795,
       "word": "龚琳娜离婚",
       "onboard_time": 1728815239,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 3688588,
-      "num": 3688588,
-      "word": "韩国防部回应朝鲜警告",
-      "onboard_time": 1728826461,
-      "rank": 3,
-      "category": "国外时政"
     },
     {
       "raw_hot": 2725617,
@@ -219,6 +219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1071064,
+      "num": 1071064,
+      "word": "听泉鉴宝被指塌房四大疑问待解",
+      "onboard_time": 1728825742,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1065108,
       "num": 471830,
       "word": "90后小伙炒股4天亏损32万",
@@ -299,14 +307,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 892195,
-      "num": 892195,
-      "word": "听泉鉴宝被指塌房四大疑问待解",
-      "onboard_time": 1728825742,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 886702,
       "num": 439864,
       "word": "白百何晒与大儿子合照",
@@ -321,6 +321,14 @@
       "onboard_time": 1728792319,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 840274,
+      "num": 457166,
+      "word": "国乒梯队建设",
+      "onboard_time": 1728827243,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 822478,
@@ -419,14 +427,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 752344,
-      "num": 457166,
-      "word": "国乒梯队建设",
-      "onboard_time": 1728827243,
-      "rank": 13,
-      "category": "体育"
-    },
-    {
       "raw_hot": 736981,
       "num": 472665,
       "word": "费曼模仿向佐",
@@ -449,6 +449,14 @@
       "onboard_time": 1728805460,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 676608,
+      "num": 312586,
+      "word": "年轻人下班后开始搞副业了",
+      "onboard_time": 1728828623,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 676154,
@@ -627,14 +635,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 499303,
-      "num": 312586,
-      "word": "年轻人下班后开始搞副业了",
-      "onboard_time": 1728828623,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 492749,
       "num": 318298,
       "word": "情侣捡到老人手机用免密支付买黄金",
@@ -723,6 +723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 429145,
+      "num": 429145,
+      "word": "吴晙诚没有领奖",
+      "onboard_time": 1728829522,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 424072,
       "num": 362502,
       "word": "吹牛老爹",
@@ -771,7 +779,7 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 363524,
+      "raw_hot": 368643,
       "num": 476472,
       "word": "短剧综艺",
       "onboard_time": 1728826701,
@@ -785,6 +793,14 @@
       "onboard_time": 1728808219,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 354503,
+      "num": 354503,
+      "word": "俄罗斯车臣首府发生爆炸致4死",
+      "onboard_time": 1728826821,
+      "rank": 29,
+      "category": "国外时政"
     },
     {
       "raw_hot": 353764,
@@ -1027,6 +1043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 264274,
+      "num": 469835,
+      "word": "房地产税收新政将出台",
+      "onboard_time": 1728827904,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 261252,
       "num": 370146,
       "word": "有人月供将减近1900元",
@@ -1195,6 +1219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 220026,
+      "num": 471305,
+      "word": "任嘉伦 澳门往事",
+      "onboard_time": 1728827122,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 217944,
       "num": 217944,
       "word": "陈幸同蒯曼无缘女双决赛",
@@ -1219,8 +1251,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 215811,
+      "num": 215811,
+      "word": "联合国维和部队拒绝以色列撤离要求",
+      "onboard_time": 1728825681,
+      "rank": 48,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 215559,
-      "num": 215559,
+      "num": 252392,
       "word": "张萌来选短剧演员了",
       "onboard_time": 1728828623,
       "rank": 28,
@@ -1241,14 +1281,6 @@
       "onboard_time": 1728805760,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 212251,
-      "num": 212251,
-      "word": "联合国维和部队拒绝以色列撤离要求",
-      "onboard_time": 1728825681,
-      "rank": 48,
-      "category": "国外时政"
     },
     {
       "raw_hot": 212165,
@@ -1273,6 +1305,14 @@
       "onboard_time": 1728824722,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 203638,
+      "num": 307431,
+      "word": "萧敬腾林有慧婚礼亲吻",
+      "onboard_time": 1728820400,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 203356,
@@ -1339,20 +1379,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 200330,
-      "num": 213044,
-      "word": "俄罗斯车臣首府发生爆炸致4死",
-      "onboard_time": 1728826821,
-      "rank": 29,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 199893,
       "num": 199893,
       "word": "檀健次手臂肌肉线条",
       "onboard_time": 1728815180,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 199162,
+      "num": 199162,
+      "word": "想辞职去浙江农村过低欲望的生活",
+      "onboard_time": 1728827662,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 198649,
@@ -1435,28 +1475,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 195718,
-      "num": 307431,
-      "word": "萧敬腾林有慧婚礼亲吻",
-      "onboard_time": 1728820400,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 194467,
       "num": 194467,
       "word": "网易第五人格",
       "onboard_time": 1728794719,
       "rank": 34,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 193571,
-      "num": 471305,
-      "word": "任嘉伦 澳门往事",
-      "onboard_time": 1728827122,
-      "rank": 8,
-      "category": "剧集"
     },
     {
       "raw_hot": 193152,
@@ -1539,6 +1563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 189576,
+      "num": 312975,
+      "word": "沈月辣目洋子去了汪苏泷演唱会",
+      "onboard_time": 1728826341,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 189045,
       "num": 189045,
       "word": "陈丽君和法国歌手机场合唱越剧选段",
@@ -1579,6 +1611,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 187003,
+      "num": 187003,
+      "word": "国乒怎么了",
+      "onboard_time": 1728830004,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 186516,
       "num": 620363,
       "word": "吴青峰当王心凌演唱会嘉宾",
@@ -1595,12 +1635,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 184991,
-      "num": 312975,
-      "word": "沈月辣目洋子去了汪苏泷演唱会",
-      "onboard_time": 1728826341,
-      "rank": 28,
-      "category": "演出"
+      "raw_hot": 184039,
+      "num": 184039,
+      "word": "打假东北雨姐带货油污净博主发声",
+      "onboard_time": 1728829703,
+      "rank": 40,
+      "category": "网红"
     },
     {
       "raw_hot": 181671,
@@ -1657,6 +1697,14 @@
       "onboard_time": 1728781819,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 172923,
+      "num": 172923,
+      "word": "王以太当爸爸了",
+      "onboard_time": 1728830123,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 171430,
@@ -1721,6 +1769,14 @@
       "onboard_time": 1728809060,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 165894,
+      "num": 165894,
+      "word": "哀牢山发现全球仅千只的鸟",
+      "onboard_time": 1728830062,
+      "rank": 42,
+      "category": "旅游"
     },
     {
       "raw_hot": 165510,
@@ -1827,14 +1883,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 158664,
-      "num": 158664,
-      "word": "想辞职去浙江农村过低欲望的生活",
-      "onboard_time": 1728827662,
-      "rank": 41,
-      "category": "情感"
-    },
-    {
       "raw_hot": 158426,
       "num": 158426,
       "word": "东北雨姐道歉网友为何不买账",
@@ -1865,14 +1913,6 @@
       "onboard_time": 1728780377,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 155640,
-      "num": 469835,
-      "word": "房地产税收新政将出台",
-      "onboard_time": 1728827904,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 155150,
@@ -1916,7 +1956,7 @@
     },
     {
       "raw_hot": 153650,
-      "num": 297024,
+      "num": 303796,
       "word": "我赴黎维和官兵在地下掩体报平安",
       "onboard_time": 1728824060,
       "rank": 39,
@@ -1945,6 +1985,14 @@
       "onboard_time": 1728800118,
       "rank": 37,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 151708,
+      "num": 151708,
+      "word": "中国队亚锦赛奖牌2金2银1铜",
+      "onboard_time": 1728829343,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 151520,
@@ -2867,6 +2915,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 73811,
+      "num": 312801,
+      "word": "律师解读南昌大学在教室装摄像头",
+      "onboard_time": 1728828803,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 70686,
       "num": 70686,
       "word": "檀健次三部剧入围视界大会",
@@ -2881,14 +2937,6 @@
       "onboard_time": 1728743542,
       "rank": 46,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 65785,
-      "num": 312801,
-      "word": "律师解读南昌大学在教室装摄像头",
-      "onboard_time": 1728828803,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 64014,
@@ -2923,6 +2971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 61400,
+      "num": 4477771,
+      "word": "全国秋收已近六成",
+      "onboard_time": 1728825861,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 60784,
       "num": 217295,
       "word": "当地教育局回应学生因恶作剧被烫伤",
@@ -2953,14 +3009,6 @@
       "onboard_time": 1728736220,
       "rank": 47,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 55704,
-      "num": 4477771,
-      "word": "全国秋收已近六成",
-      "onboard_time": 1728825861,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 55690,

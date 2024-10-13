@@ -1,0 +1,410 @@
+{
+  "runTime": 1728830235279,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3335003,
+        "num": 3335003,
+        "word": "林诗栋vs张本智和",
+        "onboard_time": 1728819621,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1071064,
+        "num": 1071064,
+        "word": "听泉鉴宝被指塌房四大疑问待解",
+        "onboard_time": 1728825742,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 61400,
+        "num": 472934,
+        "word": "全国秋收已近六成",
+        "onboard_time": 1728825861,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 451891,
+        "num": 451891,
+        "word": "国乒亚锦赛两冠收官",
+        "onboard_time": 1728825802,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 429145,
+        "num": 429145,
+        "word": "吴晙诚没有领奖",
+        "onboard_time": 1728829522,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 16025953,
+        "num": 425012,
+        "word": "朝鲜已向前线部队下达准备射击指示",
+        "onboard_time": 1728826102,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 420596,
+        "num": 420596,
+        "word": "林诗栋1比3张本智和",
+        "onboard_time": 1728824483,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 368643,
+        "num": 368643,
+        "word": "短剧综艺",
+        "onboard_time": 1728826701,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 354503,
+        "num": 354503,
+        "word": "俄罗斯车臣首府发生爆炸致4死",
+        "onboard_time": 1728826821,
+        "rank": 8,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 220026,
+        "num": 349294,
+        "word": "任嘉伦 澳门往事",
+        "onboard_time": 1728827122,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 4347022,
+        "num": 335697,
+        "word": "韩国防部回应朝鲜警告",
+        "onboard_time": 1728826461,
+        "rank": 10,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 965107,
+        "num": 332078,
+        "word": "龚琳娜离婚",
+        "onboard_time": 1728815239,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 889954,
+        "num": 316384,
+        "word": "张本智和模仿樊振东模仿姆巴佩",
+        "onboard_time": 1728827423,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144259,
+        "num": 303796,
+        "word": "我赴黎维和官兵在地下掩体报平安",
+        "onboard_time": 1728824060,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 302518,
+        "num": 302518,
+        "word": "海贼王动画停播",
+        "onboard_time": 1728827122,
+        "rank": 14,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 840274,
+        "num": 302054,
+        "word": "国乒梯队建设",
+        "onboard_time": 1728827243,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 586700,
+        "num": 300908,
+        "word": "阿娇复胖",
+        "onboard_time": 1728824120,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 483799,
+        "num": 300387,
+        "word": "文章模仿向佐动作",
+        "onboard_time": 1728821841,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 457667,
+        "num": 299222,
+        "word": "白百何晒与大儿子合照",
+        "onboard_time": 1728821599,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 73811,
+        "num": 297653,
+        "word": "律师解读南昌大学在教室装摄像头",
+        "onboard_time": 1728828803,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 676608,
+        "num": 297542,
+        "word": "年轻人下班后开始搞副业了",
+        "onboard_time": 1728828623,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 540298,
+        "num": 295635,
+        "word": "奥利 背刺",
+        "onboard_time": 1728818420,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 426187,
+        "num": 295190,
+        "word": "河南一县城周边发现近2000头野猪",
+        "onboard_time": 1728822739,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 423377,
+        "num": 294545,
+        "word": "SpaceX首次回收星舰成功",
+        "onboard_time": 1728824423,
+        "rank": 23,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 293658,
+        "num": 293658,
+        "word": "郑钦文武网亚军",
+        "onboard_time": 1728820521,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 266771,
+        "num": 266771,
+        "word": "年轻人开始抛弃优衣库",
+        "onboard_time": 1728820882,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264274,
+        "num": 264274,
+        "word": "房地产税收新政将出台",
+        "onboard_time": 1728827904,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253564,
+        "num": 253564,
+        "word": "K总女友颜值",
+        "onboard_time": 1728820400,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 200530,
+        "num": 252392,
+        "word": "张萌来选短剧演员了",
+        "onboard_time": 1728828623,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189576,
+        "num": 252041,
+        "word": "沈月辣目洋子去了汪苏泷演唱会",
+        "onboard_time": 1728826341,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 251873,
+        "num": 251873,
+        "word": "情侣捡到老人手机用免密支付买黄金",
+        "onboard_time": 1728810859,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225851,
+        "num": 225851,
+        "word": "DK对战WBG",
+        "onboard_time": 1728822199,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 215811,
+        "num": 215811,
+        "word": "联合国维和部队拒绝以色列撤离要求",
+        "onboard_time": 1728825681,
+        "rank": 32,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 203719,
+        "num": 203719,
+        "word": "陈乔恩夫妇参加萧敬腾婚礼",
+        "onboard_time": 1728821239,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199162,
+        "num": 199162,
+        "word": "想辞职去浙江农村过低欲望的生活",
+        "onboard_time": 1728827662,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 199013,
+        "num": 199013,
+        "word": "饭圈大粉诈骗粉丝300余万元",
+        "onboard_time": 1728805579,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197298,
+        "num": 197298,
+        "word": "朝鲜选手金琴英亚锦赛夺冠",
+        "onboard_time": 1728816620,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 193173,
+        "num": 193173,
+        "word": "郑钦文收获30.9万美元奖金",
+        "onboard_time": 1728824060,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 203638,
+        "num": 191722,
+        "word": "萧敬腾林有慧婚礼亲吻",
+        "onboard_time": 1728820400,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187003,
+        "num": 187003,
+        "word": "国乒怎么了",
+        "onboard_time": 1728830004,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 184039,
+        "num": 184039,
+        "word": "打假东北雨姐带货油污净博主发声",
+        "onboard_time": 1728829703,
+        "rank": 40,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 172923,
+        "num": 172923,
+        "word": "王以太当爸爸了",
+        "onboard_time": 1728830123,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 165894,
+        "num": 165894,
+        "word": "哀牢山发现全球仅千只的鸟",
+        "onboard_time": 1728830062,
+        "rank": 42,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 157745,
+        "num": 157745,
+        "word": "为什么金价狂飙却不香了",
+        "onboard_time": 1728812419,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 156534,
+        "num": 156534,
+        "word": "亚锦赛地胶",
+        "onboard_time": 1728824241,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 152734,
+        "num": 152734,
+        "word": "赵露思工作室更新",
+        "onboard_time": 1728815301,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151708,
+        "num": 151708,
+        "word": "中国队亚锦赛奖牌2金2银1铜",
+        "onboard_time": 1728829343,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148225,
+        "num": 148225,
+        "word": "乐华首次公开艺人KPI业绩",
+        "onboard_time": 1728813619,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147743,
+        "num": 147743,
+        "word": "幼教老师吐槽每天都有开不完的会",
+        "onboard_time": 1728823341,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146529,
+        "num": 146529,
+        "word": "陈都灵赫本风",
+        "onboard_time": 1728816920,
+        "rank": 49,
+        "category": "作品衍生,时尚"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国人民的好朋友为了友谊跨越山海#"
+    }
+  }
+}
