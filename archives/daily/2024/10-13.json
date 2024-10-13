@@ -1,6 +1,6 @@
 {
   "startTime": 1728750414717,
-  "endTime": 1728807978935,
+  "endTime": 1728808819452,
   "band_list": [
     {
       "raw_hot": 2725617,
@@ -11,12 +11,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2215753,
-      "num": 317554,
+      "raw_hot": 2399223,
+      "num": 370814,
       "word": "饭圈大粉诈骗粉丝300余万元",
       "onboard_time": 1728805579,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1727739,
+      "num": 1727739,
+      "word": "许昕因伤退赛",
+      "onboard_time": 1728807018,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 1596892,
@@ -92,7 +100,7 @@
     },
     {
       "raw_hot": 1065108,
-      "num": 354158,
+      "num": 369632,
       "word": "90后小伙炒股4天亏损32万",
       "onboard_time": 1728803958,
       "rank": 13,
@@ -211,20 +219,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 756654,
-      "num": 756654,
-      "word": "许昕因伤退赛",
-      "onboard_time": 1728807018,
-      "rank": 3,
-      "category": "体育"
-    },
-    {
       "raw_hot": 707638,
-      "num": 316955,
+      "num": 368852,
       "word": "费曼模仿向佐",
       "onboard_time": 1728805760,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 693223,
+      "num": 693223,
+      "word": "林诗栋张本智和争冠",
+      "onboard_time": 1728805460,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 676154,
@@ -249,14 +257,6 @@
       "onboard_time": 1728784638,
       "rank": 17,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 668687,
-      "num": 668687,
-      "word": "林诗栋张本智和争冠",
-      "onboard_time": 1728805460,
-      "rank": 4,
-      "category": "体育"
     },
     {
       "raw_hot": 638140,
@@ -331,20 +331,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 554149,
+      "num": 371369,
+      "word": "吹牛老爹 贾斯汀比伯",
+      "onboard_time": 1728802640,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 544372,
       "num": 544372,
       "word": "赖美云淘汰",
       "onboard_time": 1728799998,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 522579,
-      "num": 371369,
-      "word": "吹牛老爹 贾斯汀比伯",
-      "onboard_time": 1728802640,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 516039,
@@ -404,7 +404,7 @@
     },
     {
       "raw_hot": 434576,
-      "num": 315665,
+      "num": 365937,
       "word": "林诗栋18比16篠塚大登",
       "onboard_time": 1728805939,
       "rank": 15,
@@ -451,6 +451,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 380478,
+      "num": 365947,
+      "word": "陈梦谈最近国外乒乓小将崛起",
+      "onboard_time": 1728808099,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 353764,
       "num": 251069,
       "word": "许昕4比0战胜尹孟泽",
@@ -468,7 +476,7 @@
     },
     {
       "raw_hot": 350550,
-      "num": 314017,
+      "num": 330616,
       "word": "隔夜水出现了透明螺旋物",
       "onboard_time": 1728805818,
       "rank": 21,
@@ -755,6 +763,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 202904,
+      "num": 330723,
+      "word": "TOP登陆少年爆改",
+      "onboard_time": 1728807918,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 202874,
       "num": 215209,
       "word": "肖战全黑套装",
@@ -779,19 +795,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 201160,
-      "num": 201160,
-      "word": "TOP登陆少年爆改",
-      "onboard_time": 1728807918,
-      "rank": 33,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 200777,
       "num": 200777,
       "word": "宋亚轩强到对手背后蛐蛐",
       "onboard_time": 1728800539,
       "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 199264,
+      "num": 330669,
+      "word": "年轻的战场有王一博",
+      "onboard_time": 1728808039,
+      "rank": 19,
       "category": "综艺"
     },
     {
@@ -1067,6 +1083,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 158170,
+      "num": 158170,
+      "word": "最萌身高差老夫妻雨后牵手散步",
+      "onboard_time": 1728806959,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 157662,
       "num": 157662,
       "word": "健身达人肚子里跟普通人有什么不同",
@@ -1163,14 +1187,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 146287,
-      "num": 146287,
-      "word": "最萌身高差老夫妻雨后牵手散步",
-      "onboard_time": 1728806959,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 145946,
       "num": 145946,
       "word": "律师谈景德镇一家三口被撞身亡",
@@ -1201,6 +1217,14 @@
       "onboard_time": 1728761230,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 144482,
+      "num": 144482,
+      "word": "资助了5年的女孩悄悄给我转钱",
+      "onboard_time": 1728808219,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 143473,
@@ -1249,6 +1273,14 @@
       "onboard_time": 1728791658,
       "rank": 33,
       "category": "教育"
+    },
+    {
+      "raw_hot": 140975,
+      "num": 140975,
+      "word": "大学生正在甩掉羊毛党标签",
+      "onboard_time": 1728805818,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 138325,
@@ -1403,6 +1435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 120458,
+      "num": 371920,
+      "word": "成都一燃油车在空地上燃爆",
+      "onboard_time": 1728808099,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 120347,
       "num": 120347,
       "word": "SEVENTEEN演唱会着火",
@@ -1489,6 +1529,22 @@
       "onboard_time": 1728706519,
       "rank": 36,
       "category": "网红"
+    },
+    {
+      "raw_hot": 112621,
+      "num": 112621,
+      "word": "张雨霏穿最粉的衣服练最狠的训练",
+      "onboard_time": 1728808581,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 111643,
+      "num": 111643,
+      "word": "林诗栋3比0篠塚大登",
+      "onboard_time": 1728805760,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 110640,
@@ -1625,14 +1681,6 @@
       "onboard_time": 1728755652,
       "rank": 8,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 99573,
-      "num": 99573,
-      "word": "林诗栋3比0篠塚大登",
-      "onboard_time": 1728805760,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 99338,
@@ -1859,6 +1907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 59403,
+      "num": 314736,
+      "word": "刘雯重返维密秀",
+      "onboard_time": 1728807501,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 59044,
       "num": 59044,
       "word": "直播间一眼假的名家字画谁在买",
@@ -2043,6 +2099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 27978,
+      "num": 935112,
+      "word": "神十九10月下旬发射",
+      "onboard_time": 1728807258,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 27862,
       "num": 213685,
       "word": "敏感肌如何有效美白",
@@ -2072,14 +2136,6 @@
       "word": "在新疆的湖州蟹一只能卖100元",
       "onboard_time": 1728764832,
       "rank": 40,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 22300,
-      "num": 766757,
-      "word": "神十九10月下旬发射",
-      "onboard_time": 1728807258,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -2115,14 +2171,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 18581,
-      "num": 314736,
-      "word": "刘雯重返维密秀",
-      "onboard_time": 1728807501,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 16054,
       "num": 316029,
       "word": "要以投资心态入市",
@@ -2145,6 +2193,14 @@
       "onboard_time": 1728735860,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 10408,
+      "num": 169846,
+      "word": "德约科维奇vs辛纳",
+      "onboard_time": 1728808640,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 9077,
