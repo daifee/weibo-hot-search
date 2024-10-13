@@ -1,6 +1,6 @@
 {
   "startTime": 1728750414717,
-  "endTime": 1728797927198,
+  "endTime": 1728800983813,
   "band_list": [
     {
       "raw_hot": 2725617,
@@ -51,6 +51,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1200223,
+      "num": 323731,
+      "word": "小巷贱人",
+      "onboard_time": 1728798739,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1094018,
       "num": 1094018,
       "word": "王楚钦止步亚锦赛8强",
@@ -68,7 +76,7 @@
     },
     {
       "raw_hot": 1047915,
-      "num": 268705,
+      "num": 301290,
       "word": "国乒一天之内输了十场",
       "onboard_time": 1728792918,
       "rank": 20,
@@ -76,7 +84,7 @@
     },
     {
       "raw_hot": 951025,
-      "num": 264055,
+      "num": 326792,
       "word": "许昕1天2战左臂出现反应",
       "onboard_time": 1728796039,
       "rank": 30,
@@ -121,6 +129,14 @@
       "onboard_time": 1728747921,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 819791,
+      "num": 819791,
+      "word": "东部战区随时能战",
+      "onboard_time": 1728795979,
+      "rank": 16,
+      "category": "军事"
     },
     {
       "raw_hot": 806476,
@@ -251,14 +267,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 536835,
-      "num": 305715,
-      "word": "东部战区随时能战",
-      "onboard_time": 1728795979,
-      "rank": 16,
-      "category": "军事"
-    },
-    {
       "raw_hot": 516039,
       "num": 234991,
       "word": "东北雨姐及团队绝大部分非当地村民",
@@ -291,12 +299,36 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 434997,
+      "num": 434997,
+      "word": "陈幸同蒯曼VS大藤沙月横井呋樱",
+      "onboard_time": 1728796219,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 429309,
       "num": 429309,
       "word": "孩子走失可用十人四追法寻人",
       "onboard_time": 1728751996,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 424072,
+      "num": 311743,
+      "word": "吹牛老爹",
+      "onboard_time": 1728798198,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 419340,
+      "num": 305204,
+      "word": "于正说和赵丽颖杨幂都有联系",
+      "onboard_time": 1728797120,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 408879,
@@ -331,12 +363,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 339754,
+      "num": 339754,
+      "word": "赖美云淘汰",
+      "onboard_time": 1728799998,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 337910,
       "num": 259427,
       "word": "狗主人甚至还提了水果来赎身",
       "onboard_time": 1728792380,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 320496,
+      "num": 320496,
+      "word": "张本智和vs吴晙诚",
+      "onboard_time": 1728798139,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 305623,
@@ -484,7 +532,7 @@
     },
     {
       "raw_hot": 225162,
-      "num": 225162,
+      "num": 328432,
       "word": "中国人的绝对色感惊艳了",
       "onboard_time": 1728796579,
       "rank": 27,
@@ -515,6 +563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 217944,
+      "num": 217944,
+      "word": "陈幸同蒯曼无缘女双决赛",
+      "onboard_time": 1728798080,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 212165,
       "num": 251739,
       "word": "内娱古偶换乘恋爱图",
@@ -529,6 +585,14 @@
       "onboard_time": 1728796819,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 206932,
+      "num": 206932,
+      "word": "黄磊孙莉逛环球影城",
+      "onboard_time": 1728800779,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 202874,
@@ -547,6 +611,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 202116,
+      "num": 192145,
+      "word": "林诗栋冲击三冠王",
+      "onboard_time": 1728800479,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 202080,
       "num": 184341,
       "word": "余宇涵出发北京路透",
@@ -561,6 +633,14 @@
       "onboard_time": 1728747020,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 197199,
+      "num": 197199,
+      "word": "马嘉祺好像混入后台的观众",
+      "onboard_time": 1728800061,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 196792,
@@ -585,6 +665,14 @@
       "onboard_time": 1728793099,
       "rank": 26,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 196307,
+      "num": 308635,
+      "word": "王爷 美人要跟别人成亲了",
+      "onboard_time": 1728799939,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 194467,
@@ -619,6 +707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 192230,
+      "num": 192230,
+      "word": "原来100天真能做成一件伟大的事",
+      "onboard_time": 1728800539,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 192190,
       "num": 192190,
       "word": "李荣浩 兄弟送你三个字你完了",
@@ -643,20 +739,28 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 190426,
+      "num": 190426,
+      "word": "宋亚轩强到对手背后蛐蛐",
+      "onboard_time": 1728800539,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 189776,
+      "num": 189776,
+      "word": "甄芙传",
+      "onboard_time": 1728797719,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 188423,
       "num": 338591,
       "word": "伊朗议长驾机在以军空袭中访黎",
       "onboard_time": 1728787159,
       "rank": 27,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 188417,
-      "num": 314874,
-      "word": "陈幸同蒯曼VS大藤沙月横井呋樱",
-      "onboard_time": 1728796219,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 188189,
@@ -673,6 +777,14 @@
       "onboard_time": 1728744922,
       "rank": 23,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 185431,
+      "num": 185431,
+      "word": "严浩翔拒绝毒奶",
+      "onboard_time": 1728800359,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 174802,
@@ -803,20 +915,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 152937,
+      "num": 152937,
+      "word": "刘学义谈给妈妈换肾",
+      "onboard_time": 1728800840,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 151802,
+      "num": 151802,
+      "word": "花傲天OB秋决",
+      "onboard_time": 1728800118,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 150348,
       "num": 150348,
       "word": "你的房贷还完了吗",
       "onboard_time": 1728732920,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 150160,
-      "num": 150160,
-      "word": "甄芙传",
-      "onboard_time": 1728797719,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 149676,
@@ -889,6 +1009,14 @@
       "onboard_time": 1728788899,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 142166,
+      "num": 142166,
+      "word": "于正说张婉莹长得像李若彤",
+      "onboard_time": 1728798198,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 141462,
@@ -1035,6 +1163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 115748,
+      "num": 115748,
+      "word": "小孩卡喉退伍军人停车飞奔救人",
+      "onboard_time": 1728799459,
+      "rank": 43,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 115662,
       "num": 115662,
       "word": "土松犬 中国人自己的萨摩耶",
@@ -1145,6 +1281,14 @@
       "onboard_time": 1728783198,
       "rank": 40,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 103083,
+      "num": 103083,
+      "word": "洱海之源秋景如画",
+      "onboard_time": 1728800061,
+      "rank": 48,
+      "category": "旅游"
     },
     {
       "raw_hot": 102601,
@@ -1395,14 +1539,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 60629,
-      "num": 233270,
-      "word": "于正说和赵丽颖杨幂都有联系",
-      "onboard_time": 1728797120,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 59044,
       "num": 59044,
       "word": "直播间一眼假的名家字画谁在买",
@@ -1417,6 +1553,14 @@
       "onboard_time": 1728736220,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 56437,
+      "num": 303285,
+      "word": "向佐说张大大是郭碧婷闺蜜",
+      "onboard_time": 1728799820,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 55690,
