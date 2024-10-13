@@ -1,0 +1,410 @@
+{
+  "runTime": 1728819321454,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1634878,
+        "num": 1634878,
+        "word": "金琴英3比1张本美和",
+        "onboard_time": 1728816799,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1418993,
+        "num": 1418993,
+        "word": "郑钦文vs萨巴伦卡",
+        "onboard_time": 1728810439,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 10467,
+        "num": 802091,
+        "word": "神十九10月下旬发射",
+        "onboard_time": 1728807258,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 792854,
+        "num": 792854,
+        "word": "朝鲜选手金琴英亚锦赛夺冠",
+        "onboard_time": 1728816620,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 638576,
+        "num": 638576,
+        "word": "为什么金价狂飙却不香了",
+        "onboard_time": 1728812419,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 630438,
+        "num": 630438,
+        "word": "郑钦文破发",
+        "onboard_time": 1728814280,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 610269,
+        "num": 610269,
+        "word": "奥利 背刺",
+        "onboard_time": 1728818420,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 445291,
+        "num": 445291,
+        "word": "陈梦谈最近国外乒乓小将崛起",
+        "onboard_time": 1728808099,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 418293,
+        "num": 418293,
+        "word": "原来冰墩墩原型是奥组委疯狂暗示的",
+        "onboard_time": 1728802939,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127986,
+        "num": 413896,
+        "word": "广州通报一未成年人辍学拾荒",
+        "onboard_time": 1728818479,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1906231,
+        "num": 408196,
+        "word": "龚琳娜离婚",
+        "onboard_time": 1728815239,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1465536,
+        "num": 405155,
+        "word": "听到姑父去世女孩从淡定到泪崩",
+        "onboard_time": 1728817042,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 610798,
+        "num": 400170,
+        "word": "乐华首次公开艺人KPI业绩",
+        "onboard_time": 1728813619,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 599328,
+        "num": 395588,
+        "word": "饭圈大粉诈骗粉丝300余万元",
+        "onboard_time": 1728805579,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 504007,
+        "num": 391674,
+        "word": "向佐回复费曼",
+        "onboard_time": 1728811519,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 387411,
+        "num": 387411,
+        "word": "家属哭诉6岁孙女住院输液时去世",
+        "onboard_time": 1728813080,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 353177,
+        "num": 353177,
+        "word": "陈都灵赫本风",
+        "onboard_time": 1728816920,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 340845,
+        "num": 340845,
+        "word": "郑钦文1比1萨巴伦卡",
+        "onboard_time": 1728816860,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 340004,
+        "num": 340004,
+        "word": "赵露思工作室更新",
+        "onboard_time": 1728815301,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 333922,
+        "num": 333922,
+        "word": "林诗栋张本智和争冠",
+        "onboard_time": 1728805460,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 318298,
+        "num": 318298,
+        "word": "情侣捡到老人手机用免密支付买黄金",
+        "onboard_time": 1728810859,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 289226,
+        "num": 289226,
+        "word": "许昕因伤退赛",
+        "onboard_time": 1728807018,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 280442,
+        "num": 280442,
+        "word": "韩方回应若构成威胁朝鲜政权将终结",
+        "onboard_time": 1728811640,
+        "rank": 22,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 249792,
+        "num": 249792,
+        "word": "有人月供将减近1900元",
+        "onboard_time": 1728817042,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215544,
+        "num": 215544,
+        "word": "快递员寄出3万黄金后警觉报警",
+        "onboard_time": 1728809360,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213194,
+        "num": 213194,
+        "word": "陈都灵丞磊生图",
+        "onboard_time": 1728814159,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 190832,
+        "num": 212429,
+        "word": "郑钦文决赛前说把心态放稳",
+        "onboard_time": 1728810559,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 145433,
+        "num": 212199,
+        "word": "王安宇拍戏瘦了7公斤",
+        "onboard_time": 1728816201,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125876,
+        "num": 211064,
+        "word": "侯明昊白发红色挑染造型",
+        "onboard_time": 1728817819,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 10854,
+        "num": 209398,
+        "word": "郑钦文这球太精彩了",
+        "onboard_time": 1728819140,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 209394,
+        "num": 209394,
+        "word": "比伯yummy mv",
+        "onboard_time": 1728810439,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 198770,
+        "num": 198770,
+        "word": "萧敬腾林有慧婚礼",
+        "onboard_time": 1728795260,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198420,
+        "num": 198420,
+        "word": "马嘉祺铜锅涮肉vlog",
+        "onboard_time": 1728818722,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180848,
+        "num": 180848,
+        "word": "资助了5年的女孩悄悄给我转钱",
+        "onboard_time": 1728808219,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 142898,
+        "num": 169025,
+        "word": "鹭卓DanceBreak",
+        "onboard_time": 1728818840,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 168601,
+        "num": 168601,
+        "word": "郑钦文二度破发",
+        "onboard_time": 1728816440,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167600,
+        "num": 167600,
+        "word": "91岁母亲看望病重儿子后儿子离世",
+        "onboard_time": 1728812359,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161415,
+        "num": 161415,
+        "word": "上海大师赛",
+        "onboard_time": 1728819080,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158469,
+        "num": 158469,
+        "word": "预制风还是吹到了婚礼圈",
+        "onboard_time": 1728788958,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158426,
+        "num": 158426,
+        "word": "东北雨姐道歉网友为何不买账",
+        "onboard_time": 1728813920,
+        "rank": 39,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 147098,
+        "num": 147098,
+        "word": "催更曹雪芹",
+        "onboard_time": 1728815180,
+        "rank": 40,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 145495,
+        "num": 145495,
+        "word": "GW对战WBG",
+        "onboard_time": 1728817881,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 144059,
+        "num": 144059,
+        "word": "隔夜水出现了透明螺旋物",
+        "onboard_time": 1728805818,
+        "rank": 42,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 138388,
+        "num": 138388,
+        "word": "吹牛老爹 贾斯汀比伯",
+        "onboard_time": 1728802640,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19474,
+        "num": 136030,
+        "word": "终于轮到我给庞博爆灯了",
+        "onboard_time": 1728817460,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135940,
+        "num": 135940,
+        "word": "中国女乒50年来亚锦赛首次0冠",
+        "onboard_time": 1728819021,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133555,
+        "num": 133555,
+        "word": "女子诈骗150万后整容潜逃泰国被抓",
+        "onboard_time": 1728810260,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124782,
+        "num": 124782,
+        "word": "七夜雪",
+        "onboard_time": 1728819140,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109974,
+        "num": 116872,
+        "word": "年轻的战场有王一博",
+        "onboard_time": 1728808039,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116050,
+        "num": 116050,
+        "word": "清融 伴生皮永远的白月光",
+        "onboard_time": 1728817881,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#感悟总书记的传统文化情结#"
+    }
+  }
+}

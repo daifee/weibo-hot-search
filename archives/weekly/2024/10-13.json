@@ -1,6 +1,6 @@
 {
   "startTime": 1728750414717,
-  "endTime": 1728818243469,
+  "endTime": 1728819321454,
   "band_list": [
     {
       "raw_hot": 3708701,
@@ -51,12 +51,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1465536,
+      "num": 405155,
+      "word": "听到姑父去世女孩从淡定到泪崩",
+      "onboard_time": 1728817042,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1419674,
       "num": 294101,
       "word": "东北雨姐发文道歉",
       "onboard_time": 1728740844,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1418993,
+      "num": 1418993,
+      "word": "郑钦文vs萨巴伦卡",
+      "onboard_time": 1728810439,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 1287431,
@@ -105,14 +121,6 @@
       "onboard_time": 1728786258,
       "rank": 3,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 1211764,
-      "num": 1211764,
-      "word": "郑钦文vs萨巴伦卡",
-      "onboard_time": 1728810439,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 1094018,
@@ -243,6 +251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 792854,
+      "num": 792854,
+      "word": "朝鲜选手金琴英亚锦赛夺冠",
+      "onboard_time": 1728816620,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 786958,
       "num": 287790,
       "word": "一家三口被撞身亡司机想帮养老换谅解",
@@ -355,6 +371,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 610269,
+      "num": 610269,
+      "word": "奥利 背刺",
+      "onboard_time": 1728818420,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 609535,
       "num": 284723,
       "word": "王俊凯 环球影城",
@@ -443,14 +467,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 520333,
-      "num": 352232,
-      "word": "听到姑父去世女孩从淡定到泪崩",
-      "onboard_time": 1728817042,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 516039,
       "num": 234991,
       "word": "东北雨姐及团队绝大部分非当地村民",
@@ -476,7 +492,7 @@
     },
     {
       "raw_hot": 492749,
-      "num": 296583,
+      "num": 318298,
       "word": "情侣捡到老人手机用免密支付买黄金",
       "onboard_time": 1728810859,
       "rank": 27,
@@ -563,14 +579,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 389915,
-      "num": 389915,
-      "word": "朝鲜选手金琴英亚锦赛夺冠",
-      "onboard_time": 1728816620,
-      "rank": 7,
-      "category": "体育"
-    },
-    {
       "raw_hot": 384388,
       "num": 384388,
       "word": "迪丽热巴美得像洋娃娃",
@@ -611,6 +619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 353177,
+      "num": 353177,
+      "word": "陈都灵赫本风",
+      "onboard_time": 1728816920,
+      "rank": 24,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 351483,
       "num": 314029,
       "word": "被胡冰卿一抬眼吓到了",
@@ -632,6 +648,14 @@
       "word": "国乒女单无缘亚锦赛四强",
       "onboard_time": 1728736700,
       "rank": 20,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 340845,
+      "num": 340845,
+      "word": "郑钦文1比1萨巴伦卡",
+      "onboard_time": 1728816860,
+      "rank": 34,
       "category": "体育"
     },
     {
@@ -777,6 +801,14 @@
       "onboard_time": 1728800779,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 249792,
+      "num": 370146,
+      "word": "有人月供将减近1900元",
+      "onboard_time": 1728817042,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 249362,
@@ -939,14 +971,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 216985,
-      "num": 213888,
-      "word": "陈都灵赫本风",
-      "onboard_time": 1728816920,
-      "rank": 24,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 214654,
       "num": 214654,
       "word": "郑钦文二度破发",
@@ -1019,14 +1043,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 202061,
-      "num": 370146,
-      "word": "有人月供将减近1900元",
-      "onboard_time": 1728817042,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 200777,
       "num": 200777,
       "word": "宋亚轩强到对手背后蛐蛐",
@@ -1039,6 +1055,14 @@
       "num": 199893,
       "word": "檀健次手臂肌肉线条",
       "onboard_time": 1728815180,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 198420,
+      "num": 198420,
+      "word": "马嘉祺铜锅涮肉vlog",
+      "onboard_time": 1728818722,
       "rank": 32,
       "category": "艺人"
     },
@@ -1145,6 +1169,14 @@
       "onboard_time": 1728783137,
       "rank": 30,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 190832,
+      "num": 212429,
+      "word": "郑钦文决赛前说把心态放稳",
+      "onboard_time": 1728810559,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 189776,
@@ -1283,14 +1315,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 166997,
-      "num": 166997,
-      "word": "郑钦文1比1萨巴伦卡",
-      "onboard_time": 1728816860,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
       "raw_hot": 165510,
       "num": 231364,
       "word": "女子诈骗150万后整容潜逃泰国被抓",
@@ -1355,6 +1379,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 161415,
+      "num": 161415,
+      "word": "上海大师赛",
+      "onboard_time": 1728819080,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 159887,
       "num": 159887,
       "word": "王嘉尔老公变老板",
@@ -1369,6 +1401,14 @@
       "onboard_time": 1728782058,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 158426,
+      "num": 158426,
+      "word": "东北雨姐道歉网友为何不买账",
+      "onboard_time": 1728813920,
+      "rank": 38,
+      "category": "网红"
     },
     {
       "raw_hot": 158170,
@@ -1475,22 +1515,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 149437,
-      "num": 210508,
-      "word": "郑钦文决赛前说把心态放稳",
-      "onboard_time": 1728810559,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 149139,
-      "num": 149139,
-      "word": "东北雨姐道歉网友为何不买账",
-      "onboard_time": 1728813920,
-      "rank": 38,
-      "category": "网红"
-    },
-    {
       "raw_hot": 148112,
       "num": 148112,
       "word": "希林娜依高不说话比说话还累",
@@ -1569,6 +1593,14 @@
       "onboard_time": 1728790399,
       "rank": 35,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 142898,
+      "num": 169025,
+      "word": "鹭卓DanceBreak",
+      "onboard_time": 1728818840,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 142301,
@@ -1659,6 +1691,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 135940,
+      "num": 135940,
+      "word": "中国女乒50年来亚锦赛首次0冠",
+      "onboard_time": 1728819021,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 133450,
       "num": 133450,
       "word": "林钟勋安宰贤亚锦赛夺冠",
@@ -1704,6 +1744,14 @@
       "word": "记者调查东北雨姐事件始末",
       "onboard_time": 1728782718,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 127986,
+      "num": 413896,
+      "word": "广州通报一未成年人辍学拾荒",
+      "onboard_time": 1728818479,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -1753,6 +1801,14 @@
       "onboard_time": 1728817881,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 124782,
+      "num": 124782,
+      "word": "七夜雪",
+      "onboard_time": 1728819140,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 123030,
@@ -2627,8 +2683,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 19406,
-      "num": 117875,
+      "raw_hot": 19474,
+      "num": 136030,
       "word": "终于轮到我给庞博爆灯了",
       "onboard_time": 1728817460,
       "rank": 44,
@@ -2673,6 +2729,14 @@
       "onboard_time": 1728735860,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 10854,
+      "num": 209398,
+      "word": "郑钦文这球太精彩了",
+      "onboard_time": 1728819140,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 10408,
