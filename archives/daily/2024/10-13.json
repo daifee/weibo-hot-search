@@ -1,6 +1,6 @@
 {
   "startTime": 1728750414717,
-  "endTime": 1728823156922,
+  "endTime": 1728824185570,
   "band_list": [
     {
       "raw_hot": 3708701,
@@ -11,20 +11,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2934577,
+      "num": 2934577,
+      "word": "林诗栋vs张本智和",
+      "onboard_time": 1728819621,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2725617,
       "num": 2725617,
       "word": "预制风还是吹到了婚礼圈",
       "onboard_time": 1728788958,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2599305,
-      "num": 2599305,
-      "word": "林诗栋vs张本智和",
-      "onboard_time": 1728819621,
-      "rank": 0,
-      "category": "体育"
     },
     {
       "raw_hot": 2399223,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 2260736,
-      "num": 301428,
+      "num": 375392,
       "word": "中国女乒50年来亚锦赛首次0冠",
       "onboard_time": 1728819021,
       "rank": 45,
@@ -196,11 +196,19 @@
     },
     {
       "raw_hot": 997545,
-      "num": 298445,
+      "num": 347564,
       "word": "K总女友颜值",
       "onboard_time": 1728820400,
       "rank": 13,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 987063,
+      "num": 366056,
+      "word": "文章模仿向佐动作",
+      "onboard_time": 1728821841,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 956396,
@@ -252,7 +260,7 @@
     },
     {
       "raw_hot": 886702,
-      "num": 297241,
+      "num": 355407,
       "word": "白百何晒与大儿子合照",
       "onboard_time": 1728821599,
       "rank": 14,
@@ -281,14 +289,6 @@
       "onboard_time": 1728795979,
       "rank": 16,
       "category": "军事"
-    },
-    {
-      "raw_hot": 818512,
-      "num": 296541,
-      "word": "文章模仿向佐动作",
-      "onboard_time": 1728821841,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 806476,
@@ -345,6 +345,14 @@
       "onboard_time": 1728750797,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 769541,
+      "num": 769541,
+      "word": "SpaceX星舰进行第五次试飞",
+      "onboard_time": 1728822801,
+      "rank": 7,
+      "category": "科学科普"
     },
     {
       "raw_hot": 754272,
@@ -547,6 +555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 479551,
+      "num": 479551,
+      "word": "年轻人开始抛弃优衣库",
+      "onboard_time": 1728820882,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 473128,
       "num": 365304,
       "word": "于正说和赵丽颖杨幂都有联系",
@@ -556,7 +572,7 @@
     },
     {
       "raw_hot": 459722,
-      "num": 295441,
+      "num": 327163,
       "word": "陈乔恩夫妇参加萧敬腾婚礼",
       "onboard_time": 1728821239,
       "rank": 16,
@@ -627,6 +643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 397809,
+      "num": 397809,
+      "word": "河南一县城周边发现近2000头野猪",
+      "onboard_time": 1728822739,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 391122,
       "num": 391122,
       "word": "林诗栋vs篠塚大登",
@@ -657,14 +681,6 @@
       "onboard_time": 1728811640,
       "rank": 49,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 361661,
-      "num": 361661,
-      "word": "SpaceX星舰进行第五次试飞",
-      "onboard_time": 1728822801,
-      "rank": 7,
-      "category": "科学科普"
     },
     {
       "raw_hot": 354763,
@@ -747,14 +763,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 309519,
-      "num": 309519,
-      "word": "年轻人开始抛弃优衣库",
-      "onboard_time": 1728820882,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 305623,
       "num": 278985,
       "word": "郭麒麟打假德云社太子妃",
@@ -820,7 +828,7 @@
     },
     {
       "raw_hot": 273089,
-      "num": 299898,
+      "num": 388298,
       "word": "黎巴嫩将从中国进口手机等电子产品",
       "onboard_time": 1728820038,
       "rank": 12,
@@ -1003,6 +1011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 222960,
+      "num": 222960,
+      "word": "阿娇复胖",
+      "onboard_time": 1728824120,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 222249,
       "num": 222249,
       "word": "游客在浙江出海幸运拍下海豚群跃出海面",
@@ -1099,6 +1115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 203146,
+      "num": 397137,
+      "word": "七夜雪打戏",
+      "onboard_time": 1728822980,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 202904,
       "num": 330723,
       "word": "TOP登陆少年爆改",
@@ -1145,6 +1169,14 @@
       "onboard_time": 1728815180,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 198649,
+      "num": 198649,
+      "word": "亚锦赛直播",
+      "onboard_time": 1728822619,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 198420,
@@ -1275,6 +1307,22 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 191286,
+      "num": 191286,
+      "word": "小石头 全村的希望",
+      "onboard_time": 1728823820,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 190954,
+      "num": 190954,
+      "word": "KSG对战WB",
+      "onboard_time": 1728823459,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 190832,
       "num": 212429,
       "word": "郑钦文决赛前说把心态放稳",
@@ -1360,14 +1408,6 @@
       "word": "陈幸同蒯曼0比3大藤沙月横井咲樱",
       "onboard_time": 1728798739,
       "rank": 42,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 178063,
-      "num": 178063,
-      "word": "亚锦赛直播",
-      "onboard_time": 1728822619,
-      "rank": 38,
       "category": "体育"
     },
     {
@@ -1491,6 +1531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 162837,
+      "num": 162837,
+      "word": "郑钦文希望未来能在武网圆梦夺冠",
+      "onboard_time": 1728823521,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 162190,
       "num": 162190,
       "word": "韩安冉学名媛",
@@ -1521,6 +1569,14 @@
       "onboard_time": 1728745882,
       "rank": 25,
       "category": "演出"
+    },
+    {
+      "raw_hot": 159646,
+      "num": 313123,
+      "word": "刘学义吴谨言新剧一个疯一个倔",
+      "onboard_time": 1728823641,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 159242,
@@ -1588,7 +1644,7 @@
     },
     {
       "raw_hot": 153987,
-      "num": 289186,
+      "num": 323669,
       "word": "音乐缘计划",
       "onboard_time": 1728822682,
       "rank": 22,
@@ -1635,6 +1691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 150455,
+      "num": 150455,
+      "word": "幼教老师吐槽每天都有开不完的会",
+      "onboard_time": 1728823341,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 150348,
       "num": 150348,
       "word": "你的房贷还完了吗",
@@ -1651,20 +1715,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 149493,
-      "num": 199354,
-      "word": "七夜雪打戏",
-      "onboard_time": 1728822980,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 148907,
       "num": 148907,
       "word": "桃晚安道歉",
       "onboard_time": 1728820583,
       "rank": 44,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 148631,
+      "num": 148631,
+      "word": "野猪下山偷袭村民红薯地",
+      "onboard_time": 1728823820,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 148112,
@@ -1731,6 +1795,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 143757,
+      "num": 143757,
+      "word": "郑钦文收获30.9万美元奖金",
+      "onboard_time": 1728824060,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 143527,
       "num": 143527,
       "word": "FPX.ZQ获胜",
@@ -1793,14 +1865,6 @@
       "onboard_time": 1728742703,
       "rank": 28,
       "category": "演出"
-    },
-    {
-      "raw_hot": 141254,
-      "num": 141254,
-      "word": "河南一县城周边发现近2000头野猪",
-      "onboard_time": 1728822739,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 141039,
@@ -2003,6 +2067,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 122010,
+      "num": 163040,
+      "word": "我赴黎维和官兵在地下掩体报平安",
+      "onboard_time": 1728824060,
+      "rank": 39,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 121825,
       "num": 178636,
       "word": "听泉鉴宝学校信息已更改",
@@ -2153,6 +2225,14 @@
       "onboard_time": 1728815841,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 113759,
+      "num": 307431,
+      "word": "萧敬腾林有慧婚礼亲吻",
+      "onboard_time": 1728820400,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 113119,
@@ -2803,6 +2883,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 31745,
+      "num": 1193593,
+      "word": "哪些民生领域这次被国家钱袋子眷顾",
+      "onboard_time": 1728807078,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 31579,
       "num": 966413,
       "word": "神十九10月下旬发射",
@@ -2847,14 +2935,6 @@
       "num": 673256,
       "word": "中国少年先锋队建队75周年",
       "onboard_time": 1728790038,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 24940,
-      "num": 1193593,
-      "word": "哪些民生领域这次被国家钱袋子眷顾",
-      "onboard_time": 1728807078,
       "rank": 2,
       "category": "社会新闻"
     },

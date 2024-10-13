@@ -1,0 +1,410 @@
+{
+  "runTime": 1728824185570,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2934577,
+        "num": 2934577,
+        "word": "林诗栋vs张本智和",
+        "onboard_time": 1728819621,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1546675,
+        "num": 1546675,
+        "word": "郑钦文武网亚军",
+        "onboard_time": 1728820521,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 31745,
+        "num": 1056058,
+        "word": "哪些民生领域这次被国家钱袋子眷顾",
+        "onboard_time": 1728807078,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 769541,
+        "num": 769541,
+        "word": "SpaceX星舰进行第五次试飞",
+        "onboard_time": 1728822801,
+        "rank": 3,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 479551,
+        "num": 479551,
+        "word": "年轻人开始抛弃优衣库",
+        "onboard_time": 1728820882,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 410874,
+        "num": 410874,
+        "word": "为什么金价狂飙却不香了",
+        "onboard_time": 1728812419,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 407210,
+        "num": 407210,
+        "word": "金琴英3比1张本美和",
+        "onboard_time": 1728816799,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 397809,
+        "num": 397809,
+        "word": "河南一县城周边发现近2000头野猪",
+        "onboard_time": 1728822739,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203146,
+        "num": 397137,
+        "word": "七夜雪打戏",
+        "onboard_time": 1728822980,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 242041,
+        "num": 388298,
+        "word": "黎巴嫩将从中国进口手机等电子产品",
+        "onboard_time": 1728820038,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1956563,
+        "num": 375392,
+        "word": "中国女乒50年来亚锦赛首次0冠",
+        "onboard_time": 1728819021,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1209095,
+        "num": 373000,
+        "word": "龚琳娜离婚",
+        "onboard_time": 1728815239,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 987063,
+        "num": 366056,
+        "word": "文章模仿向佐动作",
+        "onboard_time": 1728821841,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 845193,
+        "num": 355407,
+        "word": "白百何晒与大儿子合照",
+        "onboard_time": 1728821599,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 808428,
+        "num": 347564,
+        "word": "K总女友颜值",
+        "onboard_time": 1728820400,
+        "rank": 14,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 465196,
+        "num": 342363,
+        "word": "饭圈大粉诈骗粉丝300余万元",
+        "onboard_time": 1728805579,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 441149,
+        "num": 327163,
+        "word": "陈乔恩夫妇参加萧敬腾婚礼",
+        "onboard_time": 1728821239,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135722,
+        "num": 323669,
+        "word": "音乐缘计划",
+        "onboard_time": 1728822682,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159646,
+        "num": 313123,
+        "word": "刘学义吴谨言新剧一个疯一个倔",
+        "onboard_time": 1728823641,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113759,
+        "num": 307431,
+        "word": "萧敬腾林有慧婚礼亲吻",
+        "onboard_time": 1728820400,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1124706,
+        "num": 298682,
+        "word": "奥利 背刺",
+        "onboard_time": 1728818420,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 295250,
+        "num": 295250,
+        "word": "朝鲜选手金琴英亚锦赛夺冠",
+        "onboard_time": 1728816620,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 289847,
+        "num": 289847,
+        "word": "郑钦文vs萨巴伦卡",
+        "onboard_time": 1728810439,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 294041,
+        "num": 284815,
+        "word": "陈梦谈最近国外乒乓小将崛起",
+        "onboard_time": 1728808099,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 263858,
+        "num": 263858,
+        "word": "情侣捡到老人手机用免密支付买黄金",
+        "onboard_time": 1728810859,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 234198,
+        "num": 234198,
+        "word": "林诗栋张本智和争冠",
+        "onboard_time": 1728805460,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 222960,
+        "num": 222960,
+        "word": "阿娇复胖",
+        "onboard_time": 1728824120,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 208800,
+        "num": 208800,
+        "word": "乐华首次公开艺人KPI业绩",
+        "onboard_time": 1728813619,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205857,
+        "num": 205857,
+        "word": "陈都灵赫本风",
+        "onboard_time": 1728816920,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 198649,
+        "num": 198649,
+        "word": "亚锦赛直播",
+        "onboard_time": 1728822619,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 191286,
+        "num": 191286,
+        "word": "小石头 全村的希望",
+        "onboard_time": 1728823820,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 190954,
+        "num": 190954,
+        "word": "KSG对战WB",
+        "onboard_time": 1728823459,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 190523,
+        "num": 190523,
+        "word": "DK对战WBG",
+        "onboard_time": 1728822199,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 188070,
+        "num": 188070,
+        "word": "檀健次十点零五克钻戒",
+        "onboard_time": 1728822920,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 185219,
+        "num": 185219,
+        "word": "向佐回复费曼",
+        "onboard_time": 1728811519,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181031,
+        "num": 181031,
+        "word": "萨巴伦卡武网三连冠",
+        "onboard_time": 1728820701,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 180148,
+        "num": 180148,
+        "word": "有人月供将减近1900元",
+        "onboard_time": 1728817042,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178474,
+        "num": 178474,
+        "word": "资助了5年的女孩悄悄给我转钱",
+        "onboard_time": 1728808219,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 163790,
+        "num": 163790,
+        "word": "赵露思工作室更新",
+        "onboard_time": 1728815301,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122010,
+        "num": 163040,
+        "word": "我赴黎维和官兵在地下掩体报平安",
+        "onboard_time": 1728824060,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 162837,
+        "num": 162837,
+        "word": "郑钦文希望未来能在武网圆梦夺冠",
+        "onboard_time": 1728823521,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 152378,
+        "num": 152378,
+        "word": "原来冰墩墩原型是奥组委疯狂暗示的",
+        "onboard_time": 1728802939,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 150455,
+        "num": 150455,
+        "word": "幼教老师吐槽每天都有开不完的会",
+        "onboard_time": 1728823341,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98051,
+        "num": 150132,
+        "word": "我赴黎维和部队工作生活情况公开",
+        "onboard_time": 1728819681,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 149845,
+        "num": 149845,
+        "word": "许昕因伤退赛",
+        "onboard_time": 1728807018,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148631,
+        "num": 148631,
+        "word": "野猪下山偷袭村民红薯地",
+        "onboard_time": 1728823820,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143757,
+        "num": 143757,
+        "word": "郑钦文收获30.9万美元奖金",
+        "onboard_time": 1728824060,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132764,
+        "num": 132764,
+        "word": "比伯yummy mv",
+        "onboard_time": 1728810439,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 130848,
+        "num": 130848,
+        "word": "桃晚安道歉",
+        "onboard_time": 1728820583,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 113676,
+        "num": 130737,
+        "word": "王安宇拍戏瘦了7公斤",
+        "onboard_time": 1728816201,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#感悟总书记的传统文化情结#"
+    }
+  }
+}
