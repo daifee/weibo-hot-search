@@ -1,6 +1,6 @@
 {
   "startTime": 1728836764624,
-  "endTime": 1728839920689,
+  "endTime": 1728840990496,
   "band_list": [
     {
       "raw_hot": 1525577,
@@ -91,8 +91,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 495041,
-      "num": 495041,
+      "raw_hot": 540423,
+      "num": 540423,
       "word": "G2对战BLG",
       "onboard_time": 1728831144,
       "rank": 14,
@@ -121,6 +121,14 @@
       "onboard_time": 1728832281,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 408290,
+      "num": 408290,
+      "word": "BLG",
+      "onboard_time": 1728839474,
+      "rank": 8,
+      "category": "电竞"
     },
     {
       "raw_hot": 361679,
@@ -217,14 +225,6 @@
       "onboard_time": 1728824423,
       "rank": 31,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 201709,
-      "num": 201709,
-      "word": "BLG",
-      "onboard_time": 1728839474,
-      "rank": 8,
-      "category": "电竞"
     },
     {
       "raw_hot": 191148,
@@ -435,6 +435,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 52632,
+      "num": 52632,
+      "word": "许嵩西安演唱会",
+      "onboard_time": 1728831202,
+      "rank": 48,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 37399,
+      "num": 201342,
+      "word": "直击南部战区快艇编队实战化演练",
+      "onboard_time": 1728839474,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 35484,
       "num": 900378,
       "word": "全国秋收已近六成",
@@ -443,12 +459,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 24733,
-      "num": 201342,
-      "word": "直击南部战区快艇编队实战化演练",
-      "onboard_time": 1728839474,
+      "raw_hot": 22546,
+      "num": 278768,
+      "word": "涉诈骗女子在泰被抓多名受害者发声",
+      "onboard_time": 1728840733,
       "rank": 9,
-      "category": "国内时政"
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 8515,
+      "num": 545833,
+      "word": "神十八乘组这周在忙些什么",
+      "onboard_time": 1728825621,
+      "rank": 2,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

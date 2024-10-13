@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1728839920689,
+  "endTime": 1728840990496,
   "band_list": [
     {
       "raw_hot": 17915004,
@@ -6651,6 +6651,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 540423,
+      "num": 540423,
+      "word": "G2对战BLG",
+      "onboard_time": 1728831144,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 540362,
       "num": 755243,
       "word": "听泉鉴宝连线太精彩了",
@@ -7257,14 +7265,6 @@
       "onboard_time": 1728193398,
       "rank": 16,
       "category": "作品衍生,幽默"
-    },
-    {
-      "raw_hot": 495041,
-      "num": 495041,
-      "word": "G2对战BLG",
-      "onboard_time": 1728831144,
-      "rank": 40,
-      "category": "电竞"
     },
     {
       "raw_hot": 494675,
@@ -36035,6 +36035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 52632,
+      "num": 52632,
+      "word": "许嵩西安演唱会",
+      "onboard_time": 1728831202,
+      "rank": 48,
+      "category": "演出"
+    },
+    {
       "raw_hot": 52372,
       "num": 393982,
       "word": "禁区不是景区切勿为流量盲目跟风",
@@ -37657,6 +37665,14 @@
       "onboard_time": 1728769271,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 37399,
+      "num": 201342,
+      "word": "直击南部战区快艇编队实战化演练",
+      "onboard_time": 1728839474,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 37351,
@@ -39315,14 +39331,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 24733,
-      "num": 201342,
-      "word": "直击南部战区快艇编队实战化演练",
-      "onboard_time": 1728839474,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 24333,
       "num": 78357,
       "word": "我们中国我没有看够",
@@ -39372,7 +39380,7 @@
     },
     {
       "raw_hot": 23586,
-      "num": 374537,
+      "num": 545833,
       "word": "神十八乘组这周在忙些什么",
       "onboard_time": 1728825621,
       "rank": 6,
@@ -39545,6 +39553,14 @@
       "onboard_time": 1728041360,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 22546,
+      "num": 278768,
+      "word": "涉诈骗女子在泰被抓多名受害者发声",
+      "onboard_time": 1728840733,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 22537,

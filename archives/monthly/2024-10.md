@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/10/01 00:28:17 ~ 2024/10/14 01:18:40
+本榜单时间：2024/10/01 00:28:17 ~ 2024/10/14 01:36:30
 </p>
 </blockquote>
 <p>
@@ -5001,6 +5001,12 @@ B太曾做客东北雨姐拍摄基地（热度：572110）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23G2%E5%AF%B9%E6%88%98BLG%23" target="weibo">
+G2对战BLG（热度：540423）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%AC%E6%B3%89%E9%89%B4%E5%AE%9D%E8%BF%9E%E7%BA%BF%E5%A4%AA%E7%B2%BE%E5%BD%A9%E4%BA%86%23" target="weibo">
 听泉鉴宝连线太精彩了（热度：540362）
 </a>
@@ -5453,12 +5459,6 @@ GEN对战WBG（热度：516314）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B0%81%E8%83%BD%E5%83%8F%E4%BD%95%E7%82%85%E5%AF%B9%E9%BB%84%E7%A3%8A%E9%82%A3%E6%A0%B7%E5%AF%B9%E6%88%91%23" target="weibo">
 谁能像何炅对黄磊那样对我（热度：496370）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23G2%E5%AF%B9%E6%88%98BLG%23" target="weibo">
-G2对战BLG（热度：495041）
 </a>
 </li>
 
