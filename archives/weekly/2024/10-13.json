@@ -1,6 +1,6 @@
 {
   "startTime": 1728750414717,
-  "endTime": 1728836764624,
+  "endTime": 1728837721020,
   "band_list": [
     {
       "raw_hot": 17915004,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 2965185,
-      "num": 353162,
+      "num": 438262,
       "word": "洪承汉退队",
       "onboard_time": 1728831324,
       "rank": 11,
@@ -100,7 +100,7 @@
     },
     {
       "raw_hot": 1947210,
-      "num": 350062,
+      "num": 457733,
       "word": "国乒怎么了",
       "onboard_time": 1728830004,
       "rank": 39,
@@ -116,7 +116,7 @@
     },
     {
       "raw_hot": 1647629,
-      "num": 348969,
+      "num": 447301,
       "word": "朝军8个炮兵旅团转为射击待命",
       "onboard_time": 1728832042,
       "rank": 14,
@@ -200,6 +200,14 @@
       "word": "村子只是东北雨姐拍短视频的基地",
       "onboard_time": 1728783618,
       "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1215798,
+      "num": 1215798,
+      "word": "上海爷叔现身被大量股民围观",
+      "onboard_time": 1728834261,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -331,12 +339,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 917089,
+      "num": 917089,
+      "word": "听泉鉴宝喊话别再神话我了",
+      "onboard_time": 1728834501,
+      "rank": 3,
+      "category": "网红"
+    },
+    {
       "raw_hot": 908357,
       "num": 908357,
       "word": "何炅喝黄磊做的辣味米稀",
       "onboard_time": 1728787399,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 898165,
+      "num": 898165,
+      "word": "教育局称女童被泼开水系恶作剧",
+      "onboard_time": 1728835878,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 895958,
@@ -393,14 +417,6 @@
       "onboard_time": 1728795979,
       "rank": 16,
       "category": "军事"
-    },
-    {
-      "raw_hot": 817350,
-      "num": 817350,
-      "word": "上海爷叔现身被大量股民围观",
-      "onboard_time": 1728834261,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 806476,
@@ -481,14 +497,6 @@
       "onboard_time": 1728813619,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 742339,
-      "num": 742339,
-      "word": "听泉鉴宝喊话别再神话我了",
-      "onboard_time": 1728834501,
-      "rank": 3,
-      "category": "网红"
     },
     {
       "raw_hot": 736981,
@@ -723,6 +731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 495041,
+      "num": 495041,
+      "word": "G2对战BLG",
+      "onboard_time": 1728831144,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 493889,
       "num": 493889,
       "word": "俄罗斯车臣首府发生爆炸致4死",
@@ -780,7 +796,7 @@
     },
     {
       "raw_hot": 438795,
-      "num": 214438,
+      "num": 258658,
       "word": "女童被压车底路人98秒抬车救人",
       "onboard_time": 1728833002,
       "rank": 19,
@@ -1252,7 +1268,7 @@
     },
     {
       "raw_hot": 232435,
-      "num": 330974,
+      "num": 491423,
       "word": "徐艺真上综艺",
       "onboard_time": 1728831683,
       "rank": 28,
@@ -1409,14 +1425,6 @@
       "onboard_time": 1728828623,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 215027,
-      "num": 215027,
-      "word": "G2对战BLG",
-      "onboard_time": 1728831144,
-      "rank": 40,
-      "category": "电竞"
     },
     {
       "raw_hot": 214654,
@@ -1704,6 +1712,14 @@
       "word": "小石头 全村的希望",
       "onboard_time": 1728823820,
       "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 191148,
+      "num": 191148,
+      "word": "郑钦文决赛前吃了退烧药",
+      "onboard_time": 1728833900,
+      "rank": 44,
       "category": "体育"
     },
     {
@@ -2059,14 +2075,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 160336,
-      "num": 160336,
-      "word": "郑钦文决赛前吃了退烧药",
-      "onboard_time": 1728833900,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 159887,
       "num": 159887,
       "word": "王嘉尔老公变老板",
@@ -2089,14 +2097,6 @@
       "onboard_time": 1728782058,
       "rank": 28,
       "category": "演出"
-    },
-    {
-      "raw_hot": 158996,
-      "num": 224486,
-      "word": "教育局称女童被泼开水系恶作剧",
-      "onboard_time": 1728835878,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 158426,
@@ -2315,6 +2315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 144863,
+      "num": 144863,
+      "word": "莽小五上树",
+      "onboard_time": 1728835580,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 144488,
       "num": 144488,
       "word": "萨巴伦卡破发",
@@ -2417,14 +2425,6 @@
       "onboard_time": 1728816381,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 139740,
-      "num": 139740,
-      "word": "莽小五上树",
-      "onboard_time": 1728835580,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 138325,
@@ -2579,6 +2579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 124408,
+      "num": 328311,
+      "word": "萧敬腾在婚礼上泪流满面",
+      "onboard_time": 1728831743,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 123030,
       "num": 123030,
       "word": "张真源心比人早一步上场",
@@ -2635,6 +2643,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 119415,
+      "num": 175709,
+      "word": "林诗栋蒯曼冠军",
+      "onboard_time": 1728835219,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 119244,
       "num": 119244,
       "word": "万妮达陈昊宇看到1.6的反应",
@@ -2649,14 +2665,6 @@
       "onboard_time": 1728814520,
       "rank": 43,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 118031,
-      "num": 175709,
-      "word": "林诗栋蒯曼冠军",
-      "onboard_time": 1728835219,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 117933,
@@ -2881,6 +2889,14 @@
       "onboard_time": 1728736940,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 105429,
+      "num": 105429,
+      "word": "刘若英演唱会嘉宾是阿信",
+      "onboard_time": 1728837017,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 104913,
@@ -3139,14 +3155,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 82194,
-      "num": 328311,
-      "word": "萧敬腾在婚礼上泪流满面",
-      "onboard_time": 1728831743,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 80134,
       "num": 119386,
       "word": "林诗栋晋级亚锦赛四强",
@@ -3248,6 +3256,14 @@
       "word": "直播间一眼假的名家字画谁在买",
       "onboard_time": 1728760812,
       "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 57055,
+      "num": 477455,
+      "word": "旅美大熊猫一家今晚抵达成都",
+      "onboard_time": 1728837077,
+      "rank": 9,
       "category": "社会新闻"
     },
     {

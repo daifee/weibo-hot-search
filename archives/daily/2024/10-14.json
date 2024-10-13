@@ -1,10 +1,10 @@
 {
   "startTime": 1728836764624,
-  "endTime": 1728836764624,
+  "endTime": 1728837721020,
   "band_list": [
     {
       "raw_hot": 1525577,
-      "num": 372619,
+      "num": 658814,
       "word": "朝鲜已向前线部队下达准备射击指示",
       "onboard_time": 1728826102,
       "rank": 5,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1346774,
-      "num": 223112,
+      "num": 473373,
       "word": "听泉鉴宝被指塌房四大疑问待解",
       "onboard_time": 1728825742,
       "rank": 10,
@@ -20,15 +20,23 @@
     },
     {
       "raw_hot": 1261004,
-      "num": 221047,
+      "num": 447301,
       "word": "朝军8个炮兵旅团转为射击待命",
       "onboard_time": 1728832042,
       "rank": 11,
       "category": "社会新闻,国外时政"
     },
     {
+      "raw_hot": 1215798,
+      "num": 1215798,
+      "word": "上海爷叔现身被大量股民围观",
+      "onboard_time": 1728834261,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1211189,
-      "num": 217635,
+      "num": 465773,
       "word": "韩国防部回应朝鲜警告",
       "onboard_time": 1728826461,
       "rank": 12,
@@ -36,11 +44,27 @@
     },
     {
       "raw_hot": 1193897,
-      "num": 214992,
+      "num": 457733,
       "word": "国乒怎么了",
       "onboard_time": 1728830004,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 917089,
+      "num": 917089,
+      "word": "听泉鉴宝喊话别再神话我了",
+      "onboard_time": 1728834501,
+      "rank": 3,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 898165,
+      "num": 898165,
+      "word": "教育局称女童被泼开水系恶作剧",
+      "onboard_time": 1728835878,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 890754,
@@ -52,39 +76,31 @@
     },
     {
       "raw_hot": 821934,
-      "num": 214769,
+      "num": 438262,
       "word": "洪承汉退队",
       "onboard_time": 1728831324,
       "rank": 16,
       "category": "艺人"
     },
     {
-      "raw_hot": 817350,
-      "num": 817350,
-      "word": "上海爷叔现身被大量股民围观",
-      "onboard_time": 1728834261,
-      "rank": 1,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 742339,
-      "num": 742339,
-      "word": "听泉鉴宝喊话别再神话我了",
-      "onboard_time": 1728834501,
-      "rank": 3,
-      "category": "网红"
-    },
-    {
       "raw_hot": 541854,
-      "num": 214632,
+      "num": 430550,
       "word": "龚琳娜离婚",
       "onboard_time": 1728815239,
       "rank": 17,
       "category": "艺人"
     },
     {
+      "raw_hot": 495041,
+      "num": 495041,
+      "word": "G2对战BLG",
+      "onboard_time": 1728831144,
+      "rank": 14,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 463833,
-      "num": 214577,
+      "num": 430157,
       "word": "林诗栋vs张本智和",
       "onboard_time": 1728819621,
       "rank": 18,
@@ -92,7 +108,7 @@
     },
     {
       "raw_hot": 438795,
-      "num": 214438,
+      "num": 258658,
       "word": "女童被压车底路人98秒抬车救人",
       "onboard_time": 1728833002,
       "rank": 19,
@@ -108,7 +124,7 @@
     },
     {
       "raw_hot": 361679,
-      "num": 214184,
+      "num": 321231,
       "word": "张本智和模仿樊振东模仿姆巴佩",
       "onboard_time": 1728827423,
       "rank": 20,
@@ -116,7 +132,7 @@
     },
     {
       "raw_hot": 361144,
-      "num": 214028,
+      "num": 357927,
       "word": "文章模仿向佐动作",
       "onboard_time": 1728821841,
       "rank": 21,
@@ -124,7 +140,7 @@
     },
     {
       "raw_hot": 340009,
-      "num": 214002,
+      "num": 290269,
       "word": "王以太当爸爸了",
       "onboard_time": 1728830123,
       "rank": 22,
@@ -132,7 +148,7 @@
     },
     {
       "raw_hot": 329864,
-      "num": 213811,
+      "num": 316184,
       "word": "奥利 背刺",
       "onboard_time": 1728818420,
       "rank": 23,
@@ -140,7 +156,7 @@
     },
     {
       "raw_hot": 308507,
-      "num": 213677,
+      "num": 297518,
       "word": "年轻人下班后开始搞副业了",
       "onboard_time": 1728828623,
       "rank": 24,
@@ -148,7 +164,7 @@
     },
     {
       "raw_hot": 296398,
-      "num": 213530,
+      "num": 265810,
       "word": "阿娇复胖",
       "onboard_time": 1728824120,
       "rank": 25,
@@ -172,19 +188,11 @@
     },
     {
       "raw_hot": 228780,
-      "num": 228780,
+      "num": 491423,
       "word": "徐艺真上综艺",
       "onboard_time": 1728831683,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 215027,
-      "num": 215027,
-      "word": "G2对战BLG",
-      "onboard_time": 1728831144,
-      "rank": 14,
-      "category": "电竞"
     },
     {
       "raw_hot": 212876,
@@ -209,6 +217,14 @@
       "onboard_time": 1728824423,
       "rank": 31,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 191148,
+      "num": 191148,
+      "word": "郑钦文决赛前吃了退烧药",
+      "onboard_time": 1728833900,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 185761,
@@ -251,12 +267,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 158996,
-      "num": 224486,
-      "word": "教育局称女童被泼开水系恶作剧",
-      "onboard_time": 1728835878,
-      "rank": 9,
-      "category": "社会新闻"
+      "raw_hot": 162046,
+      "num": 162046,
+      "word": "韩军试射金牛座巡航导弹",
+      "onboard_time": 1728833060,
+      "rank": 38,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 156841,
+      "num": 156841,
+      "word": "林诗栋1比3张本智和",
+      "onboard_time": 1728824483,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 154811,
@@ -267,20 +291,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 154433,
-      "num": 228138,
+      "raw_hot": 154689,
+      "num": 487794,
       "word": "俄罗斯车臣首府发生爆炸致4死",
       "onboard_time": 1728826821,
       "rank": 8,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 151608,
-      "num": 151608,
-      "word": "郑钦文决赛前吃了退烧药",
-      "onboard_time": 1728833900,
-      "rank": 37,
-      "category": "体育"
     },
     {
       "raw_hot": 151598,
@@ -291,28 +307,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 151190,
-      "num": 151190,
-      "word": "韩军试射金牛座巡航导弹",
-      "onboard_time": 1728833060,
-      "rank": 38,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 150051,
       "num": 150051,
       "word": "年轻人开始抛弃优衣库",
       "onboard_time": 1728820882,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 148722,
-      "num": 148722,
-      "word": "林诗栋1比3张本智和",
-      "onboard_time": 1728824483,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 148648,
@@ -323,8 +323,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 139740,
-      "num": 139740,
+      "raw_hot": 144863,
+      "num": 144863,
       "word": "莽小五上树",
       "onboard_time": 1728835580,
       "rank": 42,
@@ -337,6 +337,14 @@
       "onboard_time": 1728832222,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 124408,
+      "num": 124408,
+      "word": "萧敬腾在婚礼上泪流满面",
+      "onboard_time": 1728831743,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 121633,
@@ -355,6 +363,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 120075,
+      "num": 120075,
+      "word": "DK对战WBG",
+      "onboard_time": 1728822199,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 119415,
+      "num": 175709,
+      "word": "林诗栋蒯曼冠军",
+      "onboard_time": 1728835219,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 118136,
       "num": 118136,
       "word": "小石头已经很棒了",
@@ -363,11 +387,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 118031,
-      "num": 175709,
-      "word": "林诗栋蒯曼冠军",
-      "onboard_time": 1728835219,
-      "rank": 34,
+      "raw_hot": 115396,
+      "num": 115396,
+      "word": "郑钦文武网亚军",
+      "onboard_time": 1728820521,
+      "rank": 48,
       "category": "体育"
     },
     {
@@ -379,14 +403,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 111687,
-      "num": 111687,
-      "word": "郑钦文武网亚军",
-      "onboard_time": 1728820521,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 107946,
       "num": 107946,
       "word": "短剧综艺",
@@ -395,8 +411,24 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 105429,
+      "num": 105429,
+      "word": "刘若英演唱会嘉宾是阿信",
+      "onboard_time": 1728837017,
+      "rank": 49,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 57055,
+      "num": 477455,
+      "word": "旅美大熊猫一家今晚抵达成都",
+      "onboard_time": 1728837077,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 35484,
-      "num": 758309,
+      "num": 900378,
       "word": "全国秋收已近六成",
       "onboard_time": 1728825861,
       "rank": 2,

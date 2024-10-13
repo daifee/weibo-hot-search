@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/10/01 00:28:17 ~ 2024/10/14 00:26:04
+本榜单时间：2024/10/01 00:28:17 ~ 2024/10/14 00:42:01
 </p>
 </blockquote>
 <p>
@@ -1341,6 +1341,12 @@ A股开盘近5000只个股下跌（热度：1242137）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E7%88%B7%E5%8F%94%E7%8E%B0%E8%BA%AB%E8%A2%AB%E5%A4%A7%E9%87%8F%E8%82%A1%E6%B0%91%E5%9B%B4%E8%A7%82%23" target="weibo">
+上海爷叔现身被大量股民围观（热度：1215798）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E4%BB%AC%E7%9A%84%E5%AD%A9%E5%AD%90%E6%AD%BB%E4%BA%86%E5%AE%B6%E8%A2%AB%E7%82%B8%E6%AF%81%E4%BA%86%23" target="weibo">
 我们的孩子死了家被炸毁了（热度：1215081）
 </a>
@@ -2307,6 +2313,12 @@ A股后续将迎第二波上涨行情（热度：964810）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%AC%E6%B3%89%E9%89%B4%E5%AE%9D%E5%96%8A%E8%AF%9D%E5%88%AB%E5%86%8D%E7%A5%9E%E8%AF%9D%E6%88%91%E4%BA%86%23" target="weibo">
+听泉鉴宝喊话别再神话我了（热度：917089）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%80%AA%E5%A6%AE%E6%9D%82%E5%BF%97%E5%B0%81%E9%9D%A2%E6%98%AF%E7%9C%9F%E8%9B%87%23" target="weibo">
 倪妮杂志封面是真蛇（热度：915716）
 </a>
@@ -2387,6 +2399,12 @@ A股后续将迎第二波上涨行情（热度：964810）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9F%B3%E7%A0%B4%E8%8C%82%E5%BD%93%E9%80%89%E6%97%A5%E6%9C%AC%E9%A6%96%E7%9B%B8%23" target="weibo">
 石破茂当选日本首相（热度：899499）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E5%B1%80%E7%A7%B0%E5%A5%B3%E7%AB%A5%E8%A2%AB%E6%B3%BC%E5%BC%80%E6%B0%B4%E7%B3%BB%E6%81%B6%E4%BD%9C%E5%89%A7%23" target="weibo">
+教育局称女童被泼开水系恶作剧（热度：898165）
 </a>
 </li>
 
@@ -2753,12 +2771,6 @@ aespa（热度：832836）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E6%96%B0%E5%8A%9E%E6%96%B0%E9%97%BB%E5%8F%91%E5%B8%83%E4%BC%9A%23" target="weibo">
 国新办新闻发布会（热度：817992）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E7%88%B7%E5%8F%94%E7%8E%B0%E8%BA%AB%E8%A2%AB%E5%A4%A7%E9%87%8F%E8%82%A1%E6%B0%91%E5%9B%B4%E8%A7%82%23" target="weibo">
-上海爷叔现身被大量股民围观（热度：817350）
 </a>
 </li>
 
@@ -3275,12 +3287,6 @@ HPV疫苗已降到20多元1支（热度：747235）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B4%A2%E6%94%BF%E9%83%A8%E5%90%8C%E6%84%8F%E9%94%80%E6%AF%8128%E6%AC%BE%E5%8D%B3%E5%BC%80%E5%9E%8B%E5%BD%A9%E7%A5%A8%23" target="weibo">
 财政部同意销毁28款即开型彩票（热度：742683）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%90%AC%E6%B3%89%E9%89%B4%E5%AE%9D%E5%96%8A%E8%AF%9D%E5%88%AB%E5%86%8D%E7%A5%9E%E8%AF%9D%E6%88%91%E4%BA%86%23" target="weibo">
-听泉鉴宝喊话别再神话我了（热度：742339）
 </a>
 </li>
 
@@ -5451,6 +5457,12 @@ GEN对战WBG（热度：516314）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23G2%E5%AF%B9%E6%88%98BLG%23" target="weibo">
+G2对战BLG（热度：495041）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%97%B5%E5%A1%94%E9%B2%A8%E5%AE%A1%E7%BE%8E%23" target="weibo">
 闵塔鲨审美（热度：494675）
 </a>
@@ -5999,18 +6011,6 @@ offer6带教 香港首位内地女性大律师（热度：465493）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23A%E8%82%A1%E5%8D%8A%E5%B0%8F%E6%97%B6%E6%88%90%E4%BA%A4%E7%A0%B4%E4%B8%87%E4%BA%BF%23" target="weibo">
 A股半小时成交破万亿（热度：455160）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9F%B6%E6%B6%B5%E5%A4%A7%E9%9B%A8%E4%B8%AD%E7%AC%91%E7%9D%80%E5%94%B1%E6%B7%8B%E9%9B%A8%E4%B8%80%E7%9B%B4%E8%B5%B0%23" target="weibo">
-张韶涵大雨中笑着唱淋雨一直走（热度：454478）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BA%9A%E9%94%A6%E8%B5%9B%23" target="weibo">
-亚锦赛（热度：453798）
 </a>
 </li>
 
