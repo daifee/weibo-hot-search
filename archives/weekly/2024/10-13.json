@@ -1,7 +1,15 @@
 {
   "startTime": 1728750414717,
-  "endTime": 1728824185570,
+  "endTime": 1728825921877,
   "band_list": [
+    {
+      "raw_hot": 8398300,
+      "num": 8398300,
+      "word": "林诗栋vs张本智和",
+      "onboard_time": 1728819621,
+      "rank": 0,
+      "category": "体育"
+    },
     {
       "raw_hot": 3708701,
       "num": 430438,
@@ -11,20 +19,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 2934577,
-      "num": 2934577,
-      "word": "林诗栋vs张本智和",
-      "onboard_time": 1728819621,
-      "rank": 0,
-      "category": "体育"
-    },
-    {
       "raw_hot": 2725617,
       "num": 2725617,
       "word": "预制风还是吹到了婚礼圈",
       "onboard_time": 1728788958,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2400749,
+      "num": 2400749,
+      "word": "林诗栋1比3张本智和",
+      "onboard_time": 1728824483,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 2399223,
@@ -73,6 +81,14 @@
       "onboard_time": 1728802939,
       "rank": 10,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1502419,
+      "num": 336613,
+      "word": "阿娇复胖",
+      "onboard_time": 1728824120,
+      "rank": 26,
+      "category": "演出"
     },
     {
       "raw_hot": 1465536,
@@ -307,6 +323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 798348,
+      "num": 323236,
+      "word": "SpaceX首次回收星舰成功",
+      "onboard_time": 1728824423,
+      "rank": 21,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 792854,
       "num": 792854,
       "word": "朝鲜选手金琴英亚锦赛夺冠",
@@ -459,6 +483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 585343,
+      "num": 585343,
+      "word": "河南一县城周边发现近2000头野猪",
+      "onboard_time": 1728822739,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 576928,
       "num": 576928,
       "word": "32岁网红下播后突发脑出血进ICU",
@@ -515,6 +547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 536291,
+      "num": 479551,
+      "word": "年轻人开始抛弃优衣库",
+      "onboard_time": 1728820882,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 525364,
       "num": 471087,
       "word": "比伯yummy mv",
@@ -552,14 +592,6 @@
       "word": "情侣捡到老人手机用免密支付买黄金",
       "onboard_time": 1728810859,
       "rank": 27,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 479551,
-      "num": 479551,
-      "word": "年轻人开始抛弃优衣库",
-      "onboard_time": 1728820882,
-      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -643,14 +675,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 397809,
-      "num": 397809,
-      "word": "河南一县城周边发现近2000头野猪",
-      "onboard_time": 1728822739,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 391122,
       "num": 391122,
       "word": "林诗栋vs篠塚大登",
@@ -681,6 +705,14 @@
       "onboard_time": 1728811640,
       "rank": 49,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 363978,
+      "num": 363978,
+      "word": "亚锦赛地胶",
+      "onboard_time": 1728824241,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 354763,
@@ -747,6 +779,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 336978,
+      "num": 336978,
+      "word": "DK对战WBG",
+      "onboard_time": 1728822199,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 328140,
+      "num": 322432,
+      "word": "听泉鉴宝被指塌房四大疑问待解",
+      "onboard_time": 1728825742,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 320496,
       "num": 320496,
       "word": "张本智和vs吴晙诚",
@@ -795,6 +843,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 295397,
+      "num": 295397,
+      "word": "小伙炒股亏32万元后要通过学习扭亏为盈",
+      "onboard_time": 1728823700,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 294112,
+      "num": 294112,
+      "word": "林诗栋亚锦赛男单亚军",
+      "onboard_time": 1728825442,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 289674,
       "num": 289674,
       "word": "朴元彬发长文",
@@ -809,6 +873,14 @@
       "onboard_time": 1728791658,
       "rank": 14,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 288295,
+      "num": 288295,
+      "word": "郑钦文回应武网亚军",
+      "onboard_time": 1728824000,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 288125,
@@ -843,6 +915,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 272599,
+      "num": 272599,
+      "word": "郑钦文收获30.9万美元奖金",
+      "onboard_time": 1728824060,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 270242,
       "num": 270242,
       "word": "萨巴伦卡武网三连冠",
@@ -865,6 +945,14 @@
       "onboard_time": 1728762252,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 264969,
+      "num": 264969,
+      "word": "全国乒乓球锦标赛2024",
+      "onboard_time": 1728824782,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 264792,
@@ -1011,14 +1099,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 222960,
-      "num": 222960,
-      "word": "阿娇复胖",
-      "onboard_time": 1728824120,
-      "rank": 26,
-      "category": "演出"
-    },
-    {
       "raw_hot": 222249,
       "num": 222249,
       "word": "游客在浙江出海幸运拍下海豚群跃出海面",
@@ -1107,6 +1187,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 204592,
+      "num": 204592,
+      "word": "郑钦文巩固世界第7排名",
+      "onboard_time": 1728824722,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 203356,
       "num": 225175,
       "word": "王安宇拍戏瘦了7公斤",
@@ -1129,6 +1217,14 @@
       "onboard_time": 1728807918,
       "rank": 33,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 202876,
+      "num": 350133,
+      "word": "五月天上海站官宣",
+      "onboard_time": 1728824963,
+      "rank": 8,
+      "category": "演出"
     },
     {
       "raw_hot": 202874,
@@ -1187,6 +1283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 198368,
+      "num": 341821,
+      "word": "周柯宇说没战队能遭得住时团",
+      "onboard_time": 1728825141,
+      "rank": 9,
+      "category": "综艺,电竞"
+    },
+    {
       "raw_hot": 198364,
       "num": 198364,
       "word": "张本智和亚锦赛晋级4强",
@@ -1243,14 +1347,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 195811,
-      "num": 195811,
-      "word": "DK对战WBG",
-      "onboard_time": 1728822199,
-      "rank": 35,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 194467,
       "num": 194467,
       "word": "网易第五人格",
@@ -1289,6 +1385,14 @@
       "onboard_time": 1728797359,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 191908,
+      "num": 307431,
+      "word": "萧敬腾林有慧婚礼亲吻",
+      "onboard_time": 1728820400,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 191518,
@@ -1451,12 +1555,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 170489,
+      "num": 170489,
+      "word": "国乒亚锦赛两冠收官",
+      "onboard_time": 1728825802,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 170262,
+      "num": 170262,
+      "word": "林诗栋3比0林钟勋",
+      "onboard_time": 1728825561,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 168980,
       "num": 317050,
       "word": "四川一落马干部曾把几口袋现金埋在地下",
       "onboard_time": 1728789859,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 168707,
+      "num": 322249,
+      "word": "吴青峰当王心凌演唱会嘉宾",
+      "onboard_time": 1728825442,
+      "rank": 24,
+      "category": "演出"
     },
     {
       "raw_hot": 168543,
@@ -1619,6 +1747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 156009,
+      "num": 156009,
+      "word": "联合国维和部队拒绝以色列撤离要求",
+      "onboard_time": 1728825681,
+      "rank": 48,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 155150,
       "num": 155150,
       "word": "本专科生国家励志奖学金奖励提至6000元",
@@ -1692,7 +1828,7 @@
     },
     {
       "raw_hot": 150455,
-      "num": 150455,
+      "num": 333146,
       "word": "幼教老师吐槽每天都有开不完的会",
       "onboard_time": 1728823341,
       "rank": 42,
@@ -1724,7 +1860,7 @@
     },
     {
       "raw_hot": 148631,
-      "num": 148631,
+      "num": 329710,
       "word": "野猪下山偷袭村民红薯地",
       "onboard_time": 1728823820,
       "rank": 45,
@@ -1793,14 +1929,6 @@
       "onboard_time": 1728810800,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 143757,
-      "num": 143757,
-      "word": "郑钦文收获30.9万美元奖金",
-      "onboard_time": 1728824060,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 143527,
@@ -2067,8 +2195,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 122010,
-      "num": 163040,
+      "raw_hot": 122181,
+      "num": 297024,
       "word": "我赴黎维和官兵在地下掩体报平安",
       "onboard_time": 1728824060,
       "rank": 39,
@@ -2225,14 +2353,6 @@
       "onboard_time": 1728815841,
       "rank": 49,
       "category": "演出"
-    },
-    {
-      "raw_hot": 113759,
-      "num": 307431,
-      "word": "萧敬腾林有慧婚礼亲吻",
-      "onboard_time": 1728820400,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 113119,
@@ -2883,7 +3003,7 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 31745,
+      "raw_hot": 32984,
       "num": 1193593,
       "word": "哪些民生领域这次被国家钱袋子眷顾",
       "onboard_time": 1728807078,
@@ -2936,6 +3056,14 @@
       "word": "中国少年先锋队建队75周年",
       "onboard_time": 1728790038,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 23586,
+      "num": 374537,
+      "word": "神十八乘组这周在忙些什么",
+      "onboard_time": 1728825621,
+      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -3051,6 +3179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 6120,
+      "num": 1576152,
+      "word": "全国秋收已近六成",
+      "onboard_time": 1728825861,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 4335,
       "num": 343452,
       "word": "2024两个博览会在苏州盛大开幕",
@@ -3065,6 +3201,9 @@
     },
     {
       "word": "#感悟总书记的传统文化情结#"
+    },
+    {
+      "word": "#中国人民的好朋友为了友谊跨越山海#"
     }
   ]
 }
