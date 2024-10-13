@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/10/01 00:28:17 ~ 2024/10/13 15:36:08
+本榜单时间：2024/10/01 00:28:17 ~ 2024/10/13 16:26:18
 </p>
 </blockquote>
 <p>
@@ -311,6 +311,12 @@ k总（热度：2611084）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B4%A2%E6%94%BF%E9%83%A8%E9%95%BF%E8%AF%B7%E5%A4%A7%E5%AE%B6%E6%94%BE%E5%BF%83%23" target="weibo">
 财政部长请大家放心（热度：2253143）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A5%AD%E5%9C%88%E5%A4%A7%E7%B2%89%E8%AF%88%E9%AA%97%E7%B2%89%E4%B8%9D300%E4%BD%99%E4%B8%87%E5%85%83%23" target="weibo">
+饭圈大粉诈骗粉丝300余万元（热度：2215753）
 </a>
 </li>
 
@@ -1535,6 +1541,12 @@ Angelababy带小海绵做爱心餐（热度：1214498）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A1%BE%E5%AE%A2%E6%9C%AA%E4%B9%B0%E6%B7%80%E7%B2%89%E8%82%A0%E6%91%8A%E4%B8%BB%E5%88%AE%E4%B8%8B%E8%B0%83%E6%96%99%E8%88%94%E6%8E%89%23" target="weibo">
 顾客未买淀粉肠摊主刮下调料舔掉（热度：1069057）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%2390%E5%90%8E%E5%B0%8F%E4%BC%99%E7%82%92%E8%82%A14%E5%A4%A9%E4%BA%8F%E6%8D%9F32%E4%B8%87%23" target="weibo">
+90后小伙炒股4天亏损32万（热度：1065108）
 </a>
 </li>
 
@@ -2955,6 +2967,12 @@ WTT（热度：765189）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AE%B8%E6%98%95%E5%9B%A0%E4%BC%A4%E9%80%80%E8%B5%9B%23" target="weibo">
+许昕因伤退赛（热度：756654）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BF%97%E6%84%BF%E5%86%9B%23" target="weibo">
 志愿军（热度：756176）
 </a>
@@ -3239,6 +3257,12 @@ SM确认洪承汉不退团（热度：728564）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%AE%A3%E5%B8%83%E5%AF%B9%E4%BB%A5%E8%89%B2%E5%88%97%E8%A1%8C%E5%8A%A8%E5%B7%B2%E7%BB%93%E6%9D%9F%23" target="weibo">
 伊朗宣布对以色列行动已结束（热度：707693）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B4%B9%E6%9B%BC%E6%A8%A1%E4%BB%BF%E5%90%91%E4%BD%90%23" target="weibo">
+费曼模仿向佐（热度：707638）
 </a>
 </li>
 
@@ -3539,6 +3563,12 @@ WBG对战G2（热度：687029）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AF%AF%E4%B9%98%E8%AF%AF%E9%99%8D%E7%81%AB%E8%BD%A6%E5%8F%AF%E5%85%8D%E8%B4%B9%E6%8D%A2%E4%B9%98%23" target="weibo">
 误乘误降火车可免费换乘（热度：668751）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E8%AF%97%E6%A0%8B%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C%E4%BA%89%E5%86%A0%23" target="weibo">
+林诗栋张本智和争冠（热度：668687）
 </a>
 </li>
 
@@ -4845,6 +4875,12 @@ LNG战胜DK（热度：523623）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%B9%E7%89%9B%E8%80%81%E7%88%B9%20%E8%B4%BE%E6%96%AF%E6%B1%80%E6%AF%94%E4%BC%AF%23" target="weibo">
+吹牛老爹 贾斯汀比伯（热度：522579）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%2300%E5%90%8E%E7%A6%BB%E5%AE%B64000%E5%A4%9A%E5%85%AC%E9%87%8C%E5%88%B0%E6%B2%99%E6%BC%A0%E5%B0%8F%E5%9F%8E%E6%95%99%E4%B9%A6%23" target="weibo">
 00后离家4000多公里到沙漠小城教书（热度：522372）
 </a>
@@ -5805,12 +5841,6 @@ A股半小时成交破万亿（热度：455160）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%90%B9%E7%89%9B%E8%80%81%E7%88%B9%20%E8%B4%BE%E6%96%AF%E6%B1%80%E6%AF%94%E4%BC%AF%23" target="weibo">
-吹牛老爹 贾斯汀比伯（热度：447142）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E5%BE%88%E5%A4%9A%E4%BA%BA%E7%9A%84%E6%B4%97%E6%BE%A1%E9%A1%BA%E5%BA%8F%E9%94%99%E4%BA%86%23" target="weibo">
 原来很多人的洗澡顺序错了（热度：446906）
 </a>
@@ -5943,6 +5973,12 @@ A股半小时成交破万亿（热度：455160）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E8%AF%97%E6%A0%8B18%E6%AF%9416%E7%AF%A0%E5%A1%9A%E5%A4%A7%E7%99%BB%23" target="weibo">
+林诗栋18比16篠塚大登（热度：434576）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B0%88%E6%81%8B%E7%88%B1%E8%BF%98%E6%98%AF%E5%BE%97%E6%89%BE%E6%81%8B%E7%88%B1%E8%84%91%E8%B0%88%23" target="weibo">
 谈恋爱还是得找恋爱脑谈（热度：434099）
 </a>
@@ -5975,42 +6011,6 @@ A股半小时成交破万亿（热度：455160）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%A4%A924%E6%97%B6%E5%89%8D%E5%B0%B1%E8%BF%91%E4%B8%8B%E9%AB%98%E9%80%9F%23" target="weibo">
 今天24时前就近下高速（热度：431178）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E8%B0%88%E6%8A%91%E9%83%81%E7%97%87%23" target="weibo">
-华晨宇谈抑郁症（热度：429340）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AD%A9%E5%AD%90%E8%B5%B0%E5%A4%B1%E5%8F%AF%E7%94%A8%E5%8D%81%E4%BA%BA%E5%9B%9B%E8%BF%BD%E6%B3%95%E5%AF%BB%E4%BA%BA%23" target="weibo">
-孩子走失可用十人四追法寻人（热度：429309）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E5%90%AF%E8%B1%AA3%E6%AF%942%E5%A5%A5%E6%81%B0%E6%B4%9B%E5%A4%AB%23" target="weibo">
-周启豪3比2奥恰洛夫（热度：429215）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9F%23" target="weibo">
-明日方舟（热度：428943）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%83%A1%E7%83%A8%E9%9F%AC%E9%9D%A2%E8%AF%95%E6%B3%B0%E5%88%9B2%23" target="weibo">
-胡烨韬面试泰创2（热度：428688）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%BA%B7%E5%A8%81%E8%A7%86%E5%A4%A7%E8%A7%84%E6%A8%A1%E8%A3%81%E5%91%98%23" target="weibo">
-海康威视大规模裁员（热度：427862）
 </a>
 </li>
 

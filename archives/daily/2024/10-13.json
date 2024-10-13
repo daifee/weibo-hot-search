@@ -1,6 +1,6 @@
 {
   "startTime": 1728750414717,
-  "endTime": 1728804968298,
+  "endTime": 1728807978935,
   "band_list": [
     {
       "raw_hot": 2725617,
@@ -8,6 +8,14 @@
       "word": "预制风还是吹到了婚礼圈",
       "onboard_time": 1728788958,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2215753,
+      "num": 317554,
+      "word": "饭圈大粉诈骗粉丝300余万元",
+      "onboard_time": 1728805579,
+      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -83,6 +91,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1065108,
+      "num": 354158,
+      "word": "90后小伙炒股4天亏损32万",
+      "onboard_time": 1728803958,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1047915,
       "num": 314821,
       "word": "国乒一天之内输了十场",
@@ -124,7 +140,7 @@
     },
     {
       "raw_hot": 895958,
-      "num": 376514,
+      "num": 877009,
       "word": "百万网红脑溢血后多人骗粉丝募捐",
       "onboard_time": 1728802878,
       "rank": 15,
@@ -195,6 +211,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 756654,
+      "num": 756654,
+      "word": "许昕因伤退赛",
+      "onboard_time": 1728807018,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 707638,
+      "num": 316955,
+      "word": "费曼模仿向佐",
+      "onboard_time": 1728805760,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 676154,
       "num": 568694,
       "word": "丁真提出的增殖放流获得全票通过",
@@ -217,6 +249,14 @@
       "onboard_time": 1728784638,
       "rank": 17,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 668687,
+      "num": 668687,
+      "word": "林诗栋张本智和争冠",
+      "onboard_time": 1728805460,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 638140,
@@ -299,6 +339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 522579,
+      "num": 371369,
+      "word": "吹牛老爹 贾斯汀比伯",
+      "onboard_time": 1728802640,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 516039,
       "num": 234991,
       "word": "东北雨姐及团队绝大部分非当地村民",
@@ -339,14 +387,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 447142,
-      "num": 371369,
-      "word": "吹牛老爹 贾斯汀比伯",
-      "onboard_time": 1728802640,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 438734,
       "num": 273934,
       "word": "B太回应曾夸东北雨姐真实",
@@ -360,6 +400,14 @@
       "word": "陈幸同蒯曼VS大藤沙月横井呋樱",
       "onboard_time": 1728796219,
       "rank": 14,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 434576,
+      "num": 315665,
+      "word": "林诗栋18比16篠塚大登",
+      "onboard_time": 1728805939,
+      "rank": 15,
       "category": "体育"
     },
     {
@@ -403,20 +451,28 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 354158,
-      "num": 354158,
-      "word": "90后小伙炒股4天亏损32万",
-      "onboard_time": 1728803958,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 353764,
       "num": 251069,
       "word": "许昕4比0战胜尹孟泽",
       "onboard_time": 1728790279,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 351483,
+      "num": 314029,
+      "word": "被胡冰卿一抬眼吓到了",
+      "onboard_time": 1728806540,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 350550,
+      "num": 314017,
+      "word": "隔夜水出现了透明螺旋物",
+      "onboard_time": 1728805818,
+      "rank": 21,
+      "category": "科学科普"
     },
     {
       "raw_hot": 349584,
@@ -667,6 +723,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 217322,
+      "num": 217322,
+      "word": "日本组合包揽女双冠亚军",
+      "onboard_time": 1728804017,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 213511,
+      "num": 213511,
+      "word": "林诗栋挺进决赛",
+      "onboard_time": 1728805760,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 212165,
       "num": 251739,
       "word": "内娱古偶换乘恋爱图",
@@ -705,6 +777,14 @@
       "onboard_time": 1728794058,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 201160,
+      "num": 201160,
+      "word": "TOP登陆少年爆改",
+      "onboard_time": 1728807918,
+      "rank": 33,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 200777,
@@ -827,6 +907,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 188874,
+      "num": 188874,
+      "word": "高圆圆回母校了",
+      "onboard_time": 1728805277,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 188423,
       "num": 338591,
       "word": "伊朗议长驾机在以军空袭中访黎",
@@ -859,6 +947,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 181329,
+      "num": 181329,
+      "word": "山西警方通报陌生女子当街抢孩子",
+      "onboard_time": 1728806418,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 178296,
       "num": 178296,
       "word": "陈幸同蒯曼0比3大藤沙月横井咲樱",
@@ -881,6 +977,14 @@
       "onboard_time": 1728781819,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 171430,
+      "num": 213574,
+      "word": "范丞丞卢昱晓歪头杀",
+      "onboard_time": 1728806059,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 171135,
@@ -931,14 +1035,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 162878,
-      "num": 162878,
-      "word": "日本组合包揽女双冠亚军",
-      "onboard_time": 1728804017,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 162190,
       "num": 162190,
       "word": "韩安冉学名媛",
@@ -969,6 +1065,14 @@
       "onboard_time": 1728782058,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 157662,
+      "num": 157662,
+      "word": "健身达人肚子里跟普通人有什么不同",
+      "onboard_time": 1728804017,
+      "rank": 42,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 156595,
@@ -1057,6 +1161,14 @@
       "onboard_time": 1728796340,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 146287,
+      "num": 146287,
+      "word": "最萌身高差老夫妻雨后牵手散步",
+      "onboard_time": 1728806959,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 145946,
@@ -1203,6 +1315,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 128507,
+      "num": 128507,
+      "word": "范丞丞卢昱晓hi6花絮好甜",
+      "onboard_time": 1728807380,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 128381,
       "num": 236219,
       "word": "记者调查东北雨姐事件始末",
@@ -1259,12 +1379,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 122612,
+      "num": 122612,
+      "word": "杨超越落水给谢涤葵笑麻了",
+      "onboard_time": 1728805818,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 121825,
       "num": 178636,
       "word": "听泉鉴宝学校信息已更改",
       "onboard_time": 1728740963,
       "rank": 29,
       "category": "网红"
+    },
+    {
+      "raw_hot": 120729,
+      "num": 120729,
+      "word": "林诗栋名字",
+      "onboard_time": 1728805639,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 120347,
@@ -1281,6 +1417,14 @@
       "onboard_time": 1728780258,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 116183,
+      "num": 116183,
+      "word": "萨巴伦卡说要努力做郑钦文面前的山",
+      "onboard_time": 1728807618,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 115801,
@@ -1329,14 +1473,6 @@
       "onboard_time": 1728801380,
       "rank": 45,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 114567,
-      "num": 114567,
-      "word": "健身达人肚子里跟普通人有什么不同",
-      "onboard_time": 1728804017,
-      "rank": 42,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 114453,
@@ -1489,6 +1625,14 @@
       "onboard_time": 1728755652,
       "rank": 8,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 99573,
+      "num": 99573,
+      "word": "林诗栋3比0篠塚大登",
+      "onboard_time": 1728805760,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 99338,
@@ -1699,6 +1843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 61525,
+      "num": 136703,
+      "word": "民警办案索取差旅费当事人发声质疑",
+      "onboard_time": 1728805699,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 60784,
       "num": 217295,
       "word": "当地教育局回应学生因恶作剧被烫伤",
@@ -1761,6 +1913,14 @@
       "onboard_time": 1728762552,
       "rank": 37,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 49387,
+      "num": 317669,
+      "word": "实探东北雨姐拍摄小院",
+      "onboard_time": 1728806238,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 48880,
@@ -1883,6 +2043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 27862,
+      "num": 213685,
+      "word": "敏感肌如何有效美白",
+      "onboard_time": 1728804919,
+      "rank": 49,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 27342,
       "num": 37124,
       "word": "刀郎 南京",
@@ -1904,6 +2072,14 @@
       "word": "在新疆的湖州蟹一只能卖100元",
       "onboard_time": 1728764832,
       "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 22300,
+      "num": 766757,
+      "word": "神十九10月下旬发射",
+      "onboard_time": 1728807258,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -1939,12 +2115,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 16477,
-      "num": 92417,
-      "word": "敏感肌如何有效美白",
-      "onboard_time": 1728804919,
-      "rank": 49,
-      "category": "美妆"
+      "raw_hot": 18581,
+      "num": 314736,
+      "word": "刘雯重返维密秀",
+      "onboard_time": 1728807501,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 16054,
+      "num": 316029,
+      "word": "要以投资心态入市",
+      "onboard_time": 1728806660,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 12597,
