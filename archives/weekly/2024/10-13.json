@@ -1,6 +1,6 @@
 {
   "startTime": 1728750414717,
-  "endTime": 1728785355943,
+  "endTime": 1728788258634,
   "band_list": [
     {
       "raw_hot": 1419674,
@@ -16,6 +16,14 @@
       "word": "东北雨姐启动退一赔三",
       "onboard_time": 1728747621,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1201441,
+      "num": 248143,
+      "word": "村子只是东北雨姐拍短视频的基地",
+      "onboard_time": 1728783618,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -52,7 +60,7 @@
     },
     {
       "raw_hot": 806476,
-      "num": 235851,
+      "num": 237014,
       "word": "东北雨姐明知红薯粉成分问题",
       "onboard_time": 1728780557,
       "rank": 11,
@@ -73,6 +81,14 @@
       "onboard_time": 1728750797,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 644236,
+      "num": 1103077,
+      "word": "虞书欣这段话背了多久",
+      "onboard_time": 1728784638,
+      "rank": 17,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 635282,
@@ -115,6 +131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 553461,
+      "num": 553461,
+      "word": "我们的孩子死了家被炸毁了",
+      "onboard_time": 1728786258,
+      "rank": 3,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 516039,
       "num": 233054,
       "word": "东北雨姐及团队绝大部分非当地村民",
@@ -136,6 +160,22 @@
       "word": "2人走私2.7吨活体蛇被刑拘",
       "onboard_time": 1728739583,
       "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 467016,
+      "num": 467016,
+      "word": "东北雨姐说的假一赔万能兑现吗",
+      "onboard_time": 1728782777,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 459482,
+      "num": 459482,
+      "word": "32岁网红下播后突发脑出血进ICU",
+      "onboard_time": 1728786378,
+      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -163,6 +203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 301199,
+      "num": 229490,
+      "word": "何炅喝黄磊做的辣味米稀",
+      "onboard_time": 1728787399,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 299280,
       "num": 299280,
       "word": "混双",
@@ -185,6 +233,14 @@
       "onboard_time": 1728782058,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 274438,
+      "num": 219315,
+      "word": "郭麒麟打假德云社太子妃",
+      "onboard_time": 1728786197,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 266011,
@@ -235,12 +291,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 220033,
+      "num": 190700,
+      "word": "女子质问为何造谣拆家男子出轨自己",
+      "onboard_time": 1728786197,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 198364,
       "num": 198364,
       "word": "张本智和亚锦赛晋级4强",
       "onboard_time": 1728747020,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 196792,
+      "num": 144863,
+      "word": "G2喊话BLG",
+      "onboard_time": 1728786679,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 193023,
@@ -257,6 +329,22 @@
       "onboard_time": 1728783137,
       "rank": 30,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 190946,
+      "num": 190946,
+      "word": "刘学义吴谨言浴池吻戏",
+      "onboard_time": 1728786137,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 190936,
+      "num": 190936,
+      "word": "爸爸跑步留老大照顾老二结果都丢了",
+      "onboard_time": 1728787819,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 187029,
@@ -283,20 +371,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 166712,
-      "num": 185319,
-      "word": "虞书欣这段话背了多久",
-      "onboard_time": 1728784638,
-      "rank": 17,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 166367,
-      "num": 166367,
-      "word": "村子只是东北雨姐拍短视频的基地",
-      "onboard_time": 1728783618,
-      "rank": 41,
-      "category": "社会新闻"
+      "raw_hot": 165190,
+      "num": 165190,
+      "word": "我海警在我钓鱼岛领海巡航",
+      "onboard_time": 1728786799,
+      "rank": 24,
+      "category": "国内时政"
     },
     {
       "raw_hot": 164614,
@@ -313,6 +393,22 @@
       "onboard_time": 1728745882,
       "rank": 25,
       "category": "演出"
+    },
+    {
+      "raw_hot": 159242,
+      "num": 172818,
+      "word": "汪苏泷带着4万人一起蹦迪",
+      "onboard_time": 1728782058,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 159226,
+      "num": 159226,
+      "word": "景德镇车祸肇事方提出养老换谅解",
+      "onboard_time": 1728779057,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 156595,
@@ -347,6 +443,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 152328,
+      "num": 152328,
+      "word": "伊朗议长驾机在以军空袭中访黎",
+      "onboard_time": 1728787159,
+      "rank": 27,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 150348,
       "num": 150348,
       "word": "你的房贷还完了吗",
@@ -379,18 +483,18 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 143946,
+      "num": 143946,
+      "word": "柿柿如意点缀秋天",
+      "onboard_time": 1728787997,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 141462,
       "num": 141462,
       "word": "关晓彤探班张艺兴音乐话剧",
       "onboard_time": 1728742703,
-      "rank": 28,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 141161,
-      "num": 172818,
-      "word": "汪苏泷带着4万人一起蹦迪",
-      "onboard_time": 1728782058,
       "rank": 28,
       "category": "演出"
     },
@@ -467,6 +571,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 121595,
+      "num": 145958,
+      "word": "林俊杰妈妈去看了周杰伦演唱会",
+      "onboard_time": 1728787098,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 120347,
       "num": 120347,
       "word": "SEVENTEEN演唱会着火",
@@ -475,20 +587,44 @@
       "category": "演出"
     },
     {
-      "raw_hot": 117970,
-      "num": 117970,
-      "word": "东北雨姐说的假一赔万能兑现吗",
-      "onboard_time": 1728782777,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 117718,
       "num": 117718,
       "word": "迪丽热巴回眸宿命感",
       "onboard_time": 1728780258,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 115662,
+      "num": 115662,
+      "word": "土松犬 中国人自己的萨摩耶",
+      "onboard_time": 1728781998,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 115560,
+      "num": 115560,
+      "word": "记者调查东北雨姐事件始末",
+      "onboard_time": 1728782718,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 115386,
+      "num": 190735,
+      "word": "史上便宜最多的京东11.11来啦",
+      "onboard_time": 1728783738,
+      "rank": 34,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 114922,
+      "num": 114922,
+      "word": "韩国乒乓球亚锦赛男双夺冠",
+      "onboard_time": 1728787700,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 112878,
@@ -505,14 +641,6 @@
       "onboard_time": 1728784218,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 108425,
-      "num": 108425,
-      "word": "土松犬 中国人自己的萨摩耶",
-      "onboard_time": 1728781998,
-      "rank": 38,
-      "category": "情感"
     },
     {
       "raw_hot": 108260,
@@ -555,12 +683,36 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 102980,
+      "num": 102980,
+      "word": "江西一刑案嫌疑人畏罪自杀",
+      "onboard_time": 1728787399,
+      "rank": 43,
+      "category": "社会负面"
+    },
+    {
+      "raw_hot": 102067,
+      "num": 102067,
+      "word": "微博视界大会年度推荐",
+      "onboard_time": 1728754815,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 101793,
       "num": 119668,
       "word": "虞书欣粉百合美人",
       "onboard_time": 1728729560,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 101686,
+      "num": 101686,
+      "word": "王欣瑜再现猫咪狩猎",
+      "onboard_time": 1728787700,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 100008,
@@ -595,6 +747,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 98311,
+      "num": 98311,
+      "word": "黄镇廷发文说解脱了",
+      "onboard_time": 1728787159,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 95409,
       "num": 119519,
       "word": "郑钦文晋级武网决赛",
@@ -616,14 +776,6 @@
       "word": "警察办案被曝收当事人3000元差旅费",
       "onboard_time": 1728756913,
       "rank": 15,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 92619,
-      "num": 92619,
-      "word": "记者调查东北雨姐事件始末",
-      "onboard_time": 1728782718,
-      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -747,14 +899,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 66338,
-      "num": 184092,
-      "word": "史上便宜最多的京东11.11来啦",
-      "onboard_time": 1728783738,
-      "rank": 34,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 63487,
       "num": 119399,
       "word": "关晓彤看小时候的自己",
@@ -769,6 +913,14 @@
       "onboard_time": 1728740124,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 61886,
+      "num": 190872,
+      "word": "东北雨姐假一赔万承诺恐难获得支持",
+      "onboard_time": 1728788060,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 59044,
@@ -945,14 +1097,6 @@
       "onboard_time": 1728775035,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 18792,
-      "num": 36967,
-      "word": "微博视界大会年度推荐",
-      "onboard_time": 1728754815,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 12597,
