@@ -1,0 +1,410 @@
+{
+  "runTime": 1728847169740,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 222643,
+        "num": 222643,
+        "word": "G2",
+        "onboard_time": 1728841993,
+        "rank": 0,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 206568,
+        "num": 206568,
+        "word": "上海爷叔现身被大量股民围观",
+        "onboard_time": 1728834261,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 5301,
+        "num": 157653,
+        "word": "神十八乘组这周在忙些什么",
+        "onboard_time": 1728825621,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140491,
+        "num": 140491,
+        "word": "听泉鉴宝喊话别再神话我了",
+        "onboard_time": 1728834501,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 104382,
+        "num": 104382,
+        "word": "LPL全员晋级S14八强",
+        "onboard_time": 1728842532,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 244459,
+        "num": 104139,
+        "word": "朝鲜已向前线部队下达准备射击指示",
+        "onboard_time": 1728826102,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 103768,
+        "num": 103768,
+        "word": "教育局称女童被泼开水系恶作剧",
+        "onboard_time": 1728835878,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 77576,
+        "num": 77576,
+        "word": "小伙捡到疑似手雷赶紧上交",
+        "onboard_time": 1728844392,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 35728,
+        "num": 77426,
+        "word": "徐艺真上综艺",
+        "onboard_time": 1728831683,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 15766,
+        "num": 76836,
+        "word": "贵州王乃山发生山火燃烧猛烈",
+        "onboard_time": 1728846373,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 266338,
+        "num": 76600,
+        "word": "韩国防部回应朝鲜警告",
+        "onboard_time": 1728826461,
+        "rank": 10,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 167720,
+        "num": 76169,
+        "word": "听泉鉴宝被指塌房四大疑问待解",
+        "onboard_time": 1728825742,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 57034,
+        "num": 75733,
+        "word": "哀牢山发现全球仅千只的鸟",
+        "onboard_time": 1728830062,
+        "rank": 12,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 139440,
+        "num": 75436,
+        "word": "国乒怎么了",
+        "onboard_time": 1728830004,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107571,
+        "num": 75000,
+        "word": "朝军8个炮兵旅团转为射击待命",
+        "onboard_time": 1728832042,
+        "rank": 14,
+        "category": "社会新闻,国外时政"
+      },
+      {
+        "raw_hot": 94132,
+        "num": 74627,
+        "word": "龚琳娜离婚",
+        "onboard_time": 1728815239,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 74585,
+        "num": 74585,
+        "word": "文章模仿向佐动作",
+        "onboard_time": 1728821841,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 61684,
+        "num": 61684,
+        "word": "洪承汉退队",
+        "onboard_time": 1728831324,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 58338,
+        "num": 58338,
+        "word": "G2对战BLG",
+        "onboard_time": 1728831144,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 57379,
+        "num": 57379,
+        "word": "林诗栋vs张本智和",
+        "onboard_time": 1728819621,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 65501,
+        "num": 56714,
+        "word": "奥利 背刺",
+        "onboard_time": 1728818420,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 53462,
+        "num": 53462,
+        "word": "张本智和模仿樊振东模仿姆巴佩",
+        "onboard_time": 1728827423,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 44885,
+        "num": 44885,
+        "word": "BLG",
+        "onboard_time": 1728839474,
+        "rank": 22,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 43883,
+        "num": 43883,
+        "word": "SpaceX首次回收星舰成功",
+        "onboard_time": 1728824423,
+        "rank": 23,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 43872,
+        "num": 43872,
+        "word": "林诗栋1比3张本智和",
+        "onboard_time": 1728824483,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 41182,
+        "num": 41182,
+        "word": "年轻人下班后开始搞副业了",
+        "onboard_time": 1728828623,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 39196,
+        "num": 39196,
+        "word": "阿娇复胖",
+        "onboard_time": 1728824120,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 36131,
+        "num": 36131,
+        "word": "国乒梯队建设",
+        "onboard_time": 1728827243,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 33194,
+        "num": 35842,
+        "word": "郑钦文身体欠佳已尽全力",
+        "onboard_time": 1728841155,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 31704,
+        "num": 35808,
+        "word": "他一搂我就知道跑不了了",
+        "onboard_time": 1728832281,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 35782,
+        "num": 35782,
+        "word": "股东套现3000万被责令购回并上缴价差",
+        "onboard_time": 1728832281,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34857,
+        "num": 34857,
+        "word": "王以太当爸爸了",
+        "onboard_time": 1728830123,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 34791,
+        "num": 34791,
+        "word": "旅美大熊猫一家今晚抵达成都",
+        "onboard_time": 1728837077,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34789,
+        "num": 34789,
+        "word": "BLG晋级S14八强",
+        "onboard_time": 1728842113,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 33958,
+        "num": 33958,
+        "word": "成都通报一燃油车发生燃爆",
+        "onboard_time": 1728844813,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32711,
+        "num": 32711,
+        "word": "K总女友颜值",
+        "onboard_time": 1728820400,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 31710,
+        "num": 31710,
+        "word": "SM 炒作",
+        "onboard_time": 1728832942,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31697,
+        "num": 31697,
+        "word": "年轻人开始抛弃优衣库",
+        "onboard_time": 1728820882,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31360,
+        "num": 31360,
+        "word": "郑钦文武网亚军",
+        "onboard_time": 1728820521,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 31015,
+        "num": 31015,
+        "word": "广西发现新物种阳朔风筝果",
+        "onboard_time": 1728842053,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30149,
+        "num": 30149,
+        "word": "WBG晋级S14八强",
+        "onboard_time": 1728831083,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 29560,
+        "num": 29560,
+        "word": "大冰连线",
+        "onboard_time": 1728845293,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 29329,
+        "num": 29329,
+        "word": "DK对战WBG",
+        "onboard_time": 1728822199,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 28060,
+        "num": 28060,
+        "word": "白百何晒与大儿子合照",
+        "onboard_time": 1728821599,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28032,
+        "num": 28032,
+        "word": "吴镇宇晒费曼王嘉尔合照",
+        "onboard_time": 1728831743,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27493,
+        "num": 27493,
+        "word": "想辞职去浙江农村过低欲望的生活",
+        "onboard_time": 1728827662,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 26991,
+        "num": 26991,
+        "word": "问界新M5智驾未紧急制动撞死11只羊",
+        "onboard_time": 1728841754,
+        "rank": 46,
+        "category": "社会新闻,汽车"
+      },
+      {
+        "raw_hot": 25535,
+        "num": 25535,
+        "word": "许嵩西安演唱会",
+        "onboard_time": 1728831202,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 22541,
+        "num": 25090,
+        "word": "杨紫李现国色芳华开始招商",
+        "onboard_time": 1728832222,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20477,
+        "num": 24886,
+        "word": "薛之谦霸王别姬弹唱",
+        "onboard_time": 1728835700,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国人民的好朋友为了友谊跨越山海#"
+    }
+  }
+}

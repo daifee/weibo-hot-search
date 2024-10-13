@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1728844883997,
+  "endTime": 1728847169740,
   "band_list": [
     {
       "raw_hot": 17915004,
@@ -34203,6 +34203,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 77576,
+      "num": 144718,
+      "word": "小伙捡到疑似手雷赶紧上交",
+      "onboard_time": 1728844392,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 77520,
       "num": 212470,
       "word": "小鹿 爱自己成为了财富密码",
@@ -38179,6 +38187,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 33958,
+      "num": 43946,
+      "word": "成都通报一燃油车发生燃爆",
+      "onboard_time": 1728844813,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 33892,
       "num": 423802,
       "word": "万元定制人脸面具可通过门禁识别",
@@ -38761,6 +38777,14 @@
       "onboard_time": 1727983813,
       "rank": 41,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 29560,
+      "num": 29560,
+      "word": "大冰连线",
+      "onboard_time": 1728845293,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 29549,
@@ -40347,19 +40371,19 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 15766,
+      "num": 76836,
+      "word": "贵州王乃山发生山火燃烧猛烈",
+      "onboard_time": 1728846373,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 15737,
       "num": 923401,
       "word": "候鸟环球迁徙记",
       "onboard_time": 1728565160,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 15509,
-      "num": 144718,
-      "word": "小伙捡到疑似手雷赶紧上交",
-      "onboard_time": 1728844392,
-      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -40512,14 +40536,6 @@
       "word": "3D呈现武汉地标75年生长史",
       "onboard_time": 1727896572,
       "rank": 40,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 13988,
-      "num": 43946,
-      "word": "成都通报一燃油车发生燃爆",
-      "onboard_time": 1728844813,
-      "rank": 35,
       "category": "社会新闻"
     },
     {
