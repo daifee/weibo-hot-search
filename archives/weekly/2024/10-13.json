@@ -1,6 +1,6 @@
 {
   "startTime": 1728750414717,
-  "endTime": 1728796925366,
+  "endTime": 1728797927198,
   "band_list": [
     {
       "raw_hot": 2725617,
@@ -72,6 +72,14 @@
       "word": "国乒一天之内输了十场",
       "onboard_time": 1728792918,
       "rank": 20,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 951025,
+      "num": 264055,
+      "word": "许昕1天2战左臂出现反应",
+      "onboard_time": 1728796039,
+      "rank": 30,
       "category": "体育"
     },
     {
@@ -156,7 +164,7 @@
     },
     {
       "raw_hot": 676154,
-      "num": 536545,
+      "num": 568694,
       "word": "丁真提出的增殖放流获得全票通过",
       "onboard_time": 1728792618,
       "rank": 15,
@@ -192,6 +200,14 @@
       "word": "王俊凯 环球影城",
       "onboard_time": 1728740304,
       "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 595686,
+      "num": 323993,
+      "word": "萧敬腾林有慧婚礼",
+      "onboard_time": 1728795260,
+      "rank": 12,
       "category": "艺人"
     },
     {
@@ -235,12 +251,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 524167,
-      "num": 323993,
-      "word": "萧敬腾林有慧婚礼",
-      "onboard_time": 1728795260,
-      "rank": 12,
-      "category": "艺人"
+      "raw_hot": 536835,
+      "num": 305715,
+      "word": "东部战区随时能战",
+      "onboard_time": 1728795979,
+      "rank": 16,
+      "category": "军事"
     },
     {
       "raw_hot": 516039,
@@ -299,14 +315,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 360020,
-      "num": 213838,
-      "word": "许昕1天2战左臂出现反应",
-      "onboard_time": 1728796039,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 353764,
       "num": 251069,
       "word": "许昕4比0战胜尹孟泽",
@@ -329,14 +337,6 @@
       "onboard_time": 1728792380,
       "rank": 24,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 305715,
-      "num": 305715,
-      "word": "东部战区随时能战",
-      "onboard_time": 1728795979,
-      "rank": 16,
-      "category": "军事"
     },
     {
       "raw_hot": 305623,
@@ -419,20 +419,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 264792,
+      "num": 264792,
+      "word": "在哀牢山中遇到危险该如何自救",
+      "onboard_time": 1728793998,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 258444,
       "num": 258444,
       "word": "光与夜之恋",
       "onboard_time": 1728794478,
       "rank": 34,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 238171,
-      "num": 238171,
-      "word": "在哀牢山中遇到危险该如何自救",
-      "onboard_time": 1728793998,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 237782,
@@ -475,6 +475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 225678,
+      "num": 225678,
+      "word": "徐菲向节目组投诉徐锦江",
+      "onboard_time": 1728796579,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 225162,
       "num": 225162,
       "word": "中国人的绝对色感惊艳了",
@@ -513,6 +521,14 @@
       "onboard_time": 1728794419,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 212100,
+      "num": 212100,
+      "word": "光与夜之恋 夏鸣星",
+      "onboard_time": 1728796819,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 202874,
@@ -595,6 +611,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 192324,
+      "num": 192324,
+      "word": "官方通报小男孩凌晨捡瓶子被偶遇",
+      "onboard_time": 1728795558,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 192190,
+      "num": 192190,
+      "word": "李荣浩 兄弟送你三个字你完了",
+      "onboard_time": 1728797359,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 191518,
       "num": 215475,
       "word": "柿柿如意点缀秋天",
@@ -611,20 +643,20 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 189106,
-      "num": 189106,
-      "word": "官方通报小男孩凌晨捡瓶子被偶遇",
-      "onboard_time": 1728795558,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 188423,
       "num": 338591,
       "word": "伊朗议长驾机在以军空袭中访黎",
       "onboard_time": 1728787159,
       "rank": 27,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 188417,
+      "num": 314874,
+      "word": "陈幸同蒯曼VS大藤沙月横井呋樱",
+      "onboard_time": 1728796219,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 188189,
@@ -739,12 +771,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 154984,
+      "num": 154984,
+      "word": "晚宴上的虞书欣",
+      "onboard_time": 1728796699,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 154870,
       "num": 154870,
       "word": "为什么说女性更要多吃绿叶菜",
       "onboard_time": 1728781579,
       "rank": 27,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 153807,
+      "num": 153807,
+      "word": "黄磊何炅搭雨棚",
+      "onboard_time": 1728797420,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 153554,
@@ -763,12 +811,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 150160,
+      "num": 150160,
+      "word": "甄芙传",
+      "onboard_time": 1728797719,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 149676,
       "num": 187483,
       "word": "林俊杰妈妈去看了周杰伦演唱会",
       "onboard_time": 1728787098,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 148112,
+      "num": 148112,
+      "word": "希林娜依高不说话比说话还累",
+      "onboard_time": 1728796340,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 145946,
@@ -803,28 +867,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 143764,
-      "num": 143764,
-      "word": "晚宴上的虞书欣",
-      "onboard_time": 1728796699,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 143473,
       "num": 187373,
       "word": "罗慎远眼神拉丝",
       "onboard_time": 1728789199,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 143332,
-      "num": 143332,
-      "word": "光与夜之恋 夏鸣星",
-      "onboard_time": 1728796819,
-      "rank": 41,
-      "category": "游戏"
     },
     {
       "raw_hot": 143171,
@@ -859,14 +907,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 140040,
-      "num": 140040,
-      "word": "希林娜依高不说话比说话还累",
-      "onboard_time": 1728796340,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 138325,
       "num": 138325,
       "word": "鲜菜价格上涨22.9%",
@@ -889,14 +929,6 @@
       "onboard_time": 1728744622,
       "rank": 31,
       "category": "电影"
-    },
-    {
-      "raw_hot": 136199,
-      "num": 136199,
-      "word": "徐菲向节目组投诉徐锦江",
-      "onboard_time": 1728796579,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 133450,
@@ -932,7 +964,7 @@
     },
     {
       "raw_hot": 128381,
-      "num": 128381,
+      "num": 236219,
       "word": "记者调查东北雨姐事件始末",
       "onboard_time": 1728782718,
       "rank": 45,
@@ -1001,14 +1033,6 @@
       "onboard_time": 1728780258,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 116784,
-      "num": 314874,
-      "word": "陈幸同蒯曼VS大藤沙月横井呋樱",
-      "onboard_time": 1728796219,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 115662,
@@ -1097,6 +1121,14 @@
       "onboard_time": 1728749660,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 106496,
+      "num": 260499,
+      "word": "刘学义挥鞭这一下",
+      "onboard_time": 1728796759,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 105813,
@@ -1355,20 +1387,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 60938,
-      "num": 260499,
-      "word": "刘学义挥鞭这一下",
-      "onboard_time": 1728796759,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 60784,
       "num": 217295,
       "word": "当地教育局回应学生因恶作剧被烫伤",
       "onboard_time": 1728789439,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 60629,
+      "num": 233270,
+      "word": "于正说和赵丽颖杨幂都有联系",
+      "onboard_time": 1728797120,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 59044,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1728797927198,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1810560,
+        "num": 1810560,
+        "word": "预制风还是吹到了婚礼圈",
+        "onboard_time": 1728788958,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 796583,
+        "num": 796583,
+        "word": "我们的孩子死了家被炸毁了",
+        "onboard_time": 1728786258,
+        "rank": 1,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 34180,
+        "num": 616841,
+        "word": "首届中国广播电视精品创作大会",
+        "onboard_time": 1728790098,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1163455,
+        "num": 600318,
+        "word": "杨紫鲨鱼裤穿搭",
+        "onboard_time": 1728794358,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 568694,
+        "num": 568694,
+        "word": "丁真提出的增殖放流获得全票通过",
+        "onboard_time": 1728792618,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 437515,
+        "num": 437515,
+        "word": "东部战区发布最新战训视频",
+        "onboard_time": 1728791299,
+        "rank": 5,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 567602,
+        "num": 428750,
+        "word": "何炅喝黄磊做的辣味米稀",
+        "onboard_time": 1728787399,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 304843,
+        "num": 304843,
+        "word": "浙江一公办幼儿园开出乳儿班",
+        "onboard_time": 1728789739,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 302846,
+        "num": 302846,
+        "word": "徐锦江拍过最辛苦的戏是西游记",
+        "onboard_time": 1728794659,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 264792,
+        "num": 264792,
+        "word": "在哀牢山中遇到危险该如何自救",
+        "onboard_time": 1728793998,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 951025,
+        "num": 264055,
+        "word": "许昕1天2战左臂出现反应",
+        "onboard_time": 1728796039,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 800014,
+        "num": 260065,
+        "word": "男子路边佯装撸猫突然将其摔死",
+        "onboard_time": 1728792319,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 595686,
+        "num": 257630,
+        "word": "萧敬腾林有慧婚礼",
+        "onboard_time": 1728795260,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 536835,
+        "num": 253894,
+        "word": "东部战区随时能战",
+        "onboard_time": 1728795979,
+        "rank": 13,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 519738,
+        "num": 248771,
+        "word": "爸爸跑步留老大照顾老二结果都丢了",
+        "onboard_time": 1728787819,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 361578,
+        "num": 245505,
+        "word": "东北雨姐明知红薯粉成分问题",
+        "onboard_time": 1728780557,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 354967,
+        "num": 242990,
+        "word": "景德镇车祸肇事方提出养老换谅解",
+        "onboard_time": 1728779057,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106496,
+        "num": 239074,
+        "word": "刘学义挥鞭这一下",
+        "onboard_time": 1728796759,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 52991,
+        "num": 236219,
+        "word": "记者调查东北雨姐事件始末",
+        "onboard_time": 1728782718,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 60629,
+        "num": 233270,
+        "word": "于正说和赵丽颖杨幂都有联系",
+        "onboard_time": 1728797120,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 887045,
+        "num": 230291,
+        "word": "国乒一天之内输了十场",
+        "onboard_time": 1728792918,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 335095,
+        "num": 226429,
+        "word": "狗主人甚至还提了水果来赎身",
+        "onboard_time": 1728792380,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 225678,
+        "num": 225678,
+        "word": "徐菲向节目组投诉徐锦江",
+        "onboard_time": 1728796579,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 212100,
+        "num": 212100,
+        "word": "光与夜之恋 夏鸣星",
+        "onboard_time": 1728796819,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 60845,
+        "num": 204820,
+        "word": "柿柿如意点缀秋天",
+        "onboard_time": 1728787997,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201499,
+        "num": 201499,
+        "word": "迪丽热巴美得像洋娃娃",
+        "onboard_time": 1728789918,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 192370,
+        "num": 192370,
+        "word": "东北雨姐说的假一赔万能兑现吗",
+        "onboard_time": 1728782777,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192324,
+        "num": 192324,
+        "word": "官方通报小男孩凌晨捡瓶子被偶遇",
+        "onboard_time": 1728795558,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192190,
+        "num": 192190,
+        "word": "李荣浩 兄弟送你三个字你完了",
+        "onboard_time": 1728797359,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 185438,
+        "num": 189850,
+        "word": "内娱古偶换乘恋爱图",
+        "onboard_time": 1728794419,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189134,
+        "num": 189134,
+        "word": "中国人的绝对色感惊艳了",
+        "onboard_time": 1728796579,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188417,
+        "num": 188417,
+        "word": "陈幸同蒯曼VS大藤沙月横井呋樱",
+        "onboard_time": 1728796219,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 173647,
+        "num": 173647,
+        "word": "虞书欣这段话背了多久",
+        "onboard_time": 1728784638,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 172815,
+        "num": 172815,
+        "word": "32岁网红下播后突发脑出血进ICU",
+        "onboard_time": 1728786378,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170152,
+        "num": 170152,
+        "word": "肖战全黑套装",
+        "onboard_time": 1728795139,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 165213,
+        "num": 165213,
+        "word": "心动的信号7官宣黄子弘凡",
+        "onboard_time": 1728793279,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165080,
+        "num": 165080,
+        "word": "光与夜之恋",
+        "onboard_time": 1728794478,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 154984,
+        "num": 154984,
+        "word": "晚宴上的虞书欣",
+        "onboard_time": 1728796699,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153807,
+        "num": 153807,
+        "word": "黄磊何炅搭雨棚",
+        "onboard_time": 1728797420,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150160,
+        "num": 150160,
+        "word": "甄芙传",
+        "onboard_time": 1728797719,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148112,
+        "num": 148112,
+        "word": "希林娜依高不说话比说话还累",
+        "onboard_time": 1728796340,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141678,
+        "num": 141678,
+        "word": "许昕4比0战胜尹孟泽",
+        "onboard_time": 1728790279,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 139099,
+        "num": 139099,
+        "word": "周雨彤 摧毁自己再重建自己",
+        "onboard_time": 1728793818,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139006,
+        "num": 139006,
+        "word": "伊朗议长驾机在以军空袭中访黎",
+        "onboard_time": 1728787159,
+        "rank": 43,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 137910,
+        "num": 137910,
+        "word": "原神",
+        "onboard_time": 1728794478,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 136281,
+        "num": 136281,
+        "word": "许昕回应带伤出征全锦赛",
+        "onboard_time": 1728795619,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136216,
+        "num": 136216,
+        "word": "村子只是东北雨姐拍短视频的基地",
+        "onboard_time": 1728783618,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126209,
+        "num": 126209,
+        "word": "韩国乒乓球亚锦赛男双夺冠",
+        "onboard_time": 1728787700,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125809,
+        "num": 125809,
+        "word": "鲜菜价格上涨22.9%",
+        "onboard_time": 1728794178,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119808,
+        "num": 119808,
+        "word": "四川一落马干部曾把几口袋现金埋在地下",
+        "onboard_time": 1728789859,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#感悟总书记的传统文化情结#"
+    }
+  }
+}
