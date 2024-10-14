@@ -1,6 +1,6 @@
 {
   "startTime": 1728836764624,
-  "endTime": 1728895427252,
+  "endTime": 1728897918458,
   "band_list": [
     {
       "raw_hot": 3312537,
@@ -65,6 +65,14 @@
       "onboard_time": 1728886520,
       "rank": 10,
       "category": "演出"
+    },
+    {
+      "raw_hot": 2001206,
+      "num": 1023956,
+      "word": "吴邦国同志生平",
+      "onboard_time": 1728895170,
+      "rank": 6,
+      "category": "国内时政"
     },
     {
       "raw_hot": 1990137,
@@ -235,6 +243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1189843,
+      "num": 903644,
+      "word": "首次将封锁台湾摆在台面",
+      "onboard_time": 1728894379,
+      "rank": 48,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1089422,
       "num": 1277723,
       "word": "K总停播",
@@ -257,6 +273,14 @@
       "onboard_time": 1728887479,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 956206,
+      "num": 652921,
+      "word": "朝鲜射击指示",
+      "onboard_time": 1728895170,
+      "rank": 26,
+      "category": "国外时政"
     },
     {
       "raw_hot": 918095,
@@ -379,14 +403,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 775959,
-      "num": 775959,
-      "word": "吴邦国同志生平",
-      "onboard_time": 1728895170,
-      "rank": 6,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 760734,
       "num": 1012733,
       "word": "联合利剑2024B演习",
@@ -481,6 +497,14 @@
       "onboard_time": 1728856271,
       "rank": 21,
       "category": "网红"
+    },
+    {
+      "raw_hot": 507201,
+      "num": 760318,
+      "word": "教师在幼儿园内驾车撞倒3名孩子致1死",
+      "onboard_time": 1728894920,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 505611,
@@ -619,6 +643,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 380576,
+      "num": 470758,
+      "word": "李沁妆造",
+      "onboard_time": 1728896718,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 378449,
       "num": 378449,
       "word": "射击队李越宏在印度细菌感染",
@@ -633,6 +665,14 @@
       "onboard_time": 1728885977,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 371201,
+      "num": 301400,
+      "word": "凯迪拉克 樊振东",
+      "onboard_time": 1728896778,
+      "rank": 26,
+      "category": "汽车,体育"
     },
     {
       "raw_hot": 364130,
@@ -755,20 +795,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 324494,
+      "num": 273469,
+      "word": "邓亚萍谈金琴英3比1张本美和",
+      "onboard_time": 1728897199,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 322141,
       "num": 229276,
       "word": "吴镇宇晒费曼王嘉尔合照",
       "onboard_time": 1728831743,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 320897,
-      "num": 320897,
-      "word": "朝鲜射击指示",
-      "onboard_time": 1728895170,
-      "rank": 26,
-      "category": "国外时政"
     },
     {
       "raw_hot": 320857,
@@ -875,6 +915,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 291868,
+      "num": 652952,
+      "word": "SEVENTEEN新歌MV上线",
+      "onboard_time": 1728897019,
+      "rank": 8,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 285213,
       "num": 779052,
       "word": "老赖为不还钱收入144万支出146万",
@@ -923,12 +971,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 276128,
+      "num": 625120,
+      "word": "海警2901号万吨舰首次参加对台任务",
+      "onboard_time": 1728894079,
+      "rank": 13,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 275985,
       "num": 213384,
       "word": "吴晙诚没有领奖",
       "onboard_time": 1728829522,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 274997,
+      "num": 486320,
+      "word": "杨幂治好了我的犯错羞耻症",
+      "onboard_time": 1728894320,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 274571,
@@ -987,14 +1051,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 251174,
-      "num": 625120,
-      "word": "海警2901号万吨舰首次参加对台任务",
-      "onboard_time": 1728894079,
-      "rank": 13,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 249402,
       "num": 249402,
       "word": "我国主要城市成美国网络秘密入侵目标",
@@ -1051,12 +1107,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 220413,
-      "num": 220413,
-      "word": "首次将封锁台湾摆在台面",
-      "onboard_time": 1728894379,
-      "rank": 48,
-      "category": "国内时政"
+      "raw_hot": 220638,
+      "num": 220638,
+      "word": "HYBE称lesserafim和illit精神崩溃",
+      "onboard_time": 1728897379,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 218990,
@@ -1073,6 +1129,14 @@
       "onboard_time": 1728878480,
       "rank": 27,
       "category": "网红"
+    },
+    {
+      "raw_hot": 213028,
+      "num": 213028,
+      "word": "华为Mate70或将提供双框架系统",
+      "onboard_time": 1728895638,
+      "rank": 40,
+      "category": "数码"
     },
     {
       "raw_hot": 212876,
@@ -1217,6 +1281,14 @@
       "onboard_time": 1728867800,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 200206,
+      "num": 200206,
+      "word": "西安一轿车失控撞上公交站台",
+      "onboard_time": 1728897559,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 199295,
@@ -1408,14 +1480,6 @@
       "word": "警方回应6岁女童被高年级男生泼开水",
       "onboard_time": 1728866600,
       "rank": 44,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 157394,
-      "num": 760318,
-      "word": "教师在幼儿园内驾车撞倒3名孩子致1死",
-      "onboard_time": 1728894920,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -1691,11 +1755,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 83770,
+      "num": 511337,
+      "word": "雌雄双盗睡着后被网约车送派出所",
+      "onboard_time": 1728896359,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 79749,
       "num": 79749,
       "word": "小孩姐戴三道杠走路的气质好帅呀",
       "onboard_time": 1728831023,
       "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 73476,
+      "num": 652923,
+      "word": "深圳332套房3个半小时售罄",
+      "onboard_time": 1728896959,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -1787,14 +1867,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 52616,
-      "num": 486320,
-      "word": "杨幂治好了我的犯错羞耻症",
-      "onboard_time": 1728894320,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 50651,
       "num": 760684,
       "word": "5年来直播带货投诉量暴增超47倍",
@@ -1876,11 +1948,19 @@
     },
     {
       "raw_hot": 40455,
-      "num": 904925,
+      "num": 985965,
       "word": "一不留神穿越进绝美秋日油画",
       "onboard_time": 1728893658,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 39000,
+      "num": 436468,
+      "word": "颜如晶半年瘦了50斤",
+      "onboard_time": 1728897680,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 37563,
@@ -1963,6 +2043,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 28943,
+      "num": 172505,
+      "word": "衣服太贵买件老头衫穿穿",
+      "onboard_time": 1728896900,
+      "rank": 47,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 26760,
       "num": 597853,
       "word": "当代男性消费观",
@@ -2019,6 +2107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 22532,
+      "num": 231523,
+      "word": "唯一不想打伞的雨是红包雨",
+      "onboard_time": 1728897379,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 21934,
       "num": 624201,
       "word": "A股三大指数均涨逾1%",
@@ -2041,6 +2137,14 @@
       "onboard_time": 1728867800,
       "rank": 16,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 18808,
+      "num": 281851,
+      "word": "家务清洁怎样省时又省力",
+      "onboard_time": 1728896838,
+      "rank": 28,
+      "category": "科学科普"
     },
     {
       "raw_hot": 17573,
