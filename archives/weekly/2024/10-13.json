@@ -1,6 +1,6 @@
 {
   "startTime": 1728750414717,
-  "endTime": 1728905745274,
+  "endTime": 1728909795746,
   "band_list": [
     {
       "raw_hot": 17915004,
@@ -211,6 +211,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1662646,
+      "num": 1028866,
+      "word": "台湾当归",
+      "onboard_time": 1728905958,
+      "rank": 1,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1647629,
       "num": 447301,
       "word": "朝军8个炮兵旅团转为射击待命",
@@ -329,6 +337,14 @@
       "onboard_time": 1728863899,
       "rank": 4,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1341857,
+      "num": 567860,
+      "word": "杜华 你不火还怪我又不是我不火",
+      "onboard_time": 1728904878,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 1287431,
@@ -819,6 +835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 775712,
+      "num": 457775,
+      "word": "预制孕照",
+      "onboard_time": 1728904999,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 773924,
       "num": 1123827,
       "word": "死死顶住失控车辆的他获赠新车",
@@ -843,19 +867,19 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 755074,
+      "num": 755074,
+      "word": "淮南牛肉汤",
+      "onboard_time": 1728904878,
+      "rank": 28,
+      "category": "美食"
+    },
+    {
       "raw_hot": 754272,
       "num": 754272,
       "word": "乐华首次公开艺人KPI业绩",
       "onboard_time": 1728813619,
       "rank": 4,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 745874,
-      "num": 567860,
-      "word": "杜华 你不火还怪我又不是我不火",
-      "onboard_time": 1728904878,
-      "rank": 17,
       "category": "综艺"
     },
     {
@@ -1291,6 +1315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 468781,
+      "num": 468781,
+      "word": "疾控部门回应广东蟑螂已进化",
+      "onboard_time": 1728907638,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 465849,
       "num": 465849,
       "word": "小伙捡到疑似手雷赶紧上交",
@@ -1443,6 +1475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 419457,
+      "num": 419457,
+      "word": "郑秀妍郑秀晶黄礼志申有娜新闻图",
+      "onboard_time": 1728903438,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 408879,
       "num": 408879,
       "word": "徐锦江拍过最辛苦的戏是西游记",
@@ -1489,6 +1529,14 @@
       "onboard_time": 1728802398,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 388408,
+      "num": 388408,
+      "word": "联合利剑2024B圆满完成",
+      "onboard_time": 1728906858,
+      "rank": 24,
+      "category": "国内时政"
     },
     {
       "raw_hot": 384388,
@@ -1553,6 +1601,14 @@
       "onboard_time": 1728826701,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 365015,
+      "num": 365015,
+      "word": "台独挑衅一日不止大陆反制就一刻不停",
+      "onboard_time": 1728906858,
+      "rank": 28,
+      "category": "国内时政"
     },
     {
       "raw_hot": 364130,
@@ -1691,14 +1747,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 332941,
-      "num": 332941,
-      "word": "预制孕照",
-      "onboard_time": 1728904999,
-      "rank": 26,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 332064,
       "num": 273469,
       "word": "邓亚萍谈金琴英3比1张本美和",
@@ -1785,22 +1833,6 @@
       "onboard_time": 1728880222,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 307212,
-      "num": 307212,
-      "word": "淮南牛肉汤",
-      "onboard_time": 1728904878,
-      "rank": 28,
-      "category": "美食"
-    },
-    {
-      "raw_hot": 306327,
-      "num": 306327,
-      "word": "郑秀妍郑秀晶黄礼志申有娜新闻图",
-      "onboard_time": 1728903438,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 305623,
@@ -2227,6 +2259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 250937,
+      "num": 464694,
+      "word": "七夜雪全员跳初雪",
+      "onboard_time": 1728904579,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 249402,
       "num": 249402,
       "word": "我国主要城市成美国网络秘密入侵目标",
@@ -2281,6 +2321,14 @@
       "onboard_time": 1728832281,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 239562,
+      "num": 239562,
+      "word": "vivoX200",
+      "onboard_time": 1728907879,
+      "rank": 38,
+      "category": "数码"
     },
     {
       "raw_hot": 238711,
@@ -2460,7 +2508,7 @@
     },
     {
       "raw_hot": 219784,
-      "num": 219784,
+      "num": 401475,
       "word": "演习全面检验战区一体化联合作战能力",
       "onboard_time": 1728904220,
       "rank": 37,
@@ -2683,6 +2731,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 205881,
+      "num": 1032941,
+      "word": "敦促美方立即停止全球范围内网络攻击",
+      "onboard_time": 1728898700,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 205790,
       "num": 335526,
       "word": "杨紫李现国色芳华开始招商",
@@ -2697,6 +2753,14 @@
       "onboard_time": 1728824722,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 204093,
+      "num": 442587,
+      "word": "成何体统 丞磊王楚然",
+      "onboard_time": 1728909019,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 204081,
@@ -2931,19 +2995,11 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 196578,
-      "num": 306531,
-      "word": "七夜雪全员跳初雪",
-      "onboard_time": 1728904579,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 195791,
-      "num": 1031326,
-      "word": "敦促美方立即停止全球范围内网络攻击",
-      "onboard_time": 1728898700,
-      "rank": 2,
+      "raw_hot": 196511,
+      "num": 196511,
+      "word": "韩国一特斯拉起火司机困后座被烧死",
+      "onboard_time": 1728907758,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -2985,6 +3041,14 @@
       "onboard_time": 1728795740,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 193052,
+      "num": 193052,
+      "word": "黄友政全锦赛男单冠军",
+      "onboard_time": 1728909559,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 193023,
@@ -3355,6 +3419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 171018,
+      "num": 171018,
+      "word": "黄友政4比0敖华磊",
+      "onboard_time": 1728909680,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 170987,
       "num": 170987,
       "word": "罕见降雨致撒哈拉沙漠出现洪水",
@@ -3473,6 +3545,14 @@
       "onboard_time": 1728739283,
       "rank": 19,
       "category": "网红"
+    },
+    {
+      "raw_hot": 164475,
+      "num": 164475,
+      "word": "72岁李银河称从未后悔选择丁克",
+      "onboard_time": 1728908478,
+      "rank": 47,
+      "category": "读书作家"
     },
     {
       "raw_hot": 163844,
@@ -3771,6 +3851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 147759,
+      "num": 456569,
+      "word": "警方回应成都一河道疑发现浮尸",
+      "onboard_time": 1728908178,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 146686,
       "num": 443666,
       "word": "2名大学生帮站票宝妈抱娃一整夜",
@@ -3939,6 +4027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 140679,
+      "num": 466404,
+      "word": "vivoX200系列发布会",
+      "onboard_time": 1728906979,
+      "rank": 8,
+      "category": "数码"
+    },
+    {
       "raw_hot": 140388,
       "num": 403911,
       "word": "翁青雅彭高甜度",
@@ -4033,6 +4129,14 @@
       "onboard_time": 1728837077,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 129287,
+      "num": 271675,
+      "word": "成毅眼神戏",
+      "onboard_time": 1728908238,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 128507,
@@ -5003,6 +5107,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 56544,
+      "num": 446267,
+      "word": "张馨予回应我想我会一直孤单",
+      "onboard_time": 1728909199,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 55690,
       "num": 55690,
       "word": "余华英多次作案带上女儿作饵",
@@ -5068,7 +5180,7 @@
     },
     {
       "raw_hot": 50382,
-      "num": 844427,
+      "num": 866911,
       "word": "多条高铁线将于年底前开通运营",
       "onboard_time": 1728893478,
       "rank": 2,
@@ -5081,6 +5193,14 @@
       "onboard_time": 1728840733,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 50017,
+      "num": 368159,
+      "word": "vivo拍下的山河辽阔烟火寻常",
+      "onboard_time": 1728909199,
+      "rank": 27,
+      "category": "数码"
     },
     {
       "raw_hot": 49442,
@@ -5163,12 +5283,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 45895,
+      "num": 347972,
+      "word": "vivo走出国产芯片技术第三条路",
+      "onboard_time": 1728909199,
+      "rank": 29,
+      "category": "数码"
+    },
+    {
       "raw_hot": 45682,
       "num": 389029,
       "word": "消费者如何辨别粉条是不是纯红薯粉",
       "onboard_time": 1728803598,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 45193,
+      "num": 241500,
+      "word": "首部安兔兔跑分破300万的手机",
+      "onboard_time": 1728909199,
+      "rank": 37,
+      "category": "数码"
     },
     {
       "raw_hot": 44385,
@@ -5201,6 +5337,14 @@
       "onboard_time": 1728784518,
       "rank": 13,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 43410,
+      "num": 425154,
+      "word": "天猫人均万元消费券今日发放",
+      "onboard_time": 1728908178,
+      "rank": 20,
+      "category": "互联网"
     },
     {
       "raw_hot": 43201,
@@ -5449,6 +5593,14 @@
       "onboard_time": 1728807078,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 32263,
+      "num": 450840,
+      "word": "国产手机电池技术有多领先",
+      "onboard_time": 1728907939,
+      "rank": 15,
+      "category": "数码"
     },
     {
       "raw_hot": 31579,
