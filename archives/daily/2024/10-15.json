@@ -1,6 +1,6 @@
 {
   "startTime": 1728923247369,
-  "endTime": 1728930602311,
+  "endTime": 1728931415028,
   "band_list": [
     {
       "raw_hot": 1644797,
@@ -211,6 +211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 138241,
+      "num": 138241,
+      "word": "千万主播学历造假频繁发生",
+      "onboard_time": 1728927794,
+      "rank": 4,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 137555,
       "num": 137555,
       "word": "易烊千玺机场",
@@ -281,14 +289,6 @@
       "onboard_time": 1728915382,
       "rank": 35,
       "category": "网红"
-    },
-    {
-      "raw_hot": 105891,
-      "num": 105891,
-      "word": "千万主播学历造假频繁发生",
-      "onboard_time": 1728927794,
-      "rank": 4,
-      "category": "社会议题"
     },
     {
       "raw_hot": 104995,
@@ -459,6 +459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 50850,
+      "num": 79394,
+      "word": "卫生局回应医院晚上直播唱歌成KTV",
+      "onboard_time": 1728929412,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 45569,
       "num": 51180,
       "word": "蓦然回首",
@@ -499,12 +507,28 @@
       "category": "演出"
     },
     {
-      "raw_hot": 18301,
-      "num": 79394,
-      "word": "卫生局回应医院晚上直播唱歌成KTV",
-      "onboard_time": 1728929412,
-      "rank": 9,
+      "raw_hot": 27239,
+      "num": 27239,
+      "word": "锦绣安宁",
+      "onboard_time": 1728930972,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 15618,
+      "num": 49990,
+      "word": "深圳再现日光盘均价7.6万每平",
+      "onboard_time": 1728930613,
+      "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 15278,
+      "num": 44870,
+      "word": "海军版山河图变装太燃了",
+      "onboard_time": 1728930731,
+      "rank": 24,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 14118,
