@@ -1,6 +1,6 @@
 {
   "startTime": 1728923247369,
-  "endTime": 1728940855478,
+  "endTime": 1728941749798,
   "band_list": [
     {
       "raw_hot": 1644797,
@@ -204,7 +204,7 @@
     },
     {
       "raw_hot": 144951,
-      "num": 144951,
+      "num": 171616,
       "word": "千万主播学历造假频繁发生",
       "onboard_time": 1728927794,
       "rank": 4,
@@ -507,6 +507,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 29348,
+      "num": 29348,
+      "word": "听泉鉴宝究竟是剧本还是真有其事",
+      "onboard_time": 1728936791,
+      "rank": 47,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 28559,
+      "num": 39841,
+      "word": "黑色月光",
+      "onboard_time": 1728937450,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 27449,
       "num": 28619,
       "word": "刀郎演唱会",
@@ -523,16 +539,16 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 26746,
-      "num": 26746,
-      "word": "听泉鉴宝究竟是剧本还是真有其事",
-      "onboard_time": 1728936791,
-      "rank": 47,
-      "category": "网红"
+      "raw_hot": 26013,
+      "num": 26013,
+      "word": "作协主席被曝酒后闹事辱骂酒店前台",
+      "onboard_time": 1728940391,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 25614,
-      "num": 25614,
+      "num": 26180,
       "word": "中方再曝光美政府伏特台风计划细节",
       "onboard_time": 1728938591,
       "rank": 29,
@@ -545,14 +561,6 @@
       "onboard_time": 1728932772,
       "rank": 19,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 24959,
-      "num": 38476,
-      "word": "黑色月光",
-      "onboard_time": 1728937450,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 23479,
@@ -587,10 +595,10 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 18226,
-      "num": 18226,
-      "word": "作协主席被曝酒后闹事辱骂酒店前台",
-      "onboard_time": 1728940391,
+      "raw_hot": 18686,
+      "num": 20415,
+      "word": "当事人回应酒后闹事称已道歉",
+      "onboard_time": 1728941351,
       "rank": 48,
       "category": "社会新闻"
     },
@@ -643,12 +651,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 10593,
+      "num": 37421,
+      "word": "保代公司推销理财敛取老人养老钱",
+      "onboard_time": 1728941532,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 10559,
       "num": 152393,
       "word": "老外靠手机无障碍打卡黑神话取景地",
       "onboard_time": 1728918440,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 8581,
+      "num": 20440,
+      "word": "特警合力井下救援8分钟救2条命",
+      "onboard_time": 1728941410,
+      "rank": 45,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
