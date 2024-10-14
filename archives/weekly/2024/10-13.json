@@ -1,6 +1,6 @@
 {
   "startTime": 1728750414717,
-  "endTime": 1728897918458,
+  "endTime": 1728898746697,
   "band_list": [
     {
       "raw_hot": 17915004,
@@ -161,6 +161,14 @@
       "onboard_time": 1728820521,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 2005625,
+      "num": 1032725,
+      "word": "首次将封锁台湾摆在台面",
+      "onboard_time": 1728894379,
+      "rank": 48,
+      "category": "国内时政"
     },
     {
       "raw_hot": 2001206,
@@ -408,14 +416,6 @@
       "word": "台独顽固分子沈伯洋曹兴诚被惩戒",
       "onboard_time": 1728883820,
       "rank": 37,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 1189843,
-      "num": 903644,
-      "word": "首次将封锁台湾摆在台面",
-      "onboard_time": 1728894379,
-      "rank": 48,
       "category": "国内时政"
     },
     {
@@ -1395,6 +1395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 387247,
+      "num": 626174,
+      "word": "李沁妆造",
+      "onboard_time": 1728896718,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 384388,
       "num": 384388,
       "word": "迪丽热巴美得像洋娃娃",
@@ -1409,14 +1417,6 @@
       "onboard_time": 1728827904,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 380576,
-      "num": 470758,
-      "word": "李沁妆造",
-      "onboard_time": 1728896718,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 379903,
@@ -1603,6 +1603,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 332064,
+      "num": 273469,
+      "word": "邓亚萍谈金琴英3比1张本美和",
+      "onboard_time": 1728897199,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 330841,
       "num": 330841,
       "word": "女生找工作被HR问如果想追你呢",
@@ -1619,6 +1627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 328733,
+      "num": 328733,
+      "word": "西安一轿车失控撞上公交站台",
+      "onboard_time": 1728897559,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 326318,
       "num": 326318,
       "word": "吴镇宇晒费曼王嘉尔合照",
@@ -1627,12 +1643,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 324494,
-      "num": 273469,
-      "word": "邓亚萍谈金琴英3比1张本美和",
-      "onboard_time": 1728897199,
-      "rank": 30,
-      "category": "体育"
+      "raw_hot": 321025,
+      "num": 486320,
+      "word": "杨幂治好了我的犯错羞耻症",
+      "onboard_time": 1728894320,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 320857,
@@ -1819,6 +1835,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 291281,
+      "num": 291281,
+      "word": "HYBE称lesserafim和illit精神崩溃",
+      "onboard_time": 1728897379,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 289674,
       "num": 289674,
       "word": "朴元彬发长文",
@@ -1905,14 +1929,6 @@
       "onboard_time": 1728794478,
       "rank": 44,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 274997,
-      "num": 486320,
-      "word": "杨幂治好了我的犯错羞耻症",
-      "onboard_time": 1728894320,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 274571,
@@ -2025,6 +2041,14 @@
       "onboard_time": 1728817042,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 259282,
+      "num": 259282,
+      "word": "SEVENTEEN 好听",
+      "onboard_time": 1728898219,
+      "rank": 26,
+      "category": "音乐"
     },
     {
       "raw_hot": 259024,
@@ -2257,14 +2281,6 @@
       "onboard_time": 1728891198,
       "rank": 43,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 220638,
-      "num": 220638,
-      "word": "HYBE称lesserafim和illit精神崩溃",
-      "onboard_time": 1728897379,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 220463,
@@ -2507,6 +2523,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 205292,
+      "num": 205292,
+      "word": "徐明浩镜头",
+      "onboard_time": 1728898339,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 204592,
       "num": 204592,
       "word": "郑钦文巩固世界第7排名",
@@ -2617,14 +2641,6 @@
       "onboard_time": 1728867800,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 200206,
-      "num": 200206,
-      "word": "西安一轿车失控撞上公交站台",
-      "onboard_time": 1728897559,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 199893,
@@ -2907,6 +2923,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 187952,
+      "num": 187952,
+      "word": "潘宏训狗",
+      "onboard_time": 1728898397,
+      "rank": 42,
+      "category": "网红"
+    },
+    {
       "raw_hot": 187248,
       "num": 187248,
       "word": "PCL",
@@ -3035,6 +3059,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 176896,
+      "num": 436468,
+      "word": "颜如晶半年瘦了50斤",
+      "onboard_time": 1728897680,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 176462,
       "num": 176462,
       "word": "解放军此次围岛演习有3个更加",
@@ -3104,6 +3136,14 @@
       "word": "罕见降雨致撒哈拉沙漠出现洪水",
       "onboard_time": 1728820400,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 170347,
+      "num": 170347,
+      "word": "景德镇巨响",
+      "onboard_time": 1728898700,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -4307,6 +4347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 95445,
+      "num": 652923,
+      "word": "深圳332套房3个半小时售罄",
+      "onboard_time": 1728896959,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 95409,
       "num": 119519,
       "word": "郑钦文晋级武网决赛",
@@ -4520,14 +4568,6 @@
       "word": "律师解读南昌大学在教室装摄像头",
       "onboard_time": 1728828803,
       "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 73476,
-      "num": 652923,
-      "word": "深圳332套房3个半小时售罄",
-      "onboard_time": 1728896959,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -4907,12 +4947,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 39000,
-      "num": 436468,
-      "word": "颜如晶半年瘦了50斤",
-      "onboard_time": 1728897680,
-      "rank": 19,
-      "category": "艺人"
+      "raw_hot": 40013,
+      "num": 609559,
+      "word": "唯一不想打伞的雨是红包雨",
+      "onboard_time": 1728897379,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 37563,
@@ -5003,6 +5043,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 34099,
+      "num": 172505,
+      "word": "衣服太贵买件老头衫穿穿",
+      "onboard_time": 1728896900,
+      "rank": 47,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 33958,
       "num": 43946,
       "word": "成都通报一燃油车发生燃爆",
@@ -5065,14 +5113,6 @@
       "onboard_time": 1728854591,
       "rank": 19,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 28943,
-      "num": 172505,
-      "word": "衣服太贵买件老头衫穿穿",
-      "onboard_time": 1728896900,
-      "rank": 47,
-      "category": "时尚"
     },
     {
       "raw_hot": 28287,
@@ -5171,12 +5211,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 22532,
-      "num": 231523,
-      "word": "唯一不想打伞的雨是红包雨",
-      "onboard_time": 1728897379,
-      "rank": 35,
-      "category": "社会新闻"
+      "raw_hot": 22184,
+      "num": 281851,
+      "word": "家务清洁怎样省时又省力",
+      "onboard_time": 1728896838,
+      "rank": 28,
+      "category": "科学科普"
     },
     {
       "raw_hot": 21934,
@@ -5249,14 +5289,6 @@
       "onboard_time": 1728775035,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 18808,
-      "num": 281851,
-      "word": "家务清洁怎样省时又省力",
-      "onboard_time": 1728896838,
-      "rank": 28,
-      "category": "科学科普"
     },
     {
       "raw_hot": 17573,
@@ -5339,6 +5371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 9190,
+      "num": 186577,
+      "word": "J人的购物车早一个月就想好了",
+      "onboard_time": 1728898578,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 9077,
       "num": 822593,
       "word": "2024年全国数字乡村创新大赛",
@@ -5353,6 +5393,14 @@
       "onboard_time": 1728785298,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 6085,
+      "num": 987890,
+      "word": "敦促美方立即停止全球范围内网络攻击",
+      "onboard_time": 1728898700,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 4335,

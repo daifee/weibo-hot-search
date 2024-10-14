@@ -1,0 +1,410 @@
+{
+  "runTime": 1728898746697,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 163328,
+        "num": 1034915,
+        "word": "美国水蝮蛇窃密设备伪装成USB键盘",
+        "onboard_time": 1728886578,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2005625,
+        "num": 1032725,
+        "word": "首次将封锁台湾摆在台面",
+        "onboard_time": 1728894379,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 6085,
+        "num": 987890,
+        "word": "敦促美方立即停止全球范围内网络攻击",
+        "onboard_time": 1728898700,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1732393,
+        "num": 935952,
+        "word": "吴邦国同志生平",
+        "onboard_time": 1728895170,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1267141,
+        "num": 914281,
+        "word": "国产短剧已经疯了",
+        "onboard_time": 1728892219,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 877560,
+        "num": 877560,
+        "word": "韩国朝鲜",
+        "onboard_time": 1728866479,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 732584,
+        "num": 732584,
+        "word": "解放军破晓出击现场画面",
+        "onboard_time": 1728885559,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 628297,
+        "num": 628297,
+        "word": "解放军3次围岛行动示意图对比",
+        "onboard_time": 1728879139,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 387247,
+        "num": 626174,
+        "word": "李沁妆造",
+        "onboard_time": 1728896718,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 95445,
+        "num": 618279,
+        "word": "深圳332套房3个半小时售罄",
+        "onboard_time": 1728896959,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33364,
+        "num": 614489,
+        "word": "一不留神穿越进绝美秋日油画",
+        "onboard_time": 1728893658,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 40013,
+        "num": 609559,
+        "word": "唯一不想打伞的雨是红包雨",
+        "onboard_time": 1728897379,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 901668,
+        "num": 603669,
+        "word": "朝鲜射击指示",
+        "onboard_time": 1728895170,
+        "rank": 12,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 601854,
+        "num": 601854,
+        "word": "祖国完全统一一定会实现",
+        "onboard_time": 1728875300,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 576048,
+        "num": 576048,
+        "word": "台湾自古就是中国领土",
+        "onboard_time": 1728868877,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 574694,
+        "num": 574694,
+        "word": "解放军抵近台岛演习夺取综合制权",
+        "onboard_time": 1728859935,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 470528,
+        "num": 470528,
+        "word": "教师在幼儿园内驾车撞倒3名孩子致1死",
+        "onboard_time": 1728894920,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 437820,
+        "num": 437820,
+        "word": "黄子韬徐艺洋秀恩爱vlog",
+        "onboard_time": 1728891799,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 321025,
+        "num": 391795,
+        "word": "杨幂治好了我的犯错羞耻症",
+        "onboard_time": 1728894320,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176896,
+        "num": 380417,
+        "word": "颜如晶半年瘦了50斤",
+        "onboard_time": 1728897680,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 574472,
+        "num": 379662,
+        "word": "孕妇喝冰箱剩牛奶感染李斯特菌胎死腹中",
+        "onboard_time": 1728889518,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 378906,
+        "num": 378906,
+        "word": "王楚钦时尚COSMO11月刊大片",
+        "onboard_time": 1728890538,
+        "rank": 21,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 333299,
+        "num": 333299,
+        "word": "小胖又在指导樊振东",
+        "onboard_time": 1728889459,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 328733,
+        "num": 328733,
+        "word": "西安一轿车失控撞上公交站台",
+        "onboard_time": 1728897559,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 291281,
+        "num": 291281,
+        "word": "HYBE称lesserafim和illit精神崩溃",
+        "onboard_time": 1728897379,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 277620,
+        "num": 277620,
+        "word": "村主任撞人致死赔650万后改判15年",
+        "onboard_time": 1728887479,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 259282,
+        "num": 259282,
+        "word": "SEVENTEEN 好听",
+        "onboard_time": 1728898219,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 246167,
+        "num": 246167,
+        "word": "SEVENTEEN新歌MV上线",
+        "onboard_time": 1728897019,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 22184,
+        "num": 246136,
+        "word": "家务清洁怎样省时又省力",
+        "onboard_time": 1728896838,
+        "rank": 28,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 206626,
+        "num": 245516,
+        "word": "上甘岭开播",
+        "onboard_time": 1728894799,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 332064,
+        "num": 245027,
+        "word": "邓亚萍谈金琴英3比1张本美和",
+        "onboard_time": 1728897199,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 264599,
+        "num": 244065,
+        "word": "解放军歼击机轰炸机跨海峡奔袭迫近台岛",
+        "onboard_time": 1728886278,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 243932,
+        "num": 243932,
+        "word": "海警2901号万吨舰首次参加对台任务",
+        "onboard_time": 1728894079,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 241860,
+        "num": 241860,
+        "word": "台独是死路一条",
+        "onboard_time": 1728863899,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 233478,
+        "num": 233478,
+        "word": "第五人格 chiha",
+        "onboard_time": 1728884659,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 211945,
+        "num": 211945,
+        "word": "华为Mate70或将提供双框架系统",
+        "onboard_time": 1728895638,
+        "rank": 35,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 205292,
+        "num": 205292,
+        "word": "徐明浩镜头",
+        "onboard_time": 1728898339,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 203736,
+        "num": 203736,
+        "word": "上海一养护院把人关在像猪圈的房间",
+        "onboard_time": 1728894139,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197885,
+        "num": 197885,
+        "word": "关智斌舞台求婚阿Sa",
+        "onboard_time": 1728886520,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 195971,
+        "num": 195971,
+        "word": "谢娜还是太超前了",
+        "onboard_time": 1728879981,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 192965,
+        "num": 192965,
+        "word": "女子注销号码未解绑网盘致照片泄露",
+        "onboard_time": 1728878959,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189436,
+        "num": 189436,
+        "word": "掐脖吻",
+        "onboard_time": 1728883038,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187952,
+        "num": 187952,
+        "word": "潘宏训狗",
+        "onboard_time": 1728898397,
+        "rank": 42,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 9190,
+        "num": 186577,
+        "word": "J人的购物车早一个月就想好了",
+        "onboard_time": 1728898578,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185520,
+        "num": 185520,
+        "word": "警方回应小米SU7冲上公交站台",
+        "onboard_time": 1728893718,
+        "rank": 44,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 179950,
+        "num": 179950,
+        "word": "闪婚老伴宠上天",
+        "onboard_time": 1728892578,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172277,
+        "num": 172277,
+        "word": "范晓萱胖了好多",
+        "onboard_time": 1728886758,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34099,
+        "num": 172094,
+        "word": "衣服太贵买件老头衫穿穿",
+        "onboard_time": 1728896900,
+        "rank": 47,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 172071,
+        "num": 172071,
+        "word": "老头乐冲卡上高速逆行遇车祸",
+        "onboard_time": 1728891198,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170347,
+        "num": 170347,
+        "word": "景德镇巨响",
+        "onboard_time": 1728898700,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国的现代化之路既发展自身又造福世界#"
+    }
+  }
+}

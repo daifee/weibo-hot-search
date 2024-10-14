@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1728897918458,
+  "endTime": 1728898746697,
   "band_list": [
     {
       "raw_hot": 17915004,
@@ -713,6 +713,14 @@
       "onboard_time": 1728488119,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 2005625,
+      "num": 1032725,
+      "word": "首次将封锁台湾摆在台面",
+      "onboard_time": 1728894379,
+      "rank": 48,
+      "category": "国内时政"
     },
     {
       "raw_hot": 2001206,
@@ -2033,14 +2041,6 @@
       "onboard_time": 1728176057,
       "rank": 0,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1189843,
-      "num": 903644,
-      "word": "首次将封锁台湾摆在台面",
-      "onboard_time": 1728894379,
-      "rank": 48,
-      "category": "国内时政"
     },
     {
       "raw_hot": 1189609,
@@ -9755,6 +9755,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 387247,
+      "num": 626174,
+      "word": "李沁妆造",
+      "onboard_time": 1728896718,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 387161,
       "num": 234029,
       "word": "高雅cp",
@@ -9921,14 +9929,6 @@
       "onboard_time": 1728155112,
       "rank": 30,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 380576,
-      "num": 470758,
-      "word": "李沁妆造",
-      "onboard_time": 1728896718,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 380523,
@@ -11339,6 +11339,14 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 332064,
+      "num": 273469,
+      "word": "邓亚萍谈金琴英3比1张本美和",
+      "onboard_time": 1728897199,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 331644,
       "num": 331644,
       "word": "杭州4.3亿元消费券来了",
@@ -11416,6 +11424,14 @@
       "word": "这是中法文化的双向奔赴",
       "onboard_time": 1728483738,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 328733,
+      "num": 328733,
+      "word": "西安一轿车失控撞上公交站台",
+      "onboard_time": 1728897559,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -11611,14 +11627,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 324494,
-      "num": 273469,
-      "word": "邓亚萍谈金琴英3比1张本美和",
-      "onboard_time": 1728897199,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 323885,
       "num": 323885,
       "word": "李霄云 快女",
@@ -11697,6 +11705,14 @@
       "onboard_time": 1728527657,
       "rank": 16,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 321025,
+      "num": 486320,
+      "word": "杨幂治好了我的犯错羞耻症",
+      "onboard_time": 1728894320,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 320857,
@@ -12851,6 +12867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 291281,
+      "num": 291281,
+      "word": "HYBE称lesserafim和illit精神崩溃",
+      "onboard_time": 1728897379,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 290987,
       "num": 290987,
       "word": "国庆假期还剩6天",
@@ -13689,14 +13713,6 @@
       "onboard_time": 1727939777,
       "rank": 49,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 274997,
-      "num": 486320,
-      "word": "杨幂治好了我的犯错羞耻症",
-      "onboard_time": 1728894320,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 274826,
@@ -14625,6 +14641,14 @@
       "onboard_time": 1728568581,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 259282,
+      "num": 259282,
+      "word": "SEVENTEEN 好听",
+      "onboard_time": 1728898219,
+      "rank": 26,
+      "category": "音乐"
     },
     {
       "raw_hot": 259212,
@@ -16907,14 +16931,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 220638,
-      "num": 220638,
-      "word": "HYBE称lesserafim和illit精神崩溃",
-      "onboard_time": 1728897379,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 220634,
       "num": 213865,
       "word": "为什么出去旅游女厕所永远在排队",
@@ -18403,6 +18419,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 205292,
+      "num": 205292,
+      "word": "徐明浩镜头",
+      "onboard_time": 1728898339,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 205198,
       "num": 205198,
       "word": "王曼昱4比1何卓佳",
@@ -19160,14 +19184,6 @@
       "word": "烈士陵园树枝掰开都是五角星形状",
       "onboard_time": 1728129500,
       "rank": 25,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 200206,
-      "num": 200206,
-      "word": "西安一轿车失控撞上公交站台",
-      "onboard_time": 1728897559,
-      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -21091,6 +21107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 187952,
+      "num": 187952,
+      "word": "潘宏训狗",
+      "onboard_time": 1728898397,
+      "rank": 42,
+      "category": "网红"
+    },
+    {
       "raw_hot": 187951,
       "num": 220702,
       "word": "五公个喜排名",
@@ -22339,6 +22363,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 176896,
+      "num": 436468,
+      "word": "颜如晶半年瘦了50斤",
+      "onboard_time": 1728897680,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 176873,
       "num": 176873,
       "word": "明日方舟 ask",
@@ -23168,6 +23200,14 @@
       "word": "不能乱罚款乱检查乱查封",
       "onboard_time": 1728360201,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 170347,
+      "num": 170347,
+      "word": "景德镇巨响",
+      "onboard_time": 1728898700,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -33875,6 +33915,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 95445,
+      "num": 652923,
+      "word": "深圳332套房3个半小时售罄",
+      "onboard_time": 1728896959,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 95382,
       "num": 103639,
       "word": "北京五环内购房社保年限5改3",
@@ -35713,14 +35761,6 @@
       "onboard_time": 1728343637,
       "rank": 24,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 73476,
-      "num": 652923,
-      "word": "深圳332套房3个半小时售罄",
-      "onboard_time": 1728896959,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 73434,
@@ -38755,6 +38795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 40013,
+      "num": 609559,
+      "word": "唯一不想打伞的雨是红包雨",
+      "onboard_time": 1728897379,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 39938,
       "num": 405560,
       "word": "惊艳了秋天的多彩丰收",
@@ -38889,14 +38937,6 @@
       "onboard_time": 1728686355,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 39000,
-      "num": 436468,
-      "word": "颜如晶半年瘦了50斤",
-      "onboard_time": 1728897680,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 38956,
@@ -39576,6 +39616,14 @@
       "word": "VOGUE盛典出发图主题",
       "onboard_time": 1728548479,
       "rank": 18,
+      "category": "时尚"
+    },
+    {
+      "raw_hot": 34099,
+      "num": 172505,
+      "word": "衣服太贵买件老头衫穿穿",
+      "onboard_time": 1728896900,
+      "rank": 47,
       "category": "时尚"
     },
     {
@@ -40273,14 +40321,6 @@
       "onboard_time": 1727803335,
       "rank": 10,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 28943,
-      "num": 172505,
-      "word": "衣服太贵买件老头衫穿穿",
-      "onboard_time": 1728896900,
-      "rank": 47,
-      "category": "时尚"
     },
     {
       "raw_hot": 28922,
@@ -41107,14 +41147,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 22532,
-      "num": 231523,
-      "word": "唯一不想打伞的雨是红包雨",
-      "onboard_time": 1728897379,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 22391,
       "num": 314600,
       "word": "YG申请2NE1商标权",
@@ -41153,6 +41185,14 @@
       "onboard_time": 1728061336,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 22184,
+      "num": 281851,
+      "word": "家务清洁怎样省时又省力",
+      "onboard_time": 1728896838,
+      "rank": 28,
+      "category": "科学科普"
     },
     {
       "raw_hot": 22175,
@@ -41593,14 +41633,6 @@
       "onboard_time": 1728103098,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 18808,
-      "num": 281851,
-      "word": "家务清洁怎样省时又省力",
-      "onboard_time": 1728896838,
-      "rank": 28,
-      "category": "科学科普"
     },
     {
       "raw_hot": 18775,
@@ -42299,6 +42331,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 9190,
+      "num": 186577,
+      "word": "J人的购物车早一个月就想好了",
+      "onboard_time": 1728898578,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 9163,
       "num": 114363,
       "word": "TizzyT直播",
@@ -42329,6 +42369,14 @@
       "onboard_time": 1728785298,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 6085,
+      "num": 987890,
+      "word": "敦促美方立即停止全球范围内网络攻击",
+      "onboard_time": 1728898700,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 5941,
