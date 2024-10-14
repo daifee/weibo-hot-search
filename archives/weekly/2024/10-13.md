@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/10/13 00:26:54 ~ 2024/10/15 06:22:35
+本榜单时间：2024/10/13 00:26:54 ~ 2024/10/15 06:40:06
 </p>
 </blockquote>
 <p>
@@ -1653,6 +1653,12 @@ SEVENTEEN新歌MV上线（热度：291868）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E5%B8%88%E6%A0%A1%E5%86%85%E4%BA%A4%E9%80%9A%E8%82%87%E4%BA%8B%E8%87%B4%E5%A5%B3%E7%AB%A5%E8%BA%AB%E4%BA%A1%23" target="weibo">
+老师校内交通肇事致女童身亡（热度：290539）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%B4%E5%85%83%E5%BD%AC%E5%8F%91%E9%95%BF%E6%96%87%23" target="weibo">
 朴元彬发长文（热度：289674）
 </a>
@@ -1953,6 +1959,12 @@ SEVENTEEN 好听（热度：259282）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%83%E4%B8%87%E4%B8%BB%E6%92%AD%E5%AD%A6%E5%8E%86%E9%80%A0%E5%81%87%E9%A2%91%E7%B9%81%E5%8F%91%E7%94%9F%23" target="weibo">
+千万主播学历造假频繁发生（热度：240573）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%BB%BA%E8%AE%AE%E5%AD%A6%E4%BC%9A%E8%85%B9%E5%BC%8F%E5%91%BC%E5%90%B8%23" target="weibo">
 为什么建议学会腹式呼吸（热度：239740）
 </a>
@@ -2193,6 +2205,12 @@ SEVENTEEN 好听（热度：259282）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2322%E4%B8%AA%E7%BA%B8%E7%AE%B1%E8%A3%85%E9%92%B1%E5%8E%8B%E5%BE%97%E8%BD%A6%E4%B8%8A%E4%B8%8D%E4%BA%86%E5%9C%B0%E5%BA%93%E6%96%9C%E5%9D%A1%23" target="weibo">
+22个纸箱装钱压得车上不了地库斜坡（热度：212700）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E9%9C%B8%E7%8E%8B%E5%88%AB%E5%A7%AC%E5%BC%B9%E5%94%B1%23" target="weibo">
 薛之谦霸王别姬弹唱（热度：212482）
 </a>
@@ -2219,6 +2237,12 @@ SEVENTEEN 好听（热度：259282）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%89%E4%B8%8E%E5%A4%9C%E4%B9%8B%E6%81%8B%20%E5%A4%8F%E9%B8%A3%E6%98%9F%23" target="weibo">
 光与夜之恋 夏鸣星（热度：212100）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BD%9C%E5%8D%8F%E4%B8%BB%E5%B8%AD%E8%A2%AB%E6%9B%9D%E9%85%92%E5%90%8E%E9%97%B9%E4%BA%8B%E8%BE%B1%E9%AA%82%E9%85%92%E5%BA%97%E5%89%8D%E5%8F%B0%23" target="weibo">
+作协主席被曝酒后闹事辱骂酒店前台（热度：211860）
 </a>
 </li>
 
@@ -2661,12 +2685,6 @@ PCL（热度：187248）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E5%B8%88%E6%A0%A1%E5%86%85%E4%BA%A4%E9%80%9A%E8%82%87%E4%BA%8B%E8%87%B4%E5%A5%B3%E7%AB%A5%E8%BA%AB%E4%BA%A1%23" target="weibo">
-老师校内交通肇事致女童身亡（热度：187139）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23S14%23" target="weibo">
 S14（热度：187029）
 </a>
@@ -2795,12 +2813,6 @@ AG对战DRG（热度：181556）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A7%A3%E6%94%BE%E5%86%9B%E6%AD%A4%E6%AC%A1%E5%9B%B4%E5%B2%9B%E6%BC%94%E4%B9%A0%E6%9C%893%E4%B8%AA%E6%9B%B4%E5%8A%A0%23" target="weibo">
 解放军此次围岛演习有3个更加（热度：176462）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%83%E4%B8%87%E4%B8%BB%E6%92%AD%E5%AD%A6%E5%8E%86%E9%80%A0%E5%81%87%E9%A2%91%E7%B9%81%E5%8F%91%E7%94%9F%23" target="weibo">
-千万主播学历造假频繁发生（热度：176237）
 </a>
 </li>
 
@@ -3149,12 +3161,6 @@ vivoX200系列发布会（热度：151235）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BB%83%E8%83%8C%E7%9C%9F%E7%9A%84%E4%B8%93%E6%95%91%E5%9E%AE%E8%84%B8%23" target="weibo">
 练背真的专救垮脸（热度：150514）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%2322%E4%B8%AA%E7%BA%B8%E7%AE%B1%E8%A3%85%E9%92%B1%E5%8E%8B%E5%BE%97%E8%BD%A6%E4%B8%8A%E4%B8%8D%E4%BA%86%E5%9C%B0%E5%BA%93%E6%96%9C%E5%9D%A1%23" target="weibo">
-22个纸箱装钱压得车上不了地库斜坡（热度：150373）
 </a>
 </li>
 
@@ -4263,12 +4269,6 @@ X200小直屏颜值党天菜（热度：54004）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BD%9C%E5%8D%8F%E4%B8%BB%E5%B8%AD%E8%A2%AB%E6%9B%9D%E9%85%92%E5%90%8E%E9%97%B9%E4%BA%8B%E8%BE%B1%E9%AA%82%E9%85%92%E5%BA%97%E5%89%8D%E5%8F%B0%23" target="weibo">
-作协主席被曝酒后闹事辱骂酒店前台（热度：53528）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%8F%E6%96%B0%E7%9A%93%E9%A6%96%E4%B8%AA%E6%8E%A8%E8%8D%90%E5%80%BC%E7%A0%B4100w%E7%9A%84%E5%89%A7%E7%BB%BC%E4%BA%BA%E7%89%A9%23" target="weibo">
 苏新皓首个推荐值破100w的剧综人物（热度：53339）
 </a>
@@ -4389,6 +4389,12 @@ vivoX200开箱评测（热度：49788）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%AC%E6%B3%89%E9%89%B4%E5%AE%9D%E7%A9%B6%E7%AB%9F%E6%98%AF%E5%89%A7%E6%9C%AC%E8%BF%98%E6%98%AF%E7%9C%9F%E6%9C%89%E5%85%B6%E4%BA%8B%23" target="weibo">
+听泉鉴宝究竟是剧本还是真有其事（热度：48602）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%83%91%E5%8F%B7%E9%94%A1%E5%B0%86%E4%BA%8E17%E6%97%A5%E9%80%80%E4%BC%8D%23" target="weibo">
 郑号锡将于17日退伍（热度：48375）
 </a>
@@ -4503,6 +4509,12 @@ J人的购物车早一个月就想好了（热度：42863）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BD%93%E4%BA%8B%E4%BA%BA%E5%9B%9E%E5%BA%94%E9%85%92%E5%90%8E%E9%97%B9%E4%BA%8B%E7%A7%B0%E5%B7%B2%E9%81%93%E6%AD%89%23" target="weibo">
+当事人回应酒后闹事称已道歉（热度：42759）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E8%A5%BF%E5%8F%91%E7%8E%B0%E6%96%B0%E7%89%A9%E7%A7%8D%E9%98%B3%E6%9C%94%E9%A3%8E%E7%AD%9D%E6%9E%9C%23" target="weibo">
 广西发现新物种阳朔风筝果（热度：42454）
 </a>
@@ -4581,18 +4593,6 @@ J人的购物车早一个月就想好了（热度：42863）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%90%AC%E6%B3%89%E9%89%B4%E5%AE%9D%E7%A9%B6%E7%AB%9F%E6%98%AF%E5%89%A7%E6%9C%AC%E8%BF%98%E6%98%AF%E7%9C%9F%E6%9C%89%E5%85%B6%E4%BA%8B%23" target="weibo">
-听泉鉴宝究竟是剧本还是真有其事（热度：36328）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BD%93%E4%BA%8B%E4%BA%BA%E5%9B%9E%E5%BA%94%E9%85%92%E5%90%8E%E9%97%B9%E4%BA%8B%E7%A7%B0%E5%B7%B2%E9%81%93%E6%AD%89%23" target="weibo">
-当事人回应酒后闹事称已道歉（热度：35978）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%8E%E6%AD%A3%E7%AD%BE%E7%BA%A6%E9%99%88%E8%85%BE%E8%B7%83%23" target="weibo">
 于正签约陈腾跃（热度：35924）
 </a>
@@ -4659,6 +4659,12 @@ J人的购物车早一个月就想好了（热度：42863）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%80%AA%E5%A4%8F%E8%8E%B260%E5%B2%81%E4%B9%9F%E6%B4%BB%E5%9C%A8%E7%88%B1%E9%87%8C%23" target="weibo">
+倪夏莲60岁也活在爱里（热度：34242）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B9%B0%E4%B8%9C%E8%A5%BF%E7%9A%84%E6%BB%A1%E8%B6%B3%E6%84%9F%E9%A2%84%E5%94%AE%E7%BB%99%E4%B8%8D%E4%BA%86%23" target="weibo">
 买东西的满足感预售给不了（热度：34222）
 </a>
@@ -4714,7 +4720,7 @@ vivo灭霸再升级（热度：33652）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%86%8D%E6%9B%9D%E5%85%89%E7%BE%8E%E6%94%BF%E5%BA%9C%E4%BC%8F%E7%89%B9%E5%8F%B0%E9%A3%8E%E8%AE%A1%E5%88%92%E7%BB%86%E8%8A%82%23" target="weibo">
-中方再曝光美政府伏特台风计划细节（热度：32303）
+中方再曝光美政府伏特台风计划细节（热度：32894）
 </a>
 </li>
 
@@ -4743,6 +4749,12 @@ vivoX200超级长焦7大行业领先（热度：31111）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%8F%8B%E6%94%BF%E5%9B%9E%E5%BA%94%E5%85%A8%E9%94%A6%E8%B5%9B%E7%94%B7%E5%8D%95%E5%A4%BA%E5%86%A0%23" target="weibo">
+黄友政回应全锦赛男单夺冠（热度：30681）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%B8%AA%E7%9C%9F%E8%99%8E%E4%B8%80%E4%B8%AA%E7%9C%9F%E6%98%AF%E8%99%8E%23" target="weibo">
 一个真虎一个真是虎（热度：29886）
 </a>
@@ -4763,6 +4775,18 @@ vivoX200超级长焦7大行业领先（热度：31111）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A5%9E%E5%8D%81%E5%85%AB%E4%B9%98%E7%BB%84%E7%B2%BE%E5%BF%83%E7%85%A7%E6%96%99%E5%A4%AA%E7%A9%BA%E8%8F%9C%E5%9B%AD%23" target="weibo">
 神十八乘组精心照料太空菜园（热度：29399）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E6%9C%AF%E7%94%9F%E5%B0%B1%E4%B8%9A%E6%96%B0%E6%96%B9%E5%90%91%23" target="weibo">
+美术生就业新方向（热度：29060）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E5%AE%B6%E8%90%A7%E6%95%AC%E8%85%BE%E7%BB%93%E5%A9%9A%E4%BD%A0%E5%9C%A8%E8%BF%99%E5%8F%88%E5%94%B1%E5%8F%88%E8%B7%B3%E7%9A%84%23" target="weibo">
+人家萧敬腾结婚你在这又唱又跳的（热度：28687）
 </a>
 </li>
 
@@ -4827,12 +4851,6 @@ vivoX200超级长焦7大行业领先（热度：31111）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E6%9C%AF%E7%94%9F%E5%B0%B1%E4%B8%9A%E6%96%B0%E6%96%B9%E5%90%91%23" target="weibo">
-美术生就业新方向（热度：24203）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%89%80%E8%B0%93%E7%A4%BE%E5%8C%BA%E7%BB%B4%E4%BF%AE%E6%9C%8D%E5%8A%A1%E4%B8%AD%E5%BF%83%E6%9A%97%E8%97%8F%E9%99%B7%E9%98%B1%23" target="weibo">
 所谓社区维修服务中心暗藏陷阱（热度：24125）
 </a>
@@ -4877,12 +4895,6 @@ vivoX200超级长焦7大行业领先（热度：31111）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23A%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E5%9D%87%E6%B6%A8%E9%80%BE1%25%23" target="weibo">
 A股三大指数均涨逾1%（热度：21934）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%8F%8B%E6%94%BF%E5%9B%9E%E5%BA%94%E5%85%A8%E9%94%A6%E8%B5%9B%E7%94%B7%E5%8D%95%E5%A4%BA%E5%86%A0%23" target="weibo">
-黄友政回应全锦赛男单夺冠（热度：21887）
 </a>
 </li>
 

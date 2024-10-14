@@ -1,6 +1,6 @@
 {
   "startTime": 1728923247369,
-  "endTime": 1728944555222,
+  "endTime": 1728945606190,
   "band_list": [
     {
       "raw_hot": 1644797,
@@ -123,6 +123,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 290539,
+      "num": 84606,
+      "word": "老师校内交通肇事致女童身亡",
+      "onboard_time": 1728925515,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 240573,
+      "num": 477398,
+      "word": "千万主播学历造假频繁发生",
+      "onboard_time": 1728927794,
+      "rank": 4,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 239740,
       "num": 213107,
       "word": "为什么建议学会腹式呼吸",
@@ -145,6 +161,22 @@
       "onboard_time": 1728921139,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 212700,
+      "num": 359085,
+      "word": "22个纸箱装钱压得车上不了地库斜坡",
+      "onboard_time": 1728920960,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 211860,
+      "num": 81542,
+      "word": "作协主席被曝酒后闹事辱骂酒店前台",
+      "onboard_time": 1728940391,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 208662,
@@ -171,28 +203,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 187139,
-      "num": 72742,
-      "word": "老师校内交通肇事致女童身亡",
-      "onboard_time": 1728925515,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 182956,
       "num": 182956,
       "word": "胖东来拒绝网红直播是以顾客为本",
       "onboard_time": 1728925814,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 176237,
-      "num": 378267,
-      "word": "千万主播学历造假频繁发生",
-      "onboard_time": 1728927794,
-      "rank": 4,
-      "category": "社会议题"
     },
     {
       "raw_hot": 173477,
@@ -209,14 +225,6 @@
       "onboard_time": 1728913882,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 150373,
-      "num": 359085,
-      "word": "22个纸箱装钱压得车上不了地库斜坡",
-      "onboard_time": 1728920960,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 144737,
@@ -451,14 +459,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 53528,
-      "num": 53528,
-      "word": "作协主席被曝酒后闹事辱骂酒店前台",
-      "onboard_time": 1728940391,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 51355,
       "num": 220789,
       "word": "买上百万元处方药竟从未出示处方",
@@ -475,12 +475,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 48602,
+      "num": 51482,
+      "word": "听泉鉴宝究竟是剧本还是真有其事",
+      "onboard_time": 1728936791,
+      "rank": 47,
+      "category": "网红"
+    },
+    {
       "raw_hot": 45569,
       "num": 51180,
       "word": "蓦然回首",
       "onboard_time": 1728922339,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 42759,
+      "num": 42759,
+      "word": "当事人回应酒后闹事称已道歉",
+      "onboard_time": 1728941351,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 37752,
@@ -491,28 +507,20 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 36328,
-      "num": 37814,
-      "word": "听泉鉴宝究竟是剧本还是真有其事",
-      "onboard_time": 1728936791,
-      "rank": 47,
-      "category": "网红"
-    },
-    {
-      "raw_hot": 35978,
-      "num": 35978,
-      "word": "当事人回应酒后闹事称已道歉",
-      "onboard_time": 1728941351,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 34918,
       "num": 39199,
       "word": "郑秀妍郑秀晶新闻图",
       "onboard_time": 1728927253,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 34242,
+      "num": 37059,
+      "word": "倪夏莲60岁也活在爱里",
+      "onboard_time": 1728943934,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 33179,
@@ -523,8 +531,8 @@
       "category": "网红"
     },
     {
-      "raw_hot": 32303,
-      "num": 36547,
+      "raw_hot": 32894,
+      "num": 51379,
       "word": "中方再曝光美政府伏特台风计划细节",
       "onboard_time": 1728938591,
       "rank": 29,
@@ -537,6 +545,14 @@
       "onboard_time": 1728934751,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 30681,
+      "num": 37049,
+      "word": "黄友政回应全锦赛男单夺冠",
+      "onboard_time": 1728943633,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 29885,
@@ -555,6 +571,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 29060,
+      "num": 37041,
+      "word": "美术生就业新方向",
+      "onboard_time": 1728934631,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 28687,
+      "num": 37037,
+      "word": "人家萧敬腾结婚你在这又唱又跳的",
+      "onboard_time": 1728944892,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 27449,
       "num": 28619,
       "word": "刀郎演唱会",
@@ -569,22 +601,6 @@
       "onboard_time": 1728930972,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 24203,
-      "num": 29687,
-      "word": "美术生就业新方向",
-      "onboard_time": 1728934631,
-      "rank": 40,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 21887,
-      "num": 29686,
-      "word": "黄友政回应全锦赛男单夺冠",
-      "onboard_time": 1728943633,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 21475,
