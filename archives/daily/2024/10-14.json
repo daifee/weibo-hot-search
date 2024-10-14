@@ -1,6 +1,6 @@
 {
   "startTime": 1728836764624,
-  "endTime": 1728910783379,
+  "endTime": 1728912638044,
   "band_list": [
     {
       "raw_hot": 3312537,
@@ -49,6 +49,14 @@
       "onboard_time": 1728879139,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 2258652,
+      "num": 317883,
+      "word": "王一珩 抄袭",
+      "onboard_time": 1728910641,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 2121257,
@@ -339,6 +347,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 904925,
+      "num": 904925,
+      "word": "张馨予回应我想我会一直孤单",
+      "onboard_time": 1728909199,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 898165,
       "num": 898165,
       "word": "教育局称女童被泼开水系恶作剧",
@@ -441,14 +457,6 @@
       "onboard_time": 1728873438,
       "rank": 21,
       "category": "互联网,社会新闻"
-    },
-    {
-      "raw_hot": 814607,
-      "num": 814607,
-      "word": "张馨予回应我想我会一直孤单",
-      "onboard_time": 1728909199,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 803965,
@@ -787,6 +795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 395462,
+      "num": 313573,
+      "word": "国防部警示台独分子",
+      "onboard_time": 1728909799,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 392321,
       "num": 392321,
       "word": "炒股4天亏32万程序员回应",
@@ -995,20 +1011,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 320293,
+      "num": 287934,
+      "word": "vivoX200价格",
+      "onboard_time": 1728911242,
+      "rank": 21,
+      "category": "数码"
+    },
+    {
       "raw_hot": 317715,
       "num": 317715,
       "word": "王者周年庆送传说皮肤",
       "onboard_time": 1728884301,
       "rank": 31,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 313573,
-      "num": 313573,
-      "word": "国防部警示台独分子",
-      "onboard_time": 1728909799,
-      "rank": 30,
-      "category": "国内时政"
     },
     {
       "raw_hot": 310458,
@@ -1203,6 +1219,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 265898,
+      "num": 265898,
+      "word": "vivoX200",
+      "onboard_time": 1728907879,
+      "rank": 38,
+      "category": "数码"
+    },
+    {
       "raw_hot": 265324,
       "num": 265324,
       "word": "药水哥健身比赛第三名",
@@ -1259,6 +1283,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 253622,
+      "num": 456569,
+      "word": "警方回应成都一河道疑发现浮尸",
+      "onboard_time": 1728908178,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 252176,
       "num": 569460,
       "word": "赵牧辰到底喜欢谁",
@@ -1283,6 +1315,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 246417,
+      "num": 296888,
+      "word": "李维嘉曾说何炅的缺点是爱夸赞食物",
+      "onboard_time": 1728912081,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 245254,
       "num": 245254,
       "word": "奎八 珉佑",
@@ -1297,14 +1337,6 @@
       "onboard_time": 1728893718,
       "rank": 39,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 239562,
-      "num": 239562,
-      "word": "vivoX200",
-      "onboard_time": 1728907879,
-      "rank": 38,
-      "category": "数码"
     },
     {
       "raw_hot": 238711,
@@ -1323,6 +1355,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 230640,
+      "num": 1036902,
+      "word": "敦促美方立即停止全球范围内网络攻击",
+      "onboard_time": 1728898700,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 230247,
+      "num": 230247,
+      "word": "72岁李银河称从未后悔选择丁克",
+      "onboard_time": 1728908478,
+      "rank": 47,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 230113,
       "num": 515517,
       "word": "演习全面检验战区一体化联合作战能力",
@@ -1337,14 +1385,6 @@
       "onboard_time": 1728831683,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 227911,
-      "num": 227911,
-      "word": "王一珩 抄袭",
-      "onboard_time": 1728910641,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 224120,
@@ -1467,14 +1507,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 207582,
-      "num": 1033213,
-      "word": "敦促美方立即停止全球范围内网络攻击",
-      "onboard_time": 1728898700,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 207153,
       "num": 207153,
       "word": "2025国考12月1日笔试",
@@ -1587,20 +1619,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 200402,
+      "num": 200402,
+      "word": "韩国一特斯拉起火司机困后座被烧死",
+      "onboard_time": 1728907758,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 199295,
       "num": 578023,
       "word": "SEVENTEEN回归",
       "onboard_time": 1728875840,
       "rank": 19,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 198755,
-      "num": 198755,
-      "word": "72岁李银河称从未后悔选择丁克",
-      "onboard_time": 1728908478,
-      "rank": 47,
-      "category": "读书作家"
     },
     {
       "raw_hot": 197983,
@@ -1617,14 +1649,6 @@
       "onboard_time": 1728880641,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 196511,
-      "num": 196511,
-      "word": "韩国一特斯拉起火司机困后座被烧死",
-      "onboard_time": 1728907758,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 195651,
@@ -1763,12 +1787,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 177942,
+      "num": 177942,
+      "word": "叶诗文骨折",
+      "onboard_time": 1728911950,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 177464,
       "num": 575792,
       "word": "战机视角超近距离看宝岛",
       "onboard_time": 1728904938,
       "rank": 12,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 176933,
+      "num": 176933,
+      "word": "小鹏P7+预售价20.98万起",
+      "onboard_time": 1728912261,
+      "rank": 42,
+      "category": "汽车"
     },
     {
       "raw_hot": 176462,
@@ -1809,14 +1849,6 @@
       "onboard_time": 1728888259,
       "rank": 49,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 168024,
-      "num": 456569,
-      "word": "警方回应成都一河道疑发现浮尸",
-      "onboard_time": 1728908178,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 168023,
@@ -1929,6 +1961,14 @@
       "onboard_time": 1728885679,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 151609,
+      "num": 151609,
+      "word": "罗森 恋与深空",
+      "onboard_time": 1728911901,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 151598,
@@ -2147,6 +2187,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 103158,
+      "num": 323947,
+      "word": "大熊猫彻夜待树上思考熊生",
+      "onboard_time": 1728911660,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 101876,
       "num": 101876,
       "word": "BLG晋级S14八强",
@@ -2177,6 +2225,14 @@
       "onboard_time": 1728886218,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 91140,
+      "num": 163950,
+      "word": "巩俐59岁状态",
+      "onboard_time": 1728911301,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 88394,
@@ -2299,6 +2355,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 63529,
+      "num": 425154,
+      "word": "天猫人均万元消费券今日发放",
+      "onboard_time": 1728908178,
+      "rank": 20,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 62194,
       "num": 62194,
       "word": "郑钦文身体欠佳已尽全力",
@@ -2312,6 +2376,14 @@
       "word": "老人花80万积蓄买理财无法兑付",
       "onboard_time": 1728893180,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 57307,
+      "num": 268765,
+      "word": "双11首金人",
+      "onboard_time": 1728911841,
+      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -2348,7 +2420,7 @@
     },
     {
       "raw_hot": 50382,
-      "num": 884691,
+      "num": 925532,
       "word": "多条高铁线将于年底前开通运营",
       "onboard_time": 1728893478,
       "rank": 2,
@@ -2393,14 +2465,6 @@
       "onboard_time": 1728874278,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 48327,
-      "num": 425154,
-      "word": "天猫人均万元消费券今日发放",
-      "onboard_time": 1728908178,
-      "rank": 20,
-      "category": "互联网"
     },
     {
       "raw_hot": 47920,
@@ -2459,6 +2523,14 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 43184,
+      "num": 467788,
+      "word": "国产手机电池技术有多领先",
+      "onboard_time": 1728907939,
+      "rank": 15,
+      "category": "数码"
+    },
+    {
       "raw_hot": 42964,
       "num": 162043,
       "word": "瑞士300块的理发什么样",
@@ -2505,14 +2577,6 @@
       "onboard_time": 1728893658,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 39209,
-      "num": 467788,
-      "word": "国产手机电池技术有多领先",
-      "onboard_time": 1728907939,
-      "rank": 15,
-      "category": "数码"
     },
     {
       "raw_hot": 38471,
@@ -2641,6 +2705,14 @@
       "onboard_time": 1728854591,
       "rank": 19,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 29242,
+      "num": 319475,
+      "word": "给你发裸照的女主播可能是抠脚大汉",
+      "onboard_time": 1728912500,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 26760,
@@ -2777,6 +2849,14 @@
       "onboard_time": 1728825621,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 8858,
+      "num": 306083,
+      "word": "女子遭丈夫家暴后死亡案将开庭",
+      "onboard_time": 1728912500,
+      "rank": 14,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
@@ -2788,6 +2868,9 @@
     },
     {
       "word": "#中国的现代化之路既发展自身又造福世界#"
+    },
+    {
+      "word": "#习近平同印度尼西亚总统佐科通电话#"
     }
   ]
 }
