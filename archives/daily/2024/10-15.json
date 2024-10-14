@@ -1,6 +1,6 @@
 {
   "startTime": 1728923247369,
-  "endTime": 1728931415028,
+  "endTime": 1728933481790,
   "band_list": [
     {
       "raw_hot": 1644797,
@@ -203,20 +203,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 144951,
+      "num": 144951,
+      "word": "千万主播学历造假频繁发生",
+      "onboard_time": 1728927794,
+      "rank": 4,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 144737,
       "num": 144737,
       "word": "颜如晶半年瘦了50斤",
       "onboard_time": 1728897680,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 138241,
-      "num": 138241,
-      "word": "千万主播学历造假频繁发生",
-      "onboard_time": 1728927794,
-      "rank": 4,
-      "category": "社会议题"
     },
     {
       "raw_hot": 137555,
@@ -515,20 +515,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 21475,
+      "num": 44870,
+      "word": "海军版山河图变装太燃了",
+      "onboard_time": 1728930731,
+      "rank": 24,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 16547,
+      "num": 37072,
+      "word": "朝称美国应为无人机渗透至平壤负责",
+      "onboard_time": 1728932772,
+      "rank": 19,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 15618,
       "num": 49990,
       "word": "深圳再现日光盘均价7.6万每平",
       "onboard_time": 1728930613,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 15278,
-      "num": 44870,
-      "word": "海军版山河图变装太燃了",
-      "onboard_time": 1728930731,
-      "rank": 24,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 14118,
