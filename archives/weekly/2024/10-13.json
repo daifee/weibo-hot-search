@@ -1,6 +1,6 @@
 {
   "startTime": 1728750414717,
-  "endTime": 1728871363904,
+  "endTime": 1728874625190,
   "band_list": [
     {
       "raw_hot": 17915004,
@@ -147,7 +147,7 @@
       "category": "社会新闻,国外时政"
     },
     {
-      "raw_hot": 1625501,
+      "raw_hot": 1634687,
       "num": 1625501,
       "word": "台湾自古就是中国领土",
       "onboard_time": 1728868877,
@@ -169,6 +169,14 @@
       "onboard_time": 1728802939,
       "rank": 10,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1495573,
+      "num": 1133814,
+      "word": "为什么要进行联合利剑2024B演习",
+      "onboard_time": 1728870079,
+      "rank": 19,
+      "category": "国内时政"
     },
     {
       "raw_hot": 1465536,
@@ -195,19 +203,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1416433,
+      "num": 1073680,
+      "word": "国考公告",
+      "onboard_time": 1728871758,
+      "rank": 6,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 1393667,
+      "num": 1317141,
+      "word": "台独是死路一条",
+      "onboard_time": 1728863899,
+      "rank": 6,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1385335,
       "num": 1385335,
       "word": "祖国必须统一也必然统一",
       "onboard_time": 1728863899,
       "rank": 4,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 1317141,
-      "num": 1317141,
-      "word": "台独是死路一条",
-      "onboard_time": 1728863899,
-      "rank": 6,
       "category": "国内时政"
     },
     {
@@ -387,6 +403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 934652,
+      "num": 1066456,
+      "word": "K总停播",
+      "onboard_time": 1728871878,
+      "rank": 7,
+      "category": "网红"
+    },
+    {
       "raw_hot": 932306,
       "num": 291394,
       "word": "难听",
@@ -396,7 +420,7 @@
     },
     {
       "raw_hot": 917089,
-      "num": 917089,
+      "num": 1022623,
       "word": "听泉鉴宝喊话别再神话我了",
       "onboard_time": 1728834501,
       "rank": 3,
@@ -457,6 +481,14 @@
       "onboard_time": 1728827243,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 837408,
+      "num": 837408,
+      "word": "药水哥近况",
+      "onboard_time": 1728870500,
+      "rank": 28,
+      "category": "电竞"
     },
     {
       "raw_hot": 827093,
@@ -707,6 +739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 587398,
+      "num": 1204797,
+      "word": "美国一网络恶意武器被中国曝光",
+      "onboard_time": 1728872598,
+      "rank": 0,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 576928,
       "num": 576928,
       "word": "32岁网红下播后突发脑出血进ICU",
@@ -809,6 +849,14 @@
       "onboard_time": 1728810439,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 523808,
+      "num": 523808,
+      "word": "赖清德要做好四面楚歌自取灭亡的准备",
+      "onboard_time": 1728870018,
+      "rank": 41,
+      "category": "国内时政"
     },
     {
       "raw_hot": 516039,
@@ -923,6 +971,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 448735,
+      "num": 448735,
+      "word": "司马南在胖东来直播被劝离",
+      "onboard_time": 1728873438,
+      "rank": 21,
+      "category": "互联网,社会新闻"
+    },
+    {
       "raw_hot": 448567,
       "num": 898619,
       "word": "李沐宸谈自愿从长剧转短剧",
@@ -1027,6 +1083,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 386296,
+      "num": 386296,
+      "word": "中国掌握了美政府黑客嫁祸他国的证据",
+      "onboard_time": 1728873559,
+      "rank": 23,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 384388,
       "num": 384388,
       "word": "迪丽热巴美得像洋娃娃",
@@ -1067,12 +1131,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 366581,
-      "num": 502389,
-      "word": "为什么要进行联合利剑2024B演习",
-      "onboard_time": 1728870079,
-      "rank": 19,
+      "raw_hot": 367458,
+      "num": 367458,
+      "word": "三次台岛周边军演示意图对比",
+      "onboard_time": 1728873737,
+      "rank": 24,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 363838,
+      "num": 363838,
+      "word": "东北雨姐为何注册20多家公司",
+      "onboard_time": 1728873559,
+      "rank": 25,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 354763,
@@ -1147,12 +1219,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 337310,
+      "num": 535101,
+      "word": "任敏 我的互联网新妹宝",
+      "onboard_time": 1728869838,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 326318,
       "num": 326318,
       "word": "吴镇宇晒费曼王嘉尔合照",
       "onboard_time": 1728831743,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 323079,
+      "num": 1012733,
+      "word": "联合利剑2024B演习",
+      "onboard_time": 1728873618,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 320496,
@@ -1211,14 +1299,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 296734,
-      "num": 296734,
-      "word": "药水哥近况",
-      "onboard_time": 1728870500,
-      "rank": 28,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 295397,
       "num": 295397,
       "word": "小伙炒股亏32万元后要通过学习扭亏为盈",
@@ -1249,6 +1329,22 @@
       "onboard_time": 1728831083,
       "rank": 35,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 292372,
+      "num": 292372,
+      "word": "剑网3",
+      "onboard_time": 1728871999,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 291903,
+      "num": 291903,
+      "word": "王者荣耀共创之夜",
+      "onboard_time": 1728873199,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 289674,
@@ -1321,14 +1417,6 @@
       "onboard_time": 1728799939,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 272735,
-      "num": 272735,
-      "word": "赖清德要做好四面楚歌自取灭亡的准备",
-      "onboard_time": 1728870018,
-      "rank": 41,
-      "category": "国内时政"
     },
     {
       "raw_hot": 272599,
@@ -1419,6 +1507,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 254830,
+      "num": 254830,
+      "word": "世界上只有一个中国",
+      "onboard_time": 1728873438,
+      "rank": 33,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 254685,
       "num": 440198,
       "word": "陈都灵丞磊生图",
@@ -1433,6 +1529,14 @@
       "onboard_time": 1728800779,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 249525,
+      "num": 249525,
+      "word": "这个周一给我一种无力感",
+      "onboard_time": 1728872058,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 249362,
@@ -1699,14 +1803,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 209936,
-      "num": 535101,
-      "word": "任敏 我的互联网新妹宝",
-      "onboard_time": 1728869838,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 209616,
       "num": 209616,
       "word": "极氪副总裁晒车内吃火锅视频",
@@ -1723,12 +1819,28 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 207153,
+      "num": 207153,
+      "word": "2025国考12月1日笔试",
+      "onboard_time": 1728873677,
+      "rank": 40,
+      "category": "教育"
+    },
+    {
       "raw_hot": 206834,
       "num": 206834,
       "word": "LPL全员晋级S14八强",
       "onboard_time": 1728842532,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 206632,
+      "num": 206632,
+      "word": "剑网3西塞套",
+      "onboard_time": 1728872418,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 206124,
@@ -1921,6 +2033,14 @@
       "onboard_time": 1728793099,
       "rank": 26,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 195403,
+      "num": 302087,
+      "word": "春花焰今日开播",
+      "onboard_time": 1728873499,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 195383,
@@ -2713,6 +2833,14 @@
       "onboard_time": 1728742703,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 141338,
+      "num": 141338,
+      "word": "wbg教练 响彻后台",
+      "onboard_time": 1728874398,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 141039,
@@ -3817,6 +3945,14 @@
       "onboard_time": 1728790098,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 41003,
+      "num": 514264,
+      "word": "郑号锡将于17日退伍",
+      "onboard_time": 1728874278,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 37489,
