@@ -1,0 +1,410 @@
+{
+  "runTime": 1728910783379,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 207582,
+        "num": 1033213,
+        "word": "敦促美方立即停止全球范围内网络攻击",
+        "onboard_time": 1728898700,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1766881,
+        "num": 960337,
+        "word": "台湾当归",
+        "onboard_time": 1728905958,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 32083,
+        "num": 884691,
+        "word": "多条高铁线将于年底前开通运营",
+        "onboard_time": 1728893478,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 882228,
+        "num": 882228,
+        "word": "疾控部门回应广东蟑螂已进化",
+        "onboard_time": 1728907638,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 814607,
+        "num": 814607,
+        "word": "张馨予回应我想我会一直孤单",
+        "onboard_time": 1728909199,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 541503,
+        "num": 541503,
+        "word": "解放军破晓出击现场画面",
+        "onboard_time": 1728885559,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 531331,
+        "num": 531331,
+        "word": "淮南牛肉汤",
+        "onboard_time": 1728904878,
+        "rank": 6,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 378687,
+        "num": 526868,
+        "word": "孙燕姿官宣演唱会",
+        "onboard_time": 1728902239,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 151235,
+        "num": 518251,
+        "word": "vivoX200系列发布会",
+        "onboard_time": 1728906979,
+        "rank": 8,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 230113,
+        "num": 515517,
+        "word": "演习全面检验战区一体化联合作战能力",
+        "onboard_time": 1728904220,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1144211,
+        "num": 508594,
+        "word": "首次将封锁台湾摆在台面",
+        "onboard_time": 1728894379,
+        "rank": 10,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1129910,
+        "num": 501261,
+        "word": "杜华 你不火还怪我又不是我不火",
+        "onboard_time": 1728904878,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 40630,
+        "num": 493520,
+        "word": "vivo拍下的山河辽阔烟火寻常",
+        "onboard_time": 1728909199,
+        "rank": 12,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 629279,
+        "num": 481043,
+        "word": "预制孕照",
+        "onboard_time": 1728904999,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 480066,
+        "num": 480066,
+        "word": "朝鲜射击指示",
+        "onboard_time": 1728895170,
+        "rank": 14,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 39209,
+        "num": 467788,
+        "word": "国产手机电池技术有多领先",
+        "onboard_time": 1728907939,
+        "rank": 15,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 458226,
+        "num": 458226,
+        "word": "台独挑衅一日不止大陆反制就一刻不停",
+        "onboard_time": 1728906858,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 403589,
+        "num": 403589,
+        "word": "吴邦国同志生平",
+        "onboard_time": 1728895170,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 367688,
+        "num": 367688,
+        "word": "解放军3次围岛行动示意图对比",
+        "onboard_time": 1728879139,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 330334,
+        "num": 366220,
+        "word": "成何体统 丞磊王楚然",
+        "onboard_time": 1728909019,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 48327,
+        "num": 366136,
+        "word": "天猫人均万元消费券今日发放",
+        "onboard_time": 1728908178,
+        "rank": 20,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 562622,
+        "num": 366134,
+        "word": "颜如晶半年瘦了50斤",
+        "onboard_time": 1728897680,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 366121,
+        "num": 366121,
+        "word": "多批多架轰6K挂实弹飞赴预定空域",
+        "onboard_time": 1728903260,
+        "rank": 22,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 365175,
+        "num": 365175,
+        "word": "台湾自古就是中国领土",
+        "onboard_time": 1728868877,
+        "rank": 23,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 337828,
+        "num": 337828,
+        "word": "黄友政全锦赛男单冠军",
+        "onboard_time": 1728909559,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 323201,
+        "num": 323201,
+        "word": "郑秀妍郑秀晶黄礼志申有娜新闻图",
+        "onboard_time": 1728903438,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 313859,
+        "num": 313859,
+        "word": "王大伟受贿5.55亿元被判死缓",
+        "onboard_time": 1728898938,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224120,
+        "num": 313628,
+        "word": "李佳琦直播",
+        "onboard_time": 1728910398,
+        "rank": 27,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 37429,
+        "num": 313576,
+        "word": "vivo走出国产芯片技术第三条路",
+        "onboard_time": 1728909199,
+        "rank": 28,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 200843,
+        "num": 313574,
+        "word": "七夜雪全员跳初雪",
+        "onboard_time": 1728904579,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 313573,
+        "num": 313573,
+        "word": "国防部警示台独分子",
+        "onboard_time": 1728909799,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 303978,
+        "num": 303978,
+        "word": "解放军视角超近距离看台湾",
+        "onboard_time": 1728899658,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 300552,
+        "num": 300552,
+        "word": "联合利剑2024B圆满完成",
+        "onboard_time": 1728906858,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 168024,
+        "num": 275229,
+        "word": "警方回应成都一河道疑发现浮尸",
+        "onboard_time": 1728908178,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 266554,
+        "num": 266554,
+        "word": "云南阿奎离世前直播称实在熬不住了",
+        "onboard_time": 1728900378,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257766,
+        "num": 257766,
+        "word": "国产短剧已经疯了",
+        "onboard_time": 1728892219,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 247646,
+        "num": 247646,
+        "word": "孕妇喝冰箱剩牛奶感染李斯特菌胎死腹中",
+        "onboard_time": 1728889518,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 35915,
+        "num": 241053,
+        "word": "首部安兔兔跑分破300万的手机",
+        "onboard_time": 1728909199,
+        "rank": 37,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 239029,
+        "num": 239029,
+        "word": "赵牧辰刘雨璠断崖式be",
+        "onboard_time": 1728904159,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 235490,
+        "num": 235490,
+        "word": "vivoX200",
+        "onboard_time": 1728907879,
+        "rank": 39,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 227911,
+        "num": 227911,
+        "word": "王一珩 抄袭",
+        "onboard_time": 1728910641,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198755,
+        "num": 198755,
+        "word": "72岁李银河称从未后悔选择丁克",
+        "onboard_time": 1728908478,
+        "rank": 41,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 196391,
+        "num": 196391,
+        "word": "四川一中学发生学生死亡事件",
+        "onboard_time": 1728904819,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195651,
+        "num": 195651,
+        "word": "微博会员50一年",
+        "onboard_time": 1728909919,
+        "rank": 43,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 185278,
+        "num": 185278,
+        "word": "黄友政4比0敖华磊",
+        "onboard_time": 1728909680,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 172322,
+        "num": 172322,
+        "word": "炒股4天亏32万程序员回应",
+        "onboard_time": 1728902300,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171232,
+        "num": 171232,
+        "word": "王楚钦时尚COSMO11月刊大片",
+        "onboard_time": 1728890538,
+        "rank": 46,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 163554,
+        "num": 163554,
+        "word": "韩国朝鲜",
+        "onboard_time": 1728866479,
+        "rank": 47,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 163386,
+        "num": 163386,
+        "word": "西安一轿车失控撞上公交站台",
+        "onboard_time": 1728897559,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163101,
+        "num": 163101,
+        "word": "韩国一特斯拉起火司机困后座被烧死",
+        "onboard_time": 1728907758,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国的现代化之路既发展自身又造福世界#"
+    }
+  }
+}

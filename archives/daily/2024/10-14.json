@@ -1,6 +1,6 @@
 {
   "startTime": 1728836764624,
-  "endTime": 1728909795746,
+  "endTime": 1728910783379,
   "band_list": [
     {
       "raw_hot": 3312537,
@@ -91,20 +91,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1766881,
+      "num": 1028866,
+      "word": "台湾当归",
+      "onboard_time": 1728905958,
+      "rank": 1,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1692193,
       "num": 1051325,
       "word": "国产短剧已经疯了",
       "onboard_time": 1728892219,
       "rank": 1,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1662646,
-      "num": 1028866,
-      "word": "台湾当归",
-      "onboard_time": 1728905958,
-      "rank": 1,
-      "category": "国内时政"
     },
     {
       "raw_hot": 1634687,
@@ -363,6 +363,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 882228,
+      "num": 882228,
+      "word": "疾控部门回应广东蟑螂已进化",
+      "onboard_time": 1728907638,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 880426,
       "num": 742335,
       "word": "黄子韬徐艺洋秀恩爱vlog",
@@ -435,6 +443,14 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 814607,
+      "num": 814607,
+      "word": "张馨予回应我想我会一直孤单",
+      "onboard_time": 1728909199,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 803965,
       "num": 1053879,
       "word": "美国水蝮蛇窃密设备伪装成USB键盘",
@@ -444,7 +460,7 @@
     },
     {
       "raw_hot": 775712,
-      "num": 457775,
+      "num": 481043,
       "word": "预制孕照",
       "onboard_time": 1728904999,
       "rank": 26,
@@ -643,14 +659,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 468781,
-      "num": 468781,
-      "word": "疾控部门回应广东蟑螂已进化",
-      "onboard_time": 1728907638,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 465849,
       "num": 465849,
       "word": "小伙捡到疑似手雷赶紧上交",
@@ -681,6 +689,14 @@
       "onboard_time": 1728819621,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 458226,
+      "num": 458226,
+      "word": "台独挑衅一日不止大陆反制就一刻不停",
+      "onboard_time": 1728906858,
+      "rank": 28,
+      "category": "国内时政"
     },
     {
       "raw_hot": 448567,
@@ -811,14 +827,6 @@
       "category": "汽车,体育"
     },
     {
-      "raw_hot": 365015,
-      "num": 365015,
-      "word": "台独挑衅一日不止大陆反制就一刻不停",
-      "onboard_time": 1728906858,
-      "rank": 28,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 364130,
       "num": 364130,
       "word": "村主任故意撞人致死死者女儿发声",
@@ -899,6 +907,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 337828,
+      "num": 337828,
+      "word": "黄友政全锦赛男单冠军",
+      "onboard_time": 1728909559,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 337310,
       "num": 535101,
       "word": "任敏 我的互联网新妹宝",
@@ -929,6 +945,14 @@
       "onboard_time": 1728880401,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 330334,
+      "num": 442587,
+      "word": "成何体统 丞磊王楚然",
+      "onboard_time": 1728909019,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 329864,
@@ -977,6 +1001,14 @@
       "onboard_time": 1728884301,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 313573,
+      "num": 313573,
+      "word": "国防部警示台独分子",
+      "onboard_time": 1728909799,
+      "rank": 30,
+      "category": "国内时政"
     },
     {
       "raw_hot": 310458,
@@ -1291,12 +1323,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 230113,
+      "num": 515517,
+      "word": "演习全面检验战区一体化联合作战能力",
+      "onboard_time": 1728904220,
+      "rank": 37,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 228780,
       "num": 491423,
       "word": "徐艺真上综艺",
       "onboard_time": 1728831683,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 227911,
+      "num": 227911,
+      "word": "王一珩 抄袭",
+      "onboard_time": 1728910641,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 224120,
+      "num": 313628,
+      "word": "李佳琦直播",
+      "onboard_time": 1728910398,
+      "rank": 27,
+      "category": "网红"
     },
     {
       "raw_hot": 223984,
@@ -1320,14 +1376,6 @@
       "word": "东部战区组织要港封控等科目演练",
       "onboard_time": 1728891198,
       "rank": 43,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 219784,
-      "num": 401475,
-      "word": "演习全面检验战区一体化联合作战能力",
-      "onboard_time": 1728904220,
-      "rank": 37,
       "category": "国内时政"
     },
     {
@@ -1419,6 +1467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 207582,
+      "num": 1033213,
+      "word": "敦促美方立即停止全球范围内网络攻击",
+      "onboard_time": 1728898700,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 207153,
       "num": 207153,
       "word": "2025国考12月1日笔试",
@@ -1475,28 +1531,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 205881,
-      "num": 1032941,
-      "word": "敦促美方立即停止全球范围内网络攻击",
-      "onboard_time": 1728898700,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 204523,
       "num": 204523,
       "word": "SpaceX首次回收星舰成功",
       "onboard_time": 1728824423,
       "rank": 31,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 204093,
-      "num": 442587,
-      "word": "成何体统 丞磊王楚然",
-      "onboard_time": 1728909019,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 204081,
@@ -1555,6 +1595,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 198755,
+      "num": 198755,
+      "word": "72岁李银河称从未后悔选择丁克",
+      "onboard_time": 1728908478,
+      "rank": 47,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 197983,
       "num": 197983,
       "word": "女高中生高强度学习的一天",
@@ -1579,6 +1627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 195651,
+      "num": 195651,
+      "word": "微博会员50一年",
+      "onboard_time": 1728909919,
+      "rank": 43,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 195403,
       "num": 302087,
       "word": "春花焰今日开播",
@@ -1601,14 +1657,6 @@
       "onboard_time": 1728888739,
       "rank": 45,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 193052,
-      "num": 193052,
-      "word": "黄友政全锦赛男单冠军",
-      "onboard_time": 1728909559,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 192678,
@@ -1657,6 +1705,14 @@
       "onboard_time": 1728831083,
       "rank": 32,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 185278,
+      "num": 185278,
+      "word": "黄友政4比0敖华磊",
+      "onboard_time": 1728909680,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 184465,
@@ -1739,14 +1795,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 171018,
-      "num": 171018,
-      "word": "黄友政4比0敖华磊",
-      "onboard_time": 1728909680,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 169938,
       "num": 169938,
       "word": "王者周年庆套系皮肤是他们",
@@ -1761,6 +1809,14 @@
       "onboard_time": 1728888259,
       "rank": 49,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 168024,
+      "num": 456569,
+      "word": "警方回应成都一河道疑发现浮尸",
+      "onboard_time": 1728908178,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 168023,
@@ -1793,14 +1849,6 @@
       "onboard_time": 1728820400,
       "rank": 36,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 164475,
-      "num": 164475,
-      "word": "72岁李银河称从未后悔选择丁克",
-      "onboard_time": 1728908478,
-      "rank": 47,
-      "category": "读书作家"
     },
     {
       "raw_hot": 163844,
@@ -1891,6 +1939,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 151235,
+      "num": 518251,
+      "word": "vivoX200系列发布会",
+      "onboard_time": 1728906979,
+      "rank": 8,
+      "category": "数码"
+    },
+    {
       "raw_hot": 150051,
       "num": 150051,
       "word": "年轻人开始抛弃优衣库",
@@ -1923,14 +1979,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 147759,
-      "num": 456569,
-      "word": "警方回应成都一河道疑发现浮尸",
-      "onboard_time": 1728908178,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 146686,
       "num": 443666,
       "word": "2名大学生帮站票宝妈抱娃一整夜",
@@ -1953,14 +2001,6 @@
       "onboard_time": 1728874398,
       "rank": 48,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 140679,
-      "num": 466404,
-      "word": "vivoX200系列发布会",
-      "onboard_time": 1728906979,
-      "rank": 8,
-      "category": "数码"
     },
     {
       "raw_hot": 140388,
@@ -2275,14 +2315,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 56544,
-      "num": 446267,
-      "word": "张馨予回应我想我会一直孤单",
-      "onboard_time": 1728909199,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 55325,
       "num": 1615443,
       "word": "这个500多亿的大项目背后有深意",
@@ -2316,7 +2348,7 @@
     },
     {
       "raw_hot": 50382,
-      "num": 866911,
+      "num": 884691,
       "word": "多条高铁线将于年底前开通运营",
       "onboard_time": 1728893478,
       "rank": 2,
@@ -2332,7 +2364,7 @@
     },
     {
       "raw_hot": 50017,
-      "num": 368159,
+      "num": 493520,
       "word": "vivo拍下的山河辽阔烟火寻常",
       "onboard_time": 1728909199,
       "rank": 27,
@@ -2361,6 +2393,14 @@
       "onboard_time": 1728874278,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 48327,
+      "num": 425154,
+      "word": "天猫人均万元消费券今日发放",
+      "onboard_time": 1728908178,
+      "rank": 20,
+      "category": "互联网"
     },
     {
       "raw_hot": 47920,
@@ -2409,14 +2449,6 @@
       "onboard_time": 1728900500,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 43410,
-      "num": 425154,
-      "word": "天猫人均万元消费券今日发放",
-      "onboard_time": 1728908178,
-      "rank": 20,
-      "category": "互联网"
     },
     {
       "raw_hot": 43201,
@@ -2473,6 +2505,14 @@
       "onboard_time": 1728893658,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 39209,
+      "num": 467788,
+      "word": "国产手机电池技术有多领先",
+      "onboard_time": 1728907939,
+      "rank": 15,
+      "category": "数码"
     },
     {
       "raw_hot": 38471,
@@ -2585,14 +2625,6 @@
       "onboard_time": 1728853871,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 32263,
-      "num": 450840,
-      "word": "国产手机电池技术有多领先",
-      "onboard_time": 1728907939,
-      "rank": 15,
-      "category": "数码"
     },
     {
       "raw_hot": 30725,
