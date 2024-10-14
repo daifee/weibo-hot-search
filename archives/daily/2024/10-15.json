@@ -1,6 +1,6 @@
 {
   "startTime": 1728923247369,
-  "endTime": 1728933481790,
+  "endTime": 1728934533019,
   "band_list": [
     {
       "raw_hot": 1644797,
@@ -523,12 +523,28 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 16547,
+      "raw_hot": 21254,
+      "num": 21254,
+      "word": "诗情画奕上海时装周",
+      "onboard_time": 1728933612,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 19417,
       "num": 37072,
       "word": "朝称美国应为无人机渗透至平壤负责",
       "onboard_time": 1728932772,
       "rank": 19,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 18217,
+      "num": 20849,
+      "word": "曾舜晞现场挖元一宫墙角",
+      "onboard_time": 1728934450,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 15618,
@@ -545,6 +561,14 @@
       "onboard_time": 1728913460,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 13625,
+      "num": 41406,
+      "word": "我国前三个季度进出口均超10万亿元",
+      "onboard_time": 1728932712,
+      "rank": 9,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 10559,
