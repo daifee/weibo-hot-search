@@ -1,0 +1,410 @@
+{
+  "runTime": 1728884401062,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 153369,
+        "num": 1067935,
+        "word": "中国掌握了美政府黑客嫁祸他国的证据",
+        "onboard_time": 1728873559,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2070635,
+        "num": 1062086,
+        "word": "祖国完全统一一定会实现",
+        "onboard_time": 1728875300,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 47986,
+        "num": 1018347,
+        "word": "这个500多亿的大项目背后有深意",
+        "onboard_time": 1728863718,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1679652,
+        "num": 1017607,
+        "word": "解放军抵近台岛演习夺取综合制权",
+        "onboard_time": 1728859935,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1388031,
+        "num": 984033,
+        "word": "女子注销号码未解绑网盘致照片泄露",
+        "onboard_time": 1728878959,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1305402,
+        "num": 944570,
+        "word": "谢娜还是太超前了",
+        "onboard_time": 1728879981,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1185418,
+        "num": 936362,
+        "word": "解放军3次围岛行动示意图对比",
+        "onboard_time": 1728879139,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1159243,
+        "num": 903932,
+        "word": "台独是死路一条",
+        "onboard_time": 1728863899,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 577803,
+        "num": 887822,
+        "word": "不玩大冰梗了",
+        "onboard_time": 1728881183,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 869062,
+        "num": 869062,
+        "word": "外逃副市长李传良违法所得被申请没收",
+        "onboard_time": 1728880041,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1124239,
+        "num": 791188,
+        "word": "台湾自古就是中国领土",
+        "onboard_time": 1728868877,
+        "rank": 10,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 931432,
+        "num": 758516,
+        "word": "韩国朝鲜",
+        "onboard_time": 1728866479,
+        "rank": 11,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 712452,
+        "num": 712452,
+        "word": "外逃鸡西原副市长涉案逾31亿",
+        "onboard_time": 1728874819,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 699752,
+        "num": 699752,
+        "word": "掐脖吻",
+        "onboard_time": 1728883038,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 621694,
+        "num": 621694,
+        "word": "向佐火到韩国",
+        "onboard_time": 1728883400,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 598375,
+        "num": 598375,
+        "word": "东部战区为什么于凌晨夜间发起演习",
+        "onboard_time": 1728866721,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 471599,
+        "num": 587259,
+        "word": "K总停播",
+        "onboard_time": 1728871878,
+        "rank": 16,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 131103,
+        "num": 577330,
+        "word": "美国吹牛老爹名单",
+        "onboard_time": 1728883879,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33090,
+        "num": 554224,
+        "word": "京东双11九大便宜攻略",
+        "onboard_time": 1728882441,
+        "rank": 18,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 229252,
+        "num": 537226,
+        "word": "心动的信号",
+        "onboard_time": 1728880222,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 840742,
+        "num": 522177,
+        "word": "印度女子不满女儿恋情雇凶杀女遭反杀",
+        "onboard_time": 1728875419,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 504602,
+        "num": 504602,
+        "word": "有人来接育儿嫂才知自己是备胎",
+        "onboard_time": 1728884360,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 479112,
+        "num": 479112,
+        "word": "美国无差别监听全球互联网用户",
+        "onboard_time": 1728874999,
+        "rank": 22,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 462443,
+        "num": 462443,
+        "word": "解放军围岛演习随时可以转为实战",
+        "onboard_time": 1728883159,
+        "rank": 23,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 68852,
+        "num": 461949,
+        "word": "在职场该不该扮蠢",
+        "onboard_time": 1728882560,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 461721,
+        "num": 461721,
+        "word": "为什么要进行联合利剑2024B演习",
+        "onboard_time": 1728870079,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 204061,
+        "num": 456633,
+        "word": "宋亚轩叫贾冰义父",
+        "onboard_time": 1728883637,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156437,
+        "num": 444960,
+        "word": "春花焰",
+        "onboard_time": 1728880641,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155577,
+        "num": 428962,
+        "word": "认哥MC赌博诈骗上亿韩元",
+        "onboard_time": 1728877279,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139985,
+        "num": 413452,
+        "word": "李沐宸谈自愿从长剧转短剧",
+        "onboard_time": 1728867680,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 413412,
+        "num": 413412,
+        "word": "药水哥近况",
+        "onboard_time": 1728870500,
+        "rank": 30,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 317715,
+        "num": 317715,
+        "word": "王者周年庆送传说皮肤",
+        "onboard_time": 1728884301,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 316329,
+        "num": 316329,
+        "word": "女生找工作被HR问如果想追你呢",
+        "onboard_time": 1728880401,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 300456,
+        "num": 300456,
+        "word": "一个农村家庭开始正视女儿养老",
+        "onboard_time": 1728878661,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 300114,
+        "num": 300114,
+        "word": "林高远刘诗雯搭档混双",
+        "onboard_time": 1728883998,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 296846,
+        "num": 296846,
+        "word": "我海警实现台湾靠大陆侧外岛全控",
+        "onboard_time": 1728883759,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 292512,
+        "num": 292512,
+        "word": "11岁男生向女童泼开水不需承担刑责",
+        "onboard_time": 1728867380,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 282753,
+        "num": 282753,
+        "word": "台独顽固分子沈伯洋曹兴诚被惩戒",
+        "onboard_time": 1728883820,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 259617,
+        "num": 259617,
+        "word": "辽宁舰航母编队参加围岛演习",
+        "onboard_time": 1728883759,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 246421,
+        "num": 246421,
+        "word": "国考岗位表",
+        "onboard_time": 1728874638,
+        "rank": 39,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 245002,
+        "num": 245002,
+        "word": "祖国必须统一也必然统一",
+        "onboard_time": 1728863899,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 225551,
+        "num": 225551,
+        "word": "胖东来回应拒绝司马南直播",
+        "onboard_time": 1728884301,
+        "rank": 41,
+        "category": "互联网,艺人"
+      },
+      {
+        "raw_hot": 220496,
+        "num": 220496,
+        "word": "联合利剑2024B演习",
+        "onboard_time": 1728873618,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 218990,
+        "num": 218990,
+        "word": "台独挑衅一次反制就推进一步",
+        "onboard_time": 1728882681,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 217673,
+        "num": 217673,
+        "word": "这个周一给我一种无力感",
+        "onboard_time": 1728872058,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 207375,
+        "num": 207375,
+        "word": "美国一网络恶意武器被中国曝光",
+        "onboard_time": 1728872598,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 193736,
+        "num": 193736,
+        "word": "联合利剑2024B图上的红点",
+        "onboard_time": 1728865940,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 173443,
+        "num": 173443,
+        "word": "这块草都被小狗养肥了",
+        "onboard_time": 1728884360,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 171229,
+        "num": 171229,
+        "word": "药水哥健身比赛第三名",
+        "onboard_time": 1728879799,
+        "rank": 48,
+        "category": "电竞,网红"
+      },
+      {
+        "raw_hot": 166179,
+        "num": 166179,
+        "word": "我国主要城市成美国网络秘密入侵目标",
+        "onboard_time": 1728878421,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#为了友谊这件大事跨越山海#"
+    }
+  }
+}
