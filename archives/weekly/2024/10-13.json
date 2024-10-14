@@ -1,6 +1,6 @@
 {
   "startTime": 1728750414717,
-  "endTime": 1728901495266,
+  "endTime": 1728902584083,
   "band_list": [
     {
       "raw_hot": 17915004,
@@ -267,6 +267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1464256,
+      "num": 961401,
+      "word": "王大伟受贿5.55亿元被判死缓",
+      "onboard_time": 1728898938,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1419674,
       "num": 294101,
       "word": "东北雨姐发文道歉",
@@ -433,14 +441,6 @@
       "onboard_time": 1728827423,
       "rank": 10,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1099297,
-      "num": 961401,
-      "word": "王大伟受贿5.55亿元被判死缓",
-      "onboard_time": 1728898938,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1094018,
@@ -947,6 +947,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 636115,
+      "num": 411538,
+      "word": "云南阿奎离世前直播称实在熬不住了",
+      "onboard_time": 1728900378,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 635282,
       "num": 635282,
       "word": "北大校友否认听泉鉴宝学历",
@@ -1115,6 +1123,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 534020,
+      "num": 486320,
+      "word": "杨幂治好了我的犯错羞耻症",
+      "onboard_time": 1728894320,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 525364,
       "num": 471087,
       "word": "比伯yummy mv",
@@ -1161,14 +1177,6 @@
       "onboard_time": 1728739583,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 507134,
-      "num": 486320,
-      "word": "杨幂治好了我的犯错羞耻症",
-      "onboard_time": 1728894320,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 505611,
@@ -1595,14 +1603,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 340155,
-      "num": 340155,
-      "word": "云南阿奎离世前直播称实在熬不住了",
-      "onboard_time": 1728900378,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 339756,
       "num": 644242,
       "word": "成毅将主演长安二十四计",
@@ -1644,7 +1644,7 @@
     },
     {
       "raw_hot": 332406,
-      "num": 332406,
+      "num": 437687,
       "word": "解放军视角超近距离看台湾",
       "onboard_time": 1728899658,
       "rank": 28,
@@ -2155,6 +2155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 245254,
+      "num": 245254,
+      "word": "奎八 珉佑",
+      "onboard_time": 1728902179,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 244812,
       "num": 474399,
       "word": "刘雯重返维密秀",
@@ -2185,6 +2193,14 @@
       "onboard_time": 1728832281,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 240067,
+      "num": 240067,
+      "word": "杭州网红柿子树因长太好被质疑",
+      "onboard_time": 1728901039,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 237782,
@@ -2507,6 +2523,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 207699,
+      "num": 207699,
+      "word": "景德镇巨响",
+      "onboard_time": 1728898700,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 207153,
       "num": 207153,
       "word": "2025国考12月1日笔试",
@@ -2561,6 +2585,14 @@
       "onboard_time": 1728859935,
       "rank": 34,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 205814,
+      "num": 305936,
+      "word": "孙燕姿官宣演唱会",
+      "onboard_time": 1728902239,
+      "rank": 26,
+      "category": "演出"
     },
     {
       "raw_hot": 205790,
@@ -2659,14 +2691,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 202395,
-      "num": 202395,
-      "word": "杭州网红柿子树因长太好被质疑",
-      "onboard_time": 1728901039,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 202080,
       "num": 184341,
       "word": "余宇涵出发北京路透",
@@ -2684,7 +2708,7 @@
     },
     {
       "raw_hot": 201209,
-      "num": 313501,
+      "num": 450344,
       "word": "文俊辉part好少",
       "onboard_time": 1728901039,
       "rank": 29,
@@ -2761,6 +2785,14 @@
       "onboard_time": 1728899119,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 197671,
+      "num": 197671,
+      "word": "炒股4天亏32万程序员回应",
+      "onboard_time": 1728902300,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 197430,
@@ -2865,6 +2897,14 @@
       "onboard_time": 1728730279,
       "rank": 24,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 192678,
+      "num": 304296,
+      "word": "enhypen回归预告被指抄袭",
+      "onboard_time": 1728901637,
+      "rank": 27,
+      "category": "音乐,艺人"
     },
     {
       "raw_hot": 192324,
@@ -3123,14 +3163,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 179817,
-      "num": 179817,
-      "word": "景德镇巨响",
-      "onboard_time": 1728898700,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 179196,
       "num": 179196,
       "word": "小石头已经很棒了",
@@ -3201,6 +3233,14 @@
       "onboard_time": 1728806059,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 171304,
+      "num": 171304,
+      "word": "小米SU7冲上公交站台致2人受伤",
+      "onboard_time": 1728901701,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 171135,
@@ -3321,6 +3361,14 @@
       "onboard_time": 1728739283,
       "rank": 19,
       "category": "网红"
+    },
+    {
+      "raw_hot": 163844,
+      "num": 163844,
+      "word": "珉佑",
+      "onboard_time": 1728899058,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 163116,
@@ -3505,6 +3553,14 @@
       "onboard_time": 1728742161,
       "rank": 26,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 153429,
+      "num": 153429,
+      "word": "全圆佑ending",
+      "onboard_time": 1728902539,
+      "rank": 49,
+      "category": "音乐"
     },
     {
       "raw_hot": 153043,
@@ -4419,6 +4475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 96140,
+      "num": 987890,
+      "word": "敦促美方立即停止全球范围内网络攻击",
+      "onboard_time": 1728898700,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 95445,
       "num": 652923,
       "word": "深圳332套房3个半小时售罄",
@@ -4433,14 +4497,6 @@
       "onboard_time": 1728738802,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 94694,
-      "num": 987890,
-      "word": "敦促美方立即停止全球范围内网络攻击",
-      "onboard_time": 1728898700,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 94187,
@@ -4673,6 +4729,14 @@
       "onboard_time": 1728752237,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 68959,
+      "num": 487769,
+      "word": "淘宝百亿补贴111元抢小米三件套",
+      "onboard_time": 1728900019,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 68852,
@@ -4940,7 +5004,7 @@
     },
     {
       "raw_hot": 46185,
-      "num": 199097,
+      "num": 289247,
       "word": "京东服装5折券又来了",
       "onboard_time": 1728901099,
       "rank": 41,
@@ -4952,14 +5016,6 @@
       "word": "消费者如何辨别粉条是不是纯红薯粉",
       "onboard_time": 1728803598,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 44571,
-      "num": 487769,
-      "word": "淘宝百亿补贴111元抢小米三件套",
-      "onboard_time": 1728900019,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -4976,6 +5032,14 @@
       "word": "河南一中学通报高三学生晕倒猝死",
       "onboard_time": 1728757933,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 44311,
+      "num": 488278,
+      "word": "企业多次造假跃升成数码零售巨头",
+      "onboard_time": 1728900500,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -5057,6 +5121,14 @@
       "onboard_time": 1728893658,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 39756,
+      "num": 180131,
+      "word": "普通人还有必要买相机吗",
+      "onboard_time": 1728902300,
+      "rank": 43,
+      "category": "数码"
     },
     {
       "raw_hot": 37563,
@@ -5283,14 +5355,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 26648,
-      "num": 488278,
-      "word": "企业多次造假跃升成数码零售巨头",
-      "onboard_time": 1728900500,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 25855,
       "num": 208155,
       "word": "这趟开往秋天童话的列车已出发",
@@ -5308,7 +5372,7 @@
     },
     {
       "raw_hot": 25036,
-      "num": 259677,
+      "num": 411262,
       "word": "天猫双11家电补到6折现货不用等",
       "onboard_time": 1728900919,
       "rank": 35,
@@ -5377,6 +5441,14 @@
       "onboard_time": 1728871279,
       "rank": 14,
       "category": "财经"
+    },
+    {
+      "raw_hot": 21879,
+      "num": 703464,
+      "word": "多条高铁线将于年底前开通运营",
+      "onboard_time": 1728893478,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 21736,
