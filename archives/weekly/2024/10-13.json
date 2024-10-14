@@ -1,6 +1,6 @@
 {
   "startTime": 1728750414717,
-  "endTime": 1728862727085,
+  "endTime": 1728870262854,
   "band_list": [
     {
       "raw_hot": 17915004,
@@ -49,6 +49,22 @@
       "onboard_time": 1728788958,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2691334,
+      "num": 1383806,
+      "word": "韩国朝鲜",
+      "onboard_time": 1728866479,
+      "rank": 5,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 2604213,
+      "num": 2604213,
+      "word": "东部战区为什么于凌晨夜间发起演习",
+      "onboard_time": 1728866721,
+      "rank": 0,
+      "category": "国内时政"
     },
     {
       "raw_hot": 2400749,
@@ -131,6 +147,14 @@
       "category": "社会新闻,国外时政"
     },
     {
+      "raw_hot": 1625501,
+      "num": 1625501,
+      "word": "台湾自古就是中国领土",
+      "onboard_time": 1728868877,
+      "rank": 3,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1607454,
       "num": 618691,
       "word": "阿娇复胖",
@@ -171,6 +195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1385335,
+      "num": 1385335,
+      "word": "祖国必须统一也必然统一",
+      "onboard_time": 1728863899,
+      "rank": 4,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1287431,
       "num": 747012,
       "word": "杨紫鲨鱼裤穿搭",
@@ -209,6 +241,14 @@
       "onboard_time": 1728783618,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1249526,
+      "num": 1249526,
+      "word": "台独是死路一条",
+      "onboard_time": 1728863899,
+      "rank": 6,
+      "category": "国内时政"
     },
     {
       "raw_hot": 1215798,
@@ -299,6 +339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1041641,
+      "num": 1041641,
+      "word": "为悼念吴邦国同志天安门下半旗",
+      "onboard_time": 1728866659,
+      "rank": 7,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 997545,
       "num": 411577,
       "word": "K总女友颜值",
@@ -377,6 +425,14 @@
       "onboard_time": 1728802878,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 895590,
+      "num": 895590,
+      "word": "按一个中国原则依法管控台岛",
+      "onboard_time": 1728866600,
+      "rank": 10,
+      "category": "国内时政"
     },
     {
       "raw_hot": 886702,
@@ -515,6 +571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 729913,
+      "num": 729913,
+      "word": "解放军3次台海行动示意图叠加",
+      "onboard_time": 1728865280,
+      "rank": 11,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 722152,
       "num": 404334,
       "word": "向佐回复费曼",
@@ -569,6 +633,14 @@
       "onboard_time": 1728812419,
       "rank": 15,
       "category": "财经"
+    },
+    {
+      "raw_hot": 648304,
+      "num": 648304,
+      "word": "联合利剑2024B图上的红点",
+      "onboard_time": 1728865940,
+      "rank": 12,
+      "category": "国内时政"
     },
     {
       "raw_hot": 638140,
@@ -732,7 +804,7 @@
     },
     {
       "raw_hot": 512218,
-      "num": 278196,
+      "num": 373656,
       "word": "律师称雨姐带货油污净或赔偿过亿",
       "onboard_time": 1728856271,
       "rank": 21,
@@ -753,6 +825,22 @@
       "onboard_time": 1728739583,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 502171,
+      "num": 502171,
+      "word": "联合利剑2024B演习开始了",
+      "onboard_time": 1728859935,
+      "rank": 8,
+      "category": "国内时政,国外时政"
+    },
+    {
+      "raw_hot": 499028,
+      "num": 499028,
+      "word": "萧敬腾在婚礼上泪流满面",
+      "onboard_time": 1728831743,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 493889,
@@ -883,12 +971,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 427909,
+      "num": 427909,
+      "word": "国考",
+      "onboard_time": 1728868700,
+      "rank": 22,
+      "category": "教育"
+    },
+    {
       "raw_hot": 424072,
       "num": 362502,
       "word": "吹牛老爹",
       "onboard_time": 1728798198,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 415011,
+      "num": 898619,
+      "word": "李沐宸谈自愿从长剧转短剧",
+      "onboard_time": 1728867680,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 408879,
@@ -905,6 +1009,14 @@
       "onboard_time": 1728839474,
       "rank": 8,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 403546,
+      "num": 505924,
+      "word": "短剧三件套",
+      "onboard_time": 1728867501,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 391122,
@@ -1003,6 +1115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 349583,
+      "num": 349583,
+      "word": "S14八强抽签",
+      "onboard_time": 1728865940,
+      "rank": 25,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 340845,
       "num": 340845,
       "word": "郑钦文1比1萨巴伦卡",
@@ -1065,14 +1185,6 @@
       "onboard_time": 1728790998,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 301344,
-      "num": 301344,
-      "word": "联合利剑2024B演习开始了",
-      "onboard_time": 1728859935,
-      "rank": 8,
-      "category": "国内时政,国外时政"
     },
     {
       "raw_hot": 299280,
@@ -1155,6 +1267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 278738,
+      "num": 278738,
+      "word": "东部战区枕戈待旦",
+      "onboard_time": 1728863899,
+      "rank": 32,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 275543,
       "num": 275543,
       "word": "原神",
@@ -1235,12 +1355,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 262976,
+      "num": 279551,
+      "word": "军事专家解读本次对台演习",
+      "onboard_time": 1728868339,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 261252,
       "num": 370146,
       "word": "有人月供将减近1900元",
       "onboard_time": 1728817042,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 259024,
+      "num": 259024,
+      "word": "国乒创造队史亚锦赛最差成绩",
+      "onboard_time": 1728864979,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 258444,
@@ -1619,6 +1755,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 200479,
+      "num": 281410,
+      "word": "李沐宸哭戏",
+      "onboard_time": 1728867800,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 199893,
       "num": 199893,
       "word": "檀健次手臂肌肉线条",
@@ -1708,7 +1852,7 @@
     },
     {
       "raw_hot": 195383,
-      "num": 711182,
+      "num": 1760867,
       "word": "东部战区开展联合利剑2024B演习",
       "onboard_time": 1728861917,
       "rank": 2,
@@ -1736,6 +1880,14 @@
       "word": "财政部长请大家放心",
       "onboard_time": 1728730279,
       "rank": 24,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 192931,
+      "num": 192931,
+      "word": "强力震慑台独分裂势力谋独行径",
+      "onboard_time": 1728859935,
+      "rank": 34,
       "category": "国内时政"
     },
     {
@@ -1883,6 +2035,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 186198,
+      "num": 186198,
+      "word": "11岁男生向女童泼开水不需承担刑责",
+      "onboard_time": 1728867380,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 185791,
       "num": 185791,
       "word": "童家堡秋季赛总冠军",
@@ -1961,6 +2121,22 @@
       "onboard_time": 1728798739,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 176446,
+      "num": 176446,
+      "word": "赖清德要做好四面楚歌自取灭亡的准备",
+      "onboard_time": 1728870018,
+      "rank": 41,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 176136,
+      "num": 176136,
+      "word": "TES再战T1",
+      "onboard_time": 1728866902,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 175900,
@@ -2139,6 +2315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 161208,
+      "num": 502389,
+      "word": "为什么要进行联合利剑2024B演习",
+      "onboard_time": 1728870079,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 159887,
       "num": 159887,
       "word": "王嘉尔老公变老板",
@@ -2184,6 +2368,14 @@
       "word": "最萌身高差老夫妻雨后牵手散步",
       "onboard_time": 1728806959,
       "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 157690,
+      "num": 157690,
+      "word": "警方回应6岁女童被高年级男生泼开水",
+      "onboard_time": 1728866600,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -2307,6 +2499,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 149620,
+      "num": 149620,
+      "word": "第五人格",
+      "onboard_time": 1728869179,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 148907,
       "num": 148907,
       "word": "桃晚安道歉",
@@ -2321,6 +2521,14 @@
       "onboard_time": 1728823820,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 148602,
+      "num": 265890,
+      "word": "锦绣安宁假竹马完胜真天降",
+      "onboard_time": 1728868939,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 148112,
@@ -2555,6 +2763,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 131528,
+      "num": 131528,
+      "word": "任敏 我的互联网新妹宝",
+      "onboard_time": 1728869838,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 129849,
       "num": 196754,
       "word": "拜登要求以色列停止袭击联黎部队",
@@ -2635,14 +2851,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 125040,
-      "num": 328311,
-      "word": "萧敬腾在婚礼上泪流满面",
-      "onboard_time": 1728831743,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 124925,
       "num": 124925,
       "word": "清融 伴生皮永远的白月光",
@@ -2681,6 +2889,14 @@
       "onboard_time": 1728805818,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 122335,
+      "num": 122335,
+      "word": "郑钦文回应是否参加宁网",
+      "onboard_time": 1728866659,
+      "rank": 49,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 121825,
@@ -3259,14 +3475,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 80996,
-      "num": 80996,
-      "word": "强力震慑台独分裂势力谋独行径",
-      "onboard_time": 1728859935,
-      "rank": 34,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 80134,
       "num": 119386,
       "word": "林诗栋晋级亚锦赛四强",
@@ -3793,6 +4001,14 @@
       "onboard_time": 1728852132,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 20661,
+      "num": 537382,
+      "word": "关于牙白的那些真心话",
+      "onboard_time": 1728867800,
+      "rank": 16,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 20176,
