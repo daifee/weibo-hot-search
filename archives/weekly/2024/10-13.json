@@ -1,6 +1,6 @@
 {
   "startTime": 1728750414717,
-  "endTime": 1728894567323,
+  "endTime": 1728895427252,
   "band_list": [
     {
       "raw_hot": 17915004,
@@ -187,6 +187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1692193,
+      "num": 1051325,
+      "word": "国产短剧已经疯了",
+      "onboard_time": 1728892219,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1647629,
       "num": 447301,
       "word": "朝军8个炮兵旅团转为射击待命",
@@ -297,14 +305,6 @@
       "onboard_time": 1728863899,
       "rank": 4,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 1301500,
-      "num": 1051325,
-      "word": "国产短剧已经疯了",
-      "onboard_time": 1728892219,
-      "rank": 1,
-      "category": "剧集"
     },
     {
       "raw_hot": 1287431,
@@ -508,7 +508,7 @@
     },
     {
       "raw_hot": 962445,
-      "num": 634766,
+      "num": 752956,
       "word": "村主任撞人致死赔650万后改判15年",
       "onboard_time": 1728887479,
       "rank": 45,
@@ -612,7 +612,7 @@
     },
     {
       "raw_hot": 880426,
-      "num": 633132,
+      "num": 742335,
       "word": "黄子韬徐艺洋秀恩爱vlog",
       "onboard_time": 1728891799,
       "rank": 12,
@@ -769,6 +769,14 @@
       "onboard_time": 1728779057,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 775959,
+      "num": 775959,
+      "word": "吴邦国同志生平",
+      "onboard_time": 1728895170,
+      "rank": 6,
+      "category": "国内时政"
     },
     {
       "raw_hot": 773924,
@@ -1115,6 +1123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 505611,
+      "num": 505611,
+      "word": "小胖又在指导樊振东",
+      "onboard_time": 1728889459,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 504602,
       "num": 504602,
       "word": "有人来接育儿嫂才知自己是备胎",
@@ -1339,14 +1355,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 402660,
-      "num": 402660,
-      "word": "小胖又在指导樊振东",
-      "onboard_time": 1728889459,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
       "raw_hot": 396177,
       "num": 396177,
       "word": "樊振东全锦赛适应场地训练",
@@ -1499,6 +1507,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 341368,
+      "num": 341368,
+      "word": "上海一养护院把人关在像猪圈的房间",
+      "onboard_time": 1728894139,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 340845,
       "num": 340845,
       "word": "郑钦文1比1萨巴伦卡",
@@ -1511,6 +1527,14 @@
       "num": 644242,
       "word": "成毅将主演长安二十四计",
       "onboard_time": 1728888378,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 339676,
+      "num": 771757,
+      "word": "闪婚老伴宠上天",
+      "onboard_time": 1728892578,
       "rank": 17,
       "category": "剧集"
     },
@@ -1561,6 +1585,14 @@
       "onboard_time": 1728831743,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 320897,
+      "num": 320897,
+      "word": "朝鲜射击指示",
+      "onboard_time": 1728895170,
+      "rank": 26,
+      "category": "国外时政"
     },
     {
       "raw_hot": 320857,
@@ -1979,6 +2011,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 251174,
+      "num": 625120,
+      "word": "海警2901号万吨舰首次参加对台任务",
+      "onboard_time": 1728894079,
+      "rank": 13,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 249402,
       "num": 249402,
       "word": "我国主要城市成美国网络秘密入侵目标",
@@ -2001,6 +2041,14 @@
       "onboard_time": 1728807501,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 243971,
+      "num": 243971,
+      "word": "警方回应小米SU7冲上公交站台",
+      "onboard_time": 1728893718,
+      "rank": 39,
+      "category": "汽车"
     },
     {
       "raw_hot": 242056,
@@ -2049,14 +2097,6 @@
       "onboard_time": 1728831683,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 232109,
-      "num": 521866,
-      "word": "闪婚老伴宠上天",
-      "onboard_time": 1728892578,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 231284,
@@ -2179,6 +2219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 220413,
+      "num": 220413,
+      "word": "首次将封锁台湾摆在台面",
+      "onboard_time": 1728894379,
+      "rank": 48,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 220033,
       "num": 217163,
       "word": "女子质问为何造谣拆家男子出轨自己",
@@ -2243,28 +2291,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 215314,
-      "num": 215314,
-      "word": "警方回应小米SU7冲上公交站台",
-      "onboard_time": 1728893718,
-      "rank": 39,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 214654,
       "num": 214654,
       "word": "郑钦文二度破发",
       "onboard_time": 1728816440,
       "rank": 22,
       "category": "体育"
-    },
-    {
-      "raw_hot": 214161,
-      "num": 214161,
-      "word": "上海一养护院把人关在像猪圈的房间",
-      "onboard_time": 1728894139,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 214089,
@@ -2289,6 +2321,14 @@
       "onboard_time": 1728835700,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 212415,
+      "num": 764947,
+      "word": "联合利剑2024B演习和此前有何不同",
+      "onboard_time": 1728895100,
+      "rank": 8,
+      "category": "国内时政"
     },
     {
       "raw_hot": 212397,
@@ -2321,6 +2361,14 @@
       "onboard_time": 1728870558,
       "rank": 41,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 210427,
+      "num": 486006,
+      "word": "上甘岭开播",
+      "onboard_time": 1728894799,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 209285,
@@ -2603,14 +2651,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 196625,
-      "num": 625120,
-      "word": "海警2901号万吨舰首次参加对台任务",
-      "onboard_time": 1728894079,
-      "rank": 13,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 196579,
       "num": 196579,
       "word": "战至巅峰战队淘汰赛谁去谁留",
@@ -2787,6 +2827,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 187977,
+      "num": 187977,
+      "word": "林高远刘诗雯全锦赛首秀",
+      "onboard_time": 1728891739,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 187248,
       "num": 187248,
       "word": "PCL",
@@ -2825,6 +2873,14 @@
       "onboard_time": 1728800359,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 184465,
+      "num": 184465,
+      "word": "日本也有可能被美国重点监控",
+      "onboard_time": 1728892939,
+      "rank": 43,
+      "category": "国外时政"
     },
     {
       "raw_hot": 184067,
@@ -2969,14 +3025,6 @@
       "onboard_time": 1728803899,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 171112,
-      "num": 171112,
-      "word": "林高远刘诗雯全锦赛首秀",
-      "onboard_time": 1728891739,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 170987,
@@ -3139,6 +3187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 160142,
+      "num": 160142,
+      "word": "全锦赛",
+      "onboard_time": 1728892339,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 159887,
       "num": 159887,
       "word": "王嘉尔老公变老板",
@@ -3201,6 +3257,14 @@
       "onboard_time": 1728804017,
       "rank": 42,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 157394,
+      "num": 760318,
+      "word": "教师在幼儿园内驾车撞倒3名孩子致1死",
+      "onboard_time": 1728894920,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 156595,
@@ -3267,28 +3331,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 153191,
-      "num": 153191,
-      "word": "全锦赛",
-      "onboard_time": 1728892339,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 153043,
       "num": 387208,
       "word": "女生吃卤味发现荧光剂根本洗不掉",
       "onboard_time": 1728885679,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 152840,
-      "num": 152840,
-      "word": "首次将封锁台湾摆在台面",
-      "onboard_time": 1728894379,
-      "rank": 48,
-      "category": "国内时政"
     },
     {
       "raw_hot": 151978,
@@ -4595,6 +4643,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 52616,
+      "num": 486320,
+      "word": "杨幂治好了我的犯错羞耻症",
+      "onboard_time": 1728894320,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 52246,
       "num": 55684,
       "word": "11天没有任何食品援助进入加沙",
@@ -4771,6 +4827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 40455,
+      "num": 904925,
+      "word": "一不留神穿越进绝美秋日油画",
+      "onboard_time": 1728893658,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 37563,
       "num": 313555,
       "word": "企业虚标大米保质期卖学校被罚超690万",
@@ -4840,14 +4904,6 @@
       "word": "老人摔倒路中间大学生出手了",
       "onboard_time": 1728752056,
       "rank": 24,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 35055,
-      "num": 904925,
-      "word": "一不留神穿越进绝美秋日油画",
-      "onboard_time": 1728893658,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -5185,14 +5241,6 @@
       "onboard_time": 1728735319,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 8988,
-      "num": 486320,
-      "word": "杨幂治好了我的犯错羞耻症",
-      "onboard_time": 1728894320,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 6156,
