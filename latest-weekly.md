@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/10/13 00:26:54 ~ 2024/10/14 11:30:53
+本榜单时间：2024/10/13 00:26:54 ~ 2024/10/14 11:45:19
 </p>
 </blockquote>
 <p>
@@ -87,6 +87,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E5%A5%B3%E5%AD%90%E4%B8%8D%E6%BB%A1%E5%A5%B3%E5%84%BF%E6%81%8B%E6%83%85%E9%9B%87%E5%87%B6%E6%9D%80%E5%A5%B3%E9%81%AD%E5%8F%8D%E6%9D%80%23" target="weibo">
+印度女子不满女儿恋情雇凶杀女遭反杀（热度：2121257）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%AC%E6%B3%89%E9%89%B4%E5%AE%9D%E8%A2%AB%E6%8C%87%E5%A1%8C%E6%88%BF%E5%9B%9B%E5%A4%A7%E7%96%91%E9%97%AE%E5%BE%85%E8%A7%A3%23" target="weibo">
 听泉鉴宝被指塌房四大疑问待解（热度：2082819）
 </a>
@@ -147,6 +153,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E7%8B%AC%E6%98%AF%E6%AD%BB%E8%B7%AF%E4%B8%80%E6%9D%A1%23" target="weibo">
+台独是死路一条（热度：1470930）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%AC%E5%88%B0%E5%A7%91%E7%88%B6%E5%8E%BB%E4%B8%96%E5%A5%B3%E5%AD%A9%E4%BB%8E%E6%B7%A1%E5%AE%9A%E5%88%B0%E6%B3%AA%E5%B4%A9%23" target="weibo">
 听到姑父去世女孩从淡定到泪崩（热度：1465536）
 </a>
@@ -167,12 +179,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%80%83%E5%85%AC%E5%91%8A%23" target="weibo">
 国考公告（热度：1416433）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E7%8B%AC%E6%98%AF%E6%AD%BB%E8%B7%AF%E4%B8%80%E6%9D%A1%23" target="weibo">
-台独是死路一条（热度：1393667）
 </a>
 </li>
 
@@ -231,14 +237,14 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E5%A5%B3%E5%AD%90%E4%B8%8D%E6%BB%A1%E5%A5%B3%E5%84%BF%E6%81%8B%E6%83%85%E9%9B%87%E5%87%B6%E6%9D%80%E5%A5%B3%E9%81%AD%E5%8F%8D%E6%9D%80%23" target="weibo">
-印度女子不满女儿恋情雇凶杀女遭反杀（热度：1199285）
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%A5%E5%88%A9%20%E8%83%8C%E5%88%BA%23" target="weibo">
+奥利 背刺（热度：1189609）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%A5%E5%88%A9%20%E8%83%8C%E5%88%BA%23" target="weibo">
-奥利 背刺（热度：1189609）
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E9%80%83%E9%B8%A1%E8%A5%BF%E5%8E%9F%E5%89%AF%E5%B8%82%E9%95%BF%E6%B6%89%E6%A1%88%E9%80%BE31%E4%BA%BF%23" target="weibo">
+外逃鸡西原副市长涉案逾31亿（热度：1136989）
 </a>
 </li>
 
@@ -333,12 +339,6 @@ K总女友颜值（热度：997545）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E9%80%83%E9%B8%A1%E8%A5%BF%E5%8E%9F%E5%89%AF%E5%B8%82%E9%95%BF%E6%B6%89%E6%A1%88%E9%80%BE31%E4%BA%BF%23" target="weibo">
-外逃鸡西原副市长涉案逾31亿（热度：937730）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9A%BE%E5%90%AC%23" target="weibo">
 难听（热度：932306）
 </a>
@@ -375,6 +375,12 @@ K总女友颜值（热度：997545）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%A5%96%E5%9B%BD%E5%AE%8C%E5%85%A8%E7%BB%9F%E4%B8%80%E4%B8%80%E5%AE%9A%E4%BC%9A%E5%AE%9E%E7%8E%B0%23" target="weibo">
+祖国完全统一一定会实现（热度：892332）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E7%99%BE%E4%BD%95%E6%99%92%E4%B8%8E%E5%A4%A7%E5%84%BF%E5%AD%90%E5%90%88%E7%85%A7%23" target="weibo">
 白百何晒与大儿子合照（热度：886702）
 </a>
@@ -405,6 +411,12 @@ K总女友颜值（热度：997545）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%B8%80%E7%BD%91%E7%BB%9C%E6%81%B6%E6%84%8F%E6%AD%A6%E5%99%A8%E8%A2%AB%E4%B8%AD%E5%9B%BD%E6%9B%9D%E5%85%89%23" target="weibo">
+美国一网络恶意武器被中国曝光（热度：824848）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E8%AF%97%E6%A0%8B%E8%92%AF%E6%9B%BC%E4%BA%9A%E9%94%A6%E8%B5%9B%E5%A4%BA%E5%86%A0%23" target="weibo">
 林诗栋蒯曼亚锦赛夺冠（热度：822478）
 </a>
@@ -424,7 +436,7 @@ K总女友颜值（热度：997545）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%B8%E9%A9%AC%E5%8D%97%E5%9C%A8%E8%83%96%E4%B8%9C%E6%9D%A5%E7%9B%B4%E6%92%AD%E8%A2%AB%E5%8A%9D%E7%A6%BB%23" target="weibo">
-司马南在胖东来直播被劝离（热度：809785）
+司马南在胖东来直播被劝离（热度：816546）
 </a>
 </li>
 
@@ -509,12 +521,6 @@ SpaceX星舰进行第五次试飞（热度：769541）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%91%E4%BD%90%E5%9B%9E%E5%A4%8D%E8%B4%B9%E6%9B%BC%23" target="weibo">
 向佐回复费曼（热度：722152）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%B8%80%E7%BD%91%E7%BB%9C%E6%81%B6%E6%84%8F%E6%AD%A6%E5%99%A8%E8%A2%AB%E4%B8%AD%E5%9B%BD%E6%9B%9D%E5%85%89%23" target="weibo">
-美国一网络恶意武器被中国曝光（热度：714881）
 </a>
 </li>
 
@@ -753,12 +759,6 @@ G2（热度：478990）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%A5%96%E5%9B%BD%E5%AE%8C%E5%85%A8%E7%BB%9F%E4%B8%80%E4%B8%80%E5%AE%9A%E4%BC%9A%E5%AE%9E%E7%8E%B0%23" target="weibo">
-祖国完全统一一定会实现（热度：474031）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%8E%E6%AD%A3%E8%AF%B4%E5%92%8C%E8%B5%B5%E4%B8%BD%E9%A2%96%E6%9D%A8%E5%B9%82%E9%83%BD%E6%9C%89%E8%81%94%E7%B3%BB%23" target="weibo">
 于正说和赵丽颖杨幂都有联系（热度：473128）
 </a>
@@ -861,14 +861,14 @@ BLG（热度：408290）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E8%AF%97%E6%A0%8Bvs%E7%AF%A0%E5%A1%9A%E5%A4%A7%E7%99%BB%23" target="weibo">
-林诗栋vs篠塚大登（热度：391122）
+<a href="https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E5%85%A8%E9%94%A6%E8%B5%9B%E9%80%82%E5%BA%94%E5%9C%BA%E5%9C%B0%E8%AE%AD%E7%BB%83%23" target="weibo">
+樊振东全锦赛适应场地训练（热度：396177）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E5%85%A8%E9%94%A6%E8%B5%9B%E9%80%82%E5%BA%94%E5%9C%BA%E5%9C%B0%E8%AE%AD%E7%BB%83%23" target="weibo">
-樊振东全锦赛适应场地训练（热度：391085）
+<a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E8%AF%97%E6%A0%8Bvs%E7%AF%A0%E5%A1%9A%E5%A4%A7%E7%99%BB%23" target="weibo">
+林诗栋vs篠塚大登（热度：391122）
 </a>
 </li>
 
@@ -910,7 +910,7 @@ BLG（热度：408290）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%2311%E5%B2%81%E7%94%B7%E7%94%9F%E5%90%91%E5%A5%B3%E7%AB%A5%E6%B3%BC%E5%BC%80%E6%B0%B4%E4%B8%8D%E9%9C%80%E6%89%BF%E6%8B%85%E5%88%91%E8%B4%A3%23" target="weibo">
-11岁男生向女童泼开水不需承担刑责（热度：356498）
+11岁男生向女童泼开水不需承担刑责（热度：362187）
 </a>
 </li>
 
@@ -983,6 +983,12 @@ S14八强抽签（热度：349583）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E9%95%87%E5%AE%87%E6%99%92%E8%B4%B9%E6%9B%BC%E7%8E%8B%E5%98%89%E5%B0%94%E5%90%88%E7%85%A7%23" target="weibo">
 吴镇宇晒费曼王嘉尔合照（热度：326318）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%97%A0%E5%B7%AE%E5%88%AB%E7%9B%91%E5%90%AC%E5%85%A8%E7%90%83%E4%BA%92%E8%81%94%E7%BD%91%E7%94%A8%E6%88%B7%23" target="weibo">
+美国无差别监听全球互联网用户（热度：323054）
 </a>
 </li>
 
@@ -1143,8 +1149,8 @@ A股（热度：279868）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%97%A0%E5%B7%AE%E5%88%AB%E7%9B%91%E5%90%AC%E5%85%A8%E7%90%83%E4%BA%92%E8%81%94%E7%BD%91%E7%94%A8%E6%88%B7%23" target="weibo">
-美国无差别监听全球互联网用户（热度：270409）
+<a href="https://s.weibo.com/weibo?q=%232025%E5%9B%BD%E8%80%83%E8%A1%8C%E6%B5%8B%E5%A2%9E%E8%AE%BE%E6%94%BF%E6%B2%BB%E7%90%86%E8%AE%BA%E9%83%A8%E5%88%86%23" target="weibo">
+2025国考行测增设政治理论部分（热度：272335）
 </a>
 </li>
 
@@ -1437,6 +1443,12 @@ A股（热度：279868）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%8A%8A%E6%8C%81%E6%B5%B7%E5%BA%95%E5%85%89%E7%BC%86%E5%BB%BA7%E4%B8%AA%E7%9B%91%E5%90%AC%E7%AB%99%23" target="weibo">
+美国把持海底光缆建7个监听站（热度：206888）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23LPL%E5%85%A8%E5%91%98%E6%99%8B%E7%BA%A7S14%E5%85%AB%E5%BC%BA%23" target="weibo">
 LPL全员晋级S14八强（热度：206834）
 </a>
@@ -1545,12 +1557,6 @@ SEVENTEEN回归（热度：199295）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%232025%E5%9B%BD%E8%80%83%E8%A1%8C%E6%B5%8B%E5%A2%9E%E8%AE%BE%E6%94%BF%E6%B2%BB%E7%90%86%E8%AE%BA%E9%83%A8%E5%88%86%23" target="weibo">
-2025国考行测增设政治理论部分（热度：198893）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%9A%E9%94%A6%E8%B5%9B%E7%9B%B4%E6%92%AD%23" target="weibo">
 亚锦赛直播（热度：198649）
 </a>
@@ -1625,12 +1631,6 @@ G2喊话BLG（热度：196792）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E6%98%93%E7%AC%AC%E4%BA%94%E4%BA%BA%E6%A0%BC%23" target="weibo">
 网易第五人格（热度：194467）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%8A%8A%E6%8C%81%E6%B5%B7%E5%BA%95%E5%85%89%E7%BC%86%E5%BB%BA7%E4%B8%AA%E7%9B%91%E5%90%AC%E7%AB%99%23" target="weibo">
-美国把持海底光缆建7个监听站（热度：193368）
 </a>
 </li>
 
@@ -1797,6 +1797,12 @@ AG对战DRG（热度：181556）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E7%BB%99%E7%9B%AE%E6%A0%87%E5%9B%BD%E6%A4%8D%E5%85%A5%E8%B6%855%E4%B8%87%E4%B8%AA%E9%97%B4%E8%B0%8D%E7%A8%8B%E5%BA%8F%23" target="weibo">
+美国给目标国植入超5万个间谍程序（热度：181404）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E8%A5%BF%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E9%99%8C%E7%94%9F%E5%A5%B3%E5%AD%90%E5%BD%93%E8%A1%97%E6%8A%A2%E5%AD%A9%E5%AD%90%23" target="weibo">
 山西警方通报陌生女子当街抢孩子（热度：181329）
 </a>
@@ -1816,7 +1822,7 @@ AG对战DRG（热度：181556）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A7%A3%E6%94%BE%E5%86%9B%E6%AD%A4%E6%AC%A1%E5%9B%B4%E5%B2%9B%E6%BC%94%E4%B9%A0%E6%9C%893%E4%B8%AA%E6%9B%B4%E5%8A%A0%23" target="weibo">
-解放军此次围岛演习有3个更加（热度：176181）
+解放军此次围岛演习有3个更加（热度：176462）
 </a>
 </li>
 
@@ -1847,6 +1853,12 @@ TES再战T1（热度：176136）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8C%83%E4%B8%9E%E4%B8%9E%E5%8D%A2%E6%98%B1%E6%99%93%E6%AD%AA%E5%A4%B4%E6%9D%80%23" target="weibo">
 范丞丞卢昱晓歪头杀（热度：171430）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E5%B7%B4%E9%BB%8E%E5%A5%A5%E8%BF%90%E4%B9%8B%E5%90%8E%E9%A6%96%E6%AC%A1%E5%8F%82%E8%B5%9B%23" target="weibo">
+樊振东巴黎奥运之后首次参赛（热度：171371）
 </a>
 </li>
 
@@ -2381,6 +2393,12 @@ eStar对战WE（热度：125948）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E8%B6%85%E8%B6%8A%E8%90%BD%E6%B0%B4%E7%BB%99%E8%B0%A2%E6%B6%A4%E8%91%B5%E7%AC%91%E9%BA%BB%E4%BA%86%23" target="weibo">
 杨超越落水给谢涤葵笑麻了（热度：122612）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AE%A4%E5%93%A5MC%E8%B5%8C%E5%8D%9A%E8%AF%88%E9%AA%97%E4%B8%8A%E4%BA%BF%E9%9F%A9%E5%85%83%23" target="weibo">
+认哥MC赌博诈骗上亿韩元（热度：122509）
 </a>
 </li>
 
