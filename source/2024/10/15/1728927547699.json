@@ -1,0 +1,410 @@
+{
+  "runTime": 1728927547699,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 418509,
+        "num": 418509,
+        "word": "国考 没岗",
+        "onboard_time": 1728919880,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 174485,
+        "num": 174485,
+        "word": "灯花笑 虞书欣",
+        "onboard_time": 1728919999,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 3667,
+        "num": 129586,
+        "word": "我国将打造全球最大规模低空通信网",
+        "onboard_time": 1728913460,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 367911,
+        "num": 128046,
+        "word": "王楚钦 退赛",
+        "onboard_time": 1728913521,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126123,
+        "num": 126123,
+        "word": "美国海底窃听光缆真实图像",
+        "onboard_time": 1728919520,
+        "rank": 4,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 109519,
+        "num": 109519,
+        "word": "3人故意吃虫子让火锅店赔1500",
+        "onboard_time": 1728914842,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100612,
+        "num": 100612,
+        "word": "张馨予回应我想我会一直孤单",
+        "onboard_time": 1728909199,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99143,
+        "num": 99143,
+        "word": "双十一定金",
+        "onboard_time": 1728916463,
+        "rank": 7,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 97221,
+        "num": 97221,
+        "word": "胖东来拒绝网红直播是以顾客为本",
+        "onboard_time": 1728925814,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19926,
+        "num": 97220,
+        "word": "专家解读这一次围岛布局",
+        "onboard_time": 1728927015,
+        "rank": 9,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 352652,
+        "num": 97207,
+        "word": "百万粉丝网红脑溢血昏迷8天后离世",
+        "onboard_time": 1728920601,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 351455,
+        "num": 97190,
+        "word": "Jennie推特被封",
+        "onboard_time": 1728916401,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 231706,
+        "num": 97181,
+        "word": "王一珩 抄袭",
+        "onboard_time": 1728910641,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185754,
+        "num": 97166,
+        "word": "宝妈用狗尾巴草给孩子点痣惊呆网友",
+        "onboard_time": 1728920301,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163717,
+        "num": 97153,
+        "word": "为什么建议学会腹式呼吸",
+        "onboard_time": 1728920840,
+        "rank": 14,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 140845,
+        "num": 97147,
+        "word": "00后夫妻仅花百元购置结婚三件套",
+        "onboard_time": 1728919880,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139234,
+        "num": 97132,
+        "word": "赵露思 自己化妆",
+        "onboard_time": 1728916520,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126382,
+        "num": 97122,
+        "word": "杜华 你不火还怪我又不是我不火",
+        "onboard_time": 1728904878,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98795,
+        "num": 97113,
+        "word": "朝鲜射击指示",
+        "onboard_time": 1728895170,
+        "rank": 18,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 97102,
+        "num": 97102,
+        "word": "上海一养护院环境恶劣如同猪圈",
+        "onboard_time": 1728924197,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 474409,
+        "num": 95680,
+        "word": "杭州一女生夜晚被强行猥亵",
+        "onboard_time": 1728919162,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 83398,
+        "num": 83398,
+        "word": "疾控部门回应广东蟑螂已进化",
+        "onboard_time": 1728907638,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 83082,
+        "num": 83082,
+        "word": "迈巴赫漏水车主再发声称对方敷衍",
+        "onboard_time": 1728919580,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 82791,
+        "num": 82791,
+        "word": "贵州贫困县豪砸2亿元建酒店烂尾",
+        "onboard_time": 1728923658,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 75159,
+        "num": 75159,
+        "word": "萧敬腾婚礼堪比演唱会",
+        "onboard_time": 1728921139,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 74464,
+        "num": 74464,
+        "word": "22个纸箱装钱压得车上不了地库斜坡",
+        "onboard_time": 1728920960,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 72742,
+        "num": 72742,
+        "word": "老师校内交通肇事致女童身亡",
+        "onboard_time": 1728925515,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 62835,
+        "num": 62835,
+        "word": "警方回应成都一河道疑发现浮尸",
+        "onboard_time": 1728908178,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 57262,
+        "num": 57262,
+        "word": "K总说私底下的产业比直播挣的多",
+        "onboard_time": 1728915382,
+        "rank": 28,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 43721,
+        "num": 56795,
+        "word": "成何体统 丞磊王楚然",
+        "onboard_time": 1728909019,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 65357,
+        "num": 56639,
+        "word": "王毅同以色列外长卡茨通电话",
+        "onboard_time": 1728921860,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 56453,
+        "num": 56453,
+        "word": "台湾4.1级地震",
+        "onboard_time": 1728914842,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 55284,
+        "num": 55284,
+        "word": "关智斌舞台求婚阿Sa",
+        "onboard_time": 1728886520,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 54983,
+        "num": 54983,
+        "word": "小米15",
+        "onboard_time": 1728913882,
+        "rank": 33,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 54230,
+        "num": 54230,
+        "word": "胖东来为何劝离直播的司马南",
+        "onboard_time": 1728920960,
+        "rank": 34,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 52638,
+        "num": 52638,
+        "word": "易烊千玺机场",
+        "onboard_time": 1728915320,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 50803,
+        "num": 50803,
+        "word": "国足生死战前称不惧怕任何对手",
+        "onboard_time": 1728921679,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 47474,
+        "num": 47474,
+        "word": "国产短剧已经疯了",
+        "onboard_time": 1728892219,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 46750,
+        "num": 46750,
+        "word": "孙燕姿官宣演唱会",
+        "onboard_time": 1728902239,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 46423,
+        "num": 46423,
+        "word": "女子遭丈夫家暴后死亡案将开庭",
+        "onboard_time": 1728912500,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46333,
+        "num": 46333,
+        "word": "女子花500元找男大学生陪爬泰山",
+        "onboard_time": 1728912983,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 44491,
+        "num": 44491,
+        "word": "成都警方通报河道男尸系溺亡",
+        "onboard_time": 1728919700,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 40823,
+        "num": 40823,
+        "word": "金星回应复婚",
+        "onboard_time": 1728913882,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39378,
+        "num": 39378,
+        "word": "赵牧辰刘雨璠断崖式be",
+        "onboard_time": 1728904159,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 39324,
+        "num": 39324,
+        "word": "买上百万元处方药竟从未出示处方",
+        "onboard_time": 1728923357,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38104,
+        "num": 39319,
+        "word": "颜如晶半年瘦了50斤",
+        "onboard_time": 1728897680,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 36002,
+        "num": 39292,
+        "word": "蓦然回首",
+        "onboard_time": 1728922339,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 35755,
+        "num": 39233,
+        "word": "春花焰观后感",
+        "onboard_time": 1728917541,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 34918,
+        "num": 39199,
+        "word": "郑秀妍郑秀晶新闻图",
+        "onboard_time": 1728927253,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34453,
+        "num": 39183,
+        "word": "王一珩新歌木梳",
+        "onboard_time": 1728922878,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同印度尼西亚总统佐科通电话#"
+    }
+  }
+}

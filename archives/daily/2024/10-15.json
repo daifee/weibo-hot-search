@@ -1,6 +1,6 @@
 {
   "startTime": 1728923247369,
-  "endTime": 1728926450291,
+  "endTime": 1728927547699,
   "band_list": [
     {
       "raw_hot": 1644797,
@@ -315,6 +315,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 97221,
+      "num": 123399,
+      "word": "胖东来拒绝网红直播是以顾客为本",
+      "onboard_time": 1728925814,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 95757,
       "num": 95757,
       "word": "蔡磊最新病情",
@@ -395,6 +403,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 72742,
+      "num": 72742,
+      "word": "老师校内交通肇事致女童身亡",
+      "onboard_time": 1728925515,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 71000,
       "num": 71000,
       "word": "胖东来为何劝离直播的司马南",
@@ -416,14 +432,6 @@
       "word": "台湾4.1级地震",
       "onboard_time": 1728914842,
       "rank": 33,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 61614,
-      "num": 61614,
-      "word": "老师校内交通肇事致女童身亡",
-      "onboard_time": 1728925515,
-      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -451,12 +459,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 44599,
-      "num": 123399,
-      "word": "胖东来拒绝网红直播是以顾客为本",
-      "onboard_time": 1728925814,
+      "raw_hot": 34918,
+      "num": 39199,
+      "word": "郑秀妍郑秀晶新闻图",
+      "onboard_time": 1728927253,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 19926,
+      "num": 97220,
+      "word": "专家解读这一次围岛布局",
+      "onboard_time": 1728927015,
       "rank": 9,
-      "category": "社会新闻"
+      "category": "国外时政"
     },
     {
       "raw_hot": 14118,
