@@ -1,0 +1,410 @@
+{
+  "runTime": 1728948936852,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 594108,
+        "num": 897574,
+        "word": "千万主播学历造假频繁发生",
+        "onboard_time": 1728927794,
+        "rank": 0,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 423236,
+        "num": 423236,
+        "word": "国考 没岗",
+        "onboard_time": 1728919880,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 8607,
+        "num": 390812,
+        "word": "我国将打造全球最大规模低空通信网",
+        "onboard_time": 1728913460,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 616894,
+        "num": 387053,
+        "word": "王楚钦 退赛",
+        "onboard_time": 1728913521,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 373436,
+        "num": 373436,
+        "word": "感觉秦海璐再也不想看霸总文了",
+        "onboard_time": 1728948017,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 328040,
+        "num": 328040,
+        "word": "美国海底窃听光缆真实图像",
+        "onboard_time": 1728919520,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 318045,
+        "num": 318045,
+        "word": "22个纸箱装钱压得车上不了地库斜坡",
+        "onboard_time": 1728920960,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 273200,
+        "num": 273200,
+        "word": "胖东来拒绝网红直播是以顾客为本",
+        "onboard_time": 1728925814,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129605,
+        "num": 273184,
+        "word": "灯花笑 虞书欣",
+        "onboard_time": 1728919999,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152403,
+        "num": 271704,
+        "word": "孙子在哪上学爷爷就在哪当保安",
+        "onboard_time": 1728948618,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 695893,
+        "num": 270893,
+        "word": "老师校内交通肇事致女童身亡",
+        "onboard_time": 1728925515,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 468819,
+        "num": 270711,
+        "word": "Jennie推特被封",
+        "onboard_time": 1728916401,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 399541,
+        "num": 269626,
+        "word": "百万粉丝网红脑溢血昏迷8天后离世",
+        "onboard_time": 1728920601,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 391632,
+        "num": 269044,
+        "word": "作协主席被曝酒后闹事辱骂酒店前台",
+        "onboard_time": 1728940391,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 388806,
+        "num": 268166,
+        "word": "宝妈用狗尾巴草给孩子点痣惊呆网友",
+        "onboard_time": 1728920301,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267646,
+        "num": 267646,
+        "word": "3人故意吃虫子让火锅店赔1500",
+        "onboard_time": 1728914842,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219958,
+        "num": 219958,
+        "word": "萧敬腾婚礼堪比演唱会",
+        "onboard_time": 1728921139,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197666,
+        "num": 197666,
+        "word": "双十一定金",
+        "onboard_time": 1728916463,
+        "rank": 17,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 193225,
+        "num": 193225,
+        "word": "王一珩 抄袭",
+        "onboard_time": 1728910641,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167827,
+        "num": 167827,
+        "word": "女子遭丈夫家暴后死亡案将开庭",
+        "onboard_time": 1728912500,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1137369,
+        "num": 157945,
+        "word": "杭州一女生夜晚被强行猥亵",
+        "onboard_time": 1728919162,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179433,
+        "num": 155844,
+        "word": "教委回应班主任在班级群发飙",
+        "onboard_time": 1728948017,
+        "rank": 21,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 140161,
+        "num": 140161,
+        "word": "杜华 你不火还怪我又不是我不火",
+        "onboard_time": 1728904878,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137328,
+        "num": 137328,
+        "word": "疾控部门回应广东蟑螂已进化",
+        "onboard_time": 1728907638,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130041,
+        "num": 130041,
+        "word": "男友炖鸡汤没处理鸡蛋还在肚子里",
+        "onboard_time": 1728947537,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 128466,
+        "num": 128466,
+        "word": "00后夫妻仅花百元购置结婚三件套",
+        "onboard_time": 1728919880,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126644,
+        "num": 126644,
+        "word": "听泉鉴宝称从未说过自己是北大的",
+        "onboard_time": 1728948618,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113273,
+        "num": 126441,
+        "word": "听泉鉴宝究竟是剧本还是真有其事",
+        "onboard_time": 1728936791,
+        "rank": 27,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 108083,
+        "num": 126351,
+        "word": "张馨予回应我想我会一直孤单",
+        "onboard_time": 1728909199,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 59255,
+        "num": 126341,
+        "word": "中方再曝光美政府伏特台风计划细节",
+        "onboard_time": 1728938591,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126341,
+        "num": 126340,
+        "word": "赵露思 自己化妆",
+        "onboard_time": 1728916520,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120504,
+        "num": 120504,
+        "word": "朝鲜射击指示",
+        "onboard_time": 1728895170,
+        "rank": 31,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 81969,
+        "num": 120100,
+        "word": "王睡睡对老刘张硕说祝你们幸福",
+        "onboard_time": 1728919099,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119843,
+        "num": 119843,
+        "word": "女子被高坠水箱精准罩住超淡定",
+        "onboard_time": 1728948557,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108341,
+        "num": 108341,
+        "word": "和平精英",
+        "onboard_time": 1728947897,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 104565,
+        "num": 104565,
+        "word": "熊猫莽小五在树上睡了一夜",
+        "onboard_time": 1728947537,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104072,
+        "num": 104072,
+        "word": "贵州贫困县豪砸2亿元建酒店烂尾",
+        "onboard_time": 1728923658,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96694,
+        "num": 96694,
+        "word": "关智斌舞台求婚阿Sa",
+        "onboard_time": 1728886520,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 95692,
+        "num": 95692,
+        "word": "倪夏莲60岁也活在爱里",
+        "onboard_time": 1728943934,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 94566,
+        "num": 94566,
+        "word": "女子花500元找男大学生陪爬泰山",
+        "onboard_time": 1728912983,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 93394,
+        "num": 93394,
+        "word": "易烊千玺机场",
+        "onboard_time": 1728915320,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85904,
+        "num": 85904,
+        "word": "迈巴赫漏水车主再发声称对方敷衍",
+        "onboard_time": 1728919580,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 85820,
+        "num": 85820,
+        "word": "上海一养护院环境恶劣如同猪圈",
+        "onboard_time": 1728924197,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 85136,
+        "num": 85136,
+        "word": "警方通报四川一中学学生死亡",
+        "onboard_time": 1728947236,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 83117,
+        "num": 83117,
+        "word": "颜如晶半年瘦了50斤",
+        "onboard_time": 1728897680,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82546,
+        "num": 82546,
+        "word": "人家萧敬腾结婚你在这又唱又跳的",
+        "onboard_time": 1728944892,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82039,
+        "num": 82039,
+        "word": "卫生局回应医院晚上直播唱歌成KTV",
+        "onboard_time": 1728929412,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 74955,
+        "num": 74955,
+        "word": "警方回应成都一河道疑发现浮尸",
+        "onboard_time": 1728908178,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 65075,
+        "num": 65075,
+        "word": "国产短剧已经疯了",
+        "onboard_time": 1728892219,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 63645,
+        "num": 63645,
+        "word": "武艺说编剧都编不出杨子的回答",
+        "onboard_time": 1728948438,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#深悟总书记的文艺观#"
+    }
+  }
+}

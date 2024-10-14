@@ -1,6 +1,6 @@
 {
   "startTime": 1728923247369,
-  "endTime": 1728948075516,
+  "endTime": 1728948936852,
   "band_list": [
     {
       "raw_hot": 1644797,
@@ -43,6 +43,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 695893,
+      "num": 270893,
+      "word": "老师校内交通肇事致女童身亡",
+      "onboard_time": 1728925515,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 608920,
       "num": 346552,
       "word": "王一珩 抄袭",
@@ -51,12 +59,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 604168,
-      "num": 176447,
-      "word": "老师校内交通肇事致女童身亡",
-      "onboard_time": 1728925515,
-      "rank": 36,
-      "category": "社会新闻"
+      "raw_hot": 594108,
+      "num": 897574,
+      "word": "千万主播学历造假频繁发生",
+      "onboard_time": 1728927794,
+      "rank": 4,
+      "category": "社会议题"
     },
     {
       "raw_hot": 489183,
@@ -65,14 +73,6 @@
       "onboard_time": 1728920301,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 475378,
-      "num": 770505,
-      "word": "千万主播学历造假频繁发生",
-      "onboard_time": 1728927794,
-      "rank": 4,
-      "category": "社会议题"
     },
     {
       "raw_hot": 447303,
@@ -100,7 +100,7 @@
     },
     {
       "raw_hot": 412321,
-      "num": 174145,
+      "num": 269044,
       "word": "作协主席被曝酒后闹事辱骂酒店前台",
       "onboard_time": 1728940391,
       "rank": 48,
@@ -121,6 +121,14 @@
       "onboard_time": 1728914842,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 373436,
+      "num": 373436,
+      "word": "感觉秦海璐再也不想看霸总文了",
+      "onboard_time": 1728948017,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 368344,
@@ -155,8 +163,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 268442,
-      "num": 268442,
+      "raw_hot": 273200,
+      "num": 273200,
       "word": "胖东来拒绝网红直播是以顾客为本",
       "onboard_time": 1728925814,
       "rank": 9,
@@ -179,8 +187,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 212798,
-      "num": 212798,
+      "raw_hot": 219958,
+      "num": 219958,
       "word": "萧敬腾婚礼堪比演唱会",
       "onboard_time": 1728921139,
       "rank": 19,
@@ -211,6 +219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 179433,
+      "num": 155844,
+      "word": "教委回应班主任在班级群发飙",
+      "onboard_time": 1728948017,
+      "rank": 21,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 173477,
       "num": 173477,
       "word": "疾控部门回应广东蟑螂已进化",
@@ -227,20 +243,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 161718,
-      "num": 161718,
+      "raw_hot": 167827,
+      "num": 167827,
       "word": "女子遭丈夫家暴后死亡案将开庭",
       "onboard_time": 1728912500,
       "rank": 36,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 146403,
-      "num": 133191,
-      "word": "教委回应班主任在班级群发飙",
-      "onboard_time": 1728948017,
-      "rank": 21,
-      "category": "社会新闻,教育"
+      "raw_hot": 152403,
+      "num": 271704,
+      "word": "孙子在哪上学爷爷就在哪当保安",
+      "onboard_time": 1728948618,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 144737,
@@ -249,14 +265,6 @@
       "onboard_time": 1728897680,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 138802,
-      "num": 138802,
-      "word": "感觉秦海璐再也不想看霸总文了",
-      "onboard_time": 1728948017,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 137555,
@@ -291,11 +299,35 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 130041,
+      "num": 130041,
+      "word": "男友炖鸡汤没处理鸡蛋还在肚子里",
+      "onboard_time": 1728947537,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 126644,
+      "num": 126644,
+      "word": "听泉鉴宝称从未说过自己是北大的",
+      "onboard_time": 1728948618,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 120078,
       "num": 120078,
       "word": "成都警方通报河道男尸系溺亡",
       "onboard_time": 1728919700,
       "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 119843,
+      "num": 119843,
+      "word": "女子被高坠水箱精准罩住超淡定",
+      "onboard_time": 1728948557,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -315,6 +347,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 113273,
+      "num": 126441,
+      "word": "听泉鉴宝究竟是剧本还是真有其事",
+      "onboard_time": 1728936791,
+      "rank": 47,
+      "category": "网红"
+    },
+    {
       "raw_hot": 112354,
       "num": 112354,
       "word": "A50",
@@ -331,6 +371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 108341,
+      "num": 108341,
+      "word": "和平精英",
+      "onboard_time": 1728947897,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 108208,
       "num": 108208,
       "word": "K总说私底下的产业比直播挣的多",
@@ -344,6 +392,22 @@
       "word": "上海一养护院环境恶劣如同猪圈",
       "onboard_time": 1728924197,
       "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 104565,
+      "num": 104565,
+      "word": "熊猫莽小五在树上睡了一夜",
+      "onboard_time": 1728947537,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 104072,
+      "num": 104072,
+      "word": "贵州贫困县豪砸2亿元建酒店烂尾",
+      "onboard_time": 1728923658,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -379,12 +443,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 95692,
+      "num": 95692,
+      "word": "倪夏莲60岁也活在爱里",
+      "onboard_time": 1728943934,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 95019,
       "num": 95019,
       "word": "孙燕姿官宣演唱会",
       "onboard_time": 1728902239,
       "rank": 41,
       "category": "演出"
+    },
+    {
+      "raw_hot": 94566,
+      "num": 94566,
+      "word": "女子花500元找男大学生陪爬泰山",
+      "onboard_time": 1728912983,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 93004,
@@ -395,22 +475,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 92334,
-      "num": 115720,
-      "word": "听泉鉴宝究竟是剧本还是真有其事",
-      "onboard_time": 1728936791,
-      "rank": 47,
-      "category": "网红"
-    },
-    {
-      "raw_hot": 91376,
-      "num": 91376,
-      "word": "女子花500元找男大学生陪爬泰山",
-      "onboard_time": 1728912983,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 90593,
       "num": 90593,
       "word": "练背真的专救垮脸",
@@ -419,20 +483,20 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 89544,
-      "num": 89544,
-      "word": "贵州贫困县豪砸2亿元建酒店烂尾",
-      "onboard_time": 1728923658,
-      "rank": 39,
+      "raw_hot": 85136,
+      "num": 85136,
+      "word": "警方通报四川一中学学生死亡",
+      "onboard_time": 1728947236,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 87255,
-      "num": 87255,
-      "word": "男友炖鸡汤没处理鸡蛋还在肚子里",
-      "onboard_time": 1728947537,
-      "rank": 34,
-      "category": "幽默"
+      "raw_hot": 82039,
+      "num": 82039,
+      "word": "卫生局回应医院晚上直播唱歌成KTV",
+      "onboard_time": 1728929412,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 80927,
@@ -459,14 +523,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 77653,
-      "num": 79394,
-      "word": "卫生局回应医院晚上直播唱歌成KTV",
-      "onboard_time": 1728929412,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 77188,
       "num": 90402,
       "word": "邪恶栀子花",
@@ -481,22 +537,6 @@
       "onboard_time": 1728920960,
       "rank": 26,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 69142,
-      "num": 69142,
-      "word": "熊猫莽小五在树上睡了一夜",
-      "onboard_time": 1728947537,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 65849,
-      "num": 65849,
-      "word": "和平精英",
-      "onboard_time": 1728947897,
-      "rank": 42,
-      "category": "游戏"
     },
     {
       "raw_hot": 65132,
@@ -515,6 +555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 63645,
+      "num": 63645,
+      "word": "武艺说编剧都编不出杨子的回答",
+      "onboard_time": 1728948438,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 61480,
       "num": 70589,
       "word": "赵牧辰刘雨璠断崖式be",
@@ -523,19 +571,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 58574,
-      "num": 110716,
+      "raw_hot": 59255,
+      "num": 126341,
       "word": "中方再曝光美政府伏特台风计划细节",
       "onboard_time": 1728938591,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 58469,
-      "num": 58469,
-      "word": "警方通报四川一中学学生死亡",
-      "onboard_time": 1728947236,
-      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -544,14 +584,6 @@
       "word": "黄友政回应全锦赛男单夺冠",
       "onboard_time": 1728943633,
       "rank": 48,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 56949,
-      "num": 56227,
-      "word": "倪夏莲60岁也活在爱里",
-      "onboard_time": 1728943934,
-      "rank": 41,
       "category": "体育"
     },
     {
