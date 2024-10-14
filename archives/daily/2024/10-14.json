@@ -1,6 +1,6 @@
 {
   "startTime": 1728836764624,
-  "endTime": 1728919448525,
+  "endTime": 1728920312059,
   "band_list": [
     {
       "raw_hot": 3312537,
@@ -331,6 +331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 964616,
+      "num": 200705,
+      "word": "杭州一女生夜晚被强行猥亵",
+      "onboard_time": 1728919162,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 962445,
       "num": 752956,
       "word": "村主任撞人致死赔650万后改判15年",
@@ -416,6 +424,14 @@
       "word": "外逃副市长李传良违法所得被申请没收",
       "onboard_time": 1728880041,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 843174,
+      "num": 1134907,
+      "word": "3人故意吃虫子让火锅店赔1500",
+      "onboard_time": 1728914842,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -531,14 +547,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 654169,
-      "num": 654169,
-      "word": "3人故意吃虫子让火锅店赔1500",
-      "onboard_time": 1728914842,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 650129,
       "num": 650129,
       "word": "孙燕姿官宣演唱会",
@@ -553,6 +561,14 @@
       "onboard_time": 1728865940,
       "rank": 12,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 640976,
+      "num": 640976,
+      "word": "双十一定金",
+      "onboard_time": 1728916463,
+      "rank": 36,
+      "category": "互联网"
     },
     {
       "raw_hot": 632255,
@@ -785,14 +801,6 @@
       "onboard_time": 1728867380,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 444123,
-      "num": 444123,
-      "word": "双十一定金",
-      "onboard_time": 1728916463,
-      "rank": 36,
-      "category": "互联网"
     },
     {
       "raw_hot": 438795,
@@ -1179,6 +1187,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 295435,
+      "num": 242501,
+      "word": "蔡磊最新病情",
+      "onboard_time": 1728918561,
+      "rank": 24,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 293368,
       "num": 718785,
       "word": "权志龙新歌power",
@@ -1451,12 +1467,12 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 242501,
-      "num": 242501,
-      "word": "蔡磊最新病情",
-      "onboard_time": 1728918561,
-      "rank": 24,
-      "category": "互联网"
+      "raw_hot": 241722,
+      "num": 200949,
+      "word": "王睡睡对老刘张硕说祝你们幸福",
+      "onboard_time": 1728919099,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 238711,
@@ -1467,20 +1483,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 236201,
-      "num": 200705,
-      "word": "杭州一女生夜晚被强行猥亵",
-      "onboard_time": 1728919162,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 232776,
       "num": 232776,
       "word": "老头乐冲卡上高速逆行遇车祸",
       "onboard_time": 1728891198,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 232675,
+      "num": 232675,
+      "word": "国考 没岗",
+      "onboard_time": 1728919880,
+      "rank": 8,
+      "category": "教育"
     },
     {
       "raw_hot": 230640,
@@ -1635,6 +1651,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 209114,
+      "num": 209114,
+      "word": "春花焰观后感",
+      "onboard_time": 1728917541,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 207699,
       "num": 207699,
       "word": "景德镇巨响",
@@ -1747,14 +1771,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 201037,
-      "num": 201037,
-      "word": "春花焰观后感",
-      "onboard_time": 1728917541,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 200479,
       "num": 287468,
       "word": "李沐宸哭戏",
@@ -1851,12 +1867,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 192134,
+      "num": 192134,
+      "word": "迈巴赫漏水车主再发声称对方敷衍",
+      "onboard_time": 1728919580,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 191148,
       "num": 191148,
       "word": "郑钦文决赛前吃了退烧药",
       "onboard_time": 1728833900,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 190823,
+      "num": 190823,
+      "word": "灯花笑 虞书欣",
+      "onboard_time": 1728919999,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 190317,
@@ -1923,14 +1955,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 182647,
-      "num": 200949,
-      "word": "王睡睡对老刘张硕说祝你们幸福",
-      "onboard_time": 1728919099,
-      "rank": 29,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 181556,
       "num": 181556,
       "word": "AG对战DRG",
@@ -1987,12 +2011,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 176132,
+      "num": 176132,
+      "word": "00后夫妻仅花百元购置结婚三件套",
+      "onboard_time": 1728919880,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 175022,
       "num": 387108,
       "word": "中公教育又被指不履行退款承诺",
       "onboard_time": 1728914782,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 174646,
+      "num": 174646,
+      "word": "吴谨言cp体质",
+      "onboard_time": 1728919340,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 173443,
@@ -2057,6 +2097,14 @@
       "onboard_time": 1728899058,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 162514,
+      "num": 211572,
+      "word": "美国海底窃听光缆真实图像",
+      "onboard_time": 1728919520,
+      "rank": 14,
+      "category": "国外时政"
     },
     {
       "raw_hot": 162046,
@@ -2203,6 +2251,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 147726,
+      "num": 212755,
+      "word": "成都警方通报河道男尸系溺亡",
+      "onboard_time": 1728919700,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 147616,
       "num": 147616,
       "word": "邪恶栀子花",
@@ -2227,14 +2283,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 142311,
-      "num": 148262,
-      "word": "吴谨言cp体质",
-      "onboard_time": 1728919340,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 141338,
       "num": 141338,
       "word": "wbg教练 响彻后台",
@@ -2251,12 +2299,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 139620,
+      "num": 191252,
+      "word": "用敌人听得懂的语言警告台独分子",
+      "onboard_time": 1728919820,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 137090,
       "num": 137090,
       "word": "流水线古偶",
       "onboard_time": 1728916103,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 134440,
+      "num": 134440,
+      "word": "宝妈用狗尾巴草给孩子点痣惊呆网友",
+      "onboard_time": 1728920301,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 131103,
@@ -2281,6 +2345,14 @@
       "onboard_time": 1728908238,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 128059,
+      "num": 128059,
+      "word": "国考选岗",
+      "onboard_time": 1728917122,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 122335,
@@ -2667,6 +2739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 50474,
+      "num": 243473,
+      "word": "vivoX200Promini",
+      "onboard_time": 1728916581,
+      "rank": 42,
+      "category": "数码"
+    },
+    {
       "raw_hot": 50382,
       "num": 925532,
       "word": "多条高铁线将于年底前开通运营",
@@ -2801,14 +2881,6 @@
       "onboard_time": 1728900500,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 44072,
-      "num": 243473,
-      "word": "vivoX200Promini",
-      "onboard_time": 1728916581,
-      "rank": 42,
-      "category": "数码"
     },
     {
       "raw_hot": 43239,
@@ -2995,6 +3067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 33652,
+      "num": 189391,
+      "word": "vivo灭霸再升级",
+      "onboard_time": 1728916581,
+      "rank": 41,
+      "category": "数码"
+    },
+    {
       "raw_hot": 33113,
       "num": 263294,
       "word": "周鸿祎称Magic7YOYO比Siri强太多",
@@ -3017,14 +3097,6 @@
       "onboard_time": 1728845293,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 30645,
-      "num": 185556,
-      "word": "vivo灭霸再升级",
-      "onboard_time": 1728916581,
-      "rank": 41,
-      "category": "数码"
     },
     {
       "raw_hot": 29399,
@@ -3067,6 +3139,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 24458,
+      "num": 255779,
+      "word": "老外靠手机无障碍打卡黑神话取景地",
+      "onboard_time": 1728918440,
+      "rank": 21,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 24125,
       "num": 26530,
       "word": "所谓社区维修服务中心暗藏陷阱",
@@ -3097,14 +3177,6 @@
       "onboard_time": 1728848171,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 22819,
-      "num": 255779,
-      "word": "老外靠手机无障碍打卡黑神话取景地",
-      "onboard_time": 1728918440,
-      "rank": 21,
-      "category": "游戏"
     },
     {
       "raw_hot": 22184,
@@ -3147,6 +3219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 17284,
+      "num": 185929,
+      "word": "呼兰先吃上了消费主义馅饼",
+      "onboard_time": 1728917841,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 16079,
       "num": 73508,
       "word": "文化中国行文博日历",
@@ -3161,14 +3241,6 @@
       "onboard_time": 1728847451,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 14111,
-      "num": 180866,
-      "word": "呼兰先吃上了消费主义馅饼",
-      "onboard_time": 1728917841,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 10294,

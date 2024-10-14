@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/10/01 00:28:17 ~ 2024/10/14 23:24:08
+本榜单时间：2024/10/01 00:28:17 ~ 2024/10/14 23:38:32
 </p>
 </blockquote>
 <p>
@@ -2361,6 +2361,12 @@ A股后续将迎第二波上涨行情（热度：964810）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E4%B8%80%E5%A5%B3%E7%94%9F%E5%A4%9C%E6%99%9A%E8%A2%AB%E5%BC%BA%E8%A1%8C%E7%8C%A5%E4%BA%B5%23" target="weibo">
+杭州一女生夜晚被强行猥亵（热度：964616）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8Evs%E8%8C%83%E6%80%9D%E7%90%A6%23" target="weibo">
 孙颖莎vs范思琦（热度：963036）
 </a>
@@ -2885,6 +2891,12 @@ Jennie小松菜奈同框（热度：844521）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B2%99%E6%BA%A2%E7%98%A6%E5%9B%9E%E7%99%BD%E5%B1%95%E5%A0%82%23" target="weibo">
 沙溢瘦回白展堂（热度：843602）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%233%E4%BA%BA%E6%95%85%E6%84%8F%E5%90%83%E8%99%AB%E5%AD%90%E8%AE%A9%E7%81%AB%E9%94%85%E5%BA%97%E8%B5%941500%23" target="weibo">
+3人故意吃虫子让火锅店赔1500（热度：843174）
 </a>
 </li>
 
@@ -4227,12 +4239,6 @@ Jessi发文道歉（热度：656438）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%233%E4%BA%BA%E6%95%85%E6%84%8F%E5%90%83%E8%99%AB%E5%AD%90%E8%AE%A9%E7%81%AB%E9%94%85%E5%BA%97%E8%B5%941500%23" target="weibo">
-3人故意吃虫子让火锅店赔1500（热度：654169）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%BB%8A%E9%BA%A6%E5%88%98%E6%B5%A9%E5%AD%98MIUMIU%E5%87%BA%E5%9B%BE%23" target="weibo">
 赵今麦刘浩存MIUMIU出图（热度：653812）
 </a>
@@ -4313,6 +4319,12 @@ B太回应曾夸东北雨姐真实（热度：649327）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%96%AF%E6%8B%89%E5%B8%82%E5%80%BC%E4%B8%80%E5%A4%9C%E8%92%B8%E5%8F%91%E8%B6%854700%E4%BA%BF%23" target="weibo">
 特斯拉市值一夜蒸发超4700亿（热度：642305）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%8C%E5%8D%81%E4%B8%80%E5%AE%9A%E9%87%91%23" target="weibo">
+双十一定金（热度：640976）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ MAMA提名（热度：496903）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E6%AF%85%20%E4%BC%AF%E5%B8%8C%E5%92%8C%23" target="weibo">
 成毅 伯希和（热度：491538）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%9C%E5%8C%97%E9%9B%A8%E5%A7%90%E7%BA%A2%E8%96%AF%E7%B2%89%E6%9D%A1%E6%B6%89%E5%AB%8C%E6%A0%87%E7%AD%BE%E8%99%9A%E5%81%87%E6%A0%87%E6%B3%A8%23" target="weibo">
-东北雨姐红薯粉条涉嫌标签虚假标注（热度：491316）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%96%87%E6%B3%B0%E4%B8%80%E8%A2%AB%E8%AD%A6%E6%96%B9%E7%AB%8B%E6%A1%88%E7%AC%AC%E4%BA%8C%E5%A4%A9%E7%94%9F%E6%97%A5%E7%9B%B4%E6%92%AD%23" target="weibo">
-文泰一被警方立案第二天生日直播（热度：490663）
 </a>
 </li>
 
