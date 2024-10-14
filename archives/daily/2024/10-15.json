@@ -1,6 +1,6 @@
 {
   "startTime": 1728923247369,
-  "endTime": 1728924274341,
+  "endTime": 1728926450291,
   "band_list": [
     {
       "raw_hot": 1644797,
@@ -275,6 +275,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 104995,
+      "num": 104995,
+      "word": "上海一养护院环境恶劣如同猪圈",
+      "onboard_time": 1728924197,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 104632,
       "num": 104632,
       "word": "女子遭丈夫家暴后死亡案将开庭",
@@ -347,6 +355,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 88612,
+      "num": 88612,
+      "word": "贵州贫困县豪砸2亿元建酒店烂尾",
+      "onboard_time": 1728923658,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 80927,
       "num": 90492,
       "word": "成何体统 丞磊王楚然",
@@ -361,14 +377,6 @@
       "onboard_time": 1728922578,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 79418,
-      "num": 79418,
-      "word": "贵州贫困县豪砸2亿元建酒店烂尾",
-      "onboard_time": 1728923658,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 78027,
@@ -387,12 +395,36 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 71000,
+      "num": 71000,
+      "word": "胖东来为何劝离直播的司马南",
+      "onboard_time": 1728920960,
+      "rank": 26,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 65132,
       "num": 134895,
       "word": "吴邦国同志生平",
       "onboard_time": 1728895170,
       "rank": 29,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 64934,
+      "num": 64934,
+      "word": "台湾4.1级地震",
+      "onboard_time": 1728914842,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 61614,
+      "num": 61614,
+      "word": "老师校内交通肇事致女童身亡",
+      "onboard_time": 1728925515,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 61480,
@@ -403,7 +435,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 30101,
+      "raw_hot": 51355,
       "num": 220789,
       "word": "买上百万元处方药竟从未出示处方",
       "onboard_time": 1728923357,
@@ -411,11 +443,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 25954,
-      "num": 88719,
-      "word": "上海一养护院环境恶劣如同猪圈",
-      "onboard_time": 1728924197,
-      "rank": 33,
+      "raw_hot": 45569,
+      "num": 51180,
+      "word": "蓦然回首",
+      "onboard_time": 1728922339,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 44599,
+      "num": 123399,
+      "word": "胖东来拒绝网红直播是以顾客为本",
+      "onboard_time": 1728925814,
+      "rank": 9,
       "category": "社会新闻"
     },
     {

@@ -1,6 +1,6 @@
 {
   "startTime": 1728750414717,
-  "endTime": 1728924274341,
+  "endTime": 1728926450291,
   "band_list": [
     {
       "raw_hot": 17915004,
@@ -4979,6 +4979,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 104995,
+      "num": 104995,
+      "word": "上海一养护院环境恶劣如同猪圈",
+      "onboard_time": 1728924197,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 104913,
       "num": 158727,
       "word": "七夜雪 剧情节奏",
@@ -5259,6 +5267,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 88612,
+      "num": 88612,
+      "word": "贵州贫困县豪砸2亿元建酒店烂尾",
+      "onboard_time": 1728923658,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 88394,
       "num": 621107,
       "word": "七夜雪 暧昧拉扯",
@@ -5355,14 +5371,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 79418,
-      "num": 79418,
-      "word": "贵州贫困县豪砸2亿元建酒店烂尾",
-      "onboard_time": 1728923658,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 78027,
       "num": 90444,
       "word": "国足生死战前称不惧怕任何对手",
@@ -5401,6 +5409,14 @@
       "onboard_time": 1728890597,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 71000,
+      "num": 71000,
+      "word": "胖东来为何劝离直播的司马南",
+      "onboard_time": 1728920960,
+      "rank": 26,
+      "category": "互联网"
     },
     {
       "raw_hot": 70686,
@@ -5521,6 +5537,14 @@
       "onboard_time": 1728740124,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 61614,
+      "num": 61614,
+      "word": "老师校内交通肇事致女童身亡",
+      "onboard_time": 1728925515,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 61525,
@@ -5649,6 +5673,14 @@
       "onboard_time": 1728762552,
       "rank": 37,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 51355,
+      "num": 220789,
+      "word": "买上百万元处方药竟从未出示处方",
+      "onboard_time": 1728923357,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 50799,
@@ -5835,12 +5867,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 45569,
+      "num": 51180,
+      "word": "蓦然回首",
+      "onboard_time": 1728922339,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 45193,
       "num": 241500,
       "word": "首部安兔兔跑分破300万的手机",
       "onboard_time": 1728909199,
       "rank": 37,
       "category": "数码"
+    },
+    {
+      "raw_hot": 44599,
+      "num": 123399,
+      "word": "胖东来拒绝网红直播是以顾客为本",
+      "onboard_time": 1728925814,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 44385,
@@ -6179,14 +6227,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 30101,
-      "num": 220789,
-      "word": "买上百万元处方药竟从未出示处方",
-      "onboard_time": 1728923357,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 29886,
       "num": 40991,
       "word": "一个真虎一个真是虎",
@@ -6241,14 +6281,6 @@
       "onboard_time": 1728889639,
       "rank": 19,
       "category": "情感"
-    },
-    {
-      "raw_hot": 25954,
-      "num": 88719,
-      "word": "上海一养护院环境恶劣如同猪圈",
-      "onboard_time": 1728924197,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 25855,
