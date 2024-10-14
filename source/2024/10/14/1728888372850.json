@@ -1,0 +1,410 @@
+{
+  "runTime": 1728888372850,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 76107,
+        "num": 1012177,
+        "word": "中国掌握了美政府黑客嫁祸他国的证据",
+        "onboard_time": 1728873559,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1208173,
+        "num": 996519,
+        "word": "台独顽固分子沈伯洋曹兴诚被惩戒",
+        "onboard_time": 1728883820,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 15305,
+        "num": 983486,
+        "word": "这个500多亿的大项目背后有深意",
+        "onboard_time": 1728863718,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1118010,
+        "num": 961682,
+        "word": "祖国完全统一一定会实现",
+        "onboard_time": 1728875300,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1041306,
+        "num": 937479,
+        "word": "解放军破晓出击现场画面",
+        "onboard_time": 1728885559,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 932838,
+        "num": 932838,
+        "word": "解放军抵近台岛演习夺取综合制权",
+        "onboard_time": 1728859935,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 760181,
+        "num": 760181,
+        "word": "女子注销号码未解绑网盘致照片泄露",
+        "onboard_time": 1728878959,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 692457,
+        "num": 758279,
+        "word": "向佐火到韩国",
+        "onboard_time": 1728883400,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 684587,
+        "num": 756477,
+        "word": "谢娜还是太超前了",
+        "onboard_time": 1728879981,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 463576,
+        "num": 755644,
+        "word": "解放军歼击机轰炸机跨海峡奔袭迫近台岛",
+        "onboard_time": 1728886278,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2048746,
+        "num": 752755,
+        "word": "关智斌舞台求婚阿Sa",
+        "onboard_time": 1728886520,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 994079,
+        "num": 749873,
+        "word": "掐脖吻",
+        "onboard_time": 1728883038,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 749723,
+        "num": 749723,
+        "word": "解放军围岛演习随时可以转为实战",
+        "onboard_time": 1728883159,
+        "rank": 12,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 733993,
+        "num": 733993,
+        "word": "解放军3次围岛行动示意图对比",
+        "onboard_time": 1728879139,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 703263,
+        "num": 703263,
+        "word": "台湾自古就是中国领土",
+        "onboard_time": 1728868877,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 618678,
+        "num": 618678,
+        "word": "萧敬腾爸爸催生",
+        "onboard_time": 1728884958,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 549666,
+        "num": 549666,
+        "word": "台独是死路一条",
+        "onboard_time": 1728863899,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 77694,
+        "num": 519037,
+        "word": "七夜雪 暧昧拉扯",
+        "onboard_time": 1728887179,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 399497,
+        "num": 510097,
+        "word": "朴灿烈模仿向佐摸鼻梁动作",
+        "onboard_time": 1728885739,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 509871,
+        "num": 509871,
+        "word": "为什么要进行联合利剑2024B演习",
+        "onboard_time": 1728870079,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 499332,
+        "num": 499332,
+        "word": "外逃副市长李传良违法所得被申请没收",
+        "onboard_time": 1728880041,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 496711,
+        "num": 496711,
+        "word": "韩国朝鲜",
+        "onboard_time": 1728866479,
+        "rank": 21,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 364130,
+        "num": 364130,
+        "word": "村主任故意撞人致死死者女儿发声",
+        "onboard_time": 1728884419,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 334912,
+        "num": 334912,
+        "word": "辽宁舰航母编队参加围岛演习",
+        "onboard_time": 1728883759,
+        "rank": 23,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 328175,
+        "num": 328175,
+        "word": "美国水蝮蛇窃密设备伪装成USB键盘",
+        "onboard_time": 1728886578,
+        "rank": 24,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 138076,
+        "num": 318786,
+        "word": "老赖为不还钱收入144万支出146万",
+        "onboard_time": 1728886458,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 312446,
+        "num": 312446,
+        "word": "贫困县砸2亿元建酒店烂尾有人接盘了",
+        "onboard_time": 1728885559,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252176,
+        "num": 311037,
+        "word": "赵牧辰到底喜欢谁",
+        "onboard_time": 1728886699,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 226087,
+        "num": 310547,
+        "word": "不玩大冰梗了",
+        "onboard_time": 1728881183,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 203488,
+        "num": 310509,
+        "word": "K总停播",
+        "onboard_time": 1728871878,
+        "rank": 29,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 310507,
+        "num": 310507,
+        "word": "邯郸一村庄2人被人杀害",
+        "onboard_time": 1728885977,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 283670,
+        "num": 283670,
+        "word": "伊能静谈与刘亦菲友情",
+        "onboard_time": 1728885378,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 283167,
+        "num": 283167,
+        "word": "第五人格 chiha",
+        "onboard_time": 1728884659,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 282709,
+        "num": 282709,
+        "word": "有人来接育儿嫂才知自己是备胎",
+        "onboard_time": 1728884360,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 265089,
+        "num": 265089,
+        "word": "胖东来回应拒绝司马南直播",
+        "onboard_time": 1728884301,
+        "rank": 34,
+        "category": "互联网,艺人"
+      },
+      {
+        "raw_hot": 249640,
+        "num": 249640,
+        "word": "林高远刘诗雯搭档混双",
+        "onboard_time": 1728883998,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 93709,
+        "num": 230667,
+        "word": "A股三大股指均涨逾2%",
+        "onboard_time": 1728886218,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229862,
+        "num": 229862,
+        "word": "国考岗位表",
+        "onboard_time": 1728874638,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 227379,
+        "num": 227379,
+        "word": "印度女子不满女儿恋情雇凶杀女遭反杀",
+        "onboard_time": 1728875419,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213402,
+        "num": 213402,
+        "word": "村主任撞人致死赔650万后改判15年",
+        "onboard_time": 1728887479,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206068,
+        "num": 206068,
+        "word": "王者周年庆送传说皮肤",
+        "onboard_time": 1728884301,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 204563,
+        "num": 204563,
+        "word": "东部战区为什么于凌晨夜间发起演习",
+        "onboard_time": 1728866721,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 43201,
+        "num": 203666,
+        "word": "今晚8点脱口秀圈是来京东团建吗",
+        "onboard_time": 1728888139,
+        "rank": 42,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 203607,
+        "num": 203607,
+        "word": "我海警实现台湾靠大陆侧外岛全控",
+        "onboard_time": 1728883759,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 199765,
+        "num": 199765,
+        "word": "美国无差别监听全球互联网用户",
+        "onboard_time": 1728874999,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 199130,
+        "num": 199130,
+        "word": "联合利剑2024B演习",
+        "onboard_time": 1728873618,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 185274,
+        "num": 185274,
+        "word": "国考公告",
+        "onboard_time": 1728871758,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 181479,
+        "num": 181479,
+        "word": "药水哥近况",
+        "onboard_time": 1728870500,
+        "rank": 47,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 180832,
+        "num": 180832,
+        "word": "美国一网络恶意武器被中国曝光",
+        "onboard_time": 1728872598,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 169816,
+        "num": 169816,
+        "word": "东部战区七言绝句正告台独",
+        "onboard_time": 1728888259,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#为了友谊这件大事跨越山海#"
+    }
+  }
+}
