@@ -1,6 +1,6 @@
 {
   "startTime": 1728923247369,
-  "endTime": 1728934533019,
+  "endTime": 1728937480723,
   "band_list": [
     {
       "raw_hot": 1644797,
@@ -499,6 +499,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 31162,
+      "num": 31162,
+      "word": "中国海警出动6个编队巡航管控",
+      "onboard_time": 1728934751,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 27449,
       "num": 28619,
       "word": "刀郎演唱会",
@@ -513,6 +521,14 @@
       "onboard_time": 1728930972,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 25524,
+      "num": 37072,
+      "word": "朝称美国应为无人机渗透至平壤负责",
+      "onboard_time": 1728932772,
+      "rank": 19,
+      "category": "国外时政"
     },
     {
       "raw_hot": 21475,
@@ -531,18 +547,42 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 19417,
-      "num": 37072,
-      "word": "朝称美国应为无人机渗透至平壤负责",
-      "onboard_time": 1728932772,
-      "rank": 19,
-      "category": "国外时政"
+      "raw_hot": 20322,
+      "num": 20322,
+      "word": "美术生就业新方向",
+      "onboard_time": 1728934631,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 18320,
+      "num": 19247,
+      "word": "听泉鉴宝究竟是剧本还是真有其事",
+      "onboard_time": 1728936791,
+      "rank": 47,
+      "category": "网红"
     },
     {
       "raw_hot": 18217,
       "num": 20849,
       "word": "曾舜晞现场挖元一宫墙角",
       "onboard_time": 1728934450,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 15882,
+      "num": 41406,
+      "word": "我国前三个季度进出口均超10万亿元",
+      "onboard_time": 1728932712,
+      "rank": 9,
+      "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 15784,
+      "num": 19241,
+      "word": "黑色月光",
+      "onboard_time": 1728937450,
       "rank": 49,
       "category": "剧集"
     },
@@ -563,12 +603,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 13625,
-      "num": 41406,
-      "word": "我国前三个季度进出口均超10万亿元",
-      "onboard_time": 1728932712,
+      "raw_hot": 10741,
+      "num": 37726,
+      "word": "举报违规使用医保基金最高奖励20万",
+      "onboard_time": 1728936611,
       "rank": 9,
-      "category": "社会新闻,财经"
+      "category": "社会新闻"
     },
     {
       "raw_hot": 10559,
