@@ -1,6 +1,6 @@
 {
   "startTime": 1728836764624,
-  "endTime": 1728888372850,
+  "endTime": 1728890712214,
   "band_list": [
     {
       "raw_hot": 3312537,
@@ -80,6 +80,14 @@
       "word": "台湾自古就是中国领土",
       "onboard_time": 1728868877,
       "rank": 3,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 1623161,
+      "num": 988684,
+      "word": "解放军歼击机轰炸机跨海峡奔袭迫近台岛",
+      "onboard_time": 1728886278,
+      "rank": 31,
       "category": "国内时政"
     },
     {
@@ -211,6 +219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1164522,
+      "num": 730905,
+      "word": "鸡西原副市长李传良被查封1021处房产",
+      "onboard_time": 1728888919,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1089422,
       "num": 1277723,
       "word": "K总停播",
@@ -323,6 +339,14 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 803965,
+      "num": 803965,
+      "word": "美国水蝮蛇窃密设备伪装成USB键盘",
+      "onboard_time": 1728886578,
+      "rank": 39,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 760734,
       "num": 1012733,
       "word": "联合利剑2024B演习",
@@ -377,6 +401,14 @@
       "onboard_time": 1728867501,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 566171,
+      "num": 566171,
+      "word": "孕妇喝冰箱剩牛奶感染李斯特菌胎死腹中",
+      "onboard_time": 1728889518,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 541854,
@@ -451,6 +483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 465042,
+      "num": 580033,
+      "word": "范晓萱胖了好多",
+      "onboard_time": 1728886758,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 464147,
       "num": 628943,
       "word": "朴灿烈模仿向佐摸鼻梁动作",
@@ -465,14 +505,6 @@
       "onboard_time": 1728819621,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 463576,
-      "num": 755644,
-      "word": "解放军歼击机轰炸机跨海峡奔袭迫近台岛",
-      "onboard_time": 1728886278,
-      "rank": 31,
-      "category": "国内时政"
     },
     {
       "raw_hot": 448567,
@@ -531,6 +563,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 402660,
+      "num": 402660,
+      "word": "小胖又在指导樊振东",
+      "onboard_time": 1728889459,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 396177,
       "num": 396177,
       "word": "樊振东全锦赛适应场地训练",
@@ -579,6 +619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 351671,
+      "num": 351671,
+      "word": "王楚钦时尚COSMO11月刊大片",
+      "onboard_time": 1728890538,
+      "rank": 35,
+      "category": "体育,网红"
+    },
+    {
       "raw_hot": 349583,
       "num": 349583,
       "word": "S14八强抽签",
@@ -603,6 +651,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 339756,
+      "num": 572218,
+      "word": "成毅将主演长安二十四计",
+      "onboard_time": 1728888378,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 337310,
       "num": 535101,
       "word": "任敏 我的互联网新妹宝",
@@ -612,7 +668,7 @@
     },
     {
       "raw_hot": 334912,
-      "num": 334912,
+      "num": 484674,
       "word": "辽宁舰航母编队参加围岛演习",
       "onboard_time": 1728883759,
       "rank": 38,
@@ -635,12 +691,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 328175,
-      "num": 328175,
-      "word": "美国水蝮蛇窃密设备伪装成USB键盘",
-      "onboard_time": 1728886578,
-      "rank": 39,
-      "category": "国外时政"
+      "raw_hot": 329235,
+      "num": 329235,
+      "word": "贫困县砸2亿元建酒店烂尾有人接盘了",
+      "onboard_time": 1728885559,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 328799,
+      "num": 328799,
+      "word": "村主任撞人致死赔650万后改判15年",
+      "onboard_time": 1728887479,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 322141,
@@ -665,14 +729,6 @@
       "onboard_time": 1728884301,
       "rank": 31,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 312446,
-      "num": 319582,
-      "word": "贫困县砸2亿元建酒店烂尾有人接盘了",
-      "onboard_time": 1728885559,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 310458,
@@ -763,8 +819,16 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 283167,
-      "num": 283167,
+      "raw_hot": 285213,
+      "num": 779052,
+      "word": "老赖为不还钱收入144万支出146万",
+      "onboard_time": 1728886458,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 284957,
+      "num": 284957,
       "word": "第五人格 chiha",
       "onboard_time": 1728884659,
       "rank": 35,
@@ -777,6 +841,14 @@
       "onboard_time": 1728827904,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 280134,
+      "num": 1044821,
+      "word": "美国政府网络窃密步骤被曝光",
+      "onboard_time": 1728888378,
+      "rank": 0,
+      "category": "国内时政"
     },
     {
       "raw_hot": 279868,
@@ -852,7 +924,7 @@
     },
     {
       "raw_hot": 252176,
-      "num": 320391,
+      "num": 464988,
       "word": "赵牧辰到底喜欢谁",
       "onboard_time": 1728886699,
       "rank": 29,
@@ -899,20 +971,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 217699,
+      "num": 217699,
+      "word": "射击队李越宏在印度细菌感染",
+      "onboard_time": 1728890478,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 214089,
       "num": 481720,
       "word": "听泉鉴宝称互联网身份是网友给的",
       "onboard_time": 1728878480,
       "rank": 27,
       "category": "网红"
-    },
-    {
-      "raw_hot": 213402,
-      "num": 213402,
-      "word": "村主任撞人致死赔650万后改判15年",
-      "onboard_time": 1728887479,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 212876,
@@ -1067,12 +1139,28 @@
       "category": "军事"
     },
     {
+      "raw_hot": 194060,
+      "num": 194060,
+      "word": "东部战区演习现场画面",
+      "onboard_time": 1728888739,
+      "rank": 45,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 192419,
       "num": 279847,
       "word": "微博视界大会",
       "onboard_time": 1728869718,
       "rank": 29,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 192334,
+      "num": 192334,
+      "word": "美妆券",
+      "onboard_time": 1728887839,
+      "rank": 46,
+      "category": "美妆"
     },
     {
       "raw_hot": 191148,
@@ -1275,12 +1363,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 138076,
-      "num": 779052,
-      "word": "老赖为不还钱收入144万支出146万",
-      "onboard_time": 1728886458,
-      "rank": 14,
-      "category": "社会新闻"
+      "raw_hot": 140388,
+      "num": 403911,
+      "word": "翁青雅彭高甜度",
+      "onboard_time": 1728889697,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 131103,
@@ -1507,20 +1595,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 50651,
+      "num": 760684,
+      "word": "5年来直播带货投诉量暴增超47倍",
+      "onboard_time": 1728889039,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 50111,
       "num": 278768,
       "word": "涉诈骗女子在泰被抓多名受害者发声",
       "onboard_time": 1728840733,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 49899,
-      "num": 580033,
-      "word": "范晓萱胖了好多",
-      "onboard_time": 1728886758,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 49442,
@@ -1556,7 +1644,7 @@
     },
     {
       "raw_hot": 43201,
-      "num": 203666,
+      "num": 464812,
       "word": "今晚8点脱口秀圈是来京东团建吗",
       "onboard_time": 1728888139,
       "rank": 42,
@@ -1587,12 +1675,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 37563,
+      "num": 313555,
+      "word": "企业虚标大米保质期卖学校被罚超690万",
+      "onboard_time": 1728888677,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 37399,
       "num": 201342,
       "word": "直击南部战区快艇编队实战化演练",
       "onboard_time": 1728839474,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 37140,
+      "num": 566786,
+      "word": "大冰聊装修",
+      "onboard_time": 1728890597,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 37126,
@@ -1657,6 +1761,14 @@
       "onboard_time": 1728854591,
       "rank": 19,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 26760,
+      "num": 566219,
+      "word": "当代男性消费观",
+      "onboard_time": 1728889639,
+      "rank": 19,
+      "category": "情感"
     },
     {
       "raw_hot": 26135,
@@ -1753,6 +1865,14 @@
       "onboard_time": 1728847451,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 13384,
+      "num": 464851,
+      "word": "多型战机挂弹出击直达台岛周边",
+      "onboard_time": 1728890538,
+      "rank": 28,
+      "category": "军事"
     },
     {
       "raw_hot": 10294,
