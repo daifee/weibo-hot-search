@@ -1,6 +1,6 @@
 {
   "startTime": 1728750414717,
-  "endTime": 1728938277315,
+  "endTime": 1728940855478,
   "band_list": [
     {
       "raw_hot": 17915004,
@@ -6347,11 +6347,27 @@
       "category": "情感"
     },
     {
+      "raw_hot": 26746,
+      "num": 26746,
+      "word": "听泉鉴宝究竟是剧本还是真有其事",
+      "onboard_time": 1728936791,
+      "rank": 47,
+      "category": "网红"
+    },
+    {
       "raw_hot": 25855,
       "num": 208155,
       "word": "这趟开往秋天童话的列车已出发",
       "onboard_time": 1728879260,
       "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 25614,
+      "num": 25614,
+      "word": "中方再曝光美政府伏特台风计划细节",
+      "onboard_time": 1728938591,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -6369,6 +6385,14 @@
       "onboard_time": 1728858313,
       "rank": 49,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 24959,
+      "num": 38476,
+      "word": "黑色月光",
+      "onboard_time": 1728937450,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 24458,
@@ -6459,14 +6483,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 21690,
-      "num": 24489,
-      "word": "听泉鉴宝究竟是剧本还是真有其事",
-      "onboard_time": 1728936791,
-      "rank": 47,
-      "category": "网红"
-    },
-    {
       "raw_hot": 21475,
       "num": 44870,
       "word": "海军版山河图变装太燃了",
@@ -6547,6 +6563,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 18226,
+      "num": 18226,
+      "word": "作协主席被曝酒后闹事辱骂酒店前台",
+      "onboard_time": 1728940391,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 18224,
+      "num": 35725,
+      "word": "吴邦国同志永垂不朽",
+      "onboard_time": 1728937510,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 18217,
       "num": 20849,
       "word": "曾舜晞现场挖元一宫墙角",
@@ -6563,14 +6595,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 17506,
-      "num": 19324,
-      "word": "黑色月光",
-      "onboard_time": 1728937450,
-      "rank": 49,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 17284,
       "num": 185929,
       "word": "呼兰先吃上了消费主义馅饼",
@@ -6585,6 +6609,14 @@
       "onboard_time": 1728826521,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 16186,
+      "num": 38399,
+      "word": "美网络武器设置了嫁祸功能",
+      "onboard_time": 1728939551,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 16079,
@@ -6625,14 +6657,6 @@
       "onboard_time": 1728847451,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 13645,
-      "num": 35725,
-      "word": "吴邦国同志永垂不朽",
-      "onboard_time": 1728937510,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 12597,

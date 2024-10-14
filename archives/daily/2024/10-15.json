@@ -1,6 +1,6 @@
 {
   "startTime": 1728923247369,
-  "endTime": 1728938277315,
+  "endTime": 1728940855478,
   "band_list": [
     {
       "raw_hot": 1644797,
@@ -523,6 +523,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 26746,
+      "num": 26746,
+      "word": "听泉鉴宝究竟是剧本还是真有其事",
+      "onboard_time": 1728936791,
+      "rank": 47,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 25614,
+      "num": 25614,
+      "word": "中方再曝光美政府伏特台风计划细节",
+      "onboard_time": 1728938591,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 25524,
       "num": 37072,
       "word": "朝称美国应为无人机渗透至平壤负责",
@@ -531,20 +547,20 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 24959,
+      "num": 38476,
+      "word": "黑色月光",
+      "onboard_time": 1728937450,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 23479,
       "num": 23479,
       "word": "美术生就业新方向",
       "onboard_time": 1728934631,
       "rank": 40,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 21690,
-      "num": 24489,
-      "word": "听泉鉴宝究竟是剧本还是真有其事",
-      "onboard_time": 1728936791,
-      "rank": 47,
-      "category": "网红"
     },
     {
       "raw_hot": 21475,
@@ -571,6 +587,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 18226,
+      "num": 18226,
+      "word": "作协主席被曝酒后闹事辱骂酒店前台",
+      "onboard_time": 1728940391,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 18224,
+      "num": 35725,
+      "word": "吴邦国同志永垂不朽",
+      "onboard_time": 1728937510,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 18217,
       "num": 20849,
       "word": "曾舜晞现场挖元一宫墙角",
@@ -579,12 +611,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 17506,
-      "num": 19324,
-      "word": "黑色月光",
-      "onboard_time": 1728937450,
-      "rank": 49,
-      "category": "剧集"
+      "raw_hot": 16186,
+      "num": 38399,
+      "word": "美网络武器设置了嫁祸功能",
+      "onboard_time": 1728939551,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 15882,
@@ -609,14 +641,6 @@
       "onboard_time": 1728913460,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 13645,
-      "num": 35725,
-      "word": "吴邦国同志永垂不朽",
-      "onboard_time": 1728937510,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 10559,
