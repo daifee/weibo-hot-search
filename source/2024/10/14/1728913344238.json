@@ -1,0 +1,410 @@
+{
+  "runTime": 1728913344238,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 213281,
+        "num": 1034125,
+        "word": "敦促美方立即停止全球范围内网络攻击",
+        "onboard_time": 1728898700,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 842093,
+        "num": 842093,
+        "word": "张馨予回应我想我会一直孤单",
+        "onboard_time": 1728909199,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 3394,
+        "num": 746408,
+        "word": "中国掌握了美政府黑客嫁祸他国的证据",
+        "onboard_time": 1728873559,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 711808,
+        "num": 711808,
+        "word": "疾控部门回应广东蟑螂已进化",
+        "onboard_time": 1728907638,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 387108,
+        "num": 387108,
+        "word": "吴邦国同志生平",
+        "onboard_time": 1728895170,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 347474,
+        "num": 347474,
+        "word": "孙燕姿官宣演唱会",
+        "onboard_time": 1728902239,
+        "rank": 5,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 328638,
+        "num": 328638,
+        "word": "vivoX200价格",
+        "onboard_time": 1728911242,
+        "rank": 6,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 257562,
+        "num": 257562,
+        "word": "淮南牛肉汤",
+        "onboard_time": 1728904878,
+        "rank": 7,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 256204,
+        "num": 256204,
+        "word": "成何体统 丞磊王楚然",
+        "onboard_time": 1728909019,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 65174,
+        "num": 256068,
+        "word": "给你发裸照的女主播可能是抠脚大汉",
+        "onboard_time": 1728912500,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2303119,
+        "num": 255761,
+        "word": "王一珩 抄袭",
+        "onboard_time": 1728910641,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 49055,
+        "num": 255508,
+        "word": "vivo拍下的山河辽阔烟火寻常",
+        "onboard_time": 1728909199,
+        "rank": 11,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 15791,
+        "num": 255350,
+        "word": "多条高铁线将于年底前开通运营",
+        "onboard_time": 1728893478,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1183171,
+        "num": 255077,
+        "word": "台湾当归",
+        "onboard_time": 1728905958,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 46980,
+        "num": 254840,
+        "word": "女子遭丈夫家暴后死亡案将开庭",
+        "onboard_time": 1728912500,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 833986,
+        "num": 254523,
+        "word": "首次将封锁台湾摆在台面",
+        "onboard_time": 1728894379,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 672874,
+        "num": 254315,
+        "word": "解放军破晓出击现场画面",
+        "onboard_time": 1728885559,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 655342,
+        "num": 254033,
+        "word": "杜华 你不火还怪我又不是我不火",
+        "onboard_time": 1728904878,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 329734,
+        "num": 253886,
+        "word": "李维嘉曾说何炅的缺点是爱夸赞食物",
+        "onboard_time": 1728912081,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 53716,
+        "num": 253558,
+        "word": "女子花500元找男大学生陪爬泰山",
+        "onboard_time": 1728912983,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 490549,
+        "num": 253462,
+        "word": "朝鲜射击指示",
+        "onboard_time": 1728895170,
+        "rank": 20,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 403463,
+        "num": 252974,
+        "word": "颜如晶半年瘦了50斤",
+        "onboard_time": 1728897680,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 252971,
+        "num": 252971,
+        "word": "预制孕照",
+        "onboard_time": 1728904999,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 250364,
+        "num": 250364,
+        "word": "警方回应成都一河道疑发现浮尸",
+        "onboard_time": 1728908178,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250175,
+        "num": 250175,
+        "word": "孕妇喝冰箱剩牛奶感染李斯特菌胎死腹中",
+        "onboard_time": 1728889518,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46594,
+        "num": 248712,
+        "word": "双11首金人",
+        "onboard_time": 1728911841,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 47539,
+        "num": 248309,
+        "word": "vivo走出国产芯片技术第三条路",
+        "onboard_time": 1728909199,
+        "rank": 26,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 248103,
+        "num": 248103,
+        "word": "国产短剧已经疯了",
+        "onboard_time": 1728892219,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 228281,
+        "num": 228281,
+        "word": "vivoX200",
+        "onboard_time": 1728907879,
+        "rank": 28,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 219896,
+        "num": 219896,
+        "word": "郑秀妍郑秀晶黄礼志申有娜新闻图",
+        "onboard_time": 1728903438,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 363327,
+        "num": 217973,
+        "word": "台独挑衅一日不止大陆反制就一刻不停",
+        "onboard_time": 1728906858,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 214859,
+        "num": 214859,
+        "word": "韩国一特斯拉起火司机困后座被烧死",
+        "onboard_time": 1728907758,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 43976,
+        "num": 214754,
+        "word": "vivo全球首发公里级无网通信",
+        "onboard_time": 1728912983,
+        "rank": 32,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 43239,
+        "num": 211444,
+        "word": "国产手机电池技术有多领先",
+        "onboard_time": 1728907939,
+        "rank": 33,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 31111,
+        "num": 210773,
+        "word": "vivoX200超级长焦7大行业领先",
+        "onboard_time": 1728912801,
+        "rank": 34,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 42593,
+        "num": 209341,
+        "word": "长焦镜头里的中国",
+        "onboard_time": 1728913041,
+        "rank": 35,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 33085,
+        "num": 207453,
+        "word": "X200小直屏颜值党天菜",
+        "onboard_time": 1728913041,
+        "rank": 36,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 199128,
+        "num": 204301,
+        "word": "黄友政全锦赛男单冠军",
+        "onboard_time": 1728909559,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 198710,
+        "num": 202643,
+        "word": "赵牧辰刘雨璠断崖式be",
+        "onboard_time": 1728904159,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100555,
+        "num": 201901,
+        "word": "七夜雪全员跳初雪",
+        "onboard_time": 1728904579,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 200390,
+        "num": 200390,
+        "word": "大熊猫彻夜待树上思考熊生",
+        "onboard_time": 1728911660,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 40177,
+        "num": 194414,
+        "word": "首部安兔兔跑分破300万的手机",
+        "onboard_time": 1728909199,
+        "rank": 41,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 193669,
+        "num": 193669,
+        "word": "72岁李银河称从未后悔选择丁克",
+        "onboard_time": 1728908478,
+        "rank": 42,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 39629,
+        "num": 193627,
+        "word": "网友提意见vivo是真改啊",
+        "onboard_time": 1728913041,
+        "rank": 43,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 193625,
+        "num": 193625,
+        "word": "叶诗文骨折",
+        "onboard_time": 1728911950,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 178770,
+        "num": 178770,
+        "word": "炒股4天亏32万程序员回应",
+        "onboard_time": 1728902300,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164598,
+        "num": 164598,
+        "word": "云南阿奎离世前直播称实在熬不住了",
+        "onboard_time": 1728900378,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163289,
+        "num": 163289,
+        "word": "微博会员50一年",
+        "onboard_time": 1728909919,
+        "rank": 47,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 153812,
+        "num": 153812,
+        "word": "王大伟受贿5.55亿元被判死缓",
+        "onboard_time": 1728898938,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 60428,
+        "num": 150397,
+        "word": "天猫人均万元消费券今日发放",
+        "onboard_time": 1728908178,
+        "rank": 49,
+        "category": "互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同印度尼西亚总统佐科通电话#"
+    }
+  }
+}

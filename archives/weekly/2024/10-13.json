@@ -1,6 +1,6 @@
 {
   "startTime": 1728750414717,
-  "endTime": 1728912638044,
+  "endTime": 1728913344238,
   "band_list": [
     {
       "raw_hot": 17915004,
@@ -107,6 +107,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 2303119,
+      "num": 317883,
+      "word": "王一珩 抄袭",
+      "onboard_time": 1728910641,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2294946,
       "num": 1613961,
       "word": "解放军3次围岛行动示意图对比",
@@ -121,14 +129,6 @@
       "onboard_time": 1728819021,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 2258652,
-      "num": 317883,
-      "word": "王一珩 抄袭",
-      "onboard_time": 1728910641,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 2121257,
@@ -1803,6 +1803,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 329734,
+      "num": 296888,
+      "word": "李维嘉曾说何炅的缺点是爱夸赞食物",
+      "onboard_time": 1728912081,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 329235,
       "num": 329235,
       "word": "贫困县砸2亿元建酒店烂尾有人接盘了",
@@ -1817,6 +1825,14 @@
       "onboard_time": 1728897559,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 328638,
+      "num": 328638,
+      "word": "vivoX200价格",
+      "onboard_time": 1728911242,
+      "rank": 21,
+      "category": "数码"
     },
     {
       "raw_hot": 326318,
@@ -1841,14 +1857,6 @@
       "onboard_time": 1728798139,
       "rank": 12,
       "category": "体育"
-    },
-    {
-      "raw_hot": 320293,
-      "num": 287934,
-      "word": "vivoX200价格",
-      "onboard_time": 1728911242,
-      "rank": 21,
-      "category": "数码"
     },
     {
       "raw_hot": 317715,
@@ -2347,14 +2355,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 246417,
-      "num": 296888,
-      "word": "李维嘉曾说何炅的缺点是爱夸赞食物",
-      "onboard_time": 1728912081,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 245254,
       "num": 245254,
       "word": "奎八 珉佑",
@@ -2659,6 +2659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 214859,
+      "num": 214859,
+      "word": "韩国一特斯拉起火司机困后座被烧死",
+      "onboard_time": 1728907758,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 214654,
       "num": 214654,
       "word": "郑钦文二度破发",
@@ -2955,11 +2963,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 200402,
-      "num": 200402,
-      "word": "韩国一特斯拉起火司机困后座被烧死",
-      "onboard_time": 1728907758,
-      "rank": 41,
+      "raw_hot": 200390,
+      "num": 323947,
+      "word": "大熊猫彻夜待树上思考熊生",
+      "onboard_time": 1728911660,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -3113,6 +3121,14 @@
       "onboard_time": 1728888739,
       "rank": 45,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 193625,
+      "num": 193625,
+      "word": "叶诗文骨折",
+      "onboard_time": 1728911950,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 193152,
@@ -3424,14 +3440,6 @@
       "word": "陈幸同蒯曼0比3大藤沙月横井咲樱",
       "onboard_time": 1728798739,
       "rank": 42,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 177942,
-      "num": 177942,
-      "word": "叶诗文骨折",
-      "onboard_time": 1728911950,
-      "rank": 41,
       "category": "体育"
     },
     {
@@ -4667,14 +4675,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 103158,
-      "num": 323947,
-      "word": "大熊猫彻夜待树上思考熊生",
-      "onboard_time": 1728911660,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 103083,
       "num": 103083,
       "word": "洱海之源秋景如画",
@@ -5099,6 +5099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 65174,
+      "num": 319475,
+      "word": "给你发裸照的女主播可能是抠脚大汉",
+      "onboard_time": 1728912500,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 64014,
       "num": 367964,
       "word": "花千元找一日男友的年轻人开始维权",
@@ -5251,6 +5259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 53716,
+      "num": 253558,
+      "word": "女子花500元找男大学生陪爬泰山",
+      "onboard_time": 1728912983,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 53339,
       "num": 78447,
       "word": "苏新皓首个推荐值破100w的剧综人物",
@@ -5371,6 +5387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 47539,
+      "num": 347972,
+      "word": "vivo走出国产芯片技术第三条路",
+      "onboard_time": 1728909199,
+      "rank": 29,
+      "category": "数码"
+    },
+    {
       "raw_hot": 47229,
       "num": 356651,
       "word": "东部战区发布枕戈待旦组合海报",
@@ -5379,19 +5403,19 @@
       "category": "军事"
     },
     {
+      "raw_hot": 46980,
+      "num": 306083,
+      "word": "女子遭丈夫家暴后死亡案将开庭",
+      "onboard_time": 1728912500,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 46307,
       "num": 571479,
       "word": "vivo蓝科技国家科学技术进步奖",
       "onboard_time": 1728903858,
       "rank": 26,
-      "category": "数码"
-    },
-    {
-      "raw_hot": 45895,
-      "num": 347972,
-      "word": "vivo走出国产芯片技术第三条路",
-      "onboard_time": 1728909199,
-      "rank": 29,
       "category": "数码"
     },
     {
@@ -5443,20 +5467,28 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 43976,
+      "num": 214754,
+      "word": "vivo全球首发公里级无网通信",
+      "onboard_time": 1728912983,
+      "rank": 32,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 43239,
+      "num": 467788,
+      "word": "国产手机电池技术有多领先",
+      "onboard_time": 1728907939,
+      "rank": 15,
+      "category": "数码"
+    },
+    {
       "raw_hot": 43201,
       "num": 551044,
       "word": "今晚8点脱口秀圈是来京东团建吗",
       "onboard_time": 1728888139,
       "rank": 42,
       "category": "互联网,社会新闻"
-    },
-    {
-      "raw_hot": 43184,
-      "num": 467788,
-      "word": "国产手机电池技术有多领先",
-      "onboard_time": 1728907939,
-      "rank": 15,
-      "category": "数码"
     },
     {
       "raw_hot": 43043,
@@ -5481,6 +5513,14 @@
       "onboard_time": 1728898578,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 42593,
+      "num": 209341,
+      "word": "长焦镜头里的中国",
+      "onboard_time": 1728913041,
+      "rank": 35,
+      "category": "旅游"
     },
     {
       "raw_hot": 42454,
@@ -5529,6 +5569,14 @@
       "onboard_time": 1728893658,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 39629,
+      "num": 193627,
+      "word": "网友提意见vivo是真改啊",
+      "onboard_time": 1728913041,
+      "rank": 43,
+      "category": "数码"
     },
     {
       "raw_hot": 38471,
@@ -5691,6 +5739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 33085,
+      "num": 207453,
+      "word": "X200小直屏颜值党天菜",
+      "onboard_time": 1728913041,
+      "rank": 36,
+      "category": "数码"
+    },
+    {
       "raw_hot": 32984,
       "num": 1193593,
       "word": "哪些民生领域这次被国家钱袋子眷顾",
@@ -5705,6 +5761,14 @@
       "onboard_time": 1728807258,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 31111,
+      "num": 210773,
+      "word": "vivoX200超级长焦7大行业领先",
+      "onboard_time": 1728912801,
+      "rank": 34,
+      "category": "数码"
     },
     {
       "raw_hot": 30725,
@@ -5729,14 +5793,6 @@
       "onboard_time": 1728854591,
       "rank": 19,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 29242,
-      "num": 319475,
-      "word": "给你发裸照的女主播可能是抠脚大汉",
-      "onboard_time": 1728912500,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 28287,
@@ -6008,14 +6064,6 @@
       "word": "2024年全国数字乡村创新大赛",
       "onboard_time": 1728735319,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 8858,
-      "num": 306083,
-      "word": "女子遭丈夫家暴后死亡案将开庭",
-      "onboard_time": 1728912500,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
