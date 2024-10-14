@@ -1,6 +1,6 @@
 {
   "startTime": 1728750414717,
-  "endTime": 1728941749798,
+  "endTime": 1728944555222,
   "band_list": [
     {
       "raw_hot": 17915004,
@@ -3531,6 +3531,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 187139,
+      "num": 72742,
+      "word": "老师校内交通肇事致女童身亡",
+      "onboard_time": 1728925515,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 187029,
       "num": 187029,
       "word": "S14",
@@ -3705,6 +3713,14 @@
       "onboard_time": 1728876559,
       "rank": 47,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 176237,
+      "num": 378267,
+      "word": "千万主播学历造假频繁发生",
+      "onboard_time": 1728927794,
+      "rank": 4,
+      "category": "社会议题"
     },
     {
       "raw_hot": 176136,
@@ -4171,6 +4187,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 150373,
+      "num": 359085,
+      "word": "22个纸箱装钱压得车上不了地库斜坡",
+      "onboard_time": 1728920960,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 150348,
       "num": 150348,
       "word": "你的房贷还完了吗",
@@ -4193,14 +4217,6 @@
       "onboard_time": 1728869179,
       "rank": 45,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 149474,
-      "num": 359085,
-      "word": "22个纸箱装钱压得车上不了地库斜坡",
-      "onboard_time": 1728920960,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 148907,
@@ -4305,14 +4321,6 @@
       "onboard_time": 1728821659,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 144951,
-      "num": 171616,
-      "word": "千万主播学历造假频繁发生",
-      "onboard_time": 1728927794,
-      "rank": 4,
-      "category": "社会议题"
     },
     {
       "raw_hot": 144863,
@@ -5419,14 +5427,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 72742,
-      "num": 72742,
-      "word": "老师校内交通肇事致女童身亡",
-      "onboard_time": 1728925515,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 72251,
       "num": 586631,
       "word": "大冰聊装修",
@@ -5665,6 +5665,14 @@
       "onboard_time": 1728880281,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 53528,
+      "num": 53528,
+      "word": "作协主席被曝酒后闹事辱骂酒店前台",
+      "onboard_time": 1728940391,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 53339,
@@ -6083,6 +6091,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 36328,
+      "num": 37814,
+      "word": "听泉鉴宝究竟是剧本还是真有其事",
+      "onboard_time": 1728936791,
+      "rank": 47,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 35978,
+      "num": 35978,
+      "word": "当事人回应酒后闹事称已道歉",
+      "onboard_time": 1728941351,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 35924,
       "num": 55615,
       "word": "于正签约陈腾跃",
@@ -6243,6 +6267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 32303,
+      "num": 36547,
+      "word": "中方再曝光美政府伏特台风计划细节",
+      "onboard_time": 1728938591,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 31579,
       "num": 966413,
       "word": "神十九10月下旬发射",
@@ -6283,28 +6315,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 29885,
+      "num": 37072,
+      "word": "朝称美国应为无人机渗透至平壤负责",
+      "onboard_time": 1728932772,
+      "rank": 19,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 29548,
+      "num": 39841,
+      "word": "黑色月光",
+      "onboard_time": 1728937450,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 29399,
       "num": 38714,
       "word": "神十八乘组精心照料太空菜园",
       "onboard_time": 1728854591,
       "rank": 19,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 29348,
-      "num": 29348,
-      "word": "听泉鉴宝究竟是剧本还是真有其事",
-      "onboard_time": 1728936791,
-      "rank": 47,
-      "category": "网红"
-    },
-    {
-      "raw_hot": 28559,
-      "num": 39841,
-      "word": "黑色月光",
-      "onboard_time": 1728937450,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 28287,
@@ -6363,36 +6395,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 26013,
-      "num": 26013,
-      "word": "作协主席被曝酒后闹事辱骂酒店前台",
-      "onboard_time": 1728940391,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 25855,
       "num": 208155,
       "word": "这趟开往秋天童话的列车已出发",
       "onboard_time": 1728879260,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 25614,
-      "num": 26180,
-      "word": "中方再曝光美政府伏特台风计划细节",
-      "onboard_time": 1728938591,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 25524,
-      "num": 37072,
-      "word": "朝称美国应为无人机渗透至平壤负责",
-      "onboard_time": 1728932772,
-      "rank": 19,
-      "category": "国外时政"
     },
     {
       "raw_hot": 25283,
@@ -6409,6 +6417,14 @@
       "onboard_time": 1728918440,
       "rank": 21,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 24203,
+      "num": 29687,
+      "word": "美术生就业新方向",
+      "onboard_time": 1728934631,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 24125,
@@ -6433,14 +6449,6 @@
       "onboard_time": 1728764832,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 23479,
-      "num": 23479,
-      "word": "美术生就业新方向",
-      "onboard_time": 1728934631,
-      "rank": 40,
-      "category": "幽默"
     },
     {
       "raw_hot": 23429,
@@ -6481,6 +6489,14 @@
       "onboard_time": 1728871279,
       "rank": 14,
       "category": "财经"
+    },
+    {
+      "raw_hot": 21887,
+      "num": 29686,
+      "word": "黄友政回应全锦赛男单夺冠",
+      "onboard_time": 1728943633,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 21736,
@@ -6568,14 +6584,6 @@
       "word": "游客吐槽扎尕那景区拦断国道收费",
       "onboard_time": 1728775035,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 18686,
-      "num": 20415,
-      "word": "当事人回应酒后闹事称已道歉",
-      "onboard_time": 1728941351,
-      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -6724,7 +6732,7 @@
     },
     {
       "raw_hot": 8581,
-      "num": 20440,
+      "num": 47211,
       "word": "特警合力井下救援8分钟救2条命",
       "onboard_time": 1728941410,
       "rank": 45,

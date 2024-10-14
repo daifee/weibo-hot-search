@@ -1,6 +1,6 @@
 {
   "startTime": 1728923247369,
-  "endTime": 1728941749798,
+  "endTime": 1728944555222,
   "band_list": [
     {
       "raw_hot": 1644797,
@@ -171,12 +171,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 187139,
+      "num": 72742,
+      "word": "老师校内交通肇事致女童身亡",
+      "onboard_time": 1728925515,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 182956,
       "num": 182956,
       "word": "胖东来拒绝网红直播是以顾客为本",
       "onboard_time": 1728925814,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 176237,
+      "num": 378267,
+      "word": "千万主播学历造假频繁发生",
+      "onboard_time": 1728927794,
+      "rank": 4,
+      "category": "社会议题"
     },
     {
       "raw_hot": 173477,
@@ -195,20 +211,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 149474,
+      "raw_hot": 150373,
       "num": 359085,
       "word": "22个纸箱装钱压得车上不了地库斜坡",
       "onboard_time": 1728920960,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 144951,
-      "num": 171616,
-      "word": "千万主播学历造假频繁发生",
-      "onboard_time": 1728927794,
-      "rank": 4,
-      "category": "社会议题"
     },
     {
       "raw_hot": 144737,
@@ -411,14 +419,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 72742,
-      "num": 72742,
-      "word": "老师校内交通肇事致女童身亡",
-      "onboard_time": 1728925515,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 71000,
       "num": 71000,
       "word": "胖东来为何劝离直播的司马南",
@@ -449,6 +449,14 @@
       "onboard_time": 1728904159,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 53528,
+      "num": 53528,
+      "word": "作协主席被曝酒后闹事辱骂酒店前台",
+      "onboard_time": 1728940391,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 51355,
@@ -483,6 +491,22 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 36328,
+      "num": 37814,
+      "word": "听泉鉴宝究竟是剧本还是真有其事",
+      "onboard_time": 1728936791,
+      "rank": 47,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 35978,
+      "num": 35978,
+      "word": "当事人回应酒后闹事称已道歉",
+      "onboard_time": 1728941351,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 34918,
       "num": 39199,
       "word": "郑秀妍郑秀晶新闻图",
@@ -499,6 +523,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 32303,
+      "num": 36547,
+      "word": "中方再曝光美政府伏特台风计划细节",
+      "onboard_time": 1728938591,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 31162,
       "num": 31162,
       "word": "中国海警出动6个编队巡航管控",
@@ -507,15 +539,15 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 29348,
-      "num": 29348,
-      "word": "听泉鉴宝究竟是剧本还是真有其事",
-      "onboard_time": 1728936791,
-      "rank": 47,
-      "category": "网红"
+      "raw_hot": 29885,
+      "num": 37072,
+      "word": "朝称美国应为无人机渗透至平壤负责",
+      "onboard_time": 1728932772,
+      "rank": 19,
+      "category": "国外时政"
     },
     {
-      "raw_hot": 28559,
+      "raw_hot": 29548,
       "num": 39841,
       "word": "黑色月光",
       "onboard_time": 1728937450,
@@ -539,36 +571,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 26013,
-      "num": 26013,
-      "word": "作协主席被曝酒后闹事辱骂酒店前台",
-      "onboard_time": 1728940391,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 25614,
-      "num": 26180,
-      "word": "中方再曝光美政府伏特台风计划细节",
-      "onboard_time": 1728938591,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 25524,
-      "num": 37072,
-      "word": "朝称美国应为无人机渗透至平壤负责",
-      "onboard_time": 1728932772,
-      "rank": 19,
-      "category": "国外时政"
-    },
-    {
-      "raw_hot": 23479,
-      "num": 23479,
+      "raw_hot": 24203,
+      "num": 29687,
       "word": "美术生就业新方向",
       "onboard_time": 1728934631,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 21887,
+      "num": 29686,
+      "word": "黄友政回应全锦赛男单夺冠",
+      "onboard_time": 1728943633,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 21475,
@@ -592,14 +608,6 @@
       "word": "举报违规使用医保基金最高奖励20万",
       "onboard_time": 1728936611,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 18686,
-      "num": 20415,
-      "word": "当事人回应酒后闹事称已道歉",
-      "onboard_time": 1728941351,
-      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -668,7 +676,7 @@
     },
     {
       "raw_hot": 8581,
-      "num": 20440,
+      "num": 47211,
       "word": "特警合力井下救援8分钟救2条命",
       "onboard_time": 1728941410,
       "rank": 45,
