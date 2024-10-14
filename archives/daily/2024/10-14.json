@@ -1,6 +1,6 @@
 {
   "startTime": 1728836764624,
-  "endTime": 1728874625190,
+  "endTime": 1728875210258,
   "band_list": [
     {
       "raw_hot": 2850094,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 1416433,
-      "num": 1073680,
+      "num": 1093033,
       "word": "国考公告",
       "onboard_time": 1728871758,
       "rank": 6,
@@ -115,6 +115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1049571,
+      "num": 1095831,
+      "word": "K总停播",
+      "onboard_time": 1728871878,
+      "rank": 7,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1041641,
       "num": 1041641,
       "word": "为悼念吴邦国同志天安门下半旗",
@@ -123,16 +131,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 934652,
-      "num": 1066456,
-      "word": "K总停播",
-      "onboard_time": 1728871878,
-      "rank": 7,
-      "category": "网红"
-    },
-    {
       "raw_hot": 917089,
-      "num": 1022623,
+      "num": 1095512,
       "word": "听泉鉴宝喊话别再神话我了",
       "onboard_time": 1728834501,
       "rank": 3,
@@ -195,6 +195,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 676291,
+      "num": 676291,
+      "word": "司马南在胖东来直播被劝离",
+      "onboard_time": 1728873438,
+      "rank": 21,
+      "category": "互联网,社会新闻"
+    },
+    {
       "raw_hot": 648304,
       "num": 648304,
       "word": "联合利剑2024B图上的红点",
@@ -203,7 +211,7 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 587398,
+      "raw_hot": 637736,
       "num": 1204797,
       "word": "美国一网络恶意武器被中国曝光",
       "onboard_time": 1728872598,
@@ -217,6 +225,14 @@
       "onboard_time": 1728867501,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 542971,
+      "num": 542971,
+      "word": "中国掌握了美政府黑客嫁祸他国的证据",
+      "onboard_time": 1728873559,
+      "rank": 23,
+      "category": "国内时政"
     },
     {
       "raw_hot": 541854,
@@ -240,6 +256,14 @@
       "word": "赖清德要做好四面楚歌自取灭亡的准备",
       "onboard_time": 1728870018,
       "rank": 41,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 513109,
+      "num": 1012733,
+      "word": "联合利剑2024B演习",
+      "onboard_time": 1728873618,
+      "rank": 9,
       "category": "国内时政"
     },
     {
@@ -291,14 +315,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 448735,
-      "num": 448735,
-      "word": "司马南在胖东来直播被劝离",
-      "onboard_time": 1728873438,
-      "rank": 21,
-      "category": "互联网,社会新闻"
-    },
-    {
       "raw_hot": 448567,
       "num": 898619,
       "word": "李沐宸谈自愿从长剧转短剧",
@@ -323,6 +339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 429393,
+      "num": 1094430,
+      "word": "三次台岛周边军演示意图对比",
+      "onboard_time": 1728873737,
+      "rank": 24,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 408290,
       "num": 408290,
       "word": "BLG",
@@ -331,20 +355,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 386296,
-      "num": 386296,
-      "word": "中国掌握了美政府黑客嫁祸他国的证据",
-      "onboard_time": 1728873559,
+      "raw_hot": 405716,
+      "num": 405716,
+      "word": "国考岗位表",
+      "onboard_time": 1728874638,
       "rank": 23,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 367458,
-      "num": 367458,
-      "word": "三次台岛周边军演示意图对比",
-      "onboard_time": 1728873737,
-      "rank": 24,
-      "category": "国内时政"
+      "category": "教育"
     },
     {
       "raw_hot": 363838,
@@ -403,14 +419,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 323079,
-      "num": 1012733,
-      "word": "联合利剑2024B演习",
-      "onboard_time": 1728873618,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 322141,
       "num": 229276,
       "word": "吴镇宇晒费曼王嘉尔合照",
@@ -451,12 +459,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 285189,
+      "num": 285189,
+      "word": "11岁男生向女童泼开水不需承担刑责",
+      "onboard_time": 1728867380,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 282639,
       "num": 282639,
       "word": "房地产税收新政将出台",
       "onboard_time": 1728827904,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 281547,
+      "num": 281547,
+      "word": "这个周一给我一种无力感",
+      "onboard_time": 1728872058,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 279868,
@@ -507,12 +531,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 249525,
-      "num": 249525,
-      "word": "这个周一给我一种无力感",
-      "onboard_time": 1728872058,
+      "raw_hot": 253773,
+      "num": 253773,
+      "word": "王者荣耀",
+      "onboard_time": 1728874700,
       "rank": 35,
-      "category": "情感"
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 244974,
+      "num": 244974,
+      "word": "外逃鸡西原副市长涉案逾31亿",
+      "onboard_time": 1728874819,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 228780,
@@ -531,14 +563,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 214020,
-      "num": 214020,
-      "word": "11岁男生向女童泼开水不需承担刑责",
-      "onboard_time": 1728867380,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 212876,
       "num": 212876,
       "word": "白百何晒与大儿子合照",
@@ -555,8 +579,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 209616,
-      "num": 209616,
+      "raw_hot": 211129,
+      "num": 211129,
       "word": "极氪副总裁晒车内吃火锅视频",
       "onboard_time": 1728870558,
       "rank": 41,
@@ -592,6 +616,14 @@
       "word": "强力震慑台独分裂势力谋独行径",
       "onboard_time": 1728859935,
       "rank": 34,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 205622,
+      "num": 205622,
+      "word": "美国无差别监听全球互联网用户",
+      "onboard_time": 1728874999,
+      "rank": 41,
       "category": "国内时政"
     },
     {
@@ -665,6 +697,14 @@
       "onboard_time": 1728866902,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 172158,
+      "num": 172158,
+      "word": "美国把持海底光缆建7个监听站",
+      "onboard_time": 1728875181,
+      "rank": 48,
+      "category": "国外时政"
     },
     {
       "raw_hot": 167958,
@@ -955,6 +995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 48375,
+      "num": 514264,
+      "word": "郑号锡将于17日退伍",
+      "onboard_time": 1728874278,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 47920,
       "num": 47920,
       "word": "WBG战胜DK",
@@ -985,14 +1033,6 @@
       "onboard_time": 1728846373,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 41003,
-      "num": 514264,
-      "word": "郑号锡将于17日退伍",
-      "onboard_time": 1728874278,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 37399,

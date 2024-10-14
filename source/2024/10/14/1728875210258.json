@@ -1,0 +1,410 @@
+{
+  "runTime": 1728875210258,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 637736,
+        "num": 1103948,
+        "word": "美国一网络恶意武器被中国曝光",
+        "onboard_time": 1728872598,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2059201,
+        "num": 1103723,
+        "word": "东部战区为什么于凌晨夜间发起演习",
+        "onboard_time": 1728866721,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 153629,
+        "num": 1101815,
+        "word": "东部战区开展联合利剑2024B演习",
+        "onboard_time": 1728861917,
+        "rank": 2,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 1369936,
+        "num": 1101353,
+        "word": "解放军抵近台岛演习夺取综合制权",
+        "onboard_time": 1728859935,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1299239,
+        "num": 1100375,
+        "word": "台独是死路一条",
+        "onboard_time": 1728863899,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1669079,
+        "num": 1098159,
+        "word": "韩国朝鲜",
+        "onboard_time": 1728866479,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1285728,
+        "num": 1097639,
+        "word": "台湾自古就是中国领土",
+        "onboard_time": 1728868877,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1049571,
+        "num": 1095831,
+        "word": "K总停播",
+        "onboard_time": 1728871878,
+        "rank": 7,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 475126,
+        "num": 1095512,
+        "word": "听泉鉴宝喊话别再神话我了",
+        "onboard_time": 1728834501,
+        "rank": 8,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 429393,
+        "num": 1094430,
+        "word": "三次台岛周边军演示意图对比",
+        "onboard_time": 1728873737,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1233596,
+        "num": 1093033,
+        "word": "国考公告",
+        "onboard_time": 1728871758,
+        "rank": 10,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1092222,
+        "num": 1092222,
+        "word": "为什么要进行联合利剑2024B演习",
+        "onboard_time": 1728870079,
+        "rank": 11,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 841047,
+        "num": 841047,
+        "word": "祖国必须统一也必然统一",
+        "onboard_time": 1728863899,
+        "rank": 12,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 794569,
+        "num": 794569,
+        "word": "药水哥近况",
+        "onboard_time": 1728870500,
+        "rank": 13,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 676291,
+        "num": 676291,
+        "word": "司马南在胖东来直播被劝离",
+        "onboard_time": 1728873438,
+        "rank": 14,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 542971,
+        "num": 542971,
+        "word": "中国掌握了美政府黑客嫁祸他国的证据",
+        "onboard_time": 1728873559,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 513109,
+        "num": 513109,
+        "word": "联合利剑2024B演习",
+        "onboard_time": 1728873618,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 388062,
+        "num": 505747,
+        "word": "短剧三件套",
+        "onboard_time": 1728867501,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 296961,
+        "num": 499790,
+        "word": "任敏 我的互联网新妹宝",
+        "onboard_time": 1728869838,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 48375,
+        "num": 499259,
+        "word": "郑号锡将于17日退伍",
+        "onboard_time": 1728874278,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 498754,
+        "num": 498754,
+        "word": "赖清德要做好四面楚歌自取灭亡的准备",
+        "onboard_time": 1728870018,
+        "rank": 20,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 464312,
+        "num": 464312,
+        "word": "按一个中国原则依法管控台岛",
+        "onboard_time": 1728866600,
+        "rank": 21,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 458402,
+        "num": 458402,
+        "word": "上海爷叔现身被大量股民围观",
+        "onboard_time": 1728834261,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 405716,
+        "num": 405716,
+        "word": "国考岗位表",
+        "onboard_time": 1728874638,
+        "rank": 23,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 404944,
+        "num": 404944,
+        "word": "联合利剑2024B图上的红点",
+        "onboard_time": 1728865940,
+        "rank": 24,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 362666,
+        "num": 362666,
+        "word": "为悼念吴邦国同志天安门下半旗",
+        "onboard_time": 1728866659,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 330863,
+        "num": 330863,
+        "word": "东北雨姐为何注册20多家公司",
+        "onboard_time": 1728873559,
+        "rank": 26,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 304565,
+        "num": 304565,
+        "word": "韩国防部回应朝鲜警告",
+        "onboard_time": 1728826461,
+        "rank": 27,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 160010,
+        "num": 291987,
+        "word": "李沐宸谈自愿从长剧转短剧",
+        "onboard_time": 1728867680,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156162,
+        "num": 288361,
+        "word": "春花焰今日开播",
+        "onboard_time": 1728873499,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 286701,
+        "num": 286701,
+        "word": "朝鲜已向前线部队下达准备射击指示",
+        "onboard_time": 1728826102,
+        "rank": 30,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 285189,
+        "num": 285189,
+        "word": "11岁男生向女童泼开水不需承担刑责",
+        "onboard_time": 1728867380,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 281955,
+        "num": 281955,
+        "word": "教育局称女童被泼开水系恶作剧",
+        "onboard_time": 1728835878,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 281547,
+        "num": 281547,
+        "word": "这个周一给我一种无力感",
+        "onboard_time": 1728872058,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 257996,
+        "num": 257996,
+        "word": "王者荣耀共创之夜",
+        "onboard_time": 1728873199,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 253773,
+        "num": 253773,
+        "word": "王者荣耀",
+        "onboard_time": 1728874700,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 244974,
+        "num": 244974,
+        "word": "外逃鸡西原副市长涉案逾31亿",
+        "onboard_time": 1728874819,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227722,
+        "num": 227722,
+        "word": "萧敬腾在婚礼上泪流满面",
+        "onboard_time": 1728831743,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 223063,
+        "num": 223063,
+        "word": "剑网3",
+        "onboard_time": 1728871999,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 211129,
+        "num": 211129,
+        "word": "极氪副总裁晒车内吃火锅视频",
+        "onboard_time": 1728870558,
+        "rank": 39,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 207977,
+        "num": 207977,
+        "word": "解放军3次台海行动示意图叠加",
+        "onboard_time": 1728865280,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 205622,
+        "num": 205622,
+        "word": "美国无差别监听全球互联网用户",
+        "onboard_time": 1728874999,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 198904,
+        "num": 198904,
+        "word": "哀牢山发现全球仅千只的鸟",
+        "onboard_time": 1728830062,
+        "rank": 42,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 198571,
+        "num": 198571,
+        "word": "听泉鉴宝被指塌房四大疑问待解",
+        "onboard_time": 1728825742,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197109,
+        "num": 197109,
+        "word": "世界上只有一个中国",
+        "onboard_time": 1728873438,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 196112,
+        "num": 196112,
+        "word": "强力震慑台独分裂势力谋独行径",
+        "onboard_time": 1728859935,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 190333,
+        "num": 190333,
+        "word": "瓶子 一诺",
+        "onboard_time": 1728870677,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 186129,
+        "num": 186129,
+        "word": "东部战区枕戈待旦",
+        "onboard_time": 1728863899,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 172158,
+        "num": 172158,
+        "word": "美国把持海底光缆建7个监听站",
+        "onboard_time": 1728875181,
+        "rank": 48,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 168859,
+        "num": 168859,
+        "word": "律师称雨姐带货油污净或赔偿过亿",
+        "onboard_time": 1728856271,
+        "rank": 49,
+        "category": "网红"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国人民的好朋友为了友谊跨越山海#"
+    }
+  }
+}
