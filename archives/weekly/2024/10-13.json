@@ -1,6 +1,6 @@
 {
   "startTime": 1728750414717,
-  "endTime": 1728915712390,
+  "endTime": 1728916855081,
   "band_list": [
     {
       "raw_hot": 17915004,
@@ -116,7 +116,7 @@
     },
     {
       "raw_hot": 2303119,
-      "num": 389198,
+      "num": 450483,
       "word": "王一珩 抄袭",
       "onboard_time": 1728910641,
       "rank": 40,
@@ -1019,6 +1019,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 640212,
+      "num": 448366,
+      "word": "Jennie推特被封",
+      "onboard_time": 1728916401,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 638140,
       "num": 638140,
       "word": "刘学义谈给妈妈换肾",
@@ -1187,6 +1195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 541238,
+      "num": 541238,
+      "word": "警方回应成都一河道疑发现浮尸",
+      "onboard_time": 1728908178,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 540423,
       "num": 540423,
       "word": "G2对战BLG",
@@ -1243,12 +1259,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 515178,
-      "num": 515178,
-      "word": "警方回应成都一河道疑发现浮尸",
-      "onboard_time": 1728908178,
-      "rank": 14,
-      "category": "社会新闻"
+      "raw_hot": 512906,
+      "num": 446953,
+      "word": "金星回应复婚",
+      "onboard_time": 1728913882,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 512218,
@@ -1289,6 +1305,14 @@
       "onboard_time": 1728884360,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 503873,
+      "num": 503873,
+      "word": "小米15",
+      "onboard_time": 1728913882,
+      "rank": 7,
+      "category": "数码"
     },
     {
       "raw_hot": 502171,
@@ -1403,6 +1427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 452421,
+      "num": 452421,
+      "word": "李维嘉曾说何炅的缺点是爱夸赞食物",
+      "onboard_time": 1728912081,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 448567,
       "num": 898619,
       "word": "李沐宸谈自愿从长剧转短剧",
@@ -1507,14 +1539,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 428931,
-      "num": 428931,
-      "word": "李维嘉曾说何炅的缺点是爱夸赞食物",
-      "onboard_time": 1728912081,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 424072,
       "num": 362502,
       "word": "吹牛老爹",
@@ -1587,28 +1611,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 390459,
-      "num": 390459,
-      "word": "小米15",
-      "onboard_time": 1728913882,
-      "rank": 7,
-      "category": "数码"
-    },
-    {
       "raw_hot": 388408,
       "num": 388408,
       "word": "联合利剑2024B圆满完成",
       "onboard_time": 1728906858,
       "rank": 24,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 384984,
-      "num": 384984,
-      "word": "金星回应复婚",
-      "onboard_time": 1728913882,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 384388,
@@ -1955,6 +1963,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 300979,
+      "num": 300979,
+      "word": "易烊千玺机场",
+      "onboard_time": 1728915320,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 300114,
       "num": 300114,
       "word": "林高远刘诗雯搭档混双",
@@ -2123,6 +2139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 282979,
+      "num": 282979,
+      "word": "赵露思 自己化妆",
+      "onboard_time": 1728916520,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 280134,
       "num": 1044821,
       "word": "美国政府网络窃密步骤被曝光",
@@ -2193,6 +2217,14 @@
       "onboard_time": 1728824060,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 272555,
+      "num": 306083,
+      "word": "女子遭丈夫家暴后死亡案将开庭",
+      "onboard_time": 1728912500,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 270242,
@@ -2275,6 +2307,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 264147,
+      "num": 264147,
+      "word": "女子花500元找男大学生陪爬泰山",
+      "onboard_time": 1728912983,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 261962,
+      "num": 261962,
+      "word": "K总说私底下的产业比直播挣的多",
+      "onboard_time": 1728915382,
+      "rank": 36,
+      "category": "网红"
+    },
+    {
       "raw_hot": 261252,
       "num": 370146,
       "word": "有人月供将减近1900元",
@@ -2305,6 +2353,14 @@
       "onboard_time": 1728794478,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 257839,
+      "num": 257839,
+      "word": "台湾4.1级地震",
+      "onboard_time": 1728914842,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 257210,
@@ -2435,6 +2491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 237998,
+      "num": 451174,
+      "word": "3人故意吃虫子让火锅店赔1500",
+      "onboard_time": 1728914842,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 237782,
       "num": 296916,
       "word": "你好星期六全员穿越80年代",
@@ -2513,14 +2577,6 @@
       "onboard_time": 1728814040,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 228794,
-      "num": 228794,
-      "word": "台湾4.1级地震",
-      "onboard_time": 1728914842,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 228389,
@@ -2739,6 +2795,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 212987,
+      "num": 212987,
+      "word": "双十一定金",
+      "onboard_time": 1728916463,
+      "rank": 36,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 212482,
       "num": 216704,
       "word": "薛之谦霸王别姬弹唱",
@@ -2809,14 +2873,6 @@
       "onboard_time": 1728898700,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 207277,
-      "num": 207277,
-      "word": "K总说私底下的产业比直播挣的多",
-      "onboard_time": 1728915382,
-      "rank": 36,
-      "category": "网红"
     },
     {
       "raw_hot": 207153,
@@ -2947,6 +3003,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 202883,
+      "num": 202883,
+      "word": "A50",
+      "onboard_time": 1728916221,
+      "rank": 37,
+      "category": "财经"
+    },
+    {
       "raw_hot": 202876,
       "num": 621237,
       "word": "五月天上海站官宣",
@@ -3041,14 +3105,6 @@
       "onboard_time": 1728822619,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 198644,
-      "num": 198644,
-      "word": "易烊千玺机场",
-      "onboard_time": 1728915320,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 198420,
@@ -3283,6 +3339,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 190317,
+      "num": 262602,
+      "word": "MAMA投票",
+      "onboard_time": 1728915622,
+      "rank": 46,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 189776,
       "num": 189776,
       "word": "甄芙传",
@@ -3433,14 +3497,6 @@
       "onboard_time": 1728879200,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 182853,
-      "num": 253558,
-      "word": "女子花500元找男大学生陪爬泰山",
-      "onboard_time": 1728912983,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 181671,
@@ -3865,14 +3921,6 @@
       "onboard_time": 1728781579,
       "rank": 27,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 154514,
-      "num": 154514,
-      "word": "MAMA投票",
-      "onboard_time": 1728915622,
-      "rank": 46,
-      "category": "音乐"
     },
     {
       "raw_hot": 153987,
@@ -4369,14 +4417,6 @@
       "onboard_time": 1728811940,
       "rank": 44,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 125626,
-      "num": 387648,
-      "word": "3人故意吃虫子让火锅店赔1500",
-      "onboard_time": 1728914842,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 124925,
@@ -5115,7 +5155,15 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 76509,
+      "raw_hot": 77865,
+      "num": 387108,
+      "word": "中公教育又被指不履行退款承诺",
+      "onboard_time": 1728914782,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 77233,
       "num": 774951,
       "word": "我国将打造全球最大规模低空通信网",
       "onboard_time": 1728913460,
@@ -5251,6 +5299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 62371,
+      "num": 450153,
+      "word": "年轻人的顶级松弛感是生图直出",
+      "onboard_time": 1728914721,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 62194,
       "num": 62194,
       "word": "郑钦文身体欠佳已尽全力",
@@ -5339,14 +5395,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 55458,
-      "num": 388614,
-      "word": "年轻人的顶级松弛感是生图直出",
-      "onboard_time": 1728914721,
-      "rank": 11,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 55325,
       "num": 1615443,
       "word": "这个500多亿的大项目背后有深意",
@@ -5361,6 +5409,14 @@
       "onboard_time": 1728756373,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 54004,
+      "num": 263794,
+      "word": "X200小直屏颜值党天菜",
+      "onboard_time": 1728913041,
+      "rank": 36,
+      "category": "数码"
     },
     {
       "raw_hot": 53762,
@@ -5395,6 +5451,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 50799,
+      "num": 452288,
+      "word": "长焦镜头里的中国",
+      "onboard_time": 1728913041,
+      "rank": 35,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 50651,
       "num": 760684,
       "word": "5年来直播带货投诉量暴增超47倍",
@@ -5409,6 +5473,14 @@
       "onboard_time": 1728893478,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 50162,
+      "num": 230143,
+      "word": "vivo全球首发公里级无网通信",
+      "onboard_time": 1728912983,
+      "rank": 32,
+      "category": "数码"
     },
     {
       "raw_hot": 50111,
@@ -5427,11 +5499,19 @@
       "category": "数码"
     },
     {
-      "raw_hot": 49717,
-      "num": 240379,
-      "word": "X200小直屏颜值党天菜",
+      "raw_hot": 49818,
+      "num": 262486,
+      "word": "网友提意见vivo是真改啊",
       "onboard_time": 1728913041,
-      "rank": 36,
+      "rank": 43,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 49788,
+      "num": 262024,
+      "word": "vivoX200开箱评测",
+      "onboard_time": 1728916401,
+      "rank": 31,
       "category": "数码"
     },
     {
@@ -5515,28 +5595,12 @@
       "category": "军事"
     },
     {
-      "raw_hot": 46980,
-      "num": 306083,
-      "word": "女子遭丈夫家暴后死亡案将开庭",
-      "onboard_time": 1728912500,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 46307,
       "num": 571479,
       "word": "vivo蓝科技国家科学技术进步奖",
       "onboard_time": 1728903858,
       "rank": 26,
       "category": "数码"
-    },
-    {
-      "raw_hot": 45823,
-      "num": 387108,
-      "word": "中公教育又被指不履行退款承诺",
-      "onboard_time": 1728914782,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 45682,
@@ -5552,14 +5616,6 @@
       "word": "首部安兔兔跑分破300万的手机",
       "onboard_time": 1728909199,
       "rank": 37,
-      "category": "数码"
-    },
-    {
-      "raw_hot": 44499,
-      "num": 232271,
-      "word": "网友提意见vivo是真改啊",
-      "onboard_time": 1728913041,
-      "rank": 43,
       "category": "数码"
     },
     {
@@ -5587,28 +5643,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 44166,
-      "num": 389931,
-      "word": "长焦镜头里的中国",
-      "onboard_time": 1728913041,
-      "rank": 35,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 44163,
       "num": 188911,
       "word": "杭州满觉陇长满了人",
       "onboard_time": 1728784518,
       "rank": 13,
       "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 43976,
-      "num": 230143,
-      "word": "vivo全球首发公里级无网通信",
-      "onboard_time": 1728912983,
-      "rank": 32,
-      "category": "数码"
     },
     {
       "raw_hot": 43239,
@@ -5689,6 +5729,14 @@
       "onboard_time": 1728790098,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 40643,
+      "num": 182429,
+      "word": "vivoX200Promini",
+      "onboard_time": 1728916581,
+      "rank": 42,
+      "category": "数码"
     },
     {
       "raw_hot": 40455,
@@ -5827,6 +5875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 34222,
+      "num": 172468,
+      "word": "买东西的满足感预售给不了",
+      "onboard_time": 1728914002,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 34099,
       "num": 172505,
       "word": "衣服太贵买件老头衫穿穿",
@@ -5860,7 +5916,7 @@
     },
     {
       "raw_hot": 33113,
-      "num": 236405,
+      "num": 263294,
       "word": "周鸿祎称Magic7YOYO比Siri强太多",
       "onboard_time": 1728914721,
       "rank": 29,
@@ -5897,6 +5953,14 @@
       "onboard_time": 1728845293,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 30645,
+      "num": 185556,
+      "word": "vivo灭霸再升级",
+      "onboard_time": 1728916581,
+      "rank": 41,
+      "category": "数码"
     },
     {
       "raw_hot": 29886,
@@ -6096,14 +6160,6 @@
       "word": "游客吐槽扎尕那景区拦断国道收费",
       "onboard_time": 1728775035,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 18140,
-      "num": 148792,
-      "word": "买东西的满足感预售给不了",
-      "onboard_time": 1728914002,
-      "rank": 48,
       "category": "社会新闻"
     },
     {

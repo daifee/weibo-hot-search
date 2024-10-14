@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/10/01 00:28:17 ~ 2024/10/14 22:21:52
+本榜单时间：2024/10/01 00:28:17 ~ 2024/10/14 22:40:55
 </p>
 </blockquote>
 <p>
@@ -4311,6 +4311,12 @@ B太回应曾夸东北雨姐真实（热度：649327）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23Jennie%E6%8E%A8%E7%89%B9%E8%A2%AB%E5%B0%81%23" target="weibo">
+Jennie推特被封（热度：640212）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B8%AF%E8%82%A1%E7%AA%81%E5%8F%98%23" target="weibo">
 港股突变（热度：639876）
 </a>
@@ -5367,6 +5373,12 @@ B太曾做客东北雨姐拍摄基地（热度：572110）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E6%88%90%E9%83%BD%E4%B8%80%E6%B2%B3%E9%81%93%E7%96%91%E5%8F%91%E7%8E%B0%E6%B5%AE%E5%B0%B8%23" target="weibo">
+警方回应成都一河道疑发现浮尸（热度：541238）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E4%BB%B2%E5%9F%BA%E8%AF%B4%E6%98%AF%E5%91%A8%E5%86%AC%E9%9B%A8%E7%B2%89%E4%B8%9D%23" target="weibo">
 宋仲基说是周冬雨粉丝（热度：541150）
 </a>
@@ -5661,12 +5673,6 @@ GEN对战WBG（热度：516314）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E6%88%90%E9%83%BD%E4%B8%80%E6%B2%B3%E9%81%93%E7%96%91%E5%8F%91%E7%8E%B0%E6%B5%AE%E5%B0%B8%23" target="weibo">
-警方回应成都一河道疑发现浮尸（热度：515178）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%94%E9%A9%B0%E5%AE%A2%E6%9C%8D%E5%9B%9E%E5%BA%94215%E4%B8%87%E7%9A%84%E8%BF%88%E5%B7%B4%E8%B5%AB%E6%BC%8F%E6%B0%B4%23" target="weibo">
 奔驰客服回应215万的迈巴赫漏水（热度：513853）
 </a>
@@ -5681,6 +5687,12 @@ GEN对战WBG（热度：516314）
 <li>
 <a href="https://s.weibo.com/weibo?q=%232024%E5%B9%B4%E5%9B%BD%E5%AE%B6%E5%A5%96%E5%AD%A6%E9%87%91%E5%A5%96%E5%8A%B1%E5%90%8D%E9%A2%9D%E5%B0%86%E7%BF%BB%E5%80%8D%23" target="weibo">
 2024年国家奖学金奖励名额将翻倍（热度：513522）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E6%98%9F%E5%9B%9E%E5%BA%94%E5%A4%8D%E5%A9%9A%23" target="weibo">
+金星回应复婚（热度：512906）
 </a>
 </li>
 
@@ -5759,6 +5771,12 @@ GEN对战WBG（热度：516314）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%89%E4%BA%BA%E6%9D%A5%E6%8E%A5%E8%82%B2%E5%84%BF%E5%AB%82%E6%89%8D%E7%9F%A5%E8%87%AA%E5%B7%B1%E6%98%AF%E5%A4%87%E8%83%8E%23" target="weibo">
 有人来接育儿嫂才知自己是备胎（热度：504602）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B315%23" target="weibo">
+小米15（热度：503873）
 </a>
 </li>
 
@@ -5993,24 +6011,6 @@ MAMA提名（热度：496903）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%98%E4%BA%86%E4%B8%89%E4%B8%AA%E6%9C%88%E6%9C%8B%E5%8F%8B%E5%9C%88%E4%B8%80%E6%AC%A1%E6%80%A7%E5%8F%91%E5%87%BA%E5%90%8E%23" target="weibo">
 存了三个月朋友圈一次性发出后（热度：488407）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E8%A6%81%E6%B1%82%E8%B0%83%E6%9F%A5%E8%BF%BD%E8%B4%A3%E4%BB%A5%E5%86%9B%E8%A2%AD%E5%87%BB%E8%81%94%E9%BB%8E%E9%83%A8%E9%98%9F%E9%98%B5%E5%9C%B0%23" target="weibo">
-中方要求调查追责以军袭击联黎部队阵地（热度：488001）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9C%B4%E5%B1%B1%E5%A4%9A%E6%8B%89%E6%99%92YG%E5%AE%B6%E6%97%8F%E5%90%88%E7%85%A7%E6%B2%A1%E6%9C%89Jennie%23" target="weibo">
-朴山多拉晒YG家族合照没有Jennie（热度：486841）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BD%95%E7%82%85%E4%B9%9F%E6%9C%89%E8%97%8F%E4%B8%8D%E4%BD%8F%E4%BA%8B%E7%9A%84%E6%97%B6%E5%80%99%23" target="weibo">
-何炅也有藏不住事的时候（热度：486788）
 </a>
 </li>
 
