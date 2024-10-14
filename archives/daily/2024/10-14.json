@@ -1,6 +1,6 @@
 {
   "startTime": 1728836764624,
-  "endTime": 1728891550789,
+  "endTime": 1728894567323,
   "band_list": [
     {
       "raw_hot": 3312537,
@@ -155,12 +155,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1301500,
+      "num": 1051325,
+      "word": "国产短剧已经疯了",
+      "onboard_time": 1728892219,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1286315,
       "num": 827050,
       "word": "掐脖吻",
       "onboard_time": 1728883038,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1278351,
+      "num": 730905,
+      "word": "鸡西原副市长李传良被查封1021处房产",
+      "onboard_time": 1728888919,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1261004,
@@ -219,14 +235,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1179225,
-      "num": 730905,
-      "word": "鸡西原副市长李传良被查封1021处房产",
-      "onboard_time": 1728888919,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1089422,
       "num": 1277723,
       "word": "K总停播",
@@ -241,6 +249,14 @@
       "onboard_time": 1728866659,
       "rank": 7,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 962445,
+      "num": 634766,
+      "word": "村主任撞人致死赔650万后改判15年",
+      "onboard_time": 1728887479,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 918095,
@@ -283,11 +299,27 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 880426,
+      "num": 633132,
+      "word": "黄子韬徐艺洋秀恩爱vlog",
+      "onboard_time": 1728891799,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 869062,
       "num": 977482,
       "word": "外逃副市长李传良违法所得被申请没收",
       "onboard_time": 1728880041,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 833319,
+      "num": 585573,
+      "word": "孕妇喝冰箱剩牛奶感染李斯特菌胎死腹中",
+      "onboard_time": 1728889518,
+      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -340,19 +372,11 @@
     },
     {
       "raw_hot": 803965,
-      "num": 803965,
+      "num": 1053879,
       "word": "美国水蝮蛇窃密设备伪装成USB键盘",
       "onboard_time": 1728886578,
       "rank": 39,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 800622,
-      "num": 585573,
-      "word": "孕妇喝冰箱剩牛奶感染李斯特菌胎死腹中",
-      "onboard_time": 1728889518,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 760734,
@@ -660,7 +684,7 @@
     },
     {
       "raw_hot": 339756,
-      "num": 585089,
+      "num": 644242,
       "word": "成毅将主演长安二十四计",
       "onboard_time": 1728888378,
       "rank": 17,
@@ -704,14 +728,6 @@
       "word": "贫困县砸2亿元建酒店烂尾有人接盘了",
       "onboard_time": 1728885559,
       "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 328799,
-      "num": 328799,
-      "word": "村主任撞人致死赔650万后改判15年",
-      "onboard_time": 1728887479,
-      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -947,6 +963,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 232776,
+      "num": 232776,
+      "word": "老头乐冲卡上高速逆行遇车祸",
+      "onboard_time": 1728891198,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 232109,
+      "num": 521866,
+      "word": "闪婚老伴宠上天",
+      "onboard_time": 1728892578,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 228780,
       "num": 491423,
       "word": "徐艺真上综艺",
@@ -971,12 +1003,36 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 221551,
+      "num": 221551,
+      "word": "东部战区组织要港封控等科目演练",
+      "onboard_time": 1728891198,
+      "rank": 43,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 218990,
       "num": 218990,
       "word": "台独挑衅一次反制就推进一步",
       "onboard_time": 1728882681,
       "rank": 37,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 215314,
+      "num": 215314,
+      "word": "警方回应小米SU7冲上公交站台",
+      "onboard_time": 1728893718,
+      "rank": 39,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 214161,
+      "num": 214161,
+      "word": "上海一养护院把人关在像猪圈的房间",
+      "onboard_time": 1728894139,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 214089,
@@ -1131,6 +1187,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 196625,
+      "num": 625120,
+      "word": "海警2901号万吨舰首次参加对台任务",
+      "onboard_time": 1728894079,
+      "rank": 13,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 195403,
       "num": 302087,
       "word": "春花焰今日开播",
@@ -1187,14 +1251,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 182490,
-      "num": 182490,
-      "word": "东部战区组织要港封控等科目演练",
-      "onboard_time": 1728891198,
-      "rank": 43,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 181556,
       "num": 181556,
       "word": "AG对战DRG",
@@ -1227,20 +1283,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 175783,
-      "num": 175783,
-      "word": "老头乐冲卡上高速逆行遇车祸",
-      "onboard_time": 1728891198,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 173443,
       "num": 173443,
       "word": "这块草都被小狗养肥了",
       "onboard_time": 1728884360,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 171112,
+      "num": 171112,
+      "word": "林高远刘诗雯全锦赛首秀",
+      "onboard_time": 1728891739,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 169816,
@@ -1265,6 +1321,14 @@
       "onboard_time": 1728832281,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 167578,
+      "num": 167578,
+      "word": "外交部回应联合利剑2024B演习",
+      "onboard_time": 1728893959,
+      "rank": 46,
+      "category": "国内时政"
     },
     {
       "raw_hot": 165391,
@@ -1323,12 +1387,28 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 153191,
+      "num": 153191,
+      "word": "全锦赛",
+      "onboard_time": 1728892339,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 153043,
       "num": 387208,
       "word": "女生吃卤味发现荧光剂根本洗不掉",
       "onboard_time": 1728885679,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 152840,
+      "num": 152840,
+      "word": "首次将封锁台湾摆在台面",
+      "onboard_time": 1728894379,
+      "rank": 48,
+      "category": "国内时政"
     },
     {
       "raw_hot": 151598,
@@ -1555,6 +1635,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 84080,
+      "num": 313881,
+      "word": "央视曝光摩托车牌藏秘密",
+      "onboard_time": 1728892460,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 79749,
       "num": 79749,
       "word": "小孩姐戴三道杠走路的气质好帅呀",
@@ -1617,6 +1705,14 @@
       "onboard_time": 1728841155,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 58807,
+      "num": 620951,
+      "word": "老人花80万积蓄买理财无法兑付",
+      "onboard_time": 1728893180,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 55325,
@@ -1751,6 +1847,14 @@
       "num": 900378,
       "word": "全国秋收已近六成",
       "onboard_time": 1728825861,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 35055,
+      "num": 904925,
+      "word": "一不留神穿越进绝美秋日油画",
+      "onboard_time": 1728893658,
       "rank": 2,
       "category": "社会新闻"
     },
@@ -1921,6 +2025,14 @@
       "onboard_time": 1728825621,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 8988,
+      "num": 486320,
+      "word": "杨幂治好了我的犯错羞耻症",
+      "onboard_time": 1728894320,
+      "rank": 19,
+      "category": "艺人"
     }
   ],
   "hotgov_list": [
@@ -1929,6 +2041,9 @@
     },
     {
       "word": "#为了友谊这件大事跨越山海#"
+    },
+    {
+      "word": "#中国的现代化之路既发展自身又造福世界#"
     }
   ]
 }
