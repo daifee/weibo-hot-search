@@ -1,0 +1,410 @@
+{
+  "runTime": 1728891550789,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 253969,
+        "num": 1040635,
+        "word": "美国政府网络窃密步骤被曝光",
+        "onboard_time": 1728888378,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1447412,
+        "num": 938894,
+        "word": "解放军歼击机轰炸机跨海峡奔袭迫近台岛",
+        "onboard_time": 1728886278,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 13285,
+        "num": 828151,
+        "word": "这个500多亿的大项目背后有深意",
+        "onboard_time": 1728863718,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 807823,
+        "num": 807823,
+        "word": "祖国完全统一一定会实现",
+        "onboard_time": 1728875300,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 695722,
+        "num": 695722,
+        "word": "美国水蝮蛇窃密设备伪装成USB键盘",
+        "onboard_time": 1728886578,
+        "rank": 4,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 651305,
+        "num": 651305,
+        "word": "解放军破晓出击现场画面",
+        "onboard_time": 1728885559,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 618979,
+        "num": 618979,
+        "word": "王楚钦时尚COSMO11月刊大片",
+        "onboard_time": 1728890538,
+        "rank": 6,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 618001,
+        "num": 618001,
+        "word": "台独顽固分子沈伯洋曹兴诚被惩戒",
+        "onboard_time": 1728883820,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 483881,
+        "num": 616973,
+        "word": "谢娜还是太超前了",
+        "onboard_time": 1728879981,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 469111,
+        "num": 615985,
+        "word": "向佐火到韩国",
+        "onboard_time": 1728883400,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 552046,
+        "num": 613370,
+        "word": "解放军抵近台岛演习夺取综合制权",
+        "onboard_time": 1728859935,
+        "rank": 10,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1346036,
+        "num": 612485,
+        "word": "关智斌舞台求婚阿Sa",
+        "onboard_time": 1728886520,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1179225,
+        "num": 610077,
+        "word": "鸡西原副市长李传良被查封1021处房产",
+        "onboard_time": 1728888919,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147724,
+        "num": 608185,
+        "word": "辽宁舰航母编队参加围岛演习",
+        "onboard_time": 1728883759,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 608098,
+        "num": 608098,
+        "word": "韩国朝鲜",
+        "onboard_time": 1728866479,
+        "rank": 14,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 598878,
+        "num": 598878,
+        "word": "台湾自古就是中国领土",
+        "onboard_time": 1728868877,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 25974,
+        "num": 597853,
+        "word": "当代男性消费观",
+        "onboard_time": 1728889639,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 597729,
+        "num": 597729,
+        "word": "解放军3次围岛行动示意图对比",
+        "onboard_time": 1728879139,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 72251,
+        "num": 586631,
+        "word": "大冰聊装修",
+        "onboard_time": 1728890597,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 65752,
+        "num": 585588,
+        "word": "网传运城一医院晚上变歌舞厅",
+        "onboard_time": 1728890899,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 800622,
+        "num": 585573,
+        "word": "孕妇喝冰箱剩牛奶感染李斯特菌胎死腹中",
+        "onboard_time": 1728889518,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 585509,
+        "num": 585509,
+        "word": "掐脖吻",
+        "onboard_time": 1728883038,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 328518,
+        "num": 585089,
+        "word": "成毅将主演长安二十四计",
+        "onboard_time": 1728888378,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 254618,
+        "num": 577018,
+        "word": "朴灿烈模仿向佐摸鼻梁动作",
+        "onboard_time": 1728885739,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186194,
+        "num": 569460,
+        "word": "赵牧辰到底喜欢谁",
+        "onboard_time": 1728886699,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168023,
+        "num": 566946,
+        "word": "心动的信号7最后一次约会",
+        "onboard_time": 1728891319,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155600,
+        "num": 558881,
+        "word": "不玩大冰梗了",
+        "onboard_time": 1728881183,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 172453,
+        "num": 557615,
+        "word": "东部战区演习现场画面",
+        "onboard_time": 1728888739,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 29091,
+        "num": 551044,
+        "word": "今晚8点脱口秀圈是来京东团建吗",
+        "onboard_time": 1728888139,
+        "rank": 28,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 100732,
+        "num": 545999,
+        "word": "多型战机挂弹出击直达台岛周边",
+        "onboard_time": 1728890538,
+        "rank": 29,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 541209,
+        "num": 541209,
+        "word": "台独是死路一条",
+        "onboard_time": 1728863899,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 502417,
+        "num": 502417,
+        "word": "女子注销号码未解绑网盘致照片泄露",
+        "onboard_time": 1728878959,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 462817,
+        "num": 462817,
+        "word": "范晓萱胖了好多",
+        "onboard_time": 1728886758,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 378449,
+        "num": 378449,
+        "word": "射击队李越宏在印度细菌感染",
+        "onboard_time": 1728890478,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 366048,
+        "num": 366048,
+        "word": "萧敬腾爸爸催生",
+        "onboard_time": 1728884958,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 343439,
+        "num": 343439,
+        "word": "小胖又在指导樊振东",
+        "onboard_time": 1728889459,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 313463,
+        "num": 313463,
+        "word": "村主任撞人致死赔650万后改判15年",
+        "onboard_time": 1728887479,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 284679,
+        "num": 284679,
+        "word": "解放军围岛演习随时可以转为实战",
+        "onboard_time": 1728883159,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 276950,
+        "num": 276950,
+        "word": "老赖为不还钱收入144万支出146万",
+        "onboard_time": 1728886458,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 259822,
+        "num": 259822,
+        "word": "贫困县砸2亿元建酒店烂尾有人接盘了",
+        "onboard_time": 1728885559,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242732,
+        "num": 242732,
+        "word": "第五人格 chiha",
+        "onboard_time": 1728884659,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 232071,
+        "num": 232071,
+        "word": "为什么要进行联合利剑2024B演习",
+        "onboard_time": 1728870079,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 206904,
+        "num": 206904,
+        "word": "美妆券",
+        "onboard_time": 1728887839,
+        "rank": 42,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 182490,
+        "num": 182490,
+        "word": "东部战区组织要港封控等科目演练",
+        "onboard_time": 1728891198,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 182112,
+        "num": 182112,
+        "word": "美国无差别监听全球互联网用户",
+        "onboard_time": 1728874999,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 175783,
+        "num": 175783,
+        "word": "老头乐冲卡上高速逆行遇车祸",
+        "onboard_time": 1728891198,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172910,
+        "num": 172910,
+        "word": "有人来接育儿嫂才知自己是备胎",
+        "onboard_time": 1728884360,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 137298,
+        "num": 171362,
+        "word": "K总停播",
+        "onboard_time": 1728871878,
+        "rank": 47,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 170437,
+        "num": 170437,
+        "word": "伊能静谈与刘亦菲友情",
+        "onboard_time": 1728885378,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168743,
+        "num": 168743,
+        "word": "联合利剑2024B演习",
+        "onboard_time": 1728873618,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#为了友谊这件大事跨越山海#"
+    }
+  }
+}
