@@ -1,6 +1,6 @@
 {
   "startTime": 1728923247369,
-  "endTime": 1728937480723,
+  "endTime": 1728938277315,
   "band_list": [
     {
       "raw_hot": 1644797,
@@ -531,6 +531,22 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 23479,
+      "num": 23479,
+      "word": "美术生就业新方向",
+      "onboard_time": 1728934631,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 21690,
+      "num": 24489,
+      "word": "听泉鉴宝究竟是剧本还是真有其事",
+      "onboard_time": 1728936791,
+      "rank": 47,
+      "category": "网红"
+    },
+    {
       "raw_hot": 21475,
       "num": 44870,
       "word": "海军版山河图变装太燃了",
@@ -547,20 +563,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 20322,
-      "num": 20322,
-      "word": "美术生就业新方向",
-      "onboard_time": 1728934631,
-      "rank": 40,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 18320,
-      "num": 19247,
-      "word": "听泉鉴宝究竟是剧本还是真有其事",
-      "onboard_time": 1728936791,
-      "rank": 47,
-      "category": "网红"
+      "raw_hot": 20775,
+      "num": 37726,
+      "word": "举报违规使用医保基金最高奖励20万",
+      "onboard_time": 1728936611,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 18217,
@@ -571,20 +579,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 17506,
+      "num": 19324,
+      "word": "黑色月光",
+      "onboard_time": 1728937450,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 15882,
       "num": 41406,
       "word": "我国前三个季度进出口均超10万亿元",
       "onboard_time": 1728932712,
       "rank": 9,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 15784,
-      "num": 19241,
-      "word": "黑色月光",
-      "onboard_time": 1728937450,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 15618,
@@ -603,12 +611,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 10741,
-      "num": 37726,
-      "word": "举报违规使用医保基金最高奖励20万",
-      "onboard_time": 1728936611,
+      "raw_hot": 13645,
+      "num": 35725,
+      "word": "吴邦国同志永垂不朽",
+      "onboard_time": 1728937510,
       "rank": 9,
-      "category": "社会新闻"
+      "category": "国内时政"
     },
     {
       "raw_hot": 10559,
