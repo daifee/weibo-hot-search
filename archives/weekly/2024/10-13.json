@@ -1,6 +1,6 @@
 {
   "startTime": 1728750414717,
-  "endTime": 1728923247369,
+  "endTime": 1728924274341,
   "band_list": [
     {
       "raw_hot": 17915004,
@@ -987,6 +987,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 695978,
+      "num": 331895,
+      "word": "百万粉丝网红脑溢血昏迷8天后离世",
+      "onboard_time": 1728920601,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 693223,
       "num": 693223,
       "word": "林诗栋张本智和争冠",
@@ -1915,14 +1923,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 331895,
-      "num": 331895,
-      "word": "百万粉丝网红脑溢血昏迷8天后离世",
-      "onboard_time": 1728920601,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 330841,
       "num": 330841,
       "word": "女生找工作被HR问如果想追你呢",
@@ -2587,6 +2587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 239740,
+      "num": 213107,
+      "word": "为什么建议学会腹式呼吸",
+      "onboard_time": 1728920840,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 238711,
       "num": 238711,
       "word": "小米SU7冲上公交站台致2人受伤",
@@ -2889,6 +2897,14 @@
       "onboard_time": 1728895638,
       "rank": 40,
       "category": "数码"
+    },
+    {
+      "raw_hot": 212798,
+      "num": 212798,
+      "word": "萧敬腾婚礼堪比演唱会",
+      "onboard_time": 1728921139,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 212482,
@@ -3507,14 +3523,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 187428,
-      "num": 187428,
-      "word": "萧敬腾婚礼堪比演唱会",
-      "onboard_time": 1728921139,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 187248,
       "num": 187248,
       "word": "PCL",
@@ -3561,14 +3569,6 @@
       "onboard_time": 1728909680,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 185111,
-      "num": 185111,
-      "word": "为什么建议学会腹式呼吸",
-      "onboard_time": 1728920840,
-      "rank": 21,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 184465,
@@ -4185,6 +4185,14 @@
       "onboard_time": 1728869179,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 149474,
+      "num": 359085,
+      "word": "22个纸箱装钱压得车上不了地库斜坡",
+      "onboard_time": 1728920960,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 148907,
@@ -5347,20 +5355,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 79418,
+      "num": 79418,
+      "word": "贵州贫困县豪砸2亿元建酒店烂尾",
+      "onboard_time": 1728923658,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 78027,
       "num": 90444,
       "word": "国足生死战前称不惧怕任何对手",
       "onboard_time": 1728921679,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 77700,
-      "num": 359085,
-      "word": "22个纸箱装钱压得车上不了地库斜坡",
-      "onboard_time": 1728920960,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 77233,
@@ -6171,6 +6179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 30101,
+      "num": 220789,
+      "word": "买上百万元处方药竟从未出示处方",
+      "onboard_time": 1728923357,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 29886,
       "num": 40991,
       "word": "一个真虎一个真是虎",
@@ -6225,6 +6241,14 @@
       "onboard_time": 1728889639,
       "rank": 19,
       "category": "情感"
+    },
+    {
+      "raw_hot": 25954,
+      "num": 88719,
+      "word": "上海一养护院环境恶劣如同猪圈",
+      "onboard_time": 1728924197,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 25855,

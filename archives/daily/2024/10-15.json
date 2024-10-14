@@ -1,10 +1,10 @@
 {
   "startTime": 1728923247369,
-  "endTime": 1728923247369,
+  "endTime": 1728924274341,
   "band_list": [
     {
       "raw_hot": 1644797,
-      "num": 187040,
+      "num": 199499,
       "word": "杭州一女生夜晚被强行猥亵",
       "onboard_time": 1728919162,
       "rank": 20,
@@ -33,6 +33,14 @@
       "onboard_time": 1728916401,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 695978,
+      "num": 331895,
+      "word": "百万粉丝网红脑溢血昏迷8天后离世",
+      "onboard_time": 1728920601,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 608920,
@@ -99,14 +107,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 331895,
-      "num": 331895,
-      "word": "百万粉丝网红脑溢血昏迷8天后离世",
-      "onboard_time": 1728920601,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 327985,
       "num": 327985,
       "word": "赵露思 自己化妆",
@@ -123,12 +123,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 239740,
+      "num": 213107,
+      "word": "为什么建议学会腹式呼吸",
+      "onboard_time": 1728920840,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 230259,
       "num": 230259,
       "word": "杜华 你不火还怪我又不是我不火",
       "onboard_time": 1728904878,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 212798,
+      "num": 212798,
+      "word": "萧敬腾婚礼堪比演唱会",
+      "onboard_time": 1728921139,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 208662,
@@ -148,27 +164,11 @@
     },
     {
       "raw_hot": 203686,
-      "num": 203686,
+      "num": 217296,
       "word": "警方回应成都一河道疑发现浮尸",
       "onboard_time": 1728908178,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 187428,
-      "num": 187428,
-      "word": "萧敬腾婚礼堪比演唱会",
-      "onboard_time": 1728921139,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 185111,
-      "num": 185111,
-      "word": "为什么建议学会腹式呼吸",
-      "onboard_time": 1728920840,
-      "rank": 21,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 173477,
@@ -185,6 +185,14 @@
       "onboard_time": 1728913882,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 149474,
+      "num": 359085,
+      "word": "22个纸箱装钱压得车上不了地库斜坡",
+      "onboard_time": 1728920960,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 144737,
@@ -339,6 +347,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 80927,
+      "num": 90492,
+      "word": "成何体统 丞磊王楚然",
+      "onboard_time": 1728909019,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 80421,
       "num": 90522,
       "word": "七夜雪",
@@ -347,12 +363,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 78224,
-      "num": 90492,
-      "word": "成何体统 丞磊王楚然",
-      "onboard_time": 1728909019,
-      "rank": 47,
-      "category": "剧集"
+      "raw_hot": 79418,
+      "num": 79418,
+      "word": "贵州贫困县豪砸2亿元建酒店烂尾",
+      "onboard_time": 1728923658,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 78027,
@@ -361,14 +377,6 @@
       "onboard_time": 1728921679,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 77700,
-      "num": 359085,
-      "word": "22个纸箱装钱压得车上不了地库斜坡",
-      "onboard_time": 1728920960,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 77188,
@@ -385,6 +393,30 @@
       "onboard_time": 1728895170,
       "rank": 29,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 61480,
+      "num": 70589,
+      "word": "赵牧辰刘雨璠断崖式be",
+      "onboard_time": 1728904159,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 30101,
+      "num": 220789,
+      "word": "买上百万元处方药竟从未出示处方",
+      "onboard_time": 1728923357,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 25954,
+      "num": 88719,
+      "word": "上海一养护院环境恶劣如同猪圈",
+      "onboard_time": 1728924197,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 14118,
@@ -406,6 +438,9 @@
   "hotgov_list": [
     {
       "word": "#深悟总书记的文艺观#"
+    },
+    {
+      "word": "#习近平同印度尼西亚总统佐科通电话#"
     }
   ]
 }
