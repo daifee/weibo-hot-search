@@ -1,6 +1,6 @@
 {
   "startTime": 1728836764624,
-  "endTime": 1728880921720,
+  "endTime": 1728883344135,
   "band_list": [
     {
       "raw_hot": 3312537,
@@ -51,6 +51,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2050166,
+      "num": 1610645,
+      "word": "台独是死路一条",
+      "onboard_time": 1728863899,
+      "rank": 6,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1990137,
       "num": 1612330,
       "word": "美国无差别监听全球互联网用户",
@@ -64,14 +72,6 @@
       "word": "台湾自古就是中国领土",
       "onboard_time": 1728868877,
       "rank": 3,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 1610645,
-      "num": 1610645,
-      "word": "台独是死路一条",
-      "onboard_time": 1728863899,
-      "rank": 6,
       "category": "国内时政"
     },
     {
@@ -99,12 +99,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1396312,
+      "num": 1268502,
+      "word": "谢娜还是太超前了",
+      "onboard_time": 1728879981,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1385335,
       "num": 1385335,
       "word": "祖国必须统一也必然统一",
       "onboard_time": 1728863899,
       "rank": 4,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1361976,
+      "num": 1184614,
+      "word": "女子注销号码未解绑网盘致照片泄露",
+      "onboard_time": 1728878959,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1346774,
@@ -169,14 +185,6 @@
       "onboard_time": 1728871878,
       "rank": 7,
       "category": "网红"
-    },
-    {
-      "raw_hot": 1066499,
-      "num": 1268502,
-      "word": "谢娜还是太超前了",
-      "onboard_time": 1728879981,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 1041641,
@@ -291,6 +299,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 616613,
+      "num": 977482,
+      "word": "外逃副市长李传良违法所得被申请没收",
+      "onboard_time": 1728880041,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 568438,
       "num": 768937,
       "word": "短剧三件套",
@@ -347,12 +363,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 489659,
-      "num": 833702,
-      "word": "女子注销号码未解绑网盘致照片泄露",
-      "onboard_time": 1728878959,
-      "rank": 13,
-      "category": "社会新闻"
+      "raw_hot": 490604,
+      "num": 613897,
+      "word": "不玩大冰梗了",
+      "onboard_time": 1728881183,
+      "rank": 15,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 478990,
@@ -499,12 +515,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 332483,
-      "num": 977482,
-      "word": "外逃副市长李传良违法所得被申请没收",
-      "onboard_time": 1728880041,
-      "rank": 14,
-      "category": "社会新闻"
+      "raw_hot": 330841,
+      "num": 330841,
+      "word": "女生找工作被HR问如果想追你呢",
+      "onboard_time": 1728880401,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 329864,
@@ -537,6 +553,14 @@
       "onboard_time": 1728828623,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 309169,
+      "num": 599966,
+      "word": "心动的信号",
+      "onboard_time": 1728880222,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 298328,
@@ -659,28 +683,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 253994,
-      "num": 433480,
-      "word": "心动的信号",
-      "onboard_time": 1728880222,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 249402,
       "num": 249402,
       "word": "我国主要城市成美国网络秘密入侵目标",
       "onboard_time": 1728878421,
       "rank": 37,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 249184,
-      "num": 249184,
-      "word": "女生找工作被HR问如果想追你呢",
-      "onboard_time": 1728880401,
-      "rank": 40,
-      "category": "情感"
     },
     {
       "raw_hot": 228780,
@@ -705,6 +713,14 @@
       "onboard_time": 1728870677,
       "rank": 38,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 215190,
+      "num": 215190,
+      "word": "台独挑衅一次反制就推进一步",
+      "onboard_time": 1728882681,
+      "rank": 37,
+      "category": "国内时政"
     },
     {
       "raw_hot": 214089,
@@ -835,6 +851,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 197430,
+      "num": 359003,
+      "word": "春花焰",
+      "onboard_time": 1728880641,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 195403,
       "num": 302087,
       "word": "春花焰今日开播",
@@ -867,14 +891,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 189006,
-      "num": 314218,
-      "word": "春花焰",
-      "onboard_time": 1728880641,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 185761,
       "num": 185761,
       "word": "WBG晋级S14八强",
@@ -897,6 +913,22 @@
       "onboard_time": 1728830422,
       "rank": 33,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 181041,
+      "num": 181041,
+      "word": "解放军围岛演习随时可以转为实战",
+      "onboard_time": 1728883159,
+      "rank": 46,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 179998,
+      "num": 179998,
+      "word": "薄荷健康崩了",
+      "onboard_time": 1728880940,
+      "rank": 47,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 176462,
@@ -1203,6 +1235,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 60414,
+      "num": 575621,
+      "word": "在职场该不该扮蠢",
+      "onboard_time": 1728882560,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 55325,
       "num": 1615443,
       "word": "这个500多亿的大项目背后有深意",
@@ -1235,6 +1275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 49442,
+      "num": 358283,
+      "word": "京东双11九大便宜攻略",
+      "onboard_time": 1728882441,
+      "rank": 26,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 48375,
       "num": 514264,
       "word": "郑号锡将于17日退伍",
@@ -1249,6 +1297,14 @@
       "onboard_time": 1728831083,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 47229,
+      "num": 356651,
+      "word": "东部战区发布枕戈待旦组合海报",
+      "onboard_time": 1728882560,
+      "rank": 29,
+      "category": "军事"
     },
     {
       "raw_hot": 42454,
@@ -1371,12 +1427,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 23429,
+      "num": 356021,
+      "word": "克隆网站乱象调查",
+      "onboard_time": 1728881421,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 22854,
       "num": 22854,
       "word": "运输车翻车致化学品泄漏有人中毒",
       "onboard_time": 1728848171,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 22327,
+      "num": 592006,
+      "word": "掐脖吻",
+      "onboard_time": 1728883038,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 21934,

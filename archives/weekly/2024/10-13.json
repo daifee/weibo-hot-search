@@ -1,6 +1,6 @@
 {
   "startTime": 1728750414717,
-  "endTime": 1728880921720,
+  "endTime": 1728883344135,
   "band_list": [
     {
       "raw_hot": 17915004,
@@ -139,6 +139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2050166,
+      "num": 1610645,
+      "word": "台独是死路一条",
+      "onboard_time": 1728863899,
+      "rank": 6,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 2029776,
       "num": 2029776,
       "word": "郑钦文武网亚军",
@@ -184,14 +192,6 @@
       "word": "台湾自古就是中国领土",
       "onboard_time": 1728868877,
       "rank": 3,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 1610645,
-      "num": 1610645,
-      "word": "台独是死路一条",
-      "onboard_time": 1728863899,
-      "rank": 6,
       "category": "国内时政"
     },
     {
@@ -251,12 +251,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1396312,
+      "num": 1268502,
+      "word": "谢娜还是太超前了",
+      "onboard_time": 1728879981,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1385335,
       "num": 1385335,
       "word": "祖国必须统一也必然统一",
       "onboard_time": 1728863899,
       "rank": 4,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1361976,
+      "num": 1184614,
+      "word": "女子注销号码未解绑网盘致照片泄露",
+      "onboard_time": 1728878959,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1287431,
@@ -377,14 +393,6 @@
       "onboard_time": 1728779537,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1066499,
-      "num": 1268502,
-      "word": "谢娜还是太超前了",
-      "onboard_time": 1728879981,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 1065108,
@@ -787,6 +795,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 616613,
+      "num": 977482,
+      "word": "外逃副市长李传良违法所得被申请没收",
+      "onboard_time": 1728880041,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 615684,
       "num": 615684,
       "word": "河南一县城周边发现近2000头野猪",
@@ -1003,12 +1019,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 489659,
-      "num": 833702,
-      "word": "女子注销号码未解绑网盘致照片泄露",
-      "onboard_time": 1728878959,
-      "rank": 13,
-      "category": "社会新闻"
+      "raw_hot": 490604,
+      "num": 613897,
+      "word": "不玩大冰梗了",
+      "onboard_time": 1728881183,
+      "rank": 15,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 478990,
@@ -1331,12 +1347,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 332483,
-      "num": 977482,
-      "word": "外逃副市长李传良违法所得被申请没收",
-      "onboard_time": 1728880041,
-      "rank": 14,
-      "category": "社会新闻"
+      "raw_hot": 330841,
+      "num": 330841,
+      "word": "女生找工作被HR问如果想追你呢",
+      "onboard_time": 1728880401,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 326318,
@@ -1377,6 +1393,14 @@
       "onboard_time": 1728827122,
       "rank": 24,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 309169,
+      "num": 599966,
+      "word": "心动的信号",
+      "onboard_time": 1728880222,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 305623,
@@ -1675,14 +1699,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 253994,
-      "num": 433480,
-      "word": "心动的信号",
-      "onboard_time": 1728880222,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 252868,
       "num": 252868,
       "word": "黄磊孙莉逛环球影城",
@@ -1705,14 +1721,6 @@
       "onboard_time": 1728810319,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 249184,
-      "num": 249184,
-      "word": "女生找工作被HR问如果想追你呢",
-      "onboard_time": 1728880401,
-      "rank": 40,
-      "category": "情感"
     },
     {
       "raw_hot": 244812,
@@ -1929,6 +1937,14 @@
       "onboard_time": 1728828623,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 215190,
+      "num": 215190,
+      "word": "台独挑衅一次反制就推进一步",
+      "onboard_time": 1728882681,
+      "rank": 37,
+      "category": "国内时政"
     },
     {
       "raw_hot": 214654,
@@ -2211,6 +2227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 197430,
+      "num": 359003,
+      "word": "春花焰",
+      "onboard_time": 1728791958,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 197199,
       "num": 197199,
       "word": "马嘉祺好像混入后台的观众",
@@ -2395,14 +2419,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 189006,
-      "num": 314218,
-      "word": "春花焰",
-      "onboard_time": 1728791958,
-      "rank": 37,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 188874,
       "num": 188874,
       "word": "高圆圆回母校了",
@@ -2521,6 +2537,22 @@
       "onboard_time": 1728806418,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 181041,
+      "num": 181041,
+      "word": "解放军围岛演习随时可以转为实战",
+      "onboard_time": 1728883159,
+      "rank": 46,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 179998,
+      "num": 179998,
+      "word": "薄荷健康崩了",
+      "onboard_time": 1728880940,
+      "rank": 47,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 179196,
@@ -4011,6 +4043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 60414,
+      "num": 575621,
+      "word": "在职场该不该扮蠢",
+      "onboard_time": 1728882560,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 59044,
       "num": 59044,
       "word": "直播间一眼假的名家字画谁在买",
@@ -4099,6 +4139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 49442,
+      "num": 358283,
+      "word": "京东双11九大便宜攻略",
+      "onboard_time": 1728882441,
+      "rank": 26,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 49387,
       "num": 317669,
       "word": "实探东北雨姐拍摄小院",
@@ -4145,6 +4193,14 @@
       "onboard_time": 1728772031,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 47229,
+      "num": 356651,
+      "word": "东部战区发布枕戈待旦组合海报",
+      "onboard_time": 1728882560,
+      "rank": 29,
+      "category": "军事"
     },
     {
       "raw_hot": 45682,
@@ -4435,12 +4491,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 23429,
+      "num": 356021,
+      "word": "克隆网站乱象调查",
+      "onboard_time": 1728881421,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 22854,
       "num": 22854,
       "word": "运输车翻车致化学品泄漏有人中毒",
       "onboard_time": 1728848171,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 22327,
+      "num": 592006,
+      "word": "掐脖吻",
+      "onboard_time": 1728883038,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 21934,

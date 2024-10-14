@@ -1,0 +1,410 @@
+{
+  "runTime": 1728883344135,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 184336,
+        "num": 1348391,
+        "word": "中国掌握了美政府黑客嫁祸他国的证据",
+        "onboard_time": 1728873559,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2320832,
+        "num": 1340767,
+        "word": "祖国完全统一一定会实现",
+        "onboard_time": 1728875300,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 52540,
+        "num": 1312040,
+        "word": "这个500多亿的大项目背后有深意",
+        "onboard_time": 1728863718,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2134083,
+        "num": 1289730,
+        "word": "解放军3次围岛行动示意图对比",
+        "onboard_time": 1728879139,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2050166,
+        "num": 1263718,
+        "word": "台独是死路一条",
+        "onboard_time": 1728863899,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1396312,
+        "num": 1222550,
+        "word": "谢娜还是太超前了",
+        "onboard_time": 1728879981,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1390937,
+        "num": 1189803,
+        "word": "解放军抵近台岛演习夺取综合制权",
+        "onboard_time": 1728859935,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1361976,
+        "num": 1184614,
+        "word": "女子注销号码未解绑网盘致照片泄露",
+        "onboard_time": 1728878959,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 543634,
+        "num": 1147926,
+        "word": "K总停播",
+        "onboard_time": 1728871878,
+        "rank": 8,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1134035,
+        "num": 1134035,
+        "word": "韩国朝鲜",
+        "onboard_time": 1728866479,
+        "rank": 9,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1312955,
+        "num": 997217,
+        "word": "台湾自古就是中国领土",
+        "onboard_time": 1728868877,
+        "rank": 10,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 857458,
+        "num": 857458,
+        "word": "外逃鸡西原副市长涉案逾31亿",
+        "onboard_time": 1728874819,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 837605,
+        "num": 837605,
+        "word": "美国无差别监听全球互联网用户",
+        "onboard_time": 1728874999,
+        "rank": 12,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 759227,
+        "num": 759227,
+        "word": "东部战区为什么于凌晨夜间发起演习",
+        "onboard_time": 1728866721,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 616613,
+        "num": 616613,
+        "word": "外逃副市长李传良违法所得被申请没收",
+        "onboard_time": 1728880041,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 490604,
+        "num": 613897,
+        "word": "不玩大冰梗了",
+        "onboard_time": 1728881183,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 309169,
+        "num": 599966,
+        "word": "心动的信号",
+        "onboard_time": 1728880222,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 22327,
+        "num": 592006,
+        "word": "掐脖吻",
+        "onboard_time": 1728883038,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 221444,
+        "num": 581331,
+        "word": "认哥MC赌博诈骗上亿韩元",
+        "onboard_time": 1728877279,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 60414,
+        "num": 575621,
+        "word": "在职场该不该扮蠢",
+        "onboard_time": 1728882560,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1011155,
+        "num": 566211,
+        "word": "印度女子不满女儿恋情雇凶杀女遭反杀",
+        "onboard_time": 1728875419,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 561333,
+        "num": 561333,
+        "word": "为什么要进行联合利剑2024B演习",
+        "onboard_time": 1728870079,
+        "rank": 21,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 546268,
+        "num": 546268,
+        "word": "药水哥近况",
+        "onboard_time": 1728870500,
+        "rank": 22,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 375132,
+        "num": 375132,
+        "word": "11岁男生向女童泼开水不需承担刑责",
+        "onboard_time": 1728867380,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 359442,
+        "num": 359442,
+        "word": "一个农村家庭开始正视女儿养老",
+        "onboard_time": 1728878661,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197430,
+        "num": 359003,
+        "word": "春花焰",
+        "onboard_time": 1728880641,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 49442,
+        "num": 358283,
+        "word": "京东双11九大便宜攻略",
+        "onboard_time": 1728882441,
+        "rank": 26,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 180270,
+        "num": 357835,
+        "word": "短剧三件套",
+        "onboard_time": 1728867501,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179312,
+        "num": 357497,
+        "word": "李沐宸谈自愿从长剧转短剧",
+        "onboard_time": 1728867680,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 47229,
+        "num": 356651,
+        "word": "东部战区发布枕戈待旦组合海报",
+        "onboard_time": 1728882560,
+        "rank": 29,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 23429,
+        "num": 356021,
+        "word": "克隆网站乱象调查",
+        "onboard_time": 1728881421,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 355695,
+        "num": 355695,
+        "word": "国考岗位表",
+        "onboard_time": 1728874638,
+        "rank": 31,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 330841,
+        "num": 330841,
+        "word": "女生找工作被HR问如果想追你呢",
+        "onboard_time": 1728880401,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 299861,
+        "num": 299861,
+        "word": "祖国必须统一也必然统一",
+        "onboard_time": 1728863899,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 256655,
+        "num": 256655,
+        "word": "美国一网络恶意武器被中国曝光",
+        "onboard_time": 1728872598,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 249255,
+        "num": 249255,
+        "word": "这个周一给我一种无力感",
+        "onboard_time": 1728872058,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 228608,
+        "num": 228608,
+        "word": "联合利剑2024B演习",
+        "onboard_time": 1728873618,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 215190,
+        "num": 215190,
+        "word": "台独挑衅一次反制就推进一步",
+        "onboard_time": 1728882681,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 210568,
+        "num": 210568,
+        "word": "按一个中国原则依法管控台岛",
+        "onboard_time": 1728866600,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 205915,
+        "num": 205915,
+        "word": "司马南在胖东来直播被劝离",
+        "onboard_time": 1728873438,
+        "rank": 39,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 205607,
+        "num": 205607,
+        "word": "联合利剑2024B图上的红点",
+        "onboard_time": 1728865940,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 200436,
+        "num": 200436,
+        "word": "药水哥健身比赛第三名",
+        "onboard_time": 1728879799,
+        "rank": 41,
+        "category": "电竞,网红"
+      },
+      {
+        "raw_hot": 200409,
+        "num": 200409,
+        "word": "我国主要城市成美国网络秘密入侵目标",
+        "onboard_time": 1728878421,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 197161,
+        "num": 197161,
+        "word": "为悼念吴邦国同志天安门下半旗",
+        "onboard_time": 1728866659,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 187254,
+        "num": 187254,
+        "word": "樊振东巴黎奥运之后首次参赛",
+        "onboard_time": 1728877400,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 184221,
+        "num": 184221,
+        "word": "2025国考行测增设政治理论部分",
+        "onboard_time": 1728876437,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 181041,
+        "num": 181041,
+        "word": "解放军围岛演习随时可以转为实战",
+        "onboard_time": 1728883159,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 179998,
+        "num": 179998,
+        "word": "薄荷健康崩了",
+        "onboard_time": 1728880940,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 162718,
+        "num": 162718,
+        "word": "樊振东全锦赛适应场地训练",
+        "onboard_time": 1728875718,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158001,
+        "num": 158001,
+        "word": "三次台岛周边军演示意图对比",
+        "onboard_time": 1728873737,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#为了友谊这件大事跨越山海#"
+    }
+  }
+}
