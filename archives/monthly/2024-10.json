@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1728884401062,
+  "endTime": 1728887543222,
   "band_list": [
     {
       "raw_hot": 17915004,
@@ -1355,6 +1355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1405452,
+      "num": 935490,
+      "word": "解放军破晓出击现场画面",
+      "onboard_time": 1728885559,
+      "rank": 3,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1400085,
       "num": 1400085,
       "word": "人贩子名字她从5岁记到30多岁",
@@ -1555,6 +1563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1341203,
+      "num": 827071,
+      "word": "关智斌舞台求婚阿Sa",
+      "onboard_time": 1728886520,
+      "rank": 10,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1340761,
       "num": 782086,
       "word": "你好星期六全员cos经典男主角",
@@ -1673,6 +1689,14 @@
       "onboard_time": 1728794358,
       "rank": 38,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1286315,
+      "num": 827050,
+      "word": "掐脖吻",
+      "onboard_time": 1728883038,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 1285635,
@@ -2001,6 +2025,14 @@
       "onboard_time": 1728270978,
       "rank": 30,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 1181219,
+      "num": 855614,
+      "word": "台独顽固分子沈伯洋曹兴诚被惩戒",
+      "onboard_time": 1728883820,
+      "rank": 37,
+      "category": "国内时政"
     },
     {
       "raw_hot": 1178046,
@@ -3787,12 +3819,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 827490,
+      "num": 827490,
+      "word": "向佐火到韩国",
+      "onboard_time": 1728883400,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 827093,
       "num": 344739,
       "word": "王以太当爸爸了",
       "onboard_time": 1728830123,
       "rank": 41,
       "category": "演出"
+    },
+    {
+      "raw_hot": 826910,
+      "num": 826910,
+      "word": "解放军围岛演习随时可以转为实战",
+      "onboard_time": 1728883159,
+      "rank": 46,
+      "category": "国内时政"
     },
     {
       "raw_hot": 825647,
@@ -4883,14 +4931,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 699752,
-      "num": 699752,
-      "word": "掐脖吻",
-      "onboard_time": 1728883038,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 699183,
       "num": 699183,
       "word": "无缝球",
@@ -5803,14 +5843,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 621694,
-      "num": 621694,
-      "word": "向佐火到韩国",
-      "onboard_time": 1728883400,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 621552,
       "num": 621552,
       "word": "A股逼近涨停开盘",
@@ -5849,6 +5881,14 @@
       "onboard_time": 1728213260,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 618633,
+      "num": 618633,
+      "word": "萧敬腾爸爸催生",
+      "onboard_time": 1728884958,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 617321,
@@ -8131,6 +8171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 464147,
+      "num": 628943,
+      "word": "朴灿烈模仿向佐摸鼻梁动作",
+      "onboard_time": 1728885739,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 463637,
       "num": 207684,
       "word": "高瀚宇讲价 贫穷战胜了羞耻心",
@@ -8161,14 +8209,6 @@
       "onboard_time": 1728384982,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 462443,
-      "num": 462443,
-      "word": "解放军围岛演习随时可以转为实战",
-      "onboard_time": 1728883159,
-      "rank": 46,
-      "category": "国内时政"
     },
     {
       "raw_hot": 462172,
@@ -9899,6 +9939,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 375257,
+      "num": 375257,
+      "word": "邯郸一村庄2人被人杀害",
+      "onboard_time": 1728885977,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 375078,
       "num": 224608,
       "word": "多车返程高速上轮胎被扎钉子",
@@ -11371,6 +11419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 324729,
+      "num": 324729,
+      "word": "辽宁舰航母编队参加围岛演习",
+      "onboard_time": 1728883759,
+      "rank": 38,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 324603,
       "num": 324603,
       "word": "美国特工掀起大规模离职潮",
@@ -11537,6 +11593,14 @@
       "onboard_time": 1728173837,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 318319,
+      "num": 318319,
+      "word": "解放军歼击机轰炸机跨海峡奔袭迫近台岛",
+      "onboard_time": 1728886278,
+      "rank": 31,
+      "category": "国内时政"
     },
     {
       "raw_hot": 317715,
@@ -11995,6 +12059,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 305237,
+      "num": 305237,
+      "word": "村主任故意撞人致死死者女儿发声",
+      "onboard_time": 1728884419,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 305179,
       "num": 305179,
       "word": "大学生涌入小猿口算平台pk小学生",
@@ -12105,6 +12177,14 @@
       "onboard_time": 1728187220,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 301816,
+      "num": 301816,
+      "word": "伊能静谈与刘亦菲友情",
+      "onboard_time": 1728885378,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 301668,
@@ -13091,14 +13171,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 282753,
-      "num": 282753,
-      "word": "台独顽固分子沈伯洋曹兴诚被惩戒",
-      "onboard_time": 1728883820,
-      "rank": 37,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 282432,
       "num": 282432,
       "word": "股票",
@@ -13265,6 +13337,14 @@
       "onboard_time": 1727999055,
       "rank": 14,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 279319,
+      "num": 279319,
+      "word": "第五人格 chiha",
+      "onboard_time": 1728884659,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 279277,
@@ -13987,6 +14067,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 265126,
+      "num": 265126,
+      "word": "胖东来回应拒绝司马南直播",
+      "onboard_time": 1728884301,
+      "rank": 41,
+      "category": "互联网,艺人"
+    },
+    {
       "raw_hot": 265108,
       "num": 265108,
       "word": "ON在干嘛",
@@ -14313,14 +14401,6 @@
       "onboard_time": 1727830578,
       "rank": 28,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 259617,
-      "num": 259617,
-      "word": "辽宁舰航母编队参加围岛演习",
-      "onboard_time": 1728883759,
-      "rank": 38,
-      "category": "国内时政"
     },
     {
       "raw_hot": 259447,
@@ -14657,6 +14737,14 @@
       "onboard_time": 1728643699,
       "rank": 24,
       "category": "电影"
+    },
+    {
+      "raw_hot": 252909,
+      "num": 252909,
+      "word": "美国水蝮蛇窃密设备伪装成USB键盘",
+      "onboard_time": 1728886578,
+      "rank": 39,
+      "category": "国外时政"
     },
     {
       "raw_hot": 252868,
@@ -16243,14 +16331,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 225551,
-      "num": 225551,
-      "word": "胖东来回应拒绝司马南直播",
-      "onboard_time": 1728884301,
-      "rank": 41,
-      "category": "互联网,艺人"
-    },
-    {
       "raw_hot": 225534,
       "num": 225534,
       "word": "以军称打死加沙地带哈马斯领导人",
@@ -16985,6 +17065,14 @@
       "onboard_time": 1728097338,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 216874,
+      "num": 320391,
+      "word": "赵牧辰到底喜欢谁",
+      "onboard_time": 1728412811,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 216803,
@@ -20873,6 +20961,14 @@
       "onboard_time": 1728641360,
       "rank": 40,
       "category": "美食"
+    },
+    {
+      "raw_hot": 186545,
+      "num": 186545,
+      "word": "村主任撞人致死赔650万后改判15年",
+      "onboard_time": 1728887479,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 186516,
@@ -25323,6 +25419,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 153043,
+      "num": 387208,
+      "word": "女生吃卤味发现荧光剂根本洗不掉",
+      "onboard_time": 1728885679,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 152994,
       "num": 152994,
       "word": "芒果男艺人回应长得人山人海",
@@ -25968,6 +26072,14 @@
       "word": "日本一火山一天喷发3次",
       "onboard_time": 1728398122,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 148664,
+      "num": 319582,
+      "word": "贫困县砸2亿元建酒店烂尾有人接盘了",
+      "onboard_time": 1728885559,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -33179,6 +33291,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 97243,
+      "num": 779052,
+      "word": "老赖为不还钱收入144万支出146万",
+      "onboard_time": 1728886458,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 97203,
       "num": 97203,
       "word": "文化中国行感受非遗魅力",
@@ -34049,6 +34169,14 @@
       "onboard_time": 1728489678,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 88394,
+      "num": 621107,
+      "word": "七夜雪 暧昧拉扯",
+      "onboard_time": 1728887179,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 88099,
@@ -36723,6 +36851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 54880,
+      "num": 827178,
+      "word": "A股三大股指均涨逾2%",
+      "onboard_time": 1728886218,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 54665,
       "num": 338079,
       "word": "张晚意任敏古装cp感",
@@ -37145,6 +37281,14 @@
       "onboard_time": 1728216921,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 49899,
+      "num": 580033,
+      "word": "范晓萱胖了好多",
+      "onboard_time": 1728886758,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 49712,
@@ -38987,6 +39131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 34438,
+      "num": 184117,
+      "word": "桂花焦糖烤奶",
+      "onboard_time": 1728886758,
+      "rank": 48,
+      "category": "美食"
+    },
+    {
       "raw_hot": 34427,
       "num": 174539,
       "word": "武术比赛选手对打被质疑不激烈",
@@ -40025,14 +40177,6 @@
       "onboard_time": 1727817972,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 26739,
-      "num": 26739,
-      "word": "赵牧辰到底喜欢谁",
-      "onboard_time": 1728412811,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 26712,

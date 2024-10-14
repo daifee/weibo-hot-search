@@ -1,6 +1,6 @@
 {
   "startTime": 1728836764624,
-  "endTime": 1728884401062,
+  "endTime": 1728887543222,
   "band_list": [
     {
       "raw_hot": 3312537,
@@ -99,6 +99,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1405452,
+      "num": 935490,
+      "word": "解放军破晓出击现场画面",
+      "onboard_time": 1728885559,
+      "rank": 3,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1396312,
       "num": 1268502,
       "word": "谢娜还是太超前了",
@@ -129,6 +137,22 @@
       "onboard_time": 1728825742,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1341203,
+      "num": 827071,
+      "word": "关智斌舞台求婚阿Sa",
+      "onboard_time": 1728886520,
+      "rank": 10,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 1286315,
+      "num": 827050,
+      "word": "掐脖吻",
+      "onboard_time": 1728883038,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 1261004,
@@ -177,6 +201,14 @@
       "onboard_time": 1728830004,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1181219,
+      "num": 855614,
+      "word": "台独顽固分子沈伯洋曹兴诚被惩戒",
+      "onboard_time": 1728883820,
+      "rank": 37,
+      "category": "国内时政"
     },
     {
       "raw_hot": 1089422,
@@ -243,6 +275,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 827490,
+      "num": 827490,
+      "word": "向佐火到韩国",
+      "onboard_time": 1728883400,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 826910,
+      "num": 826910,
+      "word": "解放军围岛演习随时可以转为实战",
+      "onboard_time": 1728883159,
+      "rank": 46,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 824848,
       "num": 1204797,
       "word": "美国一网络恶意武器被中国曝光",
@@ -291,14 +339,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 699752,
-      "num": 699752,
-      "word": "掐脖吻",
-      "onboard_time": 1728883038,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 697587,
       "num": 697587,
       "word": "国考",
@@ -315,11 +355,11 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 621694,
-      "num": 621694,
-      "word": "向佐火到韩国",
-      "onboard_time": 1728883400,
-      "rank": 14,
+      "raw_hot": 618633,
+      "num": 618633,
+      "word": "萧敬腾爸爸催生",
+      "onboard_time": 1728884958,
+      "rank": 18,
       "category": "艺人"
     },
     {
@@ -411,20 +451,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 464147,
+      "num": 628943,
+      "word": "朴灿烈模仿向佐摸鼻梁动作",
+      "onboard_time": 1728885739,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 463833,
       "num": 430157,
       "word": "林诗栋vs张本智和",
       "onboard_time": 1728819621,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 462443,
-      "num": 462443,
-      "word": "解放军围岛演习随时可以转为实战",
-      "onboard_time": 1728883159,
-      "rank": 46,
-      "category": "国内时政"
     },
     {
       "raw_hot": 448567,
@@ -489,6 +529,14 @@
       "onboard_time": 1728875718,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 375257,
+      "num": 375257,
+      "word": "邯郸一村庄2人被人杀害",
+      "onboard_time": 1728885977,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 363838,
@@ -563,6 +611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 324729,
+      "num": 324729,
+      "word": "辽宁舰航母编队参加围岛演习",
+      "onboard_time": 1728883759,
+      "rank": 38,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 322141,
       "num": 229276,
       "word": "吴镇宇晒费曼王嘉尔合照",
@@ -577,6 +633,14 @@
       "onboard_time": 1728877279,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 318319,
+      "num": 318319,
+      "word": "解放军歼击机轰炸机跨海峡奔袭迫近台岛",
+      "onboard_time": 1728886278,
+      "rank": 31,
+      "category": "国内时政"
     },
     {
       "raw_hot": 317715,
@@ -601,6 +665,22 @@
       "onboard_time": 1728880222,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 305237,
+      "num": 305237,
+      "word": "村主任故意撞人致死死者女儿发声",
+      "onboard_time": 1728884419,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 301816,
+      "num": 301816,
+      "word": "伊能静谈与刘亦菲友情",
+      "onboard_time": 1728885378,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 300114,
@@ -667,14 +747,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 282753,
-      "num": 282753,
-      "word": "台独顽固分子沈伯洋曹兴诚被惩戒",
-      "onboard_time": 1728883820,
-      "rank": 37,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 282639,
       "num": 282639,
       "word": "房地产税收新政将出台",
@@ -689,6 +761,14 @@
       "onboard_time": 1728870379,
       "rank": 31,
       "category": "财经"
+    },
+    {
+      "raw_hot": 279319,
+      "num": 279319,
+      "word": "第五人格 chiha",
+      "onboard_time": 1728884659,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 278738,
@@ -731,12 +811,12 @@
       "category": "电竞,网红"
     },
     {
-      "raw_hot": 259617,
-      "num": 259617,
-      "word": "辽宁舰航母编队参加围岛演习",
-      "onboard_time": 1728883759,
-      "rank": 38,
-      "category": "国内时政"
+      "raw_hot": 265126,
+      "num": 265126,
+      "word": "胖东来回应拒绝司马南直播",
+      "onboard_time": 1728884301,
+      "rank": 41,
+      "category": "互联网,艺人"
     },
     {
       "raw_hot": 259024,
@@ -755,6 +835,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 252909,
+      "num": 252909,
+      "word": "美国水蝮蛇窃密设备伪装成USB键盘",
+      "onboard_time": 1728886578,
+      "rank": 39,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 249402,
       "num": 249402,
       "word": "我国主要城市成美国网络秘密入侵目标",
@@ -769,14 +857,6 @@
       "onboard_time": 1728831683,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 225551,
-      "num": 225551,
-      "word": "胖东来回应拒绝司马南直播",
-      "onboard_time": 1728884301,
-      "rank": 41,
-      "category": "互联网,艺人"
     },
     {
       "raw_hot": 223984,
@@ -801,6 +881,14 @@
       "onboard_time": 1728882681,
       "rank": 37,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 216874,
+      "num": 320391,
+      "word": "赵牧辰到底喜欢谁",
+      "onboard_time": 1728886699,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 214089,
@@ -979,6 +1067,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 186545,
+      "num": 186545,
+      "word": "村主任撞人致死赔650万后改判15年",
+      "onboard_time": 1728887479,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 185761,
       "num": 185761,
       "word": "WBG晋级S14八强",
@@ -1099,6 +1195,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 153043,
+      "num": 387208,
+      "word": "女生吃卤味发现荧光剂根本洗不掉",
+      "onboard_time": 1728885679,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 151598,
       "num": 212940,
       "word": "芒果台有一半都去了黄绮珊演唱会",
@@ -1121,6 +1225,14 @@
       "onboard_time": 1728869179,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 148664,
+      "num": 319582,
+      "word": "贫困县砸2亿元建酒店烂尾有人接盘了",
+      "onboard_time": 1728885559,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 148648,
@@ -1291,6 +1403,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 97243,
+      "num": 779052,
+      "word": "老赖为不还钱收入144万支出146万",
+      "onboard_time": 1728886458,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 88394,
+      "num": 621107,
+      "word": "七夜雪 暧昧拉扯",
+      "onboard_time": 1728887179,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 79749,
       "num": 79749,
       "word": "小孩姐戴三道杠走路的气质好帅呀",
@@ -1347,6 +1475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 54880,
+      "num": 827178,
+      "word": "A股三大股指均涨逾2%",
+      "onboard_time": 1728886218,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 53762,
       "num": 672557,
       "word": "朴智旻方回应诈骗受害",
@@ -1369,6 +1505,14 @@
       "onboard_time": 1728840733,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 49899,
+      "num": 580033,
+      "word": "范晓萱胖了好多",
+      "onboard_time": 1728886758,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 49442,
@@ -1449,6 +1593,14 @@
       "onboard_time": 1728825861,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 34438,
+      "num": 184117,
+      "word": "桂花焦糖烤奶",
+      "onboard_time": 1728886758,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 33958,
