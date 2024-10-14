@@ -1,6 +1,6 @@
 {
   "startTime": 1728750414717,
-  "endTime": 1728898746697,
+  "endTime": 1728901495266,
   "band_list": [
     {
       "raw_hot": 17915004,
@@ -73,6 +73,14 @@
       "onboard_time": 1728866479,
       "rank": 5,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 2464830,
+      "num": 1032725,
+      "word": "首次将封锁台湾摆在台面",
+      "onboard_time": 1728894379,
+      "rank": 48,
+      "category": "国内时政"
     },
     {
       "raw_hot": 2400749,
@@ -161,14 +169,6 @@
       "onboard_time": 1728820521,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 2005625,
-      "num": 1032725,
-      "word": "首次将封锁台湾摆在台面",
-      "onboard_time": 1728894379,
-      "rank": 48,
-      "category": "国内时政"
     },
     {
       "raw_hot": 2001206,
@@ -435,6 +435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1099297,
+      "num": 961401,
+      "word": "王大伟受贿5.55亿元被判死缓",
+      "onboard_time": 1728898938,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1094018,
       "num": 1094018,
       "word": "王楚钦止步亚锦赛8强",
@@ -505,6 +513,14 @@
       "onboard_time": 1728866659,
       "rank": 7,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1024366,
+      "num": 484243,
+      "word": "颜如晶半年瘦了50斤",
+      "onboard_time": 1728897680,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 997545,
@@ -827,6 +843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 738495,
+      "num": 760318,
+      "word": "教师在幼儿园内驾车撞倒3名孩子致1死",
+      "onboard_time": 1728894920,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 736981,
       "num": 472665,
       "word": "费曼模仿向佐",
@@ -1139,12 +1163,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 507201,
-      "num": 760318,
-      "word": "教师在幼儿园内驾车撞倒3名孩子致1死",
-      "onboard_time": 1728894920,
-      "rank": 9,
-      "category": "社会新闻"
+      "raw_hot": 507134,
+      "num": 486320,
+      "word": "杨幂治好了我的犯错羞耻症",
+      "onboard_time": 1728894320,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 505611,
@@ -1177,6 +1201,14 @@
       "onboard_time": 1728831743,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 496903,
+      "num": 496903,
+      "word": "MAMA提名",
+      "onboard_time": 1728899839,
+      "rank": 6,
+      "category": "音乐"
     },
     {
       "raw_hot": 493889,
@@ -1315,6 +1347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 434755,
+      "num": 626174,
+      "word": "李沁妆造",
+      "onboard_time": 1728896718,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 434576,
       "num": 365937,
       "word": "林诗栋18比16篠塚大登",
@@ -1393,14 +1433,6 @@
       "onboard_time": 1728802398,
       "rank": 13,
       "category": "体育"
-    },
-    {
-      "raw_hot": 387247,
-      "num": 626174,
-      "word": "李沁妆造",
-      "onboard_time": 1728896718,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 384388,
@@ -1563,6 +1595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 340155,
+      "num": 340155,
+      "word": "云南阿奎离世前直播称实在熬不住了",
+      "onboard_time": 1728900378,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 339756,
       "num": 644242,
       "word": "成毅将主演长安二十四计",
@@ -1603,6 +1643,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 332406,
+      "num": 332406,
+      "word": "解放军视角超近距离看台湾",
+      "onboard_time": 1728899658,
+      "rank": 28,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 332064,
       "num": 273469,
       "word": "邓亚萍谈金琴英3比1张本美和",
@@ -1640,14 +1688,6 @@
       "word": "吴镇宇晒费曼王嘉尔合照",
       "onboard_time": 1728831743,
       "rank": 32,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 321025,
-      "num": 486320,
-      "word": "杨幂治好了我的犯错羞耻症",
-      "onboard_time": 1728894320,
-      "rank": 19,
       "category": "艺人"
     },
     {
@@ -1713,6 +1753,14 @@
       "onboard_time": 1728790998,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 302017,
+      "num": 302017,
+      "word": "HYBE称lesserafim和illit精神崩溃",
+      "onboard_time": 1728897379,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 301816,
@@ -1833,14 +1881,6 @@
       "onboard_time": 1728897019,
       "rank": 8,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 291281,
-      "num": 291281,
-      "word": "HYBE称lesserafim和illit精神崩溃",
-      "onboard_time": 1728897379,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 289674,
@@ -2347,6 +2387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 216578,
+      "num": 496210,
+      "word": "徐明浩镜头",
+      "onboard_time": 1728898339,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 215811,
       "num": 215811,
       "word": "联合国维和部队拒绝以色列撤离要求",
@@ -2523,20 +2571,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 205292,
-      "num": 205292,
-      "word": "徐明浩镜头",
-      "onboard_time": 1728898339,
-      "rank": 36,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 204592,
       "num": 204592,
       "word": "郑钦文巩固世界第7排名",
       "onboard_time": 1728824722,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 204081,
+      "num": 204081,
+      "word": "2024诺贝尔经济学奖公布",
+      "onboard_time": 1728901341,
+      "rank": 39,
+      "category": "财经"
     },
     {
       "raw_hot": 204061,
@@ -2611,6 +2659,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 202395,
+      "num": 202395,
+      "word": "杭州网红柿子树因长太好被质疑",
+      "onboard_time": 1728901039,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 202080,
       "num": 184341,
       "word": "余宇涵出发北京路透",
@@ -2625,6 +2681,14 @@
       "onboard_time": 1728878721,
       "rank": 46,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 201209,
+      "num": 313501,
+      "word": "文俊辉part好少",
+      "onboard_time": 1728901039,
+      "rank": 29,
+      "category": "音乐"
     },
     {
       "raw_hot": 200777,
@@ -2689,6 +2753,14 @@
       "onboard_time": 1728747020,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 197983,
+      "num": 197983,
+      "word": "女高中生高强度学习的一天",
+      "onboard_time": 1728899119,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 197430,
@@ -2995,6 +3067,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 183817,
+      "num": 183817,
+      "word": "林高远刘诗雯4比1尹孟泽何小雨",
+      "onboard_time": 1728899600,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 182989,
       "num": 182989,
       "word": "萨巴伦卡说郑钦文跟之前比确实有进步",
@@ -3043,6 +3123,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 179817,
+      "num": 179817,
+      "word": "景德镇巨响",
+      "onboard_time": 1728898700,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 179196,
       "num": 179196,
       "word": "小石头已经很棒了",
@@ -3057,14 +3145,6 @@
       "onboard_time": 1728798739,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 176896,
-      "num": 436468,
-      "word": "颜如晶半年瘦了50斤",
-      "onboard_time": 1728897680,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 176462,
@@ -3136,14 +3216,6 @@
       "word": "罕见降雨致撒哈拉沙漠出现洪水",
       "onboard_time": 1728820400,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 170347,
-      "num": 170347,
-      "word": "景德镇巨响",
-      "onboard_time": 1728898700,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -4363,6 +4435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 94694,
+      "num": 987890,
+      "word": "敦促美方立即停止全球范围内网络攻击",
+      "onboard_time": 1728898700,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 94187,
       "num": 94187,
       "word": "林诗栋蒯曼vs李正植金琴英",
@@ -4528,6 +4608,14 @@
       "word": "雌雄双盗睡着后被网约车送派出所",
       "onboard_time": 1728896359,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 83567,
+      "num": 609559,
+      "word": "唯一不想打伞的雨是红包雨",
+      "onboard_time": 1728897379,
+      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -4851,11 +4939,27 @@
       "category": "军事"
     },
     {
+      "raw_hot": 46185,
+      "num": 199097,
+      "word": "京东服装5折券又来了",
+      "onboard_time": 1728901099,
+      "rank": 41,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 45682,
       "num": 389029,
       "word": "消费者如何辨别粉条是不是纯红薯粉",
       "onboard_time": 1728803598,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 44571,
+      "num": 487769,
+      "word": "淘宝百亿补贴111元抢小米三件套",
+      "onboard_time": 1728900019,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -4896,6 +5000,14 @@
       "word": "从爆火到平静哀牢山的冷热15天",
       "onboard_time": 1728821239,
       "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 42863,
+      "num": 261325,
+      "word": "J人的购物车早一个月就想好了",
+      "onboard_time": 1728898578,
+      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -4947,14 +5059,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 40013,
-      "num": 609559,
-      "word": "唯一不想打伞的雨是红包雨",
-      "onboard_time": 1728897379,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 37563,
       "num": 313555,
       "word": "企业虚标大米保质期卖学校被罚超690万",
@@ -5003,6 +5107,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 35844,
+      "num": 304883,
+      "word": "开始理解大学生的消费观了",
+      "onboard_time": 1728899300,
+      "rank": 30,
+      "category": "情感,教育"
+    },
+    {
+      "raw_hot": 35533,
+      "num": 494385,
+      "word": "军事专家谈联合利剑2024B演习",
+      "onboard_time": 1728899839,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 35391,
       "num": 356159,
       "word": "中证A系列指数再扩容",
@@ -5041,6 +5161,14 @@
       "onboard_time": 1728886758,
       "rank": 48,
       "category": "美食"
+    },
+    {
+      "raw_hot": 34299,
+      "num": 493674,
+      "word": "中国海警加大管控台岛力度有何深意",
+      "onboard_time": 1728900079,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 34099,
@@ -5155,6 +5283,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 26648,
+      "num": 488278,
+      "word": "企业多次造假跃升成数码零售巨头",
+      "onboard_time": 1728900500,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 25855,
       "num": 208155,
       "word": "这趟开往秋天童话的列车已出发",
@@ -5169,6 +5305,14 @@
       "onboard_time": 1728858313,
       "rank": 49,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 25036,
+      "num": 259677,
+      "word": "天猫双11家电补到6折现货不用等",
+      "onboard_time": 1728900919,
+      "rank": 35,
+      "category": "数码,互联网"
     },
     {
       "raw_hot": 24125,
@@ -5200,6 +5344,14 @@
       "word": "克隆网站乱象调查",
       "onboard_time": 1728881421,
       "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 23185,
+      "num": 481274,
+      "word": "前村长被指盗信息为不明孩子落户",
+      "onboard_time": 1728900800,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -5371,14 +5523,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 9190,
-      "num": 186577,
-      "word": "J人的购物车早一个月就想好了",
-      "onboard_time": 1728898578,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 9077,
       "num": 822593,
       "word": "2024年全国数字乡村创新大赛",
@@ -5393,14 +5537,6 @@
       "onboard_time": 1728785298,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 6085,
-      "num": 987890,
-      "word": "敦促美方立即停止全球范围内网络攻击",
-      "onboard_time": 1728898700,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 4335,
