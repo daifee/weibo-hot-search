@@ -1,7 +1,15 @@
 {
   "startTime": 1728836764624,
-  "endTime": 1728870262854,
+  "endTime": 1728871363904,
   "band_list": [
+    {
+      "raw_hot": 2850094,
+      "num": 2850094,
+      "word": "东部战区为什么于凌晨夜间发起演习",
+      "onboard_time": 1728866721,
+      "rank": 0,
+      "category": "国内时政"
+    },
     {
       "raw_hot": 2691334,
       "num": 1383806,
@@ -9,14 +17,6 @@
       "onboard_time": 1728866479,
       "rank": 5,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 2604213,
-      "num": 2604213,
-      "word": "东部战区为什么于凌晨夜间发起演习",
-      "onboard_time": 1728866721,
-      "rank": 0,
-      "category": "国内时政"
     },
     {
       "raw_hot": 2390658,
@@ -59,20 +59,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1317141,
+      "num": 1317141,
+      "word": "台独是死路一条",
+      "onboard_time": 1728863899,
+      "rank": 6,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1261004,
       "num": 447301,
       "word": "朝军8个炮兵旅团转为射击待命",
       "onboard_time": 1728832042,
       "rank": 11,
       "category": "社会新闻,国外时政"
-    },
-    {
-      "raw_hot": 1249526,
-      "num": 1249526,
-      "word": "台独是死路一条",
-      "onboard_time": 1728863899,
-      "rank": 6,
-      "category": "国内时政"
     },
     {
       "raw_hot": 1215798,
@@ -155,12 +155,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 697587,
+      "num": 697587,
+      "word": "国考",
+      "onboard_time": 1728868700,
+      "rank": 22,
+      "category": "教育"
+    },
+    {
       "raw_hot": 648304,
       "num": 648304,
       "word": "联合利剑2024B图上的红点",
       "onboard_time": 1728865940,
       "rank": 12,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 568438,
+      "num": 729951,
+      "word": "短剧三件套",
+      "onboard_time": 1728867501,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 541854,
@@ -227,6 +243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 448567,
+      "num": 898619,
+      "word": "李沐宸谈自愿从长剧转短剧",
+      "onboard_time": 1728867680,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 438795,
       "num": 258658,
       "word": "女童被压车底路人98秒抬车救人",
@@ -243,22 +267,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 427909,
-      "num": 427909,
-      "word": "国考",
-      "onboard_time": 1728868700,
-      "rank": 22,
-      "category": "教育"
-    },
-    {
-      "raw_hot": 415011,
-      "num": 898619,
-      "word": "李沐宸谈自愿从长剧转短剧",
-      "onboard_time": 1728867680,
-      "rank": 9,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 408290,
       "num": 408290,
       "word": "BLG",
@@ -267,12 +275,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 403546,
-      "num": 505924,
-      "word": "短剧三件套",
-      "onboard_time": 1728867501,
-      "rank": 18,
-      "category": "综艺"
+      "raw_hot": 366581,
+      "num": 502389,
+      "word": "为什么要进行联合利剑2024B演习",
+      "onboard_time": 1728870079,
+      "rank": 19,
+      "category": "国内时政"
     },
     {
       "raw_hot": 361679,
@@ -331,6 +339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 296734,
+      "num": 296734,
+      "word": "药水哥近况",
+      "onboard_time": 1728870500,
+      "rank": 28,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 296398,
       "num": 265810,
       "word": "阿娇复胖",
@@ -345,6 +361,14 @@
       "onboard_time": 1728827904,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 279868,
+      "num": 279868,
+      "word": "A股",
+      "onboard_time": 1728870379,
+      "rank": 31,
+      "category": "财经"
     },
     {
       "raw_hot": 278738,
@@ -363,8 +387,16 @@
       "category": "体育"
     },
     {
-      "raw_hot": 262976,
-      "num": 279551,
+      "raw_hot": 272735,
+      "num": 272735,
+      "word": "赖清德要做好四面楚歌自取灭亡的准备",
+      "onboard_time": 1728870018,
+      "rank": 41,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 269546,
+      "num": 541917,
       "word": "军事专家解读本次对台演习",
       "onboard_time": 1728868339,
       "rank": 30,
@@ -387,6 +419,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 223182,
+      "num": 223182,
+      "word": "瓶子 一诺",
+      "onboard_time": 1728870677,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 214020,
+      "num": 214020,
+      "word": "11岁男生向女童泼开水不需承担刑责",
+      "onboard_time": 1728867380,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 212876,
       "num": 212876,
       "word": "白百何晒与大儿子合照",
@@ -403,12 +451,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 209936,
+      "num": 535101,
+      "word": "任敏 我的互联网新妹宝",
+      "onboard_time": 1728869838,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 209616,
+      "num": 209616,
+      "word": "极氪副总裁晒车内吃火锅视频",
+      "onboard_time": 1728870558,
+      "rank": 41,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 206834,
       "num": 206834,
       "word": "LPL全员晋级S14八强",
       "onboard_time": 1728842532,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 206124,
+      "num": 206124,
+      "word": "强力震慑台独分裂势力谋独行径",
+      "onboard_time": 1728859935,
+      "rank": 34,
+      "category": "国内时政"
     },
     {
       "raw_hot": 204523,
@@ -420,7 +492,7 @@
     },
     {
       "raw_hot": 200479,
-      "num": 281410,
+      "num": 287468,
       "word": "李沐宸哭戏",
       "onboard_time": 1728867800,
       "rank": 28,
@@ -433,14 +505,6 @@
       "onboard_time": 1728861917,
       "rank": 2,
       "category": "军事"
-    },
-    {
-      "raw_hot": 192931,
-      "num": 192931,
-      "word": "强力震慑台独分裂势力谋独行径",
-      "onboard_time": 1728859935,
-      "rank": 34,
-      "category": "国内时政"
     },
     {
       "raw_hot": 192419,
@@ -459,14 +523,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 186198,
-      "num": 186198,
-      "word": "11岁男生向女童泼开水不需承担刑责",
-      "onboard_time": 1728867380,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 185761,
       "num": 185761,
       "word": "WBG晋级S14八强",
@@ -481,14 +537,6 @@
       "onboard_time": 1728830422,
       "rank": 33,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 176446,
-      "num": 176446,
-      "word": "赖清德要做好四面楚歌自取灭亡的准备",
-      "onboard_time": 1728870018,
-      "rank": 41,
-      "category": "国内时政"
     },
     {
       "raw_hot": 176136,
@@ -521,14 +569,6 @@
       "onboard_time": 1728833060,
       "rank": 38,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 161208,
-      "num": 502389,
-      "word": "为什么要进行联合利剑2024B演习",
-      "onboard_time": 1728870079,
-      "rank": 19,
-      "category": "国内时政"
     },
     {
       "raw_hot": 157690,
@@ -617,14 +657,6 @@
       "onboard_time": 1728835580,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 131528,
-      "num": 131528,
-      "word": "任敏 我的互联网新妹宝",
-      "onboard_time": 1728869838,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 129652,
@@ -915,6 +947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 21934,
+      "num": 624201,
+      "word": "A股三大指数均涨逾1%",
+      "onboard_time": 1728871279,
+      "rank": 14,
+      "category": "财经"
+    },
+    {
       "raw_hot": 21045,
       "num": 27794,
       "word": "和独库公路约好明年再见",
@@ -924,7 +964,7 @@
     },
     {
       "raw_hot": 20661,
-      "num": 537382,
+      "num": 610382,
       "word": "关于牙白的那些真心话",
       "onboard_time": 1728867800,
       "rank": 16,
