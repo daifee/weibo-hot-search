@@ -1,6 +1,6 @@
 {
   "startTime": 1728750414717,
-  "endTime": 1728880039322,
+  "endTime": 1728880921720,
   "band_list": [
     {
       "raw_hot": 17915004,
@@ -35,20 +35,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 3312537,
+      "num": 1616366,
+      "word": "祖国完全统一一定会实现",
+      "onboard_time": 1728875300,
+      "rank": 22,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 2965185,
       "num": 438262,
       "word": "洪承汉退队",
       "onboard_time": 1728831324,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2879278,
-      "num": 1365927,
-      "word": "祖国完全统一一定会实现",
-      "onboard_time": 1728875300,
-      "rank": 22,
-      "category": "国内时政"
     },
     {
       "raw_hot": 2850094,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 2691334,
-      "num": 1383806,
+      "num": 1611315,
       "word": "韩国朝鲜",
       "onboard_time": 1728866479,
       "rank": 5,
@@ -96,6 +96,14 @@
       "word": "解放军抵近台岛演习夺取综合制权",
       "onboard_time": 1728859935,
       "rank": 0,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 2294946,
+      "num": 1613961,
+      "word": "解放军3次围岛行动示意图对比",
+      "onboard_time": 1728879139,
+      "rank": 9,
       "category": "国内时政"
     },
     {
@@ -139,20 +147,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1990137,
+      "num": 1612330,
+      "word": "美国无差别监听全球互联网用户",
+      "onboard_time": 1728874999,
+      "rank": 41,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1947210,
       "num": 457733,
       "word": "国乒怎么了",
       "onboard_time": 1728830004,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1781102,
-      "num": 1337372,
-      "word": "美国无差别监听全球互联网用户",
-      "onboard_time": 1728874999,
-      "rank": 41,
-      "category": "国内时政"
     },
     {
       "raw_hot": 1727739,
@@ -179,6 +187,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1610645,
+      "num": 1610645,
+      "word": "台独是死路一条",
+      "onboard_time": 1728863899,
+      "rank": 6,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1607454,
       "num": 618691,
       "word": "阿娇复胖",
@@ -193,14 +209,6 @@
       "onboard_time": 1728802939,
       "rank": 10,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1522236,
-      "num": 1317141,
-      "word": "台独是死路一条",
-      "onboard_time": 1728863899,
-      "rank": 6,
-      "category": "国内时政"
     },
     {
       "raw_hot": 1495573,
@@ -371,6 +379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1066499,
+      "num": 1268502,
+      "word": "谢娜还是太超前了",
+      "onboard_time": 1728879981,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1065108,
       "num": 471830,
       "word": "90后小伙炒股4天亏损32万",
@@ -459,6 +475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 918095,
+      "num": 918095,
+      "word": "药水哥近况",
+      "onboard_time": 1728870500,
+      "rank": 28,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 917089,
       "num": 1267955,
       "word": "听泉鉴宝喊话别再神话我了",
@@ -523,14 +547,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 837408,
-      "num": 837408,
-      "word": "药水哥近况",
-      "onboard_time": 1728870500,
-      "rank": 28,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 827093,
       "num": 344739,
       "word": "王以太当爸爸了",
@@ -556,7 +572,7 @@
     },
     {
       "raw_hot": 822433,
-      "num": 1371310,
+      "num": 1617141,
       "word": "中国掌握了美政府黑客嫁祸他国的证据",
       "onboard_time": 1728873559,
       "rank": 23,
@@ -987,6 +1003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 489659,
+      "num": 833702,
+      "word": "女子注销号码未解绑网盘致照片泄露",
+      "onboard_time": 1728878959,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 478990,
       "num": 478990,
       "word": "G2",
@@ -1043,6 +1067,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 444394,
+      "num": 444394,
+      "word": "11岁男生向女童泼开水不需承担刑责",
+      "onboard_time": 1728867380,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 439255,
       "num": 439255,
       "word": "成都一燃油车在空地上燃爆",
@@ -1065,6 +1097,14 @@
       "onboard_time": 1728736760,
       "rank": 17,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 438733,
+      "num": 717884,
+      "word": "一个农村家庭开始正视女儿养老",
+      "onboard_time": 1728878661,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 434997,
@@ -1121,14 +1161,6 @@
       "onboard_time": 1728798198,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 421069,
-      "num": 421069,
-      "word": "11岁男生向女童泼开水不需承担刑责",
-      "onboard_time": 1728867380,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 408879,
@@ -1219,14 +1251,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 354202,
-      "num": 1246809,
-      "word": "解放军3次围岛行动示意图对比",
-      "onboard_time": 1728879139,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 353764,
       "num": 251069,
       "word": "许昕4比0战胜尹孟泽",
@@ -1307,11 +1331,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 332483,
+      "num": 977482,
+      "word": "外逃副市长李传良违法所得被申请没收",
+      "onboard_time": 1728880041,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 326318,
       "num": 326318,
       "word": "吴镇宇晒费曼王嘉尔合照",
       "onboard_time": 1728831743,
       "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 320857,
+      "num": 759156,
+      "word": "认哥MC赌博诈骗上亿韩元",
+      "onboard_time": 1728877279,
+      "rank": 19,
       "category": "艺人"
     },
     {
@@ -1563,6 +1603,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 265324,
+      "num": 265324,
+      "word": "药水哥健身比赛第三名",
+      "onboard_time": 1728879799,
+      "rank": 47,
+      "category": "电竞,网红"
+    },
+    {
       "raw_hot": 265306,
       "num": 265306,
       "word": "迈巴赫经销商承诺漏水负责到底",
@@ -1603,28 +1651,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 258669,
-      "num": 759156,
-      "word": "认哥MC赌博诈骗上亿韩元",
-      "onboard_time": 1728877279,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 258444,
       "num": 258444,
       "word": "光与夜之恋",
       "onboard_time": 1728794478,
       "rank": 34,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 254960,
-      "num": 833702,
-      "word": "女子注销号码未解绑网盘致照片泄露",
-      "onboard_time": 1728878959,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 254830,
@@ -1641,6 +1673,14 @@
       "onboard_time": 1728814159,
       "rank": 17,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 253994,
+      "num": 433480,
+      "word": "心动的信号",
+      "onboard_time": 1728880222,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 252868,
@@ -1665,6 +1705,14 @@
       "onboard_time": 1728810319,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 249184,
+      "num": 249184,
+      "word": "女生找工作被HR问如果想追你呢",
+      "onboard_time": 1728880401,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 244812,
@@ -1915,6 +1963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 212397,
+      "num": 212397,
+      "word": "医院回应座椅上印代孕广告",
+      "onboard_time": 1728880401,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 212165,
       "num": 251739,
       "word": "内娱古偶换乘恋爱图",
@@ -1956,7 +2012,7 @@
     },
     {
       "raw_hot": 206888,
-      "num": 206888,
+      "num": 431983,
       "word": "美国把持海底光缆建7个监听站",
       "onboard_time": 1728875181,
       "rank": 48,
@@ -1968,6 +2024,14 @@
       "word": "LPL全员晋级S14八强",
       "onboard_time": 1728842532,
       "rank": 14,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 206725,
+      "num": 206725,
+      "word": "樊振东巴黎奥运之后首次参赛",
+      "onboard_time": 1728877400,
+      "rank": 49,
       "category": "体育"
     },
     {
@@ -2195,14 +2259,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 195878,
-      "num": 717884,
-      "word": "一个农村家庭开始正视女儿养老",
-      "onboard_time": 1728878661,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 195403,
       "num": 302087,
       "word": "春花焰今日开播",
@@ -2241,14 +2297,6 @@
       "onboard_time": 1728730279,
       "rank": 24,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 192598,
-      "num": 192598,
-      "word": "药水哥健身比赛第三名",
-      "onboard_time": 1728879799,
-      "rank": 47,
-      "category": "电竞,网红"
     },
     {
       "raw_hot": 192324,
@@ -2345,6 +2393,14 @@
       "onboard_time": 1728802939,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 189006,
+      "num": 314218,
+      "word": "春花焰",
+      "onboard_time": 1728791958,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 188874,
@@ -2499,14 +2555,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 176099,
-      "num": 447041,
-      "word": "谢娜还是太超前了",
-      "onboard_time": 1728879981,
-      "rank": 29,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 175900,
       "num": 175900,
       "word": "成都GG对战MRC",
@@ -2537,14 +2585,6 @@
       "onboard_time": 1728806059,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 171371,
-      "num": 171371,
-      "word": "樊振东巴黎奥运之后首次参赛",
-      "onboard_time": 1728877400,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 171135,
@@ -3097,14 +3137,6 @@
       "onboard_time": 1728801259,
       "rank": 39,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 136629,
-      "num": 136629,
-      "word": "春花焰",
-      "onboard_time": 1728791958,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 136250,
@@ -3899,6 +3931,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 66903,
+      "num": 671377,
+      "word": "追风者成首个推荐值破百万电视剧",
+      "onboard_time": 1728880462,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 66748,
       "num": 119440,
       "word": "WBG战胜FNC",
@@ -4003,12 +4043,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 55325,
+      "num": 1615443,
+      "word": "这个500多亿的大项目背后有深意",
+      "onboard_time": 1728863718,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 55218,
       "num": 55218,
       "word": "11个月大失聪宝宝第一次听到声音",
       "onboard_time": 1728756373,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 53762,
+      "num": 672557,
+      "word": "朴智旻方回应诈骗受害",
+      "onboard_time": 1728880281,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 53339,
@@ -4136,14 +4192,6 @@
       "word": "广西发现新物种阳朔风筝果",
       "onboard_time": 1728842053,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 42251,
-      "num": 1348587,
-      "word": "这个500多亿的大项目背后有深意",
-      "onboard_time": 1728863718,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
