@@ -1,6 +1,6 @@
 {
   "startTime": 1728923247369,
-  "endTime": 1728927547699,
+  "endTime": 1728930602311,
   "band_list": [
     {
       "raw_hot": 1644797,
@@ -171,6 +171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 182956,
+      "num": 182956,
+      "word": "胖东来拒绝网红直播是以顾客为本",
+      "onboard_time": 1728925814,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 173477,
       "num": 173477,
       "word": "疾控部门回应广东蟑螂已进化",
@@ -275,6 +283,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 105891,
+      "num": 105891,
+      "word": "千万主播学历造假频繁发生",
+      "onboard_time": 1728927794,
+      "rank": 4,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 104995,
       "num": 104995,
       "word": "上海一养护院环境恶劣如同猪圈",
@@ -313,14 +329,6 @@
       "onboard_time": 1728922878,
       "rank": 39,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 97221,
-      "num": 123399,
-      "word": "胖东来拒绝网红直播是以顾客为本",
-      "onboard_time": 1728925814,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 95757,
@@ -459,6 +467,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 37752,
+      "num": 97220,
+      "word": "专家解读这一次围岛布局",
+      "onboard_time": 1728927015,
+      "rank": 9,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 34918,
       "num": 39199,
       "word": "郑秀妍郑秀晶新闻图",
@@ -467,12 +483,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 19926,
-      "num": 97220,
-      "word": "专家解读这一次围岛布局",
-      "onboard_time": 1728927015,
+      "raw_hot": 33179,
+      "num": 33179,
+      "word": "哏的直播",
+      "onboard_time": 1728927972,
+      "rank": 40,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 27449,
+      "num": 28619,
+      "word": "刀郎演唱会",
+      "onboard_time": 1728930012,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 18301,
+      "num": 79394,
+      "word": "卫生局回应医院晚上直播唱歌成KTV",
+      "onboard_time": 1728929412,
       "rank": 9,
-      "category": "国外时政"
+      "category": "社会新闻"
     },
     {
       "raw_hot": 14118,
