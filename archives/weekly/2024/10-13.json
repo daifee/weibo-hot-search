@@ -1,6 +1,6 @@
 {
   "startTime": 1728750414717,
-  "endTime": 1728916855081,
+  "endTime": 1728919448525,
   "band_list": [
     {
       "raw_hot": 17915004,
@@ -249,6 +249,14 @@
       "onboard_time": 1728868877,
       "rank": 3,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1626091,
+      "num": 448366,
+      "word": "Jennie推特被封",
+      "onboard_time": 1728916401,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 1623161,
@@ -652,7 +660,7 @@
     },
     {
       "raw_hot": 904925,
-      "num": 904925,
+      "num": 1106129,
       "word": "张馨予回应我想我会一直孤单",
       "onboard_time": 1728909199,
       "rank": 17,
@@ -995,6 +1003,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 654169,
+      "num": 654169,
+      "word": "3人故意吃虫子让火锅店赔1500",
+      "onboard_time": 1728914842,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 653059,
       "num": 653059,
       "word": "为什么金价狂飙却不香了",
@@ -1017,14 +1033,6 @@
       "onboard_time": 1728865940,
       "rank": 12,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 640212,
-      "num": 448366,
-      "word": "Jennie推特被封",
-      "onboard_time": 1728916401,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 638140,
@@ -1113,6 +1121,14 @@
       "onboard_time": 1728741563,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 593725,
+      "num": 291627,
+      "word": "赵露思 自己化妆",
+      "onboard_time": 1728916520,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 577803,
@@ -1449,6 +1465,14 @@
       "onboard_time": 1728867380,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 444123,
+      "num": 444123,
+      "word": "双十一定金",
+      "onboard_time": 1728916463,
+      "rank": 36,
+      "category": "互联网"
     },
     {
       "raw_hot": 439255,
@@ -2003,6 +2027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 296918,
+      "num": 296918,
+      "word": "A50",
+      "onboard_time": 1728916221,
+      "rank": 37,
+      "category": "财经"
+    },
+    {
       "raw_hot": 296846,
       "num": 296846,
       "word": "我海警实现台湾靠大陆侧外岛全控",
@@ -2137,14 +2169,6 @@
       "onboard_time": 1728904819,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 282979,
-      "num": 282979,
-      "word": "赵露思 自己化妆",
-      "onboard_time": 1728916520,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 280134,
@@ -2467,6 +2491,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 242501,
+      "num": 242501,
+      "word": "蔡磊最新病情",
+      "onboard_time": 1728918561,
+      "rank": 24,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 242056,
       "num": 498923,
       "word": "年轻的战场有王一博",
@@ -2491,20 +2523,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 237998,
-      "num": 451174,
-      "word": "3人故意吃虫子让火锅店赔1500",
-      "onboard_time": 1728914842,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 237782,
       "num": 296916,
       "word": "你好星期六全员穿越80年代",
       "onboard_time": 1728745343,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 236201,
+      "num": 200705,
+      "word": "杭州一女生夜晚被强行猥亵",
+      "onboard_time": 1728919162,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 233993,
@@ -2795,14 +2827,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 212987,
-      "num": 212987,
-      "word": "双十一定金",
-      "onboard_time": 1728916463,
-      "rank": 36,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 212482,
       "num": 216704,
       "word": "薛之谦霸王别姬弹唱",
@@ -3003,14 +3027,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 202883,
-      "num": 202883,
-      "word": "A50",
-      "onboard_time": 1728916221,
-      "rank": 37,
-      "category": "财经"
-    },
-    {
       "raw_hot": 202876,
       "num": 621237,
       "word": "五月天上海站官宣",
@@ -3057,6 +3073,14 @@
       "onboard_time": 1728901039,
       "rank": 29,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 201037,
+      "num": 201037,
+      "word": "春花焰观后感",
+      "onboard_time": 1728917541,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 200777,
@@ -3499,6 +3523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 182647,
+      "num": 200949,
+      "word": "王睡睡对老刘张硕说祝你们幸福",
+      "onboard_time": 1728919099,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 181671,
       "num": 333146,
       "word": "幼教老师吐槽每天都有开不完的会",
@@ -3601,6 +3633,14 @@
       "onboard_time": 1728828024,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 175022,
+      "num": 387108,
+      "word": "中公教育又被指不履行退款承诺",
+      "onboard_time": 1728914782,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 174802,
@@ -4027,6 +4067,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 150514,
+      "num": 150514,
+      "word": "练背真的专救垮脸",
+      "onboard_time": 1728917242,
+      "rank": 45,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 150348,
       "num": 150348,
       "word": "你的房贷还完了吗",
@@ -4081,6 +4129,14 @@
       "onboard_time": 1728796340,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 147616,
+      "num": 147616,
+      "word": "邪恶栀子花",
+      "onboard_time": 1728916942,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 146686,
@@ -4203,6 +4259,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 142311,
+      "num": 148262,
+      "word": "吴谨言cp体质",
+      "onboard_time": 1728919340,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 142301,
       "num": 239957,
       "word": "河南一高校饭点关闭临近小吃街校门",
@@ -4289,6 +4353,14 @@
       "onboard_time": 1728801259,
       "rank": 39,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 137090,
+      "num": 137090,
+      "word": "流水线古偶",
+      "onboard_time": 1728916103,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 136250,
@@ -4569,6 +4641,14 @@
       "onboard_time": 1728831023,
       "rank": 29,
       "category": "国外时政,军事"
+    },
+    {
+      "raw_hot": 116469,
+      "num": 450153,
+      "word": "年轻人的顶级松弛感是生图直出",
+      "onboard_time": 1728914721,
+      "rank": 11,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 116183,
@@ -5155,14 +5235,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 77865,
-      "num": 387108,
-      "word": "中公教育又被指不履行退款承诺",
-      "onboard_time": 1728914782,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 77233,
       "num": 774951,
       "word": "我国将打造全球最大规模低空通信网",
@@ -5297,14 +5369,6 @@
       "onboard_time": 1728744801,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 62371,
-      "num": 450153,
-      "word": "年轻人的顶级松弛感是生图直出",
-      "onboard_time": 1728914721,
-      "rank": 11,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 62194,
@@ -5499,6 +5563,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 49834,
+      "num": 295914,
+      "word": "小车翻滚起火路人勇救车内2人",
+      "onboard_time": 1728918141,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 49818,
       "num": 262486,
       "word": "网友提意见vivo是真改啊",
@@ -5595,6 +5667,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 46913,
+      "num": 200767,
+      "word": "vivoX200拍蜗牛喝水",
+      "onboard_time": 1728917841,
+      "rank": 31,
+      "category": "数码"
+    },
+    {
       "raw_hot": 46307,
       "num": 571479,
       "word": "vivo蓝科技国家科学技术进步奖",
@@ -5649,6 +5729,14 @@
       "onboard_time": 1728784518,
       "rank": 13,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 44072,
+      "num": 243473,
+      "word": "vivoX200Promini",
+      "onboard_time": 1728916581,
+      "rank": 42,
+      "category": "数码"
     },
     {
       "raw_hot": 43239,
@@ -5729,14 +5817,6 @@
       "onboard_time": 1728790098,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 40643,
-      "num": 182429,
-      "word": "vivoX200Promini",
-      "onboard_time": 1728916581,
-      "rank": 42,
-      "category": "数码"
     },
     {
       "raw_hot": 40455,
@@ -6083,6 +6163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 22819,
+      "num": 255779,
+      "word": "老外靠手机无障碍打卡黑神话取景地",
+      "onboard_time": 1728918440,
+      "rank": 21,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 22184,
       "num": 281851,
       "word": "家务清洁怎样省时又省力",
@@ -6201,6 +6289,14 @@
       "onboard_time": 1728847451,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 14111,
+      "num": 180866,
+      "word": "呼兰先吃上了消费主义馅饼",
+      "onboard_time": 1728917841,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 12597,

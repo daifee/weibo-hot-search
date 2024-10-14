@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/10/01 00:28:17 ~ 2024/10/14 22:40:55
+本榜单时间：2024/10/01 00:28:17 ~ 2024/10/14 23:24:08
 </p>
 </blockquote>
 <p>
@@ -851,6 +851,12 @@ A股成交再创历史最快万亿纪录（热度：2096595）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E9%9D%99%E4%BB%8E160%E6%96%A4%E7%98%A6%E5%88%B0%E4%BA%86105%E6%96%A4%23" target="weibo">
 李静从160斤瘦到了105斤（热度：1629008）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23Jennie%E6%8E%A8%E7%89%B9%E8%A2%AB%E5%B0%81%23" target="weibo">
+Jennie推特被封（热度：1626091）
 </a>
 </li>
 
@@ -4221,6 +4227,12 @@ Jessi发文道歉（热度：656438）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%233%E4%BA%BA%E6%95%85%E6%84%8F%E5%90%83%E8%99%AB%E5%AD%90%E8%AE%A9%E7%81%AB%E9%94%85%E5%BA%97%E8%B5%941500%23" target="weibo">
+3人故意吃虫子让火锅店赔1500（热度：654169）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%BB%8A%E9%BA%A6%E5%88%98%E6%B5%A9%E5%AD%98MIUMIU%E5%87%BA%E5%9B%BE%23" target="weibo">
 赵今麦刘浩存MIUMIU出图（热度：653812）
 </a>
@@ -4307,12 +4319,6 @@ B太回应曾夸东北雨姐真实（热度：649327）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%83%91%E9%92%A6%E6%96%87vs%E7%8E%8B%E6%AC%A3%E7%91%9C%23" target="weibo">
 郑钦文vs王欣瑜（热度：640470）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23Jennie%E6%8E%A8%E7%89%B9%E8%A2%AB%E5%B0%81%23" target="weibo">
-Jennie推特被封（热度：640212）
 </a>
 </li>
 
@@ -4775,6 +4781,12 @@ A股暴涨后股民消费升级（热度：596347）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%8D%E6%B8%A915%E6%AC%A1%E5%9B%BD%E5%BA%86%E9%98%85%E5%85%B5%E9%AB%98%E7%87%83%E7%9E%AC%E9%97%B4%23" target="weibo">
 重温15次国庆阅兵高燃瞬间（热度：594027）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%20%E8%87%AA%E5%B7%B1%E5%8C%96%E5%A6%86%23" target="weibo">
+赵露思 自己化妆（热度：593725）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ MAMA提名（热度：496903）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%87%E6%B3%B0%E4%B8%80%E8%A2%AB%E8%AD%A6%E6%96%B9%E7%AB%8B%E6%A1%88%E7%AC%AC%E4%BA%8C%E5%A4%A9%E7%94%9F%E6%97%A5%E7%9B%B4%E6%92%AD%23" target="weibo">
 文泰一被警方立案第二天生日直播（热度：490663）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E7%90%83%E5%91%98%E8%A7%81%E9%9D%A2%E4%BC%9A%23" target="weibo">
-王楚钦球员见面会（热度：488790）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AD%98%E4%BA%86%E4%B8%89%E4%B8%AA%E6%9C%88%E6%9C%8B%E5%8F%8B%E5%9C%88%E4%B8%80%E6%AC%A1%E6%80%A7%E5%8F%91%E5%87%BA%E5%90%8E%23" target="weibo">
-存了三个月朋友圈一次性发出后（热度：488407）
 </a>
 </li>
 

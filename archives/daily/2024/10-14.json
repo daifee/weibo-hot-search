@@ -1,6 +1,6 @@
 {
   "startTime": 1728836764624,
-  "endTime": 1728916855081,
+  "endTime": 1728919448525,
   "band_list": [
     {
       "raw_hot": 3312537,
@@ -129,6 +129,14 @@
       "onboard_time": 1728868877,
       "rank": 3,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1626091,
+      "num": 448366,
+      "word": "Jennie推特被封",
+      "onboard_time": 1728916401,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 1623161,
@@ -356,7 +364,7 @@
     },
     {
       "raw_hot": 904925,
-      "num": 904925,
+      "num": 1106129,
       "word": "张馨予回应我想我会一直孤单",
       "onboard_time": 1728909199,
       "rank": 17,
@@ -523,6 +531,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 654169,
+      "num": 654169,
+      "word": "3人故意吃虫子让火锅店赔1500",
+      "onboard_time": 1728914842,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 650129,
       "num": 650129,
       "word": "孙燕姿官宣演唱会",
@@ -537,14 +553,6 @@
       "onboard_time": 1728865940,
       "rank": 12,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 640212,
-      "num": 448366,
-      "word": "Jennie推特被封",
-      "onboard_time": 1728916401,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 632255,
@@ -577,6 +585,14 @@
       "onboard_time": 1728903260,
       "rank": 22,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 593725,
+      "num": 291627,
+      "word": "赵露思 自己化妆",
+      "onboard_time": 1728916520,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 577803,
@@ -769,6 +785,14 @@
       "onboard_time": 1728867380,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 444123,
+      "num": 444123,
+      "word": "双十一定金",
+      "onboard_time": 1728916463,
+      "rank": 36,
+      "category": "互联网"
     },
     {
       "raw_hot": 438795,
@@ -1131,6 +1155,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 296918,
+      "num": 296918,
+      "word": "A50",
+      "onboard_time": 1728916221,
+      "rank": 37,
+      "category": "财经"
+    },
+    {
       "raw_hot": 296846,
       "num": 296846,
       "word": "我海警实现台湾靠大陆侧外岛全控",
@@ -1209,14 +1241,6 @@
       "onboard_time": 1728904819,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 282979,
-      "num": 282979,
-      "word": "赵露思 自己化妆",
-      "onboard_time": 1728916520,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 282639,
@@ -1427,6 +1451,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 242501,
+      "num": 242501,
+      "word": "蔡磊最新病情",
+      "onboard_time": 1728918561,
+      "rank": 24,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 238711,
       "num": 238711,
       "word": "小米SU7冲上公交站台致2人受伤",
@@ -1435,11 +1467,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 237998,
-      "num": 451174,
-      "word": "3人故意吃虫子让火锅店赔1500",
-      "onboard_time": 1728914842,
-      "rank": 13,
+      "raw_hot": 236201,
+      "num": 200705,
+      "word": "杭州一女生夜晚被强行猥亵",
+      "onboard_time": 1728919162,
+      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -1553,14 +1585,6 @@
       "onboard_time": 1728895638,
       "rank": 40,
       "category": "数码"
-    },
-    {
-      "raw_hot": 212987,
-      "num": 212987,
-      "word": "双十一定金",
-      "onboard_time": 1728916463,
-      "rank": 36,
-      "category": "互联网"
     },
     {
       "raw_hot": 212876,
@@ -1707,14 +1731,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 202883,
-      "num": 202883,
-      "word": "A50",
-      "onboard_time": 1728916221,
-      "rank": 37,
-      "category": "财经"
-    },
-    {
       "raw_hot": 201291,
       "num": 201291,
       "word": "多方向进逼台岛挤压力度前所未有",
@@ -1729,6 +1745,14 @@
       "onboard_time": 1728901039,
       "rank": 29,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 201037,
+      "num": 201037,
+      "word": "春花焰观后感",
+      "onboard_time": 1728917541,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 200479,
@@ -1899,6 +1923,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 182647,
+      "num": 200949,
+      "word": "王睡睡对老刘张硕说祝你们幸福",
+      "onboard_time": 1728919099,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 181556,
       "num": 181556,
       "word": "AG对战DRG",
@@ -1953,6 +1985,14 @@
       "onboard_time": 1728866902,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 175022,
+      "num": 387108,
+      "word": "中公教育又被指不履行退款承诺",
+      "onboard_time": 1728914782,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 173443,
@@ -2123,6 +2163,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 150514,
+      "num": 150514,
+      "word": "练背真的专救垮脸",
+      "onboard_time": 1728917242,
+      "rank": 45,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 150051,
       "num": 150051,
       "word": "年轻人开始抛弃优衣库",
@@ -2155,6 +2203,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 147616,
+      "num": 147616,
+      "word": "邪恶栀子花",
+      "onboard_time": 1728916942,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 146686,
       "num": 443666,
       "word": "2名大学生帮站票宝妈抱娃一整夜",
@@ -2171,6 +2227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 142311,
+      "num": 148262,
+      "word": "吴谨言cp体质",
+      "onboard_time": 1728919340,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 141338,
       "num": 141338,
       "word": "wbg教练 响彻后台",
@@ -2185,6 +2249,14 @@
       "onboard_time": 1728889697,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 137090,
+      "num": 137090,
+      "word": "流水线古偶",
+      "onboard_time": 1728916103,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 131103,
@@ -2273,6 +2345,14 @@
       "onboard_time": 1728831023,
       "rank": 29,
       "category": "国外时政,军事"
+    },
+    {
+      "raw_hot": 116469,
+      "num": 450153,
+      "word": "年轻人的顶级松弛感是生图直出",
+      "onboard_time": 1728914721,
+      "rank": 11,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 115396,
@@ -2419,14 +2499,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 77865,
-      "num": 387108,
-      "word": "中公教育又被指不履行退款承诺",
-      "onboard_time": 1728914782,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 77233,
       "num": 774951,
       "word": "我国将打造全球最大规模低空通信网",
@@ -2521,14 +2593,6 @@
       "onboard_time": 1728908178,
       "rank": 20,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 62371,
-      "num": 450153,
-      "word": "年轻人的顶级松弛感是生图直出",
-      "onboard_time": 1728914721,
-      "rank": 11,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 62194,
@@ -2635,6 +2699,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 49834,
+      "num": 295914,
+      "word": "小车翻滚起火路人勇救车内2人",
+      "onboard_time": 1728918141,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 49818,
       "num": 262486,
       "word": "网友提意见vivo是真改啊",
@@ -2699,6 +2771,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 46913,
+      "num": 200767,
+      "word": "vivoX200拍蜗牛喝水",
+      "onboard_time": 1728917841,
+      "rank": 31,
+      "category": "数码"
+    },
+    {
       "raw_hot": 46307,
       "num": 571479,
       "word": "vivo蓝科技国家科学技术进步奖",
@@ -2721,6 +2801,14 @@
       "onboard_time": 1728900500,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 44072,
+      "num": 243473,
+      "word": "vivoX200Promini",
+      "onboard_time": 1728916581,
+      "rank": 42,
+      "category": "数码"
     },
     {
       "raw_hot": 43239,
@@ -2777,14 +2865,6 @@
       "onboard_time": 1728846373,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 40643,
-      "num": 182429,
-      "word": "vivoX200Promini",
-      "onboard_time": 1728916581,
-      "rank": 42,
-      "category": "数码"
     },
     {
       "raw_hot": 40455,
@@ -3019,6 +3099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 22819,
+      "num": 255779,
+      "word": "老外靠手机无障碍打卡黑神话取景地",
+      "onboard_time": 1728918440,
+      "rank": 21,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 22184,
       "num": 281851,
       "word": "家务清洁怎样省时又省力",
@@ -3073,6 +3161,14 @@
       "onboard_time": 1728847451,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 14111,
+      "num": 180866,
+      "word": "呼兰先吃上了消费主义馅饼",
+      "onboard_time": 1728917841,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 10294,

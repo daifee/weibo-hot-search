@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1728916855081,
+  "endTime": 1728919448525,
   "band_list": [
     {
       "raw_hot": 17915004,
@@ -1120,6 +1120,14 @@
       "word": "李静从160斤瘦到了105斤",
       "onboard_time": 1728461840,
       "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1626091,
+      "num": 448366,
+      "word": "Jennie推特被封",
+      "onboard_time": 1728916401,
+      "rank": 13,
       "category": "艺人"
     },
     {
@@ -3444,7 +3452,7 @@
     },
     {
       "raw_hot": 904925,
-      "num": 904925,
+      "num": 1106129,
       "word": "张馨予回应我想我会一直孤单",
       "onboard_time": 1728909199,
       "rank": 17,
@@ -5611,6 +5619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 654169,
+      "num": 654169,
+      "word": "3人故意吃虫子让火锅店赔1500",
+      "onboard_time": 1728914842,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 653812,
       "num": 367015,
       "word": "赵今麦刘浩存MIUMIU出图",
@@ -5729,14 +5745,6 @@
       "onboard_time": 1728731420,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 640212,
-      "num": 448366,
-      "word": "Jennie推特被封",
-      "onboard_time": 1728916401,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 639876,
@@ -6353,6 +6361,14 @@
       "onboard_time": 1727741478,
       "rank": 6,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 593725,
+      "num": 291627,
+      "word": "赵露思 自己化妆",
+      "onboard_time": 1728916520,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 592753,
@@ -8857,6 +8873,14 @@
       "onboard_time": 1728867380,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 444123,
+      "num": 444123,
+      "word": "双十一定金",
+      "onboard_time": 1728916463,
+      "rank": 36,
+      "category": "互联网"
     },
     {
       "raw_hot": 443688,
@@ -12811,6 +12835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 296918,
+      "num": 296918,
+      "word": "A50",
+      "onboard_time": 1728916221,
+      "rank": 37,
+      "category": "财经"
+    },
+    {
       "raw_hot": 296846,
       "num": 296846,
       "word": "我海警实现台湾靠大陆侧外岛全控",
@@ -13609,14 +13641,6 @@
       "onboard_time": 1728443839,
       "rank": 34,
       "category": "财经"
-    },
-    {
-      "raw_hot": 282979,
-      "num": 282979,
-      "word": "赵露思 自己化妆",
-      "onboard_time": 1728916520,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 282933,
@@ -15859,6 +15883,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 242501,
+      "num": 242501,
+      "word": "蔡磊最新病情",
+      "onboard_time": 1728918561,
+      "rank": 24,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 242110,
       "num": 242110,
       "word": "林高远6小时三战",
@@ -16107,14 +16139,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 237998,
-      "num": 451174,
-      "word": "3人故意吃虫子让火锅店赔1500",
-      "onboard_time": 1728914842,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 237926,
       "num": 237926,
       "word": "刘耀文摸宋亚轩头",
@@ -16201,6 +16225,14 @@
       "onboard_time": 1728640820,
       "rank": 32,
       "category": "财经"
+    },
+    {
+      "raw_hot": 236201,
+      "num": 200705,
+      "word": "杭州一女生夜晚被强行猥亵",
+      "onboard_time": 1728919162,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 236093,
@@ -18035,14 +18067,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 212987,
-      "num": 212987,
-      "word": "双十一定金",
-      "onboard_time": 1728916463,
-      "rank": 36,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 212938,
       "num": 212938,
       "word": "孙颖莎赛前训练松弛感十足",
@@ -19203,14 +19227,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 202883,
-      "num": 202883,
-      "word": "A50",
-      "onboard_time": 1728916221,
-      "rank": 37,
-      "category": "财经"
-    },
-    {
       "raw_hot": 202879,
       "num": 202879,
       "word": "没想到一句话让我妈认可男朋友",
@@ -19465,6 +19481,14 @@
       "onboard_time": 1728652342,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 201037,
+      "num": 201037,
+      "word": "春花焰观后感",
+      "onboard_time": 1728917541,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 201025,
@@ -22203,6 +22227,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 182647,
+      "num": 200949,
+      "word": "王睡睡对老刘张硕说祝你们幸福",
+      "onboard_time": 1728919099,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 182633,
       "num": 182633,
       "word": "王欣瑜首次击败世界前三",
@@ -23137,6 +23169,14 @@
       "onboard_time": 1728050300,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 175022,
+      "num": 387108,
+      "word": "中公教育又被指不履行退款承诺",
+      "onboard_time": 1728914782,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 174862,
@@ -26747,6 +26787,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 150514,
+      "num": 150514,
+      "word": "练背真的专救垮脸",
+      "onboard_time": 1728917242,
+      "rank": 45,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 150480,
       "num": 150480,
       "word": "特斯拉无人出租车曝光",
@@ -27073,6 +27121,14 @@
       "onboard_time": 1728718279,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 147616,
+      "num": 147616,
+      "word": "邪恶栀子花",
+      "onboard_time": 1728916942,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 147465,
@@ -27955,6 +28011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 142311,
+      "num": 148262,
+      "word": "吴谨言cp体质",
+      "onboard_time": 1728919340,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 142301,
       "num": 239957,
       "word": "河南一高校饭点关闭临近小吃街校门",
@@ -28793,6 +28857,14 @@
       "onboard_time": 1728134299,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 137090,
+      "num": 137090,
+      "word": "流水线古偶",
+      "onboard_time": 1728916103,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 137077,
@@ -31721,6 +31793,14 @@
       "onboard_time": 1728525799,
       "rank": 41,
       "category": "财经"
+    },
+    {
+      "raw_hot": 116469,
+      "num": 450153,
+      "word": "年轻人的顶级松弛感是生图直出",
+      "onboard_time": 1728914721,
+      "rank": 11,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 116403,
@@ -36091,14 +36171,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 77865,
-      "num": 387108,
-      "word": "中公教育又被指不履行退款承诺",
-      "onboard_time": 1728914782,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 77520,
       "num": 212470,
       "word": "小鹿 爱自己成为了财富密码",
@@ -37217,14 +37289,6 @@
       "onboard_time": 1728624200,
       "rank": 17,
       "category": "电影"
-    },
-    {
-      "raw_hot": 62371,
-      "num": 450153,
-      "word": "年轻人的顶级松弛感是生图直出",
-      "onboard_time": 1728914721,
-      "rank": 11,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 62321,
@@ -38403,6 +38467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 49834,
+      "num": 295914,
+      "word": "小车翻滚起火路人勇救车内2人",
+      "onboard_time": 1728918141,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 49818,
       "num": 262486,
       "word": "网友提意见vivo是真改啊",
@@ -38771,6 +38843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 46913,
+      "num": 200767,
+      "word": "vivoX200拍蜗牛喝水",
+      "onboard_time": 1728917841,
+      "rank": 31,
+      "category": "数码"
+    },
+    {
       "raw_hot": 46885,
       "num": 121288,
       "word": "爆款好人无论何时都要充满passion",
@@ -39105,6 +39185,14 @@
       "onboard_time": 1728319816,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 44072,
+      "num": 243473,
+      "word": "vivoX200Promini",
+      "onboard_time": 1728916581,
+      "rank": 42,
+      "category": "数码"
     },
     {
       "raw_hot": 43959,
@@ -39497,14 +39585,6 @@
       "onboard_time": 1728637640,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 40643,
-      "num": 182429,
-      "word": "vivoX200Promini",
-      "onboard_time": 1728916581,
-      "rank": 42,
-      "category": "数码"
     },
     {
       "raw_hot": 40565,
@@ -41979,6 +42059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 22819,
+      "num": 255779,
+      "word": "老外靠手机无障碍打卡黑神话取景地",
+      "onboard_time": 1728918440,
+      "rank": 21,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 22734,
       "num": 29252,
       "word": "华晨宇演唱会舞美",
@@ -42953,6 +43041,14 @@
       "onboard_time": 1727896572,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 14111,
+      "num": 180866,
+      "word": "呼兰先吃上了消费主义馅饼",
+      "onboard_time": 1728917841,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 13857,
