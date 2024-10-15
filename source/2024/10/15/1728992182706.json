@@ -1,0 +1,410 @@
+{
+  "runTime": 1728992182706,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 523332,
+        "num": 1083733,
+        "word": "乒乓运动员孙杨代替王楚钦出战男团",
+        "onboard_time": 1728982400,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 454016,
+        "num": 454016,
+        "word": "猎罪图鉴2过审",
+        "onboard_time": 1728990679,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 10229,
+        "num": 430172,
+        "word": "美国海底窃听光缆真实图像",
+        "onboard_time": 1728919520,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 637906,
+        "num": 427274,
+        "word": "韩国京畿道禁止市民在边界放飞气球",
+        "onboard_time": 1728986419,
+        "rank": 3,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 421750,
+        "num": 421750,
+        "word": "我国无需缴纳个税人员占比超过七成",
+        "onboard_time": 1728964940,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 387459,
+        "num": 387459,
+        "word": "王楚钦孙颖莎王曼昱退出全锦赛",
+        "onboard_time": 1728980900,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 353215,
+        "num": 353215,
+        "word": "成都拆迁地图上新",
+        "onboard_time": 1728981859,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 292820,
+        "num": 292820,
+        "word": "女子自称找工作喝杯水被套路买车",
+        "onboard_time": 1728989660,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250462,
+        "num": 292723,
+        "word": "惠英红 第一届金像影后奖杯",
+        "onboard_time": 1728988219,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 52895,
+        "num": 292461,
+        "word": "10多个省份将人工耳蜗纳入医保",
+        "onboard_time": 1728990498,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1588242,
+        "num": 292076,
+        "word": "女子因领导批评压力过大变成木头人",
+        "onboard_time": 1728985700,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1256948,
+        "num": 291867,
+        "word": "陈赫力挺黄磊",
+        "onboard_time": 1728979160,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1139868,
+        "num": 291687,
+        "word": "阿Sa回应关智斌求婚",
+        "onboard_time": 1728990859,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 737139,
+        "num": 291372,
+        "word": "康辉一次性读完全国易错地名",
+        "onboard_time": 1728987499,
+        "rank": 13,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 637062,
+        "num": 291212,
+        "word": "儿子与母亲签订生老病死与己无关协议",
+        "onboard_time": 1728982940,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 635661,
+        "num": 290822,
+        "word": "金正恩指明朝鲜军事活动方向",
+        "onboard_time": 1728964940,
+        "rank": 15,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 631201,
+        "num": 290722,
+        "word": "难听",
+        "onboard_time": 1728987808,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 434788,
+        "num": 290373,
+        "word": "秦奋给韦雪刷礼物",
+        "onboard_time": 1728975980,
+        "rank": 17,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 427442,
+        "num": 290006,
+        "word": "曝大爆剧双顶流提名金鹰奖视帝视后",
+        "onboard_time": 1728985340,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 29270,
+        "num": 289898,
+        "word": "张晚意胡子造型好有文人气质",
+        "onboard_time": 1728991521,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 378889,
+        "num": 289563,
+        "word": "你目前的工资需要纳税吗",
+        "onboard_time": 1728980660,
+        "rank": 20,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 373083,
+        "num": 289374,
+        "word": "肖战机场路透",
+        "onboard_time": 1728989600,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 370644,
+        "num": 289049,
+        "word": "易烊千玺大一时每天写2000字散文",
+        "onboard_time": 1728991280,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 50956,
+        "num": 288765,
+        "word": "如何把15万花出20万的效果",
+        "onboard_time": 1728987561,
+        "rank": 23,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 368339,
+        "num": 288554,
+        "word": "赵露思的紫色腊肠狗",
+        "onboard_time": 1728988459,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 198267,
+        "num": 288439,
+        "word": "王鹤棣 星河入梦剧本",
+        "onboard_time": 1728988400,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 178243,
+        "num": 288090,
+        "word": "薛之谦海外体育场返场官宣7站",
+        "onboard_time": 1728976759,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 31800,
+        "num": 287854,
+        "word": "买家用车你最在意什么",
+        "onboard_time": 1728988880,
+        "rank": 27,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 201459,
+        "num": 287543,
+        "word": "谢瑜世界杯10米气手枪夺冠",
+        "onboard_time": 1728991399,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 244631,
+        "num": 287303,
+        "word": "国足vs印尼",
+        "onboard_time": 1728991100,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 287154,
+        "num": 287154,
+        "word": "黄雨婷创造新世界纪录摘金",
+        "onboard_time": 1728976519,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 338357,
+        "num": 287129,
+        "word": "全红婵说知道要减重所以吃了很多",
+        "onboard_time": 1728983479,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 315726,
+        "num": 287012,
+        "word": "hanni哭了",
+        "onboard_time": 1728988820,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 293171,
+        "num": 286983,
+        "word": "墨香铜臭 解锁",
+        "onboard_time": 1728965419,
+        "rank": 33,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 25980,
+        "num": 286869,
+        "word": "买东西总是很纠结怎么办",
+        "onboard_time": 1728988519,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 286859,
+        "num": 286859,
+        "word": "误食两斤全麦面包怎么办",
+        "onboard_time": 1728987619,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 274500,
+        "num": 274500,
+        "word": "男子乘飞机2小时未起身致肺栓塞身亡",
+        "onboard_time": 1728977780,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262916,
+        "num": 262916,
+        "word": "00后股民拿4万压岁钱入市赚10余万",
+        "onboard_time": 1728990561,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 258769,
+        "num": 258769,
+        "word": "盛李豪夺冠后英文采访",
+        "onboard_time": 1728991038,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 242788,
+        "num": 242788,
+        "word": "律师称听泉鉴宝不涉及学历造假",
+        "onboard_time": 1728986180,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223249,
+        "num": 223249,
+        "word": "马龙感受自然plog",
+        "onboard_time": 1728992059,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 215702,
+        "num": 215702,
+        "word": "周扬青 借钱出去的是孙子",
+        "onboard_time": 1728977420,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210715,
+        "num": 210715,
+        "word": "朝韩局势",
+        "onboard_time": 1728979219,
+        "rank": 42,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 193068,
+        "num": 193068,
+        "word": "ITZY空降成绩",
+        "onboard_time": 1728991460,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 192919,
+        "num": 192919,
+        "word": "韩军公布朝鲜炸毁朝韩间道路视频",
+        "onboard_time": 1728970519,
+        "rank": 44,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 189112,
+        "num": 189112,
+        "word": "上海一妇产医院成网红打卡地",
+        "onboard_time": 1728991819,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181815,
+        "num": 181815,
+        "word": "盛李豪世界杯10米气步枪夺冠",
+        "onboard_time": 1728980960,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 174127,
+        "num": 174127,
+        "word": "逆水寒手游改充值系统",
+        "onboard_time": 1728989961,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 168935,
+        "num": 168935,
+        "word": "全国乒乓球锦标赛",
+        "onboard_time": 1728991280,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144603,
+        "num": 165281,
+        "word": "杨幂 杨的三次方",
+        "onboard_time": 1728985039,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#深悟总书记的文艺观#"
+    }
+  }
+}

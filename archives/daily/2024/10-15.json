@@ -1,6 +1,6 @@
 {
   "startTime": 1728923247369,
-  "endTime": 1728991167824,
+  "endTime": 1728992182706,
   "band_list": [
     {
       "raw_hot": 3199759,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 2321711,
-      "num": 289558,
+      "num": 292076,
       "word": "女子因领导批评压力过大变成木头人",
       "onboard_time": 1728985700,
       "rank": 10,
@@ -219,6 +219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1139868,
+      "num": 291687,
+      "word": "阿Sa回应关智斌求婚",
+      "onboard_time": 1728990859,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1075468,
       "num": 917226,
       "word": "前妻曝马斯克撩妹方式",
@@ -292,7 +300,7 @@
     },
     {
       "raw_hot": 779591,
-      "num": 287761,
+      "num": 290722,
       "word": "难听",
       "onboard_time": 1728987808,
       "rank": 33,
@@ -316,11 +324,19 @@
     },
     {
       "raw_hot": 745347,
-      "num": 367265,
+      "num": 427274,
       "word": "韩国京畿道禁止市民在边界放飞气球",
       "onboard_time": 1728986419,
       "rank": 7,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 737139,
+      "num": 291372,
+      "word": "康辉一次性读完全国易错地名",
+      "onboard_time": 1728987499,
+      "rank": 37,
+      "category": "科学科普"
     },
     {
       "raw_hot": 734233,
@@ -348,7 +364,7 @@
     },
     {
       "raw_hot": 717211,
-      "num": 282151,
+      "num": 290006,
       "word": "曝大爆剧双顶流提名金鹰奖视帝视后",
       "onboard_time": 1728985340,
       "rank": 21,
@@ -540,7 +556,7 @@
     },
     {
       "raw_hot": 475252,
-      "num": 277725,
+      "num": 288554,
       "word": "赵露思的紫色腊肠狗",
       "onboard_time": 1728988459,
       "rank": 40,
@@ -553,6 +569,14 @@
       "onboard_time": 1728971299,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 454016,
+      "num": 454016,
+      "word": "猎罪图鉴2过审",
+      "onboard_time": 1728990679,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 450989,
@@ -659,16 +683,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 382041,
-      "num": 272249,
-      "word": "康辉一次性读完全国易错地名",
-      "onboard_time": 1728987499,
-      "rank": 37,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 381232,
-      "num": 271106,
+      "num": 289374,
       "word": "肖战机场路透",
       "onboard_time": 1728989600,
       "rank": 25,
@@ -681,6 +697,14 @@
       "onboard_time": 1728974719,
       "rank": 22,
       "category": "财经"
+    },
+    {
+      "raw_hot": 370644,
+      "num": 289049,
+      "word": "易烊千玺大一时每天写2000字散文",
+      "onboard_time": 1728991280,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 369012,
@@ -739,14 +763,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 348841,
-      "num": 264085,
-      "word": "阿Sa回应关智斌求婚",
-      "onboard_time": 1728990859,
-      "rank": 31,
-      "category": "演出"
-    },
-    {
       "raw_hot": 347410,
       "num": 347410,
       "word": "易烊千玺代言华为nova13",
@@ -764,7 +780,7 @@
     },
     {
       "raw_hot": 334144,
-      "num": 261422,
+      "num": 286859,
       "word": "误食两斤全麦面包怎么办",
       "onboard_time": 1728987619,
       "rank": 38,
@@ -785,14 +801,6 @@
       "onboard_time": 1728916520,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 327725,
-      "num": 327725,
-      "word": "猎罪图鉴2过审",
-      "onboard_time": 1728990679,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 325689,
@@ -827,6 +835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 315726,
+      "num": 287012,
+      "word": "hanni哭了",
+      "onboard_time": 1728988820,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 302449,
       "num": 302449,
       "word": "程潇沙漠公主",
@@ -859,8 +875,16 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 292820,
+      "num": 292820,
+      "word": "女子自称找工作喝杯水被套路买车",
+      "onboard_time": 1728989660,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 291569,
-      "num": 291569,
+      "num": 292723,
       "word": "惠英红 第一届金像影后奖杯",
       "onboard_time": 1728988219,
       "rank": 27,
@@ -923,6 +947,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 262916,
+      "num": 262916,
+      "word": "00后股民拿4万压岁钱入市赚10余万",
+      "onboard_time": 1728990561,
+      "rank": 41,
+      "category": "财经"
+    },
+    {
       "raw_hot": 261217,
       "num": 255104,
       "word": "杨幂 杨的三次方",
@@ -939,12 +971,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 258309,
-      "num": 258309,
-      "word": "hanni哭了",
-      "onboard_time": 1728988820,
-      "rank": 18,
-      "category": "艺人"
+      "raw_hot": 258769,
+      "num": 258769,
+      "word": "盛李豪夺冠后英文采访",
+      "onboard_time": 1728991038,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 251488,
@@ -993,6 +1025,14 @@
       "onboard_time": 1728986180,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 244631,
+      "num": 287303,
+      "word": "国足vs印尼",
+      "onboard_time": 1728991100,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 244360,
@@ -1091,6 +1131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 223249,
+      "num": 223249,
+      "word": "马龙感受自然plog",
+      "onboard_time": 1728992059,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 222620,
       "num": 222620,
       "word": "WTT",
@@ -1100,7 +1148,7 @@
     },
     {
       "raw_hot": 221531,
-      "num": 268168,
+      "num": 288439,
       "word": "王鹤棣 星河入梦剧本",
       "onboard_time": 1728988400,
       "rank": 25,
@@ -1163,14 +1211,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 208127,
-      "num": 208127,
-      "word": "00后股民拿4万压岁钱入市赚10余万",
-      "onboard_time": 1728990561,
-      "rank": 41,
-      "category": "财经"
-    },
-    {
       "raw_hot": 207557,
       "num": 207557,
       "word": "邓为和品牌创始人cha舞",
@@ -1216,6 +1256,14 @@
       "word": "郭晶晶43岁生日",
       "onboard_time": 1728956838,
       "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 201459,
+      "num": 287543,
+      "word": "谢瑜世界杯10米气手枪夺冠",
+      "onboard_time": 1728991399,
+      "rank": 28,
       "category": "体育"
     },
     {
@@ -1331,6 +1379,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 193068,
+      "num": 193068,
+      "word": "ITZY空降成绩",
+      "onboard_time": 1728991460,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 192757,
       "num": 192757,
       "word": "刘诗诗T锦绣十月刊封面",
@@ -1369,6 +1425,14 @@
       "onboard_time": 1728990019,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 189112,
+      "num": 189112,
+      "word": "上海一妇产医院成网红打卡地",
+      "onboard_time": 1728991819,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 189080,
@@ -1491,14 +1555,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 174564,
-      "num": 174564,
-      "word": "盛李豪夺冠后英文采访",
-      "onboard_time": 1728991038,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 173487,
       "num": 246836,
       "word": "国足vs印尼首发",
@@ -1552,6 +1608,14 @@
       "word": "干饭哥世界杯10米气步枪夺冠",
       "onboard_time": 1728981679,
       "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 168935,
+      "num": 168935,
+      "word": "全国乒乓球锦标赛",
+      "onboard_time": 1728991280,
+      "rank": 48,
       "category": "体育"
     },
     {
@@ -1825,14 +1889,6 @@
       "onboard_time": 1728986239,
       "rank": 46,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 121739,
-      "num": 285319,
-      "word": "女子自称找工作喝杯水被套路买车",
-      "onboard_time": 1728989660,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 120078,
@@ -2131,14 +2187,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 80607,
-      "num": 265830,
-      "word": "国足vs印尼",
-      "onboard_time": 1728991100,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 80421,
       "num": 90522,
       "word": "七夜雪",
@@ -2355,6 +2403,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 52895,
+      "num": 292461,
+      "word": "10多个省份将人工耳蜗纳入医保",
+      "onboard_time": 1728990498,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 52345,
       "num": 320466,
       "word": "这届年轻人流行先甜后也甜",
@@ -2395,20 +2451,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 50956,
+      "num": 288765,
+      "word": "如何把15万花出20万的效果",
+      "onboard_time": 1728987561,
+      "rank": 43,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 48056,
       "num": 207624,
       "word": "极氪7X上市25天交付破万",
       "onboard_time": 1728975921,
       "rank": 35,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 46855,
-      "num": 290609,
-      "word": "10多个省份将人工耳蜗纳入医保",
-      "onboard_time": 1728990498,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 45569,
@@ -2467,14 +2523,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 36458,
-      "num": 280575,
-      "word": "如何把15万花出20万的效果",
-      "onboard_time": 1728987561,
-      "rank": 43,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 35977,
       "num": 193219,
       "word": "我国货物贸易进出口突破32万亿元",
@@ -2531,8 +2579,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 31578,
-      "num": 270414,
+      "raw_hot": 31800,
+      "num": 287854,
       "word": "买家用车你最在意什么",
       "onboard_time": 1728988880,
       "rank": 47,
@@ -2587,6 +2635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 29270,
+      "num": 289898,
+      "word": "张晚意胡子造型好有文人气质",
+      "onboard_time": 1728991521,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 29060,
       "num": 37041,
       "word": "美术生就业新方向",
@@ -2635,8 +2691,8 @@
       "category": "国外时政,军事"
     },
     {
-      "raw_hot": 23928,
-      "num": 262524,
+      "raw_hot": 25980,
+      "num": 286869,
       "word": "买东西总是很纠结怎么办",
       "onboard_time": 1728988519,
       "rank": 35,
