@@ -1,7 +1,23 @@
 {
   "startTime": 1728923247369,
-  "endTime": 1728966429042,
+  "endTime": 1728967307109,
   "band_list": [
+    {
+      "raw_hot": 3199759,
+      "num": 3199759,
+      "word": "墨香铜臭 解锁",
+      "onboard_time": 1728965419,
+      "rank": 1,
+      "category": "读书作家"
+    },
+    {
+      "raw_hot": 2957441,
+      "num": 2957441,
+      "word": "金正恩指明朝鲜军事活动方向",
+      "onboard_time": 1728964940,
+      "rank": 11,
+      "category": "国外时政"
+    },
     {
       "raw_hot": 2671889,
       "num": 2671889,
@@ -9,22 +25,6 @@
       "onboard_time": 1728962960,
       "rank": 1,
       "category": "国外时政,军事"
-    },
-    {
-      "raw_hot": 2334238,
-      "num": 586981,
-      "word": "金正恩指明朝鲜军事活动方向",
-      "onboard_time": 1728964940,
-      "rank": 11,
-      "category": "国外时政"
-    },
-    {
-      "raw_hot": 1845495,
-      "num": 1845495,
-      "word": "墨香铜臭 解锁",
-      "onboard_time": 1728965419,
-      "rank": 1,
-      "category": "读书作家"
     },
     {
       "raw_hot": 1644797,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 1324621,
-      "num": 579435,
+      "num": 801660,
       "word": "日本孤独死",
       "onboard_time": 1728962178,
       "rank": 16,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 1210495,
-      "num": 432052,
+      "num": 491410,
       "word": "王楚钦 退赛",
       "onboard_time": 1728913521,
       "rank": 3,
@@ -99,8 +99,16 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 869814,
-      "num": 869814,
+      "raw_hot": 933788,
+      "num": 933788,
+      "word": "我国无需缴纳个税人员占比超过七成",
+      "onboard_time": 1728964940,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 871194,
+      "num": 871194,
       "word": "年收入10万元以内基本不用缴纳个税",
       "onboard_time": 1728961159,
       "rank": 36,
@@ -123,6 +131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 824237,
+      "num": 824237,
+      "word": "撞电动车被要2500后越想越不对",
+      "onboard_time": 1728963679,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 819767,
       "num": 819767,
       "word": "初三男生跳高1.91米打破学校纪录",
@@ -131,16 +147,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 802698,
-      "num": 802698,
-      "word": "撞电动车被要2500后越想越不对",
-      "onboard_time": 1728963679,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 770243,
-      "num": 560823,
+      "num": 731648,
       "word": "陈都灵 机械姬",
       "onboard_time": 1728963259,
       "rank": 37,
@@ -155,6 +163,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 733512,
+      "num": 733512,
+      "word": "哈尔滨一药店见检查来紧急不卖药了",
+      "onboard_time": 1728963738,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 717720,
       "num": 602673,
       "word": "警方通报老头乐高速逆行发生事故",
@@ -163,19 +179,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 703682,
+      "num": 703682,
+      "word": "听泉鉴宝暗语",
+      "onboard_time": 1728963798,
+      "rank": 41,
+      "category": "网红"
+    },
+    {
       "raw_hot": 700701,
       "num": 700701,
       "word": "孙子在哪上学爷爷就在哪当保安",
       "onboard_time": 1728948618,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 699470,
-      "num": 699470,
-      "word": "哈尔滨一药店见检查来紧急不卖药了",
-      "onboard_time": 1728963738,
-      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -211,6 +227,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 640895,
+      "num": 640895,
+      "word": "韩军开枪警告射击",
+      "onboard_time": 1728866479,
+      "rank": 47,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 630302,
+      "num": 630302,
+      "word": "2023年度个税汇算清缴数据发布",
+      "onboard_time": 1728957136,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 608920,
       "num": 346552,
       "word": "王一珩 抄袭",
@@ -225,14 +257,6 @@
       "onboard_time": 1728927794,
       "rank": 4,
       "category": "社会议题"
-    },
-    {
-      "raw_hot": 593298,
-      "num": 593298,
-      "word": "我国无需缴纳个税人员占比超过七成",
-      "onboard_time": 1728964940,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 590824,
@@ -251,14 +275,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 531044,
-      "num": 531044,
-      "word": "2023年度个税汇算清缴数据发布",
-      "onboard_time": 1728957136,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 509056,
       "num": 509056,
       "word": "胖东来拒绝网红直播是以顾客为本",
@@ -267,12 +283,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 499072,
-      "num": 499072,
-      "word": "听泉鉴宝暗语",
-      "onboard_time": 1728963798,
-      "rank": 41,
-      "category": "网红"
+      "raw_hot": 491006,
+      "num": 491006,
+      "word": "训狗姐 暗爽哥",
+      "onboard_time": 1728966141,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 489183,
@@ -316,7 +332,7 @@
     },
     {
       "raw_hot": 422562,
-      "num": 1439286,
+      "num": 2662619,
       "word": "美国海底窃听光缆真实图像",
       "onboard_time": 1728919520,
       "rank": 4,
@@ -329,6 +345,14 @@
       "onboard_time": 1728940391,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 409645,
+      "num": 835651,
+      "word": "孙燕姿公布巡演场次",
+      "onboard_time": 1728965720,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 398562,
@@ -355,6 +379,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 384669,
+      "num": 384669,
+      "word": "孙颖莎WTT退赛",
+      "onboard_time": 1728966982,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 369012,
       "num": 273968,
       "word": "朴宝英朴炯植坐一起",
@@ -376,6 +408,14 @@
       "word": "徐冬冬尹子维改学粤语了",
       "onboard_time": 1728963259,
       "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 356770,
+      "num": 402594,
+      "word": "大冰不带货的原因",
+      "onboard_time": 1728963738,
+      "rank": 18,
       "category": "艺人"
     },
     {
@@ -467,14 +507,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 249582,
-      "num": 249582,
-      "word": "孙燕姿公布巡演场次",
-      "onboard_time": 1728965720,
-      "rank": 34,
-      "category": "演出"
-    },
-    {
       "raw_hot": 248096,
       "num": 248096,
       "word": "小学没毕业的爸爸看了我的博士论文",
@@ -497,6 +529,14 @@
       "onboard_time": 1728920840,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 239476,
+      "num": 239476,
+      "word": "高铁上偶遇了42岁的研一新生",
+      "onboard_time": 1728967282,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 233808,
@@ -579,14 +619,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 214549,
-      "num": 214549,
-      "word": "训狗姐 暗爽哥",
-      "onboard_time": 1728966141,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 208662,
       "num": 208662,
       "word": "朝鲜射击指示",
@@ -603,12 +635,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 204277,
-      "num": 402594,
-      "word": "大冰不带货的原因",
-      "onboard_time": 1728963738,
-      "rank": 18,
-      "category": "艺人"
+      "raw_hot": 204184,
+      "num": 204184,
+      "word": "WTT",
+      "onboard_time": 1728967101,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 203686,
@@ -644,7 +676,7 @@
     },
     {
       "raw_hot": 198768,
-      "num": 191371,
+      "num": 193222,
       "word": "魔道祖师解锁",
       "onboard_time": 1728966321,
       "rank": 48,
@@ -667,12 +699,28 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 191411,
-      "num": 191411,
-      "word": "韩军开枪警告射击",
-      "onboard_time": 1728866479,
-      "rank": 47,
-      "category": "国外时政"
+      "raw_hot": 193935,
+      "num": 285646,
+      "word": "滨崎步上海",
+      "onboard_time": 1728966321,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 193253,
+      "num": 193253,
+      "word": "光与夜之恋",
+      "onboard_time": 1728967163,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 193219,
+      "num": 400941,
+      "word": "拜登被爆私下曾称以总理坏蛋",
+      "onboard_time": 1728963198,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 190690,
@@ -681,6 +729,14 @@
       "onboard_time": 1728954679,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 189648,
+      "num": 277354,
+      "word": "任嘉伦简直是黄奕的阿拉丁神灯",
+      "onboard_time": 1728966141,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 188047,
@@ -713,6 +769,22 @@
       "onboard_time": 1728948017,
       "rank": 21,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 178532,
+      "num": 178532,
+      "word": "87版红楼梦",
+      "onboard_time": 1728966923,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 175767,
+      "num": 175767,
+      "word": "李蠕蠕当面模仿向佐",
+      "onboard_time": 1728967282,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 173477,
@@ -875,6 +947,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 126478,
+      "num": 634007,
+      "word": "再见爱人",
+      "onboard_time": 1728966262,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 120078,
       "num": 120078,
       "word": "成都警方通报河道男尸系溺亡",
@@ -884,7 +964,7 @@
     },
     {
       "raw_hot": 118458,
-      "num": 569395,
+      "num": 711297,
       "word": "拼多多双11没套路就是降",
       "onboard_time": 1728960498,
       "rank": 34,
@@ -977,14 +1057,6 @@
       "onboard_time": 1728923658,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 103391,
-      "num": 551659,
-      "word": "再见爱人",
-      "onboard_time": 1728966262,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 100558,
@@ -1220,7 +1292,7 @@
     },
     {
       "raw_hot": 53193,
-      "num": 306049,
+      "num": 365377,
       "word": "魏建军称价格战后遗症将达六七年",
       "onboard_time": 1728965059,
       "rank": 28,
@@ -1251,6 +1323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 49752,
+      "num": 501002,
+      "word": "刘亦菲说的医疗险是什么",
+      "onboard_time": 1728965059,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 45569,
       "num": 51180,
       "word": "蓦然回首",
@@ -1267,28 +1347,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 42544,
-      "num": 400941,
-      "word": "拜登被爆私下曾称以总理坏蛋",
-      "onboard_time": 1728963198,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 39944,
-      "num": 415478,
+      "num": 491533,
       "word": "中国汽车如何更好走出国门",
       "onboard_time": 1728963498,
       "rank": 45,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 39848,
-      "num": 501002,
-      "word": "刘亦菲说的医疗险是什么",
-      "onboard_time": 1728965059,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 37752,
@@ -1297,6 +1361,14 @@
       "onboard_time": 1728927015,
       "rank": 9,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 35977,
+      "num": 193219,
+      "word": "我国货物贸易进出口突破32万亿元",
+      "onboard_time": 1728966621,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 34918,

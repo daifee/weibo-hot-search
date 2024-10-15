@@ -1,0 +1,410 @@
+{
+  "runTime": 1728967307109,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3199759,
+        "num": 3199759,
+        "word": "墨香铜臭 解锁",
+        "onboard_time": 1728965419,
+        "rank": 0,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 2957441,
+        "num": 2957441,
+        "word": "金正恩指明朝鲜军事活动方向",
+        "onboard_time": 1728964940,
+        "rank": 1,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 68306,
+        "num": 2662619,
+        "word": "美国海底窃听光缆真实图像",
+        "onboard_time": 1728919520,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2650722,
+        "num": 2650722,
+        "word": "韩军称朝鲜炸毁部分朝韩间道路",
+        "onboard_time": 1728962960,
+        "rank": 3,
+        "category": "国外时政,军事"
+      },
+      {
+        "raw_hot": 1147400,
+        "num": 1147400,
+        "word": "员工不服调岗被解雇起诉获赔17万",
+        "onboard_time": 1728960317,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 960455,
+        "num": 960455,
+        "word": "黄磊没少看神厨小福贵吧",
+        "onboard_time": 1728960258,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 933788,
+        "num": 933788,
+        "word": "我国无需缴纳个税人员占比超过七成",
+        "onboard_time": 1728964940,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 871194,
+        "num": 871194,
+        "word": "年收入10万元以内基本不用缴纳个税",
+        "onboard_time": 1728961159,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 409645,
+        "num": 835651,
+        "word": "孙燕姿公布巡演场次",
+        "onboard_time": 1728965720,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 824237,
+        "num": 824237,
+        "word": "撞电动车被要2500后越想越不对",
+        "onboard_time": 1728963679,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1135512,
+        "num": 801660,
+        "word": "日本孤独死",
+        "onboard_time": 1728962178,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 886316,
+        "num": 782604,
+        "word": "听泉鉴宝称从未说过自己是北大的",
+        "onboard_time": 1728948618,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 733512,
+        "num": 733512,
+        "word": "哈尔滨一药店见检查来紧急不卖药了",
+        "onboard_time": 1728963738,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 731648,
+        "num": 731648,
+        "word": "陈都灵 机械姬",
+        "onboard_time": 1728963259,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113895,
+        "num": 711297,
+        "word": "拼多多双11没套路就是降",
+        "onboard_time": 1728960498,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 703682,
+        "num": 703682,
+        "word": "听泉鉴宝暗语",
+        "onboard_time": 1728963798,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 640895,
+        "num": 640895,
+        "word": "韩军开枪警告射击",
+        "onboard_time": 1728866479,
+        "rank": 16,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 126478,
+        "num": 634007,
+        "word": "再见爱人",
+        "onboard_time": 1728966262,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 630302,
+        "num": 630302,
+        "word": "2023年度个税汇算清缴数据发布",
+        "onboard_time": 1728957136,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 519206,
+        "num": 519206,
+        "word": "中国将进行太阳系考古",
+        "onboard_time": 1728960679,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 49752,
+        "num": 492260,
+        "word": "刘亦菲说的医疗险是什么",
+        "onboard_time": 1728965059,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30223,
+        "num": 491533,
+        "word": "中国汽车如何更好走出国门",
+        "onboard_time": 1728963498,
+        "rank": 21,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 977284,
+        "num": 491410,
+        "word": "王楚钦 退赛",
+        "onboard_time": 1728913521,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 491006,
+        "num": 491006,
+        "word": "训狗姐 暗爽哥",
+        "onboard_time": 1728966141,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 384669,
+        "num": 384669,
+        "word": "孙颖莎WTT退赛",
+        "onboard_time": 1728966982,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 47697,
+        "num": 365377,
+        "word": "魏建军称价格战后遗症将达六七年",
+        "onboard_time": 1728965059,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 363611,
+        "num": 363611,
+        "word": "鹿晗吃肘子",
+        "onboard_time": 1728950839,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 356770,
+        "num": 356770,
+        "word": "大冰不带货的原因",
+        "onboard_time": 1728963738,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193935,
+        "num": 285646,
+        "word": "滨崎步上海",
+        "onboard_time": 1728966321,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 189648,
+        "num": 277354,
+        "word": "任嘉伦简直是黄奕的阿拉丁神灯",
+        "onboard_time": 1728966141,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 274337,
+        "num": 274337,
+        "word": "孙子在哪上学爷爷就在哪当保安",
+        "onboard_time": 1728948618,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239476,
+        "num": 239476,
+        "word": "高铁上偶遇了42岁的研一新生",
+        "onboard_time": 1728967282,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 234324,
+        "num": 234324,
+        "word": "杭州一女生夜晚被强行猥亵",
+        "onboard_time": 1728919162,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232991,
+        "num": 232991,
+        "word": "杭州强吻猥亵女生的男子已被抓获",
+        "onboard_time": 1728956598,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229170,
+        "num": 229170,
+        "word": "第一个中国人上太空已经21年了",
+        "onboard_time": 1728956478,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 227483,
+        "num": 227483,
+        "word": "林高远刘诗雯vs曹巍范姝涵",
+        "onboard_time": 1728961578,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 222715,
+        "num": 222715,
+        "word": "林诗栋排名世界第2",
+        "onboard_time": 1728955458,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 180250,
+        "num": 218325,
+        "word": "感觉秦海璐再也不想看霸总文了",
+        "onboard_time": 1728948017,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 214228,
+        "num": 214228,
+        "word": "警方通报老头乐高速逆行发生事故",
+        "onboard_time": 1728950420,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210724,
+        "num": 210724,
+        "word": "朴宝英朴炯植坐一起",
+        "onboard_time": 1728956058,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 204184,
+        "num": 204184,
+        "word": "WTT",
+        "onboard_time": 1728967101,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 193517,
+        "num": 193517,
+        "word": "易烊千玺代言华为nova13",
+        "onboard_time": 1728960439,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193253,
+        "num": 193253,
+        "word": "光与夜之恋",
+        "onboard_time": 1728967163,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 190576,
+        "num": 193222,
+        "word": "魔道祖师解锁",
+        "onboard_time": 1728966321,
+        "rank": 43,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 136874,
+        "num": 193220,
+        "word": "瞒着父母的高消费",
+        "onboard_time": 1728966201,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 35977,
+        "num": 193219,
+        "word": "我国货物贸易进出口突破32万亿元",
+        "onboard_time": 1728966621,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193219,
+        "num": 193218,
+        "word": "拜登被爆私下曾称以总理坏蛋",
+        "onboard_time": 1728963198,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185947,
+        "num": 185947,
+        "word": "徐冬冬尹子维改学粤语了",
+        "onboard_time": 1728963259,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178532,
+        "num": 178532,
+        "word": "87版红楼梦",
+        "onboard_time": 1728966923,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175767,
+        "num": 175767,
+        "word": "李蠕蠕当面模仿向佐",
+        "onboard_time": 1728967282,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#中华民族有着强大的文化创造力#"
+    }
+  }
+}
