@@ -1,13 +1,21 @@
 {
   "startTime": 1728923247369,
-  "endTime": 1728961472804,
+  "endTime": 1728962943086,
   "band_list": [
     {
       "raw_hot": 1644797,
-      "num": 284208,
+      "num": 394575,
       "word": "杭州一女生夜晚被强行猥亵",
       "onboard_time": 1728919162,
       "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1326748,
+      "num": 553019,
+      "word": "杭州强吻猥亵女生的男子已被抓获",
+      "onboard_time": 1728956598,
+      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -43,14 +51,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1200907,
-      "num": 553019,
-      "word": "杭州强吻猥亵女生的男子已被抓获",
-      "onboard_time": 1728956598,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 845959,
       "num": 1132177,
       "word": "数学家陈景润获批国家杰出青年基金",
@@ -75,11 +75,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 770074,
+      "num": 1123211,
+      "word": "第一个中国人上太空已经21年了",
+      "onboard_time": 1728956478,
+      "rank": 14,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 717720,
       "num": 602673,
       "word": "警方通报老头乐高速逆行发生事故",
       "onboard_time": 1728950420,
       "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 716751,
+      "num": 716751,
+      "word": "年收入10万元以内基本不用缴纳个税",
+      "onboard_time": 1728961159,
+      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -107,14 +123,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 693998,
-      "num": 693998,
-      "word": "第一个中国人上太空已经21年了",
-      "onboard_time": 1728956478,
-      "rank": 14,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 658881,
       "num": 658881,
       "word": "感觉秦海璐再也不想看霸总文了",
@@ -137,6 +145,14 @@
       "onboard_time": 1728910641,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 603374,
+      "num": 603374,
+      "word": "黄磊没少看神厨小福贵吧",
+      "onboard_time": 1728960258,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 594108,
@@ -227,6 +243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 399690,
+      "num": 399690,
+      "word": "日本孤独死",
+      "onboard_time": 1728962178,
+      "rank": 16,
+      "category": "情感"
+    },
+    {
       "raw_hot": 398562,
       "num": 398562,
       "word": "灯花笑 虞书欣",
@@ -243,6 +267,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 387589,
+      "num": 407031,
+      "word": "中国将进行太阳系考古",
+      "onboard_time": 1728960679,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 385118,
+      "num": 569730,
+      "word": "檀健次本人看了也害羞",
+      "onboard_time": 1728959778,
+      "rank": 8,
+      "category": "演出"
+    },
+    {
       "raw_hot": 369012,
       "num": 273968,
       "word": "朴宝英朴炯植坐一起",
@@ -257,6 +297,14 @@
       "onboard_time": 1728916463,
       "rank": 7,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 347410,
+      "num": 347410,
+      "word": "易烊千玺代言华为nova13",
+      "onboard_time": 1728960439,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 347160,
@@ -283,11 +331,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 326495,
-      "num": 407031,
-      "word": "中国将进行太阳系考古",
-      "onboard_time": 1728960679,
-      "rank": 38,
+      "raw_hot": 320463,
+      "num": 320463,
+      "word": "员工不服调岗被解雇起诉获赔17万",
+      "onboard_time": 1728960317,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -297,14 +345,6 @@
       "onboard_time": 1728909199,
       "rank": 8,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 288357,
-      "num": 569730,
-      "word": "檀健次本人看了也害羞",
-      "onboard_time": 1728959778,
-      "rank": 8,
-      "category": "演出"
     },
     {
       "raw_hot": 285601,
@@ -337,14 +377,6 @@
       "onboard_time": 1728952460,
       "rank": 9,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 262995,
-      "num": 262995,
-      "word": "易烊千玺代言华为nova13",
-      "onboard_time": 1728960439,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 251161,
@@ -395,12 +427,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 226376,
+      "num": 226376,
+      "word": "桑启鸣野蒿皮肤",
+      "onboard_time": 1728962238,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 219958,
       "num": 219958,
       "word": "萧敬腾婚礼堪比演唱会",
       "onboard_time": 1728921139,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 218229,
+      "num": 218229,
+      "word": "小学没毕业的爸爸看了我的博士论文",
+      "onboard_time": 1728962718,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 215389,
@@ -427,14 +475,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 203987,
-      "num": 203987,
-      "word": "员工不服调岗被解雇起诉获赔17万",
-      "onboard_time": 1728960317,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 203686,
       "num": 217296,
       "word": "警方回应成都一河道疑发现浮尸",
@@ -459,6 +499,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 196166,
+      "num": 397001,
+      "word": "GAPDAY音乐节佛山定档",
+      "onboard_time": 1728962119,
+      "rank": 19,
+      "category": "演出"
+    },
+    {
       "raw_hot": 196121,
       "num": 235114,
       "word": "男友炖鸡汤没处理鸡蛋还在肚子里",
@@ -475,12 +523,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 186412,
-      "num": 186412,
-      "word": "年收入10万元以内基本不用缴纳个税",
-      "onboard_time": 1728961159,
-      "rank": 36,
-      "category": "社会新闻"
+      "raw_hot": 188047,
+      "num": 188047,
+      "word": "我国宣布将开展地外生命探寻",
+      "onboard_time": 1728958219,
+      "rank": 44,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 186327,
+      "num": 390556,
+      "word": "电影蓦然回首定档",
+      "onboard_time": 1728962478,
+      "rank": 24,
+      "category": "电影"
     },
     {
       "raw_hot": 182056,
@@ -539,12 +595,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 163732,
-      "num": 163732,
-      "word": "我国宣布将开展地外生命探寻",
-      "onboard_time": 1728958219,
-      "rank": 44,
-      "category": "科学科普"
+      "raw_hot": 165872,
+      "num": 295894,
+      "word": "现在就出发",
+      "onboard_time": 1728961398,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 162897,
@@ -587,19 +643,19 @@
       "category": "休闲"
     },
     {
-      "raw_hot": 147856,
-      "num": 175239,
-      "word": "现在就出发",
-      "onboard_time": 1728961398,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 144737,
       "num": 144737,
       "word": "颜如晶半年瘦了50斤",
       "onboard_time": 1728897680,
       "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 141855,
+      "num": 390872,
+      "word": "欧洲男性杂志眼中的曾黎",
+      "onboard_time": 1728961759,
+      "rank": 23,
       "category": "艺人"
     },
     {
@@ -763,6 +819,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 99851,
+      "num": 394682,
+      "word": "拼多多双11没套路就是降",
+      "onboard_time": 1728960498,
+      "rank": 34,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 95757,
       "num": 95757,
       "word": "蔡磊最新病情",
@@ -835,14 +899,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 82172,
-      "num": 275122,
-      "word": "黄磊没少看神厨小福贵吧",
-      "onboard_time": 1728960258,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 82039,
       "num": 82039,
       "word": "卫生局回应医院晚上直播唱歌成KTV",
@@ -883,6 +939,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 76414,
+      "num": 477840,
+      "word": "华为平板重绘千里江山图",
+      "onboard_time": 1728958398,
+      "rank": 15,
+      "category": "数码"
+    },
+    {
       "raw_hot": 71000,
       "num": 71000,
       "word": "胖东来为何劝离直播的司马南",
@@ -916,7 +980,7 @@
     },
     {
       "raw_hot": 64969,
-      "num": 424659,
+      "num": 480266,
       "word": "非洲农民称袁隆平是我的老师",
       "onboard_time": 1728961457,
       "rank": 9,
@@ -939,14 +1003,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 60052,
-      "num": 350622,
-      "word": "华为平板重绘千里江山图",
-      "onboard_time": 1728958398,
-      "rank": 15,
-      "category": "数码"
-    },
-    {
       "raw_hot": 59255,
       "num": 126341,
       "word": "中方再曝光美政府伏特台风计划细节",
@@ -963,12 +1019,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 54916,
-      "num": 274069,
-      "word": "拼多多双11没套路就是降",
-      "onboard_time": 1728960498,
-      "rank": 34,
-      "category": "互联网"
+      "raw_hot": 52263,
+      "num": 456384,
+      "word": "女子被假警察骗27万真警察境外追回",
+      "onboard_time": 1728961639,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 51355,
@@ -996,7 +1052,7 @@
     },
     {
       "raw_hot": 42053,
-      "num": 155513,
+      "num": 398932,
       "word": "小鹏P7+巴黎街头遭围观",
       "onboard_time": 1728961338,
       "rank": 48,

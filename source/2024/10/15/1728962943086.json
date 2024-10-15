@@ -1,0 +1,410 @@
+{
+  "runTime": 1728962943086,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 770074,
+        "num": 1123211,
+        "word": "第一个中国人上太空已经21年了",
+        "onboard_time": 1728956478,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 716751,
+        "num": 716751,
+        "word": "年收入10万元以内基本不用缴纳个税",
+        "onboard_time": 1728961159,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 63590,
+        "num": 708765,
+        "word": "美国假旗行动污染全球网络空间",
+        "onboard_time": 1728958398,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1226590,
+        "num": 708744,
+        "word": "听泉鉴宝称从未说过自己是北大的",
+        "onboard_time": 1728948618,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 708711,
+        "num": 708711,
+        "word": "数学家陈景润获批国家杰出青年基金",
+        "onboard_time": 1728957258,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 613657,
+        "num": 613657,
+        "word": "孙子在哪上学爷爷就在哪当保安",
+        "onboard_time": 1728948618,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 603374,
+        "num": 603374,
+        "word": "黄磊没少看神厨小福贵吧",
+        "onboard_time": 1728960258,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 483898,
+        "num": 483898,
+        "word": "男孩赌气误食滴水观音中毒被抢救",
+        "onboard_time": 1728954800,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 399135,
+        "num": 480996,
+        "word": "感觉秦海璐再也不想看霸总文了",
+        "onboard_time": 1728948017,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 48725,
+        "num": 480266,
+        "word": "非洲农民称袁隆平是我的老师",
+        "onboard_time": 1728961457,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1326748,
+        "num": 480237,
+        "word": "杭州强吻猥亵女生的男子已被抓获",
+        "onboard_time": 1728956598,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 480147,
+        "num": 480147,
+        "word": "鹿晗吃肘子",
+        "onboard_time": 1728950839,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 76414,
+        "num": 477840,
+        "word": "华为平板重绘千里江山图",
+        "onboard_time": 1728958398,
+        "rank": 12,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 477534,
+        "num": 477534,
+        "word": "2023年度个税汇算清缴数据发布",
+        "onboard_time": 1728957136,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 52263,
+        "num": 456384,
+        "word": "女子被假警察骗27万真警察境外追回",
+        "onboard_time": 1728961639,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 444605,
+        "num": 444605,
+        "word": "林诗栋排名世界第2",
+        "onboard_time": 1728955458,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 399690,
+        "num": 399690,
+        "word": "日本孤独死",
+        "onboard_time": 1728962178,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 41422,
+        "num": 398932,
+        "word": "小鹏P7+巴黎街头遭围观",
+        "onboard_time": 1728961338,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 385118,
+        "num": 398098,
+        "word": "檀健次本人看了也害羞",
+        "onboard_time": 1728959778,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 196166,
+        "num": 397001,
+        "word": "GAPDAY音乐节佛山定档",
+        "onboard_time": 1728962119,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 511090,
+        "num": 396169,
+        "word": "王楚钦 退赛",
+        "onboard_time": 1728913521,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 99851,
+        "num": 394682,
+        "word": "拼多多双11没套路就是降",
+        "onboard_time": 1728960498,
+        "rank": 21,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 394575,
+        "num": 394575,
+        "word": "杭州一女生夜晚被强行猥亵",
+        "onboard_time": 1728919162,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141855,
+        "num": 390872,
+        "word": "欧洲男性杂志眼中的曾黎",
+        "onboard_time": 1728961759,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186327,
+        "num": 390556,
+        "word": "电影蓦然回首定档",
+        "onboard_time": 1728962478,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 390511,
+        "num": 390511,
+        "word": "警方通报老头乐高速逆行发生事故",
+        "onboard_time": 1728950420,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 387589,
+        "num": 387589,
+        "word": "中国将进行太阳系考古",
+        "onboard_time": 1728960679,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 347410,
+        "num": 347410,
+        "word": "易烊千玺代言华为nova13",
+        "onboard_time": 1728960439,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 320463,
+        "num": 320463,
+        "word": "员工不服调岗被解雇起诉获赔17万",
+        "onboard_time": 1728960317,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165872,
+        "num": 295894,
+        "word": "现在就出发",
+        "onboard_time": 1728961398,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 288163,
+        "num": 288163,
+        "word": "国考 没岗",
+        "onboard_time": 1728919880,
+        "rank": 30,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 259154,
+        "num": 259154,
+        "word": "朴宝英朴炯植坐一起",
+        "onboard_time": 1728956058,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 226376,
+        "num": 226376,
+        "word": "桑启鸣野蒿皮肤",
+        "onboard_time": 1728962238,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 225478,
+        "num": 225478,
+        "word": "国家空间科学中长期发展规划发布",
+        "onboard_time": 1728958999,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 218229,
+        "num": 218229,
+        "word": "小学没毕业的爸爸看了我的博士论文",
+        "onboard_time": 1728962718,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 196177,
+        "num": 196177,
+        "word": "千万主播学历造假频繁发生",
+        "onboard_time": 1728927794,
+        "rank": 35,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 195015,
+        "num": 195015,
+        "word": "文旅局干部酒后大闹酒店实为借权耍横",
+        "onboard_time": 1728952279,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188047,
+        "num": 188047,
+        "word": "我国宣布将开展地外生命探寻",
+        "onboard_time": 1728958219,
+        "rank": 37,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 172783,
+        "num": 172783,
+        "word": "王一珩 抄袭",
+        "onboard_time": 1728910641,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171636,
+        "num": 171636,
+        "word": "崔永熙5分1篮板",
+        "onboard_time": 1728959537,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 166437,
+        "num": 166437,
+        "word": "以方称恪守在台湾问题上的一贯立场",
+        "onboard_time": 1728956718,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 166081,
+        "num": 166081,
+        "word": "3人故意吃虫子让火锅店赔1500",
+        "onboard_time": 1728914842,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165539,
+        "num": 165539,
+        "word": "女子被高坠水箱精准罩住超淡定",
+        "onboard_time": 1728948557,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161237,
+        "num": 161237,
+        "word": "第41个国际盲人节",
+        "onboard_time": 1728960498,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160425,
+        "num": 160425,
+        "word": "赵露思 自己化妆",
+        "onboard_time": 1728916520,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160321,
+        "num": 160321,
+        "word": "河南发现距今约五千年大墓",
+        "onboard_time": 1728954979,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152985,
+        "num": 152985,
+        "word": "萧敬腾婚礼堪比演唱会",
+        "onboard_time": 1728921139,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150168,
+        "num": 150168,
+        "word": "Jennie推特被封",
+        "onboard_time": 1728916401,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149933,
+        "num": 149933,
+        "word": "宝妈用狗尾巴草给孩子点痣惊呆网友",
+        "onboard_time": 1728920301,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146707,
+        "num": 146707,
+        "word": "罗慎远的户口是罗宜宁给上的",
+        "onboard_time": 1728960378,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同印度尼西亚总统佐科通电话#"
+    }
+  }
+}
