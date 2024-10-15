@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1728997199639,
+  "endTime": 1728999011366,
   "band_list": [
     {
       "raw_hot": 17915004,
@@ -1619,6 +1619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1393531,
+      "num": 1393531,
+      "word": "男子中48888现金反诈意识爆表",
+      "onboard_time": 1728996079,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1393529,
       "num": 595139,
       "word": "12306回应女子高铁车厢吃螺蛳粉",
@@ -2308,7 +2316,7 @@
     },
     {
       "raw_hot": 1195296,
-      "num": 437700,
+      "num": 438997,
       "word": "陈乔恩 你生十个婚姻会很长久吗",
       "onboard_time": 1728992840,
       "rank": 12,
@@ -2537,6 +2545,14 @@
       "onboard_time": 1728363560,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1137047,
+      "num": 454843,
+      "word": "叶珂评论伍佰的歌",
+      "onboard_time": 1728993619,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1135422,
@@ -3393,6 +3409,14 @@
       "onboard_time": 1728053302,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 965936,
+      "num": 965936,
+      "word": "林高远刘诗雯全锦赛混双夺冠",
+      "onboard_time": 1728997400,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 964810,
@@ -5369,6 +5393,14 @@
       "onboard_time": 1728731719,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 719093,
+      "num": 719093,
+      "word": "新闻联播看到周深",
+      "onboard_time": 1728997400,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 717720,
@@ -8299,6 +8331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 500541,
+      "num": 500541,
+      "word": "国足2比0领先印尼",
+      "onboard_time": 1728995299,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 500493,
       "num": 500493,
       "word": "亚锦赛男单",
@@ -11043,6 +11083,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 375038,
+      "num": 375038,
+      "word": "hanni哭了",
+      "onboard_time": 1728988820,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 374799,
       "num": 319682,
       "word": "高芙夺得中网女单冠军",
@@ -12323,14 +12371,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 333823,
-      "num": 333823,
-      "word": "hanni哭了",
-      "onboard_time": 1728988820,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 333604,
       "num": 221939,
       "word": "梁靖崑说王楚钦又甜又凶",
@@ -12425,6 +12465,14 @@
       "onboard_time": 1728880401,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 330789,
+      "num": 330789,
+      "word": "郑钦文入围WTA年终总决赛",
+      "onboard_time": 1728996141,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 330635,
@@ -13867,6 +13915,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 294580,
+      "num": 294580,
+      "word": "为什么说抑郁症是水溶性的",
+      "onboard_time": 1728994999,
+      "rank": 32,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 294476,
       "num": 294476,
       "word": "年轻人假期整顿婚礼",
@@ -14048,14 +14104,6 @@
       "word": "青川地震",
       "onboard_time": 1728355279,
       "rank": 28,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 291300,
-      "num": 432441,
-      "word": "男子中48888现金反诈意识爆表",
-      "onboard_time": 1728996079,
-      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -15507,14 +15555,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 265814,
-      "num": 265814,
-      "word": "郑钦文入围WTA年终总决赛",
-      "onboard_time": 1728996141,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
       "raw_hot": 265444,
       "num": 265444,
       "word": "黄子韬公司艺人泰创面试",
@@ -15673,14 +15713,6 @@
       "onboard_time": 1727877680,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 263685,
-      "num": 263685,
-      "word": "为什么说抑郁症是水溶性的",
-      "onboard_time": 1728994999,
-      "rank": 32,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 263587,
@@ -17043,6 +17075,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 240750,
+      "num": 240750,
+      "word": "心动的信号直播",
+      "onboard_time": 1728998241,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 240550,
       "num": 240550,
       "word": "公司趁我不在工位点开我微信",
@@ -18339,6 +18379,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 223275,
+      "num": 223275,
+      "word": "蔡依林 40岁还可以这样",
+      "onboard_time": 1728998241,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 223182,
       "num": 223182,
       "word": "瓶子 一诺",
@@ -18433,6 +18481,14 @@
       "onboard_time": 1728441138,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 221627,
+      "num": 221627,
+      "word": "刘浩存看展生图",
+      "onboard_time": 1728998121,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 221551,
@@ -21163,6 +21219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 198428,
+      "num": 198428,
+      "word": "朴顺荣柳智敏新歌challenge",
+      "onboard_time": 1728998000,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 198420,
       "num": 198420,
       "word": "马嘉祺铜锅涮肉vlog",
@@ -23123,6 +23187,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 187399,
+      "num": 187399,
+      "word": "林高远刘诗雯4比2赵钊彦孙铭阳",
+      "onboard_time": 1728998059,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 187345,
       "num": 187345,
       "word": "女程序员上班积极下班忧郁确诊抑郁",
@@ -24627,12 +24699,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 175637,
+      "num": 175637,
+      "word": "国足半场2比0印尼",
+      "onboard_time": 1728997640,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 175635,
       "num": 175635,
       "word": "亲戚想拿我终身大事去还她的人情",
       "onboard_time": 1728690019,
       "rank": 37,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 175490,
+      "num": 175490,
+      "word": "山东男篮vs广东男篮",
+      "onboard_time": 1728998419,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 175470,
@@ -25089,6 +25177,14 @@
       "onboard_time": 1728651981,
       "rank": 38,
       "category": "美食"
+    },
+    {
+      "raw_hot": 172090,
+      "num": 172090,
+      "word": "中学老师群里失控怒骂被暂停教学",
+      "onboard_time": 1728998720,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 171995,
@@ -26409,6 +26505,14 @@
       "onboard_time": 1728108318,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 163397,
+      "num": 163397,
+      "word": "iPadmini7有望告别果冻屏",
+      "onboard_time": 1728998781,
+      "rank": 47,
+      "category": "数码"
     },
     {
       "raw_hot": 163272,
@@ -28153,6 +28257,14 @@
       "onboard_time": 1728195258,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 152810,
+      "num": 152810,
+      "word": "开水烫伤6岁女童的男孩家属说他贪玩",
+      "onboard_time": 1728997041,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 152756,
@@ -30292,7 +30404,7 @@
     },
     {
       "raw_hot": 139092,
-      "num": 447402,
+      "num": 464243,
       "word": "妇产科医院回应成网红打卡地",
       "onboard_time": 1728995780,
       "rank": 7,
@@ -37683,14 +37795,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 83664,
-      "num": 424310,
-      "word": "国足2比0领先印尼",
-      "onboard_time": 1728995299,
-      "rank": 7,
-      "category": "体育"
-    },
-    {
       "raw_hot": 83660,
       "num": 83660,
       "word": "最值得坚持的3件事",
@@ -40427,6 +40531,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 52629,
+      "num": 195151,
+      "word": "罗宜宁恢复所有勇气和手段",
+      "onboard_time": 1728997581,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 52372,
       "num": 393982,
       "word": "禁区不是景区切勿为流量盲目跟风",
@@ -41280,6 +41392,14 @@
       "word": "消费者如何辨别粉条是不是纯红薯粉",
       "onboard_time": 1728803598,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 45662,
+      "num": 196038,
+      "word": "选择困难的年轻人开始抄作业",
+      "onboard_time": 1728997581,
+      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -43403,6 +43523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 31209,
+      "num": 181660,
+      "word": "杨幂FILA秀场look",
+      "onboard_time": 1728996561,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 31162,
       "num": 31162,
       "word": "中国海警出动6个编队巡航管控",
@@ -44803,6 +44931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 21554,
+      "num": 408587,
+      "word": "市监局正督促东北雨姐红薯粉条退赔",
+      "onboard_time": 1728997760,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 21475,
       "num": 44870,
       "word": "海军版山河图变装太燃了",
@@ -45953,14 +46089,6 @@
       "onboard_time": 1728808640,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 10391,
-      "num": 181660,
-      "word": "杨幂FILA秀场look",
-      "onboard_time": 1728996561,
-      "rank": 41,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 10294,
