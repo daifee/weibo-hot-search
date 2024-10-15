@@ -1,6 +1,6 @@
 {
   "startTime": 1729009695696,
-  "endTime": 1729013941617,
+  "endTime": 1729017025017,
   "band_list": [
     {
       "raw_hot": 941843,
@@ -323,6 +323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 105551,
+      "num": 116182,
+      "word": "美英对也门空袭4次",
+      "onboard_time": 1729012394,
+      "rank": 14,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 98048,
       "num": 98048,
       "word": "第五人格",
@@ -419,11 +427,19 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 55376,
-      "num": 116182,
-      "word": "美英对也门空袭4次",
-      "onboard_time": 1729012394,
-      "rank": 14,
+      "raw_hot": 60389,
+      "num": 60389,
+      "word": "敌军说中国话诱杀志愿军是真事",
+      "onboard_time": 1729014493,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 49694,
+      "num": 49694,
+      "word": "朝称韩军是无人机侵犯平壤主谋证据确凿",
+      "onboard_time": 1729014432,
+      "rank": 23,
       "category": "国外时政"
     },
     {
@@ -459,6 +475,38 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 34619,
+      "num": 34619,
+      "word": "朝鲜爆破道路现场画面",
+      "onboard_time": 1729014912,
+      "rank": 37,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 29199,
+      "num": 29199,
+      "word": "成都一代驾凌晨遭暴力殴打",
+      "onboard_time": 1729015992,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 28601,
+      "num": 81360,
+      "word": "成都住房贷款可以商转公了",
+      "onboard_time": 1729015992,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 21835,
+      "num": 25455,
+      "word": "春花焰",
+      "onboard_time": 1728990319,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 21268,
       "num": 674147,
       "word": "盘点10年经典文艺作品名场面",
@@ -473,6 +521,14 @@
       "onboard_time": 1729013714,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 19228,
+      "num": 26065,
+      "word": "全面加强新时代新征程军事理论工作",
+      "onboard_time": 1729016712,
+      "rank": 46,
+      "category": "国内时政"
     }
   ],
   "hotgov_list": [
