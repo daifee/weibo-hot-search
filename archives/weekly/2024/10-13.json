@@ -1,6 +1,6 @@
 {
   "startTime": 1728750414717,
-  "endTime": 1729005859704,
+  "endTime": 1729006738700,
   "band_list": [
     {
       "raw_hot": 17915004,
@@ -739,6 +739,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1156956,
+      "num": 1156956,
+      "word": "听泉鉴宝说不敢再休息了",
+      "onboard_time": 1729003701,
+      "rank": 3,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1139868,
       "num": 541981,
       "word": "阿Sa回应关智斌求婚",
@@ -889,14 +897,6 @@
       "onboard_time": 1728820400,
       "rank": 13,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 991623,
-      "num": 991623,
-      "word": "听泉鉴宝说不敢再休息了",
-      "onboard_time": 1729003701,
-      "rank": 3,
-      "category": "网红"
     },
     {
       "raw_hot": 987063,
@@ -1073,6 +1073,14 @@
       "onboard_time": 1728880041,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 861550,
+      "num": 660562,
+      "word": "中方回应韩媒称朝鲜炸毁韩朝边境部分道路",
+      "onboard_time": 1729004241,
+      "rank": 8,
+      "category": "国外时政"
     },
     {
       "raw_hot": 845959,
@@ -2123,14 +2131,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 458654,
-      "num": 458654,
-      "word": "中方回应韩媒称朝鲜炸毁韩朝边境部分道路",
-      "onboard_time": 1729004241,
-      "rank": 8,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 458226,
       "num": 458226,
       "word": "台独挑衅一日不止大陆反制就一刻不停",
@@ -2387,6 +2387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 403585,
+      "num": 569874,
+      "word": "老中青三代文艺工作者感悟深扎路",
+      "onboard_time": 1729001841,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 403156,
       "num": 640094,
       "word": "VOGUE盛典官宣阵容",
@@ -2432,14 +2440,6 @@
       "word": "炒股4天亏32万程序员回应",
       "onboard_time": 1728902300,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 391920,
-      "num": 569874,
-      "word": "老中青三代文艺工作者感悟深扎路",
-      "onboard_time": 1729001841,
-      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -3560,6 +3560,14 @@
       "word": "杭州网红柿子树因长太好被质疑",
       "onboard_time": 1728901039,
       "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 256639,
+      "num": 360487,
+      "word": "戴鲨鱼夹摔倒重度昏迷女子被接回家",
+      "onboard_time": 1729005620,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -4859,6 +4867,14 @@
       "category": "艺人,综艺"
     },
     {
+      "raw_hot": 194747,
+      "num": 194747,
+      "word": "印尼球员说国足浪费时间",
+      "onboard_time": 1729005080,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 194467,
       "num": 194467,
       "word": "网易第五人格",
@@ -5259,6 +5275,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 184188,
+      "num": 264152,
+      "word": "14.8万卖了劳力士表后被警方上网追逃",
+      "onboard_time": 1728996500,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 184067,
       "num": 185804,
       "word": "Tarzan莫甘娜打野",
@@ -5491,20 +5515,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 173512,
+      "num": 204191,
+      "word": "白敬亭难哄新物料",
+      "onboard_time": 1729006279,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 173487,
       "num": 246836,
       "word": "国足vs印尼首发",
       "onboard_time": 1728988339,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 173449,
-      "num": 237373,
-      "word": "戴鲨鱼夹摔倒重度昏迷女子被接回家",
-      "onboard_time": 1729005620,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 173443,
@@ -5713,6 +5737,14 @@
       "onboard_time": 1728817881,
       "rank": 35,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 165282,
+      "num": 370060,
+      "word": "珠穆朗玛气象科考领军者马耀明",
+      "onboard_time": 1729005980,
+      "rank": 13,
+      "category": "社会新闻,科学科普"
     },
     {
       "raw_hot": 165190,
@@ -6555,6 +6587,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 135055,
+      "num": 135055,
+      "word": "谢娜还是那个谢娜",
+      "onboard_time": 1729006339,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 134381,
+      "num": 134381,
+      "word": "Hanni叫错ADOR代表名字",
+      "onboard_time": 1729006640,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 133450,
       "num": 133450,
       "word": "林钟勋安宰贤亚锦赛夺冠",
@@ -6729,14 +6777,6 @@
       "onboard_time": 1728819140,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 124763,
-      "num": 124763,
-      "word": "印尼球员说国足浪费时间",
-      "onboard_time": 1729005080,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 123030,
@@ -8331,6 +8371,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 49578,
+      "num": 336992,
+      "word": "中介称屋内有灰尘拒退押金",
+      "onboard_time": 1729004840,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 49442,
       "num": 554224,
       "word": "京东双11九大便宜攻略",
@@ -8915,14 +8963,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 31483,
-      "num": 336992,
-      "word": "中介称屋内有灰尘拒退押金",
-      "onboard_time": 1729004840,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 31209,
       "num": 181660,
       "word": "杨幂FILA秀场look",
@@ -9051,6 +9091,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 27888,
+      "num": 397702,
+      "word": "市监所回应医院当街打广告",
+      "onboard_time": 1729004720,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 27862,
       "num": 213685,
       "word": "敏感肌如何有效美白",
@@ -9145,14 +9193,6 @@
       "onboard_time": 1728858313,
       "rank": 49,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 24927,
-      "num": 264152,
-      "word": "14.8万卖了劳力士表后被警方上网追逃",
-      "onboard_time": 1728996500,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 24458,
@@ -9328,14 +9368,6 @@
       "word": "邱少云生前部队官兵千里奔赴来渝祭拜",
       "onboard_time": 1728783198,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 19055,
-      "num": 397702,
-      "word": "市监所回应医院当街打广告",
-      "onboard_time": 1729004720,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
