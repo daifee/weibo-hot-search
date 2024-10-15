@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1729006738700,
+  "endTime": 1729009695696,
   "band_list": [
     {
       "raw_hot": 17915004,
@@ -4419,6 +4419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 820289,
+      "num": 282349,
+      "word": "死者父亲将起诉出轨儿媳索赔150万",
+      "onboard_time": 1729006759,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 820173,
       "num": 443434,
       "word": "来福士",
@@ -6688,6 +6696,14 @@
       "word": "男子乘飞机2小时未起身致肺栓塞身亡",
       "onboard_time": 1728977780,
       "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 619249,
+      "num": 619249,
+      "word": "戴鲨鱼夹摔倒重度昏迷女子被接回家",
+      "onboard_time": 1729005620,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -16299,14 +16315,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 256639,
-      "num": 360487,
-      "word": "戴鲨鱼夹摔倒重度昏迷女子被接回家",
-      "onboard_time": 1729005620,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 256386,
       "num": 391894,
       "word": "38城平均招聘月薪10058元",
@@ -16473,6 +16481,14 @@
       "onboard_time": 1728710660,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 253412,
+      "num": 253412,
+      "word": "粥饼伦终于开店了",
+      "onboard_time": 1729008679,
+      "rank": 17,
+      "category": "网红"
     },
     {
       "raw_hot": 253228,
@@ -23491,6 +23507,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 186656,
+      "num": 182279,
+      "word": "Hanni叫错ADOR代表名字",
+      "onboard_time": 1729006640,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 186636,
       "num": 186636,
       "word": "女生被峨眉山猴子翻包气哭",
@@ -25289,6 +25313,22 @@
       "onboard_time": 1727951180,
       "rank": 31,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 172915,
+      "num": 172915,
+      "word": "网红麻辣烫直播情侣亲昵博眼球",
+      "onboard_time": 1729008439,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 172909,
+      "num": 172909,
+      "word": "剥莲子原来有工具",
+      "onboard_time": 1729008917,
+      "rank": 27,
+      "category": "科学科普"
     },
     {
       "raw_hot": 172889,
@@ -27563,6 +27603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 157669,
+      "num": 152000,
+      "word": "赵丽颖后援会直播",
+      "onboard_time": 1729007299,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 157662,
       "num": 157662,
       "word": "健身达人肚子里跟普通人有什么不同",
@@ -28233,6 +28281,14 @@
       "onboard_time": 1728538639,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 154021,
+      "num": 154021,
+      "word": "谢娜还是那个谢娜",
+      "onboard_time": 1729006339,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 153987,
@@ -29609,6 +29665,14 @@
       "onboard_time": 1728687975,
       "rank": 9,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 145233,
+      "num": 145233,
+      "word": "老外在中国治好了数学焦虑",
+      "onboard_time": 1729009337,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 145162,
@@ -31291,14 +31355,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 135055,
-      "num": 135055,
-      "word": "谢娜还是那个谢娜",
-      "onboard_time": 1729006339,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 134935,
       "num": 134935,
       "word": "国乒锁定中国大满贯男双冠亚军",
@@ -31384,14 +31440,6 @@
       "word": "王一博在沙漠做饼",
       "onboard_time": 1728061635,
       "rank": 36,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 134381,
-      "num": 134381,
-      "word": "Hanni叫错ADOR代表名字",
-      "onboard_time": 1729006640,
-      "rank": 47,
       "category": "艺人"
     },
     {
@@ -38200,6 +38248,14 @@
       "word": "古人笔下的浪漫秋意",
       "onboard_time": 1728362721,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 82623,
+      "num": 286173,
+      "word": "我国成功发射千帆极轨02组卫星",
+      "onboard_time": 1729007119,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
