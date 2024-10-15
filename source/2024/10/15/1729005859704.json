@@ -1,0 +1,410 @@
+{
+  "runTime": 1729005859704,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2126561,
+        "num": 2126561,
+        "word": "国足赢了",
+        "onboard_time": 1729001062,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1019772,
+        "num": 1019772,
+        "word": "朝韩关系为何一下变天",
+        "onboard_time": 1728994219,
+        "rank": 1,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 24200,
+        "num": 1005570,
+        "word": "盘点10年经典文艺作品名场面",
+        "onboard_time": 1728995900,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 991623,
+        "num": 991623,
+        "word": "听泉鉴宝说不敢再休息了",
+        "onboard_time": 1729003701,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 760799,
+        "num": 760799,
+        "word": "国足印尼冲突",
+        "onboard_time": 1729001362,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 740645,
+        "num": 740645,
+        "word": "陈赫力挺黄磊",
+        "onboard_time": 1728979160,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 513445,
+        "num": 513445,
+        "word": "iPadmini7发布",
+        "onboard_time": 1729000401,
+        "rank": 6,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 511407,
+        "num": 511407,
+        "word": "新闻联播看到周深",
+        "onboard_time": 1728997400,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 458654,
+        "num": 458654,
+        "word": "中方回应韩媒称朝鲜炸毁韩朝边境部分道路",
+        "onboard_time": 1729004241,
+        "rank": 8,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 411441,
+        "num": 411441,
+        "word": "男子中48888现金反诈意识爆表",
+        "onboard_time": 1728996079,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 827620,
+        "num": 409688,
+        "word": "陈乔恩 你生十个婚姻会很长久吗",
+        "onboard_time": 1728992840,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 690446,
+        "num": 407132,
+        "word": "女子因领导批评压力过大变成木头人",
+        "onboard_time": 1728985700,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 655592,
+        "num": 404855,
+        "word": "金正恩指明朝鲜军事活动方向",
+        "onboard_time": 1728964940,
+        "rank": 12,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 577771,
+        "num": 401452,
+        "word": "阿Sa回应关智斌求婚",
+        "onboard_time": 1728990859,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19055,
+        "num": 397702,
+        "word": "市监所回应医院当街打广告",
+        "onboard_time": 1729004720,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 539832,
+        "num": 394252,
+        "word": "叶珂评论伍佰的歌",
+        "onboard_time": 1728993619,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 391920,
+        "num": 391920,
+        "word": "老中青三代文艺工作者感悟深扎路",
+        "onboard_time": 1729001841,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 383368,
+        "num": 383368,
+        "word": "迪丽热巴高定新季全球首穿",
+        "onboard_time": 1728994099,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 347959,
+        "num": 347959,
+        "word": "康辉一次性读完全国易错地名",
+        "onboard_time": 1728987499,
+        "rank": 18,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 31483,
+        "num": 336992,
+        "word": "中介称屋内有灰尘拒退押金",
+        "onboard_time": 1729004840,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1812342,
+        "num": 336423,
+        "word": "中学老师群里失控怒骂被暂停教学",
+        "onboard_time": 1728998720,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 335549,
+        "num": 335549,
+        "word": "蔡依林 40岁还可以这样",
+        "onboard_time": 1728998241,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 326852,
+        "num": 326852,
+        "word": "hanni哭了",
+        "onboard_time": 1728988820,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 295335,
+        "num": 295335,
+        "word": "林高远刘诗雯全锦赛混双夺冠",
+        "onboard_time": 1728997400,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 258012,
+        "num": 258012,
+        "word": "听泉鉴宝复播",
+        "onboard_time": 1728999680,
+        "rank": 24,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 240238,
+        "num": 240238,
+        "word": "刘浩存看展生图",
+        "onboard_time": 1728998121,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 238194,
+        "num": 238194,
+        "word": "秦奋给韦雪刷礼物",
+        "onboard_time": 1728975980,
+        "rank": 26,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 187217,
+        "num": 238072,
+        "word": "心动的信号直播",
+        "onboard_time": 1728998241,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173449,
+        "num": 237373,
+        "word": "戴鲨鱼夹摔倒重度昏迷女子被接回家",
+        "onboard_time": 1729005620,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169265,
+        "num": 236682,
+        "word": "吴谨言这次终于有公主护着了",
+        "onboard_time": 1729002860,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153237,
+        "num": 236449,
+        "word": "北京公积金中心试点新模式",
+        "onboard_time": 1729003820,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236121,
+        "num": 236121,
+        "word": "马龙感受自然plog",
+        "onboard_time": 1728992059,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 181356,
+        "num": 181356,
+        "word": "墨香铜臭 解锁",
+        "onboard_time": 1728965419,
+        "rank": 32,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 169221,
+        "num": 169221,
+        "word": "开水烫伤6岁女童的男孩家属说他贪玩",
+        "onboard_time": 1728997041,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168857,
+        "num": 168857,
+        "word": "黄雨婷的发卡又升级了",
+        "onboard_time": 1728999079,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167330,
+        "num": 167330,
+        "word": "易烊千玺大一时每天写2000字散文",
+        "onboard_time": 1728991280,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166735,
+        "num": 166735,
+        "word": "国足vs印尼",
+        "onboard_time": 1728991100,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 163118,
+        "num": 163118,
+        "word": "上海一妇产医院成网红打卡地",
+        "onboard_time": 1728991819,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158337,
+        "num": 158337,
+        "word": "听泉鉴宝下架大量商品",
+        "onboard_time": 1729002141,
+        "rank": 38,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 156841,
+        "num": 156841,
+        "word": "王楚钦孙颖莎继续包揽WTT世界第1",
+        "onboard_time": 1729000821,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 155449,
+        "num": 155449,
+        "word": "为什么说抑郁症是水溶性的",
+        "onboard_time": 1728994999,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 148481,
+        "num": 148481,
+        "word": "刘诗雯回应夺冠",
+        "onboard_time": 1729002082,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140335,
+        "num": 140335,
+        "word": "奔跑吧明天集合",
+        "onboard_time": 1728994039,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135937,
+        "num": 135937,
+        "word": "猎罪图鉴2过审",
+        "onboard_time": 1728990679,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135934,
+        "num": 135934,
+        "word": "肖战机场路透",
+        "onboard_time": 1728989600,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128315,
+        "num": 128315,
+        "word": "官方通报高二女生跑步猝死",
+        "onboard_time": 1729001241,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124763,
+        "num": 124763,
+        "word": "印尼球员说国足浪费时间",
+        "onboard_time": 1729005080,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122380,
+        "num": 122380,
+        "word": "谢瑜说辛苦了玫瑰哥",
+        "onboard_time": 1729004901,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121291,
+        "num": 121291,
+        "word": "张玉宁回应落泪",
+        "onboard_time": 1729005500,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118256,
+        "num": 118256,
+        "word": "男子回应女友戴鲨鱼夹摔倒重度昏迷",
+        "onboard_time": 1729001302,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#全面加强新时代新征程军事理论工作#"
+    }
+  }
+}
