@@ -1,6 +1,6 @@
 {
   "startTime": 1728750414717,
-  "endTime": 1729002089288,
+  "endTime": 1729003222855,
   "band_list": [
     {
       "raw_hot": 17915004,
@@ -27,6 +27,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 3775722,
+      "num": 3775722,
+      "word": "国足赢了",
+      "onboard_time": 1729001062,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 3708701,
       "num": 616795,
       "word": "龚琳娜离婚",
@@ -49,14 +57,6 @@
       "onboard_time": 1728965419,
       "rank": 1,
       "category": "读书作家"
-    },
-    {
-      "raw_hot": 3020675,
-      "num": 3020675,
-      "word": "国足赢了",
-      "onboard_time": 1729001062,
-      "rank": 0,
-      "category": "体育"
     },
     {
       "raw_hot": 2965185,
@@ -129,6 +129,14 @@
       "onboard_time": 1728991100,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 2508866,
+      "num": 579164,
+      "word": "中学老师群里失控怒骂被暂停教学",
+      "onboard_time": 1728998720,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2468930,
@@ -224,14 +232,6 @@
       "word": "印度女子不满女儿恋情雇凶杀女遭反杀",
       "onboard_time": 1728875419,
       "rank": 20,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2103428,
-      "num": 579164,
-      "word": "中学老师群里失控怒骂被暂停教学",
-      "onboard_time": 1728998720,
-      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -1515,6 +1515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 659230,
+      "num": 659230,
+      "word": "iPadmini7发布",
+      "onboard_time": 1729000401,
+      "rank": 8,
+      "category": "数码"
+    },
+    {
       "raw_hot": 658881,
       "num": 658881,
       "word": "感觉秦海璐再也不想看霸总文了",
@@ -1715,14 +1723,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 592202,
-      "num": 592202,
-      "word": "iPadmini7发布",
-      "onboard_time": 1729000401,
-      "rank": 8,
-      "category": "数码"
-    },
-    {
       "raw_hot": 590824,
       "num": 590824,
       "word": "林诗栋排名世界第2",
@@ -1753,6 +1753,14 @@
       "onboard_time": 1728789739,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 569934,
+      "num": 470568,
+      "word": "国足印尼冲突",
+      "onboard_time": 1729001362,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 569452,
@@ -2355,6 +2363,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 407097,
+      "num": 407097,
+      "word": "蔡依林 40岁还可以这样",
+      "onboard_time": 1728998241,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 403156,
       "num": 640094,
       "word": "VOGUE盛典官宣阵容",
@@ -2571,6 +2587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 356996,
+      "num": 356996,
+      "word": "刘浩存看展生图",
+      "onboard_time": 1728998121,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 356770,
       "num": 402594,
       "word": "大冰不带货的原因",
@@ -2641,6 +2665,14 @@
       "onboard_time": 1728865940,
       "rank": 25,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 349538,
+      "num": 349538,
+      "word": "心动的信号直播",
+      "onboard_time": 1728998241,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 347410,
@@ -2737,14 +2769,6 @@
       "onboard_time": 1728987619,
       "rank": 38,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 332801,
-      "num": 332801,
-      "word": "心动的信号直播",
-      "onboard_time": 1728998241,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 332064,
@@ -3075,14 +3099,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 292947,
-      "num": 258546,
-      "word": "国足印尼冲突",
-      "onboard_time": 1729001362,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 292876,
       "num": 292876,
       "word": "王者荣耀",
@@ -3227,14 +3243,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 281462,
-      "num": 281462,
-      "word": "刘浩存看展生图",
-      "onboard_time": 1728998121,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 280180,
       "num": 280180,
       "word": "女子被高坠水箱精准罩住超淡定",
@@ -3275,6 +3283,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 275368,
+      "num": 275368,
+      "word": "听泉鉴宝下架大量商品",
+      "onboard_time": 1729002141,
+      "rank": 28,
+      "category": "网红"
+    },
+    {
       "raw_hot": 275186,
       "num": 275186,
       "word": "4家药店伪造上万张处方金额过亿",
@@ -3297,6 +3313,14 @@
       "onboard_time": 1728952460,
       "rank": 9,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 273441,
+      "num": 273441,
+      "word": "黄雨婷的发卡又升级了",
+      "onboard_time": 1728999079,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 273089,
@@ -3427,14 +3451,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 262005,
-      "num": 262005,
-      "word": "蔡依林 40岁还可以这样",
-      "onboard_time": 1728998241,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 261962,
       "num": 261962,
       "word": "K总说私底下的产业比直播挣的多",
@@ -3488,14 +3504,6 @@
       "word": "盛李豪夺冠后英文采访",
       "onboard_time": 1728991038,
       "rank": 47,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 258471,
-      "num": 258471,
-      "word": "黄雨婷的发卡又升级了",
-      "onboard_time": 1728999079,
-      "rank": 35,
       "category": "体育"
     },
     {
@@ -3945,6 +3953,14 @@
       "onboard_time": 1728796579,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 225119,
+      "num": 225119,
+      "word": "刘诗雯回应夺冠",
+      "onboard_time": 1729002082,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 224606,
@@ -5099,8 +5115,8 @@
       "category": "网红"
     },
     {
-      "raw_hot": 187468,
-      "num": 187468,
+      "raw_hot": 187689,
+      "num": 187689,
       "word": "王楚钦孙颖莎继续包揽WTT世界第1",
       "onboard_time": 1729000821,
       "rank": 41,
@@ -5177,6 +5193,14 @@
       "onboard_time": 1728982039,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 185884,
+      "num": 185884,
+      "word": "吴谨言这次终于有公主护着了",
+      "onboard_time": 1729002860,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 185791,
@@ -6891,6 +6915,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 114689,
+      "num": 540422,
+      "word": "山河吐槽打压式教育",
+      "onboard_time": 1729001602,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 114453,
       "num": 114453,
       "word": "无限王者团回归",
@@ -7251,12 +7283,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 98033,
+      "num": 531996,
+      "word": "官方通报高二女生跑步猝死",
+      "onboard_time": 1729001241,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 96934,
       "num": 96934,
       "word": "石凯黑白艺术家演技张力",
       "onboard_time": 1728804619,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 95791,
+      "num": 562161,
+      "word": "男子回应女友戴鲨鱼夹摔倒重度昏迷",
+      "onboard_time": 1729001302,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 95692,
@@ -7307,14 +7355,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 92606,
-      "num": 540422,
-      "word": "山河吐槽打压式教育",
-      "onboard_time": 1729001602,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 92311,
       "num": 204910,
       "word": "郑钦文状态",
@@ -7336,6 +7376,14 @@
       "word": "央视揭秘增高产品骗局",
       "onboard_time": 1728788838,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 91256,
+      "num": 353210,
+      "word": "促房地产市场平稳健康发展发布会",
+      "onboard_time": 1728997460,
+      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -7651,14 +7699,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 74808,
-      "num": 562161,
-      "word": "男子回应女友戴鲨鱼夹摔倒重度昏迷",
-      "onboard_time": 1729001302,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 74055,
       "num": 146865,
       "word": "东部战区战训画面太燃了",
@@ -7904,14 +7944,6 @@
       "word": "全国秋收已近六成",
       "onboard_time": 1728825861,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 61229,
-      "num": 531996,
-      "word": "官方通报高二女生跑步猝死",
-      "onboard_time": 1729001241,
-      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -9433,6 +9465,14 @@
       "onboard_time": 1728941410,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 6368,
+      "num": 401684,
+      "word": "吴宇恒新剧副业达人",
+      "onboard_time": 1729003101,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 6156,
