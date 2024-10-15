@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/10/01 00:28:17 ~ 2024/10/16 01:21:07
+本榜单时间：2024/10/01 00:28:17 ~ 2024/10/16 01:39:01
 </p>
 </blockquote>
 <p>
@@ -2745,6 +2745,12 @@ A股后续将迎第二波上涨行情（热度：964810）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8F%AD%E4%B8%BB%E4%BB%BB%E5%9C%A8%E7%8F%AD%E7%BA%A7%E7%BE%A4%E5%8F%91%E9%A3%99%E5%90%8E%E8%A2%AB%E5%81%9C%E8%81%8C%23" target="weibo">
+班主任在班级群发飙后被停职（热度：933529）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E8%AF%97%E6%A0%8B%E8%AF%B7%E5%85%A8%E5%9C%BA%E6%8A%8A%E6%8E%8C%E5%A3%B0%E9%80%81%E7%BB%99%E9%A9%AC%E9%BE%99%23" target="weibo">
 林诗栋请全场把掌声送给马龙（热度：930101）
 </a>
@@ -3095,12 +3101,6 @@ K总回应恋情（热度：872466）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E7%9A%93%E6%8C%87%E5%AF%BC%23" target="weibo">
 王皓指导（热度：857024）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8F%AD%E4%B8%BB%E4%BB%BB%E5%9C%A8%E7%8F%AD%E7%BA%A7%E7%BE%A4%E5%8F%91%E9%A3%99%E5%90%8E%E8%A2%AB%E5%81%9C%E8%81%8C%23" target="weibo">
-班主任在班级群发飙后被停职（热度：854474）
 </a>
 </li>
 

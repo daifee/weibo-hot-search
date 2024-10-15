@@ -1,6 +1,6 @@
 {
   "startTime": 1729009695696,
-  "endTime": 1729012867993,
+  "endTime": 1729013941617,
   "band_list": [
     {
       "raw_hot": 941843,
@@ -11,20 +11,20 @@
       "category": "网红"
     },
     {
+      "raw_hot": 933529,
+      "num": 933529,
+      "word": "班主任在班级群发飙后被停职",
+      "onboard_time": 1729010117,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 866186,
       "num": 866186,
       "word": "国足赢了",
       "onboard_time": 1729001062,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 854474,
-      "num": 854474,
-      "word": "班主任在班级群发飙后被停职",
-      "onboard_time": 1729010117,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 820289,
@@ -155,20 +155,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 239710,
+      "num": 172915,
+      "word": "网红麻辣烫直播情侣亲昵博眼球",
+      "onboard_time": 1729008439,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 227364,
       "num": 227364,
       "word": "hanni哭了",
       "onboard_time": 1728988820,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 226399,
-      "num": 172915,
-      "word": "网红麻辣烫直播情侣亲昵博眼球",
-      "onboard_time": 1729008439,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 223929,
@@ -257,6 +257,14 @@
       "onboard_time": 1729006339,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 151432,
+      "num": 85788,
+      "word": "HANNI称从出道就被无视",
+      "onboard_time": 1729013174,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 149265,
@@ -411,6 +419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 55376,
+      "num": 116182,
+      "word": "美英对也门空袭4次",
+      "onboard_time": 1729012394,
+      "rank": 14,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 48535,
       "num": 48535,
       "word": "秋天的新疆含金量有多高",
@@ -419,12 +435,20 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 38801,
-      "num": 116182,
-      "word": "美英对也门空袭4次",
-      "onboard_time": 1729012394,
-      "rank": 14,
-      "category": "国外时政"
+      "raw_hot": 48293,
+      "num": 48293,
+      "word": "火锅店免费美甲服务变抄作业",
+      "onboard_time": 1729013113,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 41123,
+      "num": 55868,
+      "word": "ITZY GOLD",
+      "onboard_time": 1729013353,
+      "rank": 34,
+      "category": "音乐"
     },
     {
       "raw_hot": 37032,
@@ -440,6 +464,14 @@
       "word": "盘点10年经典文艺作品名场面",
       "onboard_time": 1728995900,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 21107,
+      "num": 70716,
+      "word": "21年前杨利伟首飞前珍贵影像",
+      "onboard_time": 1729013714,
+      "rank": 24,
       "category": "社会新闻"
     }
   ],
