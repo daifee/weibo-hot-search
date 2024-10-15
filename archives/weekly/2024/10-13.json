@@ -1,6 +1,6 @@
 {
   "startTime": 1728750414717,
-  "endTime": 1728992182706,
+  "endTime": 1728996189278,
   "band_list": [
     {
       "raw_hot": 17915004,
@@ -116,7 +116,7 @@
     },
     {
       "raw_hot": 2468930,
-      "num": 945556,
+      "num": 964297,
       "word": "陈赫力挺黄磊",
       "onboard_time": 1728979160,
       "rank": 15,
@@ -164,7 +164,7 @@
     },
     {
       "raw_hot": 2321711,
-      "num": 292076,
+      "num": 435915,
       "word": "女子因领导批评压力过大变成木头人",
       "onboard_time": 1728985700,
       "rank": 10,
@@ -265,6 +265,14 @@
       "onboard_time": 1728874999,
       "rank": 41,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1973011,
+      "num": 439559,
+      "word": "叶珂说伍佰的歌猥琐",
+      "onboard_time": 1728993619,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1947210,
@@ -409,6 +417,14 @@
       "onboard_time": 1728898938,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1437179,
+      "num": 1437179,
+      "word": "国足vs印尼",
+      "onboard_time": 1728991100,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 1427331,
@@ -667,6 +683,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1195296,
+      "num": 437700,
+      "word": "陈乔恩 你生十个婚姻会很长久吗",
+      "onboard_time": 1728992840,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1189609,
       "num": 610269,
       "word": "奥利 背刺",
@@ -684,7 +708,7 @@
     },
     {
       "raw_hot": 1139868,
-      "num": 291687,
+      "num": 428836,
       "word": "阿Sa回应关智斌求婚",
       "onboard_time": 1728990859,
       "rank": 31,
@@ -849,6 +873,14 @@
       "onboard_time": 1728895170,
       "rank": 26,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 953348,
+      "num": 436901,
+      "word": "迪丽热巴高定新季全球首穿",
+      "onboard_time": 1728994099,
+      "rank": 13,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 951025,
@@ -1244,7 +1276,7 @@
     },
     {
       "raw_hot": 737139,
-      "num": 291372,
+      "num": 439756,
       "word": "康辉一次性读完全国易错地名",
       "onboard_time": 1728987499,
       "rank": 37,
@@ -1289,6 +1321,14 @@
       "onboard_time": 1728811519,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 721437,
+      "num": 721437,
+      "word": "朝韩关系为何一下变天",
+      "onboard_time": 1728994219,
+      "rank": 3,
+      "category": "国外时政"
     },
     {
       "raw_hot": 717720,
@@ -1369,6 +1409,14 @@
       "onboard_time": 1728805460,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 677034,
+      "num": 677034,
+      "word": "上海一妇产医院成网红打卡地",
+      "onboard_time": 1728991819,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 676608,
@@ -1899,6 +1947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 481067,
+      "num": 481067,
+      "word": "马龙感受自然plog",
+      "onboard_time": 1728992059,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 478990,
       "num": 478990,
       "word": "G2",
@@ -1980,7 +2036,7 @@
     },
     {
       "raw_hot": 454016,
-      "num": 454016,
+      "num": 455247,
       "word": "猎罪图鉴2过审",
       "onboard_time": 1728990679,
       "rank": 6,
@@ -2073,6 +2129,14 @@
       "onboard_time": 1728952279,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 435873,
+      "num": 435873,
+      "word": "谢瑜世界杯10米气手枪夺冠",
+      "onboard_time": 1728991399,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 434997,
@@ -2291,6 +2355,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 382209,
+      "num": 382209,
+      "word": "易烊千玺大一时每天写2000字散文",
+      "onboard_time": 1728991280,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 381566,
       "num": 469835,
       "word": "房地产税收新政将出台",
@@ -2345,14 +2417,6 @@
       "onboard_time": 1728896778,
       "rank": 26,
       "category": "汽车,体育"
-    },
-    {
-      "raw_hot": 370644,
-      "num": 289049,
-      "word": "易烊千玺大一时每天写2000字散文",
-      "onboard_time": 1728991280,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 370260,
@@ -2587,6 +2651,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 333823,
+      "num": 333823,
+      "word": "hanni哭了",
+      "onboard_time": 1728988820,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 332064,
       "num": 273469,
       "word": "邓亚萍谈金琴英3比1张本美和",
@@ -2705,14 +2777,6 @@
       "onboard_time": 1728804017,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 315726,
-      "num": 287012,
-      "word": "hanni哭了",
-      "onboard_time": 1728988820,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 311105,
@@ -3443,20 +3507,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 244631,
-      "num": 287303,
-      "word": "国足vs印尼",
-      "onboard_time": 1728991100,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 244360,
       "num": 244360,
       "word": "尚美巴黎光与夜之恋",
       "onboard_time": 1728969260,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 243996,
+      "num": 243996,
+      "word": "樊振东上海大师赛vlog",
+      "onboard_time": 1728993140,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 243971,
@@ -3563,12 +3627,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 232119,
+      "num": 232119,
+      "word": "为什么说抑郁症是水溶性的",
+      "onboard_time": 1728994999,
+      "rank": 32,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 231822,
       "num": 231822,
       "word": "朝韩部分交界被韩指定为危险区",
       "onboard_time": 1728985819,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 231312,
+      "num": 237215,
+      "word": "奔跑吧明天集合",
+      "onboard_time": 1728994039,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 231284,
@@ -3659,6 +3739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 227323,
+      "num": 227323,
+      "word": "这居然是何瑞贤",
+      "onboard_time": 1728994579,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 227210,
       "num": 292350,
       "word": "罗慎远的户口是罗宜宁给上的",
@@ -3713,14 +3801,6 @@
       "onboard_time": 1728812359,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 223249,
-      "num": 223249,
-      "word": "马龙感受自然plog",
-      "onboard_time": 1728992059,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 223182,
@@ -3841,6 +3921,14 @@
       "onboard_time": 1728804017,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 217062,
+      "num": 217062,
+      "word": "米卡 外国米入境卡",
+      "onboard_time": 1728995599,
+      "rank": 37,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 216578,
@@ -4219,14 +4307,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 201459,
-      "num": 287543,
-      "word": "谢瑜世界杯10米气手枪夺冠",
-      "onboard_time": 1728991399,
-      "rank": 28,
-      "category": "体育"
-    },
-    {
       "raw_hot": 201291,
       "num": 201291,
       "word": "多方向进逼台岛挤压力度前所未有",
@@ -4449,6 +4529,14 @@
       "onboard_time": 1728962119,
       "rank": 19,
       "category": "演出"
+    },
+    {
+      "raw_hot": 196125,
+      "num": 438566,
+      "word": "拜合拉木破门",
+      "onboard_time": 1728995360,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 196121,
@@ -4705,14 +4793,6 @@
       "onboard_time": 1728990019,
       "rank": 44,
       "category": "演出"
-    },
-    {
-      "raw_hot": 189112,
-      "num": 189112,
-      "word": "上海一妇产医院成网红打卡地",
-      "onboard_time": 1728991819,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 189080,
@@ -5091,6 +5171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 174602,
+      "num": 185940,
+      "word": "锦绣安宁治愈了我的身材焦虑",
+      "onboard_time": 1728995120,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 173487,
       "num": 246836,
       "word": "国足vs印尼首发",
@@ -5251,6 +5339,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 167392,
+      "num": 167392,
+      "word": "王者草木风华全员初亮相",
+      "onboard_time": 1728996019,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 167034,
       "num": 167034,
       "word": "首部亚运电竞夺金纪录电影",
@@ -5379,6 +5475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 162681,
+      "num": 162681,
+      "word": "男子中48888现金反诈意识爆表",
+      "onboard_time": 1728996079,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 162190,
       "num": 162190,
       "word": "韩安冉学名媛",
@@ -5427,6 +5531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 159411,
+      "num": 159411,
+      "word": "郑钦文入围WTA年终总决赛",
+      "onboard_time": 1728996141,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 159242,
       "num": 172818,
       "word": "汪苏泷带着4万人一起蹦迪",
@@ -5449,6 +5561,14 @@
       "onboard_time": 1728833481,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 158282,
+      "num": 158282,
+      "word": "刘亦菲确定出席VOGUE盛典",
+      "onboard_time": 1728992961,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 158170,
@@ -6075,6 +6195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 133362,
+      "num": 441241,
+      "word": "国足1比0领先印尼",
+      "onboard_time": 1728995299,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 132733,
       "num": 132733,
       "word": "吴谨言再回复仇赛道",
@@ -6105,6 +6233,14 @@
       "onboard_time": 1728743662,
       "rank": 35,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 129841,
+      "num": 222681,
+      "word": "中国发现1.2亿年前月球仍有火山活动",
+      "onboard_time": 1728996079,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 129652,
@@ -7107,6 +7243,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 82686,
+      "num": 447402,
+      "word": "妇产科医院回应成网红打卡地",
+      "onboard_time": 1728995780,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 82575,
       "num": 322581,
       "word": "七夜雪浪漫氛围感",
@@ -7153,6 +7297,14 @@
       "onboard_time": 1728831023,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 79200,
+      "num": 296493,
+      "word": "别人都亲上了毕雯珺还在搞纯爱",
+      "onboard_time": 1728994940,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 78027,
@@ -7331,6 +7483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 64269,
+      "num": 429016,
+      "word": "国足进球了",
+      "onboard_time": 1728995719,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 64014,
       "num": 367964,
       "word": "花千元找一日男友的年轻人开始维权",
@@ -7433,6 +7593,14 @@
       "onboard_time": 1728789439,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 60646,
+      "num": 232725,
+      "word": "正式被确诊为拧巴式消费",
+      "onboard_time": 1728993140,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 59628,
@@ -7833,6 +8001,14 @@
       "onboard_time": 1728917841,
       "rank": 31,
       "category": "数码"
+    },
+    {
+      "raw_hot": 46672,
+      "num": 157373,
+      "word": "当一个姐姐决定带妹妹逃婚",
+      "onboard_time": 1728994039,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 46307,
@@ -8329,6 +8505,14 @@
       "onboard_time": 1728845293,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 30656,
+      "num": 810089,
+      "word": "盘点10年经典文艺作品名场面",
+      "onboard_time": 1728995900,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 30451,
@@ -8915,6 +9099,9 @@
     },
     {
       "word": "#中华民族有着强大的文化创造力#"
+    },
+    {
+      "word": "#全面加强新时代新征程军事理论工作#"
     }
   ]
 }

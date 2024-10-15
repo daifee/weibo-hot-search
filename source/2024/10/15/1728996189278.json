@@ -1,0 +1,410 @@
+{
+  "runTime": 1728996189278,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1437179,
+        "num": 1437179,
+        "word": "国足vs印尼",
+        "onboard_time": 1728991100,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 964297,
+        "num": 964297,
+        "word": "陈赫力挺黄磊",
+        "onboard_time": 1728979160,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30656,
+        "num": 810089,
+        "word": "盘点10年经典文艺作品名场面",
+        "onboard_time": 1728995900,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 721437,
+        "num": 721437,
+        "word": "朝韩关系为何一下变天",
+        "onboard_time": 1728994219,
+        "rank": 3,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 677034,
+        "num": 677034,
+        "word": "上海一妇产医院成网红打卡地",
+        "onboard_time": 1728991819,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 481067,
+        "num": 481067,
+        "word": "马龙感受自然plog",
+        "onboard_time": 1728992059,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 280184,
+        "num": 455247,
+        "word": "猎罪图鉴2过审",
+        "onboard_time": 1728990679,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 82686,
+        "num": 447402,
+        "word": "妇产科医院回应成网红打卡地",
+        "onboard_time": 1728995780,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133362,
+        "num": 441241,
+        "word": "国足1比0领先印尼",
+        "onboard_time": 1728995299,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 439756,
+        "num": 439756,
+        "word": "康辉一次性读完全国易错地名",
+        "onboard_time": 1728987499,
+        "rank": 9,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 1973011,
+        "num": 439559,
+        "word": "叶珂说伍佰的歌猥琐",
+        "onboard_time": 1728993619,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196125,
+        "num": 438566,
+        "word": "拜合拉木破门",
+        "onboard_time": 1728995360,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1195296,
+        "num": 437700,
+        "word": "陈乔恩 你生十个婚姻会很长久吗",
+        "onboard_time": 1728992840,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 953348,
+        "num": 436901,
+        "word": "迪丽热巴高定新季全球首穿",
+        "onboard_time": 1728994099,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 764096,
+        "num": 435915,
+        "word": "女子因领导批评压力过大变成木头人",
+        "onboard_time": 1728985700,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 435873,
+        "num": 435873,
+        "word": "谢瑜世界杯10米气手枪夺冠",
+        "onboard_time": 1728991399,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 64269,
+        "num": 429016,
+        "word": "国足进球了",
+        "onboard_time": 1728995719,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 717011,
+        "num": 428836,
+        "word": "阿Sa回应关智斌求婚",
+        "onboard_time": 1728990859,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 648848,
+        "num": 428601,
+        "word": "金正恩指明朝鲜军事活动方向",
+        "onboard_time": 1728964940,
+        "rank": 18,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 424805,
+        "num": 424805,
+        "word": "你目前的工资需要纳税吗",
+        "onboard_time": 1728980660,
+        "rank": 19,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 382209,
+        "num": 382209,
+        "word": "易烊千玺大一时每天写2000字散文",
+        "onboard_time": 1728991280,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 333823,
+        "num": 333823,
+        "word": "hanni哭了",
+        "onboard_time": 1728988820,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 303834,
+        "num": 303834,
+        "word": "乒乓运动员孙杨代替王楚钦出战男团",
+        "onboard_time": 1728982400,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 79200,
+        "num": 296493,
+        "word": "别人都亲上了毕雯珺还在搞纯爱",
+        "onboard_time": 1728994940,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 293672,
+        "num": 293672,
+        "word": "秦奋给韦雪刷礼物",
+        "onboard_time": 1728975980,
+        "rank": 24,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 289884,
+        "num": 289884,
+        "word": "女子自称找工作喝杯水被套路买车",
+        "onboard_time": 1728989660,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 272675,
+        "num": 272675,
+        "word": "儿子与母亲签订生老病死与己无关协议",
+        "onboard_time": 1728982940,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243996,
+        "num": 243996,
+        "word": "樊振东上海大师赛vlog",
+        "onboard_time": 1728993140,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 12684,
+        "num": 238886,
+        "word": "美国海底窃听光缆真实图像",
+        "onboard_time": 1728919520,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231312,
+        "num": 237215,
+        "word": "奔跑吧明天集合",
+        "onboard_time": 1728994039,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 237148,
+        "num": 237148,
+        "word": "肖战机场路透",
+        "onboard_time": 1728989600,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 60646,
+        "num": 232725,
+        "word": "正式被确诊为拧巴式消费",
+        "onboard_time": 1728993140,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 232119,
+        "num": 232119,
+        "word": "为什么说抑郁症是水溶性的",
+        "onboard_time": 1728994999,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 230450,
+        "num": 230450,
+        "word": "曝大爆剧双顶流提名金鹰奖视帝视后",
+        "onboard_time": 1728985340,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 227323,
+        "num": 227323,
+        "word": "这居然是何瑞贤",
+        "onboard_time": 1728994579,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 129841,
+        "num": 222681,
+        "word": "中国发现1.2亿年前月球仍有火山活动",
+        "onboard_time": 1728996079,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222283,
+        "num": 222283,
+        "word": "难听",
+        "onboard_time": 1728987808,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 217062,
+        "num": 217062,
+        "word": "米卡 外国米入境卡",
+        "onboard_time": 1728995599,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 192412,
+        "num": 192412,
+        "word": "墨香铜臭 解锁",
+        "onboard_time": 1728965419,
+        "rank": 38,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 174602,
+        "num": 185940,
+        "word": "锦绣安宁治愈了我的身材焦虑",
+        "onboard_time": 1728995120,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180577,
+        "num": 180577,
+        "word": "我国无需缴纳个税人员占比超过七成",
+        "onboard_time": 1728964940,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178772,
+        "num": 178772,
+        "word": "男子乘飞机2小时未起身致肺栓塞身亡",
+        "onboard_time": 1728977780,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173943,
+        "num": 173943,
+        "word": "赵露思的紫色腊肠狗",
+        "onboard_time": 1728988459,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 167392,
+        "num": 167392,
+        "word": "王者草木风华全员初亮相",
+        "onboard_time": 1728996019,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 162681,
+        "num": 162681,
+        "word": "男子中48888现金反诈意识爆表",
+        "onboard_time": 1728996079,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160142,
+        "num": 160142,
+        "word": "王楚钦孙颖莎王曼昱退出全锦赛",
+        "onboard_time": 1728980900,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159411,
+        "num": 159411,
+        "word": "郑钦文入围WTA年终总决赛",
+        "onboard_time": 1728996141,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158282,
+        "num": 158282,
+        "word": "刘亦菲确定出席VOGUE盛典",
+        "onboard_time": 1728992961,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 46672,
+        "num": 157373,
+        "word": "当一个姐姐决定带妹妹逃婚",
+        "onboard_time": 1728994039,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157173,
+        "num": 157173,
+        "word": "韩国京畿道禁止市民在边界放飞气球",
+        "onboard_time": 1728986419,
+        "rank": 49,
+        "category": "国外时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#全面加强新时代新征程军事理论工作#"
+    }
+  }
+}
