@@ -1,6 +1,6 @@
 {
   "startTime": 1728923247369,
-  "endTime": 1728999011366,
+  "endTime": 1728999696994,
   "band_list": [
     {
       "raw_hot": 3199759,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 2321711,
-      "num": 435915,
+      "num": 441954,
       "word": "女子因领导批评压力过大变成木头人",
       "onboard_time": 1728985700,
       "rank": 10,
@@ -244,7 +244,7 @@
     },
     {
       "raw_hot": 1195296,
-      "num": 438997,
+      "num": 452067,
       "word": "陈乔恩 你生十个婚姻会很长久吗",
       "onboard_time": 1728992840,
       "rank": 12,
@@ -371,6 +371,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 774776,
+      "num": 774776,
+      "word": "新闻联播看到周深",
+      "onboard_time": 1728997400,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 770243,
       "num": 731648,
       "word": "陈都灵 机械姬",
@@ -396,7 +404,7 @@
     },
     {
       "raw_hot": 737139,
-      "num": 439756,
+      "num": 457409,
       "word": "康辉一次性读完全国易错地名",
       "onboard_time": 1728987499,
       "rank": 37,
@@ -417,14 +425,6 @@
       "onboard_time": 1728963738,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 719093,
-      "num": 719093,
-      "word": "新闻联播看到周深",
-      "onboard_time": 1728997400,
-      "rank": 6,
-      "category": "艺人"
     },
     {
       "raw_hot": 717720,
@@ -539,6 +539,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 630552,
+      "num": 630552,
+      "word": "国足2比0领先印尼",
+      "onboard_time": 1728995299,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 630302,
       "num": 630302,
       "word": "2023年度个税汇算清缴数据发布",
@@ -609,14 +617,6 @@
       "onboard_time": 1728925814,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 500541,
-      "num": 500541,
-      "word": "国足2比0领先印尼",
-      "onboard_time": 1728995299,
-      "rank": 7,
-      "category": "体育"
     },
     {
       "raw_hot": 491006,
@@ -955,6 +955,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 315888,
+      "num": 315888,
+      "word": "心动的信号直播",
+      "onboard_time": 1728998241,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 313851,
       "num": 438566,
       "word": "拜合拉木破门",
@@ -977,6 +985,14 @@
       "onboard_time": 1728967401,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 298129,
+      "num": 298129,
+      "word": "中学老师群里失控怒骂被暂停教学",
+      "onboard_time": 1728998720,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 297334,
@@ -1179,12 +1195,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 240750,
-      "num": 240750,
-      "word": "心动的信号直播",
-      "onboard_time": 1728998241,
-      "rank": 25,
-      "category": "综艺"
+      "raw_hot": 240696,
+      "num": 240696,
+      "word": "刘浩存看展生图",
+      "onboard_time": 1728998121,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 240302,
@@ -1299,8 +1315,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 223275,
-      "num": 223275,
+      "raw_hot": 223329,
+      "num": 223329,
       "word": "蔡依林 40岁还可以这样",
       "onboard_time": 1728998241,
       "rank": 28,
@@ -1313,14 +1329,6 @@
       "onboard_time": 1728967101,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 221627,
-      "num": 221627,
-      "word": "刘浩存看展生图",
-      "onboard_time": 1728998121,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 221531,
@@ -1379,6 +1387,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 215226,
+      "num": 215226,
+      "word": "iPadmini7或下月推出",
+      "onboard_time": 1728999319,
+      "rank": 27,
+      "category": "数码"
+    },
+    {
       "raw_hot": 215113,
       "num": 215113,
       "word": "光遇",
@@ -1403,6 +1419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 213075,
+      "num": 213075,
+      "word": "iPadmini7有望告别果冻屏",
+      "onboard_time": 1728998781,
+      "rank": 47,
+      "category": "数码"
+    },
+    {
       "raw_hot": 208662,
       "num": 208662,
       "word": "朝鲜射击指示",
@@ -1417,6 +1441,22 @@
       "onboard_time": 1728990140,
       "rank": 42,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 207496,
+      "num": 215202,
+      "word": "迪丽热巴特效不能停",
+      "onboard_time": 1728999079,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 207372,
+      "num": 207372,
+      "word": "黄雨婷的发卡又升级了",
+      "onboard_time": 1728999079,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 207307,
@@ -1569,6 +1609,14 @@
       "onboard_time": 1728976879,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 194968,
+      "num": 194968,
+      "word": "刘烨说赵丽颖看似柔弱但很有内劲",
+      "onboard_time": 1728999079,
+      "rank": 39,
+      "category": "艺人,综艺"
     },
     {
       "raw_hot": 193935,
@@ -1795,14 +1843,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 172090,
-      "num": 172090,
-      "word": "中学老师群里失控怒骂被暂停教学",
-      "onboard_time": 1728998720,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 172027,
       "num": 172027,
       "word": "金星回应复婚",
@@ -1921,14 +1961,6 @@
       "onboard_time": 1728970220,
       "rank": 43,
       "category": "财经"
-    },
-    {
-      "raw_hot": 163397,
-      "num": 163397,
-      "word": "iPadmini7有望告别果冻屏",
-      "onboard_time": 1728998781,
-      "rank": 47,
-      "category": "数码"
     },
     {
       "raw_hot": 162897,
@@ -2059,6 +2091,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 143989,
+      "num": 143989,
+      "word": "听泉鉴宝复播",
+      "onboard_time": 1728999680,
+      "rank": 48,
+      "category": "网红"
+    },
+    {
       "raw_hot": 142963,
       "num": 142963,
       "word": "金正恩主持会议应对韩无人机渗透事件",
@@ -2073,6 +2113,14 @@
       "onboard_time": 1728961759,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 140968,
+      "num": 140968,
+      "word": "中国计划2050年成空间科学强国",
+      "onboard_time": 1728999680,
+      "rank": 49,
+      "category": "国内时政"
     },
     {
       "raw_hot": 140210,
@@ -2515,6 +2563,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 80322,
+      "num": 452677,
+      "word": "男子中48888元记者通知领奖被怼",
+      "onboard_time": 1728999259,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 79782,
       "num": 365377,
       "word": "魏建军称价格战后遗症将达六七年",
@@ -2820,7 +2876,7 @@
     },
     {
       "raw_hot": 45662,
-      "num": 196038,
+      "num": 199801,
       "word": "选择困难的年轻人开始抄作业",
       "onboard_time": 1728997581,
       "rank": 35,
@@ -3035,6 +3091,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 28615,
+      "num": 408587,
+      "word": "市监局正督促东北雨姐红薯粉条退赔",
+      "onboard_time": 1728997760,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 27619,
       "num": 192529,
       "word": "西湖醋鱼臭鳜鱼双拼披萨",
@@ -3097,14 +3161,6 @@
       "onboard_time": 1728981500,
       "rank": 43,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 21554,
-      "num": 408587,
-      "word": "市监局正督促东北雨姐红薯粉条退赔",
-      "onboard_time": 1728997760,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 21475,

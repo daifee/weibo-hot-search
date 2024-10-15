@@ -1,0 +1,410 @@
+{
+  "runTime": 1728999696994,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2049487,
+        "num": 2049487,
+        "word": "国足vs印尼",
+        "onboard_time": 1728991100,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1454922,
+        "num": 1454922,
+        "word": "朝韩关系为何一下变天",
+        "onboard_time": 1728994219,
+        "rank": 1,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 14397,
+        "num": 1393757,
+        "word": "美国海底窃听光缆真实图像",
+        "onboard_time": 1728919520,
+        "rank": 2,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1377698,
+        "num": 1377698,
+        "word": "男子中48888现金反诈意识爆表",
+        "onboard_time": 1728996079,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 882772,
+        "num": 882772,
+        "word": "陈赫力挺黄磊",
+        "onboard_time": 1728979160,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 774776,
+        "num": 774776,
+        "word": "新闻联播看到周深",
+        "onboard_time": 1728997400,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 763185,
+        "num": 763185,
+        "word": "林高远刘诗雯全锦赛混双夺冠",
+        "onboard_time": 1728997400,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 630552,
+        "num": 630552,
+        "word": "国足2比0领先印尼",
+        "onboard_time": 1728995299,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 457409,
+        "num": 457409,
+        "word": "康辉一次性读完全国易错地名",
+        "onboard_time": 1728987499,
+        "rank": 8,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 80322,
+        "num": 452677,
+        "word": "男子中48888元记者通知领奖被怼",
+        "onboard_time": 1728999259,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1160742,
+        "num": 452067,
+        "word": "陈乔恩 你生十个婚姻会很长久吗",
+        "onboard_time": 1728992840,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 904421,
+        "num": 451219,
+        "word": "叶珂评论伍佰的歌",
+        "onboard_time": 1728993619,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 449510,
+        "num": 449510,
+        "word": "上海一妇产医院成网红打卡地",
+        "onboard_time": 1728991819,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 807613,
+        "num": 441954,
+        "word": "女子因领导批评压力过大变成木头人",
+        "onboard_time": 1728985700,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 689899,
+        "num": 413630,
+        "word": "金正恩指明朝鲜军事活动方向",
+        "onboard_time": 1728964940,
+        "rank": 14,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 645850,
+        "num": 393874,
+        "word": "阿Sa回应关智斌求婚",
+        "onboard_time": 1728990859,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 592708,
+        "num": 376361,
+        "word": "迪丽热巴高定新季全球首穿",
+        "onboard_time": 1728994099,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 360036,
+        "num": 360036,
+        "word": "hanni哭了",
+        "onboard_time": 1728988820,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 355627,
+        "num": 355627,
+        "word": "马龙感受自然plog",
+        "onboard_time": 1728992059,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 315888,
+        "num": 315888,
+        "word": "心动的信号直播",
+        "onboard_time": 1728998241,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 298129,
+        "num": 298129,
+        "word": "中学老师群里失控怒骂被暂停教学",
+        "onboard_time": 1728998720,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 285896,
+        "num": 285896,
+        "word": "郑钦文入围WTA年终总决赛",
+        "onboard_time": 1728996141,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 273593,
+        "num": 273593,
+        "word": "秦奋给韦雪刷礼物",
+        "onboard_time": 1728975980,
+        "rank": 22,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 262064,
+        "num": 262064,
+        "word": "为什么说抑郁症是水溶性的",
+        "onboard_time": 1728994999,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 255418,
+        "num": 255418,
+        "word": "曝大爆剧双顶流提名金鹰奖视帝视后",
+        "onboard_time": 1728985340,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 240696,
+        "num": 240696,
+        "word": "刘浩存看展生图",
+        "onboard_time": 1728998121,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 223329,
+        "num": 223329,
+        "word": "蔡依林 40岁还可以这样",
+        "onboard_time": 1728998241,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 215226,
+        "num": 215226,
+        "word": "iPadmini7或下月推出",
+        "onboard_time": 1728999319,
+        "rank": 27,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 207496,
+        "num": 215202,
+        "word": "迪丽热巴特效不能停",
+        "onboard_time": 1728999079,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 200887,
+        "num": 214205,
+        "word": "奔跑吧明天集合",
+        "onboard_time": 1728994039,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28615,
+        "num": 213995,
+        "word": "市监局正督促东北雨姐红薯粉条退赔",
+        "onboard_time": 1728997760,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189797,
+        "num": 213331,
+        "word": "心动的信号",
+        "onboard_time": 1728998000,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 213075,
+        "num": 213075,
+        "word": "iPadmini7有望告别果冻屏",
+        "onboard_time": 1728998781,
+        "rank": 32,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 210161,
+        "num": 210161,
+        "word": "易烊千玺大一时每天写2000字散文",
+        "onboard_time": 1728991280,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208775,
+        "num": 208775,
+        "word": "中国发现1.2亿年前月球仍有火山活动",
+        "onboard_time": 1728996079,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207372,
+        "num": 207372,
+        "word": "黄雨婷的发卡又升级了",
+        "onboard_time": 1728999079,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 202297,
+        "num": 202297,
+        "word": "谢瑜世界杯10米气手枪夺冠",
+        "onboard_time": 1728991399,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 21090,
+        "num": 199801,
+        "word": "选择困难的年轻人开始抄作业",
+        "onboard_time": 1728997581,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199377,
+        "num": 199377,
+        "word": "墨香铜臭 解锁",
+        "onboard_time": 1728965419,
+        "rank": 38,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 194968,
+        "num": 194968,
+        "word": "刘烨说赵丽颖看似柔弱但很有内劲",
+        "onboard_time": 1728999079,
+        "rank": 39,
+        "category": "艺人,综艺"
+      },
+      {
+        "raw_hot": 176761,
+        "num": 176761,
+        "word": "肖战机场路透",
+        "onboard_time": 1728989600,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176586,
+        "num": 176586,
+        "word": "张玉宁单刀破门",
+        "onboard_time": 1728996679,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 176017,
+        "num": 176017,
+        "word": "猎罪图鉴2过审",
+        "onboard_time": 1728990679,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171043,
+        "num": 171043,
+        "word": "你目前的工资需要纳税吗",
+        "onboard_time": 1728980660,
+        "rank": 43,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 158970,
+        "num": 158970,
+        "word": "赵露思的紫色腊肠狗",
+        "onboard_time": 1728988459,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 151014,
+        "num": 151014,
+        "word": "开水烫伤6岁女童的男孩家属说他贪玩",
+        "onboard_time": 1728997041,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150443,
+        "num": 150443,
+        "word": "朴顺荣柳智敏新歌challenge",
+        "onboard_time": 1728998000,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 144214,
+        "num": 144214,
+        "word": "乒乓运动员孙杨代替王楚钦出战男团",
+        "onboard_time": 1728982400,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143989,
+        "num": 143989,
+        "word": "听泉鉴宝复播",
+        "onboard_time": 1728999680,
+        "rank": 48,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 140968,
+        "num": 140968,
+        "word": "中国计划2050年成空间科学强国",
+        "onboard_time": 1728999680,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#全面加强新时代新征程军事理论工作#"
+    }
+  }
+}
