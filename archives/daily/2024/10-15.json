@@ -1,6 +1,6 @@
 {
   "startTime": 1728923247369,
-  "endTime": 1728974707818,
+  "endTime": 1728976965743,
   "band_list": [
     {
       "raw_hot": 3199759,
@@ -83,6 +83,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1328448,
+      "num": 779411,
+      "word": "秦岚超短发",
+      "onboard_time": 1728975019,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1326748,
       "num": 553019,
       "word": "杭州强吻猥亵女生的男子已被抓获",
@@ -145,6 +153,22 @@
       "onboard_time": 1728960258,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1075468,
+      "num": 757719,
+      "word": "前妻曝马斯克撩妹方式",
+      "onboard_time": 1728975078,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1057892,
+      "num": 718836,
+      "word": "秦奋给韦雪刷礼物",
+      "onboard_time": 1728975980,
+      "rank": 12,
+      "category": "网红"
     },
     {
       "raw_hot": 871194,
@@ -225,6 +249,14 @@
       "onboard_time": 1728963798,
       "rank": 41,
       "category": "网红"
+    },
+    {
+      "raw_hot": 701781,
+      "num": 701781,
+      "word": "你的收入达到缴纳个税的标准了吗",
+      "onboard_time": 1728973580,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 700701,
@@ -313,6 +345,14 @@
       "onboard_time": 1728955458,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 569558,
+      "num": 869606,
+      "word": "薛之谦海外体育场返场官宣7站",
+      "onboard_time": 1728976759,
+      "rank": 8,
+      "category": "演出"
     },
     {
       "raw_hot": 559994,
@@ -443,12 +483,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 370764,
-      "num": 593147,
-      "word": "你的收入达到缴纳个税的标准了吗",
-      "onboard_time": 1728973580,
-      "rank": 35,
-      "category": "社会新闻"
+      "raw_hot": 381306,
+      "num": 381306,
+      "word": "双十一仿佛在侮辱我的智商",
+      "onboard_time": 1728975980,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 379700,
+      "num": 379700,
+      "word": "A股",
+      "onboard_time": 1728974719,
+      "rank": 22,
+      "category": "财经"
     },
     {
       "raw_hot": 369012,
@@ -617,6 +665,22 @@
       "onboard_time": 1728952460,
       "rank": 9,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 272858,
+      "num": 272858,
+      "word": "黄雨婷创造新世界纪录摘金",
+      "onboard_time": 1728976519,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 258459,
+      "num": 258459,
+      "word": "陈冠希晒妻女泳装照",
+      "onboard_time": 1728976579,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 251488,
@@ -811,6 +875,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 206477,
+      "num": 206477,
+      "word": "疑似王传君齐溪二胎已生",
+      "onboard_time": 1728976220,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 203686,
       "num": 217296,
       "word": "警方回应成都一河道疑发现浮尸",
@@ -843,6 +915,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 199627,
+      "num": 281243,
+      "word": "赵露思暗黑系COSMO封面预告",
+      "onboard_time": 1728975259,
+      "rank": 28,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 199095,
       "num": 297418,
       "word": "许嵩 我居然在台上系鞋带",
@@ -857,6 +937,14 @@
       "onboard_time": 1728966321,
       "rank": 48,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 198693,
+      "num": 198693,
+      "word": "中国将探测月球内部结构",
+      "onboard_time": 1728974598,
+      "rank": 47,
+      "category": "国内时政"
     },
     {
       "raw_hot": 197876,
@@ -889,6 +977,14 @@
       "onboard_time": 1728969020,
       "rank": 27,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 195211,
+      "num": 195211,
+      "word": "2024射击世界杯总决赛",
+      "onboard_time": 1728976879,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 193935,
@@ -931,6 +1027,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 189305,
+      "num": 198991,
+      "word": "papi酱再见爱人4有啥说啥",
+      "onboard_time": 1728976640,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 188047,
       "num": 188047,
       "word": "我国宣布将开展地外生命探寻",
@@ -945,6 +1049,22 @@
       "onboard_time": 1728962478,
       "rank": 24,
       "category": "电影"
+    },
+    {
+      "raw_hot": 186090,
+      "num": 186090,
+      "word": "易烊千玺灰色工装造型",
+      "onboard_time": 1728976460,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 183755,
+      "num": 183755,
+      "word": "我国将研究火星过去的宜居环境",
+      "onboard_time": 1728976099,
+      "rank": 44,
+      "category": "国内时政"
     },
     {
       "raw_hot": 182056,
@@ -1193,14 +1313,6 @@
       "onboard_time": 1728919099,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 132621,
-      "num": 132621,
-      "word": "中国将探测月球内部结构",
-      "onboard_time": 1728974598,
-      "rank": 47,
-      "category": "国内时政"
     },
     {
       "raw_hot": 131048,
@@ -1611,11 +1723,35 @@
       "category": "体育"
     },
     {
+      "raw_hot": 56315,
+      "num": 805821,
+      "word": "被顶替25年男子称只想要正常的人生",
+      "onboard_time": 1728975797,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 55541,
+      "num": 289156,
+      "word": "年轻人边理性消费边消费升级",
+      "onboard_time": 1728972140,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 55233,
       "num": 665387,
       "word": "夫妻免费为在外子女看望家中老人",
       "onboard_time": 1728968961,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 53807,
+      "num": 544444,
+      "word": "3男子高速逼停货车抢3箱牛肚被判刑",
+      "onboard_time": 1728976099,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -1651,12 +1787,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 46109,
-      "num": 289156,
-      "word": "年轻人边理性消费边消费升级",
-      "onboard_time": 1728972140,
-      "rank": 27,
-      "category": "社会新闻"
+      "raw_hot": 48463,
+      "num": 430916,
+      "word": "汪东城聊明星隐婚",
+      "onboard_time": 1728976519,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 48056,
+      "num": 207624,
+      "word": "极氪7X上市25天交付破万",
+      "onboard_time": 1728975921,
+      "rank": 35,
+      "category": "汽车"
     },
     {
       "raw_hot": 45569,
@@ -1755,6 +1899,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 29282,
+      "num": 273993,
+      "word": "退钱哥谈国足对阵印尼",
+      "onboard_time": 1728976759,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 29060,
       "num": 37041,
       "word": "美术生就业新方向",
@@ -1793,6 +1945,14 @@
       "onboard_time": 1728970640,
       "rank": 29,
       "category": "国外时政,军事"
+    },
+    {
+      "raw_hot": 26910,
+      "num": 430880,
+      "word": "母亲痴迷养生直播8000多买了三无产品",
+      "onboard_time": 1728976160,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 21475,

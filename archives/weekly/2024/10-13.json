@@ -1,6 +1,6 @@
 {
   "startTime": 1728750414717,
-  "endTime": 1728974707818,
+  "endTime": 1728976965743,
   "band_list": [
     {
       "raw_hot": 17915004,
@@ -451,6 +451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1328448,
+      "num": 779411,
+      "word": "秦岚超短发",
+      "onboard_time": 1728975019,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1326748,
       "num": 553019,
       "word": "杭州强吻猥亵女生的男子已被抓获",
@@ -635,6 +643,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1075468,
+      "num": 757719,
+      "word": "前妻曝马斯克撩妹方式",
+      "onboard_time": 1728975078,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1075316,
       "num": 1075316,
       "word": "快递员寄出3万黄金后警觉报警",
@@ -673,6 +689,14 @@
       "onboard_time": 1728830062,
       "rank": 42,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 1057892,
+      "num": 718836,
+      "word": "秦奋给韦雪刷礼物",
+      "onboard_time": 1728975980,
+      "rank": 12,
+      "category": "网红"
     },
     {
       "raw_hot": 1047915,
@@ -1171,6 +1195,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 701781,
+      "num": 701781,
+      "word": "你的收入达到缴纳个税的标准了吗",
+      "onboard_time": 1728973580,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 700701,
       "num": 700701,
       "word": "孙子在哪上学爷爷就在哪当保安",
@@ -1449,6 +1481,14 @@
       "onboard_time": 1728789739,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 569558,
+      "num": 869606,
+      "word": "薛之谦海外体育场返场官宣7站",
+      "onboard_time": 1728976759,
+      "rank": 8,
+      "category": "演出"
     },
     {
       "raw_hot": 569452,
@@ -2067,12 +2107,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 381306,
+      "num": 381306,
+      "word": "双十一仿佛在侮辱我的智商",
+      "onboard_time": 1728975980,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 379903,
       "num": 347887,
       "word": "赵露思工作室更新",
       "onboard_time": 1728815301,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 379700,
+      "num": 379700,
+      "word": "A股",
+      "onboard_time": 1728870379,
+      "rank": 31,
+      "category": "财经"
     },
     {
       "raw_hot": 378449,
@@ -2097,14 +2153,6 @@
       "onboard_time": 1728896778,
       "rank": 26,
       "category": "汽车,体育"
-    },
-    {
-      "raw_hot": 370764,
-      "num": 593147,
-      "word": "你的收入达到缴纳个税的标准了吗",
-      "onboard_time": 1728973580,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 370260,
@@ -2731,14 +2779,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 279868,
-      "num": 279868,
-      "word": "A股",
-      "onboard_time": 1728870379,
-      "rank": 31,
-      "category": "财经"
-    },
-    {
       "raw_hot": 278738,
       "num": 278738,
       "word": "东部战区枕戈待旦",
@@ -2801,6 +2841,14 @@
       "onboard_time": 1728799939,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 272858,
+      "num": 272858,
+      "word": "黄雨婷创造新世界纪录摘金",
+      "onboard_time": 1728976519,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 272599,
@@ -2937,6 +2985,14 @@
       "onboard_time": 1728864979,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 258459,
+      "num": 258459,
+      "word": "陈冠希晒妻女泳装照",
+      "onboard_time": 1728976579,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 258444,
@@ -3683,6 +3739,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 206477,
+      "num": 206477,
+      "word": "疑似王传君齐溪二胎已生",
+      "onboard_time": 1728976220,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 206124,
       "num": 206124,
       "word": "强力震慑台独分裂势力谋独行径",
@@ -3867,6 +3931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 199627,
+      "num": 281243,
+      "word": "赵露思暗黑系COSMO封面预告",
+      "onboard_time": 1728975259,
+      "rank": 28,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 199295,
       "num": 578023,
       "word": "SEVENTEEN回归",
@@ -3889,6 +3961,14 @@
       "onboard_time": 1728966321,
       "rank": 48,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 198693,
+      "num": 198693,
+      "word": "中国将探测月球内部结构",
+      "onboard_time": 1728974598,
+      "rank": 47,
+      "category": "国内时政"
     },
     {
       "raw_hot": 198649,
@@ -4041,6 +4121,14 @@
       "onboard_time": 1728861917,
       "rank": 2,
       "category": "军事"
+    },
+    {
+      "raw_hot": 195211,
+      "num": 195211,
+      "word": "2024射击世界杯总决赛",
+      "onboard_time": 1728976879,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 194467,
@@ -4227,6 +4315,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 189305,
+      "num": 198991,
+      "word": "papi酱再见爱人4有啥说啥",
+      "onboard_time": 1728976640,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 189045,
       "num": 189045,
       "word": "陈丽君和法国歌手机场合唱越剧选段",
@@ -4315,6 +4411,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 186090,
+      "num": 186090,
+      "word": "易烊千玺灰色工装造型",
+      "onboard_time": 1728976460,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 185791,
       "num": 185791,
       "word": "童家堡秋季赛总冠军",
@@ -4369,6 +4473,14 @@
       "onboard_time": 1728899600,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 183755,
+      "num": 183755,
+      "word": "我国将研究火星过去的宜居环境",
+      "onboard_time": 1728976099,
+      "rank": 44,
+      "category": "国内时政"
     },
     {
       "raw_hot": 182989,
@@ -5433,14 +5545,6 @@
       "onboard_time": 1728778996,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 132621,
-      "num": 132621,
-      "word": "中国将探测月球内部结构",
-      "onboard_time": 1728974598,
-      "rank": 47,
-      "category": "国内时政"
     },
     {
       "raw_hot": 131787,
@@ -6771,11 +6875,27 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 56315,
+      "num": 805821,
+      "word": "被顶替25年男子称只想要正常的人生",
+      "onboard_time": 1728975797,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 55690,
       "num": 55690,
       "word": "余华英多次作案带上女儿作饵",
       "onboard_time": 1728760451,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 55541,
+      "num": 289156,
+      "word": "年轻人边理性消费边消费升级",
+      "onboard_time": 1728972140,
+      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -6809,6 +6929,14 @@
       "onboard_time": 1728913041,
       "rank": 36,
       "category": "数码"
+    },
+    {
+      "raw_hot": 53807,
+      "num": 544444,
+      "word": "3男子高速逼停货车抢3箱牛肚被判刑",
+      "onboard_time": 1728976099,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 53762,
@@ -6995,6 +7123,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 48463,
+      "num": 430916,
+      "word": "汪东城聊明星隐婚",
+      "onboard_time": 1728976519,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 48375,
       "num": 514264,
       "word": "郑号锡将于17日退伍",
@@ -7009,6 +7145,14 @@
       "onboard_time": 1728832342,
       "rank": 49,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 48056,
+      "num": 207624,
+      "word": "极氪7X上市25天交付破万",
+      "onboard_time": 1728975921,
+      "rank": 35,
+      "category": "汽车"
     },
     {
       "raw_hot": 47842,
@@ -7049,14 +7193,6 @@
       "onboard_time": 1728903858,
       "rank": 26,
       "category": "数码"
-    },
-    {
-      "raw_hot": 46109,
-      "num": 289156,
-      "word": "年轻人边理性消费边消费升级",
-      "onboard_time": 1728972140,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 45682,
@@ -7523,6 +7659,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 29282,
+      "num": 273993,
+      "word": "退钱哥谈国足对阵印尼",
+      "onboard_time": 1728976759,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 29060,
       "num": 37041,
       "word": "美术生就业新方向",
@@ -7593,6 +7737,14 @@
       "onboard_time": 1728970640,
       "rank": 29,
       "category": "国外时政,军事"
+    },
+    {
+      "raw_hot": 26910,
+      "num": 430880,
+      "word": "母亲痴迷养生直播8000多买了三无产品",
+      "onboard_time": 1728976160,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 26760,
