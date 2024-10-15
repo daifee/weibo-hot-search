@@ -1,6 +1,6 @@
 {
   "startTime": 1728923247369,
-  "endTime": 1728987952865,
+  "endTime": 1728988989717,
   "band_list": [
     {
       "raw_hot": 3199759,
@@ -51,20 +51,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2321711,
+      "num": 258214,
+      "word": "女子因领导批评压力过大变成木头人",
+      "onboard_time": 1728985700,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2143839,
       "num": 1487280,
       "word": "韩军公布朝鲜炸毁朝韩间道路视频",
       "onboard_time": 1728970519,
       "rank": 48,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 2070532,
-      "num": 228599,
-      "word": "女子因领导批评压力过大变成木头人",
-      "onboard_time": 1728985700,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1841975,
@@ -331,6 +331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 717211,
+      "num": 257231,
+      "word": "曝大爆剧双顶流提名金鹰奖视帝视后",
+      "onboard_time": 1728985340,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 714136,
       "num": 632743,
       "word": "周扬青 借钱出去的是孙子",
@@ -377,6 +385,14 @@
       "onboard_time": 1728925515,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 666274,
+      "num": 363571,
+      "word": "韩国京畿道禁止市民在边界放飞气球",
+      "onboard_time": 1728986419,
+      "rank": 7,
+      "category": "国外时政"
     },
     {
       "raw_hot": 659304,
@@ -443,20 +459,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 614589,
-      "num": 228548,
-      "word": "曝大爆剧双顶流提名金鹰奖视帝视后",
-      "onboard_time": 1728985340,
-      "rank": 21,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 608920,
       "num": 346552,
       "word": "王一珩 抄袭",
       "onboard_time": 1728910641,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 599611,
+      "num": 255781,
+      "word": "难听",
+      "onboard_time": 1728987808,
+      "rank": 33,
+      "category": "音乐"
     },
     {
       "raw_hot": 594108,
@@ -481,6 +497,14 @@
       "onboard_time": 1728960679,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 521370,
+      "num": 300346,
+      "word": "全红婵说知道要减重所以吃了很多",
+      "onboard_time": 1728983479,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 509056,
@@ -561,14 +585,6 @@
       "onboard_time": 1728919880,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 425141,
-      "num": 300346,
-      "word": "全红婵说知道要减重所以吃了很多",
-      "onboard_time": 1728983479,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 422650,
@@ -779,6 +795,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 295434,
+      "num": 243338,
+      "word": "误食两斤全麦面包怎么办",
+      "onboard_time": 1728987619,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 293469,
       "num": 293469,
       "word": "ITZY回归",
@@ -811,11 +835,27 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 283538,
+      "num": 242496,
+      "word": "叶珂谈南北差异",
+      "onboard_time": 1728982579,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 280180,
       "num": 280180,
       "word": "女子被高坠水箱精准罩住超淡定",
       "onboard_time": 1728948557,
       "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 279923,
+      "num": 279923,
+      "word": "成都拆迁地图上新",
+      "onboard_time": 1728981859,
+      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -835,16 +875,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 265212,
-      "num": 265212,
-      "word": "韩国京畿道禁止市民在边界放飞气球",
-      "onboard_time": 1728986419,
-      "rank": 7,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 261217,
-      "num": 228579,
+      "num": 255104,
       "word": "杨幂 杨的三次方",
       "onboard_time": 1728985039,
       "rank": 39,
@@ -907,12 +939,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 241290,
-      "num": 241290,
-      "word": "成都拆迁地图上新",
-      "onboard_time": 1728981859,
-      "rank": 36,
-      "category": "社会新闻"
+      "raw_hot": 241338,
+      "num": 241338,
+      "word": "康辉一次性读完全国易错地名",
+      "onboard_time": 1728987499,
+      "rank": 37,
+      "category": "科学科普"
     },
     {
       "raw_hot": 240302,
@@ -945,6 +977,22 @@
       "onboard_time": 1728961578,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 231822,
+      "num": 231822,
+      "word": "朝韩部分交界被韩指定为危险区",
+      "onboard_time": 1728985819,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 231199,
+      "num": 251040,
+      "word": "惠英红 第一届金像影后奖杯",
+      "onboard_time": 1728988219,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 230760,
@@ -1019,6 +1067,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 216971,
+      "num": 216971,
+      "word": "赵露思的紫色腊肠狗",
+      "onboard_time": 1728988459,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 216495,
       "num": 216495,
       "word": "文俊辉SEVENTEEN咖啡车应援",
@@ -1051,20 +1107,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 212626,
-      "num": 212626,
-      "word": "难听",
-      "onboard_time": 1728987808,
-      "rank": 33,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 208893,
-      "num": 208893,
-      "word": "叶珂谈南北差异",
-      "onboard_time": 1728982579,
-      "rank": 34,
-      "category": "艺人"
+      "raw_hot": 209606,
+      "num": 253577,
+      "word": "王鹤棣 星河入梦剧本",
+      "onboard_time": 1728988400,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 208662,
@@ -1315,28 +1363,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 184660,
-      "num": 184660,
-      "word": "康辉一次性读完全国易错地名",
-      "onboard_time": 1728987499,
-      "rank": 37,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 183755,
       "num": 183755,
       "word": "我国将研究火星过去的宜居环境",
       "onboard_time": 1728976099,
       "rank": 44,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 183093,
-      "num": 183093,
-      "word": "误食两斤全麦面包怎么办",
-      "onboard_time": 1728987619,
-      "rank": 38,
-      "category": "幽默"
     },
     {
       "raw_hot": 182093,
@@ -1369,6 +1401,14 @@
       "onboard_time": 1728969317,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 173487,
+      "num": 246836,
+      "word": "国足vs印尼首发",
+      "onboard_time": 1728988339,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 173477,
@@ -1595,14 +1635,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 139793,
-      "num": 166486,
-      "word": "朝韩部分交界被韩指定为危险区",
-      "onboard_time": 1728985819,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 137570,
       "num": 212696,
       "word": "瞒着父母的高消费",
@@ -1625,6 +1657,14 @@
       "onboard_time": 1728956538,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 137310,
+      "num": 202757,
+      "word": "郑合惠子公主小妹即视感",
+      "onboard_time": 1728988760,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 136868,
@@ -1748,7 +1788,7 @@
     },
     {
       "raw_hot": 111765,
-      "num": 228568,
+      "num": 256488,
       "word": "黄雨婷说18岁是浓墨重彩的一笔",
       "onboard_time": 1728987808,
       "rank": 17,
@@ -1940,7 +1980,7 @@
     },
     {
       "raw_hot": 84579,
-      "num": 228587,
+      "num": 257442,
       "word": "国家队恭喜盛李豪",
       "onboard_time": 1728987808,
       "rank": 13,
@@ -2041,6 +2081,22 @@
       "onboard_time": 1728979160,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 73121,
+      "num": 228606,
+      "word": "新能源车修车难问题凸显如何破解",
+      "onboard_time": 1728986838,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 71090,
+      "num": 258360,
+      "word": "工作人员回应成都拆迁地图上新",
+      "onboard_time": 1728988701,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 71000,
@@ -2219,12 +2275,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 51597,
+      "num": 256846,
+      "word": "真正好用的卫生巾",
+      "onboard_time": 1728986659,
+      "rank": 26,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 51355,
       "num": 220789,
       "word": "买上百万元处方药竟从未出示处方",
       "onboard_time": 1728923357,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 50615,
+      "num": 256438,
+      "word": "hanni哭了",
+      "onboard_time": 1728988820,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 48056,
@@ -2283,14 +2355,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 38803,
-      "num": 228606,
-      "word": "新能源车修车难问题凸显如何破解",
-      "onboard_time": 1728986838,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 37752,
       "num": 97220,
       "word": "专家解读这一次围岛布局",
@@ -2299,19 +2363,19 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 36701,
-      "num": 228526,
-      "word": "真正好用的卫生巾",
-      "onboard_time": 1728986659,
-      "rank": 26,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 35977,
       "num": 193219,
       "word": "我国货物贸易进出口突破32万亿元",
       "onboard_time": 1728966621,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 35204,
+      "num": 195574,
+      "word": "购物最上头的时候来了",
+      "onboard_time": 1728987200,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -2323,20 +2387,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 33338,
+      "num": 462700,
+      "word": "千年石窟 匠心传承",
+      "onboard_time": 1728983420,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 33179,
       "num": 33179,
       "word": "哏的直播",
       "onboard_time": 1728927972,
       "rank": 40,
       "category": "网红"
-    },
-    {
-      "raw_hot": 33059,
-      "num": 462700,
-      "word": "千年石窟 匠心传承",
-      "onboard_time": 1728983420,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 32296,
@@ -2353,6 +2417,14 @@
       "onboard_time": 1728976759,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 31578,
+      "num": 191388,
+      "word": "买家用车你最在意什么",
+      "onboard_time": 1728988880,
+      "rank": 47,
+      "category": "汽车"
     },
     {
       "raw_hot": 31162,
@@ -2451,8 +2523,8 @@
       "category": "国外时政,军事"
     },
     {
-      "raw_hot": 22163,
-      "num": 168672,
+      "raw_hot": 26740,
+      "num": 256922,
       "word": "如何把15万花出20万的效果",
       "onboard_time": 1728987561,
       "rank": 43,
@@ -2571,14 +2643,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 14297,
-      "num": 167036,
-      "word": "购物最上头的时候来了",
-      "onboard_time": 1728987200,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 13732,
       "num": 730686,
       "word": "规范直播带货刻不容缓",
@@ -2595,6 +2659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 12469,
+      "num": 190973,
+      "word": "红豆沙牛乳热饮",
+      "onboard_time": 1728988820,
+      "rank": 48,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 10593,
       "num": 37421,
       "word": "保代公司推销理财敛取老人养老钱",
@@ -2609,6 +2681,14 @@
       "onboard_time": 1728918440,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 9777,
+      "num": 227180,
+      "word": "买东西总是很纠结怎么办",
+      "onboard_time": 1728988519,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 8581,
