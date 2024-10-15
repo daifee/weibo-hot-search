@@ -1,0 +1,410 @@
+{
+  "runTime": 1728970826210,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2792750,
+        "num": 2792750,
+        "word": "韩军用开枪回应朝鲜炸毁道路",
+        "onboard_time": 1728967942,
+        "rank": 0,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 2258453,
+        "num": 2258453,
+        "word": "我国无需缴纳个税人员占比超过七成",
+        "onboard_time": 1728964940,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 51480,
+        "num": 2223472,
+        "word": "美国海底窃听光缆真实图像",
+        "onboard_time": 1728919520,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2194303,
+        "num": 2194303,
+        "word": "金正恩指明朝鲜军事活动方向",
+        "onboard_time": 1728964940,
+        "rank": 3,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1950490,
+        "num": 1950490,
+        "word": "墨香铜臭 解锁",
+        "onboard_time": 1728965419,
+        "rank": 4,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 1374799,
+        "num": 1374799,
+        "word": "韩军称朝鲜炸毁部分朝韩间道路",
+        "onboard_time": 1728962960,
+        "rank": 5,
+        "category": "国外时政,军事"
+      },
+      {
+        "raw_hot": 1233406,
+        "num": 1233406,
+        "word": "孙颖莎WTT退赛",
+        "onboard_time": 1728966982,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 623696,
+        "num": 863371,
+        "word": "黄磊没少看神厨小福贵吧",
+        "onboard_time": 1728960258,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 379352,
+        "num": 746573,
+        "word": "孙燕姿公布巡演场次",
+        "onboard_time": 1728965720,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 55233,
+        "num": 665387,
+        "word": "夫妻免费为在外子女看望家中老人",
+        "onboard_time": 1728968961,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 644560,
+        "num": 644560,
+        "word": "日本孤独死",
+        "onboard_time": 1728962178,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 627717,
+        "num": 627717,
+        "word": "李蠕蠕当面模仿向佐",
+        "onboard_time": 1728967282,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 612542,
+        "num": 612542,
+        "word": "听泉鉴宝暗语",
+        "onboard_time": 1728963798,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 524293,
+        "num": 524293,
+        "word": "年收入10万元以内基本不用缴纳个税",
+        "onboard_time": 1728961159,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 484814,
+        "num": 484814,
+        "word": "撞电动车被要2500后越想越不对",
+        "onboard_time": 1728963679,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 457711,
+        "num": 457711,
+        "word": "哈尔滨一药店见检查来紧急不卖药了",
+        "onboard_time": 1728963738,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 450667,
+        "num": 450667,
+        "word": "韩军开枪警告射击",
+        "onboard_time": 1728866479,
+        "rank": 16,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 426163,
+        "num": 426163,
+        "word": "2023年度个税汇算清缴数据发布",
+        "onboard_time": 1728957136,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 406384,
+        "num": 406384,
+        "word": "中国将进行太阳系考古",
+        "onboard_time": 1728960679,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 4788,
+        "num": 392126,
+        "word": "小S把粉丝送的小象保存了十年",
+        "onboard_time": 1728970759,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 822003,
+        "num": 391575,
+        "word": "王楚钦 退赛",
+        "onboard_time": 1728913521,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 389256,
+        "num": 389256,
+        "word": "陈都灵 机械姬",
+        "onboard_time": 1728963259,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 353244,
+        "num": 353244,
+        "word": "早睡能解决身体80%以上的问题",
+        "onboard_time": 1728967521,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 39730,
+        "num": 322581,
+        "word": "七夜雪浪漫氛围感",
+        "onboard_time": 1728968661,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 320599,
+        "num": 320599,
+        "word": "高铁上偶遇了42岁的研一新生",
+        "onboard_time": 1728967282,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 87421,
+        "num": 310096,
+        "word": "罗慎远不叫七妹叫宜宁了",
+        "onboard_time": 1728969020,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 302449,
+        "num": 302449,
+        "word": "程潇沙漠公主",
+        "onboard_time": 1728967401,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 213190,
+        "num": 298268,
+        "word": "87版红楼梦",
+        "onboard_time": 1728966923,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 199095,
+        "num": 297418,
+        "word": "许嵩 我居然在台上系鞋带",
+        "onboard_time": 1728970039,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 27086,
+        "num": 297344,
+        "word": "美称以不会打击伊朗核设施",
+        "onboard_time": 1728970640,
+        "rank": 29,
+        "category": "国外时政,军事"
+      },
+      {
+        "raw_hot": 297334,
+        "num": 297334,
+        "word": "全红婵陈芋汐恢复训练",
+        "onboard_time": 1728968122,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 170843,
+        "num": 273167,
+        "word": "沈腾喊白敬亭以为是蜡笔小新",
+        "onboard_time": 1728969317,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 249610,
+        "num": 249610,
+        "word": "听泉鉴宝称从未说过自己是北大的",
+        "onboard_time": 1728948618,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238807,
+        "num": 238807,
+        "word": "大冰不带货的原因",
+        "onboard_time": 1728963738,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 226647,
+        "num": 226647,
+        "word": "员工不服调岗被解雇起诉获赔17万",
+        "onboard_time": 1728960317,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207307,
+        "num": 207307,
+        "word": "华中农业大学原教授黄飞若再被通报",
+        "onboard_time": 1728967942,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199682,
+        "num": 199682,
+        "word": "WTT",
+        "onboard_time": 1728967101,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 197876,
+        "num": 197876,
+        "word": "大冰直播",
+        "onboard_time": 1728969619,
+        "rank": 37,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 192757,
+        "num": 192757,
+        "word": "刘诗诗T锦绣十月刊封面",
+        "onboard_time": 1728970341,
+        "rank": 38,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 172655,
+        "num": 172655,
+        "word": "尚美巴黎光与夜之恋",
+        "onboard_time": 1728969260,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 171057,
+        "num": 171057,
+        "word": "为何越来越多中老年人迷上网购",
+        "onboard_time": 1728969619,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37335,
+        "num": 168171,
+        "word": "车企价格战羊毛出在羊身上",
+        "onboard_time": 1728970278,
+        "rank": 41,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 167088,
+        "num": 167088,
+        "word": "拜登被爆私下曾称以总理坏蛋",
+        "onboard_time": 1728963198,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163555,
+        "num": 163555,
+        "word": "首批中证A500ETF今日上市",
+        "onboard_time": 1728970220,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 160791,
+        "num": 160791,
+        "word": "国家空间科学中长期发展规划发布",
+        "onboard_time": 1728958999,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 158851,
+        "num": 158851,
+        "word": "孙子在哪上学爷爷就在哪当保安",
+        "onboard_time": 1728948618,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158351,
+        "num": 158351,
+        "word": "Jennie新歌练习室",
+        "onboard_time": 1728969020,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 15483,
+        "num": 152606,
+        "word": "合着你纯吃播啊",
+        "onboard_time": 1728970458,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 151253,
+        "num": 151253,
+        "word": "韩军公布朝鲜炸毁朝韩间道路视频",
+        "onboard_time": 1728970519,
+        "rank": 48,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 153334,
+        "num": 150959,
+        "word": "汪苏泷深圳",
+        "onboard_time": 1728969020,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#中华民族有着强大的文化创造力#"
+    }
+  }
+}

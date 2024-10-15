@@ -1,6 +1,6 @@
 {
   "startTime": 1728750414717,
-  "endTime": 1728969756701,
+  "endTime": 1728970826210,
   "band_list": [
     {
       "raw_hot": 17915004,
@@ -81,6 +81,14 @@
       "onboard_time": 1728913521,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 2792750,
+      "num": 2792750,
+      "word": "韩军用开枪回应朝鲜炸毁道路",
+      "onboard_time": 1728967942,
+      "rank": 6,
+      "category": "国外时政"
     },
     {
       "raw_hot": 2725617,
@@ -345,14 +353,6 @@
       "onboard_time": 1728898938,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1443879,
-      "num": 1378589,
-      "word": "韩军用开枪回应朝鲜炸毁道路",
-      "onboard_time": 1728967942,
-      "rank": 6,
-      "category": "国外时政"
     },
     {
       "raw_hot": 1427331,
@@ -1307,6 +1307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 627717,
+      "num": 627717,
+      "word": "李蠕蠕当面模仿向佐",
+      "onboard_time": 1728967282,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 618979,
       "num": 618979,
       "word": "王楚钦时尚COSMO11月刊大片",
@@ -1489,14 +1497,6 @@
       "onboard_time": 1728908178,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 540559,
-      "num": 540559,
-      "word": "李蠕蠕当面模仿向佐",
-      "onboard_time": 1728967282,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 540423,
@@ -2131,6 +2131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 353244,
+      "num": 353244,
+      "word": "早睡能解决身体80%以上的问题",
+      "onboard_time": 1728967521,
+      "rank": 34,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 353177,
       "num": 353177,
       "word": "陈都灵赫本风",
@@ -2331,6 +2339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 320599,
+      "num": 320599,
+      "word": "高铁上偶遇了42岁的研一新生",
+      "onboard_time": 1728967282,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 320496,
       "num": 320496,
       "word": "张本智和vs吴晙诚",
@@ -2387,6 +2403,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 302449,
+      "num": 302449,
+      "word": "程潇沙漠公主",
+      "onboard_time": 1728967401,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 302017,
       "num": 302017,
       "word": "HYBE称lesserafim和illit精神崩溃",
@@ -2433,6 +2457,14 @@
       "onboard_time": 1728876437,
       "rank": 43,
       "category": "教育"
+    },
+    {
+      "raw_hot": 297334,
+      "num": 297334,
+      "word": "全红婵陈芋汐恢复训练",
+      "onboard_time": 1728968122,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 296940,
@@ -2491,28 +2523,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 293372,
-      "num": 293372,
-      "word": "全红婵陈芋汐恢复训练",
-      "onboard_time": 1728968122,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 293368,
       "num": 718785,
       "word": "权志龙新歌power",
       "onboard_time": 1728875419,
       "rank": 18,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 292880,
-      "num": 292880,
-      "word": "程潇沙漠公主",
-      "onboard_time": 1728967401,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 292876,
@@ -2593,14 +2609,6 @@
       "onboard_time": 1728787700,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 287004,
-      "num": 287004,
-      "word": "高铁上偶遇了42岁的研一新生",
-      "onboard_time": 1728967282,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 285601,
@@ -2737,14 +2745,6 @@
       "onboard_time": 1728912500,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 271460,
-      "num": 271460,
-      "word": "早睡能解决身体80%以上的问题",
-      "onboard_time": 1728967521,
-      "rank": 34,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 270242,
@@ -3044,7 +3044,7 @@
     },
     {
       "raw_hot": 239948,
-      "num": 297906,
+      "num": 298268,
       "word": "87版红楼梦",
       "onboard_time": 1728966923,
       "rank": 48,
@@ -3531,6 +3531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 207307,
+      "num": 313584,
+      "word": "华中农业大学原教授黄飞若再被通报",
+      "onboard_time": 1728967942,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 207153,
       "num": 207153,
       "word": "2025国考12月1日笔试",
@@ -3779,6 +3787,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 199095,
+      "num": 297418,
+      "word": "许嵩 我居然在台上系鞋带",
+      "onboard_time": 1728970039,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 198768,
       "num": 193222,
       "word": "魔道祖师解锁",
@@ -3825,6 +3841,14 @@
       "onboard_time": 1728899119,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 197876,
+      "num": 197876,
+      "word": "大冰直播",
+      "onboard_time": 1728969619,
+      "rank": 40,
+      "category": "网红"
     },
     {
       "raw_hot": 197430,
@@ -3977,6 +4001,14 @@
       "onboard_time": 1728730279,
       "rank": 24,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 192757,
+      "num": 192757,
+      "word": "刘诗诗T锦绣十月刊封面",
+      "onboard_time": 1728970341,
+      "rank": 38,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 192678,
@@ -4355,14 +4387,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 176766,
-      "num": 176766,
-      "word": "大冰直播",
-      "onboard_time": 1728969619,
-      "rank": 40,
-      "category": "网红"
-    },
-    {
       "raw_hot": 176462,
       "num": 176462,
       "word": "解放军此次围岛演习有3个更加",
@@ -4380,7 +4404,7 @@
     },
     {
       "raw_hot": 175939,
-      "num": 216942,
+      "num": 273167,
       "word": "沈腾喊白敬亭以为是蜡笔小新",
       "onboard_time": 1728969317,
       "rank": 38,
@@ -4449,6 +4473,14 @@
       "onboard_time": 1728803899,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 171057,
+      "num": 171057,
+      "word": "为何越来越多中老年人迷上网购",
+      "onboard_time": 1728969619,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 170987,
@@ -4603,6 +4635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 163555,
+      "num": 163555,
+      "word": "首批中证A500ETF今日上市",
+      "onboard_time": 1728970220,
+      "rank": 43,
+      "category": "财经"
+    },
+    {
       "raw_hot": 163116,
       "num": 182443,
       "word": "徐若晗钓系永远的姐",
@@ -4689,14 +4729,6 @@
       "onboard_time": 1728782058,
       "rank": 28,
       "category": "演出"
-    },
-    {
-      "raw_hot": 159202,
-      "num": 159202,
-      "word": "为何越来越多中老年人迷上网购",
-      "onboard_time": 1728969619,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 158426,
@@ -4905,6 +4937,14 @@
       "onboard_time": 1728801858,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 151253,
+      "num": 151253,
+      "word": "韩军公布朝鲜炸毁朝韩间道路视频",
+      "onboard_time": 1728970519,
+      "rank": 48,
+      "category": "国外时政"
     },
     {
       "raw_hot": 151235,
@@ -5835,14 +5875,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 103349,
-      "num": 313584,
-      "word": "华中农业大学原教授黄飞若再被通报",
-      "onboard_time": 1728967942,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 103083,
       "num": 103083,
       "word": "洱海之源秋景如画",
@@ -6131,6 +6163,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 87421,
+      "num": 357652,
+      "word": "罗慎远不叫七妹叫宜宁了",
+      "onboard_time": 1728969020,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 87054,
       "num": 87054,
       "word": "刘学义握酒壶海报",
@@ -6220,7 +6260,7 @@
     },
     {
       "raw_hot": 82575,
-      "num": 295272,
+      "num": 322581,
       "word": "七夜雪浪漫氛围感",
       "onboard_time": 1728968661,
       "rank": 29,
@@ -6265,14 +6305,6 @@
       "onboard_time": 1728831023,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 79303,
-      "num": 357652,
-      "word": "罗慎远不叫七妹叫宜宁了",
-      "onboard_time": 1728969020,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 78027,
@@ -6579,6 +6611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 55233,
+      "num": 665387,
+      "word": "夫妻免费为在外子女看望家中老人",
+      "onboard_time": 1728968961,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 55218,
       "num": 55218,
       "word": "11个月大失聪宝宝第一次听到声音",
@@ -6713,14 +6753,6 @@
       "onboard_time": 1728909199,
       "rank": 27,
       "category": "数码"
-    },
-    {
-      "raw_hot": 49970,
-      "num": 615035,
-      "word": "夫妻免费为在外子女看望家中老人",
-      "onboard_time": 1728968961,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 49834,
@@ -7043,6 +7075,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 37335,
+      "num": 168171,
+      "word": "车企价格战羊毛出在羊身上",
+      "onboard_time": 1728970278,
+      "rank": 41,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 37126,
       "num": 57780,
       "word": "独库公路为何1年封闭8个月",
@@ -7355,6 +7395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 27086,
+      "num": 297344,
+      "word": "美称以不会打击伊朗核设施",
+      "onboard_time": 1728970640,
+      "rank": 29,
+      "category": "国外时政,军事"
+    },
+    {
       "raw_hot": 26760,
       "num": 597853,
       "word": "当代男性消费观",
@@ -7619,6 +7667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 15483,
+      "num": 152606,
+      "word": "合着你纯吃播啊",
+      "onboard_time": 1728970458,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 14165,
       "num": 35144,
       "word": "官方回应贵州王乃山突发山火",
@@ -7696,6 +7752,14 @@
       "word": "马国明汤洛雯同游济州岛",
       "onboard_time": 1728785298,
       "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 4788,
+      "num": 392126,
+      "word": "小S把粉丝送的小象保存了十年",
+      "onboard_time": 1728970759,
+      "rank": 19,
       "category": "艺人"
     },
     {
