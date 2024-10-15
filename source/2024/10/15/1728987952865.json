@@ -1,0 +1,410 @@
+{
+  "runTime": 1728987952865,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1395674,
+        "num": 1395674,
+        "word": "乒乓运动员孙杨代替王楚钦出战男团",
+        "onboard_time": 1728982400,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 483981,
+        "num": 483981,
+        "word": "王楚钦孙颖莎王曼昱退出全锦赛",
+        "onboard_time": 1728980900,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 27840,
+        "num": 462700,
+        "word": "千年石窟 匠心传承",
+        "onboard_time": 1728983420,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 456498,
+        "num": 456498,
+        "word": "我国无需缴纳个税人员占比超过七成",
+        "onboard_time": 1728964940,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 305984,
+        "num": 305984,
+        "word": "盛李豪世界杯10米气步枪夺冠",
+        "onboard_time": 1728980960,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 281763,
+        "num": 281763,
+        "word": "薛之谦海外体育场返场官宣7站",
+        "onboard_time": 1728976759,
+        "rank": 5,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 281620,
+        "num": 281620,
+        "word": "黄雨婷创造新世界纪录摘金",
+        "onboard_time": 1728976519,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 265212,
+        "num": 265212,
+        "word": "韩国京畿道禁止市民在边界放飞气球",
+        "onboard_time": 1728986419,
+        "rank": 7,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 228607,
+        "num": 228607,
+        "word": "成都拆迁地图上新",
+        "onboard_time": 1728981859,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38803,
+        "num": 228606,
+        "word": "新能源车修车难问题凸显如何破解",
+        "onboard_time": 1728986838,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2070532,
+        "num": 228599,
+        "word": "女子因领导批评压力过大变成木头人",
+        "onboard_time": 1728985700,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1621341,
+        "num": 228595,
+        "word": "陈赫力挺黄磊",
+        "onboard_time": 1728979160,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1547058,
+        "num": 228590,
+        "word": "儿子与母亲签订生老病死与己无关协议",
+        "onboard_time": 1728982940,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 84579,
+        "num": 228587,
+        "word": "国家队恭喜盛李豪",
+        "onboard_time": 1728987808,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 83289,
+        "num": 228583,
+        "word": "律师称听泉鉴宝不涉及学历造假",
+        "onboard_time": 1728986180,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261217,
+        "num": 228579,
+        "word": "杨幂 杨的三次方",
+        "onboard_time": 1728985039,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 249295,
+        "num": 228570,
+        "word": "你的收入达到缴纳个税的标准了吗",
+        "onboard_time": 1728973580,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111765,
+        "num": 228568,
+        "word": "黄雨婷说18岁是浓墨重彩的一笔",
+        "onboard_time": 1728987808,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 16278,
+        "num": 228565,
+        "word": "惠英红曾舜晞加微信",
+        "onboard_time": 1728987200,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 728155,
+        "num": 228560,
+        "word": "金正恩指明朝鲜军事活动方向",
+        "onboard_time": 1728964940,
+        "rank": 19,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 652964,
+        "num": 228552,
+        "word": "你目前的工资需要纳税吗",
+        "onboard_time": 1728980660,
+        "rank": 20,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 614589,
+        "num": 228548,
+        "word": "曝大爆剧双顶流提名金鹰奖视帝视后",
+        "onboard_time": 1728985340,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 552165,
+        "num": 228542,
+        "word": "秦奋给韦雪刷礼物",
+        "onboard_time": 1728975980,
+        "rank": 22,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 544491,
+        "num": 228539,
+        "word": "朝韩局势",
+        "onboard_time": 1728979219,
+        "rank": 23,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 53039,
+        "num": 228536,
+        "word": "和平精英最大规模皮肤返场",
+        "onboard_time": 1728983120,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 454422,
+        "num": 228531,
+        "word": "墨香铜臭 解锁",
+        "onboard_time": 1728965419,
+        "rank": 25,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 36701,
+        "num": 228526,
+        "word": "真正好用的卫生巾",
+        "onboard_time": 1728986659,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 425141,
+        "num": 228523,
+        "word": "全红婵说知道要减重所以吃了很多",
+        "onboard_time": 1728983479,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 339493,
+        "num": 228514,
+        "word": "男子乘飞机2小时未起身致肺栓塞身亡",
+        "onboard_time": 1728977780,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155714,
+        "num": 228510,
+        "word": "王一博 首攀红点证书",
+        "onboard_time": 1728985220,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 243407,
+        "num": 228509,
+        "word": "ITZY回归",
+        "onboard_time": 1728984799,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 228505,
+        "num": 228505,
+        "word": "秦岚超短发",
+        "onboard_time": 1728975019,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 225355,
+        "num": 225355,
+        "word": "韩军公布朝鲜炸毁朝韩间道路视频",
+        "onboard_time": 1728970519,
+        "rank": 32,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 212626,
+        "num": 212626,
+        "word": "难听",
+        "onboard_time": 1728987808,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 208893,
+        "num": 208893,
+        "word": "叶珂谈南北差异",
+        "onboard_time": 1728982579,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191418,
+        "num": 191418,
+        "word": "周扬青 借钱出去的是孙子",
+        "onboard_time": 1728977420,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191150,
+        "num": 191150,
+        "word": "双十一仿佛在侮辱我的智商",
+        "onboard_time": 1728975980,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 184660,
+        "num": 184660,
+        "word": "康辉一次性读完全国易错地名",
+        "onboard_time": 1728987499,
+        "rank": 37,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 183093,
+        "num": 183093,
+        "word": "误食两斤全麦面包怎么办",
+        "onboard_time": 1728987619,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 180787,
+        "num": 180787,
+        "word": "外交部回应朝鲜半岛局势紧张",
+        "onboard_time": 1728980539,
+        "rank": 39,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 179811,
+        "num": 179811,
+        "word": "世界之外新PV",
+        "onboard_time": 1728981620,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 169412,
+        "num": 169412,
+        "word": "韩军用开枪回应朝鲜炸毁道路",
+        "onboard_time": 1728967942,
+        "rank": 41,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 152809,
+        "num": 168968,
+        "word": "papi酱再见爱人4有啥说啥",
+        "onboard_time": 1728976640,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 22163,
+        "num": 168672,
+        "word": "如何把15万花出20万的效果",
+        "onboard_time": 1728987561,
+        "rank": 43,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 147368,
+        "num": 168424,
+        "word": "VOGUE盛典官宣阵容",
+        "onboard_time": 1728978139,
+        "rank": 44,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 145805,
+        "num": 167981,
+        "word": "ITZY完整体新歌MV",
+        "onboard_time": 1728983360,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 125582,
+        "num": 167374,
+        "word": "龚俊VOGUE官宣图是苏暮雨",
+        "onboard_time": 1728986239,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 14297,
+        "num": 167036,
+        "word": "购物最上头的时候来了",
+        "onboard_time": 1728987200,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139793,
+        "num": 166486,
+        "word": "朝韩部分交界被韩指定为危险区",
+        "onboard_time": 1728985819,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166298,
+        "num": 166298,
+        "word": "王源公司已申请多枚客厅狂欢商标",
+        "onboard_time": 1728977118,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#深悟总书记的文艺观#"
+    }
+  }
+}
