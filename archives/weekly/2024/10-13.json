@@ -1,6 +1,6 @@
 {
   "startTime": 1728750414717,
-  "endTime": 1728980948322,
+  "endTime": 1728981801791,
   "band_list": [
     {
       "raw_hot": 17915004,
@@ -451,6 +451,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1362391,
+      "num": 1362391,
+      "word": "黄雨婷创造新世界纪录摘金",
+      "onboard_time": 1728976519,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1356120,
+      "num": 634706,
+      "word": "朝韩局势",
+      "onboard_time": 1728979219,
+      "rank": 11,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 1341857,
       "num": 567860,
       "word": "杜华 你不火还怪我又不是我不火",
@@ -521,14 +537,6 @@
       "onboard_time": 1728888919,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1277353,
-      "num": 1277353,
-      "word": "黄雨婷创造新世界纪录摘金",
-      "onboard_time": 1728976519,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 1270329,
@@ -745,14 +753,6 @@
       "onboard_time": 1728976759,
       "rank": 8,
       "category": "演出"
-    },
-    {
-      "raw_hot": 1010374,
-      "num": 634706,
-      "word": "朝韩局势",
-      "onboard_time": 1728979219,
-      "rank": 11,
-      "category": "国外时政"
     },
     {
       "raw_hot": 997545,
@@ -1059,6 +1059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 800244,
+      "num": 800244,
+      "word": "王楚钦孙颖莎王曼昱退出全锦赛",
+      "onboard_time": 1728980900,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 798348,
       "num": 363634,
       "word": "SpaceX首次回收星舰成功",
@@ -1273,6 +1281,14 @@
       "onboard_time": 1728805460,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 682782,
+      "num": 470960,
+      "word": "陈赫力挺黄磊",
+      "onboard_time": 1728979160,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 676608,
@@ -1803,6 +1819,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 477149,
+      "num": 477149,
+      "word": "盛李豪世界杯10米气步枪夺冠",
+      "onboard_time": 1728980960,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 476834,
       "num": 476834,
       "word": "国乒亚锦赛两冠收官",
@@ -2129,6 +2153,14 @@
       "onboard_time": 1728902300,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 392310,
+      "num": 519703,
+      "word": "你目前的工资需要纳税吗",
+      "onboard_time": 1728980660,
+      "rank": 35,
+      "category": "社会议题"
     },
     {
       "raw_hot": 391122,
@@ -2921,6 +2953,14 @@
       "onboard_time": 1728912500,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 270402,
+      "num": 219993,
+      "word": "外交部回应朝鲜半岛局势紧张",
+      "onboard_time": 1728980539,
+      "rank": 40,
+      "category": "国外时政"
     },
     {
       "raw_hot": 270242,
@@ -3995,14 +4035,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 199798,
-      "num": 199798,
-      "word": "你目前的工资需要纳税吗",
-      "onboard_time": 1728980660,
-      "rank": 35,
-      "category": "社会议题"
-    },
-    {
       "raw_hot": 199627,
       "num": 281243,
       "word": "赵露思暗黑系COSMO封面预告",
@@ -4201,14 +4233,6 @@
       "onboard_time": 1728861917,
       "rank": 2,
       "category": "军事"
-    },
-    {
-      "raw_hot": 195335,
-      "num": 179895,
-      "word": "外交部回应朝鲜半岛局势紧张",
-      "onboard_time": 1728980539,
-      "rank": 40,
-      "category": "国外时政"
     },
     {
       "raw_hot": 195211,
@@ -4473,6 +4497,14 @@
       "onboard_time": 1728744922,
       "rank": 23,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 186636,
+      "num": 186636,
+      "word": "女生被峨眉山猴子翻包气哭",
+      "onboard_time": 1728978739,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 186516,
@@ -4811,6 +4843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 169286,
+      "num": 169286,
+      "word": "干饭哥世界杯10米气步枪夺冠",
+      "onboard_time": 1728981679,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 168980,
       "num": 317050,
       "word": "四川一落马干部曾把几口袋现金埋在地下",
@@ -4865,6 +4905,14 @@
       "onboard_time": 1728972797,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 166721,
+      "num": 166721,
+      "word": "世界之外新PV",
+      "onboard_time": 1728981620,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 165872,
@@ -5147,6 +5195,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 154510,
+      "num": 626831,
+      "word": "林高远刘诗雯vs赵子豪陈熠",
+      "onboard_time": 1728979460,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 153987,
       "num": 323669,
       "word": "音乐缘计划",
@@ -5299,6 +5355,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 149597,
+      "num": 149597,
+      "word": "干饭哥0.1环优势夺冠",
+      "onboard_time": 1728981620,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 148907,
       "num": 148907,
       "word": "桃晚安道歉",
@@ -5352,14 +5416,6 @@
       "word": "2名大学生帮站票宝妈抱娃一整夜",
       "onboard_time": 1728903618,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 146148,
-      "num": 146148,
-      "word": "女生被峨眉山猴子翻包气哭",
-      "onboard_time": 1728978739,
-      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -5625,14 +5681,6 @@
       "onboard_time": 1728978859,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 136300,
-      "num": 136300,
-      "word": "王楚钦孙颖莎王曼昱退出全锦赛",
-      "onboard_time": 1728980900,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 136250,
@@ -6571,6 +6619,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 86752,
+      "num": 638835,
+      "word": "A股成交额连续7个交易日破1.5万亿",
+      "onboard_time": 1728979762,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 86198,
       "num": 247325,
       "word": "刘学义 荆北著名疯璟",
@@ -6609,14 +6665,6 @@
       "onboard_time": 1728903858,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 84204,
-      "num": 638835,
-      "word": "A股成交额连续7个交易日破1.5万亿",
-      "onboard_time": 1728979762,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 84080,
@@ -6673,14 +6721,6 @@
       "onboard_time": 1728929412,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 81555,
-      "num": 626831,
-      "word": "林高远刘诗雯vs赵子豪陈熠",
-      "onboard_time": 1728979460,
-      "rank": 17,
-      "category": "体育"
     },
     {
       "raw_hot": 80134,
@@ -6801,6 +6841,14 @@
       "onboard_time": 1728958398,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 69369,
+      "num": 628533,
+      "word": "海洋奇缘2内地定档",
+      "onboard_time": 1728980900,
+      "rank": 16,
+      "category": "电影"
     },
     {
       "raw_hot": 68959,
@@ -6971,14 +7019,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 60420,
-      "num": 628533,
-      "word": "海洋奇缘2内地定档",
-      "onboard_time": 1728980900,
-      "rank": 16,
-      "category": "电影"
-    },
-    {
       "raw_hot": 59255,
       "num": 126341,
       "word": "中方再曝光美政府伏特台风计划细节",
@@ -7083,6 +7123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 54398,
+      "num": 514091,
+      "word": "颐莲这一年真没闲着",
+      "onboard_time": 1728980060,
+      "rank": 25,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 54004,
       "num": 263794,
       "word": "X200小直屏颜值党天菜",
@@ -7113,6 +7161,14 @@
       "onboard_time": 1728831202,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 52345,
+      "num": 198360,
+      "word": "这届年轻人流行先甜后也甜",
+      "onboard_time": 1728980539,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 52263,
@@ -7339,14 +7395,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 45940,
-      "num": 514091,
-      "word": "颐莲这一年真没闲着",
-      "onboard_time": 1728980060,
-      "rank": 25,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 45682,
       "num": 389029,
       "word": "消费者如何辨别粉条是不是纯红薯粉",
@@ -7507,12 +7555,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 40112,
+      "num": 624802,
+      "word": "涉事养老院回应网传囚禁残疾人",
+      "onboard_time": 1728980298,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 39944,
       "num": 491533,
       "word": "中国汽车如何更好走出国门",
       "onboard_time": 1728963498,
       "rank": 45,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 39373,
+      "num": 637013,
+      "word": "养生会所老板伙同假大师诈骗近20万",
+      "onboard_time": 1728979640,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 38471,
@@ -7795,14 +7859,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 29943,
-      "num": 624802,
-      "word": "涉事养老院回应网传囚禁残疾人",
-      "onboard_time": 1728980298,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 29886,
       "num": 40991,
       "word": "一个真虎一个真是虎",
@@ -7995,20 +8051,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 22661,
-      "num": 637013,
-      "word": "养生会所老板伙同假大师诈骗近20万",
-      "onboard_time": 1728979640,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 22184,
       "num": 281851,
       "word": "家务清洁怎样省时又省力",
       "onboard_time": 1728896838,
       "rank": 28,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 22093,
+      "num": 166471,
+      "word": "现在品牌宠粉都这么卷",
+      "onboard_time": 1728981500,
+      "rank": 43,
+      "category": "汽车"
     },
     {
       "raw_hot": 21934,
@@ -8137,14 +8193,6 @@
       "onboard_time": 1728917841,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 17233,
-      "num": 198360,
-      "word": "这届年轻人流行先甜后也甜",
-      "onboard_time": 1728980539,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 17041,

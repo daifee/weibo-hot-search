@@ -1,0 +1,410 @@
+{
+  "runTime": 1728981801791,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1362391,
+        "num": 1362391,
+        "word": "黄雨婷创造新世界纪录摘金",
+        "onboard_time": 1728976519,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 963344,
+        "num": 963344,
+        "word": "韩军用开枪回应朝鲜炸毁道路",
+        "onboard_time": 1728967942,
+        "rank": 1,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 17667,
+        "num": 917640,
+        "word": "美国海底窃听光缆真实图像",
+        "onboard_time": 1728919520,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 897205,
+        "num": 897205,
+        "word": "金正恩指明朝鲜军事活动方向",
+        "onboard_time": 1728964940,
+        "rank": 3,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 800244,
+        "num": 800244,
+        "word": "王楚钦孙颖莎王曼昱退出全锦赛",
+        "onboard_time": 1728980900,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 780039,
+        "num": 780039,
+        "word": "我国无需缴纳个税人员占比超过七成",
+        "onboard_time": 1728964940,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 535654,
+        "num": 535654,
+        "word": "墨香铜臭 解锁",
+        "onboard_time": 1728965419,
+        "rank": 6,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 520324,
+        "num": 520324,
+        "word": "薛之谦海外体育场返场官宣7站",
+        "onboard_time": 1728976759,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 367224,
+        "num": 520134,
+        "word": "VOGUE盛典官宣阵容",
+        "onboard_time": 1728978139,
+        "rank": 8,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 392310,
+        "num": 519703,
+        "word": "你目前的工资需要纳税吗",
+        "onboard_time": 1728980660,
+        "rank": 9,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 1356120,
+        "num": 519490,
+        "word": "朝韩局势",
+        "onboard_time": 1728979219,
+        "rank": 10,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1136134,
+        "num": 519221,
+        "word": "秦奋给韦雪刷礼物",
+        "onboard_time": 1728975980,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 518882,
+        "num": 518882,
+        "word": "黄雨婷大满贯",
+        "onboard_time": 1728978139,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 477149,
+        "num": 477149,
+        "word": "盛李豪世界杯10米气步枪夺冠",
+        "onboard_time": 1728980960,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 40259,
+        "num": 475634,
+        "word": "青海有毒致6死气体确认为硫化氢",
+        "onboard_time": 1728980719,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 682782,
+        "num": 470960,
+        "word": "陈赫力挺黄磊",
+        "onboard_time": 1728979160,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 69369,
+        "num": 467124,
+        "word": "海洋奇缘2内地定档",
+        "onboard_time": 1728980900,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 631046,
+        "num": 462172,
+        "word": "周扬青 借钱出去的是孙子",
+        "onboard_time": 1728977420,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 54398,
+        "num": 456396,
+        "word": "颐莲这一年真没闲着",
+        "onboard_time": 1728980060,
+        "rank": 18,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 40112,
+        "num": 452133,
+        "word": "涉事养老院回应网传囚禁残疾人",
+        "onboard_time": 1728980298,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 629461,
+        "num": 449929,
+        "word": "秦岚超短发",
+        "onboard_time": 1728975019,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 569810,
+        "num": 446228,
+        "word": "王源公司已申请多枚客厅狂欢商标",
+        "onboard_time": 1728977118,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 569571,
+        "num": 438391,
+        "word": "网曝老人拾玉米被田主人殴打致1死1伤",
+        "onboard_time": 1728971779,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 538288,
+        "num": 434024,
+        "word": "男子乘飞机2小时未起身致肺栓塞身亡",
+        "onboard_time": 1728977780,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 433058,
+        "num": 433058,
+        "word": "你的收入达到缴纳个税的标准了吗",
+        "onboard_time": 1728973580,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 373115,
+        "num": 373115,
+        "word": "韩军称朝鲜炸毁部分朝韩间道路",
+        "onboard_time": 1728962960,
+        "rank": 25,
+        "category": "国外时政,军事"
+      },
+      {
+        "raw_hot": 368728,
+        "num": 368728,
+        "word": "双十一仿佛在侮辱我的智商",
+        "onboard_time": 1728975980,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 336755,
+        "num": 336755,
+        "word": "韩军公布朝鲜炸毁朝韩间道路视频",
+        "onboard_time": 1728970519,
+        "rank": 27,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 255976,
+        "num": 255976,
+        "word": "张桂梅扮演者说越演越惭愧",
+        "onboard_time": 1728972019,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 220950,
+        "num": 220950,
+        "word": "papi酱再见爱人4有啥说啥",
+        "onboard_time": 1728976640,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 270402,
+        "num": 219993,
+        "word": "外交部回应朝鲜半岛局势紧张",
+        "onboard_time": 1728980539,
+        "rank": 30,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 261730,
+        "num": 219114,
+        "word": "前妻曝马斯克撩妹方式",
+        "onboard_time": 1728975078,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214505,
+        "num": 214505,
+        "word": "早睡能解决身体80%以上的问题",
+        "onboard_time": 1728967521,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 86752,
+        "num": 202501,
+        "word": "A股成交额连续7个交易日破1.5万亿",
+        "onboard_time": 1728979762,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195531,
+        "num": 195531,
+        "word": "HANNI出席国会监查",
+        "onboard_time": 1728974059,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 52345,
+        "num": 187916,
+        "word": "这届年轻人流行先甜后也甜",
+        "onboard_time": 1728980539,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186636,
+        "num": 186636,
+        "word": "女生被峨眉山猴子翻包气哭",
+        "onboard_time": 1728978739,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186241,
+        "num": 186241,
+        "word": "陈冠希晒妻女泳装照",
+        "onboard_time": 1728976579,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182959,
+        "num": 182959,
+        "word": "韩军开枪警告射击",
+        "onboard_time": 1728866479,
+        "rank": 38,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 177731,
+        "num": 177731,
+        "word": "年收入不足10万元基本不用交个税",
+        "onboard_time": 1728973519,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169286,
+        "num": 169286,
+        "word": "干饭哥世界杯10米气步枪夺冠",
+        "onboard_time": 1728981679,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 39373,
+        "num": 167417,
+        "word": "养生会所老板伙同假大师诈骗近20万",
+        "onboard_time": 1728979640,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166721,
+        "num": 166721,
+        "word": "世界之外新PV",
+        "onboard_time": 1728981620,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 22093,
+        "num": 166471,
+        "word": "现在品牌宠粉都这么卷",
+        "onboard_time": 1728981500,
+        "rank": 43,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 166462,
+        "num": 166462,
+        "word": "各地飞往韩国的航班暂未受影响",
+        "onboard_time": 1728980478,
+        "rank": 44,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 164350,
+        "num": 164350,
+        "word": "孙颖莎WTT退赛",
+        "onboard_time": 1728966982,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 154510,
+        "num": 154510,
+        "word": "林高远刘诗雯vs赵子豪陈熠",
+        "onboard_time": 1728979460,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 152338,
+        "num": 152338,
+        "word": "王楚钦 退赛",
+        "onboard_time": 1728913521,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 149597,
+        "num": 149597,
+        "word": "干饭哥0.1环优势夺冠",
+        "onboard_time": 1728981620,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 138670,
+        "num": 138670,
+        "word": "张大大玩叶珂微do梗",
+        "onboard_time": 1728980000,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#中华民族有着强大的文化创造力#"
+    }
+  }
+}
