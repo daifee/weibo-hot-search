@@ -1,6 +1,6 @@
 {
   "startTime": 1728750414717,
-  "endTime": 1728967307109,
+  "endTime": 1728969756701,
   "band_list": [
     {
       "raw_hot": 17915004,
@@ -137,6 +137,14 @@
       "onboard_time": 1728859935,
       "rank": 0,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 2342042,
+      "num": 2342042,
+      "word": "我国无需缴纳个税人员占比超过七成",
+      "onboard_time": 1728964940,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2303119,
@@ -339,6 +347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1443879,
+      "num": 1378589,
+      "word": "韩军用开枪回应朝鲜炸毁道路",
+      "onboard_time": 1728967942,
+      "rank": 6,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 1427331,
       "num": 1427331,
       "word": "员工不服调岗被解雇起诉获赔17万",
@@ -369,6 +385,14 @@
       "onboard_time": 1728871758,
       "rank": 6,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1409148,
+      "num": 1409148,
+      "word": "孙颖莎WTT退赛",
+      "onboard_time": 1728966982,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 1405452,
@@ -712,14 +736,6 @@
       "word": "爸爸跑步留老大照顾老二结果都丢了",
       "onboard_time": 1728787819,
       "rank": 18,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 933788,
-      "num": 933788,
-      "word": "我国无需缴纳个税人员占比超过七成",
-      "onboard_time": 1728964940,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -1475,6 +1491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 540559,
+      "num": 540559,
+      "word": "李蠕蠕当面模仿向佐",
+      "onboard_time": 1728967282,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 540423,
       "num": 540423,
       "word": "G2对战BLG",
@@ -1883,6 +1907,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 422307,
+      "num": 835651,
+      "word": "孙燕姿公布巡演场次",
+      "onboard_time": 1728965720,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
       "raw_hot": 419457,
       "num": 419457,
       "word": "郑秀妍郑秀晶黄礼志申有娜新闻图",
@@ -1897,14 +1929,6 @@
       "onboard_time": 1728940391,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 409645,
-      "num": 835651,
-      "word": "孙燕姿公布巡演场次",
-      "onboard_time": 1728965720,
-      "rank": 34,
-      "category": "演出"
     },
     {
       "raw_hot": 408879,
@@ -1985,14 +2009,6 @@
       "onboard_time": 1728959778,
       "rank": 8,
       "category": "演出"
-    },
-    {
-      "raw_hot": 384669,
-      "num": 384669,
-      "word": "孙颖莎WTT退赛",
-      "onboard_time": 1728966982,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 384388,
@@ -2475,12 +2491,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 293372,
+      "num": 293372,
+      "word": "全红婵陈芋汐恢复训练",
+      "onboard_time": 1728968122,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 293368,
       "num": 718785,
       "word": "权志龙新歌power",
       "onboard_time": 1728875419,
       "rank": 18,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 292880,
+      "num": 292880,
+      "word": "程潇沙漠公主",
+      "onboard_time": 1728967401,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 292876,
@@ -2561,6 +2593,14 @@
       "onboard_time": 1728787700,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 287004,
+      "num": 287004,
+      "word": "高铁上偶遇了42岁的研一新生",
+      "onboard_time": 1728967282,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 285601,
@@ -2697,6 +2737,14 @@
       "onboard_time": 1728912500,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 271460,
+      "num": 271460,
+      "word": "早睡能解决身体80%以上的问题",
+      "onboard_time": 1728967521,
+      "rank": 34,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 270242,
@@ -2955,6 +3003,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 244360,
+      "num": 244360,
+      "word": "尚美巴黎光与夜之恋",
+      "onboard_time": 1728969260,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 243971,
       "num": 243971,
       "word": "警方回应小米SU7冲上公交站台",
@@ -2987,20 +3043,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 239948,
+      "num": 297906,
+      "word": "87版红楼梦",
+      "onboard_time": 1728966923,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 239740,
       "num": 213107,
       "word": "为什么建议学会腹式呼吸",
       "onboard_time": 1728920840,
       "rank": 21,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 239476,
-      "num": 239476,
-      "word": "高铁上偶遇了42岁的研一新生",
-      "onboard_time": 1728967282,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 238711,
@@ -3203,6 +3259,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 222620,
+      "num": 222620,
+      "word": "WTT",
+      "onboard_time": 1728967101,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 222249,
       "num": 222249,
       "word": "游客在浙江出海幸运拍下海豚群跃出海面",
@@ -3353,6 +3417,14 @@
       "onboard_time": 1728816440,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 214091,
+      "num": 400941,
+      "word": "拜登被爆私下曾称以总理坏蛋",
+      "onboard_time": 1728963198,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 214089,
@@ -3535,14 +3607,6 @@
       "num": 204592,
       "word": "郑钦文巩固世界第7排名",
       "onboard_time": 1728824722,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 204184,
-      "num": 204184,
-      "word": "WTT",
-      "onboard_time": 1728967101,
       "rank": 40,
       "category": "体育"
     },
@@ -3835,6 +3899,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 196026,
+      "num": 297177,
+      "word": "Jennie新歌练习室",
+      "onboard_time": 1728969020,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 195651,
       "num": 195651,
       "word": "微博会员50一年",
@@ -3891,14 +3963,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 193219,
-      "num": 400941,
-      "word": "拜登被爆私下曾称以总理坏蛋",
-      "onboard_time": 1728963198,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 193152,
       "num": 313034,
       "word": "微博视界大会",
@@ -3935,6 +3999,14 @@
       "num": 192190,
       "word": "李荣浩 兄弟送你三个字你完了",
       "onboard_time": 1728797359,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 191572,
+      "num": 296113,
+      "word": "汪苏泷深圳",
+      "onboard_time": 1728969020,
       "rank": 28,
       "category": "演出"
     },
@@ -4259,14 +4331,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 178532,
-      "num": 178532,
-      "word": "87版红楼梦",
-      "onboard_time": 1728966923,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 178296,
       "num": 178296,
       "word": "陈幸同蒯曼0比3大藤沙月横井咲樱",
@@ -4291,6 +4355,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 176766,
+      "num": 176766,
+      "word": "大冰直播",
+      "onboard_time": 1728969619,
+      "rank": 40,
+      "category": "网红"
+    },
+    {
       "raw_hot": 176462,
       "num": 176462,
       "word": "解放军此次围岛演习有3个更加",
@@ -4307,20 +4379,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 175939,
+      "num": 216942,
+      "word": "沈腾喊白敬亭以为是蜡笔小新",
+      "onboard_time": 1728969317,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 175900,
       "num": 175900,
       "word": "成都GG对战MRC",
       "onboard_time": 1728828024,
       "rank": 36,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 175767,
-      "num": 175767,
-      "word": "李蠕蠕当面模仿向佐",
-      "onboard_time": 1728967282,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 175022,
@@ -4617,6 +4689,14 @@
       "onboard_time": 1728782058,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 159202,
+      "num": 159202,
+      "word": "为何越来越多中老年人迷上网购",
+      "onboard_time": 1728969619,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 158426,
@@ -5755,6 +5835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 103349,
+      "num": 313584,
+      "word": "华中农业大学原教授黄飞若再被通报",
+      "onboard_time": 1728967942,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 103083,
       "num": 103083,
       "word": "洱海之源秋景如画",
@@ -6131,6 +6219,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 82575,
+      "num": 295272,
+      "word": "七夜雪浪漫氛围感",
+      "onboard_time": 1728968661,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 82039,
       "num": 82039,
       "word": "卫生局回应医院晚上直播唱歌成KTV",
@@ -6155,12 +6251,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 79782,
+      "num": 365377,
+      "word": "魏建军称价格战后遗症将达六七年",
+      "onboard_time": 1728965059,
+      "rank": 28,
+      "category": "财经"
+    },
+    {
       "raw_hot": 79749,
       "num": 79749,
       "word": "小孩姐戴三道杠走路的气质好帅呀",
       "onboard_time": 1728831023,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 79303,
+      "num": 357652,
+      "word": "罗慎远不叫七妹叫宜宁了",
+      "onboard_time": 1728969020,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 78027,
@@ -6499,14 +6611,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 53193,
-      "num": 365377,
-      "word": "魏建军称价格战后遗症将达六七年",
-      "onboard_time": 1728965059,
-      "rank": 28,
-      "category": "财经"
-    },
-    {
       "raw_hot": 52632,
       "num": 58938,
       "word": "许嵩西安演唱会",
@@ -6529,6 +6633,14 @@
       "onboard_time": 1728762552,
       "rank": 37,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 52055,
+      "num": 501002,
+      "word": "刘亦菲说的医疗险是什么",
+      "onboard_time": 1728965059,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 51750,
@@ -6603,6 +6715,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 49970,
+      "num": 615035,
+      "word": "夫妻免费为在外子女看望家中老人",
+      "onboard_time": 1728968961,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 49834,
       "num": 295914,
       "word": "小车翻滚起火路人勇救车内2人",
@@ -6625,14 +6745,6 @@
       "onboard_time": 1728916401,
       "rank": 31,
       "category": "数码"
-    },
-    {
-      "raw_hot": 49752,
-      "num": 501002,
-      "word": "刘亦菲说的医疗险是什么",
-      "onboard_time": 1728965059,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 49442,
