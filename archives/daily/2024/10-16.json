@@ -1,6 +1,6 @@
 {
   "startTime": 1729009695696,
-  "endTime": 1729027284507,
+  "endTime": 1729028169578,
   "band_list": [
     {
       "raw_hot": 941843,
@@ -467,6 +467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 50323,
+      "num": 50323,
+      "word": "男子自称盗墓不为钱只因为好奇",
+      "onboard_time": 1729025351,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 48535,
       "num": 48535,
       "word": "秋天的新疆含金量有多高",
@@ -491,20 +499,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 37288,
+      "num": 34191,
+      "word": "巩俐 成天戴口罩墨镜什么都看不见",
+      "onboard_time": 1729018571,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 37032,
       "num": 73461,
       "word": "至2050年我国空间科学发展路线图",
       "onboard_time": 1729011316,
       "rank": 33,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 35107,
-      "num": 33369,
-      "word": "巩俐 成天戴口罩墨镜什么都看不见",
-      "onboard_time": 1729018571,
-      "rank": 36,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 34619,
@@ -523,27 +531,19 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 31057,
-      "num": 31057,
-      "word": "成都一代驾凌晨遭暴力殴打",
-      "onboard_time": 1729015992,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 30249,
-      "num": 30249,
+      "raw_hot": 32866,
+      "num": 32866,
       "word": "男子中48888元记者通知领奖被怼",
       "onboard_time": 1728999259,
       "rank": 27,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 28637,
-      "num": 30411,
-      "word": "男子自称盗墓不为钱只因为好奇",
-      "onboard_time": 1729025351,
-      "rank": 13,
+      "raw_hot": 31057,
+      "num": 31057,
+      "word": "成都一代驾凌晨遭暴力殴打",
+      "onboard_time": 1729015992,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -563,8 +563,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 22631,
+      "num": 22631,
+      "word": "韩谴责朝鲜炸毁韩朝边境部分道路",
+      "onboard_time": 1729023791,
+      "rank": 46,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 22378,
-      "num": 26336,
+      "num": 26819,
       "word": "春花焰",
       "onboard_time": 1728990319,
       "rank": 49,
@@ -576,6 +584,14 @@
       "word": "河南5000年大墓出土遗物350余件",
       "onboard_time": 1729019592,
       "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 21988,
+      "num": 21988,
+      "word": "被泼开水女童父亲称孩子需要心理治疗",
+      "onboard_time": 1729024272,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -603,27 +619,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 21517,
-      "num": 21517,
-      "word": "韩谴责朝鲜炸毁韩朝边境部分道路",
-      "onboard_time": 1729023791,
-      "rank": 46,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 21268,
       "num": 674147,
       "word": "盘点10年经典文艺作品名场面",
       "onboard_time": 1728995900,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 21118,
-      "num": 21118,
-      "word": "被泼开水女童父亲称孩子需要心理治疗",
-      "onboard_time": 1729024272,
-      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -651,7 +651,7 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 18594,
+      "raw_hot": 18898,
       "num": 19287,
       "word": "医院内咖啡店回应吸引网红打卡",
       "onboard_time": 1729020911,
@@ -667,12 +667,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 12731,
-      "num": 24782,
+      "raw_hot": 13565,
+      "num": 34177,
       "word": "对欺诈骗保零容忍",
       "onboard_time": 1729026671,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 12736,
+      "num": 28262,
+      "word": "汲取中华优秀传统军事文化精华",
+      "onboard_time": 1729027811,
+      "rank": 24,
+      "category": "国内时政"
     }
   ],
   "hotgov_list": [
