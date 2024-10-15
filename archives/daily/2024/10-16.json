@@ -1,6 +1,6 @@
 {
   "startTime": 1729009695696,
-  "endTime": 1729019961052,
+  "endTime": 1729020943862,
   "band_list": [
     {
       "raw_hot": 941843,
@@ -315,6 +315,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 109082,
+      "num": 66947,
+      "word": "韩国总统尹锡悦不支持率超过70%",
+      "onboard_time": 1729017614,
+      "rank": 42,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 108550,
       "num": 108550,
       "word": "林高远刘诗雯全锦赛混双夺冠",
@@ -345,14 +353,6 @@
       "onboard_time": 1728991819,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 95382,
-      "num": 45209,
-      "word": "韩国总统尹锡悦不支持率超过70%",
-      "onboard_time": 1729017614,
-      "rank": 42,
-      "category": "国外时政"
     },
     {
       "raw_hot": 95086,
@@ -499,15 +499,15 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 31057,
-      "num": 31057,
-      "word": "成都一代驾凌晨遭暴力殴打",
-      "onboard_time": 1729015992,
-      "rank": 41,
-      "category": "社会新闻"
+      "raw_hot": 33254,
+      "num": 33254,
+      "word": "京城大师赛",
+      "onboard_time": 1729018932,
+      "rank": 38,
+      "category": "游戏"
     },
     {
-      "raw_hot": 27488,
+      "raw_hot": 32626,
       "num": 27488,
       "word": "巩俐 成天戴口罩墨镜什么都看不见",
       "onboard_time": 1729018571,
@@ -515,12 +515,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 26819,
-      "num": 26819,
-      "word": "京城大师赛",
-      "onboard_time": 1729018932,
-      "rank": 38,
-      "category": "游戏"
+      "raw_hot": 31057,
+      "num": 31057,
+      "word": "成都一代驾凌晨遭暴力殴打",
+      "onboard_time": 1729015992,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 23122,
@@ -563,7 +563,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 19228,
+      "raw_hot": 19424,
       "num": 70198,
       "word": "全面加强新时代新征程军事理论工作",
       "onboard_time": 1729016712,
@@ -571,11 +571,19 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 15704,
-      "num": 30853,
+      "raw_hot": 18557,
+      "num": 43645,
       "word": "河南5000年大墓出土遗物350余件",
       "onboard_time": 1729019592,
       "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 17626,
+      "num": 19287,
+      "word": "医院内咖啡店回应吸引网红打卡",
+      "onboard_time": 1729020911,
+      "rank": 48,
       "category": "社会新闻"
     }
   ],
