@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/10/01 00:28:17 ~ 2024/10/16 00:44:20
+本榜单时间：2024/10/01 00:28:17 ~ 2024/10/16 01:21:07
 </p>
 </blockquote>
 <p>
@@ -3099,6 +3099,12 @@ K总回应恋情（热度：872466）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8F%AD%E4%B8%BB%E4%BB%BB%E5%9C%A8%E7%8F%AD%E7%BA%A7%E7%BE%A4%E5%8F%91%E9%A3%99%E5%90%8E%E8%A2%AB%E5%81%9C%E8%81%8C%23" target="weibo">
+班主任在班级群发飙后被停职（热度：854474）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AE%8B%E9%9B%AA%20%E8%AF%BA%E8%B4%9D%E5%B0%94%E6%96%87%E5%AD%A6%E5%A5%96%E6%8F%90%E5%90%8D%23" target="weibo">
 残雪 诺贝尔文学奖提名（热度：853434）
 </a>
@@ -6005,12 +6011,6 @@ DK对战WBG（热度：537506）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%88%98%E7%83%A8%E5%90%AC%E5%BE%90%E5%86%AC%E5%86%AC%E8%AF%B4%E8%8B%B1%E8%AF%AD%E7%9A%84%E5%8F%8D%E5%BA%94%23" target="weibo">
 赵丽颖刘烨听徐冬冬说英语的反应（热度：526100）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AF%94%E4%BC%AFyummy%20mv%23" target="weibo">
-比伯yummy mv（热度：525364）
 </a>
 </li>
 
