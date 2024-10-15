@@ -1,0 +1,410 @@
+{
+  "runTime": 1729030871230,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 713261,
+        "num": 713261,
+        "word": "班主任在班级群发飙后被停职",
+        "onboard_time": 1729010117,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165267,
+        "num": 165267,
+        "word": "朝韩关系为何一下变天",
+        "onboard_time": 1728994219,
+        "rank": 1,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 2218,
+        "num": 152897,
+        "word": "盘点10年经典文艺作品名场面",
+        "onboard_time": 1728995900,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151581,
+        "num": 151581,
+        "word": "听泉鉴宝说不敢再休息了",
+        "onboard_time": 1729003701,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 107028,
+        "num": 107028,
+        "word": "老外在中国治好了数学焦虑",
+        "onboard_time": 1729009337,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181495,
+        "num": 105907,
+        "word": "中方回应韩媒称朝鲜炸毁韩朝边境部分道路",
+        "onboard_time": 1729004241,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 103546,
+        "num": 103546,
+        "word": "国足赢了",
+        "onboard_time": 1729001062,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100544,
+        "num": 100544,
+        "word": "男子自称盗墓不为钱只因为好奇",
+        "onboard_time": 1729025351,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 77885,
+        "num": 77885,
+        "word": "陈赫力挺黄磊",
+        "onboard_time": 1728979160,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 13695,
+        "num": 77744,
+        "word": "给力的中国产品助力外贸成绩创新高",
+        "onboard_time": 1729029553,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255346,
+        "num": 77475,
+        "word": "死者父亲将起诉出轨儿媳索赔150万",
+        "onboard_time": 1729006759,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169877,
+        "num": 77279,
+        "word": "14.8万卖了劳力士表后被警方上网追逃",
+        "onboard_time": 1728996500,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157362,
+        "num": 77066,
+        "word": "韩国总统尹锡悦不支持率超过70%",
+        "onboard_time": 1729017614,
+        "rank": 12,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 139780,
+        "num": 76690,
+        "word": "女子因领导批评压力过大变成木头人",
+        "onboard_time": 1728985700,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128665,
+        "num": 76444,
+        "word": "粥饼伦终于开店了",
+        "onboard_time": 1729008679,
+        "rank": 14,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 80472,
+        "num": 76369,
+        "word": "陈乔恩 你生十个婚姻会很长久吗",
+        "onboard_time": 1728992840,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 76202,
+        "num": 76202,
+        "word": "阿Sa回应关智斌求婚",
+        "onboard_time": 1728990859,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 69788,
+        "num": 69788,
+        "word": "叶珂评论伍佰的歌",
+        "onboard_time": 1728993619,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 64766,
+        "num": 64766,
+        "word": "男子中48888现金反诈意识爆表",
+        "onboard_time": 1728996079,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 68693,
+        "num": 62429,
+        "word": "巩俐 成天戴口罩墨镜什么都看不见",
+        "onboard_time": 1729018571,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 50611,
+        "num": 50611,
+        "word": "为什么说抑郁症是水溶性的",
+        "onboard_time": 1728994999,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 45836,
+        "num": 45836,
+        "word": "戴鲨鱼夹摔倒重度昏迷女子被接回家",
+        "onboard_time": 1729005620,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 45506,
+        "num": 45506,
+        "word": "男子中48888元记者通知领奖被怼",
+        "onboard_time": 1728999259,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 45065,
+        "num": 45065,
+        "word": "网红麻辣烫直播情侣亲昵博眼球",
+        "onboard_time": 1729008439,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 43862,
+        "num": 43862,
+        "word": "敌军说中国话诱杀志愿军是真事",
+        "onboard_time": 1729014493,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 42182,
+        "num": 42182,
+        "word": "上海一妇产医院成网红打卡地",
+        "onboard_time": 1728991819,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 39950,
+        "num": 39950,
+        "word": "朝称韩军是无人机侵犯平壤主谋证据确凿",
+        "onboard_time": 1729014432,
+        "rank": 26,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 38422,
+        "num": 38422,
+        "word": "蔡依林 40岁还可以这样",
+        "onboard_time": 1728998241,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37215,
+        "num": 37215,
+        "word": "成都一代驾凌晨遭暴力殴打",
+        "onboard_time": 1729015992,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 35801,
+        "num": 35801,
+        "word": "金正恩指明朝鲜军事活动方向",
+        "onboard_time": 1728964940,
+        "rank": 29,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 35654,
+        "num": 35654,
+        "word": "中学老师群里失控怒骂被暂停教学",
+        "onboard_time": 1728998720,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 35613,
+        "num": 35613,
+        "word": "秦奋给韦雪刷礼物",
+        "onboard_time": 1728975980,
+        "rank": 31,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 35301,
+        "num": 35301,
+        "word": "肖战机场路透",
+        "onboard_time": 1728989600,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31020,
+        "num": 31020,
+        "word": "HANNI称从出道就被无视",
+        "onboard_time": 1729013174,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30635,
+        "num": 30635,
+        "word": "国足印尼冲突",
+        "onboard_time": 1729001362,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 30574,
+        "num": 30574,
+        "word": "我驻黎维和部队将提高防卫能力",
+        "onboard_time": 1729020312,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 29584,
+        "num": 29584,
+        "word": "美英对也门空袭4次",
+        "onboard_time": 1729012394,
+        "rank": 36,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 28408,
+        "num": 28408,
+        "word": "老中青三代文艺工作者感悟深扎路",
+        "onboard_time": 1729001841,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 11700,
+        "num": 28267,
+        "word": "文化中国行文博日历",
+        "onboard_time": 1729030283,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28179,
+        "num": 28179,
+        "word": "我国成功发射千帆极轨02组卫星",
+        "onboard_time": 1729007119,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27823,
+        "num": 27823,
+        "word": "驻韩美军基地因怀疑有爆炸物引发骚动",
+        "onboard_time": 1729021391,
+        "rank": 40,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 26711,
+        "num": 26711,
+        "word": "Hanni叫错ADOR代表名字",
+        "onboard_time": 1729006640,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25928,
+        "num": 25928,
+        "word": "国足2比1印尼",
+        "onboard_time": 1728995299,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 25785,
+        "num": 25785,
+        "word": "古代的勺子上也有满满匠心",
+        "onboard_time": 1729014014,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25556,
+        "num": 25556,
+        "word": "男亲子卫生间是否多余",
+        "onboard_time": 1729007359,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25283,
+        "num": 25283,
+        "word": "国足vs印尼",
+        "onboard_time": 1728991100,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 25177,
+        "num": 25177,
+        "word": "韩谴责朝鲜炸毁韩朝边境部分道路",
+        "onboard_time": 1729023791,
+        "rank": 46,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 24673,
+        "num": 25163,
+        "word": "被泼开水女童父亲称孩子需要心理治疗",
+        "onboard_time": 1729024272,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22729,
+        "num": 25059,
+        "word": "新闻联播看到周深",
+        "onboard_time": 1728997400,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20946,
+        "num": 25014,
+        "word": "春花焰",
+        "onboard_time": 1728990319,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#全面加强新时代新征程军事理论工作#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1729009695696,
-  "endTime": 1729028169578,
+  "endTime": 1729030871230,
   "band_list": [
     {
       "raw_hot": 941843,
@@ -227,7 +227,7 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 166914,
+      "raw_hot": 169877,
       "num": 166914,
       "word": "14.8万卖了劳力士表后被警方上网追逃",
       "onboard_time": 1728996500,
@@ -249,6 +249,14 @@
       "onboard_time": 1729007119,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 157362,
+      "num": 77066,
+      "word": "韩国总统尹锡悦不支持率超过70%",
+      "onboard_time": 1729017614,
+      "rank": 42,
+      "category": "国外时政"
     },
     {
       "raw_hot": 154021,
@@ -315,14 +323,6 @@
       "category": "读书作家"
     },
     {
-      "raw_hot": 109082,
-      "num": 66947,
-      "word": "韩国总统尹锡悦不支持率超过70%",
-      "onboard_time": 1729017614,
-      "rank": 42,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 108550,
       "num": 108550,
       "word": "林高远刘诗雯全锦赛混双夺冠",
@@ -337,6 +337,14 @@
       "onboard_time": 1729012394,
       "rank": 14,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 100544,
+      "num": 100544,
+      "word": "男子自称盗墓不为钱只因为好奇",
+      "onboard_time": 1729025351,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 98048,
@@ -451,6 +459,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 68693,
+      "num": 62429,
+      "word": "巩俐 成天戴口罩墨镜什么都看不见",
+      "onboard_time": 1729018571,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 53398,
       "num": 53398,
       "word": "我驻黎维和部队将提高防卫能力",
@@ -464,14 +480,6 @@
       "word": "成都住房贷款可以商转公了",
       "onboard_time": 1729015992,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 50323,
-      "num": 50323,
-      "word": "男子自称盗墓不为钱只因为好奇",
-      "onboard_time": 1729025351,
-      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -491,6 +499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 45506,
+      "num": 45506,
+      "word": "男子中48888元记者通知领奖被怼",
+      "onboard_time": 1728999259,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 41123,
       "num": 55868,
       "word": "ITZY GOLD",
@@ -499,12 +515,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 37288,
-      "num": 34191,
-      "word": "巩俐 成天戴口罩墨镜什么都看不见",
-      "onboard_time": 1729018571,
-      "rank": 36,
-      "category": "作品衍生"
+      "raw_hot": 37215,
+      "num": 37215,
+      "word": "成都一代驾凌晨遭暴力殴打",
+      "onboard_time": 1729015992,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 37032,
@@ -531,31 +547,23 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 32866,
-      "num": 32866,
-      "word": "男子中48888元记者通知领奖被怼",
-      "onboard_time": 1728999259,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 31057,
-      "num": 31057,
-      "word": "成都一代驾凌晨遭暴力殴打",
-      "onboard_time": 1729015992,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 25517,
-      "num": 25517,
+      "raw_hot": 27823,
+      "num": 27823,
       "word": "驻韩美军基地因怀疑有爆炸物引发骚动",
       "onboard_time": 1729021391,
       "rank": 33,
       "category": "国外时政"
     },
     {
-      "raw_hot": 23122,
+      "raw_hot": 25928,
+      "num": 25928,
+      "word": "国足2比1印尼",
+      "onboard_time": 1728995299,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 25785,
       "num": 26337,
       "word": "古代的勺子上也有满满匠心",
       "onboard_time": 1729014014,
@@ -563,12 +571,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 22631,
-      "num": 22631,
+      "raw_hot": 25177,
+      "num": 25177,
       "word": "韩谴责朝鲜炸毁韩朝边境部分道路",
       "onboard_time": 1729023791,
       "rank": 46,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 24673,
+      "num": 25163,
+      "word": "被泼开水女童父亲称孩子需要心理治疗",
+      "onboard_time": 1729024272,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 22378,
@@ -587,28 +603,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 21988,
-      "num": 21988,
-      "word": "被泼开水女童父亲称孩子需要心理治疗",
-      "onboard_time": 1729024272,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 21977,
       "num": 36729,
       "word": "学习新语",
       "onboard_time": 1729018031,
       "rank": 21,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 21640,
-      "num": 21640,
-      "word": "国足2比1印尼",
-      "onboard_time": 1728995299,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 21594,
@@ -667,6 +667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 13695,
+      "num": 77744,
+      "word": "给力的中国产品助力外贸成绩创新高",
+      "onboard_time": 1729029553,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 13565,
       "num": 34177,
       "word": "对欺诈骗保零容忍",
@@ -681,6 +689,14 @@
       "onboard_time": 1729027811,
       "rank": 24,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 11700,
+      "num": 28267,
+      "word": "文化中国行文博日历",
+      "onboard_time": 1729030283,
+      "rank": 38,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
