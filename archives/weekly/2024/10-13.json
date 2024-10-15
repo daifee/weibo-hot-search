@@ -1,6 +1,6 @@
 {
   "startTime": 1728750414717,
-  "endTime": 1728981801791,
+  "endTime": 1728984263067,
   "band_list": [
     {
       "raw_hot": 17915004,
@@ -113,6 +113,14 @@
       "onboard_time": 1728962960,
       "rank": 1,
       "category": "国外时政,军事"
+    },
+    {
+      "raw_hot": 2468930,
+      "num": 945556,
+      "word": "陈赫力挺黄磊",
+      "onboard_time": 1728979160,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 2464830,
@@ -460,7 +468,7 @@
     },
     {
       "raw_hot": 1356120,
-      "num": 634706,
+      "num": 649484,
       "word": "朝韩局势",
       "onboard_time": 1728979219,
       "rank": 11,
@@ -667,6 +675,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1088168,
+      "num": 1174106,
+      "word": "孙杨代替王楚钦出战全锦赛男团比赛",
+      "onboard_time": 1728982400,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1075468,
       "num": 917226,
       "word": "前妻曝马斯克撩妹方式",
@@ -705,6 +721,14 @@
       "onboard_time": 1728900378,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1058774,
+      "num": 1058774,
+      "word": "王楚钦孙颖莎王曼昱退出全锦赛",
+      "onboard_time": 1728980900,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 1058275,
@@ -1059,14 +1083,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 800244,
-      "num": 800244,
-      "word": "王楚钦孙颖莎王曼昱退出全锦赛",
-      "onboard_time": 1728980900,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 798348,
       "num": 363634,
       "word": "SpaceX首次回收星舰成功",
@@ -1171,6 +1187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 753167,
+      "num": 753167,
+      "word": "你目前的工资需要纳税吗",
+      "onboard_time": 1728980660,
+      "rank": 35,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 738495,
       "num": 760318,
       "word": "教师在幼儿园内驾车撞倒3名孩子致1死",
@@ -1235,6 +1259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 705083,
+      "num": 705083,
+      "word": "盛李豪世界杯10米气步枪夺冠",
+      "onboard_time": 1728980960,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 703682,
       "num": 703682,
       "word": "听泉鉴宝暗语",
@@ -1281,14 +1313,6 @@
       "onboard_time": 1728805460,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 682782,
-      "num": 470960,
-      "word": "陈赫力挺黄磊",
-      "onboard_time": 1728979160,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 676608,
@@ -1819,14 +1843,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 477149,
-      "num": 477149,
-      "word": "盛李豪世界杯10米气步枪夺冠",
-      "onboard_time": 1728980960,
-      "rank": 13,
-      "category": "体育"
-    },
-    {
       "raw_hot": 476834,
       "num": 476834,
       "word": "国乒亚锦赛两冠收官",
@@ -1848,6 +1864,14 @@
       "word": "小伙捡到疑似手雷赶紧上交",
       "onboard_time": 1728844392,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 465792,
+      "num": 465792,
+      "word": "儿子与母亲签订生老病死与己无关协议",
+      "onboard_time": 1728982940,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -1905,6 +1929,14 @@
       "onboard_time": 1728912081,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 450989,
+      "num": 450989,
+      "word": "外交部回应朝鲜半岛局势紧张",
+      "onboard_time": 1728980539,
+      "rank": 40,
+      "category": "国外时政"
     },
     {
       "raw_hot": 448567,
@@ -2153,14 +2185,6 @@
       "onboard_time": 1728902300,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 392310,
-      "num": 519703,
-      "word": "你目前的工资需要纳税吗",
-      "onboard_time": 1728980660,
-      "rank": 35,
-      "category": "社会议题"
     },
     {
       "raw_hot": 391122,
@@ -2521,6 +2545,14 @@
       "onboard_time": 1728831743,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 325689,
+      "num": 532188,
+      "word": "ITZY完整体新歌MV",
+      "onboard_time": 1728983360,
+      "rank": 13,
+      "category": "音乐"
     },
     {
       "raw_hot": 320857,
@@ -2955,14 +2987,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 270402,
-      "num": 219993,
-      "word": "外交部回应朝鲜半岛局势紧张",
-      "onboard_time": 1728980539,
-      "rank": 40,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 270242,
       "num": 270242,
       "word": "萨巴伦卡武网三连冠",
@@ -2985,6 +3009,14 @@
       "onboard_time": 1728868339,
       "rank": 30,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 266552,
+      "num": 266552,
+      "word": "全红婵说知道要减重所以吃了很多",
+      "onboard_time": 1728983479,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 266011,
@@ -3273,6 +3305,14 @@
       "onboard_time": 1728919099,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 241290,
+      "num": 241290,
+      "word": "成都拆迁地图上新",
+      "onboard_time": 1728981859,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 241085,
@@ -3736,6 +3776,14 @@
       "word": "光与夜之恋 夏鸣星",
       "onboard_time": 1728796819,
       "rank": 41,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 211144,
+      "num": 211144,
+      "word": "央视定义3A游戏",
+      "onboard_time": 1728982640,
+      "rank": 37,
       "category": "游戏"
     },
     {
@@ -4443,6 +4491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 188550,
+      "num": 188550,
+      "word": "世界之外新PV",
+      "onboard_time": 1728981620,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 188423,
       "num": 338591,
       "word": "伊朗议长驾机在以军空袭中访黎",
@@ -4499,6 +4555,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 186814,
+      "num": 186814,
+      "word": "干饭哥0.1环优势夺冠",
+      "onboard_time": 1728981620,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 186636,
       "num": 186636,
       "word": "女生被峨眉山猴子翻包气哭",
@@ -4529,6 +4593,14 @@
       "onboard_time": 1728976460,
       "rank": 43,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 186051,
+      "num": 186051,
+      "word": "林高远刘诗雯晋级混双决赛",
+      "onboard_time": 1728982039,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 185791,
@@ -4601,6 +4673,14 @@
       "onboard_time": 1728879200,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 182093,
+      "num": 182093,
+      "word": "HYBE称公司成员不包括艺人",
+      "onboard_time": 1728984080,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 182056,
@@ -4867,6 +4947,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 168206,
+      "num": 168206,
+      "word": "老赖被抓后大声反问抓我妈行不",
+      "onboard_time": 1728981440,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 168023,
       "num": 566946,
       "word": "心动的信号7最后一次约会",
@@ -4905,14 +4993,6 @@
       "onboard_time": 1728972797,
       "rank": 42,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 166721,
-      "num": 166721,
-      "word": "世界之外新PV",
-      "onboard_time": 1728981620,
-      "rank": 42,
-      "category": "游戏"
     },
     {
       "raw_hot": 165872,
@@ -4968,6 +5048,14 @@
       "word": "高雅cp",
       "onboard_time": 1728971539,
       "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 164381,
+      "num": 164381,
+      "word": "吴泽林全是情绪没有价值",
+      "onboard_time": 1728984139,
+      "rank": 49,
       "category": "综艺"
     },
     {
@@ -5353,14 +5441,6 @@
       "onboard_time": 1728869179,
       "rank": 45,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 149597,
-      "num": 149597,
-      "word": "干饭哥0.1环优势夺冠",
-      "onboard_time": 1728981620,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 148907,
@@ -7011,6 +7091,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 61170,
+      "num": 527085,
+      "word": "教育局将公布女童被泼开水事件情况",
+      "onboard_time": 1728983059,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 60784,
       "num": 217295,
       "word": "当地教育局回应学生因恶作剧被烫伤",
@@ -7164,7 +7252,7 @@
     },
     {
       "raw_hot": 52345,
-      "num": 198360,
+      "num": 320466,
       "word": "这届年轻人流行先甜后也甜",
       "onboard_time": 1728980539,
       "rank": 36,
@@ -7401,6 +7489,14 @@
       "onboard_time": 1728803598,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 45588,
+      "num": 465843,
+      "word": "和平精英最大规模皮肤返场",
+      "onboard_time": 1728983120,
+      "rank": 18,
+      "category": "游戏"
     },
     {
       "raw_hot": 45569,
@@ -7795,6 +7891,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 33059,
+      "num": 167993,
+      "word": "千年石窟 匠心传承",
+      "onboard_time": 1728983420,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 32984,
       "num": 1193593,
       "word": "哪些民生领域这次被国家钱袋子眷顾",
@@ -7931,6 +8035,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 27465,
+      "num": 466908,
+      "word": "Ador代表回应Hanni被职场霸凌",
+      "onboard_time": 1728983059,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 27449,
       "num": 28619,
       "word": "刀郎演唱会",
@@ -8060,7 +8172,7 @@
     },
     {
       "raw_hot": 22093,
-      "num": 166471,
+      "num": 371660,
       "word": "现在品牌宠粉都这么卷",
       "onboard_time": 1728981500,
       "rank": 43,
@@ -8107,6 +8219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 21009,
+      "num": 369666,
+      "word": "富贵券中求",
+      "onboard_time": 1728983238,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 20775,
       "num": 37726,
       "word": "举报违规使用医保基金最高奖励20万",
@@ -8121,6 +8241,14 @@
       "onboard_time": 1728867800,
       "rank": 16,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 20660,
+      "num": 965186,
+      "word": "我国高端装备出口增长超四成",
+      "onboard_time": 1728983840,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 20176,
@@ -8161,6 +8289,14 @@
       "onboard_time": 1728775035,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 18658,
+      "num": 185590,
+      "word": "颜怡颜悦撞脸不撞衫",
+      "onboard_time": 1728983179,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 18224,
@@ -8312,6 +8448,14 @@
       "word": "沉迷网赌明知会输仍继续参赌",
       "onboard_time": 1728861617,
       "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 9469,
+      "num": 673831,
+      "word": "规范直播带货刻不容缓",
+      "onboard_time": 1728956598,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
