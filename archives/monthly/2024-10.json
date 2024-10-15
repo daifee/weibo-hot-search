@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1728996189278,
+  "endTime": 1728997199639,
   "band_list": [
     {
       "raw_hot": 17915004,
@@ -369,6 +369,14 @@
       "onboard_time": 1728617119,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2629322,
+      "num": 2629322,
+      "word": "国足vs印尼",
+      "onboard_time": 1728991100,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 2611856,
@@ -1387,6 +1395,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 1520873,
+      "num": 1520873,
+      "word": "朝韩关系为何一下变天",
+      "onboard_time": 1728994219,
+      "rank": 3,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 1519935,
       "num": 375264,
       "word": "爱奇艺会员暂停后播放全屏广告",
@@ -1497,14 +1513,6 @@
       "onboard_time": 1728735560,
       "rank": 10,
       "category": "网红"
-    },
-    {
-      "raw_hot": 1437179,
-      "num": 1437179,
-      "word": "国足vs印尼",
-      "onboard_time": 1728991100,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 1427331,
@@ -5329,14 +5337,6 @@
       "onboard_time": 1728811519,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 721437,
-      "num": 721437,
-      "word": "朝韩关系为何一下变天",
-      "onboard_time": 1728994219,
-      "rank": 3,
-      "category": "国外时政"
     },
     {
       "raw_hot": 721032,
@@ -12963,6 +12963,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 313851,
+      "num": 438566,
+      "word": "拜合拉木破门",
+      "onboard_time": 1728995360,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 312926,
       "num": 331516,
       "word": "郑钦文回应摔倒",
@@ -13193,6 +13201,14 @@
       "onboard_time": 1728652281,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 308706,
+      "num": 393968,
+      "word": "张玉宁单刀破门",
+      "onboard_time": 1728996679,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 308699,
@@ -14032,6 +14048,14 @@
       "word": "青川地震",
       "onboard_time": 1728355279,
       "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 291300,
+      "num": 432441,
+      "word": "男子中48888现金反诈意识爆表",
+      "onboard_time": 1728996079,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -15483,6 +15507,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 265814,
+      "num": 265814,
+      "word": "郑钦文入围WTA年终总决赛",
+      "onboard_time": 1728996141,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 265444,
       "num": 265444,
       "word": "黄子韬公司艺人泰创面试",
@@ -15641,6 +15673,14 @@
       "onboard_time": 1727877680,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 263685,
+      "num": 263685,
+      "word": "为什么说抑郁症是水溶性的",
+      "onboard_time": 1728994999,
+      "rank": 32,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 263587,
@@ -17579,14 +17619,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 232119,
-      "num": 232119,
-      "word": "为什么说抑郁症是水溶性的",
-      "onboard_time": 1728994999,
-      "rank": 32,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 232011,
       "num": 260012,
       "word": "李斯丹妮快女13年后首个常驻音综",
@@ -17660,7 +17692,7 @@
     },
     {
       "raw_hot": 231312,
-      "num": 237215,
+      "num": 264625,
       "word": "奔跑吧明天集合",
       "onboard_time": 1728994039,
       "rank": 29,
@@ -18048,6 +18080,14 @@
       "word": "网友电梯偶遇王楚钦",
       "onboard_time": 1728644482,
       "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 226493,
+      "num": 226493,
+      "word": "国足对阵印尼球迷高唱歌唱祖国",
+      "onboard_time": 1728995059,
+      "rank": 34,
       "category": "体育"
     },
     {
@@ -18841,6 +18881,14 @@
       "onboard_time": 1728320836,
       "rank": 19,
       "category": "演出"
+    },
+    {
+      "raw_hot": 217557,
+      "num": 222681,
+      "word": "中国发现1.2亿年前月球仍有火山活动",
+      "onboard_time": 1728996079,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 217322,
@@ -21513,14 +21561,6 @@
       "onboard_time": 1728962119,
       "rank": 19,
       "category": "演出"
-    },
-    {
-      "raw_hot": 196125,
-      "num": 438566,
-      "word": "拜合拉木破门",
-      "onboard_time": 1728995360,
-      "rank": 11,
-      "category": "体育"
     },
     {
       "raw_hot": 196121,
@@ -25355,6 +25395,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 169795,
+      "num": 169795,
+      "word": "王者草木风华全员初亮相",
+      "onboard_time": 1728996019,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 169749,
       "num": 169749,
       "word": "河南发现距今约五千年大墓",
@@ -25425,6 +25473,14 @@
       "onboard_time": 1728541578,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 169215,
+      "num": 169215,
+      "word": "伊万带国足战绩",
+      "onboard_time": 1728996561,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 169199,
@@ -25603,6 +25659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 167973,
+      "num": 167973,
+      "word": "林高远刘诗雯vs赵钊彦孙铭阳",
+      "onboard_time": 1728992899,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 167955,
       "num": 167955,
       "word": "你坐过宝鸡到重庆双层火车吗",
@@ -25737,14 +25801,6 @@
       "onboard_time": 1728712578,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 167392,
-      "num": 167392,
-      "word": "王者草木风华全员初亮相",
-      "onboard_time": 1728996019,
-      "rank": 43,
-      "category": "游戏"
     },
     {
       "raw_hot": 167290,
@@ -26475,14 +26531,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 162681,
-      "num": 162681,
-      "word": "男子中48888现金反诈意识爆表",
-      "onboard_time": 1728996079,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 162500,
       "num": 431572,
       "word": "A股巨震之后股民怎么办",
@@ -26849,14 +26897,6 @@
       "onboard_time": 1728362662,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 159411,
-      "num": 159411,
-      "word": "郑钦文入围WTA年终总决赛",
-      "onboard_time": 1728996141,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 159364,
@@ -28627,6 +28667,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 149554,
+      "num": 149554,
+      "word": "melon抢票",
+      "onboard_time": 1728997160,
+      "rank": 49,
+      "category": "演出"
+    },
+    {
       "raw_hot": 149537,
       "num": 149537,
       "word": "男子称自己病重妻子不签字",
@@ -30243,6 +30291,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 139092,
+      "num": 447402,
+      "word": "妇产科医院回应成网红打卡地",
+      "onboard_time": 1728995780,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 139085,
       "num": 139085,
       "word": "陈芋汐红秀封面",
@@ -31689,14 +31745,6 @@
       "onboard_time": 1727857639,
       "rank": 39,
       "category": "电影"
-    },
-    {
-      "raw_hot": 129841,
-      "num": 222681,
-      "word": "中国发现1.2亿年前月球仍有火山活动",
-      "onboard_time": 1728996079,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 129828,
@@ -34441,6 +34489,14 @@
       "onboard_time": 1727867541,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 111057,
+      "num": 357025,
+      "word": "张玉宁进球后落泪",
+      "onboard_time": 1728996679,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 110954,
@@ -37627,6 +37683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 83664,
+      "num": 424310,
+      "word": "国足2比0领先印尼",
+      "onboard_time": 1728995299,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 83660,
       "num": 83660,
       "word": "最值得坚持的3件事",
@@ -37729,14 +37793,6 @@
       "onboard_time": 1728540498,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 82686,
-      "num": 447402,
-      "word": "妇产科医院回应成网红打卡地",
-      "onboard_time": 1728995780,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 82642,
@@ -41611,6 +41667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 42827,
+      "num": 355962,
+      "word": "向佐回应和李蠕蠕合拍",
+      "onboard_time": 1728996261,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 42759,
       "num": 42759,
       "word": "当事人回应酒后闹事称已道歉",
@@ -44299,6 +44363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 24927,
+      "num": 264152,
+      "word": "14.8万卖了劳力士表后被警方上网追逃",
+      "onboard_time": 1728996500,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 24907,
       "num": 142253,
       "word": "螃蟹配黄酒是全国统一的吗",
@@ -45881,6 +45953,14 @@
       "onboard_time": 1728808640,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 10391,
+      "num": 181660,
+      "word": "杨幂FILA秀场look",
+      "onboard_time": 1728996561,
+      "rank": 41,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 10294,

@@ -1,6 +1,6 @@
 {
   "startTime": 1728923247369,
-  "endTime": 1728996189278,
+  "endTime": 1728997199639,
   "band_list": [
     {
       "raw_hot": 3199759,
@@ -33,6 +33,14 @@
       "onboard_time": 1728962960,
       "rank": 1,
       "category": "国外时政,军事"
+    },
+    {
+      "raw_hot": 2629322,
+      "num": 2629322,
+      "word": "国足vs印尼",
+      "onboard_time": 1728991100,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 2468930,
@@ -115,12 +123,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1437179,
-      "num": 1437179,
-      "word": "国足vs印尼",
-      "onboard_time": 1728991100,
-      "rank": 29,
-      "category": "体育"
+      "raw_hot": 1520873,
+      "num": 1520873,
+      "word": "朝韩关系为何一下变天",
+      "onboard_time": 1728994219,
+      "rank": 3,
+      "category": "国外时政"
     },
     {
       "raw_hot": 1427331,
@@ -385,14 +393,6 @@
       "onboard_time": 1728963738,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 721437,
-      "num": 721437,
-      "word": "朝韩关系为何一下变天",
-      "onboard_time": 1728994219,
-      "rank": 3,
-      "category": "国外时政"
     },
     {
       "raw_hot": 717720,
@@ -907,6 +907,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 313851,
+      "num": 438566,
+      "word": "拜合拉木破门",
+      "onboard_time": 1728995360,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 308706,
+      "num": 393968,
+      "word": "张玉宁单刀破门",
+      "onboard_time": 1728996679,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 302449,
       "num": 302449,
       "word": "程潇沙漠公主",
@@ -953,6 +969,14 @@
       "onboard_time": 1728988219,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 291300,
+      "num": 432441,
+      "word": "男子中48888现金反诈意识爆表",
+      "onboard_time": 1728996079,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 290712,
@@ -1009,6 +1033,22 @@
       "onboard_time": 1728952460,
       "rank": 9,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 265814,
+      "num": 265814,
+      "word": "郑钦文入围WTA年终总决赛",
+      "onboard_time": 1728996141,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 263685,
+      "num": 263685,
+      "word": "为什么说抑郁症是水溶性的",
+      "onboard_time": 1728994999,
+      "rank": 32,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 262916,
@@ -1139,14 +1179,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 232119,
-      "num": 232119,
-      "word": "为什么说抑郁症是水溶性的",
-      "onboard_time": 1728994999,
-      "rank": 32,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 231822,
       "num": 231822,
       "word": "朝韩部分交界被韩指定为危险区",
@@ -1156,7 +1188,7 @@
     },
     {
       "raw_hot": 231312,
-      "num": 237215,
+      "num": 264625,
       "word": "奔跑吧明天集合",
       "onboard_time": 1728994039,
       "rank": 29,
@@ -1219,6 +1251,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 226493,
+      "num": 226493,
+      "word": "国足对阵印尼球迷高唱歌唱祖国",
+      "onboard_time": 1728995059,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 222620,
       "num": 222620,
       "word": "WTT",
@@ -1249,6 +1289,14 @@
       "onboard_time": 1728982640,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 217557,
+      "num": 222681,
+      "word": "中国发现1.2亿年前月球仍有火山活动",
+      "onboard_time": 1728996079,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 217062,
@@ -1417,14 +1465,6 @@
       "onboard_time": 1728962119,
       "rank": 19,
       "category": "演出"
-    },
-    {
-      "raw_hot": 196125,
-      "num": 438566,
-      "word": "拜合拉木破门",
-      "onboard_time": 1728995360,
-      "rank": 11,
-      "category": "体育"
     },
     {
       "raw_hot": 196121,
@@ -1683,6 +1723,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 169795,
+      "num": 169795,
+      "word": "王者草木风华全员初亮相",
+      "onboard_time": 1728996019,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 169749,
       "num": 169749,
       "word": "河南发现距今约五千年大墓",
@@ -1699,11 +1747,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 169215,
+      "num": 169215,
+      "word": "伊万带国足战绩",
+      "onboard_time": 1728996561,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 168935,
       "num": 168935,
       "word": "全国乒乓球锦标赛",
       "onboard_time": 1728991280,
       "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 167973,
+      "num": 167973,
+      "word": "林高远刘诗雯vs赵钊彦孙铭阳",
+      "onboard_time": 1728992899,
+      "rank": 46,
       "category": "体育"
     },
     {
@@ -1713,14 +1777,6 @@
       "onboard_time": 1728912500,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 167392,
-      "num": 167392,
-      "word": "王者草木风华全员初亮相",
-      "onboard_time": 1728996019,
-      "rank": 43,
-      "category": "游戏"
     },
     {
       "raw_hot": 167034,
@@ -1777,22 +1833,6 @@
       "onboard_time": 1728980000,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 162681,
-      "num": 162681,
-      "word": "男子中48888现金反诈意识爆表",
-      "onboard_time": 1728996079,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 159411,
-      "num": 159411,
-      "word": "郑钦文入围WTA年终总决赛",
-      "onboard_time": 1728996141,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 158282,
@@ -1883,6 +1923,14 @@
       "category": "综艺,电竞"
     },
     {
+      "raw_hot": 149554,
+      "num": 149554,
+      "word": "melon抢票",
+      "onboard_time": 1728997160,
+      "rank": 49,
+      "category": "演出"
+    },
+    {
       "raw_hot": 144737,
       "num": 144737,
       "word": "颜如晶半年瘦了50斤",
@@ -1913,6 +1961,14 @@
       "onboard_time": 1728971119,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 139092,
+      "num": 447402,
+      "word": "妇产科医院回应成网红打卡地",
+      "onboard_time": 1728995780,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 137570,
@@ -2003,14 +2059,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 129841,
-      "num": 222681,
-      "word": "中国发现1.2亿年前月球仍有火山活动",
-      "onboard_time": 1728996079,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 126478,
       "num": 634007,
       "word": "再见爱人",
@@ -2088,6 +2136,14 @@
       "word": "黄雨婷说18岁是浓墨重彩的一笔",
       "onboard_time": 1728987808,
       "rank": 17,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 111057,
+      "num": 357025,
+      "word": "张玉宁进球后落泪",
+      "onboard_time": 1728996679,
+      "rank": 18,
       "category": "体育"
     },
     {
@@ -2243,6 +2299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 88142,
+      "num": 429016,
+      "word": "国足进球了",
+      "onboard_time": 1728995719,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 87421,
       "num": 357652,
       "word": "罗慎远不叫七妹叫宜宁了",
@@ -2291,20 +2355,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 83664,
+      "num": 424310,
+      "word": "国足2比0领先印尼",
+      "onboard_time": 1728995299,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 83296,
       "num": 404101,
       "word": "小鹏P7+巴黎街头遭围观",
       "onboard_time": 1728961338,
       "rank": 48,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 82686,
-      "num": 447402,
-      "word": "妇产科医院回应成网红打卡地",
-      "onboard_time": 1728995780,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 82575,
@@ -2457,14 +2521,6 @@
       "onboard_time": 1728914842,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 64269,
-      "num": 429016,
-      "word": "国足进球了",
-      "onboard_time": 1728995719,
-      "rank": 16,
-      "category": "体育"
     },
     {
       "raw_hot": 63859,
@@ -2657,6 +2713,14 @@
       "onboard_time": 1728980719,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 42827,
+      "num": 355962,
+      "word": "向佐回应和李蠕蠕合拍",
+      "onboard_time": 1728996261,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 42759,
@@ -2883,6 +2947,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 24927,
+      "num": 264152,
+      "word": "14.8万卖了劳力士表后被警方上网追逃",
+      "onboard_time": 1728996500,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 22093,
       "num": 371660,
       "word": "现在品牌宠粉都这么卷",
@@ -3033,6 +3105,14 @@
       "onboard_time": 1728918440,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 10391,
+      "num": 181660,
+      "word": "杨幂FILA秀场look",
+      "onboard_time": 1728996561,
+      "rank": 41,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 8581,
