@@ -1,6 +1,6 @@
 {
   "startTime": 1728923247369,
-  "endTime": 1728977884034,
+  "endTime": 1728980948322,
   "band_list": [
     {
       "raw_hot": 3199759,
@@ -123,6 +123,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1277353,
+      "num": 1277353,
+      "word": "黄雨婷创造新世界纪录摘金",
+      "onboard_time": 1728976519,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1270329,
       "num": 710436,
       "word": "男孩赌气误食滴水观音中毒被抢救",
@@ -171,20 +179,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1072991,
-      "num": 1072991,
-      "word": "黄雨婷创造新世界纪录摘金",
-      "onboard_time": 1728976519,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1016540,
       "num": 1016540,
       "word": "薛之谦海外体育场返场官宣7站",
       "onboard_time": 1728976759,
       "rank": 8,
       "category": "演出"
+    },
+    {
+      "raw_hot": 1010374,
+      "num": 634706,
+      "word": "朝韩局势",
+      "onboard_time": 1728979219,
+      "rank": 11,
+      "category": "国外时政"
     },
     {
       "raw_hot": 871194,
@@ -267,6 +275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 714136,
+      "num": 632743,
+      "word": "周扬青 借钱出去的是孙子",
+      "onboard_time": 1728977420,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 703682,
       "num": 703682,
       "word": "听泉鉴宝暗语",
@@ -299,12 +315,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 659304,
+      "num": 620629,
+      "word": "王源公司已申请多枚客厅狂欢商标",
+      "onboard_time": 1728977118,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 658881,
       "num": 658881,
       "word": "感觉秦海璐再也不想看霸总文了",
       "onboard_time": 1728948017,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 652936,
+      "num": 652936,
+      "word": "黄雨婷大满贯",
+      "onboard_time": 1728978139,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 650577,
@@ -337,6 +369,14 @@
       "onboard_time": 1728967282,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 620284,
+      "num": 620284,
+      "word": "男子乘飞机2小时未起身致肺栓塞身亡",
+      "onboard_time": 1728977780,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 608920,
@@ -388,7 +428,7 @@
     },
     {
       "raw_hot": 489882,
-      "num": 390886,
+      "num": 399617,
       "word": "双十一仿佛在侮辱我的智商",
       "onboard_time": 1728975980,
       "rank": 21,
@@ -473,6 +513,14 @@
       "onboard_time": 1728940391,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 403156,
+      "num": 640094,
+      "word": "VOGUE盛典官宣阵容",
+      "onboard_time": 1728978139,
+      "rank": 7,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 398562,
@@ -611,14 +659,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 308156,
-      "num": 308156,
-      "word": "周扬青 借钱出去的是孙子",
-      "onboard_time": 1728977420,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 302449,
       "num": 302449,
       "word": "程潇沙漠公主",
@@ -691,6 +731,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 259603,
+      "num": 259603,
+      "word": "年收入不足10万元基本不用交个税",
+      "onboard_time": 1728973519,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 251488,
       "num": 392126,
       "word": "小S把粉丝送的小象保存了十年",
@@ -708,7 +756,7 @@
     },
     {
       "raw_hot": 248840,
-      "num": 437664,
+      "num": 622245,
       "word": "papi酱再见爱人4有啥说啥",
       "onboard_time": 1728976640,
       "rank": 39,
@@ -835,14 +883,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 218986,
-      "num": 218986,
-      "word": "王源公司已申请多枚客厅狂欢商标",
-      "onboard_time": 1728977118,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 216495,
       "num": 216495,
       "word": "文俊辉SEVENTEEN咖啡车应援",
@@ -939,6 +979,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 199798,
+      "num": 199798,
+      "word": "你目前的工资需要纳税吗",
+      "onboard_time": 1728980660,
+      "rank": 35,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 199627,
       "num": 281243,
       "word": "赵露思暗黑系COSMO封面预告",
@@ -979,6 +1027,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 197126,
+      "num": 197126,
+      "word": "各地飞往韩国的航班暂未受影响",
+      "onboard_time": 1728980478,
+      "rank": 38,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 196166,
       "num": 397001,
       "word": "GAPDAY音乐节佛山定档",
@@ -1001,6 +1057,14 @@
       "onboard_time": 1728969020,
       "rank": 27,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 195335,
+      "num": 179895,
+      "word": "外交部回应朝鲜半岛局势紧张",
+      "onboard_time": 1728980539,
+      "rank": 40,
+      "category": "国外时政"
     },
     {
       "raw_hot": 195211,
@@ -1099,14 +1163,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 177731,
-      "num": 177731,
-      "word": "男子乘飞机2小时未起身致肺栓塞身亡",
-      "onboard_time": 1728977780,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 175939,
       "num": 273167,
       "word": "沈腾喊白敬亭以为是蜡笔小新",
@@ -1129,14 +1185,6 @@
       "onboard_time": 1728913882,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 171425,
-      "num": 171425,
-      "word": "年收入不足10万元基本不用交个税",
-      "onboard_time": 1728973519,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 171057,
@@ -1211,6 +1259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 162704,
+      "num": 162704,
+      "word": "张大大玩叶珂微do梗",
+      "onboard_time": 1728980000,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 156974,
       "num": 156974,
       "word": "易烊千玺抵达云南",
@@ -1225,6 +1281,14 @@
       "onboard_time": 1728964279,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 156522,
+      "num": 430916,
+      "word": "汪东城聊明星隐婚",
+      "onboard_time": 1728976519,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 155632,
@@ -1257,6 +1321,14 @@
       "onboard_time": 1728973580,
       "rank": 46,
       "category": "综艺,电竞"
+    },
+    {
+      "raw_hot": 146148,
+      "num": 146148,
+      "word": "女生被峨眉山猴子翻包气哭",
+      "onboard_time": 1728978739,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 144737,
@@ -1313,6 +1385,30 @@
       "onboard_time": 1728956538,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 136868,
+      "num": 136868,
+      "word": "成都一库房突发火灾浓烟滚滚",
+      "onboard_time": 1728978139,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 136766,
+      "num": 136766,
+      "word": "成毅一个人的兵荒马乱",
+      "onboard_time": 1728978859,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 136300,
+      "num": 136300,
+      "word": "王楚钦孙颖莎王曼昱退出全锦赛",
+      "onboard_time": 1728980900,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 135227,
@@ -1547,14 +1643,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 89574,
-      "num": 430916,
-      "word": "汪东城聊明星隐婚",
-      "onboard_time": 1728976519,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 89533,
       "num": 805821,
       "word": "被顶替25年男子称只想要正常的人生",
@@ -1584,6 +1672,14 @@
       "word": "警方通报四川一中学学生死亡",
       "onboard_time": 1728947236,
       "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 84204,
+      "num": 638835,
+      "word": "A股成交额连续7个交易日破1.5万亿",
+      "onboard_time": 1728979762,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -1617,6 +1713,14 @@
       "onboard_time": 1728929412,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 81555,
+      "num": 626831,
+      "word": "林高远刘诗雯vs赵子豪陈熠",
+      "onboard_time": 1728979460,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 80927,
@@ -1665,6 +1769,14 @@
       "onboard_time": 1728958398,
       "rank": 15,
       "category": "数码"
+    },
+    {
+      "raw_hot": 73263,
+      "num": 625539,
+      "word": "梁伟铿王昶vs林秉纬苏敬恒",
+      "onboard_time": 1728979160,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 71000,
@@ -1747,6 +1859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 60420,
+      "num": 628533,
+      "word": "海洋奇缘2内地定档",
+      "onboard_time": 1728980900,
+      "rank": 16,
+      "category": "电影"
+    },
+    {
       "raw_hot": 59255,
       "num": 126341,
       "word": "中方再曝光美政府伏特台风计划细节",
@@ -1827,12 +1947,28 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 45940,
+      "num": 514091,
+      "word": "颐莲这一年真没闲着",
+      "onboard_time": 1728980060,
+      "rank": 25,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 45569,
       "num": 51180,
       "word": "蓦然回首",
       "onboard_time": 1728922339,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 44021,
+      "num": 631764,
+      "word": "青海有毒致6死气体确认为硫化氢",
+      "onboard_time": 1728980719,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 42759,
@@ -1915,6 +2051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 29943,
+      "num": 624802,
+      "word": "涉事养老院回应网传囚禁残疾人",
+      "onboard_time": 1728980298,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 29885,
       "num": 37072,
       "word": "朝称美国应为无人机渗透至平壤负责",
@@ -1979,6 +2123,14 @@
       "category": "国外时政,军事"
     },
     {
+      "raw_hot": 22661,
+      "num": 637013,
+      "word": "养生会所老板伙同假大师诈骗近20万",
+      "onboard_time": 1728979640,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 21475,
       "num": 44870,
       "word": "海军版山河图变装太燃了",
@@ -2017,6 +2169,14 @@
       "onboard_time": 1728934450,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 17233,
+      "num": 198360,
+      "word": "这届年轻人流行先甜后也甜",
+      "onboard_time": 1728980539,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 16186,
