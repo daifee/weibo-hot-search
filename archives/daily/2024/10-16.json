@@ -1,6 +1,6 @@
 {
   "startTime": 1729009695696,
-  "endTime": 1729024686692,
+  "endTime": 1729027284507,
   "band_list": [
     {
       "raw_hot": 941843,
@@ -499,20 +499,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 35107,
+      "num": 33369,
+      "word": "巩俐 成天戴口罩墨镜什么都看不见",
+      "onboard_time": 1729018571,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 34619,
       "num": 34619,
       "word": "朝鲜爆破道路现场画面",
       "onboard_time": 1729014912,
       "rank": 37,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 33369,
-      "num": 33369,
-      "word": "巩俐 成天戴口罩墨镜什么都看不见",
-      "onboard_time": 1729018571,
-      "rank": 36,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 33254,
@@ -531,12 +531,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 24663,
-      "num": 24663,
+      "raw_hot": 30249,
+      "num": 30249,
       "word": "男子中48888元记者通知领奖被怼",
       "onboard_time": 1728999259,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 28637,
+      "num": 30411,
+      "word": "男子自称盗墓不为钱只因为好奇",
+      "onboard_time": 1729025351,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 25517,
+      "num": 25517,
+      "word": "驻韩美军基地因怀疑有爆炸物引发骚动",
+      "onboard_time": 1729021391,
+      "rank": 33,
+      "category": "国外时政"
     },
     {
       "raw_hot": 23122,
@@ -545,14 +561,6 @@
       "onboard_time": 1729014014,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 22728,
-      "num": 22728,
-      "word": "驻韩美军基地因怀疑有爆炸物引发骚动",
-      "onboard_time": 1729021391,
-      "rank": 33,
-      "category": "国外时政"
     },
     {
       "raw_hot": 22378,
@@ -579,8 +587,24 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 21468,
-      "num": 21468,
+      "raw_hot": 21640,
+      "num": 21640,
+      "word": "国足2比1印尼",
+      "onboard_time": 1728995299,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 21594,
+      "num": 24490,
+      "word": "医保救命钱决不能变唐僧肉",
+      "onboard_time": 1729024632,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 21517,
+      "num": 21517,
       "word": "韩谴责朝鲜炸毁韩朝边境部分道路",
       "onboard_time": 1729023791,
       "rank": 46,
@@ -592,6 +616,14 @@
       "word": "盘点10年经典文艺作品名场面",
       "onboard_time": 1728995900,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 21118,
+      "num": 21118,
+      "word": "被泼开水女童父亲称孩子需要心理治疗",
+      "onboard_time": 1729024272,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -619,14 +651,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 18831,
-      "num": 18831,
-      "word": "被泼开水女童父亲称孩子需要心理治疗",
-      "onboard_time": 1729024272,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 18594,
       "num": 19287,
       "word": "医院内咖啡店回应吸引网红打卡",
@@ -635,7 +659,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 15318,
+      "raw_hot": 18009,
       "num": 38252,
       "word": "警车接生父母特别鸣谢那一辆车",
       "onboard_time": 1729022231,
@@ -643,10 +667,10 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 14169,
-      "num": 24490,
-      "word": "医保救命钱决不能变唐僧肉",
-      "onboard_time": 1729024632,
+      "raw_hot": 12731,
+      "num": 24782,
+      "word": "对欺诈骗保零容忍",
+      "onboard_time": 1729026671,
       "rank": 29,
       "category": "社会新闻"
     }
