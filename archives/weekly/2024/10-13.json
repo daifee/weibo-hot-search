@@ -1,6 +1,6 @@
 {
   "startTime": 1728750414717,
-  "endTime": 1729017845167,
+  "endTime": 1729019961052,
   "band_list": [
     {
       "raw_hot": 17915004,
@@ -7507,6 +7507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 95382,
+      "num": 45209,
+      "word": "韩国总统尹锡悦不支持率超过70%",
+      "onboard_time": 1729017614,
+      "rank": 42,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 94187,
       "num": 94187,
       "word": "林诗栋蒯曼vs李正植金琴英",
@@ -7857,6 +7865,14 @@
       "onboard_time": 1728994940,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 78863,
+      "num": 50501,
+      "word": "朝称韩军是无人机侵犯平壤主谋证据确凿",
+      "onboard_time": 1729014432,
+      "rank": 23,
+      "category": "国外时政"
     },
     {
       "raw_hot": 78027,
@@ -8409,14 +8425,6 @@
       "onboard_time": 1729015992,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 50501,
-      "num": 50501,
-      "word": "朝称韩军是无人机侵犯平壤主谋证据确凿",
-      "onboard_time": 1729014432,
-      "rank": 23,
-      "category": "国外时政"
     },
     {
       "raw_hot": 50474,
@@ -9243,14 +9251,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 28395,
-      "num": 28395,
-      "word": "韩国总统尹锡悦不支持率超过70%",
-      "onboard_time": 1729017614,
-      "rank": 42,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 28287,
       "num": 28704,
       "word": "46名老人买神药被骗仅1人报警",
@@ -9281,6 +9281,14 @@
       "onboard_time": 1728973279,
       "rank": 39,
       "category": "美食"
+    },
+    {
+      "raw_hot": 27488,
+      "num": 27488,
+      "word": "巩俐 成天戴口罩墨镜什么都看不见",
+      "onboard_time": 1729018571,
+      "rank": 36,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 27465,
@@ -9329,6 +9337,14 @@
       "onboard_time": 1728970640,
       "rank": 29,
       "category": "国外时政,军事"
+    },
+    {
+      "raw_hot": 26819,
+      "num": 26819,
+      "word": "京城大师赛",
+      "onboard_time": 1729018932,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 26760,
@@ -9441,6 +9457,14 @@
       "onboard_time": 1728981500,
       "rank": 43,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 21977,
+      "num": 36729,
+      "word": "学习新语",
+      "onboard_time": 1729018031,
+      "rank": 21,
+      "category": "国内时政"
     },
     {
       "raw_hot": 21934,
@@ -9649,6 +9673,14 @@
       "onboard_time": 1728932712,
       "rank": 9,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 15704,
+      "num": 30853,
+      "word": "河南5000年大墓出土遗物350余件",
+      "onboard_time": 1729019592,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 15618,
