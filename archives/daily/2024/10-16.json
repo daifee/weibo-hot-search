@@ -1,6 +1,6 @@
 {
   "startTime": 1729009695696,
-  "endTime": 1729017025017,
+  "endTime": 1729017845167,
   "band_list": [
     {
       "raw_hot": 941843,
@@ -427,16 +427,24 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 60389,
-      "num": 60389,
+      "raw_hot": 70578,
+      "num": 70578,
       "word": "敌军说中国话诱杀志愿军是真事",
       "onboard_time": 1729014493,
       "rank": 19,
       "category": "电影"
     },
     {
-      "raw_hot": 49694,
-      "num": 49694,
+      "raw_hot": 50622,
+      "num": 81360,
+      "word": "成都住房贷款可以商转公了",
+      "onboard_time": 1729015992,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 50501,
+      "num": 50501,
       "word": "朝称韩军是无人机侵犯平壤主谋证据确凿",
       "onboard_time": 1729014432,
       "rank": 23,
@@ -483,24 +491,32 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 29199,
-      "num": 29199,
+      "raw_hot": 31057,
+      "num": 31057,
       "word": "成都一代驾凌晨遭暴力殴打",
       "onboard_time": 1729015992,
       "rank": 41,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 28601,
-      "num": 81360,
-      "word": "成都住房贷款可以商转公了",
-      "onboard_time": 1729015992,
-      "rank": 9,
+      "raw_hot": 28395,
+      "num": 28395,
+      "word": "韩国总统尹锡悦不支持率超过70%",
+      "onboard_time": 1729017614,
+      "rank": 42,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 23122,
+      "num": 26337,
+      "word": "古代的勺子上也有满满匠心",
+      "onboard_time": 1729014014,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 21835,
-      "num": 25455,
+      "raw_hot": 22378,
+      "num": 26336,
       "word": "春花焰",
       "onboard_time": 1728990319,
       "rank": 49,
@@ -524,7 +540,7 @@
     },
     {
       "raw_hot": 19228,
-      "num": 26065,
+      "num": 70198,
       "word": "全面加强新时代新征程军事理论工作",
       "onboard_time": 1729016712,
       "rank": 46,
