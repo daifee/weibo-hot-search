@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/10/01 00:28:17 ~ 2024/10/16 06:21:11
+本榜单时间：2024/10/01 00:28:17 ~ 2024/10/16 06:39:25
 </p>
 </blockquote>
 <p>
@@ -1791,6 +1791,12 @@ Angelababy带小海绵做爱心餐（热度：1214498）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8F%AD%E4%B8%BB%E4%BB%BB%E5%9C%A8%E7%8F%AD%E7%BA%A7%E7%BE%A4%E5%8F%91%E9%A3%99%E5%90%8E%E8%A2%AB%E5%81%9C%E8%81%8C%23" target="weibo">
+班主任在班级群发飙后被停职（热度：1185984）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E9%99%85%E6%B3%95%E9%99%A2%E5%AE%A3%E5%B8%83%E4%BB%A5%E8%89%B2%E5%88%97%E4%B8%BA%E9%9D%9E%E6%B3%95%E5%9B%BD%E5%AE%B6%23" target="weibo">
 国际法院宣布以色列为非法国家（热度：1184772）
 </a>
@@ -2741,12 +2747,6 @@ A股后续将迎第二波上涨行情（热度：964810）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%B7%A5%E4%BD%9C%E7%94%B5%E8%84%91%E8%97%8F64G%E8%89%B2%E6%83%85%E8%A7%86%E9%A2%91%E8%A2%AB%E5%BC%80%E9%99%A4%23" target="weibo">
 男子工作电脑藏64G色情视频被开除（热度：936197）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8F%AD%E4%B8%BB%E4%BB%BB%E5%9C%A8%E7%8F%AD%E7%BA%A7%E7%BE%A4%E5%8F%91%E9%A3%99%E5%90%8E%E8%A2%AB%E5%81%9C%E8%81%8C%23" target="weibo">
-班主任在班级群发飙后被停职（热度：933529）
 </a>
 </li>
 
