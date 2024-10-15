@@ -1,0 +1,410 @@
+{
+  "runTime": 1728956593433,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1187663,
+        "num": 1190026,
+        "word": "听泉鉴宝称从未说过自己是北大的",
+        "onboard_time": 1728948618,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 819767,
+        "num": 819767,
+        "word": "初三男生跳高1.91米打破学校纪录",
+        "onboard_time": 1728950898,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 15343,
+        "num": 686899,
+        "word": "我国将打造全球最大规模低空通信网",
+        "onboard_time": 1728913460,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 658881,
+        "num": 658881,
+        "word": "感觉秦海璐再也不想看霸总文了",
+        "onboard_time": 1728948017,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 543906,
+        "num": 543906,
+        "word": "孙子在哪上学爷爷就在哪当保安",
+        "onboard_time": 1728948618,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 525355,
+        "num": 525355,
+        "word": "千万主播学历造假频繁发生",
+        "onboard_time": 1728927794,
+        "rank": 5,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 509056,
+        "num": 509056,
+        "word": "胖东来拒绝网红直播是以顾客为本",
+        "onboard_time": 1728925814,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 462442,
+        "num": 462442,
+        "word": "警方通报老头乐高速逆行发生事故",
+        "onboard_time": 1728950420,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 452355,
+        "num": 452355,
+        "word": "国考 没岗",
+        "onboard_time": 1728919880,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 271279,
+        "num": 444712,
+        "word": "刘学义吹火折子这一下",
+        "onboard_time": 1728952460,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 625541,
+        "num": 443547,
+        "word": "鹿晗吃肘子",
+        "onboard_time": 1728950839,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 457908,
+        "num": 443371,
+        "word": "百万粉丝网红脑溢血昏迷8天后离世",
+        "onboard_time": 1728920601,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 439835,
+        "num": 439835,
+        "word": "Jennie推特被封",
+        "onboard_time": 1728916401,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 432717,
+        "num": 432717,
+        "word": "印度和加拿大相互驱逐外交官",
+        "onboard_time": 1728953600,
+        "rank": 13,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 267014,
+        "num": 352277,
+        "word": "第一个中国人上太空已经21年了",
+        "onboard_time": 1728956478,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 70157,
+        "num": 351152,
+        "word": "小伙2个抱摔帮民警一招制服嫌犯",
+        "onboard_time": 1728955638,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 350746,
+        "num": 350746,
+        "word": "宝妈用狗尾巴草给孩子点痣惊呆网友",
+        "onboard_time": 1728920301,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 310564,
+        "num": 310564,
+        "word": "美国海底窃听光缆真实图像",
+        "onboard_time": 1728919520,
+        "rank": 17,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 297735,
+        "num": 297735,
+        "word": "王一珩 抄袭",
+        "onboard_time": 1728910641,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 285601,
+        "num": 285601,
+        "word": "100秒打卡中国载人航天任务",
+        "onboard_time": 1728956538,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 811246,
+        "num": 284208,
+        "word": "杭州一女生夜晚被强行猥亵",
+        "onboard_time": 1728919162,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 669603,
+        "num": 282027,
+        "word": "王楚钦 退赛",
+        "onboard_time": 1728913521,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 297353,
+        "num": 278125,
+        "word": "林诗栋排名世界第2",
+        "onboard_time": 1728955458,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 262676,
+        "num": 277459,
+        "word": "老师校内交通肇事致女童身亡",
+        "onboard_time": 1728925515,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 275186,
+        "num": 275186,
+        "word": "4家药店伪造上万张处方金额过亿",
+        "onboard_time": 1728950960,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 273968,
+        "num": 273968,
+        "word": "朴宝英朴炯植坐一起",
+        "onboard_time": 1728956058,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 271816,
+        "num": 271816,
+        "word": "3人故意吃虫子让火锅店赔1500",
+        "onboard_time": 1728914842,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253712,
+        "num": 253712,
+        "word": "文旅局干部酒后大闹酒店实为借权耍横",
+        "onboard_time": 1728952279,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109855,
+        "num": 252176,
+        "word": "听泉鉴宝究竟是剧本还是真有其事",
+        "onboard_time": 1728936791,
+        "rank": 28,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 104766,
+        "num": 244930,
+        "word": "灯花笑 虞书欣",
+        "onboard_time": 1728919999,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 202292,
+        "num": 243756,
+        "word": "女子被高坠水箱精准罩住超淡定",
+        "onboard_time": 1728948557,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200350,
+        "num": 236505,
+        "word": "小猫的脸都要流下来了",
+        "onboard_time": 1728950178,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 185228,
+        "num": 235114,
+        "word": "男友炖鸡汤没处理鸡蛋还在肚子里",
+        "onboard_time": 1728947537,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 230767,
+        "num": 230767,
+        "word": "神五飞天已经是21年前了",
+        "onboard_time": 1728956538,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 170321,
+        "num": 170321,
+        "word": "漠河已经下暴雪啦",
+        "onboard_time": 1728950719,
+        "rank": 34,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 167379,
+        "num": 167379,
+        "word": "赵露思 自己化妆",
+        "onboard_time": 1728916520,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155632,
+        "num": 155632,
+        "word": "白敬亭31岁生日plog",
+        "onboard_time": 1728949517,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149046,
+        "num": 149046,
+        "word": "男孩赌气误食滴水观音中毒被抢救",
+        "onboard_time": 1728954800,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143719,
+        "num": 143719,
+        "word": "易烊千玺抵达云南",
+        "onboard_time": 1728951500,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137351,
+        "num": 137351,
+        "word": "中消协提醒理性辨识第三方测评",
+        "onboard_time": 1728956538,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134827,
+        "num": 134827,
+        "word": "教委回应班主任在班级群发飙",
+        "onboard_time": 1728948017,
+        "rank": 40,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 130118,
+        "num": 130118,
+        "word": "萧敬腾婚礼堪比演唱会",
+        "onboard_time": 1728921139,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128121,
+        "num": 128121,
+        "word": "天蝎座嫌你弱又怕你强",
+        "onboard_time": 1728955580,
+        "rank": 42,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 106216,
+        "num": 128097,
+        "word": "双十一定金",
+        "onboard_time": 1728916463,
+        "rank": 43,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 102317,
+        "num": 128074,
+        "word": "22个纸箱装钱压得车上不了地库斜坡",
+        "onboard_time": 1728920960,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100124,
+        "num": 128031,
+        "word": "00后夫妻仅花百元购置结婚三件套",
+        "onboard_time": 1728919880,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 99093,
+        "num": 128001,
+        "word": "河南发现距今约五千年大墓",
+        "onboard_time": 1728954979,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96627,
+        "num": 127994,
+        "word": "疾控部门回应广东蟑螂已进化",
+        "onboard_time": 1728907638,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 84032,
+        "num": 127937,
+        "word": "武艺说编剧都编不出杨子的回答",
+        "onboard_time": 1728948438,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 82264,
+        "num": 127909,
+        "word": "刘学义 荆北著名疯璟",
+        "onboard_time": 1728954739,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#深悟总书记的文艺观#"
+    }
+  }
+}
