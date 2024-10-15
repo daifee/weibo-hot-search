@@ -1,6 +1,6 @@
 {
   "startTime": 1728750414717,
-  "endTime": 1728962943086,
+  "endTime": 1728963820755,
   "band_list": [
     {
       "raw_hot": 17915004,
@@ -467,7 +467,7 @@
       "category": "教育"
     },
     {
-      "raw_hot": 1227078,
+      "raw_hot": 1234467,
       "num": 1227078,
       "word": "听泉鉴宝称从未说过自己是北大的",
       "onboard_time": 1728948618,
@@ -512,6 +512,14 @@
       "word": "奥利 背刺",
       "onboard_time": 1728818420,
       "rank": 6,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1170833,
+      "num": 1187333,
+      "word": "黄磊没少看神厨小福贵吧",
+      "onboard_time": 1728960258,
+      "rank": 19,
       "category": "综艺"
     },
     {
@@ -627,6 +635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 976291,
+      "num": 421075,
+      "word": "日本孤独死",
+      "onboard_time": 1728962178,
+      "rank": 16,
+      "category": "情感"
+    },
+    {
       "raw_hot": 962445,
       "num": 752956,
       "word": "村主任撞人致死赔650万后改判15年",
@@ -665,6 +681,14 @@
       "onboard_time": 1728787819,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 936871,
+      "num": 936871,
+      "word": "韩军称朝鲜炸毁部分朝韩间道路",
+      "onboard_time": 1728962960,
+      "rank": 1,
+      "category": "国外时政,军事"
     },
     {
       "raw_hot": 932306,
@@ -1011,6 +1035,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 733349,
+      "num": 733349,
+      "word": "年收入10万元以内基本不用缴纳个税",
+      "onboard_time": 1728961159,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 729913,
       "num": 729913,
       "word": "解放军3次台海行动示意图叠加",
@@ -1032,14 +1064,6 @@
       "word": "警方通报老头乐高速逆行发生事故",
       "onboard_time": 1728950420,
       "rank": 7,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 716751,
-      "num": 716751,
-      "word": "年收入10万元以内基本不用缴纳个税",
-      "onboard_time": 1728961159,
-      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -1233,14 +1257,6 @@
       "onboard_time": 1728831083,
       "rank": 3,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 603374,
-      "num": 603374,
-      "word": "黄磊没少看神厨小福贵吧",
-      "onboard_time": 1728960258,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 595686,
@@ -1763,6 +1779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 426069,
+      "num": 426069,
+      "word": "中国将进行太阳系考古",
+      "onboard_time": 1728960679,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 424072,
       "num": 362502,
       "word": "吹牛老爹",
@@ -1795,6 +1819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 411361,
+      "num": 411361,
+      "word": "员工不服调岗被解雇起诉获赔17万",
+      "onboard_time": 1728960317,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 408879,
       "num": 408879,
       "word": "徐锦江拍过最辛苦的戏是西游记",
@@ -1809,14 +1841,6 @@
       "onboard_time": 1728839474,
       "rank": 8,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 399690,
-      "num": 399690,
-      "word": "日本孤独死",
-      "onboard_time": 1728962178,
-      "rank": 16,
-      "category": "情感"
     },
     {
       "raw_hot": 399087,
@@ -1873,14 +1897,6 @@
       "onboard_time": 1728906858,
       "rank": 24,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 387589,
-      "num": 407031,
-      "word": "中国将进行太阳系考古",
-      "onboard_time": 1728960679,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 385118,
@@ -1977,6 +1993,14 @@
       "onboard_time": 1728873559,
       "rank": 25,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 359560,
+      "num": 359560,
+      "word": "徐冬冬尹子维改学粤语了",
+      "onboard_time": 1728963259,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 354763,
@@ -2203,14 +2227,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 320463,
-      "num": 320463,
-      "word": "员工不服调岗被解雇起诉获赔17万",
-      "onboard_time": 1728960317,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 317715,
       "num": 317715,
       "word": "王者周年庆送传说皮肤",
@@ -2409,6 +2425,14 @@
       "onboard_time": 1728897019,
       "rank": 8,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 290712,
+      "num": 290712,
+      "word": "桑启鸣野蒿皮肤",
+      "onboard_time": 1728962238,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 289674,
@@ -2915,6 +2939,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 230760,
+      "num": 230760,
+      "word": "鉴宝直播要经得起公众掌眼",
+      "onboard_time": 1728962960,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 230692,
       "num": 249486,
       "word": "生物科技公司气体中毒事故致7死4伤",
@@ -2928,6 +2960,14 @@
       "word": "敦促美方立即停止全球范围内网络攻击",
       "onboard_time": 1728898700,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 230252,
+      "num": 230252,
+      "word": "贵州小学生和李白隔空对诗",
+      "onboard_time": 1728963439,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -2985,14 +3025,6 @@
       "onboard_time": 1728960378,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 226376,
-      "num": 226376,
-      "word": "桑启鸣野蒿皮肤",
-      "onboard_time": 1728962238,
-      "rank": 32,
-      "category": "游戏"
     },
     {
       "raw_hot": 225678,
@@ -3153,6 +3185,14 @@
       "onboard_time": 1728898339,
       "rank": 36,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 216495,
+      "num": 216495,
+      "word": "文俊辉SEVENTEEN咖啡车应援",
+      "onboard_time": 1728963078,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 215811,
@@ -3473,6 +3513,14 @@
       "onboard_time": 1728956838,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 201761,
+      "num": 201761,
+      "word": "陈都灵 机械姬",
+      "onboard_time": 1728963259,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 201291,
@@ -3987,6 +4035,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 181719,
+      "num": 181719,
+      "word": "撞电动车被要2500后越想越不对",
+      "onboard_time": 1728963679,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 181671,
       "num": 333146,
       "word": "幼教老师吐槽每天都有开不完的会",
@@ -4323,6 +4379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 162870,
+      "num": 162870,
+      "word": "听泉鉴宝暗语",
+      "onboard_time": 1728963798,
+      "rank": 41,
+      "category": "网红"
+    },
+    {
       "raw_hot": 162837,
       "num": 162837,
       "word": "郑钦文希望未来能在武网圆梦夺冠",
@@ -4449,6 +4513,14 @@
       "onboard_time": 1728780377,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 156104,
+      "num": 156104,
+      "word": "哈尔滨一药店见检查来紧急不卖药了",
+      "onboard_time": 1728963738,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 155632,
@@ -5979,6 +6051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 69312,
+      "num": 762206,
+      "word": "美国假旗行动污染全球网络空间",
+      "onboard_time": 1728958398,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 68959,
       "num": 487769,
       "word": "淘宝百亿补贴111元抢小米三件套",
@@ -6024,14 +6104,6 @@
       "word": "网传运城一医院晚上变歌舞厅",
       "onboard_time": 1728890899,
       "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 65695,
-      "num": 714962,
-      "word": "美国假旗行动污染全球网络空间",
-      "onboard_time": 1728958398,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -6153,6 +6225,14 @@
       "onboard_time": 1728893180,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 58794,
+      "num": 404101,
+      "word": "小鹏P7+巴黎街头遭围观",
+      "onboard_time": 1728961338,
+      "rank": 48,
+      "category": "汽车"
     },
     {
       "raw_hot": 57307,
@@ -6547,20 +6627,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 42544,
+      "num": 400941,
+      "word": "拜登被爆私下曾称以总理坏蛋",
+      "onboard_time": 1728963198,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 42454,
       "num": 200510,
       "word": "广西发现新物种阳朔风筝果",
       "onboard_time": 1728842053,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 42053,
-      "num": 398932,
-      "word": "小鹏P7+巴黎街头遭围观",
-      "onboard_time": 1728961338,
-      "rank": 48,
-      "category": "汽车"
     },
     {
       "raw_hot": 41571,
@@ -6601,6 +6681,14 @@
       "onboard_time": 1728893658,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 39944,
+      "num": 155307,
+      "word": "中国汽车如何更好走出国门",
+      "onboard_time": 1728963498,
+      "rank": 45,
+      "category": "汽车"
     },
     {
       "raw_hot": 38471,
@@ -6849,6 +6937,14 @@
       "onboard_time": 1728845293,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 30451,
+      "num": 404993,
+      "word": "听泉鉴宝停播公司人员称其太累要休息",
+      "onboard_time": 1728963559,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 29886,
@@ -7265,6 +7361,14 @@
       "onboard_time": 1728735319,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 8969,
+      "num": 402594,
+      "word": "大冰不带货的原因",
+      "onboard_time": 1728963738,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 8581,
