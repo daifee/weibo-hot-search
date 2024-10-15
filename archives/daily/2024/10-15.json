@@ -1,6 +1,6 @@
 {
   "startTime": 1728923247369,
-  "endTime": 1728984263067,
+  "endTime": 1728985108731,
   "band_list": [
     {
       "raw_hot": 3199759,
@@ -59,6 +59,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1841975,
+      "num": 1174106,
+      "word": "孙杨代替王楚钦出战全锦赛男团比赛",
+      "onboard_time": 1728982400,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1785625,
       "num": 939830,
       "word": "秦奋给韦雪刷礼物",
@@ -108,7 +116,7 @@
     },
     {
       "raw_hot": 1356120,
-      "num": 649484,
+      "num": 729164,
       "word": "朝韩局势",
       "onboard_time": 1728979219,
       "rank": 11,
@@ -187,12 +195,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1088168,
-      "num": 1174106,
-      "word": "孙杨代替王楚钦出战全锦赛男团比赛",
-      "onboard_time": 1728982400,
-      "rank": 0,
-      "category": "体育"
+      "raw_hot": 1104923,
+      "num": 1289864,
+      "word": "儿子与母亲签订生老病死与己无关协议",
+      "onboard_time": 1728982940,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1075468,
@@ -259,6 +267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 784629,
+      "num": 784629,
+      "word": "你目前的工资需要纳税吗",
+      "onboard_time": 1728980660,
+      "rank": 35,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 770243,
       "num": 731648,
       "word": "陈都灵 机械姬",
@@ -273,14 +289,6 @@
       "onboard_time": 1728956478,
       "rank": 14,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 753167,
-      "num": 753167,
-      "word": "你目前的工资需要纳税吗",
-      "onboard_time": 1728980660,
-      "rank": 35,
-      "category": "社会议题"
     },
     {
       "raw_hot": 734233,
@@ -480,14 +488,6 @@
       "word": "宝妈用狗尾巴草给孩子点痣惊呆网友",
       "onboard_time": 1728920301,
       "rank": 12,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 465792,
-      "num": 465792,
-      "word": "儿子与母亲签订生老病死与己无关协议",
-      "onboard_time": 1728982940,
-      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -692,7 +692,7 @@
     },
     {
       "raw_hot": 325689,
-      "num": 532188,
+      "num": 751734,
       "word": "ITZY完整体新歌MV",
       "onboard_time": 1728983360,
       "rank": 13,
@@ -731,6 +731,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 300346,
+      "num": 300346,
+      "word": "全红婵说知道要减重所以吃了很多",
+      "onboard_time": 1728983479,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 297334,
       "num": 297334,
       "word": "全红婵陈芋汐恢复训练",
@@ -745,6 +753,14 @@
       "onboard_time": 1728973639,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 293469,
+      "num": 293469,
+      "word": "ITZY回归",
+      "onboard_time": 1728984799,
+      "rank": 24,
+      "category": "音乐"
     },
     {
       "raw_hot": 290712,
@@ -793,14 +809,6 @@
       "onboard_time": 1728952460,
       "rank": 9,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 266552,
-      "num": 266552,
-      "word": "全红婵说知道要减重所以吃了很多",
-      "onboard_time": 1728983479,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 259603,
@@ -963,6 +971,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 218251,
+      "num": 218251,
+      "word": "央视定义3A游戏",
+      "onboard_time": 1728982640,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 216495,
       "num": 216495,
       "word": "文俊辉SEVENTEEN咖啡车应援",
@@ -993,14 +1009,6 @@
       "onboard_time": 1728963198,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 211144,
-      "num": 211144,
-      "word": "央视定义3A游戏",
-      "onboard_time": 1728982640,
-      "rank": 37,
-      "category": "游戏"
     },
     {
       "raw_hot": 208662,
@@ -1187,6 +1195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 189080,
+      "num": 189080,
+      "word": "老赖被抓后大声反问抓我妈行不",
+      "onboard_time": 1728981440,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 188550,
       "num": 188550,
       "word": "世界之外新PV",
@@ -1315,6 +1331,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 170215,
+      "num": 170215,
+      "word": "杨幂 杨的三次方",
+      "onboard_time": 1728985039,
+      "rank": 39,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 169749,
       "num": 169749,
       "word": "河南发现距今约五千年大墓",
@@ -1329,14 +1353,6 @@
       "onboard_time": 1728981679,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 168206,
-      "num": 168206,
-      "word": "老赖被抓后大声反问抓我妈行不",
-      "onboard_time": 1728981440,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 167827,
@@ -1457,6 +1473,14 @@
       "onboard_time": 1728955580,
       "rank": 42,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 151938,
+      "num": 151938,
+      "word": "国家队恭喜黄雨婷",
+      "onboard_time": 1728984259,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 150903,
@@ -1779,6 +1803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 88639,
+      "num": 527085,
+      "word": "教育局将公布女童被泼开水事件情况",
+      "onboard_time": 1728983059,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 87421,
       "num": 357652,
       "word": "罗慎远不叫七妹叫宜宁了",
@@ -1987,20 +2019,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 61170,
-      "num": 527085,
-      "word": "教育局将公布女童被泼开水事件情况",
-      "onboard_time": 1728983059,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 59255,
       "num": 126341,
       "word": "中方再曝光美政府伏特台风计划细节",
       "onboard_time": 1728938591,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 57892,
+      "num": 465843,
+      "word": "和平精英最大规模皮肤返场",
+      "onboard_time": 1728983120,
+      "rank": 18,
+      "category": "游戏"
     },
     {
       "raw_hot": 57068,
@@ -2089,14 +2121,6 @@
       "onboard_time": 1728975921,
       "rank": 35,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 45588,
-      "num": 465843,
-      "word": "和平精英最大规模皮肤返场",
-      "onboard_time": 1728983120,
-      "rank": 18,
-      "category": "游戏"
     },
     {
       "raw_hot": 45569,
@@ -2211,6 +2235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 30849,
+      "num": 965186,
+      "word": "我国高端装备出口增长超四成",
+      "onboard_time": 1728983840,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 30451,
       "num": 404993,
       "word": "听泉鉴宝停播公司人员称其太累要休息",
@@ -2307,20 +2339,20 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 21429,
+      "num": 369666,
+      "word": "富贵券中求",
+      "onboard_time": 1728983238,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 21254,
       "num": 21254,
       "word": "诗情画奕上海时装周",
       "onboard_time": 1728933612,
       "rank": 45,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 21009,
-      "num": 369666,
-      "word": "富贵券中求",
-      "onboard_time": 1728983238,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 20775,
@@ -2331,15 +2363,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 20660,
-      "num": 965186,
-      "word": "我国高端装备出口增长超四成",
-      "onboard_time": 1728983840,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 18658,
+      "raw_hot": 20229,
       "num": 185590,
       "word": "颜怡颜悦撞脸不撞衫",
       "onboard_time": 1728983179,
@@ -2403,6 +2427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 13732,
+      "num": 730686,
+      "word": "规范直播带货刻不容缓",
+      "onboard_time": 1728956598,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 13099,
       "num": 197898,
       "word": "制片人说再见爱人不会给嘉宾剧本",
@@ -2425,14 +2457,6 @@
       "onboard_time": 1728918440,
       "rank": 24,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 9469,
-      "num": 673831,
-      "word": "规范直播带货刻不容缓",
-      "onboard_time": 1728956598,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 8581,
