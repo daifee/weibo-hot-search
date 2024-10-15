@@ -1,10 +1,10 @@
 {
   "startTime": 1729009695696,
-  "endTime": 1729034601200,
+  "endTime": 1729035409204,
   "band_list": [
     {
-      "raw_hot": 2436148,
-      "num": 2436148,
+      "raw_hot": 2678791,
+      "num": 2678791,
       "word": "班主任在班级群发飙后被停职",
       "onboard_time": 1729010117,
       "rank": 9,
@@ -28,10 +28,26 @@
     },
     {
       "raw_hot": 820289,
-      "num": 282349,
+      "num": 289436,
       "word": "死者父亲将起诉出轨儿媳索赔150万",
       "onboard_time": 1729006759,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 694248,
+      "num": 386596,
+      "word": "韩国总统尹锡悦不支持率超过70%",
+      "onboard_time": 1729017614,
+      "rank": 42,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 664397,
+      "num": 295372,
+      "word": "14.8万卖了劳力士表后被警方上网追逃",
+      "onboard_time": 1728996500,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -43,14 +59,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 629743,
-      "num": 344755,
-      "word": "韩国总统尹锡悦不支持率超过70%",
-      "onboard_time": 1729017614,
-      "rank": 42,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 619249,
       "num": 619249,
       "word": "戴鲨鱼夹摔倒重度昏迷女子被接回家",
@@ -59,12 +67,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 600629,
-      "num": 242641,
-      "word": "14.8万卖了劳力士表后被警方上网追逃",
-      "onboard_time": 1728996500,
-      "rank": 28,
-      "category": "社会新闻"
+      "raw_hot": 588275,
+      "num": 588275,
+      "word": "朝韩关系为何一下变天",
+      "onboard_time": 1728994219,
+      "rank": 4,
+      "category": "国外时政"
     },
     {
       "raw_hot": 568337,
@@ -75,12 +83,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 563893,
-      "num": 563893,
-      "word": "朝韩关系为何一下变天",
-      "onboard_time": 1728994219,
-      "rank": 4,
-      "category": "国外时政"
+      "raw_hot": 537280,
+      "num": 278781,
+      "word": "女子因领导批评压力过大变成木头人",
+      "onboard_time": 1728985700,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 534724,
@@ -89,14 +97,6 @@
       "onboard_time": 1728979160,
       "rank": 6,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 461450,
-      "num": 278781,
-      "word": "女子因领导批评压力过大变成木头人",
-      "onboard_time": 1728985700,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 447514,
@@ -108,7 +108,7 @@
     },
     {
       "raw_hot": 411805,
-      "num": 347199,
+      "num": 393720,
       "word": "粥饼伦终于开店了",
       "onboard_time": 1729008679,
       "rank": 17,
@@ -163,8 +163,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 252963,
-      "num": 236777,
+      "raw_hot": 261473,
+      "num": 261473,
       "word": "巩俐 成天戴口罩墨镜什么都看不见",
       "onboard_time": 1729018571,
       "rank": 36,
@@ -187,6 +187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 237497,
+      "num": 237497,
+      "word": "男子中48888现金反诈意识爆表",
+      "onboard_time": 1728996079,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 227364,
       "num": 227364,
       "word": "hanni哭了",
@@ -201,14 +209,6 @@
       "onboard_time": 1728964940,
       "rank": 19,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 218629,
-      "num": 218629,
-      "word": "男子中48888现金反诈意识爆表",
-      "onboard_time": 1728996079,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 217525,
@@ -235,12 +235,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 174895,
+      "num": 174895,
+      "word": "蔡依林 你去年也这样讲吧",
+      "onboard_time": 1729031474,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 174651,
       "num": 174651,
       "word": "印尼球员说国足浪费时间",
       "onboard_time": 1729005080,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 174130,
+      "num": 179764,
+      "word": "漠河今秋首场暴雪",
+      "onboard_time": 1729033275,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 172909,
@@ -259,6 +275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 162145,
+      "num": 162145,
+      "word": "为什么说抑郁症是水溶性的",
+      "onboard_time": 1728994999,
+      "rank": 36,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 157669,
       "num": 152000,
       "word": "赵丽颖后援会直播",
@@ -275,36 +299,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 154021,
-      "num": 154021,
-      "word": "谢娜还是那个谢娜",
-      "onboard_time": 1729006339,
-      "rank": 29,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 151899,
-      "num": 151899,
-      "word": "为什么说抑郁症是水溶性的",
-      "onboard_time": 1728994999,
-      "rank": 36,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 151432,
-      "num": 134500,
+      "raw_hot": 156928,
+      "num": 156928,
       "word": "HANNI称从出道就被无视",
       "onboard_time": 1729013174,
       "rank": 14,
       "category": "艺人"
     },
     {
-      "raw_hot": 150926,
-      "num": 150926,
-      "word": "蔡依林 你去年也这样讲吧",
-      "onboard_time": 1729031474,
-      "rank": 42,
-      "category": "作品衍生"
+      "raw_hot": 156320,
+      "num": 156320,
+      "word": "敌军说中国话诱杀志愿军是真事",
+      "onboard_time": 1729014493,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 154021,
+      "num": 154021,
+      "word": "谢娜还是那个谢娜",
+      "onboard_time": 1729006339,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 149265,
@@ -315,14 +331,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 142471,
-      "num": 142471,
-      "word": "敌军说中国话诱杀志愿军是真事",
-      "onboard_time": 1729014493,
-      "rank": 19,
-      "category": "电影"
-    },
-    {
       "raw_hot": 134904,
       "num": 134904,
       "word": "秦奋给韦雪刷礼物",
@@ -331,8 +339,16 @@
       "category": "网红"
     },
     {
-      "raw_hot": 131982,
-      "num": 131982,
+      "raw_hot": 134076,
+      "num": 134076,
+      "word": "鉴宝主播需要为鉴定结果负责吗",
+      "onboard_time": 1729032433,
+      "rank": 28,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 133084,
+      "num": 133084,
       "word": "上海一妇产医院成网红打卡地",
       "onboard_time": 1728991819,
       "rank": 40,
@@ -355,8 +371,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 113489,
-      "num": 113489,
+      "raw_hot": 118626,
+      "num": 118626,
       "word": "朝称韩军是无人机侵犯平壤主谋证据确凿",
       "onboard_time": 1729014432,
       "rank": 23,
@@ -369,14 +385,6 @@
       "onboard_time": 1728965419,
       "rank": 37,
       "category": "读书作家"
-    },
-    {
-      "raw_hot": 108618,
-      "num": 108618,
-      "word": "鉴宝主播需要为鉴定结果负责吗",
-      "onboard_time": 1729032433,
-      "rank": 28,
-      "category": "网红"
     },
     {
       "raw_hot": 108550,
@@ -395,11 +403,19 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 102997,
-      "num": 102997,
+      "raw_hot": 104539,
+      "num": 104539,
       "word": "男子中48888元记者通知领奖被怼",
       "onboard_time": 1728999259,
       "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 103893,
+      "num": 103893,
+      "word": "成都一代驾凌晨遭暴力殴打",
+      "onboard_time": 1729015992,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -409,14 +425,6 @@
       "onboard_time": 1729021391,
       "rank": 33,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 99662,
-      "num": 99662,
-      "word": "成都一代驾凌晨遭暴力殴打",
-      "onboard_time": 1729015992,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 98048,
@@ -515,6 +523,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 79051,
+      "num": 79051,
+      "word": "被熊猫幼崽亲一口是啥感觉啊",
+      "onboard_time": 1729031893,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 74056,
+      "num": 74056,
+      "word": "王者荣耀",
+      "onboard_time": 1729034717,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 74000,
       "num": 74000,
       "word": "韩谴责朝鲜炸毁韩朝边境部分道路",
@@ -523,12 +547,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 64216,
-      "num": 64216,
-      "word": "被熊猫幼崽亲一口是啥感觉啊",
-      "onboard_time": 1729031893,
-      "rank": 48,
-      "category": "幽默"
+      "raw_hot": 60128,
+      "num": 302225,
+      "word": "收到1分钱找回了丢失1个月行李箱",
+      "onboard_time": 1729034477,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 50622,
@@ -560,14 +584,6 @@
       "word": "火锅店免费美甲服务变抄作业",
       "onboard_time": 1729013113,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 46866,
-      "num": 179764,
-      "word": "漠河今秋首场暴雪",
-      "onboard_time": 1729033275,
-      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -656,14 +672,6 @@
       "word": "医保救命钱决不能变唐僧肉",
       "onboard_time": 1729024632,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 21381,
-      "num": 137612,
-      "word": "收到1分钱找回了丢失1个月行李箱",
-      "onboard_time": 1729034477,
-      "rank": 24,
       "category": "社会新闻"
     },
     {

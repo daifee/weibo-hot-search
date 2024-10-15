@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/10/01 00:28:17 ~ 2024/10/16 07:23:21
+本榜单时间：2024/10/01 00:28:17 ~ 2024/10/16 07:36:49
 </p>
 </blockquote>
 <p>
@@ -279,6 +279,12 @@ A股涨停（热度：2966593）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8F%AD%E4%B8%BB%E4%BB%BB%E5%9C%A8%E7%8F%AD%E7%BA%A7%E7%BE%A4%E5%8F%91%E9%A3%99%E5%90%8E%E8%A2%AB%E5%81%9C%E8%81%8C%23" target="weibo">
+班主任在班级群发飙后被停职（热度：2678791）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%86%9B%E7%A7%B0%E6%9C%9D%E9%B2%9C%E7%82%B8%E6%AF%81%E9%83%A8%E5%88%86%E6%9C%9D%E9%9F%A9%E9%97%B4%E9%81%93%E8%B7%AF%23" target="weibo">
 韩军称朝鲜炸毁部分朝韩间道路（热度：2671889）
 </a>
@@ -371,12 +377,6 @@ k总（热度：2611084）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%9C%E5%8C%97%E9%9B%A8%E5%A7%90%E5%94%AE%E5%8D%96%E7%9A%84%E7%B2%89%E6%9D%A1%E6%A3%80%E6%B5%8B%E7%BB%93%E6%9E%9C%E5%B7%B2%E5%87%BA%23" target="weibo">
 东北雨姐售卖的粉条检测结果已出（热度：2456248）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8F%AD%E4%B8%BB%E4%BB%BB%E5%9C%A8%E7%8F%AD%E7%BA%A7%E7%BE%A4%E5%8F%91%E9%A3%99%E5%90%8E%E8%A2%AB%E5%81%9C%E8%81%8C%23" target="weibo">
-班主任在班级群发飙后被停职（热度：2436148）
 </a>
 </li>
 
@@ -4269,6 +4269,12 @@ SM确认洪承汉不退团（热度：728564）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E6%80%BB%E7%BB%9F%E5%B0%B9%E9%94%A1%E6%82%A6%E4%B8%8D%E6%94%AF%E6%8C%81%E7%8E%87%E8%B6%85%E8%BF%8770%25%23" target="weibo">
+韩国总统尹锡悦不支持率超过70%（热度：694248）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8F%90%E9%86%92%E6%88%91%E5%85%AC%E6%B0%91%E6%9A%82%E5%8B%BF%E5%89%8D%E5%BE%80%E4%BB%A5%E8%89%B2%E5%88%97%23" target="weibo">
 提醒我公民暂勿前往以色列（热度：694003）
 </a>
@@ -4559,6 +4565,12 @@ WBG对战G2（热度：687029）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E7%A7%B0%E5%90%91%E4%BB%A5%E8%89%B2%E5%88%97%E5%8F%91%E5%B0%84%E5%AF%BC%E5%BC%B9%E4%B8%BA%E5%90%88%E6%B3%95%E9%98%B2%E5%BE%A1%23" target="weibo">
 伊朗称向以色列发射导弹为合法防御（热度：664525）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%2314.8%E4%B8%87%E5%8D%96%E4%BA%86%E5%8A%B3%E5%8A%9B%E5%A3%AB%E8%A1%A8%E5%90%8E%E8%A2%AB%E8%AD%A6%E6%96%B9%E4%B8%8A%E7%BD%91%E8%BF%BD%E9%80%83%23" target="weibo">
+14.8万卖了劳力士表后被警方上网追逃（热度：664397）
 </a>
 </li>
 
@@ -4911,12 +4923,6 @@ B太回应曾夸东北雨姐真实（热度：649327）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E6%80%BB%E7%BB%9F%E5%B0%B9%E9%94%A1%E6%82%A6%E4%B8%8D%E6%94%AF%E6%8C%81%E7%8E%87%E8%B6%85%E8%BF%8770%25%23" target="weibo">
-韩国总统尹锡悦不支持率超过70%（热度：629743）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%AD%90%E8%B8%A9%E8%B8%B9%E5%A4%96%E5%8D%96%E5%B0%8F%E5%93%A5%E9%9D%A2%E9%83%A8%23" target="weibo">
 警方回应女子踩踹外卖小哥面部（热度：629687）
 </a>
@@ -5225,12 +5231,6 @@ WBG晋级S14八强（热度：607646）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E4%BA%BA%E4%BA%BA%E4%BA%BA%E4%BA%BA%E8%8B%8F%E5%B7%9E%E4%BA%BA%E4%BA%BA%E4%BA%BA%E4%BA%BA%E4%BA%BA%23" target="weibo">
 人人人人人苏州人人人人人（热度：601828）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%2314.8%E4%B8%87%E5%8D%96%E4%BA%86%E5%8A%B3%E5%8A%9B%E5%A3%AB%E8%A1%A8%E5%90%8E%E8%A2%AB%E8%AD%A6%E6%96%B9%E4%B8%8A%E7%BD%91%E8%BF%BD%E9%80%83%23" target="weibo">
-14.8万卖了劳力士表后被警方上网追逃（热度：600629）
 </a>
 </li>
 
