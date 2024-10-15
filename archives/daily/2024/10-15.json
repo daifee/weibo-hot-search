@@ -1,6 +1,6 @@
 {
   "startTime": 1728923247369,
-  "endTime": 1728970826210,
+  "endTime": 1728973893877,
   "band_list": [
     {
       "raw_hot": 3199759,
@@ -41,6 +41,14 @@
       "onboard_time": 1728964940,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2143839,
+      "num": 1315370,
+      "word": "韩军公布朝鲜炸毁朝韩间道路视频",
+      "onboard_time": 1728970519,
+      "rank": 48,
+      "category": "国外时政"
     },
     {
       "raw_hot": 1644797,
@@ -115,12 +123,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1180995,
+      "num": 1180995,
+      "word": "张桂梅扮演者说越演越惭愧",
+      "onboard_time": 1728972019,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1170833,
       "num": 1187333,
       "word": "黄磊没少看神厨小福贵吧",
       "onboard_time": 1728960258,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 880429,
+      "num": 880429,
+      "word": "网曝老人拾玉米被田主人殴打致1死1伤",
+      "onboard_time": 1728971779,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 871194,
@@ -323,6 +347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 460129,
+      "num": 460129,
+      "word": "河南省司法厅原厅长王文海病亡",
+      "onboard_time": 1728971299,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 447303,
       "num": 447303,
       "word": "迈巴赫漏水车主再发声称对方敷衍",
@@ -353,6 +385,14 @@
       "onboard_time": 1728919880,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 422650,
+      "num": 746327,
+      "word": "毒液3一刀未剪",
+      "onboard_time": 1728970819,
+      "rank": 8,
+      "category": "电影"
     },
     {
       "raw_hot": 422562,
@@ -419,6 +459,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 365482,
+      "num": 365482,
+      "word": "早睡能解决身体80%以上的问题",
+      "onboard_time": 1728967521,
+      "rank": 34,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 359560,
       "num": 359560,
       "word": "徐冬冬尹子维改学粤语了",
@@ -433,14 +481,6 @@
       "onboard_time": 1728963738,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 353244,
-      "num": 353244,
-      "word": "早睡能解决身体80%以上的问题",
-      "onboard_time": 1728967521,
-      "rank": 34,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 347410,
@@ -491,6 +531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 317275,
+      "num": 492227,
+      "word": "王睡睡刚打开的心结又被杨子关上了",
+      "onboard_time": 1728970879,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 302449,
       "num": 302449,
       "word": "程潇沙漠公主",
@@ -513,6 +561,14 @@
       "onboard_time": 1728962238,
       "rank": 32,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 288948,
+      "num": 288948,
+      "word": "相册里的收银员变成男演员了",
+      "onboard_time": 1728972559,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 285601,
@@ -545,6 +601,14 @@
       "onboard_time": 1728952460,
       "rank": 9,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 251488,
+      "num": 392126,
+      "word": "小S把粉丝送的小象保存了十年",
+      "onboard_time": 1728970759,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 251161,
@@ -675,6 +739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 216475,
+      "num": 216475,
+      "word": "你的收入达到缴纳个税的标准了吗",
+      "onboard_time": 1728973580,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 215389,
       "num": 215389,
       "word": "以方称恪守在台湾问题上的一贯立场",
@@ -721,6 +793,14 @@
       "onboard_time": 1728919820,
       "rank": 45,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 204826,
+      "num": 204826,
+      "word": "电影今年二十二",
+      "onboard_time": 1728973639,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 203686,
@@ -931,11 +1011,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 167034,
+      "num": 167034,
+      "word": "首部亚运电竞夺金纪录电影",
+      "onboard_time": 1728972797,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 165872,
       "num": 295894,
       "word": "现在就出发",
       "onboard_time": 1728961398,
       "rank": 39,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 164549,
+      "num": 164549,
+      "word": "高雅cp",
+      "onboard_time": 1728971539,
+      "rank": 43,
       "category": "综艺"
     },
     {
@@ -987,6 +1083,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 152813,
+      "num": 152813,
+      "word": "年收入不足10万元基本不用交个税",
+      "onboard_time": 1728973519,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 152272,
       "num": 152272,
       "word": "天蝎座嫌你弱又怕你强",
@@ -995,12 +1099,12 @@
       "category": "休闲"
     },
     {
-      "raw_hot": 151253,
-      "num": 151253,
-      "word": "韩军公布朝鲜炸毁朝韩间道路视频",
-      "onboard_time": 1728970519,
-      "rank": 48,
-      "category": "国外时政"
+      "raw_hot": 150903,
+      "num": 150903,
+      "word": "程潇执导KSG小尬剧",
+      "onboard_time": 1728973580,
+      "rank": 46,
+      "category": "综艺,电竞"
     },
     {
       "raw_hot": 144737,
@@ -1017,6 +1121,14 @@
       "onboard_time": 1728961759,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 140210,
+      "num": 140210,
+      "word": "心动的信号7",
+      "onboard_time": 1728971119,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 137570,
@@ -1379,6 +1491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 67189,
+      "num": 478826,
+      "word": "车企价格战羊毛出在羊身上",
+      "onboard_time": 1728970278,
+      "rank": 41,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 65132,
       "num": 134895,
       "word": "吴邦国同志生平",
@@ -1416,6 +1536,14 @@
       "word": "为什么现在的中产不爱逛高端商场了",
       "onboard_time": 1728965363,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 59319,
+      "num": 686814,
+      "word": "成都新购房取消限售",
+      "onboard_time": 1728972439,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -1499,20 +1627,20 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 38579,
+      "num": 289156,
+      "word": "年轻人边理性消费边消费升级",
+      "onboard_time": 1728972140,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 37752,
       "num": 97220,
       "word": "专家解读这一次围岛布局",
       "onboard_time": 1728927015,
       "rank": 9,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 37335,
-      "num": 168171,
-      "word": "车企价格战羊毛出在羊身上",
-      "onboard_time": 1728970278,
-      "rank": 41,
-      "category": "汽车"
     },
     {
       "raw_hot": 35977,
@@ -1579,6 +1707,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 27619,
+      "num": 192529,
+      "word": "西湖醋鱼臭鳜鱼双拼披萨",
+      "onboard_time": 1728973279,
+      "rank": 39,
+      "category": "美食"
+    },
+    {
       "raw_hot": 27449,
       "num": 28619,
       "word": "刀郎演唱会",
@@ -1601,6 +1737,22 @@
       "onboard_time": 1728970640,
       "rank": 29,
       "category": "国外时政,军事"
+    },
+    {
+      "raw_hot": 26906,
+      "num": 485051,
+      "word": "刘学义 癫是为了取悦自己",
+      "onboard_time": 1728973699,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 22783,
+      "num": 508567,
+      "word": "不能让仿冒网站就这么隐匿着",
+      "onboard_time": 1728972679,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 21475,
@@ -1683,6 +1835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 13099,
+      "num": 197898,
+      "word": "制片人说再见爱人不会给嘉宾剧本",
+      "onboard_time": 1728973459,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 10593,
       "num": 37421,
       "word": "保代公司推销理财敛取老人养老钱",
@@ -1705,14 +1865,6 @@
       "onboard_time": 1728941410,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 4788,
-      "num": 392126,
-      "word": "小S把粉丝送的小象保存了十年",
-      "onboard_time": 1728970759,
-      "rank": 19,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [

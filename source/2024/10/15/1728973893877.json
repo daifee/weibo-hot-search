@@ -1,0 +1,410 @@
+{
+  "runTime": 1728973893877,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2688180,
+        "num": 2688180,
+        "word": "韩军用开枪回应朝鲜炸毁道路",
+        "onboard_time": 1728967942,
+        "rank": 0,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1587864,
+        "num": 1587864,
+        "word": "我国无需缴纳个税人员占比超过七成",
+        "onboard_time": 1728964940,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20070,
+        "num": 1329246,
+        "word": "美国海底窃听光缆真实图像",
+        "onboard_time": 1728919520,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2143839,
+        "num": 1315370,
+        "word": "韩军公布朝鲜炸毁朝韩间道路视频",
+        "onboard_time": 1728970519,
+        "rank": 3,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1253959,
+        "num": 1253959,
+        "word": "墨香铜臭 解锁",
+        "onboard_time": 1728965419,
+        "rank": 4,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 1180995,
+        "num": 1180995,
+        "word": "张桂梅扮演者说越演越惭愧",
+        "onboard_time": 1728972019,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1180296,
+        "num": 1180296,
+        "word": "金正恩指明朝鲜军事活动方向",
+        "onboard_time": 1728964940,
+        "rank": 6,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 880429,
+        "num": 880429,
+        "word": "网曝老人拾玉米被田主人殴打致1死1伤",
+        "onboard_time": 1728971779,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 422650,
+        "num": 746327,
+        "word": "毒液3一刀未剪",
+        "onboard_time": 1728970819,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 59319,
+        "num": 686814,
+        "word": "成都新购房取消限售",
+        "onboard_time": 1728972439,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 662048,
+        "num": 662048,
+        "word": "孙颖莎WTT退赛",
+        "onboard_time": 1728966982,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 590908,
+        "num": 590908,
+        "word": "听泉鉴宝暗语",
+        "onboard_time": 1728963798,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 519293,
+        "num": 519293,
+        "word": "韩军称朝鲜炸毁部分朝韩间道路",
+        "onboard_time": 1728962960,
+        "rank": 12,
+        "category": "国外时政,军事"
+      },
+      {
+        "raw_hot": 347561,
+        "num": 513996,
+        "word": "黄磊没少看神厨小福贵吧",
+        "onboard_time": 1728960258,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 22783,
+        "num": 508567,
+        "word": "不能让仿冒网站就这么隐匿着",
+        "onboard_time": 1728972679,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 317275,
+        "num": 492227,
+        "word": "王睡睡刚打开的心结又被杨子关上了",
+        "onboard_time": 1728970879,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 26906,
+        "num": 485051,
+        "word": "刘学义 癫是为了取悦自己",
+        "onboard_time": 1728973699,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 67189,
+        "num": 478826,
+        "word": "车企价格战羊毛出在羊身上",
+        "onboard_time": 1728970278,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 474072,
+        "num": 474072,
+        "word": "中国将进行太阳系考古",
+        "onboard_time": 1728960679,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 468141,
+        "num": 468141,
+        "word": "李蠕蠕当面模仿向佐",
+        "onboard_time": 1728967282,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 605895,
+        "num": 466832,
+        "word": "王楚钦 退赛",
+        "onboard_time": 1728913521,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 460129,
+        "num": 460129,
+        "word": "河南省司法厅原厅长王文海病亡",
+        "onboard_time": 1728971299,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 412732,
+        "num": 412732,
+        "word": "年收入10万元以内基本不用缴纳个税",
+        "onboard_time": 1728961159,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 365482,
+        "num": 365482,
+        "word": "早睡能解决身体80%以上的问题",
+        "onboard_time": 1728967521,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 311083,
+        "num": 311083,
+        "word": "哈尔滨一药店见检查来紧急不卖药了",
+        "onboard_time": 1728963738,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 294259,
+        "num": 294259,
+        "word": "撞电动车被要2500后越想越不对",
+        "onboard_time": 1728963679,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 289538,
+        "num": 289538,
+        "word": "韩军开枪警告射击",
+        "onboard_time": 1728866479,
+        "rank": 26,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 38579,
+        "num": 289156,
+        "word": "年轻人边理性消费边消费升级",
+        "onboard_time": 1728972140,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 288948,
+        "num": 288948,
+        "word": "相册里的收银员变成男演员了",
+        "onboard_time": 1728972559,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 241561,
+        "num": 241561,
+        "word": "孙燕姿公布巡演场次",
+        "onboard_time": 1728965720,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 251488,
+        "num": 241398,
+        "word": "小S把粉丝送的小象保存了十年",
+        "onboard_time": 1728970759,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 238302,
+        "num": 238302,
+        "word": "高铁上偶遇了42岁的研一新生",
+        "onboard_time": 1728967282,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 232191,
+        "num": 232191,
+        "word": "2023年度个税汇算清缴数据发布",
+        "onboard_time": 1728957136,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231489,
+        "num": 231489,
+        "word": "全红婵陈芋汐恢复训练",
+        "onboard_time": 1728968122,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 229679,
+        "num": 229679,
+        "word": "陈都灵 机械姬",
+        "onboard_time": 1728963259,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 216475,
+        "num": 216475,
+        "word": "你的收入达到缴纳个税的标准了吗",
+        "onboard_time": 1728973580,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204826,
+        "num": 204826,
+        "word": "电影今年二十二",
+        "onboard_time": 1728973639,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 13099,
+        "num": 197898,
+        "word": "制片人说再见爱人不会给嘉宾剧本",
+        "onboard_time": 1728973459,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197657,
+        "num": 197657,
+        "word": "程潇沙漠公主",
+        "onboard_time": 1728967401,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27619,
+        "num": 192529,
+        "word": "西湖醋鱼臭鳜鱼双拼披萨",
+        "onboard_time": 1728973279,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 190803,
+        "num": 190803,
+        "word": "日本孤独死",
+        "onboard_time": 1728962178,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 172840,
+        "num": 172840,
+        "word": "拜登被爆私下曾称以总理坏蛋",
+        "onboard_time": 1728963198,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167034,
+        "num": 167034,
+        "word": "首部亚运电竞夺金纪录电影",
+        "onboard_time": 1728972797,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 164549,
+        "num": 164549,
+        "word": "高雅cp",
+        "onboard_time": 1728971539,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159747,
+        "num": 159747,
+        "word": "华中农业大学原教授黄飞若再被通报",
+        "onboard_time": 1728967942,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152813,
+        "num": 152813,
+        "word": "年收入不足10万元基本不用交个税",
+        "onboard_time": 1728973519,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150903,
+        "num": 150903,
+        "word": "程潇执导KSG小尬剧",
+        "onboard_time": 1728973580,
+        "rank": 46,
+        "category": "综艺,电竞"
+      },
+      {
+        "raw_hot": 149859,
+        "num": 149859,
+        "word": "国家空间科学中长期发展规划发布",
+        "onboard_time": 1728958999,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 141165,
+        "num": 141165,
+        "word": "员工不服调岗被解雇起诉获赔17万",
+        "onboard_time": 1728960317,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140210,
+        "num": 140210,
+        "word": "心动的信号7",
+        "onboard_time": 1728971119,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#中华民族有着强大的文化创造力#"
+    }
+  }
+}
