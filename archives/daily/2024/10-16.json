@@ -1,6 +1,6 @@
 {
   "startTime": 1729009695696,
-  "endTime": 1729009695696,
+  "endTime": 1729010660940,
   "band_list": [
     {
       "raw_hot": 941843,
@@ -83,6 +83,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 411805,
+      "num": 253412,
+      "word": "粥饼伦终于开店了",
+      "onboard_time": 1729008679,
+      "rank": 17,
+      "category": "网红"
+    },
+    {
       "raw_hot": 365277,
       "num": 271442,
       "word": "阿Sa回应关智斌求婚",
@@ -123,12 +131,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 253412,
-      "num": 253412,
-      "word": "粥饼伦终于开店了",
-      "onboard_time": 1729008679,
-      "rank": 17,
-      "category": "网红"
+      "raw_hot": 256437,
+      "num": 256437,
+      "word": "老外在中国治好了数学焦虑",
+      "onboard_time": 1729009337,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 240508,
@@ -227,6 +235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 157458,
+      "num": 286173,
+      "word": "我国成功发射千帆极轨02组卫星",
+      "onboard_time": 1729007119,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 154021,
       "num": 154021,
       "word": "谢娜还是那个谢娜",
@@ -241,14 +257,6 @@
       "onboard_time": 1728991280,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 145233,
-      "num": 145233,
-      "word": "老外在中国治好了数学焦虑",
-      "onboard_time": 1729009337,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 134904,
@@ -347,6 +355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 90084,
+      "num": 90084,
+      "word": "男亲子卫生间是否多余",
+      "onboard_time": 1729007359,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 87138,
       "num": 87138,
       "word": "猎罪图鉴2过审",
@@ -387,10 +403,10 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 82623,
-      "num": 286173,
-      "word": "我国成功发射千帆极轨02组卫星",
-      "onboard_time": 1729007119,
+      "raw_hot": 67319,
+      "num": 224259,
+      "word": "班主任在班级群发飙后被停职",
+      "onboard_time": 1729010117,
       "rank": 9,
       "category": "社会新闻"
     },
