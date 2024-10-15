@@ -1,0 +1,410 @@
+{
+  "runTime": 1728957635005,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1123844,
+        "num": 1179815,
+        "word": "听泉鉴宝称从未说过自己是北大的",
+        "onboard_time": 1728948618,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 615789,
+        "num": 615789,
+        "word": "感觉秦海璐再也不想看霸总文了",
+        "onboard_time": 1728948017,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 12817,
+        "num": 603626,
+        "word": "我国将打造全球最大规模低空通信网",
+        "onboard_time": 1728913460,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 717720,
+        "num": 602673,
+        "word": "警方通报老头乐高速逆行发生事故",
+        "onboard_time": 1728950420,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 593362,
+        "num": 593362,
+        "word": "孙子在哪上学爷爷就在哪当保安",
+        "onboard_time": 1728948618,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 588171,
+        "num": 588171,
+        "word": "初三男生跳高1.91米打破学校纪录",
+        "onboard_time": 1728950898,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 529690,
+        "num": 529690,
+        "word": "千万主播学历造假频繁发生",
+        "onboard_time": 1728927794,
+        "rank": 6,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 464216,
+        "num": 464216,
+        "word": "国考 没岗",
+        "onboard_time": 1728919880,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 274218,
+        "num": 457210,
+        "word": "刘学义吹火折子这一下",
+        "onboard_time": 1728952460,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 313464,
+        "num": 456149,
+        "word": "第一个中国人上太空已经21年了",
+        "onboard_time": 1728956478,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 650577,
+        "num": 455908,
+        "word": "鹿晗吃肘子",
+        "onboard_time": 1728950839,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 455568,
+        "num": 455568,
+        "word": "Jennie推特被封",
+        "onboard_time": 1728916401,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 416244,
+        "num": 416244,
+        "word": "胖东来拒绝网红直播是以顾客为本",
+        "onboard_time": 1728925814,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 409633,
+        "num": 409633,
+        "word": "宝妈用狗尾巴草给孩子点痣惊呆网友",
+        "onboard_time": 1728920301,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 405966,
+        "num": 405966,
+        "word": "印度和加拿大相互驱逐外交官",
+        "onboard_time": 1728953600,
+        "rank": 14,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 399424,
+        "num": 399424,
+        "word": "百万粉丝网红脑溢血昏迷8天后离世",
+        "onboard_time": 1728920601,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 387606,
+        "num": 387606,
+        "word": "文旅局干部酒后大闹酒店实为借权耍横",
+        "onboard_time": 1728952279,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280180,
+        "num": 280180,
+        "word": "女子被高坠水箱精准罩住超淡定",
+        "onboard_time": 1728948557,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 273439,
+        "num": 273439,
+        "word": "王一珩 抄袭",
+        "onboard_time": 1728910641,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 271150,
+        "num": 271150,
+        "word": "男孩赌气误食滴水观音中毒被抢救",
+        "onboard_time": 1728954800,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 795079,
+        "num": 270378,
+        "word": "杭州一女生夜晚被强行猥亵",
+        "onboard_time": 1728919162,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 266465,
+        "num": 266465,
+        "word": "100秒打卡中国载人航天任务",
+        "onboard_time": 1728956538,
+        "rank": 21,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 691782,
+        "num": 265634,
+        "word": "王楚钦 退赛",
+        "onboard_time": 1728913521,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 449905,
+        "num": 262248,
+        "word": "林诗栋排名世界第2",
+        "onboard_time": 1728955458,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 369012,
+        "num": 261733,
+        "word": "朴宝英朴炯植坐一起",
+        "onboard_time": 1728956058,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 270865,
+        "num": 258401,
+        "word": "3人故意吃虫子让火锅店赔1500",
+        "onboard_time": 1728914842,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257029,
+        "num": 257029,
+        "word": "美国海底窃听光缆真实图像",
+        "onboard_time": 1728919520,
+        "rank": 26,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 114906,
+        "num": 251353,
+        "word": "听泉鉴宝究竟是剧本还是真有其事",
+        "onboard_time": 1728936791,
+        "rank": 27,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 111854,
+        "num": 247529,
+        "word": "灯花笑 虞书欣",
+        "onboard_time": 1728919999,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 86198,
+        "num": 247325,
+        "word": "刘学义 荆北著名疯璟",
+        "onboard_time": 1728954739,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 247261,
+        "num": 247261,
+        "word": "神五飞天已经是21年前了",
+        "onboard_time": 1728956538,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 205729,
+        "num": 205729,
+        "word": "老师校内交通肇事致女童身亡",
+        "onboard_time": 1728925515,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201764,
+        "num": 201764,
+        "word": "郭晶晶43岁生日",
+        "onboard_time": 1728956838,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 198894,
+        "num": 198894,
+        "word": "4家药店伪造上万张处方金额过亿",
+        "onboard_time": 1728950960,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196121,
+        "num": 196121,
+        "word": "男友炖鸡汤没处理鸡蛋还在肚子里",
+        "onboard_time": 1728947537,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 190690,
+        "num": 190690,
+        "word": "雨姐不是栽在粉条上而是演得太过",
+        "onboard_time": 1728954679,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178535,
+        "num": 178535,
+        "word": "赵露思 自己化妆",
+        "onboard_time": 1728916520,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178374,
+        "num": 178374,
+        "word": "杭州强吻猥亵女生的男子已被抓获",
+        "onboard_time": 1728956598,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169015,
+        "num": 169015,
+        "word": "小猫的脸都要流下来了",
+        "onboard_time": 1728950178,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 169001,
+        "num": 169001,
+        "word": "以方称恪守在台湾问题上的一贯立场",
+        "onboard_time": 1728956718,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 162897,
+        "num": 162897,
+        "word": "我国北方多地体验一夜入冬",
+        "onboard_time": 1728956718,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156974,
+        "num": 156974,
+        "word": "易烊千玺抵达云南",
+        "onboard_time": 1728951500,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154594,
+        "num": 154594,
+        "word": "萧敬腾婚礼堪比演唱会",
+        "onboard_time": 1728921139,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152626,
+        "num": 152626,
+        "word": "数学家陈景润获批国家杰出青年基金",
+        "onboard_time": 1728957258,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149275,
+        "num": 149275,
+        "word": "2023年度个税汇算清缴数据发布",
+        "onboard_time": 1728957136,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145575,
+        "num": 145575,
+        "word": "白敬亭31岁生日plog",
+        "onboard_time": 1728949517,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141355,
+        "num": 141355,
+        "word": "天蝎座嫌你弱又怕你强",
+        "onboard_time": 1728955580,
+        "rank": 46,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 124131,
+        "num": 124131,
+        "word": "漠河已经下暴雪啦",
+        "onboard_time": 1728950719,
+        "rank": 47,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 121004,
+        "num": 121004,
+        "word": "中消协提醒理性辨识第三方测评",
+        "onboard_time": 1728956538,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 65307,
+        "num": 117578,
+        "word": "武艺说编剧都编不出杨子的回答",
+        "onboard_time": 1728948438,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同印度尼西亚总统佐科通电话#"
+    }
+  }
+}
