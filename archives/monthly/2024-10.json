@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1728999696994,
+  "endTime": 1729002089288,
   "band_list": [
     {
       "raw_hot": 17915004,
@@ -207,6 +207,14 @@
       "num": 3146611,
       "word": "孙颖莎vs王曼昱",
       "onboard_time": 1728207740,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 3020675,
+      "num": 3020675,
+      "word": "国足赢了",
+      "onboard_time": 1729001062,
       "rank": 0,
       "category": "体育"
     },
@@ -540,7 +548,7 @@
     },
     {
       "raw_hot": 2321711,
-      "num": 441954,
+      "num": 526652,
       "word": "女子因领导批评压力过大变成木头人",
       "onboard_time": 1728985700,
       "rank": 10,
@@ -689,6 +697,14 @@
       "onboard_time": 1728703040,
       "rank": 30,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 2103428,
+      "num": 579164,
+      "word": "中学老师群里失控怒骂被暂停教学",
+      "onboard_time": 1728998720,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2102830,
@@ -2316,7 +2332,7 @@
     },
     {
       "raw_hot": 1195296,
-      "num": 452067,
+      "num": 584384,
       "word": "陈乔恩 你生十个婚姻会很长久吗",
       "onboard_time": 1728992840,
       "rank": 12,
@@ -2524,7 +2540,7 @@
     },
     {
       "raw_hot": 1139868,
-      "num": 428836,
+      "num": 541981,
       "word": "阿Sa回应关智斌求婚",
       "onboard_time": 1728990859,
       "rank": 31,
@@ -2548,7 +2564,7 @@
     },
     {
       "raw_hot": 1137047,
-      "num": 454843,
+      "num": 566717,
       "word": "叶珂评论伍佰的歌",
       "onboard_time": 1728993619,
       "rank": 10,
@@ -2631,6 +2647,14 @@
       "num": 1104267,
       "word": "梁靖崑vs塔希尔",
       "onboard_time": 1728370820,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1103125,
+      "num": 1103125,
+      "word": "国足2比1印尼",
+      "onboard_time": 1728995299,
       "rank": 3,
       "category": "体育"
     },
@@ -3508,7 +3532,7 @@
     },
     {
       "raw_hot": 953348,
-      "num": 436901,
+      "num": 465446,
       "word": "迪丽热巴高定新季全球首穿",
       "onboard_time": 1728994099,
       "rank": 13,
@@ -4435,6 +4459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 813967,
+      "num": 813967,
+      "word": "新闻联播看到周深",
+      "onboard_time": 1728997400,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 812862,
       "num": 379365,
       "word": "以色列总理向伊朗人民喊话",
@@ -4777,14 +4809,6 @@
       "onboard_time": 1727827398,
       "rank": 12,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 774776,
-      "num": 774776,
-      "word": "新闻联播看到周深",
-      "onboard_time": 1728997400,
-      "rank": 6,
-      "category": "艺人"
     },
     {
       "raw_hot": 773924,
@@ -6947,6 +6971,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 592202,
+      "num": 592202,
+      "word": "iPadmini7发布",
+      "onboard_time": 1729000401,
+      "rank": 8,
+      "category": "数码"
+    },
+    {
       "raw_hot": 591567,
       "num": 256862,
       "word": "伊朗称200枚导弹90%击中预设目标",
@@ -8473,6 +8505,14 @@
       "onboard_time": 1728193398,
       "rank": 16,
       "category": "作品衍生,幽默"
+    },
+    {
+      "raw_hot": 495631,
+      "num": 552123,
+      "word": "听泉鉴宝复播",
+      "onboard_time": 1728999680,
+      "rank": 48,
+      "category": "网红"
     },
     {
       "raw_hot": 494675,
@@ -12395,6 +12435,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 332801,
+      "num": 332801,
+      "word": "心动的信号直播",
+      "onboard_time": 1728998241,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 332605,
       "num": 625539,
       "word": "梁伟铿王昶vs林秉纬苏敬恒",
@@ -12985,14 +13033,6 @@
       "onboard_time": 1728090317,
       "rank": 5,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 315888,
-      "num": 315888,
-      "word": "心动的信号直播",
-      "onboard_time": 1728998241,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 315462,
@@ -13691,14 +13731,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 298129,
-      "num": 298129,
-      "word": "中学老师群里失控怒骂被暂停教学",
-      "onboard_time": 1728998720,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 297769,
       "num": 246148,
       "word": "退休英语老师的新赛道",
@@ -14024,6 +14056,14 @@
       "word": "孙颖莎说和王曼昱是良性竞争",
       "onboard_time": 1728283698,
       "rank": 22,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 292947,
+      "num": 258546,
+      "word": "国足印尼冲突",
+      "onboard_time": 1729001362,
+      "rank": 31,
       "category": "体育"
     },
     {
@@ -14736,6 +14776,14 @@
       "word": "成龙已经70岁了",
       "onboard_time": 1728307882,
       "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 281462,
+      "num": 281462,
+      "word": "刘浩存看展生图",
+      "onboard_time": 1728998121,
+      "rank": 31,
       "category": "艺人"
     },
     {
@@ -15827,6 +15875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 262005,
+      "num": 262005,
+      "word": "蔡依林 40岁还可以这样",
+      "onboard_time": 1728998241,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 262001,
       "num": 229439,
       "word": "女医生假期带娃爬山救回一条命",
@@ -16097,6 +16153,14 @@
       "onboard_time": 1728171615,
       "rank": 8,
       "category": "数码"
+    },
+    {
+      "raw_hot": 258471,
+      "num": 258471,
+      "word": "黄雨婷的发卡又升级了",
+      "onboard_time": 1728999079,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 258166,
@@ -16561,6 +16625,14 @@
       "onboard_time": 1727772199,
       "rank": 49,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 249937,
+      "num": 249937,
+      "word": "开水烫伤6岁女童的男孩家属说他贪玩",
+      "onboard_time": 1728997041,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 249804,
@@ -17089,14 +17161,6 @@
       "onboard_time": 1728832281,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 240696,
-      "num": 240696,
-      "word": "刘浩存看展生图",
-      "onboard_time": 1728998121,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 240550,
@@ -18227,6 +18291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 225454,
+      "num": 225454,
+      "word": "伊万换人",
+      "onboard_time": 1729001241,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 225433,
       "num": 225433,
       "word": "粉笔模考",
@@ -18297,6 +18369,14 @@
       "onboard_time": 1728224419,
       "rank": 28,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 224606,
+      "num": 452677,
+      "word": "男子中48888元记者通知领奖被怼",
+      "onboard_time": 1728999259,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 224577,
@@ -18385,14 +18465,6 @@
       "onboard_time": 1728375741,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 223329,
-      "num": 223329,
-      "word": "蔡依林 40岁还可以这样",
-      "onboard_time": 1728998241,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 223318,
@@ -19851,14 +19923,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 207372,
-      "num": 207372,
-      "word": "黄雨婷的发卡又升级了",
-      "onboard_time": 1728999079,
-      "rank": 35,
-      "category": "体育"
-    },
-    {
       "raw_hot": 207322,
       "num": 158449,
       "word": "花少团有事情刘烨是真上",
@@ -20553,6 +20617,14 @@
       "onboard_time": 1728446840,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 203170,
+      "num": 203170,
+      "word": "iPad mini",
+      "onboard_time": 1729000941,
+      "rank": 38,
+      "category": "数码"
     },
     {
       "raw_hot": 203146,
@@ -23099,6 +23171,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 188416,
+      "num": 569874,
+      "word": "老中青三代文艺工作者感悟深扎路",
+      "onboard_time": 1729001841,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 188313,
       "num": 284233,
       "word": "小布未来可期",
@@ -23233,6 +23313,14 @@
       "onboard_time": 1727758819,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 187468,
+      "num": 187468,
+      "word": "王楚钦孙颖莎继续包揽WTT世界第1",
+      "onboard_time": 1729000821,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 187399,
@@ -24641,6 +24729,14 @@
       "onboard_time": 1728045859,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 176161,
+      "num": 176161,
+      "word": "印尼扳回一球",
+      "onboard_time": 1729001482,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 176136,
@@ -26563,6 +26659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 163118,
+      "num": 258561,
+      "word": "中国计划2050年成空间科学强国",
+      "onboard_time": 1728999680,
+      "rank": 49,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 163116,
       "num": 182443,
       "word": "徐若晗钓系永远的姐",
@@ -26897,6 +27001,14 @@
       "onboard_time": 1728180140,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 160631,
+      "num": 160631,
+      "word": "今晚看到的紫金山彗星",
+      "onboard_time": 1729002023,
+      "rank": 49,
+      "category": "自然"
     },
     {
       "raw_hot": 160620,
@@ -27691,6 +27803,14 @@
       "category": "国内时政,军事"
     },
     {
+      "raw_hot": 156177,
+      "num": 587665,
+      "word": "国足18强赛赢首胜",
+      "onboard_time": 1729001180,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 155996,
       "num": 155996,
       "word": "王者荣耀周年庆明星嘉宾",
@@ -28289,14 +28409,6 @@
       "onboard_time": 1728195258,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 152810,
-      "num": 152810,
-      "word": "开水烫伤6岁女童的男孩家属说他贪玩",
-      "onboard_time": 1728997041,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 152756,
@@ -29659,14 +29771,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 143989,
-      "num": 143989,
-      "word": "听泉鉴宝复播",
-      "onboard_time": 1728999680,
-      "rank": 48,
-      "category": "网红"
-    },
-    {
       "raw_hot": 143985,
       "num": 134423,
       "word": "淮滨通报男子接亲被加要18万彩礼",
@@ -30137,14 +30241,6 @@
       "onboard_time": 1728805818,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 140968,
-      "num": 140968,
-      "word": "中国计划2050年成空间科学强国",
-      "onboard_time": 1728999680,
-      "rank": 49,
-      "category": "国内时政"
     },
     {
       "raw_hot": 140841,
@@ -36955,6 +37051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 92606,
+      "num": 540422,
+      "word": "山河吐槽打压式教育",
+      "onboard_time": 1729001602,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 92584,
       "num": 248068,
       "word": "机构称市场行情将迎来大拐点",
@@ -38147,14 +38251,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 80322,
-      "num": 452677,
-      "word": "男子中48888元记者通知领奖被怼",
-      "onboard_time": 1728999259,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 80243,
       "num": 515601,
       "word": "中国人的餐桌75年变迁史",
@@ -38624,6 +38720,14 @@
       "word": "爱祖国刻在中国人DNA里了",
       "onboard_time": 1727799138,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 74808,
+      "num": 562161,
+      "word": "男子回应女友戴鲨鱼夹摔倒重度昏迷",
+      "onboard_time": 1729001302,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -39721,6 +39825,14 @@
       "onboard_time": 1728537319,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 61229,
+      "num": 531996,
+      "word": "官方通报高二女生跑步猝死",
+      "onboard_time": 1729001241,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 61141,
