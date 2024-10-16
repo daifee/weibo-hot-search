@@ -1,6 +1,6 @@
 {
   "startTime": 1729009695696,
-  "endTime": 1729074216993,
+  "endTime": 1729075296357,
   "band_list": [
     {
       "raw_hot": 3249713,
@@ -24,6 +24,14 @@
       "word": "班主任在班级群发飙后被停职",
       "onboard_time": 1729010117,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2651660,
+      "num": 331774,
+      "word": "怀疑妻子出轨丈夫自杀遗言公开",
+      "onboard_time": 1729072821,
+      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -75,6 +83,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1529565,
+      "num": 332071,
+      "word": "张雪峰",
+      "onboard_time": 1729070899,
+      "rank": 37,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1528798,
       "num": 1528798,
       "word": "山西被打女孩父亲回应7名同学已道歉",
@@ -89,14 +105,6 @@
       "onboard_time": 1729046898,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1482380,
-      "num": 332071,
-      "word": "张雪峰",
-      "onboard_time": 1729070899,
-      "rank": 37,
-      "category": "教育"
     },
     {
       "raw_hot": 1479717,
@@ -145,14 +153,6 @@
       "onboard_time": 1729057340,
       "rank": 3,
       "category": "电影"
-    },
-    {
-      "raw_hot": 1175792,
-      "num": 331774,
-      "word": "怀疑妻子出轨丈夫自杀遗言公开",
-      "onboard_time": 1729072821,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1150650,
@@ -323,6 +323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 729634,
+      "num": 208929,
+      "word": "多名中国女性在德国遭强奸",
+      "onboard_time": 1729074259,
+      "rank": 30,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 713484,
       "num": 713484,
       "word": "教材中每隔几段就出现付费二维码",
@@ -345,6 +353,14 @@
       "onboard_time": 1729017614,
       "rank": 42,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 682543,
+      "num": 682543,
+      "word": "卫龙回应亲嘴烧在日被召回",
+      "onboard_time": 1729072940,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 664397,
@@ -571,6 +587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 444196,
+      "num": 318571,
+      "word": "蕾哈娜 张元英转圈鼻祖",
+      "onboard_time": 1729072580,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 437708,
       "num": 326213,
       "word": "刘雯粉色look",
@@ -667,6 +691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 366162,
+      "num": 366162,
+      "word": "官方回应拆迁不可能一户赔几千万",
+      "onboard_time": 1729073780,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 365277,
       "num": 271442,
       "word": "阿Sa回应关智斌求婚",
@@ -723,28 +755,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 332465,
-      "num": 332465,
-      "word": "卫龙回应亲嘴烧在日被召回",
-      "onboard_time": 1729072940,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 330314,
       "num": 330314,
       "word": "何炅金鹰奖提名",
       "onboard_time": 1729073599,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 318571,
-      "num": 318571,
-      "word": "蕾哈娜 张元英转圈鼻祖",
-      "onboard_time": 1729072580,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 313311,
@@ -915,6 +931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 262643,
+      "num": 262643,
+      "word": "丁程鑫回复自己",
+      "onboard_time": 1729075100,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 262446,
       "num": 262446,
       "word": "男子中48888现金反诈意识爆表",
@@ -953,14 +977,6 @@
       "onboard_time": 1729042939,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 254061,
-      "num": 332199,
-      "word": "官方回应拆迁不可能一户赔几千万",
-      "onboard_time": 1729073780,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 250157,
@@ -1147,6 +1163,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 213553,
+      "num": 207911,
+      "word": "伍佰的歌",
+      "onboard_time": 1729073780,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 213351,
       "num": 213351,
       "word": "COSMO赵露思星河交辉封面",
@@ -1185,6 +1209,14 @@
       "onboard_time": 1729067420,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 206340,
+      "num": 206340,
+      "word": "十个勤天",
+      "onboard_time": 1729074380,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 205863,
@@ -1280,6 +1312,14 @@
       "word": "粉丝称听泉鉴宝自称北大是玩梗",
       "onboard_time": 1729055781,
       "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 198073,
+      "num": 198073,
+      "word": "3人捕食癞蛤蟆1人中毒身亡",
+      "onboard_time": 1729074020,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -1379,6 +1419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 186429,
+      "num": 186429,
+      "word": "郑钦文 猜我最喜欢哪张",
+      "onboard_time": 1729074020,
+      "rank": 46,
+      "category": "体育,网红"
+    },
+    {
       "raw_hot": 186316,
       "num": 186316,
       "word": "伊朗警告美国不要采取愚蠢行动",
@@ -1459,12 +1507,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 179913,
-      "num": 179913,
-      "word": "伍佰的歌",
-      "onboard_time": 1729073780,
-      "rank": 43,
-      "category": "音乐"
+      "raw_hot": 179492,
+      "num": 179492,
+      "word": "赵一博换头像",
+      "onboard_time": 1729075041,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 177519,
@@ -1515,14 +1563,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 168459,
-      "num": 168459,
-      "word": "郑钦文 猜我最喜欢哪张",
-      "onboard_time": 1729074020,
-      "rank": 46,
-      "category": "体育,网红"
-    },
-    {
       "raw_hot": 168456,
       "num": 462791,
       "word": "成渝板块超20股涨停",
@@ -1553,6 +1593,14 @@
       "onboard_time": 1729053802,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 164781,
+      "num": 164781,
+      "word": "赵丽颖生日放饭了",
+      "onboard_time": 1729074801,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 164177,
@@ -1729,14 +1777,6 @@
       "onboard_time": 1729061659,
       "rank": 39,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 147569,
-      "num": 147569,
-      "word": "3人捕食癞蛤蟆1人中毒身亡",
-      "onboard_time": 1729074020,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 145730,
@@ -2099,6 +2139,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 84608,
+      "num": 330780,
+      "word": "13年前借给朋友30万如今难要回",
+      "onboard_time": 1729073540,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 84264,
       "num": 84264,
       "word": "奔跑吧明天集合",
@@ -2175,14 +2223,6 @@
       "num": 367920,
       "word": "多方回应一男子扮女装凌晨尾随女子",
       "onboard_time": 1729066100,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 63388,
-      "num": 330780,
-      "word": "13年前借给朋友30万如今难要回",
-      "onboard_time": 1729073540,
       "rank": 19,
       "category": "社会新闻"
     },
@@ -2411,6 +2451,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 33169,
+      "num": 330958,
+      "word": "群演很重要但不被看见",
+      "onboard_time": 1729074080,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 32938,
       "num": 137734,
       "word": "双十一的我belike",
@@ -2505,14 +2553,6 @@
       "onboard_time": 1729063699,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 22812,
-      "num": 330958,
-      "word": "群演很重要但不被看见",
-      "onboard_time": 1729074080,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 22805,
@@ -2673,6 +2713,14 @@
       "onboard_time": 1729030283,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 6843,
+      "num": 153866,
+      "word": "冬天不是穿得越多越暖和",
+      "onboard_time": 1729075163,
+      "rank": 49,
+      "category": "科学科普"
     }
   ],
   "hotgov_list": [

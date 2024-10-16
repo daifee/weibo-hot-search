@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/10/01 00:28:17 ~ 2024/10/16 18:23:36
+本榜单时间：2024/10/01 00:28:17 ~ 2024/10/16 18:41:36
 </p>
 </blockquote>
 <p>
@@ -299,6 +299,12 @@ A股涨停（热度：2966593）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%86%9B%E7%A7%B0%E6%9C%9D%E9%B2%9C%E7%82%B8%E6%AF%81%E9%83%A8%E5%88%86%E6%9C%9D%E9%9F%A9%E9%97%B4%E9%81%93%E8%B7%AF%23" target="weibo">
 韩军称朝鲜炸毁部分朝韩间道路（热度：2671889）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%80%80%E7%96%91%E5%A6%BB%E5%AD%90%E5%87%BA%E8%BD%A8%E4%B8%88%E5%A4%AB%E8%87%AA%E6%9D%80%E9%81%97%E8%A8%80%E5%85%AC%E5%BC%80%23" target="weibo">
+怀疑妻子出轨丈夫自杀遗言公开（热度：2651660）
 </a>
 </li>
 
@@ -1119,6 +1125,12 @@ Jennie推特被封（热度：1626091）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%AA%E5%B3%B0%23" target="weibo">
+张雪峰（热度：1529565）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E8%A5%BF%E8%A2%AB%E6%89%93%E5%A5%B3%E5%AD%A9%E7%88%B6%E4%BA%B2%E5%9B%9E%E5%BA%947%E5%90%8D%E5%90%8C%E5%AD%A6%E5%B7%B2%E9%81%93%E6%AD%89%23" target="weibo">
 山西被打女孩父亲回应7名同学已道歉（热度：1528798）
 </a>
@@ -1175,12 +1187,6 @@ TES战胜T1（热度：1515921）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E9%9B%AF%E9%9B%AF%E9%80%81%E5%AD%99%E9%A2%96%E8%8E%8E%E9%A9%AC%E9%87%8C%E5%A5%A5%23" target="weibo">
 李雯雯送孙颖莎马里奥（热度：1490667）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%AA%E5%B3%B0%23" target="weibo">
-张雪峰（热度：1482380）
 </a>
 </li>
 
@@ -1913,12 +1919,6 @@ Angelababy带小海绵做爱心餐（热度：1214498）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%20%E5%8F%8C%E8%BD%A8%23" target="weibo">
 虞书欣 双轨（热度：1175826）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%80%80%E7%96%91%E5%A6%BB%E5%AD%90%E5%87%BA%E8%BD%A8%E4%B8%88%E5%A4%AB%E8%87%AA%E6%9D%80%E9%81%97%E8%A8%80%E5%85%AC%E5%BC%80%23" target="weibo">
-怀疑妻子出轨丈夫自杀遗言公开（热度：1175792）
 </a>
 </li>
 
@@ -4245,6 +4245,12 @@ HPV疫苗已降到20多元1支（热度：747235）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%90%8D%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%80%A7%E5%9C%A8%E5%BE%B7%E5%9B%BD%E9%81%AD%E5%BC%BA%E5%A5%B8%23" target="weibo">
+多名中国女性在德国遭强奸（热度：729634）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E5%8A%A018%E4%B8%87%E5%BD%A9%E7%A4%BC%E4%BA%8B%E4%BB%B6%E5%8F%8C%E6%96%B9%E5%B7%B2%E5%92%8C%E8%A7%A3%23" target="weibo">
 网传加18万彩礼事件双方已和解（热度：729414）
 </a>
@@ -4619,6 +4625,12 @@ WBG对战G2（热度：687029）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2300%E5%90%8E%E5%85%A5%E5%B8%82%E7%88%B6%E6%AF%8D%E7%BB%9910%E4%B8%87%E5%85%83%E5%BD%93%E5%AD%A6%E8%B4%B9%23" target="weibo">
 00后入市父母给10万元当学费（热度：683325）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%AB%E9%BE%99%E5%9B%9E%E5%BA%94%E4%BA%B2%E5%98%B4%E7%83%A7%E5%9C%A8%E6%97%A5%E8%A2%AB%E5%8F%AC%E5%9B%9E%23" target="weibo">
+卫龙回应亲嘴烧在日被召回（热度：682543）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ B太曾做客东北雨姐拍摄基地（热度：572110）
 <li>
 <a href="https://s.weibo.com/weibo?q=%236%E5%B2%81%E5%A5%B3%E7%AB%A5%E8%A2%AB%E9%AB%98%E5%B9%B4%E7%BA%A7%E5%90%8C%E5%AD%A6%E6%B3%BC%E5%BC%80%E6%B0%B4%E7%83%AB%E4%BC%A4%23" target="weibo">
 6岁女童被高年级同学泼开水烫伤（热度：554781）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%80%8E%E4%B9%88%E7%9C%8B%E5%BE%8510%E7%82%B9%E8%BF%99%E5%9C%BA%E5%9B%BD%E6%96%B0%E5%8A%9E%E5%8F%91%E5%B8%83%E4%BC%9A%23" target="weibo">
-怎么看待10点这场国新办发布会（热度：554365）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%90%B9%E7%89%9B%E8%80%81%E7%88%B9%20%E8%B4%BE%E6%96%AF%E6%B1%80%E6%AF%94%E4%BC%AF%23" target="weibo">
-吹牛老爹 贾斯汀比伯（热度：554149）
 </a>
 </li>
 

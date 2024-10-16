@@ -1,6 +1,6 @@
 {
   "startTime": 1728750414717,
-  "endTime": 1729074216993,
+  "endTime": 1729075296357,
   "band_list": [
     {
       "raw_hot": 17915004,
@@ -145,6 +145,14 @@
       "onboard_time": 1728962960,
       "rank": 1,
       "category": "国外时政,军事"
+    },
+    {
+      "raw_hot": 2651660,
+      "num": 331774,
+      "word": "怀疑妻子出轨丈夫自杀遗言公开",
+      "onboard_time": 1729072821,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2629322,
@@ -491,6 +499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1529565,
+      "num": 332071,
+      "word": "张雪峰",
+      "onboard_time": 1729070899,
+      "rank": 37,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1528798,
       "num": 1528798,
       "word": "山西被打女孩父亲回应7名同学已道歉",
@@ -521,14 +537,6 @@
       "onboard_time": 1728870079,
       "rank": 19,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 1482380,
-      "num": 332071,
-      "word": "张雪峰",
-      "onboard_time": 1729070899,
-      "rank": 37,
-      "category": "教育"
     },
     {
       "raw_hot": 1479717,
@@ -865,14 +873,6 @@
       "onboard_time": 1729057340,
       "rank": 3,
       "category": "电影"
-    },
-    {
-      "raw_hot": 1175792,
-      "num": 331774,
-      "word": "怀疑妻子出轨丈夫自杀遗言公开",
-      "onboard_time": 1729072821,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1170833,
@@ -1699,6 +1699,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 729634,
+      "num": 208929,
+      "word": "多名中国女性在德国遭强奸",
+      "onboard_time": 1729074259,
+      "rank": 30,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 722152,
       "num": 404334,
       "word": "向佐回复费曼",
@@ -1809,6 +1817,14 @@
       "onboard_time": 1728805460,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 682543,
+      "num": 682543,
+      "word": "卫龙回应亲嘴烧在日被召回",
+      "onboard_time": 1729072940,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 677034,
@@ -2699,6 +2715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 444196,
+      "num": 318571,
+      "word": "蕾哈娜 张元英转圈鼻祖",
+      "onboard_time": 1729072580,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 439255,
       "num": 439255,
       "word": "成都一燃油车在空地上燃爆",
@@ -3163,6 +3187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 366162,
+      "num": 366162,
+      "word": "官方回应拆迁不可能一户赔几千万",
+      "onboard_time": 1729073780,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 365482,
       "num": 365482,
       "word": "早睡能解决身体80%以上的问题",
@@ -3427,14 +3459,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 332465,
-      "num": 332465,
-      "word": "卫龙回应亲嘴烧在日被召回",
-      "onboard_time": 1729072940,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 332064,
       "num": 273469,
       "word": "邓亚萍谈金琴英3比1张本美和",
@@ -3545,14 +3569,6 @@
       "onboard_time": 1728798139,
       "rank": 12,
       "category": "体育"
-    },
-    {
-      "raw_hot": 318571,
-      "num": 318571,
-      "word": "蕾哈娜 张元英转圈鼻祖",
-      "onboard_time": 1729072580,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 317715,
@@ -4267,6 +4283,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 262643,
+      "num": 262643,
+      "word": "丁程鑫回复自己",
+      "onboard_time": 1729075100,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 261962,
       "num": 261962,
       "word": "K总说私底下的产业比直播挣的多",
@@ -4401,14 +4425,6 @@
       "onboard_time": 1728814159,
       "rank": 17,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 254061,
-      "num": 332199,
-      "word": "官方回应拆迁不可能一户赔几千万",
-      "onboard_time": 1729073780,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 253963,
@@ -5235,6 +5251,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 213553,
+      "num": 207911,
+      "word": "伍佰的歌",
+      "onboard_time": 1729073780,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 213511,
       "num": 213511,
       "word": "林诗栋挺进决赛",
@@ -5465,6 +5489,14 @@
       "onboard_time": 1728976220,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 206340,
+      "num": 206340,
+      "word": "十个勤天",
+      "onboard_time": 1729074380,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 206124,
@@ -5832,6 +5864,14 @@
       "word": "粉丝称听泉鉴宝自称北大是玩梗",
       "onboard_time": 1729055781,
       "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 198073,
+      "num": 198073,
+      "word": "3人捕食癞蛤蟆1人中毒身亡",
+      "onboard_time": 1729074020,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -6419,6 +6459,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 186429,
+      "num": 186429,
+      "word": "郑钦文 猜我最喜欢哪张",
+      "onboard_time": 1729074020,
+      "rank": 46,
+      "category": "体育,网红"
+    },
+    {
       "raw_hot": 186327,
       "num": 390556,
       "word": "电影蓦然回首定档",
@@ -6667,12 +6715,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 179913,
-      "num": 179913,
-      "word": "伍佰的歌",
-      "onboard_time": 1729073780,
-      "rank": 43,
-      "category": "音乐"
+      "raw_hot": 179492,
+      "num": 179492,
+      "word": "赵一博换头像",
+      "onboard_time": 1729075041,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 179433,
@@ -6995,14 +7043,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 168459,
-      "num": 168459,
-      "word": "郑钦文 猜我最喜欢哪张",
-      "onboard_time": 1729074020,
-      "rank": 46,
-      "category": "体育,网红"
-    },
-    {
       "raw_hot": 168456,
       "num": 462791,
       "word": "成渝板块超20股涨停",
@@ -7121,6 +7161,14 @@
       "onboard_time": 1729053802,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 164781,
+      "num": 164781,
+      "word": "赵丽颖生日放饭了",
+      "onboard_time": 1729074801,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 164654,
@@ -7809,14 +7857,6 @@
       "onboard_time": 1728916942,
       "rank": 47,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 147569,
-      "num": 147569,
-      "word": "3人捕食癞蛤蟆1人中毒身亡",
-      "onboard_time": 1729074020,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 146686,
@@ -9427,6 +9467,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 84608,
+      "num": 330780,
+      "word": "13年前借给朋友30万如今难要回",
+      "onboard_time": 1729073540,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 84579,
       "num": 257442,
       "word": "国家队恭喜盛李豪",
@@ -9809,14 +9857,6 @@
       "onboard_time": 1728744801,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 63388,
-      "num": 330780,
-      "word": "13年前借给朋友30万如今难要回",
-      "onboard_time": 1729073540,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 63106,
@@ -10955,6 +10995,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 33169,
+      "num": 330958,
+      "word": "群演很重要但不被看见",
+      "onboard_time": 1729074080,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 33113,
       "num": 263294,
       "word": "周鸿祎称Magic7YOYO比Siri强太多",
@@ -11369,14 +11417,6 @@
       "onboard_time": 1728848171,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 22812,
-      "num": 330958,
-      "word": "群演很重要但不被看见",
-      "onboard_time": 1729074080,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 22805,
@@ -11841,6 +11881,14 @@
       "onboard_time": 1728941410,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 6843,
+      "num": 153866,
+      "word": "冬天不是穿得越多越暖和",
+      "onboard_time": 1729075163,
+      "rank": 49,
+      "category": "科学科普"
     },
     {
       "raw_hot": 6368,
