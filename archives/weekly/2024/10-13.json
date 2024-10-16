@@ -1,6 +1,6 @@
 {
   "startTime": 1728750414717,
-  "endTime": 1729089632156,
+  "endTime": 1729092272107,
   "band_list": [
     {
       "raw_hot": 17915004,
@@ -243,6 +243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2332956,
+      "num": 564371,
+      "word": "陈好太惨了",
+      "onboard_time": 1729088963,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2321711,
       "num": 526652,
       "word": "女子因领导批评压力过大变成木头人",
@@ -444,7 +452,7 @@
     },
     {
       "raw_hot": 1703087,
-      "num": 348676,
+      "num": 425219,
       "word": "金字塔顶端发现一条狗",
       "onboard_time": 1729082422,
       "rank": 19,
@@ -497,6 +505,14 @@
       "onboard_time": 1728886278,
       "rank": 31,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1614591,
+      "num": 433501,
+      "word": "女子卸甲后发现十指空甲发霉",
+      "onboard_time": 1729086861,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1607454,
@@ -843,6 +859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1246695,
+      "num": 438273,
+      "word": "花少6 小团体",
+      "onboard_time": 1729090102,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1244194,
       "num": 1097926,
       "word": "国考岗位表",
@@ -1177,14 +1201,6 @@
       "onboard_time": 1728821841,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 972286,
-      "num": 317326,
-      "word": "女子卸甲后发现十指空甲发霉",
-      "onboard_time": 1729086861,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 971230,
@@ -1812,7 +1828,7 @@
     },
     {
       "raw_hot": 728320,
-      "num": 309023,
+      "num": 326943,
       "word": "真有艺人因为造型被扣钱",
       "onboard_time": 1729085482,
       "rank": 26,
@@ -1891,6 +1907,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 702433,
+      "num": 430457,
+      "word": "河南一地发生刑事案件",
+      "onboard_time": 1729088783,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 700701,
       "num": 700701,
       "word": "孙子在哪上学爷爷就在哪当保安",
@@ -1937,6 +1961,14 @@
       "onboard_time": 1728805460,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 691329,
+      "num": 429242,
+      "word": "名媛培训班收割中年男明星",
+      "onboard_time": 1729087822,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 677034,
@@ -2060,7 +2092,7 @@
     },
     {
       "raw_hot": 646459,
-      "num": 350925,
+      "num": 427683,
       "word": "伍佰的歌",
       "onboard_time": 1729073780,
       "rank": 43,
@@ -2387,14 +2419,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 545626,
-      "num": 545626,
-      "word": "陈好太惨了",
-      "onboard_time": 1729088963,
-      "rank": 3,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 544372,
       "num": 544372,
       "word": "赖美云淘汰",
@@ -2523,6 +2547,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 513319,
+      "num": 513319,
+      "word": "进上海迪士尼乐园不能带扑克牌",
+      "onboard_time": 1729086921,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 512906,
       "num": 446953,
       "word": "金星回应复婚",
@@ -2633,6 +2665,14 @@
       "onboard_time": 1728999680,
       "rank": 48,
       "category": "网红"
+    },
+    {
+      "raw_hot": 495126,
+      "num": 425602,
+      "word": "刘冲直播间 杨幂",
+      "onboard_time": 1729091300,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 493889,
@@ -2820,7 +2860,7 @@
     },
     {
       "raw_hot": 454584,
-      "num": 308522,
+      "num": 412589,
       "word": "薛冰冰为赵露思化的妆",
       "onboard_time": 1729086801,
       "rank": 19,
@@ -3451,6 +3491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 355832,
+      "num": 355832,
+      "word": "韦雪情商",
+      "onboard_time": 1729090403,
+      "rank": 18,
+      "category": "网红"
+    },
+    {
       "raw_hot": 354763,
       "num": 294665,
       "word": "资助了5年的女孩悄悄给我转钱",
@@ -3547,14 +3595,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 347531,
-      "num": 304189,
-      "word": "名媛培训班收割中年男明星",
-      "onboard_time": 1729087822,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 347410,
       "num": 347410,
       "word": "易烊千玺代言华为nova13",
@@ -3601,6 +3641,14 @@
       "onboard_time": 1728816860,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 340594,
+      "num": 436848,
+      "word": "TXT回归",
+      "onboard_time": 1729091841,
+      "rank": 7,
+      "category": "音乐"
     },
     {
       "raw_hot": 339756,
@@ -3753,6 +3801,14 @@
       "onboard_time": 1728983360,
       "rank": 13,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 324953,
+      "num": 324953,
+      "word": "叶珂说自己不是很做作的人",
+      "onboard_time": 1729091241,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 320857,
@@ -4195,6 +4251,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 284491,
+      "num": 284491,
+      "word": "花学 周雨彤",
+      "onboard_time": 1729091841,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 283545,
       "num": 255809,
       "word": "赵丽颖提名金鹰视后",
@@ -4473,6 +4537,14 @@
       "onboard_time": 1728793998,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 264517,
+      "num": 264517,
+      "word": "这几天睡不好可能是月亮的错",
+      "onboard_time": 1729089861,
+      "rank": 25,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 264147,
@@ -6547,14 +6619,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 190394,
-      "num": 190394,
-      "word": "河南一地发生刑事案件",
-      "onboard_time": 1729088783,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 190317,
       "num": 262602,
       "word": "MAMA投票",
@@ -7491,6 +7555,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 167563,
+      "num": 435505,
+      "word": "四川拆迁地图比股市还红",
+      "onboard_time": 1729089562,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 167034,
       "num": 167034,
       "word": "首部亚运电竞夺金纪录电影",
@@ -7641,6 +7713,14 @@
       "onboard_time": 1728970220,
       "rank": 43,
       "category": "财经"
+    },
+    {
+      "raw_hot": 163353,
+      "num": 163353,
+      "word": "我希望catnap姐一辈子中签售",
+      "onboard_time": 1729090881,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 163118,
@@ -8139,6 +8219,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 151595,
+      "num": 151595,
+      "word": "郑钦文回应入围WTA年终总决赛",
+      "onboard_time": 1729090941,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 151520,
       "num": 187872,
       "word": "杜华14个连环提问太窒息了",
@@ -8387,14 +8475,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 144058,
-      "num": 144058,
-      "word": "进上海迪士尼乐园不能带扑克牌",
-      "onboard_time": 1729086921,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 143553,
       "num": 143553,
       "word": "甄嬛传有自己的向佐",
@@ -8635,6 +8715,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 137305,
+      "num": 137305,
+      "word": "班级群情绪失控老师已请假休息",
+      "onboard_time": 1729092140,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 137136,
       "num": 166110,
       "word": "王星越沈月梁永棋和650团建",
@@ -8721,6 +8809,14 @@
       "onboard_time": 1728995299,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 133296,
+      "num": 133296,
+      "word": "春花焰尺度",
+      "onboard_time": 1729091723,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 133173,
@@ -8891,6 +8987,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 125993,
+      "num": 125993,
+      "word": "藏在梯田里的丰收色",
+      "onboard_time": 1729091901,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 125948,
       "num": 125948,
       "word": "eStar对战WE",
@@ -9019,14 +9123,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 121074,
-      "num": 121074,
-      "word": "四川拆迁地图比股市还红",
-      "onboard_time": 1729089562,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 120773,
       "num": 120773,
       "word": "贾耗 分手脱口秀",
@@ -9097,6 +9193,14 @@
       "onboard_time": 1729014432,
       "rank": 23,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 118537,
+      "num": 118537,
+      "word": "花少夜聊",
+      "onboard_time": 1729091961,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 118458,
@@ -9361,6 +9465,14 @@
       "onboard_time": 1728859515,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 109559,
+      "num": 109559,
+      "word": "WTA年终总决赛阵容",
+      "onboard_time": 1729092022,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 108926,
