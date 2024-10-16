@@ -1,0 +1,410 @@
+{
+  "runTime": 1729117261996,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 168846,
+        "num": 367293,
+        "word": "100岁姐姐与94岁妹妹的极限拉扯",
+        "onboard_time": 1729107131,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145191,
+        "num": 145191,
+        "word": "韩美日今日就半岛局势举行会晤",
+        "onboard_time": 1729106232,
+        "rank": 1,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1576,
+        "num": 113185,
+        "word": "太空视角瞰丰收的田野",
+        "onboard_time": 1729084701,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253738,
+        "num": 110281,
+        "word": "陈好太惨了",
+        "onboard_time": 1729088963,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107078,
+        "num": 107078,
+        "word": "花学 周雨彤",
+        "onboard_time": 1729091841,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 81869,
+        "num": 81869,
+        "word": "进上海迪士尼乐园不能带扑克牌",
+        "onboard_time": 1729086921,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 77194,
+        "num": 77194,
+        "word": "花少6 小团体",
+        "onboard_time": 1729090102,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 67838,
+        "num": 67838,
+        "word": "中国原子弹之母隐姓埋名30年",
+        "onboard_time": 1729094598,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 62071,
+        "num": 62071,
+        "word": "UNIQ 解散",
+        "onboard_time": 1729063759,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 8300,
+        "num": 62019,
+        "word": "秋天果果们的满满祝福",
+        "onboard_time": 1729114691,
+        "rank": 9,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 311959,
+        "num": 61966,
+        "word": "多名中国女性在德国遭强奸",
+        "onboard_time": 1729074259,
+        "rank": 10,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 226266,
+        "num": 61863,
+        "word": "王超生前录音曝光",
+        "onboard_time": 1729103415,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212896,
+        "num": 61688,
+        "word": "女子卸甲后发现十指空甲发霉",
+        "onboard_time": 1729086861,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172671,
+        "num": 61594,
+        "word": "叶珂说自己不是很做作的人",
+        "onboard_time": 1729091241,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142044,
+        "num": 61558,
+        "word": "女主播奔现榜一大哥同居被骗2万多",
+        "onboard_time": 1729104311,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103595,
+        "num": 61390,
+        "word": "河南一地发生刑事案件",
+        "onboard_time": 1729088783,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98049,
+        "num": 61356,
+        "word": "金字塔顶端发现一条狗",
+        "onboard_time": 1729082422,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 61261,
+        "num": 61261,
+        "word": "名媛培训班收割中年男明星",
+        "onboard_time": 1729087822,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 57363,
+        "num": 57363,
+        "word": "肖战宝诗龙活动压轴出场",
+        "onboard_time": 1729094539,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 56995,
+        "num": 56995,
+        "word": "伍佰的歌",
+        "onboard_time": 1729073780,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 76638,
+        "num": 55115,
+        "word": "马天宇 你装完了吗",
+        "onboard_time": 1729076301,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 63165,
+        "num": 54200,
+        "word": "老师给4岁孩子剪指甲4个指头流血",
+        "onboard_time": 1729096098,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 62840,
+        "num": 50558,
+        "word": "王一博是乐华签的第一个艺人",
+        "onboard_time": 1729097476,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 62801,
+        "num": 49233,
+        "word": "这几天睡不好可能是月亮的错",
+        "onboard_time": 1729089861,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 46871,
+        "num": 46871,
+        "word": "上海徐汇滨江频现遛异宠现象",
+        "onboard_time": 1729078342,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46482,
+        "num": 46482,
+        "word": "中国不会首先使用核武器",
+        "onboard_time": 1729085301,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 39273,
+        "num": 39273,
+        "word": "刘冲直播间 杨幂",
+        "onboard_time": 1729091300,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39218,
+        "num": 39218,
+        "word": "姐弟坠楼案母亲期待再遇见爱情",
+        "onboard_time": 1729081581,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38102,
+        "num": 38102,
+        "word": "韦雪情商",
+        "onboard_time": 1729090403,
+        "rank": 28,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 29939,
+        "num": 34783,
+        "word": "王宝强曾说资助拍戏的孩子们上大学",
+        "onboard_time": 1729115112,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 44937,
+        "num": 34767,
+        "word": "超43公斤卫龙亲嘴烧在日本被召回",
+        "onboard_time": 1729075581,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34716,
+        "num": 34716,
+        "word": "商丘永城王庄遗址发现距今约5000年大墓",
+        "onboard_time": 1729097834,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34708,
+        "num": 34708,
+        "word": "卫龙回应亲嘴烧在日被召回",
+        "onboard_time": 1729072940,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31347,
+        "num": 31347,
+        "word": "新疆棉采收现场科技感满满",
+        "onboard_time": 1729114511,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31109,
+        "num": 31109,
+        "word": "金与正表示挑衅者将付出代价",
+        "onboard_time": 1729105752,
+        "rank": 34,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 30891,
+        "num": 30891,
+        "word": "维密",
+        "onboard_time": 1729082059,
+        "rank": 35,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 30830,
+        "num": 30830,
+        "word": "乐华总经理说王一博天生是好艺人",
+        "onboard_time": 1729115411,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30250,
+        "num": 30250,
+        "word": "广州警方通报商贩持棍殴打城管",
+        "onboard_time": 1729093940,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29866,
+        "num": 29866,
+        "word": "医生劝你护肤主要做好两件事",
+        "onboard_time": 1729081461,
+        "rank": 38,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 29218,
+        "num": 29218,
+        "word": "姆巴佩被指控强奸",
+        "onboard_time": 1729075941,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 26590,
+        "num": 29217,
+        "word": "教育局回应女童在幼儿园疑似被侵犯",
+        "onboard_time": 1729106232,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25482,
+        "num": 29202,
+        "word": "官方回应拆迁不可能一户赔几千万",
+        "onboard_time": 1729073780,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21612,
+        "num": 29179,
+        "word": "Jennie勺子短裤",
+        "onboard_time": 1729080801,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 20809,
+        "num": 29155,
+        "word": "史上最强该死的温柔",
+        "onboard_time": 1729113612,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20468,
+        "num": 29148,
+        "word": "女网红在日本鸟居做引体向上惹众怒",
+        "onboard_time": 1729054942,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20153,
+        "num": 29125,
+        "word": "重庆姐弟坠楼案生母说要卸下枷锁",
+        "onboard_time": 1729105752,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19522,
+        "num": 29103,
+        "word": "网传教科局通知严禁学生参加cos活动",
+        "onboard_time": 1729102393,
+        "rank": 46,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 19373,
+        "num": 29086,
+        "word": "女主播奔现榜一大哥实为离异待业男",
+        "onboard_time": 1729106112,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18539,
+        "num": 29070,
+        "word": "赵丽颖3提金鹰视后",
+        "onboard_time": 1729116672,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17662,
+        "num": 29062,
+        "word": "邪恶栀子花 花语",
+        "onboard_time": 1729083982,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平参观谷文昌纪念馆#"
+    }
+  }
+}

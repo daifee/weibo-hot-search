@@ -1,6 +1,6 @@
 {
   "startTime": 1729096028716,
-  "endTime": 1729114628814,
+  "endTime": 1729117261996,
   "band_list": [
     {
       "raw_hot": 1528782,
@@ -163,6 +163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 226266,
+      "num": 61863,
+      "word": "王超生前录音曝光",
+      "onboard_time": 1729103415,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 203417,
       "num": 203417,
       "word": "这几天睡不好可能是月亮的错",
@@ -179,20 +187,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 181601,
-      "num": 42189,
-      "word": "王超生前录音曝光",
-      "onboard_time": 1729103415,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 178817,
       "num": 224495,
       "word": "浙江仙居人用杨梅炒鸡肉",
       "onboard_time": 1729094120,
       "rank": 14,
       "category": "美食"
+    },
+    {
+      "raw_hot": 168846,
+      "num": 367293,
+      "word": "100岁姐姐与94岁妹妹的极限拉扯",
+      "onboard_time": 1729107131,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 167434,
@@ -203,11 +211,27 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 145191,
+      "num": 145191,
+      "word": "韩美日今日就半岛局势举行会晤",
+      "onboard_time": 1729106232,
+      "rank": 46,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 143700,
       "num": 143700,
       "word": "广州警方通报商贩持棍殴打城管",
       "onboard_time": 1729093940,
       "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 142044,
+      "num": 61558,
+      "word": "女主播奔现榜一大哥同居被骗2万多",
+      "onboard_time": 1729104311,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -297,14 +321,6 @@
       "onboard_time": 1729094839,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 111286,
-      "num": 42850,
-      "word": "女主播奔现榜一大哥同居被骗2万多",
-      "onboard_time": 1729104311,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 109808,
@@ -419,22 +435,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 79009,
-      "num": 172641,
-      "word": "100岁姐姐与94岁妹妹的极限拉扯",
-      "onboard_time": 1729107131,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 76887,
-      "num": 76887,
-      "word": "韩美日今日就半岛局势举行会晤",
-      "onboard_time": 1729106232,
-      "rank": 46,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 75985,
       "num": 79047,
       "word": "官方回应拆迁不可能一户赔几千万",
@@ -480,6 +480,14 @@
       "word": "房小团回应成都拆迁地图",
       "onboard_time": 1729101193,
       "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 44937,
+      "num": 34767,
+      "word": "超43公斤卫龙亲嘴烧在日本被召回",
+      "onboard_time": 1729075581,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -531,6 +539,30 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 31347,
+      "num": 31347,
+      "word": "新疆棉采收现场科技感满满",
+      "onboard_time": 1729114511,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 30830,
+      "num": 30830,
+      "word": "乐华总经理说王一博天生是好艺人",
+      "onboard_time": 1729115411,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 29939,
+      "num": 34783,
+      "word": "王宝强曾说资助拍戏的孩子们上大学",
+      "onboard_time": 1729115112,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 27844,
       "num": 27844,
       "word": "药水哥回应拿下健美比赛第三名",
@@ -539,11 +571,11 @@
       "category": "电竞,网红"
     },
     {
-      "raw_hot": 23899,
-      "num": 24748,
-      "word": "超43公斤卫龙亲嘴烧在日本被召回",
-      "onboard_time": 1729075581,
-      "rank": 44,
+      "raw_hot": 26590,
+      "num": 29217,
+      "word": "教育局回应女童在幼儿园疑似被侵犯",
+      "onboard_time": 1729106232,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -563,19 +595,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 20809,
+      "num": 29155,
+      "word": "史上最强该死的温柔",
+      "onboard_time": 1729113612,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 20736,
-      "num": 24748,
+      "num": 29086,
       "word": "女主播奔现榜一大哥实为离异待业男",
       "onboard_time": 1729106112,
       "rank": 43,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 20167,
-      "num": 24748,
-      "word": "教育局回应女童在幼儿园疑似被侵犯",
-      "onboard_time": 1729106232,
-      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -593,6 +625,14 @@
       "onboard_time": 1729111812,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 18539,
+      "num": 29070,
+      "word": "赵丽颖3提金鹰视后",
+      "onboard_time": 1729116672,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 17370,
@@ -635,14 +675,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 13304,
-      "num": 16714,
-      "word": "史上最强该死的温柔",
-      "onboard_time": 1729113612,
-      "rank": 49,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 13095,
       "num": 32930,
       "word": "超燃BGM和震撼开火场面的适配度",
@@ -667,12 +699,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 10135,
-      "num": 30264,
-      "word": "新疆棉采收现场科技感满满",
-      "onboard_time": 1729114511,
-      "rank": 24,
-      "category": "社会新闻"
+      "raw_hot": 8300,
+      "num": 62019,
+      "word": "秋天果果们的满满祝福",
+      "onboard_time": 1729114691,
+      "rank": 9,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 4886,
