@@ -1,0 +1,410 @@
+{
+  "runTime": 1729100430088,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 311469,
+        "num": 390112,
+        "word": "中国原子弹之母隐姓埋名30年",
+        "onboard_time": 1729094598,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 166069,
+        "num": 166069,
+        "word": "UNIQ 解散",
+        "onboard_time": 1729063759,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 6784,
+        "num": 132713,
+        "word": "太空视角瞰丰收的田野",
+        "onboard_time": 1729084701,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 582588,
+        "num": 127384,
+        "word": "陈好太惨了",
+        "onboard_time": 1729088963,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119693,
+        "num": 119693,
+        "word": "进上海迪士尼乐园不能带扑克牌",
+        "onboard_time": 1729086921,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110348,
+        "num": 110348,
+        "word": "中国不会首先使用核武器",
+        "onboard_time": 1729085301,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 511205,
+        "num": 109745,
+        "word": "花学 周雨彤",
+        "onboard_time": 1729091841,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 321691,
+        "num": 108357,
+        "word": "花少6 小团体",
+        "onboard_time": 1729090102,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106759,
+        "num": 106759,
+        "word": "卫龙回应亲嘴烧在日被召回",
+        "onboard_time": 1729072940,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24285,
+        "num": 106533,
+        "word": "官方回应成都大规模拆迁全是谣言",
+        "onboard_time": 1729099215,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 436130,
+        "num": 106026,
+        "word": "多名中国女性在德国遭强奸",
+        "onboard_time": 1729074259,
+        "rank": 10,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 351068,
+        "num": 105677,
+        "word": "叶珂说自己不是很做作的人",
+        "onboard_time": 1729091241,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 341631,
+        "num": 105415,
+        "word": "女子卸甲后发现十指空甲发霉",
+        "onboard_time": 1729086861,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216653,
+        "num": 105067,
+        "word": "伍佰的歌",
+        "onboard_time": 1729073780,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 134303,
+        "num": 104612,
+        "word": "刘冲直播间 杨幂",
+        "onboard_time": 1729091300,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129647,
+        "num": 104149,
+        "word": "金字塔顶端发现一条狗",
+        "onboard_time": 1729082422,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117206,
+        "num": 103554,
+        "word": "广州警方通报商贩持棍殴打城管",
+        "onboard_time": 1729093940,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103431,
+        "num": 103431,
+        "word": "河南一地发生刑事案件",
+        "onboard_time": 1729088783,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 99714,
+        "num": 99714,
+        "word": "商丘永城王庄遗址发现距今约5000年大墓",
+        "onboard_time": 1729097834,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 74810,
+        "num": 96333,
+        "word": "韦雪情商",
+        "onboard_time": 1729090403,
+        "rank": 19,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 189517,
+        "num": 91413,
+        "word": "马天宇 你装完了吗",
+        "onboard_time": 1729076301,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110441,
+        "num": 89360,
+        "word": "老师给4岁孩子剪指甲4个指头流血",
+        "onboard_time": 1729096098,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106335,
+        "num": 82109,
+        "word": "王一博是乐华签的第一个艺人",
+        "onboard_time": 1729097476,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 81151,
+        "num": 81151,
+        "word": "姆巴佩被指控强奸",
+        "onboard_time": 1729075941,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 75254,
+        "num": 75254,
+        "word": "这几天睡不好可能是月亮的错",
+        "onboard_time": 1729089861,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 71165,
+        "num": 71165,
+        "word": "名媛培训班收割中年男明星",
+        "onboard_time": 1729087822,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 67737,
+        "num": 67737,
+        "word": "感谢碧昂斯 你好HANNI",
+        "onboard_time": 1729080680,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 58521,
+        "num": 58521,
+        "word": "金正恩指明朝鲜军事活动方向",
+        "onboard_time": 1728964940,
+        "rank": 27,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 58287,
+        "num": 58287,
+        "word": "薛冰冰为赵露思化的妆",
+        "onboard_time": 1729086801,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 54871,
+        "num": 54871,
+        "word": "邪恶栀子花 花语",
+        "onboard_time": 1729083982,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 60749,
+        "num": 54645,
+        "word": "cos黄磊老师做豆角",
+        "onboard_time": 1729097296,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 55545,
+        "num": 54424,
+        "word": "上海徐汇滨江频现遛异宠现象",
+        "onboard_time": 1729078342,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 53034,
+        "num": 53034,
+        "word": "维密",
+        "onboard_time": 1729082059,
+        "rank": 32,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 52094,
+        "num": 52094,
+        "word": "Jennie勺子短裤",
+        "onboard_time": 1729080801,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 51891,
+        "num": 51891,
+        "word": "成都拆迁地图发布方最新声明",
+        "onboard_time": 1729089562,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 49074,
+        "num": 49074,
+        "word": "王楚然好美",
+        "onboard_time": 1729075581,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 47705,
+        "num": 47705,
+        "word": "黄明昊业绩排乐华第二",
+        "onboard_time": 1729078699,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 44246,
+        "num": 44246,
+        "word": "王家卫没提名",
+        "onboard_time": 1729099215,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 44070,
+        "num": 44070,
+        "word": "姐弟坠楼案母亲期待再遇见爱情",
+        "onboard_time": 1729081581,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41917,
+        "num": 41917,
+        "word": "真有艺人因为造型被扣钱",
+        "onboard_time": 1729085482,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 39451,
+        "num": 39451,
+        "word": "女网红在日本鸟居做引体向上惹众怒",
+        "onboard_time": 1729054942,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 39393,
+        "num": 39393,
+        "word": "成都拆迁地图里的项目并非近期集中产生",
+        "onboard_time": 1729095678,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38465,
+        "num": 38465,
+        "word": "肖战宝诗龙活动压轴出场",
+        "onboard_time": 1729094539,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37479,
+        "num": 37479,
+        "word": "官方回应拆迁不可能一户赔几千万",
+        "onboard_time": 1729073780,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37263,
+        "num": 37263,
+        "word": "UNIQ 王一博",
+        "onboard_time": 1729067839,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 36903,
+        "num": 36903,
+        "word": "医生劝你护肤主要做好两件事",
+        "onboard_time": 1729081461,
+        "rank": 45,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 34987,
+        "num": 36898,
+        "word": "张若昀金鹰奖唯一入围85生",
+        "onboard_time": 1729083741,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 33992,
+        "num": 36898,
+        "word": "十个勤天做大做强",
+        "onboard_time": 1729100413,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 33187,
+        "num": 36891,
+        "word": "杜华说ZB1很红的",
+        "onboard_time": 1729094839,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 32106,
+        "num": 36883,
+        "word": "春花焰尺度",
+        "onboard_time": 1729091723,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国的饭碗一定要端在自己的手里#"
+    }
+  }
+}
