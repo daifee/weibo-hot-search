@@ -1,6 +1,6 @@
 {
   "startTime": 1729096028716,
-  "endTime": 1729103413260,
+  "endTime": 1729104228557,
   "band_list": [
     {
       "raw_hot": 1528782,
@@ -459,12 +459,28 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 40054,
+      "num": 40054,
+      "word": "王超生前录音曝光",
+      "onboard_time": 1729103415,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 38475,
       "num": 106533,
       "word": "官方回应成都大规模拆迁全是谣言",
       "onboard_time": 1729099215,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 34392,
+      "num": 70091,
+      "word": "宝力青宝抵达美国华盛顿国家动物园",
+      "onboard_time": 1729102932,
+      "rank": 9,
+      "category": "国外时政"
     },
     {
       "raw_hot": 33992,
@@ -475,8 +491,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 26795,
-      "num": 26795,
+      "raw_hot": 27844,
+      "num": 27844,
       "word": "药水哥回应拿下健美比赛第三名",
       "onboard_time": 1729102572,
       "rank": 43,
@@ -491,12 +507,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 14279,
-      "num": 70091,
-      "word": "宝力青宝抵达美国华盛顿国家动物园",
-      "onboard_time": 1729102932,
-      "rank": 9,
-      "category": "国外时政"
+      "raw_hot": 12679,
+      "num": 49485,
+      "word": "从原子弹到氢弹中国只用了两年多",
+      "onboard_time": 1729104132,
+      "rank": 24,
+      "category": "国内时政"
     },
     {
       "raw_hot": 10971,
