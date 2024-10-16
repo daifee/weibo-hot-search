@@ -1,6 +1,6 @@
 {
   "startTime": 1728750414717,
-  "endTime": 1729097009465,
+  "endTime": 1729099257115,
   "band_list": [
     {
       "raw_hot": 17915004,
@@ -2947,6 +2947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 443404,
+      "num": 515389,
+      "word": "中国原子弹之母隐姓埋名30年",
+      "onboard_time": 1729094598,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 439255,
       "num": 439255,
       "word": "成都一燃油车在空地上燃爆",
@@ -4465,14 +4473,6 @@
       "onboard_time": 1729064240,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 270347,
-      "num": 270347,
-      "word": "中国原子弹之母隐姓埋名30年",
-      "onboard_time": 1729094598,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 270242,
@@ -9187,6 +9187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 120691,
+      "num": 120691,
+      "word": "老师给4岁孩子剪指甲4个指头流血",
+      "onboard_time": 1729096098,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 120592,
       "num": 224183,
       "word": "我赴黎维和部队工作生活情况公开",
@@ -9201,6 +9209,14 @@
       "onboard_time": 1728729859,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 120223,
+      "num": 120223,
+      "word": "王一博是乐华签的第一个艺人",
+      "onboard_time": 1729097476,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 119977,
@@ -9569,14 +9585,6 @@
       "onboard_time": 1728741983,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 108121,
-      "num": 108121,
-      "word": "老师给4岁孩子剪指甲4个指头流血",
-      "onboard_time": 1729096098,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 108045,
@@ -10459,6 +10467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 69536,
+      "num": 69536,
+      "word": "商丘永城王庄遗址发现距今约5000年大墓",
+      "onboard_time": 1729097834,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 69369,
       "num": 628533,
       "word": "海洋奇缘2内地定档",
@@ -10521,6 +10537,14 @@
       "onboard_time": 1728743542,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 65973,
+      "num": 184503,
+      "word": "成都拆迁地图里的项目并非近期集中产生",
+      "onboard_time": 1729095678,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 65868,
@@ -10689,6 +10713,14 @@
       "onboard_time": 1728993140,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 60180,
+      "num": 60180,
+      "word": "cos黄磊老师做豆角",
+      "onboard_time": 1729097296,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 59628,
@@ -11227,14 +11259,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 47128,
-      "num": 184503,
-      "word": "成都拆迁地图里的项目并非近期集中产生",
-      "onboard_time": 1729095678,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 46913,
       "num": 200767,
       "word": "vivoX200拍蜗牛喝水",
@@ -11417,6 +11441,14 @@
       "onboard_time": 1729084821,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 41644,
+      "num": 58647,
+      "word": "王家卫没提名",
+      "onboard_time": 1729099215,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 41571,
@@ -12587,12 +12619,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 15522,
+      "num": 66813,
+      "word": "官方回应成都大规模拆迁全是谣言",
+      "onboard_time": 1729099215,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 15483,
       "num": 152606,
       "word": "合着你纯吃播啊",
       "onboard_time": 1728970458,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 14977,
+      "num": 66153,
+      "word": "唢呐一响谁的DNA动了",
+      "onboard_time": 1729099035,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 14859,
@@ -12687,6 +12735,14 @@
       "num": 429025,
       "word": "秋日林场景色如画",
       "onboard_time": 1728735860,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 10971,
+      "num": 192006,
+      "word": "太空视角瞰丰收的田野",
+      "onboard_time": 1729084701,
       "rank": 2,
       "category": "社会新闻"
     },
