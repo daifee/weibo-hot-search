@@ -1,6 +1,6 @@
 {
   "startTime": 1729096028716,
-  "endTime": 1729107363143,
+  "endTime": 1729110246839,
   "band_list": [
     {
       "raw_hot": 1528782,
@@ -180,7 +180,7 @@
     },
     {
       "raw_hot": 181601,
-      "num": 41047,
+      "num": 42189,
       "word": "王超生前录音曝光",
       "onboard_time": 1729103415,
       "rank": 26,
@@ -297,6 +297,14 @@
       "onboard_time": 1729094839,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 111286,
+      "num": 42850,
+      "word": "女主播奔现榜一大哥同居被骗2万多",
+      "onboard_time": 1729104311,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 109808,
@@ -435,20 +443,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 65275,
+      "num": 65275,
+      "word": "韩美日今日就半岛局势举行会晤",
+      "onboard_time": 1729106232,
+      "rank": 46,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 60749,
       "num": 60180,
       "word": "cos黄磊老师做豆角",
       "onboard_time": 1729097296,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 54136,
-      "num": 39772,
-      "word": "女主播奔现榜一大哥同居被骗2万多",
-      "onboard_time": 1729104311,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 53259,
@@ -464,6 +472,14 @@
       "word": "房小团回应成都拆迁地图",
       "onboard_time": 1729101193,
       "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 46099,
+      "num": 46099,
+      "word": "100岁姐姐与94岁妹妹的极限拉扯",
+      "onboard_time": 1729107131,
+      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -523,16 +539,8 @@
       "category": "电竞,网红"
     },
     {
-      "raw_hot": 27689,
-      "num": 34646,
-      "word": "韩美日今日就半岛局势举行会晤",
-      "onboard_time": 1729106232,
-      "rank": 46,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 22786,
-      "num": 24748,
+      "num": 43616,
       "word": "社恐白领被领导鸡娃后抑郁成木头人",
       "onboard_time": 1729105811,
       "rank": 39,
@@ -579,14 +587,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 18994,
-      "num": 18994,
-      "word": "100岁姐姐与94岁妹妹的极限拉扯",
-      "onboard_time": 1729107131,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 17370,
       "num": 49485,
       "word": "从原子弹到氢弹中国只用了两年多",
@@ -609,6 +609,14 @@
       "onboard_time": 1729099035,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 13471,
+      "num": 18812,
+      "word": "春花焰",
+      "onboard_time": 1729079601,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 10971,
