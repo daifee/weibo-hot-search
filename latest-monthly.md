@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/10/01 00:28:17 ~ 2024/10/16 17:24:45
+本榜单时间：2024/10/01 00:28:17 ~ 2024/10/16 17:38:38
 </p>
 </blockquote>
 <p>
@@ -796,7 +796,7 @@ A股成交再创历史最快万亿纪录（热度：2096595）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%AD%A6%E7%94%9F%E5%B0%86%E8%8D%AF%E7%A3%A8%E6%88%90%E7%B2%89%E9%AA%97%E5%90%8C%E5%AD%A6%E6%9C%8D%E7%94%A8%E5%90%8E%E7%BB%AD%23" target="weibo">
-小学生将药磨成粉骗同学服用后续（热度：1812957）
+小学生将药磨成粉骗同学服用后续（热度：1819131）
 </a>
 </li>
 
@@ -2375,6 +2375,12 @@ TES对战T1（热度：1063834）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E6%99%99%E8%AF%9A%E6%B2%A1%E6%9C%89%E9%A2%86%E5%A5%96%23" target="weibo">
 吴晙诚没有领奖（热度：1043016）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8F%AD%E4%B8%BB%E4%BB%BB%E7%BE%A4%E5%86%85%E5%8F%91%E9%A3%99%E5%AD%A6%E6%A0%A1%E7%A7%B0%E6%AD%A3%E5%AE%89%E6%8A%9A%E5%BD%93%E4%BA%8B%E8%80%81%E5%B8%88%23" target="weibo">
+班主任群内发飙学校称正安抚当事老师（热度：1041807）
 </a>
 </li>
 
@@ -5451,6 +5457,12 @@ Jennie新歌MV被禁（热度：602531）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E5%A4%A9%E4%BB%B7%E6%8B%86%E8%BF%81%E6%AC%BE%23" target="weibo">
+成都官方辟谣天价拆迁款（热度：602091）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E4%BA%BA%E4%BA%BA%E4%BA%BA%E4%BA%BA%E8%8B%8F%E5%B7%9E%E4%BA%BA%E4%BA%BA%E4%BA%BA%E4%BA%BA%E4%BA%BA%23" target="weibo">
 人人人人人苏州人人人人人（热度：601828）
 </a>
@@ -6002,18 +6014,6 @@ B太曾做客东北雨姐拍摄基地（热度：572110）
 </a>
 </li>
 
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E5%A4%A9%E4%BB%B7%E6%8B%86%E8%BF%81%E6%AC%BE%23" target="weibo">
-成都官方辟谣天价拆迁款（热度：553728）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B7%91%E6%AD%A5%E5%85%A5%E5%9C%BA%E7%9A%8400%E5%90%8E3%E5%A4%A9%E8%B5%9A%E4%BA%863%E4%B8%87%23" target="weibo">
-跑步入场的00后3天赚了3万（热度：553308）
-</a>
-</li>
-
 </ol>
 <h2>
 正能量
@@ -6329,6 +6329,12 @@ B太曾做客东北雨姐拍摄基地（热度：572110）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%9C%A8%E7%A6%8F%E5%BB%BA%E7%9C%81%E6%BC%B3%E5%B7%9E%E5%B8%82%E8%80%83%E5%AF%9F%E8%B0%83%E7%A0%94%23%23" target="weibo">
 #习近平在福建省漳州市考察调研#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%9C%A8%E7%A6%8F%E5%BB%BA%E6%BC%B3%E5%B7%9E%E8%80%83%E5%AF%9F%E8%B0%83%E7%A0%94%23%23" target="weibo">
+#习近平在福建漳州考察调研#
 </a>
 </li>
 
