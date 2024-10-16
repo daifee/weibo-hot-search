@@ -1,0 +1,410 @@
+{
+  "runTime": 1729089632156,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1055724,
+        "num": 1168915,
+        "word": "中国不会首先使用核武器",
+        "onboard_time": 1729085301,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1037954,
+        "num": 1037954,
+        "word": "UNIQ 解散",
+        "onboard_time": 1729063759,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31993,
+        "num": 733353,
+        "word": "珍惜每一粒粮做合格干饭人",
+        "onboard_time": 1729084821,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 545626,
+        "num": 545626,
+        "word": "陈好太惨了",
+        "onboard_time": 1729088963,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 421457,
+        "num": 421457,
+        "word": "女网红在日本鸟居做引体向上惹众怒",
+        "onboard_time": 1729054942,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 390257,
+        "num": 390257,
+        "word": "德国警方呼吁年轻中国女性注意人身安全",
+        "onboard_time": 1729075460,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 390133,
+        "num": 390133,
+        "word": "张若昀金鹰奖唯一入围85生",
+        "onboard_time": 1729083741,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 326490,
+        "num": 326490,
+        "word": "官方回应拆迁不可能一户赔几千万",
+        "onboard_time": 1729073780,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 325046,
+        "num": 325046,
+        "word": "卫龙回应亲嘴烧在日被召回",
+        "onboard_time": 1729072940,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191853,
+        "num": 324911,
+        "word": "梦想改造家",
+        "onboard_time": 1729088480,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2489083,
+        "num": 323486,
+        "word": "伍佰回应被叶珂吐槽歌猥琐",
+        "onboard_time": 1729076660,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1441190,
+        "num": 322069,
+        "word": "妈妈称发现3岁女儿隐私部位出血",
+        "onboard_time": 1729081640,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1431251,
+        "num": 320778,
+        "word": "多名中国女性在德国遭强奸",
+        "onboard_time": 1729074259,
+        "rank": 12,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1207859,
+        "num": 319429,
+        "word": "教育局称女童被打满嘴是血不是霸凌",
+        "onboard_time": 1729086201,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37437,
+        "num": 317886,
+        "word": "当地回应前村干部将3名孩子落户在自家",
+        "onboard_time": 1729087822,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 972286,
+        "num": 317326,
+        "word": "女子卸甲后发现十指空甲发霉",
+        "onboard_time": 1729086861,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 660205,
+        "num": 315910,
+        "word": "金字塔顶端发现一条狗",
+        "onboard_time": 1729082422,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 68632,
+        "num": 314394,
+        "word": "张大大给大学生发offer",
+        "onboard_time": 1729088841,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 642873,
+        "num": 312932,
+        "word": "伍佰的歌",
+        "onboard_time": 1729073780,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 30313,
+        "num": 312295,
+        "word": "玩手机成最低成本带娃方式",
+        "onboard_time": 1729088722,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 773997,
+        "num": 310291,
+        "word": "马天宇 你装完了吗",
+        "onboard_time": 1729076301,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 630617,
+        "num": 309023,
+        "word": "真有艺人因为造型被扣钱",
+        "onboard_time": 1729085482,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 454584,
+        "num": 308522,
+        "word": "薛冰冰为赵露思化的妆",
+        "onboard_time": 1729086801,
+        "rank": 22,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 355101,
+        "num": 306883,
+        "word": "姆巴佩被指控强奸",
+        "onboard_time": 1729075941,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 77659,
+        "num": 305264,
+        "word": "中方愿为实现无核武器世界继续努力",
+        "onboard_time": 1729087462,
+        "rank": 24,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 347531,
+        "num": 304189,
+        "word": "名媛培训班收割中年男明星",
+        "onboard_time": 1729087822,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 73269,
+        "num": 302452,
+        "word": "律师称鲨鱼夹无质量问题无法索赔",
+        "onboard_time": 1729087582,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 302446,
+        "num": 302446,
+        "word": "班主任群内发飙学校称正安抚当事老师",
+        "onboard_time": 1729069220,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 272905,
+        "num": 272905,
+        "word": "黄明昊业绩排乐华第二",
+        "onboard_time": 1729078699,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172978,
+        "num": 246703,
+        "word": "宝诗龙活动",
+        "onboard_time": 1729087402,
+        "rank": 29,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 240816,
+        "num": 240816,
+        "word": "王楚然好美",
+        "onboard_time": 1729075581,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207134,
+        "num": 207134,
+        "word": "感谢碧昂斯 你好HANNI",
+        "onboard_time": 1729080680,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190394,
+        "num": 190394,
+        "word": "河南一地发生刑事案件",
+        "onboard_time": 1729088783,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188149,
+        "num": 188149,
+        "word": "上海徐汇滨江频现遛异宠现象",
+        "onboard_time": 1729078342,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183813,
+        "num": 183813,
+        "word": "医生劝你护肤主要做好两件事",
+        "onboard_time": 1729081461,
+        "rank": 34,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 179413,
+        "num": 179413,
+        "word": "看完减肥动力又来了",
+        "onboard_time": 1729084520,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 174357,
+        "num": 174357,
+        "word": "姐弟坠楼案母亲期待再遇见爱情",
+        "onboard_time": 1729081581,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171135,
+        "num": 171135,
+        "word": "Jennie勺子短裤",
+        "onboard_time": 1729080801,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 168499,
+        "num": 168499,
+        "word": "李飞 准满贯男团",
+        "onboard_time": 1729085301,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166175,
+        "num": 166175,
+        "word": "金正恩指明朝鲜军事活动方向",
+        "onboard_time": 1728964940,
+        "rank": 39,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 161522,
+        "num": 161522,
+        "word": "杜华回应通告比乐华艺人多",
+        "onboard_time": 1729086022,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150009,
+        "num": 150009,
+        "word": "维密",
+        "onboard_time": 1729082059,
+        "rank": 41,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 156004,
+        "num": 150008,
+        "word": "王一博个人演唱会筹备",
+        "onboard_time": 1729077500,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150002,
+        "num": 150002,
+        "word": "肖战工作室出图",
+        "onboard_time": 1729083202,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 148771,
+        "num": 148771,
+        "word": "邪恶栀子花 花语",
+        "onboard_time": 1729083982,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144058,
+        "num": 144058,
+        "word": "进上海迪士尼乐园不能带扑克牌",
+        "onboard_time": 1729086921,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138889,
+        "num": 138889,
+        "word": "程序员炒股亏48万后宣布停更",
+        "onboard_time": 1729067420,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 144882,
+        "num": 133414,
+        "word": "UNIQ 王一博",
+        "onboard_time": 1729067839,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121074,
+        "num": 121074,
+        "word": "四川拆迁地图比股市还红",
+        "onboard_time": 1729089562,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119781,
+        "num": 119781,
+        "word": "极氪",
+        "onboard_time": 1729088542,
+        "rank": 49,
+        "category": "汽车"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平参观谷文昌纪念馆#"
+    }
+  }
+}

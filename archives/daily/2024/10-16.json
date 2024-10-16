@@ -1,6 +1,6 @@
 {
   "startTime": 1729009695696,
-  "endTime": 1729088486978,
+  "endTime": 1729089632156,
   "band_list": [
     {
       "raw_hot": 3249713,
@@ -195,6 +195,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 1207859,
+      "num": 319429,
+      "word": "教育局称女童被打满嘴是血不是霸凌",
+      "onboard_time": 1729086201,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1189197,
       "num": 853990,
       "word": "八角笼中",
@@ -243,12 +251,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 1059025,
-      "num": 308761,
-      "word": "教育局称女童被打满嘴是血不是霸凌",
-      "onboard_time": 1729086201,
-      "rank": 13,
-      "category": "社会新闻"
+      "raw_hot": 1055724,
+      "num": 1168915,
+      "word": "中国不会首先使用核武器",
+      "onboard_time": 1729085301,
+      "rank": 29,
+      "category": "国内时政"
     },
     {
       "raw_hot": 1041807,
@@ -257,14 +265,6 @@
       "onboard_time": 1729069220,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1038959,
-      "num": 1038959,
-      "word": "中国不会首先使用核武器",
-      "onboard_time": 1729085301,
-      "rank": 29,
-      "category": "国内时政"
     },
     {
       "raw_hot": 1000719,
@@ -281,6 +281,14 @@
       "onboard_time": 1729048700,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 972286,
+      "num": 317326,
+      "word": "女子卸甲后发现十指空甲发霉",
+      "onboard_time": 1729086861,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 971230,
@@ -428,19 +436,11 @@
     },
     {
       "raw_hot": 728320,
-      "num": 304543,
+      "num": 309023,
       "word": "真有艺人因为造型被扣钱",
       "onboard_time": 1729085482,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 725526,
-      "num": 299028,
-      "word": "女子卸甲后发现十指空甲发霉",
-      "onboard_time": 1729086861,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 719078,
@@ -595,6 +595,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 545626,
+      "num": 545626,
+      "word": "陈好太惨了",
+      "onboard_time": 1729088963,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 538832,
       "num": 433995,
       "word": "警方回应女孩被同学打的满嘴是血",
@@ -731,6 +739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 454584,
+      "num": 308522,
+      "word": "薛冰冰为赵露思化的妆",
+      "onboard_time": 1729086801,
+      "rank": 19,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 452081,
       "num": 452081,
       "word": "这声东方巨响让中国人挺直了腰杆",
@@ -859,14 +875,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 376988,
-      "num": 301065,
-      "word": "薛冰冰为赵露思化的妆",
-      "onboard_time": 1729086801,
-      "rank": 19,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 368410,
       "num": 400396,
       "word": "谢谢你们让14亿人吃好",
@@ -929,6 +937,14 @@
       "onboard_time": 1728964940,
       "rank": 19,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 347531,
+      "num": 304189,
+      "word": "名媛培训班收割中年男明星",
+      "onboard_time": 1729087822,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 343623,
@@ -1443,6 +1459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 207134,
+      "num": 207134,
+      "word": "感谢碧昂斯 你好HANNI",
+      "onboard_time": 1729080680,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 206340,
       "num": 206340,
       "word": "十个勤天",
@@ -1619,6 +1643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 191853,
+      "num": 324911,
+      "word": "梦想改造家",
+      "onboard_time": 1729088480,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 191844,
       "num": 191844,
       "word": "王一博到达长春",
@@ -1641,6 +1673,14 @@
       "onboard_time": 1729066579,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 190394,
+      "num": 190394,
+      "word": "河南一地发生刑事案件",
+      "onboard_time": 1729088783,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 190292,
@@ -1673,14 +1713,6 @@
       "onboard_time": 1729046179,
       "rank": 45,
       "category": "电影"
-    },
-    {
-      "raw_hot": 188145,
-      "num": 188145,
-      "word": "名媛培训班收割中年男明星",
-      "onboard_time": 1729087822,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 187797,
@@ -1720,14 +1752,6 @@
       "word": "EXO台历还没发",
       "onboard_time": 1729063100,
       "rank": 38,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 186784,
-      "num": 186784,
-      "word": "感谢碧昂斯 你好HANNI",
-      "onboard_time": 1729080680,
-      "rank": 36,
       "category": "艺人"
     },
     {
@@ -2203,6 +2227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 144058,
+      "num": 144058,
+      "word": "进上海迪士尼乐园不能带扑克牌",
+      "onboard_time": 1729086921,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 143553,
       "num": 143553,
       "word": "甄嬛传有自己的向佐",
@@ -2395,12 +2427,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 121074,
+      "num": 121074,
+      "word": "四川拆迁地图比股市还红",
+      "onboard_time": 1729089562,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 120773,
       "num": 120773,
       "word": "贾耗 分手脱口秀",
       "onboard_time": 1729044139,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 119781,
+      "num": 119781,
+      "word": "极氪",
+      "onboard_time": 1729088542,
+      "rank": 49,
+      "category": "汽车"
     },
     {
       "raw_hot": 118626,
@@ -2651,6 +2699,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 77659,
+      "num": 305264,
+      "word": "中方愿为实现无核武器世界继续努力",
+      "onboard_time": 1729087462,
+      "rank": 24,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 77610,
       "num": 278924,
       "word": "比亚迪30周年抽30辆仰望送车主",
@@ -2683,6 +2739,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 73269,
+      "num": 313398,
+      "word": "律师称鲨鱼夹无质量问题无法索赔",
+      "onboard_time": 1729087582,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 73217,
       "num": 1033887,
       "word": "全国秋粮已收获超六成",
@@ -2697,6 +2761,14 @@
       "onboard_time": 1729082541,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 68632,
+      "num": 314394,
+      "word": "张大大给大学生发offer",
+      "onboard_time": 1729088841,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 65868,
@@ -2883,16 +2955,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 43325,
-      "num": 313398,
-      "word": "律师称鲨鱼夹无质量问题无法索赔",
-      "onboard_time": 1729087582,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 41789,
-      "num": 691329,
+      "num": 733353,
       "word": "珍惜每一粒粮做合格干饭人",
       "onboard_time": 1729084821,
       "rank": 2,
@@ -2945,6 +3009,14 @@
       "onboard_time": 1729051521,
       "rank": 28,
       "category": "数码"
+    },
+    {
+      "raw_hot": 37437,
+      "num": 317886,
+      "word": "当地回应前村干部将3名孩子落户在自家",
+      "onboard_time": 1729087822,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 37032,
@@ -3059,11 +3131,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 29587,
-      "num": 307378,
-      "word": "当地回应前村干部将3名孩子落户在自家",
-      "onboard_time": 1729087822,
-      "rank": 14,
+      "raw_hot": 30313,
+      "num": 312295,
+      "word": "玩手机成最低成本带娃方式",
+      "onboard_time": 1729088722,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
