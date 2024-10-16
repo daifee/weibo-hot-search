@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1729082570171,
+  "endTime": 1729083550302,
   "band_list": [
     {
       "raw_hot": 17915004,
@@ -961,6 +961,14 @@
       "onboard_time": 1728216561,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1903011,
+      "num": 352547,
+      "word": "妈妈称发现3岁女儿隐私部位出血",
+      "onboard_time": 1729081640,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1902792,
@@ -2483,6 +2491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1197725,
+      "num": 515918,
+      "word": "马天宇 你装完了吗",
+      "onboard_time": 1729076301,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1196589,
       "num": 372609,
       "word": "于正报警",
@@ -2817,14 +2833,6 @@
       "onboard_time": 1729037299,
       "rank": 3,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 1116306,
-      "num": 515918,
-      "word": "马天宇 你装完了吗",
-      "onboard_time": 1729076301,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 1114891,
@@ -3489,6 +3497,14 @@
       "onboard_time": 1728720741,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1000719,
+      "num": 1000719,
+      "word": "步步高被申请破产",
+      "onboard_time": 1729079480,
+      "rank": 1,
+      "category": "教育"
     },
     {
       "raw_hot": 999594,
@@ -5027,14 +5043,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 786377,
-      "num": 352547,
-      "word": "妈妈称发现3岁女儿隐私部位出血",
-      "onboard_time": 1729081640,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 785837,
       "num": 785837,
       "word": "朝鲜140万青年参军或复队",
@@ -5681,14 +5689,6 @@
       "onboard_time": 1727856017,
       "rank": 12,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 729993,
-      "num": 729993,
-      "word": "步步高被申请破产",
-      "onboard_time": 1729079480,
-      "rank": 1,
-      "category": "教育"
     },
     {
       "raw_hot": 729913,
@@ -9755,6 +9755,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 464084,
+      "num": 348676,
+      "word": "金字塔顶端发现一条狗",
+      "onboard_time": 1729082422,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 463637,
       "num": 207684,
       "word": "高瀚宇讲价 贫穷战胜了羞耻心",
@@ -10321,6 +10329,14 @@
       "onboard_time": 1728878661,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 438542,
+      "num": 350925,
+      "word": "伍佰的歌",
+      "onboard_time": 1729073780,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 437962,
@@ -10899,14 +10915,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 413025,
-      "num": 350925,
-      "word": "伍佰的歌",
-      "onboard_time": 1729073780,
-      "rank": 43,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 412860,
       "num": 293403,
       "word": "河南高校回应女教师被于正签约",
@@ -11217,6 +11225,14 @@
       "onboard_time": 1728637040,
       "rank": 8,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 398116,
+      "num": 345648,
+      "word": "上海徐汇滨江频现遛异宠现象",
+      "onboard_time": 1729078342,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 398064,
@@ -11769,14 +11785,6 @@
       "onboard_time": 1728053360,
       "rank": 12,
       "category": "演出"
-    },
-    {
-      "raw_hot": 378153,
-      "num": 345648,
-      "word": "上海徐汇滨江频现遛异宠现象",
-      "onboard_time": 1729078342,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 377753,
@@ -17459,6 +17467,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 252420,
+      "num": 350220,
+      "word": "新一轮降雨新一股强冷空气都来了",
+      "onboard_time": 1729081160,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 252419,
       "num": 404726,
       "word": "马龙晋级男单16强",
@@ -17985,6 +18001,14 @@
       "onboard_time": 1728654501,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 244025,
+      "num": 244025,
+      "word": "Jennie勺子短裤",
+      "onboard_time": 1729080801,
+      "rank": 25,
+      "category": "演出"
     },
     {
       "raw_hot": 244003,
@@ -18969,14 +18993,6 @@
       "onboard_time": 1728489678,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 230448,
-      "num": 230448,
-      "word": "Jennie勺子短裤",
-      "onboard_time": 1729080801,
-      "rank": 25,
-      "category": "演出"
     },
     {
       "raw_hot": 230415,
@@ -20747,6 +20763,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 211880,
+      "num": 203633,
+      "word": "肖战工作室出图",
+      "onboard_time": 1729083202,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 211778,
       "num": 211778,
       "word": "A股今天休市",
@@ -21601,6 +21625,14 @@
       "onboard_time": 1728655222,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 204631,
+      "num": 204631,
+      "word": "冷冷冷冷山东冷冷冷冷",
+      "onboard_time": 1729079001,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 204592,
@@ -24067,6 +24099,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 191000,
+      "num": 191000,
+      "word": "教科局回应禁止学生参加cosplay",
+      "onboard_time": 1729079721,
+      "rank": 34,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 190959,
       "num": 190959,
       "word": "神印王座放假正是修炼的时候",
@@ -24384,6 +24424,14 @@
       "word": "国庆堵在隧道众人下车大合唱",
       "onboard_time": 1727972299,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 189273,
+      "num": 189273,
+      "word": "飞鹤奶粉",
+      "onboard_time": 1729082780,
+      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -25987,14 +26035,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 178551,
-      "num": 178551,
-      "word": "冷冷冷冷山东冷冷冷冷",
-      "onboard_time": 1729079001,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 178538,
       "num": 178538,
       "word": "香港烟花",
@@ -26217,14 +26257,6 @@
       "onboard_time": 1727882778,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 176665,
-      "num": 176665,
-      "word": "教科局回应禁止学生参加cosplay",
-      "onboard_time": 1729079721,
-      "rank": 34,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 176582,
@@ -28203,6 +28235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 163856,
+      "num": 163856,
+      "word": "樊振东许昕赛前训练画面",
+      "onboard_time": 1729082661,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 163854,
       "num": 163854,
       "word": "张予曦千禧辣妹妆",
@@ -28289,6 +28329,14 @@
       "onboard_time": 1728377719,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 163583,
+      "num": 163583,
+      "word": "华晨宇代言温碧泉",
+      "onboard_time": 1729082661,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 163555,
@@ -29929,6 +29977,14 @@
       "onboard_time": 1728387080,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 153943,
+      "num": 153943,
+      "word": "陆嘉学 告诉她苦果亦是果",
+      "onboard_time": 1729083080,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 153836,
@@ -31849,6 +31905,14 @@
       "onboard_time": 1728085335,
       "rank": 28,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 142757,
+      "num": 142757,
+      "word": "医生劝你护肤主要做好两件事",
+      "onboard_time": 1729081461,
+      "rank": 46,
+      "category": "美妆"
     },
     {
       "raw_hot": 142756,
@@ -36955,14 +37019,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 110125,
-      "num": 350220,
-      "word": "新一轮降雨新一股强冷空气都来了",
-      "onboard_time": 1729081160,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 110028,
       "num": 110028,
       "word": "G2喜迎LPL内战",
@@ -39307,14 +39363,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 91430,
-      "num": 348676,
-      "word": "金字塔顶端发现一条狗",
-      "onboard_time": 1729082422,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 91378,
       "num": 187266,
       "word": "国庆第一天九寨沟飘起鹅毛大雪",
@@ -41241,6 +41289,14 @@
       "onboard_time": 1728056240,
       "rank": 29,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 71011,
+      "num": 349420,
+      "word": "何广智这下真给他装到了",
+      "onboard_time": 1729082541,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 71000,
@@ -43276,7 +43332,7 @@
     },
     {
       "raw_hot": 50361,
-      "num": 138571,
+      "num": 290415,
       "word": "想兼职主播挣钱结果遭高额索赔",
       "onboard_time": 1729082360,
       "rank": 42,
@@ -44120,6 +44176,14 @@
       "word": "阿姨说找总监按摩听到咔嚓声后骨折",
       "onboard_time": 1728737482,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 44438,
+      "num": 309246,
+      "word": "警方回应网红博主机场强迫志愿者摘口罩",
+      "onboard_time": 1729083443,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -49105,14 +49169,6 @@
       "onboard_time": 1728459318,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 4617,
-      "num": 349420,
-      "word": "何广智这下真给他装到了",
-      "onboard_time": 1729082541,
-      "rank": 18,
-      "category": "综艺"
     }
   ],
   "hotgov_list": [

@@ -1,6 +1,6 @@
 {
   "startTime": 1729009695696,
-  "endTime": 1729082570171,
+  "endTime": 1729083550302,
   "band_list": [
     {
       "raw_hot": 3249713,
@@ -73,6 +73,14 @@
       "onboard_time": 1729061299,
       "rank": 10,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1903011,
+      "num": 352547,
+      "word": "妈妈称发现3岁女儿隐私部位出血",
+      "onboard_time": 1729081640,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1819131,
@@ -171,6 +179,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 1197725,
+      "num": 515918,
+      "word": "马天宇 你装完了吗",
+      "onboard_time": 1729076301,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1189197,
       "num": 853990,
       "word": "八角笼中",
@@ -193,14 +209,6 @@
       "onboard_time": 1729037299,
       "rank": 3,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 1116306,
-      "num": 515918,
-      "word": "马天宇 你装完了吗",
-      "onboard_time": 1729076301,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 1113585,
@@ -233,6 +241,14 @@
       "onboard_time": 1729069220,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1000719,
+      "num": 1000719,
+      "word": "步步高被申请破产",
+      "onboard_time": 1729079480,
+      "rank": 1,
+      "category": "教育"
     },
     {
       "raw_hot": 998503,
@@ -339,14 +355,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 786377,
-      "num": 352547,
-      "word": "妈妈称发现3岁女儿隐私部位出血",
-      "onboard_time": 1729081640,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 785837,
       "num": 785837,
       "word": "朝鲜140万青年参军或复队",
@@ -369,14 +377,6 @@
       "onboard_time": 1729049720,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 729993,
-      "num": 729993,
-      "word": "步步高被申请破产",
-      "onboard_time": 1729079480,
-      "rank": 1,
-      "category": "教育"
     },
     {
       "raw_hot": 719078,
@@ -651,6 +651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 464084,
+      "num": 348676,
+      "word": "金字塔顶端发现一条狗",
+      "onboard_time": 1729082422,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 452081,
       "num": 452081,
       "word": "这声东方巨响让中国人挺直了腰杆",
@@ -665,6 +673,14 @@
       "onboard_time": 1728992840,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 438542,
+      "num": 350925,
+      "word": "伍佰的歌",
+      "onboard_time": 1729073780,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 437708,
@@ -723,14 +739,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 413025,
-      "num": 350925,
-      "word": "伍佰的歌",
-      "onboard_time": 1729073780,
-      "rank": 43,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 411805,
       "num": 468920,
       "word": "粥饼伦终于开店了",
@@ -745,6 +753,14 @@
       "onboard_time": 1729061839,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 398116,
+      "num": 345648,
+      "word": "上海徐汇滨江频现遛异宠现象",
+      "onboard_time": 1729078342,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 397272,
@@ -769,14 +785,6 @@
       "onboard_time": 1729071320,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 378153,
-      "num": 345648,
-      "word": "上海徐汇滨江频现遛异宠现象",
-      "onboard_time": 1729078342,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 368410,
@@ -1091,6 +1099,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 252420,
+      "num": 350220,
+      "word": "新一轮降雨新一股强冷空气都来了",
+      "onboard_time": 1729081160,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 250157,
       "num": 250157,
       "word": "时代少年团时尚芭莎封面预告",
@@ -1137,6 +1153,14 @@
       "onboard_time": 1729050801,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 244025,
+      "num": 244025,
+      "word": "Jennie勺子短裤",
+      "onboard_time": 1729080801,
+      "rank": 25,
+      "category": "演出"
     },
     {
       "raw_hot": 244003,
@@ -1201,14 +1225,6 @@
       "onboard_time": 1729070839,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 230448,
-      "num": 230448,
-      "word": "Jennie勺子短裤",
-      "onboard_time": 1729080801,
-      "rank": 25,
-      "category": "演出"
     },
     {
       "raw_hot": 229495,
@@ -1299,6 +1315,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 211880,
+      "num": 203633,
+      "word": "肖战工作室出图",
+      "onboard_time": 1729083202,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 211768,
       "num": 211768,
       "word": "艾琳周年庆皮肤爆料",
@@ -1369,6 +1393,14 @@
       "onboard_time": 1729051702,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 204631,
+      "num": 204631,
+      "word": "冷冷冷冷山东冷冷冷冷",
+      "onboard_time": 1729079001,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 204270,
@@ -1499,6 +1531,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 191000,
+      "num": 191000,
+      "word": "教科局回应禁止学生参加cosplay",
+      "onboard_time": 1729079721,
+      "rank": 34,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 190799,
       "num": 190799,
       "word": "印尼主帅用韩国俚语吐槽国足踢法",
@@ -1512,6 +1552,14 @@
       "word": "开发商回应成都拆迁",
       "onboard_time": 1729071860,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 189273,
+      "num": 189273,
+      "word": "飞鹤奶粉",
+      "onboard_time": 1729082780,
+      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -1667,28 +1715,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 178551,
-      "num": 178551,
-      "word": "冷冷冷冷山东冷冷冷冷",
-      "onboard_time": 1729079001,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 177519,
       "num": 252465,
       "word": "辰咪CP",
       "onboard_time": 1729055601,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 176665,
-      "num": 176665,
-      "word": "教科局回应禁止学生参加cosplay",
-      "onboard_time": 1729079721,
-      "rank": 34,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 174651,
@@ -1795,12 +1827,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 163856,
+      "num": 163856,
+      "word": "樊振东许昕赛前训练画面",
+      "onboard_time": 1729082661,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 163724,
       "num": 163724,
       "word": "张真源羊羔毛大衣卷毛造型",
       "onboard_time": 1729046780,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 163583,
+      "num": 163583,
+      "word": "华晨宇代言温碧泉",
+      "onboard_time": 1729082661,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 162857,
@@ -1897,6 +1945,14 @@
       "onboard_time": 1729006339,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 153943,
+      "num": 153943,
+      "word": "陆嘉学 告诉她苦果亦是果",
+      "onboard_time": 1729083080,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 152337,
@@ -2001,6 +2057,14 @@
       "onboard_time": 1729066880,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 142757,
+      "num": 142757,
+      "word": "医生劝你护肤主要做好两件事",
+      "onboard_time": 1729081461,
+      "rank": 46,
+      "category": "美妆"
     },
     {
       "raw_hot": 140583,
@@ -2227,14 +2291,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 110125,
-      "num": 350220,
-      "word": "新一轮降雨新一股强冷空气都来了",
-      "onboard_time": 1729081160,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 108550,
       "num": 108550,
       "word": "林高远刘诗雯全锦赛混双夺冠",
@@ -2329,14 +2385,6 @@
       "onboard_time": 1728999079,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 91430,
-      "num": 348676,
-      "word": "金字塔顶端发现一条狗",
-      "onboard_time": 1729082422,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 91089,
@@ -2483,6 +2531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 71011,
+      "num": 349420,
+      "word": "何广智这下真给他装到了",
+      "onboard_time": 1729082541,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 65868,
       "num": 367920,
       "word": "多方回应一男子扮女装凌晨尾随女子",
@@ -2580,7 +2636,7 @@
     },
     {
       "raw_hot": 50361,
-      "num": 138571,
+      "num": 290415,
       "word": "想兼职主播挣钱结果遭高额索赔",
       "onboard_time": 1729082360,
       "rank": 42,
@@ -2656,6 +2712,14 @@
       "word": "我是子涵大军中的一员",
       "onboard_time": 1729051642,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 44438,
+      "num": 309246,
+      "word": "警方回应网红博主机场强迫志愿者摘口罩",
+      "onboard_time": 1729083443,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -3033,14 +3097,6 @@
       "onboard_time": 1729077381,
       "rank": 14,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 4617,
-      "num": 349420,
-      "word": "何广智这下真给他装到了",
-      "onboard_time": 1729082541,
-      "rank": 18,
-      "category": "综艺"
     }
   ],
   "hotgov_list": [
