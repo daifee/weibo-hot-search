@@ -1,0 +1,410 @@
+{
+  "runTime": 1729052823444,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1528024,
+        "num": 1528024,
+        "word": "各地最低工资标准一览表",
+        "onboard_time": 1729046898,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1288348,
+        "num": 1288348,
+        "word": "山西被打女孩父亲回应7名同学已道歉",
+        "onboard_time": 1729050080,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116766,
+        "num": 1084002,
+        "word": "美政府和微软公司拒绝回应",
+        "onboard_time": 1729046418,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1041048,
+        "num": 1041048,
+        "word": "奔跑吧新一季原班人马",
+        "onboard_time": 1729047319,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 998503,
+        "num": 998503,
+        "word": "张本智和说庆祝动作是致敬樊振东",
+        "onboard_time": 1729048700,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 781191,
+        "num": 781191,
+        "word": "郑钦文宁网退赛",
+        "onboard_time": 1729049720,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 582189,
+        "num": 582189,
+        "word": "刚出生就1米8的小公主来啦",
+        "onboard_time": 1729041317,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 528015,
+        "num": 528015,
+        "word": "无人机侵入事件朝鲜为何反应激烈",
+        "onboard_time": 1729043659,
+        "rank": 7,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 386074,
+        "num": 526299,
+        "word": "杨迪看中医90秒被吓到5次",
+        "onboard_time": 1729049900,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 231412,
+        "num": 519183,
+        "word": "大学生做兼职名下多了21家公司",
+        "onboard_time": 1729051460,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1335622,
+        "num": 515847,
+        "word": "韩素希用小号给李惠利留恶评",
+        "onboard_time": 1729049060,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1159441,
+        "num": 511952,
+        "word": "维密 大码模特",
+        "onboard_time": 1729048340,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 934314,
+        "num": 506956,
+        "word": "刘强东章泽天夫妇报案",
+        "onboard_time": 1729040959,
+        "rank": 12,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 741842,
+        "num": 501193,
+        "word": "18岁女主播奔现榜一大哥被骗2万多",
+        "onboard_time": 1729047201,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 74846,
+        "num": 496851,
+        "word": "外卖员拉玻璃门后破碎商家要求赔偿",
+        "onboard_time": 1729051581,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 640429,
+        "num": 487600,
+        "word": "韩国军方下达火力待命指南",
+        "onboard_time": 1729041080,
+        "rank": 15,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 322744,
+        "num": 484527,
+        "word": "陈赫回应说黄磊做饭好吃",
+        "onboard_time": 1729045339,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91089,
+        "num": 477918,
+        "word": "随手一拍就是电影志愿军的彩蛋",
+        "onboard_time": 1729052302,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 476312,
+        "num": 476312,
+        "word": "我国原子弹爆炸成功60周年",
+        "onboard_time": 1729041080,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 25943,
+        "num": 444555,
+        "word": "我是子涵大军中的一员",
+        "onboard_time": 1729051642,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1013496,
+        "num": 444081,
+        "word": "班主任在班级群发飙后被停职",
+        "onboard_time": 1729010117,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 426753,
+        "num": 426753,
+        "word": "孩子被余华英拐走他背负卖子骂名30年",
+        "onboard_time": 1729045519,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 420923,
+        "num": 420923,
+        "word": "韩美日将讨论朝鲜发起严重挑衅可能性",
+        "onboard_time": 1729051341,
+        "rank": 22,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 394834,
+        "num": 394834,
+        "word": "中国第一颗原子弹爆炸倒计时画面",
+        "onboard_time": 1729051881,
+        "rank": 23,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 392930,
+        "num": 392930,
+        "word": "预制菜发展到什么程度了",
+        "onboard_time": 1729050201,
+        "rank": 24,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 392238,
+        "num": 392238,
+        "word": "这声东方巨响让中国人挺直了腰杆",
+        "onboard_time": 1729047319,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 301319,
+        "num": 301319,
+        "word": "任天堂闹钟卖断货",
+        "onboard_time": 1729050982,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 280979,
+        "num": 280979,
+        "word": "宋雨琦人在上班心在云南",
+        "onboard_time": 1729049540,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 37724,
+        "num": 279628,
+        "word": "天猫双11华为手机至高优惠两千",
+        "onboard_time": 1729051521,
+        "rank": 28,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 210994,
+        "num": 279137,
+        "word": "现在就出发2官宣白敬亭",
+        "onboard_time": 1729050140,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 62532,
+        "num": 278924,
+        "word": "比亚迪30周年抽30辆仰望送车主",
+        "onboard_time": 1729049841,
+        "rank": 30,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 278819,
+        "num": 278819,
+        "word": "金正恩指明朝鲜军事活动方向",
+        "onboard_time": 1728964940,
+        "rank": 31,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 269106,
+        "num": 269106,
+        "word": "警方回应女孩被同学打的满嘴是血",
+        "onboard_time": 1729045160,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 266868,
+        "num": 266868,
+        "word": "25地最低工资标准不低于2000元",
+        "onboard_time": 1729050021,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 263250,
+        "num": 263250,
+        "word": "Hanni国会合影自拍",
+        "onboard_time": 1729051999,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 258585,
+        "num": 258585,
+        "word": "教师情绪失控不是小问题",
+        "onboard_time": 1729052601,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254783,
+        "num": 254783,
+        "word": "德国出现针对中国女性连环强奸犯",
+        "onboard_time": 1729037840,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250493,
+        "num": 250493,
+        "word": "Gigi大开",
+        "onboard_time": 1729049780,
+        "rank": 37,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 239960,
+        "num": 239960,
+        "word": "美国限期以色列30天改善加沙现状",
+        "onboard_time": 1729052061,
+        "rank": 38,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 219200,
+        "num": 219200,
+        "word": "张子枫ELLE首封",
+        "onboard_time": 1729050919,
+        "rank": 39,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 216296,
+        "num": 216296,
+        "word": "南宁2名11岁女孩失联",
+        "onboard_time": 1729050801,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207283,
+        "num": 207283,
+        "word": "朝鲜140万青年参军或复队",
+        "onboard_time": 1729036999,
+        "rank": 41,
+        "category": "国外时政,军事"
+      },
+      {
+        "raw_hot": 206279,
+        "num": 206279,
+        "word": "赵丽颖高定纱裙",
+        "onboard_time": 1729035438,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206156,
+        "num": 206156,
+        "word": "女孩拿刚买的黄金做成美甲",
+        "onboard_time": 1729041258,
+        "rank": 43,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 204988,
+        "num": 204988,
+        "word": "郑钦文回应退赛",
+        "onboard_time": 1729051702,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 204706,
+        "num": 204706,
+        "word": "百亿票房男演员名单",
+        "onboard_time": 1729044439,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202322,
+        "num": 202322,
+        "word": "奔跑吧茶马古道教科书式官宣",
+        "onboard_time": 1729048278,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198324,
+        "num": 198324,
+        "word": "周放连续十三年为赵丽颖庆生",
+        "onboard_time": 1729051280,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192614,
+        "num": 192614,
+        "word": "虞书欣新歌心弦Heart上线",
+        "onboard_time": 1729052181,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 195410,
+        "num": 192354,
+        "word": "范丞丞cos向佐",
+        "onboard_time": 1729045098,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#粮食安全是国之大者#"
+    }
+  }
+}

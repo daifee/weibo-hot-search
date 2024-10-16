@@ -1,6 +1,6 @@
 {
   "startTime": 1728750414717,
-  "endTime": 1729050259692,
+  "endTime": 1729052823444,
   "band_list": [
     {
       "raw_hot": 17915004,
@@ -435,6 +435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1528024,
+      "num": 1528024,
+      "word": "各地最低工资标准一览表",
+      "onboard_time": 1729046898,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1520873,
       "num": 1520873,
       "word": "朝韩关系为何一下变天",
@@ -619,6 +627,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1288348,
+      "num": 1288348,
+      "word": "山西被打女孩父亲回应7名同学已道歉",
+      "onboard_time": 1729050080,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1287431,
       "num": 747012,
       "word": "杨紫鲨鱼裤穿搭",
@@ -715,14 +731,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1215941,
-      "num": 1215941,
-      "word": "各地最低工资标准一览表",
-      "onboard_time": 1729046898,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1215798,
       "num": 1215798,
       "word": "上海爷叔现身被大量股民围观",
@@ -777,6 +785,14 @@
       "onboard_time": 1728960258,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1159441,
+      "num": 530116,
+      "word": "维密 大码模特",
+      "onboard_time": 1729048340,
+      "rank": 12,
+      "category": "时尚"
     },
     {
       "raw_hot": 1156956,
@@ -963,12 +979,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 1005924,
-      "num": 530116,
-      "word": "维密 大码模特",
-      "onboard_time": 1729048340,
-      "rank": 12,
-      "category": "时尚"
+      "raw_hot": 998503,
+      "num": 998503,
+      "word": "张本智和说庆祝动作是致敬樊振东",
+      "onboard_time": 1729048700,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 997545,
@@ -1379,6 +1395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 781191,
+      "num": 781191,
+      "word": "郑钦文宁网退赛",
+      "onboard_time": 1729049720,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 777677,
       "num": 312230,
       "word": "景德镇车祸肇事方提出养老换谅解",
@@ -1739,6 +1763,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 640429,
+      "num": 497506,
+      "word": "韩国军方下达火力待命指南",
+      "onboard_time": 1729041080,
+      "rank": 27,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 638140,
       "num": 638140,
       "word": "刘学义谈给妈妈换肾",
@@ -1889,22 +1921,6 @@
       "onboard_time": 1728955458,
       "rank": 22,
       "category": "体育"
-    },
-    {
-      "raw_hot": 586997,
-      "num": 586997,
-      "word": "张本智和说庆祝动作是致敬樊振东",
-      "onboard_time": 1729048700,
-      "rank": 18,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 580297,
-      "num": 497506,
-      "word": "韩国军方下达火力待命指南",
-      "onboard_time": 1729041080,
-      "rank": 27,
-      "category": "国外时政"
     },
     {
       "raw_hot": 577803,
@@ -2283,6 +2299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 476312,
+      "num": 476312,
+      "word": "我国原子弹爆炸成功60周年",
+      "onboard_time": 1729041080,
+      "rank": 37,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 475650,
       "num": 293988,
       "word": "德国出现针对中国女性连环强奸犯",
@@ -2595,6 +2619,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 420923,
+      "num": 420923,
+      "word": "韩美日将讨论朝鲜发起严重挑衅可能性",
+      "onboard_time": 1729051341,
+      "rank": 22,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 419457,
       "num": 419457,
       "word": "郑秀妍郑秀晶黄礼志申有娜新闻图",
@@ -2699,6 +2731,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 394834,
+      "num": 394834,
+      "word": "中国第一颗原子弹爆炸倒计时画面",
+      "onboard_time": 1729051881,
+      "rank": 23,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 392930,
+      "num": 392930,
+      "word": "预制菜发展到什么程度了",
+      "onboard_time": 1729050201,
+      "rank": 48,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 392321,
       "num": 392321,
       "word": "炒股4天亏32万程序员回应",
@@ -2721,6 +2769,14 @@
       "onboard_time": 1728906858,
       "rank": 24,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 386074,
+      "num": 526299,
+      "word": "杨迪看中医90秒被吓到5次",
+      "onboard_time": 1729049900,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 385118,
@@ -3187,14 +3243,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 317587,
-      "num": 317587,
-      "word": "郑钦文宁网退赛",
-      "onboard_time": 1729049720,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 317275,
       "num": 492227,
       "word": "王睡睡刚打开的心结又被杨子关上了",
@@ -3281,6 +3329,14 @@
       "onboard_time": 1728885378,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 301319,
+      "num": 301319,
+      "word": "任天堂闹钟卖断货",
+      "onboard_time": 1729050982,
+      "rank": 26,
+      "category": "游戏"
     },
     {
       "raw_hot": 300979,
@@ -3483,14 +3539,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 289215,
-      "num": 289215,
-      "word": "我国原子弹爆炸成功60周年",
-      "onboard_time": 1729041080,
-      "rank": 37,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 288948,
       "num": 288948,
       "word": "相册里的收银员变成男演员了",
@@ -3561,6 +3609,14 @@
       "onboard_time": 1728904819,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 280979,
+      "num": 280979,
+      "word": "宋雨琦人在上班心在云南",
+      "onboard_time": 1729049540,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 280180,
@@ -3691,14 +3747,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 272325,
-      "num": 272325,
-      "word": "山西被打女孩父亲回应7名同学已道歉",
-      "onboard_time": 1729050080,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 270242,
       "num": 270242,
       "word": "萨巴伦卡武网三连冠",
@@ -3721,6 +3769,14 @@
       "onboard_time": 1728868339,
       "rank": 30,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 266868,
+      "num": 266868,
+      "word": "25地最低工资标准不低于2000元",
+      "onboard_time": 1729050021,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 266011,
@@ -3785,6 +3841,14 @@
       "onboard_time": 1728912983,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 263250,
+      "num": 263250,
+      "word": "Hanni国会合影自拍",
+      "onboard_time": 1729051999,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 262916,
@@ -3857,6 +3921,14 @@
       "onboard_time": 1728991038,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 258585,
+      "num": 258585,
+      "word": "教师情绪失控不是小问题",
+      "onboard_time": 1729052601,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 258444,
@@ -3961,6 +4033,14 @@
       "onboard_time": 1728904579,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 250493,
+      "num": 250493,
+      "word": "Gigi大开",
+      "onboard_time": 1729049780,
+      "rank": 43,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 250157,
@@ -4115,6 +4195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 239960,
+      "num": 239960,
+      "word": "美国限期以色列30天改善加沙现状",
+      "onboard_time": 1729052061,
+      "rank": 38,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 239948,
       "num": 298268,
       "word": "87版红楼梦",
@@ -4209,6 +4297,14 @@
       "onboard_time": 1729048700,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 231412,
+      "num": 519183,
+      "word": "大学生做兼职名下多了21家公司",
+      "onboard_time": 1729051460,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 231312,
@@ -4491,6 +4587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 219200,
+      "num": 219200,
+      "word": "张子枫ELLE首封",
+      "onboard_time": 1729050919,
+      "rank": 39,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 218990,
       "num": 218990,
       "word": "台独挑衅一次反制就推进一步",
@@ -4561,6 +4665,14 @@
       "onboard_time": 1728963078,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 216296,
+      "num": 216296,
+      "word": "南宁2名11岁女孩失联",
+      "onboard_time": 1729050801,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 215811,
@@ -4643,14 +4755,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 213863,
-      "num": 213863,
-      "word": "宋雨琦人在上班心在云南",
-      "onboard_time": 1729049540,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 213511,
       "num": 213511,
       "word": "林诗栋挺进决赛",
@@ -4721,6 +4825,14 @@
       "onboard_time": 1728870558,
       "rank": 41,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 210994,
+      "num": 279137,
+      "word": "现在就出发2官宣白敬亭",
+      "onboard_time": 1729050140,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 210427,
@@ -4867,14 +4979,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 205909,
-      "num": 275324,
-      "word": "杨迪看中医90秒被吓到5次",
-      "onboard_time": 1729049900,
-      "rank": 29,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 205790,
       "num": 335526,
       "word": "杨紫李现国色芳华开始招商",
@@ -4883,12 +4987,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 204730,
-      "num": 204730,
-      "word": "Gigi大开",
-      "onboard_time": 1729049780,
-      "rank": 43,
-      "category": "作品衍生,时尚"
+      "raw_hot": 204988,
+      "num": 204988,
+      "word": "郑钦文回应退赛",
+      "onboard_time": 1729051702,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 204592,
@@ -5001,6 +5105,14 @@
       "onboard_time": 1728792500,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 202322,
+      "num": 231987,
+      "word": "奔跑吧茶马古道教科书式官宣",
+      "onboard_time": 1729048278,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 202080,
@@ -5169,6 +5281,14 @@
       "onboard_time": 1728747020,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 198324,
+      "num": 198324,
+      "word": "周放连续十三年为赵丽颖庆生",
+      "onboard_time": 1729051280,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 197983,
@@ -5347,14 +5467,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 193973,
-      "num": 193973,
-      "word": "25地最低工资标准不低于2000元",
-      "onboard_time": 1729050021,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 193935,
       "num": 285646,
       "word": "滨崎步上海",
@@ -5409,6 +5521,14 @@
       "onboard_time": 1728901637,
       "rank": 27,
       "category": "音乐,艺人"
+    },
+    {
+      "raw_hot": 192614,
+      "num": 192614,
+      "word": "虞书欣新歌心弦Heart上线",
+      "onboard_time": 1729052181,
+      "rank": 48,
+      "category": "音乐"
     },
     {
       "raw_hot": 192324,
@@ -5481,14 +5601,6 @@
       "onboard_time": 1728823459,
       "rank": 31,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 190843,
-      "num": 214222,
-      "word": "现在就出发2官宣白敬亭",
-      "onboard_time": 1729050140,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 190832,
@@ -5593,14 +5705,6 @@
       "onboard_time": 1728787159,
       "rank": 27,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 188252,
-      "num": 231987,
-      "word": "奔跑吧茶马古道教科书式官宣",
-      "onboard_time": 1729048278,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 188189,
@@ -6473,14 +6577,6 @@
       "onboard_time": 1728892339,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 160095,
-      "num": 160095,
-      "word": "预制菜发展到什么程度了",
-      "onboard_time": 1729050201,
-      "rank": 48,
-      "category": "科学科普"
     },
     {
       "raw_hot": 159887,
@@ -7627,20 +7723,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 116766,
+      "num": 1084002,
+      "word": "美政府和微软公司拒绝回应",
+      "onboard_time": 1729046418,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 116695,
       "num": 116695,
       "word": "宠物罐头已经比人吃的还贵了",
       "onboard_time": 1728816381,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 116633,
-      "num": 1082841,
-      "word": "美政府和微软公司拒绝回应",
-      "onboard_time": 1729046418,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 116583,
@@ -8235,6 +8331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 91089,
+      "num": 477918,
+      "word": "随手一拍就是电影志愿军的彩蛋",
+      "onboard_time": 1729052302,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 90658,
       "num": 119511,
       "word": "李荣浩演唱会",
@@ -8563,6 +8667,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 74846,
+      "num": 496851,
+      "word": "外卖员拉玻璃门后破碎商家要求赔偿",
+      "onboard_time": 1729051581,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 74055,
       "num": 146865,
       "word": "东部战区战训画面太燃了",
@@ -8787,6 +8899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 62532,
+      "num": 278924,
+      "word": "比亚迪30周年抽30辆仰望送车主",
+      "onboard_time": 1729049841,
+      "rank": 37,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 62194,
       "num": 62194,
       "word": "郑钦文身体欠佳已尽全力",
@@ -8889,14 +9009,6 @@
       "onboard_time": 1728911841,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 57298,
-      "num": 218186,
-      "word": "比亚迪30周年抽30辆仰望送车主",
-      "onboard_time": 1729049841,
-      "rank": 37,
-      "category": "汽车"
     },
     {
       "raw_hot": 57068,
@@ -9531,6 +9643,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 37724,
+      "num": 279628,
+      "word": "天猫双11华为手机至高优惠两千",
+      "onboard_time": 1729051521,
+      "rank": 28,
+      "category": "数码"
+    },
+    {
       "raw_hot": 37563,
       "num": 313555,
       "word": "企业虚标大米保质期卖学校被罚超690万",
@@ -10049,6 +10169,14 @@
       "onboard_time": 1728988519,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 25943,
+      "num": 444555,
+      "word": "我是子涵大军中的一员",
+      "onboard_time": 1729051642,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 25855,
