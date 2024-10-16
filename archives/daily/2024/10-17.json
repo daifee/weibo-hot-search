@@ -1,6 +1,6 @@
 {
   "startTime": 1729096028716,
-  "endTime": 1729118353516,
+  "endTime": 1729120962170,
   "band_list": [
     {
       "raw_hot": 1528782,
@@ -19,7 +19,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 950591,
+      "raw_hot": 963253,
       "num": 237479,
       "word": "多名中国女性在德国遭强奸",
       "onboard_time": 1729074259,
@@ -51,6 +51,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 734720,
+      "num": 200492,
+      "word": "王超生前录音曝光",
+      "onboard_time": 1729103415,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 495145,
       "num": 874292,
       "word": "UNIQ 解散",
@@ -64,6 +72,14 @@
       "word": "河南一地发生刑事案件",
       "onboard_time": 1729088783,
       "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 491027,
+      "num": 200218,
+      "word": "女主播奔现榜一大哥同居被骗2万多",
+      "onboard_time": 1729104311,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -99,19 +115,27 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 345073,
-      "num": 85976,
-      "word": "王超生前录音曝光",
-      "onboard_time": 1729103415,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 306315,
-      "num": 306315,
+      "raw_hot": 380059,
+      "num": 769212,
       "word": "进上海迪士尼乐园不能带扑克牌",
       "onboard_time": 1729086921,
       "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 373110,
+      "num": 205196,
+      "word": "名媛培训班收割中年男明星",
+      "onboard_time": 1729087822,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 326454,
+      "num": 212517,
+      "word": "金字塔顶端发现一条狗",
+      "onboard_time": 1729082422,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -131,6 +155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 282653,
+      "num": 471928,
+      "word": "100岁姐姐与94岁妹妹的极限拉扯",
+      "onboard_time": 1729107131,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 277900,
       "num": 215998,
       "word": "韦雪情商",
@@ -145,30 +177,6 @@
       "onboard_time": 1729076301,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 265897,
-      "num": 212517,
-      "word": "金字塔顶端发现一条狗",
-      "onboard_time": 1729082422,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 250311,
-      "num": 205196,
-      "word": "名媛培训班收割中年男明星",
-      "onboard_time": 1729087822,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 240787,
-      "num": 471928,
-      "word": "100岁姐姐与94岁妹妹的极限拉扯",
-      "onboard_time": 1729107131,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 240325,
@@ -195,20 +203,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 203251,
-      "num": 85439,
-      "word": "女主播奔现榜一大哥同居被骗2万多",
-      "onboard_time": 1729104311,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 202539,
       "num": 202539,
       "word": "姆巴佩被指控强奸",
       "onboard_time": 1729075941,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 190744,
+      "num": 190744,
+      "word": "大学生售卖336部淫秽视频被判刑",
+      "onboard_time": 1729118533,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 178817,
@@ -219,12 +227,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 171960,
+      "num": 171960,
+      "word": "老师给4岁孩子剪指甲4个指头流血",
+      "onboard_time": 1729096098,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 167434,
       "num": 167434,
       "word": "薛冰冰为赵露思化的妆",
       "onboard_time": 1729086801,
       "rank": 24,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 144143,
+      "num": 144143,
+      "word": "王一博是乐华签的第一个艺人",
+      "onboard_time": 1729097476,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 143700,
@@ -235,8 +259,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 140092,
+      "num": 98370,
+      "word": "超43公斤卫龙亲嘴烧在日本被召回",
+      "onboard_time": 1729075581,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 138373,
-      "num": 138373,
+      "num": 194324,
       "word": "肖战宝诗龙活动压轴出场",
       "onboard_time": 1729094539,
       "rank": 26,
@@ -283,22 +315,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 120691,
-      "num": 120691,
-      "word": "老师给4岁孩子剪指甲4个指头流血",
-      "onboard_time": 1729096098,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 120223,
-      "num": 120223,
-      "word": "王一博是乐华签的第一个艺人",
-      "onboard_time": 1729097476,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 119977,
       "num": 119977,
       "word": "中国网安协会点名英特尔暗设后门",
@@ -324,7 +340,7 @@
     },
     {
       "raw_hot": 109808,
-      "num": 109808,
+      "num": 195548,
       "word": "上海徐汇滨江频现遛异宠现象",
       "onboard_time": 1729078342,
       "rank": 35,
@@ -355,8 +371,16 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 99981,
+      "num": 99981,
+      "word": "王宝强曾说资助拍戏的孩子们上大学",
+      "onboard_time": 1729115112,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 99714,
-      "num": 99714,
+      "num": 202216,
       "word": "商丘永城王庄遗址发现距今约5000年大墓",
       "onboard_time": 1729097834,
       "rank": 28,
@@ -371,8 +395,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 97419,
-      "num": 97419,
+      "raw_hot": 97946,
+      "num": 97946,
       "word": "姐弟坠楼案母亲期待再遇见爱情",
       "onboard_time": 1729081581,
       "rank": 40,
@@ -435,12 +459,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 77659,
+      "num": 98527,
+      "word": "赵丽颖3提金鹰视后",
+      "onboard_time": 1729116672,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 75985,
-      "num": 79047,
+      "num": 191889,
       "word": "官方回应拆迁不可能一户赔几千万",
       "onboard_time": 1729073780,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 73129,
+      "num": 73129,
+      "word": "乐华总经理说王一博天生是好艺人",
+      "onboard_time": 1729115411,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 69992,
@@ -459,11 +499,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 60934,
-      "num": 44354,
-      "word": "超43公斤卫龙亲嘴烧在日本被召回",
-      "onboard_time": 1729075581,
-      "rank": 44,
+      "raw_hot": 64017,
+      "num": 64017,
+      "word": "教育局回应女童在幼儿园疑似被侵犯",
+      "onboard_time": 1729106232,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -476,7 +516,7 @@
     },
     {
       "raw_hot": 53259,
-      "num": 53259,
+      "num": 63881,
       "word": "金与正表示挑衅者将付出代价",
       "onboard_time": 1729105752,
       "rank": 15,
@@ -491,20 +531,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 48146,
-      "num": 44480,
-      "word": "乐华总经理说王一博天生是好艺人",
-      "onboard_time": 1729115411,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 44501,
-      "num": 44501,
-      "word": "王宝强曾说资助拍戏的孩子们上大学",
-      "onboard_time": 1729115112,
-      "rank": 29,
-      "category": "电影"
+      "raw_hot": 46459,
+      "num": 63976,
+      "word": "网传教科局通知严禁学生参加cos活动",
+      "onboard_time": 1729102393,
+      "rank": 27,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 44246,
@@ -515,12 +547,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 42653,
-      "num": 42653,
-      "word": "网传教科局通知严禁学生参加cos活动",
-      "onboard_time": 1729102393,
-      "rank": 27,
-      "category": "社会新闻,教育"
+      "raw_hot": 40373,
+      "num": 63913,
+      "word": "史上最强该死的温柔",
+      "onboard_time": 1729113612,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 38639,
@@ -539,20 +571,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 34848,
+      "num": 63904,
+      "word": "新疆3.8级地震",
+      "onboard_time": 1729118123,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 34392,
       "num": 70091,
       "word": "宝力青宝抵达美国华盛顿国家动物园",
       "onboard_time": 1729102932,
       "rank": 9,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 34279,
-      "num": 34279,
-      "word": "教育局回应女童在幼儿园疑似被侵犯",
-      "onboard_time": 1729106232,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 33992,
@@ -563,28 +595,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 32619,
-      "num": 44355,
-      "word": "赵丽颖3提金鹰视后",
-      "onboard_time": 1729116672,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 32275,
-      "num": 32275,
+      "num": 63837,
       "word": "新疆棉采收现场科技感满满",
       "onboard_time": 1729114511,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 27936,
-      "num": 29155,
-      "word": "史上最强该死的温柔",
-      "onboard_time": 1729113612,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 27844,
@@ -616,14 +632,6 @@
       "word": "女主播奔现榜一大哥实为离异待业男",
       "onboard_time": 1729106112,
       "rank": 43,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 20237,
-      "num": 26987,
-      "word": "新疆3.8级地震",
-      "onboard_time": 1729118123,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -691,6 +699,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 11489,
+      "num": 207602,
+      "word": "文化中国行丹青中华",
+      "onboard_time": 1729083982,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 11081,
       "num": 25836,
       "word": "金秋硕果壁纸",
@@ -703,14 +719,6 @@
       "num": 192006,
       "word": "太空视角瞰丰收的田野",
       "onboard_time": 1729084701,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 8585,
-      "num": 149629,
-      "word": "文化中国行丹青中华",
-      "onboard_time": 1729083982,
       "rank": 2,
       "category": "社会新闻"
     },
