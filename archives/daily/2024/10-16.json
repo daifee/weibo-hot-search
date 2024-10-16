@@ -1,6 +1,6 @@
 {
   "startTime": 1729009695696,
-  "endTime": 1729043002911,
+  "endTime": 1729044050662,
   "band_list": [
     {
       "raw_hot": 2678791,
@@ -11,8 +11,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1708814,
-      "num": 1708814,
+      "raw_hot": 1788024,
+      "num": 1788024,
       "word": "刘强东章泽天夫妇报案",
       "onboard_time": 1729040959,
       "rank": 0,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 820289,
-      "num": 323341,
+      "num": 424282,
       "word": "死者父亲将起诉出轨儿媳索赔150万",
       "onboard_time": 1729006759,
       "rank": 10,
@@ -67,8 +67,16 @@
       "category": "国外时政,军事"
     },
     {
+      "raw_hot": 754860,
+      "num": 754860,
+      "word": "无人机侵入事件朝鲜为何反应激烈",
+      "onboard_time": 1729043659,
+      "rank": 4,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 694248,
-      "num": 386596,
+      "num": 449447,
       "word": "韩国总统尹锡悦不支持率超过70%",
       "onboard_time": 1729017614,
       "rank": 42,
@@ -81,6 +89,14 @@
       "onboard_time": 1728996500,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 663650,
+      "num": 457281,
+      "word": "刚出生就1米8的小公主来啦",
+      "onboard_time": 1729041317,
+      "rank": 18,
+      "category": "幽默"
     },
     {
       "raw_hot": 639143,
@@ -132,7 +148,7 @@
     },
     {
       "raw_hot": 510353,
-      "num": 324112,
+      "num": 445161,
       "word": "赵丽颖高定纱裙",
       "onboard_time": 1729035438,
       "rank": 11,
@@ -148,7 +164,7 @@
     },
     {
       "raw_hot": 473016,
-      "num": 323129,
+      "num": 431340,
       "word": "张峻豪余宇涵或将加入TFING",
       "onboard_time": 1729041618,
       "rank": 13,
@@ -164,15 +180,23 @@
     },
     {
       "raw_hot": 437708,
-      "num": 321626,
+      "num": 326213,
       "word": "刘雯粉色look",
       "onboard_time": 1729040899,
       "rank": 15,
       "category": "时尚"
     },
     {
+      "raw_hot": 437098,
+      "num": 289153,
+      "word": "一个考清华一个烤面包",
+      "onboard_time": 1729042939,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 411805,
-      "num": 393720,
+      "num": 468920,
       "word": "粥饼伦终于开店了",
       "onboard_time": 1729008679,
       "rank": 17,
@@ -187,6 +211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 353305,
+      "num": 471916,
+      "word": "翁青雅 恋综喜剧人",
+      "onboard_time": 1729040000,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 350444,
       "num": 350444,
       "word": "老外在中国治好了数学焦虑",
@@ -195,28 +227,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 342389,
-      "num": 321076,
+      "raw_hot": 350141,
+      "num": 350141,
       "word": "金正恩指明朝鲜军事活动方向",
       "onboard_time": 1728964940,
       "rank": 19,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 320784,
-      "num": 320784,
-      "word": "翁青雅 恋综喜剧人",
-      "onboard_time": 1729040000,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 316983,
-      "num": 316983,
-      "word": "刚出生就1米8的小公主来啦",
-      "onboard_time": 1729041317,
-      "rank": 18,
-      "category": "幽默"
     },
     {
       "raw_hot": 313002,
@@ -225,14 +241,6 @@
       "onboard_time": 1729001362,
       "rank": 7,
       "category": "体育"
-    },
-    {
-      "raw_hot": 308524,
-      "num": 289153,
-      "word": "一个考清华一个烤面包",
-      "onboard_time": 1729042939,
-      "rank": 23,
-      "category": "幽默"
     },
     {
       "raw_hot": 304657,
@@ -275,6 +283,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 247428,
+      "num": 247428,
+      "word": "王一博果然写了他的名字",
+      "onboard_time": 1729042939,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 240508,
       "num": 267527,
       "word": "老中青三代文艺工作者感悟深扎路",
@@ -307,11 +323,35 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 222770,
+      "num": 465729,
+      "word": "一个村50多人假住院骗保险",
+      "onboard_time": 1729042878,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 217525,
       "num": 217525,
       "word": "蔡依林 40岁还可以这样",
       "onboard_time": 1728998241,
       "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 209056,
+      "num": 209056,
+      "word": "梅西破门",
+      "onboard_time": 1729041800,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 208914,
+      "num": 208914,
+      "word": "白鹿说上一次来西安还是时宜",
+      "onboard_time": 1729042819,
+      "rank": 43,
       "category": "艺人"
     },
     {
@@ -321,6 +361,22 @@
       "onboard_time": 1729013174,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 200626,
+      "num": 200626,
+      "word": "闵塔鲨发迪丽热巴新造型",
+      "onboard_time": 1729042998,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 188116,
+      "num": 188116,
+      "word": "许许多多个邓稼先隐姓埋名以身许国",
+      "onboard_time": 1729043899,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 186656,
@@ -339,14 +395,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 185123,
-      "num": 185123,
-      "word": "王一博果然写了他的名字",
-      "onboard_time": 1729042939,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 182679,
       "num": 182679,
       "word": "蔡依林 你去年也这样讲吧",
@@ -360,6 +408,14 @@
       "word": "男子自称盗墓不为钱只因为好奇",
       "onboard_time": 1729025351,
       "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 180273,
+      "num": 180273,
+      "word": "男子收费教200多村民骗保险",
+      "onboard_time": 1729039641,
+      "rank": 40,
       "category": "社会新闻"
     },
     {
@@ -403,11 +459,35 @@
       "category": "体育"
     },
     {
+      "raw_hot": 168824,
+      "num": 168824,
+      "word": "我国原子弹爆炸成功60周年",
+      "onboard_time": 1729041080,
+      "rank": 37,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 166690,
       "num": 302225,
       "word": "收到1分钱找回了丢失1个月行李箱",
       "onboard_time": 1729034477,
       "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 164177,
+      "num": 164177,
+      "word": "晚宴的章昊",
+      "onboard_time": 1729042640,
+      "rank": 46,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 162321,
+      "num": 286173,
+      "word": "我国成功发射千帆极轨02组卫星",
+      "onboard_time": 1729007119,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -427,14 +507,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 157458,
-      "num": 286173,
-      "word": "我国成功发射千帆极轨02组卫星",
-      "onboard_time": 1729007119,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 156320,
       "num": 156320,
       "word": "敌军说中国话诱杀志愿军是真事",
@@ -451,27 +523,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 153021,
-      "num": 153021,
-      "word": "一个村50多人假住院骗保险",
-      "onboard_time": 1729042878,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 152226,
       "num": 152226,
       "word": "世界粮食日",
       "onboard_time": 1729042819,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 149488,
-      "num": 149488,
-      "word": "男子收费教200多村民骗保险",
-      "onboard_time": 1729039641,
-      "rank": 40,
       "category": "社会新闻"
     },
     {
@@ -491,19 +547,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 144490,
-      "num": 144490,
-      "word": "梅西破门",
-      "onboard_time": 1729041800,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 143851,
-      "num": 143851,
-      "word": "白鹿说上一次来西安还是时宜",
-      "onboard_time": 1729042819,
-      "rank": 43,
+      "raw_hot": 139663,
+      "num": 139663,
+      "word": "工作室发长文祝福赵丽颖",
+      "onboard_time": 1729043479,
+      "rank": 47,
       "category": "艺人"
     },
     {
@@ -539,20 +587,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 125503,
-      "num": 125503,
-      "word": "晚宴的章昊",
-      "onboard_time": 1729042640,
-      "rank": 46,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 123551,
       "num": 123551,
       "word": "英伟达市值一夜蒸发1.13万亿",
       "onboard_time": 1729042159,
       "rank": 47,
       "category": "财经"
+    },
+    {
+      "raw_hot": 122758,
+      "num": 325331,
+      "word": "民警和女友约会途中抓了4名嫌疑人",
+      "onboard_time": 1729041501,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 122296,
@@ -747,14 +795,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 68298,
-      "num": 325331,
-      "word": "民警和女友约会途中抓了4名嫌疑人",
-      "onboard_time": 1729041501,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 50622,
       "num": 81360,
       "word": "成都住房贷款可以商转公了",
@@ -809,6 +849,14 @@
       "onboard_time": 1729014912,
       "rank": 37,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 33271,
+      "num": 235076,
+      "word": "谢娜脱口秀rap",
+      "onboard_time": 1729042998,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 33254,
