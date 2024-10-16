@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1729068197047,
+  "endTime": 1729070685536,
   "band_list": [
     {
       "raw_hot": 17915004,
@@ -1041,6 +1041,14 @@
       "onboard_time": 1728736700,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1812957,
+      "num": 408460,
+      "word": "小学生将药磨成粉骗同学服用后续",
+      "onboard_time": 1729067060,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1798923,
@@ -4355,6 +4363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 845871,
+      "num": 424478,
+      "word": "UNIQ 王一博",
+      "onboard_time": 1729067839,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 844612,
       "num": 844612,
       "word": "男子漂流67天获救体重骤减100斤",
@@ -4785,6 +4801,14 @@
       "onboard_time": 1727867541,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 802790,
+      "num": 802790,
+      "word": "刘琳提名视后",
+      "onboard_time": 1729069159,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 802190,
@@ -7963,11 +7987,27 @@
       "category": "电影"
     },
     {
+      "raw_hot": 553728,
+      "num": 553728,
+      "word": "成都官方辟谣天价拆迁款",
+      "onboard_time": 1729067480,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 553308,
       "num": 553308,
       "word": "跑步入场的00后3天赚了3万",
       "onboard_time": 1728515296,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 553200,
+      "num": 389618,
+      "word": "班主任群内发飙学校称正安抚当事老师",
+      "onboard_time": 1729069220,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -8513,14 +8553,6 @@
       "onboard_time": 1728042499,
       "rank": 18,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 516744,
-      "num": 424478,
-      "word": "UNIQ 王一博",
-      "onboard_time": 1729067839,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 516376,
@@ -9233,6 +9265,14 @@
       "onboard_time": 1727740936,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 480666,
+      "num": 339370,
+      "word": "程序员炒股亏48万后宣布停更",
+      "onboard_time": 1729067420,
+      "rank": 30,
+      "category": "财经"
     },
     {
       "raw_hot": 480337,
@@ -10587,6 +10627,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 418230,
+      "num": 418230,
+      "word": "刘亦菲 金鹰",
+      "onboard_time": 1729067960,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 417655,
       "num": 417655,
       "word": "26岁研究员带宝剑护送2000多件文物",
@@ -11305,6 +11353,14 @@
       "onboard_time": 1728906858,
       "rank": 24,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 387445,
+      "num": 387445,
+      "word": "李现提名金鹰奖最佳男主角",
+      "onboard_time": 1729067720,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 387295,
@@ -12251,14 +12307,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 357074,
-      "num": 357074,
-      "word": "李现提名金鹰奖最佳男主角",
-      "onboard_time": 1729067720,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 356996,
       "num": 356996,
       "word": "刘浩存看展生图",
@@ -12529,6 +12577,14 @@
       "onboard_time": 1728805818,
       "rank": 21,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 350490,
+      "num": 350490,
+      "word": "肖战宝诗龙",
+      "onboard_time": 1729068080,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 350444,
@@ -13667,12 +13723,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 313314,
-      "num": 313314,
-      "word": "小学生将药磨成粉骗同学服用后续",
-      "onboard_time": 1729067060,
-      "rank": 37,
-      "category": "社会新闻"
+      "raw_hot": 313311,
+      "num": 313311,
+      "word": "李沁提名视后",
+      "onboard_time": 1729068919,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 312926,
@@ -13905,6 +13961,14 @@
       "onboard_time": 1728652281,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 308990,
+      "num": 308990,
+      "word": "不建议女生买的20类护肤品",
+      "onboard_time": 1729066398,
+      "rank": 25,
+      "category": "美妆"
     },
     {
       "raw_hot": 308706,
@@ -14609,14 +14673,6 @@
       "onboard_time": 1728530900,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 294266,
-      "num": 294266,
-      "word": "不建议女生买的20类护肤品",
-      "onboard_time": 1729066398,
-      "rank": 25,
-      "category": "美妆"
     },
     {
       "raw_hot": 294112,
@@ -16265,14 +16321,6 @@
       "onboard_time": 1727937198,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 266099,
-      "num": 442584,
-      "word": "成都官方辟谣天价拆迁款",
-      "onboard_time": 1729067480,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 266011,
@@ -19835,14 +19883,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 217722,
-      "num": 217722,
-      "word": "程序员炒股亏48万后宣布停更",
-      "onboard_time": 1729067420,
-      "rank": 30,
-      "category": "财经"
-    },
-    {
       "raw_hot": 217710,
       "num": 217710,
       "word": "今天是国庆长假第3天",
@@ -22107,6 +22147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 199915,
+      "num": 249223,
+      "word": "ILLIT经纪人辞职",
+      "onboard_time": 1729066820,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 199893,
       "num": 199893,
       "word": "檀健次手臂肌肉线条",
@@ -23867,14 +23915,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 190028,
-      "num": 193392,
-      "word": "ILLIT经纪人辞职",
-      "onboard_time": 1729066820,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 190008,
       "num": 506768,
       "word": "美国9月非农就业数据",
@@ -24819,6 +24859,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 184505,
+      "num": 448679,
+      "word": "班级群发飙班主任被家长打系谣言",
+      "onboard_time": 1729067839,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 184486,
       "num": 184486,
       "word": "李现当中网站哥",
@@ -25067,14 +25115,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 182496,
-      "num": 182496,
-      "word": "肖战宝诗龙",
-      "onboard_time": 1729068080,
-      "rank": 32,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 182470,
       "num": 182470,
       "word": "关晓彤芭蕾运动鞋",
@@ -25105,14 +25145,6 @@
       "onboard_time": 1728358640,
       "rank": 38,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 182177,
-      "num": 182177,
-      "word": "刘亦菲 金鹰",
-      "onboard_time": 1729067960,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 182093,
@@ -28403,6 +28435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 159624,
+      "num": 159624,
+      "word": "张博恒让我对运动康复有了实感",
+      "onboard_time": 1729069878,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 159612,
       "num": 159612,
       "word": "上证指数",
@@ -28561,6 +28601,14 @@
       "onboard_time": 1727933599,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 158662,
+      "num": 158662,
+      "word": "UNIQ与乐华签约已满十年",
+      "onboard_time": 1729070420,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 158652,
@@ -29929,6 +29977,14 @@
       "onboard_time": 1728483140,
       "rank": 48,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 151769,
+      "num": 151769,
+      "word": "黄雨婷超慢动作超高成绩",
+      "onboard_time": 1729069519,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 151708,
@@ -32443,6 +32499,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 136653,
+      "num": 136653,
+      "word": "王宝强借钱后第一件事是去缴税",
+      "onboard_time": 1729068381,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 136599,
       "num": 250396,
       "word": "高雅 般配",
@@ -32569,14 +32633,6 @@
       "onboard_time": 1728561682,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 135460,
-      "num": 448679,
-      "word": "班级群发飙班主任被家长打系谣言",
-      "onboard_time": 1729067839,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 135447,
@@ -34659,6 +34715,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 121965,
+      "num": 121965,
+      "word": "你的谎言也动听定档",
+      "onboard_time": 1729069579,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 121907,
       "num": 121907,
       "word": "00后也开户了",
@@ -35385,6 +35449,14 @@
       "onboard_time": 1727938639,
       "rank": 37,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 117178,
+      "num": 117178,
+      "word": "我恋6最大尺度在第五期就出现了",
+      "onboard_time": 1729070240,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 117170,
@@ -36401,6 +36473,14 @@
       "onboard_time": 1728283338,
       "rank": 34,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 110265,
+      "num": 374244,
+      "word": "Bella维密闭场",
+      "onboard_time": 1729066880,
+      "rank": 18,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 110251,
@@ -40235,6 +40315,14 @@
       "category": "自然"
     },
     {
+      "raw_hot": 76581,
+      "num": 349502,
+      "word": "SM官宣与文泰一解约",
+      "onboard_time": 1729069878,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 76414,
       "num": 477840,
       "word": "华为平板重绘千里江山图",
@@ -41937,14 +42025,6 @@
       "onboard_time": 1728943633,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 56970,
-      "num": 374244,
-      "word": "Bella维密闭场",
-      "onboard_time": 1729066880,
-      "rank": 18,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 56891,
@@ -44963,6 +45043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 34691,
+      "num": 414829,
+      "word": "北京二手房业主提价",
+      "onboard_time": 1729069400,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 34674,
       "num": 205631,
       "word": "多家电商平台依然有烟卡在售",
@@ -45577,6 +45665,14 @@
       "onboard_time": 1727762779,
       "rank": 33,
       "category": "电影"
+    },
+    {
+      "raw_hot": 31240,
+      "num": 343323,
+      "word": "广东一早教中心将幼儿关楼顶天台",
+      "onboard_time": 1729069700,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 31233,
