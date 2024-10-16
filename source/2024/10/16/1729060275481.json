@@ -1,0 +1,410 @@
+{
+  "runTime": 1729060275481,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2216737,
+        "num": 2216737,
+        "word": "女网红在日本鸟居做引体向上惹众怒",
+        "onboard_time": 1729054942,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 895074,
+        "num": 895074,
+        "word": "女童被打满嘴是血父亲称不追究责任",
+        "onboard_time": 1729056561,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 68231,
+        "num": 855767,
+        "word": "美政府和微软公司拒绝回应",
+        "onboard_time": 1729046418,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1189197,
+        "num": 853990,
+        "word": "八角笼中",
+        "onboard_time": 1729057340,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 844612,
+        "num": 844612,
+        "word": "男子漂流67天获救体重骤减100斤",
+        "onboard_time": 1729055481,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 532319,
+        "num": 532319,
+        "word": "男子将入户门改为外开被邻居起诉",
+        "onboard_time": 1729053261,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 515552,
+        "num": 515552,
+        "word": "中国第一颗原子弹爆炸倒计时画面",
+        "onboard_time": 1729051881,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 448367,
+        "num": 448367,
+        "word": "奔跑吧新一季原班人马",
+        "onboard_time": 1729047319,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 492033,
+        "num": 444940,
+        "word": "王楚钦福州见面会",
+        "onboard_time": 1729055360,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 31044,
+        "num": 439269,
+        "word": "出版社回应教材设46个收费点",
+        "onboard_time": 1729059920,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 438067,
+        "num": 438067,
+        "word": "维密 大码模特",
+        "onboard_time": 1729048340,
+        "rank": 10,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 25691,
+        "num": 409904,
+        "word": "檀健次冬日保暖秘籍",
+        "onboard_time": 1729056801,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 396667,
+        "num": 396667,
+        "word": "韩素希用小号给李惠利留恶评",
+        "onboard_time": 1729049060,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205245,
+        "num": 349051,
+        "word": "杨迪看中医90秒被吓到5次",
+        "onboard_time": 1729049900,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 67566,
+        "num": 333278,
+        "word": "网友爆月嫂粗暴拉扯拍打两月大婴儿",
+        "onboard_time": 1729058540,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 322611,
+        "num": 322611,
+        "word": "Jennie新歌MV被禁",
+        "onboard_time": 1729056801,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 318541,
+        "num": 318541,
+        "word": "各地最低工资标准一览表",
+        "onboard_time": 1729046898,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 318066,
+        "num": 318066,
+        "word": "小米15",
+        "onboard_time": 1729056681,
+        "rank": 17,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 235810,
+        "num": 315813,
+        "word": "Jennie吉米秀Mantra舞台",
+        "onboard_time": 1729059679,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 38242,
+        "num": 313199,
+        "word": "女子分手一波三折先被威胁再被卖车",
+        "onboard_time": 1729060101,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1642165,
+        "num": 305998,
+        "word": "教师情绪失控不是小问题",
+        "onboard_time": 1729052601,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 377811,
+        "num": 303864,
+        "word": "山西被打女孩父亲回应7名同学已道歉",
+        "onboard_time": 1729050080,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 51323,
+        "num": 297407,
+        "word": "春花焰有自己的医学奇迹",
+        "onboard_time": 1729057820,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 295013,
+        "num": 295013,
+        "word": "刘强东章泽天夫妇报案",
+        "onboard_time": 1729040959,
+        "rank": 23,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 290176,
+        "num": 290176,
+        "word": "预制菜发展到什么程度了",
+        "onboard_time": 1729050201,
+        "rank": 24,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 238552,
+        "num": 238552,
+        "word": "媒体评班主任班级群发飙后被停职",
+        "onboard_time": 1729056500,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 234590,
+        "num": 234590,
+        "word": "班主任在班级群发飙后被停职",
+        "onboard_time": 1729010117,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232708,
+        "num": 232708,
+        "word": "金正恩指明朝鲜军事活动方向",
+        "onboard_time": 1728964940,
+        "rank": 27,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 149545,
+        "num": 219367,
+        "word": "辰咪CP",
+        "onboard_time": 1729055601,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 21644,
+        "num": 217057,
+        "word": "上一秒打戏下一秒挨打",
+        "onboard_time": 1729056561,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 215637,
+        "num": 215637,
+        "word": "谢谢你们让14亿人吃好",
+        "onboard_time": 1729059498,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203941,
+        "num": 203941,
+        "word": "王亚飞和鞠婧祎聊化妆",
+        "onboard_time": 1729058780,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 74455,
+        "num": 203678,
+        "word": "显腿长的芭蕾运动鞋",
+        "onboard_time": 1729055840,
+        "rank": 32,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 203532,
+        "num": 203532,
+        "word": "加沙人说8个月没吃过西红柿了",
+        "onboard_time": 1729058240,
+        "rank": 33,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 50601,
+        "num": 203421,
+        "word": "鹅绒羽绒服比鸭绒羽绒服好在哪",
+        "onboard_time": 1729056801,
+        "rank": 34,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 203366,
+        "num": 203366,
+        "word": "我国原子弹爆炸成功60周年",
+        "onboard_time": 1729041080,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 200944,
+        "num": 200944,
+        "word": "网红小虎行机场强迫志愿者摘口罩",
+        "onboard_time": 1729059320,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197810,
+        "num": 197810,
+        "word": "粉丝称听泉鉴宝自称北大是玩梗",
+        "onboard_time": 1729055781,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189180,
+        "num": 189180,
+        "word": "韩国女歌手因蛀牙患舌癌切除部分舌头",
+        "onboard_time": 1729050560,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187335,
+        "num": 187335,
+        "word": "中国人民用能力和志气攥成的拳头",
+        "onboard_time": 1729059080,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 187246,
+        "num": 187246,
+        "word": "2024年度最大满月要来了",
+        "onboard_time": 1729059020,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185753,
+        "num": 185753,
+        "word": "张本智和说庆祝动作是致敬樊振东",
+        "onboard_time": 1729048700,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 179098,
+        "num": 179098,
+        "word": "美国限期以色列30天改善加沙现状",
+        "onboard_time": 1729052061,
+        "rank": 42,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 40589,
+        "num": 177938,
+        "word": "iPhone历年降价规律总结",
+        "onboard_time": 1729057940,
+        "rank": 43,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 177106,
+        "num": 177106,
+        "word": "郝劭文老婆二胎",
+        "onboard_time": 1729056681,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174549,
+        "num": 174549,
+        "word": "国台办回应美军火商对台军售抬价欺诈",
+        "onboard_time": 1729056801,
+        "rank": 45,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 171055,
+        "num": 171055,
+        "word": "韩美日将讨论朝鲜发起严重挑衅可能性",
+        "onboard_time": 1729051341,
+        "rank": 46,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 168445,
+        "num": 168445,
+        "word": "王楚钦孙颖莎王曼昱退赛",
+        "onboard_time": 1729054881,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137136,
+        "num": 166110,
+        "word": "王星越沈月梁永棋和650团建",
+        "onboard_time": 1729058422,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164532,
+        "num": 164532,
+        "word": "大学生做兼职名下多了21家公司",
+        "onboard_time": 1729051460,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#粮食安全是国之大者#"
+    }
+  }
+}
