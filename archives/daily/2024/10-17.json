@@ -1,6 +1,6 @@
 {
   "startTime": 1729096028716,
-  "endTime": 1729096028716,
+  "endTime": 1729097009465,
   "band_list": [
     {
       "raw_hot": 1528782,
@@ -107,6 +107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 304479,
+      "num": 211244,
+      "word": "班级群情绪失控老师已请假休息",
+      "onboard_time": 1729092140,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 277900,
       "num": 215998,
       "word": "韦雪情商",
@@ -123,19 +131,19 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 257615,
+      "raw_hot": 270347,
+      "num": 270347,
+      "word": "中国原子弹之母隐姓埋名30年",
+      "onboard_time": 1729094598,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 265897,
       "num": 212517,
       "word": "金字塔顶端发现一条狗",
       "onboard_time": 1729082422,
       "rank": 18,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 256385,
-      "num": 211244,
-      "word": "班级群情绪失控老师已请假休息",
-      "onboard_time": 1729092140,
-      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -209,14 +217,6 @@
       "onboard_time": 1729078699,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 128873,
-      "num": 238205,
-      "word": "中国原子弹之母隐姓埋名30年",
-      "onboard_time": 1729094598,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 128064,
@@ -299,6 +299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 108121,
+      "num": 108121,
+      "word": "老师给4岁孩子剪指甲4个指头流血",
+      "onboard_time": 1729096098,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 104780,
       "num": 104780,
       "word": "医生劝你护肤主要做好两件事",
@@ -347,6 +355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 82680,
+      "num": 82680,
+      "word": "花少夜聊",
+      "onboard_time": 1729091961,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 81257,
       "num": 81257,
       "word": "Jennie勺子短裤",
@@ -372,19 +388,11 @@
     },
     {
       "raw_hot": 75985,
-      "num": 75985,
+      "num": 79047,
       "word": "官方回应拆迁不可能一户赔几千万",
       "onboard_time": 1729073780,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 75271,
-      "num": 75271,
-      "word": "花少夜聊",
-      "onboard_time": 1729091961,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 69992,
@@ -393,6 +401,14 @@
       "onboard_time": 1729086022,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 47128,
+      "num": 184503,
+      "word": "成都拆迁地图里的项目并非近期集中产生",
+      "onboard_time": 1729095678,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 4886,
@@ -406,6 +422,9 @@
   "hotgov_list": [
     {
       "word": "#中国的饭碗一定要端在自己的手里#"
+    },
+    {
+      "word": "#习近平参观谷文昌纪念馆#"
     }
   ]
 }
