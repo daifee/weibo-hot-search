@@ -1,6 +1,6 @@
 {
   "startTime": 1728750414717,
-  "endTime": 1729093148895,
+  "endTime": 1729096028716,
   "band_list": [
     {
       "raw_hot": 17915004,
@@ -1649,6 +1649,14 @@
       "onboard_time": 1728824423,
       "rank": 21,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 795934,
+      "num": 324953,
+      "word": "叶珂说自己不是很做作的人",
+      "onboard_time": 1729091241,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 792854,
@@ -3811,14 +3819,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 324953,
-      "num": 324953,
-      "word": "叶珂说自己不是很做作的人",
-      "onboard_time": 1729091241,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 320857,
       "num": 759156,
       "word": "认哥MC赌博诈骗上亿韩元",
@@ -3929,6 +3929,14 @@
       "onboard_time": 1728996679,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 305685,
+      "num": 305685,
+      "word": "成都拆迁地图发布方最新声明",
+      "onboard_time": 1729089562,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 305623,
@@ -4699,6 +4707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 256385,
+      "num": 248569,
+      "word": "班级群情绪失控老师已请假休息",
+      "onboard_time": 1729092140,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 254830,
       "num": 254830,
       "word": "世界上只有一个中国",
@@ -4825,14 +4841,6 @@
       "onboard_time": 1728976640,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 248569,
-      "num": 248569,
-      "word": "班级群情绪失控老师已请假休息",
-      "onboard_time": 1729092140,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 248096,
@@ -7179,6 +7187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 178817,
+      "num": 224495,
+      "word": "浙江仙居人用杨梅炒鸡肉",
+      "onboard_time": 1729094120,
+      "rank": 14,
+      "category": "美食"
+    },
+    {
       "raw_hot": 178296,
       "num": 178296,
       "word": "陈幸同蒯曼0比3大藤沙月横井咲樱",
@@ -8499,6 +8515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 143700,
+      "num": 143700,
+      "word": "广州警方通报商贩持棍殴打城管",
+      "onboard_time": 1729093940,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 143553,
       "num": 143553,
       "word": "甄嬛传有自己的向佐",
@@ -8673,6 +8697,14 @@
       "onboard_time": 1729059920,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 138373,
+      "num": 138373,
+      "word": "肖战宝诗龙活动压轴出场",
+      "onboard_time": 1729094539,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 138325,
@@ -8905,6 +8937,14 @@
       "onboard_time": 1729083741,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 128873,
+      "num": 238205,
+      "word": "中国原子弹之母隐姓埋名30年",
+      "onboard_time": 1729094598,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 128507,
@@ -9163,6 +9203,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 119977,
+      "num": 119977,
+      "word": "中国网安协会点名英特尔暗设后门",
+      "onboard_time": 1729094179,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 119781,
       "num": 119781,
       "word": "极氪",
@@ -9203,6 +9251,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 118487,
+      "num": 118487,
+      "word": "又解锁了杨梅的隐藏吃法",
+      "onboard_time": 1729094360,
+      "rank": 33,
+      "category": "美食"
+    },
+    {
       "raw_hot": 118458,
       "num": 711297,
       "word": "拼多多双11没套路就是降",
@@ -9241,6 +9297,14 @@
       "onboard_time": 1728815720,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 117318,
+      "num": 117318,
+      "word": "杜华说ZB1很红的",
+      "onboard_time": 1729094839,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 116901,

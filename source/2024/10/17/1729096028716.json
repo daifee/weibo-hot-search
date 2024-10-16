@@ -1,0 +1,410 @@
+{
+  "runTime": 1729096028716,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 495145,
+        "num": 874292,
+        "word": "UNIQ 解散",
+        "onboard_time": 1729063759,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 422662,
+        "num": 422662,
+        "word": "中国不会首先使用核武器",
+        "onboard_time": 1729085301,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 4886,
+        "num": 341467,
+        "word": "珍惜每一粒粮做合格干饭人",
+        "onboard_time": 1729084821,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1528782,
+        "num": 333005,
+        "word": "陈好太惨了",
+        "onboard_time": 1729088963,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 306315,
+        "num": 306315,
+        "word": "进上海迪士尼乐园不能带扑克牌",
+        "onboard_time": 1729086921,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 305685,
+        "num": 305685,
+        "word": "成都拆迁地图发布方最新声明",
+        "onboard_time": 1729089562,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1331391,
+        "num": 273907,
+        "word": "花学 周雨彤",
+        "onboard_time": 1729091841,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 807082,
+        "num": 257442,
+        "word": "花少6 小团体",
+        "onboard_time": 1729090102,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 240325,
+        "num": 240325,
+        "word": "卫龙回应亲嘴烧在日被召回",
+        "onboard_time": 1729072940,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128873,
+        "num": 238205,
+        "word": "中国原子弹之母隐姓埋名30年",
+        "onboard_time": 1729094598,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 950591,
+        "num": 237479,
+        "word": "多名中国女性在德国遭强奸",
+        "onboard_time": 1729074259,
+        "rank": 10,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 820835,
+        "num": 233397,
+        "word": "女子卸甲后发现十指空甲发霉",
+        "onboard_time": 1729086861,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 795934,
+        "num": 229636,
+        "word": "叶珂说自己不是很做作的人",
+        "onboard_time": 1729091241,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 493986,
+        "num": 228121,
+        "word": "河南一地发生刑事案件",
+        "onboard_time": 1729088783,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178817,
+        "num": 224495,
+        "word": "浙江仙居人用杨梅炒鸡肉",
+        "onboard_time": 1729094120,
+        "rank": 14,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 483156,
+        "num": 221181,
+        "word": "刘冲直播间 杨幂",
+        "onboard_time": 1729091300,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 397749,
+        "num": 220275,
+        "word": "伍佰的歌",
+        "onboard_time": 1729073780,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 277900,
+        "num": 215998,
+        "word": "韦雪情商",
+        "onboard_time": 1729090403,
+        "rank": 17,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 257615,
+        "num": 212517,
+        "word": "金字塔顶端发现一条狗",
+        "onboard_time": 1729082422,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 256385,
+        "num": 211244,
+        "word": "班级群情绪失控老师已请假休息",
+        "onboard_time": 1729092140,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274287,
+        "num": 206324,
+        "word": "马天宇 你装完了吗",
+        "onboard_time": 1729076301,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 250311,
+        "num": 205196,
+        "word": "名媛培训班收割中年男明星",
+        "onboard_time": 1729087822,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203417,
+        "num": 203417,
+        "word": "这几天睡不好可能是月亮的错",
+        "onboard_time": 1729089861,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 202539,
+        "num": 202539,
+        "word": "姆巴佩被指控强奸",
+        "onboard_time": 1729075941,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167434,
+        "num": 167434,
+        "word": "薛冰冰为赵露思化的妆",
+        "onboard_time": 1729086801,
+        "rank": 24,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 143700,
+        "num": 143700,
+        "word": "广州警方通报商贩持棍殴打城管",
+        "onboard_time": 1729093940,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138373,
+        "num": 138373,
+        "word": "肖战宝诗龙活动压轴出场",
+        "onboard_time": 1729094539,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130826,
+        "num": 130826,
+        "word": "黄明昊业绩排乐华第二",
+        "onboard_time": 1729078699,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128064,
+        "num": 128064,
+        "word": "金正恩指明朝鲜军事活动方向",
+        "onboard_time": 1728964940,
+        "rank": 28,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 121080,
+        "num": 127952,
+        "word": "TXT回归",
+        "onboard_time": 1729091841,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 127894,
+        "num": 127894,
+        "word": "感谢碧昂斯 你好HANNI",
+        "onboard_time": 1729080680,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121807,
+        "num": 121807,
+        "word": "女网红在日本鸟居做引体向上惹众怒",
+        "onboard_time": 1729054942,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119977,
+        "num": 119977,
+        "word": "中国网安协会点名英特尔暗设后门",
+        "onboard_time": 1729094179,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118487,
+        "num": 118487,
+        "word": "又解锁了杨梅的隐藏吃法",
+        "onboard_time": 1729094360,
+        "rank": 33,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 117318,
+        "num": 117318,
+        "word": "杜华说ZB1很红的",
+        "onboard_time": 1729094839,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109808,
+        "num": 109808,
+        "word": "上海徐汇滨江频现遛异宠现象",
+        "onboard_time": 1729078342,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108837,
+        "num": 108837,
+        "word": "王楚然好美",
+        "onboard_time": 1729075581,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108791,
+        "num": 108791,
+        "word": "春花焰尺度",
+        "onboard_time": 1729091723,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104780,
+        "num": 104780,
+        "word": "医生劝你护肤主要做好两件事",
+        "onboard_time": 1729081461,
+        "rank": 38,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 98169,
+        "num": 98169,
+        "word": "真有艺人因为造型被扣钱",
+        "onboard_time": 1729085482,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 97419,
+        "num": 97419,
+        "word": "姐弟坠楼案母亲期待再遇见爱情",
+        "onboard_time": 1729081581,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95533,
+        "num": 95533,
+        "word": "维密",
+        "onboard_time": 1729082059,
+        "rank": 41,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 86492,
+        "num": 86492,
+        "word": "邪恶栀子花 花语",
+        "onboard_time": 1729083982,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 86148,
+        "num": 86148,
+        "word": "UNIQ 王一博",
+        "onboard_time": 1729067839,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81257,
+        "num": 81257,
+        "word": "Jennie勺子短裤",
+        "onboard_time": 1729080801,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 79736,
+        "num": 79736,
+        "word": "郑钦文回应入围WTA年终总决赛",
+        "onboard_time": 1729090941,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 79463,
+        "num": 79463,
+        "word": "张若昀金鹰奖唯一入围85生",
+        "onboard_time": 1729083741,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 75985,
+        "num": 75985,
+        "word": "官方回应拆迁不可能一户赔几千万",
+        "onboard_time": 1729073780,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 75271,
+        "num": 75271,
+        "word": "花少夜聊",
+        "onboard_time": 1729091961,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 69992,
+        "num": 69992,
+        "word": "杜华回应通告比乐华艺人多",
+        "onboard_time": 1729086022,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国的饭碗一定要端在自己的手里#"
+    }
+  }
+}
