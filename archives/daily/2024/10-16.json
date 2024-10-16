@@ -1,7 +1,15 @@
 {
   "startTime": 1729009695696,
-  "endTime": 1729064239206,
+  "endTime": 1729067365784,
   "band_list": [
+    {
+      "raw_hot": 3249713,
+      "num": 3249713,
+      "word": "UNIQ 解散",
+      "onboard_time": 1729063759,
+      "rank": 4,
+      "category": "艺人"
+    },
     {
       "raw_hot": 2840046,
       "num": 2840046,
@@ -27,8 +35,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2211640,
+      "num": 2211640,
+      "word": "成都拆迁",
+      "onboard_time": 1729064359,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1939138,
-      "num": 399081,
+      "num": 446342,
       "word": "八角笼中小演员片酬",
       "onboard_time": 1729061299,
       "rank": 10,
@@ -41,6 +57,14 @@
       "onboard_time": 1729040959,
       "rank": 0,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 1712869,
+      "num": 1712869,
+      "word": "金鹰奖提名名单",
+      "onboard_time": 1729064179,
+      "rank": 35,
+      "category": "电影"
     },
     {
       "raw_hot": 1528798,
@@ -105,6 +129,14 @@
       "onboard_time": 1729057340,
       "rank": 3,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1131588,
+      "num": 456690,
+      "word": "牛 我同意了吗你就拍",
+      "onboard_time": 1729064301,
+      "rank": 10,
+      "category": "幽默"
     },
     {
       "raw_hot": 1122915,
@@ -243,11 +275,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 756529,
-      "num": 756529,
-      "word": "UNIQ 解散",
-      "onboard_time": 1729063759,
-      "rank": 4,
+      "raw_hot": 713484,
+      "num": 713484,
+      "word": "教材中每隔几段就出现付费二维码",
+      "onboard_time": 1729062620,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 708630,
+      "num": 440886,
+      "word": "欧阳娜娜知道欧阳妮妮怀孕的反应",
+      "onboard_time": 1729063338,
+      "rank": 11,
       "category": "艺人"
     },
     {
@@ -337,14 +377,6 @@
       "onboard_time": 1729041080,
       "rank": 37,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 558385,
-      "num": 397927,
-      "word": "欧阳娜娜知道欧阳妮妮怀孕的反应",
-      "onboard_time": 1729063338,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 554016,
@@ -499,6 +531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 413888,
+      "num": 413888,
+      "word": "梅艳芳母亲被香港律政司入禀申请破产",
+      "onboard_time": 1729064301,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 411805,
       "num": 468920,
       "word": "粥饼伦终于开店了",
@@ -523,12 +563,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 397010,
-      "num": 397010,
-      "word": "教材中每隔几段就出现付费二维码",
-      "onboard_time": 1729062620,
-      "rank": 25,
-      "category": "社会新闻"
+      "raw_hot": 396582,
+      "num": 396582,
+      "word": "俞更寅参加创造营时就当爸了",
+      "onboard_time": 1729065620,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 368410,
@@ -627,6 +667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 283545,
+      "num": 191546,
+      "word": "赵丽颖提名金鹰视后",
+      "onboard_time": 1729065499,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 280979,
       "num": 280979,
       "word": "宋雨琦人在上班心在云南",
@@ -649,6 +697,14 @@
       "onboard_time": 1729045219,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 270417,
+      "num": 391978,
+      "word": "老师的情绪纾解要有常设渠道",
+      "onboard_time": 1729064240,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 266868,
@@ -835,6 +891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 227313,
+      "num": 227313,
+      "word": "不建议女生买的20类护肤品",
+      "onboard_time": 1729066398,
+      "rank": 25,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 227153,
       "num": 496014,
       "word": "奔跑吧团建路透直播",
@@ -1011,6 +1075,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 190799,
+      "num": 190799,
+      "word": "印尼主帅用韩国俚语吐槽国足踢法",
+      "onboard_time": 1729066579,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 190028,
+      "num": 193392,
+      "word": "ILLIT经纪人辞职",
+      "onboard_time": 1729066820,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 188415,
       "num": 333278,
       "word": "网友爆月嫂粗暴拉扯拍打两月大婴儿",
@@ -1067,12 +1147,36 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 184017,
+      "num": 184017,
+      "word": "宋亚轩新综艺海报",
+      "onboard_time": 1729066700,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 183494,
+      "num": 183494,
+      "word": "致敬改变中国人餐桌的他们",
+      "onboard_time": 1729065499,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 182679,
       "num": 182679,
       "word": "蔡依林 你去年也这样讲吧",
       "onboard_time": 1729031474,
       "rank": 42,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 182470,
+      "num": 182470,
+      "word": "关晓彤芭蕾运动鞋",
+      "onboard_time": 1729065979,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 181890,
@@ -1187,14 +1291,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 163416,
-      "num": 163416,
-      "word": "金鹰奖提名名单",
-      "onboard_time": 1729064179,
-      "rank": 35,
-      "category": "电影"
-    },
-    {
       "raw_hot": 162321,
       "num": 286173,
       "word": "我国成功发射千帆极轨02组卫星",
@@ -1209,6 +1305,14 @@
       "onboard_time": 1728994999,
       "rank": 36,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 161582,
+      "num": 161582,
+      "word": "小学生将药磨成粉骗同学服用后续",
+      "onboard_time": 1729067060,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 160662,
@@ -1307,6 +1411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 143260,
+      "num": 143260,
+      "word": "樊振东背着小书包回来上班了",
+      "onboard_time": 1729067179,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 140583,
       "num": 140583,
       "word": "沈星回 穿过旷野的风",
@@ -1345,6 +1457,22 @@
       "onboard_time": 1729056621,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 137869,
+      "num": 137869,
+      "word": "甄嬛传有自己的向佐",
+      "onboard_time": 1729066880,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 137830,
+      "num": 137830,
+      "word": "八角笼中 马虎",
+      "onboard_time": 1729064120,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 137136,
@@ -1411,14 +1539,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 126388,
-      "num": 126388,
-      "word": "八角笼中 马虎",
-      "onboard_time": 1729064120,
-      "rank": 48,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 123551,
       "num": 123551,
       "word": "英伟达市值一夜蒸发1.13万亿",
@@ -1449,6 +1569,14 @@
       "onboard_time": 1729042699,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 121381,
+      "num": 462791,
+      "word": "成渝板块超20股涨停",
+      "onboard_time": 1729065979,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 120773,
@@ -1715,6 +1843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 58108,
+      "num": 136127,
+      "word": "能够好好生气是一种重要的能力",
+      "onboard_time": 1729065199,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 57224,
       "num": 210947,
       "word": "鹅绒羽绒服比鸭绒羽绒服好在哪",
@@ -1819,6 +1955,30 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 40156,
+      "num": 191635,
+      "word": "巴黎车展的中国品牌",
+      "onboard_time": 1729065739,
+      "rank": 29,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 38619,
+      "num": 367920,
+      "word": "多方回应一男子扮女装凌晨尾随女子",
+      "onboard_time": 1729066100,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 37913,
+      "num": 396611,
+      "word": "亲历者回忆第一颗原子弹爆炸",
+      "onboard_time": 1729065440,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 37724,
       "num": 279628,
       "word": "天猫双11华为手机至高优惠两千",
@@ -1848,6 +2008,14 @@
       "word": "朝韩局势升温根源何在",
       "onboard_time": 1729049540,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 33858,
+      "num": 1765144,
+      "word": "洋记者看新疆棉田里的科技范",
+      "onboard_time": 1729066579,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -1897,6 +2065,22 @@
       "onboard_time": 1729051341,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 30912,
+      "num": 399859,
+      "word": "官方回应公司被曝要求连续出勤37天",
+      "onboard_time": 1729067301,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 28774,
+      "num": 374244,
+      "word": "Bella维密闭场",
+      "onboard_time": 1729066880,
+      "rank": 18,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 27955,
@@ -2113,6 +2297,9 @@
     },
     {
       "word": "#粮食安全是国之大者#"
+    },
+    {
+      "word": "#习近平在福建漳州市考察调研#"
     }
   ]
 }

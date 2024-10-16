@@ -1,6 +1,6 @@
 {
   "startTime": 1728750414717,
-  "endTime": 1729064239206,
+  "endTime": 1729067365784,
   "band_list": [
     {
       "raw_hot": 17915004,
@@ -49,6 +49,14 @@
       "onboard_time": 1728875300,
       "rank": 22,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 3249713,
+      "num": 3249713,
+      "word": "UNIQ 解散",
+      "onboard_time": 1729063759,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 3199759,
@@ -243,6 +251,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2211640,
+      "num": 2211640,
+      "word": "成都拆迁",
+      "onboard_time": 1729064359,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2143839,
       "num": 1487280,
       "word": "韩军公布朝鲜炸毁朝韩间道路视频",
@@ -332,7 +348,7 @@
     },
     {
       "raw_hot": 1939138,
-      "num": 399081,
+      "num": 446342,
       "word": "八角笼中小演员片酬",
       "onboard_time": 1729061299,
       "rank": 10,
@@ -377,6 +393,14 @@
       "onboard_time": 1728807018,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1712869,
+      "num": 1712869,
+      "word": "金鹰奖提名名单",
+      "onboard_time": 1729064179,
+      "rank": 35,
+      "category": "电影"
     },
     {
       "raw_hot": 1692193,
@@ -857,6 +881,14 @@
       "onboard_time": 1728993619,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1131588,
+      "num": 456690,
+      "word": "牛 我同意了吗你就拍",
+      "onboard_time": 1729064301,
+      "rank": 10,
+      "category": "幽默"
     },
     {
       "raw_hot": 1123078,
@@ -1547,14 +1579,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 756529,
-      "num": 756529,
-      "word": "UNIQ 解散",
-      "onboard_time": 1729063759,
-      "rank": 4,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 755074,
       "num": 755074,
       "word": "淮南牛肉汤",
@@ -1656,6 +1680,22 @@
       "word": "周扬青 借钱出去的是孙子",
       "onboard_time": 1728977420,
       "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 713484,
+      "num": 713484,
+      "word": "教材中每隔几段就出现付费二维码",
+      "onboard_time": 1729062620,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 708630,
+      "num": 440886,
+      "word": "欧阳娜娜知道欧阳妮妮怀孕的反应",
+      "onboard_time": 1729063338,
+      "rank": 11,
       "category": "艺人"
     },
     {
@@ -2113,14 +2153,6 @@
       "onboard_time": 1728739942,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 558385,
-      "num": 397927,
-      "word": "欧阳娜娜知道欧阳妮妮怀孕的反应",
-      "onboard_time": 1729063338,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 556486,
@@ -2787,6 +2819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 413888,
+      "num": 413888,
+      "word": "梅艳芳母亲被香港律政司入禀申请破产",
+      "onboard_time": 1729064301,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 412321,
       "num": 269044,
       "word": "作协主席被曝酒后闹事辱骂酒店前台",
@@ -2867,12 +2907,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 397010,
-      "num": 397010,
-      "word": "教材中每隔几段就出现付费二维码",
-      "onboard_time": 1729062620,
-      "rank": 25,
-      "category": "社会新闻"
+      "raw_hot": 396582,
+      "num": 396582,
+      "word": "俞更寅参加创造营时就当爸了",
+      "onboard_time": 1729065620,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 396177,
@@ -3763,6 +3803,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 283545,
+      "num": 191546,
+      "word": "赵丽颖提名金鹰视后",
+      "onboard_time": 1729065499,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 283538,
       "num": 242496,
       "word": "叶珂谈南北差异",
@@ -3913,6 +3961,14 @@
       "onboard_time": 1729045219,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 270417,
+      "num": 391978,
+      "word": "老师的情绪纾解要有常设渠道",
+      "onboard_time": 1729064240,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 270242,
@@ -4617,6 +4673,14 @@
       "onboard_time": 1728994579,
       "rank": 34,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 227313,
+      "num": 227313,
+      "word": "不建议女生买的20类护肤品",
+      "onboard_time": 1729066398,
+      "rank": 25,
+      "category": "美妆"
     },
     {
       "raw_hot": 227210,
@@ -5867,6 +5931,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 190799,
+      "num": 190799,
+      "word": "印尼主帅用韩国俚语吐槽国足踢法",
+      "onboard_time": 1729066579,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 190690,
       "num": 190690,
       "word": "雨姐不是栽在粉条上而是演得太过",
@@ -5889,6 +5961,14 @@
       "onboard_time": 1728915622,
       "rank": 46,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 190028,
+      "num": 193392,
+      "word": "ILLIT经纪人辞职",
+      "onboard_time": 1729066820,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 189776,
@@ -6195,6 +6275,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 184017,
+      "num": 184017,
+      "word": "宋亚轩新综艺海报",
+      "onboard_time": 1729066700,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 183817,
       "num": 183817,
       "word": "林高远刘诗雯4比1尹孟泽何小雨",
@@ -6211,6 +6299,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 183494,
+      "num": 183494,
+      "word": "致敬改变中国人餐桌的他们",
+      "onboard_time": 1729065499,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 182989,
       "num": 182989,
       "word": "萨巴伦卡说郑钦文跟之前比确实有进步",
@@ -6225,6 +6321,14 @@
       "onboard_time": 1729031474,
       "rank": 42,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 182470,
+      "num": 182470,
+      "word": "关晓彤芭蕾运动鞋",
+      "onboard_time": 1729065979,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 182093,
@@ -6803,14 +6907,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 163416,
-      "num": 163416,
-      "word": "金鹰奖提名名单",
-      "onboard_time": 1729064179,
-      "rank": 35,
-      "category": "电影"
-    },
-    {
       "raw_hot": 163118,
       "num": 258561,
       "word": "中国计划2050年成空间科学强国",
@@ -6873,6 +6969,14 @@
       "onboard_time": 1728801320,
       "rank": 33,
       "category": "网红"
+    },
+    {
+      "raw_hot": 161582,
+      "num": 161582,
+      "word": "小学生将药磨成粉骗同学服用后续",
+      "onboard_time": 1729067060,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 161457,
@@ -7483,6 +7587,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 143260,
+      "num": 143260,
+      "word": "樊振东背着小书包回来上班了",
+      "onboard_time": 1729067179,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 143171,
       "num": 143171,
       "word": "justsu直拍",
@@ -7649,6 +7761,22 @@
       "onboard_time": 1729056621,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 137869,
+      "num": 137869,
+      "word": "甄嬛传有自己的向佐",
+      "onboard_time": 1729066880,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 137830,
+      "num": 137830,
+      "word": "八角笼中 马虎",
+      "onboard_time": 1729064120,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 137823,
@@ -7907,14 +8035,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 126388,
-      "num": 126388,
-      "word": "八角笼中 马虎",
-      "onboard_time": 1729064120,
-      "rank": 48,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 126138,
       "num": 126138,
       "word": "芙宁娜司颂巡回",
@@ -8025,6 +8145,14 @@
       "onboard_time": 1729042699,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 121381,
+      "num": 462791,
+      "word": "成渝板块超20股涨停",
+      "onboard_time": 1729065979,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 121291,
@@ -9443,6 +9571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 58108,
+      "num": 136127,
+      "word": "能够好好生气是一种重要的能力",
+      "onboard_time": 1729065199,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 57892,
       "num": 465843,
       "word": "和平精英最大规模皮肤返场",
@@ -10115,6 +10251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 40156,
+      "num": 191635,
+      "word": "巴黎车展的中国品牌",
+      "onboard_time": 1729065739,
+      "rank": 29,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 40112,
       "num": 624802,
       "word": "涉事养老院回应网传囚禁残疾人",
@@ -10139,12 +10283,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 38619,
+      "num": 367920,
+      "word": "多方回应一男子扮女装凌晨尾随女子",
+      "onboard_time": 1729066100,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 38471,
       "num": 422621,
       "word": "天猫双11家电补到6折现货不用等",
       "onboard_time": 1728900919,
       "rank": 35,
       "category": "数码,互联网"
+    },
+    {
+      "raw_hot": 37913,
+      "num": 396611,
+      "word": "亲历者回忆第一颗原子弹爆炸",
+      "onboard_time": 1729065440,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 37752,
@@ -10355,6 +10515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 33858,
+      "num": 1765144,
+      "word": "洋记者看新疆棉田里的科技范",
+      "onboard_time": 1729066579,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 33821,
       "num": 591704,
       "word": "周深音乐缘计划盛典路透饭撒",
@@ -10515,6 +10683,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 30912,
+      "num": 399859,
+      "word": "官方回应公司被曝要求连续出勤37天",
+      "onboard_time": 1729067301,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 30849,
       "num": 965186,
       "word": "我国高端装备出口增长超四成",
@@ -10601,6 +10777,14 @@
       "onboard_time": 1728934631,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 28774,
+      "num": 374244,
+      "word": "Bella维密闭场",
+      "onboard_time": 1729066880,
+      "rank": 18,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 28615,
@@ -11329,6 +11513,9 @@
     },
     {
       "word": "#粮食安全是国之大者#"
+    },
+    {
+      "word": "#习近平在福建漳州市考察调研#"
     }
   ]
 }
