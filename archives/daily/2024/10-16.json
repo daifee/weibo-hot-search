@@ -1,6 +1,6 @@
 {
   "startTime": 1729009695696,
-  "endTime": 1729075296357,
+  "endTime": 1729077582586,
   "band_list": [
     {
       "raw_hot": 3249713,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 2651660,
-      "num": 331774,
+      "num": 421606,
       "word": "怀疑妻子出轨丈夫自杀遗言公开",
       "onboard_time": 1729072821,
       "rank": 12,
@@ -49,6 +49,14 @@
       "onboard_time": 1729064359,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2206509,
+      "num": 425283,
+      "word": "多名中国女性在德国遭强奸",
+      "onboard_time": 1729074259,
+      "rank": 30,
+      "category": "国外时政"
     },
     {
       "raw_hot": 1939138,
@@ -83,8 +91,16 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1550572,
+      "num": 415955,
+      "word": "伍佰回应被叶珂吐槽歌猥琐",
+      "onboard_time": 1729076660,
+      "rank": 12,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1529565,
-      "num": 332071,
+      "num": 405973,
       "word": "张雪峰",
       "onboard_time": 1729070899,
       "rank": 37,
@@ -113,6 +129,14 @@
       "onboard_time": 1729049060,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1418167,
+      "num": 1418167,
+      "word": "姆巴佩被指控强奸",
+      "onboard_time": 1729075941,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 1352455,
@@ -227,6 +251,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 933199,
+      "num": 933199,
+      "word": "卫龙回应亲嘴烧在日被召回",
+      "onboard_time": 1729072940,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 932383,
       "num": 932383,
       "word": "辛芷蕾因赵丽颖接乔妍的心事",
@@ -323,14 +355,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 729634,
-      "num": 208929,
-      "word": "多名中国女性在德国遭强奸",
-      "onboard_time": 1729074259,
-      "rank": 30,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 713484,
       "num": 713484,
       "word": "教材中每隔几段就出现付费二维码",
@@ -353,14 +377,6 @@
       "onboard_time": 1729017614,
       "rank": 42,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 682543,
-      "num": 682543,
-      "word": "卫龙回应亲嘴烧在日被召回",
-      "onboard_time": 1729072940,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 664397,
@@ -419,12 +435,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 599044,
+      "num": 599044,
+      "word": "官方回应拆迁不可能一户赔几千万",
+      "onboard_time": 1729073780,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 577057,
       "num": 367116,
       "word": "贺聪维密首秀",
       "onboard_time": 1729046538,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 576761,
+      "num": 576761,
+      "word": "德国警方呼吁年轻中国女性注意人身安全",
+      "onboard_time": 1729075460,
+      "rank": 6,
+      "category": "国外时政"
     },
     {
       "raw_hot": 568662,
@@ -515,6 +547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 515918,
+      "num": 515918,
+      "word": "马天宇 你装完了吗",
+      "onboard_time": 1729076301,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 515552,
       "num": 515552,
       "word": "中国第一颗原子弹爆炸倒计时画面",
@@ -555,6 +595,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 477253,
+      "num": 400937,
+      "word": "蕾哈娜 张元英转圈鼻祖",
+      "onboard_time": 1729072580,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 475650,
       "num": 293988,
       "word": "德国出现针对中国女性连环强奸犯",
@@ -584,14 +632,6 @@
       "word": "陈乔恩 你生十个婚姻会很长久吗",
       "onboard_time": 1728992840,
       "rank": 12,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 444196,
-      "num": 318571,
-      "word": "蕾哈娜 张元英转圈鼻祖",
-      "onboard_time": 1729072580,
-      "rank": 24,
       "category": "艺人"
     },
     {
@@ -691,19 +731,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 366162,
-      "num": 366162,
-      "word": "官方回应拆迁不可能一户赔几千万",
-      "onboard_time": 1729073780,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 365277,
       "num": 271442,
       "word": "阿Sa回应关智斌求婚",
       "onboard_time": 1728990859,
       "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 354178,
+      "num": 354178,
+      "word": "王楚然好美",
+      "onboard_time": 1729075581,
+      "rank": 24,
       "category": "艺人"
     },
     {
@@ -873,6 +913,14 @@
       "onboard_time": 1729047319,
       "rank": 30,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 274707,
+      "num": 274707,
+      "word": "伍佰的歌",
+      "onboard_time": 1729073780,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 272482,
@@ -1148,7 +1196,7 @@
     },
     {
       "raw_hot": 216841,
-      "num": 216841,
+      "num": 442466,
       "word": "开发商称拆迁补贴1个人20万元内",
       "onboard_time": 1729072399,
       "rank": 33,
@@ -1163,12 +1211,12 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 213553,
-      "num": 207911,
-      "word": "伍佰的歌",
-      "onboard_time": 1729073780,
-      "rank": 43,
-      "category": "音乐"
+      "raw_hot": 213441,
+      "num": 213441,
+      "word": "3人捕食癞蛤蟆1人中毒身亡",
+      "onboard_time": 1729074020,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 213351,
@@ -1291,6 +1339,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 200284,
+      "num": 200284,
+      "word": "艾琳周年庆皮肤爆料",
+      "onboard_time": 1729077200,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 199915,
       "num": 249223,
       "word": "ILLIT经纪人辞职",
@@ -1312,14 +1368,6 @@
       "word": "粉丝称听泉鉴宝自称北大是玩梗",
       "onboard_time": 1729055781,
       "rank": 42,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 198073,
-      "num": 198073,
-      "word": "3人捕食癞蛤蟆1人中毒身亡",
-      "onboard_time": 1729074020,
-      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -1531,6 +1579,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 174518,
+      "num": 174518,
+      "word": "李耕耘黑马王子",
+      "onboard_time": 1729076241,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 174130,
       "num": 179764,
       "word": "漠河今秋首场暴雪",
@@ -1707,6 +1763,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 153152,
+      "num": 153152,
+      "word": "王一博个人演唱会筹备",
+      "onboard_time": 1729077500,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
       "raw_hot": 152337,
       "num": 152337,
       "word": "所有人都有选择自己想要的自由",
@@ -1769,6 +1833,14 @@
       "onboard_time": 1729045160,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 147823,
+      "num": 147823,
+      "word": "厉娜 女艺人为了工作有多拼",
+      "onboard_time": 1729076121,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 147734,
@@ -2075,6 +2147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 92592,
+      "num": 176561,
+      "word": "我国救援人员从天而降在海中捞人",
+      "onboard_time": 1729077441,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 91929,
       "num": 91929,
       "word": "黄雨婷的发卡又升级了",
@@ -2169,6 +2249,14 @@
       "onboard_time": 1729006279,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 81970,
+      "num": 397549,
+      "word": "宋茜 俺没相过亲",
+      "onboard_time": 1729077320,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 79051,
@@ -2363,6 +2451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 41473,
+      "num": 414672,
+      "word": "女子遇害23年后民警凭丝袜抓到凶手",
+      "onboard_time": 1729076660,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 41123,
       "num": 55868,
       "word": "ITZY GOLD",
@@ -2523,6 +2619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 25270,
+      "num": 176840,
+      "word": "冬天不是穿得越多越暖和",
+      "onboard_time": 1729075163,
+      "rank": 49,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 24673,
       "num": 25163,
       "word": "被泼开水女童父亲称孩子需要心理治疗",
@@ -2600,6 +2704,14 @@
       "word": "21年前杨利伟首飞前珍贵影像",
       "onboard_time": 1729013714,
       "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 20539,
+      "num": 393547,
+      "word": "这届二次元打工人选择背痛包去上班",
+      "onboard_time": 1729077020,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -2715,12 +2827,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 6843,
-      "num": 153866,
-      "word": "冬天不是穿得越多越暖和",
-      "onboard_time": 1729075163,
-      "rank": 49,
-      "category": "科学科普"
+      "raw_hot": 5451,
+      "num": 411544,
+      "word": "贺聪黎明前的暗夜天使",
+      "onboard_time": 1729077381,
+      "rank": 14,
+      "category": "作品衍生"
     }
   ],
   "hotgov_list": [
