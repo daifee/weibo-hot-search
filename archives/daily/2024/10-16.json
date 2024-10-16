@@ -1,6 +1,6 @@
 {
   "startTime": 1729009695696,
-  "endTime": 1729047925638,
+  "endTime": 1729049410656,
   "band_list": [
     {
       "raw_hot": 2678791,
@@ -17,6 +17,14 @@
       "onboard_time": 1729040959,
       "rank": 0,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 1352455,
+      "num": 1352455,
+      "word": "奔跑吧新一季原班人马",
+      "onboard_time": 1729047319,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 1300637,
@@ -75,6 +83,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 833972,
+      "num": 403194,
+      "word": "18岁女主播奔现榜一大哥被骗2万多",
+      "onboard_time": 1729047201,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 820289,
       "num": 424282,
       "word": "死者父亲将起诉出轨儿媳索赔150万",
@@ -97,6 +113,14 @@
       "onboard_time": 1729036999,
       "rank": 4,
       "category": "国外时政,军事"
+    },
+    {
+      "raw_hot": 714507,
+      "num": 714507,
+      "word": "各地最低工资标准一览表",
+      "onboard_time": 1729046898,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 694248,
@@ -131,6 +155,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 580297,
+      "num": 480660,
+      "word": "韩国军方下达火力待命指南",
+      "onboard_time": 1729041080,
+      "rank": 27,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 577057,
+      "num": 367116,
+      "word": "贺聪维密首秀",
+      "onboard_time": 1729046538,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 568337,
       "num": 283284,
       "word": "中学老师群里失控怒骂被暂停教学",
@@ -145,6 +185,22 @@
       "onboard_time": 1729035438,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 546927,
+      "num": 400676,
+      "word": "维密 大码模特",
+      "onboard_time": 1729048340,
+      "rank": 12,
+      "category": "时尚"
+    },
+    {
+      "raw_hot": 538832,
+      "num": 433995,
+      "word": "警方回应女孩被同学打的满嘴是血",
+      "onboard_time": 1729045160,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 537280,
@@ -172,19 +228,11 @@
     },
     {
       "raw_hot": 529054,
-      "num": 312700,
+      "num": 359206,
       "word": "一个考清华一个烤面包",
       "onboard_time": 1729042939,
       "rank": 23,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 511217,
-      "num": 480961,
-      "word": "奔跑吧新一季原班人马",
-      "onboard_time": 1729047319,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 506556,
@@ -203,14 +251,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 480660,
-      "num": 480660,
-      "word": "韩国军方下达火力待命指南",
-      "onboard_time": 1729041080,
-      "rank": 27,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 475650,
       "num": 293988,
       "word": "德国出现针对中国女性连环强奸犯",
@@ -224,6 +264,14 @@
       "word": "张峻豪余宇涵或将加入TFING",
       "onboard_time": 1729041618,
       "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 469533,
+      "num": 397212,
+      "word": "韩素希用小号给李惠利留恶评",
+      "onboard_time": 1729049060,
+      "rank": 15,
       "category": "艺人"
     },
     {
@@ -243,14 +291,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 433995,
-      "num": 433995,
-      "word": "警方回应女孩被同学打的满嘴是血",
-      "onboard_time": 1729045160,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 416192,
       "num": 493915,
       "word": "奔跑吧官微漏勺行为",
@@ -267,12 +307,28 @@
       "category": "网红"
     },
     {
-      "raw_hot": 372806,
-      "num": 372806,
+      "raw_hot": 408330,
+      "num": 408330,
+      "word": "这声东方巨响让中国人挺直了腰杆",
+      "onboard_time": 1729047319,
+      "rank": 36,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 404635,
+      "num": 404635,
       "word": "陈赫回应说黄磊做饭好吃",
       "onboard_time": 1729045339,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 388227,
+      "num": 388227,
+      "word": "张本智和说庆祝动作是致敬樊振东",
+      "onboard_time": 1729048700,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 365277,
@@ -307,22 +363,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 337410,
-      "num": 337410,
-      "word": "贺聪维密首秀",
-      "onboard_time": 1729046538,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 321226,
-      "num": 321226,
-      "word": "18岁女主播奔现榜一大哥被骗2万多",
-      "onboard_time": 1729047201,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 313002,
       "num": 313002,
       "word": "国足印尼冲突",
@@ -345,14 +385,6 @@
       "onboard_time": 1728997400,
       "rank": 8,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 280427,
-      "num": 280427,
-      "word": "各地最低工资标准一览表",
-      "onboard_time": 1729046898,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 274733,
@@ -419,6 +451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 241443,
+      "num": 163381,
+      "word": "比亚迪抽奖",
+      "onboard_time": 1729048521,
+      "rank": 45,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 240508,
       "num": 267527,
       "word": "老中青三代文艺工作者感悟深扎路",
@@ -433,6 +473,22 @@
       "onboard_time": 1729008439,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 238602,
+      "num": 231694,
+      "word": "赵丽颖盛开在她的花色原野",
+      "onboard_time": 1729048278,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 231693,
+      "num": 231693,
+      "word": "沈星回星辰有信",
+      "onboard_time": 1729048700,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 229495,
@@ -451,20 +507,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 225485,
-      "num": 225485,
-      "word": "这声东方巨响让中国人挺直了腰杆",
-      "onboard_time": 1729047319,
-      "rank": 36,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 217525,
       "num": 217525,
       "word": "蔡依林 40岁还可以这样",
       "onboard_time": 1728998241,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 214609,
+      "num": 179080,
+      "word": "维密翅膀",
+      "onboard_time": 1729047858,
+      "rank": 49,
+      "category": "时尚"
     },
     {
       "raw_hot": 209056,
@@ -513,6 +569,14 @@
       "onboard_time": 1729044559,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 188252,
+      "num": 231987,
+      "word": "奔跑吧茶马古道教科书式官宣",
+      "onboard_time": 1729048278,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 188167,
@@ -571,6 +635,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 179793,
+      "num": 179793,
+      "word": "我国原子弹爆炸成功60周年",
+      "onboard_time": 1729041080,
+      "rank": 37,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 174651,
       "num": 174651,
       "word": "印尼球员说国足浪费时间",
@@ -601,14 +673,6 @@
       "onboard_time": 1729041918,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 168824,
-      "num": 168824,
-      "word": "我国原子弹爆炸成功60周年",
-      "onboard_time": 1729041080,
-      "rank": 37,
-      "category": "国内时政"
     },
     {
       "raw_hot": 166690,
@@ -739,14 +803,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 134229,
-      "num": 134229,
-      "word": "维密翅膀",
-      "onboard_time": 1729047858,
-      "rank": 49,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 134076,
       "num": 134076,
       "word": "鉴宝主播需要为鉴定结果负责吗",
@@ -841,6 +897,14 @@
       "onboard_time": 1728997400,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 105601,
+      "num": 403758,
+      "word": "新余特大火灾事故55名公职人员被追责问责",
+      "onboard_time": 1729049060,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 105551,
@@ -1075,6 +1139,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 30320,
+      "num": 1033887,
+      "word": "全国秋粮已收获超六成",
+      "onboard_time": 1729048999,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 27955,
       "num": 33688,
       "word": "国足2比1印尼",
@@ -1105,6 +1177,14 @@
       "onboard_time": 1728990319,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 22805,
+      "num": 183651,
+      "word": "给力的中国产品助力外贸成绩创新高",
+      "onboard_time": 1729029553,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 22324,
@@ -1179,6 +1259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 17074,
+      "num": 158793,
+      "word": "回购n次的好用护肤品",
+      "onboard_time": 1729047439,
+      "rank": 46,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 14859,
       "num": 1020211,
       "word": "多机位看千帆极轨02组卫星发射",
@@ -1191,14 +1279,6 @@
       "num": 113643,
       "word": "北京公积金借款人可实现当日办结",
       "onboard_time": 1729031114,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 13695,
-      "num": 77744,
-      "word": "给力的中国产品助力外贸成绩创新高",
-      "onboard_time": 1729029553,
       "rank": 9,
       "category": "社会新闻"
     },
@@ -1225,19 +1305,14 @@
       "onboard_time": 1729030283,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 9704,
-      "num": 146290,
-      "word": "回购n次的好用护肤品",
-      "onboard_time": 1729047439,
-      "rank": 46,
-      "category": "美妆"
     }
   ],
   "hotgov_list": [
     {
       "word": "#全面加强新时代新征程军事理论工作#"
+    },
+    {
+      "word": "#粮食安全是国之大者#"
     }
   ]
 }
