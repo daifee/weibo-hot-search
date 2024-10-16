@@ -1,7 +1,15 @@
 {
   "startTime": 1729009695696,
-  "endTime": 1729053703810,
+  "endTime": 1729056139685,
   "band_list": [
+    {
+      "raw_hot": 2840046,
+      "num": 2840046,
+      "word": "教师情绪失控不是小问题",
+      "onboard_time": 1729052601,
+      "rank": 35,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 2678791,
       "num": 2678791,
@@ -99,6 +107,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1007235,
+      "num": 1007235,
+      "word": "女网红在日本鸟居做引体向上惹众怒",
+      "onboard_time": 1729054942,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 998503,
       "num": 998503,
       "word": "张本智和说庆祝动作是致敬樊振东",
@@ -147,6 +163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 816918,
+      "num": 816918,
+      "word": "韩美日将讨论朝鲜发起严重挑衅可能性",
+      "onboard_time": 1729051341,
+      "rank": 22,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 785837,
       "num": 785837,
       "word": "朝鲜140万青年参军或复队",
@@ -179,14 +203,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 658314,
-      "num": 658314,
-      "word": "教师情绪失控不是小问题",
-      "onboard_time": 1729052601,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 640429,
       "num": 578753,
       "word": "韩国军方下达火力待命指南",
@@ -200,14 +216,6 @@
       "word": "中方回应韩媒称朝鲜炸毁韩朝边境部分道路",
       "onboard_time": 1729004241,
       "rank": 5,
-      "category": "国外时政"
-    },
-    {
-      "raw_hot": 635315,
-      "num": 635315,
-      "word": "韩美日将讨论朝鲜发起严重挑衅可能性",
-      "onboard_time": 1729051341,
-      "rank": 22,
       "category": "国外时政"
     },
     {
@@ -227,20 +235,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 568662,
+      "num": 568662,
+      "word": "预制菜发展到什么程度了",
+      "onboard_time": 1729050201,
+      "rank": 48,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 568337,
       "num": 283284,
       "word": "中学老师群里失控怒骂被暂停教学",
       "onboard_time": 1728998720,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 564140,
-      "num": 564140,
-      "word": "预制菜发展到什么程度了",
-      "onboard_time": 1729050201,
-      "rank": 48,
-      "category": "科学科普"
     },
     {
       "raw_hot": 562298,
@@ -411,6 +419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 352416,
+      "num": 352416,
+      "word": "王楚钦福州见面会",
+      "onboard_time": 1729055360,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 350444,
       "num": 350444,
       "word": "老外在中国治好了数学焦虑",
@@ -435,12 +451,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 336906,
+      "num": 336906,
+      "word": "韩国女歌手因蛀牙患舌癌切除部分舌头",
+      "onboard_time": 1729050560,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 313002,
       "num": 313002,
       "word": "国足印尼冲突",
       "onboard_time": 1729001362,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 306413,
+      "num": 382593,
+      "word": "男子将入户门改为外开被邻居起诉",
+      "onboard_time": 1729053261,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 304657,
@@ -473,14 +505,6 @@
       "onboard_time": 1729049540,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 280130,
-      "num": 280130,
-      "word": "韩国女歌手因蛀牙患舌癌切除部分舌头",
-      "onboard_time": 1729050560,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 274733,
@@ -539,6 +563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 261596,
+      "num": 261596,
+      "word": "周放连续十三年为赵丽颖庆生",
+      "onboard_time": 1729051280,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 261473,
       "num": 261473,
       "word": "巩俐 成天戴口罩墨镜什么都看不见",
@@ -569,6 +601,14 @@
       "onboard_time": 1729045278,
       "rank": 28,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 246699,
+      "num": 246699,
+      "word": "男子漂流67天获救体重骤减100斤",
+      "onboard_time": 1729055481,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 245326,
@@ -659,14 +699,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 225609,
-      "num": 225609,
-      "word": "周放连续十三年为赵丽颖庆生",
-      "onboard_time": 1729051280,
-      "rank": 47,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 219200,
       "num": 219200,
       "word": "张子枫ELLE首封",
@@ -681,14 +713,6 @@
       "onboard_time": 1728998241,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 215238,
-      "num": 215238,
-      "word": "男子将入户门改为外开被邻居起诉",
-      "onboard_time": 1729053261,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 214609,
@@ -761,6 +785,14 @@
       "onboard_time": 1729048278,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 201201,
+      "num": 201201,
+      "word": "王楚钦孙颖莎王曼昱退赛",
+      "onboard_time": 1729054881,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 200626,
@@ -891,6 +923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 165067,
+      "num": 165067,
+      "word": "沈星回的饭局",
+      "onboard_time": 1729053802,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 164177,
       "num": 164177,
       "word": "晚宴的章昊",
@@ -929,6 +969,14 @@
       "onboard_time": 1729007299,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 157529,
+      "num": 157529,
+      "word": "辰咪CP",
+      "onboard_time": 1729055601,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 156320,
@@ -1307,6 +1355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 60992,
+      "num": 559591,
+      "word": "抢到定金红包居然购物更贵了",
+      "onboard_time": 1729054701,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 50622,
       "num": 81360,
       "word": "成都住房贷款可以商转公了",
@@ -1353,6 +1409,14 @@
       "onboard_time": 1729013353,
       "rank": 34,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 37885,
+      "num": 429861,
+      "word": "想吃进口药的病人涌进民营医院",
+      "onboard_time": 1729055303,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 37724,
@@ -1435,6 +1499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 24712,
+      "num": 199528,
+      "word": "显腿长的芭蕾运动鞋",
+      "onboard_time": 1729055840,
+      "rank": 38,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 24673,
       "num": 25163,
       "word": "被泼开水女童父亲称孩子需要心理治疗",
@@ -1505,6 +1577,14 @@
       "onboard_time": 1729049959,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 19562,
+      "num": 409198,
+      "word": "妙风也是风韵犹存",
+      "onboard_time": 1729055002,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 19425,
