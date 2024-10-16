@@ -1,6 +1,6 @@
 {
   "startTime": 1729009695696,
-  "endTime": 1729052823444,
+  "endTime": 1729053703810,
   "band_list": [
     {
       "raw_hot": 2678791,
@@ -19,6 +19,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1528798,
+      "num": 1528798,
+      "word": "山西被打女孩父亲回应7名同学已道歉",
+      "onboard_time": 1729050080,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1528024,
       "num": 1528024,
       "word": "各地最低工资标准一览表",
@@ -28,7 +36,7 @@
     },
     {
       "raw_hot": 1479717,
-      "num": 546344,
+      "num": 612280,
       "word": "韩素希用小号给李惠利留恶评",
       "onboard_time": 1729049060,
       "rank": 15,
@@ -51,16 +59,8 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 1288348,
-      "num": 1288348,
-      "word": "山西被打女孩父亲回应7名同学已道歉",
-      "onboard_time": 1729050080,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1159441,
-      "num": 530116,
+      "raw_hot": 1278752,
+      "num": 617245,
       "word": "维密 大码模特",
       "onboard_time": 1729048340,
       "rank": 12,
@@ -124,7 +124,7 @@
     },
     {
       "raw_hot": 833972,
-      "num": 505416,
+      "num": 602087,
       "word": "18岁女主播奔现榜一大哥被骗2万多",
       "onboard_time": 1729047201,
       "rank": 34,
@@ -179,8 +179,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 658314,
+      "num": 658314,
+      "word": "教师情绪失控不是小问题",
+      "onboard_time": 1729052601,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 640429,
-      "num": 497506,
+      "num": 578753,
       "word": "韩国军方下达火力待命指南",
       "onboard_time": 1729041080,
       "rank": 27,
@@ -192,6 +200,14 @@
       "word": "中方回应韩媒称朝鲜炸毁韩朝边境部分道路",
       "onboard_time": 1729004241,
       "rank": 5,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 635315,
+      "num": 635315,
+      "word": "韩美日将讨论朝鲜发起严重挑衅可能性",
+      "onboard_time": 1729051341,
+      "rank": 22,
       "category": "国外时政"
     },
     {
@@ -217,6 +233,22 @@
       "onboard_time": 1728998720,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 564140,
+      "num": 564140,
+      "word": "预制菜发展到什么程度了",
+      "onboard_time": 1729050201,
+      "rank": 48,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 562298,
+      "num": 625210,
+      "word": "我国原子弹爆炸成功60周年",
+      "onboard_time": 1729041080,
+      "rank": 37,
+      "category": "国内时政"
     },
     {
       "raw_hot": 554016,
@@ -267,6 +299,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 527850,
+      "num": 629846,
+      "word": "杨迪看中医90秒被吓到5次",
+      "onboard_time": 1729049900,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 506556,
       "num": 506556,
       "word": "范丞丞cos向佐",
@@ -275,20 +315,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 487048,
+      "num": 487048,
+      "word": "中国第一颗原子弹爆炸倒计时画面",
+      "onboard_time": 1729051881,
+      "rank": 23,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 483631,
       "num": 483631,
       "word": "百亿票房男演员名单",
       "onboard_time": 1729044439,
       "rank": 7,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 476312,
-      "num": 476312,
-      "word": "我国原子弹爆炸成功60周年",
-      "onboard_time": 1729041080,
-      "rank": 37,
-      "category": "国内时政"
     },
     {
       "raw_hot": 475650,
@@ -339,14 +379,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 420923,
-      "num": 420923,
-      "word": "韩美日将讨论朝鲜发起严重挑衅可能性",
-      "onboard_time": 1729051341,
-      "rank": 22,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 416192,
       "num": 493915,
       "word": "奔跑吧官微漏勺行为",
@@ -361,30 +393,6 @@
       "onboard_time": 1729008679,
       "rank": 17,
       "category": "网红"
-    },
-    {
-      "raw_hot": 394834,
-      "num": 394834,
-      "word": "中国第一颗原子弹爆炸倒计时画面",
-      "onboard_time": 1729051881,
-      "rank": 23,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 392930,
-      "num": 392930,
-      "word": "预制菜发展到什么程度了",
-      "onboard_time": 1729050201,
-      "rank": 48,
-      "category": "科学科普"
-    },
-    {
-      "raw_hot": 386074,
-      "num": 526299,
-      "word": "杨迪看中医90秒被吓到5次",
-      "onboard_time": 1729049900,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 365277,
@@ -419,6 +427,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 343623,
+      "num": 519183,
+      "word": "大学生做兼职名下多了21家公司",
+      "onboard_time": 1729051460,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 313002,
       "num": 313002,
       "word": "国足印尼冲突",
@@ -435,8 +451,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 301319,
-      "num": 301319,
+      "raw_hot": 302487,
+      "num": 302487,
       "word": "任天堂闹钟卖断货",
       "onboard_time": 1729050982,
       "rank": 26,
@@ -457,6 +473,14 @@
       "onboard_time": 1729049540,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 280130,
+      "num": 280130,
+      "word": "韩国女歌手因蛀牙患舌癌切除部分舌头",
+      "onboard_time": 1729050560,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 274733,
@@ -481,6 +505,14 @@
       "onboard_time": 1729050021,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 265641,
+      "num": 265641,
+      "word": "美国限期以色列30天改善加沙现状",
+      "onboard_time": 1729052061,
+      "rank": 38,
+      "category": "国外时政"
     },
     {
       "raw_hot": 264246,
@@ -515,12 +547,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 258585,
-      "num": 258585,
-      "word": "教师情绪失控不是小问题",
-      "onboard_time": 1729052601,
-      "rank": 35,
-      "category": "社会新闻"
+      "raw_hot": 257177,
+      "num": 257177,
+      "word": "Gigi大开",
+      "onboard_time": 1729049780,
+      "rank": 43,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 254742,
@@ -531,20 +563,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 250493,
-      "num": 250493,
-      "word": "Gigi大开",
-      "onboard_time": 1729049780,
-      "rank": 43,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 250157,
       "num": 250157,
       "word": "时代少年团时尚芭莎封面预告",
       "onboard_time": 1729045278,
       "rank": 28,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 245326,
+      "num": 245326,
+      "word": "南宁2名11岁女孩失联",
+      "onboard_time": 1729050801,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 244003,
@@ -571,14 +603,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 239960,
-      "num": 239960,
-      "word": "美国限期以色列30天改善加沙现状",
-      "onboard_time": 1729052061,
-      "rank": 38,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 239710,
       "num": 172915,
       "word": "网红麻辣烫直播情侣亲昵博眼球",
@@ -603,14 +627,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 231412,
-      "num": 519183,
-      "word": "大学生做兼职名下多了21家公司",
-      "onboard_time": 1729051460,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 229495,
       "num": 229495,
       "word": "许许多多个邓稼先隐姓埋名以身许国",
@@ -624,6 +640,30 @@
       "word": "hanni哭了",
       "onboard_time": 1728988820,
       "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 227153,
+      "num": 496014,
+      "word": "奔跑吧团建路透直播",
+      "onboard_time": 1729053442,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 226284,
+      "num": 226284,
+      "word": "樊振东王励勤全锦赛现场热聊",
+      "onboard_time": 1729053562,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 225609,
+      "num": 225609,
+      "word": "周放连续十三年为赵丽颖庆生",
+      "onboard_time": 1729051280,
+      "rank": 47,
       "category": "艺人"
     },
     {
@@ -643,11 +683,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 216296,
-      "num": 216296,
-      "word": "南宁2名11岁女孩失联",
-      "onboard_time": 1729050801,
-      "rank": 40,
+      "raw_hot": 215238,
+      "num": 215238,
+      "word": "男子将入户门改为外开被邻居起诉",
+      "onboard_time": 1729053261,
+      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -707,6 +747,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 202994,
+      "num": 202994,
+      "word": "女儿的安全感是爸爸给的",
+      "onboard_time": 1729053261,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 202322,
       "num": 231987,
       "word": "奔跑吧茶马古道教科书式官宣",
@@ -723,12 +771,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 198324,
-      "num": 198324,
-      "word": "周放连续十三年为赵丽颖庆生",
-      "onboard_time": 1729051280,
-      "rank": 47,
-      "category": "艺人"
+      "raw_hot": 196922,
+      "num": 196922,
+      "word": "奔跑吧",
+      "onboard_time": 1729053082,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 192614,
@@ -979,6 +1027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 132772,
+      "num": 496851,
+      "word": "外卖员拉玻璃门后破碎商家要求赔偿",
+      "onboard_time": 1729051581,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 129253,
       "num": 129253,
       "word": "刘浩存看展生图",
@@ -1219,12 +1275,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 74846,
-      "num": 496851,
-      "word": "外卖员拉玻璃门后破碎商家要求赔偿",
-      "onboard_time": 1729051581,
-      "rank": 14,
-      "category": "社会新闻"
+      "raw_hot": 77610,
+      "num": 278924,
+      "word": "比亚迪30周年抽30辆仰望送车主",
+      "onboard_time": 1729049841,
+      "rank": 37,
+      "category": "汽车"
     },
     {
       "raw_hot": 74056,
@@ -1249,14 +1305,6 @@
       "onboard_time": 1729048999,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 62532,
-      "num": 278924,
-      "word": "比亚迪30周年抽30辆仰望送车主",
-      "onboard_time": 1729049841,
-      "rank": 37,
-      "category": "汽车"
     },
     {
       "raw_hot": 50622,
@@ -1288,6 +1336,14 @@
       "word": "火锅店免费美甲服务变抄作业",
       "onboard_time": 1729013113,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 44562,
+      "num": 444555,
+      "word": "我是子涵大军中的一员",
+      "onboard_time": 1729051642,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -1355,20 +1411,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 31499,
+      "num": 257321,
+      "word": "小丑2 音乐剧",
+      "onboard_time": 1729051341,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 27955,
       "num": 33688,
       "word": "国足2比1印尼",
       "onboard_time": 1728995299,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 25943,
-      "num": 444555,
-      "word": "我是子涵大军中的一员",
-      "onboard_time": 1729051642,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 25785,
