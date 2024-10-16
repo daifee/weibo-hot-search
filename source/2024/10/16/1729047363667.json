@@ -1,0 +1,410 @@
+{
+  "runTime": 1729047363667,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1296041,
+        "num": 1296041,
+        "word": "刘强东章泽天夫妇报案",
+        "onboard_time": 1729040959,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1083402,
+        "num": 1083402,
+        "word": "刚出生就1米8的小公主来啦",
+        "onboard_time": 1729041317,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 91093,
+        "num": 895181,
+        "word": "美政府和微软公司拒绝回应",
+        "onboard_time": 1729046418,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1099609,
+        "num": 874604,
+        "word": "无人机侵入事件朝鲜为何反应激烈",
+        "onboard_time": 1729043659,
+        "rank": 3,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 817572,
+        "num": 817572,
+        "word": "一个村50多人假住院骗保险",
+        "onboard_time": 1729042878,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 649858,
+        "num": 649858,
+        "word": "孩子被余华英拐走他背负卖子骂名30年",
+        "onboard_time": 1729045519,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 504997,
+        "num": 504997,
+        "word": "范丞丞cos向佐",
+        "onboard_time": 1729045098,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 482571,
+        "num": 482571,
+        "word": "百亿票房男演员名单",
+        "onboard_time": 1729044439,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 416192,
+        "num": 416192,
+        "word": "奔跑吧官微漏勺行为",
+        "onboard_time": 1729044620,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 350721,
+        "num": 350721,
+        "word": "戴鲨鱼夹摔倒重度昏迷女子被接回家",
+        "onboard_time": 1729005620,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 554016,
+        "num": 346877,
+        "word": "赵丽颖高定纱裙",
+        "onboard_time": 1729035438,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 482867,
+        "num": 338210,
+        "word": "听泉鉴宝说不敢再休息了",
+        "onboard_time": 1729003701,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 447326,
+        "num": 334673,
+        "word": "韩国军方下达火力待命指南",
+        "onboard_time": 1729041080,
+        "rank": 12,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 367940,
+        "num": 328955,
+        "word": "警方回应女孩被同学打的满嘴是血",
+        "onboard_time": 1729045160,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 378587,
+        "num": 320823,
+        "word": "朝韩关系为何一下变天",
+        "onboard_time": 1728994219,
+        "rank": 14,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 319106,
+        "num": 319106,
+        "word": "死者父亲将起诉出轨儿媳索赔150万",
+        "onboard_time": 1729006759,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 338406,
+        "num": 319055,
+        "word": "韩国总统尹锡悦不支持率超过70%",
+        "onboard_time": 1729017614,
+        "rank": 16,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 318688,
+        "num": 318688,
+        "word": "国足赢了",
+        "onboard_time": 1729001062,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 305795,
+        "num": 305795,
+        "word": "陈赫回应说黄磊做饭好吃",
+        "onboard_time": 1729045339,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 238981,
+        "num": 300740,
+        "word": "贺聪维密首秀",
+        "onboard_time": 1729046538,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1264081,
+        "num": 296427,
+        "word": "班主任在班级群发飙后被停职",
+        "onboard_time": 1729010117,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 529054,
+        "num": 291091,
+        "word": "一个考清华一个烤面包",
+        "onboard_time": 1729042939,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 342789,
+        "num": 287312,
+        "word": "女孩拿刚买的黄金做成美甲",
+        "onboard_time": 1729041258,
+        "rank": 22,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 282313,
+        "num": 282313,
+        "word": "金正恩指明朝鲜军事活动方向",
+        "onboard_time": 1728964940,
+        "rank": 23,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 145130,
+        "num": 280424,
+        "word": "粥饼伦已注册多枚形象商标",
+        "onboard_time": 1729046898,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 279206,
+        "num": 279206,
+        "word": "朝鲜140万青年参军或复队",
+        "onboard_time": 1729036999,
+        "rank": 25,
+        "category": "国外时政,军事"
+      },
+      {
+        "raw_hot": 272482,
+        "num": 272482,
+        "word": "成年男性把钱花给了童年的自己",
+        "onboard_time": 1729045219,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 254742,
+        "num": 254742,
+        "word": "王一博果然写了他的名字",
+        "onboard_time": 1729042939,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 250157,
+        "num": 250157,
+        "word": "时代少年团时尚芭莎封面预告",
+        "onboard_time": 1729045278,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 185506,
+        "num": 245640,
+        "word": "翁青雅 恋综喜剧人",
+        "onboard_time": 1729040000,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 274733,
+        "num": 245382,
+        "word": "刘雯贺聪维密手牵手谢幕",
+        "onboard_time": 1729047319,
+        "rank": 30,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 244003,
+        "num": 244003,
+        "word": "国足只落后小组第二2分",
+        "onboard_time": 1729044079,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 613020,
+        "num": 241687,
+        "word": "维密大秀",
+        "onboard_time": 1729037299,
+        "rank": 32,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 237835,
+        "num": 237835,
+        "word": "奔跑吧新一季原班人马",
+        "onboard_time": 1729047319,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 237465,
+        "num": 237465,
+        "word": "18岁女主播奔现榜一大哥被骗2万多",
+        "onboard_time": 1729047201,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229495,
+        "num": 229495,
+        "word": "许许多多个邓稼先隐姓埋名以身许国",
+        "onboard_time": 1729043899,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225485,
+        "num": 225485,
+        "word": "这声东方巨响让中国人挺直了腰杆",
+        "onboard_time": 1729047319,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 204270,
+        "num": 204270,
+        "word": "阿根廷6比0玻利维亚",
+        "onboard_time": 1729046780,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 201068,
+        "num": 201068,
+        "word": "各地最低工资标准一览表",
+        "onboard_time": 1729046898,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191844,
+        "num": 191844,
+        "word": "王一博到达长春",
+        "onboard_time": 1729044559,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186861,
+        "num": 186861,
+        "word": "刘雯粉色look",
+        "onboard_time": 1729040899,
+        "rank": 40,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 168834,
+        "num": 168834,
+        "word": "德国出现针对中国女性连环强奸犯",
+        "onboard_time": 1729037840,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165697,
+        "num": 165697,
+        "word": "中学老师群里失控怒骂被暂停教学",
+        "onboard_time": 1728998720,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150827,
+        "num": 150827,
+        "word": "梅西破门",
+        "onboard_time": 1729041800,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 150399,
+        "num": 150399,
+        "word": "张真源羊羔毛大衣卷毛造型",
+        "onboard_time": 1729046780,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149408,
+        "num": 149408,
+        "word": "以为是恋爱脑结果是大boss",
+        "onboard_time": 1729046179,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 147988,
+        "num": 147988,
+        "word": "迪丽热巴贺思慕紫衣路透look",
+        "onboard_time": 1729045160,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137341,
+        "num": 137341,
+        "word": "白鹿说上一次来西安还是时宜",
+        "onboard_time": 1729042819,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123346,
+        "num": 123346,
+        "word": "粥饼伦终于开店了",
+        "onboard_time": 1729008679,
+        "rank": 48,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 120773,
+        "num": 120773,
+        "word": "贾耗 分手脱口秀",
+        "onboard_time": 1729044139,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#全面加强新时代新征程军事理论工作#"
+    }
+  }
+}
