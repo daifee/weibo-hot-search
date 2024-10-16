@@ -1,6 +1,6 @@
 {
   "startTime": 1729096028716,
-  "endTime": 1729111075706,
+  "endTime": 1729113752262,
   "band_list": [
     {
       "raw_hot": 1528782,
@@ -419,6 +419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 76609,
+      "num": 128993,
+      "word": "100岁姐姐与94岁妹妹的极限拉扯",
+      "onboard_time": 1729107131,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 75985,
       "num": 79047,
       "word": "官方回应拆迁不可能一户赔几千万",
@@ -435,12 +443,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 68016,
-      "num": 68016,
-      "word": "100岁姐姐与94岁妹妹的极限拉扯",
-      "onboard_time": 1729107131,
-      "rank": 43,
-      "category": "社会新闻"
+      "raw_hot": 69769,
+      "num": 69769,
+      "word": "韩美日今日就半岛局势举行会晤",
+      "onboard_time": 1729106232,
+      "rank": 46,
+      "category": "国外时政"
     },
     {
       "raw_hot": 65973,
@@ -449,14 +457,6 @@
       "onboard_time": 1729095678,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 65506,
-      "num": 65506,
-      "word": "韩美日今日就半岛局势举行会晤",
-      "onboard_time": 1729106232,
-      "rank": 46,
-      "category": "国外时政"
     },
     {
       "raw_hot": 60749,
@@ -587,6 +587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 19176,
+      "num": 19176,
+      "word": "代号老邱8点开始梳辫子",
+      "onboard_time": 1729111812,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 17370,
       "num": 49485,
       "word": "从原子弹到氢弹中国只用了两年多",
@@ -603,6 +611,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 15876,
+      "num": 37823,
+      "word": "60年前罗布泊与北京之间的密语",
+      "onboard_time": 1729110371,
+      "rank": 9,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 14977,
       "num": 66153,
       "word": "唢呐一响谁的DNA动了",
@@ -611,12 +627,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 13617,
+      "raw_hot": 13787,
       "num": 18812,
       "word": "春花焰",
       "onboard_time": 1729079601,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 13304,
+      "num": 15875,
+      "word": "史上最强该死的温柔",
+      "onboard_time": 1729113612,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 12523,
+      "num": 32930,
+      "word": "超燃BGM和震撼开火场面的适配度",
+      "onboard_time": 1729107013,
+      "rank": 9,
+      "category": "军事"
     },
     {
       "raw_hot": 11081,
@@ -633,14 +665,6 @@
       "onboard_time": 1729084701,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 10376,
-      "num": 37823,
-      "word": "60年前罗布泊与北京之间的密语",
-      "onboard_time": 1729110371,
-      "rank": 9,
-      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 4886,
