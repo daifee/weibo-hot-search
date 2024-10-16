@@ -1,0 +1,410 @@
+{
+  "runTime": 1729050259692,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1245798,
+        "num": 1245798,
+        "word": "奔跑吧新一季原班人马",
+        "onboard_time": 1729047319,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1215941,
+        "num": 1215941,
+        "word": "各地最低工资标准一览表",
+        "onboard_time": 1729046898,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 66296,
+        "num": 1082841,
+        "word": "美政府和微软公司拒绝回应",
+        "onboard_time": 1729046418,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1062769,
+        "num": 1062769,
+        "word": "刘强东章泽天夫妇报案",
+        "onboard_time": 1729040959,
+        "rank": 3,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 790079,
+        "num": 790079,
+        "word": "孩子被余华英拐走他背负卖子骂名30年",
+        "onboard_time": 1729045519,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 644259,
+        "num": 644259,
+        "word": "刚出生就1米8的小公主来啦",
+        "onboard_time": 1729041317,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 590648,
+        "num": 590648,
+        "word": "无人机侵入事件朝鲜为何反应激烈",
+        "onboard_time": 1729043659,
+        "rank": 6,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 586997,
+        "num": 586997,
+        "word": "张本智和说庆祝动作是致敬樊振东",
+        "onboard_time": 1729048700,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 435412,
+        "num": 572346,
+        "word": "陈赫回应说黄磊做饭好吃",
+        "onboard_time": 1729045339,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 79394,
+        "num": 567758,
+        "word": "新余特大火灾事故55名公职人员被追责问责",
+        "onboard_time": 1729049060,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1479717,
+        "num": 546344,
+        "word": "韩素希用小号给李惠利留恶评",
+        "onboard_time": 1729049060,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1005924,
+        "num": 530116,
+        "word": "维密 大码模特",
+        "onboard_time": 1729048340,
+        "rank": 11,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 805473,
+        "num": 505416,
+        "word": "18岁女主播奔现榜一大哥被骗2万多",
+        "onboard_time": 1729047201,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 497506,
+        "num": 497506,
+        "word": "韩国军方下达火力待命指南",
+        "onboard_time": 1729041080,
+        "rank": 13,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 34112,
+        "num": 464312,
+        "word": "朝韩局势升温根源何在",
+        "onboard_time": 1729049540,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 452081,
+        "num": 452081,
+        "word": "这声东方巨响让中国人挺直了腰杆",
+        "onboard_time": 1729047319,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 432383,
+        "num": 432383,
+        "word": "警方回应女孩被同学打的满嘴是血",
+        "onboard_time": 1729045160,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 311258,
+        "num": 428214,
+        "word": "范丞丞cos向佐",
+        "onboard_time": 1729045098,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20238,
+        "num": 421090,
+        "word": "NewJeans成员为HANNI加油",
+        "onboard_time": 1729049959,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31775,
+        "num": 409404,
+        "word": "男生不堪特训学校高压跳楼致骨折",
+        "onboard_time": 1729049841,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 778903,
+        "num": 392557,
+        "word": "班主任在班级群发飙后被停职",
+        "onboard_time": 1729010117,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 391006,
+        "num": 391006,
+        "word": "百亿票房男演员名单",
+        "onboard_time": 1729044439,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 381564,
+        "num": 381564,
+        "word": "一个考清华一个烤面包",
+        "onboard_time": 1729042939,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 354526,
+        "num": 354526,
+        "word": "听泉鉴宝说不敢再休息了",
+        "onboard_time": 1729003701,
+        "rank": 23,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 317587,
+        "num": 317587,
+        "word": "郑钦文宁网退赛",
+        "onboard_time": 1729049720,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 292870,
+        "num": 292870,
+        "word": "一个村50多人假住院骗保险",
+        "onboard_time": 1729042878,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290999,
+        "num": 290999,
+        "word": "金正恩指明朝鲜军事活动方向",
+        "onboard_time": 1728964940,
+        "rank": 26,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 289215,
+        "num": 289215,
+        "word": "我国原子弹爆炸成功60周年",
+        "onboard_time": 1729041080,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 281363,
+        "num": 281363,
+        "word": "赵丽颖高定纱裙",
+        "onboard_time": 1729035438,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205909,
+        "num": 275324,
+        "word": "杨迪看中医90秒被吓到5次",
+        "onboard_time": 1729049900,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 73217,
+        "num": 273314,
+        "word": "全国秋粮已收获超六成",
+        "onboard_time": 1729048999,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 272325,
+        "num": 272325,
+        "word": "山西被打女孩父亲回应7名同学已道歉",
+        "onboard_time": 1729050080,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231275,
+        "num": 231275,
+        "word": "朝鲜140万青年参军或复队",
+        "onboard_time": 1729036999,
+        "rank": 32,
+        "category": "国外时政,军事"
+      },
+      {
+        "raw_hot": 228264,
+        "num": 228264,
+        "word": "国足只落后小组第二2分",
+        "onboard_time": 1729044079,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 227773,
+        "num": 227773,
+        "word": "女孩拿刚买的黄金做成美甲",
+        "onboard_time": 1729041258,
+        "rank": 34,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 224267,
+        "num": 224267,
+        "word": "赵丽颖盛开在她的花色原野",
+        "onboard_time": 1729048278,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 219706,
+        "num": 219706,
+        "word": "刘雯贺聪维密手牵手谢幕",
+        "onboard_time": 1729047319,
+        "rank": 36,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 57298,
+        "num": 218186,
+        "word": "比亚迪30周年抽30辆仰望送车主",
+        "onboard_time": 1729049841,
+        "rank": 37,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 217455,
+        "num": 217455,
+        "word": "朝韩关系为何一下变天",
+        "onboard_time": 1728994219,
+        "rank": 38,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 190843,
+        "num": 214222,
+        "word": "现在就出发2官宣白敬亭",
+        "onboard_time": 1729050140,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 213863,
+        "num": 213863,
+        "word": "宋雨琦人在上班心在云南",
+        "onboard_time": 1729049540,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 212034,
+        "num": 212034,
+        "word": "成年男性把钱花给了童年的自己",
+        "onboard_time": 1729045219,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 209969,
+        "num": 209969,
+        "word": "德国出现针对中国女性连环强奸犯",
+        "onboard_time": 1729037840,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204730,
+        "num": 204730,
+        "word": "Gigi大开",
+        "onboard_time": 1729049780,
+        "rank": 43,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 193973,
+        "num": 193973,
+        "word": "25地最低工资标准不低于2000元",
+        "onboard_time": 1729050021,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175051,
+        "num": 175051,
+        "word": "男子收费教200多村民骗保险",
+        "onboard_time": 1729039641,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167456,
+        "num": 167456,
+        "word": "王一博果然写了他的名字",
+        "onboard_time": 1729042939,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166057,
+        "num": 166057,
+        "word": "戴鲨鱼夹摔倒重度昏迷女子被接回家",
+        "onboard_time": 1729005620,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160095,
+        "num": 160095,
+        "word": "预制菜发展到什么程度了",
+        "onboard_time": 1729050201,
+        "rank": 48,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 17250,
+        "num": 158338,
+        "word": "回购n次的好用护肤品",
+        "onboard_time": 1729047439,
+        "rank": 49,
+        "category": "美妆"
+      }
+    ],
+    "hotgov": {
+      "word": "#粮食安全是国之大者#"
+    }
+  }
+}

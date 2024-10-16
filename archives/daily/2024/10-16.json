@@ -1,6 +1,6 @@
 {
   "startTime": 1729009695696,
-  "endTime": 1729049410656,
+  "endTime": 1729050259692,
   "band_list": [
     {
       "raw_hot": 2678791,
@@ -19,6 +19,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1479717,
+      "num": 546344,
+      "word": "韩素希用小号给李惠利留恶评",
+      "onboard_time": 1729049060,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1352455,
       "num": 1352455,
       "word": "奔跑吧新一季原班人马",
@@ -33,6 +41,14 @@
       "onboard_time": 1728994219,
       "rank": 4,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 1215941,
+      "num": 1215941,
+      "word": "各地最低工资标准一览表",
+      "onboard_time": 1729046898,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1122915,
@@ -67,6 +83,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1005924,
+      "num": 530116,
+      "word": "维密 大码模特",
+      "onboard_time": 1729048340,
+      "rank": 12,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 941843,
       "num": 941843,
       "word": "听泉鉴宝说不敢再休息了",
@@ -84,7 +108,7 @@
     },
     {
       "raw_hot": 833972,
-      "num": 403194,
+      "num": 505416,
       "word": "18岁女主播奔现榜一大哥被骗2万多",
       "onboard_time": 1729047201,
       "rank": 34,
@@ -113,14 +137,6 @@
       "onboard_time": 1729036999,
       "rank": 4,
       "category": "国外时政,军事"
-    },
-    {
-      "raw_hot": 714507,
-      "num": 714507,
-      "word": "各地最低工资标准一览表",
-      "onboard_time": 1729046898,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 694248,
@@ -155,8 +171,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 586997,
+      "num": 586997,
+      "word": "张本智和说庆祝动作是致敬樊振东",
+      "onboard_time": 1729048700,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 580297,
-      "num": 480660,
+      "num": 497506,
       "word": "韩国军方下达火力待命指南",
       "onboard_time": 1729041080,
       "rank": 27,
@@ -185,14 +209,6 @@
       "onboard_time": 1729035438,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 546927,
-      "num": 400676,
-      "word": "维密 大码模特",
-      "onboard_time": 1729048340,
-      "rank": 12,
-      "category": "时尚"
     },
     {
       "raw_hot": 538832,
@@ -228,7 +244,7 @@
     },
     {
       "raw_hot": 529054,
-      "num": 359206,
+      "num": 381564,
       "word": "一个考清华一个烤面包",
       "onboard_time": 1729042939,
       "rank": 23,
@@ -267,12 +283,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 469533,
-      "num": 397212,
-      "word": "韩素希用小号给李惠利留恶评",
-      "onboard_time": 1729049060,
-      "rank": 15,
-      "category": "艺人"
+      "raw_hot": 452081,
+      "num": 452081,
+      "word": "这声东方巨响让中国人挺直了腰杆",
+      "onboard_time": 1729047319,
+      "rank": 36,
+      "category": "国内时政"
     },
     {
       "raw_hot": 447514,
@@ -291,6 +307,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 435412,
+      "num": 572346,
+      "word": "陈赫回应说黄磊做饭好吃",
+      "onboard_time": 1729045339,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 416192,
       "num": 493915,
       "word": "奔跑吧官微漏勺行为",
@@ -305,30 +329,6 @@
       "onboard_time": 1729008679,
       "rank": 17,
       "category": "网红"
-    },
-    {
-      "raw_hot": 408330,
-      "num": 408330,
-      "word": "这声东方巨响让中国人挺直了腰杆",
-      "onboard_time": 1729047319,
-      "rank": 36,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 404635,
-      "num": 404635,
-      "word": "陈赫回应说黄磊做饭好吃",
-      "onboard_time": 1729045339,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 388227,
-      "num": 388227,
-      "word": "张本智和说庆祝动作是致敬樊振东",
-      "onboard_time": 1729048700,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 365277,
@@ -363,6 +363,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 317587,
+      "num": 317587,
+      "word": "郑钦文宁网退赛",
+      "onboard_time": 1729049720,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 313002,
       "num": 313002,
       "word": "国足印尼冲突",
@@ -377,6 +385,14 @@
       "onboard_time": 1728993619,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 289215,
+      "num": 289215,
+      "word": "我国原子弹爆炸成功60周年",
+      "onboard_time": 1729041080,
+      "rank": 37,
+      "category": "国内时政"
     },
     {
       "raw_hot": 287020,
@@ -401,6 +417,14 @@
       "onboard_time": 1729045219,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 272325,
+      "num": 272325,
+      "word": "山西被打女孩父亲回应7名同学已道歉",
+      "onboard_time": 1729050080,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 264246,
@@ -523,6 +547,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 213863,
+      "num": 213863,
+      "word": "宋雨琦人在上班心在云南",
+      "onboard_time": 1729049540,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 209056,
       "num": 209056,
       "word": "梅西破门",
@@ -537,6 +569,22 @@
       "onboard_time": 1729042819,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 205909,
+      "num": 275324,
+      "word": "杨迪看中医90秒被吓到5次",
+      "onboard_time": 1729049900,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 204730,
+      "num": 204730,
+      "word": "Gigi大开",
+      "onboard_time": 1729049780,
+      "rank": 43,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 204270,
@@ -563,12 +611,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 193973,
+      "num": 193973,
+      "word": "25地最低工资标准不低于2000元",
+      "onboard_time": 1729050021,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 191844,
       "num": 191844,
       "word": "王一博到达长春",
       "onboard_time": 1729044559,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 190843,
+      "num": 214222,
+      "word": "现在就出发2官宣白敬亭",
+      "onboard_time": 1729050140,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 188252,
@@ -633,14 +697,6 @@
       "onboard_time": 1729000401,
       "rank": 24,
       "category": "数码"
-    },
-    {
-      "raw_hot": 179793,
-      "num": 179793,
-      "word": "我国原子弹爆炸成功60周年",
-      "onboard_time": 1729041080,
-      "rank": 37,
-      "category": "国内时政"
     },
     {
       "raw_hot": 174651,
@@ -713,6 +769,14 @@
       "onboard_time": 1728994999,
       "rank": 36,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 160095,
+      "num": 160095,
+      "word": "预制菜发展到什么程度了",
+      "onboard_time": 1729050201,
+      "rank": 48,
+      "category": "科学科普"
     },
     {
       "raw_hot": 157669,
@@ -876,7 +940,7 @@
     },
     {
       "raw_hot": 116633,
-      "num": 895181,
+      "num": 1082841,
       "word": "美政府和微软公司拒绝回应",
       "onboard_time": 1729046418,
       "rank": 2,
@@ -900,7 +964,7 @@
     },
     {
       "raw_hot": 105601,
-      "num": 403758,
+      "num": 567758,
       "word": "新余特大火灾事故55名公职人员被追责问责",
       "onboard_time": 1729049060,
       "rank": 9,
@@ -1067,6 +1131,22 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 73217,
+      "num": 1033887,
+      "word": "全国秋粮已收获超六成",
+      "onboard_time": 1729048999,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 57298,
+      "num": 218186,
+      "word": "比亚迪30周年抽30辆仰望送车主",
+      "onboard_time": 1729049841,
+      "rank": 37,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 50622,
       "num": 81360,
       "word": "成都住房贷款可以商转公了",
@@ -1123,6 +1203,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 34112,
+      "num": 464312,
+      "word": "朝韩局势升温根源何在",
+      "onboard_time": 1729049540,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 33271,
       "num": 235076,
       "word": "谢娜脱口秀rap",
@@ -1139,11 +1227,11 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 30320,
-      "num": 1033887,
-      "word": "全国秋粮已收获超六成",
-      "onboard_time": 1729048999,
-      "rank": 2,
+      "raw_hot": 31775,
+      "num": 409404,
+      "word": "男生不堪特训学校高压跳楼致骨折",
+      "onboard_time": 1729049841,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -1227,6 +1315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 20238,
+      "num": 421090,
+      "word": "NewJeans成员为HANNI加油",
+      "onboard_time": 1729049959,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 19425,
       "num": 40067,
       "word": "中华民族有着强大的文化创造力",
@@ -1259,7 +1355,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 17074,
+      "raw_hot": 17250,
       "num": 158793,
       "word": "回购n次的好用护肤品",
       "onboard_time": 1729047439,
