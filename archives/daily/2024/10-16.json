@@ -1,6 +1,6 @@
 {
   "startTime": 1729009695696,
-  "endTime": 1729063298311,
+  "endTime": 1729064239206,
   "band_list": [
     {
       "raw_hot": 2840046,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 1939138,
-      "num": 350043,
+      "num": 399081,
       "word": "八角笼中小演员片酬",
       "onboard_time": 1729061299,
       "rank": 10,
@@ -147,6 +147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 971230,
+      "num": 971230,
+      "word": "奔跑吧全员行李箱封面是范丞丞",
+      "onboard_time": 1729061839,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 941843,
       "num": 941843,
       "word": "听泉鉴宝说不敢再休息了",
@@ -219,6 +227,14 @@
       "category": "国外时政,军事"
     },
     {
+      "raw_hot": 781272,
+      "num": 781272,
+      "word": "网红小虎行机场强迫志愿者摘口罩",
+      "onboard_time": 1729059320,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 781191,
       "num": 781191,
       "word": "郑钦文宁网退赛",
@@ -227,12 +243,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 750303,
-      "num": 750303,
-      "word": "网红小虎行机场强迫志愿者摘口罩",
-      "onboard_time": 1729059320,
-      "rank": 36,
-      "category": "社会新闻"
+      "raw_hot": 756529,
+      "num": 756529,
+      "word": "UNIQ 解散",
+      "onboard_time": 1729063759,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 694248,
@@ -241,14 +257,6 @@
       "onboard_time": 1729017614,
       "rank": 42,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 683532,
-      "num": 345454,
-      "word": "奔跑吧全员行李箱封面是范丞丞",
-      "onboard_time": 1729061839,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 664397,
@@ -329,6 +337,14 @@
       "onboard_time": 1729041080,
       "rank": 37,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 558385,
+      "num": 397927,
+      "word": "欧阳娜娜知道欧阳妮妮怀孕的反应",
+      "onboard_time": 1729063338,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 554016,
@@ -507,8 +523,16 @@
       "category": "数码"
     },
     {
+      "raw_hot": 397010,
+      "num": 397010,
+      "word": "教材中每隔几段就出现付费二维码",
+      "onboard_time": 1729062620,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 368410,
-      "num": 368410,
+      "num": 400396,
       "word": "谢谢你们让14亿人吃好",
       "onboard_time": 1729059498,
       "rank": 30,
@@ -585,6 +609,14 @@
       "onboard_time": 1729050982,
       "rank": 26,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 300025,
+      "num": 300025,
+      "word": "女网红就在日本鸟居做引体向上道歉",
+      "onboard_time": 1729061839,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 287020,
@@ -705,6 +737,14 @@
       "onboard_time": 1729045278,
       "rank": 28,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 247892,
+      "num": 247892,
+      "word": "网红机场强迫志愿者路人出手了",
+      "onboard_time": 1729063580,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 246210,
@@ -875,14 +915,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 204770,
-      "num": 204770,
-      "word": "教材中每隔几段就出现付费二维码",
-      "onboard_time": 1729062620,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 204270,
       "num": 204270,
       "word": "阿根廷6比0玻利维亚",
@@ -979,6 +1011,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 188415,
+      "num": 333278,
+      "word": "网友爆月嫂粗暴拉扯拍打两月大婴儿",
+      "onboard_time": 1729058540,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 188167,
       "num": 263185,
       "word": "以为是恋爱脑结果是大boss",
@@ -1003,6 +1043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 186785,
+      "num": 186785,
+      "word": "EXO台历还没发",
+      "onboard_time": 1729063100,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 186656,
       "num": 182279,
       "word": "Hanni叫错ADOR代表名字",
@@ -1025,14 +1073,6 @@
       "onboard_time": 1729031474,
       "rank": 42,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 182579,
-      "num": 182579,
-      "word": "女网红就在日本鸟居做引体向上道歉",
-      "onboard_time": 1729061839,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 181890,
@@ -1147,6 +1187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 163416,
+      "num": 163416,
+      "word": "金鹰奖提名名单",
+      "onboard_time": 1729064179,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 162321,
       "num": 286173,
       "word": "我国成功发射千帆极轨02组卫星",
@@ -1163,12 +1211,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 160060,
-      "num": 333278,
-      "word": "网友爆月嫂粗暴拉扯拍打两月大婴儿",
-      "onboard_time": 1729058540,
-      "rank": 14,
-      "category": "社会新闻"
+      "raw_hot": 160662,
+      "num": 160662,
+      "word": "A股3大积极信号",
+      "onboard_time": 1729063699,
+      "rank": 36,
+      "category": "财经"
     },
     {
       "raw_hot": 157669,
@@ -1211,12 +1259,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 149766,
-      "num": 149766,
-      "word": "EXO台历还没发",
-      "onboard_time": 1729063100,
-      "rank": 38,
-      "category": "艺人"
+      "raw_hot": 152060,
+      "num": 152060,
+      "word": "朝韩两国会擦枪走火吗",
+      "onboard_time": 1729060879,
+      "rank": 40,
+      "category": "国外时政"
     },
     {
       "raw_hot": 149265,
@@ -1360,6 +1408,14 @@
       "word": "刘浩存看展生图",
       "onboard_time": 1728998121,
       "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 126388,
+      "num": 126388,
+      "word": "八角笼中 马虎",
+      "onboard_time": 1729064120,
+      "rank": 48,
       "category": "艺人"
     },
     {
@@ -1667,6 +1723,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 51759,
+      "num": 400183,
+      "word": "多家中小银行跟进存款利率下调",
+      "onboard_time": 1729062620,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 51323,
       "num": 297407,
       "word": "春花焰有自己的医学奇迹",
@@ -1795,14 +1859,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 33406,
-      "num": 364380,
-      "word": "多家中小银行跟进存款利率下调",
-      "onboard_time": 1729062620,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 33271,
       "num": 235076,
       "word": "谢娜脱口秀rap",
@@ -1817,6 +1873,14 @@
       "onboard_time": 1729018932,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 32938,
+      "num": 137734,
+      "word": "双十一的我belike",
+      "onboard_time": 1729062080,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 31775,
@@ -1867,12 +1931,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 24518,
+      "num": 323050,
+      "word": "一公寓近140户玻璃频繁自爆",
+      "onboard_time": 1729063638,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 23642,
       "num": 33656,
       "word": "春花焰",
       "onboard_time": 1728990319,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 23572,
+      "num": 383043,
+      "word": "被泼热水烫伤的女孩近日可出院",
+      "onboard_time": 1729063699,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 22805,
@@ -1995,14 +2075,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 14529,
-      "num": 137734,
-      "word": "双十一的我belike",
-      "onboard_time": 1729062080,
-      "rank": 45,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 13565,
       "num": 34177,
       "word": "对欺诈骗保零容忍",
@@ -2017,6 +2089,14 @@
       "onboard_time": 1729027811,
       "rank": 24,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 11952,
+      "num": 321448,
+      "word": "赵丽颖20岁至37岁荧幕变化",
+      "onboard_time": 1729063939,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 11700,

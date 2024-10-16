@@ -1,0 +1,410 @@
+{
+  "runTime": 1729064239206,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1345805,
+        "num": 1345805,
+        "word": "女网红在日本鸟居做引体向上惹众怒",
+        "onboard_time": 1729054942,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 971230,
+        "num": 971230,
+        "word": "奔跑吧全员行李箱封面是范丞丞",
+        "onboard_time": 1729061839,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 56406,
+        "num": 792422,
+        "word": "美政府和微软公司拒绝回应",
+        "onboard_time": 1729046418,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 781272,
+        "num": 781272,
+        "word": "网红小虎行机场强迫志愿者摘口罩",
+        "onboard_time": 1729059320,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 756529,
+        "num": 756529,
+        "word": "UNIQ 解散",
+        "onboard_time": 1729063759,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 487032,
+        "num": 487032,
+        "word": "男子漂流67天获救体重骤减100斤",
+        "onboard_time": 1729055481,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 736971,
+        "num": 450708,
+        "word": "辛芷蕾因赵丽颖接乔妍的心事",
+        "onboard_time": 1729061058,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 400987,
+        "num": 400987,
+        "word": "中国第一颗原子弹爆炸倒计时画面",
+        "onboard_time": 1729051881,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 346035,
+        "num": 400396,
+        "word": "谢谢你们让14亿人吃好",
+        "onboard_time": 1729059498,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 51759,
+        "num": 400183,
+        "word": "多家中小银行跟进存款利率下调",
+        "onboard_time": 1729062620,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1839430,
+        "num": 399081,
+        "word": "八角笼中小演员片酬",
+        "onboard_time": 1729061299,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 558385,
+        "num": 397927,
+        "word": "欧阳娜娜知道欧阳妮妮怀孕的反应",
+        "onboard_time": 1729063338,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 767539,
+        "num": 397075,
+        "word": "八角笼中",
+        "onboard_time": 1729057340,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 397010,
+        "num": 397010,
+        "word": "教材中每隔几段就出现付费二维码",
+        "onboard_time": 1729062620,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23572,
+        "num": 383043,
+        "word": "被泼热水烫伤的女孩近日可出院",
+        "onboard_time": 1729063699,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 382498,
+        "num": 382498,
+        "word": "媒体评班主任班级群发飙后被停职",
+        "onboard_time": 1729056500,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 325244,
+        "num": 325244,
+        "word": "各地最低工资标准一览表",
+        "onboard_time": 1729046898,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 305661,
+        "num": 323775,
+        "word": "SM台历",
+        "onboard_time": 1729061839,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24518,
+        "num": 323050,
+        "word": "一公寓近140户玻璃频繁自爆",
+        "onboard_time": 1729063638,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 11952,
+        "num": 321448,
+        "word": "赵丽颖20岁至37岁荧幕变化",
+        "onboard_time": 1729063939,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1167222,
+        "num": 319897,
+        "word": "女童被打满嘴是血父亲称不追究责任",
+        "onboard_time": 1729056561,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 629498,
+        "num": 318680,
+        "word": "教师情绪失控不是小问题",
+        "onboard_time": 1729052601,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 317484,
+        "num": 317484,
+        "word": "男子将入户门改为外开被邻居起诉",
+        "onboard_time": 1729053261,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 300025,
+        "num": 300025,
+        "word": "女网红就在日本鸟居做引体向上道歉",
+        "onboard_time": 1729061839,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 259066,
+        "num": 259066,
+        "word": "维密 大码模特",
+        "onboard_time": 1729048340,
+        "rank": 24,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 252998,
+        "num": 252998,
+        "word": "韩素希用小号给李惠利留恶评",
+        "onboard_time": 1729049060,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 252699,
+        "num": 252699,
+        "word": "小米15",
+        "onboard_time": 1729056681,
+        "rank": 26,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 247892,
+        "num": 247892,
+        "word": "网红机场强迫志愿者路人出手了",
+        "onboard_time": 1729063580,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239529,
+        "num": 239529,
+        "word": "加沙人说8个月没吃过西红柿了",
+        "onboard_time": 1729058240,
+        "rank": 28,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 221888,
+        "num": 221888,
+        "word": "王楚钦福州见面会",
+        "onboard_time": 1729055360,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 194970,
+        "num": 194970,
+        "word": "金正恩指明朝鲜军事活动方向",
+        "onboard_time": 1728964940,
+        "rank": 30,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 188415,
+        "num": 188415,
+        "word": "网友爆月嫂粗暴拉扯拍打两月大婴儿",
+        "onboard_time": 1729058540,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186785,
+        "num": 186785,
+        "word": "EXO台历还没发",
+        "onboard_time": 1729063100,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174091,
+        "num": 174091,
+        "word": "班主任在班级群发飙后被停职",
+        "onboard_time": 1729010117,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166532,
+        "num": 166532,
+        "word": "COSMO赵露思星河交辉封面",
+        "onboard_time": 1729061839,
+        "rank": 34,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 163416,
+        "num": 163416,
+        "word": "金鹰奖提名名单",
+        "onboard_time": 1729064179,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 160662,
+        "num": 160662,
+        "word": "A股3大积极信号",
+        "onboard_time": 1729063699,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 156574,
+        "num": 156574,
+        "word": "刘强东章泽天夫妇报案",
+        "onboard_time": 1729040959,
+        "rank": 37,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 154435,
+        "num": 154435,
+        "word": "我国原子弹爆炸成功60周年",
+        "onboard_time": 1729041080,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 121001,
+        "num": 152489,
+        "word": "Jennie吉米秀Mantra舞台",
+        "onboard_time": 1729059679,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 152060,
+        "num": 152060,
+        "word": "朝韩两国会擦枪走火吗",
+        "onboard_time": 1729060879,
+        "rank": 40,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 150386,
+        "num": 150386,
+        "word": "中国人民用能力和志气攥成的拳头",
+        "onboard_time": 1729059080,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 149864,
+        "num": 149864,
+        "word": "2024年度最大满月要来了",
+        "onboard_time": 1729059020,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145344,
+        "num": 145344,
+        "word": "拳头游戏裁员",
+        "onboard_time": 1729061839,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 133775,
+        "num": 133775,
+        "word": "如鸢",
+        "onboard_time": 1729061659,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 131708,
+        "num": 131708,
+        "word": "王亚飞和鞠婧祎聊化妆",
+        "onboard_time": 1729058780,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32938,
+        "num": 130152,
+        "word": "双十一的我belike",
+        "onboard_time": 1729062080,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 129911,
+        "num": 129911,
+        "word": "韩国女歌手因蛀牙患舌癌切除部分舌头",
+        "onboard_time": 1729050560,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126388,
+        "num": 126388,
+        "word": "八角笼中 马虎",
+        "onboard_time": 1729064120,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126186,
+        "num": 126186,
+        "word": "张本智和说庆祝动作是致敬樊振东",
+        "onboard_time": 1729048700,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#粮食安全是国之大者#"
+    }
+  }
+}
