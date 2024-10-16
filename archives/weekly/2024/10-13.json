@@ -1,6 +1,6 @@
 {
   "startTime": 1728750414717,
-  "endTime": 1729071518117,
+  "endTime": 1729074216993,
   "band_list": [
     {
       "raw_hot": 17915004,
@@ -523,6 +523,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1482380,
+      "num": 332071,
+      "word": "张雪峰",
+      "onboard_time": 1729070899,
+      "rank": 37,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1479717,
       "num": 612280,
       "word": "韩素希用小号给李惠利留恶评",
@@ -857,6 +865,14 @@
       "onboard_time": 1729057340,
       "rank": 3,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1175792,
+      "num": 331774,
+      "word": "怀疑妻子出轨丈夫自杀遗言公开",
+      "onboard_time": 1729072821,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1170833,
@@ -3027,6 +3043,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 384781,
+      "num": 330645,
+      "word": "赵一博空降",
+      "onboard_time": 1729071320,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 384388,
       "num": 384388,
       "word": "迪丽热巴美得像洋娃娃",
@@ -3403,6 +3427,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 332465,
+      "num": 332465,
+      "word": "卫龙回应亲嘴烧在日被召回",
+      "onboard_time": 1729072940,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 332064,
       "num": 273469,
       "word": "邓亚萍谈金琴英3比1张本美和",
@@ -3432,6 +3464,14 @@
       "word": "成何体统 丞磊王楚然",
       "onboard_time": 1728909019,
       "rank": 18,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 330314,
+      "num": 330314,
+      "word": "何炅金鹰奖提名",
+      "onboard_time": 1729073599,
+      "rank": 23,
       "category": "剧集"
     },
     {
@@ -3507,6 +3547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 318571,
+      "num": 318571,
+      "word": "蕾哈娜 张元英转圈鼻祖",
+      "onboard_time": 1729072580,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 317715,
       "num": 317715,
       "word": "王者周年庆送传说皮肤",
@@ -3553,6 +3601,14 @@
       "onboard_time": 1728827122,
       "rank": 24,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 309205,
+      "num": 331117,
+      "word": "尼日利亚一油罐车爆炸至少94人死亡",
+      "onboard_time": 1729072159,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 309169,
@@ -3649,6 +3705,14 @@
       "onboard_time": 1729061839,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 299758,
+      "num": 299758,
+      "word": "种地吧",
+      "onboard_time": 1729071980,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 299280,
@@ -3920,6 +3984,14 @@
       "word": "UNIQ与乐华签约已满十年",
       "onboard_time": 1729070420,
       "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 282414,
+      "num": 306413,
+      "word": "周震南 我六天涨六斤",
+      "onboard_time": 1729071260,
+      "rank": 17,
       "category": "艺人"
     },
     {
@@ -4331,6 +4403,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 254061,
+      "num": 332199,
+      "word": "官方回应拆迁不可能一户赔几千万",
+      "onboard_time": 1729073780,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 253963,
       "num": 253963,
       "word": "樊振东穿上沪队外套了",
@@ -4465,6 +4545,14 @@
       "onboard_time": 1728986180,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 245588,
+      "num": 245588,
+      "word": "预测金鹰奖视帝视后",
+      "onboard_time": 1729072580,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 245326,
@@ -4665,6 +4753,14 @@
       "onboard_time": 1729048700,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 231401,
+      "num": 231401,
+      "word": "尚雯婕到底有什么把柄在芒果",
+      "onboard_time": 1729070839,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 231312,
@@ -5035,6 +5131,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 216841,
+      "num": 216841,
+      "word": "开发商称拆迁补贴1个人20万元内",
+      "onboard_time": 1729072399,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 216578,
       "num": 496210,
       "word": "徐明浩镜头",
@@ -5371,6 +5475,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 205863,
+      "num": 205863,
+      "word": "郭艾伦体测",
+      "onboard_time": 1729071920,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 205790,
       "num": 335526,
       "word": "杨紫李现国色芳华开始招商",
@@ -5385,14 +5497,6 @@
       "onboard_time": 1729051702,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 204795,
-      "num": 204795,
-      "word": "尚雯婕到底有什么把柄在芒果",
-      "onboard_time": 1729070839,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 204592,
@@ -5875,6 +5979,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 195279,
+      "num": 195279,
+      "word": "90后宝妈生完双胞胎又怀三胞胎",
+      "onboard_time": 1729073120,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 195211,
       "num": 195211,
       "word": "2024射击世界杯总决赛",
@@ -6089,6 +6201,14 @@
       "onboard_time": 1728915622,
       "rank": 46,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 190292,
+      "num": 190292,
+      "word": "开发商回应成都拆迁",
+      "onboard_time": 1729071860,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 189776,
@@ -6547,6 +6667,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 179913,
+      "num": 179913,
+      "word": "伍佰的歌",
+      "onboard_time": 1729073780,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 179433,
       "num": 155844,
       "word": "教委回应班主任在班级群发飙",
@@ -6649,14 +6777,6 @@
       "onboard_time": 1728998419,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 175103,
-      "num": 175103,
-      "word": "张雪峰",
-      "onboard_time": 1729070899,
-      "rank": 37,
-      "category": "教育"
     },
     {
       "raw_hot": 175022,
@@ -6819,14 +6939,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 169805,
-      "num": 169805,
-      "word": "赵一博空降",
-      "onboard_time": 1729071320,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 169795,
       "num": 169795,
       "word": "王者草木风华全员初亮相",
@@ -6881,6 +6993,14 @@
       "onboard_time": 1728809839,
       "rank": 38,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 168459,
+      "num": 168459,
+      "word": "郑钦文 猜我最喜欢哪张",
+      "onboard_time": 1729074020,
+      "rank": 46,
+      "category": "体育,网红"
     },
     {
       "raw_hot": 168456,
@@ -7089,6 +7209,14 @@
       "onboard_time": 1728956718,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 162857,
+      "num": 349502,
+      "word": "SM官宣与文泰一解约",
+      "onboard_time": 1729069878,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 162837,
@@ -7681,6 +7809,14 @@
       "onboard_time": 1728916942,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 147569,
+      "num": 147569,
+      "word": "3人捕食癞蛤蟆1人中毒身亡",
+      "onboard_time": 1729074020,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 146686,
@@ -8683,14 +8819,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 109148,
-      "num": 306413,
-      "word": "周震南 我六天涨六斤",
-      "onboard_time": 1729071260,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 108926,
       "num": 108926,
       "word": "李沁好细腻的一段感情戏",
@@ -9443,14 +9571,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 76581,
-      "num": 349502,
-      "word": "SM官宣与文泰一解约",
-      "onboard_time": 1729069878,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 76414,
       "num": 477840,
       "word": "华为平板重绘千里江山图",
@@ -9691,11 +9811,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 63388,
+      "num": 330780,
+      "word": "13年前借给朋友30万如今难要回",
+      "onboard_time": 1729073540,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 63106,
       "num": 273903,
       "word": "奶奶照顾孙女6年起诉儿子儿媳还钱",
       "onboard_time": 1728989299,
       "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 62576,
+      "num": 331513,
+      "word": "12岁女孩离家出走社交账号仍在更新",
+      "onboard_time": 1729072580,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -11233,6 +11369,14 @@
       "onboard_time": 1728848171,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 22812,
+      "num": 330958,
+      "word": "群演很重要但不被看见",
+      "onboard_time": 1729074080,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 22805,

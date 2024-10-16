@@ -1,0 +1,410 @@
+{
+  "runTime": 1729074216993,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1733500,
+        "num": 1733500,
+        "word": "UNIQ 解散",
+        "onboard_time": 1729063759,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1433872,
+        "num": 1433872,
+        "word": "成都拆迁",
+        "onboard_time": 1729064359,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22182,
+        "num": 676480,
+        "word": "洋记者看新疆棉田里的科技范",
+        "onboard_time": 1729066579,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 634729,
+        "num": 634729,
+        "word": "女网红在日本鸟居做引体向上惹众怒",
+        "onboard_time": 1729054942,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 471417,
+        "num": 471417,
+        "word": "教材中每隔几段就出现付费二维码",
+        "onboard_time": 1729062620,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 415879,
+        "num": 415879,
+        "word": "成都官方辟谣天价拆迁款",
+        "onboard_time": 1729067480,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 397183,
+        "num": 397183,
+        "word": "金鹰奖提名名单",
+        "onboard_time": 1729064179,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 332465,
+        "num": 332465,
+        "word": "卫龙回应亲嘴烧在日被召回",
+        "onboard_time": 1729072940,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 365308,
+        "num": 332389,
+        "word": "刘琳提名视后",
+        "onboard_time": 1729069159,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 254061,
+        "num": 332199,
+        "word": "官方回应拆迁不可能一户赔几千万",
+        "onboard_time": 1729073780,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1482380,
+        "num": 332071,
+        "word": "张雪峰",
+        "onboard_time": 1729070899,
+        "rank": 10,
+        "category": "教育,网红"
+      },
+      {
+        "raw_hot": 1284261,
+        "num": 332005,
+        "word": "小学生将药磨成粉骗同学服用后续",
+        "onboard_time": 1729067060,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1175792,
+        "num": 331774,
+        "word": "怀疑妻子出轨丈夫自杀遗言公开",
+        "onboard_time": 1729072821,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 932894,
+        "num": 331695,
+        "word": "班主任群内发飙学校称正安抚当事老师",
+        "onboard_time": 1729069220,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 62576,
+        "num": 331513,
+        "word": "12岁女孩离家出走社交账号仍在更新",
+        "onboard_time": 1729072580,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 584650,
+        "num": 331332,
+        "word": "UNIQ 王一博",
+        "onboard_time": 1729067839,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 396926,
+        "num": 331212,
+        "word": "八角笼中小演员片酬",
+        "onboard_time": 1729061299,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 309205,
+        "num": 331117,
+        "word": "尼日利亚一油罐车爆炸至少94人死亡",
+        "onboard_time": 1729072159,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22812,
+        "num": 330958,
+        "word": "群演很重要但不被看见",
+        "onboard_time": 1729074080,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 63388,
+        "num": 330780,
+        "word": "13年前借给朋友30万如今难要回",
+        "onboard_time": 1729073540,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 384781,
+        "num": 330645,
+        "word": "赵一博空降",
+        "onboard_time": 1729071320,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 344131,
+        "num": 330593,
+        "word": "牛 我同意了吗你就拍",
+        "onboard_time": 1729064301,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 333114,
+        "num": 330395,
+        "word": "教师情绪失控不是小问题",
+        "onboard_time": 1729052601,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 330314,
+        "num": 330314,
+        "word": "何炅金鹰奖提名",
+        "onboard_time": 1729073599,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 318571,
+        "num": 318571,
+        "word": "蕾哈娜 张元英转圈鼻祖",
+        "onboard_time": 1729072580,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 300543,
+        "num": 300543,
+        "word": "程序员炒股亏48万后宣布停更",
+        "onboard_time": 1729067420,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 299758,
+        "num": 299758,
+        "word": "种地吧",
+        "onboard_time": 1729071980,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 285983,
+        "num": 285983,
+        "word": "刘亦菲 金鹰",
+        "onboard_time": 1729067960,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 282414,
+        "num": 282414,
+        "word": "周震南 我六天涨六斤",
+        "onboard_time": 1729071260,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 267916,
+        "num": 267916,
+        "word": "肖战宝诗龙",
+        "onboard_time": 1729068080,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 245588,
+        "num": 245588,
+        "word": "预测金鹰奖视帝视后",
+        "onboard_time": 1729072580,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 231401,
+        "num": 231401,
+        "word": "尚雯婕到底有什么把柄在芒果",
+        "onboard_time": 1729070839,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 230848,
+        "num": 230848,
+        "word": "王宝强借钱后第一件事是去缴税",
+        "onboard_time": 1729068381,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 216841,
+        "num": 216841,
+        "word": "开发商称拆迁补贴1个人20万元内",
+        "onboard_time": 1729072399,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215953,
+        "num": 215953,
+        "word": "网红小虎行机场强迫志愿者摘口罩",
+        "onboard_time": 1729059320,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205863,
+        "num": 205863,
+        "word": "郭艾伦体测",
+        "onboard_time": 1729071920,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 202821,
+        "num": 202821,
+        "word": "欧阳娜娜知道欧阳妮妮怀孕的反应",
+        "onboard_time": 1729063338,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195279,
+        "num": 195279,
+        "word": "90后宝妈生完双胞胎又怀三胞胎",
+        "onboard_time": 1729073120,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194681,
+        "num": 194681,
+        "word": "不建议女生买的20类护肤品",
+        "onboard_time": 1729066398,
+        "rank": 38,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 190292,
+        "num": 190292,
+        "word": "开发商回应成都拆迁",
+        "onboard_time": 1729071860,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185190,
+        "num": 185190,
+        "word": "女童被打满嘴是血父亲称不追究责任",
+        "onboard_time": 1729056561,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184675,
+        "num": 184675,
+        "word": "UNIQ与乐华签约已满十年",
+        "onboard_time": 1729070420,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181227,
+        "num": 181227,
+        "word": "李沁提名视后",
+        "onboard_time": 1729068919,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179913,
+        "num": 179913,
+        "word": "伍佰的歌",
+        "onboard_time": 1729073780,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 178127,
+        "num": 178127,
+        "word": "谢谢你们让14亿人吃好",
+        "onboard_time": 1729059498,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168952,
+        "num": 168952,
+        "word": "金正恩指明朝鲜军事活动方向",
+        "onboard_time": 1728964940,
+        "rank": 45,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 168459,
+        "num": 168459,
+        "word": "郑钦文 猜我最喜欢哪张",
+        "onboard_time": 1729074020,
+        "rank": 46,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 162857,
+        "num": 162857,
+        "word": "SM官宣与文泰一解约",
+        "onboard_time": 1729069878,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147569,
+        "num": 147569,
+        "word": "3人捕食癞蛤蟆1人中毒身亡",
+        "onboard_time": 1729074020,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144637,
+        "num": 144637,
+        "word": "奔跑吧全员行李箱封面是范丞丞",
+        "onboard_time": 1729061839,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在福建漳州市考察调研#"
+    }
+  }
+}
