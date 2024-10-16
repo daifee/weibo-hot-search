@@ -1,6 +1,6 @@
 {
   "startTime": 1729009695696,
-  "endTime": 1729092272107,
+  "endTime": 1729093148895,
   "band_list": [
     {
       "raw_hot": 3249713,
@@ -43,6 +43,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2507115,
+      "num": 564371,
+      "word": "陈好太惨了",
+      "onboard_time": 1729088963,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2435145,
       "num": 2435145,
       "word": "女网红在日本鸟居做引体向上惹众怒",
@@ -57,14 +65,6 @@
       "onboard_time": 1729064359,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2332956,
-      "num": 564371,
-      "word": "陈好太惨了",
-      "onboard_time": 1729088963,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 2206509,
@@ -124,7 +124,7 @@
     },
     {
       "raw_hot": 1614591,
-      "num": 433501,
+      "num": 458307,
       "word": "女子卸甲后发现十指空甲发霉",
       "onboard_time": 1729086861,
       "rank": 21,
@@ -171,6 +171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1396465,
+      "num": 494798,
+      "word": "花学 周雨彤",
+      "onboard_time": 1729091841,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1352455,
       "num": 1352455,
       "word": "奔跑吧新一季原班人马",
@@ -195,6 +203,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1300041,
+      "num": 490106,
+      "word": "花少6 小团体",
+      "onboard_time": 1729090102,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1299305,
       "num": 895074,
       "word": "女童被打满嘴是血父亲称不追究责任",
@@ -209,14 +225,6 @@
       "onboard_time": 1729048340,
       "rank": 12,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 1246695,
-      "num": 438273,
-      "word": "花少6 小团体",
-      "onboard_time": 1729090102,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 1207859,
@@ -347,6 +355,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 925626,
+      "num": 442499,
+      "word": "刘冲直播间 杨幂",
+      "onboard_time": 1729091300,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 868089,
       "num": 443614,
       "word": "国台办回应网民质疑台湾艺人吴慷仁",
@@ -369,6 +385,14 @@
       "onboard_time": 1729067839,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 845221,
+      "num": 430457,
+      "word": "河南一地发生刑事案件",
+      "onboard_time": 1729088783,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 844612,
@@ -481,14 +505,6 @@
       "onboard_time": 1729063338,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 702433,
-      "num": 430457,
-      "word": "河南一地发生刑事案件",
-      "onboard_time": 1729088783,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 694248,
@@ -691,8 +707,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 513319,
-      "num": 513319,
+      "raw_hot": 514313,
+      "num": 514313,
       "word": "进上海迪士尼乐园不能带扑克牌",
       "onboard_time": 1729086921,
       "rank": 45,
@@ -713,14 +729,6 @@
       "onboard_time": 1729077800,
       "rank": 5,
       "category": "体育"
-    },
-    {
-      "raw_hot": 495126,
-      "num": 425602,
-      "word": "刘冲直播间 杨幂",
-      "onboard_time": 1729091300,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 487658,
@@ -899,6 +907,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 397013,
+      "num": 436848,
+      "word": "TXT回归",
+      "onboard_time": 1729091841,
+      "rank": 7,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 387445,
       "num": 387445,
       "word": "李现提名金鹰奖最佳男主角",
@@ -993,14 +1009,6 @@
       "onboard_time": 1729051460,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 340594,
-      "num": 436848,
-      "word": "TXT回归",
-      "onboard_time": 1729091841,
-      "rank": 7,
-      "category": "音乐"
     },
     {
       "raw_hot": 336906,
@@ -1115,14 +1123,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 284491,
-      "num": 284491,
-      "word": "花学 周雨彤",
-      "onboard_time": 1729091841,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 283545,
       "num": 255809,
       "word": "赵丽颖提名金鹰视后",
@@ -1163,6 +1163,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 273716,
+      "num": 273716,
+      "word": "这几天睡不好可能是月亮的错",
+      "onboard_time": 1729089861,
+      "rank": 25,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 272482,
       "num": 272482,
       "word": "成年男性把钱花给了童年的自己",
@@ -1193,14 +1201,6 @@
       "onboard_time": 1729052061,
       "rank": 38,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 264517,
-      "num": 264517,
-      "word": "这几天睡不好可能是月亮的错",
-      "onboard_time": 1729089861,
-      "rank": 25,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 264246,
@@ -1297,6 +1297,14 @@
       "onboard_time": 1729068381,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 248569,
+      "num": 248569,
+      "word": "班级群情绪失控老师已请假休息",
+      "onboard_time": 1729092140,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 247892,
@@ -1659,6 +1667,14 @@
       "category": "艺人,游戏"
     },
     {
+      "raw_hot": 198782,
+      "num": 435505,
+      "word": "四川拆迁地图比股市还红",
+      "onboard_time": 1729089562,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 198182,
       "num": 198182,
       "word": "粉丝称听泉鉴宝自称北大是玩梗",
@@ -1681,6 +1697,14 @@
       "onboard_time": 1729079721,
       "rank": 34,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 195370,
+      "num": 195370,
+      "word": "春花焰尺度",
+      "onboard_time": 1729091723,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 195279,
@@ -2035,14 +2059,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 167563,
-      "num": 435505,
-      "word": "四川拆迁地图比股市还红",
-      "onboard_time": 1729089562,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 166690,
       "num": 302225,
       "word": "收到1分钱找回了丢失1个月行李箱",
@@ -2299,6 +2315,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 147232,
+      "num": 147232,
+      "word": "花少夜聊",
+      "onboard_time": 1729091961,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 145730,
       "num": 145730,
       "word": "天津取消住房限售",
@@ -2371,14 +2395,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 137305,
-      "num": 137305,
-      "word": "班级群情绪失控老师已请假休息",
-      "onboard_time": 1729092140,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 137136,
       "num": 166110,
       "word": "王星越沈月梁永棋和650团建",
@@ -2417,14 +2433,6 @@
       "onboard_time": 1729032433,
       "rank": 28,
       "category": "网红"
-    },
-    {
-      "raw_hot": 133296,
-      "num": 133296,
-      "word": "春花焰尺度",
-      "onboard_time": 1729091723,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 133173,
@@ -2484,7 +2492,7 @@
     },
     {
       "raw_hot": 125993,
-      "num": 125993,
+      "num": 470822,
       "word": "藏在梯田里的丰收色",
       "onboard_time": 1729091901,
       "rank": 41,
@@ -2553,14 +2561,6 @@
       "onboard_time": 1729014432,
       "rank": 23,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 118537,
-      "num": 118537,
-      "word": "花少夜聊",
-      "onboard_time": 1729091961,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 116901,
@@ -2736,6 +2736,14 @@
       "word": "男亲子卫生间是否多余",
       "onboard_time": 1729007359,
       "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 87610,
+      "num": 87610,
+      "word": "教育局回应女童被打满嘴是血",
+      "onboard_time": 1729090282,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
