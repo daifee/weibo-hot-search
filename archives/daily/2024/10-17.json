@@ -1,6 +1,6 @@
 {
   "startTime": 1729096028716,
-  "endTime": 1729110246839,
+  "endTime": 1729111075706,
   "band_list": [
     {
       "raw_hot": 1528782,
@@ -435,6 +435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 68016,
+      "num": 68016,
+      "word": "100岁姐姐与94岁妹妹的极限拉扯",
+      "onboard_time": 1729107131,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 65973,
       "num": 184503,
       "word": "成都拆迁地图里的项目并非近期集中产生",
@@ -443,8 +451,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 65275,
-      "num": 65275,
+      "raw_hot": 65506,
+      "num": 65506,
       "word": "韩美日今日就半岛局势举行会晤",
       "onboard_time": 1729106232,
       "rank": 46,
@@ -472,14 +480,6 @@
       "word": "房小团回应成都拆迁地图",
       "onboard_time": 1729101193,
       "rank": 25,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 46099,
-      "num": 46099,
-      "word": "100岁姐姐与94岁妹妹的极限拉扯",
-      "onboard_time": 1729107131,
-      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -611,12 +611,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 13471,
+      "raw_hot": 13617,
       "num": 18812,
       "word": "春花焰",
       "onboard_time": 1729079601,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 11081,
+      "num": 18726,
+      "word": "金秋硕果壁纸",
+      "onboard_time": 1729110912,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 10971,
@@ -625,6 +633,14 @@
       "onboard_time": 1729084701,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 10376,
+      "num": 37823,
+      "word": "60年前罗布泊与北京之间的密语",
+      "onboard_time": 1729110371,
+      "rank": 9,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 4886,
