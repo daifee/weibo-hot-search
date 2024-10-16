@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/10/01 00:28:17 ~ 2024/10/16 14:31:15
+本榜单时间：2024/10/01 00:28:17 ~ 2024/10/16 14:44:51
 </p>
 </blockquote>
 <p>
@@ -1521,6 +1521,12 @@ T1战胜BLG（热度：1444060）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%AB%A5%E8%A2%AB%E6%89%93%E6%BB%A1%E5%98%B4%E6%98%AF%E8%A1%80%E7%88%B6%E4%BA%B2%E7%A7%B0%E4%B8%8D%E8%BF%BD%E7%A9%B6%E8%B4%A3%E4%BB%BB%23" target="weibo">
+女童被打满嘴是血父亲称不追究责任（热度：1299305）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AF%BA%E8%B4%9D%E5%B0%94%E6%96%87%E5%AD%A6%E5%A5%96%23" target="weibo">
 诺贝尔文学奖（热度：1294678）
 </a>
@@ -3017,12 +3023,6 @@ LNG战胜BLG（热度：897693）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8C%89%E4%B8%80%E4%B8%AA%E4%B8%AD%E5%9B%BD%E5%8E%9F%E5%88%99%E4%BE%9D%E6%B3%95%E7%AE%A1%E6%8E%A7%E5%8F%B0%E5%B2%9B%23" target="weibo">
 按一个中国原则依法管控台岛（热度：895590）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%AB%A5%E8%A2%AB%E6%89%93%E6%BB%A1%E5%98%B4%E6%98%AF%E8%A1%80%E7%88%B6%E4%BA%B2%E7%A7%B0%E4%B8%8D%E8%BF%BD%E7%A9%B6%E8%B4%A3%E4%BB%BB%23" target="weibo">
-女童被打满嘴是血父亲称不追究责任（热度：895074）
 </a>
 </li>
 

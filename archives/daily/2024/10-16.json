@@ -1,6 +1,6 @@
 {
   "startTime": 1729009695696,
-  "endTime": 1729060275481,
+  "endTime": 1729061091811,
   "band_list": [
     {
       "raw_hot": 2840046,
@@ -75,6 +75,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1299305,
+      "num": 895074,
+      "word": "女童被打满嘴是血父亲称不追究责任",
+      "onboard_time": 1729056561,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1278752,
       "num": 617245,
       "word": "维密 大码模特",
@@ -137,14 +145,6 @@
       "onboard_time": 1729003701,
       "rank": 0,
       "category": "网红"
-    },
-    {
-      "raw_hot": 895074,
-      "num": 895074,
-      "word": "女童被打满嘴是血父亲称不追究责任",
-      "onboard_time": 1729056561,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 866186,
@@ -435,6 +435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 422688,
+      "num": 370408,
+      "word": "辛芷蕾因赵丽颖接乔妍的心事",
+      "onboard_time": 1729061058,
+      "rank": 13,
+      "category": "电影"
+    },
+    {
       "raw_hot": 416192,
       "num": 493915,
       "word": "奔跑吧官微漏勺行为",
@@ -451,12 +459,28 @@
       "category": "网红"
     },
     {
+      "raw_hot": 397272,
+      "num": 397272,
+      "word": "小米15",
+      "onboard_time": 1729056681,
+      "rank": 41,
+      "category": "数码"
+    },
+    {
       "raw_hot": 365277,
       "num": 271442,
       "word": "阿Sa回应关智斌求婚",
       "onboard_time": 1728990859,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 353327,
+      "num": 353327,
+      "word": "媒体评班主任班级群发飙后被停职",
+      "onboard_time": 1729056500,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 353305,
@@ -499,20 +523,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 318066,
-      "num": 318066,
-      "word": "小米15",
-      "onboard_time": 1729056681,
-      "rank": 41,
-      "category": "数码"
-    },
-    {
       "raw_hot": 313002,
       "num": 313002,
       "word": "国足印尼冲突",
       "onboard_time": 1729001362,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 308521,
+      "num": 308521,
+      "word": "网红小虎行机场强迫志愿者摘口罩",
+      "onboard_time": 1729059320,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 304657,
@@ -587,6 +611,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 263425,
+      "num": 357990,
+      "word": "Jennie吉米秀Mantra舞台",
+      "onboard_time": 1729059679,
+      "rank": 18,
+      "category": "演出"
+    },
+    {
       "raw_hot": 263250,
       "num": 263250,
       "word": "Hanni国会合影自拍",
@@ -659,6 +691,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 243120,
+      "num": 243120,
+      "word": "谢谢你们让14亿人吃好",
+      "onboard_time": 1729059498,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 241443,
       "num": 163381,
       "word": "比亚迪抽奖",
@@ -691,28 +731,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 238552,
-      "num": 238552,
-      "word": "媒体评班主任班级群发飙后被停职",
-      "onboard_time": 1729056500,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 236788,
       "num": 236788,
       "word": "郝劭文老婆二胎",
       "onboard_time": 1729056681,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 235810,
-      "num": 315813,
-      "word": "Jennie吉米秀Mantra舞台",
-      "onboard_time": 1729059679,
-      "rank": 18,
-      "category": "演出"
     },
     {
       "raw_hot": 231693,
@@ -755,6 +779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 222580,
+      "num": 222580,
+      "word": "加沙人说8个月没吃过西红柿了",
+      "onboard_time": 1729058240,
+      "rank": 33,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 219200,
       "num": 219200,
       "word": "张子枫ELLE首封",
@@ -769,14 +801,6 @@
       "onboard_time": 1728998241,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 215637,
-      "num": 215637,
-      "word": "谢谢你们让14亿人吃好",
-      "onboard_time": 1729059498,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 214609,
@@ -843,14 +867,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 203532,
-      "num": 203532,
-      "word": "加沙人说8个月没吃过西红柿了",
-      "onboard_time": 1729058240,
-      "rank": 33,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 202994,
       "num": 202994,
       "word": "女儿的安全感是爸爸给的",
@@ -873,14 +889,6 @@
       "onboard_time": 1729054881,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 200944,
-      "num": 200944,
-      "word": "网红小虎行机场强迫志愿者摘口罩",
-      "onboard_time": 1729059320,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 200626,
@@ -1115,6 +1123,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 154735,
+      "num": 154735,
+      "word": "新华社对话易烊千玺",
+      "onboard_time": 1729060999,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 154021,
       "num": 154021,
       "word": "谢娜还是那个谢娜",
@@ -1163,6 +1179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 140583,
+      "num": 140583,
+      "word": "沈星回 穿过旷野的风",
+      "onboard_time": 1729060519,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 139663,
       "num": 139663,
       "word": "工作室发长文祝福赵丽颖",
@@ -1209,6 +1233,14 @@
       "onboard_time": 1729032433,
       "rank": 28,
       "category": "网红"
+    },
+    {
+      "raw_hot": 133173,
+      "num": 133173,
+      "word": "伊能静 我做过的每件事都很有种",
+      "onboard_time": 1729060519,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 133084,
@@ -1371,6 +1403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 94467,
+      "num": 369652,
+      "word": "易烊千玺说我们这代人敢想敢做",
+      "onboard_time": 1729060699,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 91929,
       "num": 91929,
       "word": "黄雨婷的发卡又升级了",
@@ -1507,6 +1547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 70047,
+      "num": 439269,
+      "word": "出版社回应教材设46个收费点",
+      "onboard_time": 1729059920,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 67566,
       "num": 333278,
       "word": "网友爆月嫂粗暴拉扯拍打两月大婴儿",
@@ -1521,6 +1569,14 @@
       "onboard_time": 1729054701,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 57224,
+      "num": 210947,
+      "word": "鹅绒羽绒服比鸭绒羽绒服好在哪",
+      "onboard_time": 1729056801,
+      "rank": 36,
+      "category": "时尚"
     },
     {
       "raw_hot": 51323,
@@ -1539,12 +1595,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 50601,
-      "num": 210947,
-      "word": "鹅绒羽绒服比鸭绒羽绒服好在哪",
-      "onboard_time": 1729056801,
-      "rank": 36,
-      "category": "时尚"
+      "raw_hot": 50050,
+      "num": 177938,
+      "word": "iPhone历年降价规律总结",
+      "onboard_time": 1729057940,
+      "rank": 43,
+      "category": "数码"
     },
     {
       "raw_hot": 50006,
@@ -1579,6 +1635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 47214,
+      "num": 357400,
+      "word": "女子分手一波三折先被威胁再被卖车",
+      "onboard_time": 1729060101,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 44562,
       "num": 444555,
       "word": "我是子涵大军中的一员",
@@ -1593,22 +1657,6 @@
       "onboard_time": 1729013353,
       "rank": 34,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 40589,
-      "num": 177938,
-      "word": "iPhone历年降价规律总结",
-      "onboard_time": 1729057940,
-      "rank": 43,
-      "category": "数码"
-    },
-    {
-      "raw_hot": 38242,
-      "num": 313199,
-      "word": "女子分手一波三折先被威胁再被卖车",
-      "onboard_time": 1729060101,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 37724,
@@ -1643,6 +1691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 33814,
+      "num": 369446,
+      "word": "上一秒打戏下一秒挨打",
+      "onboard_time": 1729056561,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 33271,
       "num": 235076,
       "word": "谢娜脱口秀rap",
@@ -1675,14 +1731,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 31044,
-      "num": 439269,
-      "word": "出版社回应教材设46个收费点",
-      "onboard_time": 1729059920,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 27955,
       "num": 33688,
       "word": "国足2比1印尼",
@@ -1691,20 +1739,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 27010,
+      "num": 409904,
+      "word": "檀健次冬日保暖秘籍",
+      "onboard_time": 1729056801,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 25785,
       "num": 26337,
       "word": "古代的勺子上也有满满匠心",
       "onboard_time": 1729014014,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 25691,
-      "num": 409904,
-      "word": "檀健次冬日保暖秘籍",
-      "onboard_time": 1729056801,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 24673,
@@ -1745,14 +1793,6 @@
       "onboard_time": 1729018031,
       "rank": 21,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 21644,
-      "num": 217057,
-      "word": "上一秒打戏下一秒挨打",
-      "onboard_time": 1729056561,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 21594,
