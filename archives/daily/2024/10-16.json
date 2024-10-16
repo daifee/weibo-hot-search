@@ -1,6 +1,6 @@
 {
   "startTime": 1729009695696,
-  "endTime": 1729061091811,
+  "endTime": 1729063298311,
   "band_list": [
     {
       "raw_hot": 2840046,
@@ -25,6 +25,14 @@
       "onboard_time": 1729054942,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1939138,
+      "num": 350043,
+      "word": "八角笼中小演员片酬",
+      "onboard_time": 1729061299,
+      "rank": 10,
+      "category": "电影"
     },
     {
       "raw_hot": 1788024,
@@ -147,6 +155,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 932383,
+      "num": 932383,
+      "word": "辛芷蕾因赵丽颖接乔妍的心事",
+      "onboard_time": 1729061058,
+      "rank": 13,
+      "category": "电影"
+    },
+    {
       "raw_hot": 866186,
       "num": 866186,
       "word": "国足赢了",
@@ -211,12 +227,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 750303,
+      "num": 750303,
+      "word": "网红小虎行机场强迫志愿者摘口罩",
+      "onboard_time": 1729059320,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 694248,
       "num": 449447,
       "word": "韩国总统尹锡悦不支持率超过70%",
       "onboard_time": 1729017614,
       "rank": 42,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 683532,
+      "num": 345454,
+      "word": "奔跑吧全员行李箱封面是范丞丞",
+      "onboard_time": 1729061839,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 664397,
@@ -379,6 +411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 487658,
+      "num": 487658,
+      "word": "媒体评班主任班级群发飙后被停职",
+      "onboard_time": 1729056500,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 483631,
       "num": 483631,
       "word": "百亿票房男演员名单",
@@ -435,14 +475,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 422688,
-      "num": 370408,
-      "word": "辛芷蕾因赵丽颖接乔妍的心事",
-      "onboard_time": 1729061058,
-      "rank": 13,
-      "category": "电影"
-    },
-    {
       "raw_hot": 416192,
       "num": 493915,
       "word": "奔跑吧官微漏勺行为",
@@ -459,6 +491,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 407183,
+      "num": 452072,
+      "word": "SM台历",
+      "onboard_time": 1729061839,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 397272,
       "num": 397272,
       "word": "小米15",
@@ -467,20 +507,20 @@
       "category": "数码"
     },
     {
+      "raw_hot": 368410,
+      "num": 368410,
+      "word": "谢谢你们让14亿人吃好",
+      "onboard_time": 1729059498,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 365277,
       "num": 271442,
       "word": "阿Sa回应关智斌求婚",
       "onboard_time": 1728990859,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 353327,
-      "num": 353327,
-      "word": "媒体评班主任班级群发飙后被停职",
-      "onboard_time": 1729056500,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 353305,
@@ -529,14 +569,6 @@
       "onboard_time": 1729001362,
       "rank": 7,
       "category": "体育"
-    },
-    {
-      "raw_hot": 308521,
-      "num": 308521,
-      "word": "网红小虎行机场强迫志愿者摘口罩",
-      "onboard_time": 1729059320,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 304657,
@@ -675,6 +707,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 246210,
+      "num": 246210,
+      "word": "加沙人说8个月没吃过西红柿了",
+      "onboard_time": 1729058240,
+      "rank": 33,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 245326,
       "num": 245326,
       "word": "南宁2名11岁女孩失联",
@@ -689,14 +729,6 @@
       "onboard_time": 1729044079,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 243120,
-      "num": 243120,
-      "word": "谢谢你们让14亿人吃好",
-      "onboard_time": 1729059498,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 241443,
@@ -779,14 +811,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 222580,
-      "num": 222580,
-      "word": "加沙人说8个月没吃过西红柿了",
-      "onboard_time": 1729058240,
-      "rank": 33,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 219200,
       "num": 219200,
       "word": "张子枫ELLE首封",
@@ -809,6 +833,14 @@
       "onboard_time": 1729047858,
       "rank": 49,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 213351,
+      "num": 213351,
+      "word": "COSMO赵露思星河交辉封面",
+      "onboard_time": 1729061839,
+      "rank": 23,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 210994,
@@ -841,6 +873,14 @@
       "onboard_time": 1729051702,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 204770,
+      "num": 204770,
+      "word": "教材中每隔几段就出现付费二维码",
+      "onboard_time": 1729062620,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 204270,
@@ -987,6 +1027,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 182579,
+      "num": 182579,
+      "word": "女网红就在日本鸟居做引体向上道歉",
+      "onboard_time": 1729061839,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 181890,
       "num": 181890,
       "word": "男子自称盗墓不为钱只因为好奇",
@@ -1059,6 +1107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 167621,
+      "num": 167621,
+      "word": "拳头游戏裁员",
+      "onboard_time": 1729061839,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 166690,
       "num": 302225,
       "word": "收到1分钱找回了丢失1个月行李箱",
@@ -1107,6 +1163,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 160060,
+      "num": 333278,
+      "word": "网友爆月嫂粗暴拉扯拍打两月大婴儿",
+      "onboard_time": 1729058540,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 157669,
       "num": 152000,
       "word": "赵丽颖后援会直播",
@@ -1147,6 +1211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 149766,
+      "num": 149766,
+      "word": "EXO台历还没发",
+      "onboard_time": 1729063100,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 149265,
       "num": 149265,
       "word": "易烊千玺大一时每天写2000字散文",
@@ -1171,6 +1243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 147734,
+      "num": 147734,
+      "word": "如鸢",
+      "onboard_time": 1729061659,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 145730,
       "num": 145730,
       "word": "天津取消住房限售",
@@ -1193,6 +1273,22 @@
       "onboard_time": 1729043479,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 139522,
+      "num": 176347,
+      "word": "aespa台历",
+      "onboard_time": 1729061900,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 138377,
+      "num": 439269,
+      "word": "出版社回应教材设46个收费点",
+      "onboard_time": 1729059920,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 137916,
@@ -1313,6 +1409,14 @@
       "onboard_time": 1729014432,
       "rank": 23,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 116901,
+      "num": 132763,
+      "word": "NCTWISH亚巡",
+      "onboard_time": 1729062800,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 116766,
@@ -1547,22 +1651,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 70047,
-      "num": 439269,
-      "word": "出版社回应教材设46个收费点",
-      "onboard_time": 1729059920,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 67566,
-      "num": 333278,
-      "word": "网友爆月嫂粗暴拉扯拍打两月大婴儿",
-      "onboard_time": 1729058540,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 60992,
       "num": 559591,
       "word": "抢到定金红包居然购物更贵了",
@@ -1643,6 +1731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 45723,
+      "num": 208745,
+      "word": "俞更寅手写道歉信",
+      "onboard_time": 1729062318,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 44562,
       "num": 444555,
       "word": "我是子涵大军中的一员",
@@ -1697,6 +1793,14 @@
       "onboard_time": 1729056561,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 33406,
+      "num": 364380,
+      "word": "多家中小银行跟进存款利率下调",
+      "onboard_time": 1729062620,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 33271,
@@ -1889,6 +1993,14 @@
       "onboard_time": 1729031114,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 14529,
+      "num": 137734,
+      "word": "双十一的我belike",
+      "onboard_time": 1729062080,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 13565,

@@ -1,6 +1,6 @@
 {
   "startTime": 1728750414717,
-  "endTime": 1729061091811,
+  "endTime": 1729063298311,
   "band_list": [
     {
       "raw_hot": 17915004,
@@ -329,6 +329,14 @@
       "onboard_time": 1728830004,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1939138,
+      "num": 350043,
+      "word": "八角笼中小演员片酬",
+      "onboard_time": 1729061299,
+      "rank": 10,
+      "category": "电影"
     },
     {
       "raw_hot": 1841975,
@@ -1091,6 +1099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 932383,
+      "num": 932383,
+      "word": "辛芷蕾因赵丽颖接乔妍的心事",
+      "onboard_time": 1729061058,
+      "rank": 13,
+      "category": "电影"
+    },
+    {
       "raw_hot": 932306,
       "num": 291394,
       "word": "难听",
@@ -1531,6 +1547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 750303,
+      "num": 750303,
+      "word": "网红小虎行机场强迫志愿者摘口罩",
+      "onboard_time": 1729059320,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 745347,
       "num": 427274,
       "word": "韩国京畿道禁止市民在边界放飞气球",
@@ -1681,6 +1705,14 @@
       "onboard_time": 1728805460,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 683532,
+      "num": 345454,
+      "word": "奔跑吧全员行李箱封面是范丞丞",
+      "onboard_time": 1729061839,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 677034,
@@ -2371,6 +2403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 487658,
+      "num": 487658,
+      "word": "媒体评班主任班级群发飙后被停职",
+      "onboard_time": 1729056500,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 483631,
       "num": 483631,
       "word": "百亿票房男演员名单",
@@ -2691,14 +2731,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 422688,
-      "num": 370408,
-      "word": "辛芷蕾因赵丽颖接乔妍的心事",
-      "onboard_time": 1729061058,
-      "rank": 13,
-      "category": "电影"
-    },
-    {
       "raw_hot": 422650,
       "num": 746327,
       "word": "毒液3一刀未剪",
@@ -2769,6 +2801,14 @@
       "onboard_time": 1728839474,
       "rank": 8,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 407183,
+      "num": 452072,
+      "word": "SM台历",
+      "onboard_time": 1729061839,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 407097,
@@ -2963,6 +3003,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 368410,
+      "num": 368410,
+      "word": "谢谢你们让14亿人吃好",
+      "onboard_time": 1729059498,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 365482,
       "num": 365482,
       "word": "早睡能解决身体80%以上的问题",
@@ -3041,14 +3089,6 @@
       "onboard_time": 1728790279,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 353327,
-      "num": 353327,
-      "word": "媒体评班主任班级群发飙后被停职",
-      "onboard_time": 1729056500,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 353305,
@@ -3385,14 +3425,6 @@
       "onboard_time": 1728996679,
       "rank": 13,
       "category": "体育"
-    },
-    {
-      "raw_hot": 308521,
-      "num": 308521,
-      "word": "网红小虎行机场强迫志愿者摘口罩",
-      "onboard_time": 1729059320,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 305623,
@@ -4219,6 +4251,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 246210,
+      "num": 246210,
+      "word": "加沙人说8个月没吃过西红柿了",
+      "onboard_time": 1729058240,
+      "rank": 33,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 246158,
       "num": 246158,
       "word": "律师称听泉鉴宝不涉及学历造假",
@@ -4281,14 +4321,6 @@
       "onboard_time": 1728893718,
       "rank": 39,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 243120,
-      "num": 243120,
-      "word": "谢谢你们让14亿人吃好",
-      "onboard_time": 1729059498,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 242056,
@@ -4667,14 +4699,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 222580,
-      "num": 222580,
-      "word": "加沙人说8个月没吃过西红柿了",
-      "onboard_time": 1729058240,
-      "rank": 33,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 222249,
       "num": 222249,
       "word": "游客在浙江出海幸运拍下海豚群跃出海面",
@@ -4907,6 +4931,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 213351,
+      "num": 213351,
+      "word": "COSMO赵露思星河交辉封面",
+      "onboard_time": 1729061839,
+      "rank": 23,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 213075,
       "num": 213075,
       "word": "iPadmini7有望告别果冻屏",
@@ -5137,6 +5169,14 @@
       "onboard_time": 1729051702,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 204770,
+      "num": 204770,
+      "word": "教材中每隔几段就出现付费二维码",
+      "onboard_time": 1729062620,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 204592,
@@ -6139,6 +6179,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 182579,
+      "num": 182579,
+      "word": "女网红就在日本鸟居做引体向上道歉",
+      "onboard_time": 1729061839,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 182093,
       "num": 182093,
       "word": "HYBE称公司成员不包括艺人",
@@ -6571,6 +6619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 167621,
+      "num": 167621,
+      "word": "拳头游戏裁员",
+      "onboard_time": 1729061839,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 167578,
       "num": 167578,
       "word": "外交部回应联合利剑2024B演习",
@@ -6801,6 +6857,14 @@
       "onboard_time": 1728892339,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 160060,
+      "num": 333278,
+      "word": "网友爆月嫂粗暴拉扯拍打两月大婴儿",
+      "onboard_time": 1729058540,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 159887,
@@ -7163,6 +7227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 149766,
+      "num": 149766,
+      "word": "EXO台历还没发",
+      "onboard_time": 1729063100,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 149676,
       "num": 187483,
       "word": "林俊杰妈妈去看了周杰伦演唱会",
@@ -7233,6 +7305,14 @@
       "onboard_time": 1729045160,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 147734,
+      "num": 147734,
+      "word": "如鸢",
+      "onboard_time": 1729061659,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 147726,
@@ -7483,11 +7563,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 139522,
+      "num": 176347,
+      "word": "aespa台历",
+      "onboard_time": 1729061900,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 139092,
       "num": 464243,
       "word": "妇产科医院回应成网红打卡地",
       "onboard_time": 1728995780,
       "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 138377,
+      "num": 439269,
+      "word": "出版社回应教材设46个收费点",
+      "onboard_time": 1729059920,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -7993,6 +8089,14 @@
       "onboard_time": 1728815720,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 116901,
+      "num": 132763,
+      "word": "NCTWISH亚巡",
+      "onboard_time": 1729062800,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 116766,
@@ -9043,14 +9147,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 70047,
-      "num": 439269,
-      "word": "出版社回应教材设46个收费点",
-      "onboard_time": 1729059920,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 69808,
       "num": 762206,
       "word": "美国假旗行动污染全球网络空间",
@@ -9080,14 +9176,6 @@
       "word": "在职场该不该扮蠢",
       "onboard_time": 1728882560,
       "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 67566,
-      "num": 333278,
-      "word": "网友爆月嫂粗暴拉扯拍打两月大婴儿",
-      "onboard_time": 1729058540,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -9763,6 +9851,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 45723,
+      "num": 208745,
+      "word": "俞更寅手写道歉信",
+      "onboard_time": 1729062318,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 45682,
       "num": 389029,
       "word": "消费者如何辨别粉条是不是纯红薯粉",
@@ -10225,6 +10321,14 @@
       "onboard_time": 1728916581,
       "rank": 41,
       "category": "数码"
+    },
+    {
+      "raw_hot": 33406,
+      "num": 364380,
+      "word": "多家中小银行跟进存款利率下调",
+      "onboard_time": 1729062620,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 33338,
@@ -10969,6 +11073,14 @@
       "onboard_time": 1729031114,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 14529,
+      "num": 137734,
+      "word": "双十一的我belike",
+      "onboard_time": 1729062080,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 14165,
