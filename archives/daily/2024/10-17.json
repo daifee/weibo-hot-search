@@ -1,6 +1,6 @@
 {
   "startTime": 1729096028716,
-  "endTime": 1729104228557,
+  "endTime": 1729106309104,
   "band_list": [
     {
       "raw_hot": 1528782,
@@ -323,6 +323,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 103719,
+      "num": 40054,
+      "word": "王超生前录音曝光",
+      "onboard_time": 1729103415,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 99714,
       "num": 99714,
       "word": "商丘永城王庄遗址发现距今约5000年大墓",
@@ -459,14 +467,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 40054,
-      "num": 40054,
-      "word": "王超生前录音曝光",
-      "onboard_time": 1729103415,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 38475,
       "num": 106533,
       "word": "官方回应成都大规模拆迁全是谣言",
@@ -491,12 +491,92 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 30412,
+      "num": 30412,
+      "word": "女主播奔现榜一大哥同居被骗2万多",
+      "onboard_time": 1729104311,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 27844,
       "num": 27844,
       "word": "药水哥回应拿下健美比赛第三名",
       "onboard_time": 1729102572,
       "rank": 43,
       "category": "电竞,网红"
+    },
+    {
+      "raw_hot": 25389,
+      "num": 25389,
+      "word": "重庆姐弟坠楼案生母说要卸下枷锁",
+      "onboard_time": 1729105752,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 24087,
+      "num": 34527,
+      "word": "金与正表示挑衅者将付出代价",
+      "onboard_time": 1729105752,
+      "rank": 15,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 21759,
+      "num": 24748,
+      "word": "广州一商贩持铁棍殴打城管",
+      "onboard_time": 1729101733,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 20736,
+      "num": 24748,
+      "word": "女主播奔现榜一大哥实为离异待业男",
+      "onboard_time": 1729106112,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 20672,
+      "num": 24748,
+      "word": "超43公斤卫龙亲嘴烧在日本被召回",
+      "onboard_time": 1729075581,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 20510,
+      "num": 24748,
+      "word": "社恐白领被领导鸡娃后抑郁成木头人",
+      "onboard_time": 1729105811,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 20167,
+      "num": 24748,
+      "word": "教育局回应女童在幼儿园疑似被侵犯",
+      "onboard_time": 1729106232,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 19959,
+      "num": 24748,
+      "word": "韩美日今日就半岛局势举行会晤",
+      "onboard_time": 1729106232,
+      "rank": 46,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 19593,
+      "num": 24748,
+      "word": "扭住建设新福建目标不放松",
+      "onboard_time": 1729099933,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 14977,
