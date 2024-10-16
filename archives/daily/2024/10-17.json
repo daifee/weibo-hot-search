@@ -1,6 +1,6 @@
 {
   "startTime": 1729096028716,
-  "endTime": 1729106309104,
+  "endTime": 1729107363143,
   "band_list": [
     {
       "raw_hot": 1528782,
@@ -179,6 +179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 181601,
+      "num": 41047,
+      "word": "王超生前录音曝光",
+      "onboard_time": 1729103415,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 178817,
       "num": 224495,
       "word": "浙江仙居人用杨梅炒鸡肉",
@@ -323,14 +331,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 103719,
-      "num": 40054,
-      "word": "王超生前录音曝光",
-      "onboard_time": 1729103415,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 99714,
       "num": 99714,
       "word": "商丘永城王庄遗址发现距今约5000年大墓",
@@ -443,6 +443,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 54136,
+      "num": 39772,
+      "word": "女主播奔现榜一大哥同居被骗2万多",
+      "onboard_time": 1729104311,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 53259,
+      "num": 53259,
+      "word": "金与正表示挑衅者将付出代价",
+      "onboard_time": 1729105752,
+      "rank": 15,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 48363,
       "num": 48363,
       "word": "房小团回应成都拆迁地图",
@@ -465,6 +481,14 @@
       "onboard_time": 1729102393,
       "rank": 27,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 38639,
+      "num": 38639,
+      "word": "重庆姐弟坠楼案生母说要卸下枷锁",
+      "onboard_time": 1729105752,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 38475,
@@ -491,14 +515,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 30412,
-      "num": 30412,
-      "word": "女主播奔现榜一大哥同居被骗2万多",
-      "onboard_time": 1729104311,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 27844,
       "num": 27844,
       "word": "药水哥回应拿下健美比赛第三名",
@@ -507,20 +523,20 @@
       "category": "电竞,网红"
     },
     {
-      "raw_hot": 25389,
-      "num": 25389,
-      "word": "重庆姐弟坠楼案生母说要卸下枷锁",
-      "onboard_time": 1729105752,
-      "rank": 32,
-      "category": "社会新闻"
+      "raw_hot": 27689,
+      "num": 34646,
+      "word": "韩美日今日就半岛局势举行会晤",
+      "onboard_time": 1729106232,
+      "rank": 46,
+      "category": "国外时政"
     },
     {
-      "raw_hot": 24087,
-      "num": 34527,
-      "word": "金与正表示挑衅者将付出代价",
-      "onboard_time": 1729105752,
-      "rank": 15,
-      "category": "国外时政"
+      "raw_hot": 22786,
+      "num": 24748,
+      "word": "社恐白领被领导鸡娃后抑郁成木头人",
+      "onboard_time": 1729105811,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 21759,
@@ -547,28 +563,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 20510,
-      "num": 24748,
-      "word": "社恐白领被领导鸡娃后抑郁成木头人",
-      "onboard_time": 1729105811,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 20167,
       "num": 24748,
       "word": "教育局回应女童在幼儿园疑似被侵犯",
       "onboard_time": 1729106232,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 19959,
-      "num": 24748,
-      "word": "韩美日今日就半岛局势举行会晤",
-      "onboard_time": 1729106232,
-      "rank": 46,
-      "category": "国外时政"
     },
     {
       "raw_hot": 19593,
@@ -579,20 +579,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 18994,
+      "num": 18994,
+      "word": "100岁姐姐与94岁妹妹的极限拉扯",
+      "onboard_time": 1729107131,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 17370,
+      "num": 49485,
+      "word": "从原子弹到氢弹中国只用了两年多",
+      "onboard_time": 1729104132,
+      "rank": 24,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 17340,
+      "num": 18973,
+      "word": "苏新皓舞台混剪",
+      "onboard_time": 1729107072,
+      "rank": 48,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 14977,
       "num": 66153,
       "word": "唢呐一响谁的DNA动了",
       "onboard_time": 1729099035,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 12679,
-      "num": 49485,
-      "word": "从原子弹到氢弹中国只用了两年多",
-      "onboard_time": 1729104132,
-      "rank": 24,
-      "category": "国内时政"
     },
     {
       "raw_hot": 10971,
