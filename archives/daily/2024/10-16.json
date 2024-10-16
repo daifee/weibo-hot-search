@@ -1,6 +1,6 @@
 {
   "startTime": 1729009695696,
-  "endTime": 1729085371615,
+  "endTime": 1729086085037,
   "band_list": [
     {
       "raw_hot": 3249713,
@@ -107,7 +107,7 @@
       "category": "电影"
     },
     {
-      "raw_hot": 1693544,
+      "raw_hot": 1703087,
       "num": 348676,
       "word": "金字塔顶端发现一条狗",
       "onboard_time": 1729082422,
@@ -163,6 +163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1328440,
+      "num": 515918,
+      "word": "马天宇 你装完了吗",
+      "onboard_time": 1729076301,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1300637,
       "num": 1300637,
       "word": "朝韩关系为何一下变天",
@@ -177,14 +185,6 @@
       "onboard_time": 1729056561,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1298612,
-      "num": 515918,
-      "word": "马天宇 你装完了吗",
-      "onboard_time": 1729076301,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 1278752,
@@ -273,6 +273,14 @@
       "onboard_time": 1729061839,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 966190,
+      "num": 325924,
+      "word": "飞鹤奶粉",
+      "onboard_time": 1729082780,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 941843,
@@ -387,6 +395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 739270,
+      "num": 739270,
+      "word": "步步高商业连锁股份被申请破产",
+      "onboard_time": 1729079480,
+      "rank": 1,
+      "category": "财经"
+    },
+    {
       "raw_hot": 719078,
       "num": 352054,
       "word": "黄明昊业绩排乐华第二",
@@ -459,6 +475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 617784,
+      "num": 350925,
+      "word": "伍佰的歌",
+      "onboard_time": 1729073780,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 602531,
       "num": 485369,
       "word": "Jennie新歌MV被禁",
@@ -499,14 +523,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 571845,
-      "num": 325924,
-      "word": "飞鹤奶粉",
-      "onboard_time": 1729082780,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 568662,
       "num": 568662,
       "word": "预制菜发展到什么程度了",
@@ -539,14 +555,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 550811,
-      "num": 350925,
-      "word": "伍佰的歌",
-      "onboard_time": 1729073780,
-      "rank": 43,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 538832,
       "num": 433995,
       "word": "警方回应女孩被同学打的满嘴是血",
@@ -569,6 +577,14 @@
       "onboard_time": 1729041258,
       "rank": 21,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 535183,
+      "num": 443614,
+      "word": "国台办回应网民质疑台湾艺人吴慷仁",
+      "onboard_time": 1729084760,
+      "rank": 7,
+      "category": "国内时政,艺人"
     },
     {
       "raw_hot": 534724,
@@ -649,6 +665,14 @@
       "onboard_time": 1729067420,
       "rank": 30,
       "category": "财经"
+    },
+    {
+      "raw_hot": 480107,
+      "num": 480107,
+      "word": "张若昀金鹰奖唯一入围85生",
+      "onboard_time": 1729083741,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 477253,
@@ -875,22 +899,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 343450,
-      "num": 343450,
-      "word": "国台办回应网民质疑台湾艺人吴慷仁",
-      "onboard_time": 1729084760,
-      "rank": 7,
-      "category": "国内时政,艺人"
-    },
-    {
-      "raw_hot": 338309,
-      "num": 338309,
-      "word": "张若昀金鹰奖唯一入围85生",
-      "onboard_time": 1729083741,
-      "rank": 8,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 336906,
       "num": 336906,
       "word": "韩国女歌手因蛀牙患舌癌切除部分舌头",
@@ -953,6 +961,14 @@
       "onboard_time": 1728993619,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 302559,
+      "num": 302559,
+      "word": "Jennie勺子短裤",
+      "onboard_time": 1729080801,
+      "rank": 25,
+      "category": "演出"
     },
     {
       "raw_hot": 302487,
@@ -1025,14 +1041,6 @@
       "onboard_time": 1729047319,
       "rank": 30,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 273748,
-      "num": 244025,
-      "word": "Jennie勺子短裤",
-      "onboard_time": 1729080801,
-      "rank": 25,
-      "category": "演出"
     },
     {
       "raw_hot": 272482,
@@ -1323,6 +1331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 215853,
+      "num": 215853,
+      "word": "真有艺人因为造型被扣钱",
+      "onboard_time": 1729085482,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 214609,
       "num": 179080,
       "word": "维密翅膀",
@@ -1531,6 +1547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 195191,
+      "num": 195191,
+      "word": "李飞 准满贯男团",
+      "onboard_time": 1729085301,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 192614,
       "num": 192614,
       "word": "虞书欣新歌心弦Heart上线",
@@ -1643,6 +1667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 186447,
+      "num": 186447,
+      "word": "医生劝你护肤主要做好两件事",
+      "onboard_time": 1729081461,
+      "rank": 46,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 186429,
       "num": 186429,
       "word": "郑钦文 猜我最喜欢哪张",
@@ -1739,20 +1771,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 177581,
+      "num": 199498,
+      "word": "邪恶栀子花 花语",
+      "onboard_time": 1729083982,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 177519,
       "num": 252465,
       "word": "辰咪CP",
       "onboard_time": 1729055601,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 174914,
-      "num": 174914,
-      "word": "医生劝你护肤主要做好两件事",
-      "onboard_time": 1729081461,
-      "rank": 46,
-      "category": "美妆"
     },
     {
       "raw_hot": 174651,
@@ -1827,12 +1859,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 168188,
+      "num": 327741,
+      "word": "警方回应网红博主机场强迫志愿者摘口罩",
+      "onboard_time": 1729083443,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 167621,
       "num": 167621,
       "word": "拳头游戏裁员",
       "onboard_time": 1729061839,
       "rank": 32,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 167490,
+      "num": 167490,
+      "word": "看完减肥动力又来了",
+      "onboard_time": 1729084520,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 166690,
@@ -1921,14 +1969,6 @@
       "onboard_time": 1728994999,
       "rank": 36,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 160932,
-      "num": 199498,
-      "word": "邪恶栀子花 花语",
-      "onboard_time": 1729083982,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 160662,
@@ -2075,20 +2115,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 146379,
-      "num": 146379,
-      "word": "看完减肥动力又来了",
-      "onboard_time": 1729084520,
-      "rank": 45,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 145730,
       "num": 145730,
       "word": "天津取消住房限售",
       "onboard_time": 1729040899,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 144282,
+      "num": 144282,
+      "word": "维密秀 黑皮辣妹",
+      "onboard_time": 1729085603,
+      "rank": 43,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 144070,
@@ -2219,14 +2259,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 132392,
-      "num": 132392,
-      "word": "李飞 准满贯男团",
-      "onboard_time": 1729085301,
-      "rank": 48,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 132369,
       "num": 132369,
       "word": "唐嫣凭繁花提名三大奖视后",
@@ -2267,6 +2299,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 122800,
+      "num": 313139,
+      "word": "中国不会首先使用核武器",
+      "onboard_time": 1729085301,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 122758,
       "num": 325331,
       "word": "民警和女友约会途中抓了4名嫌疑人",
@@ -2303,6 +2343,14 @@
       "num": 120773,
       "word": "贾耗 分手脱口秀",
       "onboard_time": 1729044139,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 120338,
+      "num": 120338,
+      "word": "杜华回应通告比乐华艺人多",
+      "onboard_time": 1729086022,
       "rank": 49,
       "category": "综艺"
     },
@@ -2499,14 +2547,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 85567,
-      "num": 327741,
-      "word": "警方回应网红博主机场强迫志愿者摘口罩",
-      "onboard_time": 1729083443,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 84710,
       "num": 84710,
       "word": "我驻黎维和部队将提高防卫能力",
@@ -2603,14 +2643,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 72812,
-      "num": 198238,
-      "word": "中国不会首先使用核武器",
-      "onboard_time": 1729085301,
-      "rank": 29,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 71011,
       "num": 349420,
       "word": "何广智这下真给他装到了",
@@ -2633,6 +2665,14 @@
       "onboard_time": 1729072580,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 61917,
+      "num": 321516,
+      "word": "春花焰疯神榜",
+      "onboard_time": 1729085061,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 60992,
@@ -2795,6 +2835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 41789,
+      "num": 691329,
+      "word": "珍惜每一粒粮做合格干饭人",
+      "onboard_time": 1729084821,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 41123,
       "num": 55868,
       "word": "ITZY GOLD",
@@ -2817,14 +2865,6 @@
       "onboard_time": 1729066579,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 39074,
-      "num": 321516,
-      "word": "春花焰疯神榜",
-      "onboard_time": 1729085061,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 37913,
@@ -3075,6 +3115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 19811,
+      "num": 327969,
+      "word": "网红抗敏益生菌实则为固体饮料",
+      "onboard_time": 1729084461,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 19562,
       "num": 409198,
       "word": "妙风也是风韵犹存",
@@ -3099,14 +3147,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 19341,
-      "num": 691329,
-      "word": "珍惜每一粒粮做合格干饭人",
-      "onboard_time": 1729084821,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 18898,
       "num": 19287,
       "word": "医院内咖啡店回应吸引网红打卡",
@@ -3129,14 +3169,6 @@
       "onboard_time": 1729047439,
       "rank": 46,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 16321,
-      "num": 327969,
-      "word": "网红抗敏益生菌实则为固体饮料",
-      "onboard_time": 1729084461,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 14859,
