@@ -1,6 +1,6 @@
 {
   "startTime": 1728750414717,
-  "endTime": 1729140175313,
+  "endTime": 1729142537866,
   "band_list": [
     {
       "raw_hot": 17915004,
@@ -1435,6 +1435,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 888280,
+      "num": 754098,
+      "word": "田曦薇 花仙子",
+      "onboard_time": 1729138706,
+      "rank": 31,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 886702,
       "num": 439864,
       "word": "白百何晒与大儿子合照",
@@ -1497,6 +1505,14 @@
       "onboard_time": 1729084760,
       "rank": 7,
       "category": "国内时政,艺人"
+    },
+    {
+      "raw_hot": 866191,
+      "num": 866191,
+      "word": "黄圣依杨子 2个人8人群",
+      "onboard_time": 1729141403,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 861550,
@@ -1683,6 +1699,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 811094,
+      "num": 578937,
+      "word": "杜华 王一博就别汇报了",
+      "onboard_time": 1729137206,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 806476,
       "num": 317128,
       "word": "东北雨姐明知红薯粉成分问题",
@@ -1697,14 +1721,6 @@
       "onboard_time": 1728886578,
       "rank": 39,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 803796,
-      "num": 578937,
-      "word": "杜华 王一博就别汇报了",
-      "onboard_time": 1729137206,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 802790,
@@ -1953,6 +1969,14 @@
       "onboard_time": 1729085482,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 726295,
+      "num": 726295,
+      "word": "特朗普称美国城市发展远落后中国",
+      "onboard_time": 1729136544,
+      "rank": 44,
+      "category": "国外时政"
     },
     {
       "raw_hot": 722152,
@@ -2499,6 +2523,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 576079,
+      "num": 388195,
+      "word": "詹姆斯 吹牛老爹",
+      "onboard_time": 1729140265,
+      "rank": 12,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 571451,
       "num": 571451,
       "word": "浙江一公办幼儿园开出乳儿班",
@@ -2571,14 +2603,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 558262,
-      "num": 558262,
-      "word": "田曦薇 花仙子",
-      "onboard_time": 1729138706,
-      "rank": 31,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 556486,
       "num": 556486,
       "word": "年轻人开始抛弃优衣库",
@@ -2633,6 +2657,14 @@
       "onboard_time": 1728831144,
       "rank": 40,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 539288,
+      "num": 539288,
+      "word": "朝鲜明确韩国为敌对国家",
+      "onboard_time": 1729139666,
+      "rank": 8,
+      "category": "国外时政"
     },
     {
       "raw_hot": 538832,
@@ -3440,6 +3472,14 @@
       "word": "徐锦江拍过最辛苦的戏是西游记",
       "onboard_time": 1728794659,
       "rank": 7,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 408444,
+      "num": 367257,
+      "word": "杨子 7个手机",
+      "onboard_time": 1729141646,
+      "rank": 16,
       "category": "综艺"
     },
     {
@@ -4251,14 +4291,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 305102,
-      "num": 305102,
-      "word": "特朗普称美国城市发展远落后中国",
-      "onboard_time": 1729136544,
-      "rank": 44,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 304933,
       "num": 304933,
       "word": "岑浩辉当选澳门特区第六任行政长官人选",
@@ -4739,12 +4771,36 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 274682,
+      "num": 274682,
+      "word": "白鹿拎范丞丞大头照行李箱",
+      "onboard_time": 1729141524,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 274571,
       "num": 274571,
       "word": "郑钦文年度总奖金已达到311.2万美元",
       "onboard_time": 1728875478,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 274313,
+      "num": 274313,
+      "word": "港风陈都灵杀回来了",
+      "onboard_time": 1729141646,
+      "rank": 26,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 274292,
+      "num": 274292,
+      "word": "邓为用本名为母校低调捐款",
+      "onboard_time": 1729139365,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 274218,
@@ -5091,14 +5147,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 255285,
-      "num": 263560,
-      "word": "邓为用本名为母校低调捐款",
-      "onboard_time": 1729139365,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 254830,
       "num": 254830,
       "word": "世界上只有一个中国",
@@ -5361,6 +5409,14 @@
       "onboard_time": 1728919099,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 241483,
+      "num": 241483,
+      "word": "娜扎短发卸妆live图",
+      "onboard_time": 1729138346,
+      "rank": 29,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 241443,
@@ -5859,6 +5915,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 219545,
+      "num": 469147,
+      "word": "三年花12万就能获博士学位",
+      "onboard_time": 1729139605,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 219200,
       "num": 219200,
       "word": "张子枫ELLE首封",
@@ -6115,11 +6179,11 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 211219,
-      "num": 211219,
-      "word": "娜扎短发卸妆live图",
-      "onboard_time": 1729138346,
-      "rank": 29,
+      "raw_hot": 211366,
+      "num": 211366,
+      "word": "VOGUE出发图",
+      "onboard_time": 1729140505,
+      "rank": 33,
       "category": "作品衍生,时尚"
     },
     {
@@ -6137,6 +6201,14 @@
       "onboard_time": 1729050140,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 210827,
+      "num": 210827,
+      "word": "学医女孩下班当模特气质反差惊艳",
+      "onboard_time": 1729139186,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 210427,
@@ -6955,6 +7027,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 195155,
+      "num": 195155,
+      "word": "肖战蓝色冰川高珠",
+      "onboard_time": 1729141825,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
       "raw_hot": 194968,
       "num": 194968,
       "word": "刘烨说赵丽颖看似柔弱但很有内劲",
@@ -7009,14 +7089,6 @@
       "onboard_time": 1728911950,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 193359,
-      "num": 193359,
-      "word": "学医女孩下班当模特气质反差惊艳",
-      "onboard_time": 1729139186,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 193152,
@@ -7307,12 +7379,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 188666,
-      "num": 472996,
-      "word": "朝鲜明确韩国为敌对国家",
-      "onboard_time": 1729139666,
-      "rank": 8,
-      "category": "国外时政"
+      "raw_hot": 188729,
+      "num": 188729,
+      "word": "林孝埈说代表中国参赛很自豪",
+      "onboard_time": 1729140505,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 188550,
@@ -7337,6 +7409,14 @@
       "onboard_time": 1729058540,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 188221,
+      "num": 188221,
+      "word": "马嘉祺丁程鑫双人内页",
+      "onboard_time": 1729141882,
+      "rank": 39,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 188189,
@@ -8337,6 +8417,14 @@
       "onboard_time": 1729053802,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 165065,
+      "num": 165065,
+      "word": "小S大女儿Elly美国生活照",
+      "onboard_time": 1729140385,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 164781,
@@ -10979,14 +11067,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 86297,
-      "num": 469147,
-      "word": "三年花12万就能获博士学位",
-      "onboard_time": 1729139605,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 86198,
       "num": 247325,
       "word": "刘学义 荆北著名疯璟",
@@ -11113,6 +11193,14 @@
       "onboard_time": 1728929412,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 81867,
+      "num": 275570,
+      "word": "宋亚轩的耶耶旅行宣言",
+      "onboard_time": 1729142423,
+      "rank": 24,
+      "category": "艺人,综艺"
     },
     {
       "raw_hot": 80340,
@@ -12515,6 +12603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 37778,
+      "num": 401446,
+      "word": "今年底让450万新市民住进保障房",
+      "onboard_time": 1729141524,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 37752,
       "num": 97220,
       "word": "专家解读这一次围岛布局",
@@ -13179,6 +13275,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 26633,
+      "num": 378757,
+      "word": "一中介微信购买数千条个人信息",
+      "onboard_time": 1729141045,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 25980,
       "num": 286869,
       "word": "买东西总是很纠结怎么办",
@@ -13411,6 +13515,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 21142,
+      "num": 297910,
+      "word": "团伙假招志愿者盗公民信息获利50万",
+      "onboard_time": 1729142062,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 21107,
       "num": 70716,
       "word": "21年前杨利伟首飞前珍贵影像",
@@ -13561,6 +13673,14 @@
       "onboard_time": 1729020911,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 18421,
+      "num": 185698,
+      "word": "当代年轻人消费观belike",
+      "onboard_time": 1729140744,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 18224,
@@ -13820,7 +13940,7 @@
     },
     {
       "raw_hot": 11489,
-      "num": 732546,
+      "num": 776246,
       "word": "文化中国行丹青中华",
       "onboard_time": 1729083982,
       "rank": 2,
@@ -13905,6 +14025,14 @@
       "onboard_time": 1729114691,
       "rank": 9,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 7480,
+      "num": 300339,
+      "word": "国模许炜维密首秀",
+      "onboard_time": 1729142303,
+      "rank": 18,
+      "category": "时尚"
     },
     {
       "raw_hot": 6368,

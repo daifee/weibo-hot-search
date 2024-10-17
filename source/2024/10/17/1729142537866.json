@@ -1,0 +1,410 @@
+{
+  "runTime": 1729142537866,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1350810,
+        "num": 1350810,
+        "word": "台禁止输入大陆产黄飞红花生",
+        "onboard_time": 1729135523,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 866191,
+        "num": 866191,
+        "word": "黄圣依杨子 2个人8人群",
+        "onboard_time": 1729141403,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 3559,
+        "num": 776246,
+        "word": "文化中国行丹青中华",
+        "onboard_time": 1729083982,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 888280,
+        "num": 754098,
+        "word": "田曦薇 花仙子",
+        "onboard_time": 1729138706,
+        "rank": 3,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 726295,
+        "num": 726295,
+        "word": "特朗普称美国城市发展远落后中国",
+        "onboard_time": 1729136544,
+        "rank": 4,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 539288,
+        "num": 539288,
+        "word": "朝鲜明确韩国为敌对国家",
+        "onboard_time": 1729139666,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 811094,
+        "num": 512774,
+        "word": "杜华 王一博就别汇报了",
+        "onboard_time": 1729137206,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 450096,
+        "num": 450096,
+        "word": "马天宇战绩可查",
+        "onboard_time": 1729133121,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 403157,
+        "num": 403157,
+        "word": "医院回应公职人员体检市民被拦住",
+        "onboard_time": 1729130419,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37778,
+        "num": 401446,
+        "word": "今年底让450万新市民住进保障房",
+        "onboard_time": 1729141524,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1035386,
+        "num": 393980,
+        "word": "儿童文具胶带出现男性生殖器图案",
+        "onboard_time": 1729135462,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 688187,
+        "num": 391188,
+        "word": "马来西亚男子上厕所时被老虎叼走身亡",
+        "onboard_time": 1729135042,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 576079,
+        "num": 388195,
+        "word": "詹姆斯 吹牛老爹",
+        "onboard_time": 1729140265,
+        "rank": 12,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 495759,
+        "num": 382411,
+        "word": "杨幂给小糯米买玩偶",
+        "onboard_time": 1729135944,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 26633,
+        "num": 378757,
+        "word": "一中介微信购买数千条个人信息",
+        "onboard_time": 1729141045,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 448916,
+        "num": 371208,
+        "word": "周也姐姐设计的礼服",
+        "onboard_time": 1729138166,
+        "rank": 15,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 408444,
+        "num": 367257,
+        "word": "杨子 7个手机",
+        "onboard_time": 1729141646,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 365484,
+        "num": 365484,
+        "word": "一火箭弹掉入我赴黎维和部队营区",
+        "onboard_time": 1729122560,
+        "rank": 17,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 7480,
+        "num": 300339,
+        "word": "国模许炜维密首秀",
+        "onboard_time": 1729142303,
+        "rank": 18,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 21142,
+        "num": 297910,
+        "word": "团伙假招志愿者盗公民信息获利50万",
+        "onboard_time": 1729142062,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1342297,
+        "num": 297608,
+        "word": "沈梦辰模仿叶珂",
+        "onboard_time": 1729130540,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 296596,
+        "num": 296596,
+        "word": "陈好太惨了",
+        "onboard_time": 1729088963,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 293070,
+        "num": 293070,
+        "word": "黄磊线下活动被贴脸喊豆角",
+        "onboard_time": 1729123820,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 281408,
+        "num": 281408,
+        "word": "厂家就儿童文具现生殖器图案道歉",
+        "onboard_time": 1729138465,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 81867,
+        "num": 275570,
+        "word": "宋亚轩的耶耶旅行宣言",
+        "onboard_time": 1729142423,
+        "rank": 24,
+        "category": "艺人,综艺"
+      },
+      {
+        "raw_hot": 274682,
+        "num": 274682,
+        "word": "白鹿拎范丞丞大头照行李箱",
+        "onboard_time": 1729141524,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 274313,
+        "num": 274313,
+        "word": "港风陈都灵杀回来了",
+        "onboard_time": 1729141646,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 274292,
+        "num": 274292,
+        "word": "邓为用本名为母校低调捐款",
+        "onboard_time": 1729139365,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 253445,
+        "num": 253445,
+        "word": "中医说指甲是内脏显示屏",
+        "onboard_time": 1729133241,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 245058,
+        "num": 245058,
+        "word": "长沙自建房倒塌事故15人获刑",
+        "onboard_time": 1729137926,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241483,
+        "num": 241483,
+        "word": "娜扎短发卸妆live图",
+        "onboard_time": 1729138346,
+        "rank": 30,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 219545,
+        "num": 219545,
+        "word": "三年花12万就能获博士学位",
+        "onboard_time": 1729139605,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215196,
+        "num": 215196,
+        "word": "黄雨婷紧急撤回一句实话",
+        "onboard_time": 1729138706,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 211366,
+        "num": 211366,
+        "word": "VOGUE出发图",
+        "onboard_time": 1729140505,
+        "rank": 33,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 210827,
+        "num": 210827,
+        "word": "学医女孩下班当模特气质反差惊艳",
+        "onboard_time": 1729139186,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206600,
+        "num": 206600,
+        "word": "特朗普暗示韩国应支付巨额保护费",
+        "onboard_time": 1729124480,
+        "rank": 35,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 195155,
+        "num": 195155,
+        "word": "肖战蓝色冰川高珠",
+        "onboard_time": 1729141825,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 192084,
+        "num": 192084,
+        "word": "楼市新政组合拳",
+        "onboard_time": 1729138885,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 188729,
+        "num": 188729,
+        "word": "林孝埈说代表中国参赛很自豪",
+        "onboard_time": 1729140505,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 188221,
+        "num": 188221,
+        "word": "马嘉祺丁程鑫双人内页",
+        "onboard_time": 1729141882,
+        "rank": 39,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 18421,
+        "num": 185698,
+        "word": "当代年轻人消费观belike",
+        "onboard_time": 1729140744,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 183411,
+        "num": 183411,
+        "word": "京东互助",
+        "onboard_time": 1729125681,
+        "rank": 41,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 182628,
+        "num": 182628,
+        "word": "长沙自建房倒塌事故案一审宣判",
+        "onboard_time": 1729137266,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180430,
+        "num": 180430,
+        "word": "花学 周雨彤",
+        "onboard_time": 1729091841,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173059,
+        "num": 173059,
+        "word": "张博恒 许凯你怎么又抢我墙角",
+        "onboard_time": 1729140146,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169847,
+        "num": 169847,
+        "word": "新增实施100万套城中村危旧房改造",
+        "onboard_time": 1729132701,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165065,
+        "num": 165065,
+        "word": "小S大女儿Elly美国生活照",
+        "onboard_time": 1729140385,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159595,
+        "num": 159595,
+        "word": "特朗普称朝鲜很强大",
+        "onboard_time": 1729125501,
+        "rank": 47,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 157379,
+        "num": 157379,
+        "word": "LPL提前锁定S14四强",
+        "onboard_time": 1729139306,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 154155,
+        "num": 154155,
+        "word": "女子卸甲后发现十指空甲发霉",
+        "onboard_time": 1729086861,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平参观谷文昌纪念馆#"
+    }
+  }
+}
