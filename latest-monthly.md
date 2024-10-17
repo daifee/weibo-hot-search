@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/10/01 00:28:17 ~ 2024/10/18 06:39:40
+本榜单时间：2024/10/01 00:28:17 ~ 2024/10/18 07:22:28
 </p>
 </blockquote>
 <p>
@@ -1809,6 +1809,12 @@ VOGUE晚宴（热度：1311474）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%95%E5%A6%872%E6%AC%A1%E5%88%B0%E5%BA%97%E5%80%9F%E7%94%A8%E5%8E%95%E6%89%80%E5%92%8C%E5%BA%97%E5%91%98%E8%B5%B7%E4%BA%89%E6%89%A7%23" target="weibo">
+孕妇2次到店借用厕所和店员起争执（热度：1282144）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%80%83%20%E6%B2%A1%E5%B2%97%23" target="weibo">
 国考 没岗（热度：1281597）
 </a>
@@ -2681,6 +2687,12 @@ TES对战T1（热度：1063834）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B0%E6%9B%A6%E8%96%87%E8%B9%A6%E8%B9%A6%E8%B7%B3%E8%B7%B3%E8%B5%B0%E7%A7%80%23" target="weibo">
 田曦薇蹦蹦跳跳走秀（热度：1036791）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%A6%BB%E5%B2%9716%E5%B9%B4%E5%91%98%E5%B7%A5%E4%B8%88%E5%A4%AB%E7%A7%B0%E5%85%AC%E5%8F%B8%E6%9C%AA%E9%80%9A%E7%9F%A5%E4%B8%8A%E7%8F%AD%23" target="weibo">
+离岗16年员工丈夫称公司未通知上班（热度：1035792）
 </a>
 </li>
 
@@ -5115,12 +5127,6 @@ GALA连续四年止步八强（热度：727346）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AD%95%E5%A6%872%E6%AC%A1%E5%88%B0%E5%BA%97%E5%80%9F%E7%94%A8%E5%8E%95%E6%89%80%E5%92%8C%E5%BA%97%E5%91%98%E8%B5%B7%E4%BA%89%E6%89%A7%23" target="weibo">
-孕妇2次到店借用厕所和店员起争执（热度：691647）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%8D%E5%AA%9B%E5%9F%B9%E8%AE%AD%E7%8F%AD%E6%94%B6%E5%89%B2%E4%B8%AD%E5%B9%B4%E7%94%B7%E6%98%8E%E6%98%9F%23" target="weibo">
 名媛培训班收割中年男明星（热度：691329）
 </a>
@@ -6005,12 +6011,6 @@ Minnie走秀（热度：616890）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%81%8B%E4%B8%8E%E6%B7%B1%E7%A9%BA%23" target="weibo">
 恋与深空（热度：616064）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AA%80%E5%81%A5%E6%AC%A1%20%E6%B1%82%E4%BD%A0%E4%BB%AC%E5%9B%9E%E5%A4%B4%E7%9C%8B%E7%9C%8B%23" target="weibo">
-檀健次 求你们回头看看（热度：615820）
 </a>
 </li>
 

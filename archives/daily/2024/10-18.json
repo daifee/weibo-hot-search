@@ -1,6 +1,6 @@
 {
   "startTime": 1729182564055,
-  "endTime": 1729204780363,
+  "endTime": 1729207348355,
   "band_list": [
     {
       "raw_hot": 2689271,
@@ -19,12 +19,36 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 1282144,
+      "num": 291223,
+      "word": "孕妇2次到店借用厕所和店员起争执",
+      "onboard_time": 1729182378,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1035792,
+      "num": 508238,
+      "word": "离岗16年员工丈夫称公司未通知上班",
+      "onboard_time": 1729195991,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 813989,
       "num": 813989,
       "word": "scout 还钱",
       "onboard_time": 1729183696,
       "rank": 3,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 778384,
+      "num": 398036,
+      "word": "毕业生举报高校女教师与其恋爱出轨",
+      "onboard_time": 1729173563,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 771617,
@@ -52,7 +76,7 @@
     },
     {
       "raw_hot": 717312,
-      "num": 717312,
+      "num": 808746,
       "word": "疑似辛瓦尔的尸体可能进行DNA检测",
       "onboard_time": 1729177401,
       "rank": 5,
@@ -67,28 +91,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 691647,
-      "num": 240172,
-      "word": "孕妇2次到店借用厕所和店员起争执",
-      "onboard_time": 1729182378,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 544097,
-      "num": 398036,
-      "word": "毕业生举报高校女教师与其恋爱出轨",
-      "onboard_time": 1729173563,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 534041,
       "num": 534041,
       "word": "VOGUE晚宴",
       "onboard_time": 1729173142,
       "rank": 7,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 468848,
+      "num": 468848,
+      "word": "民警搜山喊了4小时找回5名大学生",
+      "onboard_time": 1729193051,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 434935,
@@ -99,20 +115,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 433329,
-      "num": 508238,
-      "word": "离岗16年员工丈夫称公司未通知上班",
-      "onboard_time": 1729195991,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 433179,
       "num": 433179,
       "word": "老人花40万在直播间买了堆塑料",
       "onboard_time": 1729174823,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 406735,
+      "num": 384639,
+      "word": "黄圣依想离婚是受不了爹式管理",
+      "onboard_time": 1729169061,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 386391,
@@ -123,12 +139,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 384639,
-      "num": 384639,
-      "word": "黄圣依想离婚是受不了爹式管理",
-      "onboard_time": 1729169061,
-      "rank": 13,
-      "category": "综艺"
+      "raw_hot": 359942,
+      "num": 359942,
+      "word": "网红小虎行账号已被封",
+      "onboard_time": 1729192213,
+      "rank": 41,
+      "category": "网红"
     },
     {
       "raw_hot": 349117,
@@ -155,6 +171,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 317765,
+      "num": 317765,
+      "word": "职工医保中断可以补缴吗",
+      "onboard_time": 1729180642,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 310193,
       "num": 310193,
       "word": "以称正核实是否打死哈马斯领导人辛瓦尔",
@@ -171,12 +195,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 254553,
-      "num": 254553,
-      "word": "职工医保中断可以补缴吗",
-      "onboard_time": 1729180642,
-      "rank": 25,
-      "category": "社会新闻"
+      "raw_hot": 261290,
+      "num": 152704,
+      "word": "留几手说杨子蹭了黄圣依不少流量",
+      "onboard_time": 1729194910,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 239452,
@@ -251,22 +275,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 168642,
-      "num": 113662,
-      "word": "网红小虎行账号已被封",
-      "onboard_time": 1729192213,
-      "rank": 41,
-      "category": "网红"
-    },
-    {
-      "raw_hot": 153922,
-      "num": 153922,
-      "word": "民警搜山喊了4小时找回5名大学生",
-      "onboard_time": 1729193051,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 150999,
       "num": 150999,
       "word": "黄圣依杨子 2个人8人群",
@@ -283,14 +291,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 147910,
-      "num": 77750,
-      "word": "留几手说杨子蹭了黄圣依不少流量",
-      "onboard_time": 1729194910,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 145088,
       "num": 160349,
       "word": "大庸古城耗资22亿日均卖票不足20张",
@@ -300,7 +300,7 @@
     },
     {
       "raw_hot": 145067,
-      "num": 108756,
+      "num": 140154,
       "word": "小虎 MVP",
       "onboard_time": 1729184055,
       "rank": 30,
@@ -443,6 +443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 105426,
+      "num": 114880,
+      "word": "吉林一国企否认4人离岗吃空饷",
+      "onboard_time": 1729188552,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 100671,
       "num": 138486,
       "word": "snowman",
@@ -491,6 +499,30 @@
       "category": "体育"
     },
     {
+      "raw_hot": 81035,
+      "num": 81035,
+      "word": "高校回应女教师被曝出轨及学术造假",
+      "onboard_time": 1729197551,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 79585,
+      "num": 79585,
+      "word": "郭晶晶希望让孩子多吃苦",
+      "onboard_time": 1729207278,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 76924,
+      "num": 76924,
+      "word": "马斯克捐赠近7500万美元支持共和党",
+      "onboard_time": 1729183578,
+      "rank": 47,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 72266,
       "num": 72266,
       "word": "意大利将海外代孕入刑",
@@ -499,12 +531,20 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 71773,
-      "num": 71773,
-      "word": "马斯克捐赠近7500万美元支持共和党",
-      "onboard_time": 1729183578,
-      "rank": 47,
-      "category": "国外时政"
+      "raw_hot": 59750,
+      "num": 310054,
+      "word": "超级月亮遇见紫金山彗星",
+      "onboard_time": 1729206316,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 58724,
+      "num": 58724,
+      "word": "江西发现全球最小恐龙蛋化石",
+      "onboard_time": 1729204574,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 58023,
@@ -515,20 +555,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 54546,
-      "num": 114880,
-      "word": "吉林一国企否认4人离岗吃空饷",
-      "onboard_time": 1729188552,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 52209,
       "num": 52209,
       "word": "杭州人也有自己的Jellycat",
       "onboard_time": 1729188074,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 50909,
+      "num": 50909,
+      "word": "英雄联盟S14",
+      "onboard_time": 1729206677,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 50874,
@@ -539,12 +579,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 45014,
-      "num": 45014,
-      "word": "高校回应女教师被曝出轨及学术造假",
-      "onboard_time": 1729197551,
-      "rank": 25,
-      "category": "社会新闻"
+      "raw_hot": 46026,
+      "num": 49571,
+      "word": "剧版异人之下豆瓣涨分8.2",
+      "onboard_time": 1729207278,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 42701,
+      "num": 49362,
+      "word": "世界上最优雅的鲨鱼",
+      "onboard_time": 1729206316,
+      "rank": 49,
+      "category": "科学科普"
     },
     {
       "raw_hot": 38374,
@@ -683,14 +731,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 13752,
-      "num": 35173,
-      "word": "江西发现全球最小恐龙蛋化石",
-      "onboard_time": 1729204574,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 12579,
       "num": 116692,
       "word": "清澈的爱只为中国",
@@ -700,7 +740,7 @@
     },
     {
       "raw_hot": 8657,
-      "num": 266950,
+      "num": 479891,
       "word": "嫦娥六号月壤亮相国际宇航大会",
       "onboard_time": 1729172902,
       "rank": 2,
