@@ -1,6 +1,6 @@
 {
   "startTime": 1729182564055,
-  "endTime": 1729200977356,
+  "endTime": 1729203673446,
   "band_list": [
     {
       "raw_hot": 2689271,
@@ -163,6 +163,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 270630,
+      "num": 270630,
+      "word": "离岗16年员工丈夫称公司未通知上班",
+      "onboard_time": 1729195991,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 254553,
       "num": 254553,
       "word": "职工医保中断可以补缴吗",
@@ -315,14 +323,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 126761,
-      "num": 126761,
-      "word": "离岗16年员工丈夫称公司未通知上班",
-      "onboard_time": 1729195991,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 124705,
       "num": 191456,
       "word": "她是第一位穿越蘑菇云取样的女飞",
@@ -361,6 +361,14 @@
       "onboard_time": 1729182079,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 117991,
+      "num": 113662,
+      "word": "网红小虎行账号已被封",
+      "onboard_time": 1729192213,
+      "rank": 41,
+      "category": "网红"
     },
     {
       "raw_hot": 115608,
@@ -411,12 +419,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 106493,
+      "num": 106493,
+      "word": "民警搜山喊了4小时找回5名大学生",
+      "onboard_time": 1729193051,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 105508,
       "num": 138515,
       "word": "小英送养孩子实属民间送养不构成犯罪",
       "onboard_time": 1729154541,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 105349,
+      "num": 59880,
+      "word": "留几手说杨子蹭了黄圣依不少流量",
+      "onboard_time": 1729194910,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 100671,
@@ -451,14 +475,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 90374,
-      "num": 90374,
-      "word": "民警搜山喊了4小时找回5名大学生",
-      "onboard_time": 1729193051,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 89360,
       "num": 138313,
       "word": "年轻人工作后选择重养一遍自己",
@@ -491,22 +507,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 60525,
-      "num": 50190,
-      "word": "网红小虎行账号已被封",
-      "onboard_time": 1729192213,
-      "rank": 41,
-      "category": "网红"
-    },
-    {
-      "raw_hot": 58304,
-      "num": 39207,
-      "word": "留几手说杨子蹭了黄圣依不少流量",
-      "onboard_time": 1729194910,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 58023,
       "num": 138251,
       "word": "欧洲央行宣布降息25个基点",
@@ -531,20 +531,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 41394,
+      "num": 41394,
+      "word": "高校回应女教师被曝出轨及学术造假",
+      "onboard_time": 1729197551,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 39218,
+      "num": 114880,
+      "word": "吉林一国企否认4人离岗吃空饷",
+      "onboard_time": 1729188552,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 38374,
       "num": 55015,
       "word": "王者九周年限定回忆",
       "onboard_time": 1729186454,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 36812,
-      "num": 114880,
-      "word": "吉林一国企否认4人离岗吃空饷",
-      "onboard_time": 1729188552,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 34282,
@@ -579,11 +587,11 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 27027,
-      "num": 27027,
-      "word": "高校回应女教师被曝出轨及学术造假",
-      "onboard_time": 1729197551,
-      "rank": 25,
+      "raw_hot": 27558,
+      "num": 30483,
+      "word": "警方通报4人造谣成都天价拆迁",
+      "onboard_time": 1729198092,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -603,20 +611,36 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 22655,
-      "num": 30483,
-      "word": "警方通报4人造谣成都天价拆迁",
-      "onboard_time": 1729198092,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 22522,
       "num": 59346,
       "word": "我赴黎维和官兵讲述惊险现场",
       "onboard_time": 1729191012,
       "rank": 13,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 22496,
+      "num": 50285,
+      "word": "地产市场4取消4降低2增加",
+      "onboard_time": 1729200491,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 20575,
+      "num": 27234,
+      "word": "网红小虎行账号被封",
+      "onboard_time": 1729203554,
+      "rank": 47,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 19917,
+      "num": 27232,
+      "word": "上海第二套改善型住房最低首付比例25%",
+      "onboard_time": 1729200911,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 15759,
@@ -643,19 +667,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 11566,
-      "num": 22691,
-      "word": "上海第二套改善型住房最低首付比例25%",
-      "onboard_time": 1729200911,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 11305,
-      "num": 50285,
-      "word": "地产市场4取消4降低2增加",
-      "onboard_time": 1729200491,
-      "rank": 13,
+      "raw_hot": 12579,
+      "num": 116692,
+      "word": "清澈的爱只为中国",
+      "onboard_time": 1729202472,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
