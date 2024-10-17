@@ -1,6 +1,6 @@
 {
   "startTime": 1729182564055,
-  "endTime": 1729196660833,
+  "endTime": 1729197485464,
   "band_list": [
     {
       "raw_hot": 2689271,
@@ -507,7 +507,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 46592,
+      "raw_hot": 50716,
       "num": 43237,
       "word": "网红小虎行账号已被封",
       "onboard_time": 1729192213,
@@ -539,6 +539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 31301,
+      "num": 42701,
+      "word": "外交部敦促日方正视并反省侵略历史",
+      "onboard_time": 1729195571,
+      "rank": 15,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 30995,
       "num": 53036,
       "word": "孩子为集烟卡捡烟盒翻垃圾箱",
@@ -547,20 +555,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 28037,
+      "num": 28037,
+      "word": "留几手说杨子蹭了黄圣依不少流量",
+      "onboard_time": 1729194910,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 27680,
       "num": 27680,
       "word": "虎三件",
       "onboard_time": 1729190712,
       "rank": 37,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 26791,
-      "num": 26791,
-      "word": "留几手说杨子蹭了黄圣依不少流量",
-      "onboard_time": 1729194910,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 23422,
@@ -579,16 +587,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 20416,
-      "num": 42701,
-      "word": "外交部敦促日方正视并反省侵略历史",
-      "onboard_time": 1729195571,
-      "rank": 15,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 17017,
-      "num": 23404,
+      "raw_hot": 17800,
+      "num": 45044,
       "word": "离岗16年员工丈夫称公司未通知上班",
       "onboard_time": 1729195991,
       "rank": 30,
@@ -600,6 +600,14 @@
       "word": "你的样子",
       "onboard_time": 1729189814,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 15607,
+      "num": 17118,
+      "word": "房地产组合拳不仅有料更追求实效",
+      "onboard_time": 1729185674,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
