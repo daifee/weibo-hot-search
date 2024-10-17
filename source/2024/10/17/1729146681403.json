@@ -1,0 +1,410 @@
+{
+  "runTime": 1729146681403,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1942993,
+        "num": 1942993,
+        "word": "黄圣依杨子 2个人8人群",
+        "onboard_time": 1729141403,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1171315,
+        "num": 1171315,
+        "word": "山西午睡文化不分时间地点物种",
+        "onboard_time": 1729142843,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32389,
+        "num": 999559,
+        "word": "我国三大谷物保持平稳态势",
+        "onboard_time": 1729144461,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 931594,
+        "num": 931594,
+        "word": "台禁止输入大陆产黄飞红花生",
+        "onboard_time": 1729135523,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 894958,
+        "num": 894958,
+        "word": "朝鲜明确韩国为敌对国家",
+        "onboard_time": 1729139666,
+        "rank": 4,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 829411,
+        "num": 829411,
+        "word": "张凌赫模仿向佐",
+        "onboard_time": 1729143803,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 804466,
+        "num": 804466,
+        "word": "港风陈都灵杀回来了",
+        "onboard_time": 1729141646,
+        "rank": 6,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 587276,
+        "num": 587276,
+        "word": "杜华 王一博就别汇报了",
+        "onboard_time": 1729137206,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 368388,
+        "num": 368388,
+        "word": "特朗普称美国城市发展远落后中国",
+        "onboard_time": 1729136544,
+        "rank": 8,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 44992,
+        "num": 368135,
+        "word": "网购需理性辨识第三方测评信息",
+        "onboard_time": 1729145003,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 930763,
+        "num": 366794,
+        "word": "儿童文具胶带出现男性生殖器图案",
+        "onboard_time": 1729135462,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 804148,
+        "num": 365966,
+        "word": "詹姆斯 吹牛老爹",
+        "onboard_time": 1729140265,
+        "rank": 11,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 745450,
+        "num": 365155,
+        "word": "张艺兴替保安道歉",
+        "onboard_time": 1729143204,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 628137,
+        "num": 364290,
+        "word": "马来西亚男子上厕所时被老虎叼走身亡",
+        "onboard_time": 1729135042,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 518713,
+        "num": 363205,
+        "word": "小S大女儿Elly美国生活照",
+        "onboard_time": 1729140385,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24054,
+        "num": 362102,
+        "word": "对极氪MIX的期待拉满了",
+        "onboard_time": 1729143683,
+        "rank": 15,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 491768,
+        "num": 361828,
+        "word": "田曦薇 花仙子",
+        "onboard_time": 1729138706,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 213415,
+        "num": 360143,
+        "word": "aespa好辣",
+        "onboard_time": 1729145542,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 446724,
+        "num": 359560,
+        "word": "林允全身涂黑",
+        "onboard_time": 1729145482,
+        "rank": 18,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 81801,
+        "num": 359001,
+        "word": "女子曝体验18元美容结果贷款1万多",
+        "onboard_time": 1729145482,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 832132,
+        "num": 358025,
+        "word": "沈梦辰模仿叶珂",
+        "onboard_time": 1729130540,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 373569,
+        "num": 357051,
+        "word": "offer6带教女大律师丈夫是家庭主夫",
+        "onboard_time": 1729145362,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 356272,
+        "num": 356272,
+        "word": "南京一群业主众筹63万元爆改小区道路",
+        "onboard_time": 1729139245,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 323122,
+        "num": 323122,
+        "word": "女子试妆后舍不得卸掉用相册收集起来",
+        "onboard_time": 1729143923,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 298899,
+        "num": 298899,
+        "word": "殷世航回应",
+        "onboard_time": 1729145961,
+        "rank": 24,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 294991,
+        "num": 294991,
+        "word": "樊振东许昕男团首秀",
+        "onboard_time": 1729144161,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 289956,
+        "num": 289956,
+        "word": "中医说指甲是内脏显示屏",
+        "onboard_time": 1729133241,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 240707,
+        "num": 240707,
+        "word": "杨幂给小糯米买玩偶",
+        "onboard_time": 1729135944,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 225045,
+        "num": 225045,
+        "word": "医院回应公职人员体检市民被拦住",
+        "onboard_time": 1729130419,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217904,
+        "num": 217904,
+        "word": "周也姐姐设计的礼服",
+        "onboard_time": 1729138166,
+        "rank": 29,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 212433,
+        "num": 212433,
+        "word": "林孝埈说代表中国参赛很自豪",
+        "onboard_time": 1729140505,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 193091,
+        "num": 193091,
+        "word": "印度射击世界杯食堂引网友质疑",
+        "onboard_time": 1729145421,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 191309,
+        "num": 191309,
+        "word": "JDG狼人杀这把高端局",
+        "onboard_time": 1729146141,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 186139,
+        "num": 186139,
+        "word": "杨子 7个手机",
+        "onboard_time": 1729141646,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106714,
+        "num": 184311,
+        "word": "刘冲让黄景瑜少穿一点",
+        "onboard_time": 1729145362,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182821,
+        "num": 182821,
+        "word": "京东互助",
+        "onboard_time": 1729125681,
+        "rank": 35,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 181275,
+        "num": 181275,
+        "word": "白鹿小小的人背大大的包",
+        "onboard_time": 1729144882,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178123,
+        "num": 178123,
+        "word": "刘冲直播",
+        "onboard_time": 1729145062,
+        "rank": 37,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 175432,
+        "num": 175432,
+        "word": "邓为用本名为母校低调捐款",
+        "onboard_time": 1729139365,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170244,
+        "num": 170244,
+        "word": "邱泽身上有陈铭生的破碎感",
+        "onboard_time": 1729145900,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166076,
+        "num": 166076,
+        "word": "10月31日前房贷利率调整全部完成",
+        "onboard_time": 1729145421,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 162579,
+        "num": 162579,
+        "word": "三年花12万就能获博士学位",
+        "onboard_time": 1729139605,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160964,
+        "num": 160964,
+        "word": "厂家就儿童文具现生殖器图案道歉",
+        "onboard_time": 1729138465,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158196,
+        "num": 158196,
+        "word": "特朗普形容韩国是一台赚钱机器",
+        "onboard_time": 1729146321,
+        "rank": 43,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 41995,
+        "num": 155587,
+        "word": "多省探索农村秸秆限时焚烧",
+        "onboard_time": 1729144521,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153511,
+        "num": 153511,
+        "word": "LPL提前锁定S14四强",
+        "onboard_time": 1729139306,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 150758,
+        "num": 150758,
+        "word": "檀健次戴头纱",
+        "onboard_time": 1729144702,
+        "rank": 46,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 144976,
+        "num": 144976,
+        "word": "黄磊线下活动被贴脸喊豆角",
+        "onboard_time": 1729123820,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142733,
+        "num": 142733,
+        "word": "楼市新政组合拳",
+        "onboard_time": 1729138885,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 134347,
+        "num": 134347,
+        "word": "VOGUE出发图",
+        "onboard_time": 1729140505,
+        "rank": 49,
+        "category": "作品衍生,时尚"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记在福建强调爱拼会赢#"
+    }
+  }
+}
