@@ -1,6 +1,6 @@
 {
   "startTime": 1729096028716,
-  "endTime": 1729153734098,
+  "endTime": 1729154562381,
   "band_list": [
     {
       "raw_hot": 2232538,
@@ -83,8 +83,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1229624,
+      "num": 368280,
+      "word": "赵露思超长麻花辫",
+      "onboard_time": 1729152801,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1164965,
-      "num": 664092,
+      "num": 806398,
       "word": "韩美日等11国联手组建对朝监控新机制",
       "onboard_time": 1729148661,
       "rank": 26,
@@ -227,6 +235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 793980,
+      "num": 793980,
+      "word": "高三语文老师突发疾病双眼失明",
+      "onboard_time": 1729150583,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 793628,
       "num": 231202,
       "word": "王超生前录音曝光",
@@ -243,6 +259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 741244,
+      "num": 358577,
+      "word": "樊振东 被球球袭击了",
+      "onboard_time": 1729152022,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 726295,
       "num": 726295,
       "word": "特朗普称美国城市发展远落后中国",
@@ -251,16 +275,8 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 722394,
-      "num": 368280,
-      "word": "赵露思超长麻花辫",
-      "onboard_time": 1729152801,
-      "rank": 12,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 718648,
-      "num": 364718,
+      "num": 689652,
       "word": "黄晓明特效",
       "onboard_time": 1729151060,
       "rank": 16,
@@ -315,6 +331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 642383,
+      "num": 642383,
+      "word": "龚俊 内娱花蝴蝶",
+      "onboard_time": 1729151962,
+      "rank": 7,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 600654,
       "num": 449765,
       "word": "周也姐姐设计的礼服",
@@ -363,6 +387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 567576,
+      "num": 358990,
+      "word": "夫妻分房睡会影响亲密关系吗",
+      "onboard_time": 1729152443,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 549381,
       "num": 549381,
       "word": "长沙自建房倒塌事故案一审宣判",
@@ -379,14 +411,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 536554,
-      "num": 358990,
-      "word": "夫妻分房睡会影响亲密关系吗",
-      "onboard_time": 1729152443,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 533656,
       "num": 292215,
       "word": "大冰停播",
@@ -401,14 +425,6 @@
       "onboard_time": 1729133121,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 527045,
-      "num": 527045,
-      "word": "高三语文老师突发疾病双眼失明",
-      "onboard_time": 1729150583,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 525318,
@@ -475,14 +491,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 485954,
-      "num": 358577,
-      "word": "樊振东 被球球袭击了",
-      "onboard_time": 1729152022,
-      "rank": 22,
-      "category": "体育"
-    },
-    {
       "raw_hot": 485276,
       "num": 292821,
       "word": "吉林一公司4人擅自离岗有人达16年",
@@ -537,14 +545,6 @@
       "onboard_time": 1729087822,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 436742,
-      "num": 436742,
-      "word": "龚俊 内娱花蝴蝶",
-      "onboard_time": 1729151962,
-      "rank": 7,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 422662,
@@ -625,6 +625,14 @@
       "onboard_time": 1729148002,
       "rank": 19,
       "category": "财经"
+    },
+    {
+      "raw_hot": 358129,
+      "num": 358129,
+      "word": "山东一市监所所长被刺身亡",
+      "onboard_time": 1729154121,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 352401,
@@ -715,6 +723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 287833,
+      "num": 287833,
+      "word": "统一首套二套房贷最低首付比例到15%",
+      "onboard_time": 1729150461,
+      "rank": 44,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 285669,
       "num": 285669,
       "word": "时尚芭莎",
@@ -787,6 +803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 272782,
+      "num": 272782,
+      "word": "网红小英承认曾送养女孩",
+      "onboard_time": 1729154300,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 271837,
       "num": 271837,
       "word": "辅警下班1秒钟又开始上班",
@@ -811,12 +835,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 260750,
-      "num": 260750,
-      "word": "统一首套二套房贷最低首付比例到15%",
-      "onboard_time": 1729150461,
-      "rank": 44,
-      "category": "国内时政"
+      "raw_hot": 261009,
+      "num": 261009,
+      "word": "母女家中养超20只猫恶臭扰邻",
+      "onboard_time": 1729153043,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 258560,
@@ -843,6 +867,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 252426,
+      "num": 252426,
+      "word": "刺痛 帅哥你谁",
+      "onboard_time": 1729153102,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 247509,
       "num": 247509,
       "word": "京东互助",
@@ -865,6 +897,14 @@
       "onboard_time": 1729138346,
       "rank": 29,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 233880,
+      "num": 233880,
+      "word": "樊振东vs刘家良",
+      "onboard_time": 1729154121,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 233311,
@@ -947,20 +987,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 215677,
-      "num": 215677,
-      "word": "母女家中养超20只猫恶臭扰邻",
-      "onboard_time": 1729153043,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 215486,
       "num": 191905,
       "word": "杨幂同款loopy",
       "onboard_time": 1729149021,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 214437,
+      "num": 214437,
+      "word": "大量画师出走推特",
+      "onboard_time": 1729153701,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 213415,
@@ -1027,6 +1067,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 208156,
+      "num": 208156,
+      "word": "张小斐 露腰扭live",
+      "onboard_time": 1729153582,
+      "rank": 49,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 207303,
       "num": 207303,
       "word": "国企回应登报喊离岗员工返回上班",
@@ -1041,14 +1089,6 @@
       "onboard_time": 1729148481,
       "rank": 31,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 205466,
-      "num": 205466,
-      "word": "刺痛 帅哥你谁",
-      "onboard_time": 1729153102,
-      "rank": 39,
-      "category": "电竞"
     },
     {
       "raw_hot": 204452,
@@ -1091,11 +1131,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 201627,
+      "num": 201627,
+      "word": "推特无条件使用图片AI训练",
+      "onboard_time": 1729153701,
+      "rank": 48,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 201270,
       "num": 201270,
       "word": "现在就出发2全员旅行宣言",
       "onboard_time": 1729138105,
       "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 200754,
+      "num": 200754,
+      "word": "留几手",
+      "onboard_time": 1729154420,
+      "rank": 42,
       "category": "综艺"
     },
     {
@@ -1219,6 +1275,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 185969,
+      "num": 185969,
+      "word": "中方回应朝鲜将韩国定义为敌对国家",
+      "onboard_time": 1729154420,
+      "rank": 47,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 185490,
       "num": 185490,
       "word": "邱泽身上有陈铭生的破碎感",
@@ -1243,20 +1307,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 183386,
-      "num": 183386,
-      "word": "大量画师出走推特",
-      "onboard_time": 1729153701,
-      "rank": 47,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 181441,
       "num": 181441,
       "word": "郑号锡退伍",
       "onboard_time": 1729125501,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 181285,
+      "num": 261822,
+      "word": "小英送养孩子实属民间送养不构成犯罪",
+      "onboard_time": 1729154541,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 179728,
@@ -1379,14 +1443,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 165563,
-      "num": 165563,
-      "word": "推特无条件使用图片AI训练",
-      "onboard_time": 1729153701,
-      "rank": 48,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 164281,
       "num": 164281,
       "word": "房地产市场出现积极的变化",
@@ -1417,14 +1473,6 @@
       "onboard_time": 1729130841,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 160828,
-      "num": 160828,
-      "word": "张小斐 露腰扭live",
-      "onboard_time": 1729153582,
-      "rank": 49,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 160173,
@@ -1739,6 +1787,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 103005,
+      "num": 324264,
+      "word": "骗子针对海外留学生实施连环诈",
+      "onboard_time": 1729154241,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 100322,
       "num": 145852,
       "word": "老人被困泥潭救了又被救",
@@ -1891,6 +1947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 61259,
+      "num": 366744,
+      "word": "住院率破20%将怎样影响医保资金",
+      "onboard_time": 1729152561,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 60749,
       "num": 60180,
       "word": "cos黄磊老师做豆角",
@@ -1920,6 +1984,14 @@
       "word": "今年底让450万新市民住进保障房",
       "onboard_time": 1729141524,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 57108,
+      "num": 361380,
+      "word": "多方回应村干部开车逆行撞人仍在职",
+      "onboard_time": 1729152682,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -1995,14 +2067,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 44113,
-      "num": 361380,
-      "word": "多方回应村干部开车逆行撞人仍在职",
-      "onboard_time": 1729152682,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 42921,
       "num": 359238,
       "word": "禾伙人原创50人合唱",
@@ -2024,14 +2088,6 @@
       "word": "多省探索农村秸秆限时焚烧",
       "onboard_time": 1729144521,
       "rank": 44,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 40618,
-      "num": 366744,
-      "word": "住院率破20%将怎样影响医保资金",
-      "onboard_time": 1729152561,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -2083,11 +2139,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 33300,
+      "num": 362672,
+      "word": "沈腾问自己就非得演喜剧吗",
+      "onboard_time": 1729153401,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 32631,
       "num": 1076513,
       "word": "我国三大谷物保持平稳态势",
       "onboard_time": 1729144461,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 29982,
+      "num": 371231,
+      "word": "警惕AIGC数据污染稀释人类原创",
+      "onboard_time": 1729152382,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -2176,14 +2248,6 @@
       "word": "女主播奔现榜一大哥实为离异待业男",
       "onboard_time": 1729106112,
       "rank": 43,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 19838,
-      "num": 371231,
-      "word": "警惕AIGC数据污染稀释人类原创",
-      "onboard_time": 1729152382,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -2281,14 +2345,6 @@
       "onboard_time": 1729084701,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 9603,
-      "num": 362672,
-      "word": "沈腾问自己就非得演喜剧吗",
-      "onboard_time": 1729153401,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 8300,

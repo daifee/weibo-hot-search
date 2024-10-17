@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/10/01 00:28:17 ~ 2024/10/17 16:28:54
+本榜单时间：2024/10/01 00:28:17 ~ 2024/10/17 16:42:42
 </p>
 </blockquote>
 <p>
@@ -1871,6 +1871,12 @@ A股开盘近5000只个股下跌（热度：1242137）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%91%A3%E5%AE%87%E8%BE%89%E5%9B%9E%E5%BA%94%E7%9B%B4%E6%92%AD%E7%BF%BB%E8%BD%A6%23" target="weibo">
 董宇辉回应直播翻车（热度：1232533）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E8%B6%85%E9%95%BF%E9%BA%BB%E8%8A%B1%E8%BE%AB%23" target="weibo">
+赵露思超长麻花辫（热度：1229624）
 </a>
 </li>
 
@@ -3933,6 +3939,12 @@ SpaceX首次回收星舰成功（热度：798348）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E4%B8%89%E8%AF%AD%E6%96%87%E8%80%81%E5%B8%88%E7%AA%81%E5%8F%91%E7%96%BE%E7%97%85%E5%8F%8C%E7%9C%BC%E5%A4%B1%E6%98%8E%23" target="weibo">
+高三语文老师突发疾病双眼失明（热度：793980）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%98%E5%AE%8C%E9%A4%90%E5%85%B7%E8%B4%B9%E5%8F%AF%E4%BB%A5%E5%B8%A6%E8%B5%B0%E9%A4%90%E5%85%B7%E5%90%97%23" target="weibo">
 付完餐具费可以带走餐具吗（热度：793650）
 </a>
@@ -4419,6 +4431,12 @@ HPV疫苗已降到20多元1支（热度：747235）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%20%E8%A2%AB%E7%90%83%E7%90%83%E8%A2%AD%E5%87%BB%E4%BA%86%23" target="weibo">
+樊振东 被球球袭击了（热度：741244）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%8E%E5%B7%B4%E5%AB%A9%E4%BA%BA%E8%AF%B4%E9%A5%BF%E6%AD%BB%E4%B9%9F%E4%B8%8D%E6%84%BF%E6%AD%BB%E5%9C%A8%E4%BB%A5%E5%86%9B%E6%89%8B%E4%B8%AD%23" target="weibo">
 黎巴嫩人说饿死也不愿死在以军手中（热度：740214）
 </a>
@@ -4565,12 +4583,6 @@ SM确认洪承汉不退团（热度：728564）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E9%BE%99%E6%8E%92%E5%90%8D%23" target="weibo">
 马龙排名（热度：724282）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E8%B6%85%E9%95%BF%E9%BA%BB%E8%8A%B1%E8%BE%AB%23" target="weibo">
-赵露思超长麻花辫（热度：722394）
 </a>
 </li>
 
@@ -5325,6 +5337,12 @@ B太回应曾夸东北雨姐真实（热度：649327）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BE%9A%E4%BF%8A%20%E5%86%85%E5%A8%B1%E8%8A%B1%E8%9D%B4%E8%9D%B6%23" target="weibo">
+龚俊 内娱花蝴蝶（热度：642383）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%96%AF%E6%8B%89%E5%B8%82%E5%80%BC%E4%B8%80%E5%A4%9C%E8%92%B8%E5%8F%91%E8%B6%854700%E4%BA%BF%23" target="weibo">
 特斯拉市值一夜蒸发超4700亿（热度：642305）
 </a>
@@ -5993,24 +6011,6 @@ GEN战胜WBG（热度：588542）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8B%8D%E5%BC%80%E5%9B%BD%E5%A4%A7%E5%85%B8%E6%97%B6%E6%91%84%E5%BD%B1%E5%B8%88%E8%A2%AB%E6%80%BB%E7%90%86%E7%B4%A7%E7%B4%A7%E6%8A%93%E4%BD%8F%23" target="weibo">
 拍开国大典时摄影师被总理紧紧抓住（热度：583774）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%A9%98%E6%9C%B5%20%E5%88%98%E6%B5%A9%E5%AD%98%23" target="weibo">
-橘朵 刘浩存（热度：583762）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E4%BA%BA%E4%BA%BA%E4%BA%BA%E8%BF%94%E7%A8%8B%E4%BA%BA%E4%BA%BA%E4%BA%BA%E4%BA%BA%23" target="weibo">
-人人人人返程人人人人（热度：583436）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E8%AF%B4%E8%BE%93%E7%BB%99%E8%B4%B9%E5%BE%B7%E5%8B%92%E4%B8%8D%E4%B8%A2%E4%BA%BA%23" target="weibo">
-樊振东说输给费德勒不丢人（热度：583418）
 </a>
 </li>
 
