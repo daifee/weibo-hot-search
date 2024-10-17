@@ -1,6 +1,6 @@
 {
   "startTime": 1729096028716,
-  "endTime": 1729174898197,
+  "endTime": 1729175966714,
   "band_list": [
     {
       "raw_hot": 3993999,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 2272427,
-      "num": 839641,
+      "num": 1864952,
       "word": "倪妮拿到了杨幂的绣球",
       "onboard_time": 1729172062,
       "rank": 3,
@@ -57,6 +57,14 @@
       "onboard_time": 1729141403,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1876157,
+      "num": 1876157,
+      "word": "哈马斯领导人辛瓦尔已被击毙",
+      "onboard_time": 1729173804,
+      "rank": 1,
+      "category": "国外时政"
     },
     {
       "raw_hot": 1669216,
@@ -147,6 +155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1311474,
+      "num": 585072,
+      "word": "VOGUE晚宴",
+      "onboard_time": 1729173142,
+      "rank": 6,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1300331,
       "num": 1300331,
       "word": "山西午睡文化不分时间地点物种",
@@ -211,27 +227,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1155374,
-      "num": 1155374,
-      "word": "哈马斯领导人辛瓦尔已被击毙",
-      "onboard_time": 1729173804,
-      "rank": 1,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 1155149,
       "num": 621362,
       "word": "王一博 起猛了",
       "onboard_time": 1729163842,
       "rank": 46,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1131498,
-      "num": 585072,
-      "word": "VOGUE晚宴",
-      "onboard_time": 1729173142,
-      "rank": 6,
       "category": "作品衍生"
     },
     {
@@ -307,6 +307,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 925119,
+      "num": 925119,
+      "word": "小英称牛因生了小牛且生病才瘦",
+      "onboard_time": 1729169723,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 902117,
       "num": 492538,
       "word": "杨幂给小糯米买玩偶",
@@ -363,6 +371,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 855419,
+      "num": 496832,
+      "word": "赵露思飞吻",
+      "onboard_time": 1729170803,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 847692,
       "num": 417573,
       "word": "田曦薇红毯",
@@ -393,14 +409,6 @@
       "onboard_time": 1729086861,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 817098,
-      "num": 450344,
-      "word": "赵露思飞吻",
-      "onboard_time": 1729170803,
-      "rank": 32,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 811094,
@@ -491,6 +499,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 761072,
+      "num": 377648,
+      "word": "毕业生举报高校女教师与其恋爱出轨",
+      "onboard_time": 1729173563,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 753054,
       "num": 473981,
       "word": "张艺兴替保安道歉",
@@ -561,14 +577,6 @@
       "onboard_time": 1729149321,
       "rank": 4,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 693568,
-      "num": 693568,
-      "word": "小英称牛因生了小牛且生病才瘦",
-      "onboard_time": 1729169723,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 690137,
@@ -987,14 +995,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 377648,
-      "num": 377648,
-      "word": "毕业生举报高校女教师与其恋爱出轨",
-      "onboard_time": 1729173563,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 376159,
       "num": 376159,
       "word": "女子摔倒鲨鱼夹碎裂扎入头部",
@@ -1059,6 +1059,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 334058,
+      "num": 404782,
+      "word": "魏大勋 飘带你好坏",
+      "onboard_time": 1729171282,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 332378,
       "num": 332378,
       "word": "檀健次跳舞出场",
@@ -1113,6 +1121,14 @@
       "onboard_time": 1729132882,
       "rank": 16,
       "category": "电影"
+    },
+    {
+      "raw_hot": 311785,
+      "num": 281137,
+      "word": "UNIQ TFBOYS前辈挺可爱的",
+      "onboard_time": 1729172783,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 309314,
@@ -1179,14 +1195,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 296942,
-      "num": 404782,
-      "word": "魏大勋 飘带你好坏",
-      "onboard_time": 1729171282,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 295066,
       "num": 494341,
       "word": "房地产白名单项目信贷增加到4万亿",
@@ -1209,6 +1217,14 @@
       "onboard_time": 1729162102,
       "rank": 18,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 290259,
+      "num": 290259,
+      "word": "老人花40万在直播间买了堆塑料",
+      "onboard_time": 1729174823,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 287833,
@@ -1507,6 +1523,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 223654,
+      "num": 223654,
+      "word": "黎姿状态",
+      "onboard_time": 1729175243,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 223587,
       "num": 223587,
       "word": "LPL提前锁定S14四强",
@@ -1699,6 +1723,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 203785,
+      "num": 298577,
+      "word": "刘亦菲杨幂刘诗诗倪妮同场走秀",
+      "onboard_time": 1729175123,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 203627,
       "num": 203627,
       "word": "法拉利F80",
@@ -1827,6 +1859,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 195792,
+      "num": 195792,
+      "word": "其实最累的状态就是持续犹豫",
+      "onboard_time": 1729172783,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 195155,
       "num": 195155,
       "word": "肖战蓝色冰川高珠",
@@ -1857,6 +1897,14 @@
       "onboard_time": 1729174343,
       "rank": 42,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 192759,
+      "num": 192759,
+      "word": "女生称遭平台自动扣费22个月",
+      "onboard_time": 1729175363,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 192181,
@@ -1913,14 +1961,6 @@
       "onboard_time": 1729136484,
       "rank": 41,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 190314,
-      "num": 168666,
-      "word": "UNIQ TFBOYS前辈挺可爱的",
-      "onboard_time": 1729172783,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 189366,
@@ -2001,6 +2041,14 @@
       "onboard_time": 1729125501,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 180555,
+      "num": 324098,
+      "word": "以称正核实是否打死哈马斯领导人辛瓦尔",
+      "onboard_time": 1729175602,
+      "rank": 14,
+      "category": "国外时政"
     },
     {
       "raw_hot": 180198,
@@ -2123,6 +2171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 168908,
+      "num": 464006,
+      "word": "我儿子在战斗的时候勇不勇敢",
+      "onboard_time": 1729173384,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 168627,
       "num": 168627,
       "word": "双城之战2剧情预告",
@@ -2241,14 +2297,6 @@
       "onboard_time": 1729135644,
       "rank": 43,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 155081,
-      "num": 155081,
-      "word": "其实最累的状态就是持续犹豫",
-      "onboard_time": 1729172783,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 152860,
@@ -2411,6 +2459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 135027,
+      "num": 193506,
+      "word": "120秒梳理网红小英被曝塌房事件",
+      "onboard_time": 1729175302,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 133871,
       "num": 133871,
       "word": "樊振东和球迷挥手",
@@ -2537,14 +2593,6 @@
       "onboard_time": 1729129759,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 113878,
-      "num": 464006,
-      "word": "我儿子在战斗的时候勇不勇敢",
-      "onboard_time": 1729173384,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 113495,
@@ -2827,6 +2875,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 67069,
+      "num": 406760,
+      "word": "是教材就没必要额外收费",
+      "onboard_time": 1729173924,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 65973,
       "num": 184503,
       "word": "成都拆迁地图里的项目并非近期集中产生",
@@ -2995,6 +3051,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 42421,
+      "num": 411871,
+      "word": "厌食症逐渐低龄化最小患者7岁",
+      "onboard_time": 1729174043,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 42073,
       "num": 202156,
       "word": "四维图新",
@@ -3027,11 +3091,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 41501,
-      "num": 406760,
-      "word": "是教材就没必要额外收费",
-      "onboard_time": 1729173924,
-      "rank": 19,
+      "raw_hot": 40314,
+      "num": 433742,
+      "word": "男子反映换残疾证评审收费800多",
+      "onboard_time": 1729174102,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -3056,6 +3120,14 @@
       "word": "女子为博流量虚构寻人启事被罚",
       "onboard_time": 1729170444,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 38315,
+      "num": 1867551,
+      "word": "美好新疆",
+      "onboard_time": 1729174284,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -3147,14 +3219,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 30476,
-      "num": 433742,
-      "word": "男子反映换残疾证评审收费800多",
-      "onboard_time": 1729174102,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 29982,
       "num": 371231,
       "word": "警惕AIGC数据污染稀释人类原创",
@@ -3179,14 +3243,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 28285,
-      "num": 411871,
-      "word": "厌食症逐渐低龄化最小患者7岁",
-      "onboard_time": 1729174043,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 27847,
       "num": 297910,
       "word": "团伙假招志愿者盗公民信息获利50万",
@@ -3204,7 +3260,7 @@
     },
     {
       "raw_hot": 27231,
-      "num": 212658,
+      "num": 279585,
       "word": "珀莱雅修护新思路",
       "onboard_time": 1729174043,
       "rank": 37,
@@ -3249,14 +3305,6 @@
       "onboard_time": 1729143683,
       "rank": 15,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 24395,
-      "num": 906901,
-      "word": "美好新疆",
-      "onboard_time": 1729174284,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 23705,
@@ -3313,6 +3361,14 @@
       "onboard_time": 1729167021,
       "rank": 34,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 18680,
+      "num": 330280,
+      "word": "雍禾植发收院长手术费却由主任操刀",
+      "onboard_time": 1729175602,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 17370,
