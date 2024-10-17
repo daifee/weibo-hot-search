@@ -1,6 +1,6 @@
 {
   "startTime": 1728750414717,
-  "endTime": 1729164928126,
+  "endTime": 1729168979514,
   "band_list": [
     {
       "raw_hot": 17915004,
@@ -209,6 +209,14 @@
       "onboard_time": 1728979160,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2466480,
+      "num": 2466480,
+      "word": "VOGUE走秀",
+      "onboard_time": 1729165161,
+      "rank": 0,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 2464830,
@@ -1012,7 +1020,7 @@
     },
     {
       "raw_hot": 1229624,
-      "num": 488887,
+      "num": 543752,
       "word": "赵露思超长麻花辫",
       "onboard_time": 1729152801,
       "rank": 12,
@@ -1129,6 +1137,14 @@
       "onboard_time": 1729003701,
       "rank": 3,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1155149,
+      "num": 580175,
+      "word": "王一博 起猛了",
+      "onboard_time": 1729163842,
+      "rank": 46,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1150650,
@@ -1387,6 +1403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 979449,
+      "num": 979449,
+      "word": "樊振东说不存在恢复",
+      "onboard_time": 1729164981,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 974639,
       "num": 493499,
       "word": "山东一市监所所长被刺身亡",
@@ -1475,6 +1499,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 945361,
+      "num": 544861,
+      "word": "田曦薇蹦蹦跳跳走秀",
+      "onboard_time": 1729166540,
+      "rank": 6,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 938525,
       "num": 363021,
       "word": "爸爸跑步留老大照顾老二结果都丢了",
@@ -1505,14 +1537,6 @@
       "onboard_time": 1728743363,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 928804,
-      "num": 407164,
-      "word": "王一博 起猛了",
-      "onboard_time": 1729163842,
-      "rank": 46,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 925626,
@@ -1724,7 +1748,7 @@
     },
     {
       "raw_hot": 834061,
-      "num": 520422,
+      "num": 552169,
       "word": "国企员工擅自离岗16年丈夫发声",
       "onboard_time": 1729160061,
       "rank": 34,
@@ -1793,6 +1817,14 @@
       "onboard_time": 1728963679,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 823328,
+      "num": 544761,
+      "word": "周也裙子变装",
+      "onboard_time": 1729167921,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 822478,
@@ -2009,6 +2041,14 @@
       "onboard_time": 1728814280,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 783169,
+      "num": 318879,
+      "word": "小英回应经济状况",
+      "onboard_time": 1729161381,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 781272,
@@ -2233,6 +2273,14 @@
       "onboard_time": 1729078699,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 718671,
+      "num": 544850,
+      "word": "杨幂 狐塑",
+      "onboard_time": 1729165340,
+      "rank": 7,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 718648,
@@ -2931,6 +2979,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 544884,
+      "num": 544884,
+      "word": "2024年度最大超级月亮今晚登场",
+      "onboard_time": 1729163963,
+      "rank": 13,
+      "category": "自然"
+    },
+    {
+      "raw_hot": 544735,
+      "num": 544735,
+      "word": "月亮",
+      "onboard_time": 1729158983,
+      "rank": 23,
+      "category": "自然"
+    },
+    {
       "raw_hot": 544372,
       "num": 544372,
       "word": "赖美云淘汰",
@@ -3035,6 +3099,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 528214,
+      "num": 528214,
+      "word": "刘诗诗面纱live",
+      "onboard_time": 1729164021,
+      "rank": 5,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 527850,
       "num": 629846,
       "word": "杨迪看中医90秒被吓到5次",
@@ -3081,6 +3153,14 @@
       "onboard_time": 1729086921,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 516364,
+      "num": 516364,
+      "word": "娜然 仿生机械姬",
+      "onboard_time": 1729167802,
+      "rank": 16,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 516039,
@@ -3385,14 +3465,6 @@
       "onboard_time": 1729137926,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 474454,
-      "num": 474454,
-      "word": "月亮",
-      "onboard_time": 1729158983,
-      "rank": 23,
-      "category": "自然"
     },
     {
       "raw_hot": 473128,
@@ -3723,6 +3795,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 419720,
+      "num": 300062,
+      "word": "何猷君奚梦瑶红毯牵手",
+      "onboard_time": 1729166182,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 419457,
       "num": 419457,
       "word": "郑秀妍郑秀晶黄礼志申有娜新闻图",
@@ -3777,14 +3857,6 @@
       "onboard_time": 1729065620,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 413202,
-      "num": 413202,
-      "word": "刘诗诗面纱live",
-      "onboard_time": 1729164021,
-      "rank": 5,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 412321,
@@ -5107,6 +5179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 282836,
+      "num": 282836,
+      "word": "金晨穿雨衣走秀",
+      "onboard_time": 1729168521,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 282653,
       "num": 471928,
       "word": "100岁姐姐与94岁妹妹的极限拉扯",
@@ -5827,6 +5907,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 245345,
+      "num": 544796,
+      "word": "意大利将海外代孕入刑",
+      "onboard_time": 1729165761,
+      "rank": 9,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 245326,
       "num": 245326,
       "word": "南宁2名11岁女孩失联",
@@ -5929,6 +6017,14 @@
       "onboard_time": 1728832281,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 240920,
+      "num": 240920,
+      "word": "黄景瑜 搞得和真的似的",
+      "onboard_time": 1729165820,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 240302,
@@ -6283,6 +6379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 224882,
+      "num": 224882,
+      "word": "Jennie初一位",
+      "onboard_time": 1729168281,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 224606,
       "num": 452677,
       "word": "男子中48888元记者通知领奖被怼",
@@ -6449,14 +6553,6 @@
       "onboard_time": 1729050919,
       "rank": 39,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 219143,
-      "num": 219143,
-      "word": "小英回应经济状况",
-      "onboard_time": 1729161381,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 218990,
@@ -7251,6 +7347,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 202461,
+      "num": 202461,
+      "word": "王鹤棣 小狗包",
+      "onboard_time": 1729168581,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 202322,
       "num": 231987,
       "word": "奔跑吧茶马古道教科书式官宣",
@@ -7761,6 +7865,14 @@
       "onboard_time": 1728794719,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 194408,
+      "num": 194408,
+      "word": "微博竞燃之夜投票",
+      "onboard_time": 1729164502,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 194359,
@@ -8795,6 +8907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 174992,
+      "num": 174992,
+      "word": "女明星都好美",
+      "onboard_time": 1729166841,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 174802,
       "num": 174802,
       "word": "准大学生火车遇带娃妈妈让座被婉拒",
@@ -9187,6 +9307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 166671,
+      "num": 166671,
+      "word": "娜扎 吸血鬼女王",
+      "onboard_time": 1729168699,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 166601,
       "num": 166601,
       "word": "逆水寒手游bug",
@@ -9403,6 +9531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 162676,
+      "num": 162676,
+      "word": "朱志鑫smoke舞蹈Cover",
+      "onboard_time": 1729168101,
+      "rank": 46,
+      "category": "音乐,艺人"
+    },
+    {
       "raw_hot": 162321,
       "num": 286173,
       "word": "我国成功发射千帆极轨02组卫星",
@@ -9441,6 +9577,14 @@
       "onboard_time": 1729136425,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 161969,
+      "num": 161969,
+      "word": "杨天真带着付款码来了",
+      "onboard_time": 1729168941,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 161867,
@@ -10123,14 +10267,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 146313,
-      "num": 146313,
-      "word": "微博竞燃之夜投票",
-      "onboard_time": 1729164502,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 146075,
       "num": 146075,
       "word": "周震南说张真源的镜太猛了",
@@ -10569,6 +10705,14 @@
       "onboard_time": 1728744622,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 136147,
+      "num": 405027,
+      "word": "上海迪士尼就阻拦游客带扑克牌道歉",
+      "onboard_time": 1729163001,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 136131,
@@ -11691,12 +11835,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 99884,
-      "num": 405027,
-      "word": "上海迪士尼就阻拦游客带扑克牌道歉",
-      "onboard_time": 1729163001,
-      "rank": 9,
-      "category": "社会新闻"
+      "raw_hot": 99661,
+      "num": 544824,
+      "word": "我拍了拍月亮",
+      "onboard_time": 1729168221,
+      "rank": 8,
+      "category": "自然"
     },
     {
       "raw_hot": 99657,
@@ -11833,6 +11977,14 @@
       "onboard_time": 1728814939,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 92281,
+      "num": 282691,
+      "word": "女子被造谣十万彩礼做女友之后",
+      "onboard_time": 1729167021,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 92116,
@@ -12065,14 +12217,6 @@
       "onboard_time": 1728783318,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 85150,
-      "num": 398620,
-      "word": "2024年度最大超级月亮今晚登场",
-      "onboard_time": 1729163963,
-      "rank": 13,
-      "category": "自然"
     },
     {
       "raw_hot": 85136,
@@ -13563,6 +13707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 41640,
+      "num": 282704,
+      "word": "智力异常男子离开福利院出事故身亡",
+      "onboard_time": 1729167081,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 41571,
       "num": 41571,
       "word": "问界新M5智驾未紧急制动撞死11只羊",
@@ -13633,6 +13785,14 @@
       "onboard_time": 1728963498,
       "rank": 45,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 39902,
+      "num": 544756,
+      "word": "潘展乐实力演绎00后老师上岗",
+      "onboard_time": 1729166902,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 39373,
@@ -14475,6 +14635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 24986,
+      "num": 395847,
+      "word": "利亚姆佩恩生前居住房间",
+      "onboard_time": 1729167921,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 24862,
       "num": 470094,
       "word": "对极氪MIX的期待拉满了",
@@ -14809,6 +14977,14 @@
       "onboard_time": 1729111812,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 19022,
+      "num": 241434,
+      "word": "人头马解锁社交新玩法",
+      "onboard_time": 1729167021,
+      "rank": 34,
+      "category": "时尚"
     },
     {
       "raw_hot": 18901,
