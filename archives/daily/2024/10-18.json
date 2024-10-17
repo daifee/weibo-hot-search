@@ -1,6 +1,6 @@
 {
   "startTime": 1729182564055,
-  "endTime": 1729200107689,
+  "endTime": 1729200977356,
   "band_list": [
     {
       "raw_hot": 2689271,
@@ -315,6 +315,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 126761,
+      "num": 126761,
+      "word": "离岗16年员工丈夫称公司未通知上班",
+      "onboard_time": 1729195991,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 124705,
       "num": 191456,
       "word": "她是第一位穿越蘑菇云取样的女飞",
@@ -411,14 +419,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 104469,
-      "num": 104469,
-      "word": "离岗16年员工丈夫称公司未通知上班",
-      "onboard_time": 1729195991,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 100671,
       "num": 138486,
       "word": "snowman",
@@ -491,12 +491,20 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 58522,
-      "num": 45709,
+      "raw_hot": 60525,
+      "num": 50190,
       "word": "网红小虎行账号已被封",
       "onboard_time": 1729192213,
       "rank": 41,
       "category": "网红"
+    },
+    {
+      "raw_hot": 58304,
+      "num": 39207,
+      "word": "留几手说杨子蹭了黄圣依不少流量",
+      "onboard_time": 1729194910,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 58023,
@@ -505,14 +513,6 @@
       "onboard_time": 1729178841,
       "rank": 49,
       "category": "财经"
-    },
-    {
-      "raw_hot": 52660,
-      "num": 30324,
-      "word": "留几手说杨子蹭了黄圣依不少流量",
-      "onboard_time": 1729194910,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 52209,
@@ -579,6 +579,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 27027,
+      "num": 27027,
+      "word": "高校回应女教师被曝出轨及学术造假",
+      "onboard_time": 1729197551,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 24632,
+      "num": 30329,
+      "word": "公司回应有人离岗长达16年",
+      "onboard_time": 1729198572,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 23422,
       "num": 23422,
       "word": "檀健次头纱造型",
@@ -587,11 +603,11 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 22844,
-      "num": 22844,
-      "word": "高校回应女教师被曝出轨及学术造假",
-      "onboard_time": 1729197551,
-      "rank": 25,
+      "raw_hot": 22655,
+      "num": 30483,
+      "word": "警方通报4人造谣成都天价拆迁",
+      "onboard_time": 1729198092,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -601,14 +617,6 @@
       "onboard_time": 1729191012,
       "rank": 13,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 20807,
-      "num": 30483,
-      "word": "警方通报4人造谣成都天价拆迁",
-      "onboard_time": 1729198092,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 15759,
@@ -627,19 +635,27 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 15330,
-      "num": 30329,
-      "word": "公司回应有人离岗长达16年",
-      "onboard_time": 1729198572,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 15064,
       "num": 29671,
       "word": "没下过河的民警毫不犹豫跳河救人",
       "onboard_time": 1729192572,
       "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 11566,
+      "num": 22691,
+      "word": "上海第二套改善型住房最低首付比例25%",
+      "onboard_time": 1729200911,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 11305,
+      "num": 50285,
+      "word": "地产市场4取消4降低2增加",
+      "onboard_time": 1729200491,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
