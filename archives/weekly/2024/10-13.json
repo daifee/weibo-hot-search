@@ -1,6 +1,6 @@
 {
   "startTime": 1728750414717,
-  "endTime": 1729157895235,
+  "endTime": 1729160611888,
   "band_list": [
     {
       "raw_hot": 17915004,
@@ -65,6 +65,14 @@
       "onboard_time": 1728965419,
       "rank": 1,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 3127370,
+      "num": 3127370,
+      "word": "VOGUE红毯",
+      "onboard_time": 1729157721,
+      "rank": 6,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 3069532,
@@ -513,6 +521,14 @@
       "onboard_time": 1728919162,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1635764,
+      "num": 558164,
+      "word": "刘亦菲梦回白秀珠",
+      "onboard_time": 1729158200,
+      "rank": 3,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1634687,
@@ -971,6 +987,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1235493,
+      "num": 483026,
+      "word": "双胞胎宝妈又怀上三胞胎称有压力",
+      "onboard_time": 1729154962,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1234467,
       "num": 1227078,
       "word": "听泉鉴宝称从未说过自己是北大的",
@@ -995,6 +1019,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1215871,
+      "num": 730020,
+      "word": "中方回应朝鲜将韩国定义为敌对国家",
+      "onboard_time": 1729154420,
+      "rank": 47,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1215798,
       "num": 1215798,
       "word": "上海爷叔现身被大量股民围观",
@@ -1017,14 +1049,6 @@
       "onboard_time": 1728786258,
       "rank": 3,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 1210205,
-      "num": 730020,
-      "word": "中方回应朝鲜将韩国定义为敌对国家",
-      "onboard_time": 1729154420,
-      "rank": 47,
-      "category": "国内时政"
     },
     {
       "raw_hot": 1208173,
@@ -1448,14 +1472,6 @@
       "word": "爸爸跑步留老大照顾老二结果都丢了",
       "onboard_time": 1728787819,
       "rank": 18,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 935869,
-      "num": 483026,
-      "word": "双胞胎宝妈又怀上三胞胎称有压力",
-      "onboard_time": 1729154962,
-      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -2243,6 +2259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 698918,
+      "num": 698918,
+      "word": "小英送养孩子实属民间送养不构成犯罪",
+      "onboard_time": 1729154541,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 697587,
       "num": 697587,
       "word": "国考",
@@ -2579,14 +2603,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 616539,
-      "num": 616539,
-      "word": "VOGUE红毯",
-      "onboard_time": 1729157721,
-      "rank": 6,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 615684,
       "num": 615684,
       "word": "河南一县城周边发现近2000头野猪",
@@ -2857,14 +2873,6 @@
       "onboard_time": 1729035438,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 552485,
-      "num": 552485,
-      "word": "小英送养孩子实属民间送养不构成犯罪",
-      "onboard_time": 1729154541,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 549381,
@@ -3289,6 +3297,14 @@
       "onboard_time": 1729139245,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 477824,
+      "num": 412396,
+      "word": "毒液模仿向佐",
+      "onboard_time": 1729159280,
+      "rank": 16,
+      "category": "电影"
     },
     {
       "raw_hot": 477253,
@@ -3747,6 +3763,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 407277,
+      "num": 407277,
+      "word": "主播称遭追杀让粉丝买下文物先保管",
+      "onboard_time": 1729158861,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 407183,
       "num": 452072,
       "word": "SM台历",
@@ -4057,6 +4081,14 @@
       "onboard_time": 1728873559,
       "rank": 25,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 360094,
+      "num": 360094,
+      "word": "吴谨言活动视频",
+      "onboard_time": 1729158320,
+      "rank": 21,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 359560,
@@ -4571,6 +4603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 308492,
+      "num": 308492,
+      "word": "月亮",
+      "onboard_time": 1729158983,
+      "rank": 23,
+      "category": "自然"
+    },
+    {
       "raw_hot": 305685,
       "num": 305685,
       "word": "成都拆迁地图发布方最新声明",
@@ -4585,6 +4625,14 @@
       "onboard_time": 1728786197,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 305239,
+      "num": 305239,
+      "word": "林高远vs黄友政",
+      "onboard_time": 1729158260,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 304933,
@@ -5235,6 +5283,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 267533,
+      "num": 267533,
+      "word": "山东威海一海滩发现甲午战争鱼雷",
+      "onboard_time": 1729159640,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 266868,
       "num": 266868,
       "word": "25地最低工资标准不低于2000元",
@@ -5433,6 +5489,14 @@
       "onboard_time": 1728991038,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 258626,
+      "num": 258626,
+      "word": "鞋 还回来吃饭吗",
+      "onboard_time": 1729157062,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 258560,
@@ -5993,6 +6057,14 @@
       "onboard_time": 1729134143,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 229824,
+      "num": 229824,
+      "word": "米卡 破布而出",
+      "onboard_time": 1729158861,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 229495,
@@ -6729,14 +6801,6 @@
       "onboard_time": 1729153582,
       "rank": 49,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 207814,
-      "num": 207814,
-      "word": "鞋 还回来吃饭吗",
-      "onboard_time": 1729157062,
-      "rank": 36,
-      "category": "幽默"
     },
     {
       "raw_hot": 207699,
@@ -7867,6 +7931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 189769,
+      "num": 219606,
+      "word": "VOGUE真假live图",
+      "onboard_time": 1729157959,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 189648,
       "num": 277354,
       "word": "任嘉伦简直是黄奕的阿拉丁神灯",
@@ -8505,6 +8577,14 @@
       "onboard_time": 1728912261,
       "rank": 42,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 176663,
+      "num": 176663,
+      "word": "国企员工擅自离岗16年丈夫发声",
+      "onboard_time": 1729160061,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 176462,
@@ -10131,6 +10211,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 140562,
+      "num": 140562,
+      "word": "丈夫护送妻子开车上班却被顶翻",
+      "onboard_time": 1729160122,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 140388,
       "num": 403911,
       "word": "翁青雅彭高甜度",
@@ -10209,6 +10297,14 @@
       "onboard_time": 1728794178,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 137984,
+      "num": 137984,
+      "word": "许嵩鸟巢抢票",
+      "onboard_time": 1729158441,
+      "rank": 42,
+      "category": "演出"
     },
     {
       "raw_hot": 137916,
@@ -10459,6 +10555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 128412,
+      "num": 128412,
+      "word": "张真源奔跑吧摇扇路透",
+      "onboard_time": 1729160540,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 128381,
       "num": 236219,
       "word": "记者调查东北雨姐事件始末",
@@ -10513,6 +10617,14 @@
       "onboard_time": 1728745462,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 127434,
+      "num": 127434,
+      "word": "齐迎世界杯飞碟多向金牌",
+      "onboard_time": 1729159820,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 127331,
@@ -12051,6 +12163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 72004,
+      "num": 414421,
+      "word": "三折叠怎么折都很妙",
+      "onboard_time": 1729157540,
+      "rank": 35,
+      "category": "数码"
+    },
+    {
       "raw_hot": 71249,
       "num": 422964,
       "word": "住建部称房地产市场已经开始筑底",
@@ -13571,6 +13691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 34259,
+      "num": 416426,
+      "word": "梁伟铿王昶vs卡尔南多毛拉纳",
+      "onboard_time": 1729160481,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 34222,
       "num": 172468,
       "word": "买东西的满足感预售给不了",
@@ -13745,14 +13873,6 @@
       "onboard_time": 1728976759,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 32115,
-      "num": 207999,
-      "word": "三折叠怎么折都很妙",
-      "onboard_time": 1729157540,
-      "rank": 35,
-      "category": "数码"
     },
     {
       "raw_hot": 31800,
@@ -14200,6 +14320,14 @@
       "word": "前村长被指盗信息为不明孩子落户",
       "onboard_time": 1728900800,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 23085,
+      "num": 424702,
+      "word": "支持为二孩家庭增加保障住房面积",
+      "onboard_time": 1729160000,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -14713,6 +14841,14 @@
       "onboard_time": 1729063939,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 11928,
+      "num": 152619,
+      "word": "汪涵的共情能力",
+      "onboard_time": 1729159401,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 11519,

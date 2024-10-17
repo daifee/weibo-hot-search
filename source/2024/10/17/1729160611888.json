@@ -1,0 +1,410 @@
+{
+  "runTime": 1729160611888,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3127370,
+        "num": 3127370,
+        "word": "VOGUE红毯",
+        "onboard_time": 1729157721,
+        "rank": 0,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 698918,
+        "num": 698918,
+        "word": "小英送养孩子实属民间送养不构成犯罪",
+        "onboard_time": 1729154541,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 17,
+        "num": 585195,
+        "word": "千年石窟 匠心传承",
+        "onboard_time": 1729156161,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1635764,
+        "num": 558164,
+        "word": "刘亦菲梦回白秀珠",
+        "onboard_time": 1729158200,
+        "rank": 3,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 1215871,
+        "num": 545919,
+        "word": "中方回应朝鲜将韩国定义为敌对国家",
+        "onboard_time": 1729154420,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 509627,
+        "num": 509627,
+        "word": "樊振东vs刘家良",
+        "onboard_time": 1729154121,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 854336,
+        "num": 468107,
+        "word": "杨幂又玩抽象了",
+        "onboard_time": 1729156462,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 696484,
+        "num": 463938,
+        "word": "黄圣依回应缺席浪姐排练",
+        "onboard_time": 1729157482,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 425710,
+        "num": 425710,
+        "word": "留学生遇电诈40天吃饭学习全程直播",
+        "onboard_time": 1729147821,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23085,
+        "num": 424702,
+        "word": "支持为二孩家庭增加保障住房面积",
+        "onboard_time": 1729160000,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1235493,
+        "num": 422768,
+        "word": "双胞胎宝妈又怀上三胞胎称有压力",
+        "onboard_time": 1729154962,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1012125,
+        "num": 420183,
+        "word": "韦雪拉黑秦奋",
+        "onboard_time": 1729155142,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 679707,
+        "num": 419621,
+        "word": "赵露思超长麻花辫",
+        "onboard_time": 1729152801,
+        "rank": 12,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 535207,
+        "num": 417246,
+        "word": "黄圣依杨子 2个人8人群",
+        "onboard_time": 1729141403,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 34259,
+        "num": 416426,
+        "word": "梁伟铿王昶vs卡尔南多毛拉纳",
+        "onboard_time": 1729160481,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 72004,
+        "num": 414421,
+        "word": "三折叠怎么折都很妙",
+        "onboard_time": 1729157540,
+        "rank": 15,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 477824,
+        "num": 412396,
+        "word": "毒液模仿向佐",
+        "onboard_time": 1729159280,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 471075,
+        "num": 410068,
+        "word": "夫妻分房睡会影响亲密关系吗",
+        "onboard_time": 1729152443,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 456359,
+        "num": 408507,
+        "word": "山东一市监所所长被刺身亡",
+        "onboard_time": 1729154121,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 407277,
+        "num": 407277,
+        "word": "主播称遭追杀让粉丝买下文物先保管",
+        "onboard_time": 1729158861,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1783037,
+        "num": 401918,
+        "word": "网红小英承认曾送养女孩",
+        "onboard_time": 1729154300,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 360094,
+        "num": 360094,
+        "word": "吴谨言活动视频",
+        "onboard_time": 1729158320,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 332565,
+        "num": 332565,
+        "word": "儿童文具胶带出现男性生殖器图案",
+        "onboard_time": 1729135462,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 308492,
+        "num": 308492,
+        "word": "月亮",
+        "onboard_time": 1729158983,
+        "rank": 23,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 305239,
+        "num": 305239,
+        "word": "林高远vs黄友政",
+        "onboard_time": 1729158260,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 267533,
+        "num": 267533,
+        "word": "山东威海一海滩发现甲午战争鱼雷",
+        "onboard_time": 1729159640,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258626,
+        "num": 258626,
+        "word": "鞋 还回来吃饭吗",
+        "onboard_time": 1729157062,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 250731,
+        "num": 250731,
+        "word": "樊振东 被球球袭击了",
+        "onboard_time": 1729152022,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 229824,
+        "num": 229824,
+        "word": "米卡 破布而出",
+        "onboard_time": 1729158861,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189769,
+        "num": 219606,
+        "word": "VOGUE真假live图",
+        "onboard_time": 1729157959,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 214502,
+        "num": 214502,
+        "word": "女生被奈良鹿戳破腿忍痛回国打针",
+        "onboard_time": 1729146741,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211563,
+        "num": 211563,
+        "word": "台禁止输入大陆产黄飞红花生",
+        "onboard_time": 1729135523,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187798,
+        "num": 187798,
+        "word": "龚俊上树",
+        "onboard_time": 1729156701,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186671,
+        "num": 186671,
+        "word": "留几手",
+        "onboard_time": 1729154420,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176663,
+        "num": 176663,
+        "word": "国企员工擅自离岗16年丈夫发声",
+        "onboard_time": 1729160061,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175355,
+        "num": 175355,
+        "word": "统一首套二套房贷最低首付比例到15%",
+        "onboard_time": 1729150461,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 165514,
+        "num": 165514,
+        "word": "母女家中养超20只猫恶臭扰邻",
+        "onboard_time": 1729153043,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152860,
+        "num": 152860,
+        "word": "春花焰",
+        "onboard_time": 1729160241,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 11928,
+        "num": 152619,
+        "word": "汪涵的共情能力",
+        "onboard_time": 1729159401,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152557,
+        "num": 152557,
+        "word": "关晓彤 VOGUE盛典造型",
+        "onboard_time": 1729150761,
+        "rank": 39,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 145432,
+        "num": 145432,
+        "word": "宋茜偷偷给侯明昊买小狐狸礼物",
+        "onboard_time": 1729154841,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140562,
+        "num": 140562,
+        "word": "丈夫护送妻子开车上班却被顶翻",
+        "onboard_time": 1729160122,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137984,
+        "num": 137984,
+        "word": "许嵩鸟巢抢票",
+        "onboard_time": 1729158441,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 136897,
+        "num": 136897,
+        "word": "官方回应小英送养孩子情况",
+        "onboard_time": 1729154782,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133548,
+        "num": 133548,
+        "word": "00后大学生中华血脉开始觉醒",
+        "onboard_time": 1729157002,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 129681,
+        "num": 129681,
+        "word": "陈好 我是赢家我不要",
+        "onboard_time": 1729146921,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129207,
+        "num": 129207,
+        "word": "沈梦辰模仿叶珂",
+        "onboard_time": 1729130540,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128480,
+        "num": 128480,
+        "word": "林允全身涂黑",
+        "onboard_time": 1729145482,
+        "rank": 47,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 128412,
+        "num": 128412,
+        "word": "张真源奔跑吧摇扇路透",
+        "onboard_time": 1729160540,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127434,
+        "num": 127434,
+        "word": "齐迎世界杯飞碟多向金牌",
+        "onboard_time": 1729159820,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#把丰碑立在人民群众心中#"
+    }
+  }
+}
