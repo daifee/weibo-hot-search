@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1729182564055,
+  "endTime": 1729183526244,
   "band_list": [
     {
       "raw_hot": 17915004,
@@ -14755,6 +14755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 325967,
+      "num": 325967,
+      "word": "救救GALA",
+      "onboard_time": 1729181479,
+      "rank": 15,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 325689,
       "num": 751734,
       "word": "ITZY完整体新歌MV",
@@ -15177,14 +15185,6 @@
       "onboard_time": 1728740124,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 312562,
-      "num": 312562,
-      "word": "救救GALA",
-      "onboard_time": 1729181479,
-      "rank": 15,
-      "category": "电竞"
     },
     {
       "raw_hot": 312482,
@@ -19307,6 +19307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 247650,
+      "num": 247650,
+      "word": "职工医保中断可以补缴吗",
+      "onboard_time": 1729180642,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 247580,
       "num": 247580,
       "word": "恋与深空 秦彻",
@@ -19811,6 +19819,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 240172,
+      "num": 240172,
+      "word": "孕妇2次到店借用厕所和店员起争执",
+      "onboard_time": 1729182378,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 240092,
       "num": 240092,
       "word": "受害儿童和家属希望法院严惩余华英",
@@ -19897,6 +19913,14 @@
       "onboard_time": 1728456138,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 239452,
+      "num": 239452,
+      "word": "Daeny表情",
+      "onboard_time": 1729183156,
+      "rank": 19,
+      "category": "电竞"
     },
     {
       "raw_hot": 239361,
@@ -27905,14 +27929,6 @@
       "onboard_time": 1728088399,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 180992,
-      "num": 180992,
-      "word": "职工医保中断可以补缴吗",
-      "onboard_time": 1729180642,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 180805,
@@ -36331,6 +36347,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 132142,
+      "num": 132142,
+      "word": "丹尼教练",
+      "onboard_time": 1729183276,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 132010,
       "num": 132010,
       "word": "霍思燕演这部剧的时候很爽吧",
@@ -38560,6 +38584,14 @@
       "word": "95后小伙翻墙跳水救人一气呵成",
       "onboard_time": 1728197598,
       "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 117555,
+      "num": 405746,
+      "word": "我就说没有大学生不会的吧",
+      "onboard_time": 1729182079,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -41675,6 +41707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 96090,
+      "num": 104125,
+      "word": "Crisp请神S9的自己",
+      "onboard_time": 1729183336,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 95939,
       "num": 201874,
       "word": "Jennie打破今年kpop女solo一位纪录",
@@ -41856,14 +41896,6 @@
       "word": "89岁奶奶写了数十万字敦煌舞笔记",
       "onboard_time": 1728108318,
       "rank": 11,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 94816,
-      "num": 138366,
-      "word": "孕妇2次到店借用厕所和店员起争执",
-      "onboard_time": 1729182378,
-      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -43969,14 +44001,6 @@
       "onboard_time": 1727699120,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 73716,
-      "num": 405746,
-      "word": "我就说没有大学生不会的吧",
-      "onboard_time": 1729182079,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 73678,
@@ -46344,6 +46368,14 @@
       "word": "国旗护卫队高唱祖国不会忘记",
       "onboard_time": 1727923758,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 50874,
+      "num": 295162,
+      "word": "爸爸花10元买了孩子一整天的快乐",
+      "onboard_time": 1729183276,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
