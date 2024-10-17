@@ -1,6 +1,6 @@
 {
   "startTime": 1729096028716,
-  "endTime": 1729147493686,
+  "endTime": 1729149705355,
   "band_list": [
     {
       "raw_hot": 2232538,
@@ -89,6 +89,14 @@
       "onboard_time": 1729124480,
       "rank": 11,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 1033570,
+      "num": 771278,
+      "word": "林允全身涂黑",
+      "onboard_time": 1729145482,
+      "rank": 18,
+      "category": "作品衍生,艺人"
     },
     {
       "raw_hot": 950291,
@@ -195,14 +203,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 771278,
-      "num": 771278,
-      "word": "林允全身涂黑",
-      "onboard_time": 1729145482,
-      "rank": 18,
-      "category": "作品衍生,艺人"
-    },
-    {
       "raw_hot": 753054,
       "num": 473981,
       "word": "张艺兴替保安道歉",
@@ -217,6 +217,14 @@
       "onboard_time": 1729136544,
       "rank": 44,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 710410,
+      "num": 710410,
+      "word": "黄晓明",
+      "onboard_time": 1729149321,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 690137,
@@ -275,6 +283,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 581090,
+      "num": 469358,
+      "word": "殷世航回应",
+      "onboard_time": 1729145961,
+      "rank": 24,
+      "category": "网红"
+    },
+    {
       "raw_hot": 569477,
       "num": 291645,
       "word": "女主播奔现榜一大哥同居被骗2万多",
@@ -288,6 +304,14 @@
       "word": "长沙自建房倒塌事故案一审宣判",
       "onboard_time": 1729137266,
       "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 541078,
+      "num": 541078,
+      "word": "德国驻华大使馆回应",
+      "onboard_time": 1729147580,
+      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -395,6 +419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 477247,
+      "num": 404798,
+      "word": "黄圣依说杨子最害怕失去钱",
+      "onboard_time": 1729148600,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 475240,
       "num": 475240,
       "word": "长沙自建房倒塌事故15人获刑",
@@ -409,14 +441,6 @@
       "onboard_time": 1729131020,
       "rank": 8,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 469358,
-      "num": 469358,
-      "word": "殷世航回应",
-      "onboard_time": 1729145961,
-      "rank": 24,
-      "category": "网红"
     },
     {
       "raw_hot": 443404,
@@ -483,6 +507,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 383728,
+      "num": 383728,
+      "word": "女生被奈良鹿戳破腿忍痛回国打针",
+      "onboard_time": 1729146741,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 381525,
+      "num": 381525,
+      "word": "陈好 我是赢家我不要",
+      "onboard_time": 1729146921,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 376159,
       "num": 376159,
       "word": "女子摔倒鲨鱼夹碎裂扎入头部",
@@ -507,6 +547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 372001,
+      "num": 372001,
+      "word": "A股",
+      "onboard_time": 1729148002,
+      "rank": 19,
+      "category": "财经"
+    },
+    {
       "raw_hot": 352401,
       "num": 323122,
       "word": "女子试妆后舍不得卸掉用相册收集起来",
@@ -521,6 +569,14 @@
       "onboard_time": 1729082422,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 323792,
+      "num": 323792,
+      "word": "特朗普形容韩国是一台赚钱机器",
+      "onboard_time": 1729146321,
+      "rank": 43,
+      "category": "国外时政"
     },
     {
       "raw_hot": 315811,
@@ -577,14 +633,6 @@
       "onboard_time": 1729144161,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 290329,
-      "num": 290329,
-      "word": "特朗普形容韩国是一台赚钱机器",
-      "onboard_time": 1729146321,
-      "rank": 43,
-      "category": "国外时政"
     },
     {
       "raw_hot": 285669,
@@ -667,6 +715,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 267854,
+      "num": 267854,
+      "word": "韩美日等11国联手组建对朝监控新机制",
+      "onboard_time": 1729148661,
+      "rank": 26,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 258560,
       "num": 258560,
       "word": "黄雨婷紧急撤回一句实话",
@@ -683,20 +739,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 251639,
-      "num": 251639,
-      "word": "陈好 我是赢家我不要",
-      "onboard_time": 1729146921,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 247509,
       "num": 247509,
       "word": "京东互助",
       "onboard_time": 1729125681,
       "rank": 29,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 245920,
+      "num": 245920,
+      "word": "留学生遇电诈40天吃饭学习全程直播",
+      "onboard_time": 1729147821,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 244608,
@@ -713,6 +769,14 @@
       "onboard_time": 1729138346,
       "rank": 29,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 239005,
+      "num": 239005,
+      "word": "去过东北的人嘴真严",
+      "onboard_time": 1729147703,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 233311,
@@ -761,14 +825,6 @@
       "onboard_time": 1729139306,
       "rank": 37,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 222857,
-      "num": 222857,
-      "word": "女生被奈良鹿戳破腿忍痛回国打针",
-      "onboard_time": 1729146741,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 220234,
@@ -835,6 +891,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 206320,
+      "num": 206320,
+      "word": "张凌赫蓝色蝴蝶高定",
+      "onboard_time": 1729148481,
+      "rank": 31,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 204452,
       "num": 204452,
       "word": "韩美日今日就半岛局势举行会晤",
@@ -857,6 +921,14 @@
       "onboard_time": 1729097476,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 202714,
+      "num": 202714,
+      "word": "国企回应登报喊离岗员工返回上班",
+      "onboard_time": 1729146681,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 202539,
@@ -1003,6 +1075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 180503,
+      "num": 426105,
+      "word": "山西大爷街头劈叉午睡",
+      "onboard_time": 1729148600,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 179728,
       "num": 175475,
       "word": "虞书欣Chill小兔",
@@ -1025,14 +1105,6 @@
       "onboard_time": 1729145062,
       "rank": 37,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 175963,
-      "num": 175963,
-      "word": "国企回应登报喊离岗员工返回上班",
-      "onboard_time": 1729146681,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 175434,
@@ -1163,6 +1235,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 159738,
+      "num": 477636,
+      "word": "在山西随手抓把土都能讲出5000年故事",
+      "onboard_time": 1729146860,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 159713,
       "num": 159713,
       "word": "李现拍到了阿特拉斯彗星",
@@ -1171,12 +1251,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 155345,
-      "num": 477636,
-      "word": "在山西随手抓把土都能讲出5000年故事",
-      "onboard_time": 1729146860,
-      "rank": 9,
-      "category": "社会新闻"
+      "raw_hot": 156974,
+      "num": 156974,
+      "word": "杨幂同款loopy",
+      "onboard_time": 1729149021,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 156186,
+      "num": 292619,
+      "word": "何洁李霄云 IE分明的我们",
+      "onboard_time": 1729147400,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 155091,
@@ -1227,6 +1315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 146908,
+      "num": 146908,
+      "word": "最近你会考虑买房吗",
+      "onboard_time": 1729149021,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 145542,
       "num": 145542,
       "word": "昆明官方通报中学食堂肉有异味",
@@ -1273,6 +1369,14 @@
       "onboard_time": 1729135222,
       "rank": 47,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 132652,
+      "num": 184311,
+      "word": "刘冲让黄景瑜少穿一点",
+      "onboard_time": 1729145362,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 130826,
@@ -1433,14 +1537,6 @@
       "onboard_time": 1729129219,
       "rank": 45,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 106714,
-      "num": 184311,
-      "word": "刘冲让黄景瑜少穿一点",
-      "onboard_time": 1729145362,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 104780,
@@ -1641,14 +1737,6 @@
       "onboard_time": 1729102393,
       "rank": 27,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 48647,
-      "num": 292619,
-      "word": "何洁李霄云 IE分明的我们",
-      "onboard_time": 1729147400,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 48363,
@@ -1988,6 +2076,9 @@
     },
     {
       "word": "#总书记在福建强调爱拼会赢#"
+    },
+    {
+      "word": "#在中国式现代化建设中奋勇争先#"
     }
   ]
 }
