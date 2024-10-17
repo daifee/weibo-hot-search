@@ -1,0 +1,410 @@
+{
+  "runTime": 1729174898197,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2691153,
+        "num": 2691153,
+        "word": "刘亦菲压轴",
+        "onboard_time": 1729170383,
+        "rank": 0,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 1155374,
+        "num": 1155374,
+        "word": "哈马斯领导人辛瓦尔已被击毙",
+        "onboard_time": 1729173804,
+        "rank": 1,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 24395,
+        "num": 906901,
+        "word": "美好新疆",
+        "onboard_time": 1729174284,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2247153,
+        "num": 839641,
+        "word": "倪妮拿到了杨幂的绣球",
+        "onboard_time": 1729172062,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 693568,
+        "num": 693568,
+        "word": "小英称牛因生了小牛且生病才瘦",
+        "onboard_time": 1729169723,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 639647,
+        "num": 639647,
+        "word": "陈祥榕母亲为问勇路揭牌",
+        "onboard_time": 1729171642,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1131498,
+        "num": 585072,
+        "word": "VOGUE晚宴",
+        "onboard_time": 1729173142,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 860343,
+        "num": 583764,
+        "word": "刘冲让王一博走慢点",
+        "onboard_time": 1729173022,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 465690,
+        "num": 465690,
+        "word": "樊振东说不存在恢复",
+        "onboard_time": 1729164981,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113878,
+        "num": 464006,
+        "word": "我儿子在战斗的时候勇不勇敢",
+        "onboard_time": 1729173384,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1075563,
+        "num": 459875,
+        "word": "黄圣依想离婚是受不了爹式管理",
+        "onboard_time": 1729169061,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 817098,
+        "num": 450344,
+        "word": "赵露思飞吻",
+        "onboard_time": 1729170803,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 772661,
+        "num": 445886,
+        "word": "周也裙子变装",
+        "onboard_time": 1729167921,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 529771,
+        "num": 441226,
+        "word": "金晨穿雨衣走秀",
+        "onboard_time": 1729168521,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 30476,
+        "num": 433742,
+        "word": "男子反映换残疾证评审收费800多",
+        "onboard_time": 1729174102,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 607017,
+        "num": 430183,
+        "word": "朱珠真是风情万种",
+        "onboard_time": 1729169602,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 578469,
+        "num": 424907,
+        "word": "刘诗诗 霜雪天降具像化",
+        "onboard_time": 1729170623,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 564746,
+        "num": 420511,
+        "word": "娜扎 吸血鬼女王",
+        "onboard_time": 1729168699,
+        "rank": 17,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 28285,
+        "num": 411871,
+        "word": "厌食症逐渐低龄化最小患者7岁",
+        "onboard_time": 1729174043,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41501,
+        "num": 406760,
+        "word": "是教材就没必要额外收费",
+        "onboard_time": 1729173924,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 529954,
+        "num": 401556,
+        "word": "VOGUE走秀",
+        "onboard_time": 1729165161,
+        "rank": 20,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 516431,
+        "num": 397151,
+        "word": "王一博带滑板走秀",
+        "onboard_time": 1729169602,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 395077,
+        "num": 395077,
+        "word": "2024年度最大超级月亮今晚登场",
+        "onboard_time": 1729163963,
+        "rank": 22,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 419892,
+        "num": 394616,
+        "word": "杨天真带着付款码来了",
+        "onboard_time": 1729168941,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 392400,
+        "num": 392400,
+        "word": "小英送养孩子实属民间送养不构成犯罪",
+        "onboard_time": 1729154541,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 384980,
+        "num": 384980,
+        "word": "中方回应朝鲜将韩国定义为敌对国家",
+        "onboard_time": 1729154420,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 377648,
+        "num": 377648,
+        "word": "毕业生举报高校女教师与其恋爱出轨",
+        "onboard_time": 1729173563,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 312316,
+        "num": 312316,
+        "word": "惠英红 百年大妖镇场子",
+        "onboard_time": 1729171522,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 308313,
+        "num": 308313,
+        "word": "王鹤棣 小狗包",
+        "onboard_time": 1729168581,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 306044,
+        "num": 306044,
+        "word": "檀健次跳舞出场",
+        "onboard_time": 1729170862,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 296942,
+        "num": 296942,
+        "word": "魏大勋 飘带你好坏",
+        "onboard_time": 1729171282,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 291541,
+        "num": 291541,
+        "word": "娜然 仿生机械姬",
+        "onboard_time": 1729167802,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 256344,
+        "num": 256344,
+        "word": "张若昀蒲公英掉一路",
+        "onboard_time": 1729172123,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 250786,
+        "num": 250786,
+        "word": "意大利将海外代孕入刑",
+        "onboard_time": 1729165761,
+        "rank": 33,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 237115,
+        "num": 237115,
+        "word": "儿童文具胶带出现男性生殖器图案",
+        "onboard_time": 1729135462,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237868,
+        "num": 237032,
+        "word": "枭起青壤",
+        "onboard_time": 1729169903,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 235424,
+        "num": 235424,
+        "word": "黄圣依杨子 2个人8人群",
+        "onboard_time": 1729141403,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 27231,
+        "num": 212658,
+        "word": "珀莱雅修护新思路",
+        "onboard_time": 1729174043,
+        "rank": 37,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 200897,
+        "num": 200897,
+        "word": "陈昊宇湿发背头",
+        "onboard_time": 1729174703,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 184991,
+        "num": 184991,
+        "word": "月亮",
+        "onboard_time": 1729158983,
+        "rank": 39,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 197347,
+        "num": 181293,
+        "word": "snowman",
+        "onboard_time": 1729171043,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 101117,
+        "num": 176359,
+        "word": "梵净山秋日云海翻滚如仙境",
+        "onboard_time": 1729173863,
+        "rank": 41,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 192885,
+        "num": 173075,
+        "word": "周翊然红毯上玩遥控赛车",
+        "onboard_time": 1729174343,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 190314,
+        "num": 168666,
+        "word": "UNIQ TFBOYS前辈挺可爱的",
+        "onboard_time": 1729172783,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189786,
+        "num": 166537,
+        "word": "韦雪拉黑秦奋",
+        "onboard_time": 1729155142,
+        "rank": 44,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 162221,
+        "num": 162221,
+        "word": "LNG对战WBG",
+        "onboard_time": 1729167021,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 161982,
+        "num": 161982,
+        "word": "小英回应经济状况",
+        "onboard_time": 1729161381,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155081,
+        "num": 155081,
+        "word": "其实最累的状态就是持续犹豫",
+        "onboard_time": 1729172783,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 149299,
+        "num": 149299,
+        "word": "微博竞燃之夜投票",
+        "onboard_time": 1729164502,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 147620,
+        "num": 147620,
+        "word": "应届硕士博士国考年龄放宽至40岁",
+        "onboard_time": 1729172723,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#青年是创新的重要生力军#"
+    }
+  }
+}
