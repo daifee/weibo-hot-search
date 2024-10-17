@@ -1,10 +1,10 @@
 {
   "startTime": 1729096028716,
-  "endTime": 1729134188856,
+  "endTime": 1729135668686,
   "band_list": [
     {
       "raw_hot": 2232538,
-      "num": 646696,
+      "num": 707173,
       "word": "沈梦辰模仿叶珂",
       "onboard_time": 1729130540,
       "rank": 3,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1590236,
-      "num": 346344,
+      "num": 381456,
       "word": "黄磊线下活动被贴脸喊豆角",
       "onboard_time": 1729123820,
       "rank": 10,
@@ -44,23 +44,31 @@
     },
     {
       "raw_hot": 1066673,
-      "num": 345701,
+      "num": 377517,
       "word": "特朗普暗示韩国应支付巨额保护费",
       "onboard_time": 1729124480,
       "rank": 11,
       "category": "国外时政"
     },
     {
-      "raw_hot": 886982,
-      "num": 1141917,
+      "raw_hot": 902331,
+      "num": 1144373,
       "word": "一火箭弹掉入我赴黎维和部队营区",
       "onboard_time": 1729122560,
       "rank": 0,
       "category": "国外时政"
     },
     {
+      "raw_hot": 873909,
+      "num": 873909,
+      "word": "医院回应公职人员体检市民被拦住",
+      "onboard_time": 1729130419,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 820835,
-      "num": 310055,
+      "num": 359273,
       "word": "女子卸甲后发现十指空甲发霉",
       "onboard_time": 1729086861,
       "rank": 11,
@@ -91,20 +99,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 785343,
-      "num": 785343,
-      "word": "医院回应公职人员体检市民被拦住",
-      "onboard_time": 1729130419,
-      "rank": 1,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 690137,
       "num": 690137,
       "word": "法媒称姆巴佩与女子自愿发生关系",
       "onboard_time": 1729125982,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 683167,
+      "num": 683167,
+      "word": "房地产",
+      "onboard_time": 1729131801,
+      "rank": 7,
+      "category": "财经"
     },
     {
       "raw_hot": 666925,
@@ -116,7 +124,7 @@
     },
     {
       "raw_hot": 654051,
-      "num": 341853,
+      "num": 379753,
       "word": "00后贷款10万炒股倒赔7000元",
       "onboard_time": 1729129040,
       "rank": 29,
@@ -129,6 +137,14 @@
       "onboard_time": 1729104311,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 555037,
+      "num": 362303,
+      "word": "中医说指甲是内脏显示屏",
+      "onboard_time": 1729133241,
+      "rank": 39,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 533656,
@@ -152,6 +168,14 @@
       "word": "日本新任首相向靖国神社供奉祭品",
       "onboard_time": 1729127721,
       "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 495402,
+      "num": 495402,
+      "word": "新增实施100万套城中村危旧房改造",
+      "onboard_time": 1729132701,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -188,11 +212,19 @@
     },
     {
       "raw_hot": 483156,
-      "num": 340680,
+      "num": 367811,
       "word": "刘冲直播间 杨幂",
       "onboard_time": 1729091300,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 467531,
+      "num": 375991,
+      "word": "马来西亚男子上厕所时被老虎叼走身亡",
+      "onboard_time": 1729135042,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 443404,
@@ -203,14 +235,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 442586,
-      "num": 442586,
-      "word": "房地产",
-      "onboard_time": 1729131801,
-      "rank": 7,
-      "category": "财经"
-    },
-    {
       "raw_hot": 436776,
       "num": 227268,
       "word": "名媛培训班收割中年男明星",
@@ -219,11 +243,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 428393,
+      "num": 428393,
+      "word": "中央5部门共同出席国新办发布会",
+      "onboard_time": 1729131020,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 422662,
       "num": 422662,
       "word": "中国不会首先使用核武器",
       "onboard_time": 1729085301,
       "rank": 1,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 408684,
+      "num": 408684,
+      "word": "楼市组合拳4取消4降低2增加",
+      "onboard_time": 1729133541,
+      "rank": 42,
       "category": "国内时政"
     },
     {
@@ -244,7 +284,7 @@
     },
     {
       "raw_hot": 391070,
-      "num": 309447,
+      "num": 339858,
       "word": "大学生售卖336部淫秽视频被判刑",
       "onboard_time": 1729118533,
       "rank": 24,
@@ -267,12 +307,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 348670,
-      "num": 348670,
-      "word": "中央5部门共同出席国新办发布会",
-      "onboard_time": 1729131020,
-      "rank": 8,
-      "category": "国内时政"
+      "raw_hot": 356379,
+      "num": 356379,
+      "word": "女子摔倒鲨鱼夹碎裂扎入头部",
+      "onboard_time": 1729133722,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 343121,
@@ -283,8 +323,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 311066,
-      "num": 338661,
+      "raw_hot": 315811,
+      "num": 374100,
       "word": "肖战电影得闲谨制杀青",
       "onboard_time": 1729132882,
       "rank": 16,
@@ -312,14 +352,6 @@
       "word": "班级群情绪失控老师已请假休息",
       "onboard_time": 1729092140,
       "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 296776,
-      "num": 348596,
-      "word": "新增实施100万套城中村危旧房改造",
-      "onboard_time": 1729132701,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -363,6 +395,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 275812,
+      "num": 370916,
+      "word": "One Direction",
+      "onboard_time": 1729134683,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 274287,
       "num": 206324,
       "word": "马天宇 你装完了吗",
@@ -395,14 +435,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 262671,
-      "num": 262671,
-      "word": "中医说指甲是内脏显示屏",
-      "onboard_time": 1729133241,
-      "rank": 39,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 255409,
       "num": 255409,
       "word": "这几天睡不好可能是月亮的错",
@@ -411,20 +443,28 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 236661,
-      "num": 236661,
-      "word": "楼市组合拳4取消4降低2增加",
-      "onboard_time": 1729133541,
-      "rank": 42,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 217391,
+      "raw_hot": 233311,
       "num": 334900,
       "word": "此沙掏耳朵",
       "onboard_time": 1729130960,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 229998,
+      "num": 229998,
+      "word": "在德中国女性遭性侵嫌犯疑为华裔男子",
+      "onboard_time": 1729134143,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 220234,
+      "num": 220234,
+      "word": "刘满仓被查",
+      "onboard_time": 1729133603,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 212885,
@@ -499,14 +539,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 183827,
-      "num": 183827,
-      "word": "女子摔倒鲨鱼夹碎裂扎入头部",
-      "onboard_time": 1729133722,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 181441,
       "num": 181441,
       "word": "郑号锡退伍",
@@ -536,14 +568,6 @@
       "word": "老师给4岁孩子剪指甲4个指头流血",
       "onboard_time": 1729096098,
       "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 171472,
-      "num": 171472,
-      "word": "刘满仓被查",
-      "onboard_time": 1729133603,
-      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -603,12 +627,44 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 158843,
+      "num": 260496,
+      "word": "儿童文具胶带出现男性生殖器图案",
+      "onboard_time": 1729135462,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 155091,
+      "num": 155091,
+      "word": "米修斯之印公测",
+      "onboard_time": 1729135644,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 154214,
+      "num": 154214,
+      "word": "台禁止输入大陆产黄飞红花生",
+      "onboard_time": 1729135523,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 151401,
       "num": 151401,
       "word": "致命鲨鱼夹电商平台仍售卖",
       "onboard_time": 1729122560,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 150304,
+      "num": 363345,
+      "word": "金硕珍迎接郑号锡退伍",
+      "onboard_time": 1729134923,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 148129,
@@ -619,11 +675,11 @@
       "category": "演出"
     },
     {
-      "raw_hot": 145950,
-      "num": 145950,
-      "word": "在德中国女性遭性侵嫌犯疑为华裔男子",
-      "onboard_time": 1729134143,
-      "rank": 48,
+      "raw_hot": 146931,
+      "num": 330892,
+      "word": "今日A股三大股指高开",
+      "onboard_time": 1729131741,
+      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -664,6 +720,30 @@
       "word": "肖战宝诗龙活动压轴出场",
       "onboard_time": 1729094539,
       "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 136131,
+      "num": 136131,
+      "word": "年底将有450万人住进保障性住房",
+      "onboard_time": 1729135222,
+      "rank": 47,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 135839,
+      "num": 135839,
+      "word": "coloros15",
+      "onboard_time": 1729135644,
+      "rank": 48,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 132594,
+      "num": 189325,
+      "word": "马天宇战绩可查",
+      "onboard_time": 1729133121,
+      "rank": 49,
       "category": "艺人"
     },
     {
@@ -761,6 +841,14 @@
       "onboard_time": 1729129759,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 113495,
+      "num": 365225,
+      "word": "智能门锁咬人事件频发",
+      "onboard_time": 1729132521,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 110255,
@@ -883,14 +971,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 80058,
-      "num": 330892,
-      "word": "今日A股三大股指高开",
-      "onboard_time": 1729131741,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 79736,
       "num": 79736,
       "word": "郑钦文回应入围WTA年终总决赛",
@@ -947,14 +1027,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 57577,
-      "num": 333342,
-      "word": "智能门锁咬人事件频发",
-      "onboard_time": 1729132521,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 53259,
       "num": 202048,
       "word": "金与正表示挑衅者将付出代价",
@@ -977,14 +1049,6 @@
       "onboard_time": 1729101193,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 46098,
-      "num": 153339,
-      "word": "马天宇战绩可查",
-      "onboard_time": 1729133121,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 45982,
@@ -1057,6 +1121,14 @@
       "onboard_time": 1729100413,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 29155,
+      "num": 135371,
+      "word": "蜂蜜桂花炖奶",
+      "onboard_time": 1729134982,
+      "rank": 49,
+      "category": "休闲"
     },
     {
       "raw_hot": 27844,
@@ -1147,6 +1219,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 14173,
+      "num": 189990,
+      "word": "线上店和实体店家电质量一样吗",
+      "onboard_time": 1729133483,
+      "rank": 45,
+      "category": "互联网,社会新闻"
+    },
+    {
       "raw_hot": 13095,
       "num": 32930,
       "word": "超燃BGM和震撼开火场面的适配度",
@@ -1156,7 +1236,7 @@
     },
     {
       "raw_hot": 11489,
-      "num": 658025,
+      "num": 728778,
       "word": "文化中国行丹青中华",
       "onboard_time": 1729083982,
       "rank": 2,
@@ -1177,14 +1257,6 @@
       "onboard_time": 1729084701,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 9467,
-      "num": 178036,
-      "word": "线上店和实体店家电质量一样吗",
-      "onboard_time": 1729133483,
-      "rank": 45,
-      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 8300,
