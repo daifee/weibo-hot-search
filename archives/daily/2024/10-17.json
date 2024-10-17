@@ -1,6 +1,6 @@
 {
   "startTime": 1729096028716,
-  "endTime": 1729142537866,
+  "endTime": 1729143605248,
   "band_list": [
     {
       "raw_hot": 2232538,
@@ -9,6 +9,14 @@
       "onboard_time": 1729130540,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2011218,
+      "num": 2011218,
+      "word": "黄圣依杨子 2个人8人群",
+      "onboard_time": 1729141403,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 1590236,
@@ -92,7 +100,7 @@
     },
     {
       "raw_hot": 888280,
-      "num": 754098,
+      "num": 765689,
       "word": "田曦薇 花仙子",
       "onboard_time": 1729138706,
       "rank": 31,
@@ -107,14 +115,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 866191,
-      "num": 866191,
-      "word": "黄圣依杨子 2个人8人群",
-      "onboard_time": 1729141403,
-      "rank": 1,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 820835,
       "num": 359273,
       "word": "女子卸甲后发现十指空甲发霉",
@@ -124,11 +124,19 @@
     },
     {
       "raw_hot": 811094,
-      "num": 578937,
+      "num": 625523,
       "word": "杜华 王一博就别汇报了",
       "onboard_time": 1729137206,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 807629,
+      "num": 807629,
+      "word": "朝鲜明确韩国为敌对国家",
+      "onboard_time": 1729139666,
+      "rank": 8,
+      "category": "国外时政"
     },
     {
       "raw_hot": 807082,
@@ -161,6 +169,14 @@
       "onboard_time": 1729136544,
       "rank": 44,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 725896,
+      "num": 388195,
+      "word": "詹姆斯 吹牛老爹",
+      "onboard_time": 1729140265,
+      "rank": 12,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 690137,
@@ -211,20 +227,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 594792,
+      "num": 594792,
+      "word": "港风陈都灵杀回来了",
+      "onboard_time": 1729141646,
+      "rank": 26,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 589701,
       "num": 473200,
       "word": "中医说指甲是内脏显示屏",
       "onboard_time": 1729133241,
       "rank": 39,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 576079,
-      "num": 388195,
-      "word": "詹姆斯 吹牛老爹",
-      "onboard_time": 1729140265,
-      "rank": 12,
-      "category": "体育,艺人"
     },
     {
       "raw_hot": 569477,
@@ -241,14 +257,6 @@
       "onboard_time": 1729137266,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 539288,
-      "num": 539288,
-      "word": "朝鲜明确韩国为敌对国家",
-      "onboard_time": 1729139666,
-      "rank": 8,
-      "category": "国外时政"
     },
     {
       "raw_hot": 533656,
@@ -305,6 +313,14 @@
       "onboard_time": 1729088783,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 493196,
+      "num": 367257,
+      "word": "杨子 7个手机",
+      "onboard_time": 1729141646,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 489891,
@@ -379,14 +395,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 408444,
-      "num": 367257,
-      "word": "杨子 7个手机",
-      "onboard_time": 1729141646,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 403117,
       "num": 486078,
       "word": "One Direction",
@@ -443,6 +451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 334609,
+      "num": 334609,
+      "word": "小S大女儿Elly美国生活照",
+      "onboard_time": 1729140385,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 315811,
       "num": 484564,
       "word": "肖战电影得闲谨制杀青",
@@ -473,6 +489,14 @@
       "onboard_time": 1729092140,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 300906,
+      "num": 300906,
+      "word": "白鹿拎范丞丞大头照行李箱",
+      "onboard_time": 1729141524,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 295066,
@@ -521,22 +545,6 @@
       "onboard_time": 1729090403,
       "rank": 17,
       "category": "网红"
-    },
-    {
-      "raw_hot": 274682,
-      "num": 274682,
-      "word": "白鹿拎范丞丞大头照行李箱",
-      "onboard_time": 1729141524,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 274313,
-      "num": 274313,
-      "word": "港风陈都灵杀回来了",
-      "onboard_time": 1729141646,
-      "rank": 26,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 274292,
@@ -683,20 +691,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 218788,
+      "num": 218788,
+      "word": "学医女孩下班当模特气质反差惊艳",
+      "onboard_time": 1729139186,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 211366,
       "num": 211366,
       "word": "VOGUE出发图",
       "onboard_time": 1729140505,
       "rank": 33,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 210827,
-      "num": 210827,
-      "word": "学医女孩下班当模特气质反差惊艳",
-      "onboard_time": 1729139186,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 209517,
@@ -729,6 +737,14 @@
       "onboard_time": 1729131260,
       "rank": 33,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 203960,
+      "num": 203960,
+      "word": "林孝埈说代表中国参赛很自豪",
+      "onboard_time": 1729140505,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 202963,
@@ -819,14 +835,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 188729,
-      "num": 188729,
-      "word": "林孝埈说代表中国参赛很自豪",
-      "onboard_time": 1729140505,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 188221,
       "num": 188221,
       "word": "马嘉祺丁程鑫双人内页",
@@ -841,6 +849,22 @@
       "onboard_time": 1729138045,
       "rank": 40,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 184507,
+      "num": 184507,
+      "word": "山西午睡文化不分时间地点物种",
+      "onboard_time": 1729142843,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 182801,
+      "num": 182801,
+      "word": "张艺兴替保安道歉",
+      "onboard_time": 1729143204,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 181441,
@@ -915,6 +939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 168628,
+      "num": 168628,
+      "word": "南京一群业主众筹63万元爆改小区道路",
+      "onboard_time": 1729139245,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 168627,
       "num": 168627,
       "word": "双城之战2剧情预告",
@@ -955,14 +987,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 165065,
-      "num": 165065,
-      "word": "小S大女儿Elly美国生活照",
-      "onboard_time": 1729140385,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 164281,
       "num": 164281,
       "word": "房地产市场出现积极的变化",
@@ -993,6 +1017,14 @@
       "onboard_time": 1729130841,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 160173,
+      "num": 160173,
+      "word": "张真源严浩翔贺峻霖芭莎同框",
+      "onboard_time": 1729143384,
+      "rank": 44,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 159713,
@@ -1203,6 +1235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 110996,
+      "num": 275570,
+      "word": "宋亚轩的耶耶旅行宣言",
+      "onboard_time": 1729142423,
+      "rank": 24,
+      "category": "艺人,综艺"
+    },
+    {
       "raw_hot": 110255,
       "num": 292445,
       "word": "摆脱贫困是党对人民的庄严承诺",
@@ -1225,6 +1265,14 @@
       "onboard_time": 1729091723,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 108664,
+      "num": 209096,
+      "word": "向佐陪看门前宝地",
+      "onboard_time": 1729143562,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 108122,
@@ -1315,14 +1363,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 81867,
-      "num": 275570,
-      "word": "宋亚轩的耶耶旅行宣言",
-      "onboard_time": 1729142423,
-      "rank": 24,
-      "category": "艺人,综艺"
-    },
-    {
       "raw_hot": 81257,
       "num": 203041,
       "word": "Jennie勺子短裤",
@@ -1387,12 +1427,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 60449,
+      "num": 248832,
+      "word": "春花焰不发疯发糖了",
+      "onboard_time": 1729143322,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 59862,
       "num": 260872,
       "word": "虞书欣看了檀健次演唱会",
       "onboard_time": 1729140146,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 59157,
+      "num": 401446,
+      "word": "今年底让450万新市民住进保障房",
+      "onboard_time": 1729141524,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 55756,
@@ -1491,14 +1547,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 37778,
-      "num": 401446,
-      "word": "今年底让450万新市民住进保障房",
-      "onboard_time": 1729141524,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 34848,
       "num": 63904,
       "word": "新疆3.8级地震",
@@ -1537,6 +1585,22 @@
       "onboard_time": 1729134982,
       "rank": 49,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 28924,
+      "num": 185698,
+      "word": "当代年轻人消费观belike",
+      "onboard_time": 1729140744,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 27847,
+      "num": 297910,
+      "word": "团伙假招志愿者盗公民信息获利50万",
+      "onboard_time": 1729142062,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 27844,
@@ -1579,14 +1643,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 21142,
-      "num": 297910,
-      "word": "团伙假招志愿者盗公民信息获利50万",
-      "onboard_time": 1729142062,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 20736,
       "num": 29086,
       "word": "女主播奔现榜一大哥实为离异待业男",
@@ -1609,14 +1665,6 @@
       "onboard_time": 1729111812,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 18421,
-      "num": 185698,
-      "word": "当代年轻人消费观belike",
-      "onboard_time": 1729140744,
-      "rank": 40,
-      "category": "幽默"
     },
     {
       "raw_hot": 17370,
@@ -1676,7 +1724,7 @@
     },
     {
       "raw_hot": 11489,
-      "num": 776246,
+      "num": 876569,
       "word": "文化中国行丹青中华",
       "onboard_time": 1729083982,
       "rank": 2,

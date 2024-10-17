@@ -1,6 +1,6 @@
 {
   "startTime": 1728750414717,
-  "endTime": 1729142537866,
+  "endTime": 1729143605248,
   "band_list": [
     {
       "raw_hot": 17915004,
@@ -353,6 +353,14 @@
       "onboard_time": 1728820521,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 2011218,
+      "num": 2011218,
+      "word": "黄圣依杨子 2个人8人群",
+      "onboard_time": 1729141403,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 2001206,
@@ -1436,7 +1444,7 @@
     },
     {
       "raw_hot": 888280,
-      "num": 754098,
+      "num": 765689,
       "word": "田曦薇 花仙子",
       "onboard_time": 1729138706,
       "rank": 31,
@@ -1505,14 +1513,6 @@
       "onboard_time": 1729084760,
       "rank": 7,
       "category": "国内时政,艺人"
-    },
-    {
-      "raw_hot": 866191,
-      "num": 866191,
-      "word": "黄圣依杨子 2个人8人群",
-      "onboard_time": 1729141403,
-      "rank": 1,
-      "category": "综艺"
     },
     {
       "raw_hot": 861550,
@@ -1700,11 +1700,19 @@
     },
     {
       "raw_hot": 811094,
-      "num": 578937,
+      "num": 625523,
       "word": "杜华 王一博就别汇报了",
       "onboard_time": 1729137206,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 807629,
+      "num": 807629,
+      "word": "朝鲜明确韩国为敌对国家",
+      "onboard_time": 1729139666,
+      "rank": 8,
+      "category": "国外时政"
     },
     {
       "raw_hot": 806476,
@@ -1977,6 +1985,14 @@
       "onboard_time": 1729136544,
       "rank": 44,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 725896,
+      "num": 388195,
+      "word": "詹姆斯 吹牛老爹",
+      "onboard_time": 1729140265,
+      "rank": 12,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 722152,
@@ -2451,6 +2467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 594792,
+      "num": 594792,
+      "word": "港风陈都灵杀回来了",
+      "onboard_time": 1729141646,
+      "rank": 26,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 594190,
       "num": 282485,
       "word": "22岁冠心病女生不想做支架狂炫中药",
@@ -2521,14 +2545,6 @@
       "onboard_time": 1729075460,
       "rank": 6,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 576079,
-      "num": 388195,
-      "word": "詹姆斯 吹牛老爹",
-      "onboard_time": 1729140265,
-      "rank": 12,
-      "category": "体育,艺人"
     },
     {
       "raw_hot": 571451,
@@ -2657,14 +2673,6 @@
       "onboard_time": 1728831144,
       "rank": 40,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 539288,
-      "num": 539288,
-      "word": "朝鲜明确韩国为敌对国家",
-      "onboard_time": 1729139666,
-      "rank": 8,
-      "category": "国外时政"
     },
     {
       "raw_hot": 538832,
@@ -2929,6 +2937,14 @@
       "onboard_time": 1728826821,
       "rank": 29,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 493196,
+      "num": 367257,
+      "word": "杨子 7个手机",
+      "onboard_time": 1729141646,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 492749,
@@ -3472,14 +3488,6 @@
       "word": "徐锦江拍过最辛苦的戏是西游记",
       "onboard_time": 1728794659,
       "rank": 7,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 408444,
-      "num": 367257,
-      "word": "杨子 7个手机",
-      "onboard_time": 1729141646,
-      "rank": 16,
       "category": "综艺"
     },
     {
@@ -4051,6 +4059,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 334609,
+      "num": 334609,
+      "word": "小S大女儿Elly美国生活照",
+      "onboard_time": 1729140385,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 334144,
       "num": 286859,
       "word": "误食两斤全麦面包怎么办",
@@ -4352,6 +4368,14 @@
       "word": "易烊千玺机场",
       "onboard_time": 1728915320,
       "rank": 37,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 300906,
+      "num": 300906,
+      "word": "白鹿拎范丞丞大头照行李箱",
+      "onboard_time": 1729141524,
+      "rank": 25,
       "category": "艺人"
     },
     {
@@ -4771,28 +4795,12 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 274682,
-      "num": 274682,
-      "word": "白鹿拎范丞丞大头照行李箱",
-      "onboard_time": 1729141524,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 274571,
       "num": 274571,
       "word": "郑钦文年度总奖金已达到311.2万美元",
       "onboard_time": 1728875478,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 274313,
-      "num": 274313,
-      "word": "港风陈都灵杀回来了",
-      "onboard_time": 1729141646,
-      "rank": 26,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 274292,
@@ -5947,6 +5955,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 218788,
+      "num": 218788,
+      "word": "学医女孩下班当模特气质反差惊艳",
+      "onboard_time": 1729139186,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 218251,
       "num": 218251,
       "word": "央视定义3A游戏",
@@ -6201,14 +6217,6 @@
       "onboard_time": 1729050140,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 210827,
-      "num": 210827,
-      "word": "学医女孩下班当模特气质反差惊艳",
-      "onboard_time": 1729139186,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 210427,
@@ -6497,6 +6505,14 @@
       "onboard_time": 1729085301,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 203960,
+      "num": 203960,
+      "word": "林孝埈说代表中国参赛很自豪",
+      "onboard_time": 1729140505,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 203941,
@@ -7379,14 +7395,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 188729,
-      "num": 188729,
-      "word": "林孝埈说代表中国参赛很自豪",
-      "onboard_time": 1729140505,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 188550,
       "num": 188550,
       "word": "世界之外新PV",
@@ -7651,6 +7659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 184507,
+      "num": 184507,
+      "word": "山西午睡文化不分时间地点物种",
+      "onboard_time": 1729142843,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 184505,
       "num": 448679,
       "word": "班级群发飙班主任被家长打系谣言",
@@ -7721,6 +7737,14 @@
       "onboard_time": 1728879200,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 182801,
+      "num": 182801,
+      "word": "张艺兴替保安道歉",
+      "onboard_time": 1729143204,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 182679,
@@ -8259,6 +8283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 168628,
+      "num": 168628,
+      "word": "南京一群业主众筹63万元爆改小区道路",
+      "onboard_time": 1729139245,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 168627,
       "num": 168627,
       "word": "双城之战2剧情预告",
@@ -8417,14 +8449,6 @@
       "onboard_time": 1729053802,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 165065,
-      "num": 165065,
-      "word": "小S大女儿Elly美国生活照",
-      "onboard_time": 1729140385,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 164781,
@@ -8665,6 +8689,14 @@
       "onboard_time": 1729002023,
       "rank": 49,
       "category": "自然"
+    },
+    {
+      "raw_hot": 160173,
+      "num": 160173,
+      "word": "张真源严浩翔贺峻霖芭莎同框",
+      "onboard_time": 1729143384,
+      "rank": 44,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 160142,
@@ -10411,6 +10443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 110996,
+      "num": 275570,
+      "word": "宋亚轩的耶耶旅行宣言",
+      "onboard_time": 1729142423,
+      "rank": 24,
+      "category": "艺人,综艺"
+    },
+    {
       "raw_hot": 110640,
       "num": 110640,
       "word": "江西一刑案嫌疑人畏罪自杀",
@@ -10464,6 +10504,14 @@
       "word": "绑架游戏全员妍珍",
       "onboard_time": 1728810619,
       "rank": 48,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 108664,
+      "num": 209096,
+      "word": "向佐陪看门前宝地",
+      "onboard_time": 1729143562,
+      "rank": 29,
       "category": "电影"
     },
     {
@@ -11195,14 +11243,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 81867,
-      "num": 275570,
-      "word": "宋亚轩的耶耶旅行宣言",
-      "onboard_time": 1729142423,
-      "rank": 24,
-      "category": "艺人,综艺"
-    },
-    {
       "raw_hot": 80340,
       "num": 179464,
       "word": "教科局回应严禁学生参加cos活动",
@@ -11667,6 +11707,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 60449,
+      "num": 248832,
+      "word": "春花焰不发疯发糖了",
+      "onboard_time": 1729143322,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 59862,
       "num": 260872,
       "word": "虞书欣看了檀健次演唱会",
@@ -11688,6 +11736,14 @@
       "word": "中方再曝光美政府伏特台风计划细节",
       "onboard_time": 1728938591,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 59157,
+      "num": 401446,
+      "word": "今年底让450万新市民住进保障房",
+      "onboard_time": 1729141524,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -12603,14 +12659,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 37778,
-      "num": 401446,
-      "word": "今年底让450万新市民住进保障房",
-      "onboard_time": 1729141524,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 37752,
       "num": 97220,
       "word": "专家解读这一次围岛布局",
@@ -13163,6 +13211,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 28924,
+      "num": 185698,
+      "word": "当代年轻人消费观belike",
+      "onboard_time": 1729140744,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 28615,
       "num": 408587,
       "word": "市监局正督促东北雨姐红薯粉条退赔",
@@ -13193,6 +13249,14 @@
       "onboard_time": 1728804919,
       "rank": 49,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 27847,
+      "num": 297910,
+      "word": "团伙假招志愿者盗公民信息获利50万",
+      "onboard_time": 1729142062,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 27844,
@@ -13515,14 +13579,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 21142,
-      "num": 297910,
-      "word": "团伙假招志愿者盗公民信息获利50万",
-      "onboard_time": 1729142062,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 21107,
       "num": 70716,
       "word": "21年前杨利伟首飞前珍贵影像",
@@ -13673,14 +13729,6 @@
       "onboard_time": 1729020911,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 18421,
-      "num": 185698,
-      "word": "当代年轻人消费观belike",
-      "onboard_time": 1729140744,
-      "rank": 40,
-      "category": "幽默"
     },
     {
       "raw_hot": 18224,
@@ -13940,7 +13988,7 @@
     },
     {
       "raw_hot": 11489,
-      "num": 776246,
+      "num": 876569,
       "word": "文化中国行丹青中华",
       "onboard_time": 1729083982,
       "rank": 2,
