@@ -1,6 +1,6 @@
 {
   "startTime": 1729096028716,
-  "endTime": 1729175966714,
+  "endTime": 1729178606466,
   "band_list": [
     {
       "raw_hot": 3993999,
@@ -129,6 +129,14 @@
       "onboard_time": 1729151301,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1357244,
+      "num": 377648,
+      "word": "毕业生举报高校女教师与其恋爱出轨",
+      "onboard_time": 1729173563,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1353373,
@@ -411,6 +419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 819406,
+      "num": 819406,
+      "word": "以方称打死哈马斯领导人辛瓦尔",
+      "onboard_time": 1729173804,
+      "rank": 1,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 811094,
       "num": 625523,
       "word": "杜华 王一博就别汇报了",
@@ -499,12 +515,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 761072,
-      "num": 377648,
-      "word": "毕业生举报高校女教师与其恋爱出轨",
-      "onboard_time": 1729173563,
-      "rank": 26,
-      "category": "社会新闻"
+      "raw_hot": 761492,
+      "num": 325067,
+      "word": "刘亦菲杨幂刘诗诗倪妮同场走秀",
+      "onboard_time": 1729175123,
+      "rank": 17,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 753054,
@@ -569,6 +585,14 @@
       "onboard_time": 1729151060,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 713829,
+      "num": 713829,
+      "word": "老人花40万在直播间买了堆塑料",
+      "onboard_time": 1729174823,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 710410,
@@ -729,6 +753,14 @@
       "onboard_time": 1729152443,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 566366,
+      "num": 566366,
+      "word": "以称正核实是否打死哈马斯领导人辛瓦尔",
+      "onboard_time": 1729175602,
+      "rank": 14,
+      "category": "国外时政"
     },
     {
       "raw_hot": 555613,
@@ -1027,6 +1059,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 370396,
+      "num": 300087,
+      "word": "UNIQ TFBOYS前辈挺可爱的",
+      "onboard_time": 1729172783,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 352401,
       "num": 323122,
       "word": "女子试妆后舍不得卸掉用相册收集起来",
@@ -1083,6 +1123,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 330428,
+      "num": 330428,
+      "word": "LNG对战WBG",
+      "onboard_time": 1729167021,
+      "rank": 17,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 327891,
       "num": 327891,
       "word": "snowman",
@@ -1121,14 +1169,6 @@
       "onboard_time": 1729132882,
       "rank": 16,
       "category": "电影"
-    },
-    {
-      "raw_hot": 311785,
-      "num": 281137,
-      "word": "UNIQ TFBOYS前辈挺可爱的",
-      "onboard_time": 1729172783,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 309314,
@@ -1219,14 +1259,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 290259,
-      "num": 290259,
-      "word": "老人花40万在直播间买了堆塑料",
-      "onboard_time": 1729174823,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 287833,
       "num": 287833,
       "word": "统一首套二套房贷最低首付比例到15%",
@@ -1251,6 +1283,14 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 283944,
+      "num": 307398,
+      "word": "WBG前期全是计谋",
+      "onboard_time": 1729177223,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 282653,
       "num": 471928,
       "word": "100岁姐姐与94岁妹妹的极限拉扯",
@@ -1273,14 +1313,6 @@
       "onboard_time": 1729122560,
       "rank": 9,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 279813,
-      "num": 279813,
-      "word": "LNG对战WBG",
-      "onboard_time": 1729167021,
-      "rank": 17,
-      "category": "电竞"
     },
     {
       "raw_hot": 278883,
@@ -1345,6 +1377,14 @@
       "onboard_time": 1729130540,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 270193,
+      "num": 270193,
+      "word": "黎姿状态",
+      "onboard_time": 1729175243,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 270186,
@@ -1523,14 +1563,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 223654,
-      "num": 223654,
-      "word": "黎姿状态",
-      "onboard_time": 1729175243,
-      "rank": 35,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 223587,
       "num": 223587,
       "word": "LPL提前锁定S14四强",
@@ -1609,6 +1641,14 @@
       "onboard_time": 1729140505,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 212217,
+      "num": 212217,
+      "word": "女生称遭平台自动扣费22个月",
+      "onboard_time": 1729175363,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 211915,
@@ -1723,14 +1763,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 203785,
-      "num": 298577,
-      "word": "刘亦菲杨幂刘诗诗倪妮同场走秀",
-      "onboard_time": 1729175123,
-      "rank": 17,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 203627,
       "num": 203627,
       "word": "法拉利F80",
@@ -1785,6 +1817,14 @@
       "onboard_time": 1729138105,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 201177,
+      "num": 201177,
+      "word": "疑似辛瓦尔的尸体可能进行DNA检测",
+      "onboard_time": 1729177401,
+      "rank": 37,
+      "category": "国外时政"
     },
     {
       "raw_hot": 200897,
@@ -1897,14 +1937,6 @@
       "onboard_time": 1729174343,
       "rank": 42,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 192759,
-      "num": 192759,
-      "word": "女生称遭平台自动扣费22个月",
-      "onboard_time": 1729175363,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 192181,
@@ -2043,14 +2075,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 180555,
-      "num": 324098,
-      "word": "以称正核实是否打死哈马斯领导人辛瓦尔",
-      "onboard_time": 1729175602,
-      "rank": 14,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 180198,
       "num": 180198,
       "word": "全锦赛广东男团vs北京男团",
@@ -2081,6 +2105,14 @@
       "onboard_time": 1729094120,
       "rank": 14,
       "category": "美食"
+    },
+    {
+      "raw_hot": 178317,
+      "num": 178317,
+      "word": "年轻人工作后选择重养一遍自己",
+      "onboard_time": 1729176442,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 177652,
@@ -2411,6 +2443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 140285,
+      "num": 193506,
+      "word": "120秒梳理网红小英被曝塌房事件",
+      "onboard_time": 1729175302,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 140092,
       "num": 203671,
       "word": "超43公斤卫龙亲嘴烧在日本被召回",
@@ -2457,14 +2497,6 @@
       "onboard_time": 1729152261,
       "rank": 13,
       "category": "体育"
-    },
-    {
-      "raw_hot": 135027,
-      "num": 193506,
-      "word": "120秒梳理网红小英被曝塌房事件",
-      "onboard_time": 1729175302,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 133871,
@@ -2569,6 +2601,14 @@
       "onboard_time": 1729097834,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 116991,
+      "num": 116991,
+      "word": "英雄联盟",
+      "onboard_time": 1729176082,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 114620,
@@ -2795,6 +2835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 82028,
+      "num": 304977,
+      "word": "大庸古城耗资22亿日均卖票不足20张",
+      "onboard_time": 1729178002,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 81801,
       "num": 359001,
       "word": "女子曝体验18元美容结果贷款1万多",
@@ -2947,6 +2995,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 58399,
+      "num": 1867551,
+      "word": "美好新疆",
+      "onboard_time": 1729174284,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 57138,
       "num": 203004,
       "word": "记者探访800多万粉丝的网红小英一家",
@@ -2985,6 +3041,14 @@
       "onboard_time": 1729102393,
       "rank": 27,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 50525,
+      "num": 328050,
+      "word": "广州首现登革热重症病例",
+      "onboard_time": 1729177702,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 48363,
@@ -3120,14 +3184,6 @@
       "word": "女子为博流量虚构寻人启事被罚",
       "onboard_time": 1729170444,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 38315,
-      "num": 1867551,
-      "word": "美好新疆",
-      "onboard_time": 1729174284,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -3311,6 +3367,14 @@
       "num": 489666,
       "word": "朝鲜半岛的火药桶会被点燃吗",
       "onboard_time": 1729136244,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 22923,
+      "num": 317961,
+      "word": "未购买门票活动中坠亡景区是否担责",
+      "onboard_time": 1729177883,
       "rank": 14,
       "category": "社会新闻"
     },
@@ -3512,6 +3576,9 @@
     },
     {
       "word": "#青年是创新的重要生力军#"
+    },
+    {
+      "word": "#文化情缘#"
     }
   ]
 }

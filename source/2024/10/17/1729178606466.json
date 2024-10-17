@@ -1,0 +1,410 @@
+{
+  "runTime": 1729178606466,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2490834,
+        "num": 2490834,
+        "word": "刘亦菲压轴",
+        "onboard_time": 1729170383,
+        "rank": 0,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 819406,
+        "num": 819406,
+        "word": "以方称打死哈马斯领导人辛瓦尔",
+        "onboard_time": 1729173804,
+        "rank": 1,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 58399,
+        "num": 713930,
+        "word": "美好新疆",
+        "onboard_time": 1729174284,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1514495,
+        "num": 713892,
+        "word": "倪妮拿到了杨幂的绣球",
+        "onboard_time": 1729172062,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 713829,
+        "num": 713829,
+        "word": "老人花40万在直播间买了堆塑料",
+        "onboard_time": 1729174823,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 566366,
+        "num": 566366,
+        "word": "以称正核实是否打死哈马斯领导人辛瓦尔",
+        "onboard_time": 1729175602,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1289606,
+        "num": 522795,
+        "word": "VOGUE晚宴",
+        "onboard_time": 1729173142,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 783204,
+        "num": 471429,
+        "word": "赵露思飞吻",
+        "onboard_time": 1729170803,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 330428,
+        "num": 330428,
+        "word": "LNG对战WBG",
+        "onboard_time": 1729167021,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 50525,
+        "num": 328050,
+        "word": "广州首现登革热重症病例",
+        "onboard_time": 1729177702,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1357244,
+        "num": 327013,
+        "word": "毕业生举报高校女教师与其恋爱出轨",
+        "onboard_time": 1729173563,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 761492,
+        "num": 325067,
+        "word": "刘亦菲杨幂刘诗诗倪妮同场走秀",
+        "onboard_time": 1729175123,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 707740,
+        "num": 320869,
+        "word": "黄圣依想离婚是受不了爹式管理",
+        "onboard_time": 1729169061,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 623617,
+        "num": 319844,
+        "word": "周也裙子变装",
+        "onboard_time": 1729167921,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 22923,
+        "num": 317961,
+        "word": "未购买门票活动中坠亡景区是否担责",
+        "onboard_time": 1729177883,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 527359,
+        "num": 315172,
+        "word": "刘冲让王一博走慢点",
+        "onboard_time": 1729173022,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 438036,
+        "num": 311462,
+        "word": "朱珠真是风情万种",
+        "onboard_time": 1729169602,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 380276,
+        "num": 308714,
+        "word": "娜扎 吸血鬼女王",
+        "onboard_time": 1729168699,
+        "rank": 17,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 283944,
+        "num": 307398,
+        "word": "WBG前期全是计谋",
+        "onboard_time": 1729177223,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 82028,
+        "num": 304977,
+        "word": "大庸古城耗资22亿日均卖票不足20张",
+        "onboard_time": 1729178002,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 748270,
+        "num": 303464,
+        "word": "小英称牛因生了小牛且生病才瘦",
+        "onboard_time": 1729169723,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 370396,
+        "num": 300087,
+        "word": "UNIQ TFBOYS前辈挺可爱的",
+        "onboard_time": 1729172783,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 298653,
+        "num": 298653,
+        "word": "刘诗诗 霜雪天降具像化",
+        "onboard_time": 1729170623,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 297959,
+        "num": 297959,
+        "word": "魏大勋 飘带你好坏",
+        "onboard_time": 1729171282,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 278655,
+        "num": 278655,
+        "word": "陈祥榕母亲为问勇路揭牌",
+        "onboard_time": 1729171642,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 271865,
+        "num": 271865,
+        "word": "娜然 仿生机械姬",
+        "onboard_time": 1729167802,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 270193,
+        "num": 270193,
+        "word": "黎姿状态",
+        "onboard_time": 1729175243,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 265615,
+        "num": 265615,
+        "word": "VOGUE走秀",
+        "onboard_time": 1729165161,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 265231,
+        "num": 265231,
+        "word": "樊振东说不存在恢复",
+        "onboard_time": 1729164981,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 260810,
+        "num": 260810,
+        "word": "王鹤棣 小狗包",
+        "onboard_time": 1729168581,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 249836,
+        "num": 249836,
+        "word": "小英送养孩子实属民间送养不构成犯罪",
+        "onboard_time": 1729154541,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246325,
+        "num": 246325,
+        "word": "王一博带滑板走秀",
+        "onboard_time": 1729169602,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 237573,
+        "num": 237573,
+        "word": "惠英红 百年大妖镇场子",
+        "onboard_time": 1729171522,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 233255,
+        "num": 233255,
+        "word": "檀健次跳舞出场",
+        "onboard_time": 1729170862,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 212217,
+        "num": 212217,
+        "word": "女生称遭平台自动扣费22个月",
+        "onboard_time": 1729175363,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211155,
+        "num": 211155,
+        "word": "2024年度最大超级月亮今晚登场",
+        "onboard_time": 1729163963,
+        "rank": 35,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 210753,
+        "num": 210753,
+        "word": "黄圣依杨子 2个人8人群",
+        "onboard_time": 1729141403,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201177,
+        "num": 201177,
+        "word": "疑似辛瓦尔的尸体可能进行DNA检测",
+        "onboard_time": 1729177401,
+        "rank": 37,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 186707,
+        "num": 186707,
+        "word": "宋佳太帅了",
+        "onboard_time": 1729172303,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 183669,
+        "num": 183669,
+        "word": "韦雪拉黑秦奋",
+        "onboard_time": 1729155142,
+        "rank": 39,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 23530,
+        "num": 180633,
+        "word": "珀莱雅修护新思路",
+        "onboard_time": 1729174043,
+        "rank": 40,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 178317,
+        "num": 178317,
+        "word": "年轻人工作后选择重养一遍自己",
+        "onboard_time": 1729176442,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178170,
+        "num": 178170,
+        "word": "其实最累的状态就是持续犹豫",
+        "onboard_time": 1729172783,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 159502,
+        "num": 159502,
+        "word": "周翊然红毯上玩遥控赛车",
+        "onboard_time": 1729174343,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 152206,
+        "num": 152206,
+        "word": "中方回应朝鲜将韩国定义为敌对国家",
+        "onboard_time": 1729154420,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 145989,
+        "num": 145989,
+        "word": "枭起青壤",
+        "onboard_time": 1729169903,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140285,
+        "num": 140285,
+        "word": "120秒梳理网红小英被曝塌房事件",
+        "onboard_time": 1729175302,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129493,
+        "num": 129493,
+        "word": "snowman",
+        "onboard_time": 1729171043,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 116991,
+        "num": 116991,
+        "word": "英雄联盟",
+        "onboard_time": 1729176082,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 116767,
+        "num": 116767,
+        "word": "儿童文具胶带出现男性生殖器图案",
+        "onboard_time": 1729135462,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#文化情缘#"
+    }
+  }
+}
