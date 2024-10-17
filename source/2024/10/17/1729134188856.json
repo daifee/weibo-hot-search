@@ -1,0 +1,410 @@
+{
+  "runTime": 1729134188856,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 886982,
+        "num": 1141917,
+        "word": "一火箭弹掉入我赴黎维和部队营区",
+        "onboard_time": 1729122560,
+        "rank": 0,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 785343,
+        "num": 785343,
+        "word": "医院回应公职人员体检市民被拦住",
+        "onboard_time": 1729130419,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 5643,
+        "num": 649211,
+        "word": "文化中国行丹青中华",
+        "onboard_time": 1729083982,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2232538,
+        "num": 633109,
+        "word": "沈梦辰模仿叶珂",
+        "onboard_time": 1729130540,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 568562,
+        "num": 568562,
+        "word": "陈好太惨了",
+        "onboard_time": 1729088963,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 442586,
+        "num": 442586,
+        "word": "房地产",
+        "onboard_time": 1729131801,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 364591,
+        "num": 364591,
+        "word": "法媒称姆巴佩与女子自愿发生关系",
+        "onboard_time": 1729125982,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 358308,
+        "num": 358308,
+        "word": "国新办新闻发布会",
+        "onboard_time": 1729131200,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 334078,
+        "num": 334078,
+        "word": "中央5部门共同出席国新办发布会",
+        "onboard_time": 1729131020,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 296776,
+        "num": 334046,
+        "word": "新增实施100万套城中村危旧房改造",
+        "onboard_time": 1729132701,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 722303,
+        "num": 329619,
+        "word": "黄磊线下活动被贴脸喊豆角",
+        "onboard_time": 1729123820,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 654051,
+        "num": 324426,
+        "word": "00后贷款10万炒股倒赔7000元",
+        "onboard_time": 1729129040,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 443322,
+        "num": 321315,
+        "word": "网红强迫机场志愿者摘口罩被行拘",
+        "onboard_time": 1729125861,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 441276,
+        "num": 320488,
+        "word": "特朗普暗示韩国应支付巨额保护费",
+        "onboard_time": 1729124480,
+        "rank": 13,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 372330,
+        "num": 316329,
+        "word": "湖南一医院被曝阻止市民体检",
+        "onboard_time": 1729128319,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 371110,
+        "num": 311696,
+        "word": "刘冲直播间 杨幂",
+        "onboard_time": 1729091300,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 311066,
+        "num": 311066,
+        "word": "肖战电影得闲谨制杀青",
+        "onboard_time": 1729132882,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 263108,
+        "num": 311053,
+        "word": "花少6 小团体",
+        "onboard_time": 1729090102,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 217391,
+        "num": 310621,
+        "word": "此沙掏耳朵",
+        "onboard_time": 1729130960,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 57498,
+        "num": 310416,
+        "word": "智能门锁咬人事件频发",
+        "onboard_time": 1729132521,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 477050,
+        "num": 310034,
+        "word": "花学 周雨彤",
+        "onboard_time": 1729091841,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 434857,
+        "num": 309897,
+        "word": "女子卸甲后发现十指空甲发霉",
+        "onboard_time": 1729086861,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 384874,
+        "num": 309447,
+        "word": "大学生售卖336部淫秽视频被判刑",
+        "onboard_time": 1729118533,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 309314,
+        "num": 309314,
+        "word": "妈妈比死神先到了",
+        "onboard_time": 1729131681,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 295066,
+        "num": 295066,
+        "word": "房地产白名单项目信贷增加到4万亿",
+        "onboard_time": 1729132701,
+        "rank": 24,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 285669,
+        "num": 285669,
+        "word": "时尚芭莎",
+        "onboard_time": 1729133181,
+        "rank": 25,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 278090,
+        "num": 278090,
+        "word": "日本新任首相向靖国神社供奉祭品",
+        "onboard_time": 1729127721,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 271837,
+        "num": 271837,
+        "word": "辅警下班1秒钟又开始上班",
+        "onboard_time": 1729130540,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209517,
+        "num": 263696,
+        "word": "独身女人首发预告",
+        "onboard_time": 1729133662,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162172,
+        "num": 262957,
+        "word": "时代少年团五周年芭莎封面",
+        "onboard_time": 1729131980,
+        "rank": 29,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 262671,
+        "num": 262671,
+        "word": "中医说指甲是内脏显示屏",
+        "onboard_time": 1729133241,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 236661,
+        "num": 236661,
+        "word": "楼市组合拳4取消4降低2增加",
+        "onboard_time": 1729133541,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 233128,
+        "num": 233128,
+        "word": "多名中国女性在德国遭强奸",
+        "onboard_time": 1729074259,
+        "rank": 32,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 193979,
+        "num": 193979,
+        "word": "朝鲜已完全封闭与韩国连接的公路铁路",
+        "onboard_time": 1729122739,
+        "rank": 33,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 189945,
+        "num": 189945,
+        "word": "中国原子弹之母隐姓埋名30年",
+        "onboard_time": 1729094598,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 186491,
+        "num": 186491,
+        "word": "特朗普称朝鲜很强大",
+        "onboard_time": 1729125501,
+        "rank": 35,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 183827,
+        "num": 183827,
+        "word": "女子摔倒鲨鱼夹碎裂扎入头部",
+        "onboard_time": 1729133722,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 9467,
+        "num": 178036,
+        "word": "线上店和实体店家电质量一样吗",
+        "onboard_time": 1729133483,
+        "rank": 37,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 177639,
+        "num": 177639,
+        "word": "京东互助",
+        "onboard_time": 1729125681,
+        "rank": 38,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 177333,
+        "num": 177333,
+        "word": "海警驱离日非法进入我钓鱼岛领海船只",
+        "onboard_time": 1729131260,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 171472,
+        "num": 171472,
+        "word": "刘满仓被查",
+        "onboard_time": 1729133603,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164281,
+        "num": 164281,
+        "word": "房地产市场出现积极的变化",
+        "onboard_time": 1729133722,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 164139,
+        "num": 164139,
+        "word": "取消一切不必要不恰当不合理考核",
+        "onboard_time": 1729126941,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162651,
+        "num": 162651,
+        "word": "猪肉发臭的学校食堂已停止供餐",
+        "onboard_time": 1729131561,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160071,
+        "num": 160071,
+        "word": "单向乐队利亚姆佩恩坠亡",
+        "onboard_time": 1729123219,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155766,
+        "num": 155766,
+        "word": "叶珂说自己不是很做作的人",
+        "onboard_time": 1729091241,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154382,
+        "num": 154382,
+        "word": "100岁姐姐与94岁妹妹的极限拉扯",
+        "onboard_time": 1729107131,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153851,
+        "num": 153851,
+        "word": "无人驾驶惹争议居民状告阿维塔",
+        "onboard_time": 1729130841,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145950,
+        "num": 145950,
+        "word": "在德中国女性遭性侵嫌犯疑为华裔男子",
+        "onboard_time": 1729134143,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126055,
+        "num": 143671,
+        "word": "十个勤天 偏偏你们最争气",
+        "onboard_time": 1729122560,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国的饭碗一定要端在自己的手里#"
+    }
+  }
+}
