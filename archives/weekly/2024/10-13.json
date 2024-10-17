@@ -1,6 +1,6 @@
 {
   "startTime": 1728750414717,
-  "endTime": 1729171794992,
+  "endTime": 1729172494804,
   "band_list": [
     {
       "raw_hot": 17915004,
@@ -305,6 +305,14 @@
       "onboard_time": 1728879139,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 2272427,
+      "num": 462737,
+      "word": "倪妮拿到了杨幂的绣球",
+      "onboard_time": 1729172062,
+      "rank": 3,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 2260736,
@@ -1083,6 +1091,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1211726,
+      "num": 421211,
+      "word": "黄圣依想离婚是受不了爹式管理",
+      "onboard_time": 1729169061,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1208173,
       "num": 996519,
       "word": "台独顽固分子沈伯洋曹兴诚被惩戒",
@@ -1233,14 +1249,6 @@
       "onboard_time": 1728738325,
       "rank": 0,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1092476,
-      "num": 421211,
-      "word": "黄圣依想离婚是受不了爹式管理",
-      "onboard_time": 1729169061,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 1089422,
@@ -2203,6 +2211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 746216,
+      "num": 413321,
+      "word": "杨幂红毯生图",
+      "onboard_time": 1729165340,
+      "rank": 13,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 745347,
       "num": 427274,
       "word": "韩国京畿道禁止市民在边界放飞气球",
@@ -2241,6 +2257,14 @@
       "onboard_time": 1728894920,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 738434,
+      "num": 398497,
+      "word": "杨天真带着付款码来了",
+      "onboard_time": 1729168941,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 737139,
@@ -2409,14 +2433,6 @@
       "onboard_time": 1728868700,
       "rank": 22,
       "category": "教育"
-    },
-    {
-      "raw_hot": 697196,
-      "num": 413321,
-      "word": "杨幂红毯生图",
-      "onboard_time": 1729165340,
-      "rank": 13,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 695978,
@@ -2811,20 +2827,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 602442,
+      "num": 394006,
+      "word": "刘诗诗 霜雪天降具像化",
+      "onboard_time": 1729170623,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 602091,
       "num": 602091,
       "word": "成都官方辟谣天价拆迁款",
       "onboard_time": 1729067480,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 600779,
-      "num": 398497,
-      "word": "杨天真带着付款码来了",
-      "onboard_time": 1729168941,
-      "rank": 47,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 600654,
@@ -3065,14 +3081,6 @@
       "onboard_time": 1729137266,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 545835,
-      "num": 394006,
-      "word": "刘诗诗 霜雪天降具像化",
-      "onboard_time": 1729170623,
-      "rank": 25,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 544884,
@@ -3691,6 +3699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 445140,
+      "num": 384779,
+      "word": "赵露思飞吻",
+      "onboard_time": 1729170803,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 444394,
       "num": 444394,
       "word": "11岁男生向女童泼开水不需承担刑责",
@@ -4145,14 +4161,6 @@
       "onboard_time": 1729071320,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 384779,
-      "num": 384779,
-      "word": "赵露思飞吻",
-      "onboard_time": 1729170803,
-      "rank": 32,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 384388,
@@ -4611,20 +4619,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 332378,
+      "num": 332378,
+      "word": "檀健次跳舞出场",
+      "onboard_time": 1729170862,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 332064,
       "num": 273469,
       "word": "邓亚萍谈金琴英3比1张本美和",
       "onboard_time": 1728897199,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 331360,
-      "num": 331360,
-      "word": "檀健次跳舞出场",
-      "onboard_time": 1729170862,
-      "rank": 35,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 330841,
@@ -4729,6 +4737,14 @@
       "onboard_time": 1729146321,
       "rank": 43,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 323716,
+      "num": 323716,
+      "word": "惠英红 百年大妖镇场子",
+      "onboard_time": 1729171522,
+      "rank": 45,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 320857,
@@ -5009,6 +5025,14 @@
       "onboard_time": 1729071980,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 299419,
+      "num": 351321,
+      "word": "小英称牛因生了小牛且生病才瘦",
+      "onboard_time": 1729169723,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 299280,
@@ -6131,14 +6155,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 243499,
-      "num": 287486,
-      "word": "小英称牛因生了小牛且生病才瘦",
-      "onboard_time": 1729169723,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 242056,
       "num": 498923,
       "word": "年轻的战场有王一博",
@@ -6265,6 +6281,14 @@
       "onboard_time": 1728961578,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 233596,
+      "num": 356532,
+      "word": "陈祥榕母亲为问勇路揭牌",
+      "onboard_time": 1729171642,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 233311,
@@ -6793,14 +6817,6 @@
       "onboard_time": 1728963078,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 215891,
-      "num": 215891,
-      "word": "惠英红 百年大妖镇场子",
-      "onboard_time": 1729171522,
-      "rank": 45,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 215811,
@@ -7435,6 +7451,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 203382,
+      "num": 203382,
+      "word": "张若昀蒲公英掉一路",
+      "onboard_time": 1729172123,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 203356,
       "num": 225175,
       "word": "王安宇拍戏瘦了7公斤",
@@ -7899,6 +7923,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 196183,
+      "num": 404782,
+      "word": "魏大勋 飘带你好坏",
+      "onboard_time": 1729171282,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 196166,
       "num": 397001,
       "word": "GAPDAY音乐节佛山定档",
@@ -8235,6 +8267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 191200,
+      "num": 191200,
+      "word": "宋佳太帅了",
+      "onboard_time": 1729172303,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 191148,
       "num": 191148,
       "word": "郑钦文决赛前吃了退烧药",
@@ -8312,14 +8352,6 @@
       "word": "开发商回应成都拆迁",
       "onboard_time": 1729071860,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 190189,
-      "num": 190189,
-      "word": "陈祥榕母亲为问勇路揭牌",
-      "onboard_time": 1729171642,
-      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -9113,6 +9145,14 @@
       "onboard_time": 1729076241,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 174409,
+      "num": 174409,
+      "word": "2024KPL年度总决赛",
+      "onboard_time": 1729172303,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 174164,
@@ -12523,14 +12563,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 79728,
-      "num": 404782,
-      "word": "魏大勋 飘带你好坏",
-      "onboard_time": 1729171282,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 79200,
       "num": 296493,
       "word": "别人都亲上了毕雯珺还在搞纯爱",
@@ -13995,6 +14027,14 @@
       "category": "数码,互联网"
     },
     {
+      "raw_hot": 38336,
+      "num": 420537,
+      "word": "女子为博流量虚构寻人启事被罚",
+      "onboard_time": 1729170444,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 38306,
       "num": 388699,
       "word": "男子醉驾撞车喊哥们来顶包皆被拘",
@@ -14131,11 +14171,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 35522,
+      "num": 412718,
+      "word": "举报幼儿园违法办学8年后被捕后续",
+      "onboard_time": 1729170563,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 35391,
       "num": 356159,
       "word": "中证A系列指数再扩容",
       "onboard_time": 1728831263,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 35347,
+      "num": 404226,
+      "word": "宠物医疗暴利还是泡沫",
+      "onboard_time": 1729171222,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -14417,6 +14473,14 @@
       "onboard_time": 1728976759,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 32191,
+      "num": 482212,
+      "word": "沉浸式感受新疆机械采棉震撼场景",
+      "onboard_time": 1729155622,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 31800,
@@ -14707,14 +14771,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 27119,
-      "num": 464740,
-      "word": "沉浸式感受新疆机械采棉震撼场景",
-      "onboard_time": 1729155622,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 27086,
       "num": 297344,
       "word": "美称以不会打击伊朗核设施",
@@ -14776,14 +14832,6 @@
       "word": "古代的勺子上也有满满匠心",
       "onboard_time": 1729014014,
       "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 25749,
-      "num": 404226,
-      "word": "宠物医疗暴利还是泡沫",
-      "onboard_time": 1729171222,
-      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -14859,14 +14907,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 23921,
-      "num": 412718,
-      "word": "举报幼儿园违法办学8年后被捕后续",
-      "onboard_time": 1729170563,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 23705,
       "num": 489666,
       "word": "朝鲜半岛的火药桶会被点燃吗",
@@ -14912,14 +14952,6 @@
       "word": "前村长被指盗信息为不明孩子落户",
       "onboard_time": 1728900800,
       "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 22973,
-      "num": 420537,
-      "word": "女子为博流量虚构寻人启事被罚",
-      "onboard_time": 1729170444,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
