@@ -1,6 +1,6 @@
 {
   "startTime": 1729096028716,
-  "endTime": 1729136561460,
+  "endTime": 1729139206659,
   "band_list": [
     {
       "raw_hot": 2232538,
@@ -27,12 +27,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1524725,
+      "num": 686943,
+      "word": "儿童文具胶带出现男性生殖器图案",
+      "onboard_time": 1729135462,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1331391,
       "num": 593919,
       "word": "花学 周雨彤",
       "onboard_time": 1729091841,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1257223,
+      "num": 1257223,
+      "word": "台禁止输入大陆产黄飞红花生",
+      "onboard_time": 1729135523,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1158420,
@@ -65,6 +81,14 @@
       "onboard_time": 1729122560,
       "rank": 0,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 902117,
+      "num": 492538,
+      "word": "杨幂给小糯米买玩偶",
+      "onboard_time": 1729135944,
+      "rank": 12,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 873909,
@@ -107,12 +131,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 718136,
-      "num": 492538,
-      "word": "杨幂给小糯米买玩偶",
-      "onboard_time": 1729135944,
-      "rank": 12,
-      "category": "作品衍生"
+      "raw_hot": 730477,
+      "num": 566021,
+      "word": "杜华 王一博就别汇报了",
+      "onboard_time": 1729137206,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 690137,
@@ -121,14 +145,6 @@
       "onboard_time": 1729125982,
       "rank": 12,
       "category": "体育"
-    },
-    {
-      "raw_hot": 686943,
-      "num": 686943,
-      "word": "儿童文具胶带出现男性生殖器图案",
-      "onboard_time": 1729135462,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 683167,
@@ -179,12 +195,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 549381,
+      "num": 549381,
+      "word": "长沙自建房倒塌事故案一审宣判",
+      "onboard_time": 1729137266,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 537994,
+      "num": 355134,
+      "word": "周也姐姐设计的礼服",
+      "onboard_time": 1729138166,
+      "rank": 19,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 533656,
       "num": 292215,
       "word": "大冰停播",
       "onboard_time": 1729124361,
       "rank": 15,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 528035,
+      "num": 528035,
+      "word": "马天宇战绩可查",
+      "onboard_time": 1729133121,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 518295,
@@ -283,14 +323,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 420879,
-      "num": 420879,
-      "word": "台禁止输入大陆产黄飞红花生",
-      "onboard_time": 1729135523,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 418579,
       "num": 418579,
       "word": "国新办新闻发布会",
@@ -347,6 +379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 363175,
+      "num": 363175,
+      "word": "长沙自建房倒塌事故15人获刑",
+      "onboard_time": 1729137926,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 343121,
       "num": 225914,
       "word": "金字塔顶端发现一条狗",
@@ -393,6 +433,14 @@
       "onboard_time": 1729132701,
       "rank": 28,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 287278,
+      "num": 287278,
+      "word": "特朗普称美国城市发展远落后中国",
+      "onboard_time": 1729136544,
+      "rank": 44,
+      "category": "国外时政"
     },
     {
       "raw_hot": 285669,
@@ -467,20 +515,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 248846,
-      "num": 481512,
-      "word": "马天宇战绩可查",
-      "onboard_time": 1729133121,
-      "rank": 49,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 233311,
       "num": 353648,
       "word": "此沙掏耳朵",
       "onboard_time": 1729130960,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 232699,
+      "num": 167417,
+      "word": "京东 孟川",
+      "onboard_time": 1729138045,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 229998,
@@ -505,6 +553,30 @@
       "onboard_time": 1729125681,
       "rank": 29,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 211219,
+      "num": 211219,
+      "word": "娜扎短发卸妆live图",
+      "onboard_time": 1729138346,
+      "rank": 29,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 210873,
+      "num": 210873,
+      "word": "厂家就儿童文具现生殖器图案道歉",
+      "onboard_time": 1729138465,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 210039,
+      "num": 210039,
+      "word": "田曦薇 花仙子",
+      "onboard_time": 1729138706,
+      "rank": 31,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 209517,
@@ -555,12 +627,44 @@
       "category": "体育"
     },
     {
+      "raw_hot": 202128,
+      "num": 202128,
+      "word": "黄雨婷紧急撤回一句实话",
+      "onboard_time": 1729138706,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 201270,
+      "num": 201270,
+      "word": "现在就出发2全员旅行宣言",
+      "onboard_time": 1729138105,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 196985,
+      "num": 374248,
+      "word": "楼市新政组合拳",
+      "onboard_time": 1729138885,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 195889,
       "num": 195889,
       "word": "10月26日可查房贷利率调整结果",
       "onboard_time": 1729136005,
       "rank": 39,
       "category": "国内时政,财经"
+    },
+    {
+      "raw_hot": 195806,
+      "num": 195806,
+      "word": "宋亚轩刘耀文芭莎同框",
+      "onboard_time": 1729138645,
+      "rank": 38,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 194359,
@@ -587,12 +691,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 186789,
-      "num": 186789,
-      "word": "特朗普称美国城市发展远落后中国",
-      "onboard_time": 1729136544,
-      "rank": 44,
-      "category": "国外时政"
+      "raw_hot": 187036,
+      "num": 187036,
+      "word": "王一博首场GT3赛车比赛",
+      "onboard_time": 1729138045,
+      "rank": 40,
+      "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 182779,
+      "num": 182779,
+      "word": "唐嫣赵又廷独身女人首发预告",
+      "onboard_time": 1729136965,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 181441,
@@ -609,6 +721,22 @@
       "onboard_time": 1729094120,
       "rank": 14,
       "category": "美食"
+    },
+    {
+      "raw_hot": 175475,
+      "num": 175475,
+      "word": "虞书欣Chill小兔",
+      "onboard_time": 1729137024,
+      "rank": 42,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 175434,
+      "num": 494128,
+      "word": "到底哪个幸运儿用上了高铁WiFi",
+      "onboard_time": 1729135703,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 174716,
@@ -659,12 +787,28 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 167571,
+      "num": 167571,
+      "word": "电影那个不为人知的故事定档",
+      "onboard_time": 1729138645,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 167434,
       "num": 167434,
       "word": "薛冰冰为赵露思化的妆",
       "onboard_time": 1729086801,
       "rank": 24,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 166601,
+      "num": 166601,
+      "word": "逆水寒手游bug",
+      "onboard_time": 1729137625,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 166062,
@@ -696,6 +840,14 @@
       "word": "无人驾驶惹争议居民状告阿维塔",
       "onboard_time": 1729130841,
       "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 160233,
+      "num": 160233,
+      "word": "学医女孩下班当模特气质反差惊艳",
+      "onboard_time": 1729139186,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -1011,14 +1163,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 82289,
-      "num": 494128,
-      "word": "到底哪个幸运儿用上了高铁WiFi",
-      "onboard_time": 1729135703,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 81257,
       "num": 203041,
       "word": "Jennie勺子短裤",
@@ -1107,6 +1251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 46960,
+      "num": 357414,
+      "word": "休学不该被视为一种失败",
+      "onboard_time": 1729138105,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 45982,
       "num": 202287,
       "word": "史上最强该死的温柔",
@@ -1137,6 +1289,14 @@
       "onboard_time": 1729121479,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 40375,
+      "num": 362422,
+      "word": "向佐 我和河南文化气质很搭",
+      "onboard_time": 1729138946,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 38639,
@@ -1187,6 +1347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 30421,
+      "num": 363644,
+      "word": "诈骗团伙伪造政府发布会欺骗老年人",
+      "onboard_time": 1729138346,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 29155,
       "num": 135371,
       "word": "蜂蜜桂花炖奶",
@@ -1225,6 +1393,14 @@
       "onboard_time": 1729101733,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 21619,
+      "num": 359238,
+      "word": "禾伙人原创50人合唱",
+      "onboard_time": 1729138885,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 20736,
