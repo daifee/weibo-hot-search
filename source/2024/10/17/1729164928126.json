@@ -1,0 +1,402 @@
+{
+  "runTime": 1729164928126,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 707702,
+        "num": 1113232,
+        "word": "主播称遭追杀让粉丝买下文物先保管",
+        "onboard_time": 1729158861,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 474454,
+        "num": 474454,
+        "word": "月亮",
+        "onboard_time": 1729158983,
+        "rank": 1,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 531103,
+        "num": 440032,
+        "word": "中方回应朝鲜将韩国定义为敌对国家",
+        "onboard_time": 1729154420,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 834061,
+        "num": 430649,
+        "word": "国企员工擅自离岗16年丈夫发声",
+        "onboard_time": 1729160061,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 413202,
+        "num": 413202,
+        "word": "刘诗诗面纱live",
+        "onboard_time": 1729164021,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1199935,
+        "num": 412278,
+        "word": "虞书欣 烈焰玫瑰",
+        "onboard_time": 1729161982,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 766357,
+        "num": 409732,
+        "word": "鞠婧祎 清纯小白花",
+        "onboard_time": 1729163061,
+        "rank": 7,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 928804,
+        "num": 407164,
+        "word": "王一博 起猛了",
+        "onboard_time": 1729163842,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 99884,
+        "num": 405027,
+        "word": "上海迪士尼就阻拦游客带扑克牌道歉",
+        "onboard_time": 1729163001,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 818075,
+        "num": 401504,
+        "word": "赵露思超长麻花辫",
+        "onboard_time": 1729152801,
+        "rank": 10,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 401375,
+        "num": 401375,
+        "word": "毒液模仿向佐",
+        "onboard_time": 1729159280,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 68183,
+        "num": 401225,
+        "word": "梁王晋级丹麦赛8强",
+        "onboard_time": 1729164381,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 85150,
+        "num": 398620,
+        "word": "2024年度最大超级月亮今晚登场",
+        "onboard_time": 1729163963,
+        "rank": 13,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 33075,
+        "num": 396971,
+        "word": "中小游戏公司出海卷不过大厂",
+        "onboard_time": 1729163363,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 581412,
+        "num": 394631,
+        "word": "韦雪拉黑秦奋",
+        "onboard_time": 1729155142,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 2432788,
+        "num": 393743,
+        "word": "VOGUE红毯",
+        "onboard_time": 1729157721,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 833230,
+        "num": 390906,
+        "word": "刘亦菲梦回白秀珠",
+        "onboard_time": 1729158200,
+        "rank": 17,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 38306,
+        "num": 388699,
+        "word": "男子醉驾撞车喊哥们来顶包皆被拘",
+        "onboard_time": 1729164021,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 814725,
+        "num": 387346,
+        "word": "杨幂又玩抽象了",
+        "onboard_time": 1729156462,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 796728,
+        "num": 386142,
+        "word": "网红小英承认曾送养女孩",
+        "onboard_time": 1729154300,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 627279,
+        "num": 382563,
+        "word": "小英送养孩子实属民间送养不构成犯罪",
+        "onboard_time": 1729154541,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 382456,
+        "num": 382456,
+        "word": "黄圣依杨子 2个人8人群",
+        "onboard_time": 1729141403,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 379030,
+        "num": 379030,
+        "word": "双胞胎宝妈又怀上三胞胎称有压力",
+        "onboard_time": 1729154962,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267859,
+        "num": 377734,
+        "word": "VOGUE粉色背景板",
+        "onboard_time": 1729163963,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 263006,
+        "num": 373275,
+        "word": "风都偏爱陈都灵",
+        "onboard_time": 1729162102,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 174394,
+        "num": 371437,
+        "word": "吴谨言活动视频",
+        "onboard_time": 1729158320,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 164733,
+        "num": 367978,
+        "word": "吴谨言发疯版鞭子舞",
+        "onboard_time": 1729160961,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26693,
+        "num": 366030,
+        "word": "跟着金晨选到了人生精华",
+        "onboard_time": 1729163061,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 364263,
+        "num": 364263,
+        "word": "儿童文具胶带出现男性生殖器图案",
+        "onboard_time": 1729135462,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 337812,
+        "num": 337812,
+        "word": "林高远1比3闫安",
+        "onboard_time": 1729163602,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 289716,
+        "num": 289716,
+        "word": "丈夫护送妻子开车上班却被顶翻",
+        "onboard_time": 1729160122,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 266881,
+        "num": 266881,
+        "word": "山东一市监所所长被刺身亡",
+        "onboard_time": 1729154121,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255732,
+        "num": 255732,
+        "word": "4人造谣成都天价拆迁款被处罚",
+        "onboard_time": 1729160781,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240167,
+        "num": 240167,
+        "word": "黄圣依回应缺席浪姐排练",
+        "onboard_time": 1729157482,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20868,
+        "num": 229127,
+        "word": "跟着e人王星越买面霜的快乐",
+        "onboard_time": 1729163420,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 224230,
+        "num": 224230,
+        "word": "山东威海一海滩发现甲午战争鱼雷",
+        "onboard_time": 1729159640,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215302,
+        "num": 215302,
+        "word": "小英回应经济状况",
+        "onboard_time": 1729161381,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212544,
+        "num": 212544,
+        "word": "夫妻分房睡会影响亲密关系吗",
+        "onboard_time": 1729152443,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196524,
+        "num": 196524,
+        "word": "广东男团2比3北京男团",
+        "onboard_time": 1729164262,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 58428,
+        "num": 171854,
+        "word": "毒液新浪扫楼",
+        "onboard_time": 1729163483,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 160555,
+        "num": 160555,
+        "word": "主播靠古董专家人设获利70多万元",
+        "onboard_time": 1729160781,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103244,
+        "num": 153602,
+        "word": "张凌赫live图bgm是凤凰传奇",
+        "onboard_time": 1729160661,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 146313,
+        "num": 146313,
+        "word": "微博竞燃之夜投票",
+        "onboard_time": 1729164502,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 145735,
+        "num": 145735,
+        "word": "鞋 还回来吃饭吗",
+        "onboard_time": 1729157062,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 144647,
+        "num": 144647,
+        "word": "官方称小英送养行为不构成犯罪",
+        "onboard_time": 1729162402,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144465,
+        "num": 144465,
+        "word": "宋佳 173大美女来了",
+        "onboard_time": 1729161982,
+        "rank": 46,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 143859,
+        "num": 143859,
+        "word": "VOGUE真假live图",
+        "onboard_time": 1729157959,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 142776,
+        "num": 142776,
+        "word": "樊振东vs刘家良",
+        "onboard_time": 1729154121,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134332,
+        "num": 134332,
+        "word": "全锦赛广东男团vs北京男团",
+        "onboard_time": 1729161921,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#把丰碑立在人民群众心中#"
+    }
+  }
+}

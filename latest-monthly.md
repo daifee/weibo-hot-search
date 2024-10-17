@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/10/01 00:28:17 ~ 2024/10/17 19:19:34
+本榜单时间：2024/10/01 00:28:17 ~ 2024/10/17 19:35:28
 </p>
 </blockquote>
 <p>
@@ -3153,6 +3153,12 @@ A股后续将迎第二波上涨行情（热度：964810）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%20%E8%B5%B7%E7%8C%9B%E4%BA%86%23" target="weibo">
+王一博 起猛了（热度：928804）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%2315%E5%85%83%E5%A4%96%E5%8D%96%E4%B8%8E%E7%85%A7%E7%89%87%E4%B8%8D%E7%AC%A6%E8%B5%B7%E8%AF%89%E8%8E%B7%E8%B5%94500%E5%85%83%23" target="weibo">
 15元外卖与照片不符起诉获赔500元（热度：928166）
 </a>
@@ -3653,6 +3659,12 @@ Jennie小松菜奈同框（热度：844521）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A0%B5%E8%BD%A6%E7%9A%84%E6%BA%90%E5%A4%B4%E7%AB%9F%E6%98%AF%E5%8F%B8%E6%9C%BA%E8%B7%AF%E8%BE%B9%E5%81%9C%E8%BD%A6%E9%87%8E%E9%A4%90%23" target="weibo">
 堵车的源头竟是司机路边停车野餐（热度：838514）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%BC%81%E5%91%98%E5%B7%A5%E6%93%85%E8%87%AA%E7%A6%BB%E5%B2%9716%E5%B9%B4%E4%B8%88%E5%A4%AB%E5%8F%91%E5%A3%B0%23" target="weibo">
+国企员工擅自离岗16年丈夫发声（热度：834061）
 </a>
 </li>
 
@@ -4235,6 +4247,12 @@ SpaceX星舰进行第五次试飞（热度：769541）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23Jennie%E6%9D%83%E5%BF%97%E9%BE%99%E5%8E%BB%E4%BA%862ne1%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
 Jennie权志龙去了2ne1演唱会（热度：766404）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9E%A0%E5%A9%A7%E7%A5%8E%20%E6%B8%85%E7%BA%AF%E5%B0%8F%E7%99%BD%E8%8A%B1%23" target="weibo">
+鞠婧祎 清纯小白花（热度：766357）
 </a>
 </li>
 
@@ -5993,24 +6011,6 @@ A股暴涨后股民消费升级（热度：596347）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%20%E8%87%AA%E5%B7%B1%E5%8C%96%E5%A6%86%23" target="weibo">
 赵露思 自己化妆（热度：593725）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E9%AB%98%E9%80%9F%E4%B8%8A%E5%BC%80%E5%90%AF%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E6%92%9E%E4%B8%8A%E6%B0%B4%E9%A9%AC%23" target="weibo">
-男子高速上开启自动驾驶撞上水马（热度：592753）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23A%E8%82%A1%E4%BD%8E%E5%BC%80%23" target="weibo">
-A股低开（热度：592361）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E7%A7%B0200%E6%9E%9A%E5%AF%BC%E5%BC%B990%25%E5%87%BB%E4%B8%AD%E9%A2%84%E8%AE%BE%E7%9B%AE%E6%A0%87%23" target="weibo">
-伊朗称200枚导弹90%击中预设目标（热度：591567）
 </a>
 </li>
 
