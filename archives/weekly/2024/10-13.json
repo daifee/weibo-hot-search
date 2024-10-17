@@ -1,6 +1,6 @@
 {
   "startTime": 1728750414717,
-  "endTime": 1729178606466,
+  "endTime": 1729179605383,
   "band_list": [
     {
       "raw_hot": 17915004,
@@ -924,7 +924,7 @@
     },
     {
       "raw_hot": 1311474,
-      "num": 585072,
+      "num": 585139,
       "word": "VOGUE晚宴",
       "onboard_time": 1729173142,
       "rank": 6,
@@ -2043,6 +2043,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 803051,
+      "num": 803051,
+      "word": "老人花40万在直播间买了堆塑料",
+      "onboard_time": 1729174823,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 802790,
       "num": 802790,
       "word": "刘琳提名视后",
@@ -2228,7 +2236,7 @@
     },
     {
       "raw_hot": 761492,
-      "num": 325067,
+      "num": 381348,
       "word": "刘亦菲杨幂刘诗诗倪妮同场走秀",
       "onboard_time": 1729175123,
       "rank": 17,
@@ -2441,14 +2449,6 @@
       "onboard_time": 1728977420,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 713829,
-      "num": 713829,
-      "word": "老人花40万在直播间买了堆塑料",
-      "onboard_time": 1729174823,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 713484,
@@ -3003,6 +3003,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 586087,
+      "num": 586087,
+      "word": "以称正核实是否打死哈马斯领导人辛瓦尔",
+      "onboard_time": 1729175602,
+      "rank": 14,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 581090,
       "num": 469358,
       "word": "殷世航回应",
@@ -3089,14 +3097,6 @@
       "onboard_time": 1729152443,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 566366,
-      "num": 566366,
-      "word": "以称正核实是否打死哈马斯领导人辛瓦尔",
-      "onboard_time": 1729175602,
-      "rank": 14,
-      "category": "国外时政"
     },
     {
       "raw_hot": 564073,
@@ -3699,6 +3699,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 463068,
+      "num": 338300,
+      "word": "UNIQ TFBOYS前辈挺可爱的",
+      "onboard_time": 1729172783,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 460129,
       "num": 960335,
       "word": "河南省司法厅原厅长王文海病亡",
@@ -4211,6 +4219,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 387915,
+      "num": 387915,
+      "word": "LNG对战WBG",
+      "onboard_time": 1729167021,
+      "rank": 17,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 387445,
       "num": 387445,
       "word": "李现提名金鹰奖最佳男主角",
@@ -4355,14 +4371,6 @@
       "category": "汽车,体育"
     },
     {
-      "raw_hot": 370396,
-      "num": 300087,
-      "word": "UNIQ TFBOYS前辈挺可爱的",
-      "onboard_time": 1729172783,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 370260,
       "num": 370260,
       "word": "韩方回应若构成威胁朝鲜政权将终结",
@@ -4393,6 +4401,14 @@
       "onboard_time": 1729059498,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 365503,
+      "num": 365503,
+      "word": "疑似辛瓦尔的尸体可能进行DNA检测",
+      "onboard_time": 1729177401,
+      "rank": 37,
+      "category": "国外时政"
     },
     {
       "raw_hot": 365482,
@@ -4755,14 +4771,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 330428,
-      "num": 330428,
-      "word": "LNG对战WBG",
-      "onboard_time": 1729167021,
-      "rank": 17,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 330334,
       "num": 442587,
       "word": "成何体统 丞磊王楚然",
@@ -4873,6 +4881,14 @@
       "onboard_time": 1728798139,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 318040,
+      "num": 270193,
+      "word": "黎姿状态",
+      "onboard_time": 1729175243,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 317715,
@@ -5689,14 +5705,6 @@
       "onboard_time": 1728820701,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 270193,
-      "num": 270193,
-      "word": "黎姿状态",
-      "onboard_time": 1729175243,
-      "rank": 35,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 270186,
@@ -6875,6 +6883,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 217872,
+      "num": 256938,
+      "word": "女生称遭平台自动扣费22个月",
+      "onboard_time": 1729175363,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 217677,
       "num": 217677,
       "word": "原来100天真能做成一件伟大的事",
@@ -7103,14 +7119,6 @@
       "num": 212397,
       "word": "医院回应座椅上印代孕广告",
       "onboard_time": 1728880401,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 212217,
-      "num": 212217,
-      "word": "女生称遭平台自动扣费22个月",
-      "onboard_time": 1729175363,
       "rank": 43,
       "category": "社会新闻"
     },
@@ -7713,14 +7721,6 @@
       "onboard_time": 1729054881,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 201177,
-      "num": 201177,
-      "word": "疑似辛瓦尔的尸体可能进行DNA检测",
-      "onboard_time": 1729177401,
-      "rank": 37,
-      "category": "国外时政"
     },
     {
       "raw_hot": 200937,
@@ -9593,6 +9593,14 @@
       "onboard_time": 1728992899,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 167898,
+      "num": 167898,
+      "word": "侯佩岑 享受失控带来的安全感",
+      "onboard_time": 1729178661,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 167785,
@@ -12684,7 +12692,7 @@
     },
     {
       "raw_hot": 82028,
-      "num": 304977,
+      "num": 332096,
       "word": "大庸古城耗资22亿日均卖票不足20张",
       "onboard_time": 1729178002,
       "rank": 19,
@@ -12801,6 +12809,14 @@
       "onboard_time": 1728958398,
       "rank": 15,
       "category": "数码"
+    },
+    {
+      "raw_hot": 74730,
+      "num": 104391,
+      "word": "许昕全锦赛神仙球",
+      "onboard_time": 1729179560,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 74455,
@@ -12977,6 +12993,14 @@
       "onboard_time": 1728902300,
       "rank": 43,
       "category": "数码"
+    },
+    {
+      "raw_hot": 67413,
+      "num": 354998,
+      "word": "广州首现登革热重症病例",
+      "onboard_time": 1729177702,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 67189,
@@ -13607,14 +13631,6 @@
       "num": 81360,
       "word": "成都住房贷款可以商转公了",
       "onboard_time": 1729015992,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 50525,
-      "num": 328050,
-      "word": "广州首现登革热重症病例",
-      "onboard_time": 1729177702,
       "rank": 9,
       "category": "社会新闻"
     },
@@ -14851,6 +14867,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 29358,
+      "num": 348064,
+      "word": "未购买门票活动中坠亡景区是否担责",
+      "onboard_time": 1729177883,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 29347,
       "num": 430880,
       "word": "母亲痴迷养生直播8000多买了三无产品",
@@ -15176,14 +15200,6 @@
       "word": "前村长被指盗信息为不明孩子落户",
       "onboard_time": 1728900800,
       "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 22923,
-      "num": 317961,
-      "word": "未购买门票活动中坠亡景区是否担责",
-      "onboard_time": 1729177883,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -15697,6 +15713,14 @@
       "onboard_time": 1729107013,
       "rank": 9,
       "category": "军事"
+    },
+    {
+      "raw_hot": 13047,
+      "num": 350999,
+      "word": "借未成年人身份退游戏费属欺诈",
+      "onboard_time": 1729178960,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 12736,

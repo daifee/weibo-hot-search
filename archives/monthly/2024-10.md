@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/10/01 00:28:17 ~ 2024/10/17 23:23:26
+本榜单时间：2024/10/01 00:28:17 ~ 2024/10/17 23:40:05
 </p>
 </blockquote>
 <p>
@@ -4047,6 +4047,12 @@ aespa（热度：832836）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E8%8A%B140%E4%B8%87%E5%9C%A8%E7%9B%B4%E6%92%AD%E9%97%B4%E4%B9%B0%E4%BA%86%E5%A0%86%E5%A1%91%E6%96%99%23" target="weibo">
+老人花40万在直播间买了堆塑料（热度：803051）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E6%A3%89%E8%8A%B1%E5%A8%83%E5%A8%83%23" target="weibo">
 时代少年团棉花娃娃（热度：802965）
 </a>
@@ -4901,12 +4907,6 @@ SM确认洪承汉不退团（热度：728564）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%89%AC%E9%9D%92%20%E5%80%9F%E9%92%B1%E5%87%BA%E5%8E%BB%E7%9A%84%E6%98%AF%E5%AD%99%E5%AD%90%23" target="weibo">
 周扬青 借钱出去的是孙子（热度：714136）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E8%8A%B140%E4%B8%87%E5%9C%A8%E7%9B%B4%E6%92%AD%E9%97%B4%E4%B9%B0%E4%BA%86%E5%A0%86%E5%A1%91%E6%96%99%23" target="weibo">
-老人花40万在直播间买了堆塑料（热度：713829）
 </a>
 </li>
 
