@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1729160611888,
+  "endTime": 1729161695197,
   "band_list": [
     {
       "raw_hot": 17915004,
@@ -1380,7 +1380,7 @@
     },
     {
       "raw_hot": 1635764,
-      "num": 558164,
+      "num": 604367,
       "word": "刘亦菲梦回白秀珠",
       "onboard_time": 1729158200,
       "rank": 3,
@@ -6195,6 +6195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 720382,
+      "num": 488077,
+      "word": "毒液模仿向佐",
+      "onboard_time": 1729159280,
+      "rank": 16,
+      "category": "电影"
+    },
+    {
       "raw_hot": 719481,
       "num": 1115116,
       "word": "马龙vs李尚洙",
@@ -6315,6 +6323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 710342,
+      "num": 710342,
+      "word": "小英送养孩子实属民间送养不构成犯罪",
+      "onboard_time": 1729154541,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 709556,
       "num": 324429,
       "word": "王楚钦和马琳儿子聊天",
@@ -6425,14 +6441,6 @@
       "onboard_time": 1728365420,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 698918,
-      "num": 698918,
-      "word": "小英送养孩子实属民间送养不构成犯罪",
-      "onboard_time": 1729154541,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 697587,
@@ -8331,6 +8339,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 570389,
+      "num": 570389,
+      "word": "主播称遭追杀让粉丝买下文物先保管",
+      "onboard_time": 1729158861,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 570054,
       "num": 570054,
       "word": "广东省教育厅声明",
@@ -10123,14 +10139,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 477824,
-      "num": 412396,
-      "word": "毒液模仿向佐",
-      "onboard_time": 1729159280,
-      "rank": 16,
-      "category": "电影"
-    },
-    {
       "raw_hot": 477356,
       "num": 477356,
       "word": "马龙4比0战胜雨果",
@@ -11731,14 +11739,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 407277,
-      "num": 407277,
-      "word": "主播称遭追杀让粉丝买下文物先保管",
-      "onboard_time": 1729158861,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 407183,
       "num": 452072,
       "word": "SM台历",
@@ -12361,6 +12361,14 @@
       "onboard_time": 1727926457,
       "rank": 31,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 383549,
+      "num": 383549,
+      "word": "吴谨言活动视频",
+      "onboard_time": 1729158320,
+      "rank": 21,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 383043,
@@ -13129,14 +13137,6 @@
       "onboard_time": 1727964981,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 360094,
-      "num": 360094,
-      "word": "吴谨言活动视频",
-      "onboard_time": 1729158320,
-      "rank": 21,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 360009,
@@ -14611,6 +14611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 319114,
+      "num": 319114,
+      "word": "月亮",
+      "onboard_time": 1729158983,
+      "rank": 23,
+      "category": "自然"
+    },
+    {
       "raw_hot": 317715,
       "num": 317715,
       "word": "王者周年庆送传说皮肤",
@@ -14641,6 +14649,14 @@
       "onboard_time": 1728970879,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 317128,
+      "num": 317128,
+      "word": "4人造谣成都天价拆迁款被处罚",
+      "onboard_time": 1729160781,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 317057,
@@ -15001,14 +15017,6 @@
       "onboard_time": 1728033198,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 308492,
-      "num": 308492,
-      "word": "月亮",
-      "onboard_time": 1729158983,
-      "rank": 23,
-      "category": "自然"
     },
     {
       "raw_hot": 308427,
@@ -15801,6 +15809,14 @@
       "onboard_time": 1728984799,
       "rank": 24,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 293397,
+      "num": 293397,
+      "word": "国企员工擅自离岗16年丈夫发声",
+      "onboard_time": 1729160061,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 293368,
@@ -16819,6 +16835,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 276611,
+      "num": 276611,
+      "word": "山东威海一海滩发现甲午战争鱼雷",
+      "onboard_time": 1729159640,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 276607,
       "num": 487652,
       "word": "台湾小伙痴迷文物来大陆学考古",
@@ -17211,6 +17235,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 271553,
+      "num": 271553,
+      "word": "丈夫护送妻子开车上班却被顶翻",
+      "onboard_time": 1729160122,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 271279,
       "num": 271279,
       "word": "700多位航天英烈长眠酒泉",
@@ -17441,14 +17473,6 @@
       "onboard_time": 1728377541,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 267533,
-      "num": 267533,
-      "word": "山东威海一海滩发现甲午战争鱼雷",
-      "onboard_time": 1729159640,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 267330,
@@ -20323,6 +20347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 227829,
+      "num": 268108,
+      "word": "VOGUE真假live图",
+      "onboard_time": 1729157959,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 227722,
       "num": 227722,
       "word": "猎罪图鉴4地狱营救",
@@ -22379,6 +22411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 207764,
+      "num": 207764,
+      "word": "吴谨言发疯版鞭子舞",
+      "onboard_time": 1729160961,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 207699,
       "num": 207699,
       "word": "景德镇巨响",
@@ -24115,6 +24155,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 198291,
+      "num": 198291,
+      "word": "张若昀好美好魅",
+      "onboard_time": 1729161081,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 198229,
       "num": 266229,
       "word": "战至巅峰",
@@ -25787,14 +25835,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 189769,
-      "num": 219606,
-      "word": "VOGUE真假live图",
-      "onboard_time": 1729157959,
-      "rank": 29,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 189714,
       "num": 293265,
       "word": "何运晨科普什么情况能给罪犯求情",
@@ -26665,6 +26705,14 @@
       "onboard_time": 1728695599,
       "rank": 31,
       "category": "财经"
+    },
+    {
+      "raw_hot": 185453,
+      "num": 185453,
+      "word": "主播靠古董专家人设获利70多万元",
+      "onboard_time": 1729160781,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 185431,
@@ -27848,14 +27896,6 @@
       "word": "国庆长沙感觉有一亿人",
       "onboard_time": 1727882778,
       "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 176663,
-      "num": 176663,
-      "word": "国企员工擅自离岗16年丈夫发声",
-      "onboard_time": 1729160061,
-      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -32539,6 +32579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 149808,
+      "num": 149808,
+      "word": "小英回应经济状况",
+      "onboard_time": 1729161381,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 149757,
       "num": 149757,
       "word": "张朝阳回应年轻人戒断手机",
@@ -32769,6 +32817,14 @@
       "onboard_time": 1728267918,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 148311,
+      "num": 148311,
+      "word": "张真源奔跑吧摇扇路透",
+      "onboard_time": 1729160540,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 148240,
@@ -33683,6 +33739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 143100,
+      "num": 143100,
+      "word": "Doinb回应明年复出",
+      "onboard_time": 1729160781,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 143080,
       "num": 143080,
       "word": "樊振东大满贯后首秀",
@@ -34081,14 +34145,6 @@
       "onboard_time": 1729060519,
       "rank": 46,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 140562,
-      "num": 140562,
-      "word": "丈夫护送妻子开车上班却被顶翻",
-      "onboard_time": 1729160122,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 140533,
@@ -35019,6 +35075,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 135792,
+      "num": 135792,
+      "word": "林高远2比3黄友政",
+      "onboard_time": 1729161683,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 135750,
       "num": 135750,
       "word": "TF三代出发登陆",
@@ -35281,6 +35345,14 @@
       "onboard_time": 1728606740,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 133871,
+      "num": 133871,
+      "word": "樊振东和球迷挥手",
+      "onboard_time": 1729161200,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 133852,
@@ -36193,14 +36265,6 @@
       "onboard_time": 1728183437,
       "rank": 47,
       "category": "演出"
-    },
-    {
-      "raw_hot": 128412,
-      "num": 128412,
-      "word": "张真源奔跑吧摇扇路透",
-      "onboard_time": 1729160540,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 128396,
@@ -40731,6 +40795,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 98007,
+      "num": 364718,
+      "word": "张凌赫live图bgm是凤凰传奇",
+      "onboard_time": 1729160661,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 97866,
       "num": 119151,
       "word": "AG战胜EDGM",
@@ -41265,6 +41337,14 @@
       "onboard_time": 1728355701,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 93396,
+      "num": 414421,
+      "word": "三折叠怎么折都很妙",
+      "onboard_time": 1729157540,
+      "rank": 35,
+      "category": "数码"
     },
     {
       "raw_hot": 93215,
@@ -43395,14 +43475,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 72004,
-      "num": 414421,
-      "word": "三折叠怎么折都很妙",
-      "onboard_time": 1729157540,
-      "rank": 35,
-      "category": "数码"
-    },
-    {
       "raw_hot": 71722,
       "num": 242364,
       "word": "烈士墓前一声声稚嫩的谢谢让人动容",
@@ -44001,6 +44073,14 @@
       "onboard_time": 1729106232,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 64016,
+      "num": 416426,
+      "word": "梁伟铿王昶vs卡尔南多毛拉纳",
+      "onboard_time": 1729160481,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 64014,
@@ -46835,6 +46915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 42024,
+      "num": 424702,
+      "word": "支持为二孩家庭增加保障住房面积",
+      "onboard_time": 1729160000,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 41999,
       "num": 41999,
       "word": "新中国成立75周年主题宣传片",
@@ -48129,14 +48217,6 @@
       "onboard_time": 1728900079,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 34259,
-      "num": 416426,
-      "word": "梁伟铿王昶vs卡尔南多毛拉纳",
-      "onboard_time": 1729160481,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 34243,
@@ -50019,14 +50099,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 23085,
-      "num": 424702,
-      "word": "支持为二孩家庭增加保障住房面积",
-      "onboard_time": 1729160000,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 23058,
       "num": 243775,
       "word": "电影志愿军英雄脸庞",
@@ -51123,6 +51195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 16222,
+      "num": 185835,
+      "word": "汪涵的共情能力",
+      "onboard_time": 1729159401,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 16186,
       "num": 38399,
       "word": "美网络武器设置了嫁祸功能",
@@ -51577,14 +51657,6 @@
       "onboard_time": 1729063939,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 11928,
-      "num": 152619,
-      "word": "汪涵的共情能力",
-      "onboard_time": 1729159401,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 11795,

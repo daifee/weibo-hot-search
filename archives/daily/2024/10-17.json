@@ -1,6 +1,6 @@
 {
   "startTime": 1729096028716,
-  "endTime": 1729160611888,
+  "endTime": 1729161695197,
   "band_list": [
     {
       "raw_hot": 3127370,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 1635764,
-      "num": 558164,
+      "num": 604367,
       "word": "刘亦菲梦回白秀珠",
       "onboard_time": 1729158200,
       "rank": 3,
@@ -347,6 +347,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 720382,
+      "num": 488077,
+      "word": "毒液模仿向佐",
+      "onboard_time": 1729159280,
+      "rank": 16,
+      "category": "电影"
+    },
+    {
       "raw_hot": 718648,
       "num": 689652,
       "word": "黄晓明特效",
@@ -363,8 +371,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 698918,
-      "num": 698918,
+      "raw_hot": 710342,
+      "num": 710342,
       "word": "小英送养孩子实属民间送养不构成犯罪",
       "onboard_time": 1729154541,
       "rank": 29,
@@ -465,6 +473,14 @@
       "onboard_time": 1729145961,
       "rank": 24,
       "category": "网红"
+    },
+    {
+      "raw_hot": 570389,
+      "num": 570389,
+      "word": "主播称遭追杀让粉丝买下文物先保管",
+      "onboard_time": 1729158861,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 569477,
@@ -603,14 +619,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 477824,
-      "num": 412396,
-      "word": "毒液模仿向佐",
-      "onboard_time": 1729159280,
-      "rank": 16,
-      "category": "电影"
-    },
-    {
       "raw_hot": 475240,
       "num": 475240,
       "word": "长沙自建房倒塌事故15人获刑",
@@ -659,14 +667,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 407277,
-      "num": 407277,
-      "word": "主播称遭追杀让粉丝买下文物先保管",
-      "onboard_time": 1729158861,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 403117,
       "num": 486078,
       "word": "One Direction",
@@ -699,6 +699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 383549,
+      "num": 383549,
+      "word": "吴谨言活动视频",
+      "onboard_time": 1729158320,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 376159,
       "num": 376159,
       "word": "女子摔倒鲨鱼夹碎裂扎入头部",
@@ -729,14 +737,6 @@
       "onboard_time": 1729148002,
       "rank": 19,
       "category": "财经"
-    },
-    {
-      "raw_hot": 360094,
-      "num": 360094,
-      "word": "吴谨言活动视频",
-      "onboard_time": 1729158320,
-      "rank": 21,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 352401,
@@ -779,6 +779,22 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 319114,
+      "num": 319114,
+      "word": "月亮",
+      "onboard_time": 1729158983,
+      "rank": 23,
+      "category": "自然"
+    },
+    {
+      "raw_hot": 317128,
+      "num": 317128,
+      "word": "4人造谣成都天价拆迁款被处罚",
+      "onboard_time": 1729160781,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 315811,
       "num": 484564,
       "word": "肖战电影得闲谨制杀青",
@@ -793,14 +809,6 @@
       "onboard_time": 1729131681,
       "rank": 26,
       "category": "情感"
-    },
-    {
-      "raw_hot": 308492,
-      "num": 308492,
-      "word": "月亮",
-      "onboard_time": 1729158983,
-      "rank": 23,
-      "category": "自然"
     },
     {
       "raw_hot": 305685,
@@ -849,6 +857,14 @@
       "onboard_time": 1729144161,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 293397,
+      "num": 293397,
+      "word": "国企员工擅自离岗16年丈夫发声",
+      "onboard_time": 1729160061,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 287833,
@@ -915,6 +931,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 276611,
+      "num": 276611,
+      "word": "山东威海一海滩发现甲午战争鱼雷",
+      "onboard_time": 1729159640,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 274292,
       "num": 274292,
       "word": "邓为用本名为母校低调捐款",
@@ -947,20 +971,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 271553,
+      "num": 271553,
+      "word": "丈夫护送妻子开车上班却被顶翻",
+      "onboard_time": 1729160122,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 270186,
       "num": 270186,
       "word": "单向乐队利亚姆佩恩坠亡",
       "onboard_time": 1729123219,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 267533,
-      "num": 267533,
-      "word": "山东威海一海滩发现甲午战争鱼雷",
-      "onboard_time": 1729159640,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 261312,
@@ -1081,6 +1105,14 @@
       "onboard_time": 1729139306,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 227829,
+      "num": 268108,
+      "word": "VOGUE真假live图",
+      "onboard_time": 1729157959,
+      "rank": 29,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 223861,
@@ -1243,6 +1275,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 207764,
+      "num": 207764,
+      "word": "吴谨言发疯版鞭子舞",
+      "onboard_time": 1729160961,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 207303,
       "num": 207303,
       "word": "国企回应登报喊离岗员工返回上班",
@@ -1347,6 +1387,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 198291,
+      "num": 198291,
+      "word": "张若昀好美好魅",
+      "onboard_time": 1729161081,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 195889,
       "num": 195889,
       "word": "10月26日可查房贷利率调整结果",
@@ -1427,14 +1475,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 189769,
-      "num": 219606,
-      "word": "VOGUE真假live图",
-      "onboard_time": 1729157959,
-      "rank": 29,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 189366,
       "num": 189366,
       "word": "取消一切不必要不恰当不合理考核",
@@ -1483,6 +1523,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 185453,
+      "num": 185453,
+      "word": "主播靠古董专家人设获利70多万元",
+      "onboard_time": 1729160781,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 184939,
       "num": 184939,
       "word": "不雅胶带涉事公司经营异常",
@@ -1529,14 +1577,6 @@
       "onboard_time": 1729094120,
       "rank": 14,
       "category": "美食"
-    },
-    {
-      "raw_hot": 176663,
-      "num": 176663,
-      "word": "国企员工擅自离岗16年丈夫发声",
-      "onboard_time": 1729160061,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 175434,
@@ -1747,6 +1787,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 149808,
+      "num": 149808,
+      "word": "小英回应经济状况",
+      "onboard_time": 1729161381,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 148311,
+      "num": 148311,
+      "word": "张真源奔跑吧摇扇路透",
+      "onboard_time": 1729160540,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 148129,
       "num": 148129,
       "word": "朴彩英火星哥合照",
@@ -1787,6 +1843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 143100,
+      "num": 143100,
+      "word": "Doinb回应明年复出",
+      "onboard_time": 1729160781,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 143080,
       "num": 143080,
       "word": "樊振东大满贯后首秀",
@@ -1800,14 +1864,6 @@
       "word": "上海徐汇滨江频现遛异宠现象",
       "onboard_time": 1729078342,
       "rank": 35,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 140562,
-      "num": 140562,
-      "word": "丈夫护送妻子开车上班却被顶翻",
-      "onboard_time": 1729160122,
-      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -1851,19 +1907,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 135792,
+      "num": 135792,
+      "word": "林高远2比3黄友政",
+      "onboard_time": 1729161683,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 133871,
+      "num": 133871,
+      "word": "樊振东和球迷挥手",
+      "onboard_time": 1729161200,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 130826,
       "num": 130826,
       "word": "黄明昊业绩排乐华第二",
       "onboard_time": 1729078699,
       "rank": 27,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 128412,
-      "num": 128412,
-      "word": "张真源奔跑吧摇扇路透",
-      "onboard_time": 1729160540,
-      "rank": 48,
       "category": "综艺"
     },
     {
@@ -2067,6 +2131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 98007,
+      "num": 364718,
+      "word": "张凌赫live图bgm是凤凰传奇",
+      "onboard_time": 1729160661,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 95533,
       "num": 202348,
       "word": "维密",
@@ -2081,6 +2153,14 @@
       "onboard_time": 1729116672,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 93396,
+      "num": 414421,
+      "word": "三折叠怎么折都很妙",
+      "onboard_time": 1729157540,
+      "rank": 35,
+      "category": "数码"
     },
     {
       "raw_hot": 89965,
@@ -2171,14 +2251,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 72004,
-      "num": 414421,
-      "word": "三折叠怎么折都很妙",
-      "onboard_time": 1729157540,
-      "rank": 35,
-      "category": "数码"
-    },
-    {
       "raw_hot": 71249,
       "num": 422964,
       "word": "住建部称房地产市场已经开始筑底",
@@ -2217,6 +2289,14 @@
       "onboard_time": 1729106232,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 64016,
+      "num": 416426,
+      "word": "梁伟铿王昶vs卡尔南多毛拉纳",
+      "onboard_time": 1729160481,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 60749,
@@ -2363,6 +2443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 42024,
+      "num": 424702,
+      "word": "支持为二孩家庭增加保障住房面积",
+      "onboard_time": 1729160000,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 41995,
       "num": 155587,
       "word": "多省探索农村秸秆限时焚烧",
@@ -2409,14 +2497,6 @@
       "onboard_time": 1729114511,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 34259,
-      "num": 416426,
-      "word": "梁伟铿王昶vs卡尔南多毛拉纳",
-      "onboard_time": 1729160481,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 33992,
@@ -2507,14 +2587,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 23085,
-      "num": 424702,
-      "word": "支持为二孩家庭增加保障住房面积",
-      "onboard_time": 1729160000,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 22786,
       "num": 43616,
       "word": "社恐白领被领导鸡娃后抑郁成木头人",
@@ -2571,6 +2643,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 16222,
+      "num": 185835,
+      "word": "汪涵的共情能力",
+      "onboard_time": 1729159401,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 15876,
       "num": 37823,
       "word": "60年前罗布泊与北京之间的密语",
@@ -2601,14 +2681,6 @@
       "onboard_time": 1729107013,
       "rank": 9,
       "category": "军事"
-    },
-    {
-      "raw_hot": 11928,
-      "num": 152619,
-      "word": "汪涵的共情能力",
-      "onboard_time": 1729159401,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 11489,
