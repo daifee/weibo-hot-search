@@ -1,6 +1,6 @@
 {
   "startTime": 1729182564055,
-  "endTime": 1729185608404,
+  "endTime": 1729186698081,
   "band_list": [
     {
       "raw_hot": 2689271,
@@ -17,6 +17,14 @@
       "onboard_time": 1729170383,
       "rank": 1,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 813989,
+      "num": 813989,
+      "word": "scout 还钱",
+      "onboard_time": 1729183696,
+      "rank": 3,
+      "category": "电竞"
     },
     {
       "raw_hot": 771617,
@@ -81,14 +89,6 @@
       "onboard_time": 1729173142,
       "rank": 7,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 495473,
-      "num": 495473,
-      "word": "scout 还钱",
-      "onboard_time": 1729183696,
-      "rank": 3,
-      "category": "电竞"
     },
     {
       "raw_hot": 434935,
@@ -483,6 +483,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 38374,
+      "num": 55015,
+      "word": "王者九周年限定回忆",
+      "onboard_time": 1729186454,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 36648,
+      "num": 191456,
+      "word": "她是第一位穿越蘑菇云取样的女飞",
+      "onboard_time": 1729186093,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 34282,
       "num": 934696,
       "word": "美好新疆",
@@ -497,6 +513,9 @@
     },
     {
       "word": "#弘扬科学精神积极投身科技创新#"
+    },
+    {
+      "word": "#把丰碑立在人民群众心中#"
     }
   ]
 }

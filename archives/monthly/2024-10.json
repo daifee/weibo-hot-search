@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1729185608404,
+  "endTime": 1729186698081,
   "band_list": [
     {
       "raw_hot": 17915004,
@@ -5283,6 +5283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 813989,
+      "num": 813989,
+      "word": "scout 还钱",
+      "onboard_time": 1729183696,
+      "rank": 3,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 813967,
       "num": 813967,
       "word": "新闻联播看到周深",
@@ -10065,14 +10073,6 @@
       "onboard_time": 1728999680,
       "rank": 48,
       "category": "网红"
-    },
-    {
-      "raw_hot": 495473,
-      "num": 495473,
-      "word": "scout 还钱",
-      "onboard_time": 1729183696,
-      "rank": 3,
-      "category": "电竞"
     },
     {
       "raw_hot": 494675,
@@ -48339,6 +48339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 38374,
+      "num": 55015,
+      "word": "王者九周年限定回忆",
+      "onboard_time": 1729186454,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 38373,
       "num": 175045,
       "word": "00后边防军人的心声",
@@ -48656,6 +48664,14 @@
       "word": "独居社畜用下厨来去班味",
       "onboard_time": 1728803539,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 36648,
+      "num": 191456,
+      "word": "她是第一位穿越蘑菇云取样的女飞",
+      "onboard_time": 1729186093,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
