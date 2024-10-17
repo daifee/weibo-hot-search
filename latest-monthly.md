@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/10/01 00:28:17 ~ 2024/10/17 23:40:05
+本榜单时间：2024/10/01 00:28:17 ~ 2024/10/18 00:29:24
 </p>
 </blockquote>
 <p>
@@ -311,6 +311,12 @@ A股涨停（热度：2966593）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E6%9C%9D%E9%B2%9C%23" target="weibo">
 韩国朝鲜（热度：2691334）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23WBG%E6%99%8B%E7%BA%A7S14%E5%9B%9B%E5%BC%BA%23" target="weibo">
+WBG晋级S14四强（热度：2689271）
 </a>
 </li>
 
@@ -4329,6 +4335,12 @@ SpaceX首次回收星舰成功（热度：798348）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23LNG%E5%AF%B9%E6%88%98WBG%23" target="weibo">
+LNG对战WBG（热度：771617）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E9%83%BD%E7%81%B5%20%E6%9C%BA%E6%A2%B0%E5%A7%AC%23" target="weibo">
 陈都灵 机械姬（热度：770243）
 </a>
@@ -4785,6 +4797,12 @@ SM确认洪承汉不退团（热度：728564）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23GALA%E8%BF%9E%E7%BB%AD%E5%9B%9B%E5%B9%B4%E6%AD%A2%E6%AD%A5%E5%85%AB%E5%BC%BA%23" target="weibo">
+GALA连续四年止步八强（热度：727346）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%2333%E5%B2%81%E4%B8%AD%E5%9B%BD%E7%94%B7%E5%AD%90%E6%B6%89%E5%AB%8C%E7%94%A8%E7%83%AD%E5%92%96%E5%95%A1%E6%B3%BC%E4%BC%A4%E5%A9%B4%E5%84%BF%E5%90%8E%E5%87%BA%E9%80%83%23" target="weibo">
 33岁中国男子涉嫌用热咖啡泼伤婴儿后出逃（热度：727075）
 </a>
@@ -4805,6 +4823,12 @@ SM确认洪承汉不退团（热度：728564）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A2%E5%A5%B3%E9%AA%91%E5%A3%AB%E7%9F%B3%E8%86%8F%E5%8F%91%E7%94%9F%E8%BD%A6%E7%A5%B8%E8%BA%AB%E4%BA%A1%23" target="weibo">
 网红女骑士石膏发生车祸身亡（热度：725509）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E7%A7%B0%E9%81%AD%E5%B9%B3%E5%8F%B0%E8%87%AA%E5%8A%A8%E6%89%A3%E8%B4%B922%E4%B8%AA%E6%9C%88%23" target="weibo">
+女生称遭平台自动扣费22个月（热度：724756）
 </a>
 </li>
 
@@ -4871,6 +4895,12 @@ SM确认洪承汉不退团（热度：728564）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%B9%92%E5%A5%B3%E5%9B%A2%E8%B4%9F%E6%97%A5%E6%9C%AC%E9%98%9F%E5%90%8E%E7%BD%91%E5%8F%8B%E5%96%8A%E8%AF%9D%E8%BE%9B%E8%8B%A6%E4%BA%86%23" target="weibo">
 国乒女团负日本队后网友喊话辛苦了（热度：717576）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%96%91%E4%BC%BC%E8%BE%9B%E7%93%A6%E5%B0%94%E7%9A%84%E5%B0%B8%E4%BD%93%E5%8F%AF%E8%83%BD%E8%BF%9B%E8%A1%8CDNA%E6%A3%80%E6%B5%8B%23" target="weibo">
+疑似辛瓦尔的尸体可能进行DNA检测（热度：717312）
 </a>
 </li>
 
@@ -5981,36 +6011,6 @@ Minnie走秀（热度：616890）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23Jasper%E4%B8%AD%E6%96%87%E5%90%8D%E9%99%88%E6%98%8A%E5%BB%B7%23" target="weibo">
 Jasper中文名陈昊廷（热度：615153）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%9A%E4%B8%BB%E6%93%85%E9%97%AF%E5%93%80%E7%89%A2%E5%B1%B1%E7%A6%81%E5%8C%BA%E5%B7%B2%E8%BF%9D%E6%B3%95%23" target="weibo">
-博主擅闯哀牢山禁区已违法（热度：613292）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E6%89%B9%E5%A4%9A%E6%9E%B6%E8%BD%B06K%E6%8C%82%E5%AE%9E%E5%BC%B9%E9%A3%9E%E8%B5%B4%E9%A2%84%E5%AE%9A%E7%A9%BA%E5%9F%9F%23" target="weibo">
-多批多架轰6K挂实弹飞赴预定空域（热度：611452）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B3%B0%E5%B3%BB%E5%99%AA%E5%A3%B0%E8%B6%85%E6%A0%87%E8%A2%AB%E7%BD%9A1.25%E4%B8%87%23" target="weibo">
-时代峰峻噪声超标被罚1.25万（热度：610921）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%9C%B0%E4%BA%BA%E6%89%93%E9%A3%9E%E7%9A%84%E8%B5%B4%E6%B7%B1%E5%9C%B3%E4%B9%B0%E6%88%BF%23" target="weibo">
-外地人打飞的赴深圳买房（热度：610645）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9C%88%E8%96%AA18000%E4%BD%8F%E5%AE%B6%E4%BF%9D%E5%A7%86%E7%9A%84%E4%B8%80%E5%A4%A9%23" target="weibo">
-月薪18000住家保姆的一天（热度：610458）
 </a>
 </li>
 

@@ -1,0 +1,411 @@
+{
+  "startTime": 1729182564055,
+  "endTime": 1729182564055,
+  "band_list": [
+    {
+      "raw_hot": 2689271,
+      "num": 2689271,
+      "word": "WBG晋级S14四强",
+      "onboard_time": 1729180282,
+      "rank": 0,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 1351751,
+      "num": 1351751,
+      "word": "刘亦菲压轴",
+      "onboard_time": 1729170383,
+      "rank": 1,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 771617,
+      "num": 771617,
+      "word": "LNG对战WBG",
+      "onboard_time": 1729167021,
+      "rank": 3,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 727346,
+      "num": 727346,
+      "word": "GALA连续四年止步八强",
+      "onboard_time": 1729180880,
+      "rank": 4,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 724756,
+      "num": 225033,
+      "word": "女生称遭平台自动扣费22个月",
+      "onboard_time": 1729175363,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 717312,
+      "num": 717312,
+      "word": "疑似辛瓦尔的尸体可能进行DNA检测",
+      "onboard_time": 1729177401,
+      "rank": 5,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 702589,
+      "num": 702589,
+      "word": "倪妮拿到了杨幂的绣球",
+      "onboard_time": 1729172062,
+      "rank": 6,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 544097,
+      "num": 398036,
+      "word": "毕业生举报高校女教师与其恋爱出轨",
+      "onboard_time": 1729173563,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 534041,
+      "num": 534041,
+      "word": "VOGUE晚宴",
+      "onboard_time": 1729173142,
+      "rank": 7,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 434935,
+      "num": 395702,
+      "word": "刘亦菲杨幂刘诗诗倪妮同场走秀",
+      "onboard_time": 1729175123,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 433179,
+      "num": 433179,
+      "word": "老人花40万在直播间买了堆塑料",
+      "onboard_time": 1729174823,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 386391,
+      "num": 386391,
+      "word": "赵露思飞吻",
+      "onboard_time": 1729170803,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 384639,
+      "num": 384639,
+      "word": "黄圣依想离婚是受不了爹式管理",
+      "onboard_time": 1729169061,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 349117,
+      "num": 349117,
+      "word": "周也裙子变装",
+      "onboard_time": 1729167921,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 332080,
+      "num": 224534,
+      "word": "小英称牛因生了小牛且生病才瘦",
+      "onboard_time": 1729169723,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 312562,
+      "num": 312562,
+      "word": "救救GALA",
+      "onboard_time": 1729181479,
+      "rank": 15,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 310193,
+      "num": 310193,
+      "word": "以称正核实是否打死哈马斯领导人辛瓦尔",
+      "onboard_time": 1729175602,
+      "rank": 16,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 290768,
+      "num": 290768,
+      "word": "WBG前期全是计谋",
+      "onboard_time": 1729177223,
+      "rank": 17,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 227843,
+      "num": 227843,
+      "word": "刘冲让王一博走慢点",
+      "onboard_time": 1729173022,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 225987,
+      "num": 225987,
+      "word": "娜扎 吸血鬼女王",
+      "onboard_time": 1729168699,
+      "rank": 19,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 221387,
+      "num": 221387,
+      "word": "UNIQ TFBOYS前辈挺可爱的",
+      "onboard_time": 1729172783,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 220121,
+      "num": 220121,
+      "word": "娜然 仿生机械姬",
+      "onboard_time": 1729167802,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 218829,
+      "num": 218829,
+      "word": "刘诗诗 霜雪天降具像化",
+      "onboard_time": 1729170623,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 180992,
+      "num": 180992,
+      "word": "职工医保中断可以补缴吗",
+      "onboard_time": 1729180642,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 179988,
+      "num": 179988,
+      "word": "朱珠真是风情万种",
+      "onboard_time": 1729169602,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 178831,
+      "num": 178831,
+      "word": "VOGUE走秀",
+      "onboard_time": 1729165161,
+      "rank": 27,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 172752,
+      "num": 172752,
+      "word": "王鹤棣 小狗包",
+      "onboard_time": 1729168581,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 150999,
+      "num": 150999,
+      "word": "黄圣依杨子 2个人8人群",
+      "onboard_time": 1729141403,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 150793,
+      "num": 150793,
+      "word": "檀健次跳舞出场",
+      "onboard_time": 1729170862,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 145088,
+      "num": 160349,
+      "word": "大庸古城耗资22亿日均卖票不足20张",
+      "onboard_time": 1729178002,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 144829,
+      "num": 144829,
+      "word": "王一博带滑板走秀",
+      "onboard_time": 1729169602,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 141282,
+      "num": 141282,
+      "word": "以方称打死哈马斯领导人辛瓦尔",
+      "onboard_time": 1729173804,
+      "rank": 33,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 138893,
+      "num": 138893,
+      "word": "魏大勋 飘带你好坏",
+      "onboard_time": 1729171282,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 131435,
+      "num": 138877,
+      "word": "韦雪拉黑秦奋",
+      "onboard_time": 1729155142,
+      "rank": 35,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 124025,
+      "num": 138811,
+      "word": "VOGUE盛典男明星",
+      "onboard_time": 1729180400,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 122128,
+      "num": 138761,
+      "word": "侯佩岑 享受失控带来的安全感",
+      "onboard_time": 1729178661,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 115608,
+      "num": 138744,
+      "word": "惠英红 百年大妖镇场子",
+      "onboard_time": 1729171522,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 114125,
+      "num": 138670,
+      "word": "樊振东说不存在恢复",
+      "onboard_time": 1729164981,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 112650,
+      "num": 138658,
+      "word": "2024年度最大超级月亮今晚登场",
+      "onboard_time": 1729163963,
+      "rank": 40,
+      "category": "自然"
+    },
+    {
+      "raw_hot": 108763,
+      "num": 138605,
+      "word": "陈祥榕母亲为问勇路揭牌",
+      "onboard_time": 1729171642,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 106601,
+      "num": 138575,
+      "word": "广州首现登革热重症病例",
+      "onboard_time": 1729177702,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 105508,
+      "num": 138515,
+      "word": "小英送养孩子实属民间送养不构成犯罪",
+      "onboard_time": 1729154541,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 100671,
+      "num": 138486,
+      "word": "snowman",
+      "onboard_time": 1729171043,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 98314,
+      "num": 138426,
+      "word": "陈昊宇湿发背头",
+      "onboard_time": 1729174703,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 94816,
+      "num": 138366,
+      "word": "孕妇2次到店借用厕所和店员起争执",
+      "onboard_time": 1729182378,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 89360,
+      "num": 138313,
+      "word": "年轻人工作后选择重养一遍自己",
+      "onboard_time": 1729176442,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 88056,
+      "num": 138269,
+      "word": "樊振东全锦赛的球场眼神杀",
+      "onboard_time": 1729179982,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 73716,
+      "num": 405746,
+      "word": "我就说没有大学生不会的吧",
+      "onboard_time": 1729182079,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 58023,
+      "num": 138251,
+      "word": "欧洲央行宣布降息25个基点",
+      "onboard_time": 1729178841,
+      "rank": 49,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 34282,
+      "num": 934696,
+      "word": "美好新疆",
+      "onboard_time": 1729174284,
+      "rank": 2,
+      "category": "社会新闻"
+    }
+  ],
+  "hotgov_list": [
+    {
+      "word": "#文化情缘#"
+    }
+  ]
+}
