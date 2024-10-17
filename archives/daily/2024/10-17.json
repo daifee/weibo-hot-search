@@ -1,7 +1,15 @@
 {
   "startTime": 1729096028716,
-  "endTime": 1729154562381,
+  "endTime": 1729157048198,
   "band_list": [
+    {
+      "raw_hot": 2830820,
+      "num": 2830820,
+      "word": "网红小英承认曾送养女孩",
+      "onboard_time": 1729154300,
+      "rank": 27,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 2232538,
       "num": 723020,
@@ -17,6 +25,14 @@
       "onboard_time": 1729141403,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1669216,
+      "num": 496043,
+      "word": "韦雪拉黑秦奋",
+      "onboard_time": 1729155142,
+      "rank": 10,
+      "category": "网红"
     },
     {
       "raw_hot": 1590236,
@@ -68,7 +84,7 @@
     },
     {
       "raw_hot": 1327463,
-      "num": 414173,
+      "num": 461846,
       "word": "女生被奈良鹿戳破腿忍痛回国打针",
       "onboard_time": 1729146741,
       "rank": 29,
@@ -84,7 +100,7 @@
     },
     {
       "raw_hot": 1229624,
-      "num": 368280,
+      "num": 488887,
       "word": "赵露思超长麻花辫",
       "onboard_time": 1729152801,
       "rank": 12,
@@ -129,6 +145,22 @@
       "onboard_time": 1729145482,
       "rank": 18,
       "category": "作品衍生,艺人"
+    },
+    {
+      "raw_hot": 1003434,
+      "num": 593067,
+      "word": "中方回应朝鲜将韩国定义为敌对国家",
+      "onboard_time": 1729154420,
+      "rank": 47,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 974639,
+      "num": 493499,
+      "word": "山东一市监所所长被刺身亡",
+      "onboard_time": 1729154121,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 953419,
@@ -260,7 +292,7 @@
     },
     {
       "raw_hot": 741244,
-      "num": 358577,
+      "num": 468320,
       "word": "樊振东 被球球袭击了",
       "onboard_time": 1729152022,
       "rank": 22,
@@ -273,6 +305,14 @@
       "onboard_time": 1729136544,
       "rank": 44,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 724612,
+      "num": 483026,
+      "word": "双胞胎宝妈又怀上三胞胎称有压力",
+      "onboard_time": 1729154962,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 718648,
@@ -339,6 +379,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 605572,
+      "num": 605572,
+      "word": "樊振东vs刘家良",
+      "onboard_time": 1729154121,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 600654,
       "num": 449765,
       "word": "周也姐姐设计的礼服",
@@ -388,7 +436,7 @@
     },
     {
       "raw_hot": 567576,
-      "num": 358990,
+      "num": 447128,
       "word": "夫妻分房睡会影响亲密关系吗",
       "onboard_time": 1729152443,
       "rank": 21,
@@ -443,6 +491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 505455,
+      "num": 505455,
+      "word": "小英送养孩子实属民间送养不构成犯罪",
+      "onboard_time": 1729154541,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 501863,
       "num": 501863,
       "word": "楼市组合拳4取消4降低2增加",
@@ -457,6 +513,14 @@
       "onboard_time": 1729127721,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 496575,
+      "num": 480810,
+      "word": "杨幂又玩抽象了",
+      "onboard_time": 1729156462,
+      "rank": 16,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 495145,
@@ -627,14 +691,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 358129,
-      "num": 358129,
-      "word": "山东一市监所所长被刺身亡",
-      "onboard_time": 1729154121,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 352401,
       "num": 323122,
       "word": "女子试妆后舍不得卸掉用相册收集起来",
@@ -652,7 +708,7 @@
     },
     {
       "raw_hot": 330741,
-      "num": 330741,
+      "num": 472779,
       "word": "关晓彤 VOGUE盛典造型",
       "onboard_time": 1729150761,
       "rank": 26,
@@ -803,12 +859,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 272782,
-      "num": 272782,
-      "word": "网红小英承认曾送养女孩",
-      "onboard_time": 1729154300,
-      "rank": 27,
-      "category": "社会新闻"
+      "raw_hot": 272797,
+      "num": 272797,
+      "word": "留几手",
+      "onboard_time": 1729154420,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 271837,
@@ -897,14 +953,6 @@
       "onboard_time": 1729138346,
       "rank": 29,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 233880,
-      "num": 233880,
-      "word": "樊振东vs刘家良",
-      "onboard_time": 1729154121,
-      "rank": 36,
-      "category": "体育"
     },
     {
       "raw_hot": 233311,
@@ -1027,6 +1075,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 211915,
+      "num": 211915,
+      "word": "宋茜偷偷给侯明昊买小狐狸礼物",
+      "onboard_time": 1729154841,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 211366,
       "num": 211366,
       "word": "VOGUE出发图",
@@ -1147,20 +1203,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 200754,
-      "num": 200754,
-      "word": "留几手",
-      "onboard_time": 1729154420,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 199770,
       "num": 261712,
       "word": "唐嫣赵又廷独身女人首发预告",
       "onboard_time": 1729136965,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 199265,
+      "num": 199265,
+      "word": "龚俊上树",
+      "onboard_time": 1729156701,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 198563,
@@ -1251,6 +1307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 188768,
+      "num": 188768,
+      "word": "王星越锁骨养鱼",
+      "onboard_time": 1729156341,
+      "rank": 39,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 188221,
       "num": 188221,
       "word": "马嘉祺丁程鑫双人内页",
@@ -1275,20 +1339,20 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 185969,
-      "num": 185969,
-      "word": "中方回应朝鲜将韩国定义为敌对国家",
-      "onboard_time": 1729154420,
-      "rank": 47,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 185490,
       "num": 185490,
       "word": "邱泽身上有陈铭生的破碎感",
       "onboard_time": 1729145900,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 185430,
+      "num": 185430,
+      "word": "00后大学生中华血脉开始觉醒",
+      "onboard_time": 1729157002,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 184939,
@@ -1315,20 +1379,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 181285,
-      "num": 261822,
-      "word": "小英送养孩子实属民间送养不构成犯罪",
-      "onboard_time": 1729154541,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 179728,
       "num": 175475,
       "word": "虞书欣Chill小兔",
       "onboard_time": 1729137024,
       "rank": 42,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 179478,
+      "num": 179478,
+      "word": "林有慧婚礼头纱绣了收养的流浪动物",
+      "onboard_time": 1729151721,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 178923,
@@ -1515,6 +1579,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 151983,
+      "num": 151983,
+      "word": "郑钦文前教练与斯瓦泰克合作",
+      "onboard_time": 1729156761,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 151401,
       "num": 151401,
       "word": "致命鲨鱼夹电商平台仍售卖",
@@ -1529,6 +1601,14 @@
       "onboard_time": 1729144702,
       "rank": 46,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 150571,
+      "num": 366744,
+      "word": "住院率破20%将怎样影响医保资金",
+      "onboard_time": 1729152561,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 150304,
@@ -1579,6 +1659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 143080,
+      "num": 143080,
+      "word": "樊振东大满贯后首秀",
+      "onboard_time": 1729154720,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 140778,
       "num": 222376,
       "word": "上海徐汇滨江频现遛异宠现象",
@@ -1615,6 +1703,14 @@
       "num": 367881,
       "word": "全锦赛上海男团vs吉林男团",
       "onboard_time": 1729152261,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 132660,
+      "num": 486737,
+      "word": "樊振东3比0刘家良",
+      "onboard_time": 1729156823,
       "rank": 13,
       "category": "体育"
     },
@@ -1811,6 +1907,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 99937,
+      "num": 496381,
+      "word": "官方回应小英送养孩子情况",
+      "onboard_time": 1729154782,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 98169,
       "num": 98169,
       "word": "真有艺人因为造型被扣钱",
@@ -1947,14 +2051,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 61259,
-      "num": 366744,
-      "word": "住院率破20%将怎样影响医保资金",
-      "onboard_time": 1729152561,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 60749,
       "num": 60180,
       "word": "cos黄磊老师做豆角",
@@ -1984,6 +2080,14 @@
       "word": "今年底让450万新市民住进保障房",
       "onboard_time": 1729141524,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 57138,
+      "num": 203004,
+      "word": "记者探访800多万粉丝的网红小英一家",
+      "onboard_time": 1729155082,
+      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -2025,6 +2129,14 @@
       "onboard_time": 1729101193,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 48125,
+      "num": 474628,
+      "word": "赵明称Magic7是最强AI手机",
+      "onboard_time": 1729152321,
+      "rank": 15,
+      "category": "数码"
     },
     {
       "raw_hot": 45982,
@@ -2107,6 +2219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 37009,
+      "num": 486342,
+      "word": "警方提醒小心谷子热背后的陷阱",
+      "onboard_time": 1729155922,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 34848,
       "num": 63904,
       "word": "新疆3.8级地震",
@@ -2161,14 +2281,6 @@
       "onboard_time": 1729152382,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 29326,
-      "num": 365605,
-      "word": "赵明称Magic7是最强AI手机",
-      "onboard_time": 1729152321,
-      "rank": 15,
-      "category": "数码"
     },
     {
       "raw_hot": 29155,
@@ -2369,6 +2481,14 @@
       "onboard_time": 1729084821,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3039,
+      "num": 594915,
+      "word": "千年石窟 匠心传承",
+      "onboard_time": 1729156161,
+      "rank": 2,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
@@ -2383,6 +2503,9 @@
     },
     {
       "word": "#在中国式现代化建设中奋勇争先#"
+    },
+    {
+      "word": "#弘扬科学精神积极投身科技创新#"
     }
   ]
 }
