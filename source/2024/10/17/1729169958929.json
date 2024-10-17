@@ -1,0 +1,402 @@
+{
+  "runTime": 1729169958929,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1943548,
+        "num": 1943548,
+        "word": "VOGUE走秀",
+        "onboard_time": 1729165161,
+        "rank": 0,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 928560,
+        "num": 928560,
+        "word": "樊振东说不存在恢复",
+        "onboard_time": 1729164981,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1123366,
+        "num": 621362,
+        "word": "王一博 起猛了",
+        "onboard_time": 1729163842,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 618455,
+        "num": 618455,
+        "word": "国企员工擅自离岗16年丈夫发声",
+        "onboard_time": 1729160061,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 414719,
+        "num": 414719,
+        "word": "中方回应朝鲜将韩国定义为敌对国家",
+        "onboard_time": 1729154420,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1036791,
+        "num": 403159,
+        "word": "田曦薇蹦蹦跳跳走秀",
+        "onboard_time": 1729166540,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 745110,
+        "num": 395871,
+        "word": "杨幂 狐塑",
+        "onboard_time": 1729165340,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 384525,
+        "num": 384525,
+        "word": "月亮",
+        "onboard_time": 1729158983,
+        "rank": 8,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 350860,
+        "num": 350860,
+        "word": "2024年度最大超级月亮今晚登场",
+        "onboard_time": 1729163963,
+        "rank": 9,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 1497532,
+        "num": 346739,
+        "word": "周也裙子变装",
+        "onboard_time": 1729167921,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 48207,
+        "num": 335223,
+        "word": "潘展乐实力演绎00后老师上岗",
+        "onboard_time": 1729166902,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 737595,
+        "num": 325926,
+        "word": "赵露思超长麻花辫",
+        "onboard_time": 1729152801,
+        "rank": 12,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 660274,
+        "num": 309120,
+        "word": "娜然 仿生机械姬",
+        "onboard_time": 1729167802,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 641017,
+        "num": 302834,
+        "word": "黄圣依想离婚是受不了爹式管理",
+        "onboard_time": 1729169061,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 556495,
+        "num": 282664,
+        "word": "虞书欣 烈焰玫瑰",
+        "onboard_time": 1729161982,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 281128,
+        "num": 281128,
+        "word": "意大利将海外代孕入刑",
+        "onboard_time": 1729165761,
+        "rank": 16,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 279813,
+        "num": 279813,
+        "word": "LNG对战WBG",
+        "onboard_time": 1729167021,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 99429,
+        "num": 271079,
+        "word": "今年第3次超级月亮",
+        "onboard_time": 1729165522,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 14535,
+        "num": 268707,
+        "word": "宋佳李现杨天真同框合照",
+        "onboard_time": 1729169541,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 885855,
+        "num": 268120,
+        "word": "小英回应经济状况",
+        "onboard_time": 1729161381,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267102,
+        "num": 267102,
+        "word": "儿童文具胶带出现男性生殖器图案",
+        "onboard_time": 1729135462,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254968,
+        "num": 267096,
+        "word": "主播称遭追杀让粉丝买下文物先保管",
+        "onboard_time": 1729158861,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 787126,
+        "num": 267067,
+        "word": "刘亦菲梦回白秀珠",
+        "onboard_time": 1729158200,
+        "rank": 23,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 552959,
+        "num": 267046,
+        "word": "杨幂又玩抽象了",
+        "onboard_time": 1729156462,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 520708,
+        "num": 267015,
+        "word": "刘诗诗面纱live",
+        "onboard_time": 1729164021,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 141489,
+        "num": 266997,
+        "word": "山东威海一海滩发现甲午战争鱼雷",
+        "onboard_time": 1729159640,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 517419,
+        "num": 266982,
+        "word": "金晨穿雨衣走秀",
+        "onboard_time": 1729168521,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 500387,
+        "num": 266953,
+        "word": "娜扎 吸血鬼女王",
+        "onboard_time": 1729168699,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 476105,
+        "num": 266930,
+        "word": "杨天真带着付款码来了",
+        "onboard_time": 1729168941,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 399539,
+        "num": 266925,
+        "word": "鞠婧祎 清纯小白花",
+        "onboard_time": 1729163061,
+        "rank": 30,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 360868,
+        "num": 266891,
+        "word": "何猷君奚梦瑶红毯牵手",
+        "onboard_time": 1729166182,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 353481,
+        "num": 266858,
+        "word": "小英送养孩子实属民间送养不构成犯罪",
+        "onboard_time": 1729154541,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 307679,
+        "num": 266838,
+        "word": "枭起青壤",
+        "onboard_time": 1729169903,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 306900,
+        "num": 266814,
+        "word": "黄圣依杨子 2个人8人群",
+        "onboard_time": 1729141403,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 300114,
+        "num": 266801,
+        "word": "王鹤棣 小狗包",
+        "onboard_time": 1729168581,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 18605,
+        "num": 266769,
+        "word": "人头马解锁社交新玩法",
+        "onboard_time": 1729167021,
+        "rank": 36,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 266769,
+        "num": 266768,
+        "word": "黄景瑜 搞得和真的似的",
+        "onboard_time": 1729165820,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 261013,
+        "num": 261013,
+        "word": "Jennie初一位",
+        "onboard_time": 1729168281,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 250069,
+        "num": 250069,
+        "word": "风都偏爱陈都灵",
+        "onboard_time": 1729162102,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 247017,
+        "num": 247017,
+        "word": "朱珠真是风情万种",
+        "onboard_time": 1729169602,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 235070,
+        "num": 235070,
+        "word": "微博竞燃之夜投票",
+        "onboard_time": 1729164502,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 223817,
+        "num": 223817,
+        "word": "王一博带滑板走秀",
+        "onboard_time": 1729169602,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 214131,
+        "num": 214131,
+        "word": "韦雪拉黑秦奋",
+        "onboard_time": 1729155142,
+        "rank": 43,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 202920,
+        "num": 202920,
+        "word": "双胞胎宝妈又怀上三胞胎称有压力",
+        "onboard_time": 1729154962,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197479,
+        "num": 197479,
+        "word": "山东一市监所所长被刺身亡",
+        "onboard_time": 1729154121,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194823,
+        "num": 194823,
+        "word": "网红小英承认曾送养女孩",
+        "onboard_time": 1729154300,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177652,
+        "num": 177652,
+        "word": "女明星都好美",
+        "onboard_time": 1729166841,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 151805,
+        "num": 151805,
+        "word": "法拉利F80",
+        "onboard_time": 1729169903,
+        "rank": 48,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 149297,
+        "num": 149297,
+        "word": "4人造谣成都天价拆迁款被处罚",
+        "onboard_time": 1729160781,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#弘扬科学精神积极投身科技创新#"
+    }
+  }
+}

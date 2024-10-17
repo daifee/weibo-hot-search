@@ -1,6 +1,6 @@
 {
   "startTime": 1729096028716,
-  "endTime": 1729168979514,
+  "endTime": 1729169958929,
   "band_list": [
     {
       "raw_hot": 3127370,
@@ -89,6 +89,14 @@
       "onboard_time": 1729135462,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1497532,
+      "num": 544761,
+      "word": "周也裙子变装",
+      "onboard_time": 1729167921,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1408701,
@@ -180,7 +188,7 @@
     },
     {
       "raw_hot": 1155149,
-      "num": 580175,
+      "num": 621362,
       "word": "王一博 起猛了",
       "onboard_time": 1729163842,
       "rank": 46,
@@ -209,6 +217,14 @@
       "onboard_time": 1729157482,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1036791,
+      "num": 544861,
+      "word": "田曦薇蹦蹦跳跳走秀",
+      "onboard_time": 1729166540,
+      "rank": 6,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1033570,
@@ -251,14 +267,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 945361,
-      "num": 544861,
-      "word": "田曦薇蹦蹦跳跳走秀",
-      "onboard_time": 1729166540,
-      "rank": 6,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 902117,
       "num": 492538,
       "word": "杨幂给小糯米买玩偶",
@@ -283,6 +291,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 885855,
+      "num": 318879,
+      "word": "小英回应经济状况",
+      "onboard_time": 1729161381,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 873909,
       "num": 873909,
       "word": "医院回应公职人员体检市民被拦住",
@@ -292,7 +308,7 @@
     },
     {
       "raw_hot": 834061,
-      "num": 552169,
+      "num": 618455,
       "word": "国企员工擅自离岗16年丈夫发声",
       "onboard_time": 1729160061,
       "rank": 34,
@@ -305,14 +321,6 @@
       "onboard_time": 1729143803,
       "rank": 5,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 823328,
-      "num": 544761,
-      "word": "周也裙子变装",
-      "onboard_time": 1729167921,
-      "rank": 10,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 820835,
@@ -395,14 +403,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 783169,
-      "num": 318879,
-      "word": "小英回应经济状况",
-      "onboard_time": 1729161381,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 766357,
       "num": 409732,
       "word": "鞠婧祎 清纯小白花",
@@ -417,6 +417,14 @@
       "onboard_time": 1729143204,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 745110,
+      "num": 544850,
+      "word": "杨幂 狐塑",
+      "onboard_time": 1729165340,
+      "rank": 7,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 741244,
@@ -441,14 +449,6 @@
       "onboard_time": 1729159280,
       "rank": 16,
       "category": "电影"
-    },
-    {
-      "raw_hot": 718671,
-      "num": 544850,
-      "word": "杨幂 狐塑",
-      "onboard_time": 1729165340,
-      "rank": 7,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 718648,
@@ -499,6 +499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 660274,
+      "num": 516364,
+      "word": "娜然 仿生机械姬",
+      "onboard_time": 1729167802,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 654051,
       "num": 399186,
       "word": "00后贷款10万炒股倒赔7000元",
@@ -521,6 +529,14 @@
       "onboard_time": 1729151962,
       "rank": 7,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 641017,
+      "num": 302834,
+      "word": "黄圣依想离婚是受不了爹式管理",
+      "onboard_time": 1729169061,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 600654,
@@ -651,11 +667,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 516364,
-      "num": 516364,
-      "word": "娜然 仿生机械姬",
-      "onboard_time": 1729167802,
-      "rank": 16,
+      "raw_hot": 517419,
+      "num": 282836,
+      "word": "金晨穿雨衣走秀",
+      "onboard_time": 1729168521,
+      "rank": 28,
       "category": "作品衍生"
     },
     {
@@ -665,6 +681,14 @@
       "onboard_time": 1729133541,
       "rank": 42,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 500387,
+      "num": 266953,
+      "word": "娜扎 吸血鬼女王",
+      "onboard_time": 1729168699,
+      "rank": 44,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 498476,
@@ -729,6 +753,14 @@
       "onboard_time": 1729139245,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 476105,
+      "num": 266930,
+      "word": "杨天真带着付款码来了",
+      "onboard_time": 1729168941,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 475240,
@@ -931,6 +963,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 307679,
+      "num": 266838,
+      "word": "枭起青壤",
+      "onboard_time": 1729169903,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 305685,
       "num": 305685,
       "word": "成都拆迁地图发布方最新声明",
@@ -969,6 +1009,14 @@
       "onboard_time": 1729141524,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 300114,
+      "num": 266801,
+      "word": "王鹤棣 小狗包",
+      "onboard_time": 1729168581,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 295066,
@@ -1019,14 +1067,6 @@
       "category": "时尚,作品衍生"
     },
     {
-      "raw_hot": 282836,
-      "num": 282836,
-      "word": "金晨穿雨衣走秀",
-      "onboard_time": 1729168521,
-      "rank": 28,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 282653,
       "num": 471928,
       "word": "100岁姐姐与94岁妹妹的极限拉扯",
@@ -1043,12 +1083,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 281128,
+      "num": 544796,
+      "word": "意大利将海外代孕入刑",
+      "onboard_time": 1729165761,
+      "rank": 9,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 280398,
       "num": 287201,
       "word": "十个勤天 偏偏你们最争气",
       "onboard_time": 1729122560,
       "rank": 9,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 279813,
+      "num": 279813,
+      "word": "LNG对战WBG",
+      "onboard_time": 1729167021,
+      "rank": 17,
+      "category": "电竞"
     },
     {
       "raw_hot": 278883,
@@ -1123,12 +1179,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 266769,
+      "num": 266768,
+      "word": "黄景瑜 搞得和真的似的",
+      "onboard_time": 1729165820,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 261312,
       "num": 308700,
       "word": "东北雨姐带货油污净属地市监局已介入",
       "onboard_time": 1729152682,
       "rank": 29,
       "category": "网红"
+    },
+    {
+      "raw_hot": 261013,
+      "num": 261013,
+      "word": "Jennie初一位",
+      "onboard_time": 1729168281,
+      "rank": 37,
+      "category": "音乐"
     },
     {
       "raw_hot": 261009,
@@ -1187,12 +1259,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 245345,
-      "num": 544796,
-      "word": "意大利将海外代孕入刑",
-      "onboard_time": 1729165761,
-      "rank": 9,
-      "category": "国外时政"
+      "raw_hot": 247017,
+      "num": 247017,
+      "word": "朱珠真是风情万种",
+      "onboard_time": 1729169602,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 244608,
@@ -1211,12 +1283,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 240920,
-      "num": 240920,
-      "word": "黄景瑜 搞得和真的似的",
-      "onboard_time": 1729165820,
-      "rank": 35,
-      "category": "作品衍生"
+      "raw_hot": 235070,
+      "num": 235070,
+      "word": "微博竞燃之夜投票",
+      "onboard_time": 1729164502,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 233311,
@@ -1267,20 +1339,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 224882,
-      "num": 224882,
-      "word": "Jennie初一位",
-      "onboard_time": 1729168281,
-      "rank": 37,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 223861,
       "num": 223861,
       "word": "逆水寒手游道歉",
       "onboard_time": 1729139486,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 223817,
+      "num": 223817,
+      "word": "王一博带滑板走秀",
+      "onboard_time": 1729169602,
+      "rank": 42,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 223587,
@@ -1499,14 +1571,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 202461,
-      "num": 202461,
-      "word": "王鹤棣 小狗包",
-      "onboard_time": 1729168581,
-      "rank": 38,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 201763,
       "num": 201763,
       "word": "印度射击世界杯食堂引网友质疑",
@@ -1601,14 +1665,6 @@
       "onboard_time": 1729141825,
       "rank": 36,
       "category": "电影"
-    },
-    {
-      "raw_hot": 194408,
-      "num": 194408,
-      "word": "微博竞燃之夜投票",
-      "onboard_time": 1729164502,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 194359,
@@ -1787,20 +1843,20 @@
       "category": "美食"
     },
     {
+      "raw_hot": 177652,
+      "num": 177652,
+      "word": "女明星都好美",
+      "onboard_time": 1729166841,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 175434,
       "num": 494128,
       "word": "到底哪个幸运儿用上了高铁WiFi",
       "onboard_time": 1729135703,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 174992,
-      "num": 174992,
-      "word": "女明星都好美",
-      "onboard_time": 1729166841,
-      "rank": 43,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 174716,
@@ -1891,14 +1947,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 166671,
-      "num": 166671,
-      "word": "娜扎 吸血鬼女王",
-      "onboard_time": 1729168699,
-      "rank": 44,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 166601,
       "num": 166601,
       "word": "逆水寒手游bug",
@@ -1945,14 +1993,6 @@
       "onboard_time": 1729136425,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 161969,
-      "num": 161969,
-      "word": "杨天真带着付款码来了",
-      "onboard_time": 1729168941,
-      "rank": 47,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 161867,
@@ -2009,6 +2049,14 @@
       "onboard_time": 1729079601,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 151805,
+      "num": 151805,
+      "word": "法拉利F80",
+      "onboard_time": 1729169903,
+      "rank": 48,
+      "category": "汽车"
     },
     {
       "raw_hot": 151401,
@@ -2379,6 +2427,14 @@
       "category": "自然"
     },
     {
+      "raw_hot": 99429,
+      "num": 271079,
+      "word": "今年第3次超级月亮",
+      "onboard_time": 1729165522,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 98169,
       "num": 98169,
       "word": "真有艺人因为造型被扣钱",
@@ -2651,6 +2707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 48207,
+      "num": 544756,
+      "word": "潘展乐实力演绎00后老师上岗",
+      "onboard_time": 1729166902,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 48125,
       "num": 474628,
       "word": "赵明称Magic7是最强AI手机",
@@ -2737,14 +2801,6 @@
       "onboard_time": 1729167081,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 39902,
-      "num": 544756,
-      "word": "潘展乐实力演绎00后老师上岗",
-      "onboard_time": 1729166902,
-      "rank": 11,
-      "category": "体育"
     },
     {
       "raw_hot": 38639,
@@ -2956,7 +3012,7 @@
     },
     {
       "raw_hot": 19022,
-      "num": 241434,
+      "num": 266769,
       "word": "人头马解锁社交新玩法",
       "onboard_time": 1729167021,
       "rank": 34,
@@ -3001,6 +3057,14 @@
       "onboard_time": 1729099035,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 14535,
+      "num": 268707,
+      "word": "宋佳李现杨天真同框合照",
+      "onboard_time": 1729169541,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 14173,
