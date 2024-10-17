@@ -1,6 +1,6 @@
 {
   "startTime": 1729096028716,
-  "endTime": 1729161695197,
+  "endTime": 1729163974909,
   "band_list": [
     {
       "raw_hot": 3127370,
@@ -89,6 +89,14 @@
       "onboard_time": 1729151301,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1353373,
+      "num": 684814,
+      "word": "虞书欣 烈焰玫瑰",
+      "onboard_time": 1729161982,
+      "rank": 3,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1331391,
@@ -299,6 +307,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 799483,
+      "num": 710342,
+      "word": "小英送养孩子实属民间送养不构成犯罪",
+      "onboard_time": 1729154541,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 795934,
       "num": 285891,
       "word": "叶珂说自己不是很做作的人",
@@ -320,6 +336,14 @@
       "word": "王超生前录音曝光",
       "onboard_time": 1729103415,
       "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 784428,
+      "num": 784428,
+      "word": "主播称遭追杀让粉丝买下文物先保管",
+      "onboard_time": 1729158861,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -348,7 +372,7 @@
     },
     {
       "raw_hot": 720382,
-      "num": 488077,
+      "num": 500215,
       "word": "毒液模仿向佐",
       "onboard_time": 1729159280,
       "rank": 16,
@@ -369,14 +393,6 @@
       "onboard_time": 1729149321,
       "rank": 4,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 710342,
-      "num": 710342,
-      "word": "小英送养孩子实属民间送养不构成犯罪",
-      "onboard_time": 1729154541,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 690137,
@@ -475,14 +491,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 570389,
-      "num": 570389,
-      "word": "主播称遭追杀让粉丝买下文物先保管",
-      "onboard_time": 1729158861,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 569477,
       "num": 291645,
       "word": "女主播奔现榜一大哥同居被骗2万多",
@@ -537,6 +545,14 @@
       "onboard_time": 1729140385,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 520422,
+      "num": 520422,
+      "word": "国企员工擅自离岗16年丈夫发声",
+      "onboard_time": 1729160061,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 518295,
@@ -627,6 +643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 473223,
+      "num": 473223,
+      "word": "月亮",
+      "onboard_time": 1729158983,
+      "rank": 23,
+      "category": "自然"
+    },
+    {
       "raw_hot": 472517,
       "num": 472517,
       "word": "中央5部门共同出席国新办发布会",
@@ -665,6 +689,14 @@
       "onboard_time": 1729131200,
       "rank": 5,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 407565,
+      "num": 407565,
+      "word": "鞠婧祎 清纯小白花",
+      "onboard_time": 1729163061,
+      "rank": 8,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 403117,
@@ -779,14 +811,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 319114,
-      "num": 319114,
-      "word": "月亮",
-      "onboard_time": 1729158983,
-      "rank": 23,
-      "category": "自然"
-    },
-    {
       "raw_hot": 317128,
       "num": 317128,
       "word": "4人造谣成都天价拆迁款被处罚",
@@ -835,6 +859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 301854,
+      "num": 301854,
+      "word": "丈夫护送妻子开车上班却被顶翻",
+      "onboard_time": 1729160122,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 300906,
       "num": 300906,
       "word": "白鹿拎范丞丞大头照行李箱",
@@ -859,12 +891,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 293397,
-      "num": 293397,
-      "word": "国企员工擅自离岗16年丈夫发声",
-      "onboard_time": 1729160061,
-      "rank": 34,
-      "category": "社会新闻"
+      "raw_hot": 290646,
+      "num": 290646,
+      "word": "风都偏爱陈都灵",
+      "onboard_time": 1729162102,
+      "rank": 18,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 287833,
@@ -968,14 +1000,6 @@
       "word": "辅警下班1秒钟又开始上班",
       "onboard_time": 1729130540,
       "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 271553,
-      "num": 271553,
-      "word": "丈夫护送妻子开车上班却被顶翻",
-      "onboard_time": 1729160122,
-      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -1152,6 +1176,14 @@
       "word": "三年花12万就能获博士学位",
       "onboard_time": 1729139605,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 219143,
+      "num": 219143,
+      "word": "小英回应经济状况",
+      "onboard_time": 1729161381,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -1395,6 +1427,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 197619,
+      "num": 197619,
+      "word": "官方称小英送养行为不构成犯罪",
+      "onboard_time": 1729162402,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 195889,
       "num": 195889,
       "word": "10月26日可查房贷利率调整结果",
@@ -1433,6 +1473,22 @@
       "onboard_time": 1729145421,
       "rank": 40,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 193528,
+      "num": 193528,
+      "word": "林高远1比3闫安",
+      "onboard_time": 1729163602,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 192181,
+      "num": 192181,
+      "word": "林高远2比3黄友政",
+      "onboard_time": 1729161683,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 192001,
@@ -1555,6 +1611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 180198,
+      "num": 180198,
+      "word": "全锦赛广东男团vs北京男团",
+      "onboard_time": 1729161921,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 179728,
       "num": 175475,
       "word": "虞书欣Chill小兔",
@@ -1617,6 +1681,14 @@
       "onboard_time": 1729096098,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 171928,
+      "num": 171928,
+      "word": "宋佳 173大美女来了",
+      "onboard_time": 1729161982,
+      "rank": 41,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 170994,
@@ -1787,14 +1859,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 149808,
-      "num": 149808,
-      "word": "小英回应经济状况",
-      "onboard_time": 1729161381,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 148311,
       "num": 148311,
       "word": "张真源奔跑吧摇扇路透",
@@ -1833,6 +1897,14 @@
       "onboard_time": 1729150341,
       "rank": 49,
       "category": "读书作家,网红"
+    },
+    {
+      "raw_hot": 143760,
+      "num": 143760,
+      "word": "王一博 起猛了",
+      "onboard_time": 1729163842,
+      "rank": 46,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 143700,
@@ -1907,14 +1979,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 135792,
-      "num": 135792,
-      "word": "林高远2比3黄友政",
-      "onboard_time": 1729161683,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 133871,
       "num": 133871,
       "word": "樊振东和球迷挥手",
@@ -1953,6 +2017,14 @@
       "onboard_time": 1729159820,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 124687,
+      "num": 364718,
+      "word": "张凌赫live图bgm是凤凰传奇",
+      "onboard_time": 1729160661,
+      "rank": 19,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 124213,
@@ -2131,14 +2203,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 98007,
-      "num": 364718,
-      "word": "张凌赫live图bgm是凤凰传奇",
-      "onboard_time": 1729160661,
-      "rank": 19,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 95533,
       "num": 202348,
       "word": "维密",
@@ -2251,6 +2315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 74273,
+      "num": 395104,
+      "word": "上海迪士尼就阻拦游客带扑克牌道歉",
+      "onboard_time": 1729163001,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 71249,
       "num": 422964,
       "word": "住建部称房地产市场已经开始筑底",
@@ -2353,6 +2425,14 @@
       "onboard_time": 1729138105,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 53401,
+      "num": 289387,
+      "word": "毒液新浪扫楼",
+      "onboard_time": 1729163483,
+      "rank": 19,
+      "category": "电影"
     },
     {
       "raw_hot": 53259,
@@ -2571,12 +2651,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 25162,
+      "num": 180562,
+      "word": "跟着e人王星越买面霜的快乐",
+      "onboard_time": 1729163420,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 24862,
       "num": 470094,
       "word": "对极氪MIX的期待拉满了",
       "onboard_time": 1729143683,
       "rank": 15,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 24472,
+      "num": 230653,
+      "word": "跟着金晨选到了人生精华",
+      "onboard_time": 1729163061,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 23705,
@@ -2608,6 +2704,14 @@
       "word": "女主播奔现榜一大哥实为离异待业男",
       "onboard_time": 1729106112,
       "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 20574,
+      "num": 339126,
+      "word": "中小游戏公司出海卷不过大厂",
+      "onboard_time": 1729163363,
+      "rank": 14,
       "category": "社会新闻"
     },
     {

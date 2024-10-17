@@ -1,6 +1,6 @@
 {
   "startTime": 1728750414717,
-  "endTime": 1729161695197,
+  "endTime": 1729163974909,
   "band_list": [
     {
       "raw_hot": 17915004,
@@ -809,6 +809,14 @@
       "onboard_time": 1728979219,
       "rank": 11,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 1353373,
+      "num": 684814,
+      "word": "虞书欣 烈焰玫瑰",
+      "onboard_time": 1729161982,
+      "rank": 3,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1352455,
@@ -1899,6 +1907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 799483,
+      "num": 710342,
+      "word": "小英送养孩子实属民间送养不构成犯罪",
+      "onboard_time": 1729154541,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 798348,
       "num": 363634,
       "word": "SpaceX首次回收星舰成功",
@@ -1961,6 +1977,14 @@
       "onboard_time": 1728980660,
       "rank": 35,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 784428,
+      "num": 784428,
+      "word": "主播称遭追杀让粉丝买下文物先保管",
+      "onboard_time": 1729158861,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 783302,
@@ -2172,7 +2196,7 @@
     },
     {
       "raw_hot": 720382,
-      "num": 488077,
+      "num": 500215,
       "word": "毒液模仿向佐",
       "onboard_time": 1729159280,
       "rank": 16,
@@ -2233,14 +2257,6 @@
       "onboard_time": 1729149321,
       "rank": 4,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 710342,
-      "num": 710342,
-      "word": "小英送养孩子实属民间送养不构成犯罪",
-      "onboard_time": 1729154541,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 708630,
@@ -2787,14 +2803,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 570389,
-      "num": 570389,
-      "word": "主播称遭追杀让粉丝买下文物先保管",
-      "onboard_time": 1729158861,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 569477,
       "num": 291645,
       "word": "女主播奔现榜一大哥同居被骗2万多",
@@ -3041,6 +3049,14 @@
       "onboard_time": 1728983479,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 520422,
+      "num": 520422,
+      "word": "国企员工擅自离岗16年丈夫发声",
+      "onboard_time": 1729160061,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 518295,
@@ -3353,6 +3369,14 @@
       "onboard_time": 1729137926,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 473223,
+      "num": 473223,
+      "word": "月亮",
+      "onboard_time": 1729158983,
+      "rank": 23,
+      "category": "自然"
     },
     {
       "raw_hot": 473128,
@@ -3769,6 +3793,14 @@
       "onboard_time": 1728839474,
       "rank": 8,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 407565,
+      "num": 407565,
+      "word": "鞠婧祎 清纯小白花",
+      "onboard_time": 1729163061,
+      "rank": 8,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 407183,
@@ -4499,14 +4531,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 319114,
-      "num": 319114,
-      "word": "月亮",
-      "onboard_time": 1729158983,
-      "rank": 23,
-      "category": "自然"
-    },
-    {
       "raw_hot": 317715,
       "num": 317715,
       "word": "王者周年庆送传说皮肤",
@@ -4691,6 +4715,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 301854,
+      "num": 301854,
+      "word": "丈夫护送妻子开车上班却被顶翻",
+      "onboard_time": 1729160122,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 301816,
       "num": 301816,
       "word": "伊能静谈与刘亦菲友情",
@@ -4859,14 +4891,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 293397,
-      "num": 293397,
-      "word": "国企员工擅自离岗16年丈夫发声",
-      "onboard_time": 1729160061,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 293368,
       "num": 718785,
       "word": "权志龙新歌power",
@@ -4937,6 +4961,14 @@
       "onboard_time": 1728962238,
       "rank": 32,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 290646,
+      "num": 290646,
+      "word": "风都偏爱陈都灵",
+      "onboard_time": 1729162102,
+      "rank": 18,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 289674,
@@ -5264,14 +5296,6 @@
       "word": "辅警下班1秒钟又开始上班",
       "onboard_time": 1729130540,
       "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 271553,
-      "num": 271553,
-      "word": "丈夫护送妻子开车上班却被顶翻",
-      "onboard_time": 1729160122,
-      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -6395,6 +6419,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 219143,
+      "num": 219143,
+      "word": "小英回应经济状况",
+      "onboard_time": 1729161381,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 218990,
       "num": 218990,
       "word": "台独挑衅一次反制就推进一步",
@@ -7475,6 +7507,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 197619,
+      "num": 197619,
+      "word": "官方称小英送养行为不构成犯罪",
+      "onboard_time": 1729162402,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 197430,
       "num": 444960,
       "word": "春花焰",
@@ -7723,6 +7763,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 193528,
+      "num": 193528,
+      "word": "林高远1比3闫安",
+      "onboard_time": 1729163602,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 193152,
       "num": 313034,
       "word": "微博视界大会",
@@ -7793,6 +7841,14 @@
       "onboard_time": 1728797359,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 192181,
+      "num": 192181,
+      "word": "林高远2比3黄友政",
+      "onboard_time": 1729161683,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 192001,
@@ -8523,6 +8579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 180198,
+      "num": 180198,
+      "word": "全锦赛广东男团vs北京男团",
+      "onboard_time": 1729161921,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 180118,
       "num": 180118,
       "word": "西安小米SU7事故伤者急需输血",
@@ -8825,6 +8889,14 @@
       "onboard_time": 1729096098,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 171928,
+      "num": 171928,
+      "word": "宋佳 173大美女来了",
+      "onboard_time": 1729161982,
+      "rank": 41,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 171430,
@@ -9867,14 +9939,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 149808,
-      "num": 149808,
-      "word": "小英回应经济状况",
-      "onboard_time": 1729161381,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 149676,
       "num": 187483,
       "word": "林俊杰妈妈去看了周杰伦演唱会",
@@ -10129,6 +10193,14 @@
       "onboard_time": 1729070240,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 143760,
+      "num": 143760,
+      "word": "王一博 起猛了",
+      "onboard_time": 1729163842,
+      "rank": 46,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 143700,
@@ -10491,14 +10563,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 135792,
-      "num": 135792,
-      "word": "林高远2比3黄友政",
-      "onboard_time": 1729161683,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 135227,
       "num": 135227,
       "word": "赵牧辰阮小咪动物园约会",
@@ -10753,6 +10817,14 @@
       "onboard_time": 1728819140,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 124687,
+      "num": 364718,
+      "word": "张凌赫live图bgm是凤凰传奇",
+      "onboard_time": 1729160661,
+      "rank": 19,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 124213,
@@ -11627,14 +11699,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 98007,
-      "num": 364718,
-      "word": "张凌赫live图bgm是凤凰传奇",
-      "onboard_time": 1729160661,
-      "rank": 19,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 96934,
       "num": 96934,
       "word": "石凯黑白艺术家演技张力",
@@ -12177,6 +12241,14 @@
       "onboard_time": 1729055840,
       "rank": 38,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 74273,
+      "num": 395104,
+      "word": "上海迪士尼就阻拦游客带扑克牌道歉",
+      "onboard_time": 1729163001,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 74055,
@@ -12785,6 +12857,14 @@
       "onboard_time": 1728880281,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 53401,
+      "num": 289387,
+      "word": "毒液新浪扫楼",
+      "onboard_time": 1729163483,
+      "rank": 19,
+      "category": "电影"
     },
     {
       "raw_hot": 53339,
@@ -14315,6 +14395,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 25162,
+      "num": 180562,
+      "word": "跟着e人王星越买面霜的快乐",
+      "onboard_time": 1729163420,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 24862,
       "num": 470094,
       "word": "对极氪MIX的期待拉满了",
@@ -14337,6 +14425,14 @@
       "onboard_time": 1729063638,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 24472,
+      "num": 230653,
+      "word": "跟着金晨选到了人生精华",
+      "onboard_time": 1729163061,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 24458,
@@ -14553,6 +14649,14 @@
       "onboard_time": 1728867800,
       "rank": 16,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 20574,
+      "num": 339126,
+      "word": "中小游戏公司出海卷不过大厂",
+      "onboard_time": 1729163363,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 20238,
