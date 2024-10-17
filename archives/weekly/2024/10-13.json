@@ -1,6 +1,6 @@
 {
   "startTime": 1728750414717,
-  "endTime": 1729169958929,
+  "endTime": 1729171794992,
   "band_list": [
     {
       "raw_hot": 17915004,
@@ -25,6 +25,14 @@
       "onboard_time": 1728826461,
       "rank": 3,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 3993999,
+      "num": 3993999,
+      "word": "刘亦菲压轴",
+      "onboard_time": 1729170383,
+      "rank": 0,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 3775722,
@@ -1227,6 +1235,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1092476,
+      "num": 421211,
+      "word": "黄圣依想离婚是受不了爹式管理",
+      "onboard_time": 1729169061,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1089422,
       "num": 1277723,
       "word": "K总停播",
@@ -1644,11 +1660,19 @@
     },
     {
       "raw_hot": 885855,
-      "num": 318879,
+      "num": 392893,
       "word": "小英回应经济状况",
       "onboard_time": 1729161381,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 884958,
+      "num": 424782,
+      "word": "朱珠真是风情万种",
+      "onboard_time": 1729169602,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 883619,
@@ -1713,6 +1737,14 @@
       "onboard_time": 1729004241,
       "rank": 8,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 847692,
+      "num": 417573,
+      "word": "田曦薇红毯",
+      "onboard_time": 1729166540,
+      "rank": 11,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 845959,
@@ -2051,6 +2083,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 782897,
+      "num": 414961,
+      "word": "王一博带滑板走秀",
+      "onboard_time": 1729169602,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 781272,
       "num": 781272,
       "word": "网红小虎行机场强迫志愿者摘口罩",
@@ -2371,6 +2411,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 697196,
+      "num": 413321,
+      "word": "杨幂红毯生图",
+      "onboard_time": 1729165340,
+      "rank": 13,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 695978,
       "num": 443371,
       "word": "百万粉丝网红脑溢血昏迷8天后离世",
@@ -2595,6 +2643,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 644517,
+      "num": 402815,
+      "word": "娜扎 吸血鬼女王",
+      "onboard_time": 1729168699,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 642383,
       "num": 642383,
       "word": "龚俊 内娱花蝴蝶",
@@ -2603,12 +2659,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 641017,
-      "num": 302834,
-      "word": "黄圣依想离婚是受不了爹式管理",
-      "onboard_time": 1729169061,
-      "rank": 14,
-      "category": "综艺"
+      "raw_hot": 642284,
+      "num": 401154,
+      "word": "王一博发博",
+      "onboard_time": 1729163842,
+      "rank": 21,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 640976,
@@ -2761,6 +2817,14 @@
       "onboard_time": 1729067480,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 600779,
+      "num": 398497,
+      "word": "杨天真带着付款码来了",
+      "onboard_time": 1729168941,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 600654,
@@ -2971,6 +3035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 555613,
+      "num": 396681,
+      "word": "金晨穿雨衣走秀",
+      "onboard_time": 1729168521,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 554149,
       "num": 432878,
       "word": "吹牛老爹 贾斯汀比伯",
@@ -2993,6 +3065,14 @@
       "onboard_time": 1729137266,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 545835,
+      "num": 394006,
+      "word": "刘诗诗 霜雪天降具像化",
+      "onboard_time": 1729170623,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 544884,
@@ -3171,14 +3251,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 517419,
-      "num": 282836,
-      "word": "金晨穿雨衣走秀",
-      "onboard_time": 1729168521,
-      "rank": 28,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 516039,
       "num": 234991,
       "word": "东北雨姐及团队绝大部分非当地村民",
@@ -3289,14 +3361,6 @@
       "onboard_time": 1729077800,
       "rank": 5,
       "category": "体育"
-    },
-    {
-      "raw_hot": 500387,
-      "num": 266953,
-      "word": "娜扎 吸血鬼女王",
-      "onboard_time": 1729168699,
-      "rank": 44,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 499028,
@@ -3465,14 +3529,6 @@
       "onboard_time": 1728825802,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 476105,
-      "num": 266930,
-      "word": "杨天真带着付款码来了",
-      "onboard_time": 1729168941,
-      "rank": 47,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 475650,
@@ -3737,6 +3793,14 @@
       "onboard_time": 1728805939,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 434019,
+      "num": 544796,
+      "word": "意大利将海外代孕入刑",
+      "onboard_time": 1729165761,
+      "rank": 9,
+      "category": "国外时政"
     },
     {
       "raw_hot": 432763,
@@ -4067,12 +4131,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 384958,
+      "num": 384958,
+      "word": "明星VOGUE生图",
+      "onboard_time": 1729170261,
+      "rank": 31,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 384781,
       "num": 330645,
       "word": "赵一博空降",
       "onboard_time": 1729071320,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 384779,
+      "num": 384779,
+      "word": "赵露思飞吻",
+      "onboard_time": 1729170803,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 384388,
@@ -4539,6 +4619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 331360,
+      "num": 331360,
+      "word": "檀健次跳舞出场",
+      "onboard_time": 1729170862,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 330841,
       "num": 330841,
       "word": "女生找工作被HR问如果想追你呢",
@@ -4609,6 +4697,14 @@
       "onboard_time": 1728911242,
       "rank": 21,
       "category": "数码"
+    },
+    {
+      "raw_hot": 327891,
+      "num": 327891,
+      "word": "snowman",
+      "onboard_time": 1729171043,
+      "rank": 36,
+      "category": "音乐"
     },
     {
       "raw_hot": 326318,
@@ -4819,6 +4915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 303394,
+      "num": 303394,
+      "word": "王鹤棣 小狗包",
+      "onboard_time": 1729168581,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 302559,
       "num": 302559,
       "word": "Jennie勺子短裤",
@@ -4889,14 +4993,6 @@
       "onboard_time": 1728883998,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 300114,
-      "num": 266801,
-      "word": "王鹤棣 小狗包",
-      "onboard_time": 1729168581,
-      "rank": 38,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 300025,
@@ -5259,14 +5355,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 281128,
-      "num": 544796,
-      "word": "意大利将海外代孕入刑",
-      "onboard_time": 1729165761,
-      "rank": 9,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 280979,
       "num": 280979,
       "word": "宋雨琦人在上班心在云南",
@@ -5329,6 +5417,14 @@
       "onboard_time": 1729159640,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 276469,
+      "num": 276469,
+      "word": "黄景瑜 搞得和真的似的",
+      "onboard_time": 1729165820,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 276128,
@@ -5513,14 +5609,6 @@
       "onboard_time": 1729050021,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 266769,
-      "num": 266768,
-      "word": "黄景瑜 搞得和真的似的",
-      "onboard_time": 1729165820,
-      "rank": 35,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 266011,
@@ -5955,14 +6043,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 247017,
-      "num": 247017,
-      "word": "朱珠真是风情万种",
-      "onboard_time": 1729169602,
-      "rank": 40,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 246210,
       "num": 246210,
       "word": "加沙人说8个月没吃过西红柿了",
@@ -6049,6 +6129,14 @@
       "onboard_time": 1728893718,
       "rank": 39,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 243499,
+      "num": 287486,
+      "word": "小英称牛因生了小牛且生病才瘦",
+      "onboard_time": 1729169723,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 242056,
@@ -6483,14 +6571,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 223817,
-      "num": 223817,
-      "word": "王一博带滑板走秀",
-      "onboard_time": 1729169602,
-      "rank": 42,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 223812,
       "num": 223812,
       "word": "91岁母亲看望病重儿子后儿子离世",
@@ -6713,6 +6793,14 @@
       "onboard_time": 1728963078,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 215891,
+      "num": 215891,
+      "word": "惠英红 百年大妖镇场子",
+      "onboard_time": 1729171522,
+      "rank": 45,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 215811,
@@ -7329,6 +7417,14 @@
       "onboard_time": 1728820400,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 203627,
+      "num": 203627,
+      "word": "法拉利F80",
+      "onboard_time": 1729169903,
+      "rank": 48,
+      "category": "汽车"
     },
     {
       "raw_hot": 203569,
@@ -8216,6 +8312,14 @@
       "word": "开发商回应成都拆迁",
       "onboard_time": 1729071860,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 190189,
+      "num": 190189,
+      "word": "陈祥榕母亲为问勇路揭牌",
+      "onboard_time": 1729171642,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -10049,14 +10153,6 @@
       "onboard_time": 1728984259,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 151805,
-      "num": 151805,
-      "word": "法拉利F80",
-      "onboard_time": 1729169903,
-      "rank": 48,
-      "category": "汽车"
     },
     {
       "raw_hot": 151802,
@@ -12427,6 +12523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 79728,
+      "num": 404782,
+      "word": "魏大勋 飘带你好坏",
+      "onboard_time": 1729171282,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 79200,
       "num": 296493,
       "word": "别人都亲上了毕雯珺还在搞纯爱",
@@ -12465,6 +12569,14 @@
       "onboard_time": 1729049841,
       "rank": 37,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 77478,
+      "num": 544756,
+      "word": "潘展乐实力演绎00后老师上岗",
+      "onboard_time": 1729166902,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 77233,
@@ -13449,14 +13561,6 @@
       "onboard_time": 1729013113,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 48207,
-      "num": 544756,
-      "word": "潘展乐实力演绎00后老师上岗",
-      "onboard_time": 1729166902,
-      "rank": 11,
-      "category": "体育"
     },
     {
       "raw_hot": 48125,
@@ -14603,6 +14707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 27119,
+      "num": 464740,
+      "word": "沉浸式感受新疆机械采棉震撼场景",
+      "onboard_time": 1729155622,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 27086,
       "num": 297344,
       "word": "美称以不会打击伊朗核设施",
@@ -14664,6 +14776,14 @@
       "word": "古代的勺子上也有满满匠心",
       "onboard_time": 1729014014,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 25749,
+      "num": 404226,
+      "word": "宠物医疗暴利还是泡沫",
+      "onboard_time": 1729171222,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -14739,6 +14859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 23921,
+      "num": 412718,
+      "word": "举报幼儿园违法办学8年后被捕后续",
+      "onboard_time": 1729170563,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 23705,
       "num": 489666,
       "word": "朝鲜半岛的火药桶会被点燃吗",
@@ -14784,6 +14912,14 @@
       "word": "前村长被指盗信息为不明孩子落户",
       "onboard_time": 1728900800,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 22973,
+      "num": 420537,
+      "word": "女子为博流量虚构寻人启事被罚",
+      "onboard_time": 1729170444,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
