@@ -1,10 +1,10 @@
 {
   "startTime": 1729096028716,
-  "endTime": 1729135668686,
+  "endTime": 1729136561460,
   "band_list": [
     {
       "raw_hot": 2232538,
-      "num": 707173,
+      "num": 723020,
       "word": "沈梦辰模仿叶珂",
       "onboard_time": 1729130540,
       "rank": 3,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1590236,
-      "num": 381456,
+      "num": 491733,
       "word": "黄磊线下活动被贴脸喊豆角",
       "onboard_time": 1729123820,
       "rank": 10,
@@ -35,6 +35,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1158420,
+      "num": 494092,
+      "word": "马来西亚男子上厕所时被老虎叼走身亡",
+      "onboard_time": 1729135042,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1107305,
       "num": 293425,
       "word": "多名中国女性在德国遭强奸",
@@ -44,15 +52,15 @@
     },
     {
       "raw_hot": 1066673,
-      "num": 377517,
+      "num": 474698,
       "word": "特朗普暗示韩国应支付巨额保护费",
       "onboard_time": 1729124480,
       "rank": 11,
       "category": "国外时政"
     },
     {
-      "raw_hot": 902331,
-      "num": 1144373,
+      "raw_hot": 950291,
+      "num": 1152046,
       "word": "一火箭弹掉入我赴黎维和部队营区",
       "onboard_time": 1729122560,
       "rank": 0,
@@ -99,12 +107,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 718136,
+      "num": 492538,
+      "word": "杨幂给小糯米买玩偶",
+      "onboard_time": 1729135944,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 690137,
       "num": 690137,
       "word": "法媒称姆巴佩与女子自愿发生关系",
       "onboard_time": 1729125982,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 686943,
+      "num": 686943,
+      "word": "儿童文具胶带出现男性生殖器图案",
+      "onboard_time": 1729135462,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 683167,
@@ -124,11 +148,27 @@
     },
     {
       "raw_hot": 654051,
-      "num": 379753,
+      "num": 399186,
       "word": "00后贷款10万炒股倒赔7000元",
       "onboard_time": 1729129040,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 599472,
+      "num": 599472,
+      "word": "新增实施100万套城中村危旧房改造",
+      "onboard_time": 1729132701,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 589701,
+      "num": 473200,
+      "word": "中医说指甲是内脏显示屏",
+      "onboard_time": 1729133241,
+      "rank": 39,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 569477,
@@ -137,14 +177,6 @@
       "onboard_time": 1729104311,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 555037,
-      "num": 362303,
-      "word": "中医说指甲是内脏显示屏",
-      "onboard_time": 1729133241,
-      "rank": 39,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 533656,
@@ -163,19 +195,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 501863,
+      "num": 501863,
+      "word": "楼市组合拳4取消4降低2增加",
+      "onboard_time": 1729133541,
+      "rank": 42,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 498476,
       "num": 498476,
       "word": "日本新任首相向靖国神社供奉祭品",
       "onboard_time": 1729127721,
       "rank": 5,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 495402,
-      "num": 495402,
-      "word": "新增实施100万套城中村危旧房改造",
-      "onboard_time": 1729132701,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -219,12 +251,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 467531,
-      "num": 375991,
-      "word": "马来西亚男子上厕所时被老虎叼走身亡",
-      "onboard_time": 1729135042,
-      "rank": 13,
-      "category": "社会新闻"
+      "raw_hot": 472517,
+      "num": 472517,
+      "word": "中央5部门共同出席国新办发布会",
+      "onboard_time": 1729131020,
+      "rank": 8,
+      "category": "国内时政"
     },
     {
       "raw_hot": 443404,
@@ -243,14 +275,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 428393,
-      "num": 428393,
-      "word": "中央5部门共同出席国新办发布会",
-      "onboard_time": 1729131020,
-      "rank": 8,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 422662,
       "num": 422662,
       "word": "中国不会首先使用核武器",
@@ -259,12 +283,28 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 408684,
-      "num": 408684,
-      "word": "楼市组合拳4取消4降低2增加",
-      "onboard_time": 1729133541,
-      "rank": 42,
+      "raw_hot": 420879,
+      "num": 420879,
+      "word": "台禁止输入大陆产黄飞红花生",
+      "onboard_time": 1729135523,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 418579,
+      "num": 418579,
+      "word": "国新办新闻发布会",
+      "onboard_time": 1729131200,
+      "rank": 5,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 403117,
+      "num": 486078,
+      "word": "One Direction",
+      "onboard_time": 1729134683,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 398673,
@@ -291,12 +331,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 385036,
-      "num": 385036,
-      "word": "国新办新闻发布会",
-      "onboard_time": 1729131200,
-      "rank": 5,
-      "category": "国内时政"
+      "raw_hot": 376159,
+      "num": 376159,
+      "word": "女子摔倒鲨鱼夹碎裂扎入头部",
+      "onboard_time": 1729133722,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 372330,
@@ -304,14 +344,6 @@
       "word": "湖南一医院被曝阻止市民体检",
       "onboard_time": 1729128319,
       "rank": 41,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 356379,
-      "num": 356379,
-      "word": "女子摔倒鲨鱼夹碎裂扎入头部",
-      "onboard_time": 1729133722,
-      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -324,7 +356,7 @@
     },
     {
       "raw_hot": 315811,
-      "num": 374100,
+      "num": 484564,
       "word": "肖战电影得闲谨制杀青",
       "onboard_time": 1729132882,
       "rank": 16,
@@ -356,7 +388,7 @@
     },
     {
       "raw_hot": 295066,
-      "num": 295066,
+      "num": 494341,
       "word": "房地产白名单项目信贷增加到4万亿",
       "onboard_time": 1729132701,
       "rank": 28,
@@ -393,14 +425,6 @@
       "onboard_time": 1729090403,
       "rank": 17,
       "category": "网红"
-    },
-    {
-      "raw_hot": 275812,
-      "num": 370916,
-      "word": "One Direction",
-      "onboard_time": 1729134683,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 274287,
@@ -443,8 +467,16 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 248846,
+      "num": 481512,
+      "word": "马天宇战绩可查",
+      "onboard_time": 1729133121,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 233311,
-      "num": 334900,
+      "num": 353648,
       "word": "此沙掏耳朵",
       "onboard_time": 1729130960,
       "rank": 18,
@@ -523,6 +555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 195889,
+      "num": 195889,
+      "word": "10月26日可查房贷利率调整结果",
+      "onboard_time": 1729136005,
+      "rank": 39,
+      "category": "国内时政,财经"
+    },
+    {
       "raw_hot": 194359,
       "num": 194359,
       "word": "安静跑步的林孝埈",
@@ -531,12 +571,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 190547,
+      "num": 190547,
+      "word": "时代少年团谈成为偶像的意义",
+      "onboard_time": 1729136484,
+      "rank": 41,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 189366,
       "num": 189366,
       "word": "取消一切不必要不恰当不合理考核",
       "onboard_time": 1729126941,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 186789,
+      "num": 186789,
+      "word": "特朗普称美国城市发展远落后中国",
+      "onboard_time": 1729136544,
+      "rank": 44,
+      "category": "国外时政"
     },
     {
       "raw_hot": 181441,
@@ -561,6 +617,22 @@
       "onboard_time": 1729131980,
       "rank": 24,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 174164,
+      "num": 174164,
+      "word": "现在就出发",
+      "onboard_time": 1729136425,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 172622,
+      "num": 172622,
+      "word": "coloros15",
+      "onboard_time": 1729135644,
+      "rank": 48,
+      "category": "数码"
     },
     {
       "raw_hot": 171960,
@@ -611,6 +683,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 162034,
+      "num": 162034,
+      "word": "陈靖可 沉浸嗑",
+      "onboard_time": 1729136425,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 161867,
       "num": 161867,
       "word": "无人驾驶惹争议居民状告阿维塔",
@@ -627,28 +707,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 158843,
-      "num": 260496,
-      "word": "儿童文具胶带出现男性生殖器图案",
-      "onboard_time": 1729135462,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 155091,
       "num": 155091,
       "word": "米修斯之印公测",
       "onboard_time": 1729135644,
       "rank": 43,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 154214,
-      "num": 154214,
-      "word": "台禁止输入大陆产黄飞红花生",
-      "onboard_time": 1729135523,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 151401,
@@ -729,22 +793,6 @@
       "onboard_time": 1729135222,
       "rank": 47,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 135839,
-      "num": 135839,
-      "word": "coloros15",
-      "onboard_time": 1729135644,
-      "rank": 48,
-      "category": "数码"
-    },
-    {
-      "raw_hot": 132594,
-      "num": 189325,
-      "word": "马天宇战绩可查",
-      "onboard_time": 1729133121,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 130826,
@@ -844,7 +892,7 @@
     },
     {
       "raw_hot": 113495,
-      "num": 365225,
+      "num": 480240,
       "word": "智能门锁咬人事件频发",
       "onboard_time": 1729132521,
       "rank": 19,
@@ -963,6 +1011,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 82289,
+      "num": 494128,
+      "word": "到底哪个幸运儿用上了高铁WiFi",
+      "onboard_time": 1729135703,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 81257,
       "num": 203041,
       "word": "Jennie勺子短裤",
@@ -1059,6 +1115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 45254,
+      "num": 477810,
+      "word": "威海5岁男童疑被殴打致死续",
+      "onboard_time": 1729136484,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 44246,
       "num": 58647,
       "word": "王家卫没提名",
@@ -1137,6 +1201,14 @@
       "onboard_time": 1729102572,
       "rank": 43,
       "category": "电竞,网红"
+    },
+    {
+      "raw_hot": 23705,
+      "num": 489666,
+      "word": "朝鲜半岛的火药桶会被点燃吗",
+      "onboard_time": 1729136244,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 22786,
@@ -1220,7 +1292,7 @@
     },
     {
       "raw_hot": 14173,
-      "num": 189990,
+      "num": 219306,
       "word": "线上店和实体店家电质量一样吗",
       "onboard_time": 1729133483,
       "rank": 45,
@@ -1236,7 +1308,7 @@
     },
     {
       "raw_hot": 11489,
-      "num": 728778,
+      "num": 732546,
       "word": "文化中国行丹青中华",
       "onboard_time": 1729083982,
       "rank": 2,

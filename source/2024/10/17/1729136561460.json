@@ -1,0 +1,410 @@
+{
+  "runTime": 1729136561460,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 950291,
+        "num": 1152046,
+        "word": "一火箭弹掉入我赴黎维和部队营区",
+        "onboard_time": 1729122560,
+        "rank": 0,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 853514,
+        "num": 853514,
+        "word": "医院回应公职人员体检市民被拦住",
+        "onboard_time": 1729130419,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 6011,
+        "num": 732546,
+        "word": "文化中国行丹青中华",
+        "onboard_time": 1729083982,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1984741,
+        "num": 723020,
+        "word": "沈梦辰模仿叶珂",
+        "onboard_time": 1729130540,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 686943,
+        "num": 686943,
+        "word": "儿童文具胶带出现男性生殖器图案",
+        "onboard_time": 1729135462,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 599472,
+        "num": 599472,
+        "word": "新增实施100万套城中村危旧房改造",
+        "onboard_time": 1729132701,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 587765,
+        "num": 587765,
+        "word": "房地产",
+        "onboard_time": 1729131801,
+        "rank": 6,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 501863,
+        "num": 501863,
+        "word": "楼市组合拳4取消4降低2增加",
+        "onboard_time": 1729133541,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 118337,
+        "num": 494341,
+        "word": "房地产白名单项目信贷增加到4万亿",
+        "onboard_time": 1729132701,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 82289,
+        "num": 494128,
+        "word": "到底哪个幸运儿用上了高铁WiFi",
+        "onboard_time": 1729135703,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1158420,
+        "num": 494092,
+        "word": "马来西亚男子上厕所时被老虎叼走身亡",
+        "onboard_time": 1729135042,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 493996,
+        "num": 493996,
+        "word": "陈好太惨了",
+        "onboard_time": 1729088963,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 718136,
+        "num": 492538,
+        "word": "杨幂给小糯米买玩偶",
+        "onboard_time": 1729135944,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 548271,
+        "num": 491733,
+        "word": "黄磊线下活动被贴脸喊豆角",
+        "onboard_time": 1729123820,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23705,
+        "num": 489666,
+        "word": "朝鲜半岛的火药桶会被点燃吗",
+        "onboard_time": 1729136244,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 403117,
+        "num": 486078,
+        "word": "One Direction",
+        "onboard_time": 1729134683,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 287214,
+        "num": 484564,
+        "word": "肖战电影得闲谨制杀青",
+        "onboard_time": 1729132882,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 248846,
+        "num": 481512,
+        "word": "马天宇战绩可查",
+        "onboard_time": 1729133121,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111353,
+        "num": 480240,
+        "word": "智能门锁咬人事件频发",
+        "onboard_time": 1729132521,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 45254,
+        "num": 477810,
+        "word": "威海5岁男童疑被殴打致死续",
+        "onboard_time": 1729136484,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 510940,
+        "num": 474698,
+        "word": "特朗普暗示韩国应支付巨额保护费",
+        "onboard_time": 1729124480,
+        "rank": 20,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 589701,
+        "num": 473200,
+        "word": "中医说指甲是内脏显示屏",
+        "onboard_time": 1729133241,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 472517,
+        "num": 472517,
+        "word": "中央5部门共同出席国新办发布会",
+        "onboard_time": 1729131020,
+        "rank": 22,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 420879,
+        "num": 420879,
+        "word": "台禁止输入大陆产黄飞红花生",
+        "onboard_time": 1729135523,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 418579,
+        "num": 418579,
+        "word": "国新办新闻发布会",
+        "onboard_time": 1729131200,
+        "rank": 24,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 399186,
+        "num": 399186,
+        "word": "00后贷款10万炒股倒赔7000元",
+        "onboard_time": 1729129040,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 376159,
+        "num": 376159,
+        "word": "女子摔倒鲨鱼夹碎裂扎入头部",
+        "onboard_time": 1729133722,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219810,
+        "num": 355484,
+        "word": "花少6 小团体",
+        "onboard_time": 1729090102,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208748,
+        "num": 353648,
+        "word": "此沙掏耳朵",
+        "onboard_time": 1729130960,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 352620,
+        "num": 352620,
+        "word": "女子卸甲后发现十指空甲发霉",
+        "onboard_time": 1729086861,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 349890,
+        "num": 349890,
+        "word": "花学 周雨彤",
+        "onboard_time": 1729091841,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 339985,
+        "num": 339985,
+        "word": "刘冲直播间 杨幂",
+        "onboard_time": 1729091300,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 304013,
+        "num": 304013,
+        "word": "大学生售卖336部淫秽视频被判刑",
+        "onboard_time": 1729118533,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238930,
+        "num": 238930,
+        "word": "法媒称姆巴佩与女子自愿发生关系",
+        "onboard_time": 1729125982,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 225605,
+        "num": 225605,
+        "word": "妈妈比死神先到了",
+        "onboard_time": 1729131681,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 225507,
+        "num": 225507,
+        "word": "时尚芭莎",
+        "onboard_time": 1729133181,
+        "rank": 35,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 222953,
+        "num": 222953,
+        "word": "辅警下班1秒钟又开始上班",
+        "onboard_time": 1729130540,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 9118,
+        "num": 219306,
+        "word": "线上店和实体店家电质量一样吗",
+        "onboard_time": 1729133483,
+        "rank": 37,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 219043,
+        "num": 219043,
+        "word": "湖南一医院被曝阻止市民体检",
+        "onboard_time": 1729128319,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195889,
+        "num": 195889,
+        "word": "10月26日可查房贷利率调整结果",
+        "onboard_time": 1729136005,
+        "rank": 39,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 193412,
+        "num": 193412,
+        "word": "刘满仓被查",
+        "onboard_time": 1729133603,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190547,
+        "num": 190547,
+        "word": "时代少年团谈成为偶像的意义",
+        "onboard_time": 1729136484,
+        "rank": 41,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 188900,
+        "num": 188900,
+        "word": "在德中国女性遭性侵嫌犯疑为华裔男子",
+        "onboard_time": 1729134143,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188026,
+        "num": 188026,
+        "word": "京东互助",
+        "onboard_time": 1729125681,
+        "rank": 43,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 186789,
+        "num": 186789,
+        "word": "特朗普称美国城市发展远落后中国",
+        "onboard_time": 1729136544,
+        "rank": 44,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 174164,
+        "num": 174164,
+        "word": "现在就出发",
+        "onboard_time": 1729136425,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172622,
+        "num": 172622,
+        "word": "coloros15",
+        "onboard_time": 1729135644,
+        "rank": 46,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 172395,
+        "num": 172395,
+        "word": "特朗普称朝鲜很强大",
+        "onboard_time": 1729125501,
+        "rank": 47,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 172255,
+        "num": 172255,
+        "word": "朝鲜已完全封闭与韩国连接的公路铁路",
+        "onboard_time": 1729122739,
+        "rank": 48,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 162034,
+        "num": 162034,
+        "word": "陈靖可 沉浸嗑",
+        "onboard_time": 1729136425,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平参观谷文昌纪念馆#"
+    }
+  }
+}
