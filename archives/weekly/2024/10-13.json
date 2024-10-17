@@ -1,6 +1,6 @@
 {
   "startTime": 1728750414717,
-  "endTime": 1729183526244,
+  "endTime": 1729185608404,
   "band_list": [
     {
       "raw_hot": 17915004,
@@ -2579,6 +2579,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 691647,
+      "num": 240172,
+      "word": "孕妇2次到店借用厕所和店员起争执",
+      "onboard_time": 1729182378,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 691329,
       "num": 429242,
       "word": "名媛培训班收割中年男明星",
@@ -3529,6 +3537,14 @@
       "onboard_time": 1728999680,
       "rank": 48,
       "category": "网红"
+    },
+    {
+      "raw_hot": 495473,
+      "num": 495473,
+      "word": "scout 还钱",
+      "onboard_time": 1729183696,
+      "rank": 3,
+      "category": "电竞"
     },
     {
       "raw_hot": 493889,
@@ -6075,6 +6091,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 254553,
+      "num": 254553,
+      "word": "职工医保中断可以补缴吗",
+      "onboard_time": 1729180642,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 253963,
       "num": 253963,
       "word": "樊振东穿上沪队外套了",
@@ -6200,14 +6224,6 @@
       "word": "网红机场强迫志愿者路人出手了",
       "onboard_time": 1729063580,
       "rank": 27,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 247650,
-      "num": 247650,
-      "word": "职工医保中断可以补缴吗",
-      "onboard_time": 1729180642,
-      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -6361,14 +6377,6 @@
       "onboard_time": 1728974059,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 240172,
-      "num": 240172,
-      "word": "孕妇2次到店借用厕所和店员起争执",
-      "onboard_time": 1729182378,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 239948,
@@ -10723,6 +10731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 145067,
+      "num": 108756,
+      "word": "小虎 MVP",
+      "onboard_time": 1729184055,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 145034,
       "num": 145034,
       "word": "司线",
@@ -11435,6 +11451,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 123640,
+      "num": 123640,
+      "word": "LNG发文告别S14",
+      "onboard_time": 1729183514,
+      "rank": 23,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 123551,
       "num": 123551,
       "word": "英伟达市值一夜蒸发1.13万亿",
@@ -11529,6 +11553,14 @@
       "onboard_time": 1728878901,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 121195,
+      "num": 405746,
+      "word": "我就说没有大学生不会的吧",
+      "onboard_time": 1729182079,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 120773,
@@ -11657,14 +11689,6 @@
       "onboard_time": 1728815720,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 117555,
-      "num": 405746,
-      "word": "我就说没有大学生不会的吧",
-      "onboard_time": 1729182079,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 117318,
@@ -11913,6 +11937,14 @@
       "onboard_time": 1729142423,
       "rank": 24,
       "category": "艺人,综艺"
+    },
+    {
+      "raw_hot": 110913,
+      "num": 110913,
+      "word": "LNG教练",
+      "onboard_time": 1729183877,
+      "rank": 29,
+      "category": "电竞"
     },
     {
       "raw_hot": 110640,
@@ -12329,6 +12361,14 @@
       "onboard_time": 1729047558,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 98405,
+      "num": 98405,
+      "word": "维秘 消费降级",
+      "onboard_time": 1729183757,
+      "rank": 31,
+      "category": "时尚"
     },
     {
       "raw_hot": 98397,
@@ -12985,6 +13025,14 @@
       "onboard_time": 1728890597,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 71773,
+      "num": 71773,
+      "word": "马斯克捐赠近7500万美元支持共和党",
+      "onboard_time": 1729183578,
+      "rank": 47,
+      "category": "国外时政"
     },
     {
       "raw_hot": 71249,

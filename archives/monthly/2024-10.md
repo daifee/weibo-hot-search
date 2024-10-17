@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/10/01 00:28:17 ~ 2024/10/18 00:45:26
+本榜单时间：2024/10/01 00:28:17 ~ 2024/10/18 01:20:08
 </p>
 </blockquote>
 <p>
@@ -5109,6 +5109,12 @@ GALA连续四年止步八强（热度：727346）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%95%E5%A6%872%E6%AC%A1%E5%88%B0%E5%BA%97%E5%80%9F%E7%94%A8%E5%8E%95%E6%89%80%E5%92%8C%E5%BA%97%E5%91%98%E8%B5%B7%E4%BA%89%E6%89%A7%23" target="weibo">
+孕妇2次到店借用厕所和店员起争执（热度：691647）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%8D%E5%AA%9B%E5%9F%B9%E8%AE%AD%E7%8F%AD%E6%94%B6%E5%89%B2%E4%B8%AD%E5%B9%B4%E7%94%B7%E6%98%8E%E6%98%9F%23" target="weibo">
 名媛培训班收割中年男明星（热度：691329）
 </a>
@@ -6005,12 +6011,6 @@ Minnie走秀（热度：616890）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E4%B8%80%E5%8E%BF%E5%9F%8E%E5%91%A8%E8%BE%B9%E5%8F%91%E7%8E%B0%E8%BF%912000%E5%A4%B4%E9%87%8E%E7%8C%AA%23" target="weibo">
 河南一县城周边发现近2000头野猪（热度：615684）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23Jasper%E4%B8%AD%E6%96%87%E5%90%8D%E9%99%88%E6%98%8A%E5%BB%B7%23" target="weibo">
-Jasper中文名陈昊廷（热度：615153）
 </a>
 </li>
 

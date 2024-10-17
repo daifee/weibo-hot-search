@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1729183526244,
+  "endTime": 1729185608404,
   "band_list": [
     {
       "raw_hot": 17915004,
@@ -6795,6 +6795,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 691647,
+      "num": 240172,
+      "word": "孕妇2次到店借用厕所和店员起争执",
+      "onboard_time": 1729182378,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 691329,
       "num": 429242,
       "word": "名媛培训班收割中年男明星",
@@ -10057,6 +10065,14 @@
       "onboard_time": 1728999680,
       "rank": 48,
       "category": "网红"
+    },
+    {
+      "raw_hot": 495473,
+      "num": 495473,
+      "word": "scout 还钱",
+      "onboard_time": 1729183696,
+      "rank": 3,
+      "category": "电竞"
     },
     {
       "raw_hot": 494675,
@@ -18907,6 +18923,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 254553,
+      "num": 254553,
+      "word": "职工医保中断可以补缴吗",
+      "onboard_time": 1729180642,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 254405,
       "num": 254405,
       "word": "国庆假期9个值得珍藏的记忆",
@@ -19304,14 +19328,6 @@
       "word": "官方回应长沙南站部分列车晚点",
       "onboard_time": 1728292162,
       "rank": 7,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 247650,
-      "num": 247650,
-      "word": "职工医保中断可以补缴吗",
-      "onboard_time": 1729180642,
-      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -19817,14 +19833,6 @@
       "onboard_time": 1728974059,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 240172,
-      "num": 240172,
-      "word": "孕妇2次到店借用厕所和店员起争执",
-      "onboard_time": 1729182378,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 240092,
@@ -33987,6 +33995,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 145067,
+      "num": 108756,
+      "word": "小虎 MVP",
+      "onboard_time": 1729184055,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 145058,
       "num": 145058,
       "word": "TES巴黎见",
@@ -37699,6 +37715,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 123640,
+      "num": 123640,
+      "word": "LNG发文告别S14",
+      "onboard_time": 1729183514,
+      "rank": 23,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 123639,
       "num": 123639,
       "word": "美媒称美以通话讨论对伊打击计划",
@@ -38001,6 +38025,14 @@
       "onboard_time": 1728878901,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 121195,
+      "num": 405746,
+      "word": "我就说没有大学生不会的吧",
+      "onboard_time": 1729182079,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 121183,
@@ -38584,14 +38616,6 @@
       "word": "95后小伙翻墙跳水救人一气呵成",
       "onboard_time": 1728197598,
       "rank": 37,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 117555,
-      "num": 405746,
-      "word": "我就说没有大学生不会的吧",
-      "onboard_time": 1729182079,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -39681,6 +39705,14 @@
       "onboard_time": 1728023718,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 110913,
+      "num": 110913,
+      "word": "LNG教练",
+      "onboard_time": 1729183877,
+      "rank": 29,
+      "category": "电竞"
     },
     {
       "raw_hot": 110671,
@@ -41457,6 +41489,14 @@
       "onboard_time": 1728315080,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 98405,
+      "num": 98405,
+      "word": "维秘 消费降级",
+      "onboard_time": 1729183757,
+      "rank": 31,
+      "category": "时尚"
     },
     {
       "raw_hot": 98403,
@@ -44209,6 +44249,14 @@
       "onboard_time": 1728468979,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 71773,
+      "num": 71773,
+      "word": "马斯克捐赠近7500万美元支持共和党",
+      "onboard_time": 1729183578,
+      "rank": 47,
+      "category": "国外时政"
     },
     {
       "raw_hot": 71722,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1729185608404,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 701093,
+        "num": 701093,
+        "word": "WBG晋级S14四强",
+        "onboard_time": 1729180282,
+        "rank": 0,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 653107,
+        "num": 653107,
+        "word": "刘亦菲压轴",
+        "onboard_time": 1729170383,
+        "rank": 1,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 4330,
+        "num": 548114,
+        "word": "美好新疆",
+        "onboard_time": 1729174284,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 495473,
+        "num": 495473,
+        "word": "scout 还钱",
+        "onboard_time": 1729183696,
+        "rank": 3,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 382770,
+        "num": 382770,
+        "word": "疑似辛瓦尔的尸体可能进行DNA检测",
+        "onboard_time": 1729177401,
+        "rank": 4,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 371223,
+        "num": 371223,
+        "word": "GALA连续四年止步八强",
+        "onboard_time": 1729180880,
+        "rank": 5,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 334347,
+        "num": 334347,
+        "word": "倪妮拿到了杨幂的绣球",
+        "onboard_time": 1729172062,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 254553,
+        "num": 254553,
+        "word": "职工医保中断可以补缴吗",
+        "onboard_time": 1729180642,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237084,
+        "num": 237084,
+        "word": "赵露思飞吻",
+        "onboard_time": 1729170803,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 38265,
+        "num": 234821,
+        "word": "爸爸花10元买了孩子一整天的快乐",
+        "onboard_time": 1729183276,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 691647,
+        "num": 234661,
+        "word": "孕妇2次到店借用厕所和店员起争执",
+        "onboard_time": 1729182378,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 234448,
+        "num": 234448,
+        "word": "VOGUE晚宴",
+        "onboard_time": 1729173142,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 225990,
+        "num": 225990,
+        "word": "黄圣依想离婚是受不了爹式管理",
+        "onboard_time": 1729169061,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 223009,
+        "num": 223009,
+        "word": "毕业生举报高校女教师与其恋爱出轨",
+        "onboard_time": 1729173563,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186059,
+        "num": 186059,
+        "word": "周也裙子变装",
+        "onboard_time": 1729167921,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 182160,
+        "num": 182160,
+        "word": "刘亦菲杨幂刘诗诗倪妮同场走秀",
+        "onboard_time": 1729175123,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 178219,
+        "num": 178219,
+        "word": "救救GALA",
+        "onboard_time": 1729181479,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 176299,
+        "num": 176299,
+        "word": "Daeny表情",
+        "onboard_time": 1729183156,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 135540,
+        "num": 158496,
+        "word": "以称正核实是否打死哈马斯领导人辛瓦尔",
+        "onboard_time": 1729175602,
+        "rank": 18,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 128079,
+        "num": 150359,
+        "word": "朱珠真是风情万种",
+        "onboard_time": 1729169602,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 337986,
+        "num": 150262,
+        "word": "女生称遭平台自动扣费22个月",
+        "onboard_time": 1729175363,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150087,
+        "num": 150087,
+        "word": "LNG对战WBG",
+        "onboard_time": 1729167021,
+        "rank": 21,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 127934,
+        "num": 127934,
+        "word": "娜然 仿生机械姬",
+        "onboard_time": 1729167802,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 123640,
+        "num": 123640,
+        "word": "LNG发文告别S14",
+        "onboard_time": 1729183514,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 122332,
+        "num": 122332,
+        "word": "刘冲让王一博走慢点",
+        "onboard_time": 1729173022,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 122124,
+        "num": 122124,
+        "word": "老人花40万在直播间买了堆塑料",
+        "onboard_time": 1729174823,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121195,
+        "num": 121195,
+        "word": "我就说没有大学生不会的吧",
+        "onboard_time": 1729182079,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120865,
+        "num": 120865,
+        "word": "娜扎 吸血鬼女王",
+        "onboard_time": 1729168699,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 111528,
+        "num": 111528,
+        "word": "VOGUE走秀",
+        "onboard_time": 1729165161,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 110913,
+        "num": 110913,
+        "word": "LNG教练",
+        "onboard_time": 1729183877,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 145067,
+        "num": 108756,
+        "word": "小虎 MVP",
+        "onboard_time": 1729184055,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 98405,
+        "num": 98405,
+        "word": "维秘 消费降级",
+        "onboard_time": 1729183757,
+        "rank": 31,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 92849,
+        "num": 92849,
+        "word": "王鹤棣 小狗包",
+        "onboard_time": 1729168581,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 91448,
+        "num": 91448,
+        "word": "黄圣依杨子 2个人8人群",
+        "onboard_time": 1729141403,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 85650,
+        "num": 85650,
+        "word": "刘诗诗 霜雪天降具像化",
+        "onboard_time": 1729170623,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 81800,
+        "num": 81800,
+        "word": "Crisp请神S9的自己",
+        "onboard_time": 1729183336,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 81703,
+        "num": 81703,
+        "word": "小英称牛因生了小牛且生病才瘦",
+        "onboard_time": 1729169723,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 79847,
+        "num": 79847,
+        "word": "魏大勋 飘带你好坏",
+        "onboard_time": 1729171282,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 79432,
+        "num": 79432,
+        "word": "UNIQ TFBOYS前辈挺可爱的",
+        "onboard_time": 1729172783,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 77643,
+        "num": 77643,
+        "word": "VOGUE盛典男明星",
+        "onboard_time": 1729180400,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 75433,
+        "num": 75433,
+        "word": "丹尼教练",
+        "onboard_time": 1729183276,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 74291,
+        "num": 74291,
+        "word": "惠英红 百年大妖镇场子",
+        "onboard_time": 1729171522,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 74085,
+        "num": 74085,
+        "word": "王一博带滑板走秀",
+        "onboard_time": 1729169602,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 74027,
+        "num": 74027,
+        "word": "檀健次跳舞出场",
+        "onboard_time": 1729170862,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 72762,
+        "num": 72762,
+        "word": "大庸古城耗资22亿日均卖票不足20张",
+        "onboard_time": 1729178002,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 72732,
+        "num": 72732,
+        "word": "韦雪拉黑秦奋",
+        "onboard_time": 1729155142,
+        "rank": 45,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 72266,
+        "num": 72266,
+        "word": "意大利将海外代孕入刑",
+        "onboard_time": 1729165761,
+        "rank": 46,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 71773,
+        "num": 71773,
+        "word": "马斯克捐赠近7500万美元支持共和党",
+        "onboard_time": 1729183578,
+        "rank": 47,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 61298,
+        "num": 70193,
+        "word": "樊振东说不存在恢复",
+        "onboard_time": 1729164981,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 51919,
+        "num": 69409,
+        "word": "樊振东全锦赛的球场眼神杀",
+        "onboard_time": 1729179982,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#文化情缘#"
+    }
+  }
+}

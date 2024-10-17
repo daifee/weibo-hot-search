@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/10/18 00:29:24 ~ 2024/10/18 00:45:26
+本榜单时间：2024/10/18 00:29:24 ~ 2024/10/18 01:20:08
 </p>
 </blockquote>
 <p>
@@ -57,6 +57,12 @@ GALA连续四年止步八强（热度：727346）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%95%E5%A6%872%E6%AC%A1%E5%88%B0%E5%BA%97%E5%80%9F%E7%94%A8%E5%8E%95%E6%89%80%E5%92%8C%E5%BA%97%E5%91%98%E8%B5%B7%E4%BA%89%E6%89%A7%23" target="weibo">
+孕妇2次到店借用厕所和店员起争执（热度：691647）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AF%95%E4%B8%9A%E7%94%9F%E4%B8%BE%E6%8A%A5%E9%AB%98%E6%A0%A1%E5%A5%B3%E6%95%99%E5%B8%88%E4%B8%8E%E5%85%B6%E6%81%8B%E7%88%B1%E5%87%BA%E8%BD%A8%23" target="weibo">
 毕业生举报高校女教师与其恋爱出轨（热度：544097）
 </a>
@@ -65,6 +71,12 @@ GALA连续四年止步八强（热度：727346）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23VOGUE%E6%99%9A%E5%AE%B4%23" target="weibo">
 VOGUE晚宴（热度：534041）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23scout%20%E8%BF%98%E9%92%B1%23" target="weibo">
+scout 还钱（热度：495473）
 </a>
 </li>
 
@@ -124,13 +136,7 @@ WBG前期全是计谋（热度：290768）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%81%8C%E5%B7%A5%E5%8C%BB%E4%BF%9D%E4%B8%AD%E6%96%AD%E5%8F%AF%E4%BB%A5%E8%A1%A5%E7%BC%B4%E5%90%97%23" target="weibo">
-职工医保中断可以补缴吗（热度：247650）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AD%95%E5%A6%872%E6%AC%A1%E5%88%B0%E5%BA%97%E5%80%9F%E7%94%A8%E5%8E%95%E6%89%80%E5%92%8C%E5%BA%97%E5%91%98%E8%B5%B7%E4%BA%89%E6%89%A7%23" target="weibo">
-孕妇2次到店借用厕所和店员起争执（热度：240172）
+职工医保中断可以补缴吗（热度：254553）
 </a>
 </li>
 
@@ -207,6 +213,12 @@ VOGUE走秀（热度：178831）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E8%99%8E%20MVP%23" target="weibo">
+小虎 MVP（热度：145067）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E5%B8%A6%E6%BB%91%E6%9D%BF%E8%B5%B0%E7%A7%80%23" target="weibo">
 王一博带滑板走秀（热度：144829）
 </a>
@@ -243,6 +255,12 @@ VOGUE盛典男明星（热度：124025）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23LNG%E5%8F%91%E6%96%87%E5%91%8A%E5%88%ABS14%23" target="weibo">
+LNG发文告别S14（热度：123640）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BE%AF%E4%BD%A9%E5%B2%91%20%E4%BA%AB%E5%8F%97%E5%A4%B1%E6%8E%A7%E5%B8%A6%E6%9D%A5%E7%9A%84%E5%AE%89%E5%85%A8%E6%84%9F%23" target="weibo">
 侯佩岑 享受失控带来的安全感（热度：122128）
 </a>
@@ -250,7 +268,7 @@ VOGUE盛典男明星（热度：124025）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E5%B0%B1%E8%AF%B4%E6%B2%A1%E6%9C%89%E5%A4%A7%E5%AD%A6%E7%94%9F%E4%B8%8D%E4%BC%9A%E7%9A%84%E5%90%A7%23" target="weibo">
-我就说没有大学生不会的吧（热度：117555）
+我就说没有大学生不会的吧（热度：121195）
 </a>
 </li>
 
@@ -269,6 +287,12 @@ VOGUE盛典男明星（热度：124025）
 <li>
 <a href="https://s.weibo.com/weibo?q=%232024%E5%B9%B4%E5%BA%A6%E6%9C%80%E5%A4%A7%E8%B6%85%E7%BA%A7%E6%9C%88%E4%BA%AE%E4%BB%8A%E6%99%9A%E7%99%BB%E5%9C%BA%23" target="weibo">
 2024年度最大超级月亮今晚登场（热度：112650）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23LNG%E6%95%99%E7%BB%83%23" target="weibo">
+LNG教练（热度：110913）
 </a>
 </li>
 
@@ -297,6 +321,12 @@ snowman（热度：100671）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BB%B4%E7%A7%98%20%E6%B6%88%E8%B4%B9%E9%99%8D%E7%BA%A7%23" target="weibo">
+维秘 消费降级（热度：98405）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E6%98%8A%E5%AE%87%E6%B9%BF%E5%8F%91%E8%83%8C%E5%A4%B4%23" target="weibo">
 陈昊宇湿发背头（热度：98314）
 </a>
@@ -317,6 +347,18 @@ Crisp请神S9的自己（热度：96090）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E5%85%A8%E9%94%A6%E8%B5%9B%E7%9A%84%E7%90%83%E5%9C%BA%E7%9C%BC%E7%A5%9E%E6%9D%80%23" target="weibo">
 樊振东全锦赛的球场眼神杀（热度：88056）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%84%8F%E5%A4%A7%E5%88%A9%E5%B0%86%E6%B5%B7%E5%A4%96%E4%BB%A3%E5%AD%95%E5%85%A5%E5%88%91%23" target="weibo">
+意大利将海外代孕入刑（热度：72266）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E6%8D%90%E8%B5%A0%E8%BF%917500%E4%B8%87%E7%BE%8E%E5%85%83%E6%94%AF%E6%8C%81%E5%85%B1%E5%92%8C%E5%85%9A%23" target="weibo">
+马斯克捐赠近7500万美元支持共和党（热度：71773）
 </a>
 </li>
 

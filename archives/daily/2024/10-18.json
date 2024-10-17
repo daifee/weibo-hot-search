@@ -1,6 +1,6 @@
 {
   "startTime": 1729182564055,
-  "endTime": 1729183526244,
+  "endTime": 1729185608404,
   "band_list": [
     {
       "raw_hot": 2689271,
@@ -59,6 +59,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 691647,
+      "num": 240172,
+      "word": "孕妇2次到店借用厕所和店员起争执",
+      "onboard_time": 1729182378,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 544097,
       "num": 398036,
       "word": "毕业生举报高校女教师与其恋爱出轨",
@@ -73,6 +81,14 @@
       "onboard_time": 1729173142,
       "rank": 7,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 495473,
+      "num": 495473,
+      "word": "scout 还钱",
+      "onboard_time": 1729183696,
+      "rank": 3,
+      "category": "电竞"
     },
     {
       "raw_hot": 434935,
@@ -147,19 +163,11 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 247650,
-      "num": 247650,
+      "raw_hot": 254553,
+      "num": 254553,
       "word": "职工医保中断可以补缴吗",
       "onboard_time": 1729180642,
       "rank": 25,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 240172,
-      "num": 240172,
-      "word": "孕妇2次到店借用厕所和店员起争执",
-      "onboard_time": 1729182378,
-      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -259,6 +267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 145067,
+      "num": 108756,
+      "word": "小虎 MVP",
+      "onboard_time": 1729184055,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 144829,
       "num": 144829,
       "word": "王一博带滑板走秀",
@@ -307,6 +323,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 123640,
+      "num": 123640,
+      "word": "LNG发文告别S14",
+      "onboard_time": 1729183514,
+      "rank": 23,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 122128,
       "num": 138761,
       "word": "侯佩岑 享受失控带来的安全感",
@@ -315,7 +339,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 117555,
+      "raw_hot": 121195,
       "num": 405746,
       "word": "我就说没有大学生不会的吧",
       "onboard_time": 1729182079,
@@ -345,6 +369,14 @@
       "onboard_time": 1729163963,
       "rank": 40,
       "category": "自然"
+    },
+    {
+      "raw_hot": 110913,
+      "num": 110913,
+      "word": "LNG教练",
+      "onboard_time": 1729183877,
+      "rank": 29,
+      "category": "电竞"
     },
     {
       "raw_hot": 108763,
@@ -379,6 +411,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 98405,
+      "num": 98405,
+      "word": "维秘 消费降级",
+      "onboard_time": 1729183757,
+      "rank": 31,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 98314,
       "num": 138426,
       "word": "陈昊宇湿发背头",
@@ -409,6 +449,22 @@
       "onboard_time": 1729179982,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 72266,
+      "num": 72266,
+      "word": "意大利将海外代孕入刑",
+      "onboard_time": 1729165761,
+      "rank": 46,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 71773,
+      "num": 71773,
+      "word": "马斯克捐赠近7500万美元支持共和党",
+      "onboard_time": 1729183578,
+      "rank": 47,
+      "category": "国外时政"
     },
     {
       "raw_hot": 58023,
