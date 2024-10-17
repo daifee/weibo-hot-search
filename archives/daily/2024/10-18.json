@@ -1,6 +1,6 @@
 {
   "startTime": 1729182564055,
-  "endTime": 1729207348355,
+  "endTime": 1729208190676,
   "band_list": [
     {
       "raw_hot": 2689271,
@@ -35,20 +35,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 895496,
+      "num": 953279,
+      "word": "疑似辛瓦尔的尸体可能进行DNA检测",
+      "onboard_time": 1729177401,
+      "rank": 5,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 832720,
+      "num": 398036,
+      "word": "毕业生举报高校女教师与其恋爱出轨",
+      "onboard_time": 1729173563,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 813989,
       "num": 813989,
       "word": "scout 还钱",
       "onboard_time": 1729183696,
       "rank": 3,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 778384,
-      "num": 398036,
-      "word": "毕业生举报高校女教师与其恋爱出轨",
-      "onboard_time": 1729173563,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 771617,
@@ -75,20 +83,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 717312,
-      "num": 808746,
-      "word": "疑似辛瓦尔的尸体可能进行DNA检测",
-      "onboard_time": 1729177401,
-      "rank": 5,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 702589,
       "num": 702589,
       "word": "倪妮拿到了杨幂的绣球",
       "onboard_time": 1729172062,
       "rank": 6,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 646487,
+      "num": 646487,
+      "word": "民警搜山喊了4小时找回5名大学生",
+      "onboard_time": 1729193051,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 534041,
@@ -99,12 +107,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 468848,
-      "num": 468848,
-      "word": "民警搜山喊了4小时找回5名大学生",
-      "onboard_time": 1729193051,
-      "rank": 38,
+      "raw_hot": 473110,
+      "num": 473110,
+      "word": "老人花40万在直播间买了堆塑料",
+      "onboard_time": 1729174823,
+      "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 441968,
+      "num": 384639,
+      "word": "黄圣依想离婚是受不了爹式管理",
+      "onboard_time": 1729169061,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 434935,
@@ -115,20 +131,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 433179,
-      "num": 433179,
-      "word": "老人花40万在直播间买了堆塑料",
-      "onboard_time": 1729174823,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 406735,
-      "num": 384639,
-      "word": "黄圣依想离婚是受不了爹式管理",
-      "onboard_time": 1729169061,
-      "rank": 13,
-      "category": "综艺"
+      "raw_hot": 407973,
+      "num": 407973,
+      "word": "网红小虎行账号已被封",
+      "onboard_time": 1729192213,
+      "rank": 41,
+      "category": "网红"
     },
     {
       "raw_hot": 386391,
@@ -137,14 +145,6 @@
       "onboard_time": 1729170803,
       "rank": 12,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 359942,
-      "num": 359942,
-      "word": "网红小虎行账号已被封",
-      "onboard_time": 1729192213,
-      "rank": 41,
-      "category": "网红"
     },
     {
       "raw_hot": 349117,
@@ -187,6 +187,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 308033,
+      "num": 287970,
+      "word": "曾之乔怀的是男孩",
+      "onboard_time": 1729207337,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 290768,
       "num": 290768,
       "word": "WBG前期全是计谋",
@@ -195,8 +203,8 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 261290,
-      "num": 152704,
+      "raw_hot": 281977,
+      "num": 174767,
       "word": "留几手说杨子蹭了黄圣依不少流量",
       "onboard_time": 1729194910,
       "rank": 23,
@@ -267,12 +275,36 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 175598,
+      "num": 175598,
+      "word": "大庸古城耗资22亿日均卖票不足20张",
+      "onboard_time": 1729178002,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 172752,
       "num": 172752,
       "word": "王鹤棣 小狗包",
       "onboard_time": 1729168581,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 166451,
+      "num": 100750,
+      "word": "以色列国防军确认打死哈马斯领导人",
+      "onboard_time": 1729207517,
+      "rank": 30,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 158362,
+      "num": 310054,
+      "word": "超级月亮遇见紫金山彗星",
+      "onboard_time": 1729206316,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 150999,
@@ -289,14 +321,6 @@
       "onboard_time": 1729170862,
       "rank": 31,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 145088,
-      "num": 160349,
-      "word": "大庸古城耗资22亿日均卖票不足20张",
-      "onboard_time": 1729178002,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 145067,
@@ -347,6 +371,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 131128,
+      "num": 131128,
+      "word": "吉林一国企否认4人离岗吃空饷",
+      "onboard_time": 1729188552,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 124705,
       "num": 191456,
       "word": "她是第一位穿越蘑菇云取样的女飞",
@@ -385,6 +417,22 @@
       "onboard_time": 1729182079,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 119413,
+      "num": 119413,
+      "word": "郭晶晶希望让孩子多吃苦",
+      "onboard_time": 1729207278,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 117790,
+      "num": 117790,
+      "word": "何猷君 点天灯",
+      "onboard_time": 1729208058,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 115608,
@@ -443,14 +491,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 105426,
-      "num": 114880,
-      "word": "吉林一国企否认4人离岗吃空饷",
-      "onboard_time": 1729188552,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 100671,
       "num": 138486,
       "word": "snowman",
@@ -483,6 +523,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 91604,
+      "num": 91604,
+      "word": "高校回应女教师被曝出轨及学术造假",
+      "onboard_time": 1729197551,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 89360,
       "num": 138313,
       "word": "年轻人工作后选择重养一遍自己",
@@ -499,24 +547,24 @@
       "category": "体育"
     },
     {
-      "raw_hot": 81035,
-      "num": 81035,
-      "word": "高校回应女教师被曝出轨及学术造假",
-      "onboard_time": 1729197551,
-      "rank": 25,
-      "category": "社会新闻"
+      "raw_hot": 85893,
+      "num": 85893,
+      "word": "邪恶银渐层出击",
+      "onboard_time": 1729207517,
+      "rank": 35,
+      "category": "幽默"
     },
     {
-      "raw_hot": 79585,
-      "num": 79585,
-      "word": "郭晶晶希望让孩子多吃苦",
+      "raw_hot": 84436,
+      "num": 84436,
+      "word": "剧版异人之下豆瓣涨分8.2",
       "onboard_time": 1729207278,
-      "rank": 31,
-      "category": "体育"
+      "rank": 47,
+      "category": "剧集"
     },
     {
-      "raw_hot": 76924,
-      "num": 76924,
+      "raw_hot": 83873,
+      "num": 83873,
       "word": "马斯克捐赠近7500万美元支持共和党",
       "onboard_time": 1729183578,
       "rank": 47,
@@ -531,20 +579,36 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 59750,
-      "num": 310054,
-      "word": "超级月亮遇见紫金山彗星",
-      "onboard_time": 1729206316,
-      "rank": 9,
-      "category": "社会新闻"
+      "raw_hot": 68943,
+      "num": 68943,
+      "word": "周也美甲掉了一个",
+      "onboard_time": 1729207337,
+      "rank": 41,
+      "category": "作品衍生"
     },
     {
-      "raw_hot": 58724,
-      "num": 58724,
+      "raw_hot": 68025,
+      "num": 68025,
       "word": "江西发现全球最小恐龙蛋化石",
       "onboard_time": 1729204574,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 63759,
+      "num": 63759,
+      "word": "Scout看好GEN夺冠",
+      "onboard_time": 1729208177,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 63491,
+      "num": 63491,
+      "word": "世界上最优雅的鲨鱼",
+      "onboard_time": 1729206316,
+      "rank": 49,
+      "category": "科学科普"
     },
     {
       "raw_hot": 58023,
@@ -577,22 +641,6 @@
       "onboard_time": 1729183276,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 46026,
-      "num": 49571,
-      "word": "剧版异人之下豆瓣涨分8.2",
-      "onboard_time": 1729207278,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 42701,
-      "num": 49362,
-      "word": "世界上最优雅的鲨鱼",
-      "onboard_time": 1729206316,
-      "rank": 49,
-      "category": "科学科普"
     },
     {
       "raw_hot": 38374,
@@ -691,6 +739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 22123,
+      "num": 291628,
+      "word": "超级月亮与云海同框氛围感拉满",
+      "onboard_time": 1729207517,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 20575,
       "num": 27234,
       "word": "网红小虎行账号被封",
@@ -740,7 +796,7 @@
     },
     {
       "raw_hot": 8657,
-      "num": 479891,
+      "num": 521671,
       "word": "嫦娥六号月壤亮相国际宇航大会",
       "onboard_time": 1729172902,
       "rank": 2,
