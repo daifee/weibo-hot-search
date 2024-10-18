@@ -1,6 +1,6 @@
 {
   "startTime": 1728750414717,
-  "endTime": 1729248135836,
+  "endTime": 1729250340335,
   "band_list": [
     {
       "raw_hot": 17915004,
@@ -1763,6 +1763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 937787,
+      "num": 937787,
+      "word": "听泉鉴宝APP",
+      "onboard_time": 1729246219,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 933199,
       "num": 933199,
       "word": "卫龙回应亲嘴烧在日被召回",
@@ -2691,6 +2699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 722942,
+      "num": 508649,
+      "word": "杨幂刘诗诗在聊孩子",
+      "onboard_time": 1729246700,
+      "rank": 28,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 722152,
       "num": 404334,
       "word": "向佐回复费曼",
@@ -3120,6 +3136,14 @@
       "word": "刘学义谈给妈妈换肾",
       "onboard_time": 1728800840,
       "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 635391,
+      "num": 358968,
+      "word": "黄圣依杨子回应当年微博藏头诗",
+      "onboard_time": 1729248443,
+      "rank": 11,
       "category": "综艺"
     },
     {
@@ -3899,14 +3923,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 508649,
-      "num": 508649,
-      "word": "杨幂刘诗诗在聊孩子",
-      "onboard_time": 1729246700,
-      "rank": 28,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 507284,
       "num": 277138,
       "word": "2人走私2.7吨活体蛇被刑拘",
@@ -4627,12 +4643,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 419035,
+      "num": 419035,
+      "word": "第五人格",
+      "onboard_time": 1728869179,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 418579,
       "num": 418579,
       "word": "国新办新闻发布会",
       "onboard_time": 1729131200,
       "rank": 5,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 418265,
+      "num": 356311,
+      "word": "家属称女儿因室友牵连被杀未获道歉",
+      "onboard_time": 1729244420,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 418230,
@@ -5283,14 +5315,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 340954,
-      "num": 340954,
-      "word": "第五人格",
-      "onboard_time": 1728869179,
-      "rank": 45,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 340845,
       "num": 340845,
       "word": "郑钦文1比1萨巴伦卡",
@@ -5745,6 +5769,14 @@
       "onboard_time": 1729169903,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 306392,
+      "num": 306392,
+      "word": "大爷卖烤栗子被崩一身让人心疼",
+      "onboard_time": 1729249459,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 305685,
@@ -6580,7 +6612,7 @@
     },
     {
       "raw_hot": 264941,
-      "num": 264941,
+      "num": 348484,
       "word": "唐香玉总决赛",
       "onboard_time": 1729245560,
       "rank": 18,
@@ -6705,6 +6737,14 @@
       "onboard_time": 1729153043,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 260023,
+      "num": 350315,
+      "word": "杨笠回应唐香玉",
+      "onboard_time": 1729248921,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 259603,
@@ -7033,14 +7073,6 @@
       "onboard_time": 1729234941,
       "rank": 23,
       "category": "财经"
-    },
-    {
-      "raw_hot": 246353,
-      "num": 246353,
-      "word": "家属称女儿因室友牵连被杀未获道歉",
-      "onboard_time": 1729244420,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 246210,
@@ -8305,6 +8337,14 @@
       "onboard_time": 1728898700,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 207618,
+      "num": 334740,
+      "word": "任敏演技",
+      "onboard_time": 1729247660,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 207557,
@@ -10603,14 +10643,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 173705,
-      "num": 173705,
-      "word": "任敏演技",
-      "onboard_time": 1729247660,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 173512,
       "num": 204191,
       "word": "白敬亭难哄新物料",
@@ -11275,6 +11307,14 @@
       "category": "音乐,艺人"
     },
     {
+      "raw_hot": 162521,
+      "num": 412974,
+      "word": "昆明涉异味猪肉学校学费每年两万六",
+      "onboard_time": 1729243641,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 162321,
       "num": 286173,
       "word": "我国成功发射千帆极轨02组卫星",
@@ -11313,14 +11353,6 @@
       "onboard_time": 1729136425,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 161909,
-      "num": 412974,
-      "word": "昆明涉异味猪肉学校学费每年两万六",
-      "onboard_time": 1729243641,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 161867,
@@ -11475,6 +11507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 158286,
+      "num": 158286,
+      "word": "A股大涨",
+      "onboard_time": 1729249580,
+      "rank": 37,
+      "category": "财经"
+    },
+    {
       "raw_hot": 158282,
       "num": 158282,
       "word": "刘亦菲确定出席VOGUE盛典",
@@ -11529,6 +11569,14 @@
       "onboard_time": 1728804017,
       "rank": 42,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 157383,
+      "num": 328749,
+      "word": "尤长靖朱星杰韦礼安跳eiei",
+      "onboard_time": 1729249040,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 156974,
@@ -12419,6 +12467,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 142630,
+      "num": 141118,
+      "word": "王一博赛前素颜照",
+      "onboard_time": 1729248800,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 142301,
       "num": 239957,
       "word": "河南一高校饭点关闭临近小吃街校门",
@@ -12467,6 +12523,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 141131,
+      "num": 141131,
+      "word": "飞鹤乳业声明",
+      "onboard_time": 1729250240,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 141039,
       "num": 141039,
       "word": "粉笔模考",
@@ -12513,6 +12577,14 @@
       "onboard_time": 1729060519,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 140407,
+      "num": 140407,
+      "word": "刘亦菲杨幂刘诗诗晚宴同桌",
+      "onboard_time": 1729248200,
+      "rank": 45,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 140388,
@@ -13113,6 +13185,14 @@
       "onboard_time": 1729159820,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 127427,
+      "num": 130140,
+      "word": "时代少年团甜品师写真",
+      "onboard_time": 1729248921,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 127331,
@@ -14459,6 +14539,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 89170,
+      "num": 363799,
+      "word": "股市疯狂星期五",
+      "onboard_time": 1729248443,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 88774,
       "num": 88774,
       "word": "没有LPL内战",
@@ -14857,6 +14945,14 @@
       "onboard_time": 1729225761,
       "rank": 17,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 74981,
+      "num": 340339,
+      "word": "一键取消自动续费动了谁的蛋糕",
+      "onboard_time": 1729247900,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 74730,
@@ -15763,6 +15859,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 51184,
+      "num": 344505,
+      "word": "真等到袁娅维邬君梅同框了",
+      "onboard_time": 1729250301,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 50956,
       "num": 288765,
       "word": "如何把15万花出20万的效果",
@@ -15939,6 +16043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 49217,
+      "num": 346804,
+      "word": "外滩惊现巨物牙膏",
+      "onboard_time": 1729248561,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 49126,
       "num": 1095813,
       "word": "三季度免签入境外国人同比上升78.6%",
@@ -16073,6 +16185,14 @@
       "onboard_time": 1728994039,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 46649,
+      "num": 354372,
+      "word": "梁伟铿王昶vs德差波吉丁努蓬",
+      "onboard_time": 1729249520,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 46307,
@@ -17147,6 +17267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 30244,
+      "num": 164767,
+      "word": "蓦然回首故事灵感源于京阿尼纵火案",
+      "onboard_time": 1729248679,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 29982,
       "num": 371231,
       "word": "警惕AIGC数据污染稀释人类原创",
@@ -17217,14 +17345,6 @@
       "onboard_time": 1729220541,
       "rank": 49,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 29168,
-      "num": 137012,
-      "word": "一键取消自动续费动了谁的蛋糕",
-      "onboard_time": 1729247900,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 29155,
@@ -17939,6 +18059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 19040,
+      "num": 343493,
+      "word": "理个发被忽悠充3万治扁平疣",
+      "onboard_time": 1729249818,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 19022,
       "num": 266769,
       "word": "人头马解锁社交新玩法",
@@ -18313,6 +18441,14 @@
       "onboard_time": 1729063939,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 11535,
+      "num": 352533,
+      "word": "广东开平辟谣学校周边现人贩子",
+      "onboard_time": 1729249700,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 11519,

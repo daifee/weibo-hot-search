@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/10/01 00:28:17 ~ 2024/10/18 18:42:15
+本榜单时间：2024/10/01 00:28:17 ~ 2024/10/18 19:19:00
 </p>
 </blockquote>
 <p>
@@ -3327,6 +3327,12 @@ A股后续将迎第二波上涨行情（热度：964810）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%AC%E6%B3%89%E9%89%B4%E5%AE%9DAPP%23" target="weibo">
+听泉鉴宝APP（热度：937787）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9C%B0%E9%9C%87%E9%A2%84%E8%AD%A6%23" target="weibo">
 地震预警（热度：936547）
 </a>
@@ -5037,6 +5043,12 @@ GALA连续四年止步八强（热度：727346）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E5%88%98%E8%AF%97%E8%AF%97%E5%9C%A8%E8%81%8A%E5%AD%A9%E5%AD%90%23" target="weibo">
+杨幂刘诗诗在聊孩子（热度：722942）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%91%E4%BD%90%E5%9B%9E%E5%A4%8D%E8%B4%B9%E6%9B%BC%23" target="weibo">
 向佐回复费曼（热度：722152）
 </a>
@@ -5949,6 +5961,12 @@ B太回应曾夸东北雨姐真实（热度：649327）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%9C%A3%E4%BE%9D%E6%9D%A8%E5%AD%90%E5%9B%9E%E5%BA%94%E5%BD%93%E5%B9%B4%E5%BE%AE%E5%8D%9A%E8%97%8F%E5%A4%B4%E8%AF%97%23" target="weibo">
+黄圣依杨子回应当年微博藏头诗（热度：635391）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%86%8D%E7%8E%B0%E4%B8%80%E5%AD%97%E9%A9%AC%E6%8B%89%E4%BC%B8%23" target="weibo">
 王楚钦再现一字马拉伸（热度：634685）
 </a>
@@ -5993,24 +6011,6 @@ B太回应曾夸东北雨姐真实（热度：649327）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A2%81%E9%9D%96%E5%B4%91vs%E6%9E%97%E9%AB%98%E8%BF%9C%23" target="weibo">
 梁靖崑vs林高远（热度：632239）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E4%BF%84%E6%88%98%E6%9C%BA%E7%A9%BA%E4%B8%AD%E4%BA%A4%E9%94%8B%23" target="weibo">
-美俄战机空中交锋（热度：631837）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%9C%E5%8C%97%E9%9B%A8%E5%A7%90%E5%8F%AF%E8%83%BD%E4%BC%9A%E6%9E%84%E6%88%90%E7%8A%AF%E7%BD%AA%23" target="weibo">
-东北雨姐可能会构成犯罪（热度：631604）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%80%83%E4%B8%8A%E5%B8%88%E8%8C%83%E5%AD%A6%E6%A0%A1%E5%8D%B4%E8%A2%AB%E4%BA%BA%E5%86%92%E5%90%8D%E9%A1%B6%E6%9B%BF%E4%BA%86%23" target="weibo">
-考上师范学校却被人冒名顶替了（热度：630997）
 </a>
 </li>
 
