@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/10/01 00:28:17 ~ 2024/10/18 11:29:59
+本榜单时间：2024/10/01 00:28:17 ~ 2024/10/18 11:44:06
 </p>
 </blockquote>
 <p>
@@ -3615,6 +3615,12 @@ K总回应恋情（热度：872466）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23papi%E9%85%B1%E9%97%AE%E9%BB%84%E5%9C%A3%E4%BE%9D%E6%9D%A8%E5%AD%90%E6%98%AF%E6%BC%94%E7%9A%84%E8%BF%98%E6%98%AF%E7%9C%9F%E7%9A%84%23" target="weibo">
+papi酱问黄圣依杨子是演的还是真的（热度：868295）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%8F%B0%E5%8A%9E%E5%9B%9E%E5%BA%94%E7%BD%91%E6%B0%91%E8%B4%A8%E7%96%91%E5%8F%B0%E6%B9%BE%E8%89%BA%E4%BA%BA%E5%90%B4%E6%85%B7%E4%BB%81%23" target="weibo">
 国台办回应网民质疑台湾艺人吴慷仁（热度：868089）
 </a>
@@ -6005,12 +6011,6 @@ BLG对战T1（热度：625679）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23A%E8%82%A1%E9%80%BC%E8%BF%91%E6%B6%A8%E5%81%9C%E5%BC%80%E7%9B%98%23" target="weibo">
 A股逼近涨停开盘（热度：621552）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8D%E6%B3%95%E5%88%86%E5%AD%90%E5%85%A5%E4%BE%B5%E5%B9%BF%E4%B8%9C%E7%9C%81%E6%95%99%E8%82%B2%E5%8E%85%E7%9F%AD%E4%BF%A1%E5%B9%B3%E5%8F%B0%23" target="weibo">
-不法分子入侵广东省教育厅短信平台（热度：621543）
 </a>
 </li>
 
