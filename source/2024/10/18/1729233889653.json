@@ -1,0 +1,410 @@
+{
+  "runTime": 1729233889653,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1180066,
+        "num": 1188810,
+        "word": "周杰伦 假冒我妈太扯了",
+        "onboard_time": 1729230979,
+        "rank": 0,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 650947,
+        "num": 650947,
+        "word": "被中国制裁的美国公司去坑美国军方了",
+        "onboard_time": 1729232061,
+        "rank": 1,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 23956,
+        "num": 582035,
+        "word": "丰收的田野多姿多彩",
+        "onboard_time": 1729219879,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 581336,
+        "num": 581336,
+        "word": "95后研究员4个博士学位本人发声",
+        "onboard_time": 1729226121,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 559613,
+        "num": 559613,
+        "word": "papi酱问黄圣依杨子是演的还是真的",
+        "onboard_time": 1729222038,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 544157,
+        "num": 544157,
+        "word": "金正恩说打消与韩国同族意识",
+        "onboard_time": 1729226061,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 533583,
+        "num": 533583,
+        "word": "A股",
+        "onboard_time": 1729228700,
+        "rank": 6,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 513458,
+        "num": 513458,
+        "word": "医学生发大体老师头骨合影引不满",
+        "onboard_time": 1729221920,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 508924,
+        "num": 508924,
+        "word": "王曼昱因伤退出冠军赛",
+        "onboard_time": 1729232780,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 340594,
+        "num": 504499,
+        "word": "金饰价格持续大涨",
+        "onboard_time": 1729224981,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 523062,
+        "num": 503507,
+        "word": "小学副校长被控性侵16岁女学生",
+        "onboard_time": 1729223901,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 500165,
+        "num": 500165,
+        "word": "珠帘玉幕",
+        "onboard_time": 1729229901,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 493324,
+        "num": 493324,
+        "word": "覃海洋成功晋级后挥手竖大拇指",
+        "onboard_time": 1729222038,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 444404,
+        "num": 444404,
+        "word": "迪丽热巴陈星旭背对背身高差",
+        "onboard_time": 1729230920,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 436893,
+        "num": 436893,
+        "word": "连线听泉鉴宝男子已被重庆警方找到",
+        "onboard_time": 1729208359,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 356688,
+        "num": 356688,
+        "word": "易梦玲走秀",
+        "onboard_time": 1729228759,
+        "rank": 15,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 296981,
+        "num": 296981,
+        "word": "起猛了看见农民给稻田挠痒痒",
+        "onboard_time": 1729230979,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222171,
+        "num": 254307,
+        "word": "刘学义说吴谨言太疯了",
+        "onboard_time": 1729231942,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 248056,
+        "num": 248056,
+        "word": "娜扎晒和刘诗诗倪妮的合照",
+        "onboard_time": 1729227381,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23307,
+        "num": 245610,
+        "word": "龚俊杨幂打招呼氛围感",
+        "onboard_time": 1729233262,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 359822,
+        "num": 245602,
+        "word": "女子大面积烧伤忍剧痛抱起孩子安慰",
+        "onboard_time": 1729227561,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244415,
+        "num": 244415,
+        "word": "教师非教学负担为什么越减越重",
+        "onboard_time": 1729220719,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239776,
+        "num": 239776,
+        "word": "小英回应开着路虎去种地",
+        "onboard_time": 1729222879,
+        "rank": 22,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 229196,
+        "num": 229196,
+        "word": "婚姻体检",
+        "onboard_time": 1729231880,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 214560,
+        "num": 214560,
+        "word": "央行真金白银拿出5000亿支持A股",
+        "onboard_time": 1729232600,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 212497,
+        "num": 212497,
+        "word": "鹿晗乱丢烟头",
+        "onboard_time": 1729233622,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201219,
+        "num": 201219,
+        "word": "何猷君 点天灯",
+        "onboard_time": 1729208058,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196010,
+        "num": 196010,
+        "word": "黄圣依 忍者",
+        "onboard_time": 1729233262,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186234,
+        "num": 186234,
+        "word": "武汉公交回应下车请走好有哀悼歧义",
+        "onboard_time": 1729218798,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186024,
+        "num": 186024,
+        "word": "朴彩英首单官宣",
+        "onboard_time": 1729226241,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 183152,
+        "num": 183152,
+        "word": "VOGUE上桌聊天",
+        "onboard_time": 1729232600,
+        "rank": 30,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 161593,
+        "num": 161593,
+        "word": "GALA说没想到会输",
+        "onboard_time": 1729226721,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 161384,
+        "num": 161384,
+        "word": "2人建群抢红包赚8万被判开设赌场",
+        "onboard_time": 1729231460,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159861,
+        "num": 159861,
+        "word": "A股大涨那几天究竟激活了多少股民",
+        "onboard_time": 1729226481,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155689,
+        "num": 155689,
+        "word": "WTT蒙彼利埃冠军赛2024",
+        "onboard_time": 1729233681,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144956,
+        "num": 144956,
+        "word": "不疼痛的乳腺结节更需警惕",
+        "onboard_time": 1729228759,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 144752,
+        "num": 144752,
+        "word": "拜登就以军称打死辛瓦尔发声",
+        "onboard_time": 1729223240,
+        "rank": 36,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 15570,
+        "num": 143934,
+        "word": "核能自嗨锅上架淘宝",
+        "onboard_time": 1729229600,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143845,
+        "num": 143845,
+        "word": "惠英红杨幂新合照",
+        "onboard_time": 1729228941,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 140935,
+        "num": 140935,
+        "word": "让gala离开李姓试试",
+        "onboard_time": 1729230560,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 135066,
+        "num": 135066,
+        "word": "杨子做饭",
+        "onboard_time": 1729232541,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133830,
+        "num": 133830,
+        "word": "怎敌她千娇百媚",
+        "onboard_time": 1729231220,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133282,
+        "num": 133282,
+        "word": "开始推理吧3原班人马",
+        "onboard_time": 1729231760,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131751,
+        "num": 131751,
+        "word": "周震南cos孙悟空至尊宝",
+        "onboard_time": 1729233201,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121785,
+        "num": 121785,
+        "word": "刚退休正是藏不住爱的年纪",
+        "onboard_time": 1729228579,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 116943,
+        "num": 116943,
+        "word": "锦月如歌首发预告",
+        "onboard_time": 1729229480,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 21933,
+        "num": 114743,
+        "word": "vivo拍出了中华五千年非遗之美",
+        "onboard_time": 1729233801,
+        "rank": 46,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 114484,
+        "num": 114484,
+        "word": "付航 差生也是有优点的",
+        "onboard_time": 1729233860,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113567,
+        "num": 113567,
+        "word": "我的26岁女房客拍电视剧了",
+        "onboard_time": 1729233860,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108742,
+        "num": 108742,
+        "word": "00后中介失业转行卖车月入10万",
+        "onboard_time": 1729225881,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#弘扬科学精神积极投身科技创新#"
+    }
+  }
+}

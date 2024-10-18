@@ -1,6 +1,6 @@
 {
   "startTime": 1729182564055,
-  "endTime": 1729233070866,
+  "endTime": 1729233889653,
   "band_list": [
     {
       "raw_hot": 2689271,
@@ -99,6 +99,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1180066,
+      "num": 1188810,
+      "word": "周杰伦 假冒我妈太扯了",
+      "onboard_time": 1729230979,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1148104,
       "num": 1148104,
       "word": "降息",
@@ -129,14 +137,6 @@
       "onboard_time": 1729226121,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 955964,
-      "num": 1152954,
-      "word": "周杰伦 假冒我妈太扯了",
-      "onboard_time": 1729230979,
-      "rank": 0,
-      "category": "艺人"
     },
     {
       "raw_hot": 915320,
@@ -243,6 +243,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 650947,
+      "num": 650947,
+      "word": "被中国制裁的美国公司去坑美国军方了",
+      "onboard_time": 1729232061,
+      "rank": 19,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 646487,
       "num": 646487,
       "word": "民警搜山喊了4小时找回5名大学生",
@@ -323,6 +331,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 533583,
+      "num": 533583,
+      "word": "A股",
+      "onboard_time": 1729228700,
+      "rank": 43,
+      "category": "财经"
+    },
+    {
       "raw_hot": 533185,
       "num": 687651,
       "word": "肖战跟孔笙导演拥抱告别",
@@ -345,6 +361,14 @@
       "onboard_time": 1729217300,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 508924,
+      "num": 508924,
+      "word": "王曼昱因伤退出冠军赛",
+      "onboard_time": 1729232780,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 506598,
@@ -411,6 +435,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 444404,
+      "num": 444404,
+      "word": "迪丽热巴陈星旭背对背身高差",
+      "onboard_time": 1729230920,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 441968,
       "num": 384639,
       "word": "黄圣依想离婚是受不了爹式管理",
@@ -451,22 +483,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 401006,
-      "num": 401006,
-      "word": "A股",
-      "onboard_time": 1729228700,
-      "rank": 43,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 389256,
-      "num": 389256,
-      "word": "迪丽热巴陈星旭背对背身高差",
-      "onboard_time": 1729230920,
-      "rank": 15,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 386391,
       "num": 386391,
       "word": "赵露思飞吻",
@@ -497,14 +513,6 @@
       "onboard_time": 1729213160,
       "rank": 9,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 345055,
-      "num": 345055,
-      "word": "被中国制裁的美国公司去坑美国军方了",
-      "onboard_time": 1729232061,
-      "rank": 19,
-      "category": "国外时政"
     },
     {
       "raw_hot": 340018,
@@ -739,6 +747,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 222171,
+      "num": 349096,
+      "word": "刘学义说吴谨言太疯了",
+      "onboard_time": 1729231942,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 221387,
       "num": 221387,
       "word": "UNIQ TFBOYS前辈挺可爱的",
@@ -779,6 +795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 214560,
+      "num": 214560,
+      "word": "央行真金白银拿出5000亿支持A股",
+      "onboard_time": 1729232600,
+      "rank": 33,
+      "category": "财经"
+    },
+    {
       "raw_hot": 213909,
       "num": 213909,
       "word": "拜登祝贺以军打死辛瓦尔",
@@ -801,6 +825,14 @@
       "onboard_time": 1729228941,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 212497,
+      "num": 212497,
+      "word": "鹿晗乱丢烟头",
+      "onboard_time": 1729233622,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 209327,
@@ -867,6 +899,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 196010,
+      "num": 196010,
+      "word": "黄圣依 忍者",
+      "onboard_time": 1729233262,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 193704,
       "num": 193704,
       "word": "国医少年志开播",
@@ -915,12 +955,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 183268,
-      "num": 183268,
-      "word": "王曼昱因伤退出冠军赛",
-      "onboard_time": 1729232780,
-      "rank": 27,
-      "category": "体育"
+      "raw_hot": 183152,
+      "num": 183152,
+      "word": "VOGUE上桌聊天",
+      "onboard_time": 1729232600,
+      "rank": 38,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 182572,
@@ -1051,14 +1091,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 170998,
-      "num": 170998,
-      "word": "央行真金白银拿出5000亿支持A股",
-      "onboard_time": 1729232600,
-      "rank": 33,
-      "category": "财经"
-    },
-    {
       "raw_hot": 169488,
       "num": 169488,
       "word": "奔跑吧路透",
@@ -1105,6 +1137,14 @@
       "onboard_time": 1729229901,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 161384,
+      "num": 392780,
+      "word": "2人建群抢红包赚8万被判开设赌场",
+      "onboard_time": 1729231460,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 161008,
@@ -1161,6 +1201,14 @@
       "onboard_time": 1729229840,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 155689,
+      "num": 155689,
+      "word": "WTT蒙彼利埃冠军赛2024",
+      "onboard_time": 1729233681,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 154058,
@@ -1251,14 +1299,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 144429,
-      "num": 144429,
-      "word": "VOGUE上桌聊天",
-      "onboard_time": 1729232600,
-      "rank": 38,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 142743,
       "num": 142743,
       "word": "打卡秋天里的美丽中国",
@@ -1289,6 +1329,14 @@
       "onboard_time": 1729210401,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 140935,
+      "num": 140935,
+      "word": "让gala离开李姓试试",
+      "onboard_time": 1729230560,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 139834,
@@ -1339,6 +1387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 135066,
+      "num": 135066,
+      "word": "杨子做饭",
+      "onboard_time": 1729232541,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 133921,
       "num": 199588,
       "word": "樊振东vs罗铮",
@@ -1361,6 +1417,14 @@
       "onboard_time": 1729183276,
       "rank": 33,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 131751,
+      "num": 131751,
+      "word": "周震南cos孙悟空至尊宝",
+      "onboard_time": 1729233201,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 131435,
@@ -1459,14 +1523,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 116447,
-      "num": 116447,
-      "word": "杨子做饭",
-      "onboard_time": 1729232541,
-      "rank": 48,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 115608,
       "num": 138744,
       "word": "惠英红 百年大妖镇场子",
@@ -1475,12 +1531,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 114484,
+      "num": 114484,
+      "word": "付航 差生也是有优点的",
+      "onboard_time": 1729233860,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 114125,
       "num": 138670,
       "word": "樊振东说不存在恢复",
       "onboard_time": 1729164981,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 113567,
+      "num": 113567,
+      "word": "我的26岁女房客拍电视剧了",
+      "onboard_time": 1729233860,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 112650,
@@ -1537,14 +1609,6 @@
       "onboard_time": 1729154541,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 103183,
-      "num": 123072,
-      "word": "让gala离开李姓试试",
-      "onboard_time": 1729230560,
-      "rank": 45,
-      "category": "电竞"
     },
     {
       "raw_hot": 100671,
@@ -1643,14 +1707,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 78692,
-      "num": 392780,
-      "word": "2人建群抢红包赚8万被判开设赌场",
-      "onboard_time": 1729231460,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 77730,
       "num": 447446,
       "word": "以总理回应哈马斯领导人被打死",
@@ -1705,14 +1761,6 @@
       "onboard_time": 1729204574,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 66189,
-      "num": 349096,
-      "word": "刘学义说吴谨言太疯了",
-      "onboard_time": 1729231942,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 65432,
@@ -1979,6 +2027,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 23307,
+      "num": 245610,
+      "word": "龚俊杨幂打招呼氛围感",
+      "onboard_time": 1729233262,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 22522,
       "num": 59346,
       "word": "我赴黎维和官兵讲述惊险现场",
@@ -2001,6 +2057,14 @@
       "onboard_time": 1729207517,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 21933,
+      "num": 114743,
+      "word": "vivo拍出了中华五千年非遗之美",
+      "onboard_time": 1729233801,
+      "rank": 46,
+      "category": "数码"
     },
     {
       "raw_hot": 20575,
@@ -2043,7 +2107,7 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 15127,
+      "raw_hot": 15570,
       "num": 179653,
       "word": "核能自嗨锅上架淘宝",
       "onboard_time": 1729229600,
